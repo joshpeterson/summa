@@ -47,7 +47,8 @@ class TestArticleParser < Minitest::Test
 end
 
 $article = %{
-	Whether, besides philosophy, any further doctrine is required?
+	Whether, besides philosophy, any further doctrine is
+    required?
 
    Objection 1: It seems that, besides philosophical science, we have no
    need of any further knowledge. For man should not seek to know what is

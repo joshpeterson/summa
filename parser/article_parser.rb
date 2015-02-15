@@ -19,7 +19,8 @@ class ArticleParser
 	end
 
 	def parse_title(article_text)
-		article_text.strip.lines.first.strip
+		#article_text.strip.lines.first.strip
+		parse_section(article_text, "Whether").gsub "  ", " "
 	end
 
 	def parse_contrary(article_text)
