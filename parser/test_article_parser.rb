@@ -25,6 +25,11 @@ class TestArticleParser < Minitest::Test
 		assert_equal 2, @parser.article.objections.size
 	end
 
+	def test_VerifyNumberOfObjectionsForArticleWithNoObjectionReplies
+		local_parser = ArticleParser.new $article_without_objection_replies
+		assert_equal 2, local_parser.article.objections.size
+	end
+
 	def test_VerifyFirstObjectionStatement
 		expected_statement = %{Objection 1: It seems that, besides philosophical science, we have no need of any further knowledge. For man should not seek to know what is above reason: "Seek not the things that are too high for thee" (Ecclus. 3:22). But whatever is not above reason is fully treated of in philosophical science. Therefore any other knowledge besides philosophical science is superfluous.}
 		assert_equal expected_statement, @parser.article.objections[0].statement
@@ -109,4 +114,36 @@ $article = %{
    may not also be taught us by another science so far as they fall within
    revelation. Hence theology included in sacred doctrine differs in kind
    from that theology which is part of philosophy.
+}
+
+$article_without_objection_replies = %{
+	Whether sacred doctrine is a practical science?
+
+   Objection 1: It seems that sacred doctrine is a practical science; for
+   a practical science is that which ends in action according to the
+   Philosopher (Metaph. ii). But sacred doctrine is ordained to action:
+   "Be ye doers of the word, and not hearers only" (James 1:22). Therefore
+   sacred doctrine is a practical science.
+
+   Objection 2: Further, sacred doctrine is divided into the Old and the
+   New Law. But law implies a moral science which is a practical science.
+   Therefore sacred doctrine is a practical science.
+
+   On the contrary, Every practical science is concerned with human
+   operations; as moral science is concerned with human acts, and
+   architecture with buildings. But sacred doctrine is chiefly concerned
+   with God, whose handiwork is especially man. Therefore it is not a
+   practical but a speculative science.
+
+   I answer that, Sacred doctrine, being one, extends to things which
+   belong to different philosophical sciences because it considers in each
+   the same formal aspect, namely, so far as they can be known through
+   divine revelation. Hence, although among the philosophical sciences one
+   is speculative and another practical, nevertheless sacred doctrine
+   includes both; as God, by one and the same science, knows both Himself
+   and His works. Still, it is speculative rather than practical because
+   it is more concerned with divine things than with human acts; though it
+   does treat even of these latter, inasmuch as man is ordained by them to
+   the perfect knowledge of God in which consists eternal bliss. This is a
+   sufficient answer to the Objections.
 }

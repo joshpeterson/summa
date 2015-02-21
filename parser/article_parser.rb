@@ -19,7 +19,6 @@ class ArticleParser
 	end
 
 	def parse_title(article_text)
-		#article_text.strip.lines.first.strip
 		parse_section(article_text, "Whether").gsub "  ", " "
 	end
 
@@ -44,6 +43,9 @@ class ArticleParser
 
 	def parse_section(article_text, tag)
 		startIndex = article_text.index /^\s*#{tag}/
+		if startIndex == nil
+			return nil
+		end
 		endIndex = article_text.index /^\n/, startIndex+1
 		if endIndex == nil
 			endIndex = article_text.size - 1
