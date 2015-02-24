@@ -19,7 +19,9 @@ class ArticleParser
 	end
 
 	def parse_title(article_text)
-		parse_section(article_text, "Whether").gsub "  ", " "
+		title = parse_section(article_text, "Whether").gsub "  ", " "
+		title = title.sub(/ \[.*\]/, "")
+		title.sub("*", "")
 	end
 
 	def parse_contrary(article_text)
