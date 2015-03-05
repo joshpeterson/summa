@@ -1,5 +1,6 @@
+gem "minitest"
 require "minitest/autorun"
-require_relative "summa_parser"
+require_relative "../parser/summa_parser"
 
 class TestSummaParser < Minitest::Test
 	def setup

@@ -1,5 +1,6 @@
+gem "minitest"
 require "minitest/autorun"
-require_relative "article_parser"
+require_relative "../parser/article_parser"
 
 class TestArticleParser < Minitest::Test
 	def setup
