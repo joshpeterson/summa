@@ -12,13 +12,13 @@ class TestQuestionParser < MiniTest::Test
 		assert_equal expected_title, @parser.question.title
 	end
 
-	def test_VerifyContext
+	def test_VerifyContent
 		expected_context = %{Since to understand belongs to living beings, after considering the divine knowledge and intellect, we must consider the divine life. About this, four points of inquiry arise:
 (1) To whom does it belong to live?
 (2) What is life?
 (3) Whether life is properly attributed to God?
 (4) Whether all things in God are life?}
-	assert_equal expected_context, @parser.question.content
+	    assert_equal expected_context, @parser.question.content
 	end
 
 	def test_VerifyCorrectNumberOfArticlesFound
@@ -33,6 +33,16 @@ class TestQuestionParser < MiniTest::Test
 	def test_VerifySecondArticleTitle
 		expected_title = "Whether life is an operation?"
 		assert_equal expected_title, @parser.question.articles[1].title
+	end
+
+	def test_VerifyThirdArticleTitle
+		expected_title = "Whether life is properly attributed to God?"
+		assert_equal expected_title, @parser.question.articles[2].title
+	end
+
+	def test_VerifyFourthArticleTitle
+		expected_title = "Whether all things are life in God?"
+		assert_equal expected_title, @parser.question.articles[3].title
 	end
 end
 
