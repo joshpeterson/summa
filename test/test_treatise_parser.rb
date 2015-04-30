@@ -16,6 +16,12 @@ class TestTreatiseParser < MiniTest::Test
         assert_nil @parser.treatise.prologue
 	end
 
+	def test_VerifyPrologueInTreatiseWithPrologue
+        expected_prologue = %{Since, as Damascene states (De Fide Orth. ii, 12), man is said to be made in God's image, in so far as the image implies "an intelligent being endowed with free-will and self-movement": now that we have treated of the exemplar, i.e. God, and of those things which came forth from the power of God in accordance with His will; it remains for us to treat of His image, i.e. man, inasmuch as he too is the principle of his actions, as having free-will and control of his actions.}
+		parser = TreatiseParser.new $treatise_with_prologue
+        assert_equal expected_prologue, parser.treatise.prologue
+	end
+
 	def test_VerifyCorrectNumberOfQuestionsFound
         skip "Question parsing needs to be implemented."
         assert_equal 2, @parser.treatise.questions.size
@@ -840,4 +846,47 @@ TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
    infinity, but reduce all evils to some good cause, whence evil follows
    accidentally.
      __________________________________________________________________
+}
+
+$treatise_with_prologue = %{
+TREATISE ON THE LAST END (QQ[1]-5)
+     __________________________________________________________________
+
+  PROLOGUE
+
+   Since, as Damascene states (De Fide Orth. ii, 12), man is said to be
+   made in God's image, in so far as the image implies "an intelligent
+   being endowed with free-will and self-movement": now that we have
+   treated of the exemplar, i.e. God, and of those things which came forth
+   from the power of God in accordance with His will; it remains for us to
+   treat of His image, i.e. man, inasmuch as he too is the principle of
+   his actions, as having free-will and control of his actions.
+     __________________________________________________________________
+
+  OF MAN'S LAST END (EIGHT ARTICLES)
+
+   In this matter we shall consider first the last end of human life; and
+   secondly, those things by means of which man may advance towards this
+   end, or stray from the path: for the end is the rule of whatever is
+   ordained to the end. And since the last end of human life is stated to
+   be happiness, we must consider (1) the last end in general; (2)
+   happiness.
+
+   Under the first head there are eight points of inquiry:
+
+   (1) Whether it belongs to man to act for an end?
+
+   (2) Whether this is proper to the rational nature?
+
+   (3) Whether a man's actions are specified by their end?
+
+   (4) Whether there is any last end of human life?
+
+   (5) Whether one man can have several last ends?
+
+   (6) Whether man ordains all to the last end?
+
+   (7) Whether all men have the same last end?
+
+   (8) Whether all other creatures concur with man in that last end?
 }
