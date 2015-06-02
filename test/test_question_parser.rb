@@ -44,6 +44,12 @@ class TestQuestionParser < MiniTest::Test
 		expected_title = "Whether all things are life in God?"
 		assert_equal expected_title, @parser.question.articles[3].title
 	end
+
+    def test_VerifyEmptyQuestionTextCausesAnException
+        assert_raises ArgumentError do
+            QuestionParser.new ""
+        end
+    end
 end
 
 $question = %{  
