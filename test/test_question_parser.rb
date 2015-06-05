@@ -12,6 +12,12 @@ class TestQuestionParser < MiniTest::Test
 		assert_equal expected_title, @parser.question.title
 	end
 
+	def test_VerifyTitleWithMultipleLines
+		expected_title = "OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)"
+		parser = QuestionParser.new $question_with_multiline_title
+		assert_equal expected_title, parser.question.title
+	end
+
 	def test_VerifyContent
 		expected_context = %{Since to understand belongs to living beings, after considering the divine knowledge and intellect, we must consider the divine life. About this, four points of inquiry arise:
 (1) To whom does it belong to live?
@@ -416,5 +422,118 @@ $question = %{
    time may be called life in God in so far as life means understanding
    only, and inasmuch as they are understood by God; but not in so far as
    life implies a principle of operation.
+     __________________________________________________________________
+}
+
+$question_with_multiline_title = %{
+  OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE
+  ARTICLES)
+
+   In due sequence we have to inquire how the angels were made in the
+   order of grace and of glory; under which heading there are nine points
+   of inquiry:
+
+   (1) Were the angels created in beatitude?
+
+   (2) Did they need grace in order to turn to God?
+
+   (3) Were they created in grace?
+
+   (4) Did they merit their beatitude?
+
+   (5) Did they at once enter into beatitude after merit?
+
+   (6) Did they receive grace and glory according to their natural
+   capacities?
+
+   (7) After entering glory, did their natural love and knowledge remain?
+
+   (8) Could they have sinned afterwards?
+
+   (9) After entering into glory, could they advance farther?
+     __________________________________________________________________
+
+    Whether the angels were created in beatitude?
+
+   Objection 1: It would seem that the angels were created in beatitude.
+   For it is stated (De Eccl. Dogm. xxix) that "the angels who continue in
+   the beatitude wherein they were created, do not of their nature possess
+   the excellence they have." Therefore the angels were created in
+   beatitude.
+
+   Objection 2: Further, the angelic nature is nobler than the corporeal
+   creature. But the corporeal creature straightway from its creation was
+   made perfect and complete; nor did its lack of form take precedence in
+   time, but only in nature, as Augustine says (Gen. ad lit. i, 15).
+   Therefore neither did God create the angelic nature imperfect and
+   incomplete. But its formation and perfection are derived from its
+   beatitude, whereby it enjoys God. Therefore it was created in
+   beatitude.
+
+   Objection 3: Further, according to Augustine (Gen. ad lit. iv, 34; v,
+   5), the things which we read of as being made in the works of the six
+   days, were made together at one time; and so all the six days must have
+   existed instantly from the beginning of creation. But, according to his
+   exposition, in those six days, "the morning" was the angelic knowledge,
+   according to which they knew the Word and things in the Word. Therefore
+   straightway from their creation they knew the Word, and things in the
+   Word. But the bliss of the angels comes of seeing the Word.
+   Consequently the angels were in beatitude straightway from the very
+   beginning of their creation.
+
+   On the contrary, To be established or confirmed in good is of the
+   nature of beatitude. But the angels were not confirmed in good as soon
+   as they were created; the fall of some of them shows this. Therefore
+   the angels were not in beatitude from their creation.
+
+   I answer that, By the name of beatitude is understood the ultimate
+   perfection of rational or of intellectual nature; and hence it is that
+   it is naturally desired, since everything naturally desires its
+   ultimate perfection. Now there is a twofold ultimate perfection of
+   rational or of intellectual nature. The first is one which it can
+   procure of its own natural power; and this is in a measure called
+   beatitude or happiness. Hence Aristotle (Ethic. x) says that man's
+   ultimate happiness consists in his most perfect contemplation, whereby
+   in this life he can behold the best intelligible object; and that is
+   God. Above this happiness there is still another, which we look forward
+   to in the future, whereby "we shall see God as He is." This is beyond
+   the nature of every created intellect, as was shown above ([541]Q[12],
+   A[4]).
+
+   So, then, it remains to be said, that, as regards this first beatitude,
+   which the angel could procure by his natural power, he was created
+   already blessed. Because the angel does not acquire such beatitude by
+   any progressive action, as man does, but, as was observed above
+   ([542]Q[58], AA[3] ,4), is straightway in possession thereof, owing to
+   his natural dignity. But the angels did not have from the beginning of
+   their creation that ultimate beatitude which is beyond the power of
+   nature; because such beatitude is no part of their nature, but its end;
+   and consequently they ought not to have it immediately from the
+   beginning.
+
+   Reply to Objection 1: Beatitude is there taken for that natural
+   perfection which the angel had in the state of innocence.
+
+   Reply to Objection 2: The corporeal creature instantly in the beginning
+   of its creation could not have the perfection to which it is brought by
+   its operation; consequently, according to Augustine (Gen. ad. lit. v,
+   4,23; viii, 3), the growing of plants from the earth did not take place
+   at once among the first works, in which only the germinating power of
+   the plants was bestowed upon the earth. In the same way, the angelic
+   creature in the beginning of its existence had the perfection of its
+   nature; but it did not have the perfection to which it had to come by
+   its operation.
+
+   Reply to Objection 3: The angel has a twofold knowledge of the Word;
+   the one which is natural, and the other according to glory. He has a
+   natural knowledge whereby he knows the Word through a similitude
+   thereof shining in his nature; and he has a knowledge of glory whereby
+   he knows the Word through His essence. By both kinds of knowledge the
+   angel knows things in the Word; imperfectly by his natural knowledge,
+   and perfectly by his knowledge of glory. Therefore the first knowledge
+   of things in the Word was present to the angel from the outset of his
+   creation; while the second was not, but only when the angels became
+   blessed by turning to the good. And this is properly termed their
+   morning knowledge.
      __________________________________________________________________
 }

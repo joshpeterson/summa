@@ -31,7 +31,8 @@ $treatise = %{
 TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
      __________________________________________________________________
 
-  THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)
+  THE DISTINCTION OF THINGS
+  IN PARTICULAR (SIX ARTICLES)
 
    We must now consider the distinction of things in particular; and
    firstly the distinction of good and evil; and then the distinction of
