@@ -20,6 +20,14 @@ class TestPartParser < MiniTest::Test
 		parser = PartParser.new $part_with_prologue
         assert_equal $expected_prologue, parser.part.prologue
 	end
+
+	def test_VerifyTreatiseCount
+        assert_equal 10, @parser.part.treatises.length
+	end
+
+    def test_VerifyFirstTreatiseTitle
+        assert_equal "TREATISE ON SACRED DOCTRINE [1](Q[1])", @parser.part.treatises[0].title
+    end
 end
 
 $part = %{
