@@ -38,6 +38,9 @@ class QuestionParser
 		while article_index != nil do
 			start_index = question_text.index /^    Whether/, article_index
 			end_index = question_text.index /^     ____/, article_index
+            if (end_index == nil)
+                end_index = question_text.length - 1
+            end
 			parser = ArticleParser.new question_text[start_index..end_index]
 			articles.push parser.article
 			article_index = question_text.index /___\n\n    Whether/, article_index + 1

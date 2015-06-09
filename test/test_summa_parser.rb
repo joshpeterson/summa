@@ -7,145 +7,225 @@ class TestSummaParser < Minitest::Test
 		@parser = SummaParser.new $summa
 	end
 
-	def test_VerifyCorcectNumberOfArticlesFound
-		assert_equal 2, @parser.summa.articles.size
+	def test_VerifyCorrectNumberOfPartsFound
+		assert_equal 2, @parser.summa.parts.size
 	end
 
-	def test_VerifyFirstArticleTitle
-		expected_title = "Whether God can be known in this life by natural reason?"
-		assert_equal expected_title, @parser.summa.articles[0].title
+	def test_VerifyFirstPartTitle
+		expected_title = "FIRST PART (FP: QQ 1-119)"
+		assert_equal expected_title, @parser.summa.parts[0].title
 	end
 
-	def test_VerifySecondArticleTitle
-		expected_title = "Whether by grace a higher knowledge of God can be obtained than by natural reason?"
-		assert_equal expected_title, @parser.summa.articles[1].title
+	def test_VerifySecondPartTitle
+        expected_title = "FIRST PART OF THE SECOND PART (FS) (QQ[1]-114)"
+		assert_equal expected_title, @parser.summa.parts[1].title
 	end
 end
 
 $summa = %{
-    __________________________________________________________________
-
-    Whether God can be known in this life by natural reason?
-
-   Objection 1: It seems that by natural reason we cannot know God in this
-   life. For Boethius says (De Consol. v) that "reason does not grasp
-   simple form." But God is a supremely simple form, as was shown above
-   ([60]Q[3], A[7] ). Therefore natural reason cannot attain to know Him.
-
-   Objection 2: Further, the soul understands nothing by natural reason
-   without the use of the imagination. But we cannot have an imagination
-   of God, Who is incorporeal. Therefore we cannot know God by natural
-   knowledge.
-
-   Objection 3: Further, the knowledge of natural reason belongs to both
-   good and evil, inasmuch as they have a common nature. But the knowledge
-   of God belongs only to the good; for Augustine says (De Trin. i): "The
-   weak eye of the human mind is not fixed on that excellent light unless
-   purified by the justice of faith." Therefore God cannot be known by
-   natural reason.
-
-   On the contrary, It is written (Rom. 1:19), "That which is known of
-   God," namely, what can be known of God by natural reason, "is manifest
-   in them."
-
-   I answer that, Our natural knowledge begins from sense. Hence our
-   natural knowledge can go as far as it can be led by sensible things.
-   But our mind cannot be led by sense so far as to see the essence of
-   God; because the sensible effects of God do not equal the power of God
-   as their cause. Hence from the knowledge of sensible things the whole
-   power of God cannot be known; nor therefore can His essence be seen.
-   But because they are His effects and depend on their cause, we can be
-   led from them so far as to know of God "whether He exists," and to know
-   of Him what must necessarily belong to Him, as the first cause of all
-   things, exceeding all things caused by Him.
-
-   Hence we know that His relationship with creatures so far as to be the
-   cause of them all; also that creatures differ from Him, inasmuch as He
-   is not in any way part of what is caused by Him; and that creatures are
-   not removed from Him by reason of any defect on His part, but because
-   He superexceeds them all.
-
-   Reply to Objection 1: Reason cannot reach up to simple form, so as to
-   know "what it is"; but it can know "whether it is."
-
-   Reply to Objection 2: God is known by natural knowledge through the
-   images of His effects.
-
-   Reply to Objection 3: As the knowledge of God's essence is by grace, it
-   belongs only to the good; but the knowledge of Him by natural reason
-   can belong to both good and bad; and hence Augustine says (Retract. i),
-   retracting what he had said before: "I do not approve what I said in
-   prayer, 'God who willest that only the pure should know truth.' For it
-   can be answered that many who are not pure can know many truths," i.e.
-   by natural reason.
+                           FIRST PART (FP: QQ 1-119)
      __________________________________________________________________
 
-    Whether by grace a higher knowledge of God can be obtained than by natural
-    reason?
+TREATISE ON SACRED DOCTRINE [1](Q[1])
+     __________________________________________________________________
 
-   Objection 1: It seems that by grace a higher knowledge of God is not
-   obtained than by natural reason. For Dionysius says (De Mystica Theol.
-   i) that whoever is the more united to God in this life, is united to
-   Him as to one entirely unknown. He says the same of Moses, who
-   nevertheless obtained a certain excellence by the knowledge conferred
-   by grace. But to be united to God while ignoring of Him "what He is,"
-   comes about also by natural reason. Therefore God is not more known to
-   us by grace than by natural reason.
+  THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)
 
-   Objection 2: Further, we can acquire the knowledge of divine things by
-   natural reason only through the imagination; and the same applies to
-   the knowledge given by grace. For Dionysius says (Coel. Hier. i) that
-   "it is impossible for the divine ray to shine upon us except as
-   screened round about by the many colored sacred veils." Therefore we
-   cannot know God more fully by grace than by natural reason.
+   To place our purpose within proper limits, we first endeavor to
+   investigate the nature and extent of this sacred doctrine. Concerning
+   this there are ten points of inquiry:
 
-   Objection 3: Further, our intellect adheres to God by grace of faith.
-   But faith does not seem to be knowledge; for Gregory says (Hom. xxvi in
-   Ev.) that "things not seen are the objects of faith, and not of
-   knowledge." Therefore there is not given to us a more excellent
-   knowledge of God by grace.
+   (1) Whether it is necessary?
 
-   On the contrary, The Apostle says that "God hath revealed to us His
-   spirit," what "none of the princes of this world knew" (1 Cor. 2:10),
-   namely, the philosophers, as the gloss expounds.
+   (2) Whether it is a science?
 
-   I answer that, We have a more perfect knowledge of God by grace than by
-   natural reason. Which is proved thus. The knowledge which we have by
-   natural reason contains two things: images derived from the sensible
-   objects; and the natural intelligible light, enabling us to abstract
-   from them intelligible conceptions.
+   (3) Whether it is one or many?
 
-   Now in both of these, human knowledge is assisted by the revelation of
-   grace. For the intellect's natural light is strengthened by the
-   infusion of gratuitous light; and sometimes also the images in the
-   human imagination are divinely formed, so as to express divine things
-   better than those do which we receive from sensible objects, as appears
-   in prophetic visions; while sometimes sensible things, or even voices,
-   are divinely formed to express some divine meaning; as in the Baptism,
-   the Holy Ghost was seen in the shape of a dove, and the voice of the
-   Father was heard, "This is My beloved Son" (Mat. 3:17).
+   (4) Whether it is speculative or practical?
 
-   Reply to Objection 1: Although by the revelation of grace in this life
-   we cannot know of God "what He is," and thus are united to Him as to
-   one unknown; still we know Him more fully according as many and more
-   excellent of His effects are demonstrated to us, and according as we
-   attribute to Him some things known by divine revelation, to which
-   natural reason cannot reach, as, for instance, that God is Three and
-   One.
+   (5) How it is compared with other sciences?
 
-   Reply to Objection 2: From the images either received from sense in the
-   natural order, or divinely formed in the imagination, we have so much
-   the more excellent intellectual knowledge, the stronger the
-   intelligible light is in man; and thus through the revelation given by
-   the images a fuller knowledge is received by the infusion of the divine
-   light.
+   (6) Whether it is the same as wisdom?
 
-   Reply to Objection 3: Faith is a kind of knowledge, inasmuch as the
-   intellect is determined by faith to some knowable object. But this
-   determination to one object does not proceed from the vision of the
-   believer, but from the vision of Him who is believed. Thus as far as
-   faith falls short of vision, it falls short of the knowledge which
-   belongs to science, for science determines the intellect to one object
-   by the vision and understanding of first principles.
+   (7) Whether God is its subject-matter?
+
+   (8) Whether it is a matter of argument?
+
+   (9) Whether it rightly employs metaphors and similes?
+
+   (10) Whether the Sacred Scripture of this doctrine may be expounded in
+   different senses?
+     __________________________________________________________________
+
+    Whether, besides philosophy, any further doctrine is required?
+
+   Objection 1: It seems that, besides philosophical science, we have no
+   need of any further knowledge. For man should not seek to know what is
+   above reason: "Seek not the things that are too high for thee" (Ecclus.
+   3:22). But whatever is not above reason is fully treated of in
+   philosophical science. Therefore any other knowledge besides
+   philosophical science is superfluous.
+
+   Objection 2: Further, knowledge can be concerned only with being, for
+   nothing can be known, save what is true; and all that is, is true. But
+   everything that is, is treated of in philosophical science---even God
+   Himself; so that there is a part of philosophy called theology, or the
+   divine science, as Aristotle has proved (Metaph. vi). Therefore,
+   besides philosophical science, there is no need of any further
+   knowledge.
+
+   On the contrary, It is written (2 Tim. 3:16): "All Scripture, inspired
+   of God is profitable to teach, to reprove, to correct, to instruct in
+   justice." Now Scripture, inspired of God, is no part of philosophical
+   science, which has been built up by human reason. Therefore it is
+   useful that besides philosophical science, there should be other
+   knowledge, i.e. inspired of God.
+
+   I answer that, It was necessary for man's salvation that there should
+   be a knowledge revealed by God besides philosophical science built up
+   by human reason. Firstly, indeed, because man is directed to God, as to
+   an end that surpasses the grasp of his reason: "The eye hath not seen,
+   O God, besides Thee, what things Thou hast prepared for them that wait
+   for Thee" (Is. 66:4). But the end must first be known by men who are to
+   direct their thoughts and actions to the end. Hence it was necessary
+   for the salvation of man that certain truths which exceed human reason
+   should be made known to him by divine revelation. Even as regards those
+   truths about God which human reason could have discovered, it was
+   necessary that man should be taught by a divine revelation; because the
+   truth about God such as reason could discover, would only be known by a
+   few, and that after a long time, and with the admixture of many errors.
+   Whereas man's whole salvation, which is in God, depends upon the
+   knowledge of this truth. Therefore, in order that the salvation of men
+   might be brought about more fitly and more surely, it was necessary
+   that they should be taught divine truths by divine revelation. It was
+   therefore necessary that besides philosophical science built up by
+   reason, there should be a sacred science learned through revelation.
+
+   Reply to Objection 1: Although those things which are beyond man's
+   knowledge may not be sought for by man through his reason,
+   nevertheless, once they are revealed by God, they must be accepted by
+   faith. Hence the sacred text continues, "For many things are shown to
+   thee above the understanding of man" (Ecclus. 3:25). And in this, the
+   sacred science consists.
+
+   Reply to Objection 2: Sciences are differentiated according to the
+   various means through which knowledge is obtained. For the astronomer
+   and the physicist both may prove the same conclusion: that the earth,
+   for instance, is round: the astronomer by means of mathematics (i.e.
+   abstracting from matter), but the physicist by means of matter itself.
+   Hence there is no reason why those things which may be learned from
+   philosophical science, so far as they can be known by natural reason,
+   may not also be taught us by another science so far as they fall within
+   revelation. Hence theology included in sacred doctrine differs in kind
+   from that theology which is part of philosophy.
+     __________________________________________________________________
+
+                 FIRST PART OF THE SECOND PART (FS) (QQ[1]-114)
+     __________________________________________________________________
+
+TREATISE ON THE LAST END (QQ[1]-5)
+     __________________________________________________________________
+
+  PROLOGUE
+
+   Since, as Damascene states (De Fide Orth. ii, 12), man is said to be
+   made in God's image, in so far as the image implies "an intelligent
+   being endowed with free-will and self-movement": now that we have
+   treated of the exemplar, i.e. God, and of those things which came forth
+   from the power of God in accordance with His will; it remains for us to
+   treat of His image, i.e. man, inasmuch as he too is the principle of
+   his actions, as having free-will and control of his actions.
+     __________________________________________________________________
+
+  OF MAN'S LAST END (EIGHT ARTICLES)
+
+   In this matter we shall consider first the last end of human life; and
+   secondly, those things by means of which man may advance towards this
+   end, or stray from the path: for the end is the rule of whatever is
+   ordained to the end. And since the last end of human life is stated to
+   be happiness, we must consider (1) the last end in general; (2)
+   happiness.
+
+   Under the first head there are eight points of inquiry:
+
+   (1) Whether it belongs to man to act for an end?
+
+   (2) Whether this is proper to the rational nature?
+
+   (3) Whether a man's actions are specified by their end?
+
+   (4) Whether there is any last end of human life?
+
+   (5) Whether one man can have several last ends?
+
+   (6) Whether man ordains all to the last end?
+
+   (7) Whether all men have the same last end?
+
+   (8) Whether all other creatures concur with man in that last end?
+     __________________________________________________________________
+
+    Whether it belongs to man to act for an end?
+
+   Objection 1: It would seem that it does not belong to man to act for an
+   end. For a cause is naturally first. But an end, in its very name,
+   implies something that is last. Therefore an end is not a cause. But
+   that for which a man acts, is the cause of his action; since this
+   preposition "for" indicates a relation of causality. Therefore it does
+   not belong to man to act for an end.
+
+   Objection 2: Further, that which is itself the last end is not for an
+   end. But in some cases the last end is an action, as the Philosopher
+   states (Ethic. i, 1). Therefore man does not do everything for an end.
+
+   Objection 3: Further, then does a man seem to act for an end, when he
+   acts deliberately. But man does many things without deliberation,
+   sometimes not even thinking of what he is doing; for instance when one
+   moves one's foot or hand, or scratches one's beard, while intent on
+   something else. Therefore man does not do everything for an end.
+
+   On the contrary, All things contained in a genus are derived from the
+   principle of that genus. Now the end is the principle in human
+   operations, as the Philosopher states (Phys. ii, 9). Therefore it
+   belongs to man to do everything for an end.
+
+   I answer that, Of actions done by man those alone are properly called
+   "human," which are proper to man as man. Now man differs from
+   irrational animals in this, that he is master of his actions. Wherefore
+   those actions alone are properly called human, of which man is master.
+   Now man is master of his actions through his reason and will; whence,
+   too, the free-will is defined as "the faculty and will of reason."
+   Therefore those actions are properly called human which proceed from a
+   deliberate will. And if any other actions are found in man, they can be
+   called actions "of a man," but not properly "human" actions, since they
+   are not proper to man as man. Now it is clear that whatever actions
+   proceed from a power, are caused by that power in accordance with the
+   nature of its object. But the object of the will is the end and the
+   good. Therefore all human actions must be for an end.
+
+   Reply to Objection 1: Although the end be last in the order of
+   execution, yet it is first in the order of the agent's intention. And
+   it is this way that it is a cause.
+
+   Reply to Objection 2: If any human action be the last end, it must be
+   voluntary, else it would not be human, as stated above. Now an action
+   is voluntary in one of two ways: first, because it is commanded by the
+   will, e.g. to walk, or to speak; secondly, because it is elicited by
+   the will, for instance the very act of willing. Now it is impossible
+   for the very act elicited by the will to be the last end. For the
+   object of the will is the end, just as the object of sight is color:
+   wherefore just as the first visible cannot be the act of seeing,
+   because every act of seeing is directed to a visible object; so the
+   first appetible, i.e. the end, cannot be the very act of willing.
+   Consequently it follows that if a human action be the last end, it must
+   be an action commanded by the will: so that there, some action of man,
+   at least the act of willing, is for the end. Therefore whatever a man
+   does, it is true to say that man acts for an end, even when he does
+   that action in which the last end consists.
+
+   Reply to Objection 3: Such like actions are not properly human actions;
+   since they do not proceed from deliberation of the reason, which is the
+   proper principle of human actions. Therefore they have indeed an
+   imaginary end, but not one that is fixed by reason.
      __________________________________________________________________
 }

@@ -52,7 +52,6 @@ class PartParser
                 end_index = part_text.length - 1
             end
             treatise_text = part_text[start_index..end_index]
-            #print treatise_text
             treatise_parser = TreatiseParser.new treatise_text
             treatises[i] = treatise_parser.treatise
             start_index = next_start_index
