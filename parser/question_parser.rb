@@ -21,13 +21,13 @@ class QuestionParser
 	end
 
 	def parse_title(question_text)
-		start_index = question_text.index /^  [A-Z]/
+		start_index = question_text.index /^  [A-Z][A-Z]/
 		end_index = question_text.index /^\n/, start_index+1
 		return question_text[start_index..end_index].gsub("\n", " ").gsub(/[ ]{2,}/, " ").strip
 	end
 
 	def parse_content(question_text)
-		start_index = question_text.index(/\)$/) + 1
+        start_index = question_text.index(/\).?\n?/m) + 1
 		end_index = question_text.index /^     ____/, start_index+1
 		return question_text[start_index..end_index].gsub("\n", " ").gsub("    ", " ").gsub("  (", "\n(").strip
 	end

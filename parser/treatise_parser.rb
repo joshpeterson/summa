@@ -47,15 +47,13 @@ class TreatiseParser
             treatise_text = treatise_text[prologue_end_index+1..-1]
 		end
 
-        number_of_questions = treatise_text.scan(/^  [A-Z]\n*?.*?\)/m).size
+        number_of_questions = treatise_text.scan(/^  [A-Z][A-Z]\n*?.*?\)/m).size
 		questions = Array.new number_of_questions
 
-        previous_question_text = "Previous"
-
-        start_index = treatise_text.index /^  [A-Z]\n*?.*?\)/m
+        start_index = treatise_text.index /^  [A-Z][A-Z]\n*?.*?\)/m
 		for i in 0..number_of_questions-1
             after_question_title_index = treatise_text.index /^\n/, start_index+1
-            next_start_index = treatise_text.index /^  [A-Z]\n*?.*?\)/m, after_question_title_index+1
+            next_start_index = treatise_text.index /^  [A-Z][A-Z]\n*?.*?\)/m, after_question_title_index+1
             if next_start_index != nil
                 end_index = treatise_text.rindex /__/, next_start_index
             else

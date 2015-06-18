@@ -25,6 +25,11 @@ class TestTreatiseParser < MiniTest::Test
 	def test_VerifyCorrectNumberOfQuestionsFound
         assert_equal 2, @parser.treatise.questions.size
 	end
+
+	def test_VerifyCorrectNumberOfQuestionsFoundWithComplexQuestion
+		parser = TreatiseParser.new $treatise_with_complex_question
+        assert_equal 1, parser.treatise.questions.size
+	end
 end
 
 $treatise = %{
@@ -3906,5 +3911,140 @@ TREATISE ON THE LAST END (QQ[1]-5)
    Augustine added so as to include perfect Happiness---that he "desires
    nothing amiss": although the first part suffices if rightly understood,
    to wit, that "happy is he who has all he desires."
+     __________________________________________________________________
+}
+
+$treatise_with_complex_question = %{
+TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
+     __________________________________________________________________
+
+  IRONY* (TWO ARTICLES) [*Irony here must be given the signification of the
+  Greek {eironia}, whence it is derived: dissimulation of one's own good
+  points.]
+
+   We must now consider the distinction of things in particular; and
+   firstly the distinction of good and evil; and then the distinction of
+   the spiritual and corporeal creatures.
+
+   Concerning the first, we inquire into evil and its cause.
+
+   Concerning evil, six points are to be considered:
+
+   (1) Whether evil is a nature?
+
+   (2) Whether evil is found in things?
+
+   (3) Whether good is the subject of evil?
+
+   (4) Whether evil totally corrupts good?
+
+   (5) The division of evil into pain and fault.
+
+   (6) Whether pain, or fault, has more the nature of evil?
+     __________________________________________________________________
+
+    Whether evil is a nature?
+
+   Objection 1: It would seem that evil is a nature. For every genus is a
+   nature. But evil is a genus; for the Philosopher says (Praedic. x) that
+   "good and evil are not in a genus, but are genera of other things."
+   Therefore evil is a nature.
+
+   Objection 2: Further, every difference which constitutes a species is a
+   nature. But evil is a difference constituting a species of morality;
+   for a bad habit differs in species from a good habit, as liberality
+   from illiberality. Therefore evil signifies a nature.
+
+   Objection 3: Further, each extreme of two contraries is a nature. But
+   evil and good are not opposed as privation and habit, but as
+   contraries, as the Philosopher shows (Praedic. x) by the fact that
+   between good and evil there is a medium, and from evil there can be a
+   return to good. Therefore evil signifies a nature.
+
+   Objection 4: Further, what is not, acts not. But evil acts, for it
+   corrupts good. Therefore evil is a being and a nature.
+
+   Objection 5: Further, nothing belongs to the perfection of the universe
+   except what is a being and a nature. But evil belongs to the perfection
+   of the universe of things; for Augustine says (Enchir. 10,11) that the
+   "admirable beauty of the universe is made up of all things. In which
+   even what is called evil, well ordered and in its place, is the eminent
+   commendation of what is good." Therefore evil is a nature.
+
+   On the contrary, Dionysius says (Div. Nom. iv), "Evil is neither a
+   being nor a good."
+
+   I answer that, One opposite is known through the other, as darkness is
+   known through light. Hence also what evil is must be known from the
+   nature of good. Now, we have said above that good is everything
+   appetible; and thus, since every nature desires its own being and its
+   own perfection, it must be said also that the being and the perfection
+   of any nature is good. Hence it cannot be that evil signifies being, or
+   any form or nature. Therefore it must be that by the name of evil is
+   signified the absence of good. And this is what is meant by saying that
+   "evil is neither a being nor a good." For since being, as such, is
+   good, the absence of one implies the absence of the other.
+
+   Reply to Objection 1: Aristotle speaks there according to the opinion
+   of Pythagoreans, who thought that evil was a kind of nature; and
+   therefore they asserted the existence of the genus of good and evil.
+   For Aristotle, especially in his logical works, brings forward examples
+   that in his time were probable in the opinion of some philosophers. Or,
+   it may be said that, as the Philosopher says (Metaph. iv, text 6), "the
+   first kind of contrariety is habit and privation," as being verified in
+   all contraries; since one contrary is always imperfect in relation to
+   another, as black in relation to white, and bitter in relation to
+   sweet. And in this way good and evil are said to be genera not simply,
+   but in regard to contraries; because, as every form has the nature of
+   good, so every privation, as such, has the nature of evil.
+
+   Reply to Objection 2: Good and evil are not constitutive differences
+   except in morals, which receive their species from the end, which is
+   the object of the will, the source of all morality. And because good
+   has the nature of an end, therefore good and evil are specific
+   differences in moral things; good in itself, but evil as the absence of
+   the due end. Yet neither does the absence of the due end by itself
+   constitute a moral species, except as it is joined to the undue end;
+   just as we do not find the privation of the substantial form in natural
+   things, unless it is joined to another form. Thus, therefore, the evil
+   which is a constitutive difference in morals is a certain good joined
+   to the privation of another good; as the end proposed by the
+   intemperate man is not the privation of the good of reason, but the
+   delight of sense without the order of reason. Hence evil is not a
+   constitutive difference as such, but by reason of the good that is
+   annexed.
+
+   Reply to Objection 3: This appears from the above. For the Philosopher
+   speaks there of good and evil in morality. Because in that respect,
+   between good and evil there is a medium, as good is considered as
+   something rightly ordered, and evil as a thing not only out of right
+   order, but also as injurious to another. Hence the Philosopher says
+   (Ethic. iv, i) that a "prodigal man is foolish, but not evil." And from
+   this evil in morality, there may be a return to good, but not from any
+   sort of evil, for from blindness there is no return to sight, although
+   blindness is an evil.
+
+   Reply to Objection 4: A thing is said to act in a threefold sense. In
+   one way, formally, as when we say that whiteness makes white; and in
+   that sense evil considered even as a privation is said to corrupt good,
+   forasmuch as it is itself a corruption or privation of good. In another
+   sense a thing is said to act effectively, as when a painter makes a
+   wall white. Thirdly, it is said in the sense of the final cause, as the
+   end is said to effect by moving the efficient cause. But in these two
+   ways evil does not effect anything of itself, that is, as a privation,
+   but by virtue of the good annexed to it. For every action comes from
+   some form; and everything which is desired as an end, is a perfection.
+   And therefore, as Dionysius says (Div. Nom. iv): "Evil does not act,
+   nor is it desired, except by virtue of some good joined to it: while of
+   itself it is nothing definite, and beside the scope of our will and
+   intention."
+
+   Reply to Objection 5: As was said above, the parts of the universe are
+   ordered to each other, according as one acts on the other, and
+   according as one is the end and exemplar of the other. But, as was said
+   above, this can only happen to evil as joined to some good. Hence evil
+   neither belongs to the perfection of the universe, nor does it come
+   under the order of the same, except accidentally, that is, by reason of
+   some good joined to it.
      __________________________________________________________________
 }
