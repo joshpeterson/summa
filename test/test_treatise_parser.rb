@@ -4,31 +4,42 @@ require_relative '../parser/treatise_parser'
 
 class TestTreatiseParser < MiniTest::Test
   def setup
-    @parser = TreatiseParser.new $treatise
+    @parser = TreatiseParser.new($treatise)
   end
 
   def test_VerifyTitle
-    expected_title = "TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)"
-    assert_equal expected_title, @parser.treatise.title
+    expected_title = "TREATISE ON THE DISTINCTION OF GOOD AND EVIL"\
+                      " (QQ[48]-49)"
+    assert_equal(expected_title, @parser.treatise.title)
   end
 
   def test_VerifyPrologueIsNil
-        assert_nil @parser.treatise.prologue
+    assert_nil(@parser.treatise.prologue)
   end
 
   def test_VerifyPrologueInTreatiseWithPrologue
-        expected_prologue = %{Since, as Damascene states (De Fide Orth. ii, 12), man is said to be made in God's image, in so far as the image implies "an intelligent being endowed with free-will and self-movement": now that we have treated of the exemplar, i.e. God, and of those things which came forth from the power of God in accordance with His will; it remains for us to treat of His image, i.e. man, inasmuch as he too is the principle of his actions, as having free-will and control of his actions.}
-    parser = TreatiseParser.new $treatise_with_prologue
-        assert_equal expected_prologue, parser.treatise.prologue
+    expected_prologue = "Since, as Damascene states (De Fide Orth. ii,"\
+                        " 12), man is said to be made in God's image,"\
+                        " in so far as the image implies \"an"\
+                        " intelligent being endowed with free-will and"\
+                        " self-movement\": now that we have treated of"\
+                        " the exemplar, i.e. God, and of those things"\
+                        " which came forth from the power of God in"\
+                        " accordance with His will; it remains for us"\
+                        " to treat of His image, i.e. man, inasmuch as"\
+                        " he too is the principle of his actions, as"\
+                        " having free-will and control of his actions."
+    parser = TreatiseParser.new($treatise_with_prologue)
+    assert_equal(expected_prologue, parser.treatise.prologue)
   end
 
   def test_VerifyCorrectNumberOfQuestionsFound
-        assert_equal 2, @parser.treatise.questions.size
+    assert_equal(2, @parser.treatise.questions.size)
   end
 
   def test_VerifyCorrectNumberOfQuestionsFoundWithComplexQuestion
-    parser = TreatiseParser.new $treatise_with_complex_question
-        assert_equal 1, parser.treatise.questions.size
+    parser = TreatiseParser.new($treatise_with_complex_question)
+    assert_equal(1, parser.treatise.questions.size)
   end
 end
 

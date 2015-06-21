@@ -4,61 +4,65 @@ require_relative '../parser/question_parser'
 
 class TestQuestionParser < MiniTest::Test
   def setup
-    @parser = QuestionParser.new $question
+    @parser = QuestionParser.new($question)
   end
 
   def test_VerifyTitle
     expected_title = "THE LIFE OF GOD (FOUR ARTICLES)"
-    assert_equal expected_title, @parser.question.title
+    assert_equal(expected_title, @parser.question.title)
   end
 
   def test_VerifyTitleWithMultipleLines
-    expected_title = "OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)"
-    parser = QuestionParser.new $question_with_multiline_title
-    assert_equal expected_title, parser.question.title
+    expected_title = "OF THE PERFECTION OF THE ANGELS IN THE ORDER OF"\
+                      " GRACE AND OF GLORY (NINE ARTICLES)"
+    parser = QuestionParser.new($question_with_multiline_title)
+    assert_equal(expected_title, parser.question.title)
   end
 
   def test_VerifyContent
-    expected_context = %{Since to understand belongs to living beings, after considering the divine knowledge and intellect, we must consider the divine life. About this, four points of inquiry arise:
+    expected_context = "Since to understand belongs to living beings,"\
+                        " after considering the divine knowledge and"\
+                        " intellect, we must consider the divine life."\
+                        " About this, four points of inquiry arise:
 (1) To whom does it belong to live?
 (2) What is life?
 (3) Whether life is properly attributed to God?
-(4) Whether all things in God are life?}
-      assert_equal expected_context, @parser.question.content
+(4) Whether all things in God are life?"
+      assert_equal(expected_context, @parser.question.content)
   end
 
   def test_VerifyCorrectNumberOfArticlesFound
-    assert_equal 4, @parser.question.articles.size
+    assert_equal(4, @parser.question.articles.size)
   end
 
   def test_VerifyFirstArticleTitle
     expected_title = "Whether to live belongs to all natural things?"
-    assert_equal expected_title, @parser.question.articles[0].title
+    assert_equal(expected_title, @parser.question.articles[0].title)
   end
 
   def test_VerifySecondArticleTitle
     expected_title = "Whether life is an operation?"
-    assert_equal expected_title, @parser.question.articles[1].title
+    assert_equal(expected_title, @parser.question.articles[1].title)
   end
 
   def test_VerifyThirdArticleTitle
     expected_title = "Whether life is properly attributed to God?"
-    assert_equal expected_title, @parser.question.articles[2].title
+    assert_equal(expected_title, @parser.question.articles[2].title)
   end
 
   def test_VerifyFourthArticleTitle
     expected_title = "Whether all things are life in God?"
-    assert_equal expected_title, @parser.question.articles[3].title
+    assert_equal(expected_title, @parser.question.articles[3].title)
   end
 
-    def test_VerifyEmptyQuestionTextCausesAnException
-        assert_raises ArgumentError do
-            QuestionParser.new ""
-        end
+  def test_VerifyEmptyQuestionTextCausesAnException
+    assert_raises ArgumentError do
+      QuestionParser.new("")
     end
+  end
 end
 
-$question = %{  
+$question = %{
   THE LIFE OF GOD (FOUR ARTICLES)
 
    Since to understand belongs to living beings, after considering the
