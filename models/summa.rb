@@ -1,7 +1,7 @@
 class Summa
-	def initialize(parts)
-		@parts = parts
-	end
+  def initialize(parts)
+    @parts = parts
+  end
 
-	attr_reader :parts
+  attr_reader :parts
 end

@@ -2,11 +2,11 @@ require_relative '../models/treatise'
 require_relative 'question_parser'
 
 class TreatiseParser
-	def initialize(treatise_text)
-		@treatise = parse treatise_text
-	end
+  def initialize(treatise_text)
+    @treatise = parse treatise_text
+  end
 
-	attr_reader :treatise
+  attr_reader :treatise
 
     private
 
@@ -33,9 +33,9 @@ class TreatiseParser
 
     def get_prologue_start_and_end(treatise_text)
         start_index = treatise_text.index /^  PROLOGUE/
-		if start_index == nil
-			return nil, nil
-		end
+    if start_index == nil
+      return nil, nil
+    end
         start_index += "  PROLOGUE".length + 1
         end_index = treatise_text.index /^     ______/, start_index+1
         return start_index, end_index
@@ -43,15 +43,15 @@ class TreatiseParser
 
     def parse_questions(treatise_text)
         prologue_start_index, prologue_end_index = get_prologue_start_and_end(treatise_text)
-		if prologue_start_index != nil
+    if prologue_start_index != nil
             treatise_text = treatise_text[prologue_end_index+1..-1]
-		end
+    end
 
         number_of_questions = treatise_text.scan(/^  [A-Z][A-Z]\n*?.*?\)/m).size
-		questions = Array.new number_of_questions
+    questions = Array.new number_of_questions
 
         start_index = treatise_text.index /^  [A-Z][A-Z]\n*?.*?\)/m
-		for i in 0..number_of_questions-1
+    for i in 0..number_of_questions-1
             after_question_title_index = treatise_text.index /^\n/, start_index+1
             next_start_index = treatise_text.index /^  [A-Z][A-Z]\n*?.*?\)/m, after_question_title_index+1
             if next_start_index != nil
@@ -63,7 +63,7 @@ class TreatiseParser
             question_parser = QuestionParser.new question_text
             questions[i] = question_parser.question
             start_index = next_start_index
-		end
-		return questions
+    end
+    return questions
     end
 end

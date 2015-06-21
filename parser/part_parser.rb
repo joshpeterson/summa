@@ -2,11 +2,11 @@ require_relative '../models/part'
 require_relative 'treatise_parser'
 
 class PartParser
-	def initialize(part_text)
-		@part = parse part_text
-	end
+  def initialize(part_text)
+    @part = parse part_text
+  end
 
-	attr_reader :part
+  attr_reader :part
 
     private
 
@@ -41,10 +41,10 @@ class PartParser
     def parse_treatises(part_text)
         treatise_start = /^TREATISE/
         number_of_treatises = part_text.scan(treatise_start).size
-		treatises = Array.new number_of_treatises
+    treatises = Array.new number_of_treatises
 
         start_index = part_text.index treatise_start
-		for i in 0..number_of_treatises-1
+    for i in 0..number_of_treatises-1
             next_start_index = part_text.index treatise_start, start_index+1
             if next_start_index != nil
                 end_index = part_text.rindex /__/, next_start_index
@@ -55,7 +55,7 @@ class PartParser
             treatise_parser = TreatiseParser.new treatise_text
             treatises[i] = treatise_parser.treatise
             start_index = next_start_index
-		end
+    end
 
         return treatises
     end

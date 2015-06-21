@@ -3,27 +3,27 @@ require "minitest/autorun"
 require_relative '../parser/part_parser'
 
 class TestPartParser < MiniTest::Test
-	def setup
-		@parser = PartParser.new $part
-	end
+  def setup
+    @parser = PartParser.new $part
+  end
 
-	def test_VerifyTitle
-		expected_title = "FIRST PART (FP: QQ 1-119)"
-		assert_equal expected_title, @parser.part.title
-	end
+  def test_VerifyTitle
+    expected_title = "FIRST PART (FP: QQ 1-119)"
+    assert_equal expected_title, @parser.part.title
+  end
 
-	def test_VerifyPrologueForPartWithoutPrologue
+  def test_VerifyPrologueForPartWithoutPrologue
         assert_equal nil, @parser.part.prologue
-	end
+  end
 
-	def test_VerifyPrologueForPartWithPrologue
-		parser = PartParser.new $part_with_prologue
+  def test_VerifyPrologueForPartWithPrologue
+    parser = PartParser.new $part_with_prologue
         assert_equal $expected_prologue, parser.part.prologue
-	end
+  end
 
-	def test_VerifyTreatiseCount
+  def test_VerifyTreatiseCount
         assert_equal 2, @parser.part.treatises.length
-	end
+  end
 
     def test_VerifyFirstTreatiseTitle
         assert_equal "TREATISE ON SACRED DOCTRINE [1](Q[1])", @parser.part.treatises[0].title
