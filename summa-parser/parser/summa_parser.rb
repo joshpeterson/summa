@@ -12,7 +12,7 @@ class SummaParser
 
   def parse(summa_text)
     parts = parse_parts(summa_text)
-    Summa.new(parts)
+    SummaParsed.new(parts)
   end
 
   def parse_parts(summa_text)

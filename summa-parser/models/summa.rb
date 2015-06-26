@@ -1,4 +1,4 @@
-class Summa
+class SummaParsed
   def initialize(parts)
     @parts = parts
   end
