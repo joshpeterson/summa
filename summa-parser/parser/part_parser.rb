@@ -14,7 +14,7 @@ class PartParser
       title = parse_title(part_text)
       prologue = parse_prologue(part_text)
       treatises = parse_treatises(part_text)
-      part = Part.new(title, prologue, treatises)
+      part = PartParsed.new(title, prologue, treatises)
   end
 
   def parse_title(part_text)

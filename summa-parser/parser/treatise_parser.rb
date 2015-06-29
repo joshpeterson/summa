@@ -14,7 +14,7 @@ class TreatiseParser
     title = parse_title(treatise_text)
     prologue = parse_prologue(treatise_text)
     questions = parse_questions(treatise_text)
-    Treatise.new(title, prologue, questions)
+    TreatiseParsed.new(title, prologue, questions)
   end
 
   def parse_title(treatise_text)

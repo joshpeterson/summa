@@ -1,4 +1,4 @@
-class Part
+class PartParsed
   def initialize(title, prologue, treatises)
     @title = title
     @prologue = prologue

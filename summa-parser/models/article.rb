@@ -1,4 +1,4 @@
-class Article
+class ArticleParsed
   def initialize(title, contrary, answer, objections)
     @title = title
     @contrary = contrary

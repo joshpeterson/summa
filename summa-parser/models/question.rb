@@ -1,4 +1,4 @@
-class Question
+class QuestionParsed
   def initialize(title, content, articles)
     @title = title
     @content = content

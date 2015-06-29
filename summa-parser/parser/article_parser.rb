@@ -15,7 +15,7 @@ class ArticleParser
     contrary = parse_contrary(article_text)
     answer = parse_answer(article_text)
     objections = parse_objections(article_text)
-    Article.new(title, contrary, answer, objections)
+    ArticleParsed.new(title, contrary, answer, objections)
   end
 
   def parse_title(article_text)
@@ -38,7 +38,7 @@ class ArticleParser
     for i in 1..number_of_objections
       statement = parse_section(article_text, "Objection #{i}: ")
       reply = parse_section(article_text, "Reply to Objection #{i}: ")
-      objections[i-1] = Objection.new(statement, reply)
+      objections[i-1] = ObjectionParsed.new(statement, reply)
     end
     return objections
   end

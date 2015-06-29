@@ -17,7 +17,7 @@ class QuestionParser
     title = parse_title(question_text)
     content = parse_content(question_text)
     articles = parse_articles(question_text)
-    Question.new(title, content, articles)
+    QuestionParsed.new(title, content, articles)
   end
 
   def parse_title(question_text)

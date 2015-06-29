@@ -6,4 +6,46 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-require_relative 'summa-parser/main.rb'
+require_relative '../summa-parser/load.rb'
+
+print "Loading summa data from file\n"
+summa = load()
+dbSumma = SummaTheologica.create
+dbParts = Array.new
+for part in summa.parts
+  printf("Processing part: %s\n", part.title)
+  dbPart = Part.create(title: part.title, prologue: part.prologue,
+                       summa_theologica: dbSumma.id)
+  dbTreatises = Array.new
+  for treatise in part.treatises
+    printf("Processing treatise: %s\n", treatise.title)
+    dbTreatise = Treatise.create(title: treatise.title, prologue: treatise.prologue,
+                                 part: dbPart.id)
+    dbQuestions = Array.new
+    for question in treatise.questions
+      dbQuestion = Question.create(title: question.title, content: question.content,
+                                   treatise: dbTreatise.id)
+      dbArticles = Array.new
+      for article in questions.articles
+        dbArticle = Article.create(title: article.title, contrary: article.contrary,
+                                   answer: article.answer, question: dbQuestion.id)
+        dbObjections = Array.new
+        for objection in article.objections
+          dbObjection = Objection.create(statement: objection.statement,
+                                         reply: objection.reply,
+                                         article: dbArticle.id)
+          dbObjections.push(dbObjection)
+        end
+        dbArticle.objections = dbObjections
+        dbArticles.push(dbArticle)
+      end
+      dbQuestion.articles = dbArticles
+      dbQuestions.push(dbQuestion)
+    end
+    dbTreatise.questions = dbQuestions
+    dbTreatises.push(dbTreatise)
+  end
+  dbPart.treaises = dbTreatises
+  dbParts.push(dbPart)
+end
+dbSumma.parts = dbParts

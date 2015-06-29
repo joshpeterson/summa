@@ -1,4 +1,4 @@
-class Objection
+class ObjectionParsed
   def initialize(statement, reply)
     @statement = statement
     @reply = reply
