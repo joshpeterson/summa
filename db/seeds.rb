@@ -15,25 +15,29 @@ dbParts = Array.new
 for part in summa.parts
   printf("Processing part: %s\n", part.title)
   dbPart = Part.create(title: part.title, prologue: part.prologue,
-                       summa_theologica: dbSumma.id)
+                       summa_theologica: dbSumma)
   dbTreatises = Array.new
   for treatise in part.treatises
     printf("Processing treatise: %s\n", treatise.title)
-    dbTreatise = Treatise.create(title: treatise.title, prologue: treatise.prologue,
-                                 part: dbPart.id)
+    dbTreatise = Treatise.create(title: treatise.title,
+                                 prologue: treatise.prologue,
+                                 part: dbPart)
     dbQuestions = Array.new
     for question in treatise.questions
-      dbQuestion = Question.create(title: question.title, content: question.content,
-                                   treatise: dbTreatise.id)
+      dbQuestion = Question.create(title: question.title,
+                                   content: question.content,
+                                   treatise: dbTreatise)
       dbArticles = Array.new
-      for article in questions.articles
-        dbArticle = Article.create(title: article.title, contrary: article.contrary,
-                                   answer: article.answer, question: dbQuestion.id)
+      for article in question.articles
+        dbArticle = Article.create(title: article.title,
+                                   contrary: article.contrary,
+                                   answer: article.answer,
+                                   question: dbQuestion)
         dbObjections = Array.new
         for objection in article.objections
           dbObjection = Objection.create(statement: objection.statement,
                                          reply: objection.reply,
-                                         article: dbArticle.id)
+                                         article: dbArticle)
           dbObjections.push(dbObjection)
         end
         dbArticle.objections = dbObjections
@@ -45,7 +49,7 @@ for part in summa.parts
     dbTreatise.questions = dbQuestions
     dbTreatises.push(dbTreatise)
   end
-  dbPart.treaises = dbTreatises
+  dbPart.treatises = dbTreatises
   dbParts.push(dbPart)
 end
 dbSumma.parts = dbParts
