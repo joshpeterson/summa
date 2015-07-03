@@ -4,8 +4,10 @@
 # model remove the '{}' from the fixture names and add the columns immediately
 # below each fixture, per the syntax in the comments below
 #
-one: {}
+summa_one:
+  id: 1
 # column: value
 #
-two: {}
+summa_two:
+  id: 2
 #  column: value
