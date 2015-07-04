@@ -22,4 +22,8 @@ class SummaControllerTest < ActionController::TestCase
   test "should return summa with proper second part" do
     assert_includes(@titles, "SECOND PART")
   end
+
+  test "root routes to summa controller show action" do
+    assert_recognizes({:controller => 'summa', :action => 'show'}, '/')
+  end
 end
