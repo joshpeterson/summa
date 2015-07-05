@@ -1,11 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+  id: 1
   title: FIRST PART
   prologue: This part has a prologue
   summa_theologica_id: 1
 
 two:
+  id: 2
   title: SECOND PART
   prologue:
   summa_theologica_id: 1
+
+

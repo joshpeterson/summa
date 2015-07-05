@@ -6,8 +6,6 @@ class SummaControllerTest < ActionController::TestCase
     @titles = @summa.parts.collect { |p| p.title }
   end
 
-  # Functional tests for the controller
-
   test "should get index" do
     get(:index)
     assert_response(:success)
@@ -23,18 +21,5 @@ class SummaControllerTest < ActionController::TestCase
 
   test "should return summa with proper second part" do
     assert_includes(@titles, "SECOND PART")
-  end
-
-  # Routing tests
-
-  test "root routes to summa controller show action" do
-    assert_recognizes({:controller => 'summa', :action => 'index'}, '/')
-  end
-
-  # View tests
-
-  test "view has the proper title" do
-    get(:index)
-    assert_select 'title', "Summa Explorer"
   end
 end
