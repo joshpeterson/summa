@@ -1,2 +1,10 @@
-<h1>Parts#show</h1>
-<p>Find me in app/views/parts/show.html.erb</p>
+<% @title=@part.title %>
+<h1><%= @part.title %></h1>
+<% if !@part.prologue.nil? %>
+<h2><%= @part.prologue %></h2>
+<% end %>
+<ul>
+<% @part.treatises.each do |treatise| %>
+  <li><%= treatise.title %></li>
+<% end %>
+</ul>

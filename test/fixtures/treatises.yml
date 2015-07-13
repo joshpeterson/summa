@@ -1,9 +1,25 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  prologue: MyString
+  id: 1
+  title: First treatise
+  prologue: Prologue for first treatise
+  part_id: 1
 
 two:
-  title: MyString
-  prologue: MyString
+  id: 2
+  title: Second treatise
+  prologue:
+  part_id: 1
+
+three:
+  id: 3
+  title: Third treatise
+  prologue: Prologue for third treatise
+  part_id: 2
+
+four:
+  id: 4
+  title: Fourth treatise
+  prologue: Prologue for fourth treatise
+  part_id: 2
