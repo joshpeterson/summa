@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'treatises/show'
+
   get 'parts/show'
 
   get 'summa/index'

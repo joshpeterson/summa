@@ -1,0 +1,2 @@
+module TreatisesHelper
+end
