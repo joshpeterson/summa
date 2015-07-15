@@ -12,6 +12,7 @@ Rails.application.routes.draw do
   root 'summa#index'
 
   resources :parts, :only => [:show]
+  resources :treatises, :only => [:show]
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

@@ -1,9 +1,25 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  content: MyString
+  id: 1
+  title: First question
+  content: Content for first question.
+  treatise_id: 1
 
 two:
-  title: MyString
-  content: MyString
+  id: 2
+  title: Second question
+  content: Content for second question.
+  treatise_id: 1
+
+three:
+  id: 3
+  title: Third question
+  content: Content for third question.
+  treatise_id: 2
+
+four:
+  id: 4
+  title: Fourth question
+  content: Content for fourth question.
+  treatise_id: 2

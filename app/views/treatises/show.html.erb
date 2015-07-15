@@ -1,2 +1,12 @@
-<h1>Treatises#show</h1>
-<p>Find me in app/views/treatises/show.html.erb</p>
+<% if !@treatise.nil? %>
+  <% @title=@treatise.title %>
+  <h1><%= @treatise.title %></h1>
+  <% if !@treatise.prologue.nil? %>
+    <h2><%= @treatise.prologue %></h2>
+  <% end %>
+  <ul>
+  <% @treatise.questions.each do |question| %>
+    <li><%= question.title %></li>
+  <% end %>
+  </ul>
+<% end %>
