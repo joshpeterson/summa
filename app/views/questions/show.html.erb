@@ -1,2 +1,10 @@
-<h1>Questions#show</h1>
-<p>Find me in app/views/questions/show.html.erb</p>
+<% if !@question.nil? %>
+  <% @title=@question.title %>
+  <h1><%= @question.title %></h1>
+  <h2><%= @question.content %></h2>
+  <ul>
+  <% @question.articles.each do |article| %>
+    <li><%= article.title %></li>
+  <% end %>
+  </ul>
+<% end %>

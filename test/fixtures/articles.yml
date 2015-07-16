@@ -1,11 +1,29 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  contrary: MyString
-  answer: MyString
+  id: 1
+  title: First article title
+  contrary: First article contrary
+  answer: First article answer
+  question_id: 1
 
 two:
-  title: MyString
-  contrary: MyString
-  answer: MyString
+  id: 2
+  title: Second article title
+  contrary: Second article contrary
+  answer: Second article answer
+  question_id: 1
+
+three:
+  id: 3
+  title: Third article title
+  contrary: Third article contrary
+  answer: Third article answer
+  question_id: 2
+
+four:
+  id: 4
+  title: Fourth article title
+  contrary: Fourth article contrary
+  answer: Fourth article answer
+  question_id: 2
