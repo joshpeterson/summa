@@ -18,6 +18,7 @@ Rails.application.routes.draw do
   resources :parts, :only => [:show]
   resources :treatises, :only => [:show]
   resources :questions, :only => [:show]
+  resources :articles, :only => [:show]
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
