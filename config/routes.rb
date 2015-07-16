@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'articles/show'
+
   get 'questions/show'
 
   get 'treatises/show'
