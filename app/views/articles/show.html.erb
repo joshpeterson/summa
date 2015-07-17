@@ -1,2 +1,12 @@
-<h1>Articles#show</h1>
-<p>Find me in app/views/articles/show.html.erb</p>
+<% if !@article.nil? %>
+  <% @title=@article.title %>
+  <h1><%= @article.title %></h1>
+  <% @article.objections.each do |objection| %>
+    <div class="statement"><%= objection.statement %></div>
+  <% end %>
+  <p class="contrary"><%= @article.contrary %></p>
+  <p class="answer"><%= @article.answer %></p>
+  <% @article.objections.each do |objection| %>
+    <div class="reply"><%= objection.reply %></div>
+  <% end %>
+<% end %>

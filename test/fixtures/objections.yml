@@ -1,9 +1,25 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  statement: MyString
-  reply: MyString
+  id: 1
+  statement: First objection statement
+  reply: First objection reply
+  article_id: 1
 
 two:
-  statement: MyString
-  reply: MyString
+  id: 2
+  statement: Second objection statement
+  reply: Second objection reply
+  article_id: 1
+
+three:
+  id: 3
+  statement: Third objection statement
+  reply: Third objection reply
+  article_id: 2
+
+four:
+  id: 4
+  statement: Fourth objection statement
+  reply: Fourth objection reply
+  article_id: 2
