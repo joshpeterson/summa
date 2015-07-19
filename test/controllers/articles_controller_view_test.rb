@@ -18,17 +18,17 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   test "view has proper header" do
     get_article("1")
-    assert_select("h1", "First article title")
+    assert_select("div.title", "First article title")
   end
 
   test "view has proper contrary" do
     get_article("1")
-    assert_select("p.contrary", "First article contrary")
+    assert_select("div.contrary", "First article contrary")
   end
 
   test "view has proper answer" do
     get_article("1")
-    assert_select("p.answer", "First article answer")
+    assert_select("div.answer", "First article answer")
   end
 
   test "view for first article has proper number of objection statements" do

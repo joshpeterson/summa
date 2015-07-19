@@ -18,12 +18,12 @@ class QuestionsControllerViewTest < ActionController::TestCase
 
   test "view has proper header" do
     get_question("1")
-    assert_select("h1", "First question")
+    assert_select("div.title", "First question")
   end
 
   test "view has proper content" do
     get_question("1")
-    assert_select("h2", "Content for first question.")
+    assert_select("div.content", "Content for first question.")
   end
 
   test "view for first question has proper number of articles" do

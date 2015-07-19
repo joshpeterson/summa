@@ -18,17 +18,17 @@ class PartsControllerViewTest < ActionController::TestCase
 
   test "view has proper header" do
     get_part("1")
-    assert_select("h1", "FIRST PART")
+    assert_select("div.title", "FIRST PART")
   end
 
   test "view with a prologue has proper prologue" do
     get_part("1")
-    assert_select("h2", "This part has a prologue")
+    assert_select("div.prologue", "This part has a prologue")
   end
 
   test "view without a prologue does not have a prologue" do
     get_part("2")
-    assert_select("h2", false, "This part does not have a prologue")
+    assert_select("div.prologue", false, "This part does not have a prologue")
   end
 
   test "view for first part has proper number of treatises" do

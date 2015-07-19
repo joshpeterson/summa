@@ -1,8 +1,8 @@
 <% if !@treatise.nil? %>
   <% @title=@treatise.title %>
-  <h1><%= @treatise.title %></h1>
+  <div class="title"><%= @treatise.title %></div>
   <% if !@treatise.prologue.nil? %>
-    <h2><%= @treatise.prologue %></h2>
+    <div class="prologue"><%= @treatise.prologue %></div>
   <% end %>
   <ul>
   <% @treatise.questions.each do |question| %>

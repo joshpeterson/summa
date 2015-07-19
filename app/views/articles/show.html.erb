@@ -1,11 +1,11 @@
 <% if !@article.nil? %>
   <% @title=@article.title %>
-  <h1><%= @article.title %></h1>
+  <div class="title"><%= @article.title %></div>
   <% @article.objections.each do |objection| %>
     <div class="statement"><%= objection.statement %></div>
   <% end %>
-  <p class="contrary"><%= @article.contrary %></p>
-  <p class="answer"><%= @article.answer %></p>
+  <div class="contrary"><%= @article.contrary %></div>
+  <div class="answer"><%= @article.answer %></div>
   <% @article.objections.each do |objection| %>
     <div class="reply"><%= objection.reply %></div>
   <% end %>

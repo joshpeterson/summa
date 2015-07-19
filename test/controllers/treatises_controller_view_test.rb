@@ -18,17 +18,17 @@ class TreatisesControllerViewTest < ActionController::TestCase
 
   test "view has proper header" do
     get_treatise("1")
-    assert_select("h1", "First treatise")
+    assert_select("div.title", "First treatise")
   end
 
   test "view with a prologue has proper prologue" do
     get_treatise("1")
-    assert_select("h2", "Prologue for first treatise")
+    assert_select("div.prologue", "Prologue for first treatise")
   end
 
   test "view without a prologue does not have a prologue" do
     get_treatise("2")
-    assert_select("h2", false, "This treatise does not have a prologue")
+    assert_select("div.prologue", false, "This treatise does not have a prologue")
   end
 
   test "view for first treatise has proper number of questions" do
