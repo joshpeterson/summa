@@ -4,7 +4,7 @@
   <div class="content"><%= @question.content %></div>
   <ul>
   <% @question.articles.each do |article| %>
-    <li><%= article.title %></li>
+    <li><%= link_to article.title, article %></li>
   <% end %>
   </ul>
 <% end %>

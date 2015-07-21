@@ -22,10 +22,20 @@ class SummaControllerViewTest < ActionController::TestCase
   end
 
   test "view has proper first part" do
-    assert_equal(@lis[0].inner_html, "FIRST PART")
+    a = css_select(@lis[0], "a").first
+    assert_equal(a.inner_html, "FIRST PART")
   end
 
   test "view has proper second part" do
-    assert_equal(@lis[1].inner_html, "SECOND PART")
+    a = css_select(@lis[1], "a").first
+    assert_equal(a.inner_html, "SECOND PART")
+  end
+
+  test "view has proper link to first part" do
+    assert_select("a[href=?]", "/parts/1")
+  end
+
+  test "view has proper link to second part" do
+    assert_select("a[href=?]", "/parts/2")
   end
 end

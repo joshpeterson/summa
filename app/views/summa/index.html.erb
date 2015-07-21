@@ -2,6 +2,7 @@
 <div class="title">Summa Theologica - Saint Thomas Aquinas</div>
 <ul>
 <% @summa.parts.each do |part| %>
-  <li><%= part.title %></li>
+  <li><%= link_to part.title, part %>
+</li>
 <% end %>
 </ul>

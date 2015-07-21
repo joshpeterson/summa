@@ -6,7 +6,7 @@
   <% end %>
   <ul>
   <% @treatise.questions.each do |question| %>
-    <li><%= question.title %></li>
+    <li><%= link_to question.title, question %></li>
   <% end %>
   </ul>
 <% end %>

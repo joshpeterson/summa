@@ -40,21 +40,45 @@ class QuestionsControllerViewTest < ActionController::TestCase
 
   test "view for first question has proper first article" do
     get_question("1")
-    assert_equal(@lis[0].inner_html, "First article title")
+    a = css_select(@lis[0], "a").first
+    assert_equal(a.inner_html, "First article title")
   end
 
   test "view for first question has proper second article" do
     get_question("1")
-    assert_equal(@lis[1].inner_html, "Second article title")
+    a = css_select(@lis[1], "a").first
+    assert_equal(a.inner_html, "Second article title")
   end
 
   test "view for second question has proper first article" do
     get_question("2")
-    assert_equal(@lis[0].inner_html, "Third article title")
+    a = css_select(@lis[0], "a").first
+    assert_equal(a.inner_html, "Third article title")
   end
 
   test "view for second question has proper second article" do
     get_question("2")
-    assert_equal(@lis[1].inner_html, "Fourth article title")
+    a = css_select(@lis[1], "a").first
+    assert_equal(a.inner_html, "Fourth article title")
+  end
+
+  test "view for first question has proper link to first article" do
+    get_question("1")
+    assert_select("a[href=?]", "/articles/1")
+  end
+
+  test "view for first question has proper link to second article" do
+    get_question("1")
+    assert_select("a[href=?]", "/articles/2")
+  end
+
+  test "view for second question has proper link to first article" do
+    get_question("2")
+    assert_select("a[href=?]", "/articles/3")
+  end
+
+  test "view for second question has proper link to second article" do
+    get_question("2")
+    assert_select("a[href=?]", "/articles/4")
   end
 end

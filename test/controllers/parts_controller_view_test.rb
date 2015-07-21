@@ -45,21 +45,45 @@ class PartsControllerViewTest < ActionController::TestCase
 
   test "view for first part has proper first treatise" do
     get_part("1")
-    assert_equal(@lis[0].inner_html, "First treatise")
+    a = css_select(@lis[0], "a").first
+    assert_equal(a.inner_html, "First treatise")
   end
 
   test "view for first part has proper second treatise" do
     get_part("1")
-    assert_equal(@lis[1].inner_html, "Second treatise")
+    a = css_select(@lis[1], "a").first
+    assert_equal(a.inner_html, "Second treatise")
   end
 
   test "view for second part has proper first treatise" do
     get_part("2")
-    assert_equal(@lis[0].inner_html, "Third treatise")
+    a = css_select(@lis[0], "a").first
+    assert_equal(a.inner_html, "Third treatise")
   end
 
   test "view for second part has proper second treatise" do
     get_part("2")
-    assert_equal(@lis[1].inner_html, "Fourth treatise")
+    a = css_select(@lis[1], "a").first
+    assert_equal(a.inner_html, "Fourth treatise")
+  end
+
+  test "view for first part has proper link to first treatise" do
+    get_part("1")
+    assert_select("a[href=?]", "/treatises/1")
+  end
+
+  test "view for first part has proper link to second treatise" do
+    get_part("1")
+    assert_select("a[href=?]", "/treatises/2")
+  end
+
+  test "view for second part has proper link to first treatise" do
+    get_part("2")
+    assert_select("a[href=?]", "/treatises/3")
+  end
+
+  test "view for second part has proper link to second treatise" do
+    get_part("2")
+    assert_select("a[href=?]", "/treatises/4")
   end
 end

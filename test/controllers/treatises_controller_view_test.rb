@@ -45,21 +45,45 @@ class TreatisesControllerViewTest < ActionController::TestCase
 
   test "view for first treatise has proper first question" do
     get_treatise("1")
-    assert_equal(@lis[0].inner_html, "First question")
+    a = css_select(@lis[0], "a").first
+    assert_equal(a.inner_html, "First question")
   end
 
   test "view for first treatise has proper second question" do
     get_treatise("1")
-    assert_equal(@lis[1].inner_html, "Second question")
+    a = css_select(@lis[1], "a").first
+    assert_equal(a.inner_html, "Second question")
   end
 
   test "view for second treatise has proper first question" do
     get_treatise("2")
-    assert_equal(@lis[0].inner_html, "Third question")
+    a = css_select(@lis[0], "a").first
+    assert_equal(a.inner_html, "Third question")
   end
 
   test "view for second treatise has proper second question" do
     get_treatise("2")
-    assert_equal(@lis[1].inner_html, "Fourth question")
+    a = css_select(@lis[1], "a").first
+    assert_equal(a.inner_html, "Fourth question")
+  end
+
+  test "view for first treatise has proper link to first question" do
+    get_treatise("1")
+    assert_select("a[href=?]", "/questions/1")
+  end
+
+  test "view for first treatise has proper link to second question" do
+    get_treatise("1")
+    assert_select("a[href=?]", "/questions/2")
+  end
+
+  test "view for second treatise has proper link to first question" do
+    get_treatise("2")
+    assert_select("a[href=?]", "/questions/3")
+  end
+
+  test "view for second treatise has proper link to second question" do
+    get_treatise("2")
+    assert_select("a[href=?]", "/questions/4")
   end
 end

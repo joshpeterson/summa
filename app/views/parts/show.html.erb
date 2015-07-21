@@ -6,7 +6,7 @@
   <% end %>
   <ul>
   <% @part.treatises.each do |treatise| %>
-    <li><%= treatise.title %></li>
+    <li><%= link_to treatise.title, treatise %></li>
   <% end %>
   </ul>
 <% end %>
