@@ -1,12 +1,29 @@
 <% if !@article.nil? %>
-  <% @title=@article.title %>
-  <div class="title"><%= @article.title %></div>
-  <% @article.objections.each do |objection| %>
-    <div class="statement"><%= objection.statement %></div>
-  <% end %>
-  <div class="contrary"><%= @article.contrary %></div>
-  <div class="answer"><%= @article.answer %></div>
-  <% @article.objections.each do |objection| %>
-    <div class="reply"><%= objection.reply %></div>
-  <% end %>
+  <div class="container">
+    <% @title=@article.title %>
+    <div class="title"><%= @article.title %></div>
+    <div class="panel panel-default">
+      <div class="panel panel-heading">Objections</div>
+      <div class="panel panel-body">
+        <% @article.objections.each do |objection| %>
+            <div class="statement"><%= objection.statement %></div>
+        <% end %>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel panel-heading">Answer</div>
+      <div class="panel panel-body">
+        <div class="contrary"><%= @article.contrary %></div>
+        <div class="answer"><%= @article.answer %></div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel panel-heading">Replies</div>
+      <div class="panel panel-body">
+        <% @article.objections.each do |objection| %>
+            <div class="reply"><%= objection.reply %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
 <% end %>
