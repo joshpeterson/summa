@@ -13,3 +13,11 @@
 
  @import "bootstrap-sprockets";
  @import "bootstrap";
+
+ .title { @extend .h1; }
+ .section-title { @extend .h2; }
+ .normal-text { @extend .h3; }
+ .statement { @extend .normal-text; }
+ .contrary { @extend .normal-text; }
+ .answer { @extend .normal-text; }
+ .reply { @extend .normal-text; }
