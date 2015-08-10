@@ -4,14 +4,26 @@
     <div class="title"><%= @article.title %></div>
     <div class="section-title">Objections</div>
     <% @article.objections.each do |objection| %>
-        <div class="statement"><%= objection.statement %></div>
+      <div class="statement">
+        <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+        <%= objection.statement %>
+      </div>
     <% end %>
     <div class="section-title">Answer</div>
-    <div class="contrary"><%= @article.contrary %></div>
-    <div class="answer"><%= @article.answer %></div>
+    <div class="contrary">
+      <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
+      <%= @article.contrary %>
+    </div>
+    <div class="answer">
+      <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
+      <%= @article.answer %>
+     </div>
     <div class="section-title">Replies</div>
     <% @article.objections.each do |objection| %>
-        <div class="reply"><%= objection.reply %></div>
+      <div class="reply">
+        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        <%= objection.reply %>
+      </div>
     <% end %>
   </div>
 <% end %>
