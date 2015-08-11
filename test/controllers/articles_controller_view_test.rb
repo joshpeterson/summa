@@ -53,41 +53,41 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   test "view for first article has proper first statement objection" do
     get_article("1")
-    assert_equal(@statements[0].inner_html, "First objection statement")
+    assert_match("First objection statement", @statements[0].inner_html)
   end
 
   test "view for first article has proper first statement reply" do
     get_article("1")
-    assert_equal(@replies[0].inner_html, "First objection reply")
+    assert_match("First objection reply",@replies[0].inner_html)
   end
 
   test "view for first article has proper second statement objection" do
     get_article("1")
-    assert_equal(@statements[1].inner_html, "Second objection statement")
+    assert_match("Second objection statement", @statements[1].inner_html)
   end
 
   test "view for first article has proper second statement reply" do
     get_article("1")
-    assert_equal(@replies[1].inner_html, "Second objection reply")
+    assert_match("Second objection reply", @replies[1].inner_html)
   end
 
   test "view for second article has proper first statement objection" do
     get_article("2")
-    assert_equal(@statements[0].inner_html, "Third objection statement")
+    assert_match("Third objection statement", @statements[0].inner_html)
   end
 
   test "view for second article has proper first statement reply" do
     get_article("2")
-    assert_equal(@replies[0].inner_html, "Third objection reply")
+    assert_match("Third objection reply", @replies[0].inner_html)
   end
 
   test "view for second article has proper second statement objection" do
     get_article("2")
-    assert_equal(@statements[1].inner_html, "Fourth objection statement")
+    assert_match("Fourth objection statement",@statements[1].inner_html )
   end
 
   test "view for second article has proper second statement reply" do
     get_article("2")
-    assert_equal(@replies[1].inner_html, "Fourth objection reply")
+    assert_match("Fourth objection reply", @replies[1].inner_html)
   end
 end
