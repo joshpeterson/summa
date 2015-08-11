@@ -17,11 +17,30 @@
 .normal-text
 {
   @extend p;
-  font-size: 18px;
+  font-size: 20px;
+  font-family: 'Molengo', Georgia, Times, serif;
 }
 
-.title { @extend .h1; }
-.section-title { @extend .h2; }
+.title
+{
+  @extend .h1;
+  font-family: 'Allerta', Helvetica, Arial, sans-serif;
+}
+
+.section-title
+{
+  @extend .h2;
+  font-family: 'Allerta', Helvetica, Arial, sans-serif;
+}
+
+.list { @extend .list-group; }
+.item
+{
+  @extend .list-group-item;
+  font-size: 20px;
+  font-family: 'Molengo', Georgia, Times, serif;
+}
+
 .statement { @extend .normal-text; }
 .contrary { @extend .normal-text; }
 .answer { @extend .normal-text; }

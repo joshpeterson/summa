@@ -1,8 +1,10 @@
 <% @title="Summa Explorer" %>
 <div class="title">Summa Theologica - Saint Thomas Aquinas</div>
-<ul>
+<div class="list">
 <% @summa.parts.each do |part| %>
-  <li><%= link_to part.title, part %>
-</li>
+  <%= link_to part, :class => "item" do %>
+    <span class="glyphicon glyphicon-menu-right pull-right"></span>
+    <%= part.title %>
+  <% end %>
 <% end %>
-</ul>
+</div>

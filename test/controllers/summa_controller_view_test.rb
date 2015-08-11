@@ -4,8 +4,8 @@ class SummaControllerViewTest < ActionController::TestCase
   def setup
     @controller = SummaController.new
     get(:index)
-    @uls = css_select("ul")
-    @lis = css_select(@uls[0], "li")
+    @lists = css_select("div.list")
+    @items = css_select(@lists[0], "a.item")
   end
 
   test "view has the proper title" do
@@ -17,18 +17,18 @@ class SummaControllerViewTest < ActionController::TestCase
   end
 
   test "view has proper number of parts" do
-    assert_equal(1, @uls.count, "Wrong number of unordered lists found.")
-    assert_equal(2, @lis.count, "Wrong number of list items found.")
+    assert_equal(1, @lists.count, "Wrong number of lists found.")
+    assert_equal(2, @items.count, "Wrong number of items found.")
   end
 
   test "view has proper first part" do
-    a = css_select(@lis[0], "a").first
-    assert_equal(a.inner_html, "FIRST PART")
+    a = css_select(@items[0], "a").first
+    assert_match("FIRST PART", a.inner_html)
   end
 
   test "view has proper second part" do
-    a = css_select(@lis[1], "a").first
-    assert_equal(a.inner_html, "SECOND PART")
+    a = css_select(@items[1], "a").first
+    assert_match("SECOND PART", a.inner_html)
   end
 
   test "view has proper link to first part" do
