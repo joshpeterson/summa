@@ -41,6 +41,7 @@
   font-family: 'Molengo', Georgia, Times, serif;
 }
 
+.prologue { @extend .normal-text; }
 .statement { @extend .normal-text; }
 .contrary { @extend .normal-text; }
 .answer { @extend .normal-text; }

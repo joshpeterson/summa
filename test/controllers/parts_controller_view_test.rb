@@ -7,8 +7,8 @@ class PartsControllerViewTest < ActionController::TestCase
 
   def get_part(number)
     get(:show, :id => number)
-    @uls = css_select("ul")
-    @lis = css_select(@uls[0], "li")
+    @itemsts = css_select("div.list")
+    @items = css_select(@itemsts[0], "a.item")
   end
 
   test "view has the proper title" do
@@ -33,38 +33,38 @@ class PartsControllerViewTest < ActionController::TestCase
 
   test "view for first part has proper number of treatises" do
     get_part("1")
-    assert_equal(1, @uls.count, "Wrong number of unordered lists found.")
-    assert_equal(2, @lis.count, "Wrong number of list items found.")
+    assert_equal(1, @itemsts.count, "Wrong number of unordered itemsts found.")
+    assert_equal(2, @items.count, "Wrong number of itemst items found.")
   end
 
   test "view for second part has proper number of treatises" do
     get_part("2")
-    assert_equal(1, @uls.count, "Wrong number of unordered lists found.")
-    assert_equal(2, @lis.count, "Wrong number of list items found.")
+    assert_equal(1, @itemsts.count, "Wrong number of unordered itemsts found.")
+    assert_equal(2, @items.count, "Wrong number of itemst items found.")
   end
 
   test "view for first part has proper first treatise" do
     get_part("1")
-    a = css_select(@lis[0], "a").first
-    assert_equal(a.inner_html, "First treatise")
+    a = css_select(@items[0], "a").first
+    assert_match("First treatise", a.inner_html)
   end
 
   test "view for first part has proper second treatise" do
     get_part("1")
-    a = css_select(@lis[1], "a").first
-    assert_equal(a.inner_html, "Second treatise")
+    a = css_select(@items[1], "a").first
+    assert_match("Second treatise", a.inner_html)
   end
 
   test "view for second part has proper first treatise" do
     get_part("2")
-    a = css_select(@lis[0], "a").first
-    assert_equal(a.inner_html, "Third treatise")
+    a = css_select(@items[0], "a").first
+    assert_match("Third treatise", a.inner_html)
   end
 
   test "view for second part has proper second treatise" do
     get_part("2")
-    a = css_select(@lis[1], "a").first
-    assert_equal(a.inner_html, "Fourth treatise")
+    a = css_select(@items[1], "a").first
+    assert_match("Fourth treatise", a.inner_html)
   end
 
   test "view for first part has proper link to first treatise" do
