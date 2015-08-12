@@ -7,8 +7,8 @@ class TreatisesControllerViewTest < ActionController::TestCase
 
   def get_treatise(number)
     get(:show, :id => number)
-    @uls = css_select("ul")
-    @lis = css_select(@uls[0], "li")
+    @lists = css_select("div.list")
+    @items = css_select(@lists[0], "a.item")
   end
 
   test "view has the proper title" do
@@ -33,38 +33,38 @@ class TreatisesControllerViewTest < ActionController::TestCase
 
   test "view for first treatise has proper number of questions" do
     get_treatise("1")
-    assert_equal(1, @uls.count, "Wrong number of unordered lists found.")
-    assert_equal(2, @lis.count, "Wrong number of list items found.")
+    assert_equal(1, @lists.count, "Wrong number of lists found.")
+    assert_equal(2, @items.count, "Wrong number of items found.")
   end
 
   test "view for second treatise has proper number of questions" do
     get_treatise("2")
-    assert_equal(1, @uls.count, "Wrong number of unordered lists found.")
-    assert_equal(2, @lis.count, "Wrong number of list items found.")
+    assert_equal(1, @lists.count, "Wrong number of lists found.")
+    assert_equal(2, @items.count, "Wrong number of items found.")
   end
 
   test "view for first treatise has proper first question" do
     get_treatise("1")
-    a = css_select(@lis[0], "a").first
-    assert_equal(a.inner_html, "First question")
+    a = css_select(@items[0], "a").first
+    assert_match("First question", a.inner_html)
   end
 
   test "view for first treatise has proper second question" do
     get_treatise("1")
-    a = css_select(@lis[1], "a").first
-    assert_equal(a.inner_html, "Second question")
+    a = css_select(@items[1], "a").first
+    assert_match("Second question", a.inner_html)
   end
 
   test "view for second treatise has proper first question" do
     get_treatise("2")
-    a = css_select(@lis[0], "a").first
-    assert_equal(a.inner_html, "Third question")
+    a = css_select(@items[0], "a").first
+    assert_match("Third question", a.inner_html)
   end
 
   test "view for second treatise has proper second question" do
     get_treatise("2")
-    a = css_select(@lis[1], "a").first
-    assert_equal(a.inner_html, "Fourth question")
+    a = css_select(@items[1], "a").first
+    assert_match("Fourth question", a.inner_html)
   end
 
   test "view for first treatise has proper link to first question" do

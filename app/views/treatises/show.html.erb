@@ -2,11 +2,15 @@
   <% @title=@treatise.title %>
   <div class="title"><%= @treatise.title %></div>
   <% if !@treatise.prologue.nil? %>
+    <div class="section-title">Prologue</div>
     <div class="prologue"><%= @treatise.prologue %></div>
   <% end %>
-  <ul>
+  <div class="list">
   <% @treatise.questions.each do |question| %>
-    <li><%= link_to question.title, question %></li>
+    <%= link_to question, :class => "item" do %>
+      <span class="glyphicon glyphicon-menu-right pull-right"></span>
+      <%= question.title %>
+    <% end %>
   <% end %>
-  </ul>
+  </div>
 <% end %>

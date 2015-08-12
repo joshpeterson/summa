@@ -7,8 +7,8 @@ class PartsControllerViewTest < ActionController::TestCase
 
   def get_part(number)
     get(:show, :id => number)
-    @itemsts = css_select("div.list")
-    @items = css_select(@itemsts[0], "a.item")
+    @lists = css_select("div.list")
+    @items = css_select(@lists[0], "a.item")
   end
 
   test "view has the proper title" do
@@ -33,14 +33,14 @@ class PartsControllerViewTest < ActionController::TestCase
 
   test "view for first part has proper number of treatises" do
     get_part("1")
-    assert_equal(1, @itemsts.count, "Wrong number of unordered itemsts found.")
-    assert_equal(2, @items.count, "Wrong number of itemst items found.")
+    assert_equal(1, @lists.count, "Wrong number of lists found.")
+    assert_equal(2, @items.count, "Wrong number of items found.")
   end
 
   test "view for second part has proper number of treatises" do
     get_part("2")
-    assert_equal(1, @itemsts.count, "Wrong number of unordered itemsts found.")
-    assert_equal(2, @items.count, "Wrong number of itemst items found.")
+    assert_equal(1, @lists.count, "Wrong number of lists found.")
+    assert_equal(2, @items.count, "Wrong number of items found.")
   end
 
   test "view for first part has proper first treatise" do
