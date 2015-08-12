@@ -42,6 +42,7 @@
 }
 
 .prologue { @extend .normal-text; }
+.content { @extend .normal-text; }
 .statement { @extend .normal-text; }
 .contrary { @extend .normal-text; }
 .answer { @extend .normal-text; }

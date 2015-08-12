@@ -7,8 +7,8 @@ class QuestionsControllerViewTest < ActionController::TestCase
 
   def get_question(number)
     get(:show, :id => number)
-    @uls = css_select("ul")
-    @lis = css_select(@uls[0], "li")
+    @lists = css_select("div.list")
+    @items = css_select(@lists[0], "a.item")
   end
 
   test "view has the proper title" do
@@ -28,38 +28,38 @@ class QuestionsControllerViewTest < ActionController::TestCase
 
   test "view for first question has proper number of articles" do
     get_question("1")
-    assert_equal(1, @uls.count, "Wrong number of unordered lists found.")
-    assert_equal(2, @lis.count, "Wrong number of list items found.")
+    assert_equal(1, @lists.count, "Wrong number of lists found.")
+    assert_equal(2, @items.count, "Wrong number of items found.")
   end
 
   test "view for second question has proper number of articles" do
     get_question("2")
-    assert_equal(1, @uls.count, "Wrong number of unordered lists found.")
-    assert_equal(2, @lis.count, "Wrong number of list items found.")
+    assert_equal(1, @lists.count, "Wrong number of lists found.")
+    assert_equal(2, @items.count, "Wrong number of items found.")
   end
 
   test "view for first question has proper first article" do
     get_question("1")
-    a = css_select(@lis[0], "a").first
-    assert_equal(a.inner_html, "First article title")
+    a = css_select(@items[0], "a").first
+    assert_match("First article title", a.inner_html)
   end
 
   test "view for first question has proper second article" do
     get_question("1")
-    a = css_select(@lis[1], "a").first
-    assert_equal(a.inner_html, "Second article title")
+    a = css_select(@items[1], "a").first
+    assert_match("Second article title", a.inner_html)
   end
 
   test "view for second question has proper first article" do
     get_question("2")
-    a = css_select(@lis[0], "a").first
-    assert_equal(a.inner_html, "Third article title")
+    a = css_select(@items[0], "a").first
+    assert_match("Third article title", a.inner_html)
   end
 
   test "view for second question has proper second article" do
     get_question("2")
-    a = css_select(@lis[1], "a").first
-    assert_equal(a.inner_html, "Fourth article title")
+    a = css_select(@items[1], "a").first
+    assert_match("Fourth article title", a.inner_html)
   end
 
   test "view for first question has proper link to first article" do
