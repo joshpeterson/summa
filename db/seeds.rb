@@ -33,6 +33,9 @@ for part in summa.parts
                                    contrary: article.contrary,
                                    answer: article.answer,
                                    question: dbQuestion)
+        context = Context.create(part: dbPart, treatise: dbTreatise,
+                                 question: dbQuestion)
+        dbArticle.context = context
         dbObjections = Array.new
         for objection in article.objections
           dbObjection = Objection.create(statement: objection.statement,
