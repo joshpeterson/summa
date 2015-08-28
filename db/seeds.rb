@@ -59,12 +59,18 @@ for part in summa.parts
         dbArticles.push(dbArticle)
       end
       dbQuestion.articles = dbArticles
+      dbQuestion.number_of_articles = articleNumberInQuestion
+      dbQuestion.save
       dbQuestions.push(dbQuestion)
     end
     dbTreatise.questions = dbQuestions
+    dbTreatise.number_of_articles = articleNumberInTreatise
+    dbTreatise.save
     dbTreatises.push(dbTreatise)
   end
   dbPart.treatises = dbTreatises
+  dbPart.number_of_articles = articleNumberInPart
+  dbPart.save
   dbParts.push(dbPart)
 end
 dbSumma.parts = dbParts
