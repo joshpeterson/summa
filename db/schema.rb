@@ -30,8 +30,11 @@ ActiveRecord::Schema.define(version: 20150826101324) do
     t.integer  "treatise_id"
     t.integer  "question_id"
     t.integer  "article_id"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
+    t.integer  "number_in_part"
+    t.integer  "number_in_treatise"
+    t.integer  "number_in_question"
+    t.datetime "created_at",         null: false
+    t.datetime "updated_at",         null: false
   end
 
   create_table "objections", force: :cascade do |t|

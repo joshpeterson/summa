@@ -14,16 +14,19 @@ dbSumma = SummaTheologica.create
 dbParts = Array.new
 for part in summa.parts
   printf("Processing part: %s\n", part.title)
+  articleNumberInPart = 1
   dbPart = Part.create(title: part.title, prologue: part.prologue,
                        summa_theologica: dbSumma)
   dbTreatises = Array.new
   for treatise in part.treatises
     printf("Processing treatise: %s\n", treatise.title)
+    articleNumberInTreatise = 1
     dbTreatise = Treatise.create(title: treatise.title,
                                  prologue: treatise.prologue,
                                  part: dbPart)
     dbQuestions = Array.new
     for question in treatise.questions
+      articleNumberInQuestion = 1
       dbQuestion = Question.create(title: question.title,
                                    content: question.content,
                                    treatise: dbTreatise)
@@ -33,9 +36,18 @@ for part in summa.parts
                                    contrary: article.contrary,
                                    answer: article.answer,
                                    question: dbQuestion)
-        context = Context.create(part: dbPart, treatise: dbTreatise,
-                                 question: dbQuestion)
+
+        context = Context.create(part: dbPart,
+                                 treatise: dbTreatise,
+                                 question: dbQuestion,
+                                 number_in_part: articleNumberInPart,
+                                 number_in_treatise: articleNumberInTreatise,
+                                 number_in_question: articleNumberInQuestion)
         dbArticle.context = context
+        articleNumberInPart += 1
+        articleNumberInTreatise += 1
+        articleNumberInQuestion += 1
+
         dbObjections = Array.new
         for objection in article.objections
           dbObjection = Objection.create(statement: objection.statement,
