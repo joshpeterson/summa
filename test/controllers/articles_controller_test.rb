@@ -50,4 +50,24 @@ class ArticlesControllerTest < ActionController::TestCase
     get(:show, :id => "1")
     assert_equal(31, @controller.percent_in_part)
   end
+
+  test "should provide the next article" do
+    get(:show, :id => "1")
+    assert_equal(2, @controller.get_next.id)
+  end
+
+  test "should provide a nil next article for the last article" do
+    get(:show, :id => "4")
+    assert_nil(@controller.get_next)
+  end
+
+  test "should provide previous next article" do
+    get(:show, :id => "4")
+    assert_equal(3, @controller.get_previous.id)
+  end
+
+  test "should provide a nil previous article for the first article" do
+    get(:show, :id => "1")
+    assert_nil(@controller.get_previous)
+  end
 end

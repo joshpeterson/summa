@@ -4,6 +4,8 @@ class ArticlesController < ApplicationController
     if (@article == nil)
       render :status => 404
     else
+      @next = get_next
+      @previous = get_previous
       @context_in_part = context_in_part
       @context_in_treatise = context_in_treatise
       @context_in_question = context_in_question
@@ -14,7 +16,15 @@ class ArticlesController < ApplicationController
   end
 
   def get_article
-    params.has_key?(:id) ? Article.find(params[:id]) : nil
+    get_article_with_offset(0)
+  end
+
+  def get_next
+    get_article_with_offset(1)
+  end
+
+  def get_previous
+    get_article_with_offset(-1)
   end
 
   def context_in_question
@@ -54,6 +64,11 @@ class ArticlesController < ApplicationController
   end
 
   private
+
+  def get_article_with_offset(offset)
+    params.has_key?(:id) ? Article.find_by(id: params[:id].to_i + offset) : nil
+  end
+
   def context_string(number, total)
     %(Article #{number} of #{total})
   end
