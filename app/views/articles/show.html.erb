@@ -26,6 +26,16 @@
       </div>
     <% end %>
     <div class="section-title">Context</div>
+    <% if !@next.nil? %>
+      <div class="context">
+        Next: <%= link_to @next.title, @next %>
+      </div>
+    <% end %>
+    <% if !@previous.nil? %>
+      <div class="context">
+        Previous: <%= link_to @previous.title, @previous %>
+      </div>
+    <% end %>
     <div class="context">
       Part: <%= link_to @article.context.part.title,
         @article.context.part %> - <%= @context_in_part %>

@@ -95,18 +95,30 @@ class ArticlesControllerViewTest < ActionController::TestCase
   test "view for first article has proper part context" do
     get_article("1")
     assert_match("Part: <a href=\"/parts/1\">FIRST PART</a>" +
-                 " - Article 13 of 42", @contexts[0].inner_html)
+                 " - Article 13 of 42", @contexts[1].inner_html)
   end
 
   test "view for first article has proper treatise context" do
     get_article("1")
     assert_match("Treatise: <a href=\"/treatises/1\">First treatise</a>" +
-                 " - Article 12 of 42", @contexts[1].inner_html)
+                 " - Article 12 of 42", @contexts[2].inner_html)
   end
 
   test "view for first article has proper question context" do
     get_article("1")
     assert_match("Question: <a href=\"/questions/1\">First question</a>" +
-                 " - Article 11 of 42", @contexts[2].inner_html)
+                 " - Article 11 of 42", @contexts[3].inner_html)
+  end
+
+  test "view for the first article has the proper next article" do
+    get_article("1")
+    assert_match("Next: <a href=\"/articles/2\">Second article title</a>",
+                 @contexts[0].inner_html)
+  end
+
+  test "view for the second article has the proper previous article" do
+    get_article("2")
+    assert_match("Previous: <a href=\"/articles/1\">First article title</a>",
+                 @contexts[1].inner_html)
   end
 end
