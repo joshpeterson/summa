@@ -59,17 +59,17 @@ for part in summa.parts
         dbArticles.push(dbArticle)
       end
       dbQuestion.articles = dbArticles
-      dbQuestion.number_of_articles = articleNumberInQuestion
+      dbQuestion.number_of_articles = articleNumberInQuestion - 1
       dbQuestion.save
       dbQuestions.push(dbQuestion)
     end
     dbTreatise.questions = dbQuestions
-    dbTreatise.number_of_articles = articleNumberInTreatise
+    dbTreatise.number_of_articles = articleNumberInTreatise - 1
     dbTreatise.save
     dbTreatises.push(dbTreatise)
   end
   dbPart.treatises = dbTreatises
-  dbPart.number_of_articles = articleNumberInPart
+  dbPart.number_of_articles = articleNumberInPart - 1
   dbPart.save
   dbParts.push(dbPart)
 end
