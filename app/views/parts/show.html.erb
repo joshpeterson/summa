@@ -1,16 +1,18 @@
 <% if !@part.nil? %>
-  <% @title=@part.title %>
-  <div class="title"><%= @part.title %></div>
-  <% if !@part.prologue.nil? %>
-    <div class="section-title">Prologue</div>
-    <div class="prologue"><%= @part.prologue %></div>
-  <% end %>
-  <div class="list">
-  <% @part.treatises.each do |treatise| %>
-    <%= link_to treatise, :class => "item" do %>
-      <span class="glyphicon glyphicon-menu-right pull-right"></span>
-      <%= treatise.title %>
+  <div class="container">
+    <% @title=@part.title %>
+    <div class="title"><%= @part.title %></div>
+    <% if !@part.prologue.nil? %>
+      <div class="section-title">Prologue</div>
+      <div class="prologue"><%= @part.prologue %></div>
     <% end %>
-  <% end %>
+    <div class="list">
+    <% @part.treatises.each do |treatise| %>
+      <%= link_to treatise, :class => "item" do %>
+        <span class="glyphicon glyphicon-menu-right pull-right"></span>
+        <%= treatise.title %>
+      <% end %>
+    <% end %>
+    </div>
   </div>
 <% end %>
