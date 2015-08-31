@@ -5,21 +5,25 @@ one:
   title: First treatise
   prologue: Prologue for first treatise
   part_id: 1
+  number_of_articles: 42
 
 two:
   id: 2
   title: Second treatise
   prologue:
   part_id: 1
+  number_of_articles: 42
 
 three:
   id: 3
   title: Third treatise
   prologue: Prologue for third treatise
   part_id: 2
+  number_of_articles: 42
 
 four:
   id: 4
   title: Fourth treatise
   prologue: Prologue for fourth treatise
   part_id: 2
+  number_of_articles: 42

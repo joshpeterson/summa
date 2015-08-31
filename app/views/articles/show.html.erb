@@ -25,5 +25,33 @@
         <%= objection.reply %>
       </div>
     <% end %>
+    <div class="section-title">Context</div>
+    <div class="context">
+      Part: <%= link_to @article.context.part.title,
+        @article.context.part %> - <%= @context_in_part %>
+    </div>
+    <div class="progress">
+      <div class="progress-bar progress-bar-success progress-bar-striped"
+        role="progressbar" style="width: <%= @percent_in_part %>%;">
+      </div>
+    </div>
+    <div class="context">
+      Treatise: <%= link_to @article.context.treatise.title,
+        @article.context.treatise %> - <%= @context_in_treatise %>
+    </div>
+    <div class="progress">
+      <div class="progress-bar progress-bar-info progress-bar-striped"
+        role="progressbar" style="width: <%= @percent_in_treatise %>%;">
+      </div>
+    </div>
+    <div class="context">
+      Question: <%= link_to @article.context.question.title,
+        @article.context.question %> - <%= @context_in_question %>
+    </div>
+    <div class="progress">
+      <div class="progress-bar progress-bar-striped"
+        role="progressbar" style="width: <%= @percent_in_question %>%;">
+      </div>
+    </div>
   </div>
 <% end %>

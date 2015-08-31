@@ -6,6 +6,7 @@ one:
   contrary: First article contrary
   answer: First article answer
   question_id: 1
+  context_id: 1
 
 two:
   id: 2
@@ -13,6 +14,7 @@ two:
   contrary: Second article contrary
   answer: Second article answer
   question_id: 1
+  context_id: 2
 
 three:
   id: 3
@@ -20,6 +22,7 @@ three:
   contrary: Third article contrary
   answer: Third article answer
   question_id: 2
+  context_id: 3
 
 four:
   id: 4
@@ -27,3 +30,4 @@ four:
   contrary: Fourth article contrary
   answer: Fourth article answer
   question_id: 2
+  context_id: 4

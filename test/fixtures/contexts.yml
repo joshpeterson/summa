@@ -1,13 +1,41 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+  id: 1
   part_id: 1
   treatise_id: 1
   question_id: 1
   article_id: 1
+  number_in_question: 11
+  number_in_treatise: 12
+  number_in_part: 13
 
 two:
+  id: 2
   part_id: 1
-  treatise_id: 1
-  question_id: 1
-  article_id: 1
+  treatise_id: 2
+  question_id: 2
+  article_id: 2
+  number_in_question: 21
+  number_in_treatise: 22
+  number_in_part: 23
+
+three:
+  id: 3
+  part_id: 2
+  treatise_id: 3
+  question_id: 3
+  article_id: 3
+  number_in_question: 31
+  number_in_treatise: 32
+  number_in_part: 33
+
+four:
+  id: 4
+  part_id: 2
+  treatise_id: 4
+  question_id: 4
+  article_id: 4
+  number_in_question: 41
+  number_in_treatise: 42
+  number_in_part: 43

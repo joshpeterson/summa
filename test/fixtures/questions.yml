@@ -5,21 +5,25 @@ one:
   title: First question
   content: Content for first question.
   treatise_id: 1
+  number_of_articles: 42
 
 two:
   id: 2
   title: Second question
   content: Content for second question.
   treatise_id: 1
+  number_of_articles: 42
 
 three:
   id: 3
   title: Third question
   content: Content for third question.
   treatise_id: 2
+  number_of_articles: 42
 
 four:
   id: 4
   title: Fourth question
   content: Content for fourth question.
   treatise_id: 2
+  number_of_articles: 42

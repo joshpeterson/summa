@@ -5,11 +5,13 @@ one:
   title: FIRST PART
   prologue: This part has a prologue
   summa_theologica_id: 1
+  number_of_articles: 42
 
 two:
   id: 2
   title: SECOND PART
   prologue:
   summa_theologica_id: 1
+  number_of_articles: 42
 
 

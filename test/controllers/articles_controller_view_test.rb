@@ -9,6 +9,7 @@ class ArticlesControllerViewTest < ActionController::TestCase
     get(:show, :id => number)
     @statements = css_select("div.statement")
     @replies = css_select("div.reply")
+    @contexts = css_select("div.context")
   end
 
   test "view has the proper title" do
@@ -89,5 +90,23 @@ class ArticlesControllerViewTest < ActionController::TestCase
   test "view for second article has proper second statement reply" do
     get_article("2")
     assert_match("Fourth objection reply", @replies[1].inner_html)
+  end
+
+  test "view for first article has proper part context" do
+    get_article("1")
+    assert_match("Part: <a href=\"/parts/1\">FIRST PART</a>" +
+                 " - Article 13 of 42", @contexts[0].inner_html)
+  end
+
+  test "view for first article has proper treatise context" do
+    get_article("1")
+    assert_match("Treatise: <a href=\"/treatises/1\">First treatise</a>" +
+                 " - Article 12 of 42", @contexts[1].inner_html)
+  end
+
+  test "view for first article has proper question context" do
+    get_article("1")
+    assert_match("Question: <a href=\"/questions/1\">First question</a>" +
+                 " - Article 11 of 42", @contexts[2].inner_html)
   end
 end
