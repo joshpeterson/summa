@@ -21,5 +21,5 @@ three:
 four:
   id: 4
   statement: Fourth objection statement
-  reply: Fourth objection reply
+  reply:
   article_id: 2

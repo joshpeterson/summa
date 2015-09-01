@@ -20,10 +20,12 @@
      </div>
     <div class="section-title">Replies</div>
     <% @article.objections.each do |objection| %>
-      <div class="reply">
-        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-        <%= objection.reply %>
-      </div>
+      <% if !objection.reply.nil? %>
+        <div class="reply">
+          <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+          <%= objection.reply %>
+        </div>
+      <% end %>
     <% end %>
     <div class="section-title">Context</div>
     <% if !@next.nil? %>

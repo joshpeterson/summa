@@ -49,7 +49,7 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   test "view for second article has proper number of objection replies" do
     get_article("2")
-    assert_equal(2, @replies.count, "Wrong number of replies found")
+    assert_equal(1, @replies.count, "Wrong number of replies found")
   end
 
   test "view for first article has proper first statement objection" do
@@ -85,11 +85,6 @@ class ArticlesControllerViewTest < ActionController::TestCase
   test "view for second article has proper second statement objection" do
     get_article("2")
     assert_match("Fourth objection statement",@statements[1].inner_html )
-  end
-
-  test "view for second article has proper second statement reply" do
-    get_article("2")
-    assert_match("Fourth objection reply", @replies[1].inner_html)
   end
 
   test "view for first article has proper part context" do
