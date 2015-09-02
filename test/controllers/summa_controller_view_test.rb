@@ -3,7 +3,7 @@ require 'test_helper'
 class SummaControllerViewTest < ActionController::TestCase
   def setup
     @controller = SummaController.new
-    get(:index)
+    get(:show)
     @lists = css_select("div.list")
     @items = css_select(@lists[0], "a.item")
   end
