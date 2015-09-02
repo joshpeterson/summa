@@ -6,7 +6,7 @@ class PartsControllerRouteTest < ActionController::TestCase
   end
 
   test "routes the part id to the show action" do
-    assert_recognizes({:controller => "parts", :action => "show", :id => "1"},
-                      "/parts/1")
+    assert_recognizes({:controller => "parts", :action => "show",
+                       :id => "1"}, "/parts/1")
   end
 end

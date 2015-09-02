@@ -7,13 +7,12 @@ Rails.application.routes.draw do
 
   get 'parts/show'
 
-  get 'summa/index'
+  get 'browse/', to: 'summa#show'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'summa#index'
 
   resources :parts, :only => [:show]
   resources :treatises, :only => [:show]

@@ -5,7 +5,8 @@ class SummaControllerRouteTest < ActionController::TestCase
     @controller = SummaController.new
   end
 
-  test "root routes to summa controller index action" do
-    assert_recognizes({:controller => 'summa', :action => 'index'}, '/')
+  test "routes browse to summa controller show action" do
+    assert_recognizes({:controller => 'summa', :action => 'show'},
+                      '/browse')
   end
 end

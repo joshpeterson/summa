@@ -1,5 +1,5 @@
 class SummaController < ApplicationController
-  def index
+  def show
     @summa = get_summa
   end
 

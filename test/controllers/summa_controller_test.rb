@@ -7,7 +7,7 @@ class SummaControllerTest < ActionController::TestCase
   end
 
   test "should get index" do
-    get(:index)
+    get(:show)
     assert_response(:success)
   end
 
