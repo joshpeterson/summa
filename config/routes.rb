@@ -9,6 +9,9 @@ Rails.application.routes.draw do
 
   get 'browse/', to: 'summa#show'
 
+  get '/about', :to => redirect('/about.html')
+  get '/code', :to => redirect('/code.html')
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
