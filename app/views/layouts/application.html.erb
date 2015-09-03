@@ -8,10 +8,18 @@
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+  <link href="/sticky-footer.css" rel="stylesheet">
 </head>
 <body>
 
 <%= yield %>
 
+<div class="footer">
+  <div class="container">
+    <p class="normal-text">
+      <a href="/">Home</a> | <a href="/about.html">About</a> | <a href="/code.html">Code</a> | <a href="/browse">Summa</a>
+    </p>
+  </div>
+</div>
 </body>
 </html>
