@@ -13,6 +13,9 @@
 
 ActiveRecord::Schema.define(version: 20150828103405) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "articles", force: :cascade do |t|
     t.string   "title"
     t.string   "contrary"
@@ -23,7 +26,7 @@ ActiveRecord::Schema.define(version: 20150828103405) do
     t.integer  "context_id"
   end
 
-  add_index "articles", ["context_id"], name: "index_articles_on_context_id"
+  add_index "articles", ["context_id"], name: "index_articles_on_context_id", using: :btree
 
   create_table "contexts", force: :cascade do |t|
     t.integer  "part_id"
@@ -77,4 +80,5 @@ ActiveRecord::Schema.define(version: 20150828103405) do
     t.integer  "number_of_articles"
   end
 
+  add_foreign_key "articles", "contexts"
 end
