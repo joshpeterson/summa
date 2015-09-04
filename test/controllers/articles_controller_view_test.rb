@@ -7,6 +7,7 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   def get_article(number)
     get(:show, :id => number)
+    @contraries = css_select("div.contrary")
     @statements = css_select("div.statement")
     @replies = css_select("div.reply")
     @contexts = css_select("div.context")
@@ -115,5 +116,10 @@ class ArticlesControllerViewTest < ActionController::TestCase
     get_article("2")
     assert_match("Previous: <a href=\"/articles/1\">First article title</a>",
                  @contexts[1].inner_html)
+  end
+
+  test "contrary for an article without a contrary is not shown" do
+    get_article("3")
+    assert_equal(0, @contraries.length)
   end
 end

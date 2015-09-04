@@ -10,10 +10,12 @@
       </div>
     <% end %>
     <div class="section-title">Answer</div>
-    <div class="contrary">
-      <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
-      <%= @article.contrary %>
-    </div>
+    <% if !@article.contrary.nil? %>
+      <div class="contrary">
+        <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
+        <%= @article.contrary %>
+      </div>
+    <% end %>
     <div class="answer">
       <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
       <%= @article.answer %>

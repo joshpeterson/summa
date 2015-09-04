@@ -19,7 +19,7 @@ two:
 three:
   id: 3
   title: Third article title
-  contrary: Third article contrary
+  contrary:
   answer: Third article answer
   question_id: 2
   context_id: 3
