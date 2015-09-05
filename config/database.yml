@@ -1,7 +1,11 @@
 default: &default
-  adapter: postgresql
+  adapter: mysql2
+  encoding: utf8
   pool: 5
   timeout: 5000
+  username: root
+  password:
+  host: 127.0.0.1
 
 development:
   <<: *default
