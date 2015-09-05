@@ -2,4 +2,4 @@ language: ruby
 rvm:
   - 2.2
 before_script:
-  - mysql -e 'create database database_test;'
+  - psql -c 'create database database_test;' -U postgres
