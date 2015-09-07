@@ -27,8 +27,6 @@ GEM
     lumberjack (1.0.9)
     method_source (0.8.2)
     minitest (5.7.0)
-    minitest-rg (5.1.0)
-      minitest (~> 5.0)
     nenv (0.2.0)
     notiffany (0.0.6)
       nenv (~> 0.1)
@@ -54,7 +52,6 @@ DEPENDENCIES
   guard
   guard-minitest
   minitest
-  minitest-rg
   rake
 
 BUNDLED WITH

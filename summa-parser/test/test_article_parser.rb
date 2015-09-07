@@ -66,6 +66,18 @@ class TestArticleParser < Minitest::Test
     assert_equal(expected_answer, @parser.article.answer)
   end
 
+  def test_VerifyArticleAnswerWithNewlineInArticle
+    expected_answer = "I answer that, foo bar. Foo bar baz."
+    local_parser = ArticleParser.new($article_with_newline_in_answer)
+    assert_equal(expected_answer, local_parser.article.answer)
+  end
+
+  def test_VerifyArticleAnswerWithNewlineInArticleAndNoReplies
+    expected_answer = "I answer that, foo bar. Foo bar baz."
+    local_parser = ArticleParser.new($article_with_newline_in_answer_an_no_replies)
+    assert_equal(expected_answer, local_parser.article.answer)
+  end
+
   def test_VerifyNumberOfObjections
     assert_equal(2, @parser.article.objections.size)
   end
@@ -300,4 +312,47 @@ $article_with_footnote_in_title = %{
    understood as referring, not to the particular sense whereby we know
    proper sensibles, but to the interior sense, whereby we judge of a
    particular.
+}
+
+$article_with_newline_in_answer= %{
+  Whether sacred doctrine is a practical science?
+
+   Objection 1: It seems that sacred doctrine is a practical science; for
+   a practical science is that which ends in action according to the
+   Philosopher (Metaph. ii). But sacred doctrine is ordained to action:
+   "Be ye doers of the word, and not hearers only" (James 1:22). Therefore
+   sacred doctrine is a practical science.
+
+   On the contrary, Every practical science is concerned with human
+   operations; as moral science is concerned with human acts, and
+   architecture with buildings. But sacred doctrine is chiefly concerned
+   with God, whose handiwork is especially man. Therefore it is not a
+   practical but a speculative science.
+
+   I answer that, foo bar.
+
+   Foo bar baz.
+
+   Reply to Objection 1: The reasoning of prudence terminates, as in a
+   conclusion, in the particular matter of action, to which, as stated
+}
+
+$article_with_newline_in_answer_an_no_replies= %{
+  Whether sacred doctrine is a practical science?
+
+   Objection 1: It seems that sacred doctrine is a practical science; for
+   a practical science is that which ends in action according to the
+   Philosopher (Metaph. ii). But sacred doctrine is ordained to action:
+   "Be ye doers of the word, and not hearers only" (James 1:22). Therefore
+   sacred doctrine is a practical science.
+
+   On the contrary, Every practical science is concerned with human
+   operations; as moral science is concerned with human acts, and
+   architecture with buildings. But sacred doctrine is chiefly concerned
+   with God, whose handiwork is especially man. Therefore it is not a
+   practical but a speculative science.
+
+   I answer that, foo bar.
+
+   Foo bar baz.
 }
