@@ -70,4 +70,8 @@ class ArticlesControllerTest < ActionController::TestCase
     get(:show, :id => "1")
     assert_nil(@controller.get_previous)
   end
+
+  test "process_html should replace an empty line with two br tags" do
+    assert_equal("First\n<br><br>Second", @controller.process_html("First\n\nSecond"))
+  end
 end

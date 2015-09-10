@@ -12,6 +12,7 @@ class ArticlesController < ApplicationController
       @percent_in_part = percent_in_part
       @percent_in_treatise = percent_in_treatise
       @percent_in_question = percent_in_question
+      @article.answer = process_html(@article.answer)
     end
   end
 
@@ -25,6 +26,10 @@ class ArticlesController < ApplicationController
 
   def get_previous
     get_article_with_offset(-1)
+  end
+
+  def process_html(text)
+    replace_each_empty_line_with_two_br_tags(text)
   end
 
   def context_in_question
@@ -75,5 +80,9 @@ class ArticlesController < ApplicationController
 
   def percent(number, total)
     (number.to_f / total * 100).round
+  end
+
+  def replace_each_empty_line_with_two_br_tags(text)
+    text.gsub(/^\n/, "<br><br>")
   end
 end

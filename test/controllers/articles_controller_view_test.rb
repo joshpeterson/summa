@@ -122,4 +122,9 @@ class ArticlesControllerViewTest < ActionController::TestCase
     get_article("3")
     assert_equal(0, @contraries.length)
   end
+
+  test "and empty line in the answer is replaced with a br tag" do
+    get_article("4")
+    assert_equal(2, css_select("br").length)
+  end
 end

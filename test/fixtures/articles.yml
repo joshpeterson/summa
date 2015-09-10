@@ -28,6 +28,6 @@ four:
   id: 4
   title: Fourth article title
   contrary: Fourth article contrary
-  answer: Fourth article answer
+  answer: "Fourth article answer\n\nSecond line."
   question_id: 2
   context_id: 4
