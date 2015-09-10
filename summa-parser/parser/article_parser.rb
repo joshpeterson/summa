@@ -59,7 +59,14 @@ class ArticleParser
     if end_index == nil
       end_index = article_text.size - 1
     end
-    return article_text[start_index..end_index].gsub("\n", " ")
-            .gsub("    ", " ").gsub("  ", " ").strip
+
+    # Do the following replacements:
+    # 1. Any newline that is not at the beginning with a space
+    # 2. Three spaces with one space
+    # 3. Two spaces at the start of a line with a new line
+    # 4. A space at the end of a line with nothing
+    # This should keep empty lines as-is and collapse everything else.
+    return article_text[start_index..end_index].gsub(/(?!^)\n/, " ")
+     .gsub("    ", " ").gsub(/^   /, "\n").gsub(/ $/, "").strip
   end
 end

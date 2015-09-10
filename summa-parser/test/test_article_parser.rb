@@ -67,13 +67,17 @@ class TestArticleParser < Minitest::Test
   end
 
   def test_VerifyArticleAnswerWithNewlineInArticle
-    expected_answer = "I answer that, foo bar. Foo bar baz."
+    expected_answer = %{I answer that, foo bar.
+
+Foo bar baz.}
     local_parser = ArticleParser.new($article_with_newline_in_answer)
     assert_equal(expected_answer, local_parser.article.answer)
   end
 
   def test_VerifyArticleAnswerWithNewlineInArticleAndNoReplies
-    expected_answer = "I answer that, foo bar. Foo bar baz."
+    expected_answer = %{I answer that, foo bar.
+
+Foo bar baz.}
     local_parser = ArticleParser.new($article_with_newline_in_answer_an_no_replies)
     assert_equal(expected_answer, local_parser.article.answer)
   end
