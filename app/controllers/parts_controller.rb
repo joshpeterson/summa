@@ -3,6 +3,8 @@ class PartsController < ApplicationController
     @part = get_part
     if (@part == nil)
       render :status => 404
+    else
+      cookies["reader"] = "/parts/#{@part.id}"
     end
   end
 

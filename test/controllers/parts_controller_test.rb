@@ -20,4 +20,9 @@ class PartsControllerTest < ActionController::TestCase
     get(:show, :id => "2")
     assert_equal("SECOND PART", @controller.get_part.title)
   end
+
+  test "should set a cookie with the url of the current part" do
+    get(:show, :id => "2")
+    assert_equal("/parts/2", @response.cookies["reader"])
+  end
 end

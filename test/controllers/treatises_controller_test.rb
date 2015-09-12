@@ -20,4 +20,9 @@ class TreatisesControllerTest < ActionController::TestCase
     get(:show, :id => "2")
     assert_equal("Second treatise", @controller.get_treatise.title)
   end
+
+  test "should set a cookie with the url of the current treatise" do
+    get(:show, :id => "2")
+    assert_equal("/treatises/2", @response.cookies["reader"])
+  end
 end

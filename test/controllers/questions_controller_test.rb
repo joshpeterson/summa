@@ -20,4 +20,9 @@ class QuestionsControllerTest < ActionController::TestCase
     get(:show, :id => "2")
     assert_equal("Second question", @controller.get_question.title)
   end
+
+  test "should set a cookie with the url of the current question" do
+    get(:show, :id => "2")
+    assert_equal("/questions/2", @response.cookies["reader"])
+  end
 end

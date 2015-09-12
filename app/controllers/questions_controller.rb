@@ -3,6 +3,8 @@ class QuestionsController < ApplicationController
     @question = get_question
     if (@question == nil)
       render :status => 404
+    else
+      cookies["reader"] = "/questions/#{@question.id}"
     end
   end
 
