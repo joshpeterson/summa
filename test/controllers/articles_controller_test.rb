@@ -77,6 +77,6 @@ class ArticlesControllerTest < ActionController::TestCase
 
   test "should set a cookie with the url of the current article" do
     get(:show, :id => "2")
-    assert_equal("articles/2", @response.cookies["reader"])
+    assert_equal("/articles/2", @response.cookies["reader"])
   end
 end
