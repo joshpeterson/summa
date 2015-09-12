@@ -74,4 +74,9 @@ class ArticlesControllerTest < ActionController::TestCase
   test "process_html should replace an empty line with two br tags" do
     assert_equal("First\n<br><br>Second", @controller.process_html("First\n\nSecond"))
   end
+
+  test "should set a cookie with the url of the current article" do
+    get(:show, :id => "2")
+    assert_equal("articles/2", @response.cookies["reader"])
+  end
 end
