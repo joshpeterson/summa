@@ -1,6 +1,6 @@
 <% if !@article.nil? %>
   <div class="container">
-    <% @title=@article.title %>
+    <% @title=@article.title + "- Summa Explorer" %>
     <div class="title"><%= @article.title %></div>
     <div class="section-title">Objections</div>
     <% @article.objections.each do |objection| %>
