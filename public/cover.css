@@ -164,3 +164,9 @@ body {
     width: 700px;
   }
 }
+
+@media (max-width: 767px) {
+  .btn-vert-block + .btn-vert-block {
+    margin-top: 10px;
+  }
+}
