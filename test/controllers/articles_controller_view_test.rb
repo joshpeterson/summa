@@ -15,7 +15,7 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   test "view has the proper title" do
     get_article("1")
-    assert_select("title", "First article title")
+    assert_select("title", "First article title - Summa Explorer")
   end
 
   test "view has proper header" do

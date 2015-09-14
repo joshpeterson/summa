@@ -13,7 +13,7 @@ class QuestionsControllerViewTest < ActionController::TestCase
 
   test "view has the proper title" do
     get_question("1")
-    assert_select("title", "First question")
+    assert_select("title", "First question - Summa Explorer")
   end
 
   test "view has proper header" do

@@ -13,7 +13,7 @@ class TreatisesControllerViewTest < ActionController::TestCase
 
   test "view has the proper title" do
     get_treatise("1")
-    assert_select("title", "First treatise")
+    assert_select("title", "First treatise - Summa Explorer")
   end
 
   test "view has proper header" do

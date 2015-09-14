@@ -9,7 +9,7 @@ class SummaControllerViewTest < ActionController::TestCase
   end
 
   test "view has the proper title" do
-    assert_select("title", "Summa Explorer")
+    assert_select("title", "Browse - Summa Explorer")
   end
 
   test "view has proper header" do

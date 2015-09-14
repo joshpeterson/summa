@@ -13,7 +13,7 @@ class PartsControllerViewTest < ActionController::TestCase
 
   test "view has the proper title" do
     get_part("1")
-    assert_select("title", "FIRST PART")
+    assert_select("title", "FIRST PART - Summa Explorer")
   end
 
   test "view has proper header" do
