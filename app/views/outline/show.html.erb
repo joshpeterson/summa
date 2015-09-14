@@ -1,0 +1,35 @@
+<% @title="Outline" %>
+<div class="container">
+  <div class="title">Summa Theologica - Outline</div>
+  <ul class="list-group">
+  <% @summa.parts.each_with_index do |part, i| %>
+    <li class="list-group-item list-group-item-success">
+      <span class="badge"><%= part.treatises.length %></span>
+        <%= i+1 %>. <%= link_to part.title, part %>
+        <ul class="list-group">
+          <% part.treatises.each_with_index do |treatise, j| %>
+            <li class="list-group-item list-group-item-info">
+              <span class="badge"><%= treatise.questions.length %></span>
+              <%= j+1 %>. <%= link_to treatise.title, treatise %>
+              <ul class="list-group">
+                <% treatise.questions.each_with_index do |question, k| %>
+                  <li class="list-group-item list-group-item-warning">
+                    <span class="badge"><%= question.articles.length %></span>
+                    <%= k+1 %>. <%= link_to question.title, question %>
+                    <ul class="list-group">
+                      <% question.articles.each_with_index do |article, l| %>
+                        <li class="list-group-item list-group-item-danger">
+                          <%= l+1 %>. <%= link_to article.title, article %>
+                        </li>
+                      <% end %>
+                    </ul>
+                  </li>
+                <% end %>
+              </ul>
+            </li>
+          <% end %>
+        </ul>
+    </li>
+  <% end %>
+  </ul>
+</div>

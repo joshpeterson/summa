@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'outline/show'
+
   get 'reader/show'
 
   get 'articles/show'
@@ -11,6 +13,7 @@ Rails.application.routes.draw do
 
   get 'browse/', to: 'summa#show'
   get 'read/', to: 'reader#show'
+  get 'outline/', to: 'outline#show'
 
   get '/about', :to => redirect('/about.html')
   get '/code', :to => redirect('/code.html')
