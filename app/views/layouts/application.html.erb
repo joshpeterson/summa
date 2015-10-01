@@ -33,7 +33,7 @@
 <div class="footer">
   <div class="container">
     <p class="normal-text">
-      <a href="/">Home</a> | <a href="/browse">Browse</a> | <a href="/read">Read</a> | <a href="/outline">Outline</a>
+      <a href="/">Home</a> | <a href="/browse">Browse</a> | <a href="/read">Read</a> | <a href="/outline">Outline</a> | <%= link_to "Report a problem", :controller => "emailer", :action => "problem_email", :url => request.original_url %>
     </p>
   </div>
 </div>
