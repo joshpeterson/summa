@@ -13,7 +13,8 @@ class ArticlesController < ApplicationController
       @percent_in_treatise = percent_in_treatise
       @percent_in_question = percent_in_question
       @article.answer = process_html(@article.answer)
-      cookies["reader"] = "/articles/#{@article.id}"
+      cookies["reader"] = { :value => "/articles/#{@article.id}",
+                            :expires => 1.year.from_now }
     end
   end
 
