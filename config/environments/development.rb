@@ -13,7 +13,6 @@ Rails.application.configure do
   config.consider_all_requests_local       = true
   config.action_controller.perform_caching = false
 
-  # Don't care if the mailer can't send.
   config.action_mailer.raise_delivery_errors = true
 
   config.action_mailer.delivery_method = :smtp
@@ -23,7 +22,7 @@ Rails.application.configure do
     :port => 587,
     :domain => "sandboxe3c42cddf0144aa88488e78ba3331117.mailgun.org",
     :user_name => "postmaster@sandboxe3c42cddf0144aa88488e78ba3331117.mailgun.org",
-    :password => "ad8fe6cce627e04eacaf00fd301d1810"
+    :password => ENV["mailgun_password"]
   }
 
   # Print deprecation notices to the Rails logger.
