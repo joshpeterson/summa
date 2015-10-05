@@ -23,3 +23,9 @@ four:
   statement: Fourth objection statement
   reply:
   article_id: 2
+
+five:
+  id: 5
+  statement: Fifth objection statement
+  reply:
+  article_id: 4

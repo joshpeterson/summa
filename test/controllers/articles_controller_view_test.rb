@@ -127,4 +127,10 @@ class ArticlesControllerViewTest < ActionController::TestCase
     get_article("4")
     assert_equal(2, css_select("br").length)
   end
+
+  test "replies header is not shown for an article with no replies" do
+    get_article("4")
+    assert_not(assert_select("div.section-title").inner_html.include?("Replies"),
+                "The replies header exists, which is not expected.")
+  end
 end

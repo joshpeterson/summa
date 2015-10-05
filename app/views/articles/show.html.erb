@@ -20,13 +20,15 @@
       <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
       <%= @article.answer.html_safe %>
      </div>
-    <div class="section-title">Replies</div>
-    <% @article.objections.each do |objection| %>
-      <% if !objection.reply.nil? %>
-        <div class="reply">
-          <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-          <%= objection.reply %>
-        </div>
+     <% if @article.objections.any? {|o| !o.reply.nil?} %>
+      <div class="section-title">Replies</div>
+      <% @article.objections.each do |objection| %>
+        <% if !objection.reply.nil? %>
+          <div class="reply">
+            <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+            <%= objection.reply %>
+          </div>
+        <% end %>
       <% end %>
     <% end %>
     <div class="section-title">Context</div>
