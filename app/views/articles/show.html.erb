@@ -24,6 +24,10 @@
       <div class="section-title">Replies</div>
       <% @article.objections.each do |objection| %>
         <% if !objection.reply.nil? %>
+          <div class="statement">
+            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+            <%= objection.statement %>
+          </div>
           <div class="reply">
             <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
             <%= objection.reply %>
