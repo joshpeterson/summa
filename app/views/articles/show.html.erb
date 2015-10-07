@@ -38,7 +38,7 @@
     <div class="section-title">Context</div>
     <% if !@next.nil? %>
       <div class="context">
-        Next: <%= link_to @next.title, @next %>
+        <strong>Next: <%= link_to @next.title, @next %></strong>
       </div>
     <% end %>
     <% if !@previous.nil? %>
