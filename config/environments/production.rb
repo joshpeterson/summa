@@ -69,8 +69,8 @@ Rails.application.configure do
     :authentication => :plain,
     :address => "smtp.mailgun.org",
     :port => 587,
-    :domain => "sandboxe3c42cddf0144aa88488e78ba3331117.mailgun.org",
-    :user_name => "openshift-postmaster@sandboxe3c42cddf0144aa88488e78ba3331117.mailgun.org",
+    :domain => "mg.summaexplorer.com",
+    :user_name => "postmaster@mg.summaexplorer.com",
     :password => ENV["mailgun_password_production"]
   }
 
