@@ -2,25 +2,25 @@
 
 one:
   id: 1
-  statement: First objection statement
+  statement: "Objection 1: First objection statement"
   reply: First objection reply
   article_id: 1
 
 two:
   id: 2
-  statement: Second objection statement
+  statement: "Objection 2: Second objection statement"
   reply: Second objection reply
   article_id: 1
 
 three:
   id: 3
-  statement: Third objection statement
+  statement: "Objection 3: Third objection statement"
   reply: Third objection reply
   article_id: 2
 
 four:
   id: 4
-  statement: Fourth objection statement
+  statement: "Objection 4: Fourth objection statement"
   reply:
   article_id: 2
 
@@ -29,3 +29,15 @@ five:
   statement: Fifth objection statement
   reply:
   article_id: 4
+
+six:
+  id: 6
+  statement: "Objection 2: statement"
+  reply: Sixth objection reply
+  article_id: 3
+
+seven:
+  id: 7
+  statement: "Objection 1: statement"
+  reply: Seventh objection reply
+  article_id: 3

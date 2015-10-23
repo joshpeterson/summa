@@ -3,7 +3,7 @@
     <% @title=@article.title + " - Summa Explorer" %>
     <div class="title"><%= @article.title %></div>
     <div class="section-title">Objections</div>
-    <% @article.objections.each do |objection| %>
+    <% @sorted_objections.each do |objection| %>
       <div class="statement">
         <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
         <%= objection.statement %>
@@ -22,7 +22,7 @@
      </div>
      <% if @article.objections.any? {|o| !o.reply.nil?} %>
       <div class="section-title">Replies</div>
-      <% @article.objections.each do |objection| %>
+      <% @sorted_objections.each do |objection| %>
         <% if !objection.reply.nil? %>
           <div class="statement">
             <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>

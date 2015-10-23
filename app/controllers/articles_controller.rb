@@ -12,6 +12,7 @@ class ArticlesController < ApplicationController
       @percent_in_part = percent_in_part
       @percent_in_treatise = percent_in_treatise
       @percent_in_question = percent_in_question
+      @sorted_objections = sort_objections
       @article.answer = process_html(@article.answer)
       cookies["reader"] = { :value => "/articles/#{@article.id}",
                             :expires => 1.year.from_now }
@@ -86,5 +87,9 @@ class ArticlesController < ApplicationController
 
   def replace_each_empty_line_with_two_br_tags(text)
     text.gsub(/^\n/, "<br><br>")
+  end
+
+  def sort_objections
+    @article.objections.sort_by{|o| o.statement || ""}
   end
 end

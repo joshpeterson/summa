@@ -85,7 +85,8 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   test "view for second article has proper first statement objection" do
     get_article("2")
-    assert_match("Third objection statement", @statements[0].inner_html)
+    assert_match("Objection 3: Third objection statement",
+                 @statements[0].inner_html)
   end
 
   test "view for second article has proper first statement reply" do
@@ -95,7 +96,7 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   test "view for second article has proper second statement objection" do
     get_article("2")
-    assert_match("Fourth objection statement",@statements[1].inner_html )
+    assert_match("Objection 4: Fourth objection statement",@statements[1].inner_html )
   end
 
   test "view for first article has proper part context" do
@@ -142,5 +143,15 @@ class ArticlesControllerViewTest < ActionController::TestCase
     get_article("4")
     assert_not(assert_select("div.section-title").inner_html.include?("Replies"),
                 "The replies header exists, which is not expected.")
+  end
+
+  test "objection statements are sorted alphabetically" do
+    get_article("3")
+    assert_match("Objection 1:", @statements[0].inner_html)
+  end
+
+  test "objection statements for replies are sorted alphabetically" do
+    get_article("3")
+    assert_match("Objection 1:", @statements[2].inner_html)
   end
 end
