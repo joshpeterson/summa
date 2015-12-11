@@ -39,3 +39,23 @@ four:
   number_in_question: 41
   number_in_treatise: 42
   number_in_part: 43
+
+five:
+  id: 5
+  part_id: 2
+  treatise_id: 4
+  question_id: 4
+  article_id: 5
+  number_in_question: 41
+  number_in_treatise: 42
+  number_in_part: 43
+
+six:
+  id: 6
+  part_id: 2
+  treatise_id: 4
+  question_id: 4
+  article_id: 6
+  number_in_question: 41
+  number_in_treatise: 42
+  number_in_part: 43

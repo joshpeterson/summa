@@ -31,3 +31,20 @@ four:
   answer: "Fourth article answer\n\nSecond line."
   question_id: 2
   context_id: 4
+
+six:
+  id: 6
+  title: Sixth article title
+  contrary: Sixth article contrary
+  answer: Sixth article answer
+  question_id: 4
+  context_id: 6
+
+five:
+  id: 5
+  title: Fifth article title
+  contrary: Sixth article contrary
+  answer: Fifth article answer
+  question_id: 4
+  context_id: 5
+

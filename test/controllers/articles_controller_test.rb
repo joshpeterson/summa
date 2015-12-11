@@ -57,7 +57,7 @@ class ArticlesControllerTest < ActionController::TestCase
   end
 
   test "should provide a nil next article for the last article" do
-    get(:show, :id => "4")
+    get(:show, :id => "6")
     assert_nil(@controller.get_next)
   end
 

@@ -4,7 +4,7 @@
     <div class="title"><%= @question.title %></div>
     <div class="content"><%= @question.content %></div>
     <div class="list">
-    <% @question.articles.each do |article| %>
+    <% @sorted_articles.each do |article| %>
       <%= link_to article, :class => "item" do %>
         <span class="glyphicon glyphicon-menu-right pull-right"></span>
         <%= article.title %>

@@ -81,4 +81,10 @@ class QuestionsControllerViewTest < ActionController::TestCase
     get_question("2")
     assert_select("a[href=?]", "/articles/4")
   end
+
+  test "articles are sorted by article number" do
+    get_question("4")
+    a = css_select(@items[0], "a").first
+    assert_match("Fifth article title", a.inner_html)
+  end
 end
