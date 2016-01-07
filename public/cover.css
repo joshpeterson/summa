@@ -7,6 +7,7 @@ a,
 a:focus,
 a:hover {
   color: #fff;
+  text-decoration: underline;
 }
 
 /* Custom default button */
@@ -81,18 +82,21 @@ body {
   color: #fff; /* IE8 proofing */
   color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
+  text-decoration: none;
 }
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
   background-color: transparent;
   border-bottom-color: #a9a9a9;
   border-bottom-color: rgba(255,255,255,.25);
+  text-decoration: none;
 }
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
   color: #fff;
   border-bottom-color: #fff;
+  text-decoration: none;
 }
 
 @media (min-width: 768px) {
@@ -117,6 +121,9 @@ body {
   font-weight: bold;
 }
 
+.cover .btn {
+  text-decoration: none;
+}
 
 /*
  * Footer
