@@ -1,35 +1,59 @@
 <% @title="Outline - Summa Explorer" %>
 <div class="container">
   <div class="title">Summa Theologica - Outline</div>
-  <ul class="list-group">
-  <% @summa.parts.each_with_index do |part, i| %>
-    <li class="list-group-item">
-      <span class="badge"><%= part.treatises.length %></span>
-        <%= i+1 %>. <%= link_to part.title, part %>
+    <% @summa.parts.each_with_index do |part, i| %>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse<%= i %>"><%=part.title%></a>
+        </h4>
+      </div>
+      <div id="collapse<%= i %>" class="panel-collapse collapse">
         <ul class="list-group">
           <% part.treatises.each_with_index do |treatise, j| %>
             <li class="list-group-item">
-              <span class="badge"><%= treatise.questions.length %></span>
-              <%= j+1 %>. <%= link_to treatise.title, treatise %>
-              <ul class="list-group">
-                <% treatise.questions.each_with_index do |question, k| %>
-                  <li class="list-group-item">
-                    <span class="badge"><%= question.articles.length %></span>
-                    <%= k+1 %>. <%= link_to question.title, question %>
-                    <ul class="list-group">
-                      <% question.articles.each_with_index do |article, l| %>
-                        <li class="list-group-item">
-                          <%= l+1 %>. <%= link_to article.title, article %>
-                        </li>
-                      <% end %>
-                    </ul>
-                  </li>
-                <% end %>
-              </ul>
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title">
+                    <a data-toggle="collapse" href="#collapse<%= "#{i}#{j}" %>">
+                      <%=treatise.title%>
+                    </a>
+                  </h4>
+                </div>
+                <div id="collapse<%= "#{i}#{j}" %>"
+                      class="panel-collapse collapse">
+                  <ul class="list-group">
+                    <% treatise.questions.each_with_index do |question, k| %>
+                      <li class="list-group-item">
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                            <h4 class="panel-title">
+                              <a data-toggle="collapse"
+                                 href="#collapse<%= "#{i}#{j}#{k}" %>">
+                                 <%=question.title%>
+                              </a>
+                            </h4>
+                          </div>
+                          <div id="collapse<%= "#{i}#{j}#{k}" %>"
+                                class="panel-collapse collapse">
+                            <ul class="list-group">
+                              <% question.articles.each_with_index do |article, l| %>
+                                <li class="list-group-item">
+                                  <%= link_to article.title, article %>
+                                </li>
+                              <% end %>
+                            </ul>
+                          </div>
+                        </div>
+                      </li>
+                    <% end %>
+                  </ul>
+                </div>
+              </div>
             </li>
           <% end %>
         </ul>
-    </li>
-  <% end %>
-  </ul>
+      </div>
+    </div>
+    <% end %>
 </div>
