@@ -11,3 +11,4 @@ Summa is a collection of utilities to parse and explore the Summa Theologica. It
 License
 ------
 This source code is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+
