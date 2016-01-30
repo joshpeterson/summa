@@ -12,7 +12,11 @@ module TitleParser
     title.titleize
   end
 
+  def strip_asterisk(title)
+    title.gsub("*", "")
+  end
+
   def format_title(title)
-    title_casing_for(strip_parantheses(title))
+    title_casing_for(strip_asterisk(strip_parantheses(title)))
   end
 end

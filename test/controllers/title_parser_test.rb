@@ -20,7 +20,11 @@ class TitleParserTest < ActionController::TestCase
   end
 
   test "formats a title correctly" do
-    assert_equal("First Part", format_title("FIRST (FP) PART (QQ[1] - 15)"))
+    assert_equal("First Part", format_title("FIRST (FP) PART* (QQ[1] - 15)"))
+  end
+
+  test "removes an embedded asterisk" do
+    assert_equal("OF HONESTY [Test]", strip_asterisk("OF HONESTY* [Test]"))
   end
 end
 
