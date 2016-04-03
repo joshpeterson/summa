@@ -1,6 +1,4 @@
 Rails.application.routes.draw do
-  get 'emailer/problem_email'
-
   get 'outline/show'
 
   get 'reader/show'
@@ -19,8 +17,6 @@ Rails.application.routes.draw do
 
   get '/about', :to => redirect('/about.html')
   get '/code', :to => redirect('/code.html')
-
-  get :problem_email, to: 'emailer#problem_email', as: :problem_email
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
