@@ -154,4 +154,24 @@ class ArticlesControllerViewTest < ActionController::TestCase
     get_article("3")
     assert_match("Objection 1:", @statements[2].inner_html)
   end
+
+  test "has an anchor link for the objections" do
+    get_article("1")
+    assert_select("a[name=?]", "objections")
+  end
+
+  test "has an anchor link for the answer" do
+    get_article("1")
+    assert_select("a[name=?]", "answer")
+  end
+
+  test "has an anchor link for the replies" do
+    get_article("1")
+    assert_select("a[name=?]", "replies")
+  end
+
+  test "has an anchor link for the context" do
+    get_article("1")
+    assert_select("a[name=?]", "context")
+  end
 end

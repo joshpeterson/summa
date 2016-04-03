@@ -2,6 +2,7 @@
   <div class="container">
     <% @title=@article.title + " - Summa Explorer" %>
     <div class="title"><%= @article.title %></div>
+    <a name="objections"></a>
     <div class="section-title">Objections</div>
     <% @sorted_objections.each do |objection| %>
       <div class="statement">
@@ -9,6 +10,7 @@
         <%= objection.statement %>
       </div>
     <% end %>
+    <a name="answer"></a>
     <div class="section-title">Answer</div>
     <% if !@article.contrary.nil? %>
       <div class="contrary">
@@ -21,6 +23,7 @@
       <%= @article.answer.html_safe %>
      </div>
      <% if @article.objections.any? {|o| !o.reply.nil?} %>
+      <a name="replies"></a>
       <div class="section-title">Replies</div>
       <% @sorted_objections.each do |objection| %>
         <% if !objection.reply.nil? %>
@@ -35,6 +38,7 @@
         <% end %>
       <% end %>
     <% end %>
+    <a name="context"></a>
     <div class="section-title">Context</div>
     <% if !@next.nil? %>
       <div class="context">
