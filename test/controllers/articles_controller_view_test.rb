@@ -174,4 +174,24 @@ class ArticlesControllerViewTest < ActionController::TestCase
     get_article("1")
     assert_select("a[name=?]", "context")
   end
+
+  test "has an anchor link for the first objection" do
+    get_article("1")
+    assert_select("a[name=?]", "objection1")
+  end
+
+  test "has an anchor link for the second objection" do
+    get_article("1")
+    assert_select("a[name=?]", "objection2")
+  end
+
+  test "has an anchor link for the first reply" do
+    get_article("1")
+    assert_select("a[name=?]", "reply1")
+  end
+
+  test "has an anchor link for the second reply" do
+    get_article("1")
+    assert_select("a[name=?]", "reply2")
+  end
 end
