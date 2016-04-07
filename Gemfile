@@ -41,7 +41,7 @@ gem 'autoprefixer-rails'
 gem 'rack-mini-profiler'
 gem 'flamegraph'
 gem 'stackprof'
-gem 'memory_profiler'
+#gem 'memory_profiler' We need Ruby >= 2.1.0 in production for this to work
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a
