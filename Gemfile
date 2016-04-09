@@ -38,10 +38,11 @@ gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 
 # For profiling
-#gem 'rack-mini-profiler'
-#gem 'flamegraph'
-#gem 'stackprof'
-#gem 'memory_profiler' We need Ruby >= 2.1.0 in production for this to work
+# We need Ruby >= 2.1.0 in production for this to work
+gem 'rack-mini-profiler'
+gem 'flamegraph'
+gem 'stackprof'
+gem 'memory_profiler'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a
