@@ -18,5 +18,7 @@
 
 tags
 *.swp
+*.swo
 
 config/application.yml
+public/assets/*
