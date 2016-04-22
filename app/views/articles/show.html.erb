@@ -40,43 +40,45 @@
         <% end %>
       <% end %>
     <% end %>
-    <a name="context"></a>
-    <div class="section-title">Context</div>
-    <% if !@next.nil? %>
+    <div class="hidden-print">
+      <a name="context"></a>
+      <div class="section-title">Context</div>
+      <% if !@next.nil? %>
+        <div class="context">
+          <strong>Next: <%= link_to @next.title, @next %></strong>
+        </div>
+      <% end %>
+      <% if !@previous.nil? %>
+        <div class="context">
+          Previous: <%= link_to @previous.title, @previous %>
+        </div>
+      <% end %>
       <div class="context">
-        <strong>Next: <%= link_to @next.title, @next %></strong>
+        Part: <%= link_to @article.context.part.title,
+          @article.context.part %> - <%= @context_in_part %>
       </div>
-    <% end %>
-    <% if !@previous.nil? %>
+      <div class="progress">
+        <div class="progress-bar progress-bar-success progress-bar-striped"
+          role="progressbar" style="width: <%= @percent_in_part %>%;">
+        </div>
+      </div>
       <div class="context">
-        Previous: <%= link_to @previous.title, @previous %>
+        Treatise: <%= link_to @article.context.treatise.title,
+          @article.context.treatise %> - <%= @context_in_treatise %>
       </div>
-    <% end %>
-    <div class="context">
-      Part: <%= link_to @article.context.part.title,
-        @article.context.part %> - <%= @context_in_part %>
-    </div>
-    <div class="progress">
-      <div class="progress-bar progress-bar-success progress-bar-striped"
-        role="progressbar" style="width: <%= @percent_in_part %>%;">
+      <div class="progress">
+        <div class="progress-bar progress-bar-info progress-bar-striped"
+          role="progressbar" style="width: <%= @percent_in_treatise %>%;">
+        </div>
       </div>
-    </div>
-    <div class="context">
-      Treatise: <%= link_to @article.context.treatise.title,
-        @article.context.treatise %> - <%= @context_in_treatise %>
-    </div>
-    <div class="progress">
-      <div class="progress-bar progress-bar-info progress-bar-striped"
-        role="progressbar" style="width: <%= @percent_in_treatise %>%;">
+      <div class="context">
+        Question: <%= link_to @article.context.question.title,
+          @article.context.question %> - <%= @context_in_question %>
       </div>
-    </div>
-    <div class="context">
-      Question: <%= link_to @article.context.question.title,
-        @article.context.question %> - <%= @context_in_question %>
-    </div>
-    <div class="progress">
-      <div class="progress-bar progress-bar-striped"
-        role="progressbar" style="width: <%= @percent_in_question %>%;">
+      <div class="progress">
+        <div class="progress-bar progress-bar-striped"
+          role="progressbar" style="width: <%= @percent_in_question %>%;">
+        </div>
       </div>
     </div>
   </div>
