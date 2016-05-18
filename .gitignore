@@ -22,3 +22,6 @@ tags
 
 config/application.yml
 public/assets/*
+
+# For Gitbook
+_book/*
