@@ -1,4 +1,5 @@
 {
+  "author": "Saint Thomas Aquinas",
   "gitbook": ">=3.0.0-pre.15",
   "root": "./book"
 }
