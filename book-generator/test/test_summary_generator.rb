@@ -57,12 +57,12 @@ class TestSummaryGenerator < Minitest::Test
     questions = Array.new(4)
     questions[0] = QuestionParsed.new("Question 1", nil, articles[0..1])
     questions[1] = QuestionParsed.new("Question 2", nil, articles[2..3])
-    questions[2] = QuestionParsed.new("Question 3", nil, articles[4..5])
+    questions[2] = QuestionParsed.new("QuestioN 3 (FOUR ARTICLES)", nil, articles[4..5])
     questions[3] = QuestionParsed.new("Question 4", nil, articles[6..7])
 
     treatises = Array.new(4)
     treatises[0] = TreatiseParsed.new("Treatise 1", nil, questions[0,1])
-    treatises[1] = TreatiseParsed.new("Treatise 2", nil, questions[1,1])
+    treatises[1] = TreatiseParsed.new("TrEatise 2 (TWO QUESTIONS)", nil, questions[1,1])
     treatises[2] = TreatiseParsed.new("Treatise 3", nil, questions[2,1])
     treatises[3] = TreatiseParsed.new("Treatise 4", nil, questions[3,1])
 

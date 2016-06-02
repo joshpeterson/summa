@@ -20,7 +20,7 @@ class SummaryGenerator
         path.push(treatise_title)
         summary += emit_entry(2, treatise_title, append_prologue_link(path)) + "\n"
         for question in treatise.questions
-          question_title = question.title
+          question_title = title.format_title(question.title)
           path.push(question_title)
           summary += emit_entry(4, question_title, append_prologue_link(path)) + "\n"
           for article in question.articles
