@@ -14,29 +14,29 @@ class TestSummaryGenerator < Minitest::Test
   end
 
   def test_FirstLineIsSummaryTag
-    summary = @generator.Write(SummaParsed.new(Array.new))
+    summary = @generator.write(SummaParsed.new(Array.new))
     assert_startswith("# Summary", summary)
   end
 
   def test_EmitEntryWithNoIndent
-    entry = @generator.EmitEntry(0, "Text", "Link")
+    entry = @generator.emit_entry(0, "Text", "Link")
     assert_equal("* [Text](Link)", entry)
   end
 
   def test_EmitEntryWithIndent
-    entry = @generator.EmitEntry(4, "Text", "Link")
+    entry = @generator.emit_entry(4, "Text", "Link")
     assert_equal("    * [Text](Link)", entry)
   end
 
   def test_AppendPrologueLink
     path = Array.new
     path.push("First Part")
-    link = @generator.AppendPrologueLink(path)
+    link = @generator.append_prologue_link(path)
     assert_equal("first_part/prologue.md", link)
   end
 
   def test_EmitArticleMarkdownFilename
-    filename = @generator.EmitArticleMarkdownFilename("Whether God is one?")
+    filename = @generator.emit_article_markdown_filename("Whether God is one?")
     assert_equal("whether_god_is_one.md", filename)
   end
 
@@ -44,7 +44,7 @@ class TestSummaryGenerator < Minitest::Test
     stack = Array.new
     stack.push("First Part")
     stack.push("Treatise on the one God")
-    path = @generator.PathFromStack(stack)
+    path = @generator.path_from_stack(stack)
     assert_equal("first_part/treatise_on_the_one_god", path)
   end
 
@@ -67,11 +67,11 @@ class TestSummaryGenerator < Minitest::Test
     treatises[3] = TreatiseParsed.new("Treatise 4", nil, questions[3,1])
 
     parts = Array.new(2)
-    parts[0] = PartParsed.new("Part 1", nil, treatises[0..1])
+    parts[0] = PartParsed.new("PART 1 (First part)", nil, treatises[0..1])
     parts[1] = PartParsed.new("Part 2", nil, treatises[2..3])
 
     summa = SummaParsed.new(parts)
-    summary = @generator.Write(summa)
+    summary = @generator.write(summa)
     assert_equal($expected_summary, summary)
   end
 

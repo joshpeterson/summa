@@ -1,20 +1,32 @@
+require_relative "../../summa-parser/models/article"
+require_relative "../../summa-parser/models/question"
+require_relative "../../summa-parser/models/treatise"
+require_relative "../../summa-parser/models/part"
+require_relative "../../summa-parser/models/summa"
+require_relative "title_parser"
+
 class SummaryGenerator
-  def Write(summa)
+  def write(summa)
+    title = TitleParser.new
     summary = "# Summary\n"
 
     for part in summa.parts
       path = Array.new
-      path.push(part.title)
-      summary += EmitEntry(0, part.title, AppendPrologueLink(path)) + "\n"
+      part_title = title.format_title(part.title)
+      path.push(part_title)
+      summary += emit_entry(0, part_title, append_prologue_link(path)) + "\n"
       for treatise in part.treatises
-        path.push(treatise.title)
-        summary += EmitEntry(2, treatise.title, AppendPrologueLink(path)) + "\n"
+        treatise_title = title.format_title(treatise.title)
+        path.push(treatise_title)
+        summary += emit_entry(2, treatise_title, append_prologue_link(path)) + "\n"
         for question in treatise.questions
-          path.push(question.title)
-          summary += EmitEntry(4, question.title, AppendPrologueLink(path)) + "\n"
+          question_title = question.title
+          path.push(question_title)
+          summary += emit_entry(4, question_title, append_prologue_link(path)) + "\n"
           for article in question.articles
-            summary += EmitEntry(6, article.title, AppendToPath(PathFromStack(path),
-                                 EmitArticleMarkdownFilename(article.title))) + "\n"
+            article_title = title.format_title(article.title)
+            summary += emit_entry(6, article_title, append_to_path(path_from_stack(path),
+                                  emit_article_markdown_filename(article.title))) + "\n"
           end
           path.pop
         end
@@ -26,34 +38,34 @@ class SummaryGenerator
     return summary
   end
 
-  def EmitEntry(indent, text, link)
+  def emit_entry(indent, text, link)
     offset = " " * indent
     "#{offset}* [#{text}](#{link})"
   end
 
-  def AppendPrologueLink(path)
-    return AppendToPath(PathFromStack(path), "prologue.md")
+  def append_prologue_link(path)
+    return append_to_path(path_from_stack(path), "prologue.md")
   end
 
-  def EmitArticleMarkdownFilename(title)
-    return "#{MakeStringForPath(title)}.md"
+  def emit_article_markdown_filename(title)
+    return "#{make_string_for_path(title)}.md"
   end
 
-  def PathFromStack(stack)
+  def path_from_stack(stack)
     path = ""
     for entry in stack
-      path += "#{MakeStringForPath(entry)}/"
+      path += "#{make_string_for_path(entry)}/"
     end
     return path.chomp("/")
   end
 
   private
 
-  def AppendToPath(path, toAppend)
+  def append_to_path(path, toAppend)
     "#{path}/#{toAppend}"
   end
 
-  def MakeStringForPath(value)
+  def make_string_for_path(value)
     return "#{value.gsub(/\s+/, "_").gsub(/[[:punct:]]?$/, "").downcase}"
   end
 end
