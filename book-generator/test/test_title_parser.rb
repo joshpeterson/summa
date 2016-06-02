@@ -29,4 +29,8 @@ class TitleParserTest < MiniTest::Test
   def test_removes_an_embedded_asterisk
     assert_equal("OF HONESTY [Test]", @parser.strip_asterisk("OF HONESTY* [Test]"))
   end
+
+  def test_capitalizes_a_word_quotation_marks
+    assert_equal('First "Part"', @parser.title_casing_for('FIRST "PART"'))
+  end
 end

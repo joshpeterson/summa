@@ -7,7 +7,7 @@ class TitleParser
   end
 
   def title_casing_for(title)
-    title.split.map(&:capitalize).join(" ")
+    title.split.map(&:capitalize).join(" ").gsub(/"([a-z])/){ '"' + $1.upcase }
   end
 
   def strip_asterisk(title)
