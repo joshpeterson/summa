@@ -28,26 +28,6 @@ class TestSummaryGenerator < Minitest::Test
     assert_equal("    * [Text](Link)", entry)
   end
 
-  def test_AppendPrologueLink
-    path = Array.new
-    path.push("First Part")
-    link = @generator.append_prologue_link(path)
-    assert_equal("first_part/prologue.md", link)
-  end
-
-  def test_EmitArticleMarkdownFilename
-    filename = @generator.emit_article_markdown_filename("Whether God is one?")
-    assert_equal("whether_god_is_one.md", filename)
-  end
-
-  def test_PathFromStack
-    stack = Array.new
-    stack.push("First Part")
-    stack.push("Treatise on the one God")
-    path = @generator.path_from_stack(stack)
-    assert_equal("first_part/treatise_on_the_one_god", path)
-  end
-
   def test_WriteReturnsFullSummary
     articles = Array.new(8)
     for i in 0..articles.length - 1
@@ -57,12 +37,12 @@ class TestSummaryGenerator < Minitest::Test
     questions = Array.new(4)
     questions[0] = QuestionParsed.new("Question 1", nil, articles[0..1])
     questions[1] = QuestionParsed.new("Question 2", nil, articles[2..3])
-    questions[2] = QuestionParsed.new("QuestioN 3 (FOUR ARTICLES)", nil, articles[4..5])
+    questions[2] = QuestionParsed.new("QuestioN 3 (FOUR)", nil, articles[4..5])
     questions[3] = QuestionParsed.new("Question 4", nil, articles[6..7])
 
     treatises = Array.new(4)
     treatises[0] = TreatiseParsed.new("Treatise 1", nil, questions[0,1])
-    treatises[1] = TreatiseParsed.new("TrEatise 2 (TWO QUESTIONS)", nil, questions[1,1])
+    treatises[1] = TreatiseParsed.new("TrEatise 2 (TWO)", nil, questions[1,1])
     treatises[2] = TreatiseParsed.new("Treatise 3", nil, questions[2,1])
     treatises[3] = TreatiseParsed.new("Treatise 4", nil, questions[3,1])
 
