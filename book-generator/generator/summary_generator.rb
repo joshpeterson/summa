@@ -8,26 +8,25 @@ require_relative "utils"
 
 class SummaryGenerator
   def write(summa)
-    title = TitleParser.new
     summary = "# Summary\n"
 
     for part in summa.parts
       path = Array.new
-      part_title = title.format_title(part.title)
+      part_title = TitleParser.format_title(part.title)
       path.push(part_title)
       summary += emit_entry(0, part_title, Utils.append_prologue_link(path)) + "\n"
       for treatise in part.treatises
-        treatise_title = title.format_title(treatise.title)
+        treatise_title = TitleParser.format_title(treatise.title)
         path.push(treatise_title)
         summary += emit_entry(2, treatise_title,
                               Utils.append_prologue_link(path)) + "\n"
         for question in treatise.questions
-          question_title = title.format_title(question.title)
+          question_title = TitleParser.format_title(question.title)
           path.push(question_title)
           summary += emit_entry(4, question_title,
                                 Utils.append_prologue_link(path)) + "\n"
           for article in question.articles
-            article_title = title.format_title(article.title)
+            article_title = TitleParser.format_title(article.title)
             summary += emit_entry(6, article_title,
                       Utils.append_to_path(Utils.path_from_stack(path),
                       Utils.emit_article_markdown_filename(article.title))) + "\n"
