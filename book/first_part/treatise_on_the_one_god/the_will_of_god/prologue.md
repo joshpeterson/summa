@@ -13,3 +13,16 @@ After considering the things belonging to the divine knowledge, we consider what
 (10) Whether God has free will?
 (11) Whether the will of expression is distinguished in God?
 (12) Whether five expressions of will are rightly assigned to the divine will?
+
+* Whether There Is Will In God?
+* Whether God Wills Things Apart From Himself?
+* Whether Whatever God Wills He Wills Necessarily?
+* Whether The Will Of God Is The Cause Of Things?
+* Whether Any Cause Can Be Assigned To The Divine Will?
+* Whether The Will Of God Is Always Fulfilled?
+* Whether The Will Of God Is Changeable?
+* Whether The Will Of God Imposes Necessity On The Things Willed?
+* Whether God Wills Evils?
+* Whether God Has Free-will?
+* Whether The Will Of Expression Is To Be Distinguished In God?
+* Whether Five Expressions Of Will Are Rightly Assigned To The Divine Will?

@@ -9,3 +9,12 @@ We have now to consider the Saviour's conception. First, as to the matter from w
 (6) Whether the flesh of Christ was in the patriarchs as to something signate?
 (7) Whether the flesh of Christ in the patriarchs was subject to sin?
 (8) Whether Christ paid tithes in the loins of Abraham?
+
+* Whether The Flesh Of Christ Was Derived From Adam?
+* Whether Christ Took Flesh Of The Seed Of David?
+* Whether Christ's Genealogy Is Suitably Traced By The Evangelists?
+* Whether The Matter Of Christ's Body Should Have Been Taken From A Woman?
+* Whether The Flesh Of Christ Was Conceived Of The Virgin's Purest Blood?
+* Whether Christ's Body Was In Adam And The Other Patriarchs, As To Something Signate?
+* Whether Christ's Flesh In The Patriarchs Was Infected By Sin?
+* Whether Christ Paid Tithes In Abraham's Loins?

@@ -9,3 +9,12 @@ We have now to consider happiness: and (1) in what it consists; (2) what it is; 
 (6) Whether in pleasure?
 (7) Whether in any good of the soul?
 (8) Whether in any created good?
+
+* Whether Man's Happiness Consists In Wealth?
+* Whether Man's Happiness Consists In Honors?
+* Whether Man's Happiness Consists In Fame Or Glory?
+* Whether Man's Happiness Consists In Power?
+* Whether Man's Happiness Consists In Any Bodily Good?
+* Whether Man's Happiness Consists In Pleasure?
+* Whether Some Good Of The Soul Constitutes Man's Happiness?
+* Whether Any Created Good Constitutes Man's Happiness?

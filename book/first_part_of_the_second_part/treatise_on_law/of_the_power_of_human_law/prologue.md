@@ -7,3 +7,10 @@ We must now consider the power of human law. Under this head there are six point
 (4) Whether it binds man in conscience?
 (5) Whether all men are subject to human law?
 (6) Whether those who are under the law may act beside the letter of the law?
+
+* Whether Human Law Should Be Framed For The Community Rather Than For The Individual?
+* Whether It Belongs To The Human Law To Repress All Vices?
+* Whether Human Law Prescribes Acts Of All The Virtues?
+* Whether Human Law Binds A Man In Conscience?
+* Whether All Are Subject To The Law?
+* Whether He Who Is Under A Law May Act Beside The Letter Of The Law?

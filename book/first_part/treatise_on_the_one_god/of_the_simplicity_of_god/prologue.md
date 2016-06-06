@@ -9,3 +9,12 @@ When the existence of a thing has been ascertained there remains the further que
 (6) Whether He is composed of subject and accident?
 (7) Whether He is in any way composite, or wholly simple?
 (8) Whether He enters into composition with other things?
+
+* Whether God Is A Body?
+* Whether God Is Composed Of Matter And Form?
+* Whether God Is The Same As His Essence Or Nature?
+* Whether Essence And Existence Are The Same In God?
+* Whether God Is Contained In A Genus?
+* Whether In God There Are Any Accidents?
+* Whether God Is Altogether Simple?
+* Whether God Enters Into The Composition Of Other Things?

@@ -9,3 +9,12 @@ We must next consider pride, and (1) pride in general; (2) the first man's sin, 
 (6) Whether it is the most grievous of all sins?
 (7) Of its relation to other sins;
 (8) Whether it should be reckoned a capital vice?
+
+* Whether Pride Is A Sin?
+* Whether Pride Is A Special Sin?
+* Whether The Subject Of Pride Is The Irascible Faculty?
+* Whether The Four Species Of Pride Are Fittingly Assigned By Gregory?
+* Whether Pride Is A Mortal Sin?
+* Whether Pride Is The Most Grievous Of Sins?
+* Whether Pride Is The First Sin Of All?
+* Whether Pride Should Be Reckoned A Capital Vice?

@@ -9,3 +9,12 @@ We proceed to consider those things which belong to the powers of the soul; firs
 (6) Whether the powers flow from the essence of the soul?
 (7) Whether one power rises from another?
 (8) Whether all the powers of the soul remain in the soul after death?
+
+* Whether The Essence Of The Soul Is Its Power?
+* Whether There Are Several Powers Of The Soul?
+* Whether The Powers Are Distinguished By Their Acts And Objects?
+* Whether Among The Powers Of The Soul There Is Order?
+* Whether All The Powers Of The Soul Are In The Soul As Their Subject?
+* Whether The Powers Of The Soul Flow From Its Essence?
+* Whether One Power Of The Soul Arises From Another?
+* Whether All The Powers Remain In The Soul When Separated From The Body?

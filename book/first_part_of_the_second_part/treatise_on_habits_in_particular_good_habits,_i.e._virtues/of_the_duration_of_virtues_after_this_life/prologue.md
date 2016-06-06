@@ -7,3 +7,10 @@ We must now consider the duration of virtues after this life, under which head t
 (4) Whether hope remains?
 (5) Whether anything remains of faith or hope?
 (6) Whether charity remains?
+
+* Whether The Moral Virtues Remain After This Life?
+* Whether The Intellectual Virtues Remain After This Life?
+* Whether Faith Remains After This Life?
+* Whether Hope Remains After Death, In The State Of Glory?
+* Whether Anything Of Faith Or Hope Remains In Glory?
+* Whether Charity Remains After This Life, In Glory?

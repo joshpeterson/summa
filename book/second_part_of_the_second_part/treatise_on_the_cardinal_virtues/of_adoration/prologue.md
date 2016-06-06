@@ -4,3 +4,7 @@ In due sequence we must consider the external acts of latria, and in the first p
 (1) Whether adoration is an act of latria?
 (2) Whether adoration denotes an internal or an external act?
 (3) Whether adoration requires a definite place?
+
+* Whether Adoration Is An Act Of Latria Or Religion?
+* Whether Adoration Denotes An Action Of The Body?
+* Whether Adoration Requires A Definite Place?

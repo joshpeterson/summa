@@ -5,3 +5,8 @@ After treating of the procession of the divine persons, we must consider the pro
 (2) Whether primary matter is created by God, or is an independent coordinate principle with Him?
 (3) Whether God is the exemplar cause of beings or whether there are other exemplar causes?
 (4) Whether He is the final cause of things?
+
+* Whether It Is Necessary That Every Being Be Created By God?
+* Whether Primary Matter Is Created By God?
+* Whether The Exemplar Cause Is Anything Besides God?
+* Whether God Is The Final Cause Of All Things?

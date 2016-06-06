@@ -13,3 +13,16 @@ We must now consider charity in relation to its subject, under which head there 
 (10) Whether charity can diminish?
 (11) Whether charity can be lost after it has been possessed?
 (12) Whether it is lost through one mortal sin?
+
+* Whether The Will Is The Subject Of Charity?
+* Whether Charity Is Caused In Us By Infusion?
+* Whether Charity Is Infused According To The Capacity Of Our Natural Gifts?
+* Whether Charity Can Increase?
+* Whether Charity Increases By Addition?
+* Whether Charity Increases Through Every Act Of Charity?
+* Whether Charity Increases Indefinitely?
+* Whether Charity Can Be Perfect In This Life?
+* Whether Charity Is Rightly Distinguished Into Three Degrees, Beginning, Progress, And Perfection?
+* Whether Charity Can Decrease?
+* Whether We Can Lose Charity When Once We Have It?
+* Whether Charity Is Lost Through One Mortal Sin?

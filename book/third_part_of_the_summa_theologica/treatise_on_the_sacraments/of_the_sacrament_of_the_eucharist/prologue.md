@@ -7,3 +7,10 @@ We have now to consider the sacrament of the Eucharist; and first of all we trea
 (4) Its names;
 (5) Its institution;
 (6) Its figures.
+
+* Whether The Eucharist Is A Sacrament?
+* Whether The Eucharist Is One Sacrament Or Several?
+* Whether The Eucharist Is Necessary For Salvation?
+* Whether This Sacrament Is Suitably Called By Various Names?
+* Whether The Institution Of This Sacrament Was Appropriate?
+* Whether The Paschal Lamb Was The Chief Figure Of This Sacrament?

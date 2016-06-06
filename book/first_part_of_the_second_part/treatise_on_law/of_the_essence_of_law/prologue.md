@@ -5,3 +5,8 @@ We have now to consider the extrinsic principles of acts. Now the extrinsic prin
 (2) Concerning the end of law;
 (3) Its cause;
 (4) The promulgation of law.
+
+* Whether Law Is Something Pertaining To Reason?
+* Whether The Law Is Always Something Directed To The Common Good?
+* Whether The Reason Of Any Man Is Competent To Make Laws?
+* Whether Promulgation Is Essential To A Law?

@@ -4,3 +4,7 @@ In the next place we must consider the conditions of those who rise again. Here 
 (1) Whether the body will rise again identically the same?
 (2) Whether it will be the self-same man?
 (3) Whether it is necessary that the same ashes should return to the same parts in which they were before?
+
+* Whether In The Resurrection The Soul Will Be Reunited To The Same Identical Body?
+* Whether It Will Be Identically The Same Man That Shall Rise Again?
+* Whether The Ashes Of The Human Body Must Needs, By The Resurrection, Return To The Same Parts Of The Body That Were Dissolved Into Them?

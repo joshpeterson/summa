@@ -5,3 +5,8 @@ We must now consider superstition in observances, under which head there are fou
 (2) Of observances for causing alterations in certain bodies;
 (3) Of observances practiced in fortune-telling;
 (4) Of wearing sacred words at the neck.
+
+* Whether It Be Unlawful To Practice The Observances Of The Magic Art?
+* Whether Observances Directed To The Alteration Of Bodies, As For The Purpose Of Acquiring Health Or The Like, Are Unlawful?
+* Whether Observances Directed To The Purpose Of Fortune-telling Are Unlawful?
+* Whether It Is Unlawful To Wear Divine Words At The Neck?

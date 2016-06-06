@@ -11,3 +11,14 @@ We must now consider merit, which is the effect of cooperating grace; and under 
 (8) Whether he can merit for himself an increase of grace or charity?
 (9) Whether he can merit final perseverance?
 (10) Whether temporal goods fall under merit?
+
+* Whether A Man May Merit Anything From God?
+* Whether Anyone Without Grace Can Merit Eternal Life?
+* Whether A Man In Grace Can Merit Eternal Life Condignly?
+* Whether Grace Is The Principle Of Merit Through Charity Rather Than The Other Virtues?
+* Whether A Man May Merit For Himself The First Grace?
+* Whether A Man Can Merit The First Grace For Another?
+* Whether A Man May Merit Restoration After A Fall?
+* Whether A Man May Merit The Increase Of Grace Or Charity?
+* Whether A Man May Merit Perseverance?
+* Whether Temporal Goods Fall Under Merit?

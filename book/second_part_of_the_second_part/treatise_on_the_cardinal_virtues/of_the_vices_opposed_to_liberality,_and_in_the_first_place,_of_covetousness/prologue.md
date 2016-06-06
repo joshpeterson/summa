@@ -9,3 +9,12 @@ We must now consider the vices opposed to liberality: and (1) covetousness; (2) 
 (6) Whether it is a sin of the flesh or a spiritual sin?
 (7) Whether it is a capital vice?
 (8) Of its daughters.
+
+* Whether Covetousness Is A Sin?
+* Whether Covetousness Is A Special Sin?
+* Whether Covetousness Is Opposed To Liberality?
+* Whether Covetousness Is Always A Mortal Sin?
+* Whether Covetousness Is The Greatest Of Sins?
+* Whether Covetousness Is A Spiritual Sin?
+* Whether Covetousness Is A Capital Vice?
+* Whether Treachery, Fraud, Falsehood, Perjury, Restlessness, Violence, And Insensibility To Mercy Are Daughters Of Covetousness?

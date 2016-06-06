@@ -7,3 +7,10 @@ We must now consider liberality and the opposite vices, namely, covetousness and
 (4) Whether it pertains thereto to give rather than to take?
 (5) Whether liberality is a part of justice?
 (6) Of its comparison with other virtues.
+
+* Whether Liberality Is A Virtue?
+* Whether Liberality Is About Money?
+* Whether Using Money Is The Act Of Liberality?
+* Whether It Belongs To A Liberal Man Chiefly To Give?
+* Whether Liberality Is A Part Of Justice?
+* Whether Liberality Is The Greatest Of The Virtues?

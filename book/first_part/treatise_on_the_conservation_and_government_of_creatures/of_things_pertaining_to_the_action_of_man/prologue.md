@@ -5,3 +5,8 @@ We have next to consider those things which pertain to the action of man, who is
 (2) Whether man can teach an angel?
 (3) Whether by the power of his soul man can change corporeal matter?
 (4) Whether the separate soul of man can move bodies by local movement?
+
+* Whether One Man Can Teach Another?
+* Whether Man Can Teach The Angels?
+* Whether Man By The Power Of His Soul Can Change Corporeal Matter?
+* Whether The Separate Human Soul Can Move Bodies At Least Locally?

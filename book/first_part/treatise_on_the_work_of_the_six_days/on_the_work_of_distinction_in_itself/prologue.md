@@ -5,3 +5,8 @@ We must consider next the work of distinction in itself. First, the work of the 
 (2) Whether light, in corporeal things, is itself corporeal?
 (3) Whether light is a quality?
 (4) Whether light was fittingly made on the first day?
+
+* Whether The Word "Light" Is Used In Its Proper Sense In Speaking Of Spiritual Things?
+* Whether Light Is A Body?
+* Whether Light Is A Quality?
+* Whether The Production Of Light Is Fittingly Assigned To The First Day?

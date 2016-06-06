@@ -5,3 +5,8 @@ In due sequence we must consider those acts whereby external things are offered 
 (2) Whether sacrifice should be offered to God alone?
 (3) Whether the offering of a sacrifice is a special act of virtue?
 (4) Whether all are bound to offer sacrifice?
+
+* Whether Offering A Sacrifice To God Is Of The Law Of Nature?
+* Whether Sacrifice Should Be Offered To God Alone?
+* Whether The Offering Of Sacrifice Is A Special Act Of Virtue?
+* Whether All Are Bound To Offer Sacrifices?

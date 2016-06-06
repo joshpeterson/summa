@@ -7,3 +7,10 @@ We now have to consider the various kinds of virtue: and (1) the intellectual vi
 (4) Whether prudence is a virtue distinct from art?
 (5) Whether prudence is a virtue necessary to man?
 (6) Whether "eubulia," "synesis" and "gnome" are virtues annexed to prudence?
+
+* Whether The Habits Of The Speculative Intellect Are Virtues?
+* Whether There Are Only Three Habits Of The Speculative Intellect, Viz. Wisdom, Science And Understanding?
+* Whether The Intellectual Habit, Art, Is A Virtue?
+* Whether Prudence Is A Distinct Virtue From Art?
+* Whether Prudence Is A Virtue Necessary To Man?
+* Whether "Eubulia, Synesis, And Gnome" Are Virtues Annexed To Prudence?

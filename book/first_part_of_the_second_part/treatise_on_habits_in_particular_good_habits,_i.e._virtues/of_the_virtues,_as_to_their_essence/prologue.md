@@ -5,3 +5,8 @@ We come now to the consideration of habits specifically. And since habits, as we
 (2) Whether it is an operative habit?
 (3) Whether it is a good habit?
 (4) Of the definition of virtue.
+
+* Whether Human Virtue Is A Habit?
+* Whether Human Virtue Is An Operative Habit?
+* Whether Human Virtue Is A Good Habit?
+* Whether Virtue Is Suitably Defined?

@@ -7,3 +7,10 @@ We must now consider the causes of the ceremonial precepts: under which head the
 (4) The causes of the sacrifices;
 (5) The causes of the sacred things;
 (6) The causes of the observances.
+
+* Whether There Was Any Cause For The Ceremonial Precepts?
+* Whether The Ceremonial Precepts Have A Literal Cause Or Merely A Figurative Cause?
+* Whether A Suitable Cause Can Be Assigned For The Ceremonies Which Pertained To Sacrifices?
+* Whether Sufficient Reason Can Be Assigned For The Ceremonies Pertaining To Holy Things?
+* Whether There Can Be Any Suitable Cause For The Sacraments Of The Old Law?
+* Whether There Was Any Reasonable Cause For The Ceremonial Observances?

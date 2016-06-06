@@ -9,3 +9,12 @@ We must now consider the union on the part of the Person assuming, and under thi
 (6) Whether several Persons can assume one individual nature?
 (7) Whether one Person can assume two individual natures?
 (8) Whether it was more fitting for the Person of the Son of God to assume human nature than for another Divine Person?
+
+* Whether It Is Befitting For A Divine Person To Assume?
+* Whether It Is Befitting To The Divine Nature To Assume?
+* Whether The Nature Abstracted From The Personality Can Assume?
+* Whether One Person Without Another Can Assume A Created Nature?
+* Whether Each Of The Divine Persons Could Have Assumed Human Nature?
+* Whether Several Divine Persons Can Assume One And The Same Individual Nature?
+* Whether One Divine Person Can Assume Two Human Natures?
+* Whether It Was More Fitting That The Person Of The Son Rather Than Any Other Divine Person Should Assume Human Nature?

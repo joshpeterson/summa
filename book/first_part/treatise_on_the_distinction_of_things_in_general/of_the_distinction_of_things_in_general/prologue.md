@@ -4,3 +4,7 @@ After considering the production of creatures, we come to the consideration of t
 (1) The multitude or distinction of things.
 (2) Their inequality.
 (3) The unity of the world.
+
+* Whether The Multitude And Distinction Of Things Come From God?
+* Whether The Inequality Of Things Is From God?
+* Whether There Is Only One World?

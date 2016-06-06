@@ -5,3 +5,8 @@ We next treat of the powers of the soul specifically. The theologian, however, h
 (2) The various species of the vegetative part;
 (3) The exterior senses;
 (4) The interior senses.
+
+* Whether There Are To Be Distinguished Five Genera Of Powers In The Soul?
+* Whether The Parts Of The Vegetative Soul Are Fittingly Described As The Nutritive, Augmentative, And Generative?
+* Whether The Five Exterior Senses Are Properly Distinguished?
+* Whether The Interior Senses Are Suitably Distinguished?

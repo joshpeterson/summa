@@ -4,3 +4,7 @@ We now inquire into the knowledge of the angels with regard to the objects known
 (1) Does an angel know himself?
 (2) Does one angel know another?
 (3) Does the angel know God by his own natural principles?
+
+* Whether An Angel Knows Himself?
+* Whether One Angel Knows Another?
+* Whether An Angle Knows God By His Own Natural Principles?

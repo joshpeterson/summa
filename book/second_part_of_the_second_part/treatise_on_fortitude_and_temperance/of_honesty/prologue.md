@@ -5,3 +5,8 @@
 (2) Its relation with the beautiful [*As honesty here denotes moral goodness, so beauty stands for moral beauty];
 (3) Its relation with the useful and the pleasant;
 (4) Whether honesty is a part of temperance?
+
+* Whether Honesty Is The Same As Virtue?
+* Whether The Honest Is The Same As The Beautiful?
+* Whether The Honest Differs From The Useful And The Pleasant?
+* Whether Honesty Should Be Reckoned A Part Of Temperance?

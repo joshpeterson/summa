@@ -5,3 +5,8 @@ We have now to consider Christ's temptation, concerning which there are four poi
 (2) Of the place;
 (3) Of the time;
 (4) Of the mode and order of the temptation.
+
+* Whether It Was Becoming That Christ Should Be Tempted?
+* Whether Christ Should Have Been Tempted In The Desert?
+* Whether Christ's Temptation Should Have Taken Place After His Fast?
+* Whether The Mode And Order Of The Temptation Were Becoming?

@@ -5,3 +5,8 @@ We have now to consider the soul's passions in particular, and (1) the passions 
 (2) Whether love is a passion?
 (3) Whether love is the same as dilection?
 (4) Whether love is properly divided into love of friendship, and love of concupiscence?
+
+* Whether Love Is In The Concupiscible Power?
+* Whether Love Is A Passion?
+* Whether Love Is The Same As Dilection?
+* Whether Love Is Properly Divided Into Love Of Friendship And Love Of Concupiscence?

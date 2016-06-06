@@ -9,3 +9,12 @@ After treating of faith, we must consider hope and (1) hope itself; (2) the gift
 (6) Of its distinction from the other theological virtues?
 (7) Of its relation to faith;
 (8) Of its relation to charity.
+
+* Whether Hope Is A Virtue?
+* Whether Eternal Happiness Is The Proper Object Of Hope?
+* Whether One Man May Hope For Another's Eternal Happiness?
+* Whether A Man Can Lawfully Hope In Man?
+* Whether Hope Is A Theological Virtue?
+* Whether Hope Is Distinct From The Other Theological Virtues?
+* Whether Hope Precedes Faith?
+* Whether Charity Precedes Hope?

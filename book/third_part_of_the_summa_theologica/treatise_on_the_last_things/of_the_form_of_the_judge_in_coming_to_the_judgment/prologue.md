@@ -4,3 +4,7 @@ We must now consider the form of the Judge in coming to the judgment. Under this
 (1) Whether Christ will judge under the form or His humanity?
 (2) Whether He will appear under the form of His glorified humanity?
 (3) Whether His Godhead can be seen without joy?
+
+* Whether Christ Will Judge Under The Form Of His Humanity?
+* Whether At The Judgment Christ Will Appear In His Glorified Humanity?
+* Whether The Godhead Can Be Seen By The Wicked Without Joy?

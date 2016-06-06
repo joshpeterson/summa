@@ -7,3 +7,10 @@ OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)  We have in the next pla
 (4) Whether a vicious act is compatible with virtue?
 (5) Whether every sin includes action?
 (6) Of the definition of sin proposed by Augustine (Contra Faust. xxii): "Sin is a word, deed, or desire against the eternal law."
+
+* Whether Vice Is Contrary To Virtue?
+* Whether Vice Is Contrary To Nature?
+* Whether Vice Is Worse Than A Vicious Act?
+* Whether Sin Is Compatible With Virtue?
+* Whether Every Sin Includes An Action?
+* Whether Sin Is Fittingly Defined As A Word, Deed, Or Desire Contrary To The Eternal Law?

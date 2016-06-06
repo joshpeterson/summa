@@ -13,3 +13,16 @@ We must now consider the gift of fear, about which there are twelve points of in
 (10) Whether it grows when charity grows?
 (11) Whether it remains in heaven?
 (12) Which of the beatitudes and fruits correspond to it?
+
+* Whether God Can Be Feared?
+* Whether Fear Is Fittingly Divided Into Filial, Initial, Servile And Worldly Fear?
+* Whether Worldly Fear Is Always Evil?
+* Whether Servile Fear Is Good?
+* Whether Servile Fear Is Substantially The Same As Filial Fear?
+* Whether Servile Fear Remains With Charity?
+* Whether Fear Is The Beginning Of Wisdom?
+* Whether Initial Fear Differs Substantially From Filial Fear?
+* Whether Fear Is A Gift Of The Holy Ghost?
+* Whether Fear Decreases When Charity Increases?
+* Whether Fear Remains In Heaven?
+* Whether Poverty Of Spirit Is The Beatitude Corresponding To The Gift Of Fear?

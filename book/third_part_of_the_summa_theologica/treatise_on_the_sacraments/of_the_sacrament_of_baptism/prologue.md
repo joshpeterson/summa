@@ -13,3 +13,16 @@ We have now to consider each sacrament specially: (1) Baptism; (2) Confirmation;
 (10) Of the Baptismal rite;
 (11) Of the various kinds of Baptism;
 (12) Of the comparison between various Baptisms.
+
+* Whether Baptism Is The Mere Washing?
+* Whether Baptism Was Instituted After Christ's Passion?
+* Whether Water Is The Proper Matter Of Baptism?
+* Whether Plain Water Is Necessary For Baptism?
+* Whether This Be A Suitable Form Of Baptism: "I Baptize Thee In The Name Of The Father, And Of The Son, And Of The Holy Ghost"?
+* Whether Baptism Can Be Conferred In The Name Of Christ?
+* Whether Immersion In Water Is Necessary For Baptism?
+* Whether Trine Immersion Is Essential To Baptism?
+* Whether Baptism May Be Reiterated?
+* Whether The Church Observes A Suitable Rite In Baptizing?
+* Whether Three Kinds Of Baptism Are Fittingly Described---viz. Baptism Of Water, Of Blood, And Of The Spirit?
+* Whether The Baptism Of Blood Is The Most Excellent Of These?

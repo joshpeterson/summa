@@ -4,3 +4,7 @@ We must now consider the different acts of the will; and in the first place, tho
 (1) Whether the will is of good only?
 (2) Whether it is of the end only, or also of the means?
 (3) If in any way it be of the means, whether it be moved to the end and to the means, by the same movement?
+
+* Whether The Will Is Of Good Only?
+* Whether Volition Is Of The End Only, Or Also Of The Means?
+* Whether The Will Is Moved By The Same Act To The End And To The Means?

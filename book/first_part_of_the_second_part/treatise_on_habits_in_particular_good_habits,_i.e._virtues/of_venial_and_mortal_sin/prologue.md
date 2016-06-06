@@ -7,3 +7,10 @@ In the next place, since venial and mortal sins differ in respect of the debt of
 (4) Whether a venial sin can become mortal?
 (5) Whether a venial sin can become mortal by reason of an aggravating circumstance?
 (6) Whether a mortal sin can become venial?
+
+* Whether Venial Sin Is Fittingly Condivided With Mortal Sin?
+* Whether Mortal And Venial Sin Differ Generically?
+* Whether Venial Sin Is A Disposition To Mortal Sin?
+* Whether A Venial Sin Can Become Mortal?
+* Whether A Circumstance Can Make A Venial Sin To Be Mortal?
+* Whether A Mortal Sin Can Become Venial?

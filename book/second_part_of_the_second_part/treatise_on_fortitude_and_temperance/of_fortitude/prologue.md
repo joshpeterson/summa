@@ -13,3 +13,15 @@ After considering justice we must in due sequence consider fortitude. We must (1
 (10) Whether it makes use of anger in its action?
 (11) Whether it is a cardinal virtue?
 (12) Of its comparison with the other cardinal virtues.
+
+* Whether Fortitude Is A Virtue?
+* Whether Fortitude Is A Special Virtue?
+* Whether Fortitude Is About Fear And Dying?
+* Whether Fortitude Is Only About Dangers Of Death?
+* Whether Fortitude Is Properly About Dangers Of Death In Battle?
+* Whether Endurance Is The Chief Act Of Fortitude?
+* Whether The Brave Man Acts For The Sake Of The Good Of His Habit?
+* Whether The Brave Man Delights In His Act?
+* Whether Fortitude Deals Chiefly With Sudden Occurrences?
+* Whether The Brave Man Makes Use Of Anger In His Action?
+* Whether Fortitude Excels Among All Other Virtues?

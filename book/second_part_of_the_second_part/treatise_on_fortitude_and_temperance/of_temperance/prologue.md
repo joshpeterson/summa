@@ -9,3 +9,12 @@ In the next place we must consider temperance: (1) Temperance itself; (2) its pa
 (6) What is the rule of temperance?
 (7) Whether it is a cardinal, or principal, virtue?
 (8) Whether it is the greatest of virtues ?
+
+* Whether Temperance Is A Virtue?
+* Whether Temperance Is A Special Virtue?
+* Whether Temperance Is Only About Desires And Pleasures?
+* Whether Temperance Is Only About Desires And Pleasures Of Touch?
+* Whether Temperance Is About The Pleasures Proper To The Taste?
+* Whether The Rule Of Temperance Depends On The Need Of The Present Life?
+* Whether Temperance Is A Cardinal Virtue?
+* Whether Temperance Is The Greatest Of The Virtues?

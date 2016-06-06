@@ -7,3 +7,10 @@ We have now to consider the action of the corporeal creature; and fate, which is
 (4) Whether they are the cause of human acts?
 (5) Whether demons are subject to their influence?
 (6) Whether the heavenly bodies impose necessity on those things which are subject to their influence?
+
+* Whether A Body Can Be Active?
+* Whether There Are Any Seminal Virtues In Corporeal Matter?
+* Whether The Heavenly Bodies Are The Cause Of What Is Produced In Bodies Here Below?
+* Whether The Heavenly Bodies Are The Cause Of Human Actions?
+* Whether Heavenly Bodies Can Act On The Demons?
+* Whether Heavenly Bodies Impose Necessity On Things Subject To Their Action?

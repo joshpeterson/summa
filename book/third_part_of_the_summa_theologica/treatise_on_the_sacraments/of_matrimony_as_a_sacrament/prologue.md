@@ -5,3 +5,8 @@ We must next consider matrimony as a sacrament. Under this head there are four p
 (2) Whether it ought to have been instituted before sin was committed?
 (3) Whether it confers grace?
 (4) Whether carnal intercourse belongs to the integrity of matrimony?
+
+* Whether Matrimony Is A Sacrament?
+* Whether This Sacrament Ought To Have Been Instituted Before Sin Was Committed?
+* Whether Matrimony Confers Grace?
+* Whether Carnal Intercourse Is An Integral Part Of This Sacrament?

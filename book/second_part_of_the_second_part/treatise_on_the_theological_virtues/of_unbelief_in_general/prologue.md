@@ -13,3 +13,16 @@ In due sequence we must consider the contrary vices: first, unbelief, which is c
 (10) Whether unbelievers can have authority over Christians?
 (11) Whether the rites of unbelievers should be tolerated?
 (12) Whether the children of unbelievers are to be baptized against their parents' will?
+
+* Whether Unbelief Is A Sin?
+* Whether Unbelief Is In The Intellect As Its Subject?
+* Whether Unbelief Is The Greatest Of Sin?
+* Whether Every Act Of An Unbeliever Is A Sin?
+* Whether There Are Several Species Of Unbelief?
+* Whether The Unbelief Of Pagans Or Heathens Is Graver Than Other Kinds?
+* Whether One Ought To Dispute With Unbelievers In Public?
+* Whether Unbelievers Ought To Be Compelled To The Faith?
+* Whether It Is Lawful To Communicate With Unbelievers?
+* Whether Unbelievers May Have Authority Or Dominion Over The Faithful?
+* Whether The Rites Of Unbelievers Ought To Be Tolerated?
+* Whether The Children Of Jews And Other Unbelievers Ought To Be Baptized Against Their Parents' Will?

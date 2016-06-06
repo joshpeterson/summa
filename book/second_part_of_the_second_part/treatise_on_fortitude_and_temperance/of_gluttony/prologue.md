@@ -7,3 +7,10 @@ We must now consider gluttony. Under this head there are six points of inquiry:
 (4) Its species;
 (5) Whether it is a capital sin?
 (6) Its daughters.
+
+* Whether Gluttony Is A Sin?
+* Whether Gluttony Is A Mortal Sin?
+* Whether Gluttony Is The Greatest Of Sins?
+* Whether The Species Of Gluttony Are Fittingly Distinguished?
+* Whether Gluttony Is A Capital Vice?
+* Whether Six Daughters Are Fittingly Assigned To Gluttony?

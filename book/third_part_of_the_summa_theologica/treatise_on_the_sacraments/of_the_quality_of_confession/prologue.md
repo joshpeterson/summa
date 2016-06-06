@@ -5,3 +5,8 @@ We must now consider the quality of confession: under which head there are four 
 (2) Whether confession ought to be entire?
 (3) Whether one can confess through another, or by writing?
 (4) Whether the sixteen conditions, which are assigned by the masters, are necessary for confession?
+
+* Whether Confession Can Be Lacking In Form?
+* Whether Confession Should Be Entire?
+* Whether One May Confess Through Another, Or By Writing?
+* Whether The Sixteen Conditions Usually Assigned Are Necessary For Confession?

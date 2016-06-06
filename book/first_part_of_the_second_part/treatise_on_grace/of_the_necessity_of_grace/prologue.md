@@ -11,3 +11,14 @@ We must now consider the exterior principle of human acts, i.e. God, in so far a
 (8) Whether without grace man can avoid sin?
 (9) Whether man having received grace can do good and avoid sin without any further Divine help?
 (10) Whether he can of himself persevere in good?
+
+* Whether Without Grace Man Can Know Any Truth?
+* Whether Man Can Wish Or Do Any Good Without Grace?
+* Whether By His Own Natural Powers And Without Grace Man Can Love God Above All Things?
+* Whether Man Without Grace And By His Own Natural Powers Can Fulfil The Commandments Of The Law?
+* Whether Man Can Merit Everlasting Life Without Grace?
+* Whether A Man, By Himself And Without The External Aid Of Grace, Can Prepare Himself For Grace?
+* Whether Man Can Rise From Sin Without The Help Of Grace?
+* Whether Man Without Grace Can Avoid Sin?
+* Whether One Who Has Already Obtained Grace, Can, Of Himself And Without Further Help Of Grace, Do Good And Avoid Sin?
+* Whether Man Possessed Of Grace Needs The Help Of Grace In Order To Persevere?

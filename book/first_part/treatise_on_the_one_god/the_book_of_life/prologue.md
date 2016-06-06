@@ -4,3 +4,7 @@ We now consider the book of life; concerning which there are three points of inq
 (1) What is the book of life?
 (2) Of what life is it the book?
 (3) Whether anyone can be blotted out of the book of life?
+
+* Whether The Book Of Life Is The Same As Predestination?
+* Whether The Book Of Life Regards Only The Life Of Glory Of The Predestined?
+* Whether Anyone May Be Blotted Out Of The Book Of Life?

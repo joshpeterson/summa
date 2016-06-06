@@ -4,3 +4,7 @@ We must now consider each single part of Penance, and (1) Contrition; (2) Confes
 (1) Whether Contrition is suitably defined?
 (2) Whether it is an act of virtue?
 (3) Whether attrition can become contrition?
+
+* Whether Contrition Is An Assumed Sorrow For Sins, Together With The Purpose Of Confessing Them And Of Making Satisfaction For Them?
+* Whether Contrition Is An Act Of Virtue?
+* Whether Attrition Can Become Contrition?

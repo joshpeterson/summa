@@ -8,3 +8,11 @@ After the foregoing we have now to treat of the mode of the angelic knowledge, c
 (5) Whether there can be error in the angel's intellect?
 (6) Whether his knowledge can be styled as morning and evening?
 (7) Whether the morning and evening knowledge are the same, or do they differ?
+
+* Whether The Angel's Intellect Is Sometimes In Potentiality, Sometimes In Act?
+* Whether An Angel Can Understand Many Things At The Same Time?
+* Whether An Angel's Knowledge Is Discursive?
+* Whether The Angels Understand By Composing And Dividing?
+* Whether There Can Be Falsehood In The Intellect Of An Angel?
+* Whether There Is A "Morning" And An "Evening" Knowledge In The Angels?
+* Whether The Morning And Evening Knowledge Are One?

@@ -9,3 +9,12 @@ Since therefore Happiness is to be gained by means of certain acts, we must in d
 (6) Whether fear causes involuntariness?
 (7) Whether concupiscence causes involuntariness?
 (8) Whether ignorance causes involuntariness?
+
+* Whether There Is Anything Voluntary In Human Acts?
+* Whether There Is Anything Voluntary In Irrational Animals?
+* Whether There Can Be Voluntariness Without Any Act?
+* Whether Violence Can Be Done To The Will?
+* Whether Violence Causes Involuntariness?
+* Whether Fear Causes Involuntariness Simply?
+* Whether Concupiscence Causes Involuntariness?
+* Whether Ignorance Causes Involuntariness?

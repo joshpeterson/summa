@@ -5,3 +5,8 @@ We must now consider those vices opposed to commutative justice, that consist in
 (2) Whether it is lawful for a judge, on account of the evidence, to deliver judgment in opposition to the truth which is known to him?
 (3) Whether a judge can justly sentence a man who is not accused?
 (4) Whether he can justly remit the punishment?
+
+* Whether A Man Can Justly Judge One Who Is Not Subject To His Jurisdiction?
+* Whether It Is Lawful For A Judge To Pronounce Judgment Against The Truth That He Knows, On Account Of Evidence To The Contrary?
+* Whether A Judge May Condemn A Man Who Is Not Accused?
+* Whether The Judge Can Lawfully Remit The Punishment?

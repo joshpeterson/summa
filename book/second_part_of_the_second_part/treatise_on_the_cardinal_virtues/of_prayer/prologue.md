@@ -18,3 +18,21 @@ We must now consider prayer, under which head there are seventeen points of inqu
 (15) Whether prayer is meritorious? [*Art. 16]
 (16) Whether sinners impetrate anything from God by praying? [*Art. 15]
 (17) of the different kinds of prayer.
+
+* Whether Prayer Is An Act Of The Appetitive Power?
+* Whether It Is Becoming To Pray?
+* Whether Prayer Is An Act Of Religion?
+* Whether We Ought To Pray To God Alone?
+* Whether We Ought To Ask For Something Definite When We Pray?
+* Whether Man Ought To Ask God For Temporal Things When He Prays?
+* Whether We Ought To Pray For Others?
+* Whether We Ought To Pray For Our Enemies?
+* Whether The Seven Petitions Of The Lord's Prayer Are Fittingly Assigned?
+* Whether Prayer Is Proper To The Rational Creature?
+* Whether The Saints In Heaven Pray For Us?
+* Whether Prayer Should Be Vocal?
+* Whether Attention Is A Necessary Condition Of Prayer?
+* Whether Prayer Should Last A Long Time?
+* Whether Prayer Is Meritorious?
+* Whether Sinners Impetrate Anything From God By Their Prayers?
+* Whether The Parts Of Prayer Are Fittingly Described As Supplications, Prayers, Intercessions, And Thanksgivings?

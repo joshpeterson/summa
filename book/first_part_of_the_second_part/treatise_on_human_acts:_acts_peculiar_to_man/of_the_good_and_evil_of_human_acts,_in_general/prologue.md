@@ -12,3 +12,15 @@ We must now consider the good and evil of human acts. First, how a human act is 
 (9) Whether an individual action can be indifferent?
 (10) Whether a circumstance places a moral action in the species of good or evil?
 (11) Whether every circumstance that makes an action better or worse, places the moral action in the species of good or evil?
+
+* Whether Every Human Action Is Good, Or Are There Evil Actions?
+* Whether The Good Or Evil Of A Man's Action Is Derived From Its Object?
+* Whether Man's Action Is Good Or Evil From A Circumstance?
+* Whether A Human Action Is Good Or Evil From Its End?
+* Whether A Human Action Is Good Or Evil In Its Species?
+* Whether An Action Has The Species Of Good Or Evil From Its End?
+* Whether The Species Derived From The End Is Contained Under The Species Derived From The Object, As Under Its Genus, Or Conversely?
+* Whether Any Action Is Indifferent In Its Species?
+* Whether An Individual Action Can Be Indifferent?
+* Whether A Circumstance Places A Moral Action In The Species Of Good Or Evil?
+* Whether Every Circumstance That Makes An Action Better Or Worse, Places A Moral Action In A Species Of Good Or Evil?

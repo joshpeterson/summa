@@ -6,3 +6,9 @@ We must next discuss the quality which the world and those who rise again will h
 (3) Whether the heavenly bodies will be more brilliant?
 (4) Whether the elements will receive an additional clarity?
 (5) Whether the animals and plants will remain?
+
+* Whether The World Will Be Renewed?
+* Whether The Movement Of The Heavenly Bodies Will Cease?
+* Whether The Brightness Of The Heavenly Bodies Will Be Increased At This Renewal?
+* Whether The Elements Will Be Renewed By An Addition Of Brightness?
+* Whether The Plants And Animals Will Remain In This Renewal?

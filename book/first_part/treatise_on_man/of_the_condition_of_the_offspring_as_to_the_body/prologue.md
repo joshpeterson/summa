@@ -3,3 +3,6 @@
 We must now consider the condition of the offspring---first, as regards the body; secondly, as regards virtue; thirdly, in knowledge. Under the first head there are two points of inquiry:
 (1) Whether in the state of innocence children would have had full powers of the body immediately after birth?
 (2) Whether all infants would have been of the male sex?
+
+* Whether In The State Of Innocence Children Would Have Had Perfect Strength Of Body As To The Use Of Its Members Immediately After Birth?
+* Whether, In The Primitive State, Women Would Have Been Born?

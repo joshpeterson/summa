@@ -7,3 +7,10 @@ We must now consider the distinction of things in particular; and firstly the di
 (4) Whether evil totally corrupts good?
 (5) The division of evil into pain and fault.
 (6) Whether pain, or fault, has more the nature of evil?
+
+* Whether Evil Is A Nature?
+* Whether Evil Is Found In Things?
+* Whether Evil Is In Good As In Its Subject?
+* Whether Evil Corrupts The Whole Good?
+* Whether Evil Is Adequately Divided Into Pain And Fault?
+* Whether Pain Has The Nature Of Evil More Than Fault Has?

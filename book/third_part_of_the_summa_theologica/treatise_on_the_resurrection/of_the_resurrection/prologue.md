@@ -4,3 +4,7 @@ In the next place we must consider things connected with and accompanying the re
 (1) Whether there is to be a resurrection of the body?
 (2) Whether it is universally of all bodies?
 (3) Whether it is natural or miraculous?
+
+* Whether There Is To Be A Resurrection Of The Body?
+* Whether The Resurrection Will Be For All Without Exception?
+* Whether The Resurrection Is Natural?

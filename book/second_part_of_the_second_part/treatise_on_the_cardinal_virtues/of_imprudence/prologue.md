@@ -7,3 +7,10 @@ We must now consider the vices opposed to prudence. For Augustine says (Contra J
 (4) Of thoughtlessness;
 (5) Of inconstancy;
 (6) Concerning the origin of these vices.
+
+* Whether Imprudence Is A Sin?
+* Whether Imprudence Is A Special Sin?
+* Whether Precipitation Is A Sin Included In Imprudence?
+* Whether Thoughtlessness Is A Special Sin Included In Prudence?
+* Whether Inconstancy Is A Vice Contained Under Prudence?
+* Whether The Aforesaid Vices Arise From Lust?

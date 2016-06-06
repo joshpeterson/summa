@@ -11,3 +11,14 @@ To place our purpose within proper limits, we first endeavor to investigate the 
 (8) Whether it is a matter of argument?
 (9) Whether it rightly employs metaphors and similes?
 (10) Whether the Sacred Scripture of this doctrine may be expounded in different senses?
+
+* Whether, Besides Philosophy, Any Further Doctrine Is Required?
+* Whether Sacred Doctrine Is A Science?
+* Whether Sacred Doctrine Is One Science?
+* Whether Sacred Doctrine Is A Practical Science?
+* Whether Sacred Doctrine Is Nobler Than Other Sciences?
+* Whether This Doctrine Is The Same As Wisdom?
+* Whether God Is The Object Of This Science?
+* Whether Sacred Doctrine Is A Matter Of Argument?
+* Whether Holy Scripture Should Use Metaphors?
+* Whether In Holy Scripture A Word May Have Several Senses?

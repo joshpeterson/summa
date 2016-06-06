@@ -6,3 +6,9 @@ We must now consider the connection of virtues: under which head there are five 
 (3) Whether charity can be without them?
 (4) Whether faith and hope can be without charity?
 (5) Whether charity can be without them?
+
+* Whether The Moral Virtues Are Connected With One Another?
+* Whether Moral Virtues Can Be Without Charity?
+* Whether Charity Can Be Without Moral Virtue?
+* Whether Faith And Hope Can Be Without Charity?
+* Whether Charity Can Be Without Faith And Hope?

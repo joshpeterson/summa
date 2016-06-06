@@ -7,3 +7,10 @@ After treating individually of all the virtues and vices that pertain to men of 
 (4) Whether a prophet knows all possible matters of prophecy?
 (5) Whether a prophet distinguishes that which he perceives by the gift of God, from that which he perceives by his own spirit?
 (6) Whether anything false can be the matter of prophecy?
+
+* Whether Prophecy Pertains To Knowledge?
+* Whether Prophecy Is A Habit?
+* Whether Prophecy Is Only About Future Contingencies?
+* Whether By The Divine Revelation A Prophet Knows All That Can Be Known Prophetically?
+* Whether The Prophet Always Distinguishes What He Says By His Own Spirit From What He Says By The Prophetic Spirit?
+* Whether Things Known Or Declared Prophetically Can Be False?

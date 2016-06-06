@@ -5,3 +5,8 @@ We next consider what belongs to the will of the first man; concerning which the
 (2) Whether in the state of innocence he had passions of the soul?
 (3) Whether he had all virtues?
 (4) Whether what he did would have been as meritorious as now?
+
+* Whether The First Man Was Created In Grace?
+* Whether Passions Existed In The Soul Of The First Man?
+* Whether Adam Had All The Virtues?
+* Whether The Actions Of The First Man Were Less Meritorious Than Ours Are?

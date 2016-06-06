@@ -5,3 +5,8 @@ We must now consider the judicial precepts: and first of all we shall consider t
 (2) Whether they are figurative?
 (3) Their duration;
 (4) Their division.
+
+* Whether The Judicial Precepts Were Those Which Directed Man In Relation To His Neighbor?
+* Whether The Judicial Precepts Were Figurative?
+* Whether The Judicial Precepts Of The Old Law Bind For Ever?
+* Whether It Is Possible To Assign A Distinct Division Of The Judicial Precepts?

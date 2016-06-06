@@ -9,3 +9,12 @@ We must now consider the cause of sin, on the part of the sensitive appetite, as
 (6) Whether the passion which causes a sin diminishes it?
 (7) Whether passion excuses from sin altogether?
 (8) Whether a sin committed through passion can be mortal?
+
+* Whether The Will Is Moved By A Passion Of The Senstive Appetite?
+* Whether The Reason Can Be Overcome By A Passion, Against Its Knowledge?
+* Whether A Sin Committed Through Passion, Should Be Called A Sin Of Weakness?
+* Whether Self-love Is The Source Of Every Sin?
+* Whether Concupiscence Of The Flesh, Concupiscence Of The Eyes, And Pride Of Life Are Fittingly Described As Causes Of Sin?
+* Whether Sin Is Alleviated On Account Of A Passion?
+* Whether Passion Excuses From Sin Altogether?
+* Whether A Sin Committed Through Passion Can Be Mortal?

@@ -5,3 +5,8 @@ We must next consider modesty as consisting in the outward movements of the body
 (2) Whether there can be a virtue about playful actions?
 (3) Of the sin consisting in excess of play;
 (4) Of the sin consisting in lack of play.
+
+* Whether Any Virtue Regards The Outward Movements Of The Body?
+* Whether There Can Be A Virtue About Games?
+* Whether There Can Be Sin In The Excess Of Play?
+* Whether There Is A Sin In Lack Of Mirth?

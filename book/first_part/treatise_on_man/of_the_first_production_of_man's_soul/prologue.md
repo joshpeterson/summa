@@ -5,3 +5,8 @@ After the foregoing we must consider the first production of man, concerning whi
 (2) Whether, if made, it was created?
 (3) Whether it was made by angelic instrumentality?
 (4) Whether it was made before the body?
+
+* Whether The Soul Was Made Or Was Of God's Substance?
+* Whether The Soul Was Produced By Creation?
+* Whether The Rational Soul Is Produced By God Immediately?
+* Whether The Human Soul Was Produced Before The Body?

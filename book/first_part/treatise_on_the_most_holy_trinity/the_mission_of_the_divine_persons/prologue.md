@@ -9,3 +9,12 @@ We next consider the mission of the divine persons, concerning which there are e
 (6) To whom the invisible mission is directed?
 (7) Of the visible mission
 (8) Whether any person sends Himself visibly or invisibly?
+
+* Whether A Divine Person Can Be Properly Sent?
+* Whether Mission Is Eternal, Or Only Temporal?
+* Whether The Invisible Mission Of The Divine Person Is Only According To The Gift Of Sanctifying Grace?
+* Whether The Father Can Be Fittingly Sent?
+* Whether It Is Fitting For The Son To Be Sent Invisibly?
+* Whether The Invisible Mission Is To All Who Participate Grace?
+* Whether It Is Fitting For The Holy Ghost To Be Sent Visibly?
+* Whether A Divine Person Is Sent Only By The Person Whence He Proceeds Eternally?

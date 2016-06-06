@@ -6,3 +6,9 @@ OF THE SACRAMENT OF ORDER AS TO ITS ESSENCE AND ITS PARTS (FIVE ARTICLES)  In th
 (3) Whether it is a sacrament?
 (4) Whether its form is expressed properly?
 (5) Whether this sacrament has any matter?
+
+* Whether There Should Be Order In The Church?
+* Whether Order Is Properly Defined?
+* Whether Order Is A Sacrament?
+* Whether The Form Of This Sacrament Is Suitably Expressed?
+* Whether This Sacrament Has Any Matter?

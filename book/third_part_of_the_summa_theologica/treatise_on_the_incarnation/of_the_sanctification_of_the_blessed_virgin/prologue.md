@@ -7,3 +7,10 @@ After the foregoing treatise of the union of God and man and the consequences th
 (4) Whether the result of this sanctification was that she never sinned?
 (5) Whether in virtue of this sanctification she received the fulness of grace?
 (6) Whether it was proper to her to be thus sanctified?
+
+* Whether The Blessed Virgin Was Sanctified Before Her Birth From The Womb?
+* Whether The Blessed Virgin Was Sanctified Before Animation?
+* Whether The Blessed Virgin Was Cleansed From The Infection Of The Fomes?
+* Whether By Being Sanctified In The Womb The Blessed Virgin Was Preserved From All Actual Sin?
+* Whether, By Her Sanctification In The Womb, The Blessed Virgin Received The Fulness Of Grace?
+* Whether After Christ, It Was Proper To The Blessed Virgin To Be Sanctified In The Womb?

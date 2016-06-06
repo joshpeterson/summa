@@ -13,3 +13,16 @@ In proper sequence we have now to consider all that relates to Christ's leaving 
 (10) The place;
 (11) Whether it was fitting for Him to be crucified with robbers?
 (12) Whether Christ's Passion is to be attributed to the Godhead?
+
+* Whether It Was Necessary For Christ To Suffer For The Deliverance Of The Human Race?
+* Whether There Was Any Other Possible Way Of Human Deliverance Besides The Passion Of Christ?
+* Whether There Was Any More Suitable Way Of Delivering The Human Race Than By Christ's Passion?
+* Whether Christ Ought To Have Suffered On The Cross?
+* Whether Christ Endured All Suffering?
+* Whether The Pain Of Christ's Passion Was Greater Than All Other Pains?
+* Whether Christ Suffered In His Whole Soul?
+* Whether Christ's Entire Soul Enjoyed Blessed Fruition During The Passion?
+* Whether Christ Suffered At A Suitable Time?
+* Whether Christ Suffered In A Suitable Place?
+* Whether It Was Fitting For Christ To Be Crucified With Thieves?
+* Whether Christ's Passion Is To Be Attributed To His Godhead?

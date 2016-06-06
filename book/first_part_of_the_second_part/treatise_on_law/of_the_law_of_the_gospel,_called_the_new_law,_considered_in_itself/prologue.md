@@ -5,3 +5,8 @@ In proper sequence we have to consider now the Law of the Gospel which is called
 (2) Of its efficacy, i.e. does it justify?
 (3) Of its beginning: should it have been given at the beginning of the world?
 (4) Of its end: i.e. whether it will last until the end, or will another law take its place?
+
+* Whether The New Law Is A Written Law?
+* Whether The New Law Justifies?
+* Whether The New Law Should Have Been Given From The Beginning Of The World?
+* Whether The New Law Will Last Till The End Of The World?

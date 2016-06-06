@@ -9,3 +9,12 @@ Since knowledge is of things that are true, after the consideration of the knowl
 (6) Whether all things are true by one truth, or by many?
 (7) On the eternity of truth.
 (8) On the unchangeableness of truth.
+
+* Whether Truth Resides Only In The Intellect?
+* Whether Truth Resides Only In The Intellect Composing And Dividing?
+* Whether The True And Being Are Convertible Terms?
+* Whether Good Is Logically Prior To The True?
+* Whether God Is Truth?
+* Whether There Is Only One Truth, According To Which All Things Are True?
+* Whether Created Truth Is Eternal?
+* Whether Truth Is Immutable?

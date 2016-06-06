@@ -5,3 +5,8 @@ We must now consider those sins which are committed against justice on the part 
 (2) Whether it is lawful to defend oneself with calumnies?
 (3) Whether it is lawful to escape condemnation by appealing?
 (4) Whether it is lawful for one who has been condemned to defend himself by violence if he be able to do so?
+
+* Whether One Can, Without A Mortal Sin, Deny The Truth Which Would Lead To One's Condemnation?
+* Whether It Is Lawful For The Accused To Defend Himself With Calumnies?
+* Whether It Is Lawful For The Accused To Escape Judgment By Appealing?
+* Whether A Man Who Is Condemned To Death May Lawfully Defend Himself If He Can?

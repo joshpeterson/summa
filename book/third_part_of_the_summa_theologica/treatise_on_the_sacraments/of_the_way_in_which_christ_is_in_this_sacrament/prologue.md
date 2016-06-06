@@ -9,3 +9,12 @@ We have now to consider the manner in which Christ exists in this sacrament; and
 (6) Whether after the consecration, the body of Christ is moved when the host or chalice is moved?
 (7) Whether Christ's body, as it is in this sacrament, can be seen by the eye?
 (8) Whether the true body of Christ remains in this sacrament when He is seen under the appearance of a child or of flesh?
+
+* Whether The Whole Christ Is Contained Under This Sacrament?
+* Whether The Whole Christ Is Contained Under Each Species Of This Sacrament?
+* Whether Christ Is Entire Under Every Part Of The Species Of The Bread And Wine?
+* Whether The Whole Dimensive Quantity Of Christ's Body Is In This Sacrament?
+* Whether Christ's Body Is In This Sacrament As In A Place?
+* Whether Christ's Body Is In This Sacrament Movably?
+* Whether The Body Of Christ, As It Is In This Sacrament, Can Be Seen By Any Eye, At Least By A Glorified One?
+* Whether Christ's Body Is Truly There When Flesh Or A Child Appears Miraculously In This Sacrament?

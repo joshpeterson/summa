@@ -5,3 +5,8 @@ After considering the divine love, we must treat of God's justice and mercy. Und
 (2) Whether His justice can be called truth?
 (3) Whether there is mercy in God?
 (4) Whether in every work of God there are justice and mercy?
+
+* Whether There Is Justice In God?
+* Whether The Justice Of God Is Truth?
+* Whether Mercy Can Be Attributed To God?
+* Whether In Every Work Of God There Are Mercy And Justice?

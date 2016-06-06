@@ -11,3 +11,14 @@ Having to treat now of the theological virtues, we shall begin with Faith, secon
 (8) Of the number of articles;
 (9) Of the manner of embodying the articles in a symbol;
 (10) Who has the right to propose a symbol of faith?
+
+* Whether The Object Of Faith Is The First Truth?
+* Whether The Object Of Faith Is Something Complex, By Way Of A Proposition?
+* Whether Anything False Can Come Under Faith?
+* Whether The Object Of Faith Can Be Something Seen?
+* Whether Those Things That Are Of Faith Can Be An Object Of Science?
+* Whether Those Things That Are Of Faith Should Be Divided Into Certain Articles?
+* Whether The Articles Of Faith Have Increased In Course Of Time?
+* Whether The Articles Of Faith Are Suitably Formulated?
+* Whether It Is Suitable For The Articles Of Faith To Be Embodied In A Symbol?
+* Whether It Belongs To The Sovereign Pontiff To Draw Up A Symbol Of Faith?

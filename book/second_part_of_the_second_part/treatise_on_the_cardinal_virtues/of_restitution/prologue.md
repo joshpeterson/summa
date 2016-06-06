@@ -9,3 +9,12 @@ We must now consider restitution, under which head there are eight points of inq
 (6) Whether the person who has taken something away is bound to restore it?
 (7) Whether any other person is bound to restitution?
 (8) Whether one is bound to restore at once?
+
+* Whether Restitution Is An Act Of Commutative Justice?
+* Whether Restitution Of What Has Been Taken Away Is Necessary For Salvation?
+* Whether It Suffices To Restore The Exact Amount Taken?
+* Whether A Man Is Bound To Restore What He Has Not Taken?
+* Whether Restitution Must Always Be Made To The Person From Whom A Thing Has Been Taken?
+* Whether He That Has Taken A Thing Is Always Bound To Restitution?
+* Whether Restitution Is Binding On Those Who Have Not Taken?
+* Whether A Man Is Bound To Immediate Restitution, Or May He Put It Off?

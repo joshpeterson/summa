@@ -5,3 +5,8 @@ We must now consider the parts of observance. We shall consider (1) dulia, where
 (2) Whether honor is due to those only who are in a higher position?
 (3) Whether dulia, which pays honor and worship to those who are above us, is a special virtue, distinct from latria?
 (4) Whether it contains several species?
+
+* Whether Honor Denotes Something Corporal?
+* Whether Honor Is Properly Due To Those Who Are Above Us?
+* Whether Dulia Is A Special Virtue Distinct From Latria?
+* Whether Dulia Has Various Species?

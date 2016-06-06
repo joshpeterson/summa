@@ -5,3 +5,8 @@ Having considered all that relates to the will absolutely, we must now proceed t
 (2) Whether everything comes under divine providence?
 (3) Whether divine providence is immediately concerned with all things?
 (4) Whether divine providence imposes any necessity upon things foreseen?
+
+* Whether Providence Can Suitably Be Attributed To God?
+* Whether Everything Is Subject To The Providence Of God?
+* Whether God Has Immediate Providence Over Everything?
+* Whether Providence Imposes Any Necessity On Things Foreseen?

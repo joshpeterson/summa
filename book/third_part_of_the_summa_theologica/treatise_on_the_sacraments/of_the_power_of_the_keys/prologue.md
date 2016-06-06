@@ -4,3 +4,7 @@ We must now consider the power of the ministers of this sacrament, which power d
 (1) Whether there ought to be keys in the Church?
 (2) Whether the key is the power of binding and loosing, etc.?
 (3) Whether there are two keys or only one?
+
+* Whether There Should Be Keys In The Church?
+* Whether The Key Is The Power Of Binding And Loosing, Etc.?
+* Whether There Are Two Keys Or Only One?

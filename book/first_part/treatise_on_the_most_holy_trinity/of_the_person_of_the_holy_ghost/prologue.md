@@ -5,3 +5,8 @@ We proceed to treat of what belongs to the person of the Holy Ghost, Who is call
 (2) Whether that divine person Who is called the Holy Ghost, proceeds from the Father and the Son?
 (3) Whether He proceeds from the Father through the Son?
 (4) Whether the Father and the Son are one principle of the Holy Ghost?
+
+* Whether This Name "Holy Ghost" Is The Proper Name Of One Divine Person?
+* Whether The Holy Ghost Proceeds From The Son?
+* Whether The Holy Ghost Proceeds From The Father Through The Son?
+* Whether The Father And The Son Are One Principle Of The Holy Ghost?

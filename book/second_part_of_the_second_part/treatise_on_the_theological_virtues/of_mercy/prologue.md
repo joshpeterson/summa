@@ -5,3 +5,8 @@
 (2) To whom does it belong to pity?
 (3) Whether mercy is a virtue?
 (4) Whether it is the greatest of virtues?
+
+* Whether Evil Is Properly The Motive Of Mercy?
+* Whether The Reason For Taking Pity Is A Defect In The Person Who Pities?
+* Whether Mercy Is A Virtue?
+* Whether Mercy Is The Greatest Of The Virtues?

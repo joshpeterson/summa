@@ -9,3 +9,12 @@ We next consider the degrees of the angels in their hierarchies and orders; for 
 (6) Of the comparison of the orders to one another.
 (7) Whether the orders will outlast the Day of Judgment?
 (8) Whether men are taken up into the angelic orders?
+
+* Whether All The Angels Are Of One Hierarchy?
+* Whether There Are Several Orders In One Hierarchy?
+* Whether There Are Many Angels In One Order?
+* Whether The Distinction Of Hierarchies And Orders Comes From The Angelic Nature?
+* Whether The Orders Of The Angels Are Properly Named?
+* Whether The Grades Of The Orders Are Properly Assigned?
+* Whether The Orders Will Outlast The Day Of Judgment?
+* Whether Men Are Taken Up Into The Angelic Orders?

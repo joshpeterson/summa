@@ -7,3 +7,10 @@ We have now to consider the efficient cause of Christ's Passion, concerning whic
 (4) Whether it was fitting that He should suffer at the hands of the Gentiles, or rather of the Jews?
 (5) Whether His slayers knew who He was?
 (6) Of the sin of them who slew Christ.
+
+* Whether Christ Was Slain By Another Or By Himself?
+* Whether Christ Died Out Of Obedience?
+* Whether God The Father Delivered Up Christ To The Passion?
+* Whether It Was Fitting For Christ To Suffer At The Hands Of The Gentiles?
+* Whether Christ's Persecutors Knew Who He Was?
+* Whether The Sin Of Those Who Crucified Christ Was Most Grievous?

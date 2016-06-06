@@ -5,3 +5,8 @@ WE must now consider the effects which result from the principal act of charity 
 (2) Whether this kind of joy is compatible with sorrow?
 (3) Whether this joy can be full?
 (4) Whether it is a virtue?
+
+* Whether Joy Is Effected In Us By Charity?
+* Whether The Spiritual Joy, Which Results From Charity, Is Compatible With An Admixture Of Sorrow?
+* Whether The Spiritual Joy Which Proceeds From Charity, Can Be Filled?
+* Whether Joy Is A Virtue?

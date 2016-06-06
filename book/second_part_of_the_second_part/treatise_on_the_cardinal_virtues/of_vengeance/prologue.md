@@ -5,3 +5,8 @@ We must now consider vengeance, under which head there are four points of inquir
 (2) Whether it is a special virtue?
 (3) Of the manner of taking vengeance;
 (4) On whom should vengeance be taken?
+
+* Whether Vengeance Is Lawful?
+* Whether Vengeance Is A Special Virtue?
+* Whether Vengeance Should Be Wrought By Means Of Punishments Customary Among Men?
+* Whether Vengeance Should Be Taken On Those Who Have Sinned Involuntarily?

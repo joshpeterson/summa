@@ -5,3 +5,8 @@ We must now consider the manner in which prophetic knowledge is conveyed, and un
 (2) Whether the prophetic revelation is effected by the infusion of certain species, or by the infusion of Divine light alone?
 (3) Whether prophetic revelation is always accompanied by abstraction from the sense?
 (4) Whether prophecy is always accompanied by knowledge of the things prophesied?
+
+* Whether The Prophets See The Very Essence Of God?
+* Whether, In Prophetic Revelation, New Species Of Things Are Impressed On The Prophet's Mind, Or Merely A New Light?
+* Whether The Prophetic Vision Is Always Accompanied By Abstraction From The Senses?
+* Whether Prophets Always Know The Things Which They Prophesy?

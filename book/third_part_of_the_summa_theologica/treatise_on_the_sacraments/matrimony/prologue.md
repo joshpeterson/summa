@@ -5,3 +5,8 @@ OF THE SACRAMENT OF MATRIMONY AS DIRECTED TO AN OFFICE OF NATURE (FOUR ARTICLES)
 (2) Whether it is a matter of precept?
 (3) Whether its act is lawful?
 (4) Whether its act can be meritorious?
+
+* Whether Matrimony Is Of Natural Law?
+* Whether Matrimony Still Comes Under A Precept?
+* Whether The Marriage Act Is Always Sinful?
+* Whether The Marriage Act Is Meritorious?

@@ -5,3 +5,8 @@ We must next consider the potential parts of temperance: (1) continence; (2) cle
 (2) What is its matter?
 (3) What is its subject?
 (4) Of its comparison with temperance.
+
+* Whether Continence Is A Virtue?
+* Whether Desires For Pleasures Of Touch Are The Matter Of Continence?
+* Whether The Subject Of Continence Is The Concupiscible Power?
+* Whether Continence Is Better Than Temperance?

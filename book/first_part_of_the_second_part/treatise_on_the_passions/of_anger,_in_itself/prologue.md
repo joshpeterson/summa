@@ -9,3 +9,12 @@ We must now consider anger: and (1) anger in itself; (2) the cause of anger and 
 (6) Whether anger is more grievous than hatred?
 (7) Whether anger is only towards those with whom we have a relation of justice?
 (8) Of the species of anger.
+
+* Whether Anger Is A Special Passion?
+* Whether The Object Of Anger Is Good Or Evil?
+* Whether Anger Is In The Concupiscible Faculty?
+* Whether Anger Requires An Act Of Reason?
+* Whether Anger Is More Natural Than Desire?
+* Whether Anger Is More Grievous Than Hatred?
+* Whether Anger Is Only Towards Those To Whom One Has An Obligation Of Justice?
+* Whether The Species Of Anger Are Suitably Assigned?

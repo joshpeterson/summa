@@ -5,3 +5,8 @@ We must now consider the parts of temperance in particular: and in the first pla
 (2) What is its object?
 (3) Who are the cause of a man being ashamed?
 (4) What kind of people are ashamed?
+
+* Whether Shamefacedness Is A Virtue?
+* Whether Shamefacedness Is About A Disgraceful Action?
+* Whether Man Is More Shamefaced Of Those Who Are More Closely Connected With Him?
+* Whether Even Virtuous Men Can Be Ashamed?

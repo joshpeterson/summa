@@ -8,3 +8,11 @@ We must now consider the bill of divorce, under which head there are seven point
 (5) Whether the husband can marry again the wife whom he has divorced?
 (6) Whether the cause of divorce was hatred of the wife?
 (7) Whether the reasons for divorce had to be written on the bill?
+
+* Whether Inseparableness Of The Wife Is Of Natural Law?
+* Whether It May Have Been Lawful By Dispensation To Put Away A Wife?
+* Whether It Was Lawful To Divorce A Wife Under The Mosaic Law?
+* Whether It Was Lawful For A Divorced Wife To Have Another Husband?
+* Whether A Husband Could Lawfully Take Back The Wife He Had Divorced?
+* Whether The Reason For Divorce Was Hatred For The Wife?
+* Whether The Causes Of Divorce Had To Be Written In The Bill?

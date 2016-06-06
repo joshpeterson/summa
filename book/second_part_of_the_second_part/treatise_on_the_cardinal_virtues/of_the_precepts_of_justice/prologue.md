@@ -7,3 +7,10 @@ We must now consider the precepts of justice, under which head there are six poi
 (4) Of the third;
 (5) Of the fourth;
 (6) Of the other six.
+
+* Whether The Precepts Of The Decalogue Are Precepts Of Justice?
+* Whether The First Precept Of The Decalogue Is Fittingly Expressed?
+* Whether The Second Precept Of The Decalogue Is Fittingly Expressed?
+* Whether The Third Precept Of The Decalogue, Concerning The Hallowing Of The Sabbath, Is Fittingly Expressed?
+* Whether The Fourth Precept, About Honoring One's Parents, Is Fittingly Expressed?
+* Whether The Other Six Precepts Of The Decalogue Are Fittingly Expressed?

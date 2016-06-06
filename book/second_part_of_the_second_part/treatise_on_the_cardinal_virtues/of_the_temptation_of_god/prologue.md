@@ -5,3 +5,8 @@ We must now consider the vices that are opposed to religion, through lack of rel
 (2) Whether it is a sin?
 (3) To what virtue it is opposed;
 (4) Of its comparison with other vices.
+
+* Whether The Temptation Of God Consists In Certain Deeds, Wherein The Expected Result Is Ascribed To The Power Of God Alone?
+* Whether It Is A Sin To Tempt God?
+* Whether Temptation Of God Is Opposed To The Virtue Of Religion?
+* Whether The Temptation Of God Is A Graver Sin Than Superstition?

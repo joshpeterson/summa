@@ -6,3 +6,9 @@ After considering what belongs to the angel's substance, we now proceed to his k
 (3) Is his substance his power of intelligence?
 (4) Is there in the angels an active and a passive intellect?
 (5) Is there in them any other power of knowledge besides the intellect?
+
+* Whether An Angel's Act Of Understanding Is His Substance?
+* Whether In The Angel To Understand Is To Exist?
+* Whether An Angel's Power Of Intelligence Is His Essence?
+* Whether There Is An Active And A Passive Intellect In An Angel?
+* Whether There Is Only Intellectual Knowledge In The Angels?

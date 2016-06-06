@@ -5,3 +5,8 @@ In the next place we must treat of things concerning the will of the angels. In 
 (2) Whether the will of the angel is his nature, or his intellect?
 (3) Is there free-will in the angels?
 (4) Is there an irascible and a concupiscible appetite in them?
+
+* Whether There Is Will In The Angels?
+* Whether In The Angels The Will Differs From The Intellect?
+* Whether There Is Free-will In The Angels?
+* Whether There Is An Irascible And A Concupiscible Appetite In The Angels?

@@ -11,3 +11,14 @@ In the next place we have to consider the causes of the sacraments, both as to a
 (8) Whether the minister's intention is necessary in the sacraments?
 (9) Whether right faith is required therein; so that it be impossible for an unbeliever to confer a sacrament?
 (10) Whether a right intention is required therein?
+
+* Whether God Alone, Or The Minister Also, Works Inwardly Unto The Sacramental Effect?
+* Whether The Sacraments Are Instituted By God Alone?
+* Whether Christ As Man Had The Power Of Producing The Inward Sacramental Effect?
+* Whether Christ Could Communicate To Ministers The Power Which He Had In The Sacraments?
+* Whether The Sacraments Can Be Conferred By Evil Ministers?
+* Whether Wicked Men Sin In Administering The Sacraments?
+* Whether Angels Can Administer Sacraments?
+* Whether The Minister's Intention Is Required For The Validity Of A Sacrament?
+* Whether Faith Is Required Of Necessity In The Minister Of A Sacrament?
+* Whether The Validity Of A Sacrament Requires A Good Intention In The Minister?

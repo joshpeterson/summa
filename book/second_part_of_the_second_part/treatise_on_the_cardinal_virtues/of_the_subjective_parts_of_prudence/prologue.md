@@ -4,3 +4,8 @@ We must, in due sequence, consider the subjective parts of prudence. And since w
 (1) Whether a species of prudence is regnative?
 (2) Whether political and (3) domestic economy are species of prudence?
 (4) Whether military prudence is?
+
+* Whether A Species Of Prudence Is Regnative?
+* Whether Political Prudence Is Fittingly Accounted A Part Of Prudence?
+* Whether A Part Of Prudence Should Be Reckoned To Be Domestic?
+* Whether Military Prudence Should Be Reckoned A Part Of Prudence?
