@@ -5,19 +5,19 @@ class ArticleWriter
   def self.write(article)
     text = "# #{TitleParser.format_title(article.title)}\n"
     text += "## Objections\n"
-    article.objections.each_with_index do |objection, i|
-      text += "Objection #{i+1}: #{objection.statement}\n"
+    for objection in article.objections
+      text += "#{objection.statement}\n"
     end
 
     text += "## Answer\n"
-    text += "On the contrary, #{article.contrary}\n"
-    text += "I answer that, #{article.answer}\n"
+    text += "#{article.contrary}\n"
+    text += "#{article.answer}\n"
 
     if article.objections.any? {|o| !o.reply.nil?}
       text += "## Replies\n"
-      article.objections.each_with_index do |objection, i|
+      for objection in article.objections
         if !objection.reply.nil?
-          text += "Reply #{i+1}: #{objection.reply}\n"
+          text += "#{objection.reply}\n"
         end
       end
     end

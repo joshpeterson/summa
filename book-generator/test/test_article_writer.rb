@@ -39,31 +39,31 @@ class TestArticleWriter < MiniTest::Test
 
   $expected_article_content = "# Article Title
 ## Objections
-Objection 1: Objection 1 text.
-Objection 2: Objection 2 text.
+Objection 1 text.
+Objection 2 text.
 ## Answer
-On the contrary, Contrary text.
-I answer that, Answer text.
+Contrary text.
+Answer text.
 ## Replies
-Reply 1: First reply text.
-Reply 2: Second reply text."
+First reply text.
+Second reply text."
 
   $expected_article_content_with_nil_reply = "# Article Title
 ## Objections
-Objection 1: Objection 1 text.
-Objection 2: Objection 2 text.
+Objection 1 text.
+Objection 2 text.
 ## Answer
-On the contrary, Contrary text.
-I answer that, Answer text.
+Contrary text.
+Answer text.
 ## Replies
-Reply 2: Second reply text."
+Second reply text."
 
   $expected_article_content_with_no_replies = "# Article Title
 ## Objections
-Objection 1: Objection 1 text.
-Objection 2: Objection 2 text.
+Objection 1 text.
+Objection 2 text.
 ## Answer
-On the contrary, Contrary text.
-I answer that, Answer text."
+Contrary text.
+Answer text."
 
 end
