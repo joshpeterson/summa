@@ -15,6 +15,11 @@ class UtilsTest < MiniTest::Test
     assert_equal("whether_god_is_one.md", filename)
   end
 
+  def test_EmitArticleMarkdownFilenameStripsCommas
+    filename = Utils.emit_article_markdown_filename("Whether, God is, one?")
+    assert_equal("whether_god_is_one.md", filename)
+  end
+
   def test_PathFromStack
     stack = Array.new
     stack.push("First Part")

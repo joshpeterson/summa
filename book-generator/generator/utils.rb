@@ -22,6 +22,7 @@ class Utils
   end
 
   def self.make_string_for_path(value)
-    return "#{value.gsub(/\s+/, "_").gsub(/[[:punct:]]?$/, "").downcase}"
+    return "#{value.gsub(/\s+/, "_").gsub(/[[:punct:]]?$/, "")
+              .gsub(/,/,"").downcase}"
   end
 end
