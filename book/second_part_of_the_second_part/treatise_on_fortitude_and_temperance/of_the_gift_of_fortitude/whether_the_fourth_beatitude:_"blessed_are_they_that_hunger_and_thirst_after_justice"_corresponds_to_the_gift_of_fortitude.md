@@ -1,0 +1,14 @@
+# Whether The Fourth Beatitude: "Blessed Are They That Hunger And Thirst After Justice," Corresponds To The Gift Of Fortitude?
+## Objections
+Objection 1: It seems that the fourth beatitude, "Blessed are they that hunger and thirst after justice," does not correspond to the gift of fortitude. For the gift of piety and not the gift of fortitude corresponds to the virtue of justice. Now hungering and thirsting after justice pertain to the act of justice. Therefore this beatitude corresponds to the gift of piety rather than to the gift of fortitude.
+Objection 2: Further, hunger and thirst after justice imply a desire for good. Now this belongs properly to charity, to which the gift of wisdom, and not the gift of fortitude, corresponds, as stated above ([3419]Q[45]). Therefore this beatitude corresponds, not to the gift of fortitude, but to the gift of wisdom.
+Objection 3: Further, the fruits are consequent upon the beatitudes, since delight is essential to beatitude, according to Ethic. i, 8. Now the fruits, apparently, include none pertaining to fortitude. Therefore neither does any beatitude correspond to it.
+## Answer
+On the contrary, Augustine says (De Serm. Dom. in Monte i): "Fortitude becomes the hungry and thirsty: since those who desire to enjoy true goods, and wish to avoid loving earthly and material things, must toil."
+I answer that, As stated above ([3420]Q[121], A[2]), Augustine makes the beatitudes correspond to the gifts according to the order in which they are set forth, observing at the same time a certain fittingness between them. Wherefore he ascribes the fourth beatitude, concerning the hunger and thirst for justice, to the fourth gift, namely fortitude.
+
+Yet there is a certain congruity between them, because, as stated (A[1] ), fortitude is about difficult things. Now it is very difficult, not merely to do virtuous deeds, which receive the common designation of works of justice, but furthermore to do them with an unsatiable desire, which may be signified by hunger and thirst for justice.
+## Replies
+Reply to Objection 1: As Chrysostom says (Hom. xv in Matth.), we may understand here not only particular, but also universal justice, which is related to all virtuous deeds according to Ethic. v, 1, wherein whatever is hard is the object of that fortitude which is a gift.
+Reply to Objection 2: Charity is the root of all the virtues and gifts, as stated above (Q[23], A[8], ad 3; [3421]FS, Q[68], A[4], ad 3). Hence whatever pertains to fortitude may also be referred to charity.
+Reply to Objection 3: There are two of the fruits which correspond sufficiently to the gift of fortitude: namely, patience, which regards the enduring of evils: and longanimity, which may regard the long delay and accomplishment of goods.

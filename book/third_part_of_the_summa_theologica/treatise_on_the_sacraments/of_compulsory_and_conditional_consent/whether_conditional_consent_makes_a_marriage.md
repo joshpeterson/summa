@@ -1,0 +1,9 @@
+# Whether Conditional Consent Makes A Marriage?
+## Objections
+Objection 1: It would seem that not even a conditional consent makes a marriage, because a statement is not made simply if it is made subject to a condition. But in marriage the words expressive of consent must be uttered simply. Therefore a conditional consent makes no marriage.
+Objection 2: Further, marriage should be certain. But where a statement is made under a condition it is rendered doubtful. Therefore a like consent makes no marriage.
+## Answer
+On the contrary, In other contracts an obligation is undertaken conditionally, and holds so long as the condition holds. Therefore since marriage is a contract, it would seem that it can be made by a conditional consent.
+I answer that, The condition made is either of the present or of the future. If it is of the present and is not contrary to marriage, whether it be moral or immoral, the marriage holds if the condition is verified, and is invalid if the condition is not verified. If, however, it be contrary to the marriage blessings, the marriage is invalid, as we have also said in reference to betrothals ([4946]Q[43], A[1]). But if the condition refer to the future, it is either necessary, as that the sun will rise tomorrow---and then the marriage is valid, because such future things are present in their causes---or else it is contingent, as the payment of a sum of money, or the consent of the parents, and then the judgment about a consent of this kind is the same as about a consent expressed in words of the future tense; wherefore it makes no marriage.
+
+This suffices for the Replies to the Objections.

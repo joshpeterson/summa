@@ -1,0 +1,16 @@
+# Whether The Object Of Faith Is Something Complex, By Way Of A Proposition?
+## Objections
+Objection 1: It would seem that the object of faith is not something complex by way of a proposition. For the object of faith is the First Truth, as stated above [2260](A[1]). Now the First Truth is something simple. Therefore the object of faith is not something complex.
+Objection 2: Further, the exposition of faith is contained in the symbol. Now the symbol does not contain propositions, but things: for it is not stated therein that God is almighty, but: "I believe in God . . . almighty." Therefore the object of faith is not a proposition but a thing.
+Objection 3: Further, faith is succeeded by vision, according to 1 Cor. 13:12: "We see now through a glass in a dark manner; but then face to face. Now I know in part; but then I shall know even as I am known." But the object of the heavenly vision is something simple, for it is the Divine Essence. Therefore the faith of the wayfarer is also.
+## Answer
+On the contrary, Faith is a mean between science and opinion. Now the mean is in the same genus as the extremes. Since, then, science and opinion are about propositions, it seems that faith is likewise about propositions; so that its object is something complex.
+I answer that, The thing known is in the knower according to the mode of the knower. Now the mode proper to the human intellect is to know the truth by synthesis and analysis, as stated in the [2261]FP, Q[85], A[5]. Hence things that are simple in themselves, are known by the intellect with a certain amount of complexity, just as on the other hand, the Divine intellect knows, without any complexity, things that are complex in themselves.
+
+Accordingly the object of faith may be considered in two ways. First, as regards the thing itself which is believed, and thus the object of faith is something simple, namely the thing itself about which we have faith. Secondly, on the part of the believer, and in this respect the object of faith is something complex by way of a proposition.
+
+Hence in the past both opinions have been held with a certain amount of truth.
+## Replies
+Reply to Objection 1: This argument considers the object of faith on the part of the thing believed.
+Reply to Objection 2: The symbol mentions the things about which faith is, in so far as the act of the believer is terminated in them, as is evident from the manner of speaking about them. Now the act of the believer does not terminate in a proposition, but in a thing. For as in science we do not form propositions, except in order to have knowledge about things through their means, so is it in faith.
+Reply to Objection 3: The object of the heavenly vision will be the First Truth seen in itself, according to 1 Jn. 3:2: "We know that when He shall appear, we shall be like to Him: because we shall see Him as He is": hence that vision will not be by way of a proposition but by way of a simple understanding. On the other hand, by faith, we do not apprehend the First Truth as it is in itself. Hence the comparison fails.

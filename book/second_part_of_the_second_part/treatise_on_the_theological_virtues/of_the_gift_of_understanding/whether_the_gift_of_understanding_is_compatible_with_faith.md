@@ -1,0 +1,16 @@
+# Whether The Gift Of Understanding Is Compatible With Faith?
+## Objections
+Objection 1: It would seem that the gift of understanding is incompatible with faith. For Augustine says (QQ. lxxxiii, qu. 15) that "the thing which is understood is bounded by the comprehension of him who understands it." But the thing which is believed is not comprehended, according to the word of the Apostle to the Philippians 3:12: "Not as though I had already comprehended [Douay: 'attained'], or were already perfect." Therefore it seems that faith and understanding are incompatible in the same subject.
+Objection 2: Further, whatever is understood is seen by the understanding. But faith is of things that appear not, as stated above ([2357]Q[1], A[4];[2358] Q[4], A[1]). Therefore faith is incompatible with understanding in the same subject.
+Objection 3: Further, understanding is more certain than science. But science and faith are incompatible in the same subject, as stated above ([2359]Q[1], AA[4],5). Much less, therefore, can understanding and faith be in the same subject.
+## Answer
+On the contrary, Gregory says (Moral. i, 15) that "understanding enlightens the mind concerning the things it has heard." Now one who has faith can be enlightened in his mind concerning what he has heard; thus it is written (Lk. 24:27, 32) that Our Lord opened the scriptures to His disciples, that they might understand them. Therefore understanding is compatible with faith.
+I answer that, We need to make a twofold distinction here: one on the side of faith, the other on the part of understanding.
+
+On the side of faith the distinction to be made is that certain things, of themselves, come directly under faith, such as the mystery to three Persons in one God, and the incarnation of God the Son; whereas other things come under faith, through being subordinate, in one way or another, to those just mentioned, for instance, all that is contained in the Divine Scriptures.
+
+On the part of understanding the distinction to be observed is that there are two ways in which we may be said to understand. In one way, we understand a thing perfectly, when we arrive at knowing the essence of the thing we understand, and the very truth considered in itself of the proposition understood. In this way, so long as the state of faith lasts, we cannot understand those things which are the direct object of faith: although certain other things that are subordinate to faith can be understood even in this way.
+
+In another way we understand a thing imperfectly, when the essence of a thing or the truth of a proposition is not known as to its quiddity or mode of being, and yet we know that whatever be the outward appearances, they do not contradict the truth, in so far as we understand that we ought not to depart from matters of faith, for the sake of things that appear externally. In this way, even during the state of faith, nothing hinders us from understanding even those things which are the direct object of faith.
+
+This suffices for the Replies to the Objections: for the first three argue in reference to perfect understanding, while the last refers to the understanding of matters subordinate to faith.

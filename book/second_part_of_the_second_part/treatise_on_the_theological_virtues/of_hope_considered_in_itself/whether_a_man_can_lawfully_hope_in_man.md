@@ -1,0 +1,12 @@
+# Whether A Man Can Lawfully Hope In Man?
+## Objections
+Objection 1: It wold seem that one may lawfully hope in man. For the object of hope is eternal happiness. Now we are helped to obtain eternal happiness by the patronage of the saints, for Gregory says (Dial. i, 8) that "predestination is furthered by the saints' prayers." Therefore one may hope in man.
+Objection 2: Further, if a man may not hope in another man, it ought not to be reckoned a sin in a man, that one should not be able to hope in him. Yet this is reckoned a vice in some, as appears from Jer. 9:4: "Let every man take heed of his neighbor, and let him not trust in any brother of his." Therefore it is lawful to trust in a man.
+Objection 3: Further, prayer is the expression of hope, as stated above (A[2], OBJ[2]). But it is lawful to pray to a man for something. Therefore it is lawful to trust in him.
+## Answer
+On the contrary, It is written (Jer. 17:5): "Cursed be the man that trusteth in man."
+I answer that, Hope, as stated above [2433](A[1]; [2434]FS, Q[40], A[7]), regards two things, viz. the good which it intends to obtain, and the help by which that good is obtained. Now the good which a man hopes to obtain, has the aspect of a final cause, while the help by which one hopes to obtain that good, has the character of an efficient cause. Now in each of these kinds of cause we find a principal and a secondary cause. For the principal end is the last end, while the secondary end is that which is referred to an end. In like manner the principal efficient cause is the first agent, while the secondary efficient cause is the secondary and instrumental agent. Now hope regards eternal happiness as its last end, and the Divine assistance as the first cause leading to happiness.
+
+Accordingly, just as it is not lawful to hope for any good save happiness, as one's last end, but only as something referred to final happiness, so too, it is unlawful to hope in any man, or any creature, as though it were the first cause of movement towards happiness. It is, however, lawful to hope in a man or a creature as being the secondary and instrumental agent through whom one is helped to obtain any goods that are ordained to happiness. It is in this way that we turn to the saints, and that we ask men also for certain things; and for this reason some are blamed in that they cannot be trusted to give help.
+
+This suffices for the Replies to the Objections.

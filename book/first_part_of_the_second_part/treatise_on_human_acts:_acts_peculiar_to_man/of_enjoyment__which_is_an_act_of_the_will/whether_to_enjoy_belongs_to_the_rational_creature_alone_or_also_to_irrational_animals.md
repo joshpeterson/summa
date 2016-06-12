@@ -1,0 +1,14 @@
+# Whether To Enjoy Belongs To The Rational Creature Alone, Or Also To Irrational Animals?
+## Objections
+Objection 1: It would seem that to enjoy belongs to men alone. For Augustine says (De Doctr. Christ. i, 22) that "it is given to us men to enjoy and to use." Therefore other animals cannot enjoy.
+Objection 2: Further, to enjoy relates to the last end. But irrational animals cannot obtain the last end. Therefore it is not for them to enjoy.
+Objection 3: Further, just as the sensitive appetite is beneath the intellectual appetite, so is the natural appetite beneath the sensitive. If, therefore, to enjoy belongs to the sensitive appetite, it seems that for the same reason it can belong to the natural appetite. But this is evidently false, since the latter cannot delight in anything. Therefore the sensitive appetite cannot enjoy: and accordingly enjoyment is not possible for irrational animals.
+## Answer
+On the contrary, Augustine says (QQ. 83, qu. 30): "It is not so absurd to suppose that even beasts enjoy their food and any bodily pleasure."
+I answer that, As was stated above [1079](A[1]) to enjoy is not the act of the power that achieves the end as executor, but of the power that commands the achievement; for it has been said to belong to the appetitive power. Now things void of reason have indeed a power of achieving an end by way of execution, as that by which a heavy body has a downward tendency, whereas a light body has an upward tendency. Yet the power of command in respect of the end is not in them, but in some higher nature, which moves all nature by its command, just as in things endowed with knowledge, the appetite moves the other powers to their acts. Wherefore it is clear that things void of knowledge, although they attain an end, have no enjoyment of the end: this is only for those that are endowed with knowledge.
+
+Now knowledge of the end is twofold: perfect and imperfect. Perfect knowledge of the end, is that whereby not only is that known which is the end and the good, but also the universal formality of the end and the good; and such knowledge belongs to the rational nature alone. On the other hand, imperfect knowledge is that by which the end and the good are known in the particular. Such knowledge is in irrational animals: whose appetitive powers do not command with freedom, but are moved according to a natural instinct to whatever they apprehend. Consequently, enjoyment belongs to the rational nature, in a perfect degree; to irrational animals, imperfectly; to other creatures, not at all.
+## Replies
+Reply to Objection 1: Augustine is speaking there of perfect enjoyment.
+Reply to Objection 2: Enjoyment need not be of the last end simply; but of that which each one chooses for his last end.
+Reply to Objection 3: The sensitive appetite follows some knowledge; not so the natural appetite, especially in things void of knowledge.

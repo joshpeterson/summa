@@ -1,0 +1,14 @@
+# Whether An Action Has The Species Of Good Or Evil From Its End?
+## Objections
+Objection 1: It would seem that the good and evil which are from the end do not diversify the species of actions. For actions derive their species from the object. But the end is altogether apart from the object. Therefore the good and evil which are from the end do not diversify the species of an action.
+Objection 2: Further, that which is accidental does not constitute the species, as stated above [1143](A[5]). But it is accidental to an action to be ordained to some particular end; for instance, to give alms from vainglory. Therefore actions are not diversified as to species, according to the good and evil which are from the end.
+Objection 3: Further, acts that differ in species, can be ordained to the same end: thus to the end of vainglory, actions of various virtues and vices can be ordained. Therefore the good and evil which are taken from the end, do not diversify the species of action.
+## Answer
+On the contrary, It has been shown above ([1144]Q[1], A[3]) that human actions derive their species from the end. Therefore good and evil in respect of the end diversify the species of actions.
+I answer that, Certain actions are called human, inasmuch as they are voluntary, as stated above ([1145]Q[1], A[1]). Now, in a voluntary action, there is a twofold action, viz. the interior action of the will, and the external action: and each of these actions has its object. The end is properly the object of the interior act of the will: while the object of the external action, is that on which the action is brought to bear. Therefore just as the external action takes its species from the object on which it bears; so the interior act of the will takes its species from the end, as from its own proper object.
+
+Now that which is on the part of the will is formal in regard to that which is on the part of the external action: because the will uses the limbs to act as instruments; nor have external actions any measure of morality, save in so far as they are voluntary. Consequently the species of a human act is considered formally with regard to the end, but materially with regard to the object of the external action. Hence the Philosopher says (Ethic. v, 2) that "he who steals that he may commit adultery, is strictly speaking, more adulterer than thief."
+## Replies
+Reply to Objection 1: The end also has the character of an object, as stated above.
+Reply to Objection 2: Although it is accidental to the external action to be ordained to some particular end, it is not accidental to the interior act of the will, which act is compared to the external act, as form to matter.
+Reply to Objection 3: When many actions, differing in species, are ordained to the same end, there is indeed a diversity of species on the part of the external actions; but unity of species on the part of the internal action.

@@ -1,0 +1,10 @@
+# Whether Man Was Placed In Paradise To Dress It And Keep It?
+## Objections
+Objection 1: It would seem that man was not placed in paradise to dress and keep it. For what was brought on him as a punishment of sin would not have existed in paradise in the state of innocence. But the cultivation of the soil was a punishment of sin (Gn. 3:17). Therefore man was not placed in paradise to dress and keep it.
+Objection 2: Further, there is no need of a keeper when there is no fear of trespass with violence. But in paradise there was no fear of trespass with violence. Therefore there was no need for man to keep paradise.
+Objection 3: Further, if man was placed in paradise to dress and keep it, man would apparently have been made for the sake of paradise, and not contrariwise; which seems to be false. Therefore man was not place in paradise to dress and keep it.
+## Answer
+On the contrary, It is written (Gn. 2: 15): "The Lord God took man and placed in the paradise of pleasure, to dress and keep it."
+I answer that, As Augustine says (Gen. ad lit. viii, 10), these words in Genesis may be understood in two ways. First, in the sense that God placed man in paradise that He might Himself work in man and keep him, by sanctifying him (for if this work cease, man at once relapses into darkness, as the air grows dark when the light ceases to shine); and by keeping man from all corruption and evil. Secondly, that man might dress and keep paradise, which dressing would not have involved labor, as it did after sin; but would have been pleasant on account of man's practical knowledge of the powers of nature. Nor would man have kept paradise against a trespasser; but he would have striven to keep paradise for himself lest he should lose it by sin. All of which was for man's good; wherefore paradise was ordered to man's benefit, and not conversely.
+
+Whence the Replies to the Objections are made clear.

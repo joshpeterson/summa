@@ -1,0 +1,14 @@
+# Whether Use Regards Also The Last End?
+## Objections
+Objection 1: It would seem that use can regard also the last end. For Augustine says (De Trin. x, 11): "Whoever enjoys, uses." But man enjoys the last end. Therefore he uses the last end.
+Objection 2: Further, "to use is to apply something to the purpose of the will" (De Trin. x, 11). But the last end, more than anything else, is the object of the will's application. Therefore it can be the object of use.
+Objection 3: Further, Hilary says (De Trin. ii) that "Eternity is in the Father, Likeness in the Image," i.e. in the Son, "Use in the Gift," i.e. in the Holy Ghost. But the Holy Ghost, since He is God, is the last end. Therefore the last end can be the object of use.
+## Answer
+On the contrary, Augustine says (QQ. 83, qu. 30): "No one rightly uses God, but one enjoys Him." But God alone is the last end. Therefore we cannot use the last end.
+I answer that, Use, as stated above [1113](A[1]), implies the application of one thing to another. Now that which is applied to another is regarded in the light of means to an end; and consequently use always regards the means. For this reason things that are adapted to a certain end are said to be "useful"; in fact their very usefulness is sometimes called use.
+
+It must, however, be observed that the last end may be taken in two ways: first, simply; secondly, in respect of an individual. For since the end, as stated above ([1114]Q[1], A[8];[1115] Q[2], A[7]), signifies sometimes the thing itself, and sometimes the attainment or possession of that thing (thus the miser's end is either money or the possession of it); it is evident that, simply speaking, the last end is the thing itself; for the possession of money is good only inasmuch as there is some good in money. But in regard to the individual, the obtaining of money is the last end; for the miser would not seek for money, save that he might have it. Therefore, simply and properly speaking, a man enjoys money, because he places his last end therein; but in so far as he seeks to possess it, he is said to use it.
+## Replies
+Reply to Objection 1: Augustine is speaking of use in general, in so far as it implies the relation of an end to the enjoyment which a man seeks in that end.
+Reply to Objection 2: The end is applied to the purpose of the will, that the will may find rest in it. Consequently this rest in the end, which is the enjoyment thereof, is in this sense called use of the end. But the means are applied to the will's purpose, not only in being used as means, but as ordained to something else in which the will finds rest.
+Reply to Objection 3: The words of Hilary refer to use as applicable to rest in the last end; just as, speaking in a general sense, one may be said to use the end for the purpose of attaining it, as stated above. Hence Augustine says (De Trin. vi, 10) that "this love, delight, felicity, or happiness, is called use by him."

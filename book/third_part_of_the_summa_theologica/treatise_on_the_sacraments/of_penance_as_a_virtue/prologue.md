@@ -1,0 +1,16 @@
+# Of Penance As A Virtue
+
+We must now consider penance as a virtue, under which head there are six points of inquiry:
+(1) Whether penance is a virtue?
+(2) Whether it is a special virtue?
+(3) To what species of virtue does it belong?
+(4) Of its subject;
+(5) Of its cause;
+(6) Of its relation to the other virtues.
+
+* Whether Penance Is A Virtue?
+* Whether Penance Is A Special Virtue?
+* Whether The Virtue Of Penance Is A Species Of Justice?
+* Whether The Will Is Properly The Subject Of Penance?
+* Whether Penance Originates From Fear?
+* Whether Penance Is The First Of The Virtues?

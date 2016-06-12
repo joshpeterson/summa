@@ -1,0 +1,14 @@
+# Whether Servile Fear Is Substantially The Same As Filial Fear?
+## Objections
+Objection 1: It would seem that servile fear is substantially the same as filial fear. For filial fear is to servile fear the same apparently as living faith is to lifeless faith, since the one is accompanied by mortal sin and the other not. Now living faith and lifeless faith are substantially the same. Therefore servile and filial fear are substantially the same.
+Objection 2: Further, habits are diversified by their objects. Now the same thing is the object of servile and of filial fear, since they both fear God. Therefore servile and filial fear are substantially the same.
+Objection 3: Further, just as man hopes to enjoy God and to obtain favors from Him, so does he fear to be separated from God and to be punished by Him. Now it is the same hope whereby we hope to enjoy God, and to receive other favors from Him, as stated above ([2463]Q[17], A[2], ad 2). Therefore filial fear, whereby we fear separation from God, is the same as servile fear whereby we fear His punishments.
+## Answer
+On the contrary, Augustine (In prim. canon. Joan. Tract. ix) says that there are two fears, one servile, another filial or chaste fear.
+I answer that, The proper object of fear is evil. And since acts and habits are diversified by their objects, as shown above ([2464]FS, Q[54], A[2] ), it follows of necessity that different kinds of fear correspond to different kinds of evil.
+
+Now the evil of punishment, from which servile fear shrinks, differs specifically from evil of fault, which filial fear shuns, as shown above [2465](A[2]). Hence it is evident that servile and filial fear are not the same substantially but differ specifically.
+## Replies
+Reply to Objection 1: Living and lifeless faith differ, not as regards the object, since each of them believes God and believes in a God, but in respect of something extrinsic, viz. the presence or absence of charity, and so they do not differ substantially. On the other hand, servile and filial fear differ as to their objects: and hence the comparison fails.
+Reply to Objection 2: Servile fear and filial fear do not regard God in the same light. For servile fear looks upon God as the cause of the infliction of punishment, whereas filial fear looks upon Him, not as the active cause of guilt, but rather as the term wherefrom it shrinks to be separated by guilt. Consequently the identity of object, viz. God, does not prove a specific identity of fear, since also natural movements differ specifically according to their different relationships to some one term, for movement from whiteness is not specifically the same as movement towards whiteness.
+Reply to Objection 3: Hope looks upon God as the principle not only of the enjoyment of God, but also of any other favor whatever. This cannot be said of fear; and so there is no comparison.

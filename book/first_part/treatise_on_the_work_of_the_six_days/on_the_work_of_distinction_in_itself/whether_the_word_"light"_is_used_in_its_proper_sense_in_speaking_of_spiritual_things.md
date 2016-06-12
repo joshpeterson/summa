@@ -1,0 +1,10 @@
+# Whether The Word "Light" Is Used In Its Proper Sense In Speaking Of Spiritual Things?
+## Objections
+Objection 1: It would seem that "light" is used in its proper sense in spiritual things. For Augustine says (Gen. ad lit. iv, 28) that "in spiritual things light is better and surer: and that Christ is not called Light in the same sense as He is called the Stone; the former is to be taken literally, and the latter metaphorically."
+Objection 2: Further, Dionysius (Div. Nom. iv) includes Light among the intellectual names of God. But such names are used in their proper sense in spiritual things. Therefore light is used in its proper sense in spiritual matters.
+Objection 3: Further, the Apostle says (Eph. 5:13): "All that is made manifest is light." But to be made manifest belongs more properly to spiritual things than to corporeal. Therefore also does light.
+## Answer
+On the contrary, Ambrose says (De Fide ii) that "Splendor" is among those things which are said of God metaphorically.
+I answer that, Any word may be used in two ways---that is to say, either in its original application or in its more extended meaning. This is clearly shown in the word "sight," originally applied to the act of the sense, and then, as sight is the noblest and most trustworthy of the senses, extended in common speech to all knowledge obtained through the other senses. Thus we say, "Seeing how it tastes," or "smells," or "burns. "Further, sight is applied to knowledge obtained through the intellect, as in those words: "Blessed are the clean of heart, for they shall see God" (Mat. 5:8). And thus it is with the word light. In its primary meaning it signifies that which makes manifest to the sense of sight; afterwards it was extended to that which makes manifest to cognition of any kind. If, then, the word is taken in its strict and primary meaning, it is to be understood metaphorically when applied to spiritual things, as Ambrose says (De Fide ii). But if taken in its common and extended use, as applied to manifestation of every kind, it may properly be applied to spiritual things.
+
+The answer to the objections will sufficiently appear from what has been said.

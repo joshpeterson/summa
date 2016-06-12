@@ -1,0 +1,14 @@
+# Whether It Is Lawful To Imprison A Man?
+## Objections
+Objection 1: It would seem unlawful to imprison a man. An act which deals with undue matter is evil in its genus, as stated above ([2910]FS, Q[18], A[2]). Now man, having a free-will, is undue matter for imprisonment which is inconsistent with free-will. Therefore it is unlawful to imprison a man.
+Objection 2: Further, human justice should be ruled by Divine justice. Now according to Ecclus. 15:14, "God left man in the hand of his own counsel." Therefore it seems that a man ought not to be coerced by chains or prisons.
+Objection 3: Further, no man should be forcibly prevented except from doing an evil deed; and any man can lawfully prevent another from doing this. If, therefore, it were lawful to imprison a man, in order to restrain him from evil deeds, it would be lawful for anyone to put a man in prison; and this is clearly false. Therefore the same conclusion follows.
+## Answer
+On the contrary, We read in Lev. 24 that a man was imprisoned for the sin of blasphemy.
+I answer that, In the goods three things may be considered in due order. First, the substantial integrity of the body, and this is injured by death or maiming. Secondly, pleasure or rest of the senses, and to this striking or anything causing a sense of pain is opposed. Thirdly, the movement or use of the members, and this is hindered by binding or imprisoning or any kind of detention.
+
+Therefore it is unlawful to imprison or in any way detain a man, unless it be done according to the order of justice, either in punishment, or as a measure of precaution against some evil.
+## Replies
+Reply to Objection 1: A man who abuses the power entrusted to him deserves to lose it, and therefore when a man by sinning abuses the free use of his members, he becomes a fitting matter for imprisonment.
+Reply to Objection 2: According to the order of His wisdom God sometimes restrains a sinner from accomplishing a sin, according to Job 5:12: "Who bringeth to nought the designs of the malignant, so that their hand cannot accomplish what they had begun, while sometimes He allows them to do what they will." In like manner, according to human justice, men are imprisoned, not for every sin but for certain ones.
+Reply to Objection 3: It is lawful for anyone to restrain a man for a time from doing some unlawful deed there and then: as when a man prevents another from throwing himself over a precipice, or from striking another. But to him alone who has the right of disposing in general of the actions and of the life of another does it belong primarily to imprison or fetter, because by so doing he hinders him from doing not only evil but also good deeds.

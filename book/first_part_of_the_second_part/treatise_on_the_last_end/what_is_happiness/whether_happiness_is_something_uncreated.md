@@ -1,0 +1,12 @@
+# Whether Happiness Is Something Uncreated?
+## Objections
+Objection 1: It would seem that happiness is something uncreated. For Boethius says (De Consol. iii): "We must needs confess that God is happiness itself."
+Objection 2: Further, happiness is the supreme good. But it belongs to God to be the supreme good. Since, then, there are not several supreme goods, it seems that happiness is the same as God.
+Objection 3: Further, happiness is the last end, to which man's will tends naturally. But man's will should tend to nothing else as an end, but to God, Who alone is to be enjoyed, as Augustine says (De Doctr. Christ. i, 5,22). Therefore happiness is the same as God.
+## Answer
+On the contrary, Nothing made is uncreated. But man's happiness is something made; because according to Augustine (De Doctr. Christ. i, 3): "Those things are to be enjoyed which make us happy." Therefore happiness is not something uncreated.
+I answer that, As stated above ([1002]Q[1], A[8];[1003] Q[2], A[7]), our end is twofold. First, there is the thing itself which we desire to attain: thus for the miser, the end is money. Secondly there is the attainment or possession, the use or enjoyment of the thing desired; thus we may say that the end of the miser is the possession of money; and the end of the intemperate man is to enjoy something pleasurable. In the first sense, then, man's last end is the uncreated good, namely, God, Who alone by His infinite goodness can perfectly satisfy man's will. But in the second way, man's last end is something created, existing in him, and this is nothing else than the attainment or enjoyment of the last end. Now the last end is called happiness. If, therefore, we consider man's happiness in its cause or object, then it is something uncreated; but if we consider it as to the very essence of happiness, then it is something created.
+## Replies
+Reply to Objection 1: God is happiness by His Essence: for He is happy not by acquisition or participation of something else, but by His Essence. On the other hand, men are happy, as Boethius says (De Consol. iii), by participation; just as they are called "gods," by participation. And this participation of happiness, in respect of which man is said to be happy, is something created.
+Reply to Objection 2: Happiness is called man's supreme good, because it is the attainment or enjoyment of the supreme good.
+Reply to Objection 3: Happiness is said to be the last end, in the same way as the attainment of the end is called the end.

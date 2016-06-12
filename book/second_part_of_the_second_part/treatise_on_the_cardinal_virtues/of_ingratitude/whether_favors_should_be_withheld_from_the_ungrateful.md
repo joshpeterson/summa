@@ -1,0 +1,12 @@
+# Whether Favors Should Be Withheld From The Ungrateful?
+## Objections
+Objection 1: It seems that favors should withheld from the ungrateful. For it is written (Wis. 16:29): "The hope of the unthankful shall melt away as the winter's ice." But this hope would not melt away unless favors were withheld from him. Therefore favors should be withheld from the ungrateful.
+Objection 2: Further, no one should afford another an occasion of committing sin. But the ungrateful in receiving a favor is given an occasion of ingratitude. Therefore favors should not be bestowed on the ungrateful.
+Objection 3: Further, "By what things a man sinneth, by the same also he is tormented" (Wis. 11:17). Now he that is ungrateful when he receives a favor sins against the favor. Therefore he should be deprived of the favor.
+## Answer
+On the contrary, It is written (Lk. 6:35) that "the Highest . . . is kind to the unthankful, and to the evil." Now we should prove ourselves His children by imitating Him (Lk. 6:36). Therefore we should not withhold favors from the ungrateful.
+I answer that, There are two points to be considered with regard to an ungrateful person. The first is what he deserves to suffer and thus it is certain that he deserves to be deprived of our favor. The second is, what ought his benefactor to do? For in the first place he should not easily judge him to be ungrateful, since, as Seneca remarks (De Benef. iii), "a man is often grateful although he repays not," because perhaps he has not the means or the opportunity of repaying. Secondly, he should be inclined to turn his ungratefulness into gratitude, and if he does not achieve this by being kind to him once, he may by being so a second time. If, however, the more he repeats his favors, the more ungrateful and evil the other becomes, he should cease from bestowing his favors upon him.
+## Replies
+Reply to Objection 1: The passage quoted speaks of what the ungrateful man deserves to suffer.
+Reply to Objection 2: He that bestows a favor on an ungrateful person affords him an occasion not of sin but of gratitude and love. And if the recipient takes therefrom an occasion of ingratitude, this is not to be imputed to the bestower.
+Reply to Objection 3: He that bestows a favor must not at once act the part of a punisher of ingratitude, but rather that of a kindly physician, by healing the ingratitude with repeated favors.

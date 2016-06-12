@@ -1,0 +1,14 @@
+# Whether Penance Should Be Assigned Any Parts?
+## Objections
+Objection 1: It would seem that parts should not be assigned to Penance. For it is the Divine power that works our salvation most secretly in the sacraments. Now the Divine power is one and simple. Therefore Penance, being a sacrament, should have no parts assigned to it.
+Objection 2: Further, Penance is both a virtue and a sacrament. Now no parts are assigned to it as a virtue, since virtue is a habit, which is a simple quality of the mind. In like manner, it seems that parts should not be assigned to Penance as a sacrament, because no parts are assigned to Baptism and the other sacraments. Therefore no parts at all should be assigned to Penance.
+Objection 3: Further, the matter of Penance is sin, as stated above ([4807]Q[84], A[2]). But no parts are assigned to sin. Neither, therefore, should parts be assigned to Penance.
+## Answer
+On the contrary, The parts of a thing are those out of which the whole is composed. Now the perfection of Penance is composed of several things, viz. contrition, confession, and satisfaction. Therefore Penance has parts.
+I answer that, The parts of a thing are those into which the whole is divided materially, for the parts of a thing are to the whole, what matter is to the form; wherefore the parts are reckoned as a kind of material cause, and the whole as a kind of formal cause (Phys. ii). Accordingly wherever, on the part of matter, we find a kind of plurality, there we shall find a reason for assigning parts.
+
+Now it has been stated above (Q[84], AA[2],3), that, in the sacrament of Penance, human actions stand as matter: and so, since several actions are requisite for the perfection of Penance, viz., contrition, confession, and satisfaction, as we shall show further on [4808](A[2]), it follows that the sacrament of Penance has parts.
+## Replies
+Reply to Objection 1: Every sacrament is something simple by reason of the Divine power, which operates therein: but the Divine power is so great that it can operate both through one and through many, and by reason of these many, parts may be assigned to a particular sacrament.
+Reply to Objection 2: Parts are not assigned to penance as a virtue: because the human acts of which there are several in penance, are related to the habit of virtue, not as its parts, but as its effects. It follows, therefore, that parts are assigned to Penance as a sacrament, to which the human acts are related as matter: whereas in the other sacraments the matter does not consist of human acts, but of some one external thing, either simple, as water or oil, or compound, as chrism, and so parts are not assigned to the other sacraments.
+Reply to Objection 3: Sins are the remote matter of Penance, inasmuch, to wit, as they are the matter or object of the human acts, which are the proper matter of Penance as a sacrament.

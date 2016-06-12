@@ -1,0 +1,20 @@
+# Whether A Venial Sin Can Become Mortal?
+## Objections
+Objection 1: It would seem that a venial sin can become a mortal sin. For Augustine in explaining the words of Jn. 3:36: "He that believeth not the Son, shall not see life," says (Tract. xii in Joan.): "The slightest," i.e. venial, "sins kill if we make little of them." Now a sin is called mortal through causing the spiritual death of the soul. Therefore a venial sin can become mortal.
+Objection 2: Further, a movement in the sensuality before the consent of reason, is a venial sin, but after consent, is a mortal sin, as stated above ([1925]Q[74], A[8], ad 2). Therefore a venial sin can become mortal.
+Objection 3: Further, venial and mortal sin differ as curable and incurable disease, as stated above [1926](A[1]). But a curable disease may become incurable. Therefore a venial sin may become mortal.
+Objection 4: Further, a disposition may become a habit. Now venial sin is a disposition to mortal, as stated [1927](A[3]). Therefore a venial sin can become mortal.
+## Answer
+
+I answer that, The fact of a venial sin becoming a mortal sin may be understood in three ways. First, so that the same identical act be at first a venial, and then a mortal sin. This is impossible: because a sin, like any moral act, consists chiefly in an act of the will: so that an act is not one morally, if the will be changed, although the act be continuous physically. If, however, the will be not changed, it is not possible for a venial sin to become mortal.
+
+Secondly, this may be taken to mean that a sin generically venial, becomes mortal. This is possible, in so far as one may fix one's end in that venial sin, or direct it to some mortal sin as end, as stated above [1928](A[2]).
+
+Thirdly, this may be understood in the sense of many venial sins constituting one mortal sin. If this be taken as meaning that many venial sins added together make one mortal sin, it is false, because all the venial sins in the world cannot incur a debt of punishment equal to that of one mortal sin. This is evident as regards the duration of the punishment, since mortal sin incurs a debt of eternal punishment, while venial sin incurs a debt of temporal punishment, as stated above ([1929]Q[87], AA[3],5). It is also evident as regards the pain of loss, because mortal sins deserve to be punished by the privation of seeing God, to which no other punishment is comparable, as Chrysostom states (Hom. xxiv in Matth.). It is also evident as regards the pain of sense, as to the remorse of conscience; although as to the pain of fire, the punishments may perhaps not be improportionate to one another.
+
+If, however, this be taken as meaning that many venial sins make one mortal sin dispositively, it is true, as was shown above [1930](A[3]) with regard to the two different manners of disposition, whereby venial sin disposes to mortal sin.
+## Replies
+Reply to Objection 1: Augustine is referring to the fact of many venial sins making one mortal sin dispositively.
+Reply to Objection 2: The same movement of the sensuality which preceded the consent of reason can never become a mortal sin; but the movement of the reason in consenting is a mortal sin.
+Reply to Objection 3: Disease of the body is not an act, but an abiding disposition; wherefore, while remaining the same disease, it may undergo change. On the other hand, venial sin is a transient act, which cannot be taken up again: so that in this respect the comparison fails.
+Reply to Objection 4: A disposition that becomes a habit, is like an imperfect thing in the same species; thus imperfect science, by being perfected, becomes a habit. On the other hand, venial sin is a disposition to something differing generically, even as an accident which disposes to a substantial form, into which it is never changed.

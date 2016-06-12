@@ -1,0 +1,14 @@
+# Whether Delight Is In The Intellectual Appetite?
+## Objections
+Objection 1: It would seem that delight is not in the intellectual appetite. Because the Philosopher says (Rhet. i, 11) that "delight is a sensible movement." But sensible movement is not in an intellectual power. Therefore delight is not in the intellectual appetite.
+Objection 2: Further, delight is a passion. But every passion is in the sensitive appetite. Therefore delight is only in the sensitive appetite.
+Objection 3: Further, delight is common to us and to the irrational animals. Therefore it is not elsewhere than in that power which we have in common with irrational animals.
+## Answer
+On the contrary, It is written (Ps. 36:4): "Delight in the Lord." But the sensitive appetite cannot reach to God; only the intellectual appetite can. Therefore delight can be in the intellectual appetite.
+I answer that, As stated above [1264](A[3]), a certain delight arises from the apprehension of the reason. Now on the reason apprehending something, not only the sensitive appetite is moved, as regards its application to some particular thing, but also the intellectual appetite, which is called the will. And accordingly in the intellectual appetite or will there is that delight which is called joy, but not bodily delight.
+
+However, there is this difference of delight in either power, that delight of the sensitive appetite is accompanied by a bodily transmutation, whereas delight of the intellectual appetite is nothing but the mere movement of the will. Hence Augustine says (De Civ. Dei xiv, 6) that "desire and joy are nothing else but a volition of consent to the things we wish."
+## Replies
+Reply to Objection 1: In this definition of the Philosopher, he uses the word "sensible" in its wide acceptation for any kind of perception. For he says (Ethic. x, 4) that "delight is attendant upon every sense, as it is also upon every act of the intellect and contemplation." Or we may say that he is defining delight of the sensitive appetite.
+Reply to Objection 2: Delight has the character of passion, properly speaking, when accompanied by bodily transmutation. It is not thus in the intellectual appetite, but according to simple movement: for thus it is also in God and the angels. Hence the Philosopher says (Ethic. vii, 14) that "God rejoices by one simple act": and Dionysius says at the end of De Coel. Hier., that "the angels are not susceptible to our passible delight, but rejoice together with God with the gladness of incorruption."
+Reply to Objection 3: In us there is delight, not only in common with dumb animals, but also in common with angels. Wherefore Dionysius says (De Coel. Hier.) that "holy men often take part in the angelic delights." Accordingly we have delight, not only in the sensitive appetite, which we have in common with dumb animals, but also in the intellectual appetite, which we have in common with the angels.

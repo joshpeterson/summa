@@ -1,0 +1,9 @@
+# Whether Hatred Of Our Neighbor Is The Most Grievous Sin Against Our Neighbor?
+## Objections
+Objection 1: It would seem that hatred of our neighbor is the most grievous sin against our neighbor. For it is written (1 Jn. 3:15): "Whosoever hateth his brother is a murderer." Now murder is the most grievous of sins against our neighbor. Therefore hatred is also.
+Objection 2: Further, worst is opposed to best. Now the best thing we give our neighbor is love, since all other things are referable to love. Therefore hatred is the worst.
+## Answer
+On the contrary, A thing is said to be evil, because it hurts, as Augustine observes (Enchiridion xii). Now there are sins by which a man hurts his neighbor more than by hatred, e.g. theft, murder and adultery. Therefore hatred is not the most grievous sin.
+I answer that, Sins committed against our neighbor are evil on two counts; first by reason of the disorder in the person who sins, secondly by reason of the hurt inflicted on the person sinned against. On the first count, hatred is a more grievous sin than external actions that hurt our neighbor, because hatred is a disorder of man's will, which is the chief part of man, and wherein is the root of sin, so that if a man's outward actions were to be inordinate, without any disorder in his will, they would not be sinful, for instance, if he were to kill a man, through ignorance or out of zeal for justice: and if there be anything sinful in a man's outward sins against his neighbor, it is all to be traced to his inward hatred.
+
+On the other hand, as regards the hurt inflicted on his neighbor, a man's outward sins are worse than his inward hatred. This suffices for the Replies to the Objections.

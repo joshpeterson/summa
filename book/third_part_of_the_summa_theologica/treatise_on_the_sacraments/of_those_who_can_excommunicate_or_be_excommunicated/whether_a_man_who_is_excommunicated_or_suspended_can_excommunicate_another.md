@@ -1,0 +1,10 @@
+# Whether A Man Who Is Excommunicated Or Suspended Can Excommunicate Another?
+## Objections
+Objection 1: It would seem that one who is excommunicated or suspended can excommunicate another. For such a one has lost neither orders nor jurisdiction, since neither is he ordained anew when he is absolved, nor is his jurisdiction renewed. But excommunication requires nothing more than orders or jurisdiction. Therefore even one who is excommunicated or suspended can excommunicate.
+Objection 2: Further. it is a greater thing to consecrate the body of Christ than to excommunicate. But such persons can consecrate. Therefore they can excommunicate.
+## Answer
+On the contrary, one whose body is bound cannot bind another. But spiritual gyves are stronger than bodily fetters. Therefore one who is excommunicated cannot excommunicate another, since excommunication is a spiritual chain.
+I answer that, Jurisdiction can only be used in relation to another man. Consequently, since every excommunicated person is severed from the communion of the faithful, he is deprived of the use of jurisdiction. And as excommunication requires jurisdiction, an excommunicated person cannot excommunicate, and the same reason applies to one who is suspended from jurisdiction. For if he be suspended from orders only, then he cannot exercise his order, but he can use his jurisdiction, while, on the other hand, if he be suspended from jurisdiction and not from orders. he cannot use his jurisdiction, though he can exercise his order: and if he be suspended from both, he can exercise neither.
+## Replies
+Reply to Objection 1: Although an excommunicated or suspended person does not lose his jurisdiction, yet he does lose its use.
+Reply to Objection 2: The power of consecration results from the power of the character which is indelible, wherefore, from the very fact that a man has the character of order, he can always consecrate, though not always lawfully. It is different with the power of excommunication which results from jurisdiction, for this can be taken away and bound.

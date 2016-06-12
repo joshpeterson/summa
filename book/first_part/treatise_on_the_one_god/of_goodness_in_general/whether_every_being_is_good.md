@@ -1,0 +1,14 @@
+# Whether Every Being Is Good?
+## Objections
+Objection 1: It seems that not every being is good. For goodness is something superadded to being, as is clear from A[1]. But whatever is added to being limits it; as substance, quantity, quality, etc. Therefore goodness limits being. Therefore not every being is good.
+Objection 2: Further, no evil is good: "Woe to you that call evil good and good evil" (Is. 5:20). But some things are called evil. Therefore not every being is good.
+Objection 3: Further, goodness implies desirability. Now primary matter does not imply desirability, but rather that which desires. Therefore primary matter does not contain the formality of goodness. Therefore not every being is good.
+Objection 4: Further, the Philosopher notes (Metaph. iii) that "in mathematics goodness does not exist." But mathematics are entities; otherwise there would be no science of mathematics. Therefore not every being is good.
+## Answer
+On the contrary, Every being that is not God is God's creature. Now every creature of God is good (1 Tim. 4:4): and God is the greatest good. Therefore every being is good.
+I answer that, Every being, as being, is good. For all being, as being, has actuality and is in some way perfect; since every act implies some sort of perfection; and perfection implies desirability and goodness, as is clear from A[1]. Hence it follows that every being as such is good.
+## Replies
+Reply to Objection 1: Substance, quantity, quality, and everything included in them, limit being by applying it to some essence or nature. Now in this sense, goodness does not add anything to being beyond the aspect of desirability and perfection, which is also proper to being, whatever kind of nature it may be. Hence goodness does not limit being.
+Reply to Objection 2: No being can be spoken of as evil, formally as being, but only so far as it lacks being. Thus a man is said to be evil, because he lacks some virtue; and an eye is said to be evil, because it lacks the power to see well.
+Reply to Objection 3: As primary matter has only potential being, so it is only potentially good. Although, according to the Platonists, primary matter may be said to be a non-being on account of the privation attaching to it, nevertheless, it does participate to a certain extent in goodness, viz. by its relation to, or aptitude for, goodness. Consequently, to be desirable is not its property, but to desire.
+Reply to Objection 4: Mathematical entities do not subsist as realities; because they would be in some sort good if they subsisted; but they have only logical existence, inasmuch as they are abstracted from motion and matter; thus they cannot have the aspect of an end, which itself has the aspect of moving another. Nor is it repugnant that there should be in some logical entity neither goodness nor form of goodness; since the idea of being is prior to the idea of goodness, as was said in the preceding article.

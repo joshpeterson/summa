@@ -1,0 +1,9 @@
+# Whether A Demon Who Is Overcome By Man, Is For This Reason Hindered From Making Further Assaults?
+## Objections
+Objection 1: It would seem that a demon who is overcome by a man, is not for that reason hindered from any further assault. For Christ overcame the tempter most effectively. Yet afterwards the demon assailed Him by instigating the Jews to kill Him. Therefore it is not true that the devil when conquered ceases his assaults.
+Objection 2: Further, to inflict punishment on one who has been worsted in a fight, is to incite him to a sharper attack. But this is not befitting God's mercy. Therefore the conquered demons are not prevented from further assaults.
+## Answer
+On the contrary, It is written (Mat. 4:11): "Then the devil left Him," i.e. Christ Who overcame.
+I answer that, Some say that when once a demon has been overcome he can no more tempt any man at all, neither to the same nor to any other sin. And others say that he can tempt others, but not the same man. This seems more probable as long as we understand it to be so for a certain definite time: wherefore (Lk. 4:13) it is written: "All temptation being ended, the devil departed from Him for a time." There are two reasons for this. One is on the part of God's clemency; for as Chrysostom says (Super Matt. Hom. v) [*In the Opus Imperfectum, among his supposititious works], "the devil does not tempt man for just as long as he likes, but for as long as God allows; for although He allows him to tempt for a short time, He orders him off on account of our weakness." The other reason is taken from the astuteness of the devil. As to this, Ambrose says on Lk. 4:13: "The devil is afraid of persisting, because he shrinks from frequent defeat." That the devil does nevertheless sometimes return to the assault, is apparent from Mat. 12:44: "I will return into my house from whence I came out."
+
+From what has been said, the objections can easily be solved.

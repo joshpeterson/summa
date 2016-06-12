@@ -1,0 +1,12 @@
+# Whether The Forgiveness Of Sin Is The Effect Of Contrition?
+## Objections
+Objection 1: It would seem that the forgiveness of sin is not the effect of contrition. For God alone forgives sins. But we are somewhat the cause of contrition, since it is an act of our own. Therefore contrition is not the cause of forgiveness.
+Objection 2: Further, contrition is an act of virtue. Now virtue follows the forgiveness of sin: because virtue and sin are not together in the soul. Therefore contrition is not the cause of the forgiveness of sin.
+Objection 3: Further, nothing but sin is an obstacle to receiving the Eucharist. But the contrite should not go to Communion before going to confession. Therefore they have not yet received the forgiveness of their sins.
+## Answer
+On the contrary, a gloss on Ps. 50:19, "A sacrifice to God is an afflicted spirit," says: "A hearty contrition is the sacrifice by which sins are loosed."
+I answer that, Contrition can be considered in two ways, either as part of a sacrament, or as an act of virtue, and in either case it is the cause of the forgiveness of sin, but not in the same way. Because, as part of a sacrament, it operates primarily as an instrument for the forgiveness of sin, as is evident with regard to the other sacraments (cf. Sent. iv, D, 1, Q[1], A[4]: [4831]TP, Q[62], A[1]); while, as an act of virtue, it is the quasi-material cause of sin's forgiveness. For a disposition is, as it were, a necessary condition for justification, and a disposition is reduced to a material cause, if it be taken to denote that which disposes matter to receive something. It is otherwise in the case of an agent's disposition to act, because this is reduced to the genus of efficient cause.
+## Replies
+Reply to Objection 1: God alone is the principal efficient cause of the forgiveness of sin: but the dispositive cause can be from us also, and likewise the sacramental cause, since the sacramental forms are words uttered by us, having an instrumental power of conferring grace whereby sins are forgiven.
+Reply to Objection 2: The forgiveness of sin precedes virtue and the infusion of grace, in one way, and, in another, follows: and in so far as it follows, the act elicited by the virtue can be a cause of the forgiveness of sin.
+Reply to Objection 3: The dispensation of the Eucharist belongs to the ministers of the Church: wherefore a man should not go to Communion until his sin has been forgiven through the ministers of the Church, although his sin may be forgiven him before God.

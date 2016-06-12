@@ -1,0 +1,16 @@
+# Whether It Is Lawful To Adjure A Man?
+## Objections
+Objection 1: It would seem that it is not lawful to adjure a man. Origen says (Tract. xxxv super Matth.): "I deem that a man who wishes to live according to the Gospel should not adjure another man. For if, according to the Gospel mandate of Christ, it be unlawful to swear, it is evident that neither is it lawful to adjure: and consequently it is manifest that the high-priest unlawfully adjured Jesus by the living God."
+Objection 2: Further, whoever adjures a man, compels him after a fashion. But it is unlawful to compel a man against his will. Therefore seemingly it is also unlawful to adjure a man.
+Objection 3: Further, to adjure is to induce a person to swear. Now it belongs to man's superior to induce him to swear, for the superior imposes an oath on his subject. Therefore subjects cannot adjure their superiors.
+## Answer
+On the contrary, Even when we pray God we implore Him by certain holy things: and the Apostle too besought the faithful "by the mercy of God" (Rom. 12:1): and this seems to be a kind of adjuration. Therefore it is lawful to adjure.
+I answer that, A man who utters a promissory oath, swearing by his reverence for the Divine name, which he invokes in confirmation of his promise, binds himself to do what he has undertaken, and so orders himself unchangeably to do a certain thing. Now just as a man can order himself to do a certain thing, so too can he order others, by beseeching his superiors, or by commanding his inferiors, as stated above ([3089]Q[83], A[1]). Accordingly when either of these orderings is confirmed by something Divine it is an adjuration. Yet there is this difference between them, that man is master of his own actions but not of those of others; wherefore he can put himself under an obligation by invoking the Divine name, whereas he cannot put others under such an obligation unless they be his subjects, whom he can compel on the strength of the oath they have taken.
+
+Therefore, if a man by invoking the name of God, or any holy thing, intends by this adjuration to put one who is not his subject under an obligation to do a certain thing, in the same way as he would bind himself by oath, such an adjuration is unlawful, because he usurps over another a power which he has not. But superiors may bind their inferiors by this kind of adjuration, if there be need for it.
+
+If, however, he merely intend, through reverence of the Divine name or of some holy thing, to obtain something from the other man without putting him under any obligation, such an adjuration may be lawfully employed in respect of anyone.
+## Replies
+Reply to Objection 1: Origen is speaking of an adjuration whereby a man intends to put another under an obligation, in the same way as he would bind himself by oath: for thus did the high-priest presume to adjure our Lord Jesus Christ [*Mat. 26:63].
+Reply to Objection 2: This argument considers the adjuration which imposes an obligation.
+Reply to Objection 3: To adjure is not to induce a man to swear, but to employ terms resembling an oath in order to provoke another to do a certain thing.

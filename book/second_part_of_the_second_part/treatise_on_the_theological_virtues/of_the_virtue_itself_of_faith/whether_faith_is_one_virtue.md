@@ -1,0 +1,14 @@
+# Whether Faith Is One Virtue?
+## Objections
+Objection 1: It would seem that faith is not one. For just as faith is a gift of God according to Eph. 2:8, so also wisdom and knowledge are numbered among God's gifts according to Is. 11:2. Now wisdom and knowledge differ in this, that wisdom is about eternal things, and knowledge about temporal things, as Augustine states (De Trin. xii, 14,15). Since, then, faith is about eternal things, and also about some temporal things, it seems that faith is not one virtue, but divided into several parts.
+Objection 2: Further, confession is an act of faith, as stated above ([2320]Q[3], A[1]). Now confession of faith is not one and the same for all: since what we confess as past, the fathers of old confessed as yet to come, as appears from Is. 7:14: "Behold a virgin shall conceive." Therefore faith is not one.
+Objection 3: Further, faith is common to all believers in Christ. But one accident cannot be in many subjects. Therefore all cannot have one faith.
+## Answer
+On the contrary, The Apostle says (Eph. 4:5): "One Lord, one faith."
+I answer that, If we take faith as a habit, we can consider it in two ways. First on the part of the object, and thus there is one faith. Because the formal object of faith is the First Truth, by adhering to which we believe whatever is contained in the faith. Secondly, on the part of the subject, and thus faith is differentiated according as it is in various subjects. Now it is evident that faith, just as any other habit, takes its species from the formal aspect of its object, but is individualized by its subject. Hence if we take faith for the habit whereby we believe, it is one specifically, but differs numerically according to its various subjects.
+
+If, on the other hand, we take faith for that which is believed, then, again, there is one faith, since what is believed by all is one same thing: for though the things believed, which all agree in believing, be diverse from one another, yet they are all reduced to one.
+## Replies
+Reply to Objection 1: Temporal matters which are proposed to be believed, do not belong to the object of faith, except in relation to something eternal, viz. the First Truth, as stated above ([2321]Q[1], A[1]). Hence there is one faith of things both temporal and eternal. It is different with wisdom and knowledge, which consider temporal and eternal matters under their respective aspects.
+Reply to Objection 2: This difference of past and future arises, not from any difference in the thing believed, but from the different relationships of believers to the one thing believed, as also we have mentioned above ([2322]FS, Q[103], A[4]; [2323]FS, Q[107], A[1], ad 1).
+Reply to Objection 3: This objection considers numerical diversity of faith.

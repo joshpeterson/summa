@@ -1,0 +1,12 @@
+# Whether Sanctifying Grace Is Conferred In The Sacrament Of Order?
+## Objections
+Objection 1: It would seem that sanctifying grace is not conferred in the sacrament of Order. For it is commonly agreed that the sacrament of Order is directed to counteract the defect of ignorance. Now not sanctifying grace but gratuitous grace is given to counteract ignorance, for sanctifying grace has more to do with the will. Therefore sanctifying grace is not given in the sacrament of Order.
+Objection 2: Further, Order implies distinction. Now the members of the Church are distinguished, not by sanctifying but by gratuitous grace, of which it is said (1 Cor. 12:4): "There are diversities of graces." Therefore sanctifying grace is not given in order.
+Objection 3: Further, no cause presupposes its effect. But grace is presupposed in one who receives orders, so that he may be worthy to receive them. Therefore this same grace is not given in the conferring of Orders.
+## Answer
+On the contrary, The sacraments of the New Law cause what they signify. Now Order by its sevenfold number signifies the seven gifts of the Holy Ghost, as stated in the text (Sent. iv, D, 24). Therefore the gifts of the Holy Ghost, which are not apart from sanctifying grace, are given in Orders.
+
+## Replies
+Reply to Objection 1: Order is given as a remedy, not to one person but to the whole Church. Hence, although it is said to be given in order to counteract ignorance, it does not mean that by receiving Orders a man has his ignorance driven out of him, but that the recipient of Orders is set in authority to expel ignorance from among the people.
+Reply to Objection 2: Although the gifts of sanctifying grace are common to all the members of the Church, nevertheless a man cannot be the worthy recipient of those gifts, in respect of which the members of the Church are distinguished from one another, unless he have charity, and this cannot be apart from sanctifying grace.
+Reply to Objection 3: The worthy exercise of Orders requires not any kind of goodness but excellent goodness, in order that as they who receive orders are set above the people in the degree of Order, so may they be above them by the merit of holiness. Hence they are required to have the grace that suffices to make them worthy members of Christ's people, but when they receive Orders they are given a yet greater gift of grace, whereby they are rendered apt for greater things.

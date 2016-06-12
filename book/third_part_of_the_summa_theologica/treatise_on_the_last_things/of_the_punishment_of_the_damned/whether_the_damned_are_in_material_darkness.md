@@ -1,0 +1,14 @@
+# Whether The Damned Are In Material Darkness?
+## Objections
+Objection 1: It would seem that the damned are not in material darkness. For commenting on Job 10:22, "But everlasting horror dwelleth," Gregory says (Moral. ix): "Although that fire will give no light for comfort, yet, that it may torment the more it does give light for a purpose, for by the light of its flame the wicked will see their followers whom they have drawn thither from the world." Therefore the darkness there is not material.
+Objection 2: Further, the damned see their own punishment, for this increases their punishment. But nothing is seen without light. Therefore there is no material darkness there.
+Objection 3: Further, there the damned will have the power of sight after being reunited to their bodies. But this power would be useless to them unless they see something. Therefore, since nothing is seen unless it be in the light, it would seem that they are not in absolute darkness.
+## Answer
+On the contrary, It is written (Mat. 22:13): "Bind his hands and his feet, and cast him into the exterior darkness." Commenting on these words Gregory says (Moral. ix): If this fire gave any light, "he would by no means be described as cast into exterior darkness."
+I answer that, The disposition of hell will be such as to be adapted to the utmost unhappiness of the damned. Wherefore accordingly both light and darkness are there, in so far as they are most conducive to the unhappiness of the damned. Now seeing is in itself pleasant for, as stated in Metaph. i, "the sense of sight is most esteemed, because thereby many things are known."
+
+Yet it happens accidentally that seeing is painful, when we see things that are hurtful to us, or displeasing to our will. Consequently in hell the place must be so disposed for seeing as regards light and darkness, that nothing be seen clearly, and that only such things be dimly seen as are able to bring anguish to the heart. Wherefore, simply speaking, the place is dark. Yet by Divine disposition, there is a certain amount of light, as much as suffices for seeing those things which are capable of tormenting the soul. The natural situation of the place is enough for this, since in the centre of the earth, where hell is said to be, fire cannot be otherwise than thick and cloudy, and reeky as it were.
+
+Some hold that this darkness is caused by the massing together of the bodies of the damned, which will so fill the place of hell with their numbers, that no air will remain, so that there will be no translucid body that can be the subject of light and darkness, except the eyes of the damned, which will be darkened utterly.
+
+This suffices for the Replies to the Objections.

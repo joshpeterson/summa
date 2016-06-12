@@ -1,0 +1,14 @@
+# Whether Sins Differ Specifically In Respect Of Different Circumstances?
+## Objections
+Objection 1: It would seem that vices and sins differ in respect of different circumstances. For, as Dionysius says (Div. Nom. iv), "evil results from each single defect." Now individual defects are corruptions of individual circumstances. Therefore from the corruption of each circumstance there results a corresponding species of sin.
+Objection 2: Further, sins are human acts. But human acts sometimes take their species from circumstances, as stated above ([1714]Q[18], A[10]). Therefore sins differ specifically according as different circumstances are corrupted.
+Objection 3: Further, diverse species are assigned to gluttony, according to the words contained in the following verse:
+## Answer
+On the contrary, The Philosopher says (Ethic. iii, 7; iv, 1) that "every vice sins by doing more than one ought, and when one ought not"; and in like manner as to the other circumstances. Therefore the species of sins are not diversified in this respect.
+I answer that, As stated above [1715](A[8]), wherever there is a special motive for sinning, there is a different species of sin, because the motive for sinning is the end and object of sin. Now it happens sometimes that although different circumstances are corrupted, there is but one motive: thus the illiberal man, for the same motive, takes when he ought not, where he ought not, and more than he ought, and so on with the circumstances, since he does this through an inordinate desire of hoarding money: and in such cases the corruption of different circumstances does not diversify the species of sins, but belongs to one and the same species.
+
+Sometimes, however, the corruption of different circumstances arises from different motives: for instance that a man eat hastily, may be due to the fact that he cannot brook the delay in taking food, on account of a rapid exhaustion of the digestive humors; and that he desire too much food, may be due to a naturally strong digestion; that he desire choice meats, is due to his desire for pleasure in taking food. Hence in such matters, the corruption of different circumstances entails different species of sins.
+## Replies
+Reply to Objection 1: Evil, as such, is a privation, and so it has different species in respect of the thing which the subject is deprived, even as other privations. But sin does not take its species from the privation or aversion, as stated above [1716](A[1]), but from turning to the object of the act.
+Reply to Objection 2: A circumstance never transfers an act from one species to another, save when there is another motive.
+Reply to Objection 3: In the various species of gluttony there are various motives, as stated.

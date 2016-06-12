@@ -1,0 +1,11 @@
+# Whether This Punishment Is Voluntary?
+## Objections
+Objection 1: It would seem that this punishment is voluntary. For those who are in Purgatory are upright in heart. Now uprightness in heart is to conform one's will to God's, as Augustine says (Serm. i in Ps. 32). Therefore, since it is God's will that they be punished, they will suffer that punishment voluntarily.
+Objection 2: Further, every wise man wills that without which he cannot obtain the end he has in view. Now those who are in Purgatory know that they cannot obtain glory, unless they be punished first. Therefore they are punished willingly.
+## Answer
+On the contrary, No one asks to be freed from a punishment that he suffers willingly. Now those who are in Purgatory ask to be set free, as appears from many incidents related in the Dialogue of Gregory (iv, 40,65). Therefore they will not undergo that punishment voluntarily.
+I answer that, A thing is said to be voluntary in two ways. First, by an absolute act of the will; and thus no punishment is voluntary, because the very notion of punishment is that it be contrary to the will. Secondly, a thing is said to be voluntary by a conditional act of the will: thus cautery is voluntary for the sake of regaining health. Hence a punishment may be voluntary in two ways. First, because by being punished we obtain some good, and thus the will itself undertakes a punishment, as instanced in satisfaction, or when a man accepts a punishment gladly, and would not have it not to be, as in the case of martyrdom. Secondly, when, although we gain no good by the punishment, we cannot obtain a good without being punished, as in the case of natural death: and then the will does not undertake the punishment, and would be delivered from it; but it submits to it, and in this respect the punishment is said to be voluntary. In this latter sense the punishment of Purgatory is said to be voluntary.
+
+Some, however, say that it is not voluntary in any way, because the souls in Purgatory are so replete with suffering, that they know not that they are being cleansed by their pains, and deem themselves damned. But this is false, for did they not know that they will be set free, they would not ask for prayers, as they often do.
+
+This suffices for the Replies to the Objections.

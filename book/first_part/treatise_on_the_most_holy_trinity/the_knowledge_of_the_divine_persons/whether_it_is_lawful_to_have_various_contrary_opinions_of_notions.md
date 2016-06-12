@@ -1,0 +1,11 @@
+# Whether It Is Lawful To Have Various Contrary Opinions Of Notions?
+## Objections
+Objection 1: It would seem that it is not lawful to have various contrary opinions of the notions. For Augustine says (De Trin. i, 3): "No error is more dangerous than any as regards the Trinity": to which mystery the notions assuredly belong. But contrary opinions must be in some way erroneous. Therefore it is not right to have contrary opinions of the notions.
+Objection 2: Further, the persons are known by the notions. But no contrary opinion concerning the persons is to be tolerated. Therefore neither can there be about the notions.
+## Answer
+On the contrary, The notions are not articles of faith. Therefore different opinions of the notions are permissible.
+I answer that, Anything is of faith in two ways; directly, where any truth comes to us principally as divinely taught, as the trinity and unity of God, the Incarnation of the Son, and the like; and concerning these truths a false opinion of itself involves heresy, especially if it be held obstinately. A thing is of faith, indirectly, if the denial of it involves as a consequence something against faith; as for instance if anyone said that Samuel was not the son of Elcana, for it follows that the divine Scripture would be false. Concerning such things anyone may have a false opinion without danger of heresy, before the matter has been considered or settled as involving consequences against faith, and particularly if no obstinacy be shown; whereas when it is manifest, and especially if the Church has decided that consequences follow against faith, then the error cannot be free from heresy. For this reason many things are now considered as heretical which were formerly not so considered, as their consequences are now more manifest.
+
+So we must decide that anyone may entertain contrary opinions about the notions, if he does not mean to uphold anything at variance with faith. If, however, anyone should entertain a false opinion of the notions, knowing or thinking that consequences against the faith would follow, he would lapse into heresy.
+
+By what has been said all the objections may be solved.
