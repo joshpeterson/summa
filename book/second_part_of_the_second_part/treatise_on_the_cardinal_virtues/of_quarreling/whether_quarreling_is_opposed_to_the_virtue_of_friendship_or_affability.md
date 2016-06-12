@@ -1,12 +1,23 @@
 # Whether Quarreling Is Opposed To The Virtue Of Friendship Or Affability?
+
 ## Objections
+
 Objection 1: It seems that quarreling is not opposed to the virtue of friendship or affability. For quarreling seems to pertain to discord, just as contention does. But discord is opposed to charity, as stated above ([3236]Q[37], A[1]). Therefore quarreling is also.
+
 Objection 2: Further, it is written (Prov. 26:21): "An angry man stirreth up strife." Now anger is opposed to meekness. Therefore strife or quarreling is also.
+
 Objection 3: Further, it is written (James 4:1): "From whence are wars and quarrels [Douay: 'contentions'] among you? Are they not hence, from your concupiscences which war in your members?" Now it would seem contrary to temperance to follow one's concupiscences. Therefore it seems that quarreling is opposed not to friendship but to temperance.
+
 ## Answer
+
 On the contrary, The Philosopher opposes quarreling to friendship (Ethic. iv, 6).
+
 I answer that, Quarreling consists properly in words, when, namely, one person contradicts another's words. Now two things may be observed in this contradiction. For sometimes contradiction arises on account of the person who speaks, the contradictor refusing to consent with him from lack of that love which unites minds together, and this seems to pertain to discord, which is contrary to charity. Whereas at times contradiction arises by reason of the speaker being a person to whom someone does not fear to be disagreeable: whence arises quarreling, which is opposed to the aforesaid friendship or affability, to which it belongs to behave agreeably towards those among whom we dwell. Hence the Philosopher says (Ethic. iv, 6) that "those who are opposed to everything with the intent of being disagreeable, and care for nobody, are said to be peevish and quarrelsome."
+
 ## Replies
+
 Reply to Objection 1: Contention pertains rather to the contradiction of discord, while quarreling belongs to the contradiction which has the intention of displeasing.
+
 Reply to Objection 2: The direct opposition of virtues to vices depends, not on their causes, since one vice may arise from many causes, but on the species of their acts. And although quarreling arises at times from anger, it may arise from many other causes, hence it does not follow that it is directly opposed to meekness.
+
 Reply to Objection 3: James speaks there of concupiscence considered as a general evil whence all vices arise. Thus, a gloss on Rom. 7:7 says: "The law is good, since by forbidding concupiscence, it forbids all evil."

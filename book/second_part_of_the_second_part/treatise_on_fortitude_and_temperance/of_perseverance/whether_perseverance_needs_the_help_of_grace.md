@@ -1,12 +1,23 @@
 # Whether Perseverance Needs The Help Of Grace?
+
 ## Objections
+
 Objection 1: It seems that perseverance does not need the help of grace. For perseverance is a virtue, as stated above [3409](A[1]). Now according to Tully (De Invent. Rhet. ii) virtue acts after the manner of nature. Therefore the sole inclination of virtue suffices for perseverance. Therefore this does not need the help of grace.
+
 Objection 2: Further, the gift of Christ's grace is greater than the harm brought upon us by Adam, as appears from Rom. 5:15, seqq. Now "before sin man was so framed that he could persevere by means of what he had received," as Augustine says (De Correp. et Grat. xi). Much more therefore can man, after being repaired by the grace of Christ, persevere without the help of a further grace.
+
 Objection 3: Further, sinful deeds are sometimes more difficult than deeds of virtue: hence it is said in the person of the wicked (Wis. 5:7): "We . . . have walked through hard ways." Now some persevere in sinful deeds without the help of another. Therefore man can also persevere in deeds of virtue without the help of grace.
+
 ## Answer
+
 On the contrary, Augustine says (De Persev. i): "We hold that perseverance is a gift of God, whereby we persevere unto the end, in Christ."
+
 I answer that, As stated above (A[1], ad 2; A[2], ad 3), perseverance has a twofold signification. First, it denotes the habit of perseverance, considered as a virtue. In this way it needs the gift of habitual grace, even as the other infused virtues. Secondly, it may be taken to denote the act of perseverance enduring until death: and in this sense it needs not only habitual grace, but also the gratuitous help of God sustaining man in good until the end of life, as stated above ([3410]FS, Q[109], A[10]), when we were treating of grace. Because, since the free-will is changeable by its very nature, which changeableness is not taken away from it by the habitual grace bestowed in the present life, it is not in the power of the free-will, albeit repaired by grace, to abide unchangeably in good, though it is in its power to choose this: for it is often in our power to choose yet not to accomplish.
+
 ## Replies
+
 Reply to Objection 1: The virtue of perseverance, so far as it is concerned, inclines one to persevere: yet since it is a habit, and a habit is a thing one uses at will, it does not follow that a person who has the habit of virtue uses it unchangeably until death.
+
 Reply to Objection 2: As Augustine says (De Correp. et Grat. xi), "it was given to the first man, not to persevere, but to be able to persevere of his free-will: because then no corruption was in human nature to make perseverance difficult. Now, however, by the grace of Christ, the predestined receive not only the possibility of persevering, but perseverance itself. Wherefore the first man whom no man threatened, of his own free-will rebelling against a threatening God, forfeited so great a happiness and so great a facility of avoiding sin: whereas these, although the world rage against their constancy, have persevered in faith."
+
 Reply to Objection 3: Man is able by himself to fall into sin, but he cannot by himself arise from sin without the help of grace. Hence by falling into sin, so far as he is concerned man makes himself to be persevering in sin, unless he be delivered by God's grace. On the other hand, by doing good he does not make himself to be persevering in good, because he is able, by himself, to sin: wherefore he needs the help of grace for that end.

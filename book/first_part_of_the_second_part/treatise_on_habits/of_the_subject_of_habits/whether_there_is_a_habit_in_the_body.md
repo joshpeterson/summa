@@ -1,16 +1,27 @@
 # Whether There Is A Habit In The Body?
+
 ## Objections
+
 Objection 1: It would seem that there is not a habit in the body. For, as the Commentator says (De Anima iii), "a habit is that whereby we act when we will." But bodily actions are not subject to the will, since they are natural. Therefore there can be no habit in the body.
+
 Objection 2: Further, all bodily dispositions are easy to change. But habit is a quality, difficult to change. Therefore no bodily disposition can be a habit.
+
 Objection 3: Further, all bodily dispositions are subject to change. But change can only be in the third species of quality, which is divided against habit. Therefore there is no habit in the body.
+
 ## Answer
+
 On the contrary, The Philosopher says in the Book of Predicaments (De Categor. vi) that health of the body and incurable disease are called habits.
+
 I answer that, As we have said above ([1446]Q[49], AA[2] seqq.), habit is a disposition of a subject which is in a state of potentiality either to form or to operation. Therefore in so far as habit implies disposition to operation, no habit is principally in the body as its subject. For every operation of the body proceeds either from a natural quality of the body or from the soul moving the body. Consequently, as to those operations which proceed from its nature, the body is not disposed by a habit: because the natural forces are determined to one mode of operation; and we have already said ([1447]Q[49], A[4]) that it is when the subject is in potentiality to many things that a habitual disposition is required. As to the operations which proceed from the soul through the body, they belong principally to the soul, and secondarily to the body. Now habits are in proportion to their operations: whence "by like acts like habits are formed" (Ethic. ii, 1,2). And therefore the dispositions to such operations are principally in the soul. But they can be secondarily in the body: to wit, in so far as the body is disposed and enabled with promptitude to help in the operations of the soul.
 
 If, however, we speak of the disposition of the subject to form, thus a habitual disposition can be in the body, which is related to the soul as a subject is to its form. And in this way health and beauty and such like are called habitual dispositions. Yet they have not the nature of habit perfectly: because their causes, of their very nature, are easily changeable.
 
 On the other hand, as Simplicius reports in his Commentary on the Predicaments, Alexander denied absolutely that habits or dispositions of the first species are in the body: and held that the first species of quality belonged to the soul alone. And he held that Aristotle mentions health and sickness in the Book on the Predicaments not as though they belonged to the first species of quality, but by way of example: so that he would mean that just as health and sickness may be easy or difficult to change, so also are all the qualities of the first species, which are called habits and dispositions. But this is clearly contrary to the intention of Aristotle: both because he speaks in the same way of health and sickness as examples, as of virtue and science; and because in Phys. vii, text. 17, he expressly mentions beauty and health among habits.
+
 ## Replies
+
 Reply to Objection 1: This objection runs in the sense of habit as a disposition to operation, and of those actions of the body which are from nature: but not in the sense of those actions which proceed from the soul, and the principle of which is the will.
+
 Reply to Objection 2: Bodily dispositions are not simply difficult to change on account of the changeableness of their bodily causes. But they may be difficult to change by comparison to such a subject, because, to wit, as long as such a subject endures, they cannot be removed; or because they are difficult to change, by comparison to other dispositions. But qualities of the soul are simply difficult to change, on account of the unchangeableness of the subject. And therefore he does not say that health which is difficult to change is a habit simply: but that it is "as a habit," as we read in the Greek [*{isos hexin} (Categor. viii)]. On the other hand, the qualities of the soul are called habits simply.
+
 Reply to Objection 3: Bodily dispositions which are in the first species of quality, as some maintained, differ from qualities of the third species, in this, that the qualities of the third species consist in some "becoming" and movement, as it were, wherefore they are called passions or passible qualities. But when they have attained to perfection (specific perfection, so to speak), they have then passed into the first species of quality. But Simplicius in his Commentary disapproves of this; for in this way heating would be in the third species, and heat in the first species of quality; whereas Aristotle puts heat in the third.

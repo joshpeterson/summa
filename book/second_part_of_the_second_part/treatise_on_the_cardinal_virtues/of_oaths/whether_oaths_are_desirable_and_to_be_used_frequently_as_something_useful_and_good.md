@@ -1,12 +1,23 @@
 # Whether Oaths Are Desirable And To Be Used Frequently As Something Useful And Good?
+
 ## Objections
+
 Objection 1: It would seem that oaths are desirable and to be used frequently as something useful and good. Just as a vow is an act of religion, so is an oath. Now it is commendable and more meritorious to do a thing by vow, because a vow is an act of religion, as stated above ([3078]Q[88], A[5]). Therefore for the same reason, to do or say a thing with an oath is more commendable, and consequently oaths are desirable as being good essentially.
+
 Objection 2: Further, Jerome, commenting on Mat. 5:34, says that "he who swears either reveres or loves the person by whom he swears." Now reverence and love of God are desirable as something good essentially. Therefore swearing is also.
+
 Objection 3: Further, swearing is directed to the purpose of confirming or assuring. But it is a good thing for a man to confirm his assertion. Therefore an oath is desirable as a good thing.
+
 ## Answer
+
 On the contrary, It is written (Ecclus. 23:12): "A man that sweareth much shall be filled with iniquity": and Augustine says (De Mendacio xv) that "the Lord forbade swearing, in order that for your own part you might not be fond of it, and take pleasure in seeking occasions of swearing, as though it were a good thing."
+
 I answer that, Whatever is required merely as a remedy for an infirmity or a defect, is not reckoned among those things that are desirable for their own sake, but among those that are necessary: this is clear in the case of medicine which is required as a remedy for sickness. Now an oath is required as a remedy to a defect, namely, some man's lack of belief in another man. Wherefore an oath is not to be reckoned among those things that are desirable for their own sake, but among those that are necessary for this life; and such things are used unduly whenever they are used outside the bounds of necessity. For this reason Augustine says (De Serm. Dom. in Monte i, 17): "He who understands that swearing is not to be held as a good thing," i.e. desirable for its own sake, "restrains himself as far as he can from uttering oaths, unless there be urgent need."
+
 ## Replies
+
 Reply to Objection 1: There is no parity between a vow and an oath: because by a vow we direct something to the honor of God, so that for this very reason a vow is an act of religion. On the other hand, in an oath reverence for the name of God is taken in confirmation of a promise. Hence what is confirmed by oath does not, for this reason, become an act of religion, since moral acts take their species from the end.
+
 Reply to Objection 2: He who swears does indeed make use of his reverence or love for the person by whom he swears: he does not, however, direct his oath to the reverence or love of that person, but to something else that is necessary for the present life.
+
 Reply to Objection 3: Even as a medicine is useful for healing, and yet, the stronger it is, the greater harm it does if it be taken unduly, so too an oath is useful indeed as a means of confirmation, yet the greater the reverence it demands the more dangerous it is, unless it be employed aright; for, as it is written (Ecclus. 23:13), "if he make it void," i.e. if he deceive his brother, "his sin shall be upon him: and if he dissemble it," by swearing falsely, and with dissimulation, "he offendeth double," [because, to wit, "pretended equity is a twofold iniquity," as Augustine [*Enarr. in Ps. lxiii, 7] declares]: "and if he swear in vain," i.e. without due cause and necessity, "he shall not be justified."

@@ -1,12 +1,23 @@
 # Whether The Rite Of This Sacrament Is Appropriate?
+
 ## Objections
+
 Objection 1: It seems that the rite of this sacrament is not appropriate. For the sacrament of Baptism is of greater necessity than this, as stated above (A[2], ad 4;[4503] Q[65], AA[3],4). But certain seasons are fixed for Baptism, viz. Easter and Pentecost. Therefore some fixed time of the year should be chosen for this sacrament.
+
 Objection 2: Further, just as this sacrament requires devotion both in the giver and in the receiver, so also does the sacrament of Baptism. But in the sacrament of Baptism it is not necessary that it should be received or given fasting. Therefore it seems unfitting for the Council of Orleans to declare that "those who come to Confirmation should be fasting"; and the Council of Meaux, "that bishops should not give the Holy Ghost with imposition of the hand except they be fasting."
+
 Objection 3: Further, chrism is a sign of the fulness of the Holy Ghost, as stated above [4504](A[2]). But the fulness of the Holy Ghost was given to Christ's faithful on the day of Pentecost, as related in Acts 2:1. Therefore the chrism should be mixed and blessed on the day of Pentecost rather than on Maundy Thursday.
+
 ## Answer
+
 On the contrary, Is the use of the Church, who is governed by the Holy Ghost.
+
 I answer that, Our Lord promised His faithful (Mat. 18:20) saying: "Where there are two or three gathered together in My name, there am I in the midst of them." And therefore we must hold firmly that the Church's ordinations are directed by the wisdom of Christ. And for this reason we must look upon it as certain that the rite observed by the Church, in this and the other sacraments, is appropriate.
+
 ## Replies
+
 Reply to Objection 1: As Pope Melchiades says (Ep. ad Epis. Hispan.), "these two sacraments," viz. Baptism and Confirmation, "are so closely connected that they can nowise be separated save by death intervening, nor can one be duly celebrated without the other." Consequently the same seasons are fixed for the solemn celebration of Baptism and of this sacrament. But since this sacrament is given only by bishops, who are not always present where priests are baptizing, it was necessary, as regards the common use, to defer the sacrament of Confirmation to other seasons also.
+
 Reply to Objection 2: The sick and those in danger of death are exempt from this prohibition, as we read in the decree of the Council of Meaux. And therefore, on account of the multitude of the faithful, and on account of imminent dangers, it is allowed for this sacrament, which can be given by none but a bishop, to be given or received even by those who are not fasting: since one bishop, especially in a large diocese, would not suffice to confirm all, if he were confined to certain times. But where it can be done conveniently, it is more becoming that both giver and receiver should be fasting.
+
 Reply to Objection 3: According to the acts of the Council of Pope Martin, "it was lawful at all times to prepare the chrism." But since solemn Baptism, for which chrism has to be used, is celebrated on Easter Eve, it was rightly decreed, that chrism should be consecrated by the bishop two days beforehand, that it may be sent to the various parts of the diocese. Moreover, this day is sufficiently appropriate to the blessing of sacramental matter, since thereon was the Eucharist instituted, to which, in a certain way, all the other sacraments are ordained, as stated above ([4505]Q[65], A[3]).

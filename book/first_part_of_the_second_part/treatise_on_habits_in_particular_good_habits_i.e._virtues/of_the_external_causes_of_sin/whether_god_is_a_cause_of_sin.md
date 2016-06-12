@@ -1,14 +1,27 @@
 # Whether God Is A Cause Of Sin?
+
 ## Objections
+
 Objection 1: It would seem that God is a cause of sin. For the Apostle says of certain ones (Rom. 1:28): "God delivered them up to a reprobate sense, to do those things which are not right [Douay: 'convenient']," and a gloss comments on this by saying that "God works in men's hearts, by inclining their wills to whatever He wills, whether to good or to evil." Now sin consists in doing what is not right, and in having a will inclined to evil. Therefore God is to man a cause of sin.
+
 Objection 2: Further, it is written (Wis. 14:11): "The creatures of God are turned to an abomination; and a temptation to the souls of men." But a temptation usually denotes a provocation to sin. Since therefore creatures were made by God alone, as was established in the [1799]FP, Q[44], A[1], it seems that God is a cause of sin, by provoking man to sin.
+
 Objection 3: Further, the cause of the cause is the cause of the effect. Now God is the cause of the free-will, which itself is the cause of sin. Therefore God is the cause of sin.
+
 Objection 4: Further, every evil is opposed to good. But it is not contrary to God's goodness that He should cause the evil of punishment; since of this evil it is written (Is. 45:7) that God creates evil, and (Amos 3:6): "Shall there be evil in the city which God [Vulg.: 'the Lord'] hath not done?" Therefore it is not incompatible with God's goodness that He should cause the evil of fault.
+
 ## Answer
+
 On the contrary, It is written (Wis. 11:25): "Thou . . . hatest none of the things which Thou hast made." Now God hates sin, according to Wis. 14:9: "To God the wicked and his wickedness are hateful." Therefore God is not a cause of sin.
+
 I answer that, Man is, in two ways, a cause either of his own or of another's sin. First, directly, namely be inclining his or another's will to sin; secondly, indirectly, namely be not preventing someone from sinning. Hence (Ezech. 3:18) it is said to the watchman: "If thou say not to the wicked: 'Thou shalt surely die' [*Vulg.: "If, when I say to the wicked, 'Thou shalt surely die,' thou declare it not to him."] . . . I will require his blood at thy hand." Now God cannot be directly the cause of sin, either in Himself or in another, since every sin is a departure from the order which is to God as the end: whereas God inclines and turns all things to Himself as to their last end, as Dionysius states (Div. Nom. i): so that it is impossible that He should be either to Himself or to another the cause of departing from the order which is to Himself. Therefore He cannot be directly the cause of sin. In like manner neither can He cause sin indirectly. For it happens that God does not give some the assistance, whereby they may avoid sin, which assistance were He to give, they would not sin. But He does all this according to the order of His wisdom and justice, since He Himself is Wisdom and Justice: so that if someone sin it is not imputable to Him as though He were the cause of that sin; even as a pilot is not said to cause the wrecking of the ship, through not steering the ship, unless he cease to steer while able and bound to steer. It is therefore evident that God is nowise a cause of sin.
+
 ## Replies
+
 Reply to Objection 1: As to the words of the Apostle, the solution is clear from the text. For if God delivered some up to a reprobate sense, it follows that they already had a reprobate sense, so as to do what was not right. Accordingly He is said to deliver them up to a reprobate sense, in so far as He does not hinder them from following that reprobate sense, even as we are said to expose a person to danger if we do not protect him. The saying of Augustine (De Grat. et Lib. Arb. xxi, whence the gloss quoted is taken) to the effect that "God inclines men's wills to good and evil," is to be understood as meaning that He inclines the will directly to good; and to evil, in so far as He does not hinder it, as stated above. And yet even this is due as being deserved through a previous sin.
+
 Reply to Objection 2: When it is said the "creatures of God are turned 'to' an abomination, and a temptation to the souls of men," the preposition "to" does not denote causality but sequel [*This is made clear by the Douay Version: the Latin "factae sunt in abominationem" admits of the translation "were made to be an abomination," which might imply causality.]; for God did not make the creatures that they might be an evil to man; this was the result of man's folly, wherefore the text goes on to say, "and a snare to the feet of the unwise," who, to wit, in their folly, use creatures for a purpose other than that for which they were made.
+
 Reply to Objection 3: The effect which proceeds from the middle cause, according as it is subordinate to the first cause, is reduced to that first cause; but if it proceed from the middle cause, according as it goes outside the order of the first cause, it is not reduced to that first cause: thus if a servant do anything contrary to his master's orders, it is not ascribed to the master as though he were the cause thereof. In like manner sin, which the free-will commits against the commandment of God, is not attributed to God as being its cause.
+
 Reply to Objection 4: Punishment is opposed to the good of the person punished, who is thereby deprived of some good or other: but fault is opposed to the good of subordination to God; and so it is directly opposed to the Divine goodness; consequently there is no comparison between fault and punishment.

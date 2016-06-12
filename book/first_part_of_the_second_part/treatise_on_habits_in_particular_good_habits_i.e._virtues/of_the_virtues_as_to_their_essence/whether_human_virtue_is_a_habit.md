@@ -1,18 +1,33 @@
 # Whether Human Virtue Is A Habit?
+
 ## Objections
+
 Objection 1: It would seem that human virtue is not a habit: For virtue is "the limit of power" (De Coelo i, text. 116). But the limit of anything is reducible to the genus of that of which it is the limit; as a point is reducible to the genus of line. Therefore virtue is reducible to the genus of power, and not to the genus of habit.
+
 Objection 2: Further, Augustine says (De Lib. Arb. ii) [*Retract. ix; cf. De Lib. Arb. ii, 19] that "virtue is good use of free-will." But use of free-will is an act. Therefore virtue is not a habit, but an act.
+
 Objection 3: Further, we do not merit by our habits, but by our actions: otherwise a man would merit continually, even while asleep. But we do merit by our virtues. Therefore virtues are not habits, but acts.
+
 Objection 4: Further, Augustine says (De Moribus Eccl. xv) that "virtue is the order of love," and (QQ. lxxxiii, qu. 30) that "the ordering which is called virtue consists in enjoying what we ought to enjoy, and using what we ought to use." Now order, or ordering, denominates either an action or a relation. Therefore virtue is not a habit, but an action or a relation.
+
 Objection 5: Further, just as there are human virtues, so are there natural virtues. But natural virtues are not habits, but powers. Neither therefore are human virtues habits.
+
 ## Answer
+
 On the contrary, The Philosopher says (Categor. vi) that science and virtue are habits.
+
 I answer that, Virtue denotes a certain perfection of a power. Now a thing's perfection is considered chiefly in regard to its end. But the end of power is act. Wherefore power is said to be perfect, according as it is determinate to its act.
 
 Now there are some powers which of themselves are determinate to their acts; for instance, the active natural powers. And therefore these natural powers are in themselves called virtues. But the rational powers, which are proper to man, are not determinate to one particular action, but are inclined indifferently to many: and they are determinate to acts by means of habits, as is clear from what we have said above ([1497]Q[49], A[4] ). Therefore human virtues are habits.
+
 ## Replies
+
 Reply to Objection 1: Sometimes we give the name of a virtue to that to which the virtue is directed, namely, either to its object, or to its act: for instance, we give the name Faith, to that which we believe, or to the act of believing, as also to the habit by which we believe. When therefore we say that "virtue is the limit of power," virtue is taken for the object of virtue. For the furthest point to which a power can reach, is said to be its virtue; for instance, if a man can carry a hundredweight and not more, his virtue [*In English we should say 'strength,' which is the original signification of the Latin 'virtus': thus we speak of an engine being so many horse-power, to indicate its 'strength'] is put at a hundredweight, and not at sixty. But the objection takes virtue as being essentially the limit of power.
+
 Reply to Objection 2: Good use of free-will is said to be a virtue, in the same sense as above (ad 1); that is to say, because it is that to which virtue is directed as to its proper act. For the act of virtue is nothing else than the good use of free-will.
+
 Reply to Objection 3: We are said to merit by something in two ways. First, as by merit itself, just as we are said to run by running; and thus we merit by acts. Secondly, we are said to merit by something as by the principle whereby we merit, as we are said to run by the motive power; and thus are we said to merit by virtues and habits.
+
 Reply to Objection 4: When we say that virtue is the order or ordering of love, we refer to the end to which virtue is ordered: because in us love is set in order by virtue.
+
 Reply to Objection 5: Natural powers are of themselves determinate to one act: not so the rational powers. And so there is no comparison, as we have said.

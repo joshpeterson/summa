@@ -1,10 +1,19 @@
 # Whether Sacred Doctrine Is Nobler Than Other Sciences?
+
 ## Objections
+
 Objection 1: It seems that sacred doctrine is not nobler than other sciences; for the nobility of a science depends on the certitude it establishes. But other sciences, the principles of which cannot be doubted, seem to be more certain than sacred doctrine; for its principles---namely, articles of faith---can be doubted. Therefore other sciences seem to be nobler.
+
 Objection 2: Further, it is the sign of a lower science to depend upon a higher; as music depends on arithmetic. But sacred doctrine does in a sense depend upon philosophical sciences; for Jerome observes, in his Epistle to Magnus, that "the ancient doctors so enriched their books with the ideas and phrases of the philosophers, that thou knowest not what more to admire in them, their profane erudition or their scriptural learning." Therefore sacred doctrine is inferior to other sciences.
+
 ## Answer
+
 On the contrary, Other sciences are called the handmaidens of this one: "Wisdom sent her maids to invite to the tower" (Prov. 9:3).
+
 I answer that, Since this science is partly speculative and partly practical, it transcends all others speculative and practical. Now one speculative science is said to be nobler than another, either by reason of its greater certitude, or by reason of the higher worth of its subject-matter. In both these respects this science surpasses other speculative sciences; in point of greater certitude, because other sciences derive their certitude from the natural light of human reason, which can err; whereas this derives its certitude from the light of divine knowledge, which cannot be misled: in point of the higher worth of its subject-matter because this science treats chiefly of those things which by their sublimity transcend human reason; while other sciences consider only those things which are within reason's grasp. Of the practical sciences, that one is nobler which is ordained to a further purpose, as political science is nobler than military science; for the good of the army is directed to the good of the State. But the purpose of this science, in so far as it is practical, is eternal bliss; to which as to an ultimate end the purposes of every practical science are directed. Hence it is clear that from every standpoint, it is nobler than other sciences.
+
 ## Replies
+
 Reply to Objection 1: It may well happen that what is in itself the more certain may seem to us the less certain on account of the weakness of our intelligence, "which is dazzled by the clearest objects of nature; as the owl is dazzled by the light of the sun" (Metaph. ii, lect. i). Hence the fact that some happen to doubt about articles of faith is not due to the uncertain nature of the truths, but to the weakness of human intelligence; yet the slenderest knowledge that may be obtained of the highest things is more desirable than the most certain knowledge obtained of lesser things, as is said in de Animalibus xi.
+
 Reply to Objection 2: This science can in a sense depend upon the philosophical sciences, not as though it stood in need of them, but only in order to make its teaching clearer. For it accepts its principles not from other sciences, but immediately from God, by revelation. Therefore it does not depend upon other sciences as upon the higher, but makes use of them as of the lesser, and as handmaidens: even so the master sciences make use of the sciences that supply their materials, as political of military science. That it thus uses them is not due to its own defect or insufficiency, but to the defect of our intelligence, which is more easily led by what is known through natural reason (from which proceed the other sciences) to that which is above reason, such as are the teachings of this science.

@@ -1,14 +1,25 @@
 # Whether Christ's Cross Should Be Worshipped With The Adoration Of "Latria"?
+
 ## Objections
+
 Objection 1: It would seem that Christ's cross should not be worshiped with the adoration of "latria." For no dutiful son honors that which dishonors his father, as the scourge with which he was scourged, or the gibbet on which he was hanged; rather does he abhor it. Now Christ underwent the most shameful death on the cross; according to Wis. 2:20: "Let us condemn Him to a most shameful death." Therefore we should not venerate the cross but rather we should abhor it.
+
 Objection 2: Further, Christ's humanity is worshiped with the adoration of "latria," inasmuch as it is united to the Son of God in Person. But this cannot be said of the cross. Therefore Christ's cross should not be worshiped with the adoration of "latria."
+
 Objection 3: Further, as Christ's cross was the instrument of His passion and death, so were also many other things, for instance, the nails, the crown, the lance; yet to these we do not show the worship of "latria." It seems, therefore, that Christ's cross should not be worshiped with the adoration of "latria."
+
 ## Answer
+
 On the contrary, We show the worship of "latria" to that in which we place our hope of salvation. But we place our hope in Christ's cross, for the Church sings:
+
 I answer that, As stated above [4120](A[3]), honor or reverence is due to a rational creature only; while to an insensible creature, no honor or reverence is due save by reason of a rational nature. And this in two ways. First, inasmuch as it represents a rational nature: secondly, inasmuch as it is united to it in any way whatsoever. In the first way men are wont to venerate the king's image; in the second way, his robe. And both are venerated by men with the same veneration as they show to the king.
 
 If, therefore, we speak of the cross itself on which Christ was crucified, it is to be venerated by us in both ways---namely, in one way in so far as it represents to us the figure of Christ extended thereon; in the other way, from its contact with the limbs of Christ, and from its being saturated with His blood. Wherefore in each way it is worshiped with the same adoration as Christ, viz. the adoration of "latria." And for this reason also we speak to the cross and pray to it, as to the Crucified Himself. But if we speak of the effigy of Christ's cross in any other material whatever---for instance, in stone or wood, silver or gold---thus we venerate the cross merely as Christ's image, which we worship with the adoration of "latria," as stated above [4121](A[3]).
+
 ## Replies
+
 Reply to Objection 1: If in Christ's cross we consider the point of view and intention of those who did not believe in Him, it will appear as His shame: but if we consider its effect, which is our salvation, it will appear as endowed with Divine power, by which it triumphed over the enemy, according to Col. 2:14,15: "He hath taken the same out of the way, fastening it to the cross, and despoiling the principalities and powers, He hath exposed them confidently, in open show, triumphing over them in Himself." Wherefore the Apostle says (1 Cor. 1:18): "The Word of the cross to them indeed that perish is foolishness; but to them that are saved---that is, to us---it is the power of God."
+
 Reply to Objection 2: Although Christ's cross was not united to the Word of God in Person, yet it was united to Him in some other way, viz. by representation and contact. And for this sole reason reverence is shown to it.
+
 Reply to Objection 3: By reason of the contact of Christ's limbs we worship not only the cross, but all that belongs to Christ. Wherefore Damascene says (De Fide Orth. iv, 11): "The precious wood, as having been sanctified by the contact of His holy body and blood, should be meetly worshiped; as also His nails, His lance, and His sacred dwelling-places, such as the manger, the cave and so forth." Yet these very things do not represent Christ's image as the cross does, which is called "the Sign of the Son of Man" that "will appear in heaven," as it is written (Mat. 24:30). Wherefore the angel said to the women (Mk. 16:6): "You seek Jesus of Nazareth, Who was crucified": he said not "pierced," but "crucified." For this reason we worship the image of Christ's cross in any material, but not the image of the nails or of any such thing.

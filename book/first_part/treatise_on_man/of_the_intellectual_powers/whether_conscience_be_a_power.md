@@ -1,14 +1,25 @@
 # Whether Conscience Be A Power?
+
 ## Objections
+
 Objection 1: It would seem that conscience is a power; for Origen says [*Commentary on Rom. 2:15] that "conscience is a correcting and guiding spirit accompanying the soul, by which it is led away from evil and made to cling to good." But in the soul, spirit designates a power---either the mind itself, according to the text (Eph. 4:13), "Be ye renewed in the spirit of your mind"---or the imagination, whence imaginary vision is called spiritual, as Augustine says (Gen. ad lit. xii, 7,24). Therefore conscience is a power.
+
 Objection 2: Further, nothing is a subject of sin, except a power of the soul. But conscience is a subject of sin; for it is said of some that "their mind and conscience are defiled" (Titus 1:15). Therefore it seems that conscience is a power.
+
 Objection 3: Further, conscience must of necessity be either an act, a habit, or a power. But it is not an act; for thus it would not always exist in man. Nor is it a habit; for conscience is not one thing but many, since we are directed in our actions by many habits of knowledge. Therefore conscience is a power.
+
 ## Answer
+
 On the contrary, Conscience can be laid aside. But a power cannot be laid aside. Therefore conscience is not a power.
+
 I answer that, Properly speaking, conscience is not a power, but an act. This is evident both from the very name and from those things which in the common way of speaking are attributed to conscience. For conscience, according to the very nature of the word, implies the relation of knowledge to something: for conscience may be resolved into "cum alio scientia," i.e. knowledge applied to an individual case. But the application of knowledge to something is done by some act. Wherefore from this explanation of the name it is clear that conscience is an act.
 
 The same is manifest from those things which are attributed to conscience. For conscience is said to witness, to bind, or incite, and also to accuse, torment, or rebuke. And all these follow the application of knowledge or science to what we do: which application is made in three ways. One way in so far as we recognize that we have done or not done something; "Thy conscience knoweth that thou hast often spoken evil of others" (Eccles. 7:23), and according to this, conscience is said to witness. In another way, so far as through the conscience we judge that something should be done or not done; and in this sense, conscience is said to incite or to bind. In the third way, so far as by conscience we judge that something done is well done or ill done, and in this sense conscience is said to excuse, accuse, or torment. Now, it is clear that all these things follow the actual application of knowledge to what we do. Wherefore, properly speaking, conscience denominates an act. But since habit is a principle of act, sometimes the name conscience is given to the first natural habit---namely, 'synderesis': thus Jerome calls 'synderesis' conscience (Gloss. Ezech. 1:6); Basil [*Hom. in princ. Proverb.], the "natural power of judgment," and Damascene [*De Fide Orth. iv. 22] says that it is the "law of our intellect." For it is customary for causes and effects to be called after one another.
+
 ## Replies
+
 Reply to Objection 1: Conscience is called a spirit, so far as spirit is the same as mind; because conscience is a certain pronouncement of the mind.
+
 Reply to Objection 2: The conscience is said to be defiled, not as a subject, but as the thing known is in knowledge; so far as someone knows he is defiled.
+
 Reply to Objection 3: Although an act does not always remain in itself, yet it always remains in its cause, which is power and habit. Now all the habits by which conscience is formed, although many, nevertheless have their efficacy from one first habit, the habit of first principles, which is called "synderesis." And for this special reason, this habit is sometimes called conscience, as we have said above.

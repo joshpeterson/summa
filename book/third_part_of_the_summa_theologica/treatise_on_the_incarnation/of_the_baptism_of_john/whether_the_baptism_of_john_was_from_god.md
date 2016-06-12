@@ -1,12 +1,23 @@
 # Whether The Baptism Of John Was From God?
+
 ## Objections
+
 Objection 1: It would seem that the baptism of John was not from God. For nothing sacramental that is from God is named after a mere man: thus the baptism of the New Law is not named after Peter or Paul, but after Christ. But that baptism is named after John, according to Mat. 21:25: "The baptism of John . . . was it from heaven or from men?" Therefore the baptism of John was not from God.
+
 Objection 2: Further, every doctrine that proceeds from God anew is confirmed by some signs: thus the Lord (Ex. 4) gave Moses the power of working signs; and it is written (Heb. 2:3,4) that our faith "having begun to be declared by the Lord, was confirmed unto us by them that heard Him, God also bearing them witness by signs and wonders." But it is written of John the Baptist (Jn. 10:41) that "John did no sign." Therefore it seems that the baptism wherewith he baptized was not from God.
+
 Objection 3: Further, those sacraments which are instituted by God are contained in certain precepts of Holy Scripture. But there is no precept of Holy Writ commanding the baptism of John. Therefore it seems that it was not from God.
+
 ## Answer
+
 On the contrary, It is written (Jn. 1:33): "He who sent me to baptize with water said to me: 'He upon whom thou shalt see the Spirit,'" etc.
+
 I answer that, Two things may be considered in the baptism of John---namely, the rite of baptism and the effect of baptism. The rite of baptism was not from men, but from God, who by an interior revelation of the Holy Ghost sent John to baptize. But the effect of that baptism was from man, because it effected nothing that man could not accomplish. Wherefore it was not from God alone, except in as far as God works in man.
+
 ## Replies
+
 Reply to Objection 1: By the baptism of the New Law men are baptized inwardly by the Holy Ghost, and this is accomplished by God alone. But by the baptism of John the body alone was cleansed by the water. Wherefore it is written (Mat. 3:11): "I baptize you in water; but . . . He shall baptize you in the Holy Ghost." For this reason the baptism of John was named after him, because it effected nothing that he did not accomplish. But the baptism of the New Law is not named after the minister thereof, because he does not accomplish its principal effect, which is the inward cleansing.
+
 Reply to Objection 2: The whole teaching and work of John was ordered unto Christ, who, by many miracles confirmed both His own teaching and that of John. But if John had worked signs, men would have paid equal attention to John and to Christ. Wherefore, in order that men might pay greater attention to Christ, it was not given to John to work a sign. Yet when the Jews asked him why he baptized, he confirmed his office by the authority of Scripture, saying: "I am the voice of one crying in the wilderness," etc. as related, Jn. 1:23 (cf. Is. 40:3). Moreover, the very austerity of his life was a commendation of his office, because, as Chrysostom says, commenting on Matthew (Hom. x in Matth.), "it was wonderful to witness such endurance in a human body."
+
 Reply to Objection 3: The baptism of John was intended by God to last only for a short time, for the reasons given above [4196](A[1]). Therefore it was not the subject of a general commandment set down in Sacred Writ, but of a certain interior revelation of the Holy Ghost, as stated above.

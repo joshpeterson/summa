@@ -1,12 +1,23 @@
 # Whether In The Church There Can Be Anyone Above The Bishops?
+
 ## Objections
+
 Objection 1: It would seem that there cannot be anyone in the Church higher than the bishops. For all the bishops are the successors of the apostles. Now the power so given to one of the apostles, namely Peter (Mat. 16:19), was given to all the apostles (Jn. 20:23). Therefore all bishops are equal, and one is not above another.
+
 Objection 2: Further, the rite of the Church ought to be more conformed to the Jewish rite than to that of the Gentiles. Now the distinction of the episcopal dignity and the appointment of one over another, were introduced by the Gentiles. as stated in the text (Sent. iv, D, 24); and there was no such thing in the Old Law. Therefore neither in the Church should one bishop be above another.
+
 Objection 3: Further, a higher power cannot be conferred by a lower, nor equal by equal, because "without all contradiction that which is less is blessed by the greater [Vulg.: 'better']"; hence a priest does not consecrate a bishop or a priest, but a bishop consecrates a priest. But a bishop can consecrate any bishop, since even the bishop of Ostia consecrates the Pope. Therefore the episcopal dignity is equal in all matters, and consequently one bishop should not be subject to another, as stated in the text (Sent. iv, D, 24).
+
 ## Answer
+
 On the contrary, We read in the council of Constantinople: "In accordance with the Scriptures and the statutes and definitions of the canons, we venerate the most holy bishop of ancient Rome the first and greatest of bishops, and after him the bishop of Constantinople." Therefore one bishop is above another.
+
 I answer that, Wherever there are several authorities directed to one purpose, there must needs be one universal authority over the particular authorities, because in all virtues and acts the order is according to the order of their ends (Ethic. i, 1,2). Now the common good is more Godlike than the particular good. Wherefore above the governing power which aims at a particular good there must be a universal governing power in respect of the common good, otherwise there would be no cohesion towards the one object. Hence since the whole Church is one body, it behooves, if this oneness is to be preserved, that there be a governing power in respect of the whole Church, above the episcopal power whereby each particular Church is governed, and this is the power of the Pope. Consequently those who deny this power are called schismatics as causing a division in the unity of the Church. Again, between a simple bishop and the Pope there are other degrees of rank corresponding to the degrees of union, in respect of which one congregation or community includes another; thus the community of a province includes the community of a city, and the community of a kingdom includes the community of one province, and the community of the whole world includes the community of one kingdom.
+
 ## Replies
+
 Reply to Objection 1: Although the power of binding and loosing was given to all the apostles in common, nevertheless in order to indicate some order in this power, it was given first of all to Peter alone, to show that this power must come down from him to the others. For this reason He said to him in the singular: "Confirm thy brethren" (Lk. 22:32), and: "Feed My sheep" (Jn. 21:17), i.e. according to Chrysostom: "Be thou the president and head of thy brethren in My stead, that they, putting thee in My place, may preach and confirm thee throughout the world whilst thou sittest on thy throne."
+
 Reply to Objection 2: The Jewish rite was not spread abroad in various kingdoms and provinces, but was confined to one nation; hence there was no need to distinguish various pontiffs under the one who had the chief power. But the rite of the Church, like that of the Gentiles, is spread abroad through various nations; and consequently in this respect it is necessary for the constitution of the Church to be like the rite of the Gentiles rather than that of the Jews.
+
 Reply to Objection 3: The priestly power is surpassed by the episcopal power, as by a power of a different kind; but the episcopal is surpassed by the papal power as by a power of the same kind. Hence a bishop can perform every hierarchical act that the Pope can; whereas a priest cannot perform every act that a bishop can in conferring the sacraments. Wherefore as regards matters pertaining to the episcopal Order, all bishops are equal, and for this reason any bishop can consecrate another bishop.

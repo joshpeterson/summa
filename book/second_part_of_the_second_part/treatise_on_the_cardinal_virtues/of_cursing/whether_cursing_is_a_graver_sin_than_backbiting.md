@@ -1,14 +1,25 @@
 # Whether Cursing Is A Graver Sin Than Backbiting?
+
 ## Objections
+
 Objection 1: It would seem that cursing is a graver sin than backbiting. Cursing would seem to be a kind of blasphemy, as implied in the canonical epistle of Jude (verse 9) where it is said that "when Michael the archangel, disputing with the devil, contended about the body of Moses, he durst not bring against him the judgment of blasphemy [Douay: 'railing speech']," where blasphemy stands for cursing, according to a gloss. Now blasphemy is a graver sin than backbiting. Therefore cursing is a graver sin than backbiting.
+
 Objection 2: Further, murder is more grievous than backbiting, as stated above ([2962]Q[73], A[3]). But cursing is on a par with the sin of murder; for Chrysostom says (Hom. xix, super Matth.): "When thou sayest: 'Curse him down with his house, away with everything,' you are no better than a murderer." Therefore cursing is graver than backbiting.
+
 Objection 3: Further, to cause a thing is more than to signify it. But the curser causes evil by commanding it, whereas the backbiter merely signifies an evil already existing. Therefore the curser sins more grievously than the backbiter.
+
 ## Answer
+
 On the contrary, It is impossible to do well in backbiting, whereas cursing may be either a good or an evil deed, as appears from what has been said [2963](A[1]). Therefore backbiting is graver than cursing.
+
 I answer that, As stated in the [2964]FP, Q[48], A[5], evil is twofold, evil of fault, and evil of punishment; and of the two, evil of fault is the worse ([2965]FP, Q[48], A[6]). Hence to speak evil of fault is worse than to speak evil of punishment, provided the mode of speaking be the same. Accordingly it belongs to the reviler, the tale-bearer, the backbiter and the derider to speak evil of fault, whereas it belongs to the evil-speaker, as we understand it here, to speak evil of punishment, and not evil of fault except under the aspect of punishment. But the mode of speaking is not the same, for in the case of the four vices mentioned above, evil of fault is spoken by way of assertion, whereas in the case of cursing evil of punishment is spoken, either by causing it in the form of a command, or by wishing it. Now the utterance itself of a person's fault is a sin, in as much as it inflicts an injury on one's neighbor, and it is more grievous to inflict an injury, than to wish to inflict it, other things being equal.
 
 Hence backbiting considered in its generic aspect is a graver sin than the cursing which expresses a mere desire; while the cursing which is expressed by way of command, since it has the aspect of a cause, will be more or less grievous than backbiting, according as it inflicts an injury more or less grave than the blackening of a man's good name. Moreover this must be taken as applying to these vices considered in their essential aspects: for other accidental points might be taken into consideration, which would aggravate or extenuate the aforesaid vices.
+
 ## Replies
+
 Reply to Objection 1: To curse a creature, as such, reflects on God, and thus accidentally it has the character of blasphemy; not so if one curse a creature on account of its fault: and the same applies to backbiting.
+
 Reply to Objection 2: As stated above [2966](A[3]), cursing, in one way, includes the desire for evil, where if the curser desire the evil of another's violent death, he does not differ, in desire, from a murderer, but he differs from him in so far as the external act adds something to the act of the will.
+
 Reply to Objection 3: This argument considers cursing by way of command.

@@ -1,12 +1,23 @@
 # Whether It Belongs To Observance To Pay Worship And Honor To Those Who Are In Positions Of Dignity?
+
 ## Objections
+
 Objection 1: It seems that it does not belong to observance to pay worship and honor to persons in positions of dignity. For according to Augustine (De Civ. Dei x), we are said to worship those persons whom we hold in honor, so that worship and honor would seem to be the same. Therefore it is unfitting to define observance as paying worship and honor to persons in positions of dignity.
+
 Objection 2: Further, it belongs to justice that we pay what we owe: wherefore this belongs to observance also, since it is a part of justice. Now we do not owe worship and honor to all persons in positions of dignity, but only to those who are placed over us. Therefore observance is unfittingly defined as giving worship and honor to all.
+
 Objection 3: Further, not only do we owe honor to persons of dignity who are placed over us; we owe them also fear and a certain payment of remuneration, according to Rom. 13:7, "Render . . . to all men their dues; tribute to whom tribute is due; custom to whom custom; fear to whom fear; honor to whom honor." Moreover, we owe them reverence and subjection, according to Heb. 13:17, "Obey your prelates, and be subject to them." Therefore observance is not fittingly defined as paying worship and honor.
+
 ## Answer
+
 On the contrary, Tully says (De Invent. Rhet. ii) that "it is by observance that we pay worship and honor to those who excel in some kind of dignity."
+
 I answer that, It belongs to persons in positions of dignity to govern subjects. Now to govern is to move certain ones to their due end: thus a sailor governs his ship by steering it to port. But every mover has a certain excellence and power over that which is moved. Wherefore, a person in a position of dignity is an object of twofold consideration: first, in so far as he obtains excellence of position, together with a certain power over subjects: secondly, as regards the exercise of his government. In respect of his excellence there is due to him honor, which is the recognition of some kind of excellence; and in respect of the exercise of his government, there is due to him worship, consisting in rendering him service, by obeying his commands, and by repaying him, according to one's faculty, for the benefits we received from him.
+
 ## Replies
+
 Reply to Objection 1: Worship includes not only honor, but also whatever other suitable actions are connected with the relations between man and man.
+
 Reply to Objection 2: As stated above ([3160]Q[80]), debt is twofold. One is legal debt, to pay which man is compelled by law; and thus man owes honor and worship to those persons in positions of dignity who are placed over him. The other is moral debt, which is due by reason of a certain honesty: it is in this way that we owe worship and honor to persons in positions of dignity even though we be not their subjects.
+
 Reply to Objection 3: Honor is due to the excellence of persons in positions of dignity, on account of their higher rank: while fear is due to them on account of their power to use compulsion: and to the exercise of their government there is due both obedience, whereby subjects are moved at the command of their superiors, and tributes, which are a repayment of their labor.

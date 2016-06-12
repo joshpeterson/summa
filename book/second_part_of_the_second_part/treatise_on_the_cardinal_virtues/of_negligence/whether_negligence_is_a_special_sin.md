@@ -1,12 +1,23 @@
 # Whether Negligence Is A Special Sin?
+
 ## Objections
+
 Objection 1: It would seem that negligence is not a special sin. For negligence is opposed to diligence. But diligence is required in every virtue. Therefore negligence is not a special sin.
+
 Objection 2: Further, that which is common to every sin is not a special sin. Now negligence is common to every sin, because he who sins neglects that which withdraws him from sin, and he who perseveres in sin neglects to be contrite for his sin. Therefore negligence is not a special sin.
+
 Objection 3: Further, every special sin had a determinate matter. But negligence seems to have no determinate matter: since it is neither about evil or indifferent things (for no man is accused of negligence if he omit them), nor about good things, for if these be done negligently, they are no longer good. Therefore it seems that negligence is not a special vice.
+
 ## Answer
+
 On the contrary, Sins committed through negligence, are distinguished from those which are committed through contempt.
+
 I answer that, Negligence denotes lack of due solicitude. Now every lack of a due act is sinful: wherefore it is evident that negligence is a sin, and that it must needs have the character of a special sin according as solicitude is the act of a special virtue. For certain sins are special through being about a special matter, as lust is about sexual matters, while some vices are special on account of their having a special kind of act which extends to all kinds of matter, and such are all vices affecting an act of reason, since every act of reason extends to any kind of moral matter. Since then solicitude is a special act of reason, as stated above ([2818]Q[47], A[9]), it follows that negligence, which denotes lack of solicitude, is a special sin.
+
 ## Replies
+
 Reply to Objection 1: Diligence seems to be the same as solicitude, because the more we love [diligimus] a thing the more solicitous are we about it. Hence diligence, no less than solicitude, is required for every virtue, in so far as due acts of reason are requisite for every virtue.
+
 Reply to Objection 2: In every sin there must needs be a defect affecting an act of reason, for instance a defect in counsel or the like. Hence just as precipitation is a special sin on account of a special act of reason which is omitted, namely counsel, although it may be found in any kind of sin; so negligence is a special sin on account of the lack of a special act of reason, namely solicitude, although it is found more or less in all sins.
+
 Reply to Objection 3: Properly speaking the matter of negligence is a good that one ought to do, not that it is a good when it is done negligently, but because on account of negligence it incurs a lack of goodness, whether a due act be entirely omitted through lack of solicitude, or some due circumstance be omitted.

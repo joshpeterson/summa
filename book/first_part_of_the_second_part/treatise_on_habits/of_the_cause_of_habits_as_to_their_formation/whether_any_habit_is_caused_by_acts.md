@@ -1,12 +1,23 @@
 # Whether Any Habit Is Caused By Acts?
+
 ## Objections
+
 Objection 1: It would seem that no habit is caused by acts. For habit is a quality, as we have said above ([1466]Q[49], A[1]). Now every quality is caused in a subject, according to the latter's receptivity. Since then the agent, inasmuch as it acts, does not receive but rather gives: it seems impossible for a habit to be caused in an agent by its own acts.
+
 Objection 2: Further, the thing wherein a quality is caused is moved to that quality, as may be clearly seen in that which is heated or cooled: whereas that which produces the act that causes the quality, moves, as may be seen in that which heats or cools. If therefore habits were caused in anything by its own act, it would follow that the same would be mover and moved, active and passive: which is impossible, as stated in Physics iii, 8.
+
 Objection 3: Further, the effect cannot be more noble than its cause. But habit is more noble than the act which precedes the habit; as is clear from the fact that the latter produces more noble acts. Therefore habit cannot be caused by an act which precedes the habit.
+
 ## Answer
+
 On the contrary, The Philosopher (Ethic. ii, 1,2) teaches that habits of virtue and vice are caused by acts.
+
 I answer that, In the agent there is sometimes only the active principle of its act: for instance in fire there is only the active principle of heating. And in such an agent a habit cannot be caused by its own act: for which reason natural things cannot become accustomed or unaccustomed, as is stated in Ethic. ii, 1. But a certain agent is to be found, in which there is both the active and the passive principle of its act, as we see in human acts. For the acts of the appetitive power proceed from that same power according as it is moved by the apprehensive power presenting the object: and further, the intellective power, according as it reasons about conclusions, has, as it were, an active principle in a self-evident proposition. Wherefore by such acts habits can be caused in their agents; not indeed with regard to the first active principle, but with regard to that principle of the act, which principle is a mover moved. For everything that is passive and moved by another, is disposed by the action of the agent; wherefore if the acts be multiplied a certain quality is formed in the power which is passive and moved, which quality is called a habit: just as the habits of moral virtue are caused in the appetitive powers, according as they are moved by the reason, and as the habits of science are caused in the intellect, according as it is moved by first propositions.
+
 ## Replies
+
 Reply to Objection 1: The agent, as agent, does not receive anything. But in so far as it moves through being moved by another, it receives something from that which moves it: and thus is a habit caused.
+
 Reply to Objection 2: The same thing, and in the same respect, cannot be mover and moved; but nothing prevents a thing from being moved by itself as to different respects, as is proved in Physics viii, text. 28,29.
+
 Reply to Objection 3: The act which precedes the habit, in so far as it comes from an active principle, proceeds from a more excellent principle than is the habit caused thereby: just as the reason is a more excellent principle than the habit of moral virtue produced in the appetitive power by repeated acts, and as the understanding of first principles is a more excellent principle than the science of conclusions.

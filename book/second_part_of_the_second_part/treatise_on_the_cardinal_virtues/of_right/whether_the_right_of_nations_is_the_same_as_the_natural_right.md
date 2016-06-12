@@ -1,13 +1,23 @@
 # Whether The Right Of Nations Is The Same As The Natural Right?
+
 ## Objections
+
 Objection 1: It would seem that the right of nations is the same as the natural right. For all men do not agree save in that which is natural to them. Now all men agree in the right of nations; since the jurist [*Ulpian: Digest. i, 1; De Just. et Jure i] "the right of nations is that which is in use among all nations." Therefore the right of nations is the natural right.
+
 Objection 2: Further, slavery among men is natural, for some are naturally slaves according to the Philosopher (Polit. i, 2). Now "slavery belongs to the right of nations," as Isidore states (Etym. v, 4). Therefore the right of nations is a natural right.
+
 Objection 3: Further, right as stated above [2837](A[2]) is divided into natural and positive. Now the right of nations is not a positive right, since all nations never agreed to decree anything by common agreement. Therefore the right of nations is a natural right.
+
 ## Answer
+
 On the contrary, Isidore says (Etym. v, 4) that "right is either natural, or civil, or right of nations," and consequently the right of nations is distinct from natural right.
+
 I answer that, As stated above [2838](A[2]), the natural right or just is that which by its very nature is adjusted to or commensurate with another person. Now this may happen in two ways; first, according as it is considered absolutely: thus a male by its very nature is commensurate with the female to beget offspring by her, and a parent is commensurate with the offspring to nourish it. Secondly a thing is naturally commensurate with another person, not according as it is considered absolutely, but according to something resultant from it, for instance the possession of property. For if a particular piece of land be considered absolutely, it contains no reason why it should belong to one man more than to another, but if it be considered in respect of its adaptability to cultivation, and the unmolested use of the land, it has a certain commensuration to be the property of one and not of another man, as the Philosopher shows (Polit. ii, 2).
 
 Now it belongs not only to man but also to other animals to apprehend a thing absolutely: wherefore the right which we call natural, is common to us and other animals according to the first kind of commensuration. But the right of nations falls short of natural right in this sense, as the jurist [*Digest. i, 1; De Just. et Jure i] says because "the latter is common to all animals, while the former is common to men only." On the other hand to consider a thing by comparing it with what results from it, is proper to reason, wherefore this same is natural to man in respect of natural reason which dictates it. Hence the jurist Gaius says (Digest. i, 1; De Just. et Jure i, 9): "whatever natural reason decrees among all men, is observed by all equally, and is called the right of nations." This suffices for the Reply to the First Objection.
+
 ## Replies
+
 Reply to Objection 2: Considered absolutely, the fact that this particular man should be a slave rather than another man, is based, not on natural reason, but on some resultant utility, in that it is useful to this man to be ruled by a wiser man, and to the latter to be helped by the former, as the Philosopher states (Polit. i, 2). Wherefore slavery which belongs to the right of nations is natural in the second way, but not in the first.
+
 Reply to Objection 3: Since natural reason dictates matters which are according to the right of nations, as implying a proximate equality, it follows that they need no special institution, for they are instituted by natural reason itself, as stated by the authority quoted above

@@ -1,14 +1,25 @@
 # Whether Presumption Is Opposed To Magnanimity By Excess?
+
 ## Objections
+
 Objection 1: It seems that presumption is not opposed to magnanimity by excess. For presumption is accounted a species of the sin against the Holy Ghost, as stated above ([3358]Q[14], A[2];[3359] Q[21], A[1]). But the sin against the Holy Ghost is not opposed to magnanimity, but to charity. Neither therefore is presumption opposed to magnanimity.
+
 Objection 2: Further, it belongs to magnanimity that one should deem oneself worthy of great things. But a man is said to be presumptuous even if he deem himself worthy of small things, if they surpass his ability. Therefore presumption is not directly opposed to magnanimity.
+
 Objection 3: Further, the magnanimous man looks upon external goods as little things. Now according to the Philosopher (Ethic. iv, 3), "on account of external fortune the presumptuous disdain and wrong others, because they deem external goods as something great." Therefore presumption is opposed to magnanimity, not by excess, but only by deficiency.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. ii, 7; iv, 3) that the "vain man," i.e. a vaporer or a wind-bag, which with us denotes a presumptuous man, "is opposed to the magnanimous man by excess."
+
 I answer that, As stated above ([3360]Q[129], A[3], ad 1), magnanimity observes the means, not as regards the quantity of that to which it tends, but in proportion to our own ability: for it does not tend to anything greater than is becoming to us.
 
 Now the presumptuous man, as regards that to which he tends, does not exceed the magnanimous, but sometimes falls far short of him: but he does exceed in proportion to his own ability, whereas the magnanimous man does not exceed his. It is in this way that presumption is opposed to magnanimity by excess.
+
 ## Replies
+
 Reply to Objection 1: It is not every presumption that is accounted a sin against the Holy Ghost, but that by which one contemns the Divine justice through inordinate confidence in the Divine mercy. The latter kind of presumption, by reason of its matter, inasmuch, to wit, as it implies contempt of something Divine, is opposed to charity, or rather to the gift of fear, whereby we revere God. Nevertheless, in so far as this contempt exceeds the proportion to one's own ability, it can be opposed to magnanimity.
+
 Reply to Objection 2: Presumption, like magnanimity, seems to tend to something great. For we are not, as a rule, wont to call a man presumptuous for going beyond his powers in something small. If, however, such a man be called presumptuous, this kind of presumption is not opposed to magnanimity, but to that virtue which is about ordinary honor, as stated above ([3361]Q[129], A[2]).
+
 Reply to Objection 3: No one attempts what is above his ability, except in so far as he deems his ability greater than it is. In this one may err in two ways. First only as regards quantity, as when a man thinks he has greater virtue, or knowledge, or the like, than he has. Secondly, as regards the kind of thing, as when he thinks himself great, and worthy of great things, by reason of something that does not make him so, for instance by reason of riches or goods of fortune. For, as the Philosopher says (Ethic. iv, 3), "those who have these things without virtue, neither justly deem themselves worthy of great things, nor are rightly called magnanimous."

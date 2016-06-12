@@ -1,11 +1,19 @@
 # Whether The Angels Will Do Anything Towards The Resurrection?
+
 ## Objections
+
 Objection 1: It would seem that the angels will do nothing at all towards the resurrection. For raising the dead shows a greater power than does begetting men. Now when men are begotten, the soul is not infused into the body by means of the angels. Therefore neither will the resurrection, which is reunion of soul and body, be wrought by the ministry of the angels.
+
 Objection 2: Further, if this is to be ascribed to the instrumentality of any angels at all, it would seem especially referable to the virtues, to whom it belongs to work miracles. Yet it is referred, not to them, but to the archangels, according to the text (Sent. iv, D, 43). Therefore the resurrection will not be wrought by the ministry of the angels.
+
 ## Answer
+
 On the contrary, It is stated (1 Thess. 4:15) that "the Lord . . . shall come down from heaven . . . with the voice of an archangel . . . and the dead shall rise again." Therefore the resurrection of the dead will be accomplished by the angelic ministry.
+
 I answer that, According to Augustine (De Trin. iii, 4) "just as the grosser and inferior bodies are ruled in a certain order by the more subtle and more powerful bodies, so are all bodies ruled by God by the rational spirit of life": and Gregory speaks in the same sense (Dial. iv, 6). Consequently in all God's bodily works, He employs the ministry of the angels. Now in the resurrection there is something pertaining to the transmutation of the bodies, to wit the gathering together of the mortal remains and the disposal thereof for the restoration of the human body; wherefore in this respect God will employ the ministry of the angels in the resurrection. But the soul, even as it is immediately created by God, so will it be reunited to the body immediately by God without any operation of the angels: and in like manner He Himself will glorify the body without the ministry of the angels, just as He immediately glorifies man's soul. This ministry of the angels is called their voice, according to one explanation given in the text (Sent. iv, D, 43).
 
 Hence the Reply to the First Objection is evident from what has been said.
+
 ## Replies
+
 Reply to Objection 2: This ministry will be exercised chiefly by one Archangel, namely Michael, who is the prince of the Church as he was of the Synagogue (Dan. 10:13, 21). Yet he will act under the influence of the Virtues and the other higher orders: so that what he shall do, the higher orders will, in a way, do also. In like manner the lower angels will co-operate with him as to the resurrection of each individual to whose guardianship they were appointed: so that this voice can be ascribed either to one or to many angels.

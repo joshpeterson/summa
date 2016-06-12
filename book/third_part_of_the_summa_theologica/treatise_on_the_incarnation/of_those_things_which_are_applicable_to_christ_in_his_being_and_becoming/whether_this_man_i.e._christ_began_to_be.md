@@ -1,12 +1,23 @@
 # Whether This Man, I.e. Christ, Began To Be?
+
 ## Objections
+
 Objection 1: It would seem that this Man, i.e. Christ, began to be. For Augustine says (Tract. cv in Joan.) that "before the world was, neither were we, nor the Mediator of God and men---the Man Jesus Christ." But what was not always, has begun to be. Therefore this Man, i.e. Christ, began to be.
+
 Objection 2: Further, Christ began to be Man. But to be man is to be simply. Therefore this man began to be, simply.
+
 Objection 3: Further, "man" implies a suppositum of human nature. But Christ was not always a suppositum of human nature. Therefore this Man began to be.
+
 ## Answer
+
 On the contrary, It is written (Heb. 13:8): "Jesus Christ yesterday and today: and the same for ever."
+
 I answer that, We must not say that "this Man"---pointing to Christ---"began to be," unless we add something. And this for a twofold reason. First, for this proposition is simply false, in the judgment of the Catholic Faith, which affirms that in Christ there is one suppositum and one hypostasis, as also one Person. For according to this, when we say "this Man," pointing to Christ, the eternal suppositum is necessarily meant, with Whose eternity a beginning in time is incompatible. Hence this is false: "This Man began to be." Nor does it matter that to begin to be refers to the human nature, which is signified by this word "man"; because the term placed in the subject is not taken formally so as to signify the nature, but is taken materially so as to signify the suppositum, as was said (A[1], ad 4). Secondly, because even if this proposition were true, it ought not to be made use of without qualification; in order to avoid the heresy of Arius, who, since he pretended that the Person of the Son of God is a creature, and less than the Father, so he maintained that He began to be, saying "there was a time when He was not."
+
 ## Replies
+
 Reply to Objection 1: The words quoted must be qualified, i.e. we must say that the Man Jesus Christ was not, before the world was, "in His humanity."
+
 Reply to Objection 2: With this word "begin" we cannot argue from the lower species to the higher. For it does not follow if "this began to be white," that therefore "it began to be colored." And this because "to begin" implies being now and not heretofore: for it does not follow if "this was not white hitherto" that "therefore it was not colored hitherto." Now, to be simply is higher than to be man. Hence this does not follow: "Christ began to be Man---therefore He began to be."
+
 Reply to Objection 3: This word "Man," as it is taken for Christ, although it signifies the human nature, which began to be, nevertheless signifies the eternal suppositum which did not begin to be. Hence, since it signifies the suppositum when placed in the subject, and refers to the nature when placed in the predicate, therefore this is false: "The Man Christ began to be": but this is true: "Christ began to be Man."

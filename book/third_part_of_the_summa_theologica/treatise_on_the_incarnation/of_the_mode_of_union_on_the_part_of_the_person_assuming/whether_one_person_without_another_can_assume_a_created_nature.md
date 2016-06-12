@@ -1,12 +1,23 @@
 # Whether One Person Without Another Can Assume A Created Nature?
+
 ## Objections
+
 Objection 1: It would seem that one Person cannot assume a created nature without another assuming it. For "the works of the Trinity are inseparable," as Augustine says (Enchiridion xxxviii). But as the three Persons have one essence, so likewise They have one operation. Now to assume is an operation. Therefore it cannot belong to one without belonging to another.
+
 Objection 2: Further, as we say the Person of the Son became incarnate, so also did the Nature; for "the whole Divine Nature became incarnate in one of Its hypostases," as Damascene says (De Fide Orth. iii, 6). But the Nature is common to the three Persons. Therefore the assumption is.
+
 Objection 3: Further, as the human nature in Christ is assumed by God, so likewise are men assumed by Him through grace, according to Rom. 14:3: "God hath taken him to Him." But this assumption pertains to all the Persons; therefore the first also.
+
 ## Answer
+
 On the contrary, Dionysius says (Div. Nom. ii) that the mystery of the Incarnation pertains to "discrete theology," i.e. according to which something "distinct" is said of the Divine Persons.
+
 I answer that, As was said above [3885](A[1]), assumption implies two things, viz. the act of assuming and the term of assumption. Now the act of assumption proceeds from the Divine power, which is common to the three Persons, but the term of the assumption is a Person, as stated above [3886](A[2]). Hence what has to do with action in the assumption is common to the three Persons; but what pertains to the nature of term belongs to one Person in such a manner as not to belong to another; for the three Persons caused the human nature to be united to the one Person of the Son.
+
 ## Replies
+
 Reply to Objection 1: This reason regards the operation, and the conclusion would follow if it implied this operation only, without the term, which is a Person.
+
 Reply to Objection 2: The Nature is said to be incarnate, and to assume by reason of the Person in Whom the union is terminated, as stated above ([3887]AA[1],2), and not as it is common to the three Persons. Now "the whole Divine Nature is" said to be "incarnate"; not that It is incarnate in all the Persons, but inasmuch as nothing is wanting to the perfection of the Divine Nature of the Person incarnate, as Damascene explains there.
+
 Reply to Objection 3: The assumption which takes place by the grace of adoption is terminated in a certain participation of the Divine Nature, by an assimilation to Its goodness, according to 2 Pet. 1:4: "That you may be made partakers of the Divine Nature"; and hence this assumption is common to the three Persons, in regard to the principle and the term. But the assumption which is by the grace of union is common on the part of the principle, but not on the part of the term, as was said above.

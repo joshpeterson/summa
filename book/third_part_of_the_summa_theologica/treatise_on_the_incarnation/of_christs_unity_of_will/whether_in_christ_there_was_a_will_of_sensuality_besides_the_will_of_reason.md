@@ -1,12 +1,23 @@
 # Whether In Christ There Was A Will Of Sensuality Besides The Will Of Reason?
+
 ## Objections
+
 Objection 1: It would seem that in Christ there was no will of sensuality besides the will of reason. For the Philosopher says (De Anima iii, text. 42) that "the will is in the reason, and in the sensitive appetite are the irascible and concupiscible parts." Now sensuality signifies the sensitive appetite. Hence in Christ there was no will of sensuality.
+
 Objection 2: Further, according to Augustine (De Trin. xii, 12,13) the sensuality is signified by the serpent. But there was nothing serpent-like in Christ; for He had the likeness of a venomous animal without the venom, as Augustine says (De Pecc. Merit. et Remiss. i, 32). Hence in Christ there was no will of sensuality.
+
 Objection 3: Further, will is consequent upon nature, as was said [4074](A[1]). But in Christ there was only one nature besides the Divine. Hence in Christ there was only one human will.
+
 ## Answer
+
 On the contrary, Ambrose says (De Fide ii, 7): "Mine is the will which He calls His own; because as Man He assumed my sorrow." From this we are given to understand that sorrow pertains to the human will of Christ. Now sorrow pertains to the sensuality, as was said in the [4075]FS, Q[23], A[1]; [4076]FS, Q[25], A[1]. Therefore, seemingly, in Christ there is a will of sensuality besides the will of reason.
+
 I answer that, As was said ([4077]Q[9], A[1]), the Son of God assumed human nature together with everything pertaining to the perfection of human nature. Now in human nature is included animal nature, as the genus in its species. Hence the Son of God must have assumed together with the human nature whatever belongs to animal nature; one of which things is the sensitive appetite, which is called the sensuality. Consequently it must be allowed that in Christ there was a sensual appetite, or sensuality. But it must be borne in mind that sensuality or the sensual appetite, inasmuch as it naturally obeys reason, is said to be "rational by participation," as is clear from the Philosopher (Ethic. i, 13). And because "the will is in the reason," as stated above, it may equally be said that the sensuality is "a will by participation."
+
 ## Replies
+
 Reply to Objection 1: This argument is based on the will, essentially so called, which is only in the intellectual part; but the will by participation can be in the sensitive part, inasmuch as it obeys reason.
+
 Reply to Objection 2: The sensuality is signified by the serpent---not as regards the nature of the sensuality, which Christ assumed, but as regards the corruption of the "fomes," which was not in Christ.
+
 Reply to Objection 3: "Where there is one thing on account of another, there seems to be only one" (Aristotle, Topic. iii); thus a surface which is visible by color is one visible thing with the color. So, too, because the sensuality is called the will, only because it partakes of the rational will, there is said to be but one human will in Christ, even as there is but one human nature.

@@ -1,16 +1,27 @@
 # Whether The Soul Is United To The Animal Body By Means Of A Body?
+
 ## Objections
+
 Objection 1: It seems that the soul is united to the animal body by means of a body. For Augustine says (Gen. ad lit. vii, 19), that "the soul administers the body by light," that is, by fire, "and by air, which is most akin to a spirit." But fire and air are bodies. Therefore the soul is united to the human body by means of a body.
+
 Objection 2: Further, a link between two things seems to be that thing the removal of which involves the cessation of their union. But when breathing ceases, the soul is separated from the body. Therefore the breath, which is a subtle body, is the means of union between soul and body.
+
 Objection 3: Further, things which are very distant from one another, are not united except by something between them. But the intellectual soul is very distant from the body, both because it is incorporeal, and because it is incorruptible. Therefore it seems to be united to the body by means of an incorruptible body, and such would be some heavenly light, which would harmonize the elements, and unite them together.
+
 ## Answer
+
 On the contrary, The Philosopher says (De Anima ii, 1): "We need not ask if the soul and body are one, as neither do we ask if wax and its shape are one." But the shape is united to the wax without a body intervening. Therefore also the soul is thus united to the body.
+
 I answer that, If the soul, according to the Platonists, were united to the body merely as a motor, it would be right to say that some other bodies must intervene between the soul and body of man, or any animal whatever; for a motor naturally moves what is distant from it by means of something nearer.
 
 If, however, the soul is united to the body as its form, as we have said [621](A[1]), it is impossible for it to be united by means of another body. The reason of this is that a thing is one, according as it is a being. Now the form, through itself, makes a thing to be actual since it is itself essentially an act; nor does it give existence by means of something else. Wherefore the unity of a thing composed of matter and form, is by virtue of the form itself, which by reason of its very nature is united to matter as its act. Nor is there any other cause of union except the agent, which causes matter to be in act, as the Philosopher says, Metaph. viii (Did. vii, 6).
 
 From this it is clear how false are the opinions of those who maintained the existence of some mediate bodies between the soul and body of man. Of these certain Platonists said that the intellectual soul has an incorruptible body naturally united to it, from which it is never separated, and by means of which it is united to the corruptible body of man. Others said that the soul is united to the body by means of a corporeal spirit. Others said it is united to the body by means of light, which, they say, is a body and of the nature of the fifth essence; so that the vegetative soul would be united to the body by means of the light of the sidereal heaven; the sensible soul, by means of the light of the crystal heaven; and the intellectual soul by means of the light of the empyrean heaven. Now all this is fictious and ridiculous: for light is not a body; and the fifth essence does not enter materially into the composition of a mixed body (since it is unchangeable), but only virtually: and lastly, because the soul is immediately united to the body as the form to matter.
+
 ## Replies
+
 Reply to Objection 1: Augustine speaks there of the soul as it moves the body; whence he uses the word "administration." It is true that it moves the grosser parts of the body by the more subtle parts. And the first instrument of the motive power is a kind of spirit, as the Philosopher says in De causa motus animalium (De mot. animal. x).
+
 Reply to Objection 2: The union of soul and body ceases at the cessation of breath, not because this is the means of union, but because of the removal of that disposition by which the body is disposed for such a union. Nevertheless the breath is a means of moving, as the first instrument of motion.
+
 Reply to Objection 3: The soul is indeed very distant from the body, if we consider the condition of each separately: so that if each had a separate existence, many means of connection would have to intervene. But inasmuch as the soul is the form of the body, it has not an existence apart from the existence of the body, but by its own existence is united to the body immediately. This is the case with every form which, if considered as an act, is very distant from matter, which is a being only in potentiality.

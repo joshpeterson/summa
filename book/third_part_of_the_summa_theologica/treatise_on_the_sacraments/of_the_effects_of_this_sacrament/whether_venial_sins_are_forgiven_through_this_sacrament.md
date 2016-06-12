@@ -1,13 +1,23 @@
 # Whether Venial Sins Are Forgiven Through This Sacrament?
+
 ## Objections
+
 Objection 1: It seems that venial sins are not forgiven by this sacrament, because this is the "sacrament of charity," as Augustine says (Tract. xxvi in Joan.). But venial sins are not contrary to charity, as was shown in the [4622]FS, Q[88], AA[1],2; [4623]SS, Q[24], A[10]. Therefore, since contrary is taken away by its contrary, it seems that venial sins are not forgiven by this sacrament.
+
 Objection 2: Further, if venial sins be forgiven by this sacrament, then all of them are forgiven for the same reason as one is. But it does not appear that all are forgiven, because thus one might frequently be without any venial sin, against what is said in 1 Jn. 1:8: "If we say that we have no sin, we deceive ourselves." Therefore no venial sin is forgiven by this sacrament.
+
 Objection 3: Further, contraries mutually exclude each other. But venial sins do not forbid the receiving of this sacrament: because Augustine says on the words, "If any man eat of it he shall [Vulg.: 'may'] not die for ever" (Jn. 6:50): "Bring innocence to the altar: your sins, though they be daily . . . let them not be deadly." Therefore neither are venial sins taken away by this sacrament.
+
 ## Answer
+
 On the contrary, Innocent III says (De S. Alt. Myst. iv) that this sacrament "blots out venial sins, and wards off mortal sins."
+
 I answer that, Two things may be considered in this sacrament, to wit, the sacrament itself, and the reality of the sacrament: and it appears from both that this sacrament has the power of forgiving venial sins. For this sacrament is received under the form of nourishing food. Now nourishment from food is requisite for the body to make good the daily waste caused by the action of natural heat. But something is also lost daily of our spirituality from the heat of concupiscence through venial sins, which lessen the fervor of charity, as was shown in the [4624]SS, Q[24], A[10]. And therefore it belongs to this sacrament to forgive venial sins. Hence Ambrose says (De Sacram. v) that this daily bread is taken "as a remedy against daily infirmity."
 
 The reality of this sacrament is charity, not only as to its habit, but also as to its act, which is kindled in this sacrament; and by this means venial sins are forgiven. Consequently, it is manifest that venial sins are forgiven by the power of this sacrament.
+
 ## Replies
+
 Reply to Objection 1: Venial sins, although not opposed to the habit of charity, are nevertheless opposed to the fervor of its act, which act is kindled by this sacrament; by reason of which act venial sins are blotted out.
+
 Reply to Objection 3: The power of charity, to which this sacrament belongs, is greater than that of venial sins: because charity by its act takes away venial sins, which nevertheless cannot entirely hinder the act of charity. And the same holds good of this sacrament.

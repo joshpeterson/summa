@@ -1,10 +1,17 @@
 # Whether There Is Only Intellectual Knowledge In The Angels?
+
 ## Objections
+
 Objection 1: It would seem that the knowledge of the angels is not exclusively intellectual. For Augustine says (De Civ. Dei viii) that in the angels there is "life which understands and feels." Therefore there is a sensitive faculty in them as well.
+
 Objection 2: Further, Isidore says (De Summo Bono) that the angels have learnt many things by experience. But experience comes of many remembrances, as stated in Metaph. i, 1. Consequently they have likewise a power of memory.
+
 Objection 3: Further, Dionysius says (Div. Nom. iv) that there is a sort of "perverted phantasy" in the demons. But phantasy belongs to the imaginative faculty. Therefore the power of the imagination is in the demons; and for the same reason it is in the angels, since they are of the same nature.
+
 ## Answer
+
 On the contrary, Gregory says (Hom. 29 in Ev.), that "man senses in common with the brutes, and understands with the angels."
+
 I answer that, In our soul there are certain powers whose operations are exercised by corporeal organs; such powers are acts of sundry parts of the body, as sight of the eye, and hearing of the ear. There are some other powers of the soul whose operations are not performed through bodily organs, as intellect and will: these are not acts of any parts of the body. Now the angels have no bodies naturally joined to them, as is manifest from what has been said already ([492]Q[51], A[1]). Hence of the soul's powers only intellect and will can belong to them.
 
 The Commentator (Metaph. xii) says the same thing, namely, that the separated substances are divided into intellect and will. And it is in keeping with the order of the universe for the highest intellectual creature to be entirely intelligent; and not in part, as is our soul. For this reason the angels are called "intellects" and "minds," as was said above (A[3], ad 1).

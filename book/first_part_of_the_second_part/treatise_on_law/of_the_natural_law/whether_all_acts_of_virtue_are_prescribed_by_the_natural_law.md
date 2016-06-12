@@ -1,12 +1,23 @@
 # Whether All Acts Of Virtue Are Prescribed By The Natural Law?
+
 ## Objections
+
 Objection 1: It would seem that not all acts of virtue are prescribed by the natural law. Because, as stated above ([2016]Q[90], A[2]) it is essential to a law that it be ordained to the common good. But some acts of virtue are ordained to the private good of the individual, as is evident especially in regards to acts of temperance. Therefore not all acts of virtue are the subject of natural law.
+
 Objection 2: Further, every sin is opposed to some virtuous act. If therefore all acts of virtue are prescribed by the natural law, it seems to follow that all sins are against nature: whereas this applies to certain special sins.
+
 Objection 3: Further, those things which are according to nature are common to all. But acts of virtue are not common to all: since a thing is virtuous in one, and vicious in another. Therefore not all acts of virtue are prescribed by the natural law.
+
 ## Answer
+
 On the contrary, Damascene says (De Fide Orth. iii, 4) that "virtues are natural." Therefore virtuous acts also are a subject of the natural law.
+
 I answer that, We may speak of virtuous acts in two ways: first, under the aspect of virtuous; secondly, as such and such acts considered in their proper species. If then we speak of acts of virtue, considered as virtuous, thus all virtuous acts belong to the natural law. For it has been stated [2017](A[2]) that to the natural law belongs everything to which a man is inclined according to his nature. Now each thing is inclined naturally to an operation that is suitable to it according to its form: thus fire is inclined to give heat. Wherefore, since the rational soul is the proper form of man, there is in every man a natural inclination to act according to reason: and this is to act according to virtue. Consequently, considered thus, all acts of virtue are prescribed by the natural law: since each one's reason naturally dictates to him to act virtuously. But if we speak of virtuous acts, considered in themselves, i.e. in their proper species, thus not all virtuous acts are prescribed by the natural law: for many things are done virtuously, to which nature does not incline at first; but which, through the inquiry of reason, have been found by men to be conducive to well-living.
+
 ## Replies
+
 Reply to Objection 1: Temperance is about the natural concupiscences of food, drink and sexual matters, which are indeed ordained to the natural common good, just as other matters of law are ordained to the moral common good.
+
 Reply to Objection 2: By human nature we may mean either that which is proper to man---and in this sense all sins, as being against reason, are also against nature, as Damascene states (De Fide Orth. ii, 30): or we may mean that nature which is common to man and other animals; and in this sense, certain special sins are said to be against nature; thus contrary to sexual intercourse, which is natural to all animals, is unisexual lust, which has received the special name of the unnatural crime.
+
 Reply to Objection 3: This argument considers acts in themselves. For it is owing to the various conditions of men, that certain acts are virtuous for some, as being proportionate and becoming to them, while they are vicious for others, as being out of proportion to them.

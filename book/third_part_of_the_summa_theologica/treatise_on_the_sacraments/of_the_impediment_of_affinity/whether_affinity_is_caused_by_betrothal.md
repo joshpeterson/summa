@@ -1,12 +1,23 @@
 # Whether Affinity Is Caused By Betrothal?
+
 ## Objections
+
 Objection 1: It would seem that affinity cannot be caused by betrothal. For affinity is a lasting tie: whereas a betrothal is sometimes broken off. Therefore it cannot cause affinity.
+
 Objection 2: Further if the hymen be penetrated without the deed being consummated, affinity is not contracted. Yet this is much more akin to carnal intercourse than a betrothal. Therefore betrothal does not cause affinity.
+
 Objection 3: Further, betrothal is nothing but a promise of future marriage. Now sometimes there is a promise of future marriage without affinity being contracted, for instance if it take place before the age of seven years; or if a man having a perpetual impediment of impotence promise a woman future marriage; or if a like promise be made between persons to whom marriage is rendered unlawful by a vow; or in any other way whatever. Therefore betrothal cannot cause affinity.
+
 ## Answer
+
 On the contrary, Pope Alexander (cap. Ad audiendem, De spons. et matrim.) forbade a certain woman to marry a certain man, because she had been betrothed to his brother. Now this would not be the case unless affinity were contracted by betrothal. Therefore, etc.
+
 I answer that, Just as a betrothal has not the conditions of a perfect marriage, but is a preparation for marriage, so betrothal causes not affinity as marriage does, but something like affinity. This is called "the justice of public honesty," which is an impediment to marriage even as affinity and consanguinity are, and according to the same degrees, and is defined thus: "The justice of public honesty is a relationship arising out of betrothal, and derives its force from ecclesiastical institution by reason of its honesty." This indicates the reason of its name as well as its cause, namely that this relationship was instituted by the Church on account of its honesty.
+
 ## Replies
+
 Reply to Objection 1: Betrothal, by reason not of itself but of the end to which it is directed, causes this kind of affinity known as "the justice of public honesty": wherefore just as marriage is a lasting tie, so is the aforesaid kind of affinity.
+
 Reply to Objection 2: In carnal intercourse man and woman become one flesh by the mingling of seeds. Wherefore it is not every invasion or penetration of the hymen that causes affinity to be contracted, but only such as is followed by a mingling of seeds. But marriage causes affinity not only on account of carnal intercourse, but also by reason of the conjugal fellowship, in respect of which also marriage is according to nature. Consequently affinity results from the marriage contract itself expressed in words of the present and before its consummation, and in like manner there results from betrothal, which is a promise of conjugal fellowship, something akin to affinity, namely the justice of public honesty.
+
 Reply to Objection 3: All those impediments which void a betrothal prevent affinity being contracted through a promise of marriage. Hence whether he who actually promises marriage be lacking in age, or be under a solemn vow of continence or any like impediment, no affinity nor anything akin to it results because the betrothal is void. If however, a minor, laboring under insensibility or malefice, having a perpetual impediment, is betrothed before the age of puberty and after the age of seven years, with a woman who is of age, from such a contract there results the impediment called "justice of public honesty," because at the time the impediment was not actual, since at that age the boy who is insensible is equally impotent in respect of the act in question.

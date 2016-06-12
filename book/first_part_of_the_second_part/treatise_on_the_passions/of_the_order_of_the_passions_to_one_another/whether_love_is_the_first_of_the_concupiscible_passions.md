@@ -1,14 +1,25 @@
 # Whether Love Is The First Of The Concupiscible Passions?
+
 ## Objections
+
 Objection 1: It would seem that love is not the first of the concupiscible passions. For the concupiscible faculty is so called from concupiscence, which is the same passion as desire. But "things are named from their chief characteristic" (De Anima ii, 4). Therefore desire takes precedence of love.
+
 Objection 2: Further, love implies a certain union; since it is a "uniting and binding force," as Dionysius says (Div. Nom. iv). But concupiscence or desire is a movement towards union with the thing coveted or desired. Therefore desire precedes love.
+
 Objection 3: Further, the cause precedes its effect. But pleasure is sometimes the cause of love: since some love on account of pleasure (Ethic. viii, 3,4). Therefore pleasure precedes love; and consequently love is not the first of the concupiscible passions.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei xiv, 7,9) that all the passions are caused by love: since "love yearning for the beloved object, is desire; and, having and enjoying it, is joy." Therefore love is the first of the concupiscible passions.
+
 I answer that, Good and evil are the object of the concupiscible faculty. Now good naturally precedes evil; since evil is privation of good. Wherefore all the passions, the object of which is good, are naturally before those, the object of which is evil---that is to say, each precedes its contrary passion: because the quest of a good is the reason for shunning the opposite evil.
 
 Now good has the aspect of an end, and the end is indeed first in the order of intention, but last in the order of execution. Consequently the order of the concupiscible passions can be considered either in the order of intention or in the order of execution. In the order of execution, the first place belongs to that which takes place first in the thing that tends to the end. Now it is evident that whatever tends to an end, has, in the first place, an aptitude or proportion to that end, for nothing tends to a disproportionate end; secondly, it is moved to that end; thirdly, it rests in the end, after having attained it. And this very aptitude or proportion of the appetite to good is love, which is complacency in good; while movement towards good is desire or concupiscence; and rest in good is joy or pleasure. Accordingly in this order, love precedes desire, and desire precedes pleasure. But in the order of intention, it is the reverse: because the pleasure intended causes desire and love. For pleasure is the enjoyment of the good, which enjoyment is, in a way, the end, just as the good itself is, as stated above ([1225]Q[11], A[3], ad 3).
+
 ## Replies
+
 Reply to Objection 1: We name a thing as we understand it, for "words are signs of thoughts," as the Philosopher states (Peri Herm. i, 1). Now in most cases we know a cause by its effect. But the effect of love, when the beloved object is possessed, is pleasure: when it is not possessed, it is desire or concupiscence: and, as Augustine says (De Trin. x, 12), "we are more sensible to love, when we lack that which we love." Consequently of all the concupiscible passions, concupiscence is felt most; and for this reason the power is named after it.
+
 Reply to Objection 2: The union of lover and beloved is twofold. There is real union, consisting in the conjunction of one with the other. This union belongs to joy or pleasure, which follows desire. There is also an affective union, consisting in an aptitude or proportion, in so far as one thing, from the very fact of its having an aptitude for and an inclination to another, partakes of it: and love betokens such a union. This union precedes the movement of desire.
+
 Reply to Objection 3: Pleasure causes love, in so far as it precedes love in the order of intention.

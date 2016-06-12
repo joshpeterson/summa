@@ -1,16 +1,27 @@
 # Whether We Ought To Love One Neighbor More Than Another?
+
 ## Objections
+
 Objection 1: It would seem that we ought not to love one neighbor more than another. For Augustine says (De Doctr. Christ. i, 28): "One ought to love all men equally. Since, however, one cannot do good to all, we ought to consider those chiefly who by reason of place, time or any other circumstance, by a kind of chance, are more closely united to us." Therefore one neighbor ought not to be loved more than another.
+
 Objection 2: Further, where there is one and the same reason for loving several, there should be no inequality of love. Now there is one and the same reason for loving all one's neighbors, which reason is God, as Augustine states (De Doctr. Christ. i, 27). Therefore we ought to love all our neighbors equally.
+
 Objection 3: Further, to love a man is to wish him good things, as the Philosopher states (Rhet. ii, 4). Now to all our neighbors we wish an equal good, viz. everlasting life. Therefore we ought to love all our neighbors equally.
+
 ## Answer
+
 On the contrary, One's obligation to love a person is proportionate to the gravity of the sin one commits in acting against that love. Now it is a more grievous sin to act against the love of certain neighbors, than against the love of others. Hence the commandment (Lev. 10:9), "He that curseth his father or mother, dying let him die," which does not apply to those who cursed others than the above. Therefore we ought to love some neighbors more than others.
+
 I answer that, There have been two opinions on this question: for some have said that we ought, out of charity, to love all our neighbors equally, as regards our affection, but not as regards the outward effect. They held that the order of love is to be understood as applying to outward favors, which we ought to confer on those who are connected with us in preference to those who are unconnected, and not to the inward affection, which ought to be given equally to all including our enemies.
 
 But this is unreasonable. For the affection of charity, which is the inclination of grace, is not less orderly than the natural appetite, which is the inclination of nature, for both inclinations flow from Divine wisdom. Now we observe in the physical order that the natural inclination in each thing is proportionate to the act or movement that is becoming to the nature of that thing: thus in earth the inclination of gravity is greater than in water, because it is becoming to earth to be beneath water. Consequently the inclination also of grace which is the effect of charity, must needs be proportionate to those actions which have to be performed outwardly, so that, to wit, the affection of our charity be more intense towards those to whom we ought to behave with greater kindness.
 
 We must, therefore, say that, even as regards the affection we ought to love one neighbor more than another. The reason is that, since the principle of love is God, and the person who loves, it must needs be that the affection of love increases in proportion to the nearness to one or the other of those principles. For as we stated above [2559](A[1]), wherever we find a principle, order depends on relation to that principle.
+
 ## Replies
+
 Reply to Objection 1: Love can be unequal in two ways: first on the part of the good we wish our friend. In this respect we love all men equally out of charity: because we wish them all one same generic good, namely everlasting happiness. Secondly love is said to be greater through its action being more intense: and in this way we ought not to love all equally.
+
 Reply to Objection 2: Our neighbors are not all equally related to God; some are nearer to Him, by reason of their greater goodness, and those we ought, out of charity, to love more than those who are not so near to Him.
+
 Reply to Objection 3: This argument considers the quantity of love on the part of the good which we wish our friends.

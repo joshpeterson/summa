@@ -1,22 +1,41 @@
 # Whether The Parts Of Fortitude Are Suitably Assigned?
+
 ## Objections
+
 Objection 1: It seems that the parts of fortitude are unsuitably assigned. For Tully (De Invent. Rhet. ii) assigns four parts to fortitude, namely "magnificence," "confidence," "patience," and "perseverance." Now magnificence seems to pertain to liberality; since both are concerned about money, and "a magnificent man must needs be liberal," as the Philosopher observes (Ethic. iv, 2). But liberality is a part of justice, as stated above ([3336]Q[117], A[5]). Therefore magnificence should not be reckoned a part of fortitude.
+
 Objection 2: Further, confidence is apparently the same as hope. But hope does not seem to pertain to fortitude, but is rather a virtue by itself. Therefore confidence should not be reckoned a part of fortitude.
+
 Objection 3: Further, fortitude makes a man behave aright in face of danger. But magnificence and confidence do not essentially imply any relation to danger. Therefore they are not suitably reckoned as parts of fortitude.
+
 Objection 4: Further, according to Tully (De Invent. Rhet. ii) patience denotes endurance of hardships, and he ascribes the same to fortitude. Therefore patience is the same as fortitude and not a part thereof.
+
 Objection 5: Further, that which is a requisite to every virtue should not be reckoned a part of a special virtue. But perseverance is required in every virtue: for it is written (Mat. 24:13): "He that shall persevere to the end he shall be saved." Therefore perseverance should not be accounted a part of fortitude.
+
 Objection 6: Further, Macrobius (De Somn. Scip. i) reckons seven parts of fortitude, namely "magnanimity, confidence, security, magnificence, constancy, forbearance, stability." Andronicus also reckons seven virtues annexed to fortitude, and these are, "courage, strength of will, magnanimity, manliness, perseverance, magnificence." Therefore it seems that Tully's reckoning of the parts of fortitude is incomplete.
+
 Objection 7: Further, Aristotle (Ethic. iii) reckons five parts of fortitude. The first is "civic" fortitude, which produces brave deeds through fear of dishonor or punishment; the second is "military" fortitude, which produces brave deeds as a result of warlike art or experience; the third is the fortitude which produces brave deeds resulting from passion, especially anger; the fourth is the fortitude which makes a man act bravely through being accustomed to overcome; the fifth is the fortitude which makes a man act bravely through being unaccustomed to danger. Now these kinds of fortitude are not comprised under any of the above enumerations. Therefore these enumerations of the parts of fortitude are unfitting.
+
 ## Answer
+
+
 
 I answer that, As stated above ([3337]Q[48]), a virtue can have three kinds of parts, subjective, integral, and potential. But fortitude, taken as a special virtue, cannot have subjective parts, since it is not divided into several specifically distinct virtues, for it is about a very special matter.
 
 However, there are quasi-integral and potential parts assigned to it: integral parts, with regard to those things the concurrence of which is requisite for an act of fortitude; and potential parts, because what fortitude practices in face of the greatest hardships, namely dangers of death, certain other virtues practice in the matter of certain minor hardships and these virtues are annexed to fortitude as secondary virtues to the principal virtue. As stated above ([3338]Q[123], AA[3],6), the act of fortitude is twofold, aggression and endurance. Now two things are required for the act of aggression. The first regards preparation of the mind, and consists in one's having a mind ready for aggression. In this respect Tully mentions "confidence," of which he says (De Invent. Rhet. ii) that "with this the mind is much assured and firmly hopeful in great and honorable undertakings." The second regards the accomplishment of the deed, and consists in not failing to accomplish what one has confidently begun. In this respect Tully mentions "magnificence," which he describes as being "the discussion and administration," i.e. accomplishment "of great and lofty undertakings, with a certain broad and noble purpose of mind," so as to combine execution with greatness of purpose. Accordingly if these two be confined to the proper matter of fortitude, namely to dangers of death, they will be quasi-integral parts thereof, because without them there can be no fortitude; whereas if they be referred to other matters involving less hardship, they will be virtues specifically distinct from fortitude, but annexed thereto as secondary virtues to principal: thus "magnificence" is referred by the Philosopher (Ethic. iv) to great expenses, and "magnanimity," which seems to be the same as confidence, to great honors. Again, two things are requisite for the other act of fortitude, viz. endurance. The first is that the mind be not broken by sorrow, and fall away from its greatness, by reason of the stress of threatening evil. In this respect he mentions "patience," which he describes as "the voluntary and prolonged endurance of arduous and difficult things for the sake of virtue or profit." The other is that by the prolonged suffering of hardships man be not wearied so as to lose courage, according to Heb. 12:3, "That you be not wearied, fainting in your minds." In this respect he mentions "perseverance," which accordingly he describes as "the fixed and continued persistence in a well considered purpose." If these two be confined to the proper matter of fortitude, they will be quasi-integral parts thereof; but if they be referred to any kind of hardship they will be virtues distinct from fortitude, yet annexed thereto as secondary to principal.
+
 ## Replies
+
 Reply to Objection 1: Magnificence in the matter of liberality adds a certain greatness: this is connected with the notion of difficulty which is the object of the irascible faculty, that is perfected chiefly by fortitude: and to this virtue, in this respect, it belongs.
+
 Reply to Objection 2: Hope whereby one confides in God is accounted a theological virtue, as stated above (Q[17], A[5]; [3339]FS, Q[62], A[3]). But by confidence which here is accounted a part of fortitude, man hopes in himself, yet under God withal.
+
 Reply to Objection 3: To venture on anything great seems to involve danger, since to fail in such things is very disastrous. Wherefore although magnificence and confidence are referred to the accomplishment of or venturing on any other great things, they have a certain connection with fortitude by reason of the imminent danger.
+
 Reply to Objection 4: Patience endures not only dangers of death, with which fortitude is concerned, without excessive sorrow, but also any other hardships or dangers. In this respect it is accounted a virtue annexed to fortitude: but as referred to dangers of death, it is an integral part thereof.
+
 Reply to Objection 5: Perseverance as denoting persistence in a good deed unto the end, may be a circumstance of every virtue, but it is reckoned a part of fortitude in the sense stated in the body of the Article.
+
 Reply to Objection 6: Macrobius reckons the four aforesaid mentioned by Tully, namely "confidence, magnificence, forbearance," which he puts in the place of patience, and "firmness," which he substitutes for perseverance. And he adds three, two of which, namely "magnanimity" and "security," are comprised by Tully under the head of confidence. But Macrobius is more specific in his enumeration. Because confidence denotes a man's hope for great things: and hope for anything presupposes an appetite stretching forth to great things by desire, and this belongs to magnanimity. For it has been stated above ([3340]FS, Q[40], A[2]) that hope presupposes love and desire of the thing hoped for.
+
 Reply to Objection 7: The five mentioned by Aristotle fall short of the true notion of virtue, for though they concur in the act of fortitude, they differ as to motive, as stated above ([3342]Q[123], A[1], ad 2); wherefore they are not reckoned parts but modes of fortitude.

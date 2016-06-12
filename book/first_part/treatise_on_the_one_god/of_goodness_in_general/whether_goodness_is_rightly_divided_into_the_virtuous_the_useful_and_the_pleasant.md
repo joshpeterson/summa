@@ -1,12 +1,23 @@
 # Whether Goodness Is Rightly Divided Into The Virtuous, The Useful And The Pleasant?
+
 ## Objections
+
 Objection 1: It seems that goodness is not rightly divided into the virtuous, the useful and the pleasant. For goodness is divided by the ten predicaments, as the Philosopher says (Ethic. i). But the virtuous, the useful and the pleasant can be found under one predicament. Therefore goodness is not rightly divided by them.
+
 Objection 2: Further, every division is made by opposites. But these three do not seem to be opposites; for the virtuous is pleasing, and no wickedness is useful; whereas this ought to be the case if the division were made by opposites, for then the virtuous and the useful would be opposed; and Tully speaks of this (De Offic. ii). Therefore this division is incorrect.
+
 Objection 3: Further, where one thing is on account of another, there is only one thing. But the useful is not goodness, except so far as it is pleasing and virtuous. Therefore the useful ought not to divided against the pleasant and the virtuous.
+
 ## Answer
+
 On the contrary, Ambrose makes use of this division of goodness (De Offic. i, 9)
+
 I answer that, This division properly concerns human goodness. But if we consider the nature of goodness from a higher and more universal point of view, we shall find that this division properly concerns goodness as such. For everything is good so far as it is desirable, and is a term of the movement of the appetite; the term of whose movement can be seen from a consideration of the movement of a natural body. Now the movement of a natural body is terminated by the end absolutely; and relatively by the means through which it comes to the end, where the movement ceases; so a thing is called a term of movement, so far as it terminates any part of that movement. Now the ultimate term of movement can be taken in two ways, either as the thing itself towards which it tends, e.g. a place or form; or a state of rest in that thing. Thus, in the movement of the appetite, the thing desired that terminates the movement of the appetite relatively, as a means by which something tends towards another, is called the useful; but that sought after as the last thing absolutely terminating the movement of the appetite, as a thing towards which for its own sake the appetite tends, is called the virtuous; for the virtuous is that which is desired for its own sake; but that which terminates the movement of the appetite in the form of rest in the thing desired, is called the pleasant.
+
 ## Replies
+
 Reply to Objection 1: Goodness, so far as it is identical with being, is divided by the ten predicaments. But this division belongs to it according to its proper formality.
+
 Reply to Objection 2: This division is not by opposite things; but by opposite aspects. Now those things are called pleasing which have no other formality under which they are desirable except the pleasant, being sometimes hurtful and contrary to virtue. Whereas the useful applies to such as have nothing desirable in themselves, but are desired only as helpful to something further, as the taking of bitter medicine; while the virtuous is predicated of such as are desirable in themselves.
+
 Reply to Objection 3: Goodness is not divided into these three as something univocal to be predicated equally of them all; but as something analogical to be predicated of them according to priority and posteriority. Hence it is predicated chiefly of the virtuous; then of the pleasant; and lastly of the useful.

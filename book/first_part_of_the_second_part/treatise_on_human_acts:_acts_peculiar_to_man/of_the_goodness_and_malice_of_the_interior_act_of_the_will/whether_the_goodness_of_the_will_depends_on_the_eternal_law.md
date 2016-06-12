@@ -1,12 +1,23 @@
 # Whether The Goodness Of The Will Depends On The Eternal Law?
+
 ## Objections
+
 Objection 1: It would seem that the goodness of the human will does not depend on the eternal law. Because to one thing there is one rule and one measure. But the rule of the human will, on which its goodness depends, is right reason. Therefore the goodness of the will does not depend on the eternal law.
+
 Objection 2: Further, "a measure is homogeneous with the thing measured" (Metaph. x, 1). But the eternal law is not homogeneous with the human will. Therefore the eternal law cannot be the measure on which the goodness of the human will depends.
+
 Objection 3: Further, a measure should be most certain. But the eternal law is unknown to us. Therefore it cannot be the measure on which the goodness of our will depends.
+
 ## Answer
+
 On the contrary, Augustine says (Contra Faust. xxii, 27) that "sin is a deed, word or desire against the eternal law." But malice of the will is the root of sin. Therefore, since malice is contrary to goodness, the goodness of the will depends on the eternal law.
+
 I answer that, Wherever a number of causes are subordinate to one another, the effect depends more on the first than on the second cause: since the second cause acts only in virtue of the first. Now it is from the eternal law, which is the Divine Reason, that human reason is the rule of the human will, from which the human derives its goodness. Hence it is written (Ps. 4:6,7): "Many say: Who showeth us good things? The light of Thy countenance, O Lord, is signed upon us": as though to say: "The light of our reason is able to show us good things, and guide our will, in so far as it is the light (i.e. derived from) Thy countenance." It is therefore evident that the goodness of the human will depends on the eternal law much more than on human reason: and when human reason fails we must have recourse to the Eternal Reason.
+
 ## Replies
+
 Reply to Objection 1: To one thing there are not several proximate measures; but there can be several measures if one is subordinate to the other.
+
 Reply to Objection 2: A proximate measure is homogeneous with the thing measured; a remote measure is not.
+
 Reply to Objection 3: Although the eternal law is unknown to us according as it is in the Divine Mind: nevertheless, it becomes known to us somewhat, either by natural reason which is derived therefrom as its proper image; or by some sort of additional revelation.

@@ -1,14 +1,25 @@
 # Whether In Giving Thanks We Should Look At The Benefactor's Disposition Or At The Deed?
+
 ## Objections
+
 Objection 1: It seems that in repaying favors we should not look at the benefactor's disposition but at the deed. For repayment is due to beneficence, and beneficence consists in deeds, as the word itself denotes. Therefore in repaying favors we should look at the deed.
+
 Objection 2: Further, thanksgiving, whereby we repay favors, is a part of justice. But justice considers equality between giving and taking. Therefore also in repaying favors we should consider the deed rather than the disposition of the benefactor.
+
 Objection 3: Further, no one can consider what he does not know. Now God alone knows the interior disposition. Therefore it is impossible to repay a favor according to the benefactor's disposition.
+
 ## Answer
+
 On the contrary, Seneca says (De Benef. i): "We are sometimes under a greater obligation to one who has given little with a large heart, and has bestowed a small favor, yet willingly."
+
 I answer that, The repayment of a favor may belong to three virtues, namely, justice, gratitude and friendship. It belongs to justice when the repayment has the character of a legal debt, as in a loan and the like: and in such cases repayment must be made according to the quantity received.
 
 On the other hand, repayment of a favor belongs, though in different ways, to friendship and likewise to the virtue of gratitude when it has the character of a moral debt. For in the repayment of friendship we have to consider the cause of friendship; so that in the friendship that is based on the useful, repayment should be made according to the usefulness accruing from the favor conferred, and in the friendship based on virtue repayment should be made with regard for the choice or disposition of the giver, since this is the chief requisite of virtue, as stated in Ethic. viii, 13. And likewise, since gratitude regards the favor inasmuch as it is bestowed gratis, and this regards the disposition of the giver, it follows again that repayment of a favor depends more on the disposition of the giver than on the effect.
+
 ## Replies
+
 Reply to Objection 1: Every moral act depends on the will. Hence a kindly action, in so far as it is praiseworthy and is deserving of gratitude, consists materially in the thing done, but formally and chiefly in the will. Hence Seneca says (De Benef. i): "A kindly action consists not in deed or gift, but in the disposition of the giver or doer."
+
 Reply to Objection 2: Gratitude is a part of justice, not indeed as a species is part of a genus, but by a kind of reduction to the genus of justice, as stated above ([3189]Q[80]). Hence it does not follow that we shall find the same kind of debt in both virtues.
+
 Reply to Objection 3: God alone sees man's disposition in itself: but in so far as it is shown by certain signs, man also can know it. It is thus that a benefactor's disposition is known by the way in which he does the kindly action, for instance through his doing it joyfully and readily.

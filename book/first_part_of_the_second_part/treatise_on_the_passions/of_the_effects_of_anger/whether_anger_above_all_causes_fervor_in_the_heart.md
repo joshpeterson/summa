@@ -1,12 +1,23 @@
 # Whether Anger Above All Causes Fervor In The Heart?
+
 ## Objections
+
 Objection 1: It would seem that heat is not above all the effect of anger. For fervor, as stated above ([1433]Q[28], A[5];[1434] Q[37], A[2]), belongs to love. But love, as above stated, is the beginning and cause of all the passions. Since then the cause is more powerful than its effect, it seems that anger is not the chief cause of fervor.
+
 Objection 2: Further, those things which, of themselves, arouse fervor, increase as time goes on; thus love grows stronger the longer it lasts. But in course of time anger grows weaker; for the Philosopher says (Rhet. ii, 3) that "time puts an end to anger." Therefore fervor is not the proper effect of anger.
+
 Objection 3: Further, fervor added to fervor produces greater fervor. But "the addition of a greater anger banishes already existing anger," as the Philosopher says (Rhet. ii, 3). Therefore anger does not cause fervor.
+
 ## Answer
+
 On the contrary, Damascene says (De Fide Orth. ii, 16) that "anger is fervor of the blood around the heart, resulting from an exhalation of the bile."
+
 I answer that, As stated above ([1435]Q[44], A[1]), the bodily transmutation that occurs in the passions of the soul is proportionate to the movement of the appetite. Now it is evident that every appetite, even the natural appetite, tends with greater force to repel that which is contrary to it, if it be present: hence we see that hot water freezes harder, as though the cold acted with greater force on the hot object. Since then the appetitive movement of anger is caused by some injury inflicted, as by a contrary that is present; it follows that the appetite tends with great force to repel the injury by the desire of vengeance; and hence ensues great vehemence and impetuosity in the movement of anger. And because the movement of anger is not one of recoil, which corresponds to the action of cold, but one of prosecution, which corresponds to the action of heat, the result is that the movement of anger produces fervor of the blood and vital spirits around the heart, which is the instrument of the soul's passions. And hence it is that, on account of the heart being so disturbed by anger, those chiefly who are angry betray signs thereof in their outer members. For, as Gregory says (Moral. v, 30) "the heart that is inflamed with the stings of its own anger beats quick, the body trembles, the tongue stammers, the countenance takes fire, the eyes grow fierce, they that are well known are not recognized. With the mouth indeed he shapes a sound, but the understanding knows not what it says."
+
 ## Replies
+
 Reply to Objection 1: "Love itself is not felt so keenly as in the absence of the beloved," as Augustine observes (De Trin. x, 12). Consequently when a man suffers from a hurt done to the excellence that he loves, he feels his love thereof the more: the result being that his heart is moved with greater heat to remove the hindrance to the object of his love; so that anger increases the fervor of love and makes it to be felt more.
+
 Reply to Objection 2: Time, of necessity, weakens all those things, the causes of which are impaired by time. Now it is evident that memory is weakened by time; for things which happened long ago easily slip from our memory. But anger is caused by the memory of a wrong done. Consequently the cause of anger is impaired little by little as time goes on, until at length it vanishes altogether. Moreover a wrong seems greater when it is first felt; and our estimate thereof is gradually lessened the further the sense of present wrong recedes into the past. The same applies to love, so long as the cause of love is in the memory alone; wherefore the Philosopher says (Ethic. viii, 5) that "if a friend's absence lasts long, it seems to make men forget their friendship." But in the presence of a friend, the cause of friendship is continually being multiplied by time: wherefore the friendship increases: and the same would apply to anger, were its cause continually multiplied.
+
 Reply to Objection 3: Every power that is divided in itself is weakened. Consequently if a man being already angry with one, becomes angry with another, by this very fact his anger with the former is weakened. Especially is this so if his anger in the second case be greater: because the wrong done which aroused his former anger, will, in comparison with the second wrong, which is reckoned greater, seem to be of little or no account.

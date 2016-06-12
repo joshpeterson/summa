@@ -1,12 +1,23 @@
 # Whether Fear Is A Passion Of The Soul?
+
 ## Objections
+
 Objection 1: It would seem that fear is not a passion of the soul. For Damascene says (De Fide Orth. iii, 23) that "fear is a power, by way of {systole}"---i.e. of contraction---"desirous of vindicating nature." But no virtue is a passion, as is proved in Ethic. ii, 5. Therefore fear is not a passion.
+
 Objection 2: Further, every passion is an effect due to the presence of an agent. But fear is not of something present, but of something future, as Damascene declares (De Fide Orth. ii, 12). Therefore fear is not a passion.
+
 Objection 3: Further, every passion of the soul is a movement of the sensitive appetite, in consequence of an apprehension of the senses. But sense apprehends, not the future but the present. Since, then, fear is of future evil, it seems that it is not a passion of the soul.
+
 ## Answer
+
 On the contrary, Augustine (De Civ. Dei xiv, 5, seqq.) reckons fear among the other passions of the soul.
+
 I answer that, Among the other passions of the soul, after sorrow, fear chiefly has the character of passion. For as we have stated above (Q[22] ), the notion of passion implies first of all a movement of a passive power---i.e. of a power whose object is compared to it as its active principle: since passion is the effect of an agent. In this way, both "to feel" and "to understand" are passions. Secondly, more properly speaking, passion is a movement of the appetitive power; and more properly still, it is a movement of an appetitive power that has a bodily organ, such movement being accompanied by a bodily transmutation. And, again, most properly those movements are called passions, which imply some deterioration. Now it is evident that fear, since it regards evil, belongs to the appetitive power, which of itself regards good and evil. Moreover, it belongs to the sensitive appetite: for it is accompanied by a certain transmutation---i.e. contraction---as Damascene says (Cf. OBJ 1). Again, it implies relation to evil as overcoming, so to speak, some particular good. Wherefore it has most properly the character of passion; less, however, than sorrow, which regards the present evil: because fear regards future evil, which is not so strong a motive as present evil.
+
 ## Replies
+
 Reply to Objection 1: Virtue denotes a principle of action: wherefore, in so far as the interior movements of the appetitive faculty are principles of external action, they are called virtues. But the Philosopher denies that passion is a virtue by way of habit.
+
 Reply to Objection 2: Just as the passion of a natural body is due to the bodily presence of an agent, so is the passion of the soul due to the agent being present to the soul, although neither corporally nor really present: that is to say, in so far as the evil which is really future, is present in the apprehension of the soul.
+
 Reply to Objection 3: The senses do not apprehend the future: but from apprehending the present, an animal is moved by natural instinct to hope for a future good, or to fear a future evil.

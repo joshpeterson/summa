@@ -1,12 +1,23 @@
 # Whether Any Demons Are Naturally Wicked?
+
 ## Objections
+
 Objection 1: It would seem that some demons are naturally wicked. For Porphyry says, as quoted by Augustine (De Civ. Dei x, 11): "There is a class of demons of crafty nature, pretending that they are gods and the souls of the dead." But to be deceitful is to be evil. Therefore some demons are naturally wicked.
+
 Objection 2: Further, as the angels are created by God, so are men. But some men are naturally wicked, of whom it is said (Wis. 12:10): "Their malice is natural." Therefore some angels may be naturally wicked.
+
 Objection 3: Further, some irrational animals have wicked dispositions by nature: thus the fox is naturally sly, and the wolf naturally rapacious; yet they are God's creatures. Therefore, although the demons are God's creatures, they may be naturally wicked.
+
 ## Answer
+
 On the contrary, Dionysius says (Div. Nom. iv) that "the demons are not naturally wicked."
+
 I answer that, Everything which exists, so far as it exists and has a particular nature, tends naturally towards some good; since it comes from a good principle; because the effect always reverts to its principle. Now a particular good may happen to have some evil connected with it; thus fire has this evil connected with it that it consumes other things: but with the universal good no evil can be connected. If, then, there be anything whose nature is inclined towards some particular good, it can tend naturally to some evil; not as evil, but accidentally, as connected with some good. But if anything of its nature be inclined to good in general, then of its own nature it cannot be inclined to evil. Now it is manifest that every intellectual nature is inclined towards good in general, which it can apprehend and which is the object of the will. Hence, since the demons are intellectual substances, they can in no wise have a natural inclination towards any evil whatsoever; consequently they cannot be naturally evil.
+
 ## Replies
+
 Reply to Objection 1: Augustine rebukes Porphyry for saying that the demons are naturally deceitful; himself maintaining that they are not naturally so, but of their own will. Now the reason why Porphyry held that they are naturally deceitful was that, as he contended, demons are animals with a sensitive nature. Now the sensitive nature is inclined towards some particular good, with which evil may be connected. In this way, then, it can have a natural inclination to evil; yet only accidentally, inasmuch as evil is connected with good.
+
 Reply to Objection 2: The malice of some men can be called natural, either because of custom which is a second nature; or on account of the natural proclivity on the part of the sensitive nature to some inordinate passion, as some people are said to be naturally wrathful or lustful; but not on the part of the intellectual nature.
+
 Reply to Objection 3: Brute beasts have a natural inclination in their sensitive nature towards certain particular goods, with which certain evils are connected; thus the fox in seeking its food has a natural inclination to do so with a certain skill coupled with deceit. Wherefore it is not evil in the fox to be sly, since it is natural to him; as it is not evil in the dog to be fierce, as Dionysius observes (De Div. Nom. iv).

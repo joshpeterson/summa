@@ -1,16 +1,27 @@
 # Whether Several Can Baptize At The Same Time?
+
 ## Objections
+
 Objection 1: It seems that several can baptize at the same time. For unity is contained in multitude, but not "vice versa." Wherefore it seems that many can do whatever one can but not "vice versa": thus many draw a ship which one could draw. But one man can baptize. Therefore several, too, can baptize one at the same time.
+
 Objection 2: Further, it is more difficult for one agent to act on many things, than for many to act at the same time on one. But one man can baptize several at the same time. Much more, therefore, can many baptize one at the same time.
+
 Objection 3: Further, Baptism is a sacrament of the greatest necessity. Now in certain cases it seems necessary for several to baptize one at the same time; for instance, suppose a child to be in danger of death, and two persons present, one of whom is dumb, and the other without hands or arms; for then the mutilated person would have to pronounce the words, and the dumb person would have to perform the act of baptizing. Therefore it seems that several can baptize one at the same time.
+
 ## Answer
+
 On the contrary, Where there is one agent there is one action. If, therefore, several were to baptize one, it seems to follow that there would be several baptisms: and this is contrary to Eph. 4:5: "one Faith, one Baptism."
+
 I answer that, The Sacrament of Baptism derives its power principally from its form, which the Apostle calls "the word of life" (Eph. 5:26). Consequently, if several were to baptize one at the same time, we must consider what form they would use. For were they to say: "We baptize thee in the name of the Father and of the Son and of the Holy Ghost," some maintain that the sacrament of Baptism would not be conferred, because the form of the Church would not be observed, i.e. "I baptize thee in the name of the Father and of the Son and of the Holy Ghost." But this reasoning is disproved by the form observed in the Greek Church. For they might say: "The servant of God, N . . ., is baptized in the name of the Father and of the Son and of the Holy Ghost," under which form the Greeks receive the sacrament of Baptism: and yet this form differs far more from the form that we use, than does this: "We baptize thee."
 
 The point to be observed, however, is this, that by this form, "We baptize thee," the intention expressed is that several concur in conferring one Baptism: and this seems contrary to the notion of a minister; for a man does not baptize save as a minister of Christ, and as standing in His place; wherefore just as there is one Christ, so should there be one minister to represent Christ. Hence the Apostle says pointedly (Eph. 4:5): "one Lord, one Faith, one Baptism." Consequently, an intention which is in opposition to this seems to annul the sacrament of Baptism.
 
 On the other hand, if each were to say: "I baptize thee in the name of the Father and of the Son and of the Holy Ghost," each would signify his intention as though he were conferring Baptism independently of the other. This might occur in the case where both were striving to baptize someone; and then it is clear that whichever pronounced the words first would confer the sacrament of Baptism; while the other, however great his right to baptize, if he presume to utter the words, would be liable to be punished as a rebaptizer. If, however, they were to pronounce the words absolutely at the same time, and dipped or sprinkled the man together, they should be punished for baptizing in an improper manner, but not for rebaptizing: because each would intend to baptize an unbaptized person, and each, so far as he is concerned, would baptize. Nor would they confer several sacraments: but the one Christ baptizing inwardly would confer one sacrament by means of both together.
+
 ## Replies
+
 Reply to Objection 1: This argument avails in those agents that act by their own power. But men do not baptize by their own, but by Christ's power, Who, since He is one, perfects His work by means of one minister.
+
 Reply to Objection 2: In a case of necessity one could baptize several at the same time under this form: "I baptize ye": for instance, if they were threatened by a falling house, or by the sword or something of the kind, so as not to allow of the delay involved by baptizing them singly. Nor would this cause a change in the Church's form, since the plural is nothing but the singular doubled: especially as we find the plural expressed in Mat. 28:19: "Baptizing them," etc. Nor is there parity between the baptizer and the baptized; since Christ, the baptizer in chief, is one: while many are made one in Christ by Baptism.
+
 Reply to Objection 3: As stated above ([4438]Q[66], A[1]), the integrity of Baptism consists in the form of words and the use of the matter. Consequently, neither he who only pronounces the words, baptizes, nor he who dips. Where fore if one pronounces the words and the other dips, no form of words can be fitting. For neither could he say: "I baptize thee": since he dips not, and therefore baptizes not. Nor could they say: "We baptize thee": since neither baptizes. For if of two men, one write one part of a book, and the other write the other, it would not be a proper form of speech to say: "We wrote this book," but the figure of synecdoche in which the whole is put for the part.

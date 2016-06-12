@@ -1,12 +1,23 @@
 # Whether Temperance Is A Virtue?
+
 ## Objections
+
 Objection 1: It seems that temperance is not a virtue. For no virtue goes against the inclination of nature, since "there is in us a natural aptitude for virtue," as stated in Ethic. ii, 1. Now temperance withdraws us from pleasures to which nature inclines, according to Ethic. ii, 3,8. Therefore temperance is not a virtue.
+
 Objection 2: Further, virtues are connected with one another, as stated above ([3429]FS, Q[65], A[1]). But some people have temperance without having the other virtues: for we find many who are temperate, and yet covetous or timid. Therefore temperance is not a virtue.
+
 Objection 3: Further, to every virtue there is a corresponding gift, as appears from what we have said above ([3430]FS, Q[68], A[4]). But seemingly no gift corresponds to temperance, since all the gifts have been already ascribed to the other virtues (QQ[8],9,19,45,52, 71,139). Therefore temperance is not a virtue.
+
 ## Answer
+
 On the contrary, Augustine says (Music. vi, 15): "Temperance is the name of a virtue."
+
 I answer that, As stated above ([3431]FS, Q[55], A[3]), it is essential to virtue to incline man to good. Now the good of man is to be in accordance with reason, as Dionysius states (Div. Nom. iv). Hence human virtue is that which inclines man to something in accordance with reason. Now temperance evidently inclines man to this, since its very name implies moderation or temperateness, which reason causes. Therefore temperance is a virtue.
+
 ## Replies
+
 Reply to Objection 1: Nature inclines everything to whatever is becoming to it. Wherefore man naturally desires pleasures that are becoming to him. Since, however, man as such is a rational being, it follows that those pleasures are becoming to man which are in accordance with reason. From such pleasures temperance does not withdraw him, but from those which are contrary to reason. Wherefore it is clear that temperance is not contrary to the inclination of human nature, but is in accord with it. It is, however, contrary to the inclination of the animal nature that is not subject to reason.
+
 Reply to Objection 2: The temperance which fulfils the conditions of perfect virtue is not without prudence, while this is lacking to all who are in sin. Hence those who lack other virtues, through being subject to the opposite vices, have not the temperance which is a virtue, though they do acts of temperance from a certain natural disposition, in so far as certain imperfect virtues are either natural to man, as stated above ([3432]FS, Q[63], A[1]), or acquired by habituation, which virtues, through lack of prudence, are not perfected by reason, as stated above ([3433]FS, Q[65], A[1]).
+
 Reply to Objection 3: Temperance also has a corresponding gift, namely, fear, whereby man is withheld from the pleasures of the flesh, according to Ps. 118:120: "Pierce Thou my flesh with Thy fear." The gift of fear has for its principal object God, Whom it avoids offending, and in this respect it corresponds to the virtue of hope, as stated above ([3434]Q[19], A[9], ad 1). But it may have for its secondary object whatever a man shuns in order to avoid offending God. Now man stands in the greatest need of the fear of God in order to shun those things which are most seductive, and these are the matter of temperance: wherefore the gift of fear corresponds to temperance also.

@@ -1,14 +1,27 @@
 # Whether Chastity Is A Virtue?
+
 ## Objections
+
 Objection 1: It would seem that chastity is not a virtue. For here we are treating of virtues of the soul. But chastity, seemingly, belongs to the body: for a person is said to be chaste because he behaves in a certain way as regards the use of certain parts of the body. Therefore chastity is not a virtue.
+
 Objection 2: Further, virtue is "a voluntary habit," as stated in Ethic. ii, 6. But chastity, apparently, is not voluntary, since it can be taken away by force from a woman to whom violence is done. Therefore it seems that chastity is not a virtue.
+
 Objection 3: Further, there is no virtue in unbelievers. Yet some unbelievers are chaste. Therefore chastity is not a virtue.
+
 Objection 4: Further, the fruits are distinct from the virtues. But chastity is reckoned among the fruits (Gal. 5:23). Therefore chastity is not a virtue.
+
 ## Answer
+
 On the contrary, Augustine says (De Decem Chord. [*Serm. ix de Tempore]): "Whereas thou shouldst excel thy wife in virtue, since chastity is a virtue, thou yieldest to the first onslaught of lust, while thou wishest thy wife to be victorious."
+
 I answer that, Chastity takes its name from the fact that reason "chastises" concupiscence, which, like a child, needs curbing, as the Philosopher states (Ethic. iii, 12). Now the essence of human virtue consists in being something moderated by reason, as shown above ([3510]FS, Q[64], A[1]). Therefore it is evident that chastity is a virtue.
+
 ## Replies
+
 Reply to Objection 1: Chastity does indeed reside in the soul as its subject, though its matter is in the body. For it belongs to chastity that a man make moderate use of bodily members in accordance with the judgment of his reason and the choice of his will.
+
 Reply to Objection 2: As Augustine says (De Civ. Dei i, 18), "so long as her mind holds to its purpose, whereby she has merited to be holy even in body, not even the violence of another's lust can deprive her body of its holiness, which is safeguarded by her persevering continency." He also says (De Civ. Dei i, 18) that "in the mind there is a virtue which is the companion of fortitude, whereby it is resolved to suffer any evil whatsoever rather than consent to evil."
+
 Reply to Objection 3: As Augustine says (Contra Julian. iv, 3), "it is impossible to have any true virtue unless one be truly just; nor is it possible to be just unless one live by faith." Whence he argues that in unbelievers there is neither true chastity, nor any other virtue, because, to wit, they are not referred to the due end, and as he adds (Contra Julian. iv, 3) "virtues are distinguished from vices not by their functions," i.e. their acts, "but by their ends."
+
 Reply to Objection 4: Chastity is a virtue in so far as it works in accordance with reason, but in so far as it delights in its act, it is reckoned among the fruits.

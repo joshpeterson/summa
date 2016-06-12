@@ -1,12 +1,23 @@
 # Whether Anger Should Be Reckoned Among The Capital Vices?
+
 ## Objections
+
 Objection 1: It would seem that anger should not be reckoned among the capital sins. For anger is born of sorrow which is a capital vice known by the name of sloth. Therefore anger should not be reckoned a capital vice.
+
 Objection 2: Further, hatred is a graver sin than anger. Therefore it should be reckoned a capital vice rather than anger.
+
 Objection 3: Further, a gloss on Prov. 29:22, "An angry [Douay: 'passionate'] man provoketh quarrels," says: "Anger is the door to all vices: if it be closed, peace is ensured within to all the virtues; if it be opened, the soul is armed for every crime." Now no capital vice is the origin of all sins, but only of certain definite ones. Therefore anger should not be reckoned among the capital vices.
+
 ## Answer
+
 On the contrary, Gregory (Moral. xxxi, 45) places anger among the capital vices.
+
 I answer that, As stated above ([3578]FS, Q[84], A[3],4), a capital vice is defined as one from which many vices arise. Now there are two reasons for which many vices can arise from anger. The first is on the part of its object which has much of the aspect of desirability, in so far as revenge is desired under the aspect of just or honest*, which is attractive by its excellence, as stated above [3579](A[4]). [*Honesty must be taken here in its broad sense as synonymous with moral goodness, from the point of view of decorum; Cf. Q[145], A[1]]. The second is on the part of its impetuosity, whereby it precipitates the mind into all kinds of inordinate action. Therefore it is evident that anger is a capital vice.
+
 ## Replies
+
 Reply to Objection 1: The sorrow whence anger arises is not, for the most part, the vice of sloth, but the passion of sorrow, which results from an injury inflicted.
+
 Reply to Objection 2: As stated above (Q[118], A[7]; Q[148], A[5]; Q[153], A[4]; [3580]FS, Q[84], A[4]), it belongs to the notion of a capital vice to have a most desirable end, so that many sins are committed through the desire thereof. Now anger, which desires evil under the aspect of good, has a more desirable end than hatred has, since the latter desires evil under the aspect of evil: wherefore anger is more a capital vice than hatred is.
+
 Reply to Objection 3: Anger is stated to be the door to the vices accidentally, that is by removing obstacles, to wit by hindering the judgment of reason, whereby man is withdrawn from evil. It is, however, directly the cause of certain special sins, which are called its daughters.

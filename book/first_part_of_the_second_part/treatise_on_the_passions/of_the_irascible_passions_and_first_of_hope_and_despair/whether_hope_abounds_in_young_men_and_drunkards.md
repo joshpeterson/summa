@@ -1,11 +1,21 @@
 # Whether Hope Abounds In Young Men And Drunkards?
+
 ## Objections
+
 Objection 1: It would seem that youth and drunkenness are not causes of hope. Because hope implies certainty and steadiness; so much so that it is compared to an anchor (Heb. 6:19). But young men and drunkards are wanting in steadiness; since their minds are easily changed. Therefore youth and drunkenness are not causes of hope.
+
 Objection 2: Further, as stated above [1356](A[5]), the cause of hope is chiefly whatever increases one's power. But youth and drunkenness are united to weakness. Therefore they are not causes of hope.
+
 Objection 3: Further, experience is a cause of hope, as stated above [1357](A[5]). But youth lacks experience. Therefore it is not a cause of hope.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. iii, 8) that "drunken men are hopeful": and (Rhet. ii, 12) that "the young are full of hope."
+
 I answer that, Youth is a cause of hope for three reasons, as the Philosopher states in Rhet. ii, 12: and these three reasons may be gathered from the three conditions of the good which is the object of hope---namely, that it is future, arduous and possible, as stated above [1358](A[1]). For youth has much of the future before it, and little of the past: and therefore since memory is of the past, and hope of the future, it has little to remember and lives very much in hope. Again, youths, on account of the heat of their nature, are full of spirit; so that their heart expands: and it is owing to the heart being expanded that one tends to that which is arduous; wherefore youths are spirited and hopeful. Likewise they who have not suffered defeat, nor had experience of obstacles to their efforts, are prone to count a thing possible to them. Wherefore youths, through inexperience of obstacles and of their own shortcomings, easily count a thing possible; and consequently are of good hope. Two of these causes are also in those who are in drink---viz. heat and high spirits, on account of wine, and heedlessness of dangers and shortcomings. For the same reason all foolish and thoughtless persons attempt everything and are full of hope.
+
 ## Replies
+
 Reply to Objection 1: Although youths and men in drink lack steadiness in reality, yet they are steady in their own estimation, for they think that they will steadily obtain that which they hope for.
+
 Reply to Objection 3: Not only experience, but also lack of experience, is, in some way, a cause of hope, as explained above (A[5], ad 3).

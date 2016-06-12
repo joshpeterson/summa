@@ -1,12 +1,23 @@
 # Whether The Angels Have Bodies Naturally United To Them?
+
 ## Objections
+
 Objection 1: It would seem that angels have bodies naturally united to them. For Origen says (Peri Archon i): "It is God's attribute alone---that is, it belongs to the Father, the Son, and the Holy Ghost, as a property of nature, that He is understood to exist without any material substance and without any companionship of corporeal addition." Bernard likewise says (Hom. vi. super Cant.): "Let us assign incorporeity to God alone even as we do immortality, whose nature alone, neither for its own sake nor on account of anything else, needs the help of any corporeal organ. But it is clear that every created spirit needs corporeal substance." Augustine also says (Gen. ad lit. iii): "The demons are called animals of the atmosphere because their nature is akin to that of aerial bodies." But the nature of demons and angels is the same. Therefore angels have bodies naturally united to them.
+
 Objection 2: Further, Gregory (Hom. x in Ev.) calls an angel a rational animal. But every animal is composed of body and soul. Therefore angels have bodies naturally united to them.
+
 Objection 3: Further, life is more perfect in the angels than in souls. But the soul not only lives, but gives life to the body. Therefore the angels animate bodies which are naturally united to them.
+
 ## Answer
+
 On the contrary, Dionysius says (Div. Nom. iv) that "the angels are understood to be incorporeal."
+
 I answer that, The angels have not bodies naturally united to them. For whatever belongs to any nature as an accident is not found universally in that nature; thus, for instance, to have wings, because it is not of the essence of an animal, does not belong to every animal. Now since to understand is not the act of a body, nor of any corporeal energy, as will be shown later ([470]Q[75], A[2]), it follows that to have a body united to it is not of the nature of an intellectual substance, as such; but it is accidental to some intellectual substance on account of something else. Even so it belongs to the human soul to be united to a body, because it is imperfect and exists potentially in the genus of intellectual substances, not having the fulness of knowledge in its own nature, but acquiring it from sensible things through the bodily senses, as will be explained later on ([471]Q[84], A[6]; [472]Q[89], A[1]). Now whenever we find something imperfect in any genus we must presuppose something perfect in that genus. Therefore in the intellectual nature there are some perfectly intellectual substances, which do not need to acquire knowledge from sensible things. Consequently not all intellectual substances are united to bodies; but some are quite separated from bodies, and these we call angels.
+
 ## Replies
+
 Reply to Objection 1: As was said above ([473]Q[50], A[1]) it was the opinion of some that every being is a body; and consequently some seem to have thought that there were no incorporeal substances existing except as united to bodies; so much so that some even held that God was the soul of the world, as Augustine tells us (De Civ. Dei vii). As this is contrary to Catholic Faith, which asserts that God is exalted above all things, according to Ps. 8:2: "Thy magnificence is exalted beyond the heavens"; Origen, while refusing to say such a thing of God, followed the above opinion of others regarding the other substances; being deceived here as he was also in many other points, by following the opinions of the ancient philosophers. Bernard's expression can be explained, that the created spirit needs some bodily instrument, which is not naturally united to it, but assumed for some purpose, as will be explained [474](A[2]). Augustine speaks, not as asserting the fact, but merely using the opinion of the Platonists, who maintained that there are some aerial animals, which they termed demons.
+
 Reply to Objection 2: Gregory calls the angel a rational animal metaphorically, on account of the likeness to the rational nature.
+
 Reply to Objection 3: To give life effectively is a perfection simply speaking; hence it belongs to God, as is said (1 Kings 2:6): "The Lord killeth, and maketh alive." But to give life formally belongs to a substance which is part of some nature, and which has not within itself the full nature of the species. Hence an intellectual substance which is not united to a body is more perfect than one which is united to a body.

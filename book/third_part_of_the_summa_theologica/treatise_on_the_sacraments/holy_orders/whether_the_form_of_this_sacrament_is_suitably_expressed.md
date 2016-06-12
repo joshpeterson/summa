@@ -1,14 +1,27 @@
 # Whether The Form Of This Sacrament Is Suitably Expressed?
+
 ## Objections
+
 Objection 1: It would seem that the form of this sacrament is unsuitably set forth in the text (Sent. iv, D, 24). Because the sacraments take their efficacy from their form. Now the efficacy of the sacraments is from the divine power, which works our salvation in them in a most hidden manner. Therefore the form of this sacrament should include a mention of the divine power by the invocation of the Trinity, as in the other sacraments.
+
 Objection 2: Further, to command pertains to one who has authority. Now the dispenser of the sacrament exercises no authority, but only ministry. Therefore he should not use the imperative mood by saying: "Do" or "Receive" this or that, or some similar expression.
+
 Objection 3: Further, mention should not be made in the sacramental form, except of such things as are essential to the sacrament. But the use of the power received is not essential to this sacrament, but is consequent upon it. Therefore it should not be mentioned in the form of this sacrament.
+
 Objection 4: Further, all the sacraments direct us to an eternal reward. But the forms of the other sacraments make no mention of a reward. Therefore neither should any mention be made thereof in the form of this sacrament, as in the words: "Since thou wilt have a share, if faithfully," etc.
+
 ## Answer
 
+
+
 I answer that, This sacrament consists chiefly in the power conferred. Now power is conferred by power, as like proceeds from like; and again power is made known by its use, since powers are manifested by their acts. Wherefore in the form of order the use of order is expressed by the act which is commanded; and the conferring of power is expressed by employing the imperative mood.
+
 ## Replies
+
 Reply to Objection 1: The other sacraments are not ordained chiefly to effects similar to the power whereby the sacraments are dispensed, as this sacrament is. Hence in this sacrament there is a kind of universal communication. Wherefore in the other sacraments something is expressed on the part of the divine power to which the effect of the sacrament is likened, but not in this sacrament.
+
 Reply to Objection 2: [There is a special reason why this sacrament, rather than the others, is conferred by employing the imperative mood. For]* although the bishop who is the minister of this sacrament has no authority in respect of the conferring of this sacrament, nevertheless he has some power with regard to the power of Order, which power he confers, in so far as it is derived, from his. [*The sentence in brackets is not in the Leonine edition.]
+
 Reply to Objection 3: The use of power is the effect of power in the genus of efficient cause, and from this point of view it has no reason to be mentioned in the definition of Order. But it is somewhat a cause in the genus of final cause, and from this point of view it can be placed in the definition of order.
+
 Reply to Objection 4: There is here a difference between this and the other sacraments. Because by this sacrament an office or the power to do something is conferred; and so it is fitting that mention be made of the reward to be obtained if it be administered faithfully. But in the other sacraments no such office or power to act is conferred, and so no mention of reward is made in them. Accordingly the recipient is somewhat passive in relation to the other sacraments, because he receives them for the perfecting of his own state only, whereas in relation to this sacrament he holds himself somewhat actively, since he receives it for the sake of exercising hierarchical duties in the Church. Wherefore although the other sacraments, from the very fact that they give grace, direct the recipient to salvation, properly speaking they do not direct him to a reward, in the same way as this sacrament does.

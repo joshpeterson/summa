@@ -1,16 +1,27 @@
 # Whether An Angel Loves Another With Natural Love As He Loves Himself?
+
 ## Objections
+
 Objection 1: It would seem that an angel does not love another with natural love as he loves himself. For love follows knowledge. But an angel does not know another as he knows himself: because he knows himself by his essence, while he knows another by his similitude, as was said above ([531]Q[56], AA[1],2). Therefore it seems that one angel does not love another with natural love as he loves himself.
+
 Objection 2: Further, the cause is more powerful than the effect; and the principle than what is derived from it. But love for another comes of love for self, as the Philosopher says (Ethic. ix, 8). Therefore one angel does not love another as himself, but loves himself more.
+
 Objection 3: Further, natural love is of something as an end, and is unremovable. But no angel is the end of another; and again, such love can be severed from him, as is the case with the demons, who have no love for the good angels. Therefore an angel does not love another with natural love as he loves himself.
+
 ## Answer
+
 On the contrary, That seems to be a natural property which is found in all, even in such as devoid of reason. But, "every beast loves its like," as is said, Ecclus. 13:19. Therefore an angel naturally loves another as he loves himself.
+
 I answer that, As was observed [532](A[3]), both angel and man naturally love self. Now what is one with a thing, is that thing itself: consequently every thing loves what is one with itself. So, if this be one with it by natural union, it loves it with natural love; but if it be one with it by non-natural union, then it loves it with non-natural love. Thus a man loves his fellow townsman with a social love, while he loves a blood relation with natural affection, in so far as he is one with him in the principle of natural generation.
 
 Now it is evident that what is generically or specifically one with another, is the one according to nature. And so everything loves another which is one with it in species, with a natural affection, in so far as it loves its own species. This is manifest even in things devoid of knowledge: for fire has a natural inclination to communicate its form to another thing, wherein consists this other thing's good; as it is naturally inclined to seek its own good, namely, to be borne upwards.
 
 So then, it must be said that one angel loves another with natural affection, in so far as he is one with him in nature. But so far as an angel has something else in common with another angel, or differs from him in other respects, he does not love him with natural love.
+
 ## Replies
+
 Reply to Objection 1: The expression 'as himself' can in one way qualify the knowledge and the love on the part of the one known and loved: and thus one angel knows another as himself, because he knows the other to be even as he knows himself to be. In another way the expression can qualify the knowledge and the love on the part of the knower and lover. And thus one angel does not know another as himself, because he knows himself by his essence, and the other not by the other's essence. In like manner he does not love another as he loves himself, because he loves himself by his own will; but he does not love another by the other's will.
+
 Reply to Objection 2: The expression "as" does not denote equality, but likeness. For since natural affection rests upon natural unity, the angel naturally loves less what is less one with him. Consequently he loves more what is numerically one with himself, than what is one only generically or specifically. But it is natural for him to have a like love for another as for himself, in this respect, that as he loves self in wishing well to self, so he loves another in wishing well to him.
+
 Reply to Objection 3: Natural love is said to be of the end, not as of that end to which good is willed, but rather as of that good which one wills for oneself, and in consequence for another, as united to oneself. Nor can such natural love be stripped from the wicked angels, without their still retaining a natural affection towards the good angels, in so far as they share the same nature with them. But they hate them, in so far as they are unlike them according to righteousness and unrighteousness.

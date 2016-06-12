@@ -1,12 +1,23 @@
 # Whether Religion Is A Special Virtue, Distinct From The Others?
+
 ## Objections
+
 Objection 1: It would seem that religion is not a special virtue distinct from the others. Augustine says (De Civ. Dei x, 6): "Any action whereby we are united to God in holy fellowship, is a true sacrifice." But sacrifice belongs to religion. Therefore every virtuous deed belongs to religion; and consequently religion is not a special virtue.
+
 Objection 2: Further, the Apostle says (1 Cor. 10:31): "Do all to the glory of God." Now it belongs to religion to do anything in reverence of God, as stated above (A[1], ad 2; A[2]). Therefore religion is not a special virtue.
+
 Objection 3: Further, the charity whereby we love God is not distinct from the charity whereby we love our neighbor. But according to Ethic. viii, 8 "to be honored is almost to be loved." Therefore the religion whereby we honor God is not a special virtue distinct from observance, or "dulia," or piety whereby we honor our neighbor. Therefore religion is not a special virtue.
+
 ## Answer
+
 On the contrary, It is reckoned a part of justice, distinct from the other parts.
+
 I answer that, Since virtue is directed to the good, wherever there is a special aspect of good, there must be a special virtue. Now the good to which religion is directed, is to give due honor to God. Again, honor is due to someone under the aspect of excellence: and to God a singular excellence is competent, since He infinitely surpasses all things and exceeds them in every way. Wherefore to Him is special honor due: even as in human affairs we see that different honor is due to different personal excellences, one kind of honor to a father, another to the king, and so on. Hence it is evident that religion is a special virtue.
+
 ## Replies
+
 Reply to Objection 1: Every virtuous deed is said to be a sacrifice, in so far as it is done out of reverence of God. Hence this does not prove that religion is a general virtue, but that it commands all other virtues, as stated above (A[1], ad 1).
+
 Reply to Objection 2: Every deed, in so far as it is done in God's honor, belongs to religion, not as eliciting but as commanding: those belong to religion as eliciting which pertain to the reverence of God by reason of their specific character.
+
 Reply to Objection 3: The object of love is the good, but the object of honor and reverence is something excellent. Now God's goodness is communicated to the creature, but the excellence of His goodness is not. Hence the charity whereby God is loved is not distinct from the charity whereby our neighbor is loved; whereas the religion whereby God is honored, is distinct from the virtues whereby we honor our neighbor.

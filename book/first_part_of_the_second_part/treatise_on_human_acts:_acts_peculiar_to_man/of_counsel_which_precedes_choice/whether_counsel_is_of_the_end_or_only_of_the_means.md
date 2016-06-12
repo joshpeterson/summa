@@ -1,10 +1,19 @@
 # Whether Counsel Is Of The End, Or Only Of The Means?
+
 ## Objections
+
 Objection 1: It would seem that counsel is not only of the means but also of the end. For whatever is doubtful, can be the subject of inquiry. Now in things to be done by man there happens sometimes a doubt as to the end and not only as to the means. Since therefore inquiry as to what is to be done is counsel, it seems that counsel can be of the end.
+
 Objection 2: Further, the matter of counsel is human actions. But some human actions are ends, as stated in Ethic. i, 1. Therefore counsel can be of the end.
+
 ## Answer
+
 On the contrary, Gregory of Nyssa [*Nemesius, De Nat. Hom. xxxiv.] says that "counsel is not of the end, but of the means."
+
 I answer that, The end is the principle in practical matters: because the reason of the means is to be found in the end. Now the principle cannot be called in question, but must be presupposed in every inquiry. Since therefore counsel is an inquiry, it is not of the end, but only of the means. Nevertheless it may happen that what is the end in regard to some things, is ordained to something else; just as also what is the principle of one demonstration, is the conclusion of another: and consequently that which is looked upon as the end in one inquiry, may be looked upon as the means in another; and thus it will become an object of counsel.
+
 ## Replies
+
 Reply to Objection 1: That which is looked upon as an end, is already fixed: consequently as long as there is any doubt about it, it is not looked upon as an end. Wherefore if counsel is taken about it, it will be counsel not about the end, but about the means.
+
 Reply to Objection 2: Counsel is about operations, in so far as they are ordained to some end. Consequently if any human act be an end, it will not, as such, be the matter of counsel.

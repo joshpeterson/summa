@@ -1,12 +1,23 @@
 # Whether Sorrow Or Pain Is Contrary To Pleasure?
+
 ## Objections
+
 Objection 1: It would seem that sorrow is not contrary to pleasure. For one of two contraries is not the cause of the other. But sorrow can be the cause of pleasure; for it is written (Mat. 5:5): "Blessed are they that mourn, for they shall be comforted." Therefore they are not contrary to one another.
+
 Objection 2: Further, one contrary does not denominate the other. But to some, pain or sorrow gives pleasure: thus Augustine says (Confess. iii, 2) that in stage-plays sorrow itself gives pleasure: and (Confess. iv, 5) that "weeping is a bitter thing, and yet it sometimes pleases us." Therefore pain is not contrary to pleasure.
+
 Objection 3: Further, one contrary is not the matter of the other; because contraries cannot co-exist together. But sorrow can be the matter of pleasure; for Augustine says (De Poenit. xiii): "The penitent should ever sorrow, and rejoice in his sorrow." The Philosopher too says (Ethic. ix, 4) that, on the other hand, "the evil man feels pain at having been pleased." Therefore pleasure and pain are not contrary to one another.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei xiv, 6) that "joy is the volition of consent to the things we wish: and that sorrow is the volition of dissent from the things we do not wish." But consent and dissent are contraries. Therefore pleasure and sorrow are contrary to one another.
+
 I answer that, As the Philosopher says (Metaph. x, 4), contrariety is a difference in respect of a form. Now the form or species of a passion or movement is taken from the object or term. Consequently, since the objects of pleasure and sorrow or pain, viz. present good and present evil, are contrary to one another, it follows that pain and pleasure are contrary to one another.
+
 ## Replies
+
 Reply to Objection 1: Nothing hinders one contrary causing the other accidentally: and thus sorrow can be the cause of pleasure. In one way, in so far as from sorrow at the absence of something, or at the presence of its contrary, one seeks the more eagerly for something pleasant: thus a thirsty man seeks more eagerly the pleasure of a drink, as a remedy for the pain he suffers. In another way, in so far as, from a strong desire for a certain pleasure, one does not shrink from undergoing pain, so as to obtain that pleasure. In each of these ways, the sorrows of the present life lead us to the comfort of the future life. Because by the mere fact that man mourns for his sins, or for the delay of glory, he merits the consolation of eternity. In like manner a man merits it when he shrinks not from hardships and straits in order to obtain it.
+
 Reply to Objection 2: Pain itself can be pleasurable accidentally in so far as it is accompanied by wonder, as in stage-plays; or in so far as it recalls a beloved object to one's memory, and makes one feel one's love for the thing, whose absence gives us pain. Consequently, since love is pleasant, both pain and whatever else results from love, forasmuch as they remind us of our love, are pleasant. And, for this reason, we derive pleasure even from pains depicted on the stage: in so far as, in witnessing them, we perceive ourselves to conceive a certain love for those who are there represented.
+
 Reply to Objection 3: The will and the reason reflect on their own acts, inasmuch as the acts themselves of the will and reason are considered under the aspect of good or evil. In this way sorrow can be the matter of pleasure, or vice versa, not essentially but accidentally: that is, in so far as either of them is considered under the aspect of good or evil.

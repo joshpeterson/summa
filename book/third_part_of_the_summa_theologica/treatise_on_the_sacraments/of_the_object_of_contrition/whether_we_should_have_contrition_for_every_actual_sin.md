@@ -1,14 +1,27 @@
 # Whether We Should Have Contrition For Every Actual Sin?
+
 ## Objections
+
 Objection 1: It would seem that we have no need to have contrition for every actual sin we have committed. For contraries are healed by their contraries. Now some sins are committed through sorrow, e.g. sloth and envy. Therefore their remedy should not be sorrow, such as contrition is, but joy.
+
 Objection 2: Further, contrition is an act of the will, which cannot refer to that which is not known. But there are sins of which we have no knowledge, such as those we have forgotten. Therefore we cannot have contrition for them.
+
 Objection 3: Further, by voluntary contrition those sins are blotted out which we committed voluntarily. But ignorance takes away voluntariness, as the Philosopher declares (Ethic. iii, 1). Therefore contrition need not cover things which have occurred through ignorance.
+
 Objection 4: Further, we need not be contrite for a sin which is not removed by contrition. Now some sins are not removed by contrition, e.g. venial sins, that remain after the grace of contrition. Therefore there is no need to have contrition for all one's past sins.
+
 ## Answer
+
 On the contrary, Penance is a remedy for all actual sins. But penance cannot regard some sins, without contrition regarding them also, for it is the first part of Penance. Therefore contrition should be for all one's past sins.
+
 I answer that, Every actual sin is caused by our will not yielding to God's law, either by transgressing it, or by omitting it, or by acting beside it: and since a hard thing is one that is disposed not to give way easily, hence it is that a certain hardness of the will is to be found in every actual sin. Wherefore, if a sin is to be remedied, it needs to be taken away by contrition which crushes it.
+
 ## Replies
+
 Reply to Objection 1: As clearly shown above (A[2], ad 1), contrition is opposed to sin, in so far as it proceeds from the choice of the will that had failed to obey the command of God's law, and not as regards the material part of sin: and it is on this that the choice of the will falls. Now the will's choice falls not only on the acts of the other powers, which the will uses for its own end, but also on the will's own proper act: for the will wills to will something. Accordingly the will's choice falls on that pain or sadness which is to be found in the sin of envy and the like, whether such pain be in the senses or in the will itself. Consequently the sorrow of contrition is opposed to those sins.
+
 Reply to Objection 2: One may forget a thing in two ways, either so that it escapes the memory altogether, and then one cannot search for it; or so that it escapes from the memory in part, and in part remains, as when I remember having heard something in general, but know not what it was in particular, and then I search my memory in order to discover it. Accordingly a sin also may be forgotten in two ways, either so as to remain in a general, but not in a particular remembrance, and then a man is bound to bethink himself in order to discover the sin, because he is bound to have contrition for each individual mortal sin. And if he is unable to discover it, after applying himself with due care, it is enough that he be contrite for it, according as it stands in his knowledge, and indeed he should grieve not only for the sin, but also for having forgotten it, because this is owing to his neglect. If, however, the sin has escaped from his memory altogether, then he is excused from his duty through being unable to fulfill it, and it is enough that he be contrite in general for everything wherein he has offended God. But when this inability is removed, as when the sin is recalled to his memory, then he is bound to have contrition for that sin in particular, even as a poor man, who cannot pay a debt, is excused, and yet is bound to, as soon as he can.
+
 Reply to Objection 3: If ignorance were to remove altogether the will to do evil, it will excuse, and there would be no sin: and sometimes it does not remove the will altogether, and then it does not altogether excuse, but only to a certain extent: wherefore a man is bound to be contrite for a sin committed through ignorance.
+
 Reply to Objection 4: A venial sin can remain after contrition for a mortal sin, but not after contrition for the venial sin: wherefore contrition should also cover venial sins even as penance does, as stated above (Sent. iv, D, 16, Q[2], A[2], qu. 2; [4827]XP, Q[87], A[1]).

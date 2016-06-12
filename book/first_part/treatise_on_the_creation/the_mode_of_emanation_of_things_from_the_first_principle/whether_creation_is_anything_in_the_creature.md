@@ -1,12 +1,23 @@
 # Whether Creation Is Anything In The Creature?
+
 ## Objections
+
 Objection 1: It would seem that creation is not anything in the creature. For as creation taken in a passive sense is attributed to the creature, so creation taken in an active sense is attributed to the Creator. But creation taken actively is not anything in the Creator, because otherwise it would follow that in God there would be something temporal. Therefore creation taken passively is not anything in the creature.
+
 Objection 2: Further, there is no medium between the Creator and the creature. But creation is signified as the medium between them both: since it is not the Creator, as it is not eternal; nor is it the creature, because in that case it would be necessary for the same reason to suppose another creation to create it, and so on to infinity. Therefore creation is not anything in the creature.
+
 Objection 3: Further, if creation is anything besides the created substance, it must be an accident belonging to it. But every accident is in a subject. Therefore a thing created would be the subject of creation, and so the same thing would be the subject and also the term of creation. This is impossible, because the subject is before the accident, and preserves the accident; while the term is after the action and passion whose term it is, and as soon as it exists, action and passion cease. Therefore creation itself is not any thing.
+
 ## Answer
+
 On the contrary, It is greater for a thing to be made according to its entire substance, than to be made according to its substantial or accidental form. But generation taken simply, or relatively, whereby anything is made according to the substantial or the accidental form, is something in the thing generated. Therefore much more is creation, whereby a thing is made according to its whole substance, something in the thing created.
+
 I answer that, Creation places something in the thing created according to relation only; because what is created, is not made by movement, or by change. For what is made by movement or by change is made from something pre-existing. And this happens, indeed, in the particular productions of some beings, but cannot happen in the production of all being by the universal cause of all beings, which is God. Hence God by creation produces things without movement. Now when movement is removed from action and passion, only relation remains, as was said above (A[2], ad 2). Hence creation in the creature is only a certain relation to the Creator as to the principle of its being; even as in passion, which implies movement, is implied a relation to the principle of motion.
+
 ## Replies
+
 Reply to Objection 1: Creation signified actively means the divine action, which is God's essence, with a relation to the creature. But in God relation to the creature is not a real relation, but only a relation of reason; whereas the relation of the creature to God is a real relation, as was said above ([380]Q[13], A[7]) in treating of the divine names.
+
 Reply to Objection 2: Because creation is signified as a change, as was said above (A[2], ad 2), and change is a kind of medium between the mover and the moved, therefore also creation is signified as a medium between the Creator and the creature. Nevertheless passive creation is in the creature, and is a creature. Nor is there need of a further creation in its creation; because relations, or their entire nature being referred to something, are not referred by any other relations, but by themselves; as was also shown above ([381]Q[42], A[1], ad 4), in treating of the equality of the Persons.
+
 Reply to Objection 3: The creature is the term of creation as signifying a change, but is the subject of creation, taken as a real relation, and is prior to it in being, as the subject is to the accident. Nevertheless creation has a certain aspect of priority on the part of the object to which it is directed, which is the beginning of the creature. Nor is it necessary that as long as the creature is it should be created; because creation imports a relation of the creature to the Creator, with a certain newness or beginning.

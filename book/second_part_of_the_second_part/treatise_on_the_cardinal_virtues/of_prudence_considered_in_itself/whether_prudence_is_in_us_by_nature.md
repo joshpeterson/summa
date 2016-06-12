@@ -1,16 +1,27 @@
 # Whether Prudence Is In Us By Nature?
+
 ## Objections
+
 Objection 1: It would seem that prudence is in us by nature. The Philosopher says that things connected with prudence "seem to be natural," namely "synesis, gnome" [*{synesis} and {gnome}, Cf. [2754]FS, Q[57], A[6]] and the like, but not those which are connected with speculative wisdom. Now things belonging to the same genus have the same kind of origin. Therefore prudence also is in us from nature.
+
 Objection 2: Further, the changes of age are according to nature. Now prudence results from age, according to Job 12:12: "In the ancient is wisdom, and in length of days prudence." Therefore prudence is natural.
+
 Objection 3: Further, prudence is more consistent with human nature than with that of dumb animals. Now there are instances of a certain natural prudence in dumb animals, according to the Philosopher (De Hist. Anim. viii, 1). Therefore prudence is natural.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. ii, 1) that "intellectual virtue is both originated and fostered by teaching; it therefore demands experience and time." Now prudence is an intellectual virtue, as stated above [2755](A[4]). Therefore prudence is in us, not by nature, but by teaching and experience.
+
 I answer that, As shown above [2756](A[3]), prudence includes knowledge both of universals, and of the singular matters of action to which prudence applies the universal principles. Accordingly, as regards the knowledge of universals, the same is to be said of prudence as of speculative science, because the primary universal principles of either are known naturally, as shown above [2757](A[6]): except that the common principles of prudence are more connatural to man; for as the Philosopher remarks (Ethic. x, 7) "the life which is according to the speculative reason is better than that which is according to man": whereas the secondary universal principles, whether of the speculative or of the practical reason, are not inherited from nature, but are acquired by discovery through experience, or through teaching.
 
 On the other hand, as regards the knowledge of particulars which are the matter of action, we must make a further distinction, because this matter of action is either an end or the means to an end. Now the right ends of human life are fixed; wherefore there can be a natural inclination in respect of these ends; thus it has been stated above ([2758]FS, Q[51], A[1]; [2759]FS, Q[63], A[1]) that some, from a natural inclination, have certain virtues whereby they are inclined to right ends; and consequently they also have naturally a right judgment about such like ends.
 
 But the means to the end, in human concerns, far from being fixed, are of manifold variety according to the variety of persons and affairs. Wherefore since the inclination of nature is ever to something fixed, the knowledge of those means cannot be in man naturally, although, by reason of his natural disposition, one man has a greater aptitude than another in discerning them, just as it happens with regard to the conclusions of speculative sciences. Since then prudence is not about the ends, but about the means, as stated above [2760](A[6]; [2761]FS, Q[57], A[5]), it follows that prudence is not from nature.
+
 ## Replies
+
 Reply to Objection 1: The Philosopher is speaking there of things relating to prudence, in so far as they are directed to ends. Wherefore he had said before (Ethic. vi, 5,11) that "they are the principles of the {ou heneka}" [*Literally, 'for the sake of which' (are the means)], namely, the end; and so he does not mention {euboulia} among them, because it takes counsel about the means.
+
 Reply to Objection 2: Prudence is rather in the old, not only because their natural disposition calms the movement of the sensitive passions, but also because of their long experience.
+
 Reply to Objection 3: Even in dumb animals there are fixed ways of obtaining an end, wherefore we observe that all the animals of a same species act in like manner. But this is impossible in man, on account of his reason, which takes cognizance of universals, and consequently extends to an infinity of singulars.

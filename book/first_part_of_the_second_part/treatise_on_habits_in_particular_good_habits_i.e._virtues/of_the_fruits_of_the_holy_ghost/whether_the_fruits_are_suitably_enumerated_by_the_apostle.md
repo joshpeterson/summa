@@ -1,10 +1,18 @@
 # Whether The Fruits Are Suitably Enumerated By The Apostle?
+
 ## Objections
+
 Objection 1: It would seem that the fruits are unsuitably enumerated by the Apostle (Gal. 5:22,23). Because, elsewhere, he says that there is only one fruit of the present life; according to Rom. 6:22: "You have your fruit unto sanctification." Moreover it is written (Is. 27:9): "This is all the fruit . . . that the sin . . . be taken away." Therefore we should not reckon twelve fruits.
+
 Objection 2: Further, fruit is the product of spiritual seed, as stated (A[1] ). But Our Lord mentions (Mat. 13:23) a threefold fruit as growing from a spiritual seed in a good ground, viz. "hundredfold, sixtyfold," and "thirtyfold." Therefore one should not reckon twelve fruits.
+
 Objection 3: Further, the very nature of fruit is to be something ultimate and delightful. But this does not apply to all the fruits mentioned by the Apostle: for patience and long-suffering seem to imply a painful object, while faith is not something ultimate, but rather something primary and fundamental. Therefore too many fruits are enumerated.
+
 Objection 4: On the other hand, It seems that they are enumerated insufficiently and incompletely. For it has been stated [1680](A[2]) that all the beatitudes may be called fruits; yet not all are mentioned here. Nor is there anything corresponding to the acts of wisdom, and of many other virtues. Therefore it seems that the fruits are insufficiently enumerated.
+
 ## Answer
+
+
 
 I answer that, The number of the twelve fruits enumerated by the Apostle is suitable, and that there may be a reference to them in the twelve fruits of which it is written (Apoc. 22:2): "On both sides of the river was the tree bearing twelve fruits." Since, however, a fruit is something that proceeds from a source as from a seed or root, the difference between these fruits must be gathered from the various ways in which the Holy Ghost proceeds in us: which process consists in this, that the mind of man is set in order, first of all, in regard to itself; secondly, in regard to things that are near it; thirdly, in regard to things that are below it.
 
@@ -13,8 +21,13 @@ Accordingly man's mind is well disposed in regard to itself when it has a good d
 Man's mind is well disposed as regards what is near him, viz. his neighbor, first, as to the will to do good; and to this belongs "goodness." Secondly, as to the execution of well-doing; and to this belongs "benignity," for the benign are those in whom the salutary flame [bonus ignis] of love has enkindled the desire to be kind to their neighbor. Thirdly, as to his suffering with equanimity the evils his neighbor inflicts on him. To this belongs "meekness," which curbs anger. Fourthly, in the point of our refraining from doing harm to our neighbor not only through anger, but also through fraud or deceit. To this pertains "faith," if we take it as denoting fidelity. But if we take it for the faith whereby we believe in God, then man is directed thereby to that which is above him, so that he subject his intellect and, consequently, all that is his, to God.
 
 Man is well disposed in respect of that which is below him, as regards external action, by "modesty," whereby we observe the "mode" in all our words and deeds: as regards internal desires, by "contingency" and "chastity": whether these two differ because chastity withdraws man from unlawful desires, contingency also from lawful desires: or because the continent man is subject to concupiscence, but is not led away; whereas the chaste man is neither subject to, nor led away from them.
+
 ## Replies
+
 Reply to Objection 1: Sanctification is effected by all the virtues, by which also sins are taken away. Consequently fruit is mentioned there in the singular, on account of its being generically one, though divided into many species which are spoken of as so many fruits.
+
 Reply to Objection 2: The hundredfold, sixtyfold, and thirtyfold fruits do not differ as various species of virtuous acts, but as various degrees of perfection, even in the same virtue. Thus contingency of the married state is said to be signified by the thirtyfold fruit; the contingency of widowhood, by the sixtyfold; and virginal contingency, by the hundredfold fruit. There are, moreover, other ways in which holy men distinguish three evangelical fruits according to the three degrees of virtue: and they speak of three degrees, because the perfection of anything is considered with respect to its beginning, its middle, and its end.
+
 Reply to Objection 3: The fact of not being disturbed by painful things is something to delight in. And as to faith, if we consider it as the foundation, it has the aspect of being ultimate and delightful, in as much as it contains certainty: hence a gloss expounds thus: "Faith, which is certainly about the unseen."
+
 Reply to Objection 4: As Augustine says on Gal. 5:22,23, "the Apostle had no intention of teaching us how many [either works of the flesh, or fruits of the Spirit] there are; but to show how the former should be avoided, and the latter sought after." Hence either more or fewer fruits might have been mentioned. Nevertheless, all the acts of the gifts and virtues can be reduced to these by a certain kind of fittingness, in so far as all the virtues and gifts must needs direct the mind in one of the above-mentioned ways. Wherefore the acts of wisdom and of any gifts directing to good, are reduced to charity, joy and peace. The reason why he mentions these rather than others, is that these imply either enjoyment of good things, or relief from evils, which things seem to belong to the notion of fruit.

@@ -1,12 +1,23 @@
 # Whether Christ Can Be Called A Lordly Man?
+
 ## Objections
+
 Objection 1: It would seem that Christ can be called a lordly man. For Augustine says (Qq. lxxxiii, qu. 36) that "we are to be counseled to hope for the goods that were in the Lordly Man"; and he is speaking of Christ. Therefore it seems that Christ was a lordly man.
+
 Objection 2: Further, as lordship belongs to Christ by reason of His Divine Nature, so does manhood belong to the human nature. Now God is said to be "humanized," as is plain from Damascene (De Fide Orth. iii, 11), where he says that "being humanized manifests the conjunction with man." Hence with like reason may it be said denominatively that this man is lordly.
+
 Objection 3: Further, as "lordly" is derived from "lord," so is Divine derived from "Deus" [God]. But Dionysius (Eccl. Hier. iv) calls Christ the "most Divine Jesus." Therefore with like reason may Christ be called a lordly man.
+
 ## Answer
+
 On the contrary, Augustine says (Retract. i, 19): "I do not see that we may rightly call Jesus Christ a lordly man, since He is the Lord Himself."
+
 I answer that, As was said above (A[2], ad 3), when we say "the Man Christ Jesus," we signify the eternal suppositum, which is the Person of the Son of God, because there is only one suppositum of both natures. Now "God" and "Lord" are predicated essentially of the Son of God; and hence they ought not to be predicated denominatively, since this is derogatory to the truth of the union. Hence, since we say "lordly" denominatively from lord, it cannot truly and properly be said that this Man is lordly, but rather that He is Lord. But if, when we say "the Man Christ Jesus," we mean a created suppositum, as those who assert two supposita in Christ, this man might be called lordly, inasmuch as he is assumed to a participation of Divine honor, as the Nestorians said. And, even in this way, the human nature is not called "divine" by essence, but "deified"---not, indeed, by its being converted into the Divine Nature, but by its conjunction with the Divine Nature in one hypostasis, as is plain from Damascene (De Fide Orth. iii, 11,17).
+
 ## Replies
+
 Reply to Objection 1: Augustine retracts these and the like words (Retract. i, 19); hence, after the foregoing words (Retract. i, 19), he adds: "Wherever I have said this," viz. that Christ Jesus is a lordly man, "I wish it unsaid, having afterwards seen that it ought not to be said although it may be defended with some reason," i.e. because one might say that He was called a lordly man by reason of the human nature, which this word "man" signifies, and not by reason of the suppositum.
+
 Reply to Objection 2: This one suppositum, which is of the human and Divine natures, was first of the Divine Nature, i.e. from eternity. Afterwards in time it was made a suppositum of human nature by the Incarnation. And for this reason it is said to be "humanized"---not that it assumed a man, but that it assumed human nature. But the converse of this is not true, viz. that a suppositum of human nature assumed the Divine Nature; hence we may not say a "deified" or "lordly" man.
+
 Reply to Objection 3: This word Divine is wont to be predicated even of things of which the word God is predicated essentially; thus we say that "the Divine Essence is God," by reason of identity; and that "the Essence belongs to God," or is "Divine," on account of the different way of signifying; and we speak of the "Divine Word," though the Word is God. So, too, we say "a Divine Person," just as we say "the person of Plato," on account of its different mode of signification. But "lordly" is not predicated of those of which "lord" is predicated; for we are not wont to call a man who is a lord, lordly; but whatsoever belongs to a lord is called lordly, as the "lordly will," or the "lordly hand," or the "lordly possession." And hence the man Christ, Who is our Lord, cannot be called lordly; yet His flesh can be called "lordly flesh" and His passion the "lordly passion."

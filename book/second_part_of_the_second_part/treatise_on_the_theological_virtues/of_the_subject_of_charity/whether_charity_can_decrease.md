@@ -1,10 +1,17 @@
 # Whether Charity Can Decrease?
+
 ## Objections
+
 Objection 1: It would seem that charity can decrease. For contraries by their nature affect the same subject. Now increase and decrease are contraries. Since then charity increases, as stated above [2522](A[4]), it seems that it can also decrease.
+
 Objection 2: Further, Augustine, speaking to God, says (Confess. x) "He loves Thee less, who loves aught besides Thee": and (Qq. lxxxiii, qu. 36) he says that "what kindles charity quenches cupidity." For this it seems to follow that, on the contrary, what arouses cupidity quenches charity. But cupidity, whereby a man loves something besides God, can increase in man. Therefore charity can decrease.
+
 Objection 3: Further, as Augustine says (Gen. ad lit. viii, 12) "God makes the just man, by justifying him, but in such a way, that if the man turns away from God, he no longer retains the effect of the Divine operation." From this we may gather that when God preserves charity in man, He works in the same way as when He first infuses charity into him. Now at the first infusion of charity God infuses less charity into him that prepares himself less. Therefore also in preserving charity, He preserves less charity in him that prepares himself less. Therefore charity can decrease.
+
 ## Answer
+
 On the contrary, In Scripture, charity is compared to fire, according to Cant 8:6: "The lamps thereof," i.e. of charity, "are fire and flames." Now fire ever mounts upward so long as it lasts. Therefore as long as charity endures, it can ascend, but cannot descend, i.e. decrease.
+
 I answer that, The quantity which charity has in comparison with its proper object, cannot decrease, even as neither can it increase, as stated above (A[4], ad 2).
 
 Since, however, it increases in that quantity which it has in comparison with its subject, here is the place to consider whether it can decrease in this way. Now, if it decrease, this must needs be either through an act, or by the mere cessation from act. It is true that virtues acquired through acts decrease and sometimes cease altogether through cessation from act, as stated above ([2523]FS, Q[53], A[3]). Wherefore the Philosopher says, in reference to friendship (Ethic. viii, 5) "that want of intercourse," i.e. the neglect to call upon or speak with one's friends, "has destroyed many a friendship." Now this is because the safe-keeping of a thing depends on its cause, and the cause of human virtue is a human act, so that when human acts cease, the virtue acquired thereby decreases and at last ceases altogether. Yet this does not occur to charity, because it is not the result of human acts, but is caused by God alone, as stated above [2524](A[2]). Hence it follows that even when its act ceases, it does not for this reason decrease, or cease altogether, unless the cessation involves a sin.
@@ -16,7 +23,11 @@ It follows, therefore, that if charity decrease, the cause of this decrease must
 In like manner, neither can venial sin diminish charity either effectively or by way of merit. Not effectively, because it does not touch charity, since charity is about the last end, whereas venial sin is a disorder about things directed to the end: and a man's love for the end is none the less through his committing an inordinate act as regards the things directed to the end. Thus sick people sometimes, though they love health much, are irregular in keeping to their diet: and thus again, in speculative sciences, the false opinions that are derived from the principles, do not diminish the certitude of the principles. So too, venial sin does not merit diminution of charity; for when a man offends in a small matter he does not deserve to be mulcted in a great matter. For God does not turn away from man, more than man turns away from Him: wherefore he that is out of order in respect of things directed to the end, does not deserve to be mulcted in charity whereby he is ordered to the last end.
 
 The consequence is that charity can by no means be diminished, if we speak of direct causality, yet whatever disposes to its corruption may be said to conduce indirectly to its diminution, and such are venial sins, or even the cessation from the practice of works of charity.
+
 ## Replies
+
 Reply to Objection 1: Contraries affect the same subject when that subject stands in equal relation to both. But charity does not stand in equal relation to increase and decrease. For it can have a cause of increase, but not of decrease, as stated above. Hence the argument does not prove.
+
 Reply to Objection 2: Cupidity is twofold, one whereby man places his end in creatures, and this kills charity altogether, since it is its poison, as Augustine states (Confess. x). This makes us love God less (i.e. less than we ought to love Him by charity), not indeed by diminishing charity but by destroying it altogether. It is thus that we must understand the saying: "He loves Thee less, who loves aught beside Thee," for he adds these words, "which he loveth not for Thee." This does not apply to venial sin, but only to mortal sin: since that which we love in venial sin, is loved for God's sake habitually though not actually. There is another cupidity, that of venial sin, which is always diminished by charity: and yet this cupidity cannot diminish charity, for the reason given above.
+
 Reply to Objection 3: A movement of the free-will is requisite in the infusion of charity, as stated above ([2526]FS, Q[113], A[3]). Wherefore that which diminishes the intensity of the free-will conduces dispositively to a diminution in the charity to be infused. On the other hand, no movement of the free-will is required for the safe-keeping of charity, else it would not remain inn us while we sleep. Hence charity does not decrease on account of an obstacle on the part of the intensity of the free-will's movement.

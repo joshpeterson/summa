@@ -1,20 +1,35 @@
 # Whether Man In His First State Could Be Deceived?
+
 ## Objections
+
 Objection 1: It would seem that man in his primitive state could have been deceived. For the Apostle says (1 Tim. 2:14) that "the woman being seduced was in the transgression."
+
 Objection 2: Further, the Master says (Sent. ii, D, xxi) that, "the woman was not frightened at the serpent speaking, because she thought that he had received the faculty of speech from God." But this was untrue. Therefore before sin the woman was deceived.
+
 Objection 3: Further, it is natural that the farther off anything is from us, the smaller it seems to be. Now, the nature of the eyes is not changed by sin. Therefore this would have been the case in the state of innocence. Wherefore man would have been deceived in the size of what he saw, just as he is deceived now.
+
 Objection 4: Further, Augustine says (Gen. ad lit. xii, 2) that, in sleep the soul adheres to the images of things as if they were the things themselves. But in the state of innocence man would have eaten and consequently have slept and dreamed. Therefore he would have been deceived, adhering to images as to realities.
+
 Objection 5: Further, the first man would have been ignorant of other men's thoughts, and of future contingent events, as stated above [794](A[3]). So if anyone had told him what was false about these things, he would have been deceived.
+
 ## Answer
+
 On the contrary, Augustine says (De Lib. Arb. iii, 18): "To regard what is true as false, is not natural to man as created; but is a punishment of man condemned."
+
 I answer that, in the opinion of some, deception may mean two things; namely, any slight surmise, in which one adheres to what is false, as though it were true, but without the assent of belief---or it may mean a firm belief. Thus before sin Adam could not be deceived in either of these ways as regards those things to which his knowledge extended; but as regards things to which his knowledge did not extend, he might have been deceived, if we take deception in the wide sense of the term for any surmise without assent of belief. This opinion was held with the idea that it is not derogatory to man to entertain a false opinion in such matters, and that provided he does not assent rashly, he is not to be blamed.
 
 Such an opinion, however, is not fitting as regards the integrity of the primitive state of life; because, as Augustine says (De Civ. Dei xiv, 10), in that state of life "sin was avoided without struggle, and while it remained so, no evil could exist." Now it is clear that as truth is the good of the intellect, so falsehood is its evil, as the Philosopher says (Ethic. vi, 2). So that, as long as the state of innocence continued, it was impossible for the human intellect to assent to falsehood as if it were truth. For as some perfections, such as clarity, were lacking in the bodily members of the first man, though no evil could be therein; so there could be in his intellect the absence of some knowledge, but no false opinion.
 
 This is clear also from the very rectitude of the primitive state, by virtue of which, while the soul remained subject to God, the lower faculties in man were subject to the higher, and were no impediment to their action. And from what has preceded ([795]Q[85], A[6]), it is clear that as regards its proper object the intellect is ever true; and hence it is never deceived of itself; but whatever deception occurs must be ascribed to some lower faculty, such as the imagination or the like. Hence we see that when the natural power of judgment is free we are not deceived by such images, but only when it is not free, as is the case in sleep. Therefore it is clear that the rectitude of the primitive state was incompatible with deception of the intellect.
+
 ## Replies
+
 Reply to Objection 1: Though the woman was deceived before she sinned in deed, still it was not till she had already sinned by interior pride. For Augustine says (Gen. ad lit. xi, 30) that "the woman could not have believed the words of the serpent, had she not already acquiesced in the love of her own power, and in a presumption of self-conceit."
+
 Reply to Objection 2: The woman thought that the serpent had received this faculty, not as acting in accordance with nature, but by virtue of some supernatural operation. We need not, however, follow the Master of the Sentences in this point.
+
 Reply to Objection 3: Were anything presented to the imagination or sense of the first man, not in accordance with the nature of things, he would not have been deceived, for his reason would have enabled him to judge the truth.
+
 Reply to Objection 4: A man is not accountable for what occurs during sleep; as he has not then the use of his reason, wherein consists man's proper action.
+
 Reply to Objection 5: If anyone had said something untrue as regards future contingencies, or as regards secret thoughts, man in the primitive state would not have believed it was so: but he might have believed that such a thing was possible; which would not have been to entertain a false opinion.

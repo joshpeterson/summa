@@ -1,16 +1,27 @@
 # Whether One Can Be Happy In This Life?
+
 ## Objections
+
 Objection 1: It would seem that Happiness can be had in this life. For it is written (Ps. 118:1): "Blessed are the undefiled in the way, who walk in the law of the Lord." But this happens in this life. Therefore one can be happy in this life.
+
 Objection 2: Further, imperfect participation in the Sovereign Good does not destroy the nature of Happiness, otherwise one would not be happier than another. But men can participate in the Sovereign Good in this life, by knowing and loving God, albeit imperfectly. Therefore man can be happy in this life.
+
 Objection 3: Further, what is said by many cannot be altogether false: since what is in many, comes, apparently, from nature; and nature does not fail altogether. Now many say that Happiness can be had in this life, as appears from Ps. 143:15: "They have called the people happy that hath these things," to wit, the good things in this life. Therefore one can be happy in this life.
+
 ## Answer
+
 On the contrary, It is written (Job 14:1): "Man born of a woman, living for a short time, is filled with many miseries." But Happiness excludes misery. Therefore man cannot be happy in this life.
+
 I answer that, A certain participation of Happiness can be had in this life: but perfect and true Happiness cannot be had in this life. This may be seen from a twofold consideration.
 
 First, from the general notion of happiness. For since happiness is a "perfect and sufficient good," it excludes every evil, and fulfils every desire. But in this life every evil cannot be excluded. For this present life is subject to many unavoidable evils; to ignorance on the part of the intellect; to inordinate affection on the part of the appetite, and to many penalties on the part of the body; as Augustine sets forth in De Civ. Dei xix, 4. Likewise neither can the desire for good be satiated in this life. For man naturally desires the good, which he has, to be abiding. Now the goods of the present life pass away; since life itself passes away, which we naturally desire to have, and would wish to hold abidingly, for man naturally shrinks from death. Wherefore it is impossible to have true Happiness in this life.
 
 Secondly, from a consideration of the specific nature of Happiness, viz. the vision of the Divine Essence, which man cannot obtain in this life, as was shown in the [1035]FP, Q[12], A[11]. Hence it is evident that none can attain true and perfect Happiness in this life.
+
 ## Replies
+
 Reply to Objection 1: Some are said to be happy in this life, either on account of the hope of obtaining Happiness in the life to come, according to Rom. 8:24: "We are saved by hope"; or on account of a certain participation of Happiness, by reason of a kind of enjoyment of the Sovereign Good.
+
 Reply to Objection 2: The imperfection of participated Happiness is due to one of two causes. First, on the part of the object of Happiness, which is not seen in Its Essence: and this imperfection destroys the nature of true Happiness. Secondly, the imperfection may be on the part of the participator, who indeed attains the object of Happiness, in itself, namely, God: imperfectly, however, in comparison with the way in which God enjoys Himself. This imperfection does not destroy the true nature of Happiness; because, since Happiness is an operation, as stated above ([1036]Q[3], A[2]), the true nature of Happiness is taken from the object, which specifies the act, and not from the subject.
+
 Reply to Objection 3: Men esteem that there is some kind of happiness to be had in this life, on account of a certain likeness to true Happiness. And thus they do not fail altogether in their estimate.

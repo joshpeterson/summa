@@ -1,12 +1,23 @@
 # Whether A Sacrament Is A Kind Of Sign?
+
 ## Objections
+
 Objection 1: It seems that a sacrament is not a kind of sign. For sacrament appears to be derived from "sacring" [sacrando]; just as medicament, from "medicando" [healing]. But this seems to be of the nature of a cause rather than of a sign. Therefore a sacrament is a kind of cause rather than a kind of sign.
+
 Objection 2: Further, sacrament seems to signify something hidden, according to Tob. 12:7: "It is good to hide the secret [sacramentum] of a king"; and Eph. 3:9: "What is the dispensation of the mystery [sacramenti] which hath been hidden from eternity in God." But that which is hidden, seems foreign to the nature of a sign; for "a sign is that which conveys something else to the mind, besides the species which it impresses on the senses," as Augustine explains (De Doctr. Christ. ii). Therefore it seems that a sacrament is not a kind of sign.
+
 Objection 3: Further, an oath is sometimes called a sacrament: for it is written in the Decretals (Caus. xxii, qu. 5): "Children who have not attained the use of reason must not be obliged to swear: and whoever has foresworn himself once, must no more be a witness, nor be allowed to take a sacrament," i.e. an oath. But an oath is not a kind of sign, therefore it seems that a sacrament is not a kind of sign.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei x): "The visible sacrifice is the sacrament, i.e. the sacred sign, of the invisible sacrifice."
+
 I answer that, All things that are ordained to one, even in different ways, can be denominated from it: thus, from health which is in an animal, not only is the animal said to be healthy through being the subject of health: but medicine also is said to be healthy through producing health; diet through preserving it; and urine, through being a sign of health. Consequently, a thing may be called a "sacrament," either from having a certain hidden sanctity, and in this sense a sacrament is a "sacred secret"; or from having some relationship to this sanctity, which relationship may be that of a cause, or of a sign or of any other relation. But now we are speaking of sacraments in a special sense, as implying the habitude of sign: and in this way a sacrament is a kind of sign.
+
 ## Replies
+
 Reply to Objection 1: Because medicine is an efficient cause of health, consequently whatever things are denominated from medicine are to be referred to some first active cause: so that a medicament implies a certain causality. But sanctity from which a sacrament is denominated, is not there taken as an efficient cause, but rather as a formal or a final cause. Therefore it does not follow that a sacrament need always imply causality.
+
 Reply to Objection 2: This argument considers sacrament in the sense of a "sacred secret." Now not only God's but also the king's, secret, is said to be sacred and to be a sacrament: because according to the ancients, whatever it was unlawful to lay violent hands on was said to be holy or sacrosanct, such as the city walls, and persons of high rank. Consequently those secrets, whether Divine or human, which it is unlawful to violate by making them known to anybody whatever, are called "sacred secrets or sacraments."
+
 Reply to Objection 3: Even an oath has a certain relation to sacred things, in so far as it consists in calling a sacred thing to witness. And in this sense it is called a sacrament: not in the sense in which we speak of sacraments now; the word "sacrament" being thus used not equivocally but analogically, i.e. by reason of a different relation to the one thing, viz. something sacred.

@@ -1,12 +1,23 @@
 # Whether Anger Above All Hinders The Use Of Reason?
+
 ## Objections
+
 Objection 1: It would seem that anger does not hinder the use of reason. Because that which presupposes an act of reason, does not seem to hinder the use of reason. But "anger listens to reason," as stated in Ethic. vii, 6. Therefore anger does not hinder reason.
+
 Objection 2: Further, the more the reason is hindered, the less does a man show his thoughts. But the Philosopher says (Ethic. vii, 6) that "an angry man is not cunning but is open." Therefore anger does not seem to hinder the use of reason, as desire does; for desire is cunning, as he also states (Ethic. vii, 6.).
+
 Objection 3: Further, the judgment of reason becomes more evident by juxtaposition of the contrary: because contraries stand out more clearly when placed beside one another. But this also increases anger: for the Philosopher says (Rhet. ii, 2) that "men are more angry if they receive unwonted treatment; for instance, honorable men, if they be dishonored": and so forth. Therefore the same cause increases anger, and facilitates the judgment of reason. Therefore anger does not hinder the judgment of reason.
+
 ## Answer
+
 On the contrary, Gregory says (Moral. v, 30) that anger "withdraws the light of understanding, while by agitating it troubles the mind."
+
 I answer that, Although the mind or reason makes no use of a bodily organ in its proper act, yet, since it needs certain sensitive powers for the execution of its act, the acts of which powers are hindered when the body is disturbed, it follows of necessity that any disturbance in the body hinders even the judgment of reason; as is clear in the case of drunkenness or sleep. Now it has been stated [1436](A[2]) that anger, above all, causes a bodily disturbance in the region of the heart, so much as to effect even the outward members. Consequently, of all the passions, anger is the most manifest obstacle to the judgment of reason, according to Ps. 30:10: "My eye is troubled with wrath."
+
 ## Replies
+
 Reply to Objection 1: The beginning of anger is in the reason, as regards the appetitive movement, which is the formal element of anger. But the passion of anger forestalls the perfect judgment of reason, as though it listened but imperfectly to reason, on account of the commotion of the heat urging to instant action, which commotion is the material element of anger. In this respect it hinders the judgment of reason.
+
 Reply to Objection 2: An angry man is said to be open, not because it is clear to him what he ought to do, but because he acts openly, without thought of hiding himself. This is due partly to the reason being hindered, so as not to discern what should be hidden and what done openly, nor to devise the means of hiding; and partly to the dilatation of the heart which pertains to magnanimity which is an effect of anger: wherefore the Philosopher says of the magnanimous man (Ethic. iv, 3) that "he is open in his hatreds and his friendships . . . and speaks and acts openly." Desire, on the other hand, is said to lie low and to be cunning, because, in many cases, the pleasurable things that are desired, savor of shame and voluptuousness, wherein man wishes not to be seen. But in those things that savor of manliness and excellence, such as matters of vengeance, man seeks to be in the open.
+
 Reply to Objection 3: As stated above (ad 1), the movement of anger begins in the reason, wherefore the juxtaposition of one contrary with another facilitates the judgment of reason, on the same grounds as it increases anger. For when a man who is possessed of honor or wealth, suffers a loss therein, the loss seems all the greater, both on account of the contrast, and because it was unforeseen. Consequently it causes greater grief: just as a great good, through being received unexpectedly, causes greater delight. And in proportion to the increase of the grief that precedes, anger is increased also.

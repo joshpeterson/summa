@@ -1,14 +1,25 @@
 # Whether Schism Is A Special Sin?
+
 ## Objections
+
 Objection 1: It would seem that schism is not a special sin. For "schism," as Pope Pelagius I says (Epist. ad Victor. et Pancrat.), "denotes a division." But every sin causes a division, according to Is. 59:: "Your sins have divided between you and your God." Therefore schism is not a special sin.
+
 Objection 2: Further, a man is apparently a schismatic if he disobeys the Church. But every sin makes a man disobey the commandments of the Church, because sin, according to Ambrose (De Parad. viii) "is disobedience against the heavenly commandments." Therefore every sin is a schism.
+
 Objection 3: Further, heresy also divides a man from the unity of faith. If, therefore, the word schism denotes a division, it would seem not to differ, as a special sin, from the sin of unbelief.
+
 ## Answer
+
 On the contrary, Augustine (Contra Faust. xx, 3; Contra Crescon. ii, 4) distinguishes between schism and heresy, for he says that a "schismatic is one who holds the same faith, and practises the same worship, as others, and takes pleasure in the mere disunion of the community, whereas a heretic is one who holds another faith from that of the Catholic Church." Therefore schism is not a generic sin.
+
 I answer that, As Isidore says (Etym. viii, 3), schism takes its name "from being a scission of minds," and scission is opposed to unity. Wherefore the sin of schism is one that is directly and essentially opposed to unity. For in the moral, as in the physical order, the species is not constituted by that which is accidental. Now, in the moral order, the essential is that which is intended, and that which results beside the intention, is, as it were, accidental. Hence the sin of schism is, properly speaking, a special sin, for the reason that the schismatic intends to sever himself from that unity which is the effect of charity: because charity unites not only one person to another with the bond of spiritual love, but also the whole Church in unity of spirit.
 
 Accordingly schismatics properly so called are those who, wilfully and intentionally separate themselves from the unity of the Church; for this is the chief unity, and the particular unity of several individuals among themselves is subordinate to the unity of the Church, even as the mutual adaptation of each member of a natural body is subordinate to the unity of the whole body. Now the unity of the Church consists in two things; namely, in the mutual connection or communion of the members of the Church, and again in the subordination of all the members of the Church to the one head, according to Col. 2:18,19: "Puffed up by the sense of his flesh, and not holding the Head, from which the whole body, by joints and bands, being supplied with nourishment and compacted, groweth unto the increase of God." Now this Head is Christ Himself, Whose viceregent in the Church is the Sovereign Pontiff. Wherefore schismatics are those who refuse to submit to the Sovereign Pontiff, and to hold communion with those members of the Church who acknowledge his supremacy.
+
 ## Replies
+
 Reply to Objection 1: The division between man and God that results from sin is not intended by the sinner: it happens beside his intention as a result of his turning inordinately to a mutable good, and so it is not schism properly so called.
+
 Reply to Objection 2: The essence of schism consists in rebelliously disobeying the commandments: and I say "rebelliously," since a schismatic both obstinately scorns the commandments of the Church, and refuses to submit to her judgment. But every sinner does not do this, wherefore not every sin is a schism.
+
 Reply to Objection 3: Heresy and schism are distinguished in respect of those things to which each is opposed essentially and directly. For heresy is essentially opposed to faith, while schism is essentially opposed to the unity of ecclesiastical charity. Wherefore just as faith and charity are different virtues, although whoever lacks faith lacks charity, so too schism and heresy are different vices, although whoever is a heretic is also a schismatic, but not conversely. This is what Jerome says in his commentary on the Epistle to the Galatians [*In Ep. ad Tit. iii, 10]: "I consider the difference between schism and heresy to be that heresy holds false doctrine while schism severs a man from the Church." Nevertheless, just as the loss of charity is the road to the loss of faith, according to 1 Tim. 1:6: "From which things," i.e. charity and the like, "some going astray, are turned aside into vain babbling," so too, schism is the road to heresy. Wherefore Jerome adds (In Ep. ad Tit. iii, 10) that "at the outset it is possible, in a certain respect, to find a difference between schism and heresy: yet there is no schism that does not devise some heresy for itself, that it may appear to have had a reason for separating from the Church."

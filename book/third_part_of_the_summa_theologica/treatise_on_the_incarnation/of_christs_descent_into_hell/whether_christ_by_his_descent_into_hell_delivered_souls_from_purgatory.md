@@ -1,12 +1,23 @@
 # Whether Christ By His Descent Into Hell Delivered Souls From Purgatory?
+
 ## Objections
+
 Objection 1: It would seem that Christ by His descent into hell delivered souls from Purgatory---for Augustine says (Ep. ad Evod. clxiv): "Because evident testimonies speak of hell and its pains, there is no reason for believing that the Saviour came thither except to rescue men from those same pains: but I still wish to know whether it was all whom He found there, or some whom He deemed worthy of such a benefit. Yet I do not doubt that Christ went into hell, and granted this favor to them who were suffering from its pains." But, as stated above [4288](A[6]), He did not confer the benefit of deliverance upon the lost: and there are no others in a state of penal suffering except those in Purgatory. Consequently Christ delivered souls from Purgatory.
+
 Objection 2: Further, the very presence of Christ's soul had no less effect than His sacraments have. But souls are delivered from Purgatory by the sacraments, especially by the sacrament of the Eucharist, as shall be shown later ([4289]XP, Q[71], A[9]). Therefore much more were souls delivered from Purgatory by the presence of Christ descending into hell.
+
 Objection 3: Further, as Augustine says (De Poenit. ix), those whom Christ healed in this life He healed completely. Also, our Lord says (Jn. 7:23): "I have healed the whole man on the sabbath-day." But Christ delivered them who were in Purgatory from the punishment of the pain of loss, whereby they were excluded from glory. Therefore, He also delivered them from the punishment of Purgatory.
+
 ## Answer
+
 On the contrary, Gregory says (Moral. xiii): "Since our Creator and Redeemer, penetrating the bars of hell, brought out from thence the souls of the elect, He does not permit us to go thither, from whence He has already by descending set others free." But He permits us to go to Purgatory. Therefore, by descending into hell, He did not deliver souls from Purgatory.
+
 I answer that, As we have stated more than once (A[4], ad 2, AA[5],6,7), Christ's descent into hell was one of deliverance in virtue of His Passion. Now Christ's Passion had a virtue which was neither temporal nor transitory, but everlasting, according to Heb. 10:14: "For by one oblation He hath perfected for ever them that are sanctified." And so it is evident that Christ's Passion had no greater efficacy then than it has now. Consequently, they who were such as those who are now in Purgatory, were not set free from Purgatory by Christ's descent into hell. But if any were found such as are now set free from Purgatory by virtue of Christ's Passion, then there was nothing to hinder them from being delivered from Purgatory by Christ's descent into hell.
+
 ## Replies
+
 Reply to Objection 1: From this passage of Augustine it cannot be concluded that all who were in Purgatory were delivered from it, but that such a benefit was bestowed upon some persons, that is to say, upon such as were already cleansed sufficiently, or who in life, by their faith and devotion towards Christ's death, so merited, that when He descended, they were delivered from the temporal punishment of Purgatory.
+
 Reply to Objection 2: Christ's power operates in the sacraments by way of healing and expiation. Consequently, the sacrament of the Eucharist delivers men from Purgatory inasmuch as it is a satisfactory sacrifice for sin. But Christ's descent into hell was not satisfactory; yet it operated in virtue of the Passion, which was satisfactory, as stated above ([4290]Q[48], A[2]), but satisfactory in general, since its virtue had to be applied to each individual by something specially personal ([4291]Q[49], A[1], ad 4,5). Consequently, it does not follow of necessity that all were delivered from Purgatory by Christ's descent into hell.
+
 Reply to Objection 3: Those defects from which Christ altogether delivered men in this world were purely personal, and concerned the individual; whereas exclusion from God's glory was a general defect and common to all human nature. Consequently, there was nothing to prevent those detained in Purgatory being delivered by Christ from their privation of glory, but not from the debt of punishment in Purgatory which pertains to personal defect. Just as on the other hand, the holy Fathers before Christ's coming were delivered from their personal defects, but not from the common defect, as was stated above (A[7], ad 1;[4292] Q[49], A[5], ad 1).

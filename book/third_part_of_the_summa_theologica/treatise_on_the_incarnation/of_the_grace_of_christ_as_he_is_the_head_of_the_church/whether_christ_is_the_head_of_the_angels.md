@@ -1,12 +1,23 @@
 # Whether Christ Is The Head Of The Angels?
+
 ## Objections
+
 Objection 1: It would seem that Christ as man is not the head of the angels. For the head and members are of one nature. But Christ as man is not of the same nature with the angels, but only with men, since, as is written (Heb. 2:16): "For nowhere doth He take hold of the angels, but of the seed of Abraham He taketh hold." Therefore Christ as man is not the head of the angels.
+
 Objection 2: Further, Christ is the head of such as belong to the Church, which is His Body, as is written (Eph. 1:23). But the angels do not belong to the Church. For the Church is the congregation of the faithful: and in the angels there is no faith, for they do not "walk by faith" but "by sight," otherwise they would be "absent from the Lord," as the Apostle argues (2 Cor. 5:6,7). Therefore Christ as man is not head of the angels.
+
 Objection 3: Further, Augustine says (Tract. xix; xxiii in Joan.), that as "the Word" which "was in the beginning with the Father" quickens souls, so the "Word made flesh" quickens bodies, which angels lack. But the Word made flesh is Christ as man. Therefore Christ as man does not give life to angels, and hence as man He is not the head of the angels.
+
 ## Answer
+
 On the contrary, The Apostle says (Col. 2:10), "Who is the head of all Principality and Power," and the same reason holds good with the other orders of angels. Therefore Christ is the Head of the angels.
+
 I answer that, As was said above (A[1], ad 2), where there is one body we must allow that there is one head. Now a multitude ordained to one end, with distinct acts and duties, may be metaphorically called one body. But it is manifest that both men and angels are ordained to one end, which is the glory of the Divine fruition. Hence the mystical body of the Church consists not only of men but of angels. Now of all this multitude Christ is the Head, since He is nearer God, and shares His gifts more fully, not only than man, but even than angels; and of His influence not only men but even angels partake, since it is written (Eph. 1:20-22): that God the Father set "Him," namely Christ, "on His right hand in the heavenly places, above all Principality and Power and Virtue and Dominion and every name that is named not only in this world, but also in that which is to come. And He hath subjected all things under His feet." Therefore Christ is not only the Head of men, but of angels. Hence we read (Mat. 4:11) that "angels came and ministered to Him."
+
 ## Replies
+
 Reply to Objection 1: Christ's influence over men is chiefly with regard to their souls; wherein men agree with angels in generic nature, though not in specific nature. By reason of this agreement Christ can be said to be the Head of the angels, although the agreement falls short as regards the body.
+
 Reply to Objection 2: The Church, on earth, is the congregation of the faithful; but, in heaven, it is the congregation of comprehensors. Now Christ was not merely a wayfarer, but a comprehensor. And therefore He is the Head not merely of the faithful, but of comprehensors, as having grace and glory most fully.
+
 Reply to Objection 3: Augustine here uses the similitude of cause and effect, i.e. inasmuch as corporeal things act on bodies, and spiritual things on spiritual things. Nevertheless, the humanity of Christ, by virtue of the spiritual nature, i.e. the Divine, can cause something not only in the spirits of men, but also in the spirits of angels, on account of its most close conjunction with God, i.e. by personal union.

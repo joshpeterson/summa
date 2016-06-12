@@ -1,12 +1,23 @@
 # Whether Circumcision Was A Preparation For, And A Figure Of Baptism?
+
 ## Objections
+
 Objection 1: It seems that circumcision was not a preparation for, and a figure of Baptism. For every figure has some likeness to that which it foreshadows. But circumcision has no likeness to Baptism. Therefore it seems that it was not a preparation for, and a figure of Baptism.
+
 Objection 2: Further, the Apostle, speaking of the Fathers of old, says (1 Cor. 10:2), that "all were baptized in the cloud, and in the sea": but not that they were baptized in circumcision. Therefore the protecting pillar of a cloud, and the crossing of the Red Sea, rather than circumcision, were a preparation for, and a figure of Baptism.
+
 Objection 3: Further, it was stated above ([4469]Q[38], AA[1],3) that the baptism of John was a preparation for Christ's. Consequently, if circumcision was a preparation for, and a figure of Christ's Baptism, it seems that John's baptism was superfluous: which is unseemly. Therefore circumcision was not a preparation for, and a figure of Baptism.
+
 ## Answer
+
 On the contrary, The Apostle says (Col. 2:11,12): "You are circumcised with circumcision, not made by hand in despoiling the body of the flesh, but in the circumcision of Christ, buried with Him in Baptism."
+
 I answer that, Baptism is called the Sacrament of Faith; in so far, to wit, as in Baptism man makes a profession of faith, and by Baptism is aggregated to the congregation of the faithful. Now our faith is the same as that of the Fathers of old, according to the Apostle (2 Cor. 4:13): "Having the same spirit of faith . . . we . . . believe." But circumcision was a protestation of faith; wherefore by circumcision also men of old were aggregated to the body of the faithful. Consequently, it is manifest that circumcision was a preparation for Baptism and a figure thereof, forasmuch as "all things happened" to the Fathers of old "in figure" (1 Cor. 10:11); just as their faith regarded things to come.
+
 ## Replies
+
 Reply to Objection 1: Circumcision was like Baptism as to the spiritual effect of the latter. For just as circumcision removed a carnal pellicule, so Baptism despoils man of carnal behavior.
+
 Reply to Objection 2: The protecting pillar of cloud and the crossing of the Red Sea were indeed figures of our Baptism, whereby we are born again of water, signified by the Red Sea; and of the Holy Ghost, signified by the pillar of cloud: yet man did not make, by means of these, a profession of faith, as by circumcision; so that these two things were figures but not sacraments. But circumcision was a sacrament, and a preparation for Baptism; although less clearly figurative of Baptism, as to externals, than the aforesaid. And for this reason the Apostle mentions them rather than circumcision.
+
 Reply to Objection 3: John's baptism was a preparation for Christ's as to the act done: but circumcision, as to the profession of faith, which is required in Baptism, as stated above.

@@ -1,14 +1,25 @@
 # Whether "Epikeia" Is A Part Of Justice?
+
 ## Objections
+
 Objection 1: It seems that "epikeia" is not a part of justice. For, as stated above ([3262]Q[58], A[7]), justice is twofold, particular and legal. Now "epikeia" is not a part of particular justice, since it extends to all virtues, even as legal justice does. In like manner, neither is it a part of legal justice, since its operation is beside that which is established by law. Therefore it seems that "epikeia" is not a part of justice.
+
 Objection 2: Further, a more principal virtue is not assigned as the part of a less principal virtue: for it is to the cardinal virtue, as being principal, that secondary virtues are assigned as parts. Now "epikeia" seems to be a more principal virtue than justice, as implied by its name: for it is derived from {epi}, i.e. "above," and {dikaion}, i.e. "just." Therefore "epikeia" is not a part of justice.
+
 Objection 3: Further, it seems that "epikeia" is the same as modesty. For where the Apostle says (Phil. 4:5), "Let your modesty be known to all men," the Greek has {epieikeia} [*{to epieikes}]. Now, according to Tully (De Invent. Rhet. ii), modesty is a part of temperance. Therefore "epikeia" is not a part of justice.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. v, 10) that "epikeia is a kind of justice."
+
 I answer that, As stated above ([3263]Q[48]), a virtue has three kinds of parts, subjective, integral, and potential. A subjective part is one of which the whole is predicated essentially, and it is less than the whole. This may happen in two ways. For sometimes one thing is predicated of many in one common ratio, as animal of horse and ox: and sometimes one thing is predicated of many according to priority and posteriority, as "being" of substance and accident.
 
 Accordingly, "epikeia" is a part of justice taken in a general sense, for it is a kind of justice, as the Philosopher states (Ethic. v, 10). Wherefore it is evident that "epikeia" is a subjective part of justice; and justice is predicated of it with priority to being predicated of legal justice, since legal justice is subject to the direction of "epikeia." Hence "epikeia" is by way of being a higher rule of human actions.
+
 ## Replies
+
 Reply to Objection 1: Epikeia corresponds properly to legal justice, and in one way is contained under it, and in another way exceeds it. For if legal justice denotes that which complies with the law, whether as regards the letter of the law, or as regards the intention of the lawgiver, which is of more account, then "epikeia" is the more important part of legal justice. But if legal justice denote merely that which complies with the law with regard to the letter, then "epikeia" is a part not of legal justice but of justice in its general acceptation, and is condivided with legal justice, as exceeding it.
+
 Reply to Objection 2: As the Philosopher states (Ethic. v, 10), "epikeia is better than a certain," namely, legal, "justice," which observes the letter of the law: yet since it is itself a kind of justice, it is not better than all justice.
+
 Reply to Objection 3: It belongs to "epikeia" to moderate something, namely, the observance of the letter of the law. But modesty, which is reckoned a part of temperance, moderates man's outward life---for instance, in his deportment, dress or the like. Possibly also the term {epieikeia} is applied in Greek by a similitude to all kinds of moderation.

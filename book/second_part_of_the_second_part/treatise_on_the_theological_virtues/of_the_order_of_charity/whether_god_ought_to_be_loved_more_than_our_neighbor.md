@@ -1,14 +1,25 @@
 # Whether God Ought To Be Loved More Than Our Neighbor?
+
 ## Objections
+
 Objection 1: It would seem that God ought not to be loved more than our neighbor. For it is written (1 Jn. 4:20): "He that loveth not his brother whom he seeth, how can he love God, Whom he seeth not?" Whence it seems to follow that the more a thing is visible the more lovable it is, since loving begins with seeing, according to Ethic. ix, 5,12. Now God is less visible than our neighbor. Therefore He is less lovable, out of charity, than our neighbor.
+
 Objection 2: Further, likeness causes love, according to Ecclus. 13:19: "Every beast loveth its like." Now man bears more likeness to his neighbor than to God. Therefore man loves his neighbor, out of charity, more than he loves God.
+
 Objection 3: Further, what charity loves in a neighbor, is God, according to Augustine (De Doctr. Christ. i, 22,27). Now God is not greater in Himself than He is in our neighbor. Therefore He is not more to be loved in Himself than in our neighbor. Therefore we ought not to love God more than our neighbor.
+
 ## Answer
+
 On the contrary, A thing ought to be loved more, if others ought to be hated on its account. Now we ought to hate our neighbor for God's sake, if, to wit, he leads us astray from God, according to Lk. 14:26: "If any man come to Me and hate not his father, and mother, and wife, end children, and brethren, and sisters . . . he cannot be My disciple." Therefore we ought to love God, out of charity, more than our neighbor.
+
 I answer that, Each kind of friendship regards chiefly the subject in which we chiefly find the good on the fellowship of which that friendship is based: thus civil friendship regards chiefly the ruler of the state, on whom the entire common good of the state depends; hence to him before all, the citizens owe fidelity and obedience. Now the friendship of charity is based on the fellowship of happiness, which consists essentially in God, as the First Principle, whence it flows to all who are capable of happiness.
 
 Therefore God ought to be loved chiefly and before all out of charity: for He is loved as the cause of happiness, whereas our neighbor is loved as receiving together with us a share of happiness from Him.
+
 ## Replies
+
 Reply to Objection 1: A thing is a cause of love in two ways: first, as being the reason for loving. In this way good is the cause of love, since each thing is loved according to its measure of goodness. Secondly, a thing causes love, as being a way to acquire love. It is in this way that seeing is the cause of loving, not as though a thing were lovable according as it is visible, but because by seeing a thing we are led to love it. Hence it does not follow that what is more visible is more lovable, but that as an object of love we meet with it before others: and that is the sense of the Apostle's argument. For, since our neighbor is more visible to us, he is the first lovable object we meet with, because "the soul learns, from those things it knows, to love what it knows not," as Gregory says in a homily (In Evang. xi). Hence it can be argued that, if any man loves not his neighbor, neither does he love God, not because his neighbor is more lovable, but because he is the first thing to demand our love: and God is more lovable by reason of His greater goodness.
+
 Reply to Objection 2: The likeness we have to God precedes and causes the likeness we have to our neighbor: because from the very fact that we share along with our neighbor in something received from God, we become like to our neighbor. Hence by reason of this likeness we ought to love God more than we love our neighbor.
+
 Reply to Objection 3: Considered in His substance, God is equally in all, in whomsoever He may be, for He is not lessened by being in anything. And yet our neighbor does not possess God's goodness equally with God, for God has it essentially, and our neighbor by participation.

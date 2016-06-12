@@ -1,12 +1,23 @@
 # Whether It Was Fitting That The Mother Of God Should Go To The Temple To Be Purified?
+
 ## Objections
+
 Objection 1: It would seem that it was unfitting for the Mother of God to go to the Temple to be purified. For purification presupposes uncleanness. But there was no uncleanness in the Blessed Virgin, as stated above (QQ[27],28). Therefore she should not have gone to the Temple to be purified.
+
 Objection 2: Further, it is written (Lev. 12:2-4): "If a woman, having received seed, shall bear a man-child, she shall be unclean seven days"; and consequently she is forbidden "to enter into the sanctuary until the days of her purification be fulfilled." But the Blessed Virgin brought forth a male child without receiving the seed of man. Therefore she had no need to come to the Temple to be purified.
+
 Objection 3: Further, purification from uncleanness is accomplished by grace alone. But the sacraments of the Old Law did not confer grace; rather, indeed, did she have the very Author of grace with her. Therefore it was not fitting that the Blessed Virgin should come to the Temple to be purified.
+
 ## Answer
 
+
+
 I answer that, As the fulness of grace flowed from Christ on to His Mother, so it was becoming that the mother should be like her Son in humility: for "God giveth grace to the humble," as is written James 4:6. And therefore, just as Christ, though not subject to the Law, wished, nevertheless, to submit to circumcision and the other burdens of the Law, in order to give an example of humility and obedience; and in order to show His approval of the Law; and, again, in order to take away from the Jews an excuse for calumniating Him: for the same reasons He wished His Mother also to fulfil the prescriptions of the Law, to which, nevertheless, she was not subject.
+
 ## Replies
+
 Reply to Objection 1: Although the Blessed Virgin had no uncleanness, yet she wished to fulfil the observance of purification, not because she needed it, but on account of the precept of the Law. Thus the Evangelist says pointedly that the days of her purification "according to the Law" were accomplished; for she needed no purification in herself.
+
 Reply to Objection 2: Moses seems to have chosen his words in order to exclude uncleanness from the Mother of God, who was with child "without receiving seed." It is therefore clear that she was not bound to fulfil that precept, but fulfilled the observance of purification of her own accord, as stated above.
+
 Reply to Objection 3: The sacraments of the Law did not cleanse from the uncleanness of sin which is accomplished by grace, but they foreshadowed this purification: for they cleansed by a kind of carnal purification, from the uncleanness of a certain irregularity, as stated in the [4194]FS, Q[102], A[5]; [4195]FS, Q[103], A[2]. But the Blessed Virgin contracted neither uncleanness, and consequently did not need to be purified.

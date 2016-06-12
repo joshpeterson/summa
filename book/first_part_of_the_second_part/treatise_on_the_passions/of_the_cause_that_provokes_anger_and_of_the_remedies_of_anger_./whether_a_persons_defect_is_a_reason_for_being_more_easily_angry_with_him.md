@@ -1,15 +1,25 @@
 # Whether A Person's Defect Is A Reason For Being More Easily Angry With Him?
+
 ## Objections
+
 Objection 1: It would seem that a person's defect is not a reason for being more easily angry with him. For the Philosopher says (Rhet. ii, 3) that "we are not angry with those who confess and repent and humble themselves; on the contrary, we are gentle with them. Wherefore dogs bite not those who sit down." But these things savor of littleness and defect. Therefore littleness of a person is a reason for being less angry with him.
+
 Objection 2: Further, there is no greater defect than death. But anger ceases at the sight of death. Therefore defect of a person does not provoke anger against him.
+
 Objection 3: Further, no one thinks little of a man through his being friendly towards him. But we are more angry with friends, if they offend us or refuse to help us; hence it is written (Ps. 54:13): "If my enemy had reviled me I would verily have borne with it." Therefore a person's defect is not a reason for being more easily angry with him.
+
 ## Answer
+
 On the contrary, The Philosopher says (Rhet. ii, 2) that "the rich man is angry with the poor man, if the latter despise him; and in like manner the prince is angry with his subject."
+
 I answer that, As stated above ([1430]AA[2],3) unmerited contempt more than anything else is a provocative of anger. Consequently deficiency or littleness in the person with whom we are angry, tends to increase our anger, in so far as it adds to the unmeritedness of being despised. For just as the higher a man's position is, the more undeservedly he is despised; so the lower it is, the less reason he has for despising. Thus a nobleman is angry if he be insulted by a peasant; a wise man, if by a fool; a master, if by a servant.
 
 If, however, the littleness or deficiency lessens the unmerited contempt, then it does not increase but lessens anger. In this way those who repent of their ill-deeds, and confess that they have done wrong, who humble themselves and ask pardon, mitigate anger, according to Prov. 15:1: "A mild answer breaketh wrath": because, to wit, they seem not to despise, but rather to think much of those before whom they humble themselves.
 
 This suffices for the Reply to the First Objection.
+
 ## Replies
+
 Reply to Objection 2: There are two reasons why anger ceases at the sight of death. One is because the dead are incapable of sorrow and sensation; and this is chiefly what the angry seek in those with whom they are angered. Another reason is because the dead seem to have attained to the limit of evils. Hence anger ceases in regard to all who are grievously hurt, in so far as this hurt surpasses the measure of just retaliation.
+
 Reply to Objection 3: To be despised by one's friends seems also a greater indignity. Consequently if they despise us by hurting or by failing to help, we are angry with them for the same reason for which we are angry with those who are beneath us.

@@ -1,14 +1,25 @@
 # Whether It Is Becoming To Pray?
+
 ## Objections
+
 Objection 1: It would seem that it is unbecoming to pray. Prayer seems to be necessary in order that we may make our needs known to the person to whom we pray. But according to Mat. 6:32, "Your Father knoweth that you have need of all these things." Therefore it is not becoming to pray to God.
+
 Objection 2: Further, by prayer we bend the mind of the person to whom we pray, so that he may do what is asked of him. But God's mind is unchangeable and inflexible, according to 1 Kings 15:29, "But the Triumpher in Israel will not spare, and will not be moved to repentance." Therefore it is not fitting that we should pray to God.
+
 Objection 3: Further, it is more liberal to give to one that asks not, than to one who asks because, according to Seneca (De Benefic. ii, 1), "nothing is bought more dearly than what is bought with prayers." But God is supremely liberal. Therefore it would seem unbecoming to pray to God.
+
 ## Answer
+
 On the contrary, It is written (Lk. 18:1): "We ought always to pray, and not to faint."
+
 I answer that, Among the ancients there was a threefold error concerning prayer. Some held that human affairs are not ruled by Divine providence; whence it would follow that it is useless to pray and to worship God at all: of these it is written (Malach. 3:14): "You have said: He laboreth in vain that serveth God." Another opinion held that all things, even in human affairs, happen of necessity, whether by reason of the unchangeableness of Divine providence, or through the compelling influence of the stars, or on account of the connection of causes: and this opinion also excluded the utility of prayer. There was a third opinion of those who held that human affairs are indeed ruled by Divine providence, and that they do not happen of necessity; yet they deemed the disposition of Divine providence to be changeable, and that it is changed by prayers and other things pertaining to the worship of God. All these opinions were disproved in the [3009]FP, Q[19], AA[7],8; [3010]FP, Q[22], AA[2],4; [3011]FP, Q[115], A[6]; [3012]FP, Q[116]. Wherefore it behooves us so to account for the utility of prayer as neither to impose necessity on human affairs subject to Divine providence, nor to imply changeableness on the part of the Divine disposition.
 
 In order to throw light on this question we must consider that Divine providence disposes not only what effects shall take place, but also from what causes and in what order these effects shall proceed. Now among other causes human acts are the causes of certain effects. Wherefore it must be that men do certain actions, not that thereby they may change the Divine disposition, but that by those actions they may achieve certain effects according to the order of the Divine disposition: and the same is to be said of natural causes. And so is it with regard to prayer. For we pray not that we may change the Divine disposition, but that we may impetrate that which God has disposed to be fulfilled by our prayers in other words "that by asking, men may deserve to receive what Almighty God from eternity has disposed to give," as Gregory says (Dial. i, 8)
+
 ## Replies
+
 Reply to Objection 1: We need to pray to God, not in order to make known to Him our needs or desires but that we ourselves may be reminded of the necessity of having recourse to God's help in these matters.
+
 Reply to Objection 2: As stated above, our motive in praying is, not Divine disposition, we may change the Divine disposition, but that, by our prayers, we may obtain what God has appointed.
+
 Reply to Objection 3: God bestows many things on us out of His liberality, even without our asking for them: but that He wishes to bestow certain things on us at our asking, is for the sake of our good, namely, that we may acquire confidence in having recourse to God, and that we may recognize in Him the Author of our goods. Hence Chrysostom says [*Implicitly [Hom. ii, de Orat.: Hom. xxx in Genes. ]; Cf. Caten. Aur. on Lk. 18]: "Think what happiness is granted thee, what honor bestowed on thee, when thou conversest with God in prayer, when thou talkest with Christ, when thou askest what thou wilt, whatever thou desirest."

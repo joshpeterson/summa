@@ -1,14 +1,25 @@
 # Whether Fasting Is A Matter Of Precept?
+
 ## Objections
+
 Objection 1: It would seem that fasting is not a matter of precept. For precepts are not given about works of supererogation which are a matter of counsel. Now fasting is a work of supererogation: else it would have to be equally observed at all places and times. Therefore fasting is not a matter of precept.
+
 Objection 2: Further, whoever infringes a precept commits a mortal sin. Therefore if fasting were a matter of precept, all who do not fast would sin mortally, and a widespreading snare would be laid for men.
+
 Objection 3: Further, Augustine says (De Vera Relig. 17) that "the Wisdom of God having taken human nature, and called us to a state of freedom, instituted a few most salutary sacraments whereby the community of the Christian people, that is, of the free multitude, should be bound together in subjection to one God." Now the liberty of the Christian people seems to be hindered by a great number of observances no less than by a great number of sacraments. For Augustine says (Ad inquis. Januar., Ep. lv) that "whereas God in His mercy wished our religion to be distinguished by its freedom and the evidence and small number of its solemn sacraments, some people render it oppressive with slavish burdens." Therefore it seems that the Church should not have made fasting a matter of precept.
+
 ## Answer
+
 On the contrary, Jerome (Ad Lucin., Ep. lxxi) speaking of fasting says: "Let each province keep to its own practice, and look upon the commands of the elders as though they were laws of the apostles." Therefore fasting is a matter of precept.
+
 I answer that, Just as it belongs to the secular authority to make legal precepts which apply the natural law to matters of common weal in temporal affairs, so it belongs to ecclesiastical superiors to prescribe by statute those things that concern the common weal of the faithful in spiritual goods.
 
 Now it has been stated above [3482](A[1]) that fasting is useful as atoning for and preventing sin, and as raising the mind to spiritual things. And everyone is bound by the natural dictate of reason to practice fasting as far as it is necessary for these purposes. Wherefore fasting in general is a matter of precept of the natural law, while the fixing of the time and manner of fasting as becoming and profitable to the Christian people, is a matter of precept of positive law established by ecclesiastical authority: the latter is the Church fast, the former is the fast prescribed by nature.
+
 ## Replies
+
 Reply to Objection 1: Fasting considered in itself denotes something not eligible but penal: yet it becomes eligible in so far as it is useful to some end. Wherefore considered absolutely it is not binding under precept, but it is binding under precept to each one that stands in need of such a remedy. And since men, for the most part, need this remedy, both because "in many things we all offend" (James 3:2), and because "the flesh lusteth against the spirit" (Gal. 5:17), it was fitting that the Church should appoint certain fasts to be kept by all in common. In doing this the Church does not make a precept of a matter of supererogation, but particularizes in detail that which is of general obligation.
+
 Reply to Objection 2: Those commandments which are given under the form of a general precept, do not bind all persons in the same way, but subject to the requirements of the end intended by the lawgiver. It will be a mortal sin to disobey a commandment through contempt of the lawgiver's authority, or to disobey it in such a way as to frustrate the end intended by him: but it is not a mortal sin if one fails to keep a commandment, when there is a reasonable motive, and especially if the lawgiver would not insist on its observance if he were present. Hence it is that not all, who do not keep the fasts of the Church, sin mortally.
+
 Reply to Objection 3: Augustine is speaking there of those things "that are neither contained in the authorities of Holy Scripture, nor found among the ordinances of bishops in council, nor sanctioned by the custom of the universal Church." On the other hand, the fasts that are of obligation are appointed by the councils of bishops and are sanctioned by the custom of the universal Church. Nor are they opposed to the freedom of the faithful, rather are they of use in hindering the slavery of sin, which is opposed to spiritual freedom, of which it is written (Gal. 5:13): "You, brethren, have been called unto liberty; only make not liberty an occasion to the flesh."

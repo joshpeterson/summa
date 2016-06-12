@@ -1,11 +1,19 @@
 # Whether God Is Everywhere By Essence, Presence And Power?
+
 ## Objections
+
 Objection 1: It seems that the mode of God's existence in all things is not properly described by way of essence, presence and power. For what is by essence in anything, is in it essentially. But God is not essentially in things; for He does not belong to the essence of anything. Therefore it ought not to be said that God is in things by essence, presence and power.
+
 Objection 2: Further, to be present in anything means not to be absent from it. Now this is the meaning of God being in things by His essence, that He is not absent from anything. Therefore the presence of God in all things by essence and presence means the same thing. Therefore it is superfluous to say that God is present in things by His essence, presence and power.
+
 Objection 3: Further, as God by His power is the principle of all things, so He is the same likewise by His knowledge and will. But it is not said that He is in things by knowledge and will. Therefore neither is He present by His power.
+
 Objection 4: Further, as grace is a perfection added to the substance of a thing, so many other perfections are likewise added. Therefore if God is said to be in certain persons in a special way by grace, it seems that according to every perfection there ought to be a special mode of God's existence in things.
+
 ## Answer
+
 On the contrary, A gloss on the Canticle of Canticles (5) says that, "God by a common mode is in all things by His presence, power and substance; still He is said to be present more familiarly in some by grace" [*The quotation is from St. Gregory, (Hom. viii in Ezech.)].
+
 I answer that, God is said to be in a thing in two ways; in one way after the manner of an efficient cause; and thus He is in all things created by Him; in another way he is in things as the object of operation is in the operator; and this is proper to the operations of the soul, according as the thing known is in the one who knows; and the thing desired in the one desiring. In this second way God is especially in the rational creature which knows and loves Him actually or habitually. And because the rational creature possesses this prerogative by grace, as will be shown later [40](Q[12]). He is said to be thus in the saints by grace.
 
 But how He is in other things created by Him, may be considered from human affairs. A king, for example, is said to be in the whole kingdom by his power, although he is not everywhere present. Again a thing is said to be by its presence in other things which are subject to its inspection; as things in a house are said to be present to anyone, who nevertheless may not be in substance in every part of the house. Lastly, a thing is said to be by way of substance or essence in that place in which its substance may be. Now there were some (the Manichees) who said that spiritual and incorporeal things were subject to the divine power; but that visible and corporeal things were subject to the power of a contrary principle. Therefore against these it is necessary to say that God is in all things by His power.
@@ -15,8 +23,13 @@ But others, though they believed that all things were subject to the divine powe
 Further, others said that, although all things are subject to God's providence, still all things are not immediately created by God; but that He immediately created the first creatures, and these created the others. Against these it is necessary to say that He is in all things by His essence.
 
 Therefore, God is in all things by His power, inasmuch as all things are subject to His power; He is by His presence in all things, as all things are bare and open to His eyes; He is in all things by His essence, inasmuch as He is present to all as the cause of their being.
+
 ## Replies
+
 Reply to Objection 1: God is said to be in all things by essence, not indeed by the essence of the things themselves, as if He were of their essence; but by His own essence; because His substance is present to all things as the cause of their being.
+
 Reply to Objection 2: A thing can be said to be present to another, when in its sight, though the thing may be distant in substance, as was shown in this article; and therefore two modes of presence are necessary; viz. by essence and by presence.
+
 Reply to Objection 3: Knowledge and will require that the thing known should be in the one who knows, and the thing willed in the one who wills. Hence by knowledge and will things are more truly in God than God in things. But power is the principle of acting on another; hence by power the agent is related and applied to an external thing; thus by power an agent may be said to be present to another.
+
 Reply to Objection 4: No other perfection, except grace, added to substance, renders God present in anything as the object known and loved; therefore only grace constitutes a special mode of God's existence in things. There is, however, another special mode of God's existence in man by union, which will be treated of in its own place (TP).

@@ -1,12 +1,23 @@
 # Whether Men Are Under A Necessity Of Precept To Make Oblations?
+
 ## Objections
+
 Objection 1: It would seem that men are not bound by precept to make oblations. Men are not bound, at the time of the Gospel, to observe the ceremonial precepts of the Old Law, as stated above ([3045]FS, Q[103], AA[3] ,4). Now the offering of oblations is one of the ceremonial precepts of the Old Law, since it is written (Ex. 23:14): "Three times every year you shall celebrate feasts with Me," and further on (Ex. 23:15): "Thou shalt not appear empty before Me." Therefore men are not now under a necessity of precept to make oblations.
+
 Objection 2: Further, before they are made, oblations depend on man's will, as appears from our Lord's saying (Mat. 5:23), "If . . . thou offer thy gift at the altar," as though this were left to the choice of the offerer: and when once oblations have been made, there is no way of offering them again. Therefore in no way is a man under a necessity of precept to make oblations.
+
 Objection 3: Further, if anyone is bound to give a certain thing to the Church, and fails to give it, he can be compelled to do so by being deprived of the Church's sacraments. But it would seem unlawful to refuse the sacraments of the Church to those who refuse to make oblations according to a decree of the sixth council [*Can. Trullan, xxiii], quoted I, qu. i, can. Nullus: "Let none who dispense Holy Communion exact anything of the recipient, and if they exact anything let them be deposed." Therefore it is not necessary that men should make oblations.
+
 ## Answer
+
 On the contrary, Gregory says [*Gregory VII; Concil. Roman. v, can. xii]: "Let every Christian take care that he offer something to God at the celebration of Mass."
+
 I answer that, As stated above ([3046]Q[85], A[3], ad 3), the term "oblation" is common to all things offered for the Divine worship, so that if a thing be offered to be destroyed in worship of God, as though it were being made into something holy, it is both an oblation and a sacrifice. Wherefore it is written (Ex. 29:18): "Thou shalt offer the whole ram for a burnt-offering upon the altar; it is an oblation to the Lord, a most sweet savor of the victim of the Lord"; and (Lev. 2:1): "When anyone shall offer an oblation of sacrifice to the Lord, his offering shall be of fine flour." If, on the other hand, it be offered with a view to its remaining entire and being deputed to the worship of God or to the use of His ministers, it will be an oblation and not a sacrifice. Accordingly it is essential to oblations of this kind that they be offered voluntarily, according to Ex. 25:2, of "every man that offereth of his own accord you shall take them." Nevertheless it may happen in four ways that one is bound to make oblations. First, on account of a previous agreement: as when a person is granted a portion of Church land, that he may make certain oblations at fixed times, although this has the character of rent. Secondly, by reason of a previous assignment or promise; as when a man offers a gift among the living, or by will bequeaths to the Church something whether movable or immovable to be delivered at some future time. Thirdly, on account of the need of the Church, for instance if her ministers were without means of support. Fourthly, on account of custom; for the faithful are bound at certain solemn feasts to make certain customary oblations. In the last two cases, however, the oblation remains voluntary, as regards, to wit, the quantity or kind of the thing offered.
+
 ## Replies
+
 Reply to Objection 1: Under the New Law men are not bound to make oblations on account of legal solemnities, as stated in Exodus, but on account of certain other reasons, as stated above.
+
 Reply to Objection 2: Some are bound to make oblations, both before making them, as in the first, third, and. fourth cases, and after they have made them by assignment or promise: for they are bound to offer in reality that which has been already offered to the Church by way of assignment.
+
 Reply to Objection 3: Those who do not make the oblations they are bound to make may be punished by being deprived of the sacraments, not by the priest himself to whom the oblations should be made, lest he seem to exact, something for bestowing the sacraments, but by someone superior to him.

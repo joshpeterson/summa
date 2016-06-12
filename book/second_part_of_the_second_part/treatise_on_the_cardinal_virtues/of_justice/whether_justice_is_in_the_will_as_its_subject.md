@@ -1,14 +1,25 @@
 # Whether Justice Is In The Will As Its Subject?
+
 ## Objections
+
 Objection 1: It would seem that justice is not in the will as its subject. For justice is sometimes called truth. But truth is not in the will, but in the intellect. Therefore justice is not in the will as its subject.
+
 Objection 2: Further, justice is about our dealings with others. Now it belongs to the reason to direct one thing in relation to another. Therefore justice is not in the will as its subject but in the reason.
+
 Objection 3: Further, justice is not an intellectual virtue, since it is not directed to knowledge; wherefore it follows that it is a moral virtue. Now the subject of moral virtue is the faculty which is "rational by participation," viz. the irascible and the concupiscible, as the Philosopher declares (Ethic. i, 13). Therefore justice is not in the will as its subject, but in the irascible and concupiscible.
+
 ## Answer
+
 On the contrary, Anselm says (De Verit. xii) that "justice is rectitude of the will observed for its own sake."
+
 I answer that, The subject of a virtue is the power whose act that virtue aims at rectifying. Now justice does not aim at directing an act of the cognitive power, for we are not said to be just through knowing something aright. Hence the subject of justice is not the intellect or reason which is a cognitive power. But since we are said to be just through doing something aright, and because the proximate principle of action is the appetitive power, justice must needs be in some appetitive power as its subject.
 
 Now the appetite is twofold; namely, the will which is in the reason and the sensitive appetite which follows on sensitive apprehension, and is divided into the irascible and the concupiscible, as stated in the [2846]FP, Q[81], A[2]. Again the act of rendering his due to each man cannot proceed from the sensitive appetite, because sensitive apprehension does not go so far as to be able to consider the relation of one thing to another; but this is proper to the reason. Therefore justice cannot be in the irascible or concupiscible as its subject, but only in the will: hence the Philosopher (Ethic. v, 1) defines justice by an act of the will, as may be seen above [2847](A[1]).
+
 ## Replies
+
 Reply to Objection 1: Since the will is the rational appetite, when the rectitude of the reason which is called truth is imprinted on the will on account of its nighness to the reason, this imprint retains the name of truth; and hence it is that justice sometimes goes by the name of truth.
+
 Reply to Objection 2: The will is borne towards its object consequently on the apprehension of reason: wherefore, since the reason directs one thing in relation to another, the will can will one thing in relation to another, and this belongs to justice.
+
 Reply to Objection 3: Not only the irascible and concupiscible parts are "rational by participation," but the entire "appetitive" faculty, as stated in Ethic. i, 13, because all appetite is subject to reason. Now the will is contained in the appetitive faculty, wherefore it can be the subject of moral virtue.

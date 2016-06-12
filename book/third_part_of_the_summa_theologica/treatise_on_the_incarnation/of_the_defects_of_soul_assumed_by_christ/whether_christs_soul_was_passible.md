@@ -1,14 +1,25 @@
 # Whether Christ's Soul Was Passible?
+
 ## Objections
+
 Objection 1: It would seem that the soul of Christ was not passible. For nothing suffers except by reason of something stronger; since "the agent is greater than the patient," as is clear from Augustine (Gen. ad lit. xii, 16), and from the Philosopher (De Anima iii, 5). Now no creature was stronger than Christ's soul. Therefore Christ's soul could not suffer at the hands of any creature; and hence it was not passible; for its capability of suffering would have been to no purpose if it could not have suffered at the hands of anything.
+
 Objection 2: Further, Tully (De Tusc. Quaes. iii) says that the soul's passions are ailments [*Cf. [4027]FS, Q[24], A[2]]. But Christ's soul had no ailment; for the soul's ailment results from sin, as is plain from Ps. 40:5: "Heal my soul, for I have sinned against Thee." Therefore in Christ's soul there were no passions.
+
 Objection 3: Further, the soul's passions would seem to be the same as the "fomes" of sin, hence the Apostle (Rom. 7:5) calls them the "passions of sins." Now the "fomes" of sin was not in Christ, as was said A[2]. Therefore it seems that there were no passions in His soul; and hence His soul was not passible.
+
 ## Answer
+
 On the contrary, It is written (Ps. 87:4) in the person of Christ: "My soul is filled with evils"---not sins, indeed, but human evils, i.e. "pains," as a gloss expounds it. Hence the soul of Christ was passible.
+
 I answer that, A soul placed in a body may suffer in two ways: first with a bodily passion; secondly, with an animal passion. It suffers with a bodily passion through bodily hurt; for since the soul is the form of the body, soul and body have but one being; and hence, when the body is disturbed by any bodily passion, the soul, too, must be disturbed, i.e. in the being which it has in the body. Therefore, since Christ's body was passible and mortal, as was said above (Q[14], A[2]), His soul also was of necessity passible in like manner. But the soul suffers with an animal passion, in its operations---either in such as are proper to the soul, or in such as are of the soul more than of the body. And although the soul is said to suffer in this way through sensation and intelligence, as was said in the [4028]FS, Q[22], A[3]; [4029]FS, Q[41], A[1]; nevertheless the affections of the sensitive appetite are most properly called passions of the soul. Now these were in Christ, even as all else pertaining to man's nature. Hence Augustine says (De Civ. Dei xiv, 9): "Our Lord having deigned to live in the form of a servant, took these upon Himself whenever He judged they ought to be assumed; for there was no false human affection in Him Who had a true body and a true human soul."
 
 Nevertheless we must know that the passions were in Christ otherwise than in us, in three ways. First, as regards the object, since in us these passions very often tend towards what is unlawful, but not so in Christ. Secondly, as regards the principle, since these passions in us frequently forestall the judgment of reason; but in Christ all movements of the sensitive appetite sprang from the disposition of the reason. Hence Augustine says (De Civ. Dei xiv, 9), that "Christ assumed these movements, in His human soul, by an unfailing dispensation, when He willed; even as He became man when He willed." Thirdly, as regards the effect, because in us these movements, at times, do not remain in the sensitive appetite, but deflect the reason; but not so in Christ, since by His disposition the movements that are naturally becoming to human flesh so remained in the sensitive appetite that the reason was nowise hindered in doing what was right. Hence Jerome says (on Mat. 26:37) that "Our Lord, in order to prove the reality of the assumed manhood, 'was sorrowful' in very deed; yet lest a passion should hold sway over His soul, it is by a propassion that He is said to have 'begun to grow sorrowful and to be sad'"; so that it is a perfect "passion" when it dominates the soul, i.e. the reason; and a "propassion" when it has its beginning in the sensitive appetite, but goes no further.
+
 ## Replies
+
 Reply to Objection 1: The soul of Christ could have prevented these passions from coming upon it, and especially by the Divine power; yet of His own will He subjected Himself to these corporeal and animal passions.
+
 Reply to Objection 2: Tully is speaking there according to the opinions of the Stoics, who did not give the name of passions to all, but only to the disorderly movements of the sensitive appetite. Now, it is manifest that passions like these were not in Christ.
+
 Reply to Objection 3: The "passions of sins" are movements of the sensitive appetite that tend to unlawful things; and these were not in Christ, as neither was the "fomes" of sin.

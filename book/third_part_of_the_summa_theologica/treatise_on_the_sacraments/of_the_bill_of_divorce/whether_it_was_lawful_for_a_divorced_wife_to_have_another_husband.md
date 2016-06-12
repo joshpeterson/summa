@@ -1,18 +1,33 @@
 # Whether It Was Lawful For A Divorced Wife To Have Another Husband?
+
 ## Objections
+
 Objection 1: It would seem that it was lawful for a divorced wife to have another husband. For in divorce the husband did a greater wrong by divorcing his wife than the wife by being divorced. But the husband could, without sin, marry another wife. Therefore the wife could without sin, marry another husband.
+
 Objection 2: Further, Augustine, speaking about bigamy, says (De Bono Conjug. xv, xviii) that "when it was the manner it was no sin." Now at the time of the Old Law it was the custom for a wife after divorce to marry another husband: "When she is departed and marrieth another husband," etc. Therefore the wife sinned not by marrying another husband.
+
 Objection 3: Further, our Lord showed that the justice of the New Testament is superabundant in comparison with the justice of the Old Testament (Mat. 5). Now He said that it belongs to the superabundant justice of the New Testament that the divorced wife marry not another husband (Mat. 5:32). Therefore it was lawful in the Old Law.
+
 Objection 4: On the contrary, are the words of Mat. 5:32, "He that shall marry her that is put away committeth adultery." Now adultery was never permitted in the Old Law. Therefore it was not lawful for the divorced wife to have another husband.
+
 Objection 5: Further, it is written (Dt. 24:3) that a divorced woman who marries another husband "is defiled, and is become abominable before the Lord." Therefore she sinned by marrying another husband.
+
 ## Answer
+
+
 
 I answer that, According to the first above mentioned opinion [5025](A[3]), she sinned by marrying another husband after being divorced, because her first marriage still held good. For "the woman . . . whilst her husband liveth, is bound to the law of her husband" (Rom. 7:2): and she could not have several husbands at one time. But according to the second opinion, just as it was lawful by virtue of the Divine dispensation for a husband to divorce his wife, so could the wife marry another husband, because the indissolubility of marriage was removed by reason of the divine dispensation: and as long as that indissolubility remains the saying of the Apostle holds.
 
 Accordingly to reply to the arguments on either side:
+
 ## Replies
+
 Reply to Objection 1: It was lawful for a husband to have several wives at one time by virtue of the divine dispensation: wherefore having put one away he could marry another even though the former marriage were not dissolved. But it was never lawful for a wife to have several husbands. Wherefore the comparison fails.
+
 Reply to Objection 2: In this saying of Augustine manner [mos] does not signify custom but good manners; in the same sense a person is said to have manners [morigeratus] because he has good manners; and "moral" philosophy takes its name from the same source.
+
 Reply to Objection 3: Our Lord shows the superabundance of the New Law over the Old in respect of the counsels, not only as regards those things which the Old Law permitted, but also as regards those things which were forbidden in the Old Law, and yet were thought by many to be permitted on account of the precepts being incorrectly explained---for instance that of the hatred towards our enemies. and so is it in the matter of divorce.
+
 Reply to Objection 4: The saying of our Lord refers to the time of the New Law, when the aforesaid permission was recalled. In the same way we are to understand the statement of Chrysostom [*Hom. xii in the Opus Imperfectum falsely ascribed to St. John Chrysostom], who says that "a man who divorces his wife according to the law is guilty of four crimes: for in God's sight he is a murderer," in so far as he has the purpose of killing his wife unless he divorce her; "and because he divorces her without her having committed fornication," in which case alone the law of the Gospel allows a man to put away his wife; "and again, because he makes her an adulteress, and the man whom she marries an adulterer."
+
 Reply to Objection 5: A gloss observes here: "She is defiled and abominable, namely in the judgment of him who first put her away as being defiled," and consequently it does not follow that she is defiled absolutely speaking; or she is said to be defiled just as a person who had touched a dead or leprous body was said to be unclean with the uncleanness, not of sin, but of a certain legal irregularity. Wherefore a priest could not marry a widow or a divorced woman.

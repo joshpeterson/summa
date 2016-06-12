@@ -1,14 +1,25 @@
 # Whether This Clarity Was The Clarity Of Glory?
+
 ## Objections
+
 Objection 1: It would seem that this clarity was not the clarity of glory. For a gloss of Bede on Mat. 17:2, "He was transfigured before them," says: "In His mortal body He shows forth, not the state of immortality, but clarity like to that of future immortality." But the clarity of glory is the clarity of immortality. Therefore the clarity which Christ showed to His disciples was not the clarity of glory.
+
 Objection 2: Further, on Lk. 9:27 "(That) shall not taste death unless [Vulg.: 'till'] they see the kingdom of God," Bede's gloss says: "That is, the glorification of the body in an imaginary vision of future beatitude." But the image of a thing is not the thing itself. Therefore this was not the clarity of beatitude.
+
 Objection 3: Further, the clarity of glory is only in a human body. But this clarity of the transfiguration was seen not only in Christ's body, but also in His garments, and in "the bright cloud" which "overshaded" the disciples. Therefore it seems that this was not the clarity of glory.
+
 ## Answer
+
 On the contrary, Jerome says on the words "He was transfigured before them" (Mat. 17:2): "He appeared to the Apostles such as He will appear on the day of judgment." And on Mat. 16:28, "Till they see the Son of Man coming in His kingdom," Chrysostom says: "Wishing to show with what kind of glory He is afterwards to come, so far as it was possible for them to learn it, He showed it to them in their present life, that they might not grieve even over the death of their Lord."
+
 I answer that, The clarity which Christ assumed in His transfiguration was the clarity of glory as to its essence, but not as to its mode of being. For the clarity of the glorified body is derived from that of the soul, as Augustine says (Ep. ad Diosc. cxviii). And in like manner the clarity of Christ's body in His transfiguration was derived from His God. head, as Damascene says (Orat. de Transfig.) and from the glory of His soul. That the glory of His soul did not overflow into His body from the first moment of Christ's conception was due to a certain Divine dispensation, that, as stated above ([4224]Q[14], A[1], ad 2), He might fulfil the mysteries of our redemption in a passible body. This did not, however, deprive Christ of His power of outpouring the glory of His soul into His body. And this He did, as to clarity, in His transfiguration, but otherwise than in a glorified body. For the clarity of the soul overflows into a glorified body, by way of a permanent quality affecting the body. Hence bodily refulgence is not miraculous in a glorified body. But in Christ's transfiguration clarity overflowed from His Godhead and from His soul into His body, not as an immanent quality affecting His very body, but rather after the manner of a transient passion, as when the air is lit up by the sun. Consequently the refulgence, which appeared in Christ's body then, was miraculous: just as was the fact of His walking on the waves of the sea. Hence Dionysius says (Ep. ad Cai. iv): "Christ excelled man in doing that which is proper to man: this is shown in His supernatural conception of a virgin and in the unstable waters bearing the weight of material and earthly feet."
 
 Wherefore we must not say, as Hugh of St. Victor [*Innocent III, De Myst. Miss. iv] said, that Christ assumed the gift of clarity in the transfiguration, of agility in walking on the sea, and of subtlety in coming forth from the Virgin's closed womb: because the gifts are immanent qualities of a glorified body. On the contrary, whatever pertained to the gifts, that He had miraculously. The same is to be said, as to the soul, of the vision in which Paul saw God in a rapture, as we have stated in the [4225]SS, Q[175], A[3], ad 2.
+
 ## Replies
+
 Reply to Objection 1: The words quoted prove, not that the clarity of Christ was not that of glory, but that it was not the clarity of a glorified body, since Christ's body was not as yet immortal. And just as it was by dispensation that in Christ the glory of the soul should not overflow into the body so was it possible that by dispensation it might overflow as to the gift of clarity and not as to that of impassibility.
+
 Reply to Objection 2: This clarity is said to have been imaginary, not as though it were not really the clarity of glory, but because it was a kind of image representing that perfection of glory, in virtue of which the body will be glorious.
+
 Reply to Objection 3: Just as the clarity which was in Christ's body was a representation of His body's future clarity, so the clarity which was in His garments signified the future clarity of the saints, which will be surpassed by that of Christ, just as the brightness of the snow is surpassed by that of the sun. Hence Gregory says (Moral. xxxii) that Christ's garments became resplendent, "because in the height of heavenly clarity all the saints will cling to Him in the refulgence of righteousness. For His garments signify the righteous, because He will unite them to Himself," according to Is. 49:18: "Thou shalt be clothed with all these as with an ornament."

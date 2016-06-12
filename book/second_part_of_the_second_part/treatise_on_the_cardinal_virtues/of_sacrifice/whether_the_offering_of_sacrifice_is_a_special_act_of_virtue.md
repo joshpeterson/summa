@@ -1,12 +1,23 @@
 # Whether The Offering Of Sacrifice Is A Special Act Of Virtue?
+
 ## Objections
+
 Objection 1: It would seem that the offering of sacrifice is not a special act of virtue. Augustine says (De Civ. Dei x, 6): "A true sacrifice is any work done that we may cleave to God in holy fellowship." But not every good work is a special act of some definite virtue. Therefore the offering of sacrifice is not a special act of a definite virtue.
+
 Objection 2: Further, the mortification of the body by fasting belongs to abstinence, by continence belongs to chastity, by martyrdom belongs to fortitude. Now all these things seem to be comprised in the offering of sacrifice, according to Rom. 12:1, "Present your bodies a living sacrifice." Again the Apostle says (Heb. 13:16): "Do not forget to do good and to impart, for by such sacrifices God's favor is obtained." Now it belongs to charity, mercy and liberality to do good and to impart. Therefore the offering of sacrifice is not a special act of a definite virtue.
+
 Objection 3: Further, a sacrifice is apparently anything offered to God. Now many things are offered to God, such as devotion, prayer, tithes, first-fruits, oblations, and holocausts. Therefore sacrifice does not appear to be a special act of a definite virtue.
+
 ## Answer
+
 On the contrary, The law contains special precepts about sacrifices, as appears from the beginning of Leviticus.
+
 I answer that, As stated above ([3041]FS, Q[18], AA[6],7), where an act of one virtue is directed to the end of another virtue it partakes somewhat of its species; thus when a man thieves in order to commit fornication, his theft assumes, in a sense, the deformity of fornication, so that even though it were not a sin otherwise, it would be a sin from the very fact that it was directed to fornication. Accordingly, sacrifice is a special act deserving of praise in that it is done out of reverence for God; and for this reason it belongs to a definite virtue, viz. religion. But it happens that the acts of the other virtues are directed to the reverence of God, as when a man gives alms of his own things for God's sake, or when a man subjects his own body to some affliction out of reverence for God; and in this way the acts also of other virtues may be called sacrifices. On the other hand there are acts that are not deserving of praise save through being done out of reverence for God: such acts are properly called sacrifices, and belong to the virtue of religion.
+
 ## Replies
+
 Reply to Objection 1: The very fact that we wish to cling to God in a spiritual fellowship pertains to reverence for God: and consequently the act of any virtue assumes the character of a sacrifice through being done in order that we may cling to God in holy fellowship.
+
 Reply to Objection 2: Man's good is threefold. There is first his soul's good which is offered to God in a certain inward sacrifice by devotion, prayer and other like interior acts: and this is the principal sacrifice. The second is his body's good, which is, so to speak, offered to God in martyrdom, and abstinence or continency. The third is the good which consists of external things: and of these we offer a sacrifice to God, directly when we offer our possession to God immediately, and indirectly when we share them with our neighbor for God's sake.
+
 Reply to Objection 3: A "sacrifice," properly speaking, requires that something be done to the thing which is offered to God, for instance animals were slain and burnt, the bread is broken, eaten, blessed. The very word signifies this, since "sacrifice" is so called because a man does something sacred [facit sacrum]. On the other hand an "oblation" is properly the offering of something to God even if nothing be done thereto, thus we speak of offering money or bread at the altar, and yet nothing is done to them. Hence every sacrifice is an oblation, but not conversely. "First-fruits" are oblations, because they were offered to God, according to Dt. 26, but they are not a sacrifice, because nothing sacred was done to them. "Tithes," however, are neither a sacrifice nor an oblation, properly speaking, because they are not offered immediately to God, but to the ministers of Divine worship.

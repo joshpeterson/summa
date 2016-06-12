@@ -1,12 +1,23 @@
 # Whether Boasting Is Opposed To The Virtue Of Truth?
+
 ## Objections
+
 Objection 1: It seems that boasting is not opposed to the virtue of truth. For lying is opposed to truth. But it is possible to boast even without lying, as when a man makes a show of his own excellence. Thus it is written (Esther 1:3,4) that Assuerus "made a great feast . . . that he might show the riches of the glory" and "of his kingdom, and the greatness and boasting of his power." Therefore boasting is not opposed to the virtue of truth.
+
 Objection 2: Further, boasting is reckoned by Gregory (Moral. xxiii, 4) to be one of the four species of pride, "when," to wit, "a man boasts of having what he has not." Hence it is written (Jer. 48:29,30): "We have heard the pride of Moab, he is exceeding proud: his haughtiness, and his arrogancy, and his pride, and the loftiness of his heart. I know, saith the Lord, his boasting, and that the strength thereof is not according to it." Moreover, Gregory says (Moral. xxxi, 7) that boasting arises from vainglory. Now pride and vainglory are opposed to the virtue of humility. Therefore boasting is opposed, not to truth, but to humility.
+
 Objection 3: Further, boasting seems to be occasioned by riches; wherefore it is written (Wis. 5:8): "What hath pride profited us? or what advantage hath the boasting of riches brought us?" Now excess of riches seems to belong to the sin of covetousness, which is opposed to justice or liberality. Therefore boasting is not opposed to truth.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. ii, 7; iv, 7), that boasting is opposed to truth.
+
 I answer that, "Jactantia" [boasting] seems properly to denote the uplifting of self by words: since if a man wishes to throw [jactare] a thing far away, he lifts it up high. And to uplift oneself, properly speaking, is to talk of oneself above oneself [*Or 'tall-talking' as we should say in English]. This happens in two ways. For sometimes a man speaks of himself, not above what he is in himself, but above that which he is esteemed by men to be: and this the Apostle declines to do when he says (2 Cor. 12:6): "I forbear lest any man should think of me above that which he seeth in me, or anything he heareth of me." In another way a man uplifts himself in words, by speaking of himself above that which he is in reality. And since we should judge of things as they are in themselves, rather than as others deem them to be, it follows that boasting denotes more properly the uplifting of self above what one is in oneself, than the uplifting of self above what others think of one: although in either case it may be called boasting. Hence boasting properly so called is opposed to truth by way of excess.
+
 ## Replies
+
 Reply to Objection 1: This argument takes boasting as exceeding men's opinion.
+
 Reply to Objection 2: The sin of boasting may be considered in two ways. First, with regard to the species of the act, and thus it is opposed to truth; as stated (in the body of the article and[3221] Q[110], A[2]). Secondly, with regard to its cause, from which more frequently though not always it arises: and thus it proceeds from pride as its inwardly moving and impelling cause. For when a man is uplifted inwardly by arrogance, it often results that outwardly he boasts of great things about himself; though sometimes a man takes to boasting, not from arrogance, but from some kind of vanity, and delights therein, because he is a boaster by habit. Hence arrogance, which is an uplifting of self above oneself, is a kind of pride; yet it is not the same as boasting, but is very often its cause. For this reason Gregory reckons boasting among the species of pride. Moreover, the boaster frequently aims at obtaining glory through his boasting, and so, according to Gregory, it arises from vainglory considered as its end.
+
 Reply to Objection 3: Wealth also causes boasting, in two ways. First, as an occasional cause, inasmuch as a man prides himself on his riches. Hence (Prov. 8:18) "riches" are significantly described as "proud" [Douay: 'glorious']. Secondly, as being the end of boasting, since according to Ethic. iv, 7, some boast, not only for the sake of glory, but also for the sake of gain. Such people invent stories about themselves, so as to make profit thereby; for instance, they pretend to be skilled in medicine, wisdom, or divination.

@@ -1,14 +1,27 @@
 # Whether Suffrages Profit The Saints In Heaven?
+
 ## Objections
+
 Objection 1: It would seem that in some way suffrages profit the saints in heaven; on account of the words of the Collect in the Mass [*Postcommunion, Feast of St. Andrew, Apostle]: "Even as they" (i.e. the sacraments) "avail thy saints unto glory, so may they profit us unto healing." Now foremost among all suffrages is the sacrifice of the altar. Therefore suffrages profit the saints in heaven.
+
 Objection 2: Further, the sacraments cause what they signify. Now the third part of the host, that namely which is dropped into the chalice, signifies those who lead a happy life in heaven. Therefore the suffrages of the Church profit those who are in heaven.
+
 Objection 3: Further, the saints rejoice in heaven not only in their own goods, but also in the goods of others: hence it is written (Lk. 15:10): "There is [Vulg.: 'shall be'] joy before the angels of God upon one sinner doing penance." Therefore the joy of the saints in heaven increases on account of the good works of the living: and consequently our suffrages also profit them.
+
 Objection 4: Further, the Damascene says (Serm.: De his qui in fide dormierunt) quoting the words of Chrysostom: "For if the heathens," he says, "burn the dead together with what has belonged to them, how much more shouldst thou, a believer, send forth a believer together with what has belonged to him, not that they also may be brought to ashes like him, but that thou mayest surround him with greater glory by so doing; and if he be a sinner who has died, that thou mayest loose him from his sins, and if he be righteous, that thou mayest add to his meed and reward!" And thus the same conclusion follows.
+
 ## Answer
+
 On the contrary, As quoted in the text (Sent. iv, D, 15), Augustine says (De Verb Ap., Serm. xvii): "It is insulting to pray for a martyr in church, since we ought to commend ourselves to his prayers."
+
 I answer that, Suffrage by its very nature implies the giving of some assistance, which does not apply to one who suffers no default: since no one is competent to be assisted except he who is in need. Hence, as the saints in heaven are free from all need, being inebriated with the plenty of God's house (Ps. 35:10), they are not competent to be assisted by suffrages.
+
 ## Replies
+
 Reply to Objection 1: Such like expressions do not mean that the saints receive an increase of glory in themselves through our observing their feasts, but that we profit thereby in celebrating their glory with greater solemnity. Thus, through our knowing or praising God, and through His glory thus increasing some what in us, there accrues something, not to God, but to us.
+
 Reply to Objection 2: Although the sacraments cause what thy signify, they do not produce this effect in respect of everything that they signify: else, since they signify Christ, they would produce something in Christ (which is absurd). But they produce their effect on the recipient of the sacrament in virtue of that which is signified by the sacrament. Thus it does not follow that the sacrifices offered for the faithful departed profit the saints, but that by the merits of the saints which we commemorate, or which are signified in the sacrament, they profit others for whom they are offered.
+
 Reply to Objection 3: Although the saints in heaven rejoice in all our goods, it does not follow, that if our joys be increased their joy is also increased formally, but only materially, because every passion is increased formally in respect of the formal aspect of its object. Now the formal aspect of the saints' joy, no matter what they rejoice in, is God Himself, in Whom they cannot rejoice more and less, for otherwise their essential reward, consisting of their joy in God, would vary. Hence from the fact that the goods are multiplied, wherein they rejoice with God as the formal aspect of their joy, it does not follow that their joy is intensified, but that they rejoice in more things. Consequently it does not follow that they are assisted by our works.
+
 Reply to Objection 4: The sense is not that an increase of meed or reward accrues to the saint from the suffrages offered by a person, but that this accrues to the offerer. Or we may reply that the blessed departed may derive a reward from suffrages through having, while living, provided for suffrage to be offered for himself, and this was meritorious for him.

@@ -1,11 +1,21 @@
 # Whether There Can Be Despair Without Unbelief?
+
 ## Objections
+
 Objection 1: It would seem that there can be no despair without unbelief. For the certainty of hope is derived from faith; and so long as the cause remains the effect is not done away. Therefore a man cannot lose the certainty of hope, by despairing, unless his faith be removed.
+
 Objection 2: Further, to prefer one's own guilt to God's mercy and goodness, is to deny the infinity of God's goodness and mercy, and so savors of unbelief. But whoever despairs, prefers his own guilt to the Divine mercy and goodness, according to Gn. 4:13: "My iniquity is greater than that I may deserve pardon." Therefore whoever despairs, is an unbeliever.
+
 Objection 3: Further, whoever falls into a condemned heresy, is an unbeliever. But he that despairs seems to fall into a condemned heresy, viz. that of the Novatians, who say that there is no pardon for sins after Baptism. Therefore it seems that whoever despairs, is an unbeliever.
+
 ## Answer
+
 On the contrary, If we remove that which follows, that which precedes remains. But hope follows faith, as stated above ([2485]Q[17], A[7]). Therefore when hope is removed, faith can remain; so that, not everyone who despairs, is an unbeliever.
+
 I answer that, Unbelief pertains to the intellect, but despair, to the appetite: and the intellect is about universals, while the appetite is moved in connection with particulars, since the appetitive movement is from the soul towards things, which, in themselves, are particular. Now it may happen that a man, while having a right opinion in the universal, is not rightly disposed as to his appetitive movement, his estimate being corrupted in a particular matter, because, in order to pass from the universal opinion to the appetite for a particular thing, it is necessary to have a particular estimate (De Anima iii, 2), just as it is impossible to infer a particular conclusion from an universal proposition, except through the holding of a particular proposition. Hence it is that a man, while having right faith, in the universal, fails in an appetitive movement, in regard to some particular, his particular estimate being corrupted by a habit or a passion, just as the fornicator, by choosing fornication as a good for himself at this particular moment, has a corrupt estimate in a particular matter, although he retains the true universal estimate according to faith, viz. that fornication is a mortal sin. In the same way, a man while retaining in the universal, the true estimate of faith, viz. that there is in the Church the power of forgiving sins, may suffer a movement of despair, to wit, that for him, being in such a state, there is no hope of pardon, his estimate being corrupted in a particular matter. In this way there can be despair, just as there can be other mortal sins, without belief.
+
 ## Replies
+
 Reply to Objection 1: The effect is done away, not only when the first cause is removed, but also when the secondary cause is removed. Hence the movement of hope can be done away, not only by the removal of the universal estimate of faith, which is, so to say, the first cause of the certainty of hope, but also by the removal of the particular estimate, which is the secondary cause, as it were.
+
 Reply to Objection 2: If anyone were to judge, in universal, that God's mercy is not infinite, he would be an unbeliever. But he who despairs judges not thus, but that, for him in that state, on account of some particular disposition, there is no hope of the Divine mercy.

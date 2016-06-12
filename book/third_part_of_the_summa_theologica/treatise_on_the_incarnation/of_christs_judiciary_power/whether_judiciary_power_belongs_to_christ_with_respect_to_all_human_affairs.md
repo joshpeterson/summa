@@ -1,10 +1,17 @@
 # Whether Judiciary Power Belongs To Christ With Respect To All Human Affairs?
+
 ## Objections
+
 Objection 1: It would seem that judiciary power concerning all human affairs does not belong to Christ. For as we read in Lk. 12:13,14, when one of the crowd said to Christ: "Speak to my brother that he divide the inheritance with me; He said to him: Man, who hath appointed Me judge, or divider over you?" Consequently, He does not exercise judgment over all human affairs.
+
 Objection 2: Further, no one exercises judgment except over his own subjects. But, according to Heb. 2:8, "we see not as yet all things subject to" Christ. Therefore it seems that Christ has not judgment over all human affairs.
+
 Objection 3: Further, Augustine says (De Civ. Dei xx) that it is part of Divine judgment for the good to be afflicted sometimes in this world, and sometimes to prosper, and in like manner the wicked. But the same was the case also before the Incarnation. Consequently, not all God's judgments regarding human affairs are included in Christ's judiciary power.
+
 ## Answer
+
 On the contrary, It is said (Jn. 5:22): "The Father hath given all judgment to the Son."
+
 I answer that, If we speak of Christ according to His Divine Nature, it is evident that every judgment of the Father belongs to the Son; for, as the Father does all things through His Word, so He judges all things through His Word.
 
 But if we speak of Christ in His human nature, thus again is it evident that all things are subject to His judgment. This is made clear if we consider first of all the relationship subsisting between Christ's soul and the Word of God; for, if "the spiritual man judgeth all things," as is said in 1 Cor. 2:15, inasmuch as his soul clings to the Word of God, how much more Christ's soul, which is filled with the truth of the Word of God, passes judgment upon all things.
@@ -12,7 +19,11 @@ But if we speak of Christ in His human nature, thus again is it evident that all
 Secondly, the same appears from the merit of His death; because, according to Rom. 14:9: "To this end Christ died and rose again; that He might be Lord both of the dead and of the living." And therefore He has judgment over all men; and on this account the Apostle adds (Rom. 14:10): "We shall all stand before the judgment seat of Christ": and (Dan. 7:14) it is written that "He gave Him power, and glory, and a kingdom; and all peoples, tribes, and tongues shall serve Him."
 
 Thirdly, the same thing is evident from comparison of human affairs with the end of human salvation. For, to whomsoever the substance is entrusted, the accessory is likewise committed. Now all human affairs are ordered for the end of beatitude, which is everlasting salvation, to which men are admitted, or from which they are excluded by Christ's judgment, as is evident from Mat. 25:31,40. Consequently, it is manifest that all human affairs are included in Christ's judiciary power.
+
 ## Replies
+
 Reply to Objection 1: As was said above (A[3], OBJ[1]), judiciary power goes with royal dignity. Now Christ, although established king by God, did not wish while living on earth to govern temporarily an earthly kingdom; consequently He said (Jn. 18:36): "My kingdom is not of this world." In like fashion He did not wish to exercise judiciary power over temporal concerns, since He came to raise men to Divine things. Hence Ambrose observes on this passage in Luke: "It is well that He who came down with a Divine purpose should hold Himself aloof from temporal concerns; nor does He deign to be a judge of quarrels and an arbiter of property, since He is judge of the quick and the dead, and the arbitrator of merits."
+
 Reply to Objection 2: All things are subject to Christ in respect of that power, which He received from the Father, over all things, according to Mat. 28:18: "All power is given to Me in heaven and in earth." But as to the exercise of this power, all things are not yet subject to Him: this will come to pass in the future, when He shall fulfil His will regarding all things, by saving some and punishing others.
+
 Reply to Objection 3: Judgments of this kind were exercised by Christ before His Incarnation, inasmuch as He is the Word of God: and the soul united with Him personally became a partaker of this power by the Incarnation.

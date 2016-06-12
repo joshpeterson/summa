@@ -1,14 +1,25 @@
 # Whether This Sacrament Benefit Others Besides The Recipients?
+
 ## Objections
+
 Objection 1: It seems that this sacrament benefits only the recipients. For this sacrament is of the same genus as the other sacraments, being one of those into which that genus is divided. But the other sacraments only benefit the recipients; thus the baptized person alone receives effect of Baptism. Therefore, neither does this sacrament benefit others than the recipients.
+
 Objection 2: Further, the effects of this sacrament are the attainment of grace and glory, and the forgiveness of sin, at least of venial sin. If therefore this sacrament were to produce its effects in others besides the recipients, a man might happen to acquire grace and glory and forgiveness of sin without doing or receiving anything himself, through another receiving or offering this sacrament.
+
 Objection 3: Further, when the cause is multiplied, the effect is likewise multiplied. If therefore this sacrament benefit others besides the recipients, it would follow that it benefits a man more if he receive this sacrament through many hosts being consecrated in one mass, whereas this is not the Church's custom: for instance, that many receive communion for the salvation of one individual. Consequently, it does not seem that this sacrament benefits anyone but the recipient.
+
 ## Answer
+
 On the contrary, Prayer is made for many others during the celebration of this sacrament; which would serve no purpose were the sacrament not beneficial to others. Therefore, this sacrament is beneficial not merely to them who receive it.
+
 I answer that, As stated above [4630](A[3]), this sacrament is not only a sacrament, but also a sacrifice. For, it has the nature of a sacrifice inasmuch as in this sacrament Christ's Passion is represented, whereby Christ "offered Himself a Victim to God" (Eph. 5:2), and it has the nature of a sacrament inasmuch as invisible grace is bestowed in this sacrament under a visible species. So, then, this sacrament benefits recipients by way both of sacrament and of sacrifice, because it is offered for all who partake of it. For it is said in the Canon of the Mass: "May as many of us as, by participation at this Altar, shall receive the most sacred body and blood of Thy Son, be filled with all heavenly benediction and grace."
 
 But to others who do not receive it, it is beneficial by way of sacrifice, inasmuch as it is offered for their salvation. Hence it is said in the Canon of the Mass: "Be mindful, O Lord, of Thy servants, men and women . . . for whom we offer, or who offer up to Thee, this sacrifice of praise for themselves and for all their own, for the redemption of their souls, for the hope of their safety and salvation." And our Lord expressed both ways, saying (Mat. 26:28, with Lk. 22:20): "Which for you," i.e. who receive it, "and for many," i.e. others, "shall be shed unto remission of sins."
+
 ## Replies
+
 Reply to Objection 1: This sacrament has this in addition to the others, that it is a sacrifice: and therefore the comparison fails.
+
 Reply to Objection 2: As Christ's Passion benefits all, for the forgiveness of sin and the attaining of grace and glory, whereas it produces no effect except in those who are united with Christ's Passion through faith and charity, so likewise this sacrifice, which is the memorial of our Lord's Passion, has no effect except in those who are united with this sacrament through faith and charity. Hence Augustine says to Renatus (De Anima et ejus origine i): "Who may offer Christ's body except for them who are Christ's members?" Hence in the Canon of the Mass no prayer is made for them who are outside the pale of the Church. But it benefits them who are members, more or less, according to the measure of their devotion.
+
 Reply to Objection 3: Receiving is of the very nature of the sacrament, but offering belongs to the nature of sacrifice: consequently, when one or even several receive the body of Christ, no help accrues to others. In like fashion even when the priest consecrates several hosts in one mass, the effect of this sacrament is not increased, since there is only one sacrifice; because there is no more power in several hosts than in one, since there is only one Christ present under all the hosts and under one. Hence, neither will any one receive greater effect from the sacrament by taking many consecrated hosts in one mass. But the oblation of the sacrifice is multiplied in several masses, and therefore the effect of the sacrifice and of the sacrament is multiplied.

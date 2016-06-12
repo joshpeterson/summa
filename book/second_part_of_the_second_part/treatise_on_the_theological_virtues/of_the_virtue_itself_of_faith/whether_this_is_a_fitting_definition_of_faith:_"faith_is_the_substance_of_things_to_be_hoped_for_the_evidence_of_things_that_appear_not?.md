@@ -1,12 +1,21 @@
 # Whether This Is A Fitting Definition Of Faith: "Faith Is The Substance Of Things To Be Hoped For, The Evidence Of Things That Appear Not?"
+
 ## Objections
+
 Objection 1: It would seem that the Apostle gives an unfitting definition of faith (Heb. 11:1) when he says: "Faith is the substance of things to be hoped for, the evidence of things that appear not." For no quality is a substance: whereas faith is a quality, since it is a theological virtue, as stated above ([2300]FS, Q[62], A[3]). Therefore it is not a substance.
+
 Objection 2: Further, different virtues have different objects. Now things to be hoped for are the object of hope. Therefore they should not be included in a definition of faith, as though they were its object.
+
 Objection 3: Further, faith is perfected by charity rather than by hope, since charity is the form of faith, as we shall state further on [2301](A[3]). Therefore the definition of faith should have included the thing to be loved rather than the thing to be hoped for.
+
 Objection 4: Further, the same thing should not be placed in different genera. Now "substance" and "evidence" are different genera, and neither is subalternate to the other. Therefore it is unfitting to state that faith is both "substance" and "evidence."
+
 Objection 5: Further, evidence manifests the truth of the matter for which it is adduced. Now a thing is said to be apparent when its truth is already manifest. Therefore it seems to imply a contradiction to speak of "evidence of things that appear not": and so faith is unfittingly defined.
+
 ## Answer
+
 On the contrary, The authority of the Apostle suffices.
+
 I answer that, Though some say that the above words of the Apostle are not a definition of faith, yet if we consider the matter aright, this definition overlooks none of the points in reference to which faith can be defined, albeit the words themselves are not arranged in the form of a definition, just as the philosophers touch on the principles of the syllogism, without employing the syllogistic form.
 
 In order to make this clear, we must observe that since habits are known by their acts, and acts by their objects, faith, being a habit, should be defined by its proper act in relation to its proper object. Now the act of faith is to believe, as stated above (Q[2], AA[2],3), which is an act of the intellect determinate to one object of the will's command. Hence an act of faith is related both to the object of the will, i.e. to the good and the end, and to the object of the intellect, i.e. to the true. And since faith, through being a theological virtues, as stated above ([2302]FS, Q[62], A[2]), has one same thing for object and end, its object and end must, of necessity, be in proportion to one another. Now it has been already stated (Q[1], AA[1],4) that the object of faith is the First Truth, as unseen, and whatever we hold on account thereof: so that it must needs be under the aspect of something unseen that the First Truth is the end of the act of faith, which aspect is that of a thing hoped for, according to the Apostle (Rom. 8:25): "We hope for that which we see not": because to see the truth is to possess it. Now one hopes not for what one has already, but for what one has not, as stated above ([2303]FS, Q[67], A[4]). Accordingly the relation of the act of faith to its end which is the object of the will, is indicated by the words: "Faith is the substance of things to be hoped for." For we are wont to call by the name of substance, the first beginning of a thing, especially when the whole subsequent thing is virtually contained in the first beginning; for instance, we might say that the first self-evident principles are the substance of science, because, to wit, these principles are in us the first beginnings of science, the whole of which is itself contained in them virtually. In this way then faith is said to be the "substance of things to be hoped for," for the reason that in us the first beginning of things to be hoped for is brought about by the assent of faith, which contains virtually all things to be hoped for. Because we hope to be made happy through seeing the unveiled truth to which our faith cleaves, as was made evident when we were speaking of happiness ([2304]FS, Q[3], A[8]; [2305]FS, Q[4], A[3]).
@@ -16,9 +25,15 @@ The relationship of the act of faith to the object of the intellect, considered 
 In this way faith is distinguished from all other things pertaining to the intellect. For when we describe it as "evidence," we distinguish it from opinion, suspicion, and doubt, which do not make the intellect adhere to anything firmly; when we go on to say, "of things that appear not," we distinguish it from science and understanding, the object of which is something apparent; and when we say that it is "the substance of things to be hoped for," we distinguish the virtue of faith from faith commonly so called, which has no reference to the beatitude we hope for.
 
 Whatever other definitions are given of faith, are explanations of this one given by the Apostle. For when Augustine says (Tract. xl in Joan.: QQ. Evang. ii, qu. 39) that "faith is a virtue whereby we believe what we do not see," and when Damascene says (De Fide Orth. iv, 11) that "faith is an assent without research," and when others say that "faith is that certainty of the mind about absent things which surpasses opinion but falls short of science," these all amount to the same as the Apostle's words: "Evidence of things that appear not"; and when Dionysius says (Div. Nom. vii) that "faith is the solid foundation of the believer, establishing him in the truth, and showing forth the truth in him," comes to the same as "substance of things to be hoped for."
+
 ## Replies
+
 Reply to Objection 1: "Substance" here does not stand for the supreme genus condivided with the other genera, but for that likeness to substance which is found in each genus, inasmuch as the first thing in a genus contains the others virtually and is said to be the substance thereof.
+
 Reply to Objection 2: Since faith pertains to the intellect as commanded by the will, it must needs be directed, as to its end, to the objects of those virtues which perfect the will, among which is hope, as we shall prove further on ([2306]Q[18], A[1]). For this reason the definition of faith includes the object of hope.
+
 Reply to Objection 3: Love may be of the seen and of the unseen, of the present and of the absent. Consequently a thing to be loved is not so adapted to faith, as a thing to be hoped for, since hope is always of the absent and the unseen.
+
 Reply to Objection 4: "Substance" and "evidence" as included in the definition of faith, do not denote various genera of faith, nor different acts, but different relationships of one act to different objects, as is clear from what has been said.
+
 Reply to Objection 5: Evidence taken from the proper principles of a thing, make it apparent, whereas evidence taken from Divine authority does not make a thing apparent in itself, and such is the evidence referred to in the definition of faith.

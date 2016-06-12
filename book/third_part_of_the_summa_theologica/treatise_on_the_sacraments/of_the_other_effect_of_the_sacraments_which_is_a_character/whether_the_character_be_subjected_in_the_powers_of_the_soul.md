@@ -1,12 +1,23 @@
 # Whether The Character Be Subjected In The Powers Of The Soul?
+
 ## Objections
+
 Objection 1: It seems that the character is not subjected in the powers of the soul. For a character is said to be a disposition to grace. But grace is subjected in the essence of the soul as we have stated in the [4371]FS, Q[110], A[4]. Therefore it seems that the character is in the essence of the soul and not in the powers.
+
 Objection 2: Further, a power of the soul does not seem to be the subject of anything save habit and disposition. But a character, as stated above [4372](A[2]), is neither habit nor disposition, but rather a power: the subject of which is nothing else than the essence of the soul. Therefore it seems that the character is not subjected in a power of the soul, but rather in its essence.
+
 Objection 3: Further, the powers of the soul are divided into those of knowledge and those of appetite. But it cannot be said that a character is only in a cognitive power, nor, again, only in an appetitive power: since it is neither ordained to knowledge only, nor to desire only. Likewise, neither can it be said to be in both, because the same accident cannot be in several subjects. Therefore it seems that a character is not subjected in a power of the soul, but rather in the essence.
+
 ## Answer
+
 On the contrary, A character, according to its definition given above [4373](A[3]), is imprinted in the rational soul "by way of an image." But the image of the Trinity in the soul is seen in the powers. Therefore a character is in the powers of the soul.
+
 I answer that, As stated above [4374](A[3]), a character is a kind of seal by which the soul is marked, so that it may receive, or bestow on others, things pertaining to Divine worship. Now the Divine worship consists in certain actions: and the powers of the soul are properly ordained to actions, just as the essence is ordained to existence. Therefore a character is subjected not in the essence of the soul, but in its power.
+
 ## Replies
+
 Reply to Objection 1: The subject is ascribed to an. accident in respect of that to which the accident disposes it proximately, but not in respect of that to which it disposes it remotely or indirectly. Now a character disposes the soul directly and proximately to the fulfilling of things pertaining to Divine worship: and because such cannot be accomplished suitably without the help of grace, since, according to Jn. 4:24, "they that adore" God "must adore Him in spirit and in truth," consequently, the Divine bounty bestows grace on those who receive the character, so that they may accomplish worthily the service to which they are deputed. Therefore the subject should be ascribed to a character in respect of those actions that pertain to the Divine worship, rather than in respect of grace.
+
 Reply to Objection 2: The subject of the natural power, which flows from the principles of the essence. Now a character is not a power of this kind. but a spiritual power coming from without. Wherefore, just as the essence of the soul, from which man has his natural life, is perfected by grace from which the soul derives spiritual life; so the natural power of the soul is perfected by a spiritual power, which is a character. For habit and disposition belong to a power of the soul, since they are ordained to actions of which the powers are the principles. And in like manner whatever is ordained to action, should be attributed to a power.
+
 Reply to Objection 3: As stated above, a character is ordained unto things pertaining to the Divine worship; which is a protestation of faith expressed by exterior signs. Consequently, a character needs to be in the soul's cognitive power, where also is faith.

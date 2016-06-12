@@ -1,14 +1,27 @@
 # Whether The Will Is Properly The Subject Of Penance?
+
 ## Objections
+
 Objection 1: It would seem that the subject of penance is not properly the will. For penance is a species of sorrow. But sorrow is in the concupiscible part, even as joy is. Therefore penance is in the concupiscible faculty.
+
 Objection 2: Further, penance is a kind of vengeance, as Augustine states in De Poenitentia [*De vera et falsa Poenitentia, the authorship of which is unknown]. But vengeance seems to regard the irascible faculty, since anger is the desire for vengeance. Therefore it seems that penance is in the irascible part.
+
 Objection 3: Further, the past is the proper object of the memory, according to the Philosopher (De Memoria i). Now penance regards the past, as stated above (A[1], ad 2, ad 3). Therefore penance is subjected in the memory.
+
 Objection 4: Further, nothing acts where it is not. Now penance removes sin from all the powers of the soul. Therefore penance is in every power of the soul, and not only in the will.
+
 ## Answer
+
 On the contrary, Penance is a kind of sacrifice, according to Ps. 50:19: "A sacrifice to God is an afflicted spirit." But to offer a sacrifice is an act of the will, according to Ps. 53:8: "I will freely sacrifice to Thee." Therefore penance is in the will.
+
 I answer that, We can speak of penance in two ways: first, in so far as it is a passion, and thus, since it is a kind of sorrow, it is in the concupiscible part as its subject; secondly, in so far as it is a virtue, and thus, as stated above [4740](A[3]), it is a species of justice. Now justice, as stated in the [4741]FS, Q[56], A[6], is subjected in the rational appetite which is the will. Therefore it is evident that penance, in so far as it is a virtue, is subjected in the will, and its proper act is the purpose of amending what was committed against God.
+
 ## Replies
+
 Reply to Objection 1: This argument considers penance as a passion.
+
 Reply to Objection 2: To desire vengeance on another, through passion, belongs to the irascible appetite, but to desire or take vengeance on oneself or on another, through reason, belongs to the will.
+
 Reply to Objection 3: The memory is a power that apprehends the past. But penance belongs not to the apprehensive but to the appetitive power, which presupposes an act of the apprehension. Wherefore penance is not in the memory, but presupposes it.
+
 Reply to Objection 4: The will, as stated above ([4742]FP, Q[82], A[4]; [4743]FS, Q[9], A[1] ), moves all the other powers of the soul; so that it is not unreasonable for penance to be subjected in the will, and to produce an effect in each power of the soul.

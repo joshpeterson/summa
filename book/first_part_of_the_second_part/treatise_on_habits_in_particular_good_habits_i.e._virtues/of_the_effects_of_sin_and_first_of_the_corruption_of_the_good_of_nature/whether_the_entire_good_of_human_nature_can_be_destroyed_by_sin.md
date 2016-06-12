@@ -1,16 +1,27 @@
 # Whether The Entire Good Of Human Nature Can Be Destroyed By Sin?
+
 ## Objections
+
 Objection 1: It would seem that the entire good of human nature can be destroyed by sin. For the good of human nature is finite, since human nature itself is finite. Now any finite thing is entirely taken away, if the subtraction be continuous. Since therefore the good of nature can be continually diminished by sin, it seems that in the end it can be entirely taken away.
+
 Objection 2: Further, in a thing of one nature, the whole and the parts are uniform, as is evidently the case with air, water, flesh and all bodies with similar parts. But the good of nature is wholly uniform. Since therefore a part thereof can be taken away by sin, it seems that the whole can also be taken away by sin.
+
 Objection 3: Further, the good of nature, that is weakened by sin, is aptitude for virtue. Now this aptitude is destroyed entirely in some on account of sin: thus the lost cannot be restored to virtue any more than the blind can to sight. Therefore sin can take away the good of nature entirely.
+
 ## Answer
+
 On the contrary, Augustine says (Enchiridion xiv) that "evil does not exist except in some good." But the evil of sin cannot be in the good of virtue or of grace, because they are contrary to it. Therefore it must be in the good of nature, and consequently it does not destroy it entirely.
+
 I answer that, As stated above [1870](A[1]), the good of nature, that is diminished by sin, is the natural inclination to virtue, which is befitting to man from the very fact that he is a rational being; for it is due to this that he performs actions in accord with reason, which is to act virtuously. Now sin cannot entirely take away from man the fact that he is a rational being, for then he would no longer be capable of sin. Wherefore it is not possible for this good of nature to be destroyed entirely.
 
 Since, however, this same good of nature may be continually diminished by sin, some, in order to illustrate this, have made use of the example of a finite thing being diminished indefinitely, without being entirely destroyed. For the Philosopher says (Phys. i, text. 37) that if from a finite magnitude a continual subtraction be made in the same quantity, it will at last be entirely destroyed, for instance if from any finite length I continue to subtract the length of a span. If, however, the subtraction be made each time in the same proportion, and not in the same quantity, it may go on indefinitely, as, for instance, if a quantity be halved, and one half be diminished by half, it will be possible to go on thus indefinitely, provided that what is subtracted in each case be less than what was subtracted before. But this does not apply to the question at issue, since a subsequent sin does not diminish the good of nature less than a previous sin, but perhaps more, if it be a more grievous sin.
 
 We must, therefore, explain the matter otherwise by saying that the aforesaid inclination is to be considered as a middle term between two others: for it is based on the rational nature as on its root, and tends to the good of virtue, as to its term and end. Consequently its diminution may be understood in two ways: first, on the part of its rood, secondly, on the part of its term. In the first way, it is not diminished by sin, because sin does not diminish nature, as stated above [1871](A[1]). But it is diminished in the second way, in so far as an obstacle is placed against its attaining its term. Now if it were diminished in the first way, it would needs be entirely destroyed at last by the rational nature being entirely destroyed. Since, however, it is diminished on the part of the obstacle which is place against its attaining its term, it is evident that it can be diminished indefinitely, because obstacles can be placed indefinitely, inasmuch as man can go on indefinitely adding sin to sin: and yet it cannot be destroyed entirely, because the root of this inclination always remains. An example of this may be seen in a transparent body, which has an inclination to receive light, from the very fact that it is transparent; yet this inclination or aptitude is diminished on the part of supervening clouds, although it always remains rooted in the nature of the body.
+
 ## Replies
+
 Reply to Objection 1: This objection avails when diminution is made by subtraction. But here the diminution is made by raising obstacles, and this neither diminishes nor destroys the root of the inclination, as stated above.
+
 Reply to Objection 2: The natural inclination is indeed wholly uniform: nevertheless it stands in relation both to its principle and to its term, in respect of which diversity of relation, it is diminished on the one hand, and not on the other.
+
 Reply to Objection 3: Even in the lost the natural inclination to virtue remains, else they would have no remorse of conscience. That it is not reduced to act is owing to their being deprived of grace by Divine justice. Thus even in a blind man the aptitude to see remains in the very root of his nature, inasmuch as he is an animal naturally endowed with sight: yet this aptitude is not reduced to act, for the lack of a cause capable of reducing it, by forming the organ requisite for sight.

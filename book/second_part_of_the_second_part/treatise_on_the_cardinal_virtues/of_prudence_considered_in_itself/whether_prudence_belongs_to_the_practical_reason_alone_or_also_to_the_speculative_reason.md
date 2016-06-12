@@ -1,12 +1,23 @@
 # Whether Prudence Belongs To The Practical Reason Alone Or Also To The Speculative Reason?
+
 ## Objections
+
 Objection 1: It would seem that prudence belongs not only to the practical, but also to the speculative reason. For it is written (Prov. 10:23): "Wisdom is prudence to a man." Now wisdom consists chiefly in contemplation. Therefore prudence does also.
+
 Objection 2: Further, Ambrose says (De Offic. i, 24): "Prudence is concerned with the quest of truth, and fills us with the desire of fuller knowledge." Now this belongs to the speculative reason. Therefore prudence resides also in the speculative reason.
+
 Objection 3: Further, the Philosopher assigns art and prudence to the same part of the soul (Ethic. vi, 1). Now art may be not only practical but also speculative, as in the case of the liberal arts. Therefore prudence also is both practical and speculative.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. vi, 5) that prudence is right reason applied to action. Now this belongs to none but the practical reason. Therefore prudence is in the practical reason only.
+
 I answer that, According to the Philosopher (Ethic. vi, 5) "a prudent man is one who is capable of taking good counsel." Now counsel is about things that we have to do in relation to some end: and the reason that deals with things to be done for an end is the practical reason. Hence it is evident that prudence resides only in the practical reason.
+
 ## Replies
+
 Reply to Objection 1: As stated above ([2727]Q[45], AA[1],3), wisdom considers the absolutely highest cause: so that the consideration of the highest cause in any particular genus belongs to wisdom in that genus. Now in the genus of human acts the highest cause is the common end of all human life, and it is this end that prudence intends. For the Philosopher says (Ethic. vi, 5) that just as he who reasons well for the realization of a particular end, such as victory, is said to be prudent, not absolutely, but in a particular genus, namely warfare, so he that reasons well with regard to right conduct as a whole, is said to be prudent absolutely. Wherefore it is clear that prudence is wisdom about human affairs: but not wisdom absolutely, because it is not about the absolutely highest cause, for it is about human good, and this is not the best thing of all. And so it is stated significantly that "prudence is wisdom for man," but not wisdom absolutely.
+
 Reply to Objection 2: Ambrose, and Tully also (De Invent. ii, 53) take the word prudence in a broad sense for any human knowledge, whether speculative or practical. And yet it may also be replied that the act itself of the speculative reason, in so far as it is voluntary, is a matter of choice and counsel as to its exercise; and consequently comes under the direction of prudence. On the other hand, as regards its specification in relation to its object which is the "necessary true," it comes under neither counsel nor prudence.
+
 Reply to Objection 3: Every application of right reason in the work of production belongs to art: but to prudence belongs only the application of right reason in matters of counsel, which are those wherein there is no fixed way of obtaining the end, as stated in Ethic. iii, 3. Since then, the speculative reason makes things such as syllogisms, propositions and the like, wherein the process follows certain and fixed rules, consequently in respect of such things it is possible to have the essentials of art, but not of prudence; and so we find such a thing as a speculative art, but not a speculative prudence.

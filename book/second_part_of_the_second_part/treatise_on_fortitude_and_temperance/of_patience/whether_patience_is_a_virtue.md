@@ -1,12 +1,23 @@
 # Whether Patience Is A Virtue?
+
 ## Objections
+
 Objection 1: It seems that patience is not a virtue. For the virtues are most perfect in heaven, as Augustine says (De Trin. xiv). Yet patience is not there, since no evils have to be borne there, according to Is. 49:10 and Apoc. 7:16, "They shall not hunger nor thirst, neither shall the heat nor the sun strike them." Therefore patience is not a virtue.
+
 Objection 2: Further, no virtue can be found in the wicked, since virtue it is "that makes its possessor good." Yet patience is sometimes found in wicked men; for instance, in the covetous, who bear many evils patiently that they may amass money, according to Eccles. 5:16, "All the days of his life he eateth in darkness, and in many cares, and in misery and in sorrow." Therefore patience is not a virtue.
+
 Objection 3: Further, the fruits differ from the virtues, as stated above ([3399]FS, Q[70], A[1], ad 3). But patience is reckoned among the fruits (Gal. 5:22). Therefore patience is not a virtue.
+
 ## Answer
+
 On the contrary, Augustine says (De Patientia i): "The virtue of the soul that is called patience, is so great a gift of God, that we even preach the patience of Him who bestows it upon us."
+
 I answer that, As stated above ([3400]Q[123], A[1]), the moral virtues are directed to the good, inasmuch as they safeguard the good of reason against the impulse of the passions. Now among the passions sorrow is strong to hinder the good of reason, according to 2 Cor. 7:10, "The sorrow of the world worketh death," and Ecclus. 30:25, "Sadness hath killed many, and there is no profit in it." Hence the necessity for a virtue to safeguard the good of reason against sorrow, lest reason give way to sorrow: and this patience does. Wherefore Augustine says (De Patientia ii): "A man's patience it is whereby he bears evil with an equal mind," i.e. without being disturbed by sorrow, "lest he abandon with an unequal mind the goods whereby he may advance to better things." It is therefore evident that patience is a virtue.
+
 ## Replies
+
 Reply to Objection 1: The moral virtues do not remain in heaven as regards the same act that they have on the way, in relation, namely, to the goods of the present life, which will not remain in heaven: but they will remain in their relation to the end, which will be in heaven. Thus justice will not be in heaven in relation to buying and selling and other matters pertaining to the present life, but it will remain in the point of being subject to God. In like manner the act of patience, in heaven, will not consist in bearing things, but in enjoying the goods to which we had aspired by suffering. Hence Augustine says (De Civ. Dei xiv) that "patience itself will not be in heaven, since there is no need for it except where evils have to be borne: yet that which we shall obtain by patience will be eternal."
+
 Reply to Objection 2: As Augustine says (De Patientia ii; v) "properly speaking those are patient who would rather bear evils without inflicting them, than inflict them without bearing them. As for those who bear evils that they may inflict evil, their patience is neither marvelous nor praiseworthy, for it is no patience at all: we may marvel at their hardness of heart, but we must refuse to call them patient."
+
 Reply to Objection 3: As stated above ([3401]FS, Q[11], A[1]), the very notion of fruit denotes pleasure. And works of virtue afford pleasure in themselves, as stated in Ethic. i, 8. Now the names of the virtues are wont to be applied to their acts. Wherefore patience as a habit is a virtue. but as to the pleasure which its act affords, it is reckoned a fruit, especially in this, that patience safeguards the mind from being overcome by sorrow.

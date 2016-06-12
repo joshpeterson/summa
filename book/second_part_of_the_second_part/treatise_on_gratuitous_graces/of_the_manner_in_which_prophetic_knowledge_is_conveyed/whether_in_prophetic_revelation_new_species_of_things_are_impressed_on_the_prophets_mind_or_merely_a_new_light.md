@@ -1,10 +1,17 @@
 # Whether, In Prophetic Revelation, New Species Of Things Are Impressed On The Prophet's Mind, Or Merely A New Light?
+
 ## Objections
+
 Objection 1: It would seem that in prophetic revelation no new species of things are impressed on the prophet's mind, but only a new light. For a gloss of Jerome on Amos 1:2 says that "prophets draw comparisons from things with which they are conversant." But if prophetic vision were effected by means of species newly impressed, the prophet's previous experience of things would be inoperative. Therefore no new species are impressed on the prophet's soul, but only the prophetic light.
+
 Objection 2: Further, according to Augustine (Gen. ad lit. xii, 9), "it is not imaginative but intellective vision that makes the prophet"; wherefore it is declared (Dan. 10:1) that "there is need of understanding in a vision." Now intellective vision, as stated in the same book (Gen. ad lit. xii, 6) is not effected by means of images, but by the very truth of things. Therefore it would seem that prophetic revelation is not effected by impressing species on the soul.
+
 Objection 3: Further, by the gift of prophecy the Holy Ghost endows man with something that surpasses the faculty of nature. Now man can by his natural faculties form all kinds of species of things. Therefore it would seem that in prophetic revelation no new species of things are impressed, but merely an intellectual light.
+
 ## Answer
+
 On the contrary, It is written (Osee 12:10): "I have multiplied" their "visions, and I have used similitudes, by the ministry of the prophets." Now multiplicity of visions results, not from a diversity of intellectual light, which is common to every prophetic vision, but from a diversity of species, whence similitudes also result. Therefore it seems that in prophetic revelation new species of things are impressed, and not merely an intellectual light.
+
 I answer that, As Augustine says (Gen. ad lit. xii, 9), "prophetic knowledge pertains most of all to the intellect." Now two things have to be considered in connection with the knowledge possessed by the human mind, namely the acceptance or representation of things, and the judgment of the things represented. Now things are represented to the human mind under the form of species: and according to the order of nature, they must be represented first to the senses, secondly to the imagination, thirdly to the passive intellect, and these are changed by the species derived from the phantasms, which change results from the enlightening action of the active intellect. Now in the imagination there are the forms of sensible things not only as received from the senses, but also transformed in various ways, either on account of some bodily transformation (as in the case of people who are asleep or out of their senses), or through the coordination of the phantasms, at the command of reason, for the purpose of understanding something. For just as the various arrangements of the letters of the alphabet convey various ideas to the understanding, so the various coordinations of the phantasms produce various intelligible species of the intellect.
 
 As to the judgment formed by the human mind, it depends on the power of the intellectual light.
@@ -18,7 +25,11 @@ Now sensible forms are divinely presented to the prophet's mind, sometimes exter
 But intellectual light is divinely imprinted on the human mind---sometimes for the purpose of judging of things seen by others, as in the case of Joseph, quoted above, and of the apostles whose understanding our Lord opened "that they might understand the scriptures" (Lk. 24:45); and to this pertains the "interpretation of speeches"---sometimes for the purpose of judging according to Divine truth, of the things which a man apprehends in the ordinary course of nature---sometimes for the purpose of discerning truthfully and efficaciously what is to be done, according to Is. 63:14, "The Spirit of the Lord was their leader."
 
 Hence it is evident that prophetic revelation is conveyed sometimes by the mere infusion of light, sometimes by imprinting species anew, or by a new coordination of species.
+
 ## Replies
+
 Reply to Objection 1: As stated above, sometimes in prophetic revelation imaginary species previously derived from the senses are divinely coordinated so as to accord with the truth to be revealed, and then previous experience is operative in the production of the images, but not when they are impressed on the mind wholly from without.
+
 Reply to Objection 2: Intellectual vision is not effected by means of bodily and individual images, but by an intelligible image. Hence Augustine says (De Trin. ix, 11) that "the soul possesses a certain likeness of the species known to it." Sometimes this intelligible image is, in prophetic revelation, imprinted immediately by God, sometimes it results from pictures in the imagination, by the aid of the prophetic light, since a deeper truth is gathered from these pictures in the imagination by means of the enlightenment of the higher light.
+
 Reply to Objection 3: It is true that man is able by his natural powers to form all kinds of pictures in the imagination, by simply considering these pictures, but not so that they be directed to the representation of intelligible truths that surpass his intellect, since for this purpose he needs the assistance of a supernatural light.

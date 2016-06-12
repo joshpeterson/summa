@@ -1,14 +1,25 @@
 # Whether Fraternal Correction Belongs Only To Prelates?
+
 ## Objections
+
 Objection 1: It would seem that fraternal correction belongs to prelates alone. For Jerome [*Origen, Hom. vii in Joan.] says: "Let priests endeavor to fulfil this saying of the Gospel: 'If thy brother sin against thee,'" etc. Now prelates having charge of others were usually designated under the name of priests. Therefore it seems that fraternal correction belongs to prelates alone.
+
 Objection 2: Further, fraternal correction is a spiritual alms. Now corporal almsgiving belongs to those who are placed above others in temporal matters, i.e. to the rich. Therefore fraternal correction belongs to those who are placed above others in spiritual matters, i.e. to prelates.
+
 Objection 3: Further, when one man reproves another he moves him by his rebuke to something better. Now in the physical order the inferior is moved by the superior. Therefore in the order of virtue also, which follows the order of nature, it belongs to prelates alone to correct inferiors.
+
 ## Answer
+
 On the contrary, It is written (Dist. xxiv, qu. 3, Can. Tam Sacerdotes): "Both priests and all the rest of the faithful should be most solicitous for those who perish, so that their reproof may either correct their sinful ways. or, if they be incorrigible, cut them off from the Church."
+
 I answer that, As stated above [2613](A[1]), correction is twofold. One is an act of charity, which seeks in a special way the recovery of an erring brother by means of a simple warning: such like correction belongs to anyone who has charity, be he subject or prelate.
 
 But there is another correction which is an act of justice purposing the common good, which is procured not only by warning one's brother, but also, sometimes, by punishing him, that others may, through fear, desist from sin. Such a correction belongs only to prelates, whose business it is not only to admonish, but also to correct by means of punishments.
+
 ## Replies
+
 Reply to Objection 1: Even as regards that fraternal correction which is common to all, prelates have a grave responsibility, as Augustine says (De Civ. Dei i, 9): "for just as a man ought to bestow temporal favors on those especially of whom he has temporal care, so too ought he to confer spiritual favors, such as correction, teaching and the like, on those who are entrusted to his spiritual care." Therefore Jerome does not mean that the precept of fraternal correction concerns priests only, but that it concerns them chiefly.
+
 Reply to Objection 2: Just as he who has the means wherewith to give corporal assistance is rich in this respect, so he whose reason is gifted with a sane judgment, so as to be able to correct another's wrong-doing, is, in this respect, to be looked on as a superior.
+
 Reply to Objection 3: Even in the physical order certain things act mutually on one another, through being in some respect higher than one another, in so far as each is somewhat in act, and somewhat in potentiality with regard to another. In like manner one man can correct another in so far as he has a sane judgment in a matter wherein the other sins, though he is not his superior simply.

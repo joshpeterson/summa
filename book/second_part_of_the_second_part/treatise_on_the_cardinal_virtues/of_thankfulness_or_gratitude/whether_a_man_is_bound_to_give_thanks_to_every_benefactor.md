@@ -1,18 +1,35 @@
 # Whether A Man Is Bound To Give Thanks To Every Benefactor?
+
 ## Objections
+
 Objection 1: It seems that the a man is not bound to give thanks to every benefactor. For a man may benefit himself just as he may harm himself, according to Ecclus. 14:5, "He that is evil to himself, to whom will he be good?" But a man cannot thank himself, since thanksgiving seems to pass from one person to another. Therefore thanksgiving is not due to every benefactor.
+
 Objection 2: Further, gratitude is a repayment of an act of grace. But some favors are granted without grace, and are rudely, slowly and grudgingly given. Therefore gratitude is not always due to a benefactor.
+
 Objection 3: Further, no thanks are due to one who works for his own profit. But sometimes people bestow favors for their own profit. Therefore thanks are not due to them.
+
 Objection 4: Further, no thanks are due to a slave, for all that he is belongs to his master. Yet sometimes a slave does a good turn to his master. Therefore gratitude is not due to every benefactor .
+
 Objection 5: Further, no one is bound to do what he cannot do equitably and advantageously. Now it happens at times that the benefactor is very well off, and it would be of no advantage to him to be repaid for a favor he has bestowed. Again it happens sometimes that the benefactor from being virtuous has become wicked, so that it would not seem equitable to repay him. Also the recipient of a favor may be a poor man, and is quite unable to repay. Therefore seemingly a man is not always bound to repayment for favors received.
+
 Objection 6: Further, no one is bound to do for another what is inexpedient and hurtful to him. Now sometimes it happens that repayment of a favor would be hurtful or useless to the person repaid. Therefore favors are not always to be repaid by gratitude.
+
 ## Answer
+
 On the contrary, It is written (1 Thess. 5:18): "In all things give thanks."
+
 I answer that, Every effect turns naturally to its cause; wherefore Dionysius says (Div. Nom. i) that "God turns all things to Himself because He is the cause of all": for the effect must needs always be directed to the end of the agent. Now it is evident that a benefactor, as such, is cause of the beneficiary. Hence the natural order requires that he who has received a favor should, by repaying the favor, turn to his benefactor according to the mode of each. And, as stated above with regard to a father ([3186]Q[31], A[3];[3187] Q[101], A[2]), a man owes his benefactor, as such, honor and reverence, since the latter stands to him in the relation of principle; but accidentally he owes him assistance or support, if he need it.
+
 ## Replies
+
 Reply to Objection 1: In the words of Seneca (1 Benef. v), "just as a man is liberal who gives not to himself but to others, and gracious who forgives not himself but others, and merciful who is moved, not by his own misfortunes but by another's, so too, no man confers a favor on himself, he is but following the bent of his nature, which moves him to resist what hurts him, and to seek what is profitable." Wherefore in things that one does for oneself, there is no place for gratitude or ingratitude, since a man cannot deny himself a thing except by keeping it. Nevertheless things which are properly spoken of in relation to others are spoken of metaphorically in relation to oneself, as the Philosopher states regarding justice (Ethic. v, 11), in so far, to wit, as the various parts of man are considered as though they were various persons.
+
 Reply to Objection 2: It is the mark of a happy disposition to see good rather than evil. Wherefore if someone has conferred a favor, not as he ought to have conferred it, the recipient should not for that reason withhold his thanks. Yet he owes less thanks, than if the favor had been conferred duly, since in fact the favor is less, for, as Seneca remarks (De Benef. ii.) "promptness enhances, delay discounts a favor."
+
 Reply to Objection 3: As Seneca observes (De Benef. vi), "it matters much whether a person does a kindness to us for his own sake, or for ours, or for both his and ours. He that considers himself only, and benefits because cannot otherwise benefit himself, seems to me like a man who seeks fodder for his cattle." And farther on: "If he has done it for me in common with himself, having both of us in his mind, I am ungrateful and not merely unjust, unless I rejoice that what was profitable to him is profitable to me also. It is the height of malevolence to refuse to recognize a kindness, unless the giver has been the loser thereby."
+
 Reply to Objection 4: As Seneca observes (De Benef. iii), "when a slave does what is wont to be demanded of a slave, it is part of his service: when he does more than a slave is bound to do, it is a favor: for as soon as he does anything from a motive of friendship, if indeed that be his motive, it is no longer called service." Wherefore gratitude is due even to a slave, when he does more than his duty.
+
 Reply to Objection 5: A poor man is certainly not ungrateful if he does what he can. For since kindness depends on the heart rather than on the deed, so too gratitude depends chiefly the heart. Hence Seneca says (De Benef. ii): "Who receives a favor gratefully, has already begun to pay it back: and that we are grateful for favors received should be shown by the outpourings of the heart, not only in his hearing but everywhere." From this it is evident that however well off a man may be, it is possible to thank him for his kindness by showing him reverence and honor. Wherefore the Philosopher says (Ethic. viii, 14): "He that abounds should be repaid with honor, he that is in want should be repaid with money": and Seneca writes (De Benef. vi): "There are many ways of repaying those who are well off, whatever we happen to owe them; such as good advice, frequent fellowship, affable and pleasant conversation without flattery." Therefore there is no need for a man to desire neediness or distress in his benefactor before repaying his kindness, because, as Seneca says (De Benef. vi), "it were inhuman to desire this in one from whom you have received no favor; how much more so to desire it in one whose kindness has made you his debtor!"
+
 Reply to Objection 6: As stated in the preceding reply, repayment of a favor depends chiefly on the affection of the heart: wherefore repayment should be made in such a way as to prove most beneficial. If, however, through the benefactor's carelessness it prove detrimental to him, this is not imputed to the person who repays him, as Seneca observes (De Benef. vii): "It is my duty to repay, and not to keep back and safeguard my repayment."

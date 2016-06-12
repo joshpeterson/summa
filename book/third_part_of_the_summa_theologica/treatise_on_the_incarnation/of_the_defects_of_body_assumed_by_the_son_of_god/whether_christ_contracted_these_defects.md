@@ -1,12 +1,23 @@
 # Whether Christ Contracted These Defects?
+
 ## Objections
+
 Objection 1: It would seem that Christ contracted bodily defects. For we are said to contract what we derive with our nature from birth. But Christ, together with human nature, derived His bodily defects and infirmities through His birth from His mother, whose flesh was subject to these defects. Therefore it seems that He contracted these defects.
+
 Objection 2: Further, what is caused by the principles of nature is derived together with nature, and hence is contracted. Now these penalties are caused by the principles of human nature. Therefore Christ contracted them.
+
 Objection 3: Further, Christ is likened to other men in these defects, as is written Heb. 2:17. But other men contract these defects. Therefore it seems that Christ contracted these defects.
+
 ## Answer
+
 On the contrary, These defects are contracted through sin, according to Rom. 5:12: "By one man sin entered into this world and by sin, death." Now sin had no place in Christ. Therefore Christ did not contract these defects.
+
 I answer that, In the verb "to contract" is understood the relation of effect to cause, i.e. that is said to be contracted which is derived of necessity together with its cause. Now the cause of death and such like defects in human nature is sin, since "by sin death entered into this world," according to Rom. 5:12. And hence they who incur these defects, as due to sin, are properly said to contract them. Now Christ had not these defects, as due to sin, since, as Augustine [*Alcuin in the Gloss, Ord.], expounding Jn. 3:31, "He that cometh from above, is above all," says: "Christ came from above, i.e. from the height of human nature, which it had before the fall of the first man." For He received human nature without sin, in the purity which it had in the state of innocence. In the same way He might have assumed human nature without defects. Thus it is clear that Christ did not contract these defects as if taking them upon Himself as due to sin, but by His own will.
+
 ## Replies
+
 Reply to Objection 1: The flesh of the Virgin was conceived in original sin, [*See introductory note to Q[27]] and therefore contracted these defects. But from the Virgin, Christ's flesh assumed the nature without sin, and He might likewise have assumed the nature without its penalties. But He wished to bear its penalties in order to carry out the work of our redemption, as stated above [4020](A[1]). Therefore He had these defects---not that He contracted them, but that He assumed them.
+
 Reply to Objection 2: The cause of death and other corporeal defects of human nature is twofold: the first is remote, and results from the material principles of the human body, inasmuch as it is made up of contraries. But this cause was held in check by original justice. Hence the proximate cause of death and other defects is sin, whereby original justice is withdrawn. And thus, because Christ was without sin, He is said not to have contracted these defects, but to have assumed them.
+
 Reply to Objection 3: Christ was made like to other men in the quality and not in the cause of these defects; and hence, unlike others, He did not contract them.

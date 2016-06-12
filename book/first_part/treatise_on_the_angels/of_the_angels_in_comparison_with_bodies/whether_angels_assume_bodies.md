@@ -1,12 +1,23 @@
 # Whether Angels Assume Bodies?
+
 ## Objections
+
 Objection 1: It would seem that angels do not assume bodies. For there is nothing superfluous in the work of an angel, as there is nothing of the kind in the work of nature. But it would be superfluous for the angels to assume bodies, because an angel has no need for a body, since his own power exceeds all bodily power. Therefore an angel does not assume a body.
+
 Objection 2: Further, every assumption is terminated in some union; because to assume implies a taking to oneself [ad se sumere]. But a body is not united to an angel as to a form, as stated [475](A[1]); while in so far as it is united to the angel as to a mover, it is not said to be assumed, otherwise it would follow that all bodies moved by the angels are assumed by them. Therefore the angels do not assume bodies.
+
 Objection 3: Further, angels do not assume bodies from the earth or water, or they could not suddenly disappear; nor again from fire, otherwise they would burn whatever things they touched; nor again from air, because air is without shape or color. Therefore the angels do not assume bodies.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei xvi) that angels appeared to Abraham under assumed bodies.
+
 I answer that, Some have maintained that the angels never assume bodies, but that all that we read in Scripture of apparitions of angels happened in prophetic vision---that is, according to imagination. But this is contrary to the intent of Scripture; for whatever is beheld in imaginary vision is only in the beholder's imagination, and consequently is not seen by everybody. Yet Divine Scripture from time to time introduces angels so apparent as to be seen commonly by all; just as the angels who appeared to Abraham were seen by him and by his whole family, by Lot, and by the citizens of Sodom; in like manner the angel who appeared to Tobias was seen by all present. From all this it is clearly shown that such apparitions were beheld by bodily vision, whereby the object seen exists outside the person beholding it, and can accordingly be seen by all. Now by such a vision only a body can be beheld. Consequently, since the angels are not bodies, nor have they bodies naturally united with them, as is clear from what has been said [476](A[1]; [477]Q[50], A[1]), it follows that they sometimes assume bodies.
+
 ## Replies
+
 Reply to Objection 1: Angels need an assumed body, not for themselves, but on our account; that by conversing familiarly with men they may give evidence of that intellectual companionship which men expect to have with them in the life to come. Moreover that angels assumed bodies under the Old Law was a figurative indication that the Word of God would take a human body; because all the apparitions in the Old Testament were ordained to that one whereby the Son of God appeared in the flesh.
+
 Reply to Objection 2: The body assumed is united to the angel not as its form, nor merely as its mover, but as its mover represented by the assumed movable body. For as in the Sacred Scripture the properties of intelligible things are set forth by the likenesses of things sensible, in the same way by Divine power sensible bodies are so fashioned by angels as fittingly to represent the intelligible properties of an angel. And this is what we mean by an angel assuming a body.
+
 Reply to Objection 3: Although air as long as it is in a state of rarefaction has neither shape nor color, yet when condensed it can both be shaped and colored as appears in the clouds. Even so the angels assume bodies of air, condensing it by the Divine power in so far as is needful for forming the assumed body.

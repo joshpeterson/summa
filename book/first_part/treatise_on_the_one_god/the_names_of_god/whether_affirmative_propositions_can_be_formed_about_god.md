@@ -1,14 +1,25 @@
 # Whether Affirmative Propositions Can Be Formed About God?
+
 ## Objections
+
 Objection 1: It seems that affirmative propositions cannot be formed about God. For Dionysius says (Coel. Hier. ii) that "negations about God are true; but affirmations are vague."
+
 Objection 2: Further, Boethius says (De Trin. ii) that "a simple form cannot be a subject." But God is the most absolutely simple form, as shown (Q[3] ): therefore He cannot be a subject. But everything about which an affirmative proposition is made is taken as a subject. Therefore an affirmative proposition cannot be formed about God.
+
 Objection 3: Further, every intellect is false which understands a thing otherwise than as it is. But God has existence without any composition as shown above ([75]Q[3], A[7]). Therefore since every affirmative intellect understands something as compound, it follows that a true affirmative proposition about God cannot be made.
+
 ## Answer
+
 On the contrary, What is of faith cannot be false. But some affirmative propositions are of faith; as that God is Three and One; and that He is omnipotent. Therefore true affirmative propositions can be formed about God.
+
 I answer that, True affirmative propositions can be formed about God. To prove this we must know that in every true affirmative proposition the predicate and the subject signify in some way the same thing in reality, and different things in idea. And this appears to be the case both in propositions which have an accidental predicate, and in those which have an essential predicate. For it is manifest that "man" and "white" are the same in subject, and different in idea; for the idea of man is one thing, and that of whiteness is another. The same applies when I say, "man is an animal"; since the same thing which is man is truly animal; for in the same "suppositum" there is sensible nature by reason of which he is called animal, and the rational nature by reason of which he is called man; hence here again predicate and subject are the same as to "suppositum," but different as to idea. But in propositions where one same thing is predicated of itself, the same rule in some way applies, inasmuch as the intellect draws to the "suppositum" what it places in the subject; and what it places in the predicate it draws to the nature of the form existing in the "suppositum"; according to the saying that "predicates are to be taken formally, and subjects materially." To this diversity in idea corresponds the plurality of predicate and subject, while the intellect signifies the identity of the thing by the composition itself.
 
 God, however, as considered in Himself, is altogether one and simple, yet our intellect knows Him by different conceptions because it cannot see Him as He is in Himself. Nevertheless, although it understands Him under different conceptions, it knows that one and the same simple object corresponds to its conceptions. Therefore the plurality of predicate and subject represents the plurality of idea; and the intellect represents the unity by composition.
+
 ## Replies
+
 Reply to Objection 1: Dionysius says that the affirmations about God are vague or, according to another translation, "incongruous," inasmuch as no name can be applied to God according to its mode of signification.
+
 Reply to Objection 2: Our intellect cannot comprehend simple subsisting forms, as they really are in themselves; but it apprehends them as compound things in which there is something taken as subject and something that is inherent. Therefore it apprehends the simple form as a subject, and attributes something else to it.
+
 Reply to Objection 3: This proposition, "The intellect understanding anything otherwise than it is, is false," can be taken in two senses, accordingly as this adverb "otherwise" determines the word "understanding" on the part of the thing understood, or on the part of the one who understands. Taken as referring to the thing understood, the proposition is true, and the meaning is: Any intellect which understands that the thing is otherwise than it is, is false. But this does not hold in the present case; because our intellect, when forming a proposition about God, does not affirm that He is composite, but that He is simple. But taken as referring to the one who understands, the proposition is false. For the mode of the intellect in understanding is different from the mode of the thing in its essence. Since it is clear that our intellect understands material things below itself in an immaterial manner; not that it understands them to be immaterial things; but its manner of understanding is immaterial. Likewise, when it understands simple things above itself, it understands them according to its own mode, which is in a composite manner; yet not so as to understand them to be composite things. And thus our intellect is not false in forming composition in its ideas concerning God.

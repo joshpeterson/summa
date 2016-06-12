@@ -1,10 +1,19 @@
 # Whether The Character Of One Order Necessarily Presupposes The Character Of Another Order?
+
 ## Objections
+
 Objection 1: It would seem that the character of one Order necessarily presupposes the character of another Order. For there is more in common between one Order and another, than between Order and another sacrament. But the character of Order presupposes the character of another sacrament, namely Baptism. Much more therefore does the character of one Order presuppose the character of another.
+
 Objection 2: Further, the Orders are degrees of a kind. Now no one can reach a further degree, unless he first mount the previous degree. Therefore no one can receive the character of a subsequent Order unless he has first received the preceding Order.
+
 ## Answer
+
 On the contrary, If anything necessary for a sacrament be omitted in that sacrament, the sacrament must be repeated. But if one receive a subsequent Order, without receiving a preceding Order, he is not reordained, but he receives what was lacking, according to the canonical statutes (cap. Tuae literae, De clerico per salt. prom.). Therefore the preceding Order is not necessary for the following.
+
 I answer that, It is not necessary for the higher Orders that one should have received the minor Orders, because their respective powers are distinct, and one, considered in its essentials, does not require another in the same subject. Hence even in the early Church some were ordained priests without having previously received the lower Orders and yet they could do all that the lower Orders could, because the lower power is comprised in the higher, even as sense in understanding, and dukedom in kingdom. Afterwards, however, it was decided by the legislation of the Church that no one should present himself to the higher orders who had not previously humbled himself in the lower offices. And hence it is that according to the Canons (cap. Tuae literae, De clerico per salt. prom.) those who are ordained without receiving a preceding Order are not reordained, but receive what was lacking to them of the preceding Order.
+
 ## Replies
+
 Reply to Objection 1: Orders have more in common with one another as regards specific likeness, than order has with Baptism. But as regards proportion of power to action, Baptism has more in common with Order, than one Order with another, because Baptism confers on man the passive power to receive Orders, whereas a lower Order does not give him the passive power to receive higher Orders.
+
 Reply to Objection 2: Orders are not degrees combining in one action or in one movement, so that it be necessary to reach the last through the first; but they are like degrees consisting in things of different kinds, such as the degrees between man and angel, and it is not necessary that one who is an angel be first of all a man. Such also are the degrees between the head and all members of the body; nor is it necessary that that which is the head should be previously a foot; and thus it is in the case in point.

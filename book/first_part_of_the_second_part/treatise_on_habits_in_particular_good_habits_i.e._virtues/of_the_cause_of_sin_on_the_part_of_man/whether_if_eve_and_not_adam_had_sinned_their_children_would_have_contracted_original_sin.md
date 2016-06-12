@@ -1,12 +1,23 @@
 # Whether If Eve, And Not Adam, Had Sinned, Their Children Would Have Contracted Original Sin?
+
 ## Objections
+
 Objection 1: It would seem that if Eve, and not Adam, had sinned, their children would have contracted original sin. Because we contract original sin from our parents, in so far as we were once in them, according to the word of the Apostle (Rom. 5:12): "In whom all have sinned." Now a man pre-exist in his mother as well as in his father. Therefore a man would have contracted original sin from his mother's sin as well as from his father's.
+
 Objection 2: Further, if Eve, and not Adam, had sinned, their children would have been born liable to suffering and death, since it is "the mother" that "provides the matter in generation" as the Philosopher states (De Gener. Animal. ii, 1,4), when death and liability to suffering are the necessary results of matter. Now liability to suffering and the necessity of dying are punishments of original sin. Therefore if Eve, and not Adam, had sinned, their children would contract original sin.
+
 Objection 3: Further, Damascene says (De Fide Orth. iii, 3) that "the Holy Ghost came upon the Virgin," (of whom Christ was to be born without original sin) "purifying her." But this purification would not have been necessary, if the infection of original sin were not contracted from the mother. Therefore the infection of original sin is contracted from the mother: so that if Eve had sinned, her children would have contracted original sin, even if Adam had not sinned.
+
 ## Answer
+
 On the contrary, The Apostle says (Rom. 5:12): "By one man sin entered into this world." Now if the woman would have transmitted original sin to her children, he should have said that it entered by two, since both of them sinned, or rather that it entered by a woman, since she sinned first. Therefore original sin is transmitted to the children, not by the mother, but by the father.
+
 I answer that, The solution of this question is made clear by what has been said. For it has been stated [1826](A[1]) that original sin is transmitted by the first parent in so far as he is the mover in the begetting of his children: wherefore it has been said [1827](A[4]) that if anyone were begotten materially only, of human flesh, they would not contract original sin. Now it is evident that in the opinion of philosophers, the active principle of generation is from the father, while the mother provides the matter. Therefore original sin, is contracted, not from the mother, but from the father: so that, accordingly, if Eve, and not Adam, had sinned, their children would not contract original sin: whereas, if Adam, and not Eve, had sinned, they would contract it.
+
 ## Replies
+
 Reply to Objection 1: The child pre-exists in its father as in its active principle, and in its mother, as in its material and passive principle. Consequently the comparison fails.
+
 Reply to Objection 2: Some hold that if Eve, and not Adam, had sinned, their children would be immune from the sin, but would have been subject to the necessity of dying and to other forms of suffering that are a necessary result of the matter which is provided by the mother, not as punishments, but as actual defects. This, however, seems unreasonable. Because, as stated in the [1828]FP, Q[97], AA[1], 2, ad 4, immortality and impassibility, in the original state, were a result, not of the condition of matter, but of original justice, whereby the body was subjected to the soul, so long as the soul remained subject to God. Now privation of original justice is original sin. If, therefore, supposing Adam had not sinned, original sin would not have been transmitted to posterity on account of Eve's sin; it is evident that the children would not have been deprived of original justice: and consequently they would not have been liable to suffer and subject to the necessity of dying.
+
 Reply to Objection 3: This prevenient purification in the Blessed Virgin was not needed to hinder the transmission of original sin, but because it behooved the Mother of God "to shine with the greatest purity" [*Cf. Anselm, De Concep. Virg. xviii.]. For nothing is worthy to receive God unless it be pure, according to Ps. 92:5: "Holiness becometh Thy House, O Lord."

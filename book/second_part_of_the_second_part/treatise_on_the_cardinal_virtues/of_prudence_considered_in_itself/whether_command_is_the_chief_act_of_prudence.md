@@ -1,14 +1,25 @@
 # Whether Command Is The Chief Act Of Prudence?
+
 ## Objections
+
 Objection 1: It would seem that command is not the chief act of prudence. For command regards the good to be ensued. Now Augustine (De Trin. xiv, 9) states that it is an act of prudence "to avoid ambushes." Therefore command is not the chief act of prudence.
+
 Objection 2: Further, the Philosopher says (Ethic. vi, 5) that "the prudent man takes good counsel." Now "to take counsel" and "to command" seem to be different acts, as appears from what has been said above ([2742]FS, Q[57], A[6]). Therefore command is not the chief act of prudence.
+
 Objection 3: Further, it seems to belong to the will to command and to rule, since the will has the end for its object, and moves the other powers of the soul. Now prudence is not in the will, but in the reason. Therefore command is not an act of prudence.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. vi, 10) that "prudence commands."
+
 I answer that, Prudence is "right reason applied to action," as stated above [2743](A[2]). Hence that which is the chief act of reason in regard to action must needs be the chief act of prudence. Now there are three such acts. The first is "to take counsel," which belongs to discovery, for counsel is an act of inquiry, as stated above ([2744]FS, Q[14], A[1]). The second act is "to judge of what one has discovered," and this is an act of the speculative reason. But the practical reason, which is directed to action, goes further, and its third act is "to command," which act consists in applying to action the things counselled and judged. And since this act approaches nearer to the end of the practical reason, it follows that it is the chief act of the practical reason, and consequently of prudence.
 
 In confirmation of this we find that the perfection of art consists in judging and not in commanding: wherefore he who sins voluntarily against his craft is reputed a better craftsman than he who does so involuntarily, because the former seems to do so from right judgment, and the latter from a defective judgment. On the other hand it is the reverse in prudence, as stated in Ethic. vi, 5, for it is more imprudent to sin voluntarily, since this is to be lacking in the chief act of prudence, viz. command, than to sin involuntarily.
+
 ## Replies
+
 Reply to Objection 1: The act of command extends both to the ensuing of good and to the avoidance of evil. Nevertheless Augustine ascribes "the avoidance of ambushes" to prudence, not as its chief act, but as an act of prudence that does not continue in heaven.
+
 Reply to Objection 2: Good counsel is required in order that the good things discovered may be applied to action: wherefore command belongs to prudence which takes good counsel.
+
 Reply to Objection 3: Simply to move belongs to the will: but command denotes motion together with a kind of ordering, wherefore it is an act of the reason, as stated above ([2745]FS, Q[17], A[1]).

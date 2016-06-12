@@ -1,14 +1,27 @@
 # Whether A Man, By Himself And Without The External Aid Of Grace, Can Prepare Himself For Grace?
+
 ## Objections
+
 Objection 1: It would seem that man, by himself and without the external help of grace, can prepare himself for grace. For nothing impossible is laid upon man, as stated above (A[4], ad 1). But it is written (Zech. 1:3): "Turn ye to Me . . . and I will turn to you." Now to prepare for grace is nothing more than to turn to God. Therefore it seems that man of himself, and without the external help of grace, can prepare himself for grace.
+
 Objection 2: Further, man prepares himself for grace by doing what is in him to do, since if man does what is in him to do, God will not deny him grace, for it is written (Mat. 7:11) that God gives His good Spirit "to them that ask Him." But what is in our power is in us to do. Therefore it seems to be in our power to prepare ourselves for grace.
+
 Objection 3: Further, if a man needs grace in order to prepare for grace, with equal reason will he need grace to prepare himself for the first grace; and thus to infinity, which is impossible. Hence it seems that we must not go beyond what was said first, viz. that man, of himself and without grace, can prepare himself for grace.
+
 Objection 4: Further, it is written (Prov. 16:1) that "it is the part of man to prepare the soul." Now an action is said to be part of a man, when he can do it by himself. Hence it seems that man by himself can prepare himself for grace.
+
 ## Answer
+
 On the contrary, It is written (Jn. 6:44): "No man can come to Me except the Father, Who hath sent Me, draw him." But if man could prepare himself, he would not need to be drawn by another. Hence man cannot prepare himself without the help of grace.
+
 I answer that, The preparation of the human will for good is twofold: the first, whereby it is prepared to operate rightly and to enjoy God; and this preparation of the will cannot take place without the habitual gift of grace, which is the principle of meritorious works, as stated above [2176](A[5]). There is a second way in which the human will may be taken to be prepared for the gift of habitual grace itself. Now in order that man prepare himself to receive this gift, it is not necessary to presuppose any further habitual gift in the soul, otherwise we should go on to infinity. But we must presuppose a gratuitous gift of God, Who moves the soul inwardly or inspires the good wish. For in these two ways do we need the Divine assistance, as stated above ([2177]AA[2],3). Now that we need the help of God to move us, is manifest. For since every agent acts for an end, every cause must direct is effect to its end, and hence since the order of ends is according to the order of agents or movers, man must be directed to the last end by the motion of the first mover, and to the proximate end by the motion of any of the subordinate movers; as the spirit of the soldier is bent towards seeking the victory by the motion of the leader of the army---and towards following the standard of a regiment by the motion of the standard-bearer. And thus since God is the First Mover, simply, it is by His motion that everything seeks to be likened to God in its own way. Hence Dionysius says (Div. Nom. iv) that "God turns all to Himself." But He directs righteous men to Himself as to a special end, which they seek, and to which they wish to cling, according to Ps. 72:28, "it is good for Me to adhere to my God." And that they are "turned" to God can only spring from God's having "turned" them. Now to prepare oneself for grace is, as it were, to be turned to God; just as, whoever has his eyes turned away from the light of the sun, prepares himself to receive the sun's light, by turning his eyes towards the sun. Hence it is clear that man cannot prepare himself to receive the light of grace except by the gratuitous help of God moving him inwardly.
+
 ## Replies
+
 Reply to Objection 1: Man's turning to God is by free-will; and thus man is bidden to turn himself to God. But free-will can only be turned to God, when God turns it, according to Jer. 31:18: "Convert me and I shall be converted, for Thou art the Lord, my God"; and Lam. 5:21: "Convert us, O Lord, to Thee, and we shall be converted."
+
 Reply to Objection 2: Man can do nothing unless moved by God, according to Jn. 15:5: "Without Me, you can do nothing." Hence when a man is said to do what is in him to do, this is said to be in his power according as he is moved by God.
+
 Reply to Objection 3: This objection regards habitual grace, for which some preparation is required, since every form requires a disposition in that which is to be its subject. But in order that man should be moved by God, no further motion is presupposed since God is the First Mover. Hence we need not go to infinity.
+
 Reply to Objection 4: It is the part of man to prepare his soul, since he does this by his free-will. And yet he does not do this without the help of God moving him, and drawing him to Himself, as was said above.

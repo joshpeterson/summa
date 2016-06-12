@@ -1,12 +1,23 @@
 # Whether This Proposition Is False: "Christ As Man Was Predestinated To Be The Son Of God"?
+
 ## Objections
+
 Objection 1: It would seem that this proposition is false: "Christ as man was predestinated to be the Son of God." For at some time a man is that which he was predestinated to be: since God's predestination does not fail. If, therefore, Christ as man was predestinated the Son of God, it seems to follow that as man He is the Son of God. But the latter is false. Therefore the former is false.
+
 Objection 2: Further, what is befitting to Christ as man is befitting to any man; since He belongs to the same species as other men. If, therefore, Christ, as man, was predestinated the Son of God, it will follow that this is befitting to any other man. But the latter is false. Therefore the former is false.
+
 Objection 3: Further, that is predestinated from eternity which is to take place at some time. But this proposition, "The Son of God was made man," is truer than this, "Man was made the Son of God." Therefore this proposition, "Christ, as the Son of God, was predestinated to be man," is truer than this, "Christ as Man was predestinated to be the Son of God."
+
 ## Answer
+
 On the contrary, Augustine (De Praedest. Sanct. xv) says: "Forasmuch as God the Son was made Man, we say that the Lord of Glory was predestinated."
+
 I answer that, Two things may be considered in predestination. One on the part of eternal predestination itself: and in this respect it implies a certain antecedence in regard to that which comes under predestination. Secondly, predestination may be considered as regards its temporal effect, which is some gratuitous gift of God. Therefore from both points of view we must say that predestination is ascribed to Christ by reason of His human nature alone: for human nature was not always united to the Word; and by grace bestowed an it was it united in Person to the Son of God. Consequently, by reason of human nature alone can predestination be attributed to Christ. Wherefore Augustine says (De Praedest. Sanct. xv): "This human nature of ours was predestinated to be raised to so great, so lofty, so exalted a position, that it would be impossible to raise it higher." Now that is said to belong to anyone as man which belongs to him by reason of human nature. Consequently, we must say that "Christ, as Man, was predestinated the Son of God."
+
 ## Replies
+
 Reply to Objection 1: When we say, "Christ, as Man, was predestinated the Son of God," this qualification, "as Man," can be referred in two ways to the action signified by the participle. First, as regards what comes under predestination materially, and thus it is false. For the sense would be that it was predestinated that Christ, as Man, should be the Son of God. And in this sense the objection takes it.
+
 Reply to Objection 2: Something may be befitting to a man by reason of human nature, in two ways. First, so that human nature be the cause thereof: thus risibility is befitting to Socrates by reason of human nature, being caused by its principles. In this manner predestination is not befitting either to Christ or to any other man, by reason of human nature. This is the sense of the objection. Secondly, a thing may be befitting to someone by reason of human nature, because human nature is susceptible of it. And in this sense we say that Christ was predestinated by reason of human nature; because predestination refers to the exaltation of human nature in Him, as stated above.
+
 Reply to Objection 3: As Augustine says (Praedest. Sanct. xv): "The Word of God assumed Man to Himself in such a singular and ineffable manner that at the same time He may be truly and correctly called the Son of Man, because He assumed Men to Himself; and the Son of God, because it was the Only-begotten of God Who assumed human nature." Consequently, since this assumption comes under predestination by reason of its being gratuitous, we can say both that the Son of God was predestinated to be man, and that the Son of Man was predestinated to be the Son of God. But because grace was not bestowed on the Son of God that He might be man, but rather on human nature, that it might be united to the Son of God; it is more proper to say that "Christ, as Man, was predestinated to be the Son of God," than that, "Christ, as Son of God, was predestinated to be Man."

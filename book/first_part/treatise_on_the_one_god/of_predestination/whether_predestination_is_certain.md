@@ -1,12 +1,23 @@
 # Whether Predestination Is Certain?
+
 ## Objections
+
 Objection 1: It seems that predestination is not certain. Because on the words "Hold fast that which thou hast, that no one take thy crown," (Rev 3:11), Augustine says (De Corr. et Grat. 15): "Another will not receive, unless this one were to lose it." Hence the crown which is the effect of predestination can be both acquired and lost. Therefore predestination cannot be certain.
+
 Objection 2: Further, granted what is possible, nothing impossible follows. But it is possible that one predestined---e.g. Peter---may sin and then be killed. But if this were so, it would follow that the effect of predestination would be thwarted. This then, is not impossible. Therefore predestination is not certain.
+
 Objection 3: Further, whatever God could do in the past, He can do now. But He could have not predestined whom He hath predestined. Therefore now He is able not to predestine him. Therefore predestination is not certain.
+
 ## Answer
+
 On the contrary, A gloss on Rom. 8:29: "Whom He foreknew, He also predestinated", says: "Predestination is the foreknowledge and preparation of the benefits of God, by which whosoever are freed will most certainly be freed."
+
 I answer that, Predestination most certainly and infallibly takes effect; yet it does not impose any necessity, so that, namely, its effect should take place from necessity. For it was said above [186](A[1]), that predestination is a part of providence. But not all things subject to providence are necessary; some things happening from contingency, according to the nature of the proximate causes, which divine providence has ordained for such effects. Yet the order of providence is infallible, as was shown above ([187]Q[22], A[4]). So also the order of predestination is certain; yet free-will is not destroyed; whence the effect of predestination has its contingency. Moreover all that has been said about the divine knowledge and will ([188]Q[14], A[13]; [189]Q[19], A[4]) must also be taken into consideration; since they do not destroy contingency in things, although they themselves are most certain and infallible.
+
 ## Replies
+
 Reply to Objection 1: The crown may be said to belong to a person in two ways; first, by God's predestination, and thus no one loses his crown: secondly, by the merit of grace; for what we merit, in a certain way is ours; and thus anyone may lose his crown by mortal sin. Another person receives that crown thus lost, inasmuch as he takes the former's place. For God does not permit some to fall, without raising others; according to Job 34:24: "He shall break in pieces many and innumerable, and make others to stand in their stead." Thus men are substituted in the place of the fallen angels; and the Gentiles in that of the Jews. He who is substituted for another in the state of grace, also receives the crown of the fallen in that in eternal life he will rejoice at the good the other has done, in which life he will rejoice at all good whether done by himself or by others.
+
 Reply to Objection 2: Although it is possible for one who is predestinated considered in himself to die in mortal sin; yet it is not possible, supposed, as in fact it is supposed. that he is predestinated. Whence it does not follow that predestination can fall short of its effect.
+
 Reply to Objection 3: Since predestination includes the divine will as stated above [190](A[4]): and the fact that God wills any created thing is necessary on the supposition that He so wills, on account of the immutability of the divine will, but is not necessary absolutely; so the same must be said of predestination. Wherefore one ought not to say that God is able not to predestinate one whom He has predestinated, taking it in a composite sense, thought, absolutely speaking, God can predestinate or not. But in this way the certainty of predestination is not destroyed.

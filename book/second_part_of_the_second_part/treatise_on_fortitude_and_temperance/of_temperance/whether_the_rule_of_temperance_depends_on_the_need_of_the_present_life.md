@@ -1,12 +1,23 @@
 # Whether The Rule Of Temperance Depends On The Need Of The Present Life?
+
 ## Objections
+
 Objection 1: It would seem that the rule of temperance does not depend on the needs of the present life. For higher things are not regulated according to lower. Now, as temperance is a virtue of the soul, it is above the needs of the body. Therefore the rule of temperance does not depend on the needs of the body.
+
 Objection 2: Further, whoever exceeds a rule sins. Therefore if the needs of the body were the rule of temperance, it would be a sin against temperance to indulge in any other pleasure than those required by nature, which is content with very little. But this would seem unreasonable.
+
 Objection 3: Further, no one sins in observing a rule. Therefore if the need of the body were the rule of temperance, there would be no sin in using any pleasure for the needs of the body, for instance, for the sake of health. But this is apparently false. Therefore the need of the body is not the rule of temperance.
+
 ## Answer
+
 On the contrary, Augustine says (De Morib. Eccl. xxi): "In both Testaments the temperate man finds confirmation of the rule forbidding him to love the things of this life, or to deem any of them desirable for its own sake, and commanding him to avail himself of those things with the moderation of a user not the attachment of a lover, in so far as they are requisite for the needs of this life and of his station."
+
 I answer that, As stated above [3444](A[1]; Q[109], A[2]; Q[123], A[12]), the good of moral virtue consists chiefly in the order of reason: because "man's good is to be in accord with reason," as Dionysius asserts (Div. Nom. iv). Now the principal order of reason is that by which it directs certain things towards their end, and the good of reason consists chiefly in this order; since good has the aspect of end, and the end is the rule of whatever is directed to the end. Now all the pleasurable objects that are at man's disposal, are directed to some necessity of this life as to their end. Wherefore temperance takes the need of this life, as the rule of the pleasurable objects of which it makes use, and uses them only for as much as the need of this life requires.
+
 ## Replies
+
 Reply to Objection 1: As stated above, the need of this life is regarded as a rule in so far as it is an end. Now it must be observed that sometimes the end of the worker differs from the end of the work, thus it is clear that the end of building is a house, whereas sometimes the end of the builder is profit. Accordingly the end and rule of temperance itself is happiness; while the end and rule of the thing it makes use of is the need of human life, to which whatever is useful for life is subordinate.
+
 Reply to Objection 2: The need of human life may be taken in two ways. First, it may be taken in the sense in which we apply the term "necessary" to that without which a thing cannot be at all; thus food is necessary to an animal. Secondly, it may be taken for something without which a thing cannot be becomingly. Now temperance regards not only the former of these needs, but also the latter. Wherefore the Philosopher says (Ethic. iii, 11) that "the temperate man desires pleasant things for the sake of health, or for the sake of a sound condition of body." Other things that are not necessary for this purpose may be divided into two classes. For some are a hindrance to health and a sound condition of body; and these temperance makes not use of whatever, for this would be a sin against temperance. But others are not a hindrance to those things, and these temperance uses moderately, according to the demands of place and time, and in keeping with those among whom one dwells. Hence the Philosopher (Ethic. iii, 11) says that the "temperate man also desires other pleasant things," those namely that are not necessary for health or a sound condition of body, "so long as they are not prejudicial to these things."
+
 Reply to Objection 3: As stated (ad 2), temperance regards need according to the requirements of life, and this depends not only on the requirements of the body, but also on the requirements of external things, such as riches and station, and more still on the requirements of good conduct. Hence the Philosopher adds (Ethic. iii, 11) that "the temperate man makes use of pleasant things provided that not only they be not prejudicial to health and a sound bodily condition, but also that they be not inconsistent with good," i.e. good conduct, nor "beyond his substance," i.e. his means. And Augustine says (De Morib. Eccl. xxi) that the "temperate man considers the need" not only "of this life" but also "of his station."

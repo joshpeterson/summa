@@ -1,12 +1,23 @@
 # Whether Comprehension Is Necessary For Happiness?
+
 ## Objections
+
 Objection 1: It would seem that comprehension is not necessary for happiness. For Augustine says (Ad Paulinam de Videndo Deum; [*Cf. Serm. xxxciii De Verb. Dom.]): "To reach God with the mind is happiness, to comprehend Him is impossible." Therefore happiness is without comprehension.
+
 Objection 2: Further, happiness is the perfection of man as to his intellective part, wherein there are no other powers than the intellect and will, as stated in the FP, QQ[79] and following. But the intellect is sufficiently perfected by seeing God, and the will by enjoying Him. Therefore there is no need for comprehension as a third.
+
 Objection 3: Further, happiness consists in an operation. But operations are determined by their objects: and there are two universal objects, the true and the good: of which the true corresponds to vision, and good to delight. Therefore there is no need for comprehension as a third.
+
 ## Answer
+
 On the contrary, The Apostle says (1 Cor. 9:24): "So run that you may comprehend [Douay: 'obtain']." But happiness is the goal of the spiritual race: hence he says (2 Tim. 4:7,8): "I have fought a good fight, I have finished my course, I have kept the faith; as to the rest there is laid up for me a crown of justice." Therefore comprehension is necessary for Happiness.
+
 I answer that, Since Happiness consists in gaining the last end, those things that are required for Happiness must be gathered from the way in which man is ordered to an end. Now man is ordered to an intelligible end partly through his intellect, and partly through his will: through his intellect, in so far as a certain imperfect knowledge of the end pre-exists in the intellect: through the will, first by love which is the will's first movement towards anything; secondly, by a real relation of the lover to the thing beloved, which relation may be threefold. For sometimes the thing beloved is present to the lover: and then it is no longer sought for. Sometimes it is not present, and it is impossible to attain it: and then, too, it is not sought for. But sometimes it is possible to attain it, yet it is raised above the capability of the attainer, so that he cannot have it forthwith; and this is the relation of one that hopes, to that which he hopes for, and this relation alone causes a search for the end. To these three, there are a corresponding three in Happiness itself. For perfect knowledge of the end corresponds to imperfect knowledge; presence of the end corresponds to the relation of hope; but delight in the end now present results from love, as already stated (A[2], ad 3). And therefore these three must concur with Happiness; to wit, vision, which is perfect knowledge of the intelligible end; comprehension, which implies presence of the end; and delight or enjoyment, which implies repose of the lover in the object beloved.
+
 ## Replies
+
 Reply to Objection 1: Comprehension is twofold. First, inclusion of the comprehended in the comprehensor; and thus whatever is comprehended by the finite, is itself finite. Wherefore God cannot be thus comprehended by a created intellect. Secondly, comprehension means nothing but the holding of something already present and possessed: thus one who runs after another is said to comprehend [*In English we should say 'catch.'] him when he lays hold on him. And in this sense comprehension is necessary for Happiness.
+
 Reply to Objection 2: Just as hope and love pertain to the will, because it is the same one that loves a thing, and that tends towards it while not possessed, so, too, comprehension and delight belong to the will, since it is the same that possesses a thing and reposes therein.
+
 Reply to Objection 3: Comprehension is not a distinct operation from vision; but a certain relation to the end already gained. Wherefore even vision itself, or the thing seen, inasmuch as it is present, is the object of comprehension.

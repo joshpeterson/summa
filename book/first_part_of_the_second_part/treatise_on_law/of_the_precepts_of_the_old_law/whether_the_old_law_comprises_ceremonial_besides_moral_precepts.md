@@ -1,12 +1,23 @@
 # Whether The Old Law Comprises Ceremonial, Besides Moral, Precepts?
+
 ## Objections
+
 Objection 1: It would seem that the Old Law does not comprise ceremonial, besides moral, precepts. For every law that is given to man is for the purpose of directing human actions. Now human actions are called moral, as stated above ([2073]Q[1], A[3]). Therefore it seems that the Old Law given to men should not comprise other than moral precepts.
+
 Objection 2: Further, those precepts that are styled ceremonial seem to refer to the Divine worship. But Divine worship is the act of a virtue, viz. religion, which, as Tully says (De Invent. ii) "offers worship and ceremony to the Godhead." Since, then, the moral precepts are about acts of virtue, as stated above [2074](A[2]), it seems that the ceremonial precepts should not be distinct from the moral.
+
 Objection 3: Further, the ceremonial precepts seem to be those which signify something figuratively. But, as Augustine observes (De Doctr. Christ. ii, 3,4), "of all signs employed by men words hold the first place." Therefore there is no need for the Law to contain ceremonial precepts about certain figurative actions.
+
 ## Answer
+
 On the contrary, It is written (Dt. 4:13,14): "Ten words . . . He wrote in two tables of stone; and He commanded me at that time that I should teach you the ceremonies and judgments which you shall do." But the ten commandments of the Law are moral precepts. Therefore besides the moral precepts there are others which are ceremonial.
+
 I answer that, As stated above [2075](A[2]), the Divine law is instituted chiefly in order to direct men to God; while human law is instituted chiefly in order to direct men in relation to one another. Hence human laws have not concerned themselves with the institution of anything relating to Divine worship except as affecting the common good of mankind: and for this reason they have devised many institutions relating to Divine matters, according as it seemed expedient for the formation of human morals; as may be seen in the rites of the Gentiles. On the other hand the Divine law directed men to one another according to the demands of that order whereby man is directed to God, which order was the chief aim of that law. Now man is directed to God not only by the interior acts of the mind, which are faith, hope, and love, but also by certain external works, whereby man makes profession of his subjection to God: and it is these works that are said to belong to the Divine worship. This worship is called "ceremony" [the munia, i.e. gifts] of Ceres (who was the goddess of fruits), as some say: because, at first, offerings were made to God from the fruits: or because, as Valerius Maximus states [*Fact. et Dict. Memor. i, 1], the word "ceremony" was introduced among the Latins, to signify the Divine worship, being derived from a town near Rome called "Caere": since, when Rome was taken by the Gauls, the sacred chattels of the Romans were taken thither and most carefully preserved. Accordingly those precepts of the Law which refer to the Divine worship are specially called ceremonial.
+
 ## Replies
+
 Reply to Objection 1: Human acts extend also to the Divine worship: and therefore the Old Law given to man contains precepts about these matters also.
+
 Reply to Objection 2: As stated above ([2076]Q[91], A[3]), the precepts of the natural law are general, and require to be determined: and they are determined both by human law and by Divine law. And just as these very determinations which are made by human law are said to be, not of natural, but of positive law; so the determinations of the precepts of the natural law, effected by the Divine law, are distinct from the moral precepts which belong to the natural law. Wherefore to worship God, since it is an act of virtue, belongs to a moral precept; but the determination of this precept, namely that He is to be worshipped by such and such sacrifices, and such and such offerings, belongs to the ceremonial precepts. Consequently the ceremonial precepts are distinct from the moral precepts.
+
 Reply to Objection 3: As Dionysius says (Coel. Hier. i), the things of God cannot be manifested to men except by means of sensible similitudes. Now these similitudes move the soul more when they are not only expressed in words, but also offered to the senses. Wherefore the things of God are set forth in the Scriptures not only by similitudes expressed in words, as in the case of metaphorical expressions; but also by similitudes of things set before the eyes, which pertains to the ceremonial precepts.

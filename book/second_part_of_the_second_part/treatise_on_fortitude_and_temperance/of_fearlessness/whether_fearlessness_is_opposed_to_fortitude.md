@@ -1,12 +1,23 @@
 # Whether Fearlessness Is Opposed To Fortitude?
+
 ## Objections
+
 Objection 1: It seems that fearlessness is not opposed to fortitude. For we judge of habits by their acts. Now no act of fortitude is hindered by a man being fearless: since if fear be removed, one is both brave to endure, and daring to attack. Therefore fearlessness is not opposed to fortitude.
+
 Objection 2: Further, fearlessness is a vice, either through lack of due love, or on account of pride, or by reason of folly. Now lack of due love is opposed to charity, pride is contrary to humility, and folly to prudence or wisdom. Therefore the vice of fearlessness is not opposed to fortitude.
+
 Objection 3: Further, vices are opposed to virtue and extremes to the mean. But one mean has only one extreme on the one side. Since then fortitude has fear opposed to it on the one side and daring on the other, it seems that fearlessness is not opposed thereto.
+
 ## Answer
+
 On the contrary, The Philosopher (Ethic. iii) reckons fearlessness to be opposed to fortitude.
+
 I answer that, As stated above ([3329]Q[123], A[3]), fortitude is concerned about fear and daring. Now every moral virtue observes the rational mean in the matter about which it is concerned. Hence it belongs to fortitude that man should moderate his fear according to reason, namely that he should fear what he ought, and when he ought, and so forth. Now this mode of reason may be corrupted either by excess or by deficiency. Wherefore just as timidity is opposed to fortitude by excess of fear, in so far as a man fears what he ought not, and as he ought not, so too fearlessness is opposed thereto by deficiency of fear, in so far as a man fears not what he ought to fear.
+
 ## Replies
+
 Reply to Objection 1: The act of fortitude is to endure death without fear, and to be aggressive, not anyhow, but according to reason: this the fearless man does not do.
+
 Reply to Objection 2: Fearlessness by its specific nature corrupts the mean of fortitude, wherefore it is opposed to fortitude directly. But in respect of its causes nothing hinders it from being opposed to other virtues.
+
 Reply to Objection 3: The vice of daring is opposed to fortitude by excess of daring, and fearlessness by deficiency of fear. Fortitude imposes the mean on each passion. Hence there is nothing unreasonable in its having different extremes in different respects.

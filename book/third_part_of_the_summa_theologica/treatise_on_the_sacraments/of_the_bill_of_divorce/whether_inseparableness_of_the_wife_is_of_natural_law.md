@@ -1,13 +1,25 @@
 # Whether Inseparableness Of The Wife Is Of Natural Law?
+
 ## Objections
+
 Objection 1: It would seem that inseparableness of the wife is not of natural law. For the natural law is the same for all. But no law save Christ's has forbidden the divorcing of a wife. Therefore inseparableness of a wife is not of natural law.
+
 Objection 2: Further, the sacraments are not of the natural law. But the indissolubility of marriage is one of the marriage goods. Therefore it is not of the natural law.
+
 Objection 3: Further, the union of man and woman in marriage is chiefly directed to the begetting, rearing, and instruction of the offspring. But all things are complete by a certain time. Therefore after that time it is lawful to put away a wife without prejudice to the natural law.
+
 Objection 4: Further, the good of the offspring is the principal end of marriage. But the indissolubility of marriage is opposed to the good of the offspring, because, according to philosophers, a certain man cannot beget offspring of a certain woman, and yet he might beget of another, even though she may have had intercourse with another man. Therefore the indissolubility of marriage is against rather than according to the natural law.
+
 ## Answer
+
 On the contrary, Those things which were assigned to nature when it was well established in its beginning belong especially to the law of nature. Now the indissolubility of marriage is one of these things according to Mat. 19:4,6. Therefore it is of natural law.
+
 I answer that, By the intention of nature marriage is directed to the rearing of the offspring, not merely for a time, but throughout its whole life. Hence it is of natural law that parents should lay up for their children, and that children should be their parents' heirs (2 Cor. 12:14). Therefore, since the offspring is the common good of husband and wife, the dictate of the natural law requires the latter to live together for ever inseparably: and so the indissolubility of marriage is of natural law.
+
 ## Replies
+
 Reply to Objection 1: Christ's law alone brought mankind "to perfection" [*Cf. Heb. 7:19] by bringing man back to the state of the newness of nature. Wherefore neither Mosaic nor human laws could remove all that was contrary to the law of nature, for this was reserved exclusively to "the law of the spirit of life" [*Cf. Rom. 8:2].
+
 Reply to Objection 2: Indissolubility belongs to marriage in so far as the latter is a sign of the perpetual union of Christ with the Church, and in so far as it fulfills an office of nature that is directed to the good of the offspring, as stated above. But since divorce is more directly incompatible with the signification of the sacrament than with the good of the offspring, with which it is incompatible consequently, as stated above ([5019]Q[65], A[2], ad 5), the indissolubility of marriage is implied in the good of the sacrament rather than in the good of the offspring, although it may be connected with both. And in so far as it is connected with the good of the offspring, it is of the natural law, but not as connected with the good of the sacrament.
+
 Reply to Objection 4: Marriage is chiefly directed to the common good in respect of its principal end, which is the good of the offspring; although in respect of its secondary end it is directed to the good of the contracting party, in so far as it is by its very nature a remedy for concupiscence. Hence marriage laws consider what is expedient for all rather than what may be suitable for one. Therefore although the indissolubility of marriage hinder the good of the offspring with regard to some individual, it is proportionate with the good of the offspring absolutely speaking: and for this reason the argument does not prove.

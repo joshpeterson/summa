@@ -1,12 +1,23 @@
 # Whether Man's Action Is Good Or Evil From A Circumstance?
+
 ## Objections
+
 Objection 1: It would seem that an action is not good or evil from a circumstance. For circumstances stand around [circumstant] an action, as being outside it, as stated above ([1137]Q[7], A[1]). But "good and evil are in things themselves," as is stated in Metaph. vi, 4. Therefore an action does not derive goodness or malice from a circumstance.
+
 Objection 2: Further, the goodness or malice of an action is considered principally in the doctrine of morals. But since circumstances are accidents of actions, it seems that they are outside the scope of art: because "no art takes notice of what is accidental" (Metaph. vi, 2). Therefore the goodness or malice of an action is not taken from a circumstance.
+
 Objection 3: Further, that which belongs to a thing, in respect of its substance, is not ascribed to it in respect of an accident. But good and evil belong to an action in respect of its substance; because an action can be good or evil in its genus as stated above [1138](A[2]). Therefore an action is not good or bad from a circumstance.
+
 ## Answer
+
 On the contrary, the Philosopher says (Ethic. ii, 3) that a virtuous man acts as he should, and when he should, and so on in respect of the other circumstances. Therefore, on the other hand, the vicious man, in the matter of each vice, acts when he should not, or where he should not, and so on with the other circumstances. Therefore human actions are good or evil according to circumstances.
+
 I answer that, In natural things, it is to be noted that the whole fulness of perfection due to a thing, is not from the mere substantial form, that gives it its species; since a thing derives much from supervening accidents, as man does from shape, color, and the like; and if any one of these accidents be out of due proportion, evil is the result. So it is with action. For the plenitude of its goodness does not consist wholly in its species, but also in certain additions which accrue to it by reason of certain accidents: and such are its due circumstances. Wherefore if something be wanting that is requisite as a due circumstance the action will be evil.
+
 ## Replies
+
 Reply to Objection 1: Circumstances are outside an action, inasmuch as they are not part of its essence; but they are in an action as accidents thereof. Thus, too, accidents in natural substances are outside the essence.
+
 Reply to Objection 2: Every accident is not accidentally in its subject; for some are proper accidents; and of these every art takes notice. And thus it is that the circumstances of actions are considered in the doctrine of morals.
+
 Reply to Objection 3: Since good and being are convertible; according as being is predicated of substance and of accident, so is good predicated of a thing both in respect of its essential being, and in respect of its accidental being; and this, both in natural things and in moral actions.

@@ -1,16 +1,27 @@
 # Whether Six Daughters Are Fittingly Assigned To Anger?
+
 ## Objections
+
 Objection 1: It would seem that six daughters are unfittingly assigned to anger, namely "quarreling, swelling of the mind, contumely, clamor, indignation and blasphemy." For blasphemy is reckoned by Isidore [*QQ. in Deut., qu. xvi] to be a daughter of pride. Therefore it should not be accounted a daughter of anger.
+
 Objection 2: Further, hatred is born of anger, as Augustine says in his rule (Ep. ccxi). Therefore it should be placed among the daughters of anger.
+
 Objection 3: Further, "a swollen mind" would seem to be the same as pride. Now pride is not the daughter of a vice, but "the mother of all vices," as Gregory states (Moral. xxxi, 45). Therefore swelling of the mind should not be reckoned among the daughters of anger.
+
 ## Answer
+
 On the contrary, Gregory (Moral. xxxi, 45) assigns these daughters to anger.
+
 I answer that, Anger may be considered in three ways. First, as consisting in thought, and thus two vices arise from anger. one is on the part of the person with whom a man is angry, and whom he deems unworthy [indignum] of acting thus towards him, and this is called "indignation." The other vice is on the part of the man himself, in so far as he devises various means of vengeance, and with such like thoughts fills his mind, according to Job 15:2, "Will a wise man . . . fill his stomach with burning heat?" And thus we have "swelling of the mind."
 
 Secondly, anger may be considered, as expressed in words: and thus a twofold disorder arises from anger. One is when a man manifests his anger in his manner of speech, as stated above (A[5], ad 3) of the man who says to his brother, "Raca": and this refers to "clamor," which denotes disorderly and confused speech. The other disorder is when a man breaks out into injurious words, and if these be against God, it is "blasphemy," if against one's neighbor, it is "contumely."
 
 Thirdly, anger may be considered as proceeding to deeds; and thus anger gives rise to "quarrels," by which we are to understand all manner of injuries inflicted on one's neighbor through anger.
+
 ## Replies
+
 Reply to Objection 1: The blasphemy into which a man breaks out deliberately proceeds from pride, whereby a man lifts himself up against God: since, according to Ecclus. 10:14, "the beginning of the pride of man is to fall off from God," i.e. to fall away from reverence for Him is the first part of pride [*Cf.[3581] Q[162], A[7], ad 2]; and this gives rise to blasphemy. But the blasphemy into which a man breaks out through a disturbance of the mind, proceeds from anger.
+
 Reply to Objection 2: Although hatred sometimes arises from anger, it has a previous cause, from which it arises more directly, namely displeasure, even as, on the other hand, love is born of pleasure. Now through displeasure, a man is moved sometimes to anger, sometimes to hatred. Wherefore it was fitting to reckon that hatred arises from sloth rather than from anger.
+
 Reply to Objection 3: Swelling of the mind is not taken here as identical with pride, but for a certain effort or daring attempt to take vengeance; and daring is a vice opposed to fortitude.

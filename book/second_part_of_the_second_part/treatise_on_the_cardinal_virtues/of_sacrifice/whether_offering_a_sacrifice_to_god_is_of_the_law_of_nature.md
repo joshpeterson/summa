@@ -1,12 +1,23 @@
 # Whether Offering A Sacrifice To God Is Of The Law Of Nature?
+
 ## Objections
+
 Objection 1: It would seem that offering a sacrifice to God is not of the natural law. Things that are of the natural law are common among all men. Yet this is not the case with sacrifices: for we read of some, e.g. Melchisedech (Gn. 14:18), offering bread and wine in sacrifice, and of certain animals being offered by some, and others by others. Therefore the offering of sacrifices is not of the natural law.
+
 Objection 2: Further, things that are of the natural law were observed by all just men. Yet we do not read that Isaac offered sacrifice; nor that Adam did so, of whom nevertheless it is written (Wis. 10:2) that wisdom "brought him out of his sin." Therefore the offering of sacrifice is not of the natural law.
+
 Objection 3: Further, Augustine says (De Civ. Dei x, 5,19) that sacrifices are offered in signification of something. Now words which are chief among signs, as he again says (De Doctr. Christ. ii, 3), "signify, not by nature but by convention," according to the Philosopher (Peri Herm. i, 2). Therefore sacrifices are not of the natural law.
+
 ## Answer
+
 On the contrary, At all times and among all nations there has always been the offering of sacrifices. Now that which is observed by all is seemingly natural. Therefore the offering of sacrifices is of the natural law.
+
 I answer that, Natural reason tells man that he is subject to a higher being, on account of the defects which he perceives in himself, and in which he needs help and direction from someone above him: and whatever this superior being may be, it is known to all under the name of God. Now just as in natural things the lower are naturally subject to the higher, so too it is a dictate of natural reason in accordance with man's natural inclination that he should tender submission and honor, according to his mode, to that which is above man. Now the mode befitting to man is that he should employ sensible signs in order to signify anything, because he derives his knowledge from sensibles. Hence it is a dictate of natural reason that man should use certain sensibles, by offering them to God in sign of the subjection and honor due to Him, like those who make certain offerings to their lord in recognition of his authority. Now this is what we mean by a sacrifice, and consequently the offering of sacrifice is of the natural law.
+
 ## Replies
+
 Reply to Objection 1: As stated above ([3035]FS, Q[95], A[2]), certain things belong generically to the natural law, while their determination belongs to the positive law; thus the natural law requires that evildoers should be punished; but that this or that punishment should be inflicted on them is a matter determined by God or by man. In like manner the offering of sacrifice belongs generically to the natural law, and consequently all are agreed on this point, but the determination of sacrifices is established by God or by man, and this is the reason for their difference.
+
 Reply to Objection 2: Adam, Isaac and other just men offered sacrifice to God in a manner befitting the times in which they lived, according to Gregory, who says (Moral. iv, 3) that in olden times original sin was remitted through the offering of sacrifices. Nor does Scripture mention all the sacrifices of the just, but only those that have something special connected with them. Perhaps the reason why we read of no sacrifice being offered by Adam may be that, as the origin of sin is ascribed to him, the origin of sanctification ought not to be represented as typified in him. Isaac was a type of Christ, being himself offered in sacrifice; and so there was no need that he should be represented as offering a sacrifice.
+
 Reply to Objection 3: It is natural to man to express his ideas by signs, but the determination of those signs depends on man's pleasure.

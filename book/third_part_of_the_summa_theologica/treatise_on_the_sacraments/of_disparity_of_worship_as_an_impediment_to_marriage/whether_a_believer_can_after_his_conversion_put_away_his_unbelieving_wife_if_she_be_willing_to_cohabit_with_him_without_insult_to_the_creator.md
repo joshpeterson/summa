@@ -1,16 +1,31 @@
 # Whether A Believer Can, After His Conversion, Put Away His Unbelieving Wife If She Be Willing To Cohabit With Him Without Insult To The Creator?
+
 ## Objections
+
 Objection 1: It would seem that a believer, after his conversion, cannot put away his unbelieving wife if she be willing to cohabit with him without insult to the Creator. For the husband is more bound to his wife than a slave to his master. But a converted slave is not freed from the bond of slavery, as appears from 1 Cor. 7:21; 1 Tim. 6:1. Therefore neither can a believing husband put away his unbelieving wife.
+
 Objection 2: Further, no one may act to another's prejudice without the latter's consent. Now the unbelieving wife had a right in the body of her unbelieving husband. If, then, her husband's conversion to the faith could be prejudicial to the wife, so that he would be free to put her away, the husband could not be converted to the faith without his wife's consent, even as he cannot receive orders or vow continence without her consent.
+
 Objection 3: Further, if a man, whether slave or free, knowingly marry a bondwoman, he cannot put her away on account of her different condition. Since, then, the husband, when he married an unbeliever, knew that she was an unbeliever, it would seem that in like manner he cannot put her away on account of her unbelief.
+
 Objection 4: Further, a father is in duty bound to work for the salvation of his children. But if he were to leave his unbelieving wife, the children of their union would remain with the mother, because "the offspring follows the womb," and thus their salvation would be imperiled. Therefore he cannot lawfully put away his unbelieving wife.
+
 Objection 5: Further, an adulterous husband cannot put away an adulterous wife, even after he has done penance for his adultery. Therefore if an adulterous and an unbelieving husband are to be judged alike, neither can the believer put aside the unbeliever, even after his conversion to the faith.
+
 ## Answer
+
 On the contrary, are the words of the Apostle (1 Cor. 7:15,16).
+
 I answer that, Different things are competent and expedient to man according as his life is of one kind or of another. Wherefore he who dies to his former life is not bound to those things to which he was bound in his former life. Hence it is that he who vowed certain things while living in the world is not bound to fulfill them when he dies to the world by adopting the religious life. Now he who is baptized is regenerated in Christ and dies to his former life, since the generation of one thing is the corruption of another, and consequently he is freed from the obligation whereby he was bound to pay his wife the marriage debt, and is not bound to cohabit with her when she is unwilling to be converted, although in a certain case he is free to do so, as stated above [4995](A[3]), just as a religious is free to fulfill the vows he took in the world, if they be not contrary to his religious profession, although he is not bound to do so.
+
 ## Replies
+
 Reply to Objection 1: Bondage is not inconsistent with the perfection of the Christian religion, which makes a very special profession of humility. But the obligation to a wife, or the conjugal bond, is somewhat derogatory to the perfection of Christian life, the highest state of which is in the possession of the continent: hence the comparison fails. Moreover one married party is not bound to the other as the latter's possession, as a slave to his master, but by way of a kind of partnership, which is unfitting between unbeliever and believer as appears from 2 Cor. 6:15; hence there is no comparison between a slave and a married person.
+
 Reply to Objection 2: The wife had a right in the body of her husband only as long as he remained in the life wherein he had married, since also when the husband dies the wife "is delivered from the law of her husband" (Rom. 7:3). Wherefore if the husband leave her after he has changed his life by dying to his former life, this is nowise prejudicial to her. Now he who goes over to the religious life dies but a spiritual death and not a bodily death. Wherefore if the marriage be consummated, the husband cannot enter religion without his wife's consent, whereas he can before carnal connection when there is only a spiritual connection. On the other hand, he who is baptized is even corporeally buried together with Christ unto death; and therefore he is freed from paying the marriage debt even after the marriage has been consummated.
+
 Reply to Objection 3: Disparity of worship makes a person simply unfit for lawful marriage, whereas the condition of bondage does not, but only where it is unknown. Hence there is no comparison between an unbeliever and a bondswoman.
+
 Reply to Objection 4: Either the child has reached a perfect age, and then it is free to follow either the believing father or the unbelieving mother, or else it is under age, and then it should be given to the believer notwithstanding that it needs the mother's care for its education.
+
 Reply to Objection 5: By doing penance the adulterer does not enter another life as an unbeliever by being baptized. Hence the comparison fails.

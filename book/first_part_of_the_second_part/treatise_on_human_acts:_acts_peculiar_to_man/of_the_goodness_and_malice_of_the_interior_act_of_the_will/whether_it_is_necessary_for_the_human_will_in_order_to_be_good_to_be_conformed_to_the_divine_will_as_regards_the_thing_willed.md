@@ -1,10 +1,17 @@
 # Whether It Is Necessary For The Human Will, In Order To Be Good, To Be Conformed To The Divine Will, As Regards The Thing Willed?
+
 ## Objections
+
 Objection 1: It would seem that the human will need not always be conformed to the Divine will, as regards the thing willed. For we cannot will what we know not: since the apprehended good is the object of the will. But in many things we know not what God wills. Therefore the human will cannot be conformed to the Divine will as to the thing willed.
+
 Objection 2: Further, God wills to damn the man whom He foresees about to die in mortal sin. If therefore man were bound to conform his will to the Divine will, in the point of the thing willed, it would follow that a man is bound to will his own damnation. Which is inadmissible.
+
 Objection 3: Further, no one is bound to will what is against filial piety. But if man were to will what God wills, this would sometimes be contrary to filial piety: for instance, when God wills the death of a father: if his son were to will it also, it would be against filial piety. Therefore man is not bound to conform his will to the Divine will, as to the thing willed.
+
 ## Answer
+
 On the contrary, (1) On Ps. 32:1, "Praise becometh the upright," a gloss says: "That man has an upright heart, who wills what God wills." But everyone is bound to have an upright heart. Therefore everyone is bound to will what God wills.
+
 I answer that, As is evident from what has been said above ([1182]AA[3],5), the will tends to its object, according as it is proposed by the reason. Now a thing may be considered in various ways by the reason, so as to appear good from one point of view, and not good from another point of view. And therefore if a man's will wills a thing to be, according as it appears to be good, his will is good: and the will of another man, who wills that thing not to be, according as it appears evil, is also good. Thus a judge has a good will, in willing a thief to be put to death, because this is just: while the will of another---e.g. the thief's wife or son, who wishes him not to be put to death, inasmuch as killing is a natural evil, is also good.
 
 Now since the will follows the apprehension of the reason or intellect; the more universal the aspect of the apprehended good, the more universal the good to which the will tends. This is evident in the example given above: because the judge has care of the common good, which is justice, and therefore he wishes the thief's death, which has the aspect of good in relation to the common estate; whereas the thief's wife has to consider the private, the good of the family, and from this point of view she wishes her husband, the thief, not to be put to death. Now the good of the whole universe is that which is apprehended by God, Who is the Maker and Governor of all things: hence whatever He wills, He wills it under the aspect of the common good; this is His own Goodness, which is the good of the whole universe. On the other hand, the apprehension of a creature, according to its nature, is of some particular good, proportionate to that nature. Now a thing may happen to be good under a particular aspect, and yet not good under a universal aspect, or vice versa, as stated above. And therefore it comes to pass that a certain will is good from willing something considered under a particular aspect, which thing God wills not, under a universal aspect, and vice versa. And hence too it is, that various wills of various men can be good in respect of opposite things, for as much as, under various aspects, they wish a particular thing to be or not to be.
@@ -14,6 +21,9 @@ But a man's will is not right in willing a particular good, unless he refer it t
 At the same time in both these respects, the human will is conformed to the Divine, in a certain degree. Because inasmuch as it is conformed to the Divine will in the common aspect of the thing willed, it is conformed thereto in the point of the last end. While, inasmuch as it is not conformed to the Divine will in the thing willed materially, it is conformed to that will considered as efficient cause; since the proper inclination consequent to nature, or to the particular apprehension of some particular thing, comes to a thing from God as its efficient cause. Hence it is customary to say that a man's will, in this respect, is conformed to the Divine will, because it wills what God wishes him to will.
 
 There is yet another kind of conformity in respect of the formal cause, consisting in man's willing something from charity, as God wills it. And this conformity is also reduced to the formal conformity, that is in respect of the last end, which is the proper object of charity.
+
 ## Replies
+
 Reply to Objection 1: We can know in a general way what God wills. For we know that whatever God wills, He wills it under the aspect of good. Consequently whoever wills a thing under any aspect of good, has a will conformed to the Divine will, as to the reason of the thing willed. But we know not what God wills in particular: and in this respect we are not bound to conform our will to the Divine will.
+
 Reply to Objection 2: God does not will the damnation of a man, considered precisely as damnation, nor a man's death, considered precisely as death, because, "He wills all men to be saved" (1 Tim. 2:4); but He wills such things under the aspect of justice. Wherefore in regard to such things it suffices for man to will the upholding of God's justice and of the natural order.

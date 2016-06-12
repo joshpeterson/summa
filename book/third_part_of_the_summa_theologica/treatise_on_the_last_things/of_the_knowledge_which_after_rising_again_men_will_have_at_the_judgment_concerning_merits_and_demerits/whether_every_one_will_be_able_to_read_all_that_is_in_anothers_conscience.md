@@ -1,14 +1,27 @@
 # Whether Every One Will Be Able To Read All That Is In Another's Conscience?
+
 ## Objections
+
 Objection 1: It seems that it will be impossible for every one to read all that is in another's conscience. For the knowledge of those who rise again will not be clearer than that of the angels, equality with whom is promised us after the resurrection (Mat. 22:30). Now angels cannot read one another's thoughts in matters dependent on the free-will, wherefore they need to speak in order to notify such things to one another [*Cf. FP, Q[107]]. Therefore after rising again we shall be unable to read what is contained in another's conscience.
+
 Objection 2: Further, whatever is known is known either in itself, or in its cause, or in its effect. Now the merits or demerits contained in a person's conscience cannot be known by another in themselves, because God alone enters the heart and reads its secrets. Neither will it be possible for them to be known in their cause, since all will not see God Who alone can act on the will, whence merits and demerits proceed. Nor again will it be possible to know them from their effect, since there will be many demerits, which through being wholly blotted out by repentance will leave no effect remaining. Therefore it will not be possible for every one to know all that is in another's conscience.
+
 Objection 3: Further, Chrysostom says (Hom. xxxi in Ep. ad Hebr.), as we have quoted before (Sent. iv, D, 17): "If thou remember thy sins now, and frequently confess them before Cod and beg pardon for them, thou wilt very soon blot them out; but if thou forget them, thou wilt then remember them unwillingly, when they will be made public, and declared before all thy friends and foes, and in the presence of the holy angels." Hence it follows that this publication will be the punishment of man's neglect in omitting to confess his sins. Therefore the sins which a man has confessed will not be made known to others.
+
 Objection 4: Further, it is a relief to know that one has had many associates in sin, so that one is less ashamed thereof. If therefore every one were to know the sin of another, each sinner's shame would be much diminished, which is unlikely. Therefore every one will not know the sins of all.
+
 ## Answer
+
 On the contrary, A gloss on 1 Cor. 4:5, "will . . . bring to light the hidden things of darkness," says: "Deeds and thoughts both good and evil will then be revealed and made known to all."
+
 I answer that, At the last and general judgment it behooves the Divine justice, which now is in many ways hidden, to appear evidently to all. Now the sentence of one who condemns or rewards cannot be just, unless it be delivered according to merits and demerits. Therefore just as it behooves both judge and jury to know the merits of a case, in order to deliver a just verdict, so is it necessary, in order that the sentence appear to be just, that all who know the sentence should be acquainted with the merits. Hence, since every one will know of his reward or condemnation, so will every one else know of it, and consequently as each one will recall his own merits or demerits, so will he be cognizant of those of others. This is the more probable and more common opinion, although the Master (Sent. iv, D, 43) says the contrary, namely that a man's sins blotted out by repentance will not be made known to others at the judgment. But it would follow from this that neither would his repentance for these sins be perfectly known, which would detract considerably from the glory of the saints and the praise due to God for having so mercifully delivered them.
+
 ## Replies
+
 Reply to Objection 1: All the preceding merits or demerits will come to a certain amount in the glory or unhappiness of each one rising again. Consequently through eternal things being seen, all things in their consciences will be visible, especially as the Divine power will conduce to this so that the Judge's sentence may appear just to all.
+
 Reply to Objection 2: It will be possible for a man's merits or demerits to be made known by their effects as stated above (A[1], ad 1), or by the power of God, although the power of the created intellect is not sufficient for this.
+
 Reply to Objection 3: The manifestation of his sins to the confusion of the sinner is a result of his neglect in omitting to confess them. But that the sins of the saints be revealed cannot be to their confusion or shame, as neither does it bring confusion to Mary Magdalen that her sins are publicly recalled in the Church, because shame is "fear of disgrace," as Damascene says (De Fide Orth. ii), and this will be impossible in the blessed. But this manifestation will bring them great glory on account of the penance they did, even as the confessor hails a man who courageously confesses great crimes. Sins are said to be blotted out because God sees them not for the purpose of punishing them.
+
 Reply to Objection 4: The sinner's confusion will not be diminished, but on the contrary increased, through his seeing the sins of others, for in seeing that others are blameworthy he will all the more acknowledge himself to be blamed. For that confusion be diminished by a cause of this kind is owing to the fact that shame regards the esteem of men, who esteem more lightly that which is customary. But then confusion will regard the esteem of God, which weighs every sin according to the truth, whether it be the sin of one man or of many.

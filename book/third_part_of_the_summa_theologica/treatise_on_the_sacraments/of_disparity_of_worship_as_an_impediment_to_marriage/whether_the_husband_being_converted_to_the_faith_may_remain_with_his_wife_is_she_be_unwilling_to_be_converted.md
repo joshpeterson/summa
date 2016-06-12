@@ -1,16 +1,31 @@
 # Whether The Husband, Being Converted To The Faith, May Remain With His Wife Is She Be Unwilling To Be Converted?
+
 ## Objections
+
 Objection 1: It would seem that when a husband is converted to the faith he cannot remain with his wife who is an unbeliever and is unwilling to be converted, and whom he had married while he was yet an unbeliever. For where the danger is the same one should take the same precautions. Now a believer is forbidden to marry an unbeliever for fear of being turned away from the faith. Since then if the believer remain with the unbeliever whom he had married previously, the danger is the same, in fact greater, for neophytes are more easily perverted than those who have been brought up in the faith, it would seem that a believer, after being converted, cannot remain with an unbeliever.
+
 Objection 2: Further, "An unbeliever cannot remain united to her who has been received into the Christian faith" (Decretals, XXVIII, qu. 1, can. Judaei). Therefore a believer is bound to put away a wife who does not believe.
+
 Objection 3: Further, a marriage contracted between believers is more perfect than one contracted between unbelievers. Now, if believers marry within the degrees forbidden by the Church, their marriage is void. Therefore the same applies to unbelievers, and thus a believing husband cannot remain with an unbelieving wife, at any rate, if as an unbeliever he married her within the forbidden degrees.
+
 Objection 4: Further, sometimes an unbeliever has several wives recognized by his law. If, then, he can remain with those whom he married while yet an unbeliever, it would seem that even after his conversion he can retain several wives.
+
 Objection 5: Further, it may happen that after divorcing his first wife he has married a second, and that he is converted during this latter marriage. It would seem therefore that at least in this case he cannot remain with this second wife.
+
 ## Answer
+
 On the contrary, The Apostle counsels him to remain (1 Cor. 7:12).
+
 I answer that, The faith of a married person does not dissolve but perfects the marriage. Wherefore, since there is true marriage between unbelievers, as stated above (A[2], ad 1), the marriage tie is not broken by the fact that one of them is converted to the faith, but sometimes while the marriage tie remains, the marriage is dissolved as to cohabitation and marital intercourse, wherein unbelief and adultery are on a par, since both are against the good of the offspring. Consequently, the husband has the same power to put away an unbelieving wife or to remain with her, as he has to put away an adulterous wife or to remain with her. For an innocent husband is free to remain with an adulterous wife in the hope of her amendment, but not if she be obstinate in her sin of adultery, lest he seem to approve of her disgrace; although even if there be hope of her amendment he is free to put her away. In like manner the believer after his conversion may remain with the unbeliever in the hope of her conversion, if he see that she is not obstinate in her unbelief, and he does well in remaining with her, though not bound to do so: and this is what the Apostle counsels (1 Cor. 7:12).
+
 ## Replies
+
 Reply to Objection 1: It is easier to prevent a thing being done than to undo what is rightly done. Hence there are many things that impede the contracting of marriage if they precede it, which nevertheless cannot dissolve it if they follow it. Such is the case with affinity ([4993]Q[55], A[6]): and it is the same with disparity of worship.
+
 Reply to Objection 2: In the early Church at the time of the apostles, both Jews and Gentiles were everywhere converted to the faith: and consequently the believing husband could then have a reasonable hope for his wife's conversion, even though she did not promise to be converted. Afterwards, however, as time went on the Jews became more obstinate than the Gentiles, because the Gentiles still continued to come to the faith, for instance, at the time of the martyrs, and at the time of Constantine and thereabouts. Wherefore it was not safe then for a believer to cohabit with an unbelieving Jewish wife, nor was there hope for her conversion as for that of a Gentile wife. Consequently, then, the believer could, after his conversion, cohabit with his wife if she were a Gentile, but not if she were a Jewess, unless she promised to be converted. This is the sense of that decree. Now, however, they are on a par, namely Gentiles and Jews, because both are obstinate; and therefore unless the unbelieving wife be willing to be converted, he is not allowed to cohabit with her, be she Gentile or Jew.
+
 Reply to Objection 3: Non-baptized unbelievers are not bound by the laws of the Church, but they are bound by the ordinances of the Divine law. Hence unbelievers who have married within the degrees forbidden by the Divine law, whether both or one of them be converted to the faith, cannot continue in a like marriage. But if they have married within the degrees forbidden by a commandment of the Church, they can remain together if both be converted, or if one be converted and there be hope of the other's conversion.
+
 Reply to Objection 4: To have several wives is contrary to the natural law by which even unbelievers are bound. Wherefore an unbeliever is not truly married save to her whom he married first. Consequently if he be converted with all his wives, he may remain with the first, and must put the others away. If, however, the first refuse to be converted, and one of the others be converted, he has the same right to marry her again as he would have to marry another. We shall treat of this matter further on [4994](A[5]).
+
 Reply to Objection 5: To divorce a wife is contrary to the law of nature, wherefore it is not lawful for an unbeliever to divorce his wife. Hence if he be converted after divorcing one and marrying another, the same judgment is to be pronounced in this case as in the case of a man who had several wives, because if he wish to be converted he is bound to take the first whom he had divorced and to put the other away.

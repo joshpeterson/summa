@@ -1,14 +1,27 @@
 # Whether There Are Ideas Of All Things That God Knows?
+
 ## Objections
+
 Objection 1: It seems that there are not ideas in God of all things that He knows. For the idea of evil is not in God; since it would follow that evil was in Him. But evil things are known by God. Therefore there are not ideas of all things that God knows.
+
 Objection 2: Further, God knows things that neither are, nor will be, nor have been, as has been said above (A[9]). But of such things there are no ideas, since, as Dionysius says (Div. Nom. v): "Acts of the divine will are the determining and effective types of things." Therefore there are not in God ideas of all things known by Him.
+
 Objection 3: Further, God knows primary matter, of which there can be no idea, since it has no form. Hence the same conclusion.
+
 Objection 4: Further, it is certain that God knows not only species, but also genera, singulars, and accidents. But there are not ideas of these, according to Plato's teaching, who first taught ideas, as Augustine says (Octog. Tri. Quaest. qu. xlvi). Therefore there are not ideas in God of all things known by Him.
+
 ## Answer
+
 On the contrary, Ideas are types existing in the divine mind, as is clear from Augustine (Octog. Tri. Quaest. qu. xlvi). But God has the proper types of all things that He knows; and therefore He has ideas of all things known by Him.
+
 I answer that, As ideas, according to Plato, are principles of the knowledge of things and of their generation, an idea has this twofold office, as it exists in the mind of God. So far as the idea is the principle of the making of things, it may be called an "exemplar," and belongs to practical knowledge. But so far as it is a principle of knowledge, it is properly called a "type," and may belong to speculative knowledge also. As an exemplar, therefore, it has respect to everything made by God in any period of time; whereas as a principle of knowledge it has respect to all things known by God, even though they never come to be in time; and to all things that He knows according to their proper type, in so far as they are known by Him in a speculative manner.
+
 ## Replies
+
 Reply to Objection 1: Evil is known by God not through its own type, but through the type of good. Evil, therefore, has no idea in God, neither in so far as an idea is an "exemplar" nor as a "type."
+
 Reply to Objection 2: God has no practical knowledge, except virtually, of things which neither are, nor will be, nor have been. Hence, with respect to these there is no idea in God in so far as idea signifies an "exemplar" but only in so far as it denotes a "type."
+
 Reply to Objection 3: Plato is said by some to have considered matter as not created; and therefore he postulated not an idea of matter but a concause with matter. Since, however, we hold matter to be created by God, though not apart from form, matter has its idea in God; but not apart from the idea of the composite; for matter in itself can neither exist, nor be known.
+
 Reply to Objection 4: Genus can have no idea apart from the idea of species, in so far as idea denotes an "exemplar"; for genus cannot exist except in some species. The same is the case with those accidents that inseparably accompany their subject; for these come into being along with their subject. But accidents which supervene to the subject, have their special idea. For an architect produces through the form of the house all the accidents that originally accompany it; whereas those that are superadded to the house when completed, such as painting, or any other such thing, are produced through some other form. Now individual things, according to Plato, have no other idea than that of species; both because particular things are individualized by matter, which, as some say, he held to be uncreated and the concause with the idea; and because the intention of nature regards the species, and produces individuals only that in them the species may be preserved. However, divine providence extends not merely to species; but to individuals as will be shown later ([106]Q[22], A[3] ).

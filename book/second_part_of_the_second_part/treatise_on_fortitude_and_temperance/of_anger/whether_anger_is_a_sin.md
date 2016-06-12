@@ -1,16 +1,29 @@
 # Whether Anger Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that anger is not a sin. For we demerit by sinning. But "we do not demerit by the passions, even as neither do we incur blame thereby," as stated in Ethic. ii, 5. Consequently no passion is a sin. Now anger is a passion as stated above ([3571]FS, Q[46], A[1]) in the treatise on the passions. Therefore anger is not a sin.
+
 Objection 2: Further, in every sin there is conversion to some mutable good. But in anger there is conversion not to a mutable good, but to a person's evil. Therefore anger is not a sin.
+
 Objection 3: Further, "No man sins in what he cannot avoid," as Augustine asserts [*De Lib. Arb. iii, 18]. But man cannot avoid anger, for a gloss on Ps. 4:5, "Be ye angry and sin not," says: "The movement of anger is not in our power." Again, the Philosopher asserts (Ethic. vii, 6) that "the angry man acts with displeasure." Now displeasure is contrary to the will. Therefore anger is not a sin.
+
 Objection 4: Further, sin is contrary to nature, according to Damascene [*De Fide Orth. ii, 4,30]. But it is not contrary to man's nature to be angry, and it is the natural act of a power, namely the irascible; wherefore Jerome says in a letter [*Ep. xii ad Anton. Monach.] that "to be angry is the property of man." Therefore it is not a sin to be angry.
+
 ## Answer
+
 On the contrary, The Apostle says (Eph. 4:31): "Let all indignation and anger [*Vulg.: 'Anger and indignation'] . . . be put away from you."
+
 I answer that, Anger, as stated above [3572](A[1]), is properly the name of a passion. A passion of the sensitive appetite is good in so far as it is regulated by reason, whereas it is evil if it set the order of reason aside. Now the order of reason, in regard to anger, may be considered in relation to two things. First, in relation to the appetible object to which anger tends, and that is revenge. Wherefore if one desire revenge to be taken in accordance with the order of reason, the desire of anger is praiseworthy, and is called "zealous anger" [*Cf. Greg., Moral. v, 45]. On the other hand, if one desire the taking of vengeance in any way whatever contrary to the order of reason, for instance if he desire the punishment of one who has not deserved it, or beyond his deserts, or again contrary to the order prescribed by law, or not for the due end, namely the maintaining of justice and the correction of defaults, then the desire of anger will be sinful, and this is called sinful anger.
 
 Secondly, the order of reason in regard to anger may be considered in relation to the mode of being angry, namely that the movement of anger should not be immoderately fierce, neither internally nor externally; and if this condition be disregarded, anger will not lack sin, even though just vengeance be desired.
+
 ## Replies
+
 Reply to Objection 1: Since passion may be either regulated or not regulated by reason, it follows that a passion considered absolutely does not include the notion of merit or demerit, of praise or blame. But as regulated by reason, it may be something meritorious and deserving of praise; while on the other hand, as not regulated by reason, it may be demeritorious and blameworthy. Wherefore the Philosopher says (Ethic. ii, 5) that "it is he who is angry in a certain way, that is praised or blamed."
+
 Reply to Objection 2: The angry man desires the evil of another, not for its own sake but for the sake of revenge, towards which his appetite turns as to a mutable good.
+
 Reply to Objection 3: Man is master of his actions through the judgment of his reason, wherefore as to the movements that forestall that judgment, it is not in man's power to prevent them as a whole, i.e. so that none of them arise, although his reason is able to check each one, if it arise. Accordingly it is stated that the movement of anger is not in man's power, to the extent namely that no such movement arise. Yet since this movement is somewhat in his power, it is not entirely sinless if it be inordinate. The statement of the Philosopher that "the angry man acts with displeasure," means that he is displeased, not with his being angry, but with the injury which he deems done to himself: and through this displeasure he is moved to seek vengeance.
+
 Reply to Objection 4: The irascible power in man is naturally subject to his reason, wherefore its act is natural to man, in so far as it is in accord with reason, and in so far as it is against reason, it is contrary to man's nature.

@@ -1,12 +1,23 @@
 # Whether An Angel Can Be Moved Locally?
+
 ## Objections
+
 Objection 1: It seems that an angel cannot be moved locally. For, as the Philosopher proves (Phys. vi, text 32,86) "nothing which is devoid of parts is moved"; because, while it is in the term "wherefrom," it is not moved; nor while it is in the term "whereto," for it is then already moved; consequently it remains that everything which is moved, while it is being moved, is partly in the term "wherefrom" and partly in the term "whereto." But an angel is without parts. Therefore an angel cannot be moved locally.
+
 Objection 2: Further, movement is "the act of an imperfect being," as the Philosopher says (Phys. iii, text 14). But a beatified angel is not imperfect. Consequently a beatified angel is not moved locally.
+
 Objection 3: Further, movement is simply because of want. But the holy angels have no want. Therefore the holy angels are not moved locally.
+
 ## Answer
+
 On the contrary, It is the same thing for a beatified angel to be moved as for a beatified soul to be moved. But it must necessarily be said that a blessed soul is moved locally, because it is an article of faith that Christ's soul descended into Hell. Therefore a beatified angel is moved locally.
+
 I answer that, A beatified angel can be moved locally. As, however, to be in a place belongs equivocally to a body and to an angel, so likewise does local movement. For a body is in a place in so far as it is contained under the place, and is commensurate with the place. Hence it is necessary for local movement of a body to be commensurate with the place, and according to its exigency. Hence it is that the continuity of movement is according to the continuity of magnitude; and according to priority and posteriority of local movement, as the Philosopher says (Phys. iv, text 99). But an angel is not in a place as commensurate and contained, but rather as containing it. Hence it is not necessary for the local movement of an angel to be commensurate with the place, nor for it to be according to the exigency of the place, so as to have continuity therefrom; but it is a non-continuous movement. For since the angel is in a place only by virtual contact, as was said above ([480]Q[52], A[1]), it follows necessarily that the movement of an angel in a place is nothing else than the various contacts of various places successively, and not at once; because an angel cannot be in several places at one time, as was said above ([481]Q[52], A[2]). Nor is it necessary for these contacts to be continuous. Nevertheless a certain kind of continuity can be found in such contacts. Because, as was said above ([482]Q[52], A[1]), there is nothing to hinder us from assigning a divisible place to an angel according to virtual contact; just as a divisible place is assigned to a body by contact of magnitude. Hence as a body successively, and not all at once, quits the place in which it was before, and thence arises continuity in its local movement; so likewise an angel can successively quit the divisible place in which he was before, and so his movement will be continuous. And he can all at once quit the whole place, and in the same instant apply himself to the whole of another place, and thus his movement will not be continuous.
+
 ## Replies
+
 Reply to Objection 1: This argument fails of its purpose for a twofold reason. First of all, because Aristotle's demonstration deals with what is indivisible according to quantity, to which responds a place necessarily indivisible. And this cannot be said of an angel.
+
 Reply to Objection 2: The movement of that which is in potentiality is the act of an imperfect agent. But the movement which is by application of energy is the act of one in act: because energy implies actuality.
+
 Reply to Objection 3: The movement of that which is in potentiality is the act of an imperfect but the movement of what is in act is not for any need of its own, but for another's need. In this way, because of our need, the angel is moved locally, according to Heb. 1:14: "They are all [*Vulg.: 'Are they not all . . . ?'] ministering spirits, sent to minister for them who receive the inheritance of salvation."

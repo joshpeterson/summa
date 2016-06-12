@@ -1,14 +1,27 @@
 # Whether There Was Any Other Possible Way Of Human Deliverance Besides The Passion Of Christ?
+
 ## Objections
+
 Objection 1: It would seem that there was no other possible way of human deliverance besides Christ's Passion. For our Lord says (Jn. 12:24): "Amen, amen I say to you, unless the grain of wheat falling into the ground dieth, itself remaineth alone; but if it die, it bringeth forth much fruit." Upon this St. Augustine (Tract. li) observes that "Christ called Himself the seed." Consequently, unless He suffered death, He would not otherwise have produced the fruit of our redemption.
+
 Objection 2: Further, our Lord addresses the Father (Mat. 26:42): "My Father, if this chalice may not pass away but I must drink it, Thy will be done." But He spoke there of the chalice of the Passion. Therefore Christ's Passion could not pass away; hence Hilary says (Comm. 31 in Matth.): "Therefore the chalice cannot pass except He drink of it, because we cannot be restored except through His Passion."
+
 Objection 3: Further, God's justice required that Christ should satisfy by the Passion in order that man might be delivered from sin. But Christ cannot let His justice pass; for it is written (2 Tim. 2:13): "If we believe not, He continueth faithful, He cannot deny Himself." But He would deny Himself were He to deny His justice, since He is justice itself. It seems impossible, then, for man to be delivered otherwise than by Christ's Passion.
+
 Objection 4: Further, there can be no falsehood underlying faith. But the Fathers of old believed that Christ would suffer. Consequently, it seems that it had to be that Christ should suffer.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. xiii): "We assert that the way whereby God deigned to deliver us by the man Jesus Christ, who is mediator between God and man, is both good and befitting the Divine dignity; but let us also show that other possible means were not lacking on God's part, to whose power all things are equally subordinate."
+
 I answer that, A thing may be said to be possible or impossible in two ways: first of all, simply and absolutely; or secondly, from supposition. Therefore, speaking simply and absolutely, it was possible for God to deliver mankind otherwise than by the Passion of Christ, because "no word shall be impossible with God" (Lk. 1:37). Yet it was impossible if some supposition be made. For since it is impossible for God's foreknowledge to be deceived and His will or ordinance to be frustrated, then, supposing God's foreknowledge and ordinance regarding Christ's Passion, it was not possible at the same time for Christ not to suffer, and for mankind to be delivered otherwise than by Christ's Passion. And the same holds good of all things foreknown and preordained by God, as was laid down in the [4229]FP, Q[14], A[13].
+
 ## Replies
+
 Reply to Objection 1: Our Lord is speaking there presupposing God's foreknowledge and predetermination, according to which it was resolved that the fruit of man's salvation should not follow unless Christ suffered.
+
 Reply to Objection 2: In the same way we must understand what is here objected to in the second instance: "If this chalice may not pass away but I must drink of it"---that is to say, because Thou hast so ordained it---hence He adds: "Thy will be done."
+
 Reply to Objection 3: Even this justice depends on the Divine will, requiring satisfaction for sin from the human race. But if He had willed to free man from sin without any satisfaction, He would not have acted against justice. For a judge, while preserving justice, cannot pardon fault without penalty, if he must visit fault committed against another---for instance, against another man, or against the State, or any Prince in higher authority. But God has no one higher than Himself, for He is the sovereign and common good of the whole universe. Consequently, if He forgive sin, which has the formality of fault in that it is committed against Himself, He wrongs no one: just as anyone else, overlooking a personal trespass, without satisfaction, acts mercifully and not unjustly. And so David exclaimed when he sought mercy: "To Thee only have I sinned" (Ps. 50:6), as if to say: "Thou canst pardon me without injustice."
+
 Reply to Objection 4: Human faith, and even the Divine Scriptures upon which faith is based, are both based on the Divine foreknowledge and ordinance. And the same reason holds good of that necessity which comes of supposition, and of the necessity which arises of the Divine foreknowledge and will.

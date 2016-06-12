@@ -1,12 +1,23 @@
 # Whether Right Is The Object Of Justice?
+
 ## Objections
+
 Objection 1: It would seem that right is not the object of justice. For the jurist Celsus says [*Digest. i, 1; De Just. et Jure 1] that "right is the art of goodness and equality." Now art is not the object of justice, but is by itself an intellectual virtue. Therefore right is not the object of justice.
+
 Objection 2: Further, "Law," according to Isidore (Etym. v, 3), "is a kind of right." Now law is the object not of justice but of prudence, wherefore the Philosopher [*Ethic. vi, 8] reckons "legislative" as one of the parts of prudence. Therefore right is not the object of justice.
+
 Objection 3: Further, justice, before all, subjects man to God: for Augustine says (De Moribus Eccl. xv) that "justice is love serving God alone, and consequently governing aright all things subject to man." Now right [jus] does not pertain to Divine things, but only to human affairs, for Isidore says (Etym. v, 2) that "'fas' is the Divine law, and 'jus,' the human law." Therefore right is not the object of justice.
+
 ## Answer
+
 On the contrary, Isidore says (Etym. v, 2) that "'jus' [right] is so called because it is just." Now the "just" is the object of justice, for the Philosopher declares (Ethic. v, 1) that "all are agreed in giving the name of justice to the habit which makes men capable of doing just actions."
+
 I answer that, It is proper to justice, as compared with the other virtues, to direct man in his relations with others: because it denotes a kind of equality, as its very name implies; indeed we are wont to say that things are adjusted when they are made equal, for equality is in reference of one thing to some other. On the other hand the other virtues perfect man in those matters only which befit him in relation to himself. Accordingly that which is right in the works of the other virtues, and to which the intention of the virtue tends as to its proper object, depends on its relation to the agent only, whereas the right in a work of justice, besides its relation to the agent, is set up by its relation to others. Because a man's work is said to be just when it is related to some other by way of some kind of equality, for instance the payment of the wage due for a service rendered. And so a thing is said to be just, as having the rectitude of justice, when it is the term of an act of justice, without taking into account the way in which it is done by the agent: whereas in the other virtues nothing is declared to be right unless it is done in a certain way by the agent. For this reason justice has its own special proper object over and above the other virtues, and this object is called the just, which is the same as "right." Hence it is evident that right is the object of justice.
+
 ## Replies
+
 Reply to Objection 1: It is usual for words to be distorted from their original signification so as to mean something else: thus the word "medicine" was first employed to signify a remedy used for curing a sick person, and then it was drawn to signify the art by which this is done. In like manner the word "jus" [right] was first of all used to denote the just thing itself, but afterwards it was transferred to designate the art whereby it is known what is just, and further to denote the place where justice is administered, thus a man is said to appear "in jure" [*In English we speak of a court of law, a barrister at law, etc.], and yet further, we say even that a man, who has the office of exercising justice, administers the jus even if his sentence be unjust.
+
 Reply to Objection 2: Just as there pre-exists in the mind of the craftsman an expression of the things to be made externally by his craft, which expression is called the rule of his craft, so too there pre-exists in the mind an expression of the particular just work which the reason determines, and which is a kind of rule of prudence. If this rule be expressed in writing it is called a "law," which according to Isidore (Etym. v, 1) is "a written decree": and so law is not the same as right, but an expression of right.
+
 Reply to Objection 3: Since justice implies equality, and since we cannot offer God an equal return, it follows that we cannot make Him a perfectly just repayment. For this reason the Divine law is not properly called "jus" but "fas," because, to wit, God is satisfied if we accomplish what we can. Nevertheless justice tends to make man repay God as much as he can, by subjecting his mind to Him entirely.

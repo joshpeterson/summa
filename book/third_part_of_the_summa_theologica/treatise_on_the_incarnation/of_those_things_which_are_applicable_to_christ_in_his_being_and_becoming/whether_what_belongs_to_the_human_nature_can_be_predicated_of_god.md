@@ -1,14 +1,25 @@
 # Whether What Belongs To The Human Nature Can Be Predicated Of God?
+
 ## Objections
+
 Objection 1: It would seem that what belongs to the human nature cannot be said of God. For contrary things cannot be said of the same. Now, what belongs to human nature is contrary to what is proper to God, since God is uncreated, immutable, and eternal, and it belongs to the human nature to be created temporal and mutable. Therefore what belongs to the human nature cannot be said of God.
+
 Objection 2: Further, to attribute to God what is defective seems to be derogatory to the Divine honor, and to be a blasphemy. Now what pertains to the human nature contains a kind of defect, as to suffer, to die, and the like. Hence it seems that what pertains to the human nature can nowise be said of God.
+
 Objection 3: Further, to be assumed pertains to the human nature; yet it does not pertain to God. Therefore what belongs to the human nature cannot be said of God.
+
 ## Answer
+
 On the contrary, Damascene says (De Fide Orth. iii, 4) that "God assumed the idioms," i.e. the properties, "of flesh, since God is said to be passible, and the God of glory was crucified."
+
 I answer that, On this question there was a difference of opinion between Nestorians and Catholics. The Nestorians wished to divide words predicated of Christ, in this way, viz. that such as pertained to human nature should not be predicated of God, and that such as pertained to the Divine Nature should not be predicated of the Man. Hence Nestorius said: "If anyone attempt to attribute sufferings to the Word, let him be anathema" [*Council of Ephesus, Part I, ch. 29]. But if there are any words applicable to both natures, of them they predicated what pertained to both natures, as "Christ" or "Lord." Hence they granted that Christ was born of a Virgin, and that He was from eternity; but they did not say that God was born of a virgin, or that the Man was from eternity. Catholics on the other hand maintained that words which are said of Christ either in His Divine or in His human nature may be said either of God or of man. Hence Cyril says [*Council of Ephesus, Part I, ch. 26]: "If anyone ascribes to two persons or substances," i.e. hypostases, "such words as are in the evangelical and apostolic Scriptures, or have been said of Christ by the Saints, or by Himself of Himself, and believes that some are to be applied to the Man, and apportions some to the Word alone---let him be anathema." And the reason of this is that, since there is one hypostasis of both natures, the same hypostasis is signified by the name of either nature. Thus whether we say "man" or "God," the hypostasis of Divine and human nature is signified. And hence, of the Man may be said what belongs to the Divine Nature, as of a hypostasis of the Divine Nature; and of God may be said what belongs to the human nature, as of a hypostasis of human nature.
 
 Nevertheless, it must be borne in mind that in a proposition in which something is predicated of another, we must not merely consider what the predicate is predicated of, but also the reason of its being predicated. Thus, although we do not distinguish things predicated of Christ, yet we distinguish that by reason of which they are predicated, since those things that belong to the Divine Nature are predicated of Christ in His Divine Nature, and those that belong to the human nature are predicated of Christ in His human nature. Hence Augustine says (De Trin. i, 11): "We must distinguish what is said by Scripture in reference to the form of God, wherein He is equal to the Father, and what in reference to the form of a servant, wherein He is less than the Father": and further on he says (De Trin. i, 13): "The prudent, careful, and devout reader will discern the reason and point of view of what is said."
+
 ## Replies
+
 Reply to Objection 1: It is impossible for contraries to be predicated of the same in the same respects, but nothing prevents their being predicated of the same in different aspects. And thus contraries are predicated of Christ, not in the same, but in different natures.
+
 Reply to Objection 2: If the things pertaining to defect were attributed to God in His Divine Nature, it would be a blasphemy, since it would be derogatory to His honor. But there is no kind of wrong done to God if they are attributed to Him in His assumed nature. Hence in a discourse of the Council of Ephesus [*Part III, ch. 10] it is said: "God accounts nothing a wrong which is the occasion of man's salvation. For no lowliness that He assumed for us injures that Nature which can be subject to no injury, yet makes lower things Its own, to save our nature. Therefore, since these lowly and worthless things do no harm to the Divine Nature, but bring about our salvation, how dost thou maintain that what was the cause of our salvation was the occasion of harm to God?"
+
 Reply to Objection 3: To be assumed pertains to human nature, not in its suppositum, but in itself; and thus it does not belong to God.

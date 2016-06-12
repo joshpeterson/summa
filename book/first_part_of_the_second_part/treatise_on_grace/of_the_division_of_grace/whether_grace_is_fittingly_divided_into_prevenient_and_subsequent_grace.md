@@ -1,12 +1,23 @@
 # Whether Grace Is Fittingly Divided Into Prevenient And Subsequent Grace?
+
 ## Objections
+
 Objection 1: It would seem that grace is not fittingly divided into prevenient and subsequent. For grace is an effect of the Divine love. But God's love is never subsequent, but always prevenient, according to 1 Jn. 4:10: "Not as though we had loved God, but because He hath first loved us." Therefore grace ought not to be divided into prevenient and subsequent.
+
 Objection 2: Further, there is but one sanctifying grace in man, since it is sufficient, according to 2 Cor. 12:9: "My grace is sufficient for thee." But the same thing cannot be before and after. Therefore grace is not fittingly divided into prevenient and subsequent.
+
 Objection 3: Further, grace is known by its effects. Now there are an infinite number of effects---one preceding another. Hence it with regard to these, grace must be divided into prevenient and subsequent, it would seem that there are infinite species of grace. Now no art takes note of the infinite in number. Hence grace is not fittingly divided into prevenient and subsequent.
+
 ## Answer
+
 On the contrary, God's grace is the outcome of His mercy. Now both are said in Ps. 58:11: "His mercy shall prevent me," and again, Ps. 22:6: "Thy mercy will follow me." Therefore grace is fittingly divided into prevenient and subsequent.
+
 I answer that, As grace is divided into operating and cooperating, with regard to its diverse effects, so also is it divided into prevenient and subsequent, howsoever we consider grace. Now there are five effects of grace in us: of these, the first is, to heal the soul; the second, to desire good; the third, to carry into effect the good proposed; the fourth, to persevere in good; the fifth, to reach glory. And hence grace, inasmuch as it causes the first effect in us, is called prevenient with respect to the second, and inasmuch as it causes the second, it is called subsequent with respect to the first effect. And as one effect is posterior to this effect, and prior to that, so may grace be called prevenient and subsequent on account of the same effect viewed relatively to divers others. And this is what Augustine says (De Natura et Gratia xxxi): "It is prevenient, inasmuch as it heals, and subsequent, inasmuch as, being healed, we are strengthened; it is prevenient, inasmuch as we are called, and subsequent, inasmuch as we are glorified."
+
 ## Replies
+
 Reply to Objection 1: God's love signifies something eternal; and hence can never be called anything but prevenient. But grace signifies a temporal effect, which can precede and follow another; and thus grace may be both prevenient and subsequent.
+
 Reply to Objection 2: The division into prevenient and subsequent grace does not divide grace in its essence, but only in its effects, as was already said of operating and cooperating grace. For subsequent grace, inasmuch as it pertains to glory, is not numerically distinct from prevenient grace whereby we are at present justified. For even as the charity of the earth is not voided in heaven, so must the same be said of the light of grace, since the notion of neither implies imperfection.
+
 Reply to Objection 3: Although the effects of grace may be infinite in number, even as human acts are infinite, nevertheless all reduced to some of a determinate species, and moreover all coincide in this---that one precedes another.

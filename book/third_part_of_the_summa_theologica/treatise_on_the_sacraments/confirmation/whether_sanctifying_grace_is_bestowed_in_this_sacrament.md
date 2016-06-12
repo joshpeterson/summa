@@ -1,12 +1,23 @@
 # Whether Sanctifying Grace Is Bestowed In This Sacrament?
+
 ## Objections
+
 Objection 1: It seems that sanctifying grace is not bestowed in this sacrament. For sanctifying grace is ordained against sin. But this sacrament, as stated above [4492](A[6]) is given only to the baptized, who are cleansed from sin. Therefore sanctifying grace is not bestowed in this sacrament.
+
 Objection 2: Further, sinners especially need sanctifying grace, by which alone can they be justified. If, therefore, sanctifying grace is bestowed in this sacrament, it seems that it should be given to those who are in sin. And yet this is not true.
+
 Objection 3: Further, there can only be one species of sanctifying grace, since it is ordained to one effect. But two forms of the same species cannot be in the same subject. Since, therefore, man receives sanctifying grace in Baptism, it seems that sanctifying grace is not bestowed in Confirmation, which is given to none but the baptized.
+
 ## Answer
+
 On the contrary, Pope Melchiades says (Ep. ad Episc. Hispan.): "The Holy Ghost bestows at the font the fulness of innocence; but in Confirmation He confers an increase of grace."
+
 I answer that, In this sacrament, as stated above ([4493]AA[1],4), the Holy Ghost is given to the baptized for strength: just as He was given to the apostles on the day of Pentecost, as we read in Acts 2; and just as He was given to the baptized by the imposition of the apostles' hands, as related in Acts 8:17. Now it has been proved in the [4494]FP, Q[43], A[3] that the Holy Ghost is not sent or given except with sanctifying grace. Consequently it is evident that sanctifying grace is bestowed in this sacrament.
+
 ## Replies
+
 Reply to Objection 1: Sanctifying grace does indeed take away sin; but it has other effects also, because it suffices to carry man through every step as far as eternal life. Hence to Paul was it said (2 Cor. 12:9): "My grace is sufficient for thee": and he says of himself (1 Cor. 15:10): "By the grace of God I am what I am." Therefore sanctifying grace is given not only for the remission of sin, but also for growth and stability in righteousness. And thus is it bestowed in this sacrament.
+
 Reply to Objection 2: Further, as appears from its very name, this sacrament is given in order "to confirm" what it finds already there. And consequently it should not be given to those who are not in a state of grace. For this reason, just as it is not given to the unbaptized, so neither should it be given to the adult sinners, except they be restored by Penance. Wherefore was it decreed in the Council of Orleans (Can. iii) that "men should come to Confirmation fasting; and should be admonished to confess their sins first, so that being cleansed they may be able to receive the gift of the Holy Ghost." And then this sacrament perfects the effects of Penance, as of Baptism: because by the grace which he has received in this sacrament, the penitent will obtain fuller remission of his sin. And if any adult approach, being in a state of sin of which he is not conscious or for which he is not perfectly contrite, he will receive the remission of his sins through the grace bestowed in this sacrament.
+
 Reply to Objection 3: As stated above ([4495]Q[62], A[2]), the sacramental grace adds to the sanctifying grace taken in its wide sense, something that produces a special effect, and to which the sacrament is ordained. If, then, we consider, in its wide sense, the grace bestowed in this sacrament, it does not differ from that bestowed in Baptism, but increases what was already there. On the other hand, if we consider it as to that which is added over and above, then one differs in species from the other.

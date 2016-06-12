@@ -1,14 +1,25 @@
 # Whether Many Habits Can Be In One Power?
+
 ## Objections
+
 Objection 1: It would seem that there cannot be many habits in one power. For when several things are distinguished in respect of the same thing, if one of them be multiplied, the others are too. Now habits and powers are distinguished in respect of the same thing, viz. their acts and objects. Therefore they are multiplied in like manner. Therefore there cannot be many habits in one power.
+
 Objection 2: Further, a power is a simple force. Now in one simple subject there cannot be diversity of accidents; for the subject is the cause of its accidents; and it does not appear how diverse effects can proceed from one simple cause. Therefore there cannot be many habits in one power.
+
 Objection 3: Further, just as the body is informed by its shape, so is a power informed by a habit. But one body cannot be informed at the same time by various shapes. Therefore neither can a power be informed at the same time by many habits. Therefore several habits cannot be at the same time in one power.
+
 ## Answer
+
 On the contrary, The intellect is one power; wherein, nevertheless, are the habits of various sciences.
+
 I answer that, As stated above ([1485]Q[49], A[4]), habits are dispositions of a thing that is in potentiality to something, either to nature, or to operation, which is the end of nature. As to those habits which are dispositions to nature, it is clear that several can be in one same subject: since in one subject we may take parts in various ways, according to the various dispositions of which parts there are various habits. Thus, if we take the humors as being parts of the human body, according to their disposition in respect of human nature, we have the habit or disposition of health: while, if we take like parts, such as nerves, bones, and flesh, the disposition of these in respect of nature is strength or weakness; whereas, if we take the limbs, i.e. the hands, feet, and so on, the disposition of these in proportion to nature, is beauty: and thus there are several habits or dispositions in the same subject.
 
 If, however, we speak of those habits that are dispositions to operation, and belong properly to the powers; thus, again, there may be several habits in one power. The reason for this is that the subject of a habit is a passive power, as stated above ([1486]Q[51], A[2]): for it is only an active power that cannot be the subject of a habit, as was clearly shown above ([1487]Q[51], A[2]). Now a passive power is compared to the determinate act of any species, as matter to form: because, just as matter is determinate to one form by one agent, so, too, is a passive power determined by the nature of one active object to an act specifically one. Wherefore, just as several objects can move one passive power, so can one passive power be the subject of several acts or perfections specifically diverse. Now habits are qualities or forms adhering to a power, and inclining that power to acts of a determinate species. Consequently several habits, even as several specifically different acts, can belong to one power.
+
 ## Replies
+
 Reply to Objection 1: Even as in natural things, diversity of species is according to the form, and diversity of genus, according to matter, as stated in Metaph. v, text. 33 (since things that differ in matter belong to different genera): so, too, generic diversity of objects entails a difference of powers (wherefore the Philosopher says in Ethic. vi, 1, that "those objects that differ generically belong to different departments of the soul"); while specific difference of objects entails a specific difference of acts, and consequently of habits also. Now things that differ in genus differ in species, but not vice versa. Wherefore the acts and habits of different powers differ in species: but it does not follow that different habits are in different powers, for several can be in one power. And even as several genera may be included in one genus, and several species be contained in one species; so does it happen that there are several species of habits and powers.
+
 Reply to Objection 2: Although a power is simple as to its essence, it is multiple virtually, inasmuch as it extends to many specifically different acts. Consequently there is nothing to prevent many superficially different habits from being in one power.
+
 Reply to Objection 3: A body is informed by its shape as by its own terminal boundaries: whereas a habit is not the terminal boundary of a power, but the disposition of a power to an act as to its ultimate term. Consequently one same power cannot have several acts at the same time, except in so far as perchance one act is comprised in another; just as neither can a body have several shapes, save in so far as one shape enters into another, as a three-sided in a four-sided figure. For the intellect cannot understand several things at the same time "actually"; and yet it can know several things at the same time "habitually."

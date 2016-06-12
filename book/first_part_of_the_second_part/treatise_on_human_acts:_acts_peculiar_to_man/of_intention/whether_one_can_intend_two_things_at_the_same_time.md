@@ -1,14 +1,25 @@
 # Whether One Can Intend Two Things At The Same Time?
+
 ## Objections
+
 Objection 1: It would seem that one cannot intend several things at the same time. For Augustine says (De Serm. Dom. in Monte ii, 14,16,17) that man's intention cannot be directed at the same time to God and to bodily benefits. Therefore, for the same reason, neither to any other two things.
+
 Objection 2: Further, intention designates a movement of the will towards a terminus. Now there cannot be several termini in the same direction of one movement. Therefore the will cannot intend several things at the same time.
+
 Objection 3: Further, intention presupposes an act of reason or of the intellect. But "it is not possible to understand several things at the same time," according to the Philosopher (Topic. ii, 10). Therefore neither is it possible to intend several things at the same time.
+
 ## Answer
+
 On the contrary, Art imitates nature. Now nature intends two purposes by means of one instrument: thus "the tongue is for the purpose of taste and speech" (De Anima ii, 8). Therefore, for the same reason, art or reason can at the same time direct one thing to two ends: so that one can intend several ends at the same time.
+
 I answer that, The expression "two things" may be taken in two ways: they may be ordained to one another or not so ordained. And if they be ordained to one another, it is evident, from what has been said, that a man can intend several things at the same time. For intention is not only of the last end, as stated above [1086](A[2]), but also of an intermediary end. Now a man intends at the same time, both the proximate and the last end; as the mixing of a medicine and the giving of health.
 
 But if we take two things that are not ordained to one another, thus also a man can intend several things at the same time. This is evident from the fact that a man prefers one thing to another because it is the better of the two. Now one of the reasons for which one thing is better than another is that it is available for more purposes: wherefore one thing can be chosen in preference to another, because of the greater number of purposes for which it is available: so that evidently a man can intend several things at the same time.
+
 ## Replies
+
 Reply to Objection 1: Augustine means to say that man cannot at the same time direct his attention to God and to bodily benefits, as to two last ends: since, as stated above ([1087]Q[1], A[5]), one man cannot have several last ends.
+
 Reply to Objection 2: There can be several termini ordained to one another, of the same movement and in the same direction; but not unless they be ordained to one another. At the same time it must be observed that what is not one in reality may be taken as one by the reason. Now intention is a movement of the will to something already ordained by the reason, as stated above (A[1], ad 3). Wherefore where we have many things in reality, we may take them as one term of intention, in so far as the reason takes them as one: either because two things concur in the integrity of one whole, as a proper measure of heat and cold conduce to health; or because two things are included in one which may be intended. For instance, the acquiring of wine and clothing is included in wealth, as in something common to both; wherefore nothing hinders the man who intends to acquire wealth, from intending both the others.
+
 Reply to Objection 3: As stated in the [1088]FP, Q[12], A[10]; [1089]FP, Q[58], A[2]; [1090]FP, Q[85], A[4] it is possible to understand several things at the same time, in so far as, in some way, they are one.

@@ -1,10 +1,19 @@
 # Whether None But A Bishop Can Confer This Sacrament?
+
 ## Objections
+
 Objection 1: It would seem that none but a bishop can confer this sacrament. For this sacrament consists in an anointing, just as Confirmation does. Now none but a bishop can confirm. Therefore only a bishop can confer this sacrament.
+
 Objection 2: Further, he who cannot do what is less cannot do what is greater. Now the use of consecrated matter surpasses the act of consecrating the matter, since the former is the end of the latter. Therefore since a priest cannot consecrate the matter, neither can he use the matter after it has been consecrated.
+
 ## Answer
+
 On the contrary, The minister of this sacrament has to be brought in to the recipient, as is clear from James 5:14. Now a bishop cannot go to all the sick people of his diocese. Therefore the bishop is not the only one who can confer this sacrament.
+
 I answer that, According to Dionysius (Eccl. Hier. v), the office of perfecting belongs to a bishop, just as it belongs to a priest to enlighten. Wherefore those sacraments are reserved to a bishop's dispensation, which place the recipient in a state of perfection above others. But this is not the case with this sacrament, for it is given to all. Consequently it can be given by ordinary priests.
+
 ## Replies
+
 Reply to Objection 1: Confirmation imprints a character, whereby man is placed in a state of perfection, as stated above ([4901]TP, Q[63], AA[1], 2,6). But this does not take place in this sacrament; hence there is no comparison.
+
 Reply to Objection 2: Although the use of consecrated matter is of more importance than the consecration of the matter, from the point of view of the final cause; nevertheless, from the point of view of efficient cause, the consecration of the matter is the more important, since the use of the matter is dependent thereon, as on its active cause: hence the consecration of the matter demands a higher power than the use of the matter does.

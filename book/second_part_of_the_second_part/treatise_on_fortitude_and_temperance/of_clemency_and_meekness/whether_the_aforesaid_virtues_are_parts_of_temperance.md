@@ -1,12 +1,23 @@
 # Whether The Aforesaid Virtues Are Parts Of Temperance?
+
 ## Objections
+
 Objection 1: It would seem that the aforesaid virtues are not parts of temperance. For clemency mitigates punishment, as stated above [3565](A[2]). But the Philosopher (Ethic. v, 10) ascribes this to equity, which pertains to justice, as stated above (Q[120], A[2]). Therefore seemingly clemency is not a part of temperance.
+
 Objection 2: Further, temperance is concerned with concupiscences; whereas meekness and clemency regard, not concupiscences, but anger and vengeance. Therefore they should not be reckoned parts of temperance.
+
 Objection 3: Further, Seneca says (De Clementia ii, 4): "A man may be said to be of unsound mind when he takes pleasure in cruelty." Now this is opposed to clemency and meekness. Since then an unsound mind is opposed to prudence, it seems that clemency and meekness are parts of prudence rather than of temperance.
+
 ## Answer
+
 On the contrary, Seneca says (De Clementia ii, 3) that "clemency is temperance of the soul in exercising the power of taking revenge." Tully also (De Invent. Rhet. ii, 54) reckons clemency a part of temperance.
+
 I answer that, Parts are assigned to the principal virtues, in so far as they imitate them in some secondary matter as to the mode whence the virtue derives its praise and likewise its name. Thus the mode and name of justice consist in a certain "equality," those of fortitude in a certain "strength of mind," those of temperance in a certain "restraint," inasmuch as it restrains the most vehement concupiscences of the pleasures of touch. Now clemency and meekness likewise consist in a certain restraint, since clemency mitigates punishment, while meekness represses anger, as stated above ([3566]AA[1],2). Therefore both clemency and meekness are annexed to temperance as principal virtue, and accordingly are reckoned to be parts thereof.
+
 ## Replies
+
 Reply to Objection 1: Two points must be considered in the mitigation of punishment. one is that punishment should be mitigated in accordance with the lawgiver's intention, although not according to the letter of the law; and in this respect it pertains to equity. The other point is a certain moderation of a man's inward disposition, so that he does not exercise his power of inflicting punishment. This belongs properly to clemency, wherefore Seneca says (De Clementia ii, 3) that "it is temperance of the soul in exercising the power of taking revenge." This moderation of soul comes from a certain sweetness of disposition, whereby a man recoils from anything that may be painful to another. Wherefore Seneca says (De Clementia ii, 3) that "clemency is a certain smoothness of the soul"; for, on the other hand, there would seem to be a certain roughness of soul in one who fears not to pain others.
+
 Reply to Objection 2: The annexation of secondary to principal virtues depends on the mode of virtue, which is, so to speak, a kind of form of the virtue, rather than on the matter. Now meekness and clemency agree with temperance in mode, as stated above, though they agree not in matter.
+
 Reply to Objection 3: "Unsoundness" is corruption of "soundness." Now just as soundness of body is corrupted by the body lapsing from the condition due to the human species, so unsoundness of mind is due to the mind lapsing from the disposition due to the human species. This occurs both in respect of the reason, as when a man loses the use of reason, and in respect of the appetitive power, as when a man loses that humane feeling whereby "every man is naturally friendly towards all other men" (Ethic. viii, 1). The unsoundness of mind that excludes the use of reason is opposed to prudence. But that a man who takes pleasure in the punishment of others is said to be of unsound mind, is because he seems on this account to be devoid of the humane feeling which gives rise to clemency.

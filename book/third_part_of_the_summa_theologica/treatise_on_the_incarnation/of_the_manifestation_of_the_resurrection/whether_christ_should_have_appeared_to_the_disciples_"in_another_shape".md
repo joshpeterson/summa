@@ -1,12 +1,23 @@
 # Whether Christ Should Have Appeared To The Disciples "In Another Shape"?
+
 ## Objections
+
 Objection 1: It would seem that Christ ought not to have appeared to the disciples "in another shape." For a thing cannot appear in very truth other than it is. But there was only one shape in Christ. Therefore if He appeared under another, it was not a true but a false apparition. Now this is not at all fitting, because as Augustine says (QQ. lxxxiii, qu. 14): "If He deceives He is not the Truth; yet Christ is the Truth." Consequently, it seems that Christ ought not to have appeared to the disciples "in another shape."
+
 Objection 2: Further, nothing can appear in another shape than the one it has, except the beholder's eyes be captivated by some illusions. But since such illusions are brought about by magical arts, they are unbecoming in Christ, according to what is written (2 Cor. 6:15): "What concord hath Christ with Belial?" Therefore it seems that Christ ought not to have appeared in another shape.
+
 Objection 3: Further, just as our faith receives its surety from Scripture, so were the disciples assured of their faith in the Resurrection by Christ appearing to them. But, as Augustine says in an Epistle to Jerome (xxviii), if but one untruth be admitted into the Sacred Scripture, the whole authority of the Scriptures is weakened. Consequently, if Christ appeared to the disciples, in but one apparition, otherwise than He was, then whatever they saw in Christ after the Resurrection will be of less import, which is not fitting. Therefore He ought not to have appeared in another shape.
+
 ## Answer
+
 On the contrary, It is written (Mk. 16:12): "After that He appeared in another shape to two of them walking, as they were going into the country."
+
 I answer that, As stated above ([4307]AA[1],2), Christ's Resurrection was to be manifested to men in the same way as Divine things are revealed. But Divine things are revealed to men in various ways, according as they are variously disposed. For, those who have minds well disposed, perceive Divine things rightly, whereas those not so disposed perceive them with a certain confusion of doubt or error: "for, the sensual men perceiveth not those things that are of the Spirit of God," as is said in 1 Cor. 2:14. Consequently, after His Resurrection Christ appeared in His own shape to some who were well disposed to belief, while He appeared in another shape to them who seemed to be already growing tepid in their faith: hence these said (Lk. 24:21): "We hoped that it was He that should have redeemed Israel." Hence Gregory says (Hom. xxiii in Evang.), that "He showed Himself to them in body such as He was in their minds: for, because He was as yet a stranger to faith in their hearts, He made pretense of going on farther," that is, as if He were a stranger.
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (De Qq. Evang. ii), "not everything of which we make pretense is a falsehood; but when what we pretend has no meaning then is it a falsehood. But when our pretense has some signification, it is not a lie, but a figure of the truth; otherwise everything said figuratively by wise and holy men, or even by our Lord Himself, would be set down as a falsehood, because it is not customary to take such expressions in the literal sense. And deeds, like words, are feigned without falsehood, in order to denote something else." And so it happened here. as has been said.
+
 Reply to Objection 2: As Augustine says (De Consens. Evang. iii): "Our Lord could change His flesh so that His shape really was other than they were accustomed to behold; for, before His Passion He was transfigured on the mountain, so that His face shone like the sun. But it did not happen thus now." For not without reason do we "understand this hindrance in their eyes to have been of Satan's doing, lest Jesus might be recognized." Hence Luke says (24:16) that "their eyes were held, that they should not know Him."
+
 Reply to Objection 3: Such an argument would prove, if they had not been brought back from the sight of a strange shape to that of Christ's true countenance. For, as Augustine says (De Consens. Evang. iii): "The permission was granted by Christ," namely, that their eyes should be held fast in the aforesaid way, "until the Sacrament of the bread; that when they had shared in the unity of His body, the enemy's hindrance may be understood to have been taken away, so that Christ might be recognized." Hence he goes on to say that "'their eyes were opened, and they knew Him'; not that they were hitherto walking with their eyes shut; but there was something in them whereby they were not permitted to recognize what they saw. This could be caused by the darkness or by some kind of humor."

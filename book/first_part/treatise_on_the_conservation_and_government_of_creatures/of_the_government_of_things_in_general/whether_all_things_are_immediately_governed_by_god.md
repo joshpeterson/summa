@@ -1,16 +1,27 @@
 # Whether All Things Are Immediately Governed By God?
+
 ## Objections
+
 Objection 1: It would seem that all things are governed by God immediately. For Gregory of Nyssa (Nemesius, De Nat. Hom.) reproves the opinion of Plato who divides providence into three parts. The first he ascribes to the supreme god, who watches over heavenly things and all universals; the second providence he attributes to the secondary deities, who go the round of the heavens to watch over generation and corruption; while he ascribes a third providence to certain spirits who are guardians on earth of human actions. Therefore it seems that all things are immediately governed by God.
+
 Objection 2: Further, it is better that a thing be done by one, if possible, than by many, as the Philosopher says (Phys. viii, 6). But God can by Himself govern all things without any intermediary cause. Therefore it seems that He governs all things immediately.
+
 Objection 3: Further, in God nothing is defective or imperfect. But it seems to be imperfect in a ruler to govern by means of others; thus an earthly king, by reason of his not being able to do everything himself, and because he cannot be everywhere at the same time, requires to govern by means of ministers. Therefore God governs all things immediately.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. iii, 4): "As the lower and grosser bodies are ruled in a certain orderly way by bodies of greater subtlety and power; so all bodies are ruled by the rational spirit of life; and the sinful and unfaithful spirit is ruled by the good and just spirit of life; and this spirit by God Himself."
+
 I answer that, In government there are two things to be considered; the design of government, which is providence itself; and the execution of the design. As to the design of government, God governs all things immediately; whereas in its execution, He governs some things by means of others.
 
 The reason of this is that as God is the very essence of goodness, so everything must be attributed to God in its highest degree of goodness. Now the highest degree of goodness in any practical order, design or knowledge (and such is the design of government) consists in knowing the individuals acted upon; as the best physician is not the one who can only give his attention to general principles, but who can consider the least details; and so on in other things. Therefore we must say that God has the design of the government of all things, even of the very least.
 
 But since things which are governed should be brought to perfection by government, this government will be so much the better in the degree the things governed are brought to perfection. Now it is a greater perfection for a thing to be good in itself and also the cause of goodness in others, than only to be good in itself. Therefore God so governs things that He makes some of them to be causes of others in government; as a master, who not only imparts knowledge to his pupils, but gives also the faculty of teaching others.
+
 ## Replies
+
 Reply to Objection 1: Plato's opinion is to be rejected, because he held that God did not govern all things immediately, even in the design of government; this is clear from the fact that he divided providence, which is the design of government, into three parts.
+
 Reply to Objection 2: If God governed alone, things would be deprived of the perfection of causality. Wherefore all that is effected by many would not be accomplished by one.
+
 Reply to Objection 3: That an earthly king should have ministers to execute his laws is a sign not only of his being imperfect, but also of his dignity; because by the ordering of ministers the kingly power is brought into greater evidence.

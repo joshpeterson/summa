@@ -1,12 +1,23 @@
 # Whether The Baptism Of Blood Is The Most Excellent Of These?
+
 ## Objections
+
 Objection 1: It seems that the Baptism of Blood is not the most excellent of these three. For the Baptism of Water impresses a character; which the Baptism of Blood cannot do. Therefore the Baptism of Blood is not more excellent than the Baptism of Water.
+
 Objection 2: Further, the Baptism of Blood is of no avail without the Baptism of the Spirit, which is by charity; for it is written (1 Cor. 13:3): "If I should deliver my body to be burned, and have not charity, it profiteth me nothing." But the Baptism of the Spirit avails without the Baptism of Blood; for not only the martyrs are saved. Therefore the Baptism of Blood is not the most excellent.
+
 Objection 3: Further, just as the Baptism of Water derives its efficacy from Christ's Passion, to which, as stated above [4430](A[11]), the Baptism of Blood corresponds, so Christ's Passion derives its efficacy from the Holy Ghost, according to Heb. 9:14: "The Blood of Christ, Who by the Holy Ghost offered Himself unspotted unto God, shall cleanse our conscience from dead works," etc. Therefore the Baptism of the Spirit is more excellent than the Baptism of Blood. Therefore the Baptism of Blood is not the most excellent.
+
 ## Answer
+
 On the contrary, Augustine (Ad Fortunatum) speaking of the comparison between Baptisms says: "The newly baptized confesses his faith in the presence of the priest: the martyr in the presence of the persecutor. The former is sprinkled with water, after he has confessed; the latter with his blood. The former receives the Holy Ghost by the imposition of the bishop's hands; the latter is made the temple of the Holy Ghost."
+
 I answer that, As stated above [4431](A[11]), the shedding of blood for Christ's sake, and the inward operation of the Holy Ghost, are called baptisms, in so far as they produce the effect of the Baptism of Water. Now the Baptism of Water derives its efficacy from Christ's Passion and from the Holy Ghost, as already stated [4432](A[11]). These two causes act in each of these three Baptisms; most excellently, however, in the Baptism of Blood. For Christ's Passion acts in the Baptism of Water by way of a figurative representation; in the Baptism of the Spirit or of Repentance, by way of desire. but in the Baptism of Blood, by way of imitating the (Divine) act. In like manner, too, the power of the Holy Ghost acts in the Baptism of Water through a certain hidden power. in the Baptism of Repentance by moving the heart; but in the Baptism of Blood by the highest degree of fervor of dilection and love, according to Jn. 15:13: "Greater love than this no man hath that a man lay down his life for his friends."
+
 ## Replies
+
 Reply to Objection 1: A character is both reality and a sacrament. And we do not say that the Baptism of Blood is more excellent, considering the nature of a sacrament; but considering the sacramental effect.
+
 Reply to Objection 2: The shedding of blood is not in the nature of a Baptism if it be without charity. Hence it is clear that the Baptism of Blood includes the Baptism of the Spirit, but not conversely. And from this it is proved to be more perfect.
+
 Reply to Objection 3: The Baptism owes its pre-eminence not only to Christ's Passion, but also to the Holy Ghost, as stated above.

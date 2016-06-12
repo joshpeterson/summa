@@ -1,12 +1,23 @@
 # Whether The Power Of God Is Infinite?
+
 ## Objections
+
 Objection 1: It seems that the power of God is not infinite. For everything that is infinite is imperfect according to the Philosopher (Phys. iii, 6). But the power of God is far from imperfect. Therefore it is not infinite.
+
 Objection 2: Further, every power is made known by its effect; otherwise it would be ineffectual. If, then, the power of God were infinite, it could produce an infinite effect, but this is impossible.
+
 Objection 3: Further, the Philosopher proves (Phys. viii, 79) that if the power of any corporeal thing were infinite, it would cause instantaneous movement. God, however, does not cause instantaneous movement, but moves the spiritual creature in time, and the corporeal creature in place and time, as Augustine says (Gen. ad lit. 20,22,23). Therefore, His power is not infinite.
+
 ## Answer
+
 On the contrary, Hilary says (De Trin. viii), that "God's power is immeasurable. He is the living mighty one." Now everything that is immeasurable is infinite. Therefore the power of God is infinite.
+
 I answer that, As stated above [203](A[1]), active power exists in God according to the measure in which He is actual. Now His existence is infinite, inasmuch as it is not limited by anything that receives it, as is clear from what has been said, when we discussed the infinity of the divine essence ([204]Q[7], A[1]). Wherefore, it is necessary that the active power in God should be infinite. For in every agent is it found that the more perfectly an agent has the form by which it acts the greater its power to act. For instance, the hotter a thing is, the greater the power has it to give heat; and it would have infinite power to give heat, were its own heat infinite. Whence, since the divine essence, through which God acts, is infinite, as was shown above ([205]Q[7], A[1]) it follows that His power likewise is infinite.
+
 ## Replies
+
 Reply to Objection 1: The Philosopher is here speaking of an infinity in regard to matter not limited by any form; and such infinity belongs to quantity. But the divine essence is otherwise, as was shown above ([206]Q[7], A[1]); and consequently so also His power. It does not follow, therefore, that it is imperfect.
+
 Reply to Objection 2: The power of a univocal agent is wholly manifested in its effect. The generative power of man, for example, is not able to do more than beget man. But the power of a non-univocal agent does not wholly manifest itself in the production of its effect: as, for example, the power of the sun does not wholly manifest itself in the production of an animal generated from putrefaction. Now it is clear that God is not a univocal agent. For nothing agrees with Him either in species or in genus, as was shown above ([207]Q[3], A[5]; [208]Q[4], A[3]). Whence it follows that His effect is always less than His power. It is not necessary, therefore, that the infinite power of God should be manifested so as to produce an infinite effect. Yet even if it were to produce no effect, the power of God would not be ineffectual; because a thing is ineffectual which is ordained towards an end to which it does not attain. But the power of God is not ordered toward its effect as towards an end; rather, it is the end of the effect produced by it.
+
 Reply to Objection 3: The Philosopher (Phys. viii, 79) proves that if a body had infinite power, it would cause a non-temporal movement. And he shows that the power of the mover of heaven is infinite, because it can move in an infinite time. It remains, therefore, according to his reckoning, that the infinite power of a body, if such existed, would move without time; not, however, the power of an incorporeal mover. The reason of this is that one body moving another is a univocal agent; wherefore it follows that the whole power of the agent is made known in its motion. Since then the greater the power of a moving body, the more quickly does it move; the necessary conclusion is that if its power were infinite, it would move beyond comparison faster, and this is to move without time. An incorporeal mover, however, is not a univocal agent; whence it is not necessary that the whole of its power should be manifested in motion, so as to move without time; and especially since it moves in accordance with the disposition of its will.

@@ -1,14 +1,25 @@
 # Whether Delight Differs From Joy?
+
 ## Objections
+
 Objection 1: It would seem that delight is altogether the same as joy. Because the passions of the soul differ according to their objects. But delight and joy have the same object, namely, a good obtained. Therefore joy is altogether the same as delight.
+
 Objection 2: Further, one movement does not end in two terms. But one and the same movement, that of desire, ends in joy and delight. Therefore delight and joy are altogether the same.
+
 Objection 3: Further, if joy differs from delight, it seems that there is equal reason for distinguishing gladness, exultation, and cheerfulness from delight, so that they would all be various passions of the soul. But this seems to be untrue. Therefore joy does not differ from delight.
+
 ## Answer
+
 On the contrary, We do not speak of joy in irrational animals; whereas we do speak of delight in them. Therefore joy is not the same as delight.
+
 I answer that, Joy, as Avicenna states (De Anima iv), is a kind of delight. For we must observe that, just as some concupiscences are natural, and some not natural, but consequent to reason, as stated above ([1262]Q[30], A[3]), so also some delights are natural, and some are not natural but rational. Or, as Damascene (De Fide Orth. ii, 13) and Gregory of Nyssa [*Nemesius, De Nat. Hom. xviii.] put it, "some delights are of the body, some are of the soul"; which amounts to the same. For we take delight both in those things which we desire naturally, when we get them, and in those things which we desire as a result of reason. But we do not speak of joy except when delight follows reason; and so we do not ascribe joy to irrational animals, but only delight.
 
 Now whatever we desire naturally, can also be the object of reasoned desire and delight, but not vice versa. Consequently whatever can be the object of delight, can also be the object of joy in rational beings. And yet everything is not always the object of joy; since sometimes one feels a certain delight in the body, without rejoicing thereat according to reason. And accordingly delight extends to more things than does joy.
+
 ## Replies
+
 Reply to Objection 1: Since the object of the appetite of the soul is an apprehended good, diversity of apprehension pertains, in a way, to diversity of the object. And so delights of the soul, which are also called joys, are distinct from bodily delights, which are not called otherwise than delights: as we have observed above in regard to concupiscences ([1263]Q[30], A[3], ad 2).
+
 Reply to Objection 2: A like difference is to be observed in concupiscences also: so that delight corresponds to concupiscence, while joy corresponds to desire, which seems to pertain more to concupiscence of the soul. Hence there is a difference of repose corresponding to the difference of movement.
+
 Reply to Objection 3: These other names pertaining to delight are derived from the effects of delight; for "laetitia" [gladness] is derived from the "dilation" of the heart, as if one were to say "latitia"; "exultation" is derived from the exterior signs of inward delight, which appear outwardly in so far as the inward joy breaks forth from its bounds; and "cheerfulness" is so called from certain special signs and effects of gladness. Yet all these names seem to belong to joy; for we do not employ them save in speaking of rational beings.

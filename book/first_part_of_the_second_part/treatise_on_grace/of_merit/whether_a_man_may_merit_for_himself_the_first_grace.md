@@ -1,12 +1,23 @@
 # Whether A Man May Merit For Himself The First Grace?
+
 ## Objections
+
 Objection 1: It would seem that a man may merit for himself the first grace, because, as Augustine says (Ep. clxxxvi), "faith merits justification." Now a man is justified by the first grace. Therefore a man may merit the first grace.
+
 Objection 2: Further, God gives grace only to the worthy. Now, no one is said to be worthy of some good, unless he has merited it condignly. Therefore we may merit the first grace condignly.
+
 Objection 3: Further, with men we may merit a gift already received. Thus if a man receives a horse from his master, he merits it by a good use of it in his master's service. Now God is much more bountiful than man. Much more, therefore, may a man, by subsequent works, merit the first grace already received from God.
+
 ## Answer
+
 On the contrary, The nature of grace is repugnant to reward of works, according to Rom. 4:4: "Now to him that worketh, the reward is not reckoned according to grace but according to debt." Now a man merits what is reckoned to him according to debt, as the reward of his works. Hence a man may not merit the first grace.
+
 I answer that, The gift of grace may be considered in two ways: first in the nature of a gratuitous gift, and thus it is manifest that all merit is repugnant to grace, since as the Apostle says (Rom. 11:6), "if by grace, it is not now by works." Secondly, it may be considered as regards the nature of the thing given, and thus, also, it cannot come under the merit of him who has not grace, both because it exceeds the proportion of nature, and because previous to grace a man in the state of sin has an obstacle to his meriting grace, viz. sin. But when anyone has grace, the grace already possessed cannot come under merit, since reward is the term of the work, but grace is the principle of all our good works, as stated above ([2247]Q[109]). But of anyone merits a further gratuitous gift by virtue of the preceding grace, it would not be the first grace. Hence it is manifest that no one can merit for himself the first grace.
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (Retract. i, 23), he was deceived on this point for a time, believing the beginning of faith to be from us, and its consummation to be granted us by God; and this he here retracts. And seemingly it is in this sense that he speaks of faith as meriting justification. But if we suppose, as indeed it is a truth of faith, that the beginning of faith is in us from God, the first act must flow from grace; and thus it cannot be meritorious of the first grace. Therefore man is justified by faith, not as though man, by believing, were to merit justification, but that, he believes, whilst he is being justified; inasmuch as a movement of faith is required for the justification of the ungodly, as stated above ([2248]Q[113], A[4]).
+
 Reply to Objection 2: God gives grace to none but to the worthy, not that they were previously worthy, but that by His grace He makes them worthy, Who alone "can make him clean that is conceived of unclean seed" (Job 14:4).
+
 Reply to Objection 3: Man's every good work proceeds from the first grace as from its principle; but not from any gift of man. Consequently, there is no comparison between gifts of grace and gifts of men.

@@ -1,18 +1,33 @@
 # Whether The Time For Celebrating This Mystery Has Been Properly Determined?
+
 ## Objections
+
 Objection 1: It seems that the time for celebrating this mystery has not been properly determined. For as was observed above [4697](A[1]), this sacrament is representative of our Lord's Passion. But the commemoration of our Lord's Passion takes place in the Church once in the year: because Augustine says (Enarr. ii in Ps. 21): "Is not Christ slain as often as the Pasch is celebrated? Nevertheless, the anniversary remembrance represents what took place in by-gone days; and so it does not cause us to be stirred as if we saw our Lord hanging upon the cross." Therefore this sacrament ought to be celebrated but once a year.
+
 Objection 2: Further, Christ's Passion is commemorated in the Church on the Friday before Easter, and not on Christmas Day. Consequently, since this sacrament is commemorative of our Lord's Passion, it seems unsuitable for this sacrament to be celebrated thrice on Christmas Day, and to be entirely omitted on Good Friday.
+
 Objection 3: Further, in the celebration of this sacrament the Church ought to imitate Christ's institution. But it was in the evening that Christ consecrated this sacrament. Therefore it seems that this sacrament ought to be celebrated at that time of day.
+
 Objection 4: Further, as is set down in the Decretals (De Consecr., dist. i), Pope Leo I wrote to Dioscorus, Bishop of Alexandria, that "it is permissible to celebrate mass in the first part of the day." But the day begins at midnight, as was said above ([4698]Q[80], A[8], ad 5). Therefore it seems that after midnight it is lawful to celebrate.
+
 Objection 5: Further, in one of the Sunday Secrets (Ninth Sunday after Pentecost) we say: "Grant us, Lord, we beseech Thee, to frequent these mysteries." But there will be greater frequency if the priest celebrates several times a day. Therefore it seems that the priest ought not to be hindered from celebrating several times daily.
+
 ## Answer
+
+
 
 I answer that, As stated above [4699](A[1]), in the celebration of this mystery, we must take into consideration the representation of our Lord's Passion, and the participation of its fruits; and the time suitable for the celebration of this mystery ought to be determined by each of these considerations. Now since, owing to our daily defects, we stand in daily need of the fruits of our Lord's Passion, this sacrament is offered regularly every day in the Church. Hence our Lord teaches us to pray (Lk. 11:3): "Give us this day our daily bread": in explanation of which words Augustine says (De Verb. Dom. xxviii): "If it be a daily bread, why do you take it once a year, as the Greeks have the custom in the east? Receive it daily that it may benefit you every day."
 
 But since our Lord's Passion was celebrated from the third to the ninth hour, therefore this sacrament is solemnly celebrated by the Church in that part of the day.
+
 ## Replies
+
 Reply to Objection 1: Christ's Passion is recalled in this sacrament, inasmuch as its effect flows out to the faithful; but at Passion-tide Christ's Passion is recalled inasmuch as it was wrought in Him Who is our Head. This took place but once; whereas the faithful receive daily the fruits of His Passion: consequently, the former is commemorated but once in the year, whereas the latter takes place every day, both that we may partake of its fruit and in order that we may have a perpetual memorial.
+
 Reply to Objection 2: The figure ceases on the advent of the reality. But this sacrament is a figure and a representation of our Lord's Passion, as stated above. And therefore on the day on which our Lord's Passion is recalled as it was really accomplished, this sacrament is not consecrated. Nevertheless, lest the Church be deprived on that day of the fruit of the Passion offered to us by this sacrament, the body of Christ consecrated the day before is reserved to be consumed on that day; but the blood is not reserved, on account of danger, and because the blood is more specially the image of our Lord's Passion, as stated above ([4700]Q[78], A[3], ad 2). Nor is it true, as some affirm, that the wine is changed into blood when the particle of Christ's body is dropped into it. Because this cannot be done otherwise than by consecration under the due form of words.
+
 Reply to Objection 3: As already observed ([4701]Q[73], A[5]), Christ wished to give this sacrament last of all, in order that it might make a deeper impression on the hearts of the disciples; and therefore it was after supper, at the close of day, that He consecrated this sacrament and gave it to His disciples. But we celebrate at the hour when our Lord suffered, i.e. either, as on feast-days, at the hour of Terce, when He was crucified by the tongues of the Jews (Mk. 15:25), and when the Holy Ghost descended upon the disciples (Acts 2:15); or, as when no feast is kept, at the hour of Sext, when He was crucified at the hands of the soldiers (Jn. 19:14), or, as on fasting days, at None, when crying out with a loud voice He gave up the ghost (Mat. 27:46, 50).
+
 Reply to Objection 4: As a rule mass ought to be said in the day and not in the night, because Christ is present in this sacrament, Who says (Jn. 9:4,5): "I must work the works of Him that sent Me, whilst it is day: because the night cometh when no man can work; as long as I am in the world, I am the light of the world." Yet this should be done in such a manner that the beginning of the day is not to be taken from midnight; nor from sunrise, that is, when the substance of the sun appears above the earth; but when the dawn begins to show: because then the sun is said to be risen when the brightness of his beams appears. Accordingly it is written (Mk. 16:1) that "the women came to the tomb, the sun being now risen"; though, as John relates (Jn. 20:1), "while it was yet dark they came to the tomb." It is in this way that Augustine explains this difference (De Consens. Evang. iii).
+
 Reply to Objection 5: As is set down in the decree (De Consecr., dist. 1), in virtue of a decree of Pope Alexander II, "it is enough for a priest to celebrate one mass each day, because Christ suffered once and redeemed the whole world; and very happy is he who can worthily celebrate one mass. But there are some who say one mass for the dead, and another of the day, if need be. But I do not deem that those escape condemnation who presume to celebrate several masses daily, either for the sake of money, or to gain flattery from the laity." And Pope Innocent III says (Extra, De Celebr. Miss., chap. Consuluisti) that "except on the day of our Lord's birth, unless necessity urges, it suffices for a priest to celebrate only one mass each day."

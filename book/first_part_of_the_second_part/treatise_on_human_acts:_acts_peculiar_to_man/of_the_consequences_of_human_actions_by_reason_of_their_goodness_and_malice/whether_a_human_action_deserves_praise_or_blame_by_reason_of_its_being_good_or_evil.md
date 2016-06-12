@@ -1,12 +1,23 @@
 # Whether A Human Action Deserves Praise Or Blame, By Reason Of Its Being Good Or Evil?
+
 ## Objections
+
 Objection 1: It would seem that a human action does not deserve praise or blame by reason of its being good or evil. For "sin happens even in things done by nature" (Phys. ii, 8). And yet natural things are not deserving of praise or blame (Ethic. iii, 5). Therefore a human action does not deserve blame, by reason of its being evil or sinful; and, consequently, neither does it deserve praise, by reason of its being good.
+
 Objection 2: Further, just as sin occurs in moral actions, so does it happen in the productions of art: because as stated in Phys. ii, 8 "it is a sin in a grammarian to write badly, and in a doctor to give the wrong medicine." But the artist is not blamed for making something bad: because the artist's work is such, that he can produce a good or a bad thing, just as he lists. Therefore it seems that neither is there any reason for blaming a moral action, in the fact that it is evil.
+
 Objection 3: Further, Dionysius says (Div. Nom. iv) that evil is "weak and incapable." But weakness or inability either takes away or diminishes guilt. Therefore a human action does not incur guilt from being evil.
+
 ## Answer
+
 On the contrary, The Philosopher says (De Virt. et Vit. i) that "virtuous deeds deserve praise, while deeds that are opposed to virtue deserve censure and blame." But good actions are virtuous; because "virtue makes that which has it, good, and makes its action good" (Ethic. ii, 6): wherefore actions opposed to virtue are evil. Therefore a human action deserves praise or blame, through being good or evil.
+
 I answer that, Just as evil is more comprehensive than sin, so is sin more comprehensive than blame. For an action is said to deserve praise or blame, from its being imputed to the agent: since to praise or to blame means nothing else than to impute to someone the malice or goodness of his action. Now an action is imputed to an agent, when it is in his power, so that he has dominion over it: because it is through his will that man has dominion over his actions, as was made clear above ([1200]Q[1], AA[1],2). Hence it follows that good or evil, in voluntary actions alone, renders them worthy of praise or blame: and in such like actions, evil, sin and guilt are one and the same thing.
+
 ## Replies
+
 Reply to Objection 1: Natural actions are not in the power of the natural agent: since the action of nature is determinate. And, therefore, although there be sin in natural actions, there is no blame.
+
 Reply to Objection 2: Reason stands in different relations to the productions of art, and to moral actions. In matters of art, reason is directed to a particular end, which is something devised by reason: whereas in moral matters, it is directed to the general end of all human life. Now a particular end is subordinate to the general end. Since therefore sin is a departure from the order to the end, as stated above [1201](A[1]), sin may occur in two ways, in a production of art. First, by a departure from the particular end intended by the artist: and this sin will be proper to the art; for instance, if an artist produce a bad thing, while intending to produce something good; or produce something good, while intending to produce something bad. Secondly, by a departure from the general end of human life: and then he will be said to sin, if he intend to produce a bad work, and does so in effect, so that another is taken in thereby. But this sin is not proper to the artist as such, but as man. Consequently for the former sin the artist is blamed as an artist; while for the latter he is blamed as a man. On the other hand, in moral matters, where we take into consideration the order of reason to the general end of human life, sin and evil are always due to a departure from the order of reason to the general end of human life. Wherefore man is blamed for such a sin, both as man and as a moral being. Hence the Philosopher says (Ethic. vi, 5) that "in art, he who sins voluntarily is preferable; but in prudence, as in the moral virtues," which prudence directs, "he is the reverse."
+
 Reply to Objection 3: Weakness that occurs in voluntary evils, is subject to man's power: wherefore it neither takes away nor diminishes guilt.

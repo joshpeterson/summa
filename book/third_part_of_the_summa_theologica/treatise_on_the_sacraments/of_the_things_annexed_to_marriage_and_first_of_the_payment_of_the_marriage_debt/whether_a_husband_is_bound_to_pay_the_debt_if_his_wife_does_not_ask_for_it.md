@@ -1,14 +1,27 @@
 # Whether A Husband Is Bound To Pay The Debt If His Wife Does Not Ask For It?
+
 ## Objections
+
 Objection 1: It would seem that the husband is not bound to pay the marriage debt if his wife does not ask for it. For an affirmative precept is binding only at a certain time. But the time fixed for the payment of the debt can only be when it is asked for. Therefore he is not bound to payment otherwise.
+
 Objection 2: Further, we ought to presume the better things of everyone. Now even for married people it is better to be continent than to make use of marriage. Therefore unless she ask expressly for the debt, the husband should presume that it pleases her to be continent, and so he is not bound to pay her the debt.
+
 Objection 3: Further, as the wife has power over her husband, so has a master over his slave. Now a slave is not bound to serve his master save when the latter commands him. Therefore neither is a husband bound to pay the debt to his wife except when she demands it.
+
 Objection 4: Further, the husband can sometimes request his wife not to exact the debt when she asks for it. Much more therefore may he not pay it when he is not asked.
+
 ## Answer
+
 On the contrary, By the payment of the debt a remedy is afforded against the wife's concupiscence. Now a physician who has the care of a sick person is bound to remedy the disease without being asked. Therefore the husband is bound to pay the debt to his wife although she ask not for it. Further, a superior is bound to apply a remedy for the sins of his subjects even though they rebel against it. But the payment of the debt on the husband's part is directed against the sins of his wife. Therefore sometimes the husband is bound to pay the debt to his wife even though she ask it not of him.
+
 I answer that, The debt may be demanded in two ways. First, explicitly, as when they ask one another by words; secondly, implicitly, when namely the husband knows by certain signs that the wife would wish him to pay the debt, but is silent through shame. And so even though she does not ask for the debt explicitly in words, the husband is bound to pay it, whenever his wife shows signs of wishing him to do so.
+
 ## Replies
+
 Reply to Objection 1: The appointed time is not only when it is demanded but also when on account of certain signs there is fear of danger (to avoid which is the purpose of the payment of the debt) unless it be paid then.
+
 Reply to Objection 2: The husband may presume this of his wife when he perceives in her no signs of the contrary; but it would be foolish of him to admit this presumption if he does see such signs.
+
 Reply to Objection 3: The master is not ashamed to demand of his slave the duty of his service, as a wife is to ask the marriage debt of her husband. Yet if the master were not to demand it, either through ignorance or some other cause, the slave would nevertheless be bound to fulfill his duty, if some danger were threatening. For this is what is meant by "not serving to the eye" (Eph. 6:6; Col. 3:22) which is the Apostle's command to servants.
+
 Reply to Objection 4: A husband should not dissuade his wife from asking for the debt, except for a reasonable cause; and even then he should not be too insistent, on account of the besetting danger.

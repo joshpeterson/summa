@@ -1,11 +1,21 @@
 # Whether It Is Allowable For A Menstruous Wife To Ask For The Marriage Debt?
+
 ## Objections
+
 Objection 1: It would seem lawful for a menstruous wife to ask for the marriage debt. For in the Law a man who had an issue of seed was unclean, even as a menstruous woman. Yet a man who has an issue of seed may ask for the debt. Therefore a menstruous wife may also.
+
 Objection 2: Further, leprosy is a worse complaint than suffering from monthly periods, and would seem to cause a greater corruption in the offspring. Yet a leper can ask for the debt. Therefore, etc.
+
 Objection 3: Further, if a menstruous wife is not allowed to ask for the debt, this can only be because it is feared this may be detrimental to the offspring. Yet if the wife be unfruitful there is no such fear. Therefore, seemingly, at least an unfruitful wife may ask for the debt during her menses.
+
 ## Answer
+
 On the contrary, "Thou shalt not approach to a woman having her flowers" (Lev. 18:19) where Augustine observes: "Although he has already sufficiently forbidden this he repeats the prohibition here lest he seem to have spoken figuratively."
+
 I answer that, It was forbidden in the Law to approach to a menstruous woman, for two reasons both on account of her uncleanness, and on account of the harm that frequently resulted to the offspring from such intercourse. With regard to the first reason, it was a ceremonial precept, but with regard to the second it was a moral precept. For since marriage is chiefly directed to the good of the offspring, all use of marriage which is intended for the good of the offspring is in order. Consequently this precept is binding even in the New Law on account of the second reason, although not on account of the first. Now, the menstrual issue may be natural or unnatural. The natural issue is that to which women are subject at stated periods when they are in good health; and it is unnatural when they suffer from an issue of blood through some disorder resulting from sickness. Accordingly if the menstrual flow be unnatural it is not forbidden in the New Law to approach to a menstruous woman both on account of her infirmity since a woman in that state cannot conceive, and because an issue of this kind is lasting and continuous, so that the husband would have to abstain for always. When however the woman is subject to a natural issue of the menstruum, she can conceive; moreover, the said issue lasts only a short time, wherefore it is forbidden to approach to her. In like manner a woman is forbidden to ask for the debt during the period of that issue.
+
 ## Replies
+
 Reply to Objection 1: The issue of seed in a man is the result of infirmity, nor is the seed in this case apt for generation. Moreover a complaint of this kind is continual or lasting like leprosy: wherefore the comparison falls.
+
 Reply to Objection 3: As long as a woman is subject to the menses it cannot be certain that she is sterile. For some are sterile in youth, and in course of time become fruitful, and "vice versa," as the Philosopher observes (De Gener. Anim. xvi).

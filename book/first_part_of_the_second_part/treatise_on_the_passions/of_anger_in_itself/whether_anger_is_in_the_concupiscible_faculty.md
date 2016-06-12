@@ -1,12 +1,23 @@
 # Whether Anger Is In The Concupiscible Faculty?
+
 ## Objections
+
 Objection 1: It would seem that anger is in the concupiscible faculty. For Cicero says (De Quaest. Tusc. iv, 9) that anger is a kind of "desire." But desire is in the concupiscible faculty. Therefore anger is too.
+
 Objection 2: Further, Augustine says in his Rule, that "anger grows into hatred": and Cicero says (De Quaest. Tusc. iv, 9) that "hatred is inveterate anger." But hatred, like love, is a concupiscible passion. Therefore anger is in the concupiscible faculty.
+
 Objection 3: Further, Damascene (De Fide Orth. ii, 16) and Gregory of Nyssa [*Nemesius, De Nat. Hom. xxi.] say that "anger is made up of sorrow and desire." Both of these are in the concupiscible faculty. Therefore anger is a concupiscible passion.
+
 ## Answer
+
 On the contrary, The concupiscible is distinct from the irascible faculty. If, therefore, anger were in the concupiscible power, the irascible would not take its name from it.
+
 I answer that, As stated above (Q[23], A[1]), the passions of the irascible part differ from the passions of the concupiscible faculty, in that the objects of the concupiscible passions are good and evil absolutely considered, whereas the objects of the irascible passions are good and evil in a certain elevation or arduousness. Now it has been stated [1418](A[2]) that anger regards two objects: viz. the vengeance that it seeks; and the person on whom it seeks vengeance; and in respect of both, anger requires a certain arduousness: for the movement of anger does not arise, unless there be some magnitude about both these objects; since "we make no ado about things that are naught or very minute," as the Philosopher observes (Rhet. ii, 2). It is therefore evident that anger is not in the concupiscible, but in the irascible faculty.
+
 ## Replies
+
 Reply to Objection 1: Cicero gives the name of desire to any kind of craving for a future good, without discriminating between that which is arduous and that which is not. Accordingly he reckons anger as a kind of desire, inasmuch as it is a desire of vengeance. In this sense, however, desire is common to the irascible and concupiscible faculties.
+
 Reply to Objection 2: Anger is said to grow into hatred, not as though the same passion which at first was anger, afterwards becomes hatred by becoming inveterate; but by a process of causality. For anger when it lasts a long time engenders hatred.
+
 Reply to Objection 3: Anger is said to be composed of sorrow and desire, not as though they were its parts, but because they are its causes: and it has been said above ([1419]Q[25], A[2]) that the concupiscible passions are the causes of the irascible passions.

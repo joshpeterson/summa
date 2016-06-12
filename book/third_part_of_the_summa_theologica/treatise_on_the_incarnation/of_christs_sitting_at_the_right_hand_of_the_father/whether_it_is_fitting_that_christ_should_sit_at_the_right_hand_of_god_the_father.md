@@ -1,12 +1,23 @@
 # Whether It Is Fitting That Christ Should Sit At The Right Hand Of God The Father?
+
 ## Objections
+
 Objection 1: It would seem unfitting that Christ should sit at the right hand of God the Father. For right and left are differences of bodily position. But nothing corporeal can be applied to God, since "God is a spirit," as we read in Jn. 4:24. Therefore it seems that Christ does not sit at the right hand of the Father.
+
 Objection 2: Further, if anyone sits at another's right hand, then the latter is seated on his left. Consequently, if Christ sits at the right hand of the Father, it follows that the Father is seated on the left of the Son; which is unseemly.
+
 Objection 3: Further, sitting and standing savor of opposition. But Stephen (Acts 7:55) said: "Behold, I see the heavens opened, and the Son of man standing on the right hand of God." Therefore it seems that Christ does not sit at the right hand of the Father.
+
 ## Answer
+
 On the contrary, It is written in the last chapter of Mark (16:19): "The Lord Jesus, after He had spoken to them, was taken up to heaven, and sitteth on the right hand of God."
+
 I answer that, The word "sitting" may have a twofold meaning; namely, "abiding" as in Lk. 24:49: "Sit [Douay: 'Stay'] you in the city": and royal or judiciary "power," as in Prov. 20:8: "The king, that sitteth on the throne of judgment, scattereth away all evil with his look." Now in either sense it belongs to Christ to sit at the Father's right hand. First of all inasmuch as He abides eternally unchangeable in the Father's bliss, which is termed His right hand, according to Ps. 15:11: "At Thy right hand are delights even to the end." Hence Augustine says (De Symb. i): "'Sitteth at the right hand of the Father': To sit means to dwell, just as we say of any man: 'He sat in that country for three years': Believe, then, that Christ dwells so at the right hand of the Father: for He is happy, and the Father's right hand is the name for His bliss." Secondly, Christ is said to sit at the right hand of the Father inasmuch as He reigns together with the Father, and has judiciary power from Him; just as he who sits at the king's right hand helps him in ruling and judging. Hence Augustine says (De Symb. ii): "By the expression 'right hand,' understand the power which this Man, chosen of God, received, that He might come to judge, who before had come to be judged."
+
 ## Replies
+
 Reply to Objection 1: As Damascene says (De Fide Orth. iv): "We do not speak of the Father's right hand as of a place, for how can a place be designated by His right hand, who Himself is beyond all place? Right and left belong to things definable by limit. But we style, as the Father's right hand, the glory and honor of the Godhead."
+
 Reply to Objection 2: The argument holds good if sitting at the right hand be taken corporeally. Hence Augustine says (De Symb. i): "If we accept it in a carnal sense that Christ sits at the Father's right hand, then the Father will be on the left. But there"---that is, in eternal bliss, "it is all right hand, since no misery is there."
+
 Reply to Objection 3: As Gregory says in a Homily on the Ascension (Hom. xxix in Evang.), "it is the judge's place to sit, while to stand is the place of the combatant or helper. Consequently, Stephen in his toil of combat saw Him standing whom He had as his helper. But Mark describes Him as seated after the Ascension, because after the glory of His Ascension He will at the end be seen as judge."

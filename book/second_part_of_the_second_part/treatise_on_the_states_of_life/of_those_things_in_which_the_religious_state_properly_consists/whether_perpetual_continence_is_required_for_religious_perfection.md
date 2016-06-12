@@ -1,14 +1,25 @@
 # Whether Perpetual Continence Is Required For Religious Perfection?
+
 ## Objections
+
 Objection 1: It would seem that perpetual continence is not required for religious perfection. For all perfection of the Christian life began with Christ's apostles. Now the apostles do not appear to have observed continence, as evidenced by Peter, of whose mother-in-law we read Mat. 8:14. Therefore it would seem that perpetual continence is not requisite for religious perfection.
+
 Objection 2: Further, the first example of perfection is shown to us in the person of Abraham, to whom the Lord said (Gn. 17:1): "Walk before Me, and be perfect." Now the copy should not surpass the example. Therefore perpetual continence is not requisite for religious perfection.
+
 Objection 3: Further, that which is required for religious perfection is to be found in every religious order. Now there are some religious who lead a married life. Therefore religious perfection does not require perpetual continence.
+
 ## Answer
+
 On the contrary, The Apostle says (2 Cor. 7:1): "Let us cleanse ourselves from all defilement of the flesh and of the spirit, perfecting sanctification in the fear of God." Now cleanness of flesh and spirit is safeguarded by continence, for it is said (1 Cor. 7:34): "The unmarried woman and the virgin thinketh on the things of the Lord that she may be holy both in spirit and in body [Vulg.: 'both in body and in spirit']." Therefore religious perfection requires continence.
+
 I answer that, The religious state requires the removal of whatever hinders man from devoting himself entirely to God's service. Now the use of sexual union hinders the mind from giving itself wholly to the service of God, and this for two reasons. First, on account of its vehement delectation, which by frequent repetition increases concupiscence, as also the Philosopher observes (Ethic. iii, 12): and hence it is that the use of venery withdraws the mind from that perfect intentness on tending to God. Augustine expresses this when he says (Solil. i, 10): "I consider that nothing so casts down the manly mind from its height as the fondling of women, and those bodily contacts which belong to the married state." Secondly, because it involves man in solicitude for the control of his wife, his children, and his temporalities which serve for their upkeep. Hence the Apostle says (1 Cor. 7:32,33): "He that is without a wife is solicitous for the things that belong to the Lord, how he may please God: but he that is with a wife is solicitous for the things of the world, how he may please his wife."
 
 Therefore perpetual continence, as well as voluntary poverty, is requisite for religious perfection. Wherefore just as Vigilantius was condemned for equaling riches to poverty, so was Jovinian condemned for equaling marriage to virginity.
+
 ## Replies
+
 Reply to Objection 1: The perfection not only of poverty but also of continence was introduced by Christ Who said (Mat. 19:12): "There are eunuchs who have made themselves eunuchs, for the kingdom of heaven," and then added: "He that can take, let him take it." And lest anyone should be deprived of the hope of attaining perfection, he admitted to the state of perfection those even who were married. Now the husbands could not without committing an injustice forsake their wives, whereas men could without injustice renounce riches. Wherefore Peter whom He found married, He severed not from his wife, while "He withheld from marriage John who wished to marry" [*Prolog. in Joan. among the supposititious works of St. Jerome].
+
 Reply to Objection 2: As Augustine says (De Bono Conjug. xxii), "the chastity of celibacy is better than the chastity of marriage, one of which Abraham had in use, both of them in habit. For he lived chastely, and he might have been chaste without marrying, but it was not requisite then." Nevertheless if the patriarchs of old had perfection of mind together with wealth and marriage, which is a mark of the greatness of their virtue, this is no reason why any weaker person should presume to have such great virtue that he can attain to perfection though rich and married; as neither does a man unarmed presume to attack his enemy, because Samson slew many foes with the jaw-bone of an ass. For those fathers, had it been seasonable to observe continence and poverty, would have been most careful to observe them.
+
 Reply to Objection 3: Such ways of living as admit of the use of marriage are not the religious life simply and absolutely speaking, but in a restricted sense, in so far as they have a certain share in those things that belong to the religious state.

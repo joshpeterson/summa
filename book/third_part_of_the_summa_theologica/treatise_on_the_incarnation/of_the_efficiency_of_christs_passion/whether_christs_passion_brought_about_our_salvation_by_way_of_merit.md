@@ -1,12 +1,23 @@
 # Whether Christ's Passion Brought About Our Salvation By Way Of Merit?
+
 ## Objections
+
 Objection 1: It would seem that Christ's Passion did not bring about our salvation by way of merit. For the sources of our sufferings are not within us. But no one merits or is praised except for that whose principle lies within him. Therefore Christ's Passion wrought nothing by way of merit.
+
 Objection 2: Further, from the beginning of His conception Christ merited for Himself and for us, as stated above ([4249]Q[9], A[4];[4250] Q[34], A[3]). But it is superfluous to merit over again what has been merited before. Therefore by His Passion Christ did not merit our salvation.
+
 Objection 3: Further, the source of merit is charity. But Christ's charity was not made greater by the Passion than it was before. Therefore He did not merit our salvation by suffering more than He had already.
+
 ## Answer
+
 On the contrary, on the words of Phil. 2:9, "Therefore God exalted Him," etc., Augustine says (Tract. civ in Joan.): "The lowliness" of the Passion "merited glory; glory was the reward of lowliness." But He was glorified, not merely in Himself, but likewise in His faithful ones, as He says Himself (Jn. 17:10). Therefore it appears that He merited the salvation of the faithful.
+
 I answer that, As stated above ([4251]Q[7], AA[1],9;[4252] Q[8], AA[1],5), grace was bestowed upon Christ, not only as an individual, but inasmuch as He is the Head of the Church, so that it might overflow into His members; and therefore Christ's works are referred to Himself and to His members in the same way as the works of any other man in a state of grace are referred to himself. But it is evident that whosoever suffers for justice's sake, provided that he be in a state of grace, merits his salvation thereby, according to Mat. 5:10: "Blessed are they that suffer persecution for justice's sake." Consequently Christ by His Passion merited salvation, not only for Himself, but likewise for all His members.
+
 ## Replies
+
 Reply to Objection 1: Suffering, as such, is caused by an outward principle: but inasmuch as one bears it willingly, it has an inward principle.
+
 Reply to Objection 2: From the beginning of His conception Christ merited our eternal salvation; but on our side there were some obstacles, whereby we were hindered from securing the effect of His preceding merits: consequently, in order to remove such hindrances, "it was necessary for Christ to suffer," as stated above ([4253]Q[46], A[3]).
+
 Reply to Objection 3: Christ's Passion has a special effect, which His preceding merits did not possess, not on account of greater charity, but because of the nature of the work, which was suitable for such an effect, as is clear from the arguments brought forward above all the fittingness of Christ's Passion (Q[46], AA, 3,4).

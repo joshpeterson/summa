@@ -1,12 +1,23 @@
 # Whether The Grace Of Christ, As Head Of The Church, Is The Same As His Habitual Grace, Inasmuch As He Is Man?
+
 ## Objections
+
 Objection 1: It would seem that the grace whereby Christ is Head of the Church and the individual grace of the Man are not the same. For the Apostle says (Rom. 5:15): "If by the offense of one many died, much more the grace of God and the gift, by the grace of one man, Jesus Christ, hath abounded unto many." But the actual sin of Adam is distinct from original sin which he transmitted to his posterity. Hence the personal grace which is proper to Christ is distinct from His grace, inasmuch as He is the Head of the Church, which flows to others from Him.
+
 Objection 2: Further, habits are distinguished by acts. But the personal grace of Christ is ordained to one act, viz. the sanctification of His soul; and the capital grace is ordained to another, viz. to sanctifying others. Therefore the personal grace of Christ is distinct from His grace as He is the Head of the Church.
+
 Objection 3: Further, as was said above ([3958]Q[6], A[6]), in Christ we distinguish a threefold grace, viz. the grace of union, capital grace, and the individual grace of the Man. Now the individual grace of Christ is distinct from the grace of union. Therefore it is also distinct from the capital grace.
+
 ## Answer
+
 On the contrary, It is written (Jn. 1:16): "Of His fulness we all have received." Now He is our Head, inasmuch as we receive from Him. Therefore He is our Head, inasmuch as He has the fulness of grace. Now He had the fulness of grace, inasmuch as personal grace was in Him in its perfection, as was said above ([3959]Q[7], A[9]). Hence His capital and personal grace are not distinct.
+
 I answer that, Since everything acts inasmuch as it is a being in act, it must be the same act whereby it is in act and whereby it acts, as it is the same heat whereby fire is hot and whereby it heats. Yet not every act whereby anything is in act suffices for its being the principle of acting upon others. For since the agent is nobler than the patient, as Augustine says (Gen. ad lit. xii, 16) and the Philosopher (De Anima iii, 19), the agent must act on others by reason of a certain pre-eminence. Now it was said above [3960](A[1]; Q[7], A[9]) grace was received by the soul of Christ in the highest way; and therefore from this pre-eminence of grace which He received, it is from Him that this grace is bestowed on others---and this belongs to the nature of head. Hence the personal grace, whereby the soul of Christ is justified, is essentially the same as His grace, as He is the Head of the Church, and justifies others; but there is a distinction of reason between them.
+
 ## Replies
+
 Reply to Objection 1: Original sin in Adam, which is a sin of the nature, is derived from his actual sin, which is a personal sin, because in him the person corrupted the nature; and by means of this corruption the sin of the first man is transmitted to posterity, inasmuch as the corrupt nature corrupts the person. Now grace is not vouchsafed us by means of human nature, but solely by the personal action of Christ Himself. Hence we must not distinguish a twofold grace in Christ, one corresponding to the nature, the other to the person as in Adam we distinguish the sin of the nature and of the person.
+
 Reply to Objection 2: Different acts, one of which is the reason and the cause of the other, do not diversify a habit. Now the act of the personal grace which is formally to sanctify its subject, is the reason of the justification of others, which pertains to capital grace. Hence it is that the essence of the habit is not diversified by this difference.
+
 Reply to Objection 3: Personal and capital grace are ordained to an act; but the grace of union is not ordained to an act, but to the personal being. Hence the personal and the capital grace agree in the essence of the habit; but the grace of union does not, although the personal grace can be called in a manner the grace of union, inasmuch as it brings about a fitness for the union; and thus the grace of union, the capital, and the personal grace are one in essence, though there is a distinction of reason between them.

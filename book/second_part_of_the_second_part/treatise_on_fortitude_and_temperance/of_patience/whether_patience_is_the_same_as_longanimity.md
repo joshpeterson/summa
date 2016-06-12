@@ -1,10 +1,18 @@
 # Whether Patience Is The Same As Longanimity?
+
 ## Objections
+
 Objection 1: It seems that patience is the same as longanimity. For Augustine says (De Patientia i) that "we speak of patience in God, not as though any evil made Him suffer, but because He awaits the wicked, that they may be converted." Wherefore it is written (Ecclus. 5:4): "The Most High is a patient rewarder." Therefore it seems that patience is the same as longanimity.
+
 Objection 2: Further, the same thing is not contrary to two things. But impatience is contrary to longanimity, whereby one awaits a delay: for one is said to be impatient of delay, as of other evils. Therefore it seems that patience is the same as longanimity.
+
 Objection 3: Further, just as time is a circumstance of wrongs endured, so is place. But no virtue is distinct from patience on the score of place. Therefore in like manner longanimity which takes count of time, in so far as a person waits for a long time, is not distinct from patience.
+
 Objection 4: On the contrary, a gloss [*Origen, Comment. in Ep. ad Rom. ii] on Rom. 2:4, "Or despisest thou the riches of His goodness, and patience, and longsuffering?" says: "It seems that longanimity differs from patience, because those who offend from weakness rather than of set purpose are said to be borne with longanimity: while those who take a deliberate delight in their crimes are said to be borne patiently."
+
 ## Answer
+
+
 
 I answer that, Just as by magnanimity a man has a mind to tend to great things, so by longanimity a man has a mind to tend to something a long way off. Wherefore as magnanimity regards hope, which tends to good, rather than daring, fear, or sorrow, which have evil as their object, so also does longanimity. Hence longanimity has more in common with magnanimity than with patience.
 
@@ -13,5 +21,7 @@ Nevertheless it may have something in common with patience, for two reasons. Fir
 For this reason Tully (De Invent. Rhet. ii) in defining patience, says that "patience is the voluntary and prolonged endurance of arduous and difficult things for the sake of virtue or profit." By saying "arduous" he refers to constancy in good; when he says "difficult" he refers to the grievousness of evil, which is the proper object of patience; and by adding "continued" or "long lasting," he refers to longanimity, in so far as it has something in common with patience.
 
 This suffices for the Replies to the First and Second Objections.
+
 ## Replies
+
 Reply to Objection 3: That which is a long way off as to place, though distant from us, is not simply distant from things in nature, as that which is a long way off in point of time: hence the comparison fails. Moreover, what is remote as to place offers no difficulty save in the point of time, since what is placed a long way from us is a long time coming to us.

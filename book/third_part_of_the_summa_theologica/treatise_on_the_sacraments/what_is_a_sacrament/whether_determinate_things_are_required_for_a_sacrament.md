@@ -1,12 +1,23 @@
 # Whether Determinate Things Are Required For A Sacrament?
+
 ## Objections
+
 Objection 1: It seems that determinate things are not required for a sacrament. For sensible things are required in sacraments for the purpose of signification, as stated above [4343](A[4]). But nothing hinders the same thing being signified by divers sensible things: thus in Holy Scripture God is signified metaphorically, sometimes by a stone (2 Kings 22:2; Zech. 3:9; 1 Cor. 10:4; Apoc. 4:3); sometimes by a lion (Is. 31:4; Apoc. 5:5); sometimes by the sun (Is. 60:19,20; Mal. 4:2), or by something similar. Therefore it seems that divers things can be suitable to the same sacrament. Therefore determinate things are not required for the sacraments.
+
 Objection 2: Further, the health of the soul is more necessary than that of the body. But in bodily medicines, which are ordained to the health of the body, one thing can be substituted for another which happens to be wanting. Therefore much more in the sacraments, which are spiritual remedies ordained to the health of the soul, can one thing be substituted for another when this happens to be lacking.
+
 Objection 3: Further, it is not fitting that the salvation of men be restricted by the Divine Law: still less by the Law of Christ, Who came to save all. But in the state of the Law of nature determinate things were not required in the sacraments, but were put to that use through a vow, as appears from Gn. 28, where Jacob vowed that he would offer to God tithes and peace-offerings. Therefore it seems that man should not have been restricted, especially under the New Law, to the use of any determinate thing in the sacraments.
+
 ## Answer
+
 On the contrary, our Lord said (Jn. 3:5): "Unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God."
+
 I answer that, In the use of the sacraments two things may be considered, namely, the worship of God, and the sanctification of man: the former of which pertains to man as referred to God, and the latter pertains to God in reference to man. Now it is not for anyone to determine that which is in the power of another, but only that which is in his own power. Since, therefore, the sanctification of man is in the power of God Who sanctifies, it is not for man to decide what things should be used for his sanctification, but this should be determined by Divine institution. Therefore in the sacraments of the New Law, by which man is sanctified according to 1 Cor. 6:11, "You are washed, you are sanctified," we must use those things which are determined by Divine institution.
+
 ## Replies
+
 Reply to Objection 1: Though the same thing can be signified by divers signs, yet to determine which sign must be used belongs to the signifier. Now it is God Who signifies spiritual things to us by means of the sensible things in the sacraments, and of similitudes in the Scriptures. And consequently, just as the Holy Ghost decides by what similitudes spiritual things are to be signified in certain passages of Scripture, so also must it be determined by Divine institution what things are to be employed for the purpose of signification in this or that sacrament.
+
 Reply to Objection 2: Sensible things are endowed with natural powers conducive to the health of the body: and therefore if two of them have the same virtue, it matters not which we use. Yet they are ordained unto sanctification not through any power that they possess naturally, but only in virtue of the Divine institution. And therefore it was necessary that God should determine the sensible things to be employed in the sacraments.
+
 Reply to Objection 3: As Augustine says (Contra Faust. xix), diverse sacraments suit different times; just as different times are signified by different parts of the verb, viz. present, past, and future. Consequently, just as under the state of the Law of nature man was moved by inward instinct and without any outward law, to worship God, so also the sensible things to be employed in the worship of God were determined by inward instinct. But later on it became necessary for a law to be given (to man) from without: both because the Law of nature had become obscured by man's sins; and in order to signify more expressly the grace of Christ, by which the human race is sanctified. And hence the need for those things to be determinate, of which men have to make use in the sacraments. Nor is the way of salvation narrowed thereby: because the things which need to be used in the sacraments, are either in everyone's possession or can be had with little trouble.

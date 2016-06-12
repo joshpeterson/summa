@@ -1,12 +1,23 @@
 # Whether The Angels Were Created In Grace?
+
 ## Objections
+
 Objection 1: It would seem that the angels were not created in grace. For Augustine says (Gen. ad lit. ii, 8) that the angelic nature was first made without form, and was called "heaven": but afterwards it received its form, and was then called "light." But such formation comes from grace. Therefore they were not created in grace.
+
 Objection 2: Further, grace turns the rational creature towards God. If, therefore, the angel had been created in grace, no angel would ever have turned away from God.
+
 Objection 3: Further, grace comes midway between nature and glory. But the angels were not beatified in their creation. Therefore it seems that they were not created in grace; but that they were first created in nature only, and then received grace, and that last of all they were beatified.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei xii, 9), "Who wrought the good will of the angels? Who, save Him Who created them with His will, that is, with the pure love wherewith they cling to Him; at the same time building up their nature and bestowing grace on them?"
+
 I answer that, Although there are conflicting opinions on this point, some holding that the angels were created only in a natural state, while others maintain that they were created in grace; yet it seems more probable, and more in keeping with the sayings of holy men, that they were created in sanctifying grace. For we see that all things which, in the process of time, being created by the work of Divine Providence, were produced by the operation of God, were created in the first fashioning of things according to seedlike forms, as Augustine says (Gen. ad lit. viii, 3), such as trees, animals, and the rest. Now it is evident that sanctifying grace bears the same relation to beatitude as the seedlike form in nature does to the natural effect; hence (1 Jn. 3:9) grace is called the "seed" of God. As, then, in Augustine's opinion it is contended that the seedlike forms of all natural effects were implanted in the creature when corporeally created, so straightway from the beginning the angels were created in grace.
+
 ## Replies
+
 Reply to Objection 1: Such absence of form in the angels can be understood either by comparison with their formation in glory; and so the absence of formation preceded formation by priority of time. Or else it can be understood of the formation according to grace: and so it did not precede in the order of time, but in the order of nature; as Augustine holds with regard to the formation of corporeal things (Gen. ad lit. i, 15).
+
 Reply to Objection 2: Every form inclines the subject after the mode of the subject's nature. Now it is the mode of an intellectual nature to be inclined freely towards the objects it desires. Consequently the movement of grace does not impose necessity; but he who has grace can fail to make use of it, and can sin.
+
 Reply to Objection 3: Although in the order of nature grace comes midway between nature and glory, nevertheless, in the order of time, in created nature, glory is not simultaneous with nature; because glory is the end of the operation of nature helped by grace. But grace stands not as the end of operation, because it is not of works, but as the principle of right operation. Therefore it was fitting for grace to be given straightway with nature.

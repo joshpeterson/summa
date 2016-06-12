@@ -1,14 +1,25 @@
 # Whether Every Act Of An Unbeliever Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that each act of an unbeliever is a sin. Because a gloss on Rom. 14:23, "All that is not of faith is sin," says: "The whole life of unbelievers is a sin." Now the life of unbelievers consists of their actions. Therefore every action of an unbeliever is a sin.
+
 Objection 2: Further, faith directs the intention. Now there can be no good save what comes from a right intention. Therefore, among unbelievers, no action can be good.
+
 Objection 3: Further, when that which precedes is corrupted, that which follows is corrupted also. Now an act of faith precedes the acts of all the virtues. Therefore, since there is no act of faith in unbelievers, they can do no good work, but sin in every action of theirs.
+
 ## Answer
+
 On the contrary, It is said of Cornelius, while yet an unbeliever (Acts 10:4, 31), that his alms were acceptable to God. Therefore not every action of an unbeliever is a sin, but some of his actions are good.
+
 I answer that, As stated above ([2391]FS, Q[85], AA[2],4) mortal sin takes away sanctifying grace, but does not wholly corrupt the good of nature. Since therefore, unbelief is a mortal sin, unbelievers are without grace indeed, yet some good of nature remains in them. Consequently it is evident that unbelievers cannot do those good works which proceed from grace, viz. meritorious works; yet they can, to a certain extent, do those good works for which the good of nature suffices.
 
 Hence it does not follow that they sin in everything they do; but whenever they do anything out of their unbelief, then they sin. For even as one who has the faith, can commit an actual sin, venial or even mortal, which he does not refer to the end of faith, so too, an unbeliever can do a good deed in a matter which he does not refer to the end of his unbelief.
+
 ## Replies
+
 Reply to Objection 1: The words quoted must be taken to mean either that the life of unbelievers cannot be sinless, since without faith no sin is taken away, or that whatever they do out of unbelief, is a sin. Hence the same authority adds: "Because every one that lives or acts according to his unbelief, sins grievously."
+
 Reply to Objection 2: Faith directs the intention with regard to the supernatural last end: but even the light of natural reason can direct the intention in respect of a connatural good.
+
 Reply to Objection 3: Unbelief does not so wholly destroy natural reason in unbelievers, but that some knowledge of the truth remains in them, whereby they are able to do deeds that are generically good. With regard, however, to Cornelius, it is to be observed that he was not an unbeliever, else his works would not have been acceptable to God, whom none can please without faith. Now he had implicit faith, as the truth of the Gospel was not yet made manifest: hence Peter was sent to him to give him fuller instruction in the faith.

@@ -1,12 +1,23 @@
 # Whether Christ's Resurrection Ought To Have Been Manifested To All?
+
 ## Objections
+
 Objection 1: It would seem that Christ's Resurrection ought to have been manifested to all. For just as a public penalty is due for public sin, according to 1 Tim. 5:20: "Them that sin reprove before all," so is a public reward due for public merit. But, as Augustine says (Tract. civ in Joan.), "the glory of the Resurrection is the reward of the humility of the Passion." Therefore, since Christ's Passion was manifested to all while He suffered in public, it seems that the glory of the Resurrection ought to have been manifested to all.
+
 Objection 2: Further, as Christ's Passion is ordained for our salvation, so also is His Resurrection, according to Rom. 4:25: "He rose again for our justification." But what belongs to the public weal ought to be manifested to all. Therefore Christ's Resurrection ought to have been manifested to all, and not to some specially.
+
 Objection 3: Further, they to whom it was manifested were witnesses of the Resurrection: hence it is said (Acts 3:15): "Whom God hath raised from the dead, of which we are witnesses." Now they bore witness by preaching in public: and this is unbecoming in women, according to 1 Cor. 14:34: "Let women keep silence in the churches": and 1 Tim. 2:12: "I suffer not a woman to teach." Therefore, it does not seem becoming for Christ's Resurrection to be manifested first of all to the women and afterwards to mankind in general.
+
 ## Answer
+
 On the contrary, It is written (Acts 10:40): "Him God raised up the third day, and gave Him to be made manifest, not to all the people, but to witnesses preordained by God."
+
 I answer that, Some things come to our knowledge by nature's common law, others by special favor of grace, as things divinely revealed. Now, as Dionysius says (Coel. Hier. iv), the divinely established law of such things is that they be revealed immediately by God to higher persons, through whom they are imparted to others, as is evident in the ordering of the heavenly spirits. But such things as concern future glory are beyond the common ken of mankind, according to Is. 64:4: "The eye hath not seen, O God, besides Thee, what things Thou hast prepared for them that wait for Thee." Consequently, such things are not known by man except through Divine revelation, as the Apostle says (1 Cor. 2:10): "God hath revealed them to us by His spirit." Since, then, Christ rose by a glorious Resurrection, consequently His Resurrection was not manifested to everyone, but to some, by whose testimony it could be brought to the knowledge of others.
+
 ## Replies
+
 Reply to Objection 1: Christ's Passion was consummated in a body that still had a passible nature, which is known to all by general laws: consequently His Passion could be directly manifested to all. But the Resurrection was accomplished "through the glory of the Father," as the Apostle says (Rom. 6:4). Therefore it was manifested directly to some, but not to all.
+
 Reply to Objection 2: Just as Christ's Resurrection is for the common salvation of all, so it came to the knowledge of all; yet not so that it was directly manifested to all, but only to some, through whose testimony it could be brought to the knowledge of all.
+
 Reply to Objection 3: A woman is not to be allowed to teach publicly in church; but she may be permitted to give familiar instruction to some privately. And therefore as Ambrose says on Lk. 24:22, "a woman is sent to them who are of her household," but not to the people to bear witness to the Resurrection. But Christ appeared to the woman first, for this reason, that as a woman was the first to bring the source of death to man, so she might be the first to announce the dawn of Christ's glorious Resurrection. Hence Cyril says on Jn. 20:17: "Woman who formerly was the minister of death, is the first to see and proclaim the adorable mystery of the Resurrection: thus womankind has procured absolution from ignominy, and removal of the curse." Hereby, moreover, it is shown, so far as the state of glory is concerned, that the female sex shall suffer no hurt; but if women burn with greater charity, they shall also attain greater glory from the Divine vision: because the women whose love for our Lord was more persistent---so much so that "when even the disciples withdrew" from the sepulchre "they did not depart" [*Gregory, Hom. xxv in Evang.]---were the first to see Him rising in glory.

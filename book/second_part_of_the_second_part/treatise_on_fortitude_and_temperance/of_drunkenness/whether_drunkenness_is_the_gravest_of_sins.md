@@ -1,12 +1,23 @@
 # Whether Drunkenness Is The Gravest Of Sins?
+
 ## Objections
+
 Objection 1: It would seem that drunkenness is the gravest of sins. For Chrysostom says (Hom. lviii in Matth.) that "nothing gains the devil's favor so much as drunkenness and lust, the mother of all the vices." And it is written in the Decretals (Dist. xxxv, can. Ante omnia): "Drunkenness, more than anything else, is to be avoided by the clergy, for it foments and fosters all the vices."
+
 Objection 2: Further, from the very fact that a thing excludes the good of reason, it is a sin. Now this is especially the effect of drunkenness. Therefore drunkenness is the greatest of sins.
+
 Objection 3: Further, the gravity of a sin is shown by the gravity of its punishment. Now seemingly drunkenness is punished most severely; for Ambrose says [*De Elia et de Jejunio v] that "there would be no slavery, were there no drunkards." Therefore drunkenness is the greatest of sins.
+
 ## Answer
+
 On the contrary, According to Gregory (Moral. xxxiii, 12), spiritual vices are greater than carnal vices. Now drunkenness is one of the carnal vices. Therefore it is not the greatest of sins.
+
 I answer that, A thing is said to be evil because it removes a good. Wherefore the greater the good removed by an evil, the graver the evil. Now it is evident that a Divine good is greater than a human good. Wherefore the sins that are directly against God are graver than the sin of drunkenness, which is directly opposed to the good of human reason.
+
 ## Replies
+
 Reply to Objection 1: Man is most prone to sins of intemperance, because such like concupiscences and pleasures are connatural to us, and for this reason these sins are said to find greatest favor with the devil, not for being graver than other sins, but because they occur more frequently among men.
+
 Reply to Objection 2: The good of reason is hindered in two ways: in one way by that which is contrary to reason, in another by that which takes away the use of reason. Now that which is contrary to reason has more the character of an evil, than that which takes away the use of reason for a time, since the use of reason, which is taken away by drunkenness, may be either good or evil, whereas the goods of virtue, which are taken away by things that are contrary to reason, are always good.
+
 Reply to Objection 3: Drunkenness was the occasional cause of slavery, in so far as Cham brought the curse of slavery on to his descendants, for having laughed at his father when the latter was made drunk. But slavery was not the direct punishment of drunkenness.

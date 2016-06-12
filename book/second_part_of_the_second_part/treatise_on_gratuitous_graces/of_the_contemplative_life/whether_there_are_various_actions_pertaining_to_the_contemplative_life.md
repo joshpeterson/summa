@@ -1,14 +1,27 @@
 # Whether There Are Various Actions Pertaining To The Contemplative Life?
+
 ## Objections
+
 Objection 1: It would seem that there are various actions pertaining to the contemplative life. For Richard of St. Victor [*De Grat. Contempl. i, 3,4] distinguishes between "contemplation," "meditation," and "cogitation." Yet all these apparently pertain to contemplation. Therefore it would seem that there are various actions pertaining to the contemplative life.
+
 Objection 2: Further, the Apostle says (2 Cor. 3:18): "But we . . . beholding [speculantes] the glory of the Lord with open face, are transformed into the same clarity [*Vulg.: 'into the same image from glory to glory.']." Now this belongs to the contemplative life. Therefore in addition to the three aforesaid, vision [speculatio] belongs to the contemplative life.
+
 Objection 3: Further, Bernard says (De Consid. v, 14) that "the first and greatest contemplation is admiration of the Majesty." Now according to Damascene (De Fide Orth. ii, 15) admiration is a kind of fear. Therefore it would seem that several acts are requisite for the contemplative life.
+
 Objection 4: Further, "Prayer," "reading," and "meditation" [*Hugh of St. Victor, Alleg. in N.T. iii, 4] are said to belong to the contemplative life. Again, "hearing" belongs to the contemplative life: since it is stated that Mary (by whom the contemplative life is signified) "sitting . . . at the Lord's feet, heard His word" (Lk. 10:39). Therefore it would seem that several acts are requisite for the contemplative life.
+
 ## Answer
+
 On the contrary, Life signifies here the operation on which a man is chiefly intent. Wherefore if there are several operations of the contemplative life, there will be, not one, but several contemplative lives.
+
 I answer that, We are now speaking of the contemplative life as applicable to man. Now according to Dionysius (Div. Nom. vii) between man and angel there is this difference, that an angel perceives the truth by simple apprehension, whereas man arrives at the perception of a simple truth by a process from several premises. Accordingly, then, the contemplative life has one act wherein it is finally completed, namely the contemplation of truth, and from this act it derives its unity. Yet it has many acts whereby it arrives at this final act. Some of these pertain to the reception of principles, from which it proceeds to the contemplation of truth; others are concerned with deducing from the principles, the truth, the knowledge of which is sought; and the last and crowning act is the contemplation itself of the truth.
+
 ## Replies
+
 Reply to Objection 1: According to Richard of St. Victor "cogitation" would seem to regard the consideration of the many things from which a person intends to gather one simple truth. Hence cogitation may comprise not only the perceptions of the senses in taking cognizance of certain effects, but also the imaginations. and again the reason's discussion of the various signs or of anything that conduces to the truth in view: although, according to Augustine (De Trin. xiv, 7), cogitation may signify any actual operation of the intellect. "Meditation" would seem to be the process of reason from certain principles that lead to the contemplation of some truth: and "consideration" has the same meaning, according to Bernard (De Consid. ii, 2), although, according to the Philosopher (De Anima ii, 1), every operation of the intellect may be called "consideration." But "contemplation" regards the simple act of gazing on the truth; wherefore Richard says again (De Grat. Contempl. i, 4) that "contemplation is the soul's clear and free dwelling upon the object of its gaze; meditation is the survey of the mind while occupied in searching for the truth: and cogitation is the mind's glance which is prone to wander."
+
 Reply to Objection 2: According to a gloss [*Cf. De Trin. xv, 8] of Augustine on this passage, "beholding" [speculatio] denotes "seeing in a mirror [speculo], not from a watch-tower [specula]." Now to see a thing in a mirror is to see a cause in its effect wherein its likeness is reflected. Hence "beholding" would seem to be reducible to meditation.
+
 Reply to Objection 3: Admiration is a kind of fear resulting from the apprehension of a thing that surpasses our faculties: hence it results from the contemplation of the sublime truth. For it was stated above [3723](A[1]) that contemplation terminates in the affections.
+
 Reply to Objection 4: Man reaches the knowledge of truth in two ways. First, by means of things received from another. In this way, as regards the things he receives from God, he needs "prayer," according to Wis. 7:7, "I called upon" God, "and the spirit of wisdom came upon me": while as regards the things he receives from man, he needs "hearing," in so far as he receives from the spoken word, and "reading," in so far as he receives from the tradition of Holy Writ. Secondly, he needs to apply himself by his personal study, and thus he requires "meditation."

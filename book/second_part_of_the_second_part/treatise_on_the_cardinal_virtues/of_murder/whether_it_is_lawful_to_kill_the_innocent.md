@@ -1,12 +1,23 @@
 # Whether It Is Lawful To Kill The Innocent?
+
 ## Objections
+
 Objection 1: It would seem that in some cases it is lawful to kill the innocent. The fear of God is never manifested by sin, since on the contrary "the fear of the Lord driveth out sin" (Ecclus. 1:27). Now Abraham was commended in that he feared the Lord, since he was willing to slay his innocent son. Therefore one may, without sin, kill an innocent person.
+
 Objection 2: Further, among those sins that are committed against one's neighbor, the more grievous seem to be those whereby a more grievous injury is inflicted on the person sinned against. Now to be killed is a greater injury to a sinful than to an innocent person, because the latter, by death, passes forthwith from the unhappiness of this life to the glory of heaven. Since then it is lawful in certain cases to kill a sinful man, much more is it lawful to slay an innocent or a righteous person.
+
 Objection 3: Further, what is done in keeping with the order of justice is not a sin. But sometimes a man is forced, according to the order of justice, to slay an innocent person: for instance, when a judge, who is bound to judge according to the evidence, condemns to death a man whom he knows to be innocent but who is convicted by false witnesses; and again the executioner, who in obedience to the judge puts to death the man who has been unjustly sentenced.
+
 ## Answer
+
 On the contrary, It is written (Ex. 23:7): "The innocent and just person thou shalt not put to death."
+
 I answer that, An individual man may be considered in two ways: first, in himself; secondly, in relation to something else. If we consider a man in himself, it is unlawful to kill any man, since in every man though he be sinful, we ought to love the nature which God has made, and which is destroyed by slaying him. Nevertheless, as stated above [2904](A[2]) the slaying of a sinner becomes lawful in relation to the common good, which is corrupted by sin. On the other hand the life of righteous men preserves and forwards the common good, since they are the chief part of the community. Therefore it is in no way lawful to slay the innocent.
+
 ## Replies
+
 Reply to Objection 1: God is Lord of death and life, for by His decree both the sinful and the righteous die. Hence he who at God's command kills an innocent man does not sin, as neither does God Whose behest he executes: indeed his obedience to God's commands is a proof that he fears Him.
+
 Reply to Objection 2: In weighing the gravity of a sin we must consider the essential rather than the accidental. Wherefore he who kills a just man, sins more grievously than he who slays a sinful man: first, because he injures one whom he should love more, and so acts more in opposition to charity: secondly, because he inflicts an injury on a man who is less deserving of one, and so acts more in opposition to justice: thirdly, because he deprives the community of a greater good: fourthly, because he despises God more, according to Lk. 10:16, "He that despiseth you despiseth Me." On the other hand it is accidental to the slaying that the just man whose life is taken be received by God into glory.
+
 Reply to Objection 3: If the judge knows that man who has been convicted by false witnesses, is innocent he must, like Daniel, examine the witnesses with great care, so as to find a motive for acquitting the innocent: but if he cannot do this he should remit him for judgment by a higher tribunal. If even this is impossible, he does not sin if he pronounce sentence in accordance with the evidence, for it is not he that puts the innocent man to death, but they who stated him to be guilty. He that carries out the sentence of the judge who has condemned an innocent man, if the sentence contains an inexcusable error, he should not obey, else there would be an excuse for the executions of the martyrs: if however it contain no manifest injustice, he does not has no right to discuss the judgment of his superior; nor is it he who slays the innocent man, but the judge whose minister he is.

@@ -1,14 +1,25 @@
 # Whether Christ's Body Is In This Sacrament As In A Place?
+
 ## Objections
+
 Objection 1: It seems that Christ's body is in this sacrament as in a place. Because, to be in a place definitively or circumscriptively belongs to being in a place. But Christ's body seems to be definitively in this sacrament, because it is so present where the species of the bread and wine are, that it is nowhere else upon the altar: likewise it seems to be there circumscriptively, because it is so contained under the species of the consecrated host, that it neither exceeds it nor is exceeded by it. Therefore Christ's body is in this sacrament as in a place.
+
 Objection 2: Further, the place of the bread and wine is not empty, because nature abhors a vacuum; nor is the substance of the bread there, as stated above ([4556]Q[75], A[2]); but only the body of Christ is there. Consequently the body of Christ fills that place. But whatever fills a place is there locally. Therefore the body of Christ is in this sacrament locally.
+
 Objection 3: Further, as stated above [4557](A[4]), the body of Christ is in this sacrament with its dimensive quantity, and with all its accidents. But to be in a place is an accident of a body; hence "where" is numbered among the nine kinds of accidents. Therefore Christ's body is in this sacrament locally.
+
 ## Answer
+
 On the contrary, The place and the object placed must be equal, as is clear from the Philosopher (Phys. iv). But the place, where this sacrament is, is much less than the body of Christ. Therefore Christ's body is not in this sacrament as in a place.
+
 I answer that, As stated above (A[1], ad 3; A[3]), Christ's body is in this sacrament not after the proper manner of dimensive quantity, but rather after the manner of substance. But every body occupying a place is in the place according to the manner of dimensive quantity, namely, inasmuch as it is commensurate with the place according to its dimensive quantity. Hence it remains that Christ's body is not in this sacrament as in a place, but after the manner of substance, that is to say, in that way in which substance is contained by dimensions; because the substance of Christ's body succeeds the substance of bread in this sacrament: hence as the substance of bread was not locally under its dimensions, but after the manner of substance, so neither is the substance of Christ's body. Nevertheless the substance of Christ's body is not the subject of those dimensions, as was the substance of the bread: and therefore the substance of the bread was there locally by reason of its dimensions, because it was compared with that place through the medium of its own dimensions; but the substance of Christ's body is compared with that place through the medium of foreign dimensions, so that, on the contrary, the proper dimensions of Christ's body are compared with that place through the medium of substance; which is contrary to the notion of a located body.
 
 Hence in no way is Christ's body locally in this sacrament.
+
 ## Replies
+
 Reply to Objection 1: Christ's body is not in this sacrament definitively, because then it would be only on the particular altar where this sacrament is performed: whereas it is in heaven under its own species, and on many other altars under the sacramental species. Likewise it is evident that it is not in this sacrament circumscriptively, because it is not there according to the commensuration of its own quantity, as stated above. But that it is not outside the superficies of the sacrament, nor on any other part of the altar, is due not to its being there definitively or circumscriptively, but to its being there by consecration and conversion of the bread and wine, as stated above [4558](A[1]; Q[15], A[2], sqq.).
+
 Reply to Objection 2: The place in which Christ's body is, is not empty; nor yet is it properly filled with the substance of Christ's body, which is not there locally, as stated above; but it is filled with the sacramental species, which have to fill the place either because of the nature of dimensions, or at least miraculously, as they also subsist miraculously after the fashion of substance.
+
 Reply to Objection 3: As stated above [4559](A[4]), the accidents of Christ's body are in this sacrament by real concomitance. And therefore those accidents of Christ's body which are intrinsic to it are in this sacrament. But to be in a place is an accident when compared with the extrinsic container. And therefore it is not necessary for Christ to be in this sacrament as in a place.

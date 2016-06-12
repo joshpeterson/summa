@@ -1,13 +1,23 @@
 # Whether Prudence Appoints The End To Moral Virtues?
+
 ## Objections
+
 Objection 1: It would seem that prudence appoints the end to moral virtues. Since prudence is in the reason, while moral virtue is in the appetite, it seems that prudence stands in relation to moral virtue, as reason to the appetite. Now reason appoints the end to the appetitive power. Therefore prudence appoints the end to the moral virtues.
+
 Objection 2: Further, man surpasses irrational beings by his reason, but he has other things in common with them. Accordingly the other parts of man are in relation to his reason, what man is in relation to irrational creatures. Now man is the end of irrational creatures, according to Polit. i, 3. Therefore all the other parts of man are directed to reason as to their end. But prudence is "right reason applied to action," as stated above [2738](A[2]). Therefore all actions are directed to prudence as their end. Therefore prudence appoints the end to all moral virtues.
+
 Objection 3: Further, it belongs to the virtue, art, or power that is concerned about the end, to command the virtues or arts that are concerned about the means. Now prudence disposes of the other moral virtues, and commands them. Therefore it appoints their end to them.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. vi, 12) that "moral virtue ensures the rectitude of the intention of the end, while prudence ensures the rectitude of the means." Therefore it does not belong to prudence to appoint the end to moral virtues, but only to regulate the means.
+
 I answer that, The end of moral virtues is human good. Now the good of the human soul is to be in accord with reason, as Dionysius declares (Div. Nom. iv). Wherefore the ends of moral virtue must of necessity pre-exist in the reason.
 
 Now, just as, in the speculative reason, there are certain things naturally known, about which is "understanding," and certain things of which we obtain knowledge through them, viz. conclusions, about which is "science," so in the practical reason, certain things pre-exist, as naturally known principles, and such are the ends of the moral virtues, since the end is in practical matters what principles are in speculative matters, as stated above (Q[23], A[7], ad 2; [2739]FS, Q[13], A[3]); while certain things are in the practical reason by way of conclusions, and such are the means which we gather from the ends themselves. About these is prudence, which applies universal principles to the particular conclusions of practical matters. Consequently it does not belong to prudence to appoint the end to moral virtues, but only to regulate the means.
+
 ## Replies
+
 Reply to Objection 1: Natural reason known by the name of "synderesis" appoints the end to moral virtues, as stated above ([2740]FP, Q[79], A[12]): but prudence does not do this for the reason given above.
+
 Reply to Objection 3: The end concerns the moral virtues, not as though they appointed the end, but because they tend to the end which is appointed by natural reason. In this they are helped by prudence, which prepares the way for them, by disposing the means. Hence it follows that prudence is more excellent than the moral virtues, and moves them: yet "synderesis" moves prudence, just as the understanding of principles moves science.

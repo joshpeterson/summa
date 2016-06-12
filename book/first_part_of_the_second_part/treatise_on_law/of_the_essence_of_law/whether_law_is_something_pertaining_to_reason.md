@@ -1,12 +1,23 @@
 # Whether Law Is Something Pertaining To Reason?
+
 ## Objections
+
 Objection 1: It would seem that law is not something pertaining to reason. For the Apostle says (Rom. 7:23): "I see another law in my members," etc. But nothing pertaining to reason is in the members; since the reason does not make use of a bodily organ. Therefore law is not something pertaining to reason.
+
 Objection 2: Further, in the reason there is nothing else but power, habit, and act. But law is not the power itself of reason. In like manner, neither is it a habit of reason: because the habits of reason are the intellectual virtues of which we have spoken above ([1950]Q[57]). Nor again is it an act of reason: because then law would cease, when the act of reason ceases, for instance, while we are asleep. Therefore law is nothing pertaining to reason.
+
 Objection 3: Further, the law moves those who are subject to it to act aright. But it belongs properly to the will to move to act, as is evident from what has been said above ([1951]Q[9], A[1]). Therefore law pertains, not to the reason, but to the will; according to the words of the Jurist (Lib. i, ff., De Const. Prin. leg. i): "Whatsoever pleaseth the sovereign, has force of law."
+
 ## Answer
+
 On the contrary, It belongs to the law to command and to forbid. But it belongs to reason to command, as stated above ([1952]Q[17], A[1]). Therefore law is something pertaining to reason.
+
 I answer that, Law is a rule and measure of acts, whereby man is induced to act or is restrained from acting: for "lex" [law] is derived from "ligare" [to bind], because it binds one to act. Now the rule and measure of human acts is the reason, which is the first principle of human acts, as is evident from what has been stated above ([1953]Q[1], A[1], ad 3); since it belongs to the reason to direct to the end, which is the first principle in all matters of action, according to the Philosopher (Phys. ii). Now that which is the principle in any genus, is the rule and measure of that genus: for instance, unity in the genus of numbers, and the first movement in the genus of movements. Consequently it follows that law is something pertaining to reason.
+
 ## Replies
+
 Reply to Objection 1: Since law is a kind of rule and measure, it may be in something in two ways. First, as in that which measures and rules: and since this is proper to reason, it follows that, in this way, law is in the reason alone. Secondly, as in that which is measured and ruled. In this way, law is in all those things that are inclined to something by reason of some law: so that any inclination arising from a law, may be called a law, not essentially but by participation as it were. And thus the inclination of the members to concupiscence is called "the law of the members."
+
 Reply to Objection 2: Just as, in external action, we may consider the work and the work done, for instance the work of building and the house built; so in the acts of reason, we may consider the act itself of reason, i.e. to understand and to reason, and something produced by this act. With regard to the speculative reason, this is first of all the definition; secondly, the proposition; thirdly, the syllogism or argument. And since also the practical reason makes use of a syllogism in respect of the work to be done, as stated above ([1954]Q[13], A[3];[1955] Q[76], A[1]) and since as the Philosopher teaches (Ethic. vii, 3); hence we find in the practical reason something that holds the same position in regard to operations, as, in the speculative intellect, the proposition holds in regard to conclusions. Such like universal propositions of the practical intellect that are directed to actions have the nature of law. And these propositions are sometimes under our actual consideration, while sometimes they are retained in the reason by means of a habit.
+
 Reply to Objection 3: Reason has its power of moving from the will, as stated above ([1956]Q[17], A[1]): for it is due to the fact that one wills the end, that the reason issues its commands as regards things ordained to the end. But in order that the volition of what is commanded may have the nature of law, it needs to be in accord with some rule of reason. And in this sense is to be understood the saying that the will of the sovereign has the force of law; otherwise the sovereign's will would savor of lawlessness rather than of law.

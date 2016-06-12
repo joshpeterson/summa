@@ -1,13 +1,23 @@
 # Whether The Act Of God's Intellect Is His Substance?
+
 ## Objections
+
 Objection 1: It seems that the act of God's intellect is not His substance. For to understand is an operation. But an operation signifies something proceeding from the operator. Therefore the act of God's intellect is not His substance.
+
 Objection 2: Further, to understand one's act of understanding, is to understand something that is neither great nor chiefly understood, and but secondary and accessory. If therefore God be his own act of understanding, His act of understanding will be as when we understand our act of understanding: and thus God's act of understanding will not be something great.
+
 Objection 3: Further, every act of understanding means understanding something. When therefore God understands Himself, if He Himself is not distinct from this act of understanding, He understands that He understands Himself; and so on to infinity. Therefore the act of God's intellect is not His substance.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. vii), "In God to be is the same as to be wise." But to be wise is the same thing as to understand. Therefore in God to be is the same thing as to understand. But God's existence is His substance, as shown above ([84]Q[3], A[4]). Therefore the act of God's intellect is His substance.
+
 I answer that, It must be said that the act of God's intellect is His substance. For if His act of understanding were other than His substance, then something else, as the Philosopher says (Metaph. xii), would be the act and perfection of the divine substance, to which the divine substance would be related, as potentiality is to act, which is altogether impossible; because the act of understanding is the perfection and act of the one understanding. Let us now consider how this is. As was laid down above [85](A[2]), to understand is not an act passing to anything extrinsic; for it remains in the operator as his own act and perfection; as existence is the perfection of the one existing: just as existence follows on the form, so in like manner to understand follows on the intelligible species. Now in God there is no form which is something other than His existence, as shown above [86](Q[3]). Hence as His essence itself is also His intelligible species, it necessarily follows that His act of understanding must be His essence and His existence.
 
 Thus it follows from all the foregoing that in God, intellect, and the object understood, and the intelligible species, and His act of understanding are entirely one and the same. Hence when God is said to be understanding, no kind of multiplicity is attached to His substance.
+
 ## Replies
+
 Reply to Objection 1: To understand is not an operation proceeding out of the operator, but remaining in him.
+
 Reply to Objection 2: When that act of understanding which is not subsistent is understood, something not great is understood; as when we understand our act of understanding; and so this cannot be likened to the act of the divine understanding which is subsistent.

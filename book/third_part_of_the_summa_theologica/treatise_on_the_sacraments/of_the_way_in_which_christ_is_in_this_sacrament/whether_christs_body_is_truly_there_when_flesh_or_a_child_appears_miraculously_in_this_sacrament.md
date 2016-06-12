@@ -1,10 +1,17 @@
 # Whether Christ's Body Is Truly There When Flesh Or A Child Appears Miraculously In This Sacrament?
+
 ## Objections
+
 Objection 1: It seems that Christ's body is not truly there when flesh or a child appears miraculously in this sacrament. Because His body ceases to be under this sacrament when the sacramental species cease to be present, as stated above [4562](A[6]). But when flesh or a child appears, the sacramental species cease to be present. Therefore Christ's body is not truly there.
+
 Objection 2: Further, wherever Christ's body is, it is there either under its own species, or under those of the sacrament. But when such apparitions occur, it is evident that Christ is not present under His own species, because the entire Christ is contained in this sacrament, and He remains entire under the form in which He ascended to heaven: yet what appears miraculously in this sacrament is sometimes seen as a small particle of flesh, or at times as a small child. Now it is evident that He is not there under the sacramental species, which is that of bread or wine. Consequently, it seems that Christ's body is not there in any way.
+
 Objection 3: Further, Christ's body begins to be in this sacrament by consecration and conversion, as was said above ([4563]Q[75], AA[2],3,4). But the flesh and blood which appear by miracle are not consecrated, nor are they converted into Christ's true body and blood. Therefore the body or the blood of Christ is not under those species.
+
 ## Answer
+
 On the contrary, When such apparition takes place, the same reverence is shown to it as was shown at first, which would not be done if Christ were not truly there, to Whom we show reverence of "latria." Therefore, when such apparition occurs, Christ is under the sacrament.
+
 I answer that, Such apparition comes about in two ways, when occasionally in this sacrament flesh, or blood, or a child, is seen. Sometimes it happens on the part of the beholders, whose eyes are so affected as if they outwardly saw flesh, or blood, or a child, while no change takes place in the sacrament. And this seems to happen when to one person it is seen under the species of flesh or of a child, while to others it is seen as before under the species of bread; or when to the same individual it appears for an hour under the appearance of flesh or a child, and afterwards under the appearance of bread. Nor is there any deception there, as occurs in the feats of magicians, because such species is divinely formed in the eye in order to represent some truth, namely, for the purpose of showing that Christ's body is truly under this sacrament; just as Christ without deception appeared to the disciples who were going to Emmaus. For Augustine says (De Qq. Evang. ii) that "when our pretense is referred to some significance, it is not a lie, but a figure of the truth." And since in this way no change is made in the sacrament, it is manifest that, when such apparition occurs, Christ does not cease to be under this sacrament.
 
 But it sometimes happens that such apparition comes about not merely by a change wrought in the beholders, but by an appearance which really exists outwardly. And this indeed is seen to happen when it is beheld by everyone under such an appearance, and it remains so not for an hour, but for a considerable time; and, in this case some think that it is the proper species of Christ's body. Nor does it matter that sometimes Christ's entire body is not seen there, but part of His flesh, or else that it is not seen in youthful guise. but in the semblance of a child, because it lies within the power of a glorified body for it to be seen by a non-glorified eye either entirely or in part, and under its own semblance or in strange guise, as will be said later ([4564]XP, Q[85], AA[2],3).
@@ -12,7 +19,11 @@ But it sometimes happens that such apparition comes about not merely by a change
 But this seems unlikely. First of all, because Christ's body under its proper species can be seen only in one place, wherein it is definitively contained. Hence since it is seen in its proper species, and is adored in heaven, it is not seen under its proper species in this sacrament. Secondly, because a glorified body, which appears at will, disappears when it wills after the apparition; thus it is related (Lk. 24:31) that our Lord "vanished out of sight" of the disciples. But that which appears under the likeness of flesh in this sacrament, continues for a long time; indeed, one reads of its being sometimes enclosed, and, by order of many bishops, preserved in a pyx, which it would be wicked to think of Christ under His proper semblance.
 
 Consequently, it remains to be said, that, while the dimensions remain the same as before, there is a miraculous change wrought in the other accidents, such as shape, color, and the rest, so that flesh, or blood, or a child, is seen. And, as was said already, this is not deception, because it is done "to represent the truth," namely, to show by this miraculous apparition that Christ's body and blood are truly in this sacrament. And thus it is clear that as the dimensions remain, which are the foundation of the other accidents, as we shall see later on ([4565]Q[77], A[2]), the body of Christ truly remains in this sacrament.
+
 ## Replies
+
 Reply to Objection 1: When such apparition takes place, the sacramental species sometimes continue entire in themselves; and sometimes only as to that which is principal, as was said above.
+
 Reply to Objection 2: As stated above, during such apparitions Christ's proper semblance is not seen, but a species miraculously formed either in the eyes of the beholders, or in the sacramental dimensions themselves, as was said above.
+
 Reply to Objection 3: The dimensions of the consecrated bread and wine continue, while a miraculous change is wrought in the other accidents, as stated above.

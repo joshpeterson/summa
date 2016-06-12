@@ -1,16 +1,27 @@
 # Whether An Infinite Multitude Can Exist?
+
 ## Objections
+
 Objection 1: It seems that an actually infinite multitude is possible. For it is not impossible for a potentiality to be made actual. But number can be multiplied to infinity. Therefore it is possible for an infinite multitude actually to exist.
+
 Objection 2: Further, it is possible for any individual of any species to be made actual. But the species of figures are infinite. Therefore an infinite number of actual figures is possible.
+
 Objection 3: Further, things not opposed to each other do not obstruct each other. But supposing a multitude of things to exist, there can still be many others not opposed to them. Therefore it is not impossible for others also to coexist with them, and so on to infinitude; therefore an actual infinite number of things is possible.
+
 ## Answer
+
 On the contrary, It is written, "Thou hast ordered all things in measure, and number, and weight" (Wis. 11:21).
+
 I answer that, A twofold opinion exists on this subject. Some, as Avicenna and Algazel, said that it was impossible for an actually infinite multitude to exist absolutely; but that an accidentally infinite multitude was not impossible. A multitude is said to be infinite absolutely, when an infinite multitude is necessary that something may exist. Now this is impossible; because it would entail something dependent on an infinity for its existence; and hence its generation could never come to be, because it is impossible to pass through an infinite medium.
 
 A multitude is said to be accidentally infinite when its existence as such is not necessary, but accidental. This can be shown, for example, in the work of a carpenter requiring a certain absolute multitude; namely, art in the soul, the movement of the hand, and a hammer; and supposing that such things were infinitely multiplied, the carpentering work would never be finished, forasmuch as it would depend on an infinite number of causes. But the multitude of hammers, inasmuch as one may be broken and another used, is an accidental multitude; for it happens by accident that many hammers are used, and it matters little whether one or two, or many are used, or an infinite number, if the work is carried on for an infinite time. In this way they said that there can be an accidentally infinite multitude.
 
 This, however, is impossible; since every kind of multitude must belong to a species of multitude. Now the species of multitude are to be reckoned by the species of numbers. But no species of number is infinite; for every number is multitude measured by one. Hence it is impossible for there to be an actually infinite multitude, either absolute or accidental. Likewise multitude in nature is created; and everything created is comprehended under some clear intention of the Creator; for no agent acts aimlessly. Hence everything created must be comprehended in a certain number. Therefore it is impossible for an actually infinite multitude to exist, even accidentally. But a potentially infinite multitude is possible; because the increase of multitude follows upon the division of magnitude; since the more a thing is divided, the greater number of things result. Hence, as the infinite is to be found potentially in the division of the continuous, because we thus approach matter, as was shown in the preceding article, by the same rule, the infinite can be also found potentially in the addition of multitude.
+
 ## Replies
+
 Reply to Objection 1: Every potentiality is made actual according to its mode of being; for instance, a day is reduced to act successively, and not all at once. Likewise the infinite in multitude is reduced to act successively, and not all at once; because every multitude can be succeeded by another multitude to infinity.
+
 Reply to Objection 2: Species of figures are infinite by infinitude of number. Now there are various species of figures, such as trilateral, quadrilateral and so on; and as an infinitely numerable multitude is not all at once reduced to act, so neither is the multitude of figures.
+
 Reply to Objection 3: Although the supposition of some things does not preclude the supposition of others, still the supposition of an infinite number is opposed to any single species of multitude. Hence it is not possible for an actually infinite multitude to exist.

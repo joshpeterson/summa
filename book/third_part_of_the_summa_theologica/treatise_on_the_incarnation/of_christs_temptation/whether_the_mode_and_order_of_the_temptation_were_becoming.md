@@ -1,24 +1,43 @@
 # Whether The Mode And Order Of The Temptation Were Becoming?
+
 ## Objections
+
 Objection 1: It would seem that the mode and order of the temptation were unbecoming. For the devil tempts in order to induce us to sin. But if Christ had assuaged His bodily hunger by changing the stones into bread, He would not have sinned; just as neither did He sin when He multiplied the loaves, which was no less a miracle, in order to succor the hungry crowd. Therefore it seems that this was nowise a temptation.
+
 Objection 2: Further, a counselor is inconsistent if he persuades the contrary to what he intends. But when the devil set Christ on a pinnacle of the Temple, he purposed to tempt Him to pride or vainglory. Therefore it was inconsistent to urge Him to cast Himself thence: for this would be contrary to pride or vainglory, which always seeks to rise.
+
 Objection 3: Further, one temptation should lead to one sin. But in the temptation on the mountain he counseled two sins---namely, covetousness and idolatry. Therefore the mode of the temptation was unfitting.
+
 Objection 4: Further, temptations are ordained to sin. But there are seven deadly sins, as we have stated in the [4214]FS, Q[84], A[4]. But the tempter only deals with three, viz. gluttony, vainglory, and covetousness. Therefore the temptation seems to have been incomplete.
+
 Objection 5: Further, after overcoming all the vices, man is still tempted to pride or vainglory: since pride "worms itself in stealthily, and destroys even good works," as Augustine says (Ep. ccxi). Therefore Matthew unfittingly gives the last place to the temptation to covetousness on the mountain, and the second place to the temptation to vainglory in the Temple, especially since Luke puts them in the reverse order.
+
 Objection 6: Further, Jerome says on Mat. 4:4 that "Christ purposed to overcome the devil by humility, not by might." Therefore He should not have repulsed him with a haughty rebuke, saying: "Begone, Satan."
+
 Objection 7: Further, the gospel narrative seems to be false. For it seems impossible that Christ could have been set on a pinnacle of the Temple without being seen by others. Nor is there to be found a mountain so high that all the world can be seen from it, so that all the kingdoms of the earth could be shown to Christ from its summit. It seems, therefore, that Christ's temptation is unfittingly described.
+
 ## Answer
+
+
 
 I answer that, The temptation which comes from the enemy takes the form of a suggestion, as Gregory says (Hom. xvi in Evang.). Now a suggestion cannot be made to everybody in the same way; it must arise from those things towards which each one has an inclination. Consequently the devil does not straight away tempt the spiritual man to grave sins, but he begins with lighter sins, so as gradually to lead him to those of greater magnitude. Wherefore Gregory (Moral. xxxi), expounding Job 39:25, "He smelleth the battle afar off, the encouraging of the captains and the shouting of the army," says: "The captains are fittingly described as encouraging, and the army as shouting. Because vices begin by insinuating themselves into the mind under some specious pretext: then they come on the mind in such numbers as to drag it into all sorts of folly, deafening it with their bestial clamor."
 
 Thus, too, did the devil set about the temptation of the first man. For at first he enticed his mind to consent to the eating of the forbidden fruit, saying (Gn. 3:1): "Why hath God commanded you that you should not eat of every tree of paradise?" Secondly [he tempted him] to vainglory by saying: "Your eyes shall be opened." Thirdly, he led the temptation to the extreme height of pride, saying: "You shall be as gods, knowing good and evil." This same order did he observe in tempting Christ. For at first he tempted Him to that which men desire, however spiritual they may be---namely, the support of the corporeal nature by food. Secondly, he advanced to that matter in which spiritual men are sometimes found wanting, inasmuch as they do certain things for show, which pertains to vainglory. Thirdly, he led the temptation on to that in which no spiritual men, but only carnal men, have a part---namely, to desire worldly riches and fame, to the extent of holding God in contempt. And so in the first two temptations he said: "If Thou be the Son of God"; but not in the third, which is inapplicable to spiritual men, who are sons of God by adoption, whereas it does apply to the two preceding temptations.
 
 And Christ resisted these temptations by quoting the authority of the Law, not by enforcing His power, "so as to give more honor to His human nature and a greater punishment to His adversary, since the foe of the human race was vanquished, not as by God, but as by man"; as Pope Leo says (Serm. 1, De Quadrag. 3).
+
 ## Replies
+
 Reply to Objection 1: To make use of what is needful for self-support is not the sin of gluttony; but if a man do anything inordinate out of the desire for such support, it can pertain to the sin of gluttony. Now it is inordinate for a man who has human assistance at his command to seek to obtain food miraculously for mere bodily support. Hence the Lord miraculously provided the children of Israel with manna in the desert, where there was no means of obtaining food otherwise. And in like fashion Christ miraculously provided the crowds with food in the desert, when there was no other means of getting food. But in order to assuage His hunger, He could have done otherwise than work a miracle, as did John the Baptist, according to Matthew (3:4); or He could have hastened to the neighboring country. Consequently the devil esteemed that if Christ was a mere man, He would fall into sin by attempting to assuage His hunger by a miracle.
+
 Reply to Objection 2: It often happens that a man seeks to derive glory from external humiliation, whereby he is exalted by reason of spiritual good. Hence Augustine says (De Serm. Dom. in Monte ii, 12): "It must be noted that it is possible to boast not only of the beauty and splendor of material things, but even of filthy squalor." And this is signified by the devil urging Christ to seek spiritual glory by casting His body down.
+
 Reply to Objection 3: It is a sin to desire worldly riches and honors in an inordinate fashion. And the principal sign of this is when a man does something wrong in order to acquire such things. And so the devil was not satisfied with instigating to a desire for riches and honors, but he went so far as to tempt Christ, for the sake of gaining possession of these things, to fall down and adore him, which is a very great crime, and against God. Nor does he say merely, "if Thou wilt adore me," but he adds, "if, falling down"; because, as Ambrose says on Lk. 4:5: "Ambition harbors yet another danger within itself: for, while seeking to rule, it will serve; it will bow in submission that it may be crowned with honor; and the higher it aims, the lower it abases itself."
+
 Reply to Objection 4: As Ambrose says on Lk. 4:13, Scripture would not have said that "'all the temptation being ended, the devil departed from Him,' unless the matter of all sins were included in the three temptations already related. For the causes of temptations are the causes of desires"---namely, "lust of the flesh, hope of glory, eagerness for power."
+
 Reply to Objection 5: As Augustine says (De Consensu Evang. ii): "It is not certain which happened first; whether the kingdoms of the earth were first shown to Him, and afterwards He was set on the pinnacle of the Temple; or the latter first, and the former afterwards. However, it matters not, provided it be made clear that all these things did take place." It may be that the Evangelists set these things in different orders, because sometimes cupidity arises from vainglory, sometimes the reverse happens.
+
 Reply to Objection 6: When Christ had suffered the wrong of being tempted by the devil saying, "If Thou be the Son of God cast Thyself down," He was not troubled, nor did He upbraid the devil. But when the devil usurped to himself the honor due to God, saying, "All these things will I give Thee, if, falling down, Thou wilt adore me," He was exasperated, and repulsed him, saying, "Begone, Satan": that we might learn from His example to bear bravely insults leveled at ourselves, but not to allow ourselves so much as to listen to those which are aimed at God.
+
 Reply to Objection 7: As Chrysostom says (Hom. v in Matth.): "The devil set Him" (on a pinnacle of the Temple) "that He might be seen by all, whereas, unawares to the devil, He acted in such sort that He was seen by none."

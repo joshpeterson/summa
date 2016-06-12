@@ -1,12 +1,23 @@
 # Whether The Gravity Of Sins Varies According To Their Objects?
+
 ## Objections
+
 Objection 1: It would seem that the gravity of sins does not vary according to their objects. Because the gravity of a sin pertains to its mode or quality: whereas the object is the matter of the sin. Therefore the gravity of sins does not vary according to their various objects.
+
 Objection 2: Further, the gravity of a sin is the intensity of its malice. Now sin does not derive its malice from its proper object to which it turns, and which is some appetible good, but rather from that which it turns away from. Therefore the gravity of sins does not vary according to their various objects.
+
 Objection 3: Further, sins that have different objects are of different kinds. But things of different kinds cannot be compared with one another, as is proved in Phys. vii, text. 30, seqq. Therefore one sin is not graver than another by reason of the difference of objects.
+
 ## Answer
+
 On the contrary, Sins take their species from their objects, as was shown above ([1726]Q[72], A[1]). But some sins are graver than others in respect of their species, as murder is graver than theft. Therefore the gravity of sins varies according to their objects.
+
 I answer that, As is clear from what has been said ([1727]Q[71], A[5]), the gravity of sins varies in the same way as one sickness is graver than another: for just as the good of health consists in a certain commensuration of the humors, in keeping with an animal's nature, so the good of virtue consists in a certain commensuration of the human act in accord with the rule of reason. Now it is evident that the higher the principle the disorder of which causes the disorder in the humors, the graver is the sickness: thus a sickness which comes on the human body from the heart, which is the principle of life, or from some neighboring part, is more dangerous. Wherefore a sin must needs be so much the graver, as the disorder occurs in a principle which is higher in the order of reason. Now in matters of action the reason directs all things in view of the end: wherefore the higher the end which attaches to sins in human acts, the graver the sin. Now the object of an act is its end, as stated above ([1728]Q[72], A[3], ad 2); and consequently the difference of gravity in sins depends on their objects. Thus it is clear that external things are directed to man as their end, while man is further directed to God as his end. Wherefore a sin which is about the very substance of man, e.g. murder, is graver than a sin which is about external things, e.g. theft; and graver still is a sin committed directly against God, e.g. unbelief, blasphemy, and the like: and in each of these grades of sin, one sin will be graver than another according as it is about a higher or lower principle. And forasmuch as sins take their species from their objects, the difference of gravity which is derived from the objects is first and foremost, as resulting from the species.
+
 ## Replies
+
 Reply to Objection 1: Although the object is the matter about which an act is concerned, yet it has the character of an end, in so far as the intention of the agent is fixed on it, as stated above ([1729]Q[72], A[3], ad 2). Now the form of a moral act depends on the end, as was shown above ([1730]Q[72], A[6];[1731] Q[18], A[6]).
+
 Reply to Objection 2: From the very fact that man turns unduly to some mutable good, it follows that he turns away from the immutable Good, which aversion completes the nature of evil. Hence the various degrees of malice in sins must needs follow the diversity of those things to which man turns.
+
 Reply to Objection 3: All the objects of human acts are related to one another, wherefore all human acts are somewhat of one kind, in so far as they are directed to the last end. Therefore nothing prevents all sins from being compared with one another.

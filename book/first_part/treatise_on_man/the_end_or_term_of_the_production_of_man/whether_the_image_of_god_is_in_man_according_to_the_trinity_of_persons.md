@@ -1,14 +1,25 @@
 # Whether The Image Of God Is In Man According To The Trinity Of Persons?
+
 ## Objections
+
 Objection 1: It would seem that the image of God does not exist in man as to the Trinity of Persons. For Augustine says (Fulgentius De Fide ad Petrum i): "One in essence is the Godhead of the Holy Trinity; and one is the image to which man was made." And Hilary (De Trin. v) says: "Man is made to the image of that which is common in the Trinity." Therefore the image of God in man is of the Divine Essence, and not of the Trinity of Persons.
+
 Objection 2: Further, it is said (De Eccl. Dogmat.) that the image of God in man is to be referred to eternity. Damascene also says (De Fide Orth. ii, 12) that the image of God in man belongs to him as "an intelligent being endowed with free-will and self-movement." Gregory of Nyssa (De Homin. Opificio xvi) also asserts that, when Scripture says that "man was made to the image of God, it means that human nature was made a participator of all good: for the Godhead is the fulness of goodness." Now all these things belong more to the unity of the Essence than to the distinction of the Persons. Therefore the image of God in man regards, not the Trinity of Persons, but the unity of the Essence.
+
 Objection 3: Further, an image leads to the knowledge of that of which it is the image. Therefore, if there is in man the image of God as to the Trinity of Persons; since man can know himself by his natural reason, it follows that by his natural knowledge man could know the Trinity of the Divine Persons; which is untrue, as was shown above ([772]Q[32], A[1]).
+
 Objection 4: Further, the name of Image is not applicable to any of the Three Persons, but only to the Son; for Augustine says (De Trin. vi, 2) that "the Son alone is the image of the Father." Therefore, if in man there were an image of God as regards the Person, this would not be an image of the Trinity, but only of the Son.
+
 ## Answer
+
 On the contrary, Hilary says (De Trin. iv): "The plurality of the Divine Persons is proved from the fact that man is said to have been made to the image of God."
+
 I answer that, as we have seen ([773]Q[40], A[2]), the distinction of the Divine Persons is only according to origin, or, rather, relations of origin. Now the mode of origin is not the same in all things, but in each thing is adapted to the nature thereof; animated things being produced in one way, and inanimate in another; animals in one way, and plants in another. Wherefore it is manifest that the distinction of the Divine Persons is suitable to the Divine Nature; and therefore to be to the image of God by imitation of the Divine Nature does not exclude being to the same image by the representation of the Divine Persons: but rather one follows from the other. We must, therefore, say that in man there exists the image of God, both as regards the Divine Nature and as regards the Trinity of Persons; for also in God Himself there is one Nature in Three Persons.
 
 Thus it is clear how to solve the first two objections.
+
 ## Replies
+
 Reply to Objection 3: This argument would avail if the image of God in man represented God in a perfect manner. But, as Augustine says (De Trin. xv, 6), there is a great difference between the trinity within ourselves and the Divine Trinity. Therefore, as he there says: "We see, rather than believe, the trinity which is in ourselves; whereas we believe rather than see that God is Trinity."
+
 Reply to Objection 4: Some have said that in man there is an image of the Son only. Augustine rejects this opinion (De Trin. xii, 5,6). First, because as the Son is like to the Father by a likeness of essence, it would follow of necessity if man were made in likeness to the Son, that he is made to the likeness of the Father. Secondly, because if man were made only to the image of the Son, the Father would not have said, "Let Us make man to Our own image and likeness"; but "to Thy image." When, therefore, it is written, "He made him to the image of God," the sense is not that the Father made man to the image of the Son only, Who is God, as some explained it, but that the Divine Trinity made man to Its image, that is, of the whole Trinity. When it is said that God "made man to His image," this can be understood in two ways: first, so that this preposition "to" points to the term of the making, and then the sense is, "Let Us make man in such a way that Our image may be in him." Secondly, this preposition 'to' may point to the exemplar cause, as when we say, "This book is made (like) to that one." Thus the image of God is the very Essence of God, Which is incorrectly called an image forasmuch as image is put for the exemplar. Or, as some say, the Divine Essence is called an image because thereby one Person imitates another.

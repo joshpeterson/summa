@@ -1,12 +1,23 @@
 # Whether The Soul Is Of The Same Species As An Angel?
+
 ## Objections
+
 Objection 1: It would seem that the soul is of the same species as an angel. For each thing is ordained to its proper end by the nature of its species, whence is derived its inclination for that end. But the end of the soul is the same as that of an angel---namely, eternal happiness. Therefore they are of the same species.
+
 Objection 2: Further, the ultimate specific difference is the noblest, because it completes the nature of the species. But there is nothing nobler either in an angel or in the soul than their intellectual nature. Therefore the soul and the angel agree in the ultimate specific difference: therefore they belong to the same species.
+
 Objection 3: Further, it seems that the soul does not differ from an angel except in its union with the body. But as the body is outside the essence of the soul, it seems that it does not belong to its species. Therefore the soul and angel are of the same species.
+
 ## Answer
+
 On the contrary, Things which have different natural operations are of different species. But the natural operations of the soul and of an angel are different; since, as Dionysius says (Div. Nom. vii), "Angelic minds have simple and blessed intelligence, not gathering their knowledge of Divine things from visible things." Subsequently he says the contrary to this of the soul. Therefore the soul and an angel are not of the same species.
+
 I answer that, Origen (Peri Archon iii, 5) held that human souls and angels are all of the same species; and this because he supposed that in these substances the difference of degree was accidental, as resulting from their free-will: as we have seen above ([604]Q[47], A[2]). But this cannot be; for in incorporeal substances there cannot be diversity of number without diversity of species and inequality of nature; because, as they are not composed of matter and form, but are subsistent forms, it is clear that there is necessarily among them a diversity of species. For a separate form cannot be understood otherwise than as one of a single species; thus, supposing a separate whiteness to exist, it could only be one; forasmuch as one whiteness does not differ from another except as in this or that subject. But diversity of species is always accompanied with a diversity of nature; thus in species of colors one is more perfect than another; and the same applies to other species, because differences which divide a "genus" are contrary to one another. Contraries, however, are compared to one another as the perfect to the imperfect, since the "principle of contrariety is habit, and privation thereof," as is written Metaph. x (Did. ix, 4). The same would follow if the aforesaid substances were composed of matter and form. For if the matter of one be distinct from the matter of another, it follows that either the form is the principle of the distinction of matter---that is to say, that the matter is distinct on account of its relation to divers forms; and even then there would result a difference of species and inequality of nature: or else the matter is the principle of the distinction of forms. But one matter cannot be distinct from another, except by a distinction of quantity, which has no place in these incorporeal substances, such as an angel and the soul. So that it is not possible for the angel and the soul to be of the same species. How it is that there can be many souls of one species will be explained later ([605]Q[76], A[2], ad 1).
+
 ## Replies
+
 Reply to Objection 1: This argument proceeds from the proximate and natural end. Eternal happiness is the ultimate and supernatural end.
+
 Reply to Objection 2: The ultimate specific difference is the noblest because it is the most determinate, in the same way as actuality is nobler than potentiality. Thus, however, the intellectual faculty is not the noblest, because it is indeterminate and common to many degrees of intellectuality; as the sensible faculty is common to many degrees in the sensible nature. Hence, as all sensible things are not of one species, so neither are all intellectual things of one species.
+
 Reply to Objection 3: The body is not of the essence of the soul; but the soul by the nature of its essence can be united to the body, so that, properly speaking, not the soul alone, but the "composite," is the species. And the very fact that the soul in a certain way requires the body for its operation, proves that the soul is endowed with a grade of intellectuality inferior to that of an angel, who is not united to a body.

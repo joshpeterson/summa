@@ -1,10 +1,17 @@
 # Whether The Rational Soul Is Produced By God Immediately?
+
 ## Objections
+
 Objection 1: It would seem that the rational soul is not immediately made by God, but by the instrumentality of the angels. For spiritual things have more order than corporeal things. But inferior bodies are produced by means of the superior, as Dionysius says (Div. Nom. iv). Therefore also the inferior spirits, who are the rational souls, are produced by means of the superior spirits, the angels.
+
 Objection 2: Further, the end corresponds to the beginning of things; for God is the beginning and end of all. Therefore the issue of things from their beginning corresponds to the forwarding of them to their end. But "inferior things are forwarded by the higher," as Dionysius says (Eccl. Hier. v); therefore also the inferior are produced into existence by the higher, and souls by angels.
+
 Objection 3: Further, "perfect is that which can produce its like," as is stated Metaph. v. But spiritual substances are much more perfect than corporeal. Therefore, since bodies produce their like in their own species, much more are angels able to produce something specifically inferior to themselves; and such is the rational soul.
+
 ## Answer
+
 On the contrary, It is written (Gn. 2:7) that God Himself "breathed into the face of man the breath of life."
+
 I answer that, Some have held that angels, acting by the power of God, produce rational souls. But this is quite impossible, and is against faith. For it has been proved that the rational soul cannot be produced except by creation. Now, God alone can create; for the first agent alone can act without presupposing the existence of anything; while the second cause always presupposes something derived from the first cause, as above explained ([758]Q[75], A[3]): and every agent, that presupposes something to its act, acts by making a change therein. Therefore everything else acts by producing a change, whereas God alone acts by creation. Since, therefore, the rational soul cannot be produced by a change in matter, it cannot be produced, save immediately by God.
 
 Thus the replies to the objections are clear. For that bodies produce their like or something inferior to themselves, and that the higher things lead forward the inferior---all these things are effected through a certain transmutation.

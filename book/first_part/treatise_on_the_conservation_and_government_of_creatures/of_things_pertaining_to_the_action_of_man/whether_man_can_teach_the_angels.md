@@ -1,12 +1,23 @@
 # Whether Man Can Teach The Angels?
+
 ## Objections
+
 Objection 1: It would seem that men teach angels. For the Apostle says (Eph. 3:10): "That the manifold wisdom of God may be made known to the principalities and powers in the heavenly places through the Church." But the Church is the union of all the faithful. Therefore some things are made known to angels through men.
+
 Objection 2: Further, the superior angels, who are enlightened immediately concerning Divine things by God, can instruct the inferior angels, as stated above ([964]Q[116], A[1]; [965]Q[112], A[3]). But some men are instructed immediately concerning Divine things by the Word of God; as appears principally of the apostles from Heb. 1:1,2: "Last of all, in these days (God) hath spoken to us by His Son." Therefore some men have been able to teach the angels.
+
 Objection 3: Further, the inferior angels are instructed by the superior. But some men are higher than some angels; since some men are taken up to the highest angelic orders, as Gregory says in a homily (Hom. xxxiv in Evang.). Therefore some of the inferior angels can be instructed by men concerning Divine things.
+
 ## Answer
+
 On the contrary, Dionysius says (Div. Nom. iv) that every Divine enlightenment to the superior angels, by making their thoughts known to them; but concerning Divine things superior angels are never enlightened by inferior angels. Now it is manifest that in the same way as inferior angels are subject to the superior, the highest men are subject even to the lowest angels. This is clear from Our Lord's words (Mat. 11:11): "There hath not risen among them that are born of woman a greater than John the Baptist; yet he that is lesser in the kingdom of heaven is greater than he." Therefore angels are never enlightened by men concerning Divine things. But men can by means of speech make known to angels the thoughts of their hearts: because it belongs to God alone to know the heart's secrets.
 
+
+
 ## Replies
+
 Reply to Objection 1: Augustine (Gen. ad lit. v, 19) thus explains this passage of the Apostle, who in the preceding verses says: "To me, the least of all the saints, is given this grace . . . to enlighten all men, that they may see what is the dispensation of the mystery which hath been hidden from eternity in God. Hidden, yet so that the multiform wisdom of God was made known to the principalities and powers in the heavenly places---that is, through the Church." As though he were to say: This mystery was hidden from men, but not from the Church in heaven, which is contained in the principalities and powers who knew it "from all ages, but not before all ages: because the Church was at first there, where after the resurrection this Church composed of men will be gathered together."
+
 Reply to Objection 2: The apostles were instructed immediately by the Word of God, not according to His Divinity, but according as He spoke in His human nature. Hence the argument does not prove.
+
 Reply to Objection 3: Certain men in this state of life are greater than certain angels, not actually, but virtually; forasmuch as they have such great charity that they can merit a higher degree of beatitude than that possessed by certain angels. In the same way we might say that the seed of a great tree is virtually greater than a small tree, though actually it is much smaller.

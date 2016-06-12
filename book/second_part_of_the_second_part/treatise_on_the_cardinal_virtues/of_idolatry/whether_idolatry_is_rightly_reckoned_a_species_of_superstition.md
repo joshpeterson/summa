@@ -1,11 +1,19 @@
 # Whether Idolatry Is Rightly Reckoned A Species Of Superstition?
+
 ## Objections
+
 Objection 1: It would seem that idolatry is not rightly reckoned a species of superstition. Just as heretics are unbelievers, so are idolaters. But heresy is a species of unbelief, as stated above ([3101]Q[11], A[1]). Therefore idolatry is also a species of unbelief and not of superstition.
+
 Objection 2: Further, latria pertains to the virtue of religion to which superstition is opposed. But latria, apparently, is univocally applied to idolatry and to that which belongs to the true religion. For just as we speak univocally of the desire of false happiness, and of the desire of true happiness, so too, seemingly, we speak univocally of the worship of false gods, which is called idolatry, and of the worship of the true God, which is the latria of true religion. Therefore idolatry is not a species of superstition.
+
 Objection 3: Further, that which is nothing cannot be the species of any genus. But idolatry, apparently, is nothing: for the Apostle says (1 Cor. 8:4): "We know that an idol is nothing in the world," and further on (1 Cor. 10:19): "What then? Do I say that what is offered in sacrifice to idols is anything? Or that the idol is anything?" implying an answer in the negative. Now offering things to idols belongs properly to idolatry. Therefore since idolatry is like to nothing, it cannot be a species of superstition.
+
 Objection 4: Further, it belongs to superstition to give divine honor to whom that honor is not due. Now divine honor is undue to idols, just as it is undue to other creatures, wherefore certain people are reproached (Rom. 1:25) for that they "worshipped and served the creature rather than the Creator." Therefore this species of superstition is unfittingly called idolatry, and should rather be named "worship of creatures."
+
 ## Answer
+
 On the contrary, It is related (Acts 17:16) that when Paul awaited Silas and Timothy at Athens, "his spirit was stirred within him seeing the whole city given to idolatry," and further on (Acts 17:22) he says: "Ye men of Athens, I perceive that in all things you are too superstitious." Therefore idolatry belongs to superstition.
+
 I answer that, As stated above ([3102]Q[92], A[2]), it belongs to superstition to exceed the due mode of divine worship, and this is done chiefly when divine worship is given to whom it should not be given. Now it should be given to the most high uncreated God alone, as stated above ([3103]Q[81], A[1]) when we were treating of religion. Therefore it is superstition to give worship to any creature whatsoever.
 
 Now just as this divine worship was given to sensible creatures by means of sensible signs, such as sacrifices, games, and the like, so too was it given to a creature represented by some sensible form or shape, which is called an "idol." Yet divine worship was given to idols in various ways. For some, by means of a nefarious art, constructed images which produced certain effects by the power of the demons: wherefore they deemed that the images themselves contained something God-like, and consequently that divine worship was due to them. This was the opinion of Hermes Trismegistus [*De Natura Deorum, ad Asclep], as Augustine states (De Civ. Dei viii, 23): while others gave divine worship not to the images, but to the creatures represented thereby. The Apostle alludes to both of these (Rom. 1:23, 25). For, as regards the former, he says: "They changed the glory of the incorruptible God into the likeness of the image of a corruptible man, and of birds, and of four-footed beasts, and of creeping things," and of the latter he says: "Who worshipped and served the creature rather than the Creator."
@@ -15,8 +23,13 @@ These latter were of three ways of thinking. For some deemed certain men to have
 The last two opinions were held to belong to "natural theology" which the philosophers gathered from their study of the world and taught in the schools: while the other, relating to the worship of men, was said to belong to "mythical theology" which was wont to be represented on the stage according to the fancies of poets. The remaining opinion relating to images was held to belong to "civil theology," which was celebrated by the pontiffs in the temples [*De Civ. Dei vi, 5].
 
 Now all these come under the head of the superstition of idolatry. Wherefore Augustine says (De Doctr. Christ. ii, 20): "Anything invented by man for making and worshipping idols, or for giving Divine worship to a creature or any part of a creature, is superstitious."
+
 ## Replies
+
 Reply to Objection 1: Just as religion is not faith, but a confession of faith by outward signs, so superstition is a confession of unbelief by external worship. Such a confession is signified by the term idolatry, but not by the term heresy, which only means a false opinion. Therefore heresy is a species of unbelief, but idolatry is a species of superstition.
+
 Reply to Objection 2: The term latria may be taken in two senses. In one sense it may denote a human act pertaining to the worship of God: and then its signification remains the same, to whomsoever it be shown, because, in this sense, the thing to which it is shown is not included in its definition. Taken thus latria is applied univocally, whether to true religion or to idolatry, just as the payment of a tax is univocally the same, whether it is paid to the true or to a false king. In another sense latria denotes the same as religion, and then, since it is a virtue, it is essential thereto that divine worship be given to whom it ought to be given; and in this way latria is applied equivocally to the latria of true religion, and to idolatry: just as prudence is applied equivocally to the prudence that is a virtue, and to that which is carnal.
+
 Reply to Objection 3: The saying of the Apostle that "an idol is nothing in the world" means that those images which were called idols, were not animated, or possessed of a divine power, as Hermes maintained, as though they were composed of spirit and body. In the same sense we must understand the saying that "what is offered in sacrifice to idols is not anything," because by being thus sacrificed the sacrificial flesh acquired neither sanctification, as the Gentiles thought, nor uncleanness, as the Jews held.
+
 Reply to Objection 4: It was owing to the general custom among the Gentiles of worshipping any kind of creature under the form of images that the term "idolatry" was used to signify any worship of a creature, even without the use of images.

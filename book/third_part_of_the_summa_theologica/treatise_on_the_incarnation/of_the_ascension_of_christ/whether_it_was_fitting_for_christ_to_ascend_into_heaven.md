@@ -1,14 +1,27 @@
 # Whether It Was Fitting For Christ To Ascend Into Heaven?
+
 ## Objections
+
 Objection 1: It would seem that it was not fitting for Christ to ascend into heaven. For the Philosopher says (De Coelo ii) that "things which are in a state of perfection possess their good without movement." But Christ was in a state of perfection, since He is the Sovereign Good in respect of His Divine Nature, and sovereignly glorified in respect of His human nature. Consequently, He has His good without movement. But ascension is movement. Therefore it was not fitting for Christ to ascend.
+
 Objection 2: Further, whatever is moved, is moved on account of something better. But it was no better thing for Christ to be in heaven than upon earth, because He gained nothing either in soul or in body by being in heaven. Therefore it seems that Christ should not have ascended into heaven.
+
 Objection 3: Further, the Son of God took human flesh for our salvation. But it would have been more beneficial for men if He had tarried always with us upon earth; thus He said to His disciples (Lk. 17:22): "The days will come when you shall desire to see one day of the Son of man; and you shall not see it." Therefore it seems unfitting for Christ to have ascended into heaven.
+
 Objection 4: Further, as Gregory says (Moral. xiv), Christ's body was in no way changed after the Resurrection. But He did not ascend into heaven immediately after rising again, for He said after the Resurrection (Jn. 20:17): "I am not yet ascended to My Father." Therefore it seems that neither should He have ascended after forty days.
+
 ## Answer
+
 On the contrary, Are the words of our Lord (Jn. 20:17): "I ascend to My Father and to your Father."
+
 I answer that, The place ought to be in keeping with what is contained therein. Now by His Resurrection Christ entered upon an immortal and incorruptible life. But whereas our dwelling-place is one of generation and corruption, the heavenly place is one of incorruption. And consequently it was not fitting that Christ should remain upon earth after the Resurrection; but it was fitting that He should ascend to heaven.
+
 ## Replies
+
 Reply to Objection 1: That which is best and possesses its good without movement is God Himself, because He is utterly unchangeable, according to Malachi 3:6: "I am the Lord, and I change not." But every creature is changeable in some respect, as is evident from Augustine (Gen. ad lit. viii). And since the nature assumed by the Son of God remained a creature, as is clear from what was said above ([4315]Q[2], A[7];[4316] Q[16], AA[8],10;[4317] Q[20], A[1] ), it is not unbecoming if some movement be attributed to it.
+
 Reply to Objection 2: By ascending into heaven Christ acquired no addition to His essential glory either in body or in soul: nevertheless He did acquire something as to the fittingness of place, which pertains to the well-being of glory: not that His body acquired anything from a heavenly body by way of perfection or preservation; but merely out of a certain fittingness. Now this in a measure belonged to His glory; and He had a certain kind of joy from such fittingness, not indeed that He then began to derive joy from it when He ascended into heaven, but that He rejoiced thereat in a new way, as at a thing completed. Hence, on Ps. 15:11: "At Thy right hand are delights even unto the end," the gloss says: "I shall delight in sitting nigh to Thee, when I shall be taken away from the sight of men."
+
 Reply to Objection 3: Although Christ's bodily presence was withdrawn from the faithful by the Ascension, still the presence of His Godhead is ever with the faithful, as He Himself says (Mat. 28:20): "Behold, I am with you all days, even to the consummation of the world." For, "by ascending into heaven He did not abandon those whom He adopted," as Pope Leo says (De Resurrec., Serm. ii). But Christ's Ascension into heaven, whereby He withdrew His bodily presence from us, was more profitable for us than His bodily presence would have been.
+
 Reply to Objection 4: Although a heavenly place befitted Christ when He rose to immortal life, nevertheless He delayed the Ascension in order to confirm the truth of His Resurrection. Hence it is written (Acts 1:3), that "He showed Himself alive after His Passion, by many proofs, for forty days appearing to them": upon which the gloss says that "because He was dead for forty hours, during forty days He established the fact of His being alive again. Or the forty days may be understood as a figure of this world, wherein Christ dwells in His Church: inasmuch as man is made out of the four elements, and is cautioned not to transgress the Decalogue."

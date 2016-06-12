@@ -1,12 +1,23 @@
 # Whether Pride Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that pride is not a sin. For no sin is the object of God's promise. For God's promises refer to what He will do; and He is not the author of sin. Now pride is numbered among the Divine promises: for it is written (Is. 60:15): "I will make thee to be an everlasting pride [Douay: 'glory'], a joy unto generation and generation." Therefore pride is not a sin.
+
 Objection 2: Further, it is not a sin to wish to be like unto God: for every creature has a natural desire for this; and especially does this become the rational creature which is made to God's image and likeness. Now it is said in Prosper's Lib. Sent. 294, that "pride is love of one's own excellence, whereby one is likened to God who is supremely excellent." Hence Augustine says (Confess. ii, 6): "Pride imitates exaltedness; whereas Thou alone art God exalted over all." Therefore pride is not a sin.
+
 Objection 3: Further, a sin is opposed not only to a virtue but also to a contrary vice, as the Philosopher states (Ethic. ii, 8). But no vice is found to be opposed to pride. Therefore pride is not a sin.
+
 ## Answer
+
 On the contrary, It is written (Tob. 4:14): "Never suffer pride to reign in thy mind or in thy words."
+
 I answer that, Pride [superbia] is so called because a man thereby aims higher [supra] than he is; wherefore Isidore says (Etym. x): "A man is said to be proud, because he wishes to appear above (super) what he really is"; for he who wishes to overstep beyond what he is, is proud. Now right reason requires that every man's will should tend to that which is proportionate to him. Therefore it is evident that pride denotes something opposed to right reason, and this shows it to have the character of sin, because according to Dionysius (Div. Nom. iv, 4), "the soul's evil is to be opposed to reason." Therefore it is evident that pride is a sin.
+
 ## Replies
+
 Reply to Objection 1: Pride [superbia] may be understood in two ways. First, as overpassing [supergreditur] the rule of reason, and in this sense we say that it is a sin. Secondly, it may simply denominate "super-abundance"; in which sense any super-abundant thing may be called pride: and it is thus that God promises pride as significant of super-abundant good. Hence a gloss of Jerome on the same passage (Is. 61:6) says that "there is a good and an evil pride"; or "a sinful pride which God resists, and a pride that denotes the glory which He bestows."
+
 Reply to Objection 2: Reason has the direction of those things for which man has a natural appetite; so that if the appetite wander from the rule of reason, whether by excess or by default, it will be sinful, as is the case with the appetite for food which man desires naturally. Now pride is the appetite for excellence in excess of right reason. Wherefore Augustine says (De Civ. Dei xiv, 13) that pride is the "desire for inordinate exaltation": and hence it is that, as he asserts (De Civ. Dei xiv, 13; xix, 12), "pride imitates God inordinately: for it hath equality of fellowship under Him, and wishes to usurp Hi. dominion over our fellow-creatures."
+
 Reply to Objection 3: Pride is directly opposed to the virtue of humility, which, in a way, is concerned about the same matter as magnanimity, as stated above ([3605]Q[161], A[1], ad 3). Hence the vice opposed to pride by default is akin to the vice of pusillanimity, which is opposed by default to magnanimity. For just as it belongs to magnanimity to urge the mind to great things against despair, so it belongs to humility to withdraw the mind from the inordinate desire of great things against presumption. Now pusillanimity, if we take it for a deficiency in pursuing great things, is properly opposed to magnanimity by default; but if we take it for the mind's attachment to things beneath what is becoming to a man, it is opposed to humility by default; since each proceeds from a smallness of mind. In the same way, on the other hand, pride may be opposed by excess, both to magnanimity and humility, from different points of view: to humility, inasmuch as it scorns subjection, to magnanimity, inasmuch as it tends to great things inordinately. Since, however, pride implies a certain elation, it is more directly opposed to humility, even as pusillanimity, which denotes littleness of soul in tending towards great things, is more directly opposed to magnanimity.

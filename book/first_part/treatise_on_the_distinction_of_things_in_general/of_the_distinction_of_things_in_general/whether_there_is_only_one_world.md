@@ -1,12 +1,23 @@
 # Whether There Is Only One World?
+
 ## Objections
+
 Objection 1: It would seem that there is not only one world, but many. Because, as Augustine says (QQ. 83, qu. 46), it is unfitting to say that God has created things without a reason. But for the same reason He created one, He could create many, since His power is not limited to the creation of one world; but rather it is infinite, as was shown above ([418]Q[25], A[2]). Therefore God has produced many worlds.
+
 Objection 2: Further, nature does what is best and much more does God. But it is better for there to be many worlds than one, because many good things are better than a few. Therefore many worlds have been made by God.
+
 Objection 3: Further, everything which has a form in matter can be multiplied in number, the species remaining the same, because multiplication in number comes from matter. But the world has a form in matter. Thus as when I say "man" I mean the form, and when I say "this man," I mean the form in matter; so when we say "world," the form is signified, and when we say "this world," the form in the matter is signified. Therefore there is nothing to prevent the existence of many worlds.
+
 ## Answer
+
 On the contrary, It is said (Jn. 1:10): "The world was made by Him," where the world is named as one, as if only one existed.
+
 I answer that, The very order of things created by God shows the unity of the world. For this world is called one by the unity of order, whereby some things are ordered to others. But whatever things come from God, have relation of order to each other, and to God Himself, as shown above ([419]Q[11], A[3]; [420]Q[21], A[1]). Hence it must be that all things should belong to one world. Therefore those only can assert that many worlds exist who do not acknowledge any ordaining wisdom, but rather believe in chance, as Democritus, who said that this world, besides an infinite number of other worlds, was made from a casual concourse of atoms.
+
 ## Replies
+
 Reply to Objection 1: This reason proves that the world is one because all things must be arranged in one order, and to one end. Therefore from the unity of order in things Aristotle infers (Metaph. xii, text 52) the unity of God governing all; and Plato (Tim.), from the unity of the exemplar, proves the unity of the world, as the thing designed.
+
 Reply to Objection 2: No agent intends material plurality as the end forasmuch as material multitude has no certain limit, but of itself tends to infinity, and the infinite is opposed to the notion of end. Now when it is said that many worlds are better than one, this has reference to material order. But the best in this sense is not the intention of the divine agent; forasmuch as for the same reason it might be said that if He had made two worlds, it would be better if He had made three; and so on to infinite.
+
 Reply to Objection 3: The world is composed of the whole of its matter. For it is not possible for there to be another earth than this one, since every earth would naturally be carried to this central one, wherever it was. The same applies to the other bodies which are part of the world.

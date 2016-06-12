@@ -1,12 +1,23 @@
 # Whether A Good Or A Wicked Angel Can Sin Venially?
+
 ## Objections
+
 Objection 1: It seems that a good or wicked angel can sin venially. Because man agrees with the angels in the higher part of his soul which is called the mind, according to Gregory, who says (Hom. xxix in Evang.) that "man understands in common with the angels." But man can commit a venial sin in the higher part of his soul. Therefore an angel can commit a venial sin also.
+
 Objection 2: Further, He that can do more can do less. But an angel could love a created good more than God, and he did, by sinning mortally. Therefore he could also love a creature less than God inordinately, by sinning venially.
+
 Objection 3: Further, wicked angels seem to do things which are venial sins generically, by provoking men to laughter, and other like frivolities. Now the circumstance of the person does not make a mortal sin to be venial as stated above [1942](A[3]), unless there is a special prohibition, which is not the case in point. Therefore an angel can sin venially.
+
 ## Answer
+
 On the contrary, The perfection of an angel is greater than that of man in the primitive state. But man could not sin venially in the primitive state, and much less, therefore, can an angel.
+
 I answer that, An angel's intellect, as stated above in the [1943]FP, Q[58], A[3]; [1944]FP, Q[79], A[8], is not discursive, i.e. it does not proceed from principles to conclusions, so as to understand both separately, as we do. Consequently, whenever the angelic intellect considers a conclusion, it must, of necessity, consider it in its principles. Now in matters of appetite, as we have often stated (Q[8], A[2]; Q[10], A[1]; Q[72], A[5]), ends are like principles, while the means are like conclusions. Wherefore, an angel's mind is not directed to the means, except as they stand under the order to the end. Consequently, from their very nature, they can have no inordinateness in respect of the means, unless at the same time they have an inordinateness in respect of the end, and this is a mortal sin. Now good angels are not moved to the means, except in subordination to the due end which is God: wherefore all their acts are acts of charity, so that no venial sin can be in them. On the other hand, wicked angels are moved to nothing except in subordination to the end which is their sin of pride. Therefore they sin mortally in everything that they do of their own will. This does not apply to the appetite for the natural good, which appetite we have stated to be in them ([1945]FP, Q[63], A[4]; Q[64], A[2], ad 5).
+
 ## Replies
+
 Reply to Objection 1: Man does indeed agree with the angels in the mind or intellect, but he differs in his mode of understanding, as stated above.
+
 Reply to Objection 2: An angel could not love a creature less than God, without, at the same time, either referring it to God, as the last end, or to some inordinate end, for the reason given above.
+
 Reply to Objection 3: The demons incite man to all such things which seem venial, that he may become used to them, so as to lead him on to mortal sin. Consequently in all such things they sin mortally, on account of the end they have in view.

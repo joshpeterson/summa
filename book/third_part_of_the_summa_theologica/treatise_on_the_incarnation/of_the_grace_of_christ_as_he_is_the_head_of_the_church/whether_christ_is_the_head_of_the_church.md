@@ -1,12 +1,23 @@
 # Whether Christ Is The Head Of The Church?
+
 ## Objections
+
 Objection 1: It would seem that it does not belong to Christ as man to be Head of the Church. For the head imparts sense and motion to the members. Now spiritual sense and motion which are by grace, are not imparted to us by the Man Christ, because, as Augustine says (De Trin. i, 12; xv, 24), "not even Christ, as man, but only as God, bestows the Holy Ghost." Therefore it does not belong to Him as man to be Head of the Church.
+
 Objection 2: Further, it is not fitting for the head to have a head. But God is the Head of Christ, as man, according to 1 Cor. 11:3, "The Head of Christ is God." Therefore Christ Himself is not a head.
+
 Objection 3: Furthermore, the head of a man is a particular member, receiving an influx from the heart. But Christ is the universal principle of the whole Church. Therefore He is not the Head of the Church.
+
 ## Answer
+
 On the contrary, It is written (Eph. 1:22): "And He . . . hath made Him head over all the Church."
+
 I answer that, As the whole Church is termed one mystic body from its likeness to the natural body of a man, which in divers members has divers acts, as the Apostle teaches (Rom. 12; 1 Cor. 12), so likewise Christ is called the Head of the Church from a likeness with the human head, in which we may consider three things, viz. order, perfection, and power: "Order," indeed; for the head is the first part of man, beginning from the higher part; and hence it is that every principle is usually called a head according to Ezech. 16:25: "At every head of the way, thou hast set up a sign of thy prostitution"---"Perfection," inasmuch as in the head dwell all the senses, both interior and exterior, whereas in the other members there is only touch, and hence it is said (Is. 9:15): "The aged and honorable, he is the head"---"Power," because the power and movement of the other members, together with the direction of them in their acts, is from the head, by reason of the sensitive and motive power there ruling; hence the ruler is called the head of a people, according to 1 Kings 15:17: "When thou wast a little one in thy own eyes, wast thou not made the head of the tribes of Israel?" Now these three things belong spiritually to Christ. First, on account of His nearness to God His grace is the highest and first, though not in time, since all have received grace on account of His grace, according to Rom. 8:29: "For whom He foreknew, He also predestinated to be made conformable to the image of His Son; that He might be the first-born amongst many brethren." Secondly, He had perfection as regards the fulness of all graces, according to Jn. 1:14, "We saw Him [Vulg.: 'His glory'] . . . full of grace and truth," as was shown[3956], Q[7], A[9]. Thirdly, He has the power of bestowing grace on all the members of the Church, according to Jn. 1:16: "Of His fulness we have all received." And thus it is plain that Christ is fittingly called the Head of the Church.
+
 ## Replies
+
 Reply to Objection 1: To give grace or the Holy Ghost belongs to Christ as He is God, authoritatively; but instrumentally it belongs also to Him as man, inasmuch as His manhood is the instrument of His Godhead. And hence by the power of the Godhead His actions were beneficial, i.e. by causing grace in us, both meritoriously and efficiently. But Augustine denies that Christ as man gives the Holy Ghost authoritatively. Even other saints are said to give the Holy Ghost instrumentally, or ministerially, according to Gal. 3:5: "He . . . who giveth to you the Spirit."
+
 Reply to Objection 2: In metaphorical speech we must not expect a likeness in all respects; for thus there would be not likeness but identity. Accordingly a natural head has not another head because one human body is not part of another; but a metaphorical body, i.e. an ordered multitude, is part of another multitude as the domestic multitude is part of the civil multitude; and hence the father who is head of the domestic multitude has a head above him, i.e. the civil governor. And hence there is no reason why God should not be the Head of Christ, although Christ Himself is Head of the Church.
+
 Reply to Objection 3: The head has a manifest pre-eminence over the other exterior members; but the heart has a certain hidden influence. And hence the Holy Ghost is likened to the heart, since He invisibly quickens and unifies the Church; but Christ is likened to the Head in His visible nature in which man is set over man.

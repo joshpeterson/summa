@@ -1,14 +1,27 @@
 # Whether Augustine Fittingly Defines Confession?
+
 ## Objections
+
 Objection 1: It would seem that Augustine defines confession unfittingly, when he says (Super Ps. 21) that confession "lays bare the hidden disease by the hope of pardon." For the disease against which confession is ordained, is sin. Now sin is sometimes manifest. Therefore it should not be said that confession is the remedy for a "hidden" disease.
+
 Objection 2: Further, the beginning of penance is fear. But confession is a part of Penance. Therefore fear rather than "hope" should be set down as the cause of confession.
+
 Objection 3: Further, that which is placed under a seal, is not laid bare, but closed up. But the sin which is confessed is placed under the seal of confession. Therefore sin is not laid bare in confession, but closed up.
+
 Objection 4: Further, other definitions are to be found differing from the above. For Gregory says (Hom. xl in Evang.) that confession is "the uncovering of sins, and the opening of the wound." Others say that "confession is a legal declaration of our sins in the presence of a priest." Others define it thus: "Confession is the sinner's sacramental self-accusation through shame for what he has done, which through the keys of the Church makes satisfaction for his sins, and binds him to perform the penance imposed on him." Therefore it seems that the definition in question is insufficient, since it does not include all that these include.
+
 ## Answer
 
+
+
 I answer that, Several things offer themselves to our notice in the act of confession: first, the very substance or genus of the act, which is a kind of manifestation; secondly, the matter manifested, viz. sin; thirdly, the person to whom the manifestation is made, viz. the priest; fourthly, its cause, viz. hope of pardon; fifthly, its effect, viz. release from part of the punishment, and the obligation to pay the other part. Accordingly the first definition, given by Augustine, indicates the substance of the act, by saying that "it lays bare"---the matter of confession, by saying that it is a "hidden disease"---its cause, which is "the hope of pardon"; while the other definitions include one or other of the five things aforesaid, as may be seen by anyone who considers the matter.
+
 ## Replies
+
 Reply to Objection 1: Although the priest, as a man, may sometimes have knowledge of the penitent's sin, yet he does not know it as a vicar of Christ (even as a judge sometimes knows a thing, as a man, of which he is ignorant, as a judge), and in this respect it is made known to him by confession. or we may reply that although the external act may be in the open, yet the internal act, which is the cause of the external act, is hidden; so that it needs to be revealed by confession.
+
 Reply to Objection 2: Confession presupposes charity, which gives us life, as stated in the text (Sent. iv, D, 17). Now it is in contrition that charity is given; while servile fear, which is void of hope, is previous to charity: yet he that has charity is moved more by hope than by fear. Hence hope rather than fear is set down as the cause of confession.
+
 Reply to Objection 3: In every confession sin is laid bare to the priest, and closed to others by the seal of confession.
+
 Reply to Objection 4: It is not necessary that every definition should include everything connected with the thing defined: and for this reason we find some definitions or descriptions that indicate one cause, and some that indicate another.

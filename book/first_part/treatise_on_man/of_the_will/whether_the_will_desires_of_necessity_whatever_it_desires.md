@@ -1,12 +1,23 @@
 # Whether The Will Desires Of Necessity, Whatever It Desires?
+
 ## Objections
+
 Objection 1: It would seem that the will desires all things of necessity, whatever it desires. For Dionysius says (Div. Nom. iv) that "evil is outside the scope of the will." Therefore the will tends of necessity to the good which is proposed to it.
+
 Objection 2: Further, the object of the will is compared to the will as the mover to the thing movable. But the movement of the movable necessarily follows the mover. Therefore it seems that the will's object moves it of necessity.
+
 Objection 3: Further, as the thing apprehended by sense is the object of the sensitive appetite, so the thing apprehended by the intellect is the object of the intellectual appetite, which is called the will. But what is apprehended by the sense moves the sensitive appetite of necessity: for Augustine says (Gen. ad lit. ix, 14) that "animals are moved by things seen." Therefore it seems that whatever is apprehended by the intellect moves the will of necessity.
+
 ## Answer
+
 On the contrary, Augustine says (Retract. i, 9) that "it is the will by which we sin and live well," and so the will extends to opposite things. Therefore it does not desire of necessity all things whatsoever it desires.
+
 I answer that, The will does not desire of necessity whatsoever it desires. In order to make this evident we must observe that as the intellect naturally and of necessity adheres to the first principles, so the will adheres to the last end, as we have said already [658](A[1]). Now there are some things intelligible which have not a necessary connection with the first principles; such as contingent propositions, the denial of which does not involve a denial of the first principles. And to such the intellect does not assent of necessity. But there are some propositions which have a necessary connection with the first principles: such as demonstrable conclusions, a denial of which involves a denial of the first principles. And to these the intellect assents of necessity, when once it is aware of the necessary connection of these conclusions with the principles; but it does not assent of necessity until through the demonstration it recognizes the necessity of such connection. It is the same with the will. For there are certain individual goods which have not a necessary connection with happiness, because without them a man can be happy: and to such the will does not adhere of necessity. But there are some things which have a necessary connection with happiness, by means of which things man adheres to God, in Whom alone true happiness consists. Nevertheless, until through the certitude of the Divine Vision the necessity of such connection be shown, the will does not adhere to God of necessity, nor to those things which are of God. But the will of the man who sees God in His essence of necessity adheres to God, just as now we desire of necessity to be happy. It is therefore clear that the will does not desire of necessity whatever it desires.
+
 ## Replies
+
 Reply to Objection 1: The will can tend to nothing except under the aspect of good. But because good is of many kinds, for this reason the will is not of necessity determined to one.
+
 Reply to Objection 2: The mover, then, of necessity causes movement in the thing movable, when the power of the mover exceeds the thing movable, so that its entire capacity is subject to the mover. But as the capacity of the will regards the universal and perfect good, its capacity is not subjected to any individual good. And therefore it is not of necessity moved by it.
+
 Reply to Objection 3: The sensitive power does not compare different things with each other, as reason does: but it simply apprehends some one thing. Therefore, according to that one thing, it moves the sensitive appetite in a determinate way. But the reason is a power that compares several things together: therefore from several things the intellectual appetite---that is, the will---may be moved; but not of necessity from one thing.

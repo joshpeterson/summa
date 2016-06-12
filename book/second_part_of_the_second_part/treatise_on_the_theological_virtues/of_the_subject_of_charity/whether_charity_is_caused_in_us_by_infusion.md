@@ -1,14 +1,25 @@
 # Whether Charity Is Caused In Us By Infusion?
+
 ## Objections
+
 Objection 1: It would seem that charity is not caused in us by infusion. For that which is common to all creatures, is in man naturally. Now, according to Dionysius (Div. Nom. iv), the "Divine good", which is the object of charity, "is for all an object of dilection and love." Therefore charity is in us naturally, and not by infusion.
+
 Objection 2: Further, the more lovable a thing is the easier it is to love it. Now God is supremely lovable, since He is supremely good. Therefore it is easier to love Him than other things. But we need no infused habit in order to love other things. Neither, therefore, do we need one in order to love God.
+
 Objection 3: Further, the Apostle says (1 Tim. 1:5): "The end of the commandment is charity from a pure heart, and a good conscience, and an unfeigned faith." Now these three have reference to human acts. Therefore charity is caused in us from preceding acts, and not from infusion.
+
 ## Answer
+
 On the contrary, The Apostle says (Rom. 5:5): "The charity of God is poured forth in our hearts by the Holy Ghost, Who is given to us."
+
 I answer that, As stated above ([2516]Q[23], A[1]), charity is a friendship of man for God, founded upon the fellowship of everlasting happiness. Now this fellowship is in respect, not of natural, but of gratuitous gifts, for, according to Rom. 6:23, "the grace of God is life everlasting": wherefore charity itself surpasses our natural facilities. Now that which surpasses the faculty of nature, cannot be natural or acquired by the natural powers, since a natural effect does not transcend its cause.
 
 Therefore charity can be in us neither naturally, nor through acquisition by the natural powers, but by the infusion of the Holy Ghost, Who is the love of the Father and the Son, and the participation of Whom in us is created charity, as stated above ([2517]Q[23], A[2]).
+
 ## Replies
+
 Reply to Objection 1: Dionysius is speaking of the love of God, which is founded on the fellowship of natural goods, wherefore it is in all naturally. On the other hand, charity is founded on a supernatural fellowship, so the comparison fails.
+
 Reply to Objection 2: Just as God is supremely knowable in Himself yet not to us, on account of a defect in our knowledge which depends on sensible things, so too, God is supremely lovable in Himself, in as much as He is the object of happiness. But He is not supremely lovable to us in this way, on account of the inclination of our appetite towards visible goods. Hence it is evident that for us to love God above all things in this way, it is necessary that charity be infused into our hearts.
+
 Reply to Objection 3: When it is said that in us charity proceeds from "a pure heart, and a good conscience, and an unfeigned faith," this must be referred to the act of charity which is aroused by these things. Or again, this is said because the aforesaid acts dispose man to receive the infusion of charity. The same remark applies to the saying of Augustine (Tract. ix in prim. canon. Joan.): "Fear leads to charity," and of a gloss on Mat. 1:2: "Faith begets hope, and hope charity."

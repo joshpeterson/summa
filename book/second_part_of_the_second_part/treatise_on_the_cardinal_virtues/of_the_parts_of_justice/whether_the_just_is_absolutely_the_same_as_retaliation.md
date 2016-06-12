@@ -1,14 +1,25 @@
 # Whether The Just Is Absolutely The Same As Retaliation?
+
 ## Objections
+
 Objection 1: It would seem that the just is absolutely the same as retaliation. For the judgment of God is absolutely just. Now the judgment of God is such that a man has to suffer in proportion with his deeds, according to Mat. 7:2: "With what measure you judge, you shall be judged: and with what measure you mete, it shall be measured to you again." Therefore the just is absolutely the same as retaliation.
+
 Objection 2: Further, in either kind of justice something is given to someone according to a kind of equality. In distributive justice this equality regards personal dignity, which would seem to depend chiefly on what a person has done for the good of the community; while in commutative justice it regards the thing in which a person has suffered loss. Now in respect of either equality there is retaliation in respect of the deed committed. Therefore it would seem that the just is absolutely the same as retaliation.
+
 Objection 3: Further, the chief argument against retaliation is based on the difference between the voluntary and the involuntary; for he who does an injury involuntarily is less severely punished. Now voluntary and involuntary taken in relation to ourselves, do not diversify the mean of justice since this is the real mean and does not depend on us. Therefore it would seem that the just is absolutely the same as retaliation.
+
 ## Answer
+
 On the contrary, The Philosopher proves (Ethic. v, 5) that the just is not always the same as retaliation.
+
 I answer that, Retaliation [contrapassum] denotes equal passion repaid for previous action; and the expression applies most properly to injurious passions and actions, whereby a man harms the person of his neighbor; for instance if a man strike, that he be struck back. This kind of just is laid down in the Law (Ex. 21:23,24): "He shall render life for life, eye for eye," etc. And since also to take away what belongs to another is to do an unjust thing, it follows that secondly retaliation consists in this also, that whosoever causes loss to another, should suffer loss in his belongings. This just loss is also found in the Law (Ex. 22:1): "If any man steal an ox or a sheep, and kill or sell it, he shall restore five oxen for one ox and four sheep for one sheep." Thirdly retaliation is transferred to voluntary commutations, where action and passion are on both sides, although voluntariness detracts from the nature of passion, as stated above ([2888]Q[59], A[3]).
 
 In all these cases, however, repayment must be made on a basis of equality according to the requirements of commutative justice, namely that the meed of passion be equal to the action. Now there would not always be equality if passion were in the same species as the action. Because, in the first place, when a person injures the person of one who is greater, the action surpasses any passion of the same species that he might undergo, wherefore he that strikes a prince, is not only struck back, but is much more severely punished. In like manner when a man despoils another of his property against the latter's will, the action surpasses the passion if he be merely deprived of that thing, because the man who caused another's loss, himself would lose nothing, and so he is punished by making restitution several times over, because not only did he injure a private individual, but also the common weal, the security of whose protection he has infringed. Nor again would there be equality of passion in voluntary commutations, were one always to exchange one's chattel for another man's, because it might happen that the other man's chattel is much greater than our own: so that it becomes necessary to equalize passion and action in commutations according to a certain proportionate commensuration, for which purpose money was invented. Hence retaliation is in accordance with commutative justice: but there is no place for it in distributive justice, because in distributive justice we do not consider the equality between thing and thing or between passion and action (whence the expression 'contrapassum'), but according to proportion between things and persons, as stated above [2889](A[2]).
+
 ## Replies
+
 Reply to Objection 1: This form of the Divine judgment is in accordance with the conditions of commutative justice, in so far as rewards are apportioned to merits, and punishments to sins.
+
 Reply to Objection 2: When a man who has served the community is paid for his services, this is to be referred to commutative, not distributive, justice. Because distributive justice considers the equality, not between the thing received and the thing done, but between the thing received by one person and the thing received by another according to the respective conditions of those persons.
+
 Reply to Objection 3: When the injurious action is voluntary, the injury is aggravated and consequently is considered as a greater thing. Hence it requires a greater punishment in repayment, by reason of a difference, not on part, but on the part of the thing.

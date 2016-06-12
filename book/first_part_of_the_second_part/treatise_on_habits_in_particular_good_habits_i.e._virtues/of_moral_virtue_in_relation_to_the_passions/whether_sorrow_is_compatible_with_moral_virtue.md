@@ -1,10 +1,17 @@
 # Whether Sorrow Is Compatible With Moral Virtue?
+
 ## Objections
+
 Objection 1: It would seem that sorrow is incompatible with virtue. Because the virtues are effects of wisdom, according to Wis. 8:7: "She," i.e. Divine wisdom, "teacheth temperance, and prudence, and justice, and fortitude." Now the "conversation" of wisdom "hath no bitterness," as we read further on (verse 16). Therefore sorrow is incompatible with virtue also.
+
 Objection 2: Further, sorrow is a hindrance to work, as the Philosopher states (Ethic. vii, 13; x, 5). But a hindrance to good works is incompatible with virtue. Therefore sorrow is incompatible with virtue.
+
 Objection 3: Further, Tully calls sorrow a disease of the mind (De Tusc. Quaest. iv). But disease of the mind is incompatible with virtue, which is a good condition of the mind. Therefore sorrow is opposed to virtue and is incompatible with it.
+
 ## Answer
+
 On the contrary, Christ was perfect in virtue. But there was sorrow in Him, for He said (Mat. 26:38): "My soul is sorrowful even unto death." Therefore sorrow is compatible with virtue.
+
 I answer that, As Augustine says (De Civ. Dei xiv, 8), the Stoics held that in the mind of the wise man there are three {eupatheiai}, i.e. "three good passions," in place of the three disturbances: viz. instead of covetousness, "desire"; instead of mirth, "joy"; instead of fear, "caution." But they denied that anything corresponding to sorrow could be in the mind of a wise man, for two reasons.
 
 First, because sorrow is for an evil that is already present. Now they held that no evil can happen to a wise man: for they thought that, just as man's only good is virtue, and bodily goods are no good to man; so man's only evil is vice, which cannot be in a virtuous man. But this is unreasonable. For, since man is composed of soul and body, whatever conduces to preserve the life of the body, is some good to man; yet not his supreme good, because he can abuse it. Consequently the evil which is contrary to this good can be in a wise man, and can cause him moderate sorrow. Again, although a virtuous man can be without grave sin, yet no man is to be found to live without committing slight sins, according to 1 Jn. 1:8: "If we say that we have no sin, we deceive ourselves." A third reason is because a virtuous man, though not actually in a state of sin, may have been so in the past. And he is to be commended if he sorrow for that sin, according to 2 Cor. 7:10: "The sorrow that is according to God worketh penance steadfast unto salvation." Fourthly, because he may praiseworthily sorrow for another's sin. Therefore sorrow is compatible with moral virtue in the same way as the other passions are when moderated by reason.
@@ -12,7 +19,11 @@ First, because sorrow is for an evil that is already present. Now they held that
 Their second reason for holding this opinion was that sorrow is about evil present, whereas fear is for evil to come: even as pleasure is about a present good, while desire is for a future good. Now the enjoyment of a good possessed, or the desire to have good that one possesses not, may be consistent with virtue: but depression of the mind resulting from sorrow for a present evil, is altogether contrary to reason: wherefore it is incompatible with virtue. But this is unreasonable. For there is an evil which can be present to the virtuous man, as we have just stated; which evil is rejected by reason. Wherefore the sensitive appetite follows reason's rejection by sorrowing for that evil; yet moderately, according as reason dictates. Now it pertains to virtue that the sensitive appetite be conformed to reason, as stated above (A[1], ad 2). Wherefore moderated sorrow for an object which ought to make us sorrowful, is a mark of virtue; as also the Philosopher says (Ethic. ii, 6,7). Moreover, this proves useful for avoiding evil: since, just as good is more readily sought for the sake of pleasure, so is evil more undauntedly shunned on account of sorrow.
 
 Accordingly we must allow that sorrow for things pertaining to virtue is incompatible with virtue: since virtue rejoices in its own. On the other hand, virtue sorrows moderately for all that thwarts virtue, no matter how.
+
 ## Replies
+
 Reply to Objection 1: The passage quoted proves that the wise man is not made sorrowful by wisdom. Yet he sorrows for anything that hinders wisdom. Consequently there is no room for sorrow in the blessed, in whom there can be no hindrance to wisdom.
+
 Reply to Objection 2: Sorrow hinders the work that makes us sorrowful: but it helps us to do more readily whatever banishes sorrow.
+
 Reply to Objection 3: Immoderate sorrow is a disease of the mind: but moderate sorrow is the mark of a well-conditioned mind, according to the present state of life.

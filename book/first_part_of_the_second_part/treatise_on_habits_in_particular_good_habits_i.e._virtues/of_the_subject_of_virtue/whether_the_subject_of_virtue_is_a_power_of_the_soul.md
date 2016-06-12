@@ -1,12 +1,23 @@
 # Whether The Subject Of Virtue Is A Power Of The Soul?
+
 ## Objections
+
 Objection 1: It would seem that the subject of virtue is not a power of the soul. For Augustine says (De Lib. Arb. ii, 19) that "virtue is that by which we live righteously." But we live by the essence of the soul, and not by a power of the soul. Therefore virtue is not a power, but in the essence of the soul.
+
 Objection 2: Further, the Philosopher says (Ethic. ii, 6) that "virtue is that which makes its possessor good, and his work good likewise." But as work is set up by power, so he that has a virtue is set up by the essence of the soul. Therefore virtue does not belong to the power, any more than to the essence of the soul.
+
 Objection 3: Further, power is in the second species of quality. But virtue is a quality, as we have said above ([1502]Q[55], A[4]): and quality is not the subject of quality. Therefore a power of the soul is not the subject of virtue.
+
 ## Answer
+
 On the contrary, "Virtue is the limit of power" (De Coelo ii). But the limit is in that of which it is the limit. Therefore virtue is in a power of the soul.
+
 I answer that, It can be proved in three ways that virtue belongs to a power of the soul. First, from the notion of the very essence of virtue, which implies perfection of a power; for perfection is in that which it perfects. Secondly, from the fact that virtue is an operative habit, as we have said above ([1503]Q[55], A[2]): for all operation proceeds from the soul through a power. Thirdly, from the fact that virtue disposes to that which is best: for the best is the end, which is either a thing's operation, or something acquired by an operation proceeding from the thing's power. Therefore a power of the soul is the subject of virtue.
+
 ## Replies
+
 Reply to Objection 1: "To live" may be taken in two ways. Sometimes it is taken for the very existence of the living thing: in this way it belongs to the essence of the soul, which is the principle of existence in the living thing. But sometimes "to live" is taken for the operation of the living thing: in this sense, by virtue we live righteously, inasmuch as by virtue we perform righteous actions.
+
 Reply to Objection 2: Good is either the end, or something referred to the end. And therefore, since the good of the worker consists in the work, this fact also, that virtue makes the worker good, is referred to the work, and consequently, to the power.
+
 Reply to Objection 3: One accident is said to be the subject of another, not as though one accident could uphold another; but because one accident inheres to substance by means of another, as color to the body by means of the surface; so that surface is said to be the subject of color. In this way a power of the soul is said to be the subject of virtue.

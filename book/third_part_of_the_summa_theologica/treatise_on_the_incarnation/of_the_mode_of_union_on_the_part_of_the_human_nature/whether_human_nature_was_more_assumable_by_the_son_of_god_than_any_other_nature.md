@@ -1,14 +1,27 @@
 # Whether Human Nature Was More Assumable By The Son Of God Than Any Other Nature?
+
 ## Objections
+
 Objection 1: It would seem that human nature is not more capable of being assumed by the Son of God than any other nature. For Augustine says (Ep. ad Volusianum cxxxvii): "In deeds wrought miraculously the whole reason of the deed is the power of the doer." Now the power of God Who wrought the Incarnation, which is a most miraculous work, is not limited to one nature, since the power of God is infinite. Therefore human nature is not more capable of being assumed than any other creature.
+
 Objection 2: Further, likeness is the foundation of the fittingness of the Incarnation of the Divine Person, as above stated ([3896]Q[3], A[8]). But as in rational creatures we find the likeness of image, so in irrational creatures we find the image of trace. Therefore the irrational creature was as capable of assumption as human nature.
+
 Objection 3: Further, in the angelic nature we find a more perfect likeness than in human nature, as Gregory says: (Hom. de Cent. Ovib.; xxxiv in Ev.), where he introduces Ezech. 28:12: "Thou wast the seal of resemblance." And sin is found in angels, even as in man, according to Job 4:18: "And in His angels He found wickedness." Therefore the angelic nature was as capable of assumption as the nature of man.
+
 Objection 4: Further, since the highest perfection belongs to God, the more like to God a thing is, the more perfect it is. But the whole universe is more perfect than its parts, amongst which is human nature. Therefore the whole universe is more capable of being assumed than human nature.
+
 ## Answer
+
 On the contrary, It is said (Prov. 8:31) by the mouth of Begotten Wisdom: "My delights were to be with the children of men"; and hence there would seem some fitness in the union of the Son of God with human nature.
+
 I answer that, A thing is said to be assumable as being capable of being assumed by a Divine Person, and this capability cannot be taken with reference to the natural passive power, which does not extend to what transcends the natural order, as the personal union of a creature with God transcends it. Hence it follows that a thing is said to be assumable according to some fitness for such a union. Now this fitness in human nature may be taken from two things, viz. according to its dignity, and according to its need. According to its dignity, because human nature, as being rational and intellectual, was made for attaining to the Word to some extent by its operation, viz. by knowing and loving Him. According to its need---because it stood in need of restoration, having fallen under original sin. Now these two things belong to human nature alone. For in the irrational creature the fitness of dignity is wanting, and in the angelic nature the aforesaid fitness of need is wanting. Hence it follows that only human nature was assumable.
+
 ## Replies
+
 Reply to Objection 1: Creatures are said to be "such" with reference to their proper causes, not with reference to what belongs to them from their first and universal causes; thus we call a disease incurable, not that it cannot be cured by God, but that it cannot be cured by the proper principles of the subject. Therefore a creature is said to be not assumable, not as if we withdrew anything from the power of God, but in order to show the condition of the creature, which has no capability for this.
+
 Reply to Objection 2: The likeness of image is found in human nature, forasmuch as it is capable of God, viz. by attaining to Him through its own operation of knowledge and love. But the likeness of trace regards only a representation by Divine impression, existing in the creature, and does not imply that the irrational creature, in which such a likeness is, can attain to God by its own operation alone. For what does not come up to the less, has no fitness for the greater; as a body which is not fitted to be perfected by a sensitive soul is much less fitted for an intellectual soul. Now much greater and more perfect is the union with God in personal being than the union by operation. And hence the irrational creature which falls short of the union with God by operation has no fitness to be united with Him in personal being.
+
 Reply to Objection 3: Some say that angels are not assumable, since they are perfect in their personality from the beginning of their creation, inasmuch as they are not subject to generation and corruption; hence they cannot be assumed to the unity of a Divine Person, unless their personality be destroyed, and this does not befit the incorruptibility of their nature nor the goodness of the one assuming, to Whom it does not belong to corrupt any perfection in the creature assumed. But this would not seem totally to disprove the fitness of the angelic nature for being assumed. For God by producing a new angelic nature could join it to Himself in unity of Person, and in this way nothing pre-existing would be corrupted in it. But as was said above, there is wanting the fitness of need, because, although the angelic nature in some is the subject of sin, their sin is irremediable, as stated above ([3897]FP, Q[64], A[2]).
+
 Reply to Objection 4: The perfection of the universe is not the perfection of one person or suppositum, but of something which is one by position or order, whereof very many parts are not capable of assumption, as was said above. Hence it follows that only human nature is capable of being assumed.

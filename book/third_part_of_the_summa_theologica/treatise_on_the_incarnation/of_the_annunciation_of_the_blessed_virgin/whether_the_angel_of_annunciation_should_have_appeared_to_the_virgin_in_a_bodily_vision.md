@@ -1,16 +1,27 @@
 # Whether The Angel Of Annunciation Should Have Appeared To The Virgin In A Bodily Vision?
+
 ## Objections
+
 Objection 1: It would seem that the angel of the Annunciation should not have appeared to the Virgin in a bodily vision. For "intellectual vision is more excellent than bodily vision," as Augustine says (Gen. ad lit. xii), and especially more becoming to an angel: since by intellectual vision an angel is seen in his substance; whereas in a bodily vision he is seen in the bodily shape which he assumes. Now since it behooved a sublime messenger to come to announce the Divine Conception, so, seemingly, he should have appeared in the most excellent kind of vision. Therefore it seems that the angel of the Annunciation appeared to the Virgin in an intellectual vision.
+
 Objection 2: Further, imaginary vision also seems to excel bodily vision: just as the imagination is a higher power than the senses. But "the angel . . . appeared to Joseph in his sleep" (Mat. 1:20), which was clearly an imaginary vision. Therefore it seems that he should have appeared to the Blessed Virgin also in an imaginary vision.
+
 Objection 3: Further, the bodily vision of a spiritual substance stupefies the beholder; thus we sing of the Virgin herself: "And the Virgin seeing the light was filled with fear" [*Feast of Annunciation, B.V.M. ii Resp. Brev. O.P.]. But it was better that her mind should be preserved from being thus troubled. Therefore it was not fitting that this announcement should be made in a bodily vision.
+
 ## Answer
+
 On the contrary, Augustine in a sermon (De Annunt. iii) pictures the Blessed Virgin as speaking thus: "To me came the archangel Gabriel with glowing countenance, gleaming robe, and wondrous step." But these cannot pertain to other than bodily vision. Therefore the angel of the Annunciation appeared in a bodily vision to the Blessed Virgin.
+
 I answer that, The angel of the Annunciation appeared in a bodily vision to the Blessed Virgin. And this indeed was fitting, first in regard to that which was announced. For the angel came to announce the Incarnation of the invisible God. Wherefore it was becoming that, in order to make this known, an invisible creature should assume a form in which to appear visibly: forasmuch as all the apparitions of the Old Testament are ordered to that apparition in which the Son of God appeared in the flesh.
 
 Secondly, it was fitting as regards the dignity of the Mother of God, who was to receive the Son of God not only in her mind, but in her bodily womb. Therefore it behooved not only her mind, but also her bodily senses to be refreshed by the angelic vision.
 
 Thirdly, it is in keeping with the certainty of that which was announced. For we apprehend with greater certainty that which is before our eyes, than what is in our imagination. Thus Chrysostom says (Hom. iv in Matth.) that the angel "came to the Virgin not in her sleep, but visibly. For since she was receiving from the angel a message exceeding great, before such an event she needed a vision of great solemnity."
+
 ## Replies
+
 Reply to Objection 1: Intellectual vision excels merely imaginary and merely bodily vision. But Augustine himself says (De Annunt. iii) that prophecy is more excellent if accompanied by intellectual and imaginary vision, than if accompanied by only one of them. Now the Blessed Virgin perceived not only the bodily vision, but also the intellectual illumination. Wherefore this was a more excellent vision. Yet it would have been more excellent if she had perceived the angel himself in his substance by her intellectual vision. But it was incompatible with her state of wayfarer that she should see an angel in his essence.
+
 Reply to Objection 2: The imagination is indeed a higher power than the exterior sense: but because the senses are the principle of human knowledge, the greatest certainty is in them, for the principles of knowledge must needs always be most certain. Consequently Joseph, to whom the angel appeared in his sleep, did not have so excellent a vision as the Blessed Virgin.
+
 Reply to Objection 3: As Ambrose says on Lk. 1:11: "We are disturbed, and lose our presence of mind, when we are confronted by the presence of a superior power." And this happens not only in bodily, but also in imaginary vision. Wherefore it is written (Gn. 15:12) that "when the sun was setting, a deep sleep fell upon Abram, and a great and darksome horror seized upon him." But by being thus disturbed man is not harmed to such an extent that therefore he ought to forego the vision of an angel. First because from the very fact that man is raised above himself, in which matter his dignity is concerned, his inferior powers are weakened; and from this results the aforesaid disturbance: thus, also, when the natural heat is drawn within a body, the exterior parts tremble. Secondly, because, as Origen says (Hom. iv in Luc.): "The angel who appeared, knowing hers was a human nature, first sought to remedy the disturbance of mind to which a man is subject." Wherefore both to Zachary and to Mary, as soon as they were disturbed, he said: "Fear not." For this reason, as we read in the life of Anthony, "it is difficult to discern good from evil spirits. For if joy succeed fear, we should know that the help is from the Lord: because security of soul is a sign of present majesty. But if the fear with which we are stricken persevere, it is an enemy that we see."

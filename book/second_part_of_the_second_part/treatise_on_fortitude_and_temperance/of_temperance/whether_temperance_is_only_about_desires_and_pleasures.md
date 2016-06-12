@@ -1,10 +1,17 @@
 # Whether Temperance Is Only About Desires And Pleasures?
+
 ## Objections
+
 Objection 1: It would seem that temperance is not only about desires and pleasures. For Tully says (De Invent. Rhet. ii, 54) that "temperance is reason's firm and moderate mastery of lust and other wanton emotions of the mind." Now all the passions of the soul are called emotions of the mind. Therefore it seems that temperance is not only about desires and pleasures.
+
 Objection 2: Further, "Virtue is about the difficult and the good" [*Ethic. ii, 3]. Now it seems more difficult to temper fear, especially with regard to dangers of death, than to moderate desires and pleasures, which are despised on account of deadly pains and dangers, according to Augustine (QQ[83], qu. 36). Therefore it seems that the virtue of temperance is not chiefly about desires and pleasures.
+
 Objection 3: Further, according to Ambrose (De Offic. i, 43) "the grace of moderation belongs to temperance": and Tully says (De Offic. ii, 27) that "it is the concern of temperance to calm all disturbances of the mind and to enforce moderation." Now moderation is needed, not only in desires and pleasures, but also in external acts and whatever pertains to the exterior. Therefore temperance is not only about desires and pleasures.
+
 ## Answer
+
 On the contrary, Isidore says (Etym.) [*The words quoted do not occur in the work referred to; Cf. his De Summo Bono xxxvii, xlii, and De Different. ii, 39]: that "it is temperance whereby lust and desire are kept under control."
+
 I answer that, As stated above (Q[123], A[12]; Q[136], A[1]), it belongs to moral virtue to safeguard the good of reason against the passions that rebel against reason. Now the movement of the soul's passions is twofold, as stated above ([3437]FS, Q[23], A[2]), when we were treating of the passions: the one, whereby the sensitive appetite pursues sensible and bodily goods, the other whereby it flies from sensible and bodily evils.
 
 The first of these movements of the sensitive appetite rebels against reason chiefly by lack of moderation. Because sensible and bodily goods, considered in their species, are not in opposition to reason, but are subject to it as instruments which reason employs in order to attain its proper end: and that they are opposed to reason is owing to the fact that the sensitive appetite fails to tend towards them in accord with the mode of reason. Hence it belongs properly to moral virtue to moderate those passions which denote a pursuit of the good.
@@ -12,7 +19,11 @@ The first of these movements of the sensitive appetite rebels against reason chi
 On the other hand, the movement of the sensitive appetite in flying from sensible evil is mostly in opposition to reason, not through being immoderate, but chiefly in respect of its flight: because, when a man flies from sensible and bodily evils, which sometimes accompany the good of reason, the result is that he flies from the good of reason. Hence it belongs to moral virtue to make man while flying from evil to remain firm in the good of reason.
 
 Accordingly, just as the virtue of fortitude, which by its very nature bestows firmness, is chiefly concerned with the passion, viz. fear, which regards flight from bodily evils, and consequently with daring, which attacks the objects of fear in the hope of attaining some good, so, too, temperance, which denotes a kind of moderation, is chiefly concerned with those passions that tend towards sensible goods, viz. desire and pleasure, and consequently with the sorrows that arise from the absence of those pleasures. For just as daring presupposes objects of fear, so too such like sorrow arises from the absence of the aforesaid pleasures.
+
 ## Replies
+
 Reply to Objection 1: As stated above ([3438]FS, Q[23], AA[1],2; [3439]FS, Q[25], A[1]), when we were treating of the passions, those passions which pertain to avoidance of evil, presuppose the passions pertaining to the pursuit of good; and the passions of the irascible presuppose the passions of the concupiscible. Hence, while temperance directly moderates the passions of the concupiscible which tend towards good, as a consequence, it moderates all the other passions, inasmuch as moderation of the passions that precede results in moderation of the passions that follow: since he that is not immoderate in desire is moderate in hope, and grieves moderately for the absence of the things he desires.
+
 Reply to Objection 2: Desire denotes an impulse of the appetite towards the object of pleasure and this impulse needs control, which belongs to temperance. on the other hand fear denotes a withdrawal of the mind from certain evils, against which man needs firmness of mind, which fortitude bestows. Hence temperance is properly about desires, and fortitude about fears.
+
 Reply to Objection 3: External acts proceed from the internal passions of the soul: wherefore their moderation depends on the moderation of the internal passions.

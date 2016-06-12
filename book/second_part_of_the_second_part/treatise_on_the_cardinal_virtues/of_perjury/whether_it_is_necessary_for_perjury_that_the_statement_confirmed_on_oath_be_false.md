@@ -1,12 +1,23 @@
 # Whether It Is Necessary For Perjury That The Statement Confirmed On Oath Be False?
+
 ## Objections
+
 Objection 1: It would seem that it is not necessary for perjury that the statement confirmed on oath be false. As stated above ([3130]Q[89], A[3]), an oath should be accompanied by judgment and justice no less than by truth. Since therefore perjury is incurred through lack of truth, it is incurred likewise through lack of judgment, as when one swears indiscreetly, and through lack of justice, as when one swears to something unjust.
+
 Objection 2: Further, that which confirms is more weighty than the thing confirmed thereby: thus in a syllogism the premises are more weighty than the conclusion. Now in an oath a man's statement is confirmed by calling on the name of God. Therefore perjury seems to consist in swearing by false gods rather than in a lack of truth in the human statement which is confirmed on oath.
+
 Objection 3: Further, Augustine says (De Verb. Apost. Jacobi; Serm. clxxx): "Men swear falsely both in deceiving others and when they are deceived themselves"; and he gives three examples. The first is: "Supposing a man to swear, thinking that what he swears to is true, whereas it is false"; the second is: "Take the instance of another who knows the statement to be false, and swears to it as though it were true"; and the third is: "Take another, who thinks his statement false, and swears to its being true, while perhaps it is true," of whom he says afterwards that he is a perjurer. Therefore one may be a perjurer while swearing to the truth. Therefore falsehood is not necessary for perjury.
+
 ## Answer
+
 On the contrary, Perjury is defined "a falsehood confirmed by oath" [*Hugh of St. Victor, Sum. Sent. iv, 5].
+
 I answer that, As stated above ([3131]Q[92], A[2]), moral acts take their species from their end. Now the end of an oath is the confirmation of a human assertion. To this confirmation falsehood is opposed: since an assertion is confirmed by being firmly shown to be true; and this cannot happen to that which is false. Hence falsehood directly annuls the end of an oath: and for this reason, that perversity in swearing, which is called perjury, takes its species chiefly from falsehood. Consequently falsehood is essential to perjury.
+
 ## Replies
+
 Reply to Objection 1: As Jerome says on Jer. 4:2, "whichever of these three be lacking, there is perjury," but in different order. For first and chiefly perjury consists in a lack of truth, for the reason stated in the Article. Secondly, there is perjury when justice is lacking, for in whatever way a man swears to that which is unlawful, for this very reason he is guilty of falsehood, since he is under an obligation to do the contrary. Thirdly, there is perjury when judgment is lacking, since by the very fact that a man swears indiscreetly, he incurs the danger of lapsing into falsehood.
+
 Reply to Objection 2: In syllogisms the premises are of greater weight, since they are in the position of active principle, as stated in Phys. ii, 3: whereas in moral matters the end is of greater importance than the active principle. Hence though it is a perverse oath when a man swears to the truth by false gods, yet perjury takes its name from that kind of perversity in an oath, that deprives the oath of its end, by swearing what is false.
+
 Reply to Objection 3: Moral acts proceed from the will, whose object is the apprehended good. Wherefore if the false be apprehended as true, it will be materially false, but formally true, as related to the will. If something false be apprehended as false, it will be false both materially and formally. If that which is true be apprehended as false, it will be materially true, and formally false. Hence in each of these cases the conditions required for perjury are to be found in some way, on account of some measure of falsehood. Since, however, that which is formal in anything is of greater importance than that which is material, he that swears to a falsehood thinking it true is not so much of a perjurer as he that swears to the truth thinking it false. For Augustine says (De Verb. Apost. Jacobi; Serm. clxxx): "It depends how the assertion proceeds from the mind, for the tongue is not guilty except the mind be guilty."

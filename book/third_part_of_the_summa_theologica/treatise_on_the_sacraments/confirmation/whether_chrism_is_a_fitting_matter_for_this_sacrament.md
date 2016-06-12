@@ -1,14 +1,27 @@
 # Whether Chrism Is A Fitting Matter For This Sacrament?
+
 ## Objections
+
 Objection 1: It seems that chrism is not a fitting matter for this sacrament. For this sacrament, as stated above (A[1], ad 1), was instituted by Christ when He promised His disciples the Holy Ghost. But He sent them the Holy Ghost without their being anointed with chrism. Moreover, the apostles themselves bestowed this sacrament without chrism, by the mere imposition of hands: for it is written (Acts 8:17) that the apostles "laid their hands upon" those who were baptized, "and they received the Holy Ghost." Therefore chrism is not the matter of this sacrament: since the matter is essential to the sacrament.
+
 Objection 2: Further, Confirmation perfects, in a way, the sacrament of Baptism, as stated above ([4482]Q[65], AA[3],4): and so it ought to be conformed to it as perfection to the thing perfected. But the matter, in Baptism, is a simple element, viz. water. Therefore chrism, which is made of oil and balm, is not a fitting matter for this sacrament.
+
 Objection 3: Further, oil is used as the matter of this sacrament for the purpose of anointing. But any oil will do for anointing: for instance, oil made from nuts, and from anything else. Therefore not only olive oil should be used for this sacrament.
+
 Objection 4: Further, it has been stated above ([4483]Q[66], A[3]) that water is used as the matter of Baptism, because it is easily procured everywhere. But olive oil is not to be procured everywhere; and much less is balm. Therefore chrism, which is made of these, is not a fitting matter for this sacrament.
+
 ## Answer
+
 On the contrary, Gregory says (Registr. iv): "Let no priest dare to sign the baptized infants on the brow with the sacred chrism." Therefore chrism is the matter of this sacrament.
+
 I answer that, Chrism is the fitting matter of this sacrament. For, as stated above [4484](A[1]), in this sacrament the fulness of the Holy Ghost is given for the spiritual strength which belongs to the perfect age. Now when man comes to perfect age he begins at once to have intercourse with others; whereas until then he lives an individual life, as it were, confined to himself. Now the grace of the Holy Ghost is signified by oil; hence Christ is said to be "anointed with the oil of gladness" (Ps. 44:8), by reason of His being gifted with the fulness of the Holy Ghost. Consequently oil is a suitable matter of this sacrament. And balm is mixed with the oil, by reason of its fragrant odor, which spreads about: hence the Apostle says (2 Cor. 2:15): "We are the good odor of Christ," etc. And though many other things be fragrant, yet preference is given to balm, because it has a special odor of its own, and because it confers incorruptibility: hence it is written (Ecclus. 24:21): "My odor is as the purest balm."
+
 ## Replies
+
 Reply to Objection 1: Christ, by the power which He exercises in the sacraments, bestowed on the apostles the reality of this sacrament, i.e. the fulness of the Holy Ghost, without the sacrament itself, because they had received "the first fruits of the Spirit" (Rom. 8:23). Nevertheless, something of keeping with the matter of this sacrament was displayed to the apostles in a sensible manner when they received the Holy Ghost. For that the Holy Ghost came down upon them in a sensible manner under the form of fire, refers to the same signification as oil: except in so far as fire has an active power, while oil has a passive power, as being the matter and incentive of fire. And this was quite fitting: for it was through the apostles that the grace of the Holy Ghost was to flow forth to others. Again, the Holy Ghost came down on the apostles in the shape of a tongue. Which refers to the same signification as balm: except in so far as the tongue communicates with others by speech, but balm, by its odor. because, to wit, the apostles were filled with the Holy Ghost, as teachers of the Faith; but the rest of the believers, as doing that which gives edification to the faithful.
+
 Reply to Objection 2: Baptism is bestowed that spiritual life may be received simply; wherefore simple matter is fitting to it. But this sacrament is given that we may receive the fulness of the Holy Ghost, Whose operations are manifold, according to Wis. 7:22, "In her is the" Holy "Spirit . . . one, manifold"; and 1 Cor. 12:4, "There are diversities of graces, but the same Spirit." Consequently a compound matter is appropriate to this sacrament.
+
 Reply to Objection 3: These properties of oil, by reason of which it symbolizes the Holy Ghost, are to be found in olive oil rather than in any other oil. In fact, the olive-tree itself, through being an evergreen, signifies the refreshing and merciful operation of the Holy Ghost.
+
 Reply to Objection 4: Baptism is the sacrament of absolute necessity; and so its matter should be at hand everywhere. But it is enough that the matter of this sacrament, which is not of such great necessity, be easily sent to all parts of the world.

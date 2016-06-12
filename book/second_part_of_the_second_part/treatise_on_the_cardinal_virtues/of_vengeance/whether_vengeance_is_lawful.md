@@ -1,18 +1,33 @@
 # Whether Vengeance Is Lawful?
+
 ## Objections
+
 Objection 1: It seems that vengeance is not lawful. For whoever usurps what is God's sins. But vengeance belongs to God, for it is written (Dt. 32:35, Rom. 12:19): "Revenge to Me, and I will repay." Therefore all vengeance is unlawful.
+
 Objection 2: Further, he that takes vengeance on a man does not bear with him. But we ought to bear with the wicked, for a gloss on Cant 2:2, "As the lily among the thorns," says: "He is not a good man that cannot bear with a wicked one." Therefore we should not take vengeance on the wicked.
+
 Objection 3: Further, vengeance is taken by inflicting punishment, which is the cause of servile fear. But the New Law is not a law of fear, but of love, as Augustine states (Contra Adamant. xvii). Therefore at least in the New Testament all vengeance is unlawful.
+
 Objection 4: Further, a man is said to avenge himself when he takes revenge for wrongs inflicted on himself. But, seemingly, it is unlawful even for a judge to punish those who have wronged him: for Chrysostom [*Cf. Opus Imperfectum, Hom. v in Matth., falsely ascribed to St. Chrysostom] says: "Let us learn after Christ's example to bear our own wrongs with magnanimity, yet not to suffer God's wrongs, not even by listening to them." Therefore vengeance seems to be unlawful.
+
 Objection 5: Further, the sin of a multitude is more harmful than the sin of only one: for it is written (Ecclus. 26:5-7): "Of three things my heart hath been afraid . . . the accusation of a city, and the gathering together of the people, and a false calumny." But vengeance should not be taken on the sin of a multitude, for a gloss on Mat. 13:29,30, "Lest perhaps . . . you root up the wheat . . . suffer both to grow," says that "a multitude should not be excommunicated, nor should the sovereign." Neither therefore is any other vengeance lawful.
+
 ## Answer
+
 On the contrary, We should look to God for nothing save what is good and lawful. But we are to look to God for vengeance on His enemies: for it is written (Lk. 18:7): "Will not God revenge His elect who cry to Him day and night?" as if to say: "He will indeed." Therefore vengeance is not essentially evil and unlawful.
+
 I answer that, Vengeance consists in the infliction of a penal evil on one who has sinned. Accordingly, in the matter of vengeance, we must consider the mind of the avenger. For if his intention is directed chiefly to the evil of the person on whom he takes vengeance and rests there, then his vengeance is altogether unlawful: because to take pleasure in another's evil belongs to hatred, which is contrary to the charity whereby we are bound to love all men. Nor is it an excuse that he intends the evil of one who has unjustly inflicted evil on him, as neither is a man excused for hating one that hates him: for a man may not sin against another just because the latter has already sinned against him, since this is to be overcome by evil, which was forbidden by the Apostle, who says (Rom. 12:21): "Be not overcome by evil, but overcome evil by good."
 
 If, however, the avenger's intention be directed chiefly to some good, to be obtained by means of the punishment of the person who has sinned (for instance that the sinner may amend, or at least that he may be restrained and others be not disturbed, that justice may be upheld, and God honored), then vengeance may be lawful, provided other due circumstances be observed.
+
 ## Replies
+
 Reply to Objection 1: He who takes vengeance on the wicked in keeping with his rank and position does not usurp what belongs to God but makes use of the power granted him by God. For it is written (Rom. 13:4) of the earthly prince that "he is God's minister, an avenger to execute wrath upon him that doeth evil." If, however, a man takes vengeance outside the order of divine appointment, he usurps what is God's and therefore sins.
+
 Reply to Objection 2: The good bear with the wicked by enduring patiently, and in due manner, the wrongs they themselves receive from them: but they do not bear with them as to endure the wrongs they inflict on God and their neighbor. For Chrysostom [*Cf. Opus Imperfectum, Hom. v in Matth., falsely ascribed to St. Chrysostom] says: "It is praiseworthy to be patient under our own wrongs, but to overlook God's wrongs is most wicked."
+
 Reply to Objection 3: The law of the Gospel is the law of love, and therefore those who do good out of love, and who alone properly belong to the Gospel, ought not to be terrorized by means of punishment, but only those who are not moved by love to do good, and who, though they belong to the Church outwardly, do not belong to it in merit.
+
 Reply to Objection 4: Sometimes a wrong done to a person reflects on God and the Church: and then it is the duty of that person to avenge the wrong. For example, Elias made fire descend on those who were come to seize him (4 Kings 1); likewise Eliseus cursed the boys that mocked him (4 Kings 2); and Pope Sylverius excommunicated those who sent him into exile (XXIII, Q. iv, Cap. Guilisarius). But in so far as the wrong inflicted on a man affects his person, he should bear it patiently if this be expedient. For these precepts of patience are to be understood as referring to preparedness of the mind, as Augustine states (De Serm. Dom. in Monte i).
+
 Reply to Objection 5: When the whole multitude sins, vengeance must be taken on them, either in respect of the whole multitude---thus the Egyptians were drowned in the Red Sea while they were pursuing the children of Israel (Ex. 14), and the people of Sodom were entirely destroyed (Gn. 19)---or as regards part of the multitude, as may be seen in the punishment of those who worshipped the calf.

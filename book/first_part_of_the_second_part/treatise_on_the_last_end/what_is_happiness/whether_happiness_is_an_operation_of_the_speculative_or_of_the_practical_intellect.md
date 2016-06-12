@@ -1,10 +1,17 @@
 # Whether Happiness Is An Operation Of The Speculative, Or Of The Practical Intellect?
+
 ## Objections
+
 Objection 1: It would seem that happiness is an operation of the practical intellect. For the end of every creature consists in becoming like God. But man is like God, by his practical intellect, which is the cause of things understood, rather than by his speculative intellect, which derives its knowledge from things. Therefore man's happiness consists in an operation of the practical intellect rather than of the speculative.
+
 Objection 2: Further, happiness is man's perfect good. But the practical intellect is ordained to the good rather than the speculative intellect, which is ordained to the true. Hence we are said to be good, in reference to the perfection of the practical intellect, but not in reference to the perfection of the speculative intellect, according to which we are said to be knowing or understanding. Therefore man's happiness consists in an act of the practical intellect rather than of the speculative.
+
 Objection 3: Further, happiness is a good of man himself. But the speculative intellect is more concerned with things outside man; whereas the practical intellect is concerned with things belonging to man himself, viz. his operations and passions. Therefore man's happiness consists in an operation of the practical intellect rather than of the speculative.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. i, 8) that "contemplation is promised us, as being the goal of all our actions, and the everlasting perfection of our joys."
+
 I answer that, Happiness consists in an operation of the speculative rather than of the practical intellect. This is evident for three reasons. First because if man's happiness is an operation, it must needs be man's highest operation. Now man's highest operation is that of his highest power in respect of its highest object: and his highest power is the intellect, whose highest object is the Divine Good, which is the object, not of the practical but of the speculative intellect. Consequently happiness consists principally in such an operation, viz. in the contemplation of Divine things. And since that "seems to be each man's self, which is best in him," according to Ethic. ix, 8, and x, 7, therefore such an operation is most proper to man and most delightful to him.
 
 Secondly, it is evident from the fact that contemplation is sought principally for its own sake. But the act of the practical intellect is not sought for its own sake but for the sake of action: and these very actions are ordained to some end. Consequently it is evident that the last end cannot consist in the active life, which pertains to the practical intellect.
@@ -12,7 +19,11 @@ Secondly, it is evident from the fact that contemplation is sought principally f
 Thirdly, it is again evident, from the fact that in the contemplative life man has something in common with things above him, viz. with God and the angels, to whom he is made like by happiness. But in things pertaining to the active life, other animals also have something in common with man, although imperfectly.
 
 Therefore the last and perfect happiness, which we await in the life to come, consists entirely in contemplation. But imperfect happiness, such as can be had here, consists first and principally, in an operation of the practical intellect directing human actions and passions, as stated in Ethic. x, 7,8.
+
 ## Replies
+
 Reply to Objection 1: The asserted likeness of the practical intellect to God is one of proportion; that is to say, by reason of its standing in relation to what it knows, as God does to what He knows. But the likeness of the speculative intellect to God is one of union and "information"; which is a much greater likeness. And yet it may be answered that, in regard to the principal thing known, which is His Essence, God has not practical but merely speculative knowledge.
+
 Reply to Objection 2: The practical intellect is ordained to good which is outside of it: but the speculative intellect has good within it, viz. the contemplation of truth. And if this good be perfect, the whole man is perfected and made good thereby: such a good the practical intellect has not; but it directs man thereto.
+
 Reply to Objection 3: This argument would hold, if man himself were his own last end; for then the consideration and direction of his actions and passions would be his happiness. But since man's last end is something outside of him, to wit, God, to Whom we reach out by an operation of the speculative intellect; therefore, man's happiness consists in an operation of the speculative intellect rather than of the practical intellect.

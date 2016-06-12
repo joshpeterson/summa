@@ -1,14 +1,25 @@
 # Whether There Is An Irascible And A Concupiscible Appetite In The Angels?
+
 ## Objections
+
 Objection 1: It would seem that there is an irascible and a concupiscible appetite in the angels. For Dionysius says (Div. Nom. iv) that in the demons there is "unreasonable fury and wild concupiscence." But demons are of the same nature as angels; for sin has not altered their nature. Therefore there is an irascible and a concupiscible appetite in the angels.
+
 Objection 2: Further, love and joy are in the concupiscible; while anger, hope, and fear are in the irascible appetite. But in the Sacred Scriptures these things are attributed both to the good and to the wicked angels. Therefore there is an irascible and a concupiscible appetite in the angels.
+
 Objection 3: Further, some virtues are said to reside in the irascible appetite and some in the concupiscible: thus charity and temperance appear to be in the concupiscible, while hope and fortitude are in the irascible. But these virtues are in the angels. Therefore there is both a concupiscible and an irascible appetite in the angels.
+
 ## Answer
+
 On the contrary, The Philosopher says (De Anima iii, text. 42) that the irascible and concupiscible are in the sensitive part, which does not exist in angels. Consequently there is no irascible or concupiscible appetite in the angels.
+
 I answer that, The intellective appetite is not divided into irascible and concupiscible; only the sensitive appetite is so divided. The reason of this is because, since the faculties are distinguished from one another not according to the material but only by the formal distinction of objects, if to any faculty there respond an object according to some common idea, there will be no distinction of faculties according to the diversity of the particular things contained under that common idea. Just as if the proper object of the power of sight be color as such, then there are not several powers of sight distinguished according to the difference of black and white: whereas if the proper object of any faculty were white, as white, then the faculty of seeing white would be distinguished from the faculty of seeing black.
 
 Now it is quite evident from what has been said [522](A[1]; [523]Q[16], A[1]), that the object of the intellective appetite, otherwise known as the will, is good according to the common aspect of goodness; nor can there be any appetite except of what is good. Hence, in the intellective part, the appetite is not divided according to the distinction of some particular good things, as the sensitive appetite is divided, which does not crave for what is good according to its common aspect, but for some particular good object. Accordingly, since there exists in the angels only an intellective appetite, their appetite is not distinguished into irascible and concupiscible, but remains undivided; and it is called the will.
+
 ## Replies
+
 Reply to Objection 1: Fury and concupiscence are metaphorically said to be in the demons, as anger is sometimes attributed to God;---on account of the resemblance in the effect.
+
 Reply to Objection 2: Love and joy, in so far as they are passions, are in the concupiscible appetite, but in so far as they express a simple act of the will, they are in the intellective part: in this sense to love is to wish well to anyone; and to be glad is for the will to repose in some good possessed. Universally speaking, none of these things is said of the angels, as by way of passions; as Augustine says (De Civ. Dei ix).
+
 Reply to Objection 3: Charity, as a virtue, is not in the concupiscible appetite, but in the will; because the object of the concupiscible appetite is the good as delectable to the senses. But the Divine goodness, which is the object of charity, is not of any such kind. For the same reason it must be said that hope does not exist in the irascible appetite; because the object of the irascible appetite is something arduous belonging to the sensible order, which the virtue of hope does not regard; since the object of hope is arduous and divine. Temperance, however, considered as a human virtue, deals with the desires of sensible pleasures, which belong to the concupiscible faculty. Similarly, fortitude regulates daring and fear, which reside in the irascible part. Consequently temperance, in so far as it is a human virtue, resides in the concupiscible part, and fortitude in the irascible. But they do not exist in the angels in this manner. For in them there are no passions of concupiscence, nor of fear and daring, to be regulated by temperance and fortitude. But temperance is predicated of them according as in moderation they display their will in conformity with the Divine will. Fortitude is likewise attributed to them, in so far as they firmly carry out the Divine will. All of this is done by their will, and not by the irascible or concupiscible appetite.

@@ -1,16 +1,29 @@
 # Whether Evil Is In Good As In Its Subject?
+
 ## Objections
+
 Objection 1: It would seem that evil is not in good as its subject. For good is something that exists. But Dionysius says (Div. Nom. iv, 4) that "evil does not exist, nor is it in that which exists." Therefore, evil is not in good as its subject.
+
 Objection 2: Further, evil is not a being; whereas good is a being. But "non-being" does not require being as its subject. Therefore, neither does evil require good as its subject.
+
 Objection 3: Further, one contrary is not the subject of another. But good and evil are contraries. Therefore, evil is not in good as in its subject.
+
 Objection 4: Further, the subject of whiteness is called white. Therefore also the subject of evil is evil. If, therefore, evil is in good as in its subject, it follows that good is evil, against what is said (Is. 5:20): "Woe to you who call evil good, and good evil!"
+
 ## Answer
+
 On the contrary, Augustine says (Enchiridion 14) that "evil exists only in good."
+
 I answer that, As was said above [424](A[1]), evil imports the absence of good. But not every absence of good is evil. For absence of good can be taken in a privative and in a negative sense. Absence of good, taken negatively, is not evil; otherwise, it would follow that what does not exist is evil, and also that everything would be evil, through not having the good belonging to something else; for instance, a man would be evil who had not the swiftness of the roe, or the strength of a lion. But the absence of good, taken in a privative sense, is an evil; as, for instance, the privation of sight is called blindness.
 
 Now, the subject of privation and of form is one and the same---viz. being in potentiality, whether it be being in absolute potentiality, as primary matter, which is the subject of the substantial form, and of privation of the opposite form; or whether it be being in relative potentiality, and absolute actuality, as in the case of a transparent body, which is the subject both of darkness and light. It is, however, manifest that the form which makes a thing actual is a perfection and a good; and thus every actual being is a good; and likewise every potential being, as such, is a good, as having a relation to good. For as it has being in potentiality, so has it goodness in potentiality. Therefore, the subject of evil is good.
+
 ## Replies
+
 Reply to Objection 1: Dionysius means that evil is not in existing things as a part, or as a natural property of any existing thing.
+
 Reply to Objection 2: "Not-being," understood negatively, does not require a subject; but privation is negation in a subject, as the Philosopher says (Metaph. iv, text 4), and such "not-being" is an evil.
+
 Reply to Objection 3: Evil is not in the good opposed to it as in its subject, but in some other good, for the subject of blindness is not "sight," but "animal." Yet, it appears, as Augustine says (Enchiridion 13), that the rule of dialectics here fails, where it is laid down that contraries cannot exist together. But this is to be taken as referring to good and evil in general, but not in reference to any particular good and evil. For white and black, sweet and bitter, and the like contraries, are only considered as contraries in a special sense, because they exist in some determinate genus; whereas good enters into every genus. Hence one good can coexist with the privation of another good.
+
 Reply to Objection 4: The prophet invokes woe to those who say that good as such is evil. But this does not follow from what is said above, as is clear from the explanation given.

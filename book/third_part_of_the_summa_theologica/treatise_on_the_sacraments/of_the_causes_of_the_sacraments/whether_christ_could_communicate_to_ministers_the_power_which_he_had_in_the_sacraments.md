@@ -1,12 +1,23 @@
 # Whether Christ Could Communicate To Ministers The Power Which He Had In The Sacraments?
+
 ## Objections
+
 Objection 1: It seems that Christ could not communicate to ministers the power which He had in the sacraments. For as Augustine argues against Maximin, "if He could, but would not, He was jealous of His power." But jealousy was far from Christ Who had the fulness of charity. Since, therefore, Christ did not communicate His power to ministers, it seems that He could not.
+
 Objection 2: Further, on Jn. 14:12: "Greater than these shall he do," Augustine says (Tract. lxxii): "I affirm this to be altogether greater," namely, for a man from being ungodly to be made righteous, "than to create heaven and earth." But Christ could not communicate to His disciples the power of creating heaven and earth: neither, therefore, could He give them the power of making the ungodly to be righteous. Since, therefore, the justification of the ungodly is effected by the power that Christ has in the sacraments, it seems that He could not communicate that power to ministers.
+
 Objection 3: Further, it belongs to Christ as Head of the Church that grace should flow from Him to others, according to Jn. 1:16: "Of His fulness we all have received." But this could not be communicated to others; since then the Church would be deformed, having many heads. Therefore it seems that Christ could not communicate His power to ministers.
+
 ## Answer
+
 On the contrary, on Jn. 1:31: "I knew Him not," Augustine says (Tract. v) that "he did not know that our Lord having the authority of baptizing . . . would keep it to Himself." But John would not have been in ignorance of this, if such a power were incommunicable. Therefore Christ could communicate His power to ministers.
+
 I answer that, As stated above [4392](A[3]), Christ had a twofold power in the sacraments. one was the power of "authority," which belongs to Him as God: and this power He could not communicate to any creature; just as neither could He communicate the Divine Essence. The other was the power of "excellence," which belongs to Him as man. This power He could communicate to ministers; namely, by giving them such a fulness of grace---that their merits would conduce to the sacramental effect---that by the invocation of their names, the sacraments would be sanctified---and that they themselves might institute sacraments, and by their mere will confer the sacramental effect without observing the sacramental rite. For a united instrument, the more powerful it is, is all the more able to lend its power to the separated instrument; as the hand can to a stick.
+
 ## Replies
+
 Reply to Objection 1: It was not through jealousy that Christ refrained from communicating to ministers His power of excellence, but for the good of the faithful; lest they should put their trust in men, and lest there should be various kinds of sacraments, giving rise to division in the Church; as may be seen in those who said: "I am of Paul, I am of Apollo, and I of Cephas" (1 Cor. 1:12).
+
 Reply to Objection 2: This objection is true of the power of authority, which belongs to Christ as God. At the same time the power of excellence can be called authority in comparison to other ministers. Whence on 1 Cor. 1:13: "Is Christ divided?" the gloss says that "He could give power of authority in baptizing, to those to whom He gave the power of administering it."
+
 Reply to Objection 3: It was in order to avoid the incongruity of many heads in the Church, that Christ was unwilling to communicate to ministers His power of excellence. If, however, He had done so, He would have been Head in chief; the others in subjection to Him.

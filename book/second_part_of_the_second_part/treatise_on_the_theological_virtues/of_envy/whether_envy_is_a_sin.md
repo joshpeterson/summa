@@ -1,16 +1,29 @@
 # Whether Envy Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that envy is not a sin. For Jerome says to Laeta about the education of her daughter (Ep. cvii): "Let her have companions, so that she may learn together with them, envy them, and be nettled when they are praised." But no one should be advised to commit a sin. Therefore envy is not a sin
 
+
+
 Objection 3: Further, envy denotes a kind of zeal. But there is a good zeal, according to Ps. 68:10: "The zeal of Thy house hath eaten me up." Therefore envy is not always a sin.
+
 Objection 4: Further, punishment is condivided with fault. But envy is a kind of punishment: for Gregory says (Moral. v, 46): "When the foul sore of envy corrupts the vanquished heart, the very exterior itself shows how forcibly the mind is urged by madness. For paleness seizes the complexion, the eyes are weighed down, the spirit is inflamed, while the limbs are chilled, there is frenzy in the heart, there is gnashing with the teeth." Therefore envy is not a sin.
+
 ## Answer
+
 On the contrary, It is written (Gal. 5:26): "Let us not be made desirous of vainglory, provoking one another, envying one another."
+
 I answer that, As stated above [2641](A[1]), envy is sorrow for another's good. Now this sorrow may come about in four ways. First, when a man grieves for another's good, through fear that it may cause harm either to himself, or to some other goods. This sorrow is not envy, as stated above [2642](A[1]), and may be void of sin. Hence Gregory says (Moral. xxii, 11): "It very often happens that without charity being lost, both the destruction of an enemy rejoices us, and again his glory, without any sin of envy, saddens us, since, when he falls, we believe that some are deservedly set up, and when he prospers, we dread lest many suffer unjustly."
 
 Secondly, we may grieve over another's good, not because he has it, but because the good which he has, we have not: and this, properly speaking, is zeal, as the Philosopher says (Rhet. ii, 9). And if this zeal be about virtuous goods, it is praiseworthy, according to 1 Cor. 14:1: "Be zealous for spiritual gifts": while, if it be about temporal goods, it may be either sinful or sinless. Thirdly, one may grieve over another's good, because he who happens to have that good is unworthy of it. Such sorrow as this cannot be occasioned by virtuous goods, which make a man righteous, but, as the Philosopher states, is about riches, and those things which can accrue to the worthy and the unworthy; and he calls this sorrow {nemesis} [*The nearest equivalent is "indignation." The use of the word "nemesis" to signify "revenge" does not represent the original Greek.], saying that it belongs to good morals. But he says this because he considered temporal goods in themselves, in so far as they may seem great to those who look not to eternal goods: whereas, according to the teaching of faith, temporal goods that accrue to those who are unworthy, are so disposed according to God's just ordinance, either for the correction of those men, or for their condemnation, and such goods are as nothing in comparison with the goods to come, which are prepared for good men. Wherefore sorrow of this kind is forbidden in Holy Writ, according to Ps. 36:1: "Be not emulous of evil doers, nor envy them that work iniquity," and elsewhere (Ps. 72:2,3): "My steps had well nigh slipped, for I was envious of the wicked, when I saw the prosperity of sinners [*Douay: 'because I had a zeal on occasion of the wicked, seeing the prosperity of sinners']." Fourthly, we grieve over a man's good, in so far as his good surpasses ours; this is envy properly speaking, and is always sinful, as also the Philosopher states (Rhet. ii, 10), because to do so is to grieve over what should make us rejoice, viz. over our neighbor's good.
+
 ## Replies
+
 Reply to Objection 1: Envy there denotes the zeal with which we ought to strive to progress with those who are better than we are.
+
 Reply to Objection 2: This argument considers sorrow for another's good in the first sense given above.
+
 Reply to Objection 3: Envy differs from zeal, as stated above. Hence a certain zeal may be good, whereas envy is always evil.
+
 Reply to Objection 4: Nothing hinders a sin from being penal accidentally, as stated above ([2643]FS, Q[87], A[2]) when we were treating of sins.

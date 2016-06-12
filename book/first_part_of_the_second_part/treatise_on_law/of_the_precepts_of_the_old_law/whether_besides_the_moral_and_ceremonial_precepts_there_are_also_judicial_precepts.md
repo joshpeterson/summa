@@ -1,14 +1,25 @@
 # Whether, Besides The Moral And Ceremonial Precepts, There Are Also Judicial Precepts?
+
 ## Objections
+
 Objection 1: It would seem that there are no judicial precepts in addition to the moral and ceremonial precepts in the Old Law. For Augustine says (Contra Faust. vi, 2) that in the Old Law there are "precepts concerning the life we have to lead, and precepts regarding the life that is foreshadowed." Now the precepts of the life we have to lead are moral precepts; and the precepts of the life that is foreshadowed are ceremonial. Therefore besides these two kinds of precepts we should not put any judicial precepts in the Law.
+
 Objection 2: Further, a gloss on Ps. 118:102, "I have not declined from Thy judgments," says, i.e. "from the rule of life Thou hast set for me." But a rule of life belongs to the moral precepts. Therefore the judicial precepts should not be considered as distinct from the moral precepts.
+
 Objection 3: Further, judgment seems to be an act of justice, according to Ps. 93:15: "Until justice be turned into judgment." But acts of justice, like the acts of other virtues, belong to the moral precepts. Therefore the moral precepts include the judicial precepts, and consequently should not be held as distinct from them.
+
 ## Answer
+
 On the contrary, It is written (Dt. 6:1): "These are the precepts and ceremonies, and judgments": where "precepts" stands for "moral precepts" antonomastically. Therefore there are judicial precepts besides moral and ceremonial precepts.
+
 I answer that, As stated above ([2077]AA[2],3), it belongs to the Divine law to direct men to one another and to God. Now each of these belongs in the abstract to the dictates of the natural law, to which dictates the moral precepts are to be referred: yet each of them has to be determined by Divine or human law, because naturally known principles are universal, both in speculative and in practical matters. Accordingly just as the determination of the universal principle about Divine worship is effected by the ceremonial precepts, so the determination of the general precepts of that justice which is to be observed among men is effected by the judicial precepts.
 
 We must therefore distinguish three kinds of precept in the Old Law; viz. "moral" precepts, which are dictated by the natural law; "ceremonial" precepts, which are determinations of the Divine worship; and "judicial" precepts, which are determinations of the justice to be maintained among men. Wherefore the Apostle (Rom. 7:12) after saying that the "Law is holy," adds that "the commandment is just, and holy, and good": "just," in respect of the judicial precepts; "holy," with regard to the ceremonial precepts (since the word "sanctus"---"holy"---is applied to that which is consecrated to God); and "good," i.e. conducive to virtue, as to the moral precepts.
+
 ## Replies
+
 Reply to Objection 1: Both the moral and the judicial precepts aim at the ordering of human life: and consequently they are both comprised under one of the heads mentioned by Augustine, viz. under the precepts of the life we have to lead.
+
 Reply to Objection 2: Judgment denotes execution of justice, by an application of the reason to individual cases in a determinate way. Hence the judicial precepts have something in common with the moral precepts, in that they are derived from reason; and something in common with the ceremonial precepts, in that they are determinations of general precepts. This explains why sometimes "judgments" comprise both judicial and moral precepts, as in Dt. 5:1: "Hear, O Israel, the ceremonies and judgments"; and sometimes judicial and ceremonial precepts, as in Lev. 18:4: "You shall do My judgments, and shall observe My precepts," where "precepts" denotes moral precepts, while "judgments" refers to judicial and ceremonial precepts.
+
 Reply to Objection 3: The act of justice, in general, belongs to the moral precepts; but its determination to some special kind of act belongs to the judicial precepts.

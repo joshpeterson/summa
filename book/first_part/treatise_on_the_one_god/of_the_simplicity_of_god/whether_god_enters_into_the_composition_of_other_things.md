@@ -1,12 +1,23 @@
 # Whether God Enters Into The Composition Of Other Things?
+
 ## Objections
+
 Objection 1: It seems that God enters into the composition of other things, for Dionysius says (Coel. Hier. iv): "The being of all things is that which is above being---the Godhead." But the being of all things enters into the composition of everything. Therefore God enters into the composition of other things.
+
 Objection 2: Further, God is a form; for Augustine says (De Verb. Dom., [*Serm. xxxviii]) that, "the word of God, which is God, is an uncreated form." But a form is part of a compound. Therefore God is part of some compound.
+
 Objection 3: Further, whatever things exist, in no way differing from each other, are the same. But God and primary matter exist, and in no way differ from each other. Therefore they are absolutely the same. But primary matter enters into the composition things. Therefore also does God. Proof of the minor---whatever things differ, they differ by some differences, and therefore must be composite. But God and primary matter are altogether simple. Therefore they nowise differ from each other.
+
 ## Answer
+
 On the contrary, Dionysius says (Div. Nom. ii): "There can be no touching Him," i.e. God, "nor any other union with Him by mingling part with part."
+
 I answer that, On this point there have been three errors. Some have affirmed that God is the world-soul, as is clear from Augustine (De Civ. Dei vii, 6). This is practically the same as the opinion of those who assert that God is the soul of the highest heaven. Again, others have said that God is the formal principle of all things; and this was the theory of the Almaricians. The third error is that of David of Dinant, who most absurdly taught that God was primary matter. Now all these contain manifest untruth; since it is not possible for God to enter into the composition of anything, either as a formal or a material principle. First, because God is the first efficient cause. Now the efficient cause is not identical numerically with the form of the thing caused, but only specifically: for man begets man. But primary matter can be neither numerically nor specifically identical with an efficient cause; for the former is merely potential, while the latter is actual. Secondly, because, since God is the first efficient cause, to act belongs to Him primarily and essentially. But that which enters into composition with anything does not act primarily and essentially, but rather the composite so acts; for the hand does not act, but the man by his hand; and, fire warms by its heat. Hence God cannot be part of a compound. Thirdly, because no part of a compound can be absolutely primal among beings---not even matter, nor form, though they are the primal parts of every compound. For matter is merely potential; and potentiality is absolutely posterior to actuality, as is clear from the foregoing ([16]Q[3], A[1]): while a form which is part of a compound is a participated form; and as that which participates is posterior to that which is essential, so likewise is that which is participated; as fire in ignited objects is posterior to fire that is essentially such. Now it has been proved that God is absolutely primal being ([17]Q[2], A[3]).
+
 ## Replies
+
 Reply to Objection 1: The Godhead is called the being of all things, as their efficient and exemplar cause, but not as being their essence.
+
 Reply to Objection 2: The Word is an exemplar form; but not a form that is part of a compound.
+
 Reply to Objection 3: Simple things do not differ by added differences---for this is the property of compounds. Thus man and horse differ by their differences, rational and irrational; which differences, however, do not differ from each other by other differences. Hence, to be quite accurate, it is better to say that they are, not different, but diverse. Hence, according to the Philosopher (Metaph. x), "things which are diverse are absolutely distinct, but things which are different differ by something." Therefore, strictly speaking, primary matter and God do not differ, but are by their very being, diverse. Hence it does not follow they are the same.

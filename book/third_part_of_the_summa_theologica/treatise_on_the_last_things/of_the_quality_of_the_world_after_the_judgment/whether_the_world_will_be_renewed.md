@@ -1,16 +1,31 @@
 # Whether The World Will Be Renewed?
+
 ## Objections
+
 Objection 1: It would seem that the world will never be renewed. For nothing will be but what was at some time as to its species: "What is it that hath been? the same thing that shall be" (Eccles. 1:9). Now the world never had any disposition other than it has now as to essential parts, both genera and species. Therefore it will never be renewed.
+
 Objection 2: Further, renewal is a kind of alteration. But it is impossible for the universe to be altered; because whatever is altered argues some alterant that is not altered, which nevertheless is a subject of local movement: and it is impossible to place such a thing outside the universe. Therefore it is impossible for the world to be renewed.
+
 Objection 3: Further, it is stated (Gn. 2:2) that "God . . . rested on the seventh day from all His work which He had done," and holy men explain that "He rested from forming new creatures." Now when things were first established, the mode imposed upon them was the same as they have now in the natural order. Therefore they will never have any other.
+
 Objection 4: Further, the disposition which things have now is natural to them. Therefore if they be altered to another disposition, this disposition will be unnatural to them. Now whatever is unnatural and accidental cannot last for ever (De Coelo et Mundo i). Therefore this disposition acquired by being renewed will be taken away from them; and thus there will be a cycle of changes in the world as Empedocles and Origen (Peri Archon. ii, 3) maintained, and after this world there will be another, and after that again another.
+
 Objection 5: Further, newness of glory is given to the rational creature as a reward. Now where there is no merit, there can be no reward. Since then insensible creatures have merited nothing, it would seem that they will not be renewed.
+
 ## Answer
+
 On the contrary, It is written (Is. 65:17): "Behold I create new heavens and a new earth, and the former things shall not be in remembrance"; and (Apoc. 21:1): "I saw a new heaven and a new earth. For the first heaven and the first earth was gone."
+
 I answer that, We believe all corporeal things to have been made for man's sake, wherefore all things are stated to be subject to him [*Ps. 8:5, seqq.]. Now they serve man in two ways, first, as sustenance to his bodily life, secondly, as helping him to know God, inasmuch as man sees the invisible things of God by the things that are made (Rom. 1:20). Accordingly glorified man will nowise need creatures to render him the first of these services, since his body will be altogether incorruptible, the Divine power effecting this through the soul which it will glorify immediately. Again man will not need the second service as to intellective knowledge, since by that knowledge he will see God immediately in His essence. The carnal eye, however, will be unable to attain to this vision of the Essence; wherefore that it may be fittingly comforted in the vision of God, it will see the Godhead in Its corporeal effects, wherein manifest proofs of the Divine majesty will appear, especially in Christ's flesh, and secondarily in the bodies of the blessed, and afterwards in all other bodies. Hence those bodies also will need to receive a greater inflow from the Divine goodness than now, not indeed so as to change their species, but so as to add a certain perfection of glory: and such will be the renewal of the world. Wherefore at the one same time, the world will be renewed, and man will be glorified.
+
 ## Replies
+
 Reply to Objection 1: Solomon is speaking there of the natural course: this is evident from his adding: "Nothing under the sun is new." For since the movement of the sun follows a circle, those things which are subject to the sun's power must needs have some kind of circular movement. This consists in the fact that things which were before return the same in species but different in the individual (De Generat. i). But things belonging to the state of glory are not "under the sun."
+
 Reply to Objection 2: This argument considers natural alteration which proceeds from a natural agent, which acts from natural necessity. For such an agent cannot produce different dispositions, unless it be itself disposed differently. But things done by God proceed from freedom of will, wherefore it is possible, without any change in God Who wills it, for the universe to have at one time one disposition, and another at another time. Thus this renewal will not be reduced to a cause that is moved, but to an immovable principle, namely God.
+
 Reply to Objection 3: God is stated to have ceased on the seventh day forming new creatures, for as much as nothing was made afterwards that was not previously in some likeness [*Cf. [5117]FP, Q[73], A[1]] either generically, or specifically, or at least as in a seminal principle, or even as in an obediential potentiality [*Cf. [5118]FP, Q[115], A[2], ad 4; [5119]TP, Q[11], A[1]]. I say then that the future renewal of the world preceded in the works of the six days by way of a remote likeness, namely in the glory and grace of the angels. Moreover it preceded in the obediential potentiality which was then bestowed on the creature to the effect of its receiving this same renewal by the Divine agency.
+
 Reply to Objection 4: This disposition of newness will be neither natural nor contrary to nature, but above nature (just as grace and glory are above the nature of the soul): and it will proceed from an everlasting agent which will preserve it for ever.
+
 Reply to Objection 5: Although, properly speaking, insensible bodies will not have merited this glory, yet man merited that this glory should be bestowed on the whole universe, in so far as this conduces to man's increase of glory. Thus a man merits to be clothed in more splendid robes, which splendor the robes nowise merited themselves.

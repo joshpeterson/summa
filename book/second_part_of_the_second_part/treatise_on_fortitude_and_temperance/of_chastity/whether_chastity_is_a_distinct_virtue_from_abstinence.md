@@ -1,12 +1,23 @@
 # Whether Chastity Is A Distinct Virtue From Abstinence?
+
 ## Objections
+
 Objection 1: It would seem that chastity is not a distinct virtue from abstinence. Because where the matter is generically the same, one virtue suffices. Now it would seem that things pertaining to the same sense are of one genus. Therefore, since pleasures of the palate which are the matter of abstinence, and venereal pleasures which are the matter of chastity, pertain to the touch, it seems that chastity is not a distinct virtue from abstinence.
+
 Objection 2: Further, the Philosopher (Ethic. iii, 12) likens all vices of intemperance to childish sins, which need chastising. Now "chastity" takes its name from "chastisement" of the contrary vices. Since then certain vices are bridled by abstinence, it seems that abstinence is chastity.
+
 Objection 3: Further, the pleasures of the other senses are the concern of temperance in so far as they refer to pleasures of touch; which are the matter of temperance. Now pleasures of the palate, which are the matter of abstinence, are directed to venereal pleasures, which are the matter of chastity: wherefore Jerome says [*Ep. cxlvii ad Amand. Cf. Gratian, Dist. xliv.], commenting on Titus 1:7, "Not given to wine, no striker," etc.: "The belly and the organs of generation are neighbors, that the neighborhood of the organs may indicate their complicity in vice." Therefore abstinence and chastity are not distinct virtues.
+
 ## Answer
+
 On the contrary, The Apostle (2 Cor. 6:5,6) reckons "chastity" together with "fastings" which pertain to abstinence.
+
 I answer that, As stated above ([3512]Q[141], A[4]), temperance is properly about the concupiscences of the pleasures of touch: so that where there are different kinds of pleasure, there are different virtues comprised under temperance. Now pleasures are proportionate to the actions whose perfections they are, as stated in Ethic. ix, 4,5: and it is evident that actions connected with the use of food whereby the nature of the individual is maintained differ generically from actions connected with the use of matters venereal, whereby the nature of the species is preserved. Therefore chastity, which is about venereal pleasures, is a distinct virtue from abstinence, which is about pleasures of the palate.
+
 ## Replies
+
 Reply to Objection 1: Temperance is chiefly about pleasures of touch, not as regards the sense's judgment concerning the objects of touch. which judgment is of uniform character concerning all such objects, but as regards the use itself of those objects, as stated in Ethic. iii, 10. Now the uses of meats, drinks, and venereal matters differ in character. Wherefore there must needs be different virtues, though they regard the one sense.
+
 Reply to Objection 2: Venereal pleasures are more impetuous, and are more oppressive on the reason than the pleasures of the palate: and therefore they are in greater need of chastisement and restraint, since if one consent to them this increases the force of concupiscence and weakens the strength of the mind. Hence Augustine says (Soliloq. i, 10): "I consider that nothing so casts down the manly mind from its heights as the fondling of women, and those bodily contacts which belong to the married state."
+
 Reply to Objection 3: The pleasures of the other senses do not pertain to the maintenance of man's nature, except in so far as they are directed to pleasures of touch. Wherefore in the matter of such pleasures there is no other virtue comprised under temperance. But the pleasures of the palate, though directed somewhat to venereal pleasures, are essentially directed to the preservation of man's life: wherefore by their very nature they have a special virtue, although this virtue which is called abstinence directs its act to chastity as its end.

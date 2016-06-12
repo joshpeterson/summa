@@ -1,10 +1,17 @@
 # Whether God Knows Singular Things?
+
 ## Objections
+
 Objection 1: It seems that God does not know singular things. For the divine intellect is more immaterial than the human intellect. Now the human intellect by reason of its immateriality does not know singular things; but as the Philosopher says (De Anima ii), "reason has to do with universals, sense with singular things." Therefore God does not know singular things.
+
 Objection 2: Further, in us those faculties alone know the singular, which receive the species not abstracted from material conditions. But in God things are in the highest degree abstracted from all materiality. Therefore God does not know singular things.
+
 Objection 3: Further, all knowledge comes about through the medium of some likeness. But the likeness of singular things in so far as they are singular, does not seem to be in God; for the principle of singularity is matter, which, since it is in potentiality only, is altogether unlike God, Who is pure act. Therefore God cannot know singular things.
+
 ## Answer
+
 On the contrary, It is written (Prov. 16:2), "All the ways of a man are open to His eyes."
+
 I answer that, God knows singular things. For all perfections found in creatures pre-exist in God in a higher way, as is clear from the foregoing ([92]Q[4], A[2]). Now to know singular things is part of our perfection. Hence God must know singular things. Even the Philosopher considers it incongruous that anything known by us should be unknown to God; and thus against Empedocles he argues (De Anima i and Metaph. iii) that God would be most ignorant if He did not know discord. Now the perfections which are divided among inferior beings, exist simply and unitedly in God; hence, although by one faculty we know the universal and immaterial, and by another we know singular and material things, nevertheless God knows both by His simple intellect.
 
 Now some, wishing to show how this can be, said that God knows singular things by universal causes. For nothing exists in any singular thing, that does not arise from some universal cause. They give the example of an astrologer who knows all the universal movements of the heavens, and can thence foretell all eclipses that are to come. This, however, is not enough; for singular things from universal causes attain to certain forms and powers which, however they may be joined together, are not individualized except by individual matter. Hence he who knows Socrates because he is white, or because he is the son of Sophroniscus, or because of something of that kind, would not know him in so far as he is this particular man. Hence according to the aforesaid mode, God would not know
@@ -14,7 +21,11 @@ singular things in their singularity.
 On the other hand, others have said that God knows singular things by the application of universal causes to particular effects. But this will not hold; forasmuch as no one can apply a thing to another unless he first knows that thing; hence the said application cannot be the reason of knowing the particular, for it presupposes the knowledge of singular things.
 
 Therefore it must be said otherwise, that, since God is the cause of things by His knowledge, as stated above [93](A[8]), His knowledge extends as far as His causality extends. Hence as the active power of God extends not only to forms, which are the source of universality, but also to matter, as we shall prove further on ([94]Q[44], A[2]), the knowledge of God must extend to singular things, which are individualized by matter. For since He knows things other than Himself by His essence, as being the likeness of things, or as their active principle, His essence must be the sufficing principle of knowing all things made by Him, not only in the universal, but also in the singular. The same would apply to the knowledge of the artificer, if it were productive of the whole thing, and not only of the form.
+
 ## Replies
+
 Reply to Objection 1: Our intellect abstracts the intelligible species from the individualizing principles; hence the intelligible species in our intellect cannot be the likeness of the individual principles; and on that account our intellect does not know the singular. But the intelligible species in the divine intellect, which is the essence of God, is immaterial not by abstraction, but of itself, being the principle of all the principles which enter into the composition of things, whether principles of the species or principles of the individual; hence by it God knows not only universal, but also singular things.
+
 Reply to Objection 2: Although as regards the species in the divine intellect its being has no material conditions like the images received in the imagination and sense, yet its power extends to both immaterial and material things.
+
 Reply to Objection 3: Although matter as regards its potentiality recedes from likeness to God, yet, even in so far as it has being in this wise, it retains a certain likeness to the divine being.

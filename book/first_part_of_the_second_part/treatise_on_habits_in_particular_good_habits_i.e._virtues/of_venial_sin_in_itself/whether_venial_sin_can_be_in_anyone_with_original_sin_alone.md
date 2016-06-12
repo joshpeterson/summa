@@ -1,12 +1,23 @@
 # Whether Venial Sin Can Be In Anyone With Original Sin Alone?
+
 ## Objections
+
 Objection 1: It would seem that venial sin can be in a man with original sin alone. For disposition precedes habit. Now venial sin is a disposition to mortal sin, as stated above ([1948]Q[88], A[3]). Therefore in an unbeliever, in whom original sin is not remitted, venial sin exists before mortal sin: and so sometimes unbelievers have venial together with original sin, and without mortal sins.
+
 Objection 2: Further, venial sin has less in common, and less connection with mortal sin, than one mortal sin has with another. But an unbeliever in the state of original sin, can commit one mortal sin without committing another. Therefore he can also commit a venial sin without committing a mortal sin.
+
 Objection 3: Further, it is possible to fix the time at which a child is first able to commit an actual sin: and when the child comes to that time, it can stay a short time at least, without committing a mortal sin, because this happens in the worst criminals. Now it is possible for the child to sin venially during that space of time, however short it may be. Therefore venial sin can be in anyone with original sin alone and without mortal sin.
+
 ## Answer
+
 On the contrary, Man is punished for original sin in the children's limbo, where there is no pain of sense as we shall state further on (SS, Q[69], A[6]): whereas men are punished in hell for no other than mortal sin. Therefore there will be no place where a man can be punished for venial sin with no other than original sin.
+
 I answer that, It is impossible for venial sin to be in anyone with original sin alone, and without mortal sin. The reason for this is because before a man comes to the age of discretion, the lack of years hinders the use of reason and excuses him from mortal sin, wherefore, much more does it excuse him from venial sin, if he does anything which is such generically. But when he begins to have the use of reason, he is not entirely excused from the guilt of venial or mortal sin. Now the first thing that occurs to a man to think about then, is to deliberate about himself. And if he then direct himself to the due end, he will, by means of grace, receive the remission of original sin: whereas if he does not then direct himself to the due end, and as far as he is capable of discretion at that particular age, he will sin mortally, for through not doing that which is in his power to do. Accordingly thenceforward there cannot be venial sin in him without mortal, until afterwards all sin shall have been remitted to him through grace.
+
 ## Replies
+
 Reply to Objection 1: Venial sin always precedes mortal sin not as a necessary, but as a contingent disposition, just as work sometimes disposes to fever, but not as heat disposes to the form of fire.
+
 Reply to Objection 2: Venial sin is prevented from being with original sin alone, not on account of its want of connection or likeness, but on account of the lack of use of reason, as stated above.
+
 Reply to Objection 3: The child that is beginning to have the use of reason can refrain from other mortal sins for a time, but it is not free from the aforesaid sin of omission, unless it turns to God as soon as possible. For the first thing that occurs to a man who has discretion, is to think of himself, and to direct other things to himself as to their end, since the end is the first thing in the intention. Therefore this is the time when man is bound by God's affirmative precept, which the Lord expressed by saying (Zech. 1:3): "Turn ye to Me . . . and I will turn to you."

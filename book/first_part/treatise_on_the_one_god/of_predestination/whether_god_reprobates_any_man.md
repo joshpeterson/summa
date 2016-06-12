@@ -1,12 +1,23 @@
 # Whether God Reprobates Any Man?
+
 ## Objections
+
 Objection 1: It seems that God reprobates no man. For nobody reprobates what he loves. But God loves every man, according to (Wis. 11:25): "Thou lovest all things that are, and Thou hatest none of the things Thou hast made." Therefore God reprobates no man.
+
 Objection 2: Further, if God reprobates any man, it would be necessary for reprobation to have the same relation to the reprobates as predestination has to the predestined. But predestination is the cause of the salvation of the predestined. Therefore reprobation will likewise be the cause of the loss of the reprobate. But this false. For it is said (Osee 13:9): "Destruction is thy own, O Israel; Thy help is only in Me." God does not, then, reprobate any man.
+
 Objection 3: Further, to no one ought anything be imputed which he cannot avoid. But if God reprobates anyone, that one must perish. For it is said (Eccles. 7:14): "Consider the works of God, that no man can correct whom He hath despised." Therefore it could not be imputed to any man, were he to perish. But this is false. Therefore God does not reprobate anyone.
+
 ## Answer
+
 On the contrary, It is said (Malachi 1:2,3): "I have loved Jacob, but have hated Esau."
+
 I answer that, God does reprobate some. For it was said above [172](A[1]) that predestination is a part of providence. To providence, however, it belongs to permit certain defects in those things which are subject to providence, as was said above ([173]Q[22], A[2]). Thus, as men are ordained to eternal life through the providence of God, it likewise is part of that providence to permit some to fall away from that end; this is called reprobation. Thus, as predestination is a part of providence, in regard to those ordained to eternal salvation, so reprobation is a part of providence in regard to those who turn aside from that end. Hence reprobation implies not only foreknowledge, but also something more, as does providence, as was said above ([174]Q[22], A[1]). Therefore, as predestination includes the will to confer grace and glory; so also reprobation includes the will to permit a person to fall into sin, and to impose the punishment of damnation on account of that sin.
+
 ## Replies
+
 Reply to Objection 1: God loves all men and all creatures, inasmuch as He wishes them all some good; but He does not wish every good to them all. So far, therefore, as He does not wish this particular good---namely, eternal life---He is said to hate or reprobated them.
+
 Reply to Objection 2: Reprobation differs in its causality from predestination. This latter is the cause both of what is expected in the future life by the predestined---namely, glory---and of what is received in this life---namely, grace. Reprobation, however, is not the cause of what is in the present---namely, sin; but it is the cause of abandonment by God. It is the cause, however, of what is assigned in the future---namely, eternal punishment. But guilt proceeds from the free-will of the person who is reprobated and deserted by grace. In this way, the word of the prophet is true---namely, "Destruction is thy own, O Israel."
+
 Reply to Objection 3: Reprobation by God does not take anything away from the power of the person reprobated. Hence, when it is said that the reprobated cannot obtain grace, this must not be understood as implying absolute impossibility: but only conditional impossibility: as was said above ([175]Q[19], A[3]), that the predestined must necessarily be saved; yet a conditional necessity, which does not do away with the liberty of choice. Whence, although anyone reprobated by God cannot acquire grace, nevertheless that he falls into this or that particular sin comes from the use of his free-will. Hence it is rightly imputed to him as guilt.

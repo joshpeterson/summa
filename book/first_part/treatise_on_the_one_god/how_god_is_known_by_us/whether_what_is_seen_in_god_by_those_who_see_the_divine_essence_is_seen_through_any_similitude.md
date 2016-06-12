@@ -1,10 +1,19 @@
 # Whether What Is Seen In God By Those Who See The Divine Essence, Is Seen Through Any Similitude?
+
 ## Objections
+
 Objection 1: It seems that what is seen in God by those who see the Divine essence, is seen by means of some similitude. For every kind of knowledge comes about by the knower being assimilated to the object known. For thus the intellect in act becomes the actual intelligible, and the sense in act becomes the actual sensible, inasmuch as it is informed by a similitude of the object, as the eye by the similitude of color. Therefore if the intellect of one who sees the Divine essence understands any creatures in God, it must be informed by their similitudes.
+
 Objection 2: Further, what we have seen, we keep in memory. But Paul, seeing the essence of God whilst in ecstasy, when he had ceased to see the Divine essence, as Augustine says (Gen. ad lit. ii, 28,34), remembered many of the things he had seen in the rapture; hence he said: "I have heard secret words which it is not granted to man to utter" (2 Cor. 12:4). Therefore it must be said that certain similitudes of what he remembered, remained in his mind; and in the same way, when he actually saw the essence of God, he had certain similitudes or ideas of what he actually saw in it.
+
 ## Answer
+
 On the contrary, A mirror and what is in it are seen by means of one likeness. But all things are seen in God as in an intelligible mirror. Therefore if God Himself is not seen by any similitude but by His own essence, neither are the things seen in Him seen by any similitudes or ideas.
+
 I answer that, Those who see the divine essence see what they see in God not by any likeness, but by the divine essence itself united to their intellect. For each thing is known in so far as its likeness is in the one who knows. Now this takes place in two ways. For as things which are like one and the same thing are like to each other, the cognitive faculty can be assimilated to any knowable object in two ways. In one way it is assimilated by the object itself, when it is directly informed by a similitude, and then the object is known in itself. In another way when informed by a similitude which resembles the object; and in this way, the knowledge is not of the thing in itself, but of the thing in its likeness. For the knowledge of a man in himself differs from the knowledge of him in his image. Hence to know things thus by their likeness in the one who knows, is to know them in themselves or in their own nature; whereas to know them by their similitudes pre-existing in God, is to see them in God. Now there is a difference between these two kinds of knowledge. Hence, according to the knowledge whereby things are known by those who see the essence of God, they are seen in God Himself not by any other similitudes but by the Divine essence alone present to the intellect; by which also God Himself is seen.
+
 ## Replies
+
 Reply to Objection 1: The created intellect of one who sees God is assimilated to what is seen in God, inasmuch as it is united to the Divine essence, in which the similitudes of all things pre-exist.
+
 Reply to Objection 2: Some of the cognitive faculties form other images from those first conceived; thus the imagination from the preconceived images of a mountain and of gold can form the likeness of a golden mountain; and the intellect, from the preconceived ideas of genus and difference, forms the idea of species; in like manner from the similitude of an image we can form in our minds the similitude of the original of the image. Thus Paul, or any other person who sees God, by the very vision of the divine essence, can form in himself the similitudes of what is seen in the divine essence, which remained in Paul even when he had ceased to see the essence of God. Still this kind of vision whereby things are seen by this likeness thus conceived, is not the same as that whereby things are seen in God.

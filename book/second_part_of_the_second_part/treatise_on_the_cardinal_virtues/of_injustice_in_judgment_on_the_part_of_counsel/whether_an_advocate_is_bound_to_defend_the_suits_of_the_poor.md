@@ -1,14 +1,25 @@
 # Whether An Advocate Is Bound To Defend The Suits Of The Poor?
+
 ## Objections
+
 Objection 1: It would seem that an advocate is bound to defend the suits of the poor. For it is written (Ex. 23:5): "If thou see the ass of him that hateth thee lie underneath his burden, thou shalt not pass by, but shall lift him up with him." Now no less a danger threatens the poor man whose suit is being unjustly prejudiced, than if his ass were to lie underneath its burden. Therefore an advocate is bound to defend the suits of the poor.
+
 Objection 2: Further, Gregory says in a homily (ix in Evang.): "Let him that hath understanding beware lest he withhold his knowledge; let him that hath abundance of wealth watch lest he slacken his merciful bounty; let him who is a servant to art share his skill with his neighbor; let him who has an opportunity of speaking with the wealthy plead the cause of the poor: for the slightest gift you have received will be reputed a talent." Now every man is bound, not to hide but faithfully to dispense the talent committed to him; as evidenced by the punishment inflicted on the servant who hid his talent (Mat. 25:30). Therefore an advocate is bound to plead for the poor.
+
 Objection 3: Further, the precept about performing works of mercy, being affirmative, is binding according to time and place, and this is chiefly in cases of need. Now it seems to be a case of need when the suit of a poor man is being prejudiced. Therefore it seems that in such a case an advocate is bound to defend the poor man's suit.
+
 ## Answer
+
 On the contrary, He that lacks food is no less in need than he that lacks an advocate. Yet he that is able to give food is not always bound to feed the needy. Therefore neither is an advocate always bound to defend the suits of the poor.
+
 I answer that, Since defense of the poor man's suit belongs to the works of mercy, the answer to this inquiry is the same as the one given above with regard to the other works of mercy ([2941]Q[32], AA[5],9). Now no man is sufficient to bestow a work of mercy on all those who need it. Wherefore, as Augustine says (De Doctr. Christ. i, 28), "since one cannot do good to all, we ought to consider those chiefly who by reason of place, time, or any other circumstance, by a kind of chance are more closely united to us." He says "by reason of place," because one is not bound to search throughout the world for the needy that one may succor them; and it suffices to do works of mercy to those one meets with. Hence it is written (Ex. 23:4): "If thou meet thy enemy's ass going astray, bring it back to him." He says also "by reason of time," because one is not bound to provide for the future needs of others, and it suffices to succor present needs. Hence it is written (1 Jn. 3:17): "He that . . . shall see his brother in need, and shall put up his bowels from him, how doth the charity of God abide in him?" Lastly he says, "or any other circumstance," because one ought to show kindness to those especially who are by any tie whatever united to us, according to 1 Tim. 5:8, "If any man have not care of his own, and especially of those of his house, he hath denied the faith and is worse than an infidel."
 
 It may happen however that these circumstances concur, and then we have to consider whether this particular man stands in such a need that it is not easy to see how he can be succored otherwise, and then one is bound to bestow the work of mercy on him. If, however, it is easy to see how he can be otherwise succored, either by himself, or by some other person still more closely united to him, or in a better position to help him, one is not bound so strictly to help the one in need that it would be a sin not to do so: although it would be praiseworthy to do so where one is not bound to. Therefore an advocate is not always bound to defend the suits of the poor, but only when the aforesaid circumstances concur, else he would have to put aside all other business, and occupy himself entirely in defending the suits of poor people. The same applies to a physician with regard to attendance on the sick.
+
 ## Replies
+
 Reply to Objection 1: So long as the ass lies under the burden, there is no means of help in this case, unless those who are passing along come to the man's aid, and therefore they are bound to help. But they would not be so bound if help were possible from another quarter.
+
 Reply to Objection 2: A man is bound to make good use of the talent bestowed on him, according to the opportunities afforded by time, place, and other circumstances, as stated above.
+
 Reply to Objection 3: Not every need is such that it is one's duty to remedy it, but only such as we have stated above.

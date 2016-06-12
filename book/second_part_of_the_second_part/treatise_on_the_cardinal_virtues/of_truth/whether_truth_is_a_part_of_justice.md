@@ -1,12 +1,23 @@
 # Whether Truth Is A Part Of Justice?
+
 ## Objections
+
 Objection 1: It seems that truth is not a part of justice. For it seems proper to justice to give another man his due. But, by telling the truth, one does not seem to give another man his due, as is the case in all the foregoing parts of justice. Therefore truth is not a part of justice.
+
 Objection 2: Further, truth pertains to the intellect: whereas justice is in the will, as stated above ([3204]Q[58], A[4]). Therefore truth is not a part of justice.
+
 Objection 3: Further, according to Jerome truth is threefold, namely, "truth of life," "truth of justice," and "truth of doctrine." But none of these is a part of justice. For truth of life comprises all virtues, as stated above (A[2], ad 3): truth of justice is the same as justice, so that it is not one of its parts; and truth of doctrine belongs rather to the intellectual virtues. Therefore truth is nowise a part of justice.
+
 ## Answer
+
 On the contrary, Tully (De Invent. Rhet. ii) reckons truth among the parts of justice.
+
 I answer that, As stated above ([3205]Q[80]), a virtue is annexed to justice, as secondary to a principal virtue, through having something in common with justice, while falling short from the perfect virtue thereof. Now the virtue of truth has two things in common with justice. In the first place it is directed to another, since the manifestation, which we have stated to be an act of truth, is directed to another, inasmuch as one person manifests to another the things that concern himself. In the second place, justice sets up a certain equality between things, and this the virtue of truth does also, for it equals signs to the things which concern man himself. Nevertheless it falls short of the proper aspect of justice, as to the notion of debt: for this virtue does not regard legal debt, which justice considers, but rather the moral debt, in so far as, out of equity, one man owes another a manifestation of the truth. Therefore truth is a part of justice, being annexed thereto as a secondary virtue to its principal.
+
 ## Replies
+
 Reply to Objection 1: Since man is a social animal, one man naturally owes another whatever is necessary for the preservation of human society. Now it would be impossible for men to live together, unless they believed one another, as declaring the truth one to another. Hence the virtue of truth does, in a manner, regard something as being due.
+
 Reply to Objection 2: Truth, as known, belongs to the intellect. But man, by his own will, whereby he uses both habits and members, utters external signs in order to manifest the truth, and in this way the manifestation of the truth is an act of the will.
+
 Reply to Objection 3: The truth of which we are speaking now differs from the truth of life, as stated in the preceding A[2], ad 3.

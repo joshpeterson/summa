@@ -1,20 +1,37 @@
 # Whether All The Powers Remain In The Soul When Separated From The Body?
+
 ## Objections
+
 Objection 1: It would seem that all the powers of the soul remain in the soul separated from the body. For we read in the book De Spiritu et Anima that "the soul withdraws from the body, taking with itself sense and imagination, reason and intelligence, concupiscibility and irascibility."
+
 Objection 2: Further, the powers of the soul are its natural properties. But properties are always in that to which they belong; and are never separated from it. Therefore the powers of the soul are in it even after death.
+
 Objection 3: Further, the powers even of the sensitive soul are not weakened when the body becomes weak; because, as the Philosopher says (De Anima i, 4), "If an old man were given the eye of a young man, he would see even as well as a young man." But weakness is the road to corruption. Therefore the powers of the soul are not corrupted when the body is corrupted, but remain in the separated soul.
+
 Objection 4: Further, memory is a power of the sensitive soul, as the Philosopher proves (De Memor. et Remin. 1). But memory remains in the separated soul; for it was said to the rich glutton whose soul was in hell: "Remember that thou didst receive good things during thy lifetime" (Lk. 16:25). Therefore memory remains in the separated soul; and consequently the other powers of the sensitive part.
+
 Objection 5: Further, joy and sorrow are in the concupiscible part, which is a power of the sensitive soul. But it is clear that separate souls grieve or rejoice at the pains or rewards which they receive. Therefore the concupiscible power remains in the separate soul.
+
 Objection 6: Further, Augustine says (Gen. ad lit. xii, 32) that, as the soul, when the body lies senseless, yet not quite dead, sees some things by imaginary vision; so also when by death the soul is quite separate from the body. But the imagination is a power of the sensitive part. Therefore the power of the sensitive part remains in the separate soul; and consequently all the other powers.
+
 ## Answer
+
 On the contrary, It is said (De Eccl. Dogm. xix) that "of two substances only does man consist; the soul with its reason, and the body with its senses." Therefore the body being dead, the sensitive powers do not remain.
+
 I answer that, As we have said already ([630]AA[5],6,7), all the powers of the soul belong to the soul alone as their principle. But some powers belong to the soul alone as their subject; as the intelligence and the will. These powers must remain in the soul, after the destruction of the body. But other powers are subjected in the composite; as all the powers of the sensitive and nutritive parts. Now accidents cannot remain after the destruction of the subject. Wherefore, the composite being destroyed, such powers do not remain actually; but they remain virtually in the soul, as in their principle or root.
 
 So it is false that, as some say, these powers remain in the soul even after the corruption of the body. It is much more false that, as they say also, the acts of these powers remain in the separate soul; because these powers have no act apart from the corporeal organ.
+
 ## Replies
+
 Reply to Objection 1: That book has no authority, and so what is there written can be despised with the same facility as it was said; although we may say that the soul takes with itself these powers, not actually but virtually.
+
 Reply to Objection 2: These powers, which we say do not actually remain in the separate soul, are not the properties of the soul alone, but of the composite.
+
 Reply to Objection 3: These powers are said not to be weakened when the body becomes weak, because the soul remains unchangeable, and is the virtual principle of these powers.
+
 Reply to Objection 4: The recollection spoken of there is to be taken in the same way as Augustine (De Trin. x, 11; xiv, 7) places memory in the mind; not as a part of the sensitive soul.
+
 Reply to Objection 5: In the separate soul, sorrow and joy are not in the sensitive, but in the intellectual appetite, as in the angels.
+
 Reply to Objection 6: Augustine in that passage is speaking as inquiring, not as asserting. Wherefore he retracted some things which he had said there (Retrac. ii, 24).

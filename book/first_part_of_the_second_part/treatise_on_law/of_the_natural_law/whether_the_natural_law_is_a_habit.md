@@ -1,14 +1,25 @@
 # Whether The Natural Law Is A Habit?
+
 ## Objections
+
 Objection 1: It would seem that the natural law is a habit. Because, as the Philosopher says (Ethic. ii, 5), "there are three things in the soul: power, habit, and passion." But the natural law is not one of the soul's powers: nor is it one of the passions; as we may see by going through them one by one. Therefore the natural law is a habit.
+
 Objection 2: Further, Basil [*Damascene, De Fide Orth. iv, 22] says that the conscience or "synderesis is the law of our mind"; which can only apply to the natural law. But the "synderesis" is a habit, as was shown in the [2010]FP, Q[79], A[12]. Therefore the natural law is a habit.
+
 Objection 3: Further, the natural law abides in man always, as will be shown further on [2011](A[6]). But man's reason, which the law regards, does not always think about the natural law. Therefore the natural law is not an act, but a habit.
+
 ## Answer
+
 On the contrary, Augustine says (De Bono Conjug. xxi) that "a habit is that whereby something is done when necessary." But such is not the natural law: since it is in infants and in the damned who cannot act by it. Therefore the natural law is not a habit.
+
 I answer that, A thing may be called a habit in two ways. First, properly and essentially: and thus the natural law is not a habit. For it has been stated above ([2012]Q[90], A[1], ad 2) that the natural law is something appointed by reason, just as a proposition is a work of reason. Now that which a man does is not the same as that whereby he does it: for he makes a becoming speech by the habit of grammar. Since then a habit is that by which we act, a law cannot be a habit properly and essentially.
 
 Secondly, the term habit may be applied to that which we hold by a habit: thus faith may mean that which we hold by faith. And accordingly, since the precepts of the natural law are sometimes considered by reason actually, while sometimes they are in the reason only habitually, in this way the natural law may be called a habit. Thus, in speculative matters, the indemonstrable principles are not the habit itself whereby we hold those principles, but are the principles the habit of which we possess.
+
 ## Replies
+
 Reply to Objection 1: The Philosopher proposes there to discover the genus of virtue; and since it is evident that virtue is a principle of action, he mentions only those things which are principles of human acts, viz. powers, habits and passions. But there are other things in the soul besides these three: there are acts; thus "to will" is in the one that wills; again, things known are in the knower; moreover its own natural properties are in the soul, such as immortality and the like.
+
 Reply to Objection 2: "Synderesis" is said to be the law of our mind, because it is a habit containing the precepts of the natural law, which are the first principles of human actions.
+
 Reply to Objection 3: This argument proves that the natural law is held habitually; and this is granted.

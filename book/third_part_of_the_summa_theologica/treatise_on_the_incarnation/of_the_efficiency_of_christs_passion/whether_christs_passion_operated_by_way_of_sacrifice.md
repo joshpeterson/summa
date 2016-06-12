@@ -1,12 +1,23 @@
 # Whether Christ's Passion Operated By Way Of Sacrifice?
+
 ## Objections
+
 Objection 1: It would seem that Christ's Passion did not operate by way of sacrifice. For the truth should correspond with the figure. But human flesh was never offered up in the sacrifices of the Old Law, which were figures of Christ: nay, such sacrifices were reputed as impious, according to Ps. 105:38: "And they shed innocent blood: the blood of their sons and of their daughters, which they sacrificed to the idols of Chanaan." It seems therefore that Christ's Passion cannot be called a sacrifice.
+
 Objection 2: Further, Augustine says (De Civ. Dei x) that "a visible sacrifice is a sacrament---that is, a sacred sign---of an invisible sacrifice." Now Christ's Passion is not a sign, but rather the thing signified by other signs. Therefore it seems that Christ's Passion is not a sacrifice.
+
 Objection 3: Further, whoever offers sacrifice performs some sacred rite, as the very word "sacrifice" shows. But those men who slew Christ did not perform any sacred act, but rather wrought a great wrong. Therefore Christ's Passion was rather a malefice than a sacrifice.
+
 ## Answer
+
 On the contrary, The Apostle says (Eph. 5:2): "He delivered Himself up for us, an oblation and a sacrifice to God for an odor of sweetness."
+
 I answer that, A sacrifice properly so called is something done for that honor which is properly due to God, in order to appease Him: and hence it is that Augustine says (De Civ. Dei x): "A true sacrifice is every good work done in order that we may cling to God in holy fellowship, yet referred to that consummation of happiness wherein we can be truly blessed." But, as is added in the same place, "Christ offered Himself up for us in the Passion": and this voluntary enduring of the Passion was most acceptable to God, as coming from charity. Therefore it is manifest that Christ's Passion was a true sacrifice. Moreover, as Augustine says farther on in the same book, "the primitive sacrifices of the holy Fathers were many and various signs of this true sacrifice, one being prefigured by many, in the same way as a single concept of thought is expressed in many words, in order to commend it without tediousness": and, as Augustine observe, (De Trin. iv), "since there are four things to be noted in every sacrifice---to wit, to whom it is offered, by whom it is offered, what is offered, and for whom it is offered---that the same one true Mediator reconciling us with God through the peace-sacrifice might continue to be one with Him to whom He offered it, might be one with them for whom He offered it, and might Himself be the offerer and what He offered."
+
 ## Replies
+
 Reply to Objection 1: Although the truth answers to the figure in some respects, yet it does not in all, since the truth must go beyond the figure. Therefore the figure of this sacrifice, in which Christ's flesh is offered, was flesh right fittingly, not the flesh of men, but of animals, as denoting Christ's. And this is a most perfect sacrifice. First of all, since being flesh of human nature, it is fittingly offered for men, and is partaken of by them under the Sacrament. Secondly, because being passible and mortal, it was fit for immolation. Thirdly, because, being sinless, it had virtue to cleanse from sins. Fourthly, because, being the offerer's own flesh, it was acceptable to God on account of His charity in offering up His own flesh. Hence it is that Augustine says (De Trin. iv): "What else could be so fittingly partaken of by men, or offered up for men, as human flesh? What else could be so appropriate for this immolation as mortal flesh? What else is there so clean for cleansing mortals as the flesh born in the womb without fleshly concupiscence, and coming from a virginal womb? What could be so favorably offered and accepted as the flesh of our sacrifice, which was made the body of our Priest?"
+
 Reply to Objection 2: Augustine is speaking there of visible figurative sacrifices: and even Christ's Passion, although denoted by other figurative sacrifices, is yet a sign of something to be observed by us, according to 1 Pet. 4:1: "Christ therefore, having suffered in the flesh, be you also armed with the same thought: for he that hath suffered in the flesh hath ceased from sins: that now he may live the rest of his time in the flesh, not after the desires of men, but according to the will of God."
+
 Reply to Objection 3: Christ's Passion was indeed a malefice on His slayers' part; but on His own it was the sacrifice of one suffering out of charity. Hence it is Christ who is said to have offered this sacrifice, and not the executioners.

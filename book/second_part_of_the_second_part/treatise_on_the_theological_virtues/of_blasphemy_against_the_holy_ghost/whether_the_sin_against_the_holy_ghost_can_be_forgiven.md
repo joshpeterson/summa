@@ -1,16 +1,27 @@
 # Whether The Sin Against The Holy Ghost Can Be Forgiven?
+
 ## Objections
+
 Objection 1: It would seem that the sin against the Holy Ghost can be forgiven. For Augustine says (De Verb. Dom., Serm. lxxi): "We should despair of no man, so long as Our Lord's patience brings him back to repentance." But if any sin cannot be forgiven, it would be possible to despair of some sinners. Therefore the sin against the Holy Ghost can be forgiven.
+
 Objection 2: Further, no sin is forgiven, except through the soul being healed by God. But "no disease is incurable to an all-powerful physician," as a gloss says on Ps. 102:3, "Who healeth all thy diseases." Therefore the sin against the Holy Ghost can be forgiven.
+
 Objection 3: Further, the free-will is indifferent to either good or evil. Now, so long as man is a wayfarer, he can fall away from any virtue, since even an angel fell from heaven, wherefore it is written (Job 4:18,19): "In His angels He found wickedness: how much more shall they that dwell in houses of clay?" Therefore, in like manner, a man can return from any sin to the state of justice. Therefore the sin against the Holy Ghost can be forgiven.
+
 ## Answer
+
 On the contrary, It is written (Mat. 12:32): "He that shall speak against the Holy Ghost, it shall not be forgiven him, neither in this world, nor in the world to come": and Augustine says (De Serm. Dom. in Monte i, 22) that "so great is the downfall of this sin that it cannot submit to the humiliation of asking for pardon."
+
 I answer that, According to the various interpretations of the sin against the Holy Ghost, there are various ways in which it may be said that it cannot be forgiven. For if by the sin against the Holy Ghost we understand final impenitence, it is said to be unpardonable, since in no way is it pardoned: because the mortal sin wherein a man perseveres until death will not be forgiven in the life to come, since it was not remitted by repentance in this life.
 
 According to the other two interpretations, it is said to be unpardonable, not as though it is nowise forgiven, but because, considered in itself, it deserves not to be pardoned: and this in two ways. First, as regards the punishment, since he that sins through ignorance or weakness, deserves less punishment, whereas he that sins through certain malice, can offer no excuse in alleviation of his punishment. Likewise those who blasphemed against the Son of Man before His Godhead was revealed, could have some excuse, on account of the weakness of the flesh which they perceived in Him, and hence, they deserved less punishment; whereas those who blasphemed against His very Godhead, by ascribing to the devil the works of the Holy Ghost, had no excuse in diminution of their punishment. Wherefore, according to Chrysostom's commentary (Hom. xlii in Matth.), the Jews are said not to be forgiven this sin, neither in this world nor in the world to come, because they were punished for it, both in the present life, through the Romans, and in the life to come, in the pains of hell. Thus also Athanasius adduces the example of their forefathers who, first of all, wrangled with Moses on account of the shortage of water and bread; and this the Lord bore with patience, because they were to be excused on account of the weakness of the flesh: but afterwards they sinned more grievously when, by ascribing to an idol the favors bestowed by God Who had brought them out of Egypt, they blasphemed, so to speak, against the Holy Ghost, saying (Ex. 32:4): "These are thy gods, O Israel, that have brought thee out of the land of Egypt." Therefore the Lord both inflicted temporal punishment on them, since "there were slain on that day about three and twenty thousand men" (Ex. 32:28), and threatened them with punishment in the life to come, saying, (Ex. 32:34): "I, in the day of revenge, will visit this sin . . . of theirs."
 
 Secondly, this may be understood to refer to the guilt: thus a disease is said to be incurable in respect of the nature of the disease, which removes whatever might be a means of cure, as when it takes away the power of nature, or causes loathing for food and medicine, although God is able to cure such a disease. So too, the sin against the Holy Ghost is said to be unpardonable, by reason of its nature, in so far as it removes those things which are a means towards the pardon of sins. This does not, however, close the way of forgiveness and healing to an all-powerful and merciful God, Who, sometimes, by a miracle, so to speak, restores spiritual health to such men.
+
 ## Replies
+
 Reply to Objection 1: We should despair of no man in this life, considering God's omnipotence and mercy. But if we consider the circumstances of sin, some are called (Eph. 2:2) "children of despair" [*'Filios diffidentiae,' which the Douay version renders 'children of unbelief.'].
+
 Reply to Objection 2: This argument considers the question on the part of God's omnipotence, not on that of the circumstances of sin.
+
 Reply to Objection 3: In this life the free-will does indeed ever remain subject to change: yet sometimes it rejects that whereby, so far as it is concerned, it can be turned to good. Hence considered in itself this sin is unpardonable, although God can pardon it.

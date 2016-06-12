@@ -1,16 +1,31 @@
 # Whether It Is Against The Natural Law To Have A Concubine?
+
 ## Objections
+
 Objection 1: It would seem that to have a concubine is not against the natural law. For the ceremonies of the Law are not of the natural law. But fornication is forbidden (Acts 15:29) in conjunction with ceremonies of the law which for the time were being imposed on those who were brought to the faith from among the heathens. Therefore simple fornication which is intercourse with a concubine is not against the natural law.
+
 Objection 2: Further, positive law is an outcome of the natural law, as Tully says (De Invent. ii). Now fornication was not forbidden by positive law; indeed according to the ancient laws women used to be sentenced to be taken to brothels. Therefore it is not against the natural law to have a concubine.
+
 Objection 3: Further, the natural law does not forbid that which is given simply, to be given for a time or under certain restrictions. Now one unmarried woman may give the power of her body for ever to an unmarried man, so that he may use her when he will. Therefore it is not against the law of nature, if she give him power of her body for a time.
+
 Objection 4: Further, whoever uses his own property as he will, injures no one. But a bondswoman is her master's property. Therefore if her master use her as he will, he injures no one: and consequently it is not against the natural law to have a concubine.
+
 Objection 5: Further, everyone may give his own property to another. Now the wife has power of her husband's body (1 Cor. 7:4). Therefore if his wife be willing, the husband can have intercourse with another woman without sin.
+
 ## Answer
+
 On the contrary, According to all laws the children born of a concubine are children of shame. But this would not be so unless the union of which they are born were naturally shameful.
+
 I answer that, As stated above [5015](A[1]), an action is said to be against the natural law, if it is not in keeping with the due end intended by nature, whether through not being directed thereto by the action of the agent, or through being directed thereto by the action of the agent, or through being in itself improportionate to that end. Now the end which nature intends in sexual union is the begetting and rearing of the offspring. and that this good might be sought after, it attached pleasure to the union; as Augustine says (De Nup. et Concup. i, 8). Accordingly to make use of sexual intercourse on account of its inherent pleasure, without reference to the end for which nature intended it, is to act against nature, as also is it if the intercourse be not such as may fittingly be directed to that end. And since, for the most part, things are denominated from their end, as being that which is of most consequence to them, just as the marriage union took its name from the good of the offspring [*Cf. Q[44], A[2]], which is the end chiefly sought after in marriage, so the name of concubine is expressive of that union where sexual intercourse is sought after for its own sake. Moreover even though sometimes a man may seek to have offspring of such an intercourse, this is not befitting to the good of the offspring, which signifies not only the begetting of children from which they take their being, but also their rearing and instruction, by which means they receive nourishment and learning from their parents, in respect of which three things the parents are bound to their children, according to the Philosopher (Ethic. viii, 11,12). Now since the rearing and teaching of the children remain a duty of the parents during a long period of time, the law of nature requires the father and mother to dwell together for a long time, in order that together they may be of assistance to their children. Hence birds that unite together in rearing their young do not sever their mutual fellowship from the time when they first come together until the young are fully fledged. Now this obligation which binds the female and her mate to remain together constitutes matrimony. Consequently it is evident that it is contrary to the natural law for a man to have intercourse with a woman who is not married to him, which is the signification of a concubine.
+
 ## Replies
+
 Reply to Objection 1: Among the Gentiles the natural law was obscured in many points: and consequently they did not think it wrong to have intercourse with a concubine, and in many cases practiced fornication as though it were lawful, as also other things contrary to the ceremonial laws of the Jews, though not contrary to the law of nature. Wherefore the apostles inserted the prohibition of fornication among that of other ceremonial observances, because in both cases there was a difference of opinion between Jews and Gentiles.
+
 Reply to Objection 2: This law was the result of the darkness just mentioned, into which the Gentiles had fallen, by not giving due honor to God as stated in Rom. 1:21, and did not proceed from the instinct of the natural law. Hence, when the Christian religion prevailed, this law was abolished.
+
 Reply to Objection 3: In certain cases no evil results ensue if a person surrenders his right to a thing whether absolutely or for a time, so that in neither case is the surrender against the natural law. But that does not apply to the case in point, wherefore the argument does not prove.
+
 Reply to Objection 4: Injury is opposed to justice. Now the natural law forbids not only injustice, but also whatever is opposed to any of the virtues: for instance it is contrary to the natural law to eat immoderately, although by doing so a man uses his own property without injury to anyone. Moreover although a bondswoman is her master's property that she may serve him, she is not his that she may be his concubine. And again it depends how a person makes use of his property. For such a man does an injury to the offspring he begets, since such a union is not directed to its good, as stated above.
+
 Reply to Objection 5: The wife has power of her husband's body, not simply and in all respects, but only in relation to marriage, and consequently she cannot transfer her husband's body to another to the detriment of the good of marriage.

@@ -1,12 +1,23 @@
 # Whether The Corporeal Creature Is Governed By The Angels?
+
 ## Objections
+
 Objection 1: It would seem that the corporeal creature is not governed by angels. For whatever possesses a determinate mode of action, needs not to be governed by any superior power; for we require to be governed lest we do what we ought not. But corporeal things have their actions determined by the nature divinely bestowed upon them. Therefore they do not need the government of angels.
+
 Objection 2: Further, the lowest things are ruled by the superior. But some corporeal things are inferior, and others are superior. Therefore they need not be governed by the angels.
+
 Objection 3: Further, the different orders of the angels are distinguished by different offices. But if corporeal creatures were ruled by the angels, there would be as many angelic offices as there are species of things. So also there would be as many orders of angels as there are species of things; which is against what is laid down above ([892]Q[108], A[2]). Therefore the corporeal creature is not governed by angels.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. iii, 4) that "all bodies are ruled by the rational spirit of life"; and Gregory says (Dial. iv, 6), that "in this visible world nothing takes place without the agency of the invisible creature."
+
 I answer that, It is generally found both in human affairs and in natural things that every particular power is governed and ruled by the universal power; as, for example, the bailiff's power is governed by the power of the king. Among the angels also, as explained above ([893]Q[55], A[3] ; [894]Q[108], A[1]), the superior angels who preside over the inferior possess a more universal knowledge. Now it is manifest that the power of any individual body is more particular than the power of any spiritual substance; for every corporeal form is a form individualized by matter, and determined to the "here and now"; whereas immaterial forms are absolute and intelligible. Therefore, as the inferior angels who have the less universal forms, are ruled by the superior; so are all corporeal things ruled by the angels. This is not only laid down by the holy doctors, but also by all philosophers who admit the existence of incorporeal substances.
+
 ## Replies
+
 Reply to Objection 1: Corporeal things have determinate actions; but they exercise such actions only according as they are moved; because it belongs to a body not to act unless moved. Hence a corporeal creature must be moved by a spiritual creature.
+
 Reply to Objection 2: The reason alleged is according to the opinion of Aristotle who laid down (Metaph. xi, 8) that the heavenly bodies are moved by spiritual substances; the number of which he endeavored to assign according to the number of motions apparent in the heavenly bodies. But he did not say that there were any spiritual substances with immediate rule over the inferior bodies, except perhaps human souls; and this was because he did not consider that any operations were exercised in the inferior bodies except the natural ones for which the movement of the heavenly bodies sufficed. But because we assert that many things are done in the inferior bodies besides the natural corporeal actions, for which the movements of the heavenly bodies are not sufficient; therefore in our opinion we must assert that the angels possess an immediate presidency not only over the heavenly bodies, but also over the inferior bodies.
+
 Reply to Objection 3: Philosophers have held different opinions about immaterial substances. For Plato laid down that immaterial substances were types and species of sensible bodies; and that some were more universal than others; and so he held that immaterial substances preside immediately over all sensible bodies, and different ones over different bodies. But Aristotle held that immaterial substances are not the species of sensible bodies, but something higher and more universal; and so he did not attribute to them any immediate presiding over single bodies, but only over the universal agents, the heavenly bodies. Avicenna followed a middle course. For he agreed with Plato in supposing some spiritual substance to preside immediately in the sphere of active and passive elements; because, as Plato also said, he held that the forms of these sensible things are derived from immaterial substances. But he differed from Plato because he supposed only one immaterial substance to preside over all inferior bodies, which he called the "active intelligence."

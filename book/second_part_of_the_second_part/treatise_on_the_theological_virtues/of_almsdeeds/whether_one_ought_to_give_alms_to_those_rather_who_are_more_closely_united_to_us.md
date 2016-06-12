@@ -1,12 +1,23 @@
 # Whether One Ought To Give Alms To Those Rather Who Are More Closely United To Us?
+
 ## Objections
+
 Objection 1: It would seem that one ought not to give alms to those rather who are more closely united to us. For it is written (Ecclus. 12:4, 6): "Give to the merciful and uphold not the sinner . . . Do good to the humble and give not to the ungodly." Now it happens sometimes that those who are closely united to us are sinful and ungodly. Therefore we ought not to give alms to them in preference to others.
+
 Objection 2: Further, alms should be given that we may receive an eternal reward in return, according to Mat. 6:18: "And thy Father Who seeth in secret, will repay thee." Now the eternal reward is gained chiefly by the alms which are given to the saints, according to Lk. 16:9: "Make unto you friends of the mammon of iniquity, that when you shall fail, they may receive you into everlasting dwellings, which passage Augustine expounds (De Verb. Dom. xxxv, 1): "Who shall have everlasting dwellings unless the saints of God? And who are they that shall be received by them into their dwellings, if not those who succor them in their needs? Therefore alms should be given to the more holy persons rather than to those who are more closely united to us.
+
 Objection 3: Further, man is more closely united to himself. But a man cannot give himself an alms. Therefore it seems that we are not bound to give alms to those who are most closely united to us.
+
 ## Answer
+
 On the contrary, The Apostle says (1 Tim. 5:8): "If any man have not care of his own, and especially of those of his house, he hath denied the faith, and is worse than an infidel."
+
 I answer that, As Augustine says (De Doctr. Christ. i, 28), "it falls to us by lot, as it were, to have to look to the welfare of those who are more closely united to us." Nevertheless in this matter we must employ discretion, according to the various degrees of connection, holiness and utility. For we ought to give alms to one who is much holier and in greater want, and to one who is more useful to the common weal, rather than to one who is more closely united to us, especially if the latter be not very closely united, and has no special claim on our care then and there, and who is not in very urgent need.
+
 ## Replies
+
 Reply to Objection 1: We ought not to help a sinner as such, that is by encouraging him to sin, but as man, that is by supporting his nature.
+
 Reply to Objection 2: Almsdeeds deserve on two counts to receive an eternal reward. First because they are rooted in charity, and in this respect an almsdeed is meritorious in so far as it observes the order of charity, which requires that, other things being equal, we should, in preference, help those who are more closely connected with us. Wherefore Ambrose says (De Officiis i, 30): "It is with commendable liberality that you forget not your kindred, if you know them to be in need, for it is better that you should yourself help your own family, who would be ashamed to beg help from others." Secondly, almsdeeds deserve to be rewarded eternally, through the merit of the recipient, who prays for the giver, and it is in this sense that Augustine is speaking.
+
 Reply to Objection 3: Since almsdeeds are works of mercy, just as a man does not, properly speaking, pity himself, but only by a kind of comparison, as stated above ([2608]Q[30], AA[1],2), so too, properly speaking, no man gives himself an alms, unless he act in another's person; thus when a man is appointed to distribute alms, he can take something for himself, if he be in want, on the same ground as when he gives to others.

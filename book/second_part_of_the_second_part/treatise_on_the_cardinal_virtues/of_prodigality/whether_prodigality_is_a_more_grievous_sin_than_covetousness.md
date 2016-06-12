@@ -1,12 +1,23 @@
 # Whether Prodigality Is A More Grievous Sin Than Covetousness?
+
 ## Objections
+
 Objection 1: It seems that prodigality is a more grievous sin than covetousness. For by covetousness a man injures his neighbor by not communicating his goods to him, whereas by prodigality a man injures himself, because the Philosopher says (Ethic. iv, 1) that "the wasting of riches, which are the means whereby a man lives, is an undoing of his very being." Now he that injures himself sins more grievously, according to Ecclus. 14:5, "He that is evil to himself, to whom will he be good?" Therefore prodigality is a more grievous sin than covetousness.
+
 Objection 2: Further, a disorder that is accompanied by a laudable circumstance is less sinful. Now the disorder of covetousness is sometimes accompanied by a laudable circumstance, as in the case of those who are unwilling to spend their own, lest they be driven to accept from others: whereas the disorder of prodigality is accompanied by a circumstance that calls for blame, inasmuch as we ascribe prodigality to those who are intemperate, as the Philosopher observes (Ethic. iv, 1). Therefore prodigality is a more grievous sin than covetousness.
+
 Objection 3: Further, prudence is chief among the moral virtues, as stated above (Q[56], A[1], ad 1; [3259]FS, Q[61], A[2], ad 1). Now prodigality is more opposed to prudence than covetousness is: for it is written (Prov. 21:20): "There is a treasure to be desired, and oil in the dwelling of the just; and the foolish man shall spend it": and the Philosopher says (Ethic. iv, 6) that "it is the mark of a fool to give too much and receive nothing." Therefore prodigality is a more grievous sin than covetousness.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. iv, 6) that "the prodigal seems to be much better than the illiberal man."
+
 I answer that, Prodigality considered in itself is a less grievous sin than covetousness, and this for three reasons. First, because covetousness differs more from the opposite virtue: since giving, wherein the prodigal exceeds, belongs to liberality more than receiving or retaining, wherein the covetous man exceeds. Secondly, because the prodigal man is of use to the many to whom he gives, while the covetous man is of use to no one, not even to himself, as stated in Ethic. iv, 6. Thirdly, because prodigality is easily cured. For not only is the prodigal on the way to old age, which is opposed to prodigality, but he is easily reduced to a state of want, since much useless spending impoverishes him and makes him unable to exceed in giving. Moreover, prodigality is easily turned into virtue on account of its likeness thereto. On the other hand, the covetous man is not easily cured, for the reason given above ([3260]Q[118], A[5], ad 3).
+
 ## Replies
+
 Reply to Objection 1: The difference between the prodigal and the covetous man is not that the former sins against himself and the latter against another. For the prodigal sins against himself by spending that which is his, and his means of support, and against others by spending the wherewithal to help others. This applies chiefly to the clergy, who are the dispensers of the Church's goods, that belong to the poor whom they defraud by their prodigal expenditure. In like manner the covetous man sins against others, by being deficient in giving; and he sins against himself, through deficiency in spending: wherefore it is written (Eccles. 6:2): "A man to whom God hath given riches . . . yet doth not give him the power to eat thereof." Nevertheless the prodigal man exceeds in this, that he injures both himself and others yet so as to profit some; whereas the covetous man profits neither others nor himself, since he does not even use his own goods for his own profit.
+
 Reply to Objection 2: In speaking of vices in general, we judge of them according to their respective natures: thus, with regard to prodigality we note that it consumes riches to excess, and with regard to covetousness that it retains them to excess. That one spend too much for the sake of intemperance points already to several additional sins, wherefore the prodigal of this kind is worse, as stated in Ethic. iv, 1. That an illiberal or covetous man refrain from taking what belongs to others, although this appears in itself to call for praise, yet on account of the motive for which he does so it calls for blame, since he is unwilling to accept from others lest he be forced to give to others.
+
 Reply to Objection 3: All vices are opposed to prudence, even as all virtues are directed by prudence: wherefore if a vice be opposed to prudence alone, for this very reason it is deemed less grievous.

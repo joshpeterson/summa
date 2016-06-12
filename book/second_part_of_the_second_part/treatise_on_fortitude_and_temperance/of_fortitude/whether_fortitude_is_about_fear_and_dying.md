@@ -1,12 +1,23 @@
 # Whether Fortitude Is About Fear And Dying?
+
 ## Objections
+
 Objection 1: It seems that fortitude is not about fear and daring. For Gregory says (Moral. vii): "The fortitude of the just man is to overcome the flesh, to withstand self-indulgence, to quench the lusts of the present life." Therefore fortitude seems to be about pleasures rather than about fear and daring.
+
 Objection 2: Further, Tully says (De Invent. Rhet. ii), that it belongs to fortitude to face dangers and to bear toil. But this seemingly has nothing to do with the passions of fear and daring, but rather with a man's toilsome deeds and external dangers. Therefore fortitude is not about fear and daring.
+
 Objection 3: Further, not only daring, but also hope, is opposed to fear, as stated above ([3286]FS, Q[45], A[1], ad 2) in the treatise on passions. Therefore fortitude should not be about daring any more than about hope.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. ii, 7; iii, 9) that fortitude is about fear and daring.
+
 I answer that, As stated above [3287](A[1]), it belongs to the virtue of fortitude to remove any obstacle that withdraws the will from following the reason. Now to be withdrawn from something difficult belongs to the notion of fear, which denotes withdrawal from an evil that entails difficulty, as stated above ([3288]FS, Q[42], AA[3],5) in the treatise on passions. Hence fortitude is chiefly about fear of difficult things, which can withdraw the will from following the reason. And it behooves one not only firmly to bear the assault of these difficulties by restraining fear, but also moderately to withstand them, when, to wit, it is necessary to dispel them altogether in order to free oneself therefrom for the future, which seems to come under the notion of daring. Therefore fortitude is about fear and daring, as curbing fear and moderating daring.
+
 ## Replies
+
 Reply to Objection 1: Gregory is speaking then of the fortitude of the just man, as to its common relation to all virtues. Hence he first of all mentions matters pertaining to temperance, as in the words quoted, and then adds that which pertains properly to fortitude as a special virtue, by saying: "To love the trials of this life for the sake of an eternal reward."
+
 Reply to Objection 2: Dangers and toils do not withdraw the will from the course of reason, except in so far as they are an object of fear. Hence fortitude needs to be immediately about fear and daring, but mediately about dangers and toils, these being the objects of those passions.
+
 Reply to Objection 3: Hope is opposed to fear on the part of the object, for hope is of good, fear of evil: whereas daring is about the same object, and is opposed to fear by way of approach and withdrawal, as stated above ([3289]FS, Q[45], A[1]). And since fortitude properly regards those temporal evils that withdraw one from virtue, as appears from Tully's definition quoted in the Second Objection, it follows that fortitude properly is about fear and daring and not about hope, except in so far as it is connected with daring, as stated above ([3290]FS, Q[45], A[2]).

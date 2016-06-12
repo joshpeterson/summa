@@ -1,12 +1,23 @@
 # Whether Chastity Is A General Virtue?
+
 ## Objections
+
 Objection 1: It would seem that chastity is a general virtue. For Augustine says (De Mendacio xx) that "chastity of the mind is the well-ordered movement of the mind that does not prefer the lesser to the greater things." But this belongs to every virtue. Therefore chastity is a general virtue.
+
 Objection 2: Further, "Chastity" takes its name from "chastisement" [*Cf. A[1] ]. Now every movement of the appetitive part should be chastised by reason. Since, then, every moral virtue curbs some movement of the appetite, it seems that every moral virtue is chastity.
+
 Objection 3: Further, chastity is opposed to fornication. But fornication seems to belong to every kind of sin: for it is written (Ps. 72:27): "Thou shalt destroy [Vulg.: 'hast destroyed'] all them that go awhoring from [Douay: 'are disloyal to'] Thee." Therefore chastity is a general virtue.
+
 ## Answer
+
 On the contrary, Macrobius [*In Somn. Scip. i, 8] reckons it to be a part of temperance.
+
 I answer that, The word "chastity" is employed in two ways. First, properly; and thus it is a special virtue having a special matter, namely the concupiscences relating to venereal pleasures. Secondly, the word "chastity" is employed metaphorically: for just as a mingling of bodies conduces to venereal pleasure which is the proper matter of chastity and of lust its contrary vice, so too the spiritual union of the mind with certain things conduces to a pleasure which is the matter of a spiritual chastity metaphorically speaking, as well as of a spiritual fornication likewise metaphorically so called. For if the human mind delight in the spiritual union with that to which it behooves it to be united, namely God, and refrains from delighting in union with other things against the requirements of the order established by God, this may be called a spiritual chastity, according to 2 Cor. 11:2, "I have espoused you to one husband, that I may present you as a chaste virgin to Christ." If, on the other hand, the mind be united to any other things whatsoever, against the prescription of the Divine order, it will be called spiritual fornication, according to Jer. 3:1, "But thou hast prostituted thyself to many lovers." Taking chastity in this sense, it is a general virtue, because every virtue withdraws the human mind from delighting in a union with unlawful things. Nevertheless, the essence of this chastity consists principally in charity and the other theological virtues, whereby the human mind is united to God.
+
 ## Replies
+
 Reply to Objection 1: This argument takes chastity in the metaphorical sense.
+
 Reply to Objection 2: As stated above [3511](A[1]; Q[142], A[2]), the concupiscence of that which gives pleasure is especially likened to a child, because the desire of pleasure is connatural to us, especially of pleasures of touch which are directed to the maintenance of nature. Hence it is that if the concupiscence of such pleasures be fostered by consenting to it, it will wax very strong, as in the case of a child left to his own will. Wherefore the concupiscence of these pleasures stands in very great need of being chastised: and consequently chastity is applied antonomastically to such like concupiscences, even as fortitude is about those matters wherein we stand in the greatest need of strength of mind.
+
 Reply to Objection 3: This argument considers spiritual fornication metaphorically so called, which is opposed to spiritual chastity, as stated.

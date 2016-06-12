@@ -1,12 +1,23 @@
 # Whether Man's Happiness Consists In Honors?
+
 ## Objections
+
 Objection 1: It would seem that man's happiness consists in honors. For happiness or bliss is "the reward of virtue," as the Philosopher says (Ethic. i, 9). But honor more than anything else seems to be that by which virtue is rewarded, as the Philosopher says (Ethic. iv, 3). Therefore happiness consists especially in honor.
+
 Objection 2: Further, that which belongs to God and to persons of great excellence seems especially to be happiness, which is the perfect good. But that is honor, as the Philosopher says (Ethic. iv, 3). Moreover, the Apostle says (1 Tim. 1:17): "To . . . the only God be honor and glory." Therefore happiness consists in honor.
+
 Objection 3: Further, that which man desires above all is happiness. But nothing seems more desirable to man than honor: since man suffers loss in all other things, lest he should suffer loss of honor. Therefore happiness consists in honor.
+
 ## Answer
+
 On the contrary, Happiness is in the happy. But honor is not in the honored, but rather in him who honors, and who offers deference to the person honored, as the Philosopher says (Ethic. i, 5). Therefore happiness does not consist in honor.
+
 I answer that, It is impossible for happiness to consist in honor. For honor is given to a man on account of some excellence in him; and consequently it is a sign and attestation of the excellence that is in the person honored. Now a man's excellence is in proportion, especially to his happiness, which is man's perfect good; and to its parts, i.e. those goods by which he has a certain share of happiness. And therefore honor can result from happiness, but happiness cannot principally consist therein.
+
 ## Replies
+
 Reply to Objection 1: As the Philosopher says (Ethic. i, 5), honor is not that reward of virtue, for which the virtuous work: but they receive honor from men by way of reward, "as from those who have nothing greater to offer." But virtue's true reward is happiness itself, for which the virtuous work: whereas if they worked for honor, it would no longer be a virtue, but ambition.
+
 Reply to Objection 2: Honor is due to God and to persons of great excellence as a sign of attestation of excellence already existing: not that honor makes them excellent.
+
 Reply to Objection 3: That man desires honor above all else, arises from his natural desire for happiness, from which honor results, as stated above. Wherefore man seeks to be honored especially by the wise, on whose judgment he believes himself to be excellent or happy.

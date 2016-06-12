@@ -1,11 +1,19 @@
 # Whether We Can Lose Charity When Once We Have It?
+
 ## Objections
+
 Objection 1: It would seem that we cannot lose charity when once we have it. For if we lose it, this can only be through sin. Now he who has charity cannot sin, for it is written (1 Jn. 3:9): "Whosoever is born of God, committeth not sin; for His seed abideth in him, and he cannot sin, because he is born of God." But none save the children of God have charity, for it is this which distinguishes "the children of God from the children of perdition," as Augustine says (De Trin. xv, 17). Therefore he that has charity cannot lose it.
+
 Objection 2: Further, Augustine says (De Trin. viii, 7) that "if love be not true, it should not be called love." Now, as he says again in a letter to Count Julian, "charity which can fail was never true." [*The quotation is from De Salutaribus Documentis ad quemdam comitem, vii., among the works of Paul of Friuli, more commonly known as Paul the Deacon, a monk of Monte Cassino.] Therefore it was no charity at all. Therefore, when once we have charity, we cannot lose it.
+
 Objection 3: Further, Gregory says in a homily for Pentecost (In Evang. xxx) that "God's love works great things where it is; if it ceases to work it is not charity." Now no man loses charity by doing great things. Therefore if charity be there, it cannot be lost.
+
 Objection 4: Further, the free-will is not inclined to sin unless by some motive for sinning. Now charity excludes all motives for sinning, both self-love and cupidity, and all such things. Therefore charity cannot be lost.
+
 ## Answer
+
 On the contrary, It is written (Apoc. 2:4): "I have somewhat against thee, because thou hast left thy first charity."
+
 I answer that, The Holy Ghost dwells in us by charity, as shown above [2527](A[2]; QQ[23],24). We can, accordingly, consider charity in three ways: first on the part of the Holy Ghost, Who moves the soul to love God, and in this respect charity is incompatible with sin through the power of the Holy Ghost, Who does unfailingly whatever He wills to do. Hence it is impossible for these two things to be true at the same time---that the Holy Ghost should will to move a certain man to an act of charity, and that this man, by sinning, should lose charity. For the gift of perseverance is reckoned among the blessings of God whereby "whoever is delivered, is most certainly delivered," as Augustine says in his book on the Predestination of the saints (De Dono Persev. xiv).
 
 Secondly, charity may be considered as such, and thus it is incapable of anything that is against its nature. Wherefore charity cannot sin at all, even as neither can heat cool, nor unrighteousness do good, as Augustine says (De Serm. Dom. in Monte ii, 24).
@@ -13,8 +21,13 @@ Secondly, charity may be considered as such, and thus it is incapable of anythin
 Thirdly, charity can be considered on the part of its subject, which is changeable on account of the free-will. Moreover charity may be compared with this subject, both from the general point of view of form in comparison with matter, and from the specific point of view of habit as compared with power. Now it is natural for a form to be in its subject in such a way that it can be lost, when it does not entirely fill the potentiality of matter: this is evident in the forms of things generated and corrupted, because the matter of such things receives one form in such a way, that it retains the potentiality to another form, as though its potentiality were not completely satisfied with the one form. Hence the one form may be lost by the other being received. On the other hand the form of a celestial body which entirely fills the potentiality of its matter, so that the latter does not retain the potentiality to another form, is in its subject inseparably. Accordingly the charity of the blessed, because it entirely fills the potentiality of the rational mind, since every actual movement of that mind is directed to God, is possessed by its subject inseparably: whereas the charity of the wayfarer does not so fill the potentiality of its subject, because the latter is not always actually directed to God: so that when it is not actually directed to God, something may occur whereby charity is lost.
 
 It is proper to a habit to incline a power to act, and this belongs to a habit, in so far as it makes whatever is suitable to it, to seem good, and whatever is unsuitable, to seem evil. For as the taste judges of savors according to its disposition, even so does the human mind judge of things to be done, according to its habitual disposition. Hence the Philosopher says (Ethic. iii, 5) that "such as a man is, so does the end appear to him." Accordingly charity is inseparable from its possessor, where that which pertains to charity cannot appear otherwise than good, and that is in heaven, where God is seen in His Essence, which is the very essence of goodness. Therefore the charity of heaven cannot be lost, whereas the charity of the way can, because in this state God is not seen in His Essence, which is the essence of goodness.
+
 ## Replies
+
 Reply to Objection 1: The passage quoted speaks from the point of view of the power of the Holy Ghost, by Whose safeguarding, those whom He wills to move are rendered immune from sin, as much as He wills.
+
 Reply to Objection 2: The charity which can fail by reason of itself is no true charity; for this would be the case, were its love given only for a time, and afterwards were to cease, which would be inconsistent with true love. If, however, charity be lost through the changeableness of the subject, and against the purpose of charity included in its act, this is not contrary to true charity.
+
 Reply to Objection 3: The love of God ever works great things in its purpose, which is essential to charity; but it does not always work great things in its act, on account of the condition of its subject.
+
 Reply to Objection 4: Charity by reason of its act excludes every motive for sinning. But it happens sometimes that charity is not acting actually, and then it is possible for a motive to intervene for sinning, and if we consent to this motive, we lose charity.

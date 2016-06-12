@@ -1,12 +1,23 @@
 # Whether The Priesthood Of Christ Was According To The Order Of Melchisedech?
+
 ## Objections
+
 Objection 1: It would seem that Christ's priesthood was not according to the order of Melchisedech. For Christ is the fountain-head of the entire priesthood, as being the principal priest. Now that which is principal is not . secondary in regard to others, but others are secondary in its regard. Therefore Christ should not be called a priest according to the order of Melchisedech.
+
 Objection 2: Further, the priesthood of the Old Law was more akin to Christ's priesthood than was the priesthood that existed before the Law. But the nearer the sacraments were to Christ, the more clearly they signified Him; as is clear from what we have said in the [4107]SS, Q[2], A[7]. Therefore the priesthood of Christ should be denominated after the priesthood of the Law, rather than after the order of Melchisedech, which was before the Law.
+
 Objection 3: Further, it is written (Heb. 7:2,3): "That is 'king of peace,' without father, without mother, without genealogy; having neither beginning of days nor ending of life": which can be referred only to the Son of God. Therefore Christ should not be called a priest according to the order of Melchisedech, as of some one else, but according to His own order.
+
 ## Answer
+
 On the contrary, It is written (Ps. 109:4): "Thou art a priest for ever according to the order of Melchisedech."
+
 I answer that, As stated above (A[4], ad 3) the priesthood of the Law was a figure of the priesthood of Christ, not as adequately representing the reality, but as falling far short thereof: both because the priesthood of the Law did not wash away sins, and because it was not eternal, as the priesthood of Christ. Now the excellence of Christ's over the Levitical priesthood was foreshadowed in the priesthood of Melchisedech, who received tithes from Abraham, in whose loins the priesthood of the Law was tithed. Consequently the priesthood of Christ is said to be "according to the order of Melchisedech," on account of the excellence of the true priesthood over the figural priesthood of the Law.
+
 ## Replies
+
 Reply to Objection 1: Christ is said to be according to the order of Melchisedech not as though the latter were a more excellent priest, but because he foreshadowed the excellence of Christ's over the Levitical priesthood.
+
 Reply to Objection 2: Two things may be considered in Christ's priesthood: namely, the offering made by Christ, and (our) partaking thereof. As to the actual offering, the priesthood of Christ was more distinctly foreshadowed by the priesthood of the Law, by reason of the shedding of blood, than by the priesthood of Melchisedech in which there was no blood-shedding. But if we consider the participation of this sacrifice and the effect thereof, wherein the excellence of Christ's priesthood over the priesthood of the Law principally consists, then the former was more distinctly foreshadowed by the priesthood of Melchisedech, who offered bread and wine, signifying, as Augustine says (Tract. xxvi in Joan.) ecclesiastical unity, which is established by our taking part in the sacrifice of Christ [*Cf.[4108] Q[79], A[1]]. Wherefore also in the New Law the true sacrifice of Christ is presented to the faithful under the form of bread and wine.
+
 Reply to Objection 3: Melchisedech is described as "without father, without mother, without genealogy," and as "having neither beginning of days nor ending of life," not as though he had not these things, but because these details in his regard are not supplied by Holy Scripture. And this it is that, as the Apostle says in the same passage, he is "likened unto the Son of God," Who had no earthly father, no heavenly mother, and no genealogy, according to Is. 53:8: "Who shall declare His generation?" and Who in His Godhead has neither beginning nor end of days.

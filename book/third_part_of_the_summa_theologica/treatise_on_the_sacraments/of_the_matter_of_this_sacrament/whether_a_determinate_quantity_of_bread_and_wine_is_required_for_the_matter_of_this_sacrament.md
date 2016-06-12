@@ -1,12 +1,23 @@
 # Whether A Determinate Quantity Of Bread And Wine Is Required For The Matter Of This Sacrament?
+
 ## Objections
+
 Objection 1: It seems that a determinate quantity of bread and wine is required for the matter of this sacrament. Because the effects of grace are no less set in order than those of nature. But, "there is a limit set by nature upon all existing things, and a reckoning of size and development" (De Anima ii). Consequently, in this sacrament, which is called "Eucharist," that is, "a good grace," a determinate quantity of the bread and wine is required.
+
 Objection 2: Further, Christ gave no power to the ministers of the Church regarding matters which involve derision of the faith and of His sacraments, according to 2 Cor. 10:8: "Of our power which the Lord hath given us unto edification, and not for your destruction." But it would lead to mockery of this sacrament if the priest were to wish to consecrate all the bread which is sold in the market and all the wine in the cellar. Therefore he cannot do this.
+
 Objection 3: Further, if anyone be baptized in the sea, the entire sea-water is not sanctified by the form of baptism, but only the water wherewith the body of the baptized is cleansed. Therefore, neither in this sacrament can a superfluous quantity of bread be consecrated.
+
 ## Answer
+
 On the contrary, Much is opposed to little, and great to small. But there is no quantity, however small, of the bread and wine which cannot be consecrated. Therefore, neither is there any quantity, however great, which cannot be consecrated.
+
 I answer that, Some have maintained that the priest could not consecrate an immense quantity of bread and wine, for instance, all the bread in the market or all the wine in a cask. But this does not appear to be true, because in all things containing matter, the reason for the determination of the matter is drawn from its disposition to an end, just as the matter of a saw is iron, so as to adapt it for cutting. But the end of this sacrament is the use of the faithful. Consequently, the quantity of the matter of this sacrament must be determined by comparison with the use of the faithful. But this cannot be determined by comparison with the use of the faithful who are actually present; otherwise the parish priest having few parishioners could not consecrate many hosts. It remains, then, for the matter of this sacrament to be determined in reference to the number of the faithful absolutely. But the number of the faithful is not a determinate one. Hence it cannot be said that the quantity of the matter of this sacrament is restricted.
+
 ## Replies
+
 Reply to Objection 1: The matter of every natural object has its determinate quantity by comparison with its determinate form. But the number of the faithful, for whose use this sacrament is ordained, is not a determinate one. Consequently there is no comparison.
+
 Reply to Objection 2: The power of the Church's ministers is ordained for two purposes: first for the proper effect, and secondly for the end of the effect. But the second does not take away the first. Hence, if the priest intends to consecrate the body of Christ for an evil purpose, for instance, to make mockery of it, or to administer poison through it, he commits sin by his evil intention, nevertheless, on account of the power committed to him, he accomplishes the sacrament.
+
 Reply to Objection 3: The sacrament of Baptism is perfected in the use of the matter: and therefore no more of the water is hallowed than what is used. But this sacrament is wrought in the consecration of the matter. Consequently there is no parallel.

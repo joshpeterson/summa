@@ -1,12 +1,23 @@
 # Whether Theft And Robbery Are Sins Of Different Species?
+
 ## Objections
+
 Objection 1: It would seem that theft and robbery are not sins of different species. For theft and robbery differ as "secret" and "manifest": because theft is taking something secretly, while robbery is to take something violently and openly. Now in the other kinds of sins, the secret and the manifest do not differ specifically. Therefore theft and robbery are not different species of sin.
+
 Objection 2: Further, moral actions take their species from the end, as stated above ([2915]FS, Q[1], A[3]; Q[18], A[6]). Now theft and robbery are directed to the same end, viz. the possession of another's property. Therefore they do not differ specifically.
+
 Objection 3: Further, just as a thing is taken by force for the sake of possession, so is a woman taken by force for pleasure: wherefore Isidore says (Etym. x) that "he who commits a rape is called a corrupter, and the victim of the rape is said to be corrupted." Now it is a case of rape whether the woman be carried off publicly or secretly. Therefore the thing appropriated is said to be taken by force, whether it be done secretly or publicly. Therefore theft and robbery do not differ.
+
 ## Answer
+
 On the contrary, The Philosopher (Ethic. v, 2) distinguishes theft from robbery, and states that theft is done in secret, but that robbery is done openly.
+
 I answer that, Theft and robbery are vices contrary to justice, in as much as one man does another an injustice. Now "no man suffers an injustice willingly," as stated in Ethic. v, 9. Wherefore theft and robbery derive their sinful nature, through the taking being involuntary on the part of the person from whom something is taken. Now the involuntary is twofold, namely, through violence and through ignorance, as stated in Ethic. iii, 1. Therefore the sinful aspect of robbery differs from that of theft: and consequently they differ specifically.
+
 ## Replies
+
 Reply to Objection 1: In the other kinds of sin the sinful nature is not derived from something involuntary, as in the sins opposed to justice: and so where there is a different kind of involuntary, there is a different species of sin.
+
 Reply to Objection 2: The remote end of robbery and theft is the same. But this is not enough for identity of species, because there is a difference of proximate ends, since the robber wishes to take a thing by his own power, but the thief, by cunning.
+
 Reply to Objection 3: The robbery of a woman cannot be secret on the part of the woman who is taken: wherefore even if it be secret as regards the others from whom she is taken, the nature of robbery remains on the part of the woman to whom violence is done.

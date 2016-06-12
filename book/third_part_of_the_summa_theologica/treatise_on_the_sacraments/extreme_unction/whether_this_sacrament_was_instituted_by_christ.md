@@ -1,14 +1,25 @@
 # Whether This Sacrament Was Instituted By Christ?
+
 ## Objections
+
 Objection 1: It would seem that this sacrament was not instituted by Christ. For mention is made in the Gospel of the institution of those sacraments which Christ instituted, for instance the Eucharist and Baptism. But no mention is made of Extreme Unction. Therefore it was not instituted by Christ.
+
 Objection 2: Further, the Master says explicitly (Sent. iv, D, 23) that it was instituted by the apostles. Therefore Christ did not institute it Himself.
+
 Objection 3: Further, Christ showed forth the sacraments which He instituted, as in the case of the Eucharist and Baptism. But He did not bestow this sacrament on anyone. Therefore He did not institute it Himself.
+
 ## Answer
+
 On the contrary, The sacraments of the New Law are more excellent than those of the Old Law. But all the sacraments of the Old Law were instituted by God. Therefore much more do all the sacraments of the New Law owe their institution to Christ Himself.
+
 I answer that, There are two opinions on this point. For some hold that this sacrament and Confirmation were not instituted by Christ Himself, but were left by Him to be instituted by the apostles; for the reason that these two sacraments, on account of the plenitude of grace conferred in them, could not be instituted before the mission of the Holy Ghost in perfect plenitude. Hence they are sacraments of the New Law in such a way as not to be foreshadowed in the Old Law. But this argument is not very cogent, since, just as Christ, before His Passion, promised the mission of the Holy Ghost in His plenitude, so could He institute these sacraments.
 
 Wherefore others hold that Christ Himself instituted all the sacraments, but that He Himself published some, which present greater difficulty to our belief, while he reserved some to be published by the apostles, such as Extreme Unction and Confirmation. This opinion seems so much the more probable, as the sacraments belong to the foundation of the Law, wherefore their institution pertains to the lawgiver; besides, they derive their efficacy from their institution, which efficacy is given them by God alone.
+
 ## Replies
+
 Reply to Objection 1: Our Lord did and said many things which are not related in the Gospel. For the evangelists were intent on handing down chiefly those things that were necessary for salvation or concerned the building of the ecclesiastical edifice. Hence they related the institution by Christ of Baptism, Penance, the Eucharist and orders, rather than of Extreme Unction and Confirmation, which are not necessary for salvation, nor do they concern the building or division of the Church. As a matter of fact however an anointing done by the apostles is mentioned in the Gospel (Mk. 6:13) where it is said that they "anointed the sick with oil."
+
 Reply to Objection 2: The Master says it was instituted by the apostles because its institution was made known to us by the teaching of the apostles.
+
 Reply to Objection 3: Christ did not show forth any sacrament except such as He received by way of example: but He could not be a recipient of Penance and Extreme Unction, since there was no sin in Him: hence He did not show them forth.

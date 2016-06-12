@@ -1,12 +1,23 @@
 # Whether Determinate Words Are Required In The Sacraments?
+
 ## Objections
+
 Objection 1: It seems that determinate words are not required in the sacraments. For as the Philosopher says (Peri Herm. i), "words are not the same for all." But salvation, which is sought through the sacraments, is the same for all. Therefore determinate words are not required in the sacraments.
+
 Objection 2: Further, words are required in the sacraments forasmuch as they are the principal means of signification, as stated above [4345](A[6]). But it happens that various words mean the same. Therefore determinate words are not required in the sacraments.
+
 Objection 3: Further, corruption of anything changes its species. But some corrupt the pronunciation of words, and yet it is not credible that the sacramental effect is hindered thereby; else unlettered men and stammerers, in conferring sacraments, would frequently do so invalidly. Therefore it seems that determinate words are not required in the sacraments.
+
 ## Answer
+
 On the contrary, our Lord used determinate words in consecrating the sacrament of the Eucharist, when He said (Mat. 26:26): "This is My Body." Likewise He commanded His disciples to baptize under a form of determinate words, saying (Mat. 28:19): "Go ye and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost."
+
 I answer that, As stated above (A[6], ad 2), in the sacraments the words are as the form, and sensible things are as the matter. Now in all things composed of matter and form, the determining principle is on the part of the form, which is as it were the end and terminus of the matter. Consequently for the being of a thing the need of a determinate form is prior to the need of determinate matter: for determinate matter is needed that it may be adapted to the determinate form. Since, therefore, in the sacraments determinate sensible things are required, which are as the sacramental matter, much more is there need in them of a determinate form of words.
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (Tract. lxxx super Joan.), the word operates in the sacraments "not because it is spoken," i.e. not by the outward sound of the voice, "but because it is believed" in accordance with the sense of the words which is held by faith. And this sense is indeed the same for all, though the same words as to their sound be not used by all. Consequently no matter in what language this sense is expressed, the sacrament is complete.
+
 Reply to Objection 2: Although it happens in every language that various words signify the same thing, yet one of those words is that which those who speak that language use principally and more commonly to signify that particular thing: and this is the word which should be used for the sacramental signification. So also among sensible things, that one is used for the sacramental signification which is most commonly employed for the action by which the sacramental effect is signified: thus water is most commonly used by men for bodily cleansing, by which the spiritual cleansing is signified: and therefore water is employed as the matter of baptism.
+
 Reply to Objection 3: If he who corrupts the pronunciation of the sacramental words---does so on purpose, he does not seem to intend to do what the Church intends: and thus the sacrament seems to be defective. But if he do this through error or a slip of the tongue, and if he so far mispronounce the words as to deprive them of sense, the sacrament seems to be defective. This would be the case especially if the mispronunciation be in the beginning of a word, for instance, if one were to say "in nomine matris" instead of "in nomine Patris." If, however, the sense of the words be not entirely lost by this mispronunciation, the sacrament is complete. This would be the case principally if the end of a word be mispronounced; for instance, if one were to say "patrias et filias." For although the words thus mispronounced have no appointed meaning, yet we allow them an accommodated meaning corresponding to the usual forms of speech. And so, although the sensible sound is changed, yet the sense remains the same.

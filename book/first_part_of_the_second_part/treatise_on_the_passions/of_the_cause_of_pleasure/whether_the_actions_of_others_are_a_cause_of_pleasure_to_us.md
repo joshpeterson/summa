@@ -1,12 +1,23 @@
 # Whether The Actions Of Others Are A Cause Of Pleasure To Us?
+
 ## Objections
+
 Objection 1: It would seem that the actions of others are not a cause of pleasure to us. Because the cause of pleasure is our own good when conjoined to us. But the actions of others are not conjoined to us. Therefore they are not a cause of pleasure to us.
+
 Objection 2: Further, the action is the agent's own good. If, therefore, the actions of others are a cause of pleasure to us, for the same reason all goods belonging to others will be pleasing to us: which is evidently untrue.
+
 Objection 3: Further, action is pleasant through proceeding from an innate habit; hence it is stated in Ethic. ii, 3 that "we must reckon the pleasure which follows after action, as being the sign of a habit existing in us." But the actions of others do not proceed from habits existing in us, but, sometimes, from habits existing in the agents. Therefore the actions of others are not pleasing to us, but to the agents themselves.
+
 ## Answer
+
 On the contrary, It is written in the second canonical epistle of John (verse 4): "I was exceeding glad that I found thy children walking in truth."
+
 I answer that, As stated above [1278](A[1]; Q[31], A[1]), two things are requisite for pleasure, namely, the attainment of one's proper good, and the knowledge of having obtained it. Wherefore the action of another may cause pleasure to us in three ways. First, from the fact that we obtain some good through the action of another. And in this way, the actions of those who do some good to us, are pleasing to us: since it is pleasant to be benefited by another. Secondly, from the fact that another's action makes us to know or appreciate our own good: and for this reason men take pleasure in being praised or honored by others, because, to wit, they thus become aware of some good existing in themselves. And since this appreciation receives greater weight from the testimony of good and wise men, hence men take greater pleasure in being praised and honored by them. And because a flatterer appears to praise, therefore flattery is pleasing to some. And as love is for something good, while admiration is for something great, so it is pleasant to be loved and admired by others, inasmuch as a man thus becomes aware of his own goodness or greatness, through their giving pleasure to others. Thirdly, from the fact that another's actions, if they be good, are reckoned as one's own good, by reason of the power of love, which makes a man to regard his friend as one with himself. And on account of hatred, which makes one to reckon another's good as being in opposition to oneself, the evil action of an enemy becomes an object of pleasure: whence it is written (1 Cor. 13:6) that charity "rejoiceth not in iniquity, but rejoiceth with the truth."
+
 ## Replies
+
 Reply to Objection 1: Another's action may be conjoined to me, either by its effect, as in the first way, or by knowledge, as in the second way; or by affection, as in the third way.
+
 Reply to Objection 2: This argument avails for the third mode, but not for the first two.
+
 Reply to Objection 3: Although the actions of another do not proceed from habits that are in me, yet they either produce in me something that gives pleasure; or they make me appreciate or know a habit of mind; or they proceed from the habit of one who is united to me by love.

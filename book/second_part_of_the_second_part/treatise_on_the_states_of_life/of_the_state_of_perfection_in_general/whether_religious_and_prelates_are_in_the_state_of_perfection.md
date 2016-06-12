@@ -1,14 +1,25 @@
 # Whether Religious And Prelates Are In The State Of Perfection?
+
 ## Objections
+
 Objection 1: It would seem that prelates and religious are not in the state of perfection. For the state of perfection differs from the state of the beginners and the proficient. Now no class of men is specially assigned to the state of the proficient or of the beginners. Therefore it would seem that neither should any class of men be assigned to the state of perfection.
+
 Objection 2: Further, the outward state should answer to the inward, else one is guilty of lying, "which consists not only in false words, but also in deceitful deeds," according to Ambrose in one of his sermons (xxx de Tempore). Now there are many prelates and religious who have not the inward perfection of charity. Therefore, if all religious and prelates are in the state of perfection, it would follow that all of them that are not perfect are in mortal sin, as deceivers and liars.
+
 Objection 3: Further, as stated above [3761](A[1]), perfection is measured according to charity. Now the most perfect charity would seem to be in the martyrs, according to Jn. 15:13, "Greater love than this no man hath, that a man lay down his life for his friends": and a gloss on Heb. 12:4, "For you have not yet resisted unto blood," says: "In this life no love is more perfect than that to which the holy martyrs attained, who strove against sin even unto blood." Therefore it would seem that the state of perfection should be ascribed to the martyrs rather than to religious and bishops.
+
 ## Answer
+
 On the contrary, Dionysius (Eccl. Hier. v) ascribes perfection to bishops as being perfecters, and (Eccl. Hier. vi) to religious (whom he calls monks or {therapeutai}, i.e. servants of God) as being perfected.
+
 I answer that, As stated above [3762](A[4]), there is required for the state of perfection a perpetual obligation to things pertaining to perfection, together with a certain solemnity. Now both these conditions are competent to religious and bishops. For religious bind themselves by vow to refrain from worldly affairs, which they might lawfully use, in order more freely to give themselves to God, wherein consists the perfection of the present life. Hence Dionysius says (Eccl. Hier. vi), speaking of religious: "Some call them {therapeutai}," i.e. servants, "on account of their rendering pure service and homage to God; others call them {monachoi}" [*i.e. solitaries; whence the English word 'monk'], "on account of the indivisible and single-minded life which by their being wrapped in," i.e. contemplating, "indivisible things, unites them in a Godlike union and a perfection beloved of God" [*Cf. Q[180], A[6]]. Moreover, the obligation in both cases is undertaken with a certain solemnity of profession and consecration; wherefore Dionysius adds (Eccl. Hier. vi): "Hence the holy legislation in bestowing perfect grace on them accords them a hallowing invocation."
 
 In like manner bishops bind themselves to things pertaining to perfection when they take up the pastoral duty, to which it belongs that a shepherd "lay down his life for his sheep," according to Jn. 10:15. Wherefore the Apostle says (1 Tim. 6:12): "Thou . . . hast confessed a good confession before many witnesses," that is to say, "when he was ordained," as a gloss says on this passage. Again, a certain solemnity of consecration is employed together with the aforesaid profession, according to 2 Tim. 1:6: "Stir up the grace of God which is in thee by the imposition of my hands," which the gloss ascribes to the grace of the episcopate. And Dionysius says (Eccl. Hier. v) that "when the high priest," i.e. the bishop, "is ordained, he receives on his head the most holy imposition of the sacred oracles, whereby it is signified that he is a participator in the whole and entire hierarchical power, and that not only is he the enlightener in all things pertaining to his holy discourses and actions, but that he also confers this on others."
+
 ## Replies
+
 Reply to Objection 1: Beginning and increase are sought not for their own sake, but for the sake of perfection; hence it is only to the state of perfection that some are admitted under certain obligations and with solemnity.
+
 Reply to Objection 2: Those who enter the state of perfection do not profess to be perfect, but to tend to perfection. Hence the Apostle says (Phil. 3:12): "Not as though I had already attained, or were already perfect; but I follow after, if I may by any means apprehend": and afterwards (Phil. 3:15): "Let us therefore as many as are perfect, be thus minded." Hence a man who takes up the state of perfection is not guilty of lying or deceit through not being perfect, but through withdrawing his mind from the intention of reaching perfection.
+
 Reply to Objection 3: Martyrdom is the most perfect act of charity. But an act of perfection does not suffice to make the state of perfection, as stated above [3763](A[4]).

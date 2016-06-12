@@ -1,12 +1,23 @@
 # Whether Concupiscence Causes Involuntariness?
+
 ## Objections
+
 Objection 1: It would seem that concupiscence causes involuntariness. For just as fear is a passion, so is concupiscence. But fear causes involuntariness to a certain extent. Therefore concupiscence does so too.
+
 Objection 2: Further, just as the timid man through fear acts counter to that which he proposed, so does the incontinent, through concupiscence. But fear causes involuntariness to a certain extent. Therefore concupiscence does so also.
+
 Objection 3: Further, knowledge is necessary for voluntariness. But concupiscence impairs knowledge; for the Philosopher says (Ethic. vi, 5) that "delight," or the lust of pleasure, "destroys the judgment of prudence." Therefore concupiscence causes involuntariness.
+
 ## Answer
+
 On the contrary, Damascene says (De Fide Orth. ii, 24): "The involuntary act deserves mercy or indulgence, and is done with regret." But neither of these can be said of that which is done out of concupiscence. Therefore concupiscence does not cause involuntariness.
+
 I answer that, Concupiscence does not cause involuntariness, but on the contrary makes something to be voluntary. For a thing is said to be voluntary, from the fact that the will is moved to it. Now concupiscence inclines the will to desire the object of concupiscence. Therefore the effect of concupiscence is to make something to be voluntary rather than involuntary.
+
 ## Replies
+
 Reply to Objection 1: Fear regards evil, but concupiscence regards good. Now evil of itself is counter to the will, whereas good harmonizes with the will. Therefore fear has a greater tendency than concupiscence to cause involuntariness.
+
 Reply to Objection 2: He who acts from fear retains the repugnance of the will to that which he does, considered in itself. But he that acts from concupiscence, e.g. an incontinent man, does not retain his former will whereby he repudiated the object of his concupiscence; for his will is changed so that he desires that which previously he repudiated. Accordingly, that which is done out of fear is involuntary, to a certain extent, but that which is done from concupiscence is nowise involuntary. For the man who yields to concupiscence acts counter to that which he purposed at first, but not counter to that which he desires now; whereas the timid man acts counter to that which in itself he desires now.
+
 Reply to Objection 3: If concupiscence were to destroy knowledge altogether, as happens with those whom concupiscence has rendered mad, it would follow that concupiscence would take away voluntariness. And yet properly speaking it would not result in the act being involuntary, because in things bereft of reason, there is neither voluntary nor involuntary. But sometimes in those actions which are done from concupiscence, knowledge is not completely destroyed, because the power of knowing is not taken away entirely, but only the actual consideration in some particular possible act. Nevertheless, this itself is voluntary, according as by voluntary we mean that which is in the power of the will, for example "not to act" or "not to will," and in like manner "not to consider"; for the will can resist the passion, as we shall state later on ([1055]Q[10], A[3];[1056] Q[77], A[7]).

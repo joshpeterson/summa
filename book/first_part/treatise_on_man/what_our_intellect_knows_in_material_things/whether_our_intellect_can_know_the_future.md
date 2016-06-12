@@ -1,14 +1,25 @@
 # Whether Our Intellect Can Know The Future?
+
 ## Objections
+
 Objection 1: It would seem that our intellect knows the future. For our intellect knows by means of intelligible species abstracted from the "here" and "now," and related indifferently to all time. But it can know the present. Therefore it can know the future.
+
 Objection 2: Further, man, while his senses are in suspense, can know some future things, as in sleep, and in frenzy. But the intellect is freer and more vigorous when removed from sense. Therefore the intellect of its own nature can know the future.
+
 Objection 3: The intellectual knowledge of man is superior to any knowledge of brutes. But some animals know the future; thus crows by their frequent cawing foretell rain. Therefore much more can the intellect know the future.
+
 ## Answer
+
 On the contrary, It is written (Eccles. 8:6,7), "There is a great affliction for man, because he is ignorant of things past; and things to come he cannot know by any messenger."
+
 I answer that, We must apply the same distinction to future things, as we applied above [700](A[3]) to contingent things. For future things considered as subject to time are singular, and the human intellect knows them by reflection only, as stated above [701](A[1]). But the principles of future things may be universal; and thus they may enter the domain of the intellect and become the objects of science.
 
 Speaking, however, of the knowledge of the future in a general way, we must observe that the future may be known in two ways: either in itself, or in its cause. The future cannot be known in itself save by God alone; to Whom even that is present which in the course of events is future, forasmuch as from eternity His glance embraces the whole course of time, as we have said above when treating of God's knowledge ([702]Q[14], A[13]). But forasmuch as it exists in its cause, the future can be known by us also. And if, indeed, the cause be such as to have a necessary connection with its future result, then the future is known with scientific certitude, just as the astronomer foresees the future eclipse. If, however, the cause be such as to produce a certain result more frequently than not, then can the future be known more or less conjecturally, according as its cause is more or less inclined to produce the effect.
+
 ## Replies
+
 Reply to Objection 1: This argument considers that knowledge which is drawn from universal causal principles; from these the future may be known, according to the order of the effects to the cause.
+
 Reply to Objection 2: As Augustine says (Confess. xii [*Gen. ad lit. xii. 13]), the soul has a certain power of forecasting, so that by its very nature it can know the future; hence when withdrawn from corporeal sense, and, as it were, concentrated on itself, it shares in the knowledge of the future. Such an opinion would be reasonable if we were to admit that the soul receives knowledge by participating the ideas as the Platonists maintained, because in that case the soul by its nature would know the universal causes of all effects, and would only be impeded in its knowledge by the body, and hence when withdrawn from the corporeal senses it would know the future.
+
 Reply to Objection 3: Brute animals have no power above the imagination wherewith to regulate it, as man has his reason, and therefore their imagination follows entirely the influence of the heavenly bodies. Thus from such animals' movements some future things, such as rain and the like, may be known rather from human movements directed by reason. Hence the Philosopher says (De Somn. et Vig.), that "some who are most imprudent are most far-seeing; for their intelligence is not burdened with cares, but is as it were barren and bare of all anxiety moving at the caprice of whatever is brought to bear on it."

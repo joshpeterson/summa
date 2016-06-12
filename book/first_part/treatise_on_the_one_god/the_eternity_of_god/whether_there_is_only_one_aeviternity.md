@@ -1,18 +1,31 @@
 # Whether There Is Only One Aeviternity?
+
 ## Objections
+
 Objection 1: It seems that there is not only one aeviternity; for it is written in the apocryphal books of Esdras: "Majesty and power of ages are with Thee, O Lord."
+
 Objection 2: Further, different genera have different measures. But some aeviternal things belong to the corporeal genus, as the heavenly bodies; and others are spiritual substances, as are the angels. Therefore there is not only one aeviternity.
+
 Objection 3: Further, since aeviternity is a term of duration, where there is one aeviternity, there is also one duration. But not all aeviternal things have one duration, for some begin to exist after others; as appears in the case especially of human souls. Therefore there is not only one aeviternity.
+
 Objection 4: Further, things not dependent on each other do not seem to have one measure of duration; for there appears to be one time for all temporal things; since the first movement, measured by time, is in some way the cause of all movement. But aeviternal things do not depend on each other, for one angel is not the cause of another angel. Therefore there is not only one aeviternity.
+
 ## Answer
+
 On the contrary, Aeviternity is a more simple thing than time, and is nearer to eternity. But time is one only. Therefore much more is aeviternity one only.
+
 I answer that, A twofold opinion exists on this subject. Some say there is only one aeviternity; others that there are many aeviternities. Which of these is true, may be considered from the cause why time is one; for we can rise from corporeal things to the knowledge of spiritual things.
 
 Now some say that there is only one time for temporal things, forasmuch as one number exists for all things numbered; as time is a number, according to the Philosopher (Phys. iv). This, however, is not a sufficient reason; because time is not a number abstracted from the thing numbered, but existing in the thing numbered; otherwise it would not be continuous; for ten ells of cloth are continuous not by reason of the number, but by reason of the thing numbered. Now number as it exists in the thing numbered, is not the same for all; but it is different for different things. Hence, others assert that the unity of eternity as the principle of all duration is the cause of the unity of time. Thus all durations are one in that view, in the light of their principle, but are many in the light of the diversity of things receiving duration from the influx of the first principle. On the other hand others assign primary matter as the cause why time is one; as it is the first subject of movement, the measure of which is time. Neither of these reasons, however, is sufficient; forasmuch as things which are one in principle, or in subject, especially if distant, are not one absolutely, but accidentally. Therefore the true reason why time is one, is to be found in the oneness of the first movement by which, since it is most simple, all other movements are measured. Therefore time is referred to that movement, not only as a measure is to the thing measured, but also as accident is to subject; and thus receives unity from it. Whereas to other movements it is compared only as the measure is to the thing measured. Hence it is not multiplied by their multitude, because by one separate measure many things can be measured.
 
 This being established, we must observe that a twofold opinion existed concerning spiritual substances. Some said that all proceeded from God in a certain equality, as Origen said (Peri Archon. i); or at least many of them, as some others thought. Others said that all spiritual substances proceeded from God in a certain degree and order; and Dionysius (Coel. Hier. x) seems to have thought so, when he said that among spiritual substances there are the first, the middle and the last; even in one order of angels. Now according to the first opinion, it must be said that there are many aeviternities as there are many aeviternal things of first degree. But according to the second opinion, it would be necessary to say that there is one aeviternity only; because since each thing is measured by the most simple element of its genus, it must be that the existence of all aeviternal things should be measured by the existence of the first aeviternal thing, which is all the more simple the nearer it is to the first. Wherefore because the second opinion is truer, as will be shown later ([45]Q[47], A[2]); we concede at present that there is only one aeviternity.
+
 ## Replies
+
 Reply to Objection 1: Aeviternity is sometimes taken for age, that is, a space of a thing's duration; and thus we say many aeviternities when we mean ages.
+
 Reply to Objection 2: Although the heavenly bodies and spiritual things differ in the genus of their nature, still they agree in having a changeless being, and are thus measured by aeviternity.
+
 Reply to Objection 3: All temporal things did not begin together; nevertheless there is one time for all of them, by reason of the first measured by time; and thus all aeviternal things have one aeviternity by reason of the first, though all did not begin together.
+
 Reply to Objection 4: For things to be measured by one, it is not necessary that the one should be the cause of all, but that it be more simple than the rest.

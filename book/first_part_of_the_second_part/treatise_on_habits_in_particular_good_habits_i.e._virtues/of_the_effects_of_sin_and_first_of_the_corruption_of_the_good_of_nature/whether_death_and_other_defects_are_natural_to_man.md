@@ -1,10 +1,17 @@
 # Whether Death And Other Defects Are Natural To Man?
+
 ## Objections
+
 Objection 1: It would seem that death and such like defects are natural to man. For "the corruptible and the incorruptible differ generically" (Metaph. x, text. 26). But man is of the same genus as other animals which are naturally corruptible. Therefore man is naturally corruptible.
+
 Objection 2: Further, whatever is composed of contraries is naturally corruptible, as having within itself the cause of corruption. But such is the human body. Therefore it is naturally corruptible.
+
 Objection 3: Further, a hot thing naturally consumes moisture. Now human life is preserved by hot and moist elements. Since therefore the vital functions are fulfilled by the action of natural heat, as stated in De Anima ii, text. 50, it seems that death and such like defects are natural to man.
+
 ## Answer
+
 On the contrary, (1) God made in man whatever is natural to him. Now "God made not death" (Wis. 1:13). Therefore death is not natural to man.
+
 I answer that, We may speak of any corruptible thing in two ways; first, in respect of its universal nature, secondly, as regards its particular nature. A thing's particular nature is its own power of action and self-preservation. And in respect of this nature, every corruption and defect is contrary to nature, as stated in De Coelo ii, text. 37, since this power tends to the being and preservation of the thing to which it belongs.
 
 On the other hand, the universal nature is an active force in some universal principle of nature, for instance in some heavenly body; or again belonging to some superior substance, in which sense God is said by some to be "the Nature Who makes nature." This force intends the good and the preservation of the universe, for which alternate generation and corruption in things are requisite: and in this respect corruption and defect in things are natural, not indeed as regards the inclination of the form which is the principle of being and perfection, but as regards the inclination of matter which is allotted proportionately to its particular form according to the discretion of the universal agent. And although every form intends perpetual being as far as it can, yet no form of a corruptible being can achieve its own perpetuity, except the rational soul; for the reason that the latter is not entirely subject to matter, as other forms are; indeed it has an immaterial operation of its own, as stated in the [1887]FP, Q[75], A[2]. Consequently as regards his form, incorruption is more natural to man than to other corruptible things. But since that very form has a matter composed of contraries, from the inclination of that matter there results corruptibility in the whole. In this respect man is naturally corruptible as regards the nature of his matter left to itself, but not as regards the nature of his form.

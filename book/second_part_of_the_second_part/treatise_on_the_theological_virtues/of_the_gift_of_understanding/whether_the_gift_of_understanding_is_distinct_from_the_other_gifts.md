@@ -1,10 +1,17 @@
 # Whether The Gift Of Understanding Is Distinct From The Other Gifts?
+
 ## Objections
+
 Objection 1: It would seem that the gift of understanding is not distinct from the other gifts. For there is no distinction between things whose opposites are not distinct. Now "wisdom is contrary to folly, understanding is contrary to dulness, counsel is contrary to rashness, knowledge is contrary to ignorance," as Gregory states (Moral. ii, 49). But there would seem to be no difference between folly, dulness, ignorance and rashness. Therefore neither does understanding differ from the other gifts.
+
 Objection 2: Further, the intellectual virtue of understanding differs from the other intellectual virtues in that it is proper to it to be about self-evident principles. But the gift of understanding is not about any self-evident principles, since the natural habit of first principles suffices in respect of those matters which are naturally self-evident: while faith is sufficient in respect of such things as are supernatural, since the articles of faith are like first principles in supernatural knowledge, as stated above ([2365]Q[1], A[7]). Therefore the gift of understanding does not differ from the other intellectual gifts.
+
 Objection 3: Further, all intellectual knowledge is either speculative or practical. Now the gift of understanding is related to both, as stated above [2366](A[3]). Therefore it is not distinct from the other intellectual gifts, but comprises them all.
+
 ## Answer
+
 On the contrary, When several things are enumerated together they must be, in some way, distinct from one another, because distinction is the origin of number. Now the gift of understanding is enumerated together with the other gifts, as appears from Is. 11:2. Therefore the gift of understanding is distinct from the other gifts.
+
 I answer that, The difference between the gift of understanding and three of the others, viz. piety, fortitude, and fear, is evident, since the gift of understanding belongs to the cognitive power, while the three belong to the appetitive power.
 
 But the difference between this gift of understanding and the remaining three, viz. wisdom, knowledge, and counsel, which also belong to the cognitive power, is not so evident. To some [*William of Auxerre, Sum. Aur. III, iii, 8], it seems that the gift of understanding differs from the gifts of knowledge and counsel, in that these two belong to practical knowledge, while the gift of understanding belongs to speculative knowledge; and that it differs from the gift of wisdom, which also belongs to speculative knowledge, in that wisdom is concerned with judgment, while understanding renders the mind apt to grasp the things that are proposed, and to penetrate into their very heart. And in this sense we have assigned the number of the gifts, above ([2367]FS, Q[68], A[4]).
@@ -12,7 +19,11 @@ But the difference between this gift of understanding and the remaining three, v
 But if we consider the matter carefully, the gift of understanding is concerned not only with speculative, but also with practical matters, as stated above [2368](A[3]), and likewise, the gift of knowledge regards both matters, as we shall show further on (Q[9], A[3]), and consequently, we must take their distinction in some other way. For all these four gifts are ordained to supernatural knowledge, which, in us, takes its foundation from faith. Now "faith is through hearing" (Rom. 10:17). Hence some things must be proposed to be believed by man, not as seen, but as heard, to which he assents by faith. But faith, first and principally, is about the First Truth, secondarily, about certain considerations concerning creatures, and furthermore extends to the direction of human actions, in so far as it works through charity, as appears from what has been said above (Q[4], A[2], ad 3).
 
 Accordingly on the part of the things proposed to faith for belief, two things are requisite on our part: first that they be penetrated or grasped by the intellect, and this belongs to the gift of understanding. Secondly, it is necessary that man should judge these things aright, that he should esteem that he ought to adhere to these things, and to withdraw from their opposites: and this judgment, with regard to Divine things belong to the gift of wisdom, but with regard to created things, belongs to the gift of knowledge, and as to its application to individual actions, belongs to the gift of counsel.
+
 ## Replies
+
 Reply to Objection 1: The foregoing difference between those four gifts is clearly in agreement with the distinction of those things which Gregory assigns as their opposites. For dulness is contrary to sharpness, since an intellect is said, by comparison, to be sharp, when it is able to penetrate into the heart of the things that are proposed to it. Hence it is dulness of mind that renders the mind unable to pierce into the heart of a thing. A man is said to be a fool if he judges wrongly about the common end of life, wherefore folly is properly opposed to wisdom, which makes us judge aright about the universal cause. Ignorance implies a defect in the mind, even about any particular things whatever, so that it is contrary to knowledge, which gives man a right judgment about particular causes, viz. about creatures. Rashness is clearly opposed to counsel, whereby man does not proceed to action before deliberating with his reason.
+
 Reply to Objection 2: The gift of understanding is about the first principles of that knowledge which is conferred by grace; but otherwise than faith, because it belongs to faith to assent to them, while it belongs to the gift of understanding to pierce with the mind the things that are said.
+
 Reply to Objection 3: The gift of understanding is related to both kinds of knowledge, viz. speculative and practical, not as to the judgment, but as to apprehension, by grasping what is said.

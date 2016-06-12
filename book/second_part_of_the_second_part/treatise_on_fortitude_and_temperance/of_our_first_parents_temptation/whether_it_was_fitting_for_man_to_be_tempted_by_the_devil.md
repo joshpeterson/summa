@@ -1,12 +1,23 @@
 # Whether It Was Fitting For Man To Be Tempted By The Devil?
+
 ## Objections
+
 Objection 1: It would seem that it was not fitting for man to be tempted by the devil. For the same final punishment is appointed to the angels' sin and to man's, according to Mat. 25:41, "Go [Vulg.: 'Depart from Me'] you cursed into everlasting fire, which was prepared for the devil and his angels." Now the angels' first sin did not follow a temptation from without. Therefore neither should man's first sin have resulted from an outward temptation.
+
 Objection 2: Further, God, Who foreknows the future, knew that through the demon's temptation man would fall into sin, and thus He knew full well that it was not expedient for man to be tempted. Therefore it would seem unfitting for God to allow him to be tempted.
+
 Objection 3: Further, it seems to savor of punishment that anyone should have an assailant, just as on the other hand the cessation of an assault is akin to a reward. Now punishment should not precede fault. Therefore it was unfitting for man to be tempted before he sinned.
+
 ## Answer
+
 On the contrary, It is written (Ecclus. 34:11): "He that hath not been tempted [Douay: 'tried'], what manner of things doth he know?"
+
 I answer that, God's wisdom "orders all things sweetly" (Wis. 8:1), inasmuch as His providence appoints to each one that which is befitting it according to its nature. For as Dionysius says (Div. Nom. iv), "it belongs to providence not to destroy, but to maintain, nature." Now it is a condition attaching to human nature that one creature can be helped or impeded by another. Wherefore it was fitting that God should both allow man in the state of innocence to be tempted by evil angels, and should cause him to be helped by good angels. And by a special favor of grace, it was granted him that no creature outside himself could harm him against his own will, whereby he was able even to resist the temptation of the demon.
+
 ## Replies
+
 Reply to Objection 1: Above the human nature there is another that admits of the possibility of the evil of fault: but there is not above the angelic nature. Now only one that is already become evil through sin can tempt by leading another into evil. Hence it was fitting that by an evil angel man should be tempted to sin, even as according to the order of nature he is moved forward to perfection by means of a good angel. An angel could be perfected in good by something above him, namely by God, but he could not thus be led into sin, because according to James 1:13, "God is not a tempter of evils."
+
 Reply to Objection 2: Just as God knew that man, through being tempted, would fall into sin, so too He knew that man was able, by his free will, to resist the tempter. Now the condition attaching to man's nature required that he should be left to his own will, according to Ecclus. 15:14, "God left" man "in the hand of his own counsel." Hence Augustine says (Gen. ad lit. xi, 4): "It seems to me that man would have had no prospect of any special praise, if he were able to lead a good life simply because there was none to persuade him to lead an evil life; since both by nature he had the power, and in his power he had the will, not to consent to the persuader."
+
 Reply to Objection 3: An assault is penal if it be difficult to resist it: but, in the state of innocence, man was able, without any difficulty, to resist temptation. Consequently the tempter's assault was not a punishment to man.

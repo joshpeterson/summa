@@ -1,14 +1,27 @@
 # Whether A Husband Can Marry Again After Having A Divorce?
+
 ## Objections
+
 Objection 1: It would seem that a husband can marry again after having a divorce. For no one is bound to perpetual continence. Now in some cases the husband is bound to put away his wife forever on account of fornication, as stated above [5003](A[2]). Therefore seemingly at least in this case he can marry again.
+
 Objection 2: Further, a sinner should not be given a greater occasion of sin. But if she who is put away on account of the sin of fornication is not allowed to seek another marriage, she is given a greater occasion of sin: for it is improbable that one who was not continent during marriage will be able to be continent afterwards. Therefore it would seem lawful for her to marry again.
+
 Objection 3: Further, the wife is not bound to the husband save as regards the payment of the marriage debt and cohabitation. But she is freed from both obligations by divorce. Therefore "she is loosed from the law of her husband" [*Rom. 7:2]. Therefore she can marry again; and the same applies to her husband.
+
 Objection 4: Further, it is said (Mat. 19:9): "Whosoever shall put away his wife, except it be for fornication, and shall marry another committeth adultery." Therefore seemingly he does not commit adultery if he marry again after putting away his wife on account of fornication, and consequently this will be a true marriage.
+
 ## Answer
+
 On the contrary, It is written (1 Cor. 7:10,11): "Not I, but the Lord, commandeth that the wife depart not from her husband. and, if she depart, that she remain unmarried."
+
 I answer that, Nothing supervenient to marriage can dissolve it: wherefore adultery does not make a marriage cease to be valid. For, according to Augustine (De Nup. et Concup. i, 10), "as long as they live they are bound by the marriage tie, which neither divorce nor union with another can destroy." Therefore it is unlawful for one, while the other lives, to marry again.
+
 ## Replies
+
 Reply to Objection 1: Although no one is absolutely bound to continence, he may be bound accidentally; for instance, if his wife contract an incurable disease that is incompatible with carnal intercourse. And it is the same if she labor under a spiritual disease, namely fornication, so as to be incorrigible.
+
 Reply to Objection 2: The very shame of having been divorced ought to keep her from sin: and if it cannot keep her from sin, it is a lesser evil that she alone sin than that her husband take part in her sin.
+
 Reply to Objection 3: Although after divorce the wife is not bound to her husband as regards paying him the marriage debt and cohabiting with him, the marriage tie, whereby she was bound to this, remains, and consequently she cannot marry again during her husband's lifetime. She can, however, take a vow of continence, against her husband's will, unless it seem that the Church has been deceived by false witnesses in pronouncing the divorce; for in that case, even if she has made her vow of profession she ought to be restored to her husband, and would be bound to pay the marriage debt, but it would be unlawful for her to demand it.
+
 Reply to Objection 4: The exception expressed in our Lord's words refers to the putting away of the wife. Hence the objection is based on a false interpretation.

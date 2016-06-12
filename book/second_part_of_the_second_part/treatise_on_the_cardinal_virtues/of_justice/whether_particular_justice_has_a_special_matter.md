@@ -1,12 +1,23 @@
 # Whether Particular Justice Has A Special Matter?
+
 ## Objections
+
 Objection 1: It would seem that particular justice has no special matter. Because a gloss on Gn. 2:14, "The fourth river is Euphrates," says: "Euphrates signifies 'fruitful'; nor is it stated through what country it flows, because justice pertains to all the parts of the soul." Now this would not be the case, if justice had a special matter, since every special matter belongs to a special power. Therefore particular justice has no special matter.
+
 Objection 2: Further, Augustine says (QQ. lxxxiii, qu. 61) that "the soul has four virtues whereby, in this life, it lives spiritually, viz. temperance, prudence, fortitude and justice;" and he says that "the fourth is justice, which pervades all the virtues." Therefore particular justice, which is one of the four cardinal virtues, has no special matter.
+
 Objection 3: Further, justice directs man sufficiently in matters relating to others. Now a man can be directed to others in all matters relating to this life. Therefore the matter of justice is general and not special.
+
 ## Answer
+
 On the contrary, The Philosopher reckons (Ethic. v, 2) particular justice to be specially about those things which belong to social life.
+
 I answer that, Whatever can be rectified by reason is the matter of moral virtue, for this is defined in reference to right reason, according to the Philosopher (Ethic. ii, 6). Now the reason can rectify not only the internal passions of the soul, but also external actions, and also those external things of which man can make use. And yet it is in respect of external actions and external things by means of which men can communicate with one another, that the relation of one man to another is to be considered; whereas it is in respect of internal passions that we consider man's rectitude in himself. Consequently, since justice is directed to others, it is not about the entire matter of moral virtue, but only about external actions and things, under a certain special aspect of the object, in so far as one man is related to another through them.
+
 ## Replies
+
 Reply to Objection 1: It is true that justice belongs essentially to one part of the soul, where it resides as in its subject; and this is the will which moves by its command all the other parts of the soul; and accordingly justice belongs to all the parts of the soul, not directly but by a kind of diffusion.
+
 Reply to Objection 2: As stated above ([2854]FS, Q[61], AA[3],4), the cardinal virtues may be taken in two ways: first as special virtues, each having a determinate matter; secondly, as certain general modes of virtue. In this latter sense Augustine speaks in the passage quoted: for he says that "prudence is knowledge of what we should seek and avoid, temperance is the curb on the lust for fleeting pleasures, fortitude is strength of mind in bearing with passing trials, justice is the love of God and our neighbor which pervades the other virtues, that is to say, is the common principle of the entire order between one man and another."
+
 Reply to Objection 3: A man's internal passions which are a part of moral matter, are not in themselves directed to another man, which belongs to the specific nature of justice; yet their effects, i.e. external actions, are capable of being directed to another man. Consequently it does not follow that the matter of justice is general.

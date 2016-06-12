@@ -1,14 +1,25 @@
 # Whether There Is Anything Voluntary In Irrational Animals?
+
 ## Objections
+
 Objection 1: It would seem that there is nothing voluntary in irrational animals. For a thing is called "voluntary" from "voluntas" [will]. Now since the will is in the reason (De Anima iii, 9), it cannot be in irrational animals. Therefore neither is there anything voluntary in them.
+
 Objection 2: Further, according as human acts are voluntary, man is said to be master of his actions. But irrational animals are not masters of their actions; for "they act not; rather are they acted upon," as Damascene says (De Fide Orth. ii, 27). Therefore there is no such thing as a voluntary act in irrational animals.
+
 Objection 3: Further, Damascene says (De Fide Orth. 24) that "voluntary acts lead to praise and blame." But neither praise nor blame is due to the acts of irrational minds. Therefore such acts are not voluntary.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. iii, 2) that "both children and irrational animals participate in the voluntary." The same is said by Damascene (De Fide Orth. 24) and Gregory of Nyssa [*Nemesius, De Nat. Hom. xxxii.].
+
 I answer that, As stated above [1050](A[1]), it is essential to the voluntary act that its principle be within the agent, together with some knowledge of the end. Now knowledge of the end is twofold; perfect and imperfect. Perfect knowledge of the end consists in not only apprehending the thing which is the end, but also in knowing it under the aspect of end, and the relationship of the means to that end. And such knowledge belongs to none but the rational nature. But imperfect knowledge of the end consists in mere apprehension of the end, without knowing it under the aspect of end, or the relationship of an act to the end. Such knowledge of the end is exercised by irrational animals, through their senses and their natural estimative power.
 
 Consequently perfect knowledge of the end leads to the perfect voluntary; inasmuch as, having apprehended the end, a man can, from deliberating about the end and the means thereto, be moved, or not, to gain that end. But imperfect knowledge of the end leads to the imperfect voluntary; inasmuch as the agent apprehends the end, but does not deliberate, and is moved to the end at once. Wherefore the voluntary in its perfection belongs to none but the rational nature: whereas the imperfect voluntary is within the competency of even irrational animals.
+
 ## Replies
+
 Reply to Objection 1: The will is the name of the rational appetite; and consequently it cannot be in things devoid of reason. But the word "voluntary" is derived from "voluntas" [will], and can be extended to those things in which there is some participation of will, by way of likeness thereto. It is thus that voluntary action is attributed to irrational animals, in so far as they are moved to an end, through some kind of knowledge.
+
 Reply to Objection 2: The fact that man is master of his actions, is due to his being able to deliberate about them: for since the deliberating reason is indifferently disposed to opposite things, the will can be inclined to either. But it is not thus that voluntariness is in irrational animals, as stated above.
+
 Reply to Objection 3: Praise and blame are the result of the voluntary act, wherein is the perfect voluntary; such as is not to be found in irrational animals.

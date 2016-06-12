@@ -1,10 +1,17 @@
 # Whether There Are Notions In God?
+
 ## Objections
+
 Objection 1: It would seem that in God there are no notions. For Dionysius says (Div. Nom. i): "We must not dare to say anything of God but what is taught to us by the Holy Scripture." But Holy Scripture does not say anything concerning notions. Therefore there are none in God.
+
 Objection 2: Further, all that exists in God concerns the unity of the essence or the trinity of the persons. But the notions do not concern the unity of the essence, nor the trinity of the persons; for neither can what belongs to the essence be predicated of the notions: for instance, we do not say that paternity is wise or creates; nor can what belongs to the persons be so predicated; for example, we do not say that paternity begets, nor that filiation is begotten. Therefore there do not exist notions in God.
+
 Objection 3: Further, we do not require to presuppose any abstract notions as principles of knowing things which are devoid of composition: for they are known of themselves. But the divine persons are supremely simple. Therefore we are not to suppose any notions in God.
+
 ## Answer
+
 On the contrary, Damascene says (De Fide Orth. iii, 5): "We recognize difference of hypostases [i.e. of persons], in the three properties; i.e. in the paternal, the filial, and the processional." Therefore we must admit properties and notions in God.
+
 I answer that, Prepositivus, considering the simplicity of the persons, said that in God there were no properties or notions, and wherever there were mentioned, he propounded the abstract for the concrete. For as we are accustomed to say, "I beseech your kindness"---i.e. you who are kind---so when we speak of paternity in God, we mean God the Father.
 
 But, as shown above ([275]Q[3], A[3], ad 1), the use of concrete and abstract names in God is not in any way repugnant to the divine simplicity; forasmuch as we always name a thing as we understand it. Now, our intellect cannot attain to the absolute simplicity of the divine essence, considered in itself, and therefore, our human intellect apprehends and names divine things, according to its own mode, that is in so far as they are found in sensible objects, whence its knowledge is derived. In these things we use abstract terms to signify simple forms; and to signify subsistent things we use concrete terms. Hence also we signify divine things, as above stated, by abstract names, to express their simplicity; whereas, to express their subsistence and completeness, we use concrete names.
@@ -16,7 +23,11 @@ Two chief motives for this can be cited. The first arises from the obstinacy of 
 The second motive is because one person in God is related to two persons---namely, the person of the Father to the person of the Son and the person of the Holy Ghost. This is not, however, by one relation; otherwise it would follow that the Son also and the Holy Ghost would be related to the Father by one and the same relation. Thus, since relation alone multiplies the Trinity, it would follow that the Son and the Holy Ghost would not be two persons. Nor can it be said with Prepositivus that as God is related in one way to creatures, while creatures are related to Him in divers ways, so the Father is related by one relation to the Son and to the Holy Ghost; whereas these two persons are related to the Father by two relations. For, since the very specific idea of a relation is that it refers to another, it must be said that two relations are not specifically different if but one opposite relation corresponds to them. For the relation of lord and father must differ according to the difference of filiation and servitude. Now, all creatures are related to God as His creatures by one specific relation. But the Son and the Holy Ghost are not related to the Father by one and the same kind of relation. Hence there is no parity.
 
 Further, in God there is no need to admit any real relation to the creature ([276]Q[28], A[1],3); while there is no reason against our admitting in God, many logical relations. But in the Father there must be a real relation to the Son and to the Holy Ghost. Hence, corresponding to the two relations of the Son and of the Holy Ghost, whereby they are related to the Father, we must understand two relations in the Father, whereby He is related to the Son and to the Holy Ghost. Hence, since there is only one Person of the Father, it is necessary that the relations should be separately signified in the abstract; and these are what we mean by properties and notions.
+
 ## Replies
+
 Reply to Objection 1: Although the notions are not mentioned in Holy Scripture, yet the persons are mentioned, comprising the idea of notions, as the abstract is contained in the concrete.
+
 Reply to Objection 2: In God the notions have their significance not after the manner of realities, but by way of certain ideas whereby the persons are known; although in God these notions or relations are real, as stated above ([277]Q[28], A[1]). Therefore whatever has order to any essential or personal act, cannot be applied to the notions; forasmuch as this is against their mode of signification. Hence we cannot say that paternity begets, or creates, or is wise, or is intelligent. The essentials, however, which are not ordered to any act, but simply remove created conditions from God, can be predicated of the notions; for we can say that paternity is eternal, or immense, or such like. So also on account of the real identity, substantive terms, whether personal or essential, can be predicated of the notions; for we can say that paternity is God, and that paternity is the Father.
+
 Reply to Objection 3: Although the persons are simple, still without prejudice to their simplicity, the proper ideas of the persons can be abstractedly signified, as above explained.

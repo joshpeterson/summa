@@ -1,12 +1,23 @@
 # Whether Joy Is Effected In Us By Charity?
+
 ## Objections
+
 Objection 1: It would seem that joy is not effected in us by charity. For the absence of what we love causes sorrow rather than joy. But God, Whom we love by charity, is absent from us, so long as we are in this state of life, since "while we are in the body, we are absent from the Lord" (2 Cor. 5:6). Therefore charity causes sorrow in us rather than joy.
+
 Objection 2: Further, it is chiefly through charity that we merit happiness. Now mourning, which pertains to sorrow, is reckoned among those things whereby we merit happiness, according to Mat. 5:5: "Blessed are they that mourn, for they shall be comforted." Therefore sorrow, rather than joy, is an effect of charity.
+
 Objection 3: Further, charity is a virtue distinct from hope, as shown above ([2580]Q[17], A[6]). Now joy is the effect of hope, according to Rom. 12:12: "Rejoicing in hope." Therefore it is not the effect of charity.
+
 ## Answer
+
 On the contrary, It is written (Rom. 5:5): "The charity of God is poured forth in our hearts by the Holy Ghost, Who is given to us." But joy is caused in us by the Holy Ghost according to Rom. 14:17: "The kingdom of God is not meat and drink, but justice and peace, and joy in the Holy Ghost." Therefore charity is a cause of joy.
+
 I answer that, As stated above ([2581]FS, Q[25], AA[1],2,3), when we were treating of the passions, joy and sorrow proceed from love, but in contrary ways. For joy is caused by love, either through the presence of the thing loved, or because the proper good of the thing loved exists and endures in it; and the latter is the case chiefly in the love of benevolence, whereby a man rejoices in the well-being of his friend, though he be absent. On the other hand sorrow arises from love, either through the absence of the thing loved, or because the loved object to which we wish well, is deprived of its good or afflicted with some evil. Now charity is love of God, Whose good is unchangeable, since He is His goodness, and from the very fact that He is loved, He is in those who love Him by His most excellent effect, according to 1 Jn. 4:16: "He that abideth in charity, abideth in God, and God in him." Therefore spiritual joy, which is about God, is caused by charity.
+
 ## Replies
+
 Reply to Objection 1: So long as we are in the body, we are said to be "absent from the Lord," in comparison with that presence whereby He is present to some by the vision of "sight"; wherefore the Apostle goes on to say (2 Cor. 5:6): "For we walk by faith and not by sight." Nevertheless, even in this life, He is present to those who love Him, by the indwelling of His grace.
+
 Reply to Objection 2: The mourning that merits happiness, is about those things that are contrary to happiness. Wherefore it amounts to the same that charity causes this mourning, and this spiritual joy about God, since to rejoice in a certain good amounts to the same as to grieve for things that are contrary to it.
+
 Reply to Objection 3: There can be spiritual joy about God in two ways. First, when we rejoice in the Divine good considered in itself; secondly, when we rejoice in the Divine good as participated by us. The former joy is the better, and proceeds from charity chiefly: while the latter joy proceeds from hope also, whereby we look forward to enjoy the Divine good, although this enjoyment itself, whether perfect or imperfect, is obtained according to the measure of one's charity.

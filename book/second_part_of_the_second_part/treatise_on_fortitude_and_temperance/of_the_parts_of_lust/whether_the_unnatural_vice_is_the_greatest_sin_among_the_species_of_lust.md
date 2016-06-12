@@ -1,16 +1,29 @@
 # Whether The Unnatural Vice Is The Greatest Sin Among The Species Of Lust?
+
 ## Objections
+
 Objection 1: It would seem that the unnatural vice is not the greatest sin among the species of lust. For the more a sin is contrary to charity the graver it is. Now adultery, seduction and rape which are injurious to our neighbor are seemingly more contrary to the love of our neighbor, than unnatural sins, by which no other person is injured. Therefore the unnatural sin is not the greatest among the species of lust.
+
 Objection 2: Further, sins committed against God would seem to be the most grievous. Now sacrilege is committed directly against God, since it is injurious to the Divine worship. Therefore sacrilege is a graver sin than the unnatural vice.
+
 Objection 3: Further, seemingly, a sin is all the more grievous according as we owe a greater love to the person against whom that sin is committed. Now the order of charity requires that a man love more those persons who are united to him---and such are those whom he defiles by incest---than persons who are not connected with him, and whom in certain cases he defiles by the unnatural vice. Therefore incest is a graver sin than the unnatural vice.
+
 Objection 4: Further, if the unnatural vice is most grievous, the more it is against nature the graver it would seem to be. Now the sin of uncleanness or effeminacy would seem to be most contrary to nature, since it would seem especially in accord with nature that agent and patient should be distinct from one another. Hence it would follow that uncleanness is the gravest of unnatural vices. But this is not true. Therefore unnatural vices are not the most grievous among sins of lust.
+
 ## Answer
+
 On the contrary, Augustine says (De adult. conjug. [*The quotation is from Cap. Adulterii xxxii, qu. 7. Cf. Augustine, De Bono Conjugali, viii.]) that "of all these," namely the sins belonging to lust, "that which is against nature is the worst."
+
 I answer that, In every genus, worst of all is the corruption of the principle on which the rest depend. Now the principles of reason are those things that are according to nature, because reason presupposes things as determined by nature, before disposing of other things according as it is fitting. This may be observed both in speculative and in practical matters. Wherefore just as in speculative matters the most grievous and shameful error is that which is about things the knowledge of which is naturally bestowed on man, so in matters of action it is most grave and shameful to act against things as determined by nature. Therefore, since by the unnatural vices man transgresses that which has been determined by nature with regard to the use of venereal actions, it follows that in this matter this sin is gravest of all. After it comes incest, which, as stated above [3551](A[9]), is contrary to the natural respect which we owe persons related to us.
 
 With regard to the other species of lust they imply a transgression merely of that which is determined by right reason, on the presupposition, however, of natural principles. Now it is more against reason to make use of the venereal act not only with prejudice to the future offspring, but also so as to injure another person besides. Wherefore simple fornication, which is committed without injustice to another person, is the least grave among the species of lust. Then, it is a greater injustice to have intercourse with a woman who is subject to another's authority as regards the act of generation, than as regards merely her guardianship. Wherefore adultery is more grievous than seduction. And both of these are aggravated by the use of violence. Hence rape of a virgin is graver than seduction, and rape of a wife than adultery. And all these are aggravated by coming under the head of sacrilege, as stated above (A[10], ad 2).
+
 ## Replies
+
 Reply to Objection 1: Just as the ordering of right reason proceeds from man, so the order of nature is from God Himself: wherefore in sins contrary to nature, whereby the very order of nature is violated, an injury is done to God, the Author of nature. Hence Augustine says (Confess. iii, 8): "Those foul offenses that are against nature should be everywhere and at all times detested and punished, such as were those of the people of Sodom, which should all nations commit, they should all stand guilty of the same crime, by the law of God which hath not so made men that they should so abuse one another. For even that very intercourse which should be between God and us is violated, when that same nature, of which He is the Author, is polluted by the perversity of lust."
+
 Reply to Objection 2: Vices against nature are also against God, as stated above (ad 1), and are so much more grievous than the depravity of sacrilege, as the order impressed on human nature is prior to and more firm than any subsequently established order.
+
 Reply to Objection 3: The nature of the species is more intimately united to each individual, than any other individual is. Wherefore sins against the specific nature are more grievous.
+
 Reply to Objection 4: Gravity of a sin depends more on the abuse of a thing than on the omission of the right use. Wherefore among sins against nature, the lowest place belongs to the sin of uncleanness, which consists in the mere omission of copulation with another. While the most grievous is the sin of bestiality, because use of the due species is not observed. Hence a gloss on Gn. 37:2, "He accused his brethren of a most wicked crime," says that "they copulated with cattle." After this comes the sin of sodomy, because use of the right sex is not observed. Lastly comes the sin of not observing the right manner of copulation, which is more grievous if the abuse regards the "vas" than if it affects the manner of copulation in respect of other circumstances.

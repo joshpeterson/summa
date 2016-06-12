@@ -1,12 +1,23 @@
 # Whether There Was Free-will In Christ?
+
 ## Objections
+
 Objection 1: It would seem that in Christ there was no free-will. For Damascene says (De Fide Orth. iii, 14) that {gnome}, i.e. opinion, thinking or cogitation, and {proairesis}, i.e. choice, "cannot possibly be attributed to our Lord, if we wish to speak with propriety." But in the things of faith especially we must speak with propriety. Therefore there was no choice in Christ and consequently no free-will, of which choice is the act.
+
 Objection 2: Further, the Philosopher says (Ethic. iii, 2) that choice is "a desire of something after taking counsel." Now counsel does not appear to be in Christ, because we do not take counsel concerning such things as we are certain of. But Christ was certain of everything. Hence there was no counsel and consequently no free-will in Christ.
+
 Objection 3: Further, free-will is indifferent. But Christ's will was determined to good, since He could not sin; as stated above ([4080]Q[15], AA[1] ,2). Hence there was no free-will in Christ.
+
 ## Answer
+
 On the contrary, It is written (Is. 7:15): "He shall eat butter and honey, that He may know to refuse the evil and to choose the good," which is an act of the free-will. Therefore there was free-will in Christ.
+
 I answer that, As was said above [4081](A[3]), there was a twofold act of the will in Christ; one whereby He was drawn to anything willed in itself, which implies the nature of an end; the other whereby His will was drawn to anything willed on account of its being ordained to another---which pertains to the nature of means. Now, as the Philosopher says (Ethic. iii, 2) choice differs from will in this, that will of itself regards the end, while choice regards the means. And thus simple will is the same as the "will as nature"; but choice is the same as the "will as reason," and is the proper act of free-will, as was said in the [4082]FP, Q[83], A[3]. Hence, since "will as reason" is placed in Christ, we must also place choice, and consequently free-will, whose act is choice, as was said in the [4083]FP, Q[83], A[3]; [4084]FS, Q[13], A[1].
+
 ## Replies
+
 Reply to Objection 1: Damascene excludes choice from Christ, in so far as he considers that doubt is implied in the word choice. Nevertheless doubt is not necessary to choice, since it belongs even to God Himself to choose, according to Eph. 1:4: "He chose us in Him before the foundation of the world," although in God there is no doubt. Yet doubt is accidental to choice when it is in an ignorant nature. We may also say the same of whatever else is mentioned in the passage quoted.
+
 Reply to Objection 2: Choice presupposes counsel; yet it follows counsel only as determined by judgment. For what we judge to be done, we choose, after the inquiry of counsel, as is stated (Ethic. iii, 2,3). Hence if anything is judged necessary to be done, without any preceding doubt or inquiry, this suffices for choice. Therefore it is plain that doubt or inquiry belong to choice not essentially, but only when it is in an ignorant nature.
+
 Reply to Objection 3: The will of Christ, though determined to good, is not determined to this or that good. Hence it pertains to Christ, even as to the blessed, to choose with a free-will confirmed in good.

@@ -1,12 +1,23 @@
 # Whether Bodily Pain Is The Greatest Evil?
+
 ## Objections
+
 Objection 1: It would seem that pain is the greatest evil. Because "the worst is contrary to the best" (Ethic. viii, 10). But a certain pleasure is the greatest good, viz. the pleasure of bliss. Therefore a certain pain is the greatest evil.
+
 Objection 2: Further, happiness is man's greatest good, because it is his last end. But man's Happiness consists in his "having whatever he will, and in willing naught amiss," as stated above ([1342]Q[3], A[4], OBJ[5];[1343] Q[5], A[8], OBJ[3]). Therefore man's greatest good consists in the fulfilment of his will. Now pain consists in something happening contrary to the will, as Augustine declares (De Civ. Dei xiv, 6,15). Therefore pain is man's greatest evil.
+
 Objection 3: Further, Augustine argues thus (Soliloq. i, 12): "We are composed of two parts, i.e. of a soul and a body, whereof the body is the inferior. Now the sovereign good is the greatest good of the better part: while the supreme evil is the greatest evil of the inferior part. But wisdom is the greatest good of the soul; while the worst thing in the body is pain. Therefore man's greatest good is to be wise: while his greatest evil is to suffer pain."
+
 ## Answer
+
 On the contrary, Guilt is a greater evil than punishment, as was stated in the [1344]FP, Q[48], A[6]. But sorrow or pain belongs to the punishment of sin, just as the enjoyment of changeable things is an evil of guilt. For Augustine says (De Vera Relig. xii): "What is pain of the soul, except for the soul to be deprived of that which it was wont to enjoy, or had hoped to enjoy? And this is all that is called evil, i.e. sin, and the punishment of sin." Therefore sorrow or pain is not man's greatest evil.
+
 I answer that, It is impossible for any sorrow or pain to be man's greatest evil. For all sorrow or pain is either for something that is truly evil, or for something that is apparently evil, but good in reality. Now pain or sorrow for that which is truly evil cannot be the greatest evil: for there is something worse, namely, either not to reckon as evil that which is really evil, or not to reject it. Again, sorrow or pain, for that which is apparently evil, but really good, cannot be the greatest evil, for it would be worse to be altogether separated from that which is truly good. Hence it is impossible for any sorrow or pain to be man's greatest evil.
+
 ## Replies
+
 Reply to Objection 1: Pleasure and sorrow have two good points in common: namely, a true judgment concerning good and evil; and the right order of the will in approving of good and rejecting evil. Thus it is clear that in pain or sorrow there is a good, by the removal of which they become worse: and yet there is not an evil in every pleasure, by the removal of which the pleasure is better. Consequently, a pleasure can be man's highest good, in the way above stated ([1345]Q[34], A[3]): whereas sorrow cannot be man's greatest evil.
+
 Reply to Objection 2: The very fact of the will being opposed to evil is a good. And for this reason, sorrow or pain cannot be the greatest evil; because it has an admixture of good.
+
 Reply to Objection 3: That which harms the better thing is worse than that which harms the worse. Now a thing is called evil "because it harms," as Augustine says (Enchiridion xii). Therefore that which is an evil to the soul is a greater evil than that which is an evil to the body. Therefore this argument does not prove: nor does Augustine give it as his own, but as taken from another [*Cornelius Celsus].

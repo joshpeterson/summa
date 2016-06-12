@@ -1,12 +1,23 @@
 # Whether Christ Should Have Been Baptized In The Jordan?
+
 ## Objections
+
 Objection 1: It would seem that Christ should not have been baptized in the Jordan. For the reality should correspond to the figure. But baptism was prefigured in the crossing of the Red Sea, where the Egyptians were drowned, just as our sins are blotted out in baptism. Therefore it seems that Christ should rather have been baptized in the sea than in the river Jordan.
+
 Objection 2: Further, "Jordan" is interpreted a "going down." But by baptism a man goes up rather than down: wherefore it is written (Mat. 3:16) that "Jesus being baptized, forthwith came up [Douay: 'out'] from the water." Therefore it seems unfitting that Christ should be baptized in the Jordan.
+
 Objection 3: Further, while the children of Israel were crossing, the waters of the Jordan "were turned back," as it is related Jos. 4, and as it is written Ps. 113:3,5. But those who are baptized go forward, not back. Therefore it was not fitting that Christ should be baptized in the Jordan.
+
 ## Answer
+
 On the contrary, It is written (Mk. 1:9) that "Jesus was baptized by John in the Jordan."
+
 I answer that, It was through the river Jordan that the children of Israel entered into the land of promise. Now, this is the prerogative of Christ's baptism over all other baptisms: that it is the entrance to the kingdom of God, which is signified by the land of promise; wherefore it is said (Jn. 3:5): "Unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God." To this also is to be referred the dividing of the water of the Jordan by Elias, who was to be snatched up into heaven in a fiery chariot, as it is related 4 Kings 2: because, to wit, the approach to heaven is laid open by the fire of the Holy Ghost, to those who pass through the waters of baptism. Therefore it was fitting that Christ should be baptized in the Jordan.
+
 ## Replies
+
 Reply to Objection 1: The crossing of the Red Sea foreshadowed baptism in this---that baptism washes away sin: whereas the crossing of the Jordan foreshadows it in this---that it opens the gate to the heavenly kingdom: and this is the principal effect of baptism, and accomplished through Christ alone. And therefore it was fitting that Christ should be baptized in the Jordan rather than in the sea.
+
 Reply to Objection 2: In baptism we "go up" by advancing in grace: for which we need to "go down" by humility, according to James 4:6: "He giveth grace to the humble." And to this "going down" must the name of the Jordan be referred.
+
 Reply to Objection 3: As Augustine says in a sermon for the Epiphany (x): "As of yore the waters of the Jordan were held back, so now, when Christ was baptized, the torrent of sin was held back." Or else this may signify that against the downward flow of the waters the river of blessings flowed upwards.

@@ -1,14 +1,25 @@
 # Whether Negligence Can Be A Mortal Sin?
+
 ## Objections
+
 Objection 1: It would seem that negligence cannot be a mortal sin. For a gloss of Gregory [*Moral. ix. 34] on Job 9:28, "I feared all my works," etc. says that "too little love of God aggravates the former," viz. negligence. But wherever there is mortal sin, the love of God is done away with altogether. Therefore negligence is not a mortal sin.
+
 Objection 2: Further, a gloss on Ecclus. 7:34, "For thy negligences purify thyself with a few," says: "Though the offering be small it cleanses the negligences of many sins." Now this would not be, if negligence were a mortal sin. Therefore negligence is not a mortal sin.
+
 Objection 3: Further, under the law certain sacrifices were prescribed for mortal sins, as appears from the book of Leviticus. Yet no sacrifice was prescribed for negligence. Therefore negligence is not a mortal sin.
+
 ## Answer
+
 On the contrary, It is written (Prov. 19:16): "He that neglecteth his own life [Vulg.: 'way'] shall die."
+
 I answer that, As stated above (A[2], ad 3), negligence arises out of a certain remissness of the will, the result being a lack of solicitude on the part of the reason in commanding what it should command, or as it should command. Accordingly negligence may happen to be a mortal sin in two ways. First on the part of that which is omitted through negligence. If this be either an act or a circumstance necessary for salvation, it will be a mortal sin. Secondly on the part of the cause: for if the will be so remiss about Divine things, as to fall away altogether from the charity of God, such negligence is a mortal sin, and this is the case chiefly when negligence is due to contempt.
 
 But if negligence consists in the omission of an act or circumstance that is not necessary for salvation, it is not a mortal but a venial sin, provided the negligence arise, not from contempt, but from some lack of fervor, to which venial sin is an occasional obstacle.
+
 ## Replies
+
 Reply to Objection 1: Man may be said to love God less in two ways. First through lack of the fervor of charity, and this causes the negligence that is a venial sin: secondly through lack of charity itself, in which sense we say that a man loves God less when he loves Him with a merely natural love; and this causes the negligence that is a mortal sin.
+
 Reply to Objection 2: According to the same authority (gloss), a small offering made with a humble mind and out of pure love, cleanses man not only from venial but also from mortal sin.
+
 Reply to Objection 3: When negligence consists in the omission of that which is necessary for salvation, it is drawn to the other more manifest genus of sin. Because those sins that consist of inward actions, are more hidden, wherefore no special sacrifices were prescribed for them in the Law, since the offering of sacrifices was a kind of public confession of sin, whereas hidden sins should not be confessed in public.

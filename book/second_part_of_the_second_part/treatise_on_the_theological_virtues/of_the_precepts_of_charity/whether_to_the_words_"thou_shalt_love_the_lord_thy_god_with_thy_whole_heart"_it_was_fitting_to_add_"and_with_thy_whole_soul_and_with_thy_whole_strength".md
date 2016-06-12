@@ -1,9 +1,16 @@
 # Whether To The Words, "Thou Shalt Love The Lord Thy God With Thy Whole Heart," It Was Fitting To Add "And With Thy Whole Soul, And With Thy Whole Strength"?
+
 ## Objections
+
 Objection 1: It would seem that it was unfitting to the words, "Thou shalt love the Lord thy God, with thy whole heart," to add, "and with thy whole soul, and with thy whole strength" (Dt. 6:5). For heart does not mean here a part of the body, since to love God is not a bodily action: and therefore heart is to be taken here in a spiritual sense. Now the heart understood spiritually is either the soul itself or part of the soul. Therefore it is superfluous to mention both heart and soul.
+
 Objection 2: Further, a man's strength whether spiritual or corporal depends on the heart. Therefore after the words, "Thou shalt love the Lord thy God with thy whole heart," it was unnecessary to add, "with all thy strength."
+
 Objection 3: Further, in Mat. 22:37 we read: "With all thy mind," which words do not occur here. Therefore it seems that this precept is unfittingly worded in Dt. 6.
+
 ## Answer
+
+
 
 I answer that, This precept is differently worded in various places: for, as we said in the first objection, in Dt. 6 three points are mentioned: "with thy whole heart," and "with thy whole soul," and "with thy whole strength." In Mat. 22 we find two of these mentioned, viz. "with thy whole heart" and "with thy whole soul," while "with thy whole strength" is omitted, but "with thy whole mind" is added. Yet in Mark 12 we find all four, viz. "with thy whole heart," and "with thy whole soul," and "with thy whole mind," and "with thy whole force" which is the same as "strength." Moreover, these four are indicated in Luke 10, where in place of "strength" or "force" we read "with all thy might." [*St. Thomas is explaining the Latin text which reads "ex tota fortitudine tua" (Dt.), "ex tota virtue tua" (Mk.), and "ex omnibus tuis" (Lk.), although the Greek in all three cases has {ex holes tes ischyos}, which the Douay renders "with thy whole strength."]
 

@@ -1,14 +1,27 @@
 # Whether All Things Desire Peace?
+
 ## Objections
+
 Objection 1: It would seem that not all things desire peace. For, according to Dionysius (Div. Nom. xi), peace "unites consent." But there cannot be unity of consent in things which are devoid of knowledge. Therefore such things cannot desire peace.
+
 Objection 2: Further, the appetite does not tend to opposite things at the same time. Now many desire war and dissension. Therefore all men do not desire peace.
+
 Objection 3: Further, good alone is an object of appetite. But a certain peace is, seemingly, evil, else Our Lord would not have said (Mat. 10:34): "I came not to send peace." Therefore all things do not desire peace.
+
 Objection 4: Further, that which all desire is, seemingly, the sovereign good which is the last end. But this is not true of peace, since it is attainable even by a wayfarer; else Our Lord would vainly command (Mk. 9:49): "Have peace among you." Therefore all things do not desire peace.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei xix, 12,14) that "all things desire peace": and Dionysius says the same (Div. Nom. xi).
+
 I answer that, From the very fact that a man desires a certain thing it follows that he desires to obtain what he desires, and, in consequence, to remove whatever may be an obstacle to his obtaining it. Now a man may be hindered from obtaining the good he desires, by a contrary desire either of his own or of some other, and both are removed by peace, as stated above. Hence it follows of necessity that whoever desires anything desires peace, in so far as he who desires anything, desires to attain, with tranquillity and without hindrance, to that which he desires: and this is what is meant by peace which Augustine defines (De Civ. Dei xix, 13) "the tranquillity of order."
+
 ## Replies
+
 Reply to Objection 1: Peace denotes union not only of the intellective or rational appetite, or of the animal appetite, in both of which consent may be found, but also of the natural appetite. Hence Dionysius says that "peace is the cause of consent and of connaturalness," where "consent" denotes the union of appetites proceeding from knowledge, and "connaturalness," the union of natural appetites.
+
 Reply to Objection 2: Even those who seek war and dissension, desire nothing but peace, which they deem themselves not to have. For as we stated above, there is no peace when a man concords with another man counter to what he would prefer. Consequently men seek by means of war to break this concord, because it is a defective peace, in order that they may obtain peace, where nothing is contrary to their will. Hence all wars are waged that men may find a more perfect peace than that which they had heretofore.
+
 Reply to Objection 3: Peace gives calm and unity to the appetite. Now just as the appetite may tend to what is good simply, or to what is good apparently, so too, peace may be either true or apparent. There can be no true peace except where the appetite is directed to what is truly good, since every evil, though it may appear good in a way, so as to calm the appetite in some respect, has, nevertheless many defects, which cause the appetite to remain restless and disturbed. Hence true peace is only in good men and about good things. The peace of the wicked is not a true peace but a semblance thereof, wherefore it is written (Wis. 14:22): "Whereas they lived in a great war of ignorance, they call so many and so great evils peace."
+
 Reply to Objection 4: Since true peace is only about good things, as the true good is possessed in two ways, perfectly and imperfectly, so there is a twofold true peace. One is perfect peace. It consists in the perfect enjoyment of the sovereign good, and unites all one's desires by giving them rest in one object. This is the last end of the rational creature, according to Ps. 147:3: "Who hath placed peace in thy borders." The other is imperfect peace, which may be had in this world, for though the chief movement of the soul finds rest in God, yet there are certain things within and without which disturb the peace.

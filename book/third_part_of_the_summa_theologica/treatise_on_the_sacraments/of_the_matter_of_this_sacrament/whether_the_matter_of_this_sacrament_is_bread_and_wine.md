@@ -1,10 +1,17 @@
 # Whether The Matter Of This Sacrament Is Bread And Wine?
+
 ## Objections
+
 Objection 1: It seems that the matter of this sacrament is not bread and wine. Because this sacrament ought to represent Christ's Passion more fully than did the sacraments of the Old Law. But the flesh of animals, which was the matter of the sacraments under the Old Law, shows forth Christ's Passion more fully than bread and wine. Therefore the matter of this sacrament ought rather to be the flesh of animals than bread and wine.
+
 Objection 2: Further, this sacrament is to be celebrated in every place. But in many lands bread is not to be found, and in many places wine is not to be found. Therefore bread and wine are not a suitable matter for this sacrament.
+
 Objection 3: Further, this sacrament is for both hale and weak. But to some weak persons wine is hurtful. Therefore it seems that wine ought not to be the matter of this sacrament.
+
 ## Answer
+
 On the contrary, Pope Alexander I says (Ep. ad omnes orth. i): "In oblations of the sacraments only bread and wine mixed with water are to be offered."
+
 I answer that, Some have fallen into various errors about the matter of this sacrament. Some, known as the Artotyrytae, as Augustine says (De Haeres. xxviii), "offer bread and cheese in this sacrament, contending that oblations were celebrated by men in the first ages, from fruits of the earth and sheep." Others, called Cataphrygae and Pepuziani, "are reputed to have made their Eucharistic bread with infants' blood drawn from tiny punctures over the entire body, and mixed with flour." Others, styled Aquarii, under guise of sobriety, offer nothing but water in this sacrament.
 
 Now all these and similar errors are excluded by the fact that Christ instituted this sacrament under the species of bread and wine, as is evident from Mat. 26. Consequently, bread and wine are the proper matter of this sacrament. And the reasonableness of this is seen first, in the use of this sacrament, which is eating: for, as water is used in the sacrament of Baptism for the purpose of spiritual cleansing, since bodily cleansing is commonly done with water; so bread and wine, wherewith men are commonly fed, are employed in this sacrament for the use of spiritual eating.
@@ -14,7 +21,11 @@ Secondly, in relation to Christ's Passion, in which the blood was separated from
 Thirdly, as to the effect, considered in each of the partakers. For, as Ambrose (Mag. Sent. iv, D, xi) says on 1 Cor. 11:20, this sacrament "avails for the defense of soul and body"; and therefore "Christ's body is offered" under the species of bread "for the health of the body, and the blood" under the species of wine "for the health of the soul," according to Lev. 17:14: "The life of the animal [Vulg.: 'of all flesh'] is in the blood."
 
 Fourthly, as to the effect with regard to the whole Church, which is made up of many believers, just "as bread is composed of many grains, and wine flows from many grapes," as the gloss observes on 1 Cor. 10:17: "We being many are . . . one body," etc.
+
 ## Replies
+
 Reply to Objection 1: Although the flesh of slaughtered animals represents the Passion more forcibly, nevertheless it is less suitable for the common use of this sacrament, and for denoting the unity of the Church.
+
 Reply to Objection 2: Although wheat and wine are not produced in every country, yet they can easily be conveyed to every land, that is, as much as is needful for the use of this sacrament: at the same time one is not to be consecrated when the other is lacking, because it would not be a complete sacrament.
+
 Reply to Objection 3: Wine taken in small quantity cannot do the sick much harm: yet if there be fear of harm, it is not necessary for all who take Christ's body to partake also of His blood, as will be stated later ([4518]Q[80], A[12]).

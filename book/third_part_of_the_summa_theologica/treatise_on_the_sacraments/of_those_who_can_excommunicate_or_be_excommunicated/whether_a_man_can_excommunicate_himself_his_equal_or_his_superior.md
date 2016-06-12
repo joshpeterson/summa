@@ -1,12 +1,23 @@
 # Whether A Man Can Excommunicate Himself, His Equal, Or His Superior?
+
 ## Objections
+
 Objection 1: It would seem that a man can excommunicate himself, his equal, or his superior. For an angel of God was greater than Paul, according to Mat. 11:11: "He that is lesser in the kingdom of heaven is greater then he, a greater" than whom "hath not risen among men that are born of women." Now Paul excommunicated an angel from heaven (Gal. 1:8). Therefore a man can excommunicate his superior.
+
 Objection 2: Further, sometimes a priest pronounces a general excommunication for theft or the like. But it might happen that he, or his equal, or a superior has done such things. Therefore a man can excommunicate himself, his equal, or a superior.
+
 Objection 3: Further, a man can absolve his superior or his equal in the tribunal of Penance, as when a bishop confesses to his subject, or one priest confesses venial sins to another. Therefore it seems that a man may also excommunicate his superior, or his equal.
+
 ## Answer
+
 On the contrary, Excommunication is an act of jurisdiction. But no man has jurisdiction over himself (since one cannot be both judge and defendant in the same trial), or over his superior, or over an equal. Therefore a man cannot excommunicate his superior, or his equal, or himself.
+
 I answer that, Since, by jurisdiction, a man is placed above those over whom he has jurisdiction, through being their judge, it follows that no man has jurisdiction over himself, his superior, or his equal, and that, consequently, no one can excommunicate either himself, or his superior, or his equal.
+
 ## Replies
+
 Reply to Objection 1: The Apostle is speaking hypothetically, i.e. supposing an angel were to sin, for in that case he would not be higher than the Apostle, but lower. Nor is it absurd that, if the antecedent of a conditional sentence be impossible, the consequence be impossible also.
+
 Reply to Objection 2: In that case no one would be excommunicated, since no man has power over his peer.
+
 Reply to Objection 3: Loosing and binding in the tribunal of confession affects our relation to God only, in Whose sight a man from being above another sinks below him through sin; while on the other hand excommunication is the affair of an external tribunal in which a man does not forfeit his superiority on account of sin. Hence there is no comparison between the two tribunals. Nevertheless, even in the tribunal of confession, a man cannot absolve himself, or his superior, or his equal, unless the power to do so be committed to him. This does not apply to venial sins, because they can be remitted through any sacraments which confer grace, hence remission of venial sins follows the power of orders.

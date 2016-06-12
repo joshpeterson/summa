@@ -1,14 +1,27 @@
 # Whether The Precepts Of The Decalogue Are Precepts Of Justice?
+
 ## Objections
+
 Objection 1: It seems that the precepts of the decalogue are not precepts of justice. For the intention of a lawgiver is "to make the citizens virtuous in respect of every virtue," as stated in Ethic. ii, 1. Wherefore, according to Ethic. v, 1, "the law prescribes about all acts of all virtues." Now the precepts of the decalogue are the first. principles of the whole Divine Law. Therefore the precepts of the decalogue do not pertain to justice alone.
+
 Objection 2: Further, it would seem that to justice belong especially the judicial precepts, which are condivided with the moral precepts, as stated above ([3270]FS, Q[99], A[4]). But the precepts of the decalogue are moral precepts, as stated above ([3271]FS, Q[100], A[3]). Therefore the precepts of the decalogue are not precepts of justice.
+
 Objection 3: Further, the Law contains chiefly precepts about acts of justice regarding the common good, for instance about public officers and the like. But there is no mention of these in the precepts of the decalogue. Therefore it seems that the precepts of the decalogue do not properly belong to justice.
+
 Objection 4: Further, the precepts of the decalogue are divided into two tables, corresponding to the love of God and the love of our neighbor, both of which regard the virtue of charity. Therefore the precepts of the decalogue belong to charity rather than to justice.
+
 ## Answer
+
 On the contrary, Seemingly justice is the sole virtue whereby we are directed to another. Now we are directed to another by all the precepts of the decalogue, as is evident if one consider each of them. Therefore all the precepts of the decalogue pertain to justice.
+
 I answer that, The precepts of the decalogue are the first principles of the Law: and the natural reason assents to them at once, as to principles that are most evident. Now it is altogether evident that the notion of duty, which is essential to a precept, appears in justice, which is of one towards another. Because in those matters that relate to himself it would seem at a glance that man is master of himself, and that he may do as he likes: whereas in matters that refer to another it appears manifestly that a man is under obligation to render to another that which is his due. Hence the precepts of the decalogue must needs pertain to justice. Wherefore the first three precepts are about acts of religion, which is the chief part of justice; the fourth precept is about acts of piety, which is the second part of justice; and the six remaining are about justice commonly so called, which is observed among equals.
+
 ## Replies
+
 Reply to Objection 1: The intention of the law is to make all men virtuous, but in a certain order, namely, by first of all giving them precepts about those things where the notion of duty is most manifest, as stated above.
+
 Reply to Objection 2: The judicial precepts are determinations of the moral precepts, in so far as these are directed to one's neighbor, just as the ceremonial precepts are determinations of the moral precepts in so far as these are directed to God. Hence neither precepts are contained in the decalogue: and yet they are determinations of the precepts of the decalogue, and therefore pertain to justice.
+
 Reply to Objection 3: Things that concern the common good must needs be administered in different ways according to the difference of men. Hence they were to be given a place not among the precepts of the decalogue, but among the judicial precepts.
+
 Reply to Objection 4: The precepts of the decalogue pertain to charity as their end, according to 1 Tim. 1:5, "The end of the commandment is charity": but they belong to justice, inasmuch as they refer immediately to acts of justice.

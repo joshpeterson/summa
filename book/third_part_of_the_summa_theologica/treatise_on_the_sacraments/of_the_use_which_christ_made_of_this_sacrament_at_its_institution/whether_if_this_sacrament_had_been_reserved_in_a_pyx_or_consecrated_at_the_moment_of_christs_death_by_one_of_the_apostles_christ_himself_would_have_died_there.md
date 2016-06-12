@@ -1,14 +1,25 @@
 # Whether, If This Sacrament Had Been Reserved In A Pyx, Or Consecrated At The Moment Of Christ's Death By One Of The Apostles, Christ Himself Would Have Died There?
+
 ## Objections
+
 Objection 1: It seems that if this sacrament had been reserved in a pyx at the moment of Christ's death, or had then been consecrated by one of the apostles, that Christ would not have died there. For Christ's death happened through His Passion. But even then He was in this sacrament in an impassible manner. Therefore, He could not die in this sacrament.
+
 Objection 2: Further, on the death of Christ, His blood was separated from the body. But His flesh and blood are together in this sacrament. Therefore He could not die in this sacrament.
+
 Objection 3: Further, death ensues from the separation of the soul from the body. But both the body and the soul of Christ are contained in this sacrament. Therefore Christ could not die in this sacrament.
+
 ## Answer
+
 On the contrary, The same Christ Who was upon the cross would have been in this sacrament. But He died upon the cross. Therefore, if this sacrament had been reserved, He would have died therein.
+
 I answer that, Christ's body is substantially the same in this sacrament, as in its proper species, but not after the same fashion; because in its proper species it comes in contact with surrounding bodies by its own dimensions: but it does not do so as it is in this sacrament, as stated above [4670](A[3]). And therefore, all that belongs to Christ, as He is in Himself, can be attributed to Him both in His proper species, and as He exists in the sacrament; such as to live, to die, to grieve, to be animate or inanimate, and the like; while all that belongs to Him in relation to outward bodies, can be attributed to Him as He exists in His proper species, but not as He is in this sacrament; such as to be mocked, to be spat upon, to be crucified, to be scourged, and the rest. Hence some have composed this verse:
 
 "Our Lord can grieve beneath the sacramental veils But cannot feel the piercing of the thorns and nails."
+
 ## Replies
+
 Reply to Objection 1: As was stated above, suffering belongs to a body that suffers in respect of some extrinsic body. And therefore Christ, as in this sacrament, cannot suffer; yet He can die.
+
 Reply to Objection 2: As was said above ([4671]Q[76], A[2]), in virtue of the consecration, the body of Christ is under the species of bread, while His blood is under the species of wine. But now that His blood is not really separated from His body; by real concomitance, both His blood is present with the body under the species of the bread, and His body together with the blood under the species of the wine. But at the time when Christ suffered, when His blood was really separated from His body, if this sacrament had been consecrated, then the body only would have been present under the species of the bread, and the blood only under the species of the wine.
+
 Reply to Objection 3: As was observed above ([4672]Q[76], A[1], ad 1), Christ's soul is in this sacrament by real concomitance; because it is not without the body: but it is not there in virtue of the consecration. And therefore, if this sacrament had been consecrated then, or reserved, when His soul was really separated from His body, Christ's soul would not have been under this sacrament, not from any defect in the form of the words, but owing to the different dispositions of the thing contained.

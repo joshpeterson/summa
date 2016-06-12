@@ -1,16 +1,27 @@
 # Whether Anything Of Faith Or Hope Remains In Glory?
+
 ## Objections
+
 Objection 1: It would seem that something of faith and hope remains in glory. For when that which is proper to a thing is removed, there remains what is common; thus it is stated in De Causis that "if you take away rational, there remains living, and when you remove living, there remains being." Now in faith there is something that it has in common with beatitude, viz. knowledge: and there is something proper to it, viz. darkness, for faith is knowledge in a dark manner. Therefore, the darkness of faith removed, the knowledge of faith still remains.
+
 Objection 2: Further, faith is a spiritual light of the soul, according to Eph. 1:17,18: "The eyes of your heart enlightened . . . in the knowledge of God"; yet this light is imperfect in comparison with the light of glory, of which it is written (Ps. 35:10): "In Thy light we shall see light." Now an imperfect light remains when a perfect light supervenes: for a candle is not extinguished when the sun's rays appear. Therefore it seems that the light of faith itself remains with the light of glory.
+
 Objection 3: Further, the substance of a habit does not cease through the withdrawal of its matter: for a man may retain the habit of liberality, though he have lost his money: yet he cannot exercise the act. Now the object of faith is the First Truth as unseen. Therefore when this ceases through being seen, the habit of faith can still remain.
+
 ## Answer
+
 On the contrary, Faith is a simple habit. Now a simple thing is either withdrawn entirely, or remains entirely. Since therefore faith does not remain entirely, but is taken away as stated above [1646](A[3]), it seems that it is withdrawn entirely.
+
 I answer that, Some have held that hope is taken away entirely: but that faith is taken away in part, viz. as to its obscurity, and remains in part, viz. as to the substance of its knowledge. And if this be understood to mean that it remains the same, not identically but generically, it is absolutely true; since faith is of the same genus, viz. knowledge, as the beatific vision. On the other hand, hope is not of the same genus as heavenly bliss: because it is compared to the enjoyment of bliss, as movement is to rest in the term of movement.
 
 But if it be understood to mean that in heaven the knowledge of faith remains identically the same, this is absolutely impossible. Because when you remove a specific difference, the substance of the genus does not remain identically the same: thus if you remove the difference constituting whiteness, the substance of color does not remain identically the same, as though the identical color were at one time whiteness, and, at another, blackness. The reason is that genus is not related to difference as matter to form, so that the substance of the genus remains identically the same, when the difference is removed, as the substance of matter remains identically the same, when the form is changed: for genus and difference are not the parts of a species, else they would not be predicated of the species. But even as the species denotes the whole, i.e. the compound of matter and form in material things, so does the difference, and likewise the genus; the genus denotes the whole by signifying that which is material; the difference, by signifying that which is formal; the species, by signifying both. Thus, in man, the sensitive nature is as matter to the intellectual nature, and animal is predicated of that which has a sensitive nature, rational of that which has an intellectual nature, and man of that which has both. So that the one same whole is denoted by these three, but not under the same aspect.
 
 It is therefore evident that, since the signification of the difference is confined to the genus if the difference be removed, the substance of the genus cannot remain the same: for the same animal nature does not remain, if another kind of soul constitute the animal. Hence it is impossible for the identical knowledge, which was previously obscure, to become clear vision. It is therefore evident that, in heaven, nothing remains of faith, either identically or specifically the same, but only generically.
+
 ## Replies
+
 Reply to Objection 1: If "rational" be withdrawn, the remaining "living" thing is the same, not identically, but generically, as stated.
+
 Reply to Objection 2: The imperfection of candlelight is not opposed to the perfection of sunlight, since they do not regard the same subject: whereas the imperfection of faith and the perfection of glory are opposed to one another and regard the same subject. Consequently they are incompatible with one another, just as light and darkness in the air.
+
 Reply to Objection 3: He that loses his money does not therefore lose the possibility of having money, and therefore it is reasonable for the habit of liberality to remain. But in the state of glory not only is the object of faith, which is the unseen, removed actually, but even its possibility, by reason of the unchangeableness of heavenly bliss: and so such a habit would remain to no purpose.

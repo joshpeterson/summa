@@ -1,12 +1,23 @@
 # Whether The Old Law Contains Moral Precepts?
+
 ## Objections
+
 Objection 1: It would seem that the Old Law contains no moral precepts. For the Old Law is distinct from the law of nature, as stated above ([2071]Q[91], AA[4],5;[2072] Q[98], A[5]). But the moral precepts belong to the law of nature. Therefore they do not belong to the Old Law.
+
 Objection 2: Further, the Divine Law should have come to man's assistance where human reason fails him: as is evident in regard to things that are of faith, which are above reason. But man's reason seems to suffice for the moral precepts. Therefore the moral precepts do not belong to the Old Law, which is a Divine law.
+
 Objection 3: Further, the Old Law is said to be "the letter that killeth" (2 Cor. 3:6). But the moral precepts do not kill, but quicken, according to Ps. 118:93: "Thy justifications I will never forget, for by them Thou hast given me life." Therefore the moral precepts do not belong to the Old Law.
+
 ## Answer
+
 On the contrary, It is written (Ecclus. 17:9): "Moreover, He gave them discipline [Douay: 'instructions'] and the law of life for an inheritance." Now discipline belongs to morals; for this gloss on Heb. 12:11: "Now all chastisement [disciplina]," etc., says: "Discipline is an exercise in morals by means of difficulties." Therefore the Law which was given by God comprised moral precepts.
+
 I answer that, The Old Law contained some moral precepts; as is evident fromEx. 20:13, 15: "Thou shalt not kill, Thou shalt not steal." This was reasonable: because, just as the principal intention of human law is to created friendship between man and man; so the chief intention of the Divine law is to establish man in friendship with God. Now since likeness is the reason of love, according to Ecclus. 13:19: "Every beast loveth its like"; there cannot possibly be any friendship of man to God, Who is supremely good, unless man become good: wherefore it is written (Lev. 19:2; 11:45): "You shall be holy, for I am holy." But the goodness of man is virtue, which "makes its possessor good" (Ethic. ii, 6). Therefore it was necessary for the Old Law to include precepts about acts of virtue: and these are the moral precepts of the Law.
+
 ## Replies
+
 Reply to Objection 1: The Old Law is distinct from the natural law, not as being altogether different from it, but as something added thereto. For just as grace presupposes nature, so must the Divine law presuppose the natural law.
+
 Reply to Objection 2: It was fitting that the Divine law should come to man's assistance not only in those things for which reason is insufficient, but also in those things in which human reason may happen to be impeded. Now human reason could not go astray in the abstract, as to the universal principles of the natural law; but through being habituated to sin, it became obscured in the point of things to be done in detail. But with regard to the other moral precepts, which are like conclusions drawn from the universal principles of the natural law, the reason of many men went astray, to the extend of judging to be lawful, things that are evil in themselves. Hence there was need for the authority of the Divine law to rescue man from both these defects. Thus among the articles of faith not only are those things set forth to which reason cannot reach, such as the Trinity of the Godhead; but also those to which right reason can attain, such as the Unity of the Godhead; in order to remove the manifold errors to which reason is liable.
+
 Reply to Objection 3: As Augustine proves (De Spiritu et Litera xiv), even the letter of the law is said to be the occasion of death, as to the moral precepts; in so far as, to wit, it prescribes what is good, without furnishing the aid of grace for its fulfilment.

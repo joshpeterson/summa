@@ -1,12 +1,21 @@
 # Whether The Human Soul In The Present State Of Life Can Understand Immaterial Substances In Themselves?
+
 ## Objections
+
 Objection 1: It would seem that the human soul in the present state of life can understand immaterial substances in themselves. For Augustine (De Trin. ix, 3) says: "As the mind itself acquires the knowledge of corporeal things by means of the corporeal senses, so it gains from itself the knowledge of incorporeal things." But these are the immaterial substances. Therefore the human mind understands immaterial substances.
+
 Objection 2: Further, like is known by like. But the human mind is more akin to immaterial than to material things; since its own nature is immaterial, as is clear from what we have said above ([717]Q[76], A[1]). Since then our mind understands material things, much more is it able to understand immaterial things.
+
 Objection 3: Further, the fact that objects which are in themselves most sensible are not most felt by us, comes from sense being corrupted by their very excellence. But the intellect is not subject to such a corrupting influence from its object, as is stated De Anima iii, 4. Therefore things which are in themselves in the highest degree of intelligibility, are likewise to us most intelligible. As material things, however, are intelligible only so far as we make them actually so by abstracting them from material conditions, it is clear that those substances are more intelligible in themselves whose nature is immaterial. Therefore they are much more known to us than are material things.
+
 Objection 4: Further, the Commentator says (Metaph. ii) that "nature would be frustrated in its end" were we unable to understand abstract substances, "because it would have made what in itself is naturally intelligible not to be understood at all." But in nature nothing is idle or purposeless. Therefore immaterial substances can be understood by us.
+
 Objection 5: Further, as sense is to the sensible, so is intellect to the intelligible. But our sight can see all things corporeal, whether superior and incorruptible; or lower and corruptible. Therefore our intellect can understand all intelligible substances, even the superior and immaterial.
+
 ## Answer
+
 On the contrary, It is written (Wis. 9:16): "The things that are in heaven, who shall search out?" But these substances are said to be in heaven, according to Mat. 18:10, "Their angels in heaven," etc. Therefore immaterial substances cannot be known by human investigation.
+
 I answer that, In the opinion of Plato, immaterial substances are not only understood by us, but are the objects we understand first of all. For Plato taught that immaterial subsisting forms, which he called "Ideas," are the proper objects of our intellect, and thus first and "per se" understood by us; and, further, that material objects are known by the soul inasmuch as phantasy and sense are mixed up with the mind. Hence the purer the intellect is, so much the more clearly does it perceive the intelligible truth of immaterial things.
 
 But in Aristotle's opinion, which experience corroborates, our intellect in its present state of life has a natural relationship to the natures of material things; and therefore it can only understand by turning to the phantasms, as we have said above ([718]Q[84], A[7]). Thus it clearly appears that immaterial substances which do not fall under sense and imagination, cannot first and "per se" be known by us, according to the mode of knowledge which experience proves us to have.
@@ -20,9 +29,15 @@ Fourthly, this opinion is untrue, because it is hardly possible for anyone in th
 Fifthly, the Philosopher expressly says (Ethic. i, 10), that happiness is "an operation according to perfect virtue"; and after enumerating many virtues in the tenth book, he concludes (Ethic. i, 7) that ultimate happiness consisting in the knowledge of the highest things intelligible is attained through the virtue of wisdom, which in the sixth chapter he had named as the chief of speculative sciences. Hence Aristotle clearly places the ultimate felicity of man in the knowledge of separate substances, obtainable by speculative science; and not by being united to the active intellect as some imagined.
 
 Sixthly, as was shown above ([720]Q[79], A[4]), the active intellect is not a separate substance; but a faculty of the soul, extending itself actively to the same objects to which the passive intellect extends receptively; because, as is stated (De Anima iii, 5), the passive intellect is "all things potentially," and the active intellect is "all things in act." Therefore both intellects, according to the present state of life, extend to material things only, which are made actually intelligible by the active intellect, and are received in the passive intellect. Hence in the present state of life we cannot understand separate immaterial substances in themselves, either by the passive or by the active intellect.
+
 ## Replies
+
 Reply to Objection 1: Augustine may be taken to mean that the knowledge of incorporeal things in the mind can be gained by the mind itself. This is so true that philosophers also say that the knowledge concerning the soul is a principle for the knowledge of separate substances. For by knowing itself, it attains to some knowledge of incorporeal substances, such as is within its compass; not that the knowledge of itself gives it a perfect and absolute knowledge of them.
+
 Reply to Objection 2: The likeness of nature is not a sufficient cause of knowledge; otherwise what Empedocles said would be true ---that the soul needs to have the nature of all in order to know all. But knowledge requires that the likeness of the thing known be in the knower, as a kind of form thereof. Now our passive intellect, in the present state of life, is such that it can be informed with similitudes abstracted from phantasms: and therefore it knows material things rather than immaterial substances.
+
 Reply to Objection 3: There must needs be some proportion between the object and the faculty of knowledge; such as of the active to the passive, and of perfection to the perfectible. Hence that sensible objects of great power are not grasped by the senses, is due not merely to the fact that they corrupt the organ, but also to their being improportionate to the sensitive power. And thus it is that immaterial substances are improportionate to our intellect, in our present state of life, so that it cannot understand them.
+
 Reply to Objection 4: This argument of the Commentator fails in several ways. First, because if separate substances are not understood by us, it does not follow that they are not understood by any intellect; for they are understood by themselves, and by one another.
+
 Reply to Objection 5: Sense knows bodies, whether superior or inferior, in the same way, that is, by the sensible acting on the organ. But we do not understand material and immaterial substances in the same way. The former we understand by a process of abstraction, which is impossible in the case of the latter, for there are no phantasms of what is immaterial.

@@ -1,12 +1,23 @@
 # Whether Grace Is The Principle Of Merit Through Charity Rather Than The Other Virtues?
+
 ## Objections
+
 Objection 1: It would seem that grace is not the principle of merit through charity rather than the other virtues. For wages are due to work, according to Mat. 20:8: "Call the laborers and pay them their hire." Now every virtue is a principle of some operation, since virtue is an operative habit, as stated above ([2244]Q[55], A[2]). Hence every virtue is equally a principle of merit.
+
 Objection 2: Further, the Apostle says (1 Cor. 3:8): "Every man shall receive his own reward according to his labor." Now charity lessens rather than increases the labor, because as Augustine says (De Verbis Dom., Serm. lxx), "love makes all hard and repulsive tasks easy and next to nothing." Hence charity is no greater principle of merit than any other virtue.
+
 Objection 3: Further, the greatest principle of merit would seem to be the one whose acts are most meritorious. But the acts of faith and patience or fortitude would seem to be the most meritorious, as appears in the martyrs, who strove for the faith patiently and bravely even till death. Hence other virtues are a greater principle of merit than charity.
+
 ## Answer
+
 On the contrary, Our Lord said (Jn. 14:21): "He that loveth Me, shall be loved of My Father; and I will love him and will manifest Myself to him." Now everlasting life consists in the manifest knowledge of God, according to Jn. 17:3: "This is eternal life: that they may know Thee, the only true" and living "God." Hence the merit of eternal life rests chiefly with charity.
+
 I answer that, As we may gather from what has been stated above [2245](A[1]), human acts have the nature of merit from two causes: first and chiefly from the Divine ordination, inasmuch as acts are said to merit that good to which man is divinely ordained. Secondly, on the part of free-will, inasmuch as man, more than other creatures, has the power of voluntary acts by acting by himself. And in both these ways does merit chiefly rest with charity. For we must bear in mind that everlasting life consists in the enjoyment of God. Now the human mind's movement to the fruition of the Divine good is the proper act of charity, whereby all the acts of the other virtues are ordained to this end, since all the other virtues are commanded by charity. Hence the merit of life everlasting pertains first to charity, and secondly, to the other virtues, inasmuch as their acts are commanded by charity. So, likewise, is it manifest that what we do out of love we do most willingly. Hence, even inasmuch as merit depends on voluntariness, merit is chiefly attributed to charity.
+
 ## Replies
+
 Reply to Objection 1: Charity, inasmuch as it has the last end for object, moves the other virtues to act. For the habit to which the end pertains always commands the habits to which the means pertain, as was said above ([2246]Q[9], A[1]).
+
 Reply to Objection 2: A work can be toilsome and difficult in two ways: first, from the greatness of the work, and thus the greatness of the work pertains to the increase of merit; and thus charity does not lessen the toil---rather, it makes us undertake the greatest toils, "for it does great things, if it exists," as Gregory says (Hom. in Evang. xxx). Secondly, from the defect of the operator; for what is not done with a ready will is hard and difficult to all of us, and this toil lessens merit and is removed by charity.
+
 Reply to Objection 3: The act of faith is not meritorious unless "faith . . . worketh by charity" (Gal. 5:6). So, too, the acts of patience and fortitude are not meritorious unless a man does them out of charity, according to 1 Cor. 13:3: "If I should deliver my body to be burned, and have not charity, it profiteth me nothing."

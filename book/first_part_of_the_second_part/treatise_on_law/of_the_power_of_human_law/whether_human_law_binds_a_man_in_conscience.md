@@ -1,16 +1,27 @@
 # Whether Human Law Binds A Man In Conscience?
+
 ## Objections
+
 Objection 1: It would seem that human law does not bind man in conscience. For an inferior power has no jurisdiction in a court of higher power. But the power of man, which frames human law, is beneath the Divine power. Therefore human law cannot impose its precept in a Divine court, such as is the court of conscience.
+
 Objection 2: Further, the judgment of conscience depends chiefly on the commandments of God. But sometimes God's commandments are made void by human laws, according to Mat. 15:6: "You have made void the commandment of God for your tradition." Therefore human law does not bind a man in conscience.
+
 Objection 3: Further, human laws often bring loss of character and injury on man, according to Is. 10:1 et seqq.: "Woe to them that make wicked laws, and when they write, write injustice; to oppress the poor in judgment, and do violence to the cause of the humble of My people." But it is lawful for anyone to avoid oppression and violence. Therefore human laws do not bind man in conscience.
+
 ## Answer
+
 On the contrary, It is written (1 Pet. 2:19): "This is thankworthy, if for conscience . . . a man endure sorrows, suffering wrongfully."
+
 I answer that, Laws framed by man are either just or unjust. If they be just, they have the power of binding in conscience, from the eternal law whence they are derived, according to Prov. 8:15: "By Me kings reign, and lawgivers decree just things." Now laws are said to be just, both from the end, when, to wit, they are ordained to the common good---and from their author, that is to say, when the law that is made does not exceed the power of the lawgiver---and from their form, when, to wit, burdens are laid on the subjects, according to an equality of proportion and with a view to the common good. For, since one man is a part of the community, each man in all that he is and has, belongs to the community; just as a part, in all that it is, belongs to the whole; wherefore nature inflicts a loss on the part, in order to save the whole: so that on this account, such laws as these, which impose proportionate burdens, are just and binding in conscience, and are legal laws.
 
 On the other hand laws may be unjust in two ways: first, by being contrary to human good, through being opposed to the things mentioned above---either in respect of the end, as when an authority imposes on his subjects burdensome laws, conducive, not to the common good, but rather to his own cupidity or vainglory---or in respect of the author, as when a man makes a law that goes beyond the power committed to him---or in respect of the form, as when burdens are imposed unequally on the community, although with a view to the common good. The like are acts of violence rather than laws; because, as Augustine says (De Lib. Arb. i, 5), "a law that is not just, seems to be no law at all." Wherefore such laws do not bind in conscience, except perhaps in order to avoid scandal or disturbance, for which cause a man should even yield his right, according to Mat. 5:40,41: "If a man . . . take away thy coat, let go thy cloak also unto him; and whosoever will force thee one mile, go with him other two."
 
 Secondly, laws may be unjust through being opposed to the Divine good: such are the laws of tyrants inducing to idolatry, or to anything else contrary to the Divine law: and laws of this kind must nowise be observed, because, as stated in Acts 5:29, "we ought to obey God rather than man."
+
 ## Replies
+
 Reply to Objection 1: As the Apostle says (Rom. 13:1,2), all human power is from God . . . "therefore he that resisteth the power," in matters that are within its scope, "resisteth the ordinance of God"; so that he becomes guilty according to his conscience.
+
 Reply to Objection 2: This argument is true of laws that are contrary to the commandments of God, which is beyond the scope of (human) power. Wherefore in such matters human law should not be obeyed.
+
 Reply to Objection 3: This argument is true of a law that inflicts unjust hurt on its subjects. The power that man holds from God does not extend to this: wherefore neither in such matters is man bound to obey the law, provided he avoid giving scandal or inflicting a more grievous hurt.

@@ -1,11 +1,21 @@
 # Whether The Virtues Of Heaven Will Be Moved When Our Lord Shall Come?
+
 ## Objections
+
 Objection 1: It would seem that the virtues of heaven will not be moved when our Lord shall come. For the virtues of heaven can de. note only the blessed angels. Now immobility is essential to blessedness. Therefore it will be impossible for them to be moved.
+
 Objection 2: Further, ignorance is the cause of wonder (Metaph. i, 2). Now ignorance, like fear, is far from the angels, for as Gregory says (Dial. iv, 33; Moral. ii, 3), "what do they not see, who see Him Who sees all." Therefore it will be impossible for them to be moved with wonder, as stated in the text (Sent. iv, D, 48).
+
 Objection 3: Further, all the angels will be present at the Divine judgment; wherefore it is stated (Apoc. 7:11): "All the angels stood round about the throne." Now the virtues denote one particular order of angels. Therefore it should not be said of them rather than of others, that they are moved.
+
 ## Answer
+
 On the contrary, It is written (Job 26:11): "The pillars of heaven tremble, and dread at His beck." Now the pillars of heaven can denote only the virtues of heaven. Therefore the virtues of heaven will be moved.
+
 I answer that, Virtue is twofold as applied to the angels, [*Cf. [5049]FP, Q[108], A[5], ad 1] as Dionysius states (Coel. Hier. xi). For sometimes the name of "virtues" is appropriated to one order, which according to him, is the middle order of the middle hierarchy, but according to Gregory (Hom. in Evang. xxxiv) is the highest order of the lowest hierarchy. In another sense it is employed to denote all the angels: and then they are said to the question at issue it may be taken either way. For in the text (Sent. iv, D, 48) it is explained according to the second acceptation, so as to denote all the angels: and then they are said to be moved through wonder at the renewing of the world, as stated in the text. It can also be explained in reference to virtue as the name of a particular order; and then that order is said to be moved more than the others by reason of the effect, since according to Gregory (Hom. in Evang. xxxiv) we ascribe to that order the working of miracles which especially will be worked about that time: or again, because that order---since, according to Dionysius (Coel. Hier. xi), it belongs to the middle hierarchy---is not limited in its power, wherefore its ministry must needs regard universal causes. Consequently the proper office of the virtues is seemingly to move the heavenly bodies which are the cause of what happens in nature here below. And again the very name denotes this, since they are called the "virtues of heaven." Accordingly they will be moved then, because they will no more produce their effect, by ceasing to move the heavenly bodies: even as the angels who are appointed to watch over men will no longer fulfill the office of guardians.
+
 ## Replies
+
 Reply to Objection 1: This movement changes nothing pertaining to their state; but refers either to their effects which may vary without any change on their part, or to some new consideration of things which hitherto they were unable to see by means of their concreated species, which change of thought is not taken from them by their state of blessedness. Hence Augustine says (Gen. ad lit. viii, 20) that "God moves the spiritual creature through time."
+
 Reply to Objection 2: Wonder is wont to be about things surpassing our knowledge or ability: and accordingly the virtues of heaven will wonder at the Divine power doing such things, in so far as they fail to do or comprehend them. In this sense the blessed Agnes said that the "sun and moon wonder at His beauty": and this does not imply ignorance in the angels, but removes the comprehension of God from them.

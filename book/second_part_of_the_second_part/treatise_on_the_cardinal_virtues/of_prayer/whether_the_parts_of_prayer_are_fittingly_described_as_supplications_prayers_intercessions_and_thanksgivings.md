@@ -1,16 +1,27 @@
 # Whether The Parts Of Prayer Are Fittingly Described As Supplications, Prayers, Intercessions, And Thanksgivings?
+
 ## Objections
+
 Objection 1: It would seem that the parts of prayer are unfittingly described as supplications, prayers, intercessions, and thanksgivings. Supplication would seem to be a kind of adjuration. Yet, according to Origen (Super Matth. Tract. xxxv), "a man who wishes to live according to the gospel need not adjure another, for if it be unlawful to swear, it is also unlawful to adjure." Therefore supplication is unfittingly reckoned a part of prayer.
+
 Objection 2: Further, according to Damascene (De Fide Orth. iii, 24), "to pray is to ask becoming things of God." Therefore it is unfitting to distinguish "prayers" from "intercessions."
+
 Objection 3: Further, thanksgivings regard the past, while the others regard the future. But the past precedes the future. Therefore thanksgivings are unfittingly placed after the others.
+
 ## Answer
+
 On the contrary, suffices the authority of the Apostle (1 Tim. 2:1).
+
 I answer that, Three conditions are requisite for prayer. First, that the person who prays should approach God Whom he prays: this is signified in the word "prayer," because prayer is "the raising up of one's mind to God." The second is that there should be a petition, and this is signified in the word "intercession." In this case sometimes one asks for something definite, and then some say it is "intercession" properly so called, or we may ask for some thing indefinitely, for instance to be helped by God, or we may simply indicate a fact, as in Jn. 11:3, "Behold, he whom Thou lovest is sick," and then they call it "insinuation." The third condition is the reason for impetrating what we ask for: and this either on the part of God, or on the part of the person who asks. The reason of impetration on the part of God is His sanctity, on account of which we ask to be heard, according to Dan. 9:17,18, "For Thy own sake, incline, O God, Thy ear"; and to this pertains "supplication" [obsecratio] which means a pleading through sacred things, as when we say, "Through Thy nativity, deliver us, O Lord." The reason for impetration on the part of the person who asks is "thanksgiving"; since "through giving thanks for benefits received we merit to receive yet greater benefits," as we say in the collect [*Ember Friday in September and Postcommunion of the common of a Confessor Bishop]. Hence a gloss on 1 Tim. 2:1 says that "in the Mass, the consecration is preceded by supplication," in which certain sacred things are called to mind; that "prayers are in the consecration itself," in which especially the mind should be raised up to God; and that "intercessions are in the petitions that follow, and thanksgivings at the end."
 
 We may notice these four things in several of the Church's collects. Thus in the collect of Trinity Sunday the words, "Almighty eternal God" belong to the offering up of prayer to God; the words, "Who hast given to Thy servants," etc. belong to thanksgiving; the words, "grant, we beseech Thee," belong to intercession; and the words at the end, "Through Our Lord," etc. belong to supplication.
 
 In the "Conferences of the Fathers" (ix, cap. 11, seqq.) we read: "Supplication is bewailing one's sins; prayer is vowing something to God; intercession is praying for others; thanksgiving is offered by the mind to God in ineffable ecstasy." The first explanation, however, is the better.
+
 ## Replies
+
 Reply to Objection 1: "Supplication" is an adjuration not for the purpose of compelling, for this is forbidden, but in order to implore mercy.
+
 Reply to Objection 2: "Prayer" in the general sense includes all the things mentioned here; but when distinguished from the others it denotes properly the ascent to God.
+
 Reply to Objection 3: Among things that are diverse the past precedes the future; but the one and same thing is future before it is past. Hence thanksgiving for other benefits precedes intercession: but one and the same benefit is first sought, and finally, when it has been received, we give thanks for it. Intercession is preceded by prayer whereby we approach Him of Whom we ask: and prayer is preceded by supplication, whereby through the consideration of God's goodness we dare approach Him.

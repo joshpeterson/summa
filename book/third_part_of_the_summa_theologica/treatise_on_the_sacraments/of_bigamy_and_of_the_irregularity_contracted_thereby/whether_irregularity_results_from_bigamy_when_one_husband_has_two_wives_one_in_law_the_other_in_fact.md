@@ -1,11 +1,21 @@
 # Whether Irregularity Results From Bigamy, When One Husband Has Two Wives, One In Law, The Other In Fact?
+
 ## Objections
+
 Objection 1: It would seem that irregularity does not result from bigamy when one husband has two wives at the same time, one in law and one in fact. For when the sacrament is void there can be no defect in the sacrament. Now when a man marries a woman in fact but not in law there is no sacrament, since such a union does not signify the union of Christ with the Church. Therefore since irregularity does not result from bigamy except on account of a defect in the sacrament, it would seem that no irregularity attaches to bigamy of this kind.
+
 Objection 2: Further, if a man has intercourse with a woman whom he has married in fact and not in law, he commits fornication if he has not a lawful wife, or adultery if he has. But a man does not become irregular by dividing his flesh among several women by fornication or adultery. Therefore neither does he by the aforesaid kind of bigamy.
+
 Objection 3: Further, it may happen that a man, before knowing carnally the woman he has married in law, marries another in fact and not in law, and knows her carnally, whether the former woman be living or dead. Now this man has contracted marriage with several women either in law or in fact, and yet he is not irregular, since he has not divided his flesh among several women. Therefore irregularity is not contracted by reason of the aforesaid kind of bigamy.
+
 ## Answer
 
+
+
 I answer that, Irregularity is contracted in the two second kinds of bigamy, for although in the one there is no sacrament, there is a certain likeness to a sacrament. Wherefore these two kinds are secondary, and the first is the principal kind in causing irregularity.
+
 ## Replies
+
 Reply to Objection 1: Although there is no sacrament in this case there is a certain likeness to a sacrament, whereas there is no such likeness in fornication or adultery. Hence the comparison fails.
+
 Reply to Objection 3: In this case the man is not reckoned a bigamist, because the first marriage lacked its perfect signification. Nevertheless if, by the judgment of the Church, he be compelled to return to his first wife and carnally to know her, he becomes irregular forthwith, because the irregularity is the result not of the sin but of imperfect signification.

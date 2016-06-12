@@ -1,12 +1,23 @@
 # Whether By This Imprinted Or Infused Knowledge Christ Knew All Things?
+
 ## Objections
+
 Objection 1: It would seem that by this knowledge Christ did not know all things. For this knowledge is imprinted upon Christ for the perfection of the passive intellect. Now the passive intellect of the human soul does not seem to be in potentiality to all things simply, but only to those things with regard to which it can be reduced to act by the active intellect, which is its proper motor; and these are knowable by natural reason. Therefore by this knowledge Christ did not know what exceeded the natural reason.
+
 Objection 2: Further, phantasms are to the human intellect as colors to sight, as is said De Anima iii, 18,31,39. But it does not pertain to the perfection of the power of seeing to know what is without color. Therefore it does not pertain to the perfection of human intellect to know things of which there are no phantasms, such as separate substances. Hence, since this knowledge was in Christ for the perfection of His intellective soul, it seems that by this knowledge He did not know separate substances.
+
 Objection 3: Further, it does not belong to the perfection of the intellect to know singulars. Hence it would seem that by this knowledge the soul of Christ did not know singulars.
+
 ## Answer
+
 On the contrary, It is written (Is. 11:2) that "the Spirit of wisdom and understanding, of knowledge and counsel shall fill Him [*Vulg.: 'The Spirit of the Lord shall rest upon Him, the Spirit of wisdom and understanding, the Spirit of counsel . . . the Spirit of knowledge . . . '; cf. Ecclus. 15:5]," under which are included all that may be known; for the knowledge of all Divine things belongs to wisdom, the knowledge of all immaterial things to understanding, the knowledge of all conclusions to knowledge [scientia], the knowledge of all practical things to counsel. Hence it would seem that by this knowledge Christ had the knowledge of all things.
+
 I answer that, As was said above ([3984]Q[9], A[1]), it was fitting that the soul of Christ should be wholly perfected by having each of its powers reduced to act. Now it must be borne in mind that in the human soul, as in every creature, there is a double passive power: one in comparison with a natural agent; the other in comparison with the first agent, which can reduce any creature to a higher act than a natural agent can reduce it, and this is usually called the obediential power of a creature. Now both powers of Christ's soul were reduced to act by this divinely imprinted knowledge. And hence, by it the soul of Christ knew: First, whatever can be known by force of a man's active intellect, e.g. whatever pertains to human sciences; secondly, by this knowledge Christ knew all things made known to man by Divine revelation, whether they belong to the gift of wisdom or the gift of prophecy, or any other gift of the Holy Ghost; since the soul of Christ knew these things more fully and completely than others. Yet He did not know the Essence of God by this knowledge, but by the first alone, of which we spoke above ([3985]Q[10]).
+
 ## Replies
+
 Reply to Objection 1: This reason refers to the natural power of an intellective soul in comparison with its natural agent, which is the active intellect.
+
 Reply to Objection 2: The human soul in the state of this life, since it is somewhat fettered by the body, so as to be unable to understand without phantasms, cannot understand separate substances. But after the state of this life the separated soul will be able, in a measure, to know separate substances by itself, as was said in the [3986]FP, Q[89], AA[1],2, and this is especially clear as regards the souls of the blessed. Now before His Passion, Christ was not merely a wayfarer but also a comprehensor; hence His soul could know separate substances in the same way that a separated soul could.
+
 Reply to Objection 3: The knowledge of singulars pertains to the perfection of the intellective soul, not in speculative knowledge, but in practical knowledge, which is imperfect without the knowledge of singulars, in which operations exist, as is said Ethic. vi, 7. Hence for prudence are required the remembrance of past things, knowledge of present things, and foresight of future things, as Tully says (De Invent. ii). Therefore, since Christ had the fulness of prudence by the gift of counsel, He consequently knew all singular things---present, past, and future.

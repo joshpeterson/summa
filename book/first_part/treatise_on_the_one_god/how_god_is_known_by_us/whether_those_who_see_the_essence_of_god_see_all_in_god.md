@@ -1,14 +1,27 @@
 # Whether Those Who See The Essence Of God See All In God?
+
 ## Objections
+
 Objection 1: It seems that those who see the essence of God see all things in God. For Gregory says (Dialog. iv): "What do they not see, who see Him Who sees all things?" But God sees all things. Therefore those who see God see all things.
+
 Objection 2: Further, whoever sees a mirror, sees what is reflected in the mirror. But all actual or possible things shine forth in God as in a mirror; for He knows all things in Himself. Therefore whoever sees God, sees all actual things in Him, and also all possible things.
+
 Objection 3: Further, whoever understands the greater, can understand the least, as is said in De Anima iii. But all that God does, or can do, are less than His essence. Therefore whoever understands God, can understand all that God does, or can do.
+
 Objection 4: Further, the rational creature naturally desires to know all things. Therefore if in seeing God it does not know all things, its natural desire will not rest satisfied; thus, in seeing God it will not be fully happy; which is incongruous. Therefore he who sees God knows all things.
+
 ## Answer
+
 On the contrary, The angels see the essence of God; and yet do not know all things. For as Dionysius says (Coel. Hier. vii), "the inferior angels are cleansed from ignorance by the superior angels." Also they are ignorant of future contingent things, and of secret thoughts; for this knowledge belongs to God alone. Therefore whosoever sees the essence of God, does not know all things.
+
 I answer that, The created intellect, in seeing the divine essence, does not see in it all that God does or can do. For it is manifest that things are seen in God as they are in Him. But all other things are in God as effects are in the power of their cause. Therefore all things are seen in God as an effect is seen in its cause. Now it is clear that the more perfectly a cause is seen, the more of its effects can be seen in it. For whoever has a lofty understanding, as soon as one demonstrative principle is put before him can gather the knowledge of many conclusions; but this is beyond one of a weaker intellect, for he needs things to be explained to him separately. And so an intellect can know all the effects of a cause and the reasons for those effects in the cause itself, if it comprehends the cause wholly. Now no created intellect can comprehend God wholly, as shown above [57](A[7]). Therefore no created intellect in seeing God can know all that God does or can do, for this would be to comprehend His power; but of what God does or can do any intellect can know the more, the more perfectly it sees God.
+
 ## Replies
+
 Reply to Objection 1: Gregory speaks as regards the object being sufficient, namely, God, who in Himself sufficiently contains and shows forth all things; but it does not follow that whoever sees God knows all things, for he does not perfectly comprehend Him.
+
 Reply to Objection 2: It is not necessary that whoever sees a mirror should see all that is in the mirror, unless his glance comprehends the mirror itself.
+
 Reply to Objection 3: Although it is more to see God than to see all things else, still it is a greater thing to see Him so that all things are known in Him, than to see Him in such a way that not all things, but the fewer or the more, are known in Him. For it has been shown in this article that the more things are known in God according as He is seen more or less perfectly.
+
 Reply to Objection 4: The natural desire of the rational creature is to know everything that belongs to the perfection of the intellect, namely, the species and the genera of things and their types, and these everyone who sees the Divine essence will see in God. But to know other singulars, their thoughts and their deeds does not belong to the perfection of the created intellect nor does its natural desire go out to these things; neither, again, does it desire to know things that exist not as yet, but which God can call into being. Yet if God alone were seen, Who is the fount and principle of all being and of all truth, He would so fill the natural desire of knowledge that nothing else would be desired, and the seer would be completely beatified. Hence Augustine says (Confess. v): "Unhappy the man who knoweth all these" (i.e. all creatures) "and knoweth not Thee! but happy whoso knoweth Thee although he know not these. And whoso knoweth both Thee and them is not the happier for them, but for Thee alone."

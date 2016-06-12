@@ -1,12 +1,23 @@
 # Whether Christ Ought To Have Assumed All The Bodily Defects Of Men?
+
 ## Objections
+
 Objection 1: It would seem that Christ ought to have assumed all the bodily defects of men. For Damascene says (De Fide Orth. iii, 6,18): "What is unassumable is incurable." But Christ came to cure all our defects. Therefore He ought to have assumed all our defects.
+
 Objection 2: Further it was said [4021](A[1]), that in order to satisfy for us, Christ ought to have had perfective habits of soul and defects of body. Now as regards the soul, He assumed the fulness of all grace. Therefore as regards the body, He ought to have assumed all defects.
+
 Objection 3: Further, amongst all bodily defects death holds the chief place. Now Christ assumed death. Much more, therefore, ought He to have assumed other defects.
+
 ## Answer
+
 On the contrary, Contraries cannot take place simultaneously in the same. Now some infirmities are contrary to each other, being caused by contrary principles. Hence it could not be that Christ assumed all human infirmities.
+
 I answer that, As stated above ([4022]AA[1],2), Christ assumed human defects in order to satisfy for the sin of human nature, and for this it was necessary for Him to have the fulness of knowledge and grace in His soul. Hence Christ ought to have assumed those defects which flow from the common sin of the whole nature, yet are not incompatible with the perfection of knowledge and grace. And thus it was not fitting for Him to assume all human defects or infirmities. For there are some defects that are incompatible with the perfection of knowledge and grace, as ignorance, a proneness towards evil, and a difficulty in well-doing. Some other defects do not flow from the whole of human nature in common on account of the sin of our first parent, but are caused in some men by certain particular causes, as leprosy, epilepsy, and the like; and these defects are sometimes brought about by the fault of the man, e.g. from inordinate eating; sometimes by a defect in the formative power. Now neither of these pertains to Christ, since His flesh was conceived of the Holy Ghost, Who has infinite wisdom and power, and cannot err or fail; and He Himself did nothing wrong in the order of His life. But there are some third defects, to be found amongst all men in common, by reason of the sin of our first parent, as death, hunger, thirst, and the like; and all these defects Christ assumed, which Damascene (De Fide Orth. i, 11; iii, 20) calls "natural and indetractible passions" ---natural, as following all human nature in common; indetractible, as implying no defect of knowledge or grace.
+
 ## Replies
+
 Reply to Objection 1: All particular defects of men are caused by the corruptibility and passibility of the body, some particular causes being added; and hence, since Christ healed the passibility and corruptibility of our body by assuming it, He consequently healed all other defects.
+
 Reply to Objection 2: The fulness of all grace and knowledge was due to Christ's soul of itself, from the fact of its being assumed by the Word of God; and hence Christ assumed all the fulness of knowledge and wisdom absolutely. But He assumed our defects economically, in order to satisfy for our sin, and not that they belonged to Him of Himself. Hence it was not necessary for Him to assume them all, but only such as sufficed to satisfy for the sin of the whole nature.
+
 Reply to Objection 3: Death comes to all men from the sin of our first parent; but not other defects, although they are less than death. Hence there is no parity.

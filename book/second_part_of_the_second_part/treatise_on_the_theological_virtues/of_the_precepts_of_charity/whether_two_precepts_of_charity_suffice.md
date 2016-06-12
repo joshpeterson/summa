@@ -1,12 +1,23 @@
 # Whether Two Precepts Of Charity Suffice?
+
 ## Objections
+
 Objection 1: It would seem that two precepts of charity do not suffice. For precepts are given about acts of virtue. Now acts are distinguished by their objects. Since, then, man is bound to love four things out of charity, namely, God, himself, his neighbor and his own body, as shown above ([2695]Q[25], A[12];[2696] Q[26]), it seems that there ought to be four precepts of charity, so that two are not sufficient.
+
 Objection 2: Further, love is not the only act of charity, but also joy, peace and beneficence. But precepts should be given about the acts of the virtues. Therefore two precepts of charity do not suffice.
+
 Objection 3: Further, virtue consists not only in doing good but also in avoiding evil. Now we are led by the positive precepts to do good, and by the negative precepts to avoid evil. Therefore there ought to have been not only positive, but also negative precepts about charity; and so two precepts of charity are not sufficient.
+
 ## Answer
+
 On the contrary, Our Lord said (Mat. 22:40): "On these two commandments dependeth the whole Law and the prophets."
+
 I answer that, Charity, as stated above ([2697]Q[23], A[1]), is a kind of friendship. Now friendship is between one person and another, wherefore Gregory says (Hom. in Ev. xvii): "Charity is not possible between less than two": and it has been explained how one may love oneself out of charity ([2698]Q[25], A[4]). Now since good is the object of dilection and love, and since good is either an end or a means, it is fitting that there should be two precepts of charity, one whereby we are induced to love God as our end, and another whereby we are led to love our neighbor for God's sake, as for the sake of our end
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (De Doctr. Christ. i, 23), "though four things are to be loved out of charity, there was no need of a precept as regards the second and fourth," i.e. love of oneself and of one's own body. "For however much a man may stray from the truth, the love of himself and of his own body always remains in him." And yet the mode of this love had to be prescribed to man, namely, that he should love himself and his own body in an ordinate manner, and this is done by his loving God and his neighbor.
+
 Reply to Objection 2: As stated above ([2699]Q[28], A[4];[2700] Q[29], A[3]), the other acts of charity result from the act of love as effects from their cause. Hence the precepts of love virtually include the precepts about the other acts. And yet we find that, for the sake of the laggards, special precepts were given about each act---about joy (Phil. 4:4): "Rejoice in the Lord always"---about peace (Heb. 12:14): "Follow peace with all men"---about beneficence (Gal. 6:10): "Whilst we have time, let us work good to all men"---and Holy Writ contains precepts about each of the parts of beneficence, as may be seen by anyone who considers the matter carefully.
+
 Reply to Objection 3: To do good is more than to avoid evil, and therefore the positive precepts virtually include the negative precepts. Nevertheless we find explicit precepts against the vices contrary to charity: for, against hatred it is written (Lev. 12:17): "Thou shalt not hate thy brother in thy heart"; against sloth (Ecclus. 6:26): "Be not grieved with her bands"; against envy (Gal. 5:26): "Let us not be made desirous of vainglory, provoking one another, envying one another"; against discord (1 Cor. 1:10): "That you all speak the same thing, and that there be no schisms among you"; and against scandal (Rom. 14:13): "That you put not a stumbling-block or a scandal in your brother's way."

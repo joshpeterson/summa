@@ -1,16 +1,27 @@
 # Whether Christ Received And Gave To The Disciples His Impassible Body?
+
 ## Objections
+
 Objection 1: It seems that Christ both received and gave to the disciples His impassible body. Because on Mat. 17:2, "He was transfigured before them," the gloss says: "He gave to the disciples at the supper that body which He had through nature, but neither mortal nor passible." And again, on Lev. 2:5, "if thy oblation be from the frying-pan," the gloss says: "The Cross mightier than all things made Christ's flesh fit for being eaten, which before the Passion did not seem so suited." But Christ gave His body as suited for eating. Therefore He gave it just as it was after the Passion, that is, impassible and immortal.
+
 Objection 2: Further, every passible body suffers by contact and by being eaten. Consequently, if Christ's body was passible, it would have suffered both from contact and from being eaten by the disciples.
+
 Objection 3: Further, the sacramental words now spoken by the priest in the person of Christ are not more powerful than when uttered by Christ Himself. But now by virtue of the sacramental words it is Christ's impassible and immortal body which is consecrated upon the altar. Therefore, much more so was it then.
+
 ## Answer
+
 On the contrary, As Innocent III says (De Sacr. Alt. Myst. iv), "He bestowed on the disciples His body such as it was." But then He had a passible and a mortal body. Therefore, He gave a passible and mortal body to the disciples.
+
 I answer that, Hugh of Saint Victor (Innocent III, De Sacr. Alt. Myst. iv), maintained, that before the Passion, Christ assumed at various times the four properties of a glorified body ---namely, subtlety in His birth, when He came forth from the closed womb of the Virgin; agility, when He walked dryshod upon the sea; clarity, in the Transfiguration; and impassibility at the Last Supper, when He gave His body to the disciples to be eaten. And according to this He gave His body in an impassible and immortal condition to His disciples.
 
 But whatever may be the case touching the other qualities, concerning which we have already stated what should be held ([4666]Q[28], A[2], ad 3;[4667] Q[45], A[2]), nevertheless the above opinion regarding impassibility is inadmissible. For it is manifest that the same body of Christ which was then seen by the disciples in its own species, was received by them under the sacramental species. But as seen in its own species it was not impassible; nay more, it was ready for the Passion. Therefore, neither was Christ's body impassible when given under the sacramental species.
 
 Yet there was present in the sacrament, in an impassible manner, that which was passible of itself; just as that was there invisibly which of itself was visible. For as sight requires that the body seen be in contact with the adjacent medium of sight, so does passion require contact of the suffering body with the active agents. But Christ's body, according as it is under the sacrament, as stated above (A[1], ad 2;[4668] Q[76], A[5]), is not compared with its surroundings through the intermediary of its own dimensions, whereby bodies touch each other, but through the dimensions of the bread and wine; consequently, it is those species which are acted upon and are seen, but not Christ's own body.
+
 ## Replies
+
 Reply to Objection 1: Christ is said not to have given His mortal and passible body at the supper, because He did not give it in mortal and passible fashion. But the Cross made His flesh adapted for eating, inasmuch as this sacrament represents Christ's Passion.
+
 Reply to Objection 2: This argument would hold, if Christ's body, as it was passible, were also present in a passible manner in this sacrament.
+
 Reply to Objection 3: As stated above ([4669]Q[76], A[4]), the accidents of Christ's body are in this sacrament by real concomitance, but not by the power of the sacrament, whereby the substance of Christ's body comes to be there. And therefore the power of the sacramental words extends to this, that the body, i.e. Christ's, is under this sacrament, whatever accidents really exist in it.

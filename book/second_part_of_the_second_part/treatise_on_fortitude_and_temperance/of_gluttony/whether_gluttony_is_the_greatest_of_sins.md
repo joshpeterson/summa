@@ -1,12 +1,23 @@
 # Whether Gluttony Is The Greatest Of Sins?
+
 ## Objections
+
 Objection 1: It would seem that gluttony is the greatest of sins. For the grievousness of a sin is measured by the grievousness of the punishment. Now the sin of gluttony is most grievously punished, for Chrysostom says [*Hom. xiii in Matth.]: "Gluttony turned Adam out of Paradise, gluttony it was that drew down the deluge at the time of Noah." According to Ezech. 16:49, "This was the iniquity of Sodom, thy sister . . . fulness of bread," etc. Therefore the sin of gluttony is the greatest of all.
+
 Objection 2: Further, in every genus the cause is the most powerful. Now gluttony is apparently the cause of other sins, for a gloss on Ps. 135:10, "Who smote Egypt with their first-born," says: "Lust, concupiscence, pride are the first-born of gluttony." Therefore gluttony is the greatest of sins.
+
 Objection 3: Further, man should love himself in the first place after God, as stated above ([3497]Q[25], A[4]). Now man, by the vice of gluttony, inflicts an injury on himself: for it is written (Ecclus. 37:34): "By surfeiting many have perished." Therefore gluttony is the greatest of sins, at least excepting those that are against God.
+
 ## Answer
+
 On the contrary, The sins of the flesh, among which gluttony is reckoned, are less culpable according to Gregory (Moral. xxxiii).
+
 I answer that, The gravity of a sin may be measured in three ways. First and foremost it depends on the matter in which the sin is committed: and in this way sins committed in connection with Divine things are the greatest. From this point of view gluttony is not the greatest sin, for it is about matters connected with the nourishment of the body. Secondly, the gravity of a sin depends on the person who sins, and from this point of view the sin of gluttony is diminished rather than aggravated, both on account of the necessity of taking food, and on account of the difficulty of proper discretion and moderation in such matters. Thirdly, from the point of view of the result that follows, and in this way gluttony has a certain gravity, inasmuch as certain sins are occasioned thereby.
+
 ## Replies
+
 Reply to Objection 1: These punishments are to be referred to the vices that resulted from gluttony, or to the root from which gluttony sprang, rather than to gluttony itself. For the first man was expelled from Paradise on account of pride, from which he went on to an act of gluttony: while the deluge and the punishment of the people of Sodom were inflicted for sins occasioned by gluttony.
+
 Reply to Objection 2: This objection argues from the standpoint of the sins that result from gluttony. Nor is a cause necessarily more powerful, unless it be a direct cause: and gluttony is not the direct cause but the accidental cause, as it were, and the occasion of other vices.
+
 Reply to Objection 3: The glutton intends, not the harm to his body, but the pleasure of eating: and if injury results to his body, this is accidental. Hence this does not directly affect the gravity of gluttony, the guilt of which is nevertheless aggravated, if a man incur some bodily injury through taking too much food.

@@ -1,10 +1,17 @@
 # Whether Christ Ought To Have Suffered On The Cross?
+
 ## Objections
+
 Objection 1: It would seem that Christ ought not to have suffered on the cross. For the truth ought to conform to the figure. But in all the sacrifices of the Old Testament which prefigured Christ the beasts were slain with a sword and afterwards consumed by fire. Therefore it seems that Christ ought not to have suffered on a cross, but rather by the sword or by fire.
+
 Objection 2: Further, Damascene says (De Fide Orth. iii) that Christ ought not to assume "dishonoring afflictions." But death on a cross was most dishonoring and ignominious; hence it is written (Wis. 2:20): "Let us condemn Him to a most shameful death." Therefore it seems that Christ ought not to have undergone the death of the cross.
+
 Objection 3: Further, it was said of Christ (Mat. 21:9): "Blessed is He that cometh in the name of the Lord." But death upon the cross was a death of malediction, as we read Dt. 21:23: "He is accursed of God that hangeth on a tree." Therefore it does not seem fitting for Christ to be crucified.
+
 ## Answer
+
 On the contrary, It is written (Phil. 2:8): "He became obedient unto death, even the death of the cross."
+
 I answer that, It was most fitting that Christ should suffer the death of the cross.
 
 First of all, as an example of virtue. For Augustine thus writes (QQ. lxxxiii, qu. 25): "God's Wisdom became man to give us an example in righteousness of living. But it is part of righteous living not to stand in fear of things which ought not to be feared. Now there are some men who, although they do not fear death in itself, are yet troubled over the manner of their death. In order, then, that no kind of death should trouble an upright man, the cross of this Man had to be set before him, because, among all kinds of death, none was more execrable, more fear-inspiring, than this."
@@ -20,7 +27,11 @@ The fifth reason is because it is befitting the universal salvation of the entir
 The sixth reason is because of the various virtues denoted by this class of death. Hence Augustine in his book on the grace of the Old and New Testament (Ep. cxl) says: "Not without purpose did He choose this class of death, that He might be a teacher of that breadth, and height, and length, and depth," of which the Apostle speaks (Eph. 3:18): "For breadth is in the beam, which is fixed transversely above; this appertains to good works, since the hands are stretched out upon it. Length is the tree's extent from the beam to the ground; and there it is planted---that is, it stands and abides---which is the note of longanimity. Height is in that portion of the tree which remains over from the transverse beam upwards to the top, and this is at the head of the Crucified, because He is the supreme desire of souls of good hope. But that part of the tree which is hidden from view to hold it fixed, and from which the entire rood springs, denotes the depth of gratuitous grace." And, as Augustine says (Tract. cxix in Joan.): "The tree upon which were fixed the members of Him dying was even the chair of the Master teaching."
 
 The seventh reason is because this kind of death responds to very many figures. For, as Augustine says in a sermon on the Passion (Serm. ci De Tempore), an ark of wood preserved the human race from the waters of the Deluge; at the exodus of God's people from Egypt, Moses with a rod divided the sea, overthrew Pharaoh and saved the people of God. the same Moses dipped his rod into the water, changing it from bitter to sweet; at the touch of a wooden rod a salutary spring gushed forth from a spiritual rock; likewise, in order to overcome Amalec, Moses stretched forth his arms with rod in hand; lastly, God's law is entrusted to the wooden Ark of the Covenant; all of which are like steps by which we mount to the wood of the cross.
+
 ## Replies
+
 Reply to Objection 1: The altar of holocausts, upon which the sacrifices of animals were immolated, was constructed of timbers, as is set forth Ex. 27:, and in this respect the truth answers to the figure; but "it is not necessary for it to be likened in every respect, otherwise it would not be a likeness," but the reality, as Damascene says (De Fide Orth. iii). But. in particular, as Chrysostom [*Athanasius, vide A, III, ad 2] says: "His head is not cut off, as was done to John; nor was He sawn in twain, like Isaias, in order that His entire and indivisible body might obey death, and that there might be no excuse for them who want to divide the Church." While, instead of material fire, there was the spiritual fire of charity in Christ's holocaust.
+
 Reply to Objection 2: Christ refused to undergo dishonorable sufferings which are allied with defects of knowledge, or of grace, or even of virtue, but not those injuries inflicted from without---nay, more, as is written Heb. 12:2: "He endured the cross, despising the shame."
+
 Reply to Objection 3: As Augustine says (Contra Faust. xiv), sin is accursed, and, consequently, so is death, and mortality, which comes of sin. "But Christ's flesh was mortal, 'having the resemblance of the flesh of sin'"; and hence Moses calls it "accursed," just as the Apostle calls it "sin," saying (2 Cor. 5:21): "Him that knew no sin, for us He hath made sin"---namely, because of the penalty of sin. "Nor is there greater ignominy on that account, because he said: 'He is accursed of God.'" For, "unless God had hated sin, He would never have sent His Son to take upon Himself our death, and to destroy it. Acknowledge, then, that it was for us He took the curse upon Himself, whom you confess to have died for us." Hence it is written (Gal. 3:13): "Christ hath redeemed us from the curse of the law, being made a curse for us."

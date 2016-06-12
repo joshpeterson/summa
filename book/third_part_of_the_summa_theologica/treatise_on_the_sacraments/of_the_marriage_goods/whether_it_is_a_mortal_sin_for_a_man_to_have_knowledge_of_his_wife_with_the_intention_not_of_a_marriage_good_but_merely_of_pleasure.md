@@ -1,14 +1,27 @@
 # Whether It Is A Mortal Sin For A Man To Have Knowledge Of His Wife, With The Intention Not Of A Marriage Good But Merely Of Pleasure?
+
 ## Objections
+
 Objection 1: It would seem that whenever a man has knowledge of his wife, with the intention not of a marriage good but merely of pleasure, he commits a mortal sin. For according to Jerome (Comment. in Eph. 5:25), as quoted in the text (Sent. iv, D, 31), "the pleasure taken in the embraces of a wanton is damnable in a husband." Now nothing but mortal sin is said to be damnable. Therefore it is always a mortal sin to have knowledge of one's wife for mere pleasure.
+
 Objection 2: Further, consent to pleasure is a mortal sin, as stated in the Second Book (Sent. ii, D, 24). Now whoever knows his wife for the sake of pleasure consents to the pleasure. Therefore he sins mortally.
+
 Objection 3: Further, whoever fails to refer the use of a creature to God enjoys a creature, and this is a mortal sin. But whoever uses his wife for mere pleasure does not refer that use to God. Therefore he sins mortally.
+
 Objection 4: Further, no one should be excommunicated except for a mortal sin. Now according to the text (Sent. ii, D, 24) a man who knows his wife for mere pleasure is debarred from entering the Church, as though he were excommunicate. Therefore every such man sins mortally.
+
 ## Answer
+
 On the contrary, As stated in the text (Sent. ii, D, 24), according to Augustine (Contra Jul. ii, 10; De Decem Chord. xi; Serm. xli, de Sanct.), carnal intercourse of this kind is one of the daily sins, for which we say the "Our Father." Now these are not mortal sins. Therefore, etc.
+
 I answer that, Some say that whenever pleasure is the chief motive for the marriage act it is a mortal sin; that when it is an indirect motive it is a venial sin; and that when it spurns the pleasure altogether and is displeasing, it is wholly void of venial sin; so that it would be a mortal sin to seek pleasure in this act, a venial sin to take the pleasure when offered, but that perfection requires one to detest it. But this is impossible, since according to the Philosopher (Ethic. x, 3,4) the same judgment applies to pleasure as to action, because pleasure in a good action is good, and in an evil action, evil; wherefore, as the marriage act is not evil in itself, neither will it be always a mortal sin to seek pleasure therein. Consequently the right answer to this question is that if pleasure be sought in such a way as to exclude the honesty of marriage, so that, to wit, it is not as a wife but as a woman that a man treats his wife, and that he is ready to use her in the same way if she were not his wife, it is a mortal sin; wherefore such a man is said to be too ardent a lover of his wife, because his ardor carries him away from the goods of marriage. If, however, he seek pleasure within the bounds of marriage, so that it would not be sought in another than his wife, it is a venial sin.
+
 ## Replies
+
 Reply to Objection 1: A man seeks wanton pleasure in his wife when he sees no more in her that he would in a wanton.
+
 Reply to Objection 2: Consent to the pleasure of the intercourse that is a mortal sin is itself a mortal sin; but such is not the consent to the marriage act.
+
 Reply to Objection 3: Although he does not actually refer the pleasure to God, he does not place his will's last end therein; otherwise he would seek it anywhere indifferently. Hence it does not follow that he enjoys a creature; but he uses a creature actually for his own sake, and himself habitually, though not actually, for God's sake.
+
 Reply to Objection 4: The reason for this statement is not that man deserves to be excommunicated for this sin, but because he renders himself unfit for spiritual things, since in that act, he becomes flesh and nothing more.

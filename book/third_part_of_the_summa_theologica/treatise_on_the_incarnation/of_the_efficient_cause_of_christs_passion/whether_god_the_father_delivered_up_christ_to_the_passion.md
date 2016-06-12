@@ -1,12 +1,23 @@
 # Whether God The Father Delivered Up Christ To The Passion?
+
 ## Objections
+
 Objection 1: It would seem that God the Father did not deliver up Christ to the Passion. For it is a wicked and cruel act to hand over an innocent man to torment and death. But, as it is written (Dt. 32:4): "God is faithful, and without any iniquity." Therefore He did not hand over the innocent Christ to His Passion and death.
+
 Objection 2: Further, it is not likely that a man be given over to death by himself and by another also. But Christ gave Himself up for us, as it is written (Is. 53:12): "He hath delivered His soul unto death." Consequently it does not appear that God the Father delivered Him up.
+
 Objection 3: Further, Judas is held to be guilty because he betrayed Christ to the Jews, according to Jn. 6:71: "One of you is a devil," alluding to Judas, who was to betray Him. The Jews are likewise reviled for delivering Him up to Pilate; as we read in Jn. 18:35: "Thy own nation, and the chief priests have delivered Thee up to me." Moreover, as is related in Jn. 19:16: Pilate "delivered Him to them to be crucified"; and according to 2 Cor. 6:14: there is no "participation of justice with injustice." It seems, therefore, that God the Father did not deliver up Christ to His Passion.
+
 ## Answer
+
 On the contrary, It is written (Rom. 8:32): "God hath not spared His own Son, but delivered Him up for us all."
+
 I answer that, As observed above [4246](A[2]), Christ suffered voluntarily out of obedience to the Father. Hence in three respects God the Father did deliver up Christ to the Passion. In the first way, because by His eternal will He preordained Christ's Passion for the deliverance of the human race, according to the words of Isaias (53:6): "The Lord hath laid on Him the iniquities of us all"; and again (Is. 53:10): "The Lord was pleased to bruise Him in infirmity." Secondly, inasmuch as, by the infusion of charity, He inspired Him with the will to suffer for us; hence we read in the same passage: "He was offered because it was His own will" (Is. 53:7). Thirdly, by not shielding Him from the Passion, but abandoning Him to His persecutors: thus we read (Mat. 27:46) that Christ, while hanging upon the cross, cried out: "My God, My God, why hast Thou forsaken Me?" because, to wit, He left Him to the power of His persecutors, as Augustine says (Ep. cxl).
+
 ## Replies
+
 Reply to Objection 1: It is indeed a wicked and cruel act to hand over an innocent man to torment and to death against his will. Yet God the Father did not so deliver up Christ, but inspired Him with the will to suffer for us. God's "severity" (cf. Rom. 11:22) is thereby shown, for He would not remit sin without penalty: and the Apostle indicates this when (Rom. 8:32) he says: "God spared not even His own Son." Likewise His "goodness" (Rom. 11:22) shines forth, since by no penalty endured could man pay Him enough satisfaction: and the Apostle denotes this when he says: "He delivered Him up for us all": and, again (Rom. 3:25): "Whom"---that is to say, Christ---God "hath proposed to be a propitiation through faith in His blood."
+
 Reply to Objection 2: Christ as God delivered Himself up to death by the same will and action as that by which the Father delivered Him up; but as man He gave Himself up by a will inspired of the Father. Consequently there is no contrariety in the Father delivering Him up and in Christ delivering Himself up.
+
 Reply to Objection 3: The same act, for good or evil, is judged differently, accordingly as it proceeds from a different source. The Father delivered up Christ, and Christ surrendered Himself, from charity, and consequently we give praise to both: but Judas betrayed Christ from greed, the Jews from envy, and Pilate from worldly fear, for he stood in fear of Caesar; and these accordingly are held guilty.

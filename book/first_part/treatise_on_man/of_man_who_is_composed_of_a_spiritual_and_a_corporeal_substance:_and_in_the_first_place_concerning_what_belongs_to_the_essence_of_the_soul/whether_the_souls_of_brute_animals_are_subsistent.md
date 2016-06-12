@@ -1,12 +1,23 @@
 # Whether The Souls Of Brute Animals Are Subsistent?
+
 ## Objections
+
 Objection 1: It would seem that the souls of brute animals are subsistent. For man is of the same 'genus' as other animals; and, as we have just shown [599](A[2]), the soul of man is subsistent. Therefore the souls of other animals are subsistent.
+
 Objection 2: Further, the relation of the sensitive faculty to sensible objects is like the relation of the intellectual faculty to intelligible objects. But the intellect, apart from the body, apprehends intelligible objects. Therefore the sensitive faculty, apart from the body, perceives sensible objects. Therefore, since the souls of brute animals are sensitive, it follows that they are subsistent; just as the human intellectual soul is subsistent.
+
 Objection 3: Further, the soul of brute animals moves the body. But the body is not a mover, but is moved. Therefore the soul of brute animals has an operation apart from the body.
+
 ## Answer
+
 On the contrary, Is what is written in the book De Eccl. Dogm. xvi, xvii: "Man alone we believe to have a subsistent soul: whereas the souls of animals are not subsistent."
+
 I answer that, The ancient philosophers made no distinction between sense and intellect, and referred both a corporeal principle, as has been said [600](A[1]). Plato, however, drew a distinction between intellect and sense; yet he referred both to an incorporeal principle, maintaining that sensing, just as understanding, belongs to the soul as such. From this it follows that even the souls of brute animals are subsistent. But Aristotle held that of the operations of the soul, understanding alone is performed without a corporeal organ. On the other hand, sensation and the consequent operations of the sensitive soul are evidently accompanied with change in the body; thus in the act of vision, the pupil of the eye is affected by a reflection of color: and so with the other senses. Hence it is clear that the sensitive soul has no "per se" operation of its own, and that every operation of the sensitive soul belongs to the composite. Wherefore we conclude that as the souls of brute animals have no "per se" operations they are not subsistent. For the operation of anything follows the mode of its being.
+
 ## Replies
+
 Reply to Objection 1: Although man is of the same "genus" as other animals, he is of a different "species." Specific difference is derived from the difference of form; nor does every difference of form necessarily imply a diversity of "genus."
+
 Reply to Objection 2: The relation of the sensitive faculty to the sensible object is in one way the same as that of the intellectual faculty to the intelligible object, in so far as each is in potentiality to its object. But in another way their relations differ, inasmuch as the impression of the object on the sense is accompanied with change in the body; so that excessive strength of the sensible corrupts sense; a thing that never occurs in the case of the intellect. For an intellect that understands the highest of intelligible objects is more able afterwards to understand those that are lower. If, however, in the process of intellectual operation the body is weary, this result is accidental, inasmuch as the intellect requires the operation of the sensitive powers in the production of the phantasms.
+
 Reply to Objection 3: Motive power is of two kinds. One, the appetitive power, commands motion. The operation of this power in the sensitive soul is not apart from the body; for anger, joy, and passions of a like nature are accompanied by a change in the body. The other motive power is that which executes motion in adapting the members for obeying the appetite; and the act of this power does not consist in moving, but in being moved. Whence it is clear that to move is not an act of the sensitive soul without the body.

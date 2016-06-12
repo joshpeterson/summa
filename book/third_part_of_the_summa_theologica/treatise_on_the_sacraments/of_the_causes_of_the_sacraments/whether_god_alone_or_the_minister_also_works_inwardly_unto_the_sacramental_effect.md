@@ -1,12 +1,23 @@
 # Whether God Alone, Or The Minister Also, Works Inwardly Unto The Sacramental Effect?
+
 ## Objections
+
 Objection 1: It seems that not God alone, but also the minister, works inwardly unto the sacramental effect. For the inward sacramental effect is to cleanse man from sin and enlighten him by grace. But it belongs to the ministers of the Church "to cleanse, enlighten and perfect," as Dionysius explains (Coel. Hier. v). Therefore it seems that the sacramental effect is the work not only of God, but also of the ministers of the Church.
+
 Objection 2: Further, certain prayers are offered up in conferring the sacraments. But the prayers of the righteous are more acceptable to God than those of any other, according to Jn. 9:31: "If a man be a server of God, and doth His will, him He heareth." Therefore it stems that a man obtains a greater sacramental effect if he receive it from a good minister. Consequently, the interior effect is partly the work of the minister and not of God alone.
+
 Objection 3: Further, man is of greater account than an inanimate thing. But an inanimate thing contributes something to the interior effect: since "water touches the body and cleanses the soul," as Augustine says (Tract. lxxx in Joan.). Therefore the interior sacramental effect is partly the work of man and not of God alone.
+
 ## Answer
+
 On the contrary, It is written (Rom. 8:33): "God that justifieth." Since, then, the inward effect of all the sacraments is justification, it seems that God alone works the interior sacramental effect.
+
 I answer that, There are two ways of producing an effect; first, as a principal agent; secondly, as an instrument. In the former way the interior sacramental effect is the work of God alone: first, because God alone can enter the soul wherein the sacramental effect takes place; and no agent can operate immediately where it is not: secondly, because grace which is an interior sacramental effect is from God alone, as we have established in the [4383]FS, Q[112], A[1]; while the character which is the interior effect of certain sacraments, is an instrumental power which flows from the principal agent, which is God. In the second way, however, the interior sacramental effect can be the work of man, in so far as he works as a minister. For a minister is of the nature of an instrument, since the action of both is applied to something extrinsic, while the interior effect is produced through the power of the principal agent, which is God.
+
 ## Replies
+
 Reply to Objection 1: Cleansing in so far as it is attributed to the ministers of the Church is not a washing from sin: deacons are said to "cleanse," inasmuch as they remove the unclean from the body of the faithful, or prepare them by their pious admonitions for the reception of the sacraments. In like manner also priests are said to "enlighten" God's people, not indeed by giving them grace, but by conferring on them the sacraments of grace; as Dionysius explains (Coel. Hier. v).
+
 Reply to Objection 2: The prayers which are said in giving the sacraments, are offered to God, not on the part of the individual, but on the part of the whole Church, whose prayers are acceptable to God, according to Mat. 18:19: "If two of you shall consent upon earth, concerning anything whatsoever they shall ask, it shall be done to them by My Father." Nor is there any reason why the devotion of a just man should not contribute to this effect. But that which is the sacramental effect is not impetrated by the prayer of the Church or of the minister, but through the merit of Christ's Passion, the power of which operates in the sacraments, as stated above ([4384]Q[62], A[5]). Wherefore the sacramental effect is made no better by a better minister. And yet something in addition may be impetrated for the receiver of the sacrament through the devotion of the minister: but this is not the work of the minister, but the work of God Who hears the minister's prayer.
+
 Reply to Objection 3: Inanimate things do not produce the sacramental effect, except instrumentally, as stated above. In like manner neither do men produce the sacramental effect, except ministerially, as also stated above.

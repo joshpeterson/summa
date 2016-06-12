@@ -1,10 +1,17 @@
 # Whether There Is Only One Heaven?
+
 ## Objections
+
 Objection 1: It would seem that there is only one heaven. For the heaven is contrasted with the earth, in the words, "In the beginning God created heaven and earth."But there is only one earth. Therefore there is only one heaven.
+
 Objection 2: Further, that which consists of the entire sum of its own matter, must be one; and such is the heaven, as the Philosopher proves (De Coel. i, text. 95). Therefore there is but one heaven.
+
 Objection 3: Further, whatever is predicated of many things univocally is predicated of them according to some common notion. But if there are more heavens than one, they are so called univocally, for if equivocally only, they could not properly be called many. If, then, they are many, there must be some common notion by reason of which each is called heaven, but this common notion cannot be assigned. Therefore there cannot be more than one heaven.
+
 ## Answer
+
 On the contrary, It is said (Ps. 148:4): "Praise Him, ye heavens of heavens."
+
 I answer that, On this point there seems to be a diversity of opinion between Basil and Chrysostom. The latter says that there is only one heaven (Hom. iv in Gen.), and that the words 'heavens of heavens' are merely the translation of the Hebrew idiom according to which the word is always used in the plural, just as in Latin there are many nouns that are wanting in the singular. On the other hand, Basil (Hom. iii in Hexaem.), whom Damascene follows (De Fide Orth. ii), says that there are many heavens. The difference, however, is more nominal than real. For Chrysostom means by the one heaven the whole body that is above the earth and the water, for which reason the birds that fly in the air are called birds of heaven [*Ps. 8:9]. But since in this body there are many distinct parts, Basil said that there are more heavens than one.
 
 In order, then, to understand the distinction of heavens, it must be borne in mind that Scripture speaks of heaven in a threefold sense. Sometimes it uses the word in its proper and natural meaning, when it denotes that body on high which is luminous actually or potentially, and incorruptible by nature. In this body there are three heavens; the first is the empyrean, which is wholly luminous; the second is the aqueous or crystalline, wholly transparent; and the third is called the starry heaven, in part transparent, and in part actually luminous, and divided into eight spheres. One of these is the sphere of the fixed stars; the other seven, which may be called the seven heavens, are the spheres of the planets.
@@ -16,7 +23,11 @@ But since this space contains two elements, namely, fire and air, and in each of
 Thirdly, there are metaphorical uses of the word heaven, as when this name is applied to the Blessed Trinity, Who is the Light and the Most High Spirit. It is explained by some, as thus applied, in the words, "I will ascend into heaven"; whereby the evil spirit is represented as seeking to make himself equal with God. Sometimes also spiritual blessings, the recompense of the Saints, from being the highest of all good gifts, are signified by the word heaven, and, in fact, are so signified, according to Augustine (De Serm. Dom. in Monte), in the words, "Your reward is very great in heaven" (Mat. 5:12).
 
 Again, three kinds of supernatural visions, bodily, imaginative, and intellectual, are called sometimes so many heavens, in reference to which Augustine (Gen. ad lit. xii) expounds Paul's rapture "to the third heaven."
+
 ## Replies
+
 Reply to Objection 1: The earth stands in relation to the heaven as the centre of a circle to its circumference. But as one center may have many circumferences, so, though there is but one earth, there may be many heavens.
+
 Reply to Objection 2: The argument holds good as to the heaven, in so far as it denotes the entire sum of corporeal creation, for in that sense it is one.
+
 Reply to Objection 3: All the heavens have in common sublimity and some degree of luminosity, as appears from what has been said.

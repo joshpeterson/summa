@@ -1,14 +1,25 @@
 # Whether The New Law Is A Written Law?
+
 ## Objections
+
 Objection 1: It would seem that the New Law is a written law. For the New Law is just the same as the Gospel. But the Gospel is set forth in writing, according to Jn. 20:31: "But these are written that you may believe." Therefore the New Law is a written law.
+
 Objection 2: Further, the law that is instilled in the heart is the natural law, according to Rom. 2:14,15: "(The Gentiles) do by nature those things that are of the law . . . who have [Vulg.: 'show'] the work of the law written in their hearts." If therefore the law of the Gospel were instilled in our hearts, it would not be distinct from the law of nature.
+
 Objection 3: Further, the law of the Gospel is proper to those who are in the state of the New Testament. But the law that is instilled in the heart is common to those who are in the New Testament and to those who are in the Old Testament: for it is written (Wis. 7:27) that Divine Wisdom "through nations conveyeth herself into holy souls, she maketh the friends of God and prophets." Therefore the New Law is not instilled in our hearts.
+
 ## Answer
+
 On the contrary, The New Law is the law of the New Testament. But the law of the New Testament is instilled in our hearts. For the Apostle, quoting the authority ofJeremiah 31:31, 33: "Behold the days shall come, saith the Lord; and I will perfect unto the house of Israel, and unto the house of Judah, a new testament," says, explaining what this statement is (Heb. 8:8, 10): "For this is the testament which I will make to the house of Israel . . . by giving [Vulg.: 'I will give'] My laws into their mind, and in their heart will I write them." Therefore the New Law is instilled in our hearts.
+
 I answer that, "Each thing appears to be that which preponderates in it," as the Philosopher states (Ethic. ix, 8). Now that which is preponderant in the law of the New Testament, and whereon all its efficacy is based, is the grace of the Holy Ghost, which is given through faith in Christ. Consequently the New Law is chiefly the grace itself of the Holy Ghost, which is given to those who believe in Christ. This is manifestly stated by the Apostle who says (Rom. 3:27): "Where is . . . thy boasting? It is excluded. By what law? Of works? No, but by the law of faith": for he calls the grace itself of faith "a law." And still more clearly it is written (Rom. 8:2): "The law of the spirit of life, in Christ Jesus, hath delivered me from the law of sin and of death." Hence Augustine says (De Spir. et Lit. xxiv) that "as the law of deeds was written on tables of stone, so is the law of faith inscribed on the hearts of the faithful": and elsewhere, in the same book (xxi): "What else are the Divine laws written by God Himself on our hearts, but the very presence of His Holy Spirit?"
 
 Nevertheless the New Law contains certain things that dispose us to receive the grace of the Holy Ghost, and pertaining to the use of that grace: such things are of secondary importance, so to speak, in the New Law; and the faithful need to be instructed concerning them, both by word and writing, both as to what they should believe and as to what they should do. Consequently we must say that the New Law is in the first place a law that is inscribed on our hearts, but that secondarily it is a written law.
+
 ## Replies
+
 Reply to Objection 1: The Gospel writings contain only such things as pertain to the grace of the Holy Ghost, either by disposing us thereto, or by directing us to the use thereof. Thus with regard to the intellect, the Gospel contains certain matters pertaining to the manifestation of Christ's Godhead or humanity, which dispose us by means of faith through which we receive the grace of the Holy Ghost: and with regard to the affections, it contains matters touching the contempt of the world, whereby man is rendered fit to receive the grace of the Holy Ghost: for "the world," i.e. worldly men, "cannot receive" the Holy Ghost (Jn. 14:17). As to the use of spiritual grace, this consists in works of virtue to which the writings of the New Testament exhort men in divers ways.
+
 Reply to Objection 2: There are two ways in which a thing may be instilled into man. First, through being part of his nature, and thus the natural law is instilled into man. Secondly, a thing is instilled into man by being, as it were, added on to his nature by a gift of grace. In this way the New Law is instilled into man, not only by indicating to him what he should do, but also by helping him to accomplish it.
+
 Reply to Objection 3: No man ever had the grace of the Holy Ghost except through faith in Christ either explicit or implicit: and by faith in Christ man belongs to the New Testament. Consequently whoever had the law of grace instilled into them belonged to the New Testament.

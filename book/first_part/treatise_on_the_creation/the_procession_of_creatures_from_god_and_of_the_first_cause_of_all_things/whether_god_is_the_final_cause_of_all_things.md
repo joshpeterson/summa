@@ -1,14 +1,27 @@
 # Whether God Is The Final Cause Of All Things?
+
 ## Objections
+
 Objection 1: It would seem that God is not the final cause of all things. For to act for an end seems to imply need of the end. But God needs nothing. Therefore it does not become Him to act for an end.
+
 Objection 2: Further, the end of generation, and the form of the thing generated, and the agent cannot be identical (Phys. ii, text 70), because the end of generation is the form of the thing generated. But God is the first agent producing all things. Therefore He is not the final cause of all things.
+
 Objection 3: Further, all things desire their end. But all things do not desire God, for all do not even know Him. Therefore God is not the end of all things.
+
 Objection 4: Further, the final cause is the first of causes. If, therefore, God is the efficient cause and the final cause, it follows that before and after exist in Him; which is impossible.
+
 ## Answer
+
 On the contrary, It is said (Prov. 16:4): "The Lord has made all things for Himself."
+
 I answer that, Every agent acts for an end: otherwise one thing would not follow more than another from the action of the agent, unless it were by chance. Now the end of the agent and of the patient considered as such is the same, but in a different way respectively. For the impression which the agent intends to produce, and which the patient intends to receive, are one and the same. Some things, however, are both agent and patient at the same time: these are imperfect agents, and to these it belongs to intend, even while acting, the acquisition of something. But it does not belong to the First Agent, Who is agent only, to act for the acquisition of some end; He intends only to communicate His perfection, which is His goodness; while every creature intends to acquire its own perfection, which is the likeness of the divine perfection and goodness. Therefore the divine goodness is the end of all things.
+
 ## Replies
+
 Reply to Objection 1: To act from need belongs only to an imperfect agent, which by its nature is both agent and patient. But this does not belong to God, and therefore He alone is the most perfectly liberal giver, because He does not act for His own profit, but only for His own goodness.
+
 Reply to Objection 2: The form of the thing generated is not the end of generation, except inasmuch as it is the likeness of the form of the generator, which intends to communicate its own likeness; otherwise the form of the thing generated would be more noble than the generator, since the end is more noble than the means to the end.
+
 Reply to Objection 3: All things desire God as their end, when they desire some good thing, whether this desire be intellectual or sensible, or natural, i.e. without knowledge; because nothing is good and desirable except forasmuch as it participates in the likeness to God.
+
 Reply to Objection 4: Since God is the efficient, the exemplar and the final cause of all things, and since primary matter is from Him, it follows that the first principle of all things is one in reality. But this does not prevent us from mentally considering many things in Him, some of which come into our mind before others.

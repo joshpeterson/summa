@@ -1,14 +1,25 @@
 # Whether The Ninth Hour Is Suitably Fixed For The Faster's Meal?
+
 ## Objections
+
 Objection 1: It would seem that the ninth hour is not suitably fixed for the faster's meal. For the state of the New Law is more perfect than the state of the Old Law. Now in the Old Testament they fasted until evening, for it is written (Lev. 23:32): "It is a sabbath . . . you shall afflict your souls," and then the text continues: "From evening until evening you shall celebrate your sabbaths." Much more therefore under the New Testament should the fast be ordered until the evening.
+
 Objection 2: Further, the fast ordered by the Church is binding on all. But all are not able to know exactly the ninth hour. Therefore it seems that the fixing of the ninth hour should not form part of the commandment to fast.
+
 Objection 3: Further, fasting is an act of the virtue of abstinence, as stated above [3488](A[2]). Now the mean of moral virtue does not apply in the same way to all, since what is much for one is little for another, as stated in Ethic. ii, 6. Therefore the ninth hour should not be fixed for those who fast.
+
 ## Answer
+
 On the contrary, The Council of Chalons [*The quotation is from the Capitularies (Cap. 39) of Theodulf, bishop of Orleans (760-821) and is said to be found in the Corpus Juris, Cap. Solent, dist. 1, De Consecratione] says: "During Lent those are by no means to be credited with fasting who eat before the celebration of the office of Vespers," which in the Lenten season is said after the ninth hour. Therefore we ought to fast until the ninth hour.
+
 I answer that, As stated above ([3489]AA[1],3,5), fasting is directed to the deletion and prevention of sin. Hence it ought to add something to the common custom, yet so as not to be a heavy burden to nature. Now the right and common custom is for men to eat about the sixth hour: both because digestion is seemingly finished (the natural heat being withdrawn inwardly at night-time on account of the surrounding cold of the night), and the humor spread about through the limbs (to which result the heat of the day conduces until the sun has reached its zenith), and again because it is then chiefly that the nature of the human body needs assistance against the external heat that is in the air, lest the humors be parched within. Hence, in order that those who fast may feel some pain in satisfaction for their sins, the ninth hour is suitably fixed for their meal.
 
 Moreover, this hour agrees with the mystery of Christ's Passion, which was brought to a close at the ninth hour, when "bowing His head, He gave up the ghost" (Jn. 19:30): because those who fast by punishing their flesh, are conformed to the Passion of Christ, according to Gal. 5:24, "They that are Christ's, have crucified their flesh with the vices and concupiscences."
+
 ## Replies
+
 Reply to Objection 1: The state of the Old Testament is compared to the night, while the state of the New Testament is compared to the day, according to Rom. 13:12, "The night is passed and the day is at hand." Therefore in the Old Testament they fasted until night, but not in the New Testament.
+
 Reply to Objection 2: Fasting requires a fixed hour based, not on a strict calculation, but on a rough estimate: for it suffices that it be about the ninth hour, and this is easy for anyone to ascertain.
+
 Reply to Objection 3: A little more or a little less cannot do much harm. Now it is not a long space of time from the sixth hour at which men for the most part are wont to eat, until the ninth hour, which is fixed for those who fast. Wherefore the fixing of such a time cannot do much harm to anyone, whatever his circumstances may be. If however this were to prove a heavy burden to a man on account of sickness, age, or some similar reason, he should be dispensed from fasting, or be allowed to forestall the hour by a little.

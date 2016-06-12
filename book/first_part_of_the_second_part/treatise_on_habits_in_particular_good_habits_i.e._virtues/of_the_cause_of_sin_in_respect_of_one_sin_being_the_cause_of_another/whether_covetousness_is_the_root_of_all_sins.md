@@ -1,14 +1,25 @@
 # Whether Covetousness Is The Root Of All Sins?
+
 ## Objections
+
 Objection 1: It would seem that covetousness is not the root of all sins. For covetousness, which is immoderate desire for riches, is opposed to the virtue of liberality. But liberality is not the root of all virtues. Therefore covetousness is not the root of all sins.
+
 Objection 2: Further, the desire for the means proceeds from desire for the end. Now riches, the desire for which is called covetousness, are not desired except as being useful for some end, as stated in Ethic. i, 5. Therefore covetousness is not the root of all sins, but proceeds from some deeper root.
+
 Objection 3: Further, it often happens that avarice, which is another name for covetousness, arises from other sins; as when a man desires money through ambition, or in order to sate his gluttony. Therefore it is not the root of all sins.
+
 ## Answer
+
 On the contrary, The Apostle says (1 Tim. 6:10): "The desire of money is the root of all evil."
+
 I answer that, According to some, covetousness may be understood in different ways. First, as denoting inordinate desire for riches: and thus it is a special sin. Secondly, as denoting inordinate desire for any temporal good: and thus it is a genus comprising all sins, because every sin includes an inordinate turning to a mutable good, as stated above ([1853]Q[72], A[2]). Thirdly, as denoting an inclination of a corrupt nature to desire corruptible goods inordinately: and they say that in this sense covetousness is the root of all sins, comparing it to the root of a tree, which draws its sustenance from earth, just as every sin grows out of the love of temporal things.
 
 Now, though all this is true, it does not seem to explain the mind of the Apostle when he states that covetousness is the root of all sins. For in that passage he clearly speaks against those who, because they "will become rich, fall into temptation, and into the snare of the devil . . . for covetousness is the root of all evils." Hence it is evident that he is speaking of covetousness as denoting the inordinate desire for riches. Accordingly, we must say that covetousness, as denoting a special sin, is called the root of all sins, in likeness to the root of a tree, in furnishing sustenance to the whole tree. For we see that by riches man acquires the means of committing any sin whatever, and of sating his desire for any sin whatever, since money helps man to obtain all manner of temporal goods, according to Eccles. 10:19: "All things obey money": so that in this desire for riches is the root of all sins.
+
 ## Replies
+
 Reply to Objection 1: Virtue and sin do not arise from the same source. For sin arises from the desire of mutable good; and consequently the desire of that good which helps one to obtain all temporal goods, is called the root of all sins. But virtue arises from the desire for the immutable God; and consequently charity, which is the love of God, is called the root of the virtues, according to Eph. 3:17: "Rooted and founded in charity."
+
 Reply to Objection 2: The desire of money is said to be the root of sins, not as though riches were sought for their own sake, as being the last end; but because they are much sought after as useful for any temporal end. And since a universal good is more desirable than a particular good, they move the appetite more than any individual goods, which along with many others can be procured by means of money.
+
 Reply to Objection 3: Just as in natural things we do not ask what always happens, but what happens most frequently, for the reason that the nature of corruptible things can be hindered, so as not always to act in the same way; so also in moral matters, we consider what happens in the majority of cases, not what happens invariably, for the reason that the will does not act of necessity. So when we say that covetousness is the root of all evils, we do not assert that no other evil can be its root, but that other evils more frequently arise therefrom, for the reason given.

@@ -1,12 +1,23 @@
 # Whether To Love Considered As An Act Of Charity Is The Same As Goodwill?
+
 ## Objections
+
 Objection 1: It would seem that to love, considered as an act of charity, is nothing else than goodwill. For the Philosopher says (Rhet. ii, 4) that "to love is to wish a person well"; and this is goodwill. Therefore the act of charity is nothing but goodwill.
+
 Objection 2: Further, the act belongs to the same subject as the habit. Now the habit of charity is in the power of the will, as stated above ([2571]Q[24], A[1]). Therefore the act of charity is also an act of the will. But it tends to good only, and this is goodwill. Therefore the act of charity is nothing else than goodwill.
+
 Objection 3: Further, the Philosopher reckons five things pertaining to friendship (Ethic. ix, 4), the first of which is that a man should wish his friend well; the second, that he should wish him to be and to live; the third, that he should take pleasure in his company; the fourth, that he should make choice of the same things; the fifth, that he should grieve and rejoice with him. Now the first two pertain to goodwill. Therefore goodwill is the first act of charity.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. ix, 5) that "goodwill is neither friendship nor love, but the beginning of friendship." Now charity is friendship, as stated above ([2572]Q[23], A[1]). Therefore goodwill is not the same as to love considered as an act of charity.
+
 I answer that, Goodwill properly speaking is that act of the will whereby we wish well to another. Now this act of the will differs from actual love, considered not only as being in the sensitive appetite but also as being in the intellective appetite or will. For the love which is in the sensitive appetite is a passion. Now every passion seeks its object with a certain eagerness. And the passion of love is not aroused suddenly, but is born of an earnest consideration of the object loved; wherefore the Philosopher, showing the difference between goodwill and the love which is a passion, says (Ethic. ix, 5) that goodwill does not imply impetuosity or desire, that is to say, has not an eager inclination, because it is by the sole judgment of his reason that one man wishes another well. Again such like love arises from previous acquaintance, whereas goodwill sometimes arises suddenly, as happens to us if we look on at a boxing-match, and we wish one of the boxers to win. But the love, which is in the intellective appetite, also differs from goodwill, because it denotes a certain union of affections between the lover and the beloved, in as much as the lover deems the beloved as somewhat united to him, or belonging to him, and so tends towards him. On the other hand, goodwill is a simple act of the will, whereby we wish a person well, even without presupposing the aforesaid union of the affections with him. Accordingly, to love, considered as an act of charity, includes goodwill, but such dilection or love adds union of affections, wherefore the Philosopher says (Ethic. ix, 5) that "goodwill is a beginning of friendship."
+
 ## Replies
+
 Reply to Objection 1: The Philosopher, by thus defining "to love," does not describe it fully, but mentions only that part of its definition in which the act of love is chiefly manifested.
+
 Reply to Objection 2: To love is indeed an act of the will tending to the good, but it adds a certain union with the beloved, which union is not denoted by goodwill.
+
 Reply to Objection 3: These things mentioned by the Philosopher belong to friendship because they arise from a man's love for himself, as he says in the same passage, in so far as a man does all these things in respect of his friend, even as he does them to himself: and this belongs to the aforesaid union of the affections.

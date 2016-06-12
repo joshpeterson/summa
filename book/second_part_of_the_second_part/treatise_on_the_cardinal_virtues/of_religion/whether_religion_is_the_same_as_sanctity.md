@@ -1,14 +1,25 @@
 # Whether Religion Is The Same As Sanctity?
+
 ## Objections
+
 Objection 1: It would seem that religion is not the same as sanctity. Religion is a special virtue, as stated above [2997](A[4]): whereas sanctity is a general virtue, because it makes us faithful, and fulfil our just obligations to God, according to Andronicus [*De Affectibus]. Therefore sanctity is not the same as religion.
+
 Objection 2: Further, sanctity seems to denote a kind of purity. For Dionysius says (Div. Nom. xii) that "sanctity is free from all uncleanness, and is perfect and altogether unspotted purity." Now purity would seem above all to pertain to temperance which repels bodily uncleanness. Since then religion belongs to justice, it would seem that sanctity is not the same as religion.
+
 Objection 3: Further, things that are opposite members of a division are not identified with one another. But in an enumeration given above (Q[80], ad 4) of the parts of justice, sanctity is reckoned as distinct from religion. Therefore sanctity is not the same as religion.
+
 ## Answer
+
 On the contrary, It is written (Lk. 1:74,75): "That . . . we may serve Him . . . in holiness and justice." Now, "to serve God" belongs to religion, as stated above (A[1], ad 3; A[3], ad 2). Therefore religion is the same as sanctity.
+
 I answer that, The word "sanctity" seems to have two significations. In one way it denotes purity; and this signification fits in with the Greek, for {hagios} means "unsoiled." In another way it denotes firmness, wherefore in olden times the term "sancta" was applied to such things as were upheld by law and were not to be violated. Hence a thing is said to be sacred [sancitum] when it is ratified by law. Again, in Latin, this word "sanctus" may be connected with purity, if it be resolved into "sanguine tinctus, since, in olden times, those who wished to be purified were sprinkled with the victim's blood," according to Isidore (Etym. x). In either case the signification requires sanctity to be ascribed to those things that are applied to the Divine worship; so that not only men, but also the temple, vessels and such like things are said to be sanctified through being applied to the worship of God. For purity is necessary in order that the mind be applied to God, since the human mind is soiled by contact with inferior things, even as all things depreciate by admixture with baser things, for instance, silver by being mixed with lead. Now in order for the mind to be united to the Supreme Being it must be withdrawn from inferior things: and hence it is that without purity the mind cannot be applied to God. Wherefore it is written (Heb. 12:14): "Follow peace with all men, and holiness, without which no man shall see God." Again, firmness is required for the mind to be applied to God, for it is applied to Him as its last end and first beginning, and such things must needs be most immovable. Hence the Apostle said (Rom. 8:38,39): "I am sure that neither death, nor life . . . shall separate me [*Vulg.: 'shall be able to separate us'] from the love of God."
 
 Accordingly, it is by sanctity that the human mind applies itself and its acts to God: so that it differs from religion not essentially but only logically. For it takes the name of religion according as it gives God due service in matters pertaining specially to the Divine worship, such as sacrifices, oblations, and so forth; while it is called sanctity, according as man refers to God not only these but also the works of the other virtues, or according as man by means of certain good works disposes himself to the worship of God
+
 ## Replies
+
 Reply to Objection 1: Sanctity is a special virtue according to its essence; and in this respect it is in a way identified with religion. But it has a certain generality, in so far as by its command it directs the acts of all the virtues to the Divine good, even as legal justice is said to be a general virtue, in so far as it directs the acts of all the virtues to the common good.
+
 Reply to Objection 2: Temperance practices purity, yet not so as to have the character of sanctity unless it be referred to God. Hence of virginity itself Augustine says (De Virgin. viii) that "it is honored not for what it is, but for being consecrated to God."
+
 Reply to Objection 3: Sanctity differs from religion as explained above, not really but logically.

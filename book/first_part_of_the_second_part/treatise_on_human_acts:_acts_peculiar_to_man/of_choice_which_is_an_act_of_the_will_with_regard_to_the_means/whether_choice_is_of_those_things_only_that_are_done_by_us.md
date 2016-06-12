@@ -1,12 +1,23 @@
 # Whether Choice Is Of Those Things Only That Are Done By Us?
+
 ## Objections
+
 Objection 1: It would seem that choice is not only in respect of human acts. For choice regards the means. Now, not only acts, but also the organs, are means (Phys. ii, 3). Therefore choice is not only concerned with human acts.
+
 Objection 2: Further, action is distinct from contemplation. But choice has a place even in contemplation; in so far as one opinion is preferred to another. Therefore choice is not concerned with human acts alone.
+
 Objection 3: Further, men are chosen for certain posts, whether secular or ecclesiastical, by those who exercise no action in their regard. Therefore choice is not concerned with human acts alone.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. iii, 2) that "no man chooses save what he can do himself."
+
 I answer that, Just as intention regards the end, so does choice regard the means. Now the end is either an action or a thing. And when the end is a thing, some human action must intervene; either in so far as man produces the thing which is the end, as the physician produces health (wherefore the production of health is said to be the end of the physician); or in so far as man, in some fashion, uses or enjoys the thing which is the end; thus for the miser, money or the possession of money is the end. The same is to be said of the means. For the means must needs be either an action; or a thing, with some action intervening whereby man either makes the thing which is the means, or puts it to some use. And thus it is that choice is always in regard to human acts.
+
 ## Replies
+
 Reply to Objection 1: The organs are ordained to the end, inasmuch as man makes use of them for the sake of the end.
+
 Reply to Objection 2: In contemplation itself there is the act of the intellect assenting to this or that opinion. It is exterior action that is put in contradistinction to contemplation.
+
 Reply to Objection 3: When a man chooses someone for a bishopric or some high position in the state, he chooses to name that man to that post. Else, if he had no right to act in the appointment of the bishop or official, he would have no right to choose. Likewise, whenever we speak of one thing being chosen in preference to another, it is in conjunction with some action of the chooser.

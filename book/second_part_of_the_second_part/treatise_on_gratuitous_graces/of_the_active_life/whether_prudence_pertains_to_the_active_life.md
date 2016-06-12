@@ -1,14 +1,25 @@
 # Whether Prudence Pertains To The Active Life?
+
 ## Objections
+
 Objection 1: It would seem that prudence does not pertain to the active life. For just as the contemplative life belongs to the cognitive power, so the active life belongs to the appetitive power. Now prudence belongs not to the appetitive but to the cognitive power. Therefore prudence does not belong to the active life.
+
 Objection 2: Further, Gregory says (Hom. xiv in Ezech.) that the "active life being occupied with work, sees less," wherefore it is signified by Lia who was blear-eyed. But prudence requires clear eyes, so that one may judge aright of what has to be done. Therefore it seems that prudence does not pertain to the active life.
+
 Objection 3: Further, prudence stands between the moral and the intellectual virtues. Now just as the moral virtues belong to the active life, as stated above [3735](A[1]), so do the intellectual virtues pertain to the contemplative life. Therefore it would seem that prudence pertains neither to the active nor to the contemplative life, but to an intermediate kind of life, of which Augustine makes mention (De Civ. Dei xix, 2,3,19).
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. x, 8) that prudence pertains to active happiness, to which the moral virtues belong.
+
 I answer that, As stated above (A[1], ad 3; [3736]FS, Q[18], A[6]), if one thing be directed to another as its end, it is drawn, especially in moral matters, to the species of the thing to which it is directed: for instance "he who commits adultery that he may steal, is a thief rather than an adulterer," according to the Philosopher (Ethic. v, 2). Now it is evident that the knowledge of prudence is directed to the works of the moral virtues as its end, since it is "right reason applied to action" (Ethic. vi, 5); so that the ends of the moral virtues are the principles of prudence, as the Philosopher says in the same book. Accordingly, as it was stated above (A[1], ad 3) that the moral virtues in one who directs them to the quiet of contemplation belong to the contemplative life, so the knowledge of prudence, which is of itself directed to the works of the moral virtues, belongs directly to the active life, provided we take prudence in its proper sense as the Philosopher speaks of it.
 
 If, however, we take it in a more general sense, as comprising any kind of human knowledge, then prudence, as regards a certain part thereof, belongs to the contemplative life. In this sense Tully (De Offic. i, 5) says that "the man who is able most clearly and quickly to grasp the truth and to unfold his reasons, is wont to be considered most prudent and wise."
+
 ## Replies
+
 Reply to Objection 1: Moral works take their species from their end, as stated above ([3737]FS, Q[18], AA[4],6), wherefore the knowledge pertaining to the contemplative life is that which has its end in the very knowledge of truth; whereas the knowledge of prudence, through having its end in an act of the appetitive power, belongs to the active life.
+
 Reply to Objection 2: External occupation makes a man see less in intelligible things, which are separated from sensible objects with which the works of the active life are concerned. Nevertheless the external occupation of the active life enables a man to see more clearly in judging of what is to be done, which belongs to prudence, both on account of experience, and on account of the mind's attention, since "brains avail when the mind is attentive" as Sallust observes [*Bell. Catilin., LI].
+
 Reply to Objection 3: Prudence is said to be intermediate between the intellectual and the moral virtues because it resides in the same subject as the intellectual virtues, and has absolutely the same matter as the moral virtues. But this third kind of life is intermediate between the active and the contemplative life as regards the things about which it is occupied, because it is occupied sometimes with the contemplation of the truth, sometimes with eternal things.

@@ -1,12 +1,23 @@
 # Whether We Ought To Do Good To All?
+
 ## Objections
+
 Objection 1: It would seem that we are not bound to do good to all. For Augustine says (De Doctr. Christ. i, 28) that we "are unable to do good to everyone." Now virtue does not incline one to the impossible. Therefore it is not necessary to do good to all.
+
 Objection 2: Further, it is written (Ecclus. 12:5) "Give to the good, and receive not a sinner." But many men are sinners. Therefore we need not do good to all.
+
 Objection 3: Further, "Charity dealeth not perversely" (1 Cor. 13:4). Now to do good to some is to deal perversely: for instance if one were to do good to an enemy of the common weal, or if one were to do good to an excommunicated person, since, by doing so, he would be holding communion with him. Therefore, since beneficence is an act of charity, we ought not to do good to all.
+
 ## Answer
+
 On the contrary, The Apostle says (Gal. 6:10): "Whilst we have time, let us work good to all men."
+
 I answer that, As stated above (A[1], ad 1), beneficence is an effect of love in so far as love moves the superior to watch over the inferior. Now degrees among men are not unchangeable as among angels, because men are subject to many failings, so that he who is superior in one respect, is or may be inferior in another. Therefore, since the love of charity extends to all, beneficence also should extend to all, but according as time and place require: because all acts of virtue must be modified with a view to their due circumstances.
+
 ## Replies
+
 Reply to Objection 1: Absolutely speaking it is impossible to do good to every single one: yet it is true of each individual that one may be bound to do good to him in some particular case. Hence charity binds us, though not actually doing good to someone, to be prepared in mind to do good to anyone if we have time to spare. There is however a good that we can do to all, if not to each individual, at least to all in general, as when we pray for all, for unbelievers as well as for the faithful.
+
 Reply to Objection 2: In a sinner there are two things, his guilt and his nature. Accordingly we are bound to succor the sinner as to the maintenance of his nature, but not so as to abet his sin, for this would be to do evil rather than good.
+
 Reply to Objection 3: The excommunicated and the enemies of the common weal are deprived of all beneficence, in so far as this prevents them from doing evil deeds. Yet if their nature be in urgent need of succor lest it fail, we are bound to help them: for instance, if they be in danger of death through hunger or thirst, or suffer some like distress, unless this be according to the order of justice.

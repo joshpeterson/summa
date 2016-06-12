@@ -1,14 +1,25 @@
 # Whether The Mean Is To Be Observed In The Same Way In Distributive As In Commutative Justice?
+
 ## Objections
+
 Objection 1: It would seem that the mean in distributive justice is to be observed in the same way as in commutative justice. For each of these is a kind of particular justice, as stated above [2886](A[1]). Now the mean is taken in the same way in all the parts of temperance or fortitude. Therefore the mean should also be observed in the same way in both distributive and commutative justice.
+
 Objection 2: Further, the form of a moral virtue consists in observing the mean which is determined in accordance with reason. Since, then, one virtue has one form, it seems that the mean for both should be the same.
+
 Objection 3: Further, in order to observe the mean in distributive justice we have to consider the various deserts of persons. Now a person's deserts are considered also in commutative justice, for instance, in punishments; thus a man who strikes a prince is punished more than one who strikes a private individual. Therefore the mean is observed in the same way in both kinds of justice.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. v, 3,4) that the mean in distributive justice is observed according to "geometrical proportion," whereas in commutative justice it follows "arithmetical proportion."
+
 I answer that, As stated above [2887](A[1]), in distributive justice something is given to a private individual, in so far as what belongs to the whole is due to the part, and in a quantity that is proportionate to the importance of the position of that part in respect of the whole. Consequently in distributive justice a person receives all the more of the common goods, according as he holds a more prominent position in the community. This prominence in an aristocratic community is gauged according to virtue, in an oligarchy according to wealth, in a democracy according to liberty, and in various ways according to various forms of community. Hence in distributive justice the mean is observed, not according to equality between thing and thing, but according to proportion between things and persons: in such a way that even as one person surpasses another, so that which is given to one person surpasses that which is allotted to another. Hence the Philosopher says (Ethic. v, 3,4) that the mean in the latter case follows "geometrical proportion," wherein equality depends not on quantity but on proportion. For example we say that 6 is to 4 as 3 is to 2, because in either case the proportion equals 1-1/2; since the greater number is the sum of the lesser plus its half: whereas the equality of excess is not one of quantity, because 6 exceeds 4 by 2, while 3 exceeds 2 by 1.
 
 On the other hand in commutations something is paid to an individual on account of something of his that has been received, as may be seen chiefly in selling and buying, where the notion of commutation is found primarily. Hence it is necessary to equalize thing with thing, so that the one person should pay back to the other just so much as he has become richer out of that which belonged to the other. The result of this will be equality according to the "arithmetical mean" which is gauged according to equal excess in quantity. Thus 5 is the mean between 6 and 4, since it exceeds the latter and is exceeded by the former, by 1. Accordingly if, at the start, both persons have 5, and one of them receives 1 out of the other's belongings, the one that is the receiver, will have 6, and the other will be left with 4: and so there will be justice if both be brought back to the mean, 1 being taken from him that has 6, and given to him that has 4, for then both will have 5 which is the mean.
+
 ## Replies
+
 Reply to Objection 1: In the other moral virtues the rational, not the real mean, is to be followed: but justice follows the real mean; wherefore the mean, in justice, depends on the diversity of things.
+
 Reply to Objection 2: Equality is the general form of justice, wherein distributive and commutative justice agree: but in one we find equality of geometrical proportion, whereas in the other we find equality of arithmetical proportion.
+
 Reply to Objection 3: In actions and passions a person's station affects the quantity of a thing: for it is a greater injury to strike a prince than a private person. Hence in distributive justice a person's station is considered in itself, whereas in commutative justice it is considered in so far as it causes a diversity of things.

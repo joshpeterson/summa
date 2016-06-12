@@ -1,12 +1,23 @@
 # Whether Oblations Are Due To Priests Alone?
+
 ## Objections
+
 Objection 1: It would seem that oblations are not due to priests alone. For chief among oblations would seem to be those that are deputed to the sacrifices of victims. Now whatever is given to the poor is called a "victim in Scripture according to Heb. 13:16, "Do not forget to do good and to impart, for by such victims [Douay: 'sacrifices'] God's favor is obtained. Much more therefore are oblations due to the poor.
+
 Objection 2: Further, in many parishes monks have a share in the oblations. Now "the case of clerics is distinct from the case of monks," as Jerome states [*Ep. xiv, ad Heliod.]. Therefore oblations art not due to priests alone.
+
 Objection 3: Further, lay people with the consent of the Church buy oblations such as loaves and so forth, and they do so for no other reason than that they may make use thereof themselves. Therefore oblations may have reference to the laity.
+
 ## Answer
+
 On the contrary, A canon of Pope Damasus [*Damasus I] quoted X, qu. i [*Can. Hanc consuetudinem], says: "None but the priests whom day by day we see serving the Lord may eat and drink of the oblations which are offered within the precincts of the Holy Church: because in the Old Testament the Lord forbade the children of Israel to eat the sacred loaves, with the exception of Aaron and his sons" (Lev. 24:8,9).
+
 I answer that, The priest is appointed mediator and stands, so to speak, "between" the people and God, as we read of Moses (Dt. 5:5), wherefore it belongs to him to set forth the Divine teachings and sacraments before the people; and besides to offer to the Lord things appertaining to the people, their prayers, for instance, their sacrifices and oblations. Thus the Apostle says (Heb. 5:1): "Every high priest taken from among men is ordained for men in the things that appertain to God, that he may offer up gifts and sacrifices for sins." Hence the oblations which the people offer to God concern the priests, not only as regards their turning them to their own use, but also as regards the faithful dispensation thereof, by spending them partly on things appertaining to the Divine worship, partly on things touching their own livelihood (since they that serve the altar partake with the altar, according to 1 Cor. 9:13), and partly for the good of the poor, who, as far as possible, should be supported from the possessions of the Church: for our Lord had a purse for the use of the poor, as Jerome observes on Mat. 17:26, "That we may not scandalize them."
+
 ## Replies
+
 Reply to Objection 1: Whatever is given to the poor is not a sacrifice properly speaking; yet it is called a sacrifice in so far as it is given to them for God's sake. In like manner, and for the same reason, it can be called an oblation, though not properly speaking, since it is not given immediately to God. Oblations properly so called fall to the use of the poor, not by the dispensation of the offerers, but by the dispensation of the priests.
+
 Reply to Objection 2: Monks or other religious may receive oblations under three counts. First, as poor, either by the dispensation of the priests, or by ordination of the Church; secondly, through being ministers of the altar, and then they can accept oblations that are freely offered; thirdly, if the parishes belong to them, and they can accept oblations, having a right to them as rectors of the Church.
+
 Reply to Objection 3: Oblations when once they are consecrated, such as sacred vessels and vestments, cannot be granted to the use of the laity: and this is the meaning of the words of Pope Damasus. But those which are unconsecrated may be allowed to the use of layfolk by permission of the priests, whether by way of gift or by way of sale.

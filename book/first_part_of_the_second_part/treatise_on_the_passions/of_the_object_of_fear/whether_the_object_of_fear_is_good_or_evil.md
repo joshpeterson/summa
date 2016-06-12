@@ -1,10 +1,17 @@
 # Whether The Object Of Fear Is Good Or Evil?
+
 ## Objections
+
 Objection 1: It would seem that good is the object of fear. For Augustine says (QQ. 83, qu. 83) that "we fear nothing save to lose what we love and possess, or not to obtain that which we hope for." But that which we love is good. Therefore fear regards good as its proper object.
+
 Objection 2: Further, the Philosopher says (Rhet. ii, 5) that "power and to be above another is a thing to be feared." But this is a good thing. Therefore good is the object of fear.
+
 Objection 3: Further, there can be no evil in God. But we are commanded to fear God, according to Ps. 33:10: "Fear the Lord, all ye saints." Therefore even the good is an object of fear.
+
 ## Answer
+
 On the contrary, Damascene says (De Fide Orth. ii, 12) that fear is of future evil.
+
 I answer that, Fear is a movement of the appetitive power. Now it belongs to the appetitive power to pursue and to avoid, as stated in Ethic. vi, 2: and pursuit is of good, while avoidance is of evil. Consequently whatever movement of the appetitive power implies pursuit, has some good for its object: and whatever movement implies avoidance, has an evil for its object. Wherefore, since fear implies an avoidance, in the first place and of its very nature it regards evil as its proper object.
 
 It can, however, regard good also, in so far as referable to evil. This can be in two ways. In one way, inasmuch as an evil causes privation of good. Now a thing is evil from the very fact that it is a privation of some good. Wherefore, since evil is shunned because it is evil, it follows that it is shunned because it deprives one of the good that one pursues through love thereof. And in this sense Augustine says that there is no cause for fear, save loss of the good we love.

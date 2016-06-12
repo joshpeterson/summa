@@ -1,18 +1,31 @@
 # Whether Good Can Be The Cause Of Evil?
+
 ## Objections
+
 Objection 1: It would seem that good cannot be the cause of evil. For it is said (Mat. 7:18): "A good tree cannot bring forth evil fruit."
+
 Objection 2: Further, one contrary cannot be the cause of another. But evil is the contrary to good. Therefore good cannot be the cause of evil.
+
 Objection 3: Further, a deficient effect can proceed only from a deficient cause. But evil is a deficient effect. Therefore its cause, if it has one, is deficient. But everything deficient is an evil. Therefore the cause of evil can only be evil.
+
 Objection 4: Further, Dionysius says (Div. Nom. iv) that evil has no cause. Therefore good is not the cause of evil.
+
 ## Answer
+
 On the contrary, Augustine says (Contra Julian. i, 9): "There is no possible source of evil except good."
+
 I answer that, It must be said that every evil in some way has a cause. For evil is the absence of the good, which is natural and due to a thing. But that anything fail from its natural and due disposition can come only from some cause drawing it out of its proper disposition. For a heavy thing is not moved upwards except by some impelling force; nor does an agent fail in its action except from some impediment. But only good can be a cause; because nothing can be a cause except inasmuch as it is a being, and every being, as such, is good.
 
 And if we consider the special kinds of causes, we see that the agent, the form, and the end, import some kind of perfection which belongs to the notion of good. Even matter, as a potentiality to good, has the nature of good. Now that good is the cause of evil by way of the material cause was shown above ([429]Q[48], A[3]). For it was shown that good is the subject of evil. But evil has no formal cause, rather is it a privation of form; likewise, neither has it a final cause, but rather is it a privation of order to the proper end; since not only the end has the nature of good, but also the useful, which is ordered to the end. Evil, however, has a cause by way of an agent, not directly, but accidentally.
 
 In proof of this, we must know that evil is caused in the action otherwise than in the effect. In the action evil is caused by reason of the defect of some principle of action, either of the principal or the instrumental agent; thus the defect in the movement of an animal may happen by reason of the weakness of the motive power, as in the case of children, or by reason only of the ineptitude of the instrument, as in the lame. On the other hand, evil is caused in a thing, but not in the proper effect of the agent, sometimes by the power of the agent, sometimes by reason of a defect, either of the agent or of the matter. It is caused by reason of the power or perfection of the agent when there necessarily follows on the form intended by the agent the privation of another form; as, for instance, when on the form of fire there follows the privation of the form of air or of water. Therefore, as the more perfect the fire is in strength, so much the more perfectly does it impress its own form, so also the more perfectly does it corrupt the contrary. Hence that evil and corruption befall air and water comes from the perfection of the fire: but this is accidental; because fire does not aim at the privation of the form of water, but at the bringing in of its own form, though by doing this it also accidentally causes the other. But if there is a defect in the proper effect of the fire---as, for instance, that it fails to heat---this comes either by defect of the action, which implies the defect of some principle, as was said above, or by the indisposition of the matter, which does not receive the action of the fire, the agent. But this very fact that it is a deficient being is accidental to good to which of itself it belongs to act. Hence it is true that evil in no way has any but an accidental cause; and thus is good the cause of evil.
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (Contra Julian. i): "The Lord calls an evil will the evil tree, and a good will a good tree." Now, a good will does not produce a morally bad act, since it is from the good will itself that a moral act is judged to be good. Nevertheless the movement itself of an evil will is caused by the rational creature, which is good; and thus good is the cause of evil.
+
 Reply to Objection 2: Good does not cause that evil which is contrary to itself, but some other evil: thus the goodness of the fire causes evil to the water, and man, good as to his nature, causes an act morally evil. And, as explained above ([430]Q[19], A[9]), this is by accident. Moreover, it does happen sometimes that one contrary causes another by accident: for instance, the exterior surrounding cold heats (the body) through the concentration of the inward heat.
+
 Reply to Objection 3: Evil has a deficient cause in voluntary things otherwise than in natural things. For the natural agent produces the same kind of effect as it is itself, unless it is impeded by some exterior thing; and this amounts to some defect belonging to it. Hence evil never follows in the effect, unless some other evil pre-exists in the agent or in the matter, as was said above. But in voluntary things the defect of the action comes from the will actually deficient, inasmuch as it does not actually subject itself to its proper rule. This defect, however, is not a fault, but fault follows upon it from the fact that the will acts with this defect.
+
 Reply to Objection 4: Evil has no direct cause, but only an accidental cause, as was said above.

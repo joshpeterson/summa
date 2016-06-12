@@ -1,12 +1,23 @@
 # Whether Everyone That Sins Through Habit, Sins Through Certain Malice?
+
 ## Objections
+
 Objection 1: It would seem that not every one who sins through habit, sins through certain malice. Because sin committed through certain malice, seems to be most grievous. Now it happens sometimes that a man commits a slight sin through habit, as when he utters an idle word. Therefore sin committed from habit is not always committed through certain malice.
+
 Objection 2: Further, "Acts proceeding from habits are like the acts by which those habits were formed" (Ethic. ii, 1,2). But the acts which precede a vicious habit are not committed through certain malice. Therefore the sins that arise from habit are not committed through certain malice.
+
 Objection 3: Further, when a man commits a sin through certain malice, he is glad after having done it, according to Prov. 2:14: "Who are glad when they have done evil, and rejoice in most wicked things": and this, because it is pleasant to obtain what we desire, and to do those actions which are connatural to us by reason of habit. But those who sin through habit, are sorrowful after committing a sin: because "bad men," i.e. those who have a vicious habit, "are full of remorse" (Ethic. ix, 4). Therefore sins that arise from habit are not committed through certain malice.
+
 ## Answer
+
 On the contrary, A sin committed through certain malice is one that is done through choice of evil. Now we make choice of those things to which we are inclined by habit, as stated in Ethic. vi, 2 with regard to virtuous habits. Therefore a sin that arises from habit is committed through certain malice.
+
 I answer that, There is a difference between a sin committed by one who has the habit, and a sin committed by habit: for it is not necessary to use a habit, since it is subject to the will of the person who has that habit. Hence habit is defined as being "something we use when we will," as stated above ([1794]Q[50], A[1]). And thus, even as it may happen that one who has a vicious habit may break forth into a virtuous act, because a bad habit does not corrupt reason altogether, something of which remains unimpaired, the result being that a sinner does some works which are generically good; so too it may happen sometimes that one who has a vicious habit, acts, not from that habit, but through the uprising of a passion, or again through ignorance. But whenever he uses the vicious habit he must needs sin through certain malice: because to anyone that has a habit, whatever is befitting to him in respect of that habit, has the aspect of something lovable, since it thereby becomes, in a way, connatural to him, according as custom and habit are a second nature. Now the very thing which befits a man in respect of a vicious habit, is something that excludes a spiritual good: the result being that a man chooses a spiritual evil, that he may obtain possession of what befits him in respect of that habit: and this is to sin through certain malice. Wherefore it is evident that whoever sins through habit, sins through certain malice.
+
 ## Replies
+
 Reply to Objection 1: Venial sin does not exclude spiritual good, consisting in the grace of God or charity. Wherefore it is an evil, not simply, but in a relative sense: and for that reason the habit thereof is not a simple but a relative evil.
+
 Reply to Objection 2: Acts proceeding from habits are of like species as the acts from which those habits were formed: but they differ from them as perfect from imperfect. Such is the difference between sin committed through certain malice and sin committed through passion.
+
 Reply to Objection 3: He that sins through habit is always glad for what he does through habit, as long as he uses the habit. But since he is able not to use the habit, and to think of something else, by means of his reason, which is not altogether corrupted, it may happen that while not using the habit he is sorry for what he has done through the habit. And so it often happens that such a man is sorry for his sin not because sin in itself is displeasing to him, but on account of his reaping some disadvantage from the sin.

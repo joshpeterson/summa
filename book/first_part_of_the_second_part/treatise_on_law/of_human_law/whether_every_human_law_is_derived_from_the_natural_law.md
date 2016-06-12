@@ -1,18 +1,31 @@
 # Whether Every Human Law Is Derived From The Natural Law?
+
 ## Objections
+
 Objection 1: It would seem that not every human law is derived from the natural law. For the Philosopher says (Ethic. v, 7) that "the legal just is that which originally was a matter of indifference." But those things which arise from the natural law are not matters of indifference. Therefore the enactments of human laws are not derived from the natural law.
+
 Objection 2: Further, positive law is contrasted with natural law, as stated by Isidore (Etym. v, 4) and the Philosopher (Ethic. v, 7). But those things which flow as conclusions from the general principles of the natural law belong to the natural law, as stated above ([2028]Q[94], A[4]). Therefore that which is established by human law does not belong to the natural law.
+
 Objection 3: Further, the law of nature is the same for all; since the Philosopher says (Ethic. v, 7) that "the natural just is that which is equally valid everywhere." If therefore human laws were derived from the natural law, it would follow that they too are the same for all: which is clearly false.
+
 Objection 4: Further, it is possible to give a reason for things which are derived from the natural law. But "it is not possible to give the reason for all the legal enactments of the lawgivers," as the jurist says [*Pandect. Justin. lib. i, ff, tit. iii, v; De Leg. et Senat.]. Therefore not all human laws are derived from the natural law.
+
 ## Answer
+
 On the contrary, Tully says (Rhet. ii): "Things which emanated from nature and were approved by custom, were sanctioned by fear and reverence for the laws."
+
 I answer that, As Augustine says (De Lib. Arb. i, 5) "that which is not just seems to be no law at all": wherefore the force of a law depends on the extent of its justice. Now in human affairs a thing is said to be just, from being right, according to the rule of reason. But the first rule of reason is the law of nature, as is clear from what has been stated above ([2029]Q[91], A[2], ad 2). Consequently every human law has just so much of the nature of law, as it is derived from the law of nature. But if in any point it deflects from the law of nature, it is no longer a law but a perversion of law.
 
 But it must be noted that something may be derived from the natural law in two ways: first, as a conclusion from premises, secondly, by way of determination of certain generalities. The first way is like to that by which, in sciences, demonstrated conclusions are drawn from the principles: while the second mode is likened to that whereby, in the arts, general forms are particularized as to details: thus the craftsman needs to determine the general form of a house to some particular shape. Some things are therefore derived from the general principles of the natural law, by way of conclusions; e.g. that "one must not kill" may be derived as a conclusion from the principle that "one should do harm to no man": while some are derived therefrom by way of determination; e.g. the law of nature has it that the evil-doer should be punished; but that he be punished in this or that way, is a determination of the law of nature.
 
 Accordingly both modes of derivation are found in the human law. But those things which are derived in the first way, are contained in human law not as emanating therefrom exclusively, but have some force from the natural law also. But those things which are derived in the second way, have no other force than that of human law.
+
 ## Replies
+
 Reply to Objection 1: The Philosopher is speaking of those enactments which are by way of determination or specification of the precepts of the natural law.
+
 Reply to Objection 2: This argument avails for those things that are derived from the natural law, by way of conclusions.
+
 Reply to Objection 3: The general principles of the natural law cannot be applied to all men in the same way on account of the great variety of human affairs: and hence arises the diversity of positive laws among various people.
+
 Reply to Objection 4: These words of the Jurist are to be understood as referring to decisions of rulers in determining particular points of the natural law: on which determinations the judgment of expert and prudent men is based as on its principles; in so far, to wit, as they see at once what is the best thing to decide.

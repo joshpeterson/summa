@@ -1,16 +1,31 @@
 # Whether Restitution Must Always Be Made To The Person From Whom A Thing Has Been Taken?
+
 ## Objections
+
 Objection 1: It would seem that restitution need not always be made to the person from whom a thing has been taken. For it is not lawful to injure anyone. Now it would sometimes be injurious to the man himself, or to others, were one to restore to him what has been taken from him; if, for instance, one were to return a madman his sword. Therefore restitution need not always be made to the person from whom a thing has been taken.
+
 Objection 2: Further, if a man has given a thing unlawfully, he does not deserve to recover it. Now sometimes a man gives unlawfully that which another accepts unlawfully, as in the case of the giver and receiver who are guilty of simony. Therefore it is not always necessary to make restitution to the person from whom one has taken something.
+
 Objection 3: Further, no man is bound to do what is impossible. Now it is sometimes impossible to make restitution to the person from whom a thing has been taken, either because he is dead, or because he is too far away, or because he is unknown to us. Therefore restitution need not always be made to the person from whom a thing has been taken.
+
 Objection 4: Further, we owe more compensation to one from whom we have received a greater favor. Now we have received greater favors from others (our parents for instance) than from a lender or depositor. Therefore sometimes we ought to succor some other person rather than make restitution to one from whom we have taken something.
+
 Objection 5: Further, it is useless to restore a thing which reverts to the restorer by being restored. Now if a prelate has unjustly taken something from the Church and makes restitution to the Church, it reverts into his hands, since he is the guardian of the Church's property. Therefore he ought not to restore to the Church from whom he has taken: and so restitution should not always be made to the person from whom something has been taken away
+
 ## Answer
+
 On the contrary, It is written (Rom. 13:7): "Render . . . to all men their dues; tribute to whom tribute is due, custom to whom custom."
+
 I answer that, Restitution re-establishes the equality of commutative justice, which equality consists in the equalizing of thing to thing, as stated above [2892](A[2]; Q[58], A[10]). Now this equalizing of things is impossible, unless he that has less than his due receive what is lacking to him: and for this to be done, restitution must be made to the person from whom a thing has been taken.
+
 ## Replies
+
 Reply to Objection 1: When the thing to be restored appears to be grievously injurious to the person to whom it is to be restored, or to some other, it should not be restored to him there and then, because restitution is directed to the good of the person to whom it is made, since all possessions come under the head of the useful. Yet he who retains another's property must not appropriate it, but must either reserve it, that he may restore it at a fitting time, or hand it over to another to keep it more securely.
+
 Reply to Objection 2: A person may give a thing unlawfully in two ways. First through the giving itself being illicit and against the law, as is the case when a man gives a thing simoniacally. Such a man deserves to lose what he gave, wherefore restitution should not be made to him: and, since the receiver acted against the law in receiving, he must not retain the price, but must use it for some pious object. Secondly a man gives unlawfully, through giving for an unlawful purpose, albeit the giving itself is not unlawful, as when a woman receives payment for fornication: wherefore she may keep what she has received. If, however, she has extorted overmuch by fraud or deceit, she would be bound to restitution.
+
 Reply to Objection 3: If the person to whom restitution is due is unknown altogether, restitution must be made as far as possible, for instance by giving an alms for his spiritual welfare (whether he be dead or living): but not without previously making a careful inquiry about his person. If the person to whom restitution is due be dead, restitution should be made to his heir, who is looked upon as one with him. If he be very far away, what is due to him should be sent to him, especially if it be of great value and can easily be sent: else it should be deposited in a safe place to be kept for him, and the owner should be advised of the fact.
+
 Reply to Objection 4: A man is bound, out of his own property, to succor his parents, or those from whom he has received greater benefits; but he ought not to compensate a benefactor out of what belongs to others; and he would be doing this if he were to compensate one with what is due to another. Exception must be made in cases of extreme need, for then he could and should even take what belongs to another in order to succor a parent.
+
 Reply to Objection 5: There are three ways in which a prelate can rob the Church of her property. First by laying hands on Church property which is committed, not to him but to another; for instance, if a bishop appropriates the property of the chapter. In such a case it is clear that he is bound to restitution, by handing it over to those who are its lawful owners. Secondly by transferring to another person (for instance a relative or a friend) Church property committed to himself: in which case he must make restitution to the Church, and have it under his own care, so as to hand it over to his successor. Thirdly, a prelate may lay hands on Church property, merely in intention, when, to wit, he begins to have a mind to hold it as his own and not in the name of the Church: in which case he must make restitution by renouncing his intention.

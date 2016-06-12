@@ -1,14 +1,25 @@
 # Whether Vows Admit Of Dispensation?
+
 ## Objections
+
 Objection 1: It would seem that vows are not subject to dispensation. It is less to have a vow commuted than to be dispensed from keeping it. But a vow cannot be commuted, according to Lev. 27:9,10, "A beast that may be sacrificed to the Lord, if anyone shall vow, shall be holy, and cannot be changed, neither a better for a worse, nor a worse for a better." Much less, therefore, do vows admit of dispensation.
+
 Objection 2: Further, no man can grant a dispensation in matters concerning the natural law and in the Divine precepts, especially those of the First Table, since these aim directly at the love of God, which is the last end of the precepts. Now the fulfilment of a vow is a matter of the natural law, and is commanded by the Divine law, as shown above [3065](A[3]), and belongs to the precepts of the First Table since it is an act of religion. Therefore vows do not admit of dispensation.
+
 Objection 3: Further, the obligation of a vow is based on the fidelity which a man owes to God, as stated above [3066](A[3]). But no man can dispense in such a matter as this. Neither, therefore, can any one grant a dispensation from a vow.
+
 ## Answer
+
 On the contrary, That which proceeds from the common will of many has apparently greater stability than that which proceeds from the individual will of some one person. Now the law which derives its force from the common will admits of dispensation by a man. Therefore it seems that vows also admit of dispensation by a man.
+
 I answer that, The dispensation from a vow is to be taken in the same sense as a dispensation given in the observance of a law because, as stated above ([3067]FS, Q[96], A[6]; [3068]FS, Q[97], A[4]), a law is made with an eye to that which is good in the majority of instances. But since, in certain cases this is not good, there is need for someone to decide that in that particular case the law is not to be observed. This is properly speaking to dispense in the law: for a dispensation would seem to denote a commensurate distribution or application of some common thing to those that are contained under it, in the same way as a person is said to dispense food to a household.
 
 In like manner a person who takes a vow makes a law for himself as it were, and binds himself to do something which in itself and in the majority of cases is a good. But it may happen that in some particular case this is simply evil, or useless, or a hindrance to a greater good: and this is essentially contrary to that which is the matter of a vow, as is clear from what has been said above [3069](A[2]). Therefore it is necessary, in such a case, to decide that the vow is not to be observed. And if it be decided absolutely that a particular vow is not to be observed, this is called a "dispensation" from that vow; but if some other obligation be imposed in lieu of that which was to have been observed, the vow is said to be "commuted." Hence it is less to commute a vow than to dispense from a vow: both, however, are in the power of the Church.
+
 ## Replies
+
 Reply to Objection 1: An animal that could be lawfully sacrificed was deemed holy from the very moment that it was the subject of a vow, being, as it were, dedicated to the worship of God: and for this reason it could not be changed: even so neither may one now exchange for something better, or worse, that which one has vowed, if it be already consecrated, e.g. a chalice or a house. On the other hand, an animal that could not be sacrificed, through not being the lawful matter of a sacrifice, could and had to be bought back, as the law requires. Even so, vows can be commuted now, if no consecration has intervened.
+
 Reply to Objection 2: Even as man is bound by natural law and Divine precept to fulfil his vow, so, too, is he bound under the same heads to obey the law or commands of his superiors. And yet when he is dispensed from keeping a human law, this does not involve disobedience to that human law, for this would be contrary to the natural law and the Divine command; but it amounts to this---that what was law is not law in this particular case. Even so, when a superior grants a dispensation, that which was contained under a vow is by his authority no longer so contained, in so far as he decides that in this case such and such a thing is not fitting matter for a vow. Consequently when an ecclesiastical superior dispenses someone from a vow, he does not dispense him from keeping a precept of the natural or of the Divine law, but he pronounces a decision on a matter to which a man had bound himself of his own accord, and of which he was unable to consider every circumstance.
+
 Reply to Objection 3: The fidelity we owe to God does not require that we fulfil that which it would be wrong or useless to vow, or which would be an obstacle to the greater good whereunto the dispensation from that vow would conduce. Hence the dispensation from a vow is not contrary to the fidelity due to God.

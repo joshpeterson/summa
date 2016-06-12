@@ -1,10 +1,19 @@
 # Whether There Is Enlightenment In The Demons?
+
 ## Objections
+
 Objection 1: It would seem that enlightenment is in the demons. For enlightenment means the manifestation of the truth. But one demon can manifest truth to another, because the superior excel in natural knowledge. Therefore the superior demons can enlighten the inferior.
+
 Objection 2: Further, a body abounding in light can enlighten a body deficient in light, as the sun enlightens the moon. But the superior demons abound in the participation of natural light. Therefore it seems that the superior demons can enlighten the inferior.
+
 ## Answer
+
 On the contrary, Enlightenment is not without cleansing and perfecting, as stated above ([886]Q[106], A[1]). But to cleanse does not befit the demons, according to the words: "What can be made clean by the unclean?" (Ecclus. 34:4). Therefore neither can they enlighten.
+
 I answer that, There can be no enlightenment properly speaking among the demons. For, as above explained ([887]Q[107], A[2]), enlightenment properly speaking is the manifestation of the truth in reference to God, Who enlightens every intellect. Another kind of manifestation of the truth is speech, as when one angel manifests his concept to another. Now the demon's perversity does not lead one to order another to God, but rather to lead away from the Divine order; and so one demon does not enlighten another; but one can make known his mental concept to another by way of speech.
+
 ## Replies
+
 Reply to Objection 1: Not every kind of manifestation of the truth is enlightenment, but only that which is above described.
+
 Reply to Objection 2: According to what belongs to natural knowledge, there is no necessary manifestation of the truth either in the angels, or in the demons, because, as above explained ([888]Q[55], A[2]; [889]Q[58], A[2]; [890]Q[79], A[2]), they know from the first all that belongs to their natural knowledge. So the greater fulness of natural light in the superior demons does not prove that they can enlighten others.

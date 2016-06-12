@@ -1,10 +1,17 @@
 # Whether The Firmament Was Made On The Second Day?
+
 ## Objections
+
 Objection 1: It would seem that the firmament was not made on the second day. For it is said (Gn. 1:8): "God called the firmament heaven." But the heaven existed before days, as is clear from the words, "In the beginning God created heaven and earth." Therefore the firmament was not made on the second day.
+
 Objection 2: Further, the work of the six days is ordered conformably to the order of Divine wisdom. Now it would ill become the Divine wisdom to make afterwards that which is naturally first. But though the firmament naturally precedes the earth and the waters, these are mentioned before the formation of light, which was on the first day. Therefore the firmament was not made on the second day.
+
 Objection 3: Further, all that was made in the six days was formed out of matter created before days began. But the firmament cannot have been formed out of pre-existing matter, for if so it would be liable to generation and corruption. Therefore the firmament was not made on the second day.
+
 ## Answer
+
 On the contrary, It is written (Gn. 1:6): "God said: let there be a firmament," and further on (verse 8); "And the evening and morning were the second day."
+
 I answer that, In discussing questions of this kind two rules are to observed, as Augustine teaches (Gen. ad lit. i, 18). The first is, to hold the truth of Scripture without wavering. The second is that since Holy Scripture can be explained in a multiplicity of senses, one should adhere to a particular explanation, only in such measure as to be ready to abandon it, if it be proved with certainty to be false; lest Holy Scripture be exposed to the ridicule of unbelievers, and obstacles be placed to their believing.
 
 We say, therefore, that the words which speak of the firmament as made on the second day can be understood in two senses. They may be understood, first, of the starry firmament, on which point it is necessary to set forth the different opinions of philosophers. Some of these believed it to be composed of the elements; and this was the opinion of Empedocles, who, however, held further that the body of the firmament was not susceptible of dissolution, because its parts are, so to say, not in disunion, but in harmony. Others held the firmament to be of the nature of the four elements, not, indeed, compounded of them, but being as it were a simple element. Such was the opinion of Plato, who held that element to be fire. Others, again, have held that the heaven is not of the nature of the four elements, but is itself a fifth body, existing over and above these. This is the opinion of Aristotle (De Coel. i, text. 6,32).
@@ -20,5 +27,7 @@ Hence to produce the substance of the firmament belongs to the work of creation.
 If, however, we take these days to denote merely sequence in the natural order, as Augustine holds (Gen. ad lit. iv, 22,24), and not succession in time, there is then nothing to prevent our saying, whilst holding any one of the opinions given above, that the substantial formation of the firmament belongs to the second day.
 
 Another possible explanation is to understand by the firmament that was made on the second day, not that in which the stars are set, but the part of the atmosphere where the clouds are collected, and which has received the name firmament from the firmness and density of the air. "For a body is called firm," that is dense and solid, "thereby differing from a mathematical body" as is remarked by Basil (Hom. iii in Hexaem.). If, then, this explanation is adopted none of these opinions will be found repugnant to reason. Augustine, in fact (Gen. ad lit. ii, 4), recommends it thus: "I consider this view of the question worthy of all commendation, as neither contrary to faith nor difficult to be proved and believed."
+
 ## Replies
+
 Reply to Objection 1: According to Chrysostom (Hom. iii in Genes.), Moses prefaces his record by speaking of the works of God collectively, in the words, "In the beginning God created heaven and earth," and then proceeds to explain them part by part; in somewhat the same way as one might say: "This house was constructed by that builder," and then add: "First, he laid the foundations, then built the walls, and thirdly, put on the roof." In accepting this explanation we are, therefore, not bound to hold that a different heaven is spoken of in the words: "In the beginning God created heaven and earth," and when we read that the firmament was made on the second day.

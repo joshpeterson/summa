@@ -1,12 +1,23 @@
 # Whether The Daughters Of Vainglory Are Suitably Reckoned To Be Disobedience, Boastfulness, Hypocrisy, Contention, Obstinacy, Discord, And Love Of Novelties?
+
 ## Objections
+
 Objection 1: It seems that the daughters of vainglory are unsuitably reckoned to be "disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and eccentricity [*Praesumptio novitatum, literally 'presumption of novelties']." For according to Gregory (Moral. xxiii) boastfulness is numbered among the species of pride. Now pride does not arise from vainglory, rather is it the other way about, as Gregory says (Moral. xxxi). Therefore boastfulness should not be reckoned among the daughters of vainglory.
+
 Objection 2: Further, contention and discord seem to be the outcome chiefly of anger. But anger is a capital vice condivided with vainglory. Therefore it seems that they are not the daughters of vainglory.
+
 Objection 3: Further, Chrysostom says (Hom. xix in Matth.) that vainglory is always evil, but especially in philanthropy, i.e. mercy. And yet this is nothing new, for it is an established custom among men. Therefore eccentricity should not be specially reckoned as a daughter of vainglory.
+
 ## Answer
+
 On the contrary, stands the authority of Gregory (Moral. xxxi), who there assigns the above daughters to vainglory.
+
 I answer that, As stated above (Q[34], A[5]; Q[35], A[4]; [3377]FS, Q[84], AA[3],4), the vices which by their very nature are such as to be directed to the end of a certain capital vice, are called its daughters. Now the end of vainglory is the manifestation of one's own excellence, as stated above ([3378]AA[1],4): and to this end a man may tend in two ways. In one way directly, either by words, and this is boasting, or by deeds, and then if they be true and call for astonishment, it is love of novelties which men are wont to wonder at most; but if they be false, it is hypocrisy. In another way a man strives to make known his excellence by showing that he is not inferior to another, and this in four ways. First, as regards the intellect, and thus we have "obstinacy," by which a man is too much attached to his own opinion, being unwilling to believe one that is better. Secondly, as regards the will, and then we have "discord," whereby a man is unwilling to give up his own will, and agree with others. Thirdly, as regards "speech," and then we have "contention," whereby a man quarrels noisily with another. Fourthly as regards deeds, and this is "disobedience," whereby a man refuses to carry out the command of his superiors.
+
 ## Replies
+
 Reply to Objection 1: As stated above ([3379]Q[112], A[1], ad 2), boasting is reckoned a kind of pride, as regards its interior cause, which is arrogance: but outward boasting, according to Ethic. iv, is directed sometimes to gain, but more often to glory and honor, and thus it is the result of vainglory.
+
 Reply to Objection 2: Anger is not the cause of discord and contention, except in conjunction with vainglory, in that a man thinks it a glorious thing for him not to yield to the will and words of others.
+
 Reply to Objection 3: Vainglory is reproved in connection with almsdeeds on account of the lack of charity apparent in one who prefers vainglory to the good of his neighbor, seeing that he does the latter for the sake of the former. But a man is not reproved for presuming to give alms as though this were something novel.

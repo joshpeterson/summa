@@ -1,12 +1,23 @@
 # Whether A Human Action Is Meritorious Or Demeritorious Before God, According As It Is Good Or Evil?
+
 ## Objections
+
 Objection 1: It would seem that man's actions, good or evil, are not meritorious or demeritorious in the sight of God. Because, as stated above [1202](A[3]), merit and demerit imply relation to retribution for good or harm done to another. But a man's action, good or evil, does no good or harm to God; for it is written (Job 35:6,7): "If thou sin, what shalt thou hurt Him? . . . And if thou do justly, what shalt thou give Him?" Therefore a human action, good or evil, is not meritorious or demeritorious in the sight of God.
+
 Objection 2: Further, an instrument acquires no merit or demerit in the sight of him that uses it; because the entire action of the instrument belongs to the user. Now when man acts he is the instrument of the Divine power which is the principal cause of his action; hence it is written (Is. 10:15): "Shall the axe boast itself against him that cutteth with it? Or shall the saw exalt itself against him by whom it is drawn?" where man while acting is evidently compared to an instrument. Therefore man merits or demerits nothing in God's sight, by good or evil deeds.
+
 Objection 3: Further, a human action acquires merit or demerit through being ordained to someone else. But not all human actions are ordained to God. Therefore not every good or evil action acquires merit or demerit in God's sight.
+
 ## Answer
+
 On the contrary, It is written (Eccles. 12:14): "All things that are done, God will bring into judgment . . . whether it be good or evil." Now judgment implies retribution, in respect of which we speak of merit and demerit. Therefore every human action, both good and evil, acquires merit or demerit in God's sight.
+
 I answer that, A human action, as stated above [1203](A[3]), acquires merit or demerit, through being ordained to someone else, either by reason of himself, or by reason of the community: and in each way, our actions, good and evil, acquire merit or demerit, in the sight of God. On the part of God Himself, inasmuch as He is man's last end; and it is our duty to refer all our actions to the last end, as stated above (Q[19], A[10]). Consequently, whoever does an evil deed, not referable to God, does not give God the honor due to Him as our last end. On the part of the whole community of the universe, because in every community, he who governs the community, cares, first of all, for the common good; wherefore it is his business to award retribution for such things as are done well or ill in the community. Now God is the governor and ruler of the whole universe, as stated in the [1204]FP, Q[103], A[5]: and especially of rational creatures. Consequently it is evident that human actions acquire merit or demerit in reference to Him: else it would follow that human actions are no business of God's.
+
 ## Replies
+
 Reply to Objection 1: God in Himself neither gains nor losses anything by the action of man: but man, for his part, takes something from God, or offers something to Him, when he observes or does not observe the order instituted by God.
+
 Reply to Objection 2: Man is so moved, as an instrument, by God, that, at the same time, he moves himself by his free-will, as was explained above ([1205]Q[9], A[6], ad 3). Consequently, by his action, he acquires merit or demerit in God's sight.
+
 Reply to Objection 3: Man is not ordained to the body politic, according to all that he is and has; and so it does not follow that every action of his acquires merit or demerit in relation to the body politic. But all that man is, and can, and has, must be referred to God: and therefore every action of man, whether good or bad, acquires merit or demerit in the sight of God, as far as the action itself is concerned.

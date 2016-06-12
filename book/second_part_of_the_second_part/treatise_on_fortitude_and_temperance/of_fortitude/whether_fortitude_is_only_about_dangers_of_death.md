@@ -1,12 +1,23 @@
 # Whether Fortitude Is Only About Dangers Of Death?
+
 ## Objections
+
 Objection 1: It seems that fortitude is not only about dangers of death. For Augustine says (De Morib. Eccl. xv) that "fortitude is love bearing all things readily for the sake of the object beloved": and (Music. vi) he says that fortitude is "the love which dreads no hardship, not even death." Therefore fortitude is not only about danger of death, but also about other afflictions.
+
 Objection 2: Further, all the passions of the soul need to be reduced to a mean by some virtue. Now there is no other virtue reducing fears to a mean. Therefore fortitude is not only about fear of death, but also about other fears.
+
 Objection 3: Further, no virtue is about extremes. But fear of death is about an extreme, since it is the greatest of fears, as stated in Ethic. iii. Therefore the virtue of fortitude is not about fear of death.
+
 ## Answer
+
 On the contrary, Andronicus says that "fortitude is a virtue of the irascible faculty that is not easily deterred by the fear of death."
+
 I answer that, As stated above [3291](A[3]), it belongs to the virtue of fortitude to guard the will against being withdrawn from the good of reason through fear of bodily evil. Now it behooves one to hold firmly the good of reason against every evil whatsoever, since no bodily good is equivalent to the good of the reason. Hence fortitude of soul must be that which binds the will firmly to the good of reason in face of the greatest evils: because he that stands firm against great things, will in consequence stand firm against less things, but not conversely. Moreover it belongs to the notion of virtue that it should regard something extreme: and the most fearful of all bodily evils is death, since it does away all bodily goods. Wherefore Augustine says (De Morib. Eccl. xxii) that "the soul is shaken by its fellow body, with fear of toil and pain, lest the body be stricken and harassed with fear of death lest it be done away and destroyed." Therefore the virtue of fortitude is about the fear of dangers of death.
+
 ## Replies
+
 Reply to Objection 1: Fortitude behaves well in bearing all manner of adversity: yet a man is not reckoned brave simply through bearing any kind of adversity, but only through bearing well even the greatest evils; while through bearing others he is said to be brave in a restricted sense.
+
 Reply to Objection 2: Since fear is born of love, any virtue that moderates the love of certain goods must in consequence moderate the fear of contrary evils: thus liberality, which moderates the love of money, as a consequence, moderates the fear of losing it, and the same is the case with temperance and other virtues. But to love one's own life is natural: and hence the necessity of a special virtue modifying the fear of death.
+
 Reply to Objection 3: In virtues the extreme consists in exceeding right reason: wherefore to undergo the greatest dangers in accordance with reason is not contrary to virtue.

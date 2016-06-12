@@ -1,12 +1,23 @@
 # Whether Flattery Is A Mortal Sin?
+
 ## Objections
+
 Objection 1: It seems that flattery is a mortal sin. For, according to Augustine (Enchiridion xii), "a thing is evil because it is harmful." But flattery is most harmful, according to Ps. 9:24, "For the sinner is praised in the desires of his soul, and the unjust man is blessed. The sinner hath provoked the Lord." Wherefore Jerome says (Ep. ad Celant): "Nothing so easily corrupts the human mind as flattery": and a gloss on Ps. 69:4, "Let them be presently turned away blushing for shame that say to me: 'Tis well, 'Tis well," says: "The tongue of the flatterer harms more than the sword of the persecutor." Therefore flattery is a most grievous sin.
+
 Objection 2: Further, whoever does harm by words, harms himself no less than others: wherefore it is written (Ps. 36:15): "Let their sword enter into their own hearts." Now he that flatters another induces him to sin mortally: hence a gloss on Ps. 140:5, "Let not the oil of the sinner fatten my head," says: "The false praise of the flatterer softens the mind by depriving it of the rigidity of truth and renders it susceptive of vice." Much more, therefore, does the flatterer sin in himself.
+
 Objection 3: Further, it is written in the Decretals (D. XLVI, Cap. 3): "The cleric who shall be found to spend his time in flattery and treachery shall be degraded from his office." Now such a punishment as this is not inflicted save for mortal sin. Therefore flattery is a mortal sin.
+
 ## Answer
+
 On the contrary, Augustine in a sermon on Purgatory (xli, de Sanctis) reckons among slight sins, "if one desire to flatter any person of higher standing, whether of one's own choice, or out of necessity."
+
 I answer that, As stated above ([3232]Q[112], A[2]), a mortal sin is one that is contrary to charity. Now flattery is sometimes contrary to charity and sometimes not. It is contrary to charity in three ways. First, by reason of the very matter, as when one man praises another's sin: for this is contrary to the love of God, against Whose justice he speaks, and contrary to the love of his neighbor, whom he encourages to sin. Wherefore this is a mortal sin, according to Is. 5:20. "Woe to you that call evil good." Secondly, by reason of the intention, as when one man flatters another, so that by deceiving him he may injure him in body or in soul; this is also a mortal sin, and of this it is written (Prov. 27:6): "Better are the wounds of a friend than the deceitful kisses of an enemy." Thirdly, by way of occasion, as when the praise of a flatterer, even without his intending it, becomes to another an occasion of sin. In this case it is necessary to consider, whether the occasion were given or taken, and how grievous the consequent downfall, as may be understood from what has been said above concerning scandal ([3233]Q[43], AA[3],4). If, however, one man flatters another from the mere craving to please others, or again in order to avoid some evil, or to acquire something in a case of necessity, this is not contrary to charity. Consequently it is not a mortal but a venial sin.
+
 ## Replies
+
 Reply to Objection 1: The passages quoted speak of the flatterer who praises another's sin. Flattery of this kind is said to harm more than the sword of the persecutor, since it does harm to goods that are of greater consequence. namely, spiritual goods. Yet it does not harm so efficaciously, since the sword of the persecutor slays effectively, being a sufficient cause of death; whereas no one by flattering can be a sufficient cause of another's sinning, as was shown above (Q[43], A[1], ad 3; [3234]FS, Q[73], A[8], ad 3; [3235]FS, Q[80], A[1]).
+
 Reply to Objection 2: This argument applies to one that flatters with the intention of doing harm: for such a man harms himself more than others, since he harms himself, as the sufficient cause of sinning, whereas he is only the occasional cause of the harm he does to others.
+
 Reply to Objection 3: The passage quoted refers to the man who flatters another treacherously, in order to deceive him.

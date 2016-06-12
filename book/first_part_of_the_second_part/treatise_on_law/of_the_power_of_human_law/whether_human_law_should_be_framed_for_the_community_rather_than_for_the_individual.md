@@ -1,12 +1,23 @@
 # Whether Human Law Should Be Framed For The Community Rather Than For The Individual?
+
 ## Objections
+
 Objection 1: It would seem that human law should be framed not for the community, but rather for the individual. For the Philosopher says (Ethic. v, 7) that "the legal just . . . includes all particular acts of legislation . . . and all those matters which are the subject of decrees," which are also individual matters, since decrees are framed about individual actions. Therefore law is framed not only for the community, but also for the individual.
+
 Objection 2: Further, law is the director of human acts, as stated above ([2035]Q[90], AA[1],2). But human acts are about individual matters. Therefore human laws should be framed, not for the community, but rather for the individual.
+
 Objection 3: Further, law is a rule and measure of human acts, as stated above ([2036]Q[90], AA[1],2). But a measure should be most certain, as stated in Metaph. x. Since therefore in human acts no general proposition can be so certain as not to fail in some individual cases, it seems that laws should be framed not in general but for individual cases.
+
 ## Answer
+
 On the contrary, The jurist says (Pandect. Justin. lib. i, tit. iii, art. ii; De legibus, etc.) that "laws should be made to suit the majority of instances; and they are not framed according to what may possibly happen in an individual case."
+
 I answer that, Whatever is for an end should be proportionate to that end. Now the end of law is the common good; because, as Isidore says (Etym. v, 21) that "law should be framed, not for any private benefit, but for the common good of all the citizens." Hence human laws should be proportionate to the common good. Now the common good comprises many things. Wherefore law should take account of many things, as to persons, as to matters, and as to times. Because the community of the state is composed of many persons; and its good is procured by many actions; nor is it established to endure for only a short time, but to last for all time by the citizens succeeding one another, as Augustine says (De Civ. Dei ii, 21; xxii, 6).
+
 ## Replies
+
 Reply to Objection 1: The Philosopher (Ethic. v, 7) divides the legal just, i.e. positive law, into three parts. For some things are laid down simply in a general way: and these are the general laws. Of these he says that "the legal is that which originally was a matter of indifference, but which, when enacted, is so no longer": as the fixing of the ransom of a captive. Some things affect the community in one respect, and individuals in another. These are called "privileges," i.e. "private laws," as it were, because they regard private persons, although their power extends to many matters; and in regard to these, he adds, "and further, all particular acts of legislation." Other matters are legal, not through being laws, but through being applications of general laws to particular cases: such are decrees which have the force of law; and in regard to these, he adds "all matters subject to decrees."
+
 Reply to Objection 2: A principle of direction should be applicable to many; wherefore (Metaph. x, text. 4) the Philosopher says that all things belonging to one genus, are measured by one, which is the principle in that genus. For if there were as many rules or measures as there are things measured or ruled, they would cease to be of use, since their use consists in being applicable to many things. Hence law would be of no use, if it did not extend further than to one single act. Because the decrees than to one single act. Because the decrees of prudent men are made for the purpose of directing individual actions; whereas law is a general precept, as stated above ([2037]Q[92], A[2], OBJ[2]).
+
 Reply to Objection 3: "We must not seek the same degree of certainty in all things" (Ethic. i, 3). Consequently in contingent matters, such as natural and human things, it is enough for a thing to be certain, as being true in the greater number of instances, though at times and less frequently it fail.

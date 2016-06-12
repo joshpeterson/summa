@@ -1,12 +1,23 @@
 # Whether Providence Imposes Any Necessity On Things Foreseen?
+
 ## Objections
+
 Objection 1: It seems that divine providence imposes necessity upon things foreseen. For every effect that has a "per se" cause, either present or past, which it necessarily follows, happens from necessity; as the Philosopher proves (Metaph. vi, 7). But the providence of God, since it is eternal, pre-exists; and the effect flows from it of necessity, for divine providence cannot be frustrated. Therefore divine providence imposes a necessity upon things foreseen.
+
 Objection 2: Further, every provider makes his work as stable as he can, lest it should fail. But God is most powerful. Therefore He assigns the stability of necessity to things provided.
+
 Objection 3: Further, Boethius says (De Consol. iv, 6): "Fate from the immutable source of providence binds together human acts and fortunes by the indissoluble connection of causes." It seems therefore that providence imposes necessity upon things foreseen.
+
 ## Answer
+
 On the contrary, Dionysius says that (Div. Nom. iv, 23) "to corrupt nature is not the work of providence." But it is in the nature of some things to be contingent. Divine providence does not therefore impose any necessity upon things so as to destroy their contingency.
+
 I answer that, Divine providence imposes necessity upon some things; not upon all, as some formerly believed. For to providence it belongs to order things towards an end. Now after the divine goodness, which is an extrinsic end to all things, the principal good in things themselves is the perfection of the universe; which would not be, were not all grades of being found in things. Whence it pertains to divine providence to produce every grade of being. And thus it has prepared for some things necessary causes, so that they happen of necessity; for others contingent causes, that they may happen by contingency, according to the nature of their proximate causes.
+
 ## Replies
+
 Reply to Objection 1: The effect of divine providence is not only that things should happen somehow; but that they should happen either by necessity or by contingency. Therefore whatsoever divine providence ordains to happen infallibly and of necessity happens infallibly and of necessity; and that happens from contingency, which the plan of divine providence conceives to happen from contingency.
+
 Reply to Objection 2: The order of divine providence is unchangeable and certain, so far as all things foreseen happen as they have been foreseen, whether from necessity or from contingency.
+
 Reply to Objection 3: That indissolubility and unchangeableness of which Boethius speaks, pertain to the certainty of providence, which fails not to produce its effect, and that in the way foreseen; but they do not pertain to the necessity of the effects. We must remember that properly speaking 'necessary' and "contingent" are consequent upon being, as such. Hence the mode both of necessity and of contingency falls under the foresight of God, who provides universally for all being; not under the foresight of causes that provide only for some particular order of things.

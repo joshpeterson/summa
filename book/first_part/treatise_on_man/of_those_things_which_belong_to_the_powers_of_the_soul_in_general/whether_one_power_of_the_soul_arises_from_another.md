@@ -1,12 +1,23 @@
 # Whether One Power Of The Soul Arises From Another?
+
 ## Objections
+
 Objection 1: It would seem that one power of the soul does not arise from another. For if several things arise together, one of them does not arise from another. But all the powers of the soul are created at the same time with the soul. Therefore one of them does not arise from another.
+
 Objection 2: Further, the power of the soul arises from the soul as an accident from the subject. But one power of the soul cannot be the subject of another; because nothing is the accident of an accident. Therefore one power does not arise from another.
+
 Objection 3: Further, one opposite does not arise from the other opposite; but everything arises from that which is like it in species. Now the powers of the soul are oppositely divided, as various species. Therefore one of them does not proceed from another.
+
 ## Answer
+
 On the contrary, Powers are known by their actions. But the action of one power is caused by the action of another power, as the action of the imagination by the action of the senses. Therefore one power of the soul is caused by another.
+
 I answer that, In those things which proceed from one according to a natural order, as the first is the cause of all, so that which is nearer to the first is, in a way, the cause of those which are more remote. Now it has been shown above [629](A[4]) that among the powers of the soul there are several kinds of order. Therefore one power of the soul proceeds from the essence of the soul by the medium of another. But since the essence of the soul is compared to the powers both as a principle active and final, and as a receptive principle, either separately by itself, or together with the body; and since the agent and the end are more perfect, while the receptive principle, as such, is less perfect; it follows that those powers of the soul which precede the others, in the order of perfection and nature, are the principles of the others, after the manner of the end and active principle. For we see that the senses are for the sake of the intelligence, and not the other way about. The senses, moreover, are a certain imperfect participation of the intelligence; wherefore, according to their natural origin, they proceed from the intelligence as the imperfect from the perfect. But considered as receptive principles, the more perfect powers are principles with regard to the others; thus the soul, according as it has the sensitive power, is considered as the subject, and as something material with regard to the intelligence. On this account, the more imperfect powers precede the others in the order of generation, for the animal is generated before the man.
+
 ## Replies
+
 Reply to Objection 1: As the power of the soul flows from the essence, not by a transmutation, but by a certain natural resultance, and is simultaneous with the soul, so is it the case with one power as regards another.
+
 Reply to Objection 2: An accident cannot of itself be the subject of an accident; but one accident is received prior to another into substance, as quantity prior to quality. In this sense one accident is said to be the subject of another; as surface is of color, inasmuch as substance receives an accident through the means of another. The same thing may be said of the powers of the soul.
+
 Reply to Objection 3: The powers of the soul are opposed to one another, as perfect and imperfect; as also are the species of numbers and figures. But this opposition does not prevent the origin of one from another, because imperfect things naturally proceed from perfect things.

@@ -1,14 +1,25 @@
 # Whether Christ Is Entire Under Every Part Of The Species Of The Bread And Wine?
+
 ## Objections
+
 Objection 1: It seems that Christ is not entire under every part of the species of bread and wine. Because those species can be divided infinitely. If therefore Christ be entirely under every part of the said species, it would follow that He is in this sacrament an infinite number of times: which is unreasonable; because the infinite is repugnant not only to nature, but likewise to grace.
+
 Objection 2: Further, since Christ's is an organic body, it has parts determinately distant. for a determinate distance of the individual parts from each other is of the very nature of an organic body, as that of eye from eye, and eye from ear. But this could not be so, if Christ were entire under every part of the species; for every part would have to be under every other part, and so where one part would be, there another part would be. It cannot be then that the entire Christ is under every part of the host or of the wine contained in the chalice.
+
 Objection 3: Further, Christ's body always retains the true nature of a body, nor is it ever changed into a spirit. Now it is the nature of a body for it to be "quantity having position" (Predic. iv). But it belongs to the nature of this quantity that the various parts exist in various parts of place. Therefore, apparently it is impossible for the entire Christ to be under every part of the species.
+
 ## Answer
+
 On the contrary, Augustine says in a sermon (Gregory, Sacramentarium): "Each receives Christ the Lord, Who is entire under every morsel, nor is He less in each portion, but bestows Himself entire under each."
+
 I answer that, As was observed above (A[1], ad 3), because the substance of Christ's body is in this sacrament by the power of the sacrament, while dimensive quantity is there by reason of real concomitance, consequently Christ's body is in this sacrament substantively, that is, in the way in which substance is under dimensions, but not after the manner of dimensions, which means, not in the way in which the dimensive quantity of a body is under the dimensive quantity of place.
 
 Now it is evident that the whole nature of a substance is under every part of the dimensions under which it is contained; just as the entire nature of air is under every part of air, and the entire nature of bread under every part of bread; and this indifferently, whether the dimensions be actually divided (as when the air is divided or the bread cut), or whether they be actually undivided, but potentially divisible. And therefore it is manifest that the entire Christ is under every part of the species of the bread, even while the host remains entire, and not merely when it is broken, as some say, giving the example of an image which appears in a mirror, which appears as one in the unbroken mirror, whereas when the mirror is broken, there is an image in each part of the broken mirror: for the comparison is not perfect, because the multiplying of such images results in the broken mirror on account of the various reflections in the various parts of the mirror; but here there is only one consecration, whereby Christ's body is in this sacrament.
+
 ## Replies
+
 Reply to Objection 1: Number follows division, and therefore so long as quantity remains actually undivided, neither is the substance of any thing several times under its proper dimensions, nor is Christ's body several times under the dimensions of the bread; and consequently not an infinite number of times, but just as many times as it is divided into parts.
+
 Reply to Objection 2: The determinate distance of parts in an organic body is based upon its dimensive quantity; but the nature of substance precedes even dimensive quantity. And since the conversion of the substance of the bread is terminated at the substance of the body of Christ, and since according to the manner of substance the body of Christ is properly and directly in this sacrament; such distance of parts is indeed in Christ's true body, which, however, is not compared to this sacrament according to such distance, but according to the manner of its substance, as stated above (A[1], ad 3).
+
 Reply to Objection 3: This argument is based on the nature of a body, arising from dimensive quantity. But it was said above (ad 2) that Christ's body is compared with this sacrament not by reason of dimensive quantity, but by reason of its substance, as already stated.

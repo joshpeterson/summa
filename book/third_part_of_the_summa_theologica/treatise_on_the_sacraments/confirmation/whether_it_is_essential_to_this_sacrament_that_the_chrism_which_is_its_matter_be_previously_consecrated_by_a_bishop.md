@@ -1,11 +1,21 @@
 # Whether It Is Essential To This Sacrament That The Chrism Which Is Its Matter Be Previously Consecrated By A Bishop?
+
 ## Objections
+
 Objection 1: It seems that it is not essential to this sacrament, that the chrism, which is its matter, be previously consecrated by a bishop. For Baptism which bestows full remission of sins is not less efficacious than this sacrament. But, though the baptismal water receives a kind of blessing before being used for Baptism; yet this is not essential to the sacrament: since in a case of necessity it can be dispensed with. Therefore neither is it essential to this sacrament that the chrism should be previously consecrated by a bishop.
+
 Objection 2: Further, the same should not be consecrated twice. But the sacramental matter is sanctified, in the very conferring of the sacrament, by the form of words wherein the sacrament is bestowed; hence Augustine says (Tract. lxxx in Joan.): "The word is added to the element, and this becomes a sacrament." Therefore the chrism should not be consecrated before this sacrament is given.
+
 Objection 3: Further, every consecration employed in the sacraments is ordained to the bestowal of grace. But the sensible matter composed of oil and balm is not receptive of grace. Therefore it should not be consecrated.
+
 ## Answer
+
 On the contrary, Pope Innocent I says (Ep. ad Decent.): "Priests, when baptizing, may anoint the baptized with chrism, previously consecrated by a bishop: but they must not sign the brow with the same oil; this belongs to the bishop alone, when he gives the Paraclete." Now this is done in this sacrament. Therefore it is necessary for this sacrament that its matter be previously consecrated by a bishop.
+
 I answer that, The entire sanctification of the sacraments is derived from Christ, as stated above ([4485]Q[64], A[3]). But it must be observed that Christ did use certain sacraments having a corporeal matter, viz. Baptism, and also the Eucharist. And consequently, from Christ's very act in using them, the matter of these sacraments received a certain aptitude to the perfection of the sacrament. Hence Chrysostom (Chromatius, In Matth. 3:15) says that "the waters of Baptism could never wash away the sins of believers, had they not been sanctified by contact with our Lord's body." And again, our Lord Himself "taking bread . . . blessed . . . and in like manner the chalice" (Mat. 26:26,27; Lk. 22:19, 20). For this reason there is no need for the matter of these sacraments to be blessed previously, since Christ's blessing is enough. And if any blessing be used, it belongs to the solemnity of the sacrament, not to its essence. But Christ did not make use of visible anointings, so as not to slight the invisible unction whereby He was "anointed above" His "fellows" (Ps. 44:8). And hence both chrism, and the holy oil, and the oil of the sick are blessed before being put to sacramental use. This suffices for the reply to the First Objection.
+
 ## Replies
+
 Reply to Objection 2: Each consecration of the chrism has not the same object. For just as an instrument derives instrumental power in two ways, viz. when it receives the form of an instrument, and when it is moved by the principal agent; so too the sacramental matter needs a twofold sanctification, by one of which it becomes fit matter for the sacrament, while by the other it is applied to the production of the effect.
+
 Reply to Objection 3: Corporeal matter is receptive of grace, not so as to be the subject of grace, but only as the instrument of grace, as explained above ([4486]Q[62], A[3]). And this sacramental matter is consecrated, either by Christ, or by a bishop, who, in the Church, impersonates Christ.

@@ -1,12 +1,22 @@
 # Whether The Articles Of Faith Are Suitably Formulated?
+
 ## Objections
+
 Objection 1: It would seem that the articles of faith are unsuitably formulated. For those things, which can be known by demonstration, do not belong to faith as to an object of belief for all, as stated above (A[5] ). Now it can be known by demonstration that there is one God; hence the Philosopher proves this (Metaph. xii, text. 52) and many other philosophers demonstrated the same truth. Therefore that "there is one God" should not be set down as an article of faith.
+
 Objection 2: Further, just as it is necessary to faith that we should believe God to be almighty, so is it too that we should believe Him to be "all-knowing" and "provident for all," about both of which points some have erred. Therefore, among the articles of faith, mention should have been made of God's wisdom and providence, even as of His omnipotence.
+
 Objection 3: Further, to know the Father is the same things as to know the Son, according to Jn. 14:9: "He that seeth Me, seeth the Father also." Therefore there ought to be but one article about the Father and Son, and, for the same reason, about the Holy Ghost.
+
 Objection 4: Further, the Person of the Father is no less than the Person of the Son, and of the Holy Ghost. Now there are several articles about the Person of the Holy Ghost, and likewise about the Person of the Son. Therefore there should be several articles about the Person of the Father.
+
 Objection 5: Further, just as certain things are said by appropriation, of the Person of the Father and of the Person of the Holy Ghost, so too is something appropriated to the Person of the Son, in respect of His Godhead. Now, among the articles of faith, a place is given to a work appropriated to the Father, viz. the creation, and likewise, a work appropriated to the Holy Ghost, viz. that "He spoke by the prophets." Therefore the articles of faith should contain some work appropriated to the Son in respect of His Godhead.
+
 Objection 6: Further, the sacrament of the Eucharist presents a special difficulty over and above the other articles. Therefore it should have been mentioned in a special article: and consequently it seems that there is not a sufficient number of articles.
+
 ## Answer
+
+
 
 I answer that, As stated above ([2269]AA[4],6), to faith those things in themselves belong, the sight of which we shall enjoy in eternal life, and by which we are brought to eternal life. Now two things are proposed to us to be seen in eternal life: viz. the secret of the Godhead, to see which is to possess happiness; and the mystery of Christ's Incarnation, "by Whom we have access" to the glory of the sons of God, according to Rom. 5:2. Hence it is written (Jn. 17:3): "This is eternal life: that they may know Thee, the . . . true God, and Jesus Christ Whom Thou hast sent." Wherefore the first distinction in matters of faith is that some concern the majesty of the Godhead, while others pertain to the mystery of Christ's human nature, which is the "mystery of godliness" (1 Tim. 3:16).
 
@@ -15,10 +25,17 @@ Now with regard to the majesty of the Godhead, three things are proposed to our 
 In like manner, with regard to Christ's human nature, there are seven articles, the first of which refers to Christ's incarnation or conception; the second, to His virginal birth; the third, to His Passion, death and burial; the fourth, to His descent into hell; the fifth, to His resurrection; the sixth, to His ascension; the seventh, to His coming for the judgment, so that in all there are fourteen articles.
 
 Some, however, distinguish twelve articles, six pertaining to the Godhead, and six to the humanity. For they include in one article the three about the three Persons; because we have one knowledge of the three Persons: while they divide the article referring to the work of glorification into two, viz. the resurrection of the body, and the glory of the soul. Likewise they unite the conception and nativity into one article.
+
 ## Replies
+
 Reply to Objection 1: By faith we hold many truths about God, which the philosophers were unable to discover by natural reason, for instance His providence and omnipotence, and that He alone is to be worshiped, all of which are contained in the one article of the unity of God.
+
 Reply to Objection 2: The very name of the Godhead implies a kind of watching over things, as stated in the [2270]FP, Q[13], A[8]. Now in beings having an intellect, power does not work save by the will and knowledge. Hence God's omnipotence includes, in a way, universal knowledge and providence. For He would not be able to do all He wills in things here below, unless He knew them, and exercised His providence over them.
+
 Reply to Objection 3: We have but one knowledge of the Father, Son, and Holy Ghost, as to the unity of the Essence, to which the first article refers: but, as to the distinction of the Persons, which is by the relations of origin, knowledge of the Father does indeed, in a way, include knowledge of the Son, for He would not be Father, had He not a Son; the bond whereof being the Holy Ghost. From this point of view, there was a sufficient motive for those who referred one article to the three Persons. Since, however, with regard to each Person, certain points have to be observed, about which some happen to fall into error, looking at it in this way, we may distinguish three articles about the three Persons. For Arius believed in the omnipotence and eternity of the Father, but did not believe the Son to be co-equal and consubstantial with the Father; hence the need for an article about the Person of the Son in order to settle this point. In like manner it was necessary to appoint a third article about the Person of the Holy Ghost, against Macedonius. In the same way Christ's conception and birth, just as the resurrection and life everlasting, can from one point of view be united together in one article, in so far as they are ordained to one end; while, from another point of view, they can be distinct articles, in as much as each one separately presents a special difficulty.
+
 Reply to Objection 4: It belongs to the Son and Holy Ghost to be sent to sanctify the creature; and about this several things have to be believed. Hence it is that there are more articles about the Persons of the Son and Holy Ghost than about the Person of the Father, Who is never sent, as we stated in the [2271]FP, Q[43], A[4].
+
 Reply to Objection 5: The sanctification of a creature by grace, and its consummation by glory, is also effected by the gift of charity, which is appropriated to the Holy Ghost, and by the gift of wisdom, which is appropriated to the Son: so that each work belongs by appropriation, but under different aspects, both to the Son and to the Holy Ghost.
+
 Reply to Objection 6: Two things may be considered in the sacrament of the Eucharist. One is the fact that it is a sacrament, and in this respect it is like the other effects of sanctifying grace. The other is that Christ's body is miraculously contained therein and thus it is included under God's omnipotence, like all other miracles which are ascribed to God's almighty power.

@@ -1,18 +1,31 @@
 # Whether Sloth Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that sloth is not a sin. For we are neither praised nor blamed for our passions, according to the Philosopher (Ethic. ii, 5). Now sloth is a passion, since it is a kind of sorrow, according to Damascene (De Fide Orth. ii, 14), and as we stated above ([2629]FS, Q[35], A[8] ). Therefore sloth is not a sin.
+
 Objection 2: Further, no bodily failing that occurs at fixed times is a sin. But sloth is like this, for Cassian says (De Instit. Monast. x, [*De Institutione Caeobiorum]): "The monk is troubled with sloth chiefly about the sixth hour: it is like an intermittent fever, and inflicts the soul of the one it lays low with burning fires at regular and fixed intervals." Therefore sloth is not a sin.
+
 Objection 3: Further, that which proceeds from a good root is, seemingly, no sin. Now sloth proceeds from a good root, for Cassian says (De Instit. Monast. x) that "sloth arises from the fact that we sigh at being deprived of spiritual fruit, and think that other monasteries and those which are a long way off are much better than the one we dwell in": all of which seems to point to humility. Therefore sloth is not a sin.
+
 Objection 4: Further, all sin is to be avoided, according to Ecclus. 21:2: "Flee from sins as from the face of a serpent." Now Cassian says (De Instit. Monast. x): "Experience shows that the onslaught of sloth is not to be evaded by flight but to be conquered by resistance." Therefore sloth is not a sin.
+
 ## Answer
+
 On the contrary, Whatever is forbidden in Holy Writ is a sin. Now such is sloth [acedia]: for it is written (Ecclus. 6:26): "Bow down thy shoulder, and bear her," namely spiritual wisdom, "and be not grieved [acedieris] with her bands." Therefore sloth is a sin.
+
 I answer that, Sloth, according to Damascene (De Fide Orth. ii, 14) is an oppressive sorrow, which, to wit, so weighs upon man's mind, that he wants to do nothing; thus acid things are also cold. Hence sloth implies a certain weariness of work, as appears from a gloss on Ps. 106:18, "Their soul abhorred all manner of meat," and from the definition of some who say that sloth is a "sluggishness of the mind which neglects to begin good."
 
 Now this sorrow is always evil, sometimes in itself, sometimes in its effect. For sorrow is evil in itself when it is about that which is apparently evil but good in reality, even as, on the other hand, pleasure is evil if it is about that which seems to be good but is, in truth, evil. Since, then, spiritual good is a good in very truth, sorrow about spiritual good is evil in itself. And yet that sorrow also which is about a real evil, is evil in its effect, if it so oppresses man as to draw him away entirely from good deeds. Hence the Apostle (2 Cor. 2:7) did not wish those who repented to be "swallowed up with overmuch sorrow."
 
 Accordingly, since sloth, as we understand it here, denotes sorrow for spiritual good, it is evil on two counts, both in itself and in point of its effect. Consequently it is a sin, for by sin we mean an evil movement of the appetite, as appears from what has been said above (Q[10], A[2]; [2630]FS, Q[74], A[4]).
+
 ## Replies
+
 Reply to Objection 1: Passions are not sinful in themselves; but they are blameworthy in so far as they are applied to something evil, just as they deserve praise in so far as they are applied to something good. Wherefore sorrow, in itself, calls neither for praise nor for blame: whereas moderate sorrow for evil calls for praise, while sorrow for good, and again immoderate sorrow for evil, call for blame. It is in this sense that sloth is said to be a sin.
+
 Reply to Objection 2: The passions of the sensitive appetite may either be venial sins in themselves, or incline the soul to mortal sin. And since the sensitive appetite has a bodily organ, it follows that on account of some bodily transmutation a man becomes apt to commit some particular sin. Hence it may happen that certain sins may become more insistent, through certain bodily transmutations occurring at certain fixed times. Now all bodily effects, of themselves, dispose one to sorrow; and thus it is that those who fast are harassed by sloth towards mid-day, when they begin to feel the want of food, and to be parched by the sun's heat.
+
 Reply to Objection 3: It is a sign of humility if a man does not think too much of himself, through observing his own faults; but if a man contemns the good things he has received from God, this, far from being a proof of humility, shows him to be ungrateful: and from such like contempt results sloth, because we sorrow for things that we reckon evil and worthless. Accordingly we ought to think much of the goods of others, in such a way as not to disparage those we have received ourselves, because if we did they would give us sorrow.
+
 Reply to Objection 4: Sin is ever to be shunned, but the assaults of sin should be overcome, sometimes by flight, sometimes by resistance; by flight when a continued thought increases the incentive to sin, as in lust; for which reason it is written (1 Cor. 6:18): "Fly fornication"; by resistance, when perseverance in the thought diminishes the incentive to sin, which incentive arises from some trivial consideration. This is the case with sloth, because the more we think about spiritual goods, the more pleasing they become to us, and forthwith sloth dies away.

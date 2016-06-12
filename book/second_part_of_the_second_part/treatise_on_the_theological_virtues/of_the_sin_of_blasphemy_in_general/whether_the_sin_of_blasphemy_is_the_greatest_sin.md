@@ -1,14 +1,25 @@
 # Whether The Sin Of Blasphemy Is The Greatest Sin?
+
 ## Objections
+
 Objection 1: It would seem that the sin of blasphemy is not the greatest sin. For, according to Augustine (Enchiridion xii), a thing is said to be evil because it does harm. Now the sin of murder, since it destroys a man's life, does more harm than the sin of blasphemy, which can do no harm to God. Therefore the sin of murder is more grievous than that of blasphemy.
+
 Objection 2: Further, a perjurer calls upon God to witness to a falsehood, and thus seems to assert that God is false. But not every blasphemer goes so far as to say that God is false. Therefore perjury is a more grievous sin than blasphemy.
+
 Objection 3: Further, on Ps. 74:6, "Lift not up your horn on high," a gloss says: "To excuse oneself for sin is the greatest sin of all." Therefore blasphemy is not the greatest sin.
+
 ## Answer
+
 On the contrary, On Is. 18:2, "To a terrible people," etc. a gloss says: "In comparison with blasphemy, every sin is slight."
+
 I answer that, As stated above [2414](A[1]), blasphemy is opposed to the confession of faith, so that it contains the gravity of unbelief: while the sin is aggravated if the will's detestation is added thereto, and yet more, if it breaks out into words, even as love and confession add to the praise of faith.
 
 Therefore, since, as stated above ([2415]Q[10], A[3]), unbelief is the greatest of sins in respect of its genus, it follows that blasphemy also is a very great sin, through belonging to the same genus as unbelief and being an aggravated form of that sin.
+
 ## Replies
+
 Reply to Objection 1: If we compare murder and blasphemy as regards the objects of those sins, it is clear that blasphemy, which is a sin committed directly against God, is more grave than murder, which is a sin against one's neighbor. On the other hand, if we compare them in respect of the harm wrought by them, murder is the graver sin, for murder does more harm to one's neighbor, than blasphemy does to God. Since, however, the gravity of a sin depends on the intention of the evil will, rather than on the effect of the deed, as was shown above ([2416]FS, Q[73], A[8]), it follows that, as the blasphemer intends to do harm to God's honor, absolutely speaking, he sins more grievously that the murderer. Nevertheless murder takes precedence, as to punishment, among sins committed against our neighbor.
+
 Reply to Objection 2: A gloss on the words, "Let . . . blasphemy be put away from you" (Eph. 4:31) says: "Blasphemy is worse than perjury." The reason is that the perjurer does not say or think something false about God, as the blasphemer does: but he calls God to witness to a falsehood, not that he deems God a false witness, but in the hope, as it were, that God will not testify to the matter by some evident sign.
+
 Reply to Objection 3: To excuse oneself for sin is a circumstance that aggravates every sin, even blasphemy itself: and it is called the most grievous sin, for as much as it makes every sin more grievous.

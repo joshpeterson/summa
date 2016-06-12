@@ -1,12 +1,23 @@
 # Whether The Gravity Of Sins Depends On The Excellence Of The Virtues To Which They Are Opposed?
+
 ## Objections
+
 Objection 1: It would seem that the gravity of sins does not vary according to the excellence of the virtues to which they are opposed, so that, to wit, the graver the sin is opposed to the greater virtue. For, according to Prov. 15:5, "In abundant justice there is the greatest strength." Now, as Our Lord says (Mat. 5:20, seqq.) abundant justice restrains anger, which is a less grievous sin than murder, which less abundant justice restrains. Therefore the least grievous sin is opposed to the greatest virtue.
+
 Objection 2: Further, it is stated in Ethic. ii, 3 that "virtue is about the difficult and the good": whence it seems to follow that the greater virtue is about what is more difficult. But it is a less grievous sin to fail in what is more difficult, than in what is less difficult. Therefore the less grievous sin is opposed to the greater virtue.
+
 Objection 3: Further, charity is a greater virtue than faith or hope (1 Cor. 13:13). Now hatred which is opposed to charity is a less grievous sin than unbelief or despair which are opposed to faith and hope. Therefore the less grievous sin is opposed to the greater virtue.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. 8:10) that the "worst is opposed to the best." Now in morals the best is the greatest virtue; and the worst is the most grievous sin. Therefore the most grievous sin is opposed to the greatest virtue.
+
 I answer that, A sin is opposed to a virtue in two ways: first, principally and directly; that sin, to with, which is about the same object: because contraries are about the same thing. In this way, the more grievous sin must needs be opposed to the greater virtue: because, just as the degrees of gravity in a sin depend on the object, so also does the greatness of a virtue, since both sin and virtue take their species from the object, as shown above ([1732]Q[60], A[5];[1733] Q[72], A[1]). Wherefore the greatest sin must needs be directly opposed to the greatest virtue, as being furthest removed from it in the same genus. Secondly, the opposition of virtue to sin may be considered in respect of a certain extension of the virtue in checking sin. For the greater a virtue is, the further it removes man from the contrary sin, so that it withdraws man not only from that sin, but also from whatever leads to it. And thus it is evident that the greater a virtue is, the more it withdraws man also from less grievous sins: even as the more perfect health is, the more does it ward off even minor ailments. And in this way the less grievous sin is opposed to the greater virtue, on the part of the latter's effect.
+
 ## Replies
+
 Reply to Objection 1: This argument considers the opposition which consists in restraining from sin; for thus abundant justice checks even minor sins.
+
 Reply to Objection 2: The greater virtue that is about a more difficult good is opposed directly to the sin which is about a more difficult evil. For in each case there is a certain superiority, in that the will is shown to be more intent on good or evil, through not being overcome by the difficulty.
+
 Reply to Objection 3: Charity is not any kind of love, but the love of God: hence not any kind of hatred is opposed to it directly, but the hatred of God, which is the most grievous of all sins.

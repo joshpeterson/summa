@@ -1,10 +1,17 @@
 # Whether Habits Increase?
+
 ## Objections
+
 Objection 1: It would seem that habits cannot increase. For increase concerns quantity (Phys. v, text. 18). But habits are not in the genus quantity, but in that of quality. Therefore there can be no increase of habits.
+
 Objection 2: Further, habit is a perfection (Phys. vii, text. 17,18). But since perfection conveys a notion of end and term, it seems that it cannot be more or less. Therefore a habit cannot increase.
+
 Objection 3: Further, those things which can be more or less are subject to alteration: for that which from being less hot becomes more hot, is said to be altered. But in habits there is no alteration, as is proved in Phys. vii, text. 15,17. Therefore habits cannot increase.
+
 ## Answer
+
 On the contrary, Faith is a habit, and yet it increases: wherefore the disciples said to our Lord (Lk. 17:5): "Lord, increase our faith." Therefore habits increase.
+
 I answer that, Increase, like other things pertaining to quantity, is transferred from bodily quantities to intelligible spiritual things, on account of the natural connection of the intellect with corporeal things, which come under the imagination. Now in corporeal quantities, a thing is said to be great, according as it reaches the perfection of quantity due to it; wherefore a certain quantity is reputed great in man, which is not reputed great in an elephant. And so also in forms, we say a thing is great because it is perfect. And since good has the nature of perfection, therefore "in things which are great, but not in quantity, to be greater is the same as to be better," as Augustine says (De Trin. vi, 8).
 
 Now the perfection of a form may be considered in two ways: first, in respect of the form itself: secondly, in respect of the participation of the form by its subject. In so far as we consider the perfections of a form in respect of the form itself, thus the form is said to be "little" or "great": for instance great or little health or science. But in so far as we consider the perfection of a form in respect of the participation thereof by the subject, it is said to be "more" or "less": for instance more or less white or healthy. Now this distinction is not to be understood as implying that the form has a being outside its matter or subject, but that it is one thing to consider the form according to its specific nature, and another to consider it in respect of its participation by a subject.
@@ -26,7 +33,11 @@ This same explanation is given by Aristotle in the Predicaments (Categor. vi), w
 It is clear, therefore, since we speak of habits and dispositions in respect of a relation to something (Phys. vii, text. 17), that in two ways intensity and remission may be observed in habits and dispositions. First, in respect of the habit itself: thus, for instance, we speak of greater or less health; greater or less science, which extends to more or fewer things. Secondly, in respect of participation by the subject: in so far as equal science or health is participated more in one than in another, according to a diverse aptitude arising either from nature, or from custom. For habit and disposition do not give species to the subject: nor again do they essentially imply indivisibility.
 
 We shall say further on ([1472]Q[66], A[1]) how it is with the virtues.
+
 ## Replies
+
 Reply to Objection 1: As the word "great" is taken from corporeal quantities and applied to the intelligible perfections of forms; so also is the word "growth," the term of which is something great.
+
 Reply to Objection 2: Habit is indeed a perfection, but not a perfection which is the term of its subject; for instance, a term giving the subject its specific being. Nor again does the nature of a habit include the notion of term, as do the species of numbers. Wherefore there is nothing to hinder it from being susceptible of more or less.
+
 Reply to Objection 3: Alteration is primarily indeed in the qualities of the third species; but secondarily it may be in the qualities of the first species: for, supposing an alteration as to hot and cold, there follows in an animal an alteration as to health and sickness. In like manner, if an alteration take place in the passions of the sensitive appetite, or the sensitive powers of apprehension, an alteration follows as to science and virtue (Phys. viii, text. 20).

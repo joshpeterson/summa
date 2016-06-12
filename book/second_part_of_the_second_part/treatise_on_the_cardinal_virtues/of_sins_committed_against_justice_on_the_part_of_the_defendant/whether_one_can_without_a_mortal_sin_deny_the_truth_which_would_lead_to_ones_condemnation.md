@@ -1,12 +1,23 @@
 # Whether One Can, Without A Mortal Sin, Deny The Truth Which Would Lead To One's Condemnation?
+
 ## Objections
+
 Objection 1: It would seem one can, without a mortal sin, deny the truth which would lead to one's condemnation. For Chrysostom says (Hom. xxxi super Ep. ad Heb.): "I do not say that you should lay bare your guilt publicly, nor accuse yourself before others." Now if the accused were to confess the truth in court, he would lay bare his guilt and be his own accuser. Therefore he is not bound to tell the truth: and so he does not sin mortally if he tell a lie in court.
+
 Objection 2: Further, just as it is an officious lie when one tells a lie in order to rescue another man from death, so is it an officious lie when one tells a lie in order to free oneself from death, since one is more bound towards oneself than towards another. Now an officious lie is considered not a mortal but a venial sin. Therefore if the accused denies the truth in court, in order to escape death, he does not sin mortally.
+
 Objection 3: Further, every mortal sin is contrary to charity, as stated above ([2933]Q[24], A[12]). But that the accused lie by denying himself to be guilty of the crime laid to his charge is not contrary to charity, neither as regards the love we owe God, nor as to the love due to our neighbor. Therefore such a lie is not a mortal sin.
+
 ## Answer
+
 On the contrary, Whatever is opposed to the glory of God is a mortal sin, because we are bound by precept to "do all to the glory of God" (1 Cor. 10:31). Now it is to the glory of God that the accused confess that which is alleged against him, as appears from the words of Josue to Achan, "My son, give glory to the Lord God of Israel, and confess and tell me what thou hast done, hide it not" (Joshua 7:19). Therefore it is a mortal sin to lie in order to cover one's guilt.
+
 I answer that, Whoever acts against the due order of justice, sins mortally, as stated above ([2934]Q[59], A[4]). Now it belongs to the order of justice that a man should obey his superior in those matters to which the rights of his authority extend. Again, the judge, as stated above ([2935]Q[67] , A[1]), is the superior in relation to the person whom he judges. Therefore the accused is in duty bound to tell the judge the truth which the latter exacts from him according to the form of law. Hence if he refuse to tell the truth which he is under obligation to tell, or if he mendaciously deny it, he sins mortally. If, on the other hand, the judge asks of him that which he cannot ask in accordance with the order of justice, the accused is not bound to satisfy him, and he may lawfully escape by appealing or otherwise: but it is not lawful for him to lie.
+
 ## Replies
+
 Reply to Objection 1: When a man is examined by the judge according to the order of justice, he does not lay bare his own guilt, but his guilt is unmasked by another, since the obligation of answering is imposed on him by one whom he is bound to obey.
+
 Reply to Objection 2: To lie, with injury to another person, in order to rescue a man from death is not a purely officious lie, for it has an admixture of the pernicious lie: and when a man lies in court in order to exculpate himself, he does an injury to one whom he is bound to obey, since he refuses him his due, namely an avowal of the truth.
+
 Reply to Objection 3: He who lies in court by denying his guilt, acts both against the love of God to whom judgment belongs, and against the love of his neighbor, and this not only as regards the judge, to whom he refuses his due, but also as regards his accuser, who is punished if he fail to prove his accusation. Hence it is written (Ps. 140:4): "Incline not my heart to evil words, to make excuses in sins": on which words a gloss says: "Shameless men are wont by lying to deny their guilt when they have been found out." And Gregory in expounding Job 31:33, "If as a man I have hid my sin," says (Moral. xxii, 15): "It is a common vice of mankind to sin in secret, by lying to hide the sin that has been committed, and when convicted to aggravate the sin by defending oneself."

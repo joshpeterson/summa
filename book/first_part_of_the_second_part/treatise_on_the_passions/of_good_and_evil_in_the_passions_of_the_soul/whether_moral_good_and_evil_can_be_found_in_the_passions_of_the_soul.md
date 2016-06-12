@@ -1,12 +1,23 @@
 # Whether Moral Good And Evil Can Be Found In The Passions Of The Soul?
+
 ## Objections
+
 Objection 1: It would seem that no passion of the soul is morally good or evil. For moral good and evil are proper to man: since "morals are properly predicated of man," as Ambrose says (Super Luc. Prolog.). But passions are not proper to man, for he has them in common with other animals. Therefore no passion of the soul is morally good or evil.
+
 Objection 2: Further, the good or evil of man consists in "being in accord, or in disaccord with reason," as Dionysius says (Div. Nom. iv). Now the passions of the soul are not in the reason, but in the sensitive appetite, as stated above ([1219]Q[22], A[3]). Therefore they have no connection with human, i.e. moral, good or evil.
+
 Objection 3: Further, the Philosopher says (Ethic. ii, 5) that "we are neither praised nor blamed for our passions." But we are praised and blamed for moral good and evil. Therefore the passions are not morally good or evil.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei xiv, 7) while speaking of the passions of the soul: "They are evil if our love is evil; good if our love is good."
+
 I answer that, We may consider the passions of the soul in two ways: first, in themselves; secondly, as being subject to the command of the reason and will. If then the passions be considered in themselves, to wit, as movements of the irrational appetite, thus there is no moral good or evil in them, since this depends on the reason, as stated above ([1220]Q[18] , A[5]). If, however, they be considered as subject to the command of the reason and will, then moral good and evil are in them. Because the sensitive appetite is nearer than the outward members to the reason and will; and yet the movements and actions of the outward members are morally good or evil, inasmuch as they are voluntary. Much more, therefore, may the passions, in so far as they are voluntary, be called morally good or evil. And they are said to be voluntary, either from being commanded by the will, or from not being checked by the will.
+
 ## Replies
+
 Reply to Objection 1: These passions, considered in themselves, are common to man and other animals: but, as commanded by the reason, they are proper to man.
+
 Reply to Objection 2: Even the lower appetitive powers are called rational, in so far as "they partake of reason in some sort" (Ethic. i, 13).
+
 Reply to Objection 3: The Philosopher says that we are neither praised nor blamed for our passions considered absolutely; but he does not exclude their becoming worthy of praise or blame, in so far as they are subordinate to reason. Hence he continues: "For the man who fears or is angry, is not praised . . . or blamed, but the man who is angry in a certain way, i.e. according to, or against reason."

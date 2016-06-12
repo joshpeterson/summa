@@ -1,16 +1,31 @@
 # Whether Matrimony Is A Sacrament?
+
 ## Objections
+
 Objection 1: It would seem that matrimony is not a sacrament. For every sacrament of the New Law has a form that is essential to the sacrament. But the blessing given by the priest at a wedding is not essential to matrimony. Therefore it is not a sacrament.
+
 Objection 2: Further, a sacrament according to Hugh (De Sacram. i) is "a material element." But matrimony has not a material element for its matter. Therefore it is not a sacrament.
+
 Objection 3: Further, the sacraments derive their efficacy from Christ's Passion. But matrimony, since it has pleasure annexed to it, does not conform man to Christ's Passion, which was painful. Therefore it is not a sacrament.
+
 Objection 4: Further, every sacrament of the New Law causes that which it signifies. Yet matrimony does not cause the union of Christ with the Church, which union it signifies. Therefore matrimony is not a sacrament.
+
 Objection 5: Further, in the other sacraments there is something which is reality and sacrament. But this is not to be found in matrimony, since it does not imprint a character, else it would not be repeated. Therefore it is not a sacrament.
+
 ## Answer
+
 On the contrary, It is written (Eph. 5:32): "This is a great sacrament." Therefore, etc.
+
 I answer that, A sacrament denotes a sanctifying remedy against sin offered to man under sensible signs [*Cf. [4923]TP, Q[61], A[1]; [4924]TP, Q[65], A[1]]. Wherefore since this is the case in matrimony, it is reckoned among the sacraments.
+
 ## Replies
+
 Reply to Objection 1: The words whereby the marriage consent is expressed are the form of this sacrament, and not the priest's blessing, which is a sacramental.
+
 Reply to Objection 2: The sacrament of Matrimony, like that of Penance, is perfected by the act of the recipient. Wherefore just as Penance has no other matter than the sensible acts themselves, which take the place of the material element, so it is in Matrimony.
+
 Reply to Objection 3: Although Matrimony is not conformed to Christ's Passion as regards pain, it is as regards charity, whereby He suffered for the Church who was to be united to Him as His spouse.
+
 Reply to Objection 4: The union of Christ with the Church is not the reality contained in this sacrament, but is the reality signified and not contained---and no sacrament causes a reality of that kind---but it has another both contained and signified which it causes, as we shall state further on (ad 5). The Master, however (Sent. iv, D, 26), asserts that it is a non-contained reality, because he was of opinion that Matrimony has no reality contained therein.
+
 Reply to Objection 5: In this sacrament also those three things [*Cf. [4925]TP, Q[66], A[1]] are to be found, for the acts externally apparent are the sacrament only; the bond between husband and wife resulting from those acts is reality and sacrament; and the ultimate reality contained is the effect of this sacrament, while the non-contained reality is that which the Master assigns (Sent. iv, D, 26).

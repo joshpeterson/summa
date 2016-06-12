@@ -1,14 +1,25 @@
 # Whether Concupiscence Is A Specific Passion?
+
 ## Objections
+
 Objection 1: It would seem that concupiscence is not a specific passion of the concupiscible power. For passions are distinguished by their objects. But the object of the concupiscible power is something delightful to the senses; and this is also the object of concupiscence, as the Philosopher declares (Rhet. i, 11). Therefore concupiscence is not a specific passion of the concupiscible faculty.
+
 Objection 2: Further, Augustine says (QQ. 83, qu. 33) that "covetousness is the love of transitory things": so that it is not distinct from love. But all specific passions are distinct from one another. Therefore concupiscence is not a specific passion in the concupiscible faculty.
+
 Objection 3: Further, to each passion of the concupiscible faculty there is a specific contrary passion in that faculty, as stated above ([1253]Q[23], A[4]). But no specific passion of the concupiscible faculty is contrary to concupiscence. For Damascene says (De Fide Orth. ii, 12) that "good when desired gives rise to concupiscence; when present, it gives joy: in like manner, the evil we apprehend makes us fear, the evil that is present makes us sad": from which we gather that as sadness is contrary to joy, so is fear contrary to concupiscence. But fear is not in the concupiscible, but in the irascible part. Therefore concupiscence is not a specific passion of the concupiscible faculty.
+
 ## Answer
+
 On the contrary, Concupiscence is caused by love, and tends to pleasure, both of which are passions of the concupiscible faculty. Hence it is distinguished from the other concupiscible passions, as a specific passion.
+
 I answer that, As stated above [1254](A[1]; Q[23], A[1]), the good which gives pleasure to the senses is the common object of the concupiscible faculty. Hence the various concupiscible passions are distinguished according to the differences of that good. Now the diversity of this object can arise from the very nature of the object, or from a diversity in its active power. The diversity, derived from the nature of the active object, causes a material difference of passions: while the difference in regard to its active power causes a formal diversity of passions, in respect of which the passions differ specifically.
 
 Now the nature of the motive power of the end or of the good, differs according as it is really present, or absent: because, according as it is present, it causes the faculty to find rest in it; whereas, according as it is absent, it causes the faculty to be moved towards it. Wherefore the object of sensible pleasure causes love, inasmuch as, so to speak, it attunes and conforms the appetite to itself; it causes concupiscence, inasmuch as, when absent, it draws the faculty to itself; and it causes pleasure, inasmuch as, when present, it makes the faculty to find rest in itself. Accordingly, concupiscence is a passion differing "in species" from both love and pleasure. But concupiscences of this or that pleasurable object differ "in number."
+
 ## Replies
+
 Reply to Objection 1: Pleasurable good is the object of concupiscence, not absolutely, but considered as absent: just as the sensible, considered as past, is the object of memory. For these particular conditions diversify the species of passions, and even of the powers of the sensitive part, which regards particular things.
+
 Reply to Objection 2: In the passage quoted we have causal, not essential predication: for covetousness is not essentially love, but an effect of love. We may also say that Augustine is taking covetousness in a wide sense, for any movement of the appetite in respect of good to come: so that it includes both love and hope.
+
 Reply to Objection 3: The passion which is directly contrary to concupiscence has no name, and stands in relation to evil, as concupiscence in regard to good. But since, like fear, it regards the absent evil; sometimes it goes by the name of fear, just as hope is sometimes called covetousness. For a small good or evil is reckoned as though it were nothing: and consequently every movement of the appetite in future good or evil is called hope or fear, which regard good and evil as arduous.

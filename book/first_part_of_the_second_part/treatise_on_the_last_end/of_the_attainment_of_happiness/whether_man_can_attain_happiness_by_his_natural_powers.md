@@ -1,12 +1,23 @@
 # Whether Man Can Attain Happiness By His Natural Powers?
+
 ## Objections
+
 Objection 1: It would seem that man can attain Happiness by his natural powers. For nature does not fail in necessary things. But nothing is so necessary to man as that by which he attains the last end. Therefore this is not lacking to human nature. Therefore man can attain Happiness by his natural powers.
+
 Objection 2: Further, since man is more noble than irrational creatures, it seems that he must be better equipped than they. But irrational creatures can attain their end by their natural powers. Much more therefore can man attain Happiness by his natural powers.
+
 Objection 3: Further, Happiness is a "perfect operation," according to the Philosopher (Ethic. vii, 13). Now the beginning of a thing belongs to the same principle as the perfecting thereof. Since, therefore, the imperfect operation, which is as the beginning in human operations, is subject to man's natural power, whereby he is master of his own actions; it seems that he can attain to perfect operation, i.e. Happiness, by his natural powers.
+
 ## Answer
+
 On the contrary, Man is naturally the principle of his action, by his intellect and will. But final Happiness prepared for the saints, surpasses the intellect and will of man; for the Apostle says (1 Cor. 2:9) "Eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love Him." Therefore man cannot attain Happiness by his natural powers.
+
 I answer that, Imperfect happiness that can be had in this life, can be acquired by man by his natural powers, in the same way as virtue, in whose operation it consists: on this point we shall speak further on (Q[63]). But man's perfect Happiness, as stated above (Q[3], A[8]), consists in the vision of the Divine Essence. Now the vision of God's Essence surpasses the nature not only of man, but also of every creature, as was shown in the [1040]FP, Q[12], A[4]. For the natural knowledge of every creature is in keeping with the mode of his substance: thus it is said of the intelligence (De Causis; Prop. viii) that "it knows things that are above it, and things that are below it, according to the mode of its substance." But every knowledge that is according to the mode of created substance, falls short of the vision of the Divine Essence, which infinitely surpasses all created substance. Consequently neither man, nor any creature, can attain final Happiness by his natural powers.
+
 ## Replies
+
 Reply to Objection 1: Just as nature does not fail man in necessaries, although it has not provided him with weapons and clothing, as it provided other animals, because it gave him reason and hands, with which he is able to get these things for himself; so neither did it fail man in things necessary, although it gave him not the wherewithal to attain Happiness: since this it could not do. But it did give him free-will, with which he can turn to God, that He may make him happy. "For what we do by means of our friends, is done, in a sense, by ourselves" (Ethic. iii, 3).
+
 Reply to Objection 2: The nature that can attain perfect good, although it needs help from without in order to attain it, is of more noble condition than a nature which cannot attain perfect good, but attains some imperfect good, although it need no help from without in order to attain it, as the Philosopher says (De Coel. ii, 12). Thus he is better disposed to health who can attain perfect health, albeit by means of medicine, than he who can attain but imperfect health, without the help of medicine. And therefore the rational creature, which can attain the perfect good of happiness, but needs the Divine assistance for the purpose, is more perfect than the irrational creature, which is not capable of attaining this good, but attains some imperfect good by its natural powers.
+
 Reply to Objection 3: When imperfect and perfect are of the same species, they can be caused by the same power. But this does not follow of necessity, if they be of different species: for not everything, that can cause the disposition of matter, can produce the final perfection. Now the imperfect operation, which is subject to man's natural power, is not of the same species as that perfect operation which is man's happiness: since operation takes its species from its object. Consequently the argument does not prove.

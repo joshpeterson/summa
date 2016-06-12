@@ -1,14 +1,25 @@
 # Whether Divination Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that divination is not a sin. Divination is derived from something "divine": and things that are divine pertain to holiness rather than to sin. Therefore it seems that divination is not a sin.
+
 Objection 2: Further, Augustine says (De Lib. Arb. i, 1): "Who dares to say that learning is an evil?" and again: "I could nowise admit that intelligence can be an evil." But some arts are divinatory, as the Philosopher states (De Memor. i): and divination itself would seem to pertain to a certain intelligence of the truth. Therefore it seems that divination is not a sin.
+
 Objection 3: Further, there is no natural inclination to evil; because nature inclines only to its like. But men by natural inclination seek to foreknow future events; and this belongs to divination. Therefore divination is not a sin.
+
 ## Answer
+
 On the contrary, It is written (Dt. 18:10,11): "Neither let there be found among you . . . any one that consulteth pythonic spirits, or fortune tellers": and it is stated in the Decretals (26, qu. v, can. Qui divinationes): "Those who seek for divinations shall be liable to a penance of five years' duration, according to the fixed grades of penance."
+
 I answer that, Divination denotes a foretelling of the future. The future may be foreknown in two ways: first in its causes, secondly in itself. Now the causes of the future are threefold: for some produce their effects, of necessity and always; and such like future effects can be foreknown and foretold with certainty, from considering their causes, even as astrologers foretell a coming eclipse. Other causes produce their effects, not of necessity and always, but for the most part, yet they rarely fail: and from such like causes their future effects can be foreknown, not indeed with certainty, but by a kind of conjecture, even as astrologers by considering the stars can foreknow and foretell things concerning rains and droughts, and physicians, concerning health and death. Again, other causes, considered in themselves, are indifferent; and this is chiefly the case in the rational powers, which stand in relation to opposites, according to the Philosopher [*Metaph. viii, 2,5,8]. Such like effects, as also those which ensue from natural causes by chance and in the minority of instances, cannot be foreknown from a consideration of their causes, because these causes have no determinate inclination to produce these effects. Consequently such like effects cannot be foreknown unless they be considered in themselves. Now man cannot consider these effects in themselves except when they are present, as when he sees Socrates running or walking: the consideration of such things in themselves before they occur is proper to God, Who alone in His eternity sees the future as though it were present, as stated in the [3106]FP, Q[14], A[13]; [3107]FP, Q[57], A[3]; [3108]FP, Q[86], A[4]. Hence it is written (Is. 41:23): "Show the things that are to come hereafter, and we shall know that ye are gods." Therefore if anyone presume to foreknow or foretell such like future things by any means whatever, except by divine revelation, he manifestly usurps what belongs to God. It is for this reason that certain men are called divines: wherefore Isidore says (Etym. viii, 9): "They are called divines, as though they were full of God. For they pretend to be filled with the Godhead, and by a deceitful fraud they forecast the future to men."
 
 Accordingly it is not called divination, if a man foretells things that happen of necessity, or in the majority of instances, for the like can be foreknown by human reason: nor again if anyone knows other contingent future things, through divine revelation: for then he does not divine, i.e. cause something divine, but rather receives something divine. Then only is a man said to divine, when he usurps to himself, in an undue manner, the foretelling of future events: and this is manifestly a sin. Consequently divination is always a sin; and for this reason Jerome says in his commentary on Mic. 3:9, seqq. that "divination is always taken in an evil sense."
+
 ## Replies
+
 Reply to Objection 1: Divination takes its name not from a rightly ordered share of something divine, but from an undue usurpation thereof, as stated above.
+
 Reply to Objection 2: There are certain arts for the foreknowledge of future events that occur of necessity or frequently, and these do not pertain to divination. But there are no true arts or sciences for the knowledge of other future events, but only vain inventions of the devil's deceit, as Augustine says (De Civ. Dei xxi, 8).
+
 Reply to Objection 3: Man has a natural inclination to know the future by human means, but not by the undue means of divination.

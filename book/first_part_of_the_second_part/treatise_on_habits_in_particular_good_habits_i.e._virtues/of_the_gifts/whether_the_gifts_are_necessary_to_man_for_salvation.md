@@ -1,16 +1,27 @@
 # Whether The Gifts Are Necessary To Man For Salvation?
+
 ## Objections
+
 Objection 1: It would seem that the gifts are not necessary to man for salvation. Because the gifts are ordained to a perfection surpassing the ordinary perfection of virtue. Now it is not necessary for man's salvation that he should attain to a perfection surpassing the ordinary standard of virtue; because such perfection falls, not under the precept, but under a counsel. Therefore the gifts are not necessary to man for salvation.
+
 Objection 2: Further, it is enough, for man's salvation, that he behave well in matters concerning God and matters concerning man. Now man's behavior to God is sufficiently directed by the theological virtues; and his behavior towards men, by the moral virtues. Therefore gifts are not necessary to man for salvation.
+
 Objection 3: Further, Gregory says (Moral. ii, 26) that "the Holy Ghost gives wisdom against folly, understanding against dullness, counsel against rashness, fortitude against fears, knowledge against ignorance, piety against hardness of our heart, and fear against pride." But a sufficient remedy for all these things is to be found in the virtues. Therefore the gifts are not necessary to man for salvation.
+
 ## Answer
+
 On the contrary, Of all the gifts, wisdom seems to be the highest, and fear the lowest. Now each of these is necessary for salvation: since of wisdom it is written (Wis. 7:28): "God loveth none but him that dwelleth with wisdom"; and of fear (Ecclus. 1:28): "He that is without fear cannot be justified." Therefore the other gifts that are placed between these are also necessary for salvation.
+
 I answer that, As stated above [1652](A[1]), the gifts are perfections of man, whereby he is disposed so as to be amenable to the promptings of God. Wherefore in those matters where the prompting of reason is not sufficient, and there is need for the prompting of the Holy Ghost, there is, in consequence, need for a gift.
 
 Now man's reason is perfected by God in two ways: first, with its natural perfection, to wit, the natural light of reason; secondly, with a supernatural perfection, to wit, the theological virtues, as stated above ([1653]Q[62], A[1]). And, though this latter perfection is greater than the former, yet the former is possessed by man in a more perfect manner than the latter: because man has the former in his full possession, whereas he possesses the latter imperfectly, since we love and know God imperfectly. Now it is evident that anything that has a nature or a form or a virtue perfectly, can of itself work according to them: not, however, excluding the operation of God, Who works inwardly in every nature and in every will. On the other hand, that which has a nature, or form, or virtue imperfectly, cannot of itself work, unless it be moved by another. Thus the sun which possesses light perfectly, can shine by itself; whereas the moon which has the nature of light imperfectly, sheds only a borrowed light. Again, a physician, who knows the medical art perfectly, can work by himself; but his pupil, who is not yet fully instructed, cannot work by himself, but needs to receive instructions from him.
 
 Accordingly, in matters subject to human reason, and directed to man's connatural end, man can work through the judgment of his reason. If, however, even in these things man receive help in the shape of special promptings from God, this will be out of God's superabundant goodness: hence, according to the philosophers, not every one that had the acquired moral virtues, had also the heroic or divine virtues. But in matters directed to the supernatural end, to which man's reason moves him, according as it is, in a manner, and imperfectly, informed by the theological virtues, the motion of reason does not suffice, unless it receive in addition the prompting or motion of the Holy Ghost, according toRom. 8:14, 17: "Whosoever are led by the Spirit of God, they are sons of God . . . and if sons, heirs also": and Ps. 142:10: "Thy good Spirit shall lead me into the right land," because, to wit, none can receive the inheritance of that land of the Blessed, except he be moved and led thither by the Holy Ghost. Therefore, in order to accomplish this end, it is necessary for man to have the gift of the Holy Ghost.
+
 ## Replies
+
 Reply to Objection 1: The gifts surpass the ordinary perfection of the virtues, not as regards the kind of works (as the counsels surpass the commandments), but as regards the manner of working, in respect of man being moved by a higher principle.
+
 Reply to Objection 2: By the theological and moral virtues, man is not so perfected in respect of his last end, as not to stand in continual need of being moved by the yet higher promptings of the Holy Ghost, for the reason already given.
+
 Reply to Objection 3: Whether we consider human reason as perfected in its natural perfection, or as perfected by the theological virtues, it does not know all things, nor all possible things. Consequently it is unable to avoid folly and other like things mentioned in the objection. God, however, to Whose knowledge and power all things are subject, by His motion safeguards us from all folly, ignorance, dullness of mind and hardness of heart, and the rest. Consequently the gifts of the Holy Ghost, which make us amenable to His promptings, are said to be given as remedies to these defects.

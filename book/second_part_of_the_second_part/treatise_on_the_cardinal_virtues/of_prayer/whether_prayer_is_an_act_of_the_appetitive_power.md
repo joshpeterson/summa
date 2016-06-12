@@ -1,14 +1,25 @@
 # Whether Prayer Is An Act Of The Appetitive Power?
+
 ## Objections
+
 Objection 1: It would seem that prayer is an act of the appetitive power. It belongs to prayer to be heard. Now it is the desire that is heard by God, according to Ps. 9:38, "The Lord hath heard the desire of the poor." Therefore prayer is desire. But desire is an act of the appetitive power: and therefore prayer is also.
+
 Objection 2: Further, Dionysius says (Div. Nom. iii): "It is useful to begin everything with prayer, because thereby we surrender ourselves to God and unite ourselves to Him." Now union with God is effected by love which belongs to the appetitive power. Therefore prayer belongs to the appetitive power.
+
 Objection 3: Further, the Philosopher states (De Anima iii, 6) that there are two operations of the intellective part. Of these the first is "the understanding of indivisibles," by which operation we apprehend what a thing is: while the second is "synthesis" and "analysis," whereby we apprehend that a thing is or is not. To these a third may be added, namely, "reasoning," whereby we proceed from the known to the unknown. Now prayer is not reducible to any of these operations. Therefore it is an operation, not of the intellective, but of the appetitive power.
+
 ## Answer
+
 On the contrary, Isidore says (Etym. x) that "to pray is to speak." Now speech belongs to the intellect. Therefore prayer is an act, not of the appetitive, but of the intellective power.
+
 I answer that, According to Cassiodorus [*Comment. in Ps. 38:13] "prayer [oratio] is spoken reason [oris ratio]." Now the speculative and practical reason differ in this, that the speculative merely apprehends its object, whereas the practical reason not only apprehends but causes. Now one thing is the cause of another in two ways: first perfectly, when it necessitates its effect, and this happens when the effect is wholly subject to the power of the cause; secondly imperfectly, by merely disposing to the effect, for the reason that the effect is not wholly subject to the power of the cause. Accordingly in this way the reason is cause of certain things in two ways: first, by imposing necessity; and in this way it belongs to reason, to command not only the lower powers and the members of the body, but also human subjects, which indeed is done by commanding; secondly, by leading up to the effect, and, in a way, disposing to it, and in this sense the reason asks for something to be done by things not subject to it, whether they be its equals or its superiors. Now both of these, namely, to command and to ask or beseech, imply a certain ordering, seeing that man proposes something to be effected by something else, wherefore they pertain to the reason to which it belongs to set in order. For this reason the Philosopher says (Ethic. i, 13) that the "reason exhorts us to do what is best."
 
 Now in the present instance we are speaking of prayer [*This last paragraph refers to the Latin word 'oratio' [prayer] which originally signified a speech, being derived in the first instance from 'os,' 'oris' (the mouth).] as signifying a beseeching or petition, in which sense Augustine [*Rabanus, De Univ. vi, 14]: says (De Verb. Dom.) that "prayer is a petition," and Damascene states (De Fide Orth. iii, 24) that "to pray is to ask becoming things of God." Accordingly it is evident that prayer, as we speak of it now, is an act of reason.
+
 ## Replies
+
 Reply to Objection 1: The Lord is said to hear the desire of the poor, either because desire is the cause of their petition, since a petition is like the interpreter of a desire, or in order to show how speedily they are heard, since no sooner do the poor desire something than God hears them before they put up a prayer, according to the saying of Is. 65:24, "And it shall come to pass, that before they call, I will hear."
+
 Reply to Objection 2: As stated above ([3007]FP, Q[82], A[4]; [3008]FS, Q[9], A[1], ad 3), the will moves the reason to its end: wherefore nothing hinders the act of reason, under the motion of the will, from tending to an end such as charity which is union with God. Now prayer tends to God through being moved by the will of charity, as it were, and this in two ways. First, on the part of the object of our petition, because when we pray we ought principally to ask to be united to God, according to Ps. 26:4, "One thing I have asked of the Lord, this will I seek after, that I may dwell in the house of the Lord all the days of my life." Secondly, on the part of the petitioner, who ought to approach the person whom he petitions, either locally, as when he petitions a man, or mentally, as when he petitions God. Hence Dionysius says (Div. Nom. iii) that "when we call upon God in our prayers, we unveil our mind in His presence": and in the same sense Damascene says (De Fide Orth. iii, 24) that "prayer is the raising up of the mind to God."
+
 Reply to Objection 3: These three acts belong to the speculative reason, but to the practical reason it belongs in addition to cause something by way of command or of petition, as stated above.

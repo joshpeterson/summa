@@ -1,14 +1,25 @@
 # Whether Charity Is A Virtue?
+
 ## Objections
+
 Objection 1: It would seem that charity is not a virtue. For charity is a kind of friendship. Now philosophers do not reckon friendship a virtue, as may be gathered from Ethic. viii, 1; nor is it numbered among the virtues whether moral or intellectual. Neither, therefore, is charity a virtue.
+
 Objection 2: Further, "virtue is the ultimate limit of power" (De Coelo et Mundo i, 11). But charity is not something ultimate, this applies rather to joy and peace. Therefore it seems that charity is not a virtue, and that this should be said rather of joy and peace.
+
 Objection 3: Further, every virtue is an accidental habit. But charity is not an accidental habit, since it is a more excellent thing than the soul itself: whereas no accident is more excellent than its subject. Therefore charity is not a virtue.
+
 ## Answer
+
 On the contrary, Augustine says (De Moribus Eccl. xi): "Charity is a virtue which, when our affections are perfectly ordered, unites us to God, for by it we love Him."
+
 I answer that, Human acts are good according as they are regulated by their due rule and measure. Wherefore human virtue which is the principle of all man's good acts consists in following the rule of human acts, which is twofold, as stated above ([2497]Q[17], A[1]), viz. human reason and God.
 
 Consequently just as moral virtue is defined as being "in accord with right reason," as stated in Ethic. ii, 6, so too, the nature of virtue consists in attaining God, as also stated above with regard to faith, ([2498]Q[4], A[5]) and hope ([2499]Q[17], A[1]). Wherefore, it follows that charity is a virtue, for, since charity attains God, it unites us to God, as evidenced by the authority of Augustine quoted above.
+
 ## Replies
+
 Reply to Objection 1: The Philosopher (Ethic. viii) does not deny that friendship is a virtue, but affirms that it is "either a virtue or with a virtue." For we might say that it is a moral virtue about works done in respect of another person, but under a different aspect from justice. For justice is about works done in respect of another person, under the aspect of the legal due, whereas friendship considers the aspect of a friendly and moral duty, or rather that of a gratuitous favor, as the Philosopher explains (Ethic. viii, 13). Nevertheless it may be admitted that it is not a virtue distinct of itself from the other virtues. For its praiseworthiness and virtuousness are derived merely from its object, in so far, to wit, as it is based on the moral goodness of the virtues. This is evident from the fact that not every friendship is praiseworthy and virtuous, as in the case of friendship based on pleasure or utility. Wherefore friendship for the virtuous is something consequent to virtue rather than a virtue. Moreover there is no comparison with charity since it is not founded principally on the virtue of a man, but on the goodness of God.
+
 Reply to Objection 2: It belongs to the same virtue to love a man and to rejoice about him, since joy results from love, as stated above ([2500]FS, Q[25], A[2]) in the treatise on the passions: wherefore love is reckoned a virtue, rather than joy, which is an effect of love. And when virtue is described as being something ultimate, we mean that it is last, not in the order of effect, but in the order of excess, just as one hundred pounds exceed sixty.
+
 Reply to Objection 3: Every accident is inferior to substance if we consider its being, since substance has being in itself, while an accident has its being in another: but considered as to its species, an accident which results from the principles of its subject is inferior to its subject, even as an effect is inferior to its cause; whereas an accident that results from a participation of some higher nature is superior to its subject, in so far as it is a likeness of that higher nature, even as light is superior to the diaphanous body. In this way charity is superior to the soul, in as much as it is a participation of the Holy Ghost.

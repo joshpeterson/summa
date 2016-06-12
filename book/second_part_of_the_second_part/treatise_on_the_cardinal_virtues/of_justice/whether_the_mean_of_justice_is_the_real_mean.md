@@ -1,14 +1,25 @@
 # Whether The Mean Of Justice Is The Real Mean?
+
 ## Objections
+
 Objection 1: It would seem that the mean of justice is not the real mean. For the generic nature remains entire in each species. Now moral virtue is defined (Ethic. ii, 6) to be "an elective habit which observes the mean fixed, in our regard, by reason." Therefore justice observes the rational and not the real mean.
+
 Objection 2: Further, in things that are good simply, there is neither excess nor defect, and consequently neither is there a mean; as is clearly the case with the virtues, according to Ethic. ii, 6. Now justice is about things that are good simply, as stated in Ethic. v. Therefore justice does not observe the real mean.
+
 Objection 3: Further, the reason why the other virtues are said to observe the rational and not the real mean, is because in their case the mean varies according to different persons, since what is too much for one is too little for another (Ethic. ii, 6). Now this is also the case in justice: for one who strikes a prince does not receive the same punishment as one who strikes a private individual. Therefore justice also observes, not the real, but the rational mean.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. ii, 6; v, 4) that the mean of justice is to be taken according to "arithmetical" proportion, so that it is the real mean.
+
 I answer that, As stated above [2860](A[9]; [2861]FS, Q[59], A[4]), the other moral virtues are chiefly concerned with the passions, the regulation of which is gauged entirely by a comparison with the very man who is the subject of those passions, in so far as his anger and desire are vested with their various due circumstances. Hence the mean in such like virtues is measured not by the proportion of one thing to another, but merely by comparison with the virtuous man himself, so that with them the mean is only that which is fixed by reason in our regard.
 
 On the other hand, the matter of justice is external operation, in so far as an operation or the thing used in that operation is duly proportionate to another person, wherefore the mean of justice consists in a certain proportion of equality between the external thing and the external person. Now equality is the real mean between greater and less, as stated in Metaph. x [*Didot ed., ix, 5; Cf. Ethic. v, 4]: wherefore justice observes the real mean.
+
 ## Replies
+
 Reply to Objection 1: This real mean is also the rational mean, wherefore justice satisfies the conditions of a moral virtue.
+
 Reply to Objection 2: We may speak of a thing being good simply in two ways. First a thing may be good in every way: thus the virtues are good; and there is neither mean nor extremes in things that are good simply in this sense. Secondly a thing is said to be good simply through being good absolutely i.e. in its nature, although it may become evil through being abused. Such are riches and honors; and in the like it is possible to find excess, deficiency and mean, as regards men who can use them well or ill: and it is in this sense that justice is about things that are good simply.
+
 Reply to Objection 3: The injury inflicted bears a different proportion to a prince from that which it bears to a private person: wherefore each injury requires to be equalized by vengeance in a different way: and this implies a real and not merely a rational diversity.

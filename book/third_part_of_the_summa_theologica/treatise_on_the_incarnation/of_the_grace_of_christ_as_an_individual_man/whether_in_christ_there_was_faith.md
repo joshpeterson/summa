@@ -1,12 +1,23 @@
 # Whether In Christ There Was Faith?
+
 ## Objections
+
 Objection 1: It would seem that there was faith in Christ. For faith is a nobler virtue than the moral virtues, e.g. temperance and liberality. Now these were in Christ, as stated above [3930](A[2]). Much more, therefore, was there faith in Him.
+
 Objection 2: Further, Christ did not teach virtues which He had not Himself, according to Acts 1:1: "Jesus began to do and to teach." But of Christ it is said (Heb. 12:2) that He is "the author and finisher of our faith." Therefore there was faith in Him before all others.
+
 Objection 3: Further, everything imperfect is excluded from the blessed. But in the blessed there is faith; for on Rom. 1:17, "the justice of God is revealed therein from faith to faith," a gloss says: "From the faith of words and hope to the faith of things and sight." Therefore it would seem that in Christ also there was faith, since it implies nothing imperfect.
+
 ## Answer
+
 On the contrary, It is written (Heb. 11:1): "Faith is the evidence of things that appear not." But there was nothing that did not appear to Christ, according to what Peter said to Him (Jn. 21:17): "Thou knowest all things." Therefore there was no faith in Christ.
+
 I answer that, As was said above ([3931]SS, Q[1], A[4]), the object of faith is a Divine thing not seen. Now the habit of virtue, as every other habit, takes its species from the object. Hence, if we deny that the Divine thing was not seen, we exclude the very essence of faith. Now from the first moment of His conception Christ saw God's Essence fully, as will be made clear (Q[34], A[1]). Hence there could be no faith in Him.
+
 ## Replies
+
 Reply to Objection 1: Faith is a nobler virtue than the moral virtues, seeing that it has to do with nobler matter; nevertheless, it implies a certain defect with regard to that matter; and this defect was not in Christ. And hence there could be no faith in Him, although the moral virtues were in Him, since in their nature they imply no defect with regard to their matter.
+
 Reply to Objection 2: The merit of faith consists in this---that man through obedience assents to what things he does not see, according to Rom. 1:5: "For obedience to the faith in all nations for His name." Now Christ had most perfect obedience to God, according to Phil. 2:8: "Becoming obedient unto death." And hence He taught nothing pertaining to merit which He did not fulfil more perfectly Himself.
+
 Reply to Objection 3: As a gloss says in the same place, faith is that "whereby such things as are not seen are believed." But faith in things seen is improperly so called, and only after a certain similitude with regard to the certainty and firmness of the assent.

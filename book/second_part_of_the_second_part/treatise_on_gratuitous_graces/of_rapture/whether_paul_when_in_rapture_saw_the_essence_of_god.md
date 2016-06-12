@@ -1,14 +1,27 @@
 # Whether Paul, When In Rapture, Saw The Essence Of God?
+
 ## Objections
+
 Objection 1: It would seem that Paul, when in rapture, did not see the essence of God. For just as we read of Paul that he was rapt to the third heaven, so we read of Peter (Acts 10:10) that "there came upon him an ecstasy of mind." Now Peter, in his ecstasy, saw not God's essence but an imaginary vision. Therefore it would seem that neither did Paul see the essence of God.
+
 Objection 2: Further, the vision of God is beatific. But Paul, in his rapture, was not beatified; else he would never have returned to the unhappiness of this life, but his body would have been glorified by the overflow from his soul, as will happen to the saints after the resurrection, and this clearly was not the case. Therefore Paul when in rapture saw not the essence of God.
+
 Objection 3: Further, according to 1 Cor. 13:10-12, faith and hope are incompatible with the vision of the Divine essence. But Paul when in this state had faith and hope. Therefore he saw not the essence of God.
+
 Objection 4: Further, as Augustine states (Gen. ad lit. xii, 6,7), "pictures of bodies are seen in the imaginary vision." Now Paul is stated (2 Cor. 12:2, 4) to have seen certain pictures in his rapture, for instance of the "third heaven" and of "paradise." Therefore he would seem to have been rapt to an imaginary vision rather than to the vision of the Divine essence.
+
 ## Answer
+
 On the contrary, Augustine (Ep. CXLVII, 13; ad Paulin., de videndo Deum) concludes that "possibly God's very substance was seen by some while yet in this life: for instance by Moses, and by Paul who in rapture heard unspeakable words, which it is not granted unto man to utter."
+
 I answer that, Some have said that Paul, when in rapture, saw "not the very essence of God, but a certain reflection of His clarity." But Augustine clearly comes to an opposite decision, not only in his book (De videndo Deum), but also in Gen. ad lit. xii, 28 (quoted in a gloss on 2 Cor. 12:2). Indeed the words themselves of the Apostle indicate this. For he says that "he heard secret words, which it is not granted unto man to utter": and such would seem to be words pertaining to the vision of the blessed, which transcends the state of the wayfarer, according to Is. 64:4, "Eye hath not seen, O God, besides Thee, what things Thou hast prepared for them that love [Vulg.: 'wait for'] Thee" [*1 Cor. 2:9]. Therefore it is more becoming to hold that he saw God in His essence.
+
 ## Replies
+
 Reply to Objection 1: Man's mind is rapt by God to the contemplation of divine truth in three ways. First, so that he contemplates it through certain imaginary pictures, and such was the ecstasy that came upon Peter. Secondly, so that he contemplates the divine truth through its intelligible effects; such was the ecstasy of David, who said (Ps. 115:11): "I said in my excess: Every man is a liar." Thirdly, so that he contemplates it in its essence. Such was the rapture of Paul, as also of Moses [*Cf. Q[174], A[4]]; and not without reason, since as Moses was the first Teacher of the Jews, so was Paul the first "Teacher of the gentiles" [*Cf. [3695]FP, Q[68], A[4]].
+
 Reply to Objection 2: The Divine essence cannot be seen by a created intellect save through the light of glory, of which it is written (Ps. 35:10): "In Thy light we shall see light." But this light can be shared in two ways. First by way of an abiding form, and thus it beatifies the saints in heaven. Secondly, by way of a transitory passion, as stated above ([3696]Q[171] , A[2]) of the light of prophecy; and in this way that light was in Paul when he was in rapture. Hence this vision did not beatify him simply, so as to overflow into his body, but only in a restricted sense. Consequently this rapture pertains somewhat to prophecy.
+
 Reply to Objection 3: Since, in his rapture, Paul was beatified not as to the habit, but only as to the act of the blessed, it follows that he had not the act of faith at the same time, although he had the habit.
+
 Reply to Objection 4: In one way by the third heaven we may understand something corporeal, and thus the third heaven denotes the empyrean [*1 Tim. 2:7; Cf. [3697]FP, Q[12], A[11], ad 2], which is described as the "third," in relation to the aerial and starry heavens, or better still, in relation to the aqueous and crystalline heavens. Moreover Paul is stated to be rapt to the "third heaven," not as though his rapture consisted in the vision of something corporeal, but because this place is appointed for the contemplation of the blessed. Hence the gloss on 2 Cor. 12 says that the "third heaven is a spiritual heaven, where the angels and the holy souls enjoy the contemplation of God: and when Paul says that he was rapt to this heaven he means that God showed him the life wherein He is to be seen forevermore."

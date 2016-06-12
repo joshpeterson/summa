@@ -1,18 +1,33 @@
 # Whether The Burial Service Profits The Dead?
+
 ## Objections
+
 Objection 1: It would seem that the burial service profits the dead. For Damascene (Serm.: De his qui in fide dormierunt) quotes Athanasius as saying: "Even though he who has departed in godliness be taken up to heaven, do not hesitate to call upon God and to burn oil and wax at his tomb; for such things are pleasing to God and receive a great reward from Him." Now the like pertain to the burial service. Therefore the burial service profits the dead.
+
 Objection 2: Further, according to Augustine (De Cura pro mort. iii), "In olden times the funerals of just men were cared for with dutiful piety, their obsequies celebrated, their graves provided, and themselves while living charged their children touching the burial or even the translation of their bodies." But they would not have done this unless the tomb and things of this kind conferred something on the dead. Therefore the like profit the dead somewhat.
+
 Objection 3: Further, no one does a work of mercy on some one's behalf unless it profit him. Now burying the dead is reckoned among the works of mercy, therefore Augustine says (De Cura pro Mort. iii): "Tobias, as attested by the angel, is declared to have found favor with God by burying the dead." Therefore such like burial observances profit the dead.
+
 Objection 4: Further, it is unbecoming to assert that the devotion of the faithful is fruitless. Now some, out of devotion, arrange for their burial in some religious locality. Therefore the burial service profits the dead.
+
 Objection 5: Further, God is more inclined to pity than to condemn. Now burial in a sacred place is hurtful to some if they be unworthy: wherefore Gregory says (Dial. iv): "If those who are burdened with grievous sins are buried in the church this will lead to their more severe condemnation rather than to their release." Much more, therefore, should we say that the burial service profits the good.
+
 ## Answer
+
 On the contrary, Augustine says (De Cura pro Mort. iii): "Whatever service is done the body is no aid to salvation, but an office of humanity."
+
 I answer that, We have recourse to burial for the sake of both the living and the dead. For the sake of the living, lest their eyes be revolted by the disfigurement of the corpse, and their bodies be infected by the stench, and this as regards the body. But it profits the living also spiritually inasmuch as our belief in the resurrection is confirmed thereby. It profits the dead in so far as one bears the dead in mind and prays for them through looking on their burial place, wherefore a "monument" takes its name from remembrance, for a monument is something that recalls the mind [monens mentem], as Augustine observes (De Civ. Dei i; De Cura pro Mort. iv). It was, however, a pagan error that burial was profitable to the dead by procuring rest for his soul: for they believed that the soul could not be at rest until the body was buried, which is altogether ridiculous and absurd.
 
 That, moreover, burial in a sacred place profits the dead, does not result from the action done, but rather from the action itself of the doer: when, to wit, the dead person himself, or another, arranges for his body to be buried in a sacred place, and commends him to the patronage of some saint, by whose prayers we must believe that he is assisted, as well as to the suffrages of those who serve the holy place, and pray more frequently and more specially for those who are buried in their midst. But such things as are done for the display of the obsequies are profitable to the living, as being a consolation to them; and yet they can also profit the dead, not directly but indirectly, in so far as men are aroused to pity thereby and consequently to pray, or in so far as the outlay on the burial brings either assistance to the poor or adornment to the church: for it is in this sense that the burial of the dead is reckoned among the works of mercy.
+
 ## Replies
+
 Reply to Objection 1: By bringing oil and candles to the tombs of the dead we profit them indirectly, either as offering them to the Church and as giving them to the poor, or as doing this in reverence of God. Hence, after the words quoted we read: "For oil and candles are a holocaust."
+
 Reply to Objection 2: The fathers of old arranged for the burial of their bodies, so as to show that "the bodies of the dead" are the object of Divine providence, not that there is any feeling in a dead body, but in order to confirm the belief in the resurrection, as Augustine says (De Civ. Dei i, 13). Hence, also, they wished to be buried in the land of promise, where they believed Christ's birth and death would take place, Whose resurrection is the cause of our rising again.
+
 Reply to Objection 3: Since flesh is a part of man's nature, man has a natural affection for his flesh, according to Eph. 5:29, "No man ever hated his own flesh." Hence in accordance with this natural affection a man has during life a certain solicitude for what will become of his body after death: and he would grieve if he had a presentiment that something untoward would happen to his body. Consequently those who love a man, through being conformed to the one they love in his affection for himself, treat his body with loving care. For as Augustine says (De Civ. Dei i, 13): "If a father's garment and ring, and whatever such like is the more dear to those whom they leave behind the greater their affection is towards their parents, in no wise are the bodies themselves to be spurned which truly we wear in more familiar and close conjunction than anything else we put on."
+
 Reply to Objection 4: As Augustine says (De Cura pro Mort. iv), the devotion of the faithful is not fruitless when they arrange for their friends to be buried in holy places, since by so doing they commend their dead to the suffrages of the saints, as stated above.
+
 Reply to Objection 5: The wicked man dead takes no harm by being buried in a holy place, except in so far as he rendered such a burial place unfitting for him by reason of human glory.

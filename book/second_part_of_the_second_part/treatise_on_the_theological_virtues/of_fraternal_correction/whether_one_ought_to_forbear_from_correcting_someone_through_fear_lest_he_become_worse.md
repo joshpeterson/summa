@@ -1,14 +1,25 @@
 # Whether One Ought To Forbear From Correcting Someone, Through Fear Lest He Become Worse?
+
 ## Objections
+
 Objection 1: It would seem that one ought not to forbear from correcting someone through fear lest he become worse. For sin is weakness of the soul, according to Ps. 6:3: "Have mercy on me, O Lord, for I am weak." Now he that has charge of a sick person, must not cease to take care of him, even if he be fractious or contemptuous, because then the danger is greater, as in the case of madmen. Much more, therefore should one correct a sinner, no matter how badly he takes it.
+
 Objection 2: Further, according to Jerome vital truths are not to be foregone on account of scandal. Now God's commandments are vital truths. Since, therefore, fraternal correction is a matter of precept, as stated above [2616](A[2]), it seems that it should not be foregone for fear of scandalizing the person to be corrected.
+
 Objection 3: Further, according to the Apostle (Rom. 3:8) we should not do evil that good may come of it. Therefore, in like manner, good should not be omitted lest evil befall. Now fraternal correction is a good thing. Therefore it should not be omitted for fear lest the person corrected become worse.
+
 ## Answer
+
 On the contrary, It is written (Prov. 9:8): "Rebuke not a scorner lest he hate thee," where a gloss remarks: "You must not fear lest the scorner insult you when you rebuke him: rather should you bear in mind that by making him hate you, you may make him worse." Therefore one ought to forego fraternal correction, when we fear lest we may make a man worse.
+
 I answer that, As stated above [2617](A[3]) the correction of the wrongdoer is twofold. One, which belongs to prelates, and is directed to the common good, has coercive force. Such correction should not be omitted lest the person corrected be disturbed, both because if he is unwilling to amend his ways of his own accord, he should be made to cease sinning by being punished, and because, if he be incorrigible, the common good is safeguarded in this way, since the order of justice is observed, and others are deterred by one being made an example of. Hence a judge does not desist from pronouncing sentence of condemnation against a sinner, for fear of disturbing him or his friends.
 
 The other fraternal correction is directed to the amendment of the wrongdoer, whom it does not coerce, but merely admonishes. Consequently when it is deemed probable that the sinner will not take the warning, and will become worse, such fraternal correction should be foregone, because the means should be regulated according to the requirements of the end.
+
 ## Replies
+
 Reply to Objection 1: The doctor uses force towards a madman, who is unwilling to submit to his treatment; and this may be compared with the correction administered by prelates, which has coercive power, but not with simple fraternal correction.
+
 Reply to Objection 2: Fraternal correction is a matter of precept, in so far as it is an act of virtue, and it will be a virtuous act in so far as it is proportionate to the end. Consequently whenever it is a hindrance to the end, for instance when a man becomes worse through it, it is longer a vital truth, nor is it a matter precept.
+
 Reply to Objection 3: Whatever is directed to end, becomes good through being directed to the end. Hence whenever fraternal correction hinders the end, namely the amendment of our brother, it is no longer good, so that when such a correction is omitted, good is not omitted lest evil should befall.

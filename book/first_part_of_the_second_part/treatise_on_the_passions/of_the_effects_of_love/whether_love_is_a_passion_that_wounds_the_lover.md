@@ -1,10 +1,17 @@
 # Whether Love Is A Passion That Wounds The Lover?
+
 ## Objections
+
 Objection 1: It would seem that love wounds the lover. For languor denotes a hurt in the one that languishes. But love causes languor: for it is written (Cant 2:5): "Stay me up with flowers, compass me about with apples; because I languish with love." Therefore love is a wounding passion.
+
 Objection 2: Further, melting is a kind of dissolution. But love melts that in which it is: for it is written (Cant 5:6): "My soul melted when my beloved spoke." Therefore love is a dissolvent: therefore it is a corruptive and a wounding passion.
+
 Objection 3: Further, fervor denotes a certain excess of heat; which excess has a corruptive effect. But love causes fervor: for Dionysius (Coel. Hier. vii) in reckoning the properties belonging to the Seraphim's love, includes "hot" and "piercing" and "most fervent." Moreover it is said of love (Cant 8:6) that "its lamps are fire and flames." Therefore love is a wounding and corruptive passion.
+
 ## Answer
+
 On the contrary, Dionysius says (Div. Nom. iv) that "everything loves itself with a love that holds it together," i.e. that preserves it. Therefore love is not a wounding passion, but rather one that preserves and perfects.
+
 I answer that, As stated above ([1239]Q[26], AA[1],2;[1240] Q[27], A[1]), love denotes a certain adapting of the appetitive power to some good. Now nothing is hurt by being adapted to that which is suitable to it; rather, if possible, it is perfected and bettered. But if a thing be adapted to that which is not suitable to it, it is hurt and made worse thereby. Consequently love of a suitable good perfects and betters the lover; but love of a good which is unsuitable to the lover, wounds and worsens him. Wherefore man is perfected and bettered chiefly by the love of God: but is wounded and worsened by the love of sin, according to Osee 9:10: "They became abominable, as those things which they loved."
 
 And let this be understood as applying to love in respect of its formal element, i.e. in regard to the appetite. But in respect of the material element in the passion of love, i.e. a certain bodily change, it happens that love is hurtful, by reason of this change being excessive: just as it happens in the senses, and in every act of a power of the soul that is exercised through the change of some bodily organ.

@@ -1,12 +1,23 @@
 # Whether Observances Directed To The Purpose Of Fortune-telling Are Unlawful?
+
 ## Objections
+
 Objection 1: It would seem that observances directed to the purpose of fortune-telling are not unlawful. Sickness is one of the misfortunes that occur to man. Now sickness in man is preceded by certain symptoms, which the physician observes. Therefore it seems not unlawful to observe such like signs.
+
 Objection 2: Further, it is unreasonable to deny that which nearly everybody experiences. Now nearly everyone experiences that certain times, or places, hearing of certain words meetings of men or animals, uncanny or ungainly actions, are presages of good or evil to come. Therefore it seems not unlawful to observe these things.
+
 Objection 3: Further, human actions and occurrences are disposed by divine providence in a certain order: and this order seems to require that precedent events should be signs of subsequent occurrences: wherefore, according to the Apostle (1 Cor. 10:6), the things that happened to the fathers of old are signs of those that take place in our time. Now it is not unlawful to observe the order that proceeds from divine providence. Therefore it is seemingly not unlawful to observe these presages.
+
 ## Answer
+
 On the contrary, Augustine says (De Doctr. Christ. ii, 20) that "a thousand vain observances are comprised under the head of compacts entered into with the demons: for instance, the twitching of a limb; a stone, a dog, or a boy coming between friends walking together; kicking the door-post when anyone passes in front of one's house; to go back to bed if you happen to sneeze while putting on your shoes; to return home if you trip when going forth; when the rats have gnawed a hole in your clothes, to fear superstitiously a future evil rather than to regret the actual damage."
+
 I answer that, Men attend to all these observances, not as causes but as signs of future events, good or evil. Nor do they observe them as signs given by God, since these signs are brought forward, not on divine authority, but rather by human vanity with the cooperation of the malice of the demons, who strive to entangle men's minds with such like trifles. Accordingly it is evident that all these observances are superstitious and unlawful: they are apparently remains of idolatry, which authorized the observance of auguries, of lucky and unlucky days which is allied to divination by the stars, in respect of which one day differentiated from another: except that these observances are devoid of reason and art, wherefore they are yet more vain and superstitious.
+
 ## Replies
+
 Reply to Objection 1: The causes of sickness are seated in us, and they produce certain signs of sickness to come, which physicians lawfully observe. Wherefore it is not unlawful to consider a presage of future events as proceeding from its cause; as when a slave fears a flogging when he sees his master's anger. Possibly the same might be said if one were to fear for child lest it take harm from the evil eye, of which we have spoken in the [3122]FP, Q[117], A[3], ad 2. But this does not apply to this kind of observances.
+
 Reply to Objection 2: That men have at first experienced a certain degree of truth in these observances is due to chance. But afterwards when a man begins to entangle his mind with observances of this kind, many things occur in connection with them through the trickery of the demons, "so that men, through being entangled in these observances, become yet more curious, and more and more embroiled in the manifold snares of a pernicious error," as Augustine says (De Doctr. Christ. ii, 23).
+
 Reply to Objection 3: Among the Jewish people of whom Christ was to be born, not only words but also deeds were prophetic, as Augustine states (Contra Faust. iv, 2; xxii, 24). Wherefore it is lawful to apply those deeds to our instruction, as signs given by God. Not all things, however, that occur through divine providence are ordered so as to be signs of the future. Hence the argument does not prove.

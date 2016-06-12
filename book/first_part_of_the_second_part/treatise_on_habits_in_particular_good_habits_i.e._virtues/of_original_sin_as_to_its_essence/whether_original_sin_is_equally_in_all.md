@@ -1,12 +1,23 @@
 # Whether Original Sin Is Equally In All?
+
 ## Objections
+
 Objection 1: It would seem that original sin is not equally in all. Because original sin is inordinate concupiscence, as stated above [1840](A[3]). Now all are not equally prone to acts of concupiscence. Therefore original sin is not equally in all.
+
 Objection 2: Further, original sin is an inordinate disposition of the soul, just as sickness is an inordinate disposition of the body. But sickness is subject to degrees. Therefore original sin is subject to degrees.
+
 Objection 3: Further, Augustine says (De Nup. et Concep. i, 23) that "lust transmits original sin to the child." But the act of generation may be more lustful in one than in another. Therefore original sin may be greater in one than in another.
+
 ## Answer
+
 On the contrary, Original sin is the sin of nature, as stated above ([1841]Q[81], A[1]). But nature is equally in all. Therefore original sin is too.
+
 I answer that, There are two things in original sin: one is the privation of original justice; the other is the relation of this privation to the sin of our first parent, from whom it is transmitted to man through his corrupt origin. As to the first, original sin has no degrees, since the gift of original justice is taken away entirely; and privations that remove something entirely, such as death and darkness, cannot be more or less, as stated above ([1842]Q[73], A[2]). In like manner, neither is this possible, as to the second: since all are related equally to the first principle of our corrupt origin, from which principle original sin takes the nature of guilt; for relations cannot be more or less. Consequently it is evident that original sin cannot be more in one than in another.
+
 ## Replies
+
 Reply to Objection 1: Through the bond of original justice being broken, which held together all the powers of the soul in a certain order, each power of the soul tends to its own proper movement, and the more impetuously, as it is stronger. Now it happens that some of the soul's powers are stronger in one man than in another, on account of the different bodily temperaments. Consequently if one man is more prone than another to acts of concupiscence, this is not due to original sin, because the bond of original justice is equally broken in all, and the lower parts of the soul are, in all, left to themselves equally; but it is due to the various dispositions of the powers, as stated.
+
 Reply to Objection 2: Sickness of the body, even sickness of the same species, has not an equal cause in all; for instance if a fever be caused by corruption of the bile, the corruption may be greater or less, and nearer to, or further from a vital principle. But the cause of original sin is equal to all, so that there is not comparison.
+
 Reply to Objection 3: It is not the actual lust that transmits original sin: for, supposing God were to grant to a man to feel no inordinate lust in the act of generation, he would still transmit original sin; we must understand this to be habitual lust, whereby the sensitive appetite is not kept subject to reason by the bonds of original justice. This lust is equally in all.

@@ -1,10 +1,17 @@
 # Whether The Sixth Beatitude, "Blessed Are The Clean Of Heart," Etc., Responds To The Gift Of Understanding?
+
 ## Objections
+
 Objection 1: It would seem that the sixth beatitude, "Blessed are the clean of heart, for they shall see God," does not respond to the gift of understanding. Because cleanness of heart seems to belong chiefly to the appetite. But the gift of understanding belongs, not to the appetite, but rather to the intellectual power. Therefore the aforesaid beatitude does not respond to the gift of understanding.
+
 Objection 2: Further, it is written (Acts 15:9): "Purifying their hearts by faith." Now cleanness of heart is acquired by the heart being purified. Therefore the aforesaid beatitude is related to the virtue of faith rather than to the gift of understanding.
+
 Objection 3: Further, the gifts of the Holy Ghost perfect man in the present state of life. But the sight of God does not belong to the present life, since it is that which gives happiness to the Blessed, as stated above ([2369]FS, Q[3], A[8]). Therefore the sixth beatitude which comprises the sight of God, does not respond to the gift of understanding.
+
 ## Answer
+
 On the contrary, Augustine says (De Serm. Dom. in Monte i, 4): "The sixth work of the Holy Ghost which is understanding, is applicable to the clean of heart, whose eye being purified, they can see what eye hath not seen."
+
 I answer that, Two things are contained in the sixth beatitude, as also in the others, one by way of merit, viz. cleanness of heart; the other by way of reward, viz. the sight of God, as stated above ([2370]FS, Q[69], AA[2] ,4), and each of these, in some way, responds to the gift of understanding.
 
 For cleanness is twofold. One is a preamble and a disposition to seeing God, and consists in the heart being cleansed of inordinate affections: and this cleanness of heart is effected by the virtues and gifts belonging to the appetitive power. The other cleanness of heart is a kind of complement to the sight of God; such is the cleanness of the mind that is purged of phantasms and errors, so as to receive the truths which are proposed to it about God, no longer by way of corporeal phantasms, nor infected with heretical misrepresentations: and this cleanness is the result of the gift of understanding.

@@ -1,10 +1,18 @@
 # Whether The Parts Of Temperance Are Rightly Assigned?
+
 ## Objections
+
 Objection 1: It would seem that Tully (De Invent. Rhet. ii, 54) unbecomingly assigns the parts of temperance, when he asserts them to be "continence, mildness, and modesty." For continence is reckoned to be distinct from virtue (Ethic. vii, 1): whereas temperance is comprised under virtue. Therefore continence is not a part of temperance.
+
 Objection 2: Further, mildness seemingly softens hatred or anger. But temperance is not about these things, but about pleasures of touch, as stated above ([3452]Q[141], A[4]). Therefore mildness is not a part of temperance.
+
 Objection 3: Further, modesty concerns external action, wherefore the Apostle says (Phil. 4:5): "Let your modesty be known to all men." Now external actions are the matter of justice, as stated above ([3453]Q[58], A[8]). Therefore modesty is a part of justice rather than of temperance.
+
 Objection 4: Further, Macrobius (In Somn. Scip. i, 8) reckons many more parts of temperance: for he says that "temperance results in modesty, shamefacedness, abstinence, chastity, honesty, moderation, lowliness, sobriety, purity." Andronicus also says [*De Affectibus] that "the companions of temperance are gravity, continence, humility, simplicity, refinement, method, contentment." [*'Per-se-sufficientiam' which could be rendered 'self-sufficiency,' but for the fact that this is taken in a bad sense. See[3454] Q[169], A[1].] Therefore it seems that Tully insufficiently reckoned the parts of temperance.
+
 ## Answer
+
+
 
 I answer that, As stated above (QQ[48],128), a cardinal virtue may have three kinds of parts, namely integral, subjective, and potential. The integral parts of a virtue are the conditions the concurrence of which are necessary for virtue: and in this respect there are two integral parts of temperance, "shamefacedness," whereby one recoils from the disgrace that is contrary to temperance, and "honesty," whereby one loves the beauty of temperance. For, as stated above ([3455]Q[141], A[2], ad 3), temperance more than any other virtue lays claim to a certain comeliness, and the vices of intemperance excel others in disgrace.
 
@@ -17,8 +25,13 @@ This happens in three ways: first, in the inward movements of the soul; secondly
 With regard to bodily movements and actions, moderation and restraint is the effect of "modesty," which, according to Andronicus, has three parts. The first of these enables one to discern what to do and what not to do, and to observe the right order, and to persevere in what we do: this he assigns to "method." The second is that a man observe decorum in what he does, and this he ascribes to "refinement." The third has to do with the conversation or any other intercourse between a man and his friends, and this is called "gravity."
 
 With regard to external things, a twofold moderation has to be observed. First, we must not desire too many, and to this Macrobius assigns "lowliness," and Andronicus "contentment"; secondly, we must not be too nice in our requirements, and to this Macrobius ascribes "moderation," Andronicus "simplicity."
+
 ## Replies
+
 Reply to Objection 1: It is true that continence differs from virtue, just as imperfect differs from perfect, as we shall state further on ([3456]Q[165], A[1]); and in this sense it is condivided with virtue. Yet it has something in common with temperance both as to matter, since it is about pleasures of touch, and as to mode, since it is a kind of restraint. Hence it is suitably assigned as a part of temperance.
+
 Reply to Objection 2: Mildness or meekness is reckoned a part of temperance not because of a likeness of matter, but because they agree as to the mode of restraint and moderation as stated above.
+
 Reply to Objection 3: In the matter of external action justice considers what is due to another. Modesty does not consider this, but only a certain moderation. Hence it is reckoned a part not of justice but of temperance.
+
 Reply to Objection 4: Under modesty Tully includes whatever pertains to the moderation of bodily movements and external things, as well as the moderation of hope which we reckoned as pertaining to humility.

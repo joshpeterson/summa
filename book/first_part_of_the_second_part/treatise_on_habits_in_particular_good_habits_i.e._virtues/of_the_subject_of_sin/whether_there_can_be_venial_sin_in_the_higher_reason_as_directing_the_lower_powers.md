@@ -1,13 +1,23 @@
 # Whether There Can Be Venial Sin In The Higher Reason As Directing The Lower Powers?
+
 ## Objections
+
 Objection 1: It would seem that there cannot be venial sin in the higher reason as directing the lower powers, i.e. as consenting to a sinful act. For Augustine says (De Trin. xii, 7) that the "higher reason is intent on considering and consulting the eternal law." But mortal sin consists in turning away from the eternal law. Therefore it seems that there can be no other than mortal sin in the higher reason.
+
 Objection 2: Further, the higher reason is the principle of the spiritual life, as the heart is of the body's life. But the diseases of the heart are deadly. Therefore the sins of the higher reason are mortal.
+
 Objection 3: Further, a venial sin becomes a mortal sin if it be done out of contempt. But it would seem impossible to commit even a venial sin, deliberately, without contempt. Since then the consent of the higher reason is always accompanied by deliberate consideration of the eternal law, it seems that it cannot be without mortal sin, on account of the contempt of the Divine law.
+
 ## Answer
+
 On the contrary, Consent to a sinful act belongs to the higher reason, as stated above [1759](A[7]). But consent to an act of venial sin is itself a venial sin. Therefore a venial sin can be in the higher reason.
+
 I answer that, As Augustine says (De Trin. xii, 7), the higher reason "is intent on contemplating or consulting the eternal law"; it contemplates it by considering its truth; it consults it by judging and directing other things according to it: and to this pertains the fact that by deliberating through the eternal types, it consents to an act or dissents from it. Now it may happen that the inordinateness of the act to which it consents, is not contrary to the eternal law, in the same way as mortal sin is, because it does not imply aversion from the last end, but is beside that law, as an act of venial sin is. Therefore when the higher reason consents to the act of a venial sin, it does not turn away from the eternal law: wherefore it sins, not mortally, but venially.
 
 This suffices for the Reply to the First Objection.
+
 ## Replies
+
 Reply to Objection 2: Disease of the heart is twofold: one which is in the very substance of the heart, and affects its natural consistency, and such a disease is always mortal: the other is a disease of the heart consisting in some disorder either of the movement or of the parts surrounding the heart, and such a disease is not always mortal. In like manner there is mortal sin in the higher reason whenever the order itself of the higher reason to its proper object which is the eternal law, is destroyed; but when the disorder leaves this untouched, the sin is not mortal but venial.
+
 Reply to Objection 3: Deliberate consent to a sin does not always amount to contempt of the Divine law, but only when the sin is contrary to the Divine law.

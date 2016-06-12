@@ -1,18 +1,31 @@
 # Whether The Contemplative Life Consists In The Mere Contemplation Of God, Or Also In The Consideration Of Any Truth Whatever?
+
 ## Objections
+
 Objection 1: It would seem that the contemplative life consists not only in the contemplation of God, but also in the consideration of any truth. For it is written (Ps. 138:14): "Wonderful are Thy works, and my soul knoweth right well." Now the knowledge of God's works is effected by any contemplation of the truth. Therefore it would seem that it pertains to the contemplative life to contemplate not only the divine truth, but also any other.
+
 Objection 2: Further, Bernard says (De Consid. v, 14) that "contemplation consists in admiration first of God's majesty, secondly of His judgments, thirdly of His benefits, fourthly of His promises." Now of these four the first alone regards the divine truth, and the other three pertain to His effects. Therefore the contemplative life consists not only in the contemplation of the divine truth, but also in the consideration of truth regarding the divine effects.
+
 Objection 3: Further, Richard of St. Victor [*De Grat. Contempl. i, 6] distinguishes six species of contemplation. The first belongs to "the imagination alone," and consists in thinking of corporeal things. The second is in "the imagination guided by reason," and consists in considering the order and disposition of sensible objects. The third is in "the reason based on the imagination"; when, to wit, from the consideration of the visible we rise to the invisible. The fourth is in "the reason and conducted by the reason," when the mind is intent on things invisible of which the imagination has no cognizance. The fifth is "above the reason," but not contrary to reason, when by divine revelation we become cognizant of things that cannot be comprehended by the human reason. The sixth is "above reason and contrary to reason"; when, to wit, by the divine enlightening we know things that seem contrary to human reason, such as the doctrine of the mystery of the Trinity. Now only the last of these would seem to pertain to the divine truth. Therefore the contemplation of truth regards not only the divine truth, but also that which is considered in creatures.
+
 Objection 4: Further, in the contemplative life the contemplation of truth is sought as being the perfection of man. Now any truth is a perfection of the human intellect. Therefore the contemplative life consists in the contemplation of any truth.
+
 ## Answer
+
 On the contrary, Gregory says (Moral. vi, 37) that "in contemplation we seek the principle which is God."
+
 I answer that, As stated above [3724](A[2]), a thing may belong to the contemplative life in two ways: principally, and secondarily, or dispositively. That which belongs principally to the contemplative life is the contemplation of the divine truth, because this contemplation is the end of the whole human life. Hence Augustine says (De Trin. i, 8) that "the contemplation of God is promised us as being the goal of all our actions and the everlasting perfection of our joys." This contemplation will be perfect in the life to come, when we shall see God face to face, wherefore it will make us perfectly happy: whereas now the contemplation of the divine truth is competent to us imperfectly, namely "through a glass" and "in a dark manner" (1 Cor. 13:12). Hence it bestows on us a certain inchoate beatitude, which begins now and will be continued in the life to come; wherefore the Philosopher (Ethic. x, 7) places man's ultimate happiness in the contemplation of the supreme intelligible good.
 
 Since, however, God's effects show us the way to the contemplation of God Himself, according to Rom. 1:20, "The invisible things of God . . . are clearly seen, being understood by the things that are made," it follows that the contemplation of the divine effects also belongs to the contemplative life, inasmuch as man is guided thereby to the knowledge of God. Hence Augustine says (De Vera Relig. xxix) that "in the study of creatures we must not exercise an empty and futile curiosity, but should make them the stepping-stone to things unperishable and everlasting."
 
 Accordingly it is clear from what has been said ([3725]AA[1],2,3) that four things pertain, in a certain order, to the contemplative life; first, the moral virtues; secondly, other acts exclusive of contemplation; thirdly, contemplation of the divine effects; fourthly, the complement of all which is the contemplation of the divine truth itself.
+
 ## Replies
+
 Reply to Objection 1: David sought the knowledge of God's works, so that he might be led by them to God; wherefore he says elsewhere (Ps. 142:5,6): "I meditated on all Thy works: I meditated upon the works of Thy hands: I stretched forth my hands to Thee."
+
 Reply to Objection 2: By considering the divine judgments man is guided to the consideration of the divine justice; and by considering the divine benefits and promises, man is led to the knowledge of God's mercy or goodness, as by effects already manifested or yet to be vouchsafed.
+
 Reply to Objection 3: These six denote the steps whereby we ascend by means of creatures to the contemplation of God. For the first step consists in the mere consideration of sensible objects; the second step consists in going forward from sensible to intelligible objects; the third step is to judge of sensible objects according to intelligible things; the fourth is the absolute consideration of the intelligible objects to which one has attained by means of sensibles; the fifth is the contemplation of those intelligible objects that are unattainable by means of sensibles, but which the reason is able to grasp; the sixth step is the consideration of such intelligible things as the reason can neither discover nor grasp, which pertain to the sublime contemplation of divine truth, wherein contemplation is ultimately perfected.
+
 Reply to Objection 4: The ultimate perfection of the human intellect is the divine truth: and other truths perfect the intellect in relation to the divine truth.

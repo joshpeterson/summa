@@ -1,12 +1,23 @@
 # Whether Any Action Is Indifferent In Its Species?
+
 ## Objections
+
 Objection 1: It would seem that no action is indifferent in its species. For evil is the privation of good, according to Augustine (Enchiridion xi). But privation and habit are immediate contraries, according to the Philosopher (Categor. viii). Therefore there is not such thing as an action that is indifferent in its species, as though it were between good and evil.
+
 Objection 2: Further, human actions derive their species from their end or object, as stated above [1149](A[6]; Q[1], A[3]). But every end and every object is either good or bad. Therefore every human action is good or evil according to its species. None, therefore, is indifferent in its species.
+
 Objection 3: Further, as stated above [1150](A[1]), an action is said to be good, when it has its due complement of goodness; and evil, when it lacks that complement. But every action must needs either have the entire plenitude of its goodness, or lack it in some respect. Therefore every action must needs be either good or bad in its species, and none is indifferent.
+
 ## Answer
+
 On the contrary, Augustine says (De Serm. Dom. in Monte ii, 18) that "there are certain deeds of a middle kind, which can be done with a good or evil mind, of which it is rash to form a judgment." Therefore some actions are indifferent according to their species.
+
 I answer that, As stated above ([1151]AA[2],5), every action takes its species from its object; while human action, which is called moral, takes its species from the object, in relation to the principle of human actions, which is the reason. Wherefore if the object of an action includes something in accord with the order of reason, it will be a good action according to its species; for instance, to give alms to a person in want. On the other hand, if it includes something repugnant to the order of reason, it will be an evil act according to its species; for instance, to steal, which is to appropriate what belongs to another. But it may happen that the object of an action does not include something pertaining to the order of reason; for instance, to pick up a straw from the ground, to walk in the fields, and the like: and such actions are indifferent according to their species.
+
 ## Replies
+
 Reply to Objection 1: Privation is twofold. One is privation "as a result" [privatum esse], and this leaves nothing, but takes all away: thus blindness takes away sight altogether; darkness, light; and death, life. Between this privation and the contrary habit, there can be no medium in respect of the proper subject. The other is privation "in process" [privari]: thus sickness is privation of health; not that it takes health away altogether, but that it is a kind of road to the entire loss of health, occasioned by death. And since this sort of privation leaves something, it is not always the immediate contrary of the opposite habit. In this way evil is a privation of good, as Simplicius says in his commentary on the Categories: because it does not take away all good, but leaves some. Consequently there can be something between good and evil.
+
 Reply to Objection 2: Every object or end has some goodness or malice, at least natural to it: but this does not imply moral goodness or malice, which is considered in relation to the reason, as stated above. And it is of this that we are here treating.
+
 Reply to Objection 3: Not everything belonging to an action belongs also to its species. Wherefore although an action's specific nature may not contain all that belongs to the full complement of its goodness, it is not therefore an action specifically bad; nor is it specifically good. Thus a man in regard to his species is neither virtuous nor wicked.

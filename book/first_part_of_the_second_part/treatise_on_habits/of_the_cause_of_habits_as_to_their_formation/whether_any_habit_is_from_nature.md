@@ -1,10 +1,17 @@
 # Whether Any Habit Is From Nature?
+
 ## Objections
+
 Objection 1: It would seem that no habit is from nature. For the use of those things which are from nature does not depend on the will. But habit "is that which we use when we will," as the Commentator says on De Anima iii. Therefore habit is not from nature.
+
 Objection 2: Further, nature does not employ two where one is sufficient. But the powers of the soul are from nature. If therefore the habits of the powers were from nature, habit and power would be one.
+
 Objection 3: Further, nature does not fail in necessaries. But habits are necessary in order to act well, as we have stated above ([1463]Q[49], A[4]). If therefore any habits were from nature, it seems that nature would not fail to cause all necessary habits: but this is clearly false. Therefore habits are not from nature.
+
 ## Answer
+
 On the contrary, In Ethic. vi, 6, among other habits, place is given to understanding of first principles, which habit is from nature: wherefore also first principles are said to be known naturally.
+
 I answer that, One thing can be natural to another in two ways. First in respect of the specific nature, as the faculty of laughing is natural to man, and it is natural to fire to have an upward tendency. Secondly, in respect of the individual nature, as it is natural to Socrates or Plato to be prone to sickness or inclined to health, in accordance with their respective temperaments. Again, in respect of both natures, something may be called natural in two ways: first, because it entirely is from the nature; secondly, because it is partly from nature, and partly from an extrinsic principle. For instance, when a man is healed by himself, his health is entirely from nature; but when a man is healed by means of medicine, health is partly from nature, partly from an extrinsic principle.
 
 Thus, then, if we speak of habit as a disposition of the subject in relation to form or nature, it may be natural in either of the foregoing ways. For there is a certain natural disposition demanded by the human species, so that no man can be without it. And this disposition is natural in respect of the specific nature. But since such a disposition has a certain latitude, it happens that different grades of this disposition are becoming to different men in respect of the individual nature. And this disposition may be either entirely from nature, or partly from nature, and partly from an extrinsic principle, as we have said of those who are healed by means of art.
@@ -18,7 +25,11 @@ But in respect of the individual nature, a habit of knowledge is natural as to i
 In the appetitive powers, however, no habit is natural in its beginning, on the part of the soul itself, as to the substance of the habit; but only as to certain principles thereof, as, for instance, the principles of common law are called the "nurseries of virtue." The reason of this is because the inclination to its proper objects, which seems to be the beginning of a habit, does not belong to the habit, but rather to the very nature of the powers.
 
 But on the part of the body, in respect of the individual nature, there are some appetitive habits by way of natural beginnings. For some are disposed from their own bodily temperament to chastity or meekness or such like.
+
 ## Replies
+
 Reply to Objection 1: This objection takes nature as divided against reason and will; whereas reason itself and will belong to the nature of man.
+
 Reply to Objection 2: Something may be added even naturally to the nature of a power, while it cannot belong to the power itself. For instance, with regard to the angels, it cannot belong to the intellective power itself capable of knowing all things: for thus it would have to be the act of all things, which belongs to God alone. Because that by which something is known, must needs be the actual likeness of the thing known: whence it would follow, if the power of the angel knew all things by itself, that it was the likeness and act of all things. Wherefore there must needs be added to the angels' intellective power, some intelligible species, which are likenesses of things understood: for it is by participation of the Divine wisdom and not by their own essence, that their intellect can be actually those things which they understand. And so it is clear that not everything belonging to a natural habit can belong to the power.
+
 Reply to Objection 3: Nature is not equally inclined to cause all the various kinds of habits: since some can be caused by nature, and some not, as we have said above. And so it does not follow that because some habits are natural, therefore all are natural.

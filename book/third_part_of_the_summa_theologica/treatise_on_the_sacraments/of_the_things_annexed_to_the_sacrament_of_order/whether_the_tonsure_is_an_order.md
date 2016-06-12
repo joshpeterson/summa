@@ -1,12 +1,23 @@
 # Whether The Tonsure Is An Order?
+
 ## Objections
+
 Objection 1: It would seem that the tonsure is an Order. For in the acts of the Church the spiritual corresponds to the corporal. Now the tonsure is a corporal sign employed by the Church. Therefore seemingly there is some interior signification corresponding thereto; so that a person receives a character when he receives the tonsure, and consequently the latter is an Order.
+
 Objection 2: Further, just as Confirmation and the other Orders are given by a bishop alone, so is the tonsure. Now a character is imprinted in Confirmation, and the other Orders. Therefore one is imprinted likewise in receiving the tonsure. Therefore the same conclusion follows.
+
 Objection 3: Further, Order denotes a degree of dignity. Now a cleric by the very fact of being a cleric is placed on a degree above the people. Therefore the tonsure by which he is made a cleric is an Order.
+
 ## Answer
+
 On the contrary, No Order is given except during the celebration of Mass. But the tonsure is given even outside the office of the Mass. Therefore it is not an Order.
+
 I answer that, The ministers of the Church are severed from the people in order that they may give themselves entirely to the Divine worship. Now in the Divine worship are certain actions that have to be exercised by virtue of certain definite powers, and for this purpose the spiritual power of order is given; while other actions are performed by the whole body of ministers in common, for instance the recital of the Divine praises. For such things it is not necessary to have the power of Order, but only to be deputed to such an office; and this is done by the tonsure. Consequently it is not an Order but a preamble to Orders.
+
 ## Replies
+
 Reply to Objection 1: The tonsure has some spiritual thing inwardly corresponding to it, as signate corresponds to sign; but this is not a spiritual power. Wherefore a character is not imprinted in the tonsure as in an Order.
+
 Reply to Objection 2: Although a man does not receive a character in the tonsure, nevertheless he is appointed to the Divine worship. Hence this appointment should be made by the supreme minister, namely the bishop, who moreover blesses the vestments and vessels and whatsoever else is employed in the Divine worship.
+
 Reply to Objection 3: A man through being a cleric is in a higher state than a layman; but as regards power he has not the higher degree that is required for Orders.

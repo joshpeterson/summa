@@ -1,14 +1,25 @@
 # Whether Venial Sin Can Be In The Higher Reason As Such?
+
 ## Objections
+
 Objection 1: It would seem that venial sin cannot be in the higher reason as such, i.e. as considering the eternal law. For the act of a power is not found to fail except that power be inordinately disposed with regard to its object. Now the object of the higher reason is the eternal law, in respect of which there can be no disorder without mortal sin. Therefore there can be no venial sin in the higher reason as such.
+
 Objection 2: Further, since the reason is a deliberative power, there can be no act of reason without deliberation. Now every inordinate movement in things concerning God, if it be deliberate, is a mortal sin. Therefore venial sin is never in the higher reason as such.
+
 Objection 3: Further, it happens sometimes that a sin which takes us unawares, is a venial sin. Now a deliberate sin is a mortal sin, through the reason, in deliberating, having recourse to some higher good, by acting against which, man sins more grievously; just as when the reason in deliberating about an inordinate pleasurable act, considers that it is contrary to the law of God, it sins more grievously in consenting, than if it only considered that it is contrary to moral virtue. But the higher reason cannot have recourse to any higher tribunal than its own object. Therefore if a movement that takes us unawares is not a mortal sin, neither will the subsequent deliberation make it a mortal sin; which is clearly false. Therefore there can be no venial sin in the higher reason as such.
+
 ## Answer
+
 On the contrary, A sudden movement of unbelief is a venial sin. But it belongs to the higher reason as such. Therefore there can be a venial sin in the higher reason as such.
+
 I answer that, The higher reason regards its own object otherwise than the objects of the lower powers that are directed by the higher reason. For it does not regard the objects of the lower powers, except in so far as it consults the eternal law about them, and so it does not regard them save by way of deliberation. Now deliberate consent to what is a mortal sin in its genus, is itself a mortal sin; and consequently the higher reason always sins mortally, if the acts of the lower powers to which it consents are mortal sins.
 
 With regard to its own object it has a twofold act, viz. simple "intuition," and "deliberation," in respect of which it again consults the eternal law about its own object. But in respect of simple intuition, it can have an inordinate movement about Divine things, as when a man suffers a sudden movement of unbelief. And although unbelief, in its genus, is a mortal sin, yet a sudden movement of unbelief is a venial sin, because there is no mortal sin unless it be contrary to the law of God. Now it is possible for one of the articles of faith to present itself to the reason suddenly under some other aspect, before the eternal law, i.e. the law of God, is consulted, or can be consulted, on the matter; as, for instance, when a man suddenly apprehends the resurrection of the dead as impossible naturally, and rejects it, as soon as he had thus apprehended it, before he has had time to deliberate and consider that this is proposed to our belief in accordance with the Divine law. If, however, the movement of unbelief remains after this deliberation, it is a mortal sin. Therefore, in sudden movements, the higher reason may sin venially in respect of its proper object, even if it be a mortal sin in its genus; or it may sin mortally in giving a deliberate consent; but in things pertaining to the lower powers, it always sins mortally, in things which are mortal sins in their genus, but not in those which are venial sins in their genus.
+
 ## Replies
+
 Reply to Objection 1: A sin which is against the eternal law, though it be mortal in its genus, may nevertheless be venial, on account of the incompleteness of a sudden action, as stated.
+
 Reply to Objection 2: In matters of action, the simple intuition of the principles from which deliberation proceeds, belongs to the reason, as well as the act of deliberation: even as in speculative matters it belongs to the reason both to syllogize and to form propositions: consequently the reason also can have a sudden movement.
+
 Reply to Objection 3: One and the same thing may be the subject of different considerations, of which one is higher than the other; thus the existence of God may be considered, either as possible to be known by the human reason, or as delivered to us by Divine revelation, which is a higher consideration. And therefore, although the object of the higher reason is, in its nature, something sublime, yet it is reducible to some yet higher consideration: and in this way, that which in the sudden movement was not a mortal sin, becomes a mortal sin in virtue of the deliberation which brought it into the light of a higher consideration, as was explained above.

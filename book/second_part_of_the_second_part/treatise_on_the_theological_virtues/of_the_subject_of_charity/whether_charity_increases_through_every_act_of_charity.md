@@ -1,12 +1,23 @@
 # Whether Charity Increases Through Every Act Of Charity?
+
 ## Objections
+
 Objection 1: It would seem that charity increases through every act of charity. For that which can do what is more, can do what is less. But every act of charity can merit everlasting life; and this is more than a simple addition of charity, since it includes the perfection of charity. Much more, therefore, does every act of charity increase charity.
+
 Objection 2: Further, just as the habits of acquired virtue are engendered by acts, so too an increase of charity is caused by an act of charity. Now each virtuous act conduces to the engendering of virtue. Therefore also each virtuous act of charity conduces to the increase of charity.
+
 Objection 3: Further, Gregory [*St. Bernard, Serm. ii in Festo Purif.] says that "to stand still in the way to God is to go back." Now no man goes back when he is moved by an act of charity. Therefore whoever is moved by an act of charity goes forward in the way to God. Therefore charity increases through every act of charity.
+
 ## Answer
+
 On the contrary, The effect does not surpass the power of its cause. But an act of charity is sometimes done with tepidity or slackness. Therefore it does not conduce to a more excellent charity, rather does it dispose one to a lower degree.
+
 I answer that, The spiritual increase of charity is somewhat like the increase of a body. Now bodily increase in animals and plants is not a continuous movement, so that, to wit, if a thing increase so much in so much time, it need to increase proportionally in each part of that time, as happens in local movement; but for a certain space of time nature works by disposing for the increase, without causing any actual increase, and afterwards brings into effect that to which it had disposed, by giving the animal or plant an actual increase. In like manner charity does not actually increase through every act of charity, but each act of charity disposes to an increase of charity, in so far as one act of charity makes man more ready to act again according to charity, and this readiness increasing, man breaks out into an act of more fervent love, and strives to advance in charity, and then his charity increases actually.
+
 ## Replies
+
 Reply to Objection 1: Every act of charity merits everlasting life, which, however, is not to be bestowed then and there, but at its proper time. In like manner every act of charity merits an increase of charity; yet this increase does not take place at once, but when we strive for that increase.
+
 Reply to Objection 2: Even when an acquired virtue is being engendered, each act does not complete the formation of the virtue, but conduces towards that effect by disposing to it, while the last act, which is the most perfect, and acts in virtue of all those that preceded it, reduces the virtue into act, just as when many drops hollow out a stone.
+
 Reply to Objection 3: Man advances in the way to God, not merely by actual increase of charity, but also by being disposed to that increase.

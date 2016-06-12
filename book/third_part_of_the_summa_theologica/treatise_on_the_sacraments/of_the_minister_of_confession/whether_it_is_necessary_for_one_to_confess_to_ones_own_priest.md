@@ -1,18 +1,35 @@
 # Whether It Is Necessary For One To Confess To One's Own Priest?
+
 ## Objections
+
 Objection 1: It would seem that it is nol necessary to confess to one's own priest. For Gregory [*Cf. Can. Ex auctoritate xvi, Q[1]] says: "By our apostolic authority and in discharge of our solicitude we have decreed that priests, who as monks imitate the ex. ample of the apostles, may preach, baptize, give communion, pray for sinners, impose penances, and absolve from sins." Now monks are not the proper priests of anyone, since they have not the care of souls. Since, therefore confession is made for the sake of absolution it suffices for it to be made to any priest.
+
 Objection 2: Further, the minister of this sacrament is a priest, as also of the Eucharist. But any priest can perform the Eucharist. Therefore any priest can administer the sacrament of Penance. Therefore there is no need to confess to one's own priest.
+
 Objection 3: Further, when we are bound to one thing in particular it is not left to our choice. But the choice of a discreet priest is left to us as appears from the authority of Augustine quoted in the text (Sent. ix, D, 17): for he says in De vera et falsa Poenitentia [*Work of an unknown author]: "He who wishes to confess his sins, in order to find grace, must seek a priest who knows how to loose and to bind." Therefore it seems unnecessary to confess to one's own priest.
+
 Objection 4: Further, there are some, such as prelates, who seem to have no priest of their own, since they have no superior: yet they are bound to confession. Therefore a man is not always bound to confess to his own priest.
+
 Objection 5: Further, "That which is instituted for the sake of charity, does not militate against charity," as Bernard observes (De Praecept. et Dispens. ii). Now confession, which was instituted for the sake of charity, would militate against charity, if a man were bound to confess to any particular priest: e.g. if the sinner know that his own priest is a heretic, or a man of evil influence, or weak and prone to the very sin that he wishes to confess to him, or reasonably suspected of breaking the seal of confession, or if the penitent has to confess a sin committed against his confessor. Therefore it seems that one need not always confess to one's own priest.
+
 Objection 6: Further, men should not be straitened in matters necessary for salvation, lest they be hindered in the way of salvation. But it seems a great inconvenience to be bound of necessity to confess to one particular man, and many might be hindered from going to confession, through either fear, shame, or something else of the kind. Therefore, since confession is necessary for salvation, men should not be straitened, as apparently they would be, by having to confess to their own priest.
+
 ## Answer
+
 On the contrary, stands a decree of Pope Innocent III in the Fourth Lateran Council (Can. 21), who appointed "all of either sex to confess once a year to their own priest."
+
 I answer that, The other sacraments do not consist in an action of the recipient, but only in his receiving something, as is evident with regard to Baptism and so forth. though the action of the recipient is required as removing an obstacle, i.e. insincerity, in order that he may receive the benefit of the sacrament, if he has come to the use of his free-will. On the other hand, the action of the man who approaches the sacrament of Penance is essential to the sacrament, since contrition, confession, and satisfaction, which are acts of the penitent, are parts of Penance. Now our actions, since they have their origin in us, cannot be dispensed by others, except through their command. Hence whoever is appointed a dispenser of this sacrament, must be such as to be able to command something to be done. Now a man is not competent to command another unless he have jurisdiction over him. Consequently it is essential to this sacrament, not only for the minister to be in orders, as in the case of the other sacraments, but also for him to have jurisdiction: wherefore he that has no jurisdiction cannot administer this sacrament any more than one who is not a priest. Therefore confession should be made not only to a priest, but to one's own priest; for since a priest does not absolve a man except by binding him to do something, he alone can absolve, who, by his command, can bind the penitent to do something.
+
 ## Replies
+
 Reply to Objection 1: Gregory is speaking of those monks who have jurisdiction, through having charge of a parish; about whom some had maintained that from the very fact that they were monks, they could not absolve or impose penance, which is false.
+
 Reply to Objection 2: The sacrament of the Eucharist does not require the power of command over a man, whereas this sacrament does, as stated above: and so the argument proves nothing. Nevertheless it is not lawful to receive the Eucharist from another than one's own priest, although it is a real sacrament that one receives from another.
+
 Reply to Objection 3: The choice of a discreet priest is not left to us in such a way that we can do just as we like; but it is left to the permission of a higher authority, if perchance one's own priest happens to be less suitable for applying a salutary remedy to our sins.
+
 Reply to Objection 4: Since it is the duty of prelates to dispense the sacraments, which the clean alone should handle, they are allowed by law (De Poenit. et Remiss., Cap. Ne pro dilatione) to choose a priest for their confessor; who in this respect is the prelate's superior; even as one physician is cured by another, not as a physician but as a patient.
+
 Reply to Objection 5: In those cases wherein the penitent has reason to fear some harm to himself or to the priest by reason of his confessing to him, he should have recourse to the higher authority, or ask permission of the priest himself to confess to another; and if he fails to obtain permission, the case is to be decided as for a man who has no priest at hand; so that he should rather choose a layman and confess to him. Nor does he disobey the law of the Church by so doing, because the precepts of positive law do not extend beyond the intention of the lawgiver, which is the end of the precept, and in this case, is charity, according to the Apostle (1 Tim. 1:5). Nor is any slur cast on the priest, for he deserves to forfeit his privilege, for abusing the power intrusted to him.
+
 Reply to Objection 6: The necessity of confessing to one's own priest does not straiten the way of salvation, but determines it sufficiently. A priest, however, would sin if he were not easy in giving permission to confess to another, because many are so weak that they would rather die without confession than confess to such a priest. Wherefore those priests who are too anxious to probe the consciences of their subjects by means of confession, lay a snare of damnation for many, and consequently for themselves.

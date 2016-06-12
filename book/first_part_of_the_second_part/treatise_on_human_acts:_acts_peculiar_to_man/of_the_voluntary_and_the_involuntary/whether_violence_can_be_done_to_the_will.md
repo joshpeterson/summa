@@ -1,16 +1,27 @@
 # Whether Violence Can Be Done To The Will?
+
 ## Objections
+
 Objection 1: It would seem that violence can be done to the will. For everything can be compelled by that which is more powerful. But there is something, namely, God, that is more powerful than the human will. Therefore it can be compelled, at least by Him.
+
 Objection 2: Further, every passive subject is compelled by its active principle, when it is changed by it. But the will is a passive force: for it is a "mover moved" (De Anima iii, 10). Therefore, since it is sometimes moved by its active principle, it seems that sometimes it is compelled.
+
 Objection 3: Further, violent movement is that which is contrary to nature. But the movement of the will is sometimes contrary to nature; as is clear of the will's movement to sin, which is contrary to nature, as Damascene says (De Fide Orth. iv, 20). Therefore the movement of the will can be compelled.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei v, 10) that what is done by the will is not done of necessity. Now, whatever is done under compulsion is done of necessity: consequently what is done by the will, cannot be compelled. Therefore the will cannot be compelled to act.
+
 I answer that, The act of the will is twofold: one is its immediate act, as it were, elicited by it, namely, "to wish"; the other is an act of the will commanded by it, and put into execution by means of some other power, such as "to walk" and "to speak," which are commanded by the will to be executed by means of the motive power.
 
 As regards the commanded acts of the will, then, the will can suffer violence, in so far as violence can prevent the exterior members from executing the will's command. But as to the will's own proper act, violence cannot be done to the will.
 
 The reason of this is that the act of the will is nothing else than an inclination proceeding from the interior principle of knowledge: just as the natural appetite is an inclination proceeding from an interior principle without knowledge. Now what is compelled or violent is from an exterior principle. Consequently it is contrary to the nature of the will's own act, that it should be subject to compulsion and violence: just as it is also contrary to the nature of a natural inclination or movement. For a stone may have an upward movement from violence, but that this violent movement be from its natural inclination is impossible. In like manner a man may be dragged by force: but it is contrary to the very notion of violence, that he be dragged of his own will.
+
 ## Replies
+
 Reply to Objection 1: God Who is more powerful than the human will, can move the will of man, according to Prov. 21:1: "The heart of the king is in the hand of the Lord; whithersoever He will He shall turn it." But if this were by compulsion, it would no longer be by an act of the will, nor would the will itself be moved, but something else against the will.
+
 Reply to Objection 2: It is not always a violent movement, when a passive subject is moved by its active principle; but only when this is done against the interior inclination of the passive subject. Otherwise every alteration and generation of simply bodies would be unnatural and violent: whereas they are natural by reason of the natural interior aptitude of the matter or subject to such a disposition. In like manner when the will is moved, according to its own inclination, by the appetible object, this movement is not violent but voluntary.
+
 Reply to Objection 3: That to which the will tends by sinning, although in reality it is evil and contrary to the rational nature, nevertheless is apprehended as something good and suitable to nature, in so far as it is suitable to man by reason of some pleasurable sensation or some vicious habit.

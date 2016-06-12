@@ -1,16 +1,27 @@
 # Whether The New Law Should Have Been Given From The Beginning Of The World?
+
 ## Objections
+
 Objection 1: It would seem that the New Law should have been given from the beginning of the world. "For there is no respect of persons with God" (Rom. 2:11). But "all" men "have sinned and do need the glory of God" (Rom. 3:23). Therefore the Law of the Gospel should have been given from the beginning of the world, in order that it might bring succor to all.
+
 Objection 2: Further, as men dwell in various places, so do they live in various times. But God, "Who will have all men to be saved" (1 Tim. 2:4), commanded the Gospel to be preached in all places, as may be seen in the last chapters of Matthew and Mark. Therefore the Law of the Gospel should have been at hand for all times, so as to be given from the beginning of the world.
+
 Objection 3: Further, man needs to save his soul, which is for all eternity, more than to save his body, which is a temporal matter. But God provided man from the beginning of the world with things that are necessary for the health of his body, by subjecting to his power whatever was created for the sake of man (Gn. 1:26-29). Therefore the New Law also, which is very necessary for the health of the soul, should have been given to man from the beginning of the world.
+
 ## Answer
+
 On the contrary, The Apostle says (1 Cor. 15:46): "That was not first which is spiritual, but that which is natural." But the New Law is highly spiritual. Therefore it was not fitting for it to be given from the beginning of the world.
+
 I answer that, Three reasons may be assigned why it was not fitting for the New Law to be given from the beginning of the world. The first is because the New Law, as stated above [2139](A[1]), consists chiefly in the grace of the Holy Ghost: which it behoved not to be given abundantly until sin, which is an obstacle to grace, had been cast out of man through the accomplishment of his redemption by Christ: wherefore it is written (Jn. 7:39): "As yet the Spirit was not given, because Jesus was not yet glorified." This reason the Apostle states clearly (Rom. 8:2, seqq.) where, after speaking of "the Law of the Spirit of life," he adds: "God sending His own Son, in the likeness of sinful flesh, of sin* hath condemned sin in the flesh, that the justification of the Law might be fulfilled in us." [*St. Thomas, quoting perhaps from memory, omits the "et" (and), after "sinful flesh." The text quoted should read thus: "in the likeness of sinful flesh, and a sin offering ({peri hamartias}), hath," etc.]
 
 A second reason may be taken from the perfection of the New Law. Because a thing is not brought to perfection at once from the outset, but through an orderly succession of time; thus one is at first a boy, and then a man. And this reason is stated by the Apostle (Gal. 3:24,25): "The Law was our pedagogue in Christ that we might be justified by faith. But after the faith is come, we are no longer under a pedagogue."
 
 The third reason is found in the fact that the New Law is the law of grace: wherefore it behoved man first of all to be left to himself under the state of the Old Law, so that through falling into sin, he might realize his weakness, and acknowledge his need of grace. This reason is set down by the Apostle (Rom. 5:20): "The Law entered in, that sin might abound: and when sin abounded grace did more abound."
+
 ## Replies
+
 Reply to Objection 1: Mankind on account of the sin of our first parents deserved to be deprived of the aid of grace: and so "from whom it is withheld it is justly withheld, and to whom it is given, it is mercifully given," as Augustine states (De Perfect. Justit. iv) [*Cf. Ep. ccvii; De Pecc. Mer. et Rem. ii, 19]. Consequently it does not follow that there is respect of persons with God, from the fact that He did not offer the Law of grace to all from the beginning of the world, which Law was to be published in due course of time, as stated above.
+
 Reply to Objection 2: The state of mankind does not vary according to diversity of place, but according to succession of time. Hence the New Law avails for all places, but not for all times: although at all times there have been some persons belonging to the New Testament, as stated above (A[1], ad 3).
+
 Reply to Objection 3: Things pertaining to the health of the body are of service to man as regards his nature, which sin does not destroy: whereas things pertaining to the health of the soul are ordained to grace, which is forfeit through sin. Consequently the comparison will not hold.

@@ -1,12 +1,23 @@
 # Whether This Kind Of Friendship Is A Part Of Justice?
+
 ## Objections
+
 Objection 1: It seems that this kind of friendship is not a part of justice. For justice consists in giving another man his due. But this virtue does not consist in doing that, but in behaving agreeably towards those among whom we live. Therefore this virtue is not a part of justice.
+
 Objection 2: Further, according to the Philosopher (Ethic. iv, 6), this virtue is concerned about the joys and sorrows of those who dwell in fellowship. Now it belongs to temperance to moderate the greatest pleasures, as stated above ([3226]FS, Q[60], A[5]; [3227]FS, Q[61], A[3]). Therefore this virtue is a part of temperance rather than of justice.
+
 Objection 3: Further, to give equal things to those who are unequal is contrary to justice, as stated above ([3228]Q[59], AA[1],2). Now, according to the Philosopher (Ethic. iv, 6), this virtue "treats in like manner known and unknown, companions and strangers." Therefore this virtue rather than being a part of justice is opposed thereto.
+
 ## Answer
+
 On the contrary, Macrobius (De Somno Scip. i) accounts friendship a part of justice.
+
 I answer that, This virtue is a part of justice, being annexed to it as to a principal virtue. Because in common with justice it is directed to another person, even as justice is: yet it falls short of the notion of justice, because it lacks the full aspect of debt, whereby one man is bound to another, either by legal debt, which the law binds him to pay, or by some debt arising out of a favor received. For it regards merely a certain debt of equity, namely, that we behave pleasantly to those among whom we dwell, unless at times, for some reason, it be necessary to displease them for some good purpose.
+
 ## Replies
+
 Reply to Objection 1: As we have said above ([3229]Q[109], A[3], ad 1), because man is a social animal he owes his fellow-man, in equity, the manifestation of truth without which human society could not last. Now as man could not live in society without truth, so likewise, not without joy, because, as the Philosopher says (Ethic. viii), no one could abide a day with the sad nor with the joyless. Therefore, a certain natural equity obliges a man to live agreeably with his fellow-men; unless some reason should oblige him to sadden them for their good.
+
 Reply to Objection 2: It belongs to temperance to curb pleasures of the senses. But this virtue regards the pleasures of fellowship, which have their origin in the reason, in so far as one man behaves becomingly towards another. Such pleasures need not to be curbed as though they were noisome.
+
 Reply to Objection 3: This saying of the Philosopher does not mean that one ought to converse and behave in the same way with acquaintances and strangers, since, as he says (Ethic. iv, 6), "it is not fitting to please and displease intimate friends and strangers in the same way." This likeness consists in this, that we ought to behave towards all in a fitting manner.

@@ -1,12 +1,23 @@
 # Whether This Doctrine Is The Same As Wisdom?
+
 ## Objections
+
 Objection 1: It seems that this doctrine is not the same as wisdom. For no doctrine which borrows its principles is worthy of the name of wisdom; seeing that the wise man directs, and is not directed (Metaph. i). But this doctrine borrows its principles. Therefore this science is not wisdom.
+
 Objection 2: Further, it is a part of wisdom to prove the principles of other sciences. Hence it is called the chief of sciences, as is clear in Ethic. vi. But this doctrine does not prove the principles of other sciences. Therefore it is not the same as wisdom.
+
 Objection 3: Further, this doctrine is acquired by study, whereas wisdom is acquired by God's inspiration; so that it is numbered among the gifts of the Holy Spirit (Is. 11:2). Therefore this doctrine is not the same as wisdom.
+
 ## Answer
+
 On the contrary, It is written (Dt. 4:6): "This is your wisdom and understanding in the sight of nations."
+
 I answer that, This doctrine is wisdom above all human wisdom; not merely in any one order, but absolutely. For since it is the part of a wise man to arrange and to judge, and since lesser matters should be judged in the light of some higher principle, he is said to be wise in any one order who considers the highest principle in that order: thus in the order of building, he who plans the form of the house is called wise and architect, in opposition to the inferior laborers who trim the wood and make ready the stones: "As a wise architect, I have laid the foundation" (1 Cor. 3:10). Again, in the order of all human life, the prudent man is called wise, inasmuch as he directs his acts to a fitting end: "Wisdom is prudence to a man" (Prov. 10: 23). Therefore he who considers absolutely the highest cause of the whole universe, namely God, is most of all called wise. Hence wisdom is said to be the knowledge of divine things, as Augustine says (De Trin. xii, 14). But sacred doctrine essentially treats of God viewed as the highest cause---not only so far as He can be known through creatures just as philosophers knew Him---"That which is known of God is manifest in them" (Rom. 1:19)---but also as far as He is known to Himself alone and revealed to others. Hence sacred doctrine is especially called wisdom.
+
 ## Replies
+
 Reply to Objection 1: Sacred doctrine derives its principles not from any human knowledge, but from the divine knowledge, through which, as through the highest wisdom, all our knowledge is set in order.
+
 Reply to Objection 2: The principles of other sciences either are evident and cannot be proved, or are proved by natural reason through some other science. But the knowledge proper to this science comes through revelation and not through natural reason. Therefore it has no concern to prove the principles of other sciences, but only to judge of them. Whatsoever is found in other sciences contrary to any truth of this science must be condemned as false: "Destroying counsels and every height that exalteth itself against the knowledge of God" (2 Cor. 10:4,5).
+
 Reply to Objection 3: Since judgment appertains to wisdom, the twofold manner of judging produces a twofold wisdom. A man may judge in one way by inclination, as whoever has the habit of a virtue judges rightly of what concerns that virtue by his very inclination towards it. Hence it is the virtuous man, as we read, who is the measure and rule of human acts. In another way, by knowledge, just as a man learned in moral science might be able to judge rightly about virtuous acts, though he had not the virtue. The first manner of judging divine things belongs to that wisdom which is set down among the gifts of the Holy Ghost: "The spiritual man judgeth all things" (1 Cor. 2:15). And Dionysius says (Div. Nom. ii): "Hierotheus is taught not by mere learning, but by experience of divine things." The second manner of judging belongs to this doctrine which is acquired by study, though its principles are obtained by revelation.

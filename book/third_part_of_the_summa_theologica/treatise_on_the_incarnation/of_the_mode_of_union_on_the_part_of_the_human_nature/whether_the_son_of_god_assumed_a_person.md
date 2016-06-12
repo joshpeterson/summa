@@ -1,12 +1,23 @@
 # Whether The Son Of God Assumed A Person?
+
 ## Objections
+
 Objection 1: It would seem that the Son of God assumed a person. For Damascene says (De Fide Orth. iii, 11) that the Son of God "assumed human nature 'in atomo,'" i.e. in an individual. But an individual in rational nature is a person, as is plain from Boethius (De Duab. Nat.). Therefore the Son of God assumed a person.
+
 Objection 2: Further, Damascene says (De Fide Orth. iii, 6) that the Son of God "assumed what He had sown in our nature." But He sowed our personality there. Therefore the Son of God assumed a person.
+
 Objection 3: Further, nothing is absorbed unless it exist. But Innocent III [*Paschas. Diac., De Spiritu Sanct. ii] says in a Decretal that "the Person of God absorbed the person of man." Therefore it would seem that the person of man existed previous to its being assumed.
+
 ## Answer
+
 On the contrary, Augustine [*Fulgentius] says (De Fide ad Petrum ii) that "God assumed the nature, not the person, of man."
+
 I answer that, A thing is said to be assumed inasmuch as it is taken into another. Hence, what is assumed must be presupposed to the assumption, as what is moved locally is presupposed to the motion. Now a person in human nature is not presupposed to assumption; rather, it is the term of the assumption, as was said ([3898]Q[3], AA[1],2). For if it were presupposed, it must either have been corrupted---in which case it was useless; or it remains after the union---and thus there would be two persons, one assuming and the other assumed, which is false, as was shown above ([3899]Q[2], A[6]). Hence it follows that the Son of God nowise assumed a human person.
+
 ## Replies
+
 Reply to Objection 1: The Son of God assumed human nature "in atomo," i.e. in an individual, which is no other than the uncreated suppositum, the Person of the Son of God. Hence it does not follow that a person was assumed.
+
 Reply to Objection 2: Its proper personality is not wanting to the nature assumed through the loss of anything pertaining to the perfection of the human nature but through the addition of something which is above human nature, viz. the union with a Divine Person.
+
 Reply to Objection 3: Absorption does not here imply the destruction of anything pre-existing, but the hindering what might otherwise have been. For if the human nature had not been assumed by a Divine Person, the human nature would have had its own personality; and in this way is it said, although improperly, that the Person "absorbed the person," inasmuch as the Divine Person by His union hindered the human nature from having its personality.

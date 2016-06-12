@@ -1,12 +1,23 @@
 # Whether Docility Should Be Accounted A Part Of Prudence?
+
 ## Objections
+
 Objection 1: It would seem that docility should not be accounted a part of prudence. For that which is a necessary condition of every intellectual virtue, should not be appropriated to one of them. But docility is requisite for every intellectual virtue. Therefore it should not be accounted a part of prudence.
+
 Objection 2: Further, that which pertains to a human virtue is in our power, since it is for things that are in our power that we are praised or blamed. Now it is not in our power to be docile, for this is befitting to some through their natural disposition. Therefore it is not a part of prudence.
+
 Objection 3: Further, docility is in the disciple: whereas prudence, since it makes precepts, seems rather to belong to teachers, who are also called "preceptors." Therefore docility is not a part of prudence.
+
 ## Answer
+
 On the contrary, Macrobius [*In Somn. Scip. i, 8] following the opinion of Plotinus places docility among the parts of prudence.
+
 I answer that, As stated above (A[2], ad 1;[2776] Q[47], A[3]) prudence is concerned with particular matters of action, and since such matters are of infinite variety, no one man can consider them all sufficiently; nor can this be done quickly, for it requires length of time. Hence in matters of prudence man stands in very great need of being taught by others, especially by old folk who have acquired a sane understanding of the ends in practical matters. Wherefore the Philosopher says (Ethic. vi, 11): "It is right to pay no less attention to the undemonstrated assertions and opinions of such persons as are experienced, older than we are, and prudent, than to their demonstrations, for their experience gives them an insight into principles." Thus it is written (Prov. 3:5): "Lean not on thy own prudence," and (Ecclus. 6:35): "Stand in the multitude of the ancients" (i.e. the old men), "that are wise, and join thyself from thy heart to their wisdom." Now it is a mark of docility to be ready to be taught: and consequently docility is fittingly reckoned a part of prudence
+
 ## Replies
+
 Reply to Objection 1: Although docility is useful for every intellectual virtue, yet it belongs to prudence chiefly, for the reason given above.
+
 Reply to Objection 2: Man has a natural aptitude for docility even as for other things connected with prudence. Yet his own efforts count for much towards the attainment of perfect docility: and he must carefully, frequently and reverently apply his mind to the teachings of the learned, neither neglecting them through laziness, nor despising them through pride.
+
 Reply to Objection 3: By prudence man makes precepts not only for others, but also for himself, as stated above ([2777]Q[47], A[12], ad 3). Hence as stated (Ethic. vi, 11), even in subjects, there is place for prudence; to which docility pertains. And yet even the learned should be docile in some respects, since no man is altogether self-sufficient in matters of prudence, as stated above.

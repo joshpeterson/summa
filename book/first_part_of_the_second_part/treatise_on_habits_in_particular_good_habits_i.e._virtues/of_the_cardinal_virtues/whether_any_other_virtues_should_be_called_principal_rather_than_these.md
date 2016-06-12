@@ -1,10 +1,17 @@
 # Whether Any Other Virtues Should Be Called Principal Rather Than These?
+
 ## Objections
+
 Objection 1: It would seem that other virtues should be called principal rather than these. For, seemingly, the greatest is the principal in any genus. Now "magnanimity has a great influence on all the virtues" (Ethic. iv, 3). Therefore magnanimity should more than any be called a principal virtue.
+
 Objection 2: Further, that which strengthens the other virtues should above all be called a principal virtue. But such is humility: for Gregory says (Hom. iv in Ev.) that "he who gathers the other virtues without humility is as one who carries straw against the wind." Therefore humility seems above all to be a principal virtue.
+
 Objection 3: Further, that which is most perfect seems to be principal. But this applies to patience, according to James 1:4: "Patience hath a perfect work." Therefore patience should be reckoned a principal virtue.
+
 ## Answer
+
 On the contrary, Cicero reduces all other virtues to these four (De Invent. Rhet. ii).
+
 I answer that, As stated above [1569](A[2]), these four are reckoned as cardinal virtues, in respect of the four formal principles of virtue as we understand it now. These principles are found chiefly in certain acts and passions. Thus the good which exists in the act of reason, is found chiefly in reason's command, but not in its counsel or its judgment, as stated above (Q[57], A[6]). Again, good as defined by reason and put into our operations as something right and due, is found chiefly in commutations and distributions in respect of another person, and on a basis of equality. The good of curbing the passions is found chiefly in those passions which are most difficult to curb, viz. in the pleasures of touch. The good of being firm in holding to the good defined by reason, against the impulse of passion, is found chiefly in perils of death, which are most difficult to withstand.
 
 Accordingly the above four virtues may be considered in two ways. First, in respect of their common formal principles. In this way they are called principal, being general, as it were, in comparison with all the virtues: so that, for instance, any virtue that causes good in reason's act of consideration, may be called prudence; every virtue that causes the good of right and due in operation, be called justice; every virtue that curbs and represses the passions, be called temperance; and every virtue that strengthens the mind against any passions whatever, be called fortitude. Many, both holy doctors, as also philosophers, speak about these virtues in this sense: and in this way the other virtues are contained under them. Wherefore all the objections fail.

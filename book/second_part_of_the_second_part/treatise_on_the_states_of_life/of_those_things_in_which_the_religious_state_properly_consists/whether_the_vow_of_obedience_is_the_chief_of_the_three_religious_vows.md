@@ -1,10 +1,17 @@
 # Whether The Vow Of Obedience Is The Chief Of The Three Religious Vows?
+
 ## Objections
+
 Objection 1: It would seem that the vow of obedience is not the chief of the three religious vows. For the perfection of the religious life was inaugurated by Christ. Now Christ gave a special counsel of poverty; whereas He is not stated to have given a special counsel of obedience. Therefore the vow of poverty is greater than the vow of obedience.
+
 Objection 2: Further, it is written (Ecclus. 26:20) that "no price is worthy of a continent soul." Now the vow of that which is more worthy is itself more excellent. Therefore the vow of continence is more excellent than the vow of obedience.
+
 Objection 3: Further, the greater a vow the more indispensable it would seem to be. Now the vows of poverty and continence "are so inseparable from the monastic rule, that not even the Sovereign Pontiff can allow them to be broken," according to a Decretal (De Statu Monach., cap. Cum ad monasterium): yet he can dispense a religious from obeying his superior. Therefore it would seem that the vow of obedience is less than the vow of poverty and continence.
+
 ## Answer
+
 On the contrary, Gregory says (Moral. xxxv, 14): "Obedience is rightly placed before victims, since by victims another's flesh, but by obedience one's own will, is sacrificed." Now the religious vows are holocausts, as stated above ([3799]AA[1],3, ad 6). Therefore the vow of obedience is the chief of all religious vows.
+
 I answer that, The vow of obedience is the chief of the three religious vows, and this for three reasons.
 
 First, because by the vow of obedience man offers God something greater, namely his own will; for this is of more account than his own body, which he offers God by continence, and than external things, which he offers God by the vow of poverty. Wherefore that which is done out of obedience is more acceptable to God than that which is done of one's own will, according to the saying of Jerome (Ep. cxxv ad Rustic Monach.): "My words are intended to teach you not to rely on your own judgment": and a little further on he says: "You may not do what you will; you must eat what you are bidden to eat, you may possess as much as you receive, clothe yourself with what is given to you." Hence fasting is not acceptable to God if it is done of one's own will, according to Is. 58:3, "Behold in the day of your fast your own will is found."
@@ -14,7 +21,11 @@ Secondly, because the vow of obedience includes the other vows, but not vice ver
 Thirdly, because the vow of obedience extends properly to those acts that are closely connected with the end of religion; and the more closely a thing is connected with the end, the better it is.
 
 It follows from this that the vow of obedience is more essential to the religious life. For if a man without taking a vow of obedience were to observe, even by vow, voluntary poverty and continence, he would not therefore belong to the religious state, which is to be preferred to virginity observed even by vow; for Augustine says (De Virgin. xlvi): "No one, methinks, would prefer virginity to the monastic life." [*St. Augustine wrote not 'monasterio' but 'martyrio'---to 'martyrdom'; and St. Thomas quotes the passage correctly above[3800], Q[124], A[3] and[3801] Q[152], A[5]].
+
 ## Replies
+
 Reply to Objection 1: The counsel of obedience was included in the very following of Christ, since to obey is to follow another's will. Consequently it is more pertinent to perfection than the vow of poverty, because as Jerome, commenting on Mat. 19:27, "Behold we have left all things," observes, "Peter added that which is perfect when he said: And have followed Thee."
+
 Reply to Objection 2: The words quoted mean that continence is to be preferred, not to all other acts of virtue, but to conjugal chastity, or to external riches of gold and silver which are measured by weight [*'Pondere,' referring to the Latin 'ponderatio' in the Vulgate, which the Douay version renders 'price.']. Or again continence is taken in a general sense for abstinence from ali evil, as stated above ([3802]Q[155], A[4], ad 1).
+
 Reply to Objection 3: The Pope cannot dispense a religious from his vow of obedience so as to release him from obedience to every superior in matters relating to the perfection of life, for he cannot exempt him from obedience to himself. He can, however, exempt him from subjection to a lower superior, but this is not to dispense him from his vow of obedience.

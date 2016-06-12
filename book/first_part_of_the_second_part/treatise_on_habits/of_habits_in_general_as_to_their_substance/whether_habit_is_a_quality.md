@@ -1,16 +1,27 @@
 # Whether Habit Is A Quality?
+
 ## Objections
+
 Objection 1: It would seem that habit is not a quality. For Augustine says (QQ. lxxxiii, qu. 73): "this word 'habit' is derived from the verb 'to have.'" But "to have" belongs not only to quality, but also to the other categories: for we speak of ourselves as "having" quantity and money and other like things. Therefore habit is not a quality.
+
 Objection 2: Further, habit is reckoned as one of the predicaments; as may be clearly seen in the Book of the Predicaments (Categor. vi). But one predicament is not contained under another. Therefore habit is not a quality.
+
 Objection 3: Further, "every habit is a disposition," as is stated in the Book of the Predicaments (Categor. vi). Now disposition is "the order of that which has parts," as stated in Metaph. v, text. 24. But this belongs to the predicament Position. Therefore habit is not a quality.
+
 ## Answer
+
 On the contrary, The Philosopher says in the Book of Predicaments (Categor. vi) that "habit is a quality which is difficult to change."
+
 I answer that, This word "habitus" [habit] is derived from "habere" [to have]. Now habit is taken from this word in two ways; in one way, inasmuch as man, or any other thing, is said to "have" something; in another way, inasmuch as a particular thing has a relation [se habet] either in regard to itself, or in regard to something else.
 
 Concerning the first, we must observe that "to have," as said in regard to anything that is "had," is common to the various predicaments. And so the Philosopher puts "to have" among the "post-predicaments," so called because they result from the various predicaments; as, for instance, opposition, priority, posterity, and such like. Now among things which are had, there seems to be this distinction, that there are some in which there is no medium between the "haver" and that which is had: as, for instance, there is no medium between the subject and quality or quantity. Then there are some in which there is a medium, but only a relation: as, for instance, a man is said to have a companion or a friend. And, further, there are some in which there is a medium, not indeed an action or passion, but something after the manner of action or passion: thus, for instance, something adorns or covers, and something else is adorned or covered: wherefore the Philosopher says (Metaph. v, text. 25) that "a habit is said to be, as it were, an action or a passion of the haver and that which is had"; as is the case in those things which we have about ourselves. And therefore these constitute a special genus of things, which are comprised under the predicament of "habit": of which the Philosopher says (Metaph. v, text. 25) that "there is a habit between clothing and the man who is clothed."
 
 But if "to have" be taken according as a thing has a relation in regard to itself or to something else; in that case habit is a quality; since this mode of having is in respect of some quality: and of this the Philosopher says (Metaph. v, text. 25) that "habit is a disposition whereby that which is disposed is disposed well or ill, and this, either in regard to itself or in regard to another: thus health is a habit." And in this sense we speak of habit now. Wherefore we must say that habit is a quality.
+
 ## Replies
+
 Reply to Objection 1: This argument takes "to have" in the general sense: for thus it is common to many predicaments, as we have said.
+
 Reply to Objection 2: This argument takes habit in the sense in which we understand it to be a medium between the haver, and that which is had: and in this sense it is a predicament, as we have said.
+
 Reply to Objection 3: Disposition does always, indeed, imply an order of that which has parts: but this happens in three ways, as the Philosopher goes on at once to says (Metaph. v, text. 25): namely, "either as to place, or as to power, or as to species." "In saying this," as Simplicius observes in his Commentary on the Predicaments, "he includes all dispositions: bodily dispositions, when he says 'as to place,'" and this belongs to the predicament "Position," which is the order of parts in a place: "when he says 'as to power,' he includes all those dispositions which are in course of formation and not yet arrived at perfect usefulness," such as inchoate science and virtue: "and when he says, 'as to species,' he includes perfect dispositions, which are called habits," such as perfected science and virtue.

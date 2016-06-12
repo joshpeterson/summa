@@ -1,16 +1,31 @@
 # Whether Two Species Of Justice Are Suitably Assigned, Viz. Commutative And Distributive?
+
 ## Objections
+
 Objection 1: It would seem that the two species of justice are unsuitably assigned, viz. distributive and commutative. That which is hurtful to the many cannot be a species of justice, since justice is directed to the common good. Now it is hurtful to the common good of the many, if the goods of the community are distributed among many, both because the goods of the community would be exhausted, and because the morals of men would be corrupted. For Tully says (De Offic. ii, 15): "He who receives becomes worse, and the more ready to expect that he will receive again." Therefore distribution does not belong to any species of justice.
+
 Objection 2: Further, the act of justice is to render to each one what is his own, as stated above ([2883]Q[58], A[2]). But when things are distributed, a man does not receive what was his, but becomes possessed of something which belonged to the community. Therefore this does not pertain to justice.
+
 Objection 3: Further, justice is not only in the sovereign, but also in the subject, as stated above ([2884]Q[58], A[6]). But it belongs exclusively to the sovereign to distribute. Therefore distribution does not always belong to justice.
+
 Objection 4: Further, "Distributive justice regards common goods" (Ethic. v, 4). Now matters regarding the community pertain to legal justice. Therefore distributive justice is a part, not of particular, but of legal justice.
+
 Objection 5: Further, unity or multitude do not change the species of a virtue. Now commutative justice consists in rendering something to one person, while distributive justice consists in giving something to many. Therefore they are not different species of justice.
+
 ## Answer
+
 On the contrary, The Philosopher assigns two parts to justice and says (Ethic. v, 2) that "one directs distributions, the other, commutations."
+
 I answer that, As stated above ([2885]Q[58], AA[7],8), particular justice is directed to the private individual, who is compared to the community as a part to the whole. Now a twofold order may be considered in relation to a part. In the first place there is the order of one part to another, to which corresponds the order of one private individual to another. This order is directed by commutative justice, which is concerned about the mutual dealings between two persons. In the second place there is the order of the whole towards the parts, to which corresponds the order of that which belongs to the community in relation to each single person. This order is directed by distributive justice, which distributes common goods proportionately. Hence there are two species of justice, distributive and commutative.
+
 ## Replies
+
 Reply to Objection 1: Just as a private individual is praised for moderation in his bounty, and blamed for excess therein, so too ought moderation to be observed in the distribution of common goods, wherein distributive justice directs.
+
 Reply to Objection 2: Even as part and whole are somewhat the same, so too that which pertains to the whole, pertains somewhat to the part also: so that when the goods of the community are distributed among a number of individuals each one receives that which, in a way, is his own.
+
 Reply to Objection 3: The act of distributing the goods of the community, belongs to none but those who exercise authority over those goods; and yet distributive justice is also in the subjects to whom those goods are distributed in so far as they are contented by a just distribution. Moreover distribution of common goods is sometimes made not to the state but to the members of a family, and such distribution can be made by authority of a private individual.
+
 Reply to Objection 4: Movement takes its species from the term "whereunto." Hence it belongs to legal justice to direct to the common good those matters which concern private individuals: whereas on the contrary it belongs to particular justice to direct the common good to particular individuals by way of distribution.
+
 Reply to Objection 5: Distributive and commutative justice differ not only in respect of unity and multitude, but also in respect of different kinds of due: because common property is due to an individual in one way, and his personal property in another way.

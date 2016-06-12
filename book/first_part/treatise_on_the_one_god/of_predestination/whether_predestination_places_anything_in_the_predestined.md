@@ -1,14 +1,27 @@
 # Whether Predestination Places Anything In The Predestined?
+
 ## Objections
+
 Objection 1: It seems that predestination does place something in the predestined. For every action of itself causes passion. If therefore predestination is action in God, predestination must be passion in the predestined.
+
 Objection 2: Further, Origen says on the text, "He who was predestined," etc. (Rom. 1:4): "Predestination is of one who is not; destination, of one who is." And Augustine says (De Praed. Sanct.): "What is predestination but the destination of one who is?" Therefore predestination is only of one who actually exists; and it thus places something in the predestined.
+
 Objection 3: Further, preparation is something in the thing prepared. But predestination is the preparation of God's benefits, as Augustine says (De Praed. Sanct. ii, 14). Therefore predestination is something in the predestined.
+
 Objection 4: Further, nothing temporal enters into the definition of eternity. But grace, which is something temporal, is found in the definition of predestination. For predestination is the preparation of grace in the present; and of glory in the future. Therefore predestination is not anything eternal. So it must needs be that it is in the predestined, and not in God; for whatever is in Him is eternal.
+
 ## Answer
+
 On the contrary, Augustine says (De Praed. Sanct. ii, 14) that "predestination is the foreknowledge of God's benefits." But foreknowledge is not in the things foreknown, but in the person who foreknows them. Therefore, predestination is in the one who predestines, and not in the predestined.
+
 I answer that, Predestination is not anything in the predestined; but only in the person who predestines. We have said above that predestination is a part of providence. Now providence is not anything in the things provided for; but is a type in the mind of the provider, as was proved above ([169]Q[22], A[1]). But the execution of providence which is called government, is in a passive way in the thing governed, and in an active way in the governor. Whence it is clear that predestination is a kind of type of the ordering of some persons towards eternal salvation, existing in the divine mind. The execution, however, of this order is in a passive way in the predestined, but actively in God. The execution of predestination is the calling and magnification; according to the Apostle (Rom. 8:30): "Whom He predestined, them He also called and whom He called, them He also magnified [Vulg. 'justified']."
+
 ## Replies
+
 Reply to Objection 1: Actions passing out to external matter imply of themselves passion---for example, the actions of warming and cutting; but not so actions remaining in the agent, as understanding and willing, as said above ([170]Q[14], A[2]; [171]Q[18], A[3], ad 1). Predestination is an action of this latter class. Wherefore, it does not put anything in the predestined. But its execution, which passes out to external things, has an effect in them.
+
 Reply to Objection 2: Destination sometimes denotes a real mission of someone to a given end; thus, destination can only be said of someone actually existing. It is taken, however, in another sense for a mission which a person conceives in the mind; and in this manner we are said to destine a thing which we firmly propose in our mind. In this latter way it is said that Eleazar "determined not to do any unlawful things for the love of life" (2 Macc. 6:20). Thus destination can be of a thing which does not exist. Predestination, however, by reason of the antecedent nature it implies, can be attributed to a thing which does not actually exist; in whatsoever way destination is accepted.
+
 Reply to Objection 3: Preparation is twofold: of the patient in respect to passion and this is in the thing prepared; and of the agent to action, and this is in the agent. Such a preparation is predestination, and as an agent by intellect is said to prepare itself to act, accordingly as it preconceives the idea of what is to be done. Thus, God from all eternity prepared by predestination, conceiving the idea of the order of some towards salvation.
+
 Reply to Objection 4: Grace does not come into the definition of predestination, as something belonging to its essence, but inasmuch as predestination implies a relation to grace, as of cause to effect, and of act to its object. Whence it does not follow that predestination is anything temporal.

@@ -1,12 +1,23 @@
 # Whether Military Prudence Should Be Reckoned A Part Of Prudence?
+
 ## Objections
+
 Objection 1: It would seem that military prudence should not be reckoned a part of prudence. For prudence is distinct from art, according to Ethic. vi, 3. Now military prudence seems to be the art of warfare, according to the Philosopher (Ethic. iii, 8). Therefore military prudence should not be accounted a species of prudence.
+
 Objection 2: Further, just as military business is contained under political affairs, so too are many other matters, such as those of tradesmen, craftsmen, and so forth. But there are no species of prudence corresponding to other affairs in the state. Neither therefore should any be assigned to military business.
+
 Objection 3: Further, the soldiers' bravery counts for a great deal in warfare. Therefore military prudence pertains to fortitude rather than to prudence.
+
 ## Answer
+
 On the contrary, It is written (Prov. 24:6): "War is managed by due ordering, and there shall be safety where there are many counsels." Now it belongs to prudence to take counsel. Therefore there is great need in warfare for that species of prudence which is called "military."
+
 I answer that, Whatever things are done according to art or reason, should be made to conform to those which are in accordance with nature, and are established by the Divine Reason. Now nature has a twofold tendency: first, to govern each thing in itself, secondly, to withstand outward assailants and corruptives: and for this reason she has provided animals not only with the concupiscible faculty, whereby they are moved to that which is conducive to their well-being, but also with the irascible power, whereby the animal withstands an assailant. Therefore in those things also which are in accordance with reason, there should be not only "political" prudence, which disposes in a suitable manner such things as belong to the common good, but also a "military" prudence, whereby hostile attacks are repelled.
+
 ## Replies
+
 Reply to Objection 1: Military prudence may be an art, in so far as it has certain rules for the right use of certain external things, such as arms and horses, but in so far as it is directed to the common good, it belongs rather to prudence.
+
 Reply to Objection 2: Other matters in the state are directed to the profit of individuals, whereas the business of soldiering is directed to the service belongs to fortitude, but the direction, protection of the entire common good.
+
 Reply to Objection 3: The execution of military service belongs to fortitude, but the direction, especially in so far as it concerns the commander-in-chief, belongs to prudence.

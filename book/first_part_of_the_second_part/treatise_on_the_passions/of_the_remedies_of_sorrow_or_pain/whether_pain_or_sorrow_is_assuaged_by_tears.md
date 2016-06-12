@@ -1,12 +1,23 @@
 # Whether Pain Or Sorrow Is Assuaged By Tears?
+
 ## Objections
+
 Objection 1: It would seem that tears do not assuage sorrow. Because no effect diminishes its cause. But tears or groans are an effect of sorrow. Therefore they do not diminish sorrow.
+
 Objection 2: Further, just as tears or groans are an effect of sorrow, so laughter is an effect of joy. But laughter does not lessen joy. Therefore tears do not lessen sorrow.
+
 Objection 3: Further, when we weep, the evil that saddens us is present to the imagination. But the image of that which saddens us increases sorrow, just as the image of a pleasant thing adds to joy. Therefore it seems that tears do not assuage sorrow.
+
 ## Answer
+
 On the contrary, Augustine says (Confess. iv, 7) that when he mourned the death of his friend, "in groans and in tears alone did he find some little refreshment."
+
 I answer that, Tears and groans naturally assuage sorrow: and this for two reasons. First, because a hurtful thing hurts yet more if we keep it shut up, because the soul is more intent on it: whereas if it be allowed to escape, the soul's intention is dispersed as it were on outward things, so that the inward sorrow is lessened. This is why men, burdened with sorrow, make outward show of their sorrow, by tears or groans or even by words, their sorrow is assuaged. Secondly, because an action, that befits a man according to his actual disposition, is always pleasant to him. Now tears and groans are actions befitting a man who is in sorrow or pain; and consequently they become pleasant to him. Since then, as stated above [1330](A[1]), every pleasure assuages sorrow or pain somewhat, it follows that sorrow is assuaged by weeping and groans.
+
 ## Replies
+
 Reply to Objection 1: This relation of the cause to effect is opposed to the relation existing between the cause of sorrow and the sorrowing man. For every effect is suited to its cause, and consequently is pleasant to it; but the cause of sorrow is disagreeable to him that sorrows. Hence the effect of sorrow is not related to him that sorrows in the same way as the cause of sorrow is. For this reason sorrow is assuaged by its effect, on account of the aforesaid contrariety.
+
 Reply to Objection 2: The relation of effect to cause is like the relation of the object of pleasure to him that takes pleasure in it: because in each case the one agrees with the other. Now every like thing increases its like. Therefore joy is increased by laughter and the other effects of joy: except they be excessive, in which case, accidentally, they lessen it.
+
 Reply to Objection 3: The image of that which saddens us, considered in itself, has a natural tendency to increase sorrow: yet from the very fact that a man imagines himself to be doing that which is fitting according to his actual state, he feels a certain amount of pleasure. For the same reason if laughter escapes a man when he is so disposed that he thinks he ought to weep, he is sorry for it, as having done something unbecoming to him, as Cicero says (De Tusc. Quaest. iii, 27).

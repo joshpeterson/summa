@@ -1,12 +1,23 @@
 # Whether "Epikeia" Is A Virtue?
+
 ## Objections
+
 Objection 1: It seems that "epikeia" is not a virtue. For no virtue does away with another virtue. Yet "epikeia" does away with another virtue, since it sets aside that which is just according to law, and seemingly is opposed to severity. Therefore "epikeia" is not a virtue.
+
 Objection 2: Further, Augustine says (De Vera Relig. xxxi): "With regard to these earthly laws, although men pass judgment on them when they make them, yet, when once they are made and established, the judge must pronounce judgment not on them but according to them." But seemingly "epikeia" pronounces judgment on the law, when it deems that the law should not be observed in some particular case. Therefore "epikeia" is a vice rather than a virtue.
+
 Objection 3: Further, apparently it belongs to "epikeia" to consider the intention of the lawgiver, as the Philosopher states (Ethic. v, 10). But it belongs to the sovereign alone to interpret the intention of the lawgiver, wherefore the Emperor says in the Codex of Laws and Constitutions, under Law i: "It is fitting and lawful that We alone should interpret between equity and law." Therefore the act of "epikeia" is unlawful: and consequently "epikeia" is not a virtue.
+
 ## Answer
+
 On the contrary, The Philosopher (Ethic. v, 10) states it to be a virtue.
+
 I answer that, As stated above ([3261]FS, Q[96], A[6]), when we were treating of laws, since human actions, with which laws are concerned, are composed of contingent singulars and are innumerable in their diversity, it was not possible to lay down rules of law that would apply to every single case. Legislators in framing laws attend to what commonly happens: although if the law be applied to certain cases it will frustrate the equality of justice and be injurious to the common good, which the law has in view. Thus the law requires deposits to be restored, because in the majority of cases this is just. Yet it happens sometimes to be injurious---for instance, if a madman were to put his sword in deposit, and demand its delivery while in a state of madness, or if a man were to seek the return of his deposit in order to fight against his country. In these and like cases it is bad to follow the law, and it is good to set aside the letter of the law and to follow the dictates of justice and the common good. This is the object of "epikeia" which we call equity. Therefore it is evident that "epikeia" is a virtue.
+
 ## Replies
+
 Reply to Objection 1: "Epikeia" does not set aside that which is just in itself but that which is just as by law established. Nor is it opposed to severity, which follows the letter of the law when it ought to be followed. To follow the letter of the law when it ought not to be followed is sinful. Hence it is written in the Codex of Laws and Constitutions under Law v: "Without doubt he transgresses the law who by adhering to the letter of the law strives to defeat the intention of the lawgiver."
+
 Reply to Objection 2: It would be passing judgment on a law to say that it was not well made; but to say that the letter of the law is not to be observed in some particular case is passing judgment not on the law, but on some particular contingency.
+
 Reply to Objection 3: Interpretation is admissible in doubtful cases where it is not allowed to set aside the letter of the law without the interpretation of the sovereign. But when the case is manifest there is need, not of interpretation, but of execution.

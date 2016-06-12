@@ -1,12 +1,23 @@
 # Whether Christ Was Of Necessity Subject To These Defects?
+
 ## Objections
+
 Objection 1: It would seem that Christ was not of necessity subject to these defects. For it is written (Is. 53:7): "He was offered because it was His own will"; and the prophet is speaking of the offering of the Passion. But will is opposed to necessity. Therefore Christ was not of necessity subject to bodily defects.
+
 Objection 2: Further, Damascene says (De Fide Orth. iii, 20): "Nothing obligatory is seen in Christ: all is voluntary." Now what is voluntary is not necessary. Therefore these defects were not of necessity in Christ.
+
 Objection 3: Further, necessity is induced by something more powerful. But no creature is more powerful than the soul of Christ, to which it pertained to preserve its own body. Therefore these defects were not of necessity in Christ.
+
 ## Answer
+
 On the contrary, The Apostle says (Rom. 8:3) that "God" sent "His own Son in the likeness of sinful flesh." Now it is a condition of sinful flesh to be under the necessity of dying, and suffering other like passions. Therefore the necessity of suffering these defects was in Christ's flesh.
+
 I answer that, Necessity is twofold. one is a necessity of "constraint," brought about by an external agent; and this necessity is contrary to both nature and will, since these flow from an internal principle. The other is "natural" necessity, resulting from the natural principles---either the form (as it is necessary for fire to heat), or the matter (as it is necessary for a body composed of contraries to be dissolved). Hence, with this necessity, which results from the matter, Christ's body was subject to the necessity of death and other like defects, since, as was said (A[1], ad 2), "it was by the consent of the Divine will that the flesh was allowed to do and suffer what belonged to it." And this necessity results from the principles of human nature, as was said above in this article. But if we speak of necessity of constraint, as repugnant to the bodily nature, thus again was Christ's body in its own natural condition subject to necessity in regard to the nail that pierced and the scourge that struck. Yet inasmuch as such necessity is repugnant to the will, it is clear that in Christ these defects were not of necessity as regards either the Divine will, or the human will of Christ considered absolutely, as following the deliberation of reason; but only as regards the natural movement of the will, inasmuch as it naturally shrinks from death and bodily hurt.
+
 ## Replies
+
 Reply to Objection 1: Christ is said to be "offered because it was His own will," i.e. Divine will and deliberate human will; although death was contrary to the natural movement of His human will, as Damascene says (De Fide Orth. iii, 23,24).
+
 Reply to Objection 2: This is plain from what has been said.
+
 Reply to Objection 3: Nothing was more powerful than Christ's soul, absolutely; yet there was nothing to hinder a thing being more powerful in regard to this or that effect, as a nail for piercing. And this I say, in so far as Christ's soul is considered in its own proper nature and power.

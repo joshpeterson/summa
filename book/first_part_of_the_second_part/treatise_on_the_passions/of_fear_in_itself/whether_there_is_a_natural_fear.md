@@ -1,10 +1,17 @@
 # Whether There Is A Natural Fear?
+
 ## Objections
+
 Objection 1: It would seem that there is a natural fear. For Damascene says (De Fide Orth. iii, 23) that "there is a natural fear, through the soul refusing to be severed from the body."
+
 Objection 2: Further, fear arises from love, as stated above (A[2], ad 1). But there is a natural love, as Dionysius says (Div. Nom. iv). Therefore there is also a natural fear.
+
 Objection 3: Further, fear is opposed to hope, as stated above ([1371]Q[40], A[4], ad 1). But there is a hope of nature, as is evident from Rom. 4:18, where it is said of Abraham that "against hope" of nature, "he believed in hope" of grace. Therefore there is also a fear of nature.
+
 ## Answer
+
 On the contrary, That which is natural is common to things animate and inanimate. But fear is not in things inanimate. Therefore there is no natural fear.
+
 I answer that, A movement is said to be natural, because nature inclines thereto. Now this happens in two ways. First, so that it is entirely accomplished by nature, without any operation of the apprehensive faculty: thus to have an upward movement is natural to fire, and to grow is the natural movement of animals and plants. Secondly, a movement is said to be natural, if nature inclines thereto, though it be accomplished by the apprehensive faculty alone: since, as stated above ([1372]Q[10], A[1]), the movements of the cognitive and appetitive faculties are reducible to nature as to their first principle. In this way, even the acts of the apprehensive power, such as understanding, feeling, and remembering, as well as the movements of the animal appetite, are sometimes said to be natural.
 
 And in this sense we may say that there is a natural fear; and it is distinguished from non-natural fear, by reason of the diversity of its object. For, as the Philosopher says (Rhet. ii, 5), there is a fear of "corruptive evil," which nature shrinks from on account of its natural desire to exist; and such fear is said to be natural. Again, there is a fear of "painful evil," which is repugnant not to nature, but to the desire of the appetite; and such fear is not natural. In this sense we have stated above ([1373]Q[26], A[1];[1374] Q[30], A[3];[1375] Q[31], A[7]) that love, desire, and pleasure are divisible into natural and non-natural.

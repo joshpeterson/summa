@@ -1,14 +1,25 @@
 # Whether Anything Is Annihilated?
+
 ## Objections
+
 Objection 1: It would seem that something is annihilated. For the end corresponds to the beginning. But in the beginning there was nothing but God. Therefore all things must tend to this end, that there shall be nothing but God. Therefore creatures will be reduced to nothing.
+
 Objection 2: Further, every creature has a finite power. But no finite power extends to the infinite. Wherefore the Philosopher proves (Phys. viii, 10) that, "a finite power cannot move in infinite time." Therefore a creature cannot last for an infinite duration; and so at some time it will be reduced to nothing.
+
 Objection 3: Further, forms and accidents have no matter as part of themselves. But at some time they cease to exist. Therefore they are reduced to nothing.
+
 ## Answer
+
 On the contrary, It is written (Eccles. 3:14): "I have learned that all the works that God hath made continue for ever."
+
 I answer that, Some of those things which God does in creatures occur in accordance with the natural course of things; others happen miraculously, and not in accordance with the natural order, as will be explained ([840]Q[105], A[6]). Now whatever God wills to do according to the natural order of things may be observed from their nature; but those things which occur miraculously, are ordered for the manifestation of grace, according to the Apostle, "To each one is given the manifestation of the Spirit, unto profit" (1 Cor. 12:7); and subsequently he mentions, among others, the working of miracles.
 
 Now the nature of creatures shows that none of them is annihilated. For, either they are immaterial, and therefore have no potentiality to non-existence; or they are material, and then they continue to exist, at least in matter, which is incorruptible, since it is the subject of generation and corruption. Moreover, the annihilation of things does not pertain to the manifestation of grace; since rather the power and goodness of God are manifested by the preservation of things in existence. Wherefore we must conclude by denying absolutely that anything at all will be annihilated.
+
 ## Replies
+
 Reply to Objection 1: That things are brought into existence from a state of non-existence, clearly shows the power of Him Who made them; but that they should be reduced to nothing would hinder that manifestation, since the power of God is conspicuously shown in His preserving all things in existence, according to the Apostle: "Upholding all things by the word of His power" (Heb. 1:3).
+
 Reply to Objection 2: A creature's potentiality to existence is merely receptive; the active power belongs to God Himself, from Whom existence is derived. Wherefore the infinite duration of things is a consequence of the infinity of the Divine power. To some things, however, is given a determinate power of duration for a certain time, so far as they may be hindered by some contrary agent from receiving the influx of existence which comes from Him Whom finite power cannot resist, for an infinite, but only for a fixed time. So things which have no contrary, although they have a finite power, continue to exist for ever.
+
 Reply to Objection 3: Forms and accidents are not complete beings, since they do not subsist: but each one of them is something "of a being"; for it is called a being, because something is by it. Yet so far as their mode of existence is concerned, they are not entirely reduced to nothingness; not that any part of them survives, but that they remain in the potentiality of the matter, or of the subject.

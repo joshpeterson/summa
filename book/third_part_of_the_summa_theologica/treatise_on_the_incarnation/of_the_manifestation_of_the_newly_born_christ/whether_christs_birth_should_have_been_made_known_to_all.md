@@ -1,16 +1,27 @@
 # Whether Christ's Birth Should Have Been Made Known To All?
+
 ## Objections
+
 Objection 1: It would seem that Christ's birth should have been made known to all. Because fulfilment should correspond to promise. Now, the promise of Christ's coming is thus expressed (Ps. 49:3): "God shall come manifestly. But He came by His birth in the flesh." Therefore it seems that His birth should have been made known to the whole world.
+
 Objection 2: Further, it is written (1 Tim. 1:15): "Christ came into this world to save sinners." But this is not effected save in as far as the grace of Christ is made known to them; according to Titus 2:11,12: "The grace of God our Saviour hath appeared to all men, instructing us, that denying ungodliness and worldly desires, we should live soberly, and justly, and godly in this world." Therefore it seems that Christ's birth should have been made known to all.
+
 Objection 3: Further, God is most especially inclined to mercy; according to Ps. 144:9: "His tender mercies are over all His works." But in His second coming, when He will "judge justices" (Ps. 70:3), He will come before the eyes of all; according to Mat. 24:27: "As lightning cometh out of the east, and appeareth even into the west, so shall also the coming of the Son of Man be." Much more, therefore, should His first coming, when He was born into the world according to the flesh, have been made known to all.
+
 ## Answer
+
 On the contrary, It is written (Is. 45:15): "Thou art a hidden God, the Holy [Vulg.: 'the God] of Israel, the Saviour." And, again (Is. 43:3): "His look was, as it were, hidden and despised."
+
 I answer that, It was unfitting that Christ's birth should be made known to all men without distinction. First, because this would have been a hindrance to the redemption of man, which was accomplished by means of the Cross; for, as it is written (1 Cor. 2:8): "If they had known it, they would never have crucified the Lord of glory."
 
 Secondly, because this would have lessened the merit of faith, which He came to offer men as the way to righteousness. according to Rom. 3:22: "The justice of God by faith of Jesus Christ." For if, when Christ was born, His birth had been made known to all by evident signs, the very nature of faith would have been destroyed, since it is "the evidence of things that appear not," as stated, Heb. 11:1.
 
 Thirdly, because thus the reality of His human nature would have come into doubt. Whence Augustine says (Ep. ad Volusianum cxxxvii): "If He had not passed through the different stages of age from babyhood to youth, had neither eaten nor slept, would He not have strengthened an erroneous opinion, and made it impossible for us to believe that He had become true man? And while He is doing all things wondrously, would He have taken away that which He accomplished in mercy?"
+
 ## Replies
+
 Reply to Objection 1: According to the gloss, the words quoted must be understood of Christ's coming as judge.
+
 Reply to Objection 2: All men were to be instructed unto salvation, concerning the grace of God our Saviour, not at the very time of His birth, but afterwards, in due time, after He had "wrought salvation in the midst of the earth" (Ps. 73:12). Wherefore after His Passion and Resurrection, He said to His disciples (Mat. 28:19): "Going . . . teach ye all nations."
+
 Reply to Objection 3: For judgment to be passed, the authority of the judge needs to be known: and for this reason it behooves that the coming of Christ unto judgment should be manifest. But His first coming was unto the salvation of all, which is by faith that is of things not seen. And therefore it was fitting that His first coming should be hidden.

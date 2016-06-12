@@ -1,12 +1,23 @@
 # Whether For The Justification Of The Ungodly Is Required A Movement Of The Free-will?
+
 ## Objections
+
 Objection 1: It would seem that no movement of the free-will is required for the justification of the ungodly. For we see that by the sacrament of Baptism, infants and sometimes adults are justified without a movement of their free-will: hence Augustine says (Confess. iv) that when one of his friends was taken with a fever, "he lay for a long time senseless and in a deadly sweat, and when he was despaired of, he was baptized without his knowing, and was regenerated"; which is effected by sanctifying grace. Now God does not confine His power to the sacraments. Hence He can justify a man without the sacraments, and without any movement of the free-will.
+
 Objection 2: Further, a man has not the use of reason when asleep, and without it there can be no movement of the free-will. But Solomon received from God the gift of wisdom when asleep, as related in 3 Kings 3 and 2 Paral 1. Hence with equal reason the gift of sanctifying grace is sometimes bestowed by God on man without the movement of his free-will.
+
 Objection 3: Further, grace is preserved by the same cause as brings it into being, for Augustine says (Gen. ad lit. viii, 12) that "so ought man to turn to God as he is ever made just by Him." Now grace is preserved in man without a movement of his free-will. Hence it can be infused in the beginning without a movement of the free-will.
+
 ## Answer
+
 On the contrary, It is written (Jn. 6:45): "Every one that hath heard of the Father, and hath learned, cometh to Me." Now to learn cannot be without a movement of the free-will, since the learner assents to the teacher. Hence, no one comes to the Father by justifying grace without a movement of the free-will.
+
 I answer that, The justification of the ungodly is brought about by God moving man to justice. For He it is "that justifieth the ungodly" according to Rom. 4:5. Now God moves everything in its own manner, just as we see that in natural things, what is heavy and what is light are moved differently, on account of their diverse natures. Hence He moves man to justice according to the condition of his human nature. But it is man's proper nature to have free-will. Hence in him who has the use of reason, God's motion to justice does not take place without a movement of the free-will; but He so infuses the gift of justifying grace that at the same time He moves the free-will to accept the gift of grace, in such as are capable of being moved thus.
+
 ## Replies
+
 Reply to Objection 1: Infants are not capable of the movement of their free-will; hence it is by the mere infusion of their souls that God moves them to justice. Now this cannot be brought about without a sacrament; because as original sin, from which they are justified, does not come to them from their own will, but by carnal generation, so also is grace given them by Christ through spiritual regeneration. And the same reason holds good with madmen and idiots that have never had the use of their free-will. But in the case of one who has had the use of his free-will and afterwards has lost it either through sickness or sleep, he does not obtain justifying grace by the exterior rite of Baptism, or of any other sacrament, unless he intended to make use of this sacrament, and this can only be by the use of his free-will. And it was in this way that he of whom Augustine speaks was regenerated, because both previously and afterwards he assented to the Baptism.
+
 Reply to Objection 2: Solomon neither merited nor received wisdom whilst asleep; but it was declared to him in his sleep that on account of his previous desire wisdom would be infused into him by God. Hence it is said in his person (Wis. 7:7): "I wished, and understanding was given unto me."
+
 Reply to Objection 3: In the infusion of justifying grace there is a certain transmutation of the human soul, and hence a proper movement of the human soul is required in order that the soul may be moved in its own manner. But the conservation of grace is without transmutation: no movement on the part of the soul is required but only a continuation of the Divine influx.

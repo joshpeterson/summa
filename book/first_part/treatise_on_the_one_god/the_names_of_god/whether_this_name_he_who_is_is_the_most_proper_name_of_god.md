@@ -1,10 +1,17 @@
 # Whether This Name, He Who Is, Is The Most Proper Name Of God?
+
 ## Objections
+
 Objection 1: It seems that this name HE WHO IS is not the most proper name of God. For this name "God" is an incommunicable name. But this name HE WHO IS, is not an incommunicable name. Therefore this name HE WHO IS is not the most proper name of God.
+
 Objection 2: Further, Dionysius says (Div. Nom. iii) that "the name of good excellently manifests all the processions of God." But it especially belongs to God to be the universal principle of all things. Therefore this name "good" is supremely proper to God, and not this name HE WHO IS.
+
 Objection 3: Further, every divine name seems to imply relation to creatures, for God is known to us only through creatures. But this name HE WHO IS imports no relation to creatures. Therefore this name HE WHO IS is not the most applicable to God.
+
 ## Answer
+
 On the contrary, It is written that when Moses asked, "If they should say to me, What is His name? what shall I say to them?" The Lord answered him, "Thus shalt thou say to them, HE WHO IS hath sent me to you" (Ex. 3:13,14). Therefor this name HE WHO IS most properly belongs to God.
+
 I answer that, This name HE WHO IS is most properly applied to God, for three reasons:
 
 First, because of its signification. For it does not signify form, but simply existence itself. Hence since the existence of God is His essence itself, which can be said of no other ([74]Q[3], A[4]), it is clear that among other names this one specially denominates God, for everything is denominated by its form.
@@ -12,7 +19,11 @@ First, because of its signification. For it does not signify form, but simply ex
 Secondly, on account of its universality. For all other names are either less universal, or, if convertible with it, add something above it at least in idea; hence in a certain way they inform and determine it. Now our intellect cannot know the essence of God itself in this life, as it is in itself, but whatever mode it applies in determining what it understands about God, it falls short of the mode of what God is in Himself. Therefore the less determinate the names are, and the more universal and absolute they are, the more properly they are applied to God. Hence Damascene says (De Fide Orth. i) that, "HE WHO IS, is the principal of all names applied to God; for comprehending all in itself, it contains existence itself as an infinite and indeterminate sea of substance." Now by any other name some mode of substance is determined, whereas this name HE WHO IS, determines no mode of being, but is indeterminate to all; and therefore it denominates the "infinite ocean of substance."
 
 Thirdly, from its consignification, for it signifies present existence; and this above all properly applies to God, whose existence knows not past or future, as Augustine says (De Trin. v).
+
 ## Replies
+
 Reply to Objection 1: This name HE WHO IS is the name of God more properly than this name "God," as regards its source, namely, existence; and as regards the mode of signification and consignification, as said above. But as regards the object intended by the name, this name "God" is more proper, as it is imposed to signify the divine nature; and still more proper is the Tetragrammaton, imposed to signify the substance of God itself, incommunicable and, if one may so speak, singular.
+
 Reply to Objection 2: This name "good" is the principal name of God in so far as He is a cause, but not absolutely; for existence considered absolutely comes before the idea of cause.
+
 Reply to Objection 3: It is not necessary that all the divine names should import relation to creatures, but it suffices that they be imposed from some perfections flowing from God to creatures. Among these the first is existence, from which comes this name, HE WHO IS.

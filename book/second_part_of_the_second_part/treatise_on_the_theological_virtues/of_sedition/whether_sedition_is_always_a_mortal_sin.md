@@ -1,14 +1,25 @@
 # Whether Sedition Is Always A Mortal Sin?
+
 ## Objections
+
 Objection 1: It would seem that sedition is not always a mortal sin. For sedition denotes "a tumult tending to fight," according to the gloss quoted above [2670](A[1]). But fighting is not always a mortal sin, indeed it is sometimes just and lawful, as stated above (Q[40], A[1]). Much more, therefore, can sedition be without a mortal sin.
+
 Objection 2: Further, sedition is a kind of discord, as stated above (A[1], ad 3). Now discord can be without mortal sin, and sometimes without any sin at all. Therefore sedition can be also.
+
 Objection 3: Further, it is praiseworthy to deliver a multitude from a tyrannical rule. Yet this cannot easily be done without some dissension in the multitude, if one part of the multitude seeks to retain the tyrant, while the rest strive to dethrone him. Therefore there can be sedition without mortal sin.
+
 ## Answer
+
 On the contrary, The Apostle forbids seditions together with other things that are mortal sins (2 Cor. 12:20).
+
 I answer that, As stated above (A[1], ad 2), sedition is contrary to the unity of the multitude, viz. the people of a city or kingdom. Now Augustine says (De Civ. Dei ii, 21) that "wise men understand the word people to designate not any crowd of persons, but the assembly of those who are united together in fellowship recognized by law and for the common good." Wherefore it is evident that the unity to which sedition is opposed is the unity of law and common good: whence it follows manifestly that sedition is opposed to justice and the common good. Therefore by reason of its genus it is a mortal sin, and its gravity will be all the greater according as the common good which it assails surpasses the private good which is assailed by strife.
 
 Accordingly the sin of sedition is first and chiefly in its authors, who sin most grievously; and secondly it is in those who are led by them to disturb the common good. Those, however, who defend the common good, and withstand the seditious party, are not themselves seditious, even as neither is a man to be called quarrelsome because he defends himself, as stated above ([2671]Q[41], A[1]).
+
 ## Replies
+
 Reply to Objection 1: It is lawful to fight, provided it be for the common good, as stated above ([2672]Q[40], A[1]). But sedition runs counter to the common good of the multitude, so that it is always a mortal sin.
+
 Reply to Objection 2: Discord from what is not evidently good, may be without sin, but discord from what is evidently good, cannot be without sin: and sedition is discord of this kind, for it is contrary to the unity of the multitude, which is a manifest good.
+
 Reply to Objection 3: A tyrannical government is not just, because it is directed, not to the common good, but to the private good of the ruler, as the Philosopher states (Polit. iii, 5; Ethic. viii, 10). Consequently there is no sedition in disturbing a government of this kind, unless indeed the tyrant's rule be disturbed so inordinately, that his subjects suffer greater harm from the consequent disturbance than from the tyrant's government. Indeed it is the tyrant rather that is guilty of sedition, since he encourages discord and sedition among his subjects, that he may lord over them more securely; for this is tyranny, being conducive to the private good of the ruler, and to the injury of the multitude.

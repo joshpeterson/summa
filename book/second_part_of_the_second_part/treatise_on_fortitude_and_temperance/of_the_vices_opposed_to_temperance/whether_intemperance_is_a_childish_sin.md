@@ -1,12 +1,23 @@
 # Whether Intemperance Is A Childish Sin?
+
 ## Objections
+
 Objection 1: It would seem that intemperance is not a childish sin. For Jerome in commenting on Mat. 18:3, "Unless you be converted, and become as little children," says that "a child persists not in anger, is unmindful of injuries, takes no pleasure in seeing a beautiful woman," all of which is contrary to intemperance. Therefore intemperance is not a childish sin.
+
 Objection 2: Further, children have none but natural desires. Now "in respect of natural desires few sin by intemperance," according to the Philosopher (Ethic. iii, 11). Therefore intemperance is not a childish sin.
+
 Objection 3: Further, children should be fostered and nourished: whereas concupiscence and pleasure, about which intemperance is concerned, are always to be thwarted and uprooted, according to Col. 3:5, "Mortify . . . your members upon the earth, which are . . . concupiscence" [*Vulg.: 'your members which are upon the earth, fornication . . . concupiscence'], etc. Therefore intemperance is not a childish sin.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. iii, 12) that "we apply the term intemperance* to childish faults." [*{Akolasia} which Aristotle refers to {kolazo} to punish, so that its original sense would be 'impunity' or 'unrestraint.']
+
 I answer that, A thing is said to be childish for two reasons. First, because it is becoming to children, and the Philosopher does not mean that the sin of intemperance is childish in this sense. Secondly. by way of likeness, and it is in this sense that sins of intemperance are said to be childish. For the sin of intemperance is one of unchecked concupiscence, which is likened to a child in three ways. First, as rewards that which they both desire, for like a child concupiscence desires something disgraceful. This is because in human affairs a thing is beautiful according as it harmonizes with reason. Wherefore Tully says (De Offic. i, 27) under the heading "Comeliness is twofold," that "the beautiful is that which is in keeping with man's excellence in so far as his nature differs from other animals." Now a child does not attend to the order of reason; and in like manner "concupiscence does not listen to reason," according to Ethic. vii, 6. Secondly, they are alike as to the result. For a child, if left to his own will, becomes more self-willed: hence it is written (Ecclus. 30:8): "A horse not broken becometh stubborn, and a child left to himself will become headstrong." So, too, concupiscence, if indulged, gathers strength: wherefore Augustine says (Confess. viii, 5): "Lust served became a custom, and custom not resisted became necessity." Thirdly, as to the remedy which is applied to both. For a child is corrected by being restrained; hence it is written (Prov. 23:13,14): "Withhold not correction from a child . . . Thou shalt beat him with a rod, and deliver his soul from Hell." In like manner by resisting concupiscence we moderate it according to the demands of virtue. Augustine indicates this when he says (Music. vi, 11) that if the mind be lifted up to spiritual things, and remain fixed "thereon, the impulse of custom," i.e. carnal concupiscence, "is broken, and being suppressed is gradually weakened: for it was stronger when we followed it, and though not wholly destroyed, it is certainly less strong when we curb it." Hence the Philosopher says (Ethic. iii, 12) that "as a child ought to live according to the direction of his tutor, so ought the concupiscible to accord with reason."
+
 ## Replies
+
 Reply to Objection 1: This argument takes the term "childish" as denoting what is observed in children. It is not in this sense that the sin of intemperance is said to be childish, but by way of likeness, as stated above.
+
 Reply to Objection 2: A desire may be said to be natural in two ways. First, with regard to its genus, and thus temperance and intemperance are about natural desires, since they are about desires of food and sex, which are directed to the preservation of nature. Secondly, a desire may be called natural with regard to the species of the thing that nature requires for its own preservation; and in this way it does not happen often that one sins in the matter of natural desires, for nature requires only that which supplies its need, and there is no sin in desiring this, save only where it is desired in excess as to quantity. This is the only way in which sin can occur with regard to natural desires, according to the Philosopher (Ethic. iii, 11).
+
 Reply to Objection 3: That which regards nature should be nourished and fostered in children, but that which pertains to the lack of reason in them should not be fostered, but corrected, as stated above.

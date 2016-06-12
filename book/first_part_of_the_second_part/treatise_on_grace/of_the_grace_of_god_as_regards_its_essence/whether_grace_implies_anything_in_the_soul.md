@@ -1,16 +1,27 @@
 # Whether Grace Implies Anything In The Soul?
+
 ## Objections
+
 Objection 1: It would seem that grace does not imply anything in the soul. For man is said to have the grace of God even as the grace of man. Hence it is written (Gn. 39:21) that the Lord gave to Joseph "grace [Douay: 'favor'] in the sight of the chief keeper of the prison." Now when we say that a man has the favor of another, nothing is implied in him who has the favor of the other, but an acceptance is implied in him whose favor he has. Hence when we say that a man has the grace of God, nothing is implied in his soul; but we merely signify the Divine acceptance.
+
 Objection 2: Further, as the soul quickens the body so does God quicken the soul; hence it is written (Dt. 30:20): "He is thy life." Now the soul quickens the body immediately. Therefore nothing can come as a medium between God and the soul. Hence grace implies nothing created in the soul.
+
 Objection 3: Further, on Rom. 1:7, "Grace to you and peace," the gloss says: "Grace, i.e. the remission of sins." Now the remission of sin implies nothing in the soul, but only in God, Who does not impute the sin, according to Ps. 31:2: "Blessed is the man to whom the Lord hath not imputed sin." Hence neither does grace imply anything in the soul.
+
 ## Answer
+
 On the contrary, Light implies something in what is enlightened. But grace is a light of the soul; hence Augustine says (De Natura et Gratia xxii): "The light of truth rightly deserts the prevaricator of the law, and those who have been thus deserted become blind." Therefore grace implies something in the soul.
+
 I answer that, According to the common manner of speech, grace is usually taken in three ways. First, for anyone's love, as we are accustomed to say that the soldier is in the good graces of the king, i.e. the king looks on him with favor. Secondly, it is taken for any gift freely bestowed, as we are accustomed to say: I do you this act of grace. Thirdly, it is taken for the recompense of a gift given "gratis," inasmuch as we are said to be "grateful" for benefits. Of these three the second depends on the first, since one bestows something on another "gratis" from the love wherewith he receives him into his good "graces." And from the second proceeds the third, since from benefits bestowed "gratis" arises "gratitude."
 
 Now as regards the last two, it is clear that grace implies something in him who receives grace: first, the gift given gratis; secondly, the acknowledgment of the gift. But as regards the first, a difference must be noted between the grace of God and the grace of man; for since the creature's good springs from the Divine will, some good in the creature flows from God's love, whereby He wishes the good of the creature. On the other hand, the will of man is moved by the good pre-existing in things; and hence man's love does not wholly cause the good of the thing, but pre-supposes it either in part or wholly. Therefore it is clear that every love of God is followed at some time by a good caused in the creature, but not co-eternal with the eternal love. And according to this difference of good the love of God to the creature is looked at differently. For one is common, whereby He loves "all things that are" (Wis. 11:25), and thereby gives things their natural being. But the second is a special love, whereby He draws the rational creature above the condition of its nature to a participation of the Divine good; and according to this love He is said to love anyone simply, since it is by this love that God simply wishes the eternal good, which is Himself, for the creature.
 
 Accordingly when a man is said to have the grace of God, there is signified something bestowed on man by God. Nevertheless the grace of God sometimes signifies God's eternal love, as we say the grace of predestination, inasmuch as God gratuitously and not from merits predestines or elects some; for it is written (Eph. 1:5): "He hath predestinated us into the adoption of children . . . unto the praise of the glory of His grace."
+
 ## Replies
+
 Reply to Objection 1: Even when a man is said to be in another's good graces, it is understood that there is something in him pleasing to the other; even as anyone is said to have God's grace---with this difference, that what is pleasing to a man in another is presupposed to his love, but whatever is pleasing to God in a man is caused by the Divine love, as was said above.
+
 Reply to Objection 2: God is the life of the soul after the manner of an efficient cause; but the soul is the life of the body after the manner of a formal cause. Now there is no medium between form and matter, since the form, of itself, "informs" the matter or subject; whereas the agent "informs" the subject, not by its substance, but by the form, which it causes in the matter.
+
 Reply to Objection 3: Augustine says (Retract. i, 25): "When I said that grace was for the remission of sins, and peace for our reconciliation with God, you must not take it to mean that peace and reconciliation do not pertain to general peace, but that the special name of grace signifies the remission of sins." Not only grace, therefore, but many other of God's gifts pertain to grace. And hence the remission of sins does not take place without some effect divinely caused in us, as will appear later ([2188]Q[113], A[2]).

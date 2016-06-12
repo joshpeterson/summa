@@ -1,14 +1,25 @@
 # Whether Temperance Is About The Pleasures Proper To The Taste?
+
 ## Objections
+
 Objection 1: It would seem that temperance is about pleasures proper to the taste. For pleasures of the taste result from food and drink, which are more necessary to man's life than sexual pleasures, which regard the touch. But according to what has been said [3442](A[4]), temperance is about pleasures in things that are necessary to human life. Therefore temperance is about pleasures proper to the taste rather than about those proper to the touch.
+
 Objection 2: Further, temperance is about the passions rather than about things themselves. Now, according to De Anima ii, 3, "the touch is the sense of food," as regards the very substance of the food, whereas "savor" which is the proper object of the taste, is "the pleasing quality of the food." Therefore temperance is about the taste rather than about the touch.
+
 Objection 3: Further, according to Ethic. vii, 4,7: "temperance and intemperance are about the same things, and so are continence and incontinence, perseverance, and effeminacy," to which delicacy pertains. Now delicacy seems to regard the delight taken in savors which are the object of the taste. Therefore temperance is about pleasures proper to the taste.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. iii, 10) that "seemingly temperance and intemperance have little if anything to do with the taste."
+
 I answer that, As stated above [3443](A[4]), temperance is about the greatest pleasures, which chiefly regard the preservation of human life either in the species or in the individual. In these matters certain things are to be considered as principal and others as secondary. The principal thing is the use itself of the necessary means, of the woman who is necessary for the preservation of the species, or of food and drink which are necessary for the preservation of the individual: while the very use of these necessary things has a certain essential pleasure annexed thereto.
 
 In regard to either use we consider as secondary whatever makes the use more pleasurable, such as beauty and adornment in woman, and a pleasing savor and likewise odor in food. Hence temperance is chiefly about the pleasure of touch, that results essentially from the use of these necessary things, which use is in all cases attained by the touch. Secondarily, however, temperance and intemperance are about pleasures of the taste, smell, or sight, inasmuch as the sensible objects of these senses conduce to the pleasurable use of the necessary things that have relation to the touch. But since the taste is more akin to the touch than the other senses are, it follows that temperance is more about the taste than about the other senses.
+
 ## Replies
+
 Reply to Objection 1: The use of food and the pleasure that essentially results therefrom pertain to the touch. Hence the Philosopher says (De Anima ii, 3) that "touch is the sense of food, for food is hot or cold, wet or dry." To the taste belongs the discernment of savors, which make the food pleasant to eat, in so far as they are signs of its being suitable for nourishment.
+
 Reply to Objection 2: The pleasure resulting from savor is additional, so to speak, whereas the pleasure of touch results essentially from the use of food and drink.
+
 Reply to Objection 3: Delicacy regards principally the substance of the food, but secondarily it regards its delicious savor and the way in which it is served.

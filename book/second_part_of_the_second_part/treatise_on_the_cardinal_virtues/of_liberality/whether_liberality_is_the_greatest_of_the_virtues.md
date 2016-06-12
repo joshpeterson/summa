@@ -1,12 +1,23 @@
 # Whether Liberality Is The Greatest Of The Virtues?
+
 ## Objections
+
 Objection 1: It seems that liberality is the greatest of the virtues. For every virtue of man is a likeness to the divine goodness. Now man is likened chiefly by liberality to God, "Who giveth to all men abundantly, and upbraideth not" (James 1:5). Therefore liberality is the greatest of the virtues.
+
 Objection 2: Further, according to Augustine (De Trin. vi, 8), "in things that are great, but not in bulk, to be greatest is to be best." Now the nature of goodness seems to pertain mostly to liberality, since "the good is self-communicative," according to Dionysius (Div. Nom. iv). Hence Ambrose says (De Offic. i) that "justice reclines to severity, liberality to goodness." Therefore liberality is the greatest of virtues.
+
 Objection 3: Further, men are honored and loved on account of virtue. Now Boethius says (De Consol. ii) that "bounty above all makes a man famous": and the Philosopher says (Ethic. iv, 1) that "among the virtuous the liberal are the most beloved." Therefore liberality is the greatest of virtues.
+
 ## Answer
+
 On the contrary, Ambrose says (De Offic. i) that "justice seems to be more excellent than liberality, although liberality is more pleasing." The Philosopher also says (Rhet. i, 9) that "brave and just men are honored chiefly and, after them, those who are liberal."
+
 I answer that, Every virtue tends towards a good; wherefore the greater virtue is that which tends towards the greater good. Now liberality tends towards a good in two ways: in one way, primarily and of its own nature; in another way, consequently. Primarily and of its very nature it tends to set in order one's own affection towards the possession and use of money. In this way temperance, which moderates desires and pleasures relating to one's own body, takes precedence of liberality: and so do fortitude and justice, which, in a manner, are directed to the common good, one in time of peace, the other in time of war: while all these are preceded by those virtues which are directed to the Divine good. For the Divine good surpasses all manner of human good; and among human goods the public good surpasses the good of the individual; and of the last named the good of the body surpasses those goods that consist of external things. Again, liberality is ordained to a good consequently, and in this way it is directed to all the aforesaid goods. For by reason of his not being a lover of money, it follows that a man readily makes use of it, whether for himself. Or for the good of others, or for God's glory. Thus it derives a certain excellence from being useful in many ways. Since, however, we should judge of things according to that which is competent to them primarily and in respect of their nature, rather than according to that which pertains to them consequently, it remains to be said that liberality is not the greatest of virtues.
+
 ## Replies
+
 Reply to Objection 1: God's giving proceeds from His love for those to whom He gives, not from His affection towards the things He gives, wherefore it seems to pertain to charity, the greatest of virtues, rather than to liberality.
+
 Reply to Objection 2: Every virtue shares the nature of goodness by giving forth its own act: and the acts of certain other virtues are better than money which liberality gives forth.
+
 Reply to Objection 3: The friendship whereby a liberal man is beloved is not that which is based on virtue, as though he were better than others, but that which is based on utility, because he is more useful in external goods, which as a rule men desire above all others. For the same reason he becomes famous.

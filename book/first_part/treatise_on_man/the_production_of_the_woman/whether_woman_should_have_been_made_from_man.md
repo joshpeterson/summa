@@ -1,13 +1,23 @@
 # Whether Woman Should Have Been Made From Man?
+
 ## Objections
+
 Objection 1: It would seem that woman should not have been made from man. For sex belongs both to man and animals. But in the other animals the female was not made from the male. Therefore neither should it have been so with man.
+
 Objection 2: Further, things of the same species are of the same matter. But male and female are of the same species. Therefore, as man was made of the slime of the earth, so woman should have been made of the same, and not from man.
+
 Objection 3: Further, woman was made to be a helpmate to man in the work of generation. But close relationship makes a person unfit for that office; hence near relations are debarred from intermarriage, as is written (Lev. 18:6). Therefore woman should not have been made from man.
+
 ## Answer
+
 On the contrary, It is written (Ecclus. 17:5): "He created of him," that is, out of man, "a helpmate like to himself," that is, woman.
+
 I answer that, When all things were first formed, it was more suitable for the woman to be made from man that (for the female to be from the male) in other animals. First, in order thus to give the first man a certain dignity consisting in this, that as God is the principle of the whole universe, so the first man, in likeness to God, was the principle of the whole human race. Wherefore Paul says that "God made the whole human race from one" (Acts 17:26). Secondly, that man might love woman all the more, and cleave to her more closely, knowing her to be fashioned from himself. Hence it is written (Gn. 2:23,24): "She was taken out of man, wherefore a man shall leave father and mother, and shall cleave to his wife." This was most necessary as regards the human race, in which the male and female live together for life; which is not the case with other animals. Thirdly, because, as the Philosopher says (Ethic. viii, 12), the human male and female are united, not only for generation, as with other animals, but also for the purpose of domestic life, in which each has his or her particular duty, and in which the man is the head of the woman. Wherefore it was suitable for the woman to be made out of man, as out of her principle. Fourthly, there is a sacramental reason for this. For by this is signified that the Church takes her origin from Christ. Wherefore the Apostle says (Eph. 5:32): "This is a great sacrament; but I speak in Christ and in the Church."
 
 Reply OBJ 1 is clear from the foregoing.
+
 ## Replies
+
 Reply to Objection 2: Matter is that from which something is made. Now created nature has a determinate principle; and since it is determined to one thing, it has also a determinate mode of proceeding. Wherefore from determinate matter it produces something in a determinate species. On the other hand, the Divine Power, being infinite, can produce things of the same species out of any matter, such as a man from the slime of the earth, and a woman from out of man.
+
 Reply to Objection 3: A certain affinity arises from natural generation, and this is an impediment to matrimony. Woman, however, was not produced from man by natural generation, but by the Divine Power alone. Wherefore Eve is not called the daughter of Adam; and so this argument does not prove.

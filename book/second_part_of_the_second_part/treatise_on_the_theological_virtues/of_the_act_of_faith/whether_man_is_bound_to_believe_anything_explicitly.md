@@ -1,16 +1,27 @@
 # Whether Man Is Bound To Believe Anything Explicitly?
+
 ## Objections
+
 Objection 1: It would seem that man is not bound to believe anything explicitly. For no man is bound to do what is not in his power. Now it is not in man's power to believe a thing explicitly, for it is written (Rom. 10:14,15): "How shall they believe Him, of whom they have not heard? And how shall they hear without a preacher? And how shall they preach unless they be sent?" Therefore man is not bound to believe anything explicitly.
+
 Objection 2: Further, just as we are directed to God by faith, so are we by charity. Now man is not bound to keep the precepts of charity, and it is enough if he be ready to fulfil them: as is evidenced by the precept of Our Lord (Mat. 5:39): "If one strike thee on one [Vulg.: 'thy right'] cheek, turn to him also the other"; and by others of the same kind, according to Augustine's exposition (De Serm. Dom. in Monte xix). Therefore neither is man bound to believe anything explicitly, and it is enough if he be ready to believe whatever God proposes to be believed.
+
 Objection 3: Further, the good of faith consists in obedience, according to Rom. 1:5: "For obedience to the faith in all nations." Now the virtue of obedience does not require man to keep certain fixed precepts, but it is enough that his mind be ready to obey, according to Ps. 118:60: "I am ready and am not troubled; that I may keep Thy commandments." Therefore it seems enough for faith, too, that man should be ready to believe whatever God may propose, without his believing anything explicitly.
+
 ## Answer
+
 On the contrary, It is written (Heb. 11:6): "He that cometh to God, must believe that He is, and is a rewarder to them that seek Him."
+
 I answer that, The precepts of the Law, which man is bound to fulfil, concern acts of virtue which are the means of attaining salvation. Now an act of virtue, as stated above ([2285]FS, Q[60], A[5]) depends on the relation of the habit to its object. Again two things may be considered in the object of any virtue; namely, that which is the proper and direct object of that virtue, and that which is accidental and consequent to the object properly so called. Thus it belongs properly and directly to the object of fortitude, to face the dangers of death, and to charge at the foe with danger to oneself, for the sake of the common good: yet that, in a just war, a man be armed, or strike another with his sword, and so forth, is reduced to the object of fortitude, but indirectly.
 
 Accordingly, just as a virtuous act is required for the fulfilment of a precept, so is it necessary that the virtuous act should terminate in its proper and direct object: but, on the other hand, the fulfilment of the precept does not require that a virtuous act should terminate in those things which have an accidental or secondary relation to the proper and direct object of that virtue, except in certain places and at certain times. We must, therefore, say that the direct object of faith is that whereby man is made one of the Blessed, as stated above ([2286]Q[1], A[8]): while the indirect and secondary object comprises all things delivered by God to us in Holy Writ, for instance that Abraham had two sons, that David was the son of Jesse, and so forth.
 
 Therefore, as regards the primary points or articles of faith, man is bound to believe them, just as he is bound to have faith; but as to other points of faith, man is not bound to believe them explicitly, but only implicitly, or to be ready to believe them, in so far as he is prepared to believe whatever is contained in the Divine Scriptures. Then alone is he bound to believe such things explicitly, when it is clear to him that they are contained in the doctrine of faith.
+
 ## Replies
+
 Reply to Objection 1: If we understand those things alone to be in a man's power, which we can do without the help of grace, then we are bound to do many things which we cannot do without the aid of healing grace, such as to love God and our neighbor, and likewise to believe the articles of faith. But with the help of grace we can do this, for this help "to whomsoever it is given from above it is mercifully given; and from whom it is withheld it is justly withheld, as a punishment of a previous, or at least of original, sin," as Augustine states (De Corr. et Grat. v, vi [*Cf. Ep. cxc; De Praed. Sanct. viii.]).
+
 Reply to Objection 2: Man is bound to love definitely those lovable things which are properly and directly the objects of charity, namely, God and our neighbor. The objection refers to those precepts of charity which belong, as a consequence, to the objects of charity.
+
 Reply to Objection 3: The virtue of obedience is seated, properly speaking, in the will; hence promptness of the will subject to authority, suffices for the act of obedience, because it is the proper and direct object of obedience. But this or that precept is accidental or consequent to that proper and direct object.

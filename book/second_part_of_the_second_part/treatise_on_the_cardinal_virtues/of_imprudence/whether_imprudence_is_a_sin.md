@@ -1,14 +1,25 @@
 # Whether Imprudence Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that imprudence is not a sin. For every sin is voluntary, according to Augustine [*De Vera Relig. xiv]; whereas imprudence is not voluntary, since no man wishes to be imprudent. Therefore imprudence is not a sin.
+
 Objection 2: Further, none but original sin comes to man with his birth. But imprudence comes to man with his birth, wherefore the young are imprudent; and yet it is not original sin which is opposed to original justice. Therefore imprudence is not a sin.
+
 Objection 3: Further, every sin is taken away by repentance. But imprudence is not taken away by repentance. Therefore imprudence is not a sin.
+
 ## Answer
+
 On the contrary, The spiritual treasure of grace is not taken away save by sin. But it is taken away by imprudence, according to Prov. 21:20, "There is a treasure to be desired, and oil in the dwelling of the just, and the imprudent [Douay: 'foolish'] man shall spend it." Therefore imprudence is a sin.
+
 I answer that, Imprudence may be taken in two ways, first, as a privation, secondly, as a contrary. Properly speaking it is not taken as a negation, so as merely to signify the absence of prudence, for this can be without any sin. Taken as a privation, imprudence denotes lack of that prudence which a man can and ought to have, and in this sense imprudence is a sin by reason of a man's negligence in striving to have prudence.
 
 Imprudence is taken as a contrary, in so far as the movement or act of reason is in opposition to prudence: for instance, whereas the right reason of prudence acts by taking counsel, the imprudent man despises counsel, and the same applies to the other conditions which require consideration in the act of prudence. In this way imprudence is a sin in respect of prudence considered under its proper aspect, since it is not possible for a man to act against prudence, except by infringing the rules on which the right reason of prudence depends. Wherefore, if this should happen through aversion from the Divine Law, it will be a mortal sin, as when a man acts precipitately through contempt and rejection of the Divine teaching: whereas if he act beside the Law and without contempt, and without detriment to things necessary for salvation, it will be a venial sin.
+
 ## Replies
+
 Reply to Objection 1: No man desires the deformity of imprudence, but the rash man wills the act of imprudence, because he wishes to act precipitately. Hence the Philosopher says (Ethic. vi, 5) that "he who sins willingly against prudence is less to be commended."
+
 Reply to Objection 2: This argument takes imprudence in the negative sense. It must be observed however that lack of prudence or of any other virtue is included in the lack of original justice which perfected the entire soul. Accordingly all such lack of virtue may be ascribed to original sin.
+
 Reply to Objection 3: Repentance restores infused prudence, and thus the lack of this prudence ceases; but acquired prudence is not restored as to the habit, although the contrary act is taken away, wherein properly speaking the sin of imprudence consists.

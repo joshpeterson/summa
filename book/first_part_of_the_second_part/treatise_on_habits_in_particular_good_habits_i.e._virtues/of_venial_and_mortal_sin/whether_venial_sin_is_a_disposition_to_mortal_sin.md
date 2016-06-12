@@ -1,12 +1,23 @@
 # Whether Venial Sin Is A Disposition To Mortal Sin?
+
 ## Objections
+
 Objection 1: It would seem that venial sin is not a disposition to mortal sin. For one contrary does not dispose to another. But venial and mortal sin are condivided as contrary to one another, as stated above [1922](A[1]). Therefore venial sin is not a disposition to mortal sin.
+
 Objection 2: Further, an act disposes to something of like species, wherefore it is stated in Ethic. ii, 1,2, that "from like acts like dispositions and habits are engendered." But mortal and venial sin differ in genus or species, as stated above [1923](A[2]). Therefore venial sin does not dispose to mortal sin.
+
 Objection 3: Further, if a sin is called venial because it disposes to mortal sin, it follows that whatever disposes to mortal sin is a venial sin. Now every good work disposes to mortal sin; wherefore Augustine says in his Rule (Ep. ccxi) that "pride lies in wait for good works that it may destroy them." Therefore even good works would be venial sins, which is absurd.
+
 ## Answer
+
 On the contrary, It is written (Ecclus. 19:1): "He that contemneth small things shall fall by little and little." Now he that sins venially seems to contemn small things. Therefore by little and little he is disposed to fall away together into mortal sin.
+
 I answer that, A disposition is a kind of cause; wherefore as there is a twofold manner of cause, so is there a twofold manner of disposition. For there is a cause which moves directly to the production of the effect, as a hot thing heats: and there is a cause which moves indirectly, by removing an obstacle, as he who displaces a pillar is said to displace the stone that rests on it. Accordingly an act of sin disposes to something in two ways. First, directly, and thus it disposes to an act of like species. In this way, a sin generically venial does not, primarily and of its nature, dispose to a sin generically mortal, for they differ in species. Nevertheless, in this same way, a venial sin can dispose, by way of consequence, to a sin which is mortal on the part of the agent: because the disposition or habit may be so far strengthened by acts of venial sin, that the lust of sinning increases, and the sinner fixes his end in that venial sin: since the end for one who has a habit, as such, is to work according to that habit; and the consequence will be that, by sinning often venially, he becomes disposed to a mortal sin. Secondly, a human act disposes to something by removing an obstacle thereto. In this way a sin generically venial can dispose to a sin generically mortal. Because he that commits a sin generically venial, turns aside from some particular order; and through accustoming his will not to be subject to the due order in lesser matters, is disposed not to subject his will even to the order of the last end, by choosing something that is a mortal sin in its genus.
+
 ## Replies
+
 Reply to Objection 1: Venial and mortal sin are not condivided in contrariety to one another, as though they were species of one genus, as stated above (A[1], ad 1), but as an accident is condivided with substance. Wherefore an accident can be a disposition to a substantial form, so can a venial sin dispose to mortal.
+
 Reply to Objection 2: Venial sin is not like mortal sin in species; but it is in genus, inasmuch as they both imply a defect of due order, albeit in different ways, as stated ([1924]AA[1],2).
+
 Reply to Objection 3: A good work is not, of itself, a disposition to mortal sin; but it can be the matter or occasion of mortal sin accidentally; whereas a venial sin, of its very nature, disposes to mortal sin, as stated.

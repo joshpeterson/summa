@@ -1,13 +1,23 @@
 # Whether A Man Ought To Love Himself Out Of Charity?
+
 ## Objections
+
 Objection 1: It would seem that a man is bound to love himself out of charity. For Gregory says in a homily (In Evang. xvii) that there "can be no charity between less than two." Therefore no man has charity towards himself.
+
 Objection 2: Further, friendship, by its very nature, implies mutual love and equality (Ethic. viii, 2,7), which cannot be of one man towards himself. But charity is a kind of friendship, as stated above ([2537]Q[23], A[1]). Therefore a man cannot have charity towards himself.
+
 Objection 3: Further, anything relating to charity cannot be blameworthy, since charity "dealeth not perversely" (1 Cor. 23:4). Now a man deserves to be blamed for loving himself, since it is written (2 Tim. 3:1,2): "In the last days shall come dangerous times, men shall be lovers of themselves." Therefore a man cannot love himself out of charity.
+
 ## Answer
+
 On the contrary, It is written (Lev. 19:18): "Thou shalt love thy friend as thyself." Now we love our friends out of charity. Therefore we should love ourselves too out of charity.
+
 I answer that, Since charity is a kind of friendship, as stated above ([2538]Q[23], A[1]), we may consider charity from two standpoints: first, under the general notion of friendship, and in this way we must hold that, properly speaking, a man is not a friend to himself, but something more than a friend, since friendship implies union, for Dionysius says (Div. Nom. iv) that "love is a unitive force," whereas a man is one with himself which is more than being united to another. Hence, just as unity is the principle of union, so the love with which a man loves himself is the form and root of friendship. For if we have friendship with others it is because we do unto them as we do unto ourselves, hence we read in Ethic. ix, 4,8, that "the origin of friendly relations with others lies in our relations to ourselves." Thus too with regard to principles we have something greater than science, namely understanding.
 
 Secondly, we may speak of charity in respect of its specific nature, namely as denoting man's friendship with God in the first place, and, consequently, with the things of God, among which things is man himself who has charity. Hence, among these other things which he loves out of charity because they pertain to God, he loves also himself out of charity.
+
 ## Replies
+
 Reply to Objection 1: Gregory speaks there of charity under the general notion of friendship: and the Second Objection is to be taken in the same sense.
+
 Reply to Objection 3: Those who love themselves are to be blamed, in so far as they love themselves as regards their sensitive nature, which they humor. This is not to love oneself truly according to one's rational nature, so as to desire for oneself the good things which pertain to the perfection of reason: and in this way chiefly it is through charity that a man loves himself.

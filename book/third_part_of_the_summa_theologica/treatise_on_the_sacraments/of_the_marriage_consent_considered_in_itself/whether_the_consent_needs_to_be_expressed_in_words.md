@@ -1,12 +1,23 @@
 # Whether The Consent Needs To Be Expressed In Words?
+
 ## Objections
+
 Objection 1: It would seem that there is no need for the consent to be expressed in words. For a man is brought under another's power by a vow just as he is by matrimony. Now a vow is binding in God's sight, even though it be not expressed in words. Therefore consent also makes a marriage binding even without being expressed in words.
+
 Objection 2: Further, there can be marriage between persons who are unable to express their mutual consent in words, through being dumb or of different languages. Therefore expression of the consent by words is not required for matrimony.
+
 Objection 3: Further, if that which is essential to a sacrament be omitted for any reason whatever, there is no sacrament. Now there is a case of marriage without the expression of words if the maid is silent through bashfulness when her parents give her away to the bridegroom. Therefore the expression of words is not essential to matrimony.
+
 ## Answer
+
 On the contrary, Matrimony is a sacrament. Now a sensible sign is required in every sacrament. Therefore it is also required in matrimony, and consequently there must needs be at least words by which the consent is made perceptible to the senses.
+
 I answer that, As stated above [4940](A[1]), the marriage union is effected in the same way as the bond in material contracts. And since material contracts are not feasible unless the contracting parties express their will to one another in words, it follows that the consent which makes a marriage must also be expressed in words, so that the expression of words is to marriage what the outward washing is to Baptism.
+
 ## Replies
+
 Reply to Objection 1: In a vow there is not a sacramental but only a spiritual bond, wherefore there is no need for it to be done in the same way as material contracts, in order that it be binding, as in the case of matrimony.
+
 Reply to Objection 2: Although the like cannot plight themselves to one another in words, they can do so by signs, and such signs count for words.
+
 Reply to Objection 3: According to Hugh of S. Victor (Tract. vii, Sum. Sent.), persons who are being married should give their consent by accepting one another freely. and this is judged to be the case if they show no dissent when they are being wedded. Wherefore in such a case the words of the parents are taken as being the maid's, for the fact that she does not contradict them is a sign that they are her words.

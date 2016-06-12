@@ -1,12 +1,23 @@
 # Whether Several Priests Can Consecrate One And The Same Host?
+
 ## Objections
+
 Objection 1: It seems that several priests cannot consecrate one and the same host. For it was said above ([4680]Q[67], A[6]), that several cannot at the same time baptize one individual. But the power of a priest consecrating is not less than that of a man baptizing. Therefore, several priests cannot consecrate one host at the same time.
+
 Objection 2: Further, what can be done by one, is superfluously done by several. But there ought to be nothing superfluous in the sacraments. Since, then, one is sufficient for consecrating, it seems that several cannot consecrate one host.
+
 Objection 3: Further, as Augustine says (Tract. xxvi in Joan.), this is "the sacrament of unity." But multitude seems to be opposed to unity. Therefore it seems inconsistent with the sacrament for several priests to consecrate the same host.
+
 ## Answer
+
 On the contrary, It is the custom of some Churches for priests newly ordained to co-celebrate with the bishop ordaining them.
+
 I answer that, As stated above [4681](A[1]), when a priest is ordained he is placed on a level with those who received consecrating power from our Lord at the Supper. And therefore, according to the custom of some Churches, as the apostles supped when Christ supped, so the newly ordained co-celebrate with the ordaining bishop. Nor is the consecration, on that account, repeated over the same host, because as Innocent III says (De Sacr. Alt. Myst. iv), the intention of all should be directed to the same instant of the consecration.
+
 ## Replies
+
 Reply to Objection 1: We do not read of Christ baptizing with the apostles when He committed to them the duty of baptizing; consequently there is no parallel.
+
 Reply to Objection 2: If each individual priest were acting in his own power, then other celebrants would be superfluous, since one would be sufficient. But whereas the priest does not consecrate except as in Christ's stead; and since many are "one in Christ" (Gal. 3:28); consequently it does not matter whether this sacrament be consecrated by one or by many, except that the rite of the Church must be observed.
+
 Reply to Objection 3: The Eucharist is the sacrament of ecclesiastical unity, which is brought about by many being "one in Christ."

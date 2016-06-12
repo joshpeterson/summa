@@ -1,12 +1,23 @@
 # Whether There Is Will In God?
+
 ## Objections
+
 Objection 1: It seems that there is not will in God. For the object of will is the end and the good. But we cannot assign to God any end. Therefore there is not will in God.
+
 Objection 2: Further, will is a kind of appetite. But appetite, as it is directed to things not possessed, implies imperfection, which cannot be imputed to God. Therefore there is not will in God.
+
 Objection 3: Further, according to the Philosopher (De Anima iii, 54), the will moves, and is moved. But God is the first cause of movement, and Himself is unmoved, as proved in Phys. viii, 49. Therefore there is not will in God.
+
 ## Answer
+
 On the contrary, The Apostle says (Rom. 12:2): "That you may prove what is the will of God."
+
 I answer that, There is will in God, as there is intellect: since will follows upon intellect. For as natural things have actual existence by their form, so the intellect is actually intelligent by its intelligible form. Now everything has this aptitude towards its natural form, that when it has it not, it tends towards it; and when it has it, it is at rest therein. It is the same with every natural perfection, which is a natural good. This aptitude to good in things without knowledge is called natural appetite. Whence also intellectual natures have a like aptitude as apprehended through its intelligible form; so as to rest therein when possessed, and when not possessed to seek to possess it, both of which pertain to the will. Hence in every intellectual being there is will, just as in every sensible being there is animal appetite. And so there must be will in God, since there is intellect in Him. And as His intellect is His own existence, so is His will.
+
 ## Replies
+
 Reply to Objection 1: Although nothing apart from God is His end, yet He Himself is the end with respect to all things made by Him. And this by His essence, for by His essence He is good, as shown above ([127]Q[6], A[3]): for the end has the aspect of good.
+
 Reply to Objection 2: Will in us belongs to the appetitive part, which, although named from appetite, has not for its only act the seeking what it does not possess; but also the loving and the delighting in what it does possess. In this respect will is said to be in God, as having always good which is its object, since, as already said, it is not distinct from His essence.
+
 Reply to Objection 3: A will of which the principal object is a good outside itself, must be moved by another; but the object of the divine will is His goodness, which is His essence. Hence, since the will of God is His essence, it is not moved by another than itself, but by itself alone, in the same sense as understanding and willing are said to be movement. This is what Plato meant when he said that the first mover moves itself.

@@ -1,14 +1,25 @@
 # Whether The Will Is Moved, Of Necessity, By The Lower Appetite?
+
 ## Objections
+
 Objection 1: It would seem that the will is moved of necessity by a passion of the lower appetite. For the Apostle says (Rom. 7:19): "The good which I will I do not; but the evil which I will not, that I do": and this is said by reason of concupiscence, which is a passion. Therefore the will is moved of necessity by a passion.
+
 Objection 2: Further, as stated in Ethic. iii, 5, "according as a man is, such does the end seem to him." But it is not in man's power to cast aside a passion once. Therefore it is not in man's power not to will that to which the passion inclines him.
+
 Objection 3: Further, a universal cause is not applied to a particular effect, except by means of a particular cause: wherefore the universal reason does not move save by means of a particular estimation, as stated in De Anima iii, 11. But as the universal reason is to the particular estimation, so is the will to the sensitive appetite. Therefore the will is not moved to will something particular, except through the sensitive appetite. Therefore, if the sensitive appetite happen to be disposed to something, by reason of a passion, the will cannot be moved in a contrary sense.
+
 ## Answer
+
 On the contrary, It is written (Gn. 4:7): "Thy lust [Vulg. 'The lust thereof'] shall be under thee, and thou shalt have dominion over it." Therefore man's will is not moved of necessity by the lower appetite.
+
 I answer that, As stated above ([1076]Q[9], A[2]), the passion of the sensitive appetite moves the will, in so far as the will is moved by its object: inasmuch as, to wit, man through being disposed in such and such a way by a passion, judges something to be fitting and good, which he would not judge thus were it not for the passion. Now this influence of a passion on man occurs in two ways. First, so that his reason is wholly bound, so that he has not the use of reason: as happens in those who through a violent access of anger or concupiscence become furious or insane, just as they may from some other bodily disorder; since such like passions do not take place without some change in the body. And of such the same is to be said as of irrational animals, which follow, of necessity, the impulse of their passions: for in them there is neither movement of reason, nor, consequently, of will.
 
 Sometimes, however, the reason is not entirely engrossed by the passion, so that the judgment of reason retains, to a certain extent, its freedom: and thus the movement of the will remains in a certain degree. Accordingly in so far as the reason remains free, and not subject to the passion, the will's movement, which also remains, does not tend of necessity to that whereto the passion inclines it. Consequently, either there is no movement of the will in that man, and the passion alone holds its sway: or if there be a movement of the will, it does not necessarily follow the passion.
+
 ## Replies
+
 Reply to Objection 1: Although the will cannot prevent the movement of concupiscence from arising, of which the Apostle says: "The evil which I will not, that I do---i.e. I desire"; yet it is in the power of the will not to will to desire or not to consent to concupiscence. And thus it does not necessarily follow the movement of concupiscence.
+
 Reply to Objection 2: Since there is in man a twofold nature, intellectual and sensitive; sometimes man is such and such uniformly in respect of his whole soul: either because the sensitive part is wholly subject to this reason, as in the virtuous; or because reason is entirely engrossed by passion, as in a madman. But sometimes, although reason is clouded by passion, yet something of this reason remains free. And in respect of this, man can either repel the passion entirely, or at least hold himself in check so as not to be led away by the passion. For when thus disposed, since man is variously disposed according to the various parts of the soul, a thing appears to him otherwise according to his reason, than it does according to a passion.
+
 Reply to Objection 3: The will is moved not only by the universal good apprehended by the reason, but also by good apprehended by sense. Wherefore he can be moved to some particular good independently of a passion of the sensitive appetite. For we will and do many things without passion, and through choice alone; as is most evident in those cases wherein reason resists passion.

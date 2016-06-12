@@ -1,12 +1,23 @@
 # Whether Those Who Are Ordained Ought To Wear The Tonsure?
+
 ## Objections
+
 Objection 1: It would seem that those who are ordained ought not to wear the tonsure in the shape of a crown. For the Lord threatened captivity and dispersion to those who were shaven in this way: "Of the captivity of the bare head of the enemies" (Dt. 32:42), and: "I will scatter into every wind them that have their hair cut round" (Jer. 49:32). Now the ministers of Christ should not be captives, but free. Therefore shaving and tonsure in the shape of a crown does not become them.
+
 Objection 2: Further, the truth should correspond to the figure. Now the crown was prefigured in the Old Law by the tonsure of the Nazarenes, as stated in the text (Sent. iv, D, 24). Therefore since the Nazarenes were not ordained to the Divine ministry, it would seem that the ministers of the Church should not receive the tonsure or shave the head in the form of a crown. The same would seem to follow from the fact that lay brothers, who are not ministers of the Church, receive a tonsure in the religious Orders.
+
 Objection 3: Further, the hair signifies superabundance, because it grows from that which is superabundant. But the ministers of the Church should cast off all superabundance. Therefore they should shave the head completely and not in the shape of a crown.
+
 ## Answer
+
 On the contrary, According to Gregory, "to serve God is to reign" (Super Ps. 101:23). Now a crown is the sign of royalty. Therefore a crown is becoming to those who are devoted to the Divine ministry.
+
 I answer that, It is becoming for those who apply themselves to the Divine ministry to be shaven or tonsured in the form of a crown by reason of the shape. Because a crown is the sign of royalty; and of perfection, since it is circular; and those who are appointed to the Divine service acquire a royal dignity and ought to be perfect in virtue. It is also becoming to them as it involves the hair being taken both from the higher part of the head by shaving, lest their mind be hindered by temporal occupations from contemplating Divine things, and from the lower part by clipping, lest their senses be entangled in temporal things.
+
 ## Replies
+
 Reply to Objection 1: The Lord threatens those who did this for the worship of demons.
+
 Reply to Objection 2: The things that were done in the Old Testament represent imperfectly the things of the New Testament. Hence things pertaining to the ministers of the New Testament were signified not only by the offices of the Levites, but also by all those persons who professed some degree of perfection. Now the Nazarenes professed a certain perfection by having their hair cut off, thus signifying their contempt of temporal things, although they did not have it cut in the shape of a crown, but cut it off completely, for as yet it was not the time of the royal and perfect priesthood. In like manner lay brothers have their hair cut because they renounce temporalities. but they do not shave the head, because they are not occupied in the Divine ministry, so as to have to contemplate Divine things with the mind.
+
 Reply to Objection 3: Not only the renunciation of temporalities, but also the royal dignity has to be signified by the form of a crown; wherefore the hair should not be cut off entirely. Another reason is that this would be unbecoming.

@@ -1,19 +1,37 @@
 # Whether Adoption Is Rightly Defined?
+
 ## Objections
+
 Objection 1: It would seem that adoption is not rightly defined: "Adoption is the act by which a person lawfully takes for his child or grandchild and so on one who does not belong to him." For the child should be subject to its father. Now, sometimes the person adopted does not come under the power of the adopter. Therefore adoption is not always the taking of someone as a child.
+
 Objection 2: Further, "Parents should lay up for their children" (2 Cor. 12:14). But the adoptive father does not always necessarily lay up for his adopted child, since sometimes the adopted does not inherit the goods of the adopter. Therefore adoption is not the taking of someone as a child.
+
 Objection 3: Further, adoption, whereby someone is taken as a child, is likened to natural procreation whereby a child is begotten naturally. Therefore whoever is competent to beget a child naturally is competent to adopt. But this is untrue, since neither one who is not his own master, nor one who is not twenty-five years of age, nor a woman can adopt, and yet they can beget a child naturally. Therefore, properly speaking, adoption is not the taking of someone as a child.
+
 Objection 4: Further, to take as one's child one who is not one's own seems necessary in order to supply the lack of children begotten naturally. Now one who is unable to beget, through being a eunuch or impotent, suffers especially from the absence of children of his own begetting. Therefore he is especially competent to adopt someone as his child. But he is not competent to adopt. Therefore adoption is not the taking of someone as one's child.
+
 Objection 5: Further, in spiritual relationship, where someone is taken as a child without carnal procreation, it is of no consequence whether an older person become the father of a younger, or "vice versa," since a youth can baptize an old man and "vice versa." Therefore, if by adoption a person is taken as a child without being carnally begotten, it would make no difference whether an older person adopted a younger, or a younger an older person; which is not true. Therefore the same conclusion follows.
+
 Objection 6: Further, there is no difference of degree between adopted and adopter. Therefore whoever is adopted, is adopted as a child; and consequently it is not right to say that one may be adopted as a grandchild.
+
 Objection 7: Further, adoption is a result of love, wherefore God is said to have adopted us as children through charity. Now we should have greater charity towards those who are connected with us than towards strangers. Therefore adoption should be not of a stranger but of someone connected with us.
+
 ## Answer
 
+
+
 I answer that, Art imitates nature and supplies the defect of nature where nature is deficient. Hence just as a man begets by natural procreation, so by positive law which is the art of what is good and just, one person can take to himself another as a child in likeness to one that is his child by nature, in order to take the place of the children he has lost, this being the chief reason why adoption was introduced. And since taking implies a term "wherefrom," for which reason the taker is not the thing taken, it follows that the person taken as a child must be a stranger. Accordingly, just as natural procreation has a term "whereto," namely the form which is the end of generation, and a term "wherefrom," namely the contrary form, so legal generation has a term "whereto," namely a child or grandchild, and a term "wherefrom," namely, a stranger. Consequently the above definition includes the genus of adoption, for it is described as a "lawful taking," and the term "wherefrom," since it is said to be the taking of "a stranger," and the term "whereto," because it says, "as a child or grandchild ."
+
 ## Replies
+
 Reply to Objection 1: The sonship of adoption is an imitation of natural sonship. Wherefore there are two species of adoption, one which imitates natural sonship perfectly, and this is called "arrogatio," whereby the person adopted is placed under the power of the adopter; and one who is thus adopted inherits from his adopted father if the latter die intestate, nor can his father legally deprive him of a fourth part of his inheritance. But no one can adopt in this way except one who is his own master, one namely who has no father or, if he has, is of age. There can be no adoption of this kind without the authority of the sovereign. The other kind of adoption imitates natural sonship imperfectly, and is called "simple adoption," and by this the adopted does not come under the power of the adopter: so that it is a disposition to perfect adoption, rather than perfect adoption itself. In this way even one who is not his own master can adopt, without the consent of the sovereign and with the authority of a magistrate: and one who is thus adopted does not inherit the estate of the adopter, nor is the latter bound to bequeath to him any of his goods in his will, unless he will.
+
 Reply to Objection 3: Natural procreation is directed to the production of the species; wherefore anyone in whom the specific nature is not hindered is competent to be able to beget naturally. But adoption is directed to hereditary succession, wherefore those alone are competent to adopt who have the power to dispose of their estate. Consequently one who is not his own master, or who is less than twenty-five years of age, or a woman, cannot adopt anyone, except by special permission of the sovereign.
+
 Reply to Objection 4: An inheritance cannot pass to posterity through one who has a perpetual impediment from begetting: hence for this very reason it ought to pass to those who ought to succeed to him by right of relationship; and consequently he cannot adopt, as neither can he beget. Moreover greater is sorrow for children lost than for children one has never had. Wherefore those who are impeded from begetting need no solace for their lack of children as those who have had and have lost them, or could have had them but have them not by reason of some accidental impediment.
+
 Reply to Objection 5: Spiritual relationship is contracted through a sacrament whereby the faithful are born again in Christ, in Whom there is no difference between male and female, bondman and free, youth and old age (Gal. 3:28; Col. 3:11). Wherefore anyone can indifferently become another's godfather. But adoption aims at hereditary succession and a certain subjection of the adopted to the adopter: and it is not fitting that older persons should be subjected to younger in the care of the household. Consequently a younger person cannot adopt an older; but according to law the adopted person must be so much younger than the adopter, that he might have been the child of his natural begetting.
+
 Reply to Objection 6: One may lose one's grandchildren and so forth even as one may lose one's children. Wherefore since adoption was introduced as a solace for children lost, just as someone may be adopted in place of a child, so may someone be adopted in place of a grandchild and so on.
+
 Reply to Objection 7: A relative ought to succeed by right of relationship; and therefore such a person is not competent to be chosen to succeed by adoption. And if a relative, who is not competent to inherit the estate, be adopted, he is adopted not as a relative, but as a stranger lacking the right of succeeding to the adopter's goods.

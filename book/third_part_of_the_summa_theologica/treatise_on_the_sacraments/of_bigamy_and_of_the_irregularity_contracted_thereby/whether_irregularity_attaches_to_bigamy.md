@@ -1,14 +1,25 @@
 # Whether Irregularity Attaches To Bigamy?
+
 ## Objections
+
 Objection 1: It would seem that irregularity is not attached to the bigamy that consists in having two wives successively. For multitude and unity are consequent upon being. Since then non-being does not cause plurality, a man who has two wives successively, the one in being, the other in non-being, does not thereby become the husband of more than one wife, so as to be debarred, according to the Apostle (1 Tim. 3:2; Titus 1:6), from the episcopate.
+
 Objection 2: Further, a man who commits fornication with several women gives more evidence of incontinence than one who has several wives successively. Yet in the first case a man does not become irregular. Therefore neither in the second should he become irregular.
+
 Objection 3: Further, if bigamy causes irregularity, this is either because of the sacrament, or because of the carnal intercourse. Now it is not on account of the former, for if a man had contracted marriage by words of the present and, his wife dying before the consummation of the marriage, he were to marry another, he would become irregular, which is against the decree of Innocent III (cap. Dubium, De bigamia). Nor again is it on account of the second, for then a man who had committed fornication with several women would become irregular: which is false. Therefore bigamy nowise causes irregularity.
+
 ## Answer
+
+
 
 I answer that, By the sacrament of order a man is appointed to the ministry of the sacraments; and he who has to administer the sacraments to others must suffer from no defect in the sacraments. Now there is a defect in a sacrament when the entire signification of the sacrament is not found therein. And the sacrament of marriage signifies the union of Christ with the Church, which is the union of one with one. Therefore the perfect signification of the sacrament requires the husband to have only one wife, and the wife to have but one husband; and consequently bigamy, which does away with this, causes irregularity. And there are four kinds of bigamy: the first is when a man has several lawful wives successively; the second is when a man has several wives at once, one in law, the other in fact; the third, when he has several successively, one in law, the other in fact; the fourth, when a man marries a widow. Accordingly irregularity attaches to all of these.
 
 There is another consequent reason assigned, since those who receive the sacrament of order should be signalized by the greatest spirituality, both because they administer spiritual things, namely the sacraments, and because they teach spiritual things, and should be occupied in spiritual matters. Wherefore since concupiscence is most incompatible with spirituality, inasmuch as it makes a man to be wholly carnal, they should give no sign of persistent concupiscence, which does indeed show itself in bigamous persons, seeing that they were unwilling to be content with one wife. The first reason however is the better.
+
 ## Replies
+
 Reply to Objection 1: The multitude of several wives at the same time is a multitude simply, wherefore a multitude of this kind is wholly inconsistent with the signification of the sacrament, so that the sacrament is voided on that account. But the multitude of several successive wives is a multitude relatively, wherefore it does not entirely destroy the signification of the sacrament, nor does it void the sacrament in its essence but in its perfection, which is required of those who are the dispensers of sacraments.
+
 Reply to Objection 2: Although those who are guilty of fornication give proof of greater concupiscence, theirs is not a so persistent concupiscence, since by fornication one party is not bound to the other for ever; and consequently no defect attaches to the sacrament.
+
 Reply to Objection 3: As stated above, bigamy causes irregularity, because it destroys the perfect signification of the sacrament: which signification is seated both in the union of minds, as expressed by the consent, and in the union of bodies. Wherefore bigamy must affect both of these at the same time in order to cause irregularity. Hence the decree of Innocent III disposes of the statement of the Master (Sent. iv, D, 27), namely that consent alone by words of the present is sufficient to cause irregularity.

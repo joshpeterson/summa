@@ -1,12 +1,23 @@
 # Whether Charity Is The Form Of Faith?
+
 ## Objections
+
 Objection 1: It would seem that charity is not the form of faith. For each thing derives its species from its form. When therefore two things are opposite members of a division, one cannot be the form of the other. Now faith and charity are stated to be opposite members of a division, as different species of virtue (1 Cor. 13:13). Therefore charity is not the form of faith.
+
 Objection 2: Further, a form and the thing of which it is the form are in one subject, since together they form one simply. Now faith is in the intellect, while charity is in the will. Therefore charity is not the form of faith.
+
 Objection 3: Further, the form of a thing is a principle thereof. Now obedience, rather than charity, seems to be the principle of believing, on the part of the will, according to Rom. 1:5: "For obedience to the faith in all nations." Therefore obedience rather than charity, is the form of faith.
+
 ## Answer
+
 On the contrary, Each thing works through its form. Now faith works through charity. Therefore the love of charity is the form of faith.
+
 I answer that, As appears from what has been said above ([2309]FS, Q[1], A[3]; [2310]FS, Q[18], A[6]), voluntary acts take their species from their end which is the will's object. Now that which gives a thing its species, is after the manner of a form in natural things. Wherefore the form of any voluntary act is, in a manner, the end to which that act is directed, both because it takes its species therefrom, and because the mode of an action should correspond proportionately to the end. Now it is evident from what has been said [2311](A[1]), that the act of faith is directed to the object of the will, i.e. the good, as to its end: and this good which is the end of faith, viz. the Divine Good, is the proper object of charity. Therefore charity is called the form of faith in so far as the act of faith is perfected and formed by charity.
+
 ## Replies
+
 Reply to Objection 1: Charity is called the form of faith because it quickens the act of faith. Now nothing hinders one act from being quickened by different habits, so as to be reduced to various species in a certain order, as stated above ([2312]FS, Q[18], AA[6],7; [2313]FS, Q[61], A[2]) when we were treating of human acts in general.
+
 Reply to Objection 2: This objection is true of an intrinsic form. But it is not thus that charity is the form of faith, but in the sense that it quickens the act of faith, as explained above.
+
 Reply to Objection 3: Even obedience, and hope likewise, and whatever other virtue might precede the act of faith, is quickened by charity, as we shall show further on ([2314]Q[23], A[8]), and consequently charity is spoken of as the form of faith.

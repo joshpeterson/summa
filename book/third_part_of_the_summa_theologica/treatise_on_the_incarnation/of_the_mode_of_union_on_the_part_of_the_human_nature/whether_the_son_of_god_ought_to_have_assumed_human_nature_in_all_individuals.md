@@ -1,12 +1,23 @@
 # Whether The Son Of God Ought To Have Assumed Human Nature In All Individuals?
+
 ## Objections
+
 Objection 1: It would seem that the Son of God ought to have assumed human nature in all individuals. For what is assumed first and by itself is human nature. But what belongs essentially to a nature belongs to all who exist in the nature. Therefore it was fitting that human nature should be assumed by the Word of God in all its supposita.
+
 Objection 2: Further, the Divine Incarnation proceeded from Divine Love; hence it is written (Jn. 3:16): "God so loved the world as to give His only-begotten Son." But love makes us give ourselves to our friends as much as we can, and it was possible for the Son of God to assume several human natures, as was said above ([3903]Q[3], A[7]), and with equal reason all. Hence it was fitting for the Son of God to assume human nature in all its supposita.
+
 Objection 3: Further, a skilful workman completes his work in the shortest manner possible. But it would have been a shorter way if all men had been assumed to the natural sonship than for one natural Son to lead many to the adoption of sons, as is written Gal. 4:5 (cf. Heb. 2:10). Therefore human nature ought to have been assumed by God in all its supposita.
+
 ## Answer
+
 On the contrary, Damascene says (De Fide Orth. iii, 11) that the Son of God "did not assume human nature as a species, nor did He assume all its hypostases."
+
 I answer that, It was unfitting for human nature to be assumed by the Word in all its supposita. First, because the multitude of supposita of human nature, which are natural to it, would have been taken away. For since we must not see any other suppositum in the assumed nature, except the Person assuming, as was said above [3904](A[3]), if there was no human nature except what was assumed, it would follow that there was but one suppositum of human nature, which is the Person assuming. Secondly, because this would have been derogatory to the dignity of the incarnate Son of God, as He is the First-born of many brethren, according to the human nature, even as He is the First-born of all creatures according to the Divine, for then all men would be of equal dignity. Thirdly, because it is fitting that as one Divine suppositum is incarnate, so He should assume one human nature, so that on both sides unity might be found.
+
 ## Replies
+
 Reply to Objection 1: To be assumed belongs to the human nature of itself, because it does not belong to it by reason of a person, as it belongs to the Divine Nature to assume by reason of the Person; not, however, that it belongs to it of itself as if belonging to its essential principles, or as its natural property in which manner it would belong to all its supposita.
+
 Reply to Objection 2: The love of God to men is shown not merely in the assumption of human nature, but especially in what He suffered in human nature for other men, according to Rom. 5:8: "But God commendeth His charity towards us; because when as yet we were sinners . . . Christ died for us," which would not have taken place had He assumed human nature in all its supposita.
+
 Reply to Objection 3: In order to shorten the way, which every skilful workman does, what can be done by one must not be done by many. Hence it was most fitting that by one man all the rest should be saved.

@@ -1,12 +1,23 @@
 # Whether Christ Was Born Without His Mother Suffering?
+
 ## Objections
+
 Objection 1: It would seem that Christ was not born without His Mother suffering. For just as man's death was a result of the sin of our first parents, according to Gn. 2:17: "In what day soever ye shall eat, ye shall [Vulg.: 'thou shalt eat of it, thou shalt] die"; so were the pains of childbirth, according to Gn. 3:16: "In sorrow shalt thou bring forth children." But Christ was willing to undergo death. Therefore for the same reason it seems that His birth should have been with pain.
+
 Objection 2: Further, the end is proportionate to the beginning. But Christ ended His life in pain, according to Is. 53:4: "Surely . . . He hath carried our sorrows." Therefore it seems that His nativity was not without the pains of childbirth.
+
 Objection 3: Further, in the book on the birth of our Saviour [*Protevangelium Jacobi xix, xx] it is related that midwives were present at Christ's birth; and they would be wanted by reason of the mother's suffering pain. Therefore it seems that the Blessed Virgin suffered pain in giving birth to her Child.
+
 ## Answer
+
 On the contrary, Augustine says (Serm. de Nativ. [*Supposititious]), addressing himself to the Virgin-Mother: "In conceiving thou wast all pure, in giving birth thou wast without pain."
+
 I answer that, The pains of childbirth are caused by the infant opening the passage from the womb. Now it has been said above ([4189]Q[28], A[2], Replies to objections), that Christ came forth from the closed womb of His Mother, and, consequently, without opening the passage. Consequently there was no pain in that birth, as neither was there any corruption; on the contrary, there was much joy therein for that God-Man "was born into the world," according to Is. 35:1,2: "Like the lily, it shall bud forth and blossom, and shall rejoice with joy and praise."
+
 ## Replies
+
 Reply to Objection 1: The pains of childbirth in the woman follow from the mingling of the sexes. Wherefore (Gn. 3:16) after the words, "in sorrow shalt thou bring forth children," the following are added: "and thou shalt be under thy husband's power." But, as Augustine says (Serm. de Assumpt. B. Virg., [*Supposititious]), from this sentence we must exclude the Virgin-Mother of God; who, "because she conceived Christ without the defilement of sin, and without the stain of sexual mingling, therefore did she bring Him forth without pain, without violation of her virginal integrity, without detriment to the purity of her maidenhood." Christ, indeed, suffered death, but through His own spontaneous desire, in order to atone for us, not as a necessary result of that sentence, for He was not a debtor unto death.
+
 Reply to Objection 2: As "by His death" Christ "destroyed our death" [*Preface of the Mass in Paschal-time], so by His pains He freed us from our pains; and so He wished to die a painful death. But the mother's pains in childbirth did not concern Christ, who came to atone for our sins. And therefore there was no need for His Mother to suffer in giving birth.
+
 Reply to Objection 3: We are told (Lk. 2:7) that the Blessed Virgin herself "wrapped up in swaddling clothes" the Child whom she had brought forth, "and laid Him in a manger." Consequently the narrative of this book, which is apocryphal, is untrue. Wherefore Jerome says (Adv. Helvid. iv): "No midwife was there, no officious women interfered. She was both mother and midwife. 'With swaddling clothes,' says he, 'she wrapped up the child, and laid Him in a manger.'" These words prove the falseness of the apocryphal ravings.

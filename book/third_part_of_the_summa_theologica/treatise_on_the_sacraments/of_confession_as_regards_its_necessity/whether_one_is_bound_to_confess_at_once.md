@@ -1,10 +1,17 @@
 # Whether One Is Bound To Confess At Once?
+
 ## Objections
+
 Objection 1: It would seem that one is bound to confess at once. For Hugh of St. Victor says (De Sacram. ii): "The contempt of confession is inexcusable, unless there be an urgent reason for delay." But everyone is bound to avoid contempt. Therefore everyone is bound to confess as soon as possible.
+
 Objection 2: Further, everyone is bound to do more to avoid spiritual disease than to avoid bodily disease. Now if a man who is sick in body were to delay sending for the physician, it would be detrimental to his health. Therefore it seems that it must needs be detrimental to a man's health if he omits to confess immediately to a priest if there be one at hand.
+
 Objection 3: Further, that which is due always, is due at once. But man owes confession to God always. Therefore he is bound to confess at once.
+
 ## Answer
+
 On the contrary, A fixed time both for confession and for receiving the Eucharist is determined by the Decretals (Cap. Omnis utriusque sexus: De Poenit. et Remiss.). Now a man does not sin by failing to receive the Eucharist before the fixed time. Therefore he does not sin if he does not confess before that time.
+
 I answer that, As the purpose of confessing is united to contrition, a man is bound to have this purpose when he is bound to have contrition, viz. when he calls his sins to mind, and chiefly when he is in danger of death, or when he is so circumstanced that unless his sin be forgiven, he must fall into another sin: for instance, if a priest be bound to say Mass, and a confessor is at hand, he is bound to confess or, if there be no confessor, he is bound at least to contrition and to have the purpose of confessing.
 
 But to actual confession a man is bound in two ways. First, accidentally, viz. when he is bound to do something which he cannot do without committing a mortal sin, unless he go to confession first: for then he is bound to confess; for instance, if he has to receive the Eucharist, to which no one can approach, after committing a mortal sin, without confessing first, if a priest be at hand, and there be no urgent necessity. Hence it is that the Church obliges all to confess once a year; because she commands all to receive Holy Communion once a year, viz. at Easter, wherefore all must go to confession before that time.
@@ -14,7 +21,11 @@ Secondly, a man is bound absolutely to go to confession; and here the same reaso
 Others, however, say that a contrite man is bound to confess at once, as soon as he has a reasonable and proper opportunity. Nor does it matter that the Decretal fixes the time limit to an annual confession, because the Church does not favor delay, but forbids the neglect involved in a further delay. Wherefore by this Decretal the man who delays is excused, not from sin in the tribunal of conscience; but from punishment in the tribunal of the Church; so that such a person would not be deprived of proper burial if he were to die before that time. But this seems too severe, because affirmative precepts bind, not at once, but at a fixed time; and this, not because it is most convenient to fulfill them then (for in that case if a man were not to give alms of his superfluous goods, whenever he met with a man in need, he would commit a mortal sin, which is false), but because the time involves urgency. Consequently, if he does not confess at the very first opportunity, it does not follow that he commits a mortal sin, even though he does not await a better opportunity. unless it becomes urgent for him to confess through being in danger of death. Nor is it on account of the Church's indulgence that he is not bound to confess at once, but on account of the nature of an affirmative precept, so that before the commandment was made, there was still less obligation.
 
 Others again say that secular persons are not bound to confess before Lent, which is the time of penance for them; but that religious are bound to confess at once, because, for them, all time is a time for penance. But this is not to the point; for religious have no obligations besides those of other men, with the exception of such as they are bound to by vow.
+
 ## Replies
+
 Reply to Objection 1: Hugh is speaking of those who die without this sacrament.
+
 Reply to Objection 2: It is not necessary for bodily health that the physician be sent for at once, except when there is necessity for being healed: and the same applies to spiritual disease.
+
 Reply to Objection 3: The retaining of another's property against the owner's will is contrary to a negative precept, which binds always and for always, and therefore one is always bound to make immediate restitution. It is not the same with the fulfillment of an affirmative precept, which binds always, but not for always, wherefore one is not bound to fulfill it at once.

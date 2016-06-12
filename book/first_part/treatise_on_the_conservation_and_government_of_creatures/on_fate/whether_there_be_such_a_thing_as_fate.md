@@ -1,9 +1,15 @@
 # Whether There Be Such A Thing As Fate?
+
 ## Objections
+
 Objection 1: It would seem that fate is nothing. For Gregory says in a homily for the Epiphany (Hom. x in Evang.): "Far be it from the hearts of the faithful to think that fate is anything real."
+
 Objection 2: Further, what happens by fate is not unforeseen, for as Augustine says (De Civ. Dei v, 4), "fate is understood to be derived from the verb 'fari' which means to speak"; as though things were said to happen by fate, which are "fore-spoken" by one who decrees them to happen. Now what is foreseen is neither lucky nor chance-like. If therefore things happen by fate, there will be neither luck nor chance in the world.
+
 ## Answer
+
 On the contrary, What does not exist cannot be defined. But Boethius (De Consol. iv) defines fate thus: "Fate is a disposition inherent to changeable things, by which Providence connects each one with its proper order."
+
 I answer that, In this world some things seem to happen by luck or chance. Now it happens sometimes that something is lucky or chance-like as compared to inferior causes, which, if compared to some higher cause, is directly intended. For instance, if two servants are sent by their master to the same place; the meeting of the two servants in regard to themselves is by chance; but as compared to the master, who had ordered it, it is directly intended.
 
 So there were some who refused to refer to a higher cause such events which by luck or chance take place here below. These denied the existence of fate and Providence, as Augustine relates of Tully (De Civ. Dei v, 9). And this is contrary to what we have said above about Providence ([942]Q[22], A[2]).
@@ -13,5 +19,7 @@ On the other hand, some have considered that everything that takes place here be
 We must therefore say that what happens here by accident, both in natural things and in human affairs, is reduced to a preordaining cause, which is Divine Providence. For nothing hinders that which happens by accident being considered as one by an intellect: otherwise the intellect could not form this proposition: "The digger of a grave found a treasure." And just as an intellect can apprehend this so can it effect it; for instance, someone who knows a place where a treasure is hidden, might instigate a rustic, ignorant of this, to dig a grave there. Consequently, nothing hinders what happens here by accident, by luck or by chance, being reduced to some ordering cause which acts by the intellect, especially the Divine intellect. For God alone can change the will, as shown above ([945]Q[105], A[4]). Consequently the ordering of human actions, the principle of which is the will, must be ascribed to God alone.
 
 So therefore inasmuch as all that happens here below is subject to Divine Providence, as being pre-ordained, and as it were "fore-spoken," we can admit the existence of fate: although the holy doctors avoided the use of this word, on account of those who twisted its application to a certain force in the position of the stars. Hence Augustine says (De Civ. Dei v, 1): "If anyone ascribes human affairs to fate, meaning thereby the will or power of God, let him keep to his opinion, but hold his tongue." For this reason Gregory denies the existence of fate: wherefore the first objection's solution is manifest.
+
 ## Replies
+
 Reply to Objection 2: Nothing hinders certain things happening by luck or by chance, if compared to their proximate causes: but not if compared to Divine Providence, whereby "nothing happens at random in the world," as Augustine says (QQ. 83, qu. 24).

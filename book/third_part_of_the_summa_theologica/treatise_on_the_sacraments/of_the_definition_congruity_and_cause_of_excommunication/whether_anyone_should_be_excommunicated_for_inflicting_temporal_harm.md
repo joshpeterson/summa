@@ -1,10 +1,19 @@
 # Whether Anyone Should Be Excommunicated For Inflicting Temporal Harm?
+
 ## Objections
+
 Objection 1: It would seem that no man should be excommunicated for inflicting a temporal harm. For the punishment should not exceed the fault. But the punishment of excommunication is the privation of a spiritual good, which surpasses all temporal goods. Therefore no man should be excommunicated for temporal injuries.
+
 Objection 2: Further, we should render to no man evil for evil, according to the precept of the Apostle (Rom. 12:17). But this would be rendering evil for evil, if a man were to be excommunicated for doing such an injury. Therefore this ought by no means to be done.
+
 ## Answer
+
 On the contrary, Peter sentenced Ananias and Saphira to death for keeping back the price of their piece of land (Acts 5:1-10). Therefore it is lawful for the Church to excommunicate for temporal injuries.
+
 I answer that, By excommunication the ecclesiastical judge excludes a man, in a sense, from the kingdom. Wherefore, since he ought not to exclude from the kingdom others than the unworthy, as was made clear from the definition of the keys ([4882]Q[17], A[2]), and since no one becomes unworthy, unless, through committing a mortal sin, he lose charity which is the way leading to the kingdom, it follows that no man should be excommunicated except for a mortal sin. And since by injuring a man in his body or in his temporalities, one may sin mortally and act against charity, the Church can excommunicate a man for having inflicted temporal injury on anyone. Yet, as excommunication is the most severe punishment, and since punishments are intended as remedies, according to the Philosopher (Ethic. ii), and again since a prudent physician begins with lighter and less risky remedies, therefore excommunication should not be inflicted, even for a mortal sin, unless the sinner be obstinate, either by not coming up for judgment, or by going away before judgment is pronounced, or by failing to obey the decision of the court. For then, if, after due warning, he refuse to obey, he is reckoned to be obstinate, and the judge, not being able to proceed otherwise against him, must excommunicate him.
+
 ## Replies
+
 Reply to Objection 1: A fault is not measured by the extent of the damage a man does, but by the will with which he does it, acting against charity. Wherefore, though the punishment of excommunication exceeds the harm done, it does not exceed the measure of the sin.
+
 Reply to Objection 2: When a man is corrected by being punished, evil is not rendered to him, but good: since punishments are remedies, as stated above.

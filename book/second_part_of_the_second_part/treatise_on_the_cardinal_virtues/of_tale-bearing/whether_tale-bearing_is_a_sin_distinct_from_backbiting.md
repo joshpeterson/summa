@@ -1,12 +1,23 @@
 # Whether Tale-bearing Is A Sin Distinct From Backbiting?
+
 ## Objections
+
 Objection 1: It would seem that tale-bearing is not a distinct sin from backbiting. Isidore says (Etym. x): "The susurro [tale-bearer] takes his name from the sound of his speech, for he speaks disparagingly not to the face but into the ear." But to speak of another disparagingly belongs to backbiting. Therefore tale-bearing is not a distinct sin from backbiting.
+
 Objection 2: Further, it is written (Lev. 19:16): "Thou shalt not be an informer [Douay: 'a detractor'] nor a tale-bearer [Douay: 'whisperer'] among the people." But an informer is apparently the same as a backbiter. Therefore neither does tale-bearing differ from backbiting.
+
 Objection 3: Further, it is written (Ecclus. 28:15): "The tale-bearer [Douay: 'whisperer'] and the double-tongued is accursed." But a double-tongued man is apparently the same as a backbiter, because a backbiter speaks with a double tongue, with one in your absence, with another in your presence. Therefore a tale-bearer is the same as a backbiter.
+
 ## Answer
+
 On the contrary, A gloss on Rom. 1:29,30, "Tale-bearers, backbiters [Douay: 'whisperers, detractors']" says: "Tale-bearers sow discord among friends; backbiters deny or disparage others' good points."
+
 I answer that, The tale-bearer and the backbiter agree in matter, and also in form or mode of speaking, since they both speak evil secretly of their neighbor: and for this reason these terms are sometimes used one for the other. Hence a gloss on Ecclus. 5:16, "Be not called a tale-bearer [Douay: 'whisperer']" says: "i.e. a backbiter." They differ however in end, because the backbiter intends to blacken his neighbor's good name, wherefore he brings forward those evils especially about his neighbor which are likely to defame him, or at least to depreciate his good name: whereas a tale-bearer intends to sever friendship, as appears from the gloss quoted above and from the saying of Prov. 26:20, "Where the tale-bearer is taken away, contentions shall cease." Hence it is that a tale-bearer speaks such ill about his neighbors as may stir his hearer's mind against them, according to Ecclus. 28:11, "A sinful man will trouble his friends, and bring in debate in the midst of them that are at peace."
+
 ## Replies
+
 Reply to Objection 1: A tale-bearer is called a backbiter in so far as he speaks ill of another; yet he differs from a backbiter since he intends not to speak ill as such, but to say anything that may stir one man against another, though it be good simply, and yet has a semblance of evil through being unpleasant to the hearer.
+
 Reply to Objection 2: An informer differs from a tale-bearer and a backbiter, for an informer is one who charges others publicly with crimes, either by accusing or by railing them, which does not apply to a backbiter or tale-bearer.
+
 Reply to Objection 3: A double-tongued person is properly speaking a tale-bearer. For since friendship is between two, the tale-bearer strives to sever friendship on both sides. Hence he employs a double tongue towards two persons, by speaking ill of one to the other: wherefore it is written (Ecclus. 28:15): "The tale-bearer [Douay: 'whisperer'] and the double-tongued is accursed," and then it is added, "for he hath troubled many that were peace."

@@ -1,14 +1,27 @@
 # Whether The Fire Of Hell Is Of The Same Species As Ours?
+
 ## Objections
+
 Objection 1: It would seem that this fire is not of the same species as the corporeal fire which we see. For Augustine says (De Civ. Dei xx, 16): "In my opinion no man knows of what kind is the everlasting fire, unless the Spirit of God has revealed it to anyone." But all or nearly all know the nature of this fire of ours. Therefore that fire is not of the same species as this.
+
 Objection 2: Further, Gregory commenting on Job 10:26, "A fire that is not kindled shall devour him," says (Moral. xv): "Bodily fire needs bodily fuel in order to become fire; neither can it be except by being kindled, nor live unless it be renewed. On the other hand the fire of hell, since it is a bodily fire, and burns in a bodily way the wicked cast therein, is neither kindled by human endeavor, nor kept alive with fuel, but once created endures unquenchably; at one and the same time it needs no kindling, and lacks not heat." Therefore it is not of the same nature as the fire that we see.
+
 Objection 3: Further, the everlasting and the corruptible differ essentially, since they agree not even in genus, according to the Philosopher (Metaph. x). But this fire of ours is corruptible, whereas the other is everlasting: "Depart from Me, you cursed, into everlasting fire" (Mat. 25:41). Therefore they are not of the same nature.
+
 Objection 4: Further, it belongs to the nature of this fire of ours to give light. But the fire of hell gives no light, hence the saying of Job 18:5: "Shall not the light of the wicked be extinguished?" Therefore . . . as above.
+
 ## Answer
+
 On the contrary, According to the Philosopher (Topic. i, 6), "every water is of the same species as every other water." Therefore in like manner every fire is of the same species as every other fire.
+
 I answer that, As stated in Meteor. iv, 1 fire has other bodies for its matter, for the reason that of all the elements it has the greatest power of action. Hence fire is found under two conditions: in its own matter, as existing in its own sphere, and in a strange matter, whether of earth, as in burning coal, or of air as in the flame. Under whatever conditions however fire be found, it is always of the same species, so far as the nature of fire is concerned, but there may be a difference of species as to the bodies which are the matter of fire. Wherefore flame and burning coal differ specifically, and likewise burning wood and red-hot iron; nor does it signify, as to this particular point, whether they be kindled by force, as in the case of iron, or by a natural intrinsic principle, as happens with sulphur. Accordingly it is clear that the fire of hell is of the same species as the fire we have, so far as the nature of fire is concerned. But whether that fire subsists in its proper matter, or if it subsists in a strange matter, what that matter may be, we know not. And in this way it may differ specifically from the fire we have, considered materially. It has, however, certain properties differing from our fire, for instance that it needs no kindling, nor is kept alive by fuel. But the differences do not argue a difference of species as regards the nature of the fire.
+
 ## Replies
+
 Reply to Objection 1: Augustine is speaking of that fire with regard to its matter, and not with regard to its nature.
+
 Reply to Objection 2: This fire of ours is kept alive with fuel, and is kindled by man, because it is introduced into a foreign matter by art and force. But that other fire needs no fuel to keep it alive, because either it subsists in its own matter, or is in a foreign matter, not by force but by nature from an intrinsic principle. Wherefore it is kindled not by man but by God, Who fashioned its nature. This is the meaning of the words of Isaias (30:33): "The breath of the Lord is as a torrent of brimstone kindling it."
+
 Reply to Objection 3: Even as the bodies of the damned will be of the same species as now, although now they are corruptible, whereas then they will be incorruptible, both by the ordering of Divine justice, and on account of the cessation of the heavenly movement, so is it with the fire of hell whereby those bodies will be punished.
+
 Reply to Objection 4: To give light does not belong to fire according to any mode of existence, since in its own matter it gives no light; wherefore it does not shine in its own sphere according to the philosophers: and in like manner in certain foreign matters it does not shine, as when it is in an opaque earthly substance such as sulphur. The same happens also when its brightness is obscured by thick smoke. Wherefore that the fire of hell gives no light is not sufficient proof of its being of a different species.

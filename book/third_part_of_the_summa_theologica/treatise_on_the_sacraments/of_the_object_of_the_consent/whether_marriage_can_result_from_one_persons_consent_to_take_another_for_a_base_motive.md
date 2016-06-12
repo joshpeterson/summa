@@ -1,16 +1,31 @@
 # Whether Marriage Can Result From One Person's Consent To Take Another For A Base Motive?
+
 ## Objections
+
 Objection 1: It would seem that marriage cannot result from one person's consent to take another for a base motive. For there is but one reason for one thing. Now marriage is one sacrament. Therefore it cannot result from the intention of any other end than that for which it was instituted by God; namely the begetting of children.
+
 Objection 2: Further, the marriage union is from God, according to Mat. 19:6, "What . . . God hath joined together let no man put asunder." But a union that is made for immoral motives is not from God. Therefore it is not a marriage.
+
 Objection 3: Further, in the other sacraments, if the intention of the Church be not observed, the sacrament is invalid. Now the intention of the Church in the sacrament of matrimony is not directed to a base purpose. Therefore, if a marriage be contracted for a base purpose, it will not be a valid marriage.
+
 Objection 4: Further, according to Boethius (De Diff., Topic. ii) "a thing is good if its end be good." But matrimony is always good. Therefore it is not matrimony if it is done for an evil end.
+
 Objection 5: Further, matrimony signifies the union of Christ with the Church; and in this there can be nothing base. Neither therefore can marriage be contracted for a base motive.
+
 ## Answer
+
 On the contrary, He who baptizes another for the sake of gain baptizes validly. Therefore if a man marries a woman for the purpose of gain it is a valid marriage.
+
 I answer that, The final cause of marriage may be taken as twofold, namely essential and accidental. The essential cause of marriage is the end to which it is by its very nature ordained, and this is always good, namely the begetting of children and the avoiding of fornication. But the accidental final cause thereof is that which the contracting parties intend as the result of marriage. And since that which is intended as the result of marriage is consequent upon marriage, and since that which comes first is not altered by what comes after, but conversely; marriage does not become good or evil by reason of that cause, but the contracting parties to whom this cause is the essential end. And since accidental causes are infinite in number, it follows that there can be an infinite number of such causes in matrimony, some of which are good and some bad.
+
 ## Replies
+
 Reply to Objection 1: This is true of the essential and principal cause; but that which has one essential and principal end may have several secondary essential ends, and an infinite number of accidental ends.
+
 Reply to Objection 2: The joining together can be taken for the relation itself which is marriage, and that is always from God, and is good, whatever be its cause; or for the act of those who are being joined together, and thus it is sometimes evil and is not from God simply. Nor is it unreasonable that an effect be from God, the cause of which is evil, such as a child born of adultery; for it is not from that cause as evil, but as having some good in so far as it is from God, although it is not from God simply.
+
 Reply to Objection 3: The intention of the Church whereby she intends to confer a sacrament is essential to each sacrament, so that if it be not observed, all sacraments are null. But the intention of the Church whereby she intends an advantage resulting from the sacrament belongs to the well-being and not to the essence of a sacrament; wherefore, if it be not observed, the sacrament is none the less valid. Yet he who omits this intention sins; for instance if in baptism one intend not the healing of the mind which the Church intends. In like manner he who intends to marry, although he fail to direct it to the end which the Church intends, nevertheless contracts a valid marriage.
+
 Reply to Objection 4: This evil which is intended is the end not of marriage, but of the contracting parties.
+
 Reply to Objection 5: The union itself, and not the action of those who are united, is the sign of the union of Christ with the Church: wherefore the conclusion does not follow.

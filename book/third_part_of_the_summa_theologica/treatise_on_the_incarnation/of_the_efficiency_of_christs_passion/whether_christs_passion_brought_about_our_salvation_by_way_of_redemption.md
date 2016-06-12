@@ -1,14 +1,25 @@
 # Whether Christ's Passion Brought About Our Salvation By Way Of Redemption?
+
 ## Objections
+
 Objection 1: It would seem that Christ's Passion did not effect our salvation by way of redemption. For no one purchases or redeems what never ceased to belong to him. But men never ceased to belong to God according to Ps. 23:1: "The earth is the Lord's and the fulness thereof: the world and all they that dwell therein." Therefore it seems that Christ did not redeem us by His Passion.
+
 Objection 2: Further, as Augustine says (De Trin. xiii): "The devil had to be overthrown by Christ's justice." But justice requires that the man who has treacherously seized another's property shall be deprived of it, because deceit and cunning should not benefit anyone, as even human laws declare. Consequently, since the devil by treachery deceived and subjugated to himself man, who is God's creature, it seems that man ought not to be rescued from his power by way of redemption.
+
 Objection 3: Further, whoever buys or redeems an object pays the price to the holder. But it was not to the devil, who held us in bondage, that Christ paid His blood as the price of our redemption. Therefore Christ did not redeem us by His Passion.
+
 ## Answer
+
 On the contrary, It is written (1 Pet. 1:18): "You were not redeemed with corruptible things as gold or silver from your vain conversation of the tradition of your fathers: but with the precious blood of Christ, as of a lamb unspotted and undefiled." And (Gal. 3:13): "Christ hath redeemed us from the curse of the law, being made a curse for us." Now He is said to be a curse for us inasmuch as He suffered upon the tree, as stated above ([4257]Q[46], A[4]). Therefore He did redeem us by His Passion.
+
 I answer that, Man was held captive on account of sin in two ways: first of all, by the bondage of sin, because (Jn. 8:34): "Whosoever committeth sin is the servant of sin"; and (2 Pet. 2:19): "By whom a man is overcome, of the same also he is the slave." Since, then, the devil had overcome man by inducing him to sin, man was subject to the devil's bondage. Secondly, as to the debt of punishment, to the payment of which man was held fast by God's justice: and this, too, is a kind of bondage, since it savors of bondage for a man to suffer what he does not wish, just as it is the free man's condition to apply himself to what he wills.
 
 Since, then, Christ's Passion was a sufficient and a superabundant atonement for the sin and the debt of the human race, it was as a price at the cost of which we were freed from both obligations. For the atonement by which one satisfies for self or another is called the price, by which he ransoms himself or someone else from sin and its penalty, according to Dan. 4:24: "Redeem thou thy sins with alms." Now Christ made satisfaction, not by giving money or anything of the sort, but by bestowing what was of greatest price---Himself---for us. And therefore Christ's Passion is called our redemption.
+
 ## Replies
+
 Reply to Objection 1: Man is said to belong to God in two ways. First of all, in so far as he comes under God's power: in which way he never ceased to belong to God; according to Dan. 4:22: "The Most High ruleth over the kingdom of men, and giveth it to whomsoever he will." Secondly, by being united to Him in charity, according to Rom. 8:9: "If any man have not the Spirit of Christ, he is none of His." In the first way, then, man never ceased to belong to God, but in the second way he did cease because of sin. And therefore in so far as he was delivered from sin by the satisfaction of Christ's Passion, he is said to be redeemed by the Passion of Christ.
+
 Reply to Objection 2: Man by sinning became the bondsman both of God and of the devil. Through guilt he had offended God, and put himself under the devil by consenting to him; consequently he did not become God's servant on account of his guilt, but rather, by withdrawing from God's service, he, by God's just permission, fell under the devil's servitude on account of the offense perpetrated. But as to the penalty, man was chiefly bound to God as his sovereign judge, and to the devil as his torturer, according to Mat. 5:25: "Lest perhaps the adversary deliver thee to the judge, and the judge deliver thee to the officer"---that is, "to the relentless avenging angel," as Chrysostom says (Hom. xi). Consequently, although, after deceiving man, the devil, so far as in him lay, held him unjustly in bondage as to both sin and penalty, still it was just that man should suffer it. God so permitting it as to the sin and ordaining it as to the penalty. And therefore justice required man's redemption with regard to God, but not with regard to the devil.
+
 Reply to Objection 3: Because, with regard to God, redemption was necessary for man's deliverance, but not with regard to the devil, the price had to be paid not to the devil, but to God. And therefore Christ is said to have paid the price of our redemption---His own precious blood---not to the devil, but to God.

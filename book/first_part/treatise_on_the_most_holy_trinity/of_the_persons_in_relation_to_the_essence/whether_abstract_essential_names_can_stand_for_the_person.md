@@ -1,18 +1,35 @@
 # Whether Abstract Essential Names Can Stand For The Person?
+
 ## Objections
+
 Objection 1: It would seem that abstract essential names can stand for the person, so that this proposition is true, "Essence begets essence." For Augustine says (De Trin. vii, i, 2): "The Father and the Son are one Wisdom, because they are one essence; and taken singly Wisdom is from Wisdom, as essence from essence."
+
 Objection 2: Further, generation or corruption in ourselves implies generation or corruption of what is within us. But the Son is generated. Therefore since the divine essence is in the Son, it seems that the divine essence is generated.
+
 Objection 3: Further, God and the divine essence are the same, as is clear from what is above explained ([323]Q[3], A[3]). But, as was shown, it is true to say that "God begets God." Therefore this is also true: "Essence begets essence."
+
 Objection 4: Further, a predicate can stand for that of which it is predicated. But the Father is the divine essence; therefore essence can stand for the person of the Father. Thus the essence begets.
+
 Objection 5: Further, the essence is "a thing begetting," because the essence is the Father who is begetting. Therefore if the essence is not begetting, the essence will be "a thing begetting," and "not begetting": which cannot be.
+
 Objection 6: Further, Augustine says (De Trin. iv, 20): "The Father is the principle of the whole Godhead." But He is principle only by begetting or spirating. Therefore the Father begets or spirates the Godhead.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. i, 1): "Nothing begets itself." But if the essence begets the essence, it begets itself only, since nothing exists in God as distinguished from the divine essence. Therefore the essence does not beget essence.
+
 I answer that, Concerning this, the abbot Joachim erred in asserting that as we can say "God begot God," so we can say "Essence begot essence": considering that, by reason of the divine simplicity God is nothing else but the divine essence. In this he was wrong, because if we wish to express ourselves correctly, we must take into account not only the thing which is signified, but also the mode of its signification as above stated [324](A[4]). Now although "God" is really the same as "Godhead," nevertheless the mode of signification is not in each case the same. For since this word "God" signifies the divine essence in Him that possesses it, from its mode of signification it can of its own nature stand for person. Thus the things which properly belong to the persons, can be predicated of this word, "God," as, for instance, we can say "God is begotten" or is "Begetter," as above explained [325](A[4]). The word "essence," however, in its mode of signification, cannot stand for Person, because it signifies the essence as an abstract form. Consequently, what properly belongs to the persons whereby they are distinguished from each other, cannot be attributed to the essence. For that would imply distinction in the divine essence, in the same way as there exists distinction in the "supposita."
+
 ## Replies
+
 Reply to Objection 1: To express unity of essence and of person, the holy Doctors have sometimes expressed themselves with greater emphasis than the strict propriety of terms allows. Whence instead of enlarging upon such expressions we should rather explain them: thus, for instance, abstract names should be explained by concrete names, or even by personal names; as when we find "essence from essence"; or "wisdom from wisdom"; we should take the sense to be, "the Son" who is essence and wisdom, is from the Father who is essence and wisdom. Nevertheless, as regards these abstract names a certain order should be observed, forasmuch as what belongs to action is more nearly allied to the persons because actions belong to "supposita." So "nature from nature," and "wisdom from wisdom" are less inexact than "essence from essence."
+
 Reply to Objection 2: In creatures the one generated has not the same nature numerically as the generator, but another nature, numerically distinct, which commences to exist in it anew by generation, and ceases to exist by corruption, and so it is generated and corrupted accidentally; whereas God begotten has the same nature numerically as the begetter. So the divine nature in the Son is not begotten either directly or accidentally.
+
 Reply to Objection 3: Although God and the divine essence are really the same, nevertheless, on account of their different mode of signification, we must speak in a different way about each of them.
+
 Reply to Objection 4: The divine essence is predicated of the Father by mode of identity by reason of the divine simplicity; yet it does not follow that it can stand for the Father, its mode of signification being different. This objection would hold good as regards things which are predicated of another as the universal of a particular.
+
 Reply to Objection 5: The difference between substantive and adjectival names consist in this, that the former carry their subject with them, whereas the latter do not, but add the thing signified to the substantive. Whence logicians are wont to say that the substantive is considered in the light of "suppositum," whereas the adjective indicates something added to the "suppositum." Therefore substantive personal terms can be predicated of the essence, because they are really the same; nor does it follow that a personal property makes a distinct essence; but it belongs to the "suppositum" implied in the substantive. But notional and personal adjectives cannot be predicated of the essence unless we add some substantive. We cannot say that the "essence is begetting"; yet we can say that the "essence is a thing begetting," or that it is "God begetting," if "thing" and God stand for person, but not if they stand for essence. Consequently there exists no contradiction in saying that "essence is a thing begetting," and "a thing not begetting"; because in the first case "thing" stands for person, and in the second it stands for the essence.
+
 Reply to Objection 6: So far as Godhead is one in several "supposita," it agrees in a certain degree with the form of a collective term. So when we say, "the Father is the principle of the whole Godhead," the term Godhead can be taken for all the persons together, inasmuch as it is the principle in all the divine persons. Nor does it follow that He is His own principle; as one of the people may be called the ruler of the people without being ruler of himself. We may also say that He is the principle of the whole Godhead; not as generating or spirating it, but as communicating it by generation and spiration.

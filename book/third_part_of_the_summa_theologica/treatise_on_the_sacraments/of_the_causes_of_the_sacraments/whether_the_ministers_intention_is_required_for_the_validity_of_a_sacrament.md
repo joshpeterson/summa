@@ -1,12 +1,23 @@
 # Whether The Minister's Intention Is Required For The Validity Of A Sacrament?
+
 ## Objections
+
 Objection 1: It seems that the minister's intention is not required for the validity of a sacrament. For the minister of a sacrament works instrumentally. But the perfection of an action does not depend on the intention of the instrument, but on that of the principal agent. Therefore the minister's intention is not necessary for the perfecting of a sacrament.
+
 Objection 2: Further, one man's intention cannot be known to another. Therefore if the minister's intention were required for the validity of a sacrament, he who approaches a sacrament could not know whether he has received the sacrament. Consequently he could have no certainty in regard to salvation; the more that some sacraments are necessary for salvation, as we shall state further on ([4400]Q[65], A[4]).
+
 Objection 3: Further, a man's intention cannot bear on that to which he does not attend. But sometimes ministers of sacraments do not attend to what they say or do, through thinking of something else. Therefore in this respect the sacrament would be invalid through want of intention.
+
 ## Answer
+
 On the contrary, What is unintentional happens by chance. But this cannot be said of the sacramental operation. Therefore the sacraments require the intention of the minister.
+
 I answer that, When a thing is indifferent to many uses, it must needs be determined to one, if that one has to be effected. Now those things which are done in the sacraments, can be done with various intent; for instance, washing with water, which is done in baptism, may be ordained to bodily cleanliness, to the health of the body, to amusement, and many other similar things. Consequently, it needs to be determined to one purpose, i.e. the sacramental effect, by the intention of him who washes. And this intention is expressed by the words which are pronounced in the sacraments; for instance the words, "I baptize thee in the name of the Father," etc.
+
 ## Replies
+
 Reply to Objection 1: An inanimate instrument has no intention regarding the effect; but instead of the intention there is the motion whereby it is moved by the principal agent. But an animate instrument, such as a minister, is not only moved, but in a sense moves itself, in so far as by his will he moves his bodily members to act. Consequently, his intention is required, whereby he subjects himself to the principal agent; that is, it is necessary that he intend to do that which Christ and the Church do.
+
 Reply to Objection 2: On this point there are two opinions. For some hold that the mental intention of the minister is necessary; in the absence of which the sacrament is invalid: and that this defect in the case of children who have not the intention of approaching the sacrament, is made good by Christ, Who baptizes inwardly: whereas in adults, who have that intention, this defect is made good by their faith and devotion.
+
 Reply to Objection 3: Although he who thinks of something else, has no actual intention, yet he has habitual intention, which suffices for the validity of the sacrament; for instance if, when a priest goes to baptize someone, he intends to do to him what the Church does. Wherefore if subsequently during the exercise of the act his mind be distracted by other matters, the sacrament is valid in virtue of his original intention. Nevertheless, the minister of a sacrament should take great care to have actual intention. But this is not entirely in man's power, because when a man wishes to be very intent on something, he begins unintentionally to think of other things, according to Ps. 39:18: "My heart hath forsaken me."

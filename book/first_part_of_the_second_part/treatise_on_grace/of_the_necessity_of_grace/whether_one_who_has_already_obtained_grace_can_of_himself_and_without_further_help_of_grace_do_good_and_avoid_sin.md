@@ -1,14 +1,25 @@
 # Whether One Who Has Already Obtained Grace, Can, Of Himself And Without Further Help Of Grace, Do Good And Avoid Sin?
+
 ## Objections
+
 Objection 1: It would seem that whoever has already obtained grace, can by himself and without further help of grace, do good and avoid sin. For a thing is useless or imperfect, if it does not fulfil what it was given for. Now grace is given to us that we may do good and keep from sin. Hence if with grace man cannot do this, it seems that grace is either useless or imperfect.
+
 Objection 2: Further, by grace the Holy Spirit dwells in us, according to 1 Cor. 3:16: "Know you not that you are the temple of God, and that the Spirit of God dwelleth in you?" Now since the Spirit of God is omnipotent, He is sufficient to ensure our doing good and to keep us from sin. Hence a man who has obtained grace can do the above two things without any further assistance of grace.
+
 Objection 3: Further, if a man who has obtained grace needs further aid of grace in order to live righteously and to keep free from sin, with equal reason, will he need yet another grace, even though he has obtained this first help of grace. Therefore we must go on to infinity; which is impossible. Hence whoever is in grace needs no further help of grace in order to do righteously and to keep free from sin.
+
 ## Answer
+
 On the contrary, Augustine says (De Natura et Gratia xxvi) that "as the eye of the body though most healthy cannot see unless it is helped by the brightness of light, so, neither can a man, even if he is most righteous, live righteously unless he be helped by the eternal light of justice." But justification is by grace, according to Rom. 3:24: "Being justified freely by His grace." Hence even a man who already possesses grace needs a further assistance of grace in order to live righteously.
+
 I answer that, As stated above [2187](A[5]), in order to live righteously a man needs a twofold help of God---first, a habitual gift whereby corrupted human nature is healed, and after being healed is lifted up so as to work deeds meritoriously of everlasting life, which exceed the capability of nature. Secondly, man needs the help of grace in order to be moved by God to act.
 
 Now with regard to the first kind of help, man does not need a further help of grace, e.g. a further infused habit. Yet he needs the help of grace in another way, i.e. in order to be moved by God to act righteously, and this for two reasons: first, for the general reason that no created thing can put forth any act, unless by virtue of the Divine motion. Secondly, for this special reason---the condition of the state of human nature. For although healed by grace as to the mind, yet it remains corrupted and poisoned in the flesh, whereby it serves "the law of sin," Rom. 7:25. In the intellect, too, there seems the darkness of ignorance, whereby, as is written (Rom. 8:26): "We know not what we should pray for as we ought"; since on account of the various turns of circumstances, and because we do not know ourselves perfectly, we cannot fully know what is for our good, according to Wis. 9:14: "For the thoughts of mortal men are fearful and our counsels uncertain." Hence we must be guided and guarded by God, Who knows and can do all things. For which reason also it is becoming in those who have been born again as sons of God, to say: "Lead us not into temptation," and "Thy Will be done on earth as it is in heaven," and whatever else is contained in the Lord's Prayer pertaining to this.
+
 ## Replies
+
 Reply to Objection 1: The gift of habitual grace is not therefore given to us that we may no longer need the Divine help; for every creature needs to be preserved in the good received from Him. Hence if after having received grace man still needs the Divine help, it cannot be concluded that grace is given to no purpose, or that it is imperfect, since man will need the Divine help even in the state of glory, when grace shall be fully perfected. But here grace is to some extent imperfect, inasmuch as it does not completely heal man, as stated above.
+
 Reply to Objection 2: The operation of the Holy Ghost, which moves and protects, is not circumscribed by the effect of habitual grace which it causes in us; but beyond this effect He, together with the Father and the Son, moves and protects us.
+
 Reply to Objection 3: This argument merely proves that man needs no further habitual grace.

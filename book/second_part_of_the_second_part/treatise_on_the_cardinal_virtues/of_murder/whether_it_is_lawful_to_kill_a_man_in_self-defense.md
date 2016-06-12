@@ -1,19 +1,37 @@
 # Whether It Is Lawful To Kill A Man In Self-defense?
+
 ## Objections
+
 Objection 1: It would seem that nobody may lawfully kill a man in self-defense. For Augustine says to Publicola (Ep. xlvii): "I do not agree with the opinion that one may kill a man lest one be killed by him; unless one be a soldier, exercise a public office, so that one does it not for oneself but for others, having the power to do so, provided it be in keeping with one's person." Now he who kills a man in self-defense, kills him lest he be killed by him. Therefore this would seem to be unlawful.
+
 Objection 2: Further, he says (De Lib. Arb. i, 5): "How are they free from sin in sight of Divine providence, who are guilty of taking a man's life for the sake of these contemptible things?" Now among contemptible things he reckons "those which men may forfeit unwillingly," as appears from the context (De Lib. Arb. i, 5): and the chief of these is the life of the body. Therefore it is unlawful for any man to take another's life for the sake of the life of his own body.
+
 Objection 3: Further, Pope Nicolas [*Nicolas I, Dist. 1, can. De his clericis] says in the Decretals: "Concerning the clerics about whom you have consulted Us, those, namely, who have killed a pagan in self-defense, as to whether, after making amends by repenting, they may return to their former state, or rise to a higher degree; know that in no case is it lawful for them to kill any man under any circumstances whatever." Now clerics and laymen are alike bound to observe the moral precepts. Therefore neither is it lawful for laymen to kill anyone in self-defense.
+
 Objection 4: Further, murder is a more grievous sin than fornication or adultery. Now nobody may lawfully commit simple fornication or adultery or any other mortal sin in order to save his own life; since the spiritual life is to be preferred to the life of the body. Therefore no man may lawfully take another's life in self-defense in order to save his own life.
+
 Objection 5: Further, if the tree be evil, so is the fruit, according to Mat. 7:17. Now self-defense itself seems to be unlawful, according to Rom. 12:19: "Not defending [Douay: 'revenging'] yourselves, my dearly beloved." Therefore its result, which is the slaying of a man, is also unlawful.
 
 
 
+
+
+
+
 ## Answer
+
 On the contrary, It is written (Ex. 22:2): "If a thief be found breaking into a house or undermining it, and be wounded so as to die; he that slew him shall not be guilty of blood." Now it is much more lawful to defend one's life than one's house. Therefore neither is a man guilty of murder if he kill another in defense of his own life.
+
 I answer that, Nothing hinders one act from having two effects, only one of which is intended, while the other is beside the intention. Now moral acts take their species according to what is intended, and not according to what is beside the intention, since this is accidental as explained above (Q[43], A[3]; [2905]FS, Q[12], A[1]). Accordingly the act of self-defense may have two effects, one is the saving of one's life, the other is the slaying of the aggressor. Therefore this act, since one's intention is to save one's own life, is not unlawful, seeing that it is natural to everything to keep itself in "being," as far as possible. And yet, though proceeding from a good intention, an act may be rendered unlawful, if it be out of proportion to the end. Wherefore if a man, in self-defense, uses more than necessary violence, it will be unlawful: whereas if he repel force with moderation his defense will be lawful, because according to the jurists [*Cap. Significasti, De Homicid. volunt. vel casual.], "it is lawful to repel force by force, provided one does not exceed the limits of a blameless defense." Nor is it necessary for salvation that a man omit the act of moderate self-defense in order to avoid killing the other man, since one is bound to take more care of one's own life than of another's. But as it is unlawful to take a man's life, except for the public authority acting for the common good, as stated above [2906](A[3]), it is not lawful for a man to intend killing a man in self-defense, except for such as have public authority, who while intending to kill a man in self-defense, refer this to the public good, as in the case of a soldier fighting against the foe, and in the minister of the judge struggling with robbers, although even these sin if they be moved by private animosity.
+
 ## Replies
+
 Reply to Objection 1: The words quoted from Augustine refer to the case when one man intends to kill another to save himself from death. The passage quoted in the Second Objection is to be understood in the same sense. Hence he says pointedly, "for the sake of these things," whereby he indicates the intention. This suffices for the Reply to the Second Objection.
+
 Reply to Objection 2: He that strikes a woman with child does something unlawful: wherefore if there results the death either of the woman or of the animated fetus, he will not be excused from homicide, especially seeing that death is the natural result of such a blow.
+
 Reply to Objection 3: Irregularity results from the act though sinless of taking a man's life, as appears in the case of a judge who justly condemns a man to death. For this reason a cleric, though he kill a man in self-defense, is irregular, albeit he intends not to kill him, but to defend himself.
+
 Reply to Objection 4: The act of fornication or adultery is not necessarily directed to the preservation of one's own life, as is the act whence sometimes results the taking of a man's life.
+
 Reply to Objection 5: The defense forbidden in this passage is that which comes from revengeful spite. Hence a gloss says: "Not defending yourselves---that is, not striking your enemy back."

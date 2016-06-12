@@ -1,13 +1,23 @@
 # Whether Envy Is A Mortal Sin?
+
 ## Objections
+
 Objection 1: It would seem that envy is not a mortal sin. For since envy is a kind of sorrow, it is a passion of the sensitive appetite. Now there is no mortal sin in the sensuality, but only in the reason, as Augustine declares (De Trin. xii, 12) [*Cf. [2644]FS, Q[74], A[4]]. Therefore envy is not a mortal sin.
+
 Objection 2: Further, there cannot be mortal sin in infants. But envy can be in them, for Augustine says (Confess. i): "I myself have seen and known even a baby envious, it could not speak, yet it turned pale and looked bitterly on its foster-brother." Therefore envy is not a mortal sin.
+
 Objection 3: Further, every mortal sin is contrary to some virtue. But envy is contrary, not to a virtue but to {nemesis}, which is a passion, according to the Philosopher (Rhet. ii, 9). Therefore envy is not a mortal sin.
+
 ## Answer
+
 On the contrary, It is written (Job 5:2): "Envy slayeth the little one." Now nothing slays spiritually, except mortal sin. Therefore envy is a mortal sin.
+
 I answer that, Envy is a mortal sin, in respect of its genus. For the genus of a sin is taken from its object; and envy according to the aspect of its object is contrary to charity, whence the soul derives its spiritual life, according to 1 Jn. 3:14: "We know that we have passed from death to life, because we love the brethren." Now the object both of charity and of envy is our neighbor's good, but by contrary movements, since charity rejoices in our neighbor's good, while envy grieves over it, as stated above [2645](A[1]). Therefore it is evident that envy is a mortal sin in respect of its genus.
 
 Nevertheless, as stated above (Q[35], A[4]; [2646]FS, Q[72], A[5], ad 1), in every kind of mortal sin we find certain imperfect movements in the sensuality, which are venial sins: such are the first movement of concupiscence, in the genus of adultery, and the first movement of anger, in the genus of murder, and so in the genus of envy we find sometimes even in perfect men certain first movements, which are venial sins.
+
 ## Replies
+
 Reply to Objection 1: The movement of envy in so far as it is a passion of the sensuality, is an imperfect thing in the genus of human acts, the principle of which is the reason, so that envy of that kind is not a mortal sin. The same applies to the envy of little children who have not the use of reason: wherefore the Reply to the Second Objection is manifest.
+
 Reply to Objection 3: According to the Philosopher (Rhet. ii, 9), envy is contrary both to {nemesis} and to pity, but for different reasons. For it is directly contrary to pity, their principal objects being contrary to one another, since the envious man grieves over his neighbor's good, whereas the pitiful man grieves over his neighbor's evil, so that the envious have no pity, as he states in the same passage, nor is the pitiful man envious. On the other hand, envy is contrary to {nemesis} on the part of the man whose good grieves the envious man, for {nemesis} is sorrow for the good of the undeserving according to Ps. 72:3: "I was envious of the wicked, when I saw the prosperity of sinners" [*Douay: 'because I had a zeal on occasion of the wicked, seeing the prosperity of sinners'], whereas the envious grieves over the good of those who are deserving of it. Hence it is clear that the former contrariety is more direct than the latter. Now pity is a virtue, and an effect proper to charity: so that envy is contrary to pity and charity.

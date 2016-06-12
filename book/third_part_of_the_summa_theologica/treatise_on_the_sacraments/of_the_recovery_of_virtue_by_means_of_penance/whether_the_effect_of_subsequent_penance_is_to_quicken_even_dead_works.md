@@ -1,12 +1,23 @@
 # Whether The Effect Of Subsequent Penance Is To Quicken Even Dead Works?
+
 ## Objections
+
 Objection 1: It would seem that the effect of subsequent Penance is to quicken even dead works, those, namely, that were not done in charity. For it seems more difficult to bring to life that which has been deadened, since this is never done naturally, than to quicken that which never had life, since certain living things are engendered naturally from things without life. Now deadened works are revived by Penance, as stated above [4806](A[5]). Much more, therefore, are dead works revived.
+
 Objection 2: Further, if the cause be removed, the effect is removed. But the cause of the lack of life in works generically good done without charity, was the lack of charity and grace. which lack is removed by Penance. Therefore dead works are quickened by charity.
+
 Objection 3: Further, Jerome in commenting on Agg. i, 6: "You have sowed much," says: "If at any time you find a sinner, among his many evil deeds, doing that which is right, God is not so unjust as to forget the few good deeds on account of his many evil deeds." Now this seems to be the case chiefly when past evil "deeds" are removed by Penance. Therefore it seems that through Penance, God rewards the former deeds done in the state of sin, which implies that they are quickened.
+
 ## Answer
+
 On the contrary, The Apostle says (1 Cor. 13:3): "If I should distribute all my goods to feed the poor, and if I should deliver my body to be burned, and have not charity, it profiteth me nothing." But this would not be true, if, at least by subsequent Penance, they were quickened. Therefore Penance does not quicken works which before were dead.
+
 I answer that, A work is said to be dead in two ways: first, effectively, because, to wit, it is a cause of death, in which sense sinful works are said to be dead, according to Heb. 9:14: "The blood of Christ . . . shall cleanse our conscience from dead works." These dead works are not quickened but removed by Penance, according to Heb. 6:1: "Not laying again the foundation of Penance from dead works." Secondly, works are said to be dead privatively, because, to wit, they lack spiritual life, which is founded on charity, whereby the soul is united to God, the result being that it is quickened as the body by the soul: in which sense too, faith, if it lack charity, is said to be dead, according to James 2:20: "Faith without works is dead." In this way also, all works that are generically good, are said to be dead, if they be done without charity, inasmuch as they fail to proceed from the principle of life; even as we might call the sound of a harp, a dead voice. Accordingly, the difference of life and death in works is in relation to the principle from which they proceed. But works cannot proceed a second time from a principle, because they are transitory, and the same identical deed cannot be resumed. Therefore it is impossible for dead works to be quickened by Penance.
+
 ## Replies
+
 Reply to Objection 1: In the physical order things whether dead or deadened lack the principle of life. But works are said to be deadened, not in relation to the principle whence they proceeded, but in relation to an extrinsic impediment; while they are said to be dead in relation to a principle. Consequently there is no comparison.
+
 Reply to Objection 2: Works generically good done without charity are said to be dead on account of the lack of grace and charity, as principles. Now the subsequent Penance does not supply that want, so as to make them proceed from such a principle. Hence the argument does not prove.
+
 Reply to Objection 3: God remembers the good deeds a man does when in a state of sin, not by rewarding them in eternal life, which is due only to living works, i.e. those done from charity, but by a temporal reward: thus Gregory declares (Hom. de Divite et Lazaro, 41 in Evang.) that "unless that rich man had done some good deed, and had received his reward in this world, Abraham would certainly not have said to him: 'Thou didst receive good things in thy lifetime.'" Or again, this may mean that he will be judged less severely: wherefore Augustine says (De Patientia xxvi): "We cannot say that it would be better for the schismatic that by denying Christ he should suffer none of those things which he suffered by confessing Him; but we must believe that he will be judged with less severity, than if by denying Christ, he had suffered none of those things. Thus the words of the Apostle, 'If I should deliver my body to be burned and have not charity, it profiteth me nothing,' refer to the obtaining of the kingdom of heaven, and do not exclude the possibility of being sentenced with less severity at the last judgment."

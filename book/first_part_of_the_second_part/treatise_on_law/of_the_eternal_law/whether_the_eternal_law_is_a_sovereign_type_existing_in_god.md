@@ -1,12 +1,23 @@
 # Whether The Eternal Law Is A Sovereign Type Existing In God?
+
 ## Objections
+
 Objection 1: It would seem that the eternal law is not a sovereign type existing in God. For there is only one eternal law. But there are many types of things in the Divine mind; for Augustine says (Qq. lxxxiii, qu. 46) that God "made each thing according to its type." Therefore the eternal law does not seem to be a type existing in the Divine mind.
+
 Objection 2: Further, it is essential to a law that it be promulgated by word, as stated above (Q[90], A[4]). But Word is a Personal name in God, as stated in the [1989]FP, Q[34], A[1]: whereas type refers to the Essence. Therefore the eternal law is not the same as a Divine type.
+
 Objection 3: Further, Augustine says (De Vera Relig. xxx): "We see a law above our minds, which is called truth." But the law which is above our minds is the eternal law. Therefore truth is the eternal law. But the idea of truth is not the same as the idea of a type. Therefore the eternal law is not the same as the sovereign type.
+
 ## Answer
+
 On the contrary, Augustine says (De Lib. Arb. i, 6) that "the eternal law is the sovereign type, to which we must always conform."
+
 I answer that, Just as in every artificer there pre-exists a type of the things that are made by his art, so too in every governor there must pre-exist the type of the order of those things that are to be done by those who are subject to his government. And just as the type of the things yet to be made by an art is called the art or exemplar of the products of that art, so too the type in him who governs the acts of his subjects, bears the character of a law, provided the other conditions be present which we have mentioned above (Q[90]). Now God, by His wisdom, is the Creator of all things in relation to which He stands as the artificer to the products of his art, as stated in the [1990]FP, Q[14], A[8]. Moreover He governs all the acts and movements that are to be found in each single creature, as was also stated in the [1991]FP, Q[103], A[5]. Wherefore as the type of the Divine Wisdom, inasmuch as by It all things are created, has the character of art, exemplar or idea; so the type of Divine Wisdom, as moving all things to their due end, bears the character of law. Accordingly the eternal law is nothing else than the type of Divine Wisdom, as directing all actions and movements.
+
 ## Replies
+
 Reply to Objection 1: Augustine is speaking in that passage of the ideal types which regard the proper nature of each single thing; and consequently in them there is a certain distinction and plurality, according to their different relations to things, as stated in the [1992]FP, Q[15], A[2]. But law is said to direct human acts by ordaining them to the common good, as stated above (Q[90], A[2]). And things, which are in themselves different, may be considered as one, according as they are ordained to one common thing. Wherefore the eternal law is one since it is the type of this order.
+
 Reply to Objection 2: With regard to any sort of word, two points may be considered: viz. the word itself, and that which is expressed by the word. For the spoken word is something uttered by the mouth of man, and expresses that which is signified by the human word. The same applies to the human mental word, which is nothing else that something conceived by the mind, by which man expresses his thoughts mentally. So then in God the Word conceived by the intellect of the Father is the name of a Person: but all things that are in the Father's knowledge, whether they refer to the Essence or to the Persons, or to the works of God, are expressed by this Word, as Augustine declares (De Trin. xv, 14). And among other things expressed by this Word, the eternal law itself is expressed thereby. Nor does it follow that the eternal law is a Personal name in God: yet it is appropriated to the Son, on account of the kinship between type and word.
+
 Reply to Objection 3: The types of the Divine intellect do not stand in the same relation to things, as the types of the human intellect. For the human intellect is measured by things, so that a human concept is not true by reason of itself, but by reason of its being consonant with things, since "an opinion is true or false according as it answers to the reality." But the Divine intellect is the measure of things: since each thing has so far truth in it, as it represents the Divine intellect, as was stated in the [1993]FP, Q[16], A[1]. Consequently the Divine intellect is true in itself; and its type is truth itself.

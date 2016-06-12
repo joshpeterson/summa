@@ -1,13 +1,25 @@
 # Whether Justice Is Always Towards One Another?
+
 ## Objections
+
 Objection 1: It would seem that justice is not always towards another. For the Apostle says (Rom. 3:22) that "the justice of God is by faith of Jesus Christ." Now faith does not concern the dealings of one man with another. Neither therefore does justice.
+
 Objection 2: Further, according to Augustine (De Moribus Eccl. xv), "it belongs to justice that man should direct to the service of God his authority over the things that are subject to him." Now the sensitive appetite is subject to man, according to Gn. 4:7, where it is written: "The lust thereof," viz. of sin, "shall be under thee, and thou shalt have dominion over it." Therefore it belongs to justice to have dominion over one's own appetite: so that justice is towards oneself.
+
 Objection 3: Further, the justice of God is eternal. But nothing else is co-eternal with God. Therefore justice is not essentially towards another.
+
 Objection 4: Further, man's dealings with himself need to be rectified no less than his dealings with another. Now man's dealings are rectified by justice, according to Prov. 11:5, "The justice of the upright shall make his way prosperous." Therefore justice is about our dealings not only with others, but also with ourselves.
+
 ## Answer
+
 On the contrary, Tully says (De Officiis i, 7) that "the object of justice is to keep men together in society and mutual intercourse." Now this implies relationship of one man to another. Therefore justice is concerned only about our dealings with others.
+
 I answer that, As stated above (Q[57], A[1]) since justice by its name implies equality, it denotes essentially relation to another, for a thing is equal, not to itself, but to another. And forasmuch as it belongs to justice to rectify human acts, as stated above (Q[57], A[1]; [2843]FS, Q[113], A[1]) this otherness which justice demands must needs be between beings capable of action. Now actions belong to supposits [*Cf. [2844]FP, Q[29], A[2]] and wholes and, properly speaking, not to parts and forms or powers, for we do not say properly that the hand strikes, but a man with his hand, nor that heat makes a thing hot, but fire by heat, although such expressions may be employed metaphorically. Hence, justice properly speaking demands a distinction of supposits, and consequently is only in one man towards another. Nevertheless in one and the same man we may speak metaphorically of his various principles of action such as the reason, the irascible, and the concupiscible, as though they were so many agents: so that metaphorically in one and the same man there is said to be justice in so far as the reason commands the irascible and concupiscible, and these obey reason; and in general in so far as to each part of man is ascribed what is becoming to it. Hence the Philosopher (Ethic. v, 11) calls this "metaphorical justice."
+
 ## Replies
+
 Reply to Objection 1: The justice which faith works in us, is that whereby the ungodly is justified it consists in the due coordination of the parts of the soul, as stated above ([2845]FS, Q[113], A[1]) where we were treating of the justification of the ungodly. Now this belongs to metaphorical justice, which may be found even in a man who lives all by himself.
+
 Reply to Objection 3: God's justice is from eternity in respect of the eternal will and purpose (and it is chiefly in this that justice consists); although it is not eternal as regards its effect, since nothing is co-eternal with God.
+
 Reply to Objection 4: Man's dealings with himself are sufficiently rectified by the rectification of the passions by the other moral virtues. But his dealings with others need a special rectification, not only in relation to the agent, but also in relation to the person to whom they are directed. Hence about such dealings there is a special virtue, and this is justice.

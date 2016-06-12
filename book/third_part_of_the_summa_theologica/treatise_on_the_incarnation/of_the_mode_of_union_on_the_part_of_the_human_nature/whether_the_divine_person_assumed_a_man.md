@@ -1,12 +1,23 @@
 # Whether The Divine Person Assumed A Man?
+
 ## Objections
+
 Objection 1: It would seem that the Divine Person assumed a man. For it is written (Ps. 64:5): "Blessed is he whom Thou hast chosen and taken to Thee," which a gloss expounds of Christ; and Augustine says (De Agone Christ. xi): "The Son of God assumed a man, and in him bore things human."
+
 Objection 2: Further, the word "man" signifies a human nature. But the Son of God assumed a human nature. Therefore He assumed a man.
+
 Objection 3: Further, the Son of God is a man. But He is not one of the men He did not assume, for with equal reason He would be Peter or any other man. Therefore He is the man whom He assumed.
+
 ## Answer
+
 On the contrary, Is the authority of Felix, Pope and Martyr, which is quoted by the Council of Ephesus: "We believe in our Lord Jesus Christ, born of the Virgin Mary, because He is the Eternal Son and Word of God, and not a man assumed by God, in such sort that there is another besides Him. For the Son of God did not assume a man, so that there be another besides Him."
+
 I answer that, As has been said above [3900](A[2]), what is assumed is not the term of the assumption, but is presupposed to the assumption. Now it was said (Q[3], AA[1],2) that the individual to Whom the human nature is assumed is none other than the Divine Person, Who is the term of the assumption. Now this word "man" signifies human nature, as it is in a suppositum, because, as Damascene says (De Fide Orth. iii, 4,11), this word God signifies Him Who has human nature. And hence it cannot properly be said that the Son assumed a man, granted (as it must be, in fact) that in Christ there is but one suppositum and one hypostasis. But according to such as hold that there are two hypostases or two supposita in Christ, it may fittingly and properly be said that the Son of God assumed a man. Hence the first opinion quoted in Sent. iii, D. 6, grants that a man was assumed. But this opinion is erroneous, as was said above (Q[2], A[6]).
+
 ## Replies
+
 Reply to Objection 1: These phrases are not to be taken too literally, but are to be loyally explained, wherever they are used by holy doctors; so as to say that a man was assumed, inasmuch as his nature was assumed; and because the assumption terminated in this---that the Son of God is man.
+
 Reply to Objection 2: The word "man" signifies human nature in the concrete, inasmuch as it is in a suppositum; and hence, since we cannot say a suppositum was assumed, so we cannot say a man was assumed.
+
 Reply to Objection 3: The Son of God is not the man whom He assumed, but the man whose nature He assumed.

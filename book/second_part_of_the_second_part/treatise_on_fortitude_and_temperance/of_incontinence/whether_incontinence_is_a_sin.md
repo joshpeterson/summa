@@ -1,14 +1,25 @@
 # Whether Incontinence Is A Sin?
+
 ## Objections
+
 Objection 1: It would seem that incontinence is not a sin. For as Augustine says (De Lib. Arb. iii, 18): "No man sins in what he cannot avoid." Now no man can by himself avoid incontinence, according to Wis. 8:21, "I know [Vulg.: 'knew'] that I could not . . . be continent, except God gave it." Therefore incontinence is not a sin.
+
 Objection 2: Further, apparently every sin originates in the reason. But the judgment of reason is overcome in the incontinent man. Therefore incontinence is not a sin.
+
 Objection 3: Further, no one sins in loving God vehemently. Now a man becomes incontinent through the vehemence of divine love: for Dionysius says (Div. Nom. iv) that "Paul, through incontinence of divine love, exclaimed: I live, now not I" (Gal. 2:20). Therefore incontinence is not a sin.
+
 ## Answer
+
 On the contrary, It is numbered together with other sins (2 Tim. 3:3) where it is written: "Slanderers, incontinent, unmerciful," etc. Therefore incontinence is a sin.
+
 I answer that, Incontinence about a matter may be considered in two ways. First it may be considered properly and simply: and thus incontinence is about concupiscences of pleasures of touch, even as intemperance is, as we have said in reference to continence ([3561]Q[155], A[2] ). In this way incontinence is a sin for two reasons: first, because the incontinent man goes astray from that which is in accord with reason; secondly, because he plunges into shameful pleasures. Hence the Philosopher says (Ethic. vii, 4) that "incontinence is censurable not only because it is wrong"---that is, by straying from reason---"but also because it is wicked"---that is, by following evil desires. Secondly, incontinence about a matter is considered, properly---inasmuch as it is a straying from reason---but not simply; for instance when a man does not observe the mode of reason in his desire for honor, riches, and so forth, which seem to be good in themselves. About such things there is incontinence, not simply but relatively, even as we have said above in reference to continence ([3562]Q[155], A[2], ad 3). In this way incontinence is a sin, not from the fact that one gives way to wicked desires, but because one fails to observe the mode of reason even in the desire for things that are of themselves desirable.
 
 Thirdly, incontinence is said to be about a matter, not properly, but metaphorically. for instance about the desires for things of which one cannot make an evil use, such as the desire for virtue. A man may be said to be incontinent in these matters metaphorically, because just as the incontinent man is entirely led by his evil desire, even so is a man entirely led by his good desire which is in accord with reason. Such like incontinence is no sin, but pertains to the perfection of virtue.
+
 ## Replies
+
 Reply to Objection 1: Man can avoid sin and do good, yet not without God's help, according to Jn. 15:5: "Without Me you can do nothing." Wherefore the fact that man needs God's help in order to be continent, does not show incontinence to be no sin, for, as stated in Ethic. iii, 3, "what we can do by means of a friend we do, in a way, ourselves."
+
 Reply to Objection 2: The judgment of reason is overcome in the incontinent man, not necessarily, for then he would commit no sin, but through a certain negligence on account of his not standing firm in resisting the passion by holding to the judgment formed by his reason.
+
 Reply to Objection 3: This argument takes incontinence metaphorically and not properly.

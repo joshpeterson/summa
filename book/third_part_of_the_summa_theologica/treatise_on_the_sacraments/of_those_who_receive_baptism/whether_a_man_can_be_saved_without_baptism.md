@@ -1,14 +1,25 @@
 # Whether A Man Can Be Saved Without Baptism?
+
 ## Objections
+
 Objection 1: It seems that no man can be saved without Baptism. For our Lord said (Jn. 3:5): "Unless a man be born again of water and the Holy Ghost, he cannot enter the kingdom of God." But those alone are saved who enter God's kingdom. Therefore none can be saved without Baptism, by which a man is born again of water and the Holy Ghost.
+
 Objection 2: Further, in the book De Eccl. Dogm. xli, it is written: "We believe that no catechumen, though he die in his good works, will have eternal life, except he suffer martyrdom, which contains all the sacramental virtue of Baptism." But if it were possible for anyone to be saved without Baptism, this would be the case specially with catechumens who are credited with good works, for they seem to have the "faith that worketh by charity" (Gal. 5:6). Therefore it seems that none can be saved without Baptism.
+
 Objection 3: Further, as stated above [4442](A[1]; Q[65], A[4]), the sacrament of Baptism is necessary for salvation. Now that is necessary "without which something cannot be" (Metaph. v). Therefore it seems that none can obtain salvation without Baptism.
+
 ## Answer
+
 On the contrary, Augustine says (Super Levit. lxxxiv) that "some have received the invisible sanctification without visible sacraments, and to their profit; but though it is possible to have the visible sanctification, consisting in a visible sacrament, without the invisible sanctification, it will be to no profit." Since, therefore, the sacrament of Baptism pertains to the visible sanctification, it seems that a man can obtain salvation without the sacrament of Baptism, by means of the invisible sanctification.
+
 I answer that, The sacrament or Baptism may be wanting to someone in two ways. First, both in reality and in desire; as is the case with those who neither are baptized, nor wished to be baptized: which clearly indicates contempt of the sacrament, in regard to those who have the use of the free-will. Consequently those to whom Baptism is wanting thus, cannot obtain salvation: since neither sacramentally nor mentally are they incorporated in Christ, through Whom alone can salvation be obtained.
 
 Secondly, the sacrament of Baptism may be wanting to anyone in reality but not in desire: for instance, when a man wishes to be baptized, but by some ill-chance he is forestalled by death before receiving Baptism. And such a man can obtain salvation without being actually baptized, on account of his desire for Baptism, which desire is the outcome of "faith that worketh by charity," whereby God, Whose power is not tied to visible sacraments, sanctifies man inwardly. Hence Ambrose says of Valentinian, who died while yet a catechumen: "I lost him whom I was to regenerate: but he did not lose the grace he prayed for."
+
 ## Replies
+
 Reply to Objection 1: As it is written (1 Kings 16:7), "man seeth those things that appear, but the Lord beholdeth the heart." Now a man who desires to be "born again of water and the Holy Ghost" by Baptism, is regenerated in heart though not in body. thus the Apostle says (Rom. 2:29) that "the circumcision is that of the heart, in the spirit, not in the letter; whose praise is not of men but of God."
+
 Reply to Objection 2: No man obtains eternal life unless he be free from all guilt and debt of punishment. Now this plenary absolution is given when a man receives Baptism, or suffers martyrdom: for which reason is it stated that martyrdom "contains all the sacramental virtue of Baptism," i.e. as to the full deliverance from guilt and punishment. Suppose, therefore, a catechumen to have the desire for Baptism (else he could not be said to die in his good works, which cannot be without "faith that worketh by charity"), such a one, were he to die, would not forthwith come to eternal life, but would suffer punishment for his past sins, "but he himself shall be saved, yet so as by fire" as is stated 1 Cor. 3:15.
+
 Reply to Objection 3: The sacrament of Baptism is said to be necessary for salvation in so far as man cannot be saved without, at least, Baptism of desire; "which, with God, counts for the deed" (Augustine, Enarr. in Ps. 57).

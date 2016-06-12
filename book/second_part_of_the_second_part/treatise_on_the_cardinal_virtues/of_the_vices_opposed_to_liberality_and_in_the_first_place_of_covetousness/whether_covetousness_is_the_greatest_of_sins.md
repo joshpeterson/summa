@@ -1,14 +1,27 @@
 # Whether Covetousness Is The Greatest Of Sins?
+
 ## Objections
+
 Objection 1: It seems that covetousness is the greatest of sins. For it is written (Ecclus. 10:9): "Nothing is more wicked than a covetous man," and the text continues: "There is not a more wicked thing than to love money: for such a one setteth even his own soul to sale." Tully also says (De Offic. i, under the heading, 'True magnanimity is based chiefly on two things'): "Nothing is so narrow or little minded as to love money." But this pertains to covetousness. Therefore covetousness is the most grievous of sins.
+
 Objection 2: Further, the more a sin is opposed to charity, the more grievous it is. Now covetousness is most opposed to charity: for Augustine says (QQ[83], qu. 36) that "greed is the bane of charity." Therefore covetousness is the greatest of sins.
+
 Objection 3: Further, the gravity of a sin is indicated by its being incurable: wherefore the sin against the Holy Ghost is said to be most grievous, because it is irremissible. But covetousness is an incurable sin: hence the Philosopher says (Ethic. iv, 1) that "old age and helplessness of any kind make men illiberal." Therefore covetousness is the most grievous of sins.
+
 Objection 4: Further, the Apostle says (Eph. 5:5) that covetousness is "a serving of idols." Now idolatry is reckoned among the most grievous sins. Therefore covetousness is also.
+
 ## Answer
+
 On the contrary, Adultery is a more grievous sin than theft, according to Prov. 6:30. But theft pertains to covetousness. Therefore covetousness is not the most grievous of sins.
+
 I answer that, Every sin, from the very fact that it is an evil, consists in the corruption or privation of some good: while, in so far as it is voluntary, it consists in the desire of some good. Consequently the order of sins may be considered in two ways. First, on the part of the good that is despised or corrupted by sin, and then the greater the good the graver the sin. From this point of view a sin that is against God is most grievous; after this comes a sin that is committed against a man's person, and after this comes a sin against external things, which are deputed to man's use, and this seems to belong to covetousness. Secondly, the degrees of sin may be considered on the part of the good to which the human appetite is inordinately subjected; and then the lesser the good, the more deformed is the sin: for it is more shameful to be subject to a lower than to a higher good. Now the good of external things is the lowest of human goods: since it is less than the good of the body, and this is less than the good of the soul, which is less than the Divine good. From this point of view the sin of covetousness, whereby the human appetite is subjected even to external things, has in a way a greater deformity. Since, however, corruption or privation of good is the formal element in sin, while conversion to a mutable good is the material element, the gravity of the sin is to be judged from the point of view of the good corrupted, rather than from that of the good to which the appetite is subjected. Hence we must assert that covetousness is not simply the most grievous of sins.
+
 ## Replies
+
 Reply to Objection 1: These authorities speak of covetousness on the part of the good to which the appetite is subjected. Hence (Ecclus. 10:10) it is given as a reason that the covetous man "setteth his own soul to sale"; because, to wit, he exposes his soul---that is, his life---to danger for the sake of money. Hence the text continues: "Because while he liveth he hath cast away"---that is, despised---"his bowels," in order to make money. Tully also adds that it is the mark of a "narrow mind," namely, that one be willing to be subject to money.
+
 Reply to Objection 2: Augustine is taking greed generally, in reference to any temporal good, not in its special acceptation for covetousness: because greed for any temporal good is the bane of charity, inasmuch as a man turns away from the Divine good through cleaving to a temporal good.
+
 Reply to Objection 3: The sin against the Holy Ghost is incurable in one way, covetousness in another. For the sin against the Holy Ghost is incurable by reason of contempt: for instance, because a man contemns God's mercy, or His justice, or some one of those things whereby man's sins are healed: wherefore incurability of this kind points to the greater gravity of the sin. on the other hand, covetousness is incurable on the part of a human defect; a thing which human nature ever seeks to remedy, since the more deficient one is the more one seeks relief from external things, and consequently the more one gives way to covetousness. Hence incurability of this kind is an indication not of the sin being more grievous, but of its being somewhat more dangerous.
+
 Reply to Objection 4: Covetousness is compared to idolatry on account of a certain likeness that it bears to it: because the covetous man, like the idolater, subjects himself to an external creature, though not in the same way. For the idolater subjects himself to an external creature by paying it Divine honor, whereas the covetous man subjects himself to an external creature by desiring it immoderately for use, not for worship. Hence it does not follow that covetousness is as grievous a sin as idolatry.

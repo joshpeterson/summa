@@ -1,16 +1,31 @@
 # Whether The Cause Assigned For The Production Of The Lights Is Reasonable?
+
 ## Objections
+
 Objection 1: It would seem that the cause assigned for the production of the lights is not reasonable. For it is said (Jer. 10:2): "Be not afraid of the signs of heaven, which the heathens fear." Therefore the heavenly lights were not made to be signs.
+
 Objection 2: Further, sign is contradistinguished from cause. But the lights are the cause of what takes place upon the earth. Therefore they are not signs.
+
 Objection 3: Further, the distinction of seasons and days began from the first day. Therefore the lights were not made "for seasons, and days, and years," that is, in order to distinguish them.
+
 Objection 4: Further, nothing is made for the sake of that which is inferior to itself, "since the end is better than the means" (Topic. iii). But the lights are nobler than the earth. Therefore they were not made "to enlighten it."
+
 Objection 5: Further, the new moon cannot be said "to rule the night." But such it probably did when first made; for men begin to count from the new moon. The moon, therefore, was not made "to rule the night."
+
 ## Answer
+
 On the contrary, Suffices the authority of Scripture.
+
 I answer that, As we have said above ([588]Q[65], A[2]), a corporeal creature can be considered as made either for the sake of its proper act, or for other creatures, or for the whole universe, or for the glory of God. Of these reasons only that which points out the usefulness of these things to man, is touched upon by Moses, in order to withdraw his people from idolatry. Hence it is written (Dt. 4:19): "Lest perhaps lifting up thy eyes to heaven, thou see the sun and the moon and all the stars of heaven, and being deceived by error thou adore and serve them, which the Lord thy God created for the service of all nations." Now, he explains this service at the beginning of Genesis as threefold. First, the lights are of service to man, in regard to sight, which directs him in his works, and is most useful for perceiving objects. In reference to this he says: "Let them shine in the firmament and give life to the earth." Secondly, as regards the changes of the seasons, which prevent weariness, preserve health, and provide for the necessities of food; all of which things could not be secured if it were always summer or winter. In reference to this he says: "Let them be for seasons, and for days, and years." Thirdly, as regards the convenience of business and work, in so far as the lights are set in the heavens to indicate fair or foul weather, as favorable to various occupations. And in this respect he says: "Let them be for signs."
+
 ## Replies
+
 Reply to Objection 1: The lights in the heaven are set for signs of changes effected in corporeal creatures, but not of those changes which depend upon the free-will.
+
 Reply to Objection 2: We are sometimes brought to the knowledge of hidden effects through their sensible causes, and conversely. Hence nothing prevents a sensible cause from being a sign. But he says "signs," rather than "causes," to guard against idolatry.
+
 Reply to Objection 3: The general division of time into day and night took place on the first day, as regards the diurnal movement, which is common to the whole heaven and may be understood to have begun on that first day. But the particular distinctions of days and seasons and years, according as one day is hotter than another, one season than another, and one year than another, are due to certain particular movements of the stars: which movements may have had their beginning on the fourth day.
+
 Reply to Objection 4: Light was given to the earth for the service of man, who, by reason of his soul, is nobler than the heavenly bodies. Nor is it untrue to say that a higher creature may be made for the sake of a lower, considered not in itself, but as ordained to the good of the universe.
+
 Reply to Objection 5: When the moon is at its perfection it rises in the evening and sets in the morning, and thus it rules the night, and it was probably made in its full perfection as were plants yielding seed, as also were animals and man himself. For although the perfect is developed from the imperfect by natural processes, yet the perfect must exist simply before the imperfect. Augustine, however (Gen. ad lit. ii), does not say this, for he says that it is not unfitting that God made things imperfect, which He afterwards perfected.

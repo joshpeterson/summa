@@ -1,16 +1,31 @@
 # Whether Heretics And Those Who Are Cut Off From The Church Can Confer Orders?
+
 ## Objections
+
 Objection 1: It would seem that heretics and those who are cut off from the Church cannot confer Orders. For to confer Orders is a greater thing than to loose or bind anyone. But a heretic cannot loose or bind. Neither therefore can he ordain.
+
 Objection 2: Further, a priest that is separated from the Church can consecrate, because the character whence he derives this power remains in him indelibly. But a bishop receives no character when he is raised to the episcopate. Therefore he does not necessarily retain the episcopal power after his separation from the Church.
+
 Objection 3: Further, in no community can one who is expelled therefrom dispose of the offices of the community. Now Orders are offices of the Church. Therefore one who is outside the Church cannot confer Orders.
+
 Objection 4: Further, the sacraments derive their efficacy from Christ's passion. Now a heretic is not united to Christ's passion; neither by his own faith, since he is an unbeliever, nor by the faith of the Church, since he is severed from the Church. Therefore he cannot confer the sacrament of Orders.
+
 Objection 5: Further, a blessing is necessary in the conferring of Orders. But a heretic cannot bless; in fact his blessing is turned into a curse, as appears from the authorities quoted in the text (Sent. iv, D, 25). Therefore he cannot ordain.
+
 ## Answer
+
 On the contrary, When a bishop who has fallen into heresy is reconciled he is not reconsecrated. Therefore he did not lose the power which he had of conferring Orders.
+
 I answer that, on this question four opinions are mentioned in the text (Sent. iv, D, 25). For some said that heretics, so long as they are tolerated by the Church, retain the power to ordain, but not after they have been cut off from the Church; as neither do those who have been degraded and the like. This is the first opinion. Yet this is impossible, because, happen what may, no power that is given with a consecration can be taken away so long as the thing itself remains, any more than the consecration itself can be annulled, for even an altar or chrism once consecrated remains consecrated for ever. Wherefore, since the episcopal power is conferred by consecration, it must needs endure for ever, however much a man may sin or be cut off from the Church. For this reason others said that those who are cut off from the Church after having episcopal power in the Church, retain the power to ordain and raise others, but that those who are raised by them have not this power. This is the fourth opinion. But this again is impossible, for if those who were ordained in the Church retain the power they received, it is clear that by exercising their power they consecrate validly, and therefore they validly confer whatever power is given with that consecration, and thus those who receive ordination or promotion from them have the same power as they. Wherefore others said that even those who are cut off from the Church can confer Orders and the other sacraments, provided they observe the due form and intention, both as to the first effect, which is the conferring of the sacrament, and as to the ultimate effect which is the conferring of grace. This is the second opinion. But this again is inadmissible, since by the very fact that a person communicates in the sacraments with a heretic who is cut off from the Church, he sins, and thus approaches the sacrament insincerely and cannot obtain grace, except perhaps in Baptism in a case of necessity. Hence others say that they confer the sacraments validly, but do not confer grace with them, not that the sacraments are lacking in efficacy, but on account of the sins of those who receive the sacraments from such persons despite the prohibition of the Church. This is the third and the true opinion.
+
 ## Replies
+
 Reply to Objection 1: The effect of absolution is nothing else but the forgiveness of sins which results from grace, and consequently a heretic cannot absolve, as neither can he confer grace in the sacraments. Moreover in order to give absolution it is necessary to have jurisdiction, which one who is cut off from the Church has not.
+
 Reply to Objection 2: When a man is raised to the episcopate he receives a power which he retains for ever. This, however, cannot be called a character, because a man is not thereby placed in direct relation to God, but to Christ's mystical body. Nevertheless it remains indelibly even as the character, because it is given by consecration.
+
 Reply to Objection 3: Those who are ordained by heretics, although they receive an Order, do not receive the exercise thereof, so as to minister lawfully in their Orders, for the very reason indicated in the Objection.
+
 Reply to Objection 4: They are united to the passion of Christ by the faith of the Church, for although in themselves they are severed from it, they are united to it as regards the form of the Church which they observe.
+
 Reply to Objection 5: This refers to the ultimate effect of the sacraments, as the third opinion maintains.

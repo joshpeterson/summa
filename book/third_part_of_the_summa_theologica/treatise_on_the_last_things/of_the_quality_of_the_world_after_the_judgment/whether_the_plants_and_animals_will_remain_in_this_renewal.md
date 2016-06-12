@@ -1,16 +1,31 @@
 # Whether The Plants And Animals Will Remain In This Renewal?
+
 ## Objections
+
 Objection 1: It would seem that the plants and animals will remain in this renewal. For the elements should be deprived of nothing that belongs to their adornment. Now the elements are said to be adorned by the animals and plants [*Cf. Gn. 1:11,12,20,21,24,25]. Therefore they will not be removed in this renewal.
+
 Objection 2: Further, just as the elements served man, so also did animals, plants and mineral bodies. But on account of this service the elements will be glorified. Therefore both animals and plants and mineral bodies will be glorified likewise.
+
 Objection 3: Further, the universe will remain imperfect if anything belonging to its perfection be removed. Now the species of animals, plants, and mineral bodies belong to the perfection of the universe. Since then we must not say that the world will remain imperfect when it is renewed, it seems that we should assert that the plants and animals will remain.
+
 Objection 4: Further, animals and plants have a more noble form than the elements. Now the world, at this final renewal, will be changed for the better. Therefore animals and plants should remain rather than the elements, since they are nobler.
+
 Objection 5: Further, it is unseemly to assert that the natural appetite will be frustrated. But by their natural appetite animals and plants desire to be for ever, if indeed not as regards the individual, at least as regards the species: and to this end their continual generation is directed (De Generat. ii). Therefore it is unseemly to say that these species will at length cease to be.
+
 ## Answer
+
 On the contrary, If plants and animals are to remain, either all of them will, or some of them. If all of them, then dumb animals, which had previously died, will have to rise again just as men will rise again. But this cannot be asserted for since their form comes to nothing, they cannot resume the same identical form. On the other hand if not all but some of them remain, since there is no more reason for one of them remaining for ever rather than another, it would seem that none of them will. But whatever remains after the world has been renewed will remain for ever, generation and corruption being done away. Therefore plants and animals will altogether cease after the renewal of the world.
+
 I answer that, Since the renewal of the world will be for man's sake it follows that it should be conformed to the renewal of man. Now by being renewed man will pass from the state of corruption to incorruptibility and to a state of everlasting rest, wherefore it is written (1 Cor. 15:53): "This corruptible must put on incorruption, and this mortal must put on immortality"; and consequently the world will be renewed in such a way as to throw off all corruption and remain for ever at rest. Therefore it will be impossible for anything to be the subject of that renewal, unless it be a subject of incorruption. Now such are the heavenly bodies, the elements, and man. For the heavenly bodies are by their very nature incorruptible both as to their whole and as to their part: the elements are corruptible as to their parts but incorruptible as a whole: while men are corruptible both in whole and in part, but this is on the part of their matter not on the part of their form, the rational soul to wit, which will remain incorrupt after the corruption of man. on the other hand, dumb animals, plants, and minerals, and all mixed bodies, are corruptible both in their whole and in their parts, both on the part of their matter which loses its form, and on the part of their form which does not remain actually; and thus they are in no way subjects of incorruption. Hence they will not remain in this renewal, but those things alone which we have mentioned above.
+
 ## Replies
+
 Reply to Objection 1: These bodies are said to adorn the elements, inasmuch as the general active and passive forces which are in the elements are applied to specific actions: hence they adorn the elements in their active and passive state. But this state will not remain in the elements: wherefore there is no need for animals or plants to remain.
+
 Reply to Objection 2: Neither animals nor plants nor any other bodies merited anything by their services to man, since they lack free-will. However, certain bodies are said to be rewarded in so far as man merited that those things should be renewed which are adapted to be renewed. But plants and animals are not adapted to the renewal of incorruption, as stated above. Wherefore for this very reason man did not merit that they should be renewed, since no one can merit for another, or even for himself that which another or himself is incapable of receiving. Hence, granted even that dumb animals merited by serving man, it would not follow that they are to be renewed.
+
 Reply to Objection 3: Just as several kinds of perfection are ascribed to man (for there is the perfection of created nature and the perfection of glorified nature), so also there is a twofold perfection of the universe, one corresponding to this state of changeableness, the other corresponding to the state of a future renewal. Now plants and animals belong to its perfection according to the present state, and not according to the state of this renewal, since they are not capable thereof.
+
 Reply to Objection 4: Although animals and plants as to certain other respects are more noble than the elements, the elements are more noble in relation to incorruption, as explained above [*Cf.[5123] Q[74], A[1], ad 3].
+
 Reply to Objection 5: The natural desire to be for ever that is in animals and plants must be understood in reference to the movement of the heaven, so that they may continue in being as long as the movement of the heaven lasts: since there cannot be an appetite for an effect to last longer than its cause. Wherefore if at the cessation of movement in the first movable body, plants and animals cease as to their species, it does not follow that the natural appetite is frustrated.

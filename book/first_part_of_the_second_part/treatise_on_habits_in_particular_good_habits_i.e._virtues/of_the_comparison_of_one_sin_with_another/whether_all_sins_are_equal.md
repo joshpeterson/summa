@@ -1,12 +1,23 @@
 # Whether All Sins Are Equal?
+
 ## Objections
+
 Objection 1: It would seem that all sins are equal. Because sin is to do what is unlawful. Now to do what is unlawful is reproved in one and the same way in all things. Therefore sin is reproved in one and the same way. Therefore one sin is not graver than another.
+
 Objection 2: Further, every sin is a transgression of the rule of reason, which is to human acts what a linear rule is in corporeal things. Therefore to sin is the same as to pass over a line. But passing over a line occurs equally and in the same way, even if one go a long way from it or stay near it, since privations do not admit of more or less. Therefore all sins are equal.
+
 Objection 3: Further, sins are opposed to virtues. But all virtues are equal, as Cicero states (Paradox. iii). Therefore all sins are equal.
+
 ## Answer
+
 On the contrary, Our Lord said to Pilate (Jn. 19:11): "He that hath delivered me to thee, hath the greater sin," and yet it is evident that Pilate was guilty of some sin. Therefore one sin is greater than another.
+
 I answer that, The opinion of the Stoics, which Cicero adopts in the book on Paradoxes (Paradox. iii), was that all sins are equal: from which opinion arose the error of certain heretics, who not only hold all sins to be equal, but also maintain that all the pains of hell are equal. So far as can be gathered from the words of Cicero the Stoics arrived at their conclusion through looking at sin on the side of the privation only, in so far, to wit, as it is a departure from reason; wherefore considering simply that no privation admits of more or less, they held that all sins are equal. Yet, if we consider the matter carefully, we shall see that there are two kinds of privation. For there is a simple and pure privation, which consists, so to speak, in "being" corrupted; thus death is privation of life, and darkness is privation of light. Such like privations do not admit of more or less, because nothing remains of the opposite habit; hence a man is not less dead on the first day after his death, or on the third or fourth days, than after a year, when his corpse is already dissolved; and, in like manner, a house is no darker if the light be covered with several shades, than if it were covered by a single shade shutting out all the light. There is, however, another privation which is not simple, but retains something of the opposite habit; it consists in "becoming" corrupted rather than in "being" corrupted, like sickness which is a privation of the due commensuration of the humors, yet so that something remains of that commensuration, else the animal would cease to live: and the same applies to deformity and the like. Such privations admit of more or less on the part of what remains or the contrary habit. For it matters much in sickness or deformity, whether one departs more or less from the due commensuration of humors or members. The same applies to vices and sins: because in them the privation of the due commensuration of reason is such as not to destroy the order of reason altogether; else evil, if total, destroys itself, as stated in Ethic. iv, 5. For the substance of the act, or the affection of the agent could not remain, unless something remained of the order of reason. Therefore it matters much to the gravity of a sin whether one departs more or less from the rectitude of reason: and accordingly we must say that sins are not all equal.
+
 ## Replies
+
 Reply to Objection 1: To commit sin is lawful on account of some inordinateness therein: wherefore those which contain a greater inordinateness are more unlawful, and consequently graver sins.
+
 Reply to Objection 2: This argument looks upon sin as though it were a pure privation.
+
 Reply to Objection 3: Virtues are proportionately equal in one and the same subject: yet one virtue surpasses another in excellence according to its species; and again, one man is more virtuous than another, in the same species of virtue, as stated above ([1725]Q[66], AA[1],2). Moreover, even if virtues were equal, it would not follow that vices are equal, since virtues are connected, and vices or sins are not.

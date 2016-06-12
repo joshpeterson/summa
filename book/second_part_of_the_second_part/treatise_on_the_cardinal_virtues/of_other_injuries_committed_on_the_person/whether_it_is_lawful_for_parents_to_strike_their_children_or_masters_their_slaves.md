@@ -1,12 +1,23 @@
 # Whether It Is Lawful For Parents To Strike Their Children, Or Masters Their Slaves?
+
 ## Objections
+
 Objection 1: It would seem unlawful for parents to strike their children, or masters their slaves. For the Apostle says (Eph. 6:4): "You, fathers, provoke not your children to anger"; and further on (Eph. 9:6): "And you, masters, do the same thing to your slaves [Vulg.: 'to them'] forbearing threatenings." Now some are provoked to anger by blows, and become more troublesome when threatened. Therefore neither should parents strike their children, nor masters their slaves.
+
 Objection 2: Further, the Philosopher says (Ethic. x, 9) that "a father's words are admonitory and not coercive." Now blows are a kind of coercion. Therefore it is unlawful for parents to strike their children.
+
 Objection 3: Further, everyone is allowed to impart correction, for this belongs to the spiritual almsdeeds, as stated above ([2909]Q[32], A[2]). If, therefore, it is lawful for parents to strike their children for the sake of correction, for the same reason it will be lawful for any person to strike anyone, which is clearly false. Therefore the same conclusion follows.
+
 ## Answer
+
 On the contrary, It is written (Prov. 13:24): "He that spareth the rod hateth his son," and further on (Prov. 23:13): "Withhold not correction from a child, for if thou strike him with the rod, he shall not die. Thou shalt beat him with the rod, and deliver his soul from hell." Again it is written (Ecclus. 33:28): "Torture and fetters are for a malicious slave."
+
 I answer that, Harm is done a body by striking it, yet not so as when it is maimed: since maiming destroys the body's integrity, while a blow merely affects the sense with pain, wherefore it causes much less harm than cutting off a member. Now it is unlawful to do a person a harm, except by way of punishment in the cause of justice. Again, no man justly punishes another, except one who is subject to his jurisdiction. Therefore it is not lawful for a man to strike another, unless he have some power over the one whom he strikes. And since the child is subject to the power of the parent, and the slave to the power of his master, a parent can lawfully strike his child, and a master his slave that instruction may be enforced by correction.
+
 ## Replies
+
 Reply to Objection 1: Since anger is a desire for vengeance, it is aroused chiefly when a man deems himself unjustly injured, as the Philosopher states (Rhet. ii). Hence when parents are forbidden to provoke their children to anger, they are not prohibited from striking their children for the purpose of correction, but from inflicting blows on them without moderation. The command that masters should forbear from threatening their slaves may be understood in two ways. First that they should be slow to threaten, and this pertains to the moderation of correction; secondly, that they should not always carry out their threats, that is that they should sometimes by a merciful forgiveness temper the judgment whereby they threatened punishment.
+
 Reply to Objection 2: The greater power should exercise the greater coercion. Now just as a city is a perfect community, so the governor of a city has perfect coercive power: wherefore he can inflict irreparable punishments such as death and mutilation. On the other hand the father and the master who preside over the family household, which is an imperfect community, have imperfect coercive power, which is exercised by inflicting lesser punishments, for instance by blows, which do not inflict irreparable harm.
+
 Reply to Objection 3: It is lawful for anyone to impart correction to a willing subject. But to impart it to an unwilling subject belongs to those only who have charge over him. To this pertains chastisement by blows.

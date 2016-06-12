@@ -1,14 +1,25 @@
 # Whether Sacrilege Is A Special Sin?
+
 ## Objections
+
 Objection 1: It would seem that sacrilege not a special sin. It is stated (XVII, qu. iv) "They are guilty of sacrilege who through ignorance sin against the sanctity of the law, violate and defile it by their negligence." But this is done in every sin, because sin is "a word, deed or desire contrary to the law of God," according to Augustine (Contra Faust. xxi, 27). Therefore sacrilege is a general sin.
+
 Objection 2: Further, no special sin is comprised under different kinds of sin. Now sacrilege comprised under different kinds of sin, for instance under murder, if one kill a priest under lust, as the violation of a consecrate virgin, or of any woman in a sacred place under theft, if one steal a sacred thing. Therefore sacrilege is not a special sin.
+
 Objection 3: Further, every special sin is to found apart from other sins as the Philosopher states, in speaking of special justice (Ethic. v, 11). But, seemingly, sacrilege is not to be found apart from other sins; for it is sometimes united to theft, sometimes to murder, as stated in the preceding objection. Therefore it is not a special sin.
+
 ## Answer
+
 On the contrary, That which is opposed to a special virtue is a special sin. But sacrilege is opposed to a special virtue, namely religion, to which it belongs to reverence God and divine things. Therefore sacrilege is a special sin.
+
 I answer that, Wherever we find a special aspect of deformity, there must needs be a special sin; because the species of a thing is derived chiefly from its formal aspect, and not from its matter or subject. Now in sacrilege we find a special aspect of deformity, namely, the violation of a sacred thing by treating it irreverently. Hence it is a special sin.
 
 Moreover, it is opposed to religion. For according to Damascene (De Fide Orth. iv, 3), "When the purple has been made into a royal robe, we pay it honor and homage, and if anyone dishonor it he is condemned to death," as acting against the king: and in the same way if a man violate a sacred thing, by so doing his behavior is contrary to the reverence due to God and consequently he is guilty of irreligion.
+
 ## Replies
+
 Reply to Objection 1: Those are said to sin against the sanctity of the divine law who assail God's law, as heretics and blasphemers do. These are guilty of unbelief, through not believing in God; and of sacrilege, through perverting the words of the divine law.
+
 Reply to Objection 2: Nothing prevents one specific kind of sin being found in various generic kinds of sin, inasmuch as various sins are directed to the end of one sin, just as happens in the case of virtues commanded by one virtue. In this way, by whatever kind of sin a man acts counter to reverence due to sacred things, he commits a sacrilege formally; although his act contains various kinds of sin materially.
+
 Reply to Objection 3: Sacrilege is sometimes found apart from other sins, through its act having no other deformity than the violation of a sacred thing: for instance, if a judge were to take a person from a sacred place for he might lawfully have taken him from elsewhere.

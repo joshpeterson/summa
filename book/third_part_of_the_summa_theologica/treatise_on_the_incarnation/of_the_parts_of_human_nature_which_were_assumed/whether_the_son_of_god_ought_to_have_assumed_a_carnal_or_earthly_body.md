@@ -1,12 +1,23 @@
 # Whether The Son Of God Ought To Have Assumed A Carnal Or Earthly Body?
+
 ## Objections
+
 Objection 1: It would seem that Christ had not a carnal or earthly, but a heavenly body. For the Apostle says (1 Cor. 15:41): "The first man was of the earth, earthy; the second man from heaven, heavenly." But the first man, i.e. Adam, was of the earth as regards his body, as is plain from Gn. 1. Therefore the second man, i.e. Christ, was of heaven as regards the body.
+
 Objection 2: Further, it is said (1 Cor. 15:50): "Flesh and blood shall not [Vulg.: 'cannot'] possess the kingdom of God." But the kingdom of God is in Christ chiefly. Therefore there is no flesh or blood in Him, but rather a heavenly body.
+
 Objection 3: Further, whatever is best is to be attributed to God. But of all bodies a heavenly body is the best. Therefore it behooved Christ to assume such a body.
+
 ## Answer
+
 On the contrary, our Lord says (Lk. 24:39): "A spirit hath not flesh and bones, as you see Me to have." Now flesh and bones are not of the matter of heavenly bodies, but are composed of the inferior elements. Therefore the body of Christ was not a heavenly, but a carnal and earthly body.
+
 I answer that, By the reasons which proved that the body of Christ was not an imaginary one, it may also be shown that it was not a heavenly body. First, because even as the truth of the human nature of Christ would not have been maintained had His body been an imaginary one, such as Manes supposed, so likewise it would not have been maintained if we supposed, as did Valentine, that it was a heavenly body. For since the form of man is a natural thing, it requires determinate matter, to wit, flesh and bones, which must be placed in the definition of man, as is plain from the Philosopher (Metaph. vii, 39). Secondly, because this would lessen the truth of such things as Christ did in the body. For since a heavenly body is impassible and incorruptible, as is proved De Coel. i, 20, if the Son of God had assumed a heavenly body, He would not have truly hungered or thirsted, nor would he have undergone His passion and death. Thirdly, this would have detracted from God's truthfulness. For since the Son of God showed Himself to men, as if He had a carnal and earthly body, the manifestation would have been false, had He had a heavenly body. Hence (De Eccles. Dogm. ii) it is said: "The Son of God was born, taking flesh of the Virgin's body, and not bringing it with Him from heaven."
+
 ## Replies
+
 Reply to Objection 1: Christ is said in two ways to have come down from heaven. First, as regards His Divine Nature; not indeed that the Divine Nature ceased to be in heaven, but inasmuch as He began to be here below in a new way, viz. by His assumed. nature, according to Jn. 3:13: "No man hath ascended into heaven, but He that descended from heaven, the Son of Man, Who is in heaven."
+
 Reply to Objection 2: Flesh and blood are not taken here for the substance of flesh and blood, but for the corruption of flesh, which was not in Christ as far as it was sinful; but as far as it was a punishment; thus, for a time, it was in Christ, that He might carry through the work of our redemption.
+
 Reply to Objection 3: It pertains to the greatest glory of God to have raised a weak and earthly body to such sublimity. Hence in the General Council of Ephesus (P. II, Act. I) we read the saying of St. Theophilus: "Just as the best workmen are esteemed not merely for displaying their skill in precious materials, but very often because by making use of the poorest . . . lay and commonest earth, they show the power of their craft; so the best of all workmen, the Word of God, did not come down to us by taking a heavenly body of some most precious matter, but shewed the greatness of His skill in clay."

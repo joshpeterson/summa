@@ -1,12 +1,23 @@
 # Whether It Was Fitting That Christ Should Pray For Himself?
+
 ## Objections
+
 Objection 1: It would seem that it was not fitting that Christ should pray for Himself. For Hilary says (De Trin. x): "Although His word of beseeching did not benefit Himself, yet He spoke for the profit of our faith." Hence it seems that Christ prayed not for Himself but for us.
+
 Objection 2: Further, no one prays save for what He wishes, because, as was said [4100](A[1]), prayer is an unfolding of our will to God that He may fulfil it. Now Christ wished to suffer what He suffered. For Augustine says (Contra Faust. xxvi): "A man, though unwilling, is often angry; though unwilling, is sad; though unwilling, sleeps; though unwilling, hungers and thirsts. But He" (i.e. Christ) "did all these things, because He wished." Therefore it was not fitting that He should pray for Himself.
+
 Objection 3: Further, Cyprian says (De Orat. Dom.): "The Doctor of Peace and Master of Unity did not wish prayers to be offered individually and privately, lest when we prayed we should pray for ourselves alone." Now Christ did what He taught, according to Acts 1:1: "Jesus began to do and to teach." Therefore Christ never prayed for Himself alone.
+
 ## Answer
+
 On the contrary, our Lord Himself said while praying (Jn. 17:1): "Glorify Thy Son."
+
 I answer that, Christ prayed for Himself in two ways. First, by expressing the desire of His sensuality, as stated above [4101](A[2]); or also of His simple will, considered as a nature; as when He prayed that the chalice of His Passion might pass from Him (Mat. 26:39). Secondly, by expressing the desire of His deliberate will, which is considered as reason; as when He prayed for the glory of His Resurrection (Jn. 17:1). And this is reasonable. For as we have said above (A[1], ad 1) Christ wished to pray to His Father in order to give us an example of praying; and also to show that His Father is the author both of His eternal procession in the Divine Nature, and of all the good that He possesses in the human nature. Now just as in His human nature He had already received certain gifts from His Father. so there were other gifts which He had not yet received, but which He expected to receive. And therefore, as He gave thanks to the Father for gifts already received in His human nature, by acknowledging Him as the author thereof, as we read (Mat. 26:27; Jn. 11:41): so also, in recognition of His Father, He besought Him in prayer for those gifts still due to Him in His human nature, such as the glory of His body, and the like. And in this He gave us an example, that we should give thanks for benefits received, and ask in prayer for those we have not as yet.
+
 ## Replies
+
 Reply to Objection 1: Hilary is speaking of vocal prayer, which was not necessary to Him for His own sake, but only for ours. Whence he says pointedly that "His word of beseeching did not benefit Himself." For if "the Lord hears the desire of the poor," as is said in the Ps. 9:38, much more the mere will of Christ has the force of a prayer with the Father: wherefore He said (Jn. 11:42): "I know that Thou hearest Me always, but because of the people who stand about have I said it, that they may believe that Thou hast sent Me."
+
 Reply to Objection 2: Christ wished indeed to suffer what He suffered, at that particular time: nevertheless He wished to obtain, after His passion, the glory of His body, which as yet He had not. This glory He expected to receive from His Father as the author thereof, and therefore it was fitting that He should pray to Him for it.
+
 Reply to Objection 3: This very glory which Christ, while praying, besought for Himself, pertained to the salvation of others according to Rom. 4:25: "He rose again for our justification." Consequently the prayer which He offered for Himself was also in a manner offered for others. So also anyone that asks a boon of God that he may use it for the good of others, prays not only for himself, but also for others.

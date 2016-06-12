@@ -1,10 +1,17 @@
 # Whether It Is Lawful To Fight On Holy Days?
+
 ## Objections
+
 Objection 1: It would seem unlawful to fight on holy days. For holy days are instituted that we may give our time to the things of God. Hence they are included in the keeping of the Sabbath prescribed Ex. 20:8: for "sabbath" is interpreted "rest." But wars are full of unrest. Therefore by no means is it lawful to fight on holy days.
+
 Objection 2: Further, certain persons are reproached (Is. 58:3) because on fast-days they exacted what was owing to them, were guilty of strife, and of smiting with the fist. Much more, therefore, is it unlawful to fight on holy days.
+
 Objection 3: Further, no ill deed should be done to avoid temporal harm. But fighting on a holy day seems in itself to be an ill deed. Therefore no one should fight on a holy day even through the need of avoiding temporal harm.
+
 ## Answer
+
 On the contrary, It is written (1 Mac. 2:41): The Jews rightly determined . . . saying: "Whosoever shall come up against us to fight on the Sabbath-day, we will fight against him."
+
 I answer that, The observance of holy days is no hindrance to those things which are ordained to man's safety, even that of his body. Hence Our Lord argued with the Jews, saying (Jn. 7:23): "Are you angry at Me because I have healed the whole man on the Sabbath-day?" Hence physicians may lawfully attend to their patients on holy days. Now there is much more reason for safeguarding the common weal (whereby many are saved from being slain, and innumerable evils both temporal and spiritual prevented), than the bodily safety of an individual. Therefore, for the purpose of safeguarding the common weal of the faithful, it is lawful to carry on a war on holy days, provided there be need for doing so: because it would be to tempt God, if notwithstanding such a need, one were to choose to refrain from fighting.
 
 However, as soon as the need ceases, it is no longer lawful to fight on a holy day, for the reasons given: wherefore this suffices for the Replies to the Objections.

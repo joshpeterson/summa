@@ -1,12 +1,23 @@
 # Whether There Was Anger In Christ?
+
 ## Objections
+
 Objection 1: It would seem that there was no anger in Christ. For it is written (James 1:20): "The anger of man worketh not the justice of God." Now whatever was in Christ pertained to the justice of God, since of Him it is written (1 Cor. 1:30): "For He [Vulg.: 'Who'] of God is made unto us . . . justice." Therefore it seems that there was no anger in Christ.
+
 Objection 2: Further, anger is opposed to meekness, as is plain from Ethic. iv, 5. But Christ was most meek. Therefore there was no anger in Him.
+
 Objection 3: Further, Gregory says (Moral. v, 45) that "anger that comes of evil blinds the eye of the mind, but anger that comes of zeal disturbs it." Now the mind's eye in Christ was neither blinded nor disturbed. Therefore in Christ there was neither sinful anger nor zealous anger.
+
 ## Answer
+
 On the contrary, It is written (Jn. 2:17) that the words of Ps. 58:10, "the zeal of Thy house hath eaten me up," were fulfilled in Him.
+
 I answer that, As was said in the [4037]FS, Q[46], A[3], ad 3, and [4038]SS, Q[158], A[2], ad 3, anger is an effect of sorrow. or when sorrow is inflicted upon someone, there arises within him a desire of the sensitive appetite to repel this injury brought upon himself or others. Hence anger is a passion composed of sorrow and the desire of revenge. Now it was said [4039](A[6]) that sorrow could be in Christ. As to the desire of revenge it is sometimes with sin, i.e. when anyone seeks revenge beyond the order of reason: and in this way anger could not be in Christ, for this kind of anger is sinful. Sometimes, however, this desire is without sin---nay, is praiseworthy, e.g. when anyone seeks revenge according to justice, and this is zealous anger. For Augustine says (on Jn. 2:17) that "he is eaten up by zeal for the house of God, who seeks to better whatever He sees to be evil in it, and if he cannot right it, bears with it and sighs." Such was the anger that was in Christ.
+
 ## Replies
+
 Reply to Objection 1: As Gregory says (Moral. v), anger is in man in two ways---sometimes it forestalls reason, and causes it to operate, and in this way it is properly said to work, for operations are attributed to the principal agent. It is in this way that we must understand that "the anger of man worketh not the justice of God." Sometimes anger follows reason, and is, as it were, its instrument, and then the operation, which pertains to justice, is not attributed to anger but to reason.
+
 Reply to Objection 2: It is the anger which outsteps the bounds of reason that is opposed to meekness, and not the anger which is controlled and brought within its proper bounds by reason, for meekness holds the mean in anger.
+
 Reply to Objection 3: In us the natural order is that the soul's powers mutually impede each other, i.e. if the operation of one power is intense, the operation of the other is weakened. This is the reason why any movement whatsoever of anger, even if it be tempered by reason, dims the mind's eye of him who contemplates. But in Christ, by control of the Divine power, "every faculty was allowed to do what was proper to it," and one power was not impeded by another. Hence, as the joy of His mind in contemplation did not impede the sorrow or pain of the inferior part, so, conversely, the passions of the inferior part no-wise impeded the act of reason.

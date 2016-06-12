@@ -1,14 +1,25 @@
 # Whether Clemency And Meekness Are The Greatest Virtues?
+
 ## Objections
+
 Objection 1: It would seem that clemency and meekness are the greatest virtues. For virtue is deserving of praise chiefly because it directs man to happiness that consists in the knowledge of God. Now meekness above all directs man to the knowledge of God: for it is written (James 1:21): "With meekness receive the ingrafted word," and (Ecclus. 5:13): "Be meek to hear the word" of God. Again, Dionysius says (Ep. viii ad Demophil.) that "Moses was deemed worthy of the Divine apparition on account of his great meekness." Therefore meekness is the greatest of virtues.
+
 Objection 2: Further, seemingly a virtue is all the greater according as it is more acceptable to God and men. Now meekness would appear to be most acceptable to God. For it is written (Ecclus. 1:34,35): "That which is agreeable" to God is "faith and meekness"; wherefore Christ expressly invites us to be meek like unto Himself (Mat. 11:29), where He says: "Learn of Me, because I am meek and humble of heart"; and Hilary declares [*Comment. in Matth. iv, 3] that "Christ dwells in us by our meekness of soul." Again, it is most acceptable to men; wherefore it is written (Ecclus. 3:19): "My son, do thy works in meekness, and thou shalt be beloved above the glory of men": for which reason it is also declared (Prov. 20:28) that the King's "throne is strengthened by clemency." Therefore meekness and clemency are the greatest of virtues.
+
 Objection 3: Further, Augustine says (De Serm. Dom. in Monte i, 2) that "the meek are they who yield to reproaches, and resist not evil, but overcome evil by good." Now this seems to pertain to mercy or piety which would seem to be the greatest of virtues: because a gloss of Ambrose [*Hilary the deacon] on 1 Tim. 4:8, "Piety [Douay: 'Godliness'] is profitable to all things," observes that "piety is the sum total of the Christian religion." Therefore meekness and clemency are the greatest virtues.
+
 ## Answer
+
 On the contrary, They are not reckoned as principal virtues, but are annexed to another, as to a principal, virtue.
+
 I answer that, Nothing prevents certain virtues from being greatest, not indeed simply, nor in every respect, but in a particular genus. It is impossible for clemency or meekness to be absolutely the greatest virtues, since they owe their praise to the fact that they withdraw a man from evil, by mitigating anger or punishment. Now it is more perfect to obtain good than to lack evil. Wherefore those virtues like faith, hope, charity, and likewise prudence and justice, which direct one to good simply, are absolutely greater virtues than clemency and meekness.
 
 Yet nothing prevents clemency and meekness from having a certain restricted excellence among the virtues which resist evil inclinations. For anger, which is mitigated by meekness, is, on account of its impetuousness, a very great obstacle to man's free judgment of truth: wherefore meekness above all makes a man self-possessed. Hence it is written (Ecclus. 10:31): "My son, keep thy soul in meekness." Yet the concupiscences of the pleasures of touch are more shameful, and harass more incessantly, for which reason temperance is more rightly reckoned as a principal virtue. as stated above ([3567]Q[141], A[7], ad 2). As to clemency, inasmuch as it mitigates punishment, it would seem to approach nearest to charity, the greatest of the virtues, since thereby we do good towards our neighbor, and hinder his evil.
+
 ## Replies
+
 Reply to Objection 1: Meekness disposes man to the knowledge of God, by removing an obstacle; and this in two ways. First, because it makes man self-possessed by mitigating his anger, as stated above; secondly, because it pertains to meekness that a man does not contradict the words of truth, which many do through being disturbed by anger. Wherefore Augustine says (De Doctr. Christ. ii, 7): "To be meek is not to contradict Holy Writ, whether we understand it, if it condemn our evil ways, or understand it not, as though we might know better and have a clearer insight of the truth."
+
 Reply to Objection 2: Meekness and clemency make us acceptable to God and men, in so far as they concur with charity, the greatest of the virtues, towards the same effect, namely the mitigation of our neighbor's evils.
+
 Reply to Objection 3: Mercy and piety agree indeed with meekness and clemency by concurring towards the same effect, namely the mitigation of our neighbor's evils. Nevertheless they differ as to motive. For piety relieves a neighbor's evil through reverence for a superior, for instance God or one's parents: mercy relieves a neighbor's evil, because this evil is displeasing to one, in so far as one looks upon it as affecting oneself, as stated above ([3568]Q[30], A[2]): and this results from friendship which makes friends rejoice and grieve for the same things: meekness does this, by removing anger that urges to vengeance, and clemency does this through leniency of soul, in so far as it judges equitable that a person be no further punished.

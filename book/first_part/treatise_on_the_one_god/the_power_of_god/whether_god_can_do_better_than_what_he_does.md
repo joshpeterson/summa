@@ -1,14 +1,27 @@
 # Whether God Can Do Better Than What He Does?
+
 ## Objections
+
 Objection 1: It seems that God cannot do better than He does. For whatever God does, He does in a most powerful and wise way. But a thing is so much the better done as it is more powerfully and wisely done. Therefore God cannot do anything better than He does.
+
 Objection 2: Further, Augustine thus argues (Contra Maximin. iii, 8): "If God could, but would not, beget a Son His equal, He would have been envious." For the same reason, if God could have made better things than He has done, but was not willing so to do, He would have been envious. But envy is far removed from God. Therefore God makes everything of the best. He cannot therefore make anything better than He does.
+
 Objection 3: Further, what is very good and the best of all cannot be bettered; because nothing is better than the best. But as Augustine says (Enchiridion 10), "each thing that God has made is good, and, taken all together they are very good; because in them all consists the wondrous beauty of the universe." Therefore the good in the universe could not be made better by God.
+
 Objection 4: Further, Christ as man is full of grace and truth, and has the Spirit without measure; and so He cannot be better. Again created happiness is described as the highest good, and thus cannot be better. And the Blessed Virgin Mary is raised above all the choirs of angels, and so cannot be better than she is. God cannot therefore make all things better than He has made them.
+
 ## Answer
+
 On the contrary, It is said (Eph. 3:20): "God is able to do all things more abundantly than we desire or understand."
+
 I answer that, The goodness of anything is twofold; one, which is of the essence of it---thus, for instance, to be rational pertains to the essence of man. As regards this good, God cannot make a thing better than it is itself; although He can make another thing better than it; even as He cannot make the number four greater than it is; because if it were greater it would no longer be four, but another number. For the addition of a substantial difference in definitions is after the manner of the addition of unity of numbers (Metaph. viii, 10). Another kind of goodness is that which is over and above the essence; thus, the good of a man is to be virtuous or wise. As regards this kind of goodness, God can make better the things He has made. Absolutely speaking, however, God can make something else better than each thing made by Him.
+
 ## Replies
+
 Reply to Objection 1: When it is said that God can make a thing better than He makes it, if "better" is taken substantively, this proposition is true. For He can always make something else better than each individual thing: and He can make the same thing in one way better than it is, and in another way not; as was explained above. If, however, "better" is taken as an adverb, implying the manner of the making; thus God cannot make anything better than He makes it, because He cannot make it from greater wisdom and goodness. But if it implies the manner of the thing done, He can make something better; because He can give to things made by Him a better manner of existence as regards the accidents, although not as regards the substance.
+
 Reply to Objection 2: It is of the nature of a son that he should be equal to his father, when he comes to maturity. But it is not of the nature of anything created, that it should be better than it was made by God. Hence the comparison fails.
+
 Reply to Objection 3: The universe, the present creation being supposed, cannot be better, on account of the most beautiful order given to things by God; in which the good of the universe consists. For if any one thing were bettered, the proportion of order would be destroyed; as if one string were stretched more than it ought to be, the melody of the harp would be destroyed. Yet God could make other things, or add something to the present creation; and then there would be another and a better universe.
+
 Reply to Objection 4: The humanity of Christ, from the fact that it is united to the Godhead; and created happiness from the fact that it is the fruition of God; and the Blessed Virgin from the fact that she is the mother of God; have all a certain infinite dignity from the infinite good, which is God. And on this account there cannot be anything better than these; just as there cannot be anything better than God.

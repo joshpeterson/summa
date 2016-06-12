@@ -1,14 +1,27 @@
 # Whether Man Ought To Ask God For Temporal Things When He Prays?
+
 ## Objections
+
 Objection 1: It would seem that man ought not to ask God for temporal things when he prays. We seek what we ask for in prayer. But we should not seek for temporal things, for it is written (Mat. 6:33): "Seek ye . . . first the kingdom of God, and His justice: and all these things shall be added unto you," that is to say, temporal things, which, says He, we are not to seek, but they will be added to what we seek. Therefore temporal things are not to be asked of God in prayer.
+
 Objection 2: Further, no one asks save for that which he is solicitous about. Now we ought not to have solicitude for temporal things, according to the saying of Mat. 6:25, "Be not solicitous for your life, what you shall eat." Therefore we ought not to ask for temporal things when we pray.
+
 Objection 3: Further, by prayer our mind should be raised up to God. But by asking for temporal things, it descends to things beneath it, against the saying of the Apostle (2 Cor. 4:18), "While we look not at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal." Therefore man ought not to ask God for temporal things when he prays.
+
 Objection 4: Further, man ought not to ask of God other than good and useful things. But sometimes temporal things, when we have them, are harmful, not only in a spiritual sense, but also in a material sense. Therefore we should not ask God for them in our prayers.
+
 ## Answer
+
 On the contrary, It is written (Prov. 30:8): "Give me only the necessaries of life."
+
 I answer that, As Augustine says (ad Probam, de orando Deum, Ep. cxxx, 12): "It is lawful to pray for what it is lawful to desire." Now it is lawful to desire temporal things, not indeed principally, by placing our end therein, but as helps whereby we are assisted in tending towards beatitude, in so far, to wit, as they are the means of supporting the life of the body, and are of service to us as instruments in performing acts of virtue, as also the Philosopher states (Ethic. i, 8). Augustine too says the same to Proba (ad Probam, de orando Deum, Ep. cxxx, 6,7) when he states that "it is not unbecoming for anyone to desire enough for a livelihood, and no more; for this sufficiency is desired, not for its own sake, but for the welfare of the body, or that we should desire to be clothed in a way befitting one's station, so as not to be out of keeping with those among whom we have to live. Accordingly we ought to pray that we may keep these things if we have them, and if we have them not, that we may gain possession of them."
+
 ## Replies
+
 Reply to Objection 1: We should seek temporal things not in the first but in the second place. Hence Augustine says (De Serm. Dom. in Monte ii, 16): "When He says that this" (i.e. the kingdom of God) "is to be sought first, He implies that the other" (i.e. temporal goods) "is to be sought afterwards, not in time but in importance, this as being our good, the other as our need."
+
 Reply to Objection 2: Not all solicitude about temporal things is forbidden, but that which is superfluous and inordinate, as stated above ([3017]Q[55], A[6]).
+
 Reply to Objection 3: When our mind is intent on temporal things in order that it may rest in them, it remains immersed therein; but when it is intent on them in relation to the acquisition of beatitude, it is not lowered by them, but raises them to a higher level.
+
 Reply to Objection 4: From the very fact that we ask for temporal things not as the principal object of our petition, but as subordinate to something else, we ask God for them in the sense that they may be granted to us in so far as they are expedient for salvation.

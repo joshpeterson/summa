@@ -1,12 +1,23 @@
 # Whether Any Moral Virtues Are In Us By Infusion?
+
 ## Objections
+
 Objection 1: It would seem that no virtues besides the theological virtues are infused in us by God. Because God does not do by Himself, save perhaps sometimes miraculously, those things that can be done by second causes; for, as Dionysius says (Coel. Hier. iv), "it is God's rule to bring about extremes through the mean." Now intellectual and moral virtues can be caused in us by our acts, as stated above [1591](A[2]). Therefore it is not reasonable that they should be caused in us by infusion.
+
 Objection 2: Further, much less superfluity is found in God's works than in the works of nature. Now the theological virtues suffice to direct us to supernatural good. Therefore there are no other supernatural virtues needing to be caused in us by God.
+
 Objection 3: Further, nature does not employ two means where one suffices: much less does God. But God sowed the seeds of virtue in our souls, according to a gloss on Heb. 1 [*Cf. Jerome on Gal. 1: 15,16]. Therefore it is unfitting for Him to cause in us other virtues by means of infusion.
+
 ## Answer
+
 On the contrary, It is written (Wis. 8:7): "She teacheth temperance and prudence and justice and fortitude."
+
 I answer that, Effects must needs be proportionate to their causes and principles. Now all virtues, intellectual and moral, that are acquired by our actions, arise from certain natural principles pre-existing in us, as above stated [1592](A[1]; Q[51], A[1]): instead of which natural principles, God bestows on us the theological virtues, whereby we are directed to a supernatural end, as stated (Q[62], A[1]). Wherefore we need to receive from God other habits corresponding, in due proportion, to the theological virtues, which habits are to the theological virtues, what the moral and intellectual virtues are to the natural principles of virtue.
+
 ## Replies
+
 Reply to Objection 1: Some moral and intellectual virtues can indeed be caused in us by our actions: but such are not proportionate to the theological virtues. Therefore it was necessary for us to receive, from God immediately, others that are proportionate to these virtues.
+
 Reply to Objection 2: The theological virtues direct us sufficiently to our supernatural end, inchoatively: i.e. to God Himself immediately. But the soul needs further to be perfected by infused virtues in regard to other things, yet in relation to God.
+
 Reply to Objection 3: The power of those naturally instilled principles does not extend beyond the capacity of nature. Consequently man needs in addition to be perfected by other principles in relation to his supernatural end.

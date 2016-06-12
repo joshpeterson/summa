@@ -1,14 +1,25 @@
 # Whether Our Of Charity, Man Ought To Love Himself More Than His Neighbor?
+
 ## Objections
+
 Objection 1: It would seem that a man ought not, out of charity, to love himself more than his neighbor. For the principal object of charity is God, as stated above [2553](A[2]; Q[25], AA[1],12). Now sometimes our neighbor is more closely united to God than we are ourselves. Therefore we ought to love such a one more than ourselves.
+
 Objection 2: Further, the more we love a person, the more we avoid injuring him. Now a man, out of charity, submits to injury for his neighbor's sake, according to Prov. 12:26: "He that neglecteth a loss for the sake of a friend, is just." Therefore a man ought, out of charity, to love his neighbor more than himself.
+
 Objection 3: Further, it is written (1 Cor. 13:5) "charity seeketh not its own." Now the thing we love most is the one whose good we seek most. Therefore a man does not, out of charity, love himself more than his neighbor.
+
 ## Answer
+
 On the contrary, It is written (Lev. 19:18, Mat. 22:39): "Thou shalt love thy neighbor (Lev. 19:18: 'friend') as thyself." Whence it seems to follow that man's love for himself is the model of his love for another. But the model exceeds the copy. Therefore, out of charity, a man ought to love himself more than his neighbor.
+
 I answer that, There are two things in man, his spiritual nature and his corporeal nature. And a man is said to love himself by reason of his loving himself with regard to his spiritual nature, as stated above ([2554]Q[25], A[7]): so that accordingly, a man ought, out of charity, to love himself more than he loves any other person.
 
 This is evident from the very reason for loving: since, as stated above ([2555]Q[25], AA[1],12), God is loved as the principle of good, on which the love of charity is founded; while man, out of charity, loves himself by reason of his being a partaker of the aforesaid good, and loves his neighbor by reason of his fellowship in that good. Now fellowship is a reason for love according to a certain union in relation to God. Wherefore just as unity surpasses union, the fact that man himself has a share of the Divine good, is a more potent reason for loving than that another should be a partner with him in that share. Therefore man, out of charity, ought to love himself more than his neighbor: in sign whereof, a man ought not to give way to any evil of sin, which counteracts his share of happiness, not even that he may free his neighbor from sin.
+
 ## Replies
+
 Reply to Objection 1: The love of charity takes its quantity not only from its object which is God, but also from the lover, who is the man that has charity, even as the quantity of any action depends in some way on the subject. Wherefore, though a better neighbor is nearer to God, yet because he is not as near to the man who has charity, as this man is to himself, it does not follow that a man is bound to love his neighbor more than himself.
+
 Reply to Objection 2: A man ought to bear bodily injury for his friend's sake, and precisely in so doing he loves himself more as regards his spiritual mind, because it pertains to the perfection of virtue, which is a good of the mind. In spiritual matters, however, man ought not to suffer injury by sinning, in order to free his neighbor from sin, as stated above.
+
 Reply to Objection 3: As Augustine says in his Rule (Ep. ccxi), the saying, "'charity seeks not her own,' means that it prefers the common to the private good." Now the common good is always more lovable to the individual than his private good, even as the good of the whole is more lovable to the part, than the latter's own partial good, as stated above [2556](A[3]).

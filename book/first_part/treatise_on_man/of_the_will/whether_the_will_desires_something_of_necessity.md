@@ -1,10 +1,17 @@
 # Whether The Will Desires Something Of Necessity?
+
 ## Objections
+
 Objection 1: It would seem that the will desires nothing. For Augustine says (De Civ. Dei v, 10) that it anything is necessary, it is not voluntary. But whatever the will desires is voluntary. Therefore nothing that the will desires is desired of necessity.
+
 Objection 2: Further, the rational powers, according to the Philosopher (Metaph. viii, 2), extend to opposite things. But the will is a rational power, because, as he says (De Anima iii, 9), "the will is in the reason." Therefore the will extends to opposite things, and therefore it is determined to nothing of necessity.
+
 Objection 3: Further, by the will we are masters of our own actions. But we are not masters of that which is of necessity. Therefore the act of the will cannot be necessitated.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. xiii, 4) that "all desire happiness with one will." Now if this were not necessary, but contingent, there would at least be a few exceptions. Therefore the will desires something of necessity.
+
 I answer that, The word "necessity" is employed in many ways. For that which must be is necessary. Now that a thing must be may belong to it by an intrinsic principle---either material, as when we say that everything composed of contraries is of necessity corruptible---or formal, as when we say that it is necessary for the three angles of a triangle to be equal to two right angles. And this is "natural" and "absolute necessity." In another way, that a thing must be, belongs to it by reason of something extrinsic, which is either the end or the agent. On the part of the end, as when without it the end is not to be attained or so well attained: for instance, food is said to be necessary for life, and a horse is necessary for a journey. This is called "necessity of end," and sometimes also "utility." On the part of the agent, a thing must be, when someone is forced by some agent, so that he is not able to do the contrary. This is called "necessity of coercion."
 
 Now this necessity of coercion is altogether repugnant to the will. For we call that violent which is against the inclination of a thing. But the very movement of the will is an inclination to something. Therefore, as a thing is called natural because it is according to the inclination of nature, so a thing is called voluntary because it is according to the inclination of the will. Therefore, just as it is impossible for a thing to be at the same time violent and natural, so it is impossible for a thing to be absolutely coerced or violent, and voluntary.
@@ -12,7 +19,11 @@ Now this necessity of coercion is altogether repugnant to the will. For we call 
 But necessity of end is not repugnant to the will, when the end cannot be attained except in one way: thus from the will to cross the sea, arises in the will the necessity to wish for a ship.
 
 In like manner neither is natural necessity repugnant to the will. Indeed, more than this, for as the intellect of necessity adheres to the first principles, the will must of necessity adhere to the last end, which is happiness: since the end is in practical matters what the principle is in speculative matters. For what befits a thing naturally and immovably must be the root and principle of all else appertaining thereto, since the nature of a thing is the first in everything, and every movement arises from something immovable.
+
 ## Replies
+
 Reply to Objection 1: The words of Augustine are to be understood of the necessity of coercion. But natural necessity "does not take away the liberty of the will," as he says himself (De Civ. Dei v, 10).
+
 Reply to Objection 2: The will, so far as it desires a thing naturally, corresponds rather to the intellect as regards natural principles than to the reason, which extends to opposite things. Wherefore in this respect it is rather an intellectual than a rational power.
+
 Reply to Objection 3: We are masters of our own actions by reason of our being able to choose this or that. But choice regards not the end, but "the means to the end," as the Philosopher says (Ethic. iii, 9). Wherefore the desire of the ultimate end does not regard those actions of which we are masters.

@@ -1,14 +1,25 @@
 # Whether A Man In Grace Can Merit Eternal Life Condignly?
+
 ## Objections
+
 Objection 1: It would seem that a man in grace cannot merit eternal life condignly, for the Apostle says (Rom. 8:18): "The sufferings of this time are not worthy [condignae] to be compared with the glory to come, that shall be revealed in us." But of all meritorious works, the sufferings of the saints would seem the most meritorious. Therefore no works of men are meritorious of eternal life condignly.
+
 Objection 2: Further, on Rom. 6:23, "The grace of God, life everlasting," a gloss says: "He might have truly said: 'The wages of justice, life everlasting'; but He preferred to say 'The grace of God, life everlasting,' that we may know that God leads us to life everlasting of His own mercy and not by our merits." Now when anyone merits something condignly he receives it not from mercy, but from merit. Hence it would seem that a man with grace cannot merit life everlasting condignly.
+
 Objection 3: Further, merit that equals the reward, would seem to be condign. Now no act of the present life can equal everlasting life, which surpasses our knowledge and our desire, and moreover, surpasses the charity or love of the wayfarer, even as it exceeds nature. Therefore with grace a man cannot merit eternal life condignly.
+
 ## Answer
+
 On the contrary, What is granted in accordance with a fair judgment, would seem a condign reward. But life everlasting is granted by God, in accordance with the judgment of justice, according to 2 Tim. 4:8: "As to the rest, there is laid up for me a crown of justice, which the Lord, the just judge, will render to me in that day." Therefore man merits everlasting life condignly.
+
 I answer that, Man's meritorious work may be considered in two ways: first, as it proceeds from free-will; secondly, as it proceeds from the grace of the Holy Ghost. If it is considered as regards the substance of the work, and inasmuch as it springs from the free-will, there can be no condignity because of the very great inequality. But there is congruity, on account of an equality of proportion: for it would seem congruous that, if a man does what he can, God should reward him according to the excellence of his power.
 
 If, however, we speak of a meritorious work, inasmuch as it proceeds from the grace of the Holy Ghost moving us to life everlasting, it is meritorious of life everlasting condignly. For thus the value of its merit depends upon the power of the Holy Ghost moving us to life everlasting according to Jn. 4:14: "Shall become in him a fount of water springing up into life everlasting." And the worth of the work depends on the dignity of grace, whereby a man, being made a partaker of the Divine Nature, is adopted as a son of God, to whom the inheritance is due by right of adoption, according to Rom. 8:17: "If sons, heirs also."
+
 ## Replies
+
 Reply to Objection 1: The Apostle is speaking of the substance of these sufferings.
+
 Reply to Objection 2: This saying is to be understood of the first cause of our reaching everlasting life, viz. God's mercy. But our merit is a subsequent cause.
+
 Reply to Objection 3: The grace of the Holy Ghost which we have at present, although unequal to glory in act, is equal to it virtually as the seed of a tree, wherein the whole tree is virtually. So likewise by grace of the Holy Ghost dwells in man; and He is a sufficient cause of life everlasting; hence, 2 Cor. 1:22, He is called the "pledge" of our inheritance.

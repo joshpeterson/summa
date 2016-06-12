@@ -1,12 +1,23 @@
 # Whether Our Intellect Knows Its Own Act?
+
 ## Objections
+
 Objection 1: It would seem that our intellect does not know its own act. For what is known is the object of the knowing faculty. But the act differs from the object. Therefore the intellect does not know its own act.
+
 Objection 2: Further, whatever is known is known by some act. If, then, the intellect knows its own act, it knows it by some act, and again it knows that act by some other act; this is to proceed indefinitely, which seems impossible.
+
 Objection 3: Further, the intellect has the same relation to its act as sense has to its act. But the proper sense does not feel its own act, for this belongs to the common sense, as stated De Anima iii, 2. Therefore neither does the intellect understand its own act.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. x, 11), "I understand that I understand."
+
 I answer that, As stated above ([710]AA[1],2) a thing is intelligible according as it is in act. Now the ultimate perfection of the intellect consists in its own operation: for this is not an act tending to something else in which lies the perfection of the work accomplished, as building is the perfection of the thing built; but it remains in the agent as its perfection and act, as is said Metaph. ix, Did. viii, 8. Therefore the first thing understood of the intellect is its own act of understanding. This occurs in different ways with different intellects. For there is an intellect, namely, the Divine, which is Its own act of intelligence, so that in God the understanding of His intelligence, and the understanding of His Essence, are one and the same act, because His Essence is His act of understanding. But there is another intellect, the angelic, which is not its own act of understanding, as we have said above ([711]Q[79], A[1]), and yet the first object of that act is the angelic essence. Wherefore although there is a logical distinction between the act whereby he understands that he understands, and that whereby he understands his essence, yet he understands both by one and the same act; because to understand his own essence is the proper perfection of his essence, and by one and the same act is a thing, together with its perfection, understood. And there is yet another, namely, the human intellect, which neither is its own act of understanding, nor is its own essence the first object of its act of understanding, for this object is the nature of a material thing. And therefore that which is first known by the human intellect is an object of this kind, and that which is known secondarily is the act by which that object is known; and through the act the intellect itself is known, the perfection of which is this act of understanding. For this reason did the Philosopher assert that objects are known before acts, and acts before powers (De Anima ii, 4).
+
 ## Replies
+
 Reply to Objection 1: The object of the intellect is something universal, namely, "being" and "the true," in which the act also of understanding is comprised. Wherefore the intellect can understand its own act. But not primarily, since the first object of our intellect, in this state of life, is not every being and everything true, but "being" and "true," as considered in material things, as we have said above ([712]Q[84], A[7]), from which it acquires knowledge of all other things.
+
 Reply to Objection 2: The intelligent act of the human intellect is not the act and perfection of the material nature understood, as if the nature of the material thing and intelligent act could be understood by one act; just as a thing and its perfection are understood by one act. Hence the act whereby the intellect understands a stone is distinct from the act whereby it understands that it understands a stone; and so on. Nor is there any difficulty in the intellect being thus potentially infinite, as explained above ([713]Q[86], A[2]).
+
 Reply to Objection 3: The proper sense feels by reason of the immutation in the material organ caused by the external sensible. A material object, however, cannot immute itself; but one is immuted by another, and therefore the act of the proper sense is perceived by the common sense. The intellect, on the contrary, does not perform the act of understanding by the material immutation of an organ; and so there is no comparison.

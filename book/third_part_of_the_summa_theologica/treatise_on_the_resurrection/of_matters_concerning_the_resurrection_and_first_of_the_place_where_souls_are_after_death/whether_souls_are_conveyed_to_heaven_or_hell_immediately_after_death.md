@@ -1,14 +1,27 @@
 # Whether Souls Are Conveyed To Heaven Or Hell Immediately After Death?
+
 ## Objections
+
 Objection 1: It would seem that no souls are conveyed to heaven or hell immediately after death. For a gloss on Ps. 36:10, "Yet a little while and the wicked shall not be," says that "the saints are delivered at the end of life; yet after this life they will not yet be where the saints will be when it is said to them: Come ye blessed of My Father." Now those saints will be in heaven. Therefore after this life the saints do not go immediately up to heaven.
+
 Objection 2: Further, Augustine says (Enchiridion cix) that "the time which lies between man's death and the final resurrection holds the souls in secret receptacles according as each one is worthy of rest or of suffering." Now these secret abodes cannot denote heaven and hell, since also after the final resurrection the souls will be there together with their bodies: so that he would have no reason to distinguish between the time before and the time after the resurrection. Therefore they will be neither in hell nor in heaven until the day of judgment.
+
 Objection 3: Further, the glory of the soul is greater than that of bodies. Now the glory of the body is awarded to all at the same time, so that each one may have the greater joy in the common rejoicing of all, as appears from a gloss on Heb. 11:40, "God providing some better thing for us---that the common joy may make each one rejoice the more." Much more, therefore, ought the glory of souls to be deferred until the end, so as to be awarded to all at the same time.
+
 Objection 4: Further, punishment and reward, being pronounced by the sentence of the judge, should not precede the judgment. Now hell fire and the joys of heaven will be awarded to all by the sentence of Christ judging them, namely at the last judgment, according to Mat. 25. Therefore no one will go up to heaven or down to hell before the day of judgment.
+
 ## Answer
+
 On the contrary, It is written (2 Cor. 5:1): "If our earthly house of this habitation be dissolved, that we have . . . a house not made with hands, but reserved in heaven [*Vulg.: 'eternal in heaven'; cf. 1 Pet. 1:4]." Therefore, after the body's dissolution, the soul has an abode, which had been reserved for it in heaven.
+
 I answer that, Even as in bodies there is gravity or levity whereby they are borne to their own place which is the end of their movement, so in souls there is merit or demerit whereby they reach their reward or punishment, which are the ends of their deeds. Wherefore just as a body is conveyed at once to its place, by its gravity or levity, unless there be an obstacle, so too the soul, the bonds of the flesh being broken, whereby it was detained in the state of the way, receives at once its reward or punishment, unless there be an obstacle. Thus sometimes venial sin, though needing first of all to be cleansed, is an obstacle to the receiving of the reward; the result being that the reward is delayed. And since a place is assigned to souls in keeping with their reward or punishment, as soon as the soul is set free from the body it is either plunged into hell or soars to heaven, unless it be held back by some debt, for which its flight must needs be delayed until the soul is first of all cleansed. This truth is attested by the manifest authority of the canonical Scriptures and the doctrine of the holy Fathers; wherefore the contrary must be judged heretical as stated in Dial. iv, 25, and in De Eccl. Dogm. xlvi.
+
 ## Replies
+
 Reply to Objection 1: The gloss explains itself: for it expounds the words, "They will not yet be where the saints will be," etc., by saying immediately afterwards: "That is to say, they will not have the double stole which the saints will have at the resurrection."
+
 Reply to Objection 2: Among the secret abodes of which Augustine speaks, we must also reckon hell and heaven, where some souls are detained before the resurrection. The reason why a distinction is drawn between the time before and the time after the resurrection is because before the resurrection they are there without the body whereas afterwards they are with the body, and because in certain places there are souls now which will not be there after the resurrection.
+
 Reply to Objection 3: There is a kind of continuity among men as regards the body, because in respect thereof is verified the saying of Acts 17:24,26, "God . . . hath made of one all mankind": whereas He has fashioned souls independently of one another. Consequently it is not so fitting that all men should be glorified together in the soul as that they should be glorified together in the body. Moreover the glory of the body is not so essential as the glory of the soul; wherefore it would be more derogatory to the saints if the glory of the soul were delayed, than that the glory of the body be deferred: nor could this detriment to their glory be compensated on account of the joy of each one being increased by the common joy.
+
 Reply to Objection 4: Gregory proposes and solves this very difficulty (Dial. iv, 25): "If then," he says, "the souls of the just are in heaven now, what will they receive in reward for their justice on the judgment day?" And he answers: "Surely it will be a gain to them at the judgment, that whereas now they enjoy only the happiness of the soul, afterwards they will enjoy also that of the body, so as to rejoice also in the flesh wherein they bore sorrow and torments for the Lord." The same is to be said in reference to the damned.

@@ -1,12 +1,23 @@
 # Whether Counsel Is About All Things That We Do?
+
 ## Objections
+
 Objection 1: It would seem that counsel is about all things that we have to do. For choice is the "desire of what is counselled" as stated above [1103](A[1]). But choice is about all things that we do. Therefore counsel is too.
+
 Objection 2: Further, counsel implies the reason's inquiry. But, whenever we do not act through the impulse of passion, we act in virtue of the reason's inquiry. Therefore there is counsel about everything that we do.
+
 Objection 3: Further, the Philosopher says (Ethic. iii, 3) that "if it appears that something can be done by more means than one, we take counsel by inquiring whereby it may be done most easily and best; but if it can be accomplished by one means, how it can be done by this." But whatever is done, is done by one means or by several. Therefore counsel takes place in all things that we do.
+
 ## Answer
+
 On the contrary, Gregory of Nyssa [*Nemesius, De Nat. Hom. xxxiv.] says that "counsel has no place in things that are done according to science or art."
+
 I answer that, Counsel is a kind of inquiry, as stated above [1104](A[1]). But we are wont to inquire about things that admit of doubt; hence the process of inquiry, which is called an argument, "is a reason that attests something that admitted of doubt" [*Cicero, Topic. ad Trebat.]. Now, that something in relation to human acts admits of no doubt, arises from a twofold source. First, because certain determinate ends are gained by certain determinate means: as happens in the arts which are governed by certain fixed rules of action; thus a writer does not take counsel how to form his letters, for this is determined by art. Secondly, from the fact that it little matters whether it is done this or that way; this occurs in minute matters, which help or hinder but little with regard to the end aimed at; and reason looks upon small things as mere nothings. Consequently there are two things of which we do not take counsel, although they conduce to the end, as the Philosopher says (Ethic. iii, 3): namely, minute things, and those which have a fixed way of being done, as in works produced by art, with the exception of those arts that admit of conjecture such as medicine, commerce, and the like, as Gregory of Nyssa says [*Nemesius, De Nat. Hom. xxiv.].
+
 ## Replies
+
 Reply to Objection 1: Choice presupposes counsel by reason of its judgment or decision. Consequently when the judgment or decision is evident without inquiry, there is no need for the inquiry of counsel.
+
 Reply to Objection 2: In matters that are evident, the reason makes no inquiry, but judges at once. Consequently there is no need of counsel in all that is done by reason.
+
 Reply to Objection 3: When a thing can be accomplished by one means, but in different ways, doubt may arise, just as when it can be accomplished by several means: hence the need of counsel. But when not only the means, but also the way of using the means, is fixed, then there is no need of counsel.

@@ -1,16 +1,31 @@
 # Whether Treachery, Fraud, Falsehood, Perjury, Restlessness, Violence, And Insensibility To Mercy Are Daughters Of Covetousness?
+
 ## Objections
+
 Objection 1: It seems that the daughters of covetousness are not as commonly stated, namely, "treachery, fraud, falsehood, perjury, restlessness, violence, and insensibility to mercy." For covetousness is opposed to liberality, as stated above [3254](A[3]). Now treachery, fraud, and falsehood are opposed to prudence, perjury to religion, restlessness to hope, or to charity which rests in the beloved object, violence to justice, insensibility to mercy. Therefore these vices have no connection with covetousness.
+
 Objection 2: Further, treachery, fraud and falsehood seem to pertain to the same thing, namely, the deceiving of one's neighbor. Therefore they should not be reckoned as different daughters of covetousness.
+
 Objection 3: Further, Isidore (Comment. in Deut.) enumerates nine daughters of covetousness; which are "lying, fraud, theft, perjury, greed of filthy lucre, false witnessing, violence, inhumanity, rapacity." Therefore the former reckoning of daughters is insufficient.
+
 Objection 4: Further, the Philosopher (Ethic. iv, 1) mentions many kinds of vices as belonging to covetousness which he calls illiberality, for he speaks of those who are "sparing, tight-fisted, skinflints [*{kyminopristes}], misers [*{kimbikes}], who do illiberal deeds," and of those who "batten on whoredom, usurers, gamblers, despoilers of the dead, and robbers." Therefore it seems that the aforesaid enumeration is insufficient.
+
 Objection 5: Further, tyrants use much violence against their subjects. But the Philosopher says (Ethic. iv, 1) that "tyrants who destroy cities and despoil sacred places are not to be called illiberal," i.e. covetous. Therefore violence should not be reckoned a daughter of covetousness.
+
 ## Answer
+
 On the contrary, Gregory (Moral. xxxi) assigns to covetousness the daughters mentioned above.
+
 I answer that, The daughters of covetousness are the vices which arise therefrom, especially in respect of the desire of an end. Now since covetousness is excessive love of possessing riches, it exceeds in two things. For in the first place it exceeds in retaining, and in this respect covetousness gives rise to "insensibility to mercy," because, to wit, a man's heart is not softened by mercy to assist the needy with his riches [*See[3255] Q[30], A[1]]. In the second place it belongs to covetousness to exceed in receiving, and in this respect covetousness may be considered in two ways. First as in the thought [affectu]. In this way it gives rise to "restlessness," by hindering man with excessive anxiety and care, for "a covetous man shall not be satisfied with money" (Eccles. 5:9). Secondly, it may be considered in the execution [effectu]. In this way the covetous man, in acquiring other people's goods, sometimes employs force, which pertains to "violence," sometimes deceit, and then if he has recourse to words, it is "falsehood," if it be mere words, "perjury" if he confirm his statement by oath; if he has recourse to deeds, and the deceit affects things, we have "fraud"; if persons, then we have "treachery," as in the case of Judas, who betrayed Christ through covetousness.
+
 ## Replies
+
 Reply to Objection 1: There is no need for the daughters of a capital sin to belong to that same kind of vice: because a sin of one kind allows of sins even of a different kind being directed to its end; seeing that it is one thing for a sin to have daughters, and another for it to have species.
+
 Reply to Objection 2: These three are distinguished as stated in the Article.
+
 Reply to Objection 3: These nine are reducible to the seven aforesaid. For lying and false witnessing are comprised under falsehood, since false witnessing is a special kind of lie, just as theft is a special kind of fraud, wherefore it is comprised under fraud; and greed of filthy lucre belongs to restlessness; rapacity is comprised under violence, since it is a species thereof; and inhumanity is the same as insensibility to mercy.
+
 Reply to Objection 4: The vices mentioned by Aristotle are species rather than daughters of illiberality or covetousness. For a man may be said to be illiberal or covetous through a defect in giving. If he gives but little he is said to be "sparing"; if nothing, he is "tightfisted": if he gives with great reluctance, he is said to be {kyminopristes} [skinflint], a cumin-seller, as it were, because he makes a great fuss about things of little value. Sometimes a man is said to be illiberal or covetous, through an excess in receiving, and this in two ways. In one way, through making money by disgraceful means, whether in performing shameful and servile works by means of illiberal practices, or by acquiring more through sinful deeds, such as whoredom or the like, or by making a profit where one ought to have given gratis, as in the case of usury, or by laboring much to make little profit. In another way, in making money by unjust means, whether by using violence on the living, as robbers do, or by despoiling the dead, or by preying on one's friends, as gamblers do.
+
 Reply to Objection 5: Just as liberality is about moderate sums of money, so is illiberality. Wherefore tyrants who take great things by violence, are said to be, not illiberal, but unjust.

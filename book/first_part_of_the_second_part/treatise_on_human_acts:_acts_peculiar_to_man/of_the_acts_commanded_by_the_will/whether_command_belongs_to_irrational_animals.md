@@ -1,12 +1,23 @@
 # Whether Command Belongs To Irrational Animals?
+
 ## Objections
+
 Objection 1: It would seem that command belongs to irrational animals. Because, according to Avicenna, "the power that commands movement is the appetite; and the power that executes movement is in the muscles and nerves." But both powers are in irrational animals. Therefore command is to be found in irrational animals.
+
 Objection 2: Further, the condition of a slave is that of one who receives commands. But the body is compared to the soul as a slave to his master, as the Philosopher says (Polit. i, 2). Therefore the body is commanded by the soul, even in irrational animals, since they are composed of soul and body.
+
 Objection 3: Further, by commanding, man has an impulse towards an action. But impulse to action is to be found in irrational animals, as Damascene says (De Fide Orth. ii, 22). Therefore command is to be found in irrational animals.
+
 ## Answer
+
 On the contrary, Command is an act of reason, as stated above [1120](A[1]). But in irrational animals there is no reason. Neither, therefore, is there command.
+
 I answer that, To command is nothing else than to direct someone to do something, by a certain motion of intimation. Now to direct is the proper act of reason. Wherefore it is impossible that irrational animals should command in any way, since they are devoid of reason.
+
 ## Replies
+
 Reply to Objection 1: The appetitive power is said to command movement, in so far as it moves the commanding reason. But this is only in man. In irrational animals the appetitive power is not, properly speaking, a commanding faculty, unless command be taken loosely for motion.
+
 Reply to Objection 2: The body of the irrational animal is competent to obey; but its soul is not competent to command, because it is not competent to direct. Consequently there is no ratio there of commander and commanded; but only of mover and moved.
+
 Reply to Objection 3: Impulse to action is in irrational animals otherwise than in man. For the impulse of man to action arises from the directing reason; wherefore his impulse is one of command. On the other hand, the impulse of the irrational animal arises from natural instinct; because as soon as they apprehend the fitting or the unfitting, their appetite is moved naturally to pursue or to avoid. Wherefore they are directed by another to act; and they themselves do not direct themselves to act. Consequently in them is impulse but not command.

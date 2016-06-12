@@ -1,14 +1,25 @@
 # Whether Derision Can Be A Mortal Sin?
+
 ## Objections
+
 Objection 1: It would seem that derision cannot be a mortal sin. Every mortal sin is contrary to charity. But derision does not seem contrary to charity, for sometimes it takes place in jest among friends, wherefore it is known as "making fun." Therefore derision cannot be a mortal sin.
+
 Objection 2: Further, the greatest derision would appear to be that which is done as an injury to God. But derision is not always a mortal sin when it tends to the injury of God: else it would be a mortal sin to relapse into a venial sin of which one has repented. For Isidore says (De Sum. Bon. ii, 16) that "he who continues to do what he has repented of, is a derider and not a penitent." It would likewise follow that all hypocrisy is a mortal sin, because, according to Gregory (Moral. xxxi, 15) "the ostrich signifies the hypocrite, who derides the horse, i.e. the just man, and his rider, i.e. God." Therefore derision is not a mortal sin.
+
 Objection 3: Further, reviling and backbiting seem to be graver sins than derision, because it is more to do a thing seriously than in jest. But not all backbiting or reviling is a mortal sin. Much less therefore is derision a mortal sin.
+
 ## Answer
+
 On the contrary, It is written (Prov. 3:34): "He derideth [Vulg.: 'shall scorn'] the scorners." But God's derision is eternal punishment for mortal sin, as appears from the words of Ps. 2:4, "He that dwelleth in heaven shall laugh at them." Therefore derision is a mortal sin.
+
 I answer that, The object of derision is always some evil or defect. Now when an evil is great, it is taken, not in jest, but seriously: consequently if it is taken in jest or turned to ridicule (whence the terms 'derision' and 'jesting'), this is because it is considered to be slight. Now an evil may be considered to be slight in two ways: first, in itself, secondly, in relation to the person. When anyone makes game or fun of another's evil or defect, because it is a slight evil in itself, this is a venial sin by reason of its genus. on the other hand this defect may be considered as a slight evil in relation to the person, just as we are wont to think little of the defects of children and imbeciles: and then to make game or fun of a person, is to scorn him altogether, and to think him so despicable that his misfortune troubles us not one whit, but is held as an object of derision. In this way derision is a mortal sin, and more grievous than reviling, which is also done openly: because the reviler would seem to take another's evil seriously; whereas the derider does so in fun, and so would seem the more to despise and dishonor the other man. Wherefore, in this sense, derision is a grievous sin, and all the more grievous according as a greater respect is due to the person derided.
 
 Consequently it is an exceedingly grievous sin to deride God and the things of God, according to Is. 37:23, "Whom hast thou reproached, and whom hast thou blasphemed, and against whom hast thou exalted thy voice?" and he replies: "Against the Holy One of Israel." In the second place comes derision of one's parents, wherefore it is written (Prov. 30:17): "The eye that mocketh at his father, and that despiseth the labor of his mother in bearing him, let the ravens of the brooks pick it out, and the young eagles eat it." Further, the derision of good persons is grievous, because honor is the reward of virtue, and against this it is written (Job 12:4): "The simplicity of the just man is laughed to scorn." Such like derision does very much harm: because it turns men away from good deeds, according to Gregory (Moral. xx, 14), "Who when they perceive any good points appearing in the acts of others, directly pluck them up with the hand of a mischievous reviling."
+
 ## Replies
+
 Reply to Objection 1: Jesting implies nothing contrary to charity in relation to the person with whom one jests, but it may imply something against charity in relation to the person who is the object of the jest, on account of contempt, as stated above.
+
 Reply to Objection 2: Neither he that relapses into a sin of which he has repented, nor a hypocrite, derides God explicitly, but implicitly, in so far as either's behavior is like a derider's. Nor is it true that to commit a venial sin is to relapse or dissimulate altogether, but only dispositively and imperfectly.
+
 Reply to Objection 3: Derision considered in itself is less grievous than backbiting or reviling, because it does not imply contempt, but jest. Sometimes however it includes greater contempt than reviling does, as stated above, and then it is a grave sin.

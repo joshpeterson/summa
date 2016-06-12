@@ -1,16 +1,29 @@
 # Whether The Acts Of Law Are Suitably Assigned?
+
 ## Objections
+
 Objection 1: It would seem that the acts of law are not suitably assigned as consisting in "command," "prohibition," "permission" and "punishment." For "every law is a general precept," as the jurist states. But command and precept are the same. Therefore the other three are superfluous.
+
 Objection 2: Further, the effect of a law is to induce its subjects to be good, as stated above [1984](A[1]). But counsel aims at a higher good than a command does. Therefore it belongs to law to counsel rather than to command.
+
 Objection 3: Further, just as punishment stirs a man to good deeds, so does reward. Therefore if to punish is reckoned an effect of law, so also is to reward.
+
 Objection 4: Further, the intention of a lawgiver is to make men good, as stated above [1985](A[1]). But he that obeys the law, merely through fear of being punished, is not good: because "although a good deed may be done through servile fear, i.e. fear of punishment, it is not done well," as Augustine says (Contra duas Epist. Pelag. ii). Therefore punishment is not a proper effect of law.
+
 ## Answer
+
 On the contrary, Isidore says (Etym. v, 19): "Every law either permits something, as: 'A brave man may demand his reward'": or forbids something, as: "No man may ask a consecrated virgin in marriage": or punishes, as: "Let him that commits a murder be put to death."
+
 I answer that, Just as an assertion is a dictate of reason asserting something, so is a law a dictate of reason, commanding something. Now it is proper to reason to lead from one thing to another. Wherefore just as, in demonstrative sciences, the reason leads us from certain principles to assent to the conclusion, so it induces us by some means to assent to the precept of the law.
 
 Now the precepts of law are concerned with human acts, in which the law directs, as stated above ([1986]Q[90], AA[1],2;[1987] Q[91], A[4]). Again there are three kinds of human acts: for, as stated above ([1988]Q[18], A[8]), some acts are good generically, viz. acts of virtue; and in respect of these the act of the law is a precept or command, for "the law commands all acts of virtue" (Ethic. v, 1). Some acts are evil generically, viz. acts of vice, and in respect of these the law forbids. Some acts are generically indifferent, and in respect of these the law permits; and all acts that are either not distinctly good or not distinctly bad may be called indifferent. And it is the fear of punishment that law makes use of in order to ensure obedience: in which respect punishment is an effect of law.
+
 ## Replies
+
 Reply to Objection 1: Just as to cease from evil is a kind of good, so a prohibition is a kind of precept: and accordingly, taking precept in a wide sense, every law is a kind of precept.
+
 Reply to Objection 2: To advise is not a proper act of law, but may be within the competency even of a private person, who cannot make a law. Wherefore too the Apostle, after giving a certain counsel (1 Cor. 7:12) says: "I speak, not the Lord." Consequently it is not reckoned as an effect of law.
+
 Reply to Objection 3: To reward may also pertain to anyone: but to punish pertains to none but the framer of the law, by whose authority the pain is inflicted. Wherefore to reward is not reckoned an effect of law, but only to punish.
+
 Reply to Objection 4: From becoming accustomed to avoid evil and fulfill what is good, through fear of punishment, one is sometimes led on to do so likewise, with delight and of one's own accord. Accordingly, law, even by punishing, leads men on to being good.

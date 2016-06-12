@@ -1,14 +1,25 @@
 # Whether A Man May Merit Anything From God?
+
 ## Objections
+
 Objection 1: It would seem that a man can merit nothing from God. For no one, it would seem, merits by giving another his due. But by all the good we do, we cannot make sufficient return to God, since yet more is His due, as also the Philosopher says (Ethic. viii, 14). Hence it is written (Lk. 17:10): "When you have done all these things that are commanded you, say: We are unprofitable servants; we have done that which we ought to do." Therefore a man can merit nothing from God.
+
 Objection 2: Further, it would seem that a man merits nothing from God, by what profits himself only, and profits God nothing. Now by acting well, a man profits himself or another man, but not God, for it is written (Job 35:7): "If thou do justly, what shalt thou give Him, or what shall He receive of thy hand." Hence a man can merit nothing from God.
+
 Objection 3: Further, whoever merits anything from another makes him his debtor; for a man's wage is a debt due to him. Now God is no one's debtor; hence it is written (Rom. 11:35): "Who hath first given to Him, and recompense shall be made to him?" Hence no one can merit anything from God.
+
 ## Answer
+
 On the contrary, It is written (Jer. 31:16): "There is a reward for thy work." Now a reward means something bestowed by reason of merit. Hence it would seem that a man may merit from God.
+
 I answer that, Merit and reward refer to the same, for a reward means something given anyone in return for work or toil, as a price for it. Hence, as it is an act of justice to give a just price for anything received from another, so also is it an act of justice to make a return for work or toil. Now justice is a kind of equality, as is clear from the Philosopher (Ethic. v, 3), and hence justice is simply between those that are simply equal; but where there is no absolute equality between them, neither is there absolute justice, but there may be a certain manner of justice, as when we speak of a father's or a master's right (Ethic. v, 6), as the Philosopher says. And hence where there is justice simply, there is the character of merit and reward simply. But where there is no simple right, but only relative, there is no character of merit simply, but only relatively, in so far as the character of justice is found there, since the child merits something from his father and the slave from his lord.
 
 Now it is clear that between God and man there is the greatest inequality: for they are infinitely apart, and all man's good is from God. Hence there can be no justice of absolute equality between man and God, but only of a certain proportion, inasmuch as both operate after their own manner. Now the manner and measure of human virtue is in man from God. Hence man's merit with God only exists on the presupposition of the Divine ordination, so that man obtains from God, as a reward of his operation, what God gave him the power of operation for, even as natural things by their proper movements and operations obtain that to which they were ordained by God; differently, indeed, since the rational creature moves itself to act by its free-will, hence its action has the character of merit, which is not so in other creatures.
+
 ## Replies
+
 Reply to Objection 1: Man merits, inasmuch as he does what he ought, by his free-will; otherwise the act of justice whereby anyone discharges a debt would not be meritorious.
+
 Reply to Objection 2: God seeks from our goods not profit, but glory, i.e. the manifestation of His goodness; even as He seeks it also in His own works. Now nothing accrues to Him, but only to ourselves, by our worship of Him. Hence we merit from God, not that by our works anything accrues to Him, but inasmuch as we work for His glory.
+
 Reply to Objection 3: Since our action has the character of merit, only on the presupposition of the Divine ordination, it does not follow that God is made our debtor simply, but His own, inasmuch as it is right that His will should be carried out.

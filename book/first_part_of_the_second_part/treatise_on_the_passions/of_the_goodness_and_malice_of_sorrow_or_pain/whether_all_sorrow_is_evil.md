@@ -1,10 +1,19 @@
 # Whether All Sorrow Is Evil?
+
 ## Objections
+
 Objection 1: It would seem that all sorrow is evil. For Gregory of Nyssa [*Nemesius, De Nat. Hom. xix.] says: "All sorrow is evil, from its very nature." Now what is naturally evil, is evil always and everywhere. Therefore, all sorrow is evil.
+
 Objection 2: Further, that which all, even the virtuous, avoid, is evil. But all avoid sorrow, even the virtuous, since as stated in Ethic. vii, 11, "though the prudent man does not aim at pleasure, yet he aims at avoiding sorrow." Therefore sorrow is evil.
+
 Objection 3: Further, just as bodily evil is the object and cause of bodily pain, so spiritual evil is the object and cause of sorrow in the soul. But every bodily pain is a bodily evil. Therefore every spiritual sorrow is an evil of the soul.
+
 ## Answer
+
 On the contrary, Sorrow for evil is contrary to pleasure in evil. But pleasure in evil is evil: wherefore in condemnation of certain men, it is written (Prov. 2:14), that "they were glad when they had done evil." Therefore sorrow for evil is good.
+
 I answer that, A thing may be good or evil in two ways: first considered simply and in itself; and thus all sorrow is an evil, because the mere fact of a man's appetite being uneasy about a present evil, is itself an evil, because it hinders the response of the appetite in good. Secondly, a thing is said to be good or evil, on the supposition of something else: thus shame is said to be good, on the supposition of a shameful deed done, as stated in Ethic. iv, 9. Accordingly, supposing the presence of something saddening or painful, it is a sign of goodness if a man is in sorrow or pain on account of this present evil. For if he were not to be in sorrow or pain, this could only be either because he feels it not, or because he does not reckon it as something unbecoming, both of which are manifest evils. Consequently it is a condition of goodness, that, supposing an evil to be present, sorrow or pain should ensue. Wherefore Augustine says (Gen. ad lit. viii, 14): "It is also a good thing that he sorrows for the good he has lost: for had not some good remained in his nature, he could not be punished by the loss of good." Because, however, in the science of Morals, we consider things individually---for actions are concerned about individuals---that which is good on some supposition, should be considered as good: just as that which is voluntary on some supposition, is judged to be voluntary, as stated in Ethic. iii, 1, and likewise above ([1337]Q[6], A[6]).
+
 ## Replies
+
 Reply to Objection 1: Gregory of Nyssa [*Nemesius] is speaking of sorrow on the part of the evil that causes it, but not on the part of the subject that feels and rejects the evil. And from this point of view, all shun sorrow, inasmuch as they shun evil: but they do not shun the perception and rejection of evil. The same also applies to bodily pain: because the perception and rejection of bodily evil is the proof of the goodness of nature.

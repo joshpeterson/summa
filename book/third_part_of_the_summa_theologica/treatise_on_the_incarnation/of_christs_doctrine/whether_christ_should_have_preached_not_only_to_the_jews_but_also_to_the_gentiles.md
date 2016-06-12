@@ -1,10 +1,17 @@
 # Whether Christ Should Have Preached Not Only To The Jews, But Also To The Gentiles?
+
 ## Objections
+
 Objection 1: It would seem that Christ should have preached not only to the Jews, but also to the Gentiles. For it is written (Is. 49:6): "It is a small thing that thou shouldst be My servant to raise up the tribes of Israel [Vulg.: 'Jacob'] and to convert the dregs of Jacob [Vulg.: 'Israel']: behold, I have given thee to be the light of the Gentiles, that thou mayest be my salvation even to the farthest part of the earth." But Christ gave light and salvation through His doctrine. Therefore it seems that it was "a small thing" that He preached to Jews alone, and not to the Gentiles.
+
 Objection 2: Further, as it is written (Mat. 7:29): "He was teaching them as one having power." Now the power of doctrine is made more manifest in the instruction of those who, like the Gentiles, have received no tidings whatever; hence the Apostle says (Rom. 15:20): "I have so preached the [Vulg.: 'this'] gospel, not where Christ was named, lest I should build upon another man's foundation." Therefore much rather should Christ have preached to the Gentiles than to the Jews.
+
 Objection 3: Further, it is more useful to instruct many than one. But Christ instructed some individual Gentiles, such as the Samaritan woman (Jn. 4) and the Chananaean woman (Mat. 15). Much more reason, therefore, was there for Christ to preach to the Gentiles in general.
+
 ## Answer
+
 On the contrary, our Lord said (Mat. 15:24): "I was not sent but to the sheep that are lost of the house of Israel." And (Rom. 10:15) it is written: "How shall they preach unless they be sent?" Therefore Christ should not have preached to the Gentiles.
+
 I answer that, It was fitting that Christ's preaching, whether through Himself or through His apostles, should be directed at first to the Jews alone. First, in order to show that by His coming the promises were fulfilled which had been made to the Jews of old, and not to the Gentiles. Thus the Apostle says (Rom. 15:8): "I say that Christ . . . was minister of the circumcision," i.e. the apostle and preacher of the Jews, "for the truth of God, to confirm the promises made unto the fathers."
 
 Secondly, in order to show that His coming was of God; because, as is written Rom. 13:1: "Those things which are of God are well ordered [Vulg.: 'those that are, are ordained of God']" [*See Scriptural Index on this passage]. Now the right order demanded that the doctrine of Christ should be made known first to the Jews, who, by believing in and worshiping one God, were nearer to God, and that it should be transmitted through them to the Gentiles: just as in the heavenly hierarchy the Divine enlightenment comes to the lower angels through the higher. Hence on Mat. 15:24, "I was not sent but to the sheep that are lost in the house of Israel," Jerome says: "He does not mean by this that He was not sent to the Gentiles, but that He was sent to the Jews first." And so we read (Is. 66:19): "I will send of them that shall be saved," i.e. of the Jews, "to the Gentiles . . . and they shall declare My glory unto the Gentiles."
@@ -12,7 +19,11 @@ Secondly, in order to show that His coming was of God; because, as is written Ro
 Thirdly, in order to deprive the Jews of ground for quibbling. Hence on Mat. 10:5, "Go ye not into the way of the Gentiles." Jerome says: "It behooved Christ's coming to be announced to the Jews first, lest they should have a valid excuse, and say that they had rejected our Lord because He had sent His apostles to the Gentiles and Samaritans."
 
 Fourthly, because it was through the triumph of the cross that Christ merited power and lordship over the Gentiles. Hence it is written (Apoc. 2:26, 28): "He that shall overcome . . . I will give him power over the nations . . . as I also have received of My Father"; and that because He became "obedient unto the death of the cross, God hath exalted Him . . . that in the name of Jesus every knee should bow . . ." and that "every tongue should confess Him" (Phil. 2:8-11). Consequently He did not wish His doctrine to be preached to the Gentiles before His Passion: it was after His Passion that He said to His disciples (Mat. 28:19): "Going, teach ye all nations." For this reason it was that when, shortly before His Passion, certain Gentiles wished to see Jesus, He said: "Unless the grain of wheat falling into the ground dieth, itself remaineth alone: but if it die it bringeth forth much fruit" (Jn. 12:20-25); and as Augustine says, commenting on this passage: "He called Himself the grain of wheat that must be mortified by the unbelief of the Jews, multiplied by the faith of the nations."
+
 ## Replies
+
 Reply to Objection 1: Christ was given to be the light and salvation of the Gentiles through His disciples, whom He sent to preach to them.
+
 Reply to Objection 2: It is a sign, not of lesser, but of greater power to do something by means of others rather than by oneself. And thus the Divine power of Christ was specially shown in this, that He bestowed on the teaching of His disciples such a power that they converted the Gentiles to Christ, although these had heard nothing of Him.
+
 Reply to Objection 3: Just as it was unfitting that Christ should at the outset make His doctrine known to the Gentiles equally with the Jews, in order that He might appear as being sent to the Jews, as to the first-born people; so neither was it fitting for Him to neglect the Gentiles altogether, lest they should be deprived of the hope of salvation. For this reason certain individual Gentiles were admitted, on account of the excellence of their faith and devotedness.

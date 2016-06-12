@@ -1,16 +1,29 @@
 # Whether Creation Is Mingled With Works Of Nature And Art?
+
 ## Objections
+
 Objection 1: It would seem that creation is mingled in works of nature and art. For in every operation of nature and art some form is produced. But it is not produced from anything, since matter has no part in it. Therefore it is produced from nothing; and thus in every operation of nature and art there is creation.
+
 Objection 2: Further, the effect is not more powerful than its cause. But in natural things the only agent is the accidental form, which is an active or a passive form. Therefore the substantial form is not produced by the operation of nature; and therefore it must be produced by creation.
+
 Objection 3: Further, in nature like begets like. But some things are found generated in nature by a thing unlike to them; as is evident in animals generated through putrefaction. Therefore the form of these is not from nature, but by creation; and the same reason applies to other things.
+
 Objection 4: Further, what is not created, is not a creature. If therefore in nature's productions there were not creation, it would follow that nature's productions are not creatures; which is heretical.
+
 ## Answer
+
 On the contrary, Augustine (Super Gen. v, 6,14,15) distinguishes the work of propagation, which is a work of nature, from the work of creation.
+
 I answer that, The doubt on this subject arises from the forms which, some said, do not come into existence by the action of nature, but previously exist in matter; for they asserted that forms are latent. This arose from ignorance concerning matter, and from not knowing how to distinguish between potentiality and act. For because forms pre-exist in matter, "in potentiality," they asserted that they pre-exist "simply." Others, however, said that the forms were given or caused by a separate agent by way of creation; and accordingly, that to each operation of nature is joined creation. But this opinion arose from ignorance concerning form. For they failed to consider that the form of the natural body is not subsisting, but is that by which a thing is. And therefore, since to be made and to be created belong properly to a subsisting thing alone, as shown above [395](A[4]), it does not belong to forms to be made or to be created, but to be "concreated." What, indeed, is properly made by the natural agent is the "composite," which is made from matter.
 
 Hence in the works of nature creation does not enter, but is presupposed to the work of nature.
+
 ## Replies
+
 Reply to Objection 1: Forms begin to be actual when the composite things are made, not as though they were made "directly," but only "indirectly."
+
 Reply to Objection 2: The active qualities in nature act by virtue of substantial forms: and therefore the natural agent not only produces its like according to quality, but according to species.
+
 Reply to Objection 3: For the generation of imperfect animals, a universal agent suffices, and this is to be found in the celestial power to which they are assimilated, not in species, but according to a kind of analogy. Nor is it necessary to say that their forms are created by a separate agent. However, for the generation of perfect animals the universal agent does not suffice, but a proper agent is required, in the shape of a univocal generator.
+
 Reply to Objection 4: The operation of nature takes place only on the presupposition of created principles; and thus the products of nature are called creatures.

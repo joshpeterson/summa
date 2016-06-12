@@ -1,9 +1,15 @@
 # Whether God Exists?
+
 ## Objections
+
 Objection 1: It seems that God does not exist; because if one of two contraries be infinite, the other would be altogether destroyed. But the word "God" means that He is infinite goodness. If, therefore, God existed, there would be no evil discoverable; but there is evil in the world. Therefore God does not exist.
+
 Objection 2: Further, it is superfluous to suppose that what can be accounted for by a few principles has been produced by many. But it seems that everything we see in the world can be accounted for by other principles, supposing God did not exist. For all natural things can be reduced to one principle which is nature; and all voluntary things can be reduced to one principle which is human reason, or will. Therefore there is no need to suppose God's existence.
+
 ## Answer
+
 On the contrary, It is said in the person of God: "I am Who am." (Ex. 3:14)
+
 I answer that, The existence of God can be proved in five ways.
 
 The first and more manifest way is the argument from motion. It is certain, and evident to our senses, that in the world some things are in motion. Now whatever is in motion is put in motion by another, for nothing can be in motion except it is in potentiality to that towards which it is in motion; whereas a thing moves inasmuch as it is in act. For motion is nothing else than the reduction of something from potentiality to actuality. But nothing can be reduced from potentiality to actuality, except by something in a state of actuality. Thus that which is actually hot, as fire, makes wood, which is potentially hot, to be actually hot, and thereby moves and changes it. Now it is not possible that the same thing should be at once in actuality and potentiality in the same respect, but only in different respects. For what is actually hot cannot simultaneously be potentially hot; but it is simultaneously potentially cold. It is therefore impossible that in the same respect and in the same way a thing should be both mover and moved, i.e. that it should move itself. Therefore, whatever is in motion must be put in motion by another. If that by which it is put in motion be itself put in motion, then this also must needs be put in motion by another, and that by another again. But this cannot go on to infinity, because then there would be no first mover, and, consequently, no other mover; seeing that subsequent movers move only inasmuch as they are put in motion by the first mover; as the staff moves only because it is put in motion by the hand. Therefore it is necessary to arrive at a first mover, put in motion by no other; and this everyone understands to be God.
@@ -15,6 +21,9 @@ The third way is taken from possibility and necessity, and runs thus. We find in
 The fourth way is taken from the gradation to be found in things. Among beings there are some more and some less good, true, noble and the like. But "more" and "less" are predicated of different things, according as they resemble in their different ways something which is the maximum, as a thing is said to be hotter according as it more nearly resembles that which is hottest; so that there is something which is truest, something best, something noblest and, consequently, something which is uttermost being; for those things that are greatest in truth are greatest in being, as it is written in Metaph. ii. Now the maximum in any genus is the cause of all in that genus; as fire, which is the maximum heat, is the cause of all hot things. Therefore there must also be something which is to all beings the cause of their being, goodness, and every other perfection; and this we call God.
 
 The fifth way is taken from the governance of the world. We see that things which lack intelligence, such as natural bodies, act for an end, and this is evident from their acting always, or nearly always, in the same way, so as to obtain the best result. Hence it is plain that not fortuitously, but designedly, do they achieve their end. Now whatever lacks intelligence cannot move towards an end, unless it be directed by some being endowed with knowledge and intelligence; as the arrow is shot to its mark by the archer. Therefore some intelligent being exists by whom all natural things are directed to their end; and this being we call God.
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (Enchiridion xi): "Since God is the highest good, He would not allow any evil to exist in His works, unless His omnipotence and goodness were such as to bring good even out of evil." This is part of the infinite goodness of God, that He should allow evil to exist, and out of it produce good.
+
 Reply to Objection 2: Since nature works for a determinate end under the direction of a higher agent, whatever is done by nature must needs be traced back to God, as to its first cause. So also whatever is done voluntarily must also be traced back to some higher cause other than human reason or will, since these can change or fail; for all things that are changeable and capable of defect must be traced back to an immovable and self-necessary first principle, as was shown in the body of the Article.

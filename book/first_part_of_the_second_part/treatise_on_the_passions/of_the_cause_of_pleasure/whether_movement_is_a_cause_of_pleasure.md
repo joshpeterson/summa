@@ -1,14 +1,25 @@
 # Whether Movement Is A Cause Of Pleasure?
+
 ## Objections
+
 Objection 1: It would seem that movement is not a cause of pleasure. Because, as stated above ([1276]Q[31], A[1]), the good which is obtained and is actually possessed, is the cause of pleasure: wherefore the Philosopher says (Ethic. vii, 12) that pleasure is not compared with generation, but with the operation of a thing already in existence. Now that which is being moved towards something has it not as yet; but, so to speak, is being generated in its regard, forasmuch as generation or corruption are united to every movement, as stated in Phys. viii, 3. Therefore movement is not a cause of pleasure.
+
 Objection 2: Further, movement is the chief cause of toil and fatigue in our works. But operations through being toilsome and fatiguing are not pleasant but disagreeable. Therefore movement is not a cause of pleasure.
+
 Objection 3: Further, movement implies a certain innovation, which is the opposite of custom. But things "which we are accustomed to, are pleasant," as the Philosopher says (Rhet. i, 11). Therefore movement is not a cause of pleasure.
+
 ## Answer
+
 On the contrary, Augustine says (Confess. viii, 3): "What means this, O Lord my God, whereas Thou art everlasting joy to Thyself, and some things around Thee evermore rejoice in Thee? What means this, that this portion of things ebbs and flows alternately displeased and reconciled?" From these words we gather that man rejoices and takes pleasure in some kind of alterations: and therefore movement seems to cause pleasure.
+
 I answer that, Three things are requisite for pleasure; two, i.e. the one that is pleased and the pleasurable object conjoined to him; and a third, which is knowledge of this conjunction: and in respect of these three, movement is pleasant, as the Philosopher says (Ethic. vii, 14 and Rhetor. i, 11). For as far as we who feel pleasure are concerned, change is pleasant to us because our nature is changeable: for which reason that which is suitable to us at one time is not suitable at another; thus to warm himself at a fire is suitable to man in winter but not in summer. Again, on the part of the pleasing good which is united to us, change is pleasant. Because the continued action of an agent increases its effect: thus the longer a person remains near the fire, the more he is warmed and dried. Now the natural mode of being consists in a certain measure; and therefore when the continued presence of a pleasant object exceeds the measure of one's natural mode of being, the removal of that object becomes pleasant. On the part of the knowledge itself (change becomes pleasant), because man desires to know something whole and perfect: when therefore a thing cannot be apprehended all at once as a whole, change in such a thing is pleasant, so that one part may pass and another succeed, and thus the whole be perceived. Hence Augustine says (Confess. iv, 11): "Thou wouldst not have the syllables stay, but fly away, that others may come, and thou hear the whole. And so whenever any one thing is made up of many, all of which do not exist together, all would please collectively more than they do severally, if all could be perceived collectively."
 
 If therefore there be any thing, whose nature is unchangeable; the natural mode of whose being cannot be exceeded by the continuation of any pleasing object; and which can behold the whole object of its delight at once---to such a one change will afford no delight. And the more any pleasures approach to this, the more are they capable of being continual.
+
 ## Replies
+
 Reply to Objection 1: Although the subject of movement has not yet perfectly that to which it is moved, nevertheless it is beginning to have something thereof: and in this respect movement itself has something of pleasure. But it falls short of the perfection of pleasure; because the more perfect pleasures regard things that are unchangeable. Moreover movement becomes the cause of pleasure, in so far as thereby something which previously was unsuitable, becomes suitable or ceases to be, as stated above.
+
 Reply to Objection 2: Movement causes toil and fatigue, when it exceeds our natural aptitude. It is not thus that it causes pleasure, but by removing the obstacles to our natural aptitude.
+
 Reply to Objection 3: What is customary becomes pleasant, in so far as it becomes natural: because custom is like a second nature. But the movement which gives pleasure is not that which departs from custom, but rather that which prevents the corruption of the natural mode of being, that might result from continued operation. And thus from the same cause of connaturalness, both custom and movement become pleasant.

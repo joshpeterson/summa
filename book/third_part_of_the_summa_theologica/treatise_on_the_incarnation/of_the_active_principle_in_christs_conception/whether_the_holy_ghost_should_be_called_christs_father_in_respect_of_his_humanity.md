@@ -1,11 +1,21 @@
 # Whether The Holy Ghost Should Be Called Christ's Father In Respect Of His Humanity?
+
 ## Objections
+
 Objection 1: It would seem that the Holy Ghost should be called Christ's father in respect of His humanity. Because, according to the Philosopher (De Gener. Animal. i): "The Father is the active principle in generation, the Mother supplies the matter." But the Blessed Virgin is called Christ's Mother, by reason of the matter which she supplied in His conception. Therefore it seems that the Holy Ghost can be called His father, through being the active principle in His conception.
+
 Objection 2: Further, as the minds of other holy men are fashioned by the Holy Ghost, so also was Christ's body fashioned by the Holy Ghost. But other holy men, on account of the aforesaid fashioning, are called the children of the whole Trinity, and consequently of the Holy Ghost. Therefore it seems that Christ should be called the Son of the Holy Ghost, forasmuch as His body was fashioned by the Holy Ghost.
+
 Objection 3: Further, God is called our Father by reason of His having made us, according to Dt. 32:6: "Is not He thy Father, that hath possessed thee, and made thee and created thee?" But the Holy Ghost made Christ's body, as stated above ([4150]AA[1],2). Therefore the Holy Ghost should be called Christ's Father in respect of the body fashioned by Him.
+
 ## Answer
+
 On the contrary, Augustine says (Enchiridion xl): "Christ was born of the Holy Ghost not as a Son, and of the Virgin Mary as a Son."
+
 I answer that, The words "fatherhood," "motherhood," and "sonship," result from generation; yet not from any generation, but from that of living things, especially animals. For we do not say that fire generated is the son of the fire generating it, except, perhaps, metaphorically; we speak thus only of animals in whom generation is more perfect. Nevertheless, the word "son" is not applied to everything generated in animals, but only to that which is generated into likeness of the generator. Wherefore, as Augustine says (Enchiridion xxxix), we do not say that a hair which is generated in a man is his son; nor do we say that a man who is born is the son of the seed; for neither is the hair like the man nor is the man born like the seed, but like the man who begot him. And if the likeness be perfect, the sonship is perfect, whether in God or in man. But if the likeness be imperfect, the sonship is imperfect. Thus in man there is a certain imperfect likeness to God, both as regards his being created to God's image and as regards His being created unto the likeness of grace. Therefore in both ways man can be called His son, both because he is created to His image and because he is likened to Him by grace. Now, it must be observed that what is said in its perfect sense of a thing should not be said thereof in its imperfect sense: thus, because Socrates is said to be naturally a man, in the proper sense of "man," never is he called man in the sense in which the portrait of a man is called a man, although, perhaps, he may resemble another man. Now, Christ is the Son of God in the perfect sense of sonship. Wherefore, although in His human nature He was created and justified, He ought not to be called the Son of God, either in respect of His being created or of His being justified, but only in respect of His eternal generation, by reason of which He is the Son of the Father alone. Therefore nowise should Christ be called the Son of the Holy Ghost, nor even of the whole Trinity.
+
 ## Replies
+
 Reply to Objection 1: Christ was conceived of the Virgin Mary, who supplied the matter of His conception unto likeness of species. For this reason He is called her Son. But as man He was conceived of the Holy Ghost as the active principle of His conception, but not unto likeness of species, as a man is born of his father. Therefore Christ is not called the Son of the Holy Ghost.
+
 Reply to Objection 2: Men who are fashioned spiritually by the Holy Ghost cannot be called sons of God in the perfect sense of sonship. And therefore they are called sons of God in respect of imperfect sonship, which is by reason of the likeness of grace, which flows from the whole Trinity.

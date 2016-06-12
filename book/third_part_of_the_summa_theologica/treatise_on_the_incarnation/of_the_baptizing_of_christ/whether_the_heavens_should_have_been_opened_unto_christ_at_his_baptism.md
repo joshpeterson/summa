@@ -1,10 +1,17 @@
 # Whether The Heavens Should Have Been Opened Unto Christ At His Baptism?
+
 ## Objections
+
 Objection 1: It would seem that the heavens should not have been opened unto Christ at His baptism. For the heavens should be opened unto one who needs to enter heaven, by reason of his being out of heaven. But Christ was always in heaven, according to Jn. 3:13: "The Son of Man who is in heaven." Therefore it seems that the heavens should not have been opened unto Him.
+
 Objection 2: Further, the opening of the heavens is understood either in a corporal or in a spiritual sense. But it cannot be understood in a corporal sense: because the heavenly bodies are impassible and indissoluble, according to Job 37:18: "Thou perhaps hast made the heavens with Him, which are most strong, as if they were of molten brass." In like manner neither can it be understood in a spiritual sense, because the heavens were not previously closed to the eyes of the Son of God. Therefore it seems unbecoming to say that when Christ was baptized "the heavens were opened."
+
 Objection 3: Further, heaven was opened to the faithful through Christ's Passion, according to Heb. 10:19: "We have [Vulg.: 'Having'] a confidence in the entering into the holies by the blood of Christ." Wherefore not even those who were baptized with Christ's baptism, and died before His Passion, could enter heaven. Therefore the heavens should have been opened when Christ was suffering rather than when He was baptized.
+
 ## Answer
+
 On the contrary, It is written (Lk. 3:21): "Jesus being baptized and praying, heaven was opened."
+
 I answer that, As stated above [4202](A[1]; Q[38], A[1]), Christ wished to be baptized in order to consecrate the baptism wherewith we were to be baptized. And therefore it behooved those things to be shown forth which belong to the efficacy of our baptism: concerning which efficacy three points are to be considered. First, the principal power from which it is derived; and this, indeed, is a heavenly power. For which reason, when Christ was baptized, heaven was opened, to show that in future the heavenly power would sanctify baptism.
 
 Secondly, the faith of the Church and of the person baptized conduces to the efficacy of baptism: wherefore those who are baptized make a profession of faith, and baptism is called the "sacrament of faith." Now by faith we gaze on heavenly things, which surpass the senses and human reason. And in order to signify this, the heavens were opened when Christ was baptized.
@@ -12,7 +19,11 @@ Secondly, the faith of the Church and of the person baptized conduces to the eff
 Thirdly, because the entrance to the heavenly kingdom was opened to us by the baptism of Christ in a special manner, which entrance had been closed to the first man through sin. Hence, when Christ was baptized, the heavens were opened, to show that the way to heaven is open to the baptized.
 
 Now after baptism man needs to pray continually, in order to enter heaven: for though sins are remitted through baptism, there still remain the fomes of sin assailing us from within, and the world and the devils assailing us from without. And therefore it is said pointedly (Lk. 3:21) that "Jesus being baptized and praying, heaven was opened": because, to wit, the faithful after baptism stand in need of prayer. Or else, that we may be led to understand that the very fact that through baptism heaven is opened to believers is in virtue of the prayer of Christ. Hence it is said pointedly (Mat. 3:16) that "heaven was opened to Him"---that is, "to all for His sake." Thus, for example, the Emperor might say to one asking a favor for another: "Behold, I grant this favor, not to him, but to thee"---that is, "to him for thy sake," as Chrysostom says (Hom. iv in Matth. [*From the supposititious Opus Imperfectum]).
+
 ## Replies
+
 Reply to Objection 1: According to Chrysostom (Hom. iv in Matth.; from the supposititious Opus Imperfectum), as Christ was baptized for man's sake, though He needed no baptism for His own sake, so the heavens were opened unto Him as man, whereas in respect of His Divine Nature He was ever in heaven.
+
 Reply to Objection 2: As Jerome says on Mat. 3:16,17, the heavens were opened to Christ when He was baptized, not by an unfolding of the elements, but by a spiritual vision: thus does Ezechiel relate the opening of the heavens at the beginning of his book. And Chrysostom proves this (Hom. iv in Matth.; from the supposititious Opus Imperfectum) by saying that "if the creature"---namely, heaven---"had been sundered he would not have said, 'were opened to Him,' since what is opened in a corporeal sense is open to all." Hence it is said expressly (Mk. 1:10) that Jesus "forthwith coming up out of the water, saw the heavens opened"; as though the opening of the heavens were to be considered as seen by Christ. Some, indeed, refer this to the corporeal vision, and say that such a brilliant light shone round about Christ when He was baptized, that the heavens seemed to be opened. It can also be referred to the imaginary vision, in which manner Ezechiel saw the heavens opened: since such a vision was formed in Christ's imagination by the Divine power and by His rational will, so as to signify that the entrance to heaven is opened to men through baptism. Lastly, it can be referred to intellectual vision: forasmuch as Christ, when He had sanctified baptism, saw that heaven was opened to men: nevertheless He had seen before that this would be accomplished.
+
 Reply to Objection 3: Christ's Passion is the common cause of the opening of heaven to men. But it behooves this cause to be applied to each one, in order that he enter heaven. And this is effected by baptism, according to Rom. 6:3: "All we who are baptized in Christ Jesus are baptized in His death." Wherefore mention is made of the opening of the heavens at His baptism rather than at His Passion.

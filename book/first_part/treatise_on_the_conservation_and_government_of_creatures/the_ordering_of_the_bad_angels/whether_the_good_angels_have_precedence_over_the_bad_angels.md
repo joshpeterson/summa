@@ -1,12 +1,23 @@
 # Whether The Good Angels Have Precedence Over The Bad Angels?
+
 ## Objections
+
 Objection 1: It would seem that the good angels have no precedence over the bad angels. For the angels' precedence is especially connected with enlightenment. But the bad angels, being darkness, are not enlightened by the good angels. Therefore the good angels do not rule over the bad.
+
 Objection 2: Further, superiors are responsible as regards negligence for the evil deeds of their subjects. But the demons do much evil. Therefore if they are subject to the good angels, it seems that negligence is to be charged to the good angels; which cannot be admitted.
+
 Objection 3: Further, the angels' precedence follows upon the order of nature, as above explained [891](A[2]). But if the demons fell from every order, as is commonly said, many of the demons are superior to many good angels in the natural order. Therefore the good angels have no precedence over all the bad angels.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. iii), that "the treacherous and sinful spirit of life is ruled by the rational, pious, and just spirit of life"; and Gregory says (Hom. xxxiv) that "the Powers are the angels to whose charge are subjected the hostile powers."
+
 I answer that, The whole order of precedence is first and originally in God; and it is shared by creatures accordingly as they are the nearer to God. For those creatures, which are more perfect and nearer to God, have the power to act on others. Now the greatest perfection and that which brings them nearest to God belongs to the creatures who enjoy God, as the holy angels; of which perfection the demons are deprived; and therefore the good angels have precedence over the bad, and these are ruled by them.
+
 ## Replies
+
 Reply to Objection 1: Many things concerning Divine mysteries are made known by the holy angels to the bad angels, whenever the Divine justice requires the demons to do anything for the punishment of the evil; or for the trial of the good; as in human affairs the judge's assessors make known his sentence to the executioners. This revelation, if compared to the angelic revealers, can be called an enlightenment, forasmuch as they direct it to God; but it is not an enlightenment on the part of the demons, for these do not direct it to God; but to the fulfilment of their own wickedness.
+
 Reply to Objection 2: The holy angels are the ministers of the Divine wisdom. Hence as the Divine wisdom permits some evil to be done by bad angels or men, for the sake of the good that follows; so also the good angels do not entirely restrain the bad from inflicting harm.
+
 Reply to Objection 3: An angel who is inferior in the natural order presides over demons, although these may be naturally superior; because the power of Divine justice to which the good angels cleave, is stronger than the natural power of the angels. Hence likewise among men, "the spiritual man judgeth all things" (1 Cor. 2:15), and the Philosopher says (Ethic. iii, 4; x, 5) that "the virtuous man is the rule and measure of all human acts."

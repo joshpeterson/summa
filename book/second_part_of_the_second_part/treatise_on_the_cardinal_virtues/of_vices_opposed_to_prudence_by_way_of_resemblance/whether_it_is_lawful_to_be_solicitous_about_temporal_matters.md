@@ -1,12 +1,23 @@
 # Whether It Is Lawful To Be Solicitous About Temporal Matters?
+
 ## Objections
+
 Objection 1: It would seem lawful to be solicitous about temporal matters. Because a superior should be solicitous for his subjects, according to Rom. 12:8, "He that ruleth, with solicitude." Now according to the Divine ordering, man is placed over temporal things, according to Ps. 8:8, "Thou hast subjected all things under his feet," etc. Therefore man should be solicitous about temporal things.
+
 Objection 2: Further, everyone is solicitous about the end for which he works. Now it is lawful for a man to work for the temporal things whereby he sustains life, wherefore the Apostle says (2 Thess. 3:10): "If any man will not work, neither let him eat." Therefore it is lawful to be solicitous about temporal things.
+
 Objection 3: Further, solicitude about works of mercy is praiseworthy, according to 2 Tim. 1:17, "When he was come to Rome, he carefully sought me." Now solicitude about temporal things is sometimes connected with works of mercy; for instance, when a man is solicitous to watch over the interests of orphans and poor persons. Therefore solicitude about temporal things is not unlawful.
+
 ## Answer
+
 On the contrary, Our Lord said (Mat. 6:31): "Be not solicitous . . . saying, What shall we eat, or what shall we drink, or wherewith shall we be clothed?" And yet such things are very necessary.
+
 I answer that, Solicitude denotes an earnest endeavor to obtain something. Now it is evident that the endeavor is more earnest when there is fear of failure, so that there is less solicitude when success is assured. Accordingly solicitude about temporal things may be unlawful in three ways. First on the part of the object of solicitude; that is, if we seek temporal things as an end. Hence Augustine says (De Operibus Monach. xxvi): "When Our Lord said: 'Be not solicitous,' etc. . . . He intended to forbid them either to make such things their end, or for the sake of these things to do whatever they were commanded to do in preaching the Gospel." Secondly, solicitude about temporal things may be unlawful, through too much earnestness in endeavoring to obtain temporal things, the result being that a man is drawn away from spiritual things which ought to be the chief object of his search, wherefore it is written (Mat. 13:22) that "the care of this world . . . chokes up the word." Thirdly, through over much fear, when, to wit, a man fears to lack necessary things if he do what he ought to do. Now our Lord gives three motives for laying aside this fear. First, on account of the yet greater favors bestowed by God on man, independently of his solicitude, viz. his body and soul (Mat. 6:26); secondly, on account of the care with which God watches over animals and plants without the assistance of man, according to the requirements of their nature; thirdly, because of Divine providence, through ignorance of which the gentiles are solicitous in seeking temporal goods before all others. Consequently He concludes that we should be solicitous most of all about spiritual goods, hoping that temporal goods also may be granted us according to our needs, if we do what we ought to do.
+
 ## Replies
+
 Reply to Objection 1: Temporal goods are subjected to man that he may use them according to his needs, not that he may place his end in them and be over solicitous about them.
+
 Reply to Objection 2: The solicitude of a man who gains his bread by bodily labor is not superfluous but proportionate; hence Jerome says on Mat. 6:31, "Be not solicitous," that "labor is necessary, but solicitude must be banished," namely superfluous solicitude which unsettles the mind.
+
 Reply to Objection 3: In the works of mercy solicitude about temporal things is directed to charity as its end, wherefore it is not unlawful, unless it be superfluous.

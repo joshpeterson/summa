@@ -1,12 +1,23 @@
 # Whether The Will Of God Is Always Fulfilled?
+
 ## Objections
+
 Objection 1: It seems that the will of God is not always fulfilled. For the Apostle says (1 Tim. 2:4): "God will have all men to be saved, and to come to the knowledge of the truth." But this does not happen. Therefore the will of God is not always fulfilled.
+
 Objection 2: Further, as is the relation of knowledge to truth, so is that of the will to good. Now God knows all truth. Therefore He wills all good. But not all good actually exists; for much more good might exist. Therefore the will of God is not always fulfilled.
+
 Objection 3: Further, since the will of God is the first cause, it does not exclude intermediate causes. But the effect of a first cause may be hindered by a defect of a secondary cause; as the effect of the motive power may be hindered by the weakness of the limb. Therefore the effect of the divine will may be hindered by a defect of the secondary causes. The will of God, therefore, is not always fulfilled.
+
 ## Answer
+
 On the contrary, It is said (Ps. 113:11): "God hath done all things, whatsoever He would."
+
 I answer that, The will of God must needs always be fulfilled. In proof of which we must consider that since an effect is conformed to the agent according to its form, the rule is the same with active causes as with formal causes. The rule in forms is this: that although a thing may fall short of any particular form, it cannot fall short of the universal form. For though a thing may fail to be, for example, a man or a living being, yet it cannot fail to be a being. Hence the same must happen in active causes. Something may fall outside the order of any particular active cause, but not outside the order of the universal cause; under which all particular causes are included: and if any particular cause fails of its effect, this is because of the hindrance of some other particular cause, which is included in the order of the universal cause. Therefore an effect cannot possibly escape the order of the universal cause. Even in corporeal things this is clearly seen. For it may happen that a star is hindered from producing its effects; yet whatever effect does result, in corporeal things, from this hindrance of a corporeal cause, must be referred through intermediate causes to the universal influence of the first heaven. Since, then, the will of God is the universal cause of all things, it is impossible that the divine will should not produce its effect. Hence that which seems to depart from the divine will in one order, returns into it in another order; as does the sinner, who by sin falls away from the divine will as much as lies in him, yet falls back into the order of that will, when by its justice he is punished.
+
 ## Replies
+
 Reply to Objection 1: The words of the Apostle, "God will have all men to be saved," etc. can be understood in three ways. First, by a restricted application, in which case they would mean, as Augustine says (De praed. sanct. i, 8: Enchiridion 103), "God wills all men to be saved that are saved, not because there is no man whom He does not wish saved, but because there is no man saved whose salvation He does not will." Secondly, they can be understood as applying to every class of individuals, not to every individual of each class; in which case they mean that God wills some men of every class and condition to be saved, males and females, Jews and Gentiles, great and small, but not all of every condition. Thirdly, according to Damascene (De Fide Orth. ii, 29), they are understood of the antecedent will of God; not of the consequent will. This distinction must not be taken as applying to the divine will itself, in which there is nothing antecedent nor consequent, but to the things willed.
+
 Reply to Objection 2: An act of the cognitive faculty is according as the thing known is in the knower; while an act of the appetite faculty is directed to things as they exist in themselves. But all that can have the nature of being and truth virtually exists in God, though it does not all exist in created things. Therefore God knows all truth; but does not will all good, except in so far as He wills Himself, in Whom all good virtually exists.
+
 Reply to Objection 3: A first cause can be hindered in its effect by deficiency in the secondary cause, when it is not the universal first cause, including within itself all causes; for then the effect could in no way escape its order. And thus it is with the will of God, as said above.

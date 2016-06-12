@@ -1,16 +1,29 @@
 # Whether Virginity Consists In Integrity Of The Flesh?
+
 ## Objections
+
 Objection 1: It would seem that virginity does not consist in integrity of the flesh. For Augustine says (De Nup. et Concup.) [*The quotation is from De Sancta Virgin. xiii] that "virginity is the continual meditation on incorruption in a corruptible flesh." But meditation does not concern the flesh. Therefore virginity is not situated in the flesh.
+
 Objection 2: Further, virginity denotes a kind of purity. Now Augustine says (De Civ. Dei i, 18) that "purity dwells in the soul." Therefore virginity is not incorruption of the flesh.
+
 Objection 3: Further, the integrity of the flesh would seem to consist in the seal of virginal purity. Yet sometimes the seal is broken without loss of virginity. For Augustine says (De Civ. Dei i, 18) that "those organs may be injured through being wounded by mischance. Physicians, too, sometimes do for the sake of health that which makes one shudder to see: and a midwife has been known to destroy by touch the proof of virginity that she sought." And he adds: "Nobody, I think, would be so foolish as to deem this maiden to have forfeited even bodily sanctity, though she lost the integrity of that organ." Therefore virginity does not consist in incorruption of the flesh.
+
 Objection 4: Further, corruption of the flesh consists chiefly in resolution of the semen: and this may take place without copulation, whether one be asleep or awake. Yet seemingly virginity is not lost without copulation: for Augustine says (De Virgin. xiii) that "virginal integrity and holy continency that refrains from all sexual intercourse is the portion of angels." Therefore virginity does not consist in incorruption of the flesh.
+
 ## Answer
+
 On the contrary, Augustine says (De Virgin. viii) that "virginity is continence whereby integrity of the flesh is vowed, consecrated and observed in honor of the Creator of both soul and flesh."
+
 I answer that, Virginity takes its name apparently from "viror" [freshness], and just as a thing is described as fresh and retaining its freshness, so long as it is not parched by excessive heat, so too, virginity denotes that the person possessed thereof is unseared by the heat of concupiscence which is experienced in achieving the greatest bodily pleasure which is that of sexual intercourse. Hence, Ambrose says (De Virgin. i, 5) that "virginal chastity is integrity free of pollution."
 
 Now venereal pleasures offer three points for consideration. The first is on the part of the body, viz. the violation of the seal of virginity. The second is the link between that which concerns the soul and that which concerns the body, and this is the resolution of the semen, causing sensible pleasure. The third is entirely on the part of the soul, namely the purpose of attaining this pleasure. Of these three the first is accidental to the moral act, which as such must be considered in reference to the soul. The second stands in the relation of matter to the moral act, since the sensible passions are the matters of moral acts. But the third stands in the position of form and complement, because the essence of morality is perfected in that which concerns the reason. Since then virginity consists in freedom from the aforesaid corruption, it follows that the integrity of the bodily organ is accidental to virginity; while freedom from pleasure in resolution of the semen is related thereto materially; and the purpose of perpetually abstaining from this pleasure is the formal and completive element in virginity.
+
 ## Replies
+
 Reply to Objection 1: This definition of Augustine's expresses directly that which is formal in virginity. For "meditation" denotes reason's purpose; and the addition "perpetual" does not imply that a virgin must always retain this meditation actually, but that she should bear in mind the purpose of always persevering therein. The material element is expressed indirectly by the words "on incorruption in a corruptible body." This is added to show the difficulty of virginity: for if the flesh were incorruptible, it would not be difficult to maintain a perpetual meditation on incorruption.
+
 Reply to Objection 2: It is true that purity, as to its essence, is in the soul; but as to its matter, it is in the body: and it is the same with virginity. Wherefore Augustine says (De Virgin. viii) that "although virginity resides in the flesh," and for this reason is a bodily quality, "yet it is a spiritual thing, which a holy continency fosters and preserves."
+
 Reply to Objection 3: As stated above, the integrity of a bodily organ is accidental to virginity, in so far as a person, through purposely abstaining from venereal pleasure, retains the integrity of a bodily organ. Hence if the organ lose its integrity by chance in some other way, this is no more prejudicial to virginity than being deprived of a hand or foot.
+
 Reply to Objection 4: Pleasure resulting from resolution of semen may arise in two ways. If this be the result of the mind's purpose, it destroys virginity, whether copulation takes place or not. Augustine, however, mentions copulation, because such like resolution is the ordinary and natural result thereof. In another way this may happen beside the purpose of the mind, either during sleep, or through violence and without the mind's consent, although the flesh derives pleasure from it, or again through weakness of nature, as in the case of those who are subject to a flow of semen. In such cases virginity is not forfeit, because such like pollution is not the result of impurity which excludes virginity.

@@ -1,12 +1,23 @@
 # Whether Observance Is A Greater Virtue Than Piety?
+
 ## Objections
+
 Objection 1: It seems that observance is a greater virtue than piety. For the prince to whom worship is paid by observance is compared to a father who is worshiped by piety, as a universal to a particular governor; because the household which a father governs is part of the state which is governed by the prince. Now a universal power is greater, and inferiors are more subject thereto. Therefore observance is a greater virtue than piety.
+
 Objection 2: Further, persons in positions of dignity take care of the common good. Now our kindred pertain to the private good, which we ought to set aside for the common good: wherefore it is praiseworthy to expose oneself to the danger of death for the sake of the common good. Therefore observance, whereby worship is paid to persons in positions of dignity, is a greater virtue than piety, which pays worship to one's kindred.
+
 Objection 3: Further honor and reverence are due to the virtuous in the first place after God. Now honor and reverence are paid to the virtuous by the virtue of observance, as stated above (A[1], ad 3). Therefore observance takes the first place after religion.
+
 ## Answer
+
 On the contrary, The precepts of the Law prescribe acts of virtue. Now, immediately after the precepts of religion, which belong to the first table, follows the precept of honoring our parents which refers to piety. Therefore piety follows immediately after religion in the order of excellence.
+
 I answer that, Something may be paid to persons in positions of dignity in two ways. First, in relation to the common good, as when one serves them in the administration of the affairs of the state. This no longer belongs to observance, but to piety, which pays worship not only to one's father but also to one's fatherland. Secondly, that which is paid to persons in positions of dignity refers specially to their personal usefulness or renown, and this belongs properly to observance, as distinct from piety. Therefore in comparing observance with piety we must needs take into consideration the different relations in which other persons stand to ourselves, which relations both virtues regard. Now it is evident that the persons of our parents and of our kindred are more substantially akin to us than persons in positions of dignity, since birth and education, which originate in the father, belong more to one's substance than external government, the principle of which is seated in those who are in positions of dignity. For this reason piety takes precedence of observance, inasmuch as it pays worship to persons more akin to us, and to whom we are more strictly bound.
+
 ## Replies
+
 Reply to Objection 1: The prince is compared to the father as a universal to a particular power, as regards external government, but not as regards the father being a principle of generation: for in this way the father should be compared with the divine power from which all things derive their being.
+
 Reply to Objection 2: In so far as persons in positions of dignity are related to the common good, their worship does not pertain to observance, but to piety, as stated above.
+
 Reply to Objection 3: The rendering of honor or worship should be proportionate to the person to whom it is paid not only as considered in himself, but also as compared to those who pay them. Wherefore, though virtuous persons, considered in themselves, are more worthy of honor than the persons of one's parents, yet children are under a greater obligation, on account of the benefits they have received from their parents and their natural kinship with them, to pay worship and honor to their parents than to virtuous persons who are not of their kindred.

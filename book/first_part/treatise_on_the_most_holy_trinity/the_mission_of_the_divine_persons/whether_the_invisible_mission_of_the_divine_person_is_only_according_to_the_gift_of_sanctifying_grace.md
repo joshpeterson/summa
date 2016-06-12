@@ -1,18 +1,31 @@
 # Whether The Invisible Mission Of The Divine Person Is Only According To The Gift Of Sanctifying Grace?
+
 ## Objections
+
 Objection 1: It would seem that the invisible mission of the divine person is not only according to the gift of sanctifying grace. For the sending of a divine person means that He is given. Hence if the divine person is sent only according to the gift of sanctifying grace, the divine person Himself will not be given, but only His gifts; and this is the error of those who say that the Holy Ghost is not given, but that His gifts are given.
+
 Objection 2: Further, this preposition, "according to," denotes the habitude of some cause. But the divine person is the cause why the gift of sanctifying grace is possessed, and not conversely, according to Rom. 5:5, "the charity of God is poured forth in our hearts by the Holy Ghost, Who is given to us." Therefore it is improperly said that the divine person is sent according to the gift of sanctifying grace.
+
 Objection 3: Further, Augustine says (De Trin. iv, 20) that "the Son, when temporally perceived by the mind, is sent." But the Son is known not only by sanctifying grace, but also by gratuitous grace, as by faith and knowledge. Therefore the divine person is not sent only according to the gift of sanctifying grace.
+
 Objection 4: Further, Rabanus says that the Holy Ghost was given to the apostles for the working of miracles. This, however, is not a gift of sanctifying grace, but a gratuitous grace. Therefore the divine person is not given only according to the gift of sanctifying grace.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. iii, 4) that "the Holy Ghost proceeds temporally for the creature's sanctification." But mission is a temporal procession. Since then the creature's sanctification is by sanctifying grace, it follows that the mission of the divine person is only by sanctifying grace.
+
 I answer that, The divine person is fittingly sent in the sense that He exists newly in any one; and He is given as possessed by anyone; and neither of these is otherwise than by sanctifying grace.
 
 For God is in all things by His essence, power and presence, according to His one common mode, as the cause existing in the effects which participate in His goodness. Above and beyond this common mode, however, there is one special mode belonging to the rational nature wherein God is said to be present as the object known is in the knower, and the beloved in the lover. And since the rational creature by its operation of knowledge and love attains to God Himself, according to this special mode God is said not only to exist in the rational creature but also to dwell therein as in His own temple. So no other effect can be put down as the reason why the divine person is in the rational creature in a new mode, except sanctifying grace. Hence, the divine person is sent, and proceeds temporally only according to sanctifying grace.
 
 Again, we are said to possess only what we can freely use or enjoy: and to have the power of enjoying the divine person can only be according to sanctifying grace. And yet the Holy Ghost is possessed by man, and dwells within him, in the very gift itself of sanctifying grace. Hence the Holy Ghost Himself is given and sent.
+
 ## Replies
+
 Reply to Objection 1: By the gift of sanctifying grace the rational creature is perfected so that it can freely use not only the created gift itself, but enjoy also the divine person Himself; and so the invisible mission takes place according to the gift of sanctifying grace; and yet the divine person Himself is given.
+
 Reply to Objection 2: Sanctifying grace disposes the soul to possess the divine person; and this is signified when it is said that the Holy Ghost is given according to the gift of grace. Nevertheless the gift itself of grace is from the Holy Ghost; which is meant by the words, "the charity of God is poured forth in our hearts by the Holy Ghost."
+
 Reply to Objection 3: Although the Son can be known by us according to other effects, yet neither does He dwell in us, nor is He possessed by us according to those effects.
+
 Reply to Objection 4: The working of miracles manifests sanctifying grace as also does the gift of prophecy and any other gratuitous graces. Hence gratuitous grace is called the "manifestation of the Spirit" (1 Cor. 12:7). So the Holy Ghost is said to be given to the apostles for the working of miracles, because sanctifying grace was given to them with the outward sign. Were the sign only of sanctifying grace given to them without the grace itself, it would not be simply said that the Holy Ghost was given, except with some qualifying term; just as we read of certain ones receiving the gift of the spirit of prophecy, or of miracles, as having from the Holy Ghost the power of prophesying or of working miracles.

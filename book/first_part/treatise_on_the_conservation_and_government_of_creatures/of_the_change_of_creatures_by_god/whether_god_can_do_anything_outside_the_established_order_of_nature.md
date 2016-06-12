@@ -1,14 +1,25 @@
 # Whether God Can Do Anything Outside The Established Order Of Nature?
+
 ## Objections
+
 Objection 1: It would seem that God cannot do anything outside the established order of nature. For Augustine (Contra Faust. xxvi, 3) says: "God the Maker and Creator of each nature, does nothing against nature." But that which is outside the natural order seems to be against nature. Therefore God can do nothing outside the natural order.
+
 Objection 2: Further, as the order of justice is from God, so is the order of nature. But God cannot do anything outside the order of justice; for then He would do something unjust. Therefore He cannot do anything outside the order of nature.
+
 Objection 3: Further, God established the order of nature. Therefore it God does anything outside the order of nature, it would seem that He is changeable; which cannot be said.
+
 ## Answer
+
 On the contrary, Augustine says (Contra Faust. xxvi, 3): "God sometimes does things which are contrary to the ordinary course of nature."
+
 I answer that, From each cause there results a certain order to its effects, since every cause is a principle; and so, according to the multiplicity of causes, there results a multiplicity of orders, subjected one to the other, as cause is subjected to cause. Wherefore a higher cause is not subjected to a cause of a lower order; but conversely. An example of this may be seen in human affairs. On the father of a family depends the order of the household; which order is contained in the order of the city; which order again depends on the ruler of the city; while this last order depends on that of the king, by whom the whole kingdom is ordered.
 
 If therefore we consider the order of things depending on the first cause, God cannot do anything against this order; for, if He did so, He would act against His foreknowledge, or His will, or His goodness. But if we consider the order of things depending on any secondary cause, thus God can do something outside such order; for He is not subject to the order of secondary causes; but, on the contrary, this order is subject to Him, as proceeding from Him, not by a natural necessity, but by the choice of His own will; for He could have created another order of things. Wherefore God can do something outside this order created by Him, when He chooses, for instance by producing the effects of secondary causes without them, or by producing certain effects to which secondary causes do not extend. So Augustine says (Contra Faust. xxvi, 3): "God acts against the wonted course of nature, but by no means does He act against the supreme law; because He does not act against Himself."
+
 ## Replies
+
 Reply to Objection 1: In natural things something may happen outside this natural order, in two ways. It may happen by the action of an agent which did not give them their natural inclination; as, for example, when a man moves a heavy body upwards, which does not owe to him its natural inclination to move downwards; and that would be against nature. It may also happen by the action of the agent on whom the natural inclination depends; and this is not against nature, as is clear in the ebb and flow of the tide, which is not against nature; although it is against the natural movement of water in a downward direction; for it is owing to the influence of a heavenly body, on which the natural inclination of lower bodies depends. Therefore since the order of nature is given to things by God; if He does anything outside this order, it is not against nature. Wherefore Augustine says (Contra Faust. xxvi, 3): "That is natural to each thing which is caused by Him from Whom is all mode, number, and order in nature."
+
 Reply to Objection 2: The order of justice arises by relation to the First Cause, Who is the rule of all justice; and therefore God can do nothing against such order.
+
 Reply to Objection 3: God fixed a certain order in things in such a way that at the same time He reserved to Himself whatever he intended to do otherwise than by a particular cause. So when He acts outside this order, He does not change.

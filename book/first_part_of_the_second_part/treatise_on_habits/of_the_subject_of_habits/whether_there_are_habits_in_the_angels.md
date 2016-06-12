@@ -1,10 +1,17 @@
 # Whether There Are Habits In The Angels?
+
 ## Objections
+
 Objection 1: It would seem that there are no habits in the angels. For Maximus, commentator of Dionysius (Coel. Hier. vii), says: "It is not proper to suppose that there are intellectual (i.e. spiritual) powers in the divine intelligences (i.e. in the angels) after the manner of accidents, as in us: as though one were in the other as in a subject: for accident of any kind is foreign to them." But every habit is an accident. Therefore there are no habits in the angels.
+
 Objection 2: Further, as Dionysius says (Coel. Hier. iv): "The holy dispositions of the heavenly essences participate, above all other things, in God's goodness." But that which is of itself [per se] is prior to and more power than that which is by another [per aliud]. Therefore the angelic essences are perfected of themselves unto conformity with God, and therefore not by means of habits. And this seems to have been the reasoning of Maximus, who in the same passage adds: "For if this were the case, surely their essence would not remain in itself, nor could it have been as far as possible deified of itself."
+
 Objection 3: Further, habit is a disposition (Metaph. v, text. 25). But disposition, as is said in the same book, is "the order of that which has parts." Since, therefore, angels are simple substances, it seems that there are no dispositions and habits in them.
+
 ## Answer
+
 On the contrary, Dionysius says (Coel. Hier. vii) that the angels are of the first hierarchy are called: "Fire-bearers and Thrones and Outpouring of Wisdom, by which is indicated the godlike nature of their habits."
+
 I answer that, Some have thought that there are no habits in the angels, and that whatever is said of them, is said essentially. Whence Maximus, after the words which we have quoted, says: "Their dispositions, and the powers which are in them, are essential, through the absence of matter in them." And Simplicius says the same in his Commentary on the Predicaments: "Wisdom which is in the soul is its habit: but that which is in the intellect, is its substance. For everything divine is sufficient of itself, and exists in itself."
 
 Now this opinion contains some truth, and some error. For it is manifest from what we have said ([1461]Q[49], A[4]) that only a being in potentiality is the subject of habit. So the above-mentioned commentators considered that angels are immaterial substances, and that there is no material potentiality in them, and on that account, excluded from them habit and any kind of accident. Yet since though there is no material potentiality in angels, there is still some potentiality in them (for to be pure act belongs to God alone), therefore, as far as potentiality is found to be in them, so far may habits be found in them. But because the potentiality of matter and the potentiality of intellectual substance are not of the same kind. Whence, Simplicius says in his Commentary on the Predicaments that: "The habits of the intellectual substance are not like the habits here below, but rather are they like simple and immaterial images which it contains in itself."
@@ -14,7 +21,11 @@ However, the angelic intellect and the human intellect differ with regard to thi
 But since no angel attains to the perfection of God, but all are infinitely distant therefrom; for this reason, in order to attain to God Himself, through intellect and will, the angels need some habits, being as it were in potentiality in regard to that Pure Act. Wherefore Dionysius says (Coel. Hier. vii) that their habits are "godlike," that is to say, that by them they are made like to God.
 
 But those habits that are dispositions to the natural being are not in angels, since they are immaterial.
+
 ## Replies
+
 Reply to Objection 1: This saying of Maximus must be understood of material habits and accidents.
+
 Reply to Objection 2: As to that which belongs to angels by their essence, they do not need a habit. But as they are not so far beings of themselves, as not to partake of Divine wisdom and goodness, therefore, so far as they need to partake of something from without, so far do they need to have habits.
+
 Reply to Objection 3: In angels there are no essential parts: but there are potential parts, in so far as their intellect is perfected by several species, and in so far as their will has a relation to several things.

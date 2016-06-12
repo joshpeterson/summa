@@ -1,16 +1,31 @@
 # Whether Desires For Pleasures Of Touch Are The Matter Of Continence?
+
 ## Objections
+
 Objection 1: It would seem that desires for pleasures of touch are not the matter of continence. For Ambrose says (De Offic. i, 46): "General decorum by its consistent form and the perfection of what is virtuous is restrained* in its every action." [*"Continentem" according to St. Thomas' reading; St. Ambrose wrote "concinentem = harmonious"].
+
 Objection 2: Further, continence takes its name from a man standing for the good of right reason, as stated above (A[1], ad 2). Now other passions lead men astray from right reason with greater vehemence than the desire for pleasures of touch: for instance, the fear of mortal dangers, which stupefies a man, and anger which makes him behave like a madman, as Seneca remarks [*De Ira i, 1]. Therefore continence does not properly regard the desires for pleasures of touch.
+
 Objection 3: Further, Tully says (De Invent. Rhet. ii, 54): "It is continence that restrains cupidity with the guiding hand of counsel." Now cupidity is generally used to denote the desire for riches rather than the desire for pleasures of touch, according to 1 Tim. 6:10, "Cupidity [Douay: 'The desire of money'] ({philargyria}), is the root of all evils." Therefore continence is not properly about the desires for pleasures of touch
+
 Objection 4: Further, there are pleasures of touch not only in venereal matters but also in eating. But continence is wont to be applied only to the use of venereal matters. Therefore the desire for pleasures of touch is not its proper matter.
+
 Objection 5: Further, among pleasures of touch some are not human but bestial, both as regards food---for instance, the pleasure of eating human flesh; and as regards venereal matters---for instance the abuse of animals or boys. But continence is not about such like things, as stated in Ethic. vii, 5. Therefore desires for pleasures of touch are not the proper matter of continence.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. vii, 4) that "continence and incontinence are about the same things as temperance and intemperance." Now temperance and intemperance are about the desires for pleasures of touch, as stated above ([3553]Q[141], A[4]). Therefore continence and incontinence are also about that same matter.
+
 I answer that, Continence denotes, by its very name, a certain curbing, in so far as a man contains himself from following his passions. Hence continence is properly said in reference to those passions which urge a man towards the pursuit of something, wherein it is praiseworthy that reason should withhold man from pursuing: whereas it is not properly about those passions, such as fear and the like, which denote some kind of withdrawal: since in these it is praiseworthy to remain firm in pursuing what reason dictates, as stated above (Q[123], AA[3],4). Now it is to be observed that natural inclinations are the principles of all supervening inclinations, as stated above ([3554]FP, Q[60], A[2]). Wherefore the more they follow the inclination of nature, the more strongly do the passions urge to the pursuance of an object. Now nature inclines chiefly to those things that are necessary to it, whether for the maintenance of the individual, such as food, or for the maintenance of the species, such as venereal acts, the pleasures of which pertain to the touch. Therefore continence and incontinence refer properly to desires for pleasures of touch.
+
 ## Replies
+
 Reply to Objection 1: Just as temperance may be used in a general sense in connection with any matter; but is properly applied to that matter wherein it is best for man to be curbed: so, too, continence properly speaking regards that matter wherein it is best and most difficult to contain oneself, namely desires for pleasures of touch, and yet in a general sense and relatively may be applied to any other matter: and in this sense Ambrose speaks of continence.
+
 Reply to Objection 2: Properly speaking we do not speak of continence in relation to fear, but rather of firmness of mind which fortitude implies. As to anger, it is true that it begets an impulse to the pursuit of something, but this impulse follows an apprehension of the soul---in so far as a man apprehends that someone has injured him---rather than an inclination of nature. Wherefore a man may be said to be continent of anger, relatively but not simply.
+
 Reply to Objection 3: External goods, such as honors, riches and the like, as the Philosopher says (Ethic. vii, 4), seem to be objects of choice in themselves indeed, but not as being necessary for the maintenance of nature. Wherefore in reference to such things we speak of a person as being continent or incontinent, not simply, but relatively, by adding that they are continent or incontinent in regard to wealth, or honor and so forth. Hence Tully either understood continence in a general sense, as including relative continence, or understood cupidity in a restricted sense as denoting desire for pleasures of touch.
+
 Reply to Objection 4: Venereal pleasures are more vehement than pleasures of the palate: wherefore we are wont to speak of continence and incontinence in reference to venereal matters rather than in reference to food; although according to the Philosopher they are applicable to both.
+
 Reply to Objection 5: Continence is a good of the human reason: wherefore it regards those passions which can be connatural to man. Hence the Philosopher says (Ethic. vii, 5) that "if a man were to lay hold of a child with desire of eating him or of satisfying an unnatural passion whether he follow up his desire or not, he is said to be continent [*See A[4]], not absolutely, but relatively."

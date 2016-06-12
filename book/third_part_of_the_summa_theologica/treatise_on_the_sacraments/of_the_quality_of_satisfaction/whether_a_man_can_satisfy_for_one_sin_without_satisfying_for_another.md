@@ -1,12 +1,23 @@
 # Whether A Man Can Satisfy For One Sin Without Satisfying For Another?
+
 ## Objections
+
 Objection 1: It would seem that a man can satisfy for one sin without satisfying for another. Because when several things are not connected together one can be taken away without another. Now sins are not connected together, else whoever had one would have them all. Therefore one sin can be expiated by satisfaction, without another.
+
 Objection 2: Further, God is more merciful than man. But man accepts the payment of one debt without the payment of another. Therefore God accepts satisfaction for one sin without the other.
+
 Objection 3: Further, as stated in the text (Sent. iv, D, 15), "satisfaction is to uproot the causes of sin, and give no opening to the suggestions thereof." Now this can be done with regard to one sin and not another, as when a mall curbs his lust and perseveres in covetousness. Therefore we can make satisfaction for one sin without satisfying for another.
+
 ## Answer
+
 On the contrary, The fast of those who fasted "for debates and strifes" (Is. 58:4,5) was not acceptable to God, though fasting be a work of satisfaction. Now satisfaction cannot be made save by works that are acceptable to God. Therefore he that has a sin on his conscience cannot make satisfaction to God.
+
 I answer that, Some have held that it is possible to make satisfaction for one sin and not for another, as the Master states (Sent. iv, D, 15). But this cannot be. For since the previous offense has to be removed by satisfaction, the mode of satisfaction must needs be consistent with the removal of the offense. Now removal of offense is renewal of friendship: wherefore if there be anything to hinder the renewal of friendship there can be no satisfaction. Since, therefore, every sin is a hindrance to the friendship of charity, which is the friendship of man for God, it is impossible for man to make satisfaction for one sin while holding to another: even as neither would a man make satisfaction to another for a blow, if while throwing himself at his feet he were to give him another.
+
 ## Replies
+
 Reply to Objection 1: As sins are not connected together in some single one, a man can incur one without incurring another; whereas all sins are remitted by reason of one same thing, so that the remissions of various sins are connected together. Consequently satisfaction cannot be made for one and not for another.
+
 Reply to Objection 2: When a man is under obligation to another by reason of a debt, the only inequality between them is that which is opposed to justice, so that for restitution nothing further is required than that the equality of justice should be reinstated, and this can be done in respect of one debt without another. But when the obligation is based on an offense, there is inequality not only of justice but also of friendship, so that for the offense to be removed by satisfaction, not only must the equality of justice be restored by the payment of a punishment equal to the offense, but also the equality of friendship must be reinstated, which is impossible so long as an obstacle to friendship remains.
+
 Reply to Objection 3: By its weight, one sin drags us down to another, as Gregory says (Moral. xxv): so that when a man holds to one sin, he does not sufficiently cut himself off from the causes of further sin.

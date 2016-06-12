@@ -1,10 +1,17 @@
 # Whether Virtue Is In Us By Nature?
+
 ## Objections
+
 Objection 1: It would seem that virtue is in us by nature. For Damascene says (De Fide Orth. iii, 14): "Virtues are natural to us and are equally in all of us." And Antony says in his sermon to the monks: "If the will contradicts nature it is perverse, if it follow nature it is virtuous." Moreover, a gloss on Mat. 4:23, "Jesus went about," etc., says: "He taught them natural virtues, i.e. chastity, justice, humility, which man possesses naturally."
+
 Objection 2: Further, the virtuous good consists in accord with reason, as was clearly shown above ([1583]Q[55], A[4], ad 2). But that which accords with reason is natural to man; since reason is part of man's nature. Therefore virtue is in man by nature.
+
 Objection 3: Further, that which is in us from birth is said to be natural to us. Now virtues are in some from birth: for it is written (Job 31:18): "From my infancy mercy grew up with me; and it came out with me from my mother's womb." Therefore virtue is in man by nature.
+
 ## Answer
+
 On the contrary, Whatever is in man by nature is common to all men, and is not taken away by sin, since even in the demons natural gifts remain, as Dionysius states (Div. Nom. iv). But virtue is not in all men; and is cast out by sin. Therefore it is not in man by nature.
+
 I answer that, With regard to corporeal forms, it has been maintained by some that they are wholly from within, by those, for instance, who upheld the theory of "latent forms" [*Anaxagoras; Cf. [1584]FP, Q[45], A[8]; Q[65], A[4]]. Others held that forms are entirely from without, those, for instance, who thought that corporeal forms originated from some separate cause. Others, however, esteemed that they are partly from within, in so far as they pre-exist potentially in matter; and partly from without, in so far as they are brought into act by the agent.
 
 In like manner with regard to sciences and virtues, some held that they are wholly from within, so that all virtues and sciences would pre-exist in the soul naturally, but that the hindrances to science and virtue, which are due to the soul being weighed down by the body, are removed by study and practice, even as iron is made bright by being polished. This was the opinion of the Platonists. Others said that they are wholly from without, being due to the inflow of the active intellect, as Avicenna maintained. Others said that sciences and virtues are within us by nature, so far as we are adapted to them, but not in their perfection: this is the teaching of the Philosopher (Ethic. ii, 1), and is nearer the truth.

@@ -1,14 +1,25 @@
 # Whether Habit Implies Order To An Act?
+
 ## Objections
+
 Objection 1: It would seem that habit does not imply order to an act. For everything acts according as it is in act. But the Philosopher says (De Anima iii, text 8), that "when one is become knowing by habit, one is still in a state of potentiality, but otherwise than before learning." Therefore habit does not imply the relation of a principle to an act.
+
 Objection 2: Further, that which is put in the definition of a thing, belongs to it essentially. But to be a principle of action, is put in the definition of power, as we read in Metaph. v, text. 17. Therefore to be the principle of an act belongs to power essentially. Now that which is essential is first in every genus. If therefore, habit also is a principle of act, it follows that it is posterior to power. And so habit and disposition will not be the first species of quality.
+
 Objection 3: Further, health is sometimes a habit, and so are leanness and beauty. But these do not indicate relation to an act. Therefore it is not essential to habit to be a principle of act.
+
 ## Answer
+
 On the contrary, Augustine says (De Bono Conjug. xxi) that "habit is that whereby something is done when necessary." And the Commentator says (De Anima iii) that "habit is that whereby we act when we will."
+
 I answer that, To have relation to an act may belong to habit, both in regard to the nature of habit, and in regard to the subject in which the habit is. In regard to the nature of habit, it belongs to every habit to have relation to an act. For it is essential to habit to imply some relation to a thing's nature, in so far as it is suitable or unsuitable thereto. But a thing's nature, which is the end of generation, is further ordained to another end, which is either an operation, or the product of an operation, to which one attains by means of operation. Wherefore habit implies relation not only to the very nature of a thing, but also, consequently, to operation, inasmuch as this is the end of nature, or conducive to the end. Whence also it is stated (Metaph. v, text. 25) in the definition of habit, that it is a disposition whereby that which is disposed, is well or ill disposed either in regard to itself, that is to its nature, or in regard to something else, that is to the end.
 
 But there are some habits, which even on the part of the subject in which they are, imply primarily and principally relation to an act. For, as we have said, habit primarily and of itself implies a relation to the thing's nature. If therefore the nature of a thing, in which the habit is, consists in this very relation to an act, it follows that the habit principally implies relation to an act. Now it is clear that the nature and the notion of power is that it should be a principle of act. Wherefore every habit is subjected in a power, implies principally relation to an act.
+
 ## Replies
+
 Reply to Objection 1: Habit is an act, in so far as it is a quality: and in this respect it can be a principle of operation. It is, however, in a state of potentiality in respect to operation. Wherefore habit is called first act, and operation, second act; as it is explained in De Anima ii, text. 5.
+
 Reply to Objection 2: It is not the essence of habit to be related to power, but to be related to nature. And as nature precedes action, to which power is related, therefore habit is put before power as a species of quality.
+
 Reply to Objection 3: Health is said to be a habit, or a habitual disposition, in relation to nature, as stated above. But in so far as nature is a principle of act, it consequently implies a relation to act. Wherefore the Philosopher says (De Hist. Animal. x, 1), that man, or one of his members, is called healthy, "when he can perform the operation of a healthy man." And the same applies to other habits.

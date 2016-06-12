@@ -1,12 +1,23 @@
 # Whether Wisdom Can Be Without Grace, And With Mortal Sin?
+
 ## Objections
+
 Objection 1: It would seem that wisdom can be without grace and with mortal sin. For saints glory chiefly in such things as are incompatible with mortal sin, according to 2 Cor. 1:12: "Our glory is this, the testimony of our conscience." Now one ought not to glory in one's wisdom, according to Jer. 9:23: "Let not the wise man glory in his wisdom." Therefore wisdom can be without grace and with mortal sin.
+
 Objection 2: Further, wisdom denotes knowledge of Divine things, as stated above [2712](A[1]). Now one in mortal sin may have knowledge of the Divine truth, according to Rom. 1:18: "(Those men that) detain the truth of God in injustice." Therefore wisdom is compatible with mortal sin.
+
 Objection 3: Further, Augustine says (De Trin. xv, 18) while speaking of charity: "Nothing surpasses this gift of God, it is this alone that divides the children of the eternal kingdom from the children of eternal perdition." But wisdom is distinct from charity. Therefore it does not divide the children of the kingdom from the children of perdition. Therefore it is compatible with mortal sin.
+
 ## Answer
+
 On the contrary, It is written (Wis. 1:4): "Wisdom will not enter into a malicious soul, nor dwell in a body subject to sins."
+
 I answer that, The wisdom which is a gift of the Holy Ghost, as stated above [2713](A[1]), enables us to judge aright of Divine things, or of other things according to Divine rules, by reason of a certain connaturalness or union with Divine things, which is the effect of charity, as stated above [2714](A[2]; Q[23], A[5]). Hence the wisdom of which we are speaking presupposes charity. Now charity is incompatible with mortal sin, as shown above (Q[24], A[12]). Therefore it follows that the wisdom of which we are speaking cannot be together with mortal sin.
+
 ## Replies
+
 Reply to Objection 1: These words are to be understood as referring to worldly wisdom, or to wisdom in Divine things acquired through human reasons. In such wisdom the saints do not glory, according to Prov. 30:2: "The wisdom of men is not with Me": But they do glory in Divine wisdom according to 1 Cor. 1:30: "(Who) of God is made unto us wisdom."
+
 Reply to Objection 2: This argument considers, not the wisdom of which we speak but that which is acquired by the study and research of reason, and is compatible with mortal sin.
+
 Reply to Objection 3: Although wisdom is distinct from charity, it presupposes it, and for that very reason divides the children of perdition from the children of the kingdom.

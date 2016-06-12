@@ -1,12 +1,23 @@
 # Whether This Knowledge Was Distinguished By Divers Habits?
+
 ## Objections
+
 Objection 1: It would seem that in the soul of Christ there was only one habit of knowledge. For the more perfect knowledge is, the more united it is; hence the higher angels understand by the more universal forms, as was said in the [3993]FP, Q[55], A[3]. Now Christ's knowledge was most perfect. Therefore it was most one. Therefore it was not distinguished by several habits.
+
 Objection 2: Further, our faith is derived from Christ's knowledge; hence it is written (Heb. 12:2): "Looking on Jesus the author and finisher of faith." But there is only one habit of faith about all things believed, as was said in the [3994]SS, Q[4], A[6]. Much more, therefore, was there only one habit of knowledge in Christ.
+
 Objection 3: Further, knowledge is distinguished by the divers formalities of knowable things. But the soul of Christ knew everything under one formality, i.e. by a divinely infused light. Therefore in Christ there was only one habit of knowledge.
+
 ## Answer
+
 On the contrary, It is written (Zech. 3:9) that on "one" stone, i.e. Christ, "there are seven eyes." Now by the eye is understood knowledge. Therefore it would seem that in Christ there were several habits of knowledge.
+
 I answer that, As stated above ([3995]AA[4],5), the knowledge imprinted on Christ's soul has a mode connatural to a human soul. Now it is connatural to a human soul to receive species of a lesser universality than the angels receive; so that it knows different specific natures by different intelligible species. But it so happens that we have different habits of knowledge, because there are different classes of knowable things, inasmuch as what are in one genus are known by one habit; thus it is said (Poster. i, 42) that "one science is of one class of object." And hence the knowledge imprinted on Christ's soul was distinguished by different habits.
+
 ## Replies
+
 Reply to Objection 1: As was said [3996](A[4]), the knowledge of Christ's soul is most perfect, and exceeds the knowledge of angels with regard to what is in it on the part of God's gift; but it is below the angelic knowledge as regards the mode of the recipient. And it pertains to this mode that this knowledge is distinguished by various habits, inasmuch as it regards more particular species.
+
 Reply to Objection 2: Our faith rests upon the First Truth; and hence Christ is the author of our faith by the Divine knowledge, which is simply one.
+
 Reply to Objection 3: The divinely infused light is the common formality for understanding what is divinely revealed, as the light of the active intellect is with regard to what is naturally known. Hence, in the soul of Christ there must be the proper species of singular things, in order to know each with proper knowledge; and in this way there must be divers habits of knowledge in Christ's soul, as stated above.

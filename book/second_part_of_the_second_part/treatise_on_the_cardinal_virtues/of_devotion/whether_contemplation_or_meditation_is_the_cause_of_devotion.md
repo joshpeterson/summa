@@ -1,12 +1,23 @@
 # Whether Contemplation Or Meditation Is The Cause Of Devotion?
+
 ## Objections
+
 Objection 1: It would seem that contemplation or meditation is not the cause of devotion. No cause hinders its effect. But subtle considerations about abstract matters are often a hindrance to devotion. Therefore contemplation or meditation is not the cause of devotion.
+
 Objection 2: Further, if contemplation were the proper and essential cause of devotion, the higher objects of contemplation would arouse greater devotion. But the contrary is the case: since frequently we are urged to greater devotion by considering Christ's Passion and other mysteries of His humanity than by considering the greatness of His Godhead. Therefore contemplation is not the proper cause of devotion.
+
 Objection 3: Further, if contemplation were the proper cause of devotion, it would follow that those who are most apt for contemplation, are also most apt for devotion. Yet the contrary is to be noticed, for devotion is frequently found in men of simplicity and members of the female sex, who are defective in contemplation. Therefore contemplation is not the proper cause of devotion.
+
 ## Answer
+
 On the contrary, It is written (Ps. 38:4): "In my meditation a fire shall flame out." But spiritual fire causes devotion. Therefore meditation is the cause of devotion.
+
 I answer that, The extrinsic and chief cause of devotion is God, of Whom Ambrose, commenting on Lk. 9:55, says that "God calls whom He deigns to call, and whom He wills He makes religious: the profane Samaritans, had He so willed, He would have made devout." But the intrinsic cause on our part must needs be meditation or contemplation. For it was stated above [3004](A[1]) that devotion is an act of the will to the effect that man surrenders himself readily to the service of God. Now every act of the will proceeds from some consideration, since the object of the will is a good understood. Wherefore Augustine says (De Trin. ix, 12; xv, 23) that "the will arises from the intelligence." Consequently meditation must needs be the cause of devotion, in so far as through meditation man conceives the thought of surrendering himself to God's service. Indeed a twofold consideration leads him thereto. The one is the consideration of God's goodness and loving kindness, according to Ps. 72:28, "It is good for me to adhere to my God, to put my hope in the Lord God": and this consideration wakens love [*'Dilectio,' the interior act of charity; cf. Q[27]] which is the proximate cause of devotion. The other consideration is that of man's own shortcomings, on account of which he needs to lean on God, according to Ps. 120:1,2, "I have lifted up my eyes to the mountains, from whence help shall come to me: my help is from the Lord, Who made heaven and earth"; and this consideration shuts out presumption whereby man is hindered from submitting to God, because he leans on His strength.
+
 ## Replies
+
 Reply to Objection 1: The consideration of such things as are of a nature to awaken our love [*'Dilectio,' the interior act of charity; cf. Q[27]] of God, causes devotion; whereas the consideration of foreign matters that distract the mind from such things is a hindrance to devotion.
+
 Reply to Objection 2: Matters concerning the Godhead are, in themselves, the strongest incentive to love ['dilectio,' the interior act of charity; cf. Q[27]] and consequently to devotion, because God is supremely lovable. Yet such is the weakness of the human mind that it needs a guiding hand, not only to the knowledge, but also to the love of Divine things by means of certain sensible objects known to us. Chief among these is the humanity of Christ, according to the words of the Preface [*Preface for Christmastide], "that through knowing God visibly, we may be caught up to the love of things invisible." Wherefore matters relating to Christ's humanity are the chief incentive to devotion, leading us thither as a guiding hand, although devotion itself has for its object matters concerning the Godhead.
+
 Reply to Objection 3: Science and anything else conducive to greatness, is to man an occasion of self-confidence, so that he does not wholly surrender himself to God. The result is that such like things sometimes occasion a hindrance to devotion; while in simple souls and women devotion abounds by repressing pride. If, however, a man perfectly submits to God his science or any other perfection, by this very fact his devotion is increased.

@@ -1,18 +1,31 @@
 # Whether Three Aureoles Are Fittingly Assigned, Those Of Virgins, Of Martyrs, And Of Doctors?
+
 ## Objections
+
 Objection 1: It would seem that the three aureoles of virgins, martyrs, and doctors are unfittingly assigned. For the aureole of martyrs corresponds to their virtue of fortitude, the aureole of virgins to the virtue of temperance, and the aureole of doctors to the virtue of prudence. Therefore it seems that there should be a fourth aureole corresponding to the virtue of justice.
+
 Objection 2: Further, a gloss on Ex. 25:25: "A polished crown, etc. says that a golden [aurea] crown is added, when the Gospel promises eternal life to those who keep the commandments: 'If thou wilt enter into life, keep the commandments' (Mat. 19:17). To this is added the little golden crown [aureola] when it is said: 'If thou wilt be perfect, go and sell all that thou hast, and give to the poor'" (Mat. 19:21). Therefore an aureole is due to poverty.
+
 Objection 3: Further, a man subjects himself wholly to God by the vow of obedience: wherefore the greatest perfection consists in the vow of obedience. Therefore it would seem that an aureole is due thereto.
+
 Objection 4: Further, there are also many other works of supererogation in which one will rejoice in the life to come. Therefore there are many aureoles besides the aforesaid three.
+
 Objection 5: Further, just as a man spreads the faith by preaching and teaching, so does he by publishing written works. Therefore a fourth aureole is due to those who do this.
+
 ## Answer
+
+
 
 I answer that, An aureole is an exceptional reward corresponding to an exceptional victory: wherefore the three aureoles are assigned in accordance with the exceptional victories in the three conflicts which beset every man. For in the conflict with the flesh, he above all wins the victory who abstains altogether from sexual pleasures which are the chief of this kind; and such is a virgin. Wherefore an aureole is due to virginity. In the conflict with the world, the chief victory is to suffer the world's persecution even until death: wherefore the second aureole is due to martyrs who win the victory in this battle. In the conflict with the devil, the chief victory is to expel the enemy not only from oneself but also from the hearts of others: this is done by teaching and preaching, and consequently the third aureole is due to doctors and preachers.
 
 Some, however, distinguish the three aureoles in accordance with the three powers of the soul, by saying that the three aureoles correspond to the three chief acts of the soul's three highest powers. For the act of the rational power is to publish the truth of faith even to others, and to this act the aureole of doctors is due: the highest act of the irascible power is to overcome even death for Christ's sake, and to this act the aureole of martyrs is due: and the highest act of the concupiscible power is to abstain altogether from the greatest carnal pleasures, and to this act the aureole of virgins is due.
 
 Others again, distinguish the three aureoles in accordance with those things whereby we are most signally conformed to Christ. For He was the mediator between the Father and the world. Hence He was a doctor, by manifesting to the world the truth which He had received from the Father; He was a martyr, by suffering the persecution of the world; and He was a virgin, by His personal purity. Wherefore doctors, martyrs and virgins are most perfectly conformed to Him: and for this reason an aureole is due to them.
+
 ## Replies
+
 Reply to Objection 1: There is no conflict to be observed in the act of justice as in the acts of the other virtues. Nor is it true that to teach is an act of prudence: in fact rather is it an act of charity or mercy---inasmuch as it is by such like habits that we are inclined to the practice of such an act---or again of wisdom, as directing it.
+
 Reply to Objection 2: Although poverty is a work of perfection, it does not take the highest place in a spiritual conflict, because the love of temporalities assails a man less than carnal concupiscence or persecution whereby his own body is broken. Hence an aureole is not due to poverty; but judicial power by reason of the humiliation consequent upon poverty. The gloss quoted takes aureole in the broad sense for any reward given for excellent merit.
+
 Reply to Objection 5: An aureole is due to those who commit the sacred doctrine to writing: but it is not distinct from the aureole of doctors, since the compiling of writing is a way of teaching.

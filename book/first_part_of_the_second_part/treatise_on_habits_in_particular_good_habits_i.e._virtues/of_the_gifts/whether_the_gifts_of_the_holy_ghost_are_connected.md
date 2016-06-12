@@ -1,12 +1,23 @@
 # Whether The Gifts Of The Holy Ghost Are Connected?
+
 ## Objections
+
 Objection 1: It would seem that the gifts are not connected, for the Apostle says (1 Cor. 12:8): "To one . . . by the Spirit, is given the word of wisdom, and to another, the word of knowledge, according to the same Spirit." Now wisdom and knowledge are reckoned among the gifts of the Holy Ghost. Therefore the gifts of the Holy Ghost are given to divers men, and are not connected together in the same man.
+
 Objection 2: Further, Augustine says (De Trin. xiv, 1) that "many of the faithful have not knowledge, though they have faith." But some of the gifts, at least the gift of fear, accompany faith. Therefore it seems that the gifts are not necessarily connected together in one and the same man.
+
 Objection 3: Further, Gregory says (Moral. i) that wisdom "is of small account if it lack understanding, and understanding is wholly useless if it be not based upon wisdom . . . Counsel is worthless, when the strength of fortitude is lacking thereto . . . and fortitude is very weak if it be not supported by counsel . . . Knowledge is nought if it hath not the use of piety . . . and piety is very useless if it lack the discernment of knowledge . . . and assuredly, unless it has these virtues with it, fear itself rises up to the doing of no good action": from which it seems that it is possible to have one gift without another. Therefore the gifts of the Holy Ghost are not connected.
+
 ## Answer
+
 On the contrary, Gregory prefaces the passage above quoted, with the following remark: "It is worthy of note in this feast of Job's sons, that by turns they fed one another." Now the sons of Job, of whom he is speaking, denote the gifts of the Holy Ghost. Therefore the gifts of the Holy Ghost are connected together by strengthening one another.
+
 I answer that, The true answer to this question is easily gathered from what has been already set down. For it has been stated [1658](A[3]) that as the powers of the appetite are disposed by the moral virtues as regards the governance of reason, so all the powers of the soul are disposed by the gifts as regards the motion of the Holy Ghost. Now the Holy Ghost dwells in us by charity, according to Rom. 5:5: "The charity of God is poured forth in our hearts by the Holy Ghost, Who is given to us," even as our reason is perfected by prudence. Wherefore, just as the moral virtues are united together in prudence, so the gifts of the Holy Ghost are connected together in charity: so that whoever has charity has all the gifts of the Holy Ghost, none of which can one possess without charity.
+
 ## Replies
+
 Reply to Objection 1: Wisdom and knowledge can be considered in one way as gratuitous graces, in so far, to wit, as man so far abounds in the knowledge of things Divine and human, that he is able both to instruct the believer and confound the unbeliever. It is in this sense that the Apostle speaks, in this passage, about wisdom and knowledge: hence he mentions pointedly the "word" of wisdom and the "word" of knowledge. They may be taken in another way for the gifts of the Holy Ghost: and thus wisdom and knowledge are nothing else but perfections of the human mind, rendering it amenable to the promptings of the Holy Ghost in the knowledge of things Divine and human. Consequently it is clear that these gifts are in all who are possessed of charity.
+
 Reply to Objection 2: Augustine is speaking there of knowledge, while expounding the passage of the Apostle quoted above (OBJ 1): hence he is referring to knowledge, in the sense already explained, as a gratuitous grace. This is clear from the context which follows: "For it is one thing to know only what a man must believe in order to gain the blissful life, which is no other than eternal life; and another, to know how to impart this to godly souls, and to defend it against the ungodly, which latter the Apostle seems to have styled by the proper name of knowledge."
+
 Reply to Objection 3: Just as the connection of the cardinal virtues is proved in one way from the fact that one is, in a manner, perfected by another, as stated above ([1659]Q[65], A[1]); so Gregory wishes to prove the connection of the gifts, in the same way, from the fact that one cannot be perfect without the other. Hence he had already observed that "each particular virtue is to the last degree destitute, unless one virtue lend its support to another." We are therefore not to understand that one gift can be without another; but that if understanding were without wisdom, it would not be a gift; even as temperance, without justice, would not be a virtue.

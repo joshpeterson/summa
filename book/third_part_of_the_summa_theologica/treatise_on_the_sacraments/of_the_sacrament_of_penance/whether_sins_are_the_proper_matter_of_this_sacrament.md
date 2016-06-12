@@ -1,12 +1,23 @@
 # Whether Sins Are The Proper Matter Of This Sacrament?
+
 ## Objections
+
 Objection 1: It would seem that sins are not the proper matter of this sacrament. Because, in the other sacraments, the matter is hallowed by the utterance of certain words, and being thus hallowed produces the sacramental effect. Now sins cannot be hallowed, for they are opposed to the effect of the sacrament, viz. grace which blots out sin. Therefore sins are not the proper matter of this sacrament.
+
 Objection 2: Further, Augustine says in his book De Poenitentia [Cf. Serm. cccli]: "No one can begin a new life, unless he repent of the old." Now not only sins but also the penalties of the present life belong to the old life. Therefore sins are not the proper matter of Penance.
+
 Objection 3: Further, sin is either original, mortal or venial. Now the sacrament of Penance is not ordained against original sin, for this is taken away by Baptism, [nor against mortal sin, for this is taken away by the sinner's confession]*, nor against venial sin, which is taken away by the beating of the breast and the sprinkling of holy water and the like. Therefore sins are not the proper matter of Penance. [*The words in brackets are omitted in the Leonine edition].
+
 ## Answer
+
 On the contrary, The Apostle says (2 Cor. 12:21): "(Who) have not done penance for the uncleanness and fornication and lasciviousness, that they have committed."
+
 I answer that, Matter is twofold, viz. proximate and remote: thus the proximate matter of a statue is a metal, while the remote matter is water. Now it has been stated (A[1], ad 1, ad 2), that the proximate matter of this sacrament consists in the acts of the penitent, the matter of which acts are the sins over which he grieves, which he confesses, and for which he satisfies. Hence it follows that sins are the remote matter of Penance, as a matter, not for approval, but for detestation, and destruction.
+
 ## Replies
+
 Reply to Objection 1: This argument considers the proximate matter of a sacrament.
+
 Reply to Objection 2: The old life that was subject to death is the object of Penance, not as regards the punishment, but as regards the guilt connected with it.
+
 Reply to Objection 3: Penance regards every kind of sin in a way, but not each in the same way. Because Penance regards actual mortal sin properly and chiefly; properly, since, properly speaking, we are said to repent of what we have done of our own will; chiefly, since this sacrament was instituted chiefly for the blotting out of mortal sin. Penance regards venial sins, properly speaking indeed, in so far as they are committed of our own will, but this was not the chief purpose of its institution. But as to original sin, Penance regards it neither chiefly, since Baptism, and not Penance, is ordained against original sin, nor properly, because original sin is not done of our own will, except in so far as Adam's will is looked upon as ours, in which sense the Apostle says (Rom. 5:12): "In whom all have sinned." Nevertheless, Penance may be said to regard original sin, if we take it in a wide sense for any detestation of something past: in which sense Augustine uses the term in his book De Poenitentia (Serm. cccli).

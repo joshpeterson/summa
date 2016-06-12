@@ -1,14 +1,25 @@
 # Whether There Can Be Moral Virtue Without Passion?
+
 ## Objections
+
 Objection 1: It would seem that moral virtue can be without passion. For the more perfect moral virtue is, the more does it overcome the passions. Therefore at its highest point of perfection it is altogether without passion.
+
 Objection 2: Further, then is a thing perfect, when it is removed from its contrary and from whatever inclines to its contrary. Now the passions incline us to sin which is contrary to virtue: hence (Rom. 7:5) they are called "passions of sins." Therefore perfect virtue is altogether without passion.
+
 Objection 3: Further, it is by virtue that we are conformed to God, as Augustine declares (De Moribus Eccl. vi, xi, xiii). But God does all things without passion at all. Therefore the most perfect virtue is without any passion.
+
 ## Answer
+
 On the contrary, "No man is just who rejoices not in his deeds," as stated in Ethic. i, 8. But joy is a passion. Therefore justice cannot be without passion; and still less can the other virtues be.
+
 I answer that, If we take the passions as being inordinate emotions, as the Stoics did, it is evident that in this sense perfect virtue is without the passions. But if by passions we understand any movement of the sensitive appetite, it is plain that moral virtues, which are about the passions as about their proper matter, cannot be without passions. The reason for this is that otherwise it would follow that moral virtue makes the sensitive appetite altogether idle: whereas it is not the function of virtue to deprive the powers subordinate to reason of their proper activities, but to make them execute the commands of reason, by exercising their proper acts. Wherefore just as virtue directs the bodily limbs to their due external acts, so does it direct the sensitive appetite to its proper regulated movements.
 
 Those moral virtues, however, which are not about the passions, but about operations, can be without passions. Such a virtue is justice: because it applies the will to its proper act, which is not a passion. Nevertheless, joy results from the act of justice; at least in the will, in which case it is not a passion. And if this joy be increased through the perfection of justice, it will overflow into the sensitive appetite; in so far as the lower powers follow the movement of the higher, as stated above ([1546]Q[17], A[7];[1547] Q[24], A[3]). Wherefore by reason of this kind of overflow, the more perfect a virtue is, the more does it cause passion.
+
 ## Replies
+
 Reply to Objection 1: Virtue overcomes inordinate passion; it produces ordinate passion.
+
 Reply to Objection 2: It is inordinate, not ordinate, passion that leads to sin.
+
 Reply to Objection 3: The good of anything depends on the condition of its nature. Now there is no sensitive appetite in God and the angels, as there is in man. Consequently good operation in God and the angels is altogether without passion, as it is without a body: whereas the good operation of man is with passion, even as it is produced with the body's help.

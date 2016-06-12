@@ -1,10 +1,17 @@
 # Whether Happiness Once Had Can Be Lost?
+
 ## Objections
+
 Objection 1: It would seem that Happiness can be lost. For Happiness is a perfection. But every perfection is in the thing perfected according to the mode of the latter. Since then man is, by his nature, changeable, it seems that Happiness is participated by man in a changeable manner. And consequently it seems that man can lose Happiness.
+
 Objection 2: Further, Happiness consists in an act of the intellect; and the intellect is subject to the will. But the will can be directed to opposites. Therefore it seems that it can desist from the operation whereby man is made happy: and thus man will cease to be happy.
+
 Objection 3: Further, the end corresponds to the beginning. But man's Happiness has a beginning, since man was not always happy. Therefore it seems that it has an end.
+
 ## Answer
+
 On the contrary, It is written (Mat. 25:46) of the righteous that "they shall god . . . into life everlasting," which, as above stated [1037](A[2]), is the Happiness of the saints. Now what is eternal ceases not. Therefore Happiness cannot be lost.
+
 I answer that, If we speak of imperfect happiness, such as can be had in this life, in this sense it can be lost. This is clear of contemplative happiness, which is lost either by forgetfulness, for instance, when knowledge is lost through sickness; or again by certain occupations, whereby a man is altogether withdrawn from contemplation.
 
 This is also clear of active happiness: since man's will can be changed so as to fall to vice from the virtue, in whose act that happiness principally consists. If, however, the virtue remain unimpaired, outward changes can indeed disturb such like happiness, in so far as they hinder many acts of virtue; but they cannot take it away altogether because there still remains an act of virtue, whereby man bears these trials in a praiseworthy manner. And since the happiness of this life can be lost, a circumstance that appears to be contrary to the nature of happiness, therefore did the Philosopher state (Ethic. i, 10) that some are happy in this life, not simply, but "as men," whose nature is subject to change.
@@ -14,7 +21,11 @@ But if we speak of that perfect Happiness which we await after this life, it mus
 This, however, is evidently false, for two reasons. First, from the general notion of happiness. For since happiness is the "perfect and sufficient good," it must needs set man's desire at rest and exclude every evil. Now man naturally desires to hold to the good that he has, and to have the surety of his holding: else he must of necessity be troubled with the fear of losing it, or with the sorrow of knowing that he will lose it. Therefore it is necessary for true Happiness that man have the assured opinion of never losing the good that he possesses. If this opinion be true, it follows that he never will lose happiness: but if it be false, it is in itself an evil that he should have a false opinion: because the false is the evil of the intellect, just as the true is its good, as stated in Ethic. vi, 2. Consequently he will no longer be truly happy, if evil be in him.
 
 Secondly, it is again evident if we consider the specific nature of Happiness. For it has been shown above ([1038]Q[3], A[8]) that man's perfect Happiness consists in the vision of the Divine Essence. Now it is impossible for anyone seeing the Divine Essence, to wish not to see It. Because every good that one possesses and yet wishes to be without, is either insufficient, something more sufficing being desired in its stead; or else has some inconvenience attached to it, by reason of which it becomes wearisome. But the vision of the Divine Essence fills the soul with all good things, since it unites it to the source of all goodness; hence it is written (Ps. 16:15): "I shall be satisfied when Thy glory shall appear"; and (Wis. 7:11): "All good things came to me together with her," i.e. with the contemplation of wisdom. In like manner neither has it any inconvenience attached to it; because it is written of the contemplation of wisdom (Wis. 8:16): "Her conversation hath no bitterness, nor her company any tediousness." It is thus evident that the happy man cannot forsake Happiness of his own accord. Moreover, neither can he lose Happiness, through God taking it away from him. Because, since the withdrawal of Happiness is a punishment, it cannot be enforced by God, the just Judge, except for some fault; and he that sees God cannot fall into a fault, since rectitude of the will, of necessity, results from that vision as was shown above ([1039]Q[4], A[4]). Nor again can it be withdrawn by any other agent. Because the mind that is united to God is raised above all other things: and consequently no other agent can sever the mind from that union. Therefore it seems unreasonable that as time goes on, man should pass from happiness to misery, and vice versa; because such like vicissitudes of time can only be for such things as are subject to time and movement.
+
 ## Replies
+
 Reply to Objection 1: Happiness is consummate perfection, which excludes every defect from the happy. And therefore whoever has happiness has it altogether unchangeably: this is done by the Divine power, which raises man to the participation of eternity which transcends all change.
+
 Reply to Objection 2: The will can be directed to opposites, in things which are ordained to the end; but it is ordained, of natural necessity, to the last end. This is evident from the fact that man is unable not to wish to be happy.
+
 Reply to Objection 3: Happiness has a beginning owing to the condition of the participator: but it has no end by reason of the condition of the good, the participation of which makes man happy. Hence the beginning of happiness is from one cause, its endlessness is from another.

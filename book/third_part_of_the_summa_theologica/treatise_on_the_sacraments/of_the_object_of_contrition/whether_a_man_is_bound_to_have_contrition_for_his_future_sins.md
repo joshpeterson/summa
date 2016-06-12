@@ -1,10 +1,19 @@
 # Whether A Man Is Bound To Have Contrition For His Future Sins?
+
 ## Objections
+
 Objection 1: It would seem that a man is bound to have contrition for his future sins also. For contrition is an act of the free-will: and the free-will extends to the future rather than to the past, since choice, which is an act of the free-will, is about future contingents, as stated in Ethic. iii. Therefore contrition is about future sins rather than about past sins.
+
 Objection 2: Further, sin is aggravated by the result that ensues from it: wherefore Jerome says [*St. Basil asserts this implicitly in De Vera Virgin.] that the punishment of Arius is not yet ended, for it is yet possible for some to be ruined through his heresy, by reason of whose ruin his punishment would be increased: and the same applies to a man who is judged guilty of murder, if he has committed a murderous assault, even before his victim dies. Now the sinner ought to be contrite during that intervening time. Therefore the degree of his contrition ought to be proportionate not only to his past act, but also to its eventual result: and consequently contrition regards the future.
+
 ## Answer
+
 On the contrary, Contrition is a part of penance. But penance always regards the past: and therefore contrition does also, and consequently is not for a future sin.
+
 I answer that, In every series of things moving and moved ordained to one another, we find that the inferior mover has its proper movement, and besides this, it follows, in some respect, the movement of the superior mover: this is seen in the movement of the planets, which, in addition to their proper movements, follow the movement of the first heaven. Now, in all the moral virtues, the first mover is prudence, which is called the charioteer of the virtues. Consequently each moral virtue, in addition to its proper movement, has something of the movement of prudence: and therefore, since penance is a moral virtue, as it is a part of justice, in addition to its own act, it acquires the movement of prudence. Now its proper movement is towards its proper object, which is a sin committed. Wherefore its proper and principal act, viz. contrition, essentially regards past sins alone; but, inasmuch as it acquires something of the act of prudence, it regards future sins indirectly, although it is not essentially moved towards those future sins. For this reason, he that is contrite, is sorry for his past sins, and is cautious of future sins. Yet we do not speak of contrition for future sins, but of caution, which is a part of prudence conjoined to penance.
+
 ## Replies
+
 Reply to Objection 1: The free-will is said to regard future contingents, in so far as it is concerned with acts, but not with the object of acts: because, of his own free-will, a man can think about past and necessary things, and yet the very act of thinking, in so far as it is subject to the free-will, is a future contingent. Hence the act the contrition also is a future contingent, in so far as it is subject to the free-will; and yet its object can be something past.
+
 Reply to Objection 2: The consequent result which aggravates a sin was already present in the act as in its cause; wherefore when the sin was committed, its degree of gravity was already complete, and no further guilt accrued to it when the result took place. Nevertheless some accidental punishment accrues to it, in the respect of which the damned will have the more motives of regret for the more evils that have resulted from their sins. It is in this sense that Jerome [*Basil] speaks. Hence there is not need for contrition to be for other than past sins.

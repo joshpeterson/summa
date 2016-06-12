@@ -1,12 +1,23 @@
 # Whether It Was Fitting For Christ To Be Baptized With John's Baptism?
+
 ## Objections
+
 Objection 1: It would seem that it was unfitting for Christ to be baptized with John's baptism. For John's baptism was the "baptism of penance." But penance is unbecoming to Christ, since He had no sin. Therefore it seems that He should not have been baptized with John's baptism.
+
 Objection 2: Further, John's baptism, as Chrysostom says (Hom. de Bapt. Christi), "was a mean between the baptism of the Jews and that of Christ." But "the mean savors of the nature of the extremes" (Aristotle, De Partib. Animal.). Since, therefore, Christ was not baptized with the Jewish baptism, nor yet with His own, on the same grounds He should not have been baptized with the baptism of John.
+
 Objection 3: Further, whatever is best in human things should be ascribed to Christ. But John's baptism does not hold the first place among baptisms. Therefore it was not fitting for Christ to be baptized with John's baptism.
+
 ## Answer
+
 On the contrary, It is written (Mat. 3:13) that "Jesus cometh to the Jordan, unto John, to be baptized by him."
+
 I answer that, As Augustine says (Super Joan., Tract. xiii): "After being baptized, the Lord baptized, not with that baptism wherewith He was baptized." Wherefore, since He Himself baptized with His own baptism, it follows that He was not baptized with His own, but with John's baptism. And this was befitting: first, because John's baptism was peculiar in this, that he baptized, not in the Spirit, but only "in water"; while Christ did not need spiritual baptism, since He was filled with the grace of the Holy Ghost from the beginning of His conception, as we have made clear above ([4200]Q[34], A[1]). And this is the reason given by Chrysostom (Hom. de Bapt. Christi). Secondly, as Bede says on Mk. 1:9, He was baptized with the baptism of John, that, "by being thus baptized, He might show His approval of John's baptism." Thirdly, as Gregory Nazianzen says (Orat. xxxix), "by going to John to be baptized by him, He sanctified baptism."
+
 ## Replies
+
 Reply to Objection 1: As stated above [4201](A[1]), Christ wished to be baptized in order by His example to lead us to baptism. And so, in order that He might lead us thereto more efficaciously, He wished to be baptized with a baptism which He clearly needed not, that men who needed it might approach unto it. Wherefore Ambrose says on Lk. 3:21: "Let none decline the laver of grace, since Christ did not refuse the laver of penance."
+
 Reply to Objection 2: The Jewish baptism prescribed by the law was merely figurative, whereas John's baptism, in a measure, was real, inasmuch as it induced men to refrain from sin; but Christ's baptism is efficacious unto the remission of sin and the conferring of grace. Now Christ needed neither the remission of sin, which was not in Him, nor the bestowal of grace, with which He was filled. Moreover, since He is "the Truth," it was not fitting that He should receive that which was no more than a figure. Consequently it was more fitting that He should receive the intermediate baptism than one of the extremes.
+
 Reply to Objection 3: Baptism is a spiritual remedy. Now, the more perfect a thing is, the less remedy does it need. Consequently, from the very fact that Christ is most perfect, it follows that it was fitting that He should not receive the most perfect baptism: just as one who is healthy does not need a strong medicine.

@@ -1,11 +1,21 @@
 # Whether Pleasure Perfects Operation?
+
 ## Objections
+
 Objection 1: It would seem that pleasure does not perfect operation. For every human operation depends on the use of reason. But pleasure hinders the use of reason, as stated above [1287](A[3]). Therefore pleasure does not perfect, but weakens human operation.
+
 Objection 2: Further, nothing perfects itself or its cause. But pleasure is an operation (Ethic. vii, 12; x, 4), i.e. either in its essence or in its cause. Therefore pleasure does not perfect operation.
+
 Objection 3: Further, if pleasure perfects operation, it does so either as end, or as form, or as agent. But not as end; because operation is not sought for the sake of pleasure, but rather the reverse, as stated above ([1288]Q[4], A[2]): nor as agent, because rather is it the operation that causes pleasure: nor again as form, because, according to the Philosopher (Ethic. x, 4), "pleasure does not perfect operation, as a habit does." Therefore pleasure does not perfect operation.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. x, 4) that "pleasure perfects operation."
+
 I answer that, Pleasure perfects operation in two ways. First, as an end: not indeed according as an end is that on "account of which a thing is"; but according as every good which is added to a thing and completes it, can be called its end. And in this sense the Philosopher says (Ethic. x, 4) that "pleasure perfects operation . . . as some end added to it": that is to say, inasmuch as to this good, which is operation, there is added another good, which is pleasure, denoting the repose of the appetite in a good that is presupposed. Secondly, as agent; not indeed directly, for the Philosopher says (Ethic. x, 4) that "pleasure perfects operation, not as a physician makes a man healthy, but as health does": but it does so indirectly; inasmuch as the agent, through taking pleasure in his action, is more eagerly intent on it, and carries it out with greater care. And in this sense it is said in Ethic. x, 5 that "pleasures increase their appropriate activities, and hinder those that are not appropriate."
+
 ## Replies
+
 Reply to Objection 1: It is not every pleasure that hinders the act of reason, but only bodily pleasure; for this arises, not from the act of reason, but from the act of the concupiscible faculty, which act is intensified by pleasure. On the contrary, pleasure that arises from the act of reason, strengthens the use of reason.
+
 Reply to Objection 2: As stated in Phys. ii, 3 two things may be causes of one another, if one be the efficient, the other the final cause. And in this way, operation is the efficient cause of pleasure, while pleasure perfects operation by way of final cause, as stated above.

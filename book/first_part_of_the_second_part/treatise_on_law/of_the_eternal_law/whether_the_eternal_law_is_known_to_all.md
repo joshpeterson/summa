@@ -1,12 +1,23 @@
 # Whether The Eternal Law Is Known To All?
+
 ## Objections
+
 Objection 1: It would seem that the eternal law is not known to all. Because, as the Apostle says (1 Cor. 2:11), "the things that are of God no man knoweth, but the Spirit of God." But the eternal law is a type existing in the Divine mind. Therefore it is unknown to all save God alone.
+
 Objection 2: Further, as Augustine says (De Lib. Arb. i, 6) "the eternal law is that by which it is right that all things should be most orderly." But all do not know how all things are most orderly. Therefore all do not know the eternal law.
+
 Objection 3: Further, Augustine says (De Vera Relig. xxxi) that "the eternal law is not subject to the judgment of man." But according to Ethic. i, "any man can judge well of what he knows." Therefore the eternal law is not known to us.
+
 ## Answer
+
 On the contrary, Augustine says (De Lib. Arb. i, 6) that "knowledge of the eternal law is imprinted on us."
+
 I answer that, A thing may be known in two ways: first, in itself; secondly, in its effect, wherein some likeness of that thing is found: thus someone not seeing the sun in its substance, may know it by its rays. So then no one can know the eternal law, as it is in itself, except the blessed who see God in His Essence. But every rational creature knows it in its reflection, greater or less. For every knowledge of truth is a kind of reflection and participation of the eternal law, which is the unchangeable truth, as Augustine says (De Vera Relig. xxxi). Now all men know the truth to a certain extent, at least as to the common principles of the natural law: and as to the others, they partake of the knowledge of truth, some more, some less; and in this respect are more or less cognizant of the eternal law.
+
 ## Replies
+
 Reply to Objection 1: We cannot know the things that are of God, as they are in themselves; but they are made known to us in their effects, according to Rom. 1:20: "The invisible things of God . . . are clearly seen, being understood by the things that are made."
+
 Reply to Objection 2: Although each one knows the eternal law according to his own capacity, in the way explained above, yet none can comprehend it: for it cannot be made perfectly known by its effects. Therefore it does not follow that anyone who knows the eternal law in the way aforesaid, knows also the whole order of things, whereby they are most orderly.
+
 Reply to Objection 3: To judge a thing may be understood in two ways. First, as when a cognitive power judges of its proper object, according to Job 12:11: "Doth not the ear discern words, and the palate of him that eateth, the taste?" It is to this kind of judgment that the Philosopher alludes when he says that "anyone can judge well of what he knows," by judging, namely, whether what is put forward is true. In another way we speak of a superior judging of a subordinate by a kind of practical judgment, as to whether he should be such and such or not. And thus none can judge of the eternal law.

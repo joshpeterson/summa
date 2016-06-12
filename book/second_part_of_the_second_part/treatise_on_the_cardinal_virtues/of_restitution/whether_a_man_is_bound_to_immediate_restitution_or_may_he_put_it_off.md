@@ -1,12 +1,23 @@
 # Whether A Man Is Bound To Immediate Restitution, Or May He Put It Off?
+
 ## Objections
+
 Objection 1: It would seem that a man is not bound to immediate restitution, and can lawfully delay to restore. For affirmative precepts do not bind for always. Now the necessity of making restitution is binding through an affirmative precept. Therefore a man is not bound to immediate restitution.
+
 Objection 2: Further, no man is bound to do what is impossible. But it is sometimes impossible to make restitution at once. Therefore no man is bound to immediate restitution.
+
 Objection 3: Further, restitution is an act of virtue, viz. of justice. Now time is one of the circumstances requisite for virtuous acts. Since then the other circumstances are not determinate for acts of virtue, but are determinable according to the dictate of prudence, it seems that neither in restitution is there any fixed time, so that a man be bound to restore at once.
+
 ## Answer
+
 On the contrary, All matters of restitution seem to come under one head. Now a man who hires the services of a wage-earner, must not delay compensation, as appears from Lev. 19:13, "The wages of him that hath been hired by thee shall not abide with thee until the morning." Therefore neither is it lawful, in other cases of restitution, to delay, and restitution should be made at once.
+
 I answer that, Even as it is a sin against justice to take another's property, so also is it to withhold it, since, to withhold the property of another against the owner's will, is to deprive him of the use of what belongs to him, and to do him an injury. Now it is clear that it is wrong to remain in sin even for a short time; and one is bound to renounce one's sin at once, according to Ecclus. 21:2, "Flee from sin as from the face of a serpent." Consequently one is bound to immediate restitution, if possible, or to ask for a respite from the person who is empowered to grant the use of the thing.
+
 ## Replies
+
 Reply to Objection 1: Although the precept about the making of restitution is affirmative in form, it implies a negative precept forbidding us to withhold another's property.
+
 Reply to Objection 2: When one is unable to restore at once, this very inability excuses one from immediate restitution: even as a person is altogether excused from making restitution if he is altogether unable to make it. He is, however, bound either himself or through another to ask the person to whom he owes compensation to grant him a remission or a respite.
+
 Reply to Objection 3: Whenever the omission of a circumstance is contrary to virtue that circumstance must be looked upon as determinate, and we are bound to observe it: and since delay of restitution involves a sin of unjust detention which is opposed to just detention, it stands to reason that the time is determinate in the point of restitution being immediate.

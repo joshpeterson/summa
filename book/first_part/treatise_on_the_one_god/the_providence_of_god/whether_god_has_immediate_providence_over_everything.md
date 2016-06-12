@@ -1,12 +1,23 @@
 # Whether God Has Immediate Providence Over Everything?
+
 ## Objections
+
 Objection 1: It seems that God has not immediate providence over all things. For whatever is contained in the notion of dignity, must be attributed to God. But it belongs to the dignity of a king, that he should have ministers; through whose mediation he provides for his subjects. Therefore much less has God Himself immediate providence over all things.
+
 Objection 2: Further, it belongs to providence to order all things to an end. Now the end of everything is its perfection and its good. But it appertains to every cause to direct its effect to good; wherefore every active cause is a cause of the effect of providence. If therefore God were to have immediate providence over all things, all secondary causes would be withdrawn.
+
 Objection 3: Further, Augustine says (Enchiridion 17) that, "It is better to be ignorant of some things than to know them, for example, vile things": and the Philosopher says the same (Metaph. xii, 51). But whatever is better must be assigned to God. Therefore He has not immediate providence over bad and vile things.
+
 ## Answer
+
 On the contrary, It is said (Job 34:13): "What other hath He appointed over the earth? or whom hath He set over the world which He made?" On which passage Gregory says (Moral. xxiv, 20): "Himself He ruleth the world which He Himself hath made."
+
 I answer that, Two things belong to providence---namely, the type of the order of things foreordained towards an end; and the execution of this order, which is called government. As regards the first of these, God has immediate providence over everything, because He has in His intellect the types of everything, even the smallest; and whatsoever causes He assigns to certain effects, He gives them the power to produce those effects. Whence it must be that He has beforehand the type of those effects in His mind. As to the second, there are certain intermediaries of God's providence; for He governs things inferior by superior, not on account of any defect in His power, but by reason of the abundance of His goodness; so that the dignity of causality is imparted even to creatures. Thus Plato's opinion, as narrated by Gregory of Nyssa (De Provid. viii, 3), is exploded. He taught a threefold providence. First, one which belongs to the supreme Deity, Who first and foremost has provision over spiritual things, and thus over the whole world as regards genus, species, and universal causes. The second providence, which is over the individuals of all that can be generated and corrupted, he attributed to the divinities who circulate in the heavens; that is, certain separate substances, which move corporeal things in a circular direction. The third providence, over human affairs, he assigned to demons, whom the Platonic philosophers placed between us and the gods, as Augustine tells us (De Civ. Dei, 1, 2: viii, 14).
+
 ## Replies
+
 Reply to Objection 1: It pertains to a king's dignity to have ministers who execute his providence. But the fact that he has not the plan of those things which are done by them arises from a deficiency in himself. For every operative science is the more perfect, the more it considers the particular things with which its action is concerned.
+
 Reply to Objection 2: God's immediate provision over everything does not exclude the action of secondary causes; which are the executors of His order, as was said above ([162]Q[19], AA[5],8).
+
 Reply to Objection 3: It is better for us not to know low and vile things, because by them we are impeded in our knowledge of what is better and higher; for we cannot understand many things simultaneously; because the thought of evil sometimes perverts the will towards evil. This does not hold with God, Who sees everything simultaneously at one glance, and whose will cannot turn in the direction of evil.

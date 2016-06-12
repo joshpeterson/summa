@@ -1,14 +1,25 @@
 # Whether A Vow Is An Act Of Latria Or Religion?
+
 ## Objections
+
 Objection 1: It would seem that a vow is not an act of latria or religion. Every act of virtue is matter for a vow. Now it would seem to pertain to the same virtue to promise a thing and to do it. Therefore a vow pertains to any virtue and not to religion especially.
+
 Objection 2: Further, according to Tully (De Invent. ii, 53) it belongs to religion to offer God worship and ceremonial rites. But he who takes a vow does not yet offer something to God, but only promises it. Therefore, a vow is not an act of religion.
+
 Objection 3: Further, religious worship should be offered to none but God. But a vow is made not only to God, but also to the saints and to one's superiors, to whom religious vow obedience when they make their profession. Therefore, a vow is not an act of religion.
+
 ## Answer
+
 On the contrary, It is written (Is. 19:21): "(The Egyptians) shall worship Him with sacrifices and offerings and they shall make vows to the Lord, and perform them." Now, the worship of God is properly the act of religion or latria. Therefore, a vow is an act of latria or religion.
+
 I answer that, As stated above ([3054]Q[81], A[1], ad 1), every act of virtue belongs to religion or latria by way of command, in so far as it is directed to the reverence of God which is the proper end of latria. Now the direction of other actions to their end belongs to the commanding virtue, not to those which are commanded. Therefore the direction of the acts of any virtue to the service of God is the proper act of latria.
 
 Now, it is evident from what has been said above ([3055]AA[1],2) that a vow is a promise made to God, and that a promise is nothing else than a directing of the thing promised to the person to whom the promise is made. Hence a vow is a directing of the thing vowed to the worship or service of God. And thus it is clear that to take a vow is properly an act of latria or religion.
+
 ## Replies
+
 Reply to Objection 1: The matter of a vow is sometimes the act of another virtue, as, for instance, keeping the fast or observing continency; while sometimes it is an act of religion, as offering a sacrifice or praying. But promising either of them to God belongs to religion, for the reason given above. Hence it is evident that some vows belong to religion by reason only of the promise made to God, which is the essence of a vow, while others belong thereto by reason also of the thing promised, which is the matter of the vow.
+
 Reply to Objection 2: He who promises something gives it already in as far as he binds himself to give it: even as a thing is said to be made when its cause is made, because the effect is contained virtually in its cause. This is why we thank not only a giver, but also one who promises to give.
+
 Reply to Objection 3: A vow is made to God alone, whereas a promise may be made to a man also: and this very promise of good, which is fore made to a man, may be the matter of a vow, and in so far as it is a virtuous act. This is how we are to understand vows whereby we vow something to the saints or to one's superiors: so that the promise made to the saints or to one's superiors is the matter of the vow, in so far as one vows to God to fulfil what one has promised to the saints or one's superiors.

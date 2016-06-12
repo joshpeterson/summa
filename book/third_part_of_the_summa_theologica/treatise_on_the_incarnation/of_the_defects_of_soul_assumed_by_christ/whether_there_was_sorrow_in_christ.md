@@ -1,14 +1,27 @@
 # Whether There Was Sorrow In Christ?
+
 ## Objections
+
 Objection 1: It would seem that in Christ there was no sorrow. For it is written of Christ (Is. 42:4): "He shall not be sad nor troublesome."
+
 Objection 2: Further, it is written (Prov. 12:21): "Whatever shall befall the just man, it shall not make him sad." And the reason of this the Stoics asserted to be that no one is saddened save by the loss of his goods. Now the just man esteems only justice and virtue as his goods, and these he cannot lose; otherwise the just man would be subject to fortune if he was saddened by the loss of the goods fortune has given him. But Christ was most just, according to Jer. 23:6: "This is the name that they shall call Him: The Lord, our just one." Therefore there was no sorrow in Him.
+
 Objection 3: Further, the Philosopher says (Ethic. vii, 13,14) that all sorrow is "evil, and to be shunned." But in Christ there was no evil to be shunned. Therefore there was no sorrow in Christ.
+
 Objection 4: Furthermore, as Augustine says (De Civ. Dei xiv, 6): "Sorrow regards the things we suffer unwillingly." But Christ suffered nothing against His will, for it is written (Is. 53:7): "He was offered because it was His own will." Hence there was no sorrow in Christ.
+
 ## Answer
+
 On the contrary, Our Lord said (Mat. 26:38): "My soul is sorrowful even unto death." And Ambrose says (De Trin. ii.) that "as a man He had sorrow; for He bore my sorrow. I call it sorrow, fearlessly, since I preach the cross."
+
 I answer that, As was said above (A[5], ad 3), by Divine dispensation the joy of contemplation remained in Christ's mind so as not to overflow into the sensitive powers, and thereby shut out sensible pain. Now even as sensible pain is in the sensitive appetite, so also is sorrow. But there is a difference of motive or object; for the object and motive of pain is hurt perceived by the sense of touch, as when anyone is wounded; but the object and motive of sorrow is anything hurtful or evil interiorly, apprehended by the reason or the imagination, as was said in the [4035]FS, Q[35], AA[2],7, as when anyone grieves over the loss of grace or money. Now Christ's soul could apprehend things as hurtful either to Himself, as His passion and death---or to others, as the sin of His disciples, or of the Jews that killed Him. And hence, as there could be true pain in Christ, so too could there be true sorrow; otherwise, indeed, than in us, in the three ways above stated [4036](A[4]), when we were speaking of the passions of Christ's soul in general.
+
 ## Replies
+
 Reply to Objection 1: Sorrow was not in Christ, as a perfect passion; yet it was inchoatively in Him as a "propassion." Hence it is written (Mat. 26:37): "He began to grow sorrowful and to be sad." For "it is one thing to be sorrowful and another to grow sorrowful," as Jerome says, on this text.
+
 Reply to Objection 2: As Augustine says (De Civ. Dei xiv, 8), "for the three passions"---desire, joy, and fear---the Stoics held three {eupatheias} i.e. good passions, in the soul of the wise man, viz. for desire, will---for joy, delight---for fear, caution. But as regards sorrow, they denied it could be in the soul of the wise man, for sorrow regards evil already present, and they thought that no evil could befall a wise man; and for this reason, because they believed that only the virtuous is good, since it makes men good, and that nothing is evil, except what is sinful, whereby men become wicked. Now although what is virtuous is man's chief good, and what is sinful is man's chief evil, since these pertain to reason which is supreme in man, yet there are certain secondary goods of man, which pertain to the body, or to the exterior things that minister to the body. And hence in the soul of the wise man there may be sorrow in the sensitive appetite by his apprehending these evils; without this sorrow disturbing the reason. And in this way are we to understand that "whatsoever shall befall the just man, it shall not make him sad," because his reason is troubled by no misfortune. And thus Christ's sorrow was a propassion, and not a passion.
+
 Reply to Objection 3: All sorrow is an evil of punishment; but it is not always an evil of fault, except only when it proceeds from an inordinate affection. Hence Augustine says (De Civ. Dei xiv, 9): "Whenever these affections follow reason, and are caused when and where needed, who will dare to call them diseases or vicious passions?"
+
 Reply to Objection 4: There is no reason why a thing may not of itself be contrary to the will, and yet be willed by reason of the end, to which it is ordained, as bitter medicine is not of itself desired, but only as it is ordained to health. And thus Christ's death and passion were of themselves involuntary, and caused sorrow, although they were voluntary as ordained to the end, which is the redemption of the human race.

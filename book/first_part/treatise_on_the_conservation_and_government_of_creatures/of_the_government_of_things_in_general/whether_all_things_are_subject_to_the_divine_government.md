@@ -1,14 +1,25 @@
 # Whether All Things Are Subject To The Divine Government?
+
 ## Objections
+
 Objection 1: It would seem that not all things are subject to the Divine government. For it is written (Eccles. 9:11): "I saw that under the sun the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the learned, nor favor to the skillful, but time and chance in all." But things subject to the Divine government are not ruled by chance. Therefore those things which are under the sun are not subject to the Divine government.
+
 Objection 2: Further, the Apostle says (1 Cor. 9:9): "God hath no care for oxen." But he that governs has care for the things he governs. Therefore all things are not subject to the Divine government.
+
 Objection 3: Further, what can govern itself needs not to be governed by another. But the rational creature can govern itself; since it is master of its own act, and acts of itself; and is not made to act by another, which seems proper to things which are governed. Therefore all things are not subject to the Divine government.
+
 ## Answer
+
 On the contrary, Augustine says (De Civ. Dei v, 11): "Not only heaven and earth, not only man and angel, even the bowels of the lowest animal, even the wing of the bird, the flower of the plant, the leaf of the tree, hath God endowed with every fitting detail of their nature." Therefore all things are subject to His government.
+
 I answer that, For the same reason is God the ruler of things as He is their cause, because the same gives existence as gives perfection; and this belongs to government. Now God is the cause not indeed only of some particular kind of being, but of the whole universal being, as proved above ([830]Q[44], AA[1],2). Wherefore, as there can be nothing which is not created by God, so there can be nothing which is not subject to His government. This can also be proved from the nature of the end of government. For a man's government extends over all those things which come under the end of his government. Now the end of the Divine government is the Divine goodness; as we have shown [831](A[2]). Wherefore, as there can be nothing that is not ordered to the Divine goodness as its end, as is clear from what we have said above ([832]Q[44], A[4]; [833]Q[65], A[2]), so it is impossible for anything to escape from the Divine government.
 
 Foolish therefore was the opinion of those who said that the corruptible lower world, or individual things, or that even human affairs, were not subject to the Divine government. These are represented as saying, "God hath abandoned the earth" (Ezech. 9:9).
+
 ## Replies
+
 Reply to Objection 1: These things are said to be under the sun which are generated and corrupted according to the sun's movement. In all such things we find chance: not that everything is casual which occurs in such things; but that in each one there is an element of chance. And the very fact that an element of chance is found in those things proves that they are subject to government of some kind. For unless corruptible things were governed by a higher being, they would tend to nothing definite, especially those which possess no kind of knowledge. So nothing would happen unintentionally; which constitutes the nature of chance. Wherefore to show how things happen by chance and yet according to the ordering of a higher cause, he does not say absolutely that he observes chance in all things, but "time and chance," that is to say, that defects may be found in these things according to some order of time.
+
 Reply to Objection 2: Government implies a certain change effected by the governor in the things governed. Now every movement is the act of a movable thing, caused by the moving principle, as is laid down Phys. iii, 3. And every act is proportionate to that of which it is an act. Consequently, various movable things must be moved variously, even as regards movement by one and the same mover. Thus by the one art of the Divine governor, various things are variously governed according to their variety. Some, according to their nature, act of themselves, having dominion over their actions; and these are governed by God, not only in this, that they are moved by God Himself, Who works in them interiorly; but also in this, that they are induced by Him to do good and to fly from evil, by precepts and prohibitions, rewards and punishments. But irrational creatures which do not act but are acted upon, are not thus governed by God. Hence, when the Apostle says that "God hath no care for oxen," he does not wholly withdraw them from the Divine government, but only as regards the way in which rational creatures are governed.
+
 Reply to Objection 3: The rational creature governs itself by its intellect and will, both of which require to be governed and perfected by the Divine intellect and will. Therefore above the government whereby the rational creature governs itself as master of its own act, it requires to be governed by God.

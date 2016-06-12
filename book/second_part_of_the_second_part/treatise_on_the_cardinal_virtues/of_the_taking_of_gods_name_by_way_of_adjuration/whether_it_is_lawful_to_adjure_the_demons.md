@@ -1,14 +1,25 @@
 # Whether It Is Lawful To Adjure The Demons?
+
 ## Objections
+
 Objection 1: It would seem unlawful to adjure the demons. Origen says (Tract. xxxv, super Matth.): "To adjure the demons is not accordance with the power given by our Saviour: for this is a Jewish practice." Now rather than imitate the rites of the Jews, we should use the power given by Christ. Therefore it is not lawful to adjure the demons.
+
 Objection 2: Further, many make use of necromantic incantations when invoking the demons by something Divine: and this is an adjuration. Therefore, if it be lawful to adjure the demons, it is lawful to make use of necromantic incantations, which is evidently false. Therefore the antecedent is false also.
+
 Objection 3: Further, whoever adjures a person, by that very fact associates himself with him. Now it is not lawful to have fellowship with the demons, according to 1 Cor. 10:20, "I would not that you should be made partakers with devils." Therefore it is not lawful to adjure the demons.
+
 ## Answer
+
 On the contrary, It is written (Mk. 16:17): "In My name they shall cast out devils." Now to induce anyone to do a certain thing for the sake of God's name is to adjure. Therefore it is lawful to adjure the demons.
+
 I answer that, As stated in the preceding article, there are two ways of adjuring: one by way of prayer or inducement through reverence of some holy thing: the other by way of compulsion. In the first way it is not lawful to adjure the demons because such a way seems to savor of benevolence or friendship, which it is unlawful to bear towards the demons. As to the second kind of adjuration, which is by compulsion, we may lawfully use it for some purposes, and not for others. For during the course of this life the demons are our adversaries: and their actions are not subject to our disposal but to that of God and the holy angels, because, as Augustine says (De Trin. iii, 4), "the rebel spirit is ruled by the just spirit." Accordingly we may repulse the demons, as being our enemies, by adjuring them through the power of God's name, lest they do us harm of soul or body, in accord with the Divine power given by Christ, as recorded by Lk. 10:19: "Behold, I have given you power to tread upon serpents and scorpions, and upon all the power of the enemy: and nothing shall hurt you."
 
 It is not, however, lawful to adjure them for the purpose of learning something from them, or of obtaining something through them, for this would amount to holding fellowship with them: except perhaps when certain holy men, by special instinct or Divine revelation, make use of the demons' actions in order to obtain certain results: thus we read of the Blessed James [*the Greater; cf. Apocrypha, N.T., Hist. Certam. Apost. vi, 19] that he caused Hermogenes to be brought to him, by the instrumentality of the demons.
+
 ## Replies
+
 Reply to Objection 1: Origen is speaking of adjuration made, not authoritatively by way of compulsion, but rather by way of a friendly appeal.
+
 Reply to Objection 2: Necromancers adjure and invoke the demons in order to obtain or learn something from them: and this is unlawful, as stated above. Wherefore Chrysostom, commenting on our Lord's words to the unclean spirit (Mk. 1:25), "Speak no more, and go out of the man," says: "A salutary teaching is given us here, lest we believe the demons, however much they speak the truth."
+
 Reply to Objection 3: This argument considers the adjuration whereby the demon's help is besought in doing or learning something: for this savors of fellowship with them. On the other hand, to repulse the demons by adjuring them, is to sever oneself from their fellowship.

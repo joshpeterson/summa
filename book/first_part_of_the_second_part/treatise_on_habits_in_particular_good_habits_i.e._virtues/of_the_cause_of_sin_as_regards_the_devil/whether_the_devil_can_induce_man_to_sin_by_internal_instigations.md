@@ -1,15 +1,25 @@
 # Whether The Devil Can Induce Man To Sin, By Internal Instigations?
+
 ## Objections
+
 Objection 1: It would seem that the devil cannot induce man to sin, by internal instigations. Because the internal movements of the soul are vital functions. Now no vital functions can be exercised except by an intrinsic principle, not even those of the vegetal soul, which are the lowest of vital functions. Therefore the devil cannot instigate man to evil through his internal movements.
+
 Objection 2: Further, all the internal movements arise from the external senses according to the order of nature. Now it belongs to God alone to do anything beside the order of nature, as was stated in the [1809]FP, Q[110], A[4]. Therefore the devil cannot effect anything in man's internal movements, except in respect of things which are perceived by the external senses.
+
 Objection 3: Further, the internal acts of the soul are to understand and to imagine. Now the devil can do nothing in connection with either of these, because, as stated in the [1810]FP, Q[111], AA[2],3, ad 2, the devil cannot impress species on the human intellect, nor does it seem possible for him to produce imaginary species, since imaginary forms, being more spiritual, are more excellent than those which are in sensible matter, which, nevertheless, the devil is unable to produce, as is clear from what we have said in the [1811]FP, Q[110], A[2]; [1812]FP, Q[111], AA[2],3, ad 2. Therefore the devil cannot through man's internal movements induce him to sin.
+
 ## Answer
+
 On the contrary, In that case, the devil would never tempt man, unless he appeared visibly; which is evidently false.
+
 I answer that, The interior part of the soul is intellective and sensitive; and the intellective part contains the intellect and the will. As regards the will, we have already stated [1813](A[1]; [1814]FP, Q[111], A[1]) what is the devil's relation thereto. Now the intellect, of its very nature, is moved by that which enlightens it in the knowledge of truth, which the devil has no intention of doing in man's regard; rather does he darken man's reason so that it may consent to sin, which darkness is due to the imagination and sensitive appetite. Consequently the operation of the devil seems to be confined to the imagination and sensitive appetite, by moving either of which he can induce man to sin. For his operation may result in presenting certain forms to the imagination; and he is able to incite the sensitive appetite to some passion or other.
 
 The reason of this is, that as stated in the [1815]FP, Q[110], A[3], the corporeal nature has a natural aptitude to be moved locally by the spiritual nature: so that the devil can produce all those effects which can result from the local movement of bodies here below, except he be restrained by the Divine power. Now the representation of forms to the imagination is due, sometimes, to local movement: for the Philosopher says (De Somno et Vigil.) [*De Insomn. iii, iv.] that "when an animal sleeps, the blood descends in abundance to the sensitive principle, and the movements descend with it, viz. the impressions left by the action of sensible objects, which impressions are preserved by means of sensible species, and continue to move the apprehensive principle, so that they appear just as though the sensitive principles were being affected by them at the time." Hence such a local movement of the vital spirits or humors can be procured by the demons, whether man sleep or wake: and so it happens that man's imagination is brought into play.
 
 In like manner, the sensitive appetite is incited to certain passions according to certain fixed movements of the heart and the vital spirits: wherefore the devil can cooperate in this also. And through certain passions being aroused in the sensitive appetite, the result is that man more easily perceives the movement or sensible image which is brought in the manner explained, before the apprehensive principle, since, as the Philosopher observes (De Somno et Virgil.: De Insomn. iii, iv), "lovers are moved, by even a slight likeness, to an apprehension of the beloved." It also happens, through the rousing of a passion, that what is put before the imagination, is judged, as being something to be pursued, because, to him who is held by a passion, whatever the passion inclines him to, seems good. In this way the devil induces man inwardly to sin.
+
 ## Replies
+
 Reply to Objection 1: Although vital functions are always from an intrinsic principle, yet an extrinsic agent can cooperate with them, even as external heat cooperates with the functions of the vegetal soul, that food may be more easily digested.
+
 Reply to Objection 2: This apparition of imaginary forms is not altogether outside the order of nature, nor is it due to a command alone, but according to local movement, as explained above.

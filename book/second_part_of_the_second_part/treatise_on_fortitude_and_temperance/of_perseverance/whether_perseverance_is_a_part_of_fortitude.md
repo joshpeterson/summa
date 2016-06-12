@@ -1,12 +1,23 @@
 # Whether Perseverance Is A Part Of Fortitude?
+
 ## Objections
+
 Objection 1: It seems that perseverance is not a part of fortitude. For, according to the Philosopher (Ethic. viii, 7), "perseverance is about pains of touch." But these belong to temperance. Therefore perseverance is a part of temperance rather than of fortitude.
+
 Objection 2: Further, every part of a moral virtue is about certain passions which that virtue moderates. Now perseverance does not imply moderation of the passions: since the more violent the passions, the more praiseworthy is it to persevere in accordance with reason. Therefore it seems that perseverance is a part not of a moral virtue, but rather of prudence which perfects the reason.
+
 Objection 3: Further, Augustine says (De Persev. i) that no one can lose perseverance; whereas one can lose the other virtues. Therefore perseverance is greater than all the other virtues. Now a principal virtue is greater than its part. Therefore perseverance is not a part of a virtue, but is itself a principal virtue.
+
 ## Answer
+
 On the contrary, Tully (De Invent. Rhet. ii) reckons perseverance as a part of fortitude.
+
 I answer that, As stated above (Q[123], A[2]; [3406]FS, Q[61], AA[3],4), a principal virtue is one to which is principally ascribed something that lays claim to the praise of virtue, inasmuch as it practices it in connection with its own matter, wherein it is most difficult of accomplishment. In accordance with this it has been stated (Q[123], A[2]) that fortitude is a principal virtue, because it observes firmness in matters wherein it is most difficult to stand firm, namely in dangers of death. Wherefore it follows of necessity that every virtue which has a title to praise for the firm endurance of something difficult must be annexed to fortitude as secondary to principal virtue. Now the endurance of difficulty arising from delay in accomplishing a good work gives perseverance its claim to praise: nor is this so difficult as to endure dangers of death. Therefore perseverance is annexed to fortitude, as secondary to principal virtue.
+
 ## Replies
+
 Reply to Objection 1: The annexing of secondary to principal virtues depends not only on the matter [*Cf.[3407] Q[136], A[4], ad 2], but also on the mode, because in everything form is of more account than matter. Wherefore although, as to matter, perseverance seems to have more in common with temperance than with fortitude, yet, in mode, it has more in common with fortitude, in the point of standing firm against the difficulty arising from length of time.
+
 Reply to Objection 2: The perseverance of which the Philosopher speaks (Ethic. vii, 4,7) does not moderate any passions, but consists merely in a certain firmness of reason and will. But perseverance, considered as a virtue, moderates certain passions, namely fear of weariness or failure on account of the delay. Hence this virtue, like fortitude, is in the irascible.
+
 Reply to Objection 3: Augustine speaks there of perseverance, as denoting, not a virtuous habit, but a virtuous act sustained to the end, according to Mat. 24:13, "He that shall persevere to the end, he shall be saved." Hence it is incompatible with such like perseverance for it to be lost, since it would no longer endure to the end.

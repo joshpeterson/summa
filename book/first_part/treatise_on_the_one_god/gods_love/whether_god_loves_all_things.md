@@ -1,14 +1,27 @@
 # Whether God Loves All Things?
+
 ## Objections
+
 Objection 1: It seems that God does not love all things. For according to Dionysius (Div. Nom. iv, 1), love places the lover outside himself, and causes him to pass, as it were, into the object of his love. But it is not admissible to say that God is placed outside of Himself, and passes into other things. Therefore it is inadmissible to say that God loves things other than Himself.
+
 Objection 2: Further, the love of God is eternal. But things apart from God are not from eternity; except in God. Therefore God does not love anything, except as it exists in Himself. But as existing in Him, it is no other than Himself. Therefore God does not love things other than Himself.
+
 Objection 3: Further, love is twofold---the love, namely, of desire, and the love of friendship. Now God does not love irrational creatures with the love of desire, since He needs no creature outside Himself. Nor with the love of friendship; since there can be no friendship with irrational creatures, as the Philosopher shows (Ethic. viii, 2). Therefore God does not love all things.
+
 Objection 4: Further, it is written (Ps. 5:7): "Thou hatest all the workers of iniquity." Now nothing is at the same time hated and loved. Therefore God does not love all things.
+
 ## Answer
+
 On the contrary, It is said (Wis. 11:25): "Thou lovest all things that are, and hatest none of the things which Thou hast made."
+
 I answer that, God loves all existing things. For all existing things, in so far as they exist, are good, since the existence of a thing is itself a good; and likewise, whatever perfection it possesses. Now it has been shown above ([147]Q[19], A[4]) that God's will is the cause of all things. It must needs be, therefore, that a thing has existence, or any kind of good, only inasmuch as it is willed by God. To every existing thing, then, God wills some good. Hence, since to love anything is nothing else than to will good to that thing, it is manifest that God loves everything that exists. Yet not as we love. Because since our will is not the cause of the goodness of things, but is moved by it as by its object, our love, whereby we will good to anything, is not the cause of its goodness; but conversely its goodness, whether real or imaginary, calls forth our love, by which we will that it should preserve the good it has, and receive besides the good it has not, and to this end we direct our actions: whereas the love of God infuses and creates goodness.
+
 ## Replies
+
 Reply to Objection 1: A lover is placed outside himself, and made to pass into the object of his love, inasmuch as he wills good to the beloved; and works for that good by his providence even as he works for his own. Hence Dionysius says (Div. Nom. iv, 1): "On behalf of the truth we must make bold to say even this, that He Himself, the cause of all things, by His abounding love and goodness, is placed outside Himself by His providence for all existing things."
+
 Reply to Objection 2: Although creatures have not existed from eternity, except in God, yet because they have been in Him from eternity, God has known them eternally in their proper natures; and for that reason has loved them, even as we, by the images of things within us, know things existing in themselves.
+
 Reply to Objection 3: Friendship cannot exist except towards rational creatures, who are capable of returning love, and communicating one with another in the various works of life, and who may fare well or ill, according to the changes of fortune and happiness; even as to them is benevolence properly speaking exercised. But irrational creatures cannot attain to loving God, nor to any share in the intellectual and beatific life that He lives. Strictly speaking, therefore, God does not love irrational creatures with the love of friendship; but as it were with the love of desire, in so far as He orders them to rational creatures, and even to Himself. Yet this is not because He stands in need of them; but only on account of His goodness, and of the services they render to us. For we can desire a thing for others as well as for ourselves.
+
 Reply to Objection 4: Nothing prevents one and the same thing being loved under one aspect, while it is hated under another. God loves sinners in so far as they are existing natures; for they have existence and have it from Him. In so far as they are sinners, they have not existence at all, but fall short of it; and this in them is not from God. Hence under this aspect, they are hated by Him.

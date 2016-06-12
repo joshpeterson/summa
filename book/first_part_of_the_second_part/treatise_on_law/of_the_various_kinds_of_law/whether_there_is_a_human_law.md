@@ -1,12 +1,23 @@
 # Whether There Is A Human Law?
+
 ## Objections
+
 Objection 1: It would seem that there is not a human law. For the natural law is a participation of the eternal law, as stated above [1966](A[2]). Now through the eternal law "all things are most orderly," as Augustine states (De Lib. Arb. i, 6). Therefore the natural law suffices for the ordering of all human affairs. Consequently there is no need for a human law.
+
 Objection 2: Further, a law bears the character of a measure, as stated above ([1967]Q[90], A[1]). But human reason is not a measure of things, but vice versa, as stated in Metaph. x, text. 5. Therefore no law can emanate from human reason.
+
 Objection 3: Further, a measure should be most certain, as stated in Metaph. x, text. 3. But the dictates of human reason in matters of conduct are uncertain, according to Wis. 9:14: "The thoughts of mortal men are fearful, and our counsels uncertain." Therefore no law can emanate from human reason.
+
 ## Answer
+
 On the contrary, Augustine (De Lib. Arb. i, 6) distinguishes two kinds of law, the one eternal, the other temporal, which he calls human.
+
 I answer that, As stated above ([1968]Q[90], A[1], ad 2), a law is a dictate of the practical reason. Now it is to be observed that the same procedure takes place in the practical and in the speculative reason: for each proceeds from principles to conclusions, as stated above (De Lib. Arb. i, 6). Accordingly we conclude that just as, in the speculative reason, from naturally known indemonstrable principles, we draw the conclusions of the various sciences, the knowledge of which is not imparted to us by nature, but acquired by the efforts of reason, so too it is from the precepts of the natural law, as from general and indemonstrable principles, that the human reason needs to proceed to the more particular determination of certain matters. These particular determinations, devised by human reason, are called human laws, provided the other essential conditions of law be observed, as stated above ([1969]Q[90], AA[2],3,4). Wherefore Tully says in his Rhetoric (De Invent. Rhet. ii) that "justice has its source in nature; thence certain things came into custom by reason of their utility; afterwards these things which emanated from nature and were approved by custom, were sanctioned by fear and reverence for the law."
+
 ## Replies
+
 Reply to Objection 1: The human reason cannot have a full participation of the dictate of the Divine Reason, but according to its own mode, and imperfectly. Consequently, as on the part of the speculative reason, by a natural participation of Divine Wisdom, there is in us the knowledge of certain general principles, but not proper knowledge of each single truth, such as that contained in the Divine Wisdom; so too, on the part of the practical reason, man has a natural participation of the eternal law, according to certain general principles, but not as regards the particular determinations of individual cases, which are, however, contained in the eternal law. Hence the need for human reason to proceed further to sanction them by law.
+
 Reply to Objection 2: Human reason is not, of itself, the rule of things: but the principles impressed on it by nature, are general rules and measures of all things relating to human conduct, whereof the natural reason is the rule and measure, although it is not the measure of things that are from nature.
+
 Reply to Objection 3: The practical reason is concerned with practical matters, which are singular and contingent: but not with necessary things, with which the speculative reason is concerned. Wherefore human laws cannot have that inerrancy that belongs to the demonstrated conclusions of sciences. Nor is it necessary for every measure to be altogether unerring and certain, but according as it is possible in its own particular genus.

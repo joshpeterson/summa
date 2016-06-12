@@ -1,12 +1,23 @@
 # Whether Christ's Body Was In Adam And The Other Patriarchs, As To Something Signate?
+
 ## Objections
+
 Objection 1: It would seem that Christ's body was in Adam and the patriarchs as to something signate. For Augustine says (Gen. ad lit. x) that the flesh of Christ was in Adam and Abraham "by way of a bodily substance." But bodily substance is something signate. Therefore Christ's flesh was in Adam, Abraham, and the other patriarchs, according to something signate.
+
 Objection 2: Further, it is said (Rom. 1:3) that Christ "was made . . . of the seed of David according to the flesh." But the seed of David was something signate in him. Therefore Christ was in David, according to something signate, and for the same reason in the other patriarchs.
+
 Objection 3: Further, the human race is Christ's kindred, inasmuch as He took flesh therefrom. But if that flesh were not something signate in Adam, the human race, which is descended from Adam, would seem to have no kindred with Christ: but rather with those other things from which the matter of His flesh was taken. Therefore it seems that Christ's flesh was in Adam and the other patriarchs according to something signate.
+
 ## Answer
+
 On the contrary, Augustine says (Gen. ad lit. x) that in whatever way Christ was in Adam and Abraham, other men were there also; but not conversely. But other men were not in Adam and Abraham by way of some signate matter, but only according to origin, as stated in the [4142]FP, Q[119] , A[1], A[2], ad 4. Therefore neither was Christ in Adam and Abraham according to something signate; and, for the same reason, neither was He in the other patriarchs.
+
 I answer that, As stated above (A[5], ad 1), the matter of Christ's body was not the flesh and bones of the Blessed Virgin, nor anything that was actually a part of her body, but her blood which was her flesh potentially. Now, whatever was in the Blessed Virgin, as received from her parents, was actually a part of her body. Consequently that which the Blessed Virgin received from her parents was not the matter of Christ's body. Therefore we must say that Christ's body was not in Adam and the other patriarchs according to something signate, in the sense that some part of Adam's or of anyone else's body could be singled out and designated as the very matter from which Christ's body was to be formed: but it was there according to origin, just as was the flesh of other men. For Christ's body is related to Adam and the other patriarchs through the medium of His Mother's body. Consequently Christ's body was in the patriarchs, in no other way than was His Mother's body, which was not in the patriarchs according to signate matter: as neither were the bodies of other men, as stated in the [4143]FP, Q[119], A[1], A[2], ad 4.
+
 ## Replies
+
 Reply to Objection 1: The expression "Christ was in Adam according to bodily substance," does not mean that Christ's body was a bodily substance in Adam: but that the bodily substance of Christ's body, i.e. the matter which He took from the Virgin, was in Adam as in its active principle, but not as in its material principle: in other words, by the generative power of Adam and his descendants down to the Blessed Virgin, this matter was prepared for Christ's conception. But this matter was not fashioned into Christ's body by the seminal power derived from Adam. Therefore Christ is said to have been in Adam by way of origin, according to bodily substance: but not according to seminal virtue.
+
 Reply to Objection 2: Although Christ's body was not in Adam and the other patriarchs, according to seminal virtue, yet the Blessed Virgin's body was thus in them, through her being conceived from the seed of a man. For this reason, through the medium of the Blessed Virgin, Christ is said to be of the seed of David, according to the flesh, by way of origin.
+
 Reply to Objection 3: Christ and the human race are kindred, through the likeness of species. Now, specific likeness results not from remote but from proximate matter, and from the active principle which begets its like in species. Thus, then, the kinship of Christ and the human race is sufficiently preserved by His body being formed from the Virgin's blood, derived in its origin from Adam and the other patriarchs. Nor is this kinship affected by the matter whence this blood is taken, as neither is it in the generation of other men, as stated in the [4144]FP, Q[119], A[2], ad 3.

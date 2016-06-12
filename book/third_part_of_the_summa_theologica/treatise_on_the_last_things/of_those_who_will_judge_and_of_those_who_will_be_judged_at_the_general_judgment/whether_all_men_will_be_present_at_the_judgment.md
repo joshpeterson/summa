@@ -1,12 +1,23 @@
 # Whether All Men Will Be Present At The Judgment?
+
 ## Objections
+
 Objection 1: It would seem that men will not all be present at the judgment. For it is written (Mat. 19:28): "You . . . shall sit on twelve seats, judging the twelve tribes of Israel." But all men do not belong to those twelve tribes. Therefore it would seem that men will not all be present at the judgment.
+
 Objection 2: Further, the same apparently is to be gathered from Ps. 1:5, "The wicked shall not rise again in judgment."
+
 Objection 3: Further, a man is brought to judgment that his merits may be discussed. But some there are who have acquired no merits, such as children who died before reaching the perfect age. Therefore they need not be present at the judgment. Now there are many such. Therefore it would seem that not all will be present.
+
 ## Answer
+
 On the contrary, It is written (Acts 10:42) that Christ "was appointed by God to be judge of the living and of the dead." Now this division comprises all men, no matter how the living be distinct from the dead. Therefore all men will be present at the judgment.
+
 I answer that, The judicial power was bestowed on Christ as man, in reward for the humility which He showed forth in His passion. Now in His passion He shed His blood for all in point of sufficiency, although through meeting with an obstacle in some, it had not its effect in all. Therefore it is fitting that all men should assemble at the judgment, to see His exaltation in His human nature, in respect of which "He was appointed by God to be judge of the living and of the dead."
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (De Civ. Dei xx, 5), "it does not follow from the saying, 'Judging the twelve tribes of Israel,' that the tribe of Levi, which is the thirteenth, is not to be judged, or that they will judge that people alone, and not other nations." The reason why all other nations are denoted by the twelve tribes is because they were called by Christ to take the place of the twelve tribes.
+
 Reply to Objection 2: The words, "The wicked shall not rise in judgment," if referred to all sinners, mean that they will not arise to judge. But if the wicked denote unbelievers, the sense is that they will not arise to be judged, because they are "already judged" (Jn. 3:18). All, however, will rise again to assemble at the judgment and witness the glory of the Judge.
+
 Reply to Objection 3: Even children who have died before reaching the perfect age will be present at the judgment, not to be judged, but to see the Judge's glory.

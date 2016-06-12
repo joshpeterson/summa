@@ -1,14 +1,25 @@
 # Whether The Cause Of Idolatry Was On The Part Of Man?
+
 ## Objections
+
 Objection 1: It would seem that the cause of idolatry was not on the part of man. In man there is nothing but either nature, virtue, or guilt. But the cause of idolatry could not be on the part of man's nature, since rather does man's natural reason dictate that there is one God, and that divine worship should not be paid to the dead or to inanimate beings. Likewise, neither could idolatry have its cause in man on the part of virtue, since "a good tree cannot bring forth evil fruit," according to Mat. 7:18: nor again could it be on the part of guilt, because, according to Wis. 14:27, "the worship of abominable idols is the cause and the beginning and end of all evil." Therefore idolatry has no cause on the part of man.
+
 Objection 2: Further, those things which have a cause in man are found among men at all times. Now idolatry was not always, but is stated [*Peter Comestor, Hist. Genes. xxxvii, xl] to have been originated either by Nimrod, who is related to have forced men to worship fire, or by Ninus, who caused the statue of his father Bel to be worshiped. Among the Greeks, as related by Isidore (Etym. viii, 11), Prometheus was the first to set up statues of men: and the Jews say that Ismael was the first to make idols of clay. Moreover, idolatry ceased to a great extent in the sixth age. Therefore idolatry had no cause on the part of man.
+
 Objection 3: Further, Augustine says (De Civ. Dei xxi, 6): "It was not possible to learn, for the first time, except from their" (i.e. the demons') "teaching, what each of them desired or disliked, and by what name to invite or compel him: so as to give birth to the magic arts and their professors": and the same observation seems to apply to idolatry. Therefore idolatry had no cause on the part of man.
+
 ## Answer
+
 On the contrary, It is written (Wis. 14:14): "By the vanity of men they," i.e. idols, "came into the world."
+
 I answer that, Idolatry had a twofold cause. One was a dispositive cause; this was on the part of man, and in three ways. First, on account of his inordinate affections, forasmuch as he gave other men divine honor, through either loving or revering them too much. This cause is assigned (Wis. 14:15): "A father being afflicted with bitter grief, made to himself the image of his son, who was quickly taken away: and him who then had died as a man he began to worship as a god." The same passage goes on to say (Wis. 14:21) that "men serving either their affection, or their kings, gave the incommunicable name [Vulg.: 'names']," i.e. of the Godhead, "to stones and wood." Secondly, because man takes a natural pleasure in representations, as the Philosopher observes (Poet. iv), wherefore as soon as the uncultured man saw human images skillfully fashioned by the diligence of the craftsman, he gave them divine worship; hence it is written (Wis. 13:11-17): "If an artist, a carpenter, hath cut down a tree, proper for his use, in the wood . . . and by the skill of his art fashioneth it, and maketh it like the image of a man . . . and then maketh prayer to it, inquiring concerning his substance, and his children, or his marriage." Thirdly, on account of their ignorance of the true God, inasmuch as through failing to consider His excellence men gave divine worship to certain creatures, on account of their beauty or power, wherefore it is written (Wis. 13:1,2): "All men . . . neither by attending to the works have acknowledged who was the workman, but have imagined either the fire, or the wind, or the swift air, or the circle of the stars, or the great water, or the sun and the moon, to be the gods that rule the world."
 
 The other cause of idolatry was completive, and this was on the part of the demons, who offered themselves to be worshipped by men, by giving answers in the idols, and doing things which to men seemed marvelous. Hence it is written (Ps. 95:5): "All the gods of the Gentiles are devils."
+
 ## Replies
+
 Reply to Objection 1: The dispositive cause of idolatry was, on the part of man, a defect of nature, either through ignorance in his intellect, or disorder in his affections, as stated above; and this pertains to guilt. Again, idolatry is stated to be the cause, beginning and end of all sin, because there is no kind of sin that idolatry does not produce at some time, either through leading expressly to that sin by causing it, or through being an occasion thereof, either as a beginning or as an end, in so far as certain sins were employed in the worship of idols; such as homicides, mutilations, and so forth. Nevertheless certain sins may precede idolatry and dispose man thereto.
+
 Reply to Objection 2: There was no idolatry in the first age, owing to the recent remembrance of the creation of the world, so that man still retained in his mind the knowledge of one God. In the sixth age idolatry was banished by the doctrine and power of Christ, who triumphed over the devil.
+
 Reply to Objection 3: This argument considers the consummative cause of idolatry.

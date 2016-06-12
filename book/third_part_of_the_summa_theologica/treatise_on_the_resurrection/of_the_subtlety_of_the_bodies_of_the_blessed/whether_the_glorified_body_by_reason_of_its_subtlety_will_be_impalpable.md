@@ -1,12 +1,23 @@
 # Whether The Glorified Body, By Reason Of Its Subtlety, Will Be Impalpable?
+
 ## Objections
+
 Objection 1: It would seem that the glorified body, by reason of its subtlety, is impalpable. For Gregory says (Hom. xxv in Evang.): "What is palpable must needs be corruptible." But the glorified body is incorruptible. Therefore it is impalpable.
+
 Objection 2: Further, whatever is palpable resists one who handles it. But that which can be in the same place with another does not resist it. Since then a glorified body can be in the same place with another body, it will not be palpable.
+
 Objection 3: Further, every palpable body is tangible. Now every tangible body has tangible qualities in excess of the qualities of the one touching it. Since then in the glorified bodies the tangible qualities are not in excess but are reduced to a supreme degree of equality, it would seem that they are impalpable.
+
 ## Answer
+
 On the contrary, our Lord rose again with a glorified body; and yet His body was palpable, as appears from Lk. 24:39: "Handle, and see; for a spirit hath not flesh and bones." Therefore the glorified bodies also will be palpable.
+
 I answer that, Every palpable body is tangible, but not conversely. For every body is tangible that has qualities whereby the sense of touch has a natural aptitude to be affected: wherefore air, fire, and the like are tangible bodies: but a palpable body, in addition to this, resists the touch; wherefore the air which never resists that which passes through it, and is most easily pierced, is tangible indeed but not palpable. Accordingly it is clear that a body is said to be palpable for two reasons, namely on account of its tangible qualities, and on account of its resisting that which touches it, so as to hinder it from piercing it. And since the tangible qualities are hot and cold and so forth, which are not found save in heavy and light bodies, which through being contrary to one another are therefore corruptible, it follows that the heavenly bodies, which by their nature are incorruptible, are sensible to the sight but not tangible, and therefore neither are they palpable. This is what Gregory means when he says (Hom. xxv in Evang.) that "whatever is palpable must needs be corruptible." Accordingly the glorified body has by its nature those qualities which have a natural aptitude to affect the touch, and yet since the body is altogether subject to the spirit, it is in its power thereby to affect or not to affect the touch. In like manner it is competent by its nature to resist any other passing body, so that the latter cannot be in the same place together with it: although, according to its pleasure, it may happen by the Divine power that it occupy the same place with another body, and thus offer no resistance to a passing body. Wherefore according to its nature the glorified body is palpable, but it is competent for it to be impalpable to a non-glorified body by a supernatural power. Hence Gregory says (Hom. xxv in Evang.) that "our Lord offered His flesh to be handled, which He had brought in through the closed doors, so as to afford a complete proof that after His resurrection His body was unchanged in nature though changed in glory."
+
 ## Replies
+
 Reply to Objection 1: The incorruptibility of a glorified body does not result from the nature of its component parts; and it is on account of that nature that whatever is palpable is corruptible, as stated above. Hence the argument does not prove.
+
 Reply to Objection 2: Although in a way it is possible for a glorified body to be in the same place with another body: nevertheless the glorified body has it in its power to resist at will any one touching it, and thus it is palpable.
+
 Reply to Objection 3: In the glorified bodies the tangible qualities are not reduced to the real mean that is measured according to equal distance from the extremes, but to the proportionate mean, according as is most becoming to the human complexion in each part. Wherefore the touch of those bodies will be most delightful, because a power always delights in a becoming object, and is grieved by excess.

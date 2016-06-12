@@ -1,12 +1,23 @@
 # Whether Covetousness Is A Capital Vice?
+
 ## Objections
+
 Objection 1: It seems that covetousness is not a capital vice. For covetousness is opposed to liberality as the mean, and to prodigality as extreme. But neither is liberality a principal virtue, nor prodigality a capital vice. Therefore covetousness also should not be reckoned a capital vice.
+
 Objection 2: Further, as stated above ([3251]FS, Q[84], AA[3],4), those vices are called capital which have principal ends, to which the ends of other vices are directed. But this does not apply to covetousness: since riches have the aspect, not of an end, but rather of something directed to an end, as stated in Ethic. i, 5. Therefore covetousness is not a capital vice.
+
 Objection 3: Further, Gregory says (Moral. xv), that "covetousness arises sometimes from pride, sometimes from fear. For there are those who, when they think that they lack the needful for their expenses, allow the mind to give way to covetousness. And there are others who, wishing to be thought more of, are incited to greed for other people's property." Therefore covetousness arises from other vices instead of being a capital vice in respect of other vices.
+
 ## Answer
+
 On the contrary, Gregory (Moral. xxxi) reckons covetousness among the capital vices.
+
 I answer that, As stated in the Second Objection, a capital vice is one which under the aspect of end gives rise to other vices: because when an end is very desirable, the result is that through desire thereof man sets about doing many things either good or evil. Now the most desirable end is happiness or felicity, which is the last end of human life, as stated above ([3252]FS, Q[1], AA[4],7,8): wherefore the more a thing is furnished with the conditions of happiness, the more desirable it is. Also one of the conditions of happiness is that it be self-sufficing, else it would not set man's appetite at rest, as the last end does. Now riches give great promise of self-sufficiency, as Boethius says (De Consol. iii): the reason of which, according to the Philosopher (Ethic. v, 5), is that we "use money in token of taking possession of something," and again it is written (Eccles. 10:19): "All things obey money." Therefore covetousness, which is desire for money, is a capital vice.
+
 ## Replies
+
 Reply to Objection 1: Virtue is perfected in accordance with reason, but vice is perfected in accordance with the inclination of the sensitive appetite. Now reason and sensitive appetite do not belong chiefly to the same genus, and consequently it does not follow that principal vice is opposed to principal virtue. Wherefore, although liberality is not a principal virtue, since it does not regard the principal good of the reason, yet covetousness is a principal vice, because it regards money, which occupies a principal place among sensible goods, for the reason given in the Article.
+
 Reply to Objection 2: It is true that money is directed to something else as its end: yet in so far as it is useful for obtaining all sensible things, it contains, in a way, all things virtually. Hence it has a certain likeness to happiness, as stated in the Article.
+
 Reply to Objection 3: Nothing prevents a capital vice from arising sometimes out of other vices, as stated above (Q[36], A[4], ad 1; [3253]FS, Q[84], A[4]), provided that itself be frequently the source of others.

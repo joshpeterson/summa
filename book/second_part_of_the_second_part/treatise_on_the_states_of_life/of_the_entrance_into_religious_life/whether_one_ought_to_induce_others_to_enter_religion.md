@@ -1,14 +1,25 @@
 # Whether One Ought To Induce Others To Enter Religion?
+
 ## Objections
+
 Objection 1: It would seem that no one ought to induce others to enter religion. For the blessed Benedict prescribes in his Rule (lviii) that "those who seek to enter religion must not easily be admitted, but spirits must be tested whether they be of God"; and Cassian has the same instruction (De Inst. Caenob. iv, 3). Much less therefore is it lawful to induce anyone to enter religion.
+
 Objection 2: Further, our Lord said (Mat. 23:15): "Woe to you . . . because you go round about the sea and the land to make one proselyte, and when he is made you make him the child of hell twofold more than yourselves." Now thus would seem to do those who induce persons to enter religion. Therefore this would seem blameworthy.
+
 Objection 3: Further, no one should induce another to do what is to his prejudice. But those who are induced to enter religion, sometimes take harm therefrom, for sometimes they are under obligation to enter a stricter religion. Therefore it would not seem praiseworthy to induce others to enter religion.
+
 ## Answer
+
 On the contrary, It is written (Ex. 26:3, seqq. [*St. Thomas quotes the sense, not the words]): "Let one curtain draw the other." Therefore one man should draw another to God's service.
+
 I answer that, Those who induce others to enter religion not only do not sin, but merit a great reward. For it is written (James 5:20): "He who causeth a sinner to be converted from the error of his way, shall save his soul from death, and shall cover a multitude of sins"; and (Dan. 12:3): "They that instruct many to justice shall be as stars for all eternity."
 
 Nevertheless such inducement may be affected by a threefold inordinateness. First, if one person force another by violence to enter religion: and this is forbidden in the Decretals (XX, qu. iii, cap. Praesens). Secondly, if one person persuade another simoniacally to enter religion, by giving him presents: and this is forbidden in the Decretal (I, qu. ii, cap. Quam pio). But this does not apply to the case where one provides a poor person with necessaries by educating him in the world for the religious life; or when without any compact one gives a person little presents for the sake of good fellowship. Thirdly, if one person entices another by lies: for it is to be feared that the person thus enticed may turn back on finding himself deceived, and thus "the last state of that man" may become "worse than the first" (Lk. 11:26).
+
 ## Replies
+
 Reply to Objection 1: Those who are induced to enter religion have still a time of probation wherein they make a trial of the hardships of religion, so that they are not easily admitted to the religious life.
+
 Reply to Objection 2: According to Hilary (Can. xxiv in Matth.) this saying of our Lord was a forecast of the wicked endeavors of the Jews, after the preaching of Christ, to draw Gentiles or even Christians to observe the Jewish ritual, thereby making them doubly children of hell, because, to wit, they were not forgiven the former sins which they committed while adherents of Judaism, and furthermore they incurred the guilt of Jewish perfidy; and thus interpreted these words have nothing to do with the case in point.
+
 Reply to Objection 3: The lesser is included in the greater. Wherefore a person who is bound by vow or oath to enter a lesser order, may be lawfully induced to enter a greater one. unless there be some special obstacle, such as ill-health, or the hope of making greater progress in the lesser order. On the other hand, one who is bound by vow or oath to enter a greater order, cannot be lawfully induced to enter a lesser order, except for some special and evident motive, and then with the superior's dispensation.

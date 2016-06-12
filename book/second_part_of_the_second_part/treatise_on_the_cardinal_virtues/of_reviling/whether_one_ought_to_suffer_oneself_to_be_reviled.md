@@ -1,12 +1,23 @@
 # Whether One Ought To Suffer Oneself To Be Reviled?
+
 ## Objections
+
 Objection 1: It would seem that one ought not to suffer oneself to be reviled. For he that suffers himself to be reviled, encourages the reviler. But one ought not to do this. Therefore one ought not to suffer oneself to be reviled, but rather reply to the reviler.
+
 Objection 2: Further, one ought to love oneself more than another. Now one ought not to suffer another to be reviled, wherefore it is written (Prov. 26:10): "He that putteth a fool to silence appeaseth anger." Therefore neither should one suffer oneself to be reviled.
+
 Objection 3: Further, a man is not allowed to revenge himself, for it is said: "Vengeance belongeth to Me, I will repay" [*Heb. 10:30]. Now by submitting to be reviled a man revenges himself, according to Chrysostom (Hom. xxii, in Ep. ad Rom.): "If thou wilt be revenged, be silent; thou hast dealt him a fatal blow." Therefore one ought not by silence to submit to reviling words, but rather answer back.
+
 ## Answer
+
 On the contrary, It is written (Ps. 37:13): "They that sought evils to me spoke vain things," and afterwards (Ps. 37:14) he says: "But I as a deaf man, heard not; and as a dumb man not opening his mouth."
+
 I answer that, Just as we need patience in things done against us, so do we need it in those said against us. Now the precepts of patience in those things done against us refer to the preparedness of the mind, according to Augustine's (De Serm. Dom. in Monte i, 19) exposition on our Lord's precept, "If one strike thee on thy right cheek, turn to him also the other" [*The words as quoted by St. Thomas are a blending of Mat. 5:39 and Lk. 6:29]: that is to say, a man ought to be prepared to do so if necessary. But he is not always bound to do this actually: since not even did our Lord do so, for when He received a blow, He said: "Why strikest thou Me?" (Jn. 18:23). Consequently the same applies to the reviling words that are said against us. For we are bound to hold our minds prepared to submit to be reviled, if it should be expedient. Nevertheless it sometimes behooves us to withstand against being reviled, and this chiefly for two reasons. First, for the good of the reviler; namely, that his daring may be checked, and that he may not repeat the attempt, according to Prov. 26:5, "Answer a fool according to his folly, lest he imagine himself to be wise." Secondly, for the good of many who would be prevented from progressing in virtue on account of our being reviled. Hence Gregory says (Hom. ix, Super Ezech.): "Those who are so placed that their life should be an example to others, ought, if possible, to silence their detractors, lest their preaching be not heard by those who could have heard it, and they continue their evil conduct through contempt of a good life."
+
 ## Replies
+
 Reply to Objection 1: The daring of the railing reviler should be checked with moderation, i.e. as a duty of charity, and not through lust for one's own honor. Hence it is written (Prov. 26:4): "Answer not a fool according to his folly, lest thou be like him."
+
 Reply to Objection 2: When one man prevents another from being reviled there is not the danger of lust for one's own honor as there is when a man defends himself from being reviled: indeed rather would it seem to proceed from a sense of charity.
+
 Reply to Objection 3: It would be an act of revenge to keep silence with the intention of provoking the reviler to anger, but it would be praiseworthy to be silent, in order to give place to anger. Hence it is written (Ecclus. 8:4): "Strive not with a man that is full of tongue, and heap not wood upon his fire."

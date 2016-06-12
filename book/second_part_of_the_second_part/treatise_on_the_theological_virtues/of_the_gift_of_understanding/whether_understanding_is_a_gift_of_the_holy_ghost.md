@@ -1,16 +1,27 @@
 # Whether Understanding Is A Gift Of The Holy Ghost?
+
 ## Objections
+
 Objection 1: It would seem that understanding is not a gift of the Holy Ghost. For the gifts of grace are distinct from the gifts of nature, since they are given in addition to the latter. Now understanding is a natural habit of the soul, whereby self-evident principles are known, as stated in Ethic. vi, 6. Therefore it should not be reckoned among the gifts of the Holy Ghost.
+
 Objection 2: Further, the Divine gifts are shared by creatures according to their capacity and mode, as Dionysius states (Div. Nom. iv). Now the mode of human nature is to know the truth, not simply (which is a sign of understanding), but discursively (which is a sign of reason), as Dionysius explains (Div. Nom. vii). Therefore the Divine knowledge which is bestowed on man, should be called a gift of reason rather than a gift of understanding.
+
 Objection 3: Further, in the powers of the soul the understanding is condivided with the will (De Anima iii, 9,10). Now no gift of the Holy Ghost is called after the will. Therefore no gift of the Holy Ghost should receive the name of understanding.
+
 ## Answer
+
 On the contrary, It is written (Is. 11:2): "The Spirit of the Lord shall rest upon him, the Spirit of wisdom of understanding."
+
 I answer that, Understanding implies an intimate knowledge, for "intelligere" [to understand] is the same as "intus legere" [to read inwardly]. This is clear to anyone who considers the difference between intellect and sense, because sensitive knowledge is concerned with external sensible qualities, whereas intellective knowledge penetrates into the very essence of a thing, because the object of the intellect is "what a thing is," as stated in De Anima iii, 6.
 
 Now there are many kinds of things that are hidden within, to find which human knowledge has to penetrate within so to speak. Thus, under the accidents lies hidden the nature of the substantial reality, under words lies hidden their meaning; under likenesses and figures the truth they denote lies hidden (because the intelligible world is enclosed within as compared with the sensible world, which is perceived externally), and effects lie hidden in their causes, and vice versa. Hence we may speak of understanding with regard to all these things.
 
 Since, however, human knowledge begins with the outside of things as it were, it is evident that the stronger the light of the understanding, the further can it penetrate into the heart of things. Now the natural light of our understanding is of finite power; wherefore it can reach to a certain fixed point. Consequently man needs a supernatural light in order to penetrate further still so as to know what it cannot know by its natural light: and this supernatural light which is bestowed on man is called the gift of understanding.
+
 ## Replies
+
 Reply to Objection 1: The natural light instilled within us, manifests only certain general principles, which are known naturally. But since man is ordained to supernatural happiness, as stated above (Q[2], A[3]; [2356]FS, Q[3] , A[8]), man needs to reach to certain higher truths, for which he requires the gift of understanding.
+
 Reply to Objection 2: The discourse of reason always begins from an understanding and ends at an understanding; because we reason by proceeding from certain understood principles, and the discourse of reason is perfected when we come to understand what hitherto we ignored. Hence the act of reasoning proceeds from something previously understood. Now a gift of grace does not proceed from the light of nature, but is added thereto as perfecting it. Wherefore this addition is not called "reason" but "understanding," since the additional light is in comparison with what we know supernaturally, what the natural light is in regard to those things which we known from the first.
+
 Reply to Objection 3: "Will" denotes simply a movement of the appetite without indicating any excellence; whereas "understanding" denotes a certain excellence of a knowledge that penetrates into the heart of things. Hence the supernatural gift is called after the understanding rather than after the will.

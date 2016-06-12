@@ -1,16 +1,29 @@
 # Whether The Glorified Bodies Will Be Agile?
+
 ## Objections
+
 Objection 1: It would seem that the glorified bodies will not be agile. For that which is agile by itself needs not to be carried in order to move. But the glorified bodies will, after the resurrection, be taken up by the angels (according to a gloss) in the clouds "to meet Christ, into the air" (1 Thess. 4:16). Therefore the glorified bodies will not be agile.
+
 Objection 2: Further, no body that moves with labor and pain can be said to be agile. Yet the glorified bodies will move thus, since the principle of their movement, namely the soul, moves them counter to their nature, else they would always move in the same direction. Therefore they are not agile.
+
 Objection 3: Further, of all the animal operations sense surpasses movement in nobility and priority. Yet no property is ascribed to glorified bodies as perfecting them in sensation. Therefore neither should agility be ascribed to them as perfecting them in movement.
+
 Objection 4: Further, nature gives different animals instruments of different disposition according to their different powers: hence she does not give instruments of the same disposition to slow as to fleet animals. Now God's works are much more orderly than those of nature. Since then the glorified body's members will have the same disposition, shape and quantity as they now have, it would seem that it will have no agility other than it has now.
+
 ## Answer
+
 On the contrary, It is written (1 Cor. 15:43): "It is sown in weakness, it shall rise in power," that is, according to a gloss, "mobile and living." But mobility can only signify agility in movement. Therefore the glorified bodies will be agile.
+
 I answer that, The glorified body will be altogether subject to the glorified soul, so that not only will there be nothing in it to resist the will of the spirit, for it was even so in the case of Adam's body, but also from the glorified soul there will flow into the body a certain perfection, whereby it will become adapted to that subjection: and this perfection is called "the gift of the glorified body." Now the soul is united to body not only as its form, but also as its mover; and in both ways the glorified body must needs be most perfectly subject to the glorified soul. Wherefore even as by the gift of subtlety the body is wholly subject to the soul as its form, whence it derives its specific being, so by the gift of agility it is subject to the soul as its mover, so that it is prompt and apt to obey the spirit in all the movements and actions of the soul.
 
 Some, however, ascribe the cause of this agility to the fifth, i.e. the heavenly essence, which will then be predominant in the glorified bodies. But of this we have frequently observed that it does not seem probable ([5092]Q[82], A[1];[5093] Q[83], A[1]). Wherefore it is better to ascribe it to the soul, whence glory flows to the body.
+
 ## Replies
+
 Reply to Objection 1: Glorified bodies are said to be borne by the angels and also on the clouds, not as though they needed them, but in order to signify the reverence which both angels and all creatures will show them.
+
 Reply to Objection 2: The more the power of the moving soul dominates over the body, the less is the labor of movement, even though it be counter to the body's nature. Hence those in whom the motive power is stronger, and those who through exercise have the body more adapted to obey the moving spirit, labor less in being moved. And since, after the resurrection, the soul will perfectly dominate the body, both on account of the perfection of its own power, and on account of the glorified body's aptitude resulting from the outflow of glory which it receives from the soul, there will be no labor in the saints' movements, and thus it may be said that the bodies of the saints' will be agile.
+
 Reply to Objection 3: By the gift of agility the glorified body will be rendered apt not only for local movement but also for sensation, and for the execution of all the other operations of the soul.
+
 Reply to Objection 4: Even as nature gives to fleeter animals instruments of a different disposition in shape and quantity, so God will give to the bodies of the saints a disposition other than that which they have now, not indeed in shape and quantity, but in that property of glory which is called agility.

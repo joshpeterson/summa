@@ -1,16 +1,29 @@
 # Whether Unbelievers Ought To Be Compelled To The Faith?
+
 ## Objections
+
 Objection 1: It would seem that unbelievers ought by no means to be compelled to the faith. For it is written (Mat. 13:28) that the servants of the householder, in whose field cockle had been sown, asked him: "Wilt thou that we go and gather it up?" and that he answered: "No, lest perhaps gathering up the cockle, you root up the wheat also together with it": on which passage Chrysostom says (Hom. xlvi in Matth.): "Our Lord says this so as to forbid the slaying of men. For it is not right to slay heretics, because if you do you will necessarily slay many innocent persons." Therefore it seems that for the same reason unbelievers ought not to be compelled to the faith.
+
 Objection 2: Further, we read in the Decretals (Dist. xlv can., De Judaeis): "The holy synod prescribes, with regard to the Jews, that for the future, none are to be compelled to believe." Therefore, in like manner, neither should unbelievers be compelled to the faith.
+
 Objection 3: Further, Augustine says (Tract. xxvi in Joan.) that "it is possible for a man to do other things against his will, but he cannot believe unless he is willing." Therefore it seems that unbelievers ought not to be compelled to the faith.
+
 Objection 4: It is said in God's person (Ezech. 18:32 [*Ezech. 33:11]): "I desire not the death of the sinner [Vulg.: 'of him that dieth']." Now we ought to conform our will to the Divine will, as stated above ([2397]FS, Q[19], AA[9],10). Therefore we should not even wish unbelievers to be put to death.
+
 ## Answer
+
 On the contrary, It is written (Lk. 14:23): "Go out into the highways and hedges; and compel them to come in." Now men enter into the house of God, i.e. into Holy Church, by faith. Therefore some ought to be compelled to the faith.
+
 I answer that, Among unbelievers there are some who have never received the faith, such as the heathens and the Jews: and these are by no means to be compelled to the faith, in order that they may believe, because to believe depends on the will: nevertheless they should be compelled by the faithful, if it be possible to do so, so that they do not hinder the faith, by their blasphemies, or by their evil persuasions, or even by their open persecutions. It is for this reason that Christ's faithful often wage war with unbelievers, not indeed for the purpose of forcing them to believe, because even if they were to conquer them, and take them prisoners, they should still leave them free to believe, if they will, but in order to prevent them from hindering the faith of Christ.
 
 On the other hand, there are unbelievers who at some time have accepted the faith, and professed it, such as heretics and all apostates: such should be submitted even to bodily compulsion, that they may fulfil what they have promised, and hold what they, at one time, received.
+
 ## Replies
+
 Reply to Objection 1: Some have understood the authority quoted to forbid, not the excommunication but the slaying of heretics, as appears from the words of Chrysostom. Augustine too, says (Ep. ad Vincent. xciii) of himself: "It was once my opinion that none should be compelled to union with Christ, that we should deal in words, and fight with arguments. However this opinion of mine is undone, not by words of contradiction, but by convincing examples. Because fear of the law was so profitable, that many say: Thanks be to the Lord Who has broken our chains asunder." Accordingly the meaning of Our Lord's words, "Suffer both to grow until the harvest," must be gathered from those which precede, "lest perhaps gathering up the cockle, you root the wheat also together with it." For, Augustine says (Contra Ep. Parmen. iii, 2) "these words show that when this is not to be feared, that is to say, when a man's crime is so publicly known, and so hateful to all, that he has no defenders, or none such as might cause a schism, the severity of discipline should not slacken."
+
 Reply to Objection 2: Those Jews who have in no way received the faith, ought not by no means to be compelled to the faith: if, however, they have received it, they ought to be compelled to keep it, as is stated in the same chapter.
+
 Reply to Objection 3: Just as taking a vow is a matter of will, and keeping a vow, a matter of obligation, so acceptance of the faith is a matter of the will, whereas keeping the faith, when once one has received it, is a matter of obligation. Wherefore heretics should be compelled to keep the faith. Thus Augustine says to the Count Boniface (Ep. clxxxv): "What do these people mean by crying out continually: 'We may believe or not believe just as we choose. Whom did Christ compel?' They should remember that Christ at first compelled Paul and afterwards taught Him."
+
 Reply to Objection 4: As Augustine says in the same letter, "none of us wishes any heretic to perish. But the house of David did not deserve to have peace, unless his son Absalom had been killed in the war which he had raised against his father. Thus if the Catholic Church gathers together some of the perdition of others, she heals the sorrow of her maternal heart by the delivery of so many nations."

@@ -1,12 +1,23 @@
 # Whether Martyrdom Is An Act Of Virtue?
+
 ## Objections
+
 Objection 1: It seems that martyrdom is not an act of virtue. For all acts of virtue are voluntary. But martyrdom is sometimes not voluntary, as in the case of the Innocents who were slain for Christ's sake, and of whom Hillary says (Super Matth. i) that "they attained the ripe age of eternity through the glory of martyrdom." Therefore martyrdom is not an act of virtue.
+
 Objection 2: Further, nothing unlawful is an act of virtue. Now it is unlawful to kill oneself, as stated above ([3302]Q[64], A[5]), and yet martyrdom is achieved by so doing: for Augustine says (De Civ. Dei i) that "during persecution certain holy women, in order to escape from those who threatened their chastity, threw themselves into a river, and so ended their lives, and their martyrdom is honored in the Catholic Church with most solemn veneration." Therefore martyrdom is not an act of virtue.
+
 Objection 3: Further, it is praiseworthy to offer oneself to do an act of virtue. But it is not praiseworthy to court martyrdom, rather would it seem to be presumptuous and rash. Therefore martyrdom is not an act of virtue.
+
 ## Answer
+
 On the contrary, The reward of beatitude is not due save to acts of virtue. Now it is due to martyrdom, since it is written (Mat. 5:10): "Blessed are they that suffer persecution for justice' sake, for theirs is the kingdom of heaven." Therefore martyrdom is an act of virtue.
+
 I answer that, As stated above ([3303]Q[123], AA[1],3), it belongs to virtue to safeguard man in the good of reason. Now the good of reason consists in the truth as its proper object, and in justice as its proper effect, as shown above ([3304]Q[109], AA[1],2;[3305] Q[123], A[12]). And martyrdom consists essentially in standing firmly to truth and justice against the assaults of persecution. Hence it is evident that martyrdom is an act of virtue.
+
 ## Replies
+
 Reply to Objection 1: Some have said that in the case of the Innocents the use of their free will was miraculously accelerated, so that they suffered martyrdom even voluntarily. Since, however, Scripture contains no proof of this, it is better to say that these babes in being slain obtained by God's grace the glory of martyrdom which others acquire by their own will. For the shedding of one's blood for Christ's sake takes the place of Baptism. Wherefore just as in the case of baptized children the merit of Christ is conducive to the acquisition of glory through the baptismal grace, so in those who were slain for Christ's sake the merit of Christ's martyrdom is conducive to the acquisition of the martyr's palm. Hence Augustine says in a sermon on the Epiphany (De Diversis lxvi), as though he were addressing them: "A man that does not believe that children are benefited by the baptism of Christ will doubt of your being crowned in suffering for Christ. You were not old enough to believe in Christ's future sufferings, but you had a body wherein you could endure suffering of Christ Who was to suffer."
+
 Reply to Objection 2: Augustine says (De Civ. Dei i) that "possibly the Church was induced by certain credible witnesses of Divine authority thus to honor the memory of those holy women [*Cf.[3306] Q[64], A[1], ad 2]."
+
 Reply to Objection 3: The precepts of the Law are about acts of virtue. Now it has been stated ([3307]FS, Q[108], A[1], ad 4) that some of the precepts of the Divine Law are to be understood in reference to the preparation of the mind, in the sense that man ought to be prepared to do such and such a thing, whenever expedient. In the same way certain things belong to an act of virtue as regards the preparation of the mind, so that in such and such a case a man should act according to reason. And this observation would seem very much to the point in the case of martyrdom, which consists in the right endurance of sufferings unjustly inflicted. Nor ought a man to give another an occasion of acting unjustly: yet if anyone act unjustly, one ought to endure it in moderation.

@@ -1,12 +1,23 @@
 # Whether We Can Suffer Injustice Willingly?
+
 ## Objections
+
 Objection 1: It would seem that one can suffer injustice willingly. For injustice is inequality, as stated above [2867](A[2]). Now a man by injuring himself, departs from equality, even as by injuring another. Therefore a man can do an injustice to himself, even as to another. But whoever does himself an injustice, does so involuntarily. Therefore a man can voluntarily suffer injustice especially if it be inflicted by himself.
+
 Objection 2: Further, no man is punished by the civil law, except for having committed some injustice. Now suicides were formerly punished according to the law of the state by being deprived of an honorable burial, as the Philosopher declares (Ethic. v, 11). Therefore a man can do himself an injustice, and consequently it may happen that a man suffers injustice voluntarily.
+
 Objection 3: Further, no man does an injustice save to one who suffers that injustice. But it may happen that a man does an injustice to one who wishes it, for instance if he sell him a thing for more than it is worth. Therefore a man may happen to suffer an injustice voluntarily.
+
 ## Answer
+
 On the contrary, To suffer an injustice and to do an injustice are contraries. Now no man does an injustice against his will. Therefore on the other hand no man suffers an injustice except against his will.
+
 I answer that, Action by its very nature proceeds from an agent, whereas passion as such is from another: wherefore the same thing in the same respect cannot be both agent and patient, as stated in Phys. iii, 1; viii, 5. Now the proper principle of action in man is the will, wherefore man does properly and essentially what he does voluntarily, and on the other hand a man suffers properly what he suffers against his will, since in so far as he is willing, he is a principle in himself, and so, considered thus, he is active rather than passive. Accordingly we must conclude that properly and strictly speaking no man can do an injustice except voluntarily, nor suffer an injustice save involuntarily; but that accidentally and materially so to speak, it is possible for that which is unjust in itself either to be done involuntarily (as when a man does anything unintentionally), or to be suffered voluntarily (as when a man voluntarily gives to another more than he owes him).
+
 ## Replies
+
 Reply to Objection 1: When one man gives voluntarily to another that which he does not owe him, he causes neither injustice nor inequality. For a man's ownership depends on his will, so there is no disproportion if he forfeit something of his own free-will, either by his own or by another's action.
+
 Reply to Objection 2: An individual person may be considered in two ways. First, with regard to himself; and thus, if he inflict an injury on himself, it may come under the head of some other kind of sin, intemperance for instance or imprudence, but not injustice; because injustice no less than justice, is always referred to another person. Secondly, this or that man may be considered as belonging to the State as part thereof, or as belonging to God, as His creature and image; and thus a man who kills himself, does an injury not indeed to himself, but to the State and to God. Wherefore he is punished in accordance with both Divine and human law, even as the Apostle declares in respect of the fornicator (1 Cor. 3:17): "If any man violate the temple of God, him shall God destroy."
+
 Reply to Objection 3: Suffering is the effect of external action. Now in the point of doing and suffering injustice, the material element is that which is done externally, considered in itself, as stated above [2868](A[2]), and the formal and essential element is on the part of the will of agent and patient, as stated above [2869](A[2]). Accordingly we must reply that injustice suffered by one man and injustice done by another man always accompany one another, in the material sense. But if we speak in the formal sense a man can do an injustice with the intention of doing an injustice, and yet the other man does not suffer an injustice, because he suffers voluntarily; and on the other hand a man can suffer an injustice if he suffer an injustice against his will, while the man who does the injury unknowingly, does an injustice, not formally but only materially.

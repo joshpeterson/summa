@@ -1,14 +1,25 @@
 # Whether The Law Is Always Something Directed To The Common Good?
+
 ## Objections
+
 Objection 1: It would seem that the law is not always directed to the common good as to its end. For it belongs to law to command and to forbid. But commands are directed to certain individual goods. Therefore the end of the law is not always the common good.
+
 Objection 2: Further, the law directs man in his actions. But human actions are concerned with particular matters. Therefore the law is directed to some particular good.
+
 Objection 3: Further, Isidore says (Etym. v, 3): "If the law is based on reason, whatever is based on reason will be a law." But reason is the foundation not only of what is ordained to the common good, but also of that which is directed private good. Therefore the law is not only directed to the good of all, but also to the private good of an individual.
+
 ## Answer
+
 On the contrary, Isidore says (Etym. v, 21) that "laws are enacted for no private profit, but for the common benefit of the citizens."
+
 I answer that, As stated above [1957](A[1]), the law belongs to that which is a principle of human acts, because it is their rule and measure. Now as reason is a principle of human acts, so in reason itself there is something which is the principle in respect of all the rest: wherefore to this principle chiefly and mainly law must needs be referred. Now the first principle in practical matters, which are the object of the practical reason, is the last end: and the last end of human life is bliss or happiness, as stated above (Q[2], A[7]; Q[3], A[1]). Consequently the law must needs regard principally the relationship to happiness. Moreover, since every part is ordained to the whole, as imperfect to perfect; and since one man is a part of the perfect community, the law must needs regard properly the relationship to universal happiness. Wherefore the Philosopher, in the above definition of legal matters mentions both happiness and the body politic: for he says (Ethic. v, 1) that we call those legal matters "just, which are adapted to produce and preserve happiness and its parts for the body politic": since the state is a perfect community, as he says in Polit. i, 1.
 
 Now in every genus, that which belongs to it chiefly is the principle of the others, and the others belong to that genus in subordination to that thing: thus fire, which is chief among hot things, is the cause of heat in mixed bodies, and these are said to be hot in so far as they have a share of fire. Consequently, since the law is chiefly ordained to the common good, any other precept in regard to some individual work, must needs be devoid of the nature of a law, save in so far as it regards the common good. Therefore every law is ordained to the common good.
+
 ## Replies
+
 Reply to Objection 1: A command denotes an application of a law to matters regulated by the law. Now the order to the common good, at which the law aims, is applicable to particular ends. And in this way commands are given even concerning particular matters.
+
 Reply to Objection 2: Actions are indeed concerned with particular matters: but those particular matters are referable to the common good, not as to a common genus or species, but as to a common final cause, according as the common good is said to be the common end.
+
 Reply to Objection 3: Just as nothing stands firm with regard to the speculative reason except that which is traced back to the first indemonstrable principles, so nothing stands firm with regard to the practical reason, unless it be directed to the last end which is the common good: and whatever stands to reason in this sense, has the nature of a law.

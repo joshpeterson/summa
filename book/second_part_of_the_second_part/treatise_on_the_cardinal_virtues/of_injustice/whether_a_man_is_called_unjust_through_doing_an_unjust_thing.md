@@ -1,12 +1,23 @@
 # Whether A Man Is Called Unjust Through Doing An Unjust Thing?
+
 ## Objections
+
 Objection 1: It would seem that a man is called unjust through doing an unjust thing. For habits are specified by their objects, as stated above ([2866]FS, Q[54], A[2]). Now the proper object of justice is the just, and the proper object of injustice is the unjust. Therefore a man should be called just through doing a just thing, and unjust through doing an unjust thing.
+
 Objection 2: Further, the Philosopher declares (Ethic. v, 9) that they hold a false opinion who maintain that it is in a man's power to do suddenly an unjust thing, and that a just man is no less capable of doing what is unjust than an unjust man. But this opinion would not be false unless it were proper to the unjust man to do what is unjust. Therefore a man is to be deemed unjust from the fact that he does an unjust thing.
+
 Objection 3: Further, every virtue bears the same relation to its proper act, and the same applies to the contrary vices. But whoever does what is intemperate, is said to be intemperate. Therefore whoever does an unjust thing, is said to be unjust.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. v, 6) that "a man may do an unjust thing without being unjust."
+
 I answer that, Even as the object of justice is something equal in external things, so too the object of injustice is something unequal, through more or less being assigned to some person than is due to him. To this object the habit of injustice is compared by means of its proper act which is called an injustice. Accordingly it may happen in two ways that a man who does an unjust thing, is not unjust: first, on account of a lack of correspondence between the operation and its proper object. For the operation takes its species and name from its direct and not from its indirect object: and in things directed to an end the direct is that which is intended, and the indirect is what is beside the intention. Hence if a man do that which is unjust, without intending to do an unjust thing, for instance if he do it through ignorance, being unaware that it is unjust, properly speaking he does an unjust thing, not directly, but only indirectly, and, as it were, doing materially that which is unjust: hence such an operation is not called an injustice. Secondly, this may happen on account of a lack of proportion between the operation and the habit. For an injustice may sometimes arise from a passion, for instance, anger or desire, and sometimes from choice, for instance when the injustice itself is the direct object of one's complacency. In the latter case properly speaking it arises from a habit, because whenever a man has a habit, whatever befits that habit is, of itself, pleasant to him. Accordingly, to do what is unjust intentionally and by choice is proper to the unjust man, in which sense the unjust man is one who has the habit of injustice: but a man may do what is unjust, unintentionally or through passion, without having the habit of injustice.
+
 ## Replies
+
 Reply to Objection 1: A habit is specified by its object in its direct and formal acceptation, not in its material and indirect acceptation.
+
 Reply to Objection 2: It is not easy for any man to do an unjust thing from choice, as though it were pleasing for its own sake and not for the sake of something else: this is proper to one who has the habit, as the Philosopher declares (Ethic. v, 9).
+
 Reply to Objection 3: The object of temperance is not something established externally, as is the object of justice: the object of temperance, i.e. the temperate thing, depends entirely on proportion to the man himself. Consequently what is accidental and unintentional cannot be said to be temperate either materially or formally. In like manner neither can it be called intemperate: and in this respect there is dissimilarity between justice and the other moral virtues; but as regards the proportion between operation and habit, there is similarity in all respects.

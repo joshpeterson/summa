@@ -1,16 +1,31 @@
 # Whether The Precepts Of The Decalogue Are Suitably Formulated?
+
 ## Objections
+
 Objection 1: It would seem that the precepts of the decalogue are unsuitably formulated. Because the affirmative precepts direct man to acts of virtue, while the negative precepts withdraw him from acts of vice. But in every matter there are virtues and vices opposed to one another. Therefore in whatever matter there is an ordinance of a precept of the decalogue, there should have been an affirmative and a negative precept. Therefore it was unfitting that affirmative precepts should be framed in some matters, and negative precepts in others.
+
 Objection 2: Further, Isidore says (Etym. ii, 10) that every law is based on reason. But all the precepts of the decalogue belong to the Divine law. Therefore the reason should have been pointed out in each precept, and not only in the first and third.
+
 Objection 3: Further, by observing the precepts man deserves to be rewarded by God. But the Divine promises concern the rewards of the precepts. Therefore the promise should have been included in each precept, and not only in the second and fourth.
+
 Objection 4: Further, the Old Law is called "the law of fear," in so far as it induced men to observe the precepts, by means of the threat of punishments. But all the precepts of the decalogue belong to the Old Law. Therefore a threat of punishment should have been included in each, and not only in the first and second.
+
 Objection 5: Further, all the commandments of God should be retained in the memory: for it is written (Prov. 3:3): "Write them in the tables of thy heart." Therefore it was not fitting that mention of the memory should be made in the third commandment only. Consequently it seems that the precepts of the decalogue are unsuitably formulated.
+
 ## Answer
+
 On the contrary, It is written (Wis. 11:21) that "God made all things, in measure, number and weight." Much more therefore did He observe a suitable manner in formulating His Law.
+
 I answer that, The highest wisdom is contained in the precepts of the Divine law: wherefore it is written (Dt. 4:6): "This is your wisdom and understanding in the sight of nations." Now it belongs to wisdom to arrange all things in due manner and order. Therefore it must be evident that the precepts of the Law are suitably set forth.
+
 ## Replies
+
 Reply to Objection 1: Affirmation of one thing always leads to the denial of its opposite: but the denial of one opposite does not always lead to the affirmation of the other. For it follows that if a thing is white, it is not black: but it does not follow that if it is not black, it is white: because negation extends further than affirmation. And hence too, that one ought not to do harm to another, which pertains to the negative precepts, extends to more persons, as a primary dictate of reason, than that one ought to do someone a service or kindness. Nevertheless it is a primary dictate of reason that man is a debtor in the point of rendering a service or kindness to those from whom he has received kindness, if he has not yet repaid the debt. Now there are two whose favors no man can sufficiently repay, viz. God and man's father, as stated in Ethic. viii, 14. Therefore it is that there are only two affirmative precepts; one about the honor due to parents, the other about the celebration of the Sabbath in memory of the Divine favor.
+
 Reply to Objection 2: The reasons for the purely moral precepts are manifest; hence there was no need to add the reason. But some of the precepts include ceremonial matter, or a determination of a general moral precept; thus the first precept includes the determination, "Thou shalt not make a graven thing"; and in the third precept the Sabbath-day is fixed. Consequently there was need to state the reason in each case.
+
 Reply to Objection 3: Generally speaking, men direct their actions to some point of utility. Consequently in those precepts in which it seemed that there would be no useful result, or that some utility might be hindered, it was necessary to add a promise of reward. And since parents are already on the way to depart from us, no benefit is expected from them: wherefore a promise of reward is added to the precept about honoring one's parents. The same applies to the precept forbidding idolatry: since thereby it seemed that men were hindered from receiving the apparent benefit which they think they can get by entering into a compact with the demons.
+
 Reply to Objection 4: Punishments are necessary against those who are prone to evil, as stated in Ethic. x, 9. Wherefore a threat of punishment is only affixed to those precepts of the law which forbade evils to which men were prone. Now men were prone to idolatry by reason of the general custom of the nations. Likewise men are prone to perjury on account of the frequent use of oaths. Hence it is that a threat is affixed to the first two precepts.
+
 Reply to Objection 5: The commandment about the Sabbath was made in memory of a past blessing. Wherefore special mention of the memory is made therein. Or again, the commandment about the Sabbath has a determination affixed to it that does not belong to the natural law, wherefore this precept needed a special admonition.

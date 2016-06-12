@@ -1,12 +1,23 @@
 # Whether We Should Be Solicitous About The Future?
+
 ## Objections
+
 Objection 1: It would seem that we should be solicitous about the future. For it is written (Prov. 6:6-8): "Go to the ant, O sluggard, and consider her ways and learn wisdom; which, although she hath no guide, nor master . . . provideth her meat for herself in the summer, and gathereth her food in the harvest." Now this is to be solicitous about the future. Therefore solicitude about the future is praiseworthy.
+
 Objection 2: Further, solicitude pertains to prudence. But prudence is chiefly about the future, since its principal part is "foresight of future things," as stated above ([2829]Q[49], A[6], ad 1). Therefore it is virtuous to be solicitous about the future.
+
 Objection 3: Further, whoever puts something by that he may keep it for the morrow, is solicitous about the future. Now we read (Jn. 12:6) that Christ had a bag for keeping things in, which Judas carried, and (Acts 4:34-37) that the Apostles kept the price of the land, which had been laid at their feet. Therefore it is lawful to be solicitous about the future.
+
 ## Answer
+
 On the contrary, Our Lord said (Mat. 6:34): "Be not . . . solicitous for tomorrow"; where "tomorrow" stands for the future, as Jerome says in his commentary on this passage.
+
 I answer that, No work can be virtuous, unless it be vested with its due circumstances, and among these is the due time, according to Eccles. 8:6, "There is a time and opportunity for every business"; which applies not only to external deeds but also to internal solicitude. For every time has its own fitting proper solicitude; thus solicitude about the crops belongs to the summer time, and solicitude about the vintage to the time of autumn. Accordingly if a man were solicitous about the vintage during the summer, he would be needlessly forestalling the solicitude belonging to a future time. Hence Our Lord forbids such like excessive solicitude, saying: "Be . . . not solicitous for tomorrow," wherefore He adds, "for the morrow will be solicitous for itself," that is to say, the morrow will have its own solicitude, which will be burden enough for the soul. This is what He means by adding: "Sufficient for the day is the evil thereof," namely, the burden of solicitude.
+
 ## Replies
+
 Reply to Objection 1: The ant is solicitous at a befitting time, and it is this that is proposed for our example.
+
 Reply to Objection 2: Due foresight of the future belongs to prudence. But it would be an inordinate foresight or solicitude about the future, if a man were to seek temporal things, to which the terms "past" and "future" apply, as ends, or if he were to seek them in excess of the needs of the present life, or if he were to forestall the time for solicitude.
+
 Reply to Objection 3: As Augustine says (De Serm. Dom. in Monte ii, 17), "when we see a servant of God taking thought lest he lack these needful things, we must not judge him to be solicitous for the morrow, since even Our Lord deigned for our example to have a purse, and we read in the Acts of the Apostles that they procured the necessary means of livelihood in view of the future on account of a threatened famine. Hence Our Lord does not condemn those who according to human custom, provide themselves with such things, but those who oppose themselves to God for the sake of these things."

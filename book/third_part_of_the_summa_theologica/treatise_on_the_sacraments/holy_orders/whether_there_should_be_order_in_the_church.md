@@ -1,12 +1,23 @@
 # Whether There Should Be Order In The Church?
+
 ## Objections
+
 Objection 1: It would seem that there should not be Order in the Church. For Order requires subjection and preeminence. But subjection seemingly is incompatible with the liberty whereunto we are called by Christ. Therefore there should not be Order in the Church.
+
 Objection 2: Further, he who has received an Order becomes another's superior. But in the Church everyone should deem himself lower than another (Phil. 2:3): "Let each esteem others better than themselves." Therefore Order should not be in the Church.
+
 Objection 3: Further, we find order among the angels on account of their differing in natural and gratuitous gifts. But all men are one in nature, and it is not known who has the higher gifts of grace. Therefore Order should not be in the Church.
+
 ## Answer
+
 On the contrary, "Those things that are of God, are in order [*Vulg: 'Those (powers) that are, are ordained of God.']." Now the Church is of God, for He Himself built it with His blood. Therefore there ought to be Order in the Church.
+
 I answer that, God wished to produce His works in likeness to Himself, as far as possible, in order that they might be perfect, and that He might be known through them. Hence, that He might be portrayed in His works, not only according to what He is in Himself, but also according as He acts on others, He laid this natural law on all things, that last things should be reduced and perfected by middle things, and middle things by the first, as Dionysius says (Eccl. Hier. v). Wherefore that this beauty might not be lacking to the Church, He established Order in her so that some should deliver the sacraments to others, being thus made like to God in their own way, as co-operating with God; even as in the natural body, some members act on others.
+
 ## Replies
+
 Reply to Objection 1: The subjection of slavery is incompatible with liberty; for slavery consists in lording over others and employing them for one's own profit. Such subjection is not required in Order, whereby those who preside have to seek the salvation of their subjects and not their own profit.
+
 Reply to Objection 2: Each one should esteem himself lower in merit, not in office; and orders are a kind of office.
+
 Reply to Objection 3: Order among the angels does not arise from difference of nature, unless accidentally, in so far as difference of grace results in them from difference of nature. But in them it results directly from their difference in grace; because their orders regard their participation of divine things, and their communicating them in the state of glory, which is according to the measure of grace, as being the end and effect, so to speak, of grace. on the other hand, the Orders of the Church militant regard the participation in the sacraments and the communication thereof, which are the cause of grace and, in a way, precede grace; and consequently our Orders do not require sanctifying grace, but only the power to dispense the sacraments; for which reason order does not correspond to the difference of sanctifying grace, but to the difference of power.

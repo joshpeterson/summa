@@ -1,12 +1,23 @@
 # Whether Paul, When In Rapture, Was Withdrawn From His Senses?
+
 ## Objections
+
 Objection 1: It would seem that Paul, when in rapture, was not withdrawn from his senses. For Augustine says (Gen. ad lit. xii, 28): "Why should we not believe that when so great an apostle, the teacher of the gentiles, was rapt to this most sublime vision, God was willing to vouchsafe him a glimpse of that eternal life which is to take the place of the present life?" Now in that future life after the resurrection the saints will see the Divine essence without being withdrawn from the senses of the body. Therefore neither did such a withdrawal take place in Paul.
+
 Objection 2: Further, Christ was truly a wayfarer, and also enjoyed an uninterrupted vision of the Divine essence, without, however, being withdrawn from His senses. Therefore there was no need for Paul to be withdrawn from his senses in order for him to see the essence of God.
+
 Objection 3: Further, after seeing God in His essence, Paul remembered what he had seen in that vision; hence he said (2 Cor. 12:4): "He heard secret words, which it is not granted to man to utter." Now the memory belongs to the sensitive faculty according to the Philosopher (De Mem. et Remin. i). Therefore it seems that Paul, while seeing the essence of God, was not withdrawn from his senses.
+
 ## Answer
+
 On the contrary, Augustine says (Gen. ad lit. xii, 27): "Unless a man in some way depart this life, whether by going altogether out of his body or by turning away and withdrawing from his carnal senses, so that he truly knows not as the Apostle said, whether he be in the body or out of the body, he is not rapt and caught up into that vision.*" [*The text of St. Augustine reads: "when he is rapt," etc.]
+
 I answer that, The Divine essence cannot be seen by man through any cognitive power other than the intellect. Now the human intellect does not turn to intelligible objects except by means of the phantasms [*Cf. [3699]FP, Q[84], A[7]] which it takes from the senses through the intelligible species; and it is in considering these phantasms that the intellect judges of and coordinates sensible objects. Hence in any operation that requires abstraction of the intellect from phantasms, there must be also withdrawal of the intellect from the senses. Now in the state of the wayfarer it is necessary for man's intellect, if it see God's essence, to be withdrawn from phantasms. For God's essence cannot be seen by means of a phantasm, nor indeed by any created intelligible species [*Cf. [3700]FP, Q[12], A[2]], since God's essence infinitely transcends not only all bodies, which are represented by phantasms, but also all intelligible creatures. Now when man's intellect is uplifted to the sublime vision of God's essence, it is necessary that his mind's whole attention should be summoned to that purpose in such a way that he understand naught else by phantasms, and be absorbed entirely in God. Therefore it is impossible for man while a wayfarer to see God in His essence without being withdrawn from his senses.
+
 ## Replies
+
 Reply to Objection 1: As stated above (A[3], OBJ[2]), after the resurrection, in the blessed who see God in His essence, there will be an overflow from the intellect to the lower powers and even to the body. Hence it is in keeping with the rule itself of the divine vision that the soul will turn towards phantasms and sensible objects. But there is no such overflow in those who are raptured, as stated (A[3], OBJ[2], ad 2), and consequently the comparison fails.
+
 Reply to Objection 2: The intellect of Christ's soul was glorified by the habit of the light of glory, whereby He saw the Divine essence much more fully than an angel or a man. He was, however, a wayfarer on account of the passibility of His body, in respect of which He was "made a little lower than the angels" (Heb. 2:9), by dispensation, and not on account of any defect on the part of His intellect. Hence there is no comparison between Him and other wayfarers.
+
 Reply to Objection 3: Paul, after seeing God in His essence, remembered what he had known in that vision, by means of certain intelligible species that remained in his intellect by way of habit; even as in the absence of the sensible object, certain impressions remain in the soul which it recollects when it turns to the phantasms. And so this was the knowledge that he was unable wholly to think over or express in words.

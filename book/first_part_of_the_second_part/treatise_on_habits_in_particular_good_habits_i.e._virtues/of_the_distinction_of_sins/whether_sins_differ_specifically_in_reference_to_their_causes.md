@@ -1,12 +1,23 @@
 # Whether Sins Differ Specifically In Reference To Their Causes?
+
 ## Objections
+
 Objection 1: It would seem that sins differ specifically in reference to their causes. For a thing takes its species from that whence it derives its being. Now sins derive their being from their causes. Therefore they take their species from them also. Therefore they differ specifically in reference to their causes.
+
 Objection 2: Further, of all the causes the material cause seems to have least reference to the species. Now the object in a sin is like its material cause. Since, therefore, sins differ specifically according to their objects, it seems that much more do they differ in reference to their other causes.
+
 Objection 3: Further, Augustine, commenting on Ps. 79:17, "Things set on fire and dug down," says that "every sin is due either to fear inducing false humility, or to love enkindling us to undue ardor." For it is written (1 Jn. 2:16) that "all that is in the world, is the concupiscence of the flesh, or [Vulg.: 'and'] the concupiscence of the eyes, or [Vulg.: 'and'] the pride of life." Now a thing is said to be in the world on account of sin, in as much as the world denotes lovers of the world, as Augustine observes (Tract. ii in Joan.). Gregory, too (Moral. xxxi, 17), distinguishes all sins according to the seven capital vices. Now all these divisions refer to the causes of sins. Therefore, seemingly, sins differ specifically according to the diversity of their causes.
+
 ## Answer
+
 On the contrary, If this were the case all sins would belong to one species, since they are due to one cause. For it is written (Ecclus. 10:15) that "pride is the beginning of all sin," and (1 Tim. 6:10) that "the desire of money is the root of all evils." Now it is evident that there are various species of sins. Therefore sins do not differ specifically according to their different causes.
+
 I answer that, Since there are four kinds of causes, they are attributed to various things in various ways. Because the "formal" and the "material" cause regard properly the substance of a thing; and consequently substances differ in respect of their matter and form, both in species and in genus. The "agent" and the "end" regard directly movement and operation: wherefore movements and operations differ specifically in respect of these causes; in different ways, however, because the natural active principles are always determined to the same acts; so that the different species of natural acts are taken not only from the objects, which are the ends or terms of those acts, but also from their active principles: thus heating and cooling are specifically distinct with reference to hot and cold. On the other hand, the active principles in voluntary acts, such as the acts of sins, are not determined, of necessity, to one act, and consequently from one active or motive principle, diverse species of sins can proceed: thus from fear engendering false humility man may proceed to theft, or murder, or to neglect the flock committed to his care; and these same things may proceed from love enkindling to undue ardor. Hence it is evident that sins do not differ specifically according to their various active or motive causes, but only in respect of diversity in the final cause, which is the end and object of the will. For it has been shown above ([1706]Q[1], A[3];[1707] Q[18], AA[4],6) that human acts take their species from the end.
+
 ## Replies
+
 Reply to Objection 1: The active principles in voluntary acts, not being determined to one act, do not suffice for the production of human acts, unless the will be determined to one by the intention of the end, as the Philosopher proves (Metaph. ix, text. 15,16), and consequently sin derives both its being and its species from the end.
+
 Reply to Objection 2: Objects, in relation to external acts, have the character of matter "about which"; but, in relation to the interior act of the will, they have the character of end; and it is owing to this that they give the act its species. Nevertheless, even considered as the matter "about which," they have the character of term, from which movement takes its species (Phys. v, text. 4; Ethic. x, 4); yet even terms of movement specify movements, in so far as term has the character of end.
+
 Reply to Objection 3: These distinctions of sins are given, not as distinct species of sins, but to show their various causes.

@@ -1,13 +1,23 @@
 # Whether An Angel Can Understand Many Things At The Same Time?
+
 ## Objections
+
 Objection 1: It would seem that an angel cannot understand many things at the same time. For the Philosopher says (Topic. ii, 4) that "it may happen that we know many things, but understand only one."
+
 Objection 2: Further, nothing is understood unless the intellect be informed by an intelligible species; just at the body is formed by shape. But one body cannot be formed into many shapes. Therefore neither can one intellect simultaneously understand various intelligible things.
+
 Objection 3: Further, to understand is a kind of movement. But no movement terminates in various terms. Therefore many things cannot be understood altogether.
+
 ## Answer
+
 On the contrary, Augustine says (Gen. ad lit. iv, 32): "The spiritual faculty of the angelic mind comprehends most easily at the same time all things that it wills."
+
 I answer that, As unity of term is requisite for unity of movement, so is unity of object required for unity of operation. Now it happens that several things may be taken as several or as one; like the parts of a continuous whole. For if each of the parts be considered severally they are many: consequently neither by sense nor by intellect are they grasped by one operation, nor all at once. In another way they are taken as forming one in the whole; and so they are grasped both by sense and intellect all at once and by one operation; as long as the entire continuous whole is considered, as is stated in De Anima iii, text. 23. In this way our intellect understands together both the subject and the predicate, as forming parts of one proposition; and also two things compared together, according as they agree in one point of comparison. From this it is evident that many things, in so far as they are distinct, cannot be understood at once; but in so far as they are comprised under one intelligible concept, they can be understood together. Now everything is actually intelligible according as its image is in the intellect. All things, then, which can be known by one intelligible species, are known as one intelligible object, and therefore are understood simultaneously. But things known by various intelligible species, are apprehended as different intelligible objects.
 
 Consequently, by such knowledge as the angels have of things through the Word, they know all things under one intelligible species, which is the Divine essence. Therefore, as regards such knowledge, they know all things at once: just as in heaven "our thoughts will not be fleeting, going and returning from one thing to another, but we shall survey all our knowledge at the same time by one glance," as Augustine says (De Trin. xv, 16). But by that knowledge wherewith the angels know things by innate species, they can at one time know all things which can be comprised under one species; but not such as are under various species.
+
 ## Replies
+
 Reply to Objection 1: To understand many things as one, is, so to speak, to understand one thing.
+
 Reply to Objection 2: The intellect is informed by the intelligible species which it has within it. So it can behold at the same time many intelligible objects under one species; as one body can by one shape be likened to many bodies.

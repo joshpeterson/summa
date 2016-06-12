@@ -1,14 +1,25 @@
 # Whether The Just Man Alone May Eat Christ Sacramentally?
+
 ## Objections
+
 Objection 1: It seems that none but the just man may eat Christ sacramentally. For Augustine says in his book De Remedio Penitentiae (cf. Tract. in Joan. xxv, n. 12; xxvi, n. 1): "Why make ready tooth and belly? Believe, and thou hast eaten . . . For to believe in Him, this it is, to eat the living bread." But the sinner does not believe in Him; because he has not living faith, to which it belongs to believe "in God," as stated above in the [4638]SS, Q[2], A[2]; [4639]SS, Q[4], A[5]. Therefore the sinner cannot eat this sacrament, which is the living bread.
+
 Objection 2: Further, this sacrament is specially called "the sacrament of charity," as stated above ([4640]Q[78], A[3], ad 6). But as unbelievers lack faith, so all sinners lack charity. Now unbelievers do not seem to be capable of eating this sacrament, since in the sacramental form it is called the "Mystery of Faith." Therefore, for like reason, the sinner cannot eat Christ's body sacramentally.
+
 Objection 3: Further, the sinner is more abominable before God than the irrational creature: for it is said of the sinner (Ps. 48:21): "Man when he was in honor did not understand; he hath been compared to senseless beasts, and made like to them." But an irrational animal, such as a mouse or a dog, cannot receive this sacrament, just as it cannot receive the sacrament of Baptism. Therefore it seems that for the like reason neither may sinners eat this sacrament.
+
 ## Answer
+
 On the contrary, Augustine (Tract. xxvi in Joan.), commenting on the words, "that if any man eat of it he may not die," says: "Many receive from the altar, and by receiving die: whence the Apostle saith, 'eateth and drinketh judgment to himself.'" But only sinners die by receiving. Therefore sinners eat the body of Christ sacramentally, and not the just only.
+
 I answer that, In the past, some have erred upon this point, saying that Christ's body is not received sacramentally by sinners; but that directly the body is touched by the lips of sinners, it ceases to be under the sacramental species.
 
 But this is erroneous; because it detracts from the truth of this sacrament, to which truth it belongs that so long as the species last, Christ's body does not cease to be under them, as stated above ([4641]Q[76], A[6], ad 3;[4642] Q[77], A[8]). But the species last so long as the substance of the bread would remain, if it were there, as was stated above ([4643]Q[77], A[4]). Now it is clear that the substance of bread taken by a sinner does not at once cease to be, but it continues until digested by natural heat: hence Christ's body remains just as long under the sacramental species when taken by sinners. Hence it must be said that the sinner, and not merely the just, can eat Christ's body.
+
 ## Replies
+
 Reply to Objection 1: Such words and similar expressions are to be understood of spiritual eating, which does not belong to sinners. Consequently, it is from such expressions being misunderstood that the above error seems to have arisen, through ignorance of the distinction between corporeal and spiritual eating.
+
 Reply to Objection 2: Should even an unbeliever receive the sacramental species, he would receive Christ's body under the sacrament: hence he would eat Christ sacramentally, if the word "sacramentally" qualify the verb on the part of the thing eaten. But if it qualify the verb on the part of the one eating, then, properly speaking, he does not eat sacramentally, because he uses what he takes, not as a sacrament, but as simple food. Unless perchance the unbeliever were to intend to receive what the Church bestows; without having proper faith regarding the other articles, or regarding this sacrament.
+
 Reply to Objection 3: Even though a mouse or a dog were to eat the consecrated host, the substance of Christ's body would not cease to be under the species, so long as those species remain, and that is, so long as the substance of bread would have remained; just as if it were to be cast into the mire. Nor does this turn to any indignity regarding Christ's body, since He willed to be crucified by sinners without detracting from His dignity; especially since the mouse or dog does not touch Christ's body in its proper species, but only as to its sacramental species. Some, however, have said that Christ's body would cease to be there, directly it were touched by a mouse or a dog; but this again detracts from the truth of the sacrament, as stated above. None the less it must not be said that the irrational animal eats the body of Christ sacramentally; since it is incapable of using it as a sacrament. Hence it eats Christ's body "accidentally," and not sacramentally, just as if anyone not knowing a host to be consecrated were to consume it. And since no genus is divided by an accidental difference, therefore this manner of eating Christ's body is not set down as a third way besides sacramental and spiritual eating.

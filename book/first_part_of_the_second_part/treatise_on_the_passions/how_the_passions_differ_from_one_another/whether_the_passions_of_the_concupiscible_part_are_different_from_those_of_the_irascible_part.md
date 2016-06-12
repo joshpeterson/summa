@@ -1,14 +1,25 @@
 # Whether The Passions Of The Concupiscible Part Are Different From Those Of The Irascible Part?
+
 ## Objections
+
 Objection 1: It would seem that the same passions are in the irascible and concupiscible parts. For the Philosopher says (Ethic. ii, 5) that the passions of the soul are those emotions "which are followed by joy or sorrow." But joy and sorrow are in the concupiscible part. Therefore all the passions are in the concupiscible part, and not some in the irascible, others in the concupiscible part.
+
 Objection 2: Further, on the words of Mat. 13:33, "The kingdom of heaven is like to leaven," etc., Jerome's gloss says: "We should have prudence in the reason; hatred of vice in the irascible faculty; desire of virtue, in the concupiscible part." But hatred is in the concupiscible faculty, as also is love, of which it is the contrary, as is stated in Topic. ii, 7. Therefore the same passion is in the concupiscible and irascible faculties.
+
 Objection 3: Further, passions and actions differ specifically according to their objects. But the objects of the irascible and concupiscible passions are the same, viz. good and evil. Therefore the same passions are in the irascible and concupiscible faculties.
+
 ## Answer
+
 On the contrary, The acts of the different powers differ in species; for instance, to see, and to hear. But the irascible and the concupiscible are two powers into which the sensitive appetite is divided, as stated in the [1210]FP, Q[81], A[2]. Therefore, since the passions are movements of the sensitive appetite, as stated above (Q[22], A[3]), the passions of the irascible faculty are specifically distinct from those of the concupiscible part.
+
 I answer that, The passions of the irascible part differ in species from those of the concupiscible faculty. For since different powers have different objects, as stated in the [1211]FP, Q[77], A[3], the passions of different powers must of necessity be referred to different objects. Much more, therefore, do the passions of different faculties differ in species; since a greater difference in the object is required to diversify the species of the powers, than to diversify the species of passions or actions. For just as in the physical order, diversity of genus arises from diversity in the potentiality of matter, while diversity of species arises from diversity of form in the same matter; so in the acts of the soul, those that belong to different powers, differ not only in species but also in genus, while acts and passions regarding different specific objects, included under the one common object of a single power, differ as the species of that genus.
 
 In order, therefore, to discern which passions are in the irascible, and which in the concupiscible, we must take the object of each of these powers. For we have stated in the [1212]FP, Q[81], A[2], that the object of the concupiscible power is sensible good or evil, simply apprehended as such, which causes pleasure or pain. But, since the soul must, of necessity, experience difficulty or struggle at times, in acquiring some such good, or in avoiding some such evil, in so far as such good or evil is more than our animal nature can easily acquire or avoid; therefore this very good or evil, inasmuch as it is of an arduous or difficult nature, is the object of the irascible faculty. Therefore whatever passions regard good or evil absolutely, belong to the concupiscible power; for instance, joy, sorrow, love, hatred, and such like: whereas those passions which regard good or bad as arduous, through being difficult to obtain or avoid, belong to the irascible faculty; such are daring, fear, hope and the like.
+
 ## Replies
+
 Reply to Objection 1: As stated in the [1213]FP, Q[81], A[2], the irascible faculty is bestowed on animals, in order to remove the obstacles that hinder the concupiscible power from tending towards its object, either by making some good difficult to obtain, or by making some evil hard to avoid. The result is that all the irascible passions terminate in the concupiscible passions: and thus it is that even the passions which are in the irascible faculty are followed by joy and sadness which are in the concupiscible faculty.
+
 Reply to Objection 2: Jerome ascribes hatred of vice to the irascible faculty, not by reason of hatred, which is properly a concupiscible passion; but on account of the struggle, which belongs to the irascible power.
+
 Reply to Objection 3: Good, inasmuch as it is delightful, moves the concupiscible power. But if it prove difficult to obtain, from this very fact it has a certain contrariety to the concupiscible power: and hence the need of another power tending to that good. The same applies to evil. And this power is the irascible faculty. Consequently the concupiscible passions are specifically different from the irascible passions.

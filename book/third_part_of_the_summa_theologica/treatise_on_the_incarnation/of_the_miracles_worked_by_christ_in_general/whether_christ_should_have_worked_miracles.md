@@ -1,16 +1,27 @@
 # Whether Christ Should Have Worked Miracles?
+
 ## Objections
+
 Objection 1: It would seem that Christ should not have worked miracles. For Christ's deeds should have been consistent with His words. But He Himself said (Mat. 16:4): "A wicked and adulterous generation seeketh after a sign; and a sign shall not be given it, but the sign of Jonas the prophet." Therefore He should not have worked miracles.
+
 Objection 2: Further, just as Christ, at His second coming, is to come "with" great power and majesty, as is written Mat. 24:30, so at His first coming He came in infirmity, according to Is. 53:3: "A man of sorrows and acquainted with infirmity." But the working of miracles belongs to power rather than to infirmity. Therefore it was not fitting that He should work miracles in His first coming.
+
 Objection 3: Further, Christ came that He might save men by faith; according to Heb. 12:2: "Looking on Jesus, the author and finisher of faith." But miracles lessen the merit of faith; hence our Lord says (Jn. 4:48): "Unless you see signs and wonders you believe not." Therefore it seems that Christ should not have worked miracles.
+
 ## Answer
+
 On the contrary, It was said in the person of His adversaries (Jn. 11:47): "What do we; for this man doth many miracles?"
+
 I answer that, God enables man to work miracles for two reasons. First and principally, in confirmation of the doctrine that a man teaches. For since those things which are of faith surpass human reason, they cannot be proved by human arguments, but need to be proved by the argument of Divine power: so that when a man does works that God alone can do, we may believe that what he says is from God: just as when a man is the bearer of letters sealed with the king's ring, it is to be believed that what they contain expresses the king's will.
 
 Secondly, in order to make known God's presence in a man by the grace of the Holy Ghost: so that when a man does the works of God we may believe that God dwells in him by His grace. Wherefore it is written (Gal. 3:5): "He who giveth to you the Spirit, and worketh miracles among you."
 
 Now both these things were to be made known to men concerning Christ---namely, that God dwelt in Him by grace, not of adoption, but of union: and that His supernatural doctrine was from God. And therefore it was most fitting that He should work miracles. Wherefore He Himself says (Jn. 10:38): "Though you will not believe Me, believe the works"; and (Jn. 5:36): "The works which the Father hath given Me to perfect . . . themselves . . . give testimony to Me."
+
 ## Replies
+
 Reply to Objection 1: These words, "a sign shall not be given it, but the sign of Jonas," mean, as Chrysostom says (Hom. xliii in Matth.), that "they did not receive a sign such as they sought, viz. from heaven": but not that He gave them no sign at all. Or that "He worked signs not for the sake of those whom He knew to be hardened, but to amend others." Therefore those signs were given, not to them, but to others.
+
 Reply to Objection 2: Although Christ came "in the infirmity" of the flesh, which is manifested in the passions, yet He came "in the power of God" [*Cf. 2 Cor. 13:4], and this had to be made manifest by miracles.
+
 Reply to Objection 3: Miracles lessen the merit of faith in so far as those are shown to be hard of heart who are unwilling to believe what is proved from the Scriptures unless (they are convinced) by miracles. Yet it is better for them to be converted to the faith even by miracles than that they should remain altogether in their unbelief. For it is written (1 Cor. 14:22) that signs are given "to unbelievers," viz. that they may be converted to the faith.

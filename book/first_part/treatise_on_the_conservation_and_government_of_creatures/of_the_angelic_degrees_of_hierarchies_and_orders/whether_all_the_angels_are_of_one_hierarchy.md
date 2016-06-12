@@ -1,14 +1,25 @@
 # Whether All The Angels Are Of One Hierarchy?
+
 ## Objections
+
 Objection 1: It would seem that all the angels belong to one hierarchy. For since the angels are supreme among creatures, it is evident that they are ordered for the best. But the best ordering of a multitude is for it to be governed by one authority, as the Philosopher shows (Metaph. xii, Did. xi, 10; Polit. iii, 4). Therefore as a hierarchy is nothing but a sacred principality, it seems that all the angels belong to one hierarchy.
+
 Objection 2: Further, Dionysius says (Coel. Hier. iii) that "hierarchy is order, knowledge, and action." But all the angels agree in one order towards God, Whom they know, and by Whom in their actions they are ruled. Therefore all the angels belong to one hierarchy.
+
 Objection 3: Further, the sacred principality called hierarchy is to be found among men and angels. But all men are of one hierarchy. Therefore likewise all the angels are of one hierarchy.
+
 ## Answer
+
 On the contrary, Dionysius (Coel. Hier. vi) distinguishes three hierarchies of angels.
+
 I answer that, Hierarchy means a "sacred" principality, as above explained. Now principality includes two things: the prince himself and the multitude ordered under the prince. Therefore because there is one God, the Prince not only of all the angels but also of men and all creatures; so there is one hierarchy, not only of all the angels, but also of all rational creatures, who can be participators of sacred things; according to Augustine (De Civ. Dei xii, 1): "There are two cities, that is, two societies, one of the good angels and men, the other of the wicked." But if we consider the principality on the part of the multitude ordered under the prince, then principality is said to be "one" accordingly as the multitude can be subject in "one" way to the government of the prince. And those that cannot be governed in the same way by a prince belong to different principalities: thus, under one king there are different cities, which are governed by different laws and administrators. Now it is evident that men do not receive the Divine enlightenments in the same way as do the angels; for the angels receive them in their intelligible purity, whereas men receive them under sensible signs, as Dionysius says (Coel. Hier. i). Therefore there must needs be a distinction between the human and the angelic hierarchy. In the same manner we distinguish three angelic hierarchies. For it was shown above ([869]Q[55], A[3]), in treating of the angelic knowledge, that the superior angels have a more universal knowledge of the truth than the inferior angels. This universal knowledge has three grades among the angels. For the types of things, concerning which the angels are enlightened, can be considered in a threefold manner. First as preceding from God as the first universal principle, which mode of knowledge belongs to the first hierarchy, connected immediately with God, and, "as it were, placed in the vestibule of God," as Dionysius says (Coel. Hier. vii). Secondly, forasmuch as these types depend on the universal created causes which in some way are already multiplied; which mode belongs to the second hierarchy. Thirdly, forasmuch as these types are applied to particular things as depending on their causes; which mode belongs to the lowest hierarchy. All this will appear more clearly when we treat of each of the orders [870](A[6]). In this way are the hierarchies distinguished on the part of the multitude of subjects.
 
 Hence it is clear that those err and speak against the opinion of Dionysius who place a hierarchy in the Divine Persons, and call it the "supercelestial" hierarchy. For in the Divine Persons there exists, indeed, a natural order, but there is no hierarchical order, for as Dionysius says (Coel. Hier. iii): "The hierarchical order is so directed that some be cleansed, enlightened, and perfected; and that others cleanse, enlighten, and perfect"; which far be it from us to apply to the Divine Persons.
+
 ## Replies
+
 Reply to Objection 1: This objection considers principality on the part of the ruler, inasmuch as a multitude is best ruled by one ruler, as the Philosopher asserts in those passages.
+
 Reply to Objection 2: As regards knowing God Himself, Whom all see in one way---that is, in His essence---there is no hierarchical distinction among the angels; but there is such a distinction as regards the types of created things, as above explained.
+
 Reply to Objection 3: All men are of one species, and have one connatural mode of understanding; which is not the case in the angels: and hence the same argument does not apply to both.

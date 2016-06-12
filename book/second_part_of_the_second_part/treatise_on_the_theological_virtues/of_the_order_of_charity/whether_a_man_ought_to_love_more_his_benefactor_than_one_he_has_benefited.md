@@ -1,14 +1,25 @@
 # Whether A Man Ought To Love More His Benefactor Than One He Has Benefited?
+
 ## Objections
+
 Objection 1: It would seem that a man ought to love his benefactor more than one he has benefited. For Augustine says (De Catech. Rud. iv): "Nothing will incite another more to love you than that you love him first: for he must have a hard heart indeed, who not only refuses to love, but declines to return love already given." Now a man's benefactor forestalls him in the kindly deeds of charity. Therefore we ought to love our benefactors above all.
+
 Objection 2: Further, the more grievously we sin by ceasing to love a man or by working against him, the more ought we to love him. Now it is a more grievous sin to cease loving a benefactor or to work against him, than to cease loving one to whom one has hitherto done kindly actions. Therefore we ought to love our benefactors more than those to whom we are kind.
+
 Objection 3: Further, of all things lovable, God is to be loved most, and then one's father, as Jerome says [*Comment. in Ezechiel xliv, 25]. Now these are our greatest benefactors. Therefore a benefactor should be loved above all others.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. ix, 7), that "benefactors seem to love recipients of their benefactions, rather than vice versa."
+
 I answer that, As stated above ([2566]AA[9],11), a thing is loved more in two ways: first because it has the character of a more excellent good, secondly by reason of a closer connection. In the first way we ought to love our benefactor most, because, since he is a principle of good to the man he has benefited, he has the character of a more excellent good, as stated above with regard to one's father [2567](A[9]).
 
 In the second way, however, we love those more who have received benefactions from us, as the Philosopher proves (Ethic. ix, 7) by four arguments. First because the recipient of benefactions is the handiwork of the benefactor, so that we are wont to say of a man: "He was made by so and so." Now it is natural to a man to love his own work (thus it is to be observed that poets love their own poems): and the reason is that we love "to be" and "to live," and these are made manifest in our "action." Secondly, because we all naturally love that in which we see our own good. Now it is true that the benefactor has some good of his in the recipient of his benefaction, and the recipient some good in the benefactor; but the benefactor sees his virtuous good in the recipient, while the recipient sees his useful good in the benefactor. Now it gives more pleasure to see one's virtuous good than one's useful good, both because it is more enduring for usefulness quickly flits by, and the pleasure of calling a thing to mind is not like the pleasure of having it present and because it is more pleasant to recall virtuous goods than the profit we have derived from others. Thirdly, because is it the lover's part to act, since he wills and works the good of the beloved, while the beloved takes a passive part in receiving good, so that to love surpasses being loved, for which reason the greater love is on the part of the benefactor. Fourthly because it is more difficult to give than to receive favors: and we are most fond of things which have cost us most trouble, while we almost despise what comes easy to us.
+
 ## Replies
+
 Reply to Objection 1: It is some thing in the benefactor that incites the recipient to love him: whereas the benefactor loves the recipient, not through being incited by him, but through being moved thereto of his own accord: and what we do of our own accord surpasses what we do through another.
+
 Reply to Objection 2: The love of the beneficiary for the benefactor is more of a duty, wherefore the contrary is the greater sin. On the other hand, the love of the benefactor for the beneficiary is more spontaneous, wherefore it is quicker to act.
+
 Reply to Objection 3: God also loves us more than we love Him, and parents love their children more than these love them. Yet it does not follow that we love all who have received good from us, more than any of our benefactors. For we prefer such benefactors as God and our parents, from whom we have received the greatest favors, to those on whom we have bestowed lesser benefits.

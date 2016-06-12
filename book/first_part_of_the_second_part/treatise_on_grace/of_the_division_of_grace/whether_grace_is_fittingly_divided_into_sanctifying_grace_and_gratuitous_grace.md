@@ -1,14 +1,25 @@
 # Whether Grace Is Fittingly Divided Into Sanctifying Grace And Gratuitous Grace?
+
 ## Objections
+
 Objection 1: It would seem that grace is not fittingly divided into sanctifying grace and gratuitous grace. For grace is a gift of God, as is clear from what has been already stated ([2196]Q[110], A[1]). But man is not therefore pleasing to God because something is given him by God, but rather on the contrary; since something is freely given by God, because man is pleasing to Him. Hence there is no sanctifying grace.
+
 Objection 2: Further, whatever is not given on account of preceding merits is given gratis. Now even natural good is given to man without preceding merit, since nature is presupposed to merit. Therefore nature itself is given gratuitously by God. But nature is condivided with grace. Therefore to be gratuitously given is not fittingly set down as a difference of grace, since it is found outside the genus of grace.
+
 Objection 3: Further, members of a division are mutually opposed. But even sanctifying grace, whereby we are justified, is given to us gratuitously, according to Rom. 3:24: "Being justified freely [gratis] by His grace." Hence sanctifying grace ought not to be divided against gratuitous grace.
+
 ## Answer
+
 On the contrary, The Apostle attributes both to grace, viz. to sanctify and to be gratuitously given. For with regard to the first he says (Eph. 1:6): "He hath graced us in His beloved son." And with regard to the second (Rom. 2:6): "And if by grace, it is not now by works, otherwise grace is no more grace." Therefore grace can be distinguished by its having one only or both.
+
 I answer that, As the Apostle says (Rom. 13:1), "those things that are of God are well ordered [Vulg.: 'those that are, are ordained by God]." Now the order of things consists in this, that things are led to God by other things, as Dionysius says (Coel. Hier. iv). And hence since grace is ordained to lead men to God, this takes place in a certain order, so that some are led to God by others.
 
 And thus there is a twofold grace: one whereby man himself is united to God, and this is called "sanctifying grace"; the other is that whereby one man cooperates with another in leading him to God, and this gift is called "gratuitous grace," since it is bestowed on a man beyond the capability of nature, and beyond the merit of the person. But whereas it is bestowed on a man, not to justify him, but rather that he may cooperate in the justification of another, it is not called sanctifying grace. And it is of this that the Apostle says (1 Cor. 12:7): "And the manifestation of the Spirit is given to every man unto utility," i.e. of others.
+
 ## Replies
+
 Reply to Objection 1: Grace is said to make pleasing, not efficiently but formally, i.e. because thereby a man is justified, and is made worthy to be called pleasing to God, according to Col. 1:21: "He hath made us worthy to be made partakers of the lot of the saints in light."
+
 Reply to Objection 2: Grace, inasmuch as it is gratuitously given, excludes the notion of debt. Now debt may be taken in two ways: first, as arising from merit; and this regards the person whose it is to do meritorious works, according to Rom. 4:4: "Now to him that worketh, the reward is not reckoned according to grace, but according to debt." The second debt regards the condition of nature. Thus we say it is due to a man to have reason, and whatever else belongs to human nature. Yet in neither way is debt taken to mean that God is under an obligation to His creature, but rather that the creature ought to be subject to God, that the Divine ordination may be fulfilled in it, which is that a certain nature should have certain conditions or properties, and that by doing certain works it should attain to something further. And hence natural endowments are not a debt in the first sense but in the second. Hence they especially merit the name of grace.
+
 Reply to Objection 3: Sanctifying grace adds to the notion of gratuitous grace something pertaining to the nature of grace, since it makes man pleasing to God. And hence gratuitous grace which does not do this keeps the common name, as happens in many other cases; and thus the two parts of the division are opposed as sanctifying and non-sanctifying grace.

@@ -1,14 +1,27 @@
 # Whether Truth Is Immutable?
+
 ## Objections
+
 Objection 1: It seems that truth is immutable. For Augustine says (De Lib. Arbit. ii, 12), that "Truth and mind do not rank as equals, otherwise truth would be mutable, as the mind is."
+
 Objection 2: Further, what remains after every change is immutable; as primary matter is unbegotten and incorruptible, since it remains after all generation and corruption. But truth remains after all change; for after every change it is true to say that a thing is, or is not. Therefore truth is immutable.
+
 Objection 3: Further, if the truth of an enunciation changes, it changes mostly with the changing of the thing. But it does not thus change. For truth, according to Anselm (De Verit. viii), "is a certain rightness" in so far as a thing answers to that which is in the divine mind concerning it. But this proposition that "Socrates sits", receives from the divine mind the signification that Socrates does sit; and it has the same signification even though he does not sit. Therefore the truth of the proposition in no way changes.
+
 Objection 4: Further, where there is the same cause, there is the same effect. But the same thing is the cause of the truth of the three propositions, "Socrates sits, will sit, sat." Therefore the truth of each is the same. But one or other of these must be the true one. Therefore the truth of these propositions remains immutable; and for the same reason that of any other.
+
 ## Answer
+
 On the contrary, It is written (Ps. 11:2),"Truths are decayed from among the children of men."
+
 I answer that, Truth, properly speaking, resides only in the intellect, as said before [116](A[1]); but things are called true in virtue of the truth residing in an intellect. Hence the mutability of truth must be regarded from the point of view of the intellect, the truth of which consists in its conformity to the thing understood. Now this conformity may vary in two ways, even as any other likeness, through change in one of the two extremes. Hence in one way truth varies on the part of the intellect, from the fact that a change of opinion occurs about a thing which in itself has not changed, and in another way, when the thing is changed, but not the opinion; and in either way there can be a change from true to false. If, then, there is an intellect wherein there can be no alternation of opinions, and the knowledge of which nothing can escape, in this is immutable truth. Now such is the divine intellect, as is clear from what has been said before ([117]Q[14], A[15]). Hence the truth of the divine intellect is immutable. But the truth of our intellect is mutable; not because it is itself the subject of change, but in so far as our intellect changes from truth to falsity, for thus forms may be called mutable. Whereas the truth of the divine intellect is that according to which natural things are said to be true, and this is altogether immutable.
+
 ## Replies
+
 Reply to Objection 1: Augustine is speaking of divine truth.
+
 Reply to Objection 2: The true and being are convertible terms. Hence just as being is not generated nor corrupted of itself, but accidentally, in so far as this being or that is corrupted or generated, as is said in Phys. i, so does truth change, not so as that no truth remains, but because that truth does not remain which was before.
+
 Reply to Objection 3: A proposition not only has truth, as other things are said to have it, in so far, that is, as they correspond to that which is the design of the divine intellect concerning them; but it said to have truth in a special way, in so far as it indicates the truth of the intellect, which consists in the conformity of the intellect with a thing. When this disappears, the truth of an opinion changes, and consequently the truth of the proposition. So therefore this proposition, "Socrates sits," is true, as long as he is sitting, both with the truth of the thing, in so far as the expression is significative, and with the truth of signification, in so far as it signifies a true opinion. When Socrates rises, the first truth remains, but the second is changed.
+
 Reply to Objection 4: The sitting of Socrates, which is the cause of the truth of the proposition, "Socrates sits," has not the same meaning when Socrates sits, after he sits, and before he sits. Hence the truth which results, varies, and is variously signified by these propositions concerning present, past, or future. Thus it does not follow, though one of the three propositions is true, that the same truth remains invariable.

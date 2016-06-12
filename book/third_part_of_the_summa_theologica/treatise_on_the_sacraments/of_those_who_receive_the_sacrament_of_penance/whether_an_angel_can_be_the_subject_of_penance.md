@@ -1,13 +1,25 @@
 # Whether An Angel Can Be The Subject Of Penance?
+
 ## Objections
+
 Objection 1: It would seem that even a good or bad angel can be a subject of penance. For fear is the beginning of penance. But fear is in the angels, according to James 2:19: "The devils . . . believe and tremble." Therefore there can be penance in them.
+
 Objection 2: Further, the Philosopher says (Ethic. ix, 4) that "evil men are full of repentance, and this is a great punishment for them." Now the devils are exceeding evil, nor is there any punishment that they lack. Therefore they can repent.
+
 Objection 3: Further, a thing is more easily moved to that which is according to its nature than to that which is against its nature: thus water which has by violence been heated, of itself returns to its natural property. Now angels can be moved to sin which is contrary to their common nature. Much more therefore can they return to that which is in accord with their nature. But this is done by penance. Therefore they are susceptible to penance.
+
 Objection 4: Further, what applies to angels, applies equally to separated souls, as Damascene says (De Fide Orth. ii, 4). But there can be penance in separated souls, as some say, as in the souls of the blessed in heaven. Therefore there can be penance in the angels.
+
 ## Answer
+
 On the contrary, By penance man obtains pardon for the sin he has committed. But this is impossible in the angels. Therefore they are not subjects of penance.
+
 I answer that, In us, penance is taken in two senses; first, as a passion, and thus it is nothing but pain or sorrow on account of a sin committed: and though, as a passion it is only in the concupiscible part, yet, by way of comparison, the name of penance is given to that act of the will, whereby a man detests what he has done, even as love and other passions are spoken of as though they were in the intellectual appetite. Secondly, penance is taken as a virtue, and in this way its act consists in the detestation of evil done, together with the purpose of amendment and the intention of expiating the evil, or of placating God for the offense committed. Now detestation of evil befits a person according as he is naturally ordained to good. And since this order or inclination is not entirely destroyed in any creature, it remains even in the damned, and consequently the passion of repentance, or something like it, remains in them too, as stated in Wis. 5:3 "(saying) within themselves, repenting," etc. This repentance, as it is not a habit, but a passion or act, can by no means be in the blessed angels, who have not committed any sins: but it is in the wicked angels, since the same applies to them as to the lost souls, for, according to Damascene (De Fide Orth. ii, 4), "death is to men what sin is to an angel." But no forgiveness is possible for the sin of an angel. Now sin is the proper object of the virtue itself which we call penance, in so far as it can be pardoned or expiated. Therefore, since the wicked angels cannot have the matter, they have not the power to produce the act, so that neither can they have the habit. Hence the angels cannot be subjects of the virtue of penance.
+
 ## Replies
+
 Reply to Objection 1: A certain movement of penance is engendered in them from fear, but not such as is a virtue.
+
 Reply to Objection 3: Whatever is natural in them is entirely good, and inclines to good: but their free-will is fixed on evil. And since the movement of virtue and vice follows the inclination, not of nature, but of the free-will, there is no need that there should be movements of virtue in them either actually or possibly, although they are inclined to good by nature.
+
 Reply to Objection 4: There is no parity between the holy angels and the beatified souls, because in the latter there has been or could have been a sin that could be pardoned, but not in the former: so that though they are like as to their present state, they differ as to their previous states, which penance regards directly.

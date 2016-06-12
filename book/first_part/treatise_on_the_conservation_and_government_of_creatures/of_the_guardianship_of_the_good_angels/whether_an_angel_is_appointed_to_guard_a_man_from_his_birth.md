@@ -1,12 +1,23 @@
 # Whether An Angel Is Appointed To Guard A Man From His Birth?
+
 ## Objections
+
 Objection 1: It would seem that an angel is not appointed to guard a man from his birth. For angels are "sent to minister for them who shall receive the inheritance of salvation," as the Apostle says (Heb. 1:14). But men begin to receive the inheritance of salvation, when they are baptized. Therefore an angel is appointed to guard a man from the time of his baptism, not of his birth.
+
 Objection 2: Further, men are guarded by angels in as far as angels enlighten and instruct them. But children are not capable of instruction as soon as they are born, for they have not the use of reason. Therefore angels are not appointed to guard children as soon as they are born.
+
 Objection 3: Further, a child has a rational soul for some time before birth, just as well as after. But it does not appear that an angel is appointed to guard a child before its birth, for they are not then admitted to the sacraments of the Church. Therefore angels are not appointed to guard men from the moment of their birth.
+
 ## Answer
+
 On the contrary, Jerome says (vide A, 4) that "each soul has an angel appointed to guard it from its birth."
+
 I answer that, as Origen observes (Tract. v, super Matt.) there are two opinions on this matter. For some have held that the angel guardian is appointed at the time of baptism, others, that he is appointed at the time of birth. The latter opinion Jerome approves (vide A, 4), and with reason. For those benefits which are conferred by God on man as a Christian, begin with his baptism; such as receiving the Eucharist, and the like. But those which are conferred by God on man as a rational being, are bestowed on him at his birth, for then it is that he receives that nature. Among the latter benefits we must count the guardianship of angels, as we have said above ([926]AA[1],4). Wherefore from the very moment of his birth man has an angel guardian appointed to him.
+
 ## Replies
+
 Reply to Objection 1: Angels are sent to minister, and that efficaciously indeed, for those who shall receive the inheritance of salvation, if we consider the ultimate effect of their guardianship, which is the realizing of that inheritance. But for all that, the angelic ministrations are not withdrawn for others although they are not so efficacious as to bring them to salvation: efficacious, nevertheless, they are, inasmuch as they ward off many evils.
+
 Reply to Objection 2: Guardianship is ordained to enlightenment by instruction, as to its ultimate and principal effect. Nevertheless it has many other effects consistent with childhood; for instance to ward off the demons, and to prevent both bodily and spiritual harm.
+
 Reply to Objection 3: As long as the child is in the mother's womb it is not entirely separate, but by reason of a certain intimate tie, is still part of her: just as the fruit while hanging on the tree is part of the tree. And therefore it can be said with some degree of probability, that the angel who guards the mother guards the child while in the womb. But at its birth, when it becomes separate from the mother, an angel guardian is appointed to it; as Jerome, above quoted, says.

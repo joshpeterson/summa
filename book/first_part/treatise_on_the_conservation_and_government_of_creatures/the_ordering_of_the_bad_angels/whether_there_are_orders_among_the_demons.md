@@ -1,14 +1,25 @@
 # Whether There Are Orders Among The Demons?
+
 ## Objections
+
 Objection 1: It would seem that there are no orders among the demons. For order belongs to good, as also mode, and species, as Augustine says (De Nat. Boni iii); and on the contrary, disorder belongs to evil. But there is nothing disorderly in the good angels. Therefore in the bad angels there are no orders.
+
 Objection 2: Further, the angelic orders are contained under a hierarchy. But the demons are not in a hierarchy, which is defined as a holy principality; for they are void of all holiness. Therefore among the demons there are no orders.
+
 Objection 3: Further, the demons fell from every one of the angelic orders; as is commonly supposed. Therefore, if some demons are said to belong to an order, as falling from that order, it would seem necessary to give them the names of each of those orders. But we never find that they are called "Seraphim," or "Thrones," or "Dominations." Therefore on the same ground they are not to be placed in any other order.
+
 ## Answer
+
 On the contrary, The Apostle says (Eph. 6:12): "Our wrestling . . . is against principalities and powers, against the rulers of the world of this darkness."
+
 I answer that, As explained above ([882]Q[108], AA[4],7,8), order in the angels is considered both according to the grade of nature; and according to that of grace. Now grace has a twofold state, the imperfect, which is that of merit; and the perfect, which is that of consummate glory.
 
 If therefore we consider the angelic orders in the light of the perfection of glory, then the demons are not in the angelic orders, and never were. But if we consider them in relation to imperfect grace, in that view the demons were at the time in the orders of angels, but fell away from them, according to what was said above ([883]Q[62], A[3]), that all the angels were created in grace. But if we consider them in the light of nature, in that view they are still in those orders; because they have not lost their natural gifts; as Dionysius says (Div. Nom. iv).
+
 ## Replies
+
 Reply to Objection 1: Good can exist without evil; whereas evil cannot exist without good ([884]Q[49], A[3]); so there is order in the demons, as possessing a good nature.
+
 Reply to Objection 2: If we consider the ordering of the demons on the part of God Who orders them, it is sacred; for He uses the demons for Himself; but on the part of the demons' will it is not a sacred thing, because they abuse their nature for evil.
+
 Reply to Objection 3: The name "Seraphim" is given from the ardor of charity; and the name "Thrones" from the Divine indwelling; and the name "Dominations" imports a certain liberty; all of which are opposed to sin; and therefore these names are not given to the angels who sinned.

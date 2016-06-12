@@ -1,12 +1,23 @@
 # Whether There Was Need For Any Sacraments After Christ Came?
+
 ## Objections
+
 Objection 1: It seems that there was no need for any sacraments after Christ came. For the figure should cease with the advent of the truth. But "grace and truth came by Jesus Christ" (Jn. 1:17). Since, therefore, the sacraments are signs or figures of the truth, it seems that there was no need for any sacraments after Christ's Passion.
+
 Objection 2: Further, the sacraments consist in certain elements, as stated above ([4352]Q[60], A[4]). But the Apostle says (Gal. 4:3,4) that "when we were children we were serving under the elements of the world": but that now "when the fulness of time" has "come," we are no longer children. Therefore it seems that we should not serve God under the elements of this world, by making use of corporeal sacraments.
+
 Objection 3: Further, according to James 1:17 with God "there is no change, nor shadow of alteration." But it seems to argue some change in the Divine will that God should give man certain sacraments for his sanctification now during the time of grace, and other sacraments before Christ's coming. Therefore it seems that other sacraments should not have been instituted after Christ.
+
 ## Answer
+
 On the contrary, Augustine says (Contra Faust. xix) that the sacraments of the Old Law "were abolished because they were fulfilled; and others were instituted, fewer in number, but more efficacious, more profitable, and of easier accomplishment."
+
 I answer that, As the ancient Fathers were saved through faith in Christ's future coming, so are we saved through faith in Christ's past birth and Passion. Now the sacraments are signs in protestation of the faith whereby man is justified; and signs should vary according as they signify the future, the past, or the present; for as Augustine says (Contra Faust. xix), "the same thing is variously pronounced as to be done and as having been done: for instance the word 'passurus' [going to suffer] differs from 'passus' [having suffered]." Therefore the sacraments of the New Law, that signify Christ in relation to the past, must needs differ from those of the Old Law, that foreshadowed the future.
+
 ## Replies
+
 Reply to Objection 1: As Dionysius says (Eccl. Hier. v), the state of the New Law. is between the state of the Old Law, whose figures are fulfilled in the New, and the state of glory, in which all truth will be openly and perfectly revealed. Wherefore then there will be no sacraments. But now, so long as we know "through a glass in a dark manner," (1 Cor. 13:12) we need sensible signs in order to reach spiritual things: and this is the province of the sacraments.
+
 Reply to Objection 2: The Apostle calls the sacraments of the Old Law "weak and needy elements" (Gal. 4:9) because they neither contained nor caused grace. Hence the Apostle says that those who used these sacraments served God "under the elements of this world": for the very reason that these sacraments were nothing else than the elements of this world. But our sacraments both contain and cause grace: consequently the comparison does not hold.
+
 Reply to Objection 3: Just as the head of the house is not proved to have a changeable mind, through issuing various commands to his household at various seasons, ordering things differently in winter and summer; so it does not follow that there is any change in God, because He instituted sacraments of one kind after Christ's coming, and of another kind at the time of the Law. because the latter were suitable as foreshadowing grace; the former as signifying the presence of grace,

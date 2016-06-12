@@ -1,10 +1,17 @@
 # Whether The Brave Man Acts For The Sake Of The Good Of His Habit?
+
 ## Objections
+
 Objection 1: It seems that the brave man does not act for the sake of the good of his habit. For in matters of action the end, though first in intention, is last in execution. Now the act of fortitude, in the order of execution, follows the habit of fortitude. Therefore it is impossible for the brave man to act for the sake of the good of his habit.
+
 Objection 2: Further, Augustine says (De Trin. xiii): "We love virtues for the sake of happiness, and yet some make bold to counsel us to be virtuous," namely by saying that we should desire virtue for its own sake, "without loving happiness. If they succeed in their endeavor, we shall surely cease to love virtue itself, since we shall no longer love that for the sake of which alone we love virtue." But fortitude is a virtue. Therefore the act of fortitude is directed not to fortitude but to happiness.
+
 Objection 3: Further, Augustine says (De Morib. Eccl. xv) that "fortitude is love ready to bear all things for God's sake." Now God is not the habit of fortitude, but something better, since the end must needs be better than what is directed to the end. Therefore the brave man does not act for the sake of the good of his habit.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. iii, 7) that "to the brave man fortitude itself is a good": and such is his end.
+
 I answer that, An end is twofold: proximate and ultimate. Now the proximate end of every agent is to introduce a likeness of that agent's form into something else: thus the end of fire in heating is to introduce the likeness of its heat into some passive matter, and the end of the builder is to introduce into matter the likeness of his art. Whatever good ensues from this, if it be intended, may be called the remote end of the agent. Now just as in things made, external matter is fashioned by art, so in things done, human deeds are fashioned by prudence. Accordingly we must conclude that the brave man intends as his proximate end to reproduce in action a likeness of his habit, for he intends to act in accordance with his habit: but his remote end is happiness or God.
 
 This suffices for the Replies to the Objections: for the First Objection proceeds as though the very essence of a habit were its end, instead of the likeness of the habit in act, as stated. The other two objections consider the ultimate end.

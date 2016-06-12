@@ -1,12 +1,23 @@
 # Whether Enjoyment Is Only Of The Last End?
+
 ## Objections
+
 Objection 1: It would seem that enjoyment is not only of the last end. For the Apostle says (Philem. 20): "Yea, brother, may I enjoy thee in the Lord." But it is evident that Paul had not placed his last end in a man. Therefore to enjoy is not only of the last end.
+
 Objection 2: Further, what we enjoy is the fruit. But the Apostle says (Gal. 5:22): "The fruit of the Spirit is charity, joy, peace," and other like things, which are not in the nature of the last end. Therefore enjoyment is not only of the last end.
+
 Objection 3: Further, the acts of the will reflect on one another; for I will to will, and I love to love. But to enjoy is an act of the will: since "it is the will with which we enjoy," as Augustine says (De Trin. x, 10). Therefore a man enjoys his enjoyment. But the last end of man is not enjoyment, but the uncreated good alone, which is God. Therefore enjoyment is not only of the last end.
+
 ## Answer
+
 On the contrary, Augustine says (De Trin. x, 11): "A man does not enjoy that which he desires for the sake of something else." But the last end alone is that which man does not desire for the sake of something else. Therefore enjoyment is of the last end alone.
+
 I answer that, As stated above [1080](A[1]) the notion of fruit implies two things: first that it should come last; second, that it should calm the appetite with a certain sweetness and delight. Now a thing is last either simply or relatively; simply, if it be referred to nothing else; relatively, if it is the last in a particular series. Therefore that which is last simply, and in which one delights as in the last end, is properly called fruit; and this it is that one is properly said to enjoy. But that which is delightful not in itself, but is desired, only as referred to something else, e.g. a bitter potion for the sake of health, can nowise be called fruit. And that which has something delightful about it, to which a number of preceding things are referred, may indeed by called fruit in a certain manner; but we cannot be said to enjoy it properly or as though it answered perfectly to the notion of fruit. Hence Augustine says (De Trin. x, 10) that "we enjoy what we know, when the delighted will is at rest therein." But its rest is not absolute save in the possession of the last end: for as long as something is looked for, the movement of the will remains in suspense, although it has reached something. Thus in local movement, although any point between the two terms is a beginning and an end, yet it is not considered as an actual end, except when the movement stops there.
+
 ## Replies
+
 Reply to Objection 1: As Augustine says (De Doctr. Christ. i, 33), "if he had said, 'May I enjoy thee,' without adding 'in the Lord,' he would seem to have set the end of his love in him. But since he added that he set his end in the Lord, he implied his desire to enjoy Him": as if we were to say that he expressed his enjoyment of his brother not as a term but as a means.
+
 Reply to Objection 2: Fruit bears one relation to the tree that bore it, and another to man that enjoys it. To the tree indeed that bore it, it is compared as effect to cause; to the one enjoying it, as the final object of his longing and the consummation of his delight. Accordingly these fruits mentioned by the Apostle are so called because they are certain effects of the Holy Ghost in us, wherefore they are called "fruits of the spirit": but not as though we are to enjoy them as our last end. Or we may say with Ambrose that they are called fruits because "we should desire them for their own sake": not indeed as though they were not ordained to the last end; but because they are such that we ought to find pleasure in them.
+
 Reply to Objection 3: As stated above ([1081]Q[1], A[8];[1082] Q[2], A[7]), we speak of an end in a twofold sense: first, as being the thing itself; secondly, as the attainment thereof. These are not, of course, two ends, but one end, considered in itself, and in its relation to something else. Accordingly God is the last end, as that which is ultimately sought for: while the enjoyment is as the attainment of this last end. And so, just as God is not one end, and the enjoyment of God, another: so it is the same enjoyment whereby we enjoy God, and whereby we enjoy our enjoyment of God. And the same applies to created happiness which consists in enjoyment.

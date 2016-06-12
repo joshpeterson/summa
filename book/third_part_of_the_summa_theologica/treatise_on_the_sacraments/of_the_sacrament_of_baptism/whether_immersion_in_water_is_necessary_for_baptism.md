@@ -1,12 +1,23 @@
 # Whether Immersion In Water Is Necessary For Baptism?
+
 ## Objections
+
 Objection 1: It seems that immersion in water is necessary for Baptism. Because it is written (Eph. 4:5): "One faith, one baptism." But in many parts of the world the ordinary way of baptizing is by immersion. Therefore it seems that there can be no Baptism without immersion.
+
 Objection 2: Further, the Apostle says (Rom. 6:3,4): "All we who are baptized in Christ Jesus, are baptized in His death: for we are buried together with Him, by Baptism into death." But this is done by immersion: for Chrysostom says on Jn. 3:5: "Unless a man be born again of water and the Holy Ghost," etc.: "When we dip our heads under the water as in a kind of tomb, our old man is buried, and being submerged, is hidden below, and thence he rises again renewed." Therefore it seems that immersion is essential to Baptism.
+
 Objection 3: Further, if Baptism is valid without total immersion of the body, it would follow that it would be equally sufficient to pour water over any part of the body. But this seems unreasonable; since original sin, to remedy which is the principal purpose of Baptism, is not in only one part of the body. Therefore it seems that immersion is necessary for Baptism, and that mere sprinkling is not enough.
+
 ## Answer
+
 On the contrary, It is written (Heb. 10:22): "Let us draw near with a true heart in fulness of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with clean water."
+
 I answer that, In the sacrament of Baptism water is put to the use of a washing of the body, whereby to signify the inward washing away of sins. Now washing may be done with water not only by immersion, but also by sprinkling or pouring. And, therefore, although it is safer to baptize by immersion, because this is the more ordinary fashion, yet Baptism can be conferred by sprinkling or also by pouring, according to Ezech. 36:25: "I will pour upon you clean water," as also the Blessed Lawrence is related to have baptized. And this especially in cases of urgency: either because there is a great number to be baptized, as was clearly the case in Acts 2 and 4, where we read that on one day three thousand believed, and on another five thousand: or through there being but a small supply of water, or through feebleness of the minister, who cannot hold up the candidate for Baptism; or through feebleness of the candidate, whose life might be endangered by immersion. We must therefore conclude that immersion is not necessary for Baptism.
+
 ## Replies
+
 Reply to Objection 1: What is accidental to a thing does not diversify its essence. Now bodily washing with water is essential to Baptism: wherefore Baptism is called a "laver," according to Eph. 5:26: "Cleansing it by the laver of water in the word of life." But that the washing be done this or that way, is accidental to Baptism. And consequently such diversity does not destroy the oneness of Baptism.
+
 Reply to Objection 2: Christ's burial is more clearly represented by immersion: wherefore this manner of baptizing is more frequently in use and more commendable. Yet in the other ways of baptizing it is represented after a fashion, albeit not so clearly; for no matter how the washing is done, the body of a man, or some part thereof, is put under water, just as Christ's body was put under the earth.
+
 Reply to Objection 3: The principal part of the body, especially in relation to the exterior members, is the head, wherein all the senses, both interior and exterior, flourish. And therefore, if the whole body cannot be covered with water, because of the scarcity of water, or because of some other reason, it is necessary to pour water over the head, in which the principle of animal life is made manifest.

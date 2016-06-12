@@ -1,16 +1,27 @@
 # Whether Children Can Bind Themselves By Vow To Enter Religion?
+
 ## Objections
+
 Objection 1: It would seem that children cannot bind themselves by vow to enter religion. Since a vow requires deliberation of the mind, it is fitting that those alone should vow who have the use of reason. But this is lacking in children just as in imbeciles and madmen. Therefore just as imbeciles and madmen cannot bind themselves to anything by vow, so neither, seemingly, can children bind themselves by vow to enter religion.
+
 Objection 2: Further, that which can be validly done by one cannot be annulled by another. Now a vow to enter religion made by a boy or girl before the age of puberty can be revoked by the parents or guardian (20, qu. ii, cap. Puella). Therefore it seems that a boy or girl cannot validly make a vow before the age of fourteen.
+
 Objection 3: Further, according to the rule of Blessed Benedict [*Ch. 58] and a statute of Innocent IV, a year's probation is granted to those who enter religion, so that probation may precede the obligation of the vow. Therefore it seems unlawful, before the year of probation, for children to be bound by vow to enter religion.
+
 ## Answer
+
 On the contrary, That which is not done aright is invalid without being annulled by anyone. But the vow pronounced by a maiden, even before attaining the age of puberty, is valid, unless it be annulled by her parents within a year (20, qu. ii, cap. Puella). Therefore even before attaining to puberty children can lawfully and validly be bound by a vow to enter religion.
+
 I answer that, As may be gathered from what has been said above [3063](A[7]), vows are of two kinds, simple and solemn. And since, as stated in the same article, the solemnization of a vow consists in a spiritual blessing and consecration bestowed through the ministry of the Church, it follows that it comes under the Church's dispensation. Now a simple vow takes its efficacy from the deliberation of the mind, whereby one intends to put oneself under an obligation. That such an obligation be of no force may happen in two ways. First, through defect of reason, as in madmen and imbeciles, who cannot bind themselves by vow so long as they remain in a state of madness or imbecility. Secondly, through the maker of a vow being subject to another's power, as stated above [3064](A[8]). Now these two circumstances concur in children before the age of puberty, because in most instances they are lacking in reason, and besides are naturally under the care of their parents, or guardians in place of their parents: wherefore in both events their vows are without force. It happens, however, through a natural disposition which is not subject to human laws, that the use of reason is accelerated in some, albeit few, who on this account are said to be capable of guile: and yet they are not, for this reason, exempt in any way from the care of their parents; for this care is subject to human law, which takes into account that which is of most frequent occurrence.
 
 Accordingly we must say that boys or girls who have not reached the years of puberty and have not attained the use of reason can nowise bind themselves to anything by vow. If, however, they attain the use of reason, before reaching the years of puberty, they can for their own part, bind themselves by vow; but their vows can be annulled by their parents, under whose care they are still subject.
 
 Yet no matter how much they be capable of guile before the years of puberty, they cannot be bound by a solemn religious vow, on account of the Church's decree [*Sext. Decret. cap. Is qui, de Reg. et transeunt. ad Relig.] which considers the majority of cases. But after the years of puberty have been reached, they can bind themselves by religious vows, simple or solemn, without the consent of their parents.
+
 ## Replies
+
 Reply to Objection 1: This argument avails in the case of children who have not yet reached the use of reason: for their vows then are invalid, as stated above.
+
 Reply to Objection 2: The vows of persons subject to another's power contain an implied condition, namely, that they be not annulled by the superior. This condition renders them licit and valid if it be fulfilled, as stated above.
+
 Reply to Objection 3: This argument avails in the case of solemn vows which are taken in profession.

@@ -1,16 +1,29 @@
 # Whether Faith Is Required On The Part Of The One Baptized?
+
 ## Objections
+
 Objection 1: It seems that faith is required on the part of the one baptized. For the sacrament of Baptism was instituted by Christ. But Christ, in giving the form of Baptism, makes faith to precede Baptism (Mk. 16:16): "He that believeth and is baptized, shall be saved." Therefore it seems that without faith there can be no sacrament of Baptism.
+
 Objection 2: Further, nothing useless is done in the sacraments of the Church. But according to the Church's ritual, the man who comes to be baptized is asked concerning his faith: "Dost thou believe in God the Father Almighty?" Therefore it seems that faith is required for Baptism.
+
 Objection 3: Further, the intention of receiving the sacrament is required for Baptism. But this cannot be without right faith, since Baptism is the sacrament of right faith: for thereby men "are incorporated in Christ," as Augustine says in his book on Infant Baptism (De Pecc. Merit. et Remiss. i); and this cannot be without right faith, according to Eph. 3:17: "That Christ may dwell by faith in your hearts." Therefore it seems that a man who has not right faith cannot receive the sacrament of Baptism.
+
 Objection 4: Further, unbelief is a most grievous sin, as we have shown in the [4449]SS, Q[10], A[3]. But those who remain in sin should not be baptized: therefore neither should those who remain in unbelief.
+
 ## Answer
+
 On the contrary, Gregory writing to the bishop Quiricus says: "We have learned from the ancient tradition of the Fathers that when heretics, baptized in the name of the Trinity, come back to Holy Church, they are to be welcomed to her bosom, either with the anointing of chrism, or the imposition of hands, or the mere profession of faith." But such would not be the case if faith were necessary for a man to receive Baptism.
+
 I answer that, As appears from what has been said above ([4450]Q[63], A[6];[4451] Q[66], A[9]) Baptism produces a twofold effect in the soul, viz. the character and grace. Therefore in two ways may a thing be necessary for Baptism. First, as something without which grace, which is the ultimate effect of the sacrament, cannot be had. And thus right faith is necessary for Baptism, because, as it appears from Rom. 3:22, the justice of God is by faith of Jesus Christ.
 
 Secondly, something is required of necessity for Baptism, because without it the baptismal character cannot be imprinted And thus right faith is not necessary in the one baptized any more than in the one who baptizes: provided the other conditions are fulfilled which are essential to the sacrament. For the sacrament is not perfected by the righteousness of the minister or of the recipient of Baptism, but by the power of God.
+
 ## Replies
+
 Reply to Objection 1: Our Lord is speaking there of Baptism as bringing us to salvation by giving us sanctifying grace: which of course cannot be without right faith: wherefore He says pointedly: "He that believeth and is baptized, shall be saved."
+
 Reply to Objection 2: The Church's intention in Baptizing men is that they may be cleansed from sin, according to Is. 27:9: "This is all the fruit, that the sin . . . should be taken away." And therefore, as far as she is concerned, she does not intend to give Baptism save to those who have right faith, without which there is no remission of sins. And for this reason she asks those who come to be baptized whether they believe. If, on the contrary, anyone, without right faith, receive Baptism outside the Church, he does not receive it unto salvation. Hence Augustine says (De Baptism. contr. Donat. iv): "From the Church being compared to Paradise we learn that men can receive her Baptism even outside her fold, but that elsewhere none can receive or keep the salvation of the blessed."
+
 Reply to Objection 3: Even he who has not right faith on other points, can have right faith about the sacrament of Baptism: and so he is not hindered from having the intention of receiving that sacrament. Yet even if he think not aright concerning this sacrament, it is enough, for the receiving of the sacrament, that he should have a general intention of receiving Baptism, according as Christ instituted, and as the Church bestows it.
+
 Reply to Objection 4: Just as the sacrament of Baptism is not to be conferred on a man who is unwilling to give up his other sins, so neither should it be given to one who is unwilling to renounce his unbelief. Yet each receives the sacrament if it be conferred on him, though not unto salvation.

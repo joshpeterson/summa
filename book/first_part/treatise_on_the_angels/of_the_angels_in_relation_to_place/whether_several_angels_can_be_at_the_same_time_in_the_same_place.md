@@ -1,12 +1,23 @@
 # Whether Several Angels Can Be At The Same Time In The Same Place?
+
 ## Objections
+
 Objection 1: It would seem that several angels can be at the same time in the same place. For several bodies cannot be at the same time in the same place, because they fill the place. But the angels do not fill a place, because only a body fills a place, so that it be not empty, as appears from the Philosopher (Phys. iv, text 52,58). Therefore several angels can be in the one place.
+
 Objection 2: Further, there is a greater difference between an angel and a body than there is between two angels. But an angel and a body are at the one time in the one place: because there is no place which is not filled with a sensible body, as we find proved in Phys. iv, text. 58. Much more, then, can two angels be in the same place.
+
 Objection 3: Further, the soul is in every part of the body, according to Augustine (De Trin. vi). But demons, although they do not obsess souls, do obsess bodies occasionally; and thus the soul and the demon are at the one time in the same place; and consequently for the same reason all other spiritual substances.
+
 ## Answer
+
 On the contrary, There are not two souls in the same body. Therefore for a like reason there are not two angels in the same place.
+
 I answer that, There are not two angels in the same place. The reason of this is because it is impossible for two complete causes to be the causes immediately of one and the same thing. This is evident in every class of causes: for there is one proximate form of one thing, and there is one proximate mover, although there may be several remote movers. Nor can it be objected that several individuals may row a boat, since no one of them is a perfect mover, because no one man's strength is sufficient for moving the boat; while all together are as one mover, in so far as their united strengths all combine in producing the one movement. Hence, since the angel is said to be in one place by the fact that his power touches the place immediately by way of a perfect container, as was said [479](A[1]), there can be but one angel in one place.
+
 ## Replies
+
 Reply to Objection 1: Several angels are not hindered from being in the same place because of their filling the place; but for another reason, as has been said.
+
 Reply to Objection 2: An angel and a body are not in a place in the same way; hence the conclusion does not follow.
+
 Reply to Objection 3: Not even a demon and a soul are compared to a body according to the same relation of causality; since the soul is its form, while the demon is not. Hence the inference does not follow.

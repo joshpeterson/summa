@@ -1,12 +1,23 @@
 # Whether Knowledge Of All Holy Writ Is Required?
+
 ## Objections
+
 Objection 1: It would seem that knowledge of all Holy Writ is required. For one from whose lips we seek the law, should have knowledge of the law. Now the laity seek the law at the mouth of the priest (Malachi 2:7). Therefore he should have knowledge of the whole law.
+
 Objection 2: Further, "being always ready to satisfy everyone that asketh you a reason of that faith and hope in you [*Vulg.: 'Of that hope which is in you; St. Thomas apparently took his reading from Bede]." Now to give a reason for things pertaining to faith and hope belongs to those who have perfect knowledge of Holy Writ. Therefore the like knowledge should be possessed by those who are placed in Orders, and to whom the aforesaid words are addressed.
+
 Objection 3: Further, no one is competent to read what he understands not, since to read without intelligence is "negligence,"* as Cato declares (Rudiment.). [*"Legere et non intelligere est negligere." The play on the words is more evident in Latin.] Now it belongs to the reader (which is the lower Order) to read the Old Testament, as stated in the text (Sent. iv, D, 24). Therefore he should understand the whole of the Old Testament; and much more those in the higher Orders.
+
 ## Answer
+
 On the contrary, Many are raised to the priesthood even who know nothing at all of these things, even in many religious Orders. Therefore apparently this knowledge is not required.
+
 I answer that, For any human act to be rightly ordered there must needs be the direction of reason. Wherefore in order that a man exercise the office of an Order, it is necessary for him to have as much knowledge as suffices for his direction in the act of that Order. And consequently one who is to be raised to Orders is required to have that knowledge, and to be instructed in Sacred Scripture, not the whole, but more or less, according as his office is of a greater or lesser extent---to wit, that those who are placed over others, and receive the care of souls, know things pertaining to the doctrine of faith and morals, and that others know whatever concerns the exercise of their Order.
+
 ## Replies
+
 Reply to Objection 1: A priest exercises a twofold action: the one, which is principal, over the true body of Christ; the other, which is secondary, over the mystical body of Christ. The second act depends on the first, but not conversely. Wherefore some are raised to the priesthood, to whom the first act alone is deputed, for instance those religious who are not empowered with the care of souls. The law is not sought at the mouth of these, they are required only for the celebration of the sacraments; and consequently it is enough for them to have such knowledge as enables them to observe rightly those things that regard the celebration of the sacrament. Others are raised to exercise the other act which is over the mystical body of Christ, and it is at the mouth of these that the people seek the law; wherefore they ought to possess knowledge of the law, not indeed to know all the difficult points of the law (for in these they should have recourse to their superiors), but to know what the people have to believe and fulfill in the law. To the higher priests, namely the bishops, it belongs to know even those points of the law which may offer some difficulty, and to know them the more perfectly according as they are in a higher position.
+
 Reply to Objection 2: The reason that we have to give for our faith and hope does not denote one that suffices to prove matters of faith and hope, since they are both of things invisible; it means that we should be able to give general proofs of the probability of both, and for this there is not much need of great knowledge.
+
 Reply to Objection 3: The reader has not to explain Holy Writ to the people (for this belongs to the higher orders), but merely to voice the words. Therefore he is not required to have so much knowledge as to understand Holy Writ, but only to know how to pronounce it correctly. And since such knowledge is obtained easily and from many persons, it may be supposed with probability that the ordained will acquire that knowledge even if he have it not already, especially if it appear that he is on the road to acquire it.

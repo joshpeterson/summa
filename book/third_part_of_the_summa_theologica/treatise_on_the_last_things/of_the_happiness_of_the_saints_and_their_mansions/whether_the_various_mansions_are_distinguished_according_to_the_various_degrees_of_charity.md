@@ -1,12 +1,23 @@
 # Whether The Various Mansions Are Distinguished According To The Various Degrees Of Charity?
+
 ## Objections
+
 Objection 1: It would seem that the various mansions are not distinguished according to the various degrees of charity. For it is written (Mat. 25:15): "He gave to every one according to his proper virtue [Douay: 'ability']." Now the proper ability of a thing is its natural power. Therefore the gifts also of grace and glory are distributed according to the different degrees of natural power.
+
 Objection 2: Further, it is written (Ps. 61:12): "Thou wilt render to every man according to his works." Now that which is rendered is the measure of beatitude. Therefore the degrees of beatitude are distinguished according to the diversity of works and not according to the diversity of charity.
+
 Objection 3: Further, reward is due to act and not to habit: hence "it is not the strongest who are crowned but those who engage in the conflict" (Ethic. i, 8) and "he . . . shall not be [Vulg.: 'is not'] crowned except he strive lawfully." Now beatitude is a reward. Therefore the various degrees of beatitude will be according to the various degrees of works and not according to the various degrees of charity.
+
 ## Answer
+
 On the contrary, The more one will be united to God the happier will one be. Now the measure of charity is the measure of one's union with God. Therefore the diversity of beatitude will be according to the difference of charity.
+
 I answer that, The distinctive principle of the mansions or degrees of beatitude is twofold, namely proximate and remote. The proximate principle is the difference of disposition which will be in the blessed, whence will result the difference of perfection in them in respect to the beatific operation: while the remote principle is the merit by which they have obtained that beatitude. In the first way the mansions are distinguished according to the charity of heaven, which the more perfect it will be in any one, the more will it render him capable of the Divine clarity, on the increase of which will depend the increase in perfection of the Divine vision. In the second way the mansions are distinguished according to the charity of the way. For our actions are meritorious, not by the very substance of the action, but only by the habit of virtue with which they are informed. Now every virtue obtains its meritorious efficacy from charity [*Cf. [5133]FS, Q[114], A[4]], which has the end itself for its object [*Cf. [5134]SS, Q[24], A[3], ad 1]. Hence the diversity of merit is all traced to the diversity of charity, and thus the charity of the way will distinguish the mansions by way of merit.
+
 ## Replies
+
 Reply to Objection 1: In this passage "virtue" denotes not the natural ability alone, but the natural ability together with the endeavour to obtain grace [*Cf. [5135]SS, Q[23], A[8]]. Consequently virtue in this sense will be a kind of material disposition to the measure of grace and glory that one will receive. But charity is the formal complement of merit in relation to glory, and therefore the distinction of degrees in glory depends on the degrees of charity rather than on the degrees of the aforesaid virtue.
+
 Reply to Objection 2: Works in themselves do not demand the payment of a reward, except as informed by charity: and therefore the various degrees of glory will be according to the various degrees of charity.
+
 Reply to Objection 3: Although the habit of charity or of any virtue whatever is not a merit to which a reward is due, it is none the less the principle and reason of merit in the act: and consequently according to its diversity is the diversity of rewards. This does not prevent our observing a certain degree of merit in the act considered generically, not indeed in relation to the essential reward which is joy in God, but in relation to some accidental reward, which is joy in some created good.

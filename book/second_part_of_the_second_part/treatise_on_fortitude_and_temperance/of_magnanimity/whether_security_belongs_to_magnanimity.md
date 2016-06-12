@@ -1,14 +1,25 @@
 # Whether Security Belongs To Magnanimity?
+
 ## Objections
+
 Objection 1: It seems that security does not belong to magnanimity. For security, as stated above (Q[128], ad 6), denotes freedom from the disturbance of fear. But fortitude does this most effectively. Wherefore security is seemingly the same as fortitude. But fortitude does not belong to magnanimity; rather the reverse is the case. Neither therefore does security belong to magnanimity.
+
 Objection 2: Further, Isidore says (Etym. x) that a man "is said to be secure because he is without care." But this seems to be contrary to virtue, which has a care for honorable things, according to 2 Tim. 2:15, "Carefully study to present thyself approved unto God." Therefore security does not belong to magnanimity, which does great things in all the virtues.
+
 Objection 3: Further, virtue is not its own reward. But security is accounted the reward of virtue, according to Job 11:14,18, "If thou wilt put away from thee the iniquity that is in thy hand . . . being buried thou shalt sleep secure." Therefore security does not belong to magnanimity or to any other virtue, as a part thereof.
+
 ## Answer
+
 On the contrary, Tully says (De Offic. i) under the heading: "Magnanimity consists of two things," that "it belongs to magnanimity to give way neither to a troubled mind, nor to man, nor to fortune." But a man's security consists in this. Therefore security belongs to magnanimity.
+
 I answer that, As the Philosopher says (Rhet. ii, 5), "fear makes a man take counsel," because, to wit he takes care to avoid what he fears. Now security takes its name from the removal of this care, of which fear is the cause: wherefore security denotes perfect freedom of the mind from fear, just as confidence denotes strength of hope. Now, as hope directly belongs to magnanimity, so fear directly regards fortitude. Wherefore as confidence belongs immediately to magnanimity, so security belongs immediately to fortitude.
 
 It must be observed, however, that as hope is the cause of daring, so is fear the cause of despair, as stated above when we were treating of the passion ([3355]FS, Q[45], A[2]). Wherefore as confidence belongs indirectly to fortitude, in so far as it makes use of daring, so security belongs indirectly to magnanimity, in so far as it banishes despair.
+
 ## Replies
+
 Reply to Objection 1: Fortitude is chiefly commended, not because it banishes fear, which belongs to security, but because it denotes a firmness of mind in the matter of the passion. Wherefore security is not the same as fortitude, but is a condition thereof.
+
 Reply to Objection 2: Not all security is worthy of praise but only when one puts care aside, as one ought, and in things when one should not fear: in this way it is a condition of fortitude and of magnanimity.
+
 Reply to Objection 3: There is in the virtues a certain likeness to, and participation of, future happiness, as stated above ([3356]FS, Q[5], AA[3],7). Hence nothing hinders a certain security from being a condition of a virtue, although perfect security belongs to virtue's reward.

@@ -1,12 +1,23 @@
 # Whether Continence Is Better Than Temperance?
+
 ## Objections
+
 Objection 1: It would seem that continence is better than temperance. For it is written (Ecclus. 26:20): "No price is worthy of a continent soul." Therefore no virtue can be equalled to continence.
+
 Objection 2: Further, the greater the reward a virtue merits, the greater the virtue. Now continence apparently merits the greater reward; for it is written (2 Tim. 2:5): "He . . . is not crowned, except he strive lawfully," and the continent man, since he is subject to vehement evil desires, strives more than the temperate man, in whom these things are not vehement. Therefore continence is a greater virtue than temperance.
+
 Objection 3: Further, the will is a more excellent power than the concupiscible. But continence is in the will, whereas temperance is in the concupiscible, as stated above [3557](A[3]). Therefore continence is a greater virtue than temperance.
+
 ## Answer
+
 On the contrary, Tully (De Invent. Rhet. ii, 54) and Andronicus [*De Affectibus] reckon continence to be annexed to temperance, as to a principal virtue.
+
 I answer that, As stated above [3558](A[1]), continence has a twofold signification. In one way it denotes cessation from all venereal pleasures; and if continence be taken in this sense, it is greater than temperance considered absolutely, as may be gathered from what we said above (Q[152], A[5]) concerning the preeminence of virginity over chastity considered absolutely. In another way continence may be taken as denoting the resistance of the reason to evil desires when they are vehement in a man: and in this sense temperance is far greater than continence, because the good of a virtue derives its praise from that which is in accord with reason. Now the good of reason flourishes more in the temperate man than in the continent man, because in the former even the sensitive appetite is obedient to reason, being tamed by reason so to speak, whereas in the continent man the sensitive appetite strongly resists reason by its evil desires. Hence continence is compared to temperance, as the imperfect to the perfect.
+
 ## Replies
+
 Reply to Objection 1: The passage quoted may be understood in two ways. First in reference to the sense in which continence denotes abstinence from all things venereal: and thus it means that "no price is worthy of a continent soul," in the genus of chastity the fruitfulness of the flesh is the purpose of marriage is equalled to the continence of virginity or of widowhood, as stated above ([3559]Q[152], AA[4],5). Secondly it may be understood in reference to the general sense in which continence denotes any abstinence from things unlawful: and thus it means that "no price is worthy of a continent soul," because its value is not measured with gold or silver, which are appreciable according to weight.
+
 Reply to Objection 2: The strength or weakness of concupiscence may proceed from two causes. For sometimes it is owing to a bodily cause: because some people by their natural temperament are more prone to concupiscence than others; and again opportunities for pleasure which inflame the concupiscence are nearer to hand for some people than for others. Such like weakness of concupiscence diminishes merit, whereas strength of concupiscence increases it. on the other hand, weakness or strength of concupiscence arises from a praiseworthy spiritual cause, for instance the vehemence of charity, or the strength of reason, as in the case of a temperate man. In this way weakness of concupiscence, by reason of its cause, increases merit, whereas strength of concupiscence diminishes it.
+
 Reply to Objection 3: The will is more akin to the reason than the concupiscible power is. Wherefore the good of reason---on account of which virtue is praised by the very fact that it reaches not only to the will but also to the concupiscible power, as happens in the temperate man---is shown to be greater than if it reach only to the will, as in the case of one who is continent.

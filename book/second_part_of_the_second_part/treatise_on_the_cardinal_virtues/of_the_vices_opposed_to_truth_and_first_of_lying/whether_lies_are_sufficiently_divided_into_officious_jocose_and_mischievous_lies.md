@@ -1,10 +1,17 @@
 # Whether Lies Are Sufficiently Divided Into Officious, Jocose, And Mischievous Lies?
+
 ## Objections
+
 Objection 1: It seems that lies are not sufficiently divided into "officious," "jocose" and "mischievous" lies. For a division should be made according to that which pertains to a thing by reason of its nature, as the Philosopher states (Metaph. vii, text. 43; De Part. Animal i, 3). But seemingly the intention of the effect resulting from a moral act is something beside and accidental to the species of that act, so that an indefinite number of effects can result from one act. Now this division is made according to the intention of the effect: for a "jocose" lie is told in order to make fun, an "officious" lie for some useful purpose, and a "mischievous" lie in order to injure someone. Therefore lies are unfittingly divided in this way.
+
 Objection 2: Further, Augustine (Contra Mendac. xiv) gives eight kinds of lies. The first is "in religious doctrine"; the second is "a lie that profits no one and injures someone"; the third "profits one party so as to injure another"; the fourth is "told out of mere lust of lying and deceiving"; the fifth is "told out of the desire to please"; the sixth "injures no one, and profits /someone in saving his money"; the seventh "injures no one and profits someone in saving him from death"; the eighth "injures no one, and profits someone in saving him from defilement of the body." Therefore it seems that the first division of lies is insufficient.
+
 Objection 3: Further, the Philosopher (Ethic. iv, 7) divides lying into "boasting," which exceeds the truth in speech, and "irony," which falls short of the truth by saying something less: and these two are not contained under any one of the kinds mentioned above. Therefore it seems that the aforesaid division of lies is inadequate.
+
 ## Answer
+
 On the contrary, A gloss on Ps. 5:7, "Thou wilt destroy all that speak a lie," says "that there are three kinds of lies; for some are told for the wellbeing and convenience of someone; and there is another kind of lie that is told in fun; but the third kind of lie is told out of malice." The first of these is called an officious lie, the second a jocose lie, the third a mischievous lie. Therefore lies are divided into these three kinds.
+
 I answer that, Lies may be divided in three ways. First, with respect to their nature as lies: and this is the proper and essential division of lying. In this way, according to the Philosopher (Ethic. iv, 7), lies are of two kinds, namely, the lie which goes beyond the truth, and this belongs to "boasting," and the lie which stops short of the truth, and this belongs to "irony." This division is an essential division of lying itself, because lying as such is opposed to truth, as stated in the preceding Article: and truth is a kind of equality, to which more and less are in essential opposition.
 
 Secondly, lies may be divided with respect to their nature as sins, and with regard to those things that aggravate or diminish the sin of lying, on the part of the end intended. Now the sin of lying is aggravated, if by lying a person intends to injure another, and this is called a "mischievous" lie, while the sin of lying is diminished if it be directed to some good---either of pleasure and then it is a "jocose" lie, or of usefulness, and then we have the "officious" lie, whereby it is intended to help another person, or to save him from being injured. In this way lies are divided into the three kinds aforesaid.

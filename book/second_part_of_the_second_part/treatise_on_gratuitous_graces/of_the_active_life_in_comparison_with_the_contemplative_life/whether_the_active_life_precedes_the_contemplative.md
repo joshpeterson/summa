@@ -1,14 +1,25 @@
 # Whether The Active Life Precedes The Contemplative?
+
 ## Objections
+
 Objection 1: It would seem that the active life does not precede the contemplative. For the contemplative life pertains directly to the love of God; while the active life pertains to the love of our neighbor. Now the love of God precedes the love of our neighbor, since we love our neighbor for God's sake. Seemingly therefore the contemplative life also precedes the active life.
+
 Objection 2: Further, Gregory says (Hom. xiv in Ezech.): "It should be observed that while a well-ordered life proceeds from action to contemplation, sometimes it is useful for the soul to turn from the contemplative to the active life." Therefore the active is not simply prior to the contemplative.
+
 Objection 3: Further, it would seem that there is not necessarily any order between things that are suitable to different subjects. Now the active and the contemplative life are suitable to different subjects; for Gregory says (Moral. vi, 37): "Often those who were able to contemplate God so long as they were undisturbed have fallen when pressed with occupation; and frequently they who might live advantageously occupied with the service of their fellow-creatures are killed by the sword of their inaction."
+
 ## Answer
+
+
 
 I answer that, A thing is said to precede in two ways. First, with regard to its nature; and in this way the contemplative life precedes the active, inasmuch as it applies itself to things which precede and are better than others, wherefore it moves and directs the active life. For the higher reason which is assigned to contemplation is compared to the lower reason which is assigned to action, and the husband is compared to his wife, who should be ruled by her husband, as Augustine says (De Trin. xii, 3,7,12).
 
 Secondly, a thing precedes with regard to us, because it comes first in the order of generation. In this way the active precedes the contemplative life, because it disposes one to it, as stated above [3746](A[1]; Q[181], A[1], ad 3); and, in the order of generation, disposition precedes form, although the latter precedes simply and according to its nature.
+
 ## Replies
+
 Reply to Objection 1: The contemplative life is directed to the love of God, not of any degree, but to that which is perfect; whereas the active life is necessary for any degree of the love of our neighbor. Hence Gregory says (Hom. iii in Ezech.): "Without the contemplative life it is possible to enter the heavenly kingdom, provided one omit not the good actions we are able to do; but we cannot enter therein without the active life, if we neglect to do the good we can do."
+
 Reply to Objection 2: Progress from the active to the contemplative life is according to the order of generation; whereas the return from the contemplative life to the active is according to the order of direction, in so far as the active life is directed by the contemplative. Even thus habit is acquired by acts, and by the acquired habit one acts yet more perfectly, as stated in Ethic. ii, 7.
+
 Reply to Objection 3: He that is prone to yield to his passions on account of his impulse to action is simply more apt for the active life by reason of his restless spirit. Hence Gregory says (Moral. vi, 37) that "there be some so restless that when they are free from labor they labor all the more, because the more leisure they have for thought, the worse interior turmoil they have to bear." Others, on the contrary, have the mind naturally pure and restful, so that they are apt for contemplation, and if they were to apply themselves wholly to action, this would be detrimental to them. Wherefore Gregory says (Moral. vi, 37) that "some are so slothful of mind that if they chance to have any hard work to do they give way at the very outset." Yet, as he adds further on, "often . . . love stimulates slothful souls to work, and fear restrains souls that are disturbed in contemplation." Consequently those who are more adapted to the active life can prepare themselves for the contemplative by the practice of the active life; while none the less, those who are more adapted to the contemplative life can take upon themselves the works of the active life, so as to become yet more apt for contemplation.

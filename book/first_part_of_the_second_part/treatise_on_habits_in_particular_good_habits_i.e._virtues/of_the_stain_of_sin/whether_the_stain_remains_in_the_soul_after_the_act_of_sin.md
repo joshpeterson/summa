@@ -1,12 +1,23 @@
 # Whether The Stain Remains In The Soul After The Act Of Sin?
+
 ## Objections
+
 Objection 1: It would seem that the stain does not remain in the soul after the act of sin. For after an action, nothing remains in the soul except habit or disposition. But the stain is not a habit or disposition, as stated above (A[1], OBJ[3]). Therefore the stain does not remain in the soul after the act of sin.
+
 Objection 2: Further, the stain is to the sin what the shadow is to the body, as stated above (A[1], ad 3). But the shadow does not remain when the body has passed by. Therefore the stain does not remain in the soul when the act of sin is past.
+
 Objection 3: Further, every effect depends on its cause. Now the cause of the stain is the act of sin. Therefore when the act of sin is no longer there, neither is the stain in the soul.
+
 ## Answer
+
 On the contrary, It is written (Jos. 22:17): "Is it a small thing to you that you sinned with Beelphegor, and the stain of that crime remaineth in you [Vulg.: 'us'] to this day?"
+
 I answer that, The stain of sin remains in the soul even when the act of sin is past. The reason for this is that the stain, as stated above (A[1] ), denotes a blemish in the brightness of the soul, on account of its withdrawing from the light of reason or of the Divine law. And therefore so long as man remains out of this light, the stain of sin remains in him: but as soon as, moved by grace, he returns to the Divine light and to the light of reason, the stain is removed. For although the act of sin ceases, whereby man withdrew from the light of reason and of the Divine law, man does not at once return to the state in which he was before, and it is necessary that his will should have a movement contrary to the previous movement. Thus if one man be parted from another on account of some kind of movement, he is not reunited to him as soon as the movement ceases, but he needs to draw nigh to him and to return by a contrary movement.
+
 ## Replies
+
 Reply to Objection 1: Nothing positive remains in the soul after the act of sin, except the disposition or habit; but there does remain something private, viz. the privation of union with the Divine light.
+
 Reply to Objection 2: After the interposed body has passed by, the transparent body remains in the same position and relation as regards the illuminating body, and so the shadow passes at once. But when the sin is past, the soul does not remain in the same relation to God: and so there is no comparison.
+
 Reply to Objection 3: The act of sin parts man from God, which parting causes the defect of brightness, just as local movement causes local parting. Wherefore, just as when movement ceases, local distance is not removed, so neither, when the act of sin ceases, is the stain removed.

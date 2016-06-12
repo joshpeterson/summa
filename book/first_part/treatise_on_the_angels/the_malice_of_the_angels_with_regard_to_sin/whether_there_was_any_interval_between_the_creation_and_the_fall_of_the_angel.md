@@ -1,16 +1,29 @@
 # Whether There Was Any Interval Between The Creation And The Fall Of The Angel?
+
 ## Objections
+
 Objection 1: It would seem that there was some interval between the angel's creation and his fall. For, it is said (Ezech. 28:15): "Thou didst walk perfect [*Vulg.: 'Thou hast walked in the midst of the stones of fire; thou wast perfect . . .'] in thy ways from the day of thy creation until iniquity was found in thee." But since walking is continuous movement, it requires an interval. Therefore there was some interval between the devil's creation and his fall.
+
 Objection 2: Further, Origen says (Hom. i in Ezech.) that "the serpent of old did not from the first walk upon his breast and belly"; which refers to his sin. Therefore the devil did not sin at once after the first instant of his creation.
+
 Objection 3: Further, capability of sinning is common alike to man and angel. But there was some delay between man's formation and his sin. Therefore, for the like reason there was some interval between the devil's formation and his sin.
+
 Objection 4: Further, the instant wherein the devil sinned was distinct from the instant wherein he was created. But there is a middle time between every two instants. Therefore there was an interval between his creation and his fall.
+
 ## Answer
+
 On the contrary, It is said of the devil (Jn. 8:44): "He stood not in the truth": and, as Augustine says (De Civ. Dei xi, 15), "we must understand this in the sense, that he was in the truth, but did not remain in it."
+
 I answer that, There is a twofold opinion on this point. But the more probable one, which is also more in harmony with the teachings of the Saints, is that the devil sinned at once after the first instant of his creation. This must be maintained if it be held that he elicited an act of free-will in the first instant of his creation, and that he was created in grace; as we have said ([557]Q[62], A[3]). For since the angels attain beatitude by one meritorious act, as was said above ([558]Q[62], A[5]), if the devil, created in grace, merited in the first instant, he would at once have received beatitude after that first instant, if he had not placed an impediment by sinning.
 
 If, however, it be contended that the angel was not created in grace, or that he could not elicit an act of free-will in the first instant, then there is nothing to prevent some interval being interposed between his creation and fall.
+
 ## Replies
+
 Reply to Objection 1: Sometimes in Holy Scripture spiritual instantaneous movements are represented by corporeal movements which are measured by time. In this way by "walking" we are to understand the movement of free-will tending towards good.
+
 Reply to Objection 2: Origen says, "The serpent of old did not from the first walk upon his breast and belly," because of the first instant in which he was not wicked.
+
 Reply to Objection 3: An angel has an inflexible free-will after once choosing; consequently, if after the first instant, in which he had a natural movement to good, he had not at once placed a barrier to beatitude, he would have been confirmed in good. It is not so with man; and therefore the argument does not hold good.
+
 Reply to Objection 4: It is true to say that there is a middle time between every two instants, so far as time is continuous, as it is proved Phys. vi, text. 2. But in the angels, who are not subject to the heavenly movement, which is primarily measured by continuous time, time is taken to mean the succession of their mental acts, or of their affections. So the first instant in the angels is understood to respond to the operation of the angelic mind, whereby it introspects itself by its evening knowledge because on the first day evening is mentioned, but not morning. This operation was good in them all. From such operation some of them were converted to the praise of the Word by their morning knowledge while others, absorbed in themselves, became night, "swelling up with pride," as Augustine says (Gen. ad lit. iv, 24). Hence the first act was common to them all; but in their second they were separated. Consequently they were all of them good in the first instant; but in the second the good were set apart from the wicked.

@@ -1,16 +1,31 @@
 # Whether A Believer Can Marry An Unbeliever?
+
 ## Objections
+
 Objection 1: It would seem that a believer can marry an unbeliever. For Joseph married an Egyptian woman, and Esther married Assuerus: and in both marriages there was disparity of worship, since one was an unbeliever and the other a believer. Therefore disparity of worship previous to marriage is not an impediment thereto.
+
 Objection 2: Further, the Old Law teaches the same faith as the New. But according to the Old Law there could be marriage between a believer and an unbeliever, as evidenced by Dt. 21:10 seqq.: "If thou go out to the fight . . . and seest in the number of the captives a beautiful woman and lovest her, and wilt have her to wife . . . thou shalt go in unto her, and shalt sleep with her, and she shall be thy wife." Therefore it is lawful also under the New Law.
+
 Objection 3: Further, betrothal is directed to marriage. Now there can be a betrothal between a believer and an unbeliever in the case where a condition is made of the latter's future conversion. Therefore under the same condition there can be marriage between them.
+
 Objection 4: Further, every impediment to marriage is in some way contrary to marriage. But unbelief is not contrary to marriage, since marriage fulfills an office of nature whose dictate faith surpasses. Therefore disparity of worship is not an impediment to marriage.
+
 Objection 5: Further, there is sometime disparity of worship even between two persons who are baptized, for instance when, after Baptism, a person falls into heresy. Yet if such a person marry a believer, it is nevertheless a valid marriage. Therefore disparity of worship is not an impediment to marriage.
+
 ## Answer
+
 On the contrary, It is written (2 Cor. 6:14): "What concord hath light with darkness? [*Vulg.: 'What fellowship hath light with darkness? And what concord hath Christ with Belial?']" Now there is the greatest concord between husband and wife. Therefore one who is in the light of faith cannot marry one who is in the darkness of unbelief.
+
 I answer that, The chief good of marriage is the offspring to be brought up to the worship of God. Now since education is the work of father and mother in common, each of them intends to bring up the child to the worship of God according to their own faith. Consequently if they be of different faith, the intention of the one will be contrary to the intention of the other, and therefore there cannot be a fitting marriage between them. For this reason disparity of faith previous to marriage is an impediment to the marriage contract.
+
 ## Replies
+
 Reply to Objection 1: In the Old Law it was allowable to marry with certain unbelievers, and forbidden with others. It was however especially forbidden with regard to inhabitants of the land of Canaan, both because the Lord had commanded them to be slain on account of their obstinacy, and because it was fraught with a greater danger, lest to wit they should pervert to idolatry those whom they married or their children, since the Israelites were more liable to adopt their rites and customs through dwelling among them. But it was permitted in regard to other unbelievers, especially when there could be no fear of their being drawn into idolatry. And thus Joseph, Moses, and Esther married unbelievers. But under the New Law which is spread throughout the whole world the prohibition extends with equal reason to all unbelievers. Hence disparity of worship previous to marriage is an impediment to its being contracted and voids the contract.
+
 Reply to Objection 2: This law either refers to other nations with whom they could lawfully marry, or to the case when the captive woman was willing to be converted to the faith and worship of God.
+
 Reply to Objection 3: Present is related to present in the same way as future to future. Wherefore just as when marriage is contracted in the present, unity of worship is required in both contracting parties, so in the case of a betrothal, which is a promise of future marriage, it suffices to add the condition of future unity of worship.
+
 Reply to Objection 4: It has been made clear that disparity of worship is contrary to marriage in respect of its chief good, which is the good of the offspring.
+
 Reply to Objection 5: Matrimony is a sacrament: and therefore so far as the sacramental essentials are concerned, it requires purity with regard to the sacrament of faith, namely Baptism, rather than with regard to interior faith. For which reason also this impediment is not called disparity of faith, but disparity of worship which concerns outward service, as stated above (Sent. iii, D, 9[4991], Q[1], A[1], qu. 1). Consequently if a believer marry a baptized heretic, the marriage is valid, although he sins by marrying her if he knows her to be a heretic: even so he would sin were he to marry an excommunicate woman, and yet the marriage would not be void: whereas on the other hand if a catechumen having right faith but not having been baptized were to marry a baptized believer, the marriage would not be valid.

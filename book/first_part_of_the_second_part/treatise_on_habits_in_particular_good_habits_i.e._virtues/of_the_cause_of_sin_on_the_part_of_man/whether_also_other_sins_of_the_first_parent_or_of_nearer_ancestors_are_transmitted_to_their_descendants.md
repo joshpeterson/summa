@@ -1,14 +1,25 @@
 # Whether Also Other Sins Of The First Parent Or Of Nearer Ancestors Are Transmitted To Their Descendants?
+
 ## Objections
+
 Objection 1: It would seem that also other sins, whether of the first parent or of nearer ancestors, are transmitted to their descendants. For punishment is never due unless for fault. Now some are punished by the judgment of God for the sin of their immediate parents, according to Ex. 20:5: "I am . . . God . . . jealous, visiting the iniquity of the fathers upon the children, unto the third and fourth generation." Furthermore, according to human law, the children of those who are guilty of high treason are disinherited. Therefore the guilt of nearer ancestors is also transmitted to their descendants.
+
 Objection 2: Further, a man can better transmit to another, that which he has of himself, than that which he has received from another: thus fire heats better than hot water does. Now a man transmits to his children, by the way, of origin, the sin which he has from Adam. Much more therefore should he transmit the sin which he has contracted of himself.
+
 Objection 3: Further, the reason why we contract original sin from our first parent is because we were in him as in the principle of our nature, which he corrupted. But we were likewise in our nearer ancestors, as in principles of our nature, which however it be corrupt, can be corrupted yet more by sin, according to Apoc. 22:11: "He that is filthy, let him be filthier still." Therefore children contract, by the way of origin, the sins of their nearer ancestors, even as they contract the sin of their first parent.
+
 ## Answer
+
 On the contrary, Good is more self-diffusive than evil. But the merits of the nearer ancestors are not transmitted to their descendants. Much less therefore are their sins.
+
 I answer that, Augustine puts this question in the Enchiridion xlvi, xlvii, and leaves it unsolved. Yet if we look into the matter carefully we shall see that it is impossible for the sins of the nearer ancestors, or even any other but the first sin of our first parent to be transmitted by way of origin. The reason is that a man begets his like in species but not in individual. Consequently those things that pertain directly to the individual, such as personal actions and matters affecting them, are not transmitted by parents to their children: for a grammarian does not transmit to his son the knowledge of grammar that he has acquired by his own studies. On the other hand, those things that concern the nature of the species, are transmitted by parents to their children, unless there be a defect of nature: thus a man with eyes begets a son having eyes, unless nature fails. And if nature be strong, even certain accidents of the individual pertaining to natural disposition, are transmitted to the children, e.g. fleetness of body, acuteness of intellect, and so forth; but nowise those that are purely personal, as stated above.
 
 Now just as something may belong to the person as such, and also something through the gift of grace, so may something belong to the nature as such, viz. whatever is caused by the principles of nature, and something too through the gift of grace. In this way original justice, as stated in the [1821]FP, Q[100], A[1], was a gift of grace, conferred by God on all human nature in our first parent. This gift the first man lost by his first sin. Wherefore as that original justice together with the nature was to have been transmitted to his posterity, so also was its disorder. Other actual sins, however, whether of the first parent or of others, do not corrupt the nature as nature, but only as the nature of that person, i.e. in respect of the proneness to sin: and consequently other sins are not transmitted.
+
 ## Replies
+
 Reply to Objection 1: According to Augustine in his letter to Avitus [*Ep. ad Auxilium ccl.], children are never inflicted with spiritual punishment on account of their parents, unless they share in their guilt, either in their origin, or by imitation, because every soul is God's immediate property, as stated in Ezech. 18:4. Sometimes, however, by Divine or human judgment, children receive bodily punishment on their parents' account, inasmuch as the child, as to its body, is part of its father.
+
 Reply to Objection 2: A man can more easily transmit that which he has of himself, provided it be transmissible. But the actual sins of our nearer ancestors are not transmissible, because they are purely personal, as stated above.
+
 Reply to Objection 3: The first sin infects nature with a human corruption pertaining to nature; whereas other sins infect it with a corruption pertaining only to the person.

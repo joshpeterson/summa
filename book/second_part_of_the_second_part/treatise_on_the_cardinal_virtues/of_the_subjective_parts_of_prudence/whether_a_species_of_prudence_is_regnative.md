@@ -1,12 +1,23 @@
 # Whether A Species Of Prudence Is Regnative?
+
 ## Objections
+
 Objection 1: It would seem that regnative should not be reckoned a species of prudence. For regnative prudence is directed to the preservation of justice, since according to Ethic. v, 6 the prince is the guardian of justice. Therefore regnative prudence belongs to justice rather than to prudence.
+
 Objection 2: Further, according to the Philosopher (Polit. iii, 5) a kingdom [regnum] is one of six species of government. But no species of prudence is ascribed to the other five forms of government, which are "aristocracy," "polity," also called "timocracy" [*Cf. Ethic. viii, 10], "tyranny," "oligarchy" and "democracy." Therefore neither should a regnative species be ascribed to a kingdom.
+
 Objection 3: Further, lawgiving belongs not only to kings, but also to certain others placed in authority, and even to the people, according to Isidore (Etym. v). Now the Philosopher (Ethic. vi, 8) reckons a part of prudence to be "legislative." Therefore it is not becoming to substitute regnative prudence in its place.
+
 ## Answer
+
 On the contrary, The Philosopher says (Polit. iii, 11) that "prudence is a virtue which is proper to the prince." Therefore a special kind of prudence is regnative.
+
 I answer that, As stated above ([2788]Q[47], AA[8],10), it belongs to prudence to govern and command, so that wherever in human acts we find a special kind of governance and command, there must be a special kind of prudence. Now it is evident that there is a special and perfect kind of governance in one who has to govern not only himself but also the perfect community of a city or kingdom; because a government is the more perfect according as it is more universal, extends to more matters, and attains a higher end. Hence prudence in its special and most perfect sense, belongs to a king who is charged with the government of a city or kingdom: for which reason a species of prudence is reckoned to be regnative.
+
 ## Replies
+
 Reply to Objection 1: All matters connected with moral virtue belong to prudence as their guide, wherefore "right reason in accord with prudence" is included in the definition of moral virtue, as stated above (Q[47], A[5], ad 1; [2789]FS, Q[58], A[2], ad 4). For this reason also the execution of justice in so far as it is directed to the common good, which is part of the kingly office, needs the guidance of prudence. Hence these two virtues---prudence and justice---belong most properly to a king, according to Jer. 23:5: "A king shall reign and shall be wise, and shall execute justice and judgment in the earth." Since, however, direction belongs rather to the king, and execution to his subjects, regnative prudence is reckoned a species of prudence which is directive, rather than to justice which is executive.
+
 Reply to Objection 2: A kingdom is the best of all governments, as stated in Ethic. viii, 10: wherefore the species of prudence should be denominated rather from a kingdom, yet so as to comprehend under regnative all other rightful forms of government, but not perverse forms which are opposed to virtue, and which, accordingly, do not pertain to prudence.
+
 Reply to Objection 3: The Philosopher names regnative prudence after the principal act of a king which is to make laws, and although this applies to the other forms of government, this is only in so far as they have a share of kingly government.

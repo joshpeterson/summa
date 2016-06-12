@@ -1,15 +1,29 @@
 # Whether Husband And Wife May Be Reconciled After Being Divorced?
+
 ## Objections
+
 Objection 1: It would seem that husband and wife may not be reconciled after being divorced. For the law contains the rule (Can. Quod bene semel, Caus. vi, qu. iv): "That which has been once well decided must not be subsequently withdrawn." Now it has been decided by the judgment of the Church that they ought to be separated. Therefore they cannot subsequently be reconciled.
+
 Objection 2: Further, if it were allowable for them to be reconciled, the husband would seem bound to receive his wife, especially after she has repented. But he is not bound, for the wife, in defending herself before the judge, cannot allege her repentance against her husband's accusation of fornication. Therefore in no way is reconciliation allowable.
+
 Objection 3: Further, if reconciliation were allowable, it would seem that the adulterous wife is bound to return to her husband if her husband asks her. But she is not bound, since they are separated by the Church. Therefore, etc.
+
 Objection 4: Further, if it were lawful to be reconciled to an adulterous wife, this would especially be the case when the husband is found to have committed adultery after the divorce. But in this case the wife cannot compel him to be reconciled, since the divorce has been justly pronounced. Therefore she may nowise be reconciled.
+
 Objection 5: Further, if a husband whose adultery is unknown put away his wife, who is convicted of adultery by the sentence of the Church, the divorce would seem to have been pronounced unjustly. And yet the husband is not bound to be reconciled to his wife, because she is unable to prove his adultery in court. Much less, therefore, is reconciliation allowable when the divorce has been granted justly.
+
 ## Answer
+
 On the contrary, It is written (1 Cor. 7:11): "And if she depart, that she remain unmarried, or be reconciled to her husband."
+
 I answer that, If the wife has mended her ways by repenting of her sin after the divorce, her husband may become reconciled to her; but if she remain incorrigible in her sin, he must not take her back, for the same reason which forbade him to retain her while she refused to desist from sin.
+
 ## Replies
+
 Reply to Objection 1: The sentence of the Church in pronouncing the divorce did not bind them to separate, but allowed them to do so. Therefore reconciliation may be effected or ensue without any withdrawal of the previous sentence.
+
 Reply to Objection 2: The wife's repentance should induce the husband not to accuse or put away the wife who is guilty of fornication. He cannot, however, be compelled to this course of action, nor can his wife oppose her repentance to his accusation, because although she is no longer guilty, neither in act nor in the stain of sin, there still remains something of the debt of punishment, and though this has been taken away in the sight of God, there still remains the debt of punishment to be inflicted by the judgment of man, because man sees not the heart as God does.
+
 Reply to Objection 3: That which is done in a person's favor does him no prejudice. Wherefore since the divorce has been granted in favor of the husband, it does not deprive him of the right of asking for the marriage debt, or of asking his wife to return to him. Hence his wife is bound to pay the debt, and to return to him, if he ask her, unless with his consent she has taken a vow of continence.
+
 Reply to Objection 4: According to strict law, a husband who was previously innocent should not be compelled to receive an adulterous wife on account of his having committed adultery after the divorce. But according to equity, the judge is bound by virtue of his office first of all to admonish him to beware of imperiling his own soul and of scandalizing others; although the wife may not herself seek reconciliation.

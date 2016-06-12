@@ -1,18 +1,31 @@
 # Whether The Institution Of This Sacrament Was Appropriate?
+
 ## Objections
+
 Objection 1: It seems that the institution of this sacrament was not appropriate, because as the Philosopher says (De Gener. ii): "We are nourished by the things from whence we spring." But by Baptism, which is spiritual regeneration, we receive our spiritual being, as Dionysius says (Eccl. Hier. ii). Therefore we are also nourished by Baptism. Consequently there was no need to institute this sacrament as spiritual nourishment.
+
 Objection 2: Further, men are united with Christ through this sacrament as the members with the head. But Christ is the Head of all men, even of those who have existed from the beginning of the world, as stated above ([4517]Q[8], AA[3],6). Therefore the institution of this sacrament should not have been postponed till the Lord's supper.
+
 Objection 3: Further, this sacrament is called the memorial of our Lord's Passion, according to Mat. 26 (Lk. 22:19): "Do this for a commemoration of Me." But a commemoration is of things past. Therefore, this sacrament should not have been instituted before Christ's Passion.
+
 Objection 4: Further, a man is prepared by Baptism for the Eucharist, which ought to be given only to the baptized. But Baptism was instituted by Christ after His Passion and Resurrection, as is evident from Mat. 28:19. Therefore, this sacrament was not suitably instituted before Christ's Passion.
+
 ## Answer
+
 On the contrary, This sacrament was instituted by Christ, of Whom it is said (Mk. 7:37) that "He did all things well."
+
 I answer that, This sacrament was appropriately instituted at the supper, when Christ conversed with His disciples for the last time. First of all, because of what is contained in the sacrament: for Christ is Himself contained in the Eucharist sacramentally. Consequently, when Christ was going to leave His disciples in His proper species, He left Himself with them under the sacramental species; as the Emperor's image is set up to be reverenced in his absence. Hence Eusebius says: "Since He was going to withdraw His assumed body from their eyes, and bear it away to the stars, it was needful that on the day of the supper He should consecrate the sacrament of His body and blood for our sakes, in order that what was once offered up for our ransom should be fittingly worshiped in a mystery."
 
 Secondly, because without faith in the Passion there could never be any salvation, according to Rom. 3:25: "Whom God hath proposed to be a propitiation, through faith in His blood." It was necessary accordingly that there should be at all times among men something to show forth our Lord's Passion; the chief sacrament of which in the old Law was the Paschal Lamb. Hence the Apostle says (1 Cor. 5:7): "Christ our Pasch is sacrificed." But its successor under the New Testament is the sacrament of the Eucharist, which is a remembrance of the Passion now past, just as the other was figurative of the Passion to come. And so it was fitting that when the hour of the Passion was come, Christ should institute a new Sacrament after celebrating the old, as Pope Leo I says (Serm. lviii).
 
 Thirdly, because last words, chiefly such as are spoken by departing friends, are committed most deeply to memory; since then especially affection for friends is more enkindled, and the things which affect us most are impressed the deepest in the soul. Consequently, since, as Pope Alexander I says, "among sacrifices there can be none greater than the body and blood of Christ, nor any more powerful oblation"; our Lord instituted this sacrament at His last parting with His disciples, in order that it might be held in the greater veneration. And this is what Augustine says (Respons. ad Januar. i): "In order to commend more earnestly the death of this mystery, our Saviour willed this last act to be fixed in the hearts and memories of the disciples whom He was about to quit for the Passion."
+
 ## Replies
+
 Reply to Objection 1: We are nourished from the same things of which we are made, but they do not come to us in the same way; for those out of which we are made come to us through generation, while the same, as nourishing us, come to us through being eaten. Hence, as we are new-born in Christ through Baptism, so through the Eucharist we eat Christ.
+
 Reply to Objection 2: The Eucharist is the perfect sacrament of our Lord's Passion, as containing Christ crucified; consequently it could not be instituted before the Incarnation; but then there was room for only such sacraments as were prefigurative of the Lord's Passion.
+
 Reply to Objection 3: This sacrament was instituted during the supper, so as in the future to be a memorial of our Lord's Passion as accomplished. Hence He said expressively: "As often as ye shall do these things" [*Cf. Canon of the Mass], speaking of the future.
+
 Reply to Objection 4: The institution responds to the order of intention. But the sacrament of the Eucharist, although after Baptism in the receiving, is yet previous to it in intention; and therefore it behooved to be instituted first. or else it can be said that Baptism was already instituted in Christ's Baptism; hence some were already baptized with Christ's Baptism, as we read in Jn. 3:22.

@@ -1,14 +1,25 @@
 # Whether The Damned Demerit?
+
 ## Objections
+
 Objection 1: It would seem that the damned demerit. For the damned have an evil will, as stated in the last Distinction of Sentent. iv. But they demerited by the evil will that they had here. Therefore if they demerit not there, their damnation is to their advantage.
+
 Objection 2: Further, the damned are on the same footing as the demons. Now the demons demerit after their fall, wherefore God inflicted a punishment on the serpent, who induced man to sin (Gn. 3:14,15). Therefore the damned also demerit.
+
 Objection 3: Further, an inordinate act that proceeds from a deliberate will is not excused from demerit, even though there be necessity of which one is oneself the cause: for the "drunken man deserves a double punishment" if he commit a crime through being drunk (Ethic. iii). Now the damned were themselves the cause of their own obstinacy, owing to which they are under a kind of necessity of sinning. Therefore since their act proceeds from their free will, they are not excused from demerit.
+
 ## Answer
+
 On the contrary, Punishment is contradistinguished from fault [*Cf. [5166]FP, Q[48], A[5]]. Now the perverse will of the damned proceeds from their obstinacy which is their punishment. Therefore the perverse will of the damned is not a fault whereby they may demerit.
+
 I answer that, We must draw a distinction between the damned before the judgment day and after. For all are agreed that after the judgment day there will be neither merit nor demerit. The reason for this is because merit or demerit is directed to the attainment of some further good or evil: and after the day of judgment good and evil will have reached their ultimate consummation, so that there will be no further addition to good or evil. Consequently, good will in the blessed will not be a merit but a reward, and evil will in the damned will be not a demerit but a punishment only. For works of virtue belong especially to the state of happiness and their contraries to the state of unhappiness (Ethic. i, 9,10).
 
 On the other hand, some say that, before the judgment day, both the good merit and the damned demerit. But this cannot apply to the essential reward or to the principal punishment, since in this respect both have reached the term. Possibly, however, this may apply to the accidental reward, or secondary punishment, which are subject to increase until the day of judgment. Especially may this apply to the demons, or to the good angels, by whose activities some are drawn to salvation, whereby the joy of the blessed angels is increased, and some to damnation, whereby the punishment of the demons is augmented [*Cf. [5167]FP, Q[62], A[9], ad 3; [5168]SS, Q[13], A[4], ad 2; where St. Thomas tacitly retracts the opinion expressed here as to merit or demerit.].
+
 ## Replies
+
 Reply to Objection 1: It is in the highest degree unprofitable to have reached the highest degree of evil, the result being that the damned are incapable of demerit. Hence it is clear that they gain no advantage from their sin.
+
 Reply to Objection 2: Men who are damned are not occupied in drawing others to damnation, as the demons are, for which reason the latter demerit as regards their secondary punishment [*Cf. [5169]FP, Q[62], A[9], ad 3; [5170]SS, Q[13] , A[4], ad 2; where St. Thomas tacitly retracts the opinion expressed here as to merit or demerit].
+
 Reply to Objection 3: The reason why they are not excused from demerit is not because they are under the necessity of sinning, but because they have reached the highest of evils.

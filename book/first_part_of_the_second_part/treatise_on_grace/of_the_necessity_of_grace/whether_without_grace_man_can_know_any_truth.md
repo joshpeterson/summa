@@ -1,16 +1,27 @@
 # Whether Without Grace Man Can Know Any Truth?
+
 ## Objections
+
 Objection 1: It would seem that without grace man can know no truth. For, on 1 Cor. 12:3: "No man can say, the Lord Jesus, but by the Holy Ghost," a gloss says: "Every truth, by whomsoever spoken is from the Holy Ghost." Now the Holy Ghost dwells in us by grace. Therefore we cannot know truth without grace.
+
 Objection 2: Further, Augustine says (Solil. i, 6) that "the most certain sciences are like things lit up by the sun so as to be seen. Now God Himself is He Whom sheds the light. And reason is in the mind as sight is in the eye. And the eyes of the mind are the senses of the soul." Now the bodily senses, however pure, cannot see any visible object, without the sun's light. Therefore the human mind, however perfect, cannot, by reasoning, know any truth without Divine light: and this pertains to the aid of grace.
+
 Objection 3: Further, the human mind can only understand truth by thinking, as is clear from Augustine (De Trin. xiv, 7). But the Apostle says (2 Cor. 3:5): "Not that we are sufficient to think anything of ourselves, as of ourselves; but our sufficiency is from God." Therefore man cannot, of himself, know truth without the help of grace.
+
 ## Answer
+
 On the contrary, Augustine says (Retract. i, 4): "I do not approve having said in the prayer, O God, Who dost wish the sinless alone to know the truth; for it may be answered that many who are not sinless know many truths." Now man is cleansed from sin by grace, according to Ps. 50:12: "Create a clean heart in me, O God, and renew a right spirit within my bowels." Therefore without grace man of himself can know truth.
+
 I answer that, To know truth is a use or act of intellectual light, since, according to the Apostle (Eph. 5:13): "All that is made manifest is light." Now every use implies movement, taking movement broadly, so as to call thinking and willing movements, as is clear from the Philosopher (De Anima iii, 4). Now in corporeal things we see that for movement there is required not merely the form which is the principle of the movement or action, but there is also required the motion of the first mover. Now the first mover in the order of corporeal things is the heavenly body. Hence no matter how perfectly fire has heat, it would not bring about alteration, except by the motion of the heavenly body. But it is clear that as all corporeal movements are reduced to the motion of the heavenly body as to the first corporeal mover, so all movements, both corporeal and spiritual, are reduced to the simple First Mover, Who is God. And hence no matter how perfect a corporeal or spiritual nature is supposed to be, it cannot proceed to its act unless it be moved by God; but this motion is according to the plan of His providence, and not by necessity of nature, as the motion of the heavenly body. Now not only is every motion from God as from the First Mover, but all formal perfection is from Him as from the First Act. And thus the act of the intellect or of any created being whatsoever depends upon God in two ways: first, inasmuch as it is from Him that it has the form whereby it acts; secondly, inasmuch as it is moved by Him to act.
 
 Now every form bestowed on created things by God has power for a determined act, which it can bring about in proportion to its own proper endowment; and beyond which it is powerless, except by a superadded form, as water can only heat when heated by the fire. And thus the human understanding has a form, viz. intelligible light, which of itself is sufficient for knowing certain intelligible things, viz. those we can come to know through the senses. Higher intelligible things of the human intellect cannot know, unless it be perfected by a stronger light, viz. the light of faith or prophecy which is called the "light of grace," inasmuch as it is added to nature.
 
 Hence we must say that for the knowledge of any truth whatsoever man needs Divine help, that the intellect may be moved by God to its act. But he does not need a new light added to his natural light, in order to know the truth in all things, but only in some that surpass his natural knowledge. And yet at times God miraculously instructs some by His grace in things that can be known by natural reason, even as He sometimes brings about miraculously what nature can do.
+
 ## Replies
+
 Reply to Objection 1: Every truth by whomsoever spoken is from the Holy Ghost as bestowing the natural light, and moving us to understand and speak the truth, but not as dwelling in us by sanctifying grace, or as bestowing any habitual gift superadded to nature. For this only takes place with regard to certain truths that are known and spoken, and especially in regard to such as pertain to faith, of which the Apostle speaks.
+
 Reply to Objection 2: The material sun sheds its light outside us; but the intelligible Sun, Who is God, shines within us. Hence the natural light bestowed upon the soul is God's enlightenment, whereby we are enlightened to see what pertains to natural knowledge; and for this there is required no further knowledge, but only for such things as surpass natural knowledge.
+
 Reply to Objection 3: We always need God's help for every thought, inasmuch as He moves the understanding to act; for actually to understand anything is to think, as is clear from Augustine (De Trin. xiv, 7).

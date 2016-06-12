@@ -1,13 +1,23 @@
 # Whether Life Is An Operation?
+
 ## Objections
+
 Objection 1: It seems that life is an operation. For nothing is divided except into parts of the same genus. But life is divided by certain operations, as is clear from the Philosopher (De Anima ii, 13), who distinguishes four kinds of life, namely, nourishment, sensation, local movement and understanding. Therefore life is an operation.
+
 Objection 2: Further, the active life is said to be different from the contemplative. But the contemplative is only distinguished from the active by certain operations. Therefore life is an operation.
+
 Objection 3: Further, to know God is an operation. But this is life, as is clear from the words of Jn. 18:3, "Now this is eternal life, that they may know Thee, the only true God." Therefore life is an operation.
+
 ## Answer
+
 On the contrary, The Philosopher says (De Anima ii, 37), "In living things, to live is to be."
+
 I answer that, As is clear from what has been said ([123]Q[17], A[3]), our intellect, which takes cognizance of the essence of a thing as its proper object, gains knowledge from sense, of which the proper objects are external accidents. Hence from external appearances we come to the knowledge of the essence of things. And because we name a thing in accordance with our knowledge of it, as is clear from what has already been said ([124]Q[13], A[1]), so from external properties names are often imposed to signify essences. Hence such names are sometimes taken strictly to denote the essence itself, the signification of which is their principal object; but sometimes, and less strictly, to denote the properties by reason of which they are imposed. And so we see that the word "body" is used to denote a genus of substances from the fact of their possessing three dimensions: and is sometimes taken to denote the dimensions themselves; in which sense body is said to be a species of quantity. The same must be said of life. The name is given from a certain external appearance, namely, self-movement, yet not precisely to signify this, but rather a substance to which self-movement and the application of itself to any kind of operation, belong naturally. To live, accordingly, is nothing else than to exist in this or that nature; and life signifies this, though in the abstract, just as the word "running" denotes "to run" in the abstract.
 
 Hence "living" is not an accidental but an essential predicate. Sometimes, however, life is used less properly for the operations from which its name is taken, and thus the Philosopher says (Ethic. ix, 9) that to live is principally to sense or to understand.
+
 ## Replies
+
 Reply to Objection 1: The Philosopher here takes "to live" to mean an operation of life. Or it would be better to say that sensation and intelligence and the like, are sometimes taken for the operations, sometimes for the existence itself of the operator. For he says (Ethic. ix, 9) that to live is to sense or to understand---in other words, to have a nature capable of sensation or understanding. Thus, then, he distinguishes life by the four operations mentioned. For in this lower world there are four kinds of living things. It is the nature of some to be capable of nothing more than taking nourishment, and, as a consequence, of growing and generating. Others are able, in addition, to sense, as we see in the case of shellfish and other animals without movement. Others have the further power of moving from place to place, as perfect animals, such as quadrupeds, and birds, and so on. Others, as man, have the still higher faculty of understanding.
+
 Reply to Objection 2: By vital operations are meant those whose principles are within the operator, and in virtue of which the operator produces such operations of itself. It happens that there exist in men not merely such natural principles of certain operations as are their natural powers, but something over and above these, such as habits inclining them like a second nature to particular kinds of operations, so that the operations become sources of pleasure. Thus, as by a similitude, any kind of work in which a man takes delight, so that his bent is towards it, his time spent in it, and his whole life ordered with a view to it, is said to be the life of that man. Hence some are said to lead to life of self-indulgence, others a life of virtue. In this way the contemplative life is distinguished from the active, and thus to know God is said to be life eternal.

@@ -1,14 +1,25 @@
 # Whether It Was Fitting For Christ To Be Crucified With Thieves?
+
 ## Objections
+
 Objection 1: It would seem unfitting for Christ to have been crucified with thieves, because it is written (2 Cor. 6:14): "What participation hath justice with injustice?" But for our sakes Christ "of God is made unto us justice" (1 Cor. 1:30); whereas iniquity applies to thieves. Therefore it was not fitting for Christ to be crucified with thieves.
+
 Objection 2: Further, on Mat. 26:35, "Though I should die with Thee, I will not deny Thee," Origen (Tract. xxxv in Matth.) observes: "It was not men's lot to die with Jesus, since He died for all." Again, on Lk. 22:33, "I am ready to go with Thee, both into prison and death," Ambrose says: "Our Lord's Passion has followers, but not equals." It seems, then, much less fitting for Christ to suffer with thieves.
+
 Objection 3: Further, it is written (Mat. 27:44) that "the thieves who were crucified with Him reproached Him." But in Lk. 22:42 it is stated that one of them who were crucified with Christ cried out to Him: "Lord, remember me when Thou shalt come into Thy kingdom." It seems, then, that besides the blasphemous thieves there was another man who did not blaspheme Him: and so the Evangelist's account does not seem to be accurate when it says that Christ was crucified with thieves.
+
 ## Answer
+
 On the contrary, It was foretold by Isaias (53:12): "And He was reputed with the wicked."
+
 I answer that, Christ was crucified between thieves from one intention on the part of the Jews, and from quite another on the part of God's ordaining. As to the intention of the Jews, Chrysostom remarks (Hom. lxxxvii in Matth.) that they crucified the two thieves, one on either side, "that He might be made to share their guilt. But it did not happen so; because mention is never made of them; whereas His cross is honored everywhere. Kings lay aside their crowns to take up the cross: on their purple robes, on their diadems, on their weapons, on the consecrated table, everywhere the cross shines forth."
 
 As to God's ordinance, Christ was crucified with thieves, because, as Jerome says on Mat. 27:33: "As Christ became accursed of the cross for us, so for our salvation He was crucified as a guilty one among the guilty." Secondly, as Pope Leo observes (Serm. iv de Passione): "Two thieves were crucified, one on His right hand and one on His left, to set forth by the very appearance of the gibbet that separation of all men which shall be made in His hour of judgment." And Augustine on Jn. 7:36: "The very cross, if thou mark it well, was a judgment-seat: for the judge being set in the midst, the one who believed was delivered, the other who mocked Him was condemned. Already He has signified what He shall do to the quick and the dead; some He will set on His right, others on His left hand." Thirdly, according to Hilary (Comm. xxxiii in Matth.): "Two thieves are set, one upon His right and one upon His left, to show that all mankind is called to the sacrament of His Passion. But because of the cleavage between believers and unbelievers, the multitude is divided into right and left, those on the right being saved by the justification of faith." Fourthly, because, as Bede says on Mk. 15:27: "The thieves crucified with our Lord denote those who, believing in and confessing Christ, either endure the conflict of martyrdom or keep the institutes of stricter observance. But those who do the like for the sake of everlasting glory are denoted by the faith of the thief on the right; while others who do so for the sake of human applause copy the mind and behavior of the one on the left."
+
 ## Replies
+
 Reply to Objection 1: Just as Christ was not obliged to die, but willingly submitted to death so as to vanquish death by His power: so neither deserved He to be classed with thieves; but willed to be reputed with the ungodly that He might destroy ungodliness by His power. Accordingly, Chrysostom says (Hom. lxxxiv in Joan.) that "to convert the thief upon the cross, and lead him into paradise, was no less a wonder than to shake the rocks."
+
 Reply to Objection 2: It was not fitting that anyone else should die with Christ from the same cause as Christ: hence Origen continues thus in the same passage: "All had been under sin, and all required that another should die for them, not they for others."
+
 Reply to Objection 3: As Augustine says (De Consensu Evang. iii): We can understand Matthew "as putting the plural for the singular" when he said "the thieves reproached Him." Or it may be said, with Jerome, that "at first both blasphemed Him, but afterwards one believed in Him on witnessing the wonders."

@@ -1,13 +1,23 @@
 # Whether The Object Of Faith Is The First Truth?
+
 ## Objections
+
 Objection 1: It would seem that the object of faith is not the First Truth. For it seems that the object of faith is that which is proposed to us to be believed. Now not only things pertaining to the Godhead, i.e. the First Truth, are proposed to us to be believed, but also things concerning Christ's human nature, and the sacraments of the Church, and the condition of creatures. Therefore the object of faith is not only the First Truth.
+
 Objection 2: Further, faith and unbelief have the same object since they are opposed to one another. Now unbelief can be about all things contained in Holy Writ, for whichever one of them a man denies, he is considered an unbeliever. Therefore faith also is about all things contained in Holy Writ. But there are many things therein, concerning man and other creatures. Therefore the object of faith is not only the First Truth, but also created truth.
+
 Objection 3: Further, faith is condivided with charity, as stated above ([2258]FS, Q[62], A[3]). Now by charity we love not only God, who is the sovereign Good, but also our neighbor. Therefore the object of Faith is not only the First Truth.
+
 ## Answer
+
 On the contrary, Dionysius says (Div. Nom. vii) that "faith is about the simple and everlasting truth." Now this is the First Truth. Therefore the object of faith is the First Truth.
+
 I answer that, The object of every cognitive habit includes two things: first, that which is known materially, and is the material object, so to speak, and, secondly, that whereby it is known, which is the formal aspect of the object. Thus in the science of geometry, the conclusions are what is known materially, while the formal aspect of the science is the mean of demonstration, through which the conclusions are known.
 
 Accordingly if we consider, in faith, the formal aspect of the object, it is nothing else than the First Truth. For the faith of which we are speaking, does not assent to anything, except because it is revealed by God. Hence the mean on which faith is based is the Divine Truth. If, however, we consider materially the things to which faith assents, they include not only God, but also many other things, which, nevertheless, do not come under the assent of faith, except as bearing some relation to God, in as much as, to wit, through certain effects of the Divine operation, man is helped on his journey towards the enjoyment of God. Consequently from this point of view also the object of faith is, in a way, the First Truth, in as much as nothing comes under faith except in relation to God, even as the object of the medical art is health, for it considers nothing save in relation to health.
+
 ## Replies
+
 Reply to Objection 1: Things concerning Christ's human nature, and the sacraments of the Church, or any creatures whatever, come under faith, in so far as by them we are directed to God, and in as much as we assent to them on account of the Divine Truth.
+
 Reply to Objection 3: Charity also loves our neighbor on account of God, so that its object, properly speaking, is God, as we shall show further on ([2259]Q[25] , A[1]).

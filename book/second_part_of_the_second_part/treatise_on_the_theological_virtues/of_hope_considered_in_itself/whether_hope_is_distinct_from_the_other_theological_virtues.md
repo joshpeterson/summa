@@ -1,14 +1,25 @@
 # Whether Hope Is Distinct From The Other Theological Virtues?
+
 ## Objections
+
 Objection 1: It would seem that hope is not distinct from the other theological virtues. For habits are distinguished by their objects, as stated above ([2440]FS, Q[54], A[2]). Now the object of hope is the same as of the other theological virtues. Therefore hope is not distinct from the other theological virtues.
+
 Objection 2: Further, in the symbol of faith, whereby we make profession of faith, we say: "I expect the resurrection of the dead and the life of the world to come." Now expectation of future happiness belongs to hope, as stated above [2441](A[5]). Therefore hope is not distinct from faith.
+
 Objection 3: Further, by hope man tends to God. But this belongs properly to charity. Therefore hope is not distinct from charity.
+
 ## Answer
+
 On the contrary, There cannot be number without distinction. Now hope is numbered with the other theological virtues: for Gregory says (Moral. i, 16) that the three virtues are faith, hope, and charity. Therefore hope is distinct from the theological virtues.
+
 I answer that, A virtue is said to be theological from having God for the object to which it adheres. Now one may adhere to a thing in two ways: first, for its own sake; secondly, because something else is attained thereby. Accordingly charity makes us adhere to God for His own sake, uniting our minds to God by the emotion of love.
 
 On the other hand, hope and faith make man adhere to God as to a principle wherefrom certain things accrue to us. Now we derive from God both knowledge of truth and the attainment of perfect goodness. Accordingly faith makes us adhere to God, as the source whence we derive the knowledge of truth, since we believe that what God tells us is true: while hope makes us adhere to God, as the source whence we derive perfect goodness, i.e. in so far as, by hope, we trust to the Divine assistance for obtaining happiness.
+
 ## Replies
+
 Reply to Objection 1: God is the object of these virtues under different aspects, as stated above: and a different aspect of the object suffices for the distinction of habits, as stated above ([2442]FS, Q[54], A[2]).
+
 Reply to Objection 2: Expectation is mentioned in the symbol of faith, not as though it were the proper act of faith, but because the act of hope presupposes the act of faith, as we shall state further on [2443](A[7]). Hence an act of faith is expressed in the act of hope.
+
 Reply to Objection 3: Hope makes us tend to God, as to a good to be obtained finally, and as to a helper strong to assist: whereas charity, properly speaking, makes us tend to God, by uniting our affections to Him, so that we live, not for ourselves, but for God.

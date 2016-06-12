@@ -1,16 +1,29 @@
 # Whether The Evil Of Sin Is An Object Of Fear?
+
 ## Objections
+
 Objection 1: It would seem that the evil of sin can be an object of fear. For Augustine says on the canonical Epistle of John (Tract. ix), that "by chaste fear man fears to be severed from God." Now nothing but sin severs us from God; according to Is. 59:2: "Your iniquities have divided between you and your God." Therefore the evil of sin can be an object of fear.
+
 Objection 2: Further, Cicero says (Quaest. Tusc. iv, 4,6) that "we fear when they are yet to come, those things which give us pain when they are present." But it is possible for one to be pained or sorrowful on account of the evil of sin. Therefore one can also fear the evil of sin.
+
 Objection 3: Further, hope is contrary to fear. But the good of virtue can be the object of hope, as the Philosopher declares (Ethic. ix, 4): and the Apostle says (Gal. 5:10): "I have confidence in you in the Lord, that you will not be of another mind." Therefore fear can regard evil of sin.
+
 Objection 4: Further, shame is a kind of fear, as stated above ([1383]Q[41], A[4]). But shame regards a disgraceful deed, which is an evil of sin. Therefore fear does so likewise.
+
 ## Answer
+
 On the contrary, The Philosopher says (Rhet. ii, 5) that "not all evils are feared, for instance that someone be unjust or slow."
+
 I answer that, As stated above ([1384]Q[40], A[1];[1385] Q[41], A[2]), as the object of hope is a future good difficult but possible to obtain, so the object of fear is a future evil, arduous and not to be easily avoided. From this we may gather that whatever is entirely subject to our power and will, is not an object of fear; and that nothing gives rise to fear save what is due to an external cause. Now human will is the proper cause of the evil of sin: and consequently evil of sin, properly speaking, is not an object of fear.
 
 But since the human will may be inclined to sin by an extrinsic cause; if this cause have a strong power of inclination, in that respect a man may fear the evil of sin, in so far as it arises from that extrinsic cause: as when he fears to dwell in the company of wicked men, lest he be led by them to sin. But, properly speaking, a man thus disposed, fears the being led astray rather than the sin considered in its proper nature, i.e. as a voluntary act; for considered in this light it is not an object of fear to him.
+
 ## Replies
+
 Reply to Objection 1: Separation from God is a punishment resulting from sin: and every punishment is, in some way, due to an extrinsic cause.
+
 Reply to Objection 2: Sorrow and fear agree in one point, since each regards evil: they differ, however, in two points. First, because sorrow is about present evil, whereas fear is future evil. Secondly, because sorrow, being in the concupiscible faculty, regards evil absolutely; wherefore it can be about any evil, great or small; whereas fear, being in the irascible part, regards evil with the addition of a certain arduousness or difficulty; which difficulty ceases in so far as a thing is subject to the will. Consequently not all things that give us pain when they are present, make us fear when they are yet to come, but only some things, namely, those that are difficult.
+
 Reply to Objection 3: Hope is of good that is obtainable. Now one may obtain a good either of oneself, or through another: and so, hope may be of an act of virtue, which lies within our own power. On the other hand, fear is of an evil that does not lie in our own power: and consequently the evil which is feared is always from an extrinsic cause; while the good that is hoped for may be both from an intrinsic and from an extrinsic cause.
+
 Reply to Objection 4: As stated above ([1386]Q[41], A[4], ad 2,3), shame is not fear of the very act of sin, but of the disgrace or ignominy which arises therefrom, and which is due to an extrinsic cause.

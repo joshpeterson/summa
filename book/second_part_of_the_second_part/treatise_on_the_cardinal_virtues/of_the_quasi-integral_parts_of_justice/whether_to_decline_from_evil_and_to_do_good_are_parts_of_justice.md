@@ -1,16 +1,27 @@
 # Whether To Decline From Evil And To Do Good Are Parts Of Justice?
+
 ## Objections
+
 Objection 1: It would seem that to decline from evil and to do good are not parts of justice. For it belongs to every virtue to perform a good deed and to avoid an evil one. But parts do not exceed the whole. Therefore to decline from evil and to do good should not be reckoned parts of justice, which is a special kind of virtue.
+
 Objection 2: Further, a gloss on Ps. 33:15, "Turn away from evil and do good," says: "The former," i.e. to turn away from evil, "avoids sin, the latter," i.e. to do good, "deserves the life and the palm." But any part of a virtue deserves the life and the palm. Therefore to decline from evil is not a part of justice.
+
 Objection 3: Further, things that are so related that one implies the other, are not mutually distinct as parts of a whole. Now declining from evil is implied in doing good: since no one does evil and good at the same time. Therefore declining from evil and doing good are not parts of justice.
+
 ## Answer
+
 On the contrary, Augustine (De Correp. et Grat. i) declares that "declining from evil and doing good" belong to the justice of the law.
+
 I answer that, If we speak of good and evil in general, it belongs to every virtue to do good and to avoid evil: and in this sense they cannot be reckoned parts of justice, except justice be taken in the sense of "all virtue" [*Cf.[2972] Q[58], A[5]]. And yet even if justice be taken in this sense it regards a certain special aspect of good; namely, the good as due in respect of Divine or human law.
 
 On the other hand justice considered as a special virtue regards good as due to one's neighbor. And in this sense it belongs to special justice to do good considered as due to one's neighbor, and to avoid the opposite evil, that, namely, which is hurtful to one's neighbor; while it belongs to general justice to do good in relation to the community or in relation to God, and to avoid the opposite evil.
 
 Now these two are said to be quasi-integral parts of general or of special justice, because each is required for the perfect act of justice. For it belongs to justice to establish equality in our relations with others, as shown above ([2973]Q[58], A[2]): and it pertains to the same cause to establish and to preserve that which it has established. Now a person establishes the equality of justice by doing good, i.e. by rendering to another his due: and he preserves the already established equality of justice by declining from evil, that is by inflicting no injury on his neighbor.
+
 ## Replies
+
 Reply to Objection 1: Good and evil are here considered under a special aspect, by which they are appropriated to justice. The reason why these two are reckoned parts of justice under a special aspect of good and evil, while they are not reckoned parts of any other moral virtue, is that the other moral virtues are concerned with the passions wherein to do good is to observe the mean, which is the same as to avoid the extremes as evils: so that doing good and avoiding evil come to the same, with regard to the other virtues. On the other hand justice is concerned with operations and external things, wherein to establish equality is one thing, and not to disturb the equality established is another.
+
 Reply to Objection 2: To decline from evil, considered as a part of justice, does not denote a pure negation, viz."not to do evil"; for this does not deserve the palm, but only avoids the punishment. But it implies a movement of the will in repudiating evil, as the very term "decline" shows. This is meritorious; especially when a person resists against an instigation to do evil.
+
 Reply to Objection 3: Doing good is the completive act of justice, and the principal part, so to speak, thereof. Declining from evil is a more imperfect act, and a secondary part of that virtue. Hence it is a. material part, so to speak, thereof, and a necessary condition of the formal and completive part.

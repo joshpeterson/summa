@@ -1,10 +1,19 @@
 # Whether Local Distance Influences The Angelic Speech?
+
 ## Objections
+
 Objection 1: It would seem that local distance affects the angelic speech. For as Damascene says (De Fide Orth. i, 13): "An angel works where he is." But speech is an angelic operation. Therefore, as an angel is in a determinate place, it seems that an angel's speech is limited by the bounds of that place.
+
 Objection 2: Further, a speaker cries out on account of the distance of the hearer. But it is said of the Seraphim that "they cried one to another" (Is. 6:3). Therefore in the angelic speech local distance has some effect.
+
 ## Answer
+
 On the contrary, It is said that the rich man in hell spoke to Abraham, notwithstanding the local distance (Lk. 16:24). Much less therefore does local distance impede the speech of one angel to another.
+
 I answer that, The angelic speech consists in an intellectual operation, as explained above ([865]AA[1],2,3). And the intellectual operation of an angel abstracts from the "here and now." For even our own intellectual operation takes place by abstraction from the "here and now," except accidentally on the part of the phantasms, which do not exist at all in an angel. But as regards whatever is abstracted from "here and now," neither difference of time nor local distance has any influence whatever. Hence in the angelic speech local distance is no impediment.
+
 ## Replies
+
 Reply to Objection 1: The angelic speech, as above explained (A[1], ad 2), is interior; perceived, nevertheless, by another; and therefore it exists in the angel who speaks, and consequently where the angel is who speaks. But as local distance does not prevent one angel seeing another, so neither does it prevent an angel perceiving what is ordered to him on the part of another; and this is to perceive his speech.
+
 Reply to Objection 2: The cry mentioned is not a bodily voice raised by reason of the local distance; but is taken to signify the magnitude of what is said, or the intensity of the affection, according to what Gregory says (Moral. ii): "The less one desires, the less one cries out."

@@ -1,14 +1,25 @@
 # Whether Charity Is The Most Excellent Of The Virtues?
+
 ## Objections
+
 Objection 1: It would seem that charity is not the most excellent of the virtues. Because the higher power has the higher virtue even as it has a higher operation. Now the intellect is higher than the will, since it directs the will. Therefore, faith, which is in the intellect, is more excellent than charity which is in the will.
+
 Objection 2: Further, the thing by which another works seems the less excellent of the two, even as a servant, by whom his master works, is beneath his master. Now "faith . . . worketh by charity," according to Gal. 5:6. Therefore faith is more excellent than charity.
+
 Objection 3: Further, that which is by way of addition to another seems to be the more perfect of the two. Now hope seems to be something additional to charity: for the object of charity is good, whereas the object of hope is an arduous good. Therefore hope is more excellent than charity.
+
 ## Answer
+
 On the contrary, It is written (1 Cor. 13:13): "The greater of these is charity."
+
 I answer that, Since good, in human acts, depends on their being regulated by the due rule, it must needs be that human virtue, which is a principle of good acts, consists in attaining the rule of human acts. Now the rule of human acts is twofold, as stated above [2507](A[3]), namely, human reason and God: yet God is the first rule, whereby, even human reason must be regulated. Consequently the theological virtues, which consist in attaining this first rule, since their object is God, are more excellent than the moral, or the intellectual virtues, which consist in attaining human reason: and it follows that among the theological virtues themselves, the first place belongs to that which attains God most.
 
 Now that which is of itself always ranks before that which is by another. But faith and hope attain God indeed in so far as we derive from Him the knowledge of truth or the acquisition of good, whereas charity attains God Himself that it may rest in Him, but not that something may accrue to us from Him. Hence charity is more excellent than faith or hope, and, consequently, than all the other virtues, just as prudence, which by itself attains reason, is more excellent than the other moral virtues, which attain reason in so far as it appoints the mean in human operations or passions.
+
 ## Replies
+
 Reply to Objection 1: The operation of the intellect is completed by the thing understood being in the intellectual subject, so that the excellence of the intellectual operation is assessed according to the measure of the intellect. On the other hand, the operation of the will and of every appetitive power is completed in the tendency of the appetite towards a thing as its term, wherefore the excellence of the appetitive operation is gauged according to the thing which is the object of the operation. Now those things which are beneath the soul are more excellent in the soul than they are in themselves, because a thing is contained according to the mode of the container (De Causis xii). On the other hand, things that are above the soul, are more excellent in themselves than they are in the soul. Consequently it is better to know than to love the things that are beneath us; for which reason the Philosopher gave the preference to the intellectual virtues over the moral virtues (Ethic. x, 7,8): whereas the love of the things that are above us, especially of God, ranks before the knowledge of such things. Therefore charity is more excellent than faith.
+
 Reply to Objection 2: Faith works by love, not instrumentally, as a master by his servant, but as by its proper form: hence the argument does not prove.
+
 Reply to Objection 3: The same good is the object of charity and of hope: but charity implies union with that good, whereas hope implies distance therefrom. Hence charity does not regard that good as being arduous, as hope does, since what is already united has not the character of arduous: and this shows that charity is more perfect than hope.

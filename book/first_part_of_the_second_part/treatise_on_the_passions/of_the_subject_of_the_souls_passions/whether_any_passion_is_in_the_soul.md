@@ -1,12 +1,23 @@
 # Whether Any Passion Is In The Soul?
+
 ## Objections
+
 Objection 1: It would seem that there is no passion in the soul. Because passivity belongs to matter. But the soul is not composed of matter and form, as stated in the [1206]FP, Q[75], A[5]. Therefore there is no passion in the soul.
+
 Objection 2: Further, passion is movement, as is stated in Phys. iii, 3. But the soul is not moved, as is proved in De Anima i, 3. Therefore passion is not in the soul.
+
 Objection 3: Further, passion is the road to corruption; since "every passion, when increased, alters the substance," as is stated in Topic. vi, 6. But the soul is incorruptible. Therefore no passion is in the soul.
+
 ## Answer
+
 On the contrary, The Apostle says (Rom. 7:5): "When we were in the flesh, the passions of sins which were by the law, did the work in our members." Now sins are, properly speaking, in the soul. Therefore passions also, which are described as being "of sins," are in the soul.
+
 I answer that, The word "passive" is used in three ways. First, in a general way, according as whatever receives something is passive, although nothing is taken from it: thus we may say that the air is passive when it is lit up. But this is to be perfected rather than to be passive. Secondly, the word "passive" is employed in its proper sense, when something is received, while something else is taken away: and this happens in two ways. For sometimes that which is lost is unsuitable to the thing: thus when an animal's body is healed, and loses sickness. At other times the contrary occurs: thus to ail is to be passive; because the ailment is received and health is lost. And here we have passion in its most proper acceptation. For a thing is said to be passive from its being drawn to the agent: and when a thing recedes from what is suitable to it, then especially does it appear to be drawn to something else. Moreover in De Generat. i, 3 it is stated that when a more excellent thing is generated from a less excellent, we have generation simply, and corruption in a particular respect: whereas the reverse is the case, when from a more excellent thing, a less excellent is generated. In these three ways it happens that passions are in the soul. For in the sense of mere reception, we speak of "feeling and understanding as being a kind of passion" (De Anima i, 5). But passion, accompanied by the loss of something, is only in respect of a bodily transmutation; wherefore passion properly so called cannot be in the soul, save accidentally, in so far, to wit, as the "composite" is passive. But here again we find a difference; because when this transmutation is for the worse, it has more of the nature of a passion, than when it is for the better: hence sorrow is more properly a passion than joy.
+
 ## Replies
+
 Reply to Objection 1: It belongs to matter to be passive in such a way as to lose something and to be transmuted: hence this happens only in those things that are composed of matter and form. But passivity, as implying mere reception, need not be in matter, but can be in anything that is in potentiality. Now, though the soul is not composed of matter and form, yet it has something of potentiality, in respect of which it is competent to receive or to be passive, according as the act of understanding is a kind of passion, as stated in De Anima iii, 4.
+
 Reply to Objection 2: Although it does not belong to the soul in itself to be passive and to be moved, yet it belongs accidentally as stated in De Anima i, 3.
+
 Reply to Objection 3: This argument is true of passion accompanied by transmutation to something worse. And passion, in this sense, is not found in the soul, except accidentally: but the composite, which is corruptible, admits of it by reason of its own nature.

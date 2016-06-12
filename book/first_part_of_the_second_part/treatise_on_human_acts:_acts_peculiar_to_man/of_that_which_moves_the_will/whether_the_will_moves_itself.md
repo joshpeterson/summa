@@ -1,12 +1,23 @@
 # Whether The Will Moves Itself?
+
 ## Objections
+
 Objection 1: It would seem that the will does not move itself. For every mover, as such, is in act: whereas what is moved, is in potentiality; since "movement is the act of that which is in potentiality, as such" [*Aristotle, Phys. iii, 1]. Now the same is not in potentiality and in act, in respect of the same. Therefore nothing moves itself. Neither, therefore, can the will move itself.
+
 Objection 2: Further, the movable is moved on the mover being present. But the will is always present to itself. If, therefore, it moved itself, it would always be moving itself, which is clearly false.
+
 Objection 3: Further, the will is moved by the intellect, as stated above [1067](A[1]). If, therefore, the will move itself, it would follow that the same thing is at once moved immediately by two movers; which seems unreasonable. Therefore the will does not move itself.
+
 ## Answer
+
 On the contrary, The will is mistress of its own act, and to it belongs to will and not to will. But this would not be so, had it not the power to move itself to will. Therefore it moves itself.
+
 I answer that, As stated above [1068](A[1]), it belongs to the will to move the other powers, by reason of the end which is the will's object. Now, as stated above (Q[8], A[2]), the end is in things appetible, what the principle is in things intelligible. But it is evident that the intellect, through its knowledge of the principle, reduces itself from potentiality to act, as to its knowledge of the conclusions; and thus it moves itself. And, in like manner, the will, through its volition of the end, moves itself to will the means.
+
 ## Replies
+
 Reply to Objection 1: It is not in respect of the same that the will moves itself and is moved: wherefore neither is it in act and in potentiality in respect of the same. But forasmuch as it actually wills the end, it reduces itself from potentiality to act, in respect of the means, so as, in a word, to will them actually.
+
 Reply to Objection 2: The power of the will is always actually present to itself; but the act of the will, whereby it wills an end, is not always in the will. But it is by this act that it moves itself. Accordingly it does not follow that it is always moving itself.
+
 Reply to Objection 3: The will is moved by the intellect, otherwise than by itself. By the intellect it is moved on the part of the object: whereas it is moved by itself, as to the exercise of its act, in respect of the end.

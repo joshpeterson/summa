@@ -1,14 +1,27 @@
 # Whether An Angel Can Change Man's Imagination?
+
 ## Objections
+
 Objection 1: It would seem that an angel cannot change man's imagination. For the phantasy, as is said De Anima iii, is "a motion caused by the sense in act." But if this motion were caused by an angel, it would not be caused by the sense in act. Therefore it is contrary to the nature of the phantasy, which is the act of the imaginative faculty, to be changed by an angel.
+
 Objection 2: Further, since the forms in the imagination are spiritual, they are nobler than the forms existing in sensible matter. But an angel cannot impress forms upon sensible matter ([905]Q[110], A[2]). Therefore he cannot impress forms on the imagination, and so he cannot change it.
+
 Objection 3: Further, Augustine says (Gen. ad lit. xii, 12): "One spirit by intermingling with another can communicate his knowledge to the other spirit by these images, so that the latter either understands it himself, or accepts it as understood by the other." But it does not seem that an angel can be mingled with the human imagination, nor that the imagination can receive the knowledge of an angel. Therefore it seems that an angel cannot change the imagination.
+
 Objection 4: Further, in the imaginative vision man cleaves to the similitudes of the things as to the things themselves. But in this there is deception. So as a good angel cannot be the cause of deception, it seems that he cannot cause the imaginative vision, by changing the imagination.
+
 ## Answer
+
 On the contrary, Those things which are seen in dreams are seen by imaginative vision. But the angels reveal things in dreams, as appears from Mat. 1:20;[2]:13,[19] in regard to the angel who appeared to Joseph in dreams. Therefore an angel can move the imagination.
+
 I answer that, Both a good and a bad angel by their own natural power can move the human imagination. This may be explained as follows. For it was said above ([906]Q[110], A[3]), that corporeal nature obeys the angel as regards local movement, so that whatever can be caused by the local movement of bodies is subject to the natural power of the angels. Now it is manifest that imaginative apparitions are sometimes caused in us by the local movement of animal spirits and humors. Hence Aristotle says (De Somn. et Vigil.) [*De Insomniis iii.], when assigning the cause of visions in dreams, that "when an animal sleeps, the blood descends in abundance to the sensitive principle, and movements descend with it," that is, the impressions left from the movements are preserved in the animal spirits, "and move the sensitive principle"; so that a certain appearance ensues, as if the sensitive principle were being then changed by the external objects themselves. Indeed, the commotion of the spirits and humors may be so great that such appearances may even occur to those who are awake, as is seen in mad people, and the like. So, as this happens by a natural disturbance of the humors, and sometimes also by the will of man who voluntarily imagines what he previously experienced, so also the same may be done by the power of a good or a bad angel, sometimes with alienation from the bodily senses, sometimes without such alienation.
+
 ## Replies
+
 Reply to Objection 1: The first principle of the imagination is from the sense in act. For we cannot imagine what we have never perceived by the senses, either wholly or partly; as a man born blind cannot imagine color. Sometimes, however, the imagination is informed in such a way that the act of the imaginative movement arises from the impressions preserved within.
+
 Reply to Objection 2: An angel changes the imagination, not indeed by the impression of an imaginative form in no way previously received from the senses (for he cannot make a man born blind imagine color), but by local movement of the spirits and humors, as above explained.
+
 Reply to Objection 3: The commingling of the angelic spirit with the human imagination is not a mingling of essences, but by reason of an effect which he produces in the imagination in the way above stated; so that he shows man what he [the angel] knows, but not in the way he knows.
+
 Reply to Objection 4: An angel causing an imaginative vision, sometimes enlightens the intellect at the same time, so that it knows what these images signify; and then there is not deception. But sometimes by the angelic operation the similitudes of things only appear in the imagination; but neither then is deception caused by the angel, but by the defect in the intellect to whom such things appear. Thus neither was Christ a cause of deception when He spoke many things to the people in parables, which He did not explain to them.

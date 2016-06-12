@@ -1,14 +1,25 @@
 # Whether Justice Is The Chief Of The Moral Virtues?
+
 ## Objections
+
 Objection 1: It would seem that justice is not the chief of the moral virtues. For it is better to give of one's own than to pay what is due. Now the former belongs to liberality, the latter to justice. Therefore liberality is apparently a greater virtue than justice.
+
 Objection 2: Further, the chief quality of a thing is, seemingly, that in which it is most perfect. Now, according to Jam. 1:4, "Patience hath a perfect work." Therefore it would seem that patience is greater than justice.
+
 Objection 3: Further, "Magnanimity has a great influence on every virtue," as stated in Ethic. iv, 3. Therefore it magnifies even justice. Therefore it is greater than justice.
+
 ## Answer
+
 On the contrary, The Philosopher says (Ethic. v, 1) that "justice is the most excellent of the virtues."
+
 I answer that, A virtue considered in its species may be greater or less, either simply or relatively. A virtue is said to be greater simply, whereby a greater rational good shines forth, as stated above [1628](A[1]). In this way justice is the most excellent of all the moral virtues, as being most akin to reason. This is made evident by considering its subject and its object: its subject, because this is the will, and the will is the rational appetite, as stated above (Q[8], A[1]; Q[26], A[1]): its object or matter, because it is about operations, whereby man is set in order not only in himself, but also in regard to another. Hence "justice is the most excellent of virtues" (Ethic. v, 1). Among the other moral virtues, which are about the passions, the more excellent the matter in which the appetitive movement is subjected to reason, so much the more does the rational good shine forth in each. Now in things touching man, the chief of all is life, on which all other things depend. Consequently fortitude which subjects the appetitive movement to reason in matters of life and death, holds the first place among those moral virtues that are about the passions, but is subordinate to justice. Hence the Philosopher says (Rhet. 1) that "those virtues must needs be greatest which receive the most praise: since virtue is a power of doing good. Hence the brave man and the just man are honored more than others; because the former," i.e. fortitude, "is useful in war, and the latter," i.e. justice, "both in war and in peace." After fortitude comes temperance, which subjects the appetite to reason in matters directly relating to life, in the one individual, or in the one species, viz. in matters of food and of sex. And so these three virtues, together with prudence, are called principal virtues, in excellence also.
 
 A virtue is said to be greater relatively, by reason of its helping or adorning a principal virtue: even as substance is more excellent simply than accident: and yet relatively some particular accident is more excellent than substance in so far as it perfects substance in some accidental mode of being.
+
 ## Replies
+
 Reply to Objection 1: The act of liberality needs to be founded on an act of justice, for "a man is not liberal in giving, unless he gives of his own" (Polit. ii, 3). Hence there could be no liberality apart from justice, which discerns between "meum" and "tuum": whereas justice can be without liberality. Hence justice is simply greater than liberality, as being more universal, and as being its foundation: while liberality is greater relatively since it is an ornament and an addition to justice.
+
 Reply to Objection 2: Patience is said to have "a perfect work," by enduring evils, wherein it excludes not only unjust revenge, which is also excluded by justice; not only hatred, which is also suppressed by charity; nor only anger, which is calmed by gentleness; but also inordinate sorrow, which is the root of all the above. Wherefore it is more perfect and excellent through plucking up the root in this matter. It is not, however, more perfect than all the other virtues simply. Because fortitude not only endures trouble without being disturbed, but also fights against it if necessary. Hence whoever is brave is patient; but the converse does not hold, for patience is a part of fortitude.
+
 Reply to Objection 3: There can be no magnanimity without the other virtues, as stated in Ethic. iv, 3. Hence it is compared to them as their ornament, so that relatively it is greater than all the others, but not simply.
