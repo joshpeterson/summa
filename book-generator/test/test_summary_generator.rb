@@ -56,23 +56,33 @@ class TestSummaryGenerator < Minitest::Test
   end
 
 $expected_summary= %{# Summary
-* [Part 1](part_1/prologue.md)
-  * [Treatise 1](part_1/treatise_1/prologue.md)
-    * [Question 1](part_1/treatise_1/question_1/prologue.md)
-      * [Article 1](part_1/treatise_1/question_1/article_1.md)
-      * [Article 2](part_1/treatise_1/question_1/article_2.md)
-  * [Treatise 2](part_1/treatise_2/prologue.md)
-    * [Question 2](part_1/treatise_2/question_2/prologue.md)
-      * [Article 3](part_1/treatise_2/question_2/article_3.md)
-      * [Article 4](part_1/treatise_2/question_2/article_4.md)
-* [Part 2](part_2/prologue.md)
-  * [Treatise 3](part_2/treatise_3/prologue.md)
-    * [Question 3](part_2/treatise_3/question_3/prologue.md)
-      * [Article 5](part_2/treatise_3/question_3/article_5.md)
-      * [Article 6](part_2/treatise_3/question_3/article_6.md)
-  * [Treatise 4](part_2/treatise_4/prologue.md)
-    * [Question 4](part_2/treatise_4/question_4/prologue.md)
-      * [Article 7](part_2/treatise_4/question_4/article_7.md)
-      * [Article 8](part_2/treatise_4/question_4/article_8.md)
+
+## Part 1
+
+### Treatise 1
+
+* [Question 1](part_1/treatise_1/question_1/prologue.md)
+  * [Article 1](part_1/treatise_1/question_1/article_1.md)
+  * [Article 2](part_1/treatise_1/question_1/article_2.md)
+
+### Treatise 2
+
+* [Question 2](part_1/treatise_2/question_2/prologue.md)
+  * [Article 3](part_1/treatise_2/question_2/article_3.md)
+  * [Article 4](part_1/treatise_2/question_2/article_4.md)
+
+## Part 2
+
+### Treatise 3
+
+* [Question 3](part_2/treatise_3/question_3/prologue.md)
+  * [Article 5](part_2/treatise_3/question_3/article_5.md)
+  * [Article 6](part_2/treatise_3/question_3/article_6.md)
+
+### Treatise 4
+
+* [Question 4](part_2/treatise_4/question_4/prologue.md)
+  * [Article 7](part_2/treatise_4/question_4/article_7.md)
+  * [Article 8](part_2/treatise_4/question_4/article_8.md)
 }
 end
