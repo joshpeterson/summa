@@ -5,8 +5,3 @@ OF RESPECT OF PERSONS (FOUR ARTICLES)  We must now consider the vices opposed to
 (2) Whether it takes place in the dispensation of spiritualities?
 (3) Whether it takes place in showing honor?
 (4) Whether it takes place in judicial sentences?
-
-* Whether Respect Of Persons Is A Sin?
-* Whether Respect Of Persons Takes Place In The Dispensation Of Spiritual Goods?
-* Whether Respect Of Persons Takes Place In Showing Honor And Respect?
-* Whether The Sin Of Respect Of Persons Takes Place In Judicial Sentences?

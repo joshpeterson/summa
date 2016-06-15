@@ -5,8 +5,3 @@ Since it evidently belongs to the infinite to be present everywhere, and in all 
 (2) Whether God is everywhere?
 (3) Whether God is everywhere by essence, power, and presence?
 (4) Whether to be everywhere belongs to God alone?
-
-* Whether God Is In All Things?
-* Whether God Is Everywhere?
-* Whether God Is Everywhere By Essence, Presence And Power?
-* Whether To Be Everywhere Belongs To God Alone?

@@ -5,8 +5,3 @@ We must now consider other sinful injuries committed on the person. Under this h
 (2) Blows;
 (3) Imprisonment;
 (4) Whether the sins that consist in inflicting such like injuries are aggravated through being perpetrated on persons connected with others?
-
-* Whether In Some Cases It May Be Lawful To Maim Anyone?
-* Whether It Is Lawful For Parents To Strike Their Children, Or Masters Their Slaves?
-* Whether It Is Lawful To Imprison A Man?
-* Whether The Sin Is Aggravated By The Fact That The Aforesaid Injuries Are Perpetrated On Those Who Are Connected With Others?

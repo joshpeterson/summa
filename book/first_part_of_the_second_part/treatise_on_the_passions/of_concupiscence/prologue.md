@@ -5,8 +5,3 @@ We have now to consider concupiscence: under which head there are four points of
 (2) Whether concupiscence is a specific passion?
 (3) Whether some concupiscences are natural, and some not natural?
 (4) Whether concupiscence is infinite?
-
-* Whether Concupiscence Is In The Sensitive Appetite Only?
-* Whether Concupiscence Is A Specific Passion?
-* Whether Some Concupiscences Are Natural, And Some Not Natural?
-* Whether Concupiscence Is Infinite?

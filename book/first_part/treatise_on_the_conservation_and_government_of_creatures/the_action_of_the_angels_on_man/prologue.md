@@ -5,8 +5,3 @@ We now consider the action of the angels on man, and inquire: (1) How far they c
 (2) Whether he can change man's will?
 (3) Whether he can change man's imagination?
 (4) Whether he can change man's senses?
-
-* Whether An Angel Can Enlighten Man?
-* Whether The Angels Can Change The Will Of Man?
-* Whether An Angel Can Change Man's Imagination?
-* Whether An Angel Can Change The Human Senses?

@@ -7,10 +7,3 @@ We must now consider confession, about which there are six points for our consid
 (4) Whether it is lawful to confess a sin of which one is not guilty?
 (5) Whether one is bound to confess at once?
 (6) Whether one can be dispensed from confessing to another man?
-
-* Whether Confession Is Necessary For Salvation?
-* Whether Confession Is According To The Natural Law?
-* Whether All Are Bound To Confession?
-* Whether It Is Lawful For A Man To Confess A Sin Which He Has Not Committed?
-* Whether One Is Bound To Confess At Once?
-* Whether One Can Be Dispensed From Confession?

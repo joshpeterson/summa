@@ -5,8 +5,3 @@ We must now consider the acts of religion. First, we shall consider the interior
 (2) Whether it is an act of religion?
 (3) Of the cause of devotion?
 (4) Of its effect?
-
-* Whether Devotion Is A Special Act?
-* Whether Devotion Is An Act Of Religion?
-* Whether Contemplation Or Meditation Is The Cause Of Devotion?
-* Whether Joy Is An Effect Of Devotion?

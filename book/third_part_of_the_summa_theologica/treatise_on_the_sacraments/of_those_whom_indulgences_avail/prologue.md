@@ -5,8 +5,3 @@ We must now consider those whom indulgences avail: under which head there are fo
 (2) Whether they avail religious?
 (3) Whether they avail a person who does not fulfill the conditions for which the indulgence is given?
 (4) Whether they avail him who grants them?
-
-* Whether An Indulgence Avails Those Who Are In Mortal Sin?
-* Whether Indulgences Avail Religious?
-* Whether An Indulgence Can Ever Be Granted To One Who Does Not Fulfill The Conditions Required?
-* Whether An Indulgence Avails The Person Who Grants It?

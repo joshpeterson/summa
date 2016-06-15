@@ -5,8 +5,3 @@ We next consider those things that pertain absolutely to the will of God. In the
 (2) Whether He loves all things?
 (3) Whether He loves one thing more than another?
 (4) Whether He loves more the better things?
-
-* Whether Love Exists In God?
-* Whether God Loves All Things?
-* Whether God Loves All Things Equally?
-* Whether God Always Loves More The Better Things?

@@ -5,8 +5,3 @@ We must now consider the properties of virtues: and (1) the mean of virtue, (2) 
 (2) Whether the mean of moral virtue is the real mean or the rational mean?
 (3) Whether the intellectual virtues observe the mean?
 (4) Whether the theological virtues do?
-
-* Whether Moral Virtues Observe The Mean?
-* Whether The Mean Of Moral Virtue Is The Real Mean, Or The Rational Mean?
-* Whether The Intellectual Virtues Observe The Mean?
-* Whether The Theological Virtues Observe The Mean?

@@ -17,20 +17,3 @@ After treating of the theological virtues, we must in due sequence consider the 
 (14) Whether prudence is in all good men?
 (15) Whether prudence is in us naturally?
 (16) Whether prudence is lost by forgetfulness ?
-
-* Whether Prudence Is In The Cognitive Or In The Appetitive Faculty?
-* Whether Prudence Belongs To The Practical Reason Alone Or Also To The Speculative Reason?
-* Whether Prudence Takes Cognizance Of Singulars?
-* Whether Prudence Is A Virtue?
-* Whether Prudence Is A Special Virtue?
-* Whether Prudence Appoints The End To Moral Virtues?
-* Whether It Belongs To Prudence To Find The Mean In Moral Virtues?
-* Whether Command Is The Chief Act Of Prudence?
-* Whether Solicitude Belongs To Prudence?
-* Whether Solicitude Belongs To Prudence?
-* Whether Prudence About One's Own Good Is Specifically The Same As That Which Extends To The Common Good?
-* Whether Prudence Is In Subjects, Or Only In Their Rulers?
-* Whether Prudence Can Be In Sinners?
-* Whether Prudence Is In All Who Have Grace?
-* Whether Prudence Is In Us By Nature?
-* Whether Prudence Can Be Lost Through Forgetfulness?

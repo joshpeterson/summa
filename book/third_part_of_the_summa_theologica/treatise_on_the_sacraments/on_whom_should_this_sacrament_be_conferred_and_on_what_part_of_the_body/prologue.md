@@ -8,11 +8,3 @@ We must now consider on whom this sacrament should be conferred and on what part
 (5) Whether, in this sacrament, the whole body should be anointed?
 (6) Whether certain parts are suitably assigned to be anointed?
 (7) Whether those who are deformed in the above parts ought to be anointed thereon?
-
-* Whether This Sacrament Ought To Be Conferred On Those Who Are In Good Health?
-* Whether This Sacrament Ought To Be Given In Any Kind Of Sickness?
-* Whether This Sacrament Ought To Be Given To Madmen And Imbeciles?
-* Whether This Sacrament Should Be Given To Children?
-* Whether The Whole Body Should Be Anointed In This Sacrament?
-* Whether The Parts To Be Anointed Are Suitably Assigned?
-* Whether Those Who Are Deformed In Those Parts Should Be Anointed?

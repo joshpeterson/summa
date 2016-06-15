@@ -11,14 +11,3 @@ We must now consider the Sacrament of Penance. We shall consider (1) Penance its
 (8) Of its duration;
 (9) Of its continuance;
 (10) Whether it can be repeated?
-
-* Whether Penance Is A Sacrament?
-* Whether Sins Are The Proper Matter Of This Sacrament?
-* Whether The Form Of This Sacrament Is: "I Absolve Thee"?
-* Whether The Imposition Of The Priest's Hands Is Necessary For This Sacrament?
-* Whether This Sacrament Is Necessary For Salvation?
-* Whether Penance Is A Second Plank After Shipwreck?
-* Whether This Sacrament Was Suitably Instituted In The New Law?
-* Whether Penance Should Last Till The End Of Life?
-* Whether Penance Can Be Continuous?
-* Whether The Sacrament Of Penance May Be Repeated?

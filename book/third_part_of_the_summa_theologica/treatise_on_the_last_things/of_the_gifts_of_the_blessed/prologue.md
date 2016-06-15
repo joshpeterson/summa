@@ -6,9 +6,3 @@
 (3) Whether it is fitting for Christ to have gifts?
 (4) Whether this is competent to the angels?
 (5) Whether three gifts of the soul are rightly assigned?
-
-* Whether Any Gifts Should Be Assigned As Dowry To The Blessed?
-* Whether The Dowry Is The Same As Beatitude?
-* Whether It Is Fitting That Christ Should Receive A Dowry?
-* Whether The Angels Receive The Dowries?
-* Whether Three Dowries Of The Soul Are Suitably Assigned?

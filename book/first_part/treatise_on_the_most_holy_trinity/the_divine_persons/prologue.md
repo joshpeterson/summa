@@ -4,7 +4,3 @@ Having premised what have appeared necessary notions concerning the processions 
 (2) The comparison of person to essence, subsistence, and hypostasis.
 (3) Whether the name of person is becoming to God?
 (4) What does it signify in Him?
-
-* Whether "Person" Is The Same As Hypostasis, Subsistence, And Essence?
-* Whether The Word "Person" Should Be Said Of God?
-* Whether This Word "Person" Signifies Relation?

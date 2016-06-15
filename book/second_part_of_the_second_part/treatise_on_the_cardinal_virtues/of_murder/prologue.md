@@ -8,11 +8,3 @@ In due sequence we must consider the vices opposed to commutative justice. We mu
 (6) Whether it is lawful to kill a just man?
 (7) Whether it is lawful to kill a man in self-defense?
 (8) Whether accidental homicide is a mortal sin?
-
-* Whether It Is Unlawful To Kill Any Living Thing?
-* Whether It Is Lawful To Kill Sinners?
-* Whether It Is Lawful For A Private Individual To Kill A Man Who Has Sinned?
-* Whether It Is Lawful For Clerics To Kill Evil-doers?
-* Whether It Is Lawful To Kill Oneself?
-* Whether It Is Lawful To Kill The Innocent?
-* Whether It Is Lawful To Kill A Man In Self-defense?

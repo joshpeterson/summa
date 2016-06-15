@@ -9,12 +9,3 @@ It remains for us to consider the vices which are opposed to beneficence, among 
 (6) Whether they can give scandal?
 (7) Whether spiritual goods are to be foregone on account of scandal?
 (8) Whether temporal things are to be foregone on account of scandal?
-
-* Whether Scandal Is Fittingly Defined As Being Something Less Rightly Said Or Done That Occasions Spiritual Downfall?
-* Whether Scandal Is A Sin?
-* Whether Scandal Is A Special Sin?
-* Whether Scandal Is A Mortal Sin?
-* Whether Passive Scandal May Happen Even To The Perfect?
-* Whether Active Scandal Can Be Found In The Perfect?
-* Whether Spiritual Goods Should Be Foregone On Account Of Scandal?
-* Whether Temporal Goods Should Be Foregone On Account Of Scandal?

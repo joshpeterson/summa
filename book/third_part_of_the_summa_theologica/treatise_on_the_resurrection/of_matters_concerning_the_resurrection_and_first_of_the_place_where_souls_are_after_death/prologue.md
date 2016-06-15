@@ -8,11 +8,3 @@ In sequence to the foregoing we must treat of matters concerning the state of re
 (5) Whether limbo is the same as the hell of the damned?
 (6) Whether the limbo of the patriarchs is the same as the limbo of children?
 (7) Whether so many places should be distinguished?
-
-* Whether Places Are Appointed To Receive Souls After Death?
-* Whether Souls Are Conveyed To Heaven Or Hell Immediately After Death?
-* Whether The Souls Who Are In Heaven Or Hell Are Able To Go From Thence?
-* Whether The Limbo Of Hell Is The Same As Abraham's Bosom?
-* Whether Limbo Is The Same As The Hell Of The Damned?
-* Whether The Limbo Of Children Is The Same As The Limbo Of The Fathers?
-* Whether So Many Abodes Should Be Distinguished?

@@ -5,8 +5,3 @@ We must now consider the causes of sin, in particular, and (1) The internal caus
 (2) Whether ignorance is a sin?
 (3) Whether it excuses from sin altogether?
 (4) Whether it diminishes sin?
-
-* Whether Ignorance Can Be A Cause Of Sin?
-* Whether Ignorance Is A Sin?
-* Whether Ignorance Excuses From Sin Altogether?
-* Whether Ignorance Diminishes A Sin?

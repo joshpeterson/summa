@@ -9,12 +9,3 @@ After considering Christ's conception, we must treat of His nativity. First, as 
 (6) Of the mode of the Nativity;
 (7) Of its place;
 (8) Of the time of the Nativity.
-
-* Whether Nativity Regards The Nature Rather Than The Person?
-* Whether A Temporal Nativity Should Be Attributed To Christ?
-* Whether The Blessed Virgin Can Be Called Christ's Mother In Respect Of His Temporal Nativity?
-* Whether The Blessed Virgin Should Be Called The Mother Of God?
-* Whether There Are Two Filiations In Christ?
-* Whether Christ Was Born Without His Mother Suffering?
-* Whether Christ Should Have Been Born In Bethlehem?
-* Whether Christ Was Born At A Fitting Time?

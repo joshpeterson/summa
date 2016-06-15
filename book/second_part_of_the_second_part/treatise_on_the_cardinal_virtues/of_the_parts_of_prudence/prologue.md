@@ -5,5 +5,3 @@ We must now consider the parts of prudence, under which head there are four poin
 (2) Of its integral parts;
 (3) Of its subjective parts;
 (4) Of its potential parts.
-
-* Whether Three Parts Of Prudence Are Fittingly Assigned?

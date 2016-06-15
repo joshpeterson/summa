@@ -10,13 +10,3 @@ In the next place we must consider how angels became evil: first of all with reg
 (7) Was the highest of them who fell, absolutely the highest among the angels?
 (8) Was the sin of the foremost angel the cause of the others sinning?
 (9) Did as many sin as remained steadfast?
-
-* Whether The Evil Of Fault Can Be In The Angels?
-* Whether Only The Sin Of Pride And Envy Can Exist In An Angel?
-* Whether The Devil Desired To Be As God?
-* Whether Any Demons Are Naturally Wicked?
-* Whether The Devil Was Wicked By The Fault Of His Own Will In The First Instant Of His Creation?
-* Whether There Was Any Interval Between The Creation And The Fall Of The Angel?
-* Whether The Highest Angel Among Those Who Sinned Was The Highest Of All?
-* Whether The Sin Of The Highest Angel Was The Cause Of The Others Sinning?
-* Whether Those Who Sinned Were As Many As Those Who Remained Firm?

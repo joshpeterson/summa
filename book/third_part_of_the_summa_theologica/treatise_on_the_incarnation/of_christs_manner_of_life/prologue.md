@@ -5,8 +5,3 @@ Having considered those things which relate to Christ's entrance into the world,
 (2) Whether He should have led an austere life as regards food, drink, and clothing? Or should He have conformed Himself to others in these respects?
 (3) Whether He should have adopted a lowly state of life, or one of wealth and honor?
 (4) Whether He should have lived in conformity with the Law?
-
-* Whether Christ Should Have Associated With Men, Or Led A Solitary Life?
-* Whether It Was Becoming That Christ Should Lead An Austere Life In This World?
-* Whether Christ Should Have Led A Life Of Poverty In This World?
-* Whether Christ Conformed His Conduct To The Law?

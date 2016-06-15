@@ -5,8 +5,3 @@ We must now consider perseverance and the vices opposed to it. Under the head of
 (2) Whether it is a part of fortitude?
 (3) Of its relation to constancy;
 (4) Whether it needs the help of grace?
-
-* Whether Perseverance Is A Virtue?
-* Whether Perseverance Is A Part Of Fortitude?
-* Whether Constancy Pertains To Perseverance?
-* Whether Perseverance Needs The Help Of Grace?

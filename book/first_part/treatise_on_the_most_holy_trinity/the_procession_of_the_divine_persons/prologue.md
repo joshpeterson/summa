@@ -6,9 +6,3 @@ Having considered what belongs to the unity of the divine essence, it remains to
 (3) Whether there can be any other procession in God besides generation.
 (4) Whether that other procession can be called generation?
 (5) Whether there are more than two processions in God?
-
-* Whether There Is Procession In God?
-* Whether Any Procession In God Can Be Called Generation?
-* Whether Any Other Procession Exists In God Besides That Of The Word?
-* Whether The Procession Of Love In God Is Generation?
-* Whether There Are More Than Two Processions In God?

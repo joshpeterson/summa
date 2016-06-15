@@ -6,9 +6,3 @@ We next investigate the material objects which are known by the angels. Under th
 (3) Whether they know the future?
 (4) Whether they know secret thoughts?
 (5) Whether they know all mysteries of grace?
-
-* Whether The Angels Know Material Things?
-* Whether An Angel Knows Singulars?
-* Whether Angels Know The Future?
-* Whether Angels Know Secret Thoughts?
-* Whether The Angels Know The Mysteries Of Grace?

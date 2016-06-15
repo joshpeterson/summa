@@ -4,7 +4,3 @@ Because the chief aim of sacred doctrine is to teach the knowledge of God, not o
 (1) Whether the proposition "God exists" is self-evident?
 (2) Whether it is demonstrable?
 (3) Whether God exists?
-
-* Whether The Existence Of God Is Self-evident?
-* Whether It Can Be Demonstrated That God Exists?
-* Whether God Exists?

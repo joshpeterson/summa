@@ -9,12 +9,3 @@ In proper sequence, we must consider charity; and (1) charity itself; (2) the co
 (6) Whether it is the greatest of the virtues?
 (7) Whether any true virtue is possible without it?
 (8) Whether it is the form of the virtues?
-
-* Whether Charity Is Friendship?
-* Whether Charity Is Something Created In The Soul?
-* Whether Charity Is A Virtue?
-* Whether Charity Is A Special Virtue?
-* Whether Charity Is One Virtue?
-* Whether Charity Is The Most Excellent Of The Virtues?
-* Whether Any True Virtue Is Possible Without Charity?
-* Whether Charity Is The Form Of The Virtues?

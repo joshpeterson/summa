@@ -4,7 +4,3 @@ We must now consider indulgence: (1) in itself; (2) those who grant indulgence; 
 (1) Whether an indulgence remits any part of the punishment due for the satisfaction of sins?
 (2) Whether indulgences are as effective as they claim to be?
 (3) Whether an indulgence should be granted for temporal assistance?
-
-* Whether An Indulgence Can Remit Any Part Of The Punishment Due For The Satisfaction Of Sins?
-* Whether Indulgences Are As Effective As They Claim To Be?
-* Whether An Indulgence Ought To Be Granted For Temporal Help?

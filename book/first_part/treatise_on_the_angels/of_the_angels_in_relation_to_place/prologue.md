@@ -4,7 +4,3 @@ We now inquire into the place of the angels. Touching this there are three subje
 (1) Is the angel in a place?
 (2) Can he be in several places at once?
 (3) Can several angels be in the same place?
-
-* Whether An Angel Is In A Place?
-* Whether An Angel Can Be In Several Places At Once?
-* Whether Several Angels Can Be At The Same Time In The Same Place?

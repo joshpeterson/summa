@@ -8,12 +8,3 @@ We must now consider the act of charity, and (1) the principal act of charity, w
 (5) Whether God can be loved wholly?
 (6) Whether the love of God is according to measure?
 (7) Which is the better, to love one's friend, or one's enemy? (8) Which is the better, to love God, or one's neighbor?
-
-* Whether To Be Loved Is More Proper To Charity Than To Love?
-* Whether To Love Considered As An Act Of Charity Is The Same As Goodwill?
-* Whether Out Of Charity God Ought To Be Loved For Himself?
-* Whether God Can Be Loved Immediately In This Life?
-* Whether God Can Be Loved Wholly?
-* Whether In Loving God We Ought To Observe Any Mode?
-* Whether It Is More Meritorious To Love An Enemy Than To Love A Friend?
-* Whether It Is More Meritorious To Love One's Neighbor Than To Love God?

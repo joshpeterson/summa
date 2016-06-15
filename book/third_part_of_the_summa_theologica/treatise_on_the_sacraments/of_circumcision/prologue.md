@@ -5,8 +5,3 @@ We have now to consider things that are preparatory to Baptism: and (1) that whi
 (2) Its institution;
 (3) Its rite;
 (4) Its effect.
-
-* Whether Circumcision Was A Preparation For, And A Figure Of Baptism?
-* Whether Circumcision Was Instituted In A Fitting Manner?
-* Whether The Rite Of Circumcision Was Fitting?
-* Whether Circumcision Bestowed Sanctifying Grace?

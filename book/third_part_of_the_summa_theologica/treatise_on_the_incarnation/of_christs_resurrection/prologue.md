@@ -5,8 +5,3 @@ We have now to consider those things that concern Christ's Exaltation; and we sh
 (2) The time of the Resurrection;
 (3) Its order;
 (4) Its cause.
-
-* Whether It Was Necessary For Christ To Rise Again?
-* Whether It Was Fitting For Christ To Rise Again On The Third Day?
-* Whether Christ Was The First To Rise From The Dead?
-* Whether Christ Was The Cause Of His Own Resurrection?

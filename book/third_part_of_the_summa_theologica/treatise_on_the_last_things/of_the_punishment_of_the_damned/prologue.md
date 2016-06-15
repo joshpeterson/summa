@@ -8,11 +8,3 @@ In due sequence we must consider those things that concern the damned after the 
 (5) Whether the fire whereby they are tormented is corporeal?
 (6) Whether it is of the same species as our fire?
 (7) Whether this fire is beneath the earth?
-
-* Whether In Hell The Damned Are Tormented By The Sole Punishment Of Fire?
-* Whether The Worm Of The Damned Is Corporeal?
-* Whether The Weeping Of The Damned Will Be Corporeal?
-* Whether The Damned Are In Material Darkness?
-* Whether The Fire Of Hell Will Be Corporeal?
-* Whether The Fire Of Hell Is Of The Same Species As Ours?
-* Whether The Fire Of Hell Is Beneath The Earth?

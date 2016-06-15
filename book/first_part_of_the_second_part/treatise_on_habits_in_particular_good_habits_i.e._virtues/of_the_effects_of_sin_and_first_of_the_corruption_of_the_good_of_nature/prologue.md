@@ -7,10 +7,3 @@ We must now consider the effects of sin; and (1) the corruption of the good of n
 (4) Whether privation of mode, species and order is an effect of sin?
 (5) Whether death and other bodily defects are the result of sin?
 (6) Whether they are, in any way, natural to man?
-
-* Whether Sin Diminishes The Good Of Nature?
-* Whether The Entire Good Of Human Nature Can Be Destroyed By Sin?
-* Whether Weakness, Ignorance, Malice And Concupiscence Are Suitably Reckoned As The Wounds Of Nature Consequent Upon Sin?
-* Whether Privation Of Mode, Species And Order Is The Effect Of Sin?
-* Whether Death And Other Bodily Defects Are The Result Of Sin?
-* Whether Death And Other Defects Are Natural To Man?

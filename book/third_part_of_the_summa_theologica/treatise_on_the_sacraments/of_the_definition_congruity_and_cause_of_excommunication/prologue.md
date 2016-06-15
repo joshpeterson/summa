@@ -5,8 +5,3 @@ We must now treat of excommunication: we shall consider: (1) the definition, con
 (2) Whether the Church should excommunicate anyone?
 (3) Whether anyone should be excommunicated for inflicting temporal harm?
 (4) Whether an excommunication unjustly pronounced has any effect?
-
-* Whether Excommunication Is Suitably Defined As Separation From The Communion Of The Church, Etc?
-* Whether The Church Should Excommunicate Anyone?
-* Whether Anyone Should Be Excommunicated For Inflicting Temporal Harm?
-* Whether An Excommunication Unjustly Pronounced Has Any Effect?

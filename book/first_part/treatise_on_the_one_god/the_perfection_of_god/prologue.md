@@ -4,7 +4,3 @@ Having considered the divine simplicity, we treat next of God's perfection. Now 
 (1) Whether God is perfect?
 (2) Whether God is perfect universally, as having in Himself the perfections of all things?
 (3) Whether creatures can be said to be like God?
-
-* Whether God Is Perfect?
-* Whether The Perfections Of All Things Are In God?
-* Whether Any Creature Can Be Like God?

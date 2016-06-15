@@ -4,7 +4,3 @@ We must next consider the general quality of the soul after leaving the body, an
 (1) Whether the sensitive powers remain in the separated soul?
 (2) Whether the acts of the aforesaid powers remain in the soul?
 (3) Whether the separated soul can suffer from a material fire?
-
-* Whether The Sensitive Powers Remain In The Separated Soul?
-* Whether The Acts Of The Sensitive Powers Remain In The Separated Soul?
-* Whether The Separated Soul Can Suffer From A Bodily Fire?

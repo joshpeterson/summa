@@ -5,8 +5,3 @@ We must now consider the impediment of vows and orders. Under this head there ar
 (2) Whether a solemn vow is a diriment impediment?
 (3) Whether order is an impediment to matrimony?
 (4) Whether a man can receive a sacred order after being married?
-
-* Whether Marriage Already Contracted Should Be Annulled By The Obligation Of A Simple Vow?
-* Whether A Solemn Vow Dissolves A Marriage Already Contracted?
-* Whether Order Is An Impediment To Matrimony?
-* Whether A Sacred Order Cannot Supervene To Matrimony?

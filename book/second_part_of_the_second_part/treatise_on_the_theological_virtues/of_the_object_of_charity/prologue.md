@@ -13,16 +13,3 @@ We must now consider the object of charity; which consideration will be twofold:
 (10) Whether we ought to love the angels out of charity?
 (11) Whether we ought to love the demons?
 (12) How to enumerate the things we are bound to love out of charity.
-
-* Whether The Love Of Charity Stops At God, Or Extends To Our Neighbor?
-* Whether We Should Love Charity Out Of Charity?
-* Whether Irrational Creatures Also Ought To Be Loved Out Of Charity?
-* Whether A Man Ought To Love Himself Out Of Charity?
-* Whether A Man Ought To Love His Body Out Of Charity?
-* Whether We Ought To Love Sinners Out Of Charity?
-* Whether Sinners Love Themselves?
-* Whether Charity Requires That We Should Love Our Enemies?
-* Whether It Is Necessary For Salvation That We Should Show Our Enemies The Signs And Effects Of Love?
-* Whether We Ought To Love The Angels Out Of Charity?
-* Whether We Are Bound To Love The Demons Out Of Charity?
-* Whether Four Things Are Rightly Reckoned As To Be Loved Out Of Charity, Viz. God, Our Neighbor, Our Body And Ourselves?

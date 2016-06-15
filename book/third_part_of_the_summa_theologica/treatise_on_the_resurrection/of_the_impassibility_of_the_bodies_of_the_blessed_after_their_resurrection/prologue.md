@@ -5,8 +5,3 @@ We must now consider the conditions under which the blessed rise again, and (1) 
 (2) Whether all will be equally impassible?
 (3) Whether this impassibility renders the glorious bodies?
 (4) Whether in them all the senses are in act?
-
-* Whether The Bodies Of The Saints Will Be Impassible After The Resurrection?
-* Whether All Will Be Equally Impassible?
-* Whether Impassibility Excludes Actual Sensation From Glorified Bodies?
-* Whether In The Blessed, After The Resurrection, All The Senses Will Be In Act?

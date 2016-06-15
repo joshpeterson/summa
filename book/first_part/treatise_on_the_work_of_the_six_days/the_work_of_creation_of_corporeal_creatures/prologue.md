@@ -5,8 +5,3 @@ From the consideration of spiritual creatures we proceed to that of corporeal cr
 (2) Whether they were created on account of God's goodness?
 (3) Whether they were created by God through the medium of the angels?
 (4) Whether the forms of bodies are from the angels or immediately from God.
-
-* Whether Corporeal Creatures Are From God?
-* Whether Corporeal Things Were Made On Account Of God's Goodness?
-* Whether Corporeal Creatures Were Produced By God Through The Medium Of The Angels?
-* Whether The Forms Of Bodies Are From The Angels?

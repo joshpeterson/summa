@@ -9,12 +9,3 @@ We must now consider delight and sadness. Concerning delight four things must be
 (6) Of sensible delights compared with one another;
 (7) Whether any delight is non-natural?
 (8) Whether one delight can be contrary to another?
-
-* Whether Delight Is A Passion?
-* Whether Delight Is In Time?
-* Whether Delight Differs From Joy?
-* Whether Delight Is In The Intellectual Appetite?
-* Whether Bodily And Sensible Pleasures Are Greater Than Spiritual And Intellectual Pleasures?
-* Whether The Pleasures Of Touch Are Greater Than The Pleasures Afforded By The Other Senses?
-* Whether Any Pleasure Is Not Natural?
-* Whether One Pleasure Can Be Contrary To Another?

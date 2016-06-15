@@ -13,16 +13,3 @@ OF VOWS (TWELVE ARTICLES)  We must now consider vows, whereby something is promi
 (10) Whether a vow is subject to dispensation or commutation?
 (11) Whether a dispensation can be granted in a solemn vow of continence?
 (12) Whether the authority of a superior is required in a dispensation from a vow?
-
-* Whether A Vow Consists In A Mere Purpose Of The Will?
-* Whether A Vow Should Always Be About A Better Good?
-* Whether All Vows Are Binding?
-* Whether It Is Expedient To Take Vows?
-* Whether A Vow Is An Act Of Latria Or Religion?
-* Whether It Is More Praiseworthy And Meritorious To Do Something In Fulfilment Of A Vow, Than Without A Vow?
-* Whether A Vow Is Solemnized By The Reception Of Holy Orders, And By The Profession Of A Certain Rule?
-* Whether Those Who Are Subject To Another's Power Are Hindered From Taking Vows?
-* Whether Children Can Bind Themselves By Vow To Enter Religion?
-* Whether Vows Admit Of Dispensation?
-* Whether It Is Possible To Be Dispensed From A Solemn Vow Of Continency?
-* Whether The Authority Of A Prelate Is Required For Commutation Or The Dispensation Of A Vow?

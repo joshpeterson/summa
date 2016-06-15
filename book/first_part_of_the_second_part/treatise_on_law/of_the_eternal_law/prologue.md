@@ -7,10 +7,3 @@ We must now consider each law by itself; and (1) The eternal law; (2) The natura
 (4) Whether necessary things are subject to the eternal law?
 (5) Whether natural contingencies are subject to the eternal law?
 (6) Whether all human things are subject to it?
-
-* Whether The Eternal Law Is A Sovereign Type Existing In God?
-* Whether The Eternal Law Is Known To All?
-* Whether Every Law Is Derived From The Eternal Law?
-* Whether Necessary And Eternal Things Are Subject To The Eternal Law?
-* Whether Natural Contingents Are Subject To The Eternal Law?
-* Whether All Human Affairs Are Subject To The Eternal Law?

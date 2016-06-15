@@ -6,9 +6,3 @@ We must next consider the vice of lust which is opposed to chastity: (1) Lust in
 (3) Whether lust is a mortal sin?
 (4) Whether lust is a capital vice?
 (5) Concerning its daughters.
-
-* Whether The Matter Of Lust Is Only Venereal Desires And Pleasures?
-* Whether No Venereal Act Can Be Without Sin?
-* Whether The Lust That Is About Venereal Acts Can Be A Sin?
-* Whether Lust Is A Capital Vice?
-* Whether The Daughters Of Lust Are Fittingly Described?

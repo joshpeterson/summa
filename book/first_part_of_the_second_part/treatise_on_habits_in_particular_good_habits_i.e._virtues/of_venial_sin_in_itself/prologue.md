@@ -7,10 +7,3 @@ We must now consider venial sin in itself, and under this head there are six poi
 (4) Whether a good or a wicked angel can sin venially?
 (5) Whether the movements of unbelievers are venial sins?
 (6) Whether venial sin can be in a man with original sin alone?
-
-* Whether Venial Sin Causes A Stain On The Soul?
-* Whether Venial Sins Are Suitably Designated As "Wood, Hay, And Stubble"?
-* Whether Man Could Commit A Venial Sin In The State Of Innocence?
-* Whether A Good Or A Wicked Angel Can Sin Venially?
-* Whether The First Movements Of The Sensuality In Unbelievers Are Mortal Sin?
-* Whether Venial Sin Can Be In Anyone With Original Sin Alone?

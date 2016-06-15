@@ -9,12 +9,3 @@ We have now to consider the matter of this sacrament: and first of all as to its
 (6) Whether water should be mixed with it?
 (7) Whether water is of necessity for this sacrament?
 (8) Of the quantity of the water added.
-
-* Whether The Matter Of This Sacrament Is Bread And Wine?
-* Whether A Determinate Quantity Of Bread And Wine Is Required For The Matter Of This Sacrament?
-* Whether Wheaten Bread Is Required For The Matter Of This Sacrament?
-* Whether This Sacrament Ought To Be Made Of Unleavened Bread?
-* Whether Wine Of The Grape Is The Proper Matter Of This Sacrament?
-* Whether Water Should Be Mixed With The Wine?
-* Whether The Mixing With Water Is Essential To This Sacrament?
-* Whether Water Should Be Added In Great Quantity?

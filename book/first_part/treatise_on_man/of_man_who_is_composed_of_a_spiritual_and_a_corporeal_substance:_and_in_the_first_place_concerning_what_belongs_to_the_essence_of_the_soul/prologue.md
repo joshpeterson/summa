@@ -8,11 +8,3 @@ Having treated of the spiritual and of the corporeal creature, we now proceed to
 (5) Whether the soul is composed of matter and form?
 (6) Whether the soul is incorruptible?
 (7) Whether the soul is of the same species as an angel?
-
-* Whether The Soul Is A Body?
-* Whether The Human Soul Is Something Subsistent?
-* Whether The Souls Of Brute Animals Are Subsistent?
-* Whether The Soul Is Man?
-* Whether The Soul Is Composed Of Matter And Form?
-* Whether The Human Soul Is Incorruptible?
-* Whether The Soul Is Of The Same Species As An Angel?

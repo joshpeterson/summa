@@ -9,12 +9,3 @@ We must now consider the gifts of understand and knowledge, which respond to the
 (6) Of the relationship of the gift of understanding to the other gifts;
 (7) Which of the beatitudes corresponds to this gift?
 (8) Which of the fruits?
-
-* Whether Understanding Is A Gift Of The Holy Ghost?
-* Whether The Gift Of Understanding Is Compatible With Faith?
-* Whether The Gift Of Understanding Is Merely Speculative Or Also Practical?
-* Whether The Gift Of Understanding Is In All Who Are In A State Of Grace?
-* Whether The Gift Of Understanding Is Found Also In Those Who Have Not Sanctifying Grace?
-* Whether The Gift Of Understanding Is Distinct From The Other Gifts?
-* Whether The Sixth Beatitude, "Blessed Are The Clean Of Heart," Etc., Responds To The Gift Of Understanding?
-* Whether Faith, Among The Fruits, Responds To The Gift Of Understanding?

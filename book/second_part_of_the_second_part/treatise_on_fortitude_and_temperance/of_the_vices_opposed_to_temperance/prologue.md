@@ -5,8 +5,3 @@ We must now consider the vices opposed to temperance. Under this head there are 
 (2) Whether intemperance is a childish sin?
 (3) Of the comparison between intemperance and timidity;
 (4) Whether intemperance is the most disgraceful of vices?
-
-* Whether Insensibility Is A Vice?
-* Whether Intemperance Is A Childish Sin?
-* Whether Cowardice Is A Greater Vice Than Intemperance?
-* Whether Intemperance Is The Most Disgraceful Of Sins?

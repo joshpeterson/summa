@@ -7,10 +7,3 @@ We must now consider disparity of worship as an impediment to marriage. Under th
 (4) Whether he may leave his unbelieving wife?
 (5) Whether after putting her away he may take another wife?
 (6) Whether a husband may put aside his wife on account of other sins as he may for unbelief?
-
-* Whether A Believer Can Marry An Unbeliever?
-* Whether There Can Be Marriage Between Unbelievers?
-* Whether The Husband, Being Converted To The Faith, May Remain With His Wife Is She Be Unwilling To Be Converted?
-* Whether A Believer Can, After His Conversion, Put Away His Unbelieving Wife If She Be Willing To Cohabit With Him Without Insult To The Creator?
-* Whether The Believer Who Leaves His Unbelieving Wife Can Take Another Wife?
-* Whether Other Sins Dissolve Marriage?

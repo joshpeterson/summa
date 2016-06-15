@@ -4,7 +4,3 @@ In the next place we must treat of those things which follow the resurrection. T
 (1) Whether at the judgment every man will know all his sins?
 (2) Whether every one will be able to read all that is on another's conscience?
 (3) Whether one will be able at one glance to see all merits and demerits?
-
-* Whether After The Resurrection Every One Will Know What Sins He Has Committed?
-* Whether Every One Will Be Able To Read All That Is In Another's Conscience?
-* Whether All Merits And Demerits, One's Own As Well As Those Of Others, Will Be Seen By Anyone At A Single Glance?

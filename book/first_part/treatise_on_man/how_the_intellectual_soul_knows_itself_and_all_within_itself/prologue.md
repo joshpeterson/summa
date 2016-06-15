@@ -5,8 +5,3 @@ We have now to consider how the intellectual soul knows itself and all within it
 (2) Whether it knows its own habits?
 (3) How does the intellect know its own act?
 (4) How does it know the act of the will?
-
-* Whether The Intellectual Soul Knows Itself By Its Essence?
-* Whether Our Intellect Knows The Habits Of The Soul By Their Essence?
-* Whether Our Intellect Knows Its Own Act?
-* Whether The Intellect Understands The Act Of The Will?

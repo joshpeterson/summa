@@ -5,8 +5,3 @@ We must now consider the quasi-integral parts of justice, which are "to do good,
 (2) Whether transgression is a special sin?
 (3) Whether omission is a special sin?
 (4) Of the comparison between omission and transgression.
-
-* Whether To Decline From Evil And To Do Good Are Parts Of Justice?
-* Whether Transgression Is A Special Sin?
-* Whether Omission Is A Special Sin?
-* Whether A Sin Of Omission Is More Grievous Than A Sin Of Transgression?

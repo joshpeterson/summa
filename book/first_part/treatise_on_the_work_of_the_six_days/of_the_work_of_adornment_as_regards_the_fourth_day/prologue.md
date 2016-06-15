@@ -4,7 +4,3 @@ We must next consider the work of adornment, first as to each day by itself, sec
 (1) As to the production of the lights;
 (2) As to the end of their production;
 (3) Whether they are living beings?
-
-* Whether The Lights Ought To Have Been Produced On The Fourth Day?
-* Whether The Cause Assigned For The Production Of The Lights Is Reasonable?
-* Whether The Lights Of Heaven Are Living Beings?

@@ -5,8 +5,3 @@ We must now consider the effects of pain or of sorrow: under which head there ar
 (2) Whether the effect of sorrow or pain is to burden the soul?
 (3) Whether sorrow or pain weakens all activity?
 (4) Whether sorrow is more harmful to the body than all the other passions of the soul?
-
-* Whether Pain Deprives One Of The Power To Learn?
-* Whether The Effect Of Sorrow Or Pain Is To Burden The Soul?
-* Whether Sorrow Or Pain Weakens All Activity?
-* Whether Sorrow Is More Harmful To The Body Than The Other Passions Of The Soul?

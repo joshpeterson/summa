@@ -10,13 +10,3 @@ OF EXTREME UNCTION, AS REGARDS ITS ESSENCE AND INSTITUTION (NINE ARTICLES)  We m
 (7) Whether this sacrament has any form?
 (8) Whether the form of this sacrament should take the shape of a deprecatory phrase?
 (9) Whether this is a suitable form for this sacrament?
-
-* Whether Extreme Unction Is A Sacrament?
-* Whether Extreme Unction Is One Sacrament?
-* Whether This Sacrament Was Instituted By Christ?
-* Whether Olive Oil Is A Suitable Matter For This Sacrament?
-* Whether The Oil Ought To Be Consecrated?
-* Whether The Matter Of This Sacrament Need Be Consecrated By A Bishop?
-* Whether This Sacrament Has A Form?
-* Whether The Form Of This Sacrament Should Be Expressed By Way Of Assertion Or Of Petition?
-* Whether The Foregoing Prayer Is A Suitable Form For This Sacrament?

@@ -9,12 +9,3 @@ We must now consider the virtue itself of faith, and, in the first place, faith 
 (6) Whether it is one virtue?
 (7) Of its relation to the other virtues;
 (8) Of its certitude as compared with the certitude of the intellectual virtues.
-
-* Whether This Is A Fitting Definition Of Faith: "Faith Is The Substance Of Things To Be Hoped For, The Evidence Of Things That Appear Not?"
-* Whether Faith Resides In The Intellect?
-* Whether Charity Is The Form Of Faith?
-* Whether Lifeless Faith Can Become Living, Or Living Faith, Lifeless?
-* Whether Faith Is A Virtue?
-* Whether Faith Is One Virtue?
-* Whether Faith Is The First Of The Virtues?
-* Whether Faith Is More Certain Than Science And The Other Intellectual Virtues?

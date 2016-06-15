@@ -7,10 +7,3 @@ We must now consider equality among the virtues: under which head there are six 
 (4) Of the moral virtues as compared with one another;
 (5) Of the intellectual virtues in comparison with one another;
 (6) Of the theological virtues in comparison with one another.
-
-* Whether One Virtue Can Be Greater Or Less Than Another?
-* Whether All The Virtues That Are Together In One Man, Are Equal?
-* Whether The Moral Virtues Are Better Than The Intellectual Virtues?
-* Whether Justice Is The Chief Of The Moral Virtues?
-* Whether Wisdom Is The Greatest Of The Intellectual Virtues?
-* Whether Charity Is The Greatest Of The Theological Virtues?

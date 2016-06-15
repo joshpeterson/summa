@@ -9,12 +9,3 @@ In this matter we shall consider first the last end of human life; and secondly,
 (6) Whether man ordains all to the last end?
 (7) Whether all men have the same last end?
 (8) Whether all other creatures concur with man in that last end?
-
-* Whether It Belongs To Man To Act For An End?
-* Whether It Is Proper To The Rational Nature To Act For An End?
-* Whether Human Acts Are Specified By Their End?
-* Whether There Is One Last End Of Human Life?
-* Whether One Man Can Have Several Last Ends?
-* Whether Man Will All, Whatsoever He Wills, For The Last End?
-* Whether All Men Have The Same Last End?
-* Whether Other Creatures Concur In That Last End?

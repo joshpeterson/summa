@@ -4,7 +4,3 @@ We next inquire about the angels in comparison with corporeal things; and in the
 (1) Whether angels have bodies naturally united to them?
 (2) Whether they assume bodies?
 (3) Whether they exercise functions of life in the bodies assumed?
-
-* Whether The Angels Have Bodies Naturally United To Them?
-* Whether Angels Assume Bodies?
-* Whether The Angels Exercise Functions Of Life In The Bodies Assumed?

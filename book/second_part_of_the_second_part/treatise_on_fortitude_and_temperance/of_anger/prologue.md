@@ -9,12 +9,3 @@ We must next consider the contrary vices: (1) Anger that is opposed to meekness;
 (6) Whether anger is a capital vice?
 (7) Of its daughters;
 (8) Whether it has a contrary vice?
-
-* Whether It Is Lawful To Be Angry?
-* Whether Anger Is A Sin?
-* Whether All Anger Is A Mortal Sin?
-* Whether Anger Is The Most Grievous Sin?
-* Whether The Philosopher Suitably Assigns The Species Of Anger?
-* Whether Anger Should Be Reckoned Among The Capital Vices?
-* Whether Six Daughters Are Fittingly Assigned To Anger?
-* Whether There Is A Vice Opposed To Anger Resulting From Lack Of Anger?

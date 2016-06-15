@@ -9,12 +9,3 @@
 (6) Of its relation to confidence;
 (7) Of its relation to assurance;
 (8) Of its relation to goods of fortune.
-
-* Whether Magnanimity Is About Honors?
-* Whether Magnanimity Is Essentially About Great Honors?
-* Whether Magnanimity Is A Virtue?
-* Whether Magnanimity Is A Special Virtue?
-* Whether Magnanimity Is A Part Of Fortitude?
-* Whether Confidence Belongs To Magnanimity?
-* Whether Security Belongs To Magnanimity?
-* Whether Goods Of Fortune Conduce To Magnanimity?

@@ -5,8 +5,3 @@ After considering all that pertains to the unity of the divine essence, we come 
 (2) In regard to what is God called blessed; does this regard His act of intellect?
 (3) Whether He is essentially the beatitude of each of the blessed?
 (4) Whether all other beatitude is included in the divine beatitude?
-
-* Whether Beatitude Belongs To God?
-* Whether God Is Called Blessed In Respect Of His Intellect?
-* Whether God Is The Beatitude Of Each Of The Blessed?
-* Whether All Other Beatitude Is Included In The Beatitude Of God?

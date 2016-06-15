@@ -5,8 +5,3 @@ We must now consider the cause of sin on the part of the will, viz. malice: and 
 (2) Whether everyone that sins through habit, sins through certain malice?
 (3) Whether every one that sins through certain malice, sins through habit?
 (4) Whether it is more grievous to sin through certain malice, than through passion?
-
-* Whether Anyone Sins Through Certain Malice?
-* Whether Everyone That Sins Through Habit, Sins Through Certain Malice?
-* Whether One Who Sins Through Certain Malice, Sins Through Habit?
-* Whether It Is More Grievous To Sin Through Certain Malice Than Through Passion?

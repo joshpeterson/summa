@@ -9,8 +9,3 @@ After considering prudence we must in due sequence consider justice, the conside
 (2) Whether right is fittingly divided into natural and positive right?
 (3) Whether the right of nations is the same as natural right?
 (4) Whether right of dominion and paternal right are distinct species?
-
-* Whether Right Is The Object Of Justice?
-* Whether Right Is Fittingly Divided Into Natural Right And Positive Right?
-* Whether The Right Of Nations Is The Same As The Natural Right?
-* Whether Paternal Right And Right Of Dominion Should Be Distinguished As Special Species?

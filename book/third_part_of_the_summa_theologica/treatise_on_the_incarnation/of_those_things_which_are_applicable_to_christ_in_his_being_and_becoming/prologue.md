@@ -13,16 +13,3 @@ We must now consider the consequences of the union; and first as to what belongs
 (10) Whether this is true: "Christ as man is a creature"?
 (11) Whether this is true: "Christ as man is God"?
 (12) Whether this is true: "Christ as man is a hypostasis or person"?
-
-* Whether This Is True: "God Is Man"?
-* Whether This Is True: "Man Is God"?
-* Whether Christ Can Be Called A Lordly Man?
-* Whether What Belongs To The Human Nature Can Be Predicated Of God?
-* Whether What Belongs To The Human Nature Can Be Predicated Of The Divine Nature?
-* Whether This Is True: "God Was Made Man"?
-* Whether This Is True: "Man Was Made God"?
-* Whether This Is True: "Christ Is A Creature"?
-* Whether This Man, I.e. Christ, Began To Be?
-* Whether This Is True: "Christ As Man Is A Creature"?
-* Whether This Is True: "Christ As Man Is God"?
-* Whether This Is True: "Christ As Man Is A Hypostasis Or Person"?

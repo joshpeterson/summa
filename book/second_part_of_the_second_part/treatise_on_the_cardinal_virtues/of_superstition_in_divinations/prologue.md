@@ -9,12 +9,3 @@ We must now consider superstition in divinations, under which head there are eig
 (6) Of divination by dreams;
 (7) Of divination by auguries and like observances;
 (8) Of divination by lots.
-
-* Whether Divination Is A Sin?
-* Whether Divination Is A Species Of Superstition?
-* Whether We Ought To Distinguish Several Species Of Divination?
-* Whether Divination Practiced By Invoking The Demons Is Unlawful?
-* Whether Divination By The Stars Is Unlawful?
-* Whether Divination By Dreams Is Unlawful?
-* Whether Divination By Auguries, Omens, And By Like Observations Of External Things Is Unlawful?
-* Whether Divination By Drawing Lots Is Unlawful?

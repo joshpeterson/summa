@@ -9,12 +9,3 @@ We have now to consider those things that are required for happiness: and concer
 (6) Whether any perfection of the body is necessary?
 (7) Whether any external goods are necessary?
 (8) Whether the fellowship of friends is necessary?
-
-* Whether Delight Is Required For Happiness?
-* Whether In Happiness Vision Ranks Before Delight?
-* Whether Comprehension Is Necessary For Happiness?
-* Whether Rectitude Of The Will Is Necessary For Happiness?
-* Whether The Body Is Necessary For Man's Happiness?
-* Whether Perfection Of The Body Is Necessary For Happiness?
-* Whether Any External Goods Are Necessary For Happiness?
-* Whether The Fellowship Of Friend Is Necessary For Happiness?

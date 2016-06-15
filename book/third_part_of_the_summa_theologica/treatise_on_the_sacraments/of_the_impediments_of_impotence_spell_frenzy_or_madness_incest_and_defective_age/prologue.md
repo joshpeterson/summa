@@ -6,9 +6,3 @@ We must now consider five impediments to marriage, namely the impediments of imp
 (3) Whether frenzy or madness is?
 (4) Whether incest is?
 (5) Whether defective age is?
-
-* Whether Impotence Is An Impediment To Marriage?
-* Whether A Spell Can Be An Impediment To Marriage?
-* Whether Madness Is An Impediment To Marriage?
-* Whether Marriage Is Annulled By The Husband Committing Incest With His Wife's Sister?
-* Whether Defective Age Is An Impediment To Marriage?

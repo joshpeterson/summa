@@ -7,10 +7,3 @@ We must now consider counsel; concerning which there are six points of inquiry:
 (4) Whether counsel is of all things that we do?
 (5) Whether the process of counsel is one of analysis?
 (6) Whether the process of counsel is indefinite?
-
-* Whether Counsel Is An Inquiry?
-* Whether Counsel Is Of The End, Or Only Of The Means?
-* Whether Counsel Is Only Of Things That We Do?
-* Whether Counsel Is About All Things That We Do?
-* Whether The Process Of Counsel Is One Of Analysis?
-* Whether The Process Of Counsel Is Indefinite?

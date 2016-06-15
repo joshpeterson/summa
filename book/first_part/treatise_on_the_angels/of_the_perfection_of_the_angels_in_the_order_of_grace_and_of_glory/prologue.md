@@ -10,13 +10,3 @@ In due sequence we have to inquire how the angels were made in the order of grac
 (7) After entering glory, did their natural love and knowledge remain?
 (8) Could they have sinned afterwards?
 (9) After entering into glory, could they advance farther?
-
-* Whether The Angels Were Created In Beatitude?
-* Whether An Angel Needs Grace In Order To Turn To God?
-* Whether The Angels Were Created In Grace?
-* Whether An Angel Merits His Beatitude?
-* Whether The Angel Obtained Beatitude Immediately After One Act Of Merit?
-* Whether The Angels Receive Grace And Glory According To The Degree Of Their Natural Gifts?
-* Whether Natural Knowledge And Love Remain In The Beatified Angels?
-* Whether A Beatified Angel Can Sin?
-* Whether The Beatified Angels Advance In Beatitude?

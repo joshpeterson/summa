@@ -9,12 +9,3 @@ After consideration of divine providence, we must treat of predestination and th
 (6) of the certainty of predestination; whether the predestined will infallibly be saved?
 (7) Whether the number of the predestined is certain?
 (8) Whether predestination can be furthered by the prayers of the saints?
-
-* Whether Men Are Predestined By God?
-* Whether Predestination Places Anything In The Predestined?
-* Whether God Reprobates Any Man?
-* Whether The Predestined Are Chosen By God?
-* Whether The Foreknowledge Of Merits Is The Cause Of Predestination?
-* Whether Predestination Is Certain?
-* Whether The Number Of The Predestined Is Certain?
-* Whether Predestination Can Be Furthered By The Prayers Of The Saints?

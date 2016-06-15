@@ -9,12 +9,3 @@ After considering those things that concern the mystery of the incarnate Word, w
 (6) Whether signification expressed by words is necessary for a sacrament?
 (7) Whether determinate words are required?
 (8) Whether anything may be added to or subtracted from these words?
-
-* Whether A Sacrament Is A Kind Of Sign?
-* Whether Every Sign Of A Holy Thing Is A Sacrament?
-* Whether A Sacrament Is A Sign Of One Thing Only?
-* Whether A Sacrament Is Always Something Sensible?
-* Whether Determinate Things Are Required For A Sacrament?
-* Whether Words Are Required For The Signification Of The Sacraments?
-* Whether Determinate Words Are Required In The Sacraments?
-* Whether It Is Lawful To Add Anything To The Words In Which The Sacramental Form Consists?

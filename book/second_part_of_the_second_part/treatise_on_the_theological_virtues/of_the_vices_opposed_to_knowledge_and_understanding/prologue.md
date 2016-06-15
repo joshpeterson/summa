@@ -4,7 +4,3 @@ We must now consider the vices opposed to knowledge and understanding. Since, ho
 (1) Whether blindness of mind is a sin?
 (2) Whether dulness of sense is a sin distinct from blindness of mind?
 (3) Whether these vices arise from sins of the flesh?
-
-* Whether Blindness Of Mind Is A Sin?
-* Whether Dulness Of Sense Is A Sin Distinct From Blindness Of Mind?
-* Whether Blindness Of Mind And Dulness Of Sense Arise From Sins Of The Flesh?

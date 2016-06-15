@@ -9,12 +9,3 @@ We must now consider those things that pertain to the state of perfection wheret
 (6) Whether all prelates are in the state of perfection?
 (7) Which is the more perfect, the episcopal or the religious state?
 (8) The comparison between religious and parish priests and archdeacons.
-
-* Whether The Perfection Of The Christian Life Consists Chiefly In Charity?
-* Whether Any One Can Be Perfect In This Life?
-* Whether, In This Life, Perfection Consists In The Observance Of The Commandments Or Of The Counsels?
-* Whether Whoever Is Perfect Is In The State Of Perfection?
-* Whether Religious And Prelates Are In The State Of Perfection?
-* Whether All Ecclesiastical Prelates Are In The State Of Perfection?
-* Whether The Religious State Is More Perfect Than That Of Prelates?
-* Whether Parish Priests And Archdeacons Are More Perfect Than Religious?

@@ -5,8 +5,3 @@ We must now consider Christ's knowledge; concerning which the consideration will
 (2) Whether He had the knowledge which the blessed or comprehensors have?
 (3) Whether He had an imprinted or infused knowledge?
 (4) Whether He had any acquired knowledge?
-
-* Whether Christ Had Any Knowledge Besides The Divine?
-* Whether Christ Had The Knowledge Which The Blessed Or Comprehensors Have?
-* Whether Christ Had An Imprinted Or Infused Knowledge?
-* Whether Christ Had Any Acquired Knowledge?

@@ -5,8 +5,3 @@ After treating of human acts and passions, we now pass on to the consideration o
 (2) Whether it is a distinct species of quality?
 (3) Whether habit implies an order to an act?
 (4) Of the necessity of habit.
-
-* Whether Habit Is A Quality?
-* Whether Habit Is A Distinct Species Of Quality?
-* Whether Habit Implies Order To An Act?
-* Whether Habits Are Necessary?

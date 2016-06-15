@@ -7,9 +7,3 @@ We must now consider the eternity of God, concerning which arise six points of i
 (4) Whether eternity differs from time?
 (5) The difference of aeviternity, as there is one time, and one eternity?
 (6) Whether there is only one aeviternity?
-
-* Whether This Is A Good Definition Of Eternity, "The Simultaneously-whole And Perfect Possession Of Interminable Life"?
-* Whether God Is Eternal?
-* Whether To Be Eternal Belongs To God Alone?
-* Whether Eternity Differs From Time?
-* Whether There Is Only One Aeviternity?

@@ -4,7 +4,3 @@
 (1) Whether the saints will see God in His essence?
 (2) Whether they will see Him with the eyes of the body?
 (3) Whether in seeing God they will see all that God sees?
-
-* Whether The Human Intellect Can Attain To The Vision Of God In His Essence?
-* Whether After The Resurrection The Saints Will See God With The Eyes Of The Body?
-* Whether The Saints, Seeing God, See All That God Sees?

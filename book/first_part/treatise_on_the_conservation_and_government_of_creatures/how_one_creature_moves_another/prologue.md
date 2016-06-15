@@ -5,8 +5,3 @@ We next consider how one creature moves another. This consideration will be thre
 (2) Whether one angel moves the will of another?
 (3) Whether an inferior angel can enlighten a superior angel?
 (4) Whether a superior angel enlightens an inferior angel in all that he knows himself?
-
-* Whether One Angel Enlightens Another?
-* Whether One Angel Moves Another Angel's Will?
-* Whether An Inferior Angel Can Enlighten A Superior Angel?
-* Whether The Superior Angel Enlightens The Inferior As Regards All He Himself Knows?

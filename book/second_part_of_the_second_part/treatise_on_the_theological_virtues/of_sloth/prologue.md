@@ -5,8 +5,3 @@ We must now consider the vices opposed to the joy of charity. This joy is either
 (2) Whether it is a special vice?
 (3) Whether it is a mortal sin?
 (4) Whether it is a capital sin?
-
-* Whether Sloth Is A Sin?
-* Whether Sloth Is A Special Vice?
-* Whether Sloth Is A Mortal Sin?
-* Whether Sloth Should Be Accounted A Capital Vice?

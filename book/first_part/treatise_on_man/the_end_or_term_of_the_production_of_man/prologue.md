@@ -10,13 +10,3 @@ We now treat of the end or term of man's production, inasmuch as he is said to b
 (7) Whether the image of God is in man's power or in his habits and acts?
 (8) Whether the image of God is in man by comparison with every object?
 (9) Of the difference between "image" and "likeness."
-
-* Whether The Image Of God Is In Man?
-* Whether The Image Of God Is To Be Found In Irrational Creatures?
-* Whether The Angels Are More To The Image Of God Than Man Is?
-* Whether The Image Of God Is Found In Every Man?
-* Whether The Image Of God Is In Man According To The Trinity Of Persons?
-* Whether The Image Of God Is In Man As Regards The Mind Only?
-* Whether The Image Of God Is To Be Found In The Acts Of The Soul?
-* Whether The Image Of The Divine Trinity Is In The Soul Only By Comparison With God As Its Object?
-* Whether "Likeness" Is Properly Distinguished From "Image"?

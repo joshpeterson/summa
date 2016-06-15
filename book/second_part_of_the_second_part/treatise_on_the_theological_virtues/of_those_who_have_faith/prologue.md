@@ -5,8 +5,3 @@ We must now consider those who have faith: under which head there are four point
 (2) Whether the demons have faith?
 (3) Whether those heretics who err in one article, have faith in others?
 (4) Whether among those who have faith, one has it more than another?
-
-* Whether There Was Faith In The Angels, Or In Man, In Their Original State?
-* Whether In The Demons There Is Faith?
-* Whether A Man Who Disbelieves One Article Of Faith, Can Have Lifeless Faith In The Other Articles?
-* Whether Faith Can Be Greater In One Man Than In Another?

@@ -7,10 +7,3 @@ We must now consider the gift of wisdom which corresponds to charity; and firstl
 (4) Whether the wisdom that is a gift is compatible with mortal sin?
 (5) Whether it is in all those who have sanctifying grace?
 (6) Which beatitude corresponds to it?
-
-* Whether Wisdom Should Be Reckoned Among The Gifts Of The Holy Ghost?
-* Whether Wisdom Is In The Intellect As Its Subject?
-* Whether Wisdom Is Merely Speculative, Or Practical Also?
-* Whether Wisdom Can Be Without Grace, And With Mortal Sin?
-* Whether Wisdom Is In All Who Have Grace?
-* Whether The Seventh Beatitude Corresponds To The Gift Of Wisdom?

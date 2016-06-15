@@ -9,12 +9,3 @@ We must now consider each of the foregoing virtues, in so far as our present sco
 (6) Whether religion should be preferred to the other moral virtues?
 (7) Whether religion has any external actions?
 (8) Whether religion is the same as holiness?
-
-* Whether Religion Directs Man To God Alone?
-* Whether Religion Is A Virtue?
-* Whether Religion Is One Virtue?
-* Whether Religion Is A Special Virtue, Distinct From The Others?
-* Whether Religion Is A Theological Virtue?
-* Whether Religion Should Be Preferred To The Other Moral Virtues?
-* Whether Religion Has An External Act?
-* Whether Religion Is The Same As Sanctity?

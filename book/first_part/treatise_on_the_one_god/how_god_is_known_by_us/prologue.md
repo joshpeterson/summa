@@ -14,17 +14,3 @@ As hitherto we have considered God as He is in Himself, we now go on to consider
 (11) Whether in the state of this life any man can see the essence of God?
 (12) Whether by natural reason we can know God in this life?
 (13) Whether there is in this life any knowledge of God through grace above the knowledge of natural reason?
-
-* Whether Any Created Intellect Can See The Essence Of God?
-* Whether The Essence Of God Is Seen By The Created Intellect Through An Image?
-* Whether The Essence Of God Can Be Seen With The Bodily Eye?
-* Whether Any Created Intellect By Its Natural Powers Can See The Divine Essence?
-* Whether The Created Intellect Needs Any Created Light In Order To See The Essence Of God?
-* Whether Of Those Who See The Essence Of God, One Sees More Perfectly Than Another?
-* Whether Those Who See The Essence Of God Comprehend Him?
-* Whether Those Who See The Essence Of God See All In God?
-* Whether What Is Seen In God By Those Who See The Divine Essence, Is Seen Through Any Similitude?
-* Whether Those Who See The Essence Of God See All They See In It At The Same Time?
-* Whether Anyone In This Life Can See The Essence Of God?
-* Whether God Can Be Known In This Life By Natural Reason?
-* Whether By Grace A Higher Knowledge Of God Can Be Obtained Than By Natural Reason?

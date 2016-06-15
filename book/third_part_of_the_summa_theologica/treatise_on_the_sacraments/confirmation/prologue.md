@@ -13,16 +13,3 @@ OF THE SACRAMENT OF CONFIRMATION (TWELVE ARTICLES)  We have now to consider the 
 (10) Whether someone is required to stand for the person to be confirmed?
 (11) Whether this sacrament is given by bishops only?
 (12) Of its rite.
-
-* Whether Confirmation Is A Sacrament?
-* Whether Chrism Is A Fitting Matter For This Sacrament?
-* Whether It Is Essential To This Sacrament That The Chrism Which Is Its Matter Be Previously Consecrated By A Bishop?
-* Whether The Proper Form Of This Sacrament Is: "I Sign Thee With The Sign Of The Cross," Etc.?
-* Whether The Sacrament Of Confirmation Imprints A Character?
-* Whether The Character Of Confirmation Presupposes Of Necessity, The Baptismal Character?
-* Whether Sanctifying Grace Is Bestowed In This Sacrament?
-* Whether This Sacrament Should Be Given To All?
-* Whether This Sacrament Should Be Given To Man On The Forehead?
-* Whether He Who Is Confirmed Needs One To Stand For Him?
-* Whether Only A Bishop Can Confer This Sacrament?
-* Whether The Rite Of This Sacrament Is Appropriate?

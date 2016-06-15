@@ -9,12 +9,3 @@ We now have to consider the acts of the soul in regard to the intellectual and t
 (6) Whether it acquires intellectual knowledge from the senses?
 (7) Whether the intellect can, through the species of which it is possessed, actually understand, without turning to the phantasms?
 (8) Whether the judgment of the intellect is hindered by an obstacle in the sensitive powers?
-
-* Whether The Soul Knows Bodies Through The Intellect?
-* Whether The Soul Understands Corporeal Things Through Its Essence?
-* Whether The Soul Understands All Things Through Innate Species?
-* Whether The Intelligible Species Are Derived By The Soul From Certain Separate Forms?
-* Whether The Intellectual Soul Knows Material Things In The Eternal Types?
-* Whether Intellectual Knowledge Is Derived From Sensible Things?
-* Whether The Intellect Can Actually Understand Through The Intelligible Species Of Which It Is Possessed, Without Turning To The Phantasms?
-* Whether The Judgment Of The Intellect Is Hindered Through Suspension Of The Sensitive Powers?

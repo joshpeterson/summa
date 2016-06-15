@@ -5,8 +5,3 @@ We must now consider Christ's circumcision. And since the circumcision is a kind
 (2) The imposition of His name;
 (3) His presentation;
 (4) His Mother's purification.
-
-* Whether Christ Should Have Been Circumcised?
-* Whether His Name Was Suitably Given To Christ?
-* Whether Christ Was Becomingly Presented In The Temple?
-* Whether It Was Fitting That The Mother Of God Should Go To The Temple To Be Purified?

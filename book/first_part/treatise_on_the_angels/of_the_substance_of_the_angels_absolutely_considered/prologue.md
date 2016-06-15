@@ -6,9 +6,3 @@ Now we consider the distinction of corporeal and spiritual creatures: firstly, t
 (3) We ask concerning their number.
 (4) Of their difference from each other.
 (5) Of their immortality or incorruptibility.
-
-* Whether An Angel Is Altogether Incorporeal?
-* Whether An Angel Is Composed Of Matter And Form?
-* Whether The Angels Exist In Any Great Number?
-* Whether The Angels Differ In Species?
-* Whether The Angels Are Incorruptible?

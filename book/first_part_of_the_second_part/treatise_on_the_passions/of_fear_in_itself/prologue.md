@@ -5,8 +5,3 @@ We must now consider, in the first place, fear; and, secondly, daring. With rega
 (2) Whether fear is a special passion?
 (3) Whether there is a natural fear?
 (4) Of the species of fear.
-
-* Whether Fear Is A Passion Of The Soul?
-* Whether Fear Is A Special Passion?
-* Whether There Is A Natural Fear?
-* Whether The Species Of Fear Is Suitably Assigned?

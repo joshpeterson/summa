@@ -7,10 +7,3 @@ We must how consider the vices opposed to charity: (1) hatred, which is opposed 
 (4) Whether it is the greatest of all sins against our neighbor?
 (5) Whether it is a capital sin?
 (6) From what capital sin does it arise?
-
-* Whether It Is Possible For Anyone To Hate God?
-* Whether Hatred Of God Is The Greatest Of Sins?
-* Whether Hatred Of One's Neighbor Is Always A Sin?
-* Whether Hatred Of Our Neighbor Is The Most Grievous Sin Against Our Neighbor?
-* Whether Hatred Is A Capital Sin?
-* Whether Hatred Arises From Envy?

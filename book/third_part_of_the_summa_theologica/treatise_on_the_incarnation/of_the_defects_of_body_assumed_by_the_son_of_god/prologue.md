@@ -5,8 +5,3 @@ We must now consider the defects Christ assumed in the human nature; and first, 
 (2) Whether He assumed the obligation of being subject to these defects?
 (3) Whether He contracted these defects?
 (4) Whether He assumed all these defects?
-
-* Whether The Son Of God In Human Nature Ought To Have Assumed Defects Of Body?
-* Whether Christ Was Of Necessity Subject To These Defects?
-* Whether Christ Contracted These Defects?
-* Whether Christ Ought To Have Assumed All The Bodily Defects Of Men?

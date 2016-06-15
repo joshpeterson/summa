@@ -6,9 +6,3 @@ We must now consider moral virtues. We shall speak (1) of the difference between
 (3) Whether virtue is adequately divided into moral and intellectual virtue?
 (4) Whether there can be moral without intellectual virtue?
 (5) Whether, on the other hand, there can be intellectual without moral virtue?
-
-* Whether Every Virtue Is A Moral Virtue?
-* Whether Moral Virtue Differs From Intellectual Virtue?
-* Whether Virtue Is Adequately Divided Into Moral And Intellectual?
-* Whether There Can Be Moral Without Intellectual Virtue?
-* Whether There Can Be Intellectual Without Moral Virtue?

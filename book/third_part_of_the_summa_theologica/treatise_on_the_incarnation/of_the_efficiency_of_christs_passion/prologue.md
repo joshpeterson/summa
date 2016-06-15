@@ -7,10 +7,3 @@ We now have to consider Christ's Passion as to its effect; first of all, as to t
 (4) Whether it was by way of redemption?
 (5) Whether it is proper to Christ to be the Redeemer?
 (6) Whether (the Passion) secured man's salvation efficiently?
-
-* Whether Christ's Passion Brought About Our Salvation By Way Of Merit?
-* Whether Christ's Passion Brought About Our Salvation By Way Of Atonement?
-* Whether Christ's Passion Operated By Way Of Sacrifice?
-* Whether Christ's Passion Brought About Our Salvation By Way Of Redemption?
-* Whether It Is Proper To Christ To Be The Redeemer?
-* Whether Christ's Passion Brought About Our Salvation Efficiently?

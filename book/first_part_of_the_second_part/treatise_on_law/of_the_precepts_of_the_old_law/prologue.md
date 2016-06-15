@@ -7,10 +7,3 @@ We must now consider the precepts of the Old Law; and (1) how they are distingui
 (4) Whether besides these it contains judicial precepts?
 (5) Whether it contains any others besides these?
 (6) How the Old Law induced men to keep its precepts.
-
-* Whether The Old Law Contains Only One Precept?
-* Whether The Old Law Contains Moral Precepts?
-* Whether The Old Law Comprises Ceremonial, Besides Moral, Precepts?
-* Whether, Besides The Moral And Ceremonial Precepts, There Are Also Judicial Precepts?
-* Whether The Old Law Contains Any Others Besides The Moral, Judicial, And Ceremonial Precepts?
-* Whether The Old Law Should Have Induced Men To The Observance Of Its Precepts, By Means Of Temporal Promises And Threats?

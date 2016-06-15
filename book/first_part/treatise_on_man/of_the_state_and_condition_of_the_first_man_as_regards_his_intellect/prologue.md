@@ -5,8 +5,3 @@ We next consider the state or condition of the first man; first, as regards his 
 (2) Whether he could see the separate substances, that is, the angels?
 (3) Whether he possessed all knowledge?
 (4) Whether he could err or be deceived?
-
-* Whether The First Man Saw God Through His Essence?
-* Whether Adam In The State Of Innocence Saw The Angels Through Their Essence?
-* Whether The First Man Knew All Things?
-* Whether Man In His First State Could Be Deceived?

@@ -13,16 +13,3 @@ We must now consider each kind of precept of the Old Law: and (1) the moral prec
 (10) Whether the mode of charity comes under the precept?
 (11) The distinction of other moral precepts;
 (12) Whether the moral precepts of the Old Law justified man?
-
-* Whether All The Moral Precepts Of The Old Law Belong To The Law Of Nature?
-* Whether The Moral Precepts Of The Law Are About All The Acts Of Virtue?
-* Whether All The Moral Precepts Of The Old Law Are Reducible To The Ten Precepts Of The Decalogue?
-* Whether The Precepts Of The Decalogue Are Suitably Distinguished From One Another?
-* Whether The Precepts Of The Decalogue Are Suitably Set Forth?
-* Whether The Ten Precepts Of The Decalogue Are Set In Proper Order?
-* Whether The Precepts Of The Decalogue Are Suitably Formulated?
-* Whether The Precepts Of The Decalogue Are Dispensable?
-* Whether The Mode Of Virtue Falls Under The Precept Of The Law?
-* Whether The Mode Of Charity Falls Under The Precept Of The Divine Law?
-* Whether It Is Right To Distinguish Other Moral Precepts Of The Law Besides The Decalogue?
-* Whether The Moral Precepts Of The Old Law Justified Man?

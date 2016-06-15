@@ -10,12 +10,3 @@ We must now consider the sins opposed to justice, whereby a man injures his neig
 (7) Whether it is lawful to thieve in a case of necessity?
 (8) Whether every robbery is a mortal sin?
 (9) Whether robbery is a more grievous sin than theft?
-
-* Whether It Is Natural For Man To Possess External Things?
-* Whether It Is Lawful For A Man To Possess A Thing As His Own?
-* Whether The Essence Of Theft Consists In Taking Another's Thing Secretly?
-* Whether Theft And Robbery Are Sins Of Different Species?
-* Whether Theft Is Always A Sin?
-* Whether It Is Lawful To Steal Through Stress Of Need?
-* Whether Robbery May Be Committed Without Sin?
-* Whether Theft Is A More Grievous Sin Than Robbery?

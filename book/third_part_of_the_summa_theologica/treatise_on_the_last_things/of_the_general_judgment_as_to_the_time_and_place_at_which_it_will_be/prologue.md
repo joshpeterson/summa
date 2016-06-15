@@ -5,8 +5,3 @@ We must next consider the general judgment, as to the time and place at which it
 (2) Whether as regards the debate it will be conducted by word of mouth?
 (3) Whether it will take place at an unknown time?
 (4) Whether it will take place in the valley of Josaphat?
-
-* Whether There Will Be A General Judgment?
-* Whether The Judgment Will Take Place By Word Of Mouth?
-* Whether The Time Of The Future Judgment Is Unknown?
-* Whether The Judgment Will Take Place In The Valley Of Josaphat?

@@ -7,10 +7,3 @@ We must now consider the union on the part of what was assumed. About which we m
 (4) Whether it was becoming that He should assume human nature abstracted from all individuals?
 (5) Whether it was becoming that He should assume human nature in all its individuals?
 (6) Whether it was becoming that He should assume human nature in any man begotten of the stock of Adam?
-
-* Whether Human Nature Was More Assumable By The Son Of God Than Any Other Nature?
-* Whether The Son Of God Assumed A Person?
-* Whether The Divine Person Assumed A Man?
-* Whether The Son Of God Ought To Have Assumed Human Nature Abstracted From All Individuals?
-* Whether The Son Of God Ought To Have Assumed Human Nature In All Individuals?
-* Whether It Was Fitting For The Son Of God To Assume Human Nature Of The Stock Of Adam?
