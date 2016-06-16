@@ -52,6 +52,10 @@ class TitleParserTest < MiniTest::Test
     assert_equal("OF HONESTY foo", TitleParser.sanitize("OF HONESTY --- foo"))
   end
 
+  def test_removes_embedded_colon
+    assert_equal("OF HONESTY foo", TitleParser.sanitize("OF HONESTY: foo"))
+  end
+
   def test_capitalizes_a_word_quotation_marks
     assert_equal('First "Part"', TitleParser.title_casing_for('FIRST "PART"'))
   end
