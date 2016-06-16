@@ -15,6 +15,10 @@ class TitleParserTest < MiniTest::Test
     assert_equal("FIRST PART", TitleParser.sanitize("FIRST [1] PART"))
   end
 
+  def test_removes_double_embedded_bracket
+    assert_equal("FIRST PART", TitleParser.sanitize("FIRST [*Cf. FP, Q[12]] PART"))
+  end
+
   def test_changes_the_casing_to_title_casing
     assert_equal("First Part", TitleParser.title_casing_for("FIRST PART"))
   end
