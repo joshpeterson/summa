@@ -4,16 +4,15 @@ require_relative "../generator/title_parser"
 
 class TitleParserTest < MiniTest::Test
   def test_removes_trailing_parantheses
-    assert_equal("FIRST PART",
-                 TitleParser.strip_parantheses("FIRST PART (QQ[1] - 15)"))
+    assert_equal("FIRST PART", TitleParser.sanitize("FIRST PART (QQ[1] - 15)"))
   end
 
   def test_removes_embedded_parantheses
-    assert_equal("FIRST PART", TitleParser.strip_parantheses("FIRST (FP) PART"))
+    assert_equal("FIRST PART", TitleParser.sanitize("FIRST (FP) PART"))
   end
 
   def test_removes_embedded_bracket
-    assert_equal("FIRST PART", TitleParser.strip_parantheses("FIRST [1] PART"))
+    assert_equal("FIRST PART", TitleParser.sanitize("FIRST [1] PART"))
   end
 
   def test_changes_the_casing_to_title_casing
@@ -26,8 +25,15 @@ class TitleParserTest < MiniTest::Test
   end
 
   def test_removes_an_embedded_asterisk
-    assert_equal("OF HONESTY [Test]",
-                 TitleParser.strip_asterisk("OF HONESTY* [Test]"))
+    assert_equal("OF HONESTY TWO", TitleParser.sanitize("OF HONESTY* TWO"))
+  end
+
+  def test_removes_an_embedded_period
+    assert_equal("OF HONESTY ie", TitleParser.sanitize("OF HONESTY i.e."))
+  end
+
+  def test_removes_embedded_curly_braces
+    assert_equal("OF HONESTY foo", TitleParser.sanitize("OF HONESTY {foo}"))
   end
 
   def test_capitalizes_a_word_quotation_marks
