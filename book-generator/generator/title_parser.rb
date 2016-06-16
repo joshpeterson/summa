@@ -6,10 +6,13 @@ class TitleParser
     # 4. Replace a period with nothing
     # 5. Replace curly braces with nothing
     # 6. Replace remaining square brackets with nothing
-    # 7. Replace two or more adjacent spaces with one space
+    # 7. Replace double quotes with nothing
+    # 8. Replace single quotes with nothing
+    # 9. Replace any number of consecutive dashes with nothing
+    # 10. Replace two or more adjacent spaces with one space
     title.gsub(/\(.*?\)/, "").gsub(/\[.*?\]/, "").gsub("*", "").gsub(".", "")
-          .gsub("{", "").gsub("}", "").gsub("[", "").gsub("]", "")
-          .gsub(/\s{2,}/, " ").strip()
+      .gsub("{", "").gsub("}", "").gsub("[", "").gsub("]", "").gsub("\"","")
+      .gsub("'","").gsub(/-+?/, "").gsub(/\s{2,}/, " ").strip()
   end
 
   def self.title_casing_for(title)
