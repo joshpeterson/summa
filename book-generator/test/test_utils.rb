@@ -33,4 +33,49 @@ class UtilsTest < MiniTest::Test
     assert_equal("first_part/treatise_on_the_one_god", path)
   end
 
+  def test_removes_trailing_parantheses
+    assert_equal("FIRST_PART", Utils.sanitize("FIRST PART (QQ[1] - 15)"))
+  end
+
+  def test_removes_embedded_parantheses
+    assert_equal("FIRST_PART", Utils.sanitize("FIRST (FP) PART"))
+  end
+
+  def test_removes_embedded_bracket
+    assert_equal("FIRST_PART", Utils.sanitize("FIRST [1] PART"))
+  end
+
+  def test_removes_double_embedded_bracket
+    assert_equal("FIRST_PART", Utils.sanitize("FIRST [*Cf. FP, Q[12]] PART"))
+  end
+
+  def test_removes_an_embedded_asterisk
+    assert_equal("OF_HONESTY_TWO", Utils.sanitize("OF HONESTY* TWO"))
+  end
+
+  def test_removes_an_embedded_period
+    assert_equal("OF_HONESTY_ie", Utils.sanitize("OF HONESTY i.e."))
+  end
+
+  def test_removes_embedded_curly_braces
+    assert_equal("OF_HONESTY_foo", Utils.sanitize("OF HONESTY {foo}"))
+  end
+
+  def test_removes_embedded_double_quotes
+    assert_equal("OF_HONESTY_foo", Utils.sanitize("OF HONESTY \"foo\""))
+  end
+
+  def test_removes_embedded_single_quotes
+    assert_equal("OF_HONESTY_foo", Utils.sanitize("OF HONESTY 'foo'"))
+  end
+
+  def test_removes_embedded_dashes
+    assert_equal("OF_HONESTY_foo", Utils.sanitize("OF HONESTY --- foo"))
+  end
+
+  def test_removes_embedded_colon
+    assert_equal("OF_HONESTY_foo", Utils.sanitize("OF HONESTY: foo"))
+  end
+
+
 end
