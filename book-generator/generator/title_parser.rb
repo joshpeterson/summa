@@ -12,10 +12,10 @@ class TitleParser
 
   def self.sanitize(title)
     # 1. Replace anything in parantheses with nothing
-    # 2. Replace anything in square brackets with nothing
+    # 2. Replace anything in square brackets with nothing (across multiple lines)
     # 3. Replace an asterisk with nothing
     # 4. Replace two or more adjacent spaces with one space
-    title.gsub(/\(.*?\)/, "").gsub(/\[.*?\]/, "").gsub("*", "").gsub(/\s{2,}/, " ")
+    title.gsub(/\(.*?\)/, "").gsub(/\[.*\]/m, "").gsub("*", "").gsub(/\s{2,}/, " ")
       .strip()
   end
 end
