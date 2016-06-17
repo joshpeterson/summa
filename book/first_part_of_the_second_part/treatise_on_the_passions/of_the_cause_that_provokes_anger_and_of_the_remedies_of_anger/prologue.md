@@ -1,4 +1,4 @@
-# Of The Cause That Provokes Anger, And Of The Remedies Of Anger .]
+# Of The Cause That Provokes Anger, And Of The Remedies Of Anger
 
 [*There is no further mention of these remedies in the text, except in A[4].]  We must now consider the cause that provokes anger, and its remedies. Under this head there are four points of inquiry:
 (1) Whether the motive of anger is always something done against the one who is angry?
