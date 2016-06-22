@@ -41,15 +41,11 @@ for part in summa.parts
     path.push(treatise_title)
     for question in treatise.questions
       question_title = TitleParser.format_title(question.title)
-      path.push(question_title)
-      write_to_file(prologue_for(path),
-                    PrologueWriter.write(question_title, question.content))
+      content = PrologueWriter.write(question_title, question.content) + "\n"
       for article in question.articles
-        article_title = TitleParser.format_title(article.title)
-        write_to_file(article_for(path, article_title),
-                      ArticleWriter.write(article))
+        content += ArticleWriter.write(article) + "\n"
       end
-      path.pop
+      write_to_file(article_for(path, question_title), content)
     end
     path.pop
   end
