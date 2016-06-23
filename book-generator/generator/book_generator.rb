@@ -21,9 +21,9 @@ def prologue_for(path)
   Utils.append_prologue_link(path)
 end
 
-def article_for(path, title)
+def markdown_filename_for(path, title)
   Utils.append_to_path(Utils.path_from_stack(path),
-                       Utils.emit_article_markdown_filename(title))
+                       Utils.emit_markdown_filename(title))
 end
 
 print "Loading summa data from file\n"
@@ -45,7 +45,7 @@ for part in summa.parts
       for article in question.articles
         content += ArticleWriter.write(article) + "\n"
       end
-      write_to_file(article_for(path, question_title), content)
+      write_to_file(markdown_filename_for(path, question_title), content)
     end
     path.pop
   end

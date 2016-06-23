@@ -10,18 +10,18 @@ class UtilsTest < MiniTest::Test
     assert_equal("first_part/prologue.md", link)
   end
 
-  def test_emit_article_markdown_filename
-    filename = Utils.emit_article_markdown_filename("Whether God is one?")
+  def test_emit_markdown_filename
+    filename = Utils.emit_markdown_filename("Whether God is one?")
     assert_equal("whether_god_is_one.md", filename)
   end
 
-  def test_emit_article_markdown_filename_strips_commas
-    filename = Utils.emit_article_markdown_filename("Whether, God is, one?")
+  def test_emit_markdown_filename_strips_commas
+    filename = Utils.emit_markdown_filename("Whether, God is, one?")
     assert_equal("whether_god_is_one.md", filename)
   end
 
-  def test_emit_article_markdown_filename_strips_apostrophes
-    filename = Utils.emit_article_markdown_filename("Whether' God is' one?")
+  def test_emit_markdown_filename_strips_apostrophes
+    filename = Utils.emit_markdown_filename("Whether' God is' one?")
     assert_equal("whether_god_is_one.md", filename)
   end
 

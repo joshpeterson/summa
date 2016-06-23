@@ -22,8 +22,8 @@ class SummaryGenerator
         for question in treatise.questions
           question_title = TitleParser.format_title(question.title)
           summary += emit_entry(0, question_title,
-                                Utils.append_to_path(Utils.path_from_stack(path),
-                                Utils.emit_article_markdown_filename(question_title))) + "\n"
+                              Utils.append_to_path(Utils.path_from_stack(path),
+                              Utils.emit_markdown_filename(question_title))) + "\n"
         end
         path.pop
       end

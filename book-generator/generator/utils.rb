@@ -3,7 +3,7 @@ class Utils
     return append_to_path(path_from_stack(path), "prologue.md")
   end
 
-  def self.emit_article_markdown_filename(title)
+  def self.emit_markdown_filename(title)
     return "#{make_string_for_path(title)}.md"
   end
 
