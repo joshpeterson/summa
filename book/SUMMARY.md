@@ -219,7 +219,7 @@
 * [How Habits Are Corrupted Or Diminished](first_part_of_the_second_part/treatise_on_habits/how_habits_are_corrupted_or_diminished.md)
 * [Of The Distinction Of Habits](first_part_of_the_second_part/treatise_on_habits/of_the_distinction_of_habits.md)
 
-### Treatise On Habits In Particular Good Habits, I.e. Virtues
+### Treatise On Habits In Particular Good Habits, i.e. Virtues
 
 * [Of The Virtues, As To Their Essence](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_virtues_as_to_their_essence.md)
 * [Of The Subject Of Virtue](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_subject_of_virtue.md)
@@ -237,7 +237,7 @@
 * [Of The Gifts](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_gifts.md)
 * [Of The Beatitudes](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_beatitudes.md)
 * [Of The Fruits Of The Holy Ghost](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_fruits_of_the_holy_ghost.md)
-* [Evil Habits, I.e. Vices And Sins](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/evil_habits_ie_vices_and_sins.md)
+* [Evil Habits, i.e. Vices And Sins](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/evil_habits_ie_vices_and_sins.md)
 * [Of The Distinction Of Sins](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_distinction_of_sins.md)
 * [Of The Comparison Of One Sin With Another](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_comparison_of_one_sin_with_another.md)
 * [Of The Subject Of Sin](first_part_of_the_second_part/treatise_on_habits_in_particular_good_habits_ie_virtues/of_the_subject_of_sin.md)

@@ -211,7 +211,7 @@ Reply to Objection 1: Sometimes, for the sake of brevity, the holy doctors use t
 Reply to Objection 2: All the properties of the human, just as of the Divine Nature, may be predicated equally of Christ. Hence Damascene says (De Fide Orth. iii, 4) that "Christ Who God and Man, is called created and uncreated, passible and impassible." Nevertheless things of which we may doubt to what nature they belong, are not to be predicated without a qualification. Hence he afterwards adds (De Fide Orth. iv, 5) that "the one hypostasis," i.e. of Christ, "is uncreated in its Godhead and created in its manhood": even so conversely, we may not say without qualification, "Christ is incorporeal" or "impassible"; in order to avoid the error of Manes, who held that Christ had not a true body, nor truly suffered, but we must say, with a qualification, that Christ was incorporeal and impassible "in His Godhead."
 
 Reply to Objection 3: There can be no doubt how the birth from the Virgin applies to the Person of the Son of God, as there can be in the case of creation; and hence there is no parity.
-# Whether This Man, I.e. Christ, Began To Be?
+# Whether This Man, i.e. Christ, Began To Be?
 
 ## Objections
 

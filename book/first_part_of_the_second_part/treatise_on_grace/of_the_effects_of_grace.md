@@ -36,7 +36,7 @@ Reply to Objection 1: Every sin, inasmuch as it implies the disorder of a mind n
 Reply to Objection 2: Faith and charity imply a special directing of the human mind to God by the intellect and will; whereas justice implies a general rectitude of order. Hence this transmutation is named after justice rather than after charity or faith.
 
 Reply to Objection 3: Being called refers to God's help moving and exciting our mind to give up sin, and this motion of God is not the remission of sins, but its cause.
-# Whether The Infusion Of Grace Is Required For The Remission Of Guilt, I.e. For The Justification Of The Ungodly?
+# Whether The Infusion Of Grace Is Required For The Remission Of Guilt, i.e. For The Justification Of The Ungodly?
 
 ## Objections
 
