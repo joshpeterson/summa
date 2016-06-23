@@ -22,4 +22,9 @@ class TitleParserTest < MiniTest::Test
                   [*There is no further mention of these remedies in the text,
                   except in A[4].]"))
   end
+
+  def test_does_not_capitalize_ie
+    assert_equal("First Part i.e. One",
+                  TitleParser.title_casing_for("FIRST PART i.e. one"))
+  end
 end
