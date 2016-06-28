@@ -8,7 +8,7 @@ require_relative "../../summa-parser/models/objection.rb"
 class TestArticleWriter < MiniTest::Test
   def test_starts_with_title
     article = ArticleParsed.new("ARTICle title", "", "", Array.new)
-    assert_startswith("# Article Title", ArticleWriter.write(article))
+    assert_startswith("## Article Title", ArticleWriter.write(article))
   end
 
   def test_article_content
@@ -37,53 +37,53 @@ class TestArticleWriter < MiniTest::Test
                  ArticleWriter.write(article))
   end
 
-  $expected_article_content = "# Article Title
+  $expected_article_content = "## Article Title
 
-## Objections
+### Objections
 
 Objection 1 text.
 
 Objection 2 text.
 
-## Answer
+### Answer
 
 Contrary text.
 
 Answer text.
 
-## Replies
+### Replies
 
 First reply text.
 
 Second reply text."
 
-  $expected_article_content_with_nil_reply = "# Article Title
+  $expected_article_content_with_nil_reply = "## Article Title
 
-## Objections
+### Objections
 
 Objection 1 text.
 
 Objection 2 text.
 
-## Answer
+### Answer
 
 Contrary text.
 
 Answer text.
 
-## Replies
+### Replies
 
 Second reply text."
 
-  $expected_article_content_with_no_replies = "# Article Title
+  $expected_article_content_with_no_replies = "## Article Title
 
-## Objections
+### Objections
 
 Objection 1 text.
 
 Objection 2 text.
 
-## Answer
+### Answer
 
 Contrary text.
 
