@@ -5,9 +5,9 @@ We must next consider the cause of habits: and firstly, as to their formation; s
 (2) Whether any habit is caused by acts?
 (3) Whether any habit can be caused by one act?
 (4) Whether any habits are infused in man by God?
-# Whether Any Habit Is From Nature?
+## Whether Any Habit Is From Nature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no habit is from nature. For the use of those things which are from nature does not depend on the will. But habit "is that which we use when we will," as the Commentator says on De Anima iii. Therefore habit is not from nature.
 
@@ -15,7 +15,7 @@ Objection 2: Further, nature does not employ two where one is sufficient. But th
 
 Objection 3: Further, nature does not fail in necessaries. But habits are necessary in order to act well, as we have stated above ([1463]Q[49], A[4]). If therefore any habits were from nature, it seems that nature would not fail to cause all necessary habits: but this is clearly false. Therefore habits are not from nature.
 
-## Answer
+### Answer
 
 On the contrary, In Ethic. vi, 6, among other habits, place is given to understanding of first principles, which habit is from nature: wherefore also first principles are said to be known naturally.
 
@@ -33,16 +33,16 @@ In the appetitive powers, however, no habit is natural in its beginning, on the 
 
 But on the part of the body, in respect of the individual nature, there are some appetitive habits by way of natural beginnings. For some are disposed from their own bodily temperament to chastity or meekness or such like.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection takes nature as divided against reason and will; whereas reason itself and will belong to the nature of man.
 
 Reply to Objection 2: Something may be added even naturally to the nature of a power, while it cannot belong to the power itself. For instance, with regard to the angels, it cannot belong to the intellective power itself capable of knowing all things: for thus it would have to be the act of all things, which belongs to God alone. Because that by which something is known, must needs be the actual likeness of the thing known: whence it would follow, if the power of the angel knew all things by itself, that it was the likeness and act of all things. Wherefore there must needs be added to the angels' intellective power, some intelligible species, which are likenesses of things understood: for it is by participation of the Divine wisdom and not by their own essence, that their intellect can be actually those things which they understand. And so it is clear that not everything belonging to a natural habit can belong to the power.
 
 Reply to Objection 3: Nature is not equally inclined to cause all the various kinds of habits: since some can be caused by nature, and some not, as we have said above. And so it does not follow that because some habits are natural, therefore all are natural.
-# Whether Any Habit Is Caused By Acts?
+## Whether Any Habit Is Caused By Acts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no habit is caused by acts. For habit is a quality, as we have said above ([1466]Q[49], A[1]). Now every quality is caused in a subject, according to the latter's receptivity. Since then the agent, inasmuch as it acts, does not receive but rather gives: it seems impossible for a habit to be caused in an agent by its own acts.
 
@@ -50,22 +50,22 @@ Objection 2: Further, the thing wherein a quality is caused is moved to that qua
 
 Objection 3: Further, the effect cannot be more noble than its cause. But habit is more noble than the act which precedes the habit; as is clear from the fact that the latter produces more noble acts. Therefore habit cannot be caused by an act which precedes the habit.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher (Ethic. ii, 1,2) teaches that habits of virtue and vice are caused by acts.
 
 I answer that, In the agent there is sometimes only the active principle of its act: for instance in fire there is only the active principle of heating. And in such an agent a habit cannot be caused by its own act: for which reason natural things cannot become accustomed or unaccustomed, as is stated in Ethic. ii, 1. But a certain agent is to be found, in which there is both the active and the passive principle of its act, as we see in human acts. For the acts of the appetitive power proceed from that same power according as it is moved by the apprehensive power presenting the object: and further, the intellective power, according as it reasons about conclusions, has, as it were, an active principle in a self-evident proposition. Wherefore by such acts habits can be caused in their agents; not indeed with regard to the first active principle, but with regard to that principle of the act, which principle is a mover moved. For everything that is passive and moved by another, is disposed by the action of the agent; wherefore if the acts be multiplied a certain quality is formed in the power which is passive and moved, which quality is called a habit: just as the habits of moral virtue are caused in the appetitive powers, according as they are moved by the reason, and as the habits of science are caused in the intellect, according as it is moved by first propositions.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The agent, as agent, does not receive anything. But in so far as it moves through being moved by another, it receives something from that which moves it: and thus is a habit caused.
 
 Reply to Objection 2: The same thing, and in the same respect, cannot be mover and moved; but nothing prevents a thing from being moved by itself as to different respects, as is proved in Physics viii, text. 28,29.
 
 Reply to Objection 3: The act which precedes the habit, in so far as it comes from an active principle, proceeds from a more excellent principle than is the habit caused thereby: just as the reason is a more excellent principle than the habit of moral virtue produced in the appetitive power by repeated acts, and as the understanding of first principles is a more excellent principle than the science of conclusions.
-# Whether A Habit Can Be Caused By One Act?
+## Whether A Habit Can Be Caused By One Act?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a habit can be caused by one act. For demonstration is an act of reason. But science, which is the habit of one conclusion, is caused by one demonstration. Therefore habit can be caused by one act.
 
@@ -73,7 +73,7 @@ Objection 2: Further, as acts happen to increase by multiplication so do they ha
 
 Objection 3: Further, health and sickness are habits. But it happens that a man is healed or becomes ill, by one act. Therefore one act can cause a habit.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher (Ethic. i, 7): "As neither does one swallow nor one day make spring: so neither does one day nor a short time make a man blessed and happy." But "happiness is an operation in respect of a habit of perfect virtue" (Ethic. i, 7,10,13). Therefore a habit of virtue, and for the same reason, other habits, is not caused by one act.
 
@@ -82,9 +82,9 @@ I answer that, As we have said already [1467](A[2]), habit is caused by act, bec
 But in the apprehensive powers, we must observe that there are two passive principles: one is the "possible" [*See [1468]FP, Q[79], A[2] ad 2] intellect itself; the other is the intellect which Aristotle (De Anima iii, text. 20) calls "passive," and is the "particular reason," that is the cogitative power, with memory and imagination. With regard then to the former passive principle, it is possible for a certain active principle to entirely overcome, by one act, the power of its passive principle: thus one self-evident proposition convinces the intellect, so that it gives a firm assent to the conclusion, but a probable proposition cannot do this. Wherefore a habit of opinion needs to be caused by many acts of the reason, even on the part of the "possible" intellect: whereas a habit of science can be caused by a single act of the reason, so far as the "possible" intellect is concerned. But with regard to the lower apprehensive powers, the same acts need to be repeated many times for anything to be firmly impressed on the memory. And so the Philosopher says (De Memor. et Remin. 1) that "meditation strengthens memory." Bodily habits, however, can be caused by one act, if the active principle is of great power: sometimes, for instance, a strong dose of medicine restores health at once.
 
 Hence the solutions to the objections are clear.
-# Whether Any Habits Are Infused In Man By God?
+## Whether Any Habits Are Infused In Man By God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no habit is infused in man by God. For God treats all equally. If therefore He infuses habits into some, He would infuse them into all: which is clearly untrue.
 
@@ -92,7 +92,7 @@ Objection 2: Further, God works in all things according to the mode which is sui
 
 Objection 3: Further, if any habit be infused into man by God, man can by that habit perform many acts. But "from those acts a like habit is caused" (Ethic. ii, 1,2). Consequently there will be two habits of the same species in the same man, one acquired, the other infused. Now this seems impossible: for the two forms of the same species cannot be in the same subject. Therefore a habit is not infused into man by God.
 
-## Answer
+### Answer
 
 On the contrary, it is written (Ecclus. 15:5): "God filled him with the spirit of wisdom and understanding." Now wisdom and understanding are habits. Therefore some habits are infused into man by God.
 
@@ -102,7 +102,7 @@ The first reason is because there are some habits by which man is disposed to an
 
 The other reason is, because God can produce the effects of second causes, without these second causes, as we have said in the [1471]FP, Q[105], A[6]. Just as, therefore, sometimes, in order to show His power, He causes health, without its natural cause, but which nature could have caused, so also, at times, for the manifestation of His power, He infuses into man even those habits which can be caused by a natural power. Thus He gave to the apostles the science of the Scriptures and of all tongues, which men can acquire by study or by custom, but not so perfectly.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God, in respect of His Nature, is the same to all, but in respect of the order of His Wisdom, for some fixed motive, gives certain things to some, which He does not give to others.
 

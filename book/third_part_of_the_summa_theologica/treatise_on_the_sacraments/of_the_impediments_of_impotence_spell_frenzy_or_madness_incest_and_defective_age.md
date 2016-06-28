@@ -6,9 +6,9 @@ We must now consider five impediments to marriage, namely the impediments of imp
 (3) Whether frenzy or madness is?
 (4) Whether incest is?
 (5) Whether defective age is?
-# Whether Impotence Is An Impediment To Marriage?
+## Whether Impotence Is An Impediment To Marriage?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that impotence is not an impediment to marriage. For carnal copulation is not essential to marriage, since marriage is more perfect when both parties observe continency by vow. But impotence deprives marriage of nothing save carnal copulation. Therefore it is not a diriment impediment to the marriage contract.
 
@@ -22,13 +22,13 @@ Objection 5: Further, calidity may prove a sufficient incentive to carnal copula
 
 Objection 6: Further, generally speaking woman is more frigid than man. But women are not debarred from marriage. Neither therefore should men be debarred on account of frigidity.
 
-## Answer
+### Answer
 
 On the contrary, It is stated (Extra, De Frigidis et Malefic., cap. Quod Sedem): "Just as a boy who is incapable of marital intercourse is unfit to marry, so also those who are impotent are deemed most unfit for the marriage contract." Now persons affected with frigidity are the like. Therefore, etc.
 
 I answer that, In marriage there is a contract whereby one is bound to pay the other the marital debt: wherefore just as in other contracts, the bond is unfitting if a person bind himself to what he cannot give or do, so the marriage contract is unfitting, if it be made by one who cannot pay the marital debt. This impediment is called by the general name of impotence as regards coition, and can arise either from an intrinsic and natural cause, or from an extrinsic and accidental cause, for instance spell, of which we shall speak later [4984](A[2]). If it be due to a natural cause, this may happen in two ways. For either it is temporary, and can be remedied by medicine, or by the course of time, and then it does not void a marriage: or it is perpetual and then it voids marriage, so that the party who labors under this impediment remains for ever without hope of marriage, while the other may "marry to whom she will . . . in the Lord" (1 Cor. 7:39). In order to ascertain whether the impediment be perpetual or not, the Church has appointed a fixed time, namely three years, for putting the matter to a practical proof: and if after three years, during which both parties have honestly endeavored to fulfil their marital intercourse, the marriage remain unconsummated, the Church adjudges the marriage to be dissolved. And yet the Church is sometimes mistaken in this, because three years are sometimes insufficient to prove impotence to be perpetual. Wherefore if the Church find that she has been mistaken, seeing that the subject of the impediment has completed carnal copulation with another or with the same person, she reinstates the former marriage and dissolves the subsequent one, although the latter has been contracted with her permission. [*"Nowadays it is seldom necessary to examine too closely into this matter, as all cases arising from it are treated as far as possible under the form of dispensations of non-consummated marriages." Cf. Catholic Encyclopedia, article Canonical Impediments.]
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the act of carnal copulation is not essential to marriage, ability to fulfill the act is essential, because marriage gives each of the married parties power over the other's body in relation to marital intercourse.
 
@@ -41,9 +41,9 @@ Reply to Objection 4: In all contracts it is agreed on all hands that anyone who
 Reply to Objection 5: A man cannot have a perpetual natural impediment in regard to one person and not in regard to another. But if he cannot fulfill the carnal act with a virgin, while he can with one who is not a virgin, the hymeneal membrane may be broken by a medical instrument, and thus he may have connection with her. Nor would this be contrary to nature, for it would be done not for pleasure but for a remedy. Dislike for a woman is not a natural cause, but an accidental extrinsic cause: and therefore we must form the same judgment in its regard as about spells, of which we shall speak further on [4985](A[2]).
 
 Reply to Objection 6: The male is the agent in procreation, and the female is the patient, wherefore greater calidity is required in the male than in the female for the act of procreation. Hence the frigidity which renders the man impotent would not disable the woman. Yet there may be a natural impediment from another cause, namely stricture, and then we must judge of stricture in the woman in the same way as of frigidity in the man.
-# Whether A Spell Can Be An Impediment To Marriage?
+## Whether A Spell Can Be An Impediment To Marriage?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a spell cannot be an impediment to marriage. For the spells in question are caused by the operation of demons. But the demons have no more power to prevent the marriage act than other bodily actions; and these they cannot prevent, for thus they would upset the whole world if they hindered eating and walking and the like. Therefore they cannot hinder marriage by spells.
 
@@ -53,7 +53,7 @@ Objection 3: Further, no impediment, unless it be perpetual, voids the marriage 
 
 Objection 4: Further, carnal copulation cannot be hindered, unless there be an impediment to the generative power which is its principle. But the generative power of one man is equally related to all women. Therefore a spell cannot be an impediment in respect of one woman without being so also in respect of all.
 
-## Answer
+### Answer
 
 On the contrary, It is stated in the Decretals (XXXIII, qu. 1, cap. iv): "If by sorcerers or witches . . . ," and further on, "if they be incurable, they must be separated."
 
@@ -63,7 +63,7 @@ Wherefore others have maintained that witchcraft can set up an impediment to car
 
 We must therefore draw a distinction: for the inability to copulate caused by witchcraft is either perpetual and then it voids marriage, or it is not perpetual and then it does not void marriage. And in order to put this to practical proof the Church has fixed the space of three years in the same way as we have stated with regard to frigidity [4986](A[1]). There is, however this difference between a spell and frigidity, that a person who is impotent through frigidity is equally impotent in relation to one as to another, and consequently when the marriage is dissolved, he is not permitted to marry another woman. whereas through witchcraft a man may be rendered impotent in relation to one woman and not to another, and consequently when the Church adjudges the marriage to be dissolved, each party is permitted to seek another partner in marriage.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The first corruption of sin whereby man became the slave of the devil was transmitted to us by the act of the generative power, and for this reason God allows the devil to exercise his power of witchcraft in this act more than in others. Even so the power of witchcraft is made manifest in serpents more than in other animals according to Gn. 3, since the devil tempted the woman through a serpent.
 
@@ -72,9 +72,9 @@ Reply to Objection 2: God's work may be hindered by the devil's work with God's 
 Reply to Objection 3: Some spells are so perpetual that they can have no human remedy, although God might afford a remedy by coercing the demon, or the demon by desisting. For, as wizards themselves admit, it does not always follow that what was done by one kind of witchcraft can be destroyed by another kind, and even though it were possible to use witchcraft as a remedy, it would nevertheless be reckoned to be perpetual, since nowise ought one to invoke the demon's help by witchcraft. Again, if the devil has been given power over a person on account of sin, it does not follow that his power ceases with the sin, because the punishment sometimes continues after the fault has been removed. And again, the exorcisms of the Church do not always avail to repress the demons in all their molestations of the body, if God will it so, but they always avail against those assaults of the demons against which they are chiefly instituted.
 
 Reply to Objection 4: Witchcraft sometimes causes an impediment in relation to all, sometimes in relation to one only: because the devil is a voluntary cause not acting from natural necessity. Moreover, the impediment resulting from witchcraft may result from an impression made by the demon on a man's imagination, whereby he is deprived of the concupiscence that moves him in regard to a particular woman and not to another.
-# Whether Madness Is An Impediment To Marriage?
+## Whether Madness Is An Impediment To Marriage?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that madness is not an impediment to marriage. For spiritual marriage which is contracted in Baptism is more excellent than carnal marriage. But mad persons can be baptized. Therefore they can also marry.
 
@@ -84,13 +84,13 @@ Objection 3: Further, marriage is not voided save by a perpetual impediment. But
 
 Objection 4: Further, the impediments that hinder marriage are sufficiently contained in the verses given above ([4987]Q[50]). But they contain no mention of madness. Therefore, etc.
 
-## Answer
+### Answer
 
 On the contrary, Madness removes the use of reason more than error does. But error is an impediment to marriage. Therefore madness is also.
 
 I answer that, The madness is either previous or subsequent to marriage. If subsequent, it nowise voids the marriage, but if it be previous, then the mad person either has lucid intervals, or not. If he has, then although it is not safe for him to marry during that interval, since he would not know how to educate his children, yet if he marries, the marriage is valid. But if he has no lucid intervals, or marries outside a lucid interval, then, since there can be no consent without use of reason, the marriage will be invalid.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The use of reason is not necessary for Baptism as its cause, in which way it is necessary for matrimony. Hence the comparison fails. We have, however, spoken of the Baptism of mad persons ([4988]TP, Q[68], A[12]).
 
@@ -99,9 +99,9 @@ Reply to Objection 2: Madness impedes marriage on the part of the latter's cause
 Reply to Objection 3: A passing impediment which hinders the cause of marriage, namely the consent, voids marriage altogether. But an impediment that hinders the act must needs be perpetual in order to void the marriage.
 
 Reply to Objection 4: This impediment is reducible to error, since in either case there is lack of consent on the part of the reason.
-# Whether Marriage Is Annulled By The Husband Committing Incest With His Wife's Sister?
+## Whether Marriage Is Annulled By The Husband Committing Incest With His Wife's Sister?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that marriage is not annulled by the husband committing incest with his wife's sister. For the wife should not be punished for her husband's sin. Yet she would be punished if the marriage were annulled. Therefore, etc.
 
@@ -111,14 +111,14 @@ Objection 3: Further, if this is inflicted as a punishment of the sin, it would 
 
 Objection 4: Further, this impediment is not mentioned among those enumerated above ([4989]Q[50]). Therefore it does not void the marriage contract.
 
-## Answer
+### Answer
 
 On the contrary, By knowing his wife's sister he contracts affinity, with his wife. But affinity voids the marriage contract. Therefore the aforesaid incest does also.
 
 I answer that, If a man has connection with the sister or other relative of his wife before contracting marriage, even after his betrothal, the marriage should be broken off on account of the resultant affinity. If, however, the connection take place after the marriage has been contracted and consummated, the marriage must not be altogether dissolved: but the husband loses his right to marital intercourse, nor can he demand it without sin. And yet he must grant it if asked, because the wife should not be punished for her husband's sin. But after the death of his wife he ought to remain without any hope of marriage, unless he receive a dispensation on account of his frailty, through fear of unlawful intercourse. If, however, he marry without a dispensation, he sins by contravening the law of the Church, but his marriage is not for this reason to be annulled. This suffices for the Replies to the Objections, for incest is accounted an impediment to marriage not so much for its being a sin as on account of the affinity which it causes. For this reason it is not mentioned with the other impediments, but is included in the impediment of affinity.
-# Whether Defective Age Is An Impediment To Marriage?
+## Whether Defective Age Is An Impediment To Marriage?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that deficient age is not an impediment to marriage. For according to the laws children are under the care of a guardian until their twenty-fifth year. Therefore it would seem that before that age their reason is not sufficiently mature to give consent, and consequently that ought seemingly to be the age fixed for marrying. Yet marriage can be contracted before that age. Therefore lack of the appointed age is not an impediment to marriage.
 
@@ -130,13 +130,13 @@ Objection 4: Further, inability to copulate, unless it be perpetual and not know
 
 Objection 5: Further, it is not included under any of the aforesaid impediments ([4990]Q[50]), and consequently would seem not to be an impediment to marriage.
 
-## Answer
+### Answer
 
 On the contrary, A Decretal (cap. Quod Sedem, De frigid et malefic.) says that "a boy who is incapable of marriage intercourse is unfit to marry." But in the majority of cases he cannot pay the marriage debt before the age of fourteen (De Animal. vii). Therefore, etc.
 
 I answer that, Since marriage is effected by way of a contract, it comes under the ordinance of positive law like other contracts. Consequently according to law (cap. Tua, De sponsal. impub.) it is determined that marriage may not be contracted before the age of discretion when each party is capable of sufficient deliberation about marriage, and of mutual fulfilment of the marriage debt, and that marriages otherwise contracted are void. Now for the most part this age is the fourteenth year in males and the twelfth year in women: but since the ordinances of positive law are consequent upon what happens in the majority of cases, if anyone reach the required perfection before the aforesaid age, so that nature and reason are sufficiently developed to supply the lack of age, the marriage is not annulled. Wherefore if the parties who marry before the age of puberty have marital intercourse before the aforesaid age, their marriage is none the less perpetually indissoluble.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In matters to which nature inclines there is not required such a development of reason in order to deliberate, as in other matters: and therefore it is possible after deliberation to consent to marriage before one is able to manage one's own affairs in other matters without a guardian.
 

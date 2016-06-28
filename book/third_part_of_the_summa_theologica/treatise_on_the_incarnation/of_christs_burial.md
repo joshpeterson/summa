@@ -5,9 +5,9 @@ We have now to consider Christ's burial, concerning which there are four points 
 (2) Concerning the manner of His burial;
 (3) Whether His body was decomposed in the tomb?
 (4) Concerning the length of time He lay in the tomb.
-# Whether It Was Fitting For Christ To Be Buried?
+## Whether It Was Fitting For Christ To Be Buried?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unfitting for Christ to have been buried, because it is said of Him (Ps. 87:6): "He is [Vulg.: 'I am'] become as a man without help, free among the dead." But the bodies of the dead are enclosed in a tomb; which seems contrary to liberty. Therefore it does not seem fitting for Christ to have been buried.
 
@@ -15,22 +15,22 @@ Objection 2: Further, nothing should be done to Christ except it was helpful to 
 
 Objection 3: Further, it seems out of place for God who is above the high heavens to be laid in the earth. But what befalls the dead body of Christ is attributed to God by reason of the union. Therefore it appears to be unbecoming for Christ to be buried.
 
-## Answer
+### Answer
 
 On the contrary, our Lord said (Mat. 26:10) of the woman who anointed Him: "She has wrought a good work upon Me," and then He added (Mat. 26:12)---"for she, in pouring this ointment upon My body, hath done it for My burial."
 
 I answer that, It was fitting for Christ to be buried. First of all, to establish the truth of His death; for no one is laid in the grave unless there be certainty of death. Hence we read (Mk. 15:44,45), that Pilate by diligent inquiry assured himself of Christ's death before granting leave for His burial. Secondly, because by Christ's rising from the grave, to them who are in the grave, hope is given of rising again through Him, according to Jn. 5:25,28: "All that are in their graves shall hear the voice of the Son of God . . . and they that hear shall live." Thirdly, as an example to them who dying spiritually to their sins are hidden away "from the disturbance of men" (Ps. 30:21). Hence it is said (Col. 3:3): "You are dead, and your life is hid with Christ in God." Wherefore the baptized likewise who through Christ's death die to sins, are as it were buried with Christ by immersion, according to Rom. 6:4: "We are buried together with Christ by baptism into death."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Though buried, Christ proved Himself "free among the dead": since, although imprisoned in the tomb, He could not be hindered from going forth by rising again.
 
 Reply to Objection 2: As Christ's death wrought our salvation, so likewise did His burial. Hence Jerome says (Super Marc. xiv): "By Christ's burial we rise again"; and on Is. 53:9: "He shall give the ungodly for His burial," a gloss says: "He shall give to God and the Father the Gentiles who were without godliness, because He purchased them by His death and burial."
 
 Reply to Objection 3: As is said in a discourse made at the Council of Ephesus [*P. iii, cap. 9], "Nothing that saves man is derogatory to God; showing Him to be not passible, but merciful": and in another discourse of the same Council [*P. iii, cap. 10]: "God does not repute anything as an injury which is an occasion of men's salvation. Thus thou shalt not deem God's Nature to be so vile, as though It may sometimes be subjected to injuries."
-# Whether Christ Was Buried In A Becoming Manner?
+## Whether Christ Was Buried In A Becoming Manner?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ was buried in an unbecoming manner. For His burial should be in keeping with His death. But Christ underwent a most shameful death, according to Wis. 2:20: "Let us condemn Him to a most shameful death." It seems therefore unbecoming for honorable burial to be accorded to Christ, inasmuch as He was buried by men of position---namely, by Joseph of Arimathea, who was "a noble counselor," to use Mark's expression (Mk. 15:43), and by Nicodemus, who was "a ruler of the Jews," as John states (Jn. 3:1).
 
@@ -40,13 +40,13 @@ Objection 3: Further, it is not becoming for anything done to be inconsistent wi
 
 Objection 4: Further, "What things soever were written," especially of Christ, "were written for our learning," according to Rom. 15:4. But some of the things written in the Gospels touching Christ's burial in no wise seem to pertain to our instruction---as that He was buried "in a garden . . . "in a tomb which was not His own, which was "new," and "hewed out in a rock." Therefore the manner of Christ's burial was not becoming.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 11:10): "And His sepulchre shall be glorious."
 
 I answer that, The manner of Christ's burial is shown to be seemly in three respects. First, to confirm faith in His death and resurrection. Secondly, to commend the devotion of those who gave Him burial. Hence Augustine says (De Civ. Dei i): "The Gospel mentions as praiseworthy the deed of those who received His body from the cross, and with due care and reverence wrapped it up and buried it." Thirdly, as to the mystery whereby those are molded who "are buried together with Christ into death" (Rom. 6:4).
 
-## Replies
+### Replies
 
 Reply to Objection 1: With regard to Christ's death, His patience and constancy in enduring death are commended, and all the more that His death was the more despicable: but in His honorable burial we can see the power of the dying Man, who, even in death, frustrated the intent of His murderers, and was buried with honor: and thereby is foreshadowed the devotion of the faithful who in the time to come were to serve the dead Christ.
 
@@ -55,9 +55,9 @@ Reply to Objection 2: On that expression of the Evangelist (Jn. 19:40) that they
 Reply to Objection 3: Myrrh and aloes were used on Christ's body in order that it might be preserved from corruption, and this seemed to imply a certain need (in the body): hence the example is set us that we may lawfully use precious things medicinally, from the need of preserving our body. But the wrapping up of the body was merely a question of becoming propriety. And we ought to content ourselves with simplicity in such things. Yet, as Jerome observes, by this act was denoted that "he swathes Jesus in clean linen, who receives Him with a pure soul." Hence, as Bede says on Mark 15:46: "The Church's custom has prevailed for the sacrifice of the altar to be offered not upon silk, nor upon dyed cloth, but on linen of the earth; as the Lord's body was buried in a clean winding-sheet."
 
 Reply to Objection 4: Christ was buried "in a garden" to express that by His death and burial we are delivered from the death which we incur through Adam's sin committed in the garden of paradise. But for this "was our Lord buried in the grave of a stranger," as Augustine says in a sermon (ccxlviii), "because He died for the salvation of others; and a sepulchre is the abode of death." Also the extent of the poverty endured for us can be thereby estimated: since He who while living had no home, after death was laid to rest in another's tomb, and being naked was clothed by Joseph. But He is laid in a "new" sepulchre, as Jerome observes on Mat. 27:60, "lest after the resurrection it might be pretended that someone else had risen, while the other corpses remained. The new sepulchre can also denote Mary's virginal womb." And furthermore it may be understood that all of us are renewed by Christ's burial; death and corruption being destroyed. Moreover, He was buried in a monument "hewn out of a rock," as Jerome says on Mat. 27:64, "lest, if it had been constructed of many stones, they might say that He was stolen away by digging away the foundations of the tomb." Hence the "great stone" which was set shows that "the tomb could not be opened except by the help of many hands. Again, if He had been buried in the earth, they might have said: They dug up the soil and stole Him away," as Augustine observes [*Cf. Catena Aurea]. Hilary (Comment. in Matth. cap. xxxiii) gives the mystical interpretation, saying that "by the teaching of the apostles, Christ is borne into the stony heart of the gentile; for it is hewn out by the process of teaching, unpolished and new, untenanted and open to the entrance of the fear of God. And since naught besides Him must enter into our hearts, a great stone is rolled against the door." Furthermore, as Origen says (Tract. xxxv in Matth.): "It was not written by hazard: 'Joseph wrapped Christ's body in a clean winding-sheet, and placed it in a new monument,'" and that "'he rolled a great stone,' because all things around the body of Jesus are clean, and new, and exceeding great."
-# Whether Christ's Body Was Reduced To Dust In The Tomb?
+## Whether Christ's Body Was Reduced To Dust In The Tomb?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's body was reduced to dust in the tomb. For just as man dies in punishment of his first parent's sin, so also does he return to dust, since it was said to the first man after his sin: "Dust thou art, and into dust thou shalt return" (Gn. 3:19). But Christ endured death in order to deliver us from death. Therefore His body ought to be made to return to dust, so as to free us from the same penalty.
 
@@ -65,22 +65,22 @@ Objection 2: Further, Christ's body was of the same nature as ours. But directly
 
 Objection 3: Further, as stated above [4274](A[1]), Christ willed to be buried in order to furnish men with the hope of rising likewise from the grave. Consequently, He sought likewise to return to dust so as to give to them who have returned to dust the hope of rising from the dust.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 15:10): "Nor wilt Thou suffer Thy holy one to see corruption": and Damascene (De Fide Orth. iii) expounds this of the corruption which comes of dissolving into elements.
 
 I answer that, It was not fitting for Christ's body to putrefy, or in any way be reduced to dust, since the putrefaction of any body comes of that body's infirmity of nature, which can no longer hold the body together. But as was said above ([4275]Q[50], A[1], ad 2), Christ's death ought not to come from weakness of nature, lest it might not be believed to be voluntary: and therefore He willed to die, not from sickness, but from suffering inflicted on Him, to which He gave Himself up willingly. And therefore, lest His death might be ascribed to infirmity of nature, Christ did not wish His body to putrefy in any way or dissolve no matter how; but for the manifestation of His Divine power He willed that His body should continue incorrupt. Hence Chrysostom says (Cont. Jud. et Gent. quod 'Christus sit Deus') that "with other men, especially with such as have wrought strenuously, their deeds shine forth in their lifetime; but as soon as they die, their deeds go with them. But it is quite the contrary with Christ: because previous to the cross all is sadness and weakness, but as soon as He is crucified, everything comes to light, in order that you may learn it was not an ordinary man that was crucified."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since Christ was not subject to sin, neither was He prone to die or to return to dust. Yet of His own will He endured death for our salvation, for the reasons alleged above ([4276]Q[51], A[1]). But had His body putrefied or dissolved, this fact would have been detrimental to man's salvation, for it would not have seemed credible that the Divine power was in Him. Hence it is on His behalf that it is written (Ps. 19:10): "What profit is there in my blood, whilst I go down to corruption?" as if He were to say: "If My body corrupt, the profit of the blood shed will be lost."
 
 Reply to Objection 2: Christ's body was a subject of corruption according to the condition of its passible nature, but not as to the deserving cause of putrefaction, which is sin: but the Divine power preserved Christ's body from putrefying, just as it raised it up from death.
 
 Reply to Objection 3: Christ rose from the tomb by Divine power, which is not narrowed within bounds. Consequently, His rising from the grave was a sufficient argument to prove that men are to be raised up by Divine power, not only from their graves, but also from any dust whatever.
-# Whether Christ Was In The Tomb Only One Day And Two Nights?
+## Whether Christ Was In The Tomb Only One Day And Two Nights?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ was not in the tomb during only one day and two nights; because He said (Mat. 12:40): "As Jonas was in the whale's belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights." But He was in the heart of the earth while He was in the grave. Therefore He was not in the tomb for only one day and two nights.
 
@@ -88,13 +88,13 @@ Objection 2: Gregory says in a Paschal Homily (Hom. xxi): "As Samson carried off
 
 Objection 3: Further, light prevailed over darkness by Christ's death. But night belongs to darkness, and day to light. Therefore it was more fitting for Christ's body to be in the tomb for two days and a night, rather than conversely.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iv): "There were thirty-six hours from the evening of His burial to the dawn of the resurrection, that is, a whole night with a whole day, and a whole night."
 
 I answer that, The very time during which Christ remained in the tomb shows forth the effect of His death. For it was said above ([4277]Q[50], A[6]) that by Christ's death we were delivered from a twofold death, namely, from the death of the soul and of the body: and this is signified by the two nights during which He remained in the tomb. But since His death did not come of sin, but was endured from charity, it has not the semblance of night, but of day: consequently it is denoted by the whole day during which Christ was in the sepulchre. And so it was fitting for Christ to be in the sepulchre during one day and two nights.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine says (De Consens. Evang. iii): "Some men, ignorant of Scriptural language, wished to compute as night those three hours, from the sixth to the ninth hour, during which the sun was darkened, and as day those other three hours during which it was restored to the earth, that is, from the ninth hour until its setting: for the coming night of the Sabbath follows, and if this be reckoned with its day, there will be already two nights and two days. Now after the Sabbath there follows the night of the first day of the Sabbath, that is, of the dawning Sunday, on which the Lord rose. Even so, the reckoning of the three days and three nights will not stand. It remains then to find the solution in the customary usage of speech of the Scriptures, whereby the whole is understood from the part": so that we are able to take a day and a night as one natural day. And so the first day is computed from its ending, during which Christ died and was buried on the Friday; while the second. day is an entire day with twenty-four hours of night and day; while the night following belongs to the third day. "For as the primitive days were computed from light to night on account of man's future fall, so these days are computed from the darkness to the daylight on account of man's restoration" (De Trin. iv).
 

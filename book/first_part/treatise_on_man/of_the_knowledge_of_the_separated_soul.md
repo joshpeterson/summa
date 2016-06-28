@@ -9,9 +9,9 @@ We must now consider the knowledge of the separated soul. Under this head there 
 (6) Whether the soul can use the habit of knowledge here acquired?
 (7) Whether local distance impedes the separated soul's knowledge?
 (8) Whether souls separated from the body know what happens here?
-# Whether The Separated Soul Can Understand Anything?
+## Whether The Separated Soul Can Understand Anything?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the soul separated from the body can understand nothing at all. For the Philosopher says (De Anima i, 4) that "the understanding is corrupted together with its interior principle." But by death all human interior principles are corrupted. Therefore also the intellect itself is corrupted.
 
@@ -19,7 +19,7 @@ Objection 2: Further, the human soul is hindered from understanding when the sen
 
 Objection 3: Further, if the separated soul can understand, this must be by means of some species. But it does not understand by means of innate species, because it has none such; being at first "like a tablet on which nothing is written": nor does it understand by species abstracted from things, for it does not then possess organs of sense and imagination which are necessary for the abstraction of species: nor does it understand by means of species, formerly abstracted and retained in the soul; for if that were so, a child's soul would have no means of understanding at all: nor does it understand by means of intelligible species divinely infused, for such knowledge would not be natural, such as we treat of now, but the effect of grace. Therefore the soul apart from the body understands nothing.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima i, 1), "If the soul had no proper operation, it could not be separated from the body." But the soul is separated from the body; therefore it has a proper operation and above all, that which consists in intelligence. Therefore the soul can understand when it is apart from the body.
 
@@ -31,14 +31,14 @@ In order to resolve this difficulty we must consider that while it is true that 
 
 It is clear then that it was for the soul's good that it was united to a body, and that it understands by turning to the phantasms. Nevertheless it is possible for it to exist apart from the body, and also to understand in another way.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher's words carefully examined will show that he said this on the previous supposition that understanding is a movement of body and soul as united, just as sensation is, for he had not as yet explained the difference between intellect and sense. We may also say that he is referring to the way of understanding by turning to phantasms. This is also the meaning of the second objection.
 
 Reply to Objection 3: The separated soul does not understand by way of innate species, nor by species abstracted then, nor only by species retained, and this the objection proves; but the soul in that state understands by means of participated species arising from the influence of the Divine light, shared by the soul as by other separate substances; though in a lesser degree. Hence as soon as it ceases to act by turning to corporeal (phantasms), the soul turns at once to the superior things; nor is this way of knowledge unnatural, for God is the author of the influx of both of the light of grace and of the light of nature.
-# Whether The Separated Soul Understands Separate Substances?
+## Whether The Separated Soul Understands Separate Substances?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the separated soul does not understand separate substances. For the soul is more perfect when joined to the body than when existing apart from it, being an essential part of human nature; and every part of a whole is more perfect when it exists in that whole. But the soul in the body does not understand separate substances as shown above ([730]Q[88], A[1]). Therefore much less is it able to do so when apart from the body.
 
@@ -46,41 +46,41 @@ Objection 2: Further, whatever is known is known either by its presence or by it
 
 Objection 3: Further, some philosophers said that the ultimate happiness of man consists in the knowledge of separate substances. If, therefore, the separated soul can understand separate substances, its happiness would be secured by its separation alone; which cannot be reasonably be said.
 
-## Answer
+### Answer
 
 On the contrary, Souls apart from the body know other separated souls; as we see in the case of the rich man in hell, who saw Lazarus and Abraham (Lk. 16:23). Therefore separated souls see the devils and the angels.
 
 I answer that, Augustine says (De Trin. ix, 3), "our mind acquires the knowledge of incorporeal things by itself"---i.e. by knowing itself ([731]Q[88], A[1], ad 1). Therefore from the knowledge which the separated soul has of itself, we can judge how it knows other separate things. Now it was said above [732](A[1]), that as long as it is united to the body the soul understands by turning to phantasms, and therefore it does not understand itself save through becoming actually intelligent by means of ideas abstracted from phantasms; for thus it understands itself through its own act, as shown above ([733]Q[87], A[1]). When, however, it is separated from the body, it understands no longer by turning to phantasms, but by turning to simply intelligible objects; hence in that state it understands itself through itself. Now, every separate substance "understands what is above itself and what is below itself, according to the mode of its substance" (De Causis viii): for a thing is understood according as it is in the one who understands; while one thing is in another according to the nature of that in which it is. And the mode of existence of a separated soul is inferior to that of an angel, but is the same as that of other separated souls. Therefore the soul apart from the body has perfect knowledge of other separated souls, but it has an imperfect and defective knowledge of the angels so far as its natural knowledge is concerned. But the knowledge of glory is otherwise.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The separated soul is, indeed, less perfect considering its nature in which it communicates with the nature of the body: but it has a greater freedom of intelligence, since the weight and care of the body is a clog upon the clearness of its intelligence in the present life.
 
 Reply to Objection 2: The separated soul understands the angels by means of divinely impressed ideas; which, however, fail to give perfect knowledge of them, forasmuch as the nature of the soul is inferior to that of an angel.
 
 Reply to Objection 3: Man's ultimate happiness consists not in the knowledge of any separate substances; but in the knowledge of God, Who is seen only by grace. The knowledge of other separate substances if perfectly understood gives great happiness---not final and ultimate happiness. But the separated soul does not understand them perfectly, as was shown above in this article.
-# Whether The Separated Soul Knows All Natural Things?
+## Whether The Separated Soul Knows All Natural Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the separated soul knows all natural things. For the types of all natural things exist in separate substances. Therefore, as separated souls know separate substances, they also know all natural things.
 
 Objection 2: Further, whoever understands the greater intelligible, will be able much more to understand the lesser intelligible. But the separated soul understands immaterial substances, which are in the highest degree of intelligibility. Therefore much more can it understand all natural things which are in a lower degree of intelligibility.
 
-## Answer
+### Answer
 
 On the contrary, The devils have greater natural knowledge than the separated soul; yet they do not know all natural things, but have to learn many things by long experience, as Isidore says (De Summo Bono i). Therefore neither can the separated soul know all natural things.
 
 I answer that, As stated above [734](A[1]), the separated soul, like the angels, understands by means of species, received from the influence of the Divine light. Nevertheless, as the soul by nature is inferior to an angel, to whom this kind of knowledge is natural, the soul apart from the body through such species does not receive perfect knowledge, but only a general and confused kind of knowledge. Separated souls, therefore, have the same relation through such species to imperfect and confused knowledge of natural things as the angels have to the perfect knowledge thereof. Now angels through such species know all natural things perfectly; because all that God has produced in the respective natures of natural things has been produced by Him in the angelic intelligence, as Augustine says (Gen. ad lit. ii, 8). Hence it follows that separated souls know all natural things not with a certain and proper knowledge, but in a general and confused manner.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even an angel does not understand all natural things through his substance, but through certain species, as stated above ([735]Q[87], A[1]). So it does not follow that the soul knows all natural things because it knows separate substances after a fashion.
 
 Reply to Objection 2: As the soul separated from the body does not perfectly understand separate substances, so neither does it know all natural things perfectly; but it knows them confusedly, as above explained in this article.
-# Whether The Separated Soul Knows Singulars?
+## Whether The Separated Soul Knows Singulars?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the separated soul does not know singulars. For no cognitive power besides the intellect remains in the separated soul, as is clear from what has been said above ([736]Q[77], A[8]). But the intellect cannot know singulars, as we have shown ([737]Q[86], A[1]). Therefore the separated soul cannot know singulars.
 
@@ -88,22 +88,22 @@ Objection 2: Further, the knowledge of the singular is more determinate than kno
 
 Objection 3: Further, if it knew the singulars, yet not by sense, for the same reason it would know all singulars. But it does not know all singulars. Therefore it knows none.
 
-## Answer
+### Answer
 
 On the contrary, The rich man in hell said: "I have five brethren" (Lk. 16:28).
 
 I answer that, Separated souls know some singulars, but not all, not even all present singulars. To understand this, we must consider that there is a twofold way of knowing things, one by means of abstraction from phantasms, and in this way singulars cannot be directly known by the intellect, but only indirectly, as stated above ([738]Q[86], A[1]). The other way of understanding is by the infusion of species by God, and in that way it is possible for the intellect to know singulars. For as God knows all things, universal and singular, by His Essence, as the cause of universal and individual principles ([739]Q[14], A[2]), so likewise separate substances can know singulars by species which are a kind of participated similitude of the Divine Essence. There is a difference, however, between angels and separated souls in the fact that through these species the angels have a perfect and proper knowledge of things; whereas separated have only a confused knowledge. Hence the angels, by reason of their perfect intellect, through these species, know not only the specific natures of things, but also the singulars contained in those species; whereas separated souls by these species know only those singulars to which they are determined by former knowledge in this life, or by some affection, or by natural aptitude, or by the disposition of the Divine order; because whatever is received into anything is conditioned according to the mode of the recipient.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The intellect does not know the singular by way of abstraction; neither does the separated soul know it thus; but as explained above.
 
 Reply to Objection 2: The knowledge of the separated soul is confined to those species or individuals to which the soul has some kind of determinate relation, as we have said.
 
 Reply to Objection 3: The separated soul has not the same relation to all singulars, but one relation to some, and another to others. Therefore there is not the same reason why it should know all singulars.
-# Whether The Habit Of Knowledge Here Acquired Remains In The Separated Soul?
+## Whether The Habit Of Knowledge Here Acquired Remains In The Separated Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the habit of knowledge acquired in this life does not remain in the soul separated from the body: for the Apostle says: "Knowledge shall be destroyed" (1 Cor. 13:8).
 
@@ -113,7 +113,7 @@ Objection 3: Further, separated souls will possess knowledge by influence of the
 
 Objection 4: Further, the Philosopher says (Praedic. vi, 4,5), that "a habit is a quality hard to remove: yet sometimes knowledge is destroyed by sickness or the like." But in this life there is no change so thorough as death. Therefore it seems that the habit of knowledge is destroyed by death.
 
-## Answer
+### Answer
 
 On the contrary, Jerome says (Ep. liii, ad Paulinum), "Let us learn on earth that kind of knowledge which will remain with us in heaven."
 
@@ -123,7 +123,7 @@ But, since knowledge resides in the intellect, which is "the abode of species," 
 
 Knowledge, therefore, acquired in the present life does not remain in the separated soul, as regards what belongs to the sensitive powers; but as regards what belongs to the intellect itself, it must remain; because, as the Philosopher says (De Long. et Brev. Vitae ii), a form may be corrupted in two ways; first, directly, when corrupted by its contrary, as heat, by cold; and secondly, indirectly, when its subject is corrupted. Now it is evident that human knowledge is not corrupted through corruption of the subject, for the intellect is an incorruptible faculty, as above stated ([740]Q[79], A[2], ad 2). Neither can the intelligible species in the passive intellect be corrupted by their contrary; for there is no contrary to intelligible "intentions," above all as regards simple intelligence of "what a thing is." But contrariety may exist in the intellect as regards mental composition and division, or also reasoning; so far as what is false in statement or argument is contrary to truth. And thus knowledge may be corrupted by its contrary when a false argument seduces anyone from the knowledge of truth. For this reason the Philosopher in the above work mentions two ways in which knowledge is corrupted directly: namely, "forgetfulness" on the part of the memorative power, and "deception" on the part of a false argument. But these have no place in the separated soul. Therefore we must conclude that the habit of knowledge, so far as it is in the intellect, remains in the separated soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Apostle is not speaking of knowledge as a habit, but as to the act of knowing; and hence he says, in proof of the assertion quoted, "Now, I know in part."
 
@@ -132,9 +132,9 @@ Reply to Objection 2: As a less good man may exceed a better man in bodily statu
 Reply to Objection 3: These two kinds of knowledge are not of the same species, so there is no impossibility.
 
 Reply to Objection 4: This objection considers the corruption of knowledge on the part of the sensitive powers.
-# Whether The Act Of Knowledge Acquired Here Remains In The Separated Soul?
+## Whether The Act Of Knowledge Acquired Here Remains In The Separated Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the act of knowledge here acquired does not remain in the separated soul. For the Philosopher says (De Anima i, 4), that when the body is corrupted, "the soul neither remembers nor loves." But to consider what is previously known is an act of memory. Therefore the separated soul cannot retain an act of knowledge here acquired.
 
@@ -142,22 +142,22 @@ Objection 2: Further, intelligible species cannot have greater power in the sepa
 
 Objection 3: Further, the Philosopher says (Ethic. ii, 1), that "habits produce acts similar to those whereby they are acquired." But the habit of knowledge is acquired here by acts of the intellect turning to phantasms: therefore it cannot produce any other acts. These acts, however, are not adapted to the separated soul. Therefore the soul in the state of separation cannot produce any act of knowledge acquired in this life.
 
-## Answer
+### Answer
 
 On the contrary, It was said to Dives in hell (Lk. 16:25): "Remember thou didst receive good things in thy lifetime."
 
 I answer that, Action offers two things for our consideration---its species and its mode. Its species comes from the object, whereto the faculty of knowledge is directed by the (intelligible) species, which is the object's similitude; whereas the mode is gathered from the power of the agent. Thus that a person see a stone is due to the species of the stone in his eye; but that he see it clearly, is due to the eye's visual power. Therefore as the intelligible species remain in the separated soul, as stated above [742](A[5]), and since the state of the separated soul is not the same as it is in this life, it follows that through the intelligible species acquired in this life the soul apart from the body can understand what it understood formerly, but in a different way; not by turning to phantasms, but by a mode suited to a soul existing apart from the body. Thus the act of knowledge here acquired remains in the separated soul, but in a different way.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher speaks of remembrance, according as memory belongs to the sensitive part, but not as belonging in a way to the intellect, as explained above ([743]Q[79], A[6]).
 
 Reply to Objection 2: The different mode of intelligence is produced by the different state of the intelligent soul; not by diversity of species.
 
 Reply to Objection 3: The acts which produce a habit are like the acts caused by that habit, in species, but not in mode. For example, to do just things, but not justly, that is, pleasurably, causes the habit of political justice, whereby we act pleasurably. (Cf. Aristotle, Ethic. v, 8: Magn. Moral. i, 34).
-# Whether Local Distance Impedes The Knowledge In The Separated Soul?
+## Whether Local Distance Impedes The Knowledge In The Separated Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that local distance impedes the separated soul's knowledge. For Augustine says (De Cura pro Mort. xiii), that "the souls of the dead are where they cannot know what is done here." But they know what is done among themselves. Therefore local distance impedes the knowledge in the separated soul.
 
@@ -165,22 +165,22 @@ Objection 2: Further, Augustine says (De Divin. Daemon. iii), that "the demon's 
 
 Objection 3: Further, as there is distance of place, so is there distance of time. But distance of time impedes knowledge in the separated soul, for the soul is ignorant of the future. Therefore it seems that distance of place also impedes its knowledge.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lk. 16:23), that Dives, "lifting up his eyes when he was in torment, saw Abraham afar off." Therefore local distance does not impede knowledge in the separated soul.
 
 I answer that, Some have held that the separated soul knows the singular by abstraction from the sensible. If that were so, it might be that local distance would impede its knowledge; for either the sensible would need to act upon the soul, or the soul upon the sensible, and in either case a determinate distance would be necessary. This is, however, impossible because abstraction of the species from the sensible is done through the senses and other sensible faculties which do not remain actually in the soul apart from the body. But the soul when separated understands singulars by species derived from the Divine light, which is indifferent to what is near or distant. Hence knowledge in the separated soul is not hindered by local distance.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine says that the souls of the departed cannot see what is done here, not because they are 'there,' as if impeded by local distance; but for some other cause, as we shall explain [744](A[8]).
 
 Reply to Objection 2: Augustine speaks there in accordance with the opinion that demons have bodies naturally united to them, and so have sensitive powers, which require local distance. In the same book he expressly sets down this opinion, though apparently rather by way of narration than of assertion, as we may gather from De Civ. Dei xxi, 10.
 
 Reply to Objection 3: The future, which is distant in time, does not actually exist, and therefore is not knowable in itself, because so far as a thing falls short of being, so far does it fall short of being knowable. But what is locally distant exists actually, and is knowable in itself. Hence we cannot argue from distance of time to distance of place.
-# Whether Separated Souls Know That Takes Place On Earth?
+## Whether Separated Souls Know That Takes Place On Earth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that separated souls know what takes place on earth; for otherwise they would have no care for it, as they have, according to what Dives said (Lk. 16:27,28), "I have five brethren . . . he may testify unto them, lest they also come into the place of torments." Therefore separated souls know what passes on earth.
 
@@ -188,7 +188,7 @@ Objection 2: Further, the dead often appear to the living, asleep or awake, and 
 
 Objection 3: Further, separated souls know what happens among themselves. If, therefore, they do not know what takes place among us, it must be by reason of local distance; which has been shown to be false [745](A[7]).
 
-## Answer
+### Answer
 
 On the contrary, It is written (Job 14:21): "He will not understand whether his children come to honor or dishonor."
 
@@ -196,7 +196,7 @@ I answer that, By natural knowledge, of which we are treating now, the souls of 
 
 Gregory and Augustine, however, seem to be divided in opinion as regards the souls of the blessed in heaven, for Gregory continues the passage above quoted: "The case of the holy souls is different, for since they see the light of Almighty God, we cannot believe that external things are unknown to them." But Augustine (De Cura pro Mort. xiii) expressly says: "The dead, even the saints do not know what is done by the living or by their own children," as a gloss quotes on the text, "Abraham hath not known us" (Is. 63:16). He confirms this opinion by saying that he was not visited, nor consoled in sorrow by his mother, as when she was alive; and he could not think it possible that she was less kind when in a happier state; and again by the fact that the Lord promised to king Josias that he should die, lest he should see his people's afflictions (4 Kings 22:20). Yet Augustine says this in doubt; and premises, "Let every one take, as he pleases, what I say." Gregory, on the other hand, is positive, since he says, "We cannot believe." His opinion, indeed, seems to be the more probable one---that the souls of the blessed who see God do know all that passes here. For they are equal to the angels, of whom Augustine says that they know what happens among those living on earth. But as the souls of the blessed are most perfectly united to Divine justice, they do not suffer from sorrow, nor do they interfere in mundane affairs, except in accordance with Divine justice.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The souls of the departed may care for the living, even if ignorant of their state; just as we care for the dead by pouring forth prayer on their behalf, though we are ignorant of their state. Moreover, the affairs of the living can be made known to them not immediately, but the souls who pass hence thither, or by angels and demons, or even by "the revelation of the Holy Ghost," as Augustine says in the same book.
 

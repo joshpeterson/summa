@@ -5,9 +5,9 @@ We must now consider the New Law as compared with the Old: under which head ther
 (2) Whether the New Law fulfils the Old?
 (3) Whether the New Law is contained in the Old?
 (4) Which is the more burdensome, the New or the Old Law?
-# Whether The New Law Is Distinct From The Old Law?
+## Whether The New Law Is Distinct From The Old Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the New Law is not distinct from the Old. Because both these laws were given to those who believe in God: since "without faith it is impossible to please God," according to Heb. 11:6. But the faith of olden times and of nowadays is the same, as the gloss says on Mat. 21:9. Therefore the law is the same also.
 
@@ -15,7 +15,7 @@ Objection 2: Further, Augustine says (Contra Adamant. Manich. discip. xvii) that
 
 Objection 3: Further, the Apostle seems to distinguish both laws by calling the Old Law "a law of works," and the New Law "a law of faith" (Rom. 3:27). But the Old Law was also a law of faith, according to Heb. 11:39: "All were [Vulg.: 'All these being'] approved by the testimony of faith," which he says of the fathers of the Old Testament. In like manner the New Law is a law of works: since it is written (Mat. 5:44): "Do good to them that hate you"; and (Lk. 22:19): "Do this for a commemoration of Me." Therefore the New Law is not distinct from the Old.
 
-## Answer
+### Answer
 
 On the contrary, the Apostle says (Heb. 7:12): "The priesthood being translated it is necessary that a translation also be made of the Law." But the priesthood of the New Testament is distinct from that of the Old, as the Apostle shows in the same place. Therefore the Law is also distinct.
 
@@ -25,16 +25,16 @@ Accordingly then two laws may be distinguished from one another in two ways. Fir
 
 We must therefore say that, according to the first way, the New Law is not distinct from the Old Law: because they both have the same end, namely, man's subjection to God; and there is but one God of the New and of the Old Testament, according to Rom. 3:30: "It is one God that justifieth circumcision by faith, and uncircumcision through faith." According to the second way, the New Law is distinct from the Old Law: because the Old Law is like a pedagogue of children, as the Apostle says (Gal. 3:24), whereas the New Law is the law of perfection, since it is the law of charity, of which the Apostle says (Col. 3:14) that it is "the bond of perfection."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The unity of faith under both Testaments witnesses to the unity of end: for it has been stated above ([2142]Q[62], A[2]) that the object of the theological virtues, among which is faith, is the last end. Yet faith had a different state in the Old and in the New Law: since what they believed as future, we believe as fact.
 
 Reply to Objection 2: All the differences assigned between the Old and New Laws are gathered from their relative perfection and imperfection. For the precepts of every law prescribe acts of virtue. Now the imperfect, who as yet are not possessed of a virtuous habit, are directed in one way to perform virtuous acts, while those who are perfected by the possession of virtuous habits are directed in another way. For those who as yet are not endowed with virtuous habits, are directed to the performance of virtuous acts by reason of some outward cause: for instance, by the threat of punishment, or the promise of some extrinsic rewards, such as honor, riches, or the like. Hence the Old Law, which was given to men who were imperfect, that is, who had not yet received spiritual grace, was called the "law of fear," inasmuch as it induced men to observe its commandments by threatening them with penalties; and is spoken of as containing temporal promises. On the other hand, those who are possessed of virtue, are inclined to do virtuous deeds through love of virtue, not on account of some extrinsic punishment or reward. Hence the New Law which derives its pre-eminence from the spiritual grace instilled into our hearts, is called the "Law of love": and it is described as containing spiritual and eternal promises, which are objects of the virtues, chiefly of charity. Accordingly such persons are inclined of themselves to those objects, not as to something foreign but as to something of their own. For this reason, too, the Old Law is described as "restraining the hand, not the will" [*Peter Lombard, Sent. iii, D, 40]; since when a man refrains from some sins through fear of being punished, his will does not shrink simply from sin, as does the will of a man who refrains from sin through love of righteousness: and hence the New Law, which is the Law of love, is said to restrain the will.
 
 Reply to Objection 3: As stated above ([2143]Q[106], AA[1],2), the New Law is called the law of faith, in so far as its pre-eminence is derived from that very grace which is given inwardly to believers, and for this reason is called the grace of faith. Nevertheless it consists secondarily in certain deeds, moral and sacramental: but the New Law does not consist chiefly in these latter things, as did the Old Law. As to those under the Old Testament who through faith were acceptable to God, in this respect they belonged to the New Testament: for they were not justified except through faith in Christ, Who is the Author of the New Testament. Hence of Moses the Apostle says (Heb. 11:26) that he esteemed "the reproach of Christ greater riches than the treasure of the Egyptians."
-# Whether The New Law Fulfils The Old?
+## Whether The New Law Fulfils The Old?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the New Law does not fulfil the Old. Because to fulfil and to void are contrary. But the New Law voids or excludes the observances of the Old Law: for the Apostle says (Gal. 5:2): "If you be circumcised, Christ shall profit you nothing." Therefore the New Law is not a fulfilment of the Old.
 
@@ -44,7 +44,7 @@ Objection 3: Further, whoever acts against a law does not fulfil the law. But Ch
 
 Objection 4: Further, the Old Law contained precepts, moral, ceremonial, and judicial, as stated above ([2144]Q[99], A[4]). But Our Lord (Mat. 5) fulfilled the Law in some respects, but without mentioning the judicial and ceremonial precepts. Therefore it seems that the New Law is not a complete fulfilment of the Old.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said (Mat. 5:17): "I am not come to destroy, but to fulfil": and went on to say (Mat. 5:18): "One jot or one tittle shall not pass of the Law till all be fulfilled."
 
@@ -54,7 +54,7 @@ Now two things of every law is to make men righteous and virtuous, as was stated
 
 Now Christ fulfilled the precepts of the Old Law both in His works and in His doctrine. In His works, because He was willing to be circumcised and to fulfil the other legal observances, which were binding for the time being; according to Gal. 4:4: "Made under the Law." In His doctrine He fulfilled the precepts of the Law in three ways. First, by explaining the true sense of the Law. This is clear in the case of murder and adultery, the prohibition of which the Scribes and Pharisees thought to refer only to the exterior act: wherefore Our Lord fulfilled the Law by showing that the prohibition extended also to the interior acts of sins. Secondly, Our Lord fulfilled the precepts of the Law by prescribing the safest way of complying with the statutes of the Old Law. Thus the Old Law forbade perjury: and this is more safely avoided, by abstaining altogether from swearing, save in cases of urgency. Thirdly, Our Lord fulfilled the precepts of the Law, by adding some counsels of perfection: this is clearly seen in Mat. 19:21, where Our Lord said to the man who affirmed that he had kept all the precepts of the Old Law: "One thing is wanting to thee: If thou wilt be perfect, go, sell whatsoever thou hast," etc. [*St. Thomas combines Mat. 19:21 with Mk. 10:21].
 
-## Replies
+### Replies
 
 Reply to Objection 1: The New Law does not void observance of the Old Law except in the point of ceremonial precepts, as stated above ([2147]Q[103], AA[3],4). Now the latter were figurative of something to come. Wherefore from the very fact that the ceremonial precepts were fulfilled when those things were accomplished which they foreshadowed, it follows that they are no longer to be observed: for it they were to be observed, this would mean that something is still to be accomplished and is not yet fulfilled. Thus the promise of a future gift holds no longer when it has been fulfilled by the presentation of the gift. In this way the legal ceremonies are abolished by being fulfilled.
 
@@ -63,9 +63,9 @@ Reply to Objection 2: As Augustine says (Contra Faust. xix, 26), those precepts 
 Reply to Objection 3: It was forbidden by the Law to touch a leper; because by doing so, man incurred a certain uncleanness of irregularity, as also by touching the dead, as stated above ([2149]Q[102], A[5], ad 4). But Our Lord, Who healed the leper, could not contract an uncleanness. By those things which He did on the sabbath, He did not break the sabbath in reality, as the Master Himself shows in the Gospel: both because He worked miracles by His Divine power, which is ever active among things; and because He worked miracles by His Divine power, which is ever active among things; and because His works were concerned with the salvation of man, while the Pharisees were concerned for the well-being of animals even on the sabbath; and again because on account of urgency He excused His disciples for gathering the ears of corn on the sabbath. But He did seem to break the sabbath according to the superstitious interpretation of the Pharisees, who thought that man ought to abstain from doing even works of kindness on the sabbath; which was contrary to the intention of the Law.
 
 Reply to Objection 4: The reason why the ceremonial precepts of the Law are not mentioned in Mat. 5 is because, as stated above (ad 1), their observance was abolished by their fulfilment. But of the judicial precepts He mentioned that of retaliation: so that what He said about it should refer to all the others. With regard to this precept, He taught that the intention of the Law was that retaliation should be sought out of love of justice, and not as a punishment out of revengeful spite, which He forbade, admonishing man to be ready to suffer yet greater insults; and this remains still in the New Law.
-# Whether The New Law Is Contained In The Old?
+## Whether The New Law Is Contained In The Old?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the New Law is not contained in the Old. Because the New Law consists chiefly in faith: wherefore it is called the "law of faith" (Rom. 3:27). But many points of faith are set forth in the New Law, which are not contained in the Old. Therefore the New Law is not contained in the Old.
 
@@ -73,22 +73,22 @@ Objection 2: Further, a gloss says on Mat. 5:19, "He that shall break one of the
 
 Objection 3: Further, who holds the container holds the contents. If, therefore, the New Law is contained in the Old, it follows that whoever had the Old Law had the New: so that it was superfluous to give men a New Law when once they had the Old. Therefore the New Law is not contained in the Old.
 
-## Answer
+### Answer
 
 On the contrary, As expressed in Ezech. 1:16, there was "a wheel in the midst of a wheel," i.e. "the New Testament within the Old," according to Gregory's exposition.
 
 I answer that, One thing may be contained in another in two ways. First, actually; as a located thing is in a place. Secondly, virtually; as an effect in its cause, or as the complement in that which is incomplete; thus a genus contains its species, and a seed contains the whole tree, virtually. It is in this way that the New Law is contained in the Old: for it has been stated [2150](A[1]) that the New Law is compared to the Old as perfect to imperfect. Hence Chrysostom, expounding Mk. 4:28, "The earth of itself bringeth forth fruit, first the blade, then the ear, afterwards the full corn in the ear," expresses himself as follows: "He brought forth first the blade, i.e. the Law of Nature; then the ear, i.e. the Law of Moses; lastly, the full corn, i.e. the Law of the Gospel." Hence then the New Law is in the Old as the corn in the ear.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Whatsoever is set down in the New Testament explicitly and openly as a point of faith, is contained in the Old Testament as a matter of belief, but implicitly, under a figure. And accordingly, even as to those things which we are bound to believe, the New Law is contained in the Old.
 
 Reply to Objection 2: The precepts of the New Law are said to be greater than those of the Old Law, in the point of their being set forth explicitly. But as to the substance itself of the precepts of the New Testament, they are all contained in the Old. Hence Augustine says (Contra Faust. xix, 23,28) that "nearly all Our Lord's admonitions or precepts, where He expressed Himself by saying: 'But I say unto you,' are to be found also in those ancient books. Yet, since they thought that murder was only the slaying of the human body, Our Lord declared to them that every wicked impulse to hurt our brother is to be looked on as a kind of murder." And it is in the point of declarations of this kind that the precepts of the New Law are said to be greater than those of the Old. Nothing, however, prevents the greater from being contained in the lesser virtually; just as a tree is contained in the seed.
 
 Reply to Objection 3: What is set forth implicitly needs to be declared explicitly. Hence after the publishing of the Old Law, a New Law also had to be given.
-# Whether The New Law Is More Burdensome Than The Old?
+## Whether The New Law Is More Burdensome Than The Old?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the New Law is more burdensome than the Old. For Chrysostom (Opus Imp. in Matth., Hom. x [*The work of an unknown author]) say: "The commandments given to Moses are easy to obey: Thou shalt not kill; Thou shalt not commit adultery: but the commandments of Christ are difficult to accomplish, for instance: Thou shalt not give way to anger, or to lust." Therefore the New Law is more burdensome than the Old.
 
@@ -96,7 +96,7 @@ Objection 2: Further, it is easier to make use of earthly prosperity than to suf
 
 Objection 3: The more one has to do, the more difficult it is. But the New Law is something added to the Old. For the Old Law forbade perjury, while the New Law proscribed even swearing: the Old Law forbade a man to cast off his wife without a bill of divorce, while the New Law forbade divorce altogether; as is clearly stated in Mat. 5:31, seqq., according to Augustine's expounding. Therefore the New Law is more burdensome than the Old.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 11:28): "Come to Me, all you that labor and are burdened": which words are expounded by Hilary thus: "He calls to Himself all those that labor under the difficulty of observing the Law, and are burdened with the sins of this world." And further on He says of the yoke of the Gospel: "For My yoke is sweet and My burden light." Therefore the New Law is a lighter burden than the Old.
 
@@ -104,7 +104,7 @@ I answer that, A twofold difficult may attach to works of virtue with which the 
 
 The other difficulty attaches to works of virtue as to interior acts: for instance, that a virtuous deed be done with promptitude and pleasure. It is this difficulty that virtue solves: because to act thus is difficult for a man without virtue: but through virtue it becomes easy for him. In this respect the precepts of the New Law are more burdensome than those of the Old; because the New Law prohibits certain interior movements of the soul, which were not expressly forbidden in the Old Law in all cases, although they were forbidden in some, without, however, any punishment being attached to the prohibition. Now this is very difficult to a man without virtue: thus even the Philosopher states (Ethic. v, 9) that it is easy to do what a righteous man does; but that to do it in the same way, viz. with pleasure and promptitude, is difficult to a man who is not righteous. Accordingly we read also (1 Jn. 5:3) that "His commandments are not heavy": which words Augustine expounds by saying that "they are not heavy to the man that loveth; whereas they are a burden to him that loveth not."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The passage quoted speaks expressly of the difficulty of the New Law as to the deliberate curbing of interior movements.
 

@@ -4,15 +4,15 @@ We must now consider absolution from excommunication: under which head there are
 (1) Whether any priest can absolve his subject from excommunication?
 (2) Whether a man can be absolved from excommunication against his will?
 (3) Whether a man can be absolved from one excommunication without being absolved from another?
-# Whether Any Priest Can Absolve His Subject From Excommunication?
+## Whether Any Priest Can Absolve His Subject From Excommunication?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that any priest can absolve his subject from excommunication. For the chains of sin are stronger than those of excommunication. But any priest can absolve his subject from sin. Therefore much more can he absolve him from excommunication.
 
 Objection 2: Further, if the cause is removed the effect is removed. But the cause of excommunication is a mortal sin. Therefore since any priest can absolve (his subject) from that mortal sin, he is able likewise to absolve him from the excommunication.
 
-## Answer
+### Answer
 
 On the contrary, It belongs to the same power to excommunicate as to absolve from excommunication. But priests of inferior degree cannot excommunicate their subjects. Neither, therefore, can they absolve them.
 
@@ -22,39 +22,39 @@ There are however eight exceptions to the first case: (1) In the hour of death, 
 
 There are, besides, seven cases in which the person who strikes a cleric does not incur excommunication: (1) if he do it for the sake of discipline, as a teacher or a superior; (2) if it be done for fun; (3) if the striker find the cleric behaving with impropriety towards his wife his mother, his sister or his daughter; (4) if he return blow for blow at once; (5) if the striker be not aware that he is striking a cleric; (6) if the latter be guilty of apostasy after the triple admonition; (7) if the cleric exercise an act which is altogether contrary to the clerical life, e.g. if he become a soldier, or if he be guilty of bigamy [*Namely, that which is known by canonists as "similar bigamy"].
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the chains of sin are in themselves greater than those of excommunication, yet in a certain respect the chains of excommunication are greater, inasmuch as they bind a man not only in the sight of God, but also in the eye of the Church. Hence absolution from excommunication requires jurisdiction in the external forum, whereas absolution from sin does not. Nor is there need of giving one's word by oath, as in the case of absolution from excommunication, because, as the Apostle declares (Heb. 6:16), controversies between men are decided by oath.
 
 Reply to Objection 2: As an excommunicated person has no share in the sacraments of the Church, a priest cannot absolve him from his guilt, unless he be first absolved from excommunication.
-# Whether Anyone Can Be Absolved Against His Will?
+## Whether Anyone Can Be Absolved Against His Will?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no man can be absolved against his will. For spiritual things are not conferred on anyone against his will. Now absolution from excommunication is a spiritual favor. Therefore it cannot be granted to a man against his will.
 
 Objection 2: Further, the cause of excommunication is contumacy. But when, through contempt of the excommunication, a man is unwilling to be absolved, he shows a high degree of contumacy. Therefore he cannot be absolved.
 
-## Answer
+### Answer
 
 On the contrary, Excommunication can be pronounced on a man against his will. Now things that happen to a man against his will, can be removed from him against his will, as in the case of the goods of fortune. Therefore excommunication can be removed from a man against his will.
 
 I answer that, Evil of fault and evil of punishment differ in this, that the origin of fault is within us, since all sin is voluntary, whereas the origin of punishment is sometimes without, since punishment does not need to be voluntary, in fact the nature of punishment is rather to be against the will. Wherefore, just as a man commits no sin except willingly, so no sin is forgiven him against his will. On the other hand just as a person can be excommunicated against his will, so can he be absolved therefrom.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The assertion is true of those spiritual goods which depend on our will, such as the virtues, which we cannot lose unwillingly; for knowledge, although a spiritual good, can be lost by a man against his will through sickness. Hence the argument is not to the point.
 
 Reply to Objection 2: It is possible for excommunication to be removed from a man even though he be contumacious, if it seem to be for the good of the man for whom the excommunication was intended as a medicine.
-# Whether A Man Can Be Absolved From One Excommunication Without Being Absolved From All?
+## Whether A Man Can Be Absolved From One Excommunication Without Being Absolved From All?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man cannot be absolved from one excommunication without being absolved from all. For an effect should be proportionate to its cause. Now the cause of excommunication is a sin. Since then a man cannot be absolved from one sin without being absolved from all, neither can this happen as regards excommunication.
 
 Objection 2: Further, absolution from excommunication is pronounced in the Church. But a man who is under the ban of one excommunication is outside the Church. Therefore so long as one remains, a man cannot be loosed from another.
 
-## Answer
+### Answer
 
 On the contrary, Excommunication is a punishment. Now a man can be loosed from one punishment, while another remains. Therefore a man can be loosed from one excommunication and yet remain under another.
 
@@ -62,7 +62,7 @@ I answer that, Excommunications are not connected together in any way, and so it
 
 It must be observed however that sometimes a man lies under several excommunications pronounced by one judge; and then, when he is absolved from one, he is understood to be absolved from all, unless the contrary be expressed, or unless he ask to be absolved from excommunication on one count only, whereas he was excommunicated under several. On the other hand sometimes a man lies under several sentences of excommunication pronounced by several judges; and then, when absolved from one excommunication, he is not therefore absolved from the others, unless at his prayer they all confirm his absolution, or unless they all depute one to absolve him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All sins are connected together in aversion from God, which is incompatible with the forgiveness of sin: wherefore one sin cannot be forgiven without another. But excommunications have no such connection. Nor again is absolution from excommunication hindered by contrariety of the will, as stated above [4886](A[2]). Hence the argument does not prove.
 

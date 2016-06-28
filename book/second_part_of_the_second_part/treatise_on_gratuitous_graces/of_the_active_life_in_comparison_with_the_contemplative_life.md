@@ -5,9 +5,9 @@ We must now consider the active life in comparison with the contemplative life, 
 (2) Which of them has the greater merit?
 (3) Whether the contemplative life is hindered by the active life?
 (4) Of their order.
-# Whether The Active Life Is More Excellent Than The Contemplative?
+## Whether The Active Life Is More Excellent Than The Contemplative?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the active life is more excellent than the contemplative. For "that which belongs to better men would seem to be worthier and better," as the Philosopher says (Top. iii, 1). Now the active life belongs to persons of higher rank, namely prelates, who are placed in a position of honor and power; wherefore Augustine says (De Civ. Dei xix, 19) that "in our actions we must not love honor or power in this life." Therefore it would seem that the active life is more excellent than the contemplative.
 
@@ -15,7 +15,7 @@ Objection 2: Further, in all habits and acts, direction belongs to the more impo
 
 Objection 3: Further, no man should be taken away from a greater thing in order to be occupied with lesser things: for the Apostle says (1 Cor. 12:31): "Be zealous for the better gifts." Now some are taken away from the state of the contemplative life to the occupations of the active life, as in the case of those who are transferred to the state of prelacy. Therefore it would seem that the active life is more excellent than the contemplative.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said (Lk. 10:42): "Mary hath chosen the best part, which shall not be taken away from her." Now Mary figures the contemplative life. Therefore the contemplative life is more excellent than the active.
 
@@ -25,16 +25,16 @@ Our Lord adds a ninth reason (Lk. 10:42) when He says: "Mary hath chosen the bes
 
 Yet in a restricted sense and in a particular case one should prefer the active life on account of the needs of the present life. Thus too the Philosopher says (Topic. iii, 2): "It is better to be wise than to be rich, yet for one who is in need, it is better to be rich . . ."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not only the active life concerns prelates, they should also excel in the contemplative life; hence Gregory says (Pastor. ii, 1): "A prelate should be foremost in action, more uplifted than others in contemplation."
 
 Reply to Objection 2: The contemplative life consists in a certain liberty of mind. For Gregory says (Hom. iii in Ezech.) that "the contemplative life obtains a certain freedom of mind, for it thinks not of temporal but of eternal things." And Boethius says (De Consol. v, 2): "The soul of man must needs be more free while it continues to gaze on the Divine mind, and less so when it stoops to bodily things." Wherefore it is evident that the active life does not directly command the contemplative life, but prescribes certain works of the active life as dispositions to the contemplative life; which it accordingly serves rather than commands. Gregory refers to this when he says (Hom. iii in Ezech.) that "the active life is bondage, whereas the contemplative life is freedom."
 
 Reply to Objection 3: Sometimes a man is called away from the contemplative life to the works of the active life, on account of some necessity of the present life, yet not so as to be compelled to forsake contemplation altogether. Hence Augustine says (De Civ. Dei xix, 19): "The love of truth seeks a holy leisure, the demands of charity undertake an honest toil," the work namely of the active life. "If no one imposes this burden upon us we must devote ourselves to the research and contemplation of truth, but if it be imposed on us, we must bear it because charity demands it of us. Yet even then we must not altogether forsake the delights of truth, lest we deprive ourselves of its sweetness, and this burden overwhelm us." Hence it is clear that when a person is called from the contemplative life to the active life, this is done by way not of subtraction but of addition.
-# Whether The Active Life Is Of Greater Merit Than The Contemplative?
+## Whether The Active Life Is Of Greater Merit Than The Contemplative?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the active life is of greater merit than the contemplative. For merit implies relation to meed; and meed is due to labor, according to 1 Cor. 3:8, "Every man shall receive his own reward according to his own labor." Now labor is ascribed to the active life, and rest to the contemplative life; for Gregory says (Hom. xiv in Ezech.): "Whosoever is converted to God must first of all sweat from labor, i.e. he must take Lia, that afterwards he may rest in the embraces of Rachel so as to see the principle." Therefore the active life is of greater merit than the contemplative.
 
@@ -42,7 +42,7 @@ Objection 2: Further, the contemplative life is a beginning of the happiness to 
 
 Objection 3: Further, Gregory says (Hom. xii in Ezech.) that "no sacrifice is more acceptable to God than zeal for souls." Now by the zeal for souls a man turns to the occupations of the active life. Therefore it would seem that the contemplative life is not of greater merit than the active.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. vi, 37): "Great are the merits of the active life, but greater still those of the contemplative."
 
@@ -50,16 +50,16 @@ I answer that, As stated above ([3745]FS, Q[114], A[4]), the root of merit is ch
 
 Nevertheless it may happen that one man merits more by the works of the active life than another by the works of the contemplative life. For instance through excess of Divine love a man may now and then suffer separation from the sweetness of Divine contemplation for the time being, that God's will may be done and for His glory's sake. Thus the Apostle says (Rom. 9:3): "I wished myself to be an anathema from Christ, for my brethren"; which words Chrysostom expounds as follows (De Compunct. i, 7 [*Ad Demetr. de Compunct. Cordis.]): "His mind was so steeped in the love of Christ that, although he desired above all to be with Christ, he despised even this, because thus he pleased Christ."
 
-## Replies
+### Replies
 
 Reply to Objection 1: External labor conduces to the increase of the accidental reward; but the increase of merit with regard to the essential reward consists chiefly in charity, whereof external labor borne for Christ's sake is a sign. Yet a much more expressive sign thereof is shown when a man, renouncing whatsoever pertains to this life, delights to occupy himself entirely with Divine contemplation.
 
 Reply to Objection 2: In the state of future happiness man has arrived at perfection, wherefore there is no room for advancement by merit; and if there were, the merit would be more efficacious by reason of the greater charity. But in the present life contemplation is not without some imperfection, and can always become more perfect; wherefore it does not remove the idea of merit, but causes a yet greater merit on account of the practice of greater Divine charity.
 
 Reply to Objection 3: A sacrifice is rendered to God spiritually when something is offered to Him; and of all man's goods, God specially accepts that of the human soul when it is offered to Him in sacrifice. Now a man ought to offer to God, in the first place, his soul, according to Ecclus. 30:24, "Have pity on thy own soul, pleasing God"; in the second place, the souls of others, according to Apoc. 22:17, "He that heareth, let him say: Come." And the more closely a man unites his own or another's soul to God, the more acceptable is his sacrifice to God; wherefore it is more acceptable to God that one apply one's own soul and the souls of others to contemplation than to action. Consequently the statement that "no sacrifice is more acceptable to God than zeal for souls," does not mean that the merit of the active life is preferable to the merit of the contemplative life, but that it is more meritorious to offer to God one's own soul and the souls of others, than any other external gifts.
-# Whether The Contemplative Life Is Hindered By The Active Life?
+## Whether The Contemplative Life Is Hindered By The Active Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the contemplative life is hindered by the active life. For the contemplative life requires a certain stillness of mind, according to Ps. 45:11, "Be still, and see that I am God"; whereas the active life involves restlessness, according to Lk. 10:41, "Martha, Martha, thou art careful and troubled about many things." Therefore the active life hinders the contemplative.
 
@@ -67,16 +67,16 @@ Objection 2: Further, clearness of vision is a requisite for the contemplative l
 
 Objection 3: Further, one contrary hinders the other. Now the active and the contemplative life are apparently contrary to one another, since the active life is busy about many things, while the contemplative life attends to the contemplation of one; wherefore they differ in opposition to one another. Therefore it would seem that the contemplative life is hindered by the active.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. vi, 37): "Those who wish to hold the fortress of contemplation, must first of all train in the camp of action."
 
 I answer that, The active life may be considered from two points of view. First, as regards the attention to and practice of external works: and thus it is evident that the active life hinders the contemplative, in so far as it is impossible for one to be busy with external action, and at the same time give oneself to Divine contemplation. Secondly, active life may be considered as quieting and directing the internal passions of the soul; and from this point of view the active life is a help to the contemplative, since the latter is hindered by the inordinateness of the internal passions. Hence Gregory says (Moral. vi, 37): "Those who wish to hold the fortress of contemplation must first of all train in the camp of action. Thus after careful study they will learn whether they no longer wrong their neighbor, whether they bear with equanimity the wrongs their neighbors do to them, whether their soul is neither overcome with joy in the presence of temporal goods, nor cast down with too great a sorrow when those goods are withdrawn. In this way they will known when they withdraw within themselves, in order to explore spiritual things, whether they no longer carry with them the shadows of the things corporeal, or, if these follow them, whether they prudently drive them away." Hence the work of the active life conduces to the contemplative, by quelling the interior passions which give rise to the phantasms whereby contemplation is hindered.
 
 This suffices for the Replies to the Objections; for these arguments consider the occupation itself of external actions, and not the effect which is the quelling of the passions.
-# Whether The Active Life Precedes The Contemplative?
+## Whether The Active Life Precedes The Contemplative?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the active life does not precede the contemplative. For the contemplative life pertains directly to the love of God; while the active life pertains to the love of our neighbor. Now the love of God precedes the love of our neighbor, since we love our neighbor for God's sake. Seemingly therefore the contemplative life also precedes the active life.
 
@@ -84,7 +84,7 @@ Objection 2: Further, Gregory says (Hom. xiv in Ezech.): "It should be observed 
 
 Objection 3: Further, it would seem that there is not necessarily any order between things that are suitable to different subjects. Now the active and the contemplative life are suitable to different subjects; for Gregory says (Moral. vi, 37): "Often those who were able to contemplate God so long as they were undisturbed have fallen when pressed with occupation; and frequently they who might live advantageously occupied with the service of their fellow-creatures are killed by the sword of their inaction."
 
-## Answer
+### Answer
 
 
 
@@ -92,7 +92,7 @@ I answer that, A thing is said to precede in two ways. First, with regard to its
 
 Secondly, a thing precedes with regard to us, because it comes first in the order of generation. In this way the active precedes the contemplative life, because it disposes one to it, as stated above [3746](A[1]; Q[181], A[1], ad 3); and, in the order of generation, disposition precedes form, although the latter precedes simply and according to its nature.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The contemplative life is directed to the love of God, not of any degree, but to that which is perfect; whereas the active life is necessary for any degree of the love of our neighbor. Hence Gregory says (Hom. iii in Ezech.): "Without the contemplative life it is possible to enter the heavenly kingdom, provided one omit not the good actions we are able to do; but we cannot enter therein without the active life, if we neglect to do the good we can do."
 

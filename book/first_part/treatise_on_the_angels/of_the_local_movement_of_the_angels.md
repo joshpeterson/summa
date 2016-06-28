@@ -4,9 +4,9 @@ We must next consider the local movement of the angels; under which heading ther
 (1) Whether an angel can be moved locally.
 (2) Whether in passing from place to place he passes through intervening space?
 (3) Whether the angel's movement is in time or instantaneous?
-# Whether An Angel Can Be Moved Locally?
+## Whether An Angel Can Be Moved Locally?
 
-## Objections
+### Objections
 
 Objection 1: It seems that an angel cannot be moved locally. For, as the Philosopher proves (Phys. vi, text 32,86) "nothing which is devoid of parts is moved"; because, while it is in the term "wherefrom," it is not moved; nor while it is in the term "whereto," for it is then already moved; consequently it remains that everything which is moved, while it is being moved, is partly in the term "wherefrom" and partly in the term "whereto." But an angel is without parts. Therefore an angel cannot be moved locally.
 
@@ -14,28 +14,28 @@ Objection 2: Further, movement is "the act of an imperfect being," as the Philos
 
 Objection 3: Further, movement is simply because of want. But the holy angels have no want. Therefore the holy angels are not moved locally.
 
-## Answer
+### Answer
 
 On the contrary, It is the same thing for a beatified angel to be moved as for a beatified soul to be moved. But it must necessarily be said that a blessed soul is moved locally, because it is an article of faith that Christ's soul descended into Hell. Therefore a beatified angel is moved locally.
 
 I answer that, A beatified angel can be moved locally. As, however, to be in a place belongs equivocally to a body and to an angel, so likewise does local movement. For a body is in a place in so far as it is contained under the place, and is commensurate with the place. Hence it is necessary for local movement of a body to be commensurate with the place, and according to its exigency. Hence it is that the continuity of movement is according to the continuity of magnitude; and according to priority and posteriority of local movement, as the Philosopher says (Phys. iv, text 99). But an angel is not in a place as commensurate and contained, but rather as containing it. Hence it is not necessary for the local movement of an angel to be commensurate with the place, nor for it to be according to the exigency of the place, so as to have continuity therefrom; but it is a non-continuous movement. For since the angel is in a place only by virtual contact, as was said above ([480]Q[52], A[1]), it follows necessarily that the movement of an angel in a place is nothing else than the various contacts of various places successively, and not at once; because an angel cannot be in several places at one time, as was said above ([481]Q[52], A[2]). Nor is it necessary for these contacts to be continuous. Nevertheless a certain kind of continuity can be found in such contacts. Because, as was said above ([482]Q[52], A[1]), there is nothing to hinder us from assigning a divisible place to an angel according to virtual contact; just as a divisible place is assigned to a body by contact of magnitude. Hence as a body successively, and not all at once, quits the place in which it was before, and thence arises continuity in its local movement; so likewise an angel can successively quit the divisible place in which he was before, and so his movement will be continuous. And he can all at once quit the whole place, and in the same instant apply himself to the whole of another place, and thus his movement will not be continuous.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument fails of its purpose for a twofold reason. First of all, because Aristotle's demonstration deals with what is indivisible according to quantity, to which responds a place necessarily indivisible. And this cannot be said of an angel.
 
 Reply to Objection 2: The movement of that which is in potentiality is the act of an imperfect agent. But the movement which is by application of energy is the act of one in act: because energy implies actuality.
 
 Reply to Objection 3: The movement of that which is in potentiality is the act of an imperfect but the movement of what is in act is not for any need of its own, but for another's need. In this way, because of our need, the angel is moved locally, according to Heb. 1:14: "They are all [*Vulg.: 'Are they not all . . . ?'] ministering spirits, sent to minister for them who receive the inheritance of salvation."
-# Whether An Angel Passes Through Intermediate Space?
+## Whether An Angel Passes Through Intermediate Space?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an angel does not pass through intermediate space. For everything that passes through a middle space first travels along a place of its own dimensions, before passing through a greater. But the place responding to an angel, who is indivisible, is confined to a point. Therefore if the angel passes through middle space, he must reckon infinite points in his movement: which is not possible.
 
 Objection 2: Further, an angel is of simpler substance than the soul. But our soul by taking thought can pass from one extreme to another without going through the middle: for I can think of France and afterwards of Syria, without ever thinking of Italy, which stands between them. Therefore much more can an angel pass from one extreme to another without going through the middle.
 
-## Answer
+### Answer
 
 On the contrary, If the angel be moved from one place to another, then, when he is in the term "whither," he is no longer in motion, but is changed. But a process of changing precedes every actual change: consequently he was being moved while existing in some place. But he was not moved so long as he was in the term "whence." Therefore, he was moved while he was in mid-space: and so it was necessary for him to pass through intervening space.
 
@@ -47,14 +47,14 @@ Now a movable body only exhausts the infinity of the intermediate places by the 
 
 Now, the actual passing from one extreme to the other, without going through the mid-space, is quite in keeping with an angel's nature; but not with that of a body, because a body is measured by and contained under a place; hence it is bound to follow the laws of place in its movement. But an angel's substance is not subject to place as contained thereby, but is above it as containing it: hence it is under his control to apply himself to a place just as he wills, either through or without the intervening place.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The place of an angel is not taken as equal to him according to magnitude, but according to contact of power: and so the angel's place can be divisible, and is not always a mere point. Yet even the intermediate divisible places are infinite, as was said above: but they are consumed by the continuity of the movement, as is evident from the foregoing.
 
 Reply to Objection 2: While an angel is moved locally, his essence is applied to various places: but the soul's essence is not applied to the things thought of, but rather the things thought of are in it. So there is no comparison.
-# Whether The Movement Of An Angel Is Instantaneous?
+## Whether The Movement Of An Angel Is Instantaneous?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an angel's movement is instantaneous. For the greater the power of the mover, and the less the moved resist the mover, the more rapid is the movement. But the power of an angel moving himself exceeds beyond all proportion the power which moves a body. Now the proportion of velocities is reckoned according to the lessening of the time. But between one length of time and any other length of time there is proportion. If therefore a body is moved in time, an angel is moved in an instant.
 
@@ -62,7 +62,7 @@ Objection 2: Further, the angel's movement is simpler than any bodily change. Bu
 
 Objection 3: Further, if an angel be moved from place to place in time, it is manifest that in the last instant of such time he is in the term "whereto": but in the whole of the preceding time, he is either in the place immediately preceding, which is taken as the term "wherefrom"; or else he is partly in the one, and partly in the other, it follows that he is divisible; which is impossible. Therefore during the whole of the preceding time he is in the term "wherefrom." Therefore he rests there: since to be at rest is to be in the same place now and previously, as was said [483](A[2]). Therefore it follows that he is not moved except in the last instant of time.
 
-## Answer
+### Answer
 
 On the contrary, In every change there is a before and after. Now the before and after of movement is reckoned by time. Consequently every movement, even of an angel, is in time, since there is a before and after in it.
 
@@ -72,7 +72,7 @@ But this does not hold good in the present case; and it is shown thus. It is of 
 
 But that time, whether it be continuous or not, is not the same as the time which measures the movement of the heavens, and whereby all corporeal things are measured, which have their changeableness from the movement of the heavens; because the angel's movement does not depend upon the movement of the heavens.
 
-## Replies
+### Replies
 
 Reply to Objection 1: If the time of the angel's movement be not continuous, but a kind of succession of 'nows,' it will have no proportion to the time which measures the movement of corporeal things, which is continuous; since it is not of the same nature. If, however, it be continuous, it is indeed proportionable, not, indeed, because of the proportion of the mover and the movable, but on account of the proportion of the magnitudes in which the movement exists. Besides, the swiftness of the angel's movement is not measured by the quantity of his power, but according to the determination of his will.
 

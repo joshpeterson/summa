@@ -7,9 +7,9 @@ We have now to consider Christ's Ascension: concerning which there are six point
 (4) Whether He ascended above all the corporeal heavens?
 (5) Whether He ascended above all spiritual creatures?
 (6) Of the effect of the Ascension.
-# Whether It Was Fitting For Christ To Ascend Into Heaven?
+## Whether It Was Fitting For Christ To Ascend Into Heaven?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was not fitting for Christ to ascend into heaven. For the Philosopher says (De Coelo ii) that "things which are in a state of perfection possess their good without movement." But Christ was in a state of perfection, since He is the Sovereign Good in respect of His Divine Nature, and sovereignly glorified in respect of His human nature. Consequently, He has His good without movement. But ascension is movement. Therefore it was not fitting for Christ to ascend.
 
@@ -19,13 +19,13 @@ Objection 3: Further, the Son of God took human flesh for our salvation. But it 
 
 Objection 4: Further, as Gregory says (Moral. xiv), Christ's body was in no way changed after the Resurrection. But He did not ascend into heaven immediately after rising again, for He said after the Resurrection (Jn. 20:17): "I am not yet ascended to My Father." Therefore it seems that neither should He have ascended after forty days.
 
-## Answer
+### Answer
 
 On the contrary, Are the words of our Lord (Jn. 20:17): "I ascend to My Father and to your Father."
 
 I answer that, The place ought to be in keeping with what is contained therein. Now by His Resurrection Christ entered upon an immortal and incorruptible life. But whereas our dwelling-place is one of generation and corruption, the heavenly place is one of incorruption. And consequently it was not fitting that Christ should remain upon earth after the Resurrection; but it was fitting that He should ascend to heaven.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That which is best and possesses its good without movement is God Himself, because He is utterly unchangeable, according to Malachi 3:6: "I am the Lord, and I change not." But every creature is changeable in some respect, as is evident from Augustine (Gen. ad lit. viii). And since the nature assumed by the Son of God remained a creature, as is clear from what was said above ([4315]Q[2], A[7];[4316] Q[16], AA[8],10;[4317] Q[20], A[1] ), it is not unbecoming if some movement be attributed to it.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: By ascending into heaven Christ acquired no addition to Hi
 Reply to Objection 3: Although Christ's bodily presence was withdrawn from the faithful by the Ascension, still the presence of His Godhead is ever with the faithful, as He Himself says (Mat. 28:20): "Behold, I am with you all days, even to the consummation of the world." For, "by ascending into heaven He did not abandon those whom He adopted," as Pope Leo says (De Resurrec., Serm. ii). But Christ's Ascension into heaven, whereby He withdrew His bodily presence from us, was more profitable for us than His bodily presence would have been.
 
 Reply to Objection 4: Although a heavenly place befitted Christ when He rose to immortal life, nevertheless He delayed the Ascension in order to confirm the truth of His Resurrection. Hence it is written (Acts 1:3), that "He showed Himself alive after His Passion, by many proofs, for forty days appearing to them": upon which the gloss says that "because He was dead for forty hours, during forty days He established the fact of His being alive again. Or the forty days may be understood as a figure of this world, wherein Christ dwells in His Church: inasmuch as man is made out of the four elements, and is cautioned not to transgress the Decalogue."
-# Whether Christ's Ascension Into Heaven Belonged To Him According To His Divine Nature?
+## Whether Christ's Ascension Into Heaven Belonged To Him According To His Divine Nature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's Ascension into heaven belonged to Him according to His Divine Nature. For, it is written (Ps. 46:6): "God is ascended with jubilee": and (Dt. 33:26): "He that is mounted upon the heaven is thy helper." But these words were spoken of God even before Christ's Incarnation. Therefore it belongs to Christ to ascend into heaven as God.
 
@@ -44,7 +44,7 @@ Objection 2: Further, it belongs to the same person to ascend into heaven as to 
 
 Objection 3: Further, by His Ascension Christ ascended to the Father. But it was not as man that He rose to equality with the Father; for in this respect He says: "He is greater than I," as is said in Jn. 14:28. Therefore it seems that Christ ascended as God.
 
-## Answer
+### Answer
 
 On the contrary, on Eph. 4:10: "That He ascended, what is it, but because He also descended," a gloss says: "It is clear that He descended and ascended according to His humanity."
 
@@ -52,16 +52,16 @@ I answer that, The expression "according to" can denote two things; the conditio
 
 But if the phrase "according to" denote the cause of the Ascension, since Christ ascended into heaven in virtue of His Godhead, and not in virtue of His human nature, then it must be said that Christ ascended into heaven not as man, but as God. Hence Augustine says in a sermon on the Ascension: "It was our doing that the Son of man hung upon the cross; but it was His own doing that He ascended."
 
-## Replies
+### Replies
 
 Reply to Objection 1: These utterances were spoken prophetically of God who was one day to become incarnate. Still it can be said that although to ascend does not belong to the Divine Nature properly, yet it can metaphorically; as, for instance, it is said "to ascend in the heart of man" (cf. Ps. 83:6), when his heart submits and humbles itself before God: and in the same way God is said to ascend metaphorically with regard to every creature, since He subjects it to Himself.
 
 Reply to Objection 2: He who ascended is the same as He who descended. For Augustine says (De Symb. iv): "Who is it that descends? The God-Man. Who is it that ascends? The self-same God-Man." Nevertheless a twofold descent is attributed to Christ; one, whereby He is said to have descended from heaven, which is attributed to the God-Man according as He is God: for He is not to be understood as having descended by any local movement, but as having "emptied Himself," since "when He was in the form of God He took the form of a servant." For just as He is said to be emptied, not by losing His fulness, but because He took our littleness upon Himself, so likewise He is said to have descended from heaven, not that He deserted heaven, but because He assumed human nature in unity of person.
 
 Reply to Objection 3: Christ is said to ascend to the Father, inasmuch as He ascends to sit on the right hand of the Father; and this is befitting Christ in a measure according to His Divine Nature, and in a measure according to His human nature, as will be said later ([4318]Q[58], A[3])
-# Whether Christ Ascended By His Own Power?
+## Whether Christ Ascended By His Own Power?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ did not ascend by His own power, because it is written (Mk. 16:19) that "the Lord Jesus, after He had spoken to them, was taken up to heaven"; and (Acts 1:9) that, "while they looked on, He was raised up, and a cloud received Him out of their sight." But what is taken up, and lifted up, appears to be moved by another. Consequently, it was not by His own power, but by another's that Christ was taken up into heaven.
 
@@ -69,7 +69,7 @@ Objection 2: Further, Christ's was an earthly body, like to ours. But it is cont
 
 Objection 3: Further, Christ's own power is Divine. But this motion does not seem to have been Divine, because, whereas the Divine power is infinite, such motion would be instantaneous; consequently, He would not have been uplifted to heaven "while" the disciples "looked on," as is stated in Acts 1:9. Therefore, it seems that Christ did not ascend to heaven by His own power.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 63:1): "This beautiful one in his robe, walking in the greatness of his strength." Also Gregory says in a Homily on the Ascension (xxix): "It is to be noted that we read of Elias having ascended in a chariot, that it might be shown that one who was mere man needed another's help. But we do not read of our Saviour being lifted up either in a chariot or by angels, because He who had made all things was taken up above all things by His own power."
 
@@ -79,16 +79,16 @@ Now there are some who endeavor to assign the cause of this power to the nature 
 
 Setting this opinion aside, others assign as the cause of this power the glorified soul itself, from whose overflow the body will be glorified, as Augustine writes to Dioscorus (Ep. cxviii). For the glorified body will be so submissive to the glorified soul, that, as Augustine says (De Civ. Dei xxii), "wheresoever the spirit listeth, thither the body will be on the instant; nor will the spirit desire anything unbecoming to the soul or the body." Now it is befitting the glorified and immortal body for it to be in a heavenly place, as stated above [4321](A[1]). Consequently, Christ's body ascended into heaven by the power of His soul willing it. But as the body is made glorious by participation with the soul, even so, as Augustine says (Tract. xxiii in Joan.), "the soul is beatified by participating in God." Consequently, the Divine power is the first source of the ascent into heaven. Therefore Christ ascended into heaven by His own power, first of all by His Divine power, and secondly by the power of His glorified soul moving His body at will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Christ is said to have risen by His own power, though He was raised to life by the power of the Father, since the Father's power is the same as the Son's; so also Christ ascended into heaven by His own power, and yet was raised up and taken up to heaven by the Father.
 
 Reply to Objection 2: This argument proves that Christ did not ascend into heaven by His own power, i.e. that which is natural to human nature: yet He did ascend by His own power, i.e. His Divine power, as well as by His own power, i.e. the power of His beatified soul. And although to mount upwards is contrary to the nature of a human body in its present condition, in which the body is not entirely dominated by the soul, still it will not be unnatural or forced in a glorified body, whose entire nature is utterly under the control of the spirit.
 
 Reply to Objection 3: Although the Divine power be infinite, and operate infinitely, so far as the worker is concerned, still the effect thereof is received in things according to their capacity, and as God disposes. Now a body is incapable of being moved locally in an instant, because it must be commensurate with space, according to the division of which time is reckoned, as is proved in Physics vi. Consequently, it is not necessary for a body moved by God to be moved instantaneously, but with such speed as God disposes.
-# Whether Christ Ascended Above All The Heavens?
+## Whether Christ Ascended Above All The Heavens?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ did not ascend above all the heavens, for it is written (Ps. 10:5): "The Lord is in His holy temple, the Lord's throne is in heaven." But what is in heaven is not above heaven. Therefore Christ did not ascend above all the heavens.
 
@@ -100,13 +100,13 @@ Objection 4: Further, it is narrated (Acts 1:9) that "a cloud received Him out o
 
 Objection 5: Further, we believe that Christ will dwell for ever in the place whither He has ascended. But what is against nature cannot last for ever, because what is according to nature is more prevalent and of more frequent occurrence. Therefore, since it is contrary to nature for an earthly body to be above heaven, it seems that Christ's body did not ascend above heaven.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Eph. 4:10): "He ascended above all the heavens that He might fill all things."
 
 I answer that, The more fully anything corporeal shares in the Divine goodness, the higher its place in the corporeal order, which is order of place. Hence we see that the more formal bodies are naturally the higher, as is clear from the Philosopher (Phys. iv; De Coelo ii), since it is by its form that every body partakes of the Divine Essence, as is shown in Physics i. But through glory the body derives a greater share in the Divine goodness than any other natural body does through its natural form; while among other glorious bodies it is manifest that Christ's body shines with greater glory. Hence it was most fitting for it to be set above all bodies. Thus it is that on Eph. 4:8: "Ascending on high," the gloss says: "in place and dignity."
 
-## Replies
+### Replies
 
 Reply to Objection 1: God's seat is said to be in heaven, not as though heaven contained Him, but rather because it is contained by Him. Hence it is not necessary for any part of heaven to be higher, but for Him to be above all the heavens; according to Ps. 8:2: "For Thy magnificence is elevated above the heavens, O God!"
 
@@ -117,9 +117,9 @@ Reply to Objection 3: Although it is not of the nature of a body for it to be in
 Reply to Objection 4: That cloud afforded no support as a vehicle to the ascending Christ: but it appeared as a sign of the Godhead, just as God's glory appeared to Israel in a cloud over the Tabernacle (Ex. 40:32; Num. 9:15).
 
 Reply to Objection 5: A glorified body has the power to be in heaven or above heaven. not from its natural principles, but from the beatified soul, from which it derives its glory: and just as the upward motion of a glorified body is not violent, so neither is its rest violent: consequently, there is nothing to prevent it from being everlasting.
-# Whether Christ's Body Ascended Above Every Spiritual Creature?
+## Whether Christ's Body Ascended Above Every Spiritual Creature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's body did not ascend above every spiritual creature. For no fitting comparison can be made between things which have no common ratio. But place is not predicated in the same ratio of bodies and of spiritual creatures, as is evident from what was said in the [4322]FP, Q[8], A[2], ad 1,2; [4323]FP, Q[52], A[1]. Therefore it seems that Christ's body cannot be said to have ascended above every spiritual creature.
 
@@ -127,22 +127,22 @@ Objection 2: Further, Augustine says (De Vera Relig. lv) that a spirit always ta
 
 Objection 3: Further, in every place a body exists, since there is no such thing as a vacuum in nature. Therefore if no body obtains a higher place than a spirit in the order of natural bodies, then there will be no place above every spiritual creature. Consequently, Christ's body could not ascend above every spiritual creature.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Eph. 1:21): "God set Him above all principality, and Power, and every name that is named, not only in this world, but also in that which is to come."
 
 I answer that, The more exalted place is due to the nobler subject, whether it be a place according to bodily contact, as regards bodies, or whether it be by way of spiritual contact, as regards spiritual substances; thus a heavenly place which is the highest of places is becomingly due to spiritual substances, since they are highest in the order of substances. But although Christ's body is beneath spiritual substances, if we weigh the conditions of its corporeal nature, nevertheless it surpasses all spiritual substances in dignity, when we call to mind its dignity of union whereby it is united personally with God. Consequently, owing to this very fittingness, a higher place is due to it above every spiritual creature. Hence Gregory says in a Homily on the Ascension (xxix in Evang.) that "He who had made all things, was by His own power raised up above all things."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although a place is differently attributed to corporeal and spiritual substances, still in either case this remains in common, that the higher place is assigned to the worthier.
 
 Reply to Objection 2: This argument holds good of Christ's body according to the conditions of its corporeal nature, but not according to its formality of union.
 
 Reply to Objection 3: This comparison may be considered either on the part of the places; and thus there is no place so high as to exceed the dignity of a spiritual substance: in this sense the objection runs. Or it may be considered on the part of the dignity of the things to which a place is attributed: and in this way it is due to the body of Christ to be above spiritual creatures.
-# Whether Christ's Ascension Is The Cause Of Our Salvation?
+## Whether Christ's Ascension Is The Cause Of Our Salvation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's Ascension is not the cause of our salvation. For, Christ was the cause of our salvation in so far as He merited it. But He merited nothing for us by His Ascension, because His Ascension belongs to the reward of His exaltation: and the same thing is not both merit and reward, just as neither are a road and its terminus the same. Therefore it seems that Christ's Ascension is not the cause of our salvation.
 
@@ -150,7 +150,7 @@ Objection 2: Further, if Christ's Ascension be the cause of our salvation, it se
 
 Objection 3: Further, the salvation which Christ bestows is an everlasting one, according to Is. 51:6: "My salvation shall be for ever." But Christ did not ascend into heaven to remain there eternally; for it is written (Acts 1:11): "He shall so come as you have seen Him going, into heaven." Besides, we read of Him showing Himself to many holy people on earth after He went up to heaven. to Paul, for instance (Acts 9). Consequently, it seems that Christ's Ascension is not the cause of our salvation.
 
-## Answer
+### Answer
 
 On the contrary, He Himself said (Jn. 16:7): "It is expedient to you that I go"; i.e. that I should leave you and ascend into heaven.
 
@@ -162,7 +162,7 @@ On His part, in regard to those things which, in ascending, He did for our salva
 
 Secondly, because as the high-priest under the Old Testament entered the holy place to stand before God for the people, so also Christ entered heaven "to make intercession for us," as is said in Heb. 7:25. Because the very showing of Himself in the human nature which He took with Him to heaven is a pleading for us. so that for the very reason that God so exalted human nature in Christ, He may take pity on them for whom the Son of God took human nature. Thirdly, that being established in His heavenly seat as God and Lord, He might send down gifts upon men, according to Eph. 4:10: "He ascended above all the heavens, that He might fill all things," that is, "with His gifts," according to the gloss.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Christ's Ascension is the cause of our salvation by way not of merit, but of efficiency, as was stated above regarding His Resurrection ([4324]Q[56], A[1], ad 3,4).
 

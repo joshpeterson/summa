@@ -5,9 +5,9 @@ We next consider the state or condition of the first man; first, as regards his 
 (2) Whether he could see the separate substances, that is, the angels?
 (3) Whether he possessed all knowledge?
 (4) Whether he could err or be deceived?
-# Whether The First Man Saw God Through His Essence?
+## Whether The First Man Saw God Through His Essence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the first man saw God through His Essence. For man's happiness consists in the vision of the Divine Essence. But the first man, "while established in paradise, led a life of happiness in the enjoyment of all things," as Damascene says (De Fide Orth. ii, 11). And Augustine says (De Civ. Dei xiv, 10): "If man was gifted with the same tastes as now, how happy must he have been in paradise, that place of ineffable happiness!" Therefore the first man in paradise saw God through His Essence.
 
@@ -15,7 +15,7 @@ Objection 2: Further, Augustine says (De Civ. Dei xiv, loc. cit.) that "the firs
 
 Objection 3: Further, the vision of God is His Essence is whereby God is seen without a medium or enigma. But man in the state of innocence "saw God immediately," as the Master of the Sentences asserts (Sent. iv, D, i). He also saw without an enigma, for an enigma implies obscurity, as Augustine says (De Trin. xv, 9). Now, obscurity resulted from sin. Therefore man in the primitive state saw God through His Essence.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Cor. 15:46): "That was not first which is spiritual, but that which is natural." But to see God through His Essence is most spiritual. Therefore the first man in the primitive state of his natural life did not see God through His Essence.
 
@@ -23,16 +23,16 @@ I answer that, The first man did not see God through His Essence if we consider 
 
 Nevertheless he knew God with a more perfect knowledge than we do now. Thus in a sense his knowledge was midway between our knowledge in the present state, and the knowledge we shall have in heaven, when we see God through His Essence. To make this clear, we must consider that the vision of God through His Essence is contradistinguished from the vision of God through His creatures. Now the higher the creature is, and the more like it is to God, the more clearly is God seen in it; for instance, a man is seen more clearly through a mirror in which his image is the more clearly expressed. Thus God is seen in a much more perfect manner through His intelligible effects than through those which are only sensible or corporeal. But in his present state man is impeded as regards the full and clear consideration of intelligible creatures, because he is distracted by and occupied with sensible things. Now, it is written (Eccles. 7:30): "God made man right." And man was made right by God in this sense, that in him the lower powers were subjected to the higher, and the higher nature was made so as not to be impeded by the lower. Wherefore the first man was not impeded by exterior things from a clear and steady contemplation of the intelligible effects which he perceived by the radiation of the first truth, whether by a natural or by a gratuitous knowledge. Hence Augustine says (Gen. ad lit. xi, 33) that, "perhaps God used to speak to the first man as He speaks to the angels; by shedding on his mind a ray of the unchangeable truth, yet without bestowing on him the experience of which the angels are capable in the participation of the Divine Essence." Therefore, through these intelligible effects of God, man knew God then more clearly than we know Him now.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Man was happy in paradise, but not with that perfect happiness to which he was destined, which consists in the vision of the Divine Essence. He was, however, endowed with "a life of happiness in a certain measure," as Augustine says (Gen. ad lit. xi, 18), so far as he was gifted with natural integrity and perfection.
 
 Reply to Objection 2: A good will is a well-ordered will; but the will of the first man would have been ill-ordered had he wished to have, while in the state of merit, what had been promised to him as a reward.
 
 Reply to Objection 3: A medium (of knowledge) is twofold; one through which, and, at the same time, in which, something is seen, as, for example, a man is seen through a mirror, and is seen with the mirror: another kind of medium is that whereby we attain to the knowledge of something unknown; such as the medium in a demonstration. God was seen without this second kind of medium, but not without the first kind. For there was no need for the first man to attain to the knowledge of God by demonstration drawn from an effect, such as we need; since he knew God simultaneously in His effects, especially in the intelligible effects, according to His capacity. Again, we must remark that the obscurity which is implied in the word enigma may be of two kinds: first, so far as every creature is something obscure when compared with the immensity of the Divine light; and thus Adam saw God in an enigma, because he saw Him in a created effect: secondly, we may take obscurity as an effect of sin, so far as man is impeded in the consideration of intelligible things by being preoccupied with sensible things; in which sense Adam did not see God in an enigma.
-# Whether Adam In The State Of Innocence Saw The Angels Through Their Essence?
+## Whether Adam In The State Of Innocence Saw The Angels Through Their Essence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Adam, in the state of innocence, saw the angels through their essence. For Gregory says (Dialog. iv, 1): "In paradise man was accustomed to enjoy the words of God; and by purity of heart and loftiness of vision to have the company of the good angels."
 
@@ -40,7 +40,7 @@ Objection 2: Further, the soul in the present state is impeded from the knowledg
 
 Objection 3: Further, one separate substance knows another separate substance, by knowing itself (De Causis xiii). But the soul of the first man knew itself. Therefore it knew separate substances.
 
-## Answer
+### Answer
 
 On the contrary, The soul of Adam was of the same nature as ours. But our souls cannot now understand separate substances. Therefore neither could Adam's soul.
 
@@ -52,14 +52,14 @@ In virtue of the first movement of the soul from exterior things to itself, the 
 
 This makes clear the reply to the first objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: That the soul of the first man fell short of the knowledge regarding separate substances, was not owing to the fact that the body was a load upon it; but to the fact that its connatural object fell short of the excellence of separate substances. We, in our present state, fall short on account of both these reasons.
 
 Reply to Objection 3: The soul of the first man was not able to arrive at knowledge of separate substances by means of its self-knowledge, as we have shown above; for even each separate substance knows others in its own measure.
-# Whether The First Man Knew All Things?
+## Whether The First Man Knew All Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the first man did not know all things. For if he had such knowledge it would be either by acquired species, or by connatural species, or by infused species. Not, however, by acquired species; for this kind of knowledge is acquired by experience, as stated in Metaph. i, 1; and the first man had not then gained experience of all things. Nor through connatural species, because he was of the same nature as we are; and our soul, as Aristotle says (De Anima iii, 4), is "like a clean tablet on which nothing is written." And if his knowledge came by infused species, it would have been of a different kind from ours, which we acquire from things themselves.
 
@@ -67,7 +67,7 @@ Objection 2: Further, individuals of the same species have the same way of arriv
 
 Objection 3: Further, the present state of life is given to man in order that his soul may advance in knowledge and merit; indeed, the soul seems to be united to the body for that purpose. Now man would have advanced in merit in that state of life; therefore also in knowledge. Therefore he was not endowed with knowledge of all things.
 
-## Answer
+### Answer
 
 On the contrary, Man named the animals (Gn. 2:20). But names should be adapted to the nature of things. Therefore Adam knew the animals' natures; and in like manner he was possessed of the knowledge of all other things.
 
@@ -75,16 +75,16 @@ I answer that, In the natural order, perfection comes before imperfection, as ac
 
 Now no one can instruct others unless he has knowledge, and so the first man was established by God in such a manner as to have knowledge of all those things for which man has a natural aptitude. And such are whatever are virtually contained in the first self-evident principles, that is, whatever truths man is naturally able to know. Moreover, in order to direct his own life and that of others, man needs to know not only those things which can be naturally known, but also things surpassing natural knowledge; because the life of man is directed to a supernatural end: just as it is necessary for us to know the truths of faith in order to direct our own lives. Wherefore the first man was endowed with such a knowledge of these supernatural truths as was necessary for the direction of human life in that state. But those things which cannot be known by merely human effort, and which are not necessary for the direction of human life, were not known by the first man; such as the thoughts of men, future contingent events, and some individual facts, as for instance the number of pebbles in a stream; and the like.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The first man had knowledge of all things by divinely infused species. Yet his knowledge was not different from ours; as the eyes which Christ gave to the man born blind were not different from those given by nature.
 
 Reply to Objection 2: To Adam, as being the first man, was due to a degree of perfection which was not due to other men, as is clear from what is above explained.
 
 Reply to Objection 3: Adam would have advanced in natural knowledge, not in the number of things known, but in the manner of knowing; because what he knew speculatively he would subsequently have known by experience. But as regards supernatural knowledge, he would also have advanced as regards the number of things known, by further revelation; as the angels advance by further enlightenment. Moreover there is no comparison between advance in knowledge and advance in merit; since one man cannot be a principle of merit to another, although he can be to another a principle of knowledge.
-# Whether Man In His First State Could Be Deceived?
+## Whether Man In His First State Could Be Deceived?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man in his primitive state could have been deceived. For the Apostle says (1 Tim. 2:14) that "the woman being seduced was in the transgression."
 
@@ -96,7 +96,7 @@ Objection 4: Further, Augustine says (Gen. ad lit. xii, 2) that, in sleep the so
 
 Objection 5: Further, the first man would have been ignorant of other men's thoughts, and of future contingent events, as stated above [794](A[3]). So if anyone had told him what was false about these things, he would have been deceived.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Lib. Arb. iii, 18): "To regard what is true as false, is not natural to man as created; but is a punishment of man condemned."
 
@@ -106,7 +106,7 @@ Such an opinion, however, is not fitting as regards the integrity of the primiti
 
 This is clear also from the very rectitude of the primitive state, by virtue of which, while the soul remained subject to God, the lower faculties in man were subject to the higher, and were no impediment to their action. And from what has preceded ([795]Q[85], A[6]), it is clear that as regards its proper object the intellect is ever true; and hence it is never deceived of itself; but whatever deception occurs must be ascribed to some lower faculty, such as the imagination or the like. Hence we see that when the natural power of judgment is free we are not deceived by such images, but only when it is not free, as is the case in sleep. Therefore it is clear that the rectitude of the primitive state was incompatible with deception of the intellect.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Though the woman was deceived before she sinned in deed, still it was not till she had already sinned by interior pride. For Augustine says (Gen. ad lit. xi, 30) that "the woman could not have believed the words of the serpent, had she not already acquiesced in the love of her own power, and in a presumption of self-conceit."
 

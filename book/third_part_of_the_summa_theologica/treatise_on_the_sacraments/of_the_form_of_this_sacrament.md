@@ -7,9 +7,9 @@ We must now consider the form of this sacrament; concerning which there are six 
 (4) Of the power of each form?
 (5) Of the truth of the expression?
 (6) Of the comparison of the one form with the other?
-# Whether This Is The Form Of This Sacrament: "This Is My Body," And "This Is The Chalice Of My Blood"?
+## Whether This Is The Form Of This Sacrament: "This Is My Body," And "This Is The Chalice Of My Blood"?
 
-## Objections
+### Objections
 
 Objection 1: It seems that this is not the form of this sacrament: "This is My body," and, "This is the chalice of My blood." Because those words seem to belong to the form of this sacrament, wherewith Christ consecrated His body and blood. But Christ first blessed the bread which He took, and said afterwards: "Take ye and eat; this is My body" (Mat. 26:26). Therefore the whole of this seems to belong to the form of this sacrament: and the same reason holds good of the words which go with the consecration of the blood.
 
@@ -19,13 +19,13 @@ Objection 3: Further, in the form of Baptism both the minister and his act are e
 
 Objection 4: Further, the form of the sacrament suffices for its perfection; hence the sacrament of Baptism can be performed sometimes by pronouncing the words of the form only, omitting all the others. Therefore, if the aforesaid words be the form of this sacrament, it would seem as if this sacrament could be performed sometimes by uttering those words alone, while leaving out all the others which are said in the mass; yet this seems to be false, because, were the other words to be passed over, the said words would be taken as spoken in the person of the priest saying them, whereas the bread and wine are not changed into his body and blood. Consequently, the aforesaid words are not the form of this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Sacram. iv): "The consecration is accomplished by the words and expressions of the Lord Jesus. Because, by all the other words spoken, praise is rendered to God, prayer is put up for the people, for kings, and others; but when the time comes for perfecting the sacrament, the priest uses no longer his own words, but the words of Christ. Therefore, it is Christ's words that perfect this sacrament."
 
 I answer that, This sacrament differs from the other sacraments in two respects. First of all, in this, that this sacrament is accomplished by the consecration of the matter, while the rest are perfected in the use of the consecrated matter. Secondly, because in the other sacraments the consecration of the matter consists only in a blessing, from which the matter consecrated derives instrumentally a spiritual power, which through the priest who is an animated instrument, can pass on to inanimate instruments. But in this sacrament the consecration of the matter consists in the miraculous change of the substance, which can only be done by God; hence the minister in performing this sacrament has no other act save the pronouncing of the words. And because the form should suit the thing, therefore the form of this sacrament differs from the forms of the other sacraments in two respects. First, because the form of the other sacraments implies the use of the matter, as for instance, baptizing, or signing; but the form of this sacrament implies merely the consecration of the matter, which consists in transubstantiation, as when it is said, "This is My body," or, "This is the chalice of My blood." Secondly, because the forms of the other sacraments are pronounced in the person of the minister, whether by way of exercising an act, as when it is said, "I baptize thee," or "I confirm thee," etc.; or by way of command, as when it is said in the sacrament of order, "Take the power," etc.; or by way of entreaty, as when in the sacrament of Extreme Unction it is said, "By this anointing and our intercession," etc. But the form of this sacrament is pronounced as if Christ were speaking in person, so that it is given to be understood that the minister does nothing in perfecting this sacrament, except to pronounce the words of Christ.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There are many opinions on this matter. Some have said that Christ, Who had power of excellence in the sacraments, performed this sacrament without using any form of words, and that afterwards He pronounced the words under which others were to consecrate thereafter. And the words of Pope Innocent III seem to convey the same sense (De Sacr. Alt. Myst. iv), where he says: "In good sooth it can be said that Christ accomplished this sacrament by His Divine power, and subsequently expressed the form under which those who came after were to consecrate." But in opposition to this view are the words of the Gospel in which it is said that Christ "blessed," and this blessing was effected by certain words. Accordingly those words of Innocent are to be considered as expressing an opinion, rather than determining the point.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: In these words, "Take ye and eat," the use of the consecra
 Reply to Objection 3: In the sacrament of Baptism the minister exercises an act regarding the use of the matter, which is of the essence of the sacrament: such is not the case in this sacrament; hence there is no parallel.
 
 Reply to Objection 4: Some have contended that this sacrament cannot be accomplished by uttering the aforesaid words, while leaving out the rest, especially the words in the Canon of the Mass. But that this is false can be seen both from Ambrose's words quoted above, as well as from the fact that the Canon of the Mass is not the same in all places or times, but various portions have been introduced by various people.
-# Whether This Is The Proper Form For The Consecration Of The Bread: "This Is My Body"?
+## Whether This Is The Proper Form For The Consecration Of The Bread: "This Is My Body"?
 
-## Objections
+### Objections
 
 Objection 1: It seems that this is not the proper form of this sacrament: "This is My body." For the effect of a sacrament ought to be expressed in its form. But the effect of the consecration of the bread is the change of the substance of the bread into the body of Christ, and this is better expressed by the word "becomes" than by "is." Therefore, in the form of the consecration we ought to say: "This becomes My body."
 
@@ -48,7 +48,7 @@ Objection 4: Further, just as the term of the change is determinate in nature, b
 
 Objection 5: Further, nothing ought to be inserted in the form except what is substantial to it. Consequently, the conjunction "for" is improperly added in some books, since it does not belong to the substance of the form.
 
-## Answer
+### Answer
 
 On the contrary, our Lord used this form in consecrating, as is evident from Mat. 26:26.
 
@@ -58,7 +58,7 @@ Now the conversion can be considered in two ways: first, in "becoming," secondly
 
 And since the conversion is expressed in this form as in "being," it is necessary for the extremes of the conversion to be signified as they exist in the fact of conversion. But then the term "whereunto" has the proper nature of its own substance; whereas the term "whence" does not remain in its own substance, but only as to the accidents whereby it comes under the senses, and can be determined in relation to the senses. Hence the term "whence" of the conversion is conveniently expressed by the demonstrative pronoun, relative to the sensible accidents which continue; but the term "whereunto" is expressed by the noun signifying the nature of the thing which terminates the conversion, and this is Christ's entire body, and not merely His flesh; as was said above ([4591]Q[76], A[1], ad 2). Hence this form is most appropriate: "This is My body."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The ultimate effect of this conversion is not a "becoming" but a "being," as stated above, and consequently prominence should be given to this in the form.
 
@@ -69,9 +69,9 @@ Reply to Objection 3: The term "whence" does not retain the nature of its substa
 Reply to Objection 4: The pronoun "My," which implicitly points to the chief person, i.e. the person of the speaker, sufficiently indicates Christ's person, in Whose person these words are uttered, as stated above [4592](A[1]).
 
 Reply to Objection 5: The conjunction "for" is set in this form according to the custom of the Roman Church, who derived it from Peter the Apostle; and this on account of the sequence with the words preceding: and therefore it is not part of the form, just as the words preceding the form are not.
-# Whether This Is The Proper Form For The Consecration Of The Wine: "This Is The Chalice Of My Blood," Etc.?
+## Whether This Is The Proper Form For The Consecration Of The Wine: "This Is The Chalice Of My Blood," Etc.?
 
-## Objections
+### Objections
 
 Objection 1: It seems that this is not the proper form for the consecration of the wine. "This is the chalice of My blood, of the New and Eternal Testament, the Mystery of Faith, which shall be shed for you and for many unto the forgiveness of sins." For as the bread is changed by the power of consecration into Christ's body, so is the wine changed into Christ's blood, as is clear from what was said above ([4593]Q[76], AA[1],2,3). But in the form of the consecration of the bread, the body of Christ is expressly mentioned, without any addition. Therefore in this form the blood of Christ is improperly expressed in the oblique case, and the chalice in the nominative, when it is said: "This is the chalice of My blood."
 
@@ -91,7 +91,7 @@ Objection 8: Further, as was already observed ([4595]Q[48], A[2];[4596] Q[49], A
 
 Objection 9: Further, the words whereby this sacrament is consecrated draw their efficacy from Christ's institution. But no Evangelist narrates that Christ spoke all these words. Therefore this is not an appropriate form for the consecration of the wine.
 
-## Answer
+### Answer
 
 On the contrary, The Church, instructed by the apostles, uses this form.
 
@@ -101,7 +101,7 @@ And on this account others say more accurately that all the words which follow a
 
 Consequently it must be said that all the aforesaid words belong to the substance of the form; but that by the first words, "This is the chalice of My blood," the change of the wine into blood is denoted, as explained above [4597](A[2]) in the form for the consecration of the bread; but by the words which come after is shown the power of the blood shed in the Passion, which power works in this sacrament, and is ordained for three purposes. First and principally for securing our eternal heritage, according to Heb. 10:19: "Having confidence in the entering into the holies by the blood of Christ"; and in order to denote this, we say, "of the New and Eternal Testament." Secondly, for justifying by grace, which is by faith according to Rom. 3:25,26: "Whom God hath proposed to be a propitiation, through faith in His blood . . . that He Himself may be just, and the justifier of him who is of the faith of Jesus Christ": and on this account we add, "The Mystery of Faith." Thirdly, for removing sins which are the impediments to both of these things, according to Heb. 9:14: "The blood of Christ . . . shall cleanse our conscience from dead works," that is, from sins; and on this account, we say, "which shall be shed for you and for many unto the forgiveness of sins."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The expression "This is the chalice of My blood" is a figure of speech, which can be understood in two ways. First, as a figure of metonymy; because the container is put for the contained, so that the meaning is: "This is My blood contained in the chalice"; of which mention is now made, because Christ's blood is consecrated in this sacrament, inasmuch as it is the drink of the faithful, which is not implied under the notion of blood; consequently this had to be denoted by the vessel adapted for such usage.
 
@@ -120,9 +120,9 @@ Reply to Objection 7: As stated above (ad 2), the blood consecrated apart repres
 Reply to Objection 8: The blood of Christ's Passion has its efficacy not merely in the elect among the Jews, to whom the blood of the Old Testament was exhibited, but also in the Gentiles; nor only in priests who consecrate this sacrament, and in those others who partake of it; but likewise in those for whom it is offered. And therefore He says expressly, "for you," the Jews, "and for many," namely the Gentiles; or, "for you" who eat of it, and "for many," for whom it is offered.
 
 Reply to Objection 9: The Evangelists did not intend to hand down the forms of the sacraments, which in the primitive Church had to be kept concealed, as Dionysius observes at the close of his book on the ecclesiastical hierarchy; their object was to write the story of Christ. Nevertheless nearly all these words can be culled from various passages of the Scriptures. Because the words, "This is the chalice," are found in Lk. 22:20, and 1 Cor. 11:25, while Matthew says in chapter 26:28: "This is My blood of the New Testament, which shall be shed for many unto the remission of sins." The words added, namely, "eternal" and "mystery of faith," were handed down to the Church by the apostles, who received them from our Lord, according to 1 Cor. 11:23: "I have received of the Lord that which also I delivered unto you."
-# Whether In The Aforesaid Words Of The Forms There Be Any Created Power Which Causes The Consecration?
+## Whether In The Aforesaid Words Of The Forms There Be Any Created Power Which Causes The Consecration?
 
-## Objections
+### Objections
 
 Objection 1: It seems that in the aforesaid words of the forms there is no created power which causes the consecration. Because Damascene says (De Fide Orth. iv): "The change of the bread into Christ's body is caused solely by the power of the Holy Ghost." But the power of the Holy Ghost is uncreated. Therefore this sacrament is not caused by any created power of those words.
 
@@ -130,22 +130,22 @@ Objection 2: Further, miraculous works are wrought not by any created power, but
 
 Objection 3: Further, the aforesaid words are not simple, but composed of many; nor are they uttered simultaneously, but successively. But, as stated above ([4600]Q[75], A[7]), this change is wrought instantaneously. hence it must be done by a simple power. Therefore it is not effected by the power of those words.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Sacram. iv): "If there be such might in the word of the Lord Jesus that things non-existent came into being, how much more efficacious is it to make things existing to continue, and to be changed into something else? And so, what was bread before consecration is now the body of Christ after consecration, because Christ's word changes a creature into something different."
 
 I answer that, Some have maintained that neither in the above words is there any created power for causing the transubstantiation, nor in the other forms of the sacraments, or even in the sacraments themselves, for producing the sacramental effects. This, as was shown above ([4601]Q[62], A[1] ), is both contrary to the teachings of the saints, and detracts from the dignity of the sacraments of the New Law. Hence, since this sacrament is of greater worth than the others, as stated above ([4602]Q[65], A[3]), the result is that there is in the words of the form of this sacrament a created power which causes the change to be wrought in it: instrumental, however, as in the other sacraments, as stated above ([4603]Q[62], AA[3],4). For since these words are uttered in the person of Christ, it is from His command that they receive their instrumental power from Him, just as His other deeds and sayings derive their salutary power instrumentally, as was observed above ([4604]Q[48], A[6];[4605] Q[56], A[1], ad 3).
 
-## Replies
+### Replies
 
 Reply to Objection 1: When the bread is said to be changed into Christ's body solely by the power of the Holy Ghost, the instrumental power which lies in the form of this sacrament is not excluded: just as when we say that the smith alone makes a knife we do not deny the power of the hammer.
 
 Reply to Objection 2: No creature can work miracles as the chief agent. yet it can do so instrumentally, just as the touch of Christ's hand healed the leper. And in this fashion Christ's words change the bread into His body. But in Christ's conception, whereby His body was fashioned, it was impossible for anything derived from His body to have the instrumental power of forming that very body. Likewise in creation there was no term wherein the instrumental action of a creature could be received. Consequently there is no comparison.
 
 Reply to Objection 3: The aforesaid words, which work the consecration, operate sacramentally. Consequently, the converting power latent under the forms of these sacraments follows the meaning, which is terminated in the uttering of the last word. And therefore the aforesaid words have this power in the last instant of their being uttered, taken in conjunction with those uttered before. And this power is simple by reason of the thing signified, although there be composition in the words uttered outwardly.
-# Whether The Aforesaid Expressions Are True?
+## Whether The Aforesaid Expressions Are True?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the aforesaid expressions are not true. Because when we say: "This is My body," the word "this" designates a substance. But according to what was said above ([4606]AA[1],4, ad 3;[4607] Q[75], AA[2],7), when the pronoun "this" is spoken, the substance of the bread is still there, because the transubstantiation takes place in the last instant of pronouncing the words. But it is false to say: "Bread is Christ's body." Consequently this expression, "This is My body," is false.
 
@@ -153,7 +153,7 @@ Objection 2: Further, the pronoun "this" appeals to the senses. But the sensible
 
 Objection 3: Further, as was observed above (A[4], ad 3), these words, by their signification, effect the change of the bread into the body of Christ. But an effective cause is understood as preceding its effect. Therefore the meaning of these words is understood as preceding the change of the bread into the body of Christ. But previous to the change this expression, "This is My body," is false. Therefore the expression is to be judged as false simply; and the same reason holds good of the other phrase: "This is the chalice of My blood," etc.
 
-## Answer
+### Answer
 
 On the contrary, These words are pronounced in the person of Christ, Who says of Himself (Jn. 14:6): "I am the truth."
 
@@ -167,16 +167,16 @@ Consequently, others have said that the word "this" appeals to the senses; not a
 
 Consequently, then, it remains to be said, as stated above [4609](A[4]), that this sentence possesses the power of effecting the conversion of the bread into the body of Christ. And therefore it is compared to other sentences, which have power only of signifying and not of producing, as the concept of the practical intellect, which is productive of the thing, is compared to the concept of our speculative intellect which is drawn from things. because "words are signs of concepts," as the Philosopher says (Peri Herm. i). And therefore as the concept of the practical intellect does not presuppose the thing understood, but makes it, so the truth of this expression does not presuppose the thing signified, but makes it; for such is the relation of God's word to the things made by the Word. Now this change takes place not successively, but in an instant, as stated above (Q[77], A[7]). Consequently one must understand the aforesaid expression with reference to the last instant of the words being spoken, yet not so that the subject may be understood to have stood for that which is the term of the conversion; viz. that the body of Christ is the body of Christ; nor again that the subject be understood to stand for that which it was before the conversion, namely, the bread. but for that which is commonly related to both, i.e. that which is contained in general under those species. For these words do not make the body of Christ to be the body of Christ, nor do they make the bread to be the body of Christ; but what was contained under those species, and was formerly bread, they make to be the body of Christ. And therefore expressly our Lord did not say: "This bread is My body," which would be the meaning of the second opinion; nor "This My body is My body," which would be the meaning of the third opinion: but in general: "This is My body," assigning no noun on the part of the subject, but only a pronoun, which signifies substance in common, without quality, that is, without a determinate form.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The term "this" points to a substance, yet without determining its proper nature, as stated above.
 
 Reply to Objection 2: The pronoun "this" does not indicate the accidents, but the substance underlying the accidents, which at first was bread, and is afterwards the body of Christ, which body, although not informed by those accidents, is yet contained under them.
 
 Reply to Objection 3: The meaning of this expression is, in the order of nature, understood before the thing signified, just as a cause is naturally prior to the effect; but not in order of time, because this cause has its effect with it at the same time, and this suffices for the truth of the expression.
-# Whether The Form Of The Consecration Of The Bread Accomplishes Its Effect Before The Form Of The Consecration Of The Wine Be Completed?
+## Whether The Form Of The Consecration Of The Bread Accomplishes Its Effect Before The Form Of The Consecration Of The Wine Be Completed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the form of the consecration of the bread does not accomplish its effect until the form for the consecration of the wine be completed. For, as Christ's body begins to be in this sacrament by the consecration of the bread, so does His blood come to be there by the consecration of the wine. If, then, the words for consecrating the bread were to produce their effect before the consecration of the wine, it would follow that Christ's body would be present in this sacrament without the blood, which is improper.
 
@@ -184,7 +184,7 @@ Objection 2: Further, one sacrament has one completion: hence although there be 
 
 Objection 3: Further, there are several words in the form for consecrating the bread, the first of which do not secure their effect until the last be uttered, as stated above (A[4], ad 3). Therefore, for the same reason, neither do the words for the consecration of Christ's body produce their effect, until the words for consecrating Christ's blood are spoken.
 
-## Answer
+### Answer
 
 On the contrary, Directly the words are uttered for consecrating the bread, the consecrated host is shown to the people to be adored, which would not be done if Christ's body were not there, for that would be an act of idolatry. Therefore the consecrating words of the bread produce their effect before. the words are spoken for consecrating the wine.
 
@@ -194,7 +194,7 @@ But this cannot stand, because, as stated above (A[5], ad 3), for the truth of t
 
 Hence it must be said that the first form does not await the second in its action, but has its effect on the instant.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is on this account that they who maintained the above opinion seem to have erred. Hence it must be understood that directly the consecration of the bread is complete, the body of Christ is indeed present by the power of the sacrament, and the blood by real concomitance; but afterwards by the consecration of the wine, conversely, the blood of Christ is there by the power of the sacrament, and the body by real concomitance, so that the entire Christ is under either species, as stated above ([4611]Q[76], A[2]).
 

@@ -5,9 +5,9 @@ We must now consider the subject of original sin, under which head there are fou
 (2) If it be the soul, whether this be through its essence, or through its powers?
 (3) Whether the will prior to the other powers is the subject of original sin?
 (4) Whether certain powers of the soul are specially infected, viz. the generative power, the concupiscible part, and the sense of touch?
-# Whether Original Sin Is More In The Flesh Than In The Soul?
+## Whether Original Sin Is More In The Flesh Than In The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that original sin is more in the flesh than in the soul. Because the rebellion of the flesh against the mind arises from the corruption of original sin. Now the root of this rebellion is seated in the flesh: for the Apostle says (Rom. 7:23): "I see another law in my members fighting against the law of my mind." Therefore original sin is seated chiefly in the flesh.
 
@@ -19,7 +19,7 @@ Objection 4: Further, the rational soul created by God is infused into the body.
 
 Objection 5: Further, no wise man pours a precious liquid into a vessel, knowing that the vessel will corrupt the liquid. But the rational soul is more precious than any liquid. If therefore the soul, by being united with the body, could be corrupted with the infection of original sin, God, Who is wisdom itself, would never infuse the soul into such a body. And yet He does; wherefore it is not corrupted by the flesh. Therefore original sin is not in the soul but in the flesh.
 
-## Answer
+### Answer
 
 On the contrary, The same is the subject of a virtue and of the vice or sin contrary to that virtue. But the flesh cannot be the subject of virtue: for the Apostle says (Rom. 7:18): "I know that there dwelleth not in me, that is to say, in my flesh, that which is good." Therefore the flesh cannot be the subject of original sin, but only the soul.
 
@@ -29,7 +29,7 @@ The reason for this is that, as stated above ([1843]Q[81], A[1]), original sin i
 
 Accordingly, since the soul can be the subject of guilt, while the flesh, of itself, cannot be the subject of guilt; whatever accrues to the soul from the corruption of the first sin, has the character of guilt, while whatever accrues to the flesh, has the character, not of guilt but of punishment: so that, therefore, the soul is the subject of original sin, and not the flesh.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says (Retract. i, 27) [*Cf. QQ. lxxxiii, qu. 66], the Apostle is speaking, in that passage, of man already redeemed, who is delivered from guilt, but is still liable to punishment, by reason of which sin is stated to dwell "in the flesh." Consequently it follows that the flesh is the subject, not of guilt, but of punishment.
 
@@ -40,9 +40,9 @@ Reply to Objection 3: The soul of any individual man was in Adam, in respect of 
 Reply to Objection 4: The corruption of original sin is nowise caused by God, but by the sin alone of our first parent through carnal generation. And so, since creation implies a relation in the soul to God alone, it cannot be said that the soul is tainted through being created. On the other hand, infusion implies relation both to God infusing and to the flesh into which the soul is infused. And so, with regard to God infusing, it cannot be said that the soul is stained through being infused; but only with regard to the body into which it is infused.
 
 Reply to Objection 5: The common good takes precedence of private good. Wherefore God, according to His wisdom, does not overlook the general order of things (which is that such a soul be infused into such a body), lest this soul contract a singular corruption: all the more that the nature of the soul demands that it should not exist prior to its infusion into the body, as stated in the [1844]FP, Q[90], A[4]; [1845]FP, Q[118], A[3]. And it is better for the soul to be thus, according to its nature, than not to be at all, especially since it can avoid damnation, by means of grace.
-# Whether Original Sin Is In The Essence Of The Soul Rather Than In The Powers?
+## Whether Original Sin Is In The Essence Of The Soul Rather Than In The Powers?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that original sin is not in the essence of the soul rather than in the powers. For the soul is naturally apt to be the subject of sin, in respect of those parts which can be moved by the will. Now the soul is moved by the will, not as to its essence but only as to the powers. Therefore original sin is in the soul, not according to its essence, but only according to the powers.
 
@@ -52,13 +52,13 @@ Objection 3: Further, just as original sin is derived from the soul as from the 
 
 Objection 4: Further, original sin is said to be concupiscence, as stated ([1846]Q[82], A[3]). But concupiscence is in the powers of the soul. Therefore original sin is also.
 
-## Answer
+### Answer
 
 On the contrary, Original sin is called the sin of nature, as stated above (Q[81], A[1]). Now the soul is the form and nature of the body, in respect of its essence and not in respect of its powers, as stated in the [1847]FP, Q[76], A[6]. Therefore the soul is the subject of original sin chiefly in respect of its essence.
 
 I answer that, The subject of a sin is chiefly that part of the soul to which the motive cause of that sin primarily pertains: thus if the motive cause of a sin is sensual pleasure, which regards the concupiscible power through being its proper object, it follows that the concupiscible power is the proper subject of that sin. Now it is evident that original sin is caused through our origin. Consequently that part of the soul which is first reached by man's origin, is the primary subject of original sin. Now the origin reaches the soul as the term of generation, according as it is the form of the body: and this belongs to the soul in respect of its essence, as was proved in the [1848]FP, Q[76], A[6]. Therefore the soul, in respect of its essence, is the primary subject of original sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the motion of the will of an individual reaches to the soul's powers and not to its essence, so the motion of the will of the first generator, through the channel of generation, reaches first of all to the essence of the soul, as stated.
 
@@ -67,9 +67,9 @@ Reply to Objection 2: Even original justice pertained radically to the essence o
 Reply to Objection 3: The body is related to the soul as matter to form, which though it comes second in order of generation, nevertheless comes first in the order of perfection and nature. But the essence of the soul is related to the powers, as a subject to its proper accidents, which follow their subject both in the order of generation and in that of perfection. Consequently the comparison fails.
 
 Reply to Objection 4: Concupiscence, in relation to original sin, holds the position of matter and effect, as stated above ([1849]Q[82], A[3]).
-# Whether Original Sin Infects The Will Before The Other Powers?
+## Whether Original Sin Infects The Will Before The Other Powers?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that original sin does not infect the will before the other powers. For every sin belongs chiefly to that power by whose act it was caused. Now original sin is caused by an act of the generative power. Therefore it seems to belong to the generative power more than to the others.
 
@@ -77,22 +77,22 @@ Objection 2: Further, original sin is transmitted through the carnal semen. But 
 
 Objection 3: Further, the intellect precedes the will, for the object of the will is only the good understood. If therefore original sin infects all the powers of the soul, it seems that it must first of all infect the intellect, as preceding the others.
 
-## Answer
+### Answer
 
 On the contrary, Original justice has a prior relation to the will, because it is "rectitude of the will," as Anselm states (De Concep. Virg. iii). Therefore original sin, which is opposed to it, also has a prior relation to the will.
 
 I answer that, Two things must be considered in the infection of original sin. First, its inherence to its subject; and in this respect it regards first the essence of the soul, as stated above [1850](A[2]). In the second place we must consider its inclination to act; and in this way it regards the powers of the soul. It must therefore regard first of all that power in which is seated the first inclination to commit a sin, and this is the will, as stated above (Q[74], AA[1],2). Therefore original sin regards first of all the will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Original sin, in man, is not caused by the generative power of the child, but by the act of the parental generative power. Consequently, it does not follow that the child's generative power is the subject of original sin.
 
 Reply to Objection 2: Original sin spreads in two ways; from the flesh to the soul, and from the essence of the soul to the powers. The former follows the order of generation, the latter follows the order of perfection. Therefore, although the other, viz. the sensitive powers, are more akin to the flesh, yet, since the will, being the higher power, is more akin to the essence of the soul, the infection of original sin reaches it first.
 
 Reply to Objection 3: The intellect precedes the will, in one way, by proposing its object to it. In another way, the will precedes the intellect, in the order of motion to act, which motion pertains to sin.
-# Whether The Aforesaid Powers Are More Infected Than The Others?
+## Whether The Aforesaid Powers Are More Infected Than The Others?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the aforesaid powers are not more infected than the others. For the infection of original sin seems to pertain more to that part of the soul which can be first the subject of sin. Now this is the rational part, and chiefly the will. Therefore that power is most infected by original sin.
 
@@ -100,13 +100,13 @@ Objection 2: Further, no power of the soul is infected by guilt, except in so fa
 
 Objection 3: Further, of all the senses the sight is the most spiritual and the nearest to reason, in so far "as it shows us how a number of things differ" (Metaph. i). But the infection of guilt is first of all in the reason. Therefore the sight is more infected than touch.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xiv, 16, seqq., 24) that the infection of original sin is most apparent in the movements of the members of generation, which are not subject to reason. Now those members serve the generative power in the mingling of sexes, wherein there is the delectation of touch, which is the most powerful incentive to concupiscence. Therefore the infection of original sin regards these three chiefly, viz. the generative power, the concupiscible faculty and the sense of touch.
 
 I answer that, Those corruptions especially are said to be infectious, which are of such a nature as to be transmitted from one subject to another: hence contagious diseases, such as leprosy and murrain and the like, are said to be infectious. Now the corruption of original sin is transmitted by the act of generation, as stated above ([1851]Q[81], A[1]). Therefore the powers which concur in this act, are chiefly said to be infected. Now this act serves the generative power, in as much as it is directed to generation; and it includes delectation of the touch, which is the most powerful object of the concupiscible faculty. Consequently, while all the parts of the soul are said to be corrupted by original sin, these three are said specially to be corrupted and infected.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Original sin, in so far as it inclines to actual sins, belongs chiefly to the will, as stated above [1852](A[3]). But in so far as it is transmitted to the offspring, it belongs to the aforesaid powers proximately, and to the will, remotely.
 

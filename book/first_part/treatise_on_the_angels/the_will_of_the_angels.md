@@ -5,9 +5,9 @@ In the next place we must treat of things concerning the will of the angels. In 
 (2) Whether the will of the angel is his nature, or his intellect?
 (3) Is there free-will in the angels?
 (4) Is there an irascible and a concupiscible appetite in them?
-# Whether There Is Will In The Angels?
+## Whether There Is Will In The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no will in the angels. For as the Philosopher says (De Anima iii, text. 42), "The will is in the reason." But there is no reason in the angels, but something higher than reason. Therefore there is no will in the angels, but something higher than the will.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the will is comprised under the appetite, as is evident fr
 
 Objection 3: Further, the Philosopher says (De Anima ii, text. 54) that the will is a mover which is moved; for it is moved by the appetible object understood. Now the angels are immovable, since they are incorporeal. Therefore there is no will in the angels.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. x, 11,12) that the image of the Trinity is found in the soul according to memory, understanding, and will. But God's image is found not only in the soul of man, but also in the angelic mind, since it also is capable of knowing God. Therefore there is will in the angels.
 
 I answer that, We must necessarily place a will in the angels. In evidence thereof, it must be borne in mind that, since all things flow from the Divine will, all things in their own way are inclined by appetite towards good, but in different ways. Some are inclined to good by their natural inclination, without knowledge, as plants and inanimate bodies. Such inclination towards good is called "a natural appetite." Others, again, are inclined towards good, but with some knowledge; not that they know the aspect of goodness, but that they apprehend some particular good; as in the sense, which knows the sweet, the white, and so on. The inclination which follows this apprehension is called "a sensitive appetite." Other things, again, have an inclination towards good, but with a knowledge whereby they perceive the aspect of goodness; this belongs to the intellect. This is most perfectly inclined towards what is good; not, indeed, as if it were merely guided by another towards some particular good only, like things devoid of knowledge, nor towards some particular good only, as things which have only sensitive knowledge, but as inclined towards good in general. Such inclination is termed "will." Accordingly, since the angels by their intellect know the universal aspect of goodness, it is manifest that there is a will in them.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Reason surpasses sense in a different way from that in which intellect surpasses reason. Reason surpasses sense according to the diversity of the objects known; for sense judges of particular objects, while reason judges of universals. Therefore there must be one appetite tending towards good in the abstract, which appetite belongs to reason; and another with a tendency towards particular good, which appetite belongs to sense. But intellect and reason differ as to their manner of knowing; because the intellect knows by simple intuition, while reason knows by a process of discursion from one thing to another. Nevertheless by such discursion reason comes to know what intellect learns without it, namely, the universal. Consequently the object presented to the appetitive faculty on the part of reason and on the part of intellect is the same. Therefore in the angels, who are purely intellectual, there is no appetite higher than the will.
 
 Reply to Objection 2: Although the name of the appetitive part is derived from seeking things not yet possessed, yet the appetitive part reaches out not to these things only, but also to many other things; thus the name of a stone [lapis] is derived from injuring the foot [laesione pedis], though not this alone belongs to a stone. In the same way the irascible faculty is so denominated from anger [ira]; though at the same time there are several other passions in it, as hope, daring, and the rest.
 
 Reply to Objection 3: The will is called a mover which is moved, according as to will and to understand are termed movements of a kind; and there is nothing to prevent movement of this kind from existing in the angels, since such movement is the act of a perfect agent, as stated in De Anima iii, text. 28.
-# Whether In The Angels The Will Differs From The Intellect?
+## Whether In The Angels The Will Differs From The Intellect?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the angel the will does not differ from the intellect and from the nature. For an angel is more simple than a natural body. But a natural body is inclined through its form towards its end, which is its good. Therefore much more so is the angel. Now the angel's form is either the nature in which he subsists, or else it is some species within his intellect. Therefore the angel inclines towards the good through his own nature, or through an intelligible species. But such inclination towards the good belongs to the will. Therefore the will of the angel does not differ from his nature or his intellect.
 
@@ -38,7 +38,7 @@ Objection 2: Further, the object of the intellect is the true, while the object 
 
 Objection 3: Further, the distinction of common and proper does not differentiate the faculties; for the same power of sight perceives color and whiteness. But the good and the true seem to be mutually related as common to particular; for the true is a particular good, to wit, of the intellect. Therefore the will, whose object is the good, does not differ from the intellect, whose object is the true.
 
-## Answer
+### Answer
 
 On the contrary, The will in the angels regards good things only, while their intellect regards both good and bad things, for they know both. Therefore the will of the angels is distinct from their intellect.
 
@@ -48,16 +48,16 @@ Now the will has a natural tendency towards good. Consequently there alone are e
 
 In like manner neither can the will be the same thing as the intellect of angel or man. Because knowledge comes about in so far as the object known is within the knower; consequently the intellect extends itself to what is outside it, according as what, in its essence, is outside it is disposed to be somehow within it. On the other hand, the will goes out to what is beyond it, according as by a kind of inclination it tends, in a manner, to what is outside it. Now it belongs to one faculty to have within itself something which is outside it, and to another faculty to tend to what is outside it. Consequently intellect and will must necessarily be different powers in every creature. It is not so with God, for He has within Himself universal being, and the universal good. Therefore both intellect and will are His nature.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A natural body is moved to its own being by its substantial form: while it is inclined to something outside by something additional, as has been said.
 
 Reply to Objection 2: Faculties are not differentiated by any material difference of their objects, but according to their formal distinction, which is taken from the nature of the object as such. Consequently the diversity derived from the notion of good and true suffices for the difference of intellect from will.
 
 Reply to Objection 3: Because the good and the true are really convertible, it follows that the good is apprehended by the intellect as something true; while the true is desired by the will as something good. Nevertheless, the diversity of their aspects is sufficient for diversifying the faculties, as was said above (ad 2).
-# Whether There Is Free-will In The Angels?
+## Whether There Is Free-will In The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no free-will in the angels. For the act of free-will is to choose. But there can be no choice with the angels, because choice is "the desire of something after taking counsel," while counsel is "a kind of inquiry," as stated in Ethic. iii, 3. But the angels' knowledge is not the result of inquiring, for this belongs to the discursiveness of reason. Therefore it appears that there is no free-will in the angels.
 
@@ -65,22 +65,22 @@ Objection 2: Further, free-will implies indifference to alternatives. But in the
 
 Objection 3: Further, the natural endowments of the angels belong to them according to degrees of more or less; because in the higher angels the intellectual nature is more perfect than in the lower. But the free-will does not admit of degrees. Therefore there is no free-will in them.
 
-## Answer
+### Answer
 
 On the contrary, Free-will is part of man's dignity. But the angels' dignity surpasses that of men. Therefore, since free-will is in men, with much more reason is it in the angels.
 
 I answer that, Some things there are which act, not from any previous judgment, but, as it were, moved and made to act by others; just as the arrow is directed to the target by the archer. Others act from some kind of judgment; but not from free-will, such as irrational animals; for the sheep flies from the wolf by a kind of judgment whereby it esteems it to be hurtful to itself: such a judgment is not a free one, but implanted by nature. Only an agent endowed with an intellect can act with a judgment which is free, in so far as it apprehends the common note of goodness; from which it can judge this or the other thing to be good. Consequently, wherever there is intellect, there is free-will. It is therefore manifest that just as there is intellect, so is there free-will in the angels, and in a higher degree of perfection than in man.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking of choice, as it is in man. As a man's estimate in speculative matters differs from an angel's in this, that the one needs not to inquire, while the other does so need; so is it in practical matters. Hence there is choice in the angels, yet not with the inquisitive deliberation of counsel, but by the sudden acceptance of truth.
 
 Reply to Objection 2: As was observed already [521](A[2]), knowledge is effected by the presence of the known within the knower. Now it is a mark of imperfection in anything not to have within it what it should naturally have. Consequently an angel would not be perfect in his nature, if his intellect were not determined to every truth which he can know naturally. But the act of the appetitive faculty comes of this, that the affection is directed to something outside. Yet the perfection of a thing does not come from everything to which it is inclined, but only from something which is higher than it. Therefore it does not argue imperfection in an angel if his will be not determined with regard to things beneath him; but it would argue imperfection in him, with he to be indeterminate to what is above him.
 
 Reply to Objection 3: Free-will exists in a nobler manner in the higher angels than it does in the lower, as also does the judgment of the intellect. Yet it is true that liberty, in so far as the removal of compulsion is considered, is not susceptible of greater and less degree; because privations and negations are not lessened nor increased directly of themselves; but only by their cause, or through the addition of some qualification.
-# Whether There Is An Irascible And A Concupiscible Appetite In The Angels?
+## Whether There Is An Irascible And A Concupiscible Appetite In The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is an irascible and a concupiscible appetite in the angels. For Dionysius says (Div. Nom. iv) that in the demons there is "unreasonable fury and wild concupiscence." But demons are of the same nature as angels; for sin has not altered their nature. Therefore there is an irascible and a concupiscible appetite in the angels.
 
@@ -88,7 +88,7 @@ Objection 2: Further, love and joy are in the concupiscible; while anger, hope, 
 
 Objection 3: Further, some virtues are said to reside in the irascible appetite and some in the concupiscible: thus charity and temperance appear to be in the concupiscible, while hope and fortitude are in the irascible. But these virtues are in the angels. Therefore there is both a concupiscible and an irascible appetite in the angels.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima iii, text. 42) that the irascible and concupiscible are in the sensitive part, which does not exist in angels. Consequently there is no irascible or concupiscible appetite in the angels.
 
@@ -96,7 +96,7 @@ I answer that, The intellective appetite is not divided into irascible and concu
 
 Now it is quite evident from what has been said [522](A[1]; [523]Q[16], A[1]), that the object of the intellective appetite, otherwise known as the will, is good according to the common aspect of goodness; nor can there be any appetite except of what is good. Hence, in the intellective part, the appetite is not divided according to the distinction of some particular good things, as the sensitive appetite is divided, which does not crave for what is good according to its common aspect, but for some particular good object. Accordingly, since there exists in the angels only an intellective appetite, their appetite is not distinguished into irascible and concupiscible, but remains undivided; and it is called the will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Fury and concupiscence are metaphorically said to be in the demons, as anger is sometimes attributed to God;---on account of the resemblance in the effect.
 

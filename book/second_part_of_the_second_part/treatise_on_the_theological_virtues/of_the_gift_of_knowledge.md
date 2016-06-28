@@ -5,9 +5,9 @@ We must now consider the gift of knowledge, under which head there are four poin
 (2) Whether it is about Divine things?
 (3) Whether it is speculative or practical?
 (4) Which beatitude responds to it?
-# Whether Knowledge Is A Gift?
+## Whether Knowledge Is A Gift?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that knowledge is not a gift. For the gifts of the Holy Ghost surpass the natural faculty. But knowledge implies an effect of natural reason: for the Philosopher says (Poster. i, 2) that a "demonstration is a syllogism which produces knowledge." Therefore knowledge is not a gift of the Holy Ghost.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the gifts of the Holy Ghost are common to all holy persons
 
 Objection 3: Further, the gifts are more perfect than the virtues, as stated above ([2375]FS, Q[68], A[8]). Therefore one gift suffices for the perfection of one virtue. Now the gift of understanding responds to the virtue of faith, as stated above (Q[8], A[2]). Therefore the gift of knowledge does not respond to that virtue, nor does it appear to which other virtue it can respond. Since, then, the gifts are perfections of virtues, as stated above ([2376]FS, Q[68], AA[1],2), it seems that knowledge is not a gift.
 
-## Answer
+### Answer
 
 On the contrary, Knowledge is reckoned among the seven gifts (Is. 11:2).
 
@@ -23,16 +23,16 @@ I answer that, Grace is more perfect than nature, and, therefore, does not fail 
 
 Accordingly, two things are requisite in order that the human intellect may perfectly assent to the truth of the faith: one of these is that he should have a sound grasp of the things that are proposed to be believed, and this pertains to the gift of understanding, as stated above ([2377]Q[8], A[6]): while the other is that he should have a sure and right judgment on them, so as to discern what is to be believed, from what is not to be believed, and for this the gift of knowledge is required.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Certitude of knowledge varies in various natures, according to the various conditions of each nature. Because man forms a sure judgment about a truth by the discursive process of his reason: and so human knowledge is acquired by means of demonstrative reasoning. On the other hand, in God, there is a sure judgment of truth, without any discursive process, by simple intuition, as was stated in the [2378]FP, Q[14], A[7]; wherefore God's knowledge is not discursive, or argumentative, but absolute and simple, to which that knowledge is likened which is a gift of the Holy Ghost, since it is a participated likeness thereof.
 
 Reply to Objection 2: A twofold knowledge may be had about matters of belief. One is the knowledge of what one ought to believe by discerning things to be believed from things not to be believe: in this way knowledge is a gift and is common to all holy persons. The other is a knowledge about matters of belief, whereby one knows not only what one ought to believe, but also how to make the faith known, how to induce others to believe, and confute those who deny the faith. This knowledge is numbered among the gratuitous graces, which are not given to all, but to some. Hence Augustine, after the words quoted, adds: "It is one thing for a man merely to know what he ought to believe, and another to know how to dispense what he believes to the godly, and to defend it against the ungodly."
 
 Reply to Objection 3: The gifts are more perfect than the moral and intellectual virtues; but they are not more perfect than the theological virtues; rather are all the gifts ordained to the perfection of the theological virtues, as to their end. Hence it is not unreasonable if several gifts are ordained to one theological virtue.
-# Whether The Gift Of Knowledge Is About Divine Things?
+## Whether The Gift Of Knowledge Is About Divine Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gift of knowledge is about Divine things. For Augustine says (De Trin. xiv, 1) that "knowledge begets, nourishes and strengthens faith." Now faith is about Divine things, because its object is the First Truth, as stated above ([2379]Q[1], A[1]). Therefore the gift of knowledge also is about Divine things.
 
@@ -40,7 +40,7 @@ Objection 2: Further, the gift of knowledge is more excellent than acquired know
 
 Objection 3: Further, according to Rom. 1:20, "the invisible things of God . . . are clearly seen, being understood by the things that are made." If therefore there is knowledge about created things, it seems that there is also knowledge of Divine things.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. xiv, 1): "The knowledge of Divine things may be properly called wisdom, and the knowledge of human affairs may properly receive the name of knowledge."
 
@@ -50,16 +50,16 @@ Now in those things where we find something most perfect, the common name of the
 
 Accordingly, since the word knowledge implies certitude of judgment as stated above [2380](A[1]), if this certitude of the judgment is derived from the highest cause, the knowledge has a special name, which is wisdom: for a wise man in any branch of knowledge is one who knows the highest cause of that kind of knowledge, and is able to judge of all matters by that cause: and a wise man "absolutely," is one who knows the cause which is absolutely highest, namely God. Hence the knowledge of Divine things is called "wisdom," while the knowledge of human things is called "knowledge," this being the common name denoting certitude of judgment, and appropriated to the judgment which is formed through second causes. Accordingly, if we take knowledge in this way, it is a distinct gift from the gift of wisdom, so that the gift of knowledge is only about human or created things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although matters of faith are Divine and eternal, yet faith itself is something temporal in the mind of the believer. Hence to know what one ought to believe, belongs to the gift of knowledge, but to know in themselves the very things we believe, by a kind of union with them, belongs to the gift of wisdom. Therefore the gift of wisdom corresponds more to charity which unites man's mind to God.
 
 Reply to Objection 2: This argument takes knowledge in the generic acceptation of the term: it is not thus that knowledge is a special gift, but according as it is restricted to judgments formed through created things.
 
 Reply to Objection 3: As stated above ([2381]Q[1], A[1]), every cognitive habit regards formally the mean through which things are known, and materially, the things that are known through the mean. And since that which is formal, is of most account, it follows that those sciences which draw conclusions about physical matter from mathematical principles, are reckoned rather among the mathematical sciences, though, as to their matter they have more in common with physical sciences: and for this reason it is stated in Phys. ii, 2 that they are more akin to physics. Accordingly, since man knows God through His creatures, this seems to pertain to "knowledge," to which it belongs formally, rather than to "wisdom," to which it belongs materially: and, conversely, when we judge of creatures according to Divine things, this pertains to "wisdom" rather than to "knowledge."
-# Whether The Gift Of Knowledge Is Practical Knowledge?
+## Whether The Gift Of Knowledge Is Practical Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the knowledge, which is numbered among the gifts, is practical knowledge. For Augustine says (De Trin. xii, 14) that "knowledge is concerned with the actions in which we make use of external things." But the knowledge which is concerned about actions is practical. Therefore the gift of knowledge is practical.
 
@@ -67,7 +67,7 @@ Objection 2: Further, Gregory says (Moral. i, 32): "Knowledge is nought if it ha
 
 Objection 3: Further, the gifts of the Holy Ghost are only in the righteous, as stated above (Q[9], A[5]). But speculative knowledge can be also in the unrighteous, according to James 4:17: "To him . . . who knoweth to do good, and doth it not, to him it is a sin." Therefore the gift of knowledge is not speculative but practical.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. i, 32): "Knowledge on her own day prepares a feast, because she overcomes the fast of ignorance in the mind." Now ignorance is not entirely removed, save by both kinds of knowledge, viz. speculative and practical. Therefore the gift of knowledge is both speculative and practical.
 
@@ -75,14 +75,14 @@ I answer that, As stated above (Q[9], A[8]), the gift of knowledge, like the gif
 
 The consequence is that the gift of knowledge also, primarily and principally indeed, regards speculation, in so far as man knows what he ought to hold by faith; yet, secondarily, it extends to works, since we are directed in our actions by the knowledge of matters of faith, and of conclusions drawn therefrom.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine is speaking of the gift of knowledge, in so far as it extends to works; for action is ascribed to knowledge, yet not action solely, nor primarily: and in this way it directs piety.
 
 Reply to Objection 3: As we have already stated ([2382]Q[8], A[5]) about the gift of understanding, not everyone who understands, has the gift of understanding, but only he that understands through a habit of grace: and so we must take note, with regard to the gift of knowledge, that they alone have the gift of knowledge, who judge aright about matters of faith and action, through the grace bestowed on them, so as never to wander from the straight path of justice. This is the knowledge of holy things, according to Wis. 10:10: "She conducted the just . . . through the right ways . . . and gave him the knowledge of holy things."
-# Whether The Third Beatitude, "Blessed Are They That Mourn," Etc. Corresponds To The Gift Of Knowledge?
+## Whether The Third Beatitude, "Blessed Are They That Mourn," Etc. Corresponds To The Gift Of Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the third beatitude, "Blessed are they that mourn," does not correspond to the gift of knowledge. For, even as evil is the cause of sorrow and grief, so is good the cause of joy. Now knowledge brings good to light rather than evil, since the latter is known through evil: for "the straight line rules both itself and the crooked line" (De Anima i, 5). Therefore the aforesaid beatitude does not suitably correspond to the gift of knowledge.
 
@@ -90,7 +90,7 @@ Objection 2: Further, consideration of truth is an act of knowledge. Now there i
 
 Objection 3: Further, the gift of knowledge consists in speculation, before operation. Now, in so far as it consists in speculation, sorrow does not correspond to it, since "the speculative intellect is not concerned about things to be sought or avoided" (De Anima iii, 9). Therefore the aforesaid beatitude is not suitably reckoned to correspond with the gift of knowledge.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Serm. Dom. in Monte iv): "Knowledge befits the mourner, who has discovered that he has been mastered by the evil which he coveted as though it were good."
 
@@ -98,7 +98,7 @@ I answer that, Right judgment about creatures belongs properly to knowledge. Now
 
 Hence the beatitude of sorrow is said to correspond to the gift of knowledge.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Created goods do not cause spiritual joy, except in so far as they are referred to the Divine good, which is the proper cause of spiritual joy. Hence spiritual peace and the resulting joy correspond directly to the gift of wisdom: but to the gift of knowledge there corresponds, in the first place, sorrow for past errors, and, in consequence, consolation, since, by his right judgment, man directs creatures to the Divine good. For this reason sorrow is set forth in this beatitude, as the merit, and the resulting consolation, as the reward; which is begun in this life, and is perfected in the life to come.
 

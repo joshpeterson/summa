@@ -9,9 +9,9 @@ We must next consider pride, and (1) pride in general; (2) the first man's sin, 
 (6) Whether it is the most grievous of all sins?
 (7) Of its relation to other sins;
 (8) Whether it should be reckoned a capital vice?
-# Whether Pride Is A Sin?
+## Whether Pride Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pride is not a sin. For no sin is the object of God's promise. For God's promises refer to what He will do; and He is not the author of sin. Now pride is numbered among the Divine promises: for it is written (Is. 60:15): "I will make thee to be an everlasting pride [Douay: 'glory'], a joy unto generation and generation." Therefore pride is not a sin.
 
@@ -19,22 +19,22 @@ Objection 2: Further, it is not a sin to wish to be like unto God: for every cre
 
 Objection 3: Further, a sin is opposed not only to a virtue but also to a contrary vice, as the Philosopher states (Ethic. ii, 8). But no vice is found to be opposed to pride. Therefore pride is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Tob. 4:14): "Never suffer pride to reign in thy mind or in thy words."
 
 I answer that, Pride [superbia] is so called because a man thereby aims higher [supra] than he is; wherefore Isidore says (Etym. x): "A man is said to be proud, because he wishes to appear above (super) what he really is"; for he who wishes to overstep beyond what he is, is proud. Now right reason requires that every man's will should tend to that which is proportionate to him. Therefore it is evident that pride denotes something opposed to right reason, and this shows it to have the character of sin, because according to Dionysius (Div. Nom. iv, 4), "the soul's evil is to be opposed to reason." Therefore it is evident that pride is a sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Pride [superbia] may be understood in two ways. First, as overpassing [supergreditur] the rule of reason, and in this sense we say that it is a sin. Secondly, it may simply denominate "super-abundance"; in which sense any super-abundant thing may be called pride: and it is thus that God promises pride as significant of super-abundant good. Hence a gloss of Jerome on the same passage (Is. 61:6) says that "there is a good and an evil pride"; or "a sinful pride which God resists, and a pride that denotes the glory which He bestows."
 
 Reply to Objection 2: Reason has the direction of those things for which man has a natural appetite; so that if the appetite wander from the rule of reason, whether by excess or by default, it will be sinful, as is the case with the appetite for food which man desires naturally. Now pride is the appetite for excellence in excess of right reason. Wherefore Augustine says (De Civ. Dei xiv, 13) that pride is the "desire for inordinate exaltation": and hence it is that, as he asserts (De Civ. Dei xiv, 13; xix, 12), "pride imitates God inordinately: for it hath equality of fellowship under Him, and wishes to usurp Hi. dominion over our fellow-creatures."
 
 Reply to Objection 3: Pride is directly opposed to the virtue of humility, which, in a way, is concerned about the same matter as magnanimity, as stated above ([3605]Q[161], A[1], ad 3). Hence the vice opposed to pride by default is akin to the vice of pusillanimity, which is opposed by default to magnanimity. For just as it belongs to magnanimity to urge the mind to great things against despair, so it belongs to humility to withdraw the mind from the inordinate desire of great things against presumption. Now pusillanimity, if we take it for a deficiency in pursuing great things, is properly opposed to magnanimity by default; but if we take it for the mind's attachment to things beneath what is becoming to a man, it is opposed to humility by default; since each proceeds from a smallness of mind. In the same way, on the other hand, pride may be opposed by excess, both to magnanimity and humility, from different points of view: to humility, inasmuch as it scorns subjection, to magnanimity, inasmuch as it tends to great things inordinately. Since, however, pride implies a certain elation, it is more directly opposed to humility, even as pusillanimity, which denotes littleness of soul in tending towards great things, is more directly opposed to magnanimity.
-# Whether Pride Is A Special Sin?
+## Whether Pride Is A Special Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pride is not a special sin. For Augustine says (De Nat. et Grat. xxix) that "you will find no sin that is not labelled pride"; and Prosper says (De Vita Contempl. iii, 2) that "without pride no sin is, or was, or ever will be possible." Therefore pride is a general sin.
 
@@ -44,7 +44,7 @@ Objection 3: Further, every special sin is opposed to a special virtue. But prid
 
 Objection 4: Further, every special sin has a special matter. Now pride has a general matter, for Gregory says (Moral. xxxiv, 23) that "one man is proud of his gold, another of his eloquence: one is elated by mean and earthly things, another by sublime and heavenly virtues." Therefore pride is not a special but a general sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Nat. et Grat. xxix): "If he look into the question carefully, he will find that, according to God's law, pride is a very different sin from other vices." Now the genus is not different from its species. Therefore pride is not a general but a special sin.
 
@@ -52,7 +52,7 @@ I answer that, The sin of pride may be considered in two ways. First with regard
 
 It must, however, be observed that this generic character of pride admits of the possibility of all vices arising from pride sometimes, but it does not imply that all vices originate from pride always. For though one may break the commandments of the Law by any kind of sin, through contempt which pertains to pride, yet one does not always break the Divine commandments through contempt, but sometimes through ignorance. and sometimes through weakness: and for this reason Augustine says (De Nat. et Grat. xxix) that "many things are done amiss which are not done through pride."
 
-## Replies
+### Replies
 
 Reply to Objection 1: These words are introduced by Augustine into his book De Nat. et Grat., not as being his own, but as those of someone with whom he is arguing. Hence he subsequently disproves the assertion, and shows that not all sins are committed through pride. We might, however, reply that these authorities must be understood as referring to the outward effect of pride, namely the breaking of the commandments, which applies to every sin, and not to the inward act of pride, namely contempt of the commandment. For sin is committed, not always through contempt, but sometimes through ignorance, sometimes through weakness, as stated above.
 
@@ -61,9 +61,9 @@ Reply to Objection 2: A man may sometimes commit a sin effectively, but not affe
 Reply to Objection 3: A sin may destroy a virtue in two ways. In one way by direct contrariety to a virtue, and thus pride does not corrupt every virtue, but only humility; even as every special sin destroys the special virtue opposed to it, by acting counter thereto. In another way a sin destroys a virtue, by making ill use of that virtue: and thus pride destroys every virtue, in so far as it finds an occasion of pride in every virtue, just as in everything else pertaining to excellence. Hence it does not follow that it is a general sin.
 
 Reply to Objection 4: Pride regards a special aspect in its object, which aspect may be found in various matters: for it is inordinate love of one's excellence, and excellence may be found in various things.
-# Whether The Subject Of Pride Is The Irascible Faculty?
+## Whether The Subject Of Pride Is The Irascible Faculty?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the subject of pride is not the irascible faculty. For Gregory says (Moral. xxiii, 17): "A swollen mind is an obstacle to truth, for the swelling shuts out the light." Now the knowledge of truth pertains, not to the irascible but to the rational faculty. Therefore pride is not in the irascible.
 
@@ -73,7 +73,7 @@ Objection 3: Further. pride seeks pre-eminence not only in sensible things, but 
 
 Objection 4: Further, as stated in Prosper's Liber Sententiarum, sent. 294, "Pride is love of one's own excellence." But love is not in the irascible, but in the concupiscible. Therefore pride is not in the irascible.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. ii, 49) opposes pride to the gift of fear. Now fear belongs to the irascible. Therefore pride is in the irascible.
 
@@ -81,7 +81,7 @@ I answer that, The subject of any virtue or vice is to be ascertained from its p
 
 Consequently if the difficult thing which is the object of pride, were merely some sensible object, whereto the sensitive appetite might tend, pride would have to be in the irascible which is part of the sensitive appetite. But since the difficult thing which pride has in view is common both to sensible and to spiritual things, we must needs say that the subject of pride is the irascible not only strictly so called, as a part of the sensitive appetite, but also in its wider acceptation, as applicable to the intellective appetite. Wherefore pride is ascribed also to the demons.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Knowledge of truth is twofold. One is purely speculative, and pride hinders this indirectly by removing its cause. For the proud man subjects not his intellect to God, that he may receive the knowledge of truth from Him, according to Mat. 11:25, "Thou hast hid these things from the wise and the prudent," i.e. from the proud, who are wise and prudent in their own eyes, "and hast revealed them to little ones," i.e. to the humble.
 
@@ -90,9 +90,9 @@ Reply to Objection 2: As stated above ([3608]Q[161], AA[2], 6), humility observe
 Reply to Objection 3: Pride is in the irascible, not only as a part of the sensitive appetite, but also as having a more general signification, as stated above.
 
 Reply to Objection 4: According to Augustine (De Civ. Dei xiv, 7,9), "love precedes all other emotions of the soul, and is their cause," wherefore it may be employed to denote any of the other emotions. It is in this sense that pride is said to be "love of one's own excellence," inasmuch as love makes a man presume inordinately on his superiority over others, and this belongs properly to pride.
-# Whether The Four Species Of Pride Are Fittingly Assigned By Gregory?
+## Whether The Four Species Of Pride Are Fittingly Assigned By Gregory?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the four species of pride are unfittingly assigned by Gregory, who says (Moral. xxiii, 6): "There are four marks by which every kind of pride of the arrogant betrays itself; either when they think that their good is from themselves, or if they believe it to be from above, yet they think that it is due to their own merits; or when they boast of having what they have not, or despise others and wish to appear the exclusive possessors of what they have." For pride is a vice distinct from unbelief, just as humility is a distinct virtue from faith. Now it pertains to unbelief, if a man deem that he has not received his good from God, or that he has the good of grace through his own merits. Therefore this should not be reckoned a species of pride.
 
@@ -102,7 +102,7 @@ Objection 3: Further, some other things apparently pertain to pride, which are n
 
 Objection 4: Further, we find other divisions of pride. For Anselm [*Eadmer, De Similit. xxii, seqq.] divides the uplifting of pride, saying that there is "pride of will, pride of speech, end pride of deed." Bernard [*De Grad. Humil. et Superb. x, seqq.] also reckons twelve degrees of pride, namely "curiosity, frivolity of mind, senseless mirth, boasting, singularity, arrogance, presumption, defense of one's sins, deceitful confession, rebelliousness, license, sinful habit." Now these apparently are not comprised under the species mentioned by Gregory. Therefore the latter would seem to be assigned unfittingly.
 
-## Answer
+### Answer
 
 On the contrary, The authority of Gregory suffices.
 
@@ -112,7 +112,7 @@ Secondly, it may be considered with regard to its cause, in so far as to have a 
 
 Thirdly, it may be considered with regard to the manner of having it, in so far as a man obtains greater excellence through possessing some good more excellently than other men; the result again being that his appetite is borne inordinately towards his own excellence: and thus we have the fourth species of pride, which is "when a man despises others and wishes to be singularly conspicuous."
 
-## Replies
+### Replies
 
 Reply to Objection 1: A true judgment may be destroyed in two ways. First, universally: and thus in matters of faith, a true judgment is destroyed by unbelief. Secondly, in some particular matter of choice, and unbelief does not do this. Thus a man who commits fornication, judges that for the time being it is good for him to commit fornication; yet he is not an unbeliever, as he would be, were he to say that universally fornication is good. It is thus in the question in point: for it pertains to unbelief to assert universally that there is a good which is not from God, or that grace is given to men for their merits, whereas, properly speaking, it belongs to pride and not to unbelief, through inordinate desire of one's own excellence, to boast of one's goods as though one had them of oneself, or of one's own merits.
 
@@ -121,9 +121,9 @@ Reply to Objection 2: Boasting is reckoned a species of lying, as regards the ou
 Reply to Objection 3: The ungrateful man ascribes to himself what he has from another: wherefore the first two species of pride pertain to ingratitude. To excuse oneself of a sin one has committed, belongs to the third species, since by so doing a man ascribes to himself the good of innocence which he has not. To aim presumptuously at what is above one, would seem to belong chiefly to the fourth species, which consists in wishing to be preferred to others.
 
 Reply to Objection 4: The three mentioned by Anselm correspond to the progress of any particular sin: for it begins by being conceived in thought, then is uttered in word, and thirdly is accomplished in deed.
-# Whether Pride Is A Mortal Sin?
+## Whether Pride Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pride is not a mortal sin. For a gloss on Ps. 7:4, "O Lord my God, if I have done this thing," says: "Namely, the universal sin which is pride." Therefore if pride were a mortal sin, so would every sin be.
 
@@ -131,22 +131,22 @@ Objection 2: Further, every mortal sin is contrary to charity. But pride is appa
 
 Objection 3: Further, every mortal sin is opposed to virtue. But pride is not opposed to virtue; on the contrary, it arises therefrom, for as Gregory says (Moral. xxxiv, 23), "sometimes a man is elated by sublime and heavenly virtues." Therefore pride is not a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. xxxiv, 23) that "pride is a most evident sign of the reprobate, and contrariwise, humility of the elect." But men do not become reprobate on account of venial sins. Therefore pride is not a venial but a mortal sin.
 
 I answer that, Pride is opposed to humility. Now humility properly regards the subjection of man to God, as stated above ([3614]Q[161], A[1], ad 5). Hence pride properly regards lack of this subjection, in so far as a man raises himself above that which is appointed to him according to the Divine rule or measure, against the saying of the Apostle (2 Cor. 10:13), "But we will not glory beyond our measure; but according to the measure of the rule which God hath measured to us." Wherefore it is written (Ecclus. 10:14): "The beginning of the pride of man is to fall off from God" because, to wit, the root of pride is found to consist in man not being, in some way, subject to God and His rule. Now it is evident that not to be subject to God is of its very nature a mortal sin, for this consists in turning away from God: and consequently pride is, of its genus, a mortal sin. Nevertheless just as in other sins which are mortal by their genus (for instance fornication and adultery) there are certain motions that are venial by reason of their imperfection (through forestalling the judgment of reason, and being without its consent), so too in the matter of pride it happens that certain motions of pride are venial sins, when reason does not consent to them.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above [3615](A[2]) pride is a general sin, not by its essence but by a kind of influence, in so far as all sins may have their origin in pride. Hence it does not follow that all sins are mortal, but only such as arise from perfect pride, which we have stated to be a mortal sin.
 
 Reply to Objection 2: Pride is always contrary to the love of God, inasmuch as the proud man does not subject himself to the Divine rule as he ought. Sometimes it is also contrary to the love of our neighbor; when, namely, a man sets himself inordinately above his neighbor: and this again is a transgression of the Divine rule, which has established order among men, so that one ought to be subject to another.
 
 Reply to Objection 3: Pride arises from virtue, not as from its direct cause, but as from an accidental cause, in so far as a man makes a virtue an occasion for pride. And nothing prevents one contrary from being the accidental cause of another, as stated in Phys. viii, 1. Hence some are even proud of their humility.
-# Whether Pride Is The Most Grievous Of Sins?
+## Whether Pride Is The Most Grievous Of Sins?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pride is not the most grievous of sins. For the more difficult a sin is to avoid, the less grievous it would seem to be. Now pride is most difficult to avoid; for Augustine says in his Rule (Ep. ccxi), "Other sins find their vent in the accomplishment of evil deeds, whereas pride lies in wait for good deeds to destroy them." Therefore pride is not the most grievous of sins.
 
@@ -154,22 +154,22 @@ Objection 2: Further, "The greater evil is opposed to the greater good," as the 
 
 Objection 3: Further, the greater evil is not punished by a lesser evil. But pride is sometimes punished by other sins according to Rom. 1:28, where it is stated that on account of their pride of heart, men of science were delivered "to a reprobate sense, to do those things which are not convenient." Therefore pride is not the most grievous of sins.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on Ps. 118:51, "The proud did iniquitously," says: "The greatest sin in man is pride."
 
 I answer that, Two things are to be observed in sin, conversion to a mutable good, and this is the material part of sin; and aversion from the immutable good, and this gives sin its formal aspect and complement. Now on the part of the conversion, there is no reason for pride being the greatest of sins, because uplifting which pride covets inordinately, is not essentially most incompatible with the good of virtue. But on the part of the aversion, pride has extreme gravity, because in other sins man turns away from God, either through ignorance or through weakness, or through desire for any other good whatever; whereas pride denotes aversion from God simply through being unwilling to be subject to God and His rule. Hence Boethius [*Cf. Cassian, de Caenob. Inst. xii, 7] says that "while all vices flee from God, pride alone withstands God"; for which reason it is specially stated (James 4:6) that "God resisteth the proud." Wherefore aversion from God and His commandments, which is a consequence as it were in other sins, belongs to pride by its very nature, for its act is the contempt of God. And since that which belongs to a thing by its nature is always of greater weight than that which belongs to it through something else, it follows that pride is the most grievous of sins by its genus, because it exceeds in aversion which is the formal complement of sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A sin is difficult to avoid in two ways. First, on account of the violence of its onslaught; thus anger is violent in its onslaught on account of its impetuosity; and "still more difficult is it to resist concupiscence, on account of its connaturality," as stated in Ethic. ii, 3,9. A difficulty of this kind in avoiding sin diminishes the gravity of the sin; because a man sins the more grievously, according as he yields to a less impetuous temptation, as Augustine says (De Civ. Dei xiv, 12,15).
 
 Reply to Objection 2: Opposition between a vice and a virtue is inferred from the object, which is considered on the part of conversion. In this way pride has no claim to be the greatest of sins, as neither has humility to be the greatest of virtues. But it is the greatest on the part of aversion, since it brings greatness upon other sins. For unbelief, by the very fact of its arising out of proud contempt, is rendered more grievous than if it be the outcome of ignorance or weakness. The same applies to despair and the like.
 
 Reply to Objection 3: Just as in syllogisms that lead to an impossible conclusion one is sometimes convinced by being faced with a more evident absurdity, so too, in order to overcome their pride, God punishes certain men by allowing them to fall into sins of the flesh, which though they be less grievous are more evidently shameful. Hence Isidore says (De Summo Bono ii, 38) that "pride is the worst of all vices; whether because it is appropriate to those who are of highest and foremost rank, or because it originates from just and virtuous deeds, so that its guilt is less perceptible. on the other hand, carnal lust is apparent to all, because from the outset it is of a shameful nature: and yet, under God's dispensation, it is less grievous than pride. For he who is in the clutches of pride and feels it not, falls into the lusts of the flesh, that being thus humbled he may rise from his abasement."
-# Whether Pride Is The First Sin Of All?
+## Whether Pride Is The First Sin Of All?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pride is not the first sin of all. For the first is maintained in all that follows. Now pride does not accompany all sins, nor is it the origin of all: for Augustine says (De Nat. et Grat. xx) that many things are done "amiss which are not done with pride." Therefore pride is not the first sin of all.
 
@@ -181,13 +181,13 @@ Objection 4: Further, it is written (2 Tim. 3:13): "Evil men and seducers shall 
 
 Objection 5: Further, resemblance and pretense come after the reality. Now the Philosopher says (Ethic. iii, 7) that "pride apes fortitude and daring." Therefore the vice of daring precedes the vice of pride.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 10:15): "Pride is the beginning of all sin."
 
 I answer that, The first thing in every genus is that which is essential. Now it has been stated above [3616](A[6]) that aversion from God, which is the formal complement of sin, belongs to pride essentially, and to other sins, consequently. Hence it is that pride fulfils the conditions of a first thing, and is "the beginning of all sins," as stated above ([3617]FS, Q[84], A[2]), when we were treating of the causes of sin on the part of the aversion which is the chief part of sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Pride is said to be "the beginning of all sin," not as though every sin originated from pride, but because any kind of sin is naturally liable to arise from pride.
 
@@ -198,9 +198,9 @@ Reply to Objection 3: There is no need for the order of virtues to be the same a
 Reply to Objection 4: Pride is said to be the most grievous of sins because that which gives sin its gravity is essential to pride. Hence pride is the cause of gravity in other sins. Accordingly previous to pride there may be certain less grievous sins that are committed through ignorance or weakness. But among the grievous sins the first is pride, as the cause whereby other sins are rendered more grievous. And as that which is the first in causing sins is the last in the withdrawal from sin, a gloss on Ps. 18:13, "I shall be cleansed from the greatest sin," says: "Namely from the sin of pride, which is the last in those who return to God, and the first in those who withdraw from God."
 
 Reply to Objection 5: The Philosopher associates pride with feigned fortitude, not that it consists precisely in this, but because man thinks he is more likely to be uplifted before men, if he seem to be daring or brave.
-# Whether Pride Should Be Reckoned A Capital Vice?
+## Whether Pride Should Be Reckoned A Capital Vice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pride should be reckoned a capital vice, since Isidore [*Comment. in Deut. xvi] and Cassian [*De Inst. Caenob. v, 1: Collat. v, 2] number pride among the capital vices.
 
@@ -208,7 +208,7 @@ Objection 2: Further, pride is apparently the same as vainglory, since both cove
 
 Objection 3: Further, Augustine says (De Virginit. xxxi) that "pride begets envy, nor is it ever without this companion." Now envy is reckoned a capital vice, as stated above ([3619]Q[36], A[4]). Much more therefore is pride a capital vice.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. xxxi, 45) does not include pride among the capital vices.
 
@@ -216,7 +216,7 @@ I answer that, As stated above ([3620]AA[2],5, ad 1) pride may be considered in 
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Pride is not the same as vainglory, but is the cause thereof: for pride covets excellence inordinately: while vainglory covets the outward show of excellence.
 

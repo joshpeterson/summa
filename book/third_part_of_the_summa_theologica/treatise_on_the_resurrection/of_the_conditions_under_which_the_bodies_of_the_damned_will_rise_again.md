@@ -4,9 +4,9 @@ We must next consider the conditions in which the bodies of the damned will rise
 (1) Whether the bodies of the damned will rise again with their deformities?
 (2) Whether their bodies will be corruptible?
 (3) Whether they will be impassible?
-# Whether The Bodies Of The Damned Will Rise Again With Their Deformities?
+## Whether The Bodies Of The Damned Will Rise Again With Their Deformities?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the bodies of the damned will rise again with their deformities. For that which was appointed as a punishment for sin should not cease except the sin be forgiven. Now the lack of limbs that results from mutilation, as well as all other bodily deformities, are appointed as punishments for sin. Therefore these deformities will not be taken away from the damned, seeing that they will not have received the forgiveness of their sins.
 
@@ -14,7 +14,7 @@ Objection 2: Further, just as the saints will rise again to final happiness, so 
 
 Objection 3: Further, just as deformity is a defect of the passible body, so is slowness of movement. Now slowness of movement will not be taken from the bodies of the damned at the resurrection, since their bodies will not be agile. Therefore for the same reason neither will their deformity be taken away.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 15:52): "The dead shall rise again incorruptible"; where a gloss says: "The dead, i.e. sinners, or all the dead in general shall rise again incorruptible, i.e. without the loss of any limbs." Therefore the wicked will rise again without their deformities.
 
@@ -22,16 +22,16 @@ I answer that, Deformity in the human body is of two kinds. One arises from the 
 
 Hence others say with more reason, that He Who fashioned nature will wholly restore the body's nature at the resurrection. Wherefore whatever defect or deformity was in the body through corruption, or weakness of nature or of natural principles (for instance fever, purblindness, and so forth) will be entirely done away at the resurrection: whereas those defects in the human body which are the natural result of its natural principles, such as heaviness, passibility, and the like, will be in the bodies of the damned, while they will be removed from the bodies of the elect by the glory of the resurrection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since in every tribunal punishment is inflicted according to the jurisdiction of the tribunal, the punishments which in this temporal life are inflicted for some particular sin are themselves temporal, and extend not beyond the term of this life. Hence although the damned are not pardoned their sins, it does not follow that there they will undergo the same punishments as they have in this world: but the Divine justice demands that there they shall suffer more severe punishment for eternity.
 
 Reply to Objection 2: There is no parity between the good and the wicked, because a thing can be altogether good, but not altogether evil. Hence the final happiness of the saints requires that they should be altogether exempt from all evil; whereas the final unhappiness of the wicked will not exclude all good, because "if a thing be wholly evil it destroys itself," as the Philosopher says (Ethic. iv, 5). Hence it is necessary for the good of their nature to underlie the unhappiness of the damned, which good is the work of their perfect Creator, Who will restore that same nature to the perfection of its species.
 
 Reply to Objection 3: Slowness of movement is one of those defects which are the natural result of the principles of the human body; but deformity is not, and consequently the comparison fails.
-# Whether The Bodies Of The Damned Will Be Incorruptible?
+## Whether The Bodies Of The Damned Will Be Incorruptible?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the bodies of the damned will be corruptible. For everything composed of contraries must necessarily be corruptible. Now the bodies of the damned will be composed of the contraries whereof they are composed even now, else they would not be the same, neither specifically nor, in consequence, numerically. Therefore they will be corruptible.
 
@@ -39,7 +39,7 @@ Objection 2: Further, if the bodies of the damned will not be corruptible, this 
 
 Objection 3: Further, it would seem inconsistent to withdraw the greatest of punishments from those who are in the highest degree of unhappiness. Now death is the greatest of punishments, as the Philosopher declares (Ethic. iii, 6). Therefore death should not be withdrawn from the damned, since they are in the highest degree of unhappiness. Therefore their bodies will be corruptible.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Apoc. 9:6): "In those days men shall seek death, and shall not find it, and they shall desire to die, and death shall fly from them."
 
@@ -47,16 +47,16 @@ I answer that, Since in every movement there must needs be a principle of moveme
 
 Secondly, this happens through the principle of corruption being hindered, and in this way the body of Adam was incorruptible, because the conflicting qualities that exist in man's body were withheld by the grace of innocence from conducing to the body's dissolution: and much more will they be withheld in the glorified bodies, which will be wholly subject to the spirit. Thus after the general resurrection the two aforesaid modes of incorruptibility will be united together in the bodies of the blessed.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The contraries of which bodies are composed are conducive to corruption as secondary principles. For the first active principle thereof is the heavenly movement: wherefore given the movement of the heaven, it is necessary for a body composed of contraries to be corrupted unless some more powerful cause prevent it: whereas if the heavenly movement be withdrawn, the contraries of which a body is composed do not suffice to cause corruption, even in accordance with nature, as explained above. But the philosophers were ignorant of a cessation in the heavenly movement; and consequently they held that a body composed of contraries is without fail corrupted in accordance with nature.
 
 Reply to Objection 2: This incorruptibility will result from nature, not as though there were some principle of incorruption in the bodies of the damned, but on account of the cessation of the active principle of corruption, as shown above.
 
 Reply to Objection 3: Although death is simply the greatest of punishments, yet nothing prevents death conducing, in a certain respect, to a cessation of punishments; and consequently the removal of death may contribute to the increase of punishment. For as the Philosopher says (Ethic. ix, 9), "Life is pleasant to all, for all desire to be . . . But we must not apply this to a wicked or corrupt life, nor one passed in sorrow." Accordingly just as life is simply pleasant, but not the life that is passed in sorrows, so too death, which is the privation of life, is painful simply, and the greatest of punishments, inasmuch as it deprives one of the primary good, namely being, with which other things are withdrawn. But in so far as it deprives one of a wicked life, and of such as is passed in sorrow, it is a remedy for pains, since it puts an end to them. and consequently the withdrawal of death leads to the increase of punishments by making them everlasting. If however we say that death is penal by reason of the bodily pain which the dying feel, without doubt the damned will continue to feel a far greater pain: wherefore they are said to be in "everlasting death," according to the Psalm (48:15): "Death shall feed upon them."
-# Whether The Bodies Of The Damned Will Be Impassible?
+## Whether The Bodies Of The Damned Will Be Impassible?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the bodies of the damned will be impassible. For, according to the Philosopher (Topic. vi), "increase of passion results in loss of substance." Now "if a finite thing be continually lessened, it must needs at length be done away" (Phys. i, 4). Therefore if the bodies of the damned will be passible, and will be ever suffering, they will at length be done away and corrupted: and this has been shown to be false [5103](A[2]). Therefore they will be impassible.
 
@@ -66,13 +66,13 @@ Objection 3: Further, those animals, for instance the salamander, which are said
 
 Objection 4: Further, if the bodies of the damned be passible, the pain resulting from their suffering, seemingly, will surpass all present bodily pain, even as the joy of the saints will surpass all present joy. Now in this life it sometimes happens that the soul is severed from the body through excess of pain. Much more therefore if those bodies will be passible, the souls will be separate from the bodies through excess of pain, and thus those bodies will be corrupted: which is false. Therefore those bodies will be impassible.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 15:52): "And we shall be changed": and a gloss says: "We---the good alone---will be changed with the unchangeableness and impassibility of glory."
 
 I answer that, The principal cause of the bodies of the damned not being consumed by fire will be the Divine justice by which their bodies will be consigned to everlasting punishment. Now the Divine justice is served also by the natural disposition, whether on the part of the passive body or on the part of the active causes; for since passiveness is a kind of receptiveness, there are two kinds of passion, corresponding to two ways in which one thing is receptive of another. For a form may be received into a subject materially according to its natural being, just as the air receives heat from fire materially; and corresponding to this manner of reception there is a kind of passion which we call "passion of nature." In another way one thing is received into another spiritually by way of an "intention," just as the likeness of whiteness is received into the air and in the pupil: this reception is like that whereby the soul receives the likeness of things: wherefore corresponding to this mode of reception is another mode of passion which we call "passion of the soul." Since therefore after the resurrection and the cessation of the heavenly movement it will be impossible for a body to be altered by its natural quality, as stated above [5104](A[2]), it will not be possible for any body to be passive with a passion of nature. Consequently as regards this mode of passion the bodies of the damned will be impassible even as they will be incorruptible. Yet after the heaven has ceased to move, there will still remain the passion which is after the manner of the soul, since the air will both receive light from the sun, and will convey the variety of colors to the sight. Wherefore in respect of this mode of passion the bodies of the damned will be passible. But the glorified bodies, albeit they receive something, and are in a manner patient to sensation, will nevertheless not be passive, since they will receive nothing to distress or hurt them, as will the bodies of the damned, which for this reason are said to be passible.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking of the passion whereby the patient is changed from its natural disposition. But this kind of passion will not be in the bodies of the damned, as stated above.
 

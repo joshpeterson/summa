@@ -3,9 +3,9 @@
 We must now consider contention, in respect of which there are two points of inquiry:
 (1) Whether contention is a mortal sin?
 (2) Whether it is a daughter of vainglory?
-# Whether Contention Is A Mortal Sin?
+## Whether Contention Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that contention is not a mortal sin. For there is no mortal sin in spiritual men: and yet contention is to be found in them, according to Lk. 22:24: "And there was also a strife amongst" the disciples of Jesus, "which of them should . . . be the greatest." Therefore contention is not a mortal sin.
 
@@ -15,7 +15,7 @@ Objection 3: Further, it happens that people contend either in the courts or in 
 
 Objection 4: Further, Job seems to have contended with God, according to Job 39:32: "Shall he that contendeth with God be so easily silenced?" And yet Job was not guilty of mortal sin, since the Lord said of him (Job 42:7): "You have not spoken the thing that is right before me, as my servant Job hath." Therefore contention is not always a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, It is against the precept of the Apostle who says (2 Tim. 2:14): "Contend not in words." Moreover (Gal. 5:20) contention is included among the works of the flesh, and as stated there (Gal. 5:21) "they who do such things shall not obtain the kingdom of God." Now whatever excludes a man from the kingdom of God and is against a precept, is a mortal sin. Therefore contention is a mortal sin.
 
@@ -25,7 +25,7 @@ Now contrariety of speech may be looked at in two ways: first with regard to the
 
 Accordingly if we take contention as denoting a disclaimer of the truth and an inordinate manner, it is a mortal sin. Thus Ambrose [*Cf. Gloss. Ord. in Rom. i, 29] defines contention: "Contention is a disclaimer of the truth with clamorous confidence." If, however, contention denote a disavowal of what is false, with the proper measure of acrimony, it is praiseworthy: whereas, if it denote a disavowal of falsehood, together with an inordinate manner, it can be a venial sin, unless the contention be conducted so inordinately, as to give scandal to others. Hence the Apostle after saying (2 Tim. 2:14): "Contend not in words," adds, "for it is to no profit, but to the subverting of the hearers."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The disciples of Christ contended together, not with the intention of disclaiming the truth, since each one stood up for what he thought was true. Yet there was inordinateness in their contention, because they contended about a matter which they ought not to have contended about, viz. the primacy of honor; for they were not spiritual men as yet, as a gloss says on the same passage; and for this reason Our Lord checked them.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: Those who preached Christ "out of contention," were to be 
 Reply to Objection 3: Contention is complete and is a mortal sin when, in contending before a judge, a man gainsays the truth of justice, or in a disputation, intends to impugn the true doctrine. In this sense Catholics do not contend against heretics, but the reverse. But when, whether in court or in a disputation, it is incomplete, i.e. in respect of the acrimony of speech, it is not always a mortal sin.
 
 Reply to Objection 4: Contention here denotes an ordinary dispute. For Job had said (13:3): "I will speak to the Almighty, and I desire to reason with God": yet he intended not to impugn the truth, but to defend it, and in seeking the truth thus, he had no wish to be inordinate in mind or in speech.
-# Whether Contention Is A Daughter Of Vainglory?
+## Whether Contention Is A Daughter Of Vainglory?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that contention is not a daughter of vainglory. For contention is akin to zeal, wherefore it is written (1 Cor. 3:3): "Whereas there is among you zeal [Douay: 'envying'] and contention, are you not carnal, and walk according to men?" Now zeal pertains to envy. Therefore contention arises rather from envy.
 
@@ -44,13 +44,13 @@ Objection 2: Further, contention is accompanied by raising of the voice. But the
 
 Objection 3: Further, among other things knowledge seems to be the matter of pride and vainglory, according to 1 Cor. 8:1: "Knowledge puffeth up." Now contention is often due to lack of knowledge, and by knowledge we do not impugn the truth, we know it. Therefore contention is not a daughter of vainglory.
 
-## Answer
+### Answer
 
 
 
 I answer that, As stated above ([2652]Q[37], A[2]), discord is a daughter of vainglory, because each of the disaccording parties clings to his own opinion, rather than acquiesce with the other. Now it is proper to pride and vainglory to seek one's own glory. And just as people are discordant when they hold to their own opinion in their hearts, so are they contentious when each defends his own opinion by words. Consequently contention is reckoned a daughter of vainglory for the same reason as discord.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Contention, like discord, is akin to envy in so far as a man severs himself from the one with whom he is discordant, or with whom he contends, but in so far as a contentious man holds to something, it is akin to pride and vainglory, because, to wit, he clings to his own opinion, as stated above ([2653]Q[37], A[2], ad 1).
 

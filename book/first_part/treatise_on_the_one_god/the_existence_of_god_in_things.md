@@ -5,9 +5,9 @@ Since it evidently belongs to the infinite to be present everywhere, and in all 
 (2) Whether God is everywhere?
 (3) Whether God is everywhere by essence, power, and presence?
 (4) Whether to be everywhere belongs to God alone?
-# Whether God Is In All Things?
+## Whether God Is In All Things?
 
-## Objections
+### Objections
 
 Objection 1: It seems that God is not in all things. For what is above all things is not in all things. But God is above all, according to the Psalm (Ps. 112:4), "The Lord is high above all nations," etc. Therefore God is not in all things.
 
@@ -17,13 +17,13 @@ Objection 3: Further, the more powerful an agent is, the more extended is its ac
 
 Objection 4: Further, the demons are beings. But God is not in the demons; for there is no fellowship between light and darkness (2 Cor. 6:14). Therefore God is not in all things.
 
-## Answer
+### Answer
 
 On the contrary, A thing is wherever it operates. But God operates in all things, according to Is. 26:12, "Lord . . . Thou hast wrought all our works in [Vulg.: 'for'] us." Therefore God is in all things.
 
 I answer that, God is in all things; not, indeed, as part of their essence, nor as an accident, but as an agent is present to that upon which it works. For an agent must be joined to that wherein it acts immediately and touch it by its power; hence it is proved in Phys. vii that the thing moved and the mover must be joined together. Now since God is very being by His own essence, created being must be His proper effect; as to ignite is the proper effect of fire. Now God causes this effect in things not only when they first begin to be, but as long as they are preserved in being; as light is caused in the air by the sun as long as the air remains illuminated. Therefore as long as a thing has being, God must be present to it, according to its mode of being. But being is innermost in each thing and most fundamentally inherent in all things since it is formal in respect of everything found in a thing, as was shown above ([39]Q[7], A[1]). Hence it must be that God is in all things, and innermostly.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God is above all things by the excellence of His nature; nevertheless, He is in all things as the cause of the being of all things; as was shown above in this article.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: Although corporeal things are said to be in another as in 
 Reply to Objection 3: No action of an agent, however powerful it may be, acts at a distance, except through a medium. But it belongs to the great power of God that He acts immediately in all things. Hence nothing is distant from Him, as if it could be without God in itself. But things are said to be distant from God by the unlikeness to Him in nature or grace; as also He is above all by the excellence of His own nature.
 
 Reply to Objection 4: In the demons there is their nature which is from God, and also the deformity of sin which is not from Him; therefore, it is not to be absolutely conceded that God is in the demons, except with the addition, "inasmuch as they are beings." But in things not deformed in their nature, we must say absolutely that God is.
-# Whether God Is Everywhere?
+## Whether God Is Everywhere?
 
-## Objections
+### Objections
 
 Objection 1: It seems that God is not everywhere. For to be everywhere means to be in every place. But to be in every place does not belong to God, to Whom it does not belong to be in place at all; for "incorporeal things," as Boethius says (De Hebdom.), "are not in a place." Therefore God is not everywhere.
 
@@ -42,22 +42,22 @@ Objection 2: Further, the relation of time to succession is the same as the rela
 
 Objection 3: Further, what is wholly in any one place is not in part elsewhere. But if God is in any one place He is all there; for He has no parts. No part of Him then is elsewhere; and therefore God is not everywhere.
 
-## Answer
+### Answer
 
 On the contrary, It is written, "I fill heaven and earth." (Jer. 23:24).
 
 I answer that, Since place is a thing, to be in place can be understood in a twofold sense; either by way of other things---i.e. as one thing is said to be in another no matter how; and thus the accidents of a place are in place; or by a way proper to place; and thus things placed are in a place. Now in both these senses, in some way God is in every place; and this is to be everywhere. First, as He is in all things giving them being, power and operation; so He is in every place as giving it existence and locative power. Again, things placed are in place, inasmuch as they fill place; and God fills every place; not, indeed, like a body, for a body is said to fill place inasmuch as it excludes the co-presence of another body; whereas by God being in a place, others are not thereby excluded from it; indeed, by the very fact that He gives being to the things that fill every place, He Himself fills every place.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Incorporeal things are in place not by contact of dimensive quantity, as bodies are but by contact of power.
 
 Reply to Objection 2: The indivisible is twofold. One is the term of the continuous; as a point in permanent things, and as a moment in succession; and this kind of the indivisible in permanent things, forasmuch as it has a determinate site, cannot be in many parts of place, or in many places; likewise the indivisible of action or movement, forasmuch as it has a determinate order in movement or action, cannot be in many parts of time. Another kind of the indivisible is outside of the whole genus of the continuous; and in this way incorporeal substances, like God, angel and soul, are called indivisible. Such a kind of indivisible does not belong to the continuous, as a part of it, but as touching it by its power; hence, according as its power can extend itself to one or to many, to a small thing, or to a great one, in this way it is in one or in many places, and in a small or large place.
 
 Reply to Objection 3: A whole is so called with reference to its parts. Now part is twofold: viz. a part of the essence, as the form and the matter are called parts of the composite, while genus and difference are called parts of species. There is also part of quantity into which any quantity is divided. What therefore is whole in any place by totality of quantity, cannot be outside of that place, because the quantity of anything placed is commensurate to the quantity of the place; and hence there is no totality of quantity without totality of place. But totality of essence is not commensurate to the totality of place. Hence it is not necessary for that which is whole by totality of essence in a thing, not to be at all outside of it. This appears also in accidental forms which have accidental quantity; as an example, whiteness is whole in each part of the surface if we speak of its totality of essence; because according to the perfect idea of its species it is found to exist in every part of the surface. But if its totality be considered according to quantity which it has accidentally, then it is not whole in every part of the surface. On the other hand, incorporeal substances have no totality either of themselves or accidentally, except in reference to the perfect idea of their essence. Hence, as the soul is whole in every part of the body, so is God whole in all things and in each one.
-# Whether God Is Everywhere By Essence, Presence And Power?
+## Whether God Is Everywhere By Essence, Presence And Power?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the mode of God's existence in all things is not properly described by way of essence, presence and power. For what is by essence in anything, is in it essentially. But God is not essentially in things; for He does not belong to the essence of anything. Therefore it ought not to be said that God is in things by essence, presence and power.
 
@@ -67,7 +67,7 @@ Objection 3: Further, as God by His power is the principle of all things, so He 
 
 Objection 4: Further, as grace is a perfection added to the substance of a thing, so many other perfections are likewise added. Therefore if God is said to be in certain persons in a special way by grace, it seems that according to every perfection there ought to be a special mode of God's existence in things.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on the Canticle of Canticles (5) says that, "God by a common mode is in all things by His presence, power and substance; still He is said to be present more familiarly in some by grace" [*The quotation is from St. Gregory, (Hom. viii in Ezech.)].
 
@@ -81,7 +81,7 @@ Further, others said that, although all things are subject to God's providence, 
 
 Therefore, God is in all things by His power, inasmuch as all things are subject to His power; He is by His presence in all things, as all things are bare and open to His eyes; He is in all things by His essence, inasmuch as He is present to all as the cause of their being.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God is said to be in all things by essence, not indeed by the essence of the things themselves, as if He were of their essence; but by His own essence; because His substance is present to all things as the cause of their being.
 
@@ -90,9 +90,9 @@ Reply to Objection 2: A thing can be said to be present to another, when in its 
 Reply to Objection 3: Knowledge and will require that the thing known should be in the one who knows, and the thing willed in the one who wills. Hence by knowledge and will things are more truly in God than God in things. But power is the principle of acting on another; hence by power the agent is related and applied to an external thing; thus by power an agent may be said to be present to another.
 
 Reply to Objection 4: No other perfection, except grace, added to substance, renders God present in anything as the object known and loved; therefore only grace constitutes a special mode of God's existence in things. There is, however, another special mode of God's existence in man by union, which will be treated of in its own place (TP).
-# Whether To Be Everywhere Belongs To God Alone?
+## Whether To Be Everywhere Belongs To God Alone?
 
-## Objections
+### Objections
 
 Objection 1: It seems that to be everywhere does not belong to God alone. For the universal, according to the Philosopher (Poster. i), is everywhere, and always; primary matter also, since it is in all bodies, is everywhere. But neither of these is God, as appears from what is said above [41](Q[3]). Therefore to be everywhere does not belong to God alone.
 
@@ -106,13 +106,13 @@ Objection 5: Further, the soul, as Augustine says (De Trin. vi, 6), is "whole in
 
 Objection 6: Further, as Augustine says (Ep. 137), "The soul feels where it sees, and lives where it feels, and is where it lives." But the soul sees as it were everywhere: for in a succession of glances it comprehends the entire space of the heavens in its sight. Therefore the soul is everywhere.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Spir. Sanct. i, 7): "Who dares to call the Holy Ghost a creature, Who in all things, and everywhere, and always is, which assuredly belongs to the divinity alone?"
 
 I answer that, To be everywhere primarily and absolutely, is proper to God. Now to be everywhere primarily is said of that which in its whole self is everywhere; for if a thing were everywhere according to its parts in different places, it would not be primarily everywhere, forasmuch as what belongs to anything according to part does not belong to it primarily; thus if a man has white teeth, whiteness belongs primarily not to the man but to his teeth. But a thing is everywhere absolutely when it does not belong to it to be everywhere accidentally, that is, merely on some supposition; as a grain of millet would be everywhere, supposing that no other body existed. It belongs therefore to a thing to be everywhere absolutely when, on any supposition, it must be everywhere; and this properly belongs to God alone. For whatever number of places be supposed, even if an infinite number be supposed besides what already exist, it would be necessary that God should be in all of them; for nothing can exist except by Him. Therefore to be everywhere primarily and absolutely belongs to God and is proper to Him: because whatever number of places be supposed to exist, God must be in all of them, not as to a part of Him, but as to His very self.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The universal, and also primary matter are indeed everywhere; but not according to the same mode of existence.
 

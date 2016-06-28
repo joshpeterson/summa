@@ -9,9 +9,9 @@ We have now to consider those things that are required for happiness: and concer
 (6) Whether any perfection of the body is necessary?
 (7) Whether any external goods are necessary?
 (8) Whether the fellowship of friends is necessary?
-# Whether Delight Is Required For Happiness?
+## Whether Delight Is Required For Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that delight is not required for happiness. For Augustine says (De Trin. i, 8) that "vision is the entire reward of faith." But the prize or reward of virtue is happiness, as the Philosopher clearly states (Ethic. i, 9). Therefore nothing besides vision is required for happiness.
 
@@ -19,22 +19,22 @@ Objection 2: Further, happiness is "the most self-sufficient of all goods," as t
 
 Objection 3: Further, the "operation of bliss or happiness should be unhindered" (Ethic. vii, 13). But delight hinders the operation of the intellect: since it destroys the estimate of prudence (Ethic. vi, 5). Therefore delight is not necessary for happiness.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Confess. x, 23) that happiness is "joy in truth."
 
 I answer that, One thing may be necessary for another in four ways. First, as a preamble and preparation to it: thus instruction is necessary for science. Secondly, as perfecting it: thus the soul is necessary for the life of the body. Thirdly, as helping it from without: thus friends are necessary for some undertaking. Fourthly, as something attendant on it: thus we might say that heat is necessary for fire. And in this way delight is necessary for happiness. For it is caused by the appetite being at rest in the good attained. Wherefore, since happiness is nothing else but the attainment of the Sovereign Good, it cannot be without concomitant delight.
 
-## Replies
+### Replies
 
 Reply to Objection 1: From the very fact that a reward is given to anyone, the will of him who deserves it is at rest, and in this consists delight. Consequently, delight is included in the very notion of reward.
 
 Reply to Objection 2: The very sight of God causes delight. Consequently, he who sees God cannot need delight.
 
 Reply to Objection 3: Delight that is attendant upon the operation of the intellect does not hinder it, rather does it perfect it, as stated in Ethic. x, 4: since what we do with delight, we do with greater care and perseverance. On the other hand, delight which is extraneous to the operation is a hindrance thereto: sometimes by distracting the attention because, as already observed, we are more attentive to those things that delight us; and when we are very attentive to one thing, we must needs be less attentive to another: sometimes on account of opposition; thus a sensual delight that is contrary to reason, hinders the estimate of prudence more than it hinders the estimate of the speculative intellect.
-# Whether In Happiness Vision Ranks Before Delight?
+## Whether In Happiness Vision Ranks Before Delight?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in happiness, delight ranks before vision. For "delight is the perfection of operation" (Ethic. x, 4). But perfection ranks before the thing perfected. Therefore delight ranks before the operation of the intellect, i.e. vision.
 
@@ -42,22 +42,22 @@ Objection 2: Further, that by reason of which a thing is desirable, is yet more 
 
 Objection 3: Further, vision corresponds to faith; while delight or enjoyment corresponds to charity. But charity ranks before faith, as the Apostle says (1 Cor. 13:13). Therefore delight or enjoyment ranks before vision.
 
-## Answer
+### Answer
 
 On the contrary, The cause is greater than its effect. But vision is the cause of delight. Therefore vision ranks before delight.
 
 I answer that, The Philosopher discusses this question (Ethic. x, 4), and leaves it unsolved. But if one consider the matter carefully, the operation of the intellect which is vision, must needs rank before delight. For delight consists in a certain repose of the will. Now that the will finds rest in anything, can only be on account of the goodness of that thing in which it reposes. If therefore the will reposes in an operation, the will's repose is caused by the goodness of the operation. Nor does the will seek good for the sake of repose; for thus the very act of the will would be the end, which has been disproved above ([1017]Q[1], A[1], ad 2;[1018] Q[3], A[4]): but it seeks to be at rest in the operation, because that operation is its good. Consequently it is evident that the operation in which the will reposes ranks before the resting of the will therein.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the Philosopher says (Ethic. x, 4) "delight perfects operation as vigor perfects youth," because it is a result of youth. Consequently delight is a perfection attendant upon vision; but not a perfection whereby vision is made perfect in its own species.
 
 Reply to Objection 2: The apprehension of the senses does not attain to the universal good, but to some particular good which is delightful. And consequently, according to the sensitive appetite which is in animals, operations are sought for the sake of delight. But the intellect apprehends the universal good, the attainment of which results in delight: wherefore its purpose is directed to good rather than to delight. Hence it is that the Divine intellect, which is the Author of nature, adjusted delights to operations on account of the operations. And we should form our estimate of things not simply according to the order of the sensitive appetite, but rather according to the order of the intellectual appetite.
 
 Reply to Objection 3: Charity does not seem the beloved good for the sake of delight: it is for charity a consequence that it delights in the good gained which it loves. Thus delight does not answer to charity as its end, but vision does, whereby the end is first made present to charity.
-# Whether Comprehension Is Necessary For Happiness?
+## Whether Comprehension Is Necessary For Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that comprehension is not necessary for happiness. For Augustine says (Ad Paulinam de Videndo Deum; [*Cf. Serm. xxxciii De Verb. Dom.]): "To reach God with the mind is happiness, to comprehend Him is impossible." Therefore happiness is without comprehension.
 
@@ -65,22 +65,22 @@ Objection 2: Further, happiness is the perfection of man as to his intellective 
 
 Objection 3: Further, happiness consists in an operation. But operations are determined by their objects: and there are two universal objects, the true and the good: of which the true corresponds to vision, and good to delight. Therefore there is no need for comprehension as a third.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Cor. 9:24): "So run that you may comprehend [Douay: 'obtain']." But happiness is the goal of the spiritual race: hence he says (2 Tim. 4:7,8): "I have fought a good fight, I have finished my course, I have kept the faith; as to the rest there is laid up for me a crown of justice." Therefore comprehension is necessary for Happiness.
 
 I answer that, Since Happiness consists in gaining the last end, those things that are required for Happiness must be gathered from the way in which man is ordered to an end. Now man is ordered to an intelligible end partly through his intellect, and partly through his will: through his intellect, in so far as a certain imperfect knowledge of the end pre-exists in the intellect: through the will, first by love which is the will's first movement towards anything; secondly, by a real relation of the lover to the thing beloved, which relation may be threefold. For sometimes the thing beloved is present to the lover: and then it is no longer sought for. Sometimes it is not present, and it is impossible to attain it: and then, too, it is not sought for. But sometimes it is possible to attain it, yet it is raised above the capability of the attainer, so that he cannot have it forthwith; and this is the relation of one that hopes, to that which he hopes for, and this relation alone causes a search for the end. To these three, there are a corresponding three in Happiness itself. For perfect knowledge of the end corresponds to imperfect knowledge; presence of the end corresponds to the relation of hope; but delight in the end now present results from love, as already stated (A[2], ad 3). And therefore these three must concur with Happiness; to wit, vision, which is perfect knowledge of the intelligible end; comprehension, which implies presence of the end; and delight or enjoyment, which implies repose of the lover in the object beloved.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Comprehension is twofold. First, inclusion of the comprehended in the comprehensor; and thus whatever is comprehended by the finite, is itself finite. Wherefore God cannot be thus comprehended by a created intellect. Secondly, comprehension means nothing but the holding of something already present and possessed: thus one who runs after another is said to comprehend [*In English we should say 'catch.'] him when he lays hold on him. And in this sense comprehension is necessary for Happiness.
 
 Reply to Objection 2: Just as hope and love pertain to the will, because it is the same one that loves a thing, and that tends towards it while not possessed, so, too, comprehension and delight belong to the will, since it is the same that possesses a thing and reposes therein.
 
 Reply to Objection 3: Comprehension is not a distinct operation from vision; but a certain relation to the end already gained. Wherefore even vision itself, or the thing seen, inasmuch as it is present, is the object of comprehension.
-# Whether Rectitude Of The Will Is Necessary For Happiness?
+## Whether Rectitude Of The Will Is Necessary For Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that rectitude of the will is not necessary for Happiness. For Happiness consists essentially in an operation of the intellect, as stated above ([1019]Q[3], A[4]). But rectitude of the will, by reason of which men are said to be clean of heart, is not necessary for the perfect operation of the intellect: for Augustine says (Retract. i, 4) "I do not approve of what I said in a prayer: O God, Who didst will none but the clean of heart to know the truth. For it can be answered that many who are not clean of heart, know many truths." Therefore rectitude of the will is not necessary for Happiness.
 
@@ -88,20 +88,20 @@ Objection 2: Further, what precedes does not depend on what follows. But the ope
 
 Objection 3: Further, that which is ordained to another as its end, is not necessary, when the end is already gained; as a ship, for instance, after arrival in port. But rectitude of will, which is by reason of virtue, is ordained to Happiness as to its end. Therefore, Happiness once obtained, rectitude of the will is no longer necessary.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 5:8): "Blessed are the clean of heart; for they shall see God": and (Heb. 12:14): "Follow peace with all men, and holiness; without which no man shall see God."
 
 I answer that, Rectitude of will is necessary for Happiness both antecedently and concomitantly. Antecedently, because rectitude of the will consists in being duly ordered to the last end. Now the end in comparison to what is ordained to the end is as form compared to matter. Wherefore, just as matter cannot receive a form, unless it be duly disposed thereto, so nothing gains an end, except it be duly ordained thereto. And therefore none can obtain Happiness, without rectitude of the will. Concomitantly, because as stated above ([1020]Q[3], A[8]), final Happiness consists in the vision of the Divine Essence, Which is the very essence of goodness. So that the will of him who sees the Essence of God, of necessity, loves, whatever he loves, in subordination to God; just as the will of him who sees not God's Essence, of necessity, loves whatever he loves, under the common notion of good which he knows. And this is precisely what makes the will right. Wherefore it is evident that Happiness cannot be without a right will.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Every act of the will is preceded by an act of the intellect: but a certain act of the will precedes a certain act of the intellect. For the will tends to the final act of the intellect which is happiness. And consequently right inclination of the will is required antecedently for happiness, just as the arrow must take a right course in order to strike the target.
 
 Reply to Objection 3: Not everything that is ordained to the end, ceases with the getting of the end: but only that which involves imperfection, such as movement. Hence the instruments of movement are no longer necessary when the end has been gained: but the due order to the end is necessary.
-# Whether The Body Is Necessary For Man's Happiness?
+## Whether The Body Is Necessary For Man's Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the body is necessary for Happiness. For the perfection of virtue and grace presupposes the perfection of nature. But Happiness is the perfection of virtue and grace. Now the soul, without the body, has not the perfection of nature; since it is naturally a part of human nature, and every part is imperfect while separated from its whole. Therefore the soul cannot be happy without the body.
 
@@ -115,7 +115,7 @@ Objection 5: Further, Happiness is the sufficient good and lulls desire. But thi
 
 Objection 6: Further, in Happiness man is equal to the angels. But the soul without the body is not equal to the angels, as Augustine says (Gen. ad lit. xii, 35). Therefore it is not happy.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Apoc. 14:13): "Happy [Douay: 'blessed'] are the dead who die in the Lord."
 
@@ -125,7 +125,7 @@ Again this is made clear by reason. For the intellect needs not the body, for it
 
 We must, however, notice that something may belong to a thing's perfection in two ways. First, as constituting the essence thereof; thus the soul is necessary for man's perfection. Secondly, as necessary for its well-being: thus, beauty of body and keenness of perfection belong to man's perfection. Wherefore though the body does not belong in the first way to the perfection of human Happiness, yet it does in the second way. For since operation depends on a thing's nature, the more perfect is the soul in its nature, the more perfectly it has its proper operation, wherein its happiness consists. Hence, Augustine, after inquiring (Gen. ad lit. xii, 35) "whether that perfect Happiness can be ascribed to the souls of the dead separated from their bodies," answers "that they cannot see the Unchangeable Substance, as the blessed angels see It; either for some other more hidden reason, or because they have a natural desire to rule the body."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Happiness is the perfection of the soul on the part of the intellect, in respect of which the soul transcends the organs of the body; but not according as the soul is the natural form of the body. Wherefore the soul retains that natural perfection in respect of which happiness is due to it, though it does not retain that natural perfection in respect of which it is the form of the body.
 
@@ -138,9 +138,9 @@ Reply to Objection 4: One thing is hindered by another in two ways. First, by wa
 Reply to Objection 5: The desire of the separated soul is entirely at rest, as regards the thing desired; since, to wit, it has that which suffices its appetite. But it is not wholly at rest, as regards the desirer, since it does not possess that good in every way that it would wish to possess it. Consequently, after the body has been resumed, Happiness increases not in intensity, but in extent.
 
 Reply to Objection 6: The statement made (Gen. ad lit. xii, 35) to the effect that "the souls of the departed see not God as the angels do," is not to be understood as referring to inequality of quantity; because even now some souls of the Blessed are raised to the higher orders of the angels, thus seeing God more clearly than the lower angels. But it refers to inequality of proportion: because the angels, even the lowest, have every perfection of Happiness that they ever will have, whereas the separated souls of the saints have not.
-# Whether Perfection Of The Body Is Necessary For Happiness?
+## Whether Perfection Of The Body Is Necessary For Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that perfection of the body is not necessary for man's perfect Happiness. For perfection of the body is a bodily good. But it has been shown above ([1026]Q[2]) that Happiness does not consist in bodily goods. Therefore no perfect disposition of the body is necessary for man's Happiness.
 
@@ -148,7 +148,7 @@ Objection 2: Further, man's Happiness consists in the vision of the Divine Essen
 
 Objection 3: Further, the more the intellect is abstracted from the body, the more perfectly it understands. But Happiness consists in the most perfect operation of the intellect. Therefore the soul should be abstracted from the body in every way. Therefore, in no way is a disposition of the body necessary for Happiness.
 
-## Answer
+### Answer
 
 On the contrary, Happiness is the reward of virtue; wherefore it is written (Jn. 13:17): "You shall be blessed, if you do them." But the reward promised to the saints is not only that they shall see and enjoy God, but also that their bodies shall be well-disposed; for it is written (Is. 66:14): "You shall see and your heart shall rejoice, and your bones shall flourish like a herb." Therefore good disposition of the body is necessary for Happiness.
 
@@ -158,16 +158,16 @@ But speaking of perfect Happiness, some have maintained that no disposition of b
 
 Consequently, we must say that perfect disposition of the body is necessary, both antecedently and consequently, for that Happiness which is in all ways perfect. Antecedently, because, as Augustine says (Gen. ad lit. xii, 35), "if body be such, that the governance thereof is difficult and burdensome, like unto flesh which is corruptible and weighs upon the soul, the mind is turned away from that vision of the highest heaven." Whence he concludes that, "when this body will no longer be 'natural,' but 'spiritual,' then will it be equalled to the angels, and that will be its glory, which erstwhile was its burden." Consequently, because from the Happiness of the soul there will be an overflow on to the body, so that this too will obtain its perfection. Hence Augustine says (Ep. ad Dioscor.) that "God gave the soul such a powerful nature that from its exceeding fulness of happiness the vigor of incorruption overflows into the lower nature."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Happiness does not consist in bodily good as its object: but bodily good can add a certain charm and perfection to Happiness.
 
 Reply to Objection 2: Although the body has not part in that operation of the intellect whereby the Essence of God is seen, yet it might prove a hindrance thereto. Consequently, perfection of the body is necessary, lest it hinder the mind from being lifted up.
 
 Reply to Objection 3: The perfect operation of the intellect requires indeed that the intellect be abstracted from this corruptible body which weighs upon the soul; but not from the spiritual body, which will be wholly subject to the spirit. On this point we shall treat in the Third Part of this work (SS, Q[82], seqq.).
-# Whether Any External Goods Are Necessary For Happiness?
+## Whether Any External Goods Are Necessary For Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that external goods also are necessary for Happiness. For that which is promised the saints for reward, belongs to Happiness. But external goods are promised the saints; for instance, food and drink, wealth and a kingdom: for it is said (Lk. 22:30): "That you may eat and drink at My table in My kingdom": and (Mat. 6:20): "Lay up to yourselves treasures in heaven": and (Mat. 25:34): "Come, ye blessed of My Father, possess you the kingdom." Therefore external goods are necessary for Happiness.
 
@@ -175,7 +175,7 @@ Objection 2: Further, according to Boethius (De Consol. iii): happiness is "a st
 
 Objection 3: Further, Our Lord said (Mat. 5:12): "Your reward is very great in heaven." But to be in heaven implies being in a place. Therefore at least external place is necessary for Happiness.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 72:25): "For what have I in heaven? and besides Thee what do I desire upon earth?" As though to say: "I desire nothing but this,"---"It is good for me to adhere to my God." Therefore nothing further external is necessary for Happiness.
 
@@ -183,16 +183,16 @@ I answer that, For imperfect happiness, such as can be had in this life, externa
 
 On the other hand, such goods as these are nowise necessary for perfect Happiness, which consists in seeing God. The reason of this is that all suchlike external goods are requisite either for the support of the animal body; or for certain operations which belong to human life, which we perform by means of the animal body: whereas that perfect Happiness which consists in seeing God, will be either in the soul separated from the body, or in the soul united to the body then no longer animal but spiritual. Consequently these external goods are nowise necessary for that Happiness, since they are ordained to the animal life. And since, in this life, the felicity of contemplation, as being more Godlike, approaches nearer than that of action to the likeness of that perfect Happiness, therefore it stands in less need of these goods of the body as stated in Ethic. x, 8.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All those material promises contained in Holy Scripture, are to be understood metaphorically, inasmuch as Scripture is wont to express spiritual things under the form of things corporeal, in order "that from things we know, we may rise to the desire of things unknown," as Gregory says (Hom. xi in Evang.). Thus food and drink signify the delight of Happiness; wealth, the sufficiency of God for man; the kingdom, the lifting up of man to union of God.
 
 Reply to Objection 2: These goods that serve for the animal life, are incompatible with that spiritual life wherein perfect Happiness consists. Nevertheless in that Happiness there will be the aggregate of all good things, because whatever good there be in these things, we shall possess it all in the Supreme Fount of goodness.
 
 Reply to Objection 3: According to Augustine (De Serm. Dom. in Monte i, 5), it is not material heaven that is described as the reward of the saints, but a heaven raised on the height of spiritual goods. Nevertheless a bodily place, viz. the empyrean heaven, will be appointed to the Blessed, not as a need of Happiness, but by reason of a certain fitness and adornment.
-# Whether The Fellowship Of Friend Is Necessary For Happiness?
+## Whether The Fellowship Of Friend Is Necessary For Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that friends are necessary for Happiness. For future Happiness is frequently designated by Scripture under the name of "glory." But glory consists in man's good being brought to the notice of many. Therefore the fellowship of friends is necessary for Happiness.
 
@@ -200,7 +200,7 @@ Objection 2: Further, Boethius [*Seneca, Ep. 6] says that "there is no delight i
 
 Objection 3: Further, charity is perfected in Happiness. But charity includes the love of God and of our neighbor. Therefore it seems that fellowship of friends is necessary for Happiness.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Wis. 7:11): "All good things came to me together with her," i.e. with divine wisdom, which consists in contemplating God. Consequently nothing else is necessary for Happiness.
 
@@ -208,7 +208,7 @@ I answer that, If we speak of the happiness of this life, the happy man needs fr
 
 But if we speak of perfect Happiness which will be in our heavenly Fatherland, the fellowship of friends is not essential to Happiness; since man has the entire fulness of his perfection in God. But the fellowship of friends conduces to the well-being of Happiness. Hence Augustine says (Gen. ad lit. viii, 25) that "the spiritual creatures receive no other interior aid to happiness than the eternity, truth, and charity of the Creator. But if they can be said to be helped from without, perhaps it is only by this that they see one another and rejoice in God, at their fellowship."
 
-## Replies
+### Replies
 
 Reply to Objection 1: That glory which is essential to Happiness, is that which man has, not with man but with God.
 

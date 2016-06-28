@@ -7,9 +7,9 @@ In the next place, since venial and mortal sins differ in respect of the debt of
 (4) Whether a venial sin can become mortal?
 (5) Whether a venial sin can become mortal by reason of an aggravating circumstance?
 (6) Whether a mortal sin can become venial?
-# Whether Venial Sin Is Fittingly Condivided With Mortal Sin?
+## Whether Venial Sin Is Fittingly Condivided With Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that venial sin is unfittingly condivided with mortal sin. For Augustine says (Contra Faust. xxii, 27): "Sin is a word, deed or desire contrary to the eternal law." But the fact of being against the eternal law makes a sin to be mortal. Consequently every sin is mortal. Therefore venial sin is not condivided with mortal sin.
 
@@ -19,7 +19,7 @@ Objection 3: Further, whoever cleaves to a thing by love, cleaves either as enjo
 
 Objection 4: Further, whoever approaches one term, from that very fact turns away from the opposite. Now whoever sins, approaches a mutable good, and, consequently turns away from the immutable good, so that he sins mortally. Therefore venial sin is unfittingly condivided with mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Tract. xli in Joan.), that "a crime is one that merits damnation, and a venial sin, one that does not." But a crime denotes a mortal sin. Therefore venial sin is fittingly condivided with mortal sin.
 
@@ -29,7 +29,7 @@ For sin, being a sickness of the soul, as stated above ([1910]Q[71], A[1], ad 3;
 
 Accordingly, mortal and venial are mutually opposed as reparable and irreparable: and I say this with reference to the intrinsic principle, but not to the Divine power, which can repair all diseases, whether of the body or of the soul. Therefore venial sin is fittingly condivided with mortal sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The division of sin into venial and mortal is not a division of a genus into its species which have an equal share of the generic nature: but it is the division of an analogous term into its parts, of which it is predicated, of the one first, and of the other afterwards. Consequently the perfect notion of sin, which Augustine gives, applies to mortal sin. On the other hand, venial sin is called a sin, in reference to an imperfect notion of sin, and in relation to mortal sin: even as an accident is called a being, in relation to substance, in reference to the imperfect notion of being. For it is not "against" the law, since he who sins venially neither does what the law forbids, nor omits what the law prescribes to be done; but he acts "beside" the law, through not observing the mode of reason, which the law intends.
 
@@ -38,9 +38,9 @@ Reply to Objection 2: This precept of the Apostle is affirmative, and so it does
 Reply to Objection 3: He that sins venially, cleaves to temporal good, not as enjoying it, because he does not fix his end in it, but as using it, by referring it to God, not actually but habitually.
 
 Reply to Objection 4: Mutable good is not considered to be a term in contraposition to the immutable good, unless one's end is fixed therein: because what is referred to the end has not the character of finality.
-# Whether Mortal And Venial Sin Differ Generically?
+## Whether Mortal And Venial Sin Differ Generically?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that venial and mortal sin do not differ generically, so that some sins be generically mortal, and some generically venial. Because human acts are considered to be generically good or evil according to their matter or object, as stated above ([1918]Q[18], A[2]). Now either mortal or venial sin may be committed in regard to any object or matter: since man can love any mutable good, either less than God, which may be a venial sin, or more than God, which is a mortal sin. Therefore venial and mortal sin do not differ generically.
 
@@ -48,7 +48,7 @@ Objection 2: Further, as stated above [1919](A[1]; Q[72], A[5]; Q[87], A[3]), a 
 
 Objection 3: Further, it was stated above ([1920]Q[74], A[3], ad 3; A[10]) that sudden movements both of the sensuality and of the reason are venial sins. But sudden movements occur in every kind of sin. Therefore no sins are generically venial.
 
-## Answer
+### Answer
 
 On the contrary, Augustine, in a sermon on Purgatory (De Sanctis, serm. xli), enumerates certain generic venial sins, and certain generic mortal sins.
 
@@ -58,16 +58,16 @@ For as regards the first two, it is evident that they have no determinate genus:
 
 Nevertheless, since moral acts derive their character of goodness and malice, not only from their objects, but also from some disposition of the agent, as stated above ([1921]Q[18], AA[4],6), it happens sometimes that a sin which is venial generically by reason of its object, becomes mortal on the part of the agent, either because he fixes his last end therein, or because he directs it to something that is a mortal sin in its own genus; for example, if a man direct an idle word to the commission of adultery. In like manner it may happen, on the part of the agent, that a sin generically mortal becomes venial, by reason of the act being imperfect, i.e. not deliberated by reason, which is the proper principle of an evil act, as we have said above in reference to sudden movements of unbelief.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The very fact that anyone chooses something that is contrary to divine charity, proves that he prefers it to the love of God, and consequently, that he loves it more than he loves God. Hence it belongs to the genus of some sins, which are of themselves contrary to charity, that something is loved more than God; so that they are mortal by reason of their genus.
 
 Reply to Objection 2: This argument considers those sins which are venial from their cause.
 
 Reply to Objection 3: This argument considers those sins which are venial by reason of the imperfection of the act.
-# Whether Venial Sin Is A Disposition To Mortal Sin?
+## Whether Venial Sin Is A Disposition To Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that venial sin is not a disposition to mortal sin. For one contrary does not dispose to another. But venial and mortal sin are condivided as contrary to one another, as stated above [1922](A[1]). Therefore venial sin is not a disposition to mortal sin.
 
@@ -75,22 +75,22 @@ Objection 2: Further, an act disposes to something of like species, wherefore it
 
 Objection 3: Further, if a sin is called venial because it disposes to mortal sin, it follows that whatever disposes to mortal sin is a venial sin. Now every good work disposes to mortal sin; wherefore Augustine says in his Rule (Ep. ccxi) that "pride lies in wait for good works that it may destroy them." Therefore even good works would be venial sins, which is absurd.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 19:1): "He that contemneth small things shall fall by little and little." Now he that sins venially seems to contemn small things. Therefore by little and little he is disposed to fall away together into mortal sin.
 
 I answer that, A disposition is a kind of cause; wherefore as there is a twofold manner of cause, so is there a twofold manner of disposition. For there is a cause which moves directly to the production of the effect, as a hot thing heats: and there is a cause which moves indirectly, by removing an obstacle, as he who displaces a pillar is said to displace the stone that rests on it. Accordingly an act of sin disposes to something in two ways. First, directly, and thus it disposes to an act of like species. In this way, a sin generically venial does not, primarily and of its nature, dispose to a sin generically mortal, for they differ in species. Nevertheless, in this same way, a venial sin can dispose, by way of consequence, to a sin which is mortal on the part of the agent: because the disposition or habit may be so far strengthened by acts of venial sin, that the lust of sinning increases, and the sinner fixes his end in that venial sin: since the end for one who has a habit, as such, is to work according to that habit; and the consequence will be that, by sinning often venially, he becomes disposed to a mortal sin. Secondly, a human act disposes to something by removing an obstacle thereto. In this way a sin generically venial can dispose to a sin generically mortal. Because he that commits a sin generically venial, turns aside from some particular order; and through accustoming his will not to be subject to the due order in lesser matters, is disposed not to subject his will even to the order of the last end, by choosing something that is a mortal sin in its genus.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Venial and mortal sin are not condivided in contrariety to one another, as though they were species of one genus, as stated above (A[1], ad 1), but as an accident is condivided with substance. Wherefore an accident can be a disposition to a substantial form, so can a venial sin dispose to mortal.
 
 Reply to Objection 2: Venial sin is not like mortal sin in species; but it is in genus, inasmuch as they both imply a defect of due order, albeit in different ways, as stated ([1924]AA[1],2).
 
 Reply to Objection 3: A good work is not, of itself, a disposition to mortal sin; but it can be the matter or occasion of mortal sin accidentally; whereas a venial sin, of its very nature, disposes to mortal sin, as stated.
-# Whether A Venial Sin Can Become Mortal?
+## Whether A Venial Sin Can Become Mortal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a venial sin can become a mortal sin. For Augustine in explaining the words of Jn. 3:36: "He that believeth not the Son, shall not see life," says (Tract. xii in Joan.): "The slightest," i.e. venial, "sins kill if we make little of them." Now a sin is called mortal through causing the spiritual death of the soul. Therefore a venial sin can become mortal.
 
@@ -100,7 +100,7 @@ Objection 3: Further, venial and mortal sin differ as curable and incurable dise
 
 Objection 4: Further, a disposition may become a habit. Now venial sin is a disposition to mortal, as stated [1927](A[3]). Therefore a venial sin can become mortal.
 
-## Answer
+### Answer
 
 
 
@@ -112,7 +112,7 @@ Thirdly, this may be understood in the sense of many venial sins constituting on
 
 If, however, this be taken as meaning that many venial sins make one mortal sin dispositively, it is true, as was shown above [1930](A[3]) with regard to the two different manners of disposition, whereby venial sin disposes to mortal sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine is referring to the fact of many venial sins making one mortal sin dispositively.
 
@@ -121,9 +121,9 @@ Reply to Objection 2: The same movement of the sensuality which preceded the con
 Reply to Objection 3: Disease of the body is not an act, but an abiding disposition; wherefore, while remaining the same disease, it may undergo change. On the other hand, venial sin is a transient act, which cannot be taken up again: so that in this respect the comparison fails.
 
 Reply to Objection 4: A disposition that becomes a habit, is like an imperfect thing in the same species; thus imperfect science, by being perfected, becomes a habit. On the other hand, venial sin is a disposition to something differing generically, even as an accident which disposes to a substantial form, into which it is never changed.
-# Whether A Circumstance Can Make A Venial Sin To Be Mortal?
+## Whether A Circumstance Can Make A Venial Sin To Be Mortal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a circumstance can make a venial sin mortal. For Augustine says in a sermon on Purgatory (De Sanctis, serm. xli) that "if anger continue for a long time, or if drunkenness be frequent, they become mortal sins." But anger and drunkenness are not mortal but venial sins generically, else they would always be mortal sins. Therefore a circumstance makes a venial sin to be mortal.
 
@@ -131,7 +131,7 @@ Objection 2: Further, the Master says ( Sentent. ii, D, 24) that delectation, if
 
 Objection 3: Further, evil and good differ more than venial and mortal sin, both of which are generically evil. But a circumstance makes a good act to be evil, as when a man gives an alms for vainglory. Much more, therefore, can it make a venial sin to be mortal.
 
-## Answer
+### Answer
 
 On the contrary, Since a circumstance is an accident, its quantity cannot exceed that of the act itself, derived from the act's genus, because the subject always excels its accident. If, therefore, an act be venial by reason of its genus, it cannot become mortal by reason of an accident: since, in a way, mortal sin infinitely surpasses the quantity of venial sin, as is evident from what has been said ([1932]Q[72], A[5], ad 1;[1933] Q[87], A[5], ad 1).
 
@@ -139,16 +139,16 @@ I answer that, As stated above (Q[7], A[1]; Q[18], A[5], ad 4; AA[10] ,11), when
 
 It is, however, impossible for a circumstance to make a venial sin become mortal, unless it adds the deformity of another species. For it has been stated above [1934](A[1]) that the deformity of a venial sin consists in a disorder affecting things that are referred to the end, whereas the deformity of a mortal sin consists in a disorder about the last end. Consequently it is evident that a circumstance cannot make a venial sin to be mortal, so long as it remains a circumstance, but only when it transfers the sin to another species, and becomes, as it were, the specific difference of the moral act.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Length of time is not a circumstance that draws a sin to another species, nor is frequency or custom, except perhaps by something accidental supervening. For an action does not acquire a new species through being repeated or prolonged, unless by chance something supervene in the repeated or prolonged act to change its species, e.g. disobedience, contempt, or the like.
 
 Reply to Objection 2: Morose delectation is not a mortal sin except in those matters which are mortal sins generically. In such matters, if the delectation be not morose, there is a venial sin through imperfection of the act, as we have said with regard to anger (ad 1): because anger is said to be lasting, and delectation to be morose, on account of the approval of the deliberating reason.
 
 Reply to Objection 3: A circumstance does not make a good act to be evil, unless it constitute the species of a sin, as we have stated above ([1935]Q[18], A[5] , ad 4).
-# Whether A Mortal Sin Can Become Venial?
+## Whether A Mortal Sin Can Become Venial?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a mortal sin can become venial. Because venial sin is equally distant from mortal, as mortal sin is from venial. But a venial sin can become mortal, as stated above [1936](A[5]). Therefore also a mortal sin can become venial.
 
@@ -156,7 +156,7 @@ Objection 2: Further, venial and mortal sin are said to differ in this, that he 
 
 Objection 3: Further, as stated above (A[5], OBJ[3]), good is more distant from evil, than venial from mortal sin. But an act which is evil in itself, can become good; thus to kill a man may be an act of justice, as when a judge condemns a thief to death. Much more therefore can a mortal sin become venial.
 
-## Answer
+### Answer
 
 On the contrary, An eternal thing can never become temporal. But mortal sin deserves eternal punishment, whereas venial sin deserves temporal punishment. Therefore a mortal sin can never become venial.
 
@@ -164,7 +164,7 @@ I answer that, Venial and mortal differ as perfect and imperfect in the genus of
 
 Nevertheless a sin which is generically mortal, can become venial by reason of the imperfection of the act, because then it does not completely fulfil the conditions of a moral act, since it is not a deliberate, but a sudden act, as is evident from what we have said above [1937](A[2]). This happens by a kind of subtraction, namely, of deliberate reason. And since a moral act takes its species from deliberate reason, the result is that by such a subtraction the species of the act is destroyed.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Venial differs from mortal as imperfect from perfect, even as a boy differs from a man. But the boy becomes a man and not vice versa. Hence the argument does not prove.
 

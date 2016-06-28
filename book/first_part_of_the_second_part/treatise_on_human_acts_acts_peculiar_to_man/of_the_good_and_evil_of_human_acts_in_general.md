@@ -12,9 +12,9 @@ We must now consider the good and evil of human acts. First, how a human act is 
 (9) Whether an individual action can be indifferent?
 (10) Whether a circumstance places a moral action in the species of good or evil?
 (11) Whether every circumstance that makes an action better or worse, places the moral action in the species of good or evil?
-# Whether Every Human Action Is Good, Or Are There Evil Actions?
+## Whether Every Human Action Is Good, Or Are There Evil Actions?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that every human action is good, and that none is evil. For Dionysius says (Div. Nom. iv) that evil acts not, save in virtue of the good. But no evil is done in virtue of the good. Therefore no action is evil.
 
@@ -22,22 +22,22 @@ Objection 2: Further, nothing acts except in so far as it is in act. Now a thing
 
 Objection 3: Further, evil cannot be a cause, save accidentally, as Dionysius declares (Div. Nom. iv). But every action has some effect which is proper to it. Therefore no action is evil, but every action is good.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said (Jn. 3:20): "Every one that doth evil, hateth the light." Therefore some actions of man are evil.
 
 I answer that, We must speak of good and evil in actions as of good and evil in things: because such as everything is, such is the act that it produces. Now in things, each one has so much good as it has being: since good and being are convertible, as was stated in the [1134]FP, Q[5], AA[1],3. But God alone has the whole plenitude of His Being in a certain unity: whereas every other thing has its proper fulness of being in a certain multiplicity. Wherefore it happens with some things, that they have being in some respect, and yet they are lacking in the fulness of being due to them. Thus the fulness of human being requires a compound of soul and body, having all the powers and instruments of knowledge and movement: wherefore if any man be lacking in any of these, he is lacking in something due to the fulness of his being. So that as much as he has of being, so much has he of goodness: while so far as he is lacking in goodness, and is said to be evil: thus a blind man is possessed of goodness inasmuch as he lives; and of evil, inasmuch as he lacks sight. That, however, which has nothing of being or goodness, could not be said to be either evil or good. But since this same fulness of being is of the very essence of good, if a thing be lacking in its due fulness of being, it is not said to be good simply, but in a certain respect, inasmuch as it is a being; although it can be called a being simply, and a non-being in a certain respect, as was stated in the [1135]FP, Q[5], A[1], ad 1. We must therefore say that every action has goodness, in so far as it has being; whereas it is lacking in goodness, in so far as it is lacking in something that is due to its fulness of being; and thus it is said to be evil: for instance if it lacks the quantity determined by reason, or its due place, or something of the kind.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Evil acts in virtue of deficient goodness. For it there were nothing of good there, there would be neither being nor possibility of action. On the other hand if good were not deficient, there would be no evil. Consequently the action done is a deficient good, which is good in a certain respect, but simply evil.
 
 Reply to Objection 2: Nothing hinders a thing from being in act in a certain respect, so that it can act; and in a certain respect deficient in act, so as to cause a deficient act. Thus a blind man has in act the power of walking, whereby he is able to walk; but inasmuch as he is deprived of sight he suffers a defect in walking by stumbling when he walks.
 
 Reply to Objection 3: An evil action can have a proper effect, according to the goodness and being that it has. Thus adultery is the cause of human generation, inasmuch as it implies union of male and female, but not inasmuch as it lacks the order of reason.
-# Whether The Good Or Evil Of A Man's Action Is Derived From Its Object?
+## Whether The Good Or Evil Of A Man's Action Is Derived From Its Object?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the good or evil of an action is not derived from its object. For the object of any action is a thing. But "evil is not in things, but in the sinner's use of them," as Augustine says (De Doctr. Christ. iii, 12). Therefore the good or evil of a human action is not derived from their object.
 
@@ -45,22 +45,22 @@ Objection 2: Further, the object is compared to the action as its matter. But th
 
 Objection 3: Further, the object of an active power is compared to the action as effect to cause. But the goodness of a cause does not depend on its effect; rather is it the reverse. Therefore good or evil in actions is not derived from their object.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Osee 9:10): "They became abominable as those things which they loved." Now man becomes abominable to God on account of the malice of his action. Therefore the malice of his action is according to the evil objects that man loves. And the same applies to the goodness of his action.
 
 I answer that, as stated above [1136](A[1]) the good or evil of an action, as of other things, depends on its fulness of being or its lack of that fulness. Now the first thing that belongs to the fulness of being seems to be that which gives a thing its species. And just as a natural thing has its species from its form, so an action has its species from its object, as movement from its term. And therefore just as the primary goodness of a natural thing is derived from its form, which gives it its species, so the primary goodness of a moral action is derived from its suitable object: hence some call such an action "good in its genus"; for instance, "to make use of what is one's own." And just as, in natural things, the primary evil is when a generated thing does not realize its specific form (for instance, if instead of a man, something else be generated); so the primary evil in moral actions is that which is from the object, for instance, "to take what belongs to another." And this action is said to be "evil in its genus," genus here standing for species, just as we apply the term "mankind" to the whole human species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although external things are good in themselves, nevertheless they have not always a due proportion to this or that action. And so, inasmuch as they are considered as objects of such actions, they have not the quality of goodness.
 
 Reply to Objection 2: The object is not the matter "of which" (a thing is made), but the matter "about which" (something is done); and stands in relation to the act as its form, as it were, through giving it its species.
 
 Reply to Objection 3: The object of the human action is not always the object of an active power. For the appetitive power is, in a way, passive; in so far as it is moved by the appetible object; and yet it is a principle of human actions. Nor again have the objects of the active powers always the nature of an effect, but only when they are already transformed: thus food when transformed is the effect of the nutritive power; whereas food before being transformed stands in relation to the nutritive power as the matter about which it exercises its operation. Now since the object is in some way the effect of the active power, it follows that it is the term of its action, and consequently that it gives it its form and species, since movement derives its species from its term. Moreover, although the goodness of an action is not caused by the goodness of its effect, yet an action is said to be good from the fact that it can produce a good effect. Consequently the very proportion of an action to its effect is the measure of its goodness.
-# Whether Man's Action Is Good Or Evil From A Circumstance?
+## Whether Man's Action Is Good Or Evil From A Circumstance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an action is not good or evil from a circumstance. For circumstances stand around [circumstant] an action, as being outside it, as stated above ([1137]Q[7], A[1]). But "good and evil are in things themselves," as is stated in Metaph. vi, 4. Therefore an action does not derive goodness or malice from a circumstance.
 
@@ -68,22 +68,22 @@ Objection 2: Further, the goodness or malice of an action is considered principa
 
 Objection 3: Further, that which belongs to a thing, in respect of its substance, is not ascribed to it in respect of an accident. But good and evil belong to an action in respect of its substance; because an action can be good or evil in its genus as stated above [1138](A[2]). Therefore an action is not good or bad from a circumstance.
 
-## Answer
+### Answer
 
 On the contrary, the Philosopher says (Ethic. ii, 3) that a virtuous man acts as he should, and when he should, and so on in respect of the other circumstances. Therefore, on the other hand, the vicious man, in the matter of each vice, acts when he should not, or where he should not, and so on with the other circumstances. Therefore human actions are good or evil according to circumstances.
 
 I answer that, In natural things, it is to be noted that the whole fulness of perfection due to a thing, is not from the mere substantial form, that gives it its species; since a thing derives much from supervening accidents, as man does from shape, color, and the like; and if any one of these accidents be out of due proportion, evil is the result. So it is with action. For the plenitude of its goodness does not consist wholly in its species, but also in certain additions which accrue to it by reason of certain accidents: and such are its due circumstances. Wherefore if something be wanting that is requisite as a due circumstance the action will be evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Circumstances are outside an action, inasmuch as they are not part of its essence; but they are in an action as accidents thereof. Thus, too, accidents in natural substances are outside the essence.
 
 Reply to Objection 2: Every accident is not accidentally in its subject; for some are proper accidents; and of these every art takes notice. And thus it is that the circumstances of actions are considered in the doctrine of morals.
 
 Reply to Objection 3: Since good and being are convertible; according as being is predicated of substance and of accident, so is good predicated of a thing both in respect of its essential being, and in respect of its accidental being; and this, both in natural things and in moral actions.
-# Whether A Human Action Is Good Or Evil From Its End?
+## Whether A Human Action Is Good Or Evil From Its End?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the good and evil in human actions are not from the end. For Dionysius says (Div. Nom. iv) that "nothing acts with a view to evil." If therefore an action were good or evil from its end, no action would be evil. Which is clearly false.
 
@@ -91,7 +91,7 @@ Objection 2: Further, the goodness of an action is something in the action. But 
 
 Objection 3: Further, a good action may happen to be ordained to an evil end, as when a man gives an alms from vainglory; and conversely, an evil action may happen to be ordained to a good end, as a theft committed in order to give something to the poor. Therefore an action is not good or evil from its end.
 
-## Answer
+### Answer
 
 On the contrary, Boethius says (De Differ. Topic. ii) that "if the end is good, the thing is good, and if the end be evil, the thing also is evil."
 
@@ -99,16 +99,16 @@ I answer that, The disposition of things as to goodness is the same as their dis
 
 Accordingly a fourfold goodness may be considered in a human action. First, that which, as an action, it derives from its genus; because as much as it has of action and being so much has it of goodness, as stated above [1139](A[1]). Secondly, it has goodness according to its species; which is derived from its suitable object. Thirdly, it has goodness from its circumstances, in respect, as it were, of its accidents. Fourthly, it has goodness from its end, to which it is compared as to the cause of its goodness.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The good in view of which one acts is not always a true good; but sometimes it is a true good, sometimes an apparent good. And in the latter event, an evil action results from the end in view.
 
 Reply to Objection 2: Although the end is an extrinsic cause, nevertheless due proportion to the end, and relation to the end, are inherent to the action.
 
 Reply to Objection 3: Nothing hinders an action that is good in one of the way mentioned above, from lacking goodness in another way. And thus it may happen that an action which is good in its species or in its circumstances is ordained to an evil end, or vice versa. However, an action is not good simply, unless it is good in all those ways: since "evil results from any single defect, but good from the complete cause," as Dionysius says (Div. Nom. iv).
-# Whether A Human Action Is Good Or Evil In Its Species?
+## Whether A Human Action Is Good Or Evil In Its Species?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that good and evil in moral actions do not make a difference of species. For the existence of good and evil in actions is in conformity with their existence in things, as stated above [1140](A[1]). But good and evil do not make a specific difference in things; for a good man is specifically the same as a bad man. Therefore neither do they make a specific difference in actions.
 
@@ -118,7 +118,7 @@ Objection 3: Further, acts that differ in species produce different effects. But
 
 Objection 4: Further, actions are sometimes said to be good or bad from a circumstance, as stated above [1141](A[3]). But since a circumstance is an accident, it does not give an action its species. Therefore human actions do not differ in species on account of their goodness or malice.
 
-## Answer
+### Answer
 
 On the contrary, According to the Philosopher (Ethic ii. 1) "like habits produce like actions." But a good and a bad habit differ in species, as liberality and prodigality. Therefore also good and bad actions differ in species.
 
@@ -126,7 +126,7 @@ I answer that, Every action derives its species from its object, as stated above
 
 Now in human actions, good and evil are predicated in reference to the reason; because as Dionysius says (Div. Nom. iv), "the good of man is to be in accordance with reason," and evil is "to be against reason." For that is good for a thing which suits it in regard to its form; and evil, that which is against the order of its form. It is therefore evident that the difference of good and evil considered in reference to the object is an essential difference in relation to reason; that is to say, according as the object is suitable or unsuitable to reason. Now certain actions are called human or moral, inasmuch as they proceed from the reason. Consequently it is evident that good and evil diversify the species in human actions; since essential differences cause a difference of species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even in natural things, good and evil, inasmuch as something is according to nature, and something against nature, diversify the natural species; for a dead body and a living body are not of the same species. In like manner, good, inasmuch as it is in accord with reason, and evil, inasmuch as it is against reason, diversify the moral species.
 
@@ -135,9 +135,9 @@ Reply to Objection 2: Evil implies privation, not absolute, but affecting some p
 Reply to Objection 3: The conjugal act and adultery, as compared to reason, differ specifically and have effects specifically different; because the other deserves praise and reward, the other, blame and punishment. But as compared to the generative power, they do not differ in species; and thus they have one specific effect.
 
 Reply to Objection 4: A circumstance is sometimes taken as the essential difference of the object, as compared to reason; and then it can specify a moral act. And it must needs be so whenever a circumstance transforms an action from good to evil; for a circumstance would not make an action evil, except through being repugnant to reason.
-# Whether An Action Has The Species Of Good Or Evil From Its End?
+## Whether An Action Has The Species Of Good Or Evil From Its End?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the good and evil which are from the end do not diversify the species of actions. For actions derive their species from the object. But the end is altogether apart from the object. Therefore the good and evil which are from the end do not diversify the species of an action.
 
@@ -145,7 +145,7 @@ Objection 2: Further, that which is accidental does not constitute the species, 
 
 Objection 3: Further, acts that differ in species, can be ordained to the same end: thus to the end of vainglory, actions of various virtues and vices can be ordained. Therefore the good and evil which are taken from the end, do not diversify the species of action.
 
-## Answer
+### Answer
 
 On the contrary, It has been shown above ([1144]Q[1], A[3]) that human actions derive their species from the end. Therefore good and evil in respect of the end diversify the species of actions.
 
@@ -153,16 +153,16 @@ I answer that, Certain actions are called human, inasmuch as they are voluntary,
 
 Now that which is on the part of the will is formal in regard to that which is on the part of the external action: because the will uses the limbs to act as instruments; nor have external actions any measure of morality, save in so far as they are voluntary. Consequently the species of a human act is considered formally with regard to the end, but materially with regard to the object of the external action. Hence the Philosopher says (Ethic. v, 2) that "he who steals that he may commit adultery, is strictly speaking, more adulterer than thief."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The end also has the character of an object, as stated above.
 
 Reply to Objection 2: Although it is accidental to the external action to be ordained to some particular end, it is not accidental to the interior act of the will, which act is compared to the external act, as form to matter.
 
 Reply to Objection 3: When many actions, differing in species, are ordained to the same end, there is indeed a diversity of species on the part of the external actions; but unity of species on the part of the internal action.
-# Whether The Species Derived From The End Is Contained Under The Species Derived From The Object, As Under Its Genus, Or Conversely?
+## Whether The Species Derived From The End Is Contained Under The Species Derived From The Object, As Under Its Genus, Or Conversely?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the species of goodness derived from the end is contained under the species of goodness derived from the object, as a species is contained under its genus; for instance, when a man commits a theft in order to give alms. For an action takes its species from its object, as stated above ([1146]AA[2],6). But it is impossible for a thing to be contained under another species, if this species be not contained under the proper species of that thing; because the same thing cannot be contained in different species that are not subordinate to one another. Therefore the species which is taken from the end, is contained under the species which is taken from the object.
 
@@ -170,7 +170,7 @@ Objection 2: Further, the last difference always constitutes the most specific s
 
 Objection 3: Further, the more formal a difference is compared to genus, as form to matter. But the species derived from the end, is more formal than that which is derived from the object, as stated above [1147](A[6]). Therefore the species derived from the end is contained under the species derived from the object, as the most specific species is contained under the subaltern genus.
 
-## Answer
+### Answer
 
 On the contrary, Each genus has its determinate differences. But an action of one same species on the part of its object, can be ordained to an infinite number of ends: for instance, theft can be ordained to an infinite number of good and bad ends. Therefore the species derived from the end is not contained under the species derived from the object, as under its genus.
 
@@ -178,16 +178,16 @@ I answer that, The object of the external act can stand in a twofold relation to
 
 It remains to be considered which of the two is contained under the other. In order to make this clear, we must first of all observe that the more particular the form is from which a difference is taken, the more specific is the difference. Secondly, that the more universal an agent is, the more universal a form does it cause. Thirdly, that the more remote an end is, the more universal the agent to which it corresponds; thus victory, which is the last end of the army, is the end intended by the commander in chief; while the right ordering of this or that regiment is the end intended by one of the lower officers. From all this it follows that the specific difference derived from the end, is more general; and that the difference derived from an object which of itself is ordained to that end, is a specific difference in relation to the former. For the will, the proper object of which is the end, is the universal mover in respect of all the powers of the soul, the proper objects of which are the objects of their particular acts.
 
-## Replies
+### Replies
 
 Reply to Objection 1: One and the same thing, considered in its substance, cannot be in two species, one of which is not subordinate to the other. But in respect of those things which are superadded to the substance, one thing can be contained under different species. Thus one and the same fruit, as to its color, is contained under one species, i.e. a white thing: and, as to its perfume, under the species of sweet-smelling things. In like manner an action which, as to its substance, is in one natural species, considered in respect to the moral conditions that are added to it, can belong to two species, as stated above ([1148]Q[1], A[3], ad 3).
 
 Reply to Objection 2: The end is last in execution; but first in the intention of the reason, in regard to which moral actions receive their species.
 
 Reply to Objection 3: Difference is compared to genus as form to matter, inasmuch as it actualizes the genus. On the other hand, the genus is considered as more formal than the species, inasmuch as it is something more absolute and less contracted. Wherefore also the parts of a definition are reduced to the genus of formal cause, as is stated in Phys. ii, 3. And in this sense the genus is the formal cause of the species; and so much the more formal, as it is more universal.
-# Whether Any Action Is Indifferent In Its Species?
+## Whether Any Action Is Indifferent In Its Species?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no action is indifferent in its species. For evil is the privation of good, according to Augustine (Enchiridion xi). But privation and habit are immediate contraries, according to the Philosopher (Categor. viii). Therefore there is not such thing as an action that is indifferent in its species, as though it were between good and evil.
 
@@ -195,22 +195,22 @@ Objection 2: Further, human actions derive their species from their end or objec
 
 Objection 3: Further, as stated above [1150](A[1]), an action is said to be good, when it has its due complement of goodness; and evil, when it lacks that complement. But every action must needs either have the entire plenitude of its goodness, or lack it in some respect. Therefore every action must needs be either good or bad in its species, and none is indifferent.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Serm. Dom. in Monte ii, 18) that "there are certain deeds of a middle kind, which can be done with a good or evil mind, of which it is rash to form a judgment." Therefore some actions are indifferent according to their species.
 
 I answer that, As stated above ([1151]AA[2],5), every action takes its species from its object; while human action, which is called moral, takes its species from the object, in relation to the principle of human actions, which is the reason. Wherefore if the object of an action includes something in accord with the order of reason, it will be a good action according to its species; for instance, to give alms to a person in want. On the other hand, if it includes something repugnant to the order of reason, it will be an evil act according to its species; for instance, to steal, which is to appropriate what belongs to another. But it may happen that the object of an action does not include something pertaining to the order of reason; for instance, to pick up a straw from the ground, to walk in the fields, and the like: and such actions are indifferent according to their species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Privation is twofold. One is privation "as a result" [privatum esse], and this leaves nothing, but takes all away: thus blindness takes away sight altogether; darkness, light; and death, life. Between this privation and the contrary habit, there can be no medium in respect of the proper subject. The other is privation "in process" [privari]: thus sickness is privation of health; not that it takes health away altogether, but that it is a kind of road to the entire loss of health, occasioned by death. And since this sort of privation leaves something, it is not always the immediate contrary of the opposite habit. In this way evil is a privation of good, as Simplicius says in his commentary on the Categories: because it does not take away all good, but leaves some. Consequently there can be something between good and evil.
 
 Reply to Objection 2: Every object or end has some goodness or malice, at least natural to it: but this does not imply moral goodness or malice, which is considered in relation to the reason, as stated above. And it is of this that we are here treating.
 
 Reply to Objection 3: Not everything belonging to an action belongs also to its species. Wherefore although an action's specific nature may not contain all that belongs to the full complement of its goodness, it is not therefore an action specifically bad; nor is it specifically good. Thus a man in regard to his species is neither virtuous nor wicked.
-# Whether An Individual Action Can Be Indifferent?
+## Whether An Individual Action Can Be Indifferent?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an individual action can be indifferent. For there is no species that does not, cannot, contain an individual. But an action can be indifferent in its species, as stated above [1152](A[8]). Therefore an individual action can be indifferent.
 
@@ -218,7 +218,7 @@ Objection 2: Further, individual actions cause like habits, as stated in Ethic. 
 
 Objection 3: Further, moral good belongs to virtue, while moral evil belongs to vice. But it happens sometimes that a man fails to ordain a specifically indifferent action to a vicious or virtuous end. Therefore an individual action may happen to be indifferent.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says in a homily (vi in Evang.): "An idle word is one that lacks either the usefulness of rectitude or the motive of just necessity or pious utility." But an idle word is an evil, because "men . . . shall render an account of it in the day of judgment" (Mat. 12:36): while if it does not lack the motive of just necessity or pious utility, it is good. Therefore every word is either good or bad. For the same reason every other action is either good or bad. Therefore no individual action is indifferent.
 
@@ -226,16 +226,16 @@ I answer that, It sometimes happens that an action is indifferent in its species
 
 If, however, it does not proceed from deliberate reason, but from some act of the imagination, as when a man strokes his beard, or moves his hand or foot; such an action, properly speaking, is not moral or human; since this depends on the reason. Hence it will be indifferent, as standing apart from the genus of moral actions.
 
-## Replies
+### Replies
 
 Reply to Objection 1: For an action to be indifferent in its species can be understood in several ways. First in such a way that its species demands that it remain indifferent; and the objection proceeds along this line. But no action can be specifically indifferent thus: since no object of human action is such that it cannot be directed to good or evil, either through its end or through a circumstance. Secondly, specific indifference of an action may be due to the fact that as far as its species is concerned, it is neither good nor bad. Wherefore it can be made good or bad by something else. Thus man, as far as his species is concerned, is neither white nor black; nor is it a condition of his species that he should not be black or white; but blackness or whiteness is superadded to man by other principles than those of his species.
 
 Reply to Objection 2: The Philosopher states that a man is evil, properly speaking, if he be hurtful to others. And accordingly, because he hurts none save himself. And the same applies to all others who are not hurtful to other men. But we say here that evil, in general, is all that is repugnant to right reason. And in this sense every individual action is either good or bad, as stated above.
 
 Reply to Objection 3: Whenever an end is intended by deliberate reason, it belongs either to the good of some virtue, or to the evil of some vice. Thus, if a man's action is directed to the support or repose of his body, it is also directed to the good of virtue, provided he direct his body itself to the good of virtue. The same clearly applies to other actions.
-# Whether A Circumstance Places A Moral Action In The Species Of Good Or Evil?
+## Whether A Circumstance Places A Moral Action In The Species Of Good Or Evil?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a circumstance cannot place a moral action in the species of good or evil. For the species of an action is taken from its object. But circumstances differ from the object. Therefore circumstances do not give an action its species.
 
@@ -243,22 +243,22 @@ Objection 2: Further, circumstances are as accidents in relation to the moral ac
 
 Objection 3: Further, one thing is not in several species. But one action has several circumstances. Therefore a circumstance does not place a moral action in a species of good or evil.
 
-## Answer
+### Answer
 
 On the contrary, Place is a circumstance. But place makes a moral action to be in a certain species of evil; for theft of a thing from a holy place is a sacrilege. Therefore a circumstance makes a moral action to be specifically good or bad.
 
 I answer that, Just as the species of natural things are constituted by their natural forms, so the species of moral actions are constituted by forms as conceived by the reason, as is evident from what was said above [1155](A[5]). But since nature is determinate to one thing, nor can a process of nature go on to infinity, there must needs be some ultimate form, giving a specific difference, after which no further specific difference is possible. Hence it is that in natural things, that which is accidental to a thing, cannot be taken as a difference constituting the species. But the process of reason is not fixed to one particular term, for at any point it can still proceed further. And consequently that which, in one action, is taken as a circumstance added to the object that specifies the action, can again be taken by the directing reason, as the principal condition of the object that determines the action's species. Thus to appropriate another's property is specified by reason of the property being "another's," and in this respect it is placed in the species of theft; and if we consider that action also in its bearing on place or time, then this will be an additional circumstance. But since the reason can direct as to place, time, and the like, it may happen that the condition as to place, in relation to the object, is considered as being in disaccord with reason: for instance, reason forbids damage to be done to a holy place. Consequently to steal from a holy place has an additional repugnance to the order of reason. And thus place, which was first of all considered as a circumstance, is considered here as the principal condition of the object, and as itself repugnant to reason. And in this way, whenever a circumstance has a special relation to reason, either for or against, it must needs specify the moral action whether good or bad.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A circumstance, in so far as it specifies an action, is considered as a condition of the object, as stated above, and as being, as it were, a specific difference thereof.
 
 Reply to Objection 2: A circumstance, so long as it is but a circumstance, does not specify an action, since thus it is a mere accident: but when it becomes a principal condition of the object, then it does specify the action.
 
 Reply to Objection 3: It is not every circumstance that places the moral action in the species of good or evil; since not every circumstance implies accord or disaccord with reason. Consequently, although one action may have many circumstances, it does not follow that it is in many species. Nevertheless there is no reason why one action should not be in several, even disparate, moral species, as said above (A[7], ad 1;[1156] Q[1], A[3], ad 3).
-# Whether Every Circumstance That Makes An Action Better Or Worse, Places A Moral Action In A Species Of Good Or Evil?
+## Whether Every Circumstance That Makes An Action Better Or Worse, Places A Moral Action In A Species Of Good Or Evil?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that every circumstance relating to good or evil, specifies an action. For good and evil are specific differences of moral actions. Therefore that which causes a difference in the goodness or malice of a moral action, causes a specific difference, which is the same as to make it differ in species. Now that which makes an action better or worse, makes it differ in goodness and malice. Therefore it causes it to differ in species. Therefore every circumstance that makes an action better or worse, constitutes a species.
 
@@ -266,13 +266,13 @@ Objection 2: Further, an additional circumstance either has in itself the charac
 
 Objection 3: Further, according to Dionysius (Div. Nom. iv), "evil is caused by each single defect." Now every circumstance that increases malice, has a special defect. Therefore every such circumstance adds a new species of sin. And for the same reason, every circumstance that increases goodness, seems to add a new species of goodness: just as every unity added to a number makes a new species of number; since the good consists in "number, weight, and measure" ([1157]FP, Q[5], A[5]).
 
-## Answer
+### Answer
 
 On the contrary, More and less do not change a species. But more and less is a circumstance of additional goodness or malice. Therefore not every circumstance that makes a moral action better or worse, places it in a species of good or evil.
 
 I answer that, As stated above [1158](A[10]), a circumstance gives the species of good or evil to a moral action, in so far as it regards a special order of reason. Now it happens sometimes that a circumstance does not regard a special order of reason in respect of good or evil, except on the supposition of another previous circumstance, from which the moral action takes its species of good or evil. Thus to take something in a large or small quantity, does not regard the order of reason in respect of good or evil, except a certain other condition be presupposed, from which the action takes its malice or goodness; for instance, if what is taken belongs to another, which makes the action to be discordant with reason. Wherefore to take what belongs to another in a large or small quantity, does not change the species of the sin. Nevertheless it can aggravate or diminish the sin. The same applies to other evil or good actions. Consequently not every circumstance that makes a moral action better or worse, changes its species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In things which can be more or less intense, the difference of more or less does not change the species: thus by differing in whiteness through being more or less white a thing is not changed in regard to its species of color. In like manner that which makes an action to be more or less good or evil, does not make the action differ in species.
 

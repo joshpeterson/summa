@@ -7,9 +7,9 @@ We must now consider the effect of Penance; and (1) as regards the pardon of mor
 (4) Whether Penance takes away the guilt while the debt remains?
 (5) Whether any remnants of sin remain?
 (6) Whether the removal of sin is the effect of Penance as a virtue, or as a sacrament?
-# Whether All Sins Are Taken Away By Penance?
+## Whether All Sins Are Taken Away By Penance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not all sins are taken away by Penance. For the Apostle says (Heb. 12:17) that Esau "found no place of repentance, although with tears he had sought it," which a gloss explains as meaning that "he found no place of pardon and blessing through Penance": and it is related (2 Macc. 9:13) of Antiochus, that "this wicked man prayed to the Lord, of Whom he was not to obtain mercy." Therefore it does not seem that all sins are taken away by Penance.
 
@@ -17,7 +17,7 @@ Objection 2: Further, Augustine says (De Serm. Dom. in Monte i) that "so great i
 
 Objection 3: Further, our Lord said (Mat. 12:32): "He that shall speak against the Holy Ghost, it shall not be forgiven him, neither in this world nor in the world to come." Therefore not every sin can be pardoned through Penance.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ezech. 18:22): "I will not remember" any more "all his iniquities that he hath done."
 
@@ -27,16 +27,16 @@ It is also erroneous to say that any sin cannot be pardoned through true Penance
 
 Therefore we must say simply that, in this life, every sin can be blotted out by true Penance.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Esau did not truly repent. This is evident from his saying (Gn. 27:41): "The days will come of the mourning of my father, and I will kill my brother Jacob." Likewise neither did Antiochus repent truly; since he grieved for his past sin, not because he had offended God thereby, but on account of the sickness which he suffered in his body.
 
 Reply to Objection 2: These words of Augustine should be understood thus: "So great is the stain of that sin, that man is unable to humble himself in prayer," i.e. it is not easy for him to do so; in which sense we say that a man cannot be healed, when it is difficult to heal him. Yet this is possible by the power of God's grace, which sometimes turns men even "into the depths of the sea" (Ps. 67:23).
 
 Reply to Objection 3: The word or blasphemy spoken against the Holy Ghost is final impenitence, as Augustine states (De Verb. Dom. xi), which is altogether unpardonable, because after this life is ended, there is no pardon of sins. or, if by the blasphemy against the Holy Ghost, we understand sin committed through certain malice, this means either that the blasphemy itself against the Holy Ghost is unpardonable, i.e. not easily pardonable, or that such a sin does not contain in itself any motive for pardon, or that for such a sin a man is punished both in this and in the next world, as we explained in the [4750]SS, Q[14], A[3].
-# Whether Sin Can Be Pardoned Without Penance?
+## Whether Sin Can Be Pardoned Without Penance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sin can be pardoned without Penance. For the power of God is no less with regard to adults than with regard to children. But He pardons the sins of children without Penance. Therefore He also pardons adults without penance.
 
@@ -44,7 +44,7 @@ Objection 2: Further, God did not bind His power to the sacraments. But Penance 
 
 Objection 3: Further, God's mercy is greater than man's. Now man sometimes forgives another for offending him, without his repenting: wherefore our Lord commanded us (Mat. 5:44): "Love your enemies, do good to them that hate you." Much more, therefore, does God pardon men for offending him, without their repenting.
 
-## Answer
+### Answer
 
 On the contrary, The Lord said (Jer. 18:8): "If that nation . . . shall repent of their evil" which they have done, "I also will repent of the evil that I have thought to do them," so that, on the other hand, if man "do not penance," it seems that God will not pardon him his sin.
 
@@ -52,16 +52,16 @@ I answer that, It is impossible for a mortal actual sin to be pardoned without p
 
 But the sacrament of Penance, as stated above ([4752]Q[88], A[3]), is perfected by the priestly office of binding and loosing, without which God can forgive sins, even as Christ pardoned the adulterous woman, as related in Jn. 8, and the woman that was a sinner, as related in Luke vii, whose sins, however, He did not forgive without the virtue of penance: for as Gregory states (Hom. xxxiii in Evang.), "He drew inwardly by grace," i.e. by penance, "her whom He received outwardly by His mercy."
 
-## Replies
+### Replies
 
 Reply to Objection 1: In children there is none but original sin, which consists, not in an actual disorder of the will, but in a habitual disorder of nature, as explained in the [4753]FS, Q[82], A[1], and so in them the forgiveness of sin is accompanied by a habitual change resulting from the infusion of grace and virtues, but not by an actual change. On the other hand, in the case of an adult, in whom there are actual sins, which consist in an actual disorder of the will, there is no remission of sins, even in Baptism, without an actual change of the will, which is the effect of Penance.
 
 Reply to Objection 2: This argument takes Penance as a sacrament.
 
 Reply to Objection 3: God's mercy is more powerful than man's, in that it moves man's will to repent, which man's mercy cannot do.
-# Whether By Penance One Sin Can Be Pardoned Without Another?
+## Whether By Penance One Sin Can Be Pardoned Without Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that by Penance one sin can be pardoned without another. For it is written (Amos 4:7): "I caused it to rain upon one city, and caused it not to rain upon another city; one piece was rained upon: and the piece whereupon I rained not, withered." These words are expounded by Gregory, who says (Hom. x super Ezech.): "When a man who hates his neighbor, breaks himself of other vices, rain falls on one part of the city, leaving the other part withered, for there are some men who, when they prune some vices, become much more rooted in others." Therefore one sin can be forgiven by Penance, without another.
 
@@ -73,13 +73,13 @@ Objection 4: Further, sins are the debts, for which we pray for pardon when we s
 
 Objection 5: Further, man's sins are forgiven him through the love of God, according to Jer. 31:3: "I have loved thee with an everlasting love, therefore have I drawn thee, taking pity on thee." Now there is nothing to hinder God from loving a man in one respect, while being offended with him in another, even as He loves the sinner as regards his nature, while hating him for his sin. Therefore it seems possible for God, by Penance, to pardon one sin without another.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says in De Poenitentia [*De vera et falsa Poenitentia, the authorship of which is unknown]: "There are many who repent having sinned, but not completely; for they except certain things which give them pleasure, forgetting that our Lord delivered from the devil the man who was both dumb and deaf, whereby He shows us that we are never healed unless it be from all sins."
 
 I answer that, It is impossible for Penance to take one sin away without another. First because sin is taken away by grace removing the offense against God. Wherefore it was stated in the [4755]FS, Q[109], A[7]; [4756]FS, Q[113], A[2] that without grace no sin can be forgiven. Now every mortal sin is opposed to grace and excludes it. Therefore it is impossible for one sin to be pardoned without another. Secondly, because, as shown above [4757](A[2]) mortal sin cannot be forgiven without true Penance, to which it belongs to renounce sin, by reason of its being against God, which is common to all mortal sins: and where the same reason applies, the result will be the same. Consequently a man cannot be truly penitent, if he repent of one sin and not of another. For if one particular sin were displeasing to him, because it is against the love of God above all things (which motive is necessary for true repentance), it follows that he would repent of all. Whence it follows that it is impossible for one sin to be pardoned through Penance, without another. Thirdly, because this would be contrary to the perfection of God's mercy, since His works are perfect, as stated in Dt. 32:4; wherefore whomsoever He pardons, He pardons altogether. Hence Augustine says [*De vera et falsa Poenitentia, the authorship of which is unknown], that "it is irreverent and heretical to expect half a pardon from Him Who is just and justice itself."
 
-## Replies
+### Replies
 
 Reply to Objection 1: These words of Gregory do not refer to the forgiveness of the guilt, but to the cessation from act, because sometimes a man who has been wont to commit several kinds of sin, renounces one and not the other; which is indeed due to God's assistance, but does not reach to the pardon of the sin.
 
@@ -90,9 +90,9 @@ Reply to Objection 3: Although sins are not connected in so far as they turn tow
 Reply to Objection 4: Debt as regards external things, e.g. money, is not opposed to friendship through which the debt is pardoned. hence one debt can be condoned without another. On the other hand, the debt of sin is opposed to friendship, and so one sin or offense is not pardoned without another; for it would seem absurd for anyone to ask even a man to forgive him one offense and not another.
 
 Reply to Objection 5: The love whereby God loves man's nature, does not ordain man to the good of glory from which man is excluded by any mortal sin. but the love of grace, whereby mortal sin is forgiven, ordains man to eternal life, according to Rom. 6:23: "The grace of God (is) life everlasting." Hence there is no comparison.
-# Whether The Debt Of Punishment Remains After The Guilt Has Been Forgiven Through Penance?
+## Whether The Debt Of Punishment Remains After The Guilt Has Been Forgiven Through Penance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no debt of punishment remains after the guilt has been forgiven through Penance. For when the cause is removed, the effect is removed. But the guilt is the cause of the debt of punishment: since a man deserves to be punished because he has been guilty of a sin. Therefore when the sin has been forgiven, no debt of punishment can remain.
 
@@ -100,7 +100,7 @@ Objection 2: Further, according to the Apostle (Rom. 5) the gift of Christ is mo
 
 Objection 3: Further, the forgiveness of sins is effected in Penance through the power of Christ's Passion, according to Rom. 3:25: "Whom God hath proposed to be a propitiation, through faith in His Blood . . . for the remission of former sins." Now Christ's Passion made satisfaction sufficient for all sins, as stated above (QQ[48],49,79, A[5]). Therefore after the guilt has been pardoned, no debt of punishment remains.
 
-## Answer
+### Answer
 
 On the contrary, It is related (2 Kings 12:13) that when David penitent had said to Nathan: "I have sinned against the Lord," Nathan said to him: "The Lord also hath taken away thy sin, thou shalt not die. Nevertheless . . . the child that is born to thee shall surely die," which was to punish him for the sin he had committed, as stated in the same place. Therefore a debt of some punishment remains after the guilt has been forgiven.
 
@@ -108,16 +108,16 @@ I answer that, As stated in the [4758]FS, Q[87], A[4], in mortal sin there are t
 
 Since, however, the turning to mutable good is finite, sin does not, in this respect, induce a debt of eternal punishment. Wherefore, if man turns inordinately to a mutable good, without turning from God, as happens in venial sins, he incurs a debt, not of eternal but of temporal punishment. Consequently when guilt is pardoned through grace, the soul ceases to be turned away from God, through being united to God by grace: so that at the same time, the debt of punishment is taken away, albeit a debt of some temporal punishment may yet remain.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Mortal sin both turns away from God and turns to a created good. But, as stated in the [4759]FS, Q[71], A[6], the turning away from God is as its form while the turning to created good is as its matter. Now if the formal element of anything be removed, the species is taken away: thus, if you take away rational, you take away the human species. Consequently mortal sin is said to be pardoned from the very fact that, by means of grace, the aversion of the mind from God is taken away together with the debt of eternal punishment: and yet the material element remains, viz. the inordinate turning to a created good, for which a debt of temporal punishment is due.
 
 Reply to Objection 2: As stated in the [4760]FS, Q[109], AA[7],8; [4761]FS, Q[111], A[2], it belongs to grace to operate in man by justifying him from sin, and to co-operate with man that his work may be rightly done. Consequently the forgiveness of guilt and of the debt of eternal punishment belongs to operating grace, while the remission of the debt of temporal punishment belongs to co-operating grace, in so far as man, by bearing punishment patiently with the help of Divine grace, is released also from the debt of temporal punishment. Consequently just as the effect of operating grace precedes the effect of co-operating grace, so too, the remission of guilt and of eternal punishment precedes the complete release from temporal punishment, since both are from grace, but the former, from grace alone, the latter, from grace and free-will.
 
 Reply to Objection 3: Christ's Passion is of itself sufficient to remove all debt of punishment, not only eternal, but also temporal; and man is released from the debt of punishment according to the measure of his share in the power of Christ's Passion. Now in Baptism man shares the Power of Christ's Passion fully, since by water and the Spirit of Christ, he dies with Him to sin, and is born again in Him to a new life, so that, in Baptism, man receives the remission of all debt of punishment. In Penance, on the other hand, man shares in the power of Christ's Passion according to the measure of his own acts, which are the matter of Penance, as water is of Baptism, as stated above ([4762]Q[84], AA[1],3). Wherefore the entire debt of punishment is not remitted at once after the first act of Penance, by which act the guilt is remitted, but only when all the acts of Penance have been completed.
-# Whether The Remnants Of Sin Are Removed When A Mortal Sin Is Forgiven?
+## Whether The Remnants Of Sin Are Removed When A Mortal Sin Is Forgiven?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all the remnants of sin are removed when a mortal sin is forgiven. For Augustine says in De Poenitentia [*De vera et falsa Poenitentia, the authorship of which is unknown]: "Our Lord never healed anyone without delivering him wholly; for He wholly healed the man on the Sabbath, since He delivered his body from all disease, and his soul from all taint." Now the remnants of sin belong to the disease of sin. Therefore it does not seem possible for any remnants of sin to remain when the guilt has been pardoned.
 
@@ -125,22 +125,22 @@ Objection 2: Further, according to Dionysius (Div. Nom. iv), "good is more effic
 
 Objection 3: Further, God's work is more efficacious than man's. Now by the exercise of good human works the remnants of contrary sins are removed. Much more, therefore, are they taken away by the remission of guilt, which is a work of God.
 
-## Answer
+### Answer
 
 On the contrary, We read (Mk. 8) that the blind man whom our Lord enlightened, was restored first of all to imperfect sight, wherefore he said (Mk. 8:24): "I see men, as it were trees, walking"; and afterwards he was restored perfectly, "so that he saw all things clearly." Now the enlightenment of the blind man signifies the delivery of the sinner. Therefore after the first remission of sin, whereby the sinner is restored to spiritual sight, there still remain in him some remnants of his past sin.
 
 I answer that, Mortal sin, in so far as it turns inordinately to a mutable good, produces in the soul a certain disposition, or even a habit, if the acts be repeated frequently. Now it has been said above [4763](A[4]) that the guilt of mortal sin is pardoned through grace removing the aversion of the mind from God. Nevertheless when that which is on the part of the aversion has been taken away by grace, that which is on the part of the inordinate turning to a mutable good can remain, since this may happen to be without the other, as stated above [4764](A[4]). Consequently, there is no reason why, after the guilt has been forgiven, the dispositions caused by preceding acts should not remain, which are called the remnants of sin. Yet they remain weakened and diminished, so as not to domineer over man, and they are after the manner of dispositions rather than of habits, like the "fomes" which remains after Baptism.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God heals the whole man perfectly; but sometimes suddenly, as Peter's mother-in-law was restored at once to perfect health, so that "rising she ministered to them" (Lk. 4:39), and sometimes by degrees, as we said above ([4765]Q[44], A[3], ad 2) about the blind man who was restored to sight (Mat. 8). And so too, He sometimes turns the heart of man with such power, that it receives at once perfect spiritual health, not only the guilt being pardoned, but all remnants of sin being removed as was the case with Magdalen (Lk. 7); whereas at other times He sometimes first pardons the guilt by operating grace, and afterwards, by co-operating grace, removes the remnants of sin by degrees.
 
 Reply to Objection 2: Sin too, sometimes induces at once a weak disposition, such as is the result of one act, and sometimes a stronger disposition, the result of many acts.
 
 Reply to Objection 3: One human act does not remove all the remnants of sin, because, as stated in the Predicaments (Categor. viii) "a vicious man by doing good works will make but little progress so as to be any better, but if he continue in good practice, he will end in being good as to acquired virtue." But God's grace does this much more effectively, whether by one or by several acts.
-# Whether The Forgiveness Of Guilt Is An Effect Of Penance?
+## Whether The Forgiveness Of Guilt Is An Effect Of Penance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the forgiveness of guilt is not an effect of penance as a virtue. For penance is said to be a virtue, in so far as it is a principle of a human action. But human action does nothing towards the remission of guilt, since this is an effect of operating grace. Therefore the forgiveness of guilt is not an effect of penance as a virtue.
 
@@ -148,13 +148,13 @@ Objection 2: Further, certain other virtues are more excellent than penance. But
 
 Objection 3: Further, there is no forgiveness of sin except through the power of Christ's Passion, according to Heb. 9:22: "Without shedding of blood there is no remission." Now Penance, as a sacrament, produces its effect through the power of Christ's Passion, even as the other sacraments do, as was shown above ([4766]Q[62], AA[4],5). Therefore the forgiveness of sin is the effect of Penance, not as a virtue, but as a sacrament.
 
-## Answer
+### Answer
 
 On the contrary, Properly speaking, the cause of a thing is that without which it cannot be, since every defect depends on its cause. Now forgiveness of sin can come from God without the sacrament of Penance, but not without the virtue of penance, as stated above ([4767]Q[84], A[5], ad 3;[4768] Q[85], A[2]); so that, even before the sacraments of the New Law were instituted, God pardoned the sins of the penitent. Therefore the forgiveness of sin is chiefly the effect of penance as a virtue.
 
 I answer that, Penance is a virtue in so far as it is a principle of certain human acts. Now the human acts, which are performed by the sinner, are the material element in the sacrament of Penance. Moreover every sacrament produces its effect, in virtue not only of its form, but also of its matter. because both these together make the one sacrament, as stated above ([4769]Q[60], A[6], ad 2, A[7]). Hence in Baptism forgiveness of sin is effected, in virtue not only of the form (but also of the matter, viz. water, albeit chiefly in virtue of the form) [*The words in brackets are omitted in the Leonine edition] from which the water receives its power---and, similarly, the forgiveness of sin is the effect of Penance, chiefly by the power of the keys, which is vested in the ministers, who furnish the formal part of the sacrament, as stated above ([4770]Q[84], A[3]), and secondarily by the instrumentality of those acts of the penitent which pertain to the virtue of penance, but only in so far as such acts are, in some way, subordinate to the keys of the Church. Accordingly it is evident that the forgiveness of sin is the effect of penance as a virtue, but still more of Penance as a sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The effect of operating grace is the justification of the ungodly (as stated in the [4771]FS, Q[113]), wherein there is, as was there stated ([4772]AA[1],2,3), not only infusion of grace and forgiveness of sin, but also a movement of the free-will towards God, which is an act of faith quickened by charity, and a movement of the free-will against sin, which is the act of penance. Yet these human acts are there as the effects of operating grace, and are produced at the same time as the forgiveness of sin. Consequently the forgiveness of sin does not take place without an act of the virtue of penance, although it is the effect of operating grace.
 

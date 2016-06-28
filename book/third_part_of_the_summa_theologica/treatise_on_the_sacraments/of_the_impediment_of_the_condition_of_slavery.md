@@ -5,9 +5,9 @@ We must now consider the impediment of the condition of slavery. Under this head
 (2) Whether a slave can marry without his master's consent?
 (3) Whether a man who is already married can make himself a slave without his wife's consent?
 (4) Whether the children should follow the condition of their father or of their mother?
-# Whether The Condition Of Slavery Is An Impediment To Matrimony?
+## Whether The Condition Of Slavery Is An Impediment To Matrimony?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the condition of slavery is no impediment to matrimony. For nothing is an impediment to marriage except what is in some way opposed to it. But slavery is in no way opposed to marriage, else there could be no marriage among slaves. Therefore slavery is no impediment to marriage.
 
@@ -21,13 +21,13 @@ Objection 5: Further, just as one may be in error about slavery, so as to deem a
 
 
 
-## Answer
+### Answer
 
 On the contrary, A Decretal says (De conjug. servorum, cap. Ad nostram) that "error regarding the condition hinders a marriage from being contracted and voids that which is already contracted."
 
 I answer that, In the marriage contract one party is bound to the other in the matter of paying the debt; wherefore if one who thus binds himself is unable to pay the debt, ignorance of this inability, on the side of the party to whom he binds himself, voids the contract. Now just as impotence in respect of coition makes a person unable to pay the debt, so that he is altogether disabled, so slavery makes him unable to pay it freely. Therefore, just as ignorance or impotence in respect of coition is an impediment if not known but not if known, as we shall state further on ([4961]Q[58]), so the condition of slavery is an impediment if not known, but not if it be known.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Slavery is contrary to marriage as regards the act to which marriage binds one party in relation to the other, because it prevents the free execution of that act; and again as regards the good of the offspring who become subject to the same condition by reason of the parent's slavery. Since, however, it is free to everyone to suffer detriment in that which is his due, if one of the parties knows the other to be a slave, the marriage is none the less valid. Likewise since in marriage there is an equal obligation on either side to pay the debt, neither party can exact of the other a greater obligation than that under which he lies; so that if a slave marry a bondswoman, thinking her to be free, the marriage is not thereby rendered invalid. It is therefore evident that slavery is no impediment to marriage except when it is unknown to the other party, even though the latter be in a condition of freedom; and so nothing prevents marriage between slaves, or even between a freeman and a bondswoman.
 
@@ -40,9 +40,9 @@ Reply to Objection 4: Certain impediments render a marriage unlawful; and since 
 Reply to Objection 5: Freedom does not hinder the marriage act, wherefore ignorance of freedom is no impediment to matrimony.
 
 Reply to Objection 6: Leprosy does not hinder marriage as to its first act, since lepers can pay the debt freely; although they lay a burden upon marriage as to its secondary effects; wherefore it is not an impediment to marriage as slavery is.
-# Whether A Slave Can Marry Without His Master's Consent?
+## Whether A Slave Can Marry Without His Master's Consent?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a slave cannot marry without his master's consent. For no one can give a person that which is another's without the latter's consent. Now a slave is his master's chattel. Therefore he cannot give his wife power over his body by marrying without his master's consent.
 
@@ -54,13 +54,13 @@ Objection 4: Further, a master may sell his slave into a foreign country, where 
 
 Objection 5: Further, the burden under which a man binds himself to the Divine service is more advantageous than that whereby a man subjects himself to his wife. But a slave cannot enter religion or receive orders without his master's consent. Much less therefore can he be married without his consent.
 
-## Answer
+### Answer
 
 On the contrary, "In Christ Jesus . . . there is neither bond nor free" (Gal. 3:26, 28). Therefore both freeman and bondsman enjoy the same liberty to marry in the faith of Christ Jesus.
 
 I answer that, As stated above (A[1], ad 3), the positive law arises out of the natural law, and consequently slavery, which is of positive law, cannot be prejudicious to those things that are of natural law. Now just as nature seeks the preservation of the individual, so does it seek the preservation of the species by means of procreation; wherefore even as a slave is not so subject to his master as not to be at liberty to eat, sleep, and do such things as pertain to the needs of his body, and without which nature cannot be preserved, so he is not subject to him to the extent of being unable to marry freely, even without his master's knowledge or consent.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A slave is his master's chattel in matters superadded to nature, but in natural things all are equal. Wherefore, in things pertaining to natural acts, a slave can by marrying give another person power over his body without his master's consent.
 
@@ -71,9 +71,9 @@ Reply to Objection 3: If a slave has married with his master's consent, he shoul
 Reply to Objection 4: In such a case it is said that the master should be compelled not to sell the slave in such a way as to increase the weight of the marriage burden, especially since he is able to obtain anywhere a just price for his slave.
 
 Reply to Objection 5: By entering religion or receiving orders a man is bound to the Divine service for all time; whereas a husband is bound to pay the debt to his wife not always, but at a fitting time; hence the comparison fails. Moreover, he who enters religion or receives orders binds himself to works that are superadded to natural works, and in which his master has power over him, but not in natural works to which a man binds himself by marriage. Hence he cannot vow continence without his master's consent.
-# Whether Slavery Can Supervene To Marriage?
+## Whether Slavery Can Supervene To Marriage?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that slavery cannot supervene to marriage, by the husband selling himself to another as slave. Because what is done by fraud and to another's detriment should not hold. But a husband who sells himself for a slave, does so sometimes to cheat marriage, and at least to the detriment of his wife. Therefore such a sale should not hold as to the effect of slavery.
 
@@ -83,13 +83,13 @@ Objection 3: Further, in marriage husband and wife are on a par with one another
 
 Objection 4: Further, in natural things that which hinders a thing being generated destroys it after it has been generated. Now bondage of the husband, if unknown to the wife, is an impediment to the act of marriage before it is performed. Therefore if it could supervene to marriage it would dissolve it; which is unreasonable.
 
-## Answer
+### Answer
 
 On the contrary, Everyone can give another that which is his own. Now the husband is his own master since he is free. Therefore he can surrender his right to another.
 
 I answer that, A husband is subject to his wife in those things which pertain to the act of nature; in these things they are equal, and the subjection of slavery does not extend thereto. Wherefore the husband, without his wife's knowledge, can surrender himself to be another's slave. Nor does this result in a dissolution of the marriage, since no impediment supervening to marriage can dissolve it, as stated above ([4963]Q[50], A[1], ad 7).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The fraud can indeed hurt the person who has acted fraudulently, but it cannot be prejudicial to another person: wherefore if the husband, to cheat his wife, surrender himself to be another's slave, It will be to his own prejudice, through his losing the inestimable good of freedom; whereas this can nowise be prejudicial to the wife, and he is bound to pay her the debt when she asks, and to do all that marriage requires of him for he cannot be taken away from these obligations by his master's command.
 
@@ -98,9 +98,9 @@ Reply to Objection 2: In so far as slavery is opposed to marriage, marriage is p
 Reply to Objection 3: Although husband and wife are considered to be on a par in the marriage act and in things relating to nature, to which the condition of slavery does not extend, nevertheless as regards the management of the household, and other such additional matters the husband is the head of the wife and should correct her, and not "vice versa." Hence the wife cannot surrender herself to be a slave without her husband's consent.
 
 Reply to Objection 4: This argument considers corruptible things; and yet even in these there are many obstacles to generation that are not capable of destroying what is already generated. But in things which have stability it is possible to have an impediment which prevents a certain thing from beginning to be, yet does not cause it to cease to be; as instanced by the rational soul. It is the same with marriage, which is a lasting tie so long as this life lasts.
-# Whether Children Should Follow The Condition Of Their Father?
+## Whether Children Should Follow The Condition Of Their Father?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that children should follow the condition of their father. Because dominion belongs to those of higher rank. Now in generating the father ranks above the mother. Therefore, etc.
 
@@ -110,7 +110,7 @@ Objection 3: Further, a thing should follow that chiefly to which it is most lik
 
 Objection 4: Further, in Holy Writ genealogies are not traced through the women but through the men. Therefore the children follow the father rather than the mother.
 
-## Answer
+### Answer
 
 On the contrary, If a man sows on another's land, the produce belongs to the owner of the land. Now the woman's womb in relation to the seed of man is like the land in relation to the sower. Therefore, etc.
 
@@ -118,7 +118,7 @@ I answer that, According to civil law (XIX, ff. De statu hom. vii, cap. De rei v
 
 In some countries, however, where the civil law does not hold, the offspring follows the inferior condition, so that if the father be a slave the children will be slaves although the mother be free; but not if the father gave himself up as a slave after his marriage and without his wife's consent; and the same applies if the case be reversed. And if both be of servile condition and belong to different masters, the children, if several, are divided among the latter, or if one only, the one master will compensate the other in value and will take the child thus born for his slave. However it is incredible that this custom have as much reason in its favor as the decision of the time-honored deliberations of many wise men. Moreover in natural things it is the rule that what is received is in the recipient according to the mode of the recipient and not according to the mode of the giver; wherefore it is reasonable that the seed received by the mother should be drawn to her condition.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the father is a more noble principle than the mother, nevertheless the mother provides the substance of the body, and it is to this that the condition of slavery attaches.
 

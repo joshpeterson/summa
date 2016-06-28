@@ -7,9 +7,9 @@ We must now consider the duration of virtues after this life, under which head t
 (4) Whether hope remains?
 (5) Whether anything remains of faith or hope?
 (6) Whether charity remains?
-# Whether The Moral Virtues Remain After This Life?
+## Whether The Moral Virtues Remain After This Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the moral virtues doe not remain after this life. For in the future state of glory men will be like angels, according to Mat. 22:30. But it is absurd to put moral virtues in the angels [*"Whatever relates to moral action is petty, and unworthy of the gods" (Ethic. x, 8)], as stated in Ethic. x, 8. Therefore neither in man will there be moral virtues after this life.
 
@@ -17,7 +17,7 @@ Objection 2: Further, moral virtues perfect man in the active life. But the acti
 
 Objection 3: Further, temperance and fortitude, which are moral virtues, are in the irrational parts of the soul, as the Philosopher states (Ethic. iii, 10). Now the irrational parts of the soul are corrupted, when the body is corrupted: since they are acts of bodily organs. Therefore it seems that the moral virtues do not remain after this life.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Wis. 1:15) that "justice is perpetual and immortal."
 
@@ -27,14 +27,14 @@ In order to make this evident, we must note that in these virtues there is a for
 
 Accordingly we must say that these moral virtues do not remain in the future life, as regards their material element. For in the future life there will be no concupiscences and pleasures in matters of food and sex; nor fear and daring about dangers of death; nor distributions and commutations of things employed in this present life. But, as regards the formal element, they will remain most perfect, after this life, in the Blessed, in as much as each one's reason will have most perfect rectitude in regard to things concerning him in respect of that state of life: and his appetitive power will be moved entirely according to the order of reason, in things pertaining to that same state. Hence Augustine says (De Trin. xiv, 9) that "prudence will be there without any danger of error; fortitude, without the anxiety of bearing with evil; temperance, without the rebellion of the desires: so that prudence will neither prefer nor equal any good to God; fortitude will adhere to Him most steadfastly; and temperance will delight in Him Who knows no imperfection." As to justice, it is yet more evident what will be its act in that life, viz. "to be subject to God": because even in this life subjection to a superior is part of justice.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking there of these moral virtues, as to their material element; thus he speaks of justice, as regards "commutations and distributions"; of fortitude, as to "matters of terror and danger"; of temperance, in respect of "lewd desires."
 
 Reply to Objection 3: There is a twofold state after this life; one before the resurrection, during which the soul will be separate from the body; the other, after the resurrection, when the souls will be reunited to their bodies. In this state of resurrection, the irrational powers will be in the bodily organs, just as they now are. Hence it will be possible for fortitude to be in the irascible, and temperance in the concupiscible part, in so far as each power will be perfectly disposed to obey the reason. But in the state preceding the resurrection, the irrational parts will not be in the soul actually, but only radically in its essence, as stated in the [1633]FP, Q[77], A[8]. Wherefore neither will these virtues be actually, but only in their root, i.e. in the reason and will, wherein are certain nurseries of these virtues, as stated above (Q[63], A[1]). Justice, however, will remain because it is in the will. Hence of justice it is specially said that it is "perpetual and immortal"; both by reason of its subject, since the will is incorruptible; and because its act will not change, as stated.
-# Whether The Intellectual Virtues Remain After This Life?
+## Whether The Intellectual Virtues Remain After This Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the intellectual virtues do not remain after this life. For the Apostle says (1 Cor. 13:8,9) that "knowledge shall be destroyed," and he states the reason to be because "we know in part." Now just as the knowledge of science is in part, i.e. imperfect; so also is the knowledge of the other intellectual virtues, as long as this life lasts. Therefore all the intellectual virtues will cease after this life.
 
@@ -42,7 +42,7 @@ Objection 2: Further, the Philosopher says (Categor. vi) that since science is a
 
 Objection 3: Further, the intellectual virtues perfect the intellect so that it may perform its proper act well. Now there seems to be no act of the intellect after this life, since "the soul understands nothing without a phantasm" (De Anima iii, text. 30); and, after this life, the phantasms do not remain, since their only subject is an organ of the body. Therefore the intellectual virtues do not remain after this life.
 
-## Answer
+### Answer
 
 On the contrary, The knowledge of what is universal and necessary is more constant than that of particular and contingent things. Now the knowledge of contingent particulars remains in man after this life; for instance, the knowledge of what one has done or suffered, according to Lk. 16:25: "Son, remember that thou didst receive good things in thy life-time, and likewise Lazarus evil things." Much more, therefore, does the knowledge of universal and necessary things remain, which belong to science and the other intellectual virtues.
 
@@ -52,16 +52,16 @@ But this opinion is contrary to the mind of Aristotle, who states (De Anima iii,
 
 And yet the phantasms, by turning to which man understands in this life, by applying the intelligible species to them as stated in the [1635]FP, Q[84], A[7]; [1636]FP, Q[85], A[1], ad 5, cease as soon as the body is corrupted. Hence, so far as the phantasms are concerned, which are the quasi-material element in the intellectual virtues, these latter cease when the body is destroyed: but as regards the intelligible species, which are in the "possible" intellect, the intellectual virtues remain. Now the species are the quasi-formal element of the intellectual virtues. Therefore these remain after this life, as regards their formal element, just as we have stated concerning the moral virtues [1637](A[1]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The saying of the Apostle is to be understood as referring to the material element in science, and to the mode of understanding; because, to it, neither do the phantasms remain, when the body is destroyed; nor will science be applied by turning to the phantasms.
 
 Reply to Objection 2: Sickness destroys the habit of science as to its material element, viz. the phantasms, but not as to the intelligible species, which are in the "possible" intellect.
 
 Reply to Objection 3: As stated in the [1638]FP, Q[89], A[1] the separated soul has a mode of understanding, other than by turning to the phantasms. Consequently science remains, yet not as to the same mode of operation; as we have stated concerning the moral virtues [1639](A[1]).
-# Whether Faith Remains After This Life?
+## Whether Faith Remains After This Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that faith remains after this life. Because faith is more excellent than science. Now science remains after this life, as stated above [1640](A[2]). Therefore faith remains also.
 
@@ -69,7 +69,7 @@ Objection 2: Further, it is written (1 Cor. 3:11): "Other foundation no man can 
 
 Objection 3: Further, the knowledge of faith and the knowledge of glory differ as perfect from imperfect. Now imperfect knowledge is compatible with perfect knowledge: thus in an angel there can be "evening" and "morning" knowledge [*Cf. [1641]FP, Q[58], A[6]]; and a man can have science through a demonstrative syllogism, together with opinion through a probable syllogism, about one same conclusion. Therefore after this life faith also is compatible with the knowledge of glory.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (2 Cor. 5:6,7): "While we are in the body, we are absent from the Lord: for we walk by faith and not by sight." But those who are in glory are not absent from the Lord, but present to Him. Therefore after this life faith does not remain in the life of glory.
 
@@ -83,14 +83,14 @@ But we must also consider whether it is compatible with perfect knowledge: for t
 
 Now it is evident that a thing cannot be perfect and imperfect in the same respect; yet the things which differ as perfect and imperfect can be together in the same respect in one and the same other thing. Accordingly, knowledge which is perfect on the part of the object is quite incompatible with imperfect knowledge about the same object; but they are compatible with one another in respect of the same medium or the same subject: for nothing hinders a man from having at one and the same time, through one and the same medium, perfect and imperfect knowledge about two things, one perfect, the other imperfect, e.g. about health and sickness, good and evil. In like manner knowledge that is perfect on the part of the medium is incompatible with imperfect knowledge through one and the same medium: but nothing hinders them being about the same subject or in the same subject: for one man can know the same conclusions through a probable and through a demonstrative medium. Again, knowledge that is perfect on the part of the subject is incompatible with imperfect knowledge in the same subject. Now faith, of its very nature, contains an imperfection on the part of the subject, viz. that the believer sees not what he believes: whereas bliss, of its very nature, implies perfection on the part of the subject, viz. that the Blessed see that which makes them happy, as stated above ([1642]Q[3], A[8]). Hence it is manifest that faith and bliss are incompatible in one and the same subject.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Faith is more excellent than science, on the part of the object, because its object is the First Truth. Yet science has a more perfect mode of knowing its object, which is not incompatible with vision which is the perfection of happiness, as the mode of faith is incompatible.
 
 Reply to Objection 2: Faith is the foundation in as much as it is knowledge: consequently when this knowledge is perfected, the foundation will be perfected also.
-# Whether Hope Remains After Death, In The State Of Glory?
+## Whether Hope Remains After Death, In The State Of Glory?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that hope remains after death, in the state of glory. Because hope perfects the human appetite in a more excellent manner than the moral virtues. But the moral virtues remain after this life, as Augustine clearly states (De Trin. xiv, 9). Much more then does hope remain.
 
@@ -98,22 +98,22 @@ Objection 2: Further, fear is opposed to hope. But fear remains after this life:
 
 Objection 3: Further, just as hope is of future good, so is desire. Now in the Blessed there is desire for future good; both for the glory of the body, which the souls of the Blessed desire, as Augustine declares (Gen. ad lit. xii, 35); and for the glory of the soul, according to Ecclus. 24:29: "They that eat me, shall yet hunger, and they that drink me, shall yet thirst," and 1 Pet. 1:12: "On Whom the angels desire to look." Therefore it seems that there can be hope in the Blessed after this life is past.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 8:24): "What a man seeth, why doth he hope for?" But the Blessed see that which is the object of hope, viz. God. Therefore they do not hope.
 
 I answer that, As stated above [1643](A[3]), that which, in its very nature, implies imperfection of its subject, is incompatible with the opposite perfection in that subject. Thus it is evident that movement of its very nature implies imperfection of its subject, since it is "the act of that which is in potentiality as such" (Phys. iii): so that as soon as this potentiality is brought into act, the movement ceases; for a thing does not continue to become white, when once it is made white. Now hope denotes a movement towards that which is not possessed, as is clear from what we have said above about the passion of hope (Q[40], AA[1],2). Therefore when we possess that which we hope for, viz. the enjoyment of God, it will no longer be possible to have hope.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Hope surpasses the moral virtues as to its object, which is God. But the acts of the moral virtues are not incompatible with the perfection of happiness, as the act of hope is; except perhaps, as regards their matter, in respect of which they do not remain. For moral virtue perfects the appetite, not only in respect of what is not yet possessed, but also as regards something which is in our actual possession.
 
 Reply to Objection 2: Fear is twofold, servile and filial, as we shall state further on ([1644]SS, Q[19], A[2]). Servile fear regards punishment, and will be impossible in the life of glory, since there will no longer be possibility of being punished. Filial fear has two acts: one is an act of reverence to God, and with regard to this act, it remains: the other is an act of fear lest we be separated from God, and as regards this act, it does not remain. Because separation from God is in the nature of an evil: and no evil will be feared there, according to Prov. 1:33: "He . . . shall enjoy abundance without fear of evils." Now fear is opposed to hope by opposition of good and evil, as stated above (Q[23], A[2]; Q[40], A[1] ), and therefore the fear which will remain in glory is not opposed to hope. In the lost there can be fear of punishment, rather than hope of glory in the Blessed. Because in the lost there will be a succession of punishments, so that the notion of something future remains there, which is the object of fear: but the glory of the saints has no succession, by reason of its being a kind of participation of eternity, wherein there is neither past nor future, but only the present. And yet, properly speaking, neither in the lost is there fear. For, as stated above (Q[42], A[2]), fear is never without some hope of escape: and the lost have no such hope. Consequently neither will there be fear in them; except speaking in a general way, in so far as any expectation of future evil is called fear.
 
 Reply to Objection 3: As to the glory of the soul, there can be no desire in the Blessed, in so far as desire looks for something future, for the reason already given (ad 2). Yet hunger and thirst are said to be in them because they never weary, and for the same reason desire is said to be in the angels. With regard to the glory of the body, there can be desire in the souls of the saints, but not hope, properly speaking; neither as a theological virtue, for thus its object is God, and not a created good; nor in its general signification. Because the object of hope is something difficult, as stated above ([1645]Q[40], A[1]): while a good whose unerring cause we already possess, is not compared to us as something difficult. Hence he that has money is not, properly speaking, said to hope for what he can buy at once. In like manner those who have the glory of the soul are not, properly speaking, said to hope for the glory of the body, but only to desire it.
-# Whether Anything Of Faith Or Hope Remains In Glory?
+## Whether Anything Of Faith Or Hope Remains In Glory?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that something of faith and hope remains in glory. For when that which is proper to a thing is removed, there remains what is common; thus it is stated in De Causis that "if you take away rational, there remains living, and when you remove living, there remains being." Now in faith there is something that it has in common with beatitude, viz. knowledge: and there is something proper to it, viz. darkness, for faith is knowledge in a dark manner. Therefore, the darkness of faith removed, the knowledge of faith still remains.
 
@@ -121,7 +121,7 @@ Objection 2: Further, faith is a spiritual light of the soul, according to Eph. 
 
 Objection 3: Further, the substance of a habit does not cease through the withdrawal of its matter: for a man may retain the habit of liberality, though he have lost his money: yet he cannot exercise the act. Now the object of faith is the First Truth as unseen. Therefore when this ceases through being seen, the habit of faith can still remain.
 
-## Answer
+### Answer
 
 On the contrary, Faith is a simple habit. Now a simple thing is either withdrawn entirely, or remains entirely. Since therefore faith does not remain entirely, but is taken away as stated above [1646](A[3]), it seems that it is withdrawn entirely.
 
@@ -131,16 +131,16 @@ But if it be understood to mean that in heaven the knowledge of faith remains id
 
 It is therefore evident that, since the signification of the difference is confined to the genus if the difference be removed, the substance of the genus cannot remain the same: for the same animal nature does not remain, if another kind of soul constitute the animal. Hence it is impossible for the identical knowledge, which was previously obscure, to become clear vision. It is therefore evident that, in heaven, nothing remains of faith, either identically or specifically the same, but only generically.
 
-## Replies
+### Replies
 
 Reply to Objection 1: If "rational" be withdrawn, the remaining "living" thing is the same, not identically, but generically, as stated.
 
 Reply to Objection 2: The imperfection of candlelight is not opposed to the perfection of sunlight, since they do not regard the same subject: whereas the imperfection of faith and the perfection of glory are opposed to one another and regard the same subject. Consequently they are incompatible with one another, just as light and darkness in the air.
 
 Reply to Objection 3: He that loses his money does not therefore lose the possibility of having money, and therefore it is reasonable for the habit of liberality to remain. But in the state of glory not only is the object of faith, which is the unseen, removed actually, but even its possibility, by reason of the unchangeableness of heavenly bliss: and so such a habit would remain to no purpose.
-# Whether Charity Remains After This Life, In Glory?
+## Whether Charity Remains After This Life, In Glory?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that charity does not remain after this life, in glory. Because according to 1 Cor. 13:10, "when that which is perfect is come, that which is in part," i.e. that which is imperfect, "shall be done away." Now the charity of the wayfarer is imperfect. Therefore it will be done away when the perfection of glory is attained.
 
@@ -148,13 +148,13 @@ Objection 2: Further, habits and acts are differentiated by their objects. But t
 
 Objection 3: Further, things of the same kind can advance from imperfection to perfection by continuous increase. But the charity of the wayfarer can never attain to equality with the charity of heaven, however much it be increased. Therefore it seems that the charity of the wayfarer does not remain in heaven.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Cor. 13:8): "Charity never falleth away."
 
 I answer that, As stated above [1647](A[3]), when the imperfection of a thing does not belong to its specific nature, there is nothing to hinder the identical thing passing from imperfection to perfection, even as man is perfected by growth, and whiteness by intensity. Now charity is love, the nature of which does not include imperfection, since it may relate to an object either possessed or not possessed, either seen or not seen. Therefore charity is not done away by the perfection of glory, but remains identically the same.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The imperfection of charity is accidental to it; because imperfection is not included in the nature of love. Now although that which is accidental to a thing be withdrawn, the substance remains. Hence the imperfection of charity being done away, charity itself is not done away.
 

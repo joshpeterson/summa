@@ -7,9 +7,9 @@ We must now consider the effects of sin; and (1) the corruption of the good of n
 (4) Whether privation of mode, species and order is an effect of sin?
 (5) Whether death and other bodily defects are the result of sin?
 (6) Whether they are, in any way, natural to man?
-# Whether Sin Diminishes The Good Of Nature?
+## Whether Sin Diminishes The Good Of Nature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sin does not diminish the good of nature. For man's sin is no worse than the devil's. But natural good remains unimpaired in devils after sin, as Dionysius states (Div. Nom. iv). Therefore neither does sin diminish the good of human nature.
 
@@ -19,7 +19,7 @@ Objection 3: Further, sin is an action, while diminution is a passion. Now no ag
 
 Objection 4: Further, no accident acts on its subject: because that which is patient is a potential being, while that which is subjected to an accident, is already an actual being as regards that accident. But sin is in the good of nature as an accident in a subject. Therefore sin does not diminish the good of nature, since to diminish is to act.
 
-## Answer
+### Answer
 
 On the contrary, "A certain man going down from Jerusalem to Jericho (Lk. 10:30), i.e. to the corruption of sin, was stripped of his gifts, and wounded in his nature," as Bede [*The quotation is from the Glossa Ordinaria of Strabo] expounds the passage. Therefore sin diminishes the good of nature.
 
@@ -27,7 +27,7 @@ I answer that, The good of human nature is threefold. First, there are the princ
 
 Accordingly, the first-mentioned good of nature is neither destroyed nor diminished by sin. The third good of nature was entirely destroyed through the sin of our first parent. But the second good of nature, viz. the natural inclination to virtue, is diminished by sin. Because human acts produce an inclination to like acts, as stated above ([1867]Q[50], A[1]). Now from the very fact that thing becomes inclined to one of two contraries, its inclination to the other contrary must needs be diminished. Wherefore as sin is opposed to virtue, from the very fact that a man sins, there results a diminution of that good of nature, which is the inclination to virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Dionysius is speaking of the first-mentioned good of nature, which consists in "being, living and understanding," as anyone may see who reads the context.
 
@@ -36,9 +36,9 @@ Reply to Objection 2: Although nature precedes the voluntary action, it has an i
 Reply to Objection 3: A voluntary action proceeds from various powers, active and passive. The result is that through voluntary actions something is caused or taken away in the man who acts, as we have stated when treating of the production of habits ([1868]Q[51], A[2]).
 
 Reply to Objection 4: An accident does not act effectively on its subject, but it acts on it formally, in the same sense as when we say that whiteness makes a thing white. In this way there is nothing to hinder sin from diminishing the good of nature; but only in so far as sin is itself a diminution of the good of nature, through being an inordinateness of action. But as regards the inordinateness of the agent, we must say that such like inordinateness is caused by the fact that in the acts of the soul, there is an active, and a passive element: thus the sensible object moves the sensitive appetite, and the sensitive appetite inclines the reason and will, as stated above ([1869]Q[77], AA[1], 2). The result of this is the inordinateness, not as though an accident acted on its own subject, but in so far as the object acts on the power, and one power acts on another and puts it out of order.
-# Whether The Entire Good Of Human Nature Can Be Destroyed By Sin?
+## Whether The Entire Good Of Human Nature Can Be Destroyed By Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the entire good of human nature can be destroyed by sin. For the good of human nature is finite, since human nature itself is finite. Now any finite thing is entirely taken away, if the subtraction be continuous. Since therefore the good of nature can be continually diminished by sin, it seems that in the end it can be entirely taken away.
 
@@ -46,7 +46,7 @@ Objection 2: Further, in a thing of one nature, the whole and the parts are unif
 
 Objection 3: Further, the good of nature, that is weakened by sin, is aptitude for virtue. Now this aptitude is destroyed entirely in some on account of sin: thus the lost cannot be restored to virtue any more than the blind can to sight. Therefore sin can take away the good of nature entirely.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Enchiridion xiv) that "evil does not exist except in some good." But the evil of sin cannot be in the good of virtue or of grace, because they are contrary to it. Therefore it must be in the good of nature, and consequently it does not destroy it entirely.
 
@@ -56,16 +56,16 @@ Since, however, this same good of nature may be continually diminished by sin, s
 
 We must, therefore, explain the matter otherwise by saying that the aforesaid inclination is to be considered as a middle term between two others: for it is based on the rational nature as on its root, and tends to the good of virtue, as to its term and end. Consequently its diminution may be understood in two ways: first, on the part of its rood, secondly, on the part of its term. In the first way, it is not diminished by sin, because sin does not diminish nature, as stated above [1871](A[1]). But it is diminished in the second way, in so far as an obstacle is placed against its attaining its term. Now if it were diminished in the first way, it would needs be entirely destroyed at last by the rational nature being entirely destroyed. Since, however, it is diminished on the part of the obstacle which is place against its attaining its term, it is evident that it can be diminished indefinitely, because obstacles can be placed indefinitely, inasmuch as man can go on indefinitely adding sin to sin: and yet it cannot be destroyed entirely, because the root of this inclination always remains. An example of this may be seen in a transparent body, which has an inclination to receive light, from the very fact that it is transparent; yet this inclination or aptitude is diminished on the part of supervening clouds, although it always remains rooted in the nature of the body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection avails when diminution is made by subtraction. But here the diminution is made by raising obstacles, and this neither diminishes nor destroys the root of the inclination, as stated above.
 
 Reply to Objection 2: The natural inclination is indeed wholly uniform: nevertheless it stands in relation both to its principle and to its term, in respect of which diversity of relation, it is diminished on the one hand, and not on the other.
 
 Reply to Objection 3: Even in the lost the natural inclination to virtue remains, else they would have no remorse of conscience. That it is not reduced to act is owing to their being deprived of grace by Divine justice. Thus even in a blind man the aptitude to see remains in the very root of his nature, inasmuch as he is an animal naturally endowed with sight: yet this aptitude is not reduced to act, for the lack of a cause capable of reducing it, by forming the organ requisite for sight.
-# Whether Weakness, Ignorance, Malice And Concupiscence Are Suitably Reckoned As The Wounds Of Nature Consequent Upon Sin?
+## Whether Weakness, Ignorance, Malice And Concupiscence Are Suitably Reckoned As The Wounds Of Nature Consequent Upon Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that weakness, ignorance, malice and concupiscence are not suitably reckoned as the wounds of nature consequent upon sin. For one same thing is not both effect and cause of the same thing. But these are reckoned to be causes of sin, as appears from what has been said above ([1872]Q[76], A[1];[1873] Q[77], AA[3],5;[1874] Q[78], A[1]). Therefore they should not be reckoned as effects of sin.
 
@@ -77,7 +77,7 @@ Objection 4: Further, it has been stated ([1875]Q[77], A[3]) that to sin from we
 
 Objection 5: Further, Augustine (De Nat. et Grat. lxvii, 67) reckons "two things to be punishments inflicted on the soul of the sinner, viz. ignorance and difficulty," from which arise "error and vexation," which four do not coincide with the four in question. Therefore it seems that one or the other reckoning is incomplete.
 
-## Answer
+### Answer
 
 On the contrary, The authority of Bede suffices [*Reference not known].
 
@@ -87,7 +87,7 @@ Again, there are four of the soul's powers that can be subject of virtue, as sta
 
 Accordingly these are the four wounds inflicted on the whole of human nature as a result of our first parent's sin. But since the inclination to the good of virtue is diminished in each individual on account of actual sin, as was explained above ([1878]AA[1], 2), these four wounds are also the result of other sins, in so far as, through sin, the reason is obscured, especially in practical matters, the will hardened to evil, good actions become more difficult and concupiscence more impetuous.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There is no reason why the effect of one sin should not be the cause of another: because the soul, through sinning once, is more easily inclined to sin again.
 
@@ -98,9 +98,9 @@ Reply to Objection 3: As stated above ([1879]Q[82], A[3], ad 1), concupiscence i
 Reply to Objection 4: Speaking in a general way, every passion can be called a weakness, in so far as it weakens the soul's strength and clogs the reason. Bede, however, took weakness in the strict sense, as contrary to fortitude which pertains to the irascible.
 
 Reply to Objection 5: The "difficulty" which is mentioned in this book of Augustine, includes the three wounds affecting the appetitive powers, viz. "malice," "weakness" and "concupiscence," for it is owing to these three that a man finds it difficult to tend to the good. "Error" and "vexation" are consequent wounds, since a man is vexed through being weakened in respect of the objects of his concupiscence.
-# Whether Privation Of Mode, Species And Order Is The Effect Of Sin?
+## Whether Privation Of Mode, Species And Order Is The Effect Of Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that privation of mode, species and order is not the effect of sin. For Augustine says (De Natura Boni iii) that "where these three abound, the good is great; where they are less, there is less good; where they are not, there is no good at all." But sin does not destroy the good of nature. Therefore it does not destroy mode, species and order.
 
@@ -108,7 +108,7 @@ Objection 2: Further, nothing is its own cause. But sin itself is the "privation
 
 Objection 3: Further, different effects result from different sins. Now since mode, species and order are diverse, their corresponding privations must be diverse also, and, consequently, must be the result of different sins. Therefore privation of mode, species and order is not the effect of each sin.
 
-## Answer
+### Answer
 
 On the contrary, Sin is to the soul what weakness is to the body, according to Ps. 6:3, "Have mercy on me, O Lord, for I am weak." Now weakness deprives the body of mode, species and order.
 
@@ -118,12 +118,12 @@ Accordingly there are different grades of mode, species and order, corresponding
 
 This suffices for the Replies to the first two Objections.
 
-## Replies
+### Replies
 
 Reply to Objection 3: Mode, species and order follow one from the other, as explained above: and so they are destroyed or diminished together.
-# Whether Death And Other Bodily Defects Are The Result Of Sin?
+## Whether Death And Other Bodily Defects Are The Result Of Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that death and other bodily defects are not the result of sin. Because equal causes have equal effects. Now these defects are not equal in all, but abound in some more than in others, whereas original sin, from which especially these defects seem to result, is equal in all, as stated above ([1882]Q[82], A[4]). Therefore death and suchlike defects are not the result of sin.
 
@@ -131,7 +131,7 @@ Objection 2: Further, if the cause is removed, the effect is removed. But these 
 
 Objection 3: Further, actual sin has more of the character of guilt than original sin has. But actual sin does not change the nature of the body by subjecting it to some defect. Much less, therefore, does original sin. Therefore death and other bodily defects are not the result of sin.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 5:12), "By one man sin entered into this world, and by sin death."
 
@@ -139,16 +139,16 @@ I answer that, One thing causes another in two ways: first, by reason of itself;
 
 Now the withdrawal of original justice has the character of punishment, even as the withdrawal of grace has. Consequently, death and all consequent bodily defects are punishments of original sin. And although the defects are not intended by the sinner, nevertheless they are ordered according to the justice of God Who inflicts them as punishments.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Causes that produce their effects of themselves, if equal, produce equal effects: for if such causes be increased or diminished, the effect is increased or diminished. But equal causes of an obstacle being removed, do not point to equal effects. For supposing a man employs equal force in displacing two columns, it does not follow that the movements of the stones resting on them will be equal; but that one will move with greater velocity, which has the greater weight according to the property of its nature, to which it is left when the obstacle to its falling is removed. Accordingly, when original justice is removed, the nature of the human body is left to itself, so that according to diverse natural temperaments, some men's bodies are subject to more defects, some to fewer, although original sin is equal in all.
 
 Reply to Objection 2: Both original and actual sin are removed by the same cause that removes these defects, according to the Apostle (Rom. 8:11): "He . . . shall quicken . . . your mortal bodies, because of His Spirit that dwelleth in you": but each is done according to the order of Divine wisdom, at a fitting time. Because it is right that we should first of all be conformed to Christ's sufferings, before attaining to the immortality and impassibility of glory, which was begun in Him, and by Him acquired for us. Hence it behooves that our bodies should remain, for a time, subject to suffering, in order that we may merit the impassibility of glory, in conformity with Christ.
 
 Reply to Objection 3: Two things may be considered in actual sin, the substance of the act, and the aspect of fault. As regards the substance of the act, actual sin can cause a bodily defect: thus some sicken and die through eating too much. But as regards the fault, it deprives us of grace which is given to us that we may regulate the acts of the soul, but not that we may ward off defects of the body, as original justice did. Wherefore actual sin does not cause those defects, as original sin does.
-# Whether Death And Other Defects Are Natural To Man?
+## Whether Death And Other Defects Are Natural To Man?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that death and such like defects are natural to man. For "the corruptible and the incorruptible differ generically" (Metaph. x, text. 26). But man is of the same genus as other animals which are naturally corruptible. Therefore man is naturally corruptible.
 
@@ -156,7 +156,7 @@ Objection 2: Further, whatever is composed of contraries is naturally corruptibl
 
 Objection 3: Further, a hot thing naturally consumes moisture. Now human life is preserved by hot and moist elements. Since therefore the vital functions are fulfilled by the action of natural heat, as stated in De Anima ii, text. 50, it seems that death and such like defects are natural to man.
 
-## Answer
+### Answer
 
 On the contrary, (1) God made in man whatever is natural to him. Now "God made not death" (Wis. 1:13). Therefore death is not natural to man.
 

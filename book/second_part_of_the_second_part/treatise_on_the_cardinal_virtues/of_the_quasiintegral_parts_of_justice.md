@@ -5,9 +5,9 @@ We must now consider the quasi-integral parts of justice, which are "to do good,
 (2) Whether transgression is a special sin?
 (3) Whether omission is a special sin?
 (4) Of the comparison between omission and transgression.
-# Whether To Decline From Evil And To Do Good Are Parts Of Justice?
+## Whether To Decline From Evil And To Do Good Are Parts Of Justice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that to decline from evil and to do good are not parts of justice. For it belongs to every virtue to perform a good deed and to avoid an evil one. But parts do not exceed the whole. Therefore to decline from evil and to do good should not be reckoned parts of justice, which is a special kind of virtue.
 
@@ -15,7 +15,7 @@ Objection 2: Further, a gloss on Ps. 33:15, "Turn away from evil and do good," s
 
 Objection 3: Further, things that are so related that one implies the other, are not mutually distinct as parts of a whole. Now declining from evil is implied in doing good: since no one does evil and good at the same time. Therefore declining from evil and doing good are not parts of justice.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (De Correp. et Grat. i) declares that "declining from evil and doing good" belong to the justice of the law.
 
@@ -25,16 +25,16 @@ On the other hand justice considered as a special virtue regards good as due to 
 
 Now these two are said to be quasi-integral parts of general or of special justice, because each is required for the perfect act of justice. For it belongs to justice to establish equality in our relations with others, as shown above ([2973]Q[58], A[2]): and it pertains to the same cause to establish and to preserve that which it has established. Now a person establishes the equality of justice by doing good, i.e. by rendering to another his due: and he preserves the already established equality of justice by declining from evil, that is by inflicting no injury on his neighbor.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Good and evil are here considered under a special aspect, by which they are appropriated to justice. The reason why these two are reckoned parts of justice under a special aspect of good and evil, while they are not reckoned parts of any other moral virtue, is that the other moral virtues are concerned with the passions wherein to do good is to observe the mean, which is the same as to avoid the extremes as evils: so that doing good and avoiding evil come to the same, with regard to the other virtues. On the other hand justice is concerned with operations and external things, wherein to establish equality is one thing, and not to disturb the equality established is another.
 
 Reply to Objection 2: To decline from evil, considered as a part of justice, does not denote a pure negation, viz."not to do evil"; for this does not deserve the palm, but only avoids the punishment. But it implies a movement of the will in repudiating evil, as the very term "decline" shows. This is meritorious; especially when a person resists against an instigation to do evil.
 
 Reply to Objection 3: Doing good is the completive act of justice, and the principal part, so to speak, thereof. Declining from evil is a more imperfect act, and a secondary part of that virtue. Hence it is a. material part, so to speak, thereof, and a necessary condition of the formal and completive part.
-# Whether Transgression Is A Special Sin?
+## Whether Transgression Is A Special Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that transgression is not a special sin. For no species is included in the definition of its genus. Now transgression is included in the definition of sin; because Ambrose says (De Parad. viii) that sin is "a transgression of the Divine law." Therefore transgression is not a species of sin.
 
@@ -42,7 +42,7 @@ Objection 2: Further, no species is more comprehensive than its genus. But trans
 
 Objection 3: Further, no species contains all the parts into which its genus is divided. Now the sin of transgression extends to all the capital vices, as well as to sins of thought, word and deed. Therefore transgression is not a special sin.
 
-## Answer
+### Answer
 
 On the contrary, It is opposed to a special virtue, namely justice.
 
@@ -50,16 +50,16 @@ I answer that, The term transgression is derived from bodily movement and applie
 
 Now materially considered this may be common to all the species of sin, because man transgresses a Divine precept by any species of mortal sin. But if we consider it formally, namely under its special aspect of an act against a negative precept, it is a special sin in two ways. First, in so far as it is opposed to those kinds of sin that are opposed to the other virtues: for just as it belongs properly to legal justice to consider a precept as binding, so it belongs properly to a transgression to consider a precept as an object of contempt. Secondly, in so far as it is distinct from omission which is opposed to an affirmative precept.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even as legal justice is "all virtue" ([2974]Q[58], A[5]) as regards its subject and matter, so legal injustice is materially "all sin." It is in this way that Ambrose defined sin, considering it from the point of view of legal injustice.
 
 Reply to Objection 2: The natural inclination concerns the precepts of the natural law. Again, a laudable custom has the force of a precept; since as Augustine says in an epistle On the Fast of the Sabbath (Ep. xxxvi), "a custom of God's people should be looked upon as law." Hence both sin and transgression may be against a laudable custom and against a natural inclination.
 
 Reply to Objection 3: All these species of sin may include transgression, if we consider them not under their proper aspects, but under a special aspect, as stated above. The sin of omission, however, is altogether distinct from the sin of transgression.
-# Whether Omission Is A Special Sin?
+## Whether Omission Is A Special Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that omission is not a special sin. For every sin is either original or actual. Now omission is not original sin, for it is not contracted through origin nor is it actual sin, for it may be altogether without act, as stated above ([2975]FS, Q[71], A[5]) when we were treating of sins in general. Therefore omission is not a special sin.
 
@@ -69,22 +69,22 @@ Objection 3: Further, it is possible to fix the time when any special sin begins
 
 Objection 4: Further, every special sin is opposed to a special virtue. But it is not possible to assign any special virtue to which omission is opposed, both because the good of any virtue can be omitted, and because justice to which it would seem more particularly opposed, always requires an act, even in declining from evil, as stated above (A[1], ad 2), while omission may be altogether without act. Therefore omission is not a special sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (James 4:17): "To him . . . who knoweth to do good and doth it not, to him it is sin."
 
 I answer that, omission signifies the non-fulfilment of a good, not indeed of any good, but of a good that is due. Now good under the aspect of due belongs properly to justice; to legal justice, if the thing due depends on Divine or human law; to special justice, if the due is something in relation to one's neighbor. Wherefore, in the same way as justice is a special virtue, as stated above ([2976]Q[58], AA[6],7), omission is a special sin distinct from the sins which are opposed to the other virtues; and just as doing good, which is the opposite of omitting it, is a special part of justice, distinct from avoiding evil, to which transgression is opposed, so too is omission distinct from transgression.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Omission is not original but actual sin, not as though it had some act essential to it, but for as much as the negation of an act is reduced to the genus of act, and in this sense non-action is a kind of action, as stated above ([2977]FS, Q[71], A[6], ad 1).
 
 Reply to Objection 3: Just as the sin of transgression is opposed to negative precepts which regard the avoidance of evil, so the sin of omission is opposed to affirmative precepts, which regard the doing of good. Now affirmative precepts bind not for always, but for a fixed time, and at that time the sin of omission begins. But it may happen that then one is unable to do what one ought, and if this inability is without any fault on his part, he does not omit his duty, as stated above (ad 2; [2978]FS, Q[71], A[5]). On the other hand if this inability is due to some previous fault of his (for instance, if a man gets drunk at night, and cannot get up for matins, as he ought to), some say that the sin of omission begins when he engages in an action that is illicit and incompatible with the act to which he is bound. But this does not seem to be true, for supposing one were to rouse him by violence and that he went to matins, he would not omit to go, so that, evidently, the previous drunkenness was not an omission, but the cause of an omission. Consequently, we must say that the omission begins to be imputed to him as a sin, when the time comes for the action; and yet this is on account of a preceding cause by reason of which the subsequent omission becomes voluntary.
 
 Reply to Objection 4: Omission is directly opposed to justice, as stated above; because it is a non-fulfilment of a good of virtue, but only under the aspect of due, which pertains to justice. Now more is required for an act to be virtuous and meritorious than for it to be sinful and demeritorious, because "good results from an entire cause, whereas evil arises from each single defect" [*Dionysius, De Div. Nom. iv]. Wherefore the merit of justice requires an act, whereas an omission does not.
-# Whether A Sin Of Omission Is More Grievous Than A Sin Of Transgression?
+## Whether A Sin Of Omission Is More Grievous Than A Sin Of Transgression?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a sin of omission is more grievous than a sin of transgression. For "delictum" would seem to signify the same as "derelictum" [*Augustine, QQ. in Levit., qu. xx], and therefore is seemingly the same as an omission. But "delictum" denotes a more grievous offence than transgression, because it deserves more expiation as appears from Lev. 5. Therefore the sin of omission is more grievous than the sin of transgression.
 
@@ -94,13 +94,13 @@ Objection 3: Further, sins of transgression may be either venial or mortal. But 
 
 Objection 4: Further, the pain of loss which consists in being deprived of seeing God and is inflicted for the sin of omission, is a greater punishment than the pain of sense, which is inflicted for the sin of transgression, as Chrysostom states (Hom. xxiii super Matth.). Now punishment is proportionate to fault. Therefore the sin of omission is graver than the sin of transgression.
 
-## Answer
+### Answer
 
 On the contrary, It is easier to refrain from evil deeds than to accomplish good deeds. Therefore it is a graver sin not to refrain from an evil deed, i.e. "to transgress," than not to accomplish a good deed, which is "to omit."
 
 I answer that, The gravity of a sin depends on its remoteness from virtue. Now contrariety is the greatest remoteness, according to Metaph. x [*Didot. ed. ix, 4]. Wherefore a thing is further removed from its contrary than from its simple negation; thus black is further removed from white than not-white is, since every black is not-white, but not conversely. Now it is evident that transgression is contrary to an act of virtue, while omission denotes the negation thereof: for instance it is a sin of omission, if one fail to give one's parents due reverence, while it is a sin of transgression to revile them or injure them in any way. Hence it is evident that, simply and absolutely speaking, transgression is a graver sin than omission, although a particular omission may be graver than a particular transgression.
 
-## Replies
+### Replies
 
 Reply to Objection 1: "Delictum" in its widest sense denotes any kind of omission; but sometimes it is taken strictly for the omission of something concerning God, or for a man's intentional and as it were contemptuous dereliction of duty: and then it has a certain gravity, for which reason it demands a greater expiation.
 

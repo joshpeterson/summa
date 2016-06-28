@@ -5,9 +5,9 @@ We now have to consider the virginity of the Mother of God; concerning which the
 (2) Whether she was a virgin in His Birth?
 (3) Whether she remained a virgin after His Birth?
 (4) Whether she took a vow of virginity?
-# Whether The Mother Of God Was A Virgin In Conceiving Christ?
+## Whether The Mother Of God Was A Virgin In Conceiving Christ?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Mother of God was not a virgin in conceiving Christ. For no child having father and mother is conceived by a virgin mother. But Christ is said to have had not only a mother, but also a father, according to Lk. 2:33: "His father and mother were wondering at those things which were spoken concerning Him": and further on (Lk. 2:48) in the same chapter she says: "Behold I and Thy father [Vulg.: 'Thy father and I'] have sought Thee sorrowing." Therefore Christ was not conceived of a virgin mother.
 
@@ -19,7 +19,7 @@ Objection 4: Further, things of the same species have the same mode of generatio
 
 Objection 5: Further, every natural form has its determinate matter, outside which it cannot be. But the matter of human form appears to be the semen of male and female. If therefore Christ's body was not conceived of the semen of male and female, it would not have been truly a human body; which cannot be asserted. It seems therefore that He was not conceived of a virgin mother.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 7:14): "Behold a virgin shall conceive."
 
@@ -33,7 +33,7 @@ Thirdly, this was befitting to the dignity of Christ's humanity in which there c
 
 Fourthly, on account of the very end of the Incarnation of Christ, which was that men might be born again as sons of God, "not of the will of the flesh, nor of the will of man, but of God" (Jn. 1:13), i.e. of the power of God, of which fact the very conception of Christ was to appear as an exemplar. Whence Augustine says (De Sanct. Virg.): "It behooved that our Head, by a notable miracle, should be born, after the flesh, of a virgin, that He might thereby signify that His members would be born, after the Spirit, of a virgin Church."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Bede says on Lk. 1:33: Joseph is called the father of the Saviour, not that he really was His father, as the Photinians pretended: but that he was considered by men to be so, for the safeguarding of Mary's good name. Wherefore Luke adds (Lk. 3:23): "Being, as it was supposed, the son of Joseph."
 
@@ -44,9 +44,9 @@ Reply to Objection 3: As the gloss says on this passage, the word "'mulier,' is 
 Reply to Objection 4: This argument is true of those things which come into existence by the way of nature: since nature, just as it is fixed to one particular effect, so it is determinate to one mode of producing that effect. But as the supernatural power of God extends to the infinite: just as it is not determinate to one effect, so neither is it determinate to one mode of producing any effect whatever. Consequently, just as it was possible for the first man to be produced, by the Divine power, "from the slime of the earth," so too was it possible for Christ's body to be made, by Divine power, from a virgin without the seed of the male.
 
 Reply to Objection 5: According to the Philosopher (De Gener. Animal. i, ii, iv), in conception the seed of the male is not by way of matter, but by way of agent: and the female alone supplies the matter. Wherefore though the seed of the male was lacking in Christ's conception, it does not follow that due matter was lacking.
-# Whether Christ's Mother Was A Virgin In His Birth?
+## Whether Christ's Mother Was A Virgin In His Birth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's Mother was not a virgin in His Birth. For Ambrose says on Lk. 2:23: "He who sanctified a strange womb, for the birth of a prophet, He it is who opened His Mother's womb, that He might go forth unspotted." But opening of the womb excludes virginity. Therefore Christ's Mother was not a virgin in His Birth.
 
@@ -54,7 +54,7 @@ Objection 2: Further, nothing should have taken place in the mystery of Christ, 
 
 Objection 3: Further, as Gregory says in the Homily for the octave of Easter [*xxvi in Evang.], that by entering after His Resurrection where the disciples were gathered, the doors being shut, our Lord "showed that His body was the same in nature but differed in glory": so that it seems that to go through a closed passage pertains to a glorified body. But Christ's body was not glorified in its conception, but was passible, having "the likeness of sinful flesh," as the Apostle says (Rom. 8:3). Therefore He did not come forth through the closed womb of the Virgin.
 
-## Answer
+### Answer
 
 On the contrary, In a sermon of the Council of Ephesus (P. III, Cap. ix) it is said: "After giving birth, nature knows not a virgin: but grace enhances her fruitfulness, and effects her motherhood, while in no way does it injure her virginity." Therefore Christ's Mother was a virgin also in giving birth to Him.
 
@@ -64,16 +64,16 @@ Secondly, this is fitting as regards the effect of Christ's Incarnation: since H
 
 Thirdly, it was fitting that He Who commanded us to honor our father and mother should not in His Birth lessen the honor due to His Mother.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Ambrose says this in expounding the evangelist's quotation from the Law: "Every male opening the womb shall be called holy to the Lord." This, says Bede, "is said in regard to the wonted manner of birth; not that we are to believe that our Lord in coming forth violated the abode of her sacred womb, which His entrance therein had hallowed." Wherefore the opening here spoken of does not imply the unlocking of the enclosure of virginal purity; but the mere coming forth of the infant from the maternal womb.
 
 Reply to Objection 2: Christ wished so to show the reality of His body, as to manifest His Godhead at the same time. For this reason He mingled wondrous with lowly things. Wherefore, to show that His body was real, He was born of a woman. But in order to manifest His Godhead, He was born of a virgin, for "such a Birth befits a God," as Ambrose says in the Christmas hymn.
 
 Reply to Objection 3: Some have held that Christ, in His Birth, assumed the gift of "subtlety," when He came forth from the closed womb of a virgin; and that He assumed the gift of "agility" when with dry feet He walked on the sea. But this is not consistent with what has been decided above (Q[14]). For these gifts of a glorified body result from an overflow of the soul's glory on to the body, as we shall explain further on, in treating of glorified bodies ([4132]XP, Q[82]): and it has been said above (Q[13], A[3], ad 1; Q[16], A[1], ad 2) that before His Passion Christ "allowed His flesh to do and to suffer what was proper to it" (Damascene, De Fide Orth. iii): nor was there such an overflow of glory from His soul on to His body.
-# Whether Christ's Mother Remained A Virgin After His Birth?
+## Whether Christ's Mother Remained A Virgin After His Birth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's Mother did not remain a virgin after His Birth. For it is written (Mat. 1:18): "Before Joseph and Mary came together, she was found with child of the Holy Ghost." Now the Evangelist would not have said this---"before they came together"---unless he were certain of their subsequent coming together; for no one says of one who does not eventually dine "before he dines" (cf. Jerome, Contra Helvid.). It seems, therefore, that the Blessed Virgin subsequently had intercourse with Joseph; and consequently that she did not remain a virgin after (Christ's) Birth.
 
@@ -87,7 +87,7 @@ Objection 5: Further, it is written (Jn. 2:12): "After this He went down to Caph
 
 Objection 6: Further, it is written (Mat. 27:55,56): "There were there"---that is, by the cross of Christ---"many women afar off, who had followed Jesus from Galilee, ministering unto Him; among whom was Mary Magdalen, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee." Now this Mary who is called "the mother of James and Joseph" seems to have been also the Mother of Christ; for it is written (Jn. 19:25) that "there stood by the cross of Jesus, Mary His Mother." Therefore it seems that Christ's Mother did not remain a virgin after His Birth.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ezech. 44:2): "This gate shall be shut, it shall not be opened, and no man shall pass through it; because the Lord the God of Israel hath entered in by it." Expounding these words, Augustine says in a sermon (De Annunt. Dom. iii): "What means this closed gate in the House of the Lord, except that Mary is to be ever inviolate? What does it mean that 'no man shall pass through it,' save that Joseph shall not know her? And what is this---'The Lord alone enters in and goeth out by it'---except that the Holy Ghost shall impregnate her, and that the Lord of angels shall be born of her? And what means this---'it shall be shut for evermore'---but that Mary is a virgin before His Birth, a virgin in His Birth, and a virgin after His Birth?"
 
@@ -101,7 +101,7 @@ Fourthly, it would be tantamount to an imputation of extreme presumption in Jose
 
 We must therefore simply assert that the Mother of God, as she was a virgin in conceiving Him and a virgin in giving Him birth, did she remain a virgin ever afterwards.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Jerome says (Contra Helvid. i): "Although this particle 'before' often indicates a subsequent event, yet we must observe that it not infrequently points merely to some thing previously in the mind: nor is there need that what was in the mind take place eventually, since something may occur to prevent its happening. Thus if a man say: 'Before I dined in the port, I set sail,' we do not understand him to have dined in port after he set sail: but that his mind was set on dining in port." In like manner the evangelist says: "Before they came together" Mary "was found with child, of the Holy Ghost," not that they came together afterwards: but that, when it seemed that they would come together, this was forestalled through her conceiving by the Holy Ghost, the result being that afterwards they did not come together.
 
@@ -114,9 +114,9 @@ Reply to Objection 4: The Scriptures are wont to designate as the first-born, no
 Reply to Objection 5: Some, as Jerome says on Mat. 12:49,50, "suppose that the brethren of the Lord were Joseph's sons by another wife. But we understand the brethren of the Lord to be not sons of Joseph, but cousins of the Saviour, the sons of Mary, His Mother's sister." For "Scripture speaks of brethren in four senses; namely, those who are united by being of the same parents, of the same nation, of the same family, by common affection." Wherefore the brethren of the Lord are so called, not by birth, as being born of the same mother; but by relationship, as being blood-relations of His. But Joseph, as Jerome says (Contra Helvid. ix), is rather to be believed to have remained a virgin, "since he is not said to have had another wife," and "a holy man does not live otherwise than chastely."
 
 Reply to Objection 6: Mary who is called "the mother of James and Joseph" is not to be taken for the Mother of our Lord, who is not wont to be named in the Gospels save under this designation of her dignity---"the Mother of Jesus." This Mary is to be taken for the wife of Alphaeus, whose son was James the less, known as the "brother of the Lord" (Gal. 1:19).
-# Whether The Mother Of God Took A Vow Of Virginity?
+## Whether The Mother Of God Took A Vow Of Virginity?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Mother of God did not take a vow of virginity. For it is written (Dt. 7:14): "No one shall be barren among you of either sex." But sterility is a consequence of virginity. Therefore the keeping of virginity was contrary to the commandment of the Old Law. But before Christ was born the old law was still in force. Therefore at that time the Blessed Virgin could not lawfully take a vow of virginity.
 
@@ -124,13 +124,13 @@ Objection 2: Further, the Apostle says (1 Cor. 7:25): "Concerning virgins I have
 
 Objection 3: Further, the gloss of Jerome says on 1 Tim. 5:12, that "for those who are vowed to virginity, it is reprehensible not only to marry, but also to desire to be married." But the Mother of Christ committed no sin for which she could be reprehended, as stated above ([4133]Q[27], A[4]). Since therefore she was "espoused," as related by Lk. 1:27 it seems that she did not take a vow of virginity.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Sanct. Virg. iv): "Mary answered the announcing angel: 'How shall this be done, because I know not man?' She would not have said this unless she had already vowed her virginity to God."
 
 I answer that, As we have stated in the [4134]SS, Q[88], A[6], works of perfection are more praiseworthy when performed in fulfilment of a vow. Now it is clear that for reasons already given ([4135]AA[1],2,3) virginity had a special place in the Mother of God. It was therefore fitting that her virginity should be consecrated to God by vow. Nevertheless because, while the Law was in force both men and women were bound to attend to the duty of begetting, since the worship of God was spread according to carnal origin, until Christ was born of that people; the Mother of God is not believed to have taken an absolute vow of virginity, before being espoused to Joseph, although she desired to do so, yet yielding her own will to God's judgment. Afterwards, however, having taken a husband, according as the custom of the time required, together with him she took a vow of virginity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Because it seemed to be forbidden by the law not to take the necessary steps for leaving a posterity on earth, therefore the Mother of God did not vow virginity absolutely, but under the condition that it were pleasing to God. When, however, she knew that it was acceptable to God, she made the vow absolute, before the angel's Annunciation.
 

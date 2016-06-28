@@ -3,9 +3,9 @@
 We must now consider ambition: and under this head there are two points of inquiry:
 (1) Whether it is a sin?
 (2) Whether it is opposed to magnanimity by excess?
-# Whether Ambition Is A Sin?
+## Whether Ambition Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that ambition is not a sin. For ambition denotes the desire of honor. Now honor is in itself a good thing, and the greatest of external goods: wherefore those who care not for honor are reproved. Therefore ambition is not a sin; rather is it something deserving of praise, in so far as a good is laudably desired.
 
@@ -13,7 +13,7 @@ Objection 2: Further, anyone may, without sin, desire what is due to him as a re
 
 Objection 3: Further, that which heartens a man to do good and disheartens him from doing evil, is not a sin. Now honor heartens men to do good and to avoid evil; thus the Philosopher says (Ethic. iii, 8) that "with the bravest men, cowards are held in dishonor, and the brave in honor": and Tully says (De Tusc. Quaest. i) that "honor fosters the arts." Therefore ambition is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 13:5) that "charity is not ambitious, seeketh not her own." Now nothing is contrary to charity, except sin. Therefore ambition is a sin.
 
@@ -21,16 +21,16 @@ I answer that, As stated above ([3362]Q[103], AA[1],2), honor denotes reverence 
 
 Now the desire of honor may be inordinate in three ways. First, when a man desires recognition of an excellence which he has not: this is to desire more than his share of honor. Secondly, when a man desires honor for himself without referring it to God. Thirdly, when a man's appetite rests in honor itself, without referring it to the profit of others. Since then ambition denotes inordinate desire of honor, it is evident that it is always a sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The desire for good should be regulated according to reason, and if it exceed this rule it will be sinful. In this way it is sinful to desire honor in disaccord with the order of reason. Now those are reproved who care not for honor in accordance with reason's dictate that they should avoid what is contrary to honor.
 
 Reply to Objection 2: Honor is not the reward of virtue, as regards the virtuous man, in this sense that he should seek for it as his reward: since the reward he seeks is happiness, which is the end of virtue. But it is said to be the reward of virtue as regards others, who have nothing greater than honor whereby to reward the virtuous; which honor derives greatness from the very fact that it bears witness to virtue. Hence it is evident that it is not an adequate reward, as stated in Ethic. iv, 3.
 
 Reply to Objection 3: Just as some are heartened to do good and disheartened from doing evil, by the desire of honor, if this be desired in due measure; so, if it be desired inordinately, it may become to man an occasion of doing many evil things, as when a man cares not by what means he obtains honor. Wherefore Sallust says (Catilin.) that "the good as well as the wicked covet honors for themselves, but the one," i.e. the good, "go about it in the right way," whereas "the other," i.e. the wicked, "through lack of the good arts, make use of deceit and falsehood." Yet they who, merely for the sake of honor, either do good or avoid evil, are not virtuous, according to the Philosopher (Ethic. iii, 8), where he says that they who do brave things for the sake of honor are not truly brave.
-# Whether Ambition Is Opposed To Magnanimity By Excess?
+## Whether Ambition Is Opposed To Magnanimity By Excess?
 
-## Objections
+### Objections
 
 Objection 1: It seems that ambition is not opposed to magnanimity by excess. For one mean has only one extreme opposed to it on the one side. Now presumption is opposed to magnanimity by excess as stated above ([3363]Q[130], A[2]). Therefore ambition is not opposed to it by excess.
 
@@ -38,13 +38,13 @@ Objection 2: Further, magnanimity is about honors; whereas ambition seems to reg
 
 Objection 3: Further, ambition seems to regard outward show: for it is written (Acts 25:27) that "Agrippa and Berenice . . . with great pomp [ambitione]. . . had entered into the hall of audience" [*'Praetorium.' The Vulgate has 'auditorium,' but the meaning is the same], and (2 Para. 16:14) that when Asa died they "burned spices and . . . ointments over his body" with very great pomp [ambitione]. But magnanimity is not about outward show. Therefore ambition is not opposed to magnanimity.
 
-## Answer
+### Answer
 
 On the contrary, Tully says (De Offic. i) that "the more a man exceeds in magnanimity, the more he desires himself alone to dominate others." But this pertains to ambition. Therefore ambition denotes an excess of magnanimity.
 
 I answer that, As stated above [3364](A[1]), ambition signifies inordinate love of honor. Now magnanimity is about honors and makes use of them in a becoming manner. Wherefore it is evident that ambition is opposed to magnanimity as the inordinate to that which is well ordered.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Magnanimity regards two things. It regards one as its end, in so far as it is some great deed that the magnanimous man attempts in proportion to his ability. In this way presumption is opposed to magnanimity by excess: because the presumptuous man attempts great deeds beyond his ability. The other thing that magnanimity regards is its matter, viz. honor, of which it makes right use: and in this way ambition is opposed to magnanimity by excess. Nor is it impossible for one mean to be exceeded in various respects.
 

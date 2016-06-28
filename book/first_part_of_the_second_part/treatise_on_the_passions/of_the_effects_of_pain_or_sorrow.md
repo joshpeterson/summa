@@ -5,9 +5,9 @@ We must now consider the effects of pain or of sorrow: under which head there ar
 (2) Whether the effect of sorrow or pain is to burden the soul?
 (3) Whether sorrow or pain weakens all activity?
 (4) Whether sorrow is more harmful to the body than all the other passions of the soul?
-# Whether Pain Deprives One Of The Power To Learn?
+## Whether Pain Deprives One Of The Power To Learn?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pain does not deprive one of the power to learn. For it is written (Is. 26:9): "When Thou shalt do Thy judgments on the earth, the inhabitants of the world shall learn justice": and further on (verse 16): "In the tribulation of murmuring Thy instruction was with them." But the judgments of God and tribulation cause sorrow in men's hearts. Therefore pain or sorrow, far from destroying, increases the power of learning.
 
@@ -15,7 +15,7 @@ Objection 2: Further, it is written (Is. 28:9): "Whom shall He teach knowledge? 
 
 Objection 3: Further, inward sorrow surpasses outward pain, as stated above ([1321]Q[35], A[7]). But man can learn while sorrowful. Much more, therefore, can he learn while in bodily pain.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Soliloq. i, 12): "Although during those days I was tormented with a violent tooth-ache, I was not able to turn over in my mind other things than those I had already learnt; and as to learning anything, I was quite unequal to it, because it required undivided attention."
 
@@ -23,16 +23,16 @@ I answer that, Since all the powers of the soul are rooted in the one essence of
 
 Now it is evident that sensible pain above all draws the soul's attention to itself; because it is natural for each thing to tend wholly to repel whatever is contrary to it, as may be observed even in natural things. It is likewise evident that in order to learn anything new, we require study and effort with a strong intention, as is clearly stated in Prov. 2:4,5: "If thou shalt seek wisdom as money, and shall dig for her as for a treasure, then shalt thou understand learning" [Vulg: 'the fear of the Lord']. Consequently if the pain be acute, man is prevented at the time from learning anything: indeed it can be so acute, that, as long as it lasts, a man is unable to give his attention even to that which he knew already. However a difference is to be observed according to the difference of love that a man has for learning or for considering: because the greater his love, the more will he retain the intention of his mind so as to prevent it from turning entirely to the pain.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Moderate sorrow, that does not cause the mind to wander, can conduce to the acquisition of learning especially in regard to those things by which a man hopes to be freed from sorrow. And thus, "in the tribulation of murmuring," men are more apt to be taught by God.
 
 Reply to Objection 2: Both pleasure and pain, in so far as they draw upon themselves the soul's intention, hinder the reason from the act of consideration, wherefore it is stated in Ethic. vii, 11 that "in the moment of sexual pleasure, a man cannot understand anything." Nevertheless pain attracts the soul's intention more than pleasure does: thus we observe in natural things that the action of a natural body is more intense in regard to its contrary; for instance, hot water is more accessible to the action of cold, and in consequence freezes harder. If therefore pain or sorrow be moderate, it can conduce accidentally to the facility of learning, in so far as it takes away an excess of pleasure. But, of itself, it is a hindrance; and if it be intense, it prevents it altogether.
 
 Reply to Objection 3: External pain arises from hurt done to the body, so that it involves bodily transmutation more than inward sorrow does: and yet the latter is greater in regard to the formal element of pain, which belongs to the soul. Consequently bodily pain is a greater hindrance to contemplation which requires complete repose, than inward sorrow is. Nevertheless if inward sorrow be very intense, it attracts the intention, so that man is unable to learn anything for the first time: wherefore on account of sorrow Gregory interrupted his commentary on Ezechiel (Hom. xxii in Ezechiel).
-# Whether The Effect Of Sorrow Or Pain Is To Burden The Soul?
+## Whether The Effect Of Sorrow Or Pain Is To Burden The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not an effect of sorrow to burden the soul. For the Apostle says (2 Cor. 7:11): "Behold this self-same thing, that you were made sorrowful according to God, how great carefulness it worketh in you: yea, defence, yea indignation," etc. Now carefulness and indignation imply that the soul is uplifted, which is contrary to being depressed. Therefore depression is not an effect of sorrow.
 
@@ -40,22 +40,22 @@ Objection 2: Further, sorrow is contrary to pleasure. But the effect of pleasure
 
 Objection 3: Further, sorrow consumes those who are inflicted therewith, as may be gathered from the words of the Apostle (2 Cor. 2:7): "Lest perhaps such an one be swallowed up with overmuch sorrow." But that which is depressed is not consumed; nay, it is weighed down by something heavy, whereas that which is consumed enters within the consumer. Therefore depression should not be reckoned an effect of sorrow.
 
-## Answer
+### Answer
 
 On the contrary, Gregory of Nyssa [*Nemesius, De Nat. Hom. xix.] and Damascene (De Fide Orth. ii, 14) speak of "depressing sorrow."
 
 I answer that, The effects of the soul's passions are sometimes named metaphorically, from a likeness to sensible bodies: for the reason that the movements of the animal appetite are like the inclinations of the natural appetite. And in this way fervor is ascribed to love, expansion to pleasure, and depression to sorrow. For a man is said to be depressed, through being hindered in his own movement by some weight. Now it is evident from what has been said above ([1322]Q[23], A[4];[1323] Q[25], A[4];[1324] Q[36], A[1]) that sorrow is caused by a present evil: and this evil, from the very fact that it is repugnant to the movement of the will, depresses the soul, inasmuch as it hinders it from enjoying that which it wishes to enjoy. And if the evil which is the cause of sorrow be not so strong as to deprive one of the hope of avoiding it, although the soul be depressed in so far as, for the present, it fails to grasp that which it craves for; yet it retains the movement whereby to repulse that evil. If, on the other hand, the strength of the evil be such as to exclude the hope of evasion, then even the interior movement of the afflicted soul is absolutely hindered, so that it cannot turn aside either this way or that. Sometimes even the external movement of the body is paralyzed, so that a man becomes completely stupefied.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That uplifting of the soul ensues from the sorrow which is according to God, because it brings with it the hope of the forgiveness of sin.
 
 Reply to Objection 2: As far as the movement of the appetite is concerned, contraction and depression amount to the same: because the soul, through being depressed so as to be unable to attend freely to outward things, withdraws to itself, closing itself up as it were.
 
 Reply to Objection 3: Sorrow is said to consume man, when the force of the afflicting evil is such as to shut out all hope of evasion: and thus also it both depresses and consumes at the same time. For certain things, taken metaphorically, imply one another, which taken literally, appear to exclude one another.
-# Whether Sorrow Or Pain Weakens All Activity?
+## Whether Sorrow Or Pain Weakens All Activity?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sorrow does not weaken all activity. Because carefulness is caused by sorrow, as is clear from the passage of the Apostle quoted above (A[2], OBJ[1]). But carefulness conduces to good work: wherefore the Apostle says (2 Tim. 2:15): "Carefully study to present thyself . . . a workman that needeth not to be ashamed." Therefore sorrow is not a hindrance to work, but helps one to work well.
 
@@ -63,16 +63,16 @@ Objection 2: Further, sorrow causes desire in many cases, as stated in Ethic. vi
 
 Objection 3: Further, as some actions are proper to the joyful, so are others proper to the sorrowful; for instance, to mourn. Now a thing is improved by that which is suitable to it. Therefore certain actions are not hindered but improved by reason of sorrow.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. x, 4) that "pleasure perfects action," whereas on the other hand, "sorrow hinders it" (Ethic. x, 5).
 
 I answer that, As stated above [1325](A[2]), sorrow at times does not depress or consume the soul, so as to shut out all movement, internal or external; but certain movements are sometimes caused by sorrow itself. Accordingly action stands in a twofold relation to sorrow. First, as being the object of sorrow: and thus sorrow hinders any action: for we never do that which we do with sorrow, so well as that which we do with pleasure, or without sorrow. The reason for this is that the will is the cause of human actions: and consequently when we do something that gives pain, the action must of necessity be weakened in consequence. Secondly, action stands in relation to sorrow, as to its principle and cause: and such action must needs be improved by sorrow: thus the more one sorrows on account of a certain thing, the more one strives to shake off sorrow, provided there is a hope of shaking it off: otherwise no movement or action would result from that sorrow.
 
 From what has been said the replies to the objections are evident.
-# Whether Sorrow Is More Harmful To The Body Than The Other Passions Of The Soul?
+## Whether Sorrow Is More Harmful To The Body Than The Other Passions Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sorrow is not most harmful to the body. For sorrow has a spiritual existence in the soul. But those things which have only a spiritual existence do not cause a transmutation in the body: as is evident with regard to the images of colors, which images are in the air and do not give color to bodies. Therefore sorrow is not harmful to the body.
 
@@ -80,7 +80,7 @@ Objection 2: Further if it be harmful to the body, this can only be due to its h
 
 Objection 3: Further, the Philosopher says (Ethic. vii, 3) that "anger and desire drive some to madness": which seems to be a very great harm, since reason is the most excellent thing in man. Moreover, despair seems to be more harmful than sorrow; for it is the cause of sorrow. Therefore sorrow is not more harmful to the body than the other passions of the soul.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Prov. 17:22): "A joyful mind maketh age flourishing: a sorrowful spirit drieth up the bones": and (Prov. 25:20): "As a moth doth by a garment, and a worm by the wood: so the sadness of a man consumeth the heart": and (Ecclus. 38:19): "Of sadness cometh death."
 
@@ -88,7 +88,7 @@ I answer that, Of all the soul's passions, sorrow is most harmful to the body. T
 
 Now it must be noted that, in all the passions of the soul, the bodily transmutation which is their material element, is in conformity with and in proportion to the appetitive movement, which is the formal element: just as in everything matter is proportionate to form. Consequently those passions that imply a movement of the appetite in pursuit of something, are not repugnant to the vital movement as regards its species, but they may be repugnant thereto as regards its measure: such are love, joy, desire and the like; wherefore these passions conduce to the well-being of the body; though, if they be excessive, they may be harmful to it. On the other hand, those passions which denote in the appetite a movement of flight or contraction, are repugnant to the vital movement, not only as regards its measure, but also as regards its species; wherefore they are simply harmful: such are fear and despair, and above all sorrow which depresses the soul by reason of a present evil, which makes a stronger impression than future evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since the soul naturally moves the body, the spiritual movement of the soul is naturally the cause of bodily transmutation. Nor is there any parallel with spiritual images, because they are not naturally ordained to move such other bodies as are not naturally moved by the soul.
 

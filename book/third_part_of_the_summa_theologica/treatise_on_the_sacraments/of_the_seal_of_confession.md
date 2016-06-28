@@ -6,9 +6,9 @@ We must now inquire about the seal of confession, about which there are five poi
 (3) Whether the priest alone is bound by the seal of confession?
 (4) Whether, by permission of the penitent, the priest can make known to another, a sin of his which he knew under the seal of confession?
 (5) Whether he is bound to hide even what he knows through other sources besides?
-# Whether In Every Case The Priest Is Bound To Hide The Sins Which He Knows Under The Seal Of Confession?
+## Whether In Every Case The Priest Is Bound To Hide The Sins Which He Knows Under The Seal Of Confession?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the priest is not bound in every case to hide the sins which he knows under the seal of confession. For, as Bernard says (De Proecep. et Dispens. ii), "that which is instituted for the sake of charity does not militate against charity." Now the secret of confession would militate against charity in certain cases: for instance, if a man knew through confession that a certain man was a heretic, whom he cannot persuade to desist from misleading the people; or, in like manner, if a man knew, through confession, that certain people who wish to marry are related to one another. Therefore such ought to reveal what they know through confession.
 
@@ -18,13 +18,13 @@ Objection 3: Further, a man is bound to safeguard his conscience rather than the
 
 Objection 4: Further, it is possible for a priest through hearing a man's confession to be conscious that the latter is unworthy of ecclesiastical preferment. Now everyone is bound to prevent the promotion of the unworthy, if it is his business. Since then by raising an objection he seems to raise a suspicion of sin, and so to reveal the confession somewhat, it seems that it is necessary sometimes to divulge a confession.
 
-## Answer
+### Answer
 
 On the contrary, The Decretal says (De Poenit. et Remiss., Cap. Omnis utriusque): "Let the priest beware lest he betray the sinner, by word, or sign, or in any other way whatever."
 
 I answer that, Those things which are done outwardly in the sacraments are the signs of what takes place inwardly: wherefore confession, whereby a man subjects himself to a priest, is a sign of the inward submission, whereby one submits to God. Now God hides the sins of those who submit to Him by Penance; wherefore this also should be signified in the sacrament of Penance, and consequently the sacrament demands that the confession should remain hidden, and he who divulges a confession sins by violating the sacrament. Besides this there are other advantages in this secrecy, because thereby men are more attracted to confession, and confess their sins with greater simplicity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some say that the priest is not bound by the seal of confession to hide other sins than those in respect of which the penitent promises amendment; otherwise he may reveal them to one who can be a help and not a hindrance. But this opinion seems erroneous, since it is contrary to the truth of the sacrament; for just as, though the person baptized be insincere, yet his Baptism is a sacrament, and there is no change in the essentials of the sacrament on that account, so confession does not cease to be sacramental although he that confesses, does not purpose amendment. Therefore, this notwithstanding, it must be held secret; nor does the seal of confession militate against charity on that account, because charity does not require a man to find a remedy for a sin which he knows not: and that which is known in confession, is, as it were, unknown, since a man knows it, not as man, but as God knows it. Nevertheless in the cases quoted one should apply some kind of remedy, so far as this can be done without divulging the confession, e.g. by admonishing the penitent, and by watching over the others lest they be corrupted by heresy. He can also tell the prelate to watch over his flock with great care, yet so as by neither word nor sign to betray the penitent.
 
@@ -33,15 +33,15 @@ Reply to Objection 2: The precept concerning the secret of confession follows fr
 Reply to Objection 3: A man is not called upon to witness except as a man, wherefore without wronging his conscience he can swear that he knows not, what he knows only as God knows it. In like manner a superior can, without wronging his conscience, leave a sin unpunished which he knows only as God knows it, or he may forbear to apply a remedy, since he is not bound to apply a remedy, except according as it comes to his knowledge. Wherefore with regard to matters which come to his knowledge in the tribunal of Penance, he should apply the remedy, as far as he can, in the same court: thus as to the case in point, the abbot should advise the prior to resign his office, and if the latter refuse, he can absolve him from the priorship on some other occasion, yet so as to avoid all suspicion of divulging the confession.
 
 Reply to Objection 4: A man is rendered unworthy of ecclesiastical preferment, by many other causes besides sin, for instance, by lack of knowledge, age, or the like: so that by raising an objection one does not raise a suspicion of crime or divulge the secret of confession.
-# Whether The Seal Of Confession Extends To Other Matters Than Those Which Have Reference To Confession?
+## Whether The Seal Of Confession Extends To Other Matters Than Those Which Have Reference To Confession?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the seal of confession extends to other matters besides those which have reference to confession. For sins alone have reference to confession. Now sometimes besides sins other matters are told which have no reference to confession. Therefore, since such things are told to the priest, as to God, it seems that the seal of confession extends to them also.
 
 Objection 2: Further, sometimes one person tells another a secret, which the latter receives under the seal of confession. Therefore the seal of confession extends to matters having no relation to confession.
 
-## Answer
+### Answer
 
 On the contrary, The seal of confession is connected with sacramental confession. But those things which are connected with a sacrament, do not extend outside the bounds of the sacrament. Therefore the seal of confession does not extend to matters other than those which have reference to sacramental confession.
 
@@ -49,12 +49,12 @@ I answer that, The seal of confession does not extend directly to other matters 
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: A confidence ought not easily to be accepted in this way: but if it be done the secret must be kept in the way promised, as though one had the secret through confession, though not through the seal of confession.
-# Whether The Priest Alone Is Bound By The Seal Of Confession?
+## Whether The Priest Alone Is Bound By The Seal Of Confession?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not only the priest is bound by the seal of confession. For sometimes a priest hears a confession through an interpreter, if there be an urgent reason for so doing. But it seems that the interpreter is bound to keep the confession secret. Therefore one who is not a priest knows something under the seal of confession.
 
@@ -62,16 +62,16 @@ Objection 2: Further, it is possible sometimes in cases of urgency for a layman 
 
 Objection 3: Further, it may happen that a man pretends to be a priest, so that by this deceit he may know what is on another's conscience: and it would seem that he also sins if he divulges the confession. Therefore not only the priest is bound by the seal of confession.
 
-## Answer
+### Answer
 
 On the contrary, A priest alone is the minister of this sacrament. But the seal of confession is connected with this sacrament. Therefore the priest alone is bound by the seal of confession.
 
 I answer that, The seal of confession affects the priest as minister of this sacrament: which seal is nothing else than the obligation of keeping the confession secret, even as the key is the power of absolving. Yet, as one who is not a priest, in a particular case has a kind of share in the act of the keys, when he hears a confession in a case of urgency, so also does he have a certain share in the act of the seal of confession, and is bound to secrecy, though, properly speaking, he is not bound by the seal of confession.
 
 This suffices for the Replies to the Objections.
-# Whether By The Penitent's Permission, A Priest May Reveal To Another A Sin Which He Knows Under The Seal Of Confession?
+## Whether By The Penitent's Permission, A Priest May Reveal To Another A Sin Which He Knows Under The Seal Of Confession?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a priest may not, by the penitent's permission, reveal to another a sin which he knows under the seal of confession. For an inferior may not do what his superior may not. Now the Pope cannot give permission for anyone to divulge a sin which he knows through confession. Neither therefore can the penitent give him such a permission.
 
@@ -81,13 +81,13 @@ Objection 3: Further, if the priest could grant such a permission, this would se
 
 Objection 4: Further, the one to whom this sin is divulged does not know that sin under the seal of confession, so that he may publish a sin which is already blotted out, which is unbecoming. Therefore this permission cannot be granted.
 
-## Answer
+### Answer
 
 On the contrary, If the sinner consent, a superior may refer him by letter to an inferior priest. Therefore with the consent of the penitent, the priest may reveal a sin of his to another.
 
 
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Pope cannot permit a priest to divulge a sin, because he cannot make him to know it as a man, whereas he that has confessed it, can.
 
@@ -96,9 +96,9 @@ Reply to Objection 2: When that is told which was known through another source, 
 Reply to Objection 3: This does not bestow impunity on wicked priests, because they are in danger of having to prove that they had the penitent's permission to reveal the sin, if they should be accused of the contrary.
 
 Reply to Objection 4: He that is informed of a sin through the priest with the penitent's consent, shares in an act of the priest's, so that the same applies to him as to an interpreter, unless perchance the penitent wish him to know it unconditionally and freely.
-# Whether A Man May Reveal That Which He Knows Through Confession And Through Some Other Source Besides?
+## Whether A Man May Reveal That Which He Knows Through Confession And Through Some Other Source Besides?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man may not reveal what he knows through confession and through some other source besides. For the seal of confession is not broken unless one reveals a sin known through confession. If therefore a man divulges a sin which he knows through confession, no matter how he knows it otherwise, he seems to break the seal.
 
@@ -108,13 +108,13 @@ Objection 3: Further, the stronger of two things draws the other to itself. Now 
 
 Objection 4: Further, the secrecy of confession was instituted in order to avoid scandal, and to prevent men being shy of going to confession. But if a man might say what he had heard in confession, though he knew it otherwise, scandal would result all the same. Therefore he can nowise say what he has heard.
 
-## Answer
+### Answer
 
 On the contrary, No one can put another under a new obligation, unless he be his superior, who can bind him by a precept. Now he who knew of a sin by witnessing it was not bound to keep it secret. Therefore he that confesses to him, not being his superior, cannot put him under an obligation of secrecy by confessing to him.
 
 I answer that, There are three opinions about this question. For some say that a man can by no means tell another what he has heard in confession, even if he knew it from some other source either before or after the confession: while others assert that the confession debars him from speaking of what he knew already, but not from saying what he knew afterwards and in another way. Now both these opinions, by exaggerating the seal of confession, are prejudicial to the truth and to the safeguarding of justice. For a man might be more inclined to sin, if he had no fear of being accused by his confessor supposing that he repeated the sin in his presence: and furthermore it would be most prejudicial to justice if a man could not bear witness to a deed which he has seen committed again after being confessed to him. Nor does it matter that, as some say, he ought to declare that he cannot keep it secret, for he cannot make such a declaration until the sin has already been confessed to him, and then every priest could, if he wished, divulge a sin, by making such a declaration, if this made him free to divulge it. Consequently there is a third and truer opinion, viz. that what a man knows through another source either before or after confession, he is not bound to keep secret, in so far as he knows it as a man, for he can say: "I know so end so since I saw it." But he is bound to keep it secret in so far as he knows it as God knows it, for he cannot say: "I heard so and so in confession." Nevertheless, on account of the scandal he should refrain from speaking of it unless there is an urgent reason.
 
-## Replies
+### Replies
 
 Reply to Objection 1: If a man says that he has seen what he has heard in the confessional, he does not reveal what he heard in confession, save indirectly: even as one who knows something through hearing and seeing it, does not, properly speaking, divulge what he saw, if he says he heard it, but only indirectly, because he says he has heard what he incidentally saw. Wherefore he does not break the seal of confession.
 

@@ -5,9 +5,9 @@ We must now consider the goodness and malice of pleasures: under which head ther
 (2) If not, whether every pleasure is good?
 (3) Whether any pleasure is the greatest good?
 (4) Whether pleasure is the measure or rule by which to judge of moral good and evil?
-# Whether Every Pleasure Is Evil?
+## Whether Every Pleasure Is Evil?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that every pleasure is evil. For that which destroys prudence and hinders the use of reason, seems to be evil in itself: since man's good is to be "in accord with reason," as Dionysius says (Div. Nom. iv). But pleasure destroys prudence and hinders the use of reason; and so much the more, as the pleasure is greater: wherefore "in sexual pleasures," which are the greatest of all, "it is impossible to understand anything," as stated in Ethic. vii, 11. Moreover, Jerome says in his commentary on Matthew [*Origen, Hom. vi in Num.] that "at the time of conjugal intercourse, the presence of the Holy Ghost is not vouchsafed, even if it be a prophet that fulfils the conjugal duty." Therefore pleasure is evil in itself; and consequently every pleasure is evil.
 
@@ -15,7 +15,7 @@ Objection 2: Further, that which the virtuous man shuns, and the man lacking in 
 
 Objection 3: Further, "virtue and art are concerned about the difficult and the good" (Ethic. ii, 3). But no art is ordained to pleasure. Therefore pleasure is not something good.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 36:4): "Delight in the Lord." Since, therefore, Divine authority leads to no evil, it seems that not every pleasure is evil.
 
@@ -25,16 +25,16 @@ We must therefore say that some pleasures are good, and that some are evil. For 
 
 The second reason can be found by considering the actions, some of which are good, some evil. Now pleasures which are conjoined to actions are more akin to those actions, than desires, which precede them in point of time. Wherefore, since the desires of good actions are good, and of evil actions, evil; much more are the pleasures of good actions good, and those of evil actions evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above (Q[33], A[3]), it is not the pleasures which result from an act of reason, that hinder the reason or destroy prudence, but extraneous pleasures, such as the pleasures of the body. These indeed hinder the use of reason, as stated above (Q[33], A[3]), either by contrariety of the appetite that rests in something repugnant to reason, which makes the pleasure morally bad; or by fettering the reason: thus in conjugal intercourse, though the pleasure be in accord with reason, yet it hinders the use of reason, on account of the accompanying bodily change. But in this case the pleasure is not morally evil; as neither is sleep, whereby the reason is fettered, morally evil, if it be taken according to reason: for reason itself demands that the use of reason be interrupted at times. We must add, however, that although this fettering of the reason through the pleasure of conjugal intercourse has no moral malice, since it is neither a mortal nor a venial sin; yet it proceeds from a kind of moral malice, namely, from the sin of our first parent; because, as stated in the [1290]FP, Q[98], A[2] the case was different in the state of innocence.
 
 Reply to Objection 2: The temperate man does not shun all pleasures, but those that are immoderate, and contrary to reason. The fact that children and dumb animals seek pleasures, does not prove that all pleasures are evil: because they have from God their natural appetite, which is moved to that which is naturally suitable to them.
 
 Reply to Objection 3: Art is not concerned with all kinds of good, but with the making of external things, as we shall state further on ([1291]Q[57], A[3]). But actions and passions, which are within us, are more the concern of prudence and virtue than of art. Nevertheless there is an art of making pleasure, namely, "the art of cookery and the art of making arguments," as stated in Ethic. vii, 12.
-# Whether Every Pleasure Is Good?
+## Whether Every Pleasure Is Good?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that every pleasure is good. Because as stated in the [1292]FP, Q[5], A[6] there are three kinds of good: the virtuous, the useful, and the pleasant. But everything virtuous is good; and in like manner everything useful is good. Therefore also every pleasure is good.
 
@@ -42,22 +42,22 @@ Objection 2: Further, that which is not sought for the sake of something else, i
 
 Objection 3: Further, that which is desired by all, seems to be good of itself: because good is "what all things seek," as stated in Ethic. i, 1. But everyone seeks some kind of pleasure, even children and dumb animals. Therefore pleasure is good in itself: and consequently all pleasure is good.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Prov. 2:14): "Who are glad when they have done evil, and rejoice in most wicked things."
 
 I answer that, While some of the Stoics maintained that all pleasures are evil, the Epicureans held that pleasure is good in itself, and that consequently all pleasures are good. They seem to have thus erred through not discriminating between that which is good simply, and that which is good in respect of a particular individual. That which is good simply, is good in itself. Now that which is not good in itself, may be good in respect of some individual in two ways. In one way, because it is suitable to him by reason of a disposition in which he is now, which disposition, however, is not natural: thus it is sometimes good for a leper to eat things that are poisonous, which are not suitable simply to the human temperament. In another way, through something unsuitable being esteemed suitable. And since pleasure is the repose of the appetite in some good, if the appetite reposes in that which is good simply, the pleasure will be pleasure simply, and good simply. But if a man's appetite repose in that which is good, not simply, but in respect of that particular man, then his pleasure will not be pleasure simply, but a pleasure to him; neither will it be good simply, but in a certain respect, or an apparent good.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The virtuous and the useful depend on accordance with reason, and consequently nothing is virtuous or useful, without being good. But the pleasant depends on agreement with the appetite, which tends sometimes to that which is discordant from reason. Consequently not every object of pleasure is good in the moral order which depends on the order of reason.
 
 Reply to Objection 2: The reason why pleasure is not sought for the sake of something else is because it is repose in the end. Now the end may be either good or evil; although nothing can be an end except in so far as it is good in respect of such and such a man: and so too with regard to pleasure.
 
 Reply to Objection 3: All things seek pleasure in the same way as they seek good: since pleasure is the repose of the appetite in good. But, just as it happens that not every good which is desired, is of itself and verily good; so not every pleasure is of itself and verily good.
-# Whether Any Pleasure Is The Greatest Good?
+## Whether Any Pleasure Is The Greatest Good?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no pleasure is the greatest good. Because nothing generated is the greatest good: since generation cannot be the last end. But pleasure is a consequence of generation: for the fact that a thing takes pleasure is due to its being established in its own nature, as stated above ([1293]Q[31], A[1]). Therefore no pleasure is the greatest good.
 
@@ -65,7 +65,7 @@ Objection 2: Further, that which is the greatest good cannot be made better by a
 
 Objection 3: Further, that which is the greatest good is universally good, as being good of itself: since that which is such of itself is prior to and greater than that which is such accidentally. But pleasure is not universally good, as stated above [1294](A[2]). Therefore pleasure is not the greatest good.
 
-## Answer
+### Answer
 
 On the contrary, Happiness is the greatest good: since it is the end of man's life. But Happiness is not without pleasure: for it is written (Ps. 15:11): "Thou shalt fill me with joy with Thy countenance; at Thy right hand are delights even to the end."
 
@@ -73,16 +73,16 @@ I answer that, Plato held neither with the Stoics, who asserted that all pleasur
 
 Secondly, because by greatest good he understood that which is the supreme good simply, i.e. the good as existing apart from, and unparticipated by, all else, in which sense God is the Supreme Good; whereas we are speaking of the greatest good in human things. Now the greatest good of everything is its last end. And the end, as stated above ([1296]Q[1], A[8];[1297] Q[2], A[7]) is twofold; namely, the thing itself, and the use of that thing; thus the miser's end is either money or the possession of money. Accordingly, man's last end may be said to be either God Who is the Supreme Good simply; or the enjoyment of God, which implies a certain pleasure in the last end. And in this sense a certain pleasure of man may be said to be the greatest among human goods.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not every pleasure arises from a "becoming"; for some pleasures result from perfect operations, as stated above. Accordingly nothing prevents some pleasure being the greatest good, although every pleasure is not such.
 
 Reply to Objection 2: This argument is true of the greatest good simply, by participation of which all things are good; wherefore no addition can make it better: whereas in regard to other goods, it is universally true that any good becomes better by the addition of another good. Moreover it might be said that pleasure is not something extraneous to the operation of virtue, but that it accompanies it, as stated in Ethic. i, 8.
 
 Reply to Objection 3: That pleasure is the greatest good is due not to the mere fact that it is pleasure, but to the fact that it is perfect repose in the perfect good. Hence it does not follow that every pleasure is supremely good, or even good at all. Thus a certain science is supremely good, but not every science is.
-# Whether Pleasure Is The Measure Or Rule By Which To Judge Of Moral Good Or Evil?
+## Whether Pleasure Is The Measure Or Rule By Which To Judge Of Moral Good Or Evil?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pleasure is not the measure or rule of moral good and evil. Because "that which is first in a genus is the measure of all the rest" (Metaph. x, 1). But pleasure is not the first thing in the moral genus, for it is preceded by love and desire. Therefore it is not the rule of goodness and malice in moral matters.
 
@@ -90,7 +90,7 @@ Objection 2: Further, a measure or rule should be uniform; hence that movement w
 
 Objection 3: Further, judgment of the effect from its cause is more certain than judgment of cause from effect. Now goodness or malice of operation is the cause of goodness or malice of pleasure: because "those pleasures are good which result from good operations, and those are evil which arise from evil operations," as stated in Ethic. x, 5. Therefore pleasures are not the rule and measure of moral goodness and malice.
 
-## Answer
+### Answer
 
 On the contrary, Augustine, commenting on Ps. 7:10 "The searcher of hearts and reins is God," says: "The end of care and thought is the pleasure which each one aims at achieving." And the Philosopher says (Ethic. vii, 11) that "pleasure is the architect," i.e. the principal, "end [*St. Thomas took "finis" as being the nominative, whereas it is the genitive---{tou telous}; and the Greek reads "He" (i.e. the political philosopher), "is the architect of the end."], in regard to which, we say absolutely that this is evil, and that, good."
 
@@ -98,7 +98,7 @@ I answer that, Moral goodness or malice depends chiefly on the will, as stated a
 
 On the other hand, pleasures of the sensitive appetite are not the rule of moral goodness and malice; since food is universally pleasurable to the sensitive appetite both of good and of evil men. But the will of the good man takes pleasure in them in accordance with reason, to which the will of the evil man gives no heed.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Love and desire precede pleasure in the order of generation. But pleasure precedes them in the order of the end, which serves a principle in actions; and it is by the principle, which is the rule and measure of such matters, that we form our judgment.
 

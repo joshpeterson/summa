@@ -4,9 +4,9 @@ We next consider the person of the Son. Three names are attributed to the Son---
 (1) Whether Word is an essential term in God, or a personal term?
 (2) Whether it is the proper name of the Son?
 (3) Whether in the name of Word is expressed relation to creatures?
-# Whether Word In God Is A Personal Name?
+## Whether Word In God Is A Personal Name?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Word in God is not a personal name. For personal names are applied to God in a proper sense, as Father and Son. But Word is applied to God metaphorically, as Origen says on (Jn. 1:1), "In the beginning was the Word." Therefore Word is not a personal name in God.
 
@@ -16,7 +16,7 @@ Objection 3: Further, it is essential to word to be spoken. But, according to An
 
 Objection 4: Further, no divine person is made. But the Word of God is something made. For it is said, "Fire, hail, snow, ice, the storms which do His Word" (Ps. 148:8). Therefore the Word is not a personal name in God.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. vii, 11): "As the Son is related to the Father, so also is the Word to Him Whose Word He is." But the Son is a personal name, since it is said relatively. Therefore so also is Word.
 
@@ -26,7 +26,7 @@ To see how this is true, we must know that our own word taken in its proper sens
 
 Now word is taken strictly in God, as signifying the concept of the intellect. Hence Augustine says (De Trin. xv, 10): "Whoever can understand the word, not only before it is sounded, but also before thought has clothed it with imaginary sound, can already see some likeness of that Word of Whom it is said: In the beginning was the Word." The concept itself of the heart has of its own nature to proceed from something other than itself---namely, from the knowledge of the one conceiving. Hence "Word," according as we use the term strictly of God, signifies something proceeding from another; which belongs to the nature of personal terms in God, inasmuch as the divine persons are distinguished by origin ([289]Q[27], AA[3],4,5). Hence the term "Word," according as we use the term strictly of God, is to be taken as said not essentially, but personally.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Arians, who sprang from Origen, declared that the Son differed in substance from the Father. Hence, they endeavored to maintain that when the Son of God is called the Word, this is not to be understood in a strict sense; lest the idea of the Word proceeding should compel them to confess that the Son of God is of the same substance as the Father. For the interior word proceeds in such a manner from the one who pronounces it, as to remain within him. But supposing Word to be said metaphorically of God, we must still admit Word in its strict sense. For if a thing be called a word metaphorically, this can only be by reason of some manifestation; either it makes something manifest as a word, or it is manifested by a word. If manifested by a word, there must exist a word whereby it is manifested. If it is called a word because it exteriorly manifests, what it exteriorly manifests cannot be called word except in as far as it signifies the interior concept of the mind, which anyone may also manifest by exterior signs. Therefore, although Word may be sometimes said of God metaphorically, nevertheless we must also admit Word in the proper sense, and which is said personally.
 
@@ -35,9 +35,9 @@ Reply to Objection 2: Nothing belonging to the intellect can be applied to God p
 Reply to Objection 3: As, properly speaking, Word in God is said personally, and not essentially, so likewise is to "speak." Hence, as the Word is not common to the Father, Son and Holy Ghost, so it is not true that the Father, Son, and Holy Ghost are one speaker. So Augustine says (De Trin. vii, 1): "He who speaks in that co-eternal Word is understood as not alone in God, but as being with that very Word, without which, forsooth, He would not be speaking." On the other hand, "to be spoken" belongs to each Person, for not only is the word spoken, but also the thing understood or signified by the word. Therefore in this manner to one person alone in God does it belong to be spoken in the same way as a word is spoken; whereas in the way whereby a thing is spoken as being understood in the word, it belongs to each Person to be spoken. For the Father, by understanding Himself, the Son and the Holy Ghost, and all other things comprised in this knowledge, conceives the Word; so that thus the whole Trinity is "spoken" in the Word; and likewise also all creatures: as the intellect of a man by the word he conceives in the act of understanding a stone, speaks a stone. Anselm took the term "speak" improperly for the act of understanding; whereas they really differ from each other; for "to understand" means only the habitude of the intelligent agent to the thing understood, in which habitude no trace of origin is conveyed, but only a certain information of our intellect; forasmuch as our intellect is made actual by the form of the thing understood. In God, however, it means complete identity, because in God the intellect and the thing understood are altogether the same, as was proved above ([290]Q[14], AA[4],5). Whereas to "speak" means chiefly the habitude to the word conceived; for "to speak" is nothing but to utter a word. But by means of the word it imports a habitude to the thing understood which in the word uttered is manifested to the one who understands. Thus, only the Person who utters the Word is "speaker" in God, although each Person understands and is understood, and consequently is spoken by the Word.
 
 Reply to Objection 4: The term "word" is there taken figuratively, as the thing signified or effected by word is called word. For thus creatures are said to do the word of God, as executing any effect, whereto they are ordained from the word conceived of the divine wisdom; as anyone is said to do the word of the king when he does the work to which he is appointed by the king's word.
-# Whether "Word" Is The Son's Proper Name?
+## Whether "Word" Is The Son's Proper Name?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that "Word" is not the proper name of the Son. For the Son is a subsisting person in God. But word does not signify a subsisting thing, as appears in ourselves. Therefore word cannot be the proper name of the person of the Son.
 
@@ -49,13 +49,13 @@ Objection 4: Further, whoever understands conceives a word in the act of underst
 
 Objection 5: Further, it is said of the Son (Heb. 1:3): "Bearing all things by the word of His power;" whence Basil infers (Cont. Eunom. v, 11) that the Holy Ghost is the Son's Word. Therefore to be Word is not proper to the Son.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. vi, 11): "By Word we understand the Son alone."
 
 I answer that, "Word," said of God in its proper sense, is used personally, and is the proper name of the person of the Son. For it signifies an emanation of the intellect: and the person Who proceeds in God, by way of emanation of the intellect, is called the Son; and this procession is called generation, as we have shown above ([291]Q[27], A[2]). Hence it follows that the Son alone is properly called Word in God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: "To be" and "to understand" are not the same in us. Hence that which in us has intellectual being, does not belong to our nature. But in God "to be" and "to understand" are one and the same: hence the Word of God is not an accident in Him, or an effect of His; but belongs to His very nature. And therefore it must needs be something subsistent; for whatever is in the nature of God subsists; and so Damascene says (De Fide Orth. i, 18) that "the Word of God is substantial and has a hypostatic being; but other words [as our own] are activities if the soul."
 
@@ -66,9 +66,9 @@ Reply to Objection 3: In the term "Word" the same property is comprised as in th
 Reply to Objection 4: To be intelligent belongs to the Son, in the same way as it belongs to Him to be God, since to understand is said of God essentially, as stated above ([292]Q[14], AA[2],4). Now the Son is God begotten, and not God begetting; and hence He is intelligent, not as producing a Word, but as the Word proceeding; forasmuch as in God the Word proceeding does not differ really from the divine intellect, but is distinguished from the principle of the Word only by relation.
 
 Reply to Objection 5: When it is said of the Son, "Bearing all things by the word of His power"; "word" is taken figuratively for the effect of the Word. Hence a gloss says that "word" is here taken to mean command; inasmuch as by the effect of the power of the Word, things are kept in being, as also by the effect of the power of the Word things are brought into being. Basil speaks widely and figuratively in applying Word to the Holy Ghost; in the sense perhaps that everything that makes a person known may be called his word, and so in that way the Holy Ghost may be called the Son's Word, because He manifests the Son.
-# Whether The Name "Word" Imports Relation To Creatures?
+## Whether The Name "Word" Imports Relation To Creatures?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the name 'Word' does not import relation to creatures. For every name that connotes some effect in creatures, is said of God essentially. But Word is not said essentially, but personally. Therefore Word does not import relation to creatures.
 
@@ -80,7 +80,7 @@ Objection 4: Further, ideas (in God) are many according to their various relatio
 
 Objection 5: Further, if Word imports relation to the creature, this can only be because creatures are known by God. But God does not know beings only; He knows also non-beings. Therefore in the Word are implied relations to non-beings; which appears to be false.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (QQ. lxxxiii, qu. 63), that "the name Word signifies not only relation to the Father, but also relation to those beings which are made through the Word, by His operative power."
 
@@ -88,7 +88,7 @@ I answer that, Word implies relation to creatures. For God by knowing Himself, k
 
 And as the knowledge of God is only cognitive as regards God, whereas as regards creatures, it is both cognitive and operative, so the Word of God is only expressive of what is in God the Father, but is both expressive and operative of creatures; and therefore it is said (Ps. 32:9): "He spake, and they were made;" because in the Word is implied the operative idea of what God makes.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The nature is also included indirectly in the name of the person; for person is an individual substance of a rational nature. Therefore the name of a divine person, as regards the personal relation, does not imply relation to the creature, but it is implied in what belongs to the nature. Yet there is nothing to prevent its implying relation to creatures, so far as the essence is included in its meaning: for as it properly belongs to the Son to be the Son, so it properly belongs to Him to be God begotten, or the Creator begotten; and in this way the name Word imports relation to creatures.
 

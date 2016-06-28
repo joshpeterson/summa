@@ -5,9 +5,9 @@ We must now consider heresy: under which head there are four points of inquiry:
 (2) Of the matter about which it is;
 (3) Whether heretics should be tolerated?
 (4) Whether converts should be received?
-# Whether Heresy Is A Species Of Unbelief?
+## Whether Heresy Is A Species Of Unbelief?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that heresy is not a species of unbelief. For unbelief is in the understanding, as stated above (Q[10], A[2]). Now heresy would seem not to pertain to the understanding, but rather to the appetitive power; for Jerome says on Gal. 5:19: [*Cf. Decretals xxiv, qu. iii, cap. 27] "The works of the flesh are manifest: Heresy is derived from a Greek word meaning choice, whereby a man makes choice of that school which he deems best." But choice is an act of the appetitive power, as stated above ([2398]FS, Q[13], A[1]). Therefore heresy is not a species of unbelief.
 
@@ -15,7 +15,7 @@ Objection 2: Further, vice takes its species chiefly from its end; hence the Phi
 
 Objection 3: Further, since unbelief is in the understanding, it would seem not to pertain to the flesh. Now heresy belongs to the works of the flesh, for the Apostle says (Gal. 5:19): "The works of the flesh are manifest, which are fornication, uncleanness," and among the others, he adds, "dissensions, sects," which are the same as heresies. Therefore heresy is not a species of unbelief.
 
-## Answer
+### Answer
 
 On the contrary, Falsehood is contrary to truth. Now a heretic is one who devises or follows false or new opinions. Therefore heresy is opposed to the truth, on which faith is founded; and consequently it is a species of unbelief.
 
@@ -27,16 +27,16 @@ Accordingly there are two ways in which a man may deviate from the rectitude of 
 
 Therefore heresy is a species of unbelief, belonging to those who profess the Christian faith, but corrupt its dogmas.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Choice regards unbelief in the same way as the will regards faith, as stated above.
 
 Reply to Objection 2: Vices take their species from their proximate end, while, from their remote end, they take their genus and cause. Thus in the case of adultery committed for the sake of theft, there is the species of adultery taken from its proper end and object; but the ultimate end shows that the act of adultery is both the result of the theft, and is included under it, as an effect under its cause, or a species under its genus, as appears from what we have said about acts in general ([2400]FS, Q[18], A[7]). Wherefore, as to the case in point also, the proximate end of heresy is adherence to one's own false opinion, and from this it derives its species, while its remote end reveals its cause, viz. that it arises from pride or covetousness.
 
 Reply to Objection 3: Just as heresy is so called from its being a choosing [*From the Greek {airein} [hairein], to cut off], so does sect derive its name from its being a cutting off [secando], as Isidore states (Etym. viii, 3). Wherefore heresy and sect are the same thing, and each belongs to the works of the flesh, not indeed by reason of the act itself of unbelief in respect of its proximate object, but by reason of its cause, which is either the desire of an undue end in which way it arises from pride or covetousness, as stated in the second objection, or some illusion of the imagination (which gives rise to error, as the Philosopher states in Metaph. iv; Ed. Did. iii, 5), for this faculty has a certain connection with the flesh, in as much as its act is independent on a bodily organ.
-# Whether Heresy Is Properly About Matters Of Faith?
+## Whether Heresy Is Properly About Matters Of Faith?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that heresy is not properly about matters of faith. For just as there are heresies and sects among Christians, so were there among the Jews, and Pharisees, as Isidore observes (Etym. viii, 3,4,5). Now their dissensions were not about matters of faith. Therefore heresy is not about matters of faith, as though they were its proper matter.
 
@@ -44,7 +44,7 @@ Objection 2: Further, the matter of faith is the thing believed. Now heresy is n
 
 Objection 3: Further, we find the holy doctors differing even about matters pertaining to the faith, for example Augustine and Jerome, on the question about the cessation of the legal observances: and yet this was without any heresy on their part. Therefore heresy is not properly about the matter of faith.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says against the Manichees [*Cf. De Civ. Dei xviii, 51]: "In Christ's Church, those are heretics, who hold mischievous and erroneous opinions, and when rebuked that they may think soundly and rightly, offer a stubborn resistance, and, refusing to mend their pernicious and deadly doctrines, persist in defending them." Now pernicious and deadly doctrines are none but those which are contrary to the dogmas of faith, whereby "the just man liveth" (Rom. 1:17). Therefore heresy is about matters of faith, as about its proper matter.
 
@@ -52,16 +52,16 @@ I answer that, We are speaking of heresy now as denoting a corruption of the Chr
 
 Now a thing may be of the faith in two ways, as stated above ([2402]FP, Q[32], A[4]; [2403]FS, Q[1], A[6], ad 1; [2404]FS, Q[2], A[5]), in one way, directly and principally, e.g. the articles of faith; in another way, indirectly and secondarily, e.g. those matters, the denial of which leads to the corruption of some article of faith; and there may be heresy in either way, even as there can be faith.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as the heresies of the Jews and Pharisees were about opinions relating to Judaism or Pharisaism, so also heresies among Christians are about matter touching the Christian faith.
 
 Reply to Objection 2: A man is said to expound Holy Writ in another sense than that required by the Holy Ghost, when he so distorts the meaning of Holy Writ, that it is contrary to what the Holy Ghost has revealed. Hence it is written (Ezech. 13:6) about the false prophets: "They have persisted to confirm what they have said," viz. by false interpretations of Scripture. Moreover a man professes his faith by the words that he utters, since confession is an act of faith, as stated above ([2405]Q[3], A[1] ). Wherefore inordinate words about matters of faith may lead to corruption of the faith; and hence it is that Pope Leo says in a letter to Proterius, Bishop of Alexandria: "The enemies of Christ's cross lie in wait for our every deed and word, so that, if we but give them the slightest pretext, they may accuse us mendaciously of agreeing with Nestorius."
 
 Reply to Objection 3: As Augustine says (Ep. xliii) and we find it stated in the Decretals (xxiv, qu. 3, can. Dixit Apostolus): "By no means should we accuse of heresy those who, however false and perverse their opinion may be, defend it without obstinate fervor, and seek the truth with careful anxiety, ready to mend their opinion, when they have found the truth," because, to wit, they do not make a choice in contradiction to the doctrine of the Church. Accordingly, certain doctors seem to have differed either in matters the holding of which in this or that way is of no consequence, so far as faith is concerned, or even in matters of faith, which were not as yet defined by the Church; although if anyone were obstinately to deny them after they had been defined by the authority of the universal Church, he would be deemed a heretic. This authority resides chiefly in the Sovereign Pontiff. For we read [*Decret. xxiv, qu. 1, can. Quoties]: "Whenever a question of faith is in dispute, I think, that all our brethren and fellow bishops ought to refer the matter to none other than Peter, as being the source of their name and honor, against whose authority neither Jerome nor Augustine nor any of the holy doctors defended their opinion." Hence Jerome says (Exposit. Symbol [*Among the supposititious works of St. Jerome]): "This, most blessed Pope, is the faith that we have been taught in the Catholic Church. If anything therein has been incorrectly or carelessly expressed, we beg that it may be set aright by you who hold the faith and see of Peter. If however this, our profession, be approved by the judgment of your apostleship, whoever may blame me, will prove that he himself is ignorant, or malicious, or even not a catholic but a heretic."
-# Whether Heretics Ought To Be Tolerated?
+## Whether Heretics Ought To Be Tolerated?
 
-## Objections
+### Objections
 
 Objection 1: It seems that heretics ought to be tolerated. For the Apostle says (2 Tim. 2:24,25): "The servant of the Lord must not wrangle . . . with modesty admonishing them that resist the truth, if peradventure God may give them repentance to know the truth, and they may recover themselves from the snares of the devil." Now if heretics are not tolerated but put to death, they lose the opportunity of repentance. Therefore it seems contrary to the Apostle's command.
 
@@ -69,7 +69,7 @@ Objection 2: Further, whatever is necessary in the Church should be tolerated. N
 
 Objection 3: Further, the Master commanded his servants (Mat. 13:30) to suffer the cockle "to grow until the harvest," i.e. the end of the world, as a gloss explains it. Now holy men explain that the cockle denotes heretics. Therefore heretics should be tolerated.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Titus 3:10,11): "A man that is a heretic, after the first and second admonition, avoid: knowing that he, that is such an one, is subverted."
 
@@ -77,16 +77,16 @@ I answer that, With regard to heretics two points must be observed: one, on thei
 
 On the part of the Church, however, there is mercy which looks to the conversion of the wanderer, wherefore she condemns not at once, but "after the first and second admonition," as the Apostle directs: after that, if he is yet stubborn, the Church no longer hoping for his conversion, looks to the salvation of others, by excommunicating him and separating him from the Church, and furthermore delivers him to the secular tribunal to be exterminated thereby from the world by death. For Jerome commenting on Gal. 5:9, "A little leaven," says: "Cut off the decayed flesh, expel the mangy sheep from the fold, lest the whole house, the whole paste, the whole body, the whole flock, burn, perish, rot, die. Arius was but one spark in Alexandria, but as that spark was not at once put out, the whole earth was laid waste by its flame."
 
-## Replies
+### Replies
 
 Reply to Objection 1: This very modesty demands that the heretic should be admonished a first and second time: and if he be unwilling to retract, he must be reckoned as already "subverted," as we may gather from the words of the Apostle quoted above.
 
 Reply to Objection 2: The profit that ensues from heresy is beside the intention of heretics, for it consists in the constancy of the faithful being put to the test, and "makes us shake off our sluggishness, and search the Scriptures more carefully," as Augustine states (De Gen. cont. Manich. i, 1). What they really intend is the corruption of the faith, which is to inflict very great harm indeed. Consequently we should consider what they directly intend, and expel them, rather than what is beside their intention, and so, tolerate them.
 
 Reply to Objection 3: According to Decret. (xxiv, qu. iii, can. Notandum), "to be excommunicated is not to be uprooted." A man is excommunicated, as the Apostle says (1 Cor. 5:5) that his "spirit may be saved in the day of Our Lord." Yet if heretics be altogether uprooted by death, this is not contrary to Our Lord's command, which is to be understood as referring to the case when the cockle cannot be plucked up without plucking up the wheat, as we explained above ([2406]Q[10], A[8], ad 1), when treating of unbelievers in general.
-# Whether The Church Should Receive Those Who Return From Heresy?
+## Whether The Church Should Receive Those Who Return From Heresy?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Church ought in all cases to receive those who return from heresy. For it is written (Jer. 3:1) in the person of the Lord: "Thou hast prostituted thyself to many lovers; nevertheless return to Me saith the Lord." Now the sentence of the Church is God's sentence, according to Dt. 1:17: "You shall hear the little as well as the great: neither shall you respect any man's person, because it is the judgment of God." Therefore even those who are guilty of the prostitution of unbelief which is spiritual prostitution, should be received all the same.
 
@@ -94,7 +94,7 @@ Objection 2: Further, Our Lord commanded Peter (Mat. 18:22) to forgive his offen
 
 Objection 3: Further, heresy is a kind of unbelief. Now other unbelievers who wish to be converted are received by the Church. Therefore heretics also should be received.
 
-## Answer
+### Answer
 
 On the contrary, The Decretal Ad abolendam (De Haereticis, cap. ix) says that "those who are found to have relapsed into the error which they had already abjured, must be left to the secular tribunal." Therefore they should not be received by the Church.
 
@@ -104,7 +104,7 @@ The other good is that which charity considers secondarily, viz. temporal good, 
 
 For this reason the Church not only admits to Penance those who return from heresy for the first time, but also safeguards their lives, and sometimes by dispensation, restores them to the ecclesiastical dignities which they may have had before, should their conversion appear to be sincere: we read of this as having frequently been done for the good of peace. But when they fall again, after having been received, this seems to prove them to be inconstant in faith, wherefore when they return again, they are admitted to Penance, but are not delivered from the pain of death.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In God's tribunal, those who return are always received, because God is a searcher of hearts, and knows those who return in sincerity. But the Church cannot imitate God in this, for she presumes that those who relapse after being once received, are not sincere in their return; hence she does not debar them from the way of salvation, but neither does she protect them from the sentence of death.
 

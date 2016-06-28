@@ -13,9 +13,9 @@ After considering the things belonging to the divine knowledge, we consider what
 (10) Whether God has free will?
 (11) Whether the will of expression is distinguished in God?
 (12) Whether five expressions of will are rightly assigned to the divine will?
-# Whether There Is Will In God?
+## Whether There Is Will In God?
 
-## Objections
+### Objections
 
 Objection 1: It seems that there is not will in God. For the object of will is the end and the good. But we cannot assign to God any end. Therefore there is not will in God.
 
@@ -23,22 +23,22 @@ Objection 2: Further, will is a kind of appetite. But appetite, as it is directe
 
 Objection 3: Further, according to the Philosopher (De Anima iii, 54), the will moves, and is moved. But God is the first cause of movement, and Himself is unmoved, as proved in Phys. viii, 49. Therefore there is not will in God.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 12:2): "That you may prove what is the will of God."
 
 I answer that, There is will in God, as there is intellect: since will follows upon intellect. For as natural things have actual existence by their form, so the intellect is actually intelligent by its intelligible form. Now everything has this aptitude towards its natural form, that when it has it not, it tends towards it; and when it has it, it is at rest therein. It is the same with every natural perfection, which is a natural good. This aptitude to good in things without knowledge is called natural appetite. Whence also intellectual natures have a like aptitude as apprehended through its intelligible form; so as to rest therein when possessed, and when not possessed to seek to possess it, both of which pertain to the will. Hence in every intellectual being there is will, just as in every sensible being there is animal appetite. And so there must be will in God, since there is intellect in Him. And as His intellect is His own existence, so is His will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although nothing apart from God is His end, yet He Himself is the end with respect to all things made by Him. And this by His essence, for by His essence He is good, as shown above ([127]Q[6], A[3]): for the end has the aspect of good.
 
 Reply to Objection 2: Will in us belongs to the appetitive part, which, although named from appetite, has not for its only act the seeking what it does not possess; but also the loving and the delighting in what it does possess. In this respect will is said to be in God, as having always good which is its object, since, as already said, it is not distinct from His essence.
 
 Reply to Objection 3: A will of which the principal object is a good outside itself, must be moved by another; but the object of the divine will is His goodness, which is His essence. Hence, since the will of God is His essence, it is not moved by another than itself, but by itself alone, in the same sense as understanding and willing are said to be movement. This is what Plato meant when he said that the first mover moves itself.
-# Whether God Wills Things Apart From Himself?
+## Whether God Wills Things Apart From Himself?
 
-## Objections
+### Objections
 
 Objection 1: It seems that God does not will things apart from Himself. For the divine will is the divine existence. But God is not other than Himself. Therefore He does not will things other than Himself.
 
@@ -48,13 +48,13 @@ Objection 3: Further, if what is willed suffices the willer, he seeks nothing be
 
 Objection 4: Further, acts of will are multiplied in proportion to the number of their objects. If, therefore, God wills Himself and things apart from Himself, it follows that the act of His will is manifold, and consequently His existence, which is His will. But this is impossible. Therefore God does not will things apart from Himself.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Thess. 4:3): "This is the will of God, your sanctification."
 
 I answer that, God wills not only Himself, but other things apart from Himself. This is clear from the comparison which we made above [128](A[1]). For natural things have a natural inclination not only towards their own proper good, to acquire it if not possessed, and, if possessed, to rest therein; but also to spread abroad their own good amongst others, so far as possible. Hence we see that every agent, in so far as it is perfect and in act, produces its like. It pertains, therefore, to the nature of the will to communicate as far as possible to others the good possessed; and especially does this pertain to the divine will, from which all perfection is derived in some kind of likeness. Hence, if natural things, in so far as they are perfect, communicate their good to others, much more does it appertain to the divine will to communicate by likeness its own good to others as much as possible. Thus, then, He wills both Himself to be, and other things to be; but Himself as the end, and other things as ordained to that end; inasmuch as it befits the divine goodness that other things should be partakers therein.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The divine will is God's own existence essentially, yet they differ in aspect, according to the different ways of understanding them and expressing them, as is clear from what has already been said ([129]Q[13], A[4]). For when we say that God exists, no relation to any other object is implied, as we do imply when we say that God wills. Therefore, although He is not anything apart from Himself, yet He does will things apart from Himself.
 
@@ -63,9 +63,9 @@ Reply to Objection 2: In things willed for the sake of the end, the whole reason
 Reply to Objection 3: From the fact that His own goodness suffices the divine will, it does not follow that it wills nothing apart from itself, but rather that it wills nothing except by reason of its goodness. Thus, too, the divine intellect, though its perfection consists in its very knowledge of the divine essence, yet in that essence knows other things.
 
 Reply to Objection 4: As the divine intellect is one, as seeing the many only in the one, in the same way the divine will is one and simple, as willing the many only through the one, that is, through its own goodness.
-# Whether Whatever God Wills He Wills Necessarily?
+## Whether Whatever God Wills He Wills Necessarily?
 
-## Objections
+### Objections
 
 Objection 1: It seems that whatever God wills He wills necessarily. For everything eternal is necessary. But whatever God wills, He wills from eternity, for otherwise His will would be mutable. Therefore whatever He wills, He wills necessarily.
 
@@ -79,13 +79,13 @@ Objection 5: Further, on the part of that which is indifferent to one or the oth
 
 Objection 6: Further, whatever God knows, He knows necessarily. But as the divine knowledge is His essence, so is the divine will. Therefore whatever God wills, He wills necessarily.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Eph. 1:11): "Who worketh all things according to the counsel of His will." Now, what we work according to the counsel of the will, we do not will necessarily. Therefore God does not will necessarily whatever He wills.
 
 I answer that, There are two ways in which a thing is said to be necessary, namely, absolutely, and by supposition. We judge a thing to be absolutely necessary from the relation of the terms, as when the predicate forms part of the definition of the subject: thus it is absolutely necessary that man is an animal. It is the same when the subject forms part of the notion of the predicate; thus it is absolutely necessary that a number must be odd or even. In this way it is not necessary that Socrates sits: wherefore it is not necessary absolutely, though it may be so by supposition; for, granted that he is sitting, he must necessarily sit, as long as he is sitting. Accordingly as to things willed by God, we must observe that He wills something of absolute necessity: but this is not true of all that He wills. For the divine will has a necessary relation to the divine goodness, since that is its proper object. Hence God wills His own goodness necessarily, even as we will our own happiness necessarily, and as any other faculty has necessary relation to its proper and principal object, for instance the sight to color, since it tends to it by its own nature. But God wills things apart from Himself in so far as they are ordered to His own goodness as their end. Now in willing an end we do not necessarily will things that conduce to it, unless they are such that the end cannot be attained without them; as, we will to take food to preserve life, or to take ship in order to cross the sea. But we do not necessarily will things without which the end is attainable, such as a horse for a journey which we can take on foot, for we can make the journey without one. The same applies to other means. Hence, since the goodness of God is perfect, and can exist without other things inasmuch as no perfection can accrue to Him from them, it follows that His willing things apart from Himself is not absolutely necessary. Yet it can be necessary by supposition, for supposing that He wills a thing, then He is unable not to will it, as His will cannot change.
 
-## Replies
+### Replies
 
 Reply to Objection 1: From the fact that God wills from eternity whatever He wills, it does not follow that He wills it necessarily; except by supposition.
 
@@ -98,9 +98,9 @@ Reply to Objection 4: Sometimes a necessary cause has a non-necessary relation t
 Reply to Objection 5: A naturally contingent cause must be determined to act by some external power. The divine will, which by its nature is necessary, determines itself to will things to which it has no necessary relation.
 
 Reply to Objection 6: As the divine essence is necessary of itself, so is the divine will and the divine knowledge; but the divine knowledge has a necessary relation to the thing known; not the divine will to the thing willed. The reason for this is that knowledge is of things as they exist in the knower; but the will is directed to things as they exist in themselves. Since then all other things have necessary existence inasmuch as they exist in God; but no absolute necessity so as to be necessary in themselves, in so far as they exist in themselves; it follows that God knows necessarily whatever He wills, but does not will necessarily whatever He wills.
-# Whether The Will Of God Is The Cause Of Things?
+## Whether The Will Of God Is The Cause Of Things?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the will of God is not the cause of things. For Dionysius says (Div. Nom. iv, 1): "As our sun, not by reason nor by pre-election, but by its very being, enlightens all things that can participate in its light, so the divine good by its very essence pours the rays of goodness upon everything that exists." But every voluntary agent acts by reason and pre-election. Therefore God does not act by will; and so His will is not the cause of things.
 
@@ -110,7 +110,7 @@ Objection 3: Further, Whatever is the cause of anything, through being "such" a 
 
 Objection 4: Further, Of one thing there is one cause. But the created things is the knowledge of God, as said before ([131]Q[14], A[8]). Therefore the will of God cannot be considered the cause of things.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Wis. 11:26), "How could anything endure, if Thou wouldst not?"
 
@@ -122,7 +122,7 @@ This is shown, secondly, from the character of a natural agent, of which the pro
 
 Thirdly, it is shown by the relation of effects to their cause. For effects proceed from the agent that causes them, in so far as they pre-exist in the agent; since every agent produces its like. Now effects pre-exist in their cause after the mode of the cause. Wherefore since the Divine Being is His own intellect, effects pre-exist in Him after the mode of intellect, and therefore proceed from Him after the same mode. Consequently, they proceed from Him after the mode of will, for His inclination to put in act what His intellect has conceived appertains to the will. Therefore the will of God is the cause of things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Dionysius in these words does not intend to exclude election from God absolutely; but only in a certain sense, in so far, that is, as He communicates His goodness not merely to certain things, but to all; and as election implies a certain distinction.
 
@@ -131,9 +131,9 @@ Reply to Objection 2: Because the essence of God is His intellect and will, from
 Reply to Objection 3: Good is the object of the will. The words, therefore, "Because God is good, we exist," are true inasmuch as His goodness is the reason of His willing all other things, as said before (A[2], ad 2).
 
 Reply to Objection 4: Even in us the cause of one and the same effect is knowledge as directing it, whereby the form of the work is conceived, and will as commanding it, since the form as it is in the intellect only is not determined to exist or not to exist in the effect, except by the will. Hence, the speculative intellect has nothing to say to operation. But the power is cause, as executing the effect, since it denotes the immediate principle of operation. But in God all these things are one.
-# Whether Any Cause Can Be Assigned To The Divine Will?
+## Whether Any Cause Can Be Assigned To The Divine Will?
 
-## Objections
+### Objections
 
 Objection 1: It seems that some cause can be assigned to the divine will. For Augustine says (Qq. lxxxiii, 46): "Who would venture to say that God made all things irrationally?" But to a voluntary agent, what is the reason of operating, is the cause of willing. Therefore the will of God has some cause.
 
@@ -141,7 +141,7 @@ Objection 2: Further, in things made by one who wills to make them, and whose wi
 
 Objection 3: Further, what is done by the willer, on account of no cause, depends simply on his will. If, therefore, the will of God has no cause, it follows that all things made depend simply on His will, and have no other cause. But this also is not admissible.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Qq. lxxxiii, 28): "Every efficient cause is greater than the thing effected." But nothing is greater than the will of God. We must not then seek for a cause of it.
 
@@ -149,16 +149,16 @@ I answer that, In no wise has the will of God a cause. In proof of which we must
 
 Hence, if anyone in one act wills an end, and in another act the means to that end, his willing the end will be the cause of his willing the means. This cannot be the case if in one act he wills both end and means; for a thing cannot be its own cause. Yet it will be true to say that he wills to order to the end the means to the end. Now as God by one act understands all things in His essence, so by one act He wills all things in His goodness. Hence, as in God to understand the cause is not the cause of His understanding the effect, for He understands the effect in the cause, so, in Him, to will an end is not the cause of His willing the means, yet He wills the ordering of the means to the end. Therefore, He wills this to be as means to that; but does not will this on account of that.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The will of God is reasonable, not because anything is to God a cause of willing, but in so far as He wills one thing to be on account of another.
 
 Reply to Objection 2: Since God wills effects to proceed from definite causes, for the preservation of order in the universe, it is not unreasonable to seek for causes secondary to the divine will. It would, however, be unreasonable to do so, if such were considered as primary, and not as dependent on the will of God. In this sense Augustine says (De Trin. iii, 2): "Philosophers in their vanity have thought fit to attribute contingent effects to other causes, being utterly unable to perceive the cause that is shown above all others, the will of God."
 
 Reply to Objection 3: Since God wills effects to come from causes, all effects that presuppose some other effect do not depend solely on the will of God, but on something else besides: but the first effect depends on the divine will alone. Thus, for example, we may say that God willed man to have hands to serve his intellect by their work, and intellect, that he might be man; and willed him to be man that he might enjoy Him, or for the completion of the universe. But this cannot be reduced to other created secondary ends. Hence such things depend on the simple will of God; but the others on the order of other causes.
-# Whether The Will Of God Is Always Fulfilled?
+## Whether The Will Of God Is Always Fulfilled?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the will of God is not always fulfilled. For the Apostle says (1 Tim. 2:4): "God will have all men to be saved, and to come to the knowledge of the truth." But this does not happen. Therefore the will of God is not always fulfilled.
 
@@ -166,22 +166,22 @@ Objection 2: Further, as is the relation of knowledge to truth, so is that of th
 
 Objection 3: Further, since the will of God is the first cause, it does not exclude intermediate causes. But the effect of a first cause may be hindered by a defect of a secondary cause; as the effect of the motive power may be hindered by the weakness of the limb. Therefore the effect of the divine will may be hindered by a defect of the secondary causes. The will of God, therefore, is not always fulfilled.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Ps. 113:11): "God hath done all things, whatsoever He would."
 
 I answer that, The will of God must needs always be fulfilled. In proof of which we must consider that since an effect is conformed to the agent according to its form, the rule is the same with active causes as with formal causes. The rule in forms is this: that although a thing may fall short of any particular form, it cannot fall short of the universal form. For though a thing may fail to be, for example, a man or a living being, yet it cannot fail to be a being. Hence the same must happen in active causes. Something may fall outside the order of any particular active cause, but not outside the order of the universal cause; under which all particular causes are included: and if any particular cause fails of its effect, this is because of the hindrance of some other particular cause, which is included in the order of the universal cause. Therefore an effect cannot possibly escape the order of the universal cause. Even in corporeal things this is clearly seen. For it may happen that a star is hindered from producing its effects; yet whatever effect does result, in corporeal things, from this hindrance of a corporeal cause, must be referred through intermediate causes to the universal influence of the first heaven. Since, then, the will of God is the universal cause of all things, it is impossible that the divine will should not produce its effect. Hence that which seems to depart from the divine will in one order, returns into it in another order; as does the sinner, who by sin falls away from the divine will as much as lies in him, yet falls back into the order of that will, when by its justice he is punished.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The words of the Apostle, "God will have all men to be saved," etc. can be understood in three ways. First, by a restricted application, in which case they would mean, as Augustine says (De praed. sanct. i, 8: Enchiridion 103), "God wills all men to be saved that are saved, not because there is no man whom He does not wish saved, but because there is no man saved whose salvation He does not will." Secondly, they can be understood as applying to every class of individuals, not to every individual of each class; in which case they mean that God wills some men of every class and condition to be saved, males and females, Jews and Gentiles, great and small, but not all of every condition. Thirdly, according to Damascene (De Fide Orth. ii, 29), they are understood of the antecedent will of God; not of the consequent will. This distinction must not be taken as applying to the divine will itself, in which there is nothing antecedent nor consequent, but to the things willed.
 
 Reply to Objection 2: An act of the cognitive faculty is according as the thing known is in the knower; while an act of the appetite faculty is directed to things as they exist in themselves. But all that can have the nature of being and truth virtually exists in God, though it does not all exist in created things. Therefore God knows all truth; but does not will all good, except in so far as He wills Himself, in Whom all good virtually exists.
 
 Reply to Objection 3: A first cause can be hindered in its effect by deficiency in the secondary cause, when it is not the universal first cause, including within itself all causes; for then the effect could in no way escape its order. And thus it is with the will of God, as said above.
-# Whether The Will Of God Is Changeable?
+## Whether The Will Of God Is Changeable?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the Will of God is changeable. For the Lord says (Gn. 6:7): "It repenteth Me that I have made man." But whoever repents of what he has done, has a changeable will. Therefore God has a changeable will.
 
@@ -191,13 +191,13 @@ Objection 3: Further, whatever God does, He does voluntarily. But God does not a
 
 Objection 4: Further, God does not will of necessity what He wills, as said before [134](A[3]). Therefore He can both will and not will the same thing. But whatever can incline to either of two opposites, is changeable substantially; and that which can exist in a place or not in that place, is changeable locally. Therefore God is changeable as regards His will.
 
-## Answer
+### Answer
 
 On the contrary, It is said: "God is not as a man, that He should lie, nor as the son of man, that He should be changed" (Num. 23:19).
 
 I answer that, The will of God is entirely unchangeable. On this point we must consider that to change the will is one thing; to will that certain things should be changed is another. It is possible to will a thing to be done now, and its contrary afterwards; and yet for the will to remain permanently the same: whereas the will would be changed, if one should begin to will what before he had not willed; or cease to will what he had willed before. This cannot happen, unless we presuppose change either in the knowledge or in the disposition of the substance of the willer. For since the will regards good, a man may in two ways begin to will a thing. In one way when that thing begins to be good for him, and this does not take place without a change in him. Thus when the cold weather begins, it becomes good to sit by the fire; though it was not so before. In another way when he knows for the first time that a thing is good for him, though he did not know it before; hence we take counsel in order to know what is good for us. Now it has already been shown that both the substance of God and His knowledge are entirely unchangeable ([135]Q[9], A[1]; [136]Q[14], A[15]). Therefore His will must be entirely unchangeable.
 
-## Replies
+### Replies
 
 Reply to Objection 1: These words of the Lord are to be understood metaphorically, and according to the likeness of our nature. For when we repent, we destroy what we have made; although we may even do so without change of will; as, when a man wills to make a thing, at the same time intending to destroy it later. Therefore God is said to have repented, by way of comparison with our mode of acting, in so far as by the deluge He destroyed from the face of the earth man whom He had made.
 
@@ -206,9 +206,9 @@ Reply to Objection 2: The will of God, as it is the first and universal cause, d
 Reply to Objection 3: It does not follow from this argument that God has a will that changes, but that He sometimes wills that things should change.
 
 Reply to Objection 4: Although God's willing a thing is not by absolute necessity, yet it is necessary by supposition, on account of the unchangeableness of the divine will, as has been said above [137](A[3]).
-# Whether The Will Of God Imposes Necessity On The Things Willed?
+## Whether The Will Of God Imposes Necessity On The Things Willed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the will of God imposes necessity on the things willed. For Augustine says (Enchiridion 103): "No one is saved, except whom God has willed to be saved. He must therefore be asked to will it; for if He wills it, it must necessarily be."
 
@@ -216,7 +216,7 @@ Objection 2: Further, every cause that cannot be hindered, produces its effect n
 
 Objection 3: Further, whatever is necessary by its antecedent cause is necessary absolutely; it is thus necessary that animals should die, being compounded of contrary elements. Now things created by God are related to the divine will as to an antecedent cause, whereby they have necessity. For the conditional statement is true that if God wills a thing, it comes to pass; and every true conditional statement is necessary. It follows therefore that all that God wills is necessary absolutely.
 
-## Answer
+### Answer
 
 On the contrary, All good things that exist God wills to be. If therefore His will imposes necessity on things willed, it follows that all good happens of necessity; and thus there is an end of free will, counsel, and all other such things.
 
@@ -224,16 +224,16 @@ I answer that, The divine will imposes necessity on some things willed but not o
 
 This does not seem to be a sufficient explanation, for two reasons. First, because the effect of a first cause is contingent on account of the secondary cause, from the fact that the effect of the first cause is hindered by deficiency in the second cause, as the sun's power is hindered by a defect in the plant. But no defect of a secondary cause can hinder God's will from producing its effect. Secondly, because if the distinction between the contingent and the necessary is to be referred only to secondary causes, this must be independent of the divine intention and will; which is inadmissible. It is better therefore to say that this happens on account of the efficacy of the divine will. For when a cause is efficacious to act, the effect follows upon the cause, not only as to the thing done, but also as to its manner of being done or of being. Thus from defect of active power in the seed it may happen that a child is born unlike its father in accidental points, that belong to its manner of being. Since then the divine will is perfectly efficacious, it follows not only that things are done, which God wills to be done, but also that they are done in the way that He wills. Now God wills some things to be done necessarily, some contingently, to the right ordering of things, for the building up of the universe. Therefore to some effects He has attached necessary causes, that cannot fail; but to others defectible and contingent causes, from which arise contingent effects. Hence it is not because the proximate causes are contingent that the effects willed by God happen contingently, but because God prepared contingent causes for them, it being His will that they should happen contingently.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By the words of Augustine we must understand a necessity in things willed by God that is not absolute, but conditional. For the conditional statement that if God wills a thing it must necessarily be, is necessarily true.
 
 Reply to Objection 2: From the very fact that nothing resists the divine will, it follows that not only those things happen that God wills to happen, but that they happen necessarily or contingently according to His will.
 
 Reply to Objection 3: Consequents have necessity from their antecedents according to the mode of the antecedents. Hence things effected by the divine will have that kind of necessity that God wills them to have, either absolute or conditional. Not all things, therefore, are absolute necessities.
-# Whether God Wills Evils?
+## Whether God Wills Evils?
 
-## Objections
+### Objections
 
 Objection 1: It seems that God wills evils. For every good that exists, God wills. But it is a good that evil should exist. For Augustine says (Enchiridion 95): "Although evil in so far as it is evil is not a good, yet it is good that not only good things should exist, but also evil things." Therefore God wills evil things.
 
@@ -241,60 +241,60 @@ Objection 2: Further, Dionysius says (Div. Nom. iv, 23): "Evil would conduce to 
 
 Objection 3: Further, that evil should exist, and should not exist, are contradictory opposites. But God does not will that evil should not exist; otherwise, since various evils do exist, God's will would not always be fulfilled. Therefore God wills that evil should exist.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Qq. 83,3): "No wise man is the cause of another man becoming worse. Now God surpasses all men in wisdom. Much less therefore is God the cause of man becoming worse; and when He is said to be the cause of a thing, He is said to will it." Therefore it is not by God's will that man becomes worse. Now it is clear that every evil makes a thing worse. Therefore God wills not evil things.
 
 I answer that, Since the ratio of good is the ratio of appetibility, as said before ([138]Q[5], A[1]), and since evil is opposed to good, it is impossible that any evil, as such, should be sought for by the appetite, either natural, or animal, or by the intellectual appetite which is the will. Nevertheless evil may be sought accidentally, so far as it accompanies a good, as appears in each of the appetites. For a natural agent intends not privation or corruption, but the form to which is annexed the privation of some other form, and the generation of one thing, which implies the corruption of another. Also when a lion kills a stag, his object is food, to obtain which the killing of the animal is only the means. Similarly the fornicator has merely pleasure for his object, and the deformity of sin is only an accompaniment. Now the evil that accompanies one good, is the privation of another good. Never therefore would evil be sought after, not even accidentally, unless the good that accompanies the evil were more desired than the good of which the evil is the privation. Now God wills no good more than He wills His own goodness; yet He wills one good more than another. Hence He in no way wills the evil of sin, which is the privation of right order towards the divine good. The evil of natural defect, or of punishment, He does will, by willing the good to which such evils are attached. Thus in willing justice He wills punishment; and in willing the preservation of the natural order, He wills some things to be naturally corrupted.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some have said that although God does not will evil, yet He wills that evil should be or be done, because, although evil is not a good, yet it is good that evil should be or be done. This they said because things evil in themselves are ordered to some good end; and this order they thought was expressed in the words "that evil should be or be done." This, however, is not correct; since evil is not of itself ordered to good, but accidentally. For it is beside the intention of the sinner, that any good should follow from his sin; as it was beside the intention of tyrants that the patience of the martyrs should shine forth from all their persecutions. It cannot therefore be said that such an ordering to good is implied in the statement that it is a good thing that evil should be or be done, since nothing is judged of by that which appertains to it accidentally, but by that which belongs to it essentially.
 
 Reply to Objection 2: Evil does not operate towards the perfection and beauty of the universe, except accidentally, as said above (ad 1). Therefore Dionysius in saying that "evil would conduce to the perfection of the universe," draws a conclusion by reduction to an absurdity.
 
 Reply to Objection 3: The statements that evil exists, and that evil exists not, are opposed as contradictories; yet the statements that anyone wills evil to exist and that he wills it not to be, are not so opposed; since either is affirmative. God therefore neither wills evil to be done, nor wills it not to be done, but wills to permit evil to be done; and this is a good.
-# Whether God Has Free-will?
+## Whether God Has Free-will?
 
-## Objections
+### Objections
 
 Objection 1: It seems that God has not free-will. For Jerome says, in a homily on the prodigal son [*Ep. 146, ad Damas.]; "God alone is He who is not liable to sin, nor can be liable: all others, as having free-will, can be inclined to either side."
 
 Objection 2: Further, free-will is the faculty of the reason and will, by which good and evil are chosen. But God does not will evil, as has been said [139](A[9]). Therefore there is not free-will in God.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Fide ii, 3): "The Holy Spirit divideth unto each one as He will, namely, according to the free choice of the will, not in obedience to necessity."
 
 I answer that, We have free-will with respect to what we will not of necessity, nor be natural instinct. For our will to be happy does not appertain to free-will, but to natural instinct. Hence other animals, that are moved to act by natural instinct, are not said to be moved by free-will. Since then God necessarily wills His own goodness, but other things not necessarily, as shown above [140](A[3]), He has free will with respect to what He does not necessarily will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Jerome seems to deny free-will to God not simply, but only as regards the inclination to sin.
 
 Reply to Objection 2: Since the evil of sin consists in turning away from the divine goodness, by which God wills all things, as above shown (De Fide ii, 3), it is manifestly impossible for Him to will the evil of sin; yet He can make choice of one of two opposites, inasmuch as He can will a thing to be, or not to be. In the same way we ourselves, without sin, can will to sit down, and not will to sit down.
-# Whether The Will Of Expression Is To Be Distinguished In God?
+## Whether The Will Of Expression Is To Be Distinguished In God?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the will of expression is not to be distinguished in God. For as the will of God is the cause of things, so is His wisdom. But no expressions are assigned to the divine wisdom. Therefore no expressions ought to be assigned to the divine will.
 
 Objection 2: Further, every expression that is not in agreement with the mind of him who expresses himself, is false. If therefore the expressions assigned to the divine will are not in agreement with that will, they are false. But if they do agree, they are superfluous. No expressions therefore must be assigned to the divine will.
 
-## Answer
+### Answer
 
 On the contrary, The will of God is one, since it is the very essence of God. Yet sometimes it is spoken of as many, as in the words of Ps. 110:2: "Great are the works of the Lord, sought out according to all His wills." Therefore sometimes the sign must be taken for the will.
 
 I answer that, Some things are said of God in their strict sense; others by metaphor, as appears from what has been said before ([141]Q[13], A[3]). When certain human passions are predicated of the Godhead metaphorically, this is done because of a likeness in the effect. Hence a thing that is in us a sign of some passion, is signified metaphorically in God under the name of that passion. Thus with us it is usual for an angry man to punish, so that punishment becomes an expression of anger. Therefore punishment itself is signified by the word anger, when anger is attributed to God. In the same way, what is usually with us an expression of will, is sometimes metaphorically called will in God; just as when anyone lays down a precept, it is a sign that he wishes that precept obeyed. Hence a divine precept is sometimes called by metaphor the will of God, as in the words: "Thy will be done on earth, as it is in heaven" (Mat. 6:10). There is, however, this difference between will and anger, that anger is never attributed to God properly, since in its primary meaning it includes passion; whereas will is attributed to Him properly. Therefore in God there are distinguished will in its proper sense, and will as attributed to Him by metaphor. Will in its proper sense is called the will of good pleasure; and will metaphorically taken is the will of expression, inasmuch as the sign itself of will is called will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Knowledge is not the cause of a thing being done, unless through the will. For we do not put into act what we know, unless we will to do so. Accordingly expression is not attributed to knowledge, but to will.
 
 Reply to Objection 2: Expressions of will are called divine wills, not as being signs that God wills anything; but because what in us is the usual expression of our will, is called the divine will in God. Thus punishment is not a sign that there is anger in God; but it is called anger in Him, from the fact that it is an expression of anger in ourselves.
-# Whether Five Expressions Of Will Are Rightly Assigned To The Divine Will?
+## Whether Five Expressions Of Will Are Rightly Assigned To The Divine Will?
 
-## Objections
+### Objections
 
 Objection 1: It seems that five expressions of will---namely, prohibition, precept, counsel, operation, and permission---are not rightly assigned to the divine will. For the same things that God bids us do by His precept or counsel, these He sometimes operates in us, and the same things that He prohibits, these He sometimes permits. They ought not therefore to be enumerated as distinct.
 
@@ -304,7 +304,7 @@ Objection 3: Further, operation and permission appertain to all creatures in com
 
 Objection 4: Further, evil happens in more ways than good, since "good happens in one way, but evil in all kinds of ways," as declared by the Philosopher (Ethic. ii, 6), and Dionysius (Div. Nom. iv, 22). It is not right therefore to assign one expression only in the case of evil---namely, prohibition---and two---namely, counsel and precept---in the case of good.
 
-## Answer
+### Answer
 
 
 
@@ -312,7 +312,7 @@ I answer that, By these signs we name the expression of will by which we are acc
 
 Or it may be said that permission and operation refer to present time, permission being with respect to evil, operation with regard to good. Whilst as to future time, prohibition is in respect to evil, precept to good that is necessary and counsel to good that is of supererogation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There is nothing to prevent anyone declaring his will about the same matter in different ways; thus we find many words that mean the same thing. Hence there is not reason why the same thing should not be the subject of precept, operation, and counsel; or of prohibition or permission.
 

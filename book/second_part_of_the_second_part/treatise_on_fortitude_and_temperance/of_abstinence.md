@@ -3,9 +3,9 @@
 We must now consider the subjective parts of temperance: first, those which are about pleasures of food; secondly, those which are about pleasures of sex. The first consideration will include abstinence, which is about meat and drink, and sobriety, which is specifically about drink.  With regard to abstinence three points have to be considered: (1) Abstinence itself; (2) its act which is fasting; (3) its opposite vice which is gluttony. Under the first head there are two points of inquiry:
 (1) Whether abstinence is a virtue?
 (2) Whether it is a special virtue?
-# Whether Abstinence Is A Virtue?
+## Whether Abstinence Is A Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It seems that abstinence is not a virtue. For the Apostle says (1 Cor. 4:20): "The kingdom of God is not in speech but in power [virtute]." Now the kingdom of God does not consist in abstinence, for the Apostle says (Rom. 14:17): "The kingdom of God is not meat and drink," where a gloss [*Cf. St. Augustine, QQ. Evang. ii, qu. 11] observes that "justice consists neither in abstaining nor in eating." Therefore abstinence is not a virtue.
 
@@ -15,13 +15,13 @@ Objection 3: Further, every virtue "observes the mean," as stated in Ethic. ii, 
 
 Objection 4: Further, no virtue excludes another virtue. But abstinence excludes patience: for Gregory says (Pastor. iii, 19) that "impatience not unfrequently dislodges the abstainer's mind from its peaceful seclusion." Likewise he says (Pastor. iii, 19) that "sometimes the sin of pride pierces the thoughts of the abstainer," so that abstinence excludes humility. Therefore abstinence is not a virtue.
 
-## Answer
+### Answer
 
 On the contrary, It is written (2 Pet. 1:5,6): "Join with your faith virtue, and with virtue knowledge, and with knowledge abstinence"; where abstinence is numbered among other virtues. Therefore abstinence is a virtue.
 
 I answer that, Abstinence by its very name denotes retrenchment of food. Hence the term abstinence may be taken in two ways. First, as denoting retrenchment of food absolutely, and in this way it signifies neither a virtue nor a virtuous act, but something indifferent. Secondly, it may be taken as regulated by reason, and then it signifies either a virtuous habit or a virtuous act. This is the meaning of Peter's words quoted above, where he says that we ought "to join abstinence with knowledge," namely that in abstaining from food a man should act with due regard for those among whom he lives, for his own person, and for the requirements of health.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The use of and abstinence from food, considered in themselves, do not pertain to the kingdom of God, since the Apostle says (1 Cor. 8:8): "Meat doth not commend us to God. For neither, if we eat not [*Vulg.: 'Neither if we eat . . . nor if we eat not'], shall we have the less, nor if we eat, shall we have the more," i.e. spiritually. Nevertheless they both belong to the kingdom of God, in so far as they are done reasonably through faith and love of God.
 
@@ -30,9 +30,9 @@ Reply to Objection 2: The regulation of food, in the point of quantity and quali
 Reply to Objection 3: It belongs to temperance to bridle the pleasures which are too alluring to the soul, just as it belongs to fortitude to strengthen the soul against fears that deter it from the good of reason. Wherefore, just as fortitude is commended on account of a certain excess, from which all the parts of fortitude take their name, so temperance is commended for a kind of deficiency, from which all its parts are denominated. Hence abstinence, since it is a part of temperance, is named from deficiency, and yet it observes the mean, in so far as it is in accord with right reason.
 
 Reply to Objection 4: Those vices result from abstinence in so far as it is not in accord with right reason. For right reason makes one abstain as one ought, i.e. with gladness of heart, and for the due end, i.e. for God's glory and not one's own.
-# Whether Abstinence Is A Special Virtue?
+## Whether Abstinence Is A Special Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that abstinence is not a special virtue. For every virtue is praiseworthy by itself. But abstinence is not praiseworthy by itself; for Gregory says (Pastor. iii, 19) that "the virtue of abstinence is praised only on account of the other virtues." Therefore abstinence is not a special virtue.
 
@@ -40,13 +40,13 @@ Objection 2: Further, Augustine [*Fulgentius] says (De Fide ad Pet. xlii) that "
 
 Objection 3: Further, as man should be content with moderate meat, so should he be satisfied with moderate clothes, according to 1 Tim. 6:8, "Having food, and wherewith to be covered, with these we should be [Vulg.: 'are'] content." Now there is no special virtue in being content with moderate clothes. Neither, therefore, is there in abstinence which moderates food.
 
-## Answer
+### Answer
 
 On the contrary, Macrobius [*In Somn. Scip. i, 8] reckons abstinence as a special part of temperance.
 
 I answer that, As stated above ([3475]Q[136], A[1];[3476] Q[141], A[3]) moral virtue maintains the good of reason against the onslaught of the passions: hence whenever we find a special motive why a passion departs from the good of reason, there is need of a special virtue. Now pleasures of the table are of a nature to withdraw man from the good of reason, both because they are so great, and because food is necessary to man who needs it for the maintenance of life, which he desires above all other things. Therefore abstinence is a special virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Virtues are of necessity connected together, as stated above ([3477]FS, Q[65], A[1]). Wherefore one virtue receives help and commendation from another, as justice from fortitude. Accordingly in this way the virtue of abstinence receives commendation on account of the other virtues.
 

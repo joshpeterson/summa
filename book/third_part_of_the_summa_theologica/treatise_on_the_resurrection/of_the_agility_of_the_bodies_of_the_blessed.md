@@ -4,9 +4,9 @@ We must now consider the agility of the bodies of the blessed in the resurrectio
 (1) Whether the glorified bodies will be agile?
 (2) Whether they will move?
 (3) Whether they will move instantaneously?
-# Whether The Glorified Bodies Will Be Agile?
+## Whether The Glorified Bodies Will Be Agile?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the glorified bodies will not be agile. For that which is agile by itself needs not to be carried in order to move. But the glorified bodies will, after the resurrection, be taken up by the angels (according to a gloss) in the clouds "to meet Christ, into the air" (1 Thess. 4:16). Therefore the glorified bodies will not be agile.
 
@@ -16,7 +16,7 @@ Objection 3: Further, of all the animal operations sense surpasses movement in n
 
 Objection 4: Further, nature gives different animals instruments of different disposition according to their different powers: hence she does not give instruments of the same disposition to slow as to fleet animals. Now God's works are much more orderly than those of nature. Since then the glorified body's members will have the same disposition, shape and quantity as they now have, it would seem that it will have no agility other than it has now.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 15:43): "It is sown in weakness, it shall rise in power," that is, according to a gloss, "mobile and living." But mobility can only signify agility in movement. Therefore the glorified bodies will be agile.
 
@@ -24,7 +24,7 @@ I answer that, The glorified body will be altogether subject to the glorified so
 
 Some, however, ascribe the cause of this agility to the fifth, i.e. the heavenly essence, which will then be predominant in the glorified bodies. But of this we have frequently observed that it does not seem probable ([5092]Q[82], A[1];[5093] Q[83], A[1]). Wherefore it is better to ascribe it to the soul, whence glory flows to the body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Glorified bodies are said to be borne by the angels and also on the clouds, not as though they needed them, but in order to signify the reverence which both angels and all creatures will show them.
 
@@ -33,9 +33,9 @@ Reply to Objection 2: The more the power of the moving soul dominates over the b
 Reply to Objection 3: By the gift of agility the glorified body will be rendered apt not only for local movement but also for sensation, and for the execution of all the other operations of the soul.
 
 Reply to Objection 4: Even as nature gives to fleeter animals instruments of a different disposition in shape and quantity, so God will give to the bodies of the saints a disposition other than that which they have now, not indeed in shape and quantity, but in that property of glory which is called agility.
-# Whether The Saints Will Never Use Their Agility For The Purpose Of Movement?
+## Whether The Saints Will Never Use Their Agility For The Purpose Of Movement?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the saints will never use their agility for the purpose of movement. For, according to the Philosopher (Phys. iii, 2), "movement is the act of the imperfect." But there will be no imperfection in glorified bodies. Neither therefore will there be any movement.
 
@@ -47,13 +47,13 @@ Objection 4: Further, Augustine says (De Vera Relig. xii) that the soul being es
 
 Objection 5: Further, the more noble a body is, the more noble a place is due to it: wherefore Christ's body which is the most exalted of all has the highest place of all, according to Heb. 7:26, "Made higher than the heavens," where a gloss [*Gloss on Heb. 1:3: "On the right hand of the majesty"] says, "in place and dignity." And again each glorified body will, in like manner, have a place befitting it according to the measure of its dignity. Now a fitting place is one of the conditions pertaining to glory. Since then after the resurrection the glory of the saints will never vary, neither by increase nor by decrease, because they will then have reached the final term of all, it would seem that their bodies will never leave the place assigned to them, and consequently will not be moved.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 40:31): "They shall run and not be weary, they shall walk and not faint"; and (Wis. 3:7): "(The just) shall run to and fro like sparks among the reeds." Therefore there will be some movement in glorified bodies.
 
 I answer that, It is necessary to suppose that the glorified bodies are moved sometimes, since even Christ's body was moved in His ascension, and likewise the bodies of the saints, which will arise from the earth, will ascend to the empyrean [*The empyrean was the highest of the concentric spheres or heavens, and was identified by Christian writers with the abode of God. Cf. [5095]FP, Q[56], A[3]]. But even after they have climbed the heavens, it is likely that they will sometimes move according as it pleases them; so that by actually putting into practice that which is in their power, they may show forth the excellence of Divine wisdom, and that furthermore their vision may be refreshed by the beauty of the variety of creatures, in which God's wisdom will shine forth with great evidence: for sense can only perceive that which is present, although glorified bodies can perceive from a greater distance than non-glorified bodies. And yet movement will nowise diminish their happiness which consists in seeing God, for He will be everywhere present to them; thus Gregory says of the angels (Hom. xxxiv in Evang.) that "wherever they are sent their course lies in God."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Local movement changes nothing that is intrinsic to a thing, but only that which is without namely place. Hence that which is moved locally is perfect as to those things which are within (Phys. viii, 7), although it has an imperfection as to place, because while it is in one place it is in potentiality with regard to another place, since it cannot be in several places at the same time, for this belongs to God alone. But this defect is not inconsistent with the perfection of glory, as neither is the defect whereby a creature is formed from nothing. Hence such like defects will remain in glorified bodies.
 
@@ -64,9 +64,9 @@ Reply to Objection 3: This argument would prove if the glorified body were unabl
 Reply to Objection 4: Local movement takes nothing away from the stability of the soul that is established in God, since it does not affect that which is intrinsic to a thing, as stated above (ad 1).
 
 Reply to Objection 5: The fitting place assigned to each glorified body according to the degree of its dignity belongs to the accidental reward. Nor does it follow that this reward is diminished whenever the body is outside its place; because that place pertains to reward, not as actually containing the body located therein (since nothing flows therefrom into the glorified body, but rather does it receive splendor therefrom), but as being due to merits. Wherefore, though out of that place, they will still continue to rejoice in it.
-# Whether The Movement Of The Saints Will Be Instantaneous?
+## Whether The Movement Of The Saints Will Be Instantaneous?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that movement of the saints will be instantaneous. For Augustine says (De Civ. Dei xxii, 30) that "wherever the spirit listeth there will the body be." Now the movement of the will, whereby the spirit wishes to be anywhere, is instantaneous. Therefore the body's movement will be instantaneous.
 
@@ -78,7 +78,7 @@ Objection 4: Further, whatever is moved equally soon to what is near and what is
 
 Objection 5: Further, whatever is in motion is moved either in time or in an instant. Now after the resurrection the glorified body will not be moved in time, since time will not be then according to Apoc. 10:6. Therefore this movement will be instantaneous.
 
-## Answer
+### Answer
 
 On the contrary, In local movement space. movement and time are equally divisible, as is demonstrated in Phys. vi, 4. Now the space traversed by a glorified body in motion is divisible. Therefore both the movement and the time are divisible. But an instant is indivisible. Therefore this movement will not be instantaneous.
 
@@ -92,7 +92,7 @@ To this, however, they reply that, although it is the same instant really, it is
 
 Hence others with greater probability hold that a glorified body moves in time, but that this time is so short as to be imperceptible; and that nevertheless one glorified body can pass through the same space in less time than another, because there is no limit to the divisibility of time, no matter how short a space we may take.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That which is little lacking is as it were not lacking at all (Phys. ii, 5); wherefore we say: "I do so and so at once," when it is to be done after a short time. It is in this sense that Augustine speaks when he says that "wheresoever the will shall be, there shall the body be forthwith." Or we may say that in the blessed there will never be an inordinate will: so that they never will wish their body to be instantaneously where it cannot be, and consequently whatever instant the will shall choose, at that same instant the body will be in whatever place the will shall determine.
 

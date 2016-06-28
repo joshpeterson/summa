@@ -4,9 +4,9 @@ We must now consider legal relationship which is by adoption. Under this head th
 (1) What is adoption?
 (2) Whether one contracts through it a tie that is an impediment to marriage?
 (3) Between which persons is this tie contracted.
-# Whether Adoption Is Rightly Defined?
+## Whether Adoption Is Rightly Defined?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that adoption is not rightly defined: "Adoption is the act by which a person lawfully takes for his child or grandchild and so on one who does not belong to him." For the child should be subject to its father. Now, sometimes the person adopted does not come under the power of the adopter. Therefore adoption is not always the taking of someone as a child.
 
@@ -22,13 +22,13 @@ Objection 6: Further, there is no difference of degree between adopted and adopt
 
 Objection 7: Further, adoption is a result of love, wherefore God is said to have adopted us as children through charity. Now we should have greater charity towards those who are connected with us than towards strangers. Therefore adoption should be not of a stranger but of someone connected with us.
 
-## Answer
+### Answer
 
 
 
 I answer that, Art imitates nature and supplies the defect of nature where nature is deficient. Hence just as a man begets by natural procreation, so by positive law which is the art of what is good and just, one person can take to himself another as a child in likeness to one that is his child by nature, in order to take the place of the children he has lost, this being the chief reason why adoption was introduced. And since taking implies a term "wherefrom," for which reason the taker is not the thing taken, it follows that the person taken as a child must be a stranger. Accordingly, just as natural procreation has a term "whereto," namely the form which is the end of generation, and a term "wherefrom," namely the contrary form, so legal generation has a term "whereto," namely a child or grandchild, and a term "wherefrom," namely, a stranger. Consequently the above definition includes the genus of adoption, for it is described as a "lawful taking," and the term "wherefrom," since it is said to be the taking of "a stranger," and the term "whereto," because it says, "as a child or grandchild ."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The sonship of adoption is an imitation of natural sonship. Wherefore there are two species of adoption, one which imitates natural sonship perfectly, and this is called "arrogatio," whereby the person adopted is placed under the power of the adopter; and one who is thus adopted inherits from his adopted father if the latter die intestate, nor can his father legally deprive him of a fourth part of his inheritance. But no one can adopt in this way except one who is his own master, one namely who has no father or, if he has, is of age. There can be no adoption of this kind without the authority of the sovereign. The other kind of adoption imitates natural sonship imperfectly, and is called "simple adoption," and by this the adopted does not come under the power of the adopter: so that it is a disposition to perfect adoption, rather than perfect adoption itself. In this way even one who is not his own master can adopt, without the consent of the sovereign and with the authority of a magistrate: and one who is thus adopted does not inherit the estate of the adopter, nor is the latter bound to bequeath to him any of his goods in his will, unless he will.
 
@@ -41,9 +41,9 @@ Reply to Objection 5: Spiritual relationship is contracted through a sacrament w
 Reply to Objection 6: One may lose one's grandchildren and so forth even as one may lose one's children. Wherefore since adoption was introduced as a solace for children lost, just as someone may be adopted in place of a child, so may someone be adopted in place of a grandchild and so on.
 
 Reply to Objection 7: A relative ought to succeed by right of relationship; and therefore such a person is not competent to be chosen to succeed by adoption. And if a relative, who is not competent to inherit the estate, be adopted, he is adopted not as a relative, but as a stranger lacking the right of succeeding to the adopter's goods.
-# Whether A Tie That Is An Impediment To Marriage Is Contracted Through Adoption?
+## Whether A Tie That Is An Impediment To Marriage Is Contracted Through Adoption?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is not contracted through adoption a tie that is an impediment to marriage. For spiritual care is more excellent than corporeal care. But no tie of relationship is contracted through one's being subjected to another's spiritual care: else all those who dwell in the parish would be related to the parish priest and would be unable to marry his son. Neither therefore can this result from adoption which places the adopted under the care of the adopter.
 
@@ -53,18 +53,18 @@ Objection 3: Further, a natural father provides for his child chiefly in three t
 
 Objection 4: Further, the sacraments of the Church are not subject to human laws. Now marriage is a sacrament of the Church. Since then adoption was introduced by human law, it would seem that a tie contracted from adoption cannot be an impediment to marriage.
 
-## Answer
+### Answer
 
 On the contrary, Relationship is an impediment to marriage. Now a kind of relationship results from adoption, namely legal relationship, as evidenced by its definition, for "legal relationship is a connection arising out of adoption." Therefore adoption results in a tie which is an impediment to marriage.
 
 I answer that, The Divine law especially forbids marriage between those persons who have to live together lest, as Rabbi Moses observes (Doc. Perp. iii, 49), if it were lawful for them to have carnal intercourse, there should be more room for concupiscence to the repression of which marriage is directed. And since the adopted child dwells in the house of his adopted father like one that is begotten naturally human laws forbid the contracting of marriage between the like, and this prohibition is approved by the Church. Hence it is that legal adoption is an impediment to marriage. This suffices for the Replies to the first three Objections, because none of those things entails such a cohabitation as might be an incentive to concupiscence. Therefore they do not cause a relationship that is an impediment to marriage.
 
-## Replies
+### Replies
 
 Reply to Objection 4: The prohibition of a human law would not suffice to make an impediment to marriage, unless the authority of the Church intervenes by issuing the same prohibition.
-# Whether Legal Relationship Is Contracted Only Between The Adopting Father And The Adopted Child?
+## Whether Legal Relationship Is Contracted Only Between The Adopting Father And The Adopted Child?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a relationship of this kind is contracted only between the adopting father and the adopted child. For it would seem that it ought above all to be contracted between the adopting father and the natural mother of the adopted, as happens in spiritual relationship. Yet there is no legal relationship between them. Therefore it is not contracted between any other persons besides the adopter and adopted.
 
@@ -74,13 +74,13 @@ Objection 3: Further, spiritual relationship passes to no person incapable of be
 
 Objection 4: Further, spiritual relationship is stronger than legal. But spiritual relationship does not pass to a grandchild. Neither, therefore, does legal relationship.
 
-## Answer
+### Answer
 
 On the contrary, Legal relationship is more in agreement with carnal union or procreation than spiritual relationship is. But spiritual relationship passes to another person. Therefore legal relationship does so also.
 
 I answer that, Legal relationship is of three kinds. The first is in the descending order as it were, and is contracted between the adoptive father and the adopted child, the latter's child grandchild and so on; the second is between the adopted child and the naturally begotten child; the third is like a kind of affinity, and is between the adoptive father and the wife of the adopted son, or contrariwise between the adopted son and the wife of the adoptive father. Accordingly the first and third relationships are perpetual impediments to marriage: but the second is not, but only so long as the adopted person remains under the power of the adoptive father, wherefore when the father dies or when the child comes of age, they can be married.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By spiritual generation the son is not withdrawn from the father's power, as in the case of adoption, so that the godson remains the son of both at the same time, whereas the adopted son does not. Hence no relationship is contracted between the adoptive father and the natural mother or father, as was the case in spiritual relationship.
 

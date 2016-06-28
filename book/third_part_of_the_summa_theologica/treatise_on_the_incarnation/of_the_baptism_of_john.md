@@ -7,9 +7,9 @@ We now proceed to consider the baptism wherewith Christ was baptized. And since 
 (4) Whether others besides Christ should have received that baptism?
 (5) Whether that baptism should have ceased when Christ was baptized?
 (6) Whether those who received John's baptism had afterwards to receive Christ's baptism?
-# Whether It Was Fitting That John Should Baptize?
+## Whether It Was Fitting That John Should Baptize?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was not fitting that John should baptize. For every sacramental rite belongs to some law. But John did not introduce a new law. Therefore it was not fitting that he should introduce the new rite of baptism.
 
@@ -17,7 +17,7 @@ Objection 2: Further, John "was sent by God . . . for a witness" (Jn. 1:6,7) as 
 
 Objection 3: Further, when there is too much of anything, nothing should be added to it. But the Jews observed a superfluity of baptisms; for it is written (Mk. 7:3,4) that "the Pharisees and all the Jews eat not without often washing their hands . . . and when they come from the market, unless they be washed, they eat not; and many other things there are that have been delivered to them to observe, the washings of cups and of pots, and of brazen vessels, and of beds." Therefore it was unfitting that John should baptize.
 
-## Answer
+### Answer
 
 
 
@@ -29,16 +29,16 @@ Thirdly, that by his baptism he might accustom men to the baptism of Christ; whe
 
 Fourthly, that by persuading men to do penance, he might prepare men to receive worthily the baptism of Christ. Wherefore Bede [*Cf. Scot. Erig. in Joan. iii, 24] says that "the baptism of John was as profitable before the baptism of Christ, as instruction in the faith profits the catechumens not yet baptized. For just as he preached penance, and foretold the baptism of Christ, and drew men to the knowledge of the Truth that hath appeared to the world, so do the ministers of the Church, after instructing men, chide them for their sins, and lastly promise them forgiveness in the baptism of Christ."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The baptism of John was not a sacrament properly so called [per se], but a kind of sacramental, preparatory to the baptism of Christ. Consequently, in a way, it belonged to the law of Christ, but not to the law of Moses.
 
 Reply to Objection 2: John was not only a prophet, but "more than a prophet," as stated Mat. 11:9: for he was the term of the Law and the beginning of the Gospel. Therefore it was in his province to lead men, both by word and deed, to the law of Christ rather than to the observance of the Old Law.
 
 Reply to Objection 3: Those baptisms of the Pharisees were vain, being ordered merely unto carnal cleanliness. But the baptism of John was ordered unto spiritual cleanliness, since it led men to do penance, as stated above.
-# Whether The Baptism Of John Was From God?
+## Whether The Baptism Of John Was From God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the baptism of John was not from God. For nothing sacramental that is from God is named after a mere man: thus the baptism of the New Law is not named after Peter or Paul, but after Christ. But that baptism is named after John, according to Mat. 21:25: "The baptism of John . . . was it from heaven or from men?" Therefore the baptism of John was not from God.
 
@@ -46,22 +46,22 @@ Objection 2: Further, every doctrine that proceeds from God anew is confirmed by
 
 Objection 3: Further, those sacraments which are instituted by God are contained in certain precepts of Holy Scripture. But there is no precept of Holy Writ commanding the baptism of John. Therefore it seems that it was not from God.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 1:33): "He who sent me to baptize with water said to me: 'He upon whom thou shalt see the Spirit,'" etc.
 
 I answer that, Two things may be considered in the baptism of John---namely, the rite of baptism and the effect of baptism. The rite of baptism was not from men, but from God, who by an interior revelation of the Holy Ghost sent John to baptize. But the effect of that baptism was from man, because it effected nothing that man could not accomplish. Wherefore it was not from God alone, except in as far as God works in man.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By the baptism of the New Law men are baptized inwardly by the Holy Ghost, and this is accomplished by God alone. But by the baptism of John the body alone was cleansed by the water. Wherefore it is written (Mat. 3:11): "I baptize you in water; but . . . He shall baptize you in the Holy Ghost." For this reason the baptism of John was named after him, because it effected nothing that he did not accomplish. But the baptism of the New Law is not named after the minister thereof, because he does not accomplish its principal effect, which is the inward cleansing.
 
 Reply to Objection 2: The whole teaching and work of John was ordered unto Christ, who, by many miracles confirmed both His own teaching and that of John. But if John had worked signs, men would have paid equal attention to John and to Christ. Wherefore, in order that men might pay greater attention to Christ, it was not given to John to work a sign. Yet when the Jews asked him why he baptized, he confirmed his office by the authority of Scripture, saying: "I am the voice of one crying in the wilderness," etc. as related, Jn. 1:23 (cf. Is. 40:3). Moreover, the very austerity of his life was a commendation of his office, because, as Chrysostom says, commenting on Matthew (Hom. x in Matth.), "it was wonderful to witness such endurance in a human body."
 
 Reply to Objection 3: The baptism of John was intended by God to last only for a short time, for the reasons given above [4196](A[1]). Therefore it was not the subject of a general commandment set down in Sacred Writ, but of a certain interior revelation of the Holy Ghost, as stated above.
-# Whether Grace Was Given In The Baptism Of John?
+## Whether Grace Was Given In The Baptism Of John?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace was given in the baptism of John. For it is written (Mk. 1:4): "John was in the desert baptizing and preaching the baptism of penance unto remission of sins." But penance and remission of sins are the effect of grace. Therefore the baptism of John conferred grace.
 
@@ -69,22 +69,22 @@ Objection 2: Further, those who were about to be baptized by John "confessed the
 
 Objection 3: Further, the baptism of John was more akin than circumcision to the baptism of Christ. But original sin was remitted through circumcision: because, as Bede says (Hom. x in Circumcis.), "under the Law, circumcision brought the same saving aid to heal the wound of original sin as baptism is wont to bring now that grace is revealed." Much more, therefore, did the baptism of John effect the remission of sins, which cannot be accomplished without grace.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 3:11): "I indeed baptize you in water unto penance." Which words Gregory thus expounds in a certain homily (Hom. vii in Evang.): "John baptized, not in the Spirit, but in water: because he could not forgive sins." But grace is given by the Holy Ghost, and by means thereof sins are taken away. Therefore the baptism of John did not confer grace.
 
 I answer that, As stated above (A[2], ad 2), the whole teaching and work of John was in preparation for Christ: just as it is the duty of the servant and of the under-craftsman to prepare the matter for the form which is accomplished by the head-craftsman. Now grace was to be conferred on men through Christ, according to Jn. 1:17: "Grace and truth came through Jesus Christ." Therefore the baptism of John did not confer grace, but only prepared the way for grace; and this in three ways: first, by John's teaching, which led men to faith in Christ; secondly, by accustoming men to the rite of Christ's baptism; thirdly, by penance, preparing men to receive the effect of Christ's baptism.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In these words, as Bede says (on Mk. 1:4), a twofold baptism of penance may be understood. one is that which John conferred by baptizing, which is called "a baptism of penance," etc., by reason of its inducing men to do penance, and of its being a kind of protestation by which men avowed their purpose of doing penance. The other is the baptism of Christ, by which sins are remitted, and which John could not give, but only preach, saying: "He will baptize you in the Holy Ghost."
 
 Reply to Objection 2: That confession of sins was not made unto the remission of sins, to be realized immediately through the baptism of John, but to be obtained through subsequent penance and through the baptism of Christ, for which that penance was a preparation.
 
 Reply to Objection 3: Circumcision was instituted as a remedy for original sin. Whereas the baptism of John was not instituted for this purpose, but was merely in preparation for the baptism of Christ, as stated above; whereas the sacraments attain their effect through the force of their institution.
-# Whether Christ Alone Should Have Been Baptized With The Baptism Of John?
+## Whether Christ Alone Should Have Been Baptized With The Baptism Of John?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ alone should have been baptized with the baptism of John. For, as stated above [4197](A[1]), "the reason why John baptized was that Christ might receive baptism," as Augustine says (Super Joan., Tract. xiii). But what is proper to Christ should not be applicable to others. Therefore no others should have received that baptism.
 
@@ -92,7 +92,7 @@ Objection 2: Further, whoever is baptized either receives something from the bap
 
 Objection 3: Further, if others were baptized with that baptism, this was only in order that they might be prepared for the baptism of Christ: and thus it would seem fitting that the baptism of John should be conferred on all, old and young, Gentile and Jew, just as the baptism of Christ. But we do not read that either children or Gentiles were baptized by the latter; for it is written (Mk. 1:5) that "there went out to him . . . all they of Jerusalem, and were baptized by him." Therefore it seems that Christ alone should have been baptized by John.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lk. 3:21): "It came to pass, when all the people were baptized, that Jesus also being baptized and praying, heaven was opened."
 
@@ -100,16 +100,16 @@ I answer that, For two reasons it behooved others besides Christ to be baptized 
 
 Secondly, because, as above stated, it behooved others to be prepared by John's baptism for the baptism of Christ.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The baptism of John was instituted not only that Christ might be baptized, but also for other reasons, as stated above [4199](A[1]). And yet, even if it were instituted merely in order that Christ might be baptized therewith, it was still necessary for others to receive this baptism, in order to avoid the objection mentioned above.
 
 Reply to Objection 2: Others who approached to be baptized by John could not, indeed, confer anything on his baptism: yet neither did they receive anything therefrom, save only the sign of penance.
 
 Reply to Objection 3: This was the baptism of "penance," for which children were not suited; wherefore they were not baptized therewith. But to bring the nations into the way of salvation was reserved to Christ alone, who is the "expectation of the nations," as we read Gn. 49:10. Indeed, Christ forbade the apostles to preach the Gospel to the Gentiles before His Passion and Resurrection. Much less fitting, therefore, was it for the Gentiles to be baptized by John.
-# Whether John's Baptism Should Have Ceased After Christ Was Baptized?
+## Whether John's Baptism Should Have Ceased After Christ Was Baptized?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that John's baptism should have ceased after Christ was baptized. For it is written (Jn. 1:31): "That He may be made manifest in Israel, therefore am I come baptizing in water." But when Christ had been baptized, He was made sufficiently manifest, both by the testimony of John and by the dove coming down upon Him, and again by the voice of the Father bearing witness to Him. Therefore it seems that John's baptism should not have endured thereafter.
 
@@ -117,22 +117,22 @@ Objection 2: Further, Augustine says (Super Joan., Tract. iv): "Christ was bapti
 
 Objection 3: Further, John's baptism prepared the way for Christ's. But Christ's baptism began as soon as He had been baptized; because "by the touch of His most pure flesh He endowed the waters with a regenerating virtue," as Bede asserts (Mag. Sent. iv, 3). Therefore it seems that John's baptism ceased when Christ had been baptized.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 3:22,23): "Jesus . . . came into the land of Judea . . . and baptized: and John also was baptizing." But Christ did not baptize before being baptized. Therefore it seems that John continued to baptize after Christ had been baptized.
 
 I answer that, It was not fitting for the baptism of John to cease when Christ had been baptized. First, because, as Chrysostom says (Hom. xxix in Joan.), "if John had ceased to baptize" when Christ had been baptized, "men would think that he was moved by jealousy or anger." Secondly, if he had ceased to baptize when Christ baptized, "he would have given His disciples a motive for yet greater envy." Thirdly, because, by continuing to baptize, "he sent his hearers to Christ" (Hom. xxix in Joan.). Fourthly, because, as Bede [*Scot. Erig. Comment. in Joan.] says, "there still remained a shadow of the Old Law: nor should the forerunner withdraw until the truth be made manifest."
 
-## Replies
+### Replies
 
 Reply to Objection 1: When Christ was baptized, He was not as yet fully manifested: consequently there was still need for John to continue baptizing.
 
 Reply to Objection 2: The baptism of John ceased after Christ had been baptized, not immediately, but when the former was cast into prison. Thus Chrysostom says (Hom. xxix in Joan.): "I consider that John's death was allowed to take place, and that Christ's preaching began in a great measure after John had died, so that the undivided allegiance of the multitude was transferred to Christ, and there was no further motive for the divergence of opinions concerning both of them."
 
 Reply to Objection 3: John's baptism prepared the way not only for Christ to be baptized, but also for others to approach to Christ's baptism: and this did not take place as soon as Christ was baptized.
-# Whether Those Who Had Been Baptized With John's Baptism Had To Be Baptized With The Baptism Of Christ?
+## Whether Those Who Had Been Baptized With John's Baptism Had To Be Baptized With The Baptism Of Christ?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that those who had been baptized with John's baptism had not to be baptized with the baptism of Christ. For John was not less than the apostles, since of him is it written (Mat. 11:11): "There hath not risen among them that are born of women a greater than John the Baptist." But those who were baptized by the apostles were not baptized again, but only received the imposition of hands; for it is written (Acts 8:16,17) that some were "only baptized" by Philip "in the name of the Lord Jesus": then the apostles---namely, Peter and John---"laid their hands upon them, and they received the Holy Ghost." Therefore it seems that those who had been baptized by John had not to be baptized with the baptism of Christ.
 
@@ -144,7 +144,7 @@ Objection 4: Further, it is written (Acts 19:1-5) that "Paul . . . found certain
 
 Objection 5: Further, on Rom. 10:8, "This is the word of faith, which we preach," the gloss of Augustine says: "Whence this virtue in the water, that it touches the body and cleanses the heart, save by the efficacy of the word, not because it is uttered, but because it is believed?" Whence it is clear that the virtue of baptism depends on faith. But the form of John's baptism signified the faith in which we are baptized; for Paul says (Acts 19:4): "John baptized the people with the baptism of penance, saying: That they should believe in Him who was to come after him---that is to say, in Jesus." Therefore it seems that those who had been baptized with John's baptism had no need to be baptized again with the baptism of Christ.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Super Joan., Tract. v): "Those who were baptized with John's baptism needed to be baptized with the baptism of our Lord."
 
@@ -152,7 +152,7 @@ I answer that, According to the opinion of the Master (Sent. iv, D, 2), "those w
 
 And this, indeed, is true as to the first part, and is confirmed by many authorities. But as to the second part, the assertion is altogether unreasonable. First, because John's baptism neither conferred grace nor imprinted a character, but was merely "in water," as he says himself (Mat. 3:11). Wherefore the faith or hope which the person baptized had in Christ could not supply this defect. Secondly, because, when in a sacrament, that is omitted which belongs of necessity to the sacrament, not only must the omission be supplied, but the whole must be entirely renewed. Now, it belongs of necessity to Christ's baptism that it be given not only in water, but also in the Holy Ghost, according to Jn. 3:5: "Unless a man be born of water and the Holy Ghost, he cannot enter into the kingdom of God." Wherefore in the case of those who had been baptized with John's baptism in water only, not merely had the omission to be supplied by giving them the Holy Ghost by the imposition of hands, but they had to be baptized wholly anew "in water and the Holy Ghost."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says (Super Joan., Tract. v): "After John, baptism was administered, and the reason why was because he gave not Christ's baptism, but his own . . . That which Peter gave . . . and if any were given by Judas, that was Christ's. And therefore if Judas baptized anyone, yet were they not rebaptized . . . For the baptism corresponds with him by whose authority it is given, not with him by whose ministry it is given." For the same reason those who were baptized by the deacon Philip, who gave the baptism of Christ, were not baptized again, but received the imposition of hands by the apostles, just as those who are baptized by priests are confirmed by bishops.
 

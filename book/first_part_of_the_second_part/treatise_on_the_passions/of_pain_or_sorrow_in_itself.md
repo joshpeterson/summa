@@ -9,9 +9,9 @@ We have now to consider pain and sorrow: concerning which we must consider: (1) 
 (6) Whether sorrow is to be shunned more than pleasure is to be sought?
 (7) Whether exterior pain is greater than interior?
 (8) Of the species of sorrow.
-# Whether Pain Is A Passion Of The Soul?
+## Whether Pain Is A Passion Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pain is not a passion of the soul. Because no passion of the soul is in the body. But pain can be in the body, since Augustine says (De Vera Relig. xii), that "bodily pain is a sudden corruption of the well-being of that thing which the soul, by making evil use of it, made subject to corruption." Therefore pain is not a passion of the soul.
 
@@ -19,7 +19,7 @@ Objection 2: Further, every passion of the soul belongs to the appetitive facult
 
 Objection 3: Further, every passion of the soul belongs to the animal appetite. But pain does not belong to the animal appetite, but rather to the natural appetite; for Augustine says (Gen. ad lit. viii, 14): "Had not some good remained in nature, we should feel no pain in being punished by the loss of good." Therefore pain is not a passion of the soul.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (De Civ. Dei xiv, 8) reckons pain among the passions of the soul; quoting Virgil (Aeneid, vi, 733): "hence wild desires and grovelling fears/And human laughter, human tears." [Translation: Conington.]
 
@@ -29,16 +29,16 @@ Now every appetitive movement or inclination consequent to apprehension, belongs
 
 Again every movement of the sensitive appetite is called a passion, as stated above ([1301]Q[22], AA[1],3): and especially those which tend to some defect. Consequently pain, according as it is in the sensitive appetite, is most properly called a passion of the soul: just as bodily ailments are properly called passions of the body. Hence Augustine (De Civ. Dei xiv, 7,[8] [*Quoting Cicero]) reckons pain especially as being a kind of ailment.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We speak of the body, because the cause of pain is in the body: as when we suffer something hurtful to the body. But the movement of pain is always in the soul; since "the body cannot feel pain unless the soul feel it," as Augustine says (Super Psalm 87:4).
 
 Reply to Objection 2: We speak of pain of the senses, not as though it were an act of the sensitive power; but because the senses are required for bodily pain, in the same way as for bodily pleasure.
 
 Reply to Objection 3: Pain at the loss of good proves the goodness of the nature, not because pain is an act of the natural appetite, but because nature desires something as good, the removal of which being perceived, there results the passion of pain in the sensitive appetite.
-# Whether Sorrow Is The Same As Pain?
+## Whether Sorrow Is The Same As Pain?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sorrow is not pain. For Augustine says (De Civ. Dei xiv, 7) that "pain is used to express bodily suffering." But sorrow is used more in reference to the soul. Therefore sorrow is not pain.
 
@@ -46,22 +46,22 @@ Objection 2: Further, pain is only in respect of present evil. But sorrow can re
 
 Objection 3: Further, pain seems not to follow save from the sense of touch. But sorrow can arise from all the senses. Therefore sorrow is not pain, and extends to more objects.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 9:2): "I have great sorrow [Douay: 'sadness'] and continual pain [Douay: 'sorrow'] in my heart," thus denoting the same thing by sorrow and pain.
 
 I answer that, Pleasure and pain can arise from a twofold apprehension, namely, from the apprehension of an exterior sense; and from the interior apprehension of the intellect or of the imagination. Now the interior apprehension extends to more objects than the exterior apprehension: because whatever things come under the exterior apprehension, come under the interior, but not conversely. Consequently that pleasure alone which is caused by an interior apprehension is called joy, as stated above ([1302]Q[31], A[3]): and in like manner that pain alone which is caused by an interior apprehension, is called sorrow. And just as that pleasure which is caused by an exterior apprehension, is called pleasure but not joy; so too that pain which is caused by an exterior apprehension, is called pain indeed but not sorrow. Accordingly sorrow is a species of pain, as joy is a species of pleasure.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine is speaking there of the use of the word: because "pain" is more generally used in reference to bodily pains, which are better known, than in reference to spiritual pains.
 
 Reply to Objection 2: External sense perceives only what is present; but the interior cognitive power can perceive the present, past and future. Consequently sorrow can regard present, past and future: whereas bodily pain, which follows apprehension of the external sense, can only regard something present.
 
 Reply to Objection 3: The sensibles of touch are painful, not only in so far as they are disproportionate to the apprehensive power, but also in so far as they are contrary to nature: whereas the objects of the other senses can indeed be disproportionate to the apprehensive power, but they are not contrary to nature, save as they are subordinate to the sensibles of touch. Consequently man alone, who is a perfectly cognizant animal, takes pleasure in the objects of the other senses for their own sake; whereas other animals take no pleasure in them save as referable to the sensibles of touch, as stated in Ethic. iii, 10. Accordingly, in referring to the objects of the other senses, we do not speak of pain in so far as it is contrary to natural pleasure: but rather of sorrow, which is contrary to joy. So then if pain be taken as denoting bodily pain, which is its more usual meaning, then it is contrasted with sorrow, according to the distinction of interior and exterior apprehension; although, on the part of the objects, pleasure extends further than does bodily pain. But if pain be taken in a wide sense, then it is the genus of sorrow, as stated above.
-# Whether Sorrow Or Pain Is Contrary To Pleasure?
+## Whether Sorrow Or Pain Is Contrary To Pleasure?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sorrow is not contrary to pleasure. For one of two contraries is not the cause of the other. But sorrow can be the cause of pleasure; for it is written (Mat. 5:5): "Blessed are they that mourn, for they shall be comforted." Therefore they are not contrary to one another.
 
@@ -69,22 +69,22 @@ Objection 2: Further, one contrary does not denominate the other. But to some, p
 
 Objection 3: Further, one contrary is not the matter of the other; because contraries cannot co-exist together. But sorrow can be the matter of pleasure; for Augustine says (De Poenit. xiii): "The penitent should ever sorrow, and rejoice in his sorrow." The Philosopher too says (Ethic. ix, 4) that, on the other hand, "the evil man feels pain at having been pleased." Therefore pleasure and pain are not contrary to one another.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xiv, 6) that "joy is the volition of consent to the things we wish: and that sorrow is the volition of dissent from the things we do not wish." But consent and dissent are contraries. Therefore pleasure and sorrow are contrary to one another.
 
 I answer that, As the Philosopher says (Metaph. x, 4), contrariety is a difference in respect of a form. Now the form or species of a passion or movement is taken from the object or term. Consequently, since the objects of pleasure and sorrow or pain, viz. present good and present evil, are contrary to one another, it follows that pain and pleasure are contrary to one another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Nothing hinders one contrary causing the other accidentally: and thus sorrow can be the cause of pleasure. In one way, in so far as from sorrow at the absence of something, or at the presence of its contrary, one seeks the more eagerly for something pleasant: thus a thirsty man seeks more eagerly the pleasure of a drink, as a remedy for the pain he suffers. In another way, in so far as, from a strong desire for a certain pleasure, one does not shrink from undergoing pain, so as to obtain that pleasure. In each of these ways, the sorrows of the present life lead us to the comfort of the future life. Because by the mere fact that man mourns for his sins, or for the delay of glory, he merits the consolation of eternity. In like manner a man merits it when he shrinks not from hardships and straits in order to obtain it.
 
 Reply to Objection 2: Pain itself can be pleasurable accidentally in so far as it is accompanied by wonder, as in stage-plays; or in so far as it recalls a beloved object to one's memory, and makes one feel one's love for the thing, whose absence gives us pain. Consequently, since love is pleasant, both pain and whatever else results from love, forasmuch as they remind us of our love, are pleasant. And, for this reason, we derive pleasure even from pains depicted on the stage: in so far as, in witnessing them, we perceive ourselves to conceive a certain love for those who are there represented.
 
 Reply to Objection 3: The will and the reason reflect on their own acts, inasmuch as the acts themselves of the will and reason are considered under the aspect of good or evil. In this way sorrow can be the matter of pleasure, or vice versa, not essentially but accidentally: that is, in so far as either of them is considered under the aspect of good or evil.
-# Whether All Sorrow Is Contrary To All Pleasure?
+## Whether All Sorrow Is Contrary To All Pleasure?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all sorrow is contrary to all pleasure. Because, just as whiteness and blackness are contrary species of color, so pleasure and sorrow are contrary species of the soul's passions. But whiteness and blackness are universally contrary to one another. Therefore pleasure and sorrow are so too.
 
@@ -92,7 +92,7 @@ Objection 2: Further, remedies are made of things contrary (to the evil). But ev
 
 Objection 3: Further, contraries are hindrances to one another. But every sorrow hinders any kind of pleasure: as is evident from Ethic. x, 5. Therefore every sorrow is contrary to every pleasure.
 
-## Answer
+### Answer
 
 On the contrary, The same thing is not the cause of contraries. But joy for one thing, and sorrow for the opposite thing, proceed from the same habit: thus from charity it happens that we "rejoice with them that rejoice," and "weep with them that weep" (Rom. 12:15). Therefore not every sorrow is contrary to every pleasure.
 
@@ -102,14 +102,14 @@ Now we must observe that some things are specified by absolute forms, e.g. subst
 
 Now sorrow and pleasure, being passions, are specified by their objects. According to their respective genera, they are contrary to one another: since one is a kind of "pursuit," the other a kind of "avoidance," which "are to the appetite, what affirmation and denial are to the intellect" (Ethic. vi, 2). Consequently sorrow and pleasure in respect of the same object, are specifically contrary to one another: whereas sorrow and pleasure in respect of objects that are not contrary but disparate, are not specifically contrary to one another, but are also disparate; for instance, sorrow at the death of a friend, and pleasure in contemplation. If, however, those diverse objects be contrary to one another, then pleasure and sorrow are not only specifically contrary, but they also have a certain mutual fittingness and affinity: for instance to rejoice in good and to sorrow for evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Whiteness and blackness do not take their species from their relationship to something extrinsic, as pleasure and sorrow do: wherefore the comparison does not hold.
 
 Reply to Objection 2: Genus is taken from matter, as is stated in Metaph. viii, 2; and in accidents the subject takes the place of matter. Now it has been said above that pleasure and sorrow are generically contrary to one another. Consequently in every sorrow the subject has a disposition contrary to the disposition of the subject of pleasure: because in every pleasure the appetite is viewed as accepting what it possesses, and in every sorrow, as avoiding it. And therefore on the part of the subject every pleasure is a remedy for any kind of sorrow, and every sorrow is a hindrance of all manner of pleasure: but chiefly when pleasure is opposed to sorrow specifically.
-# Whether There Is Any Sorrow Contrary To The Pleasure Of Contemplation?
+## Whether There Is Any Sorrow Contrary To The Pleasure Of Contemplation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is a sorrow that is contrary to the pleasure of contemplation. For the Apostle says (2 Cor. 7:10): "The sorrow that is according to God, worketh penance steadfast unto salvation." Now to look at God belongs to the higher reason, whose act is to give itself to contemplation, according to Augustine (De Trin. xii, 3,4). Therefore there is a sorrow contrary to the pleasure of contemplation.
 
@@ -121,7 +121,7 @@ Objection 4: Further, any work, so far as it is unhindered, can be a cause of pl
 
 Objection 5: Further, affliction of the flesh is a cause of sorrow. But, as it is written (Eccles. 12:12) "much study is an affliction of the flesh." Therefore contemplation admits of sorrow contrary to its pleasure.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Wis. 8:16): "Her," i.e. wisdom's, "conversation hath no bitterness nor her company any tediousness; but joy and gladness." Now the conversation and company of wisdom are found in contemplation. Therefore there is no sorrow contrary to the pleasure of contemplation.
 
@@ -133,7 +133,7 @@ Accidentally, however, sorrow is mingled with the pleasure of contemplation; and
 
 Nevertheless, in neither of these ways, is the pain thus accidentally mingled with contemplation, contrary to the pleasure thereof. Because pain caused by a hindrance to contemplation, is not contrary to the pleasure of contemplation, but rather is in affinity and in harmony with it, as is evident from what has been said above [1305](A[4]): while pain or sorrow caused by bodily weariness, does not belong to the same genus, wherefore it is altogether disparate. Accordingly it is evident that no sorrow is contrary to pleasure taken in the very act of contemplation; nor is any sorrow connected with it save accidentally.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The "sorrow which is according to God," is not caused by the very act of intellectual contemplation, but by something which the mind contemplates: viz. by sin, which the mind considers as contrary to the love of God.
 
@@ -144,9 +144,9 @@ Reply to Objection 3: Contemplation, in itself, is never evil, since it is nothi
 Reply to Objection 4: Sorrow caused by a hindrance to contemplation, is not contrary to the pleasure of contemplation, but is in harmony with it, as stated above.
 
 Reply to Objection 5: Affliction of the flesh affects contemplation accidentally and indirectly, as stated above.
-# Whether Sorrow Is To Be Shunned More Than Pleasure Is To Be Sought?
+## Whether Sorrow Is To Be Shunned More Than Pleasure Is To Be Sought?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sorrow is to be shunned more than pleasure is to be sought. For Augustine says (QQ. 83, qu. 63): "There is nobody that does not shun sorrow more than he seeks pleasure." Now that which all agree in doing, seems to be natural. Therefore it is natural and right for sorrow to be shunned more than pleasure is sought.
 
@@ -154,7 +154,7 @@ Objection 2: Further, the action of a contrary conduces to rapidity and intensit
 
 Objection 3: Further, the stronger the passion which a man resists according to reason, the more worthy is he of praise, and the more virtuous: since "virtue is concerned with the difficult and the good" (Ethic. ii, 3). But the brave man who resists the movement of shunning sorrow, is more virtuous than the temperate man, who resists the movement of desire for pleasure: since the Philosopher says (Rhet. ii, 4) that "the brave and the just are chiefly praised." Therefore the movement of shunning sorrow is more eager than the movement of seeking pleasure.
 
-## Answer
+### Answer
 
 On the contrary, Good is stronger than evil, as Dionysius declares (Div. Nom. iv). But pleasure is desirable for the sake of the good which is its object; whereas the shunning of sorrow is on account of evil. Therefore the desire for pleasure is more eager than the shunning of sorrow.
 
@@ -162,16 +162,16 @@ I answer that, The desire for pleasure is of itself more eager than the shunning
 
 But it happens accidentally that a man shuns sorrow more eagerly than he seeks pleasure: and this for three reasons. First, on the part of the apprehension. Because, as Augustine says (De Trin. x, 12), "love is felt more keenly, when we lack that which we love." Now from the lack of what we love, sorrow results, which is caused either by the loss of some loved good, or by the presence of some contrary evil. But pleasure suffers no lack of the good loved, for it rests in possession of it. Since then love is the cause of pleasure and sorrow, the latter is more the shunned, according as love is the more keenly felt on account of that which is contrary to it. Secondly, on the part of the cause of sorrow or pain, which cause is repugnant to a good that is more loved than the good in which we take pleasure. For we love the natural well-being of the body more than the pleasure of eating: and consequently we would leave the pleasure of eating and the like, from fear of the pain occasioned by blows or other such causes, which are contrary to the well-being of the body. Thirdly, on the part of the effect: namely, in so far as sorrow hinders not only one pleasure, but all.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The saying of Augustine that "sorrow is shunned more than pleasure is sought" is true accidentally but not simply. And this is clear from what he says after: "Since we see that the most savage animals are deterred from the greatest pleasures by fear of pain," which pain is contrary to life which is loved above all.
 
 Reply to Objection 2: It is not the same with movement from within and movement from without. For movement from within tends to what is suitable more than it recedes from that which is unsuitable; as we remarked above in regard to natural movement. But movement from without is intensified by the very opposition: because each thing strives in its own way to resist anything contrary to it, as aiming at its own preservation. Hence violent movement is intense at first, and slackens towards the end. Now the movement of the appetitive faculty is from within: since it tends from the soul to the object. Consequently pleasure is, of itself, more to be sought than sorrow is to be shunned. But the movement of the sensitive faculty is from without, as it were from the object of the soul. Consequently the more contrary a thing is the more it is felt. And then too, accidentally, in so far as the senses are requisite for pleasure and pain, pain is shunned more than pleasure is sought.
 
 Reply to Objection 3: A brave man is not praised because, in accordance with reason, he is not overcome by any kind of sorrow or pain whatever, but because he is not overcome by that which is concerned with the dangers of death. And this kind of sorrow is more shunned, than pleasures of the table or of sexual intercourse are sought, which latter pleasures are the object of temperance: thus life is loved more than food and sexual pleasure. But the temperate man is praised for refraining from pleasures of touch, more than for not shunning the pains which are contrary to them, as is stated in Ethic. iii, 11.
-# Whether Outward Pain Is Greater Than Interior Sorrow?
+## Whether Outward Pain Is Greater Than Interior Sorrow?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that outward pain is greater than interior sorrow of the heart. Because outward pain arises from a cause repugnant to the well-being of the body in which is life: whereas interior sorrow is caused by some evil in the imagination. Since, therefore, life is loved more than an imagined good, it seems that, according to what has been said above [1306](A[6]), outward pain is greater than interior sorrow.
 
@@ -179,7 +179,7 @@ Objection 2: Further, the reality moves more than its likeness does. But outward
 
 Objection 3: Further, a cause is known by its effect. But outward pain has more striking effects: since man dies sooner of outward pain than of interior sorrow. Therefore outward pain is greater and is shunned more than interior sorrow.
 
-## Answer
+### Answer
 
 On the contrary, it is written (Ecclus. 25:17): "The sadness of the heart is every wound [Douay: 'plague'], and the wickedness of a woman is all evil." Therefore, just as the wickedness of a woman surpasses all other wickedness, as the text implies; so sadness of the heart surpasses every outward wound.
 
@@ -187,16 +187,16 @@ I answer that, Interior and exterior pain agree in one point and differ in two. 
 
 If then we compare the cause of inward pain to the cause of outward pain, the former belongs, of itself, to the appetite to which both these pains belong: while the latter belongs to the appetite directly. Because inward pain arises from something being repugnant to the appetite itself, while outward pain arises from something being repugnant to the appetite, through being repugnant to the body. Now, that which is of itself is always prior to that which is by reason of another. Wherefore, from this point of view, inward pain surpasses outward pain. In like manner also on the part of apprehension: because the apprehension of reason and imagination is of a higher order than the apprehension of the sense of touch. Consequently inward pain is, simply and of itself, more keen than outward pain: a sign whereof is that one willingly undergoes outward pain in order to avoid inward pain: and in so far as outward pain is not repugnant to the interior appetite, it becomes in a manner pleasant and agreeable by way of inward joy. Sometimes, however, outward pain is accompanied by inward pain, and then the pain is increased. Because inward pain is not only greater than outward pain, it is also more universal: since whatever is repugnant to the body, can be repugnant to the interior appetite; and whatever is apprehended by sense may be apprehended by imagination and reason, but not conversely. Hence in the passage quoted above it is said expressively: "Sadness of the heart is every wound," because even the pains of outward wounds are comprised in the interior sorrows of the heart.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Inward pain can also arise from things that are destructive of life. And then the comparison of inward to outward pain must not be taken in reference to the various evils that cause pain; but in regard to the various ways in which this cause of pain is compared to the appetite.
 
 Reply to Objection 2: Inward pain is not caused by the apprehended likeness of a thing: for a man is not inwardly pained by the apprehended likeness itself, but by the thing which the likeness represents. And this thing is all the more perfectly apprehended by means of its likeness, as this likeness is more immaterial and abstract. Consequently inward pain is, of itself, greater, as being caused by a greater evil, forasmuch as evil is better known by an inward apprehension.
 
 Reply to Objection 3: Bodily changes are more liable to be caused by outward pain, both from the fact that outward pain is caused by a corruptive conjoined corporally, which is a necessary condition of the sense of touch; and from the fact that the outward sense is more material than the inward sense, just as the sensitive appetite is more material than the intellective. For this reason, as stated above ([1308]Q[22], A[3];[1309] Q[31], A[5] ), the body undergoes a greater change from the movement of the sensitive appetite: and, in like manner, from outward than from inward pain.
-# Whether There Are Only Four Species Of Sorrow?
+## Whether There Are Only Four Species Of Sorrow?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Damascene's (De Fide Orth. ii, 14) division of sorrow into four species is incorrect; viz. into "torpor, distress," which Gregory of Nyssa [*Nemesius, De Nat. Hom. xix.] calls "anxiety,"---"pity," and "envy." For sorrow is contrary to pleasure. But there are not several species of pleasure. Therefore it is incorrect to assign different species of sorrow.
 
@@ -204,7 +204,7 @@ Objection 2: Further, "Repentance" is a species of sorrow; and so are "indignati
 
 Objection 3: Further, the members of a division should be things that are opposed to one another. But these species are not opposed to one another. For according to Gregory [*Nemesius, De Nat. Hom. xix.] "torpor is sorrow depriving of speech; anxiety is the sorrow that weighs down; envy is sorrow for another's good; pity is sorrow for another's wrongs." But it is possible for one to sorrow for another's wrongs, and for another's good, and at the same time to be weighed down inwardly, and outwardly to be speechless. Therefore this division is correct.
 
-## Answer
+### Answer
 
 On the contrary, stands the twofold authority of Gregory of Nyssa [*Nemesius] and of Damascene.
 
@@ -212,7 +212,7 @@ I answer that, It belongs to the notion of a species that it is something added 
 
 In accordance with this manner of speaking, the species of sorrow are reckoned by an application of the notion of sorrow to something foreign to it. This foreign matter may be taken on the part of the cause or the object, or of the effect. For the proper object of sorrow is "one's own evil." Hence sorrow may be concerned for an object foreign to it either through one's being sorry for an evil that is not one's own; and thus we have "pity" which is sorrow for another's evil, considered, however, as one's own: or through one's being sorry for something that is neither evil nor one's own, but another's good, considered, however, as one's own evil: and thus we have "envy." The proper effect of sorrow consists in a certain "flight of the appetite." Wherefore the foreign element in the effect of sorrow, may be taken so as to affect the first part only, by excluding flight: and thus we have "anxiety" which weighs on the mind, so as to make escape seem impossible: hence it is also called "perplexity." If, however, the mind be weighed down so much, that even the limbs become motionless, which belongs to "torpor," then we have the foreign element affecting both, since there is neither flight, nor is the effect in the appetite. And the reason why torpor especially is said to deprive one of speech is because of all the external movements the voice is the best expression of the inward thought and desire, not only in men, but also in other animals, as is stated in Polit. i, 1.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Pleasure is caused by good, which has only one meaning: and so pleasure is not divided into several species as sorrow is; for the latter is caused by evil, which "happens in many ways," as Dionysius says (Div. Nom. iv).
 

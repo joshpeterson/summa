@@ -9,9 +9,9 @@ We must now consider the gifts of understand and knowledge, which respond to the
 (6) Of the relationship of the gift of understanding to the other gifts;
 (7) Which of the beatitudes corresponds to this gift?
 (8) Which of the fruits?
-# Whether Understanding Is A Gift Of The Holy Ghost?
+## Whether Understanding Is A Gift Of The Holy Ghost?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that understanding is not a gift of the Holy Ghost. For the gifts of grace are distinct from the gifts of nature, since they are given in addition to the latter. Now understanding is a natural habit of the soul, whereby self-evident principles are known, as stated in Ethic. vi, 6. Therefore it should not be reckoned among the gifts of the Holy Ghost.
 
@@ -19,7 +19,7 @@ Objection 2: Further, the Divine gifts are shared by creatures according to thei
 
 Objection 3: Further, in the powers of the soul the understanding is condivided with the will (De Anima iii, 9,10). Now no gift of the Holy Ghost is called after the will. Therefore no gift of the Holy Ghost should receive the name of understanding.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 11:2): "The Spirit of the Lord shall rest upon him, the Spirit of wisdom of understanding."
 
@@ -29,16 +29,16 @@ Now there are many kinds of things that are hidden within, to find which human k
 
 Since, however, human knowledge begins with the outside of things as it were, it is evident that the stronger the light of the understanding, the further can it penetrate into the heart of things. Now the natural light of our understanding is of finite power; wherefore it can reach to a certain fixed point. Consequently man needs a supernatural light in order to penetrate further still so as to know what it cannot know by its natural light: and this supernatural light which is bestowed on man is called the gift of understanding.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The natural light instilled within us, manifests only certain general principles, which are known naturally. But since man is ordained to supernatural happiness, as stated above (Q[2], A[3]; [2356]FS, Q[3] , A[8]), man needs to reach to certain higher truths, for which he requires the gift of understanding.
 
 Reply to Objection 2: The discourse of reason always begins from an understanding and ends at an understanding; because we reason by proceeding from certain understood principles, and the discourse of reason is perfected when we come to understand what hitherto we ignored. Hence the act of reasoning proceeds from something previously understood. Now a gift of grace does not proceed from the light of nature, but is added thereto as perfecting it. Wherefore this addition is not called "reason" but "understanding," since the additional light is in comparison with what we know supernaturally, what the natural light is in regard to those things which we known from the first.
 
 Reply to Objection 3: "Will" denotes simply a movement of the appetite without indicating any excellence; whereas "understanding" denotes a certain excellence of a knowledge that penetrates into the heart of things. Hence the supernatural gift is called after the understanding rather than after the will.
-# Whether The Gift Of Understanding Is Compatible With Faith?
+## Whether The Gift Of Understanding Is Compatible With Faith?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gift of understanding is incompatible with faith. For Augustine says (QQ. lxxxiii, qu. 15) that "the thing which is understood is bounded by the comprehension of him who understands it." But the thing which is believed is not comprehended, according to the word of the Apostle to the Philippians 3:12: "Not as though I had already comprehended [Douay: 'attained'], or were already perfect." Therefore it seems that faith and understanding are incompatible in the same subject.
 
@@ -46,7 +46,7 @@ Objection 2: Further, whatever is understood is seen by the understanding. But f
 
 Objection 3: Further, understanding is more certain than science. But science and faith are incompatible in the same subject, as stated above ([2359]Q[1], AA[4],5). Much less, therefore, can understanding and faith be in the same subject.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. i, 15) that "understanding enlightens the mind concerning the things it has heard." Now one who has faith can be enlightened in his mind concerning what he has heard; thus it is written (Lk. 24:27, 32) that Our Lord opened the scriptures to His disciples, that they might understand them. Therefore understanding is compatible with faith.
 
@@ -59,9 +59,9 @@ On the part of understanding the distinction to be observed is that there are tw
 In another way we understand a thing imperfectly, when the essence of a thing or the truth of a proposition is not known as to its quiddity or mode of being, and yet we know that whatever be the outward appearances, they do not contradict the truth, in so far as we understand that we ought not to depart from matters of faith, for the sake of things that appear externally. In this way, even during the state of faith, nothing hinders us from understanding even those things which are the direct object of faith.
 
 This suffices for the Replies to the Objections: for the first three argue in reference to perfect understanding, while the last refers to the understanding of matters subordinate to faith.
-# Whether The Gift Of Understanding Is Merely Speculative Or Also Practical?
+## Whether The Gift Of Understanding Is Merely Speculative Or Also Practical?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that understanding, considered as a gift of the Holy Ghost, is not practical, but only speculative. For, according to Gregory (Moral. i, 32), "understanding penetrates certain more exalted things." But the practical intellect is occupied, not with exalted, but with inferior things, viz. singulars, about which actions are concerned. Therefore understanding, considered as a gift, is not practical.
 
@@ -69,22 +69,22 @@ Objection 2: Further, the gift of understanding is something more excellent than
 
 Objection 3: Further, the gift of understanding enlightens the mind in matters which surpass natural reason. Now human activities, with which the practical intellect is concerned, do not surpass natural reason, which is the directing principle in matters of action, as was made clear above ([2360]FS, Q[58], A[2]; [2361]FS, Q[71], A[6]). Therefore the gift of understanding is not practical.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 110:10): "A good understanding to all that do it."
 
 I answer that, As stated above [2362](A[2]), the gift of understanding is not only about those things which come under faith first and principally, but also about all things subordinate to faith. Now good actions have a certain relationship to faith: since "faith worketh through charity," according to the Apostle (Gal. 5:6). Hence the gift of understanding extends also to certain actions, not as though these were its principal object, but in so far as the rule of our actions is the eternal law, to which the higher reason, which is perfected by the gift of understanding, adheres by contemplating and consulting it, as Augustine states (De Trin. xii, 7).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The things with which human actions are concerned are not surpassingly exalted considered in themselves, but, as referred to the rule of the eternal law, and to the end of Divine happiness, they are exalted so that they can be the matter of understanding.
 
 Reply to Objection 2: The excellence of the gift of understanding consists precisely in its considering eternal or necessary matters, not only as they are rules of human actions, because a cognitive virtue is the more excellent, according to the greater extent of its object.
 
 Reply to Objection 3: The rule of human actions is the human reason and the eternal law, as stated above ([2363]FS, Q[71], A[6]). Now the eternal law surpasses human reason: so that the knowledge of human actions, as ruled by the eternal law, surpasses the natural reason, and requires the supernatural light of a gift of the Holy Ghost.
-# Whether The Gift Of Understanding Is In All Who Are In A State Of Grace?
+## Whether The Gift Of Understanding Is In All Who Are In A State Of Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gift of understanding is not in all who are in a state of grace. For Gregory says (Moral. ii, 49) that "the gift of understanding is given as a remedy against dulness of mind." Now many who are in a state of grace suffer from dulness of mind. Therefore the gift of understanding is not in all who are in a state of grace.
 
@@ -92,7 +92,7 @@ Objection 2: Further, of all the things that are connected with knowledge, faith
 
 Objection 3: Further, those things which are common to all who are in a state of grace, are never withdrawn from them. Now the grace of understanding and of the other gifts sometimes withdraws itself profitably, for, at times, "when the mind is puffed up with understanding sublime things, it becomes sluggish and dull in base and vile things," as Gregory observes (Moral. ii, 49). Therefore the gift of understanding is not in all who are in a state of grace.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 81:5): "They have not known or understood, they walk on in darkness." But no one who is in a state of grace walks in darkness, according to Jn. 8:12: "He that followeth Me, walketh not in darkness." Therefore no one who is in a state of grace is without the gift of understanding.
 
@@ -100,16 +100,16 @@ I answer that, In all who are in a state of grace, there must needs be rectitude
 
 Therefore, just as the gift of charity is in all of those who have sanctifying grace, so also is the gift of understanding.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some who have sanctifying grace may suffer dulness of mind with regard to things that are not necessary for salvation; but with regard to those that are necessary for salvation, they are sufficiently instructed by the Holy Ghost, according to 1 Jn. 2:27: "His unction teacheth you of all things."
 
 Reply to Objection 2: Although not all who have faith understand fully the things that are proposed to be believed, yet they understand that they ought to believe them, and that they ought nowise to deviate from them.
 
 Reply to Objection 3: With regard to things necessary for salvation, the gift of understanding never withdraws from holy persons: but, in order that they may have no incentive to pride, it does withdraw sometimes with regard to other things, so that their mind is unable to penetrate all things clearly.
-# Whether The Gift Of Understanding Is Found Also In Those Who Have Not Sanctifying Grace?
+## Whether The Gift Of Understanding Is Found Also In Those Who Have Not Sanctifying Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gift of understanding is found also in those who have not sanctifying grace. For Augustine, in expounding the words of Ps. 118:20: "My soul hath coveted to long for Thy justifications," says: "Understanding flies ahead, and man's will is weak and slow to follow." But in all who have sanctifying grace, the will is prompt on account of charity. Therefore the gift of understanding can be in those who have not sanctifying grace.
 
@@ -117,7 +117,7 @@ Objection 2: Further, it is written (Dan. 10:1) that "there is need of understan
 
 Objection 3: Further, the gift of understanding responds to the virtue of faith, according to Is. 7:9, following another reading [*The Septuagint]: "If you will not believe you shall not understand." Now faith can be without sanctifying grace. Therefore the gift of understanding can be without it.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said (Jn. 6:45): "Every one that hath heard of the Father, and hath learned, cometh to Me." Now it is by the intellect, as Gregory observes (Moral. i, 32), that we learn or understand what we hear. Therefore whoever has the gift of understanding, cometh to Christ, which is impossible without sanctifying grace. Therefore the gift of understanding cannot be without sanctifying grace.
 
@@ -125,16 +125,16 @@ I answer that, As stated above ([2364]FS, Q[68], AA[1],2) the gifts of the Holy 
 
 Now to have a right estimate about the last end one must not be in error about the end, and must adhere to it firmly as to the greatest good: and no one can do this without sanctifying grace; even as in moral matters a man has a right estimate about the end through a habit of virtue. Therefore no one has the gift of understanding without sanctifying grace.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By understanding Augustine means any kind of intellectual light, that, however, does not fulfil all the conditions of a gift, unless the mind of man be so far perfected as to have a right estimate about the end.
 
 Reply to Objection 2: The understanding that is requisite for prophecy, is a kind of enlightenment of the mind with regard to the things revealed to the prophet: but it is not an enlightenment of the mind with regard to a right estimate about the last end, which belongs to the gift of understanding.
 
 Reply to Objection 3: Faith implies merely assent to what is proposed but understanding implies a certain perception of the truth, which perception, except in one who has sanctifying grace, cannot regard the end, as stated above. Hence the comparison fails between understanding and faith.
-# Whether The Gift Of Understanding Is Distinct From The Other Gifts?
+## Whether The Gift Of Understanding Is Distinct From The Other Gifts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gift of understanding is not distinct from the other gifts. For there is no distinction between things whose opposites are not distinct. Now "wisdom is contrary to folly, understanding is contrary to dulness, counsel is contrary to rashness, knowledge is contrary to ignorance," as Gregory states (Moral. ii, 49). But there would seem to be no difference between folly, dulness, ignorance and rashness. Therefore neither does understanding differ from the other gifts.
 
@@ -142,7 +142,7 @@ Objection 2: Further, the intellectual virtue of understanding differs from the 
 
 Objection 3: Further, all intellectual knowledge is either speculative or practical. Now the gift of understanding is related to both, as stated above [2366](A[3]). Therefore it is not distinct from the other intellectual gifts, but comprises them all.
 
-## Answer
+### Answer
 
 On the contrary, When several things are enumerated together they must be, in some way, distinct from one another, because distinction is the origin of number. Now the gift of understanding is enumerated together with the other gifts, as appears from Is. 11:2. Therefore the gift of understanding is distinct from the other gifts.
 
@@ -154,16 +154,16 @@ But if we consider the matter carefully, the gift of understanding is concerned 
 
 Accordingly on the part of the things proposed to faith for belief, two things are requisite on our part: first that they be penetrated or grasped by the intellect, and this belongs to the gift of understanding. Secondly, it is necessary that man should judge these things aright, that he should esteem that he ought to adhere to these things, and to withdraw from their opposites: and this judgment, with regard to Divine things belong to the gift of wisdom, but with regard to created things, belongs to the gift of knowledge, and as to its application to individual actions, belongs to the gift of counsel.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The foregoing difference between those four gifts is clearly in agreement with the distinction of those things which Gregory assigns as their opposites. For dulness is contrary to sharpness, since an intellect is said, by comparison, to be sharp, when it is able to penetrate into the heart of the things that are proposed to it. Hence it is dulness of mind that renders the mind unable to pierce into the heart of a thing. A man is said to be a fool if he judges wrongly about the common end of life, wherefore folly is properly opposed to wisdom, which makes us judge aright about the universal cause. Ignorance implies a defect in the mind, even about any particular things whatever, so that it is contrary to knowledge, which gives man a right judgment about particular causes, viz. about creatures. Rashness is clearly opposed to counsel, whereby man does not proceed to action before deliberating with his reason.
 
 Reply to Objection 2: The gift of understanding is about the first principles of that knowledge which is conferred by grace; but otherwise than faith, because it belongs to faith to assent to them, while it belongs to the gift of understanding to pierce with the mind the things that are said.
 
 Reply to Objection 3: The gift of understanding is related to both kinds of knowledge, viz. speculative and practical, not as to the judgment, but as to apprehension, by grasping what is said.
-# Whether The Sixth Beatitude, "Blessed Are The Clean Of Heart," Etc., Responds To The Gift Of Understanding?
+## Whether The Sixth Beatitude, "Blessed Are The Clean Of Heart," Etc., Responds To The Gift Of Understanding?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sixth beatitude, "Blessed are the clean of heart, for they shall see God," does not respond to the gift of understanding. Because cleanness of heart seems to belong chiefly to the appetite. But the gift of understanding belongs, not to the appetite, but rather to the intellectual power. Therefore the aforesaid beatitude does not respond to the gift of understanding.
 
@@ -171,7 +171,7 @@ Objection 2: Further, it is written (Acts 15:9): "Purifying their hearts by fait
 
 Objection 3: Further, the gifts of the Holy Ghost perfect man in the present state of life. But the sight of God does not belong to the present life, since it is that which gives happiness to the Blessed, as stated above ([2369]FS, Q[3], A[8]). Therefore the sixth beatitude which comprises the sight of God, does not respond to the gift of understanding.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Serm. Dom. in Monte i, 4): "The sixth work of the Holy Ghost which is understanding, is applicable to the clean of heart, whose eye being purified, they can see what eye hath not seen."
 
@@ -182,9 +182,9 @@ For cleanness is twofold. One is a preamble and a disposition to seeing God, and
 Again, the sight of God is twofold. One is perfect, whereby God's Essence is seen: the other is imperfect, whereby, though we see not what God is, yet we see what He is not; and whereby, the more perfectly do we know God in this life, the more we understand that He surpasses all that the mind comprehends. Each of these visions of God belongs to the gift of understanding; the first, to the gift of understanding in its state of perfection, as possessed in heaven; the second, to the gift of understanding in its state of inchoation, as possessed by wayfarers.
 
 This suffices for the Replies to the Objections: for the first two arguments refer to the first kind of cleanness; while the third refers to the perfect vision of God. Moreover the gifts both perfect us in this life by way of inchoation, and will be fulfilled, as stated above ([2371]FS, Q[69], A[2]).
-# Whether Faith, Among The Fruits, Responds To The Gift Of Understanding?
+## Whether Faith, Among The Fruits, Responds To The Gift Of Understanding?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that, among the fruits, faith does not respond to the gift of understanding. For understanding is the fruit of faith, since it is written (Is. 7:9) according to another reading [*The Septuagint]: "If you will not believe you shall not understand," where our version has: "If you will not believe, you shall not continue." Therefore fruit is not the fruit of understanding.
 
@@ -192,7 +192,7 @@ Objection 2: Further, that which precedes is not the fruit of what follows. But 
 
 Objection 3: Further, more gifts pertain to the intellect than to the appetite. Now, among the fruits, only one pertains to the intellect; namely, faith, while all the others pertain to the appetite. Therefore faith, seemingly, does not pertain to understanding more than to wisdom, knowledge or counsel.
 
-## Answer
+### Answer
 
 On the contrary, The end of a thing is its fruit. Now the gift of understanding seems to be ordained chiefly to the certitude of faith, which certitude is reckoned a fruit. For a gloss on Gal. 5:22 says that the "faith which is a fruit, is certitude about the unseen." Therefore faith, among the fruits, responds to the gift of understanding.
 
@@ -200,7 +200,7 @@ I answer that, The fruits of the Spirit, as stated above ([2373]FS, Q[70], A[1])
 
 Accordingly, therefore, to this kind of gift of virtue that perfects a power, we may distinguish a double fruit: one, belonging to the same power; the other, the last of all as it were, belonging to the will. In this way we must conclude that the fruit which properly responds to the gift of understanding is faith, i.e. the certitude of faith; while the fruit that responds to it last of all is joy, which belongs to the will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Understanding is the fruit of faith, taken as a virtue. But we are not taking faith in this sense here, but for a kind of certitude of faith, to which man attains by the gift of understanding.
 

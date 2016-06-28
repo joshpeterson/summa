@@ -5,9 +5,9 @@ We must now consider good and evil in the passions of the soul: and under this h
 (2) Whether every passion of the soul is morally evil?
 (3) Whether every passion increases or decreases the goodness of malice of an act?
 (4) Whether any passion is good or evil specifically?
-# Whether Moral Good And Evil Can Be Found In The Passions Of The Soul?
+## Whether Moral Good And Evil Can Be Found In The Passions Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no passion of the soul is morally good or evil. For moral good and evil are proper to man: since "morals are properly predicated of man," as Ambrose says (Super Luc. Prolog.). But passions are not proper to man, for he has them in common with other animals. Therefore no passion of the soul is morally good or evil.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the good or evil of man consists in "being in accord, or i
 
 Objection 3: Further, the Philosopher says (Ethic. ii, 5) that "we are neither praised nor blamed for our passions." But we are praised and blamed for moral good and evil. Therefore the passions are not morally good or evil.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xiv, 7) while speaking of the passions of the soul: "They are evil if our love is evil; good if our love is good."
 
 I answer that, We may consider the passions of the soul in two ways: first, in themselves; secondly, as being subject to the command of the reason and will. If then the passions be considered in themselves, to wit, as movements of the irrational appetite, thus there is no moral good or evil in them, since this depends on the reason, as stated above ([1220]Q[18] , A[5]). If, however, they be considered as subject to the command of the reason and will, then moral good and evil are in them. Because the sensitive appetite is nearer than the outward members to the reason and will; and yet the movements and actions of the outward members are morally good or evil, inasmuch as they are voluntary. Much more, therefore, may the passions, in so far as they are voluntary, be called morally good or evil. And they are said to be voluntary, either from being commanded by the will, or from not being checked by the will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: These passions, considered in themselves, are common to man and other animals: but, as commanded by the reason, they are proper to man.
 
 Reply to Objection 2: Even the lower appetitive powers are called rational, in so far as "they partake of reason in some sort" (Ethic. i, 13).
 
 Reply to Objection 3: The Philosopher says that we are neither praised nor blamed for our passions considered absolutely; but he does not exclude their becoming worthy of praise or blame, in so far as they are subordinate to reason. Hence he continues: "For the man who fears or is angry, is not praised . . . or blamed, but the man who is angry in a certain way, i.e. according to, or against reason."
-# Whether Every Passion Of The Soul Is Evil Morally?
+## Whether Every Passion Of The Soul Is Evil Morally?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all the passions of the soul are morally evil. For Augustine says (De Civ. Dei ix, 4) that "some call the soul's passions diseases or disturbances of the soul" [*Those things which the Greeks call {pathe}, we prefer to call disturbances rather than diseases (Tusc. iv. 5)]. But every disease or disturbance of the soul is morally evil. Therefore every passion of the soul is evil morally.
 
@@ -38,7 +38,7 @@ Objection 2: Further, Damascene says (De Fide Orth. ii, 22) that "movement in ac
 
 Objection 3: Further, whatever leads to sin, has an aspect of evil. But these passions lead to sin: wherefore they are called "the passions of sins" (Rom. 7:5). Therefore it seems that they are morally evil.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xiv, 9) that "all these emotions are right in those whose love is rightly placed . . . For they fear to sin, they desire to persevere; they grieve for sin, they rejoice in good works."
 
@@ -48,14 +48,14 @@ On the other hand, the Peripatetics give the name of "passions" to all the movem
 
 Hence the reply to the First Objection is evident.
 
-## Replies
+### Replies
 
 Reply to Objection 2: In every passion there is an increase or decrease in the natural movement of the heart, according as the heart is moved more or less intensely by contraction and dilatation; and hence it derives the character of passion. But there is no need for passion to deviate always from the order of natural reason.
 
 Reply to Objection 3: The passions of the soul, in so far as they are contrary to the order of reason, incline us to sin: but in so far as they are controlled by reason, they pertain to virtue.
-# Whether Passion Increases Or Decreases The Goodness Or Malice Of An Act?
+## Whether Passion Increases Or Decreases The Goodness Or Malice Of An Act?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that every passion decreases the goodness of a moral action. For anything that hinders the judgment of reason, on which depends the goodness of a moral act, consequently decreases the goodness of the moral act. But every passion hinders the judgment of reason: for Sallust says (Catilin.): "All those that take counsel about matters of doubt, should be free from hatred, anger, friendship and pity." Therefore passion decreases the goodness of a moral act.
 
@@ -63,7 +63,7 @@ Objection 2: Further, the more a man's action is like to God, the better it is: 
 
 Objection 3: Further, just as moral evil depends on its relation to reason, so also does moral good. But moral evil is lessened by passion: for he sins less, who sins from passion, than he who sins deliberately. Therefore he does a better deed, who does well without passion, than he who does with passion.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei ix, 5) that "the passion of pity is obedient to reason, when pity is bestowed without violating right, as when the poor are relieved, or the penitent forgiven." But nothing that is obedient to reason lessens the moral good. Therefore a passion of the soul does not lessen moral good.
 
@@ -71,16 +71,16 @@ I answer that, As the Stoics held that every passion of the soul is evil, they c
 
 Accordingly just as it is better that man should both will good and do it in his external act; so also does it belong to the perfection of moral good, that man should be moved unto good, not only in respect of his will, but also in respect of his sensitive appetite; according to Ps. 83:3: "My heart and my flesh have rejoiced in the living God": where by "heart" we are to understand the intellectual appetite, and by "flesh" the sensitive appetite.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The passions of the soul may stand in a twofold relation to the judgment of reason. First, antecedently: and thus, since they obscure the judgment of reason, on which the goodness of the moral act depends, they diminish the goodness of the act; for it is more praiseworthy to do a work of charity from the judgment of reason than from the mere passion of pity. In the second place, consequently: and this in two ways. First, by way of redundance: because, to wit, when the higher part of the soul is intensely moved to anything, the lower part also follows that movement: and thus the passion that results in consequence, in the sensitive appetite, is a sign of the intensity of the will, and so indicates greater moral goodness. Secondly, by way of choice; when, to wit, a man, by the judgment of his reason, chooses to be affected by a passion in order to work more promptly with the co-operation of the sensitive appetite. And thus a passion of the soul increases the goodness of an action.
 
 Reply to Objection 2: In God and the angels there is no sensitive appetite, nor again bodily members: and so in them good does not depend on the right ordering of passions or of bodily actions, as it does in us.
 
 Reply to Objection 3: A passion that tends to evil, and precedes the judgment of reason, diminishes sin; but if it be consequent in either of the ways mentioned above (Reply OBJ 1), it aggravates the sin, or else it is a sign of its being more grievous.
-# Whether Any Passion Is Good Or Evil In Its Species?
+## Whether Any Passion Is Good Or Evil In Its Species?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no passion of the soul is good or evil morally according to its species. Because moral good and evil depend on reason. But the passions are in the sensitive appetite; so that accordance with reason is accidental to them. Since, therefore, nothing accidental belongs to a thing's species, it seems that no passion is good or evil according to its species.
 
@@ -88,13 +88,13 @@ Objection 2: Further, acts and passions take their species from their object. If
 
 Objection 3: Further, there is no species of passion that is not to be found in other animals. But moral good is in man alone. Therefore no passion of the soul is good or evil according to its species.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei ix, 5) that "pity is a kind of virtue." Moreover, the Philosopher says (Ethic. ii, 7) that modesty is a praiseworthy passion. Therefore some passions are good or evil according to their species.
 
 I answer that, We ought, seemingly, to apply to passions what has been said in regard to acts ([1222]Q[18], AA[5],6;[1223] Q[20], A[1])---viz. that the species of a passion, as the species of an act, can be considered from two points of view. First, according to its natural genus; and thus moral good and evil have no connection with the species of an act or passion. Secondly, according to its moral genus, inasmuch as it is voluntary and controlled by reason. In this way moral good and evil can belong to the species of a passion, in so far as the object to which a passion tends, is, of itself, in harmony or in discord with reason: as is clear in the case of "shame" which is base fear; and of "envy" which is sorrow for another's good: for thus passions belong to the same species as the external act.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument considers the passions in their natural species, in so far as the sensitive appetite is considered in itself. But in so far as the sensitive appetite obeys reason, good and evil of reason are no longer accidentally in the passions of the appetite, but essentially.
 

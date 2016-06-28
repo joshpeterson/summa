@@ -4,9 +4,9 @@ In the next place we must consider the conditions of those who rise again. Here 
 (1) Whether the body will rise again identically the same?
 (2) Whether it will be the self-same man?
 (3) Whether it is necessary that the same ashes should return to the same parts in which they were before?
-# Whether In The Resurrection The Soul Will Be Reunited To The Same Identical Body?
+## Whether In The Resurrection The Soul Will Be Reunited To The Same Identical Body?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the soul will not be reunited to the same identical body at the resurrection, for "thou sowest not the body that shall be, but bare grain" (1 Cor. 15:37). Now the Apostle is there comparing death to sowing and resurrection to fructifying. Therefore the same body that is laid aside in death is not resumed at the resurrection.
 
@@ -16,7 +16,7 @@ Objection 3: Further, after death, as stated above ([5066]Q[78], A[3]), the huma
 
 Objection 4: Further, there cannot be numerical identity where there is numerical distinction of essential parts. Now the form of the mixed body, which form is an essential part of the human body, as being its form, cannot be resumed in numerical identity. Therefore the body will not be identically the same. The minor is proved thus: That which passes away into complete nonentity cannot be resumed in identity. This is clear from the fact that there cannot be identity where there is distinction of existence: and existence, which is the act of a being, is differentiated by being interrupted, as is any interrupted act. Now the form of a mixed body passes away into complete nonentity by death, since it is a bodily form, and so also do the contrary qualities from which the mixture results. Therefore the form of a mixed body does not return in identity.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Job 19:26): "In my flesh I shall see God my Saviour [Vulg.: 'my God']," where he is speaking of the vision after the resurrection, as appears from the preceding words: "In the last day I shall rise out of the earth." Therefore the selfsame body will rise again.
 
@@ -26,7 +26,7 @@ This opinion arises from two false sources. The first of these is that they said
 
 In like manner the errors of certain heretics are refuted. Some of them fell into the aforesaid opinions of the philosophers: while others held that souls are reunited to heavenly bodies, or again to bodies subtle as the wind, as Gregory relates of a certain Bishop of Constantinople, in his exposition of Job 19:26, "In my flesh I shall see my God," etc. Moreover these same errors of heretics may be refuted by the fact that they are prejudicial to the truth of resurrection as witnessed to by Holy Writ. For we cannot call it resurrection unless the soul return to the same body, since resurrection is a second rising, and the same thing rises that falls: wherefore resurrection regards the body which after death falls rather than the soul which after death lives. And consequently if it be not the same body which the soul resumes, it will not be a resurrection, but rather the assuming of a new body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A comparison does not apply to every particular, but to some. For in the sowing of grain, the grain sown and the grain that is born thereof are neither identical, nor of the same condition, since it was first sown without a husk, yet is born with one: and the body will rise again identically the same, but of a different condition, since it was mortal and will rise in immortality.
 
@@ -35,9 +35,9 @@ Reply to Objection 2: The soul rising again and the soul living in this world di
 Reply to Objection 3: That which is understood as though it were in matter before its form remains in matter after corruption, because when that which comes afterwards is removed that which came before may yet remain. Now, as the Commentator observes on the First Book of Physics and in De Substantia Orbis, in the matter of things subject to generation and corruption, we must presuppose undeterminate dimensions, by reason of which matter is divisible, so as to be able to receive various forms in its various parts. Wherefore after the separation of the substantial form from matter, these dimensions still remain the same: and consequently the matter existing under those dimensions, whatever form it receive, is more identified with that which was generated from it, than any other part of matter existing under any form whatever. Thus the matter that will be brought back to restore the human body will be the same as that body's previous matter.
 
 Reply to Objection 4: Even as a simple quality is not the substantial form of an element, but its proper accident, and the disposition whereby its matter is rendered proper to such a form; so the form of a mixed body, which form is a quality resulting from simple qualities reduced to a mean, is not the substantial form of the mixed body, but its proper accident, and the disposition whereby the matter is in need of the form. Now the human body has no substantial form besides this form of the mixed body, except the rational soul, for if it had any previous substantial form, this would give it substantial being, and would establish it in the genus of substance: so that the soul would be united to a body already established in the genus of substance, and thus the soul would be compared to the body as artificial forms are to their matter, in respect of their being established in the genus of substance by their matter. Hence the union of the soul to the body would be accidental, which is the error of the ancient philosophers refuted by the Philosopher (De Anima ii, 2 [*Cf. [5068]FP, Q[76], A[1]]). It would also follow that the human body and each of its parts would not retain their former names in the same sense, which is contrary to the teaching of the Philosopher (De Anima ii, 1). Therefore since the rational soul remains, no substantial form of the human body falls away into complete nonentity. And the variation of accidental forms does not make a difference of identity. Therefore the selfsame body will rise again, since the selfsame matter is resumed as stated in a previous reply (ad 2).
-# Whether It Will Be Identically The Same Man That Shall Rise Again?
+## Whether It Will Be Identically The Same Man That Shall Rise Again?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it will not be identically the same man that shall rise again. For according to the Philosopher (De Gener. ii): "Whatsoever things are changed in their corruptible substance are not repeated identically." Now such is man's substance in his present state. Therefore after the change wrought by death the self-same man cannot be repeated .
 
@@ -47,13 +47,13 @@ Objection 3: Further, one same man is not several animals: wherefore if it is no
 
 Objection 4: Further, the matter of a statue ranks higher in the statue than the matter of a man does in man: because artificial things belong to the genus of substance by reason of their matter, but natural things by reason of their form, as appears from the Philosopher (Phys. ii, 1), and again from the Commentator (De Anima ii). But if a statue is remade from the same brass, it will not be the same identically. Therefore much less will it be identically the same man if he be reformed from the same ashes.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Job 19:27): "Whom I myself shall see . . . and not another," and he is speaking of the vision after the resurrection. Therefore the same identical man will rise again.
 
 I answer that, The necessity of holding the resurrection arises from this---that man may obtain the last end for which he was made; for this cannot be accomplished in this life, nor in the life of the separated soul, as stated above ([5069]Q[75], AA[1],2): otherwise man would have been made in vain, if he were unable to obtain the end for which he was made. And since it behooves the end to be obtained by the selfsame thing that was made for that end, lest it appear to be made without purpose, it is necessary for the selfsame man to rise again; and this is effected by the selfsame soul being united to the selfsame body. For otherwise there would be no resurrection properly speaking, if the same man were not reformed. Hence to maintain that he who rises again is not the selfsame man is heretical, since it is contrary to the truth of Scripture which proclaims the resurrection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking of repetition by movement or natural change. For he shows the difference between the recurrence that occurs in generation and corruption and that which is observed in the movement of the heavens. Because the selfsame heaven by local movement returns to the beginning of its movement, since it has a moved incorruptible substance. On the other hand, things subject to generation and corruption return by generation to specific but not numerical identity, because from man blood is engendered, from blood seed, and so on until a man is begotten, not the selfsame man, but the man specifically. In like manner from fire comes air, from air water, from water earth, whence fire is produced, not the selfsame fire, but the same in species. Hence it is clear that the argument, so far as the meaning of the Philosopher is concerned, is not to the point.
 
@@ -62,9 +62,9 @@ Reply to Objection 2: There are two opinions about humanity and about any form o
 Reply to Objection 3: This argument affords a very good proof against those who held a distinction between the sensitive and rational souls in man: because in that case the sensitive soul in man would not be incorruptible, as neither is it in other animals; and consequently in the resurrection there would not be the same sensitive soul, and consequently neither the same animal nor the same man.
 
 Reply to Objection 4: A statue may be considered in two ways, either as a particular substance, or as something artificial. And since it is placed in the genus of substance by reason of its matter, it follows that if we consider it as a particular substance, it is the selfsame statue that is remade from the same matter. On the other hand, it is placed in the genus of artificial things inasmuch as it has an accidental form which, if the statue be destroyed, passes away also. Consequently it does not return identically the same, nor can the statue be identically the same. But man's form, namely the soul, remains after the body has perished: wherefore the comparison fails.
-# Whether The Ashes Of The Human Body Must Needs, By The Resurrection, Return To The Same Parts Of The Body That Were Dissolved Into Them?
+## Whether The Ashes Of The Human Body Must Needs, By The Resurrection, Return To The Same Parts Of The Body That Were Dissolved Into Them?
 
-## Objections
+### Objections
 
 Objection 1: It would seem necessary for the ashes of the human body to return, by the resurrection, to the same parts that were dissolved into them. For, according to the Philosopher, "as the whole soul is to the whole body, so is a part of the soul to a part of the body, as sight to the pupil" (De Anima ii, 1). Now it is necessary that after the resurrection the body be resumed by the same soul. Therefore it is also necessary for the same parts of the body to return to the same limbs, in which they were perfected by the same parts of the soul.
 
@@ -72,7 +72,7 @@ Objection 2: Further, difference of matter causes difference of identity. But if
 
 Objection 3: Further, the resurrection is directed to the end that man may receive the meed of his works. Now different parts of the body are employed in different works, whether of merit or of demerit. Therefore at the resurrection each part must needs return to its former state that it may be rewarded in due measure.
 
-## Answer
+### Answer
 
 On the contrary, Artificial things are more dependent on their matter than natural things. Now in artificial things, in order that the same artificial thing be remade, from the same matter, there is no need for the parts to be brought back to the same position. Neither therefore is it necessary in man.
 
@@ -80,7 +80,7 @@ I answer that, In this question it makes a difference whether we ask what can be
 
 But speaking of the congruity, it is more probable that even the parts will retain their position at the resurrection, especially as regards the essential and organic parts, although perhaps not as regards the accidental parts, such as nails and hair.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument considers organic or heterogeneous parts, but no homogeneous or like parts.
 

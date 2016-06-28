@@ -3,9 +3,9 @@
 Next we consider the appetitive powers, concerning which there are four heads of consideration: first, the appetitive powers in general; second, sensuality; third, the will; fourth, the free-will. Under the first there are two points of inquiry:
 (1) Whether the appetite should be considered a special power of the soul?
 (2) Whether the appetite should be divided into intellectual and sensitive as distinct powers?
-# Whether The Appetite Is A Special Power Of The Soul?
+## Whether The Appetite Is A Special Power Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the appetite is not a special power of the soul. For no power of the soul is to be assigned for those things which are common to animate and to inanimate things. But appetite is common to animate and inanimate things: since "all desire good," as the Philosopher says (Ethic. i, 1). Therefore the appetite is not a special power of the soul.
 
@@ -13,7 +13,7 @@ Objection 2: Further, powers are differentiated by their objects. But what we de
 
 Objection 3: Further, the common is not divided from the proper. But each power of the soul desires some particular desirable thing---namely its own suitable object. Therefore, with regard to this object which is the desirable in general, we should not assign some particular power distinct from the others, called the appetitive power.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher distinguishes (De Anima ii, 3) the appetitive from the other powers. Damascene also (De Fide Orth. ii, 22) distinguishes the appetitive from the cognitive powers.
 
@@ -21,16 +21,16 @@ I answer that, It is necessary to assign an appetitive power to the soul. To mak
 
 Therefore, as forms exist in those things that have knowledge in a higher manner and above the manner of natural forms; so must there be in them an inclination surpassing the natural inclination, which is called the natural appetite. And this superior inclination belongs to the appetitive power of the soul, through which the animal is able to desire what it apprehends, and not only that to which it is inclined by its natural form. And so it is necessary to assign an appetitive power to the soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Appetite is found in things which have knowledge, above the common manner in which it is found in all things, as we have said above. Therefore it is necessary to assign to the soul a particular power.
 
 Reply to Objection 2: What is apprehended and what is desired are the same in reality, but differ in aspect: for a thing is apprehended as something sensible or intelligible, whereas it is desired as suitable or good. Now, it is diversity of aspect in the objects, and not material diversity, which demands a diversity of powers.
 
 Reply to Objection 3: Each power of the soul is a form or nature, and has a natural inclination to something. Wherefore each power desires by the natural appetite that object which is suitable to itself. Above which natural appetite is the animal appetite, which follows the apprehension, and by which something is desired not as suitable to this or that power, such as sight for seeing, or sound for hearing; but simply as suitable to the animal.
-# Whether The Sensitive And Intellectual Appetites Are Distinct Powers?
+## Whether The Sensitive And Intellectual Appetites Are Distinct Powers?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sensitive and intellectual appetites are not distinct powers. For powers are not differentiated by accidental differences, as we have seen above ([655]Q[77], A[3]). But it is accidental to the appetible object whether it be apprehended by the sense or by the intellect. Therefore the sensitive and intellectual appetites are not distinct powers.
 
@@ -38,13 +38,13 @@ Objection 2: Further, intellectual knowledge is of universals; and so it is dist
 
 Objection 3: Further, as under the apprehensive power, the appetitive is subordinate as a lower power, so also is the motive power. But the motive power which in man follows the intellect is not distinct from the motive power which in animals follows sense. Therefore, for a like reason, neither is there distinction in the appetitive part.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher (De Anima iii, 9) distinguishes a double appetite, and says (De Anima iii, 11) that the higher appetite moves the lower.
 
 I answer that, We must needs say that the intellectual appetite is a distinct power from the sensitive appetite. For the appetitive power is a passive power, which is naturally moved by the thing apprehended: wherefore the apprehended appetible is a mover which is not moved, while the appetite is a mover moved, as the Philosopher says in De Anima iii, 10 and Metaph. xii (Did. xi, 7). Now things passive and movable are differentiated according to the distinction of the corresponding active and motive principles; because the motive must be proportionate to the movable, and the active to the passive: indeed, the passive power itself has its very nature from its relation to its active principle. Therefore, since what is apprehended by the intellect and what is apprehended by sense are generically different; consequently, the intellectual appetite is distinct from the sensitive.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is not accidental to the thing desired to be apprehended by the sense or the intellect; on the contrary, this belongs to it by its nature; for the appetible does not move the appetite except as it is apprehended. Wherefore differences in the thing apprehended are of themselves differences of the appetible. And so the appetitive powers are distinct according to the distinction of the things apprehended, as their proper objects.
 

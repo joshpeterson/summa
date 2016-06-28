@@ -5,9 +5,9 @@ Next we must consider tithes, under which head there are four points of inquiry:
 (2) Of what things ought tithes to be paid?
 (3) To whom ought they to be paid?
 (4) Who ought to pay tithes?
-# Whether Men Are Bound To Pay Tithes Under A Necessity Of Precept?
+## Whether Men Are Bound To Pay Tithes Under A Necessity Of Precept?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that men are not bound by precept to pay tithes. The commandment to pay tithes is contained in the Old Law (Lev. 27:30), "All tithes of the land, whether of corn or of the fruits of trees, are the Lord's," and further on (Lev. 27:32): "Of all the tithes of oxen and sheep and goats, that pass under the shepherd's rod, every tenth that cometh shall be sanctified to the Lord." This cannot be reckoned among the moral precepts, because natural reason does not dictate that one ought to give a tenth part, rather than a ninth or eleventh. Therefore it is either a judicial or a ceremonial precept. Now, as stated above ([3047]FS, Q[103], A[3]; [3048]FS, Q[104], A[3]), during the time of grace men are hound neither to the ceremonial nor to the judicial precepts of the Old Law. Therefore men are not bound now to pay tithes.
 
@@ -19,7 +19,7 @@ Objection 4: Further, in the Old Law men were bound to pay three kinds of tithe.
 
 Objection 5: Further, a debt that is due without any time being fixed for its payment, must be paid at once under pain of sin. Accordingly if during the time of grace men are bound, under necessity of precept, to pay tithes in those countries where tithes are not paid, they would all be in a state of mortal sin, and so would also be the ministers of the Church for dissembling. But this seems unreasonable. Therefore during the time of grace men are not bound under necessity of precept to pay tithes.
 
-## Answer
+### Answer
 
 On the contrary, Augustine [*Append. Serm. cclxxcii], whose words are quoted 16, qu. i [*Can. Decimae], says: "It is a duty to pay tithes, and whoever refuses to pay them takes what belongs to another."
 
@@ -31,7 +31,7 @@ Accordingly it is evident that man's obligation to pay tithes arises partly from
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: The precept about paying tithes, in so far as it was a moral precept, was given in the Gospel by our Lord when He said (Mat. 10:10) [*The words as quoted are from Lk. 10:7: Matthew has 'meat' instead of 'hire']: "The workman is worthy of his hire," and the Apostle says the same (1 Cor. 9:4 seqq.). But the fixing of the particular proportion is left to the ordinance of the Church.
 
@@ -40,9 +40,9 @@ Reply to Objection 3: Before the time of the Old Law the ministry of the divine 
 Reply to Objection 4: The second kind of tithe, which was reserved for the offering of sacrifices, has no place in the New Law, since the legal victims had ceased. But the third kind of tithe which they had to eat with the poor, is increased in the New Law, for our Lord commanded us to give to the poor not merely the tenth part, but all our surplus, according to Lk. 11:41: "That which remaineth, give alms." Moreover the tithes that are given to the ministers of the Church should be dispensed by them for the use of the poor.
 
 Reply to Objection 5: The ministers of the Church ought to be more solicitous for the increase of spiritual goods in the people, than for the amassing of temporal goods: and hence the Apostle was unwilling to make use of the right given him by the Lord of receiving his livelihood from those to whom he preached the Gospel, lest he should occasion a hindrance to the Gospel of Christ [*1 Cor. 9:12]. Nor did they sin who did not contribute to his upkeep, else the Apostle would not have omitted to reprove them. In like manner the ministers of the Church rightly refrain from demanding the Church's tithes, when they could not demand them without scandal, on account of their having fallen into desuetude, or for some other reason. Nevertheless those who do not give tithes in places where the Church does not demand them are not in a state of damnation, unless they be obstinate, and unwilling to pay even if tithes were demanded of them.
-# Whether Men Are Bound To Pay Tithes Of All Things?
+## Whether Men Are Bound To Pay Tithes Of All Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that men are not bound to give tithes of all things. The paying of tithes seems to be an institution of the Old Law. Now the Old Law contains no precept about personal tithes, viz. those that are payable on property acquired by one's own act, for instance by commerce or soldiering. Therefore no man is bound to pay tithes on such things.
 
@@ -52,13 +52,13 @@ Objection 3: Further, in the last chapter of Leviticus (30,32) the precept of pa
 
 Objection 4: Further, man cannot pay except what is in his power. Now a man does not always remain in possession of all his profit from land and stock, since sometimes he loses them by theft or robbery; sometimes they are transferred to another person by sale; sometimes they are due to some other person, thus taxes are due to princes, and wages due to workmen. Therefore one ought not to pay tithes on such like things.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 28:22): "Of all things that Thou shalt give to me, I will offer tithes to Thee."
 
 I answer that, In judging about a thing we should look to its principle. Now the principle of the payment of tithes is the debt whereby carnal things are due to those who sow spiritual things, according to the saying of the Apostle (1 Cor. 9:11), "If we have sown unto you spiritual things, is it a great matter if we reap your carnal things?" [thus implying that on the contrary "it is no great matter if we reap your carnal things"] [*The phrase in the brackets is omitted in the Leonine edition]. For this debt is the principle on which is based the commandment of the Church about the payment of tithes. Now whatever man possesses comes under the designation of carnal things. Therefore tithes must be paid on whatever one possesses.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In accordance with the condition of that people there was a special reason why the Old Law did not include a precept about personal tithes; because, to wit, all the other tribes had certain possessions wherewith they were able to provide a sufficient livelihood for the Levites who had no possessions, but were not forbidden to make a profit out of other lawful occupations as the other Jews did. On the other hand the people of the New Law are spread abroad throughout the world, and many of them have no possessions, but live by trade, and these would contribute nothing to the support of God's ministers if they did not pay tithes on their trade profits. Moreover the ministers of the New Law are more strictly forbidden to occupy themselves in money-making trades, according to 2 Tim. 2:4, "No man being a soldier to God, entangleth himself with secular business." Wherefore in the New Law men are bound to pay personal tithes, according to the custom of their country and the needs of the ministers: hence Augustine, whose words are quoted 16, qu. 1, cap. Decimae, says [*Append. Serm. cclxxvii]: "Tithes must be paid on the profits of soldiering, trade or craft."
 
@@ -67,9 +67,9 @@ Reply to Objection 2: Things are ill-gotten in two ways. First, because the gett
 Reply to Objection 3: Things directed to an end must be judged according to their fittingness to the end. Now the payment of tithes is due not for its own sake, but for the sake of the ministers, to whose dignity it is unbecoming that they should demand minute things with careful exactitude, for this is reckoned sinful according to the Philosopher (Ethic. iv, 2). Hence the Old Law did not order the payment of tithes on such like minute things, but left it to the judgment of those who are willing to pay, because minute things are counted as nothing. Wherefore the Pharisees who claimed for themselves the perfect justice of the Law, paid tithes even on these minute things: nor are they reproved by our Lord on that account, but only because they despised greater, i.e. spiritual, precepts; and rather did He show them to be deserving of praise in this particular, when He said (Mat. 23:23): "These things you ought to have done," i.e. during the time of the Law, according to Chrysostom's [*Hom. xliv in the Opus Imperfectum falsely ascribed to St. John Chrysostom] commentary. This also seems to denote fittingness rather than obligation. Therefore now too men are not bound to pay tithes on such minute things, except perhaps by reason of the custom of one's country.
 
 Reply to Objection 4: A man is not bound to pay tithes on what he has lost by theft or robbery, before he recovers his property: unless he has incurred the loss through his own fault or neglect, because the Church ought not to be the loser on that account. If he sell wheat that has not been tithed, the Church can command the tithes due to her, both from the buyer who has a thing due to the Church, and from the seller, because so far as he is concerned he has defrauded the Church: yet if one pays, the other is not bound. Tithes are due on the fruits of the earth, in so far as these fruits are the gift of God. Wherefore tithes do not come under a tax, nor are they subject to workmen's wages. Hence it is not right to deduct one's taxes and the wages paid to workmen, before paying tithes: but tithes must be paid before anything else on one's entire produce.
-# Whether Tithes Should Be Paid To The Clergy?
+## Whether Tithes Should Be Paid To The Clergy?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that tithes should not be paid to the clergy. Tithes were paid to the Levites in the Old Testament, because they had no portion in the people's possessions, according to Num. 18:23,24. But in the New Testament the clergy have possessions not only ecclesiastical, but sometimes also patrimonial: moreover they receive first-fruits, and oblations for the living and the dead. Therefore it is unnecessary to pay tithes to them.
 
@@ -77,7 +77,7 @@ Objection 2: Further, it sometimes happens that a man dwells in one parish, and 
 
 Objection 3: Further, it is the general custom in certain countries for the soldiers to hold the tithes from the Church in fee; and certain religious receive tithes. Therefore seemingly tithes are not due only to those of the clergy who have care of souls.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Num. 18:21): "I have given to the sons of Levi all the tithes of Israel for a possession, for the ministry wherewith they serve Me in the Tabernacle." Now the clergy are the successors of the sons of Levi in the New Testament. Therefore tithes are due to the clergy alone.
 
@@ -85,16 +85,16 @@ I answer that, Two things have to be considered with regard to tithes: namely, t
 
 On the other hand the things given in the name of tithes are material, wherefore they may come to be used by anyone, and thus it is that they fall into the hands of the laity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the Old Law, as stated above (A[1], ad 4), special tithes were earmarked for the assistance of the poor. But in the New Law the tithes are given to the clergy, not only for their own support, but also that the clergy may use them in assisting the poor. Hence they are not unnecessary; indeed Church property, oblations and first-fruits as well as tithes are all necessary for this same purpose.
 
 Reply to Objection 2: Personal tithes are due to the church in whose parish a man dwells, while predial tithes seem more reasonably to belong to the church within whose bounds the land is situated. The law, however, prescribes that in this matter a custom that has obtained for a long time must be observed [*Cap. Cum sint, and Cap. Ad apostolicae, de Decimis, etc.]. The shepherd who grazes his flock at different seasons in two parishes, should pay tithe proportionately to both churches. And since the fruit of the flock is derived from the pasture, the tithe of the flock is due to the church in whose lands the flock grazes, rather than to the church on whose land the fold is situated.
 
 Reply to Objection 3: Just as the Church can hand over to a layman the things she receives under the title of tithe, so too can she allow him to receive tithes that are yet to be paid, the right of receiving being reserved to the ministers of the Church. The motive may be either the need of the Church, as when tithes are due to certain soldiers through being granted to them in fee by the Church, or it may be the succoring of the poor; thus certain tithes have been granted by way of alms to certain lay religious, or to those that have no care of souls. Some religious, however, are competent to receive tithes, because they have care of souls.
-# Whether The Clergy Also Are Bound To Pay Tithes?
+## Whether The Clergy Also Are Bound To Pay Tithes?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that clerics also are bound to pay tithes. By common law [*Cap. Cum homines, de Decimis, etc.] the parish church should receive the tithes on the lands which are in its territory. Now it happens sometimes that the clergy have certain lands of their own on the territory of some parish church, or that one church has ecclesiastical property on the territory of another. Therefore it would seem that the clergy are bound to pay predial tithes.
 
@@ -104,7 +104,7 @@ Objection 3: Further, in the eighteenth chapter of Numbers (26,28), it is prescr
 
 Objection 4: Further, tithes should serve not only for the support of the clergy, but also for the assistance of the poor. Therefore, if the clergy are exempt from paying tithes, so too are the poor. Yet the latter is not true. Therefore the former is false.
 
-## Answer
+### Answer
 
 On the contrary, A decretal of Pope Paschal [*Paschal II] says: "It is a new form of exaction when the clergy demand tithes from the clergy" [*Cap. Novum genus, de Decimis, etc.].
 
@@ -112,7 +112,7 @@ I answer that, The cause of giving cannot be the cause of receiving, as neither 
 
 Hence the Reply to the First Objection is clear, because the clergy like anyone else are bound to pay tithes on their own lands to the parish church, even though they be the clergy of that same church, because to possess a thing as one's private property is not the same as possessing it in common. But church lands are not tithable, even though they be within the boundaries of another parish.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Religious who are clerics, if they have care of souls, and dispense spiritual things to the people, are not bound to pay tithes, but they may receive them. Another reason applies to other religious, who though clerics do not dispense spiritual things to the people; for according to the ordinary law they are bound to pay tithes, but they are somewhat exempt by reason of various concessions granted by the Apostolic See [*Cap. Ex multiplici, Ex parte, and Ad audientiam, de Decimis, etc.].
 

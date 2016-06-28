@@ -5,9 +5,9 @@ We must now consider the effects of fear: under which head there are four points
 (2) Whether it makes men suitable for counsel?
 (3) Whether it makes one tremble?
 (4) Whether it hinders action?
-# Whether Fear Causes Contraction?
+## Whether Fear Causes Contraction?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear does not cause contraction. For when contraction takes place, the heat and vital spirits are withdrawn inwardly. But accumulation of heat and vital spirits in the interior parts of the body, dilates the heart unto endeavors of daring, as may be seen in those who are angered: while the contrary happens in those who are afraid. Therefore fear does not cause contraction.
 
@@ -15,22 +15,22 @@ Objection 2: Further, when, as a result of contraction, the vital spirits and he
 
 Objection 3: Further, shame is a kind of fear, as stated above ([1396]Q[41], A[4]). But "those who are ashamed blush," as Cicero (De Quaest. Tusc. iv, 8), and the Philosopher (Ethic. iv, 9) observe. But blushing is an indication, not of contraction, but of the reverse. Therefore contraction is not an effect of fear.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. ii, 23) that "fear is a power according to {systole}," i.e. contraction.
 
 I answer that, As stated above ([1397]Q[28], A[5]), in the passions of the soul, the formal element is the movement of the appetitive power, while the bodily transmutation is the material element. Both of these are mutually proportionate; and consequently the bodily transmutation assumes a resemblance to and the very nature of the appetitive movement. Now, as to the appetitive movement of the soul, fear implies a certain contraction: the reason of which is that fear arises from the imagination of some threatening evil which is difficult to repel, as stated above ([1398]Q[41], A[2]). But that a thing be difficult to repel is due to lack of power, as stated above ([1399]Q[43], A[2]): and the weaker a power is, the fewer the things to which it extends. Wherefore from the very imagination that causes fear there ensues a certain contraction in the appetite. Thus we observe in one who is dying that nature withdraws inwardly, on account of the lack of power: and again we see the inhabitants of a city, when seized with fear, leave the outskirts, and, as far as possible, make for the inner quarters. It is in resemblance to this contraction, which pertains to the appetite of the soul, that in fear a similar contraction of heat and vital spirits towards the inner parts takes place in regard to the body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the Philosopher says (De Problem. xxvii, 3), although in those who fear, the vital spirits recede from outer to the inner parts of the body, yet the movement of vital spirits is not the same in those who are angry and those who are afraid. For in those who are angry, by reason of the heat and subtlety of the vital spirits, which result from the craving for vengeance, the inward movement has an upward direction: wherefore the vital spirits and heat concentrate around the heart: the result being that an angry man is quick and brave in attacking. But in those who are afraid, on account of the condensation caused by cold, the vital spirits have a downward movement; the said cold being due to the imagined lack of power. Consequently the heat and vital spirits abandon the heart instead of concentrating around it: the result being that a man who is afraid is not quick to attack, but is more inclined to run away.
 
 Reply to Objection 2: To everyone that is in pain, whether man or animal, it is natural to use all possible means of repelling the harmful thing that causes pain but its presence: thus we observe that animals, when in pain, attack with their jaws or with their horns. Now the greatest help for all purposes, in animals, is heat and vital spirits: wherefore when they are in pain, their nature stores up the heat and vital spirits within them, in order to make use thereof in repelling the harmful object. Hence the Philosopher says (De Problem. xxvii, 9) when the vital spirits and heat are concentrated together within, they require to find a vent in the voice: for which reason those who are in pain can scarcely refrain from crying aloud. On the other hand, in those who are afraid, the internal heat and vital spirits move from the heart downwards, as stated above (ad 1): wherefore fear hinders speech which ensues from the emission of the vital spirits in an upward direction through the mouth: the result being that fear makes its subject speechless. For this reason, too, fear "makes its subject tremble," as the Philosopher says (De Problem. xxvii, 1,6,7).
 
 Reply to Objection 3: Mortal perils are contrary not only to the appetite of the soul, but also to nature. Consequently in such like fear, there is contraction not only in the appetite, but also in the corporeal nature: for when an animal is moved by the imagination of death, it experiences a contraction of heat towards the inner parts of the body, as though it were threatened by a natural death. Hence it is that "those who are in fear of death turn pale" (Ethic. iv, 9). But the evil that shame fears, is contrary, not to nature, but only to the appetite of the soul. Consequently there results a contraction in this appetite, but not in the corporeal nature; in fact, the soul, as though contracted in itself, is free to set the vital spirits and heat in movement, so that they spread to the outward parts of the body: the result being that those who are ashamed blush.
-# Whether Fear Makes One Suitable For Counsel?
+## Whether Fear Makes One Suitable For Counsel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear does not make one suitable for counsel. For the same thing cannot be conducive to counsel, and a hindrance thereto. But fear hinders counsel: because every passion disturbs repose, which is requisite for the good use of reason. Therefore fear does not make a man suitable for counsel.
 
@@ -38,7 +38,7 @@ Objection 2: Further, counsel is an act of reason, in thinking and deliberating 
 
 Objection 3: Further, just as we have recourse to counsel in order to avoid evil, so do we, in order to attain good things. But whereas fear is of evil to be avoided, so is hope of good things to be obtained. Therefore fear is not more conducive to counsel, than hope is.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Rhet. ii, 5) that "fear makes men of counsel."
 
@@ -48,14 +48,14 @@ Secondly, a man of counsel means one who is apt for giving good counsel: and in 
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: The stronger a passion is, the greater the hindrance is it to the man who is swayed by it. Consequently, when fear is intense, man does indeed wish to take counsel, but his thoughts are so disturbed, that he can find no counsel. If, however, the fear be slight, so as to make a man wish to take counsel, without gravely disturbing the reason; it may even make it easier for him to take good counsel, by reason of his ensuing carefulness.
 
 Reply to Objection 3: Hope also makes man a good counsellor: because, as the Philosopher says (Rhet. ii, 5), "no man takes counsel in matters he despairs of," nor about impossible things, as he says in Ethic. iii, 3. But fear incites to counsel more than hope does. Because hope is of good things, as being possible of attainment; whereas fear is of evil things, as being difficult to repel, so that fear regards the aspect of difficulty more than hope does. And it is in matters of difficulty, especially when we distrust ourselves, that we take counsel, as stated above.
-# Whether Fear Makes One Tremble?
+## Whether Fear Makes One Tremble?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that trembling is not an effect of fear. Because trembling is occasioned by cold; thus we observe that a cold person trembles. Now fear does not seem to make one cold, but rather to cause a parching heat: a sign whereof is that those who fear are thirsty, especially if their fear be very great, as in the case of those who are being led to execution. Therefore fear does not cause trembling.
 
@@ -63,20 +63,20 @@ Objection 2: Further, faecal evacuation is occasioned by heat; hence laxative me
 
 Objection 3: Further, in fear, the heat is withdrawn from the outer to the inner parts of the body. If, therefore, man trembles in his outward parts, through the heat being withdrawn thus; it seems that fear should cause this trembling in all the external members. But such is not the case. Therefore trembling of the body is not caused by fear.
 
-## Answer
+### Answer
 
 On the contrary, Cicero says (De Quaest. Tusc. iv, 8) that "fear is followed by trembling, pallor and chattering of the teeth."
 
 I answer that, As stated above [1401](A[1]), in fear there takes place a certain contraction from the outward to the inner parts of the body, the result being that the outer parts become cold; and for this reason trembling is occasioned in these parts, being caused by a lack of power in controlling the members: which lack of power is due to the want of heat, which is the instrument whereby the soul moves those members, as stated in De Anima ii, 4.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When the heat withdraws from the outer to the inner parts, the inward heat increases, especially in the inferior or nutritive parts. Consequently the humid element being spent, thirst ensues; sometimes indeed the result is a loosening of the bowels, and urinary or even seminal evacuation. Or else such like evacuations are due to contraction of the abdomen and testicles, as the Philosopher says (De Problem. xxii, 11).
 
 Reply to Objection 3: In fear, heat abandons the heart, with a downward movement: hence in those who are afraid the heart especially trembles, as also those members which are connected with the breast where the heart resides. Hence those who fear tremble especially in their speech, on account of the tracheal artery being near the heart. The lower lip, too, and the lower jaw tremble, through their connection with the heart; which explains the chattering of the teeth. For the same reason the arms and hands tremble. Or else because the aforesaid members are more mobile. For which reason the knees tremble in those who are afraid, according to Is. 35:3: "Strengthen ye the feeble hands, and confirm the trembling [Vulg.: 'weak'] knees."
-# Whether Fear Hinders Action?
+## Whether Fear Hinders Action?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear hinders action. For action is hindered chiefly by a disturbance in the reason, which directs action. But fear disturbs reason, as stated above [1402](A[2]). Therefore fear hinders action.
 
@@ -84,7 +84,7 @@ Objection 2: Further, those who fear while doing anything, are more apt to fail:
 
 Objection 3: Further, laziness or sloth is a kind of fear. But laziness hinders action. Therefore fear does too.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Phil. 2:12): "With fear and trembling work out your salvation": and he would not say this if fear were a hindrance to a good work. Therefore fear does not hinder a good action.
 
@@ -92,7 +92,7 @@ I answer that, Man's exterior actions are caused by the soul as first mover, but
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: He that falls from a plank placed aloft, suffers a disturbance of his imagination, through fear of the fall that is pictured to his imagination.
 

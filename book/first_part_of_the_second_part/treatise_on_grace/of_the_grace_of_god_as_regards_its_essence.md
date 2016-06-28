@@ -5,9 +5,9 @@ We must now consider the grace of God as regards its essence; and under this hea
 (2) Whether grace is a quality?
 (3) Whether grace differs from infused virtue?
 (4) Of the subject of grace.
-# Whether Grace Implies Anything In The Soul?
+## Whether Grace Implies Anything In The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace does not imply anything in the soul. For man is said to have the grace of God even as the grace of man. Hence it is written (Gn. 39:21) that the Lord gave to Joseph "grace [Douay: 'favor'] in the sight of the chief keeper of the prison." Now when we say that a man has the favor of another, nothing is implied in him who has the favor of the other, but an acceptance is implied in him whose favor he has. Hence when we say that a man has the grace of God, nothing is implied in his soul; but we merely signify the Divine acceptance.
 
@@ -15,7 +15,7 @@ Objection 2: Further, as the soul quickens the body so does God quicken the soul
 
 Objection 3: Further, on Rom. 1:7, "Grace to you and peace," the gloss says: "Grace, i.e. the remission of sins." Now the remission of sin implies nothing in the soul, but only in God, Who does not impute the sin, according to Ps. 31:2: "Blessed is the man to whom the Lord hath not imputed sin." Hence neither does grace imply anything in the soul.
 
-## Answer
+### Answer
 
 On the contrary, Light implies something in what is enlightened. But grace is a light of the soul; hence Augustine says (De Natura et Gratia xxii): "The light of truth rightly deserts the prevaricator of the law, and those who have been thus deserted become blind." Therefore grace implies something in the soul.
 
@@ -25,16 +25,16 @@ Now as regards the last two, it is clear that grace implies something in him who
 
 Accordingly when a man is said to have the grace of God, there is signified something bestowed on man by God. Nevertheless the grace of God sometimes signifies God's eternal love, as we say the grace of predestination, inasmuch as God gratuitously and not from merits predestines or elects some; for it is written (Eph. 1:5): "He hath predestinated us into the adoption of children . . . unto the praise of the glory of His grace."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even when a man is said to be in another's good graces, it is understood that there is something in him pleasing to the other; even as anyone is said to have God's grace---with this difference, that what is pleasing to a man in another is presupposed to his love, but whatever is pleasing to God in a man is caused by the Divine love, as was said above.
 
 Reply to Objection 2: God is the life of the soul after the manner of an efficient cause; but the soul is the life of the body after the manner of a formal cause. Now there is no medium between form and matter, since the form, of itself, "informs" the matter or subject; whereas the agent "informs" the subject, not by its substance, but by the form, which it causes in the matter.
 
 Reply to Objection 3: Augustine says (Retract. i, 25): "When I said that grace was for the remission of sins, and peace for our reconciliation with God, you must not take it to mean that peace and reconciliation do not pertain to general peace, but that the special name of grace signifies the remission of sins." Not only grace, therefore, but many other of God's gifts pertain to grace. And hence the remission of sins does not take place without some effect divinely caused in us, as will appear later ([2188]Q[113], A[2]).
-# Whether Grace Is A Quality Of The Soul?
+## Whether Grace Is A Quality Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace is not a quality of the soul. For no quality acts on its subject, since the action of a quality is not without the action of its subject, and thus the subject would necessarily act upon itself. But grace acts upon the soul, by justifying it. Therefore grace is not a quality.
 
@@ -42,22 +42,22 @@ Objection 2: Furthermore, substance is nobler than quality. But grace is nobler 
 
 Objection 3: Furthermore, no quality remains after it has ceased to be in its subject. But grace remains; since it is not corrupted, for thus it would be reduced to nothing, since it was created from nothing; hence it is called a "new creature"(Gal. 6:15).
 
-## Answer
+### Answer
 
 On the contrary, on Ps. 103:15: "That he may make the face cheerful with oil"; the gloss says: "Grace is a certain beauty of soul, which wins the Divine love." But beauty of soul is a quality, even as beauty of body. Therefore grace is a quality.
 
 I answer that, As stated above [2190](A[1]), there is understood to be an effect of God's gratuitous will in whoever is said to have God's grace. Now it was stated (Q[109], A[1]) that man is aided by God's gratuitous will in two ways: first, inasmuch as man's soul is moved by God to know or will or do something, and in this way the gratuitous effect in man is not a quality, but a movement of the soul; for "motion is the act of the mover in the moved." Secondly, man is helped by God's gratuitous will, inasmuch as a habitual gift is infused by God into the soul; and for this reason, that it is not fitting that God should provide less for those He loves, that they may acquire supernatural good, than for creatures, whom He loves that they may acquire natural good. Now He so provides for natural creatures, that not merely does He move them to their natural acts, but He bestows upon them certain forms and powers, which are the principles of acts, in order that they may of themselves be inclined to these movements, and thus the movements whereby they are moved by God become natural and easy to creatures, according to Wis. 8:1: "she . . . ordereth all things sweetly." Much more therefore does He infuse into such as He moves towards the acquisition of supernatural good, certain forms or supernatural qualities, whereby they may be moved by Him sweetly and promptly to acquire eternal good; and thus the gift of grace is a quality.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Grace, as a quality, is said to act upon the soul, not after the manner of an efficient cause, but after the manner of a formal cause, as whiteness makes a thing white, and justice, just.
 
 Reply to Objection 2: Every substance is either the nature of the thing whereof it is the substance or is a part of the nature, even as matter and form are called substance. And because grace is above human nature, it cannot be a substance or a substantial form, but is an accidental form of the soul. Now what is substantially in God, becomes accidental in the soul participating the Divine goodness, as is clear in the case of knowledge. And thus because the soul participates in the Divine goodness imperfectly, the participation of the Divine goodness, which is grace, has its being in the soul in a less perfect way than the soul subsists in itself. Nevertheless, inasmuch as it is the expression or participation of the Divine goodness, it is nobler than the nature of the soul, though not in its mode of being.
 
 Reply to Objection 3: As Boethius [*Pseudo-Bede, Sent. Phil. ex Artist] says, the "being of an accident is to inhere." Hence no accident is called being as if it had being, but because by it something is; hence it is said to belong to a being rather to be a being (Metaph. vii, text. 2). And because to become and to be corrupted belong to what is, properly speaking, no accident comes into being or is corrupted, but is said to come into being and to be corrupted inasmuch as its subject begins or ceases to be in act with this accident. And thus grace is said to be created inasmuch as men are created with reference to it, i.e. are given a new being out of nothing, i.e. not from merits, according to Eph. 2:10, "created in Jesus Christ in good works."
-# Whether Grace Is The Same As Virtue?
+## Whether Grace Is The Same As Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace is the same as virtue. For Augustine says (De Spir. et Lit. xiv) that "operating grace is faith that worketh by charity." But faith that worketh by charity is a virtue. Therefore grace is a virtue.
 
@@ -65,7 +65,7 @@ Objection 2: Further, what fits the definition, fits the defined. But the defini
 
 Objection 3: Further, grace is a quality. Now it is clearly not in the "fourth" species of quality; viz. "form" which is the "abiding figure of things," since it does not belong to bodies. Nor is it in the "third," since it is not a "passion nor a passion-like quality," which is in the sensitive part of the soul, as is proved in Physic. viii; and grace is principally in the mind. Nor is it in the "second" species, which is "natural power" or "impotence"; since grace is above nature and does not regard good and evil, as does natural power. Therefore it must be in the "first" species which is "habit" or "disposition." Now habits of the mind are virtues; since even knowledge itself is a virtue after a manner, as stated above ([2191]Q[57], AA[1],2). Therefore grace is the same as virtue.
 
-## Answer
+### Answer
 
 On the contrary, If grace is a virtue, it would seem before all to be one of the three theological virtues. But grace is neither faith nor hope, for these can be without sanctifying grace. Nor is it charity, since "grace foreruns charity," as Augustine says in his book on the Predestination of the Saints (De Dono Persev. xvi). Therefore grace is not virtue.
 
@@ -75,16 +75,16 @@ But if anyone rightly considers the nature of virtue, this cannot hold, since, a
 
 And thus, even as the natural light of reason is something besides the acquired virtues, which are ordained to this natural light, so also the light of grace which is a participation of the Divine Nature is something besides the infused virtues which are derived from and are ordained to this light, hence the Apostle says (Eph. 5:8): "For you were heretofore darkness, but now light in the Lord. Walk then as children of the light." For as the acquired virtues enable a man to walk, in accordance with the natural light of reason, so do the infused virtues enable a man to walk as befits the light of grace.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine calls "faith that worketh by charity" grace, since the act of faith of him that worketh by charity is the first act by which sanctifying grace is manifested.
 
 Reply to Objection 2: Good is placed in the definition of virtue with reference to its fitness with some pre-existing nature essential or participated. Now good is not attributed to grace in this manner, but as to the root of goodness in man, as stated above.
 
 Reply to Objection 3: Grace is reduced to the first species of quality; and yet it is not the same as virtue, but is a certain disposition which is presupposed to the infused virtues, as their principle and root.
-# Whether Grace Is In The Essence Of The Soul As In A Subject, Or In One Of The Powers?
+## Whether Grace Is In The Essence Of The Soul As In A Subject, Or In One Of The Powers?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace is not in the essence of the soul, as in a subject, but in one of the powers. For Augustine says (Hypognosticon iii [*Among the spurious works of St. Augustine]) that grace is related to the will or to the free will "as a rider to his horse." Now the will or the free will is a power, as stated above ([2192]FP, Q[83], A[2]). Hence grace is in a power of the soul, as in a subject.
 
@@ -94,13 +94,13 @@ Objection 3: Further, if the essence of the soul is the proper subject of grace,
 
 Objection 4: Further, the essence of the soul is prior to its powers. Now what is prior may be understood without what is posterior. Hence it follows that grace may be taken to be in the soul, although we suppose no part or power of the soul---viz. neither the will, nor the intellect, nor anything else; which is impossible.
 
-## Answer
+### Answer
 
 On the contrary, By grace we are born again sons of God. But generation terminates at the essence prior to the powers. Therefore grace is in the soul's essence prior to being in the powers.
 
 I answer that, This question depends on the preceding. For if grace is the same as virtue, it must necessarily be in the powers of the soul as in a subject; since the soul's powers are the proper subject of virtue, as stated above ([2193]Q[56], A[1]). But if grace differs from virtue, it cannot be said that a power of the soul is the subject of grace, since every perfection of the soul's powers has the nature of virtue, as stated above ([2194]Q[55], A[1];[2195] Q[56], A[1]). Hence it remains that grace, as it is prior to virtue, has a subject prior to the powers of the soul, so that it is in the essence of the soul. For as man in his intellective powers participates in the Divine knowledge through the virtue of faith, and in his power of will participates in the Divine love through the virtue of charity, so also in the nature of the soul does he participate in the Divine Nature, after the manner of a likeness, through a certain regeneration or re-creation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As from the essence of the soul flows its powers, which are the principles of deeds, so likewise the virtues, whereby the powers are moved to act, flow into the powers of the soul from grace. And thus grace is compared to the will as the mover to the moved, which is the same comparison as that of a horseman to the horse---but not as an accident to a subject.
 

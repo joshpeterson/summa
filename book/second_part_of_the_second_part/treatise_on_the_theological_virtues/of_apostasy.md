@@ -3,9 +3,9 @@
 We must now consider apostasy: about which there are two points of inquiry:
 (1) Whether apostasy pertains to unbelief?
 (2) Whether, on account of apostasy from the faith, subjects are absolved from allegiance to an apostate prince?
-# Whether Apostasy Pertains To Unbelief?
+## Whether Apostasy Pertains To Unbelief?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that apostasy does not pertain to unbelief. For that which is the origin of all sins, does not, seemingly, pertain to unbelief, since many sins there are without unbelief. Now apostasy seems to be the origin of every sin, for it is written (Ecclus. 10:14): "The beginning of the pride of man is apostasy [Douay: 'to fall off'] from God," and further on, (Ecclus. 10:15): "Pride is the beginning of all sin." Therefore apostasy does not pertain to unbelief.
 
@@ -13,7 +13,7 @@ Objection 2: Further, unbelief is an act of the understanding: whereas apostasy 
 
 Objection 3: Further, heresy, since it pertains to unbelief, is a determinate species of unbelief. If then, apostasy pertained to unbelief, it would follow that it is a determinate species of unbelief, which does not seem to agree with what has been said ([2407]Q[10], A[5]). Therefore apostasy does not pertain to unbelief.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 6:67): "Many of his disciples went back," i.e. apostatized, of whom Our Lord had said previously (Jn. 6:65): "There are some of you that believe not." Therefore apostasy pertains to unbelief.
 
@@ -21,16 +21,16 @@ I answer that, Apostasy denotes a backsliding from God. This may happen in vario
 
 But if he give up the faith, then he seems to turn away from God altogether: and consequently, apostasy simply and absolutely is that whereby a man withdraws from the faith, and is called "apostasy of perfidy." In this way apostasy, simply so called, pertains to unbelief.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection refers to the second kind of apostasy, which denotes an act of the will in rebellion against God's commandments, an act that is to be found in every mortal sin.
 
 Reply to Objection 2: It belongs to faith not only that the heart should believe, but also that external words and deeds should bear witness to the inward faith, for confession is an act of faith. In this way too, certain external words or deeds pertain to unbelief, in so far as they are signs of unbelief, even as a sign of health is said itself to be healthy. Now although the authority quoted may be understood as referring to every kind of apostate, yet it applies most truly to an apostate from the faith. For since faith is the first foundation of things to be hoped for, and since, without faith it is "impossible to please God"; when once faith is removed, man retains nothing that may be useful for the obtaining of eternal salvation, for which reason it is written (Prov. 6:12): "A man that is an apostate, an unprofitable man": because faith is the life of the soul, according to Rom. 1:17: "The just man liveth by faith." Therefore, just as when the life of the body is taken away, man's every member and part loses its due disposition, so when the life of justice, which is by faith, is done away, disorder appears in all his members. First, in his mouth, whereby chiefly his mind stands revealed; secondly, in his eyes; thirdly, in the instrument of movement; fourthly, in his will, which tends to evil. The result is that "he sows discord," endeavoring to sever others from the faith even as he severed himself.
 
 Reply to Objection 3: The species of a quality or form are not diversified by the fact of its being the term "wherefrom" or "whereto" of movement: on the contrary, it is the movement that takes its species from the terms. Now apostasy regards unbelief as the term "whereto" of the movement of withdrawal from the faith; wherefore apostasy does not imply a special kind of unbelief, but an aggravating circumstance thereof, according to 2 Pet. 2:21: "It had been better for them not to know the truth [Vulg.: 'the way of justice'], than after they had known it, to turn back."
-# Whether A Prince Forfeits His Dominion Over His Subjects, On Account Of Apostasy From The Faith, So That They No Longer Owe Him Allegiance?
+## Whether A Prince Forfeits His Dominion Over His Subjects, On Account Of Apostasy From The Faith, So That They No Longer Owe Him Allegiance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a prince does not so forfeit his dominion over his subjects, on account of apostasy from the faith, that they no longer owe him allegiance. For Ambrose [*St. Augustine, Super Ps. 124:3] says that the Emperor Julian, though an apostate, nevertheless had under him Christian soldiers, who when he said to them, "Fall into line for the defense of the republic," were bound to obey. Therefore subjects are not absolved from their allegiance to their prince on account of his apostasy.
 
@@ -38,7 +38,7 @@ Objection 2: Further, an apostate from the faith is an unbeliever. Now we find t
 
 Objection 3: Further, just as by apostasy from the faith, a man turns away from God, so does every sin. Consequently if, on account of apostasy from the faith, princes were to lose their right to command those of their subjects who are believers, they would equally lose it on account of other sins: which is evidently not the case. Therefore we ought not to refuse allegiance to a sovereign on account of his apostatizing from the faith.
 
-## Answer
+### Answer
 
 On the contrary, Gregory VII says (Council, Roman V): "Holding to the institutions of our holy predecessors, we, by our apostolic authority, absolve from their oath those who through loyalty or through the sacred bond of an oath owe allegiance to excommunicated persons: and we absolutely forbid them to continue their allegiance to such persons, until these shall have made amends." Now apostates from the faith, like heretics, are excommunicated, according to the Decretal [*Extra, De Haereticis, cap. Ad abolendam]. Therefore princes should not be obeyed when they have apostatized from the faith.
 
@@ -46,7 +46,7 @@ I answer that, As stated above ([2408]Q[10], A[10]), unbelief, in itself, is not
 
 Now it is not within the competency of the Church to punish unbelief in those who have never received the faith, according to the saying of the Apostle (1 Cor. 5:12): "What have I to do to judge them that are without?" She can, however, pass sentence of punishment on the unbelief of those who have received the faith: and it is fitting that they should be punished by being deprived of the allegiance of their subjects: for this same allegiance might conduce to great corruption of the faith, since, as was stated above (A[1], OBJ[2]), "a man that is an apostate . . . with a wicked heart deviseth evil, and . . . soweth discord," in order to sever others from the faith. Consequently, as soon as sentence of excommunication is passed on a man on account of apostasy from the faith, his subjects are "ipso facto" absolved from his authority and from the oath of allegiance whereby they were bound to him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: At that time the Church was but recently instituted, and had not, as yet, the power of curbing earthly princes; and so she allowed the faithful to obey Julian the apostate, in matters that were not contrary to the faith, in order to avoid incurring a yet greater danger.
 

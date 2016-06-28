@@ -4,9 +4,9 @@ In the next place we must consider matrimony absolutely; and here we must treat 
 (1) What is the betrothal?
 (2) Who can contract a betrothal?
 (3) Whether a betrothal can be canceled?
-# Whether A Betrothal Is A Promise Of Future Marriage?
+## Whether A Betrothal Is A Promise Of Future Marriage?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a betrothal is not rightly defined "a promise of future marriage," as expressed in the words of Pope Nicholas I (Resp. ad Consul. Bulgar., iii). For as Isidore says (Etym. iv), "a man is betrothed not by a mere promise, but by giving his troth [spondet] and providing sureties [sponsores]". Now a person is said to be betrothed by reason of his betrothal. Therefore it is wrongly described as a promise.
 
@@ -20,13 +20,13 @@ Objection 5: Further, promising about the future is blamed in James 4:13, seqq. 
 
 Objection 6: Further, no man is called a spouse except on account of his espousals. But a man is said to be a spouse on account of actual marriage, according to the text (Sent. iv, D, 27). Therefore espousals are not always a promise of future marriage.
 
-## Answer
+### Answer
 
 
 
 I answer that, Consent to conjugal union if expressed in words of the future does not make a marriage, but a promise of marriage; and this promise is called "a betrothal from plighting one's troth," as Isidore says (Etym. iv). For before the use of writing-tablets, they used to give pledges of marriage, by which they plighted their mutual consent under the marriage code, and they provided guarantors. This promise is made in two ways, namely absolutely, or conditionally. Absolutely, in four ways: firstly, a mere promise, by saying: "I will take thee for my wife," and conversely; secondly, by giving betrothal pledges, such as money and the like; thirdly, by giving an engagement ring; fourthly, by the addition of an oath. If, however, this promise be made conditionally, we must draw a distinction; for it is either an honorable condition, for instance if we say: "I will take thee, if thy parents consent," and then the promise holds if the condition is fulfilled, and does not hold if the condition is not fulfilled; or else the condition is dishonorable, and this in two ways: for either it is contrary to the marriage blessings, as if we were to say: "I will take thee if thou promise means of sterility," and then no betrothal is contracted; or else it is not contrary to the marriage blessings, as were one to say: "I will take thee if thou consent to my thefts," and then the promise holds, but the condition should be removed.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The betrothal itself and giving of sureties are a ratification of the promise, wherefore it is denominated from these as from that which is more perfect.
 
@@ -39,9 +39,9 @@ Reply to Objection 4: The condition that is appended does not destroy the libert
 Reply to Objection 5: James does not intend to forbid altogether the making of promises about the future, but the making of promises as though one were certain of one's life; hence he teaches that we ought to add the condition. "If the Lord will," which, though it be not expressed in words, ought nevertheless to be impressed on the heart.
 
 Reply to Objection 6: In marriage we may consider both the marriage union and the marriage act; and on account of his promise of the first as future a man is called a "spouse" from his having contracted his espousals by words expressive of the future; but from the promise of the second a man is called a "spouse," even when the marriage has been contracted by words expressive of the present, because by this very fact he promises [spondet] the marriage act. However, properly speaking, espousals are so called from the promise [sponsione] in the first sense, because espousals are a kind of sacramental annexed to matrimony, as exorcism to baptism.
-# Whether Seven Years Is Fittingly Assigned As The Age For Betrothal?
+## Whether Seven Years Is Fittingly Assigned As The Age For Betrothal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that seven years is not fittingly assigned as the age for betrothal. For a contract that can be formed by others does not require discretion in those whom it concerns. Now a betrothal can be arranged by the parents without the knowledge of either of the persons betrothed. Therefore a betrothal can be arranged before the age of seven years as well as after.
 
@@ -57,13 +57,13 @@ Objection 6: Further, when a thing is done by many persons in common, if one fai
 
 Objection 7: Further, those who at about the age of puberty, but before it, enter into the marriage contract by words expressive of the present are reputed to be married. Therefore in like manner if they contract marriage by words expressive of the future, before yet close on the age of puberty, they are to be reputed as betrothed.
 
-## Answer
+### Answer
 
 
 
 I answer that, The age of seven years is fixed reasonably enough by law for the contracting of betrothals, for since a betrothal is a promise of the future, as already stated [4932](A[1]), it follows that they are within the competency of those who can make a promise in some way, and this is only for those who can have some foresight of the future, and this requires the use of reason, of which three degrees are to be observed, according to the Philosopher (Ethic. i, 4). The first is when a person neither understands by himself nor is able to learn from another; the second stage is when a man can learn from another but is incapable by himself of consideration and understanding; the third degree is when a man is both able to learn from another and to consider by himself. And since reason develops in man by little and little, in proportion as the movement and fluctuation of the humors is calmed, man reaches the first stage of reason before his seventh year; and consequently during that period he is unfit for any contract, and therefore for betrothal. But he begins to reach the second stage at the end of his first seven years, wherefore children at that age are sent to school. But man begins to reach the third stage at the end of his second seven years, as regards things concerning his person, when his natural reason develops; but as regards things outside his person, at the end of his third seven years. Hence before his first seven years a man is not fit to make any contract, but at the end of that period he begins to be fit to make certain promises for the future, especially about those things to which natural reason inclines us more, though he is not fit to bind himself by a perpetual obligation, because as yet he has not a firm will. Hence at that age betrothals can be contracted. But at the end of the second seven years he can already bind himself in matters concerning his person, either to religion or to wedlock. And after the third seven years he can bind himself in other matters also; and according to the laws he is given the power of disposing of his property after his twenty-second year.
 
-## Replies
+### Replies
 
 Reply to Objection 1: If the parties are betrothed by another person before they reach the age of puberty, either of them or both can demur; wherefore in that case the betrothal does not take effect, so that neither does any affinity result therefrom. Hence a betrothal made between certain persons by some other takes effect, in so far as those between whom the betrothal is arranged do not demur when they reach the proper age, whence they are understood to consent to what others have done.
 
@@ -78,9 +78,9 @@ Reply to Objection 5: In this case, although the second contract does not amount
 Reply to Objection 6: Those who row a boat act by way of one cause, and consequently what is lacking in one can be supplied by another. But those who make a contract of betrothal act as distinct persons, since a betrothal can only be between two parties; wherefore it is necessary for each to be qualified to contract, and thus the defect of one is an obstacle to their betrothal, nor can it be supplied by the other.
 
 Reply to Objection 7: It is true that in the matter of betrothal if the contracting parties are close upon the age of seven, the contract of betrothal is valid, since, according to the Philosopher (Phys. ii, 56), "when little is lacking it seems as though nothing were lacking." Some fix the margin at six months. but it is better to determine it according to the condition of the contracting parties, since the use of reason comes sooner to some than to others.
-# Whether A Betrothal Can Be Dissolved?
+## Whether A Betrothal Can Be Dissolved?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a betrothal cannot be dissolved if one of the parties enter religion. For if I have promised a thing to someone I cannot lawfully pledge it to someone else. Now he who betroths himself promises his body to the woman. Therefore he cannot make a further offering of himself to God in religion.
 
@@ -98,13 +98,13 @@ Objection 7: Again, neither seemingly on account of his contracting with another
 
 Objection 8: Again, neither seemingly should it be dissolved on account of deficient age; since what is not cannot be dissolved. Now a betrothal is null before the requisite age. Therefore it cannot be dissolved.
 
-## Answer
+### Answer
 
 
 
 I answer that, In all the cases mentioned above the betrothal that has been contracted is dissolved, but in different ways. For in two of them---namely when a party enters religion, and when either of the affianced spouses contracts with another party by words expressive of the present---the betrothal is dissolved by law, whereas in the other cases it has to be dissolved according to the judgment of the Church.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The like promise is dissolved by spiritual death, for that promise is purely spiritual, as we shall state further on ([4933]Q[61], A[2]).
 

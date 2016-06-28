@@ -9,9 +9,9 @@ We have now to consider happiness: and (1) in what it consists; (2) what it is; 
 (6) Whether in pleasure?
 (7) Whether in any good of the soul?
 (8) Whether in any created good?
-# Whether Man's Happiness Consists In Wealth?
+## Whether Man's Happiness Consists In Wealth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man's happiness consists in wealth. For since happiness is man's last end, it must consist in that which has the greatest hold on man's affections. Now this is wealth: for it is written (Eccles. 10:19): "All things obey money." Therefore man's happiness consists in wealth.
 
@@ -19,7 +19,7 @@ Objection 2: Further, according to Boethius (De Consol. iii), happiness is "a st
 
 Objection 3: Further, since the desire for the sovereign good never fails, it seems to be infinite. But this is the case with riches more than anything else; since "a covetous man shall not be satisfied with riches" (Eccles. 5:9). Therefore happiness consists in wealth.
 
-## Answer
+### Answer
 
 On the contrary, Man's good consists in retaining happiness rather than in spreading it. But as Boethius says (De Consol. ii), "wealth shines in giving rather than in hoarding: for the miser is hateful, whereas the generous man is applauded." Therefore man's happiness does not consist in wealth.
 
@@ -29,16 +29,16 @@ Now it is evident that man's happiness cannot consist in natural wealth. For wea
 
 And as to artificial wealth, it is not sought save for the sake of natural wealth; since man would not seek it except because, by its means, he procures for himself the necessaries of life. Consequently much less can it be considered in the light of the last end. Therefore it is impossible for happiness, which is the last end of man, to consist in wealth.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All material things obey money, so far as the multitude of fools is concerned, who know no other than material goods, which can be obtained for money. But we should take our estimation of human goods not from the foolish but from the wise: just as it is for a person whose sense of taste is in good order, to judge whether a thing is palatable.
 
 Reply to Objection 2: All things salable can be had for money: not so spiritual things, which cannot be sold. Hence it is written (Prov. 17:16): "What doth it avail a fool to have riches, seeing he cannot buy wisdom."
 
 Reply to Objection 3: The desire for natural riches is not infinite: because they suffice for nature in a certain measure. But the desire for artificial wealth is infinite, for it is the servant of disordered concupiscence, which is not curbed, as the Philosopher makes clear (Polit. i, 3). Yet this desire for wealth is infinite otherwise than the desire for the sovereign good. For the more perfectly the sovereign good is possessed, the more it is loved, and other things despised: because the more we possess it, the more we know it. Hence it is written (Ecclus. 24:29): "They that eat me shall yet hunger." Whereas in the desire for wealth and for whatsoever temporal goods, the contrary is the case: for when we already possess them, we despise them, and seek others: which is the sense of Our Lord's words (Jn. 4:13): "Whosoever drinketh of this water," by which temporal goods are signified, "shall thirst again." The reason of this is that we realize more their insufficiency when we possess them: and this very fact shows that they are imperfect, and the sovereign good does not consist therein.
-# Whether Man's Happiness Consists In Honors?
+## Whether Man's Happiness Consists In Honors?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man's happiness consists in honors. For happiness or bliss is "the reward of virtue," as the Philosopher says (Ethic. i, 9). But honor more than anything else seems to be that by which virtue is rewarded, as the Philosopher says (Ethic. iv, 3). Therefore happiness consists especially in honor.
 
@@ -46,22 +46,22 @@ Objection 2: Further, that which belongs to God and to persons of great excellen
 
 Objection 3: Further, that which man desires above all is happiness. But nothing seems more desirable to man than honor: since man suffers loss in all other things, lest he should suffer loss of honor. Therefore happiness consists in honor.
 
-## Answer
+### Answer
 
 On the contrary, Happiness is in the happy. But honor is not in the honored, but rather in him who honors, and who offers deference to the person honored, as the Philosopher says (Ethic. i, 5). Therefore happiness does not consist in honor.
 
 I answer that, It is impossible for happiness to consist in honor. For honor is given to a man on account of some excellence in him; and consequently it is a sign and attestation of the excellence that is in the person honored. Now a man's excellence is in proportion, especially to his happiness, which is man's perfect good; and to its parts, i.e. those goods by which he has a certain share of happiness. And therefore honor can result from happiness, but happiness cannot principally consist therein.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the Philosopher says (Ethic. i, 5), honor is not that reward of virtue, for which the virtuous work: but they receive honor from men by way of reward, "as from those who have nothing greater to offer." But virtue's true reward is happiness itself, for which the virtuous work: whereas if they worked for honor, it would no longer be a virtue, but ambition.
 
 Reply to Objection 2: Honor is due to God and to persons of great excellence as a sign of attestation of excellence already existing: not that honor makes them excellent.
 
 Reply to Objection 3: That man desires honor above all else, arises from his natural desire for happiness, from which honor results, as stated above. Wherefore man seeks to be honored especially by the wise, on whose judgment he believes himself to be excellent or happy.
-# Whether Man's Happiness Consists In Fame Or Glory?
+## Whether Man's Happiness Consists In Fame Or Glory?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man's happiness consists in glory. For happiness seems to consist in that which is paid to the saints for the trials they have undergone in the world. But this is glory: for the Apostle says (Rom. 8:18): "The sufferings of this time are not worthy to be compared with the glory to come, that shall be revealed in us." Therefore happiness consists in glory.
 
@@ -69,7 +69,7 @@ Objection 2: Further, good is diffusive of itself, as stated by Dionysius (Div. 
 
 Objection 3: Further, happiness is the most enduring good. Now this seems to be fame or glory; because by this men attain to eternity after a fashion. Hence Boethius says (De Consol. ii): "You seem to beget unto yourselves eternity, when you think of your fame in future time." Therefore man's happiness consists in fame or glory.
 
-## Answer
+### Answer
 
 On the contrary, Happiness is man's true good. But it happens that fame or glory is false: for as Boethius says (De Consol. iii), "many owe their renown to the lying reports spread among the people. Can anything be more shameful? For those who receive false fame, must needs blush at their own praise." Therefore man's happiness does not consist in fame or glory.
 
@@ -77,16 +77,16 @@ I answer that, Man's happiness cannot consist in human fame or glory. For glory 
 
 Furthermore, we must observe that human knowledge often fails, especially in contingent singulars, such as are human acts. For this reason human glory is frequently deceptive. But since God cannot be deceived, His glory is always true; hence it is written (2 Cor. 10:18): "He . . . is approved . . . whom God commendeth."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Apostle speaks, then, not of the glory which is with men, but of the glory which is from God, with His Angels. Hence it is written (Mk. 8:38): "The Son of Man shall confess him in the glory of His Father, before His angels" [*St. Thomas joins Mk. 8:38 with Lk. 12:8 owing to a possible variant in his text, or to the fact that he was quoting from memory].
 
 Reply to Objection 2: A man's good which, through fame or glory, is in the knowledge of many, if this knowledge be true, must needs be derived from good existing in the man himself: and hence it presupposes perfect or inchoate happiness. But if the knowledge be false, it does not harmonize with the thing: and thus good does not exist in him who is looked upon as famous. Hence it follows that fame can nowise make man happy.
 
 Reply to Objection 3: Fame has no stability; in fact, it is easily ruined by false report. And if sometimes it endures, this is by accident. But happiness endures of itself, and for ever.
-# Whether Man's Happiness Consists In Power?
+## Whether Man's Happiness Consists In Power?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that happiness consists in power. For all things desire to become like to God, as to their last end and first beginning. But men who are in power, seem, on account of the similarity of power, to be most like to God: hence also in Scripture they are called "gods" (Ex. 22:28), "Thou shalt not speak ill of the gods." Therefore happiness consists in power.
 
@@ -94,7 +94,7 @@ Objection 2: Further, happiness is the perfect good. But the highest perfection 
 
 Objection 3: Further, since happiness is supremely desirable, it is contrary to that which is before all to be shunned. But, more than aught else, men shun servitude, which is contrary to power. Therefore happiness consists in power.
 
-## Answer
+### Answer
 
 On the contrary, Happiness is the perfect good. But power is most imperfect. For as Boethius says (De Consol. iii), "the power of man cannot relieve the gnawings of care, nor can it avoid the thorny path of anxiety": and further on: "Think you a man is powerful who is surrounded by attendants, whom he inspires with fear indeed, but whom he fears still more?"
 
@@ -102,16 +102,16 @@ I answer that, It is impossible for happiness to consist in power; and this for 
 
 Now four general reasons may be given to prove that happiness consists in none of the foregoing external goods. First, because, since happiness is man's supreme good, it is incompatible with any evil. Now all the foregoing can be found both in good and in evil men. Secondly, because, since it is the nature of happiness to "satisfy of itself," as stated in Ethic. i, 7, having gained happiness, man cannot lack any needful good. But after acquiring any one of the foregoing, man may still lack many goods that are necessary to him; for instance, wisdom, bodily health, and such like. Thirdly, because, since happiness is the perfect good, no evil can accrue to anyone therefrom. This cannot be said of the foregoing: for it is written (Eccles. 5:12) that "riches" are sometimes "kept to the hurt of the owner"; and the same may be said of the other three. Fourthly, because man is ordained to happiness through principles that are in him; since he is ordained thereto naturally. Now the four goods mentioned above are due rather to external causes, and in most cases to fortune; for which reason they are called goods of fortune. Therefore it is evident that happiness nowise consists in the foregoing.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God's power is His goodness: hence He cannot use His power otherwise than well. But it is not so with men. Consequently it is not enough for man's happiness, that he become like God in power, unless he become like Him in goodness also.
 
 Reply to Objection 2: Just as it is a very good thing for a man to make good use of power in ruling many, so is it a very bad thing if he makes a bad use of it. And so it is that power is towards good and evil.
 
 Reply to Objection 3: Servitude is a hindrance to the good use of power: therefore is it that men naturally shun it; not because man's supreme good consists in power.
-# Whether Man's Happiness Consists In Any Bodily Good?
+## Whether Man's Happiness Consists In Any Bodily Good?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man's happiness consists in bodily goods. For it is written (Ecclus. 30:16): "There is no riches above the riches of the health of the body." But happiness consists in that which is best. Therefore it consists in the health of the body.
 
@@ -119,7 +119,7 @@ Objection 2: Further, Dionysius says (Div. Nom. v), that "to be" is better than 
 
 Objection 3: Further, the more universal a thing is, the higher the principle from which it depends; because the higher a cause is, the greater the scope of its power. Now just as the causality of the efficient cause consists in its flowing into something, so the causality of the end consists in its drawing the appetite. Therefore, just as the First Cause is that which flows into all things, so the last end is that which attracts the desire of all. But being itself is that which is most desired by all. Therefore man's happiness consists most of all in things pertaining to his being, such as the health of the body.
 
-## Answer
+### Answer
 
 On the contrary, Man surpasses all other animals in regard to happiness. But in bodily goods he is surpassed by many animals; for instance, by the elephant in longevity, by the lion in strength, by the stag in fleetness. Therefore man's happiness does not consist in goods of the body.
 
@@ -127,16 +127,16 @@ I answer that, It is impossible for man's happiness to consist in the goods of t
 
 Secondly, because, granted that the end of man's will and reason be the preservation of man's being, it could not be said that the end of man is some good of the body. For man's being consists in soul and body; and though the being of the body depends on the soul, yet the being of the human soul depends not on the body, as shown above ([997]FP, Q[75], A[2]); and the very body is for the soul, as matter for its form, and the instruments for the man that puts them into motion, that by their means he may do his work. Wherefore all goods of the body are ordained to the goods of the soul, as to their end. Consequently happiness, which is man's last end, cannot consist in goods of the body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as the body is ordained to the soul, as its end, so are external goods ordained to the body itself. And therefore it is with reason that the good of the body is preferred to external goods, which are signified by "riches," just as the good of the soul is preferred to all bodily goods.
 
 Reply to Objection 2: Being taken simply, as including all perfection of being, surpasses life and all that follows it; for thus being itself includes all these. And in this sense Dionysius speaks. But if we consider being itself as participated in this or that thing, which does not possess the whole perfection of being, but has imperfect being, such as the being of any creature; then it is evident that being itself together with an additional perfection is more excellent. Hence in the same passage Dionysius says that things that live are better than things that exist, and intelligent better than living things.
 
 Reply to Objection 3: Since the end corresponds to the beginning; this argument proves that the last end is the first beginning of being, in Whom every perfection of being is: Whose likeness, according to their proportion, some desire as to being only, some as to living being, some as to being which is living, intelligent and happy. And this belongs to few.
-# Whether Man's Happiness Consists In Pleasure?
+## Whether Man's Happiness Consists In Pleasure?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man's happiness consists in pleasure. For since happiness is the last end, it is not desired for something else, but other things for it. But this answers to pleasure more than to anything else: "for it is absurd to ask anyone what is his motive in wishing to be pleased" (Ethic. x, 2). Therefore happiness consists principally in pleasure and delight.
 
@@ -144,7 +144,7 @@ Objection 2: Further, "the first cause goes more deeply into the effect than the
 
 Objection 3: Further, since desire is for good, it seems that what all desire is best. But all desire delight; both wise and foolish, and even irrational creatures. Therefore delight is the best of all. Therefore happiness, which is the supreme good, consists in pleasure.
 
-## Answer
+### Answer
 
 On the contrary, Boethius says (De Consol. iii): "Any one that chooses to look back on his past excesses, will perceive that pleasures had a sad ending: and if they can render a man happy, there is no reason why we should not say that the very beasts are happy too."
 
@@ -152,16 +152,16 @@ I answer that, Because bodily delights are more generally known, "the name of pl
 
 But bodily pleasure cannot result from the perfect good even in that way. For it results from a good apprehended by sense, which is a power of the soul, which power makes use of the body. Now good pertaining to the body, and apprehended by sense, cannot be man's perfect good. For since the rational soul excels the capacity of corporeal matter, that part of the soul which is independent of a corporeal organ, has a certain infinity in regard to the body and those parts of the soul which are tied down to the body: just as immaterial things are in a way infinite as compared to material things, since a form is, after a fashion, contracted and bounded by matter, so that a form which is independent of matter is, in a way, infinite. Therefore sense, which is a power of the body, knows the singular, which is determinate through matter: whereas the intellect, which is a power independent of matter, knows the universal, which is abstracted from matter, and contains an infinite number of singulars. Consequently it is evident that good which is fitting to the body, and which causes bodily delight through being apprehended by sense, is not man's perfect good, but is quite a trifle as compared with the good of the soul. Hence it is written (Wis. 7:9) that "all gold in comparison of her, is as a little sand." And therefore bodily pleasure is neither happiness itself, nor a proper accident of happiness.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It comes to the same whether we desire good, or desire delight, which is nothing else than the appetite's rest in good: thus it is owing to the same natural force that a weighty body is borne downwards and that it rests there. Consequently just as good is desired for itself, so delight is desired for itself and not for anything else, if the preposition "for" denote the final cause. But if it denote the formal or rather the motive cause, thus delight is desirable for something else, i.e. for the good, which is the object of that delight, and consequently is its principle, and gives it its form: for the reason that delight is desired is that it is rest in the thing desired.
 
 Reply to Objection 2: The vehemence of desire for sensible delight arises from the fact that operations of the senses, through being the principles of our knowledge, are more perceptible. And so it is that sensible pleasures are desired by the majority.
 
 Reply to Objection 3: All desire delight in the same way as they desire good: and yet they desire delight by reason of the good and not conversely, as stated above (ad 1). Consequently it does not follow that delight is the supreme and essential good, but that every delight results from some good, and that some delight results from that which is the essential and supreme good.
-# Whether Some Good Of The Soul Constitutes Man's Happiness?
+## Whether Some Good Of The Soul Constitutes Man's Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that some good of the soul constitutes man's happiness. For happiness is man's good. Now this is threefold: external goods, goods of the body, and goods of the soul. But happiness does not consist in external goods, nor in goods of the body, as shown above ([998]AA[4],5). Therefore it consists in goods of the soul.
 
@@ -169,7 +169,7 @@ Objection 2: Further, we love that for which we desire good, more than the good 
 
 Objection 3: Further, perfection is something belonging to that which is perfected. But happiness is a perfection of man. Therefore happiness is something belonging to man. But it is not something belonging to the body, as shown above [999](A[5]). Therefore it is something belonging to the soul; and thus it consists in goods of the soul.
 
-## Answer
+### Answer
 
 On the contrary, As Augustine says (De Doctr. Christ. i, 22), "that which constitutes the life of happiness is to be loved for its own sake." But man is not to be loved for his own sake, but whatever is in man is to be loved for God's sake. Therefore happiness consists in no good of the soul.
 
@@ -179,16 +179,16 @@ In like manner neither can anything belonging to it, whether power, habit, or ac
 
 But if we speak of man's last end, as to the attainment or possession thereof, or as to any use whatever of the thing itself desired as an end, thus does something of man, in respect of his soul, belong to his last end: since man attains happiness through his soul. Therefore the thing itself which is desired as end, is that which constitutes happiness, and makes man happy; but the attainment of this thing is called happiness. Consequently we must say that happiness is something belonging to the soul; but that which constitutes happiness is something outside the soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Inasmuch as this division includes all goods that man can desire, thus the good of the soul is not only power, habit, or act, but also the object of these, which is something outside. And in this way nothing hinders us from saying that what constitutes happiness is a good of the soul.
 
 Reply to Objection 2: As far as the proposed objection is concerned, happiness is loved above all, as the good desired; whereas a friend is loved as that for which good is desired; and thus, too, man loves himself. Consequently it is not the same kind of love in both cases. As to whether man loves anything more than himself with the love of friendship there will be occasion to inquire when we treat of Charity.
 
 Reply to Objection 3: Happiness, itself, since it is a perfection of the soul, is an inherent good of the soul; but that which constitutes happiness, viz. which makes man happy, is something outside his soul, as stated above.
-# Whether Any Created Good Constitutes Man's Happiness?
+## Whether Any Created Good Constitutes Man's Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that some created good constitutes man's happiness. For Dionysius says (Div. Nom. vii) that Divine wisdom "unites the ends of first things to the beginnings of second things," from which we may gather that the summit of a lower nature touches the base of the higher nature. But man's highest good is happiness. Since then the angel is above man in the order of nature, as stated in [1001]FP, Q[111], A[1], it seems that man's happiness consists in man somehow reaching the angel.
 
@@ -196,13 +196,13 @@ Objection 2: Further, the last end of each thing is that which, in relation to i
 
 Objection 3: Further, man is made happy by that which lulls his natural desire. But man's natural desire does not reach out to a good surpassing his capacity. Since then man's capacity does not include that good which surpasses the limits of all creation, it seems that man can be made happy by some created good. Consequently some created good constitutes man's happiness.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xix, 26): "As the soul is the life of the body, so God is man's life of happiness: of Whom it is written: 'Happy is that people whose God is the Lord' (Ps. 143:15)."
 
 I answer that, It is impossible for any created good to constitute man's happiness. For happiness is the perfect good, which lulls the appetite altogether; else it would not be the last end, if something yet remained to be desired. Now the object of the will, i.e. of man's appetite, is the universal good; just as the object of the intellect is the universal true. Hence it is evident that naught can lull man's will, save the universal good. This is to be found, not in any creature, but in God alone; because every creature has goodness by participation. Wherefore God alone can satisfy the will of man, according to the words of Ps. 102:5: "Who satisfieth thy desire with good things." Therefore God alone constitutes man's happiness.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The summit of man does indeed touch the base of the angelic nature, by a kind of likeness; but man does not rest there as in his last end, but reaches out to the universal fount itself of good, which is the common object of happiness of all the blessed, as being the infinite and perfect good.
 

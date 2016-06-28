@@ -8,9 +8,9 @@ After the foregoing we have now to treat of the mode of the angelic knowledge, c
 (5) Whether there can be error in the angel's intellect?
 (6) Whether his knowledge can be styled as morning and evening?
 (7) Whether the morning and evening knowledge are the same, or do they differ?
-# Whether The Angel's Intellect Is Sometimes In Potentiality, Sometimes In Act?
+## Whether The Angel's Intellect Is Sometimes In Potentiality, Sometimes In Act?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angel's intellect is sometimes in potentiality and sometimes in act. For movement is the act of what is in potentiality, as stated in Phys. iii, 6. But the angels' minds are moved by understanding, as Dionysius says (Div. Nom. iv). Therefore the angelic minds are sometimes in potentiality.
 
@@ -18,7 +18,7 @@ Objection 2: Further, since desire is of a thing not possessed but possible to h
 
 Objection 3: Further, in the book De Causis it is stated that "an intelligence understands according to the mode of its substance." But the angel's intelligence has some admixture of potentiality. Therefore it sometimes understands potentially.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Gen. ad lit. ii): "Since the angels were created, in the eternity of the Word, they enjoy holy and devout contemplation." Now a contemplating intellect is not in potentiality, but in act. Therefore the intellect of an angel is not in potentiality.
 
@@ -26,16 +26,16 @@ I answer that, As the Philosopher states (De Anima iii, text. 8; Phys. viii, 32)
 
 In the second way an angel's intellect can be in potentiality with regard to things learnt by natural knowledge; for he is not always actually considering everything that he knows by natural knowledge. But as to the knowledge of the Word, and of the things he beholds in the Word, he is never in this way in potentiality; because he is always actually beholding the Word, and the things he sees in the Word. For the bliss of the angels consists in such vision; and beatitude does not consist in habit, but in act, as the Philosopher says (Ethic. i, 8).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Movement is taken there not as the act of something imperfect, that is, of something existing in potentiality, but as the act of something perfect, that is, of one actually existing. In this way understanding and feeling are termed movements, as stated in De Anima iii, text. 28.
 
 Reply to Objection 2: Such desire on the part of the angels does not exclude the object desired, but weariness thereof. Or they are said to desire the vision of God with regard to fresh revelations, which they receive from God to fit them for the tasks which they have to perform.
 
 Reply to Objection 3: In the angel's substance there is no potentiality divested of act. In the same way, the angel's intellect is never so in potentiality as to be without act.
-# Whether An Angel Can Understand Many Things At The Same Time?
+## Whether An Angel Can Understand Many Things At The Same Time?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an angel cannot understand many things at the same time. For the Philosopher says (Topic. ii, 4) that "it may happen that we know many things, but understand only one."
 
@@ -43,7 +43,7 @@ Objection 2: Further, nothing is understood unless the intellect be informed by 
 
 Objection 3: Further, to understand is a kind of movement. But no movement terminates in various terms. Therefore many things cannot be understood altogether.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Gen. ad lit. iv, 32): "The spiritual faculty of the angelic mind comprehends most easily at the same time all things that it wills."
 
@@ -51,14 +51,14 @@ I answer that, As unity of term is requisite for unity of movement, so is unity 
 
 Consequently, by such knowledge as the angels have of things through the Word, they know all things under one intelligible species, which is the Divine essence. Therefore, as regards such knowledge, they know all things at once: just as in heaven "our thoughts will not be fleeting, going and returning from one thing to another, but we shall survey all our knowledge at the same time by one glance," as Augustine says (De Trin. xv, 16). But by that knowledge wherewith the angels know things by innate species, they can at one time know all things which can be comprised under one species; but not such as are under various species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: To understand many things as one, is, so to speak, to understand one thing.
 
 Reply to Objection 2: The intellect is informed by the intelligible species which it has within it. So it can behold at the same time many intelligible objects under one species; as one body can by one shape be likened to many bodies.
-# Whether An Angel's Knowledge Is Discursive?
+## Whether An Angel's Knowledge Is Discursive?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the knowledge of an angel is discursive. For the discursive movement of the mind comes from one thing being known through another. But the angels know one thing through another; for they know creatures through the Word. Therefore the intellect of an angel knows by discursive method.
 
@@ -66,7 +66,7 @@ Objection 2: Further, whatever a lower power can do, the higher can do. But the 
 
 Objection 3: Further, Isidore (De sum. bono i, 10) says that "demons learn more things by experience." But experimental knowledge is discursive: for, "one experience comes of many remembrances, and one universal from many experiences," as Aristotle observes (Poster. ii; Metaph. vii). Therefore an angel's knowledge is discursive.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. vii) that the "angels do not acquire Divine knowledge from separate discourses, nor are they led to something particular from something common."
 
@@ -74,16 +74,16 @@ I answer that, As has often been stated [510](A[1]; [511]Q[55], A[1]), the angel
 
 Therefore they are called "intellectual beings": because even with ourselves the things which are instantly grasped by the mind are said to be understood [intelligi]; hence "intellect" is defined as the habit of first principles. But human souls which acquire knowledge of truth by the discursive method are called "rational"; and this comes of the feebleness of their intellectual light. For if they possessed the fulness of intellectual light, like the angels, then in the first aspect of principles they would at once comprehend their whole range, by perceiving whatever could be reasoned out from them.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Discursion expresses movement of a kind. Now all movement is from something before to something after. Hence discursive knowledge comes about according as from something previously known one attains to the knowledge of what is afterwards known, and which was previously unknown. But if in the thing perceived something else be seen at the same time, as an object and its image are seen simultaneously in a mirror, it is not discursive knowledge. And in this way the angels know things in the Word.
 
 Reply to Objection 2: The angels can syllogize, in the sense of knowing a syllogism; and they see effects in causes, and causes in effects: yet they do not acquire knowledge of an unknown truth in this way, by syllogizing from causes to effect, or from effect to cause.
 
 Reply to Objection 3: Experience is affirmed of angels and demons simply by way of similitude, forasmuch as they know sensible things which are present, yet without any discursion withal.
-# Whether The Angels Understand By Composing And Dividing?
+## Whether The Angels Understand By Composing And Dividing?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels understand by composing and dividing. For, where there is multiplicity of things understood, there is composition of the same, as is said in De Anima iii, text. 21. But there is a multitude of things understood in the angelic mind; because angels apprehend different things by various species, and not all at one time. Therefore there is composition and division in the angel's mind.
 
@@ -91,7 +91,7 @@ Objection 2: Further, negation is far more remote from affirmation than any two 
 
 Objection 3: Further, speech is a sign of the intellect. But in speaking to men, angels use affirmative and negative expressions, which are signs of composition and of division in the intellect; as is manifest from many passages of Sacred Scripture. Therefore it seems that the angel understands by composing and dividing.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. vii) that "the intellectual power of the angel shines forth with the clear simplicity of divine concepts." But a simple intelligence is without composition and division. Therefore the angel understands without composition or division.
 
@@ -99,16 +99,16 @@ I answer that, As in the intellect, when reasoning, the conclusion is compared w
 
 Nevertheless, he understands the composition and the division of enunciations, just as he apprehends the reasoning of syllogisms: for he understands simply, such things as are composite, things movable immovably, and material things immaterially.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not every multitude of things understood causes composition, but a multitude of such things understood that one of them is attributed to, or denied of, another. When an angel apprehends the nature of anything, he at the same time understands whatever can be either attributed to it, or denied of it. Hence, in apprehending a nature, he by one simple perception grasps all that we can learn by composing and dividing.
 
 Reply to Objection 2: The various natures of things differ less as to their mode of existing than do affirmation and negation. Yet, as to the way in which they are known, affirmation and negation have something more in common; because directly the truth of an affirmation is known, the falsehood of the opposite negation is known also.
 
 Reply to Objection 3: The fact that angels use affirmative and negative forms of speech, shows that they know both composition and division: yet not that they know by composing and dividing, but by knowing simply the nature of a thing.
-# Whether There Can Be Falsehood In The Intellect Of An Angel?
+## Whether There Can Be Falsehood In The Intellect Of An Angel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there can be falsehood in the angel's intellect. For perversity appertains to falsehood. But, as Dionysius says (Div. Nom. iv), there is "a perverted fancy" in the demons. Therefore it seems that there can be falsehood in the intellect of the angels.
 
@@ -116,7 +116,7 @@ Objection 2: Further, nescience is the cause of estimating falsely. But, as Dion
 
 Objection 3: Further, everything which falls short of the truth of wisdom, and which has a depraved reason, has falsehood or error in its intellect. But Dionysius (Div. Nom. vii) affirms this of the demons. Therefore it seems that there can be error in the minds of the angels.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima iii, text. 41) that "the intelligence is always true." Augustine likewise says (QQ. 83, qu. 32) that "nothing but what is true can be the object of intelligence" Therefore there can be neither deception nor falsehood in the angel's knowledge.
 
@@ -125,9 +125,9 @@ I answer that, The truth of this question depends partly upon what has gone befo
 So therefore, no falsehood, error, or deception can exist of itself in the mind of any angel; yet it does so happen accidentally; but very differently from the way it befalls us. For we sometimes get at the quiddity of a thing by a composing and dividing process, as when, by division and demonstration, we seek out the truth of a definition. Such is not the method of the angels; but through the (knowledge of the) essence of a thing they know everything that can be said regarding it. Now it is quite evident that the quiddity of a thing can be a source of knowledge with regard to everything belonging to such thing, or excluded from it; but not of what may be dependent on God's supernatural ordinance. Consequently, owing to their upright will, from their knowing the nature of every creature, the good angels form no judgments as to the nature of the qualities therein, save under the Divine ordinance; hence there can be no error or falsehood in them. But since the minds of demons are utterly perverted from the Divine wisdom, they at times form their opinions of things simply according to the natural conditions of the same. Nor are they ever deceived as to the natural properties of anything; but they can be misled with regard to supernatural matters; for example, on seeing a dead man, they may suppose that he will not rise again, or, on beholding Christ, they may judge Him not to be God.
 
 From all this the answers to the objections of both sides of the question are evident. For the perversity of the demons comes of their not being subject to the Divine wisdom; while nescience is in the angels as regards things knowable, not naturally but supernaturally. It is, furthermore, evident that their understanding of what a thing is, is always true, save accidentally, according as it is, in an undue manner, referred to some composition or division.
-# Whether There Is A "Morning" And An "Evening" Knowledge In The Angels?
+## Whether There Is A "Morning" And An "Evening" Knowledge In The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is neither an evening nor a morning knowledge in the angels; because evening and morning have an admixture of darkness. But there is no darkness in the knowledge of an angel; since there is no error nor falsehood. Therefore the angelic knowledge ought not to be termed morning and evening knowledge.
 
@@ -135,22 +135,22 @@ Objection 2: Further, between evening and morning the night intervenes; while no
 
 Objection 3: Further, knowledge is diversified according to the difference of the objects known: hence the Philosopher says (De Anima iii, text. 38), "The sciences are divided just as things are." But there is a threefold existence of things: to wit, in the Word; in their own natures; and in the angelic knowledge, as Augustine observes (Gen. ad lit. ii, 8). If, therefore, a morning and an evening knowledge be admitted in the angels, because of the existence of things in the Word, and in their own nature, then there ought to be admitted a third class of knowledge, on account of the existence of things in the angelic mind.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (Gen. ad lit. iv, 22,31; De Civ. Dei xii, 7,20) divides the knowledge of the angels into morning and evening knowledge.
 
 I answer that, The expression "morning" and "evening" knowledge was devised by Augustine; who interprets the six days wherein God made all things, not as ordinary days measured by the solar circuit, since the sun was only made on the fourth day, but as one day, namely, the day of angelic knowledge as directed to six classes of things. As in the ordinary day, morning is the beginning, and evening the close of day, so, their knowledge of the primordial being of things is called morning knowledge; and this is according as things exist in the Word. But their knowledge of the very being of the thing created, as it stands in its own nature, is termed evening knowledge; because the being of things flows from the Word, as from a kind of primordial principle; and this flow is terminated in the being which they have in themselves.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Evening and morning knowledge in the angelic knowledge are not taken as compared to an admixture of darkness, but as compared to beginning and end. Or else it can be said, as Augustine puts it (Gen. ad lit. iv, 23), that there is nothing to prevent us from calling something light in comparison with one thing, and darkness with respect to another. In the same way the life of the faithful and the just is called light in comparison with the wicked, according to Eph. 5:8: "You were heretofore darkness; but now, light in the Lord": yet this very life of the faithful, when set in contrast to the life of glory, is termed darkness, according to 2 Pet. 1:19: "You have the firm prophetic word, whereunto you do well to attend, as to a light that shineth in a dark place." So the angel's knowledge by which he knows things in their own nature, is day in comparison with ignorance or error; yet it is dark in comparison with the vision of the Word.
 
 Reply to Objection 2: The morning and evening knowledge belong to the day, that is, to the enlightened angels, who are quite apart from the darkness, that is, from the evil spirits. The good angels, while knowing the creature, do not adhere to it, for that would be to turn to darkness and to night; but they refer this back to the praise of God, in Whom, as in their principle, they know all things. Consequently after "evening" there is no night, but "morning"; so that morning is the end of the preceding day, and the beginning of the following, in so far as the angels refer to God's praise their knowledge of the preceding work. Noonday is comprised under the name of day, as the middle between the two extremes. Or else the noon can be referred to their knowledge of God Himself, Who has neither beginning nor end.
 
 Reply to Objection 3: The angels themselves are also creatures. Accordingly the existence of things in the angelic knowledge is comprised under evening knowledge, as also the existence of things in their own nature.
-# Whether The Morning And Evening Knowledge Are One?
+## Whether The Morning And Evening Knowledge Are One?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the morning and the evening knowledge are one. For it is said (Gn. 1:5): "There was evening and morning, one day." But by the expression "day" the knowledge of the angels is to be understood, as Augustine says (Gen. ad lit. iv, 23). Therefore the morning and evening knowledge of the angels are one and the same.
 
@@ -158,7 +158,7 @@ Objection 2: Further, it is impossible for one faculty to have two operations at
 
 Objection 3: Further, the Apostle says (1 Cor. 13:10): "When that which is perfect is come, then that which is in part shall be done away." But, if the evening knowledge be different from the morning, it is compared to it as the less perfect to the perfect. Therefore the evening knowledge cannot exist together with the morning knowledge.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Gen. ad lit. iv, 24): "There is a vast difference between knowing anything as it is in the Word of God, and as it is in its own nature; so that the former belongs to the day, and the latter to the evening."
 
@@ -166,7 +166,7 @@ I answer that, As was observed [517](A[6]), the evening knowledge is that by whi
 
 Now they know this through a twofold medium, namely, by innate ideas, or by the forms of things existing in the Word. For by beholding the Word, they know not merely the being of things as existing in the Word, but the being as possessed by the things themselves; as God by contemplating Himself sees that being which things have in their own nature. It, therefore, it be called evening knowledge, in so far as when the angels behold the Word, they know the being which things have in their proper nature, then the morning and the evening knowledge are essentially one and the same, and only differ as to the things known. If it be called evening knowledge, in so far as through innate ideas they know the being which things have in their own natures, then the morning and the evening knowledge differ. Thus Augustine seems to understand it when he assigns one as inferior to the other.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The six days, as Augustine understands them, are taken as the six classes of things known by the angels; so that the day's unit is taken according to the unit of the thing understood; which, nevertheless, can be apprehended by various ways of knowing it.
 

@@ -5,9 +5,9 @@ We must next consider the impediment of consanguinity. Under this head there are
 (2) Whether it is fittingly distinguished by degrees and lines?
 (3) Whether certain degrees are by natural law an impediment to marriage?
 (4) Whether the impediment degrees can be fixed by the ordinance of the Church?
-# Whether Consanguinity Is Rightly Defined?
+## Whether Consanguinity Is Rightly Defined?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that consanguinity is unsuitably defined by some as follows: "Consanguinity is the tie contracted between persons descending from the same common ancestor by carnal procreation." For all men descend from the same common ancestor, namely Adam, by carnal procreation. Therefore if the above definition of consanguinity is right, all men would be related by consanguinity: which is false.
 
@@ -19,13 +19,13 @@ Objection 4: Further, Laban said to Jacob (Gn. 29:14): "Thou art my bone and my 
 
 Objection 5: Further, carnal procreation is common to men and animals. But no tie of consanguinity is contracted among animals from carnal procreation. Therefore neither is there among men.
 
-## Answer
+### Answer
 
 
 
 I answer that, According to the Philosopher (Ethic. iii, 11, 12) "all friendship is based on some kind of fellowship." And since friendship is a knot or union, it follows that the fellowship which is the cause of friendship is called "a tie." Wherefore in respect of any kind of a fellowship certain persons are denominated as though they were tied together: thus we speak of fellow-citizens who are connected by a common political life, of fellow-soldiers who are connected by the common business of soldiering, and in the same way those who are connected by the fellowship of nature are said to be tied by blood [consanguinei]. Hence in the above definition "tie" is included as being the genus of consanguinity; the "persons descending from the same common ancestor," who are thus tied together are the subject of this tie. while "carnal procreation" is mentioned as being its origin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: An active force is not received into an instrument in the same degree of perfection as it has in the principal agent. And since every moved mover is an instrument, it follows that the power of the first mover in a particular genus when drawn out through many mediate movers fails at length, and reaches something that is moved and not a mover. But the power of a begetter moves not only as to that which belongs to the species, but also as to that which belongs to the individual, by reason of which the child is like the parent even in accidentals and not only in the specific nature. And yet this individual power of the father is not so perfect in the son as it was in the father, and still less so in the grandson, and thus it goes on failing: so that at length it ceases and can go no further. Since then consanguinity results from this power being communicated to many through being conveyed to them from one person by procreation, it destroys itself by little and little, as Isidore says (Etym. ix). Consequently in defining consanguinity we must not take a remote common ancestor but the nearest, whose power still remains in those who are descended from him.
 
@@ -36,9 +36,9 @@ Reply to Objection 3: Likeness depends more on form whereby a thing is actually,
 Reply to Objection 4: It is the blood that is proximately changed into the semen, as proved in De Gener. Anim. i, 18. Hence the tie contracted by carnal procreation is more fittingly called blood-relationship than flesh-relationship. That sometimes one relation is called the flesh of another, is because the blood which is transformed into the man's seed or into the menstrual fluid is potentially flesh and bone.
 
 Reply to Objection 5: Some say that the reason why the tie of consanguinity is contracted among men through carnal procreation, and not among other animals, is because whatever belongs to the truth of human nature in all men was in our first parent: which does not apply to other animals. But according to this, matrimonial consanguinity would never come to an end. However the above theory was disproved in the Second Book (Sent. ii, D, 30: [4972]FP, Q[119], A[1]). Wherefore we must reply that the reason for this is that animals are not united together in the union of friendship through the begetting of many from one proximate parent, as is the case with men, as stated above.
-# Whether Consanguinity Is Fittingly Distinguished By Degrees And Lines?
+## Whether Consanguinity Is Fittingly Distinguished By Degrees And Lines?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that consanguinity is unfittingly distinguished by degrees and lines. For a line of consanguinity is described as "the ordered series of persons related by blood, and descending from a common ancestor in various degrees." Now consanguinity is nothing else but a series of such persons. Therefore a line of consanguinity is the same as consanguinity. Now a thing ought not to be distinguished by itself. Therefore consanguinity is not fittingly distinguished into lines.
 
@@ -54,7 +54,7 @@ Objection 6: Further, in ordinary things a different degree results from the add
 
 Objection 7: Further, if two persons be akin to one another there is always the same measure of kinship between them, since the distance from one extreme to the other is the same either way. Yet the degrees of consanguinity are not always the same on either side, since sometimes one relative is in the third and the other in the fourth degree. Therefore the measure of consanguinity cannot be sufficiently known by its degrees.
 
-## Answer
+### Answer
 
 
 
@@ -62,7 +62,7 @@ I answer that, Consanguinity as stated [4973](A[1]) is a certain propinquity bas
 
 Nevertheless there are different ways of counting the degrees in various lines. For the degree of consanguinity in the ascending and descending line is contracted from the fact that one of the parties whose consanguinity is in question, is descended from the other. Wherefore according to the canonical as well as the legal reckoning, the person who occupies the first place, whether in the ascending or in the descending line, is distant from a certain one, say Peter, in the first degree---for instance father and son; while the one who occupies the second place in either direction is distant in the second degree, for instance grandfather, grandson and so on. But the consanguinity that exists between persons who are in collateral lines is contracted not through one being descended from the other, but through both being descended from one: wherefore the degrees of consanguinity in this line must be reckoned in relation to the one principle whence it arises. Here, however, the canonical and legal reckonings differ: for the legal reckoning takes into account the descent from the common stock on both sides, whereas the canonical reckoning takes into account only one, that namely on which the greater number of degrees are found. Hence according to the legal reckoning brother and sister, or two brothers, are related in the second degree, because each is separated from the common stock by one degree; and in like manner the children of two brothers are distant from one another in the fourth degree. But according to the canonical reckoning, two brothers are related in the first degree, since neither is distant more than one degree from the common stock: but the children of one brother are distant in the second degree from the other brother, because they are at that distance from the common stock. Hence, according to the canonical reckoning, by whatever degree a person is distant from some higher degree, by so much and never by less is he distant from each person descending from that degree, because "the cause of a thing being so is yet more so." Wherefore although the other descendants from the common stock be related to some person on account of his being descended from the common stock, these descendants of the other branch cannot be more nearly related to him than he is to the common stock. Sometimes, however, a person is more distantly related to a descendant from the common stock, than he himself is to the common stock, because this other person may be more distantly related to the common stock than he is: and consanguinity must be reckoned according to the more distant degree.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection is based on a false premise: for consanguinity is not the series but a mutual relationship existing between certain persons, the series of whom forms a line of consanguinity.
 
@@ -77,9 +77,9 @@ Reply to Objection 5: Even as whiteness is said to be greater in two ways, in on
 Reply to Objection 6: Although a man's father and uncle are in the same degree in respect of the root of consanguinity, since both are separated by one degree from the grandfather, nevertheless in respect of the person whose consanguinity is in question, they are not in the same degree, since the father is in the first degree, whereas the uncle cannot be nearer than the second degree, wherein the grandfather stands.
 
 Reply to Objection 7: Two persons are always related in the same degree to one another, although they are not always distant in the same number of degrees from the common ancestor, as explained above.
-# Whether Consanguinity Is An Impediment To Marriage By Virtue Of The Natural Law?
+## Whether Consanguinity Is An Impediment To Marriage By Virtue Of The Natural Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that consanguinity is not by natural law an impediment to marriage. For no woman can be more akin to a man than Eve was to Adam, since of her did he say (Gn. 2:23): "This now is bone of my bones and flesh of my flesh." Yet Eve was joined in marriage to Adam. Therefore as regards the natural law no consanguinity is an impediment to marriage.
 
@@ -91,7 +91,7 @@ Objection 4: Further, nothing that is not contrary to one of the goods of matrim
 
 Objection 5: Further, things which are more akin and more similar to one another are better and more firmly united together. Now matrimony is a kind of union. Since then consanguinity is a kind of kinship, it does not hinder marriage but rather strengthens the union.
 
-## Answer
+### Answer
 
 On the contrary, According to the natural law whatever is an obstacle to the good of the offspring is an impediment to marriage. Now consanguinity hinders the good of the offspring, because in the words of Gregory (Regist., epis. xxxi) quoted in the text (Sent. iv, D, 40): "We have learnt by experience that the children of such a union cannot thrive." Therefore according to the law of nature consanguinity is an impediment to matrimony.
 
@@ -101,7 +101,7 @@ But the accidental end of marriage is the binding together of mankind and the ex
 
 Accordingly it is clear from what has been said that consanguinity is by natural law an impediment to marriage in regard to certain persons, by Divine law in respect of some, and by human law in respect of others.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although Eve was formed from Adam she was not Adam's daughter, because she was not formed from him after the manner in which it is natural for a man to beget his like in species, but by the Divine operation, since from Adam's rib a horse might have been formed in the same way as Eve was. Hence the natural connection between Eve and Adam was not so great as between daughter and father, nor was Adam the natural principle of Eve as a father is of his daughter.
 
@@ -112,9 +112,9 @@ Reply to Objection 3: Union of male and female is said to be of natural law, bec
 Reply to Objection 4: It has been shown how consanguinity between married persons is contrary to the goods of marriage. Hence the Objection proceeds from false premises.
 
 Reply to Objection 5: It is not unreasonable for one of two unions to be hindered by the other, even as where there is identity there is not likeness. In like manner the tie of consanguinity may hinder the union of marriage.
-# Whether The Degrees Of Consanguinity That Are An Impediment To Marriage Could Be Fixed By The Church?
+## Whether The Degrees Of Consanguinity That Are An Impediment To Marriage Could Be Fixed By The Church?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the degrees of consanguinity that are an impediment to marriage could not be fixed by the Church so as to reach to the fourth degree. For it is written (Mat. 19:6): "What God hath joined together let no man put asunder." But God joined those together who are married within the fourth degree of consanguinity, since their union is not forbidden by the Divine law. Therefore they should not be put asunder by a human law.
 
@@ -130,13 +130,13 @@ Objection 6: Further, one and the same union cannot be a kind of sacrament and a
 
 Objection 7: Further, human law should copy the Divine law. Now according to the Divine law which is contained in the Old Law, the prohibition of degrees does not apply equally in the ascending and descending lines: since in the Old Law a man was forbidden to marry his father's sister but not his brother's daughter. Therefore neither should there remain now a prohibition in respect of nephews and uncles.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said to His disciples (Lk. 10:16): "He that heareth you heareth Me." Therefore a commandment of the Church has the same force as a commandment of God. Now the Church sometimes has forbidden and sometimes allowed certain degrees which the Old Law did not forbid. Therefore those degrees are an impediment to marriage.
 
 I answer that, The degrees within which consanguinity has been an impediment to marriage have varied according to various times. For at the beginning of the human race father and mother alone were debarred from marrying their children, because then mankind were few in number, and then it was necessary for the propagation of the human race to be ensured with very great care, and consequently only such persons were to be debarred as were unfitted for marriage even in respect of its principal end which is the good of the offspring, as stated above [4975](A[3]). Afterwards however, the human race having multiplied, more persons were excluded by the law of Moses, for they already began to curb concupiscence. Wherefore as Rabbi Moses says (Doc. Perp. iii, 49) all those persons were debarred from marrying one another who are wont to live together in one household, because if a lawful carnal intercourse were possible between them, this would prove a very great incentive to lust. Yet the Old Law permitted other degrees of consanguinity, in fact to a certain extent it commanded them; to wit that each man should take a wife from his kindred, in order to avoid confusion of inheritances: because at that time the Divine worship was handed down as the inheritance of the race. But afterwards more degrees were forbidden by the New Law which is the law of the spirit and of love, because the worship of God is no longer handed down and spread abroad by a carnal birth but by a spiritual grace: wherefore it was necessary that men should be yet more withdrawn from carnal things by devoting themselves to things spiritual, and that love should have a yet wider play. Hence in olden times marriage was forbidden even within the more remote degrees of consanguinity, in order that consanguinity and affinity might be the sources of a wider natural friendship; and this was reasonably extended to the seventh degree, both because beyond this it was difficult to have any recollection of the common stock, and because this was in keeping with the sevenfold grace of the Holy Ghost. Afterwards, however, towards these latter times the prohibition of the Church has been restricted to the fourth degree, because it became useless and dangerous to extend the prohibition to more remote degrees of consanguinity. Useless, because charity waxed cold in many hearts so that they had scarcely a greater bond of friendship with their more remote kindred than with strangers: and it was dangerous because through the prevalence of concupiscence and neglect men took no account of so numerous a kindred, and thus the prohibition of the more remote degrees became for many a snare leading to damnation. Moreover there is a certain fittingness in the restriction of the above prohibition to the fourth degree. First because men are wont to live until the fourth generation, so that consanguinity cannot lapse into oblivion, wherefore God threatened (Ex. 20:5) to visit the parent's sins on their children to the third and fourth generation. Secondly, because in each generation the blood, the identity of which causes consanguinity, receives a further addition of new blood, and the more another blood is added the less there is of the old. And because there are four elements, each of which is the more easily mixed with another, according as it is more rarefied it follows that at the first admixture the identity of blood disappears as regards the first element which is most subtle; at the second admixture, as regards the second element; at the third, as to the third element; at the fourth, as to the fourth element. Thus after the fourth generation it is fitting for the carnal union to be repeated.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even as God does not join together those who are joined together against the Divine command, so does He not join together those who are joined together against the commandment of the Church, which has the same binding force as a commandment of God.
 

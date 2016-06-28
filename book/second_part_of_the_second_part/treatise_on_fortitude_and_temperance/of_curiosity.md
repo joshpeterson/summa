@@ -3,9 +3,9 @@
 We must next consider curiosity, under which head there are two points of inquiry:
 (1) Whether the vice of curiosity can regard intellective knowledge?
 (2) Whether it is about sensitive knowledge?
-# Whether Curiosity Can Be About Intellective Knowledge?
+## Whether Curiosity Can Be About Intellective Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that curiosity cannot be about intellective knowledge. Because, according to the Philosopher (Ethic. ii, 6), there can be no mean and extremes in things which are essentially good. Now intellective knowledge is essentially good: because man's perfection would seem to consist in his intellect being reduced from potentiality to act, and this is done by the knowledge of truth. For Dionysius says (Div. Nom. iv) that "the good of the human soul is to be in accordance with reason," whose perfection consists in knowing the truth. Therefore the vice of curiosity cannot be about intellective knowledge.
 
@@ -13,7 +13,7 @@ Objection 2: Further, that which makes man like to God, and which he receives fr
 
 Objection 3: Further, if the vice of curiosity can be about any kind of intellective knowledge, it would be chiefly about the philosophical sciences. But, seemingly, there is no sin in being intent on them: for Jerome says (Super Daniel 1:8): "Those who refused to partake of the king's meat and wine, lest they should be defiled, if they had considered the wisdom and teaching of the Babylonians to be sinful, would never have consented to learn that which was unlawful": and Augustine says (De Doctr. Christ. ii, 40) that "if the philosophers made any true statements, we must claim them for our own use, as from unjust possessors." Therefore curiosity about intellective knowledge cannot be sinful.
 
-## Answer
+### Answer
 
 On the contrary, Jerome [*Comment. in Ep. ad Ephes. iv, 17] says: "Is it not evident that a man who day and night wrestles with the dialectic art, the student of natural science whose gaze pierces the heavens, walks in vanity of understanding and darkness of mind?" Now vanity of understanding and darkness of mind are sinful. Therefore curiosity about intellective sciences may be sinful.
 
@@ -27,16 +27,16 @@ Thirdly, when a man desires to know the truth about creatures, without referring
 
 Fourthly, when a man studies to know the truth above the capacity of his own intelligence, since by so doing men easily fall into error: wherefore it is written (Ecclus. 3:22): "Seek not the things that are too high for thee, and search not into things above thy ability . . . and in many of His works be not curious," and further on (Ecclus. 3:26), "For . . . the suspicion of them hath deceived many, and hath detained their minds in vanity."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Man's good consists in the knowledge of truth; yet man's sovereign good consists, not in the knowledge of any truth, but in the perfect knowledge of the sovereign truth, as the Philosopher states (Ethic. x, 7,8). Hence there may be sin in the knowledge of certain truths, in so far as the desire of such knowledge is not directed in due manner to the knowledge of the sovereign truth, wherein supreme happiness consists.
 
 Reply to Objection 2: Although this argument shows that the knowledge of truth is good in itself, this does not prevent a man from misusing the knowledge of truth for an evil purpose, or from desiring the knowledge of truth inordinately, since even the desire for good should be regulated in due manner.
 
 Reply to Objection 3: The study of philosophy is in itself lawful and commendable, on account of the truth which the philosophers acquired through God revealing it to them, as stated in Rom. 1:19. Since, however, certain philosophers misuse the truth in order to assail the faith, the Apostle says (Col. 2:8): "Beware lest any man cheat you by philosophy and vain deceit, according to the tradition of men . . . and not according to Christ": and Dionysius says (Ep. vii ad Polycarp.) of certain philosophers that "they make an unholy use of divine things against that which is divine, and by divine wisdom strive to destroy the worship of God."
-# Whether The Vice Of Curiosity Is About Sensitive Knowledge?
+## Whether The Vice Of Curiosity Is About Sensitive Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the vice of curiosity is not about sensitive knowledge. For just as some things are known by the sense of sight, so too are some things known by the senses of touch and taste. Now the vice concerned about objects of touch and taste is not curiosity but lust or gluttony. Therefore seemingly neither is the vice of curiosity about things known by the sight.
 
@@ -44,13 +44,13 @@ Objection 2: Further, curiosity would seem to refer to watching games; wherefore
 
 Objection 3: Further, it would seem to pertain to curiosity to inquire into our neighbor's actions, as Bede observes [*Comment. in 1 Jn. 2:16]. Now, seemingly, it is not a sin to inquire into the actions of others, because according to Ecclus. 17:12, God "gave to every one of them commandment concerning his neighbor." Therefore the vice of curiosity does not regard the knowledge of such like particular sensible objects.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Vera Relig. 38) that "concupiscence of the eyes makes men curious." Now according to Bede (Comment. in 1 Jn. 2:16) "concupiscence of the eyes refers not only to the learning of magic arts, but also to sight-seeing, and to the discovery and dispraise of our neighbor's faults," and all these are particular objects of sense. Therefore since concupiscence of the eves is a sin, even as concupiscence of the flesh and pride of life, which are members of the same division (1 Jn. 2:16), it seems that the vice of curiosity is about the knowledge of sensible things.
 
 I answer that, The knowledge of sensible things is directed to two things. For in the first place, both in man and in other animals, it is directed to the upkeep of the body, because by knowledge of this kind, man and other animals avoid what is harmful to them, and seek those things that are necessary for the body's sustenance. In the second place, it is directed in a manner special to man, to intellective knowledge, whether speculative or practical. Accordingly to employ study for the purpose of knowing sensible things may be sinful in two ways. First, when the sensitive knowledge is not directed to something useful, but turns man away from some useful consideration. Hence Augustine says (Confess. x, 35), "I go no more to see a dog coursing a hare in the circus; but in the open country, if I happen to be passing, that coursing haply will distract me from some weighty thought, and draw me after it . . . and unless Thou, having made me see my weakness, didst speedily admonish me, I become foolishly dull." Secondly, when the knowledge of sensible things is directed to something harmful, as looking on a woman is directed to lust: even so the busy inquiry into other people's actions is directed to detraction. on the other hand, if one be ordinately intent on the knowledge of sensible things by reason of the necessity of sustaining nature, or for the sake of the study of intelligible truth, this studiousness about the knowledge of sensible things is virtuous.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Lust and gluttony are about pleasures arising from the use of objects of touch, whereas curiosity is about pleasures arising from the knowledge acquired through all the senses. According to Augustine (Confess. x, 35) "it is called concupiscence of the eyes" because "the sight is the sense chiefly used for obtaining knowledge, so that all sensible things are said to be seen," and as he says further on: "By this it may more evidently be discerned wherein pleasure and wherein curiosity is the object of the senses; for pleasure seeketh objects beautiful, melodious, fragrant, savory, soft; but curiosity, for trial's sake, seeketh even the contraries of these, not for the sake of suffering annoyance, but out of the lust of experiment and knowledge."
 

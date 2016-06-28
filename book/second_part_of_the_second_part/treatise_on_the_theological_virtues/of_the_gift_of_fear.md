@@ -13,9 +13,9 @@ We must now consider the gift of fear, about which there are twelve points of in
 (10) Whether it grows when charity grows?
 (11) Whether it remains in heaven?
 (12) Which of the beatitudes and fruits correspond to it?
-# Whether God Can Be Feared?
+## Whether God Can Be Feared?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God cannot be feared. For the object of fear is a future evil, as stated above ([2457]FS, Q[41], AA[2],3). But God is free of all evil, since He is goodness itself. Therefore God cannot be feared.
 
@@ -23,7 +23,7 @@ Objection 2: Further, fear is opposed to hope. Now we hope in God. Therefore we 
 
 Objection 3: Further, as the Philosopher states (Rhet. ii, 5), "we fear those things whence evil comes to us." But evil comes to us, not from God, but from ourselves, according to Osee 13:9: "Destruction is thy own, O Israel: thy help is . . . in Me." Therefore God is not to be feared.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jer. 10:7): "Who shall not fear Thee, O King of nations?" and (Malachi 1:6): "If I be a master, where is My fear?"
 
@@ -33,16 +33,16 @@ From Him there comes the evil of punishment, but this is evil not absolutely but
 
 In relation to God the evil of fault can come to us, if we be separated from Him: and in this way God can and ought to be feared.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection considers the object of fear as being the evil which a man shuns.
 
 Reply to Objection 2: In God, we may consider both His justice, in respect of which He punishes those who sin, and His mercy, in respect of which He sets us free: in us the consideration of His justice gives rise to fear, but the consideration of His mercy gives rise to hope, so that, accordingly, God is the object of both hope and fear, but under different aspects.
 
 Reply to Objection 3: The evil of fault is not from God as its author but from us, in for far as we forsake God: while the evil of punishment is from God as its author, in so far as it has character of a good, since it is something just, through being inflicted on us justly; although originally this is due to the demerit of sin: thus it is written (Wis. 1:13, 16): "God made not death . . . but the wicked with works and words have called it to them."
-# Whether Fear Is Fittingly Divided Into Filial, Initial, Servile And Worldly Fear?
+## Whether Fear Is Fittingly Divided Into Filial, Initial, Servile And Worldly Fear?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear is unfittingly divided into filial, initial, servile and worldly fear. For Damascene says (De Fide Orth. ii, 15) that there are six kinds of fear, viz. "laziness, shamefacedness," etc. of which we have treated above ([2458]FS, Q[41], A[4]), and which are not mentioned in the division in question. Therefore this division of fear seems unfitting.
 
@@ -54,7 +54,7 @@ Objection 4: Further, even as servile fear fears punishment, so do initial and w
 
 Objection 5: Further, even as concupiscence is about some good, so is fear about some evil. Now "concupiscence of the eyes," which is the desire for things of this world, is distinct from "concupiscence of the flesh," which is the desire for one's own pleasure. Therefore "worldly fear," whereby one fears to lose external goods, is distinct from "human fear," whereby one fears harm to one's own person.
 
-## Answer
+### Answer
 
 
 
@@ -62,7 +62,7 @@ I answer that, We are speaking of fear now, in so far as it makes us turn, so to
 
 Accordingly if a man turn to God and adhere to Him, through fear of punishment, it will be servile fear; but if it be on account of fear of committing a fault, it will be filial fear, for it becomes a child to fear offending its father. If, however, it be on account of both, it will be initial fear, which is between both these fears. As to whether it is possible to fear the evil of fault, the question has been treated above ([2459]FS, Q[42], A[3]) when we were considering the passion of fear.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Damascene divides fear as a passion of the soul: whereas this division of fear is taken from its relation to God, as explained above.
 
@@ -73,9 +73,9 @@ Reply to Objection 3: The relation of servant to master is based on the power wh
 Reply to Objection 4: These three fears regard punishment but in different ways. For worldly or human fear regards a punishment which turns man away from God, and which God's enemies sometimes inflict or threaten: whereas servile and initial fear regard a punishment whereby men are drawn to God, and which is inflicted or threatened by God. Servile fear regards this punishment chiefly, while initial fear regards it secondarily.
 
 Reply to Objection 5: It amounts to the same whether man turns away from God through fear of losing his worldly goods, or through fear of forfeiting the well-being of his body, since external goods belong to the body. Hence both these fears are reckoned as one here, although they fear different evils, even as they correspond to the desire of different goods. This diversity causes a specific diversity of sins, all of which alike however lead man away from God.
-# Whether Worldly Fear Is Always Evil?
+## Whether Worldly Fear Is Always Evil?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that worldly fear is not always evil. Because regard for men seems to be a kind of human fear. Now some are blamed for having no regard for man, for instance, the unjust judge of whom we read (Lk. 18:2) that he "feared not God, nor regarded man." Therefore it seems that worldly fear is not always evil.
 
@@ -83,22 +83,22 @@ Objection 2: Further, worldly fear seems to have reference to the punishments in
 
 Objection 3: Further, it seems that what is in us naturally, is not evil, since our natural gifts are from God. Now it is natural to man to fear detriment to his body, and loss of his worldly goods, whereby the present life is supported. Therefore it seems that worldly fear is not always evil.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said (Mat. 10:28): "Fear ye not them that kill the body," thus forbidding worldly fear. Now nothing but what is evil is forbidden by God. Therefore worldly fear is evil.
 
 I answer that, As shown above ([2460]FS, Q[1], A[3]; [2461]FS, Q[18], A[1]; [2462]FS, Q[54], A[2]) moral acts and habits take their name and species from their objects. Now the proper object of the appetite's movement is the final good: so that, in consequence, every appetitive movement is both specified and named from its proper end. For if anyone were to describe covetousness as love of work because men work on account of covetousness, this description would be incorrect, since the covetous man seeks work not as end but as a means: the end that he seeks is wealth, wherefore covetousness is rightly described as the desire or the love of wealth, and this is evil. Accordingly worldly love is, properly speaking, the love whereby a man trusts in the world as his end, so that worldly love is always evil. Now fear is born of love, since man fears the loss of what he loves, as Augustine states (Qq. lxxxiii, qu. 33). Now worldly fear is that which arises from worldly love as from an evil root, for which reason worldly fear is always evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: One may have regard for men in two ways. First in so far as there is in them something divine, for instance, the good of grace or of virtue, or at least of the natural image of God: and in this way those are blamed who have no regard for man. Secondly, one may have regard for men as being in opposition to God, and thus it is praiseworthy to have no regard for men, according as we read of Elias or Eliseus (Ecclus. 48:13): "In his days he feared not the prince."
 
 Reply to Objection 2: When the secular power inflicts punishment in order to withdraw men from sin, it is acting as God's minister, according to Rom. 13:4, "For he is God's minister, an avenger to execute wrath upon him that doth evil." To fear the secular power in this way is part, not of worldly fear, but of servile or initial fear.
 
 Reply to Objection 3: It is natural for man to shrink from detriment to his own body and loss of worldly goods, but to forsake justice on that account is contrary to natural reason. Hence the Philosopher says (Ethic. iii, 1) that there are certain things, viz. sinful deeds, which no fear should drive us to do, since to do such things is worse than to suffer any punishment whatever.
-# Whether Servile Fear Is Good?
+## Whether Servile Fear Is Good?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that servile fear is not good. For if the use of a thing is evil, the thing itself is evil. Now the use of servile fear is evil, for according to a gloss on Rom. 8:15, "if a man do anything through fear, although the deed be good, it is not well done." Therefore servile fear is not good.
 
@@ -106,7 +106,7 @@ Objection 2: Further, no good grows from a sinful root. Now servile fear grows f
 
 Objection 3: Further, just as mercenary love is opposed to the love of charity, so is servile fear, apparently, opposed to chaste fear. But mercenary love is always evil. Therefore servile fear is also.
 
-## Answer
+### Answer
 
 On the contrary, Nothing evil is from the Holy Ghost. But servile fear is from the Holy Ghost, since a gloss on Rom. 8:15, "You have not received the spirit of bondage," etc. says: "It is the one same spirit that bestows two fears, viz. servile and chaste fear." Therefore servile fear is not evil.
 
@@ -114,16 +114,16 @@ I answer that, It is owing to its servility that servile fear may be evil. For s
 
 This servility, however, does not belong to the species of servile fear, even as neither does lifelessness to the species of lifeless faith. For the species of a moral habit or act is taken from the object. Now the object of servile fear is punishment, and it is by accident that, either the good to which the punishment is contrary, is loved as the last end, and that consequently the punishment is feared as the greatest evil, which is the case with one who is devoid of charity, or that the punishment is directed to God as its end, and that, consequently, it is not feared as the greatest evil, which is the case with one who has charity. For the species of a habit is not destroyed through its object or end being directed to a further end. Consequently servile fear is substantially good, but is servility is evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This saying of Augustine is to be applied to a man who does something through servile fear as such, so that he loves not justice, and fears nothing but the punishment.
 
 Reply to Objection 2: Servile fear as to its substance is not born of pride, but its servility is, inasmuch as man is unwilling, by love, to subject his affections to the yoke of justice.
 
 Reply to Objection 3: Mercenary love is that whereby God is loved for the sake of worldly goods, and this is, of itself, contrary to charity, so that mercenary love is always evil. But servile fear, as to its substance, implies merely fear of punishment, whether or not this be feared as the principal evil.
-# Whether Servile Fear Is Substantially The Same As Filial Fear?
+## Whether Servile Fear Is Substantially The Same As Filial Fear?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that servile fear is substantially the same as filial fear. For filial fear is to servile fear the same apparently as living faith is to lifeless faith, since the one is accompanied by mortal sin and the other not. Now living faith and lifeless faith are substantially the same. Therefore servile and filial fear are substantially the same.
 
@@ -131,7 +131,7 @@ Objection 2: Further, habits are diversified by their objects. Now the same thin
 
 Objection 3: Further, just as man hopes to enjoy God and to obtain favors from Him, so does he fear to be separated from God and to be punished by Him. Now it is the same hope whereby we hope to enjoy God, and to receive other favors from Him, as stated above ([2463]Q[17], A[2], ad 2). Therefore filial fear, whereby we fear separation from God, is the same as servile fear whereby we fear His punishments.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (In prim. canon. Joan. Tract. ix) says that there are two fears, one servile, another filial or chaste fear.
 
@@ -139,16 +139,16 @@ I answer that, The proper object of fear is evil. And since acts and habits are 
 
 Now the evil of punishment, from which servile fear shrinks, differs specifically from evil of fault, which filial fear shuns, as shown above [2465](A[2]). Hence it is evident that servile and filial fear are not the same substantially but differ specifically.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Living and lifeless faith differ, not as regards the object, since each of them believes God and believes in a God, but in respect of something extrinsic, viz. the presence or absence of charity, and so they do not differ substantially. On the other hand, servile and filial fear differ as to their objects: and hence the comparison fails.
 
 Reply to Objection 2: Servile fear and filial fear do not regard God in the same light. For servile fear looks upon God as the cause of the infliction of punishment, whereas filial fear looks upon Him, not as the active cause of guilt, but rather as the term wherefrom it shrinks to be separated by guilt. Consequently the identity of object, viz. God, does not prove a specific identity of fear, since also natural movements differ specifically according to their different relationships to some one term, for movement from whiteness is not specifically the same as movement towards whiteness.
 
 Reply to Objection 3: Hope looks upon God as the principle not only of the enjoyment of God, but also of any other favor whatever. This cannot be said of fear; and so there is no comparison.
-# Whether Servile Fear Remains With Charity?
+## Whether Servile Fear Remains With Charity?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that servile fear does not remain with charity. For Augustine says (In prim. canon. Joan. Tract. ix) that "when charity takes up its abode, it drives away fear which had prepared a place for it."
 
@@ -156,7 +156,7 @@ Objection 2: Further, "The charity of God is poured forth in our hearts, by the 
 
 Objection 3: Further, servile fear is caused by self-love, in so far as punishment diminishes one's own good. Now love of God drives away self-love, for it makes us despise ourselves: thus Augustine testifies (De Civ. Dei xiv, 28) that "the love of God unto the contempt of self builds up the city of God." Therefore it seems that servile fear is driven out when charity comes.
 
-## Answer
+### Answer
 
 On the contrary, Servile fear is a gift of the Holy Ghost, as stated above [2466](A[4]). Now the gifts of the Holy Ghost are not forfeited through the advent of charity, whereby the Holy Ghost dwells in us. Therefore servile fear is not driven out when charity comes.
 
@@ -166,12 +166,12 @@ Now self-love may stand in a threefold relationship to charity. In one way it is
 
 Accordingly fear of punishment is, in one way, included in charity, because separation from God is a punishment, which charity shuns exceedingly; so that this belongs to chaste fear. In another way, it is contrary to charity, when a man shrinks from the punishment that is opposed to his natural good, as being the principal evil in opposition to the good which he loves as an end; and in this way fear of punishment is not consistent with charity. In another way fear of punishment is indeed substantially distinct from chaste fear, when, to wit, a man fears a penal evil, not because it separates him from God, but because it is hurtful to his own good, and yet he does not place his end in this good, so that neither does he dread this evil as being the principal evil. Such fear of punishment is consistent with charity; but it is not called servile, except when punishment is dreaded as a principal evil, as explained above ([2467]AA[2],4). Hence fear considered as servile, does not remain with charity, but the substance of servile fear can remain with charity, even as self-love can remain with charity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine is speaking of fear considered as servile: and such is the sense of the two other objections.
-# Whether Fear Is The Beginning Of Wisdom?
+## Whether Fear Is The Beginning Of Wisdom?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear is not the beginning of wisdom. For the beginning of a thing is a part thereof. But fear is not a part of wisdom, since fear is seated in the appetitive faculty, while wisdom is in the intellect. Therefore it seems that fear is not the beginning of wisdom.
 
@@ -179,7 +179,7 @@ Objection 2: Further, nothing is the beginning of itself. "Now fear of the Lord,
 
 Objection 3: Further, nothing is prior to the beginning. But something is prior to fear, since faith precedes fear. Therefore it seems that fear is not the beginning of wisdom.
 
-## Answer
+### Answer
 
 On the contrary, It is written in the Ps. 110:10: "The fear of the Lord is the beginning of wisdom."
 
@@ -187,16 +187,16 @@ I answer that, A thing may be called the beginning of wisdom in two ways: in one
 
 Now, since wisdom is the knowledge of Divine things, as we shall state further on ([2468]Q[45], A[1]), it is considered by us in one way, and in another way by philosophers. For, seeing that our life is ordained to the enjoyment of God, and is directed thereto according to a participation of the Divine Nature, conferred on us through grace, wisdom, as we look at it, is considered not only as being cognizant of God, as it is with the philosophers, but also as directing human conduct; since this is directed not only by the human law, but also by the Divine law, as Augustine shows (De Trin. xii, 14). Accordingly the beginning of wisdom as to its essence consists in the first principles of wisdom, i.e. the articles of faith, and in this sense faith is said to be the beginning of wisdom. But as regards the effect, the beginning of wisdom is the point where wisdom begins to work, and in this way fear is the beginning of wisdom, yet servile fear in one way, and filial fear, in another. For servile fear is like a principle disposing a man to wisdom from without, in so far as he refrains from sin through fear of punishment, and is thus fashioned for the effect of wisdom, according to Ecclus. 1:27, "The fear of the Lord driveth out sin." On the other hand, chaste or filial fear is the beginning of wisdom, as being the first effect of wisdom. For since the regulation of human conduct by the Divine law belongs to wisdom, in order to make a beginning, man must first of all fear God and submit himself to Him: for the result will be that in all things he will be ruled by God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument proves that fear is not the beginning of wisdom as to the essence of wisdom.
 
 Reply to Objection 2: The fear of God is compared to a man's whole life that is ruled by God's wisdom, as the root to the tree: hence it is written (Ecclus. 1:25): "The root of wisdom is to fear the Lord, for [Vulg.: 'and'] the branches thereof are longlived." Consequently, as the root is said to be virtually the tree, so the fear of God is said to be wisdom.
 
 Reply to Objection 3: As stated above, faith is the beginning of wisdom in one way, and fear, in another. Hence it is written (Ecclus. 25:16): "The fear of God is the beginning of love: and the beginning of faith is to be fast joined to it."
-# Whether Initial Fear Differs Substantially From Filial Fear?
+## Whether Initial Fear Differs Substantially From Filial Fear?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that initial fear differs substantially from filial fear. For filial fear is caused by love. Now initial fear is the beginning of love, according to Ecclus. 25:16, "The fear of God is the beginning of love." Therefore initial fear is distinct from filial fear.
 
@@ -204,7 +204,7 @@ Objection 2: Further, initial fear dreads punishment, which is the object of ser
 
 Objection 3: Further, a mean differs in the same ratio from both the extremes. Now initial fear is the mean between servile and filial fear. Therefore it differs from both filial and servile fear.
 
-## Answer
+### Answer
 
 On the contrary, Perfect and imperfect do not diversify the substance of a thing. Now initial and filial fear differ in respect of perfection and imperfection of charity, as Augustine states (In prim. canon. Joan. Tract. ix). Therefore initial fear does not differ substantially from filial fear.
 
@@ -212,16 +212,16 @@ I answer that, Initial fear is so called because it is a beginning [initium]. Si
 
 It is not in this sense, however, that we are to understand initial fear in so far as it is distinct from servile and filial fear, but in the sense according to which it belongs to the state of beginners, in whom there is a beginning of filial fear resulting from a beginning of charity, although they do not possess the perfection of filial fear, because they have not yet attained to the perfection of charity. Consequently initial fear stands in the same relation to filial fear as imperfect to perfect charity. Now perfect and imperfect charity differ, not as to essence but as to state. Therefore we must conclude that initial fear, as we understand it here, does not differ essentially from filial fear.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The fear which is a beginning of love is servile fear, which is the herald of charity, just as the bristle introduces the thread, as Augustine states (Tract. ix in Ep. i Joan.). Or else, if it be referred to initial fear, this is said to be the beginning of love, not absolutely, but relatively to the state of perfect charity.
 
 Reply to Objection 2: Initial fear does not dread punishment as its proper object, but as having something of servile fear connected with it: for this servile fear, as to its substance, remains indeed, with charity, its servility being cast aside; whereas its act remains with imperfect charity in the man who is moved to perform good actions not only through love of justice, but also through fear of punishment, though this same act ceases in the man who has perfect charity, which "casteth out fear," according to 1 Jn. 4:18.
 
 Reply to Objection 3: Initial fear is a mean between servile and filial fear, not as between two things of the same genus, but as the imperfect is a mean between a perfect being and a non-being, as stated in Metaph. ii, for it is the same substantially as the perfect being, while it differs altogether from non-being.
-# Whether Fear Is A Gift Of The Holy Ghost?
+## Whether Fear Is A Gift Of The Holy Ghost?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear is not a gift of the Holy Ghost. For no gift of the Holy Ghost is opposed to a virtue, which is also from the Holy Ghost; else the Holy Ghost would be in opposition to Himself. Now fear is opposed to hope, which is a virtue. Therefore fear is not a gift of the Holy Ghost.
 
@@ -233,7 +233,7 @@ Objection 4: Further, Gregory says (Moral. ii, 49) that "fear is bestowed as a r
 
 Objection 5: Further, the gifts are more perfect than the virtues, since they are bestowed in support of the virtues as Gregory says (Moral. ii, 49). Now hope is more perfect than fear, since hope regards good, while fear regards evil. Since, then, hope is a virtue, it should not be said that fear is a gift.
 
-## Answer
+### Answer
 
 On the contrary, The fear of the Lord is numbered among the seven gifts of the Holy Ghost (Is. 11:3).
 
@@ -243,7 +243,7 @@ Again servile fear is not to be reckoned among the seven gifts of the Holy Ghost
 
 It follows, therefore, that the fear of God, which is numbered among the seven gifts of the Holy Ghost, is filial or chaste fear. For it was stated above ([2471]FS, Q[68], AA[1],3) that the gifts of the Holy Ghost are certain habitual perfections of the soul's powers, whereby these are rendered amenable to the motion of the Holy Ghost, just as, by the moral virtues, the appetitive powers are rendered amenable to the motion of reason. Now for a thing to be amenable to the motion of a certain mover, the first condition required is that it be a non-resistant subject of that mover, because resistance of the movable subject to the mover hinders the movement. This is what filial or chaste fear does, since thereby we revere God and avoid separating ourselves from Him. Hence, according to Augustine (De Serm. Dom. in Monte i, 4) filial fear holds the first place, as it were, among the gifts of the Holy Ghost, in the ascending order, and the last place, in the descending order.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Filial fear is not opposed to the virtue of hope: since thereby we fear, not that we may fail of what we hope to obtain by God's help, but lest we withdraw ourselves from this help. Wherefore filial fear and hope cling together, and perfect one another.
 
@@ -252,9 +252,9 @@ Reply to Objection 2: The proper and principal object of fear is the evil shunne
 Reply to Objection 3: From the fact that love is the origin of fear, it does not follow that the fear of God is not a distinct habit from charity which is the love of God, since love is the origin of all the emotions, and yet we are perfected by different habits in respect of different emotions. Yet love is more of a virtue than fear is, because love regards good, to which virtue is principally directed by reason of its own nature, as was shown above ([2473]FS, Q[55], AA[3],4); for which reason hope is also reckoned as a virtue; whereas fear principally regards evil, the avoidance of which it denotes, wherefore it is something less than a theological virtue.
 
 Reply to Objection 4: According to Ecclus. 10:14, "the beginning of the pride of man is to fall off from God," that is to refuse submission to God, and this is opposed to filial fear, which reveres God. Thus fear cuts off the source of pride for which reason it is bestowed as a remedy against pride. Yet it does not follow that it is the same as the virtue of humility, but that it is its origin. For the gifts of the Holy Ghost are the origin of the intellectual and moral virtues, as stated above ([2474]FS, Q[68], A[4]), while the theological virtues are the origin of the gifts, as stated above ([2475]FS, Q[69], A[4], ad 3).
-# Whether Fear Decreases When Charity Increases?
+## Whether Fear Decreases When Charity Increases?
 
-## Objections
+### Objections
 
 Objection 1: It seems that fear decreases when charity increases. For Augustine says (In prim. canon. Joan. Tract. ix): "The more charity increases, the more fear decreases."
 
@@ -262,7 +262,7 @@ Objection 2: Further, fear decreases when hope increases. But charity increases 
 
 Objection 3: Further, love implies union, whereas fear implies separation. Now separation decreases when union increases. Therefore fear decreases when the love of charity increases.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Qq. lxxxiii, qu. 36) that "the fear of God not only begins but also perfects wisdom, whereby we love God above all things, and our neighbor as ourselves."
 
@@ -272,16 +272,16 @@ Now filial fear must needs increase when charity increases, even as an effect in
 
 On the other hand servile fear, as regards its servility, is entirely cast out when charity comes, although the fear of punishment remains as to its substance, as stated above [2478](A[6]). This fear decreases as charity increases, chiefly as regards its act, since the more a man loves God, the less he fears punishment; first, because he thinks less of his own good, to which punishment is opposed; secondly, because, the faster he clings, the more confident he is of the reward, and, consequently the less fearful of punishment.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine speaks there of the fear of punishment.
 
 Reply to Objection 2: It is fear of punishment that decreases when hope increases; but with the increase of the latter filial fear increases, because the more certainly a man expects to obtain a good by another's help, the more he fears to offend him or to be separated from him.
 
 Reply to Objection 3: Filial fear does not imply separation from God, but submission to Him, and shuns separation from that submission. Yet, in a way, it implies separation, in the point of not presuming to equal oneself to Him, and of submitting to Him, which separation is to be observed even in charity, in so far as a man loves God more than himself and more than aught else. Hence the increase of the love of charity implies not a decrease but an increase in the reverence of fear.
-# Whether Fear Remains In Heaven?
+## Whether Fear Remains In Heaven?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear does not remain in heaven. For it is written (Prov. 1:33): "He . . . shall enjoy abundance, without fear of evils," which is to be understood as referring to those who already enjoy wisdom in everlasting happiness. Now every fear is about some evil, since evil is the object of fear, as stated above ([2479]AA[2],5; [2480]FS, Q[42], A[1]). Therefore there will be no fear in heaven.
 
@@ -289,7 +289,7 @@ Objection 2: Further, in heaven men will be conformed to God, according to 1 Jn.
 
 Objection 3: Further, hope is more perfect than fear, since hope regards good, and fear, evil. Now hope will not be in heaven. Therefore neither will there be fear in heaven.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 18:10): "The fear of the Lord is holy, enduring for ever and ever."
 
@@ -299,16 +299,16 @@ But regard to filial fear, as it increases with the increase of charity, so is i
 
 In order to make this clear, we must observe that the proper object of fear is a possible evil, just as the proper object of hope is a possible good: and since the movement of fear is like one of avoidance, fear implies avoidance of a possible arduous evil, for little evils inspire no fear. Now as a thing's good consists in its staying in its own order, so a thing's evil consists in forsaking its order. Again, the order of a rational creature is that it should be under God and above other creatures. Hence, just as it is an evil for a rational creature to submit, by love, to a lower creature, so too is it an evil for it, if it submit not to God, by presumptuously revolt against Him or contemn Him. Now this evil is possible to a rational creature considered as to its nature on account of the natural flexibility of the free-will; whereas in the blessed, it becomes impossible, by reason of the perfection of glory. Therefore the avoidance of this evil that consists in non-subjection to God, and is possible to nature, but impossible in the state of bliss, will be in heaven; while in this life there is avoidance of this evil as of something altogether possible. Hence Gregory, expounding the words of Job (26:11), "The pillars of heaven tremble, and dread at His beck," says (Moral. xvii, 29): "The heavenly powers that gaze on Him without ceasing, tremble while contemplating: but their awe, lest it should be of a penal nature, is one not of fear but of wonder," because, to wit, they wonder at God's supereminence and incomprehensibility. Augustine also (De Civ. Dei xiv, 9) in this sense, admits fear in heaven, although he leaves the question doubtful. "If," he says, "this chaste fear that endureth for ever and ever is to be in the future life, it will not be a fear that is afraid of an evil which might possibly occur, but a fear that holds fast to a good which we cannot lose. For when we love the good which we have acquired, with an unchangeable love, without doubt, if it is allowable to say so, our fear is sure of avoiding evil. Because chaste fear denotes a will that cannot consent to sin, and whereby we avoid sin without trembling lest, in our weakness, we fall, and possess ourselves in the tranquillity born of charity. Else, if no kind of fear is possible there, perhaps fear is said to endure for ever and ever, because that which fear will lead us to, will be everlasting."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The passage quoted excludes from the blessed, the fear that denotes solicitude, and anxiety about evil, but not the fear which is accompanied by security.
 
 Reply to Objection 2: As Dionysius says (Div. Nom. ix) "the same things are both like and unlike God. They are like by reason of a variable imitation of the Inimitable"---that is, because, so far as they can, they imitate God Who cannot be imitated perfectly---"they are unlike because they are the effects of a Cause of Whom they fall short infinitely and immeasurably." Hence, if there be no fear in God (since there is none above Him to whom He may be subject) it does not follow that there is none in the blessed, whose happiness consists in perfect subjection to God.
 
 Reply to Objection 3: Hope implies a certain defect, namely the futurity of happiness, which ceases when happiness is present: whereas fear implies a natural defect in a creature, in so far as it is infinitely distant from God, and this defect will remain even in heaven. Hence fear will not be cast out altogether.
-# Whether Poverty Of Spirit Is The Beatitude Corresponding To The Gift Of Fear?
+## Whether Poverty Of Spirit Is The Beatitude Corresponding To The Gift Of Fear?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that poverty of spirit is not the beatitude corresponding to the gift of fear. For fear is the beginning of the spiritual life, as explained above [2482](A[7]): whereas poverty belongs to the perfection of the spiritual life, according to Mat. 19:21, "If thou wilt be perfect, go sell what thou hast, and give to the poor." Therefore poverty of spirit does not correspond to the gift of fear.
 
@@ -318,13 +318,13 @@ Objection 3: Further, the gift of fear corresponds to the virtue of hope, as sta
 
 Objection 4: Further, it was stated above ([2483]FS, Q[70], A[2]) that the fruits correspond to the beatitudes. Now none of the fruits correspond to the gift of fear. Neither, therefore, does any of the beatitudes.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Serm. Dom. in Monte i, 4): "The fear of the Lord is befitting the humble of whom it is said: Blessed are the poor in spirit."
 
 I answer that, Poverty of spirit properly corresponds to fear. Because, since it belongs to filial fear to show reverence and submission to God, whatever results from this submission belongs to the gift of fear. Now from the very fact that a man submits to God, it follows that he ceases to seek greatness either in himself or in another but seeks it only in God. For that would be inconsistent with perfect subjection to God, wherefore it is written (Ps. 19:8): "Some trust in chariots and some in horses; but we will call upon the name of . . . our God." It follows that if a man fear God perfectly, he does not, by pride, seek greatness either in himself or in external goods, viz. honors and riches. In either case, this proceeds from poverty of spirit, in so far as the latter denotes either the voiding of a puffed up and proud spirit, according to Augustine's interpretation (De Serm. Dom. in Monte i, 4), or the renunciation of worldly goods which is done in spirit, i.e. by one's own will, through the instigation of the Holy Spirit, according to the expounding of Ambrose on Lk. 6:20 and Jerome on Mat. 5:3.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since a beatitude is an act of perfect virtue, all the beatitudes belong to the perfection of spiritual life. And this perfection seems to require that whoever would strive to obtain a perfect share of spiritual goods, needs to begin by despising earthly goods, wherefore fear holds the first place among the gifts. Perfection, however, does not consist in the renunciation itself of temporal goods; since this is the way to perfection: whereas filial fear, to which the beatitude of poverty corresponds, is consistent with the perfection of wisdom, as stated above ([2484]AA[7],10).
 

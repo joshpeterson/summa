@@ -7,9 +7,9 @@ Concerning the first, three things occur to be considered: first, the fitness of
 (4) Whether He became incarnate to take away original sin rather than actual?
 (5) Whether it was fitting for God to become incarnate from the beginning of the world?
 (6) Whether His Incarnation ought to have been deferred to the end of the world?
-# Whether It Was Fitting That God Should Become Incarnate?
+## Whether It Was Fitting That God Should Become Incarnate?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was not fitting for God to become incarnate. Since God from all eternity is the very essence of goodness, it was best for Him to be as He had been from all eternity. But from all eternity He had been without flesh. Therefore it was most fitting for Him not to be united to flesh. Therefore it was not fitting for God to become incarnate.
 
@@ -19,13 +19,13 @@ Objection 3: Further, a body is as distant from the highest spirit as evil is fr
 
 Objection 4: Further, it is not becoming that He Who surpassed the greatest things should be contained in the least, and He upon Whom rests the care of great things should leave them for lesser things. But God---Who takes care of the whole world---the whole universe of things cannot contain. Therefore it would seem unfitting that "He should be hid under the frail body of a babe in swathing bands, in comparison with Whom the whole universe is accounted as little; and that this Prince should quit His throne for so long, and transfer the government of the whole world to so frail a body," as Volusianus writes to Augustine (Ep. cxxxv).
 
-## Answer
+### Answer
 
 On the contrary, It would seem most fitting that by visible things the invisible things of God should be made known; for to this end was the whole world made, as is clear from the word of the Apostle (Rom. 1:20): "For the invisible things of God . . . are clearly seen, being understood by the things that are made." But, as Damascene says (De Fide Orth. iii, 1), by the mystery of the Incarnation are made known at once the goodness, the wisdom, the justice, and the power or might of God---"His goodness, for He did not despise the weakness of His own handiwork; His justice, since, on man's defeat, He caused the tyrant to be overcome by none other than man, and yet He did not snatch men forcibly from death; His wisdom, for He found a suitable discharge for a most heavy debt; His power, or infinite might, for there is nothing greater than for God to become incarnate . . ."
 
 I answer that, To each things, that is befitting which belongs to it by reason of its very nature; thus, to reason befits man, since this belongs to him because he is of a rational nature. But the very nature of God is goodness, as is clear from Dionysius (Div. Nom. i). Hence, what belongs to the essence of goodness befits God. But it belongs to the essence of goodness to communicate itself to others, as is plain from Dionysius (Div. Nom. iv). Hence it belongs to the essence of the highest good to communicate itself in the highest manner to the creature, and this is brought about chiefly by "His so joining created nature to Himself that one Person is made up of these three---the Word, a soul and flesh," as Augustine says (De Trin. xiii). Hence it is manifest that it was fitting that God should become incarnate.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The mystery of the Incarnation was not completed through God being changed in any way from the state in which He had been from eternity, but through His having united Himself to the creature in a new way, or rather through having united it to Himself. But it is fitting that a creature which by nature is mutable, should not always be in one way. And therefore, as the creature began to be, although it had not been before, so likewise, not having been previously united to God in Person, it was afterwards united to Him.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: To be united to God in unity of person was not fitting to 
 Reply to Objection 3: Every mode of being wherein any creature whatsoever differs from the Creator has been established by God's wisdom, and is ordained to God's goodness. For God, Who is uncreated, immutable, and incorporeal, produced mutable and corporeal creatures for His own goodness. And so also the evil of punishment was established by God's justice for God's glory. But evil of fault is committed by withdrawing from the art of the Divine wisdom and from the order of the Divine goodness. And therefore it could be fitting to God to assume a nature created, mutable, corporeal, and subject to penalty, but it did not become Him to assume the evil of fault.
 
 Reply to Objection 4: As Augustine replies (Ep. ad Volusian. cxxxvii): "The Christian doctrine nowhere holds that God was so joined to human flesh as either to desert or lose, or to transfer and as it were, contract within this frail body, the care of governing the universe. This is the thought of men unable to see anything but corporeal things . . . God is great not in mass, but in might. Hence the greatness of His might feels no straits in narrow surroundings. Nor, if the passing word of a man is heard at once by many, and wholly by each, is it incredible that the abiding Word of God should be everywhere at once?" Hence nothing unfitting arises from God becoming incarnate.
-# Whether It Was Necessary For The Restoration Of The Human Race That The Word Of God Should Become Incarnate?
+## Whether It Was Necessary For The Restoration Of The Human Race That The Word Of God Should Become Incarnate?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was not necessary for the reparation of the human race that the Word of God should become incarnate. For since the Word of God is perfect God, as has been said ([3850]FP, Q[4], AA[1],2), no power was added to Him by the assumption of flesh. Therefore, if the incarnate Word of God restored human nature. He could also have restored it without assuming flesh.
 
@@ -44,7 +44,7 @@ Objection 2: Further, for the restoration of human nature, which had fallen thro
 
 Objection 3: Further, to revere God pertains especially to man's salvation; hence it is written (Mal. 1:6): "If, then, I be a father, where is my honor? and if I be a master, where is my fear?" But men revere God the more by considering Him as elevated above all, and far beyond man's senses, hence (Ps. 112:4) it is written: "The Lord is high above all nations, and His glory above the heavens"; and farther on: "Who is as the Lord our God?" which pertains to reverence. Therefore it would seem unfitting to man's salvation that God should be made like unto us by assuming flesh.
 
-## Answer
+### Answer
 
 On the contrary, What frees the human race from perdition is necessary for the salvation of man. But the mystery of the Incarnation is such; according to Jn. 3:16: "God so loved the world as to give His only-begotten Son, that whosoever believeth in Him may not perish, but may have life everlasting." Therefore it was necessary for man's salvation that God should become incarnate.
 
@@ -56,16 +56,16 @@ So also was this useful for our "withdrawal from evil." First, because man is ta
 
 And there are very many other advantages which accrued, above man's apprehension.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This reason has to do with the first kind of necessity, without which we cannot attain to the end.
 
 Reply to Objection 2: Satisfaction may be said to be sufficient in two ways---first, perfectly, inasmuch as it is condign, being adequate to make good the fault committed, and in this way the satisfaction of a mere man cannot be sufficient for sin, both because the whole of human nature has been corrupted by sin, whereas the goodness of any person or persons could not be made up adequately for the harm done to the whole of the nature; and also because a sin committed against God has a kind of infinity from the infinity of the Divine majesty, because the greater the person we offend, the more grievous the offense. Hence for condign satisfaction it was necessary that the act of the one satisfying should have an infinite efficiency, as being of God and man. Secondly, man's satisfaction may be termed sufficient, imperfectly---i.e. in the acceptation of him who is content with it, even though it is not condign, and in this way the satisfaction of a mere man is sufficient. And forasmuch as every imperfect presupposes some perfect thing, by which it is sustained, hence it is that satisfaction of every mere man has its efficiency from the satisfaction of Christ.
 
 Reply to Objection 3: By taking flesh, God did not lessen His majesty; and in consequence did not lessen the reason for reverencing Him, which is increased by the increase of knowledge of Him. But, on the contrary, inasmuch as He wished to draw nigh to us by taking flesh, He greatly drew us to know Him.
-# Whether, If Man Had Not Sinned, God Would Have Become Incarnate?
+## Whether, If Man Had Not Sinned, God Would Have Become Incarnate?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that if man had not sinned, God would still have become incarnate. For the cause remaining, the effect also remains. But as Augustine says (De Trin. xiii, 17): "Many other things are to be considered in the Incarnation of Christ besides absolution from sin"; and these were discussed above [3851](A[2]). Therefore if man had not sinned, God would have become incarnate.
 
@@ -77,7 +77,7 @@ Objection 4: Further, God's predestination is eternal. But it is said of Christ 
 
 Objection 5: Further, the mystery of the Incarnation was revealed to the first man, as is plain from Gn. 2:23. "This now is bone of my bones," etc. which the Apostle says is "a great sacrament . . . in Christ and in the Church," as is plain from Eph. 5:32. But man could not be fore-conscious of his fall, for the same reason that the angels could not, as Augustine proves (Gen. ad lit. xi, 18). Therefore, even if man had not sinned, God would have become incarnate.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Verb. Apost. viii, 2), expounding what is set down in Lk. 19:10, "For the Son of Man is come to seek and to save that which was lost"; "Therefore, if man had not sinned, the Son of Man would not have come." And on 1 Tim. 1:15, "Christ Jesus came into this world to save sinners," a gloss says, "There was no cause of Christ's coming into the world, except to save sinners. Take away diseases, take away wounds, and there is no need of medicine."
 
@@ -85,7 +85,7 @@ I answer that, There are different opinions about this question. For some say th
 
 For such things as spring from God's will, and beyond the creature's due, can be made known to us only through being revealed in the Sacred Scripture, in which the Divine Will is made known to us. Hence, since everywhere in the Sacred Scripture the sin of the first man is assigned as the reason of the Incarnation, it is more in accordance with this to say that the work of the Incarnation was ordained by God as a remedy for sin; so that, had sin not existed, the Incarnation would not have been. And yet the power of God is not limited to this; even had sin not existed, God could have become incarnate.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All the other causes which are assigned in the preceding article have to do with a remedy for sin. For if man had not sinned, he would have been endowed with the light of Divine wisdom, and would have been perfected by God with the righteousness of justice in order to know and carry out everything needful. But because man, on deserting God, had stooped to corporeal things, it was necessary that God should take flesh, and by corporeal things should afford him the remedy of salvation. Hence, on Jn. 1:14, "And the Word was made flesh," St. Augustine says (Tract. ii): "Flesh had blinded thee, flesh heals thee; for Christ came and overthrew the vices of the flesh."
 
@@ -96,9 +96,9 @@ Reply to Objection 3: A double capability may be remarked in human nature: one, 
 Reply to Objection 4: Predestination presupposes the foreknowledge of future things; and hence, as God predestines the salvation of anyone to be brought about by the prayers of others, so also He predestined the work of the Incarnation to be the remedy of human sin.
 
 Reply to Objection 5: Nothing prevents an effect from being revealed to one to whom the cause is not revealed. Hence, the mystery of the Incarnation could be revealed to the first man without his being fore-conscious of his fall. For not everyone who knows the effect knows the cause.
-# Whether God Became Incarnate In Order To Take Away Actual Sin, Rather Than To Take Away Original Sin?
+## Whether God Became Incarnate In Order To Take Away Actual Sin, Rather Than To Take Away Original Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God became incarnate as a remedy for actual sins rather than for original sin. For the more grievous the sin, the more it runs counter to man's salvation, for which God became incarnate. But actual sin is more grievous than original sin; for the lightest punishment is due to original sin, as Augustine says (Contra Julian. v, 11). Therefore the Incarnation of Christ is chiefly directed to taking away actual sins.
 
@@ -106,7 +106,7 @@ Objection 2: Further, pain of sense is not due to original sin, but merely pain 
 
 Objection 3: Further, as Chrysostom says (De Compunctione Cordis ii, 3): "This must be the mind of the faithful servant, to account the benefits of his Lord, which have been bestowed on all alike, as though they were bestowed on himself alone. For as if speaking of himself alone, Paul writes to the Galatians 2:20: 'Christ . . . loved me and delivered Himself for me.'" But our individual sins are actual sins; for original sin is the common sin. Therefore we ought to have this conviction, so as to believe that He has come chiefly for actual sins.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 1:29): "Behold the Lamb of God, behold Him Who taketh away the sins [Vulg.: 'sin'] of the world."
 
@@ -114,16 +114,16 @@ I answer that, It is certain that Christ came into this world not only to take a
 
 Moreover, the more grievous the sin, the more particularly did Christ come to blot it out. But "greater" is said in two ways: in one way "intensively," as a more intense whiteness is said to be greater, and in this way actual sin is greater than original sin; for it has more of the nature of voluntary, as has been shown ([3854]FS, Q[81], A[1]). In another way a thing is said to be greater "extensively," as whiteness on a greater superficies is said to be greater; and in this way original sin, whereby the whole human race is infected, is greater than any actual sin, which is proper to one person. And in this respect Christ came principally to take away original sin, inasmuch as "the good of the race is a more Divine thing than the good of an individual," as is said Ethic. i, 2.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This reason looks to the intensive greatness of sin.
 
 Reply to Objection 2: In the future award the pain of sense will not be meted out to original sin. Yet the penalties, such as hunger, thirst, death, and the like, which we suffer sensibly in this life flow from original sin. And hence Christ, in order to satisfy fully for original sin, wished to suffer sensible pain, that He might consume death and the like in Himself.
 
 Reply to Objection 3: Chrysostom says (De Compunctione Cordis ii, 6): "The Apostle used these words, not as if wishing to diminish Christ's gifts, ample as they are, and spreading throughout the whole world, but that he might account himself alone the occasion of them. For what does it matter that they are given to others, if what are given to you are as complete and perfect as if none of them were given to another than yourself?" And hence, although a man ought to account Christ's gifts as given to himself, yet he ought not to consider them not to be given to others. And thus we do not exclude that He came to wipe away the sin of the whole nature rather than the sin of one person. But the sin of the nature is as perfectly healed in each one as if it were healed in him alone. Hence, on account of the union of charity, what is vouchsafed to all ought to be accounted his own by each one.
-# Whether It Was Fitting That God Should Become Incarnate In The Beginning Of The Human Race?
+## Whether It Was Fitting That God Should Become Incarnate In The Beginning Of The Human Race?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was fitting that God should become incarnate in the beginning of the human race. For the work of the Incarnation sprang from the immensity of Divine charity, according to Eph. 2:4,5: "But God (Who is rich in mercy), for His exceeding charity wherewith He loved us . . . even when we were dead in sins, hath quickened us together in Christ." But charity does not tarry in bringing assistance to a friend who is suffering need, according to Prov. 3:28: "Say not to thy friend: Go, and come again, and tomorrow I will give to thee, when thou canst give at present." Therefore God ought not to have put off the work of the Incarnation, but ought thereby to have brought relief to the human race from the beginning.
 
@@ -131,7 +131,7 @@ Objection 2: Further, it is written (1 Tim. 1:15): "Christ Jesus came into this 
 
 Objection 3: Further, the work of grace is not less orderly than the work of nature. But nature takes its rise with the more perfect, as Boethius says (De Consol. iii). Therefore the work of Christ ought to have been perfect from the beginning. But in the work of the Incarnation we see the perfection of grace, according to Jn. 1:14: "The Word was made flesh"; and afterwards it is added: "Full of grace and truth." Therefore Christ ought to have become incarnate at the beginning of the human race.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gal. 4:4): "But when the fulness of the time was come, God sent His Son, made of a woman, made under the law": upon which a gloss says that "the fulness of the time is when it was decreed by God the Father to send His Son." But God decreed everything by His wisdom. Therefore God became incarnate at the most fitting time; and it was not fitting that God should become incarnate at the beginning of the human race.
 
@@ -145,16 +145,16 @@ Thirdly, on account of the dignity of the incarnate Word, for on the words (Gal.
 
 Fourthly, lest the fervor of faith should cool by the length of time, for the charity of many will grow cold at the end of the world. Hence (Lk. 18:8) it is written: "But yet the Son of Man, when He cometh, shall He find think you, faith on earth?"
 
-## Replies
+### Replies
 
 Reply to Objection 1: Charity does not put off bringing assistance to a friend: always bearing in mind the circumstances as well as the state of the persons. For if the physician were to give the medicine at the very outset of the ailment, it would do less good, and would hurt rather than benefit. And hence the Lord did not bestow upon the human race the remedy of the Incarnation in the beginning, lest they should despise it through pride, if they did not already recognize their disease.
 
 Reply to Objection 2: Augustine replies to this (De Sex Quest. Pagan., Ep. cii), saying ([3855]Q[2]) that "Christ wished to appear to man and to have His doctrine preached to them when and where He knew those were who would believe in Him. But in such times and places as His Gospel was not preached He foresaw that not all, indeed, but many would so bear themselves towards His preaching as not to believe in His corporeal presence, even were He to raise the dead." But the same Augustine, taking exception to this reply in his book (De Perseverantia ix), says: "How can we say the inhabitants of Tyre and Sidon would not believe when such great wonders were wrought in their midst, or would not have believed had they been wrought, when God Himself bears witness that they would have done penance with great humility if these signs of Divine power had been wrought in their midst?" And he adds in answer (De Perseverantia xi): "Hence, as the Apostle says (Rom. 9:16), 'it is not of him that willeth nor of him that runneth, but of God that showeth mercy'; Who (succors whom He will of) those who, as He foresaw, would believe in His miracles if wrought amongst them, (while others) He succors not, having judged them in His predestination secretly yet justly. Therefore let us unshrinkingly believe His mercy to be with those who are set free, and His truth with those who are condemned." [*The words in brackets are not in the text of St. Augustine].
 
 Reply to Objection 3: Perfection is prior to imperfection, both in time and nature, in things that are different (for what brings others to perfection must itself be perfect); but in one and the same, imperfection is prior in time though posterior in nature. And thus the eternal perfection of God precedes in duration the imperfection of human nature; but the latter's ultimate perfection in union with God follows.
-# Whether The Incarnation Ought To Have Been Put Off Till The End Of The World?
+## Whether The Incarnation Ought To Have Been Put Off Till The End Of The World?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the work of the Incarnation ought to have been put off till the end of the world. For it is written (Ps. 91:11): "My old age in plentiful mercy"---i.e. "in the last days," as a gloss says. But the time of the Incarnation is especially the time of mercy, according to Ps. 101:14: "For it is time to have mercy on it." Therefore the Incarnation ought to have been put off till the end of the world.
 
@@ -162,7 +162,7 @@ Objection 2: Further, as has been said (A[5], ad 3), in the same subject, perfec
 
 Objection 3: Further, what can be done by one ought not to be done by two. But the one coming of Christ at the end of the world was sufficient for the salvation of human nature. Therefore it was not necessary for Him to come beforehand in His Incarnation; and hence the Incarnation ought to have been put off till the end of the world.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Hab. 3:2): "In the midst of the years Thou shalt make it known." Therefore the mystery of the Incarnation which was made known to the world ought not to have been put off till the end of the world.
 
@@ -172,7 +172,7 @@ Secondly, from the effect of man's salvation; for, as is said Qq. Vet et Nov. Te
 
 Thirdly, this appears fitting to the manifestation of the Divine power, which has saved men in several ways---not only by faith in some future thing, but also by faith in something present and past.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This gloss has in view the mercy of God, which leads us to glory. Nevertheless, if it is referred to the mercy shown the human race by the Incarnation of Christ, we must reflect that, as Augustine says (Retract. i), the time of the Incarnation may be compared to the youth of the human race, "on account of the strength and fervor of faith, which works by charity"; and to old age---i.e. the sixth age---on account of the number of centuries, for Christ came in the sixth age. And although youth and old age cannot be together in a body, yet they can be together in a soul, the former on account of quickness, the latter on account of gravity. And hence Augustine says elsewhere (Qq. lxxxiii, qu. 44) that "it was not becoming that the Master by Whose imitation the human race was to be formed to the highest virtue should come from heaven, save in the time of youth." But in another work (De Gen. cont. Manich. i, 23) he says: that Christ came in the sixth age---i.e. in the old age---of the human race.
 

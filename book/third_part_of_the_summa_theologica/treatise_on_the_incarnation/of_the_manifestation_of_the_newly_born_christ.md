@@ -9,9 +9,9 @@ We must now consider the manifestation of the newly born Christ: concerning whic
 (6) Of the order of these manifestations;
 (7) Of the star by means of which His birth was made known;
 (8) of the adoration of the Magi, who were informed of Christ's nativity by means of the star.
-# Whether Christ's Birth Should Have Been Made Known To All?
+## Whether Christ's Birth Should Have Been Made Known To All?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's birth should have been made known to all. Because fulfilment should correspond to promise. Now, the promise of Christ's coming is thus expressed (Ps. 49:3): "God shall come manifestly. But He came by His birth in the flesh." Therefore it seems that His birth should have been made known to the whole world.
 
@@ -19,7 +19,7 @@ Objection 2: Further, it is written (1 Tim. 1:15): "Christ came into this world 
 
 Objection 3: Further, God is most especially inclined to mercy; according to Ps. 144:9: "His tender mercies are over all His works." But in His second coming, when He will "judge justices" (Ps. 70:3), He will come before the eyes of all; according to Mat. 24:27: "As lightning cometh out of the east, and appeareth even into the west, so shall also the coming of the Son of Man be." Much more, therefore, should His first coming, when He was born into the world according to the flesh, have been made known to all.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 45:15): "Thou art a hidden God, the Holy [Vulg.: 'the God] of Israel, the Saviour." And, again (Is. 43:3): "His look was, as it were, hidden and despised."
 
@@ -29,16 +29,16 @@ Secondly, because this would have lessened the merit of faith, which He came to 
 
 Thirdly, because thus the reality of His human nature would have come into doubt. Whence Augustine says (Ep. ad Volusianum cxxxvii): "If He had not passed through the different stages of age from babyhood to youth, had neither eaten nor slept, would He not have strengthened an erroneous opinion, and made it impossible for us to believe that He had become true man? And while He is doing all things wondrously, would He have taken away that which He accomplished in mercy?"
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to the gloss, the words quoted must be understood of Christ's coming as judge.
 
 Reply to Objection 2: All men were to be instructed unto salvation, concerning the grace of God our Saviour, not at the very time of His birth, but afterwards, in due time, after He had "wrought salvation in the midst of the earth" (Ps. 73:12). Wherefore after His Passion and Resurrection, He said to His disciples (Mat. 28:19): "Going . . . teach ye all nations."
 
 Reply to Objection 3: For judgment to be passed, the authority of the judge needs to be known: and for this reason it behooves that the coming of Christ unto judgment should be manifest. But His first coming was unto the salvation of all, which is by faith that is of things not seen. And therefore it was fitting that His first coming should be hidden.
-# Whether Christ's Birth Should Have Been Made Known To Some?
+## Whether Christ's Birth Should Have Been Made Known To Some?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's birth should not have been made known to anyone. For, as stated above (A[1], ad 3), it befitted the salvation of mankind that Christ's first coming should be hidden. But Christ came to save all; according to 1 Tim. 4:10: "Who is the Saviour of all men, especially of the faithful." Therefore Christ's birth should not have been made known to anyone.
 
@@ -46,22 +46,22 @@ Objection 2: Further, before Christ was born, His future birth was made known to
 
 Objection 3: Further, no wise man makes known that from which arise disturbance and harm to others. But, when Christ's birth was made known, disturbance arose: for it is written (Mat. 2:3) that "King Herod, hearing" of Christ's birth, "was troubled, and all Jerusalem with him." Moreover, this brought harm to others; because it was the occasion of Herod's killing "all the male children that were in Bethlehem . . . from two years old and under." Therefore it seems unfitting for Christ's birth to have been made known to anyone.
 
-## Answer
+### Answer
 
 On the contrary, Christ's birth would have been profitable to none if it had been hidden from all. But it behooved Christ's birth to be profitable: else He were born in vain. Therefore it seems that Christ's birth should have been made known to some.
 
 I answer that, As the Apostle says (Rom. 13:1) "what is of God is well ordered." Now it belongs to the order of Divine wisdom that God's gifts and the secrets of His wisdom are not bestowed on all equally, but to some immediately, through whom they are made known to others. Wherefore, with regard to the mystery of the Resurrection it is written (Acts 10:40,41): "God . . . gave" Christ rising again "to be made manifest, not to all the people, but to witnesses pre-ordained by God." Consequently, that His birth might be consistent with this, it should have been made known, not to all, but to some, through whom it could be made known to others.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As it would have been prejudicial to the salvation of mankind if God's birth had been made known to all men, so also would it have been if none had been informed of it. Because in either case faith is destroyed, whether a thing be perfectly manifest, or whether it be entirely unknown, so that no one can hear it from another; for "faith cometh by hearing" (Rom. 10:17).
 
 Reply to Objection 2: Mary and Joseph needed to be instructed concerning Christ's birth before He was born, because it devolved on them to show reverence to the child conceived in the womb, and to serve Him even before He was born. But their testimony, being of a domestic character, would have aroused suspicion in regard to Christ's greatness: and so it behooved it to be made known to others, whose testimony could not be suspect.
 
 Reply to Objection 3: The very disturbance that arose when it was known that Christ was born was becoming to His birth. First, because thus the heavenly dignity of Christ is made manifest. Wherefore Gregory says (Hom. x in Evang.): "After the birth of the King of heaven, the earthly king is troubled: doubtless because earthly grandeur is covered with confusion when the heavenly majesty is revealed."
-# Whether Those To Whom Christ's Birth Was Made Known Were Suitably Chosen?
+## Whether Those To Whom Christ's Birth Was Made Known Were Suitably Chosen?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that those to whom Christ's birth was made known were not suitably chosen. For our Lord (Mat. 10:5) commanded His disciples, "Go ye not into the way of the Gentiles," so that He might be made known to the Jews before the Gentiles. Therefore it seems that much less should Christ's birth have been at once revealed to the Gentiles who "came from the east," as stated Mat. 2:1.
 
@@ -73,13 +73,13 @@ Objection 4: Further, all the sacraments of the Old Law were figures of Christ. 
 
 Objection 5: Further, Christ was born of a Virgin-Mother, and was as yet a little child. It was therefore more suitable that He should be made known to youths and virgins than to old and married people or to widows, such as Simeon and Anna.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 13:18): "I know whom I have chosen." But what is done by God's wisdom is done becomingly. Therefore those to whom Christ's birth was made known were suitably chosen.
 
 I answer that, Salvation, which was to be accomplished by Christ, concerns all sorts and conditions of men: because, as it is written (Col. 3:11), in Christ "there is neither male nor female, [*These words are in reality from Gal. 3:28] neither Gentile nor Jew . . . bond nor free," and so forth. And in order that this might be foreshadowed in Christ's birth, He was made known to men of all conditions. Because, as Augustine says in a sermon on the Epiphany (32 de Temp.), "the shepherds were Israelites, the Magi were Gentiles. The former were nigh to Him, the latter far from Him. Both hastened to Him together as to the cornerstone." There was also another point of contrast: for the Magi were wise and powerful; the shepherds simple and lowly. He was also made known to the righteous as Simeon and Anna; and to sinners, as the Magi. He was made known both to men, and to women---namely, to Anna---so as to show no condition of men to be excluded from Christ's redemption.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That manifestation of Christ's birth was a kind of foretaste of the full manifestation which was to come. And as in the later manifestation the first announcement of the grace of Christ was made by Him and His Apostles to the Jews and afterwards to the Gentiles, so the first to come to Christ were the shepherds, who were the first-fruits of the Jews, as being near to Him; and afterwards came the Magi from afar, who were "the first-fruits of the Gentiles," as Augustine says (Serm. 30 de Temp. cc.).
 
@@ -90,9 +90,9 @@ Reply to Objection 3: As Chrysostom says [*Hom. ii in Matth. in the Opus Imperf.
 Reply to Objection 4: As Chrysostom observes (Theophylact., Enarr. in Luc. ii, 8), the angel who announced Christ's birth did not go to Jerusalem, nor did he seek the Scribes and Pharisees, for they were corrupted, and full of ill-will. But the shepherds were single-minded, and were like the patriarchs and Moses in their mode of life.
 
 Reply to Objection 5: As Ambrose says (on Lk. 2:25): "It was right that our Lord's birth should be attested not only by the shepherds, but also by people advanced in age and virtue": whose testimony is rendered the more credible by reason of their righteousness.
-# Whether Christ Himself Should Have Made His Birth Know?
+## Whether Christ Himself Should Have Made His Birth Know?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ should have Himself made His birth known. For "a direct cause is always of greater power than an indirect cause," as is stated Phys. viii. But Christ made His birth known through others---for instance, to the shepherds through the angels, and to the Magi through the star. Much more, therefore, should He Himself have made His birth known.
 
@@ -100,22 +100,22 @@ Objection 2: Further, it is written (Ecclus. 20:32): "Wisdom that is hid and tre
 
 Objection 3: Further, we read in the book De Infantia Salvatoris that in His infancy Christ worked many miracles. It seems therefore that He did Himself make His birth known.
 
-## Answer
+### Answer
 
 On the contrary, Pope Leo says (Serm. xxxiv) that the Magi found the "infant Jesus in no way different from the generality of human infants." But other infants do not make themselves known. Therefore it was not fitting that Christ should Himself make His birth known.
 
 I answer that, Christ's birth was ordered unto man's salvation, which is by faith. But saving faith confesses Christ's Godhead and humanity. It behooved, therefore, Christ's birth to be made known in such a way that the proof of His Godhead should not be prejudicial to faith in His human nature. But this took place while Christ presented a likeness of human weakness, and yet, by means of God's creatures, He showed the power of the Godhead in Himself. Therefore Christ made His birth known, not by Himself, but by means of certain other creatures.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By the way of generation and movement we must of necessity come to the imperfect before the perfect. And therefore Christ was made known first through other creatures, and afterwards He Himself manifested Himself perfectly.
 
 Reply to Objection 2: Although hidden wisdom is useless, yet there is no need for a wise man to make himself known at all times, but at a suitable time; for it is written (Ecclus. 20:6): "There is one that holdeth his peace because he knoweth not what to say: and there is another that holdeth his peace, knowing the proper time." Hence the wisdom given to Christ was not useless, because at a suitable time He manifested Himself. And the very fact that He was hidden at a suitable time is a sign of wisdom.
 
 Reply to Objection 3: The book De Infantia Salvatoris is apocryphal. Moreover, Chrysostom (Hom. xxi super Joan.) says that Christ worked no miracles before changing the water into wine, according to Jn. 2:11: "'This beginning of miracles did Jesus.' For if He had worked miracles at an early age, there would have been no need for anyone else to manifest Him to the Israelites; whereas John the Baptist says (Jn. 1:31): 'That He may be made manifest in Israel; therefore am I come baptizing with water.' Moreover, it was fitting that He should not begin to work miracles at an early age. For people would have thought the Incarnation to be unreal, and, out of sheer spite, would have crucified Him before the proper time."
-# Whether Christ's Birth Should Have Been Manifested By Means Of The Angels And The Star?
+## Whether Christ's Birth Should Have Been Manifested By Means Of The Angels And The Star?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's birth should not have been manifested by means of the angels. For angels are spiritual substances, according to Ps. 103:4: "Who maketh His [Vulg.: 'makest Thy'] angels, spirits." But Christ's birth was in the flesh, and not in His spiritual substance. Therefore it should not have been manifested by means of angels.
 
@@ -125,13 +125,13 @@ Objection 3: Further, it seems that neither ought it to have been announced to t
 
 Objection 4: Further, a sign should be certain, in order that something be made known thereby. But a star does not seem to be a certain sign of Christ's birth. Therefore Christ's birth was not suitably announced by a star.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 32:4): "The works of God are perfect." But this manifestation is the work of God. Therefore it was accomplished by means of suitable signs.
 
 I answer that, As knowledge is imparted through a syllogism from something which we know better, so knowledge given by signs must be conveyed through things which are familiar to those to whom the knowledge is imparted. Now, it is clear that the righteous have, through the spirit of prophecy, a certain familiarity with the interior instinct of the Holy Ghost, and are wont to be taught thereby, without the guidance of sensible signs. Whereas others, occupied with material things, are led through the domain of the senses to that of the intellect. The Jews, however, were accustomed to receive Divine answers through the angels; through whom they also received the Law, according to Acts 7:53: "You [Vulg.: 'who'] . . . have received the Law by the disposition of angels." And the Gentiles, especially astrologers, were wont to observe the course of the stars. And therefore Christ's birth was made known to the righteous, viz. Simeon and Anna, by the interior instinct of the Holy Ghost, according to Lk. 2:26: "He had received an answer from the Holy Ghost that he should not see death before he had seen the Christ of the Lord." But to the shepherds and Magi, as being occupied with material things, Christ's birth was made known by means of visible apparitions. And since this birth was not only earthly, but also, in a way, heavenly, to both (shepherds and Magi) it is revealed through heavenly signs: for, as Augustine says in a sermon on the Epiphany (cciv): "The angels inhabit, and the stars adorn, the heavens: by both, therefore, do the 'heavens show forth the glory of God.'" Moreover, it was not without reason that Christ's birth was made known, by means of angels, to the shepherds, who, being Jews, were accustomed to frequent apparitions of the angels: whereas it was revealed by means of a star to the Magi, who were wont to consider the heavenly bodies. Because, as Chrysostom says (Hom. vi in Matth.): "Our Lord deigned to call them through things to which they were accustomed." There is also another reason. For, as Gregory says (Hom. x in Evang.): "To the Jews, as rational beings, it was fitting that a rational animal [*Cf. [4190]FP, Q[51], A[1], ad 2]," viz. an angel, "should preach. Whereas the Gentiles, who were unable to come to the knowledge of God through the reason, were led to God, not by words, but by signs. And as our Lord, when He was able to speak, was announced by heralds who spoke, so before He could speak He was manifested by speechless elements." Again, there is yet another reason. For, as Augustine [*Pope Leo] says in a sermon on the Epiphany: "To Abraham was promised an innumerable progeny, begotten, not of carnal propagation, but of the fruitfulness of faith. For this reason it is compared to the multitude of stars; that a heavenly progeny might be hoped for." Wherefore the Gentiles, "who are thus designated by the stars, are by the rising of a new star stimulated" to seek Christ, through whom they are made the seed of Abraham.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That which of itself is hidden needs to be manifested, but not that which in itself is manifest. Now, the flesh of Him who was born was manifest, whereas the Godhead was hidden. And therefore it was fitting that this birth should be made known by angels, who are the ministers of God. Wherefore also a certain "brightness" (Lk. 2:9) accompanied the angelic apparition, to indicate that He who was just born was the "Brightness of" the Father's "glory."
 
@@ -140,9 +140,9 @@ Reply to Objection 2: The righteous did not need the visible apparition of the a
 Reply to Objection 3: The star which manifested Christ's birth removed all occasion of error. For, as Augustine says (Contra Faust. ii): "No astrologer has ever so far connected the stars with man's fate at the time of his birth as to assert that one of the stars, at the birth of any man, left its orbit and made its way to him who was just born": as happened in the case of the star which made known the birth of Christ. Consequently this does not corroborate the error of those who "think there is a connection between man's birth and the course of the stars, for they do not hold that the course of the stars can be changed at a man's birth."
 
 Reply to Objection 4: Chrysostom relates (Hom. ii in Matth.) that, according to some apocryphal books, a certain tribe in the far east near the ocean was in the possession of a document written by Seth, referring to this star and to the presents to be offered: which tribe watched attentively for the rising of this star, twelve men being appointed to take observations, who at stated times repaired to the summit of a mountain with faithful assiduity: whence they subsequently perceived the star containing the figure of a small child, and above it the form of a cross.
-# Whether Christ's Birth Was Made Known In A Becoming Order?
+## Whether Christ's Birth Was Made Known In A Becoming Order?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's birth was made known in an unbecoming order. For Christ's birth should have been made known to them first who were nearest to Christ, and who longed for Him most; according to Wis. 6:14: "She preventeth them that covet her, so that she first showeth herself unto them." But the righteous were nearest to Christ by faith, and longed most for His coming; whence it is written (Lk. 2:25) of Simeon that "he was just and devout, waiting for the consolation of Israel." Therefore Christ's birth should have been made known to Simeon before the shepherds and Magi.
 
@@ -150,7 +150,7 @@ Objection 2: Further, the Magi were the "first-fruits of the Gentiles," who were
 
 Objection 3: Further, it is written (Mat. 2:16) that "Herod killed all the male children that were in Bethlehem, and in all the borders thereof, from two years old and under, according to the time which he had diligently inquired from the wise men": so that it seems that the Magi were two years in coming to Christ after His birth. It was therefore unbecoming that Christ should be made known to the Gentiles so long after His birth.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dan. 2:21): "He changes time and ages." Consequently the time of the manifestation of Christ's birth seems to have been arranged in a suitable order.
 
@@ -158,16 +158,16 @@ I answer that, Christ's birth was first made known to the shepherds on the very 
 
 The reason of this order is that the shepherds represent the apostles and other believers of the Jews, to whom the faith of Christ was made known first; among whom there were "not many mighty, not many noble," as we read 1 Cor. 1:26. Secondly, the faith of Christ came to the "fulness of the Gentiles"; and this is foreshadowed in the Magi. Thirdly it came to the fulness of the Jews, which is foreshadowed in the righteous. Wherefore also Christ was manifested to them in the Jewish Temple.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the Apostle says (Rom. 9:30,31): "Israel, by following after the law of justice, is not come unto the law of justice": but the Gentiles, "who followed not after justice," forestalled the generality of the Jews in the justice which is of faith. As a figure of this, Simeon, "who was waiting for the consolation of Israel," was the last to know Christ born: and he was preceded by the Magi and the shepherds, who did not await the coming of Christ with such longing.
 
 Reply to Objection 2: Although the "fulness of the Gentiles came in" unto faith before the fulness of the Jews, yet the first-fruits of the Jews preceded the first-fruits of the Gentiles in faith. For this reason the birth of Christ was made known to the shepherds before the Magi.
 
 Reply to Objection 3: There are two opinions about the apparition of the star seen by the Magi. For Chrysostom (Hom. ii in Matth. [*Opus Imperf. in Matth., falsely ascribed to Chrysostom]), and Augustine in a sermon on the Epiphany (cxxxi, cxxxii), say that the star was seen by the Magi during the two years that preceded the birth of Christ: and then, having first considered the matter and prepared themselves for the journey, they came from the farthest east to Christ, arriving on the thirteenth day after His birth. Wherefore Herod, immediately after the departure of the Magi, "perceiving that He was deluded by them," commanded the male children to be killed "from two years old and under," being doubtful lest Christ were already born when the star appeared, according as he had heard from the Magi.
-# Whether The Star Which Appeared To The Magi Belonged To The Heavenly System?
+## Whether The Star Which Appeared To The Magi Belonged To The Heavenly System?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the star which appeared to the Magi belonged to the heavenly system. For Augustine says in a sermon on the Epiphany (cxxii): "While God yet clings to the breast, and suffers Himself to be wrapped in humble swaddling clothes, suddenly a new star shines forth in the heavens." Therefore the star which appeared to the Magi belonged to the heavenly system.
 
@@ -175,7 +175,7 @@ Objection 2: Further, Augustine says in a sermon on the Epiphany (cci): "Christ 
 
 Objection 3: Further, stars which are not in the heavens but in the air are called comets, which do not appear at the birth of kings, but rather are signs of their approaching death. But this star was a sign of the King's birth: wherefore the Magi said (Mat. 2:2): "Where is He that is born King of the Jews? For we have seen His star in the east." Therefore it seems that it was a star from the heavens.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Contra Faust. ii): "It was not one of those stars which since the beginning of the creation observe the course appointed to them by the Creator; but this star was a stranger to the heavens, and made its appearance at the strange sight of a virgin in childbirth."
 
@@ -183,16 +183,16 @@ I answer that, As Chrysostom says (Hom. vi in Matth.), it is clear, for many rea
 
 Wherefore some say that, as the Holy Ghost, after our Lord's Baptism, came down on Him under the form of a dove, so did He appear to the Magi under the form of a star. While others say that the angel who, under a human form, appeared to the shepherds, under the form of a star, appeared to the Magi. But it seems more probable that it was a newly created star, not in the heavens, but in the air near the earth, and that its movement varied according to God's will. Wherefore Pope Leo says in a sermon on the Epiphany (xxxi): "A star of unusual brightness appeared to the three Magi in the east, which, through being more brilliant and more beautiful than the other stars, drew men's gaze and attention: so that they understood at once that such an unwonted event could not be devoid of purpose."
 
-## Replies
+### Replies
 
 Reply to Objection 1: In Holy Scripture the air is sometimes called the heavens---for instance, "The birds of the heavens [Douay: 'air'] and the fishes of the sea."
 
 Reply to Objection 2: The angels of heaven, by reason of their very office, come down to us, being "sent to minister." But the stars of heaven do not change their position. Wherefore there is no comparison.
 
 Reply to Objection 3: As the star did not follow the course of the heavenly stars, so neither did it follow the course of the comets, which neither appear during the daytime nor vary their customary course. Nevertheless in its signification it has something in common with the comets. Because the heavenly kingdom of Christ "shall break in pieces, and shall consume all the kingdoms" of the earth, "and itself shall stand for ever" (Dan. 2:44).
-# Whether It Was Becoming That The Magi Should Come To Adore Christ And Pay Homage To Him?
+## Whether It Was Becoming That The Magi Should Come To Adore Christ And Pay Homage To Him?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was unbecoming that the Magi should come to adore Christ and pay homage to Him. For reverence is due to a king from his subjects. But the Magi did not belong to the kingdom of the Jews. Therefore, since they knew by seeing the star that He that was born was the "King of the Jews," it seems unbecoming that they should come to adore Him.
 
@@ -202,13 +202,13 @@ Objection 3: Further, a heavenly sign is more certain than a human sign. But the
 
 Objection 4: Further, the offering of gifts and the homage of adoration are not due save to kings already reigning. But the Magi did not find Christ resplendent with kingly grandeur. Therefore it was unbecoming for them to offer Him gifts and homage.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 60:3): "[The Gentiles] shall walk in the light, and kings in the brightness of thy rising." But those who walk in the Divine light do not err. Therefore the Magi were right in offering homage to Christ.
 
 I answer that, As stated above (A[3], ad 1), the Magi are the "first-fruits of the Gentiles" that believed in Christ; because their faith was a presage of the faith and devotion of the nations who were to come to Christ from afar. And therefore, as the devotion and faith of the nations is without any error through the inspiration of the Holy Ghost, so also we must believe that the Magi, inspired by the Holy Ghost, did wisely in paying homage to Christ.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says in a sermon on the Epiphany (cc.): "Though many kings of the Jews had been born and died, none of them did the Magi seek to adore. And so they who came from a distant foreign land to a kingdom that was entirely strange to them, had no idea of showing such great homage to such a king as the Jews were wont to have. But they had learnt that such a King was born that by adoring Him they might be sure of obtaining from Him the salvation which is of God."
 

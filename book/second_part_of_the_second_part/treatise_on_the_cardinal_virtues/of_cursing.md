@@ -5,9 +5,9 @@ We must now consider cursing. Under this head there are four points of inquiry:
 (2) Whether one may lawfully curse an irrational creature?
 (3) Whether cursing is a mortal sin?
 (4) Of its comparison with other sins.
-# Whether It Is Lawful To Curse Anyone?
+## Whether It Is Lawful To Curse Anyone?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unlawful to curse anyone. For it is unlawful to disregard the command of the Apostle in whom Christ spoke, according to 2 Cor. 13:3. Now he commanded (Rom. 12:14), "Bless and curse not." Therefore it is not lawful to curse anyone.
 
@@ -19,7 +19,7 @@ Objection 4: Further, the devil exceeds all in malice on account of his obstinac
 
 Objection 5: Further, a gloss on Num. 23:8, "How shall I curse whom God hath not cursed?" says: "There cannot be a just cause for cursing a sinner if one be ignorant of his sentiments." Now one man cannot know another man's sentiments, nor whether he is cursed by God. Therefore no man may lawfully curse another.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 27:26): "Cursed be he that abideth not in the words of this law." Moreover Eliseus cursed the little boys who mocked him (4 Kings 2:24).
 
@@ -29,7 +29,7 @@ Accordingly we may omit the first kind of evil speaking which is by way of simpl
 
 Now evil may be spoken, by commanding or desiring it, under the aspect of a twofold good. Sometimes under the aspect of just, and thus a judge lawfully curses a man whom he condemns to a just penalty: thus too the Church curses by pronouncing anathema. In the same way the prophets in the Scriptures sometimes call down evils on sinners, as though conforming their will to Divine justice, although such like imprecation may be taken by way of foretelling. Sometimes evil is spoken under the aspect of useful, as when one wishes a sinner to suffer sickness or hindrance of some kind, either that he may himself reform, or at least that he may cease from harming others.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Apostle forbids cursing strictly so called with an evil intent: and the same answer applies to the Second Objection.
 
@@ -38,9 +38,9 @@ Reply to Objection 3: To wish another man evil under the aspect of good, is not 
 Reply to Objection 4: In the devil both nature and guilt must be considered. His nature indeed is good and is from God nor is it lawful to curse it. On the other hand his guilt is deserving of being cursed, according to Job 3:8, "Let them curse it who curse the day." Yet when a sinner curses the devil on account of his guilt, for the same reason he judges himself worthy of being cursed; and in this sense he is said to curse his own soul.
 
 Reply to Objection 5: Although the sinner's sentiments cannot be perceived in themselves, they can be perceived through some manifest sin, which has to be punished. Likewise although it is not possible to know whom God curses in respect of final reprobation, it is possible to know who is accursed of God in respect of being guilty of present sin.
-# Whether It Is Lawful To Curse An Irrational Creature?
+## Whether It Is Lawful To Curse An Irrational Creature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is unlawful to curse an irrational creature. Cursing would seem to be lawful chiefly in its relation to punishment. Now irrational creatures are not competent subjects either of guilt or of punishment. Therefore it is unlawful to curse them.
 
@@ -48,7 +48,7 @@ Objection 2: Further, in an irrational creature there is nothing but the nature 
 
 Objection 3: Further, irrational creatures are either stable, as bodies, or transient, as the seasons. Now, according to Gregory (Moral. iv, 2), "it is useless to curse what does not exist, and wicked to curse what exists." Therefore it is nowise lawful to curse an irrational creature.
 
-## Answer
+### Answer
 
 On the contrary, our Lord cursed the fig tree, as related in Mat. 21:19; and Job cursed his day, according to Job 3:1.
 
@@ -57,9 +57,9 @@ I answer that, Benediction and malediction, properly speaking, regard things to 
 But to curse irrational beings, considered as creatures of God, is a sin of blasphemy; while to curse them considered in themselves is idle and vain and consequently unlawful.
 
 From this the Replies to the objections may easily be gathered.
-# Whether Cursing Is A Mortal Sin?
+## Whether Cursing Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that cursing is not a mortal sin. For Augustine in a homily On the Fire of Purgatory [*Serm. civ in the appendix of St. Augustine's works] reckons cursing among slight sins. But such sins are venial. Therefore cursing is not a mortal but a venial Sin.
 
@@ -67,7 +67,7 @@ Objection 2: Further, that which proceeds from a slight movement of the mind doe
 
 Objection 3: Further, evil deeds are worse than evil words. But evil deeds are not always mortal sins. Much less therefore is cursing a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, Nothing save mortal sin excludes one from the kingdom of God. But cursing excludes from the kingdom of God, according to 1 Cor. 6:10, "Nor cursers [Douay: 'railers'], nor extortioners shall possess the kingdom of God." Therefore cursing is a mortal sin.
 
@@ -76,9 +76,9 @@ I answer that, The evil words of which we are speaking now are those whereby evi
 It may happen however that the word uttered in cursing is a venial sin either through the slightness of the evil invoked on another in cursing him, or on account of the sentiments of the person who utters the curse; because he may say such words through some slight movement, or in jest, or without deliberation, and sins of word should be weighed chiefly with regard to the speaker's intention, as stated above ([2961]Q[72], A[2]).
 
 From this the Replies to the Objections may be easily gathered.
-# Whether Cursing Is A Graver Sin Than Backbiting?
+## Whether Cursing Is A Graver Sin Than Backbiting?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that cursing is a graver sin than backbiting. Cursing would seem to be a kind of blasphemy, as implied in the canonical epistle of Jude (verse 9) where it is said that "when Michael the archangel, disputing with the devil, contended about the body of Moses, he durst not bring against him the judgment of blasphemy [Douay: 'railing speech']," where blasphemy stands for cursing, according to a gloss. Now blasphemy is a graver sin than backbiting. Therefore cursing is a graver sin than backbiting.
 
@@ -86,7 +86,7 @@ Objection 2: Further, murder is more grievous than backbiting, as stated above (
 
 Objection 3: Further, to cause a thing is more than to signify it. But the curser causes evil by commanding it, whereas the backbiter merely signifies an evil already existing. Therefore the curser sins more grievously than the backbiter.
 
-## Answer
+### Answer
 
 On the contrary, It is impossible to do well in backbiting, whereas cursing may be either a good or an evil deed, as appears from what has been said [2963](A[1]). Therefore backbiting is graver than cursing.
 
@@ -94,16 +94,16 @@ I answer that, As stated in the [2964]FP, Q[48], A[5], evil is twofold, evil of 
 
 Hence backbiting considered in its generic aspect is a graver sin than the cursing which expresses a mere desire; while the cursing which is expressed by way of command, since it has the aspect of a cause, will be more or less grievous than backbiting, according as it inflicts an injury more or less grave than the blackening of a man's good name. Moreover this must be taken as applying to these vices considered in their essential aspects: for other accidental points might be taken into consideration, which would aggravate or extenuate the aforesaid vices.
 
-## Replies
+### Replies
 
 Reply to Objection 1: To curse a creature, as such, reflects on God, and thus accidentally it has the character of blasphemy; not so if one curse a creature on account of its fault: and the same applies to backbiting.
 
 Reply to Objection 2: As stated above [2966](A[3]), cursing, in one way, includes the desire for evil, where if the curser desire the evil of another's violent death, he does not differ, in desire, from a murderer, but he differs from him in so far as the external act adds something to the act of the will.
 
 Reply to Objection 3: This argument considers cursing by way of command.
-# Whether It Is Lawful To Sell A Thing For More Than Its Worth?
+## Whether It Is Lawful To Sell A Thing For More Than Its Worth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is lawful to sell a thing for more than its worth. In the commutations of human life, civil laws determine that which is just. Now according to these laws it is just for buyer and seller to deceive one another (Cod. IV, xliv, De Rescind. Vend. 8,15): and this occurs by the seller selling a thing for more than its worth, and the buyer buying a thing for less than its worth. Therefore it is lawful to sell a thing for more than its worth
 
@@ -111,7 +111,7 @@ Objection 2: Further, that which is common to all would seem to be natural and n
 
 Objection 3: Further, it does not seem unlawful if that which honesty demands be done by mutual agreement. Now, according to the Philosopher (Ethic. viii, 13), in the friendship which is based on utility, the amount of the recompense for a favor received should depend on the utility accruing to the receiver: and this utility sometimes is worth more than the thing given, for instance if the receiver be in great need of that thing, whether for the purpose of avoiding a danger, or of deriving some particular benefit. Therefore, in contracts of buying and selling, it is lawful to give a thing in return for more than its worth.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 7:12): "All things . . . whatsoever you would that men should do to you, do you also to them." But no man wishes to buy a thing for more than its worth. Therefore no man should sell a thing to another man for more than its worth.
 
@@ -123,16 +123,16 @@ Secondly we may speak of buying and selling, considered as accidentally tending 
 
 On the other hand if a man find that he derives great advantage from something he has bought, he may, of his own accord, pay the seller something over and above: and this pertains to his honesty.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([2967]FS, Q[96], A[2]) human law is given to the people among whom there are many lacking virtue, and it is not given to the virtuous alone. Hence human law was unable to forbid all that is contrary to virtue; and it suffices for it to prohibit whatever is destructive of human intercourse, while it treats other matters as though they were lawful, not by approving of them, but by not punishing them. Accordingly, if without employing deceit the seller disposes of his goods for more than their worth, or the buyer obtain them for less than their worth, the law looks upon this as licit, and provides no punishment for so doing, unless the excess be too great, because then even human law demands restitution to be made, for instance if a man be deceived in regard to more than half the amount of the just price of a thing [*Cod. IV, xliv, De Rescind. Vend. 2,8].
 
 Reply to Objection 2: As Augustine says "this jester, either by looking into himself or by his experience of others, thought that all men are inclined to wish to buy for a song and sell at a premium. But since in reality this is wicked, it is in every man's power to acquire that justice whereby he may resist and overcome this inclination." And then he gives the example of a man who gave the just price for a book to a man who through ignorance asked a low price for it. Hence it is evident that this common desire is not from nature but from vice, wherefore it is common to many who walk along the broad road of sin.
 
 Reply to Objection 3: In commutative justice we consider chiefly real equality. On the other hand, in friendship based on utility we consider equality of usefulness, so that the recompense should depend on the usefulness accruing, whereas in buying it should be equal to the thing bought.
-# Whether A Sale Is Rendered Unlawful Through A Fault In The Thing Sold?
+## Whether A Sale Is Rendered Unlawful Through A Fault In The Thing Sold?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a sale is not rendered unjust and unlawful through a fault in the thing sold. For less account should be taken of the other parts of a thing than of what belongs to its substance. Yet the sale of a thing does not seem to be rendered unlawful through a fault in its substance: for instance, if a man sell instead of the real metal, silver or gold produced by some chemical process, which is adapted to all the human uses for which silver and gold are necessary, for instance in the making of vessels and the like. Much less therefore will it be an unlawful sale if the thing be defective in other ways.
 
@@ -140,7 +140,7 @@ Objection 2: Further, any fault in the thing, affecting the quantity, would seem
 
 Objection 3: Further, the thing sold is rendered defective by lacking a fitting quality. But in order to know the quality of a thing, much knowledge is required that is lacking in most buyers. Therefore a sale is not rendered unlawful by a fault (in the thing sold).
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Offic. iii, 11): "It is manifestly a rule of justice that a good man should not depart from the truth, nor inflict an unjust injury on anyone, nor have any connection with fraud."
 
@@ -152,16 +152,16 @@ A third defect is on the part of the quality, for instance, if a man sell an unh
 
 In all these cases not only is the man guilty of a fraudulent sale, but he is also bound to restitution. But if any of the foregoing defects be in the thing sold, and he knows nothing about this, the seller does not sin, because he does that which is unjust materially, nor is his deed unjust, as shown above ([2968]Q[59], A[2]). Nevertheless he is bound to compensate the buyer, when the defect comes to his knowledge. Moreover what has been said of the seller applies equally to the buyer. For sometimes it happens that the seller thinks his goods to be specifically of lower value, as when a man sells gold instead of copper, and then if the buyer be aware of this, he buys it unjustly and is bound to restitution: and the same applies to a defect in quantity as to a defect in quality.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Gold and silver are costly not only on account of the usefulness of the vessels and other like things made from them, but also on account of the excellence and purity of their substance. Hence if the gold or silver produced by alchemists has not the true specific nature of gold and silver, the sale thereof is fraudulent and unjust, especially as real gold and silver can produce certain results by their natural action, which the counterfeit gold and silver of alchemists cannot produce. Thus the true metal has the property of making people joyful, and is helpful medicinally against certain maladies. Moreover real gold can be employed more frequently, and lasts longer in its condition of purity than counterfeit gold. If however real gold were to be produced by alchemy, it would not be unlawful to sell it for the genuine article, for nothing prevents art from employing certain natural causes for the production of natural and true effects, as Augustine says (De Trin. iii, 8) of things produced by the art of the demons.
 
 Reply to Objection 2: The measures of salable commodities must needs be different in different places, on account of the difference of supply: because where there is greater abundance, the measures are wont to be larger. However in each place those who govern the state must determine the just measures of things salable, with due consideration for the conditions of place and time. Hence it is not lawful to disregard such measures as are established by public authority or custom.
 
 Reply to Objection 3: As Augustine says (De Civ. Dei xi, 16) the price of things salable does not depend on their degree of nature, since at times a horse fetches a higher price than a slave; but it depends on their usefulness to man. Hence it is not necessary for the seller or buyer to be cognizant of the hidden qualities of the thing sold, but only of such as render the thing adapted to man's use, for instance, that the horse be strong, run well and so forth. Such qualities the seller and buyer can easily discover.
-# Whether The Seller Is Bound To State The Defects Of The Thing Sold?
+## Whether The Seller Is Bound To State The Defects Of The Thing Sold?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the seller is not bound to state the defects of the thing sold. Since the seller does not bind the buyer to buy, he would seem to leave it to him to judge of the goods offered for sale. Now judgment about a thing and knowledge of that thing belong to the same person. Therefore it does not seem imputable to the seller if the buyer be deceived in his judgment, and be hurried into buying a thing without carefully inquiring into its condition.
 
@@ -171,7 +171,7 @@ Objection 3: Further, man needs more to know the road of virtue than to know the
 
 Objection 4: Further, if one were bound to tell the faults of what one offers for sale, this would only be in order to lower the price. Now sometimes the price would be lowered for some other reason, without any defect in the thing sold: for instance, if the seller carry wheat to a place where wheat fetches a high price, knowing that many will come after him carrying wheat; because if the buyers knew this they would give a lower price. But apparently the seller need not give the buyer this information. Therefore, in like manner, neither need he tell him the faults of the goods he is selling.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Offic. iii, 10): "In all contracts the defects of the salable commodity must be stated; and unless the seller make them known, although the buyer has already acquired a right to them, the contract is voided on account of the fraudulent action."
 
@@ -179,7 +179,7 @@ I answer that, It is always unlawful to give anyone an occasion of danger or los
 
 On the other hand, if the defect be manifest, for instance if a horse have but one eye, or if the goods though useless to the buyer, be useful to someone else, provided the seller take as much as he ought from the price, he is not bound to state the defect of the goods, since perhaps on account of that defect the buyer might want him to allow a greater rebate than he need. Wherefore the seller may look to his own indemnity, by withholding the defect of the goods.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Judgment cannot be pronounced save on what is manifest: for "a man judges of what he knows" (Ethic. i, 3). Hence if the defects of the goods offered for sale be hidden, judgment of them is not sufficiently left with the buyer unless such defects be made known to him. The case would be different if the defects were manifest.
 
@@ -188,9 +188,9 @@ Reply to Objection 2: There is no need to publish beforehand by the public crier
 Reply to Objection 3: Although a man is not bound strictly speaking to tell everyone the truth about matters pertaining to virtue, yet he is so bound in a case when, unless he tells the truth, his conduct would endanger another man in detriment to virtue: and so it is in this case.
 
 Reply to Objection 4: The defect in a thing makes it of less value now than it seems to be: but in the case cited, the goods are expected to be of less value at a future time, on account of the arrival of other merchants, which was not foreseen by the buyers. Wherefore the seller, since he sells his goods at the price actually offered him, does not seem to act contrary to justice through not stating what is going to happen. If however he were to do so, or if he lowered his price, it would be exceedingly virtuous on his part: although he does not seem to be bound to do this as a debt of justice.
-# Whether, In Trading, It Is Lawful To Sell A Thing At A Higher Price Than What Was Paid For It?
+## Whether, In Trading, It Is Lawful To Sell A Thing At A Higher Price Than What Was Paid For It?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not lawful, in trading, to sell a thing for a higher price than we paid for it. For Chrysostom [*Hom. xxxviii in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says on Mat. 21:12: "He that buys a thing in order that he may sell it, entire and unchanged, at a profit, is the trader who is cast out of God's temple." Cassiodorus speaks in the same sense in his commentary on Ps. 70:15, "Because I have not known learning, or trading" according to another version [*The Septuagint]: "What is trade," says he, "but buying at a cheap price with the purpose of retailing at a higher price?" and he adds: "Such were the tradesmen whom Our Lord cast out of the temple." Now no man is cast out of the temple except for a sin. Therefore such like trading is sinful.
 
@@ -198,22 +198,22 @@ Objection 2: Further, it is contrary to justice to sell goods at a higher price 
 
 Objection 3: Further, Jerome says (Ep. ad Nepot. lii): "Shun, as you would the plague, a cleric who from being poor has become wealthy, or who, from being a nobody has become a celebrity." Now trading would net seem to be forbidden to clerics except on account of its sinfulness. Therefore it is a sin in trading, to buy at a low price and to sell at a higher price.
 
-## Answer
+### Answer
 
 On the contrary, Augustine commenting on Ps. 70:15, "Because I have not known learning," [*Cf. OBJ 1] says: "The greedy tradesman blasphemes over his losses; he lies and perjures himself over the price of his wares. But these are vices of the man, not of the craft, which can be exercised without these vices." Therefore trading is not in itself unlawful.
 
 I answer that, A tradesman is one whose business consists in the exchange of things. According to the Philosopher (Polit. i, 3), exchange of things is twofold; one, natural as it were, and necessary, whereby one commodity is exchanged for another, or money taken in exchange for a commodity, in order to satisfy the needs of life. Such like trading, properly speaking, does not belong to tradesmen, but rather to housekeepers or civil servants who have to provide the household or the state with the necessaries of life. The other kind of exchange is either that of money for money, or of any commodity for money, not on account of the necessities of life, but for profit, and this kind of exchange, properly speaking, regards tradesmen, according to the Philosopher (Polit. i, 3). The former kind of exchange is commendable because it supplies a natural need: but the latter is justly deserving of blame, because, considered in itself, it satisfies the greed for gain, which knows no limit and tends to infinity. Hence trading, considered in itself, has a certain debasement attaching thereto, in so far as, by its very nature, it does not imply a virtuous or necessary end. Nevertheless gain which is the end of trading, though not implying, by its nature, anything virtuous or necessary, does not, in itself, connote anything sinful or contrary to virtue: wherefore nothing prevents gain from being directed to some necessary or even virtuous end, and thus trading becomes lawful. Thus, for instance, a man may intend the moderate gain which he seeks to acquire by trading for the upkeep of his household, or for the assistance of the needy: or again, a man may take to trade for some public advantage, for instance, lest his country lack the necessaries of life, and seek gain, not as an end, but as payment for his labor.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The saying of Chrysostom refers to the trading which seeks gain as a last end. This is especially the case where a man sells something at a higher price without its undergoing any change. For if he sells at a higher price something that has changed for the better, he would seem to receive the reward of his labor. Nevertheless the gain itself may be lawfully intended, not as a last end, but for the sake of some other end which is necessary or virtuous, as stated above.
 
 Reply to Objection 2: Not everyone that sells at a higher price than he bought is a tradesman, but only he who buys that he may sell at a profit. If, on the contrary, he buys not for sale but for possession, and afterwards, for some reason wishes to sell, it is not a trade transaction even if he sell at a profit. For he may lawfully do this, either because he has bettered the thing, or because the value of the thing has changed with the change of place or time, or on account of the danger he incurs in transferring the thing from one place to another, or again in having it carried by another. In this sense neither buying nor selling is unjust.
 
 Reply to Objection 3: Clerics should abstain not only from things that are evil in themselves, but even from those that have an appearance of evil. This happens in trading, both because it is directed to worldly gain, which clerics should despise, and because trading is open to so many vices, since "a merchant is hardly free from sins of the lips" [*'A merchant is hardly free from negligence, and a huckster shall not be justified from the sins of the lips'] (Ecclus. 26:28). There is also another reason, because trading engages the mind too much with worldly cares, and consequently withdraws it from spiritual cares; wherefore the Apostle says (2 Tim. 2:4): "No man being a soldier to God entangleth himself with secular businesses." Nevertheless it is lawful for clerics to engage in the first mentioned kind of exchange, which is directed to supply the necessaries of life, either by buying or by selling.
-# Whether It Is A Sin To Take Usury For Money Lent?
+## Whether It Is A Sin To Take Usury For Money Lent?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not a sin to take usury for money lent. For no man sins through following the example of Christ. But Our Lord said of Himself (Lk. 19:23): "At My coming I might have exacted it," i.e. the money lent, "with usury." Therefore it is not a sin to take usury for lending money.
 
@@ -229,7 +229,7 @@ Objection 6: Further, silver made into coins does not differ specifically from s
 
 Objection 7: Further, anyone may lawfully accept a thing which its owner freely gives him. Now he who accepts the loan, freely gives the usury. Therefore he who lends may lawfully take the usury.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ex. 22:25): "If thou lend money to any of thy people that is poor, that dwelleth with thee, thou shalt not be hard upon them as an extortioner, nor oppress them with usuries."
 
@@ -239,7 +239,7 @@ On the other hand, there are things the use of which does not consist in their c
 
 Now money, according to the Philosopher (Ethic. v, 5; Polit. i, 3) was invented chiefly for the purpose of exchange: and consequently the proper and principal use of money is its consumption or alienation whereby it is sunk in exchange. Hence it is by its very nature unlawful to take payment for the use of money lent, which payment is known as usury: and just as a man is bound to restore other ill-gotten goods, so is he bound to restore the money which he has taken in usury.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In this passage usury must be taken figuratively for the increase of spiritual goods which God exacts from us, for He wishes us ever to advance in the goods which we receive from Him: and this is for our own profit not for His.
 
@@ -254,9 +254,9 @@ Reply to Objection 5: He that is not bound to lend, may accept repayment for wha
 Reply to Objection 6: The principal use of a silver vessel is not its consumption, and so one may lawfully sell its use while retaining one's ownership of it. On the other hand the principal use of silver money is sinking it in exchange, so that it is not lawful to sell its use and at the same time expect the restitution of the amount lent. It must be observed, however, that the secondary use of silver vessels may be an exchange, and such use may not be lawfully sold. In like manner there may be some secondary use of silver money; for instance, a man might lend coins for show, or to be used as security.
 
 Reply to Objection 7: He who gives usury does not give it voluntarily simply, but under a certain necessity, in so far as he needs to borrow money which the owner is unwilling to lend without usury.
-# Whether It Is Lawful To Ask For Any Other Kind Of Consideration For Money Lent?
+## Whether It Is Lawful To Ask For Any Other Kind Of Consideration For Money Lent?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one may ask for some other kind of consideration for money lent. For everyone may lawfully seek to indemnify himself. Now sometimes a man suffers loss through lending money. Therefore he may lawfully ask for or even exact something else besides the money lent.
 
@@ -272,7 +272,7 @@ Objection 6: Further, a man may accept a pledge for money lent, the use of which
 
 Objection 7: Further, it sometimes happens that a man raises the price of his goods under guise of loan, or buys another's goods at a low figure; or raises his price through delay in being paid, and lowers his price that he may be paid the sooner. Now in all these cases there seems to be payment for a loan of money: nor does it appear to be manifestly illicit. Therefore it seems to be lawful to expect or exact some consideration for money lent.
 
-## Answer
+### Answer
 
 On the contrary, Among other conditions requisite in a just man it is stated (Ezech. 18:17) that he "hath not taken usury and increase."
 
@@ -280,7 +280,7 @@ I answer that, According to the Philosopher (Ethic. iv, 1), a thing is reckoned 
 
 On the other hand it is lawful to exact compensation for a loan, in respect of such things as are not appreciated by a measure of money, for instance, benevolence, and love for the lender, and so forth.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A lender may without sin enter an agreement with the borrower for compensation for the loss he incurs of something he ought to have, for this is not to sell the use of money but to avoid a loss. It may also happen that the borrower avoids a greater loss than the lender incurs, wherefore the borrower may repay the lender with what he has gained. But the lender cannot enter an agreement for compensation, through the fact that he makes no profit out of his money: because he must not sell that which he has not yet and may be prevented in many ways from having.
 
@@ -295,9 +295,9 @@ Reply to Objection 5: He who lends money transfers the ownership of the money to
 Reply to Objection 6: If a man in return for money lent to him pledges something that can be valued at a price, the lender must allow for the use of that thing towards the repayment of the loan. Else if he wishes the gratuitous use of that thing in addition to repayment, it is the same as if he took money for lending, and that is usury, unless perhaps it were such a thing as friends are wont to lend to one another gratis, as in the case of the loan of a book.
 
 Reply to Objection 7: If a man wish to sell his goods at a higher price than that which is just, so that he may wait for the buyer to pay, it is manifestly a case of usury: because this waiting for the payment of the price has the character of a loan, so that whatever he demands beyond the just price in consideration of this delay, is like a price for a loan, which pertains to usury. In like manner if a buyer wishes to buy goods at a lower price than what is just, for the reason that he pays for the goods before they can be delivered, it is a sin of usury; because again this anticipated payment of money has the character of a loan, the price of which is the rebate on the just price of the goods sold. On the other hand if a man wishes to allow a rebate on the just price in order that he may have his money sooner, he is not guilty of the sin of usury.
-# Whether A Man Is Bound To Restore Whatever Profits He Has Made Out Of Money Gotten By Usury?
+## Whether A Man Is Bound To Restore Whatever Profits He Has Made Out Of Money Gotten By Usury?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man is bound to restore whatever profits he has made out of money gotten by usury. For the Apostle says (Rom. 11:16): "If the root be holy, so are the branches." Therefore likewise if the root be rotten so are the branches. But the root was infected with usury. Therefore whatever profit is made therefrom is infected with usury. Therefore he is bound to restore it.
 
@@ -305,7 +305,7 @@ Objection 2: Further, it is laid down (Extra, De Usuris, in the Decretal: 'Cum t
 
 Objection 3: Further, that which a man buys with the proceeds of usury is due to him by reason of the money he paid for it. Therefore he has no more right to the thing purchased than to the money he paid. But he was bound to restore the money gained through usury. Therefore he is also bound to restore what he acquired with it.
 
-## Answer
+### Answer
 
 On the contrary, A man may lawfully hold what he has lawfully acquired. Now that which is acquired by the proceeds of usury is sometimes lawfully acquired. Therefore it may be lawfully retained.
 
@@ -313,16 +313,16 @@ I answer that, As stated above [2970](A[1]), there are certain things whose use 
 
 On the other hand, there are certain things whose use is not their consumption: such things admit of usufruct, for instance house or land property and so forth. Wherefore if a man has by usury extorted from another his house or land, he is bound to restore not only the house or land but also the fruits accruing to him therefrom, since they are the fruits of things owned by another man and consequently are due to him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The root has not only the character of matter, as money made by usury has; but has also somewhat the character of an active cause, in so far as it administers nourishment. Hence the comparison fails.
 
 Reply to Objection 2: Further, Property acquired from usury does not belong to the person who paid usury, but to the person who bought it. Yet he that paid usury has a certain claim on that property just as he has on the other goods of the usurer. Hence it is not prescribed that such property should be assigned to the persons who paid usury, since the property is perhaps worth more than what they paid in usury, but it is commanded that the property be sold, and the price be restored, of course according to the amount taken in usury.
 
 Reply to Objection 3: The proceeds of money taken in usury are due to the person who acquired them not by reason of the usurious money as instrumental cause, but on account of his own industry as principal cause. Wherefore he has more right to the goods acquired with usurious money than to the usurious money itself.
-# Whether It Is Lawful To Borrow Money Under A Condition Of Usury?
+## Whether It Is Lawful To Borrow Money Under A Condition Of Usury?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not lawful to borrow money under a condition of usury. For the Apostle says (Rom. 1:32) that they "are worthy of death . . . not only they that do" these sins, "but they also that consent to them that do them." Now he that borrows money under a condition of usury consents in the sin of the usurer, and gives him an occasion of sin. Therefore he sins also.
 
@@ -330,7 +330,7 @@ Objection 2: Further, for no temporal advantage ought one to give another an occ
 
 Objection 3: Further, it seems no less necessary sometimes to deposit one's money with a usurer than to borrow from him. Now it seems altogether unlawful to deposit one's money with a usurer, even as it would be unlawful to deposit one's sword with a madman, a maiden with a libertine, or food with a glutton. Neither therefore is it lawful to borrow from a usurer.
 
-## Answer
+### Answer
 
 On the contrary, He that suffers injury does not sin, according to the Philosopher (Ethic. v, 11), wherefore justice is not a mean between two vices, as stated in the same book (ch. 5). Now a usurer sins by doing an injury to the person who borrows from him under a condition of usury. Therefore he that accepts a loan under a condition of usury does not sin.
 
@@ -338,7 +338,7 @@ I answer that, It is by no means lawful to induce a man to sin, yet it is lawful
 
 Accordingly we must also answer to the question in point that it is by no means lawful to induce a man to lend under a condition of usury: yet it is lawful to borrow for usury from a man who is ready to do so and is a usurer by profession; provided the borrower have a good end in view, such as the relief of his own or another's need. Thus too it is lawful for a man who has fallen among thieves to point out his property to them (which they sin in taking) in order to save his life, after the example of the ten men who said to Ismahel (Jer. 41:8): "Kill us not: for we have stores in the field."
 
-## Replies
+### Replies
 
 Reply to Objection 1: He who borrows for usury does not consent to the usurer's sin but makes use of it. Nor is it the usurer's acceptance of usury that pleases him, but his lending, which is good.
 

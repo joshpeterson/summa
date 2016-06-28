@@ -5,9 +5,9 @@ We must now consider the manner in which prophetic knowledge is conveyed, and un
 (2) Whether the prophetic revelation is effected by the infusion of certain species, or by the infusion of Divine light alone?
 (3) Whether prophetic revelation is always accompanied by abstraction from the sense?
 (4) Whether prophecy is always accompanied by knowledge of the things prophesied?
-# Whether The Prophets See The Very Essence Of God?
+## Whether The Prophets See The Very Essence Of God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the prophets see the very essence of God, for a gloss on Is. 38:1, "Take order with thy house, for thou shalt die and not live," says: "Prophets can read in the book of God's foreknowledge in which all things are written." Now God's foreknowledge is His very essence. Therefore prophets see God's very essence.
 
@@ -15,7 +15,7 @@ Objection 2: Further, Augustine says (De Trin. ix, 7) that "in that eternal trut
 
 Objection 3: Further, future contingencies are foreknown by the prophets "with unchangeable truth." Now future contingencies exist thus in God alone. Therefore the prophets see God Himself.
 
-## Answer
+### Answer
 
 On the contrary, The vision of the Divine essence is not made void in heaven; whereas "prophecy is made void" (1 Cor. 13:8). Therefore prophecy is not conveyed by a vision of the Divine essence.
 
@@ -25,16 +25,16 @@ Some, however, wishing to discriminate between prophetic knowledge and the knowl
 
 Wherefore Dionysius (Coel. Hier. iv), in speaking of prophetic visions, says that "the wise theologian calls that vision divine which is effected by images of things lacking a bodily form through the seer being rapt in divine things." And these images illumined by the Divine light have more of the nature of a mirror than the Divine essence: since in a mirror images are formed from other things, and this cannot be said of God. Yet the prophet's mind thus enlightened may be called a mirror, in so far as a likeness of the truth of the Divine foreknowledge is formed therein, for which reason it is called the "mirror of eternity," as representing God's foreknowledge, for God in His eternity sees all things as present before Him, as stated above ([3681]Q[172], A[1]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The prophets are said to read the book of God's foreknowledge, inasmuch as the truth is reflected from God's foreknowledge on the prophet's mind.
 
 Reply to Objection 2: Man is said to see in the First Truth the type of his existence, in so far as the image of the First Truth shines forth on man's mind, so that he is able to know himself.
 
 Reply to Objection 3: From the very fact that future contingencies are in God according to unalterable truth, it follows that God can impress a like knowledge on the prophet's mind without the prophet seeing God in His essence.
-# Whether, In Prophetic Revelation, New Species Of Things Are Impressed On The Prophet's Mind, Or Merely A New Light?
+## Whether, In Prophetic Revelation, New Species Of Things Are Impressed On The Prophet's Mind, Or Merely A New Light?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in prophetic revelation no new species of things are impressed on the prophet's mind, but only a new light. For a gloss of Jerome on Amos 1:2 says that "prophets draw comparisons from things with which they are conversant." But if prophetic vision were effected by means of species newly impressed, the prophet's previous experience of things would be inoperative. Therefore no new species are impressed on the prophet's soul, but only the prophetic light.
 
@@ -42,7 +42,7 @@ Objection 2: Further, according to Augustine (Gen. ad lit. xii, 9), "it is not i
 
 Objection 3: Further, by the gift of prophecy the Holy Ghost endows man with something that surpasses the faculty of nature. Now man can by his natural faculties form all kinds of species of things. Therefore it would seem that in prophetic revelation no new species of things are impressed, but merely an intellectual light.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Osee 12:10): "I have multiplied" their "visions, and I have used similitudes, by the ministry of the prophets." Now multiplicity of visions results, not from a diversity of intellectual light, which is common to every prophetic vision, but from a diversity of species, whence similitudes also result. Therefore it seems that in prophetic revelation new species of things are impressed, and not merely an intellectual light.
 
@@ -60,16 +60,16 @@ But intellectual light is divinely imprinted on the human mind---sometimes for t
 
 Hence it is evident that prophetic revelation is conveyed sometimes by the mere infusion of light, sometimes by imprinting species anew, or by a new coordination of species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above, sometimes in prophetic revelation imaginary species previously derived from the senses are divinely coordinated so as to accord with the truth to be revealed, and then previous experience is operative in the production of the images, but not when they are impressed on the mind wholly from without.
 
 Reply to Objection 2: Intellectual vision is not effected by means of bodily and individual images, but by an intelligible image. Hence Augustine says (De Trin. ix, 11) that "the soul possesses a certain likeness of the species known to it." Sometimes this intelligible image is, in prophetic revelation, imprinted immediately by God, sometimes it results from pictures in the imagination, by the aid of the prophetic light, since a deeper truth is gathered from these pictures in the imagination by means of the enlightenment of the higher light.
 
 Reply to Objection 3: It is true that man is able by his natural powers to form all kinds of pictures in the imagination, by simply considering these pictures, but not so that they be directed to the representation of intelligible truths that surpass his intellect, since for this purpose he needs the assistance of a supernatural light.
-# Whether The Prophetic Vision Is Always Accompanied By Abstraction From The Senses?
+## Whether The Prophetic Vision Is Always Accompanied By Abstraction From The Senses?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the prophetic vision is always accompanied by abstraction from the senses. For it is written (Num. 12:6): "If there be among you a prophet of the Lord, I will appear to him in a vision, or I will speak to him in a dream." Now a gloss says at the beginning of the Psalter, "a vision that takes place by dreams and apparitions consists of things which seem to be said or done." But when things seem to be said or done, which are neither said nor done, there is abstraction from the senses. Therefore prophecy is always accompanied by abstraction from the senses.
 
@@ -79,7 +79,7 @@ Objection 3: Further, the same thing cannot, at the same time, tend in opposite 
 
 Objection 4: On the contrary, It is written (1 Cor. 14:32): "The spirits of the prophets are subject to the prophets." Now this were impossible if the prophet were not in possession of his faculties, but abstracted from his senses. Therefore it would seem that prophetic vision is not accompanied by abstraction from the senses.
 
-## Answer
+### Answer
 
 
 
@@ -91,7 +91,7 @@ When, however, prophetic revelation is conveyed by images in the imagination, ab
 
 Yet this abstraction from the senses takes place in the prophets without subverting the order of nature, as is the case with those who are possessed or out of their senses; but is due to some well-ordered cause. This cause may be natural---for instance, sleep---or spiritual---for instance, the intenseness of the prophets' contemplation; thus we read of Peter (Acts 10:9) that while he was praying in the supper-room [*Vulg.: 'the house-top' or 'upper-chamber'] "he fell into an ecstasy"---or he may be carried away by the Divine power, according to the saying of Ezechiel 1:3: "The hand of the Lord was upon him."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The passage quoted refers to prophets in whom imaginary pictures were formed or coordinated, either while asleep, which is denoted by the word "dream," or while awake, which is signified by the word "vision."
 
@@ -100,9 +100,9 @@ Reply to Objection 2: When the mind is intent, in its act, upon distant things w
 Reply to Objection 3: The movement of the prophetic mind results not from its own power, but from a power acting on it from above. Hence there is no abstraction from the senses when the prophet's mind is led to judge or coordinate matters relating to objects of sense, but only when the mind is raised to the contemplation of certain more lofty things.
 
 Reply to Objection 4: The spirit of the prophets is said to be subject to the prophets as regards the prophetic utterances to which the Apostle refers in the words quoted; because, to wit, the prophets in declaring what they have seen speak their own mind, and are not thrown off their mental balance, like persons who are possessed, as Priscilla and Montanus maintained. But as regards the prophetic revelation itself, it would be more correct to say that the prophets are subject to the. spirit of prophecy, i.e. to the prophetic gift.
-# Whether Prophets Always Know The Things Which They Prophesy?
+## Whether Prophets Always Know The Things Which They Prophesy?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the prophets always know the things which they prophesy. For, as Augustine says (Gen. ad lit. xii, 9), "those to whom signs were shown in spirit by means of the likenesses of bodily things, had not the gift of prophecy, unless the mind was brought into action, so that those signs were also understood by them." Now what is understood cannot be unknown. Therefore the prophet is not ignorant of what he prophesies.
 
@@ -110,7 +110,7 @@ Objection 2: Further, the light of prophecy surpasses the light of natural reaso
 
 Objection 3: Further, prophecy is directed for man's enlightenment; wherefore it is written (2 Pet. 1:19): "We have the more firm prophetical word, whereunto you do well to attend, as to a light that shineth in a dark place." Now nothing can enlighten others unless it be lightsome in itself. Therefore it would seem that the prophet is first enlightened so as to know what he declares to others.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 11:51): "And this he" (Caiphas) "spoke, not of himself, but being the High Priest of that year, he prophesied that Jesus should die for the nation," etc. Now Caiphas knew this not. Therefore not every prophet knows what he prophesies.
 

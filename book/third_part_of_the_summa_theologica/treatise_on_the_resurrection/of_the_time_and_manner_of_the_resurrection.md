@@ -5,9 +5,9 @@ We must now consider the time and manner of the resurrection. Under this head th
 (2) Whether that time is hidden?
 (3) Whether the resurrection will occur at night-time?
 (4) Whether it will happen suddenly?
-# Whether The Time Of Our Resurrection Should Be Delayed Till The End Of The World?
+## Whether The Time Of Our Resurrection Should Be Delayed Till The End Of The World?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the time of the resurrection ought not to be delayed till the end of the world, so that all may rise together. For there is more conformity between head and members than between one member and another, as there is more between cause and effect than between one effect and another. Now Christ, Who is our Head, did not delay His resurrection until the end of the world, so as to rise again together with all men. Therefore there is no need for the resurrection of the early saints to be deferred until the end of the world, so that they may rise again together with the others.
 
@@ -17,13 +17,13 @@ Objection 3: Further, the state of the New Testament is more perfect, and bears 
 
 Objection 4: Further, there will be no numbering of years after the end of the world. Yet after the resurrection of the dead, the years are still reckoned until the resurrection of others, as appears from Apoc. 20:4,5. For it is stated there that "I saw . . . the souls of them that were beheaded for the testimony of Jesus, and for the word of God," and further on: "And they lived and reigned with Christ a thousand years." And "the rest of the dead lived not till the thousand years were finished." Therefore the resurrection of all is not delayed until the end of the world, that all may rise together.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Job 14:12): "Man when he is fallen asleep shall not rise again till the heavens be broken, he shall not wake, nor rise out of his sleep," and it is a question of the sleep of death. Therefore the resurrection of men will be delayed until the end of the world when the heavens shall be broken.
 
 I answer that, As Augustine states (De Trin. iii, 4) "Divine providence decreed that the grosser and lower bodies should be ruled in a certain order by the more subtle and powerful bodies": wherefore the entire matter of the lower bodies is subject to variation according to the movement of the heavenly bodies. Hence it would be contrary to the order established in things by Divine providence if the matter of lower bodies were brought to the state of incorruption, so long as there remains movement in the higher bodies. And since, according to the teaching of faith, the resurrection will bring men to immortal life conformably to Christ Who "rising again from the dead dieth now no more" (Rom. 6:9), the resurrection of human bodies will be delayed until the end of the world when the heavenly movement will cease. For this reason, too, certain philosophers, who held that the movement of the heavens will never cease, maintained that human souls will return to mortal bodies such as we have now---whether, as Empedocles, they stated that the soul would return to the same body at the end of the great year, or that it would return to another body; thus Pythagoras asserted that "any soul will enter any body," as stated in De Anima i, 3.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the head is more conformed to the members by conformity of proportion (which is requisite in order that it have influence over the members) than one member is to another, yet the head has a certain causality over the members which the members have not; and in this the members differ from the head and agree with one another. Hence Christ's resurrection is an exemplar of ours, and through our faith therein there arises in us the hope of our own resurrection. But the resurrection of one of Christ's members is not the cause of the resurrection of other members, and consequently Christ's resurrection had to precede the resurrection of others who have all to rise again at the consummation of the world.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: Although among the members some rank higher than others an
 Reply to Objection 3: Jerome, in a sermon on the Assumption [*Ep. x ad Paul. et Eustoch., now recognized as spurious], seems to be doubtful of this resurrection of the saints with Christ, namely as to whether, having been witnesses to the resurrection, they died again, so that theirs was a resuscitation (as in the case of Lazarus who died again) rather than a resurrection such as will be at the end of the world---or really rose again to immortal life, to live for ever in the body, and to ascend bodily into heaven with Christ, as a gloss says on Mat. 27:52. The latter seems more probable, because, as Jerome says, in order that they might bear true witness to Christ's true resurrection, it was fitting that they should truly rise again. Nor was their resurrection hastened for their sake, but for the sake of bearing witness to Christ's resurrection: and that by bearing witness thereto they might lay the foundation of the faith of the New Testament: wherefore it was more fitting that it should be borne by the fathers of the Old Testament, than by those who died after the foundation of the New. It must, however, be observed that, although the Gospel mentions their resurrection before Christ's, we must take this statement as made in anticipation, as is often the case with writers of history. For none rose again with a true resurrection before Christ, since He is the "first-fruits of them that sleep" (1 Cor. 15:20), although some were resuscitated before Christ's resurrection, as in the case of Lazarus.
 
 Reply to Objection 4: On account of these words, as Augustine relates (De Civ. Dei xx, 7), certain heretics asserted that there will be a first resurrection of the dead that they may reign with Christ on earth for a thousand years; whence they were called "chiliasts" or "millenarians." Hence Augustine says (De Civ. Dei xx, 7) that these words are to be understood otherwise, namely of the spiritual resurrection, whereby men shall rise again from their sins to the gift of grace: while the second resurrection is of bodies. The reign of Christ denotes the Church wherein not only martyrs but also the other elect reign, the part denoting the whole; or they reign with Christ in glory as regards all, special mention being made of the martyrs, because they especially reign after death who fought for the truth, even unto death. The number of a thousand years denotes not a fixed number, but the whole of the present time wherein the saints now reign with Christ, because the number 1,000 designates universality more than the number 100, since 100 is the square of 10, whereas 1,000 is a cube resulting from the multiplication of ten by its square, for 10 X 10 = 100, and 100 X 10 = 1,000. Again in Ps. 104:8, "The word which He commanded to a thousand," i.e. all, "generations."
-# Whether The Time Of Our Resurrection Is Hidden?
+## Whether The Time Of Our Resurrection Is Hidden?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this time is not hidden. Because when we know exactly the beginning of a thing, we can know its end exactly, since "all things are measured by a certain period" (De Generat. ii). Now the beginning of the world is known exactly. Therefore its end can also be known exactly. But this will be the time of the resurrection and judgment. Therefore that time is not hidden.
 
@@ -42,22 +42,22 @@ Objection 2: Further, it is stated (Apoc. 12:6) that "the woman who represents t
 
 Objection 3: Further, the state of the New Testament was foreshadowed in the Old Testament. Now we know exactly the time wherein the state of the Old Testament endured. Therefore we can also know exactly the time wherein the state of the New Testament will endure. But the state of the New Testament will last to the end of the world, wherefore it is said (Mat. 28:20): "Behold I am with you . . . to the consummation of the world." Therefore the time of the end of the world and of the resurrection can be known exactly.
 
-## Answer
+### Answer
 
 On the contrary, That which is unknown to the angels will be much more unknown to men: because those things to which men attain by natural reason are much more clearly and certainly known to the angels by their natural knowledge. Moreover revelations are not made to men save by means of the angels as Dionysius asserts (Coel. Hier. iv). Now the angels have no exact knowledge of that time, as appears from Mat. 24:36: "Of that day and hour no one knoweth, no not the angels of heaven." Therefore that time is hidden from men.
 
 I answer that, As Augustine says (Qq. lxxxiii, qu. 58) "as to the last age of the human race, which begins from our Lord's coming and lasts until the end of the world, it is uncertain of how many generations it will consist: even so old age, which is man's last age, has no fixed time according to the measure of the other ages, since sometimes alone it lasts as long a time as all the others." The reason of this is because the exact length of future time cannot be known except either by revelation or by natural reason: and the time until the resurrection cannot be reckoned by natural reason, because the resurrection and the end of the heavenly movement will be simultaneous as stated above [5060](A[1]). And all things that are foreseen by natural reason to happen at a fixed time are reckoned by movement: and it is impossible from the movement of the heaven to reckon its end, for since it is circular, it is for this very reason able by its nature to endure for ever: and consequently the time between this and the resurrection cannot be reckoned by natural reason. Again it cannot be known by revelation, so that all may be on the watch and ready to meet Christ: and for this reason when the apostles asked Him about this, Christ answered (Acts 1:7): "It is not for you to know the times or moments which the Father hath put in His own power," whereby, as Augustine says (De Civ. Dei xviii, 53): "He scatters the fingers of all calculators and bids them be still." For what He refused to tell the apostles, He will not reveal to others: wherefore all those who have been misled to reckon the aforesaid time have so far proved to be untruthful; for some, as Augustine says (De Civ. Dei xviii, 53), stated that from our Lord's Ascension to His last coming 400 years would elapse, others 500, others 1,000. The falseness of these calculators is evident, as will likewise be the falseness of those who even now cease not to calculate.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When we know a thing's beginning and also its end it follows that its measure is known to us: wherefore if we know the beginning of a thing the duration of which is measured by the movement of the heaven, we are able to know its end, since the movement of heaven is known to us. But the measure of the duration of the heavenly movement is God's ordinance alone, which is unknown to us. Wherefore however much we may know its beginning, we are unable to know its end.
 
 Reply to Objection 2: The thousand two hundred sixty days mentioned in the Apocalypse (12:6) denote all the time during which the Church endures, and not any definite number of years. The reason whereof is because the preaching of Christ on which the Church is built lasted three years and a half, which time contains almost an equal number of days as the aforesaid number. Again the number of days appointed by Daniel does not refer to a number of years to elapse before the end of the world or until the preaching of Antichrist, but to the time of Antichrist's preaching and the duration of his persecution.
 
 Reply to Objection 3: Although the state of the New Testament in general is foreshadowed by the state of the Old Testament it does not follow that individuals correspond to individuals: especially since all the figures of the Old Testament were fulfilled in Christ. Hence Augustine (De Civ. Dei xviii, 52) answers certain persons who wished to liken the number of persecutions suffered by the Church to the number of the plagues of Egypt, in these words: "I do not think that the occurrences in Egypt were in their signification prophetic of these persecutions, although those who think so have shown nicety and ingenuity in adapting them severally the one to the other, not indeed by a prophetic spirit, but by the guess-work of the human mind, which sometimes reaches the truth and sometimes not." The same remarks would seem applicable to the statements of Abbot Joachim, who by means of such conjectures about the future foretold some things that were true, and in others was deceived.
-# Whether The Resurrection Will Take Place At Night-time?
+## Whether The Resurrection Will Take Place At Night-time?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the resurrection will not be at night-time. For the resurrection will not be "till the heavens be broken" (Job 14:12). Now when the heavenly movement ceases, which is signified by its breaking, there will be no time, neither night nor day. Therefore the resurrection will not be at night-time.
 
@@ -65,22 +65,22 @@ Objection 2: Further, the end of a thing ought to be most perfect. Now the end o
 
 Objection 3: Further, the time should be such as to be adapted to what is done therein: wherefore (Jn. 13:30) the night is mentioned as being the time when Judas went out from the fellowship of the light. Now, all things that are hidden at the present time will then be made most manifest, because when the Lord shall come He "will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts" (1 Cor. 4:5). Therefore it ought to be during the day.
 
-## Answer
+### Answer
 
 On the contrary, Christ's resurrection is the exemplar of ours. Now Christ's resurrection was at night, as Gregory says in a homily for Easter (xxi in Evang.). Therefore our resurrection will also be at night-time.
 
 I answer that, The exact time and hour at which the resurrection will be cannot be known for certain, as stated in the text (Sent. iv, D, 43). Nevertheless some assert with sufficient probability that it will be towards the twilight, the moon being in the east and the sun in the west; because the sun and moon are believed to have been created in these positions, and thus their revolutions will be altogether completed by their return to the same point. Wherefore it is said that Christ arose at such an hour.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When the resurrection occurs, it will not be time but the end of time; because at the very instant that the heavens will cease to move the dead will rise again. Nevertheless the stars will be in the same position as they occupy now at any fixed hour: and accordingly it is said that the resurrection will be at this or that hour.
 
 Reply to Objection 2: The most perfect disposition of time is said to be midday, on account of the light given by the sun. But then the city of God will need neither sun nor moon, because the glory of God will enlighten it (Apoc. 22:5). Wherefore in this respect it matters not whether the resurrection be in the day or in the night.
 
 Reply to Objection 3: That time should be adapted to manifestation as regards the things that will happen then, and to secrecy as regards the fixing of the time. Hence either may happen fittingly, namely that the resurrection be in the day or in the night.
-# Whether The Resurrection Will Happen Suddenly Or By Degrees?
+## Whether The Resurrection Will Happen Suddenly Or By Degrees?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the resurrection will not happen suddenly but by degrees. For the resurrection of the dead is foretold (Ezech. 37:7,8) where it is written: "The bones came together . . . and I saw and behold the sinews and the flesh came up upon them, and the skin was stretched out over them, but there was no spirit in them." Therefore the restoration of the bodies will precede in time their reunion with the souls, and thus the resurrection will not be sudden.
 
@@ -92,13 +92,13 @@ Objection 4: Further, no local movement can be sudden as stated in De Sensu et S
 
 
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 15:51,52): "We shall all indeed rise again . . . in a moment, in the twinkling of an eye." Therefore the resurrection will be sudden.
 
 I answer that, At the resurrection something will be done by the ministry of the angels, and something immediately by the power of God, as stated above ([5063]Q[76], A[3]). Accordingly that which is done by the ministry of the angels, will not be instantaneous, if by instant we mean an indivisible point of time, but it will be instantaneous if by instant we mean an imperceptible time. But that which will be done immediately by God's power will happen suddenly, namely at the end of the time wherein the work of the angels will be done, because the higher power brings the lower to perfection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Ezechiel spoke, like Moses to a rough people, and therefore, just as Moses divided the works of the six days into days, in order that the uncultured people might be able to understand, although all things were made together according to Augustine (Gen. ad lit. iv), so Ezechiel expressed the various things that will happen in the resurrection, although they will all happen together in an instant.
 

@@ -7,9 +7,9 @@ We must now consider liberality and the opposite vices, namely, covetousness and
 (4) Whether it pertains thereto to give rather than to take?
 (5) Whether liberality is a part of justice?
 (6) Of its comparison with other virtues.
-# Whether Liberality Is A Virtue?
+## Whether Liberality Is A Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It seems that liberality is not a virtue. For no virtue is contrary to a natural inclination. Now it is a natural inclination for one to provide for oneself more than for others: and yet it pertains to the liberal man to do the contrary, since, according to the Philosopher (Ethic. iv, 1), "it is the mark of a liberal man not to look to himself, so that he leaves for himself the lesser things." Therefore liberality is not a virtue.
 
@@ -17,22 +17,22 @@ Objection 2: Further, man sustains life by means of riches, and wealth contribut
 
 Objection 3: Further, the virtues are connected with one another. But liberality does not seem to be connected with the other virtues: since many are virtuous who cannot be liberal, for they have nothing to give; and many give or spend liberally who are not virtuous otherwise. Therefore liberality is not a virtue.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Offic. i) that "the Gospel contains many instances in which a just liberality is inculcated." Now in the Gospel nothing is taught that does not pertain to virtue. Therefore liberality is a virtue.
 
 I answer that, As Augustine says (De Lib. Arb. ii, 19), "it belongs to virtue to use well the things that we can use ill." Now we may use both well and ill, not only the things that are within us, such as the powers and the passions of the soul, but also those that are without, such as the things of this world that are granted us for our livelihood. Wherefore since it belongs to liberality to use these things well, it follows that liberality is a virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Ambrose (Serm. lxiv de Temp.) and Basil (Hom. in Luc. xii, 18) excess of riches is granted by God to some, in order that they may obtain the merit of a good stewardship. But it suffices for one man to have few things. Wherefore the liberal man commendably spends more on others than on himself. Nevertheless we are bound to be more provident for ourselves in spiritual goods, in which each one is able to look after himself in the first place. And yet it does not belong to the liberal man even in temporal things to attend so much to others as to lose sight of himself and those belonging to him. Wherefore Ambrose says (De Offic. i): "It is a commendable liberality not to neglect your relatives if you know them to be in want."
 
 Reply to Objection 2: It does not belong to a liberal man so to give away his riches that nothing is left for his own support, nor the wherewithal to perform those acts of virtue whereby happiness is acquired. Hence the Philosopher says (Ethic. iv, 1) that "the liberal man does not neglect his own, wishing thus to be of help to certain people"; and Ambrose says (De Offic. i) that "Our Lord does not wish a man to pour out his riches all at once, but to dispense them: unless he do as Eliseus did, who slew his oxen and fed the poor, that he might not be bound by any household cares." For this belongs to the state of perfection, of which we shall speak farther on (Q[184][3238], Q[186], A[3]).
 
 Reply to Objection 3: As the Philosopher says (Ethic. iv, 1), "those who spend much on intemperance are not liberal but prodigal"; and likewise whoever spends what he has for the sake of other sins. Hence Ambrose says (De Offic. i): "If you assist to rob others of their possessions, your honesty is not to be commended, nor is your liberality genuine if you give for the sake of boasting rather than of pity." Wherefore those who lack other virtues, though they spend much on certain evil works, are not liberal.
-# Whether Liberality Is About Money?
+## Whether Liberality Is About Money?
 
-## Objections
+### Objections
 
 Objection 1: It seems that liberality is not about money. For every moral virtue is about operations and passions. Now it is proper to justice to be about operations, as stated in Ethic. v, 1. Therefore, since liberality is a moral virtue, it seems that it is about passions and not about money.
 
@@ -40,22 +40,22 @@ Objection 2: Further, it belongs to a liberal man to make use of any kind of wea
 
 Objection 3: Further, different virtues have different matter, since habits are distinguished by their objects. But external things are the matter of distributive and commutative justice. Therefore they are not the matter of liberality.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. iv, 1) that "liberality seems to be a mean in the matter of money."
 
 I answer that, According to the Philosopher (Ethic. iv, 1) it belongs to the liberal man to part with things. Hence liberality is also called open-handedness [largitas], because that which is open does not withhold things but parts of them. The term "liberality" seems also to allude to this, since when a man quits hold of a thing he frees it [liberat], so to speak, from his keeping and ownership, and shows his mind to be free of attachment thereto. Now those things which are the subject of a man's free-handedness towards others are the goods he possesses, which are denoted by the term "money." Therefore the proper matter of liberality is money.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above (A[1], ad 3), liberality depends not on the quantity given, but on the heart of the giver. Now the heart of the giver is disposed according to the passions of love and desire, and consequently those of pleasure and sorrow, towards the things given. Hence the interior passions are the immediate matter of liberality, while exterior money is the object of those same passions.
 
 Reply to Objection 2: As Augustine says in his book De Disciplina Christi (Tract. de divers, i), everything whatsoever man has on earth, and whatsoever he owns, goes by the name of "'pecunia' [money], because in olden times men's possessions consisted entirely of 'pecora' [flocks]." And the Philosopher says (Ethic. iv, 1): "We give the name of money to anything that can be valued in currency."
 
 Reply to Objection 3: Justice establishes equality in external things, but has nothing to do, properly speaking, with the regulation of internal passions: wherefore money is in one way the matter of liberality, and in another way of justice.
-# Whether Using Money Is The Act Of Liberality?
+## Whether Using Money Is The Act Of Liberality?
 
-## Objections
+### Objections
 
 Objection 1: It seems that using money is not the act of liberality. For different virtues have different acts. But using money is becoming to other virtues, such as justice and magnificence. Therefore it is not the proper act of liberality.
 
@@ -63,22 +63,22 @@ Objection 2: Further, it belongs to a liberal man, not only to give but also to 
 
 Objection 3: Further, the use of money consists not only in giving it but also in spending it. But the spending of money refers to the spender, and consequently is not an act of liberality: for Seneca says (De Benef. v): "A man is not liberal by giving to himself." Therefore not every use of money belongs to liberality.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. iv, 1): "In whatever matter a man is virtuous, he will make the best use of that matter: Therefore he that has the virtue with regard to money will make the best use of riches." Now such is the liberal man. Therefore the good use of money is the act of liberality.
 
 I answer that, The species of an act is taken from its object, as stated above ([3240]FS, Q[18], A[2]). Now the object or matter of liberality is money and whatever has a money value, as stated in the foregoing Article (ad 2). And since every virtue is consistent with its object, it follows that, since liberality is a virtue, its act is consistent with money. Now money comes under the head of useful goods, since all external goods are directed to man's use. Hence the proper act of liberality is making use of money or riches.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It belongs to liberality to make good use of riches as such, because riches are the proper matter of liberality. On the other hand it belongs to justice to make use of riches under another aspect, namely, that of debt, in so far as an external thing is due to another. And it belongs to magnificence to make use of riches under a special aspect, in so far, to wit, as they are employed for the fulfilment of some great deed. Hence magnificence stands in relation to liberality as something in addition thereto, as we shall explain farther on ([3241]Q[134]).
 
 Reply to Objection 2: It belongs to a virtuous man not only to make good use of his matter or instrument, but also to provide opportunities for that good use. Thus it belongs to a soldier's fortitude not only to wield his sword against the foe, but also to sharpen his sword and keep it in its sheath. Thus, too, it belongs to liberality not only to use money, but also to keep it in preparation and safety in order to make fitting use of it.
 
 Reply to Objection 3: As stated (A[2], ad 1), the internal passions whereby man is affected towards money are the proximate matter of liberality. Hence it belongs to liberality before all that a man should not be prevented from making any due use of money through an inordinate affection for it. Now there is a twofold use of money: one consists in applying it to one's own use, and would seem to come under the designation of costs or expenditure; while the other consists in devoting it to the use of others, and comes under the head of gifts. Hence it belongs to liberality that one be not hindered by an immoderate love of money, either from spending it becomingly, or from making suitable gifts. Therefore liberality is concerned with giving and spending, according to the Philosopher (Ethic. iv, 1). The saying of Seneca refers to liberality as regards giving: for a man is not said to be liberal for the reason that he gives something to himself.
-# Whether It Belongs To A Liberal Man Chiefly To Give?
+## Whether It Belongs To A Liberal Man Chiefly To Give?
 
-## Objections
+### Objections
 
 Objection 1: It seems that it does not belong to a liberal man chiefly to give. For liberality, like all other moral virtues, is regulated by prudence. Now it seems to belong very much to prudence that a man should keep his riches. Wherefore the Philosopher says (Ethic. iv, 1) that "those who have not earned money, but have received the money earned by others, spend it more liberally, because they have not experienced the want of it." Therefore it seems that giving does not chiefly belong to the liberal man.
 
@@ -88,13 +88,13 @@ Objection 3: Further, in order to accomplish what he intends chiefly, a man empl
 
 Objection 4: Further, man is bound to look after himself rather than others. But by spending he looks after himself, whereas by giving he looks after others. Therefore it belongs to a liberal man to spend rather than to give.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. iv, 1) that "it belongs to a liberal man to surpass in giving."
 
 I answer that, It is proper to a liberal man to use money. Now the use of money consists in parting with it. For the acquisition of money is like generation rather than use: while the keeping of money, in so far as it is directed to facilitate the use of money, is like a habit. Now in parting with a thing ---for instance, when we throw something---the farther we put it away the greater the force [virtus] employed. Hence parting with money by giving it to others proceeds from a greater virtue than when we spend it on ourselves. But it is proper to a virtue as such to tend to what is more perfect, since "virtue is a kind of perfection" (Phys. vii, text. 17,18). Therefore a liberal man is praised chiefly for giving.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It belongs to prudence to keep money, lest it be stolen or spent uselessly. But to spend it usefully is not less but more prudent than to keep it usefully: since more things have to be considered in money's use, which is likened to movement, than in its keeping, which is likened to rest. As to those who, having received money that others have earned, spend it more liberally, through not having experienced the want of it, if their inexperience is the sole cause of their liberal expenditure they have not the virtue of liberality. Sometimes, however, this inexperience merely removes the impediment to liberality, so that it makes them all the more ready to act liberally, because, not unfrequently, the fear of want that results from the experience of want hinders those who have acquired money from using it up by acting with liberality; as does likewise the love they have for it as being their own effect, according to the Philosopher (Ethic. iv, 1).
 
@@ -103,9 +103,9 @@ Reply to Objection 2: As stated in this and the preceding Article, it belongs to
 Reply to Objection 3: Giving and receiving are related to one another as action and passion. Now the same thing is not the principle of both action and passion. Hence, since liberality is a principle of giving, it does not belong to the liberal man to be ready to receive, and still less to beg. Hence the verse:
 
 Reply to Objection 4: To spend on oneself is an inclination of nature; hence to spend money on others belongs properly to a virtue.
-# Whether Liberality Is A Part Of Justice?
+## Whether Liberality Is A Part Of Justice?
 
-## Objections
+### Objections
 
 Objection 1: It seems that liberality is not a part of justice. For justice regards that which is due. Now the more a thing is due the less liberally is it given. Therefore liberality is not a part of justice, but is incompatible with it.
 
@@ -113,22 +113,22 @@ Objection 2: Further, justice is about operation as stated above (Q[58], A[9]; [
 
 Objection 3: Further, it belongs chiefly to liberality to give becomingly, as stated [3243](A[4]). But giving becomingly belongs to beneficence and mercy, which pertain to charity, as state above (QQ[30],31). Therefore liberality is a part of charity rather than of justice.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Offic. i): "Justice has to do with the fellowship of mankind. For the notion of fellowship is divided into two parts, justice and beneficence, also called liberality or kind-heartedness." Therefore liberality pertains to justice.
 
 I answer that, Liberality is not a species of justice, since justice pays another what is his whereas liberality gives another what is one's own. There are, however, two points in which it agrees with justice: first, that it is directed chiefly to another, as justice is; secondly, that it is concerned with external things, and so is justice, albeit under a different aspect, a stated in this Article and above (A[2], ad 3). Hence it is that liberality is reckoned by some to be a part of justice, being annexed thereto as to a principal virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although liberality does no consider the legal due that justice considers, it considers a certain moral due. This due is based on a certain fittingness and not on an obligation: so that it answers to the idea of due in the lowest degree.
 
 Reply to Objection 2: Temperance is about concupiscence in pleasures of the body. But the concupiscence and delight in money is not referable to the body but rather to the soul. Hence liberality does not properly pertain to temperance.
 
 Reply to Objection 3: The giving of beneficence and mercy proceeds from the fact that a man has a certain affection towards the person to whom he gives: wherefore this giving belongs to charity or friendship. But the giving of liberality arises from a person being affected in a certain way towards money, in that he desires it not nor loves it: so that when it is fitting he gives it not only to his friends but also to those whom he knows not. Hence it belong not to charity, but to justice, which is about external things.
-# Whether Liberality Is The Greatest Of The Virtues?
+## Whether Liberality Is The Greatest Of The Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It seems that liberality is the greatest of the virtues. For every virtue of man is a likeness to the divine goodness. Now man is likened chiefly by liberality to God, "Who giveth to all men abundantly, and upbraideth not" (James 1:5). Therefore liberality is the greatest of the virtues.
 
@@ -136,13 +136,13 @@ Objection 2: Further, according to Augustine (De Trin. vi, 8), "in things that a
 
 Objection 3: Further, men are honored and loved on account of virtue. Now Boethius says (De Consol. ii) that "bounty above all makes a man famous": and the Philosopher says (Ethic. iv, 1) that "among the virtuous the liberal are the most beloved." Therefore liberality is the greatest of virtues.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Offic. i) that "justice seems to be more excellent than liberality, although liberality is more pleasing." The Philosopher also says (Rhet. i, 9) that "brave and just men are honored chiefly and, after them, those who are liberal."
 
 I answer that, Every virtue tends towards a good; wherefore the greater virtue is that which tends towards the greater good. Now liberality tends towards a good in two ways: in one way, primarily and of its own nature; in another way, consequently. Primarily and of its very nature it tends to set in order one's own affection towards the possession and use of money. In this way temperance, which moderates desires and pleasures relating to one's own body, takes precedence of liberality: and so do fortitude and justice, which, in a manner, are directed to the common good, one in time of peace, the other in time of war: while all these are preceded by those virtues which are directed to the Divine good. For the Divine good surpasses all manner of human good; and among human goods the public good surpasses the good of the individual; and of the last named the good of the body surpasses those goods that consist of external things. Again, liberality is ordained to a good consequently, and in this way it is directed to all the aforesaid goods. For by reason of his not being a lover of money, it follows that a man readily makes use of it, whether for himself. Or for the good of others, or for God's glory. Thus it derives a certain excellence from being useful in many ways. Since, however, we should judge of things according to that which is competent to them primarily and in respect of their nature, rather than according to that which pertains to them consequently, it remains to be said that liberality is not the greatest of virtues.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God's giving proceeds from His love for those to whom He gives, not from His affection towards the things He gives, wherefore it seems to pertain to charity, the greatest of virtues, rather than to liberality.
 

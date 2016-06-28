@@ -11,9 +11,9 @@ We must now consider the entrance into religious life. Under this head there are
 (8) Whether one may pass from one religious order to another?
 (9) Whether one ought to induce others to enter religion?
 (10) Whether serious deliberation with one's relations and friends is requisite for entrance into religion?
-# Whether Those Who Are Not Practiced In Keeping The Commandments Should Enter Religion?
+## Whether Those Who Are Not Practiced In Keeping The Commandments Should Enter Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that none should enter religion but those who are practiced in the observance of the commandments. For our Lord gave the counsel of perfection to the young man who said that he had kept the commandments "from his youth." Now all religious orders originate from Christ. Therefore it would seem that none should be allowed to enter religion but those who are practiced in the observance of the commandments.
 
@@ -25,7 +25,7 @@ Objection 4: Further, a gloss on Ps. 130:2, "As a child that is weaned is toward
 
 Objection 5: Further, one should proceed from that which precedes to that which follows after. Now the commandments precede the counsels, because they are more universal, for "the implication of the one by the other is not convertible" [*Categor. ix], since whoever keeps the counsels keeps the commandments, but the converse does not hold. Seeing then that the right order requires one to pass from that which comes first to that which comes after, it follows that one ought not to pass to the observance of the counsels in religion, without being first of all practiced in the observance of the commandments.
 
-## Answer
+### Answer
 
 On the contrary, Matthew the publican who was not practiced in the observance of the commandments was called by our Lord to the observance of the counsels. For it is stated (Lk. 5:28) that "leaving all things he . . . followed Him." Therefore it is not necessary for a person to be practiced in the observance of the commandments before passing to the perfection of the counsels.
 
@@ -33,7 +33,7 @@ I answer that, As shown above ([3834]Q[188], A[1]), the religious state is a spi
 
 Consequently it is right that not only those who are practiced in the observance of the commandments should enter religion in order to attain to yet greater perfection, but also those who are not practiced, in order the more easily to avoid sin and attain to perfection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Jerome (Super Matth. xix, 20) says: "The young man lies when he says: 'All these have I kept from my youth.' For if he had fulfilled this commandment, 'Thou shalt love thy neighbor as thyself,' why did he go away sad when he heard: Go, sell all thou hast and give to the poor?" But this means that he lied as to the perfect observance of this commandment. Hence Origen says (Tract. viii super Matth.) that "it is written in the Gospel according to the Hebrews that when our Lord had said to him: 'Go, sell all thou hast,' the rich man began to scratch his head; and that our Lord said to him: How sayest thou: I have fulfilled the law and the prophets, seeing that it is written in the law: Thou shalt love thy neighbor as thyself? Behold many of thy brethren, children of Abraham, are clothed in filth, and die of hunger, whilst thy house is full of all manner of good things, and nothing whatever hath passed thence to them. And thus our Lord reproves him saying: If thou wilt be perfect, go, etc. For it is impossible to fulfil the commandment which says, Thou shalt love thy neighbor as thyself, and to be rich, especially to have such great wealth." This also refers to the perfect fulfilment of this precept. on the other hand, it is true that he kept the commandments imperfectly and in a general way. For perfection consists chiefly in the observance of the precepts of charity, as stated above ([3835]Q[184], A[3]). Wherefore in order to show that the perfection of the counsels is useful both to the innocent and to sinners, our Lord called not only the innocent youth but also the sinner Matthew. Yet Matthew obeyed His call, and the youth obeyed not, because sinners are converted to the religious life more easily than those who presume on their innocency. It is to the former that our Lord says (Mat. 21:31): "The publicans and the harlots shall go into the kingdom of God before you."
 
@@ -44,9 +44,9 @@ Reply to Objection 3: As stated above ([3836]Q[184], A[6]) the holy orders prere
 Reply to Objection 4: It is manifest from the words of this gloss that it is chiefly a question of the order of doctrine, in so far as one has to pass from easy matter to that which is more difficult. Hence it is clear from what follows that the statement that certain "heretics" and "schismatics have perverted this order" refers to the order of doctrine. For it continues thus: "But he says that he has kept these things, namely the aforesaid order, binding himself by an oath [*Referring to the last words of the verse, and taking 'retributio,' which Douay renders 'reward,' as meaning 'punishment']. Thus I was humble not only in other things but also in knowledge, for 'I was humbly minded'; because I was first of all fed with milk, which is the Word made flesh, so that I grew up to partake of the bread of angels, namely the Word that is in the beginning with God." The example which is given in proof, of the newly baptized not being commanded to fast until Pentecost, shows that no difficult things are to be laid on them as an obligation before the Holy Ghost inspires them inwardly to take upon themselves difficult things of their own choice. Hence after Pentecost and the receiving of the Holy Ghost the Church observes a fast. Now the Holy Ghost, according to Ambrose (Super Luc. 1:15), "is not confined to any particular age; He ceases not when men die, He is not excluded from the maternal womb." Gregory also in a homily for Pentecost (xxx in Ev.) says: "He fills the boy harpist and makes him a psalmist: He fills the boy abstainer and makes him a wise judge [*Dan. 1:8-17]," and afterwards he adds: "No time is needed to learn whatsoever He will, for He teaches the mind by the merest touch." Again it is written (Eccles. 8:8), "It is not in man's power to stop the Spirit," and the Apostle admonishes us (1 Thess. 5:19): "Extinguish not the Spirit," and (Acts 7:51) it is said against certain persons: "You always resist the Holy Ghost."
 
 Reply to Objection 5: There are certain chief precepts which are the ends, so to say, of the commandments and counsels. These are the precepts of charity, and the counsels are directed to them, not that these precepts cannot be observed without keeping the counsels, but that the keeping of the counsels conduces to the better observance of the precepts. The other precepts are secondary and are directed to the precepts of charity; in such a way that unless one observe them it is altogether impossible to keep the precepts of charity. Accordingly in the intention the perfect observance of the precepts of charity precedes the counsels, and yet sometimes it follows them in point of time. For such is the order of the end in relation to things directed to the end. But the observance in a general way of the precepts of charity together with the other precepts, is compared to the counsels as the common to the proper, because one can observe the precepts without observing the counsels, but not vice versa. Hence the common observance of the precepts precedes the counsels in the order of nature; but it does not follow that it precedes them in point of time, for a thing is not in the genus before being in one of the species. But the observance of the precepts apart from the counsels is directed to the observance of the precepts together with the counsels; as an imperfect to a perfect species, even as the irrational to the rational animal. Now the perfect is naturally prior to the imperfect, since "nature," as Boethius says (De Consol. iii, 10), "begins with perfect things." And yet it is not necessary for the precepts first of all to be observed without the counsels, and afterwards with the counsels, just as it is not necessary for one to be an ass before being a man, or married before being a virgin. In like manner it is not necessary for a person first of all to keep the commandments in the world before entering religion; especially as the worldly life does not dispose one to religious perfection, but is more an obstacle thereto.
-# Whether One Ought To Be Bound By Vow To Enter Religion?
+## Whether One Ought To Be Bound By Vow To Enter Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one ought not to be bound by vow to enter religion. For in making his profession a man is bound by the religious vow. Now before profession a year of probation is allowed, according to the rule of the Blessed Benedict (lviii) and according to the decree of Innocent IV [*Sext. Decret., cap. Non solum., de Regular. et Transeunt, ad Relig.] who moreover forbade anyone to be bound to the religious life by profession before completing the year of probation. Therefore it would seem that much less ought anyone while yet in the world to be bound by vow to enter religion.
 
@@ -54,22 +54,22 @@ Objection 2: Further, Gregory says (Regist. xi, Ep. 15): Jews "should be persuad
 
 Objection 3: Further, no one should give another an occasion of falling; wherefore it is written (Ex. 21:33,34): "If a man open a pit . . . and an ox or an ass fall into it, the owner of the pit shall pay the price of the beasts." Now through being bound by vow to enter religion it often happens that people fall into despair and various sins. Therefore it would seem that one ought not to be bound by vow to enter religion.
 
-## Answer
+### Answer
 
 On the contrary, It is written, (Ps. 75:12): "Vow ye, and pay to the Lord your God"; and a gloss of Augustine says that "some vows concern the individual, such as vows of chastity, virginity, and the like." Consequently Holy Scripture invites us to vow these things. But Holy Scripture invites us only to that which is better. Therefore it is better to bind oneself by vow to enter religion.
 
 I answer that, As stated above ([3837]Q[88], A[6]), when we were treating of vows, one and the same work done in fulfilment of a vow is more praiseworthy than if it be done apart from a vow, both because to vow is an act of religion, which has a certain pre-eminence among the virtues, and because a vow strengthens a man's will to do good; and just as a sin is more grievous through proceeding from a will obstinate in evil, so a good work is the more praiseworthy through proceeding from a will confirmed in good by means of a vow. Therefore it is in itself praiseworthy to bind oneself by vow to enter religion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The religious vow is twofold. One is the solemn vow which makes a man a monk or a brother in some other religious order. This is called the profession, and such a vow should be preceded by a year's probation, as the objection proves. The other is the simple vow which does not make a man a monk or a religious, but only binds him to enter religion, and such a vow need not be preceded by a year's probation.
 
 Reply to Objection 2: The words quoted from Gregory must be understood as referring to absolute violence. But the compulsion arising from the obligation of a vow is not absolute necessity, but a necessity of end, because after such a vow one cannot attain to the end of salvation unless one fulfil that vow. Such a necessity is not to be avoided; indeed, as Augustine says (Ep. cxxvii ad Armentar. et Paulin.), "happy is the necessity that compels us to better things."
 
 Reply to Objection 3: The vow to enter religion is a strengthening of the will for better things, and consequently, considered in itself, instead of giving a man an occasion of falling, withdraws him from it. But if one who breaks a vow falls more grievously, this does not derogate from the goodness of the vow, as neither does it derogate from the goodness of Baptism that some sin more grievously after being baptized.
-# Whether One Who Is Bound By A Vow To Enter Religion Is Under An Obligation Of Entering Religion?
+## Whether One Who Is Bound By A Vow To Enter Religion Is Under An Obligation Of Entering Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one who is bound by the vow to enter religion is not under an obligation of entering religion. For it is said in the Decretals (XVII, qu. ii, can. Consaldus): "Consaldus, a priest under pressure of sickness and emotional fervour, promised to become a monk. He did not, however, bind himself to a monastery or abbot; nor did he commit his promise to writing, but he renounced his benefice in the hands of a notary; and when he was restored to health he refused to become a monk." And afterwards it is added: "We adjudge and by apostolic authority we command that the aforesaid priest be admitted to his benefice and sacred duties, and that he be allowed to retain them in peace." Now this would not be if he were bound to enter religion. Therefore it would seem that one is not bound to keep one's vow of entering religion.
 
@@ -77,7 +77,7 @@ Objection 2: Further, no one is bound to do what is not in his power. Now it is 
 
 Objection 3: Further, a less useful vow cannot remit a more useful one. Now the fulfilment of a vow to enter religion might hinder the fulfilment of a vow to take up the cross in defense of the Holy Land; and the latter apparently is the more useful vow, since thereby a man obtains the forgiveness of his sins. Therefore it would seem that the vow by which a man has bound himself to enter religion is not necessarily to be fulfilled.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Eccles. 5:3): "If thou hast vowed anything to God, defer not to pay it, for an unfaithful and foolish promise displeaseth him"; and a gloss on Ps. 75:12, "Vow ye, and pay to the Lord your God," says: "To vow depends on the will: but after the vow has been taken the fulfilment is of obligation."
 
@@ -85,16 +85,16 @@ I answer that, As stated above ([3838]Q[88], A[1]), when we were treating of vow
 
 Now it is evident that entrance into religion pertains very much to God, since thereby man devotes himself entirely to the divine service, as stated above ([3839]Q[186], A[1]). Hence it follows that he who binds himself to enter religion is under an obligation to enter religion according as he intends to bind himself by his vow: so that if he intend to bind himself absolutely, he is obliged to enter as soon as he can, through the cessation of a lawful impediment; whereas if he intend to bind himself to a certain fixed time, or under a certain fixed condition, he is bound to enter religion when the time comes or the condition is fulfilled.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This priest had made, not a solemn, but a simple vow. Hence he was not a monk in effect, so as to be bound by law to dwell in a monastery and renounce his cure. However, in the court of conscience one ought to advise him to renounce all and enter religion. Hence (Extra, De Voto et Voti Redemptione, cap. Per tuas) the Bishop of Grenoble, who had accepted the episcopate after vowing to enter religion, without having fulfilled his vow, is counseled that if "he wish to heal his conscience he should renounce the government of his see and pay his vows to the Most High."
 
 Reply to Objection 2: As stated above ([3840]Q[88], A[3], ad 2), when we were treating of vows, he who has bound himself by vow to enter a certain religious order is bound to do what is in his power in order to be received in that order; and if he intend to bind himself simply to enter the religious life, if he be not admitted to one, he is bound to go to another; whereas if he intend to bind himself only to one particular order, he is bound only according to the measure of the obligation to which he has engaged himself.
 
 Reply to Objection 3: The vow to enter religion being perpetual is greater than the vow of pilgrimage to the Holy Land, which is a temporal vow; and as Alexander III says (Extra, De Voto et Voti Redemptione, cap. Scripturae), "he who exchanges a temporary service for the perpetual service of religion is in no way guilty of breaking his vow."
-# Whether He Who Has Vowed To Enter Religion Is Bound To Remain In Religion In Perpetuity?
+## Whether He Who Has Vowed To Enter Religion Is Bound To Remain In Religion In Perpetuity?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that he who has vowed to enter religion, is bound in perpetuity to remain in religion. For it is better not to enter religion than to leave after entering, according to 2 Pet. 2:21, "It had been better for them not to have known the way of justice, than after they have known it to turn back," and Lk. 9:62, "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." But he who bound himself by the vow to enter religion, is under the obligation to enter, as stated above [3841](A[3]). Therefore he is also bound to remain for always.
 
@@ -102,22 +102,22 @@ Objection 2: Further, everyone is bound to avoid that which gives rise to scanda
 
 Objection 3: Further, the vow to enter religion is accounted a perpetual vow: wherefore it is preferred to temporal vows, as stated above (A[3], ad 3;[3842] Q[88], A[12], ad 1). But this would not be so if a person after vowing to enter religion were to enter with the intention of leaving. It seems, therefore, that he who vows to enter religion is bound also to remain in perpetuity.
 
-## Answer
+### Answer
 
 On the contrary, The vow of religious profession, for the reason that it binds a man to remain in religion for evermore, has to be preceded by a year of probation; whereas this is not required before the simple vow whereby a man binds himself to enter religion. Therefore it seems that he who vows to enter religion is not for that reason bound to remain there in perpetuity.
 
 I answer that, The obligation of a vow proceeds from the will: because "to vow is an act of the will" according to Augustine [*Gloss of Peter Lombard on Ps. 75:12]. Consequently the obligation of a vow extends as far as the will and intention of the person who takes the vow. Accordingly if in vowing he intend to bind himself not only to enter religion, but also to remain there evermore, he is bound to remain in perpetuity. If, on the other hand, he intend to bind himself to enter religion for the purpose of trial, while retaining the freedom to remain or not remain, it is clear that he is not bound to remain. If, however, in vowing he thought merely of entering religion, without thinking of being free to leave, or of remaining in perpetuity, it would seem that he is bound to enter religion according to the form prescribed by common law, which is that those who enter should be given a year's probation. Wherefore he is not bound to remain for ever.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is better to enter religion with the purpose of making a trial than not to enter at all, because by so doing one disposes oneself to remain always. Nor is a person accounted to turn or to look back, save when he omits to do that which he engaged to do: else whoever does a good work for a time, would be unfit for the kingdom of God, unless he did it always, which is evidently false.
 
 Reply to Objection 2: A man who has entered religion gives neither scandal nor bad example by leaving, especially if he do so for a reasonable motive; and if others are scandalized, it will be passive scandal on their part, and not active scandal on the part of the person leaving, since in doing so, he has done what was lawful, and expedient on account of some reasonable motive, such as sickness, weakness, and the like.
 
 Reply to Objection 3: He who enters with the purpose of leaving forthwith, does not seem to fulfil his vow, since this was not his intention in vowing. Hence he must change that purpose, at least so as to wish to try whether it is good for him to remain in religion, but he is not bound to remain for evermore.
-# Whether Children Should Be Received In Religion?
+## Whether Children Should Be Received In Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that children ought not to be received in religion. Because it is said (Extra, De Regular. et Transeunt. ad Relig., cap. Nullus): "No one should be tonsured unless he be of legal age and willing." But children, seemingly, are not of legal age; nor have they a will of their own, not having perfect use of reason. Therefore it seems that they ought not to be received in religion.
 
@@ -127,7 +127,7 @@ Objection 3: Further, the obligation of a vow is like that of an oath. But child
 
 Objection 4: Further, it is seemingly unlawful to bind a person to an obligation that can be justly canceled. Now if any persons of unripe age bind themselves to religion, they can be withdrawn by their parents or guardians. For it is written in the Decretals (XX, qu. ii, can. Puella) that "if a maid under twelve years of age shall take the sacred veil of her own accord, her parents or guardians, if they choose, can at once declare the deed null and void." It is therefore unlawful for children, especially of unripe age, to be admitted or bound to religion.
 
-## Answer
+### Answer
 
 On the contrary, our Lord said (Mat. 19:14): "Suffer the little children, and forbid them not to come to Me." Expounding these words Origen says (Tract. vii in Matth.) that "the disciples of Jesus before they have been taught the conditions of righteousness [*Cf. Mat. 19:16-30], rebuke those who offer children and babes to Christ: but our Lord urges His disciples to stoop to the service of children. We must therefore take note of this, lest deeming ourselves to excel in wisdom we despise the Church's little ones, as though we were great, and forbid the children to come to Jesus."
 
@@ -141,7 +141,7 @@ The other is the solemn vow which makes a man a monk or a religious. Such a vow 
 
 Nevertheless, although they cannot be professed before the age of puberty, they can, with the consent of their parents, be received into religion to be educated there: thus it is related of John the Baptist (Lk. 1:80) that "the child grew and was strengthened in spirit, and was in the deserts." Hence, as Gregory states (Dial. ii, 3), "the Roman nobles began to give their sons to the blessed Benedict to be nurtured for Almighty God"; and this is most fitting, according to Lam. 3:27, "It is good for a man when he has borne the yoke from his youth." It is for this reason that by common custom children are made to apply themselves to those duties or arts with which they are to pass their lives.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The legal age for receiving the tonsure and taking the solemn vow of religion is the age of puberty, when a man is able to make use of his own will; but before the age of puberty it is possible to have reached the lawful age to receive the tonsure and be educated in a religious house.
 
@@ -150,9 +150,9 @@ Reply to Objection 2: The religious state is chiefly directed to the attachment 
 Reply to Objection 3: Even as children are not bound to take oaths (as the canon states), so are they not bound to take vows. If, however, they bind themselves by vow or oath to do something, they are bound in God's sight, if they have the use of reason, but they are not bound in the sight of the Church before reaching the age of fourteen.
 
 Reply to Objection 4: A woman who has not reached the age of puberty is not rebuked (Num. 30:4) for taking a vow without her parents' consent: but the vow can be made void by her parents. Hence it is evident that she does not sin in vowing. But we are given to understand that she binds herself by vow, so far as she may, without prejudice to her parents' authority.
-# Whether One Ought To Be Withdrawn From Entering Religion Through Deference To One's Parents?
+## Whether One Ought To Be Withdrawn From Entering Religion Through Deference To One's Parents?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one ought to be withdrawn from entering religion through deference to one's parents. For it is not lawful to omit that which is of obligation in order to do that which is optional. Now deference to one's parents comes under an obligation of the precept concerning the honoring of our parents (Ex. 20:12); wherefore the Apostle says (1 Tim. 5:4): "If any widow have children or grandchildren, let her learn first to govern her own house, and to make a return of duty to her parents." But the entrance to religion is optional. Therefore it would seem that one ought not to omit deference to one's parents for the sake of entering religion.
 
@@ -160,7 +160,7 @@ Objection 2: Further, seemingly the subjection of a son to his father is greater
 
 Objection 3: Further, a man is more indebted to his parents than to those to whom he owes money. Now persons who owe money to anyone cannot enter religion. For Gregory says (Regist. viii, Ep. 5) that "those who are engaged in trade must by no means be admitted into a monastery, when they seek admittance, unless first of all they withdraw from public business" (Dist. liii, can. Legem.). Therefore seemingly much less may children enter religion in despite of their duty to their parents.
 
-## Answer
+### Answer
 
 On the contrary, It is related (Mat. 4:22) that James and John "left their nets and father, and followed our Lord." By this, says Hilary (Can. iii in Matth.), "we learn that we who intend to follow Christ are not bound by the cares of the secular life, and by the ties of home."
 
@@ -168,16 +168,16 @@ I answer that, As stated above ([3846]Q[101], A[2], ad 2) when we were treating 
 
 Nevertheless it is accidentally competent to parents to be assisted by their children, in so far, to wit, as they are placed in a condition of necessity. Consequently we must say that when their parents are in such need that they cannot fittingly be supported otherwise than by the help of their children, these latter may not lawfully enter religion in despite of their duty to their parents. If, however, the parents' necessity be not such as to stand in great need of their children's assistance, the latter may, in despite of the duty they owe their parents, enter religion even against their parents' command, because after the age of puberty every freeman enjoys freedom in things concerning the ordering of his state of life, especially in such as belong to the service of God, and "we should more obey the Father of spirits that we may live [*'Shall we not much more obey the Father of Spirits, and live?']," as says the Apostle (Heb. 12:9), than obey our parents. Hence as we read (Mat. 8:22; Lk. 9:62) our Lord rebuked the disciple who was unwilling to follow him forthwith on account of his father's burial: for there were others who could see to this, as Chrysostom remarks [*Hom. xxvii in Matth.].
 
-## Replies
+### Replies
 
 Reply to Objection 1: The commandment of honoring our parents extends not only to bodily but also to spiritual service, and to the paying of deference. Hence even those who are in religion can fulfil the commandment of honoring their parents, by praying for them and by revering and assisting them, as becomes religious, since even those who live in the world honor their parents in different ways as befits their condition.
 
 Reply to Objection 2: Since slavery was imposed in punishment of sin, it follows that by slavery man forfeits something which otherwise he would be competent to have, namely the free disposal of his person, for "a slave belongs wholly to his master" [*Aristotle, Polit. i, 2]. On the other hand, the son, through being subject to his father, is not hindered from freely disposing of his person by transferring himself to the service of God; which is most conducive to man's good.
 
 Reply to Objection 3: He who is under a certain fixed obligation cannot lawfully set it aside so long as he is able to fulfil it. Wherefore if a person is under an obligation to give an account to someone or to pay a certain fixed debt, he cannot lawfully evade this obligation in order to enter religion. If, however, he owes a sum of money, and has not wherewithal to pay the debt, he must do what he can, namely by surrendering his goods to his creditor. According to civil law [*Cod. IV, x, de Oblig. et Action, 12] money lays an obligation not on the person of a freeman, but on his property, because the person of a freeman "is above all pecuniary consideration" [*Dig. L, xvii, de div. reg. Jur. ant. 106,176]. Hence, after surrendering his property, he may lawfully enter religion, nor is he bound to remain in the world in order to earn the means of paying the debt.
-# Whether Parish Priests May Lawfully Enter Religion?
+## Whether Parish Priests May Lawfully Enter Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that parish priests cannot lawfully enter religion. For Gregory says (Past. iii, 4) that "he who undertakes the cure of souls, receives an awful warning in the words: 'My son, if thou be surety for thy friend, thou hast engaged fast thy hand to a stranger'" (Prov. 6:1); and he goes on to say, "because to be surety for a friend is to take charge of the soul of another on the surety of one's own behavior." Now he who is under an obligation to a man for a debt, cannot enter religion, unless he pay what he owes, if he can. Since then a priest is able to fulfil the cure of souls, to which obligation he has pledged his soul, it would seem unlawful for him to lay aside the cure of souls in order to enter religion.
 
@@ -185,20 +185,20 @@ Objection 2: Further, what is lawful to one is likewise lawful to all. But if al
 
 Objection 3: Further, chief among the acts to which religious orders are directed are those whereby a man gives to others the fruit of his contemplation. Now such acts are competent to parish priests and archdeacons, whom it becomes by virtue of their office to preach and hear confessions. Therefore it would seem unlawful for a parish priest or archdeacon to pass over to religion.
 
-## Answer
+### Answer
 
 On the contrary, It is said in the Decretals (XIX, qu. ii, cap. Duce sunt leges.): "If a man, while governing the people in his church under the bishop and leading a secular life, is inspired by the Holy Ghost to desire to work out his salvation in a monastery or under some canonical rule, even though his bishop withstand him, we authorize him to go freely."
 
 I answer that, As stated above (A[3], ad 3;[3847] Q[88], A[12], ad 1), the obligation of a perpetual vow stands before every other obligation. Now it belongs properly to bishops and religious to be bound by perpetual vow to devote themselves to the divine service [*Cf.[3848] Q[184], A[5]], while parish priests and archdeacons are not, as bishops are, bound by a perpetual and solemn vow to retain the cure of souls. Wherefore bishops "cannot lay aside their bishopric for any pretext whatever, without the authority of the Roman Pontiff" (Extra, De Regular. et Transeunt. ad Relig., cap. Licet.): whereas archdeacons and parish priests are free to renounce in the hands of the bishop the cure entrusted to them, without the Pope's special permission, who alone can dispense from perpetual vows. Therefore it is evident that archdeacons and parish priests may lawfully enter religion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Parish priests and archdeacons have bound themselves to the care of their subjects, as long as they retain their archdeaconry or parish, but they did not bind themselves to retain their archdeaconry or parish for ever.
 
 Reply to Objection 2: As Jerome says (Contra Vigil.): "Although they," namely religious, "are sorely smitten by thy poisonous tongue, about whom you argue, saying; 'If all shut themselves up and live in solitude, who will go to church? who will convert worldlings? who will be able to urge sinners to virtue?' If this holds true, if all are fools with thee, who can be wise? Nor will virginity be commendable, for if all be virgins, and none marry, the human race will perish. Virtue is rare, and is not desired by many." It is therefore evident that this is a foolish alarm; thus might a man fear to draw water lest the river run dry. [*St. Thomas gives no reply to the third objection, which is sufficiently solved in the body of the article.]
-# Whether It Is Lawful To Pass From One Religious Order To Another?
+## Whether It Is Lawful To Pass From One Religious Order To Another?
 
-## Objections
+### Objections
 
 Objection 1: It seems unlawful to pass from one religious order to another, even a stricter one. For the Apostle says (Heb. 10:25): "Not forsaking our assembly, as some are accustomed"; and a gloss observes: "Those namely who yield through fear of persecution, or who presuming on themselves withdraw from the company of sinners or of the imperfect, that they may appear to be righteous." Now those who pass from one religious order to another more perfect one would seem to do this. Therefore this is seemingly unlawful.
 
@@ -206,7 +206,7 @@ Objection 2: Further, the profession of monks is stricter than that of canons re
 
 Objection 3: Further, a person is bound to fulfil what he has vowed, as long as he is able lawfully to do so; thus if a man has vowed to observe continence, he is bound, even after contracting marriage by words in the present tense, to fulfil his vow so long as the marriage is not consummated, because he can fulfil the vow by entering religion. Therefore if a person may lawfully pass from one religious order to another, he will be bound to do so if he vowed it previously while in the world. But this would seem objectionable, since in many cases it might give rise to scandal. Therefore a religious may not pass from one religious order to another stricter one.
 
-## Answer
+### Answer
 
 On the contrary, It is said in the Decretals (XX, qu. iv, can. Virgines): "If sacred virgins design for the good of their soul to pass to another monastery on account of a stricter life, and decide to remain there, the holy synod allows them to do so": and the same would seem to apply to any religious. Therefore one may lawfully pass from one religious order to another.
 
@@ -216,16 +216,16 @@ Nevertheless one may commendably pass from one religious order to another for th
 
 There is, however, a difference in these three cases. For in the first case one ought, on account of humility, to seek permission: yet this cannot be denied, provided it be certain that this other religion is more severe. "And if there be a probable doubt about this, one should ask one's superior to decide" (Extra, De Regular. et Transeunt. ad Relig., cap. Licet.). In like manner the superior's decision should be sought in the second case. In the third case it is also necessary to have a dispensation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Those who pass to a stricter religious order, do so not out of presumption that they may appear righteous, but out of devotion, that they may become more righteous.
 
 Reply to Objection 2: Religious orders whether of monks or of canons regular are destined to the works of the contemplative life. Chief among these are those which are performed in the divine mysteries, and these are the direct object of the orders of canons regular, the members of which are essentially religious clerics. On the other hand, monastic religious are not essentially clerics, according to the Decretals (XVI, qu. i, cap. Alia causa). Hence although monastic orders are more severe, it would be lawful, supposing the members to be lay monks, to pass from the monastic order to an order of canons regular, according to the statement of Jerome (Ep. cxxv, ad Rustic. Monach.): "So live in the monastery as to deserve to become a cleric"; but not conversely, as expressed in the Decretal quoted (XIX, qu. iii). If, however, the monks be clerics devoting themselves to the sacred ministry, they have this in common with canons regular coupled with greater severity, and consequently it will be lawful to pass from an order of canons regular to a monastic order, provided withal that one seek the superior's permission (XIX, qu. iii; cap. Statuimus).
 
 Reply to Objection 3: The solemn vow whereby a person is bound to a less strict order, is more binding than the simple vow whereby a person is bound to a stricter order. For if after taking a simple vow a person were to be married, his marriage would not be invalid, as it would be after his taking a solemn vow. Consequently a person who is professed in a less severe order is not bound to fulfil a simple vow he has taken on entering a more severe order.
-# Whether One Ought To Induce Others To Enter Religion?
+## Whether One Ought To Induce Others To Enter Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no one ought to induce others to enter religion. For the blessed Benedict prescribes in his Rule (lviii) that "those who seek to enter religion must not easily be admitted, but spirits must be tested whether they be of God"; and Cassian has the same instruction (De Inst. Caenob. iv, 3). Much less therefore is it lawful to induce anyone to enter religion.
 
@@ -233,7 +233,7 @@ Objection 2: Further, our Lord said (Mat. 23:15): "Woe to you . . . because you 
 
 Objection 3: Further, no one should induce another to do what is to his prejudice. But those who are induced to enter religion, sometimes take harm therefrom, for sometimes they are under obligation to enter a stricter religion. Therefore it would not seem praiseworthy to induce others to enter religion.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ex. 26:3, seqq. [*St. Thomas quotes the sense, not the words]): "Let one curtain draw the other." Therefore one man should draw another to God's service.
 
@@ -241,16 +241,16 @@ I answer that, Those who induce others to enter religion not only do not sin, bu
 
 Nevertheless such inducement may be affected by a threefold inordinateness. First, if one person force another by violence to enter religion: and this is forbidden in the Decretals (XX, qu. iii, cap. Praesens). Secondly, if one person persuade another simoniacally to enter religion, by giving him presents: and this is forbidden in the Decretal (I, qu. ii, cap. Quam pio). But this does not apply to the case where one provides a poor person with necessaries by educating him in the world for the religious life; or when without any compact one gives a person little presents for the sake of good fellowship. Thirdly, if one person entices another by lies: for it is to be feared that the person thus enticed may turn back on finding himself deceived, and thus "the last state of that man" may become "worse than the first" (Lk. 11:26).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Those who are induced to enter religion have still a time of probation wherein they make a trial of the hardships of religion, so that they are not easily admitted to the religious life.
 
 Reply to Objection 2: According to Hilary (Can. xxiv in Matth.) this saying of our Lord was a forecast of the wicked endeavors of the Jews, after the preaching of Christ, to draw Gentiles or even Christians to observe the Jewish ritual, thereby making them doubly children of hell, because, to wit, they were not forgiven the former sins which they committed while adherents of Judaism, and furthermore they incurred the guilt of Jewish perfidy; and thus interpreted these words have nothing to do with the case in point.
 
 Reply to Objection 3: The lesser is included in the greater. Wherefore a person who is bound by vow or oath to enter a lesser order, may be lawfully induced to enter a greater one. unless there be some special obstacle, such as ill-health, or the hope of making greater progress in the lesser order. On the other hand, one who is bound by vow or oath to enter a greater order, cannot be lawfully induced to enter a lesser order, except for some special and evident motive, and then with the superior's dispensation.
-# Whether It Is Praiseworthy To Enter Religion Without Taking Counsel Of Many, And Previously Deliberating For A Long Time?
+## Whether It Is Praiseworthy To Enter Religion Without Taking Counsel Of Many, And Previously Deliberating For A Long Time?
 
-## Objections
+### Objections
 
 Objection 1: It would not seem praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time. For it is written (1 Jn. 4:1): "Believe not every spirit, but try the spirits if they be of God." Now sometimes a man's purpose of entering religion is not of God, since it often comes to naught through his leaving the religious life; for it is written (Acts 5:38,39): "If this counsel or this work be of God, you cannot overthrow it." Therefore it would seem that one ought to make a searching inquiry before entering religion.
 
@@ -258,13 +258,13 @@ Objection 2: Further, it is written (Prov. 25:9): "Treat thy cause with thy frie
 
 Objection 3: Further, our Lord (Lk. 14:28) in making a comparison with a man who has a mind to build a tower, says that he doth "first sit down and reckon the charges that are necessary, whether he have wherewithal to finish it," lest he become an object of mockery, for that "this man began to build and was not able to finish." Now the wherewithal to build the tower, as Augustine says (Ep. ad Laetum ccxliii), is nothing less than that "each one should renounce all his possessions." Yet it happens sometimes that many cannot do this, nor keep other religious observances; and in signification of this it is stated (1 Kings 17:39) that David could not walk in Saul's armor, for he was not used to it. Therefore it would seem that one ought not to enter religion without long deliberation beforehand and taking counsel of many.
 
-## Answer
+### Answer
 
 On the contrary, It is stated (Mat. 4:20) that upon our Lord's calling them, Peter and Andrew "immediately leaving their nets, followed Him." Here Chrysostom says (Hom. xiv in Matth.): "Such obedience as this does Christ require of us, that we delay not even for a moment."
 
 I answer that, Long deliberation and the advice of many are required in great matters of doubt, as the Philosopher says (Ethic. iii, 3); while advice is unnecessary in matters that are certain and fixed. Now with regard to entering religion three points may be considered. First, the entrance itself into religion, considered by itself; and thus it is certain that entrance into religion is a greater good, and to doubt about this is to disparage Christ Who gave this counsel. Hence Augustine says (De Verb. Dom., Serm. c, 2): "The East," that is Christ, "calleth thee, and thou turnest to the West," namely mortal and fallible man. Secondly, the entrance into religion may be considered in relation to the strength of the person who intends to enter. And here again there is no room for doubt about the entrance to religion, since those who enter religion trust not to be able to stay by their own power, but by the assistance of the divine power, according to Is. 40:31, "They that hope in the Lord shall renew their strength, they shall take wings as eagles, they shall run and not be weary, they shall walk and not faint." Yet if there be some special obstacle (such as bodily weakness, a burden of debts, or the like) in such cases a man must deliberate and take counsel with such as are likely to help and not hinder him. Hence it is written (Ecclus. 37:12): "Treat with a man without religion concerning holiness [*The Douay version supplies the negative: 'Treat not . . . nor with . . . '], with an unjust man concerning justice," meaning that one should not do so, wherefore the text goes on (Ecclus. 37:14,15), "Give no heed to these in any matter of counsel, but be continually with a holy man." In these matters, however, one should not take long deliberation. Wherefore Jerome says (Ep. and Paulin. liii): "Hasten, I pray thee, cut off rather than loosen the rope that holds the boat to the shore." Thirdly, we may consider the way of entering religion, and which order one ought to enter, and about such matters also one may take counsel of those who will not stand in one's way.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The saying: "Try the spirits, if they be of God," applies to matters admitting of doubt whether the spirits be of God; thus those who are already in religion may doubt whether he who offers himself to religion be led by the spirit of God, or be moved by hypocrisy. Wherefore they must try the postulant whether he be moved by the divine spirit. But for him who seeks to enter religion there can be no doubt but that the purpose of entering religion to which his heart has given birth is from the spirit of God, for it is His spirit "that leads" man "into the land of uprightness" (Ps. 142:10).
 

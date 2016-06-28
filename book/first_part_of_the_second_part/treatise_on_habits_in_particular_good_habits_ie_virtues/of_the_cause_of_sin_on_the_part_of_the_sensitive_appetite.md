@@ -9,9 +9,9 @@ We must now consider the cause of sin, on the part of the sensitive appetite, as
 (6) Whether the passion which causes a sin diminishes it?
 (7) Whether passion excuses from sin altogether?
 (8) Whether a sin committed through passion can be mortal?
-# Whether The Will Is Moved By A Passion Of The Senstive Appetite?
+## Whether The Will Is Moved By A Passion Of The Senstive Appetite?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the will is not moved by a passion of the sensitive appetite. For no passive power is moved except by its object. Now the will is a power both passive and active, inasmuch as it is mover and moved, as the Philosopher says of the appetitive power in general (De Anima iii, text. 54). Since therefore the object of the will is not a passion of the sensitive appetite, but good defined by the reason, it seems that a passion of the sensitive appetite does not move the will.
 
@@ -19,7 +19,7 @@ Objection 2: Further, the higher mover is not moved by the lower; thus the soul 
 
 Objection 3: Further, nothing immaterial can be moved by that which is material. Now the will is an immaterial power, because it does not use a corporeal organ, since it is in the reason, as stated in De Anima iii, text. 42: whereas the sensitive appetite is a material force, since it is seated in an organ of the body. Therefore a passion of the sensitive appetite cannot move the intellective appetite.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dan. 13:56): "Lust hath perverted thy heart."
 
@@ -27,14 +27,14 @@ I answer that, A passion of the sensitive appetite cannot draw or move the will 
 
 Secondly, this may happen on the part of the will's object, which is good apprehended by reason. Because the judgment and apprehension of reason is impeded on account of a vehement and inordinate apprehension of the imagination and judgment of the estimative power, as appears in those who are out of their mind. Now it is evident that the apprehension of the imagination and the judgment of the estimative power follow the passion of the sensitive appetite, even as the verdict of the taste follows the disposition of the tongue: for which reason we observe that those who are in some kind of passion, do not easily turn their imagination away from the object of their emotion, the result being that the judgment of the reason often follows the passion of the sensitive appetite, and consequently the will's movement follows it also, since it has a natural inclination always to follow the judgment of the reason.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the passion of the sensitive appetite is not the direct object of the will, yet it occasions a certain change in the judgment about the object of the will, as stated.
 
 Reply to Objection 2: The higher mover is not directly moved by the lower; but, in a manner, it can be moved by it indirectly, as stated.
-# Whether The Reason Can Be Overcome By A Passion, Against Its Knowledge?
+## Whether The Reason Can Be Overcome By A Passion, Against Its Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the reason cannot be overcome by a passion, against its knowledge. For the stronger is not overcome by the weaker. Now knowledge, on account of its certitude, is the strongest thing in us. Therefore it cannot be overcome by a passion, which is weak and soon passes away.
 
@@ -46,7 +46,7 @@ Objection 4: Further, whoever knows the universal, knows also the particular whi
 
 Objection 5: Further, according to the Philosopher (Peri Herm. i), "words express the thoughts of the mind." Now it often happens that man, while in a state of passion, confesses that what he has chosen is an evil, even in that particular case. Therefore he has knowledge, even in particular.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 7:23): "I see another law in my members, fighting against the law of my mind, and captivating me in the law of sin." Now the law that is in the members is concupiscence, of which he had been speaking previously. Since then concupiscence is a passion, it seems that a passion draws the reason counter to its knowledge.
 
@@ -54,7 +54,7 @@ I answer that, As the Philosopher states (Ethic. vii, 2), the opinion of Socrate
 
 Experience, however, shows that many act contrary to the knowledge that they have, and this is confirmed by Divine authority, according to the words of Lk. 12:47: "The servant who knew that the will of his lord . . . and did not . . . shall be beaten with many stripes," and of James 4:17: "To him . . . who knoweth to do good, and doth it not, to him it is a sin." Consequently he was not altogether right, and it is necessary, with the Philosopher (Ethic. vii, 3) to make a distinction. Because, since man is directed to right action by a twofold knowledge, viz. universal and particular, a defect in either of them suffices to hinder the rectitude of the will and of the deed, as stated above (Q[76], A[1]). It may happen, then, that a man has some knowledge in general, e.g. that no fornication is lawful, and yet he does not know in particular that this act, which is fornication, must not be done; and this suffices for the will not to follow the universal knowledge of the reason. Again, it must be observed that nothing prevents a thing which is known habitually from not being considered actually: so that it is possible for a man to have correct knowledge not only in general but also in particular, and yet not to consider his knowledge actually: and in such a case it does not seem difficult for a man to act counter to what he does not actually consider. Now, that a man sometimes fails to consider in particular what he knows habitually, may happen through mere lack of attention: for instance, a man who knows geometry, may not attend to the consideration of geometrical conclusions, which he is ready to consider at any moment. Sometimes man fails to consider actually what he knows habitually, on account of some hindrance supervening, e.g. some external occupation, or some bodily infirmity; and, in this way, a man who is in a state of passion, fails to consider in particular what he knows in general, in so far as the passions hinder him from considering it. Now it hinders him in three ways. First, by way of distraction, as explained above [1773](A[1]). Secondly, by way of opposition, because a passion often inclines to something contrary to what man knows in general. Thirdly, by way of bodily transmutation, the result of which is that the reason is somehow fettered so as not to exercise its act freely; even as sleep or drunkenness, on account of some change wrought on the body, fetters the use of reason. That this takes place in the passions is evident from the fact that sometimes, when the passions are very intense, man loses the use of reason altogether: for many have gone out of their minds through excess of love or anger. It is in this way that passion draws the reason to judge in particular, against the knowledge which it has in general.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Universal knowledge, which is most certain, does not hold the foremost place in action, but rather particular knowledge, since actions are about singulars: wherefore it is not astonishing that, in matters of action, passion acts counter to universal knowledge, if the consideration of particular knowledge be lacking.
 
@@ -65,9 +65,9 @@ Reply to Objection 3: It is impossible for anyone to have an actual knowledge or
 Reply to Objection 4: He that has knowledge in a universal, is hindered, on account of a passion, from reasoning about that universal, so as to draw the conclusion: but he reasons about another universal proposition suggested by the inclination of the passion, and draws his conclusion accordingly. Hence the Philosopher says (Ethic. vii, 3) that the syllogism of an incontinent man has four propositions, two particular and two universal, of which one is of the reason, e.g. No fornication is lawful, and the other, of passion, e.g. Pleasure is to be pursued. Hence passion fetters the reason, and hinders it from arguing and concluding under the first proposition; so that while the passions lasts, the reason argues and concludes under the second.
 
 Reply to Objection 5: Even as a drunken man sometimes gives utterance to words of deep signification, of which, however, he is incompetent to judge, his drunkenness hindering him; so that a man who is in a state of passion, may indeed say in words that he ought not to do so and so, yet his inner thought is that he must do it, as stated in Ethic. vii, 3.
-# Whether A Sin Committed Through Passion, Should Be Called A Sin Of Weakness?
+## Whether A Sin Committed Through Passion, Should Be Called A Sin Of Weakness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a sin committed through passion should not be called a sin of weakness. For a passion is a vehement movement of the sensitive appetite, as stated above [1774](A[1]). Now vehemence of movements is evidence of strength rather than of weakness. Therefore a sin committed through passion, should not be called a sin of weakness.
 
@@ -75,22 +75,22 @@ Objection 2: Further, weakness in man regards that which is most fragile in him.
 
 Objection 3: Further, man does not seem to be weak in respect of things which are subject to his will. Now it is subject to man's will, whether he do or do not the things to which his passions incline him, according to Gn. 4:7: "Thy appetite shall be under thee [*Vulg.: 'The lust thereof shall be under thee.'], and thou shalt have dominion over it." Therefore sin committed through passion is not a sin of weakness.
 
-## Answer
+### Answer
 
 On the contrary, Cicero (De Quaest. Tusc. iv) calls the passions diseases of the soul. Now weakness is another name for disease. Therefore a sin that arises from passion should be called a sin of weakness.
 
 I answer that, The cause of sin is on the part of the soul, in which, chiefly, sin resides. Now weakness may be applied to the soul by way of likeness to weakness of the body. Accordingly, man's body is said to be weak, when it is disabled or hindered in the execution of its proper action, through some disorder of the body's parts, so that the humors and members of the human body cease to be subject to its governing and motive power. Hence a member is said to be weak, when it cannot do the work of a healthy member, the eye, for instance, when it cannot see clearly, as the Philosopher states (De Hist. Animal. x, 1). Therefore weakness of the soul is when the soul is hindered from fulfilling its proper action on account of a disorder in its parts. Now as the parts of the body are said to be out of order, when they fail to comply with the order of nature, so too the parts of the soul are said to be inordinate, when they are not subject to the order of reason, for the reason is the ruling power of the soul's parts. Accordingly, when the concupiscible or irascible power is affected by any passion contrary to the order of reason, the result being that an impediment arises in the aforesaid manner to the due action of man, it is said to be a sin of weakness. Hence the Philosopher (Ethic. vii, 8) compares the incontinent man to an epileptic, whose limbs move in a manner contrary to his intention.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as in the body the stronger the movement against the order of nature, the greater the weakness, so likewise, the stronger the movement of passion against the order of reason, the greater the weakness of the soul.
 
 Reply to Objection 2: Sin consists chiefly in an act of the will, which is not hindered by weakness of the body: for he that is weak in body may have a will ready for action, and yet be hindered by a passion, as stated above [1775](A[1]). Hence when we speak of sins of weakness, we refer to weakness of soul rather than of body. And yet even weakness of soul is called weakness of the flesh, in so far as it is owing to a condition of the flesh that the passions of the soul arise in us through the sensitive appetite being a power using a corporeal organ.
 
 Reply to Objection 3: It is in the will's power to give or refuse its consent to what passion inclines us to do, and it is in this sense that our appetite is said to be under us; and yet this consent or dissent of the will is hindered in the way already explained [1776](A[1]).
-# Whether Self-love Is The Source Of Every Sin?
+## Whether Self-love Is The Source Of Every Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that self-love is not the source of every sin. For that which is good and right in itself is not the proper cause of sin. Now love of self is a good and right thing in itself: wherefore man is commanded to love his neighbor as himself (Lev. 19:18). Therefore self-love cannot be the proper cause of sin.
 
@@ -100,13 +100,13 @@ Objection 3: Further, Augustine in commenting on Ps. 79:17, "Things set on fire 
 
 Objection 4: Further, as man sins at times through inordinate love of self, so does he sometimes through inordinate love of his neighbor. Therefore self-love is not the cause of every sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xiv, 28) that "self-love, amounting to contempt of God, builds up the city of Babylon." Now every sin makes man a citizen of Babylon. Therefore self-love is the cause of every sin.
 
 I answer that, As stated above ([1779]Q[75], A[1]), the proper and direct cause of sin is to be considered on the part of the adherence to a mutable good; in which respect every sinful act proceeds from inordinate desire for some temporal good. Now the fact that anyone desires a temporal good inordinately, is due to the fact that he loves himself inordinately; for to wish anyone some good is to love him. Therefore it is evident that inordinate love of self is the cause of every sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Well ordered self-love, whereby man desires a fitting good for himself, is right and natural; but it is inordinate self-love, leading to contempt of God, that Augustine (De Civ. Dei xiv, 28) reckons to be the cause of sin.
 
@@ -115,9 +115,9 @@ Reply to Objection 2: Concupiscence, whereby a man desires good for himself, is 
 Reply to Objection 3: Man is said to love both the good he desires for himself, and himself to whom he desires it. Love, in so far as it is directed to the object of desire (e.g. a man is said to love wine or money) admits, as its cause, fear which pertains to avoidance of evil: for every sin arises either from inordinate desire for some good, or from inordinate avoidance of some evil. But each of these is reduced to self-love, since it is through loving himself that man either desires good things, or avoids evil things.
 
 Reply to Objection 4: A friend is like another self (Ethic. ix): wherefore the sin which is committed through love for a friend, seems to be committed through self-love.
-# Whether Concupiscence Of The Flesh, Concupiscence Of The Eyes, And Pride Of Life Are Fittingly Described As Causes Of Sin?
+## Whether Concupiscence Of The Flesh, Concupiscence Of The Eyes, And Pride Of Life Are Fittingly Described As Causes Of Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that "concupiscence of the flesh, concupiscence of the eyes, and pride of life" are unfittingly described as causes of sin. Because, according to the Apostle (1 Tim. 6:10), "covetousness [*Douay: 'The desire of money'] is the root of all evils." Now pride of life is not included in covetousness. Therefore it should not be reckoned among the causes of sin.
 
@@ -127,7 +127,7 @@ Objection 3: Further, concupiscence is desire for pleasure, as stated above ([17
 
 Objection 4: Further, just as man is induced to sin, through inordinate desire of good things, so is he also, through inordinate avoidance of evil things, as stated above (A[4], ad 3). But nothing is mentioned here pertaining to avoidance of evil. Therefore the causes of sin are insufficiently described.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Jn. 2:16): "All that is in the world is concupiscence of the flesh, or [Vulg.: 'and'] pride of life." Now a thing is said to be "in the world" by reason of sin: wherefore it is written (1 Jn. 5:19): "The whole world is seated in wickedness." Therefore these three are causes of sin.
 
@@ -137,7 +137,7 @@ The inordinate appetite of the arduous good pertains to the "pride of life"; for
 
 It is therefore evident that all passions that are a cause of sin can be reduced to these three: since all the passions of the concupiscible part can be reduced to the first two, and all the irascible passions to the third, which is not divided into two because all the irascible passions conform to spiritual concupiscence.
 
-## Replies
+### Replies
 
 Reply to Objection 1: "Pride of life" is included in covetousness according as the latter denotes any kind of appetite for any kind of good. How covetousness, as a special vice, which goes by the name of "avarice," is the root of all sins, shall be explained further on ([1783]Q[84], A[1]).
 
@@ -146,9 +146,9 @@ Reply to Objection 2: "Concupiscence of the eyes" does not mean here the concupi
 Reply to Objection 3: The sense of sight is the most excellent of all the senses, and covers a larger ground, as stated in Metaph. i: and so its name is transferred to all the other senses, and even to the inner apprehensions, as Augustine states (De Verb. Dom., serm. xxxiii).
 
 Reply to Objection 4: Avoidance of evil is caused by the appetite for good, as stated above ([1784]Q[25], A[2];[1785] Q[39], A[2]); and so those passions alone are mentioned which incline to good, as being the causes of those which cause inordinately the avoidance of evil.
-# Whether Sin Is Alleviated On Account Of A Passion?
+## Whether Sin Is Alleviated On Account Of A Passion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sin is not alleviated on account of passion. For increase of cause adds to the effect: thus if a hot thing causes something to melt, a hotter will do so yet more. Now passion is a cause of sin, as stated [1786](A[5]). Therefore the more intense the passion, the greater the sin. Therefore passion does not diminish sin, but increases it.
 
@@ -156,7 +156,7 @@ Objection 2: Further, a good passion stands in the same relation to merit, as an
 
 Objection 3: Further, a man seems to sin the more grievously, according as he sins with a more intense will. But the passion that impels the will makes it tend with greater intensity to the sinful act. Therefore passion aggravates a sin.
 
-## Answer
+### Answer
 
 On the contrary, The passion of concupiscence is called a temptation of the flesh. But the greater the temptation that overcomes a man, the less grievous his sin, as Augustine states (De Civ. Dei iv, 12).
 
@@ -166,16 +166,16 @@ Accordingly if we take passion as preceding the sinful act, it must needs dimini
 
 On the other hand, a consequent passion does not diminish a sin, but increases it; or rather it is a sign of its gravity, in so far, to wit, as it shows the intensity of the will towards the sinful act; and so it is true that the greater the pleasure or the concupiscence with which anyone sins, the greater the sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Passion is the cause of sin on the part of that to which the sinner turns. But the gravity of a sin is measured on the part of that from which he turns, which results accidentally from his turning to something else---accidentally, i.e. beside his intention. Now an effect is increased by the increase, not of its accidental cause, but of its direct cause.
 
 Reply to Objection 2: A good passion consequent to the judgment of reason increases merit; but if it precede, so that a man is moved to do well, rather by his passion than by the judgment of his reason, such a passion diminishes the goodness and praiseworthiness of his action.
 
 Reply to Objection 3: Although the movement of the will incited by the passion is more intense, yet it is not so much the will's own movement, as if it were moved to sin by the reason alone.
-# Whether Passion Excuses From Sin Altogether?
+## Whether Passion Excuses From Sin Altogether?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that passion excuses from sin altogether. For whatever causes an act to be involuntary, excuses from sin altogether. But concupiscence of the flesh, which is a passion, makes an act to be involuntary, according to Gal. 5:17: "The flesh lusteth against the spirit . . . so that you do not the things that you would." Therefore passion excuses from sin altogether.
 
@@ -183,7 +183,7 @@ Objection 2: Further, passion causes a certain ignorance of a particular matter,
 
 Objection 3: Further, disease of the soul is graver than disease of the body. But bodily disease excuses from sin altogether, as in the case of mad people. Much more, therefore, does passion, which is a disease of the soul.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle (Rom. 7:5) speaks of the passions as "passions of sins," for no other reason than that they cause sin: which would not be the case if they excused from sin altogether. Therefore passion does not excuse from sin altogether.
 
@@ -191,16 +191,16 @@ I answer that, An act which, in its genus, is evil, cannot be excused from sin a
 
 Accordingly therefore we must make a distinction: because a passion is sometimes so strong as to take away the use of reason altogether, as in the case of those who are mad through love or anger; and then if such a passion were voluntary from the beginning, the act is reckoned a sin, because it is voluntary in its cause, as we have stated with regard to drunkenness. If, however, the cause be not voluntary but natural, for instance, if anyone through sickness or some such cause fall into such a passion as deprives him of the use of reason, his act is rendered wholly involuntary, and he is entirely excused from sin. Sometimes, however, the passion is not such as to take away the use of reason altogether; and then reason can drive the passion away, by turning to other thoughts, or it can prevent it from having its full effect; since the members are not put to work, except by the consent of reason, as stated above ([1789]Q[17], A[9]): wherefore such a passion does not excuse from sin altogether.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The words, "So that you do not the things that you would" are not to be referred to outward deeds, but to the inner movement of concupiscence; for a man would wish never to desire evil, in which sense we are to understand the words of Rom. 7:19: "The evil which I will not, that I do." Or again they may be referred to the will as preceding the passion, as is the case with the incontinent, who act counter to their resolution on account of their concupiscence.
 
 Reply to Objection 2: The particular ignorance which excuses altogether, is ignorance of a circumstance, which a man is unable to know even after taking due precautions. But passion causes ignorance of law in a particular case, by preventing universal knowledge from being applied to a particular act, which passion the reason is able to drive away, as stated.
 
 Reply to Objection 3: Bodily disease is involuntary: there would be a comparison, however, if it were voluntary, as we have stated about drunkenness, which is a kind of bodily disease.
-# Whether A Sin Committed Through Passion Can Be Mortal?
+## Whether A Sin Committed Through Passion Can Be Mortal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sin committed through passion cannot be mortal. Because venial sin is condivided with mortal sin. Now sin committed from weakness is venial, since it has in itself a motive for pardon [venia]. Since therefore sin committed through passion is a sin of weakness, it seems that it cannot be mortal.
 
@@ -208,13 +208,13 @@ Objection 2: Further, the cause is more powerful than its effect. But passion ca
 
 Objection 3: Further, passion is a hindrance to reason, as explained above ([1791]AA[1],2). Now it belongs to the reason to turn to God, or to turn away from Him, which is the essence of a mortal sin. Therefore a sin committed through passion cannot be mortal.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 7:5) that "the passions of the sins . . . work [Vulg.: 'did work'] in our members to bring forth fruit unto death." Now it is proper to mortal sin to bring forth fruit unto death. Therefore sin committed through passion may be mortal.
 
 I answer that, Mortal sin, as stated above ([1792]Q[72], A[5]), consists in turning away from our last end which is God, which aversion pertains to the deliberating reason, whose function it is also to direct towards the end. Therefore that which is contrary to the last end can happen not to be a mortal sin, only when the deliberating reason is unable to come to the rescue, which is the case in sudden movements. Now when anyone proceeds from passion to a sinful act, or to a deliberate consent, this does not happen suddenly: and so the deliberating reason can come to the rescue here, since it can drive the passion away, or at least prevent it from having its effect, as stated above: wherefore if it does not come to the rescue, there is a mortal sin; and it is thus, as we see, that many murders and adulteries are committed through passion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A sin may be venial in three ways. First, through its cause, i.e. through having cause to be forgiven, which cause lessens the sin; thus a sin that is committed through weakness or ignorance is said to be venial. Secondly, through its issue; thus every sin, through repentance, becomes venial, i.e. receives pardon [veniam]. Thirdly, by its genus, e.g. an idle word. This is the only kind of venial sin that is opposed to mortal sin: whereas the objection regards the first kind.
 

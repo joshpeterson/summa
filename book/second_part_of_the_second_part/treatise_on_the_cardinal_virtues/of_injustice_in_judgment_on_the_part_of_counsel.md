@@ -5,9 +5,9 @@ We must now consider the injustice which takes place in judgment on the part of 
 (2) Whether certain persons should be prohibited from exercising the office of advocate?
 (3) Whether an advocate sins by defending an unjust cause?
 (4) Whether he sins if he accept a fee for defending a suit?
-# Whether An Advocate Is Bound To Defend The Suits Of The Poor?
+## Whether An Advocate Is Bound To Defend The Suits Of The Poor?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an advocate is bound to defend the suits of the poor. For it is written (Ex. 23:5): "If thou see the ass of him that hateth thee lie underneath his burden, thou shalt not pass by, but shall lift him up with him." Now no less a danger threatens the poor man whose suit is being unjustly prejudiced, than if his ass were to lie underneath its burden. Therefore an advocate is bound to defend the suits of the poor.
 
@@ -15,7 +15,7 @@ Objection 2: Further, Gregory says in a homily (ix in Evang.): "Let him that hat
 
 Objection 3: Further, the precept about performing works of mercy, being affirmative, is binding according to time and place, and this is chiefly in cases of need. Now it seems to be a case of need when the suit of a poor man is being prejudiced. Therefore it seems that in such a case an advocate is bound to defend the poor man's suit.
 
-## Answer
+### Answer
 
 On the contrary, He that lacks food is no less in need than he that lacks an advocate. Yet he that is able to give food is not always bound to feed the needy. Therefore neither is an advocate always bound to defend the suits of the poor.
 
@@ -23,16 +23,16 @@ I answer that, Since defense of the poor man's suit belongs to the works of merc
 
 It may happen however that these circumstances concur, and then we have to consider whether this particular man stands in such a need that it is not easy to see how he can be succored otherwise, and then one is bound to bestow the work of mercy on him. If, however, it is easy to see how he can be otherwise succored, either by himself, or by some other person still more closely united to him, or in a better position to help him, one is not bound so strictly to help the one in need that it would be a sin not to do so: although it would be praiseworthy to do so where one is not bound to. Therefore an advocate is not always bound to defend the suits of the poor, but only when the aforesaid circumstances concur, else he would have to put aside all other business, and occupy himself entirely in defending the suits of poor people. The same applies to a physician with regard to attendance on the sick.
 
-## Replies
+### Replies
 
 Reply to Objection 1: So long as the ass lies under the burden, there is no means of help in this case, unless those who are passing along come to the man's aid, and therefore they are bound to help. But they would not be so bound if help were possible from another quarter.
 
 Reply to Objection 2: A man is bound to make good use of the talent bestowed on him, according to the opportunities afforded by time, place, and other circumstances, as stated above.
 
 Reply to Objection 3: Not every need is such that it is one's duty to remedy it, but only such as we have stated above.
-# Whether It Is Fitting That The Law Should Debar Certain Persons From The Office Of Advocate?
+## Whether It Is Fitting That The Law Should Debar Certain Persons From The Office Of Advocate?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unfitting for the law to debar certain persons from the office of advocate. For no man should be debarred from doing works of mercy. Now it belongs to the works of mercy to defend a man's suit, as stated above [2942](A[1]). Therefore no man should be debarred from this office.
 
@@ -40,22 +40,22 @@ Objection 2: Further, contrary causes have not, seemingly, the same effect. Now 
 
 Objection 3: Further, a man should love his neighbor as himself. Now it is a duty of love for an advocate to plead a person's cause. Therefore it is unfitting that certain persons should be debarred from pleading the cause of others, while they are allowed to advocate their own cause.
 
-## Answer
+### Answer
 
 On the contrary, According to Decretals III, qu. vii, can. Infames, many persons are debarred from the office of advocate.
 
 I answer that, In two ways a person is debarred from performing a certain act: first because it is impossible to him, secondly because it is unbecoming to him: but, whereas the man to whom a certain act is impossible, is absolutely debarred from performing it, he to whom an act is unbecoming is not debarred altogether, since necessity may do away with its unbecomingness. Accordingly some are debarred from the office of advocate because it is impossible to them through lack of sense---either interior, as in the case of madmen and minors---or exterior, as in the case of the deaf and dumb. For an advocate needs to have both interior skill so that he may be able to prove the justice of the cause he defends, and also speech and hearing, that he may speak and hear what is said to him. Consequently those who are defective in these points, are altogether debarred from being advocates either in their own or in another's cause. The becomingness of exercising this office is removed in two ways. First, through a man being engaged in higher things. Wherefore it is unfitting that monks or priests should be advocates in any cause whatever, or that clerics should plead in a secular court, because such persons are engaged in Divine things. Secondly, on account of some personal defect, either of body (for instance a blind man whose attendance in a court of justice would be unbecoming) or of soul, for it ill becomes one who has disdained to be just himself, to plead for the justice of another. Wherefore it is unbecoming that persons of ill repute, unbelievers, and those who have been convicted of grievous crimes should be advocates. Nevertheless this unbecomingness is outweighed by necessity: and for this reason such persons can plead either their own cause or that of persons closely connected with them. Moreover, clerics can be advocates in the cause of their own church, and monks in the cause of their own monastery, if the abbot direct them to do so.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Certain persons are sometimes debarred by unbecomingness, and others by inability from performing works of mercy: for not all the works of mercy are becoming to all persons: thus it ill becomes a fool to give counsel, or the ignorant to teach.
 
 Reply to Objection 2: Just as virtue is destroyed by "too much" and "too little," so does a person become incompetent by "more" and "less." For this reason some, like religious and clerics, are debarred from pleading in causes, because they are above such an office; and others because they are less than competent to exercise it, such as persons of ill-repute and unbelievers.
 
 Reply to Objection 3: The necessity of pleading the causes of others is not so pressing as the necessity of pleading one's own cause, because others are able to help themselves otherwise: hence the comparison fails.
-# Whether An Advocate Sins By Defending An Unjust Cause?
+## Whether An Advocate Sins By Defending An Unjust Cause?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an advocate does not sin by defending an unjust cause. For just as a physician proves his skill by healing a desperate disease, so does an advocate prove his skill, if he can defend an unjust cause. Now a physician is praised if he heals a desperate malady. Therefore an advocate also commits no sin, but ought to be praised, if he defends an unjust cause.
 
@@ -63,22 +63,22 @@ Objection 2: Further, it is always lawful to desist from committing a sin. Yet a
 
 Objection 3: Further, it would seem to be a greater sin for an advocate to use unjust means in defense of a just cause (e.g. by producing false witnesses, or alleging false laws), than to defend an unjust cause, since the former is a sin against the form, the latter against the matter of justice. Yet it is seemingly lawful for an advocate to make use of such underhand means, even as it is lawful for a soldier to lay ambushes in a battle. Therefore it would seem that an advocate does not sin by defending an unjust cause.
 
-## Answer
+### Answer
 
 On the contrary, It is said (2 Paralip. 19:2): "Thou helpest the ungodly . . . and therefore thou didst deserve . . . the wrath of the Lord." Now an advocate by defending an unjust cause, helps the ungodly. Therefore he sins and deserves the wrath of the Lord.
 
 I answer that, It is unlawful to cooperate in an evil deed, by counseling, helping, or in any way consenting, because to counsel or assist an action is, in a way, to do it, and the Apostle says (Rom. 1:32) that "they . . . are worthy of death, not only they that do" a sin, "but they also that consent to them that do" it. Hence it was stated above ([2943]Q[62], A[7]), that all such are bound to restitution. Now it is evident that an advocate provides both assistance and counsel to the party for whom he pleads. Wherefore, if knowingly he defends an unjust cause, without doubt he sins grievously, and is bound to restitution of the loss unjustly incurred by the other party by reason of the assistance he has provided. If, however, he defends an unjust cause unknowingly, thinking it just, he is to be excused according to the measure in which ignorance is excusable.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The physician injures no man by undertaking to heal a desperate malady, whereas the advocate who accepts service in an unjust cause, unjustly injures the party against whom he pleads unjustly. Hence the comparison fails. For though he may seem to deserve praise for showing skill in his art, nevertheless he sins by reason of injustice in his will, since he abuses his art for an evil end.
 
 Reply to Objection 2: If an advocate believes from the outset that the cause is just, and discovers afterwards while the case is proceeding that it is unjust, he ought not to throw up his brief in such a way as to help the other side, or so as to reveal the secrets of his client to the other party. But he can and must give up the case, or induce his client to give way, or make some compromise without prejudice to the opposing party.
 
 Reply to Objection 3: As stated above ([2944]Q[40], A[3]), it is lawful for a soldier, or a general to lay ambushes in a just war, by prudently concealing what he has a mind to do, but not by means of fraudulent falsehoods, since we should keep faith even with a foe, as Tully says (De offic. iii, 29). Hence it is lawful for an advocate, in defending his case, prudently to conceal whatever might hinder its happy issue, but it is unlawful for him to employ any kind of falsehood.
-# Whether It Is Lawful For An Advocate To Take A Fee For Pleading?
+## Whether It Is Lawful For An Advocate To Take A Fee For Pleading?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unlawful for an advocate to take a fee for pleading. Works of mercy should not be done with a view to human remuneration, according to Lk. 14:12, "When thou makest a dinner or a supper, call not thy friends . . . nor thy neighbors who are rich: lest perhaps they also invite thee again, and a recompense be made to thee." Now it is a work of mercy to plead another's cause, as stated above (A[1] ). Therefore it is not lawful for an advocate to take payment in money for pleading.
 
@@ -86,13 +86,13 @@ Objection 2: Further, spiritual things are not to be bartered with temporal thin
 
 Objection 3: Further, just as the person of the advocate concurs towards the pronouncement of the verdict, so do the persons of the judge and of the witness. Now, according to Augustine (Ep. cliii ad Macedon.), "the judge should not sell a just sentence, nor the witness true evidence." Therefore neither can an advocate sell a just pleading.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Ep. cliii ad Macedon.) that "an advocate may lawfully sell his pleading, and a lawyer his advice."
 
 I answer that, A man may justly receive payment for granting what he is not bound to grant. Now it is evident that an advocate is not always bound to consent to plead, or to give advice in other people's causes. Wherefore, if he sell his pleading or advice, he does not act against justice. The same applies to the physician who attends on a sick person to heal him, and to all like persons; provided, however, they take a moderate fee, with due consideration for persons, for the matter in hand, for the labor entailed, and for the custom of the country. If, however, they wickedly extort an immoderate fee, they sin against justice. Hence Augustine says (Ep. cliii ad Macedon.) that "it is customary to demand from them restitution of what they have extorted by a wicked excess, but not what has been given to them in accordance with a commendable custom."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Man is not bound to do gratuitously whatever he can do from motives of mercy: else no man could lawfully sell anything, since anything may be given from motives of mercy. But when a man does give a thing out of mercy, he should seek, not a human, but a Divine reward. In like manner an advocate, when he mercifully pleads the cause of a poor man, should have in view not a human but a Divine meed; and yet he is not always bound to give his services gratuitously.
 

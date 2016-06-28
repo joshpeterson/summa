@@ -10,9 +10,9 @@ We must now consider the distinction of sins or vices: under which head there ar
 (7) Whether they differ according to their various stages?
 (8) Whether they differ in respect of excess and deficiency?
 (9) Whether they differ according to their various circumstances?
-# Whether Sins Differ In Species According To Their Objects?
+## Whether Sins Differ In Species According To Their Objects?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sins do not differ in species, according to their objects. For acts are said to be good or evil, in relation, chiefly, to their end, as shown above ([1697]Q[1], A[3];[1698] Q[18], AA[4],6). Since then sin is nothing else than a bad human act, as stated above ([1699]Q[71], A[1]), it seems that sins should differ specifically according to their ends rather than according to their objects.
 
@@ -20,22 +20,22 @@ Objection 2: Further, evil, being a privation, differs specifically according to
 
 Objection 3: Further, if sins differed specifically according to their objects, it would be impossible to find the same specific sin with diverse objects: and yet such sins are to be found. For pride is about things spiritual and material as Gregory says (Moral. xxxiv, 18); and avarice is about different kinds of things. Therefore sins do not differ in species according to their objects.
 
-## Answer
+### Answer
 
 On the contrary, "Sin is a word, deed, or desire against God's law." Now words, deeds, and desires differ in species according to their various objects: since acts differ by their objects, as stated above ([1700]Q[18], A[2] ). Therefore sins, also differ in species according to their objects.
 
 I answer that, As stated above ([1701]Q[71], A[6]), two things concur in the nature of sin, viz. the voluntary act, and its inordinateness, which consists in departing from God's law. Of these two, one is referred essentially to the sinner, who intends such and such an act in such and such matter; while the other, viz. the inordinateness of the act, is referred accidentally to the intention of the sinner, for "no one acts intending evil," as Dionysius declares (Div. Nom. iv). Now it is evident that a thing derives its species from that which is essential and not from that which is accidental: because what is accidental is outside the specific nature. Consequently sins differ specifically on the part of the voluntary acts rather than of the inordinateness inherent to sin. Now voluntary acts differ in species according to their objects, as was proved above ([1702]Q[18], A[2]). Therefore it follows that sins are properly distinguished in species by their objects.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The aspect of good is found chiefly in the end: and therefore the end stands in the relation of object to the act of the will which is at the root of every sin. Consequently it amounts to the same whether sins differ by their objects or by their ends.
 
 Reply to Objection 2: Sin is not a pure privation but an act deprived of its due order: hence sins differ specifically according to their objects of their acts rather than according to their opposites, although, even if they were distinguished in reference to their opposite virtues, it would come to the same: since virtues differ specifically according to their objects, as stated above ([1703]Q[60], A[5]).
 
 Reply to Objection 3: In various things, differing in species or genus, nothing hinders our finding one formal aspect of the object, from which aspect sin receives its species. It is thus that pride seeks excellence in reference to various things; and avarice seeks abundance of things adapted to human use.
-# Whether Spiritual Sins Are Fittingly Distinguished From Carnal Sins?
+## Whether Spiritual Sins Are Fittingly Distinguished From Carnal Sins?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that spiritual sins are unfittingly distinguished from carnal sins. For the Apostle says (Gal. 5:19): "The works of the flesh are manifest, which are fornication, uncleanness, immodesty, luxury, idolatry, witchcrafts," etc. from which it seems that all kinds of sins are works of the flesh. Now carnal sins are called works of the flesh. Therefore carnal sins should not be distinguished from spiritual sins.
 
@@ -45,7 +45,7 @@ Objection 3: Further, the higher part of the soul, which is the mind or reason, 
 
 Objection 4: Further, if some sins are carnal specifically, this, seemingly, should apply chiefly to those sins whereby man sins against his own body. But, according to the Apostle (1 Cor. 6:18), "every sin that a man doth, is without the body: but he that committeth fornication, sinneth against his own body." Therefore fornication would be the only carnal sin, whereas the Apostle (Eph. 5:3) reckons covetousness with the carnal sins.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. xxxi, 17) says that "of the seven capital sins five are spiritual, and two carnal."
 
@@ -53,16 +53,16 @@ I answer that, As stated above [1705](A[1]), sins take their species from their 
 
 Accordingly, those sins which consist in spiritual pleasure, are called spiritual sins; while those which consist in carnal pleasure, are called carnal sins, e.g. gluttony, which consists in the pleasures of the table; and lust, which consists in sexual pleasures. Hence the Apostle says (2 Cor. 7:1): "Let us cleanse ourselves from all defilement of the flesh and of the spirit."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As a gloss says on the same passage, these vices are called works of the flesh, not as though they consisted in carnal pleasure; but flesh here denotes man, who is said to live according to the flesh, when he lives according to himself, as Augustine says (De Civ. Dei xiv, 2,3). The reason of this is because every failing in the human reason is due in some way to the carnal sense.
 
 Reply to Objection 3: Even in the carnal sins there is a spiritual act, viz. the act of reason: but the end of these sins, from which they are named, is carnal pleasure.
 
 Reply to Objection 4: As the gloss says, "in the sin of fornication the soul is the body's slave in a special sense, because at the moment of sinning it can think of nothing else": whereas the pleasure of gluttony, although carnal, does not so utterly absorb the reason. It may also be said that in this sin, an injury is done to the body also, for it is defiled inordinately: wherefore by this sin alone is man said specifically to sin against his body. While covetousness, which is reckoned among the carnal sins, stands here for adultery, which is the unjust appropriation of another's wife. Again, it may be said that the thing in which the covetous man takes pleasure is something bodily, and in this respect covetousness is numbered with the carnal sins: but the pleasure itself does not belong to the body, but to the spirit, wherefore Gregory says (Moral. xxxi, 17) that it is a spiritual sin.
-# Whether Sins Differ Specifically In Reference To Their Causes?
+## Whether Sins Differ Specifically In Reference To Their Causes?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sins differ specifically in reference to their causes. For a thing takes its species from that whence it derives its being. Now sins derive their being from their causes. Therefore they take their species from them also. Therefore they differ specifically in reference to their causes.
 
@@ -70,22 +70,22 @@ Objection 2: Further, of all the causes the material cause seems to have least r
 
 Objection 3: Further, Augustine, commenting on Ps. 79:17, "Things set on fire and dug down," says that "every sin is due either to fear inducing false humility, or to love enkindling us to undue ardor." For it is written (1 Jn. 2:16) that "all that is in the world, is the concupiscence of the flesh, or [Vulg.: 'and'] the concupiscence of the eyes, or [Vulg.: 'and'] the pride of life." Now a thing is said to be in the world on account of sin, in as much as the world denotes lovers of the world, as Augustine observes (Tract. ii in Joan.). Gregory, too (Moral. xxxi, 17), distinguishes all sins according to the seven capital vices. Now all these divisions refer to the causes of sins. Therefore, seemingly, sins differ specifically according to the diversity of their causes.
 
-## Answer
+### Answer
 
 On the contrary, If this were the case all sins would belong to one species, since they are due to one cause. For it is written (Ecclus. 10:15) that "pride is the beginning of all sin," and (1 Tim. 6:10) that "the desire of money is the root of all evils." Now it is evident that there are various species of sins. Therefore sins do not differ specifically according to their different causes.
 
 I answer that, Since there are four kinds of causes, they are attributed to various things in various ways. Because the "formal" and the "material" cause regard properly the substance of a thing; and consequently substances differ in respect of their matter and form, both in species and in genus. The "agent" and the "end" regard directly movement and operation: wherefore movements and operations differ specifically in respect of these causes; in different ways, however, because the natural active principles are always determined to the same acts; so that the different species of natural acts are taken not only from the objects, which are the ends or terms of those acts, but also from their active principles: thus heating and cooling are specifically distinct with reference to hot and cold. On the other hand, the active principles in voluntary acts, such as the acts of sins, are not determined, of necessity, to one act, and consequently from one active or motive principle, diverse species of sins can proceed: thus from fear engendering false humility man may proceed to theft, or murder, or to neglect the flock committed to his care; and these same things may proceed from love enkindling to undue ardor. Hence it is evident that sins do not differ specifically according to their various active or motive causes, but only in respect of diversity in the final cause, which is the end and object of the will. For it has been shown above ([1706]Q[1], A[3];[1707] Q[18], AA[4],6) that human acts take their species from the end.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The active principles in voluntary acts, not being determined to one act, do not suffice for the production of human acts, unless the will be determined to one by the intention of the end, as the Philosopher proves (Metaph. ix, text. 15,16), and consequently sin derives both its being and its species from the end.
 
 Reply to Objection 2: Objects, in relation to external acts, have the character of matter "about which"; but, in relation to the interior act of the will, they have the character of end; and it is owing to this that they give the act its species. Nevertheless, even considered as the matter "about which," they have the character of term, from which movement takes its species (Phys. v, text. 4; Ethic. x, 4); yet even terms of movement specify movements, in so far as term has the character of end.
 
 Reply to Objection 3: These distinctions of sins are given, not as distinct species of sins, but to show their various causes.
-# Whether Sin Is Fittingly Divided Into Sin Against God, Against Oneself, And Against One's Neighbor?
+## Whether Sin Is Fittingly Divided Into Sin Against God, Against Oneself, And Against One's Neighbor?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sin is unfittingly divided into sin against God, against one's neighbor, and against oneself. For that which is common to all sins should not be reckoned as a part in the division of sin. But it is common to all sins to be against God: for it is stated in the definition of sin that it is "against God's law," as stated above ([1708]Q[66], A[6]). Therefore sin against God should not be reckoned a part of the division of sin.
 
@@ -93,22 +93,22 @@ Objection 2: Further, every division should consist of things in opposition to o
 
 Objection 3: Further, specification is not taken from things external. But God and our neighbor are external to us. Therefore sins are not distinguished specifically with regard to them: and consequently sin is unfittingly divided according to these three.
 
-## Answer
+### Answer
 
 On the contrary, Isidore (De Summo Bono), in giving the division of sins, says that "man is said to sin against himself, against God, and against his neighbor."
 
 I answer that, As stated above ([1709]Q[71], AA[1],6), sin is an inordinate act. Now there should be a threefold order in man: one in relation to the rule of reason, in so far as all our actions and passions should be commensurate with the rule of reason: another order is in relation to the rule of the Divine Law, whereby man should be directed in all things: and if man were by nature a solitary animal, this twofold order would suffice. But since man is naturally a civic and social animal, as is proved in Polit. i, 2, hence a third order is necessary, whereby man is directed in relation to other men among whom he has to dwell. Of these orders the second contains the first and surpasses it. For whatever things are comprised under the order of reason, are comprised under the order of God Himself. Yet some things are comprised under the order of God, which surpass the human reason, such as matters of faith, and things due to God alone. Hence he that sins in such matters, for instance, by heresy, sacrilege, or blasphemy, is said to sin against God. In like manner, the first order includes the third and surpasses it, because in all things wherein we are directed in reference to our neighbor, we need to be directed according to the order of reason. Yet in some things we are directed according to reason, in relation to ourselves only, and not in reference to our neighbor; and when man sins in these matters, he is said to sin against himself, as is seen in the glutton, the lustful, and the prodigal. But when man sins in matters concerning his neighbor, he is said to sin against his neighbor, as appears in the thief and murderer. Now the things whereby man is directed to God, his neighbor, and himself are diverse. Wherefore this distinction of sins is in respect of their objects, according to which the species of sins are diversified: and consequently this distinction of sins is properly one of different species of sins: because the virtues also, to which sins are opposed, differ specifically in respect of these three. For it is evident from what has been said ([1710]Q[62], AA[1],2,3) that by the theological virtues man is directed to God; by temperance and fortitude, to himself; and by justice to his neighbor.
 
-## Replies
+### Replies
 
 Reply to Objection 1: To sin against God is common to all sins, in so far as the order to God includes every human order; but in so far as order to God surpasses the other two orders, sin against God is a special kind of sin.
 
 Reply to Objection 2: When several things, of which one includes another, are distinct from one another, this distinction is understood to refer, not to the part contained in another, but to that in which one goes beyond another. This may be seen in the division of numbers and figures: for a triangle is distinguished from a four-sided figure not in respect of its being contained thereby, but in respect of that in which it is surpassed thereby: and the same applies to the numbers three and four.
 
 Reply to Objection 3: Although God and our neighbor are external to the sinner himself, they are not external to the act of sin, but are related to it as to its object.
-# Whether The Division Of Sins According To Their Debt Of Punishment Diversifies Their Species?
+## Whether The Division Of Sins According To Their Debt Of Punishment Diversifies Their Species?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the division of sins according to their debt of punishment diversifies their species; for instance, when sin is divided into "mortal" and "venial." For things which are infinitely apart, cannot belong to the same species, nor even to the same genus. But venial and mortal sin are infinitely apart, since temporal punishment is due to venial sin, and eternal punishment to mortal sin; and the measure of the punishment corresponds to the gravity of the fault, according to Dt. 25:2: "According to the measure of the sin shall the measure be also of the stripes be." Therefore venial and mortal sins are not of the same genus, nor can they be said to belong to the same species.
 
@@ -116,7 +116,7 @@ Objection 2: Further, some sins are mortal in virtue of their species [*"Ex gene
 
 Objection 3: Further, just as a virtuous act stands in relation to its reward, so does sin stand in relation to punishment. But the reward is the end of the virtuous act. Therefore punishment is the end of sin. Now sins differ specifically in relation to their ends, as stated above (A[1], ad 1). Therefore they are also specifically distinct according to the debt of punishment.
 
-## Answer
+### Answer
 
 On the contrary, Those things that constitute a species are prior to the species, e.g. specific differences. But punishment follows sin as the effect thereof. Therefore sins do not differ specifically according to the debt of punishment.
 
@@ -126,16 +126,16 @@ We must therefore say that the difference between venial and mortal sin, or any 
 
 Now the difference between venial and mortal sin is consequent to the diversity of that inordinateness which constitutes the notion of sin. For inordinateness is twofold, one that destroys the principle of order, and another which, without destroying the principle of order, implies inordinateness in the things which follow the principle: thus, in an animal's body, the frame may be so out of order that the vital principle is destroyed; this is the inordinateness of death; while, on the other hand, saving the vital principle, there may be disorder in the bodily humors; and then there is sickness. Now the principle of the entire moral order is the last end, which stands in the same relation to matters of action, as the indemonstrable principle does to matters of speculation (Ethic. vii, 8). Therefore when the soul is so disordered by sin as to turn away from its last end, viz. God, to Whom it is united by charity, there is mortal sin; but when it is disordered without turning away from God, there is venial sin. For even as in the body, the disorder of death which results from the destruction of the principle of life, is irreparable according to nature, while the disorder of sickness can be repaired by reason of the vital principle being preserved, so it is in matters concerning the soul. Because, in speculative matters, it is impossible to convince one who errs in the principles, whereas one who errs, but retains the principles, can be brought back to the truth by means of the principles. Likewise in practical matters, he who, by sinning, turns away from his last end, if we consider the nature of his sin, falls irreparably, and therefore is said to sin mortally and to deserve eternal punishment: whereas when a man sins without turning away from God, by the very nature of his sin, his disorder can be repaired, because the principle of the order is not destroyed; wherefore he is said to sin venially, because, to wit, he does not sin so as to deserve to be punished eternally.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Mortal and venial sins are infinitely apart as regards what they "turn away from," not as regards what they "turn to," viz. the object which specifies them. Hence nothing hinders the same species from including mortal and venial sins; for instance, in the species "adultery" the first movement is a venial sin; while an idle word, which is, generally speaking, venial, may even be a mortal sin.
 
 Reply to Objection 2: From the fact that one sin is mortal by reason of its species, and another venial by reason of its species, it follows that this difference is consequent to the specific difference of sins, not that it is the cause thereof. And this difference may be found even in things of the same species, as stated above.
 
 Reply to Objection 3: The reward is intended by him that merits or acts virtually; whereas the punishment is not intended by the sinner, but, on the contrary, is against his will. Hence the comparison fails.
-# Whether Sins Of Commission And Omission Differ Specifically?
+## Whether Sins Of Commission And Omission Differ Specifically?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sins of commission and omission differ specifically. For "offense" and "sin" are condivided with one another (Eph. 2:1), where it is written: "When you were dead in your offenses and sins," which words a gloss explains, saying: "'Offenses,' by omitting to do what was commanded, and 'sins,' by doing what was forbidden." Whence it is evident that "offenses" here denotes sins of omission; while "sin" denotes sins of commission. Therefore they differ specifically, since they are contrasted with one another as different species.
 
@@ -143,22 +143,22 @@ Objection 2: Further, it is essential to sin to be against God's law, for this i
 
 Objection 3: Further, omission and commission differ as affirmation and negation. Now affirmation and negation cannot be in the same species, since negation has no species; for "there is neither species nor difference of non-being," as the Philosopher states (Phys. iv, text. 67). Therefore omission and commission cannot belong to the same species.
 
-## Answer
+### Answer
 
 On the contrary, Omission and commission are found in the same species of sin. For the covetous man both takes what belongs to others, which is a sin of commission; and gives not of his own to whom he should give, which is a sin of omission. Therefore omission and commission do not differ specifically.
 
 I answer that, There is a twofold difference in sins; a material difference and a formal difference: the material difference is to be observed in the natural species of the sinful act; while the formal difference is gathered from their relation to one proper end, which is also their proper object. Hence we find certain acts differing from one another in the material specific difference, which are nevertheless formally in the same species of sin, because they are directed to the one same end: thus strangling, stoning, and stabbing come under the one species of murder, although the actions themselves differ specifically according to the natural species. Accordingly, if we refer to the material species in sins of omission and commission, they differ specifically, using species in a broad sense, in so far as negation and privation may have a species. But if we refer to the formal species of sins of omission and commission, they do not differ specifically, because they are directed to the same end, and proceed from the same motive. For the covetous man, in order to hoard money, both robs, and omits to give what he ought, and in like manner, the glutton, to satiate his appetite, both eats too much and omits the prescribed fasts. The same applies to other sins: for in things, negation is always founded on affirmation, which, in a manner, is its cause. Hence in the physical order it comes under the same head, that fire gives forth heat, and that it does not give forth cold.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This division in respect of commission and omission, is not according to different formal species, but only according to material species, as stated.
 
 Reply to Objection 2: In God's law, the necessity for various affirmative and negative precepts, was that men might be gradually led to virtue, first by abstaining from evil, being induced to this by the negative precepts, and afterwards by doing good, to which we are induced by the affirmative precepts. Wherefore the affirmative and negative precepts do not belong to different virtues, but to different degrees of virtue; and consequently they are not of necessity, opposed to sins of different species. Moreover sin is not specified by that from which it turns away, because in this respect it is a negation or privation, but by that to which it turns, in so far as sin is an act. Consequently sins do not differ specifically according to the various precepts of the Law.
 
 Reply to Objection 3: This objection considers the material diversity of sins. It must be observed, however, that although, properly speaking, negation is not in a species, yet it is allotted to a species by reduction to the affirmation on which it is based.
-# Whether Sins Are Fittingly Divided Into Sins Of Thought, Word, And Deed?
+## Whether Sins Are Fittingly Divided Into Sins Of Thought, Word, And Deed?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sins are unfittingly divided into sins of thought, word, and deed. For Augustine (De Trin. xii, 12) describes three stages of sin, of which the first is "when the carnal sense offers a bait," which is the sin of thought; the second stage is reached "when one is satisfied with the mere pleasure of thought"; and the third stage, "when consent is given to the deed." Now these three belong to the sin of thought. Therefore it is unfitting to reckon sin of thought as one kind of sin.
 
@@ -166,22 +166,22 @@ Objection 2: Further, Gregory (Moral. iv, 25) reckons four degrees of sin; the f
 
 Objection 3: Further, there can be no sin of word or deed unless there precede sin of thought. Therefore these sins do not differ specifically. Therefore they should not be condivided with one another.
 
-## Answer
+### Answer
 
 On the contrary, Jerome in commenting on Ezech. 43:23: "The human race is subject to three kinds of sin, for when we sin, it is either by thought, or word, or deed."
 
 I answer that, Things differ specifically in two ways: first, when each has the complete species; thus a horse and an ox differ specifically: secondly, when the diversity of species is derived from diversity of degree in generation or movement: thus the building is the complete generation of a house, while the laying of the foundations, and the setting up of the walls are incomplete species, as the Philosopher declares (Ethic. x, 4); and the same can apply to the generation of animals. Accordingly sins are divided into these three, viz. sins of thought, word, and deed, not as into various complete species: for the consummation of sin is in the deed, wherefore sins of deed have the complete species; but the first beginning of sin is its foundation, as it were, in the sin of thought; the second degree is the sin of word, in so far as man is ready to break out into a declaration of his thought; while the third degree consists in the consummation of the deed. Consequently these three differ in respect of the various degrees of sin. Nevertheless it is evident that these three belong to the one complete species of sin, since they proceed from the same motive. For the angry man, through desire of vengeance, is at first disturbed in thought, then he breaks out into words of abuse, and lastly he goes on to wrongful deeds; and the same applies to lust and to any other sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All sins of thought have the common note of secrecy, in respect of which they form one degree, which is, however, divided into three stages, viz. of cogitation, pleasure, and consent.
 
 Reply to Objection 2: Sins of words and deed are both done openly, and for this reason Gregory (Moral. iv, 25) reckons them under one head: whereas Jerome (in commenting on Ezech. 43:23) distinguishes between them, because in sins of word there is nothing but manifestation which is intended principally; while in sins of deed, it is the consummation of the inward thought which is principally intended, and the outward manifestation is by way of sequel. Habit and despair are stages following the complete species of sin, even as boyhood and youth follow the complete generation of a man.
 
 Reply to Objection 3: Sin of thought and sin of word are not distinct from the sin of deed when they are united together with it, but when each is found by itself: even as one part of a movement is not distinct from the whole movement, when the movement is continuous, but only when there is a break in the movement.
-# Whether Excess And Deficiency Diversify The Species Of Sins?
+## Whether Excess And Deficiency Diversify The Species Of Sins?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that excess and deficiency do not diversify the species of sins. For excess and deficiency differ in respect of more and less. Now "more" and "less" do not diversify a species. Therefore excess and deficiency do not diversify the species of sins.
 
@@ -189,22 +189,22 @@ Objection 2: Further, just as sin, in matters of action, is due to straying from
 
 Objection 3: Further, "one species cannot be made out of two," as Porphyry declares [*Isagog.; cf. Arist. Metaph. i]. Now excess and deficiency are united in one sin; for some are at once illiberal and wasteful---illiberality being a sin of deficiency, and prodigality, by excess. Therefore excess and deficiency do not diversify the species of sins.
 
-## Answer
+### Answer
 
 On the contrary, Contraries differ specifically, for "contrariety is a difference of form," as stated in Metaph. x, text. 13,14. Now vices that differ according to excess and deficiency are contrary to one another, as illiberality to wastefulness. Therefore they differ specifically.
 
 I answer that, While there are two things in sin, viz. the act itself and its inordinateness, in so far as sin is a departure from the order of reason and the Divine law, the species of sin is gathered, not from its inordinateness, which is outside the sinner's intention, as stated above [1712](A[1]), but one the contrary, from the act itself as terminating in the object to which the sinner's intention is directed. Consequently wherever we find a different motive inclining the intention to sin, there will be a different species of sin. Now it is evident that the motive for sinning, in sins by excess, is not the same as the motive for sinning, in sins of deficiency; in fact, they are contrary to one another, just as the motive in the sin of intemperance is love for bodily pleasures, while the motive in the sin of insensibility is hatred of the same. Therefore these sins not only differ specifically, but are contrary to one another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although "more" and "less" do not cause diversity of species, yet they are sometimes consequent to specific difference, in so far as they are the result of diversity of form; thus we may say that fire is lighter than air. Hence the Philosopher says (Ethic. viii, 1) that "those who held that there are no different species of friendship, by reason of its admitting of degree, were led by insufficient proof." In this way to exceed reason or to fall short thereof belongs to sins specifically different, in so far as they result from different motives.
 
 Reply to Objection 2: It is not the sinner's intention to depart from reason; and so sins of excess and deficiency do not become of one kind through departing from the one rectitude of reason. On the other hand, sometimes he who utters a falsehood, intends to hide the truth, wherefore in this respect, it matters not whether he tells more or less. If, however, departure from the truth be not outside the intention, it is evident that then one is moved by different causes to tell more or less; and in this respect there are different kinds of falsehood, as is evident of the "boaster," who exceeds in telling untruths for the sake of fame, and the "cheat," who tells less than the truth, in order to escape from paying his debts. This also explains how some false opinions are contrary to one another.
 
 Reply to Objection 3: One may be prodigal and illiberal with regard to different objects: for instance one may be illiberal [*Cf. [1713]SS, Q[119], A[1], ad 1] in taking what one ought not: and nothing hinders contraries from being in the same subject, in different respects.
-# Whether Sins Differ Specifically In Respect Of Different Circumstances?
+## Whether Sins Differ Specifically In Respect Of Different Circumstances?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that vices and sins differ in respect of different circumstances. For, as Dionysius says (Div. Nom. iv), "evil results from each single defect." Now individual defects are corruptions of individual circumstances. Therefore from the corruption of each circumstance there results a corresponding species of sin.
 
@@ -212,7 +212,7 @@ Objection 2: Further, sins are human acts. But human acts sometimes take their s
 
 Objection 3: Further, diverse species are assigned to gluttony, according to the words contained in the following verse:
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. iii, 7; iv, 1) that "every vice sins by doing more than one ought, and when one ought not"; and in like manner as to the other circumstances. Therefore the species of sins are not diversified in this respect.
 
@@ -220,7 +220,7 @@ I answer that, As stated above [1715](A[8]), wherever there is a special motive 
 
 Sometimes, however, the corruption of different circumstances arises from different motives: for instance that a man eat hastily, may be due to the fact that he cannot brook the delay in taking food, on account of a rapid exhaustion of the digestive humors; and that he desire too much food, may be due to a naturally strong digestion; that he desire choice meats, is due to his desire for pleasure in taking food. Hence in such matters, the corruption of different circumstances entails different species of sins.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Evil, as such, is a privation, and so it has different species in respect of the thing which the subject is deprived, even as other privations. But sin does not take its species from the privation or aversion, as stated above [1716](A[1]), but from turning to the object of the act.
 

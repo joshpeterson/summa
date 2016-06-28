@@ -9,9 +9,9 @@ We have now to consider the manner in which Christ exists in this sacrament; and
 (6) Whether after the consecration, the body of Christ is moved when the host or chalice is moved?
 (7) Whether Christ's body, as it is in this sacrament, can be seen by the eye?
 (8) Whether the true body of Christ remains in this sacrament when He is seen under the appearance of a child or of flesh?
-# Whether The Whole Christ Is Contained Under This Sacrament?
+## Whether The Whole Christ Is Contained Under This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the whole Christ is not contained under this sacrament, because Christ begins to be in this sacrament by conversion of the bread and wine. But it is evident that the bread and wine cannot be changed either into the Godhead or into the soul of Christ. Since therefore Christ exists in three substances, namely, the Godhead, soul and body, as shown above ([4545]Q[2], A[5];[4546] Q[5], AA[1],3), it seems that the entire Christ is not under this sacrament.
 
@@ -19,22 +19,22 @@ Objection 2: Further, Christ is in this sacrament, forasmuch as it is ordained t
 
 Objection 3: Further, a body of greater quantity cannot be contained under the measure of a lesser. But the measure of the bread and wine is much smaller than the measure of Christ's body. Therefore it is impossible that the entire Christ be contained under this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Officiis): "Christ is in this sacrament."
 
 I answer that, It is absolutely necessary to confess according to Catholic faith that the entire Christ is in this sacrament. Yet we must know that there is something of Christ in this sacrament in a twofold manner: first, as it were, by the power of the sacrament; secondly, from natural concomitance. By the power of the sacrament, there is under the species of this sacrament that into which the pre-existing substance of the bread and wine is changed, as expressed by the words of the form, which are effective in this as in the other sacraments; for instance, by the words: "This is My body," or, "This is My blood." But from natural concomitance there is also in this sacrament that which is really united with that thing wherein the aforesaid conversion is terminated. For if any two things be really united, then wherever the one is really, there must the other also be: since things really united together are only distinguished by an operation of the mind.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Because the change of the bread and wine is not terminated at the Godhead or the soul of Christ, it follows as a consequence that the Godhead or the soul of Christ is in this sacrament not by the power of the sacrament, but from real concomitance. For since the Godhead never set aside the assumed body, wherever the body of Christ is, there, of necessity, must the Godhead be; and therefore it is necessary for the Godhead to be in this sacrament concomitantly with His body. Hence we read in the profession of faith at Ephesus (P. I., chap. xxvi): "We are made partakers of the body and blood of Christ, not as taking common flesh, nor as of a holy man united to the Word in dignity, but the truly life-giving flesh of the Word Himself."
 
 Reply to Objection 2: By the power of the sacrament there is contained under it, as to the species of the bread, not only the flesh, but the entire body of Christ, that is, the bones the nerves, and the like. And this is apparent from the form of this sacrament, wherein it is not said: "This is My flesh," but "This is My body." Accordingly, when our Lord said (Jn. 6:56): "My flesh is meat indeed," there the word flesh is put for the entire body, because according to human custom it seems to be more adapted for eating, as men commonly are fed on the flesh of animals, but not on the bones or the like.
 
 Reply to Objection 3: As has been already stated ([4549]Q[75], A[5]), after the consecration of the bread into the body of Christ, or of the wine into His blood, the accidents of both remain. From which it is evident that the dimensions of the bread or wine are not changed into the dimensions of the body of Christ, but substance into substance. And so the substance of Christ's body or blood is under this sacrament by the power of the sacrament, but not the dimensions of Christ's body or blood. Hence it is clear that the body of Christ is in this sacrament "by way of substance," and not by way of quantity. But the proper totality of substance is contained indifferently in a small or large quantity; as the whole nature of air in a great or small amount of air, and the whole nature of a man in a big or small individual. Wherefore, after the consecration, the whole substance of Christ's body and blood is contained in this sacrament, just as the whole substance of the bread and wine was contained there before the consecration.
-# Whether The Whole Christ Is Contained Under Each Species Of This Sacrament?
+## Whether The Whole Christ Is Contained Under Each Species Of This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the whole Christ is not contained under both species of this sacrament. For this sacrament is ordained for the salvation of the faithful, not by virtue of the species, but by virtue of what is contained under the species, because the species were there even before the consecration, from which comes the power of this sacrament. If nothing, then, be contained under one species, but what is contained under the other, and if the whole Christ be contained under both, it seems that one of them is superfluous in this sacrament.
 
@@ -42,22 +42,22 @@ Objection 2: Further, it was stated above (A[1], ad 1) that all the other parts 
 
 Objection 3: Further, what is once "in being" cannot be again "in becoming." But Christ's body has already begun to be in this sacrament by the consecration of the bread. Therefore, it cannot begin again to be there by the consecration of the wine; and so Christ's body will not be contained under the species of the wine, and accordingly neither the entire Christ. Therefore the whole Christ is not contained under each species.
 
-## Answer
+### Answer
 
 On the contrary, The gloss on 1 Cor. 11:25, commenting on the word "Chalice," says that "under each species," namely, of the bread and wine, "the same is received"; and thus it seems that Christ is entire under each species.
 
 I answer that, After what we have said above [4550](A[1]), it must be held most certainly that the whole Christ is under each sacramental species yet not alike in each. For the body of Christ is indeed present under the species of bread by the power of the sacrament, while the blood is there from real concomitance, as stated above (A[1], ad 1) in regard to the soul and Godhead of Christ; and under the species of wine the blood is present by the power of the sacrament, and His body by real concomitance, as is also His soul and Godhead: because now Christ's blood is not separated from His body, as it was at the time of His Passion and death. Hence if this sacrament had been celebrated then, the body of Christ would have been under the species of the bread, but without the blood; and, under the species of the wine, the blood would have been present without the body, as it was then, in fact.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the whole Christ is under each species, yet it is so not without purpose. For in the first place this serves to represent Christ's Passion, in which the blood was separated from the body; hence in the form for the consecration of the blood mention is made of its shedding. Secondly, it is in keeping with the use of this sacrament, that Christ's body be shown apart to the faithful as food, and the blood as drink. Thirdly, it is in keeping with its effect, in which sense it was stated above ([4551]Q[74], A[1]) that "the body is offered for the salvation of the body, and the blood for the salvation of the soul."
 
 Reply to Objection 2: In Christ's Passion, of which this is the memorial, the other parts of the body were not separated from one another, as the blood was, but the body remained entire, according to Ex. 12:46: "You shall not break a bone thereof." And therefore in this sacrament the blood is consecrated apart from the body, but no other part is consecrated separately from the rest.
 
 Reply to Objection 3: As stated above, the body of Christ is not under the species of wine by the power of the sacrament, but by real concomitance: and therefore by the consecration of the wine the body of Christ is not there of itself, but concomitantly.
-# Whether Christ Is Entire Under Every Part Of The Species Of The Bread And Wine?
+## Whether Christ Is Entire Under Every Part Of The Species Of The Bread And Wine?
 
-## Objections
+### Objections
 
 Objection 1: It seems that Christ is not entire under every part of the species of bread and wine. Because those species can be divided infinitely. If therefore Christ be entirely under every part of the said species, it would follow that He is in this sacrament an infinite number of times: which is unreasonable; because the infinite is repugnant not only to nature, but likewise to grace.
 
@@ -65,7 +65,7 @@ Objection 2: Further, since Christ's is an organic body, it has parts determinat
 
 Objection 3: Further, Christ's body always retains the true nature of a body, nor is it ever changed into a spirit. Now it is the nature of a body for it to be "quantity having position" (Predic. iv). But it belongs to the nature of this quantity that the various parts exist in various parts of place. Therefore, apparently it is impossible for the entire Christ to be under every part of the species.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says in a sermon (Gregory, Sacramentarium): "Each receives Christ the Lord, Who is entire under every morsel, nor is He less in each portion, but bestows Himself entire under each."
 
@@ -73,16 +73,16 @@ I answer that, As was observed above (A[1], ad 3), because the substance of Chri
 
 Now it is evident that the whole nature of a substance is under every part of the dimensions under which it is contained; just as the entire nature of air is under every part of air, and the entire nature of bread under every part of bread; and this indifferently, whether the dimensions be actually divided (as when the air is divided or the bread cut), or whether they be actually undivided, but potentially divisible. And therefore it is manifest that the entire Christ is under every part of the species of the bread, even while the host remains entire, and not merely when it is broken, as some say, giving the example of an image which appears in a mirror, which appears as one in the unbroken mirror, whereas when the mirror is broken, there is an image in each part of the broken mirror: for the comparison is not perfect, because the multiplying of such images results in the broken mirror on account of the various reflections in the various parts of the mirror; but here there is only one consecration, whereby Christ's body is in this sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Number follows division, and therefore so long as quantity remains actually undivided, neither is the substance of any thing several times under its proper dimensions, nor is Christ's body several times under the dimensions of the bread; and consequently not an infinite number of times, but just as many times as it is divided into parts.
 
 Reply to Objection 2: The determinate distance of parts in an organic body is based upon its dimensive quantity; but the nature of substance precedes even dimensive quantity. And since the conversion of the substance of the bread is terminated at the substance of the body of Christ, and since according to the manner of substance the body of Christ is properly and directly in this sacrament; such distance of parts is indeed in Christ's true body, which, however, is not compared to this sacrament according to such distance, but according to the manner of its substance, as stated above (A[1], ad 3).
 
 Reply to Objection 3: This argument is based on the nature of a body, arising from dimensive quantity. But it was said above (ad 2) that Christ's body is compared with this sacrament not by reason of dimensive quantity, but by reason of its substance, as already stated.
-# Whether The Whole Dimensive Quantity Of Christ's Body Is In This Sacrament?
+## Whether The Whole Dimensive Quantity Of Christ's Body Is In This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the whole dimensive quantity of Christ's body is not in this sacrament. For it was said [4552](A[3]) that Christ's entire body is contained under every part of the consecrated host. But no dimensive quantity is contained entirely in any whole, and in its every part. Therefore it is impossible for the entire dimensive quantity of Christ's body to be there.
 
@@ -90,7 +90,7 @@ Objection 2: Further, it is impossible for two dimensive quantities to be togeth
 
 Objection 3: Further, if two unequal dimensive quantities be set side by side, the greater will overlap the lesser. But the dimensive quantity of Christ's body is considerably larger than the dimensive quantity of the consecrated host according to every dimension. Therefore, if the dimensive quantity of Christ's body be in this sacrament together with the dimensive quantity of the host, the dimensive quantity of Christ's body is extended beyond the quantity of the host, which nevertheless is not without the substance of Christ's body. Therefore, the substance of Christ's body will be in this sacrament even outside the species of the bread, which is unreasonable, since the substance of Christ's body is in this sacrament, only by the consecration of the bread, as stated above [4553](A[2]). Consequently, it is impossible for the whole dimensive quantity of Christ's body to be in this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, The existence of the dimensive quantity of any body cannot be separated from the existence of its substance. But in this sacrament the entire substance of Christ's body is present, as stated above ([4554]AA[1],3). Therefore the entire dimensive quantity of Christ's body is in this sacrament.
 
@@ -98,16 +98,16 @@ I answer that, As stated above [4555](A[1]), any part of Christ is in this sacra
 
 Nevertheless, since the substance of Christ's body is not really deprived of its dimensive quantity and its other accidents, hence it comes that by reason of real concomitance the whole dimensive quantity of Christ's body and all its other accidents are in this sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The manner of being of every thing is determined by what belongs to it of itself, and not according to what is coupled accidentally with it: thus an object is present to the sight, according as it is white, and not according as it is sweet, although the same object may be both white and sweet; hence sweetness is in the sight after the manner of whiteness, and not after that of sweetness. Since, then, the substance of Christ's body is present on the altar by the power of this sacrament, while its dimensive quantity is there concomitantly and as it were accidentally, therefore the dimensive quantity of Christ's body is in this sacrament, not according to its proper manner (namely, that the whole is in the whole, and the individual parts in individual parts), but after the manner of substance, whose nature is for the whole to be in the whole, and the whole in every part.
 
 Reply to Objection 2: Two dimensive quantities cannot naturally be in the same subject at the same time, so that each be there according to the proper manner of dimensive quantity. But in this sacrament the dimensive quantity of the bread is there after its proper manner, that is, according to commensuration: not so the dimensive quantity of Christ's body, for that is there after the manner of substance, as stated above (ad 1).
 
 Reply to Objection 3: The dimensive quantity of Christ's body is in this sacrament not by way of commensuration, which is proper to quantity, and to which it belongs for the greater to be extended beyond the lesser; but in the way mentioned above (ad 1,2).
-# Whether Christ's Body Is In This Sacrament As In A Place?
+## Whether Christ's Body Is In This Sacrament As In A Place?
 
-## Objections
+### Objections
 
 Objection 1: It seems that Christ's body is in this sacrament as in a place. Because, to be in a place definitively or circumscriptively belongs to being in a place. But Christ's body seems to be definitively in this sacrament, because it is so present where the species of the bread and wine are, that it is nowhere else upon the altar: likewise it seems to be there circumscriptively, because it is so contained under the species of the consecrated host, that it neither exceeds it nor is exceeded by it. Therefore Christ's body is in this sacrament as in a place.
 
@@ -115,7 +115,7 @@ Objection 2: Further, the place of the bread and wine is not empty, because natu
 
 Objection 3: Further, as stated above [4557](A[4]), the body of Christ is in this sacrament with its dimensive quantity, and with all its accidents. But to be in a place is an accident of a body; hence "where" is numbered among the nine kinds of accidents. Therefore Christ's body is in this sacrament locally.
 
-## Answer
+### Answer
 
 On the contrary, The place and the object placed must be equal, as is clear from the Philosopher (Phys. iv). But the place, where this sacrament is, is much less than the body of Christ. Therefore Christ's body is not in this sacrament as in a place.
 
@@ -123,16 +123,16 @@ I answer that, As stated above (A[1], ad 3; A[3]), Christ's body is in this sacr
 
 Hence in no way is Christ's body locally in this sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Christ's body is not in this sacrament definitively, because then it would be only on the particular altar where this sacrament is performed: whereas it is in heaven under its own species, and on many other altars under the sacramental species. Likewise it is evident that it is not in this sacrament circumscriptively, because it is not there according to the commensuration of its own quantity, as stated above. But that it is not outside the superficies of the sacrament, nor on any other part of the altar, is due not to its being there definitively or circumscriptively, but to its being there by consecration and conversion of the bread and wine, as stated above [4558](A[1]; Q[15], A[2], sqq.).
 
 Reply to Objection 2: The place in which Christ's body is, is not empty; nor yet is it properly filled with the substance of Christ's body, which is not there locally, as stated above; but it is filled with the sacramental species, which have to fill the place either because of the nature of dimensions, or at least miraculously, as they also subsist miraculously after the fashion of substance.
 
 Reply to Objection 3: As stated above [4559](A[4]), the accidents of Christ's body are in this sacrament by real concomitance. And therefore those accidents of Christ's body which are intrinsic to it are in this sacrament. But to be in a place is an accident when compared with the extrinsic container. And therefore it is not necessary for Christ to be in this sacrament as in a place.
-# Whether Christ's Body Is In This Sacrament Movably?
+## Whether Christ's Body Is In This Sacrament Movably?
 
-## Objections
+### Objections
 
 Objection 1: It seems that Christ's body is movably in this sacrament, because the Philosopher says (Topic. ii) that "when we are moved, the things within us are moved": and this is true even of the soul's spiritual substance. "But Christ is in this sacrament," as shown above ([4560]Q[74], A[1] ). Therefore He is moved when it is moved.
 
@@ -140,7 +140,7 @@ Objection 2: Further, the truth ought to correspond with the figure. But, accord
 
 Objection 3: Further, if Christ's body were to remain under this sacrament even until the morrow, for the same reason it will remain there during all coming time; for it cannot be said that it ceases to be there when the species pass, because the existence of Christ's body is not dependent on those species. Yet Christ does not remain in this sacrament for all coming time. It seems, then, that straightway on the morrow, or after a short time, He ceases to be under this sacrament. And so it seems that Christ is in this sacrament movably.
 
-## Answer
+### Answer
 
 On the contrary, it is impossible for the same thing to be in motion and at rest, else contradictories would be verified of the same subject. But Christ's body is at rest in heaven. Therefore it is not movably in this sacrament.
 
@@ -150,16 +150,16 @@ In the same way neither is it moved of itself according to the being which it ha
 
 Hence it is clear that Christ, strictly speaking is immovably in this sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument deals with accidental movement, whereby things within us are moved together with us. But with things which can of themselves be in a place, like bodies, it is otherwise than with things which cannot of themselves be in a place, such as forms and spiritual substances. And to this mode can be reduced what we say of Christ, being moved accidentally, according to the existence which He has in this sacrament, in which He is not present as in a place.
 
 Reply to Objection 2: It was this argument which seems to have convinced those who held that Christ's body does not remain under this sacrament if it be reserved until the morrow. It is against these that Cyril says (Ep. lxxxiii): "Some are so foolish as to say that the mystical blessing departs from the sacrament, if any of its fragments remain until the next day: for Christ's consecrated body is not changed, and the power of the blessing, and the life-giving grace is perpetually in it." Thus are all other consecrations irremovable so long as the consecrated things endure; on which account they are not repeated. And although the truth corresponds with the figure, still the figure cannot equal it.
 
 Reply to Objection 3: The body of Christ remains in this sacrament not only until the morrow, but also in the future, so long as the sacramental species remain: and when they cease, Christ's body ceases to be under them, not because it depends on them, but because the relationship of Christ's body to those species is taken away, in the same way as God ceases to be the Lord of a creature which ceases to exist.
-# Whether The Body Of Christ, As It Is In This Sacrament, Can Be Seen By Any Eye, At Least By A Glorified One?
+## Whether The Body Of Christ, As It Is In This Sacrament, Can Be Seen By Any Eye, At Least By A Glorified One?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the body of Christ, as it is in this sacrament, can be seen by the eye, at least by a glorified one. For our eyes are hindered from beholding Christ's body in this sacrament, on account of the sacramental species veiling it. But the glorified eye cannot be hindered by anything from seeing bodies as they are. Therefore, the glorified eye can see Christ's body as it is in this sacrament.
 
@@ -167,7 +167,7 @@ Objection 2: Further, the glorified bodies of the saints will be "made like to t
 
 Objection 3: Further, in the resurrection the saints will be equal to the angels, according to Lk. 20:36. But the angels see the body of Christ as it is in this sacrament, for even the devils are found to pay reverence thereto, and to fear it. Therefore, for like reason, the glorified eye can see Christ as He is in this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, As long as a thing remains the same, it cannot at the same time be seen by the same eye under diverse species. But the glorified eye sees Christ always, as He is in His own species, according to Is. 33:17: "(His eyes) shall see the king in his beauty." It seems, then, that it does not see Christ, as He is under the species of this sacrament.
 
@@ -175,16 +175,16 @@ I answer that, The eye is of two kinds, namely, the bodily eye properly so-calle
 
 Moreover it is perceived differently by different intellects. For since the way in which Christ is in this sacrament is entirely supernatural, it is visible in itself to a supernatural, i.e. the Divine, intellect, and consequently to a beatified intellect, of angel or of man, which, through the participated glory of the Divine intellect, sees all supernatural things in the vision of the Divine Essence. But it can be seen by a wayfarer through faith alone, like other supernatural things. And not even the angelic intellect of its own natural power is capable of beholding it; consequently the devils cannot by their intellect perceive Christ in this sacrament, except through faith, to which they do not pay willing assent; yet they are convinced of it from the evidence of signs, according to James 2:19: "The devils believe, and tremble."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Our bodily eye, on account of the sacramental species, is hindered from beholding the body of Christ underlying them, not merely as by way of veil (just as we are hindered from seeing what is covered with any corporeal veil), but also because Christ's body bears a relation to the medium surrounding this sacrament, not through its own accidents, but through the sacramental species.
 
 Reply to Objection 2: Christ's own bodily eye sees Himself existing under the sacrament, yet it cannot see the way in which it exists under the sacrament, because that belongs to the intellect. But it is not the same with any other glorified eye, because Christ's eye is under this sacrament, in which no other glorified eye is conformed to it.
 
 Reply to Objection 3: No angel, good or bad, can see anything with a bodily eye, but only with the mental eye. Hence there is no parallel reason, as is evident from what was said above.
-# Whether Christ's Body Is Truly There When Flesh Or A Child Appears Miraculously In This Sacrament?
+## Whether Christ's Body Is Truly There When Flesh Or A Child Appears Miraculously In This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that Christ's body is not truly there when flesh or a child appears miraculously in this sacrament. Because His body ceases to be under this sacrament when the sacramental species cease to be present, as stated above [4562](A[6]). But when flesh or a child appears, the sacramental species cease to be present. Therefore Christ's body is not truly there.
 
@@ -192,7 +192,7 @@ Objection 2: Further, wherever Christ's body is, it is there either under its ow
 
 Objection 3: Further, Christ's body begins to be in this sacrament by consecration and conversion, as was said above ([4563]Q[75], AA[2],3,4). But the flesh and blood which appear by miracle are not consecrated, nor are they converted into Christ's true body and blood. Therefore the body or the blood of Christ is not under those species.
 
-## Answer
+### Answer
 
 On the contrary, When such apparition takes place, the same reverence is shown to it as was shown at first, which would not be done if Christ were not truly there, to Whom we show reverence of "latria." Therefore, when such apparition occurs, Christ is under the sacrament.
 
@@ -204,7 +204,7 @@ But this seems unlikely. First of all, because Christ's body under its proper sp
 
 Consequently, it remains to be said, that, while the dimensions remain the same as before, there is a miraculous change wrought in the other accidents, such as shape, color, and the rest, so that flesh, or blood, or a child, is seen. And, as was said already, this is not deception, because it is done "to represent the truth," namely, to show by this miraculous apparition that Christ's body and blood are truly in this sacrament. And thus it is clear that as the dimensions remain, which are the foundation of the other accidents, as we shall see later on ([4565]Q[77], A[2]), the body of Christ truly remains in this sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When such apparition takes place, the sacramental species sometimes continue entire in themselves; and sometimes only as to that which is principal, as was said above.
 

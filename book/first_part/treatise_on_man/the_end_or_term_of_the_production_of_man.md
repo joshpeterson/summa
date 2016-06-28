@@ -10,9 +10,9 @@ We now treat of the end or term of man's production, inasmuch as he is said to b
 (7) Whether the image of God is in man's power or in his habits and acts?
 (8) Whether the image of God is in man by comparison with every object?
 (9) Of the difference between "image" and "likeness."
-# Whether The Image Of God Is In Man?
+## Whether The Image Of God Is In Man?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the image of God is not in man. For it is written (Is. 40:18): "To whom have you likened God? or what image will you make for Him?"
 
@@ -20,7 +20,7 @@ Objection 2: Further, to be the image of God is the property of the First-Begott
 
 Objection 3: Further, Hilary says (De Synod [*Super i can. Synod. Ancyr.]) that "an image is of the same species as that which it represents"; and he also says that "an image is the undivided and united likeness of one thing adequately representing another." But there is no species common to both God and man; nor can there be a comparison of equality between God and man. Therefore there can be no image of God in man.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 1:26): "Let Us make man to Our own image and likeness."
 
@@ -28,16 +28,16 @@ I answer that, As Augustine says (QQ. 83, qu. 74): "Where an image exists, there
 
 But equality does not belong to the essence of an image; for as Augustine says (QQ. 83, qu. 74): "Where there is an image there is not necessarily equality," as we see in a person's image reflected in a glass. Yet this is of the essence of a perfect image; for in a perfect image nothing is wanting that is to be found in that of which it is a copy. Now it is manifest that in man there is some likeness to God, copied from God as from an exemplar; yet this likeness is not one of equality, for such an exemplar infinitely excels its copy. Therefore there is in man a likeness to God; not, indeed, a perfect likeness, but imperfect. And Scripture implies the same when it says that man was made "to" God's likeness; for the preposition "to" signifies a certain approach, as of something at a distance.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Prophet speaks of bodily images made by man. Therefore he says pointedly: "What image will you make for Him?" But God made a spiritual image to Himself in man.
 
 Reply to Objection 2: The First-Born of creatures is the perfect Image of God, reflecting perfectly that of which He is the Image, and so He is said to be the "Image," and never "to the image." But man is said to be both "image" by reason of the likeness; and "to the image" by reason of the imperfect likeness. And since the perfect likeness to God cannot be except in an identical nature, the Image of God exists in His first-born Son; as the image of the king is in his son, who is of the same nature as himself: whereas it exists in man as in an alien nature, as the image of the king is in a silver coin, as Augustine says explains in De decem Chordis (Serm. ix, al, xcvi, De Tempore).
 
 Reply to Objection 3: As unity means absence of division, a species is said to be the same as far as it is one. Now a thing is said to be one not only numerically, specifically, or generically, but also according to a certain analogy or proportion. In this sense a creature is one with God, or like to Him; but when Hilary says "of a thing which adequately represents another," this is to be understood of a perfect image.
-# Whether The Image Of God Is To Be Found In Irrational Creatures?
+## Whether The Image Of God Is To Be Found In Irrational Creatures?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the image of God is to be found in irrational creatures. For Dionysius says (Div. Nom. ii): "Effects are contingent images of their causes." But God is the cause not only of rational, but also of irrational creatures. Therefore the image of God is to be found in irrational creatures.
 
@@ -47,7 +47,7 @@ Objection 3: Further, the more perfect anything is in goodness, the more it is l
 
 Objection 4: Further, Boethius (De Consol. iii) says of God: "Holding the world in His mind, and forming it into His image." Therefore the whole world is to the image of God, and not only the rational creature.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Gen. ad lit. vi, 12): "Man's excellence consists in the fact that God made him to His own image by giving him an intellectual soul, which raises him above the beasts of the field." Therefore things without intellect are not made to God's image.
 
@@ -55,7 +55,7 @@ I answer that, Not every likeness, not even what is copied from something else, 
 
 Now it is manifest that specific likeness follows the ultimate difference. But some things are like to God first and most commonly because they exist; secondly, because they live; and thirdly because they know or understand; and these last, as Augustine says (QQ. 83, qu. 51) "approach so near to God in likeness, that among all creatures nothing comes nearer to Him." It is clear, therefore, that intellectual creatures alone, properly speaking, are made to God's image.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Everything imperfect is a participation of what is perfect. Therefore even what falls short of the nature of an image, so far as it possesses any sort of likeness to God, participates in some degree the nature of an image. So Dionysius says that effects are "contingent images of their causes"; that is, as much as they happen [contingit] to be so, but not absolutely.
 
@@ -64,9 +64,9 @@ Reply to Objection 2: Dionysius compares the solar ray to Divine goodness, as re
 Reply to Objection 3: The universe is more perfect in goodness than the intellectual creature as regards extension and diffusion; but intensively and collectively the likeness to the Divine goodness is found rather in the intellectual creature, which has a capacity for the highest good. Or else we may say that a part is not rightly divided against the whole, but only against another part. Wherefore, when we say that the intellectual nature alone is to the image of God, we do not mean that the universe in any part is not to God's image, but that the other parts are excluded.
 
 Reply to Objection 4: Boethius here uses the word "image" to express the likeness which the product of an art bears to the artistic species in the mind of the artist. Thus every creature is an image of the exemplar type thereof in the Divine mind. We are not, however, using the word "image" in this sense; but as it implies a likeness in nature, that is, inasmuch as all things, as being, are like to the First Being; as living, like to the First Life; and as intelligent, like to the Supreme Wisdom.
-# Whether The Angels Are More To The Image Of God Than Man Is?
+## Whether The Angels Are More To The Image Of God Than Man Is?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels are not more to the image of God than man is. For Augustine says in a sermon de Imagine xliii (de verbis Apost. xxvii) that God granted to no other creature besides man to be to His image. Therefore it is not true to say that the angels are more than man to the image of God.
 
@@ -74,22 +74,22 @@ Objection 2: Further, according to Augustine (QQ. 83, qu. 51), "man is so much t
 
 Objection 3: Further, a creature is said to be to God's image so far as it is of an intellectual nature. But the intellectual nature does not admit of intensity or remissness; for it is not an accidental thing, since it is a substance. Therefore the angels are not more to the image of God than man.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Hom. in Evang. xxxiv): "The angel is called a "seal of resemblance" [Ezech. 28:12] because in him the resemblance of the Divine image is wrought with greater expression."
 
 I answer that, We may speak of God's image in two ways. First, we may consider in it that in which the image chiefly consists, that is, the intellectual nature. Thus the image of God is more perfect in the angels than in man, because their intellectual nature is more perfect, as is clear from what has been said ([769]Q[58], A[3]; [770]Q[79], A[8]). Secondly, we may consider the image of God in man as regards its accidental qualities, so far as to observe in man a certain imitation of God, consisting in the fact that man proceeds from man, as God from God; and also in the fact that the whole human soul is in the whole body, as God from God; and also in the fact that the whole human soul is in the whole body, and again, in every part, as God is in regard to the whole world. In these and the like things the image of God is more perfect in man than it is in the angels. But these do not of themselves belong to the nature of the Divine image in man, unless we presuppose the first likeness, which is in the intellectual nature; otherwise even brute animals would be to God's image. Therefore, as in their intellectual nature, the angels are more to the image of God than man is, we must grant that, absolutely speaking, the angels are more to the image of God than man is, but that in some respects man is more like to God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine excludes the inferior creatures bereft of reason from the image of God; but not the angels.
 
 Reply to Objection 2: As fire is said to be specifically the most subtle of bodies, while, nevertheless, one kind of fire is more subtle than another; so we say that nothing is more like to God than the human soul in its generic and intellectual nature, because as Augustine had said previously, "things which have knowledge, are so near to Him in likeness that of all creatures none are nearer." Wherefore this does not mean that the angels are not more to God's image.
 
 Reply to Objection 3: When we say that substance does not admit of more or less, we do not mean that one species of substance is not more perfect than another; but that one and the same individual does not participate in its specific nature at one time more than at another; nor do we mean that a species of substance is shared among different individuals in a greater or lesser degree.
-# Whether The Image Of God Is Found In Every Man?
+## Whether The Image Of God Is Found In Every Man?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the image of God is not found in every man. For the Apostle says that "man is the image of God, but woman is the image [Vulg. glory] of man" (1 Cor. 11:7). Therefore, as woman is an individual of the human species, it is clear that every individual is not an image of God.
 
@@ -97,18 +97,18 @@ Objection 2: Further, the Apostle says (Rom. 8:29): "Whom God foreknew, He also 
 
 Objection 3: Further, likeness belongs to the nature of the image, as above explained [771](A[1]). But by sin man becomes unlike God. Therefore he loses the image of God.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 38:7): "Surely man passeth as an image."
 
 I answer that, Since man is said to be the image of God by reason of his intellectual nature, he is the most perfectly like God according to that in which he can best imitate God in his intellectual nature. Now the intellectual nature imitates God chiefly in this, that God understands and loves Himself. Wherefore we see that the image of God is in man in three ways. First, inasmuch as man possesses a natural aptitude for understanding and loving God; and this aptitude consists in the very nature of the mind, which is common to all men. Secondly, inasmuch as man actually and habitually knows and loves God, though imperfectly; and this image consists in the conformity of grace. Thirdly, inasmuch as man knows and loves God perfectly; and this image consists in the likeness of glory. Wherefore on the words, "The light of Thy countenance, O Lord, is signed upon us" (Ps. 4:7), the gloss distinguishes a threefold image of "creation," of "re-creation," and of "likeness." The first is found in all men, the second only in the just, the third only in the blessed.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The image of God, in its principal signification, namely the intellectual nature, is found both in man and in woman. Hence after the words, "To the image of God He created him," it is added, "Male and female He created them" (Gn. 1:27). Moreover it is said "them" in the plural, as Augustine (Gen. ad lit. iii, 22) remarks, lest it should be thought that both sexes were united in one individual. But in a secondary sense the image of God is found in man, and not in woman: for man is the beginning and end of woman; as God is the beginning and end of every creature. So when the Apostle had said that "man is the image and glory of God, but woman is the glory of man," he adds his reason for saying this: "For man is not of woman, but woman of man; and man was not created for woman, but woman for man."
-# Whether The Image Of God Is In Man According To The Trinity Of Persons?
+## Whether The Image Of God Is In Man According To The Trinity Of Persons?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the image of God does not exist in man as to the Trinity of Persons. For Augustine says (Fulgentius De Fide ad Petrum i): "One in essence is the Godhead of the Holy Trinity; and one is the image to which man was made." And Hilary (De Trin. v) says: "Man is made to the image of that which is common in the Trinity." Therefore the image of God in man is of the Divine Essence, and not of the Trinity of Persons.
 
@@ -118,7 +118,7 @@ Objection 3: Further, an image leads to the knowledge of that of which it is the
 
 Objection 4: Further, the name of Image is not applicable to any of the Three Persons, but only to the Son; for Augustine says (De Trin. vi, 2) that "the Son alone is the image of the Father." Therefore, if in man there were an image of God as regards the Person, this would not be an image of the Trinity, but only of the Son.
 
-## Answer
+### Answer
 
 On the contrary, Hilary says (De Trin. iv): "The plurality of the Divine Persons is proved from the fact that man is said to have been made to the image of God."
 
@@ -126,14 +126,14 @@ I answer that, as we have seen ([773]Q[40], A[2]), the distinction of the Divine
 
 Thus it is clear how to solve the first two objections.
 
-## Replies
+### Replies
 
 Reply to Objection 3: This argument would avail if the image of God in man represented God in a perfect manner. But, as Augustine says (De Trin. xv, 6), there is a great difference between the trinity within ourselves and the Divine Trinity. Therefore, as he there says: "We see, rather than believe, the trinity which is in ourselves; whereas we believe rather than see that God is Trinity."
 
 Reply to Objection 4: Some have said that in man there is an image of the Son only. Augustine rejects this opinion (De Trin. xii, 5,6). First, because as the Son is like to the Father by a likeness of essence, it would follow of necessity if man were made in likeness to the Son, that he is made to the likeness of the Father. Secondly, because if man were made only to the image of the Son, the Father would not have said, "Let Us make man to Our own image and likeness"; but "to Thy image." When, therefore, it is written, "He made him to the image of God," the sense is not that the Father made man to the image of the Son only, Who is God, as some explained it, but that the Divine Trinity made man to Its image, that is, of the whole Trinity. When it is said that God "made man to His image," this can be understood in two ways: first, so that this preposition "to" points to the term of the making, and then the sense is, "Let Us make man in such a way that Our image may be in him." Secondly, this preposition 'to' may point to the exemplar cause, as when we say, "This book is made (like) to that one." Thus the image of God is the very Essence of God, Which is incorrectly called an image forasmuch as image is put for the exemplar. Or, as some say, the Divine Essence is called an image because thereby one Person imitates another.
-# Whether The Image Of God Is In Man As Regards The Mind Only?
+## Whether The Image Of God Is In Man As Regards The Mind Only?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the image of God is not only in man's mind. For the Apostle says (1 Cor. 11:7) that "the man is the image . . . of God." But man is not only mind. Therefore the image of God is to be observed not only in his mind.
 
@@ -143,7 +143,7 @@ Objection 3: Further, an image seems to apply principally to the shape of a thin
 
 Objection 4: Further, according to Augustine (Gen. ad lit. xii, 7,24) there is a threefold vision in us, "corporeal," "spiritual," or imaginary, and "intellectual." Therefore, if in the intellectual vision that belongs to the mind there exists in us a trinity by reason of which we are made to the image of God, for the like reason there must be another trinity in the others.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Eph. 4:23,24): "Be renewed in the spirit of your mind, and put on the new man." Whence we are given to understand that our renewal which consists in putting on the new man, belongs to the mind. Now, he says (Col. 3:10): "Putting on the new" man; "him who is renewed unto knowledge" of God, "according to the image of Him that created him," where the renewal which consists in putting on the new man is ascribed to the image of God. Therefore to be to the image of God belongs to the mind only.
 
@@ -151,7 +151,7 @@ I answer that, While in all creatures there is some kind of likeness to God, in 
 
 Therefore we may observe this difference between rational creatures and others, both as to the representation of the likeness of the Divine Nature in creatures, and as to the representation in them of the uncreated Trinity. For as to the likeness of the Divine Nature, rational creatures seem to attain, after a fashion, to the representation of the species, inasmuch as they imitate God, not only in being and life, but also in intelligence, as above explained [775](A[2]); whereas other creatures do not understand, although we observe in them a certain trace of the Intellect that created them, if we consider their disposition. Likewise as the uncreated Trinity is distinguished by the procession of the Word from the Speaker, and of Love from both of these, as we have seen ([776]Q[28], A[3]); so we may say that in rational creatures wherein we find a procession of the word in the intellect, and a procession of the love in the will, there exists an image of the uncreated Trinity, by a certain representation of the species. In other creatures, however, we do not find the principle of the word, and the word and love; but we do see in them a certain trace of the existence of these in the Cause that produced them. For in the fact that a creature has a modified and finite nature, proves that it proceeds from a principle; while its species points to the (mental) word of the maker, just as the shape of a house points to the idea of the architect; and order points to the maker's love by reason of which he directs the effect to a good end; as also the use of the house points to the will of the architect. So we find in man a likeness to God by way of an "image" in his mind; but in the other parts of his being by way of a "trace."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Man is called to the image of God; not that he is essentially an image; but that the image of God is impressed on his mind; as a coin is an image of the king, as having the image of the king. Wherefore there is no need to consider the image of God as existing in every part of man.
 
@@ -160,9 +160,9 @@ Reply to Objection 2: As Augustine says (De Trin. xii, 5), some have thought tha
 Reply to Objection 3: Although the image of God in man is not to be found in his bodily shape, yet because "the body of man alone among terrestrial animals is not inclined prone to the ground, but is adapted to look upward to heaven, for this reason we may rightly say that it is made to God's image and likeness, rather than the bodies of other animals," as Augustine remarks (QQ. 83, qu. 51). But this is not to be understood as though the image of God were in man's body; but in the sense that the very shape of the human body represents the image of God in the soul by way of a trace.
 
 Reply to Objection 4: Both in the corporeal and in the imaginary vision we may find a trinity, as Augustine says (De Trin. xi, 2). For in corporeal vision there is first the species of the exterior body; secondly, the act of vision, which occurs by the impression on the sight of a certain likeness of the said species; thirdly, the intention of the will applying the sight to see, and to rest on what is seen.
-# Whether The Image Of God Is To Be Found In The Acts Of The Soul?
+## Whether The Image Of God Is To Be Found In The Acts Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the image of God is not found in the acts of the soul. For Augustine says (De Civ. Dei xi, 26), that "man was made to God's image, inasmuch as we exist and know that we exist, and love this existence and knowledge." But to exist does not signify an act. Therefore the image of God is not to be found in the soul's acts.
 
@@ -172,13 +172,13 @@ Objection 3: Further, Augustine (De Trin. x, 11) assigns the image of the Trinit
 
 Objection 4: Further, the image of the Trinity always remains in the soul. But an act does not always remain. Therefore the image of God does not extend to the acts.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (De Trin. xi, 2 seqq.) assigns the trinity in the lower part of the soul, in relation to the actual vision, whether sensible or imaginative. Therefore, also, the trinity in the mind, by reason of which man is like to God's image, must be referred to actual vision.
 
 I answer that, As above explained [777](A[2]), a certain representation of the species belongs to the nature of an image. Hence, if the image of the Divine Trinity is to be found in the soul, we must look for it where the soul approaches the nearest to a representation of the species of the Divine Persons. Now the Divine Persons are distinct from each other by reason of the procession of the Word from the Speaker, and the procession of Love connecting Both. But in our soul word "cannot exist without actual thought," as Augustine says (De Trin. xiv, 7). Therefore, first and chiefly, the image of the Trinity is to be found in the acts of the soul, that is, inasmuch as from the knowledge which we possess, by actual thought we form an internal word; and thence break forth into love. But, since the principles of acts are the habits and powers, and everything exists virtually in its principle, therefore, secondarily and consequently, the image of the Trinity may be considered as existing in the powers, and still more in the habits, forasmuch as the acts virtually exist therein.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Our being bears the image of God so far as if is proper to us, and excels that of the other animals, that is to say, in so far as we are endowed with a mind. Therefore, this trinity is the same as that which Augustine mentions (De Trin. ix, 4), and which consists in mind, knowledge, and love.
 
@@ -187,9 +187,9 @@ Reply to Objection 2: Augustine observed this trinity, first, as existing in the
 Reply to Objection 3: As Augustine proves (De Trin. xiv, 7), we may be said to understand, will, and to love certain things, both when we actually consider them, and when we do not think of them. When they are not under our actual consideration, they are objects of our memory only, which, in his opinion, is nothing else than habitual retention of knowledge and love [*Cf. [778]Q[79], A[7], ad 1]. "But since," as he says, "a word cannot be there without actual thought (for we think everything that we say, even if we speak with that interior word belonging to no nation's tongue), this image chiefly consists in these three things, memory, understanding, and will. And by understanding I mean here that whereby we understand with actual thought; and by will, love, or dilection I mean that which unites this child with its parent." From which it is clear that he places the image of the Divine Trinity more in actual understanding and will, than in these as existing in the habitual retention of the memory; although even thus the image of the Trinity exists in the soul in a certain degree, as he says in the same place. Thus it is clear that memory, understanding, and will are not three powers as stated in the Sentences.
 
 Reply to Objection 4: Someone might answer by referring to Augustine's statement (De Trin. xiv, 6), that "the mind ever remembers itself, ever understands itself, ever loves itself"; which some take to mean that the soul ever actually understands, and loves itself. But he excludes this interpretation by adding that "it does not always think of itself as actually distinct from other things." Thus it is clear that the soul always understands and loves itself, not actually but habitually; though we might say that by perceiving its own act, it understands itself whenever it understands anything. But since it is not always actually understanding, as in the case of sleep, we must say that these acts, although not always actually existing, yet ever exist in their principles, the habits and powers. Wherefore, Augustine says (De Trin. xiv, 4): "If the rational soul is made to the image of God in the sense that it can make use of reason and intellect to understand and consider God, then the image of God was in the soul from the beginning of its existence."
-# Whether The Image Of The Divine Trinity Is In The Soul Only By Comparison With God As Its Object?
+## Whether The Image Of The Divine Trinity Is In The Soul Only By Comparison With God As Its Object?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the image of the Divine Trinity is in the soul not only by comparison with God as its object. For the image of the Divine Trinity is to be found in the soul, as shown above [779](A[7]), according as the word in us proceeds from the speaker; and love from both. But this is to be found in us as regards any object. Therefore the image of the Divine Trinity is in our mind as regards any object.
 
@@ -199,13 +199,13 @@ Objection 3: Further, it is by grace that we can know and love God. If, therefor
 
 Objection 4: Further, the saints in heaven are most perfectly conformed to the image of God by the beatific vision; wherefore it is written (2 Cor. 3:18): "We . . . are transformed into the same image from glory to glory." But temporal things are known by the beatific vision. Therefore the image of God exists in us even according to temporal things.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. xiv, 12): "The image of God exists in the mind, not because it has a remembrance of itself, loves itself, and understands itself; but because it can also remember, understand, and love God by Whom it was made." Much less, therefore, is the image of God in the soul, in respect of other objects.
 
 I answer that, As above explained ([780]AA[2],7), image means a likeness which in some degree, however small, attains to a representation of the species. Wherefore we need to seek in the image of the Divine Trinity in the soul some kind of representation of species of the Divine Persons, so far as this is possible to a creature. Now the Divine Persons, as above stated ([781]AA[6],7), are distinguished from each other according to the procession of the word from the speaker, and the procession of love from both. Moreover the Word of God is born of God by the knowledge of Himself; and Love proceeds from God according as He loves Himself. But it is clear that diversity of objects diversifies the species of word and love; for in the human mind the species of a stone is specifically different from that of a horse, which also the love regarding each of them is specifically different. Hence we refer the Divine image in man to the verbal concept born of the knowledge of God, and to the love derived therefrom. Thus the image of God is found in the soul according as the soul turns to God, or possesses a nature that enables it to turn to God. Now the mind may turn towards an object in two ways: directly and immediately, or indirectly and mediately; as, for instance, when anyone sees a man reflected in a looking-glass he may be said to be turned towards that man. So Augustine says (De Trin. xiv, 8), the "the mind remembers itself, understands itself, and loves itself. If we perceive this, we perceive a trinity, not, indeed, God, but, nevertheless, rightly called the image of God." But this is due to the fact, not that the mind reflects on itself absolutely, but that thereby it can furthermore turn to God, as appears from the authority quoted above (Arg. On the contrary).
 
-## Replies
+### Replies
 
 Reply to Objection 1: For the notion of an image it is not enough that something proceed from another, but it is also necessary to observe what proceeds and whence it proceeds; namely, that what is Word of God proceeds from knowledge of God.
 
@@ -214,9 +214,9 @@ Reply to Objection 2: In all the soul we may see a kind of trinity, not, however
 Reply to Objection 3: The meritorious knowledge and love of God can be in us only by grace. Yet there is a certain natural knowledge and love as seen above ([782]Q[12], A[12]; [783]Q[56], A[3]; [784]Q[60], A[5]). This, too, is natural that the mind, in order to understand God, can make use of reason, in which sense we have already said that the image of God abides ever in the soul; "whether this image of God be so obsolete," as it were clouded, "as almost to amount to nothing," as in those who have not the use of reason; "or obscured and disfigured," as in sinners; or "clear and beautiful," as in the just; as Augustine says (De Trin. xiv, 6).
 
 Reply to Objection 4: By the vision of glory temporal things will be seen in God Himself; and such a vision of things temporal will belong to the image of God. This is what Augustine means (De Trin. xiv, 6), when he says that "in that nature to which the mind will blissfully adhere, whatever it sees it will see as unchangeable"; for in the Uncreated Word are the types of all creatures.
-# Whether "Likeness" Is Properly Distinguished From "Image"?
+## Whether "Likeness" Is Properly Distinguished From "Image"?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that "likeness" is not properly distinguished from "image." For "genus" is not properly distinguished from "species." Now, "likeness" is to "image" as genus to species: because, "where there is image, forthwith there is likeness, but not conversely" as Augustine says (QQ. 83, qu. 74). Therefore "likeness" is not properly to be distinguished from "image."
 
@@ -226,13 +226,13 @@ Objection 3: Further, the image of God in man is threefold---the image of nature
 
 Objection 4: Further, knowledge of truth belongs to the intellect, and love of virtue to the will; which two things are parts of the image. Therefore it is incorrect to say (Sent. ii, D, xvi) that "the image consists in the knowledge of truth, and the likeness in the love of virtue."
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (QQ. 83, qu. 51): "Some consider that these two were mentioned not without reason, namely "image" and "likeness," since, if they meant the same, one would have sufficed."
 
 I answer that, Likeness is a kind of unity, for oneness in quality causes likeness, as the Philosopher says (Metaph. v, Did. iv, 15). Now, since "one" is a transcendental, it is both common to all, and adapted to each single thing, just as the good and the true. Wherefore, as the good can be compared to each individual thing both as its preamble, and as subsequent to it, as signifying some perfection in it, so also in the same way there exists a kind of comparison between "likeness" and "image." For the good is a preamble to man, inasmuch as man is an individual good; and, again, the good is subsequent to man, inasmuch as we may say of a certain man that he is good, by reason of his perfect virtue. In like manner, likeness may be considered in the light of a preamble to image, inasmuch as it is something more general than image, as we have said above [786](A[1]): and, again, it may be considered as subsequent to image, inasmuch as it signifies a certain perfection of image. For we say that an image is like or unlike what it represents, according as the representation is perfect or imperfect. Thus likeness may be distinguished from image in two ways: first as its preamble and existing in more things, and in this sense likeness regards things which are more common than the intellectual properties, wherein the image is properly to be seen. In this sense it is stated (QQ. 83, qu. 51) that "the spirit" (namely, the mind) without doubt was made to the image of God. "But the other parts of man," belonging to the soul's inferior faculties, or even to the body, "are in the opinion of some made to God's likeness." In this sense he says (De Quant. Animae ii) that the likeness of God is found in the soul's incorruptibility; for corruptible and incorruptible are differences of universal beings. But likeness may be considered in another way, as signifying the expression and perfection of the image. In this sense Damascene says (De Fide Orth. ii, 12) that the image implies "an intelligent being, endowed with free-will and self-movement, whereas likeness implies a likeness of power, as far as this may be possible in man." In the same sense "likeness" is said to belong to "the love of virtue": for there is no virtue without love of virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: "Likeness" is not distinct from "image" in the general notion of "likeness" (for thus it is included in "image"); but so far as any "likeness" falls short of "image," or again, as it perfects the idea of "image."
 

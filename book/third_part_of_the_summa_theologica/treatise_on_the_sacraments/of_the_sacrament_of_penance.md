@@ -11,9 +11,9 @@ We must now consider the Sacrament of Penance. We shall consider (1) Penance its
 (8) Of its duration;
 (9) Of its continuance;
 (10) Whether it can be repeated?
-# Whether Penance Is A Sacrament?
+## Whether Penance Is A Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Penance is not a sacrament. For Gregory [*Cf. Isidore, Etym. vi, ch. 19] says: "The sacraments are Baptism, Chrism, and the Body and Blood of Christ; which are called sacraments because under the veil of corporeal things the Divine power works out salvation in a hidden manner." But this does not happen in Penance, because therein corporeal things are not employed that, under them, the power of God may work our salvation. Therefore Penance is not a sacrament.
 
@@ -21,22 +21,22 @@ Objection 2: Further, the sacraments of the Church are shown forth by the minist
 
 Objection 3: Further, in the sacraments of which we have already spoken above, there is something that is sacrament only, something that is both reality and sacrament, and something that is reality only, as is clear from what has been stated ([4714]Q[66], A[1]). But this does not apply to Penance. Therefore Penance is not a sacrament.
 
-## Answer
+### Answer
 
 On the contrary, As Baptism is conferred that we may be cleansed from sin, so also is Penance: wherefore Peter said to Simon Magus (Acts 8:22): "Do penance . . . from this thy wickedness." But Baptism is a sacrament as stated above ([4715]Q[66], A[1]). Therefore for the same reason Penance is also a sacrament.
 
 I answer that, As Gregory says [*Isidore, Etym. vi, ch. 19], "a sacrament consists in a solemn act, whereby something is so done that we understand it to signify the holiness which it confers." Now it is evident that in Penance something is done so that something holy is signified both on the part of the penitent sinner, and on the part of the priest absolving, because the penitent sinner, by deed and word, shows his heart to have renounced sin, and in like manner the priest, by his deed and word with regard to the penitent, signifies the work of God Who forgives his sins. Therefore it is evident that Penance, as practiced in the Church, is a sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By corporeal things taken in a wide sense we may understand also external sensible actions, which are to this sacrament what water is to Baptism, or chrism to Confirmation. But it is to be observed that in those sacraments, whereby an exceptional grace surpassing altogether the proportion of a human act, is conferred, some corporeal matter is employed externally, e.g. in Baptism, which confers full remission of all sins, both as to guilt and as to punishment, and in Confirmation, wherein the fulness of the Holy Ghost is bestowed, and in Extreme Unction, which confers perfect spiritual health derived from the virtue of Christ as from an extrinsic principle. Wherefore, such human acts as are in these sacraments, are not the essential matter of the sacrament, but are dispositions thereto. On the other hand, in those sacraments whose effect corresponds to that of some human act, the sensible human act itself takes the place of matter, as in the case of Penance and Matrimony, even as in bodily medicines, some are applied externally, such as plasters and drugs, while others are acts of the person who seeks to be cured, such as certain exercises.
 
 Reply to Objection 2: In those sacraments which have a corporeal matter, this matter needs to be applied by a minister of the Church, who stands in the place of Christ, which denotes that the excellence of the power which operates in the sacraments is from Christ. But in the sacrament of Penance, as stated above (ad 1), human actions take the place of matter, and these actions proceed from internal inspiration, wherefore the matter is not applied by the minister, but by God working inwardly; while the minister furnishes the complement of the sacrament, when he absolves the penitent.
 
 Reply to Objection 3: In Penance also, there is something which is sacrament only, viz. the acts performed outwardly both by the repentant sinner, and by the priest in giving absolution; that which is reality and sacrament is the sinner's inward repentance; while that which is reality, and not sacrament, is the forgiveness of sin. The first of these taken altogether is the cause of the second; and the first and second together are the cause of the third.
-# Whether Sins Are The Proper Matter Of This Sacrament?
+## Whether Sins Are The Proper Matter Of This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sins are not the proper matter of this sacrament. Because, in the other sacraments, the matter is hallowed by the utterance of certain words, and being thus hallowed produces the sacramental effect. Now sins cannot be hallowed, for they are opposed to the effect of the sacrament, viz. grace which blots out sin. Therefore sins are not the proper matter of this sacrament.
 
@@ -44,22 +44,22 @@ Objection 2: Further, Augustine says in his book De Poenitentia [Cf. Serm. cccli
 
 Objection 3: Further, sin is either original, mortal or venial. Now the sacrament of Penance is not ordained against original sin, for this is taken away by Baptism, [nor against mortal sin, for this is taken away by the sinner's confession]*, nor against venial sin, which is taken away by the beating of the breast and the sprinkling of holy water and the like. Therefore sins are not the proper matter of Penance. [*The words in brackets are omitted in the Leonine edition].
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (2 Cor. 12:21): "(Who) have not done penance for the uncleanness and fornication and lasciviousness, that they have committed."
 
 I answer that, Matter is twofold, viz. proximate and remote: thus the proximate matter of a statue is a metal, while the remote matter is water. Now it has been stated (A[1], ad 1, ad 2), that the proximate matter of this sacrament consists in the acts of the penitent, the matter of which acts are the sins over which he grieves, which he confesses, and for which he satisfies. Hence it follows that sins are the remote matter of Penance, as a matter, not for approval, but for detestation, and destruction.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument considers the proximate matter of a sacrament.
 
 Reply to Objection 2: The old life that was subject to death is the object of Penance, not as regards the punishment, but as regards the guilt connected with it.
 
 Reply to Objection 3: Penance regards every kind of sin in a way, but not each in the same way. Because Penance regards actual mortal sin properly and chiefly; properly, since, properly speaking, we are said to repent of what we have done of our own will; chiefly, since this sacrament was instituted chiefly for the blotting out of mortal sin. Penance regards venial sins, properly speaking indeed, in so far as they are committed of our own will, but this was not the chief purpose of its institution. But as to original sin, Penance regards it neither chiefly, since Baptism, and not Penance, is ordained against original sin, nor properly, because original sin is not done of our own will, except in so far as Adam's will is looked upon as ours, in which sense the Apostle says (Rom. 5:12): "In whom all have sinned." Nevertheless, Penance may be said to regard original sin, if we take it in a wide sense for any detestation of something past: in which sense Augustine uses the term in his book De Poenitentia (Serm. cccli).
-# Whether The Form Of This Sacrament Is: "I Absolve Thee"?
+## Whether The Form Of This Sacrament Is: "I Absolve Thee"?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the form of this sacrament is not: "I absolve thee." Because the forms of the sacraments are received from Christ's institution and the Church's custom. But we do not read that Christ instituted this form. Nor is it in common use; in fact in certain absolutions which are given publicly in church (e.g. at Prime and Compline and on Maundy Thursday), absolution is given not in the indicative form by saying: "I absolve thee," but In the deprecatory form, by saying: "May Almighty God have mercy on you," or: "May Almighty God grant you absolution and forgiveness." Therefore the form of this sacrament is not: "I absolve thee."
 
@@ -71,7 +71,7 @@ Objection 4: Further, just as our Lord gave His disciples the power to absolve f
 
 Objection 5: Further, some explain this form by stating that when they say: "I absolve thee," they mean "I declare you to be absolved." But neither can this be done by a priest unless it be revealed to him by God, wherefore, as we read in Mat. 16:19 before it was said to Peter: "Whatsoever thou shalt bind upon earth," etc., it was said to him (Mat. 16:17): "Blessed art thou Simon Bar-Jona: because flesh and blood have not revealed it to thee, but My Father Who is in heaven." Therefore it seems presumptuous for a priest, who has received no revelation on the matter, to say: "I absolve thee," even if this be explained to mean: "I declare thee absolved."
 
-## Answer
+### Answer
 
 On the contrary, As our Lord said to His disciples (Mat. 28:19): "Going . . . teach ye all nations, baptizing them," etc., so did He say to Peter (Mat. 16:19): "Whatsoever thou shalt loose on earth," etc. Now the priest, relying on the authority of those words of Christ, says: "I baptize thee." Therefore on the same authority he should say in this sacrament: "I absolve thee."
 
@@ -81,7 +81,7 @@ Now since the sacraments of the New Law accomplish what they signify, as stated 
 
 Now this sacrament, namely the sacrament of Penance, consists not in the consecration of a matter, nor in the use of a hallowed matter, but rather in the removal of a certain matter, viz. sin, in so far as sins are said to be the matter of Penance, as explained above [4717](A[2]). This removal is expressed by the priest saying: "I absolve thee": because sins are fetters, according to Prov. 5:22. "His own iniquities catch the wicked, and he is fast bound with the ropes of his own sins." Wherefore it is evident that this is the most fitting form of this sacrament: "I absolve thee."
 
-## Replies
+### Replies
 
 Reply to Objection 1: This form is taken from Christ's very words which He addressed to Peter (Mat. 16:19): "Whatsoever thou shalt loose on earth," etc., and such is the form employed by the Church in sacramental absolution. But such absolutions as are given in public are not sacramental, but are prayers for the remission of venial sins. Wherefore in giving sacramental absolution it would not suffice to say: "May Almighty God have mercy on thee," or: "May God grant thee absolution and forgiveness," because by such words the priest does not signify the giving of absolution, but prays that it may be given. Nevertheless the above prayer is said before the sacramental absolution is given, lest the sacramental effect be hindered on the part of the penitent, whose acts are as matter in this sacrament, but not in Baptism or Confirmation.
 
@@ -92,9 +92,9 @@ Reply to Objection 3: God alone absolves from sin and forgives sins authoritativ
 Reply to Objection 4: Power was given to the apostles, not that they themselves might heal the sick, but that the sick might be healed at the prayer of the apostles: whereas power was given to them to work instrumentally or ministerially in the sacraments; wherefore they could express their own agency in the sacramental forms rather than in the healing of infirmities. Nevertheless in the latter case they did not always use the deprecatory form, but sometimes employed the indicative or imperative: thus we read (Acts 3:6) that Peter said to the lame man: "What I have, I give thee: In the name of Jesus Christ of Nazareth, arise and walk."
 
 Reply to Objection 5: It is true in a sense that the words, "I absolve thee" mean "I declare thee absolved," but this explanation is incomplete. Because the sacraments of the New Law not only signify, but effect what they signify. Wherefore, just as the priest in baptizing anyone, declares by deed and word that the person is washed inwardly, and this not only significatively but also effectively, so also when he says: "I absolve thee," he declares the man to be absolved not only significatively but also effectively. And yet he does not speak as of something uncertain, because just as the other sacraments of the New Law have, of themselves, a sure effect through the power of Christ's Passion, which effect, nevertheless, may be impeded on the part of the recipient, so is it with this sacrament. Hence Augustine says (De Adult. Conjug. ii): "There is nothing disgraceful or onerous in the reconciliation of husband and wife, when adultery committed has been washed away, since there is no doubt that remission of sins is granted through the keys of the kingdom of heaven." Consequently there is no need for a special revelation to be made to the priest, but the general revelation of faith suffices, through which sins are forgiven. Hence the revelation of faith is said to have been made to Peter.
-# Whether The Imposition Of The Priest's Hands Is Necessary For This Sacrament?
+## Whether The Imposition Of The Priest's Hands Is Necessary For This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the imposition of the priest's hands is necessary for this sacrament. For it is written (Mk. 16:18): "They shall lay hands upon the sick, and they shall recover." Now sinners are sick spiritually, and obtain recovery through this sacrament. Therefore an imposition of hands should be made in this sacrament.
 
@@ -102,7 +102,7 @@ Objection 2: Further, in this sacrament man regains the Holy Ghost Whom he had l
 
 Objection 3: Further, the priest's words are not more efficacious in this than in the other sacraments. But in the other sacraments the words of the minister do not suffice, unless he perform some action: thus, in Baptism, the priest while saying: "I baptize thee," has to perform a bodily washing. Therefore, also while saying: "I absolve thee," the priest should perform some action in regard to the penitent, by laying hands on him.
 
-## Answer
+### Answer
 
 On the contrary, When our Lord said to Peter (Mat. 16:19): "Whatsoever thou shalt loose on earth," etc., He made no mention of an imposition of hands; nor did He when He said to all the apostles (Jn. 20:13): "Whose sins you shall forgive, they are forgiven them." Therefore no imposition of hands is required for this sacrament.
 
@@ -110,16 +110,16 @@ I answer that, In the sacraments of the Church the imposition of hands is made, 
 
 Now the sacrament of Penance is ordained, not that man may receive some abundance of grace, but that his sins may be taken away; and therefore no imposition of hands is required for this sacrament, as neither is there for Baptism, wherein nevertheless a fuller remission of sins is bestowed.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That imposition of hands is not sacramental, but is intended for the working of miracles, namely, that by the contact of a sanctified man's hand, even bodily infirmity might be removed; even as we read of our Lord (Mk. 6:5) that He cured the sick, "laying His hands upon them," and (Mat. 8:3) that He cleansed a leper by touching him.
 
 Reply to Objection 2: It is not every reception of the Holy Ghost that requires an imposition of hands, since even in Baptism man receives the Holy Ghost, without any imposition of hands: it is at the reception of the fulness of the Holy Ghost which belongs to Confirmation that an imposition of hands is required.
 
 Reply to Objection 3: In those sacraments which are perfected in the use of the matter, the minister has to perform some bodily action on the recipient of the sacrament, e.g. in Baptism, Confirmation, and Extreme Unction; whereas this sacrament does not consist in the use of matter employed outwardly, the matter being supplied by the part taken by the penitent: wherefore, just as in the Eucharist the priest perfects the sacrament by merely pronouncing the words over the matter, so the mere words which the priest while absolving pronounces over the penitent perfect the sacrament of absolution. If, indeed, any bodily act were necessary on the part of the priest, the sign of the cross, which is employed in the Eucharist, would not be less becoming than the imposition of hands, in token that sins are forgiven through the blood of Christ crucified; and yet this is not essential to this sacrament as neither is it to the Eucharist.
-# Whether This Sacrament Is Necessary For Salvation?
+## Whether This Sacrament Is Necessary For Salvation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this sacrament is not necessary for salvation. Because on Ps. 125:5, "They that sow in tears," etc., the gloss says: "Be not sorrowful, if thou hast a good will, of which peace is the meed." But sorrow is essential to Penance, according to 2 Cor. 7:10: "The sorrow that is according to God worketh penance steadfast unto salvation." Therefore a good will without Penance suffices for salvation.
 
@@ -127,22 +127,22 @@ Objection 2: Further, it is written (Prov. 10:12): "Charity covereth all sins," 
 
 Objection 3: Further, the sacraments of the Church take their origin from the institution of Christ. But according to Jn. 8 Christ absolved the adulterous woman without Penance. Therefore it seems that Penance is not necessary for salvation.
 
-## Answer
+### Answer
 
 On the contrary, our Lord said (Lk. 13:3): "Unless you shall do penance, you shall all likewise perish."
 
 I answer that, A thing is necessary for salvation in two ways: first, absolutely; secondly, on a supposition. A thing is absolutely necessary for salvation, if no one can obtain salvation without it, as, for example, the grace of Christ, and the sacrament of Baptism, whereby a man is born again in Christ. The sacrament of Penance is necessary on a supposition, for it is necessary, not for all, but for those who are in sin. For it is written (2 Paral 37 [*The prayer of Manasses, among the Apocrypha]), "Thou, Lord, God of the righteous, hast not appointed repentance to the righteous, to Abraham, Isaac and Jacob, nor to those who sinned not against Thee." But "sin, when it is completed, begetteth death" (James 1:15). Consequently it is necessary for the sinner's salvation that sin be taken away from him; which cannot be done without the sacrament of Penance, wherein the power of Christ's Passion operates through the priest's absolution and the acts of the penitent, who co-operates with grace unto the destruction of his sin. For as Augustine says (Tract. lxxii in Joan. [*Implicitly in the passage referred to, but explicitly Serm. xv de verb Apost.]), "He Who created thee without thee, will not justify thee without thee." Therefore it is evident that after sin the sacrament of Penance is necessary for salvation, even as bodily medicine after man has contracted a dangerous disease.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This gloss should apparently be understood as referring to the man who has a good will unimpaired by sin, for such a man has no cause for sorrow: but as soon as the good will is forfeited through sin, it cannot be restored without that sorrow whereby a man sorrows for his past sin, and which belongs to Penance.
 
 Reply to Objection 2: As soon as a man falls into sin, charity, faith, and mercy do not deliver him from sin, without Penance. Because charity demands that a man should grieve for the offense committed against his friend, and that he should be anxious to make satisfaction to his friend; faith requires that he should seek to be justified from his sins through the power of Christ's Passion which operates in the sacraments of the Church; and well-ordered pity necessitates that man should succor himself by repenting of the pitiful condition into which sin has brought him, according to Prov. 14:34: "Sin maketh nations miserable"; wherefore it is written (Ecclus. 30:24): "Have pity on thy own soul, pleasing God."
 
 Reply to Objection 3: It was due to His power of "excellence," which He alone had, as stated above ([4720]Q[64], A[3]), that Christ bestowed on the adulterous woman the effect of the sacrament of Penance, viz. the forgiveness of sins, without the sacrament of Penance, although not without internal repentance, which He operated in her by grace.
-# Whether Penance Is A Second Plank After Shipwreck?
+## Whether Penance Is A Second Plank After Shipwreck?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Penance is not a second plank after shipwreck. Because on Is. 3:9, "They have proclaimed abroad their sin as Sodom," a gloss says: "The second plank after shipwreck is to hide one's sins." Now Penance does not hide sins, but reveals them. Therefore Penance is not a second plank.
 
@@ -150,7 +150,7 @@ Objection 2: Further, in a building the foundation takes the first, not the seco
 
 Objection 3: Further, all the sacraments are planks, i.e. helps against sin. Now Penance holds, not the second but the fourth, place among the sacraments, as is clear from what has been said above ([4721]Q[65], AA[1],2). Therefore Penance should not be called a second plank after shipwreck.
 
-## Answer
+### Answer
 
 On the contrary, Jerome says (Ep. cxxx) that "Penance is a second plank after shipwreck."
 
@@ -158,16 +158,16 @@ I answer that, That which is of itself precedes naturally that which is accident
 
 Consequently Penance holds the second place with regard to the state of integrity which is bestowed and safeguarded by the aforesaid sacraments, so that it is called metaphorically "a second plank after shipwreck." For just as the first help for those who cross the sea is to be safeguarded in a whole ship, while the second help when the ship is wrecked, is to cling to a plank; so too the first help in this life's ocean is that man safeguard his integrity, while the second help is, if he lose his integrity through sin, that he regain it by means of Penance.
 
-## Replies
+### Replies
 
 Reply to Objection 1: To hide one's sins may happen in two ways: first, in the very act of sinning. Now it is worse to sin in public than in private, both because a public sinner seems to sin more from contempt, and because by sinning he gives scandal to others. Consequently in sin it is a kind of remedy to sin secretly, and it is in this sense that the gloss says that "to hide one's sins is a second plank after shipwreck"; not that it takes away sin, as Penance does, but because it makes the sin less grievous. Secondly, one hides one's sin previously committed, by neglecting to confess it: this is opposed to Penance, and to hide one's sins thus is not a second plank, but is the reverse, since it is written (Prov. 28:13): "He that hideth his sins shall not prosper."
 
 Reply to Objection 2: Penance cannot be called the foundation of the spiritual edifice simply, i.e. in the first building thereof; but it is the foundation in the second building which is accomplished by destroying sin, because man, on his return to God, needs Penance first. However, the Apostle is speaking there of the foundation of spiritual doctrine. Moreover, the penance which precedes Baptism is not the sacrament of Penance.
 
 Reply to Objection 3: The three sacraments which precede Penance refer to the ship in its integrity, i.e. to man's state of integrity, with regard to which Penance is called a second plank.
-# Whether This Sacrament Was Suitably Instituted In The New Law?
+## Whether This Sacrament Was Suitably Instituted In The New Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this sacrament was unsuitably instituted in the New Law. Because those things which belong to the natural law need not to be instituted. Now it belongs to the natural law that one should repent of the evil one has done: for it is impossible to love good without grieving for its contrary. Therefore Penance was unsuitably instituted in the New Law.
 
@@ -177,7 +177,7 @@ Objection 3: Further, Penance comes after Baptism, since it is a second plank, a
 
 Objection 4: Further, the sacraments of the New Law were instituted by Christ, by Whose power they work, as stated above ([4723]Q[62], A[5];[4724] Q[64], A[1]). But Christ does not seem to have instituted this sacrament, since He made no use of it, as of the other sacraments which He instituted. Therefore this sacrament was unsuitably instituted in the New Law.
 
-## Answer
+### Answer
 
 On the contrary, our Lord said (Lk. 24:46,47): "It behooved Christ to suffer, and to rise again from the dead the third day: and that penance and remission of sins should be preached in His name unto all nations."
 
@@ -187,7 +187,7 @@ Accordingly the matter of this sacrament pre-exists, being provided by nature; s
 
 It is therefore evident that this sacrament was suitably instituted in the New Law.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is a natural law that one should repent of the evil one has done, by grieving for having done it, and by seeking a remedy for one's grief in some way or other, and also that one should show some signs of grief, even as the Ninevites did, as we read in Jn. 3. And yet even in their case there was also something of faith which they had received through Jonas' preaching, inasmuch as they did these things in the hope that they would receive pardon from God, according as we read (Jn. 3:9): "Who can tell if God will turn and forgive, and will turn away from His fierce anger, and we shall not perish?" But just as other matters which are of the natural law were fixed in detail by the institution of the Divine law, as we have stated in the [4725]FS, Q[91], A[4]; [4726]FS, Q[95], A[2]; FS, Q[99], so was it with Penance.
 
@@ -196,9 +196,9 @@ Reply to Objection 2: Things which are of the natural law were determined in var
 Reply to Objection 3: If we note carefully what our Lord said about the necessity of Baptism (Jn. 3:3, seqq.), we shall see that this was said before His words about the necessity of Penance (Mat. 4:17); because He spoke to Nicodemus about Baptism before the imprisonment of John, of whom it is related afterwards (Jn. 3:23, 24) that he baptized, whereas His words about Penance were said after John was cast into prison.
 
 Reply to Objection 4: Christ did not use the Baptism which He instituted, but was baptized with the baptism of John, as stated above ([4727]Q[39], AA[1],2). Nor did He use it actively by administering it Himself, because He "did not baptize" as a rule, "but His disciples" did, as related in Jn. 4:2, although it is to be believed that He baptized His disciples, as Augustine asserts (Ep. cclxv, ad Seleuc.). But with regard to His institution of this sacrament it was nowise fitting that He should use it, neither by repenting Himself, in Whom there was no sin, nor by administering the sacrament to others, since, in order to show His mercy and power, He was wont to confer the effect of this sacrament without the sacrament itself, as stated above (A[5], ad 3). On the other hand, He both received and gave to others the sacrament of the Eucharist, both in order to commend the excellence of that sacrament, and because that sacrament is a memorial of His Passion, in which Christ is both priest and victim.
-# Whether Penance Should Last Till The End Of Life?
+## Whether Penance Should Last Till The End Of Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Penance should not last till the end of life. Because Penance is ordained for the blotting out of sin. Now the penitent receives forgiveness of his sins at once, according to Ezech. 18:21: "If the wicked do penance for all his sins which he hath committed . . . he shall live and shall not die." Therefore there is no need for Penance to be further prolonged.
 
@@ -206,7 +206,7 @@ Objection 2: Further, Penance belongs to the state of beginners. But man ought t
 
 Objection 3: Further, man is bound to observe the laws of the Church in this as in the other sacraments. But the duration of repentance is fixed by the canons, so that, to wit, for such and such a sin one is bound to do penance for so many years. Therefore it seems that Penance should not be prolonged till the end of life.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says in his book, De Poenitentia [*De vera et falsa Poenitentia, the authorship of which is unknown]: "What remains for us to do, save to sorrow ever in this life? For when sorrow ceases, repentance fails; and if repentance fails, what becomes of pardon?"
 
@@ -214,16 +214,16 @@ I answer that, Penance is twofold, internal and external. Internal penance is th
 
 External penance is that whereby a man shows external signs of sorrow, confesses his sins verbally to the priest who absolves him, and makes satisfaction for his sins according to the judgment of the priest. Such penance need not last until the end of life, but only for a fixed time according to the measure of the sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: True penance not only removes past sins, but also preserves man from future sins. Consequently, although a man receives forgiveness of past sins in the first instant of his true penance, nevertheless he must persevere in his penance, lest he fall again into sin.
 
 Reply to Objection 2: To do penance both internal and external belongs to the state of beginners, of those, to wit, who are making a fresh start from the state of sin. But there is room for internal penance even in the proficient and the perfect, according to Ps. 83:7: "In his heart he hath disposed to ascend by steps, in the vale of tears." Wherefore Paul says (1 Cor. 15:9): "I . . . am not worthy to be called an apostle because I persecuted the Church of God."
 
 Reply to Objection 3: These durations of time are fixed for penitents as regards the exercise of external penance.
-# Whether Penance Can Be Continuous?
+## Whether Penance Can Be Continuous?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that penance cannot be continuous. For it is written (Jer. 31:16): "Let thy voice cease from weeping, and thy eyes from tears." But this would be impossible if penance were continuous, for it consists in weeping and tears. Therefore penance cannot be continuous.
 
@@ -231,22 +231,22 @@ Objection 2: Further, man ought to rejoice at every good work, according to Ps. 
 
 Objection 3: Further, the Apostle says (2 Cor. 2:7): "Comfort him," viz. the penitent, "lest perhaps such an one be swallowed up with overmuch sorrow." But comfort dispels grief, which is essential to penance. Therefore penance need not be continuous.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says in his book on Penance [*De vera et falsa Poenitentia, the authorship of which is unknown]: "In doing penance grief should be continual."
 
 I answer that, One is said to repent in two ways, actually and habitually. It is impossible for a man continually to repent actually. for the acts, whether internal or external, of a penitent must needs be interrupted by sleep and other things which the body needs. Secondly, a man is said to repent habitually. and thus he should repent continually, both by never doing anything contrary to penance, so as to destroy the habitual disposition of the penitent, and by being resolved that his past sins should always be displeasing to him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Weeping and tears belong to the act of external penance, and this act needs neither to be continuous, nor to last until the end of life, as stated above [4728](A[8]): wherefore it is significantly added: "For there is a reward for thy work." Now the reward of the penitent's work is the full remission of sin both as to guilt and as to punishment; and after receiving this reward there is no need for man to proceed to acts of external penance. This, however, does not prevent penance being continual, as explained above.
 
 Reply to Objection 2: Of sorrow and joy we may speak in two ways: first, as being passions of the sensitive appetite; and thus they can no. wise be together, since they are altogether contrary to one another, either on the part of the object (as when they have the same object), or at least on the part of the movement, for joy is with expansion [*Cf. [4729]FS, Q[33], A[1]] of the heart, whereas sorrow is with contraction; and it is in this sense that the Philosopher speaks in Ethic. ix. Secondly, we may speak of joy and sorrow as being simple acts of the will, to which something is pleasing or displeasing. Accordingly, they cannot be contrary to one another, except on the part of the object, as when they concern the same object in the same respect, in which way joy and sorrow cannot be simultaneous, because the same thing in the same respect cannot be pleasing and displeasing. If, on the other hand, joy and sorrow, understood thus, be not of the same object in the same respect, but either of different objects, or of the same object in different respects, in that case joy and sorrow are not contrary to one another, so that nothing hinders a man from being joyful and sorrowful at the same time---for instance, if we see a good man suffer, we both rejoice at his goodness and at the same time grieve for his suffering. In this way a man may be displeased at having sinned, and be pleased at his displeasure together with his hope for pardon, so that his very sorrow is a matter of joy. Hence Augustine says [*De vera et falsa Poenitentia, the authorship of which is unknown]: "The penitent should ever grieve and rejoice at his grief."
 
 Reply to Objection 3: According to the Philosopher (Ethic. ii, 3,6,7,9) it belongs to virtue to establish the mean in the passions. Now the sorrow which, in the sensitive appetite of the penitent, arises from the displeasure of his will, is a passion; wherefore it should be moderated according to virtue, and if it be excessive it is sinful, because it leads to despair, as the Apostle teaches (2 Cor. 2:7), saying: "Lest such an one be swallowed up with overmuch sorrow." Accordingly comfort, of which the Apostle speaks, moderates sorrow but does not destroy it altogether.
-# Whether The Sacrament Of Penance May Be Repeated?
+## Whether The Sacrament Of Penance May Be Repeated?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sacrament of Penance should not be repeated. For the Apostle says (Heb. 6:4, seqq.): "It is impossible for those, who were once illuminated, have tasted also the heavenly gift, and were made partakers of the Holy Ghost . . . and are fallen away, to be renewed again to penance." Now whosoever have done penance, have been illuminated, and have received the gift of the Holy Ghost. Therefore whosoever sin after doing penance, cannot do penance again.
 
@@ -260,7 +260,7 @@ Objection 5: Further, just as Baptism derives its efficacy from the Passion of C
 
 Objection 6: Further, Ambrose says on Ps. 118:58, "I entreated Thy face," etc., that "facility of obtaining pardon is an incentive to sin." If, therefore, God frequently grants pardon through Penance, it seems that He affords man an incentive to sin, and thus He seems to take pleasure in sin, which is contrary to His goodness. Therefore Penance cannot be repeated.
 
-## Answer
+### Answer
 
 On the contrary, Man is induced to be merciful by the example of Divine mercy, according to Lk. 6:36: "Be ye . . . merciful, as your Father also is merciful." Now our Lord commanded His disciples to be merciful by frequently pardoning their brethren who had sinned against them; wherefore, as related in Mat. 18:21, when Peter asked: "How often shall my brother off end against me, and I forgive him? till seven times?" Jesus answered: "I say not to thee, till seven times, but till seventy times seven times." Therefore also God over and over again, through Penance, grants pardon to sinners, especially as He teaches us to pray (Mat. 6:12): "Forgive us our trespasses, as we forgive them that trespass against us."
 
@@ -268,7 +268,7 @@ I answer that, As regards Penance, some have erred, saying that a man cannot obt
 
 These errors seem to have arisen from a twofold source: first from not knowing the nature of true Penance. For since true Penance requires charity, without which sins are not taken away, they thought that charity once possessed could not be lost, and that, consequently, Penance, if true, could never be removed by sin, so that it should be necessary to repeat it. But this was refuted in the [4730]SS, Q[24], A[11], where it was shown that on account of free-will charity, once possessed, can be lost, and that, consequently, after true Penance, a man can sin mortally. Secondly, they erred in their estimation of the gravity of sin. For they deemed a sin committed by a man after he had received pardon, to be so grave that it could not be forgiven. In this they erred not only with regard to sin which, even after a sin has been forgiven, can be either more or less grievous than the first, which was forgiven, but much more did they err against the infinity of Divine mercy, which surpasses any number and magnitude of sins, according to Ps. 50:1,2: "Have mercy on me, O God, according to Thy great mercy: and according to the multitude of Thy tender mercies, blot out my iniquity." Wherefore the words of Cain were reprehensible, when he said (Gn. 4:13): "My iniquity is greater than that I may deserve pardon." And so God's mercy, through Penance, grants pardon to sinners without any end, wherefore it is written (2 Paral 37 [*Prayer of Manasses, among the Apocrypha. St. Thomas is evidently quoting from memory, and omits the words in brackets.]): "Thy merciful promise is unmeasurable and unsearchable . . . (and Thou repentest) for the evil brought upon man." It is therefore evident that Penance can be repeated many times.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some of the Jews thought that a man could be washed several times in the laver of Baptism, because among them the Law prescribed certain washing-places where they were wont to cleanse themselves repeatedly from their uncleannesses. In order to disprove this the Apostle wrote to the Hebrews that "it is impossible for those who were once illuminated," viz. through Baptism, "to be renewed again to penance," viz. through Baptism, which is "the laver of regeneration, and renovation of the Holy Ghost," as stated in Titus 3:5: and he declares the reason to be that by Baptism man dies with Christ, wherefore he adds (Heb. 6:6): "Crucifying again to themselves the Son of God."
 

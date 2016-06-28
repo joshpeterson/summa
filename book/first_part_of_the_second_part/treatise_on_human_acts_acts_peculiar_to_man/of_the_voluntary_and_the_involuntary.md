@@ -9,9 +9,9 @@ Since therefore Happiness is to be gained by means of certain acts, we must in d
 (6) Whether fear causes involuntariness?
 (7) Whether concupiscence causes involuntariness?
 (8) Whether ignorance causes involuntariness?
-# Whether There Is Anything Voluntary In Human Acts?
+## Whether There Is Anything Voluntary In Human Acts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is nothing voluntary in human acts. For that is voluntary "which has its principle within itself." as Gregory of Nyssa [*Nemesius, De Natura Hom. xxxii.], Damascene (De Fide Orth. ii, 24), and Aristotle (Ethic. iii, 1) declare. But the principle of human acts is not in man himself, but outside him: since man's appetite is moved to act, by the appetible object which is outside him, and is as a "mover unmoved" (De Anima iii, 10). Therefore there is nothing voluntary in human acts.
 
@@ -19,22 +19,22 @@ Objection 2: Further, the Philosopher (Phys. viii, 2) proves that in animals no 
 
 Objection 3: Further, he that acts voluntarily, can act of himself. But this is not true of man; for it is written (Jn. 15:5): "Without Me you can do nothing." Therefore there is nothing voluntary in human acts.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. ii) that "the voluntary is an act consisting in a rational operation." Now such are human acts. Therefore there is something voluntary in human acts.
 
 I answer that, There must needs be something voluntary in human acts. In order to make this clear, we must take note that the principle of some acts or movements is within the agent, or that which is moved; whereas the principle of some movements or acts is outside. For when a stone is moved upwards, the principle of this movement is outside the stone: whereas when it is moved downwards, the principle of this movement is in the stone. Now of those things that are moved by an intrinsic principle, some move themselves, some not. For since every agent or thing moved, acts or is moved for an end, as stated above ([1049]Q[1], A[2]); those are perfectly moved by an intrinsic principle, whose intrinsic principle is one not only of movement but of movement for an end. Now in order for a thing to be done for an end, some knowledge of the end is necessary. Therefore, whatever so acts or is moved by an intrinsic principle, that it has some knowledge of the end, has within itself the principle of its act, so that it not only acts, but acts for an end. On the other hand, if a thing has no knowledge of the end, even though it have an intrinsic principle of action or movement, nevertheless the principle of acting or being moved for an end is not in that thing, but in something else, by which the principle of its action towards an end is not in that thing, but in something else, by which the principle of its action towards an end is imprinted on it. Wherefore such like things are not said to move themselves, but to be moved by others. But those things which have a knowledge of the end are said to move themselves because there is in them a principle by which they not only act but also act for an end. And consequently, since both are from an intrinsic principle, to wit, that they act and that they act for an end, the movements of such things are said to be voluntary: for the word "voluntary" implies that their movements and acts are from their own inclination. Hence it is that, according to the definitions of Aristotle, Gregory of Nyssa, and Damascene [*See Objection 1], the voluntary is defined not only as having "a principle within" the agent, but also as implying "knowledge." Therefore, since man especially knows the end of his work, and moves himself, in his acts especially is the voluntary to be found.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not every principle is a first principle. Therefore, although it is essential to the voluntary act that its principle be within the agent, nevertheless it is not contrary to the nature of the voluntary act that this intrinsic principle be caused or moved by an extrinsic principle: because it is not essential to the voluntary act that its intrinsic principle be a first principle. Yet again it must be observed that a principle of movement may happen to be first in a genus, but not first simply: thus in the genus of things subject to alteration, the first principle of alteration is a heavenly body, which is nevertheless, is not the first mover simply, but is moved locally by a higher mover. And so the intrinsic principle of the voluntary act, i.e. the cognitive and appetitive power, is the first principle in the genus of appetitive movement, although it is moved by an extrinsic principle according to other species of movement.
 
 Reply to Objection 2: New movements in animals are indeed preceded by a motion from without; and this in two respects. First, in so far as by means of an extrinsic motion an animal's senses are confronted with something sensible, which, on being apprehended, moves the appetite. Thus a lion, on seeing a stag in movement and coming towards him, begins to be moved towards the stag. Secondly, in so far as some extrinsic motion produces a physical change in an animal's body, as in the case of cold or heat; and through the body being affected by the motion of an outward body, the sensitive appetite which is the power of a bodily organ, is also moved indirectly; thus it happens that through some alteration in the body the appetite is roused to the desire of something. But this is not contrary to the nature of voluntariness, as stated above (ad 1), for such movements caused by an extrinsic principle are of another genus of movement.
 
 Reply to Objection 3: God moves man to act, not only by proposing the appetible to the senses, or by effecting a change in his body, but also by moving the will itself; because every movement either of the will or of nature, proceeds from God as the First Mover. And just as it is not incompatible with nature that the natural movement be from God as the First Mover, inasmuch as nature is an instrument of God moving it: so it is not contrary to the essence of a voluntary act, that it proceed from God, inasmuch as the will is moved by God. Nevertheless both natural and voluntary movements have this in common, that it is essential that they should proceed from a principle within the agent.
-# Whether There Is Anything Voluntary In Irrational Animals?
+## Whether There Is Anything Voluntary In Irrational Animals?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is nothing voluntary in irrational animals. For a thing is called "voluntary" from "voluntas" [will]. Now since the will is in the reason (De Anima iii, 9), it cannot be in irrational animals. Therefore neither is there anything voluntary in them.
 
@@ -42,7 +42,7 @@ Objection 2: Further, according as human acts are voluntary, man is said to be m
 
 Objection 3: Further, Damascene says (De Fide Orth. 24) that "voluntary acts lead to praise and blame." But neither praise nor blame is due to the acts of irrational minds. Therefore such acts are not voluntary.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. iii, 2) that "both children and irrational animals participate in the voluntary." The same is said by Damascene (De Fide Orth. 24) and Gregory of Nyssa [*Nemesius, De Nat. Hom. xxxii.].
 
@@ -50,16 +50,16 @@ I answer that, As stated above [1050](A[1]), it is essential to the voluntary ac
 
 Consequently perfect knowledge of the end leads to the perfect voluntary; inasmuch as, having apprehended the end, a man can, from deliberating about the end and the means thereto, be moved, or not, to gain that end. But imperfect knowledge of the end leads to the imperfect voluntary; inasmuch as the agent apprehends the end, but does not deliberate, and is moved to the end at once. Wherefore the voluntary in its perfection belongs to none but the rational nature: whereas the imperfect voluntary is within the competency of even irrational animals.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The will is the name of the rational appetite; and consequently it cannot be in things devoid of reason. But the word "voluntary" is derived from "voluntas" [will], and can be extended to those things in which there is some participation of will, by way of likeness thereto. It is thus that voluntary action is attributed to irrational animals, in so far as they are moved to an end, through some kind of knowledge.
 
 Reply to Objection 2: The fact that man is master of his actions, is due to his being able to deliberate about them: for since the deliberating reason is indifferently disposed to opposite things, the will can be inclined to either. But it is not thus that voluntariness is in irrational animals, as stated above.
 
 Reply to Objection 3: Praise and blame are the result of the voluntary act, wherein is the perfect voluntary; such as is not to be found in irrational animals.
-# Whether There Can Be Voluntariness Without Any Act?
+## Whether There Can Be Voluntariness Without Any Act?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that voluntariness cannot be without any act. For that is voluntary which proceeds from the will. But nothing can proceed from the will, except through some act, at least an act of the will. Therefore there cannot be voluntariness without act.
 
@@ -67,7 +67,7 @@ Objection 2: Further, just as one is said to wish by an act of the will, so when
 
 Objection 3: Further, knowledge is essential to the voluntary, as stated above ([1051]AA[1],2). But knowledge involves an act. Therefore voluntariness cannot be without some act.
 
-## Answer
+### Answer
 
 On the contrary, The word "voluntary" is applied to that of which we are masters. Now we are masters in respect of to act and not to act, to will and not to will. Therefore just as to act and to will are voluntary, so also are not to act and not to will.
 
@@ -75,16 +75,16 @@ I answer that, Voluntary is what proceeds from the will. Now one thing proceeds 
 
 Since, then, the will by willing and acting, is able, and sometimes ought, to hinder not-willing and not-acting; this not-willing and not-acting is imputed to, as though proceeding from, the will. And thus it is that we can have the voluntary without an act; sometimes without outward act, but with an interior act; for instance, when one wills not to act; and sometimes without even an interior act, as when one does not will to act.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We apply the word "voluntary" not only to that which proceeds from the will directly, as from its action; but also to that which proceeds from it indirectly as from its inaction.
 
 Reply to Objection 2: "Not to wish" is said in two senses. First, as though it were one word, and the infinitive of "I-do-not-wish." Consequently just as when I say "I do not wish to read," the sense is, "I wish not to read"; so "not to wish to read" is the same as "to wish not to read," and in this sense "not to wish" implies involuntariness. Secondly it is taken as a sentence: and then no act of the will is affirmed. And in this sense "not to wish" does not imply involuntariness.
 
 Reply to Objection 3: Voluntariness requires an act of knowledge in the same way as it requires an act of will; namely, in order that it be in one's power to consider, to wish and to act. And then, just as not to wish, and not to act, when it is time to wish and to act, is voluntary, so is it voluntary not to consider.
-# Whether Violence Can Be Done To The Will?
+## Whether Violence Can Be Done To The Will?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that violence can be done to the will. For everything can be compelled by that which is more powerful. But there is something, namely, God, that is more powerful than the human will. Therefore it can be compelled, at least by Him.
 
@@ -92,7 +92,7 @@ Objection 2: Further, every passive subject is compelled by its active principle
 
 Objection 3: Further, violent movement is that which is contrary to nature. But the movement of the will is sometimes contrary to nature; as is clear of the will's movement to sin, which is contrary to nature, as Damascene says (De Fide Orth. iv, 20). Therefore the movement of the will can be compelled.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei v, 10) that what is done by the will is not done of necessity. Now, whatever is done under compulsion is done of necessity: consequently what is done by the will, cannot be compelled. Therefore the will cannot be compelled to act.
 
@@ -102,16 +102,16 @@ As regards the commanded acts of the will, then, the will can suffer violence, i
 
 The reason of this is that the act of the will is nothing else than an inclination proceeding from the interior principle of knowledge: just as the natural appetite is an inclination proceeding from an interior principle without knowledge. Now what is compelled or violent is from an exterior principle. Consequently it is contrary to the nature of the will's own act, that it should be subject to compulsion and violence: just as it is also contrary to the nature of a natural inclination or movement. For a stone may have an upward movement from violence, but that this violent movement be from its natural inclination is impossible. In like manner a man may be dragged by force: but it is contrary to the very notion of violence, that he be dragged of his own will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God Who is more powerful than the human will, can move the will of man, according to Prov. 21:1: "The heart of the king is in the hand of the Lord; whithersoever He will He shall turn it." But if this were by compulsion, it would no longer be by an act of the will, nor would the will itself be moved, but something else against the will.
 
 Reply to Objection 2: It is not always a violent movement, when a passive subject is moved by its active principle; but only when this is done against the interior inclination of the passive subject. Otherwise every alteration and generation of simply bodies would be unnatural and violent: whereas they are natural by reason of the natural interior aptitude of the matter or subject to such a disposition. In like manner when the will is moved, according to its own inclination, by the appetible object, this movement is not violent but voluntary.
 
 Reply to Objection 3: That to which the will tends by sinning, although in reality it is evil and contrary to the rational nature, nevertheless is apprehended as something good and suitable to nature, in so far as it is suitable to man by reason of some pleasurable sensation or some vicious habit.
-# Whether Violence Causes Involuntariness?
+## Whether Violence Causes Involuntariness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that violence does not cause involuntariness. For we speak of voluntariness and involuntariness in respect of the will. But violence cannot be done to the will, as shown above [1052](A[4]). Therefore violence cannot cause involuntariness.
 
@@ -119,22 +119,22 @@ Objection 2: Further, that which is done involuntarily is done with grief, as Da
 
 Objection 3: Further, what is from the will cannot be involuntary. But some violent actions proceed from the will: for instance, when a man with a heavy body goes upwards; or when a man contorts his limbs in a way contrary to their natural flexibility. Therefore violence does not cause involuntariness.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher (Ethic. iii, 1) and Damascene (De Fide Orth. ii, 24) say that "things done under compulsion are involuntary."
 
 I answer that, Violence is directly opposed to the voluntary, as likewise to the natural. For the voluntary and the natural have this in common, that both are from an intrinsic principle; whereas violence is from an extrinsic principle. And for this reason, just as in things devoid of knowledge, violence effects something against nature: so in things endowed with knowledge, it effects something against the will. Now that which is against nature is said to be "unnatural"; and in like manner that which is against the will is said to be "involuntary." Therefore violence causes involuntariness.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The involuntary is opposed to the voluntary. Now it has been said [1053](A[4]) that not only the act, which proceeds immediately from the will, is called voluntary, but also the act commanded by the will. Consequently, as to the act which proceeds immediately from the will, violence cannot be done to the will, as stated above [1054](A[4]): wherefore violence cannot make that act involuntary. But as to the commanded act, the will can suffer violence: and consequently in this respect violence causes involuntariness.
 
 Reply to Objection 2: As that is said to be natural, which is according to the inclination of nature; so that is said to be voluntary, which is according to the inclination of the will. Now a thing is said to be natural in two ways. First, because it is from nature as from an active principle: thus it is natural for fire to produce heat. Secondly, according to a passive principle; because, to wit, there is in nature an inclination to receive an action from an extrinsic principle: thus the movement of the heavens is said to be natural, by reason of the natural aptitude in a heavenly body to receive such movement; although the cause of that movement is a voluntary agent. In like manner an act is said to be voluntary in two ways. First, in regard to action, for instance, when one wishes to be passive to another. Hence when action is brought to bear on something, by an extrinsic agent, as long as the will to suffer that action remains in the passive subject, there is not violence simply: for although the patient does nothing by way of action, he does something by being willing to suffer. Consequently this cannot be called involuntary.
 
 Reply to Objection 3: As the Philosopher says (Phys. viii, 4) the movement of an animal, whereby at times an animal is moved against the natural inclination of the body, although it is not natural to the body, is nevertheless somewhat natural to the animal, to which it is natural to be moved according to its appetite. Accordingly this is violent, not simply but in a certain respect. The same remark applies in the case of one who contorts his limbs in a way that is contrary to their natural disposition. For this is violent in a certain respect, i.e. as to that particular limb; but not simply, i.e. as to the man himself.
-# Whether Fear Causes Involuntariness Simply?
+## Whether Fear Causes Involuntariness Simply?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear causes involuntariness simply. For just as violence regards that which is contrary to the will at the time, so fear regards a future evil which is repugnant to the will. But violence causes involuntariness simply. Therefore fear too causes involuntariness simply.
 
@@ -142,7 +142,7 @@ Objection 2: Further, that which is such of itself, remains such, whatever be ad
 
 Objection 3: Further, that which is such, subject to a condition, is such in a certain respect; whereas what is such, without any condition, is such simply: thus what is necessary, subject to a condition, is necessary in some respect: but what is necessary absolutely, is necessary simply. But that which is done through fear, is absolutely involuntary; and is not voluntary, save under a condition, namely, in order that the evil feared may be avoided. Therefore that which is done through fear, is involuntary simply.
 
-## Answer
+### Answer
 
 On the contrary, Gregory of Nyssa [*Nemesius, De Nat. Hom. xxx.] and the Philosopher (Ethic. iii, 1) say that such things as are done through fear are "voluntary rather than involuntary."
 
@@ -150,16 +150,16 @@ I answer that, As the Philosopher says (Ethic. iii) and likewise Gregory of Nyss
 
 But if the matter be considered aright, such things are voluntary rather than involuntary; for they are voluntary simply, but involuntary in a certain respect. For a thing is said to be simply, according as it is in act; but according as it is only in apprehension, it is not simply, but in a certain respect. Now that which is done through fear, is in act in so far as it is done. For, since acts are concerned with singulars; and the singular, as such, is here and now; that which is done is in act, in so far as it is here and now and under other individuating circumstances. And that which is done through fear is voluntary, inasmuch as it is here and now, that is to say, in so far as, under the circumstances, it hinders a greater evil which was feared; thus the throwing of the cargo into the sea becomes voluntary during the storm, through fear of the danger: wherefore it is clear that it is voluntary simply. And hence it is that what is done out of fear is essentially voluntary, because its principle is within. But if we consider what is done through fear, as outside this particular case, and inasmuch as it is repugnant to the will, this is merely a consideration of the mind. And consequently what is done through fear is involuntary, considered in that respect, that is to say, outside the actual circumstances of the case.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Things done through fear and compulsion differ not only according to present and future time, but also in this, that the will does not consent, but is moved entirely counter to that which is done through compulsion: whereas what is done through fear, becomes voluntary, because the will is moved towards it, albeit not for its own sake, but on account of something else, that is, in order to avoid an evil which is feared. For the conditions of a voluntary act are satisfied, if it be done on account of something else voluntary: since the voluntary is not only what we wish, for its own sake, as an end, but also what we wish for the sake of something else, as an end. It is clear therefore that in what is done from compulsion, the will does nothing inwardly; whereas in what is done through fear, the will does something. Accordingly, as Gregory of Nyssa [*Nemesius, De Nat. Hom. xxx.] says, in order to exclude things done through fear, a violent action is defined as not only one, "the principal whereof is from without," but with the addition, "in which he that suffers violence concurs not at all"; because the will of him that is in fear, does concur somewhat in that which he does through fear.
 
 Reply to Objection 2: Things that are such absolutely, remain such, whatever be added to them; for instance, a cold thing, or a white thing: but things that are such relatively, vary according as they are compared with different things. For what is big in comparison with one thing, is small in comparison with another. Now a thing is said to be voluntary, not only for its own sake, as it were absolutely; but also for the sake of something else, as it were relatively. Accordingly, nothing prevents a thing which was not voluntary in comparison with one thing, from becoming voluntary when compared with another.
 
 Reply to Objection 3: That which is done through fear, is voluntary without any condition, that is to say, according as it is actually done: but it is involuntary, under a certain condition, that is to say, if such a fear were not threatening. Consequently, this argument proves rather the opposite.
-# Whether Concupiscence Causes Involuntariness?
+## Whether Concupiscence Causes Involuntariness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that concupiscence causes involuntariness. For just as fear is a passion, so is concupiscence. But fear causes involuntariness to a certain extent. Therefore concupiscence does so too.
 
@@ -167,22 +167,22 @@ Objection 2: Further, just as the timid man through fear acts counter to that wh
 
 Objection 3: Further, knowledge is necessary for voluntariness. But concupiscence impairs knowledge; for the Philosopher says (Ethic. vi, 5) that "delight," or the lust of pleasure, "destroys the judgment of prudence." Therefore concupiscence causes involuntariness.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. ii, 24): "The involuntary act deserves mercy or indulgence, and is done with regret." But neither of these can be said of that which is done out of concupiscence. Therefore concupiscence does not cause involuntariness.
 
 I answer that, Concupiscence does not cause involuntariness, but on the contrary makes something to be voluntary. For a thing is said to be voluntary, from the fact that the will is moved to it. Now concupiscence inclines the will to desire the object of concupiscence. Therefore the effect of concupiscence is to make something to be voluntary rather than involuntary.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Fear regards evil, but concupiscence regards good. Now evil of itself is counter to the will, whereas good harmonizes with the will. Therefore fear has a greater tendency than concupiscence to cause involuntariness.
 
 Reply to Objection 2: He who acts from fear retains the repugnance of the will to that which he does, considered in itself. But he that acts from concupiscence, e.g. an incontinent man, does not retain his former will whereby he repudiated the object of his concupiscence; for his will is changed so that he desires that which previously he repudiated. Accordingly, that which is done out of fear is involuntary, to a certain extent, but that which is done from concupiscence is nowise involuntary. For the man who yields to concupiscence acts counter to that which he purposed at first, but not counter to that which he desires now; whereas the timid man acts counter to that which in itself he desires now.
 
 Reply to Objection 3: If concupiscence were to destroy knowledge altogether, as happens with those whom concupiscence has rendered mad, it would follow that concupiscence would take away voluntariness. And yet properly speaking it would not result in the act being involuntary, because in things bereft of reason, there is neither voluntary nor involuntary. But sometimes in those actions which are done from concupiscence, knowledge is not completely destroyed, because the power of knowing is not taken away entirely, but only the actual consideration in some particular possible act. Nevertheless, this itself is voluntary, according as by voluntary we mean that which is in the power of the will, for example "not to act" or "not to will," and in like manner "not to consider"; for the will can resist the passion, as we shall state later on ([1055]Q[10], A[3];[1056] Q[77], A[7]).
-# Whether Ignorance Causes Involuntariness?
+## Whether Ignorance Causes Involuntariness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that ignorance does not cause involuntariness. For "the involuntary act deserves pardon," as Damascene says (De Fide Orth. ii, 24). But sometimes that which is done through ignorance does not deserve pardon, according to 1 Cor. 14:38: "If any man know not, he shall not be known." Therefore ignorance does not cause involuntariness.
 
@@ -190,7 +190,7 @@ Objection 2: Further, every sin implies ignorance; according to Prov. 14: 22: "T
 
 Objection 3: Further, "involuntariness is not without sadness," as Damascene says (De Fide Orth. ii, 24). But some things are done out of ignorance, but without sadness: for instance, a man may kill a foe, whom he wishes to kill, thinking at the time that he is killing a stag. Therefore ignorance does not cause involuntariness.
 
-## Answer
+### Answer
 
 On the contrary, Damascene (De Fide Orth. ii, 24) and the Philosopher (Ethic. iii, 1) say that "what is done through ignorance is involuntary."
 

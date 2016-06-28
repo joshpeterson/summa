@@ -5,9 +5,9 @@ We must now consider in particular blasphemy against the Holy Ghost: under which
 (2) Of the species of this sin;
 (3) Whether it can be forgiven?
 (4) Whether it is possible to begin by sinning against the Holy Ghost before committing other sins?
-# Whether The Sin Against The Holy Ghost Is The Same As The Sin Committed Through Certain Malice?
+## Whether The Sin Against The Holy Ghost Is The Same As The Sin Committed Through Certain Malice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sin against the Holy Ghost is not the same as the sin committed through certain malice. Because the sin against the Holy Ghost is the sin of blasphemy, according to Mat. 12:32. But not every sin committed through certain malice is a sin of blasphemy: since many other kinds of sin may be committed through certain malice. Therefore the sin against the Holy Ghost is not the same as the sin committed through certain malice.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the sin committed through certain malice is condivided wit
 
 Objection 3: Further, the sin against the Holy Ghost is itself a generic sin, having its own determinate species: whereas sin committed through certain malice is not a special kind of sin, but a condition or general circumstance of sin, which can affect any kind of sin at all. Therefore the sin against the Holy Ghost is not the same as the sin committed through certain malice.
 
-## Answer
+### Answer
 
 On the contrary, The Master says (Sent. ii, D, 43) that "to sin against the Holy Ghost is to take pleasure in the malice of sin for its own sake." Now this is to sin through certain malice. Therefore it seems that the sin committed through certain malice is the same as the sin against the Holy Ghost.
 
@@ -27,16 +27,16 @@ But others understand it differently, and say that the sin of blasphemy against 
 
 Now this may happen in two ways. First by reason of the very inclination of a vicious habit which we call malice, and, in this way, to sin through malice is not the same as to sin against the Holy Ghost. In another way it happens that by reason of contempt, that which might have prevented the choosing of evil, is rejected or removed; thus hope is removed by despair, and fear by presumption, and so on, as we shall explain further on (QQ[20],21). Now all these things which prevent the choosing of sin are effects of the Holy Ghost in us; so that, in this sense, to sin through malice is to sin against the Holy Ghost.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as the confession of faith consists in a protestation not only of words but also of deeds, so blasphemy against the Holy Ghost can be uttered in word, thought and deed.
 
 Reply to Objection 2: According to the third interpretation, blasphemy against the Holy Ghost is condivided with blasphemy against the Son of Man, forasmuch as He is also the Son of God, i.e. the "power of God and the wisdom of God" (1 Cor. 1:24). Wherefore, in this sense, the sin against the Son of Man will be that which is committed through ignorance, or through weakness.
 
 Reply to Objection 3: Sin committed through certain malice, in so far as it results from the inclination of a habit, is not a special sin, but a general condition of sin: whereas, in so far as it results from a special contempt of an effect of the Holy Ghost in us, it has the character of a special sin. According to this interpretation the sin against the Holy Ghost is a special kind of sin, as also according to the first interpretation: whereas according to the second, it is not a species of sin, because final impenitence may be a circumstance of any kind of sin.
-# Whether It Is Fitting To Distinguish Six Kinds Of Sin Against The Holy Ghost?
+## Whether It Is Fitting To Distinguish Six Kinds Of Sin Against The Holy Ghost?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unfitting to distinguish six kinds of sin against the Holy Ghost, viz. despair, presumption, impenitence, obstinacy, resisting the known truth, envy of our brother's spiritual good, which are assigned by the Master (Sent. ii, D, 43). For to deny God's justice or mercy belongs to unbelief. Now, by despair, a man rejects God's mercy, and by presumption, His justice. Therefore each of these is a kind of unbelief rather than of the sin against the Holy Ghost.
 
@@ -46,7 +46,7 @@ Objection 3: Further, "grace and truth came by Jesus Christ" (Jn. 1:17). Therefo
 
 Objection 4: Further, Bernard says (De Dispens. et Praecept. xi) that "to refuse to obey is to resist the Holy Ghost." Moreover a gloss on Lev. 10:16, says that "a feigned repentance is a blasphemy against the Holy Ghost." Again, schism is, seemingly, directly opposed to the Holy Ghost by Whom the Church is united together. Therefore it seems that the species of sins against the Holy Ghost are insufficiently enumerated.
 
-## Answer
+### Answer
 
 On the contrary, Augustine [*Fulgentius] (De Fide ad Petrum iii) says that "those who despair of pardon for their sins, or who without merits presume on God's mercy, sin against the Holy Ghost," and (Enchiridion lxxxiii) that "he who dies in a state of obstinacy is guilty of the sin against the Holy Ghost," and (De Verb. Dom., Serm. lxxi) that "impenitence is a sin against the Holy Ghost," and (De Serm. Dom. in Monte xxii), that "to resist fraternal goodness with the brands of envy is to sin against the Holy Ghost," and in his book De unico Baptismo (De Bap. contra Donat. vi, 35) he says that "a man who spurns the truth, is either envious of his brethren to whom the truth is revealed, or ungrateful to God, by Whose inspiration the Church is taught," and therefore, seemingly, sins against the Holy Ghost.
 
@@ -56,7 +56,7 @@ God's gifts whereby we are withdrawn from sin, are two: one is the acknowledgmen
 
 On the part of sin, there are two things which may withdraw man therefrom: one is the inordinateness and shamefulness of the act, the consideration of which is wont to arouse man to repentance for the sin he has committed, and against this there is "impenitence," not as denoting permanence in sin until death, in which sense it was taken above (for thus it would not be a special sin, but a circumstance of sin), but as denoting the purpose of not repenting. The other thing is the smallness or brevity of the good which is sought in sin, according to Rom. 6:21: "What fruit had you therefore then in those things, of which you are now ashamed?" The consideration of this is wont to prevent man's will from being hardened in sin, and this is removed by "obstinacy," whereby man hardens his purpose by clinging to sin. Of these two it is written (Jer. 8:6): "There is none that doth penance for his sin, saying: What have I done?" as regards the first; and, "They are all turned to their own course, as a horse rushing to the battle," as regards the second.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The sins of despair and presumption consist, not in disbelieving in God's justice and mercy, but in contemning them.
 
@@ -65,9 +65,9 @@ Reply to Objection 2: Obstinacy and impenitence differ not only in respect of pa
 Reply to Objection 3: Grace and truth were the work of Christ through the gifts of the Holy Ghost which He gave to men.
 
 Reply to Objection 4: To refuse to obey belongs to obstinacy, while a feigned repentance belongs to impenitence, and schism to the envy of a brother's spiritual good, whereby the members of the Church are united together.
-# Whether The Sin Against The Holy Ghost Can Be Forgiven?
+## Whether The Sin Against The Holy Ghost Can Be Forgiven?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sin against the Holy Ghost can be forgiven. For Augustine says (De Verb. Dom., Serm. lxxi): "We should despair of no man, so long as Our Lord's patience brings him back to repentance." But if any sin cannot be forgiven, it would be possible to despair of some sinners. Therefore the sin against the Holy Ghost can be forgiven.
 
@@ -75,7 +75,7 @@ Objection 2: Further, no sin is forgiven, except through the soul being healed b
 
 Objection 3: Further, the free-will is indifferent to either good or evil. Now, so long as man is a wayfarer, he can fall away from any virtue, since even an angel fell from heaven, wherefore it is written (Job 4:18,19): "In His angels He found wickedness: how much more shall they that dwell in houses of clay?" Therefore, in like manner, a man can return from any sin to the state of justice. Therefore the sin against the Holy Ghost can be forgiven.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 12:32): "He that shall speak against the Holy Ghost, it shall not be forgiven him, neither in this world, nor in the world to come": and Augustine says (De Serm. Dom. in Monte i, 22) that "so great is the downfall of this sin that it cannot submit to the humiliation of asking for pardon."
 
@@ -85,16 +85,16 @@ According to the other two interpretations, it is said to be unpardonable, not a
 
 Secondly, this may be understood to refer to the guilt: thus a disease is said to be incurable in respect of the nature of the disease, which removes whatever might be a means of cure, as when it takes away the power of nature, or causes loathing for food and medicine, although God is able to cure such a disease. So too, the sin against the Holy Ghost is said to be unpardonable, by reason of its nature, in so far as it removes those things which are a means towards the pardon of sins. This does not, however, close the way of forgiveness and healing to an all-powerful and merciful God, Who, sometimes, by a miracle, so to speak, restores spiritual health to such men.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We should despair of no man in this life, considering God's omnipotence and mercy. But if we consider the circumstances of sin, some are called (Eph. 2:2) "children of despair" [*'Filios diffidentiae,' which the Douay version renders 'children of unbelief.'].
 
 Reply to Objection 2: This argument considers the question on the part of God's omnipotence, not on that of the circumstances of sin.
 
 Reply to Objection 3: In this life the free-will does indeed ever remain subject to change: yet sometimes it rejects that whereby, so far as it is concerned, it can be turned to good. Hence considered in itself this sin is unpardonable, although God can pardon it.
-# Whether A Man Can Sin First Of All Against The Holy Ghost?
+## Whether A Man Can Sin First Of All Against The Holy Ghost?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man cannot sin first of all against the Holy Ghost, without having previously committed other sins. For the natural order requires that one should be moved to perfection from imperfection. This is evident as regards good things, according to Prov. 4:18: "The path of the just, as a shining light, goeth forwards and increases even to perfect day." Now, in evil things, the perfect is the greatest evil, as the Philosopher states (Metaph. v, text. 21). Since then the sin against the Holy Ghost is the most grievous sin, it seems that man comes to commit this sin through committing lesser sins.
 
@@ -102,7 +102,7 @@ Objection 2: Further, to sin against the Holy Ghost is to sin through certain ma
 
 Objection 3: Further, repentance and impenitence are about the same object. But there is no repentance, except about past sins. Therefore the same applies to impenitence which is a species of the sin against the Holy Ghost. Therefore the sin against the Holy Ghost presupposes other sins.
 
-## Answer
+### Answer
 
 On the contrary, "It is easy in the eyes of God on a sudden to make a poor man rich" (Ecclus. 11:23). Therefore, conversely, it is possible for a man, according to the malice of the devil who tempts him, to be led to commit the most grievous of sins which is that against the Holy Ghost.
 
@@ -114,7 +114,7 @@ The same applies, if the sin against the Holy Ghost be taken literally for blasp
 
 If, however, with Augustine (De Verb. Dom., Serm. lxxi) we understand the sin against the Holy Ghost to denote final impenitence, it does not regard the question in point, because this sin against the Holy Ghost requires persistence in sin until the end of life.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Movement both in good and in evil is made, for the most part, from imperfect to perfect, according as man progresses in good or evil: and yet in both cases, one man can begin from a greater (good or evil) than another man does. Consequently, that from which a man begins can be perfect in good or evil according to its genus, although it may be imperfect as regards the series of good or evil actions whereby a man progresses in good or evil.
 

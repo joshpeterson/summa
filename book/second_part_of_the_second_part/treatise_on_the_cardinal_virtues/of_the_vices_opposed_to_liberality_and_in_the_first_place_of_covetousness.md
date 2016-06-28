@@ -9,9 +9,9 @@ We must now consider the vices opposed to liberality: and (1) covetousness; (2) 
 (6) Whether it is a sin of the flesh or a spiritual sin?
 (7) Whether it is a capital vice?
 (8) Of its daughters.
-# Whether Covetousness Is A Sin?
+## Whether Covetousness Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that covetousness is not aa sin. For covetousness [avaritia] denotes a certain greed for gold [aeris aviditas*], because, to wit, it consists in a desire for money, under which all external goods may be comprised. [*The Latin for covetousness "avaritia" is derived from "aveo" to desire; but the Greek {philargyria} signifies literally "love of money": and it is to this that St. Thomas is alluding (cf. A[2], OBJ[2])]. Now it is not a sin to desire external goods: since man desires them naturally, both because they are naturally subject to man, and because by their means man's life is sustained (for which reason they are spoken of as his substance). Therefore covetousness is not a sin.
 
@@ -19,22 +19,22 @@ Objection 2: Further, every sin is against either God, or one's neighbor, or one
 
 Objection 3: Further, things that occur naturally are not sins. Now covetousness comes naturally to old age and every kind of defect, according to the Philosopher (Ethic. iv, 1). Therefore covetousness is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Heb. 13:5): "Let your manners be without covetousness, contented with such things as you have."
 
 I answer that, In whatever things good consists in a due measure, evil must of necessity ensue through excess or deficiency of that measure. Now in all things that are for an end, the good consists in a certain measure: since whatever is directed to an end must needs be commensurate with the end, as, for instance, medicine is commensurate with health, as the Philosopher observes (Polit. i, 6). External goods come under the head of things useful for an end, as stated above (Q[117], A[3]; [3245]FS, Q[2] , A[1]). Hence it must needs be that man's good in their respect consists in a certain measure, in other words, that man seeks, according to a certain measure, to have external riches, in so far as they are necessary for him to live in keeping with his condition of life. Wherefore it will be a sin for him to exceed this measure, by wishing to acquire or keep them immoderately. This is what is meant by covetousness, which is defined as "immoderate love of possessing." It is therefore evident that covetousness is a sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is natural to man to desire external things as means to an end: wherefore this desire is devoid of sin, in so far as it is held in check by the rule taken from the nature of the end. But covetousness exceeds this rule, and therefore is a sin.
 
 Reply to Objection 2: Covetousness may signify immoderation about external things in two ways. First, so as to regard immediately the acquisition and keeping of such things, when, to wit, a man acquires or keeps them more than is due. In this way it is a sin directly against one's neighbor, since one man cannot over-abound in external riches, without another man lacking them, for temporal goods cannot be possessed by many at the same time. Secondly, it may signify immoderation in the internal affection which a man has for riches when, for instance, a man loves them, desires them, or delights in them, immoderately. In this way by covetousness a man sins against himself, because it causes disorder in his affections, though not in his body as do the sins of the flesh.
 
 Reply to Objection 3: Natural inclinations should be regulated according to reason, which is the governing power in human nature. Hence though old people seek more greedily the aid of external things, just as everyone that is in need seeks to have his need supplied, they are not excused from sin if they exceed this due measure of reason with regard to riches.
-# Whether Covetousness Is A Special Sin?
+## Whether Covetousness Is A Special Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that covetousness is not a special sin. For Augustine says (De Lib. Arb. iii): "Covetousness, which in Greek is called {philargyria}, applies not only to silver or money, but also to anything that is desired immoderately." Now in every sin there is immoderate desire of something, because sin consists in turning away from the immutable good, and adhering to mutable goods, as state above ([3246]FS, Q[71], A[6], OBJ[3]). Therefore covetousness is a general sin.
 
@@ -42,7 +42,7 @@ Objection 2: Further, according to Isidore (Etym. x), "the covetous [avarus] man
 
 Objection 3: Further, a gloss on Rom. 7:7, "For I had not known concupiscence," says: "The law is good, since by forbidding concupiscence, it forbids all evil." Now the law seems to forbid especially the concupiscence of covetousness: hence it is written (Ex. 20:17): "Thou shalt not covet thy neighbor's goods." Therefore the concupiscence of covetousness is all evil, and so covetousness is a general sin.
 
-## Answer
+### Answer
 
 On the contrary, Covetousness is numbered together with other special sins (Rom. 1:29), where it is written: "Being filled with all iniquity, malice, fornication, covetousness" [Douay: 'avarice'], etc.
 
@@ -50,14 +50,14 @@ I answer that, Sins take their species from their objects, as stated above ([324
 
 Since, however, the verb "to have," which seems to have been originally employed in connection with possessions whereof we are absolute masters, is applied to many other things (thus a man is said to have health, a wife, clothes, and so forth, as stated in De Praedicamentis), consequently the term "covetousness" has been amplified to denote all immoderate desire for having anything whatever. Thus Gregory says in a homily (xvi in Ev.) that "covetousness is a desire not only for money, but also for knowledge and high places, when prominence is immoderately sought after." In this way covetousness is not a special sin: and in this sense Augustine speaks of covetousness in the passage quoted in the First Objection. Wherefore this suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: All those external things that are subject to the uses of human life are comprised under the term "money," inasmuch as they have the aspect of useful good. But there are certain external goods that can be obtained by money, such as pleasures, honors, and so forth, which are desirable under another aspect. Wherefore the desire for such things is not properly called covetousness, in so far as it is a special vice.
 
 Reply to Objection 3: This gloss speaks of the inordinate concupiscence for anything whatever. For it is easy to understand that if it is forbidden to covet another's possessions it is also forbidden to covet those things that can be obtained by means of those possessions.
-# Whether Covetousness Is Opposed To Liberality?
+## Whether Covetousness Is Opposed To Liberality?
 
-## Objections
+### Objections
 
 Objection 1: It seems that covetousness is not opposed to liberality. For Chrysostom, commenting on Mat. 5:6, "Blessed are they that hunger and thirst after justice," says, (Hom. xv in Matth.) that there are two kinds of justice, one general, and the other special, to which covetousness is opposed: and the Philosopher says the same (Ethic. v, 2). Therefore covetousness is not opposed to liberality.
 
@@ -65,22 +65,22 @@ Objection 2: Further, the sin of covetousness consists in a man's exceeding the 
 
 Objection 3: Further, liberality is a virtue that observes the mean between two contrary vices, as the Philosopher states (Ethic. i, 7; iv, 1). But covetousness has no contrary and opposite sin, according to the Philosopher (Ethic. v, 1,2). Therefore covetousness is not opposed to liberality.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Eccles. 5:9): "A covetous man shall not be satisfied with money, and he that loveth riches shall have no fruits from them." Now not to be satisfied with money and to love it inordinately are opposed to liberality, which observes the mean in the desire of riches. Therefore covetousness is opposed to liberality.
 
 I answer that, Covetousness denotes immoderation with regard to riches in two ways. First, immediately in respect of the acquisition and keeping of riches. In this way a man obtains money beyond his due, by stealing or retaining another's property. This is opposed to justice, and in this sense covetousness is mentioned (Ezech. 22:27): "Her princes in the midst of her are like wolves ravening the prey to shed blood . . . and to run after gains through covetousness." Secondly, it denotes immoderation in the interior affections for riches; for instance, when a man loves or desires riches too much, or takes too much pleasure in them, even if he be unwilling to steal. In this way covetousness is opposed to liberality, which moderates these affections, as stated above ([3249]Q[117], A[2], ad 3, A[3], ad 3, A[6]). In this sense covetousness is spoken of (2 Cor. 9:5): "That they would . . . prepare this blessing before promised, to be ready, so as a blessing, not as covetousness," where a gloss observes: "Lest they should regret what they had given, and give but little."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Chrysostom and the Philosopher are speaking of covetousness in the first sense: covetousness in the second sense is called illiberality [*{aneleutheria}] by the Philosopher.
 
 Reply to Objection 2: It belongs properly to justice to appoint the measure in the acquisition and keeping of riches from the point of view of legal due, so that a man should neither take nor retain another's property. But liberality appoints the measure of reason, principally in the interior affections, and consequently in the exterior taking and keeping of money, and in the spending of the same, in so far as these proceed from the interior affection, looking at the matter from the point of view not of the legal but of the moral debt, which latter depends on the rule of reason.
 
 Reply to Objection 3: Covetousness as opposed to justice has no opposite vice: since it consists in having more than one ought according to justice, the contrary of which is to have less than one ought, and this is not a sin but a punishment. But covetousness as opposed to liberality has the vice of prodigality opposed to it.
-# Whether Covetousness Is Always A Mortal Sin?
+## Whether Covetousness Is Always A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that covetousness is always a mortal sin. For no one is worthy of death save for a mortal sin. But men are worthy of death on account of covetousness. For the Apostle after saying (Rom. 1:29): "Being filled with all iniquity . . . fornication, covetousness [Douay: 'avarice']," etc. adds (Rom. 1:32): "They who do such things are worthy of death." Therefore covetousness is a mortal sin.
 
@@ -88,7 +88,7 @@ Objection 2: Further, the least degree of covetousness is to hold to one's own i
 
 Objection 3: Further, no one is struck with spiritual blindness save through a mortal sin, for this deprives a man of the light of grace. But, according to Chrysostom [*Hom. xv in the Opus Imperfectum, falsely ascribed to St. Chrysostom], "Lust for money brings darkness on the soul." Therefore covetousness, which is lust for money, is a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on 1 Cor. 3:12, "If any man build upon this foundation," says (cf. St. Augustine, De Fide et Oper. xvi) that "he builds wood, hay, stubble, who thinks in the things of the world, how he may please the world," which pertains to the sin of covetousness. Now he that builds wood, hay, stubble, sins not mortally but venially, for it is said of him that "he shall be saved, yet so as by fire." Therefore covetousness is some times a venial sin.
 
@@ -96,16 +96,16 @@ I answer that, As stated above [3250](A[3]) covetousness is twofold. In one way 
 
 In another way covetousness may be take as opposed to liberality: in which sense it denotes inordinate love of riches. Accordingly if the love of riches becomes so great as to be preferred to charity, in such wise that a man, through love of riches, fear not to act counter to the love of God and his neighbor, covetousness will then be a mortal sin. If, on the other hand, the inordinate nature of his love stops short of this, so that although he love riches too much, yet he does not prefer the love of them to the love of God, and is unwilling for the sake of riches to do anything in opposition to God or his neighbor, then covetousness is a venial sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Covetousness is numbered together with mortal sins, by reason of the aspect under which it is a mortal sin.
 
 Reply to Objection 2: Basil is speaking of a case wherein a man is bound by a legal debt to give of his goods to the poor, either through fear of their want or on account of his having too much.
 
 Reply to Objection 3: Lust for riches, properly speaking, brings darkness on the soul, when it puts out the light of charity, by preferring the love of riches to the love of God.
-# Whether Covetousness Is The Greatest Of Sins?
+## Whether Covetousness Is The Greatest Of Sins?
 
-## Objections
+### Objections
 
 Objection 1: It seems that covetousness is the greatest of sins. For it is written (Ecclus. 10:9): "Nothing is more wicked than a covetous man," and the text continues: "There is not a more wicked thing than to love money: for such a one setteth even his own soul to sale." Tully also says (De Offic. i, under the heading, 'True magnanimity is based chiefly on two things'): "Nothing is so narrow or little minded as to love money." But this pertains to covetousness. Therefore covetousness is the most grievous of sins.
 
@@ -115,13 +115,13 @@ Objection 3: Further, the gravity of a sin is indicated by its being incurable: 
 
 Objection 4: Further, the Apostle says (Eph. 5:5) that covetousness is "a serving of idols." Now idolatry is reckoned among the most grievous sins. Therefore covetousness is also.
 
-## Answer
+### Answer
 
 On the contrary, Adultery is a more grievous sin than theft, according to Prov. 6:30. But theft pertains to covetousness. Therefore covetousness is not the most grievous of sins.
 
 I answer that, Every sin, from the very fact that it is an evil, consists in the corruption or privation of some good: while, in so far as it is voluntary, it consists in the desire of some good. Consequently the order of sins may be considered in two ways. First, on the part of the good that is despised or corrupted by sin, and then the greater the good the graver the sin. From this point of view a sin that is against God is most grievous; after this comes a sin that is committed against a man's person, and after this comes a sin against external things, which are deputed to man's use, and this seems to belong to covetousness. Secondly, the degrees of sin may be considered on the part of the good to which the human appetite is inordinately subjected; and then the lesser the good, the more deformed is the sin: for it is more shameful to be subject to a lower than to a higher good. Now the good of external things is the lowest of human goods: since it is less than the good of the body, and this is less than the good of the soul, which is less than the Divine good. From this point of view the sin of covetousness, whereby the human appetite is subjected even to external things, has in a way a greater deformity. Since, however, corruption or privation of good is the formal element in sin, while conversion to a mutable good is the material element, the gravity of the sin is to be judged from the point of view of the good corrupted, rather than from that of the good to which the appetite is subjected. Hence we must assert that covetousness is not simply the most grievous of sins.
 
-## Replies
+### Replies
 
 Reply to Objection 1: These authorities speak of covetousness on the part of the good to which the appetite is subjected. Hence (Ecclus. 10:10) it is given as a reason that the covetous man "setteth his own soul to sale"; because, to wit, he exposes his soul---that is, his life---to danger for the sake of money. Hence the text continues: "Because while he liveth he hath cast away"---that is, despised---"his bowels," in order to make money. Tully also adds that it is the mark of a "narrow mind," namely, that one be willing to be subject to money.
 
@@ -130,9 +130,9 @@ Reply to Objection 2: Augustine is taking greed generally, in reference to any t
 Reply to Objection 3: The sin against the Holy Ghost is incurable in one way, covetousness in another. For the sin against the Holy Ghost is incurable by reason of contempt: for instance, because a man contemns God's mercy, or His justice, or some one of those things whereby man's sins are healed: wherefore incurability of this kind points to the greater gravity of the sin. on the other hand, covetousness is incurable on the part of a human defect; a thing which human nature ever seeks to remedy, since the more deficient one is the more one seeks relief from external things, and consequently the more one gives way to covetousness. Hence incurability of this kind is an indication not of the sin being more grievous, but of its being somewhat more dangerous.
 
 Reply to Objection 4: Covetousness is compared to idolatry on account of a certain likeness that it bears to it: because the covetous man, like the idolater, subjects himself to an external creature, though not in the same way. For the idolater subjects himself to an external creature by paying it Divine honor, whereas the covetous man subjects himself to an external creature by desiring it immoderately for use, not for worship. Hence it does not follow that covetousness is as grievous a sin as idolatry.
-# Whether Covetousness Is A Spiritual Sin?
+## Whether Covetousness Is A Spiritual Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that covetousness is not a spiritual sin. For spiritual sins seem to regard spiritual goods. But the matter of covetousness is bodily goods, namely, external riches. Therefore covetousness is not a spiritual sin.
 
@@ -140,22 +140,22 @@ Objection 2: Further, spiritual sin is condivided with sin of the flesh. Now cov
 
 Objection 3: Further, a sin of the flesh is one by which man's body is disordered, according to the saying of the Apostle (1 Cor. 6:18), "He that committeth fornication sinneth against his own body." Now covetousness disturbs man even in his body; wherefore Chrysostom (Hom. xxix in Matth.) compares the covetous man to the man who was possessed by the devil (Mk. 5) and was troubled in body. Therefore covetousness seems not to be a spiritual sin.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. xxxi) numbers covetousness among spiritual vices.
 
 I answer that, Sins are seated chiefly in the affections: and all the affections or passions of the soul have their term in pleasure and sorrow, according to the Philosopher (Ethic. ii, 5). Now some pleasures are carnal and some spiritual. Carnal pleasures are those which are consummated in the carnal senses---for instance, the pleasures of the table and sexual pleasures: while spiritual pleasures are those which are consummated in the mere apprehension of the soul. Accordingly, sins of the flesh are those which are consummated in carnal pleasures, while spiritual sins are consummated in pleasures of the spirit without pleasure of the flesh. Such is covetousness: for the covetous man takes pleasure in the consideration of himself as a possessor of riches. Therefore covetousness is a spiritual sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Covetousness with regard to a bodily object seeks the pleasure, not of the body but only of the soul, forasmuch as a man takes pleasure in the fact that he possesses riches: wherefore it is not a sin of the flesh. Nevertheless by reason of its object it is a mean between purely spiritual sins, which seek spiritual pleasure in respect of spiritual objects (thus pride is about excellence), and purely carnal sins, which seek a purely bodily pleasure in respect of a bodily object.
 
 Reply to Objection 2: Movement takes its species from the term "whereto" and not from the term "wherefrom." Hence a vice of the flesh is so called from its tending to a pleasure of the flesh, and not from its originating in some defect of the flesh.
 
 Reply to Objection 3: Chrysostom compares a covetous man to the man who was possessed by the devil, not that the former is troubled in the flesh in the same way as the latter, but by way of contrast, since while the possessed man, of whom we read in Mk. 5, stripped himself, the covetous man loads himself with an excess of riches.
-# Whether Covetousness Is A Capital Vice?
+## Whether Covetousness Is A Capital Vice?
 
-## Objections
+### Objections
 
 Objection 1: It seems that covetousness is not a capital vice. For covetousness is opposed to liberality as the mean, and to prodigality as extreme. But neither is liberality a principal virtue, nor prodigality a capital vice. Therefore covetousness also should not be reckoned a capital vice.
 
@@ -163,22 +163,22 @@ Objection 2: Further, as stated above ([3251]FS, Q[84], AA[3],4), those vices ar
 
 Objection 3: Further, Gregory says (Moral. xv), that "covetousness arises sometimes from pride, sometimes from fear. For there are those who, when they think that they lack the needful for their expenses, allow the mind to give way to covetousness. And there are others who, wishing to be thought more of, are incited to greed for other people's property." Therefore covetousness arises from other vices instead of being a capital vice in respect of other vices.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. xxxi) reckons covetousness among the capital vices.
 
 I answer that, As stated in the Second Objection, a capital vice is one which under the aspect of end gives rise to other vices: because when an end is very desirable, the result is that through desire thereof man sets about doing many things either good or evil. Now the most desirable end is happiness or felicity, which is the last end of human life, as stated above ([3252]FS, Q[1], AA[4],7,8): wherefore the more a thing is furnished with the conditions of happiness, the more desirable it is. Also one of the conditions of happiness is that it be self-sufficing, else it would not set man's appetite at rest, as the last end does. Now riches give great promise of self-sufficiency, as Boethius says (De Consol. iii): the reason of which, according to the Philosopher (Ethic. v, 5), is that we "use money in token of taking possession of something," and again it is written (Eccles. 10:19): "All things obey money." Therefore covetousness, which is desire for money, is a capital vice.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Virtue is perfected in accordance with reason, but vice is perfected in accordance with the inclination of the sensitive appetite. Now reason and sensitive appetite do not belong chiefly to the same genus, and consequently it does not follow that principal vice is opposed to principal virtue. Wherefore, although liberality is not a principal virtue, since it does not regard the principal good of the reason, yet covetousness is a principal vice, because it regards money, which occupies a principal place among sensible goods, for the reason given in the Article.
 
 Reply to Objection 2: It is true that money is directed to something else as its end: yet in so far as it is useful for obtaining all sensible things, it contains, in a way, all things virtually. Hence it has a certain likeness to happiness, as stated in the Article.
 
 Reply to Objection 3: Nothing prevents a capital vice from arising sometimes out of other vices, as stated above (Q[36], A[4], ad 1; [3253]FS, Q[84], A[4]), provided that itself be frequently the source of others.
-# Whether Treachery, Fraud, Falsehood, Perjury, Restlessness, Violence, And Insensibility To Mercy Are Daughters Of Covetousness?
+## Whether Treachery, Fraud, Falsehood, Perjury, Restlessness, Violence, And Insensibility To Mercy Are Daughters Of Covetousness?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the daughters of covetousness are not as commonly stated, namely, "treachery, fraud, falsehood, perjury, restlessness, violence, and insensibility to mercy." For covetousness is opposed to liberality, as stated above [3254](A[3]). Now treachery, fraud, and falsehood are opposed to prudence, perjury to religion, restlessness to hope, or to charity which rests in the beloved object, violence to justice, insensibility to mercy. Therefore these vices have no connection with covetousness.
 
@@ -190,13 +190,13 @@ Objection 4: Further, the Philosopher (Ethic. iv, 1) mentions many kinds of vice
 
 Objection 5: Further, tyrants use much violence against their subjects. But the Philosopher says (Ethic. iv, 1) that "tyrants who destroy cities and despoil sacred places are not to be called illiberal," i.e. covetous. Therefore violence should not be reckoned a daughter of covetousness.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. xxxi) assigns to covetousness the daughters mentioned above.
 
 I answer that, The daughters of covetousness are the vices which arise therefrom, especially in respect of the desire of an end. Now since covetousness is excessive love of possessing riches, it exceeds in two things. For in the first place it exceeds in retaining, and in this respect covetousness gives rise to "insensibility to mercy," because, to wit, a man's heart is not softened by mercy to assist the needy with his riches [*See[3255] Q[30], A[1]]. In the second place it belongs to covetousness to exceed in receiving, and in this respect covetousness may be considered in two ways. First as in the thought [affectu]. In this way it gives rise to "restlessness," by hindering man with excessive anxiety and care, for "a covetous man shall not be satisfied with money" (Eccles. 5:9). Secondly, it may be considered in the execution [effectu]. In this way the covetous man, in acquiring other people's goods, sometimes employs force, which pertains to "violence," sometimes deceit, and then if he has recourse to words, it is "falsehood," if it be mere words, "perjury" if he confirm his statement by oath; if he has recourse to deeds, and the deceit affects things, we have "fraud"; if persons, then we have "treachery," as in the case of Judas, who betrayed Christ through covetousness.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There is no need for the daughters of a capital sin to belong to that same kind of vice: because a sin of one kind allows of sins even of a different kind being directed to its end; seeing that it is one thing for a sin to have daughters, and another for it to have species.
 

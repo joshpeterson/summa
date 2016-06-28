@@ -5,9 +5,9 @@ We now consider what belongs to the unity or plurality in God; which gives rise 
 (2) Whether we can say that the Son is other than the Father?
 (3) Whether an exclusive term, which seems to exclude otherness, can be joined to an essential name in God?
 (4) Whether it can be joined to a personal term?
-# Whether There Is Trinity In God?
+## Whether There Is Trinity In God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem there is not trinity in God. For every name in God signifies substance or relation. But this name "Trinity" does not signify the substance; otherwise it would be predicated of each one of the persons: nor does it signify relation; for it does not express a name that refers to another. Therefore the word "Trinity" is not to be applied to God.
 
@@ -19,13 +19,13 @@ Objection 4: Further, all that exists in God exists in the unity of the divine e
 
 Objection 5: Further, in all that is said of God, the concrete is predicated of the abstract; for Deity is God and paternity is the Father. But the Trinity cannot be called trine; otherwise there would be nine realities in God; which, of course, is erroneous. Therefore the word trinity is not to be applied to God.
 
-## Answer
+### Answer
 
 On the contrary, Athanasius says: "Unity in Trinity; and Trinity in Unity is to be revered."
 
 I answer that, The name "Trinity" in God signifies the determinate number of persons. And so the plurality of persons in God requires that we should use the word trinity; because what is indeterminately signified by plurality, is signified by trinity in a determinate manner.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In its etymological sense, this word "Trinity" seems to signify the one essence of the three persons, according as trinity may mean trine-unity. But in the strict meaning of the term it rather signifies the number of persons of one essence; and on this account we cannot say that the Father is the Trinity, as He is not three persons. Yet it does not mean the relations themselves of the Persons, but rather the number of persons related to each other; and hence it is that the word in itself does not express regard to another.
 
@@ -36,9 +36,9 @@ Reply to Objection 3: "Trinity" is taken in an absolute sense; for it signifies 
 Reply to Objection 4: In the divine Trinity is to be understood both number and the persons numbered. So when we say, "Trinity in Unity," we do not place number in the unity of the essence, as if we meant three times one; but we place the Persons numbered in the unity of nature; as the "supposita" of a nature are said to exist in that nature. On the other hand, we say "Unity in Trinity"; meaning that the nature is in its "supposita."
 
 Reply to Objection 5: When we say, "Trinity is trine," by reason of the number implied, we signify the multiplication of that number by itself; since the word trine imports a distinction in the "supposita" of which it is spoken. Therefore it cannot be said that the Trinity is trine; otherwise it follows that, if the Trinity be trine, there would be three "supposita" of the Trinity; as when we say, "God is trine," it follows that there are three "supposita" of the Godhead.
-# Whether The Son Is Other Than The Father?
+## Whether The Son Is Other Than The Father?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Son is not other than the Father. For "other" is a relative term implying diversity of substance. If, then, the Son is other than the Father, He must be different from the Father; which is contrary to what Augustine says (De Trin. vii), that when we speak of three persons, "we do not mean to imply diversity."
 
@@ -48,7 +48,7 @@ Objection 3: Further, the term alien is taken from "alius" [other]. But the Son 
 
 Objection 4: Further, the terms "other person" and "other thing" [alius et aliud] have the same meaning, differing only in gender. So if the Son is another person from the Father, it follows that the Son is a thing apart from the Father.
 
-## Answer
+### Answer
 
 On the contrary, Augustine [*Fulgentius, De Fide ad Petrum i.] says: "There is one essence of the Father and Son and Holy Ghost, in which the Father is not one thing, the Son another, and the Holy Ghost another; although the Father is one person, the Son another, and the Holy Ghost another."
 
@@ -60,7 +60,7 @@ To avoid the heresy of Sabellius, we must shun the term "singularity," lest we t
 
 This word "other" [alius], however, in the masculine sense, means only a distinction of "suppositum"; and hence we can properly say that "the Son is other than the Father," because He is another "suppositum" of the divine nature, as He is another person and another hypostasis.
 
-## Replies
+### Replies
 
 Reply to Objection 1: "Other," being like the name of a particular thing, refers to the "suppositum"; and so, there is sufficient reason for using it, where there is a distinct substance in the sense of hypostasis or person. But diversity requires a distinct substance in the sense of essence. Thus we cannot say that the Son is diverse from the Father, although He is another.
 
@@ -69,9 +69,9 @@ Reply to Objection 2: "Difference" implies distinction of form. There is one for
 Reply to Objection 3: The term "alien" means what is extraneous and dissimilar; which is not expressed by the term "other" [alius]; and therefore we say that the Son is "other" than the Father, but not that He is anything "alien."
 
 Reply to Objection 4: The neuter gender is formless; whereas the masculine is formed and distinct; and so is the feminine. So the common essence is properly and aptly expressed by the neuter gender, but by the masculine and feminine is expressed the determined subject in the common nature. Hence also in human affairs, if we ask, Who is this man? we answer, Socrates, which is the name of the "suppositum"; whereas, if we ask, What is he? we reply, A rational and mortal animal. So, because in God distinction is by the persons, and not by the essence, we say that the Father is other than the Son, but not something else; while conversely we say that they are one thing, but not one person.
-# Whether The Exclusive Word "Alone" Should Be Added To The Essential Term In God?
+## Whether The Exclusive Word "Alone" Should Be Added To The Essential Term In God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the exclusive word "alone" [solus] is not to be added to an essential term in God. For, according to the Philosopher (Elench. ii, 3), "He is alone who is not with another." But God is with the angels and the souls of the saints. Therefore we cannot say that God is alone.
 
@@ -79,22 +79,22 @@ Objection 2: Further, whatever is joined to the essential term in God can be pre
 
 Objection 3: Further if this expression "alone" is joined to an essential term, it would be so joined as regards either the personal predicate or the essential predicate. But it cannot be the former, as it is false to say, "God alone is Father," since man also is a father; nor, again, can it be applied as regards the latter, for, if this saying were true, "God alone creates," it would follow that the "Father alone creates," as whatever is said of God can be said of the Father; and it would be false, as the Son also creates. Therefore this expression "alone" cannot be joined to an essential term in God.
 
-## Answer
+### Answer
 
 On the contrary, It is said, "To the King of ages, immortal, invisible, the only God" (1 Tim. 1:17).
 
 I answer that, This term "alone" can be taken as a categorematical term, or as a syncategorematical term. A categorematical term is one which ascribes absolutely its meaning to a given "suppositum"; as, for instance, "white" to man, as when we say a "white man." If the term "alone" is taken in this sense, it cannot in any way be joined to any term in God; for it would mean solitude in the term to which it is joined; and it would follow that God was solitary, against what is above stated [270](A[2]). A syncategorematical term imports the order of the predicate to the subject; as this expression "every one" or "no one"; and likewise the term "alone," as excluding every other "suppositum" from the predicate. Thus, when we say, "Socrates alone writes," we do not mean that Socrates is solitary, but that he has no companion in writing, though many others may be with him. In this way nothing prevents the term "alone" being joined to any essential term in God, as excluding the predicate from all things but God; as if we said "God alone is eternal," because nothing but God is eternal.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the angels and the souls of the saints are always with God, nevertheless, if plurality of persons did not exist in God, He would be alone or solitary. For solitude is not removed by association with anything that is extraneous in nature; thus anyone is said to be alone in a garden, though many plants and animals are with him in the garden. Likewise, God would be alone or solitary, though angels and men were with Him, supposing that several persons were not within Him. Therefore the society of angels and of souls does not take away absolute solitude from God; much less does it remove respective solitude, in reference to a predicate.
 
 Reply to Objection 2: This expression "alone," properly speaking, does not affect the predicate, which is taken formally, for it refers to the "suppositum," as excluding any other suppositum from the one which it qualifies. But the adverb "only," being exclusive, can be applied either to subject or predicate. For we can say, "Only Socrates"---that is, no one else---"runs: and Socrates runs only"---that is, he does nothing else. Hence it is not properly said that the Father is God alone, or the Trinity is God alone, unless some implied meaning be assumed in the predicate, as, for instance, "The Trinity is God Who alone is God." In that sense it can be true to say that the Father is that God Who alone is God, if the relative be referred to the predicate, and not to the "suppositum." So, when Augustine says that the Father is not God alone, but that the Trinity is God alone, he speaks expositively, as he might explain the words, "To the King of ages, invisible, the only God," as applying not to the Father, but to the Trinity alone.
 
 Reply to Objection 3: In both ways can the term "alone" be joined to an essential term. For this proposition, "God alone is Father," can mean two things, because the word "Father" can signify the person of the Father; and then it is true; for no man is that person: or it can signify that relation only; and thus it is false, because the relation of paternity is found also in others, though not in a univocal sense. Likewise it is true to say God alone creates; nor, does it follow, "therefore the Father alone creates," because, as logicians say, an exclusive diction so fixes the term to which it is joined that what is said exclusively of that term cannot be said exclusively of an individual contained in that term: for instance, from the premiss, "Man alone is a mortal rational animal," we cannot conclude, "therefore Socrates alone is such."
-# Whether An Exclusive Diction Can Be Joined To The Personal Term?
+## Whether An Exclusive Diction Can Be Joined To The Personal Term?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an exclusive diction can be joined to the personal term, even though the predicate is common. For our Lord speaking to the Father, said: "That they may know Thee, the only true God" (Jn. 17:3). Therefore the Father alone is true God.
 
@@ -104,13 +104,13 @@ Objection 3: Further, an exclusive diction does not exclude what enters into the
 
 Objection 4: Further, the Church sings: "Thou alone art Most High, O Jesus Christ."
 
-## Answer
+### Answer
 
 On the contrary, This proposition "The Father alone is God" includes two assertions---namely, that the Father is God, and that no other besides the Father is God. But this second proposition is false, for the Son is another from the Father, and He is God. Therefore this is false, The Father alone is God; and the same of the like sayings.
 
 I answer that, When we say, "The Father alone is God," such a proposition can be taken in several senses. If "alone" means solitude in the Father, it is false in a categorematical sense; but if taken in a syncategorematical sense it can again be understood in several ways. For if it exclude (all others) from the form of the subject, it is true, the sense being "the Father alone is God"---that is, "He who with no other is the Father, is God." In this way Augustine expounds when he says (De Trin. vi, 6): "We say the Father alone, not because He is separate from the Son, or from the Holy Ghost, but because they are not the Father together with Him." This, however, is not the usual way of speaking, unless we understand another implication, as though we said "He who alone is called the Father is God." But in the strict sense the exclusion affects the predicate. And thus the proposition is false if it excludes another in the masculine sense; but true if it excludes it in the neuter sense; because the Son is another person than the Father, but not another thing; and the same applies to the Holy Ghost. But because this diction "alone," properly speaking, refers to the subject, it tends to exclude another Person rather than other things. Hence such a way of speaking is not to be taken too literally, but it should be piously expounded, whenever we find it in an authentic work.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When we say, "Thee the only true God," we do not understand it as referring to the person of the Father, but to the whole Trinity, as Augustine expounds (De Trin. vi, 9). Or, if understood of the person of the Father, the other persons are not excluded by reason of the unity of essence; in so far as the word "only" excludes another thing, as above explained.
 

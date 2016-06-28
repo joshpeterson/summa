@@ -5,9 +5,9 @@ We must now consider human law; and (1) this law considered in itself; (2) its p
 (2) Its origin.
 (3) Its quality.
 (4) Its division.
-# Whether It Was Useful For Laws To Be Framed By Men?
+## Whether It Was Useful For Laws To Be Framed By Men?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was not useful for laws to be framed by men. Because the purpose of every law is that man be made good thereby, as stated above ([2024]Q[92], A[1]). But men are more to be induced to be good willingly by means of admonitions, than against their will, by means of laws. Therefore there was no need to frame laws.
 
@@ -15,22 +15,22 @@ Objection 2: Further, As the Philosopher says (Ethic. v, 4), "men have recourse 
 
 Objection 3: Further, every law is framed for the direction of human actions, as is evident from what has been stated above ([2025]Q[90], AA[1],2). But since human actions are about singulars, which are infinite in number, matter pertaining to the direction of human actions cannot be taken into sufficient consideration except by a wise man, who looks into each one of them. Therefore it would have been better for human acts to be directed by the judgment of wise men, than by the framing of laws. Therefore there was no need of human laws.
 
-## Answer
+### Answer
 
 On the contrary, Isidore says (Etym. v, 20): "Laws were made that in fear thereof human audacity might be held in check, that innocence might be safeguarded in the midst of wickedness, and that the dread of punishment might prevent the wicked from doing harm." But these things are most necessary to mankind. Therefore it was necessary that human laws should be made.
 
 I answer that, As stated above ([2026]Q[63], A[1];[2027] Q[94], A[3]), man has a natural aptitude for virtue; but the perfection of virtue must be acquired by man by means of some kind of training. Thus we observe that man is helped by industry in his necessities, for instance, in food and clothing. Certain beginnings of these he has from nature, viz. his reason and his hands; but he has not the full complement, as other animals have, to whom nature has given sufficiency of clothing and food. Now it is difficult to see how man could suffice for himself in the matter of this training: since the perfection of virtue consists chiefly in withdrawing man from undue pleasures, to which above all man is inclined, and especially the young, who are more capable of being trained. Consequently a man needs to receive this training from another, whereby to arrive at the perfection of virtue. And as to those young people who are inclined to acts of virtue, by their good natural disposition, or by custom, or rather by the gift of God, paternal training suffices, which is by admonitions. But since some are found to be depraved, and prone to vice, and not easily amenable to words, it was necessary for such to be restrained from evil by force and fear, in order that, at least, they might desist from evil-doing, and leave others in peace, and that they themselves, by being habituated in this way, might be brought to do willingly what hitherto they did from fear, and thus become virtuous. Now this kind of training, which compels through fear of punishment, is the discipline of laws. Therefore in order that man might have peace and virtue, it was necessary for laws to be framed: for, as the Philosopher says (Polit. i, 2), "as man is the most noble of animals if he be perfect in virtue, so is he the lowest of all, if he be severed from law and righteousness"; because man can use his reason to devise means of satisfying his lusts and evil passions, which other animals are unable to do.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Men who are well disposed are led willingly to virtue by being admonished better than by coercion: but men who are evilly disposed are not led to virtue unless they are compelled.
 
 Reply to Objection 2: As the Philosopher says (Rhet. i, 1), "it is better that all things be regulated by law, than left to be decided by judges": and this for three reasons. First, because it is easier to find a few wise men competent to frame right laws, than to find the many who would be necessary to judge aright of each single case. Secondly, because those who make laws consider long beforehand what laws to make; whereas judgment on each single case has to be pronounced as soon as it arises: and it is easier for man to see what is right, by taking many instances into consideration, than by considering one solitary fact. Thirdly, because lawgivers judge in the abstract and of future events; whereas those who sit in judgment of things present, towards which they are affected by love, hatred, or some kind of cupidity; wherefore their judgment is perverted.
 
 Reply to Objection 3: Certain individual facts which cannot be covered by the law "have necessarily to be committed to judges," as the Philosopher says in the same passage: for instance, "concerning something that has happened or not happened," and the like.
-# Whether Every Human Law Is Derived From The Natural Law?
+## Whether Every Human Law Is Derived From The Natural Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not every human law is derived from the natural law. For the Philosopher says (Ethic. v, 7) that "the legal just is that which originally was a matter of indifference." But those things which arise from the natural law are not matters of indifference. Therefore the enactments of human laws are not derived from the natural law.
 
@@ -40,7 +40,7 @@ Objection 3: Further, the law of nature is the same for all; since the Philosoph
 
 Objection 4: Further, it is possible to give a reason for things which are derived from the natural law. But "it is not possible to give the reason for all the legal enactments of the lawgivers," as the jurist says [*Pandect. Justin. lib. i, ff, tit. iii, v; De Leg. et Senat.]. Therefore not all human laws are derived from the natural law.
 
-## Answer
+### Answer
 
 On the contrary, Tully says (Rhet. ii): "Things which emanated from nature and were approved by custom, were sanctioned by fear and reverence for the laws."
 
@@ -50,7 +50,7 @@ But it must be noted that something may be derived from the natural law in two w
 
 Accordingly both modes of derivation are found in the human law. But those things which are derived in the first way, are contained in human law not as emanating therefrom exclusively, but have some force from the natural law also. But those things which are derived in the second way, have no other force than that of human law.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking of those enactments which are by way of determination or specification of the precepts of the natural law.
 
@@ -59,9 +59,9 @@ Reply to Objection 2: This argument avails for those things that are derived fro
 Reply to Objection 3: The general principles of the natural law cannot be applied to all men in the same way on account of the great variety of human affairs: and hence arises the diversity of positive laws among various people.
 
 Reply to Objection 4: These words of the Jurist are to be understood as referring to decisions of rulers in determining particular points of the natural law: on which determinations the judgment of expert and prudent men is based as on its principles; in so far, to wit, as they see at once what is the best thing to decide.
-# Whether Isidore's Description Of The Quality Of Positive Law Is Appropriate?
+## Whether Isidore's Description Of The Quality Of Positive Law Is Appropriate?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Isidore's description of the quality of positive law is not appropriate, when he says (Etym. v, 21): "Law shall be virtuous, just, possible to nature, according to the custom of the country, suitable to place and time, necessary, useful; clearly expressed, lest by its obscurity it lead to misunderstanding; framed for no private benefit, but for the common good." Because he had previously expressed the quality of law in three conditions, saying that "law is anything founded on reason, provided that it foster religion, be helpful to discipline, and further the common weal." Therefore it was needless to add any further conditions to these.
 
@@ -71,7 +71,7 @@ Objection 3: Further, written law is condivided with custom, according to Isidor
 
 Objection 4: Further, a thing may be necessary in two ways. It may be necessary simply, because it cannot be otherwise: and that which is necessary in this way, is not subject to human judgment, wherefore human law is not concerned with necessity of this kind. Again a thing may be necessary for an end: and this necessity is the same as usefulness. Therefore it is superfluous to say both "necessary" and "useful."
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Isidore.
 
@@ -80,9 +80,9 @@ I answer that, Whenever a thing is for an end, its form must be determined propo
 All the other conditions mentioned by him are reduced to these three. For it is called virtuous because it fosters religion. And when he goes on to say that it should be "just, possible to nature, according to the customs of the country, adapted to place and time," he implies that it should be helpful to discipline. For human discipline depends on first on the order of reason, to which he refers by saying "just": secondly, it depends on the ability of the agent; because discipline should be adapted to each one according to his ability, taking also into account the ability of nature (for the same burdens should be not laid on children as adults); and should be according to human customs; since man cannot live alone in society, paying no heed to others: thirdly, it depends on certain circumstances, in respect of which he says, "adapted to place and time." The remaining words, "necessary, useful," etc. mean that law should further the common weal: so that "necessity" refers to the removal of evils; "usefulness" to the attainment of good; "clearness of expression," to the need of preventing any harm ensuing from the law itself. And since, as stated above ([2031]Q[90], A[2]), law is ordained to the common good, this is expressed in the last part of the description.
 
 This suffices for the Replies to the Objections.
-# Whether Isidore's Division Of Human Laws Is Appropriate?
+## Whether Isidore's Division Of Human Laws Is Appropriate?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Isidore wrongly divided human statutes or human law (Etym. v, 4, seqq.). For under this law he includes the "law of nations," so called, because, as he says, "nearly all nations use it." But as he says, "natural law is that which is common to all nations." Therefore the law of nations is not contained under positive human law, but rather under natural law.
 
@@ -92,7 +92,7 @@ Objection 3: Further, just as, in the state, there are princes, priests and sold
 
 Objection 4: Further, those things that are accidental should be passed over. But it is accidental to law that it be framed by this or that man. Therefore it is unreasonable to divide laws according to the names of lawgivers, so that one be called the "Cornelian" law, another the "Falcidian" law, etc.
 
-## Answer
+### Answer
 
 On the contrary, The authority of Isidore (OBJ[1]) suffices.
 
@@ -104,6 +104,6 @@ Thirdly, it belongs to the notion of human law, to be framed by that one who gov
 
 Fourthly, it belongs to the notion of human law to direct human actions. In this respect, according to the various matters of which the law treats, there are various kinds of laws, which are sometimes named after their authors: thus we have the "Lex Julia" about adultery, the "Lex Cornelia" concerning assassins, and so on, differentiated in this way, not on account of the authors, but on account of the matters to which they refer.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The law of nations is indeed, in some way, natural to man, in so far as he is a reasonable being, because it is derived from the natural law by way of a conclusion that is not very remote from its premises. Wherefore men easily agreed thereto. Nevertheless it is distinct from the natural law, especially it is distinct from the natural law which is common to all animals.

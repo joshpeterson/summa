@@ -5,9 +5,9 @@ We must now consider the parts of prudence, under which head there are four poin
 (2) Of its integral parts;
 (3) Of its subjective parts;
 (4) Of its potential parts.
-# Whether Three Parts Of Prudence Are Fittingly Assigned?
+## Whether Three Parts Of Prudence Are Fittingly Assigned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the parts of prudence are assigned unfittingly. Tully (De Invent. Rhet. ii, 53) assigns three parts of prudence, namely, "memory," "understanding" and "foresight." Macrobius (In Somn. Scip. i) following the opinion of Plotinus ascribes to prudence six parts, namely, "reasoning," "understanding," "circumspection," "foresight," "docility" and "caution." Aristotle says (Ethic. vi, 9,10,11) that "good counsel," "synesis" and "gnome" belong to prudence. Again under the head of prudence he mentions "conjecture," "shrewdness," "sense" and "understanding." And another Greek philosopher [*Andronicus; Cf. Q[80], OBJ[4]] says that ten things are connected with prudence, namely, "good counsel," "shrewdness," "foresight," "regnative [*Regnativa]," "military," "political" and "domestic prudence," "dialectics," "rhetoric" and "physics." Therefore it seems that one or the other enumeration is either excessive or deficient.
 
@@ -19,7 +19,7 @@ Objection 4: Further, just as counselling, judging and commanding are acts of th
 
 Objection 5: Further, solicitude pertains to prudence, as stated above ([2766]Q[47], A[9]). Therefore solicitude also should have been mentioned among the parts of prudence.
 
-## Answer
+### Answer
 
 
 
@@ -31,7 +31,7 @@ If, however, prudence be taken in a wide sense, as including also speculative kn
 
 The potential parts of a virtue are the virtues connected with it, which are directed to certain secondary acts or matters, not having, as it were, the whole power of the principal virtue. In this way the parts of prudence are "good counsel," which concerns counsel, "synesis," which concerns judgment in matters of ordinary occurrence, and "gnome," which concerns judgment in matters of exception to the law: while "prudence" is about the chief act, viz. that of commanding.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The various enumerations differ, either because different kinds of parts are assigned, or because that which is mentioned in one enumeration includes several mentioned in another enumeration. Thus Tully includes "caution" and "circumspection" under "foresight," and "reasoning," "docility" and "shrewdness" under "understanding."
 

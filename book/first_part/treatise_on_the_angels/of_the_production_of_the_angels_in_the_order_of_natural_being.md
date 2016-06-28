@@ -5,9 +5,9 @@ After dealing with the nature of the angels, their knowledge and will, it now re
 (2) Whether he has existed from eternity?
 (3) Whether he was created before corporeal creatures?
 (4) Whether the angels were created in the empyrean heaven?
-# Whether The Angels Have A Cause Of Their Existence?
+## Whether The Angels Have A Cause Of Their Existence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels have no cause of their existence. For the first chapter of Genesis treats of things created by God. But there is no mention of angels. Therefore the angels were not created by God.
 
@@ -15,20 +15,20 @@ Objection 2: Further, the Philosopher says (Metaph. viii, text. 16) that if any 
 
 Objection 3: Further, whatever is produced by any agent, from the very fact of its being produced, receives form from it. But since the angels are forms, they do not derive their form from any agent. Therefore the angels have no active cause.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Ps. 148:2): "Praise ye Him, all His angels"; and further on, verse 5: "For He spoke and they were made."
 
 I answer that, It must be affirmed that angels and everything existing, except God, were made by God. God alone is His own existence; while in everything else the essence differs from the existence, as was shown above ([535]Q[3], A[4]). From this it is clear that God alone exists of His own essence: while all other things have their existence by participation. Now whatever exists by participation is caused by what exists essentially; as everything ignited is caused by fire. Consequently the angels, of necessity, were made by God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine says (De Civ. Dei xi, 50) that the angels were not passed over in that account of the first creation of things, but are designated by the name "heavens" or of "light." And they were either passed over, or else designated by the names of corporeal things, because Moses was addressing an uncultured people, as yet incapable of understanding an incorporeal nature; and if it had been divulged that there were creatures existing beyond corporeal nature, it would have proved to them an occasion of idolatry, to which they were inclined, and from which Moses especially meant to safeguard them.
 
 Reply to Objection 2: Substances that are subsisting forms have no 'formal' cause of their existence and unity, nor such active cause as produces its effect by changing the matter from a state of potentiality to actuality; but they have a cause productive of their entire substance.
-# Whether The Angel Was Produced By God From Eternity?
+## Whether The Angel Was Produced By God From Eternity?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angel was produced by God from eternity. For God is the cause of the angel by His being: for He does not act through something besides His essence. But His being is eternal. Therefore He produced the angels from eternity.
 
@@ -36,22 +36,22 @@ Objection 2: Further, everything which exists at one period and not at another, 
 
 Objection 3: Further, Augustine (De Trin. xiii) proves the soul's incorruptibility by the fact that the mind is capable of truth. But as truth is incorruptible, so is it eternal. Therefore the intellectual nature of the soul and of the angel is not only incorruptible, but likewise eternal.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Prov. 8:22), in the person of begotten Wisdom: "The Lord possessed me in the beginning of His ways, before He made anything from the beginning." But, as was shown above [536](A[1]), the angels were made by God. Therefore at one time the angels were not.
 
 I answer that, God alone, Father, Son and Holy Ghost, is from eternity. Catholic Faith holds this without doubt; and everything to the contrary must be rejected as heretical. For God so produced creatures that He made them "from nothing"; that is, after they had not been.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God's being is His will. So the fact that God produced the angels and other creatures by His being does not exclude that He made them also by His will. But, as was shown above ([537]Q[19], A[3]; [538]Q[46], A[1] ), God's will does not act by necessity in producing creatures. Therefore He produced such as He willed, and when He willed.
 
 Reply to Objection 2: An angel is above that time which is the measure of the movement of the heavens; because he is above every movement of a corporeal nature. Nevertheless he is not above time which is the measure of the succession of his existence after his non-existence, and which is also the measure of the succession which is in his operations. Hence Augustine says (Gen. ad lit. viii, 20,21) that "God moves the spiritual creature according to time."
 
 Reply to Objection 3: Angels and intelligent souls are incorruptible by the very fact of their having a nature whereby they are capable of truth. But they did not possess this nature from eternity; it was bestowed upon them when God Himself willed it. Consequently it does not follow that the angels existed from eternity.
-# Whether The Angels Were Created Before The Corporeal World?
+## Whether The Angels Were Created Before The Corporeal World?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels were created before the corporeal world. For Jerome says (In Ep. ad Tit. i, 2): "Six thousand years of our time have not yet elapsed; yet how shall we measure the time, how shall we count the ages, in which the Angels, Thrones, Dominations, and the other orders served God?" Damascene also says (De Fide Orth. ii): "Some say that the angels were begotten before all creation; as Gregory the Theologian declares, He first of all devised the angelic and heavenly powers, and the devising was the making thereof."
 
@@ -59,22 +59,22 @@ Objection 2: Further, the angelic nature stands midway between the Divine and th
 
 Objection 3: Further, the angelic nature is more remote from the corporeal nature than one corporeal nature is from another. But one corporeal nature was made before another; hence the six days of the production of things are set forth in the opening of Genesis. Much more, therefore, was the angelic nature made before every corporeal nature.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Gn. 1:1): "In the beginning God created heaven and earth." Now, this would not be true if anything had been created previously. Consequently the angels were not created before corporeal nature.
 
 I answer that, There is a twofold opinion on this point to be found in the writings of the Fathers. The more probable one holds that the angels were created at the same time as corporeal creatures. For the angels are part of the universe: they do not constitute a universe of themselves; but both they and corporeal natures unite in constituting one universe. This stands in evidence from the relationship of creature to creature; because the mutual relationship of creatures makes up the good of the universe. But no part is perfect if separate from the whole. Consequently it is improbable that God, Whose "works are perfect," as it is said Dt. 32:4, should have created the angelic creature before other creatures. At the same time the contrary is not to be deemed erroneous; especially on account of the opinion of Gregory Nazianzen, "whose authority in Christian doctrine is of such weight that no one has ever raised objection to his teaching, as is also the case with the doctrine of Athanasius," as Jerome says.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Jerome is speaking according to the teaching of the Greek Fathers; all of whom hold the creation of the angels to have taken place previously to that of the corporeal world.
 
 Reply to Objection 2: God is not a part of, but far above, the whole universe, possessing within Himself the entire perfection of the universe in a more eminent way. But an angel is a part of the universe. Hence the comparison does not hold.
 
 Reply to Objection 3: All corporeal creatures are one in matter; while the angels do not agree with them in matter. Consequently the creation of the matter of the corporeal creature involves in a manner the creation of all things; but the creation of the angels does not involve creation of the universe.
-# Whether The Angels Were Created In The Empyrean Heaven?
+## Whether The Angels Were Created In The Empyrean Heaven?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels were not created in the empyrean heaven. For the angels are incorporeal substances. Now a substance which is incorporeal is not dependent upon a body for its existence; and as a consequence, neither is it for its creation. Therefore the angels were not created in any corporeal place.
 
@@ -82,13 +82,13 @@ Objection 2: Further, Augustine remarks (Gen. ad lit. iii, 10), that the angels 
 
 Objection 3: Further, the empyrean heaven is said to be the highest heaven. If therefore the angels were created in the empyrean heaven, it would not beseem them to mount up to a still higher heaven. And this is contrary to what is said in Isaias, speaking in the person of the sinning angel: "I will ascend into heaven" (Is. 14:13).
 
-## Answer
+### Answer
 
 On the contrary, Strabus, commenting on the text "In the beginning God created heaven and earth," says: "By heaven he does not mean the visible firmament, but the empyrean, that is, the fiery or intellectual firmament, which is not so styled from its heat, but from its splendor; and which was filled with angels directly it was made."
 
 I answer that, As was observed [539](A[3]), the universe is made up of corporeal and spiritual creatures. Consequently spiritual creatures were so created as to bear some relationship to the corporeal creature, and to rule over every corporeal creature. Hence it was fitting for the angels to be created in the highest corporeal place, as presiding over all corporeal nature; whether it be styled the empyrean heaven, or whatever else it be called. So Isidore says that the highest heaven is the heaven of the angels, explaining the passage of Dt. 10:14: "Behold heaven is the Lord's thy God, and the heaven of heaven."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The angels were created in a corporeal place, not as if depending upon a body either as to their existence or as to their being made; because God could have created them before all corporeal creation, as many holy Doctors hold. They were made in a corporeal place in order to show their relationship to corporeal nature, and that they are by their power in touch with bodies.
 

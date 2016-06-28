@@ -4,9 +4,9 @@ We must now consider indulgence: (1) in itself; (2) those who grant indulgence; 
 (1) Whether an indulgence remits any part of the punishment due for the satisfaction of sins?
 (2) Whether indulgences are as effective as they claim to be?
 (3) Whether an indulgence should be granted for temporal assistance?
-# Whether An Indulgence Can Remit Any Part Of The Punishment Due For The Satisfaction Of Sins?
+## Whether An Indulgence Can Remit Any Part Of The Punishment Due For The Satisfaction Of Sins?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an indulgence cannot remit any part of the punishment due for the satisfaction of sins. Because a gloss on 2 Tim. 2:13, "He cannot deny Himself," says: "He would do this if He did not keep His word." Now He said (Dt. 25:2): "According to the measure of the sin shall the measure also of the stripes be." Therefore nothing can be remitted from the satisfactory punishment which is appointed according to the measure of sin.
 
@@ -16,7 +16,7 @@ Objection 3: Further, the granting of the sacramental effect without the sacrame
 
 Objection 4: Further, the power of the ministers of the Church was given them, not "unto destruction," but "unto edification" (2 Cor. 10:8). But it would be conducive to destruction, if satisfaction, which was intended for our good, inasmuch as it serves for a remedy, were done away with. Therefore the power of the ministers of the Church does not extend to this.
 
-## Answer
+### Answer
 
 On the contrary, It is written (2 Cor. 2:10): "For, what I have pardoned, if I have pardoned anything, for your sakes have I done it in the person of Christ," and a gloss adds: i.e. "as though Christ Himself had pardoned." But Christ could remit the punishment of a sin without any satisfaction, as evidenced in the case of the adulterous woman (Jn. 8). Therefore Paul could do so likewise. Therefore the Pope can too, since his power in the Church is not less than Paul's.
 
@@ -26,7 +26,7 @@ Hence we must say on the contrary that indulgences hold good both in the Church'
 
 Now one man can satisfy for another, as we have explained above ([4887]Q[13], A[2]). And the saints in whom this super-abundance of satisfactions is found, did not perform their good works for this or that particular person, who needs the remission of his punishment (else he would have received this remission without any indulgence at all), but they performed them for the whole Church in general, even as the Apostle declares that he fills up "those things that are wanting of the sufferings of Christ . . . for His body, which is the Church" to whom he wrote (Col. 1:24). These merits, then, are the common property of the whole Church. Now those things which are the common property of a number are distributed to the various individuals according to the judgment of him who rules them all. Hence, just as one man would obtain the remission of his punishment if another were to satisfy for him, so would he too if another's satisfactions be applied to him by one who has the power to do so.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The remission which is granted by means of indulgences does not destroy the proportion between punishment and sin, since someone has spontaneously taken upon himself the punishment due for another's guilt, as explained above.
 
@@ -35,9 +35,9 @@ Reply to Objection 2: He who gains an indulgence is not, strictly speaking, abso
 Reply to Objection 3: The effect of sacramental absolution is the removal of a man's guilt, an effect which is not produced by indulgences. But he who grants indulgences pays the debt of punishment which a man owes, out of the common stock of the Church's goods, as explained above.
 
 Reply to Objection 4: Grace affords a better remedy for the avoidance of sin than does habituation to (good) works. And since he who gains an indulgence is disposed to grace through the love which he conceives for the cause for which the indulgence is granted, it follows that indulgences provide a remedy against sin. Consequently it is not harmful to grant indulgences unless this be done without discretion. Nevertheless those who gain indulgences should be advised, not, on this account, to omit the penitential works imposed on them, so that they may derive a remedy from these also, even though they may be quit of the debt of punishment; and all the more, seeing that they are often more in debt than they think.
-# Whether Indulgences Are As Effective As They Claim To Be?
+## Whether Indulgences Are As Effective As They Claim To Be?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that indulgences are not as effective as they claim to be. For indulgences have no effect save from the power of the keys. Now by the power of the keys, he who has that power can only remit some fixed part of the punishment due for sin, after taking into account the measure of the sin and of the penitent's sorrow. Since then indulgences depend on the mere will of the grantor, it seems that they are not as effective as they claim to be.
 
@@ -49,7 +49,7 @@ Objection 4: Further, sometimes an indulgence is granted, so that for visiting a
 
 Objection 5: Further, to remit a man's punishment beyond a just estimate seems to amount to the same as to remit it without reason; because in so far as he exceeds that estimate, he limits the compensation. Now he who grants an indulgence cannot without cause remit a man's punishment either wholly or partly, even though the Pope were to say to anyone: "I remit to all the punishment you owe for your sins." Therefore it seems that he cannot remit anything beyond the just estimate. Now indulgences are often published which exceed that just estimate. Therefore they do not avail as much as is claimed for them.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Job 13:7): "Hath God any need of your lie, that you should speak deceitfully for Him?" Therefore the Church, in publishing indulgences, does not lie; and so they avail as much as is claimed for them.
 
@@ -63,7 +63,7 @@ We must therefore say otherwise that the quantity of an effect is proportionate 
 
 Hence, according to others, indulgences have precisely the efficacy claimed for them, provided that he who grants them have the authority, that the recipient have charity, and that, as regards the cause, there be piety which includes the honor of God and the profit of our neighbor. Nor in this view have we "too great a market of the Divine mercy" [*St. Bonaventure, Sent. iv, D, 20], as some maintain, nor again does it derogate from Divine justice, for no punishment is remitted, but the punishment of one is imputed to another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([4888]Q[19], A[3]) there are two keys, the key of orders and the key of jurisdiction. The key of orders is a sacramental: and as the effects of the sacraments are fixed, not by men but by God, the priest cannot decide in the tribunal of confession how much shall be remitted by means of the key of orders from the punishment due; it is God Who appoints the amount to be remitted. On the other hand the key of jurisdiction is not something sacramental, and its effect depends on a man's decision. The remission granted through indulgences is the effect of this key, since it does not belong to the dispensation of the sacraments, but to the distribution of the common property of the Church: hence it is that legates, even though they be not priests, can grant indulgences. Consequently the decision of how much punishment is to be remitted by an indulgence depends on the will of the one who grants that indulgence. If, however, he remits punishment without sufficient reason, so that men are enticed to substitute mere nothings, as it were, for works of penance, he sins by granting such indulgences, although the indulgence is gained fully.
 
@@ -74,15 +74,15 @@ Reply to Objection 3: When an indulgence is granted in a general way to anyone t
 Reply to Objection 4: A person who lives near the church, and the priest and clergy of the church, gain the indulgence as much as those who come perhaps a distance of a thousand days' journey: because the remission, as stated above, is proportionate, not to the toil, but to the merits which are applied. Yet he who toils most gains most merit. This, however, is to be understood of those cases in which an indulgence is given in an undeterminate manner. For sometimes a distinction is expressed: thus the Pope at the time of general absolution grants an indulgence of five years to those who come from across the seas, and one of three years to those who come from across the mountains, to others an indulgence of one year. Nor does a person gain the indulgence each time he visits the church during the term of indulgence, because sometimes it is granted for a fixed time; thus when it is said, "Whoever visits such and such a church until such and such a day, shall gain so much indulgence," we must understand that it can be gained only once. on the other hand if there be a continual indulgence in a certain church, as the indulgence of forty days to be gained in the church of the Blessed Peter, then a person gains the indulgence as often as he visits the church.
 
 Reply to Objection 5: An indulgence requires a cause, not as a measure of the remission of punishment, but in order that the intention of those whose merits are applied, may reach to this particular individual. Now one person's good is applied to another in two ways: first, by charity; and in this way, even without indulgences, a person shares in all the good deeds done, provided he have charity: secondly, by the intention of the person who does the good action; and in this way, provided there be a lawful cause, the intention of a person who has done something for the profit of the Church, may reach to some individual through indulgences.
-# Whether An Indulgence Ought To Be Granted For Temporal Help?
+## Whether An Indulgence Ought To Be Granted For Temporal Help?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an indulgence ought not to be granted for temporal help. Because the remission of sins is something spiritual. Now to exchange a spiritual for a temporal thing is simony. Therefore this ought not to be done.
 
 Objection 2: Further, spiritual assistance is more necessary than temporal. But indulgences do not appear to be granted for spiritual assistance. Much less therefore ought they to be granted for temporal help.
 
-## Answer
+### Answer
 
 On the contrary, stands the common custom of the Church in granting indulgences for pilgrimages and almsgiving.
 
@@ -90,6 +90,6 @@ I answer that, Temporal things are subordinate to spiritual matters, since we mu
 
 Hence the Reply to the First Objection is clear.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Indulgences can be, and sometimes are, granted even for purely spiritual matters. Thus Pope Innocent IV granted an indulgence of ten days to all who prayed for the king of France; and in like manner sometimes the same indulgence is granted to those who preach a crusade as to those who take part in it.

@@ -1,9 +1,9 @@
 # Of The Punishments Of The First Man's Sin
 
 We must now consider the punishments of the first sin; and under this head there are two points of inquiry: (1) Death, which is the common punishment; (2) the other particular punishments mentioned in Genesis.
-# Whether Death Is The Punishment Of Our First Parents' Sin?
+## Whether Death Is The Punishment Of Our First Parents' Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that death is not the punishment of our first parents' sin. For that which is natural to man cannot be called a punishment of sin, because sin does not perfect nature but vitiates it. Now death is natural to man: and this is evident both from the fact that his body is composed of contraries, and because "mortal" is included in the definition of man. Therefore death is not a punishment of our first parents' sin.
 
@@ -21,7 +21,7 @@ Objection 7: Further, punishment would seem to be painful. But death apparently 
 
 Objection 8: Further, if death were a punishment of sin, it would have followed sin immediately. But this is not true, for our first parents lived a long time after their sin (Gn. 5:5). Therefore, seemingly, death is not a punishment of sin.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 5:12): "By one man sin entered into this world, and by sin death."
 
@@ -29,7 +29,7 @@ I answer that, If any one, on account of his fault, be deprived of a favor besto
 
 It is therefore evident that as the rebellion of the carnal appetite against the spirit is a punishment of our first parents' sin, so also are death and all defects of the body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A thing is said to be natural if it proceeds from the principles of nature. Now the essential principles of nature are form and matter. The form of man is his rational soul, which is, of itself, immortal: wherefore death is not natural to man on the part of his form. The matter of man is a body such as is composed of contraries, of which corruptibility is a necessary consequence, and in this respect death is natural to man. Now this condition attached to the nature of the human body results from a natural necessity, since it was necessary for the human body to be the organ of touch, and consequently a mean between objects of touch: and this was impossible, were it not composed of contraries, as the Philosopher states (De Anima ii, 11). On the other hand, this condition is not attached to the adaptability of matter to form because, if it were possible, since the form is incorruptible, its matter should rather be incorruptible. In the same way a saw needs to be of iron, this being suitable to its form and action, so that its hardness may make it fit for cutting. But that it be liable to rust is a necessary result of such a matter and is not according to the agent's choice; for, if the craftsman were able, of the iron he would make a saw that would not rust. Now God Who is the author of man is all-powerful, wherefore when He first made man, He conferred on him the favor of being exempt from the necessity resulting from such a matter: which favor, however, was withdrawn through the sin of our first parents. Accordingly death is both natural on account of a condition attaching to matter, and penal on account of the loss of the Divine favor preserving man from death [*Cf. [3630]FS, Q[85], A[6]].
 
@@ -46,9 +46,9 @@ Reply to Objection 6: As Augustine says (De Civ. Dei xiii, 5), "just as the wick
 Reply to Objection 7: Death may be considered in two ways. First, as the privation of life, and thus death cannot be felt, since it is the privation of sense and life. In this way it involves not pain of sense but pain of loss. Secondly, it may be considered as denoting the corruption which ends in the aforesaid privation. Now we may speak of corruption even as of generation in two ways: in one way as being the term of alteration, and thus in the first instant in which life departs, death is said to be present. In this way also death has no pain of sense. In another way corruption may be taken as including the previous alteration: thus a person is said to die, when he is in motion towards death; just as a thing is said to be engendered, while in motion towards the state of having been engendered: and thus death may be painful.
 
 Reply to Objection 8: According to Augustine (Gen. ad lit. [*De Pecc. Mer. et Rem. i, 16. Cf. Gen. ad lit. ii. 32]), "although our first parents lived thereafter many years, they began to die on the day when they heard the death-decree, condemning them to decline to old age."
-# Whether The Particular Punishments Of Our First Parents Are Suitably Appointed In Scripture?
+## Whether The Particular Punishments Of Our First Parents Are Suitably Appointed In Scripture?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the particular punishments of our first parents are unsuitably appointed in Scripture. For that which would have occurred even without sin should not be described as a punishment for sin. Now seemingly there would have been "pain in child-bearing," even had there been no sin: for the disposition of the female sex is such that offspring cannot be born without pain to the bearer. Likewise the "subjection of woman to man" results from the perfection of the male, and the imperfection of the female sex. Again it belongs to the nature of the earth "to bring forth thorns and thistles," and this would have occurred even had there been no sin. Therefore these are unsuitable punishments of the first sin.
 
@@ -68,7 +68,7 @@ Objection 8: Further, clothes are necessary to man, like food, according to 1 Ti
 
 Objection 9: Further, the punishment inflicted for a sin should outweigh in evil the gain realized through the sin: else the punishment would not deter one from sinning. Now through sin our first parents gained in this, that their eyes were opened, according to Gn. 3:7. But this outweighs in good all the penal evils which are stated to have resulted from sin. Therefore the punishments resulting from our first parents' sin are unsuitably described.
 
-## Answer
+### Answer
 
 On the contrary, These punishments were appointed by God, Who does all things, "in number, weight, and measure [*Vulg.: 'Thou hast ordered all things in measure, and number, and weight.']" (Wis. 11:21).
 
@@ -78,7 +78,7 @@ Now, just as it belongs to the woman to be subject to her husband in matters rel
 
 Likewise a triple punishment is ascribed to them on the part of the soul. First, by reason of the confusion they experienced at the rebellion of the flesh against the spirit; hence it is written (Gn. 3:7): "The eyes of them both were opened; and . . . they perceived themselves to be naked." Secondly, by the reproach for their sin, indicated by the words (Gn. 3:22), "Behold Adam is become as one of Us." Thirdly, by the reminder of their coming death, when it was said to him (Gn. 3:19): "Dust thou art and into dust thou shalt return." To this also pertains that God made them garments of skin, as a sign of their mortality.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the state of innocence child-bearing would have been painless: for Augustine says (De Civ. Dei xiv, 26): "Just as, in giving birth, the mother would then be relieved not by groans of pain, but by the instigations of maturity, so in bearing and conceiving the union of both sexes would be one not of lustful desire but of deliberate action" [*Cf. [3634]FP, Q[98], A[2]].
 

@@ -3,9 +3,9 @@
 We have now to consider the causality of Christ's Resurrection, concerning which there are two points of inquiry:
 (1) Whether Christ's Resurrection is the cause of our resurrection?
 (2) Whether it is the cause of our justification?
-# Whether Christ's Resurrection Is The Cause Of The Resurrection Of Our Bodies?
+## Whether Christ's Resurrection Is The Cause Of The Resurrection Of Our Bodies?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's Resurrection is not the cause of the resurrection of our bodies, because, given a sufficient cause, the effect must follow of necessity. If, then, Christ's Resurrection be the sufficient cause of the resurrection of our bodies, then all the dead should have risen again as soon as He rose.
 
@@ -15,7 +15,7 @@ Objection 3: Further, if Christ's Resurrection be the cause of the resurrection 
 
 Objection 4: Further, since death is the privation of life, then to destroy death seems to be nothing else than to bring life back again; and this is resurrection. But "by dying, Christ destroyed our death" [*Preface of Mass in Paschal Time]. Consequently, Christ's death, not His Resurrection, is the cause of our resurrection.
 
-## Answer
+### Answer
 
 On the contrary, on 1 Cor. 15:12: "Now if Christ be preached, that He rose again from the dead," the gloss says: "Who is the efficient cause of our resurrection."
 
@@ -23,7 +23,7 @@ I answer that, As stated in 2 Metaphysics, text 4: "Whatever is first in any ord
 
 And this is reasonable. Because the principle of human life-giving is the Word of God, of whom it is said (Ps. 35:10): "With Thee is the fountain of life": hence He Himself says (Jn. 5:21): "As the Father raiseth up the dead, and giveth life; so the Son also giveth life to whom He will." Now the divinely established natural order is that every cause operates first upon what is nearest to it, and through it upon others which are more remote; just as fire first heats the nearest air, and through it it heats bodies that are further off: and God Himself first enlightens those substances which are closer to Him, and through them others that are more remote, as Dionysius says (Coel. Hier. xiii). Consequently, the Word of God first bestows immortal life upon that body which is naturally united with Himself, and through it works the resurrection in all other bodies.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As was stated above, Christ's Resurrection is the cause of ours through the power of the united Word, who operates according to His will. And consequently, it is not necessary for the effect to follow at once, but according as the Word of God disposes, namely, that first of all we be conformed to the suffering and dying Christ in this suffering and mortal life; and afterwards may come to share in the likeness of His Resurrection.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: God's justice is the first cause of our resurrection, wher
 Reply to Objection 3: Properly speaking, Christ's Resurrection is not the meritorious cause, but the efficient and exemplar cause of our resurrection. It is the efficient cause, inasmuch as Christ's humanity, according to which He rose again, is as it were the instrument of His Godhead, and works by Its power, as stated above ([4311]Q[13], AA[2],3). And therefore, just as all other things which Christ did and endured in His humanity are profitable to our salvation through the power of the Godhead, as already stated ([4312]Q[48], A[6]), so also is Christ's Resurrection the efficient cause of ours, through the Divine power whose office it is to quicken the dead; and this power by its presence is in touch with all places and times; and such virtual contact suffices for its efficiency. And since, as was stated above (ad 2), the primary cause of human resurrection is the Divine justice, from which Christ has "the power of passing judgment, because He is the Son of Man" (Jn. 5:27); the efficient power of His Resurrection extends to the good and wicked alike, who are subject to His judgment.
 
 Reply to Objection 4: Considered on the part of their efficiency, which is dependent on the Divine power, both Christ's death and His Resurrection are the cause both of the destruction of death and of the renewal of life: but considered as exemplar causes, Christ's death---by which He withdrew from mortal life---is the cause of the destruction of our death; while His Resurrection, whereby He inaugurated immortal life, is the cause of the repairing of our life. But Christ's Passion is furthermore a meritorious cause, as stated above ([4313]Q[48], A[1]).
-# Whether Christ's Resurrection Is The Cause Of The Resurrection Of Souls?
+## Whether Christ's Resurrection Is The Cause Of The Resurrection Of Souls?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's Resurrection is not the cause of the resurrection of souls, because Augustine says (Tract. xxiii super Joan.) that "bodies rise by His human dispensation, but souls rise by the Substance of God." But Christ's Resurrection does not belong to God's Substance, but to the dispensation of His humanity. Therefore, although Christ's Resurrection is the cause of bodies rising, nevertheless it does not seem to be the cause of the resurrection of souls.
 
@@ -44,13 +44,13 @@ Objection 3: Further, since Christ's Resurrection is the cause why bodies rise a
 
 Objection 4: Further, the resurrection of souls comes of the forgiveness of sins. But this was effected by Christ's Passion, according to Apoc. 1:5: "He washed us from our sins in His own blood." Consequently, Christ's Passion even more than His Resurrection is the cause of the resurrection of souls.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 4:25): "He rose again for our justification," which is nothing else than the resurrection of souls: and on Ps. 29:6: "In the evening weeping shall have place," the gloss says, "Christ's Resurrection is the cause of ours, both of the soul at present, and of the body in the future."
 
 I answer that, As stated above, Christ's Resurrection works in virtue of the Godhead; now this virtue extends not only to the resurrection of bodies, but also to that of souls: for it comes of God that the soul lives by grace, and that the body lives by the soul. Consequently, Christ's Resurrection has instrumentally an effective power not only with regard to the resurrection of bodies, but also with respect to the resurrection of souls. In like fashion it is an exemplar cause with regard to the resurrection of souls, because even in our souls we must be conformed with the rising Christ: as the Apostle says (Rom. 6:4-11) "Christ is risen from the dead by the glory of the Father, so we also may walk in newness of life": and as He, "rising again from the dead, dieth now no more, so let us reckon that we (Vulg.: 'you')" are dead to sin, that we may "live together with Him."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine says that the resurrection of souls is wrought by God's Substance, as to participation, because souls become good and just by sharing in the Divine goodness, but not by sharing in anything created. Accordingly, after saying that souls rise by the Divine Substance, he adds: the soul is beatified by a participation with God, and not by a participation with a holy soul. But our bodies are made glorious by sharing in the glory of Christ's body.
 

@@ -6,9 +6,9 @@ We must next consider God's justice and mercy towards the damned: under which he
 (3) Whether at least the punishment of men comes to an end?
 (4) Whether at least the punishment of Christians has an end?
 (5) Whether there is an end to the punishment of those who have performed works of mercy?
-# Whether By Divine Justice An Eternal Punishment Is Inflicted On Sinners?
+## Whether By Divine Justice An Eternal Punishment Is Inflicted On Sinners?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an eternal punishment is not inflicted on sinners by Divine justice. For the punishment should not exceed the fault: "According to the measure of the sin shall the measure also of the stripes be" (Dt. 25:2). Now fault is temporal. Therefore the punishment should not be eternal.
 
@@ -22,7 +22,7 @@ Objection 5: Further, "nothing accidental lasts for ever" (De Coelo et Mundo i).
 
 Objection 6: Further, the justice of God would seem to require that sinners should be brought to naught: because on account of ingratitude a person deserves to lose all benefits. and among other benefits of God there is "being" itself. Therefore it would seem just that the sinner who has been ungrateful to God should lose his being. But if sinners be brought to naught, their punishment cannot be everlasting. Therefore it would seem out of keeping with Divine justice that sinners should be punished for ever.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 25:46): "These," namely the wicked, "shall go into everlasting punishment."
 
@@ -30,7 +30,7 @@ I answer that, Since punishment is measured in two ways, namely according to the
 
 We find also other reasons given by the saints why some are justly condemned to everlasting punishment for a temporal sin. One is because they sinned against an eternal good by despising eternal life. This is mentioned by Augustine (De Civ. Dei. xii, 12): "He is become worthy of eternal evil, who destroyed in himself a good which could be eternal." Another reason is because man sinned in his own eternity [*Cf. [5175]FS, Q[87], A[3], ad 1]; wherefore Gregory says (Dial. iv), it belongs to the great justice of the judge that those should never cease to be punished, who in this life never ceased to desire sin. And if it be objected that some who sin mortally propose to amend their life at some time, and that these accordingly are seemingly not deserving of eternal punishment, it must be replied according to some that Gregory speaks of the will that is made manifest by the deed. For he who falls into mortal sin of his own will puts himself in a state whence he cannot be rescued, except God help him: wherefore from the very fact that he is willing to sin, he is willing to remain in sin for ever. For man is "a wind that goeth," namely to sin, "and returneth not by his own power" (Ps. 77:39). Thus if a man were to throw himself into a pit whence he could not get out without help, one might say that he wished to remain there for ever, whatever else he may have thought himself. Another and a better answer is that from the very fact that he commits a mortal sin, he places his end in a creature; and since the whole of life is directed to its end, it follows that for this very reason he directs the whole of his life to that sin, and is willing to remain in sin forever, if he could do so with impunity. This is what Gregory says on Job 41:23, "He shall esteem the deep as growing old" (Moral. xxxiv): "The wicked only put an end to sinning because their life came to an end: they would indeed have wished to live for ever, that they might continue in sin for ever for they desire rather to sin than to live." Still another reason may be given why the punishment of mortal sin is eternal: because thereby one offends God Who is infinite. Wherefore since punishment cannot be infinite in intensity, because the creature is incapable of an infinite quality, it must needs be infinite at least in duration. And again there is a fourth reason for the same: because guilt remains for ever, since it cannot be remitted without grace, and men cannot receive grace after death; nor should punishment cease so long as guilt remains.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Punishment has not to be equal to fault as to the amount of duration as is seen to be the case also with human laws. We may also reply with Gregory (Dial. xliv) that although sin is temporal in act, it is eternal in will.
 
@@ -43,9 +43,9 @@ Reply to Objection 4: The everlasting punishment of the wicked will not be altog
 Reply to Objection 5: Although the punishment relates to the soul accidentally, it relates essentially to the soul infected with guilt. And since guilt will remain in the soul for ever, its punishment also will be everlasting.
 
 Reply to Objection 6: Punishment corresponds to fault, properly speaking, in respect of the inordinateness in the fault, and not of the dignity in the person offended: for if the latter were the case, a punishment of infinite intensity would correspond to every sin. Accordingly, although a man deserves to lose his being from the fact that he has sinned against God the author of his being, yet, in view of the inordinateness of the act itself, loss of being is not due to him, since being is presupposed to merit and demerit, nor is being lost or corrupted by the inordinateness of sin [*Cf. [5177]FS, Q[85], A[1]]: and consequently privation of being cannot be the punishment due to any sin.
-# Whether By God's Mercy All Punishment Of The Damned, Both Men And Demons, Comes To An End?
+## Whether By God's Mercy All Punishment Of The Damned, Both Men And Demons, Comes To An End?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that by God's mercy all punishment of the damned, both men and demons, comes to an end. For it is written (Wis. 11:24): "Thou hast mercy upon all, O Lord, because Thou canst do all things." But among all things the demons also are included, since they are God's creatures. Therefore also their punishment will come to an end.
 
@@ -53,22 +53,22 @@ Objection 2: Further, "God hath concluded all in sin [Vulg.: 'unbelief'], that H
 
 Objection 3: Further, as Anselm says (Cur Deus Homo ii), "it is not just that God should permit the utter loss of a creature which He made for happiness." Therefore, since every rational creature was created for happiness, it would seem unjust for it to be allowed to perish altogether.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 25:41): "Depart from Me, you cursed, into everlasting fire, which is prepared for the devil and his angels." Therefore they will be punished eternally.
 
 I answer that, As Augustine says (De Civ. Dei xxi) Origen [*Cf. [5178]FP, Q[64], A[2]] "erred in maintaining that the demons will at length, through God's mercy, be delivered from their punishment." But this error has been condemned by the Church for two reasons. First because it is clearly contrary to the authority of Holy Writ (Apoc. 20:9,10): "The devil who seduced them was cast into the pool of fire and brimstone, where both the beasts and the false prophets [*Vulg.: 'the beast and false prophet,' etc.] shall be tormented day and night for ever and ever," which is the Scriptural expression for eternity. Secondly, because this opinion exaggerated God's mercy in one direction and depreciated it in another. For it would seem equally reasonable for the good angels to remain in eternal happiness, and for the wicked angels to be eternally punished. Wherefore just as he maintained that the demons and the souls of the damned are to be delivered at length from their sufferings, so he maintained that the angels and the souls of the blessed will at length pass from their happy state to the unhappiness of this life.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God, for His own part, has mercy on all. Since, however, His mercy is ruled by the order of His wisdom, the result is that it does not reach to certain people who render themselves unworthy of that mercy, as do the demons and the damned who are obstinate in wickedness. And yet we may say that even in them His mercy finds a place, in so far as they are punished less than they deserve condignly, but not that they are entirely delivered from punishment.
 
 Reply to Objection 2: In the words quoted the distribution (of the predicate) regards the genera and not the individuals: so that the statement applies to men in the state of wayfarer, inasmuch as He had mercy both on Jews and on Gentiles, but not on every Gentile or every Jew.
 
 Reply to Objection 3: Anselm means that it is not just in the sense of becoming God's goodness, and is speaking of the creature generically. For it becomes not the Divine goodness that a whole genus of creature fail of the end for which it was made: wherefore it is unbecoming for all men or all angels to be damned. But there is no reason why some men or some angels should perish for ever, because the intention of the Divine will is fulfilled in the others who are saved.
-# Whether God's Mercy Suffers At Least Men To Be Punished Eternally?
+## Whether God's Mercy Suffers At Least Men To Be Punished Eternally?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God's mercy does not suffer at least men to be punished eternally. For it is written (Gn. 6:3): "My spirit shall not remain in man for ever because he is flesh"; where "spirit" denotes indignation, as a gloss observes. Therefore, since God's indignation is not distinct from His punishment, man will not be punished eternally.
 
@@ -80,13 +80,13 @@ Objection 4: Further, the words of Ps. 76:8 are to the point, where it is said: 
 
 Objection 5: Further, a gloss on Is. 14:19, "But thou art cast out," etc. says: "Even though all souls shall have rest at last, thou never shalt": and it refers to the devil. Therefore it would seem that all human souls shall at length have rest from their pains.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 25:46) of the elect conjointly with the damned: "These shall go into everlasting punishment: but the just, into life everlasting." But it is inadmissible that the life of the just will ever have an end. Therefore it is inadmissible that the punishment of the damned will ever come to an end.
 
 I answer that, As Augustine says (De Civ. Dei xxi, 17,18), some evaded the error of Origen by asserting that the demons are punished everlastingly, while holding that all men, even unbelievers, are at length set free from punishment. But this statement is altogether unreasonable. For just as the demons are obstinate in wickedness and therefore have to be punished for ever, so too are the souls of men who die without charity, since "death is to men what their fall was to the angels," as Damascene says.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This saying refers to man generically, because God's indignation was at length removed from the human race by the coming of Christ. But those who were unwilling to be included or to remain in this reconciliation effected by Christ, perpetuated the Divine anger in themselves, since no other way of reconciliation is given to us save that which is through Christ.
 
@@ -97,9 +97,9 @@ Reply to Objection 3: A punishment threatened prophetically is only then commute
 Reply to Objection 4: These words of the Psalm refer to the vessels of mercy, which have not made themselves unworthy of mercy, because in this life (which may be called God's anger on account of its unhappiness) He changes vessels of mercy into something better. Hence the Psalm continues (Ps. 76:11): "This is the change of the right hand of the most High." We may also reply that they refer to mercy as granting a relaxation but not setting free altogether if it be referred also to the damned. Hence the Psalm does not say: "Will He from His anger shut up His mercies?" but "in His anger," because the punishment will not be done away entirely; but His mercy will have effect by diminishing the punishment while it continues.
 
 Reply to Objection 5: This gloss is speaking not absolutely but on an impossible supposition in order to throw into relief the greatness of the devil's sin, or of Nabuchodonosor's.
-# Whether The Punishment Of Christians Is Brought To An End By The Mercy Of God?
+## Whether The Punishment Of Christians Is Brought To An End By The Mercy Of God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that at least the punishment of Christians is brought to an end by the mercy of God. "For he that believeth and is baptized shall be saved" (Mk. 16:16). Now this applies to every Christian. Therefore all Christians will at length be saved.
 
@@ -107,22 +107,22 @@ Objection 2: Further, it is written (Jn. 6:55): "He that eateth My body and drin
 
 Objection 3: Further, "If any man's work burn, he shall suffer loss: but he himself shall be saved, yet so as by fire" (1 Cor. 3:15), where it is a question of those who have the foundation of the Christian faith. Therefore all such persons will be saved in the end.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 6:9): "The unjust shall not possess the kingdom of God." Now some Christians are unjust. Therefore Christians will not all come to the kingdom of God, and consequently they will be punished for ever.
 
 I answer that, According to Augustine (De Civ. Dei xxi, 20,21), there have been some who predicted a delivery from eternal punishment not for all men, but only for Christians. although they stated the matter in different ways. For some said that whoever received the sacraments of faith would be immune from eternal punishment. But this is contrary to the truth, since some receive the sacraments of faith, and yet have not faith, without which "it is impossible to please God" (Heb. 11:6). Wherefore others said that those alone will be exempt from eternal punishment who have received the sacraments of faith, and professed the Catholic faith. But against this it would seem to be that at one time some people profess the Catholic faith, and afterwards abandon it, and these are deserving not of a lesser but of a greater punishment, since according to 2 Pet. 2:21, "it had been better for them not to have known the way of justice than, after they have known it, to turn back." Moreover it is clear that heresiarchs who renounce the Catholic faith and invent new heresies sin more grievously than those who have conformed to some heresy from the first. And therefore some have maintained that those alone are exempt from eternal punishment, who persevere to the end in the Catholic faith, however guilty they may have been of other crimes. But this is clearly contrary to Holy Writ, for it is written (James 2:20): "Faith without works is dead," and (Mat. 7:21) "Not every one that saith to Me, Lord, Lord, shall enter into the kingdom of heaven: but he that doth the will of My Father Who is in heaven": and in many other passages Holy Scripture threatens sinners with eternal punishment. Consequently those who persevere in the faith unto the end will not all be exempt from eternal punishment, unless in the end they prove to be free from other crimes.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Our Lord speaks there of formed faith [*Cf. [5180]SS, Q[4], A[3]] "that worketh by love [Vulg.: 'charity'; Gal. 5:6]": wherein whosoever dieth shall be saved. But to this faith not only is the error of unbelief opposed, but also any mortal sin whatsoever.
 
 Reply to Objection 2: The saying of our Lord refers not to those who partake only sacramentally, and who sometimes by receiving unworthily "eat and drink judgment" to themselves (1 Cor. 11:29), but to those who eat spiritually and are incorporated with Him by charity, which incorporation is the effect of the sacramental eating, in those who approach worthily [*Cf. [5181]TP, Q[80], AA[1],2,3]. Wherefore, so far as the power of the sacrament is concerned, it brings us to eternal life, although sin may deprive us of that fruit, even after we have received worthily.
 
 Reply to Objection 3: In this passage of the Apostle the foundation denotes formed faith, upon which whosoever shall build venial sins [*Cf. [5182]FS, Q[89], A[2]] "shall suffer loss," because he will be punished for them by God; yet "he himself shall be saved" in the end "by fire," either of temporal tribulation, or of the punishment of purgatory which will be after death.
-# Whether All Those Who Perform Works Of Mercy Will Be Punished Eternally?
+## Whether All Those Who Perform Works Of Mercy Will Be Punished Eternally?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all who perform works of mercy will not be punished eternally, but only those who neglect those works. For it is written (James 2:13): "Judgment without mercy to him that hath not done mercy"; and (Mat. 5:7): "Blessed are the merciful for they shall obtain mercy."
 
@@ -132,13 +132,13 @@ Objection 3: Further, it is written (Mat. 6:12): "Forgive us our debts, as we al
 
 Objection 4: Further, a gloss of Ambrose on 1 Tim. 4:8, "Godliness is profitable to all things," says: "The sum total of a Christian's rule of life consists in mercy and godliness. Let a man follow this, and though he should suffer from the inconstancy of the flesh, without doubt he will be scourged, but he will not perish: whereas he who can boast of no other exercise but that of the body will suffer everlasting punishment." Therefore those who persevere in works of mercy, though they be shackled with fleshly sins, will not be punished eternally: and thus the same conclusion follows as before.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 6:9,10): "Neither fornicators . . . nor adulterers," etc. "shall possess the kingdom of God." Yet many are such who practice works of mercy. Therefore the merciful will not all come to the eternal kingdom: and consequently some of them will be punished eternally.
 
 I answer that, As Augustine says in the book quoted above (De Civ. Dei xxi, 22), some have maintained that not all who have professed the Catholic faith will be freed from eternal punishment, but only those who persevere in works of mercy, although they be guilty of other crimes. But this cannot stand, because without charity nothing can be acceptable to God, nor does anything profit unto eternal life in the absence of charity. Now it happens that certain persons persevere in works of mercy without having charity. Wherefore nothing profits them to the meriting of eternal life, or to exemption from eternal punishment, as may be gathered from 1 Cor. 13:3. Most evident is this in the case of those who lay hands on other people's property, for after seizing on many things, they nevertheless spend something in works of mercy. We must therefore conclude that all whosoever die in mortal sin, neither faith nor works of mercy will free them from eternal punishment, not even after any length of time whatever.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Those will obtain mercy who show mercy in an ordinate manner. But those who while merciful to others are neglectful of themselves do not show mercy ordinately, rather do they strike at themselves by their evil actions. Wherefore such persons will not obtain the mercy that sets free altogether, even if they obtain that mercy which rebates somewhat their due punishment.
 

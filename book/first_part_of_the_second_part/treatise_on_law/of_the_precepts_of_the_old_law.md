@@ -7,9 +7,9 @@ We must now consider the precepts of the Old Law; and (1) how they are distingui
 (4) Whether besides these it contains judicial precepts?
 (5) Whether it contains any others besides these?
 (6) How the Old Law induced men to keep its precepts.
-# Whether The Old Law Contains Only One Precept?
+## Whether The Old Law Contains Only One Precept?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law contains but one precept. Because a law is nothing else than a precept, as stated above ([2070]Q[90], AA[2],3). Now there is but one Old Law. Therefore it contains but one precept.
 
@@ -17,22 +17,22 @@ Objection 2: Further, the Apostle says (Rom. 13:9): "If there be any other comma
 
 Objection 3: Further, it is written (Mat. 7:12): "All things . . . whatsoever you would that men should do to you, do you also to them. For this is the Law and the prophets." But the whole of the Old Law is comprised in the Law and the prophets. Therefore the whole of the Old Law contains but one commandment.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Eph. 2:15): "Making void the Law of commandments contained in decrees": where he is referring to the Old Law, as the gloss comments, on the passage. Therefore the Old Law comprises many commandments.
 
 I answer that, Since a precept of law is binding, it is about something which must be done: and, that a thing must be done, arises from the necessity of some end. Hence it is evident that a precept implies, in its very idea, relation to an end, in so far as a thing is commanded as being necessary or expedient to an end. Now many things may happen to be necessary or expedient to an end; and, accordingly, precepts may be given about various things as being ordained to one end. Consequently we must say that all the precepts of the Old Law are one in respect of their relation to one end: and yet they are many in respect of the diversity of those things that are ordained to that end.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Old Law is said to be one as being ordained to one end: yet it comprises various precepts, according to the diversity of the things which it directs to the end. Thus also the art of building is one according to the unity of its end, because it aims at the building of a house: and yet it contains various rules, according to the variety of acts ordained thereto.
 
 Reply to Objection 2: As the Apostle says (1 Tim. 1:5), "the end of the commandment is charity"; since every law aims at establishing friendship, either between man and man, or between man and God. Wherefore the whole Law is comprised in this one commandment, "Thou shalt love thy neighbor as thyself," as expressing the end of all commandments: because love of one's neighbor includes love of God, when we love our neighbor for God's sake. Hence the Apostle put this commandment in place of the two which are about the love of God and of one's neighbor, and of which Our Lord said (Mat. 22:40): "On these two commandments dependeth the whole Law and the prophets."
 
 Reply to Objection 3: As stated in Ethic. ix, 8, "friendship towards another arises from friendship towards oneself," in so far as man looks on another as on himself. Hence when it is said, "All things whatsoever you would that men should do to you, do you also to them," this is an explanation of the rule of neighborly love contained implicitly in the words, "Thou shalt love thy neighbor as thyself": so that it is an explanation of this commandment.
-# Whether The Old Law Contains Moral Precepts?
+## Whether The Old Law Contains Moral Precepts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law contains no moral precepts. For the Old Law is distinct from the law of nature, as stated above ([2071]Q[91], AA[4],5;[2072] Q[98], A[5]). But the moral precepts belong to the law of nature. Therefore they do not belong to the Old Law.
 
@@ -40,22 +40,22 @@ Objection 2: Further, the Divine Law should have come to man's assistance where 
 
 Objection 3: Further, the Old Law is said to be "the letter that killeth" (2 Cor. 3:6). But the moral precepts do not kill, but quicken, according to Ps. 118:93: "Thy justifications I will never forget, for by them Thou hast given me life." Therefore the moral precepts do not belong to the Old Law.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 17:9): "Moreover, He gave them discipline [Douay: 'instructions'] and the law of life for an inheritance." Now discipline belongs to morals; for this gloss on Heb. 12:11: "Now all chastisement [disciplina]," etc., says: "Discipline is an exercise in morals by means of difficulties." Therefore the Law which was given by God comprised moral precepts.
 
 I answer that, The Old Law contained some moral precepts; as is evident fromEx. 20:13, 15: "Thou shalt not kill, Thou shalt not steal." This was reasonable: because, just as the principal intention of human law is to created friendship between man and man; so the chief intention of the Divine law is to establish man in friendship with God. Now since likeness is the reason of love, according to Ecclus. 13:19: "Every beast loveth its like"; there cannot possibly be any friendship of man to God, Who is supremely good, unless man become good: wherefore it is written (Lev. 19:2; 11:45): "You shall be holy, for I am holy." But the goodness of man is virtue, which "makes its possessor good" (Ethic. ii, 6). Therefore it was necessary for the Old Law to include precepts about acts of virtue: and these are the moral precepts of the Law.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Old Law is distinct from the natural law, not as being altogether different from it, but as something added thereto. For just as grace presupposes nature, so must the Divine law presuppose the natural law.
 
 Reply to Objection 2: It was fitting that the Divine law should come to man's assistance not only in those things for which reason is insufficient, but also in those things in which human reason may happen to be impeded. Now human reason could not go astray in the abstract, as to the universal principles of the natural law; but through being habituated to sin, it became obscured in the point of things to be done in detail. But with regard to the other moral precepts, which are like conclusions drawn from the universal principles of the natural law, the reason of many men went astray, to the extend of judging to be lawful, things that are evil in themselves. Hence there was need for the authority of the Divine law to rescue man from both these defects. Thus among the articles of faith not only are those things set forth to which reason cannot reach, such as the Trinity of the Godhead; but also those to which right reason can attain, such as the Unity of the Godhead; in order to remove the manifold errors to which reason is liable.
 
 Reply to Objection 3: As Augustine proves (De Spiritu et Litera xiv), even the letter of the law is said to be the occasion of death, as to the moral precepts; in so far as, to wit, it prescribes what is good, without furnishing the aid of grace for its fulfilment.
-# Whether The Old Law Comprises Ceremonial, Besides Moral, Precepts?
+## Whether The Old Law Comprises Ceremonial, Besides Moral, Precepts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law does not comprise ceremonial, besides moral, precepts. For every law that is given to man is for the purpose of directing human actions. Now human actions are called moral, as stated above ([2073]Q[1], A[3]). Therefore it seems that the Old Law given to men should not comprise other than moral precepts.
 
@@ -63,22 +63,22 @@ Objection 2: Further, those precepts that are styled ceremonial seem to refer to
 
 Objection 3: Further, the ceremonial precepts seem to be those which signify something figuratively. But, as Augustine observes (De Doctr. Christ. ii, 3,4), "of all signs employed by men words hold the first place." Therefore there is no need for the Law to contain ceremonial precepts about certain figurative actions.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 4:13,14): "Ten words . . . He wrote in two tables of stone; and He commanded me at that time that I should teach you the ceremonies and judgments which you shall do." But the ten commandments of the Law are moral precepts. Therefore besides the moral precepts there are others which are ceremonial.
 
 I answer that, As stated above [2075](A[2]), the Divine law is instituted chiefly in order to direct men to God; while human law is instituted chiefly in order to direct men in relation to one another. Hence human laws have not concerned themselves with the institution of anything relating to Divine worship except as affecting the common good of mankind: and for this reason they have devised many institutions relating to Divine matters, according as it seemed expedient for the formation of human morals; as may be seen in the rites of the Gentiles. On the other hand the Divine law directed men to one another according to the demands of that order whereby man is directed to God, which order was the chief aim of that law. Now man is directed to God not only by the interior acts of the mind, which are faith, hope, and love, but also by certain external works, whereby man makes profession of his subjection to God: and it is these works that are said to belong to the Divine worship. This worship is called "ceremony" [the munia, i.e. gifts] of Ceres (who was the goddess of fruits), as some say: because, at first, offerings were made to God from the fruits: or because, as Valerius Maximus states [*Fact. et Dict. Memor. i, 1], the word "ceremony" was introduced among the Latins, to signify the Divine worship, being derived from a town near Rome called "Caere": since, when Rome was taken by the Gauls, the sacred chattels of the Romans were taken thither and most carefully preserved. Accordingly those precepts of the Law which refer to the Divine worship are specially called ceremonial.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Human acts extend also to the Divine worship: and therefore the Old Law given to man contains precepts about these matters also.
 
 Reply to Objection 2: As stated above ([2076]Q[91], A[3]), the precepts of the natural law are general, and require to be determined: and they are determined both by human law and by Divine law. And just as these very determinations which are made by human law are said to be, not of natural, but of positive law; so the determinations of the precepts of the natural law, effected by the Divine law, are distinct from the moral precepts which belong to the natural law. Wherefore to worship God, since it is an act of virtue, belongs to a moral precept; but the determination of this precept, namely that He is to be worshipped by such and such sacrifices, and such and such offerings, belongs to the ceremonial precepts. Consequently the ceremonial precepts are distinct from the moral precepts.
 
 Reply to Objection 3: As Dionysius says (Coel. Hier. i), the things of God cannot be manifested to men except by means of sensible similitudes. Now these similitudes move the soul more when they are not only expressed in words, but also offered to the senses. Wherefore the things of God are set forth in the Scriptures not only by similitudes expressed in words, as in the case of metaphorical expressions; but also by similitudes of things set before the eyes, which pertains to the ceremonial precepts.
-# Whether, Besides The Moral And Ceremonial Precepts, There Are Also Judicial Precepts?
+## Whether, Besides The Moral And Ceremonial Precepts, There Are Also Judicial Precepts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are no judicial precepts in addition to the moral and ceremonial precepts in the Old Law. For Augustine says (Contra Faust. vi, 2) that in the Old Law there are "precepts concerning the life we have to lead, and precepts regarding the life that is foreshadowed." Now the precepts of the life we have to lead are moral precepts; and the precepts of the life that is foreshadowed are ceremonial. Therefore besides these two kinds of precepts we should not put any judicial precepts in the Law.
 
@@ -86,7 +86,7 @@ Objection 2: Further, a gloss on Ps. 118:102, "I have not declined from Thy judg
 
 Objection 3: Further, judgment seems to be an act of justice, according to Ps. 93:15: "Until justice be turned into judgment." But acts of justice, like the acts of other virtues, belong to the moral precepts. Therefore the moral precepts include the judicial precepts, and consequently should not be held as distinct from them.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 6:1): "These are the precepts and ceremonies, and judgments": where "precepts" stands for "moral precepts" antonomastically. Therefore there are judicial precepts besides moral and ceremonial precepts.
 
@@ -94,16 +94,16 @@ I answer that, As stated above ([2077]AA[2],3), it belongs to the Divine law to 
 
 We must therefore distinguish three kinds of precept in the Old Law; viz. "moral" precepts, which are dictated by the natural law; "ceremonial" precepts, which are determinations of the Divine worship; and "judicial" precepts, which are determinations of the justice to be maintained among men. Wherefore the Apostle (Rom. 7:12) after saying that the "Law is holy," adds that "the commandment is just, and holy, and good": "just," in respect of the judicial precepts; "holy," with regard to the ceremonial precepts (since the word "sanctus"---"holy"---is applied to that which is consecrated to God); and "good," i.e. conducive to virtue, as to the moral precepts.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Both the moral and the judicial precepts aim at the ordering of human life: and consequently they are both comprised under one of the heads mentioned by Augustine, viz. under the precepts of the life we have to lead.
 
 Reply to Objection 2: Judgment denotes execution of justice, by an application of the reason to individual cases in a determinate way. Hence the judicial precepts have something in common with the moral precepts, in that they are derived from reason; and something in common with the ceremonial precepts, in that they are determinations of general precepts. This explains why sometimes "judgments" comprise both judicial and moral precepts, as in Dt. 5:1: "Hear, O Israel, the ceremonies and judgments"; and sometimes judicial and ceremonial precepts, as in Lev. 18:4: "You shall do My judgments, and shall observe My precepts," where "precepts" denotes moral precepts, while "judgments" refers to judicial and ceremonial precepts.
 
 Reply to Objection 3: The act of justice, in general, belongs to the moral precepts; but its determination to some special kind of act belongs to the judicial precepts.
-# Whether The Old Law Contains Any Others Besides The Moral, Judicial, And Ceremonial Precepts?
+## Whether The Old Law Contains Any Others Besides The Moral, Judicial, And Ceremonial Precepts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law contains others besides the moral, judicial, and ceremonial precepts. Because the judicial precepts belong to the act of justice, which is between man and man; while the ceremonial precepts belong to the act of religion, whereby God is worshipped. Now besides these there are many other virtues, viz. temperance, fortitude, liberality, and several others, as stated above ([2078]Q[60], A[5]). Therefore besides the aforesaid precepts, the Old Law should comprise others.
 
@@ -113,7 +113,7 @@ Objection 3: Further, it is written (Dt. 6:17): "Keep the precepts of the Lord t
 
 Objection 4: Further, it is written (Ps. 118:93): "Thy justifications (i.e. "Thy Law," according to a gloss) I will never forget." Therefore in the Old Law there are not only moral, ceremonial and judicial precepts, but also others, called "justifications."
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 6:1): "These are the precepts and ceremonies and judgments which the Lord your God commanded . . . you." And these words are placed at the beginning of the Law. Therefore all the precepts of the Law are included under them.
 
@@ -127,12 +127,12 @@ Nevertheless those ordinances also which refer to punishments and rewards may be
 
 From this it is clear that all the precepts of the Law are either moral, ceremonial, or judicial; and that other ordinances have not the character of a precept, but are directed to the observance of the precepts, as stated above.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Justice alone, of all the virtues, implies the notion of duty. Consequently moral matters are determinable by law in so far as they belong to justice: of which virtue religion is a part, as Tully says (De Invent. ii). Wherefore the legal just cannot be anything foreign to the ceremonial and judicial precepts.
-# Whether The Old Law Should Have Induced Men To The Observance Of Its Precepts, By Means Of Temporal Promises And Threats?
+## Whether The Old Law Should Have Induced Men To The Observance Of Its Precepts, By Means Of Temporal Promises And Threats?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law should not have induced men to the observance of its precepts, by means of temporal promises and threats. For the purpose of the Divine law is to subject man to God by fear and love: hence it is written (Dt. 10:12): "And now, Israel, what doth the Lord thy God require of thee, but that thou fear the Lord thy God, and walk in His ways, and love Him?" But the desire for temporal goods leads man away from God: for Augustine says (Qq. lxxxiii, qu. 36), that "covetousness is the bane of charity." Therefore temporal promises and threats seem to be contrary to the intention of a lawgiver: and this makes a law worthy of rejection, as the Philosopher declares (Polit. ii, 6).
 
@@ -140,13 +140,13 @@ Objection 2: Further, the Divine law is more excellent than human law. Now, in s
 
 Objection 3: Further, the reward of righteousness and the punishment of guilt cannot be that which befalls equally the good and the wicked. But as stated in Eccles. 9:2, "all" temporal "things equally happen to the just and to the wicked, to the good and the evil, to the clean and to the unclean, to him that offereth victims, and to him that despiseth sacrifices." Therefore temporal goods or evils are not suitably set forth as punishments or rewards of the commandments of the Divine law.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 1:19,20): "If you be willing, and will hearken to Me, you shall eat the good things of the land. But if you will not, and will provoke Me to wrath: the sword shall devour you."
 
 I answer that, As in speculative sciences men are persuaded to assent to the conclusions by means of syllogistic arguments, so too in every law, men are persuaded to observe its precepts by means of punishments and rewards. Now it is to be observed that, in speculative sciences, the means of persuasion are adapted to the conditions of the pupil: wherefore the process of argument in sciences should be ordered becomingly, so that the instruction is based on principles more generally known. And thus also he who would persuade a man to the observance of any precepts, needs to move him at first by things for which he has an affection; just as children are induced to do something, by means of little childish gifts. Now it has been said above ([2080]Q[98], AA[1],2,3) that the Old Law disposed men to (the coming of) Christ, as the imperfect in comparison disposes to the perfect, wherefore it was given to a people as yet imperfect in comparison to the perfection which was to result from Christ's coming: and for this reason, that people is compared to a child that is still under a pedagogue (Gal. 3:24). But the perfection of man consists in his despising temporal things and cleaving to things spiritual, as is clear from the words of the Apostle (Phil. 3:13, 15): "Forgetting the things that are behind, I stretch [Vulg.: 'and stretching'] forth myself to those that are before . . . Let us therefore, as many as are perfect, be thus minded." Those who are yet imperfect desire temporal goods, albeit in subordination to God: whereas the perverse place their end in temporalities. It was therefore fitting that the Old Law should conduct men to God by means of temporal goods for which the imperfect have an affection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Covetousness whereby man places his end in temporalities, is the bane of charity. But the attainment of temporal goods which man desires in subordination to God is a road leading the imperfect to the love of God, according to Ps. 48:19: "He will praise Thee, when Thou shalt do well to him."
 

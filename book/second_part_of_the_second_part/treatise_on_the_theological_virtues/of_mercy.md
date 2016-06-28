@@ -5,9 +5,9 @@
 (2) To whom does it belong to pity?
 (3) Whether mercy is a virtue?
 (4) Whether it is the greatest of virtues?
-# Whether Evil Is Properly The Motive Of Mercy?
+## Whether Evil Is Properly The Motive Of Mercy?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that, properly speaking, evil is not the motive of mercy. For, as shown above (Q[19], A[1]; [2590]FS, Q[79], A[1], ad 4; [2591]FP, Q[48] , A[6]), fault is an evil rather than punishment. Now fault provokes indignation rather than mercy. Therefore evil does not excite mercy.
 
@@ -15,7 +15,7 @@ Objection 2: Further, cruelty and harshness seem to excel other evils. Now the P
 
 Objection 3: Further, signs of evils are not true evils. But signs of evils excite one to mercy, as the Philosopher states (Rhet. ii, 8). Therefore evil, properly speaking, is not an incentive to mercy.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. ii, 2) that mercy is a kind of sorrow. Now evil is the motive of sorrow. Therefore it is the motive of mercy.
 
@@ -25,16 +25,16 @@ Now a man wishes a thing in three ways: first, by his natural appetite; thus all
 
 Accordingly the motive of "mercy," being something pertaining to "misery," is, in the first way, anything contrary to the will's natural appetite, namely corruptive or distressing evils, the contrary of which man desires naturally, wherefore the Philosopher says (Rhet. ii, 8) that "pity is sorrow for a visible evil, whether corruptive or distressing." Secondly, such like evils are yet more provocative of pity if they are contrary to deliberate choice, wherefore the Philosopher says (Rhet. ii, 8) that evil excites our pity "when it is the result of an accident, as when something turns out ill, whereas we hoped well of it." Thirdly, they cause yet greater pity, if they are entirely contrary to the will, as when evil befalls a man who has always striven to do well: wherefore the Philosopher says (Rhet. ii, 8) that "we pity most the distress of one who suffers undeservedly."
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is essential to fault that it be voluntary; and in this respect it deserves punishment rather than mercy. Since, however, fault may be, in a way, a punishment, through having something connected with it that is against the sinner's will, it may, in this respect, call for mercy. It is in this sense that we pity and commiserate sinners. Thus Gregory says in a homily (Hom. in Evang. xxxiv) that "true godliness is not disdainful but compassionate," and again it is written (Mat. 9:36) that Jesus "seeing the multitudes, had compassion on them: because they were distressed, and lying like sheep that have no shepherd."
 
 Reply to Objection 2: Since pity is sympathy for another's distress, it is directed, properly speaking, towards another, and not to oneself, except figuratively, like justice, according as a man is considered to have various parts (Ethic. v, 11). Thus it is written (Ecclus. 30:24): "Have pity on thy own soul, pleasing God" [*Cf.[2592] Q[106], A[3], ad 1].
 
 Reply to Objection 3: Just as pleasure results from hope and memory of good things, so does sorrow arise from the prospect or the recollection of evil things; though not so keenly as when they are present to the senses. Hence the signs of evil move us to pity, in so far as they represent as present, the evil that excites our pity.
-# Whether The Reason For Taking Pity Is A Defect In The Person Who Pities?
+## Whether The Reason For Taking Pity Is A Defect In The Person Who Pities?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the reason for taking pity is not a defect in the person who takes pity. For it is proper to God to be merciful, wherefore it is written (Ps. 144:9): "His tender mercies are over all His works." But there is no defect in God. Therefore a defect cannot be the reason for taking pity.
 
@@ -42,7 +42,7 @@ Objection 2: Further, if a defect is the reason for taking pity, those in whom t
 
 Objection 3: Further, to be treated with contempt is to be defective. But the Philosopher says (Rhet. ii, 8) that "those who are disposed to contumely are pitiless." Therefore the reason for taking pity, is not a defect in the person who pities.
 
-## Answer
+### Answer
 
 On the contrary, Pity is a kind of sorrow. But a defect is the reason of sorrow, wherefore those who are in bad health give way to sorrow more easily, as we shall say further on ([2593]Q[35], A[1], ad 2). Therefore the reason why one takes pity is a defect in oneself.
 
@@ -54,16 +54,16 @@ Secondly, it happens through real union, for instance when another's evil comes 
 
 Accordingly a defect is always the reason for taking pity, either because one looks upon another's defect as one's own, through being united to him by love, or on account of the possibility of suffering in the same way.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God takes pity on us through love alone, in as much as He loves us as belonging to Him.
 
 Reply to Objection 2: Those who are already in infinite distress, do not fear to suffer more, wherefore they are without pity. In like manner this applies to those also who are in great fear, for they are so intent on their own passion, that they pay no attention to the suffering of others.
 
 Reply to Objection 3: Those who are disposed to contumely, whether through having been contemned, or because they wish to contemn others, are incited to anger and daring, which are manly passions and arouse the human spirit to attempt difficult things. Hence they make a man think that he is going to suffer something in the future, so that while they are disposed in that way they are pitiless, according to Prov. 27:4: "Anger hath no mercy, nor fury when it breaketh forth." For the same reason the proud are without pity, because they despise others, and think them wicked, so that they account them as suffering deservedly whatever they suffer. Hence Gregory says (Hom. in Evang. xxxiv) that "false godliness," i.e. of the proud, "is not compassionate but disdainful."
-# Whether Mercy Is A Virtue?
+## Whether Mercy Is A Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that mercy is not a virtue. For the chief part of virtue is choice as the Philosopher states (Ethic. ii, 5). Now choice is "the desire of what has been already counselled" (Ethic. iii, 2). Therefore whatever hinders counsel cannot be called a virtue. But mercy hinders counsel, according to the saying of Sallust (Catilin.): "All those that take counsel about matters of doubt, should be free from . . . anger . . . and mercy, because the mind does not easily see aright, when these things stand in the way." Therefore mercy is not a virtue.
 
@@ -73,13 +73,13 @@ Objection 3: Further, joy and peace are not special virtues, because they result
 
 Objection 4: Further, since mercy belongs to the appetitive power, it is not an intellectual virtue, and, since it has not God for its object, neither is it a theological virtue. Moreover it is not a moral virtue, because neither is it about operations, for this belongs to justice; nor is it about passions, since it is not reduced to one of the twelve means mentioned by the Philosopher (Ethic. ii, 7). Therefore mercy is not a virtue.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei ix, 5): "Cicero in praising Caesar expresses himself much better and in a fashion at once more humane and more in accordance with religious feeling, when he says: 'Of all thy virtues none is more marvelous or more graceful than thy mercy.'" Therefore mercy is a virtue.
 
 I answer that, Mercy signifies grief for another's distress. Now this grief may denote, in one way, a movement of the sensitive appetite, in which case mercy is not a virtue but a passion; whereas, in another way, it may denote a movement of the intellective appetite, in as much as one person's evil is displeasing to another. This movement may be ruled in accordance with reason, and in accordance with this movement regulated by reason, the movement of the lower appetite may be regulated. Hence Augustine says (De Civ. Dei ix, 5) that "this movement of the mind" (viz. mercy) "obeys the reason, when mercy is vouchsafed in such a way that justice is safeguarded, whether we give to the needy or forgive the repentant." And since it is essential to human virtue that the movements of the soul should be regulated by reason, as was shown above ([2597]FS, Q[59], AA[4],5), it follows that mercy is a virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The words of Sallust are to be understood as applying to the mercy which is a passion unregulated by reason: for thus it impedes the counselling of reason, by making it wander from justice.
 
@@ -88,9 +88,9 @@ Reply to Objection 2: The Philosopher is speaking there of pity and nemesis, con
 Reply to Objection 3: Joy and peace add nothing to the aspect of good which is the object of charity, wherefore they do not require any other virtue besides charity. But mercy regards a certain special aspect, namely the misery of the person pitied.
 
 Reply to Objection 4: Mercy, considered as a virtue, is a moral virtue having relation to the passions, and it is reduced to the mean called nemesis, because "they both proceed from the same character" (Rhet. ii, 9). Now the Philosopher proposes these means not as virtues, but as passions, because, even as passions, they are praiseworthy. Yet nothing prevents them from proceeding from some elective habit, in which case they assume the character of a virtue.
-# Whether Mercy Is The Greatest Of The Virtues?
+## Whether Mercy Is The Greatest Of The Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that mercy is the greatest of the virtues. For the worship of God seems a most virtuous act. But mercy is preferred before the worship of God, according to Osee 6:6 and Mat. 12:7: "I have desired mercy and not sacrifice." Therefore mercy is the greatest virtue.
 
@@ -98,7 +98,7 @@ Objection 2: Further, on the words of 1 Tim. 4:8: "Godliness is profitable to al
 
 Objection 3: Further, "Virtue is that which makes its subject good," according to the Philosopher. Therefore the more a virtue makes a man like God, the better is that virtue: since man is the better for being more like God. Now this is chiefly the result of mercy, since of God is it said (Ps. 144:9) that "His tender mercies are over all His works," and (Lk. 6:36) Our Lord said: "Be ye . . . merciful, as your Father also is merciful." Therefore mercy is the greatest of virtues.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle after saying (Col. 3:12): "Put ye on . . . as the elect of God . . . the bowels of mercy," etc., adds (Col. 3:14): "Above all things have charity." Therefore mercy is not the greatest of virtues.
 
@@ -106,7 +106,7 @@ I answer that, A virtue may take precedence of others in two ways: first, in its
 
 On the other hand, with regard to its subject, mercy is not the greatest virtue, unless that subject be greater than all others, surpassed by none and excelling all: since for him that has anyone above him it is better to be united to that which is above than to supply the defect of that which is beneath. [*"The quality of mercy is not strained./'Tis mightiest in the mightiest: it becomes/The throned monarch better than his crown." Merchant of Venice, Act IV, Scene i.]. Hence, as regards man, who has God above him, charity which unites him to God, is greater than mercy, whereby he supplies the defects of his neighbor. But of all the virtues which relate to our neighbor, mercy is the greatest, even as its act surpasses all others, since it belongs to one who is higher and better to supply the defect of another, in so far as the latter is deficient.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We worship God by external sacrifices and gifts, not for His own profit, but for that of ourselves and our neighbor. For He needs not our sacrifices, but wishes them to be offered to Him, in order to arouse our devotion and to profit our neighbor. Hence mercy, whereby we supply others' defects is a sacrifice more acceptable to Him, as conducing more directly to our neighbor's well-being, according to Heb. 13:16: "Do not forget to do good and to impart, for by such sacrifices God's favor is obtained."
 

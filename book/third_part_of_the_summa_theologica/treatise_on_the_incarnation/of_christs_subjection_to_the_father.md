@@ -3,9 +3,9 @@
 We must now consider such things as belong to Christ in relation to the Father. Some of these things are predicated of Him because of His relation to the Father, e.g. that He was subject to Him, that He prayed to Him, that He ministered, to Him by priesthood. And some are predicated, or may be predicated, of Him because of the Father's relation to Him, e.g. that the Father adopted Him and that He predestined Him.  Hence we must consider (1) Christ's subjection to the Father; (2) His prayer; (3) His priesthood; (4) Adoption---whether it is becoming to Him; (5) His predestination.  Under the first head there are two points of inquiry:
 (1) Whether Christ is subject to the Father?
 (2) Whether He is subject to Himself?
-# Whether We May Say That Christ Is Subject To The Father?
+## Whether We May Say That Christ Is Subject To The Father?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that we may not say that Christ was subject to the Father. For everything subject to the Father is a creature, since, as is said in De Eccles. Dogm. iv, "in the Trinity there is no dependence or subjection." But we cannot say simply that Christ is a creature, as was stated above ([4095]Q[16], A[8]). Therefore we cannot say simply that Christ is subject to God the Father.
 
@@ -13,22 +13,22 @@ Objection 2: Further, a thing is said to be subject to God when it is subservien
 
 Objection 3: Further, it is written (1 Cor. 15:28): "And when all things shall be subdued unto Him, then the Son also Himself shall be subject unto Him that put all things under Him." But, as is written (Heb. 2:8): "We see not as yet all things subject to Him." Hence He is not yet subject to the Father, Who has subjected all things to Him.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord says (Jn. 14:28), "The Father is greater than I"; and Augustine says (De Trin. i, 7): "It is not without reason that the Scripture mentions both, that the Son is equal to the Father and the Father greater than the Son, for the first is said on account of the form of God, and the second on account of the form of a servant, without any confusion." Now the less is subject to the greater. Therefore in the form of a servant Christ is subject to the Father.
 
 I answer that, Whoever has a nature is competent to have what is proper to that nature. Now human nature from its beginning has a threefold subjection to God. The first regards the degree of goodness, inasmuch as the Divine Nature is the very essence of goodness as is clear from Dionysius (Div. Nom. i) while a created nature has a participation of the Divine goodness, being subject, so to say, to the rays of this goodness. Secondly, human nature is subject to God, as regards God's power, inasmuch as human nature, even as every creature, is subject to the operation of the Divine ordinance. Thirdly, human nature is especially subject to God through its proper act, inasmuch as by its own will it obeys His command. This triple subjection to God Christ professes of Himself. The first (Mat. 19:17): "Why askest thou Me concerning good? One is good, God." And on this Jerome remarks: "He who had called Him a good master, and had not confessed Him to be God or the Son of God, learns that no man, however holy, is good in comparison with God." And hereby He gave us to understand that He Himself, in His human nature, did not attain to the height of Divine goodness. And because "in such things as are great, but not in bulk, to be great is the same as to be good," as Augustine says (De Trin. vi, 8), for this reason the Father is said to be greater than Christ in His human nature. The second subjection is attributed to Christ, inasmuch as all that befell Christ is believed to have happened by Divine appointment; hence Dionysius says (Coel. Hier. iv) that Christ "is subject to the ordinance of God the Father." And this is the subjection of subservience, whereby "every creature serves God" (Judith 16:17), being subject to His ordinance, according to Wis. 16:24: "The creature serving Thee the Creator." And in this way the Son of God (Phil. 2:7) is said to have taken "the form of a servant." The third subjection He attributes to Himself, saying (Jn. 8:29): "I do always the things that please Him." And this is the subjection to the Father, of obedience unto death. Hence it is written (Phil. 2:8) that he became "obedient" to the Father "unto death."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As we are not to understand that Christ is a creature simply, but only in His human nature, whether this qualification be added or not, as stated above ([4096]Q[16], A[8]), so also we are to understand that Christ is subject to the Father not simply but in His human nature, even if this qualification be not added; and yet it is better to add this qualification in order to avoid the error of Arius, who held the Son to be less than the Father.
 
 Reply to Objection 2: The relation of subservience and dominion is based upon action and passion, inasmuch as it belongs to a servant to be moved by the will of his master. Now to act is not attributed to the nature as agent, but to the person, since "acts belong to supposita and to singulars," according to the Philosopher (Metaph. i, 1). Nevertheless action is attributed to the nature as to that whereby the person or hypostasis acts. Hence, although the nature is not properly said to rule or serve, yet every hypostasis or person may be properly said to be ruling or serving in this or that nature. And in this way nothing prevents Christ being subject or servant to the Father in human nature.
 
 Reply to Objection 3: As Augustine says (De Trin. i, 8): "Christ will give the kingdom to God and the Father, when He has brought the faithful, over whom He now reigns by faith, to the vision," i.e. to see the essence common to the Father and the Son: and then He will be totally subject to the Father not only in Himself, but also in His members by the full participation of the Godhead. And then all things will be fully subject to Him by the final accomplishment of His will concerning them; although even now all things are subject to Him as regards His power, according to Mat. 28:18: "All power is given to Me in heaven and in earth."
-# Whether Christ Is Subject To Himself?
+## Whether Christ Is Subject To Himself?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ is not subject to Himself. For Cyril says in a synodal letter which the Council of Ephesus (Part I, ch. xxvi) received: "Christ is neither servant nor master of Himself. It is foolish, or rather impious, to think or say this." And Damascene says the same (De Fide Orth. iii, 21): "The one Being, Christ, cannot be the servant or master of Himself." Now Christ is said to be the servant of the Father inasmuch as He is subject to Him. Hence Christ is not subject to Himself.
 
@@ -36,7 +36,7 @@ Objection 2: Further, servant has reference to master. Now nothing has a relatio
 
 Objection 3: Further, "as the rational soul and flesh are one man; so God and man are one Christ," as Athanasius says (Symb. Fid.). Now man is not said to be subject to himself or servant to himself or greater than himself because his body is subject to his soul. Therefore, Christ is not said to be subject to Himself because His Manhood is subject to His Godhead.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. i, 7): "Truth shows in this way" (i.e. whereby the Father is greater than Christ in human nature) "that the Son is less than Himself."
 
@@ -44,7 +44,7 @@ I answer that, As was said above (A[1], ad 2), to be master or servant is attrib
 
 Yet it must be borne in mind that since this name "Christ" is the name of a Person, even as the name "Son," those things can be predicated essentially and absolutely of Christ which belong to Him by reason of the Person, Which is eternal; and especially those relations which seem more properly to pertain to the Person or the hypostasis. But whatever pertains to Him in His human nature is rather to be attributed to Him with a qualification; so that we say that Christ is simply greatest, Lord, Ruler, whereas to be subject or servant or less is to be attributed to Him with the qualification, in His human nature.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Cyril and Damascene deny that Christ is the head of Himself inasmuch as this implies a plurality of supposita, which is required in order that anyone may be the master of another.
 

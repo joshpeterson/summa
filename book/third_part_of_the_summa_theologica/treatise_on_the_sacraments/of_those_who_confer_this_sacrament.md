@@ -3,9 +3,9 @@
 We must now consider those who confer this sacrament. Under this head there are two points of inquiry:
 (1) Whether a bishop alone can confer this sacrament?
 (2) Whether a heretic or any other person cut off from the Church can confer this sacrament?
-# Whether A Bishop Alone Confers The Sacrament Of Order?
+## Whether A Bishop Alone Confers The Sacrament Of Order?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not only a bishop confers the sacrament of Order. For the imposition of hands has something to do with the consecration. Now not only the bishop but also the assisting priests lay hands on the priests who are being ordained. Therefore not only a bishop confers the sacrament of Order.
 
@@ -17,13 +17,13 @@ Objection 4: Further, whoever is entrusted with the principal is entrusted with 
 
 Objection 5: Further, there is a greater distinction between a priest and a deacon than between bishop and bishop. But a bishop can consecrate a bishop. Therefore a priest can ordain a deacon.
 
-## Answer
+### Answer
 
 On the contrary, Ministers are applied by their Orders to the Divine worship in a more noble way than the sacred vessels. But the consecration of the vessels belongs to a bishop only. Much more therefore does the consecration of ministers.
 
 I answer that, The episcopal power stands in the same relation to the power of the lower Orders, as political science, which seeks the common good, to the lower acts and virtues which seek some special good, as appears from what was said above ([4911]Q[37], A[1]). Now political science, as stated in Ethic. i, 2, lays down the law to lower sciences, namely what science each one ought to cultivate, and how far he should pursue it and in what way. Wherefore it belongs to a bishop to assign others to places in all the Divine services. Hence he alone confirms, because those who are confirmed receive the office, as it were, of confessing the faith; again he alone blesses virgins who are images of the Church, Christ's spouse, the care of which is entrusted chiefly to him; and he it is who consecrates the candidates for ordination to the ministry of Orders, and, by his consecration, appoints the vessels that they are to use; even as secular offices in various cities are allotted by him who holds the highest power, for instance by the king.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([4912]Q[37], A[5]), at the imposition of hands there is given, not the character of the priestly Order, but grace which makes a man fit to exercise his Order. And since those who are raised to the priesthood need most copious grace, the priests together with the bishop lay hands on them, but the bishop alone lays hands on deacons.
 
@@ -34,9 +34,9 @@ Reply to Objection 3: The Pope, who has the fulness of episcopal power, can entr
 Reply to Objection 4: Although the Eucharist is in itself the greatest of the sacraments, it does not place a man in an office as does the sacrament of Order. Hence the comparison fails.
 
 Reply to Objection 5: In order to bestow what one has on another, it is necessary not only to be near him but also to have fulness of power. And since a priest has not fulness of power in the hierarchical offices, as a bishop has, it does not follow that he can raise others to the diaconate, although the latter Order is near to his.
-# Whether Heretics And Those Who Are Cut Off From The Church Can Confer Orders?
+## Whether Heretics And Those Who Are Cut Off From The Church Can Confer Orders?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that heretics and those who are cut off from the Church cannot confer Orders. For to confer Orders is a greater thing than to loose or bind anyone. But a heretic cannot loose or bind. Neither therefore can he ordain.
 
@@ -48,13 +48,13 @@ Objection 4: Further, the sacraments derive their efficacy from Christ's passion
 
 Objection 5: Further, a blessing is necessary in the conferring of Orders. But a heretic cannot bless; in fact his blessing is turned into a curse, as appears from the authorities quoted in the text (Sent. iv, D, 25). Therefore he cannot ordain.
 
-## Answer
+### Answer
 
 On the contrary, When a bishop who has fallen into heresy is reconciled he is not reconsecrated. Therefore he did not lose the power which he had of conferring Orders.
 
 I answer that, on this question four opinions are mentioned in the text (Sent. iv, D, 25). For some said that heretics, so long as they are tolerated by the Church, retain the power to ordain, but not after they have been cut off from the Church; as neither do those who have been degraded and the like. This is the first opinion. Yet this is impossible, because, happen what may, no power that is given with a consecration can be taken away so long as the thing itself remains, any more than the consecration itself can be annulled, for even an altar or chrism once consecrated remains consecrated for ever. Wherefore, since the episcopal power is conferred by consecration, it must needs endure for ever, however much a man may sin or be cut off from the Church. For this reason others said that those who are cut off from the Church after having episcopal power in the Church, retain the power to ordain and raise others, but that those who are raised by them have not this power. This is the fourth opinion. But this again is impossible, for if those who were ordained in the Church retain the power they received, it is clear that by exercising their power they consecrate validly, and therefore they validly confer whatever power is given with that consecration, and thus those who receive ordination or promotion from them have the same power as they. Wherefore others said that even those who are cut off from the Church can confer Orders and the other sacraments, provided they observe the due form and intention, both as to the first effect, which is the conferring of the sacrament, and as to the ultimate effect which is the conferring of grace. This is the second opinion. But this again is inadmissible, since by the very fact that a person communicates in the sacraments with a heretic who is cut off from the Church, he sins, and thus approaches the sacrament insincerely and cannot obtain grace, except perhaps in Baptism in a case of necessity. Hence others say that they confer the sacraments validly, but do not confer grace with them, not that the sacraments are lacking in efficacy, but on account of the sins of those who receive the sacraments from such persons despite the prohibition of the Church. This is the third and the true opinion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The effect of absolution is nothing else but the forgiveness of sins which results from grace, and consequently a heretic cannot absolve, as neither can he confer grace in the sacraments. Moreover in order to give absolution it is necessary to have jurisdiction, which one who is cut off from the Church has not.
 

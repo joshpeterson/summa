@@ -7,9 +7,9 @@ We have now to consider the action of the corporeal creature; and fate, which is
 (4) Whether they are the cause of human acts?
 (5) Whether demons are subject to their influence?
 (6) Whether the heavenly bodies impose necessity on those things which are subject to their influence?
-# Whether A Body Can Be Active?
+## Whether A Body Can Be Active?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no bodies are active. For Augustine says (De Civ. Dei v, 9): "There are things that are acted upon, but do not act; such are bodies: there is one Who acts but is not acted upon; this is God: there are things that both act and are acted upon; these are the spiritual substances."
 
@@ -21,7 +21,7 @@ Objection 4: Further, the power of action in every agent is according to its pro
 
 Objection 5: Further, if a body is an agent, the term of its action is either a substantial, or an accidental form. But it is not a substantial form; for it is not possible to find in a body any principle of action, save an active quality, which is an accident; and an accident cannot be the cause of a substantial form, since the cause is always more excellent than the effect. Likewise, neither is it an accidental form, for "an accident does not extend beyond its subject," as Augustine says (De Trin. ix, 4). Therefore no bodies are active.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Coel. Hier. xv) that among other qualities of corporeal fire, "it shows its greatness in its action and power on that of which it lays hold."
 
@@ -35,7 +35,7 @@ The third opinion is that of Democritus, who held that action takes place throug
 
 We must therefore say that a body acts forasmuch as it is in act, on a body forasmuch as it is in potentiality.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This passage of Augustine is to be understood of the whole corporeal nature considered as a whole, while thus has no nature inferior to it, on which it can act; as the spiritual nature acts on the corporeal, and the uncreated nature on the created. Nevertheless one body is inferior to another, forasmuch as it is in potentiality to that which the other has in act.
 
@@ -44,9 +44,9 @@ Reply to Objection 3: Quantity does not entirely hinder the corporeal form from 
 Reply to Objection 4: A body is not that which is most distant from God; for it participates something of a likeness to the Divine Being, forasmuch as it has a form. That which is most distant from God is primary matter; which is in no way active, since it is a pure potentiality.
 
 Reply to Objection 5: The term of a body's action is both an accidental form and a substantial form. For the active quality, such as heat, although itself an accident, acts nevertheless by virtue of the substantial form, as its instrument: wherefore its action can terminate in a substantial form; thus natural heat, as the instrument of the soul, has an action terminating in the generation of flesh. But by its own virtue it produces an accident. Nor is it against the nature of an accident to surpass its subject in acting, but it is to surpass it in being; unless indeed one were to imagine that an accident transfers its identical self from the agent to the patient; thus Democritus explained action by an issue of atoms.
-# Whether There Are Any Seminal Virtues In Corporeal Matter?
+## Whether There Are Any Seminal Virtues In Corporeal Matter?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are no seminal virtues in corporeal matter. For virtue [ratio] implies something of a spiritual order. But in corporeal matter nothing exists spiritually, but only materially, that is, according to the mode of that in which it is. Therefore there are no seminal virtues in corporeal matter.
 
@@ -56,7 +56,7 @@ Objection 3: Further, seeds are active principles. But there are no active princ
 
 Objection 4: Further, there are said to be certain "causal virtues" (Augustine, De Gen. ad lit. v, 4) which seem to suffice for the production of things. But seminal virtues are not causal virtues: for miracles are outside the scope of seminal virtues, but not of causal virtues. Therefore it is unreasonable to say that there are seminal virtues in corporeal matter.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iii, 8): "Of all the things which are generated in a corporeal and visible fashion, certain seeds lie hidden in the corporeal things of this world."
 
@@ -64,7 +64,7 @@ I answer that, It is customary to name things after what is more perfect, as the
 
 These active and passive virtues may be considered in several orders. For in the first place, as Augustine says (Gen. ad lit. vi, 10), they are principally and originally in the Word of God, as "typal ideas." Secondly, they are in the elements of the world, where they were produced altogether at the beginning, as in "universal causes." Thirdly, they are in those things which, in the succession of time, are produced by universal causes, for instance in this plant, and in that animal, as in "particular causes." Fourthly, they are in the "seeds" produced from animals and plants. And these again are compared to further particular effects, as the primordial universal causes to the first effects produced.
 
-## Replies
+### Replies
 
 Reply to Objection 1: These active and passive virtues of natural things, thought not called "virtues" [rationes] by reason of their being in corporeal matter, can nevertheless be so called in respect of their origin, forasmuch as they are the effect of the typal ideas [rationes ideales].
 
@@ -73,9 +73,9 @@ Reply to Objection 2: These active and passive virtues are in certain parts of c
 Reply to Objection 3: The seed of the male is the active principle in the generation of an animal. But that can be called seed also which the female contributes as the passive principle. And thus the word "seed" covers both active and passive principles.
 
 Reply to Objection 4: From the words of Augustine when speaking of these seminal virtues, it is easy to gather that they are also causal virtues, just as seed is a kind of cause: for he says (De Trin. iii, 9) that, "as a mother is pregnant with the unborn offspring, so is the world itself pregnant with the causes of unborn things." Nevertheless, the "typal ideas" can be called "causal virtues," but not, strictly speaking, "seminal virtues," because seed is not a separate principle; and because miracles are not wrought outside the scope of causal virtues. Likewise neither are miracles wrought outside the scope of the passive virtues so implanted in the creature, that the latter can be used to any purpose that God commands. But miracles are said to be wrought outside the scope of the natural active virtues, and the passive potentialities which are ordered to such active virtues, and this is what is meant when we say that they are wrought outside the scope of seminal virtues.
-# Whether The Heavenly Bodies Are The Cause Of What Is Produced In Bodies Here Below?
+## Whether The Heavenly Bodies Are The Cause Of What Is Produced In Bodies Here Below?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the heavenly bodies are not the cause of what is produced in bodies here below. For Damascene says (De Fide Orth. ii, 7): "We say that they"---namely, the heavenly bodies---"are not the cause of generation or corruption: they are rather signs of storms and atmospheric changes."
 
@@ -85,13 +85,13 @@ Objection 3: Further, the agent produces its like. Now it is to be observed that
 
 Objection 4: Further, Augustine says (De Civ. Dei v, 6): "Nothing is more corporeal than sex." But sex is not caused by the heavenly bodies: a sign of this is that of twins born under the same constellation, one may be male, the other female. Therefore the heavenly bodies are not the cause of things produced in bodies here below.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iii, 4): "Bodies of a grosser and inferior nature are ruled in a certain order by those of a more subtle and powerful nature." And Dionysius (Div. Nom. iv) says that "the light of the sun conduces to the generation of sensible bodies, moves them to life, gives them nourishment, growth, and perfection."
 
 I answer that, Since every multitude proceeds from unity; and since what is immovable is always in the same way of being, whereas what is moved has many ways of being: it must be observed that throughout the whole of nature, all movement proceeds from the immovable. Therefore the more immovable certain things are, the more are they the cause of those things which are most movable. Now the heavenly bodies are of all bodies the most immovable, for they are not moved save locally. Therefore the movements of bodies here below, which are various and multiform, must be referred to the movement of the heavenly bodies, as to their cause.
 
-## Replies
+### Replies
 
 Reply to Objection 1: These words of Damascene are to be understood as denying that the heavenly bodies are the first cause of generation and corruption here below; for this was affirmed by those who held that the heavenly bodies are gods.
 
@@ -100,9 +100,9 @@ Reply to Objection 2: The active principles of bodies here below are only the ac
 Reply to Objection 3: The heavenly bodies have not a specific likeness to the bodies here below. Their likeness consists in this, that by reason of their universal power, whatever is generated in inferior bodies, is contained in them. In this way also we say that all things are like God.
 
 Reply to Objection 4: The actions of heavenly bodies are variously received in inferior bodies, according to the various dispositions of matter. Now it happens at times that the matter in the human conception is not wholly disposed to the male sex; wherefore it is formed sometimes into a male, sometimes into a female. Augustine quotes this as an argument against divination by stars: because the effects of the stars are varied even in corporeal things, according to the various dispositions of matter.
-# Whether The Heavenly Bodies Are The Cause Of Human Actions?
+## Whether The Heavenly Bodies Are The Cause Of Human Actions?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the heavenly bodies are the cause of human actions. For since the heavenly bodies are moved by spiritual substances, as stated above ([935]Q[110], A[3]), they act by virtue thereof as their instruments. But those spiritual substances are superior to our souls. Therefore it seems that they can cause impressions on our souls, and thereby cause human actions.
 
@@ -110,7 +110,7 @@ Objection 2: Further, every multiform is reducible to a uniform principle. But h
 
 Objection 3: Further, astrologers often foretell the truth concerning the outcome of wars, and other human actions, of which the intellect and will are the principles. But they could not do this by means of the heavenly bodies, unless these were the cause of human actions. Therefore the heavenly bodies are the cause of human actions.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. ii, 7) that "the heavenly bodies are by no means the cause of human actions."
 
@@ -118,16 +118,16 @@ I answer that, The heavenly bodies can directly and of themselves act on bodies,
 
 To maintain therefore that heavenly bodies are the cause of human actions is proper to those who hold that intellect does not differ from sense. Wherefore some of these said that "such is the will of men, as is the day which the father of men and of gods brings on" (Odyssey xviii 135). Since, therefore, it is manifest that intellect and will are not acts of corporeal organs, it is impossible that heavenly bodies be the cause of human actions.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The spiritual substances, that move the heavenly bodies, do indeed act on corporeal things by means of the heavenly bodies; but they act immediately on the human intellect by enlightening it. On the other hand, they cannot compel the will, as stated above ([937]Q[111], A[2]).
 
 Reply to Objection 2: Just as the multiformity of corporeal movements is reducible to the uniformity of the heavenly movement as to its cause: so the multiformity of actions proceeding from the intellect and the will is reduced to a uniform principle which is the Divine intellect and will.
 
 Reply to Objection 3: The majority of men follow their passions, which are movements of the sensitive appetite, in which movements of the heavenly bodies can cooperate: but few are wise enough to resist these passions. Consequently astrologers are able to foretell the truth in the majority of cases, especially in a general way. But not in particular cases; for nothing prevents man resisting his passions by his free-will. Wherefore the astrologers themselves are wont to say that "the wise man is stronger than the stars" [*Ptolemy, Centiloquium, prop. 5], forasmuch as, to wit, he conquers his passions.
-# Whether Heavenly Bodies Can Act On The Demons?
+## Whether Heavenly Bodies Can Act On The Demons?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that heavenly bodies can act on the demons. For the demons, according to certain phases of the moon, can harass men, who on that account are called lunatics, as appears from Mat. 4:24 and 17:14. But this would not be if they were not subject to the heavenly bodies. Therefore the demons are subject to them.
 
@@ -135,7 +135,7 @@ Objection 2: Further, necromancers observe certain constellations in order to in
 
 Objection 3: Further, heavenly bodies are more powerful than inferior bodies. But the demons are confined to certain inferior bodies, namely, "herbs, stones, animals, and to certain sounds and words, forms and figures," as Porphyry says, quoted by Augustine (De Civ. Dei x, 11). Much more therefore are the demons subject to the action of heavenly bodies.
 
-## Answer
+### Answer
 
 On the contrary, The demons are superior in the order of nature, to the heavenly bodies. But the "agent is superior to the patient," as Augustine says (Gen. ad lit. xii, 16). Therefore the demons are not subject to the action of heavenly bodies.
 
@@ -143,16 +143,16 @@ I answer that, There have been three opinions about the demons. In the first pla
 
 For this reason the Platonists were led to hold that demons are "animals with an aerial body and a passive soul," as Apuleius says, quoted by Augustine (De Civ. Dei viii, 16). And this is the second of the opinions mentioned above: according to which it could be said that demons are subject to heavenly bodies in the same way as we have said man is subject thereto [938](A[4]). But this opinion is proved to be false from what we have said above ([939]Q[51], A[1]): for we hold that demons are spiritual substances not united to bodies. Hence it is clear that they are subject to the action of heavenly bodies neither essentially nor accidentally, neither directly nor indirectly.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That demons harass men, according to certain phases of the moon, happens in two ways. Firstly, they do so in order to "defame God's creature," namely, the moon; as Jerome (In Matt. iv, 24) and Chrysostom (Hom. lvii in Matt.) say. Secondly, because as they are unable to effect anything save by means of the natural forces, as stated above ([940]Q[114], A[4], ad 2) they take into account the aptitude of bodies for the intended result. Now it is manifest that "the brain is the most moist of all the parts of the body," as Aristotle says [*De Part. Animal. ii, 7: De Sens. et Sensato ii: De Somn. et Vigil. iii]: wherefore it is the most subject to the action of the moon, the property of which is to move what is moist. And it is precisely in the brain that animal forces culminate: wherefore the demons, according to certain phases of the moon, disturb man's imagination, when they observe that the brain is thereto disposed.
 
 Reply to Objection 2: Demons when summoned through certain constellations, come for two reasons. Firstly, in order to lead man into the error of believing that there is some Divine power in the stars. Secondly, because they consider that under certain constellations corporeal matter is better disposed for the result for which they are summoned.
 
 Reply to Objection 3: As Augustine says (De Civ. Dei xxi, 6), the "demons are enticed through various kinds of stones, herbs, trees, animals, songs, rites, not as an animal is enticed by food, but as a spirit by signs"; that is to say, forasmuch as these things are offered to them in token of the honor due to God, of which they are covetous.
-# Whether Heavenly Bodies Impose Necessity On Things Subject To Their Action?
+## Whether Heavenly Bodies Impose Necessity On Things Subject To Their Action?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that heavenly bodies impose necessity on things subject to their action. For given a sufficient cause, the effect follows of necessity. But heavenly bodies are a sufficient cause of their effects. Since, therefore, heavenly bodies, with their movements and dispositions, are necessary beings; it seems that their effects follow of necessity.
 
@@ -160,7 +160,7 @@ Objection 2: Further, an agent's effect results of necessity in matter, when the
 
 Objection 3: Further, if the effect of the heavenly body does not follow of necessity, this is due to some hindering cause. But any corporeal cause, that might possibly hinder the effect of a heavenly body, must of necessity be reducible to some heavenly principle: since the heavenly bodies are the causes of all that takes place here below. Therefore, since also that heavenly principle is necessary, it follows that the effect of the heavenly body is necessarily hindered. Consequently it would follow that all that takes place here below happens of necessity.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Somn. et Vigil. [*De Divin. per Somn. ii]): "It is not incongruous that many of the signs observed in bodies, of occurrences in the heavens, such as rain and wind, should not be fulfilled." Therefore not all the effects of heavenly bodies take place of necessity.
 
@@ -172,7 +172,7 @@ For in the first place it is not true that, given any cause whatever, the effect
 
 Therefore we must say, in the second place, that everything that is a being "per se," has a cause; but what is accidentally, has not a cause, because it is not truly a being, since it is not truly one. For (that a thing is) "white" has a cause, likewise (that a man is) "musical" has not a cause, but (that a being is) "white-musical" has not a cause, because it is not truly a being, nor truly one. Now it is manifest that a cause which hinders the action of a cause so ordered to its effect as to produce it in the majority of cases, clashes sometimes with this cause by accident: and the clashing of these two causes, inasmuch as it is accidental, has no cause. Consequently what results from this clashing of causes is not to be reduced to a further pre-existing cause, from which it follows of necessity. For instance, that some terrestrial body take fire in the higher regions of the air and fall to the earth, is caused by some heavenly power: again, that there be on the surface of the earth some combustible matter, is reducible to some heavenly principle. But that the burning body should alight on this matter and set fire to it, is not caused by a heavenly body, but is accidental. Consequently not all the effects of heavenly bodies result of necessity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The heavenly bodies are causes of effects that take place here below, through the means of particular inferior causes, which can fail in their effects in the minority of cases.
 

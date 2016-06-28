@@ -9,9 +9,9 @@ We must now consider delight and sadness. Concerning delight four things must be
 (6) Of sensible delights compared with one another;
 (7) Whether any delight is non-natural?
 (8) Whether one delight can be contrary to another?
-# Whether Delight Is A Passion?
+## Whether Delight Is A Passion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that delight is not a passion. For Damascene (De Fide Orth. ii, 22) distinguishes operation from passion, and says that "operation is a movement in accord with nature, while passion is a movement contrary to nature." But delight is an operation, according to the Philosopher (Ethic. vii, 12; x, 5). Therefore delight is not a passion.
 
@@ -19,7 +19,7 @@ Objection 2: Further, "To be passive is to be moved," as stated in Phys. iii, 3.
 
 Objection 3: Further, delight is a kind of a perfection of the one who is delighted; since it "perfects operation," as stated in Ethic. x, 4,5. But to be perfected does not consist in being passive or in being altered, as stated in Phys. vii, 3 and De Anima ii, 5. Therefore delight is not a passion.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (De Civ. Dei ix, 2; xiv, 5 seqq) reckons delight, joy, or gladness among the other passions of the soul.
 
@@ -27,16 +27,16 @@ I answer that, The movements of the sensitive appetite, are properly called pass
 
 In order to understand this, we must observe that just as in natural things some happen to attain to their natural perfections, so does this happen in animals. And though movement towards perfection does not occur all at once, yet the attainment of natural perfection does occur all at once. Now there is this difference between animals and other natural things, that when these latter are established in the state becoming their nature, they do not perceive it, whereas animals do. And from this perception there arises a certain movement of the soul in the sensitive appetite; which movement is called delight. Accordingly by saying that delight is "a movement of the soul," we designate its genus. By saying that it is "an establishing in keeping with the thing's nature," i.e. with that which exists in the thing, we assign the cause of delight, viz. the presence of a becoming good. By saying that this establishing is "all at once," we mean that this establishing is to be understood not as in the process of establishment, but as in the fact of complete establishment, in the term of the movement, as it were: for delight is not a "becoming" as Plato [*Phileb. 32,33] maintained, but a "complete fact," as stated in Ethic. vii, 12. Lastly, by saying that this establishing is "sensible," we exclude the perfections of insensible things wherein there is no delight. It is therefore evident that, since delight is a movement of the animal appetite arising from an apprehension of sense, it is a passion of the soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Connatural operation, which is unhindered, is a second perfection, as stated in De Anima ii, 1: and therefore when a thing is established in its proper connatural and unhindered operation, delight follows, which consists in a state of completion, as observed above. Accordingly when we say that delight is an operation, we designate, not its essence, but its cause.
 
 Reply to Objection 2: A twofold movement is to be observed in an animal: one, according to the intention of the end, and this belongs to the appetite; the other, according to the execution, and this belongs to the external operation. And so, although in him who has already gained the good in which he delights, the movement of execution ceases, by which the tends to the end; yet the movement of the appetitive faculty does not cease, since, just as before it desired that which it had not, so afterwards does it delight in that which is possesses. For though delight is a certain repose of the appetite, if we consider the presence of the pleasurable good that satisfies the appetite, nevertheless there remains the impression made on the appetite by its object, by reason of which delight is a kind of movement.
 
 Reply to Objection 3: Although the name of passion is more appropriate to those passions which have a corruptive and evil tendency, such as bodily ailments, as also sadness and fear in the soul; yet some passions have a tendency to something good, as stated above ([1261]Q[23], AA[1],4): and in this sense delight is called a passion.
-# Whether Delight Is In Time?
+## Whether Delight Is In Time?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that delight is in time. For "delight is a kind of movement," as the Philosopher says (Rhet. i, 11). But all movement is in time. Therefore delight is in time.
 
@@ -44,7 +44,7 @@ Objection 2: Further, a thing is said to last long and to be morose in respect o
 
 Objection 3: Further, the passions of the soul are of one same genus. But some passions of the soul are in time. Therefore delight is too.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. x, 4) that "no one takes pleasure according to time."
 
@@ -52,16 +52,16 @@ I answer that, A thing may be in time in two ways: first, by itself; secondly, b
 
 Accordingly, we must say that delight, of itself indeed, is not in time: for it regards good already gained, which is, as it were, the term of the movement. But if this good gained be subject to change, the delight therein will be in time accidentally: whereas if it be altogether unchangeable, the delight therein will not be in time, either by reason of itself or accidentally.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated in De Anima iii, 7, movement is twofold. One is "the act of something imperfect, i.e. of something existing in potentiality, as such": this movement is successive and is in time. Another movement is "the act of something perfect, i.e. of something existing in act," e.g. to understand, to feel, and to will and such like, also to have delight. This movement is not successive, nor is it of itself in time.
 
 Reply to Objection 2: Delight is said to be long lasting or morose, according as it is accidentally in time.
 
 Reply to Objection 3: Other passions have not for their object a good obtained, as delight has. Wherefore there is more of the movement of the imperfect in them than in delight. And consequently it belongs more to delight not to be in time.
-# Whether Delight Differs From Joy?
+## Whether Delight Differs From Joy?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that delight is altogether the same as joy. Because the passions of the soul differ according to their objects. But delight and joy have the same object, namely, a good obtained. Therefore joy is altogether the same as delight.
 
@@ -69,7 +69,7 @@ Objection 2: Further, one movement does not end in two terms. But one and the sa
 
 Objection 3: Further, if joy differs from delight, it seems that there is equal reason for distinguishing gladness, exultation, and cheerfulness from delight, so that they would all be various passions of the soul. But this seems to be untrue. Therefore joy does not differ from delight.
 
-## Answer
+### Answer
 
 On the contrary, We do not speak of joy in irrational animals; whereas we do speak of delight in them. Therefore joy is not the same as delight.
 
@@ -77,16 +77,16 @@ I answer that, Joy, as Avicenna states (De Anima iv), is a kind of delight. For 
 
 Now whatever we desire naturally, can also be the object of reasoned desire and delight, but not vice versa. Consequently whatever can be the object of delight, can also be the object of joy in rational beings. And yet everything is not always the object of joy; since sometimes one feels a certain delight in the body, without rejoicing thereat according to reason. And accordingly delight extends to more things than does joy.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since the object of the appetite of the soul is an apprehended good, diversity of apprehension pertains, in a way, to diversity of the object. And so delights of the soul, which are also called joys, are distinct from bodily delights, which are not called otherwise than delights: as we have observed above in regard to concupiscences ([1263]Q[30], A[3], ad 2).
 
 Reply to Objection 2: A like difference is to be observed in concupiscences also: so that delight corresponds to concupiscence, while joy corresponds to desire, which seems to pertain more to concupiscence of the soul. Hence there is a difference of repose corresponding to the difference of movement.
 
 Reply to Objection 3: These other names pertaining to delight are derived from the effects of delight; for "laetitia" [gladness] is derived from the "dilation" of the heart, as if one were to say "latitia"; "exultation" is derived from the exterior signs of inward delight, which appear outwardly in so far as the inward joy breaks forth from its bounds; and "cheerfulness" is so called from certain special signs and effects of gladness. Yet all these names seem to belong to joy; for we do not employ them save in speaking of rational beings.
-# Whether Delight Is In The Intellectual Appetite?
+## Whether Delight Is In The Intellectual Appetite?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that delight is not in the intellectual appetite. Because the Philosopher says (Rhet. i, 11) that "delight is a sensible movement." But sensible movement is not in an intellectual power. Therefore delight is not in the intellectual appetite.
 
@@ -94,7 +94,7 @@ Objection 2: Further, delight is a passion. But every passion is in the sensitiv
 
 Objection 3: Further, delight is common to us and to the irrational animals. Therefore it is not elsewhere than in that power which we have in common with irrational animals.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 36:4): "Delight in the Lord." But the sensitive appetite cannot reach to God; only the intellectual appetite can. Therefore delight can be in the intellectual appetite.
 
@@ -102,16 +102,16 @@ I answer that, As stated above [1264](A[3]), a certain delight arises from the a
 
 However, there is this difference of delight in either power, that delight of the sensitive appetite is accompanied by a bodily transmutation, whereas delight of the intellectual appetite is nothing but the mere movement of the will. Hence Augustine says (De Civ. Dei xiv, 6) that "desire and joy are nothing else but a volition of consent to the things we wish."
 
-## Replies
+### Replies
 
 Reply to Objection 1: In this definition of the Philosopher, he uses the word "sensible" in its wide acceptation for any kind of perception. For he says (Ethic. x, 4) that "delight is attendant upon every sense, as it is also upon every act of the intellect and contemplation." Or we may say that he is defining delight of the sensitive appetite.
 
 Reply to Objection 2: Delight has the character of passion, properly speaking, when accompanied by bodily transmutation. It is not thus in the intellectual appetite, but according to simple movement: for thus it is also in God and the angels. Hence the Philosopher says (Ethic. vii, 14) that "God rejoices by one simple act": and Dionysius says at the end of De Coel. Hier., that "the angels are not susceptible to our passible delight, but rejoice together with God with the gladness of incorruption."
 
 Reply to Objection 3: In us there is delight, not only in common with dumb animals, but also in common with angels. Wherefore Dionysius says (De Coel. Hier.) that "holy men often take part in the angelic delights." Accordingly we have delight, not only in the sensitive appetite, which we have in common with dumb animals, but also in the intellectual appetite, which we have in common with the angels.
-# Whether Bodily And Sensible Pleasures Are Greater Than Spiritual And Intellectual Pleasures?
+## Whether Bodily And Sensible Pleasures Are Greater Than Spiritual And Intellectual Pleasures?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that bodily and sensible pleasures are greater than spiritual and intelligible pleasures. For all men seek some pleasure, according to the Philosopher (Ethic. x, 2,4). But more seek sensible pleasures, than intelligible spiritual pleasures. Therefore bodily pleasures are greater.
 
@@ -119,7 +119,7 @@ Objection 2: Further, the greatness of a cause is known by its effect. But bodil
 
 Objection 3: Further, bodily pleasures need to be tempered and checked, by reason of their vehemence: whereas there is no need to check spiritual pleasures. Therefore bodily pleasures are greater.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 118:103): "How sweet are Thy words to my palate; more than honey to my mouth!" And the Philosopher says (Ethic. x, 7) that "the greatest pleasure is derived from the operation of wisdom."
 
@@ -131,16 +131,16 @@ If, however, intellectual spiritual pleasures be compared with sensible bodily p
 
 On the other hand, in relation to us, bodily pleasures are more vehement, for three reasons. First, because sensible things are more known to us, than intelligible things. Secondly, because sensible pleasures, through being passions of the sensitive appetite, are accompanied by some alteration in the body: whereas this does not occur in spiritual pleasures, save by reason of a certain reaction of the superior appetite on the lower. Thirdly, because bodily pleasures are sought as remedies for bodily defects or troubles, whence various griefs arise. Wherefore bodily pleasures, by reason of their succeeding griefs of this kind, are felt the more, and consequently are welcomed more than spiritual pleasures, which have no contrary griefs, as we shall state farther on ([1266]Q[35], A[5]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The reason why more seek bodily pleasures is because sensible goods are known better and more generally: and, again, because men need pleasures as remedies for many kinds of sorrow and sadness: and since the majority cannot attain spiritual pleasures, which are proper to the virtuous, hence it is that they turn aside to seek those of the body.
 
 Reply to Objection 2: Bodily transmutation arises more from bodily pleasures, inasmuch as they are passions of the sensitive appetite.
 
 Reply to Objection 3: Bodily pleasures are realized in the sensitive faculty which is governed by reason: wherefore they need to be tempered and checked by reason. But spiritual pleasures are in the mind, which is itself the rule: wherefore they are in themselves both sober and moderate.
-# Whether The Pleasures Of Touch Are Greater Than The Pleasures Afforded By The Other Senses?
+## Whether The Pleasures Of Touch Are Greater Than The Pleasures Afforded By The Other Senses?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the pleasures of touch are not greater than the pleasures afforded by the other senses. Because the greatest pleasure seems to be that without which all joy is at an end. But such is the pleasure afforded by the sight, according to the words of Tob. 5:12: "What manner of joy shall be to me, who sit in darkness, and see not the light of heaven?" Therefore the pleasure afforded by the sight is the greatest of sensible pleasures.
 
@@ -148,7 +148,7 @@ Objection 2: Further, "every one finds treasure in what he loves," as the Philos
 
 Objection 3: Further, the beginning of friendship which is for the sake of the pleasant is principally sight. But pleasure is the cause of such friendship. Therefore the greatest pleasure seems to be afforded by sight.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. iii, 10), that the greatest pleasures are those which are afforded by the touch.
 
@@ -158,16 +158,16 @@ If therefore we speak of that sensible pleasure by which reason of knowledge, it
 
 Since then the pleasure afforded by touch is the greatest in respect of usefulness, and the pleasure afforded by sight the greatest in respect of knowledge; if anyone wish to compare these two, he will find that the pleasure of touch is, absolutely speaking, greater than the pleasure of sight, so far as the latter remains within the limits of sensible pleasure. Because it is evident that in everything, that which is natural is most powerful: and it is to these pleasures of the touch that the natural concupiscences, such as those of food, sexual union, and the like, are ordained. If, however, we consider the pleasures of sight, inasmuch sight is the handmaid of the mind, then the pleasures of sight are greater, forasmuch as intellectual pleasures are greater than sensible.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Joy, as stated above [1269](A[3]), denotes pleasure of the soul; and this belongs principally to the sight. But natural pleasure belongs principally to the touch.
 
 Reply to Objection 2: The sight is loved most, "on account of knowledge, because it helps us to distinguish many things," as is stated in the same passage (Metaph. i, 1).
 
 Reply to Objection 3: Pleasure causes carnal love in one way; the sight, in another. For pleasure, especially that which is afforded by the touch, is the final cause of the friendship which is for the sake of the pleasant: whereas the sight is a cause like that from which a movement has its beginning, inasmuch as the beholder on seeing the lovable object receives an impression of its image, which entices him to love it and to seek its delight.
-# Whether Any Pleasure Is Not Natural?
+## Whether Any Pleasure Is Not Natural?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no pleasure is not natural. For pleasure is to the emotions of the soul what repose is to bodies. But the appetite of a natural body does not repose save in a connatural place. Neither, therefore, can the repose of the animal appetite, which is pleasure, be elsewhere than in something connatural. Therefore no pleasure is non-natural.
 
@@ -175,16 +175,16 @@ Objection 2: Further, what is against nature is violent. But "whatever is violen
 
 Objection 3: Further, the fact of being established in one's own nature, if perceived, gives rise to pleasure, as is evident from the Philosopher's definition quoted above [1270](A[1]). But it is natural to every thing to be established in its nature; because natural movement tends to a natural end. Therefore every pleasure is natural.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. vii, 5,6) that some things are pleasant "not from nature but from disease."
 
 I answer that, We speak of that as being natural, which is in accord with nature, as stated in Phys. ii, 1. Now, in man, nature can be taken in two ways. First, inasmuch as intellect and reason is the principal part of man's nature, since in respect thereof he has his own specific nature. And in this sense, those pleasures may be called natural to man, which are derived from things pertaining to man in respect of his reason: for instance, it is natural to man to take pleasure in contemplating the truth and in doing works of virtue. Secondly, nature in man may be taken as contrasted with reason, and as denoting that which is common to man and other animals, especially that part of man which does not obey reason. And in this sense, that which pertains to the preservation of the body, either as regards the individual, as food, drink, sleep, and the like, or as regards the species, as sexual intercourse, are said to afford man natural pleasure. Under each kind of pleasures, we find some that are "not natural" speaking absolutely, and yet "connatural" in some respect. For it happens in an individual that some one of the natural principles of the species is corrupted, so that something which is contrary to the specific nature, becomes accidentally natural to this individual: thus it is natural to this hot water to give heat. Consequently it happens that something which is not natural to man, either in regard to reason, or in regard to the preservation of the body, becomes connatural to this individual man, on account of there being some corruption of nature in him. And this corruption may be either on the part of the body---from some ailment; thus to a man suffering from fever, sweet things seem bitter, and vice versa---or from an evil temperament; thus some take pleasure in eating earth and coals and the like; or on the part of the soul; thus from custom some take pleasure in cannibalism or in the unnatural intercourse of man and beast, or other such things, which are not in accord with human nature.
 
 This suffices for the answers to the objections.
-# Whether One Pleasure Can Be Contrary To Another?
+## Whether One Pleasure Can Be Contrary To Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one pleasure cannot be contrary to another. Because the passions of the soul derive their species and contrariety from their objects. Now the object of pleasure is the good. Since therefore good is not contrary to good, but "good is contrary to evil, and evil to good," as stated in Praedic. viii; it seems that one pleasure is not contrary to another.
 
@@ -192,13 +192,13 @@ Objection 2: Further, to one thing there is one contrary, as is proved in Metaph
 
 Objection 3: Further, if one pleasure is contrary to another, this is only on account of the contrariety of the things which give pleasure. But this difference is material: whereas contrariety is a difference of form, as stated in Metaph. x, 4. Therefore there is no contrariety between one pleasure and another.
 
-## Answer
+### Answer
 
 On the contrary, Things of the same genus that impede one another are contraries, as the Philosopher states (Phys. viii, 8). But some pleasures impede one another, as stated in Ethic. x, 5. Therefore some pleasures are contrary to one another.
 
 I answer that, Pleasure, in the emotions of the soul, is likened to repose in natural bodies, as stated above ([1271]Q[23], A[4]). Now one repose is said to be contrary to another when they are in contrary termini; thus, "repose in a high place is contrary to repose in a low place" (Phys. v, 6). Wherefore it happens in the emotions of the soul that one pleasure is contrary to another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This saying of the Philosopher is to be understood of good and evil as applied to virtues and vices: because one vice may be contrary to another vice, whereas no virtue can be contrary to another virtue. But in other things nothing prevents one good from being contrary to another, such as hot and cold, of which the former is good in relation to fire, the latter, in relation to water. And in this way one pleasure can be contrary to another. That this is impossible with regard to the good of virtue, is due to the fact that virtue's good depends on fittingness in relation to some one thing---i.e. the reason.
 

@@ -7,9 +7,9 @@ We must now consider the recovery of virtues by means of Penance, under which he
 (4) Whether works of virtue are deadened by subsequent sin?
 (5) Whether works deadened by sin revive through Penance?
 (6) Whether dead works, i.e. works that are done without charity, are quickened by Penance?
-# Whether The Virtues Are Restored Through Penance?
+## Whether The Virtues Are Restored Through Penance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the virtues are not restored through penance. Because lost virtue cannot be restored by penance, unless penance be the cause of virtue. But, since penance is itself a virtue, it cannot be the cause of all the virtues, and all the more, since some virtues naturally precede penance, viz., faith, hope, and charity, as stated above ([4797]Q[85], A[6]). Therefore the virtues are not restored through penance.
 
@@ -17,22 +17,22 @@ Objection 2: Further, Penance consists in certain acts of the penitent. But the 
 
 Objection 3: Further, he that has virtue performs works of virtue with ease and pleasure: wherefore the Philosopher says (Ethic. i, 8) that "a man is not just if he does not rejoice in just deeds." Now many penitents find difficulty in performing deeds of virtue. Therefore the virtues are not restored through Penance.
 
-## Answer
+### Answer
 
 On the contrary, We read (Lk. 15:22) that the father commanded his penitent son to be clothed in "the first robe," which, according to Ambrose (Expos. in Luc. vii), is the "mantle of wisdom," from which all the virtues flow together, according to Wis. 8:7: "She teacheth temperance, and prudence, and justice, and fortitude, which are such things as men can have nothing more profitable in life." Therefore all the virtues are restored through Penance.
 
 I answer that, Sins are pardoned through Penance, as stated above (Q[86] , A[1]). But there can be no remission of sins except through the infusion of grace. Wherefore it follows that grace is infused into man through Penance. Now all the gratuitous virtues flow from grace, even as all the powers result from the essence of the soul; as stated in the [4798]FS, Q[110], A[4], ad 1. Therefore all the virtues are restored through Penance.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Penance restores the virtues in the same way as it causes grace, as stated above ([4799]Q[86], A[1]). Now it is a cause of grace, in so far as it is a sacrament, because, in so far as it is a virtue, it is rather an effect of grace. Consequently it does not follow that penance, as a virtue, needs to be the cause of all the other virtues, but that the habit of penance together with the habits of the other virtues is caused through the sacrament of Penance.
 
 Reply to Objection 2: In the sacrament of Penance human acts stand as matter, while the formal power of this sacrament is derived from the power of the keys. Consequently the power of the keys causes grace and virtue effectively indeed, but instrumentally; and the first act of the penitent, viz., contrition, stands as ultimate disposition to the reception of grace, while the subsequent acts of Penance proceed from the grace and virtues which are already there.
 
 Reply to Objection 3: As stated above ([4800]Q[86], A[5]), sometimes after the first act of Penance, which is contrition, certain remnants of sin remain, viz. dispositions caused by previous acts, the result being that the penitent finds difficulty in doing deeds of virtue. Nevertheless, so far as the inclination itself of charity and of the other virtues is concerned, the penitent performs works of virtue with pleasure and ease. even as a virtuous man may accidentally find it hard to do an act of virtue, on account of sleepiness or some indisposition of the body.
-# Whether, After Penance, Man Rises Again To Equal Virtue?
+## Whether, After Penance, Man Rises Again To Equal Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that, after Penance, man rises again to equal virtue. For the Apostle says (Rom. 8:28): "To them that love God all things work together unto good," whereupon a gloss of Augustine says that "this is so true that, if any such man goes astray and wanders from the path, God makes even this conduce to his good." But this would not be true if he rose again to lesser virtue. Therefore it seems that a penitent never rises again to lesser virtue.
 
@@ -40,22 +40,22 @@ Objection 2: Further, Ambrose says [*Cf. Hypognosticon iii, an anonymous work fa
 
 Objection 3: Further, on Gn. 1:5: "There was evening and morning, one day," a gloss says: "The evening light is that from which we fall the morning light is that to which we rise again." Now the morning light is greater than the evening light. Therefore a man rises to greater grace or charity than that which he had before; which is confirmed by the Apostle's words (Rom. 5:20): "Where sin abounded, grace did more abound."
 
-## Answer
+### Answer
 
 On the contrary, Charity whether proficient or perfect is greater than incipient charity. But sometimes a man falls from proficient charity, and rises again to incipient charity. Therefore man always rises again to less virtue.
 
 I answer that, As stated above (Q[86], A[6], ad 3; Q[89], A[1], ad 2), the movement of the free-will, in the justification of the ungodly, is the ultimate disposition to grace; so that in the same instant there is infusion of grace together with the aforesaid movement of the free-will, as stated in the [4801]FS, Q[113], AA[5],7, which movement includes an act of penance, as stated above (Q[86], A[2]). But it is evident that forms which admit of being more or less, become intense or remiss, according to the different dispositions of the subject, as stated in the [4802]FS, Q[52], AA[1],2; [4803]FS, Q[66], A[1]. Hence it is that, in Penance, according to the degree of intensity or remissness in the movement of the free-will, the penitent receives greater or lesser grace. Now the intensity of the penitent's movement may be proportionate sometimes to a greater grace than that from which man fell by sinning, sometimes to an equal grace, sometimes to a lesser. Wherefore the penitent sometimes arises to a greater grace than that which he had before, sometimes to an equal, sometimes to a lesser grace: and the same applies to the virtues, which flow from grace.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The very fact of falling away from the love of God by sin, does not work unto the good of all those who love God, which is evident in the case of those who fall and never rise again, or who rise and fall yet again; but only to the good of "such as according to His purpose are called to be saints," viz. the predestined, who, however often they may fall, yet rise again finally. Consequently good comes of their falling, not that they always rise again to greater grace, but that they rise to more abiding grace, not indeed on the part of grace itself, because the greater the grace, the more abiding it is, but on the part of man, who, the more careful and humble he is, abides the more steadfastly in grace. Hence the same gloss adds that "their fall conduces to their good, because they rise more humble and more enlightened."
 
 Reply to Objection 2: Penance, considered in itself, has the power to bring all defects back to perfection, and even to advance man to a higher state; but this is sometimes hindered on the part of man, whose movement towards God and in detestation of sin is too remiss, just as in Baptism adults receive a greater or a lesser grace, according to the various ways in which they prepare themselves.
 
 Reply to Objection 3: This comparison of the two graces to the evening and morning light is made on account of a likeness of order, since the darkness of night follows after the evening light, and the light of day after the light of morning, but not on account of a likeness of greater or lesser quantity. Again, this saying of the Apostle refers to the grace of Christ, which abounds more than any number of man's sins. Nor is it true of all, that the more their sins abound, the more abundant grace they receive, if we measure habitual grace by the quantity. Grace is, however, more abundant, as regards the very notion of grace, because to him who sins more a more "gratuitous" favor is vouchsafed by his pardon; although sometimes those whose sins abound, abound also in sorrow, so that they receive a more abundant habit of grace and virtue, as was the case with Magdalen.
-# Whether, By Penance, Man Is Restored To His Former Dignity?
+## Whether, By Penance, Man Is Restored To His Former Dignity?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man is not restored by Penance to his former dignity: because a gloss on Amos 5:2, "The virgin of Israel is cast down," observes: "It is not said that she cannot rise up, but that the virgin of Israel shall not rise; because the sheep that has once strayed, although the shepherd bring it back on his shoulder, has not the same glory as if it had never strayed." Therefore man does not, through Penance, recover his former dignity.
 
@@ -63,7 +63,7 @@ Objection 2: Further, Jerome says: "Whoever fail to preserve the dignity of the 
 
 Objection 3: Further, before sinning a man can advance to a higher sacred order. But this is not permitted to a penitent after his sin, for it is written (Ezech. 44:10, 13): "The Levites that went away . . . from Me . . . shall never [Vulg.: 'not'] come near to Me, to do the office of priest": and as laid down in the Decretals (Dist. 1, ch. 52), and taken from the council of Lerida: "If those who serve at the Holy Altar fall suddenly into some deplorable weakness of the flesh, and by God's mercy do proper penance, let them return to their duties, yet so as not to receive further promotion." Therefore Penance does not restore man to his former dignity.
 
-## Answer
+### Answer
 
 On the contrary, As we read in the same Distinction, Gregory writing to Secundinus (Regist. vii) says: "We consider that when a man has made proper satisfaction, he may return to his honorable position": and moreover we read in the acts of the council of Agde: "Contumacious clerics, so far as their position allows, should be corrected by their bishops. so that when Penance has reformed them, they may recover their degree and dignity."
 
@@ -77,16 +77,16 @@ Thirdly, if he has committed a sin to which an irregularity is attached; wherefo
 
 Fourthly, on account of scandal, wherefore it is said in the same Distinction (OBJ[3]): "Those who have been publicly convicted or caught in the act of perjury, robbery, fornication, and of such like crimes, according to the prescription of the sacred canons must be deprived of the exercise of their respective orders, because it is a scandal to God's people that such persons should be placed over them. But those who commit such sins occultly and confess them secretly to a priest, may be retained in the exercise of their respective orders, with the assurance of God's merciful forgiveness, provided they be careful to expiate their sins by fasts and alms, vigils and holy deeds." The same is expressed (Extra, De Qual. Ordinand.): "If the aforesaid crimes are not proved by a judicial process, or in some other way made notorious, those who are guilty of them must not be hindered, after they have done penance, from exercising the orders they have received, or from receiving further orders, except in cases of homicide."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The same is to be said of the recovery of virginity as of the recovery of innocence which belongs to man's secondary dignity in the sight of God.
 
 Reply to Objection 2: In these words Jerome does not say that it is impossible, but that it is difficult, for man to recover his former dignity after having sinned, because this is allowed to none but those who repent perfectly, as stated above. To those canonical statutes, which seem to forbid this, Augustine replies in his letter to Boniface (Ep. clxxxv): "If the law of the Church forbids anyone, after doing penance for a crime, to become a cleric, or to return to his clerical duties, or to retain them the intention was not to deprive him of the hope of pardon, but to preserve the rigor of discipline; else we should have to deny the keys given to the Church, of which it was said: 'Whatsoever you shall loose on earth shall be loosed in heaven.'" And further on he adds: "For holy David did penance for his deadly crimes, and yet he retained his dignity; and Blessed Peter by shedding most bitter tears did indeed repent him of having denied his Lord, and yet he remained an apostle. Nevertheless we must not deem the care of later teachers excessive, who without endangering a man's salvation, exacted more from his humility, having, in my opinion, found by experience, that some assumed a pretended repentance through hankering after honors and power."
 
 Reply to Objection 3: This statute is to be understood as applying to those who do public penance, for these cannot be promoted to a higher order. For Peter, after his denial, was made shepherd of Christ's sheep, as appears from Jn. 21:21, where Chrysostom comments as follows: "After his denial and repentance Peter gives proof of greater confidence in Christ: for whereas, at the supper, he durst not ask Him, but deputed John to ask in his stead, afterwards he was placed at the head of his brethren, and not only did not depute another to ask for him, what concerned him, but henceforth asks the Master instead of John."
-# Whether Virtuous Deeds Done In Charity Can Be Deadened?
+## Whether Virtuous Deeds Done In Charity Can Be Deadened?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that virtuous deeds done in charity cannot be deadened. For that which is not cannot be changed. But to be deadened is to be changed from life to death. Since therefore virtuous deeds, after being done, are no more, it seems that they cannot afterwards be deadened.
 
@@ -94,7 +94,7 @@ Objection 2: Further, by virtuous deeds done in charity, man merits eternal life
 
 Objection 3: Further, the strong is not corrupted by the weak. Now works of charity are stronger than any sins, because, as it is written (Prov. 10:12), "charity covereth all sins." Therefore it seems that deeds done in charity cannot be deadened by a subsequent mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ezech. 18:24): "If the just man turn himself away from his justice . . . all his justices which he hath done shall not be remembered."
 
@@ -102,16 +102,16 @@ I answer that, A living thing, by dying, ceases to have vital operations: for wh
 
 Now the effect of virtuous works, which are done in charity, is to bring man to eternal life; and this is hindered by a subsequent mortal sin, inasmuch as it takes away grace. Wherefore deeds done in charity are said to be deadened by a subsequent mortal sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as sinful deeds pass as to the act but remain as to guilt, so deeds done in charity, after passing, as to the act, remain as to merit, in so far as they are acceptable to God. It is in this respect that they are deadened, inasmuch as man is hindered from receiving his reward.
 
 Reply to Objection 2: There is no injustice in withdrawing the reward from him who has deserved it, if he has made himself unworthy by his subsequent fault, since at times a man justly forfeits through his own fault, even that which he has already received.
 
 Reply to Objection 3: It is not on account of the strength of sinful deeds that deeds, previously done in charity, are deadened, but on account of the freedom of the will which can be turned away from good to evil.
-# Whether Deeds Deadened By Sin, Are Revived By Penance?
+## Whether Deeds Deadened By Sin, Are Revived By Penance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that deeds deadened by sin are not revived by Penance. Because just as past sins are remitted by subsequent Penance, so are deeds previously done in charity, deadened by subsequent sin. But sins remitted by Penance do not return, as stated above ([4804]Q[88], AA[1],2). Therefore it seems that neither are dead deeds revived by charity.
 
@@ -119,22 +119,22 @@ Objection 2: Further, deeds are said to be deadened by comparison with animals w
 
 Objection 3: Further, deeds done in charity are deserving of glory according to the quantity of grace or charity. But sometimes man arises through Penance to lesser grace or charity. Therefore he does not receive glory according to the merit of his previous works; so that it seems that deeds deadened by sin are not revived.
 
-## Answer
+### Answer
 
 On the contrary, on Joel 2:25, "I will restore to you the years, which the locust . . . hath eaten," a gloss says: "I will not suffer to perish the fruit which you lost when your soul was disturbed." But this fruit is the merit of good works which was lost through sin. Therefore meritorious deeds done before are revived by Penance.
 
 I answer that, Some have said that meritorious works deadened by subsequent sin are not revived by the ensuing Penance, because they deemed such works to have passed away, so that they could not be revived. But that is no reason why they should not be revived: because they are conducive to eternal life (wherein their life consists) not only as actually existing, but also after they cease to exist actually, and as abiding in the Divine acceptance. Now, they abide thus, so far as they are concerned, even after they have been deadened by sin, because those works, according as they were done, will ever be acceptable to God and give joy to the saints, according to Apoc. 3:11: "Hold fast that which thou hast, that no man take thy crown." That they fail in their efficacy to bring the man, who did them, to eternal life, is due to the impediment of the supervening sin whereby he is become unworthy of eternal life. But this impediment is removed by Penance, inasmuch as sins are taken away thereby. Hence it follows that deeds previously deadened, recover, through Penance, their efficacy in bringing him, who did them, to eternal life, and, in other words, they are revived. It is therefore evident that deadened works are revived by Penance.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The very works themselves of sin are removed by Penance, so that, by God's mercy, no further stain or debt of punishment is incurred on their account: on the other hand, works done in charity are not removed by God, since they abide in His acceptance, but they are hindered on the part of the man who does them; wherefore if this hindrance, on the part of the man who does those works, be removed, God on His side fulfills what those works deserved.
 
 Reply to Objection 2: Deeds done in charity are not in themselves deadened, as explained above, but only with regard to a supervening impediment on the part of the man who does them. On the other hand, an animal dies in itself, through being deprived of the principle of life: so that the comparison fails.
 
 Reply to Objection 3: He who, through Penance, arises to lesser charity, will receive the essential reward according to the degree of charity in which he is found. Yet he will have greater joy for the works he had done in his former charity, than for those which he did in his subsequent charity: and this joy belongs to the accidental reward.
-# Whether The Effect Of Subsequent Penance Is To Quicken Even Dead Works?
+## Whether The Effect Of Subsequent Penance Is To Quicken Even Dead Works?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the effect of subsequent Penance is to quicken even dead works, those, namely, that were not done in charity. For it seems more difficult to bring to life that which has been deadened, since this is never done naturally, than to quicken that which never had life, since certain living things are engendered naturally from things without life. Now deadened works are revived by Penance, as stated above [4806](A[5]). Much more, therefore, are dead works revived.
 
@@ -142,13 +142,13 @@ Objection 2: Further, if the cause be removed, the effect is removed. But the ca
 
 Objection 3: Further, Jerome in commenting on Agg. i, 6: "You have sowed much," says: "If at any time you find a sinner, among his many evil deeds, doing that which is right, God is not so unjust as to forget the few good deeds on account of his many evil deeds." Now this seems to be the case chiefly when past evil "deeds" are removed by Penance. Therefore it seems that through Penance, God rewards the former deeds done in the state of sin, which implies that they are quickened.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Cor. 13:3): "If I should distribute all my goods to feed the poor, and if I should deliver my body to be burned, and have not charity, it profiteth me nothing." But this would not be true, if, at least by subsequent Penance, they were quickened. Therefore Penance does not quicken works which before were dead.
 
 I answer that, A work is said to be dead in two ways: first, effectively, because, to wit, it is a cause of death, in which sense sinful works are said to be dead, according to Heb. 9:14: "The blood of Christ . . . shall cleanse our conscience from dead works." These dead works are not quickened but removed by Penance, according to Heb. 6:1: "Not laying again the foundation of Penance from dead works." Secondly, works are said to be dead privatively, because, to wit, they lack spiritual life, which is founded on charity, whereby the soul is united to God, the result being that it is quickened as the body by the soul: in which sense too, faith, if it lack charity, is said to be dead, according to James 2:20: "Faith without works is dead." In this way also, all works that are generically good, are said to be dead, if they be done without charity, inasmuch as they fail to proceed from the principle of life; even as we might call the sound of a harp, a dead voice. Accordingly, the difference of life and death in works is in relation to the principle from which they proceed. But works cannot proceed a second time from a principle, because they are transitory, and the same identical deed cannot be resumed. Therefore it is impossible for dead works to be quickened by Penance.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the physical order things whether dead or deadened lack the principle of life. But works are said to be deadened, not in relation to the principle whence they proceeded, but in relation to an extrinsic impediment; while they are said to be dead in relation to a principle. Consequently there is no comparison.
 

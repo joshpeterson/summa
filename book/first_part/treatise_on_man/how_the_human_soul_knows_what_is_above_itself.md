@@ -4,9 +4,9 @@ We must now consider how the human soul knows what is above itself, viz. immater
 (1) Whether the human soul in the present state of life can understand the immaterial substances called angels, in themselves?
 (2) Whether it can arrive at the knowledge thereof by the knowledge of material things?
 (3) Whether God is the first object of our knowledge?
-# Whether The Human Soul In The Present State Of Life Can Understand Immaterial Substances In Themselves?
+## Whether The Human Soul In The Present State Of Life Can Understand Immaterial Substances In Themselves?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the human soul in the present state of life can understand immaterial substances in themselves. For Augustine (De Trin. ix, 3) says: "As the mind itself acquires the knowledge of corporeal things by means of the corporeal senses, so it gains from itself the knowledge of incorporeal things." But these are the immaterial substances. Therefore the human mind understands immaterial substances.
 
@@ -18,7 +18,7 @@ Objection 4: Further, the Commentator says (Metaph. ii) that "nature would be fr
 
 Objection 5: Further, as sense is to the sensible, so is intellect to the intelligible. But our sight can see all things corporeal, whether superior and incorruptible; or lower and corruptible. Therefore our intellect can understand all intelligible substances, even the superior and immaterial.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Wis. 9:16): "The things that are in heaven, who shall search out?" But these substances are said to be in heaven, according to Mat. 18:10, "Their angels in heaven," etc. Therefore immaterial substances cannot be known by human investigation.
 
@@ -36,7 +36,7 @@ Fifthly, the Philosopher expressly says (Ethic. i, 10), that happiness is "an op
 
 Sixthly, as was shown above ([720]Q[79], A[4]), the active intellect is not a separate substance; but a faculty of the soul, extending itself actively to the same objects to which the passive intellect extends receptively; because, as is stated (De Anima iii, 5), the passive intellect is "all things potentially," and the active intellect is "all things in act." Therefore both intellects, according to the present state of life, extend to material things only, which are made actually intelligible by the active intellect, and are received in the passive intellect. Hence in the present state of life we cannot understand separate immaterial substances in themselves, either by the passive or by the active intellect.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine may be taken to mean that the knowledge of incorporeal things in the mind can be gained by the mind itself. This is so true that philosophers also say that the knowledge concerning the soul is a principle for the knowledge of separate substances. For by knowing itself, it attains to some knowledge of incorporeal substances, such as is within its compass; not that the knowledge of itself gives it a perfect and absolute knowledge of them.
 
@@ -47,9 +47,9 @@ Reply to Objection 3: There must needs be some proportion between the object and
 Reply to Objection 4: This argument of the Commentator fails in several ways. First, because if separate substances are not understood by us, it does not follow that they are not understood by any intellect; for they are understood by themselves, and by one another.
 
 Reply to Objection 5: Sense knows bodies, whether superior or inferior, in the same way, that is, by the sensible acting on the organ. But we do not understand material and immaterial substances in the same way. The former we understand by a process of abstraction, which is impossible in the case of the latter, for there are no phantasms of what is immaterial.
-# Whether Our Intellect Can Understand Immaterial Substances Through Its Knowledge Of Material Things?
+## Whether Our Intellect Can Understand Immaterial Substances Through Its Knowledge Of Material Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that our intellect can know immaterial substances through the knowledge of material things. For Dionysius says (Coel. Hier. i) that "the human mind cannot be raised up to immaterial contemplation of the heavenly hierarchies, unless it is led thereto by material guidance according to its own nature." Therefore we can be led by material things to know immaterial substances.
 
@@ -59,7 +59,7 @@ Objection 3: Further, the human soul belongs to the genus of immaterial substanc
 
 Objection 4: Further, the only cause which cannot be comprehended through its effects is that which is infinitely distant from them, and this belongs to God alone. Therefore other created immaterial substances can be understood by us through material things.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. i) that "intelligible things cannot be understood through sensible things, nor composite things through simple, nor incorporeal through corporeal."
 
@@ -67,7 +67,7 @@ I answer that, Averroes says (De Anima iii) that a philosopher named Avempace [*
 
 Now this opinion would be true, were immaterial substances the forms and species of these material things; as the Platonists supposed. But supposing, on the contrary, that immaterial substances differ altogether from the quiddity of material things, it follows that however much our intellect abstract the quiddity of material things from matter, it could never arrive at anything akin to immaterial substance. Therefore we are not able perfectly to understand immaterial substances through material substances.
 
-## Replies
+### Replies
 
 Reply to Objection 1: From material things we can rise to some kind of knowledge of immaterial things, but not to the perfect knowledge thereof; for there is no proper and adequate proportion between material and immaterial things, and the likenesses drawn from material things for the understanding of immaterial things are very dissimilar therefrom, as Dionysius says (Coel. Hier. ii).
 
@@ -76,9 +76,9 @@ Reply to Objection 2: Science treats of higher things principally by way of nega
 Reply to Objection 3: The human soul understands itself through its own act of understanding, which is proper to it, showing perfectly its power and nature. But the power and nature of immaterial substances cannot be perfectly known through such act, nor through any other material thing, because there is no proportion between the latter and the power of the former.
 
 Reply to Objection 4: Created immaterial substances are not in the same natural genus as material substances, for they do not agree in power or in matter; but they belong to the same logical genus, because even immaterial substances are in the predicament of substance, as their essence is distinct from their existence. But God has no connection with material things, as regards either natural genus or logical genus; because God is in no genus, as stated above ([721]Q[3], A[5]). Hence through the likeness derived from material things we can know something positive concerning the angels, according to some common notion, though not according to the specific nature; whereas we cannot acquire any such knowledge at all about God.
-# Whether God Is The First Object Known By The Human Mind?
+## Whether God Is The First Object Known By The Human Mind?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God is the first object known by the human mind. For that object in which all others are known, and by which we judge others, is the first thing known to us; as light is to the eye, and first principles to the intellect. But we know all things in the light of the first truth, and thereby judge of all things, as Augustine says (De Trin. xii, 2; De Vera Relig. xxxi; [*Confess. xii, 25]). Therefore God is the first object known to us.
 
@@ -86,13 +86,13 @@ Objection 2: Further, whatever causes a thing to be such is more so. But God is 
 
 Objection 3: Further, what is first known in the image is the exemplar to which it is made. But in our mind is the image of God, as Augustine says (De Trin. xii, 4,7). Therefore God is the first object known to our mind.
 
-## Answer
+### Answer
 
 On the contrary, "No man hath seen God at any time" (Jn. 1:18).
 
 I answer that, Since the human intellect in the present state of life cannot understand even immaterial created substances [722](A[1]), much less can it understand the essence of the uncreated substance. Hence it must be said simply that God is not the first object of our knowledge. Rather do we know God through creatures, according to the Apostle (Rom. 1:20), "the invisible things of God are clearly seen, being understood by the things that are made": while the first object of our knowledge in this life is the "quiddity of a material thing," which is the proper object of our intellect, as appears above in many passages ([723]Q[84], A[7]; [724]Q[85], A[8]; [725]Q[87], A[2], ad 2)
 
-## Replies
+### Replies
 
 Reply to Objection 1: We see and judge of all things in the light of the first truth, forasmuch as the light itself of our mind, whether natural or gratuitous, is nothing else than the impression of the first truth upon it, as stated above ([726]Q[12], A[2]). Hence, as the light itself of our intellect is not the object it understands, much less can it be said that God is the first object known by our intellect.
 

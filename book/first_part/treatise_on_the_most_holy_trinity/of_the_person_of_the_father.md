@@ -5,9 +5,9 @@ We now consider the persons singly; and first, the Person of the Father, concern
 (2) Whether the person of the Father is properly signified by this name "Father"?
 (3) Whether "Father" in God is said personally before it is said essentially?
 (4) Whether it belongs to the Father alone to be unbegotten?
-# Whether It Belongs To The Father To Be The Principle?
+## Whether It Belongs To The Father To Be The Principle?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Father cannot be called the principle of the Son, or of the Holy Ghost. For principle and cause are the same, according to the Philosopher (Metaph. iv). But we do not say that the Father is the cause of the Son. Therefore we must not say that He is the principle of the Son.
 
@@ -15,22 +15,22 @@ Objection 2: Further, a principle is so called in relation to the thing principl
 
 Objection 3: Further, the word principle is taken from priority. But in God there is no "before" and "after," as Athanasius says. Therefore in speaking of God we ought not to used the term principle.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iv, 20), "The Father is the Principle of the whole Deity."
 
 I answer that, The word "principle" signifies only that whence another proceeds: since anything whence something proceeds in any way we call a principle; and conversely. As the Father then is the one whence another proceeds, it follows that the Father is a principle.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Greeks use the words "cause" and "principle" indifferently, when speaking of God; whereas the Latin Doctors do not use the word "cause," but only "principle." The reason is because "principle" is a wider term than "cause"; as "cause" is more common than "element." For the first term of a thing, as also the first part, is called the principle, but not the cause. Now the wider a term is, the more suitable it is to use as regards God ([282]Q[13], A[11]), because the more special terms are, the more they determine the mode adapted to the creature. Hence this term "cause" seems to mean diversity of substance, and dependence of one from another; which is not implied in the word "principle." For in all kinds of causes there is always to be found between the cause and the effect a distance of perfection or of power: whereas we use the term "principle" even in things which have no such difference, but have only a certain order to each other; as when we say that a point is the principle of a line; or also when we say that the first part of a line is the principle of a line.
 
 Reply to Objection 2: It is the custom with the Greeks to say that the Son and the Holy Ghost are principled. This is not, however, the custom with our Doctors; because, although we attribute to the Father something of authority by reason of His being the principle, still we do not attribute any kind of subjection or inferiority to the Son, or to the Holy Ghost, to avoid any occasion of error. In this way, Hilary says (De Trin. ix): "By authority of the Giver, the Father is the greater; nevertheless the Son is not less to Whom oneness of nature is give."
 
 Reply to Objection 3: Although this word principle, as regards its derivation, seems to be taken from priority, still it does not signify priority, but origin. For what a term signifies, and the reason why it was imposed, are not the same thing, as stated above ([283]Q[13], A[8]).
-# Whether This Name "Father" Is Properly The Name Of A Divine Person?
+## Whether This Name "Father" Is Properly The Name Of A Divine Person?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this name "Father" is not properly the name of a divine person. For the name "Father" signifies relation. Moreover "person" is an individual substance. Therefore this name "Father" is not properly a name signifying a Person.
 
@@ -40,13 +40,13 @@ Objection 3: Further, a metaphorical term cannot be the proper name of anyone. B
 
 Objection 4: Further, everything which is said properly of God, is said of God first before creatures. But generation appears to apply to creatures before God; because generation seems to be truer when the one who proceeds is distinct from the one whence it proceeds, not only by relation but also by essence. Therefore the name "Father" taken from generation does not seem to be the proper name of any divine person.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Ps. 88:27): "He shall cry out to me: Thou art my Father."
 
 I answer that, The proper name of any person signifies that whereby the person is distinguished from all other persons. For as body and soul belong to the nature of man, so to the concept of this particular man belong this particular soul and this particular body; and by these is this particular man distinguished from all other men. Now it is paternity which distinguishes the person of the Father from all other persons. Hence this name "Father," whereby paternity is signified, is the proper name of the person of the Father.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Among us relation is not a subsisting person. So this name "father" among us does not signify a person, but the relation of a person. In God, however, it is not so, as some wrongly thought; for in God the relation signified by the name "Father" is a subsisting person. Hence, as above explained ([285]Q[29], A[4]), this name "person" in God signifies a relation subsisting in the divine nature.
 
@@ -55,9 +55,9 @@ Reply to Objection 2: According to the Philosopher (De Anima ii, text 49), a thi
 Reply to Objection 3: In human nature the word is not a subsistence, and hence is not properly called begotten or son. But the divine Word is something subsistent in the divine nature; and hence He is properly and not metaphorically called Son, and His principle is called Father.
 
 Reply to Objection 4: The terms "generation" and "paternity" like the other terms properly applied to God, are said of God before creatures as regards the thing signified, but not as regards the mode of signification. Hence also the Apostle says, "I bend my knee to the Father of my Lord Jesus Christ, from whom all paternity in heaven and on earth is named" (Eph. 3:14). This is explained thus. It is manifest that generation receives its species from the term which is the form of the thing generated; and the nearer it is to the form of the generator, the truer and more perfect is the generation; as univocal generation is more perfect than non-univocal, for it belongs to the essence of a generator to generate what is like itself in form. Hence the very fact that in the divine generation the form of the Begetter and Begotten is numerically the same, whereas in creatures it is not numerically, but only specifically, the same, shows that generation, and consequently paternity, is applied to God before creatures. Hence the very fact that in God a distinction exists of the Begotten from the Begetter as regards relation only, belongs to the truth of the divine generation and paternity.
-# Whether This Name "Father" Is Applied To God, Firstly As A Personal Name?
+## Whether This Name "Father" Is Applied To God, Firstly As A Personal Name?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this name "Father" is not applied to God, firstly as a personal name. For in the intellect the common precedes the particular. But this name "Father" as a personal name, belongs to the person of the Father; and taken in an essential sense it is common to the whole Trinity; for we say "Our Father" to the whole Trinity. Therefore "Father" comes first as an essential name before its personal sense.
 
@@ -65,7 +65,7 @@ Objection 2: Further, in things of which the concept is the same there is no pri
 
 Objection 3: Further, it is not possible to compare things which have not a common concept. But the Son is compared to the creature by reason of filiation or generation, according to Col. 1:15: "Who is the image of the invisible God, the first-born of every creature." Therefore paternity taken in a personal sense is not prior to, but has the same concept as, paternity taken essentially.
 
-## Answer
+### Answer
 
 On the contrary, The eternal comes before the temporal. But God is the Father of the Son from eternity; while He is the Father of the creature in time. Therefore paternity in God is taken in a personal sense as regards the Son, before it is so taken as regards the creature.
 
@@ -73,14 +73,14 @@ I answer that, A name is applied to that wherein is perfectly contained its whol
 
 Now it is manifest from the foregoing ([286]Q[27], A[2]; [287]Q[28], A[4]), that the perfect idea of paternity and filiation is to be found in God the Father, and in God the Son, because one is the nature and glory of the Father and the Son. But in the creature, filiation is found in relation to God, not in a perfect manner, since the Creator and the creature have not the same nature; but by way of a certain likeness, which is the more perfect the nearer we approach to the true idea of filiation. For God is called the Father of some creatures, by reason only of a trace, for instance of irrational creatures, according to Job 38:28: "Who is the father of the rain? or who begot the drops of dew?" Of some, namely, the rational creature (He is the Father), by reason of the likeness of His image, according to Dt. 32:6: "Is He not thy Father, who possessed, and made, and created thee?" And of others He is the Father by similitude of grace, and these are also called adoptive sons, as ordained to the heritage of eternal glory by the gift of grace which they have received, according to Rom. 8:16,17: "The Spirit Himself gives testimony to our spirit that we are the sons of God; and if sons, heirs also." Lastly, He is the Father of others by similitude of glory, forasmuch as they have obtained possession of the heritage of glory, according to Rom. 5:2: "We glory in the hope of the glory of the sons of God." Therefore it is plain that "paternity" is applied to God first, as importing regard of one Person to another Person, before it imports the regard of God to creatures.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Common terms taken absolutely, in the order of our intelligence, come before proper terms; because they are included in the understanding of proper terms; but not conversely. For in the concept of the person of the Father, God is understood; but not conversely. But common terms which import relation to the creature come after proper terms which import personal relations; because the person proceeding in God proceeds as the principle of the production of creatures. For as the word conceived in the mind of the artist is first understood to proceed from the artist before the thing designed, which is produced in likeness to the word conceived in the artist's mind; so the Son proceeds from the Father before the creature, to which the name of filiation is applied as it participates in the likeness of the Son, as is clear from the words of Rom. 8:29: "Whom He foreknew and predestined to be made conformable to the image of His Son."
 
 Reply to Objection 2: To "receive" is said to be common to the creature and to the Son not in a univocal sense, but according to a certain remote similitude whereby He is called the First Born of creatures. Hence the authority quoted subjoins: "That He may be the First Born among many brethren," after saying that some were conformed to the image of the Son of God. But the Son of God possesses a position of singularity above others, in having by nature what He receives, as Basil also declares (Hom. xv De Fide); hence He is called the only begotten (Jn. 1:18): "The only begotten Who is in the bosom of the Father, He hath declared unto us."
-# Whether It Is Proper To The Father To Be Unbegotten?
+## Whether It Is Proper To The Father To Be Unbegotten?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not proper to the Father to be unbegotten. For every property supposes something in that of which it is the property. But "unbegotten" supposes nothing in the Father; it only removes something. Therefore it does not signify a property of the Father.
 
@@ -92,7 +92,7 @@ Objection 4: Further, property means what belongs to one alone. Since, then, the
 
 Objection 5: Further, as the Father is the principle of the person begotten, so is He of the person proceeding. So if by reason of his opposition to the person begotten, it is proper to the Father to be unbegotten it follows that it is proper to Him also to be unproceeding.
 
-## Answer
+### Answer
 
 On the contrary, Hilary says (De Trin. iv): "One is from one ---that is, the Begotten is from the Unbegotten---namely, by the property in each one respectively of innascibility and origin."
 
@@ -100,7 +100,7 @@ I answer that, As in creatures there exist a first and a secondary principle, so
 
 Now in things created a first principle is known in two ways; in one way as the first "principle," by reason of its having a relation to what proceeds from itself; in another way, inasmuch as it is a "first" principle by reason of its not being from another. Thus therefore the Father is known both by paternity and by common spiration, as regards the persons proceeding from Himself. But as the principle, not from a principle He is known by the fact that He is not from another; and this belongs to the property of innascibility, signified by this word "begotten."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some there are who say that innascibility, signified by the word "unbegotten," as a property of the Father, is not a negative term only, but either that it means both these things together---namely, that the Father is from no one, and that He is the principle of others; or that it imports universal authority, or also His plenitude as the source of all. This, however, does not seem true, because thus innascibility would not be a property distinct from paternity and spiration; but would include them as the proper is included in the common. For source and authority signify in God nothing but the principle of origin. We must therefore say with Augustine (De Trin. v, 7) that "unbegotten" imports the negation of passive generation. For he says that "unbegotten" has the same meaning as "not a son." Nor does it follow that "unbegotten" is not the proper notion of the Father; for primary and simple things are notified by negations; as, for instance, a point is defined as what has no part.
 

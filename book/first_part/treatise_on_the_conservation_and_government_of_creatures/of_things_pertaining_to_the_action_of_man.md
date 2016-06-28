@@ -5,9 +5,9 @@ We have next to consider those things which pertain to the action of man, who is
 (2) Whether man can teach an angel?
 (3) Whether by the power of his soul man can change corporeal matter?
 (4) Whether the separate soul of man can move bodies by local movement?
-# Whether One Man Can Teach Another?
+## Whether One Man Can Teach Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one man cannot teach another. For the Lord says (Mat. 22:8): "Be not you called Rabbi": on which the gloss of Jerome says, "Lest you give to men the honor due to God." Therefore to be a master is properly an honor due to God. But it belongs to a master to teach. Therefore man cannot teach, and this is proper to God.
 
@@ -17,7 +17,7 @@ Objection 3: Further, for knowledge we require intellectual light, and the speci
 
 Objection 4: Further, the teacher does nothing in regard to a disciple save to propose to him certain signs, so as to signify something by words or gestures. But it is not possible to teach anyone so as to cause knowledge in him, by putting signs before him. For these are signs either of things that he knows, or of things he does not know. If of things that he knows, he to whom these signs are proposed is already in the possession of knowledge, and does not acquire it from the master. If they are signs of things that he does not know, he can learn nothing therefrom: for instance, if one were to speak Greek to a man who only knows Latin, he would learn nothing thereby. Therefore in no way can a man cause knowledge in another by teaching him.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Tim. 2:7): "Whereunto I am appointed a preacher and an apostle . . . a doctor of the Gentiles in faith and truth."
 
@@ -31,7 +31,7 @@ Now knowledge is acquired in man, both from an interior principle, as is clear i
 
 Now the master leads the disciple from things known to knowledge of the unknown, in a twofold manner. Firstly, by proposing to him certain helps or means of instruction, which his intellect can use for the acquisition of science: for instance, he may put before him certain less universal propositions, of which nevertheless the disciple is able to judge from previous knowledge: or he may propose to him some sensible examples, either by way of likeness or of opposition, or something of the sort, from which the intellect of the learner is led to the knowledge of truth previously unknown. Secondly, by strengthening the intellect of the learner; not, indeed, by some active power as of a higher nature, as explained above ([962]Q[106], A[1]; [963]Q[111], A[1]) of the angelic enlightenment, because all human intellects are of one grade in the natural order; but inasmuch as he proposes to the disciple the order of principles to conclusions, by reason of his not having sufficient collating power to be able to draw the conclusions from the principles. Hence the Philosopher says (Poster. i, 2) that "a demonstration is a syllogism that causes knowledge." In this way a demonstrator causes his hearer to know.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above, the teacher only brings exterior help as the physician who heals: but just as the interior nature is the principal cause of the healing, so the interior light of the intellect is the principal cause of knowledge. But both of these are from God. Therefore as of God is it written: "Who healeth all thy diseases" (Ps. 102:3); so of Him is it written: "He that teacheth man knowledge" (Ps. 93:10), inasmuch as "the light of His countenance is signed upon us" (Ps. 4:7), through which light all things are shown to us.
 
@@ -40,9 +40,9 @@ Reply to Objection 2: As Averroes argues, the teacher does not cause knowledge i
 Reply to Objection 3: The master does not cause the intellectual light in the disciple, nor does he cause the intelligible species directly: but he moves the disciple by teaching, so that the latter, by the power of his intellect, forms intelligible concepts, the signs of which are proposed to him from without.
 
 Reply to Objection 4: The signs proposed by the master to the disciple are of things known in a general and confused manner; but not known in detail and distinctly. Therefore when anyone acquires knowledge by himself, he cannot be called self-taught, or be said to have his own master because perfect knowledge did not precede in him, such as is required in a master.
-# Whether Man Can Teach The Angels?
+## Whether Man Can Teach The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that men teach angels. For the Apostle says (Eph. 3:10): "That the manifold wisdom of God may be made known to the principalities and powers in the heavenly places through the Church." But the Church is the union of all the faithful. Therefore some things are made known to angels through men.
 
@@ -50,22 +50,22 @@ Objection 2: Further, the superior angels, who are enlightened immediately conce
 
 Objection 3: Further, the inferior angels are instructed by the superior. But some men are higher than some angels; since some men are taken up to the highest angelic orders, as Gregory says in a homily (Hom. xxxiv in Evang.). Therefore some of the inferior angels can be instructed by men concerning Divine things.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. iv) that every Divine enlightenment to the superior angels, by making their thoughts known to them; but concerning Divine things superior angels are never enlightened by inferior angels. Now it is manifest that in the same way as inferior angels are subject to the superior, the highest men are subject even to the lowest angels. This is clear from Our Lord's words (Mat. 11:11): "There hath not risen among them that are born of woman a greater than John the Baptist; yet he that is lesser in the kingdom of heaven is greater than he." Therefore angels are never enlightened by men concerning Divine things. But men can by means of speech make known to angels the thoughts of their hearts: because it belongs to God alone to know the heart's secrets.
 
 
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine (Gen. ad lit. v, 19) thus explains this passage of the Apostle, who in the preceding verses says: "To me, the least of all the saints, is given this grace . . . to enlighten all men, that they may see what is the dispensation of the mystery which hath been hidden from eternity in God. Hidden, yet so that the multiform wisdom of God was made known to the principalities and powers in the heavenly places---that is, through the Church." As though he were to say: This mystery was hidden from men, but not from the Church in heaven, which is contained in the principalities and powers who knew it "from all ages, but not before all ages: because the Church was at first there, where after the resurrection this Church composed of men will be gathered together."
 
 Reply to Objection 2: The apostles were instructed immediately by the Word of God, not according to His Divinity, but according as He spoke in His human nature. Hence the argument does not prove.
 
 Reply to Objection 3: Certain men in this state of life are greater than certain angels, not actually, but virtually; forasmuch as they have such great charity that they can merit a higher degree of beatitude than that possessed by certain angels. In the same way we might say that the seed of a great tree is virtually greater than a small tree, though actually it is much smaller.
-# Whether Man By The Power Of His Soul Can Change Corporeal Matter?
+## Whether Man By The Power Of His Soul Can Change Corporeal Matter?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man by the power of his soul can change corporeal matter. For Gregory says (Dialog. ii, 30): "Saints work miracles sometimes by prayer, sometimes by their power: thus Peter, by prayer, raised the dead Tabitha to life, and by his reproof delivered to death the lying Ananias and Saphira." But in the working of miracles a change is wrought in corporeal matter. Therefore men, by the power of the soul, can change corporeal matter.
 
@@ -73,34 +73,34 @@ Objection 2: Further, on these words (Gal. 3:1): "Who hath bewitched you, that y
 
 Objection 3: Further, the human body is nobler than other inferior bodies. But by the apprehension of the human soul the human body is changed to heat and cold, as appears when a man is angry or afraid: indeed this change sometimes goes so far as to bring on sickness and death. Much more, then, can the human soul by its power change corporeal matter.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iii, 8): "Corporeal matter obeys God alone at will."
 
 I answer that, As stated above ([966]Q[110], A[2]), corporeal matter is not changed to (the reception of) a form save either by some agent composed of matter and form, or by God Himself, in whom both matter and form pre-exist virtually, as in the primordial cause of both. Wherefore of the angels also we have stated ([967]Q[110], A[2]) that they cannot change corporeal matter by their natural power, except by employing corporeal agents for the production of certain effects. Much less therefore can the soul, by its natural power, change corporeal matter, except by means of bodies.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The saints are said to work miracles by the power of grace, not of nature. This is clear from what Gregory says in the same place: "Those who are sons of God, in power, as John says---what wonder is there that they should work miracles by that power?"
 
 Reply to Objection 2: Avicenna assigns the cause of bewitchment to the fact that corporeal matter has a natural tendency to obey spiritual substance rather than natural contrary agents. Therefore when the soul is of strong imagination, it can change corporeal matter. This he says is the cause of the "evil eye."
 
 Reply to Objection 3: The soul is united to the body as its form; and the sensitive appetite, which obeys the reason in a certain way, as stated above ([969]Q[81], A[3]), it is the act of a corporeal organ. Therefore at the apprehension of the human soul, the sensitive appetite must needs be moved with an accompanying corporeal operation. But the apprehension of the human soul does not suffice to work a change in exterior bodies, except by means of a change in the body united to it, as stated above (ad 2).
-# Whether The Separate Human Soul Can Move Bodies At Least Locally?
+## Whether The Separate Human Soul Can Move Bodies At Least Locally?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the separate human soul can move bodies at least locally. For a body naturally obeys a spiritual substance as to local motion, as stated above (Q[110], A[5]). But the separate soul is a spiritual substance. Therefore it can move exterior bodies by its command.
 
 Objection 2: Further, in the Itinerary of Clement it is said in the narrative of Nicetas to Peter, that Simon Magus, by sorcery retained power over the soul of a child that he had slain, and that through this soul he worked magical wonders. But this could not have been without some corporeal change at least as to place. Therefore, the separate soul has the power to move bodies locally.
 
-## Answer
+### Answer
 
 On the contrary, the Philosopher says (De Anima i, 3) that the soul cannot move any other body whatsoever but its own.
 
 I answer that, The separate soul cannot by its natural power move a body. For it is manifest that, even while the soul is united to the body, it does not move the body except as endowed with life: so that if one of the members become lifeless, it does not obey the soul as to local motion. Now it is also manifest that no body is quickened by the separate soul. Therefore within the limits of its natural power the separate soul cannot command the obedience of a body; though, by the power of God, it can exceed those limits.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There are certain spiritual substances whose powers are not determinate to certain bodies; such are the angels who are naturally unfettered by a body; consequently various bodies may obey them as to movement. But if the motive power of a separate substance is naturally determinate to move a certain body, that substance will not be able to move a body of higher degree, but only one of lower degree: thus according to philosophers the mover of the lower heaven cannot move the higher heaven. Wherefore, since the soul is by its nature determinate to move the body of which it is the form, it cannot by its natural power move any other body.
 

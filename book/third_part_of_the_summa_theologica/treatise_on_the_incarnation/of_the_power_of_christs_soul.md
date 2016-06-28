@@ -5,9 +5,9 @@ We must now consider the power of Christ's soul; and under this head there are f
 (2) Whether He had omnipotence with regard to corporeal creatures?
 (3) Whether He had omnipotence with regard to His own body?
 (4) Whether He had omnipotence as regards the execution of His own will?
-# Whether The Soul Of Christ Had Omnipotence?
+## Whether The Soul Of Christ Had Omnipotence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the soul of Christ had omnipotence. For Ambrose [*Gloss, Ord.] says on Lk. 1:32: "The power which the Son of God had naturally, the Man was about to receive in time." Now this would seem to regard the soul principally, since it is the chief part of man. Hence since the Son of God had omnipotence from all eternity, it would seem that the soul of Christ received omnipotence in time.
 
@@ -15,7 +15,7 @@ Objection 2: Further, as the power of God is infinite, so is His knowledge. But 
 
 Objection 3: Further, the soul of Christ has all knowledge. Now knowledge is either practical or speculative. Therefore He has a practical knowledge of what He knows, i.e. He knew how to do what He knows; and thus it seems that He can do all things.
 
-## Answer
+### Answer
 
 On the contrary, What is proper to God cannot belong to any creature. But it is proper to God to be omnipotent, according to Ex. 15:2,3: "He is my God and I will glorify Him," and further on, "Almighty is His name." Therefore the soul of Christ, as being a creature, has not omnipotence.
 
@@ -23,16 +23,16 @@ I answer that, As was said above ([4008]Q[2], A[1];[4009] Q[10], A[1]) in the my
 
 And it is in this way that omnipotence flows, so to say, from the Divine Nature. For since the Divine Nature is the very uncircumscribed Being of God, as is plain from Dionysius (Div. Nom. v), it has an active power over everything that can have the nature of being; and this is to have omnipotence; just as every other thing has an active power over such things as the perfection of its nature extends to; as what is hot gives heat. Therefore since the soul of Christ is a part of human nature, it cannot possibly have omnipotence.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By union with the Person, the Man receives omnipotence in time, which the Son of God had from eternity; the result of which union is that as the Man is said to be God, so is He said to be omnipotent; not that the omnipotence of the Man is distinct (as neither is His Godhead) from that of the Son of God, but because there is one Person of God and man.
 
 Reply to Objection 2: According to some, knowledge and active power are not in the same ratio; for an active power flows from the very nature of the thing, inasmuch as action is considered to come forth from the agent; but knowledge is not always possessed by the very essence or form of the knower, since it may be had by assimilation of the knower to the thing known by the aid of received species. But this reason seems not to suffice, because even as we may understand by a likeness obtained from another, so also may we act by a form obtained from another, as water or iron heats, by heat borrowed from fire. Hence there would be no reason why the soul of Christ, as it can know all things by the similitudes of all things impressed upon it by God, cannot do these things by the same similitudes.
 
 Reply to Objection 3: Christ's soul has practical and speculative knowledge; yet it is not necessary that it should have practical knowledge of those things of which it has speculative knowledge. Because for speculative knowledge a mere conformity or assimilation of the knower to the thing known suffices; whereas for practical knowledge it is required that the forms of the things in the intellect should be operative. Now to have a form and to impress this form upon something else is more than merely to have the form; as to be lightsome and to enlighten is more than merely to be lightsome. Hence the soul of Christ has a speculative knowledge of creation (for it knows the mode of God's creation), but it has no practical knowledge of this mode, since it has no knowledge operative of creation.
-# Whether The Soul Of Christ Had Omnipotence With Regard To The Transmutation Of Creatures?
+## Whether The Soul Of Christ Had Omnipotence With Regard To The Transmutation Of Creatures?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the soul of Christ had omnipotence with regard to the transmutation of creatures. For He Himself says (Mat. 28:18): "All power is given to Me in heaven and on earth." Now by the words "heaven and earth" are meant all creatures, as is plain from Gn. 1:1: "In the beginning God created heaven and earth." Therefore it seems that the soul of Christ had omnipotence with regard to the transmutation of creatures.
 
@@ -40,7 +40,7 @@ Objection 2: Further, the soul of Christ is the most perfect of all creatures. B
 
 Objection 3: Further, Christ's soul had in its highest degree the "grace of miracles" or works of might. But every transmutation of the creature can belong to the grace of miracles; since even the heavenly bodies were miraculously changed from their course, as Dionysius proves (Ep. ad Polycarp). Therefore Christ's soul had omnipotence with regard to the transmutation of creatures.
 
-## Answer
+### Answer
 
 On the contrary, To transmute creatures belongs to Him Who preserves them. Now this belongs to God alone, according to Heb. 1:3: "Upholding all things by the word of His power." Therefore God alone has omnipotence with regard to the transmutation of creatures. Therefore this does not belong to Christ's soul.
 
@@ -48,16 +48,16 @@ I answer that, Two distinctions are here needed. of these the first is with resp
 
 The second distinction has to do with Christ's soul, which may be looked at in two ways: first in its proper nature and with its power of nature or of grace; secondly, as it is the instrument of the Word of God, personally united to Him. Therefore if we speak of the soul of Christ in its proper nature and with its power of nature or of grace, it had power to cause those effects proper to a soul (e.g. to rule the body and direct human acts, and also, by the fulness of grace and knowledge to enlighten all rational creatures falling short of its perfection), in a manner befitting a rational creature. But if we speak of the soul of Christ as it is the instrument of the Word united to Him, it had an instrumental power to effect all the miraculous transmutations ordainable to the end of the Incarnation, which is "to re-establish all things that are in heaven and on earth" [*Eph. 1:10]. But the transmutation of creatures, inasmuch as they may be brought to nothing, corresponds to their creation, whereby they were brought from nothing. And hence even as God alone can create, so, too, He alone can bring creatures to nothing, and He alone upholds them in being, lest they fall back to nothing. And thus it must be said that the soul of Christ had not omnipotence with regard to the transmutation of creatures.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Jerome says (on the text quoted): "Power is given Him," i.e. to Christ as man, "Who a little while before was crucified, buried in the tomb, and afterwards rose again." But power is said to have been given Him, by reason of the union whereby it was brought about that a Man was omnipotent, as was said above (A[1], ad 1). And although this was made known to the angels before the Resurrection, yet after the Resurrection it was made known to all men, as Remigius says (cf. Catena Aurea). Now, "things are said to happen when they are made known" [*Hugh of St. Victor: Qq. in Ep. ad Philip.]. Hence after the Resurrection our Lord says "that all power is given" to Him "in heaven and on earth."
 
 Reply to Objection 2: Although every creature is transmutable by some other creature, except, indeed, the highest angel, and even it can be enlightened by Christ's soul; yet not every transmutation that can be made in a creature can be made by a creature; since some transmutations can be made by God alone. Yet all transmutations that can be made in creatures can be made by the soul of Christ, as the instrument of the Word, but not in its proper nature and power, since some of these transmutations pertain to the soul neither in the order of nature nor in the order of grace.
 
 Reply to Objection 3: As was said in the [4011]SS, Q[178], A[1], ad 1, the grace of mighty works or miracles is given to the soul of a saint, so that these miracles are wrought not by his own, but by Divine power. Now this grace was bestowed on Christ's soul most excellently, i.e. not only that He might work miracles, but also that He might communicate this grace to others. Hence it is written (Mat. 10:1) that, "having called His twelve disciples together, He gave them power over unclean spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities."
-# Whether The Soul Of Christ Had Omnipotence With Regard To His Own Body?
+## Whether The Soul Of Christ Had Omnipotence With Regard To His Own Body?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's soul had omnipotence with regard to His own body. For Damascene says (De Fide Orth. iii, 20,23) that "all natural things were voluntary to Christ; He willed to hunger, He willed to thirst, He willed to fear, He willed to die." Now God is called omnipotent because "He hath done all things whatsoever He would" (Ps. 113:11). Therefore it seems that Christ's soul had omnipotence with regard to the natural operations of the body.
 
@@ -65,22 +65,22 @@ Objection 2: Further, human nature was more perfect in Christ than in Adam, who 
 
 Objection 3: Further, the body is naturally changed by the imaginations of the soul; and so much more changed, the stronger the soul's imagination, as was said in the [4012]FP, Q[117], A[3], ad 3. Now the soul of Christ had most perfect strength as regards both the imagination and the other powers. Therefore the soul of Christ was omnipotent with regard to His own body.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Heb. 2:17) that "it behooved Him in all things to be made like unto His brethren," and especially as regards what belongs to the condition of human nature. But it belongs to the condition of human nature that the health of the body and its nourishment and growth are not subject to the bidding of reason or will, since natural things are subject to God alone Who is the author of nature. Therefore they were not subject in Christ. Therefore Christ's soul was not omnipotent with regard to His own body.
 
 I answer that, As stated above [4013](A[2]), Christ's soul may be viewed in two ways. First, in its proper nature and power; and in this way, as it was incapable of making exterior bodies swerve from the course and order of nature, so, too, was it incapable of changing its own body from its natural disposition, since the soul, of its own nature, has a determinate relation to its body. Secondly, Christ's soul may be viewed as an instrument united in person to God's Word; and thus every disposition of His own body was wholly subject to His power. Nevertheless, since the power of an action is not properly attributed to the instrument, but to the principal agent, this omnipotence is attributed to the Word of God rather than to Christ's soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This saving of Damascene refers to the Divine will of Christ, since, as he says in the preceding chapter (De Fide Orth. xix, 14,15), it was by the consent of the Divine will that the flesh was allowed to suffer and do what was proper to it.
 
 Reply to Objection 2: It was no part of the original justice which Adam had in the state of innocence that a man's soul should have the power of changing his own body to any form, but that it should keep it from any hurt. Yet Christ could have assumed even this power if He had wished. But since man has three states---viz. innocence, sin, and glory, even as from the state of glory He assumed comprehension and from the state of innocence, freedom from sin---so also from the state of sin did He assume the necessity of being under the penalties of this life, as will be said ([4014]Q[14], A[2]).
 
 Reply to Objection 3: If the imagination be strong, the body obeys naturally in some things, e.g. as regards falling from a beam set on high, since the imagination was formed to be a principle of local motion, as is said De Anima iii, 9,10. So, too, as regards alteration in heat and cold, and their consequences; for the passions of the soul, wherewith the heart is moved, naturally follow the imagination, and thus by commotion of the spirits the whole body is altered. But the other corporeal dispositions which have no natural relation to the imagination are not transmuted by the imagination, however strong it is, e.g. the shape of the hand, or foot, or such like.
-# Whether The Soul Of Christ Had Omnipotence As Regards The Execution Of His Will?
+## Whether The Soul Of Christ Had Omnipotence As Regards The Execution Of His Will?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the soul of Christ had not omnipotence as regards the execution of His own will. For it is written (Mk. 7:24) that "entering into a house, He would that no man should know it, and He could not be hid." Therefore He could not carry out the purpose of His will in all things.
 
@@ -88,13 +88,13 @@ Objection 2: Further, a command is a sign of will, as was said in the [4015]FP, 
 
 Objection 3: Further, a man does not ask from another for what he can do himself. But our Lord besought the Father, praying for what He wished to be done, for it is written (Lk. 6:12): "He went out into a mountain to pray, and He passed the whole night in the prayer of God." Therefore He could not carry out the purpose of His will in all things.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Qq. Nov. et Vet. Test., qu. 77): "It is impossible for the will of the Saviour not to be fulfilled: nor is it possible for Him to will what He knows ought not to come to pass."
 
 I answer that, Christ's soul willed things in two ways. First, what was to be brought about by Himself; and it must be said that He was capable of whatever He willed thus, since it would not befit His wisdom if He willed to do anything of Himself that was not subject to His will. Secondly, He wished things to be brought about by the Divine power, as the resurrection of His own body and such like miraculous deeds, which He could not effect by His own power, except as the instrument of the Godhead, as was said above [4016](A[2]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says (Qq. Nov. et Vet. Test., qu. 77): "What came to pass, this Christ must be said to have willed. For it must be remarked that this happened in the country of the Gentiles, to whom it was not yet time to preach. Yet it would have been invidious not to welcome such as came spontaneously for the faith. Hence He did not wish to be heralded by His own, and yet He wished to be sought; and so it came to pass." Or it may be said that this will of Christ was not with regard to what was to be carried out by it, but with regard to what was to be done by others, which did not come under His human will. Hence in the letter of Pope Agatho, which was approved in the Sixth Council [*Third Council of Constantinople, Act. iv], we read: "When He, the Creator and Redeemer of all, wished to be hid and could not, must not this be referred only to His human will which He deigned to assume in time?"
 

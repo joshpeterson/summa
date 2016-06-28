@@ -9,9 +9,9 @@ We now come to consider the Gifts; under which head there are eight points of in
 (6) Whether they remain in heaven?
 (7) Of their comparison with one another;
 (8) Of their comparison with the virtues.
-# Whether The Gifts Differ From The Virtues?
+## Whether The Gifts Differ From The Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gifts do not differ from the virtues. For Gregory commenting on Job 1:2, "There were born to him seven sons," says (Moral. i, 12): "Seven sons were born to us, when through the conception of heavenly thought, the seven virtues of the Holy Ghost take birth in us": and he quotes the words of Is. 11:2,3: "And the Spirit . . . of understanding . . . shall rest upon him," etc. where the seven gifts of the Holy Ghost are enumerated. Therefore the seven gifts of the Holy Ghost are virtues.
 
@@ -21,7 +21,7 @@ Objection 3: Further, things whose definitions are the same, are themselves the 
 
 Objection 4: Several of the things mentioned among the gifts, are virtues: for, as stated above ([1649]Q[57], A[2]), wisdom, understanding, and knowledge are intellectual virtues, counsel pertains to prudence, piety to a kind of justice, and fortitude is a moral virtue. Therefore it seems that the gifts do not differ from the virtues.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. i, 12) distinguishes seven gifts, which he states to be denoted by the seven sons of Job, from the three theological virtues, which, he says, are signified by Job's three daughters. He also distinguishes (Moral. ii, 26) the same seven gifts from the four cardinal virtues, which he says were signified by the four corners of the house.
 
@@ -37,7 +37,7 @@ Accordingly, in order to differentiate the gifts from the virtues, we must be gu
 
 Now it is evident that whatever is moved must be proportionate to its mover: and the perfection of the mobile as such, consists in a disposition whereby it is disposed to be well moved by its mover. Hence the more exalted the mover, the more perfect must be the disposition whereby the mobile is made proportionate to its mover: thus we see that a disciple needs a more perfect disposition in order to receive a higher teaching from his master. Now it is manifest that human virtues perfect man according as it is natural for him to be moved by his reason in his interior and exterior actions. Consequently man needs yet higher perfections, whereby to be disposed to be moved by God. These perfections are called gifts, not only because they are infused by God, but also because by them man is disposed to become amenable to the Divine inspiration, according to Is. 50:5: "The Lord . . . hath opened my ear, and I do not resist; I have not gone back." Even the Philosopher says in the chapter On Good Fortune (Ethic. Eudem., vii, 8) that for those who are moved by Divine instinct, there is no need to take counsel according to human reason, but only to follow their inner promptings, since they are moved by a principle higher than human reason. This then is what some say, viz. that the gifts perfect man for acts which are higher than acts of virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Sometimes these gifts are called virtues, in the broad sense of the word. Nevertheless, they have something over and above the virtues understood in this broad way, in so far as they are Divine virtues, perfecting man as moved by God. Hence the Philosopher (Ethic. vii, 1) above virtue commonly so called, places a kind of "heroic" or "divine virtue [*{arete heroike kai theia}]," in respect of which some men are called "divine."
 
@@ -46,9 +46,9 @@ Reply to Objection 2: The vices are opposed to the virtues, in so far as they ar
 Reply to Objection 3: This definition applies to virtue taken in its general sense. Consequently, if we wish to restrict it to virtue as distinguished from the gifts, we must explain the words, "whereby we lead a good life" as referring to the rectitude of life which is measured by the rule of reason. Likewise the gifts, as distinct from infused virtue, may be defined as something given by God in relation to His motion; something, to wit, that makes man to follow well the promptings of God.
 
 Reply to Objection 4: Wisdom is called an intellectual virtue, so far as it proceeds from the judgment of reason: but it is called a gift, according as its work proceeds from the Divine prompting. The same applies to the other virtues.
-# Whether The Gifts Are Necessary To Man For Salvation?
+## Whether The Gifts Are Necessary To Man For Salvation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gifts are not necessary to man for salvation. Because the gifts are ordained to a perfection surpassing the ordinary perfection of virtue. Now it is not necessary for man's salvation that he should attain to a perfection surpassing the ordinary standard of virtue; because such perfection falls, not under the precept, but under a counsel. Therefore the gifts are not necessary to man for salvation.
 
@@ -56,7 +56,7 @@ Objection 2: Further, it is enough, for man's salvation, that he behave well in 
 
 Objection 3: Further, Gregory says (Moral. ii, 26) that "the Holy Ghost gives wisdom against folly, understanding against dullness, counsel against rashness, fortitude against fears, knowledge against ignorance, piety against hardness of our heart, and fear against pride." But a sufficient remedy for all these things is to be found in the virtues. Therefore the gifts are not necessary to man for salvation.
 
-## Answer
+### Answer
 
 On the contrary, Of all the gifts, wisdom seems to be the highest, and fear the lowest. Now each of these is necessary for salvation: since of wisdom it is written (Wis. 7:28): "God loveth none but him that dwelleth with wisdom"; and of fear (Ecclus. 1:28): "He that is without fear cannot be justified." Therefore the other gifts that are placed between these are also necessary for salvation.
 
@@ -66,16 +66,16 @@ Now man's reason is perfected by God in two ways: first, with its natural perfec
 
 Accordingly, in matters subject to human reason, and directed to man's connatural end, man can work through the judgment of his reason. If, however, even in these things man receive help in the shape of special promptings from God, this will be out of God's superabundant goodness: hence, according to the philosophers, not every one that had the acquired moral virtues, had also the heroic or divine virtues. But in matters directed to the supernatural end, to which man's reason moves him, according as it is, in a manner, and imperfectly, informed by the theological virtues, the motion of reason does not suffice, unless it receive in addition the prompting or motion of the Holy Ghost, according toRom. 8:14, 17: "Whosoever are led by the Spirit of God, they are sons of God . . . and if sons, heirs also": and Ps. 142:10: "Thy good Spirit shall lead me into the right land," because, to wit, none can receive the inheritance of that land of the Blessed, except he be moved and led thither by the Holy Ghost. Therefore, in order to accomplish this end, it is necessary for man to have the gift of the Holy Ghost.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The gifts surpass the ordinary perfection of the virtues, not as regards the kind of works (as the counsels surpass the commandments), but as regards the manner of working, in respect of man being moved by a higher principle.
 
 Reply to Objection 2: By the theological and moral virtues, man is not so perfected in respect of his last end, as not to stand in continual need of being moved by the yet higher promptings of the Holy Ghost, for the reason already given.
 
 Reply to Objection 3: Whether we consider human reason as perfected in its natural perfection, or as perfected by the theological virtues, it does not know all things, nor all possible things. Consequently it is unable to avoid folly and other like things mentioned in the objection. God, however, to Whose knowledge and power all things are subject, by His motion safeguards us from all folly, ignorance, dullness of mind and hardness of heart, and the rest. Consequently the gifts of the Holy Ghost, which make us amenable to His promptings, are said to be given as remedies to these defects.
-# Whether The Gifts Of The Holy Ghost Are Habits?
+## Whether The Gifts Of The Holy Ghost Are Habits?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gifts of the Holy Ghost are not habits. Because a habit is a quality abiding in man, being defined as "a quality difficult to remove," as stated in the Predicaments (Categor. vi). Now it is proper to Christ that the gifts of the Holy Ghost rest in Him, as stated in Is. 11:2,3: "He upon Whom thou shalt see the Spirit descending and remaining upon Him, He it is that baptizeth"; on which words Gregory comments as follows (Moral. ii, 27): "The Holy Ghost comes upon all the faithful; but, in a singular way, He dwells always in the Mediator." Therefore the gifts of the Holy Ghost are not habits.
 
@@ -83,22 +83,22 @@ Objection 2: Further, the gifts of the Holy Ghost perfect man according as he is
 
 Objection 3: Further, as the gifts of the Holy Ghost are due to Divine inspiration, so is the gift of prophecy. Now prophecy is not a habit: for "the spirit of prophecy does not always reside in the prophets," as Gregory states (Hom. i in Ezechiel). Neither, therefore, are the gifts of the Holy Ghost.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord in speaking of the Holy Ghost said to His disciples (Jn. 14:17): "He shall abide with you, and shall be in you." Now the Holy Ghost is not in a man without His gifts. Therefore His gifts abide in man. Therefore they are not merely acts or passions but abiding habits.
 
 I answer that, As stated above [1655](A[1]), the gifts are perfections of man, whereby he becomes amenable to the promptings of the Holy Ghost. Now it is evident from what has been already said (Q[56], A[4]; Q[58], A[2]), that the moral virtues perfect the appetitive power according as it partakes somewhat of the reason, in so far, to wit, as it has a natural aptitude to be moved by the command of reason. Accordingly the gifts of the Holy Ghost, as compared with the Holy Ghost Himself, are related to man, even as the moral virtues, in comparison with the reason, are related to the appetitive power. Now the moral virtues are habits, whereby the powers of appetite are disposed to obey reason promptly. Therefore the gifts of the Holy Ghost are habits whereby man is perfected to obey readily the Holy Ghost.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Gregory solves this objection (Moral. ii, 27) by saying that "by those gifts without which one cannot obtain life, the Holy Ghost ever abides in all the elect, but not by His other gifts." Now the seven gifts are necessary for salvation, as stated above [1656](A[2]). Therefore, with regard to them, the Holy Ghost ever abides in holy men.
 
 Reply to Objection 2: This argument holds, in the case of an instrument which has no faculty of action, but only of being acted upon. But man is not an instrument of that kind; for he is so acted upon, by the Holy Ghost, that he also acts himself, in so far as he has a free-will. Therefore he needs a habit.
 
 Reply to Objection 3: Prophecy is one of those gifts which are for the manifestation of the Spirit, not for the necessity of salvation: hence the comparison fails.
-# Whether The Seven Gifts Of The Holy Ghost Are Suitably Enumerated?
+## Whether The Seven Gifts Of The Holy Ghost Are Suitably Enumerated?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that seven gifts of the Holy Ghost are unsuitably enumerated. For in that enumeration four are set down corresponding to the intellectual virtues, viz. wisdom, understanding, knowledge, and counsel, which corresponds to prudence; whereas nothing is set down corresponding to art, which is the fifth intellectual virtue. Moreover, something is included corresponding to justice, viz. piety, and something corresponding to fortitude, viz. the gift of fortitude; while there is nothing to correspond to temperance. Therefore the gifts are enumerated insufficiently.
 
@@ -110,7 +110,7 @@ Objection 4: Further, even as God is an object of fear, so is He of love, of hop
 
 Objection 5: Further, wisdom is added in order to direct understanding; counsel, to direct fortitude; knowledge, to direct piety. Therefore, some gift should have been added for the purpose of directing fear. Therefore the seven gifts of the Holy Ghost are unsuitably enumerated.
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Holy Writ (Is. 11:2,3).
 
@@ -118,7 +118,7 @@ I answer that, As stated above [1657](A[3]), the gifts are habits perfecting man
 
 Now the reason is speculative and practical: and in both we find the apprehension of truth (which pertains to the discovery of truth), and judgment concerning the truth. Accordingly, for the apprehension of truth, the speculative reason is perfected by "understanding"; the practical reason, by "counsel." In order to judge aright, the speculative reason is perfected by "wisdom"; the practical reason by "knowledge." The appetitive power, in matters touching a man's relations to another, is perfected by "piety"; in matters touching himself, it is perfected by "fortitude" against the fear of dangers; and against inordinate lust for pleasures, by "fear," according to Prov. 15:27: "By the fear of the Lord every one declineth from evil," and Ps. 118:120: "Pierce Thou my flesh with Thy fear: for I am afraid of Thy judgments." Hence it is clear that these gifts extend to all those things to which the virtues, both intellectual and moral, extend.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The gifts of the Holy Ghost perfect man in matters concerning a good life: whereas art is not directed to such matters, but to external things that can be made, since art is the right reason, not about things to be done, but about things to be made (Ethic. vi, 4). However, we may say that, as regards the infusion of the gifts, the art is on the part of the Holy Ghost, Who is the principal mover, and not on the part of men, who are His organs when He moves them. The gift of fear corresponds, in a manner, to temperance: for just as it belongs to temperance, properly speaking, to restrain man from evil pleasures for the sake of the good appointed by reason, so does it belong to the gift of fear, to withdraw man from evil pleasures through fear of God.
 
@@ -129,9 +129,9 @@ Reply to Objection 3: The mind of man is not moved by the Holy Ghost, unless in 
 Reply to Objection 4: Love, hope and joy have good for their object. Now God is the Sovereign Good: wherefore the names of these passions are transferred to the theological virtues which unite man to God. On the other hand, the object of fear is evil, which can nowise apply to God: hence fear does not denote union with God, but withdrawal from certain things through reverence for God. Hence it does not give its name to a theological virtue, but to a gift, which withdraws us from evil, for higher motives than moral virtue does.
 
 Reply to Objection 5: Wisdom directs both the intellect and the affections of man. Hence two gifts are set down as corresponding to wisdom as their directing principle; on the part of the intellect, the gift of understanding; on the part of the affections, the gift of fear. Because the principal reason for fearing God is taken from a consideration of the Divine excellence, which wisdom considers.
-# Whether The Gifts Of The Holy Ghost Are Connected?
+## Whether The Gifts Of The Holy Ghost Are Connected?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gifts are not connected, for the Apostle says (1 Cor. 12:8): "To one . . . by the Spirit, is given the word of wisdom, and to another, the word of knowledge, according to the same Spirit." Now wisdom and knowledge are reckoned among the gifts of the Holy Ghost. Therefore the gifts of the Holy Ghost are given to divers men, and are not connected together in the same man.
 
@@ -139,22 +139,22 @@ Objection 2: Further, Augustine says (De Trin. xiv, 1) that "many of the faithfu
 
 Objection 3: Further, Gregory says (Moral. i) that wisdom "is of small account if it lack understanding, and understanding is wholly useless if it be not based upon wisdom . . . Counsel is worthless, when the strength of fortitude is lacking thereto . . . and fortitude is very weak if it be not supported by counsel . . . Knowledge is nought if it hath not the use of piety . . . and piety is very useless if it lack the discernment of knowledge . . . and assuredly, unless it has these virtues with it, fear itself rises up to the doing of no good action": from which it seems that it is possible to have one gift without another. Therefore the gifts of the Holy Ghost are not connected.
 
-## Answer
+### Answer
 
 On the contrary, Gregory prefaces the passage above quoted, with the following remark: "It is worthy of note in this feast of Job's sons, that by turns they fed one another." Now the sons of Job, of whom he is speaking, denote the gifts of the Holy Ghost. Therefore the gifts of the Holy Ghost are connected together by strengthening one another.
 
 I answer that, The true answer to this question is easily gathered from what has been already set down. For it has been stated [1658](A[3]) that as the powers of the appetite are disposed by the moral virtues as regards the governance of reason, so all the powers of the soul are disposed by the gifts as regards the motion of the Holy Ghost. Now the Holy Ghost dwells in us by charity, according to Rom. 5:5: "The charity of God is poured forth in our hearts by the Holy Ghost, Who is given to us," even as our reason is perfected by prudence. Wherefore, just as the moral virtues are united together in prudence, so the gifts of the Holy Ghost are connected together in charity: so that whoever has charity has all the gifts of the Holy Ghost, none of which can one possess without charity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Wisdom and knowledge can be considered in one way as gratuitous graces, in so far, to wit, as man so far abounds in the knowledge of things Divine and human, that he is able both to instruct the believer and confound the unbeliever. It is in this sense that the Apostle speaks, in this passage, about wisdom and knowledge: hence he mentions pointedly the "word" of wisdom and the "word" of knowledge. They may be taken in another way for the gifts of the Holy Ghost: and thus wisdom and knowledge are nothing else but perfections of the human mind, rendering it amenable to the promptings of the Holy Ghost in the knowledge of things Divine and human. Consequently it is clear that these gifts are in all who are possessed of charity.
 
 Reply to Objection 2: Augustine is speaking there of knowledge, while expounding the passage of the Apostle quoted above (OBJ 1): hence he is referring to knowledge, in the sense already explained, as a gratuitous grace. This is clear from the context which follows: "For it is one thing to know only what a man must believe in order to gain the blissful life, which is no other than eternal life; and another, to know how to impart this to godly souls, and to defend it against the ungodly, which latter the Apostle seems to have styled by the proper name of knowledge."
 
 Reply to Objection 3: Just as the connection of the cardinal virtues is proved in one way from the fact that one is, in a manner, perfected by another, as stated above ([1659]Q[65], A[1]); so Gregory wishes to prove the connection of the gifts, in the same way, from the fact that one cannot be perfect without the other. Hence he had already observed that "each particular virtue is to the last degree destitute, unless one virtue lend its support to another." We are therefore not to understand that one gift can be without another; but that if understanding were without wisdom, it would not be a gift; even as temperance, without justice, would not be a virtue.
-# Whether The Gifts Of The Holy Ghost Remain In Heaven?
+## Whether The Gifts Of The Holy Ghost Remain In Heaven?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gifts of the Holy Ghost do not remain in heaven. For Gregory says (Moral. ii, 26) that by means of His sevenfold gift the "Holy Ghost instructs the mind against all temptations." Now there will be no temptations in heaven, according to Is. 11:9: "They shall not hurt, nor shall they kill in all My holy mountain." Therefore there will be no gifts of the Holy Ghost in heaven.
 
@@ -162,22 +162,22 @@ Objection 2: Further, the gifts of the Holy Ghost are habits, as stated above [1
 
 Objection 3: Further, some of the gifts perfect man in the contemplative life, e.g. wisdom and understanding: and some in the active life, e.g. piety and fortitude. Now the active life ends with this as Gregory states (Moral. vi). Therefore not all the gifts of the Holy Ghost will be in the state of glory.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Spiritu Sancto i, 20): "The city of God, the heavenly Jerusalem is not washed with the waters of an earthly river: it is the Holy Ghost, of Whose outpouring we but taste, Who, proceeding from the Fount of life, seems to flow more abundantly in those celestial spirits, a seething torrent of sevenfold heavenly virtue."
 
 I answer that, We may speak of the gifts in two ways: first, as to their essence; and thus they will be most perfectly in heaven, as may be gathered from the passage of Ambrose, just quoted. The reason for this is that the gifts of the Holy Ghost render the human mind amenable to the motion of the Holy Ghost: which will be especially realized in heaven, where God will be "all in all" (1 Cor. 15:28), and man entirely subject unto Him. Secondly, they may be considered as regards the matter about which their operations are: and thus, in the present life they have an operation about a matter, in respect of which they will have no operation in the state of glory. Considered in this way, they will not remain in the state of glory; just as we have stated to be the case with regard to the cardinal virtues ([1661]Q[67], A[1]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Gregory is speaking there of the gifts according as they are compatible with the present state: for it is thus that they afford us protection against evil temptations. But in the state of glory, where all evil will have ceased, we shall be perfected in good by the gifts of the Holy Ghost.
 
 Reply to Objection 2: Gregory, in almost every gift, includes something that passes away with the present state, and something that remains in the future state. For he says that "wisdom strengthens the mind with the hope and certainty of eternal things"; of which two, hope passes, and certainty remains. Of understanding, he says "that it penetrates the truths heard, refreshing the heart and enlightening its darkness," of which, hearing passes away, since "they shall teach no more every man . . . his brother" (Jer. 31:3,4); but the enlightening of the mind remains. Of counsel he says that it "prevents us from being impetuous," which is necessary in the present life; and also that "it makes the mind full of reason," which is necessary even in the future state. Of fortitude he says that it "fears not adversity," which is necessary in the present life; and further, that it "sets before us the viands of confidence," which remains also in the future life. With regard to knowledge he mentions only one thing, viz. that "she overcomes the void of ignorance," which refers to the present state. When, however, he adds "in the womb of the mind," this may refer figuratively to the fulness of knowledge, which belongs to the future state. Of piety he says that "it satisfies the inmost heart with deeds of mercy." These words taken literally refer only to the present state: yet the inward regard for our neighbor, signified by "the inmost heart," belongs also to the future state, when piety will achieve, not works of mercy, but fellowship of joy. Of fear he say that "it oppresses the mind, lest it pride itself in present things," which refers to the present state, and that "it strengthens it with the meat of hope for the future," which also belongs to the present state, as regards hope, but may also refer to the future state, as regards being "strengthened" for things we hope are here, and obtain there.
 
 Reply to Objection 3: This argument considers the gifts as to their matter. For the matter of the gifts will not be the works of the active life; but all the gifts will have their respective acts about things pertaining to the contemplative life, which is the life of heavenly bliss.
-# Whether The Gifts Are Set Down By Isaias In Their Order Of Dignity?
+## Whether The Gifts Are Set Down By Isaias In Their Order Of Dignity?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the gifts are not set down by Isaias in their order of dignity. For the principal gift is, seemingly, that which, more than the others, God requires of man. Now God requires of man fear, more than the other gifts: for it is written (Dt. 10:12): "And now, Israel, what doth the Lord thy God require of thee, but that thou fear the Lord thy God?" and (Malachi 1:6): "If . . . I be a master, where is My fear?" Therefore it seems that fear, which is mentioned last, is not the lowest but the greatest of the gifts.
 
@@ -187,13 +187,13 @@ Objection 3: Further, knowledge perfects man's judgment, while counsel pertains 
 
 Objection 4: Further, fortitude pertains to the appetitive power, while science belongs to reason. But reason is a more excellent power than the appetite. Therefore knowledge is a more excellent gift than fortitude; and yet the latter is given the precedence. Therefore the gifts are not set down in their order of dignity.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says [*De Serm. Dom. in Monte i, 4]: "It seems to me that the sevenfold operation of the Holy Ghost, of which Isaias speaks, agrees in degrees and expression with these [of which we read in Mat. 5:3]: but there is a difference of order, for there [viz. in Isaias] the enumeration begins with the more excellent gifts, here, with the lower gifts."
 
 I answer that, The excellence of the gifts can be measured in two ways: first, simply, viz. by comparison to their proper acts as proceeding from their principles; secondly, relatively, viz. by comparison to their matter. If we consider the excellence of the gifts simply, they follow the same rule as the virtues, as to their comparison one with another; because the gifts perfect man for all the acts of the soul's powers, even as the virtues do, as stated above [1662](A[4]). Hence, as the intellectual virtues have the precedence of the moral virtues, and among the intellectual virtues, the contemplative are preferable to the active, viz. wisdom, understanding and science to prudence and art (yet so that wisdom stands before understanding, and understanding before science, and prudence and synesis before eubulia): so also among the gifts, wisdom, understanding, knowledge, and counsel are more excellent than piety, fortitude, and fear; and among the latter, piety excels fortitude, and fortitude fear, even as justice surpasses fortitude, and fortitude temperance. But in regard to their matter, fortitude and counsel precede knowledge and piety: because fortitude and counsel are concerned with difficult matters, whereas piety and knowledge regard ordinary matters. Consequently the excellence of the gifts corresponds with the order in which they are enumerated; but so far as wisdom and understanding are given the preference to the others, their excellence is considered simply, while, so far, as counsel and fortitude are preferred to knowledge and piety, it is considered with regard to their matter.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Fear is chiefly required as being the foundation, so to speak, of the perfection of the other gifts, for "the fear of the Lord is the beginning of wisdom" (Ps. 110:10; Ecclus. 1:16), and not as though it were more excellent than the others. Because, in the order of generation, man departs from evil on account of fear (Prov. 16:16), before doing good works, and which result from the other gifts.
 
@@ -202,9 +202,9 @@ Reply to Objection 2: In the words quoted from the Apostle, piety is not compare
 Reply to Objection 3: Although knowledge stands before counsel by reason of its judgment, yet counsel is more excellent by reason of its matter: for counsel is only concerned with matters of difficulty (Ethic. iii, 3), whereas the judgment of knowledge embraces all matters.
 
 Reply to Objection 4: The directive gifts which pertain to the reason are more excellent than the executive gifts, if we consider them in relation to their acts as proceeding from their powers, because reason transcends the appetite as a rule transcends the thing ruled. But on the part of the matter, counsel is united to fortitude as the directive power to the executive, and so is knowledge united to piety: because counsel and fortitude are concerned with matters of difficulty, while knowledge and piety are concerned with ordinary matters. Hence counsel together with fortitude, by reason of their matter, are given the preference to knowledge and piety.
-# Whether The Virtues Are More Excellent Than The Gifts?
+## Whether The Virtues Are More Excellent Than The Gifts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the virtues are more excellent than the gifts. For Augustine says (De Trin. xv, 18) while speaking of charity: "No gift of God is more excellent than this. It is this alone which divides the children of the eternal kingdom from the children of eternal damnation. Other gifts are bestowed by the Holy Ghost, but, without charity, they avail nothing." But charity is a virtue. Therefore a virtue is more excellent than the gifts of the Holy Ghost.
 
@@ -212,7 +212,7 @@ Objection 2: Further, that which is first naturally, seems to be more excellent.
 
 Objection 3: Further, Augustine says (De Lib. Arb. ii, 19) that "the virtues cannot be used to evil purpose." But it is possible to make evil use of the gifts, for Gregory says (Moral. i, 18): "We offer up the sacrifice of prayer . . . lest wisdom may uplift; or understanding, while it runs nimbly, deviate from the right path; or counsel, while it multiplies itself, grow into confusion; that fortitude, while it gives confidence, may not make us rash; lest knowledge, while it knows and yet loves not, may swell the mind; lest piety, while it swerves from the right line, may become distorted; and lest fear, while it is unduly alarmed, may plunge us into the pit of despair." Therefore the virtues are more excellent than the gifts of the Holy Ghost.
 
-## Answer
+### Answer
 
 On the contrary, The gifts are bestowed to assist the virtues and to remedy certain defects, as is shown in the passage quoted (OBJ 2), so that, seemingly, they accomplish what the virtues cannot. Therefore the gifts are more excellent than the virtues.
 
@@ -222,7 +222,7 @@ Accordingly the gifts seem to be compared to the theological virtues, by which m
 
 But if we compare the gifts to the other virtues, intellectual and moral, then the gifts have the precedence of the virtues. Because the gifts perfect the soul's powers in relation to the Holy Ghost their Mover; whereas the virtues perfect, either the reason itself, or the other powers in relation to reason: and it is evident that the more exalted the mover, the more excellent the disposition whereby the thing moved requires to be disposed. Therefore the gifts are more perfect than the virtues.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Charity is a theological virtue; and such we grant to be more perfect than the gifts.
 

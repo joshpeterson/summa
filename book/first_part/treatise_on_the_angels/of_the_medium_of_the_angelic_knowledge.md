@@ -4,9 +4,9 @@ Next in order, the question arises as to the medium of the angelic knowledge. Un
 (1) Do the angels know everything by their substance, or by some species?
 (2) If by species, is it by connatural species, or is it by such as they have derived from things?
 (3) Do the higher angels know by more universal species than the lower angels?
-# Whether The Angels Know All Things By Their Substance?
+## Whether The Angels Know All Things By Their Substance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels know all things by their substance. For Dionysius says (Div. Nom. vii) that "the angels, according to the proper nature of a mind, know the things which are happening upon earth." But the angel's nature is his essence. Therefore the angel knows things by his essence.
 
@@ -14,22 +14,22 @@ Objection 2: Further, according to the Philosopher (Metaph. xii, text. 51; De An
 
 Objection 3: Further, everything which is contained in another is there according to the mode of the container. But an angel has an intellectual nature. Therefore whatever is in him is there in an intelligible mode. But all things are in him: because the lower orders of beings are essentially in the higher, while the higher are in the lower participatively: and therefore Dionysius says (Div. Nom. iv) that God "enfolds the whole in the whole," i.e. all in all. Therefore the angel knows all things in his substance.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. iv) that "the angels are enlightened by the forms of things." Therefore they know by the forms of things, and not by their own substance.
 
 I answer that, The medium through which the intellect understands, is compared to the intellect understanding it as its form, because it is by the form that the agent acts. Now in order that the faculty may be perfectly completed by the form, it is necessary for all things to which the faculty extends to be contained under the form. Hence it is that in things which are corruptible, the form does not perfectly complete the potentiality of the matter: because the potentiality of the matter extends to more things than are contained under this or that form. But the intellective power of the angel extends to understanding all things: because the object of the intellect is universal being or universal truth. The angel's essence, however, does not comprise all things in itself, since it is an essence restricted to a genus and species. This is proper to the Divine essence, which is infinite, simply and perfectly to comprise all things in Itself. Therefore God alone knows all things by His essence. But an angel cannot know all things by his essence; and his intellect must be perfected by some species in order to know things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When it is said that the angel knows things according to his own nature, the words "according to" do not determine the medium of such knowledge, since the medium is the similitude of the thing known; but they denote the knowing power, which belongs to the angel of his own nature.
 
 Reply to Objection 2: As the sense in act is the sensible in act, as stated in De Anima ii, text. 53, not so that the sensitive power is the sensible object's likeness contained in the sense, but because one thing is made from both as from act and potentiality: so likewise the intellect in act is said to be the thing understood in act, not that the substance of the intellect is itself the similitude by which it understands, but because that similitude is its form. Now, it is precisely the same thing to say "in things which are without matter, the intellect is the same thing as the object understood," as to say that "the intellect in act is the thing understood in act"; for a thing is actually understood, precisely because it is immaterial.
 
 Reply to Objection 3: The things which are beneath the angel, and those which are above him, are in a measure in his substance, not indeed perfectly, nor according to their own proper formality---because the angel's essence, as being finite, is distinguished by its own formality from other things---but according to some common formality. Yet all things are perfectly and according to their own formality in God's essence, as in the first and universal operative power, from which proceeds whatever is proper or common to anything. Therefore God has a proper knowledge of all things by His own essence: and this the angel has not, but only a common knowledge.
-# Whether The Angels Understand By Species Drawn From Things?
+## Whether The Angels Understand By Species Drawn From Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels understand by species drawn from things. For everything understood is apprehended by some likeness within him who understands it. But the likeness of the thing existing in another is there either by way of an exemplar, so that the likeness is the cause of the thing; or else by way of an image, so that it is caused by such thing. All knowledge, then, of the person understanding must either be the cause of the object understood, or else caused by it. Now the angel's knowledge is not the cause of existing things; that belongs to the Divine knowledge alone. Therefore it is necessary for the species, by which the angelic mind understands, to be derived from things.
 
@@ -37,7 +37,7 @@ Objection 2: Further, the angelic light is stronger than the light of the active
 
 Objection 3: Further, the species in the intellect are indifferent to what is present or distant, except in so far as they are taken from sensible objects. Therefore, if the angel does not understand by species drawn from things, his knowledge would be indifferent as to things present and distant; and so he would be moved locally to no purpose.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. vii) that the "angels do not gather their Divine knowledge from things divisible or sensible."
 
@@ -45,16 +45,16 @@ I answer that, The species whereby the angels understand are not drawn from thin
 
 The same is evident from the manner of existence of such substances. The lower spiritual substances---that is, souls---have a nature akin to a body, in so far as they are the forms of bodies: and consequently from their very mode of existence it behooves them to seek their intelligible perfection from bodies, and through bodies; otherwise they would be united with bodies to no purpose. On the other hand, the higher substances---that is, the angels---are utterly free from bodies, and subsist immaterially and in their own intelligible nature; consequently they attain their intelligible perfection through an intelligible outpouring, whereby they received from God the species of things known, together with their intellectual nature. Hence Augustine says (Gen. ad lit. ii, 8): "The other things which are lower than the angels are so created that they first receive existence in the knowledge of the rational creature, and then in their own nature."
 
-## Replies
+### Replies
 
 Reply to Objection 1: There are images of creatures in the angel's mind, not, indeed derived from creatures, but from God, Who is the cause of creatures, and in Whom the likenesses of creatures first exist. Hence Augustine says (Gen. ad lit. ii, 8) that, "As the type, according to which the creature is fashioned, is in the Word of God before the creature which is fashioned, so the knowledge of the same type exists first in the intellectual creature, and is afterwards the very fashioning of the creature."
 
 Reply to Objection 2: To go from one extreme to the other it is necessary to pass through the middle. Now the nature of a form in the imagination, which form is without matter but not without material conditions, stands midway between the nature of a form which is in matter, and the nature of a form which is in the intellect by abstraction from matter and from material conditions. Consequently, however powerful the angelic mind might be, it could not reduce material forms to an intelligible condition, except it were first to reduce them to the nature of imagined forms; which is impossible, since the angel has no imagination, as was said above ([494]Q[54], A[5]). Even granted that he could abstract intelligible species from material things, yet he would not do so; because he would not need them, for he has connatural intelligible species.
 
 Reply to Objection 3: The angel's knowledge is quite indifferent as to what is near or distant. Nevertheless his local movement is not purposeless on that account: for he is not moved to a place for the purpose of acquiring knowledge, but for the purpose of operation.
-# Whether The Higher Angels Understand By More Universal Species Than The Lower Angels?
+## Whether The Higher Angels Understand By More Universal Species Than The Lower Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the higher angels do not understand by more universal species than the lower angels. For the universal, seemingly, is what is abstracted from particulars. But angels do not understand by species abstracted from things. Therefore it cannot be said that the species of the angelic intellect are more or less universal.
 
@@ -62,7 +62,7 @@ Objection 2: Further, whatever is known in detail is more perfectly known than w
 
 Objection 3: Further, the same cannot be the proper type of many. But if the higher angel knows various things by one universal form, which the lower angel knows by several special forms, it follows that the higher angel uses one universal form for knowing various things. Therefore he will not be able to have a proper knowledge of each; which seems unbecoming.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Coel. Hier. xii) that the higher angels have a more universal knowledge than the lower. And in De Causis it is said that the higher angels have more universal forms.
 
@@ -70,7 +70,7 @@ I answer that, For this reason are some things of a more exalted nature, because
 
 Thus the higher the angel is, by so much the fewer species will he be able to apprehend the whole mass of intelligible objects. Therefore his forms must be more universal; each one of them, as it were, extending to more things. An example of this can in some measure be observed in ourselves. For some people there are who cannot grasp an intelligible truth, unless it be explained to them in every part and detail; this comes of their weakness of intellect: while there are others of stronger intellect, who can grasp many things from few.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is accidental to the universal to be abstracted from particulars, in so far as the intellect knowing it derives its knowledge from things. But if there be an intellect which does not derive its knowledge from things, the universal which it knows will not be abstracted from things, but in a measure will be pre-existing to them; either according to the order of causality, as the universal ideas of things are in the Word of God; or at least in the order of nature, as the universal ideas of things are in the angelic mind.
 

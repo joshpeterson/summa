@@ -3,9 +3,9 @@
 We must now consider cruelty, under which head there are two points of inquiry:
 (1) Whether cruelty is opposed to clemency?
 (2) Of its comparison with savagery or brutality.
-# Whether Cruelty Is Opposed To Clemency?
+## Whether Cruelty Is Opposed To Clemency?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that cruelty is not opposed to clemency. For Seneca says (De Clementia ii, 4) that "those are said to be cruel who exceed in punishing," which is contrary to justice. Now clemency is reckoned a part, not of justice but of temperance. Therefore apparently cruelty is not opposed to clemency.
 
@@ -13,22 +13,22 @@ Objection 2: Further, it is written (Jer. 6:23): "They are cruel, and will have 
 
 Objection 3: Further, clemency is concerned with the infliction of punishment, as stated above ([3584]Q[157], A[1]): whereas cruelty applies to the withdrawal of beneficence, according to Prov. 11:17, "But he that is cruel casteth off even his own kindred." Therefore cruelty is not opposed to clemency.
 
-## Answer
+### Answer
 
 On the contrary, Seneca says (De Clementia ii, 4) that "the opposite of clemency is cruelty, which is nothing else but hardness of heart in exacting punishment."
 
 I answer that, Cruelty apparently takes its name from "cruditas" [rawness]. Now just as things when cooked and prepared are wont to have an agreeable and sweet savor, so when raw they have a disagreeable and bitter taste. Now it has been stated above ([3585]Q[157], A[3], ad 1; A[4], ad 3) that clemency denotes a certain smoothness or sweetness of soul, whereby one is inclined to mitigate punishment. Hence cruelty is directly opposed to clemency.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as it belongs to equity to mitigate punishment according to reason, while the sweetness of soul which inclines one to this belongs to clemency: so too, excess in punishing, as regards the external action, belongs to injustice; but as regards the hardness of heart, which makes one ready to increase punishment, belongs to cruelty.
 
 Reply to Objection 2: Mercy and clemency concur in this, that both shun and recoil from another's unhappiness, but in different ways. For it belongs to mercy [*Cf.[3586] Q[30], A[1]] to relieve another's unhappiness by a beneficent action, while it belongs to clemency to mitigate another's unhappiness by the cessation of punishment. And since cruelty denotes excess in exacting punishment, it is more directly opposed to clemency than to mercy; yet on account of the mutual likeness of these virtues, cruelty is sometimes taken for mercilessness.
 
 Reply to Objection 3: Cruelty is there taken for mercilessness, which is lack of beneficence. We may also reply that withdrawal of beneficence is in itself a punishment.
-# Whether Cruelty Differs From Savagery Or Brutality?
+## Whether Cruelty Differs From Savagery Or Brutality?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that cruelty differs not from savagery or brutality. For seemingly one vice is opposed in one way to one virtue. Now both savagery and cruelty are opposed to clemency by way of excess. Therefore it would seem that savagery and cruelty are the same.
 
@@ -36,13 +36,13 @@ Objection 2: Further, Isidore says (Etym. x) that "severity is as it were savage
 
 Objection 3: Further, just as there is a vice opposed to a virtue by way of excess, so is there a vice opposed to it by way of deficiency, which latter is opposed both to the virtue which is the mean, and to the vice which is in excess. Now the same vice pertaining to deficiency is opposed to both cruelty and savagery, namely remission or laxity. For Gregory says (Moral. xx, 5): "Let there be love, but not that which enervates, let there be severity, but without fury, let there be zeal without unseemly savagery, let there be piety without undue clemency." Therefore savagery is the same as cruelty.
 
-## Answer
+### Answer
 
 On the contrary, Seneca says (De Clementia ii, 4) that "a man who is angry without being hurt, or with one who has not offended him, is not said to be cruel, but to be brutal or savage."
 
 I answer that, "Savagery" and "brutality" take their names from a likeness to wild beasts which are also described as savage. For animals of this kind attack man that they may feed on his body, and not for some motive of justice the consideration of which belongs to reason alone. Wherefore, properly speaking, brutality or savagery applies to those who in inflicting punishment have not in view a default of the person punished, but merely the pleasure they derive from a man's torture. Consequently it is evident that it is comprised under bestiality: for such like pleasure is not human but bestial, and resulting as it does either from evil custom, or from a corrupt nature, as do other bestial emotions. On the other hand, cruelty not only regards the default of the person punished, but exceeds in the mode of punishing: wherefore cruelty differs from savagery or brutality, as human wickedness differs from bestiality, as stated in Ethic. vii, 5.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Clemency is a human virtue; wherefore directly opposed to it is cruelty which is a form of human wickedness. But savagery or brutality is comprised under bestiality, wherefore it is directly opposed not to clemency, but to a more excellent virtue, which the Philosopher (Ethic. vii, 5) calls "heroic" or "god-like," which according to us, would seem to pertain to the gifts of the Holy Ghost. Consequently we may say that savagery is directly opposed to the gift of piety.
 

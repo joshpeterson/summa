@@ -5,9 +5,9 @@ We must now consider the forgiveness of venial sins, under which head there are 
 (2) Whether it can be forgiven without the infusion of grace?
 (3) Whether venial sins are forgiven by the sprinkling of holy water, a bishop's blessing, the beating of the breast, the Lord's Prayer, and the like?
 (4) Whether a venial sin can be taken away without a mortal sin?
-# Whether Venial Sin Can Be Forgiven Without Penance?
+## Whether Venial Sin Can Be Forgiven Without Penance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that venial sin can be forgiven without penance. For, as stated above ([4775]Q[84], A[10], ad 4), it is essential to true penance that man should not only sorrow for his past sins, but also that he should purpose to avoid them for the future. Now venial sins are forgiven without any such purpose, for it is certain that man cannot lead the present life without committing venial sins. Therefore venial sins can be forgiven without penance.
 
@@ -15,7 +15,7 @@ Objection 2: Further, there is no penance without actual displeasure at one's si
 
 Objection 3: Further, venial sins are contrary to the fervor of charity, as stated in the [4776]SS, Q[24], A[10]. Now one contrary is removed by another. Therefore forgiveness of venial sins is caused by the fervor of charity, which may be without actual displeasure at venial sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says in De Poenitentia [*De vera et falsa Poenitentia, the authorship of which is unknown], that "there is a penance which is done for venial sins in the Church every day" which would be useless if venial sins could be forgiven without Penance.
 
@@ -23,16 +23,16 @@ I answer that, Forgiveness of sin, as stated above ([4777]Q[86], A[2]), is effec
 
 Yet a more perfect penance is requisite for the forgiveness of mortal sin, namely that man should detest actually the mortal sin which he committed, so far as lies in his power, that is to say, he should endeavor to remember each single mortal sin, in order to detest each one. But this is, not required for the forgiveness of venial sins; although it does not suffice to have habitual displeasure, which is included in the habit of charity or of penance as a virtue, since then venial sin would be incompatible with charity, which is evidently untrue. Consequently it is necessary to have a certain virtual displeasure, so that, for instance, a man's affections so tend to God and Divine things, that whatever might happen to him to hamper that tendency would be displeasing to him, and would grieve him, were he to commit it, even though he were not to think of it actually: and this is not sufficient for the remission of mortal sin, except as regards those sins which he fails to remember after a careful examination.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When man is in a state of grace, he can avoid all mortal sins, and each single one; and he can avoid each single venial sin, but not all, as was explained in the [4778]FS, Q[74], A[8], ad 2; [4779]FS, Q[109], A[8]. Consequently penance for mortal sins requires man to purpose abstaining from mortal sins, all and each; whereas penance for venial sins requires man to purpose abstaining from each, but not from all, because the weakness of this life does not allow of this. Nevertheless he needs to have the purpose of taking steps to commit fewer venial sins, else he would be in danger of falling back, if he gave up the desire of going forward, or of removing the obstacles to spiritual progress, such as venial sins are.
 
 Reply to Objection 2: Death for Christ's sake, as stated above ([4780]Q[66], A[11]), obtains the power of Baptism, wherefore it washes away all sin, both venial and mortal, unless it find the will attached to sin.
 
 Reply to Objection 3: The fervor of charity implies virtual displeasure at venial sins, as stated above ([4781]Q[79], A[4]).
-# Whether Infusion Of Grace Is Necessary For The Remission Of Venial Sins?
+## Whether Infusion Of Grace Is Necessary For The Remission Of Venial Sins?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that infusion of grace is necessary for the remission of venial sins. Because an effect is not produced without its proper cause. Now the proper cause of the remission of sins is grace; for man's sins are not forgiven through his own merits; wherefore it is written (Eph. 2:4,5): "God, Who is rich in mercy, for His exceeding charity, wherewith He loved us, even when we were dead in sins, hath quickened us together in Christ, by Whose grace you are saved." Therefore venial sins are not forgiven without infusion of grace.
 
@@ -40,7 +40,7 @@ Objection 2: Further, venial sins are not forgiven without Penance. Now grace is
 
 Objection 3: Further, venial sin produces a stain on the soul. Now a stain is not removed save by grace which is the spiritual beauty of the soul. Therefore it seems that venial sins are not forgiven without infusion of grace.
 
-## Answer
+### Answer
 
 On the contrary, The advent of venial sin neither destroys nor diminishes grace, as stated in the [4782]SS, Q[24], A[10]. Therefore, in like manner, an infusion of grace is not necessary in order to remove venial sin.
 
@@ -48,16 +48,16 @@ I answer that, Each thing is removed by its contrary. But venial sin is not cont
 
 Nevertheless, since in those who have the use of free-will (in whom alone can there be venial sins), there can be no infusion of grace without an actual movement of the free-will towards God and against sin, consequently whenever grace is infused anew, venial sins are forgiven.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even the forgiveness of venial sins is an effect of grace, in virtue of the act which grace produces anew, but not through any habit infused anew into the soul.
 
 Reply to Objection 2: Venial sin is never forgiven without some act, explicit or implicit, of the virtue of penance, as stated above [4785](A[1]): it can, however, be forgiven without the sacrament of Penance, which is formally perfected by the priestly absolution, as stated above (Q[87], A[2]). Hence it does not follow that infusion of grace is required for the forgiveness of venial sin, for although this infusion takes place in every sacrament, it does not occur in every act of virtue.
 
 Reply to Objection 3: Just as there are two kinds of bodily stain, one consisting in the privation of something required for beauty, e.g. the right color or the due proportion of members, and another by the introduction of some hindrance to beauty, e.g. mud or dust; so too, a stain is put on the soul, in one way, by the privation of the beauty of grace through mortal sin, in another, by the inordinate inclination of the affections to some temporal thing, and this is the result of venial sin. Consequently, an infusion of grace is necessary for the removal of mortal sin, but in order to remove venial sin, it is necessary to have a movement proceeding from grace, removing the inordinate attachment to the temporal thing.
-# Whether Venial Sins Are Removed By The Sprinkling Of Holy Water And The Like?
+## Whether Venial Sins Are Removed By The Sprinkling Of Holy Water And The Like?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that venial sins are not removed by the sprinkling of holy water, a bishop's blessing, and the like. For venial sins are not forgiven without Penance, as stated above [4786](A[1]). But Penance suffices by itself for the remission of venial sins. Therefore the above have nothing to do with the remission of venial sins.
 
@@ -65,22 +65,22 @@ Objection 2: Further, each of the above bears the same relation to one venial si
 
 Objection 3: Further, venial sins occasion a debt of some punishment, albeit temporal; for it is written (1 Cor. 3:12, 15) of him that builds up "wood, hay, stubble" that "he shall be saved, yet so as by fire." Now the above things whereby venial sins are said to be taken away, contain either no punishment at all, or very little. Therefore they do not suffice for the full remission of venial sins.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says in De Poenitentia [*Hom. 30 inter 1; Ep. cclxv] that "for our slight sins we strike our breasts, and say: Forgive us our trespasses," and so it seems that striking one's breast, and the Lord's Prayer cause the remission of venial sins: and the same seems to apply to the other things.
 
 I answer that, As stated above [4787](A[2]), no infusion of fresh grace is required for the forgiveness of a venial sin, but it is enough to have an act proceeding from grace, in detestation of that venial sin, either explicit or at least implicit, as when one is moved fervently to God. Hence, for three reasons, certain things cause the remission of venial sins: first, because they imply the infusion of grace, since the infusion of grace removes venial sins, as stated above [4788](A[2]); and so, by the Eucharist, Extreme Unction, and by all the sacraments of the New Law without exception, wherein grace is conferred, venial sins are remitted. Secondly, because they imply a movement of detestation for sin, and in this way the general confession [*i.e. the recital of the Confiteor or of an act of contrition], the beating of one's breast, and the Lord's Prayer conduce to the remission of venial sins, for we ask in the Lord's Prayer: "Forgive us our trespasses." Thirdly, because they include a movement of reverence for God and Divine things; and in this way a bishop's blessing, the sprinkling of holy water, any sacramental anointing, a prayer said in a dedicated church, and anything else of the kind, conduce to the remission of venial sins.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All these things cause the remission of venial sins, in so far as they incline the soul to the movement of penance, viz., the implicit or explicit detestation of one's sins.
 
 Reply to Objection 2: All these things, so far as they are concerned, conduce to the remission of all venial sins: but the remission may be hindered as regards certain venial sins, to which the mind is still actually attached, even as insincerity sometimes impedes the effect of Baptism.
 
 Reply to Objection 3: By the above things, venial sins are indeed taken away as regards the guilt, both because those things are a kind of satisfaction, and through the virtue of charity whose movement is aroused by such things.
-# Whether Venial Sin Can Be Taken Away Without Mortal Sin?
+## Whether Venial Sin Can Be Taken Away Without Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that venial sin can be taken away without mortal sin. For, on Jn. 8:7: "He that is without sin among you, let him first cast a stone at her," a gloss says that "all those men were in a state of mortal sin: for venial offenses were forgiven them through the legal ceremonies." Therefore venial sin can be taken away without mortal sin.
 
@@ -88,13 +88,13 @@ Objection 2: Further, no infusion of grace is required for the remission of veni
 
 Objection 3: Further, a venial sin differs from a mortal sin more than from another venial sin. But one venial sin can be pardoned without another, as stated above (A[3], ad 2;[4789] Q[87], A[3]). Therefore a venial sin can be taken away without a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 5:26): "Amen I say to thee, thou shalt not go out from thence," viz., from the prison, into which a man is cast for mortal sin, "till thou repay the last farthing," by which venial sin is denoted. Therefore a venial sin is not forgiven without mortal sin.
 
 I answer that, As stated above ([4790]Q[87], A[3]), there is no remission of any sin whatever except by the power of grace, because, as the Apostle declares (Rom. 4:8), it is owing to God's grace that He does not impute sin to a man, which a gloss on that passage expounds as referring to venial sin. Now he that is in a state of mortal sin is without the grace of God. Therefore no venial sin is forgiven him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Venial offenses, in the passage quoted, denote the irregularities or uncleannesses which men contracted in accordance with the Law.
 

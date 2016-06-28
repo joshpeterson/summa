@@ -5,9 +5,9 @@ We must now consider the unity of Christ's operation; and under this head there 
 (2) Whether in Christ there were several operations of the human nature?
 (3) Whether Christ by His human operation merited anything for Himself?
 (4) Whether He merited anything for us by it?
-# Whether In Christ There Is Only One Operation Of The Godhead And Manhood?
+## Whether In Christ There Is Only One Operation Of The Godhead And Manhood?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in Christ there is but one operation of the Godhead and the Manhood. For Dionysius says (Div. Nom. ii): "The most loving operation of God is made manifest to us by the supersubstantial Word having taken flesh integrally and truly, and having operated and suffered whatsoever befits His human and Divine operation." But he here mentions only one human and Divine operation, which is written in Greek {theandrike}, i.e. God-manlike. Hence it seems that there is but one composite operation in Christ.
 
@@ -19,7 +19,7 @@ Objection 4: Further, as being belongs to a subsisting hypostasis, so also does 
 
 Objection 5: Further, as being belongs to a sub-operated there is one operation. But the same thing was operated by the Godhead and the Manhood, as the healing of the lepers or the raising of the dead. Hence it seems that in Christ there is but one operation of the Godhead and the Manhood.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Fide ii, 8): "How can the same operation spring from different powers? Cannot the lesser operate as the greater? And can there be one operation where there are different substances?"
 
@@ -31,7 +31,7 @@ Therefore in Christ the human nature has its proper form and power whereby it ac
 
 But if there were only one operation of the Godhead and manhood in Christ, it would be necessary to say either that the human nature had not its proper form and power (for this could not possibly be said of the Divine), whence it would follow that in Christ there was only the Divine operation; or it would be necessary to say that from the Divine and human power there was made up one power. Now both of these are impossible. For by the first the human nature in Christ is supposed to be imperfect; and by the second a confusion of the natures is supposed. Hence it is with reason that the Sixth Council (Act. 18) condemned this opinion, and decreed as follows: "We confess two natural, indivisible, unconvertible, unconfused, and inseparable operations in the same Lord Jesus Christ our true God"; i.e. the Divine operation and the human operation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Dionysius places in Christ a theandric, i.e. a God-manlike or Divino-human, operation not by any confusion of the operations or powers of both natures, but inasmuch as His Divine operation employs the human, and His human operation shares in the power of the Divine. Hence, as he says in a certain epistle (Ad Caium iv), "what is of man He works beyond man; and this is shown by the Virgin conceiving supernaturally and by the unstable waters bearing up the weight of bodily feet." Now it is clear that to be begotten belongs to human nature, and likewise to walk; yet both were in Christ supernaturally. So, too, He wrought Divine things humanly, as when He healed the leper with a touch. Hence in the same epistle he adds: "He performed Divine works not as God does, and human works not as man does, but, God having been made man, by a new operation of God and man."
 
@@ -42,9 +42,9 @@ Reply to Objection 3: To operate belongs to a subsisting hypostasis; in accordan
 Reply to Objection 4: Being and operation belong to the person by reason of the nature; yet in a different manner. For being belongs to the very constitution of the person, and in this respect it has the nature of a term; consequently, unity of person requires unity of the complete and personal being. But operation is an effect of the person by reason of a form or nature. Hence plurality of operations is not incompatible with personal unity.
 
 Reply to Objection 5: The proper work of the Divine operation is different from the proper work of the human operation. Thus to heal a leper is a proper work of the Divine operation, but to touch him is the proper work of the human operation. Now both these operations concur in one work, inasmuch as one nature acts in union with the other.
-# Whether In Christ There Are Several Human Operations?
+## Whether In Christ There Are Several Human Operations?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in Christ there are several human operations. For Christ as man communicates with plants by His nutritive soul, with the brutes by His sensitive soul, and with the angels by His intellective soul, even as other men do. Now the operations of a plant as plant and of an animal as animal are different. Therefore Christ as man has several operations.
 
@@ -52,7 +52,7 @@ Objection 2: Further, powers and habits are distinguished by their acts. Now in 
 
 Objection 3: Further, instruments ought to be proportioned to their operations. Now the human body has divers members of different form, and consequently fitted to divers operations. Therefore in Christ there are divers operations in the human nature.
 
-## Answer
+### Answer
 
 On the contrary, As Damascene says (De Fide Orth. iii, 15), "operation is consequent upon the nature." But in Christ there is only one human nature. Therefore in Christ there is only one human operation.
 
@@ -62,14 +62,14 @@ And hence in every mere man the operations of the elemental body and of the vege
 
 Hence in every mere man there is but one operation, which is properly called human; but besides this there are in a mere man certain other operations, which are not strictly human, as was said above. But in the Man Jesus Christ there was no motion of the sensitive part which was not ordered by reason. Even the natural and bodily operations pertained in some respects to His will, inasmuch as it was His will "that His flesh should do and suffer what belonged to it," as stated above ([4092]Q[18], A[5]). Much more, therefore, is there one operation in Christ, than in any other man whatsoever.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The operations of the sensitive and nutritive parts are not strictly human, as stated above; yet in Christ these operations were more human than in others.
 
 Reply to Objection 2: Powers and habits are diversified by comparison with their objects. Hence in this way the diversity of operations corresponds to the divers powers and habits, as likewise to the divers objects. Now we do not wish to exclude this diversity of operations from Christ's humanity, nor that which springs from a diversity of time, but only that which regards the first active principle, as was said above.
-# Whether The Human Action Of Christ Could Be Meritorious To Him?
+## Whether The Human Action Of Christ Could Be Meritorious To Him?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the human action of Christ could not be meritorious to Him. For before His death Christ was a comprehensor even as He is now. But comprehensors do not merit: because the charity of the comprehensor belongs to the reward of beatitude, since fruition depends upon it. Hence it does not seem to be the principle of merit, since merit and reward are not the same. Therefore Christ before His passion did not merit, even as He does not merit now.
 
@@ -79,7 +79,7 @@ Objection 3: Further, whoever has the principle does not properly merit what flo
 
 Objection 4: Further, the manifestation of Christ's excellence is a good, not of Christ Himself, but of those who know Him. Hence it is promised as a reward to such as love Christ that He will be manifested to them, according to Jn. 14:21: "He that loveth Me, shall be loved of My Father, and I will love him and will manifest Myself to him." Therefore Christ did not merit the manifestation of His greatness.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Phil. 2:8,9): "Becoming obedient unto death . . . For which cause God also hath exalted Him." Therefore by obeying He merited His exaltation and thus He merited something for Himself.
 
@@ -87,7 +87,7 @@ I answer that, To have any good thing of oneself is more excellent than to have 
 
 Now since all perfection and greatness must be attributed to Christ, consequently He must have by merit what others have by merit; unless it be of such a nature that its want would detract from Christ's dignity and perfection more than would accrue to Him by merit. Hence He merited neither grace nor knowledge nor the beatitude of His soul, nor the Godhead, because, since merit regards only what is not yet possessed, it would be necessary that Christ should have been without these at some time; and to be without them would have diminished Christ's dignity more than His merit would have increased it. But the glory of the body, and the like, are less than the dignity of meriting, which pertains to the virtue of charity. Hence we must say that Christ had, by merit, the glory of His body and whatever pertained to His outward excellence, as His Ascension, veneration, and the rest. And thus it is clear that He could merit for Himself.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Fruition, which is an act of charity, pertains to the glory of the soul, which Christ did not merit. Hence if He merited by charity, it does not follow that the merit and the reward are the same. Nor did He merit by charity inasmuch as it was the charity of a comprehensor, but inasmuch as it was that of a wayfarer. For He was at once a wayfarer and a comprehensor, as was said above ([4093]Q[15], A[10]). And therefore, since He is no longer a wayfarer, He is not in the state of meriting.
 
@@ -96,9 +96,9 @@ Reply to Objection 2: Because by nature Christ is God and the Son of God, the Di
 Reply to Objection 3: It is by Divine appointment that there is an overflow of glory from the soul to the body, in keeping with human merit; so that as man merits by the act of the soul which he performs in the body, so he may be rewarded by the glory of the soul overflowing to the body. And hence not only the glory of the soul, but also the glory of the body falls under merit, according to Rom. 8:11: "He . . . shall quicken also our [Vulg.: 'your'] mortal bodies, because of His Spirit that dwelleth in us [Vulg.: 'you']." And thus it could fall under Christ's merit.
 
 Reply to Objection 4: The manifestation of Christ's excellence is His good as regards the being which it has in the knowledge of others; although in regard to the being which they have in themselves it chiefly belongs to the good of those who know Him. Yet even this is referred to Christ inasmuch as they are His members.
-# Whether Christ Could Merit For Others?
+## Whether Christ Could Merit For Others?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ could not merit for others. For it is written (Ezech. 18:4): "The soul that sinneth, the same shall die." Hence, for a like reason, the soul that meriteth, the same shall be recompensed. Therefore it is not possible that Christ merited for others.
 
@@ -106,13 +106,13 @@ Objection 2: Further, of the fulness of Christ's grace we all receive, as is wri
 
 Objection 3: Further, the "reward" that we merit is due "according to justice [Vulg.: 'debt'] and not according to grace," as is clear from Rom. 4:4. Therefore if Christ merited our salvation it follows that our salvation is not by God's grace but by justice, and that He acts unjustly with those whom He does not save, since Christ's merit extends to all.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Rom. 5:18): "As by the offense of one, unto all men to condemnation; so also by the justice of one, unto all men to justification of life." But Adam's demerits reached to the condemnation of others. Much more, therefore, does the merit of Christ reach others.
 
 I answer that, As stated above ([4094]Q[8], AA[1],5), grace was in Christ not merely as in an individual, but also as in the Head of the whole Church, to Whom all are united, as members to a head, who constitute one mystical person. And hence it is that Christ's merit extends to others inasmuch as they are His members; even as in a man the action of the head reaches in a manner to all his members, since it perceives not merely for itself alone, but for all the members.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The sin of an individual harms himself alone; but the sin of Adam, who was appointed by God to be the principle of the whole nature, is transmitted to others by carnal propagation. So, too, the merit of Christ, Who has been appointed by God to be the head of all men in regard to grace, extends to all His members.
 

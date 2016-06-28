@@ -5,9 +5,9 @@ OF THE SACRAMENT OF MATRIMONY AS DIRECTED TO AN OFFICE OF NATURE (FOUR ARTICLES)
 (2) Whether it is a matter of precept?
 (3) Whether its act is lawful?
 (4) Whether its act can be meritorious?
-# Whether Matrimony Is Of Natural Law?
+## Whether Matrimony Is Of Natural Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that matrimony is not natural. Because "the natural law is what nature has taught all animals" [*Digest. I, i, de justitia et jure, 1]. But in other animals the sexes are united without matrimony. Therefore matrimony is not of natural law.
 
@@ -17,13 +17,13 @@ Objection 3: Further, natural things are the same among all. But matrimony is no
 
 Objection 4: Further, those things without which the intention of nature can be maintained would seem not to be natural. But nature intends the preservation of the species by generation which is possible without matrimony, as in the case of fornicators. Therefore matrimony is not natural.
 
-## Answer
+### Answer
 
 On the contrary, At the commencement of the Digests it is stated: "The union of male and female, which we call matrimony, is of natural law."
 
 I answer that, A thing is said to be natural in two ways. First, as resulting of necessity from the principles of nature; thus upward movement is natural to fire. In this way matrimony is not natural, nor are any of those things that come to pass at the intervention or motion of the free-will. Secondly, that is said to be natural to which nature inclines although it comes to pass through the intervention of the free-will; thus acts of virtue and the virtues themselves are called natural; and in this way matrimony is natural, because natural reason inclines thereto in two ways. First, in relation to the principal end of matrimony, namely the good of the offspring. For nature intends not only the begetting of offspring, but also its education and development until it reach the perfect state of man as man, and that is the state of virtue. Hence, according to the Philosopher (Ethic. viii, 11,12), we derive three things from our parents, namely "existence," "nourishment," and "education." Now a child cannot be brought up and instructed unless it have certain and definite parents, and this would not be the case unless there were a tie between the man and a definite woman and it is in this that matrimony consists. Secondly, in relation to the secondary end of matrimony, which is the mutual services which married persons render one another in household matters. For just as natural reason dictates that men should live together, since one is not self-sufficient in all things concerning life, for which reason man is described as being naturally inclined to political society, so too among those works that are necessary for human life some are becoming to men, others to women. Wherefore nature inculcates that society of man and woman which consists in matrimony. These two reasons are given by the Philosopher (Ethic. viii, 11,12).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Man's nature inclines to a thing in two ways. In one way, because that thing is becoming to the generic nature, and this is common to all animals; in another way because it is becoming to the nature of the difference, whereby the human species in so far as it is rational overflows the genus; such is an act of prudence or temperance. And just as the generic nature, though one in all animals, yet is not in all in the same way, so neither does it incline in the same way in all, but in a way befitting each one. Accordingly man's nature inclines to matrimony on the part of the difference, as regards the second reason given above; wherefore the Philosopher (Ethic. viii, 11,12; Polit. i) gives this reason in men over other animals; but as regards the first reason it inclines on the part of the genus; wherefore he says that the begetting of offspring is common to all animals. Yet nature does not incline thereto in the same way in all animals; since there are animals whose offspring are able to seek food immediately after birth, or are sufficiently fed by their mother; and in these there is no tie between male and female; whereas in those whose offspring needs the support of both parents, although for a short time, there is a certain tie, as may be seen in certain birds. In man, however, since the child needs the parents' care for a long time, there is a very great tie between male and female, to which tie even the generic nature inclines.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: The assertion of Tully may be true of some particular nati
 Reply to Objection 3: According to the Philosopher (Ethic. vii) "human nature is not unchangeable as the Divine nature is." Hence things that are of natural law vary according to the various states and conditions of men; although those which naturally pertain to things Divine nowise vary.
 
 Reply to Objection 4: Nature intends not only being in the offspring, but also perfect being, for which matrimony is necessary, as shown above.
-# Whether Matrimony Still Comes Under A Precept?
+## Whether Matrimony Still Comes Under A Precept?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that matrimony still comes under a precept. For a precept is binding so long as it is not recalled. But the primary institution of matrimony came under a precept, as stated in the text (Sent. iv, D, 26); nor do we read anywhere that this precept was recalled, but rather that it was confirmed (Mat. 19:6): "What . . . God hath joined together let no man put asunder." Therefore matrimony still comes under a precept.
 
@@ -44,20 +44,20 @@ Objection 3: Further, the good of the species is better than the good of the ind
 
 Objection 4: Further, where the reason of an obligation remains the same, the obligation must remain the same. Now the reason why men were bound to marry in olden times was lest the human race should cease to multiply. Since then the result would be the same, if each one were free to abstain from marriage, it would seem that matrimony comes under a precept.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 7:38): "He that giveth not his virgin in marriage doth better [*Vulg.: 'He that giveth his virgin in marriage doth well, and he that giveth her not doth better']," namely than he that giveth her in marriage. Therefore the contract of marriage is not now a matter of precept.
 
 I answer that, Nature inclines to a thing in two ways. In one way as to that which is necessary for the perfection of the individual, and such an obligation is binding on each one, since natural perfections are common to all. In another way it inclines to that which is necessary for the perfection of the community; and since there are many things of this kind, one of which hinders another, such an inclination does not bind each man by way of precept; else each man would be bound to husbandry and building and to such offices as are necessary to the human community; but the inclination of nature is satisfied by the accomplishment of those various offices by various individuals. Accordingly, since the perfection of the human community requires that some should devote themselves to the contemplative life to which marriage is a very great obstacle, the natural inclination to marriage is not binding by way of precept even according to the philosophers. Hence Theophrastus proves that it is not advisable for a wise man to marry, as Jerome relates (Contra Jovin. i).
 
-## Replies
+### Replies
 
 Reply to Objection 1: This precept has not been recalled, and yet it is not binding on each individual, for the reason given above, except at that time when the paucity of men required each one to betake himself to the begetting of children.
 
 Reply to Objection 4: Human nature has a general inclination to various offices and acts, as already stated. But since it is variously in various subjects, as individualized in this or that one, it inclines one subject more to one of those offices, and another subject more to another, according to the difference of temperament of various individuals. And it is owing to this difference, as well as to Divine providence which governs all, that one person chooses one office such as husbandry, and another person another. And so it is too that some choose the married life and some the contemplative. Wherefore no danger threatens.
-# Whether The Marriage Act Is Always Sinful?
+## Whether The Marriage Act Is Always Sinful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the marriage act is always sinful. For it is written (1 Cor. 7:29): "That they . . . who have wives, be as if they had none." But those who are not married do not perform the marriage act. Therefore even those who are married sin in that act.
 
@@ -71,13 +71,13 @@ Objection 5: Further, things alike in species are judged alike. But marriage int
 
 Objection 6: Further, excess in the passions corrupts virtue. Now there is always excess of pleasure in the marriage act, so much so that it absorbs the reason which is man's principal good, wherefore the Philosopher says (Ethic. vii, 11) that "in that act it is impossible to understand anything." Therefore the marriage act is always a sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 7:28): "If a virgin marry she hath not sinned," and (1 Tim. 5:14): "I will . . . that the younger should marry," and "bear children." But there can be no bearing of children without carnal union. Therefore the marriage act is not a sin; else the Apostle would not have approved of it.
 
 I answer that, If we suppose the corporeal nature to be created by the good God we cannot hold that those things which pertain to the preservation of the corporeal nature and to which nature inclines, are altogether evil; wherefore, since the inclination to beget an offspring whereby the specific nature is preserved is from nature, it is impossible to maintain that the act of begetting children is altogether unlawful, so that it be impossible to find the mean of virtue therein; unless we suppose, as some are mad enough to assert, that corruptible things were created by an evil god, whence perhaps the opinion mentioned in the text is derived (Sent. iv, D, 26); wherefore this is a most wicked heresy.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By these words the Apostle did not forbid the marriage act, as neither did he forbid the possession of things when he said (1 Cor. 7:31): "They that use this world" (let them be) "as if they used it not." In each case he forbade enjoyment [*"Fruitionem," i.e. enjoyment of a thing sought as one's last end]; which is clear from the way in which he expresses himself; for he did not say "let them not use it," or "let them not have them," but let them be "as if they used it not" and "as if they had none."
 
@@ -90,9 +90,9 @@ Reply to Objection 4: Properly speaking, a thing is said to be excused when it h
 Reply to Objection 5: Although they are the same as to their natural species, they differ as to their moral species, which differs in respect of one circumstance, namely intercourse with one's wife and with another than one's wife; just as to kill a man by assault or by justice differentiates the moral species, although the natural species is the same; and yet the one is lawful and the other unlawful.
 
 Reply to Objection 6: The excess of passions that corrupts virtue not only hinders the act of reason, but also destroys the order of reason. The intensity of pleasure in the marriage act does not do this, since, although for the moment man is not being directed, he was previously directed by his reason.
-# Whether The Marriage Act Is Meritorious?
+## Whether The Marriage Act Is Meritorious?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the marriage act is not meritorious. For Chrysostom [*Hom. i in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says in his commentary on Matthew: "Although marriage brings no punishment to those who use it, it affords them no meed." Now merit bears a relation to meed. Therefore the marriage act is not meritorious.
 
@@ -104,13 +104,13 @@ Objection 4: Further, merit like virtue, consists in difficulty. But the marriag
 
 Objection 5: Further, that which cannot be done without venial sin is never meritorious, for a man cannot both merit and demerit at the same time. Now there is always a venial sin in the marriage act, since even the first movement in such like pleasures is a venial sin. Therefore the aforesaid act cannot be meritorious.
 
-## Answer
+### Answer
 
 On the contrary, Every act whereby a precept is fulfilled is meritorious if it be done from charity. Now such is the marriage act, for it is said (1 Cor. 7:3): "Let the husband render the debt to his wife." Therefore, etc.
 
 I answer that, Since no act proceeding from a deliberate will is indifferent, as stated in the Second Book (Sent. ii, D, 40, Q[1], A[3]; [4922]FS, Q[18], A[9]), the marriage act is always either sinful or meritorious in one who is in a state of grace. For if the motive for the marriage act be a virtue, whether of justice that they may render the debt, or of religion, that they may beget children for the worship of God, it is meritorious. But if the motive be lust, yet not excluding the marriage blessings, namely that he would by no means be willing to go to another woman, it is a venial sin; while if he exclude the marriage blessings, so as to be disposed to act in like manner with any woman, it is a mortal sin. And nature cannot move without being either directed by reason, and thus it will be an act of virtue, or not so directed, and then it will be an act of lust.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The root of merit, as regards the essential reward, is charity itself; but as regards an accidental reward, the reason for merit consists in the difficulty of an act; and thus the marriage act is not meritorious except in the first way.
 

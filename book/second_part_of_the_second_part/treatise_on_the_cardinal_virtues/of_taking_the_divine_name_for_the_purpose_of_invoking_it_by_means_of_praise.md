@@ -3,9 +3,9 @@
 We must now consider the taking of the Divine name for the purpose of invoking it by prayer or praise. Of prayer we have already spoken (Q[83] ). Wherefore we must speak now of praise. Under this head there are two points of inquiry:
 (1) Whether God should be praised with the lips?
 (2) Whether God should be praised with song?
-# Whether God Should Be Praised With The Lips?
+## Whether God Should Be Praised With The Lips?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God should not be praised with the lips. The Philosopher says (Ethic. 1,12): "The best of men ere accorded not praise, but something greater." But God transcends the very best of all things. Therefore God ought to be given, not praise, but something greater than praise: wherefore He is said (Ecclus. 43:33) to be "above all praise."
 
@@ -13,7 +13,7 @@ Objection 2: Further, divine praise is part of divine worship, for it is an act 
 
 Objection 3: Further, men are praised with the lips that they may be encouraged to do better: since just as being praised makes the wicked proud, so does it incite the good to better things. Wherefore it is written (Prov. 27:21): "As silver is tried in the fining-pot . . . so a man is tried by the mouth of him that praiseth." But God is not incited to better things by man's words, both because He is unchangeable, and because He is supremely good, and it is not possible for Him to grow better. Therefore God should not be praised with the lips.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 62:6): "My mouth shall praise Thee with joyful lips."
 
@@ -21,16 +21,16 @@ I answer that, We use words, in speaking to God, for one reason, and in speaking
 
 Consequently we need to praise God with our lips, not indeed for His sake, but for our own sake; since by praising Him our devotion is aroused towards Him, according to Ps. 49:23: "The sacrifice of praise shall glorify Me, and there is the way by which I will show him the salvation of God." And forasmuch as man, by praising God, ascends in his affections to God, by so much is he withdrawn from things opposed to God, according to Is. 48:9, "For My praise I will bridle thee lest thou shouldst perish." The praise of the lips is also profitable to others by inciting their affections towards God, wherefore it is written (Ps. 33:2): "His praise shall always be in my mouth," and farther on: "Let the meek hear and rejoice. O magnify the Lord with me."
 
-## Replies
+### Replies
 
 Reply to Objection 1: We may speak of God in two ways. First, with regard to His essence; and thus, since He is incomprehensible and ineffable, He is above all praise. In this respect we owe Him reverence and the honor of latria; wherefore Ps. 64:2 is rendered by Jerome in his Psalter [*Translated from the Hebrew]: "Praise to Thee is speechless, O God," as regards the first, and as to the second, "A vow shall be paid to Thee." Secondly, we may speak of God as to His effects which are ordained for our good. In this respect we owe Him praise; wherefore it is written (Is. 63:7): "I will remember the tender mercies of the Lord, the praise of the Lord for all the things that the Lord hath bestowed upon us." Again, Dionysius says (Div. Nom. 1): "Thou wilt find that all the sacred hymns," i.e. divine praises "of the sacred writers, are directed respectively to the Blessed Processions of the Thearchy," i.e. of the Godhead, "showing forth and praising the names of God."
 
 Reply to Objection 2: It profits one nothing to praise with the lips if one praise not with the heart. For the heart speaks God's praises when it fervently recalls "the glorious things of His works" [*Cf. Ecclus. 17:7,8]. Yet the outward praise of the lips avails to arouse the inward fervor of those who praise, and to incite others to praise God, as stated above.
 
 Reply to Objection 3: We praise God, not for His benefit, but for ours as stated.
-# Whether God Should Be Praised With Song?
+## Whether God Should Be Praised With Song?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God should not be praised with song. For the Apostle says (Col. 3:16): "Teaching and admonishing one another in psalms, hymns and spiritual canticles." Now we should employ nothing in the divine worship, save what is delivered to us on the authority of Scripture. Therefore it would seem that, in praising God, we should employ, not corporal but spiritual canticles.
 
@@ -42,13 +42,13 @@ Objection 4: Further, in the Old Law God was praised with musical instruments an
 
 Objection 5: Further, the praise of the heart is more important than the praise of the lips. But the praise of the heart is hindered by singing, both because the attention of the singers is distracted from the consideration of what they are singing, so long as they give all their attention to the chant, and because others are less able to understand the thing that are sung than if they were recited without chant. Therefore chants should not be employed in the divine praises.
 
-## Answer
+### Answer
 
 On the contrary, Blessed Ambrose established singing in the Church of Milan, a Augustine relates (Confess. ix).
 
 I answer that, As stated above [3091](A[1]), the praise of the voice is necessary in order to arouse man's devotion towards God. Wherefore whatever is useful in conducing to this result is becomingly adopted in the divine praises. Now it is evident that the human soul is moved in various ways according to various melodies of sound, as the Philosopher state (Polit. viii, 5), and also Boethius (De Musica, prologue). Hence the use of music in the divine praises is a salutary institution, that the souls of the faint-hearted may be the more incited to devotion. Wherefore Augustine say (Confess. x, 33): "I am inclined to approve of the usage of singing in the church, that so by the delight of the ears the faint-hearted may rise to the feeling of devotion": and he says of himself (Confess. ix, 6): "I wept in Thy hymns and canticles, touched to the quick by the voices of Thy sweet-attuned Church."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The name of spiritual canticle may be given not only to those that are sung inwardly in spirit, but also to those that are sung outwardly with the lips, inasmuch as such like canticles arouse spiritual devotion.
 

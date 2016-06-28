@@ -3,9 +3,9 @@
 We must now consider the potential parts of justice, namely the virtues annexed thereto; under which head there are two points of consideration:
 (1) What virtues are annexed to justice?
 (2) The individual virtues annexed to justice.
-# Whether The Virtues Annexed To Justice Are Suitably Enumerated?
+## Whether The Virtues Annexed To Justice Are Suitably Enumerated?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the virtues annexed to justice are unsuitably enumerated Tully [*De Invent. ii, 53] reckons six, viz. "religion, piety, gratitude, revenge, observance, truth." Now revenge is seemingly a species of commutative justice whereby revenge is taken for injuries inflicted, as stated above ([2979]Q[61], A[4]). Therefore it should not be reckoned among the virtues annexed to justice.
 
@@ -17,7 +17,7 @@ Objection 4: Further, the peripatetic Andronicus [*De Affectibus] reckons nine p
 
 Objection 5: Further, Aristotle (Ethic. v, 10) mentions {epieikeia} as being annexed to justice: and yet seemingly it is not included in any of the foregoing enumerations. Therefore the virtues annexed to justice are insufficiently enumerated.
 
-## Answer
+### Answer
 
 
 
@@ -27,7 +27,7 @@ A falling short of the just due may be considered in respect of a twofold due, m
 
 There is another due that is necessary in the sense that it conduces to greater rectitude, although without it rectitude may be ensured. This due is the concern of "liberality," "affability" or "friendship," or the like, all of which Tully omits in the aforesaid enumeration because there is little of the nature of anything due in them.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The revenge taken by authority of a public power, in accordance with a judge's sentence, belongs to commutative justice: whereas the revenge which a man takes on his own initiative, though not against the law, or which a man seeks to obtain from a judge, belongs to the virtue annexed to justice.
 

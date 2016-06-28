@@ -3,9 +3,9 @@
 We must now speak of derision, under which head there are two points of inquiry:
 (1) Whether derision is a special sin distinct from the other sins whereby one's neighbor is injured by words?
 (2) Whether derision is a mortal sin?
-# Whether Derision Is A Special Sin Distinct From Those Already Mentioned?
+## Whether Derision Is A Special Sin Distinct From Those Already Mentioned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that derision is not a special sin distinct from those mentioned above. For laughing to scorn is apparently the same as derision. But laughing to scorn pertains to reviling. Therefore derision would seem not to differ from reviling.
 
@@ -13,22 +13,22 @@ Objection 2: Further, no man is derided except for something reprehensible which
 
 Objection 3: Further, sins of this kind are distinguished by the injury they inflict on one's neighbor. Now the injury inflicted on a man by derision affects either his honor, or his good name, or is detrimental to his friendship. Therefore derision is not a sin distinct from the foregoing.
 
-## Answer
+### Answer
 
 On the contrary, Derision is done in jest, wherefore it is described as "making fun." Now all the foregoing are done seriously and not in jest. Therefore derision differs from all of them.
 
 I answer that, As stated above ([2958]Q[72], A[2]), sins of word should be weighed chiefly by the intention of the speaker, wherefore these sins are differentiated according to the various intentions of those who speak against another. Now just as the railer intends to injure the honor of the person he rails, the backbiter to depreciate a good name, and the tale-bearer to destroy friendship, so too the derider intends to shame the person he derides. And since this end is distinct from the others, it follows that the sin of derision is distinct from the foregoing sins.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Laughing to scorn and derision agree as to the end but differ in mode, because derision is done with the "mouth," i.e. by words and laughter, while laughing to scorn is done by wrinkling the nose, as a gloss says on Ps. 2:4, "He that dwelleth in heaven shall laugh at them": and such a distinction does not differentiate the species. Yet they both differ from reviling, as being shamed differs from being dishonored: for to be ashamed is "to fear dishonor," as Damascene states (De Fide Orth. ii, 15).
 
 Reply to Objection 2: For doing a virtuous deed a man deserves both respect and a good name in the eyes of others, and in his own eyes the glory of a good conscience, according to 2 Cor. 1:12, "Our glory is this, the testimony of our conscience." Hence, on the other hand, for doing a reprehensible, i.e. a vicious action, a man forfeits his honor and good name in the eyes of others---and for this purpose the reviler and the backbiter speak of another person---while in his own eyes, he loses the glory of his conscience through being confused and ashamed at reprehensible deeds being imputed to him---and for this purpose the derider speaks ill of him. It is accordingly evident that derision agrees with the foregoing vices as to the matter but differs as to the end.
 
 Reply to Objection 3: A secure and calm conscience is a great good, according to Prov. 15:15, "A secure mind is like a continual feast." Wherefore he that disturbs another's conscience by confounding him inflicts a special injury on him: hence derision is a special kind of sin.
-# Whether Derision Can Be A Mortal Sin?
+## Whether Derision Can Be A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that derision cannot be a mortal sin. Every mortal sin is contrary to charity. But derision does not seem contrary to charity, for sometimes it takes place in jest among friends, wherefore it is known as "making fun." Therefore derision cannot be a mortal sin.
 
@@ -36,7 +36,7 @@ Objection 2: Further, the greatest derision would appear to be that which is don
 
 Objection 3: Further, reviling and backbiting seem to be graver sins than derision, because it is more to do a thing seriously than in jest. But not all backbiting or reviling is a mortal sin. Much less therefore is derision a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Prov. 3:34): "He derideth [Vulg.: 'shall scorn'] the scorners." But God's derision is eternal punishment for mortal sin, as appears from the words of Ps. 2:4, "He that dwelleth in heaven shall laugh at them." Therefore derision is a mortal sin.
 
@@ -44,7 +44,7 @@ I answer that, The object of derision is always some evil or defect. Now when an
 
 Consequently it is an exceedingly grievous sin to deride God and the things of God, according to Is. 37:23, "Whom hast thou reproached, and whom hast thou blasphemed, and against whom hast thou exalted thy voice?" and he replies: "Against the Holy One of Israel." In the second place comes derision of one's parents, wherefore it is written (Prov. 30:17): "The eye that mocketh at his father, and that despiseth the labor of his mother in bearing him, let the ravens of the brooks pick it out, and the young eagles eat it." Further, the derision of good persons is grievous, because honor is the reward of virtue, and against this it is written (Job 12:4): "The simplicity of the just man is laughed to scorn." Such like derision does very much harm: because it turns men away from good deeds, according to Gregory (Moral. xx, 14), "Who when they perceive any good points appearing in the acts of others, directly pluck them up with the hand of a mischievous reviling."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Jesting implies nothing contrary to charity in relation to the person with whom one jests, but it may imply something against charity in relation to the person who is the object of the jest, on account of contempt, as stated above.
 

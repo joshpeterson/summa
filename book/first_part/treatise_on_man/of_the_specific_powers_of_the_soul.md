@@ -5,9 +5,9 @@ We next treat of the powers of the soul specifically. The theologian, however, h
 (2) The various species of the vegetative part;
 (3) The exterior senses;
 (4) The interior senses.
-# Whether There Are To Be Distinguished Five Genera Of Powers In The Soul?
+## Whether There Are To Be Distinguished Five Genera Of Powers In The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are not to be distinguished five genera of powers in the soul---namely, vegetative, sensitive, appetitive, locomotive, and intellectual. For the powers of the soul are called its parts. But only three parts of the soul are commonly assigned---namely, the vegetative soul, the sensitive soul, and the rational soul. Therefore there are only three genera of powers in the soul, and not five.
 
@@ -17,7 +17,7 @@ Objection 3: Further, a special kind of soul ought not to be assigned as regards
 
 Objection 4: Further, the moving principle in animals is sense, intellect or appetite, as the Philosopher says (De Anima iii, 10). Therefore the motive power should not be added to the above as a special genus of soul.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima ii, 3), "The powers are the vegetative, the sensitive, the appetitive, the locomotion, and the intellectual."
 
@@ -29,14 +29,14 @@ The modes of living are distinguished according to the degrees of living things.
 
 Thus the first two objectives are hereby solved.
 
-## Replies
+### Replies
 
 Reply to Objection 3: The "natural appetite" is that inclination which each thing has, of its own nature, for something; wherefore by its natural appetite each power desires something suitable to itself. But the "animal appetite" results from the form apprehended; this sort of appetite requires a special power of the soul---mere apprehension does not suffice. For a thing is desired as it exists in its own nature, whereas in the apprehensive power it exists not according to its own nature, but according to its likeness. Whence it is clear that sight desires naturally a visible object for the purpose of its act only---namely, for the purpose of seeing; but the animal by the appetitive power desires the thing seen, not merely for the purpose of seeing it, but also for other purposes. But if the soul did not require things perceived by the senses, except on account of the actions of the senses, that is, for the purpose of sensing them; there would be no need for a special genus of appetitive powers, since the natural appetite of the powers would suffice.
 
 Reply to Objection 4: Although sense and appetite are principles of movement in perfect animals, yet sense and appetite, as such, are not sufficient to cause movement, unless another power be added to them; for immovable animals have sense and appetite, and yet they have not the power of motion. Now this motive power is not only in the appetite and sense as commanding the movement, but also in the parts of the body, to make them obey the appetite of the soul which moves them. Of this we have a sign in the fact that when the members are deprived of their natural disposition, they do not move in obedience to the appetite.
-# Whether The Parts Of The Vegetative Soul Are Fittingly Described As The Nutritive, Augmentative, And Generative?
+## Whether The Parts Of The Vegetative Soul Are Fittingly Described As The Nutritive, Augmentative, And Generative?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the parts of the vegetative soul are not fittingly described---namely, the nutritive, augmentative, and generative. For these are called "natural" forces. But the powers of the soul are above the natural forces. Therefore we should not class the above forces as powers of the soul.
 
@@ -46,7 +46,7 @@ Objection 3: Further, the soul is more powerful than the body. But the body by t
 
 Objection 4: Further, everything is preserved in being by that whereby it exists. But the generative power is that whereby a living thing exists. Therefore by the same power the living thing is preserved. Now the nutritive force is directed to the preservation of the living thing (De Anima ii, 4), being "a power which is capable of preserving whatever receives it." Therefore we should not distinguish the nutritive power from the generative.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima ii, 2,4) that the operations of this soul are "generation, the use of food," and (cf. De Anima iii, 9) "growth."
 
@@ -54,7 +54,7 @@ I answer that, The vegetative part has three powers. For the vegetative part, as
 
 We must, however, observe a difference among these powers. The nutritive and the augmentative have their effect where they exist, since the body itself united to the soul grows and is preserved by the augmentative and nutritive powers which exist in one and the same soul. But the generative power has its effect, not in one and the same body but in another; for a thing cannot generate itself. Therefore the generative power, in a way, approaches to the dignity of the sensitive soul, which has an operation extending to extrinsic things, although in a more excellent and more universal manner; for that which is highest in an inferior nature approaches to that which is lowest in the higher nature, as is made clear by Dionysius (Div. Nom. vii). Therefore, of these three powers, the generative has the greater finality, nobility, and perfection, as the Philosopher says (De Anima ii, 4), for it belongs to a thing which is already perfect to "produce another like unto itself." And the generative power is served by the augmentative and nutritive powers; and the augmentative power by the nutritive.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Such forces are called natural, both because they produce an effect like that of nature, which also gives existence, quantity and preservation (although the above forces accomplish these things in a more perfect way); and because those forces perform their actions instrumentally, through the active and passive qualities, which are the principles of natural actions.
 
@@ -63,9 +63,9 @@ Reply to Objection 2: Generation of inanimate things is entirely from an extrins
 Reply to Objection 3: Since the generation of living things is from a semen, it is necessary that in the beginning an animal of small size be generated. For this reason it must have a power in the soul, whereby it is brought to its appropriate size. But the inanimate body is generated from determinate matter by an extrinsic agent; therefore it receives at once its nature and its quantity, according to the condition of the matter.
 
 Reply to Objection 4: As we have said above [633](A[1]), the operation of the vegetative principle is performed by means of heat, the property of which is to consume humidity. Therefore, in order to restore the humidity thus lost, the nutritive power is required, whereby the food is changed into the substance of the body. This is also necessary for the action of the augmentative and generative powers.
-# Whether The Five Exterior Senses Are Properly Distinguished?
+## Whether The Five Exterior Senses Are Properly Distinguished?
 
-## Objections
+### Objections
 
 Objection 1: It would seem inaccurate to distinguish five exterior senses. But there are many kinds of accidents. Therefore, as powers are distinguished by their objects, it seems that the senses are multiplied according to the number of the kinds of accidents.
 
@@ -75,7 +75,7 @@ Objection 3: Further, one sense regards one contrariety; as sight regards white 
 
 Objection 4: Further, a species is not divided against its genus. But taste is a kind of touch. Therefore it should not be classed as a distinct sense of touch.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima iii, 1): "There is no other besides the five senses."
 
@@ -89,7 +89,7 @@ But in some senses we find spiritual immutation only, as in "sight" while in oth
 
 Now, the sight, which is without natural immutation either in its organ or in its object, is the most spiritual, the most perfect, and the most universal of all the senses. After this comes the hearing and then the smell, which require a natural immutation on the part of the object; while local motion is more perfect than, and naturally prior to, the motion of alteration, as the Philosopher proves (Phys. viii, 7). Touch and taste are the most material of all: of the distinction of which we shall speak later on (ad 3,4). Hence it is that the three other senses are not exercised through a medium united to them, to obviate any natural immutation in their organ; as happens as regards these two senses.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not every accident has in itself a power of immutation but only qualities of the third species, which are the principles of alteration: therefore only suchlike qualities are the objects of the senses; because "the senses are affected by the same things whereby inanimate bodies are affected," as stated in Phys. vii, 2.
 
@@ -98,9 +98,9 @@ Reply to Objection 2: Size, shape, and the like, which are called "common sensib
 Reply to Objection 3: As the Philosopher seems to say (De Anima ii, 11), the sense of touch is generically one, but is divided into several specific senses, and for this reason it extends to various contrarieties; which senses, however, are not separate from one another in their organ, but are spread throughout the whole body, so that their distinction is not evident. But taste, which perceives the sweet and the bitter, accompanies touch in the tongue, but not in the whole body; so it is easily distinguished from touch. We might also say that all those contrarieties agree, each in some proximate genus, and all in a common genus, which is the common and formal object of touch. Such common genus is, however, unnamed, just as the proximate genus of hot and cold is unnamed.
 
 Reply to Objection 4: The sense of taste, according to a saying of the Philosopher (De Anima ii, 9), is a kind of touch existing in the tongue only. It is not distinct from touch in general, but only from the species of touch distributed in the body. But if touch is one sense only, on account of the common formality of its object: we must say that taste is distinguished from touch by reason of a different formality of immutation. For touch involves a natural, and not only a spiritual, immutation in its organ, by reason of the quality which is its proper object. But the organ of taste is not necessarily immuted by a natural immutation by reason of the quality which is its proper object, so that the tongue itself becomes sweet and bitter: but by reason of a quality which is a preamble to, and on which is based, the flavor, which quality is moisture, the object of touch.
-# Whether The Interior Senses Are Suitably Distinguished?
+## Whether The Interior Senses Are Suitably Distinguished?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the interior senses are not suitably distinguished. For the common is not divided against the proper. Therefore the common sense should not be numbered among the interior sensitive powers, in addition to the proper exterior senses.
 
@@ -114,7 +114,7 @@ Objection 5: Further, the action of the cogitative power, which consists in comp
 
 Objection 6: Further, Augustine (Gen. ad lit. xii, 6,7,24) describes three kinds of vision; namely, corporeal, which is the action of the sense; spiritual, which is an action of the imagination or phantasy; and intellectual, which is an action of the intellect. Therefore there is no interior power between the sense and intellect, besides the imagination.
 
-## Answer
+### Answer
 
 On the contrary, Avicenna (De Anima iv, 1) assigns five interior sensitive powers; namely, "common sense, phantasy, imagination, and the estimative and memorative powers."
 
@@ -128,7 +128,7 @@ Thus, therefore, for the reception of sensible forms, the "proper sense" and the
 
 Now, we must observe that as to sensible forms there is no difference between man and other animals; for they are similarly immuted by the extrinsic sensible. But there is a difference as to the above intentions: for other animals perceive these intentions only by some natural instinct, while man perceives them by means of coalition of ideas. Therefore the power by which in other animals is called the natural estimative, in man is called the "cogitative," which by some sort of collation discovers these intentions. Wherefore it is also called the "particular reason," to which medical men assign a certain particular organ, namely, the middle part of the head: for it compares individual intentions, just as the intellectual reason compares universal intentions. As to the memorative power, man has not only memory, as other animals have in the sudden recollection of the past; but also "reminiscence" by syllogistically, as it were, seeking for a recollection of the past by the application of individual intentions. Avicenna, however, assigns between the estimative and the imaginative, a fifth power, which combines and divides imaginary forms: as when from the imaginary form of gold, and imaginary form of a mountain, we compose the one form of a golden mountain, which we have never seen. But this operation is not to be found in animals other than man, in whom the imaginative power suffices thereto. To man also does Averroes attribute this action in his book De sensu et sensibilibus (viii). So there is no need to assign more than four interior powers of the sensitive part---namely, the common sense, the imagination, and the estimative and memorative powers.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The interior sense is called "common" not by predication, as if it were a genus; but as the common root and principle of the exterior senses.
 

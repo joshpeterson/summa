@@ -5,9 +5,9 @@ We proceed to treat of what belongs to the person of the Holy Ghost, Who is call
 (2) Whether that divine person Who is called the Holy Ghost, proceeds from the Father and the Son?
 (3) Whether He proceeds from the Father through the Son?
 (4) Whether the Father and the Son are one principle of the Holy Ghost?
-# Whether This Name "Holy Ghost" Is The Proper Name Of One Divine Person?
+## Whether This Name "Holy Ghost" Is The Proper Name Of One Divine Person?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this name, "Holy Ghost," is not the proper name of one divine person. For no name which is common to the three persons is the proper name of any one person. But this name of 'Holy Ghost' [*It should be borne in mind that the word "ghost" is the old English equivalent for the Latin "spiritus," whether in the sense of "breath" or "blast," or in the sense of "spirit," as an immaterial substance. Thus, we read in the former sense (Hampole, Psalter x, 7), "The Gost of Storms" [spiritus procellarum], and in the latter "Trubled gost is sacrifice of God" (Prose Psalter, A.D. 1325), and "Oure wrestlynge is . . . against the spiritual wicked gostes of the ayre" (More, "Comfort against Tribulation"); and in our modern expression of "giving up the ghost." As applied to God, and not specially to the third Holy Person, we have an example from Maunder, "Jhesu Criste was the worde and the goste of Good." (See Oxford Dictionary).] is common to the three persons; for Hilary (De Trin. viii) shows that the "Spirit of God" sometimes means the Father, as in the words of Is. 61:1: "The Spirit of the Lord is upon me;" and sometimes the Son, as when the Son says: "In the Spirit of God I cast out devils" (Mat. 12:28), showing that He cast out devils by His own natural power; and that sometimes it means the Holy Ghost, as in the words of Joel 2:28: "I will pour out of My Spirit over all flesh." Therefore this name 'Holy Ghost' is not the proper name of a divine person.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the names of the divine persons are relative terms, as Boe
 
 Objection 3: Further, because the Son is the name of a divine Person He cannot be called the Son of this or of that. But the spirit is spoken of as of this or that man, as appears in the words, "The Lord said to Moses, I will take of thy spirit and will give to them" (Num. 11:17) and also "The Spirit of Elias rested upon Eliseus" (4 Kings 2:15). Therefore "Holy Ghost" does not seem to be the proper name of a divine Person.
 
-## Answer
+### Answer
 
 On the contrary, It is said (1 Jn. 5:7): "There are three who bear witness in heaven, the Father, the Word, and the Holy Ghost." As Augustine says (De Trin. vii, 4): "When we ask, Three what? we say, Three persons." Therefore the Holy Ghost is the name of a divine person.
 
 I answer that, While there are two processions in God, one of these, the procession of love, has no proper name of its own, as stated above ([294]Q[27] , A[4], ad 3). Hence the relations also which follow from this procession are without a name ([295]Q[28], A[4]): for which reason the Person proceeding in that manner has not a proper name. But as some names are accommodated by the usual mode of speaking to signify the aforesaid relations, as when we use the names of procession and spiration, which in the strict sense more fittingly signify the notional acts than the relations; so to signify the divine Person, Who proceeds by way of love, this name "Holy Ghost" is by the use of scriptural speech accommodated to Him. The appropriateness of this name may be shown in two ways. Firstly, from the fact that the person who is called "Holy Ghost" has something in common with the other Persons. For, as Augustine says (De Trin. xv, 17; v, 11), "Because the Holy Ghost is common to both, He Himself is called that properly which both are called in common. For the Father also is a spirit, and the Son is a spirit; and the Father is holy, and the Son is holy." Secondly, from the proper signification of the name. For the name spirit in things corporeal seems to signify impulse and motion; for we call the breath and the wind by the term spirit. Now it is a property of love to move and impel the will of the lover towards the object loved. Further, holiness is attributed to whatever is ordered to God. Therefore because the divine person proceeds by way of the love whereby God is loved, that person is most properly named "The Holy Ghost."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The expression Holy Spirit, if taken as two words, is applicable to the whole Trinity: because by 'spirit' the immateriality of the divine substance is signified; for corporeal spirit is invisible, and has but little matter; hence we apply this term to all immaterial and invisible substances. And by adding the word "holy" we signify the purity of divine goodness. But if Holy Spirit be taken as one word, it is thus that the expression, in the usage of the Church, is accommodated to signify one of the three persons, the one who proceeds by way of love, for the reason above explained.
 
 Reply to Objection 2: Although this name "Holy Ghost" does not indicate a relation, still it takes the place of a relative term, inasmuch as it is accommodated to signify a Person distinct from the others by relation only. Yet this name may be understood as including a relation, if we understand the Holy Spirit as being breathed [spiratus].
 
 Reply to Objection 3: In the name Son we understand that relation only which is of something from a principle, in regard to that principle: but in the name "Father" we understand the relation of principle; and likewise in the name of Spirit inasmuch as it implies a moving power. But to no creature does it belong to be a principle as regards a divine person; but rather the reverse. Therefore we can say "our Father," and "our Spirit"; but we cannot say "our Son."
-# Whether The Holy Ghost Proceeds From The Son?
+## Whether The Holy Ghost Proceeds From The Son?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Holy Ghost does not proceed from the Son. For as Dionysius says (Div. Nom. i): "We must not dare to say anything concerning the substantial Divinity except what has been divinely expressed to us by the sacred oracles." But in the Sacred Scripture we are not told that the Holy Ghost proceeds from the Son; but only that He proceeds from the Father, as appears from Jn. 15:26: "The Spirit of truth, Who proceeds from the Father." Therefore the Holy Ghost does not proceed from the Son.
 
@@ -46,7 +46,7 @@ Objection 6: Further, the Holy Ghost proceeds perfectly from the Father. Therefo
 
 Objection 7: Further "the actual and the possible do not differ in things perpetual" (Phys. iii, text 32), and much less so in God. But it is possible for the Holy Ghost to be distinguished from the Son, even if He did not proceed from Him. For Anselm says (De Process. Spir. Sancti, ii): "The Son and the Holy Ghost have their Being from the Father; but each in a different way; one by Birth, the other by Procession, so that they are thus distinct from one another." And further on he says: "For even if for no other reason were the Son and the Holy Ghost distinct, this alone would suffice." Therefore the Holy Spirit is distinct from the Son, without proceeding from Him.
 
-## Answer
+### Answer
 
 On the contrary, Athanasius says: "The Holy Ghost is from the Father and the Son; not made, nor created, nor begotten, but proceeding."
 
@@ -58,7 +58,7 @@ We derive a knowledge of the same truth from the very order of nature itself. Fo
 
 Hence also the Greeks themselves recognize that the procession of the Holy Ghost has some order to the Son. For they grant that the Holy Ghost is the Spirit "of the Son"; and that He is from the Father "through the Son." Some of them are said also to concede that "He is from the Son"; or that "He flows from the Son," but not that He proceeds; which seems to come from ignorance or obstinacy. For a just consideration of the truth will convince anyone that the word procession is the one most commonly applied to all that denotes origin of any kind. For we use the term to describe any kind of origin; as when we say that a line proceeds from a point, a ray from the sun, a stream from a source, and likewise in everything else. Hence, granted that the Holy Ghost originates in any way from the Son, we can conclude that the Holy Ghost proceeds from the Son.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We ought not to say about God anything which is not found in Holy Scripture either explicitly or implicitly. But although we do not find it verbally expressed in Holy Scripture that the Holy Ghost proceeds from the Son, still we do find it in the sense of Scripture, especially where the Son says, speaking of the Holy Ghost, "He will glorify Me, because He shall receive of Mine" (Jn. 16:14). It is also a rule of Holy Scripture that whatever is said of the Father, applies to the Son, although there be added an exclusive term; except only as regards what belongs to the opposite relations, whereby the Father and the Son are distinguished from each other. For when the Lord says, "No one knoweth the Son, but the Father," the idea of the Son knowing Himself is not excluded. So therefore when we say that the Holy Ghost proceeds from the Father, even though it be added that He proceeds from the Father alone, the Son would not thereby be at all excluded; because as regards being the principle of the Holy Ghost, the Father and the Son are not opposed to each other, but only as regards the fact that one is the Father, and the other is the Son.
 
@@ -73,9 +73,9 @@ Reply to Objection 5: The Word in God is not taken after the similitude of the v
 Reply to Objection 6: For the reason that the Holy Ghost proceeds from the Father perfectly, not only is it not superfluous to say He proceeds from the Son, but rather it is absolutely necessary. Forasmuch as one power belongs to the Father and the Son; and because whatever is from the Father, must be from the Son unless it be opposed to the property of filiation; for the Son is not from Himself, although He is from the Father.
 
 Reply to Objection 7: The Holy Ghost is distinguished from the Son, inasmuch as the origin of one is distinguished from the origin of the other; but the difference itself of origin comes from the fact that the Son is only from the Father, whereas the Holy Ghost is from the Father and the Son; for otherwise the processions would not be distinguished from each other, as explained above, and in [300]Q[27].
-# Whether The Holy Ghost Proceeds From The Father Through The Son?
+## Whether The Holy Ghost Proceeds From The Father Through The Son?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Holy Ghost does not proceed from the Father through the Son. For whatever proceeds from one through another, does not proceed immediately. Therefore, if the Holy Ghost proceeds from the Father through the Son, He does not proceed immediately; which seems to be unfitting.
 
@@ -85,7 +85,7 @@ Objection 3: Further, the Son has His being by generation. Therefore if the Holy
 
 Objection 4: Further, when anyone acts through another, the same may be said conversely. For as we say that the king acts through the bailiff, so it can be said conversely that the bailiff acts through the king. But we can never say that the Son spirates the Holy Ghost through the Father. Therefore it can never be said that the Father spirates the Holy Ghost through the Son.
 
-## Answer
+### Answer
 
 On the contrary, Hilary says (De Trin. xii): "Keep me, I pray, in this expression of my faith, that I may ever possess the Father---namely Thyself: that I may adore Thy Son together with Thee: and that I may deserve Thy Holy Spirit, who is through Thy Only Begotten."
 
@@ -93,7 +93,7 @@ I answer that, Whenever one is said to act through another, this preposition "th
 
 Therefore, because the Son receives from the Father that the Holy Ghost proceeds from Him, it can be said that the Father spirates the Holy Ghost through the Son, or that the Holy Ghost proceeds from the Father through the Son, which has the same meaning.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In every action two things are to be considered, the "suppositum" acting, and the power whereby it acts; as, for instance, fire heats through heat. So if we consider in the Father and the Son the power whereby they spirate the Holy Ghost, there is no mean, for this is one and the same power. But if we consider the persons themselves spirating, then, as the Holy Ghost proceeds both from the Father and from the Son, the Holy Ghost proceeds from the Father immediately, as from Him, and mediately, as from the Son; and thus He is said to proceed from the Father through the Son. So also did Abel proceed immediately from Adam, inasmuch as Adam was his father; and mediately, as Eve was his mother, who proceeded from Adam; although, indeed, this example of a material procession is inept to signify the immaterial procession of the divine persons.
 
@@ -102,9 +102,9 @@ Reply to Objection 2: If the Son received from the Father a numerically distinct
 Reply to Objection 3: As the begetting of the Son is co-eternal with the begetter (and hence the Father does not exist before begetting the Son), so the procession of the Holy Ghost is co-eternal with His principle. Hence, the Son was not begotten before the Holy Ghost proceeded; but each of the operations is eternal.
 
 Reply to Objection 4: When anyone is said to work through anything, the converse proposition is not always true. For we do not say that the mallet works through the carpenter; whereas we can say that the bailiff acts through the king, because it is the bailiff's place to act, since he is master of his own act, but it is not the mallet's place to act, but only to be made to act, and hence it is used only as an instrument. The bailiff is, however, said to act through the king, although this preposition "through" denotes a medium, for the more a "suppositum" is prior in action, so much the more is its power immediate as regards the effect, inasmuch as the power of the first cause joins the second cause to its effect. Hence also first principles are said to be immediate in the demonstrative sciences. Therefore, so far as the bailiff is a medium according to the order of the subject's acting, the king is said to work through the bailiff; but according to the order of powers, the bailiff is said to act through the king, forasmuch as the power of the king gives the bailiff's action its effect. Now there is no order of power between Father and Son, but only order of 'supposita'; and hence we say that the Father spirates through the Son; and not conversely.
-# Whether The Father And The Son Are One Principle Of The Holy Ghost?
+## Whether The Father And The Son Are One Principle Of The Holy Ghost?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Father and the Son are not one principle of the Holy Ghost. For the Holy Ghost does not proceed from the Father and the Son as they are one; not as they are one in nature, for the Holy Ghost would in that way proceed from Himself, as He is one in nature with Them; nor again inasmuch as they are united in any one property, for it is clear that one property cannot belong to two subjects. Therefore the Holy Ghost proceeds from the Father and the Son as distinct from one another. Therefore the Father and the Son are not one principle of the Holy Ghost.
 
@@ -120,7 +120,7 @@ Objection 6: Further, unity in substance makes identity. So if the Father and th
 
 Objection 7: Further, the Father, Son and Holy Ghost are called one Creator, because they are the one principle of the creature. But the Father and the Son are not one, but two Spirators, as many assert; and this agrees also with what Hilary says (De Trin. ii) that "the Holy Ghost is to be confessed as proceeding from Father and Son as authors." Therefore the Father and the Son are not one principle of the Holy Ghost.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. v, 14) that the Father and the Son are not two principles, but one principle of the Holy Ghost.
 
@@ -128,7 +128,7 @@ I answer that, The Father and the Son are in everything one, wherever there is n
 
 Some, however, assert that this proposition is incorrect: "The Father and the Son are one principle of the Holy Ghost," because, they declare, since the word "principle" in the singular number does not signify "person," but "property," it must be taken as an adjective; and forasmuch as an adjective cannot be modified by another adjective, it cannot properly be said that the Father and the Son are one principle of the Holy Ghost unless one be taken as an adverb, so that the meaning should be: They are one principle---that is, in one and the same way. But then it might be equally right to say that the Father is two principles of the Son and of the Holy Ghost---namely, in two ways. Therefore, we must say that, although this word "principle" signifies a property, it does so after the manner of a substantive, as do the words "father" and "son" even in things created. Hence it takes its number from the form it signifies, like other substantives. Therefore, as the Father and the Son are one God, by reason of the unity of the form that is signified by this word "God"; so they are one principle of the Holy Ghost by reason of the unity of the property that is signified in this word "principle."
 
-## Replies
+### Replies
 
 Reply to Objection 1: If we consider the spirative power, the Holy Ghost proceeds from the Father and the Son as they are one in the spirative power, which in a certain way signifies the nature with the property, as we shall see later (ad 7). Nor is there any reason against one property being in two "supposita" that possess one common nature. But if we consider the "supposita" of the spiration, then we may say that the Holy Ghost proceeds from the Father and the Son, as distinct; for He proceeds from them as the unitive love of both.
 

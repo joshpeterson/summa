@@ -7,9 +7,9 @@ We must next treat of the souls which after this life expiate the punishment of 
 (4) Whether venial sin as regards its guilt is expiated by the pains of Purgatory?
 (5) Whether the fire of Purgatory frees from the debt of punishment?
 (6) Whether one is freed from that punishment sooner than another?
-# Whether The Pains Of Purgatory Surpass All The Temporal Pains Of This Life?
+## Whether The Pains Of Purgatory Surpass All The Temporal Pains Of This Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the pains of Purgatory do not surpass all the temporal pains of this life. Because the more passive a thing is the more it suffers if it has the sense of being hurt. Now the body is more passive than the separate soul, both because it has contrariety to a fiery agent, and because it has matter which is susceptive of the agent's quality: and this cannot be said of the soul. Therefore the pain which the body suffers in this world is greater than the pain whereby the soul is cleansed after this life.
 
@@ -17,7 +17,7 @@ Objection 2: Further, the pains of Purgatory are directly ordained against venia
 
 Objection 3: Further, since the debt of punishment is an effect of sin, it does not increase unless the sin increases. Now sin cannot increase in one whose sin is already remitted. Therefore if a mortal sin has been remitted in a man who has not fully paid the debt of punishment, this debt does not increase when he dies. But while he lived he was not in debt to the extent of the most grievous punishment. Therefore the pain that he will suffer after this life will not be more grievous to him than all other pains of this life.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says in a sermon (xli De Sanctis): "This fire of Purgatory will be more severe than any pain that can be felt, seen or conceived in this world."
 
@@ -25,20 +25,20 @@ I answer that, In Purgatory there will be a twofold pain; one will be the pain o
 
 Some, however, prove this from the fact that the whole soul is punished, and not the body. But this is to no purpose, since in that case the punishment of the damned would be milder after the resurrection than before, which is false.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the soul is less passive than the body, it is more cognizant of actual suffering [passionis]: and where the sense of suffering is greater, there is the greater pain, though the suffering be less.
 
 Reply to Objection 2: The severity of that punishment is not so much a consequence of the degree of sin, as of the disposition of the person punished, because the same sin is more severely punished then than now. Even so a person who has a better temperament is punished more severely by the same sentence than another; and yet the judge acts justly in condemning both for the same crimes to the same punishment.
-# Whether This Punishment Is Voluntary?
+## Whether This Punishment Is Voluntary?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this punishment is voluntary. For those who are in Purgatory are upright in heart. Now uprightness in heart is to conform one's will to God's, as Augustine says (Serm. i in Ps. 32). Therefore, since it is God's will that they be punished, they will suffer that punishment voluntarily.
 
 Objection 2: Further, every wise man wills that without which he cannot obtain the end he has in view. Now those who are in Purgatory know that they cannot obtain glory, unless they be punished first. Therefore they are punished willingly.
 
-## Answer
+### Answer
 
 On the contrary, No one asks to be freed from a punishment that he suffers willingly. Now those who are in Purgatory ask to be set free, as appears from many incidents related in the Dialogue of Gregory (iv, 40,65). Therefore they will not undergo that punishment voluntarily.
 
@@ -47,24 +47,24 @@ I answer that, A thing is said to be voluntary in two ways. First, by an absolut
 Some, however, say that it is not voluntary in any way, because the souls in Purgatory are so replete with suffering, that they know not that they are being cleansed by their pains, and deem themselves damned. But this is false, for did they not know that they will be set free, they would not ask for prayers, as they often do.
 
 This suffices for the Replies to the Objections.
-# Whether The Soul In Purgatory Are Punished By The Demons?
+## Whether The Soul In Purgatory Are Punished By The Demons?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the souls in Purgatory are punished by the demons; for, according to the Master, "they will have for torturers in their pains, those who were their tempters in sin." Now the demons tempt us to sin, not only mortal, but also venial when they fail in the former. Therefore in Purgatory also they will torture souls on account of venial sins.
 
 Objection 2: Further, the just are competent to be cleansed from sin both in this life and afterwards. Now, in this life, they are cleansed by pains inflicted by the devil, as was the case with Job. Therefore after this life also, those who have to be cleansed will be punished by the demons.
 
-## Answer
+### Answer
 
 On the contrary, It were unjust that he who has triumphed over someone, should be subjected to him after victory. Now those who are in Purgatory have triumphed over the demons, since they died without mortal sin. Therefore they will not be subjected to them through being punished by them.
 
 I answer that, As after the Judgment day the Divine justice will kindle the fire with which the damned will be punished for ever, even so now the elect are cleansed after this life by the Divine justice alone, and neither by the ministry of the demons whom they have vanquished, nor by the ministry of the angels who would not inflict such tortures on their fellow-citizens. It is, however, possible that they take them to the place of punishment: also that even the demons, who rejoice in the punishment of man, accompany them and stand by while they are being cleansed, both that they may be sated with their pains, and that when these leave their bodies, they may find something of their own in them. But in this life, while there is yet time for the combat, men are punished both by the wicked angels as foes, as instanced in Job, and by the good angels, as instanced in Jacob, the sinew of whose thigh shrank at the angel's touch [*Gn. 32:25]. Moreover, Dionysius says explicitly that the good angels sometimes inflict punishment.
 
 This suffices for the Replies to the Objections.
-# Whether Venial Sin Is Expiated By The Pains Of Purgatory As Regards The Guilt?
+## Whether Venial Sin Is Expiated By The Pains Of Purgatory As Regards The Guilt?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that venial sin is not expiated by the pains of Purgatory as regards the guilt. For a gloss [*St. Gregory, Moral. xvi, 28] on 1 Jn. 5:16, "There is a sin unto death," etc. says: "It is vain to ask pardon after death for what was not amended in this life." Therefore no sin is remitted as to guilt after this life.
 
@@ -76,7 +76,7 @@ Objection 4: Further, it has been stated ([5187]XP, Q[2], A[3]) that actual sin 
 
 Objection 5: Further, venial sin is not in us except on account of the fomes. Wherefore in the original state Adam would not have sinned venially, as was stated (Sent. ii, D, xxi, 2). Now after this life there will be no sensuality; because the fomes will cease when the soul is separated, since it is called the "law of the flesh" (Rom. 7). Hence there will be no venial sin then, and consequently it cannot be expiated by the fire of Purgatory.
 
-## Answer
+### Answer
 
 On the contrary, Gregory [*Dial. iv, 39] and Augustine [*De vera et falsa poenit. iv, xviii, by some other author] say that certain slight sins will be remitted in the life to come. Nor can this be understood of the punishment: because thus all sins, however grave they be, are expiated by the fire of Purgatory, as regards the debt of punishment. Therefore venial sins are cleansed by the fire of Purgatory as to their guilt.
 
@@ -84,7 +84,7 @@ I answer that, Some have asserted that no sin is remitted after this life, as re
 
 It is therefore clear that this opinion is utterly unreasonable: and consequently we must say with others that venial sin in one who dies in a state of grace, is remitted after this life by the fire of Purgatory: because this punishment so far as it is voluntary, will have the power, by virtue of grace, to expiate all such guilt as is compatible with grace. [*St. Thomas expresses himself differently, De Malo[5190], Q[7], A[2], ad 9,17: "Guilt is not remitted by punishment, but venial sin as to its guilt is remitted in Purgatory by virtue of grace, not only as existing in the habit, but also as proceeding to the act of charity in detestation of venial sin."]
 
-## Replies
+### Replies
 
 Reply to Objection 1: The gloss refers to mortal sin. Or it may be replied that although, in this life, it is not amended in itself, it is amended in merits, because a man merited here that his punishment should be meritorious to him there.
 
@@ -95,9 +95,9 @@ Reply to Objection 3: Venial sins do not alter a man's state, for they neither d
 Reply to Objection 4: After this life there can be no merit in respect of the essential reward, but there can be in respect of some accidental reward, so long as man remains in the state of the way, in a sense. Consequently in Purgatory there can be a meritorious act in respect of the remission of venial sin.
 
 Reply to Objection 5: Although venial sin arises from the proneness of the fomes, sin results in the mind; wherefore even when the fomes is no more, sin can still remain.
-# Whether The Fire Of Purgatory Delivers From The Debt Of Punishment?
+## Whether The Fire Of Purgatory Delivers From The Debt Of Punishment?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the fire of Purgatory does not deliver from the debt of punishment. For every cleansing is in respect of some uncleanness. But punishment does not imply uncleanness. Therefore the fire of Purgatory does not deliver from punishment.
 
@@ -105,34 +105,34 @@ Objection 2: Further, a contrary is not cleansed save by its contrary. But punis
 
 Objection 3: Further, a gloss on 1 Cor. 3:15, "He shall be saved, yet so," etc. says: "This fire is the trial of tribulation of which it is written (Ecclus. 27:6): The furnace tries the potter's vessels," etc. Therefore man expiates every punishment by the pains of this world, at least by death, which is the greatest punishment of all, and not by the fire of Purgatory.
 
-## Answer
+### Answer
 
 On the contrary, The pains of Purgatory are more grievous than all the pains of this world, as stated above [5191](A[3]). Now the satisfactory punishment which one undergoes in this life atones for the debt of punishment. Much more therefore is this effected by the punishment of Purgatory.
 
 I answer that, Whosoever is another's debtor, is freed from his indebtedness by paying the debt. And, since the obligation incurred by guilt is nothing else than the debt of punishment, a person is freed from that obligation by undergoing the punishment which he owed. Accordingly the punishment of Purgatory cleanses from the debt of punishment.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the debt of punishment does not in itself imply uncleanness, it bears a relation to uncleanness by reason of its cause.
 
 Reply to Objection 2: Although punishment is not contrary to punishment, it is opposed to the debt of punishment, because the obligation to punishment remains from the fact that one has not undergone the punishment that was due.
 
 Reply to Objection 3: Many meanings underlie the same words of Holy Writ. Hence this fire may denote both the present tribulation and the punishment to come, and venial sins can be cleansed from both of these. That natural death is not sufficient for this, has been stated above (Sent. iv, D, 20).
-# Whether One Person Is Delivered From This Punishment Sooner Than Another?
+## Whether One Person Is Delivered From This Punishment Sooner Than Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one person is not delivered from this punishment sooner than another. For the more grievous the sin, and the greater the debt, the more severely is it punished in Purgatory. Now there is the same proportion between severer punishment and graver fault, as between lighter punishment and less grievous fault. Therefore one is delivered from this punishment as soon as another.
 
 Objection 2: Further, in point of duration unequal merits receive equal retribution both in heaven and in hell. Therefore seemingly it is the same in Purgatory.
 
-## Answer
+### Answer
 
 On the contrary, is the comparison of the Apostle, who denotes the differences of venial sins by wood, hay, and stubble. Now it is clear that wood remains longer in the fire than hay and stubble. Therefore one venial sin is punished longer in Purgatory than another.
 
 I answer that, Some venial sins cling more persistently than others, according as the affections are more inclined to them, and more firmly fixed in them. And since that which clings more persistently is more slowly cleansed, it follows that some are tormented in Purgatory longer than others, for as much as their affections were steeped in venial sins.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Severity of punishment corresponds properly speaking to the amount of guilt: whereas the length corresponds to the firmness with which sin has taken root in its subject. Hence it may happen that one may be delayed longer who is tormented less, and "vice versa."
 

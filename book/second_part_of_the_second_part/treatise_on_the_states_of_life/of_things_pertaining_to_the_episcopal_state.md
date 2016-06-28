@@ -9,9 +9,9 @@ We must now consider things pertaining to the episcopal state. Under this head t
 (6) Whether he can have anything of his own?
 (7) Whether he sins mortally by not distributing ecclesiastical goods to the poor?
 (8) Whether religious who are appointed to the episcopal office are bound to religious observances?
-# Whether It Is Lawful To Desire The Office Of A Bishop?
+## Whether It Is Lawful To Desire The Office Of A Bishop?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is lawful to desire the office of a bishop. For the Apostle says (1 Tim. 3:1): "He that desires [Vulg.: 'If a man desire'] the office of a bishop, he desireth a good work." Now it is lawful and praiseworthy to desire a good work. Therefore it is even praiseworthy to desire the office of a bishop.
 
@@ -21,7 +21,7 @@ Objection 3: Further, it is written (Prov. 11:26): "He that hideth up corn shall
 
 Objection 4: Further, the deeds of the saints related in Holy Writ are set before us as an example, according to Rom. 15:4, "What things soever were written, were written for our learning." Now we read (Is. 6:8) that Isaias offered himself for the office of preacher, which belongs chiefly to bishops. Therefore it would seem praiseworthy to desire the office of a bishop.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xix, 19): "The higher place, without which the people cannot be ruled, though it be filled becomingly, is unbecomingly desired."
 
@@ -31,7 +31,7 @@ On the other hand, to desire to do good to one's neighbor is in itself praisewor
 
 Nevertheless, anyone may, without presumption, desire to do such like works if he should happen to be in that office, or to be worthy of doing them; so that the object of his desire is the good work and not the precedence in dignity. Hence Chrysostom* says: "It is indeed good to desire a good work, but to desire the primacy of honor is vanity. For primacy seeks one that shuns it, and abhors one that desires it." [*The quotation is from the Opus Imperfectum in Matth. (Hom. xxxv), falsely ascribed to St. John Chrysostom.]
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Gregory says (Pastor. i, 8), "when the Apostle said this he who was set over the people was the first to be dragged to the torments of martyrdom," so that there was nothing to be desired in the episcopal office, save the good work. Wherefore Augustine says (De Civ. Dei xix, 19) that when the Apostle said, "'Whoever desireth the office of bishop, desireth a good work,' he wished to explain what the episcopacy is: for it denotes work and not honor: since {skopos} signifies 'watching.' Wherefore if we like we may render {episkopein} by the Latin 'superintendere' [to watch over]: thus a man may know himself to be no bishop if he loves to precede rather than to profit others." For, as he observed shortly before, "in our actions we should seek, not honor nor power in this life, since all things beneath the sun are vanity, but the work itself which that honor or power enables us to do." Nevertheless, as Gregory says (Pastor. i, 8), "while praising the desire" (namely of the good work) "he forthwith turns this object of praise into one of fear, when he adds: It behooveth . . . a bishop to be blameless," as though to say: "I praise what you seek, but learn first what it is you seek."
 
@@ -40,9 +40,9 @@ Reply to Objection 2: There is no parity between the religious and the episcopal
 Reply to Objection 3: The dispensing of spiritual corn is not to be carried on in an arbitrary fashion, but chiefly according to the appointment and disposition of God, and in the second place according to the appointment of the higher prelates, in whose person it is said (1 Cor. 4:1): "Let a man so account of us as of the ministers of Christ, and the dispensers of the mysteries of God." Wherefore a man is not deemed to hide spiritual corn if he avoids governing or correcting others, and is not competent to do so, neither in virtue of his office nor of his superior's command; thus alone is he deemed to hide it, when he neglects to dispense it while under obligation to do so in virtue of his office, or obstinately refuses to accept the office when it is imposed on him. Hence Augustine says (De Civ. Dei xix, 19): "The love of truth seeks a holy leisure, the demands of charity undertake an honest labor. If no one imposes this burden upon us, we must devote ourselves to the research and contemplation of truth, but if it be imposed on us, we must bear it because charity demands it of us."
 
 Reply to Objection 4: As Gregory says (Pastor. i, 7), "Isaias, who wishing to be sent, knew himself to be already cleansed by the live coal taken from the altar, shows us that no one should dare uncleansed to approach the sacred ministry. Since, then, it is very difficult for anyone to be able to know that he is cleansed, it is safer to decline the office of preacher."
-# Whether It Is Lawful For A Man To Refuse Absolutely An Appointment To The Episcopate?
+## Whether It Is Lawful For A Man To Refuse Absolutely An Appointment To The Episcopate?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is lawful to refuse absolutely an appointment to the episcopate. For as Gregory says (Pastor. i, 7), "Isaias wishing to be of profit to his neighbor by means of the active life, desired the office of preaching, whereas Jeremias who was fain to hold fast to the love of his Creator by contemplation exclaimed against being sent to preach." Now no man sins by being unwilling to forgo better things in order to adhere to things that are not so good. Since then the love of God surpasses the love of our neighbor, and the contemplative life is preferable to the active, as shown above ([3771]Q[25], A[1];[3772] Q[26], A[2];[3773] Q[182], A[1]) it would seem that a man sins not if he refuse absolutely the episcopal office.
 
@@ -50,7 +50,7 @@ Objection 2: Further, as Gregory says (Pastor. i, 7), "it is very difficult for 
 
 Objection 3: Further, Jerome (Prologue, super Marc.) says that "it is related of the Blessed Mark* that after receiving the faith he cut off his thumb that he might be excluded from the priesthood." [*This prologue was falsely ascribed to St. Jerome, and the passage quoted refers, not to St. Mark the Evangelist, but to a hermit of that name. (Cf. Baronius, Anno Christi, 45, num. XLIV)] Likewise some take a vow never to accept a bishopric. Now to place an obstacle to a thing amounts to the same as refusing it altogether. Therefore it would seem that one may, without sin, refuse the episcopal office absolutely.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Ep. xlviii ad Eudox.): "If Mother Church requires your service, neither accept with greedy conceit, nor refuse with fawning indolence"; and afterwards he adds: "Nor prefer your ease to the needs of the Church: for if no good men were willing to assist her in her labor, you would seek in vain how we could be born of her."
 
@@ -58,16 +58,16 @@ I answer that, Two things have to be considered in the acceptance of the episcop
 
 First, because this is contrary to the love of our neighbor, for whose good a man should offer himself according as place and time demand: hence Augustine says (De Civ. Dei xix, 19) that "the demands of charity undertake an honest labor." Secondly, because this is contrary to humility, whereby a man submits to his superior's commands: hence Gregory says (Pastor. i, 6): "In God's sight humility is genuine when it does not obstinately refuse to submit to what is usefully prescribed."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although simply and absolutely speaking the contemplative life is more excellent than the active, and the love of God better than the love of our neighbor, yet, on the other hand, the good of the many should be preferred to the good of the individual. Wherefore Augustine says in the passage quoted above: "Nor prefer your own ease to the needs of the Church," and all the more since it belongs to the love of God that a man undertake the pastoral care of Christ's sheep. Hence Augustine, commenting on Jn. 21:17, "Feed My sheep," says (Tract. cxxiii in Joan.): "Be it the task of love to feed the Lord's flock, even as it was the mark of fear to deny the Shepherd."
 
 Reply to Objection 2: No one is bound to obey his superior by doing what is unlawful, as appears from what was said above concerning obedience ([3774]Q[104], A[5]). Accordingly it may happen that he who is appointed to the office of prelate perceive something in himself on account of which it is unlawful for him to accept a prelacy. But this obstacle may sometimes be removed by the very person who is appointed to the pastoral cure---for instance, if he have a purpose to sin, he may abandon it---and for this reason he is not excused from being bound to obey definitely the superior who has appointed him. Sometimes, however, he is unable himself to remove the impediment that makes the pastoral office unlawful to him, yet the prelate who appoints him can do so---for instance, if he be irregular or excommunicate. In such a case he ought to make known his defect to the prelate who has appointed him; and if the latter be willing to remove the impediment, he is bound humbly to obey. Hence when Moses had said (Ex. 4:10): "I beseech thee, Lord, I am not eloquent from yesterday, and the day before," the Lord answered (Ex. 4:12): "I will be in thy mouth, and I will teach thee what thou shalt speak." At other times the impediment cannot be removed, neither by the person appointing nor by the one appointed---for instance, if an archbishop be unable to dispense from an irregularity; wherefore a subject, if irregular, would not be bound to obey him by accepting the episcopate or even sacred orders.
 
 Reply to Objection 3: It is not in itself necessary for salvation to accept the episcopal office, but it becomes necessary by reason of the superior's command. Now one may lawfully place an obstacle to things thus necessary for salvation, before the command is given; else it would not be lawful to marry a second time, lest one should thus incur an impediment to the episcopate or holy orders. But this would not be lawful in things necessary for salvation. Hence the Blessed Mark did not act against a precept by cutting off his finger, although it is credible that he did this by the instigation of the Holy Ghost, without which it would be unlawful for anyone to lay hands on himself. If a man take a vow not to accept the bishop's office, and by this intend to bind himself not even to accept it in obedience to his superior prelate, his vow is unlawful; but if he intend to bind himself, so far as it lies with him, not to seek the episcopal office, nor to accept it except under urgent necessity, his vow is lawful, because he vows to do what it becomes a man to do.
-# Whether He That Is Appointed To The Episcopate Ought To Be Better Than Others?
+## Whether He That Is Appointed To The Episcopate Ought To Be Better Than Others?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one who is appointed to the episcopate ought to be better than others. For our Lord, when about to commit the pastoral office to Peter, asked him if he loved Him more than the others. Now a man is the better through loving God the more. Therefore it would seem that one ought not to be appointed to the episcopal office except he be better than others.
 
@@ -75,7 +75,7 @@ Objection 2: Further, Pope Symmachus says (can. Vilissimus I, qu. 1): "A man is 
 
 Objection 3: Further, in every genus the lesser are governed by the greater, as corporeal things are governed by things spiritual, and the lower bodies by the higher, as Augustine says (De Trin. iii, 3). Now a bishop is appointed to govern others. Therefore he should be better than others.
 
-## Answer
+### Answer
 
 On the contrary, The Decretal [*Can. Cum dilectus, de Electione] says that "it suffices to choose a good man, nor is it necessary to choose the better man."
 
@@ -85,16 +85,16 @@ Now this pertains to the respect of persons, which in such matters is a grave si
 
 On the part of the person appointed, it is not required that he esteem himself better than others, for this would be proud and presumptuous; but it suffices that he perceive nothing in himself which would make it unlawful for him to take up the office of prelate. Hence although Peter was asked by our Lord if he loved Him more than the others, he did not, in his reply, set himself before the others, but answered simply that he loved Christ.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Our Lord knew that, by His own bestowal, Peter was in other respects fitted to govern the Church: wherefore He questioned him about his greater love, to show that when we find a man otherwise fitted for the government of the Church, we must look chiefly to his pre-eminence in the love of God.
 
 Reply to Objection 2: This statement refers to the pursuits of the man who is placed in authority. For he should aim at showing himself to be more excellent than others in both knowledge and holiness. Wherefore Gregory says (Pastor. ii, 1) "the occupations of a prelate ought to excel those of the people, as much as the shepherd's life excels that of his flock." But he is not to be blamed and looked upon as worthless if he excelled not before being raised to the prelacy.
 
 Reply to Objection 3: According to 1 Cor. 12:4 seqq., "there are diversities of graces . . . and . . . of ministries . . . and . . . of operations." Hence nothing hinders one from being more fitted for the office of governing, who does not excel in the grace of holiness. It is otherwise in the government of the natural order, where that which is higher in the natural order is for that very reason more fitted to dispose of those that are lower.
-# Whether A Bishop May Lawfully Forsake The Episcopal Cure, In Order To Enter Religion?
+## Whether A Bishop May Lawfully Forsake The Episcopal Cure, In Order To Enter Religion?
 
-## Objections
+### Objections
 
 Objection 1: It seems that a bishop cannot lawfully forsake his episcopal cure in order to enter religion. For no one can lawfully pass from a more perfect to a less perfect state; since this is "to look back," which is condemned by the words of our Lord (Lk. 9:62), "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." Now the episcopal state is more perfect than the religious, as shown above ([3775]Q[184], A[7]). Therefore just as it is unlawful to return to the world from the religious state, so is it unlawful to pass from the episcopal to the religious state.
 
@@ -102,7 +102,7 @@ Objection 2: Further, the order of grace is more congruous than the order of nat
 
 Objection 3: Further, in the works of grace nothing should be inoperative. Now when once a man is consecrated bishop he retains in perpetuity the spiritual power of giving orders and doing like things that pertain to the episcopal office: and this power would seemingly remain inoperative in one who gives up the episcopal cure. Therefore it would seem that a bishop may not forsake the episcopal cure and enter religion.
 
-## Answer
+### Answer
 
 On the contrary, No man is compelled to do what is in itself unlawful. Now those who seek to resign their episcopal cure are compelled to resign (Extra, de Renunt. cap. Quidam). Therefore apparently it is not unlawful to give up the episcopal cure.
 
@@ -112,16 +112,16 @@ At times, however, it happens in several ways that a bishop is hindered from pro
 
 Nevertheless just as a man takes upon himself the charge of authority at the appointment of a higher superior, so too it behooves him to be subject to the latter's authority in laying aside the accepted charge for the reasons given above. Hence Innocent III says (Extra, de Renunt., cap. Nisi cum pridem): "Though thou hast wings wherewith thou art anxious to fly away into solitude, they are so tied by the bonds of authority, that thou art not free to fly without our permission." For the Pope alone can dispense from the perpetual vow, by which a man binds himself to the care of his subjects, when he took upon himself the episcopal office.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The perfection of religious and that of bishops are regarded from different standpoints. For it belongs to the perfection of a religious to occupy oneself in working out one's own salvation, whereas it belongs to the perfection of a bishop to occupy oneself in working for the salvation of others. Hence so long as a man can be useful to the salvation of his neighbor, he would be going back, if he wished to pass to the religious state, to busy himself only with his own salvation, since he has bound himself to work not only for his own but also for others' salvation. Wherefore Innocent III says in the Decretal quoted above that "it is more easily allowable for a monk to ascend to the episcopacy, than for a bishop to descend to the monastic life. If, however, he be unable to procure the salvation of others it is meet he should seek his own."
 
 Reply to Objection 2: On account of no obstacle should a man forego the work of his own salvation, which pertains to the religious state. But there may be an obstacle to the procuring of another's salvation; wherefore a monk may be raised to the episcopal state wherein he is able also to work out his own salvation. And a bishop, if he be hindered from procuring the salvation of others, may enter the religious life, and may return to his bishopric should the obstacle cease, for instance by the correction of his subjects, cessation of the scandal, healing of his infirmity, removal of his ignorance by sufficient instruction. Again, if he owed his promotion to simony of which he was in ignorance, and resigning his episcopate entered the religious life, he can be reappointed to another bishopric [*Cap. Post translat., de Renunt.]. On the other hand, if a man be deposed from the episcopal office for some sin, and confined in a monastery that he may do penance, he cannot be reappointed to a bishopric. Hence it is stated (VII, qu. i, can. Hoc nequaquam): "The holy synod orders that any man who has been degraded from the episcopal dignity to the monastic life and a place of repentance, should by no means rise again to the episcopate."
 
 Reply to Objection 3: Even in natural things power remains inactive on account of a supervening obstacle, for instance the act of sight ceases through an affliction of the eye. So neither is it unreasonable if, through the occurrence of some obstacle from without, the episcopal power remain without the exercise of its act.
-# Whether It Is Lawful For A Bishop On Account Of Bodily Persecution To Abandon The Flock Committed To His Care?
+## Whether It Is Lawful For A Bishop On Account Of Bodily Persecution To Abandon The Flock Committed To His Care?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is unlawful for a bishop, on account of some temporal persecution, to withdraw his bodily presence from the flock committed to his care. For our Lord said (Jn. 10:12) that he is a hireling and no true shepherd, who "seeth the wolf coming, and leaveth the sheep and flieth": and Gregory says (Hom. xiv in Ev.) that "the wolf comes upon the sheep when any man by his injustice and robbery oppresses the faithful and the humble." Therefore if, on account of the persecution of a tyrant, a bishop withdraws his bodily presence from the flock entrusted to his care, it would seem that he is a hireling and not a shepherd.
 
@@ -129,7 +129,7 @@ Objection 2: Further, it is written (Prov. 6:1): "My son, if thou be surety for 
 
 Objection 3: Further, it belongs to the perfection of the bishop's state that he devote himself to the care of his neighbor. Now it is unlawful for one who has professed the state of perfection to forsake altogether the things that pertain to perfection. Therefore it would seem unlawful for a bishop to withdraw his bodily presence from the execution of his office, except perhaps for the purpose of devoting himself to works of perfection in a monastery.
 
-## Answer
+### Answer
 
 On the contrary, our Lord commanded the apostles, whose successors bishops are (Mat. 10:23): "When they shall persecute you in this city, flee into another."
 
@@ -137,16 +137,16 @@ I answer that, In any obligation the chief thing to be considered is the end of 
 
 On the other hand, if the salvation of his subjects can be sufficiently provided for by another person in the absence of the pastor, it is lawful for the pastor to withdraw his bodily presence from his flock, either for the sake of some advantage to the Church, or on account of some danger to his person. Hence Augustine says (Ep. ccxxviii ad Honorat.): "Christ's servants may flee from one city to another, when one of them is specially sought out by persecutors: in order that the Church be not abandoned by others who are not so sought for. When, however, the same danger threatens all, those who stand in need of others must not be abandoned by those whom they need." For "if it is dangerous for the helmsman to leave the ship when the sea is calm, how much more so when it is stormy," as Pope Nicholas I says (cf. VII, qu. i, can. Sciscitaris).
 
-## Replies
+### Replies
 
 Reply to Objection 1: To flee as a hireling is to prefer temporal advantage or one's bodily welfare to the spiritual welfare of one's neighbor. Hence Gregory says (Hom. xiv in Ev.): "A man cannot endanger himself for the sake of his sheep, if he uses his authority over them not through love of them but for the sake of earthly gain: wherefore he fears to stand in the way of danger lest he lose what he loves." But he who, in order to avoid danger, leaves the flock without endangering the flock, does not flee as a hireling.
 
 Reply to Objection 2: If he who is surety for another be unable to fulfil his engagement, it suffices that he fulfil it through another. Hence if a superior is hindered from attending personally to the care of his subjects, he fulfils his obligation if he do so through another.
 
 Reply to Objection 3: When a man is appointed to a bishopric, he embraces the state of perfection as regards one kind of perfection; and if he be hindered from the practice thereof, he is not bound to another kind of perfection, so as to be obliged to enter the religious state. Yet he is under the obligation of retaining the intention of devoting himself to his neighbor's salvation, should an opportunity offer, and necessity require it of him.
-# Whether It Is Lawful For A Bishop To Have Property Of His Own?
+## Whether It Is Lawful For A Bishop To Have Property Of His Own?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not lawful for a bishop to have property of his own. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what] thou hast, and give to the poor . . . and come, follow Me"; whence it would seem to follow that voluntary poverty is requisite for perfection. Now bishops are in the state of perfection. Therefore it would seem unlawful for them to possess anything as their own.
 
@@ -154,22 +154,22 @@ Objection 2: Further, bishops take the place of the apostles in the Church, acco
 
 Objection 3: Further, Jerome says (Ep. lii ad Nepotian.): "The Greek {kleros} denotes the Latin 'sors.' Hence clerics are so called either because they are of the Lord's estate, or because the Lord Himself is the estate, i.e. portion of clerics. Now he that possesses the Lord, can have nothing besides God; and if he have gold and silver, possessions, and chattels of all kinds, with such a portion the Lord does not vouchsafe to be his portion also." Therefore it would seem that not only bishops but even clerics should have nothing of their own.
 
-## Answer
+### Answer
 
 On the contrary, It is stated (XII, qu. i, can. Episcopi de rebus): "Bishops, if they wish, may bequeath to their heirs their personal or acquired property, and whatever belongs to them personally."
 
 I answer that, No one is bound to works of supererogation, unless he binds himself specially thereto by vow. Hence Augustine says (Ep. cxxvii ad Paulin. et Arment.): "Since you have taken the vow, you have already bound yourself, you can no longer do otherwise. Before you were bound by the vow, you were free to submit." Now it is evident that to live without possessing anything is a work of supererogation, for it is a matter not of precept but of counsel. Wherefore our Lord after saying to the young man: "If thou wilt enter into life, keep the commandments," said afterwards by way of addition: "If thou wilt be perfect go sell" all "that thou hast, and give to the poor" (Mat. 19:17, 21). Bishops, however, do not bind themselves at their ordination to live without possessions of their own; nor indeed does the pastoral office, to which they bind themselves, make it necessary for them to live without anything of their own. Therefore bishops are not bound to live without possessions of their own.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([3776]Q[184], A[3], ad 1) the perfection of the Christian life does not essentially consist in voluntary poverty, but voluntary poverty conduces instrumentally to the perfection of life. Hence it does not follow that where there is greater poverty there is greater perfection; indeed the highest perfection is compatible with great wealth, since Abraham, to whom it was said (Gn. 17:1): "Walk before Me and be perfect," is stated to have been rich (Gn. 13:2).
 
 Reply to Objection 2: This saying of our Lord can be understood in three ways. First, mystically, that we should possess neither gold nor silver means that the preacher should not rely chiefly on temporal wisdom and eloquence; thus Jerome expounds the passage.
 
 Reply to Objection 3: Every part is less than the whole. Accordingly a man has other portions together with God, if he becomes less intent on things pertaining to God by occupying himself with things of the world. Now neither bishops nor clerics ought thus to possess means of their own, that while busy with their own they neglect those that concern the worship of God.
-# Whether Bishops Sin Mortally If They Distribute Not To The Poor The Ecclesiastical Goods Which Accrue To Them?
+## Whether Bishops Sin Mortally If They Distribute Not To The Poor The Ecclesiastical Goods Which Accrue To Them?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that bishops sin mortally if they distribute not to the poor the ecclesiastical goods which they acquire. For Ambrose [*Basil, Serm. lxiv, de Temp., among the supposititious works of St. Jerome] expounding Lk. 12:16, "The land of a certain . . . man brought forth plenty of fruits," says: "Let no man claim as his own that which he has taken and obtained by violence from the common property in excess of his requirements"; and afterwards he adds: "It is not less criminal to take from him who has, than, when you are able and have plenty to refuse him who has not." Now it is a mortal sin to take another's property by violence. Therefore bishops sin mortally if they give not to the poor that which they have in excess.
 
@@ -177,7 +177,7 @@ Objection 2: Further, a gloss of Jerome on Is. 3:14, "The spoil of the poor is i
 
 Objection 3: Further, much more may one take what is necessary for oneself from the goods of the Church, than accumulate a surplus therefrom. Yet Jerome says in a letter to Pope Damasus [*Cf. Can. Clericos, cause. i, qu. 2; Can. Quoniam; cause. xvi, qu. 1; Regul. Monach. iv, among the supposititious works of St. Jerome]: "It is right that those clerics who receive no goods from their parents and relations should be supported from the funds of the Church. But those who have sufficient income from their parents and their own possessions, if they take what belongs to the poor, they commit and incur the guilt of sacrilege." Wherefore the Apostle says (1 Tim. 5:16): "If any of the faithful have widows, let him minister to them, and let not the Church be charged, that there may be sufficient for them that are widows indeed." Much more therefore do bishops sin mortally if they give not to the poor the surplus of their ecclesiastical goods.
 
-## Answer
+### Answer
 
 On the contrary, Many bishops do not give their surplus to the poor, but would seem commendably to lay it out so as to increase the revenue of the Church.
 
@@ -189,16 +189,16 @@ But as regards those goods which are deputed to his private use, the same appare
 
 On the other hand, if no distinction is made in the aforesaid goods, their distribution is entrusted to his good faith; and if he fail or exceed in a slight degree, this may happen without prejudice to his good faith, because in such matters a man cannot possibly decide precisely what ought to be done. On the other hand, if the excess be very great he cannot be ignorant of the fact; consequently he would seem to be lacking in good faith, and is guilty of mortal sin. For it is written (Mat. 24:48-51) that "if that evil servant shall say in his heart: My lord is long a-coming," which shows contempt of God's judgment, "and shall begin to strike his fellow-servants," which is a sign of pride, "and shall eat and drink with drunkards," which proceeds from lust, "the lord of that servant shall come in a day that he hopeth not . . . and shall separate him," namely from the fellowship of good men, "and appoint his portion with hypocrites," namely in hell.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This saying of Ambrose refers to the administration not only of ecclesiastical things but also of any goods whatever from which a man is bound, as a duty of charity, to provide for those who are in need. But it is not possible to state definitely when this need is such as to impose an obligation under pain of mortal sin, as is the case in other points of detail that have to be considered in human acts: for the decision in such matters is left to human prudence.
 
 Reply to Objection 2: As stated above the goods of the Church have to be employed not only for the use of the poor, but also for other purposes. Hence if a bishop or cleric wish to deprive himself of that which is assigned to his own use, and give it to his relations or others, he sins not so long as he observes moderation, so, to wit, that they cease to be in want without becoming the richer thereby. Hence Ambrose says (De Offic. i, 30): "It is a commendable liberality if you overlook not your kindred when you know them to be in want; yet not so as to wish to make them rich with what you can give to the poor."
 
 Reply to Objection 3: The goods of churches should not all be given to the poor, except in a case of necessity: for then, as Ambrose says (De Offic. ii, 28), even the vessels consecrated to the divine worship are to be sold for the ransom of prisoners, and other needs of the poor. In such a case of necessity a cleric would sin if he chose to maintain himself on the goods of the Church, always supposing him to have a patrimony of his own on which to support himself.
-# Whether Religious Who Are Raised To The Episcopate Are Bound To Religious Observances?
+## Whether Religious Who Are Raised To The Episcopate Are Bound To Religious Observances?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that religious who are raised to the episcopate are not bound to religious observances. For it is said (XVIII, qu. i, can. Statutum) that a "canonical election loosens a monk from the yoke imposed by the rule of the monastic profession, and the holy ordination makes of a monk a bishop." Now the regular observances pertain to the yoke of the rule. Therefore religious who are appointed bishops are not bound to religious observances.
 
@@ -206,7 +206,7 @@ Objection 2: Further, he who ascends from a lower to a higher degree is seemingl
 
 Objection 3: Further, religious would seem to be bound above all to obedience, and to live without property of their own. But religious who are appointed bishops, are not bound to obey the superiors of their order, since they are above them; nor apparently are they bound to poverty, since according to the decree quoted above (OBJ[1]) "when the holy ordination has made of a monk a bishop he enjoys the right, as the lawful heir, of claiming his paternal inheritance." Moreover they are sometimes allowed to make a will. Much less therefore are they bound to other regular observances.
 
-## Answer
+### Answer
 
 On the contrary, It is said in the Decretals (XVI, qu. i, can. De Monachis): "With regard to those who after long residence in a monastery attain to the order of clerics, we bid them not to lay aside their former purpose."
 
@@ -214,7 +214,7 @@ I answer that, As stated above (A[1], ad 2) the religious state pertains to perf
 
 On the other hand, a man is not bound to keep such religious observances as may be incompatible with the episcopal office, for instance solitude, silence, and certain severe abstinences or watchings and such as would render him bodily unable to exercise the episcopal office. For the rest he may dispense himself from them, according to the needs of his person or office, and the manner of life of those among whom he dwells, in the same way as religious superiors dispense themselves in such matters.
 
-## Replies
+### Replies
 
 Reply to Objection 1: He who from being a monk becomes a bishop is loosened from the yoke of the monastic profession, not in everything, but in those that are incompatible with the episcopal office, as stated above.
 

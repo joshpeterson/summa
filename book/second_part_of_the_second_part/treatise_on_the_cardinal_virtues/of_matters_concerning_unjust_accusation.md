@@ -5,9 +5,9 @@ We must now consider matters pertaining to unjust accusation. Under this head th
 (2) Whether the accusation should be made in writing?
 (3) How is an accusation vitiated?
 (4) How should those be punished who have accused a man wrongfully?
-# Whether A Man Is Bound To Accuse?
+## Whether A Man Is Bound To Accuse?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man is not bound to accuse. For no man is excused on account of sin from fulfilling a Divine precept, since he would thus profit by his sin. Yet on account of sin some are disqualified from accusing, such as those who are excommunicate or of evil fame, or who are accused of grievous crimes and are not yet proved to be innocent [*1 Tim. 1:5]. Therefore a man is not bound by a Divine precept to accuse.
 
@@ -15,22 +15,22 @@ Objection 2: Further, every duty depends on charity which is "the end of the pre
 
 Objection 3: Further, no man is bound to act against the fidelity which he owes his friend; because he ought not to do to another what he would not have others do to him. Now to accuse anyone is sometimes contrary to the fidelity that one owes a friend; for it is written (Prov. 11:13): "He that walketh deceitfully, revealeth secrets; but he that is faithful, concealeth the thing committed to him by his friend." Therefore a man is not bound to accuse.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lev. 5:1): "If any one sin, and hear the voice of one swearing, and is a witness either because he himself hath seen, or is privy to it: if he do not utter it, he shall bear his iniquity."
 
 I answer that, As stated above ([2927]Q[33], AA[6],7;[2928] Q[67], A[3], ad 2), the difference between denunciation and accusation is that in denunciation we aim at a brother's amendment, whereas in accusation we intend the punishment of his crime. Now the punishments of this life are sought, not for their own sake, because this is not the final time of retribution, but in their character of medicine, conducing either to the amendment of the sinner, or to the good of the commonwealth whose calm is ensured by the punishment of evil-doers. The former of these is intended in denunciation, as stated, whereas the second regards properly accusation. Hence in the case of a crime that conduces to the injury of the commonwealth, a man is bound to accusation, provided he can offer sufficient proof, since it is the accuser's duty to prove: as, for example, when anyone's sin conduces to the bodily or spiritual corruption of the community. If, however, the sin be not such as to affect the community, or if he cannot offer sufficient proof, a man is not bound to attempt to accuse, since no man is bound to do what he cannot duly accomplish.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Nothing prevents a man being debarred by sin from doing what men are under an obligation to do: for instance from meriting eternal life, and from receiving the sacraments of the Church. Nor does a man profit by this: indeed it is a most grievous fault to fail to do what one is bound to do, since virtuous acts are perfections of man.
 
 Reply to Objection 2: Subjects are debarred from accusing their superiors, "if it is not the affection of charity but their own wickedness that leads them to defame and disparage the conduct of their superiors" [*Append. Grat. ad can. Sunt nonnulli, caus. ii, qu. 7] ---or again if the subject who wishes to accuse his superior is himself guilty of crime [*Decret. II, qu. vii, can. Praesumunt.]. Otherwise, provided they be in other respects qualified to accuse, it is lawful for subjects to accuse their superiors out of charity.
 
 Reply to Objection 3: It is contrary to fidelity to make known secrets to the injury of a person; but not if they be revealed for the good of the community, which should always be preferred to a private good. Hence it is unlawful to receive any secret in detriment to the common good: and yet a thing is scarcely a secret when there are sufficient witnesses to prove it.
-# Whether It Is Necessary For The Accusation To Be Made In Writing?
+## Whether It Is Necessary For The Accusation To Be Made In Writing?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unnecessary for the accusation to be made in writing. For writing was devised as an aid to the human memory of the past. But an accusation is made in the present. Therefore the accusation needs not to be made in writing.
 
@@ -38,22 +38,22 @@ Objection 2: Further, it is laid down (Decret. II, qu. viii, can. Per scripta) t
 
 Objection 3: Further, a man's crime is made known by denunciation, even as by accusation. Now writing is unnecessary in denunciation. Therefore it is seemingly unnecessary in accusation.
 
-## Answer
+### Answer
 
 On the contrary, It is laid down (Decret. II, qu. viii, can. Accusatorum) that "the role of accuser must never be sanctioned without the accusation be in writing."
 
 I answer that, As stated above ([2929]Q[67], A[3]), when the process in a criminal case goes by way of accusation, the accuser is in the position of a party, so that the judge stands between the accuser and the accused for the purpose of the trial of justice, wherein it behooves one to proceed on certainties, as far as possible. Since however verbal utterances are apt to escape one's memory, the judge would be unable to know for certain what had been said and with what qualifications, when he comes to pronounce sentence, unless it were drawn up in writing. Hence it has with reason been established that the accusation, as well as other parts of the judicial procedure, should be put into writing.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Words are so many and so various that it is difficult to remember each one. A proof of this is the fact that if a number of people who have heard the same words be asked what was said, they will not agree in repeating them, even after a short time. And since a slight difference of words changes the sense, even though the judge's sentence may have to be pronounced soon afterwards, the certainty of judgment requires that the accusation be drawn up in writing.
 
 Reply to Objection 2: Writing is needed not only on account of the absence of the person who has something to notify, or of the person to whom something is notified, but also on account of the delay of time as stated above (ad 1). Hence when the canon says, "Let no accusation be accepted in writing" it refers to the sending of an accusation by one who is absent: but it does not exclude the necessity of writing when the accuser is present.
 
 Reply to Objection 3: The denouncer does not bind himself to give proofs: wherefore he is not punished if he is unable to prove. For this reason writing is unnecessary in a denunciation: and it suffices that the denunciation be made verbally to the Church, who will proceed, in virtue of her office, to the correction of the brother.
-# Whether An Accusation Is Rendered Unjust By Calumny, Collusion Or Evasion?
+## Whether An Accusation Is Rendered Unjust By Calumny, Collusion Or Evasion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an accusation is not rendered unjust by calumny, collusion or evasion. For according to Decret. II, qu. iii [*Append. Grat. ad can. Si quem poenituerit.], "calumny consists in falsely charging a person with a crime." Now sometimes one man falsely accuses another of a crime through ignorance of fact which excuses him. Therefore it seems that an accusation is not always rendered unjust through being slanderous.
 
@@ -61,22 +61,22 @@ Objection 2: Further, it is stated by the same authority that "collusion consist
 
 Objection 3: Further, it is stated by the same authority that "evasion consists in withdrawing altogether from an accusation." But this can be done without injustice: for it is stated there also: "If a man repent of having made a wicked accusation and inscription* in a matter which he cannot prove, and come to an understanding with the innocent party whom he has accused, let them acquit one another." [*The accuser was bound by Roman Law to endorse (se inscribere) the writ of accusation. The effect of this endorsement or inscription was that the accuser bound himself, if he failed to prove the accusation, to suffer the same punishment as the accused would have to suffer if proved guilty.] Therefore evasion does not render an accusation unjust.
 
-## Answer
+### Answer
 
 On the contrary, It is stated by the same authority: "The rashness of accusers shows itself in three ways. For they are guilty either of calumny, or of collusion, or of evasion."
 
 I answer that, As stated above [2931](A[1]), accusation is ordered for the common good which it aims at procuring by means of knowledge of the crime. Now no man ought to injure a person unjustly, in order to promote the common good. Wherefore a man may sin in two ways when making an accusation: first through acting unjustly against the accused, by charging him falsely with the commission of a crime, i.e. by calumniating him; secondly, on the part of the commonwealth, whose good is intended chiefly in an accusation, when anyone with wicked intent hinders a sin being punished. This again happens in two ways: first by having recourse to fraud in making the accusation. This belongs to collusion [prevaricatio] for "he that is guilty of collusion is like one who rides astraddle [varicator], because he helps the other party, and betrays his own side" [*Append. Grat. ad can. Si quem poenituerit.]. Secondly by withdrawing altogether from the accusation. This is evasion [tergiversatio] for by desisting from what he had begun he seems to turn his back [tergum vertere].
 
-## Replies
+### Replies
 
 Reply to Objection 1: A man ought not to proceed to accuse except of what he is quite certain about, wherein ignorance of fact has no place. Yet he who falsely charges another with a crime is not a calumniator unless he gives utterance to false accusations out of malice. For it happens sometimes that a man through levity of mind proceeds to accuse someone, because he believes too readily what he hears, and this pertains to rashness; while, on the other hand sometimes a man is led to make an accusation on account of an error for which he is not to blame. All these things must be weighed according to the judge's prudence, lest he should declare a man to have been guilty of calumny, who through levity of mind or an error for which he is not to be blamed has uttered a false accusation.
 
 Reply to Objection 2: Not everyone who hides the truth about a crime is guilty of collusion, but only he who deceitfully hides the matter about which he makes the accusation, by collusion with the defendant, dissembling his proofs, and admitting false excuses.
 
 Reply to Objection 3: Evasion consists in withdrawing altogether from the accusation, by renouncing the intention of accusing, not anyhow, but inordinately. There are two ways, however, in which a man may rightly desist from accusing without committing a sin ---in one way, in the very process of accusation, if it come to his knowledge that the matter of his accusation is false, and then by mutual consent the accuser and the defendant acquit one another---in another way, if the accusation be quashed by the sovereign to whom belongs the care of the common good, which it is intended to procure by the accusation.
-# Whether An Accuser Who Fails To Prove His Indictment Is Bound To The Punishment Of Retaliation?
+## Whether An Accuser Who Fails To Prove His Indictment Is Bound To The Punishment Of Retaliation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the accuser who fails to prove his indictment is not bound to the punishment of retaliation. For sometimes a man is led by a just error to make an accusation, in which case the judge acquit the accuser, as stated in Decret. II, qu. iii. [*Append. Grat., ad can. Si quem poenituerit.] Therefore the accuser who fails to prove his indictment is not bound to the punishment of retaliation.
 
@@ -84,13 +84,13 @@ Objection 2: Further, if the punishment of retaliation ought to be inflicted on 
 
 Objection 3: Further, the one same sin does not deserve a twofold punishment, according to Nahum 1:9 [*Septuagint version]: "God shall not judge the same thing a second time." But he who fails to prove his accusation, incurs the punishment due to defamation [*Can. Infames, caus. vi, qu. 1], which punishment even the Pope seemingly cannot remit, according to a statement of Pope Gelasius [*Callist. I, Epist. ad omn. Gall. episc.]: "Although we are able to save souls by Penance, we are unable to remove the defamation." Therefore he is not bound to suffer the punishment of retaliation.
 
-## Answer
+### Answer
 
 On the contrary, Pope Hadrian I says (Cap. lii): "He that fails to prove his accusation, must himself suffer the punishment which his accusation inferred."
 
 I answer that, As stated above [2932](A[2]), in a case, where the procedure is by way of accusation, the accuser holds the position of a party aiming at the punishment of the accused. Now the duty of the judge is to establish the equality of justice between them: and the equality of justice requires that a man should himself suffer whatever harm he has intended to be inflicted on another, according to Ex. 21:24, "Eye for eye, tooth for tooth." Consequently it is just that he who by accusing a man has put him in danger of being punished severely, should himself suffer a like punishment.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the Philosopher says (Ethic. v, 5) justice does not always require counterpassion, because it matters considerably whether a man injures another voluntarily or not. Voluntary injury deserves punishment, involuntary deserves forgiveness. Hence when the judge becomes aware that a man has made a false accusation, not with a mind to do harm, but involuntarily through ignorance or a just error, he does not impose the punishment of retaliation.
 

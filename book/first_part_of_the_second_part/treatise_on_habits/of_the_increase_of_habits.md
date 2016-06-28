@@ -4,9 +4,9 @@ We have now to consider the increase of habits; under which head there are three
 (1) Whether habits increase?
 (2) Whether they increase by addition?
 (3) Whether each act increases the habit?
-# Whether Habits Increase?
+## Whether Habits Increase?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that habits cannot increase. For increase concerns quantity (Phys. v, text. 18). But habits are not in the genus quantity, but in that of quality. Therefore there can be no increase of habits.
 
@@ -14,7 +14,7 @@ Objection 2: Further, habit is a perfection (Phys. vii, text. 17,18). But since 
 
 Objection 3: Further, those things which can be more or less are subject to alteration: for that which from being less hot becomes more hot, is said to be altered. But in habits there is no alteration, as is proved in Phys. vii, text. 15,17. Therefore habits cannot increase.
 
-## Answer
+### Answer
 
 On the contrary, Faith is a habit, and yet it increases: wherefore the disciples said to our Lord (Lk. 17:5): "Lord, increase our faith." Therefore habits increase.
 
@@ -40,16 +40,16 @@ It is clear, therefore, since we speak of habits and dispositions in respect of 
 
 We shall say further on ([1472]Q[66], A[1]) how it is with the virtues.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the word "great" is taken from corporeal quantities and applied to the intelligible perfections of forms; so also is the word "growth," the term of which is something great.
 
 Reply to Objection 2: Habit is indeed a perfection, but not a perfection which is the term of its subject; for instance, a term giving the subject its specific being. Nor again does the nature of a habit include the notion of term, as do the species of numbers. Wherefore there is nothing to hinder it from being susceptible of more or less.
 
 Reply to Objection 3: Alteration is primarily indeed in the qualities of the third species; but secondarily it may be in the qualities of the first species: for, supposing an alteration as to hot and cold, there follows in an animal an alteration as to health and sickness. In like manner, if an alteration take place in the passions of the sensitive appetite, or the sensitive powers of apprehension, an alteration follows as to science and virtue (Phys. viii, text. 20).
-# Whether Habits Increases By Addition?
+## Whether Habits Increases By Addition?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the increase of habits is by way of addition. For the word "increase," as we have said, is transferred to forms, from corporeal quantities. But in corporeal quantities there is no increase without addition: wherefore (De Gener. i, text. 31) it is said that "increase is an addition to a magnitude already existing." Therefore in habits also there is no increase without addition.
 
@@ -57,7 +57,7 @@ Objection 2: Further, habit is not increased except by means of some agent. But 
 
 Objection 3: Further, as that which is not white, is in potentiality to be white: so that which is less white, is in potentiality to be more white. But that which is not white, is not made white except by the addition of whiteness. Therefore that which is less white, is not made more white, except by an added whiteness.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Phys. iv, text. 84): "That which is hot is made hotter, without making, in the matter, something hot, that was not hot, when the thing was less hot." Therefore, in like manner, neither is any addition made in other forms when they increase.
 
@@ -71,16 +71,16 @@ As to bodily habits, it does not seem very probable that they receive increase b
 
 How this question affects virtues we shall state further on ([1476]Q[66], A[1] ).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even in bodily bulk increase is twofold. First, by addition of one subject to another; such is the increase of living things. Secondly, by mere intensity, without any addition at all; such is the case with things subject to rarefaction, as is stated in Phys. iv, text. 63.
 
 Reply to Objection 2: The cause that increases a habit, always effects something in the subject, but not a new form. But it causes the subject to partake more perfectly of a pre-existing form, or it makes the form to extend further.
 
 Reply to Objection 3: What is not already white, is potentially white, as not yet possessing the form of whiteness: hence the agent causes a new form in the subject. But that which is less hot or white, is not in potentiality to those forms, since it has them already actually: but it is in potentiality to a perfect mode of participation; and this it receives through the agent's action.
-# Whether Every Act Increases Its Habit?
+## Whether Every Act Increases Its Habit?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that every act increases its habit. For when the cause is increased the effect is increased. Now acts are causes of habits, as stated above ([1477]Q[51], A[2]). Therefore a habit increases when its acts are multiplied.
 
@@ -88,7 +88,7 @@ Objection 2: Further, of like things a like judgment should be formed. But all t
 
 Objection 3: Further, like is increased by like. But any act is like the habit whence it proceeds. Therefore every act increases the habit.
 
-## Answer
+### Answer
 
 On the contrary, Opposite effects do not result from the same cause. But according to Ethic. ii, 2, some acts lessen the habit whence they proceed, for instance if they be done carelessly. Therefore it is not every act that increases a habit.
 

@@ -6,9 +6,9 @@ We must next consider the integrity of the bodies in the resurrection. Under thi
 (3) Whether the humors will?
 (4) Whether whatever the body contained belonging to the truth of human nature will rise again?
 (5) Whether whatever it contained materially will rise again?
-# Whether All The Members Of The Human Body Will Rise Again?
+## Whether All The Members Of The Human Body Will Rise Again?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not all the members of the human body will rise again. For if the end be done away it is useless to repair the means. Now the end of each member is its act. Since then nothing useless is done in the Divine works, and since the use of certain members is not fitting to man after the resurrection, especially the use of the genital members, for then they "shall neither marry, nor be married" (Mat. 22:30), it would seem that not all the members shall rise again.
 
@@ -16,22 +16,22 @@ Objection 2: Further, the entrails are members: and yet they will not rise again
 
 Objection 3: Further, the body shall rise again that it may be rewarded for the works which the soul did through it. Now the member of which a thief has been deprived for theft, and who has afterwards done penance and is saved, cannot be rewarded at the resurrection, neither for any good deed, since it has not co-operated in any, nor for evil deeds, since the punishment of the member would redound to the punishment of man. Therefore the members will not all rise again.
 
-## Answer
+### Answer
 
 On the contrary, The other members belong more to the truth of human nature than hair and nails. Yet these will be restored to man at the resurrection according to the text (Sent. iv, D, 4). Much more therefore does this apply to the other members.
 
 I answer that, As stated in De Anima ii, 4, "the soul stands in relation to the body not only as its form and end, but also as efficient cause." For the soul is compared to the body as art to the thing made by art, as the Philosopher says (De Anim. Gener. ii, 4), and whatever is shown forth explicitly in the product of art is all contained implicitly and originally in the art. In like manner whatever appears in the parts of the body is all contained originally and, in a way, implicitly in the soul. Thus just as the work of an art would not be perfect, if its product lacked any of the things contained in the art, so neither could man be perfect, unless the whole that is contained enfolded in the soul be outwardly unfolded in the body, nor would the body correspond in full proportion to the soul. Since then at the resurrection it behooves man's body to correspond entirely to the soul, for it will not rise again except according to the relation it bears to the rational soul, it follows that man also must rise again perfect, seeing that he is thereby repaired in order that he may obtain his ultimate perfection. Consequently all the members that are now in man's body must needs be restored at the resurrection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The members may be considered in two ways in relation to the soul: either according to the relation of matter to form, or according to the relation of instrument to agent, since "the whole body is compared to the whole soul in the same way as one part is to another" (De Anima ii, 1). If then the members be considered in the light of the first relationship, their end is not operation, but rather the perfect being of the species, and this is also required after the resurrection: but if they be considered in the light of the second relationship, then their end is operation. And yet it does not follow that when the operation fails the instrument is useless, because an instrument serves not only to accomplish the operation of the agent, but also to show its virtue. Hence it will be necessary for the virtue of the soul's powers to be shown in their bodily instruments, even though they never proceed to action, so that the wisdom of God be thereby glorified.
 
 Reply to Objection 2: The entrails will rise again in the body even as the other members: and they will be filled not with vile superfluities but with goodly humors.
 
 Reply to Objection 3: The acts whereby we merit are not the acts, properly speaking, of hand or foot but of the whole man; even as the work of art is ascribed not to the instrument but to the craftsman. Therefore though the member which was cut off before a man's repentance did not co-operate with him in the state wherein he merits glory, yet man himself merits that the whole man may be rewarded, who with his whole being serves God.
-# Whether The Hair And Nails Will Rise Again In The Human Body?
+## Whether The Hair And Nails Will Rise Again In The Human Body?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the hair and nails will not rise again in the human body. For just as hair and nails result from the surplus of food, so do urine, sweat and other superfluities or dregs. But these will not rise again with the body. Neither therefore will hair and nails.
 
@@ -39,22 +39,22 @@ Objection 2: Further, of all the superfluities that are produced from food, seed
 
 Objection 3: Further, nothing is perfected by a rational soul that is not perfected by a sensitive soul. But hair and nails are not perfected by a sensitive soul, for "we do not feel with them" (De Anima i, 5; iii, 13). Therefore since the human body rises not again except because it is perfected by a rational soul, it would seem that the hair and nails will not rise again.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lk. 21:18): "A hair of your head shall not perish."
 
 I answer that, The soul is to the animated body, as art is to the work of art, and is to the parts of the body as art to its instruments: wherefore an animated body is called an organic body. Now art employs certain instruments for the accomplishment of the work intended, and these instruments belong to the primary intention of art: and it also uses other instruments for the safe-keeping of the principal instruments, and these belong to the secondary intention of art: thus the art of warfare employs a sword for fighting, and a sheath for the safe-keeping of the sword. And so among the parts of an animated body, some are directed to the accomplishment of the souls' operations, for instance the heart, liver, hand, foot; while others are directed to the safe-keeping of the other parts as leaves to cover fruit; and thus hair and nails are in man for the protection of other parts. Consequently, although they do not belong to the primary perfection of the human body, they belong to the secondary perfection: and since man will rise again with all the perfections of his nature, it follows that hair and nails will rise again in him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Those superfluities are voided by nature, as being useful for nothing. Hence they do not belong to the perfection of the human body. It is not so with the superfluities which nature reserves for the production of hair and nails which she needs for the protection of the members.
 
 Reply to Objection 2: Seed is not required for the perfection of the individual, as hair and nails are, but only for the protection of the species.
 
 Reply to Objection 3: Hair and nails are nourished and grow, and so it is clear that they share in some operation, which would not be possible unless they were parts in some way perfected by the soul. And since in man there is but one soul, namely the rational soul, it is clear that they are perfected by the rational soul, although not so far as to share in the operation of sense, as neither do bones, and yet it is certain that these will rise again and that they belong to the integrity of the individual.
-# Whether The Humors Will Rise Again In The Body?
+## Whether The Humors Will Rise Again In The Body?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the humors will not rise again in the body. For it is written (1 Cor. 15:50): "Flesh and blood cannot possess the kingdom of God." Now blood is the chief humor. Therefore it will not rise again in the blessed, who will possess the kingdom of God, and much less in others.
 
@@ -62,7 +62,7 @@ Objection 2: Further, humors are intended to make up for the waste. Now after th
 
 Objection 3: Further, that which is in process of generation in the human body is not yet perfected by the rational soul. Now the humors are still in process of generation because they are potentially flesh and bone. Therefore they are not yet perfected by the rational soul. Now the human body is not directed to the resurrection except in so far as it is perfected by the rational soul. Therefore the humors will not rise again.
 
-## Answer
+### Answer
 
 On the contrary, Whatever enters into the constitution of the human body will rise again with it. Now this applies to the humors, as appears from the statement of Augustine (De Spir. et Anima xv) that "the body consists of functional members; the functional members of homogeneous parts; and the homogeneous parts of humors." Therefore the humors will rise again in the body.
 
@@ -70,16 +70,16 @@ I answer that, Whatever belongs to the integrity of human nature in those who ta
 
 The second kind of humidity is one that has not yet reached its ultimate perfection, which nature achieves in the individual, yet it is directed thereto by nature: and this is of two kinds. For there is one kind that has a definite form and is contained among the parts of the body, for instance the blood and the other humors which nature has directed to the members that are produced or nourished therefrom: and yet they have certain definite forms like the other parts of the body, and consequently will rise again with the other parts of the body: while another kind of humidity is in transition from form to form, namely from the form of humor to the form of member. Humidities of this kind will not rise again, because after the resurrection each part of the body will be established in its form, so that one will not pass into another. Wherefore this humidity that is actually in transition from one form to another will not rise again. Now this humidity may be considered in a twofold state---either as being at the beginning of its transformation, and thus it is called "ros," namely the humidity that is found in the cavities of the smaller veins---or as in the course of transformation and already beginning to undergo alteration, and thus it is called "cambium": but in neither state will it rise again. The third kind of humidity is that which has already reached its ultimate perfection that nature intends in the body of the individual, and has already undergone transformation and become incorporate with the members. This is called "gluten," and since it belongs to the members it will rise again just as the members will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In these words of the Apostle flesh and blood do not denote the substance of flesh and blood but deeds of flesh and blood, which are either deeds of sin or the operations of the animal life. Or we may say with Augustine in his letter to Consentius (Ep. cxlvi) that "flesh and blood here signify the corruption which is now predominant in flesh and blood"; wherefore the Apostle's words continue: "Neither shall corruption possess incorruption."
 
 Reply to Objection 2: Just as the members that serve for generation will be after the resurrection for the integrity of human nature, and not for the operation accomplished now by them, so will the humors be in the body not to make up for waste, but to restore the integrity of human nature and to show forth its natural power.
 
 Reply to Objection 3: Just as the elements are in the course of generation in relation to mixed bodies, because they are their matter, yet not so as to be always in transition when in the mixed body, so too are the humors in relation to the members. And for this reason as the elements in the parts of the universe have definite forms, by reason of which they, like mixed bodies, belong to the perfection of the universe, so too the humors belong to the perfection of the human body, just as the other parts do, although they do not reach its entire perfection, as the other parts do, and although the elements have not perfect forms as mixed bodies have. But as all the parts of the universe receive their perfection from God, not equally, but each one according to its mode, so too the humors are in some way perfected by the rational soul, yet not in the same measure as the more perfect parts.
-# Whether Whatever In The Body Belonged To The Truth Of Human Nature Will Rise Again In It?
+## Whether Whatever In The Body Belonged To The Truth Of Human Nature Will Rise Again In It?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that what was in the body, belonging to the truth of human nature, will not all rise again in it. For food is changed into the truth of human nature. Now sometimes the flesh of the ox or of other animals is taken as food. Therefore if whatever belonged to the truth of human nature will rise again, the flesh of the ox or of other animals will also rise again: which is inadmissible.
 
@@ -91,7 +91,7 @@ Objection 4: Further, if it be said that not all the flesh partaken of belongs t
 
 Objection 5: Further, if it be said that what was changed into seed was not that which belong to the truth of human nature in the flesh of the men eaten, but something not belonging to the truth of human nature---on the contrary: Let us suppose that some one is fed entirely on embryos in which seemingly there is nothing but what belongs to the truth of human nature since whatever is in them is derived from the parents. If then the surplus food be changed into seed, that which belonged to the truth of human nature in the embryos---and after these have received a rational soul, the resurrection applies to them---must needs belong to the truth of human nature in the child begotten of that seed. And thus, since the same cannot rise again in two subjects, it will be impossible for whatever belonged to the truth of human nature in both to rise again in both of them.
 
-## Answer
+### Answer
 
 On the contrary, Whatever belonged to the truth of human nature was perfected by the rational soul. Now it is through being perfected by the rational soul that the human body is directed to the resurrection. Therefore whatever belonged to the truth of human nature will rise again in each one.
 
@@ -111,7 +111,7 @@ The third opinion differs somewhat from the second and in some respects agrees w
 
 On the other hand, The third opinion agrees with the second, because it holds that the parts which come secondly do not reach the perfection of the species so perfectly as those which come first: and consequently the third opinion asserts that the same thing rises again in man as the second opinion maintains, but not for quite the same reason. For it holds that the whole of what is produced from the seed will rise again, not because it belongs to the truth of human nature otherwise than that which comes after, but because it shares the truth of human nature more perfectly: which same order the second opinion applied to those things that are produced afterwards from food, in which point also these two opinions agree.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A natural thing is what it is, not from its matter but from its form; wherefore, although that part of matter which at one time was under the form of bovine flesh rises again in man under the form of human flesh, it does not follow that the flesh of an ox rises again, but the flesh of a man: else one might conclude that the clay from which Adam's body was fashioned shall rise again. The second opinion, however, grants this argument.
 
@@ -122,9 +122,9 @@ Reply to Objection 3: According to the first opinion it is easy to reply to this
 Reply to Objection 4: According to the first opinion this argument is easily answered. For that opinion asserts that the seed is not from the surplus food: so that the flesh eaten is not changed into the seed whereof the child is begotten. But according to the other two opinions we must reply that it is impossible for the whole of the flesh eaten to be changed into seed, because it is after much separation that the seed is distilled from the food, since seed is the ultimate surplus of food. That part of the eaten flesh which is changed into seed belongs to the truth of human nature in the one born of the seed more than in the one of whose flesh the seed was the product. Hence according to the rule already laid down (ad 3), whatever was changed into the seed will rise again in the person born of the seed; while the remaining matter will rise again in him of whose flesh the seed was the product.
 
 Reply to Objection 5: The embryo is not concerned with the resurrection before it is animated by a rational soul, in which state much has been added to the seminal substance from the substance of food, since the child is nourished in the mother's womb. Consequently on the supposition that a man partook of such food, and that some one were begotten of the surplus thereof, that which was in the seminal substance will indeed rise again in the one begotten of that seed; unless it contain something that would have belonged to the seminal substance in those from whose flesh being eaten the seed was produced, for this would rise again in the first but not in the second. The remainder of the eaten flesh, not being changed into seed, will clearly rise again in the first the Divine power supplying deficiencies in both. The first opinion is not troubled by this objection, since it does not hold the seed to be from the surplus food: but there are many other reasons against it as may be seen in the Second Book (Sent. ii, D, 30; [5071]FP, Q[119], A[2]).
-# Whether Whatever Was Materially In A Man's Members Will All Rise Again?
+## Whether Whatever Was Materially In A Man's Members Will All Rise Again?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that whatever was materially in a man's members will all rise again. For the hair, seemingly, is less concerned in the resurrection than the other members. Yet whatever was in the hair will all rise again, if not in the hair, at least in other parts of the body, as Augustine says (De Civ. Dei xxii) quoted in the text (Sent. iv, D, 44). Much more therefore whatever was materially in the other members will all rise again.
 
@@ -132,13 +132,13 @@ Objection 2: Further, just as the parts of the flesh are perfected as to species
 
 Objection 3: Further, the body derives its totality from the same cause as it derives its divisibility into parts. But division into parts belongs to a body in respect of matter the disposition of which is quantity in respect of which it is divided. Therefore totality is ascribed to the body in respect of its parts of matter. If then all the parts of matter rise not again, neither will the whole body rise again: which is inadmissible.
 
-## Answer
+### Answer
 
 On the contrary, The parts of matter are not permanent in the body but ebb and flow, as stated in De Gener. i. If, therefore, all the parts of matter, which remain not but ebb and flow, rise again, either the body of one who rises again will be very dense, or it will be immoderate in quantity.
 
 I answer that, What is in man materially, is not directed to the resurrection, except in so far as it belongs to the truth of human nature; because it is in this respect that it bears a relation to the human souls. Now all that is in man materially belongs indeed to the truth of human nature in so far as it has something of the species, but not all, if we consider the totality of matter; because all the matter that was in a man from the beginning of his life to the end would surpass the quantity due to his species, as the third opinion states, which opinion seems to me more probable than the others. Wherefore the whole of what is in man will rise again, if we speak of the totality of the species which is dependent on quantity, shape, position and order of parts, but the whole will not rise again if we speak of the totality of matter. The second and first opinions, however, do not make this distinction, but distinguish between parts both of which have the species and matter. But these two opinions agree in that they both state what is produced from the seed will all rise again even if we speak of totality of matter: while they differ in this that the first opinion maintains that nothing will rise again of that which was engendered from food, whereas the second holds that something but not all, thereof will rise again, as stated above [5072](A[4]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as all that is in the other parts of the body will rise again, if we speak of the totality of the species, but not if we speak of material totality, so is it with the hair. In the other parts something accrues from nourishment which causes growth, and this is reckoned as another part, if we speak of totality of species, since it occupies another place and position in the body, and is under other parts of dimension: and there accrues something which does not cause growth, but serves to make up for waste by nourishing. and this is not reckoned as another part of the whole considered in relation to the species, since it does not occupy another place or position in the body than that which was occupied by the part that has passed away: although it may be reckoned another part if we consider the totality of matter. The same applies to the hair. Augustine, however, is speaking of the cutting of hair that was a part causing growth of the body; wherefore it must needs rise again, not however as regards the quantity of hair, lest it should be immoderate, but it will rise again in other parts as deemed expedient by Divine providence. Or else he refers to the case when something will be lacking to the other parts, for then it will be possible for this to be supplied from the surplus of hair.
 

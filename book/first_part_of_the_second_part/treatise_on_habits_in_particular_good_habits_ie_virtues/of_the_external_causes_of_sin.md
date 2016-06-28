@@ -5,9 +5,9 @@ We must now consider the external causes of sin, and (1) on the part of God; (2)
 (2) Whether the act of sin is from God?
 (3) Whether God is the cause of spiritual blindness and hardness of heart?
 (4) Whether these things are directed to the salvation of those who are blinded or hardened?
-# Whether God Is A Cause Of Sin?
+## Whether God Is A Cause Of Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God is a cause of sin. For the Apostle says of certain ones (Rom. 1:28): "God delivered them up to a reprobate sense, to do those things which are not right [Douay: 'convenient']," and a gloss comments on this by saying that "God works in men's hearts, by inclining their wills to whatever He wills, whether to good or to evil." Now sin consists in doing what is not right, and in having a will inclined to evil. Therefore God is to man a cause of sin.
 
@@ -17,13 +17,13 @@ Objection 3: Further, the cause of the cause is the cause of the effect. Now God
 
 Objection 4: Further, every evil is opposed to good. But it is not contrary to God's goodness that He should cause the evil of punishment; since of this evil it is written (Is. 45:7) that God creates evil, and (Amos 3:6): "Shall there be evil in the city which God [Vulg.: 'the Lord'] hath not done?" Therefore it is not incompatible with God's goodness that He should cause the evil of fault.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Wis. 11:25): "Thou . . . hatest none of the things which Thou hast made." Now God hates sin, according to Wis. 14:9: "To God the wicked and his wickedness are hateful." Therefore God is not a cause of sin.
 
 I answer that, Man is, in two ways, a cause either of his own or of another's sin. First, directly, namely be inclining his or another's will to sin; secondly, indirectly, namely be not preventing someone from sinning. Hence (Ezech. 3:18) it is said to the watchman: "If thou say not to the wicked: 'Thou shalt surely die' [*Vulg.: "If, when I say to the wicked, 'Thou shalt surely die,' thou declare it not to him."] . . . I will require his blood at thy hand." Now God cannot be directly the cause of sin, either in Himself or in another, since every sin is a departure from the order which is to God as the end: whereas God inclines and turns all things to Himself as to their last end, as Dionysius states (Div. Nom. i): so that it is impossible that He should be either to Himself or to another the cause of departing from the order which is to Himself. Therefore He cannot be directly the cause of sin. In like manner neither can He cause sin indirectly. For it happens that God does not give some the assistance, whereby they may avoid sin, which assistance were He to give, they would not sin. But He does all this according to the order of His wisdom and justice, since He Himself is Wisdom and Justice: so that if someone sin it is not imputable to Him as though He were the cause of that sin; even as a pilot is not said to cause the wrecking of the ship, through not steering the ship, unless he cease to steer while able and bound to steer. It is therefore evident that God is nowise a cause of sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As to the words of the Apostle, the solution is clear from the text. For if God delivered some up to a reprobate sense, it follows that they already had a reprobate sense, so as to do what was not right. Accordingly He is said to deliver them up to a reprobate sense, in so far as He does not hinder them from following that reprobate sense, even as we are said to expose a person to danger if we do not protect him. The saying of Augustine (De Grat. et Lib. Arb. xxi, whence the gloss quoted is taken) to the effect that "God inclines men's wills to good and evil," is to be understood as meaning that He inclines the will directly to good; and to evil, in so far as He does not hinder it, as stated above. And yet even this is due as being deserved through a previous sin.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: When it is said the "creatures of God are turned 'to' an a
 Reply to Objection 3: The effect which proceeds from the middle cause, according as it is subordinate to the first cause, is reduced to that first cause; but if it proceed from the middle cause, according as it goes outside the order of the first cause, it is not reduced to that first cause: thus if a servant do anything contrary to his master's orders, it is not ascribed to the master as though he were the cause thereof. In like manner sin, which the free-will commits against the commandment of God, is not attributed to God as being its cause.
 
 Reply to Objection 4: Punishment is opposed to the good of the person punished, who is thereby deprived of some good or other: but fault is opposed to the good of subordination to God; and so it is directly opposed to the Divine goodness; consequently there is no comparison between fault and punishment.
-# Whether The Act Of Sin Is From God?
+## Whether The Act Of Sin Is From God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the act of sin is not from God. For Augustine says (De Perfect. Justit. ii) that "the act of sin is not a thing." Now whatever is from God is a thing. Therefore the act of sin is not from God.
 
@@ -42,22 +42,22 @@ Objection 2: Further, man is not said to be the cause of sin, except because he 
 
 Objection 3: Further, some actions are evil and sinful in their species, as was shown above (Q[18], AA[2],8). Now whatever is the cause of a thing, causes whatever belongs to it in respect of its species. If therefore God caused the act of sin, He would be the cause of sin, which is false, as was proved above [1801](A[1]). Therefore God is not the cause of the act of sin.
 
-## Answer
+### Answer
 
 On the contrary, The act of sin is a movement of the free-will. Now "the will of God is the cause of every movement," as Augustine declares (De Trin. iii, 4,9). Therefore God's will is the cause of the act of sin.
 
 I answer that, The act of sin is both a being and an act; and in both respects it is from God. Because every being, whatever the mode of its being, must be derived from the First Being, as Dionysius declares (Div. Nom. v). Again every action is caused by something existing in act, since nothing produces an action save in so far as it is in act; and every being in act is reduced to the First Act, viz. God, as to its cause, Who is act by His Essence. Therefore God is the cause of every action, in so far as it is an action. But sin denotes a being and an action with a defect: and this defect is from the created cause, viz. the free-will, as falling away from the order of the First Agent, viz. God. Consequently this defect is not reduced to God as its cause, but to the free-will: even as the defect of limping is reduced to a crooked leg as its cause, but not to the motive power, which nevertheless causes whatever there is of movement in the limping. Accordingly God is the cause of the act of sin: and yet He is not the cause of sin, because He does not cause the act to have a defect.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In this passage Augustine calls by the name of "thing," that which is a thing simply, viz. substance; for in this sense the act of sin is not a thing.
 
 Reply to Objection 2: Not only the act, but also the defect, is reduced to man as its cause, which defect consists in man not being subject to Whom he ought to be, although he does not intend this principally. Wherefore man is the cause of the sin: while God is the cause of the act, in such a way, that nowise is He the cause of the defect accompanying the act, so that He is not the cause of the sin.
 
 Reply to Objection 3: As stated above ([1802]Q[72], A[1]), acts and habits do not take their species from the privation itself, wherein consists the nature of evil, but from some object, to which that privation is united: and so this defect which consists in not being from God, belongs to the species of the act consequently, and not as a specific difference.
-# Whether God Is The Cause Of Spiritual Blindness And Hardness Of Heart?
+## Whether God Is The Cause Of Spiritual Blindness And Hardness Of Heart?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God is not the cause of spiritual blindness and hardness of heart. For Augustine says (Qq. lxxxiii, qu. 3) that God is not the cause of that which makes man worse. Now man is made worse by spiritual blindness and hardness of heart. Therefore God is not the cause of spiritual blindness and hardness of heart.
 
@@ -65,7 +65,7 @@ Objection 2: Further, Fulgentius says (De Dupl. Praedest. i, 19): "God does not 
 
 Objection 3: Further, the same effect is not put down to contrary causes. But the cause of spiritual blindness is said to be the malice of man, according to Wis. 2:21: "For their own malice blinded them," and again, according to 2 Cor. 4:4: "The god of this world hath blinded the minds of unbelievers": which causes seem to be opposed to God. Therefore God is not the cause of spiritual blindness and hardness of heart.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 6:10): "Blind the heart of this people, and make their ears heavy," and Rom. 9:18: "He hath mercy on whom He will, and whom He will He hardeneth."
 
@@ -75,16 +75,16 @@ Now we must consider that God is the universal cause of the enlightening of soul
 
 These differ from one another in respect of the effects of grace, which both perfects the intellect by the gift of wisdom, and softens the affections by the fire of charity. And since two of the senses excel in rendering service to the intellect, viz. sight and hearing, of which the former assists "discovery," and the latter, "teaching," hence it is that spiritual "blindness" corresponds to sight, "heaviness of the ears" to hearing, and "hardness of heart" to the affections.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Blindness and hardheartedness, as regards the withholding of grace, are punishments, and therefore, in this respect, they make man no worse. It is because he is already worsened by sin that he incurs them, even as other punishments.
 
 Reply to Objection 2: This argument considers hardheartedness in so far as it is a sin.
 
 Reply to Objection 3: Malice is the demeritorious cause of blindness, just as sin is the cause of punishment: and in this way too, the devil is said to blind, in so far as he induces man to sin.
-# Whether Blindness And Hardness Of Heart Are Directed To The Salvation Of Those Who Are Blinded And Hardened?
+## Whether Blindness And Hardness Of Heart Are Directed To The Salvation Of Those Who Are Blinded And Hardened?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that blindness and hardness of heart are always directed to the salvation of those who are blinded and hardened. For Augustine says (Enchiridion xi) that "as God is supremely good, He would nowise allow evil to be done, unless He could draw some good from every evil." Much more, therefore, does He direct to some good, the evil of which He Himself is the cause. Now God is the cause of blindness and hardness of heart, as stated above [1803](A[3]). Therefore they are directed to the salvation of those who are blinded and hardened.
 
@@ -94,13 +94,13 @@ Objection 3: Further, "God is not a respecter of persons" (Acts 10:34). Now He d
 
 Objection 4: On the other hand, according to Rom. 3:8, evil should not be done, that good may ensue. Now blindness is an evil. Therefore God does not blind some for the sake of their welfare.
 
-## Answer
+### Answer
 
 
 
 I answer that, Blindness is a kind of preamble to sin. Now sin has a twofold relation---to one thing directly, viz. to the sinner's damnation---to another, by reason of God's mercy or providence, viz. that the sinner may be healed, in so far as God permits some to fall into sin, that by acknowledging their sin, they may be humbled and converted, as Augustine states (De Nat. et Grat. xxii). Therefore blindness, of its very nature, is directed to the damnation of those who are blinded; for which reason it is accounted an effect of reprobation. But, through God's mercy, temporary blindness is directed medicinally to the spiritual welfare of those who are blinded. This mercy, however, is not vouchsafed to all those who are blinded, but only to the predestinated, to whom "all things work together unto good" (Rom. 8:28). Therefore as regards some, blindness is directed to their healing; but as regards others, to their damnation; as Augustine says (De Quaest. Evang. iii).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Every evil that God does, or permits to be done, is directed to some good; yet not always to the good of those in whom the evil is, but sometimes to the good of others, or of the whole universe: thus He directs the sin of tyrants to the good of the martyrs, and the punishment of the lost to the glory of His justice.
 

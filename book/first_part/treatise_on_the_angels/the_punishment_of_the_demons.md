@@ -5,9 +5,9 @@ It now remains as a sequel to deal with the punishment of the demons; under whic
 (2) Of their obstinacy of will;
 (3) Of their grief;
 (4) Of their place of punishment.
-# Whether The Demons' Intellect Is Darkened By Privation Of The Knowledge Of All Truth?
+## Whether The Demons' Intellect Is Darkened By Privation Of The Knowledge Of All Truth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the demons' intellect is darkened by being deprived of the knowledge of all truth. For it they knew any truth at all, they would most of all know themselves; which is to know separated substances. But this is not in keeping with their unhappiness: for this seems to belong to great happiness, insomuch as that some writers have assigned as man's last happiness the knowledge of the separated substances. Therefore the demons are deprived of all knowledge of truth.
 
@@ -19,7 +19,7 @@ Objection 4: Further, the angels at their creation knew the mystery of the kingd
 
 Objection 5: Further, whatever truth anyone knows is known either naturally, as we know first principles; or by deriving it from someone else, as we know by learning; or by long experience, as the things we learn by discovery. Now, the demons cannot know the truth by their own nature, because, as Augustine says (De Civ. Dei xi, 33), the good angels are separated from them as light is from darkness; and every manifestation is made through light, as is said Eph. 5:13. In like manner they cannot learn by revelation, nor by learning from the good angels: because "there is no fellowship of light with darkness [*Vulg.: 'What fellowship hath . . . ?']" (2 Cor. 6:14). Nor can they learn by long experience: because experience comes of the senses. Consequently there is no knowledge of truth in them.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. iv) that, "certain gifts were bestowed upon the demons which, we say, have not been changed at all, but remain entire and most brilliant." Now, the knowledge of truth stands among those natural gifts. Consequently there is some knowledge of truth in them.
 
@@ -27,7 +27,7 @@ I answer that, The knowledge of truth is twofold: one which comes of nature, and
 
 Of these three kinds of knowledge the first was neither taken away nor lessened in the demons. For it follows from the very nature of the angel, who, according to his nature, is an intellect or mind: since on account of the simplicity of his substance, nothing can be withdrawn from his nature, so as to punish him by subtracting from his natural powers, as a man is punished by being deprived of a hand or a foot or of something else. Therefore Dionysius says (Div. Nom. iv) that the natural gifts remain entire in them. Consequently their natural knowledge was not diminished. The second kind of knowledge, however, which comes of grace, and consists in speculation, has not been utterly taken away from them, but lessened; because, of these Divine secrets only so much is revealed to them as is necessary; and that is done either by means of the angels, or "through some temporal workings of Divine power," as Augustine says (De Civ. Dei ix, 21); but not in the same degree as to the holy angels, to whom many more things are revealed, and more fully, in the Word Himself. But of the third knowledge, as likewise of charity, they are utterly deprived.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Happiness consists in self-application to something higher. The separated substances are above us in the order of nature; hence man can have happiness of a kind by knowing the separated substances, although his perfect happiness consists in knowing the first substance, namely, God. But it is quite natural for one separate substance to know another; as it is natural for us to know sensible natures. Hence, as man's happiness does not consist in knowing sensible natures; so neither does the angel's happiness consist in knowing separated substances.
 
@@ -38,9 +38,9 @@ Reply to Objection 3: The creature is darkness in comparison with the excellence
 Reply to Objection 4: All the angels had some knowledge from the very beginning respecting the mystery of God's kingdom, which found its completion in Christ; and most of all from the moment when they were beatified by the vision of the Word, which vision the demons never had. Yet all the angels did not fully and equally apprehend it; hence the demons much less fully understood the mystery of the Incarnation, when Christ was in the world. For, as Augustine observes (De Civ. Dei ix, 21), "It was not manifested to them as it was to the holy angels, who enjoy a participated eternity of the Word; but it was made known by some temporal effects, so as to strike terror into them." For had they fully and certainly known that He was the Son of God and the effect of His passion, they would never have procured the crucifixion of the Lord of glory.
 
 Reply to Objection 5: The demons know a truth in three ways: first of all by the subtlety of their nature; for although they are darkened by privation of the light of grace, yet they are enlightened by the light of their intellectual nature: secondly, by revelation from the holy angels; for while not agreeing with them in conformity of will, they do agree, nevertheless, by their likeness of intellectual nature, according to which they can accept what is manifested by others: thirdly, they know by long experience; not as deriving it from the senses; but when the similitude of their innate intelligible species is completed in individual things, they know some things as present, which they previously did not know would come to pass, as we said when dealing with the knowledge of the angels ([562]Q[57], A[3], ad 3).
-# Whether The Will Of The Demons Is Obstinate In Evil?
+## Whether The Will Of The Demons Is Obstinate In Evil?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the will of the demons is not obstinate in evil. For liberty of will belongs to the nature of an intellectual being, which nature remains in the demons, as we said above [563](A[1]). But liberty of will is directly and firstly ordained to good rather than to evil. Therefore the demons' will is not so obstinate in evil as not to be able to return to what is good.
 
@@ -52,7 +52,7 @@ Objection 4: Further, Gregory says (Moral. iv) that man can be reinstated by ano
 
 Objection 5: Further, whoever is obstinate in malice, never performs any good work. But the demon performs some good works: for he confesses the truth, saying to Christ: "I know Who Thou art, the holy one of God" (Mk. 1:24). "The demons" also "believe and tremble" (Jam. 2:19). And Dionysius observes (Div. Nom. iv), that "they desire what is good and best, which is, to be, to live, to understand." Therefore they are not obstinate in malice.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Ps. 73:23): "The pride of them that hate Thee, ascendeth continually"; and this is understood of the demons. Therefore they remain ever obstinate in their malice.
 
@@ -62,7 +62,7 @@ We must seek for the cause of this obstinacy, not in the gravity of the sin, but
 
 To find the cause, then, of this obstinacy, it must be borne in mind that the appetitive power is in all things proportioned to the apprehensive, whereby it is moved, as the movable by its mover. For the sensitive appetite seeks a particular good; while the will seeks the universal good, as was said above ([565]Q[59], A[1]); as also the sense apprehends particular objects, while the intellect considers universals. Now the angel's apprehension differs from man's in this respect, that the angel by his intellect apprehends immovably, as we apprehend immovably first principles which are the object of the habit of "intelligence"; whereas man by his reason apprehends movably, passing from one consideration to another; and having the way open by which he may proceed to either of two opposites. Consequently man's will adheres to a thing movably, and with the power of forsaking it and of clinging to the opposite; whereas the angel's will adheres fixedly and immovably. Therefore, if his will be considered before its adhesion, it can freely adhere either to this or to its opposite (namely, in such things as he does not will naturally); but after he has once adhered, he clings immovably. So it is customary to say that man's free-will is flexible to the opposite both before and after choice; but the angel's free-will is flexible either opposite before the choice, but not after. Therefore the good angels who adhered to justice, were confirmed therein; whereas the wicked ones, sinning, are obstinate in sin. Later on we shall treat of the obstinacy of men who are damned (SP, [566]Q[98], AA[1], 2).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The good and wicked angels have free-will, but according to the manner and condition of their state, as has been said.
 
@@ -73,9 +73,9 @@ Reply to Objection 3: The devil's first sin still remains in him according to de
 Reply to Objection 4: The fact that man sinned from another's suggestion, is not the whole cause of man's sin being pardonable. Consequently the argument does not hold good.
 
 Reply to Objection 5: A demon's act is twofold. One comes of deliberate will; and this is properly called his own act. Such an act on the demon's part is always wicked; because, although at times he does something good, yet he does not do it well; as when he tells the truth in order to deceive; and when he believes and confesses, yet not willingly, but compelled by the evidence of things. Another kind of act is natural to the demon; this can be good and bears witness to the goodness of nature. Yet he abuses even such good acts to evil purpose.
-# Whether There Is Sorrow In The Demons?
+## Whether There Is Sorrow In The Demons?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no sorrow in the demons. For since sorrow and joy are opposites, they cannot be together in the same subject. But there is joy in the demons: for Augustine writing against the Maniches (De Gen. Contra Manich. ii, 17) says: "The devil has power over them who despise God's commandments, and he rejoices over this sinister power." Therefore there is no sorrow in the demons.
 
@@ -83,22 +83,22 @@ Objection 2: Further, sorrow is the cause of fear, for those things cause fear w
 
 Objection 3: Further, it is a good thing to be sorry for evil. But the demons can do no good action. Therefore they cannot be sorry, at least for the evil of sin; which applies to the worm of conscience.
 
-## Answer
+### Answer
 
 On the contrary, The demon's sin is greater than man's sin. But man is punished with sorrow on account of the pleasure taken in sin, according to Apoc. 18:7, "As much as she hath glorified herself, and lived in delicacies, so much torment and sorrow give ye to her." Consequently much more is the devil punished with the grief of sorrow, because he especially glorified himself.
 
 I answer that, Fear, sorrow, joy, and the like, so far as they are passions, cannot exist in the demons; for thus they are proper to the sensitive appetite, which is a power in a corporeal organ. According, however, as they denote simple acts of the will, they can be in the demons. And it must be said that there is sorrow in them; because sorrow, as denoting a simple act of the will, is nothing else than the resistance of the will to what is, or to what is not. Now it is evident that the demons would wish many things not to be, which are, and others to be, which are not: for, out of envy, they would wish others to be damned, who are saved. Consequently, sorrow must be said to exist in them: and especially because it is of the very notion of punishment for it to be repugnant to the will. Moreover, they are deprived of happiness, which they desire naturally; and their wicked will is curbed in many respects.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Joy and sorrow about the same thing are opposites, but not about different things. Hence there is nothing to hinder a man from being sorry for one thing, and joyful for another; especially so far as sorrow and joy imply simple acts of the will; because, not merely in different things, but even in one and the same thing, there can be something that we will, and something that we will not.
 
 Reply to Objection 2: As there is sorrow in the demons over present evil, so also there is fear of future evil. Now when it is said, "He was made to fear no one," this is to be understood of the fear of God which restrains from sin. For it is written elsewhere that "the devils believe and tremble" (James 2:19).
 
 Reply to Objection 3: To be sorry for the evil of sin on account of the sin bears witness to the goodness of the will, to which the evil of sin is opposed. But to be sorry for the evil of punishment, for the evil of sin on account of the punishment, bears witness to the goodness of nature, to which the evil of punishment is opposed. Hence Augustine says (De Civ. Dei xix, 13), that "sorrow for good lost by punishment, is the witness to a good nature." Consequently, since the demon has a perverse and obstinate will, he is not sorry for the evil of sin.
-# Whether Our Atmosphere Is The Demons' Place Of Punishment?
+## Whether Our Atmosphere Is The Demons' Place Of Punishment?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this atmosphere is not the demons' place of punishment. For a demon is a spiritual nature. But a spiritual nature is not affected by place. Therefore there is no place of punishment for demons.
 
@@ -106,7 +106,7 @@ Objection 2: Further, man's sin is not graver than the demons'. But man's place 
 
 Objection 3: Further, the demons are punished with the pain of fire. But there is no fire in the darksome atmosphere. Therefore the darksome atmosphere is not the place of punishment for the demons.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Gen. ad lit. iii, 10), that "the darksome atmosphere is as a prison to the demons until the judgment day."
 
@@ -114,7 +114,7 @@ I answer that, The angels in their own nature stand midway between God and men. 
 
 Now the procuring of men's salvation is prolonged even to the judgment day: consequently, the ministry of the angels and wrestling with demons endure until then. Hence until then the good angels are sent to us here; and the demons are in this dark atmosphere for our trial: although some of them are even now in hell, to torment those whom they have led astray; just as some of the good angels are with the holy souls in heaven. But after the judgment day all the wicked, both men and angels, will be in hell, and the good in heaven.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A place is not penal to angel or soul as if affecting the nature by changing it, but as affecting the will by saddening it: because the angel or the soul apprehends that it is in a place not agreeable to its will.
 

@@ -3,9 +3,9 @@
 We must now consider the precepts pertaining to the aforesaid, and under this head there are two points of inquiry:
 (1) The precepts concerning faith;
 (2) The precepts concerning the gifts of knowledge and understanding.
-# Whether In The Old Law There Should Have Been Given Precepts Of Faith?
+## Whether In The Old Law There Should Have Been Given Precepts Of Faith?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that, in the Old Law, there should have been given precepts of faith. Because a precept is about something due and necessary. Now it is most necessary for man that he should believe, according to Heb. 11:6, "Without faith it is impossible to please God." Therefore there was very great need for precepts of faith to be given.
 
@@ -17,7 +17,7 @@ Objection 4: Further, confession is an act of faith, as stated above ([2425]Q[3]
 
 Objection 5: Further, all the books of the Old Testament are contained in the Old Law; wherefore Our Lord said (Jn. 15:25) that it was written in the Law: "They have hated Me without cause," although this is found written in Ps. 34 and 68. Now it is written (Ecclus. 2:8): "Ye that fear the Lord, believe Him." Therefore the Old Law should have contained precepts of faith.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle (Rom. 3:27) calls the Old Law the "law of works" which he contrasts with the "law of faith." Therefore the Old Law ought not to have contained precepts of faith.
 
@@ -25,7 +25,7 @@ I answer that, A master does not impose laws on others than his subjects; wheref
 
 Since, however, faith contains many things subordinate to the faith whereby we believe that God is, which is the first and chief of all articles of faith, as stated above ([2426]Q[1], AA[1],7), it follows that, if we presuppose faith in God, whereby man's mind is subjected to Him, it is possible for precepts to be given about other articles of faith. Thus Augustine expounding the words: "This is My commandment" (Jn. 15:12) says (Tract. lxxxiii in Joan.) that we have received many precepts of faith. In the Old Law, however, the secret things of faith were not to be set before the people, wherefore, presupposing their faith in one God, no other precepts of faith were given in the Old Law.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Faith is necessary as being the principle of spiritual life, wherefore it is presupposed before the receiving of the Law.
 
@@ -36,9 +36,9 @@ Reply to Objection 3: The prohibitive precepts regard sins, which corrupt virtue
 Reply to Objection 4: Confession of faith and the teaching thereof also presuppose man's submission to God by faith: so that the Old Law could contain precepts relating to the confession and teaching of faith, rather than to faith itself.
 
 Reply to Objection 5: In this passage again that faith is presupposed whereby we believe that God is; hence it begins, "Ye that fear the Lord," which is not possible without faith. The words which follow---"believe Him"---must be referred to certain special articles of faith, chiefly to those things which God promises to them that obey Him, wherefore the passage concludes---"and your reward shall not be made void."
-# Whether The Precepts Referring To Knowledge And Understanding Were Fittingly Set Down In The Old Law?
+## Whether The Precepts Referring To Knowledge And Understanding Were Fittingly Set Down In The Old Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the precepts referring to knowledge and understanding were unfittingly set down in the Old Law. For knowledge and understanding pertain to cognition. Now cognition precedes and directs action. Therefore the precepts referring to knowledge and understanding should precede the precepts of the Law referring to action. Since, then, the first precepts of the Law are those of the decalogue, it seems that precepts of knowledge and understanding should have been given a place among the precepts of the decalogue.
 
@@ -48,7 +48,7 @@ Objection 3: Further, knowledge and understanding seem more necessary to a pries
 
 Objection 4: Further, it is not possible while asleep to meditate on things pertaining to knowledge and understanding: moreover it is hindered by extraneous occupations. Therefore it is unfittingly commanded (Dt. 6:7): "Thou shalt meditate upon them sitting in thy house, and walking on thy journey, sleeping and rising." Therefore the precepts relating to knowledge and understanding are unfittingly set down in the Law.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 4:6): "That, hearing all these precepts, they may say, Behold a wise and understanding people."
 
@@ -60,7 +60,7 @@ Their preservation is effected by the memory, and, as regards this, the text con
 
 We read of these things also being commanded more notably in the New Testament, both in the teaching of the Gospel and in that of the apostles.
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Dt. 4:6, "this is your wisdom and understanding in the sight of the nations." By this we are given to understand that the wisdom and understanding of those who believe in God consist in the precepts of the Law. Wherefore the precepts of the Law had to be given first, and afterwards men had to be led to know and understand them, and so it was not fitting that the aforesaid precepts should be placed among the precepts of the decalogue which take the first place.
 

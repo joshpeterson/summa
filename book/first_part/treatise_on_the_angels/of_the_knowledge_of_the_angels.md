@@ -6,9 +6,9 @@ After considering what belongs to the angel's substance, we now proceed to his k
 (3) Is his substance his power of intelligence?
 (4) Is there in the angels an active and a passive intellect?
 (5) Is there in them any other power of knowledge besides the intellect?
-# Whether An Angel's Act Of Understanding Is His Substance?
+## Whether An Angel's Act Of Understanding Is His Substance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angel's act of understanding is his substance. For the angel is both higher and simpler than the active intellect of a soul. But the substance of the active intellect is its own action; as is evident from Aristotle (De Anima iii) and from his Commentator [*Averroes, A.D. 1126-1198]. Therefore much more is the angel's substance his action---that is, his act of understanding.
 
@@ -16,7 +16,7 @@ Objection 2: Further, the Philosopher says (Metaph. xii, text 39) that "the acti
 
 Objection 3: Further, if the extremes be one, then the middle does not differ from them; because extreme is farther from extreme than the middle is. But in an angel the intellect and the object understood are the same, at least in so far as he understands his own essence. Therefore the act of understanding, which is between the intellect and the thing understood, is one with the substance of the angel who understands.
 
-## Answer
+### Answer
 
 On the contrary, The action of anything differs more from its substance than does its existence. But no creature's existence is its substance, for this belongs to God only, as is evident from what was said above ([487]Q[3], A[4]). Therefore neither the action of an angel, nor of any other creature, is its substance.
 
@@ -26,35 +26,35 @@ Besides, if an angel's act of understanding were his substance, it would be nece
 
 Also, if the angel were his own act of understanding, there could then be no degrees of understanding more or less perfectly; for this comes about through the diverse participation of the act of understanding.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When the active intellect is said to be its own action, such predication is not essential, but concomitant, because, since its very nature consists in act, instantly, so far as lies in itself, action accompanies it: which cannot be said of the passive intellect, for this has no actions until after it has been reduced to act.
 
 Reply to Objection 2: The relation between "life" and "to live" is not the same as that between "essence" and "to be"; but rather as that between "a race" and "to run," one of which signifies the act in the abstract, and the other in the concrete. Hence it does not follow, if "to live" is "to be," that "life" is "essence." Although life is sometimes put for the essence, as Augustine says (De Trin. x), "Memory and understanding and will are one essence, one life": yet it is not taken in this sense by the Philosopher, when he says that "the act of the intellect is life."
 
 Reply to Objection 3: The action which is transient, passing to some extrinsic object, is really a medium between the agent and the subject receiving the action. The action which remains within the agent, is not really a medium between the agent and the object, but only according to the manner of expression; for it really follows the union of the object with the agent. For the act of understanding is brought about by the union of the object understood with the one who understands it, as an effect which differs from both.
-# Whether In The Angel To Understand Is To Exist?
+## Whether In The Angel To Understand Is To Exist?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the angel to understand is to exist. For in living things to live is to be, as the Philosopher says (De Anima ii, text. 37). But to "understand is in a sense to live" (De Anima ii, text. 37). Therefore in the angel to understand is to exist.
 
 Objection 2: Further, cause bears the same relation to cause, as effect to effect. But the form whereby the angel exists is the same as the form by which he understands at least himself. Therefore in the angel to understand is to exist.
 
-## Answer
+### Answer
 
 On the contrary, The angel's act of understanding is his movement, as is clear from Dionysius (Div. Nom. iv). But to exist is not movement. Therefore in the angel to be is not to understand.
 
 I answer that, The action of the angel, as also the action of any creature, is not his existence. For as it is said (Metaph. ix, text. 16), there is a twofold class of action; one which passes out to something beyond, and causes passion in it, as burning and cutting; and another which does not pass outwards, but which remains within the agent, as to feel, to understand, to will; by such actions nothing outside is changed, but the whole action takes place within the agent. It is quite clear regarding the first kind of action that it cannot be the agent's very existence: because the agent's existence is signified as within him, while such an action denotes something as issuing from the agent into the thing done. But the second action of its own nature has infinity, either simple or relative. As an example of simple infinity, we have the act "to understand," of which the object is "the true"; and the act "to will," of which the object is "the good"; each of which is convertible with being; and so, to understand and to will, of themselves, bear relation to all things, and each receives its species from its object. But the act of sensation is relatively infinite, for it bears relation to all sensible things; as sight does to all things visible. Now the being of every creature is restricted to one in genus and species; God's being alone is simply infinite, comprehending all things in itself, as Dionysius says (Div. Nom. v). Hence the Divine nature alone is its own act of understanding and its own act of will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Life is sometimes taken for the existence of the living subject: sometimes also for a vital operation, that is, for one whereby something is shown to be living. In this way the Philosopher says that to understand is, in a sense, to live: for there he distinguishes the various grades of living things according to the various functions of life.
 
 Reply to Objection 2: The essence of an angel is the reason of his entire existence, but not the reason of his whole act of understanding, since he cannot understand everything by his essence. Consequently in its own specific nature as such an essence, it is compared to the existence of the angel, whereas to his act of understanding it is compared as included in the idea of a more universal object, namely, truth and being. Thus it is evident, that, although the form is the same, yet it is not the principle of existence and of understanding according to the same formality. On this account it does not follow that in the angel "to be" is the same as 'to understand.'
-# Whether An Angel's Power Of Intelligence Is His Essence?
+## Whether An Angel's Power Of Intelligence Is His Essence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in an angel the power or faculty of understanding is not different from his essence. For, "mind" and "intellect" express the power of understanding. But in many passages of his writings, Dionysius styles angels "intellects" and "minds." Therefore the angel is his own power of intelligence.
 
@@ -62,28 +62,28 @@ Objection 2: Further, if the angel's power of intelligence be anything besides h
 
 Objection 3: Further, Augustine (Confess. xii) says, that God made the angelic nature "nigh unto Himself," while He made primary matter "nigh unto nothing"; from this it would seem that the angel is of a simpler nature than primary matter, as being closer to God. But primary matter is its own power. Therefore much more is an angel his own power of intelligence.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Coel. Hier. xi) that "the angels are divided into substance, power, and operation." Therefore substance, power, and operation, are all distinct in them.
 
 I answer that, Neither in an angel nor in any creature, is the power or operative faculty the same as its essence: which is made evident thus. Since every power is ordained to an act, then according to the diversity of acts must be the diversity of powers; and on this account it is said that each proper act responds to its proper power. But in every creature the essence differs from the existence, and is compared to it as potentiality is to act, as is evident from what has been already said ([489]Q[44], A[1]). Now the act to which the operative power is compared is operation. But in the angel to understand is not the same as to exist, nor is any operation in him, nor in any other created thing, the same as his existence. Hence the angel's essence is not his power of intelligence: nor is the essence of any creature its power of operation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: An angel is called "intellect" and "mind," because all his knowledge is intellectual: whereas the knowledge of a soul is partly intellectual and partly sensitive.
 
 Reply to Objection 2: A simple form which is pure act cannot be the subject of accident, because subject is compared to accident as potentiality is to act. God alone is such a form: and of such is Boethius speaking there. But a simple form which is not its own existence, but is compared to it as potentiality is to act, can be the subject of accident; and especially of such accident as follows the species: for such accident belongs to the form---whereas an accident which belongs to the individual, and which does not belong to the whole species, results from the matter, which is the principle of individuation. And such a simple form is an angel.
 
 Reply to Objection 3: The power of matter is a potentiality in regard to substantial being itself, whereas the power of operation regards accidental being. Hence there is no comparison.
-# Whether There Is An Active And A Passive Intellect In An Angel?
+## Whether There Is An Active And A Passive Intellect In An Angel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is both an active and a passive intellect in an angel. The Philosopher says (De Anima iii, text. 17) that, "in the soul, just as in every nature, there is something whereby it can become all things, and there is something whereby it can make all things." But an angel is a kind of nature. Therefore there is an active and a passive intellect in an angel.
 
 Objection 2: Further, the proper function of the passive intellect is to receive; whereas to enlighten is the proper function of the active intellect, as is made clear in De Anima iii, text. 2,3,18. But an angel receives enlightenment from a higher angel, and enlightens a lower one. Therefore there is in him an active and a passive intellect.
 
-## Answer
+### Answer
 
 On the contrary, The distinction of active and passive intellect in us is in relation to the phantasms, which are compared to the passive intellect as colors to the sight; but to the active intellect as colors to the light, as is clear from De Anima iii, text. 18. But this is not so in the angel. Therefore there is no active and passive intellect in the angel.
 
@@ -91,14 +91,14 @@ I answer that, The necessity for admitting a passive intellect in us is derived 
 
 But each of these necessities is absent from the angels. They are neither sometimes understanding only in potentiality, with regard to such things as they naturally apprehend; nor, again, are their intelligible in potentiality, but they are actually such; for they first and principally understand immaterial things, as will appear later ([490]Q[84], A[7]; [491]Q[85], A[1]). Therefore there cannot be an active and a passive intellect in them, except equivocally.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the words themselves show, the Philosopher understands those two things to be in every nature in which there chances to be generation or making. Knowledge, however, is not generated in the angels, but is present naturally. Hence there is not need for admitting an active and a passive intellect in them.
 
 Reply to Objection 2: It is the function of the active intellect to enlighten, not another intellect, but things which are intelligible in potentiality, in so far as by abstraction it makes them to be actually intelligible. It belongs to the passive intellect to be in potentiality with regard to things which are naturally capable of being known, and sometimes to apprehend them actually. Hence for one angel to enlighten another does not belong to the notion of an active intellect: neither does it belong to the passive intellect for the angel to be enlightened with regard to supernatural mysteries, to the knowledge of which he is sometimes in potentiality. But if anyone wishes to call these by the names of active and passive intellect, he will then be speaking equivocally; and it is not about names that we need trouble.
-# Whether There Is Only Intellectual Knowledge In The Angels?
+## Whether There Is Only Intellectual Knowledge In The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the knowledge of the angels is not exclusively intellectual. For Augustine says (De Civ. Dei viii) that in the angels there is "life which understands and feels." Therefore there is a sensitive faculty in them as well.
 
@@ -106,7 +106,7 @@ Objection 2: Further, Isidore says (De Summo Bono) that the angels have learnt m
 
 Objection 3: Further, Dionysius says (Div. Nom. iv) that there is a sort of "perverted phantasy" in the demons. But phantasy belongs to the imaginative faculty. Therefore the power of the imagination is in the demons; and for the same reason it is in the angels, since they are of the same nature.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Hom. 29 in Ev.), that "man senses in common with the brutes, and understands with the angels."
 

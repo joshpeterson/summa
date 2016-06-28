@@ -7,9 +7,9 @@ We have now to consider the manifestation of the Resurrection: concerning which 
 (4) Whether it was fitting for Him to appeal to the disciples "in another shape"?
 (5) Whether He ought to have demonstrated the Resurrection by proofs?
 (6) Of the cogency of those proofs.
-# Whether Christ's Resurrection Ought To Have Been Manifested To All?
+## Whether Christ's Resurrection Ought To Have Been Manifested To All?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's Resurrection ought to have been manifested to all. For just as a public penalty is due for public sin, according to 1 Tim. 5:20: "Them that sin reprove before all," so is a public reward due for public merit. But, as Augustine says (Tract. civ in Joan.), "the glory of the Resurrection is the reward of the humility of the Passion." Therefore, since Christ's Passion was manifested to all while He suffered in public, it seems that the glory of the Resurrection ought to have been manifested to all.
 
@@ -17,22 +17,22 @@ Objection 2: Further, as Christ's Passion is ordained for our salvation, so also
 
 Objection 3: Further, they to whom it was manifested were witnesses of the Resurrection: hence it is said (Acts 3:15): "Whom God hath raised from the dead, of which we are witnesses." Now they bore witness by preaching in public: and this is unbecoming in women, according to 1 Cor. 14:34: "Let women keep silence in the churches": and 1 Tim. 2:12: "I suffer not a woman to teach." Therefore, it does not seem becoming for Christ's Resurrection to be manifested first of all to the women and afterwards to mankind in general.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Acts 10:40): "Him God raised up the third day, and gave Him to be made manifest, not to all the people, but to witnesses preordained by God."
 
 I answer that, Some things come to our knowledge by nature's common law, others by special favor of grace, as things divinely revealed. Now, as Dionysius says (Coel. Hier. iv), the divinely established law of such things is that they be revealed immediately by God to higher persons, through whom they are imparted to others, as is evident in the ordering of the heavenly spirits. But such things as concern future glory are beyond the common ken of mankind, according to Is. 64:4: "The eye hath not seen, O God, besides Thee, what things Thou hast prepared for them that wait for Thee." Consequently, such things are not known by man except through Divine revelation, as the Apostle says (1 Cor. 2:10): "God hath revealed them to us by His spirit." Since, then, Christ rose by a glorious Resurrection, consequently His Resurrection was not manifested to everyone, but to some, by whose testimony it could be brought to the knowledge of others.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Christ's Passion was consummated in a body that still had a passible nature, which is known to all by general laws: consequently His Passion could be directly manifested to all. But the Resurrection was accomplished "through the glory of the Father," as the Apostle says (Rom. 6:4). Therefore it was manifested directly to some, but not to all.
 
 Reply to Objection 2: Just as Christ's Resurrection is for the common salvation of all, so it came to the knowledge of all; yet not so that it was directly manifested to all, but only to some, through whose testimony it could be brought to the knowledge of all.
 
 Reply to Objection 3: A woman is not to be allowed to teach publicly in church; but she may be permitted to give familiar instruction to some privately. And therefore as Ambrose says on Lk. 24:22, "a woman is sent to them who are of her household," but not to the people to bear witness to the Resurrection. But Christ appeared to the woman first, for this reason, that as a woman was the first to bring the source of death to man, so she might be the first to announce the dawn of Christ's glorious Resurrection. Hence Cyril says on Jn. 20:17: "Woman who formerly was the minister of death, is the first to see and proclaim the adorable mystery of the Resurrection: thus womankind has procured absolution from ignominy, and removal of the curse." Hereby, moreover, it is shown, so far as the state of glory is concerned, that the female sex shall suffer no hurt; but if women burn with greater charity, they shall also attain greater glory from the Divine vision: because the women whose love for our Lord was more persistent---so much so that "when even the disciples withdrew" from the sepulchre "they did not depart" [*Gregory, Hom. xxv in Evang.]---were the first to see Him rising in glory.
-# Whether It Was Fitting That The Disciples Should See Him Rise Again?
+## Whether It Was Fitting That The Disciples Should See Him Rise Again?
 
-## Objections
+### Objections
 
 Objection 1: It would seem fitting that the disciples should have seen Him rise again, because it was their office to bear witness to the Resurrection, according to Acts 4:33: "With great power did the apostles give testimony to the Resurrection of Jesus Christ our Lord." But the surest witness of all is an eye-witness. Therefore it would have been fitting for them to see the very Resurrection of Christ.
 
@@ -40,22 +40,22 @@ Objection 2: Further, in order to have the certainty of faith the disciples saw 
 
 Objection 3: Further, the raising of Lazarus was a sign of Christ's coming Resurrection. But the Lord raised up Lazarus in sight of the disciples. Consequently, it seems that Christ ought to have risen in sight of the disciples.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mk. 16:9): The Lord "rising early the first day of the week, appeared first to Mary Magdalen." Now Mary Magdalen did not see Him rise; but, while searching for Him in the sepulchre, she heard from the angel: "He is risen, He is not here." Therefore no one saw Him rise again.
 
 I answer that, As the Apostle says (Rom. 13:1): "Those things that are of God, are well ordered [Vulg.: 'Those that are, are ordained of God]." Now the divinely established order is this, that things above men's ken are revealed to them by angels, as Dionysius says (Coel. Hier. iv). But Christ on rising did not return to the familiar manner of life, but to a kind of immortal and God-like condition, according to Rom. 6:10: "For in that He liveth, He liveth unto God." And therefore it was fitting for Christ's Resurrection not to be witnessed by men directly, but to be proclaimed to them by angels. Accordingly, Hilary (Comment. Matth. cap. ult.) says: "An angel is therefore the first herald of the Resurrection, that it might be declared out of obedience to the Father's will."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The apostles were able to testify to the Resurrection even by sight, because from the testimony of their own eyes they saw Christ alive, whom they had known to be dead. But just as man comes from the hearing of faith to the beatific vision, so did men come to the sight of the risen Christ through the message already received from angels.
 
 Reply to Objection 2: Christ's Ascension as to its term wherefrom, was not above men's common knowledge, but only as to its term whereunto. Consequently, the disciples were able to behold Christ's Ascension as to the term wherefrom, that is, according as He was uplifted from the earth; but they did not behold Him as to the term whereunto, because they did not see how He was received into heaven. But Christ's Resurrection transcended common knowledge as to the term wherefrom, according as His soul returned from hell and His body from the closed sepulchre; and likewise as to the term whereunto, according as He attained to the life of glory. Consequently, the Resurrection ought not to be accomplished so as to be seen by man.
 
 Reply to Objection 3: Lazarus was raised so that he returned to the same life as before, which life is not beyond man's common ken. Consequently, there is no parity.
-# Whether Christ Ought To Have Lived Constantly With His Disciples After The Resurrection?
+## Whether Christ Ought To Have Lived Constantly With His Disciples After The Resurrection?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ ought to have lived constantly with His Disciples, because He appeared to them after His Resurrection in order to confirm their faith in the Resurrection, and to bring them comfort in their disturbed state, according to Jn. 20:20: "The disciples were glad when they saw the Lord." But they would have been more assured and consoled had He constantly shown them His presence. Therefore it seems that He ought to have lived constantly with them.
 
@@ -65,13 +65,13 @@ Objection 3: Further, as Augustine says (De Consens. Evang. iii), we read how Ch
 
 Objection 4: Further, our Lord had said to them before the Passion (Mat. 26:32): "But after I shall be risen again, I will go before you into Galilee"; moreover an angel and our Lord Himself repeated the same to the women after the Resurrection: nevertheless He was seen by them in Jerusalem on the very day of the Resurrection, as stated above (OBJ[3]); also on the eighth day, as we read in Jn. 20:26. It seems, therefore, that He did not live with the disciples in a fitting way after the Resurrection.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 20:26) that "after eight days" Christ appeared to the disciples. Therefore He did not live constantly with them.
 
 I answer that, Concerning the Resurrection two things had to be manifested to the disciples, namely, the truth of the Resurrection, and the glory of Him who rose. Now in order to manifest the truth of the Resurrection, it sufficed for Him to appear several times before them, to speak familiarly to them, to eat and drink, and let them touch Him. But in order to manifest the glory of the risen Christ, He was not desirous of living with them constantly as He had done before, lest it might seem that He rose unto the same life as before. Hence (Lk. 24:44) He said to them: "These are the words which I spoke to you, while I was yet with you." For He was there with them by His bodily presence, but hitherto He had been with them not merely by His bodily presence, but also in mortal semblance. Hence Bede in explaining those words of Luke, "while I was with you," says: "that is, while I was still in mortal flesh, in which you are yet: for He had then risen in the same flesh, but was not in the same state of mortality as they."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Christ's frequent appearing served to assure the disciples of the truth of the Resurrection; but continual intercourse might have led them into the error of believing that He had risen to the same life as was His before. Yet by His constant presence He promised them comfort in another life, according to Jn. 16:22: "I will see you again, and your heart shall rejoice; and your joy no man shall take from you."
 
@@ -80,9 +80,9 @@ Reply to Objection 2: That Christ did not stay continually with the disciples wa
 Reply to Objection 3: He appeared oftener on the first day, because the disciples were to be admonished by many proofs to accept the faith in His Resurrection from the very out set: but after they had once accepted it, they had no further need of being instructed by so many apparitions. Accordingly one reads in the Gospel that after the first day He appeared again only five times. For, as Augustine says (De Consens. Evang. iii), after the first five apparitions "He came again a sixth time when Thomas saw Him; a seventh time was by the sea of Tiberias at the capture of the fishes; the eighth was on the mountain of Galilee, according to Matthew; the ninth occasion is expressed by Mark, 'at length when they were at table,' because no more were they going to eat with Him upon earth; the tenth was on the very day, when no longer upon the earth, but uplifted into the cloud, He was ascending into heaven. But, as John admits, not all things were written down. And He visited them frequently before He went up to heaven," in order to comfort them. Hence it is written (1 Cor. 15:6,7) that "He was seen by more than five hundred brethren at once . . . after that He was seen by James"; of which apparitions no mention is made in the Gospels.
 
 Reply to Objection 4: Chrysostom in explaining Mat. 26:32---"after I shall be risen again, I will go before you into Galilee," says (Hom. lxxxiii in Matth.), "He goes not to some far off region in order to appear to them, but among His own people, and in those very places" in which for the most part they had lived with Him; "in order that they might thereby believe that He who was crucified was the same as He who rose again." And on this account "He said that He would go into Galilee, that they might be delivered from fear of the Jews."
-# Whether Christ Should Have Appeared To The Disciples "In Another Shape"?
+## Whether Christ Should Have Appeared To The Disciples "In Another Shape"?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ ought not to have appeared to the disciples "in another shape." For a thing cannot appear in very truth other than it is. But there was only one shape in Christ. Therefore if He appeared under another, it was not a true but a false apparition. Now this is not at all fitting, because as Augustine says (QQ. lxxxiii, qu. 14): "If He deceives He is not the Truth; yet Christ is the Truth." Consequently, it seems that Christ ought not to have appeared to the disciples "in another shape."
 
@@ -90,22 +90,22 @@ Objection 2: Further, nothing can appear in another shape than the one it has, e
 
 Objection 3: Further, just as our faith receives its surety from Scripture, so were the disciples assured of their faith in the Resurrection by Christ appearing to them. But, as Augustine says in an Epistle to Jerome (xxviii), if but one untruth be admitted into the Sacred Scripture, the whole authority of the Scriptures is weakened. Consequently, if Christ appeared to the disciples, in but one apparition, otherwise than He was, then whatever they saw in Christ after the Resurrection will be of less import, which is not fitting. Therefore He ought not to have appeared in another shape.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mk. 16:12): "After that He appeared in another shape to two of them walking, as they were going into the country."
 
 I answer that, As stated above ([4307]AA[1],2), Christ's Resurrection was to be manifested to men in the same way as Divine things are revealed. But Divine things are revealed to men in various ways, according as they are variously disposed. For, those who have minds well disposed, perceive Divine things rightly, whereas those not so disposed perceive them with a certain confusion of doubt or error: "for, the sensual men perceiveth not those things that are of the Spirit of God," as is said in 1 Cor. 2:14. Consequently, after His Resurrection Christ appeared in His own shape to some who were well disposed to belief, while He appeared in another shape to them who seemed to be already growing tepid in their faith: hence these said (Lk. 24:21): "We hoped that it was He that should have redeemed Israel." Hence Gregory says (Hom. xxiii in Evang.), that "He showed Himself to them in body such as He was in their minds: for, because He was as yet a stranger to faith in their hearts, He made pretense of going on farther," that is, as if He were a stranger.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says (De Qq. Evang. ii), "not everything of which we make pretense is a falsehood; but when what we pretend has no meaning then is it a falsehood. But when our pretense has some signification, it is not a lie, but a figure of the truth; otherwise everything said figuratively by wise and holy men, or even by our Lord Himself, would be set down as a falsehood, because it is not customary to take such expressions in the literal sense. And deeds, like words, are feigned without falsehood, in order to denote something else." And so it happened here. as has been said.
 
 Reply to Objection 2: As Augustine says (De Consens. Evang. iii): "Our Lord could change His flesh so that His shape really was other than they were accustomed to behold; for, before His Passion He was transfigured on the mountain, so that His face shone like the sun. But it did not happen thus now." For not without reason do we "understand this hindrance in their eyes to have been of Satan's doing, lest Jesus might be recognized." Hence Luke says (24:16) that "their eyes were held, that they should not know Him."
 
 Reply to Objection 3: Such an argument would prove, if they had not been brought back from the sight of a strange shape to that of Christ's true countenance. For, as Augustine says (De Consens. Evang. iii): "The permission was granted by Christ," namely, that their eyes should be held fast in the aforesaid way, "until the Sacrament of the bread; that when they had shared in the unity of His body, the enemy's hindrance may be understood to have been taken away, so that Christ might be recognized." Hence he goes on to say that "'their eyes were opened, and they knew Him'; not that they were hitherto walking with their eyes shut; but there was something in them whereby they were not permitted to recognize what they saw. This could be caused by the darkness or by some kind of humor."
-# Whether Christ Should Have Demonstrated The Truth Of His Resurrection By Proofs?
+## Whether Christ Should Have Demonstrated The Truth Of His Resurrection By Proofs?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ should not have demonstrated the truth of His Resurrection by proofs. For Ambrose says (De Fide, ad Gratian. i): "Let there be no proofs where faith is required." But faith is required regarding the Resurrection. Therefore proofs are out of place there.
 
@@ -113,7 +113,7 @@ Objection 2: Further, Gregory says (Hom. xxvi): "Faith has no merit where human 
 
 Objection 3: Further, Christ came into the world in order that men might attain beatitude through Him, according to Jn. 10:10: "I am come that they may have life, and may have it more abundantly." But supplying proofs seems to be a hindrance in the way of man's beatitude; because our Lord Himself said (Jn. 20:29): "Blessed are they that have not seen, and have believed." Consequently, it seems that Christ ought not to manifest His Resurrection by any proofs.
 
-## Answer
+### Answer
 
 On the contrary, It is related in Acts 1:3, that Christ appeared to His disciples "for forty days by many proofs, speaking of the Kingdom of God."
 
@@ -121,16 +121,16 @@ I answer that, The word "proof" is susceptible of a twofold meaning: sometimes i
 
 But if the term "proof" be taken in the second sense, then Christ is said to have demonstrated His Resurrection by proofs, inasmuch as by most evident signs He showed that He was truly risen. Hence where our version has "by many proofs," the Greek text, instead of proof has {tekmerion}, i.e. "an evident sign affording positive proof" [*Cf. Prior. Anal. ii]. Now Christ showed these signs of the Resurrection to His disciples, for two reasons. First, because their hearts were not disposed so as to accept readily the faith in the Resurrection. Hence He says Himself (Lk. 24:25): "O foolish and slow of heart to believe": and (Mk. 16:14): "He upbraided them with their incredulity and hardness of heart." Secondly, that their testimony might be rendered more efficacious through the signs shown them, according to 1 Jn. 1:1, 3: "That which we have seen, and have heard, and our hands have handled . . . we declare."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Ambrose is speaking there of proofs drawn from human reason, which are useless for demonstrating things of faith, as was shown above.
 
 Reply to Objection 2: The merit of faith arises from this, that at God's bidding man believes what he does not see. Accordingly, only that reason debars merit of faith which enables one to see by knowledge what is proposed for belief: and this is demonstrative argument. But Christ did not make use of any such argument for demonstrating His Resurrection.
 
 Reply to Objection 3: As stated already (ad 2), the merit of beatitude, which comes of faith, is not entirely excluded except a man refuse to believe only such things as he can see. But for a man to believe from visible signs the things he does not see, does not entirely deprive him of faith nor of the merit of faith: just as Thomas, to whom it was said (Jn. 20:29): "'Because thou hast seen Me, Thomas, thou hast believed,' saw one thing and believed another" [*Gregory, Hom. xxvi]: the wounds were what he saw, God was the object of His belief. But his is the more perfect faith who does not require such helps for belief. Hence, to put to shame the faith of some men, our Lord said (Jn. 4:48): "Unless you see signs and wonders, you believe not." From this one can learn how they who are so ready to believe God, even without beholding signs, are blessed in comparison with them who do not believe except they see the like.
-# Whether The Proofs Which Christ Made Use Of Manifested Sufficiently The Truth Of His Resurrection?
+## Whether The Proofs Which Christ Made Use Of Manifested Sufficiently The Truth Of His Resurrection?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the proofs which Christ made use of did not sufficiently manifest the truth of His Resurrection. For after the Resurrection Christ showed nothing to His disciples which angels appearing to men did not or could not show; because angels have frequently shown themselves to men under human aspect, have spoken and lived with them, and eaten with them, just as if they were truly men, as is evident from Genesis 18, of the angels whom Abraham entertained. and in the Book of Tobias, of the angel who "conducted" him "and brought" him back. Nevertheless, angels have not true bodies naturally united to them; which is required for a resurrection. Consequently, the signs which Christ showed His disciples were not sufficient for manifesting His Resurrection.
 
@@ -142,7 +142,7 @@ Objection 4: Further, clarity seems to be the principal of the qualities of a gl
 
 Objection 5: [*This objection is wanting in the older codices, and in the text of the Leonine edition, which, however, gives it in a note as taken from one of the more recent codices of the Vatican.]
 
-## Answer
+### Answer
 
 On the contrary, Christ, who is the Wisdom of God, "ordereth all things sweetly" and in a fitting manner, according to Wis. 8:1.
 
@@ -154,7 +154,7 @@ Secondly, He showed them the truth of His Resurrection on the part of His soul r
 
 He also showed His disciples the glory of His Resurrection by entering in among them when the doors were closed: as Gregory says (Hom. xxvi in Evang.): "Our Lord allowed them to handle His flesh which He had brought through closed doors, to show that His body was of the same nature but of different glory." It likewise was part of the property of glory that "He vanished suddenly from their eyes," as related in the last chapter of Luke; because thereby it was shown that it lay in His power to be seen or not seen; and this belongs to a glorified body, as stated above ([4308]Q[54], A[1], ad 2, A[2], ad 1).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Each separate argument would not suffice of itself for showing perfectly Christ's Resurrection, yet all taken collectively establish it completely, especially owing to the testimonies of the Scriptures, the sayings of the angels, and even Christ's own assertion supported by miracles. As to the angels who appeared, they did not say they were men, as Christ asserted that He was truly a man. Moreover, the manner of eating was different in Christ and the angels: for since the bodies assumed by the angels were neither living nor animated, there was no true eating, although the food was really masticated and passed into the interior of the assumed body: hence the angels said to Tobias (12:18,19): "When I was with you . . . I seemed indeed to eat and drink with you; but I use an invisible meat." But since Christ's body was truly animated, His eating was genuine. For, as Augustine observes (De Civ. Dei xiii), "it is not the power but the need of eating that shall be taken away from the bodies of them who rise again." Hence Bede says on Lk. 24:41: "Christ ate because He could, not because He needed."
 

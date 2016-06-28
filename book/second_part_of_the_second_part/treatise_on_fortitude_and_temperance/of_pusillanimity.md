@@ -3,9 +3,9 @@
 We must now consider pusillanimity. Under this head there are two points of inquiry:
 (1) Whether pusillanimity is a sin?
 (2) To what virtue is it opposed?
-# Whether Pusillanimity Is A Sin?
+## Whether Pusillanimity Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that pusillanimity is not a sin. For every sin makes a man evil, just as every virtue makes a man good. But a fainthearted man is not evil, as the Philosopher says (Ethic. iv, 3). Therefore pusillanimity is not a sin.
 
@@ -15,13 +15,13 @@ Objection 3: Further, "Pride is the beginning of all sin" (Ecclus. 10:15). But p
 
 Objection 4: Further, the Philosopher says (Ethic. iv, 3) that "he who deems himself less worthy than he is, is said to be fainthearted." Now sometimes holy men deem themselves less worthy than they are; for instance, Moses and Jeremias, who were worthy of the office God chose them for, which they both humbly declined (Ex. 3:11; Jer. 1:6). Therefore pusillanimity is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, Nothing in human conduct is to be avoided save sin. Now pusillanimity is to be avoided: for it is written (Col. 3:21): "Fathers, provoke not your children to indignation, lest they be discouraged." Therefore pusillanimity is a sin.
 
 I answer that, Whatever is contrary to a natural inclination is a sin, because it is contrary to a law of nature. Now everything has a natural inclination to accomplish an action that is commensurate with its power: as is evident in all natural things, whether animate or inanimate. Now just as presumption makes a man exceed what is proportionate to his power, by striving to do more than he can, so pusillanimity makes a man fall short of what is proportionate to his power, by refusing to tend to that which is commensurate thereto. Wherefore as presumption is a sin, so is pusillanimity. Hence it is that the servant who buried in the earth the money he had received from his master, and did not trade with it through fainthearted fear, was punished by his master (Mat. 25; Lk. 19).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher calls those evil who injure their neighbor: and accordingly the fainthearted is said not to be evil, because he injures no one, save accidentally, by omitting to do what might be profitable to others. For Gregory says (Pastoral. i) that if "they who demur to do good to their neighbor in preaching be judged strictly, without doubt their guilt is proportionate to the good they might have done had they been less retiring."
 
@@ -30,9 +30,9 @@ Reply to Objection 2: Nothing hinders a person who has a virtuous habit from sin
 Reply to Objection 3: Even pusillanimity may in some way be the result of pride: when, to wit, a man clings too much to his own opinion, whereby he thinks himself incompetent for those things for which he is competent. Hence it is written (Prov. 26:16): "The sluggard is wiser in his own conceit than seven men that speak sentences." For nothing hinders him from depreciating himself in some things, and having a high opinion of himself in others. Wherefore Gregory says (Pastoral. i) of Moses that "perchance he would have been proud, had he undertaken the leadership of a numerous people without misgiving: and again he would have been proud, had he refused to obey the command of his Creator."
 
 Reply to Objection 4: Moses and Jeremias were worthy of the office to which they were appointed by God, but their worthiness was of Divine grace: yet they, considering the insufficiency of their own weakness, demurred; though not obstinately lest they should fall into pride.
-# Whether Pusillanimity Is Opposed To Magnanimity?
+## Whether Pusillanimity Is Opposed To Magnanimity?
 
-## Objections
+### Objections
 
 Objection 1: It seems that pusillanimity is not opposed to magnanimity. For the Philosopher says (Ethic., 3) that "the fainthearted man knows not himself: for he would desire the good things, of which he is worthy, if he knew himself." Now ignorance of self seems opposed to prudence. Therefore pusillanimity is opposed to prudence.
 
@@ -42,13 +42,13 @@ Objection 3: Further, pusillanimity seems to proceed from inordinate fear: hence
 
 Objection 4: Further, the vice that is in opposition to a particular virtue is the more grievous according as it is more unlike that virtue. Now pusillanimity is more unlike magnanimity than presumption is. Therefore if pusillanimity is opposed to magnanimity, it follows that it is a more grievous sin than presumption: yet this is contrary to the saying of Ecclus. 37:3, "O wicked presumption, whence camest thou?" Therefore pusillanimity is not opposed to magnanimity.
 
-## Answer
+### Answer
 
 On the contrary, Pusillanimity and magnanimity differ as greatness and littleness of soul, as their very names denote. Now great and little are opposites. Therefore pusillanimity is opposed to magnanimity.
 
 I answer that, Pusillanimity may be considered in three ways. First, in itself; and thus it is evident that by its very nature it is opposed to magnanimity, from which it differs as great and little differ in connection with the same subject. For just as the magnanimous man tends to great things out of greatness of soul, so the pusillanimous man shrinks from great things out of littleness of soul. Secondly, it may be considered in reference to its cause, which on the part of the intellect is ignorance of one's own qualification, and on the part of the appetite is the fear of failure in what one falsely deems to exceed one's ability. Thirdly, it may be considered in reference to its effect, which is to shrink from the great things of which one is worthy. But, as stated above ([3381]Q[132], A[2], ad 3), opposition between vice and virtue depends rather on their respective species than on their cause or effect. Hence pusillanimity is directly opposed to magnanimity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument considers pusillanimity as proceeding from a cause in the intellect. Yet it cannot be said properly that it is opposed to prudence, even in respect of its cause: because ignorance of this kind does not proceed from indiscretion but from laziness in considering one's own ability, according to Ethic. iv, 3, or in accomplishing what is within one's power.
 

@@ -5,9 +5,9 @@ We must now consider the vices opposed to truth, and (1) lying: (2) dissimulatio
 (2) Of the species of lying;
 (3) Whether lying is always a sin?
 (4) Whether it is always a mortal sin?
-# Whether Lying Is Always Opposed To Truth?
+## Whether Lying Is Always Opposed To Truth?
 
-## Objections
+### Objections
 
 Objection 1: It seems that lying is not always opposed to truth. For opposites are incompatible with one another. But lying is compatible with truth, since that speaks the truth, thinking it to be false, lies, according to Augustine (Lib. De Mendac. iii). Therefore lying is not opposed to truth.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the virtue of truth applies not only to words but also to 
 
 Objection 3: Further, Augustine says (Lib. De Mendac. iii) that the "liar's sin is the desire to deceive." But this is not opposed to truth, but rather to benevolence or justice. Therefore lying is not opposed to truth.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Contra Mend. x): "Let no one doubt that it is a lie to tell a falsehood in order to deceive. Wherefore a false statement uttered with intent to deceive is a manifest lie." But this is opposed to truth. Therefore lying is opposed to truth.
 
@@ -29,16 +29,16 @@ However, the essential notion of a lie is taken from formal falsehood, from the 
 
 That a person intends to cause another to have a false opinion, by deceiving him, does not belong to the species of lying, but to perfection thereof, even as in the physical order, a thing acquires its species if it has its form, even though the form's effect be lacking; for instance a heavy body which is held up aloft by force, lest it come down in accordance with the exigency of its form. Therefore it is evident that lying is directly an formally opposed to the virtue of truth.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We judge of a thing according to what is in it formally and essentially rather than according to what is in it materially and accidentally. Hence it is more in opposition to truth, considered as a moral virtue, to tell the truth with the intention of telling a falsehood than to tell a falsehood with the intention of telling the truth.
 
 Reply to Objection 2: As Augustine says (De Doctr. Christ. ii), words hold the chief place among other signs. And so when it is said that "a lie is a false signification by words," the term "words" denotes every kind of sign. Wherefore if a person intended to signify something false by means of signs, he would not be excused from lying.
 
 Reply to Objection 3: The desire to deceive belongs to the perfection of lying, but not to its species, as neither does any effect belong to the species of its cause.
-# Whether Lies Are Sufficiently Divided Into Officious, Jocose, And Mischievous Lies?
+## Whether Lies Are Sufficiently Divided Into Officious, Jocose, And Mischievous Lies?
 
-## Objections
+### Objections
 
 Objection 1: It seems that lies are not sufficiently divided into "officious," "jocose" and "mischievous" lies. For a division should be made according to that which pertains to a thing by reason of its nature, as the Philosopher states (Metaph. vii, text. 43; De Part. Animal i, 3). But seemingly the intention of the effect resulting from a moral act is something beside and accidental to the species of that act, so that an indefinite number of effects can result from one act. Now this division is made according to the intention of the effect: for a "jocose" lie is told in order to make fun, an "officious" lie for some useful purpose, and a "mischievous" lie in order to injure someone. Therefore lies are unfittingly divided in this way.
 
@@ -46,7 +46,7 @@ Objection 2: Further, Augustine (Contra Mendac. xiv) gives eight kinds of lies. 
 
 Objection 3: Further, the Philosopher (Ethic. iv, 7) divides lying into "boasting," which exceeds the truth in speech, and "irony," which falls short of the truth by saying something less: and these two are not contained under any one of the kinds mentioned above. Therefore it seems that the aforesaid division of lies is inadequate.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on Ps. 5:7, "Thou wilt destroy all that speak a lie," says "that there are three kinds of lies; for some are told for the wellbeing and convenience of someone; and there is another kind of lie that is told in fun; but the third kind of lie is told out of malice." The first of these is called an officious lie, the second a jocose lie, the third a mischievous lie. Therefore lies are divided into these three kinds.
 
@@ -63,9 +63,9 @@ The four kinds that follow lessen the gravity of the sin of lying. For the fifth
 Now it is evident that the greater the good intended, the more is the sin of lying diminished in gravity. Wherefore a careful consideration of the matter will show that these various kinds of lies are enumerated in their order of gravity: since the useful good is better than the pleasurable good, and life of the body than money, and virtue than the life of the body.
 
 This suffices for the Replies to the Objections.
-# Whether Every Lie Is A Sin?
+## Whether Every Lie Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that not every lie is a sin. For it is evident that the evangelists did not sin in the writing of the Gospel. Yet they seem to have told something false: since their accounts of the words of Christ and of others often differ from one another: wherefore seemingly one of them must have given an untrue account. Therefore not every lie is a sin.
 
@@ -79,13 +79,13 @@ Objection 5: Further, it is a lie not to fulfill what one has promised. Yet one 
 
 Objection 6: Further, apparently a lie is a sin because thereby we deceive our neighbor: wherefore Augustine says (Lib. De Mend. xxi): "Whoever thinks that there is any kind of lie that is not a sin deceives himself shamefully, since he deems himself an honest man when he deceives others." Yet not every lie is a cause of deception, since no one is deceived by a jocose lie; seeing that lies of this kind are told, not with the intention of being believed, but merely for the sake of giving pleasure. Hence again we find hyperbolical expressions in Holy Writ. Therefore not every lie is a sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 7:14): "Be not willing to make any manner of lie."
 
 I answer that, An action that is naturally evil in respect of its genus can by no means be good and lawful, since in order for an action to be good it must be right in every respect: because good results from a complete cause, while evil results from any single defect, as Dionysius asserts (Div. Nom. iv). Now a lie is evil in respect of its genus, since it is an action bearing on undue matter. For as words are naturally signs of intellectual acts, it is unnatural and undue for anyone to signify by words something that is not in his mind. Hence the Philosopher says (Ethic. iv, 7) that "lying is in itself evil and to be shunned, while truthfulness is good and worthy of praise." Therefore every lie is a sin, as also Augustine declares (Contra Mend. i).
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is unlawful to hold that any false assertion is contained either in the Gospel or in any canonical Scripture, or that the writers thereof have told untruths, because faith would be deprived of its certitude which is based on the authority of Holy Writ. That the words of certain people are variously reported in the Gospel and other sacred writings does not constitute a lie. Hence Augustine says (De Consens. Evang. ii): "He that has the wit to understand that in order to know the truth it is necessary to get at the sense, will conclude that he must not be the least troubled, no matter by what words that sense is expressed." Hence it is evident, as he adds (De Consens. Evang. ii), that "we must not judge that someone is lying, if several persons fail to describe in the same way and in the same words a thing which they remember to have seen or heard."
 
@@ -98,9 +98,9 @@ Reply to Objection 4: A lie is sinful not only because it injures one's neighbor
 Reply to Objection 5: A man does not lie, so long as he has a mind to do what he promises, because he does not speak contrary to what he has in mind: but if he does not keep his promise, he seems to act without faith in changing his mind. He may, however, be excused for two reasons. First, if he has promised something evidently unlawful, because he sinned in promise, and did well to change his mind. Secondly, if circumstances have changed with regard to persons and the business in hand. For, as Seneca states (De Benef. iv), for a man to be bound to keep a promise, it is necessary for everything to remain unchanged: otherwise neither did he lie in promising---since he promised what he had in his mind, due circumstances being taken for granted---nor was he faithless in not keeping his promise, because circumstances are no longer the same. Hence the Apostle, though he did not go to Corinth, whither he had promised to go (2 Cor. 1), did not lie, because obstacles had arisen which prevented him.
 
 Reply to Objection 6: An action may be considered in two ways. First, in itself, secondly, with regard to the agent. Accordingly a jocose lie, from the very genus of the action, is of a nature to deceive; although in the intention of the speaker it is not told to deceive, nor does it deceive by the way it is told. Nor is there any similarity in the hyperbolical or any kind of figurative expressions, with which we meet in Holy Writ: because, as Augustine says (Lib. De Mend. v), "it is not a lie to do or say a thing figuratively: because every statement must be referred to the thing stated: and when a thing is done or said figuratively, it states what those to whom it is tendered understand it to signify."
-# Whether Every Lie Is A Mortal Sin?
+## Whether Every Lie Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that every lie is a mortal sin. For it is written (Ps. 6:7): "Thou wilt destroy all that speak a lie," and (Wis. 1:11): "The mouth that belieth killeth the soul." Now mortal sin alone causes destruction and death of the soul. Therefore every lie is a mortal sin.
 
@@ -112,7 +112,7 @@ Objection 4: Further, the eternal reward is not lost save for a mortal sin. Now,
 
 Objection 5: Further, Augustine says (Lib. De Mend. xvii) that "it is a precept of perfection, not only not to lie at all, but not even to wish to lie." Now it is a mortal sin to act against a precept. Therefore every lie of the perfect is a mortal sin: and consequently so also is a lie told by anyone else, otherwise the perfect would be worse off than others.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says on Ps. 5:7, "Thou wilt destroy," etc.: "There are two kinds of lie, that are not grievously sinful yet are not devoid of sin, when we lie either in joking, or for the sake of our neighbor's good." But every mortal sin is grievous. Therefore jocose and officious lies are not mortal sins.
 
@@ -122,7 +122,7 @@ A lie may be in itself contrary to charity by reason of its false signification.
 
 As regards the end in view, a lie may be contrary to charity, through being told with the purpose of injuring God, and this is always a mortal sin, for it is opposed to religion; or in order to injure one's neighbor, in his person, his possessions or his good name, and this also is a mortal sin, since it is a mortal sin to injure one's neighbor, and one sins mortally if one has merely the intention of committing a mortal sin. But if the end intended be not contrary to charity, neither will the lie, considered under this aspect, be a mortal sin, as in the case of a jocose lie, where some little pleasure is intended, or in an officious lie, where the good also of one's neighbor is intended. Accidentally a lie may be contrary to charity by reason of scandal or any other injury resulting therefrom: and thus again it will be a mortal sin, for instance if a man were not deterred through scandal from lying publicly.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The passages quoted refer to the mischievous lie, as a gloss explains the words of Ps. 5:7, "Thou wilt destroy all that speak a lie."
 

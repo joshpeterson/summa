@@ -7,9 +7,9 @@ We must now consider simony, under which head there are six points of inquiry:
 (4) Whether it is lawful to sell things connected with spirituals?
 (5) Whether real remuneration alone makes a man guilty of simony, or also oral remuneration or remuneration by service?
 (6) Of the punishment of simony.
-# Whether Simony Is An Intentional Will To Buy Or Sell Something Spiritual Or Connected With A Spiritual Thing?
+## Whether Simony Is An Intentional Will To Buy Or Sell Something Spiritual Or Connected With A Spiritual Thing?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that simony is not "an express will to buy or sell something spiritual or connected with a spiritual thing." Simony is heresy, since it is written (I, qu. i [*Can. Eos qui per pecunias.]): "The impious heresy of Macedonius and of those who with him impugned the Holy Ghost, is more endurable than that of those who are guilty of simony: since the former in their ravings maintained that the Holy Spirit of Father and Son is a creature and the slave of God, whereas the latter make the same Holy Spirit to be their own slave. For every master sells what he has just as he wills, whether it be his slave or any other of his possessions." But unbelief, like faith, is an act not of the will but of the intellect, as shown above ([3141]Q[10], A[2]). Therefore simony should not be defined as an act of the will.
 
@@ -25,7 +25,7 @@ Objection 6: Further, anything connected with spiritual things is itself spiritu
 
 Objection 7: Further, according to some, the Pope cannot commit simony: yet he can buy or sell something spiritual. Therefore simony is not the will to buy or sell something spiritual or connected with a spiritual thing.
 
-## Answer
+### Answer
 
 On the contrary, Gregory VII says (Regist. [*Caus. I, qu. i, can. Presbyter, qu. iii, can. Altare]): "None of the faithful is ignorant that buying or selling altars, tithes, or the Holy Ghost is the heresy of simony."
 
@@ -37,7 +37,7 @@ Thirdly, because sale is opposed to the source of spiritual things, since they f
 
 Therefore by buying or selling a spiritual thing, a man treats God and divine things with irreverence, and consequently commits a sin of irreligion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as religion consists in a kind of protestation of faith, without, sometimes, faith being in one's heart, so too the vices opposed to religion include a certain protestation of unbelief without, sometimes, unbelief being in the mind. Accordingly simony is said to be a "heresy," as regards the outward protestation, since by selling a gift of the Holy Ghost a man declares, in a way, that he is the owner of a spiritual gift; and this is heretical. It must, however, be observed that Simon Magus, besides wishing the apostles to sell him a grace of the Holy Ghost for money, said that the world was not created by God, but by some heavenly power, as Isidore states (Etym. viii, 5): and so for this reason simoniacs are reckoned with other heretics, as appears from Augustine's book on heretics.
 
@@ -52,9 +52,9 @@ Reply to Objection 5: The terms "buying" and "selling" cover all kinds of non-gr
 Reply to Objection 6: Even as the soul lives by itself, while the body lives through being united to the soul; so, too, certain things are spiritual by themselves, such as the sacraments and the like, while others are called spiritual, through adhering to those others. Hence (I, qu. iii, cap. Siquis objecerit) it is stated that "spiritual things do not progress without corporal things, even as the soul has no bodily life without the body."
 
 Reply to Objection 7: The Pope can be guilty of the vice of simony, like any other man, since the higher a man's position the more grievous is his sin. For although the possessions of the Church belong to him as dispenser in chief, they are not his as master and owner. Therefore, were he to accept money from the income of any church in exchange for a spiritual thing, he would not escape being guilty of the vice of simony. In like manner he might commit simony by accepting from a layman moneys not belonging to the goods of the Church.
-# Whether It Is Always Unlawful To Give Money For The Sacraments?
+## Whether It Is Always Unlawful To Give Money For The Sacraments?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not always unlawful to give money for the sacraments. Baptism is the door of the sacraments, as we shall state in the [3145]TP, Q[68], A[6]; [3146]TP, Q[73], A[3]. But seemingly it is lawful in certain cases to give money for Baptism, for instance if a priest were unwilling to baptize a dying child without being paid. Therefore it is not always unlawful to buy or sell the sacraments.
 
@@ -68,7 +68,7 @@ Objection 5: Further, it happens sometimes that someone maliciously hinders a pe
 
 Objection 6: Further, marriage is a sacrament. But sometimes money is given for marriage. Therefore it is lawful to sell a sacrament.
 
-## Answer
+### Answer
 
 On the contrary, It is written (I, qu. i [*Can. Qui per pecunias]): "Whosoever shall consecrate anyone for money, let him be cut off from the priesthood."
 
@@ -76,7 +76,7 @@ I answer that, The sacraments of the New Law are of all things most spiritual, i
 
 Accordingly we must answer that to receive money for the spiritual grace of the sacraments, is the sin of simony, which cannot be excused by any custom whatever, since "custom does not prevail over natural or divine law" [*Cap. Cum tanto, de Consuetud.; cf. [3147]FS, Q[97], A[3]]. Now by money we are to understand anything that has a pecuniary value, as the Philosopher states (Ethic. iv, 1). On the other hand, to receive anything for the support of those who administer the sacraments, in accordance with the statutes of the Church and approved customs, is not simony, nor is it a sin. For it is received not as a price of goods, but as a payment for their need. Hence a gloss of Augustine on 1 Tim. 5:17, "Let the priests that rule well," says: "They should look to the people for a supply to their need, but to the Lord for the reward of their ministry."
 
-## Replies
+### Replies
 
 Reply to Objection 1: In a case of necessity anyone may baptize. And since nowise ought one to sin, if the priest be unwilling to baptize without being paid, one must act as though there were no priest available for the baptism. Hence the person who is in charge of the child can, in such a case, lawfully baptize it, or cause it to be baptized by anyone else. He could, however, lawfully buy the water from the priest, because it is merely a bodily element. But if it were an adult in danger of death that wished to be baptized, and the priest were unwilling to baptize him without being paid, he ought, if possible, to be baptized by someone else. And if he is unable to have recourse to another, he must by no means pay a price for Baptism, and should rather die without being baptized, because for him the baptism of desire would supply the lack of the sacrament.
 
@@ -89,9 +89,9 @@ Reply to Objection 4: As stated above, "custom does not prevail over natural or 
 Reply to Objection 5: It would be simoniacal to buy off the opposition of one's rivals, before acquiring the right to a bishopric or any dignity or prebend, by election, appointment or presentation, since this would be to use money as a means of obtaining a spiritual thing. But it is lawful to use money as a means of removing unjust opposition, after one has already acquired that right.
 
 Reply to Objection 6: Some [*Innocent IV on Cap. Cum in Ecclesia, de Simonia] say that it is lawful to give money for Matrimony because no grace is conferred thereby. But this is not altogether true, as we shall state in the Third Part of the work [*[3148]XP, Q[42], A[3]]. Wherefore we must reply that Matrimony is not only a sacrament of the Church, but also an office of nature. Consequently it is lawful to give money for Matrimony considered as an office of nature, but unlawful if it be considered as a sacrament of the Church. Hence, according to the law [*Cap. Cum in Ecclesia, de Simonia], it is forbidden to demand anything for the Nuptial Blessing.
-# Whether It Is Lawful To Give And Receive Money For Spiritual Actions?
+## Whether It Is Lawful To Give And Receive Money For Spiritual Actions?
 
-## Objections
+### Objections
 
 Objection 1: It seems that it is lawful to give and receive money for spiritual actions. The use of prophecy is a spiritual action. But something used to be given of old for the use of prophecy, as appears from 1 Kings 9:7,8, and 3 Kings 14:3. Therefore it would seem that it is lawful to give and receive money for a spiritual action.
 
@@ -101,13 +101,13 @@ Objection 3: Further, science is no less spiritual than power. Now it is lawful 
 
 Objection 4: Further, religion is the state of spiritual perfection. Now in certain monasteries something is demanded from those who are received there. Therefore it is lawful to demand something for spiritual things.
 
-## Answer
+### Answer
 
 On the contrary, It is stated (I, qu. i [*Can. Quidquid invisibilis]): "It is absolutely forbidden to make a charge for what is acquired by the consolation of invisible grace, whether by demanding a price or by seeking any kind of return whatever." Now all these spiritual things are acquired through an invisible grace. Therefore it is not lawful to charge a price or return for them.
 
 I answer that, Just as the sacraments are called spiritual, because they confer a spiritual grace, so, too, certain other things are called spiritual, because they flow from spiritual grace and dispose thereto. And yet these things are obtainable through the ministry of men, according to 1 Cor. 9:7, "Who serveth as a soldier at any time at his own charges? Who feedeth the flock, and eateth not of the milk of the flock?" Hence it is simoniacal to sell or buy that which is spiritual in such like actions; but to receive or give something for the support of those who minister spiritual things in accordance with the statutes of the Church and approved customs is lawful, yet in such wise that there be no intention of buying or selling, and that no pressure be brought to bear on those who are unwilling to give, by withholding spiritual things that ought to be administered, for then there would be an appearance of simony. But after the spiritual things have been freely bestowed, then the statutory and customary offerings and other dues may be exacted from those who are unwilling but able to pay, if the superior authorize this to be done.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Jerome says in his commentary on Mic. 3:9, certain gifts were freely offered to the good prophets, for their livelihood, but not as a price for the exercise of their gift of prophecy. Wicked prophets, however, abused this exercise by demanding payment for it.
 
@@ -116,9 +116,9 @@ Reply to Objection 2: Those who give alms to the poor in order to obtain from th
 Reply to Objection 3: A person to whom a spiritual power is entrusted is bound by virtue of his office to exercise the power entrusted to him in dispensing spiritual things. Moreover, he receives a statutory payment from the funds of the Church as a means of livelihood. Therefore, if he were to accept anything for the exercise of his spiritual power, this would imply, not a hiring of his labor (which he is bound to give, as a duty arising out of the office he has accepted), but a sale of the very use of a spiritual grace. For this reason it is unlawful for him to receive anything for any dispensing whatever, or for allowing someone else to take his duty, or for correcting his subjects, or for omitting to correct them. On the other hand it is lawful for him to receive "procurations," when he visits his subjects, not as a price for correcting them, but as a means of livelihood. He that is possessed of science, without having taken upon himself the obligation of using it for the benefit of others can lawfully receive a price for his learning or advice, since this is not a sale of truth or science, but a hiring of labor. If, on the other hand, he be so bound by virtue of his office, this would amount to a sale of the truth, and consequently he would sin grievously. For instance, those who in certain churches are appointed to instruct the clerics of that church and other poor persons, and are in receipt of an ecclesiastical benefice for so doing, are not allowed to receive anything in return, either for teaching, or for celebrating or omitting any feasts.
 
 Reply to Objection 4: It is unlawful to exact or receive anything as price for entering a monastery: but, in the case of small monasteries, that are unable to support so many persons, it is lawful, while entrance to the monastery is free, to accept something for the support of those who are about to be received into the monastery, if its revenues are insufficient. In like manner it is lawful to be easier in admitting to a monastery a person who has proved his regard for that monastery by the generosity of his alms: just as, on the other hand, it is lawful to incite a person's regard for a monastery by means of temporal benefits, in order that he may thereby be induced to enter the monastery; although it is unlawful to agree to give or receive something for entrance into a monastery (I, qu. ii, cap. Quam pio).
-# Whether It Is Lawful To Receive Money For Things Annexed To Spiritual Things?
+## Whether It Is Lawful To Receive Money For Things Annexed To Spiritual Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem lawful to receive money for things annexed to spiritual things. Seemingly all temporal things are annexed to spiritual things, since temporal things ought to be sought for the sake of spiritual things. If, therefore, it is unlawful to sell what is annexed to spiritual things, it will be unlawful to sell anything temporal, and this is clearly false.
 
@@ -126,22 +126,22 @@ Objection 2: Further, nothing would seem to be more annexed to spiritual things 
 
 Objection 3: Further, things annexed to spiritual things include right of burial, right of patronage, and, according to ancient writers, right of the first-born (because before the Lord the first-born exercised the priestly office), and the right to receive tithes. Now Abraham bought from Ephron a double cave for a burying-place (Gn. 23:8, sqq.), and Jacob bought from Esau the right of the first-born (Gn. 25:31, sqq.). Again the right of patronage is transferred with the property sold, and is granted "in fee." Tithes are granted to certain soldiers, and can be redeemed. Prelates also at times retain for themselves the revenues of prebends of which they have the presentation, although a prebend is something annexed to a spiritual thing. Therefore it is lawful to sell things annexed to spiritual things.
 
-## Answer
+### Answer
 
 On the contrary, Pope Paschal [*Paschal II] says (cf. I, qu. iii, cap. Si quis objecerit): "Whoever sells one of two such things, that the one is unproductive without the other, leaves neither unsold. Wherefore let no person sell a church, or a prebend, or anything ecclesiastical."
 
 I answer that, A thing may be annexed to spiritual things in two ways. First, as being dependent on spiritual things. Thus to have to spiritual things, because it is not competent save to those who hold a clerical office. Hence such things can by no means exist apart from spiritual things. Consequently it is altogether unlawful to sell such things, because the sale thereof implies the sale of things spiritual. Other things are annexed to spiritual things through being directed thereto, for instance the right of patronage, which is directed to the presentation of clerics to ecclesiastical benefices; and sacred vessels, which are directed to the use of the sacraments. Wherefore such things as these do not presuppose spiritual things, but precede them in the order of time. Hence in a way they can be sold, but not as annexed to spiritual things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All things temporal are annexed to spiritual things, as to their end, wherefore it is lawful to sell temporal things, but their relation to spiritual things cannot be the matter of a lawful sale.
 
 Reply to Objection 2: Sacred vessels also are annexed to spiritual things as to their end, wherefore their consecration cannot be sold. Yet their material can be sold for the needs of the Church or of the poor provided they first be broken, after prayer has been said over them, since when once broken, they are considered to be no longer sacred vessels but mere metal: so that if like vessels were to be made out of the same material they would have to be consecrated again.
 
 Reply to Objection 3: We have no authority for supposing that the double cave which Abraham bought for a burial place was consecrated for that purpose: wherefore Abraham could lawfully buy that site to be used for burial, in order to turn it into a sepulchre: even so it would be lawful now to buy an ordinary field as a site for a cemetery or even a church. Nevertheless because even among the Gentiles burial places are looked upon as religious, if Ephron intended to accept the price as payment for a burial place, he sinned in selling, though Abraham did not sin in buying, because he intended merely to buy an ordinary plot of ground. Even now, it is lawful in a case of necessity to sell or buy land on which there has previously been a church, as we have also said with regard to sacred vessels (Reply OBJ[2]). Or again, Abraham is to be excused because he thus freed himself of a grievance. For although Ephron offered him the burial place for nothing, Abraham deemed that he could not accept it gratis without prejudice to himself.
-# Whether It Is Lawful To Grant Spiritual Things In Return For An Equivalent Of Service, Or For An Oral Remuneration?
+## Whether It Is Lawful To Grant Spiritual Things In Return For An Equivalent Of Service, Or For An Oral Remuneration?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is lawful to grant spiritual things in return for an equivalent of service, or an oral remuneration. Gregory says (Regist. iii, ep. 18): "It is right that those who serve the interests of the Church should be rewarded." Now an equivalent of service denotes serving the interests of the Church. Therefore it seems lawful to confer ecclesiastical benefices for services received.
 
@@ -151,13 +151,13 @@ Objection 3: Further, that which is done only at another's request would seem to
 
 Objection 4: Further, hypocrites perform spiritual deeds in order that they may receive human praise, which seems to imply oral remuneration: and yet hypocrites are not said to be guilty of simony. Therefore oral remuneration does not entail simony.
 
-## Answer
+### Answer
 
 On the contrary, Pope Urban [*Urban II, Ep. xvii ad Lucium] says: "Whoever grants or acquires ecclesiastical things, not for the purpose for which they were instituted but for his own profit, in consideration of an oral remuneration or of an equivalent in service rendered or money received, is guilty of simony."
 
 I answer that, As stated above [3150](A[2]), the term "money" denotes "anything that can have a pecuniary value." Now it is evident that a man's service is directed to some kind of usefulness, which has a pecuniary value, wherefore servants are hired for a money wage. Therefore to grant a spiritual thing for a service rendered or to be rendered is the same as to grant it for the money, received or promised, at which that service could be valued. If likewise, to grant a person's request for the bestowal of a temporary favor is directed to some kind of usefulness which has a pecuniary value. Wherefore just as a man contracts the guilt of simony by accepting money or any eternal thing which comes under the head of "real remuneration," so too does he contract it, by receiving "oral remuneration" or an "equivalent in service rendered."
 
-## Replies
+### Replies
 
 Reply to Objection 1: If a cleric renders a prelate a lawful service, directed to spiritual things (e.g. to the good of the Church, or benefit of her ministers), he becomes worthy of an ecclesiastical benefice by reason of the devotion that led him to render the service, as he would by reason of any other good deed. Hence this is not a case of remuneration for service rendered, such as Gregory has in mind. But if the service be unlawful, or directed to carnal things (e.g. a service rendered to the prelate for the profit of his kindred, or the increase of his patrimony, or the like), it will be a case of remuneration for service rendered, and this will be simony.
 
@@ -166,9 +166,9 @@ Reply to Objection 2: The bestowal of a spiritual thing gratis on a person by re
 Reply to Objection 3: Oral remuneration denotes either praise that pertains to human favor, which has its price, or a request whereby man's favor is obtained or the contrary avoided. Hence if one intend this chiefly one commits simony. Now to grant a request made for an unworthy person implies, seemingly, that this is one's chief intention wherefore the deed itself is simoniacal. But if the request be made for a worthy person, the deed itself is not simoniacal, because it is based on a worthy cause, on account of which a spiritual thing is granted to the person for whom the request is made. Nevertheless there may be simony in the intention, if one look, not to the worthiness of the person, but to human favor. If, however, a person asks for himself, that he may obtain the cure of souls, his very presumption renders him unworthy, and so his request is made for an unworthy person. But, if one be in need, one may lawfully seek for oneself an ecclesiastical benefice without the cure of souls.
 
 Reply to Objection 4: A hypocrite does not give a spiritual thing for the sake of praise, he only makes a show of it, and under false pretenses stealthily purloins rather than buys human praise: so that seemingly the hypocrite is not guilty of simony.
-# Whether Those Who Are Guilty Of Simony Are Fittingly Punished By Being Deprived Of What They Have Acquired By Simony?
+## Whether Those Who Are Guilty Of Simony Are Fittingly Punished By Being Deprived Of What They Have Acquired By Simony?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that those who are guilty of simony are not fittingly punished by being deprived of what they have acquired by simony. Simony is committed by acquiring spiritual things in return for a remuneration. Now certain spiritual things cannot be lost when once acquired, such as all characters that are imprinted by a consecration. Therefore it is not a fitting punishment for a person to be deprived of what he has acquired simoniacally.
 
@@ -184,13 +184,13 @@ Objection 6: Further, in this world external punishment is not inflicted for the
 
 Objection 7: Further, to be promoted to greater dignity is much less than to retain that which one has already received. Now sometimes those who are guilty of simony are, by dispensation, promoted to greater dignity. Therefore they should not always be deprived of what they have received.
 
-## Answer
+### Answer
 
 On the contrary, It is written (I, qu. i, cap. Si quis Episcopus): "He that has been ordained shall profit nothing from his ordination or promotion that he has acquired by the bargain, but shall forfeit the dignity or cure that he has acquired with his money."
 
 I answer that, No one can lawfully retain that which he has acquired against the owner's will. For instance, if a steward were to give some of his lord's property to a person, against his lord's will and orders, the recipient could not lawfully retain what he received. Now Our Lord, Whose stewards and ministers are the prelates of churches, ordered spiritual things to be given gratis, according to Mat. 10:8, "Freely have you received, freely give." Wherefore whosoever acquires spiritual things in return for a remuneration cannot lawfully retain them. Moreover, those who are guilty of simony, by either selling or buying spiritual things, as well as those who act as go-between, are sentenced to other punishments, namely, infamy and deposition, if they be clerics, and excommunication if they be laymen, as stated qu. i, cap. Si quis Episcopus [*Qu. iii, can. Si quis praebendas].
 
-## Replies
+### Replies
 
 Reply to Objection 1: He that has received a sacred Order simoniacally, receives the character of the Order on account of the efficacy of the sacrament: but he does not receive the grace nor the exercise of the Order, because he has received the character by stealth as it were, and against the will of the Supreme Lord. Wherefore he is suspended, by virtue of the law, both as regards himself, namely, that he should not busy himself about exercising his Order, and as regards others, namely, that no one may communicate with him in the exercise of his Order, whether his sin be public or secret. Nor may he reclaim the money which he basely gave, although the other party unjustly retains it.
 

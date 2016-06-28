@@ -6,9 +6,9 @@ We must now consider the division of grace; under which head there are five poin
 (3) Of the division of it into prevenient and subsequent grace;
 (4) Of the division of gratuitous grace;
 (5) Of the comparison between sanctifying and gratuitous grace.
-# Whether Grace Is Fittingly Divided Into Sanctifying Grace And Gratuitous Grace?
+## Whether Grace Is Fittingly Divided Into Sanctifying Grace And Gratuitous Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace is not fittingly divided into sanctifying grace and gratuitous grace. For grace is a gift of God, as is clear from what has been already stated ([2196]Q[110], A[1]). But man is not therefore pleasing to God because something is given him by God, but rather on the contrary; since something is freely given by God, because man is pleasing to Him. Hence there is no sanctifying grace.
 
@@ -16,7 +16,7 @@ Objection 2: Further, whatever is not given on account of preceding merits is gi
 
 Objection 3: Further, members of a division are mutually opposed. But even sanctifying grace, whereby we are justified, is given to us gratuitously, according to Rom. 3:24: "Being justified freely [gratis] by His grace." Hence sanctifying grace ought not to be divided against gratuitous grace.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle attributes both to grace, viz. to sanctify and to be gratuitously given. For with regard to the first he says (Eph. 1:6): "He hath graced us in His beloved son." And with regard to the second (Rom. 2:6): "And if by grace, it is not now by works, otherwise grace is no more grace." Therefore grace can be distinguished by its having one only or both.
 
@@ -24,16 +24,16 @@ I answer that, As the Apostle says (Rom. 13:1), "those things that are of God ar
 
 And thus there is a twofold grace: one whereby man himself is united to God, and this is called "sanctifying grace"; the other is that whereby one man cooperates with another in leading him to God, and this gift is called "gratuitous grace," since it is bestowed on a man beyond the capability of nature, and beyond the merit of the person. But whereas it is bestowed on a man, not to justify him, but rather that he may cooperate in the justification of another, it is not called sanctifying grace. And it is of this that the Apostle says (1 Cor. 12:7): "And the manifestation of the Spirit is given to every man unto utility," i.e. of others.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Grace is said to make pleasing, not efficiently but formally, i.e. because thereby a man is justified, and is made worthy to be called pleasing to God, according to Col. 1:21: "He hath made us worthy to be made partakers of the lot of the saints in light."
 
 Reply to Objection 2: Grace, inasmuch as it is gratuitously given, excludes the notion of debt. Now debt may be taken in two ways: first, as arising from merit; and this regards the person whose it is to do meritorious works, according to Rom. 4:4: "Now to him that worketh, the reward is not reckoned according to grace, but according to debt." The second debt regards the condition of nature. Thus we say it is due to a man to have reason, and whatever else belongs to human nature. Yet in neither way is debt taken to mean that God is under an obligation to His creature, but rather that the creature ought to be subject to God, that the Divine ordination may be fulfilled in it, which is that a certain nature should have certain conditions or properties, and that by doing certain works it should attain to something further. And hence natural endowments are not a debt in the first sense but in the second. Hence they especially merit the name of grace.
 
 Reply to Objection 3: Sanctifying grace adds to the notion of gratuitous grace something pertaining to the nature of grace, since it makes man pleasing to God. And hence gratuitous grace which does not do this keeps the common name, as happens in many other cases; and thus the two parts of the division are opposed as sanctifying and non-sanctifying grace.
-# Whether Grace Is Fittingly Divided Into Operating And Cooperating Grace?
+## Whether Grace Is Fittingly Divided Into Operating And Cooperating Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace is not fittingly divided into operating and cooperating grace. For grace is an accident, as stated above ([2197]Q[110], A[2]). Now no accident can act upon its subject. Therefore no grace can be called operating.
 
@@ -43,7 +43,7 @@ Objection 3: Further, to cooperate seems to pertain to the inferior agent, and n
 
 Objection 4: Further, division ought to rest on opposition. But to operate and to cooperate are not opposed; for one and the same thing can both operate and cooperate. Therefore grace is not fittingly divided into operating and cooperating.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Gratia et Lib. Arbit. xvii): "God by cooperating with us, perfects what He began by operating in us, since He who perfects by cooperation with such as are willing, beings by operating that they may will." But the operations of God whereby He moves us to good pertain to grace. Therefore grace is fittingly divided into operating and cooperating.
 
@@ -53,7 +53,7 @@ Now in both these ways grace is fittingly divided into operating and cooperating
 
 But if grace is taken for the habitual gift, then again there is a double effect of grace, even as of every other form; the first of which is "being," and the second, "operation"; thus the work of heat is to make its subject hot, and to give heat outwardly. And thus habitual grace, inasmuch as it heals and justifies the soul, or makes it pleasing to God, is called operating grace; but inasmuch as it is the principle of meritorious works, which spring from the free-will, it is called cooperating grace.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Inasmuch as grace is a certain accidental quality, it does not act upon the soul efficiently, but formally, as whiteness makes a surface white.
 
@@ -62,9 +62,9 @@ Reply to Objection 2: God does not justify us without ourselves, because whilst 
 Reply to Objection 3: One thing is said to cooperate with another not merely when it is a secondary agent under a principal agent, but when it helps to the end intended. Now man is helped by God to will the good, through the means of operating grace. And hence, the end being already intended, grace cooperates with us.
 
 Reply to Objection 4: Operating and cooperating grace are the same grace; but are distinguished by their different effects, as is plain from what has been said.
-# Whether Grace Is Fittingly Divided Into Prevenient And Subsequent Grace?
+## Whether Grace Is Fittingly Divided Into Prevenient And Subsequent Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that grace is not fittingly divided into prevenient and subsequent. For grace is an effect of the Divine love. But God's love is never subsequent, but always prevenient, according to 1 Jn. 4:10: "Not as though we had loved God, but because He hath first loved us." Therefore grace ought not to be divided into prevenient and subsequent.
 
@@ -72,22 +72,22 @@ Objection 2: Further, there is but one sanctifying grace in man, since it is suf
 
 Objection 3: Further, grace is known by its effects. Now there are an infinite number of effects---one preceding another. Hence it with regard to these, grace must be divided into prevenient and subsequent, it would seem that there are infinite species of grace. Now no art takes note of the infinite in number. Hence grace is not fittingly divided into prevenient and subsequent.
 
-## Answer
+### Answer
 
 On the contrary, God's grace is the outcome of His mercy. Now both are said in Ps. 58:11: "His mercy shall prevent me," and again, Ps. 22:6: "Thy mercy will follow me." Therefore grace is fittingly divided into prevenient and subsequent.
 
 I answer that, As grace is divided into operating and cooperating, with regard to its diverse effects, so also is it divided into prevenient and subsequent, howsoever we consider grace. Now there are five effects of grace in us: of these, the first is, to heal the soul; the second, to desire good; the third, to carry into effect the good proposed; the fourth, to persevere in good; the fifth, to reach glory. And hence grace, inasmuch as it causes the first effect in us, is called prevenient with respect to the second, and inasmuch as it causes the second, it is called subsequent with respect to the first effect. And as one effect is posterior to this effect, and prior to that, so may grace be called prevenient and subsequent on account of the same effect viewed relatively to divers others. And this is what Augustine says (De Natura et Gratia xxxi): "It is prevenient, inasmuch as it heals, and subsequent, inasmuch as, being healed, we are strengthened; it is prevenient, inasmuch as we are called, and subsequent, inasmuch as we are glorified."
 
-## Replies
+### Replies
 
 Reply to Objection 1: God's love signifies something eternal; and hence can never be called anything but prevenient. But grace signifies a temporal effect, which can precede and follow another; and thus grace may be both prevenient and subsequent.
 
 Reply to Objection 2: The division into prevenient and subsequent grace does not divide grace in its essence, but only in its effects, as was already said of operating and cooperating grace. For subsequent grace, inasmuch as it pertains to glory, is not numerically distinct from prevenient grace whereby we are at present justified. For even as the charity of the earth is not voided in heaven, so must the same be said of the light of grace, since the notion of neither implies imperfection.
 
 Reply to Objection 3: Although the effects of grace may be infinite in number, even as human acts are infinite, nevertheless all reduced to some of a determinate species, and moreover all coincide in this---that one precedes another.
-# Whether Gratuitous Grace Is Rightly Divided By The Apostle?
+## Whether Gratuitous Grace Is Rightly Divided By The Apostle?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that gratuitous grace is not rightly divided by the Apostle. For every gift vouchsafed to us by God, may be called a gratuitous grace. Now there are an infinite number of gifts freely bestowed on us by God as regards both the good of the soul and the good of the body---and yet they do not make us pleasing to God. Hence gratuitous graces cannot be contained under any certain division.
 
@@ -97,7 +97,7 @@ Objection 3: Further, the operation of healing, and speaking divers tongues are 
 
 Objection 4: Further, as wisdom and knowledge are gifts of the Holy Ghost, so also are understanding, counsel, piety, fortitude, and fear, as stated above ([2200]Q[68], A[4]). Therefore these also ought to be placed amongst the gratuitous gifts.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Cor. 12:8, 9, 10): "To one indeed by the Spirit is given the word of wisdom; and to another the word of knowledge, according to the same Spirit; to another, the working of miracles; to another, prophecy; to another, the discerning of spirits; to another divers kinds of tongues; to another interpretation of speeches."
 
@@ -109,7 +109,7 @@ Now the confirmation of such things as are within reason rests upon arguments; b
 
 But the capability of speaking can regard either the idiom in which a person can be understood, and thus there is "kinds of tongues"; or it can regard the sense of what is said, and thus there is the "interpretation of speeches."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above [2202](A[1]), not all the benefits divinely conferred upon us are called gratuitous graces, but only those that surpass the power of nature---e.g. that a fisherman should be replete with the word of wisdom and of knowledge and the like; and such as these are here set down as gratuitous graces.
 
@@ -118,9 +118,9 @@ Reply to Objection 2: Faith is enumerated here under the gratuitous graces, not 
 Reply to Objection 3: The grace of healing is distinguished from the general working of miracles because it has a special reason for inducing one to the faith, since a man is all the more ready to believe when he has received the gift of bodily health through the virtue of faith. So, too, to speak with divers tongues and to interpret speeches have special efficacy in bestowing faith. Hence they are set down as special gratuitous graces.
 
 Reply to Objection 4: Wisdom and knowledge are not numbered among the gratuitous graces in the same way as they are reckoned among the gifts of the Holy Ghost, i.e. inasmuch as man's mind is rendered easily movable by the Holy Ghost to the things of wisdom and knowledge; for thus they are gifts of the Holy Ghost, as stated above ([2203]Q[68], AA[1],4). But they are numbered amongst the gratuitous graces, inasmuch as they imply such a fullness of knowledge and wisdom that a man may not merely think aright of Divine things, but may instruct others and overpower adversaries. Hence it is significant that it is the "word" of wisdom and the "word" of knowledge that are placed in the gratuitous graces, since, as Augustine says (De Trin. xiv, 1), "It is one thing merely to know what a man must believe in order to reach everlasting life, and another thing to know how this may benefit the godly and may be defended against the ungodly."
-# Whether Gratuitous Grace Is Nobler Than Sanctifying Grace?
+## Whether Gratuitous Grace Is Nobler Than Sanctifying Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that gratuitous grace is nobler than sanctifying grace. For "the people's good is better than the individual good," as the Philosopher says (Ethic. i, 2). Now sanctifying grace is ordained to the good of one man alone, whereas gratuitous grace is ordained to the common good of the whole Church, as stated above ([2204]AA[1],4). Hence gratuitous grace is nobler than sanctifying grace.
 
@@ -128,13 +128,13 @@ Objection 2: Further, it is a greater power that is able to act upon another, th
 
 Objection 3: Further, what is proper to the best is nobler than what is common to all; thus to reason, which is proper to man is nobler than to feel, which is common to all animals. Now sanctifying grace is common to all members of the Church, but gratuitous grace is the proper gift of the more exalted members of the Church. Hence gratuitous grace is nobler than sanctifying grace.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle (1 Cor. 12:31), having enumerated the gratuitous graces adds: "And I shew unto you yet a more excellent way"; and as the sequel proves he is speaking of charity, which pertains to sanctifying grace. Hence sanctifying grace is more noble than gratuitous grace.
 
 I answer that, The higher the good to which a virtue is ordained, the more excellent is the virtue. Now the end is always greater than the means. But sanctifying grace ordains a man immediately to a union with his last end, whereas gratuitous grace ordains a man to what is preparatory to the end; i.e. by prophecy and miracles and so forth, men are induced to unite themselves to their last end. And hence sanctifying grace is nobler than gratuitous grace.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the Philosopher says (Metaph. xii, text. 52), a multitude, as an army, has a double good; the first is in the multitude itself, viz. the order of the army; the second is separate from the multitude, viz. the good of the leader---and this is better good, since the other is ordained to it. Now gratuitous grace is ordained to the common good of the Church, which is ecclesiastical order, whereas sanctifying grace is ordained to the separate common good, which is God. Hence sanctifying grace is the nobler.
 

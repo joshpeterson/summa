@@ -5,9 +5,9 @@ We have now to consider the number of the sacraments: and concerning this there 
 (2) The order of the sacraments among themselves;
 (3) Their mutual comparison;
 (4) Whether all the sacraments are necessary for salvation?
-# Whether There Should Be Seven Sacraments?
+## Whether There Should Be Seven Sacraments?
 
-## Objections
+### Objections
 
 Objection 1: It seems that there ought not to be seven sacraments. For the sacraments derive their efficacy from the Divine power, and the power of Christ's Passion. But the Divine power is one, and Christ's Passion is one; since "by one oblation He hath perfected for ever them that are sanctified" (Heb. 10:14). Therefore there should be but one sacrament.
 
@@ -25,7 +25,7 @@ Objection 7: Further, Hugh of St. Victor (De Sacram. i) says that the sacraments
 
 Objection 8: Further, there are three kinds of sin, original, mortal and venial. Now Baptism is intended as a remedy against original sin, and Penance against mortal sin. Therefore besides the seven sacraments, there should be another against venial sin.
 
-## Answer
+### Answer
 
 
 
@@ -41,7 +41,7 @@ We may likewise gather the number of the sacraments from their being instituted 
 
 Some, again, gather the number of sacraments from a certain adaptation to the virtues and to the defects and penal effects resulting from sin. They say that Baptism corresponds to Faith, and is ordained as a remedy against original sin; Extreme Unction, to Hope, being ordained against venial sin; the Eucharist, to Charity, being ordained against the penal effect which is malice. order, to Prudence, being ordained against ignorance; Penance to Justice, being ordained against mortal sin; Matrimony, to Temperance, being ordained against concupiscence; Confirmation, to Fortitude, being ordained against infirmity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The same principal agent uses various instruments unto various effects, in accordance with the thing to be done. In the same way the Divine power and the Passion of Christ work in us through the various sacraments as through various instruments.
 
@@ -58,9 +58,9 @@ Reply to Objection 6: Holy Water and other consecrated things are not called sac
 Reply to Objection 7: Oblations and tithes, both the Law of nature and in the Law of Moses, ere ordained not only for the sustenance of the ministers and the poor, but also figuratively; and consequently they were sacraments. But now they remain no longer as figures, and therefore they are not sacraments.
 
 Reply to Objection 8: The infusion of grace is not necessary for the blotting out of venial sin. Wherefore, since grace is infused in each of the sacraments of the New Law, none of them was instituted directly against venial sin. This is taken away by certain sacramentals, for instance, Holy Water and such like. Some, however, hold that Extreme Unction is ordained against venial sin. But of this we shall speak in its proper place ([4409]XP, Q[30], A[1]).
-# Whether The Order Of The Sacraments, As Given Above, Is Becoming?
+## Whether The Order Of The Sacraments, As Given Above, Is Becoming?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the order of the sacraments as given above is unbecoming. For according to the Apostle (1 Cor. 15:46), "that was . . . first . . . which is natural, afterwards that which is spiritual." But man is begotten through Matrimony by a first and natural generation; while in Baptism he is regenerated as by a second and spiritual generation. Therefore Matrimony should precede Baptism.
 
@@ -72,7 +72,7 @@ Objection 4: Further, Penance prepares man for the Eucharist. But a disposition 
 
 Objection 5: Further, that which is nearer the last end comes after other things. But, of all the sacraments, Extreme Unction is nearest to the last end which is Happiness. Therefore it should be placed last among the sacraments.
 
-## Answer
+### Answer
 
 On the contrary, The order of the sacraments, as given above, is commonly adopted by all.
 
@@ -80,7 +80,7 @@ I answer that, The reason of the order among the sacraments appears from what ha
 
 Of the remaining three, it is clear that Baptism which is a spiritual regeneration, comes first; then Confirmation, which is ordained to the formal perfection of power; and after these the Eucharist which is ordained to final perfection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Matrimony as ordained to natural life is a function of nature. But in so far as it has something spiritual it is a sacrament. And because it has the least amount of spirituality it is placed last.
 
@@ -91,9 +91,9 @@ Reply to Objection 3: Nourishment both precedes growth, as its cause; and follow
 Reply to Objection 4: This argument would hold if Penance were required of necessity as a preparation to the Eucharist. But this is not true: for if anyone be without mortal sin, he does not need Penance in order to receive the Eucharist. Thus it is clear that Penance is an accidental preparation to the Eucharist, that is to say, sin being supposed. Wherefore it is written in the last chapter of the second Book of Paralipomenon (cf. 2 Paral 33:18): "Thou, O Lord of the righteous, didst not impose penance on righteous men." [*The words quoted are from the apocryphal Prayer of Manasses, which, before the Council of Trent, was to be found inserted in some Latin copies of the Bible.]
 
 Reply to Objection 5: Extreme Unction, for this very reason, is given the last place among those sacraments which are ordained to the perfection of the individual.
-# Whether The Eucharist Is The Greatest Of The Sacraments?
+## Whether The Eucharist Is The Greatest Of The Sacraments?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the Eucharist is not the principal of the sacraments. For the common good is of more account than the good of the individual (1 Ethic. ii). But Matrimony is ordained to the common good of the human race by means of generation: whereas the sacrament of the Eucharist is ordained to the private good of the recipient. Therefore it is not the greatest of the sacraments.
 
@@ -103,7 +103,7 @@ Objection 3: Further, those sacraments are greater that have the greater power. 
 
 Objection 4: Further, that seems to be greater, on which others depend without its depending on them. But the Eucharist depends on Baptism: since no one can receive the Eucharist except he has been baptized. Therefore Baptism is greater than the Eucharist.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Eccl. Hier. iii) that "No one receives hierarchical perfection save by the most God-like Eucharist." Therefore this sacrament is greater than all the others and perfects them.
 
@@ -115,7 +115,7 @@ Thirdly, this is made clear by considering the rites of the sacraments. For near
 
 The remaining sacraments may be compared to one another in several ways. For on the ground of necessity, Baptism is the greatest of the sacraments; while from the point of view of perfection, order comes first; while Confirmation holds a middle place. The sacraments of Penance and Extreme Unction are on a degree inferior to those mentioned above; because, as stated above [4412](A[2]), they are ordained to the Christian life, not directly, but accidentally, as it were, that is to say, as remedies against supervening defects. And among these, Extreme Unction is compared to Penance, as Confirmation to Baptism; in such a way, that Penance is more necessary, whereas Extreme Unction is more perfect.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Matrimony is ordained to the common good as regards the body. But the common spiritual good of the whole Church is contained substantially in the sacrament itself of the Eucharist.
 
@@ -124,9 +124,9 @@ Reply to Objection 2: By order and Confirmation the faithful of Christ are deput
 Reply to Objection 3: The sacramental character, as stated above ([4413]Q[63], A[3]), is a kind of participation in Christ's priesthood. Wherefore the sacrament that unites man to Christ Himself, is greater than a sacrament that imprints Christ's character.
 
 Reply to Objection 4: This argument proceeds on the ground of necessity. For thus Baptism, being of the greatest necessity, is the greatest of the sacraments, just as order and Confirmation have a certain excellence considered in their administration; and Matrimony by reason of its signification. For there is no reason why a thing should not be greater from a certain point of view which is not greater absolutely speaking.
-# Whether All The Sacraments Are Necessary For Salvation?
+## Whether All The Sacraments Are Necessary For Salvation?
 
-## Objections
+### Objections
 
 Objection 1: It seems that all the sacraments are necessary for salvation. For what is not necessary seems to be superfluous. But no sacrament is superfluous, because "God does nothing without a purpose" (De Coelo et Mundo i). Therefore all the sacraments are necessary for salvation.
 
@@ -134,7 +134,7 @@ Objection 2: Further, just as it is said of Baptism (Jn. 3:5): "Unless a man be 
 
 Objection 3: Further, a man can be saved without the sacrament of Baptism, provided that some unavoidable obstacle, and not his contempt for religion, debar him from the sacrament, as we shall state further on ([4414]Q[68], A[2]). But contempt of religion in any sacrament is a hindrance to salvation. Therefore, in like manner, all the sacraments are necessary for salvation.
 
-## Answer
+### Answer
 
 On the contrary, Children are saved by Baptism alone without the other sacraments.
 
@@ -144,7 +144,7 @@ In the first way, three sacraments are necessary for salvation. Two of them are 
 
 But in the second way the other sacraments are necessary. For in a sense Confirmation perfects Baptism; Extreme Unction perfects Penance; while Matrimony, by multiplying them, preserves the numbers in the Church.
 
-## Replies
+### Replies
 
 Reply to Objection 1: For a thing not to be superfluous it is enough if it be necessary either in the first or the second way. It is thus that the sacraments are necessary, as stated above.
 

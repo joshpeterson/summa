@@ -4,47 +4,47 @@ We must next consider the relations of the saints towards the damned. Under this
 (1) Whether the saints see the sufferings of the damned?
 (2) Whether they pity them?
 (3) Whether they rejoice in their sufferings?
-# Whether The Blessed In Heaven Will See The Sufferings Of The Damned?
+## Whether The Blessed In Heaven Will See The Sufferings Of The Damned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the blessed in heaven will not see the sufferings of the damned. For the damned are more cut off from the blessed than wayfarers. But the blessed do not see the deeds of wayfarers: wherefore a gloss on Is. 63:16, "Abraham hath not known us," says: "The dead, even the saints, know not what the living, even their own children, are doing" [*St. Augustine, De cura pro mortuis xiii, xv]. Much less therefore do they see the sufferings of the damned.
 
 Objection 2: Further, perfection of vision depends on the perfection of the visible object: wherefore the Philosopher says (Ethic. x, 4) that "the most perfect operation of the sense of sight is when the sense is most disposed with reference to the most beautiful of the objects which fall under the sight." Therefore, on the other hand, any deformity in the visible object redounds to the imperfection of the sight. But there will be no imperfection in the blessed. Therefore they will not see the sufferings of the damned wherein there is extreme deformity.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 66:24): "They shall go out and see the carcasses of the men that have transgressed against Me"; and a gloss says: "The elect will go out by understanding or seeing manifestly, so that they may be urged the more to praise God."
 
 I answer that, Nothing should be denied the blessed that belongs to the perfection of their beatitude. Now everything is known the more for being compared with its contrary, because when contraries are placed beside one another they become more conspicuous. Wherefore in order that the happiness of the saints may be more delightful to them and that they may render more copious thanks to God for it, they are allowed to see perfectly the sufferings of the damned.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This gloss speaks of what the departed saints are able to do by nature: for it is not necessary that they should know by natural knowledge all that happens to the living. But the saints in heaven know distinctly all that happens both to wayfarers and to the damned. Hence Gregory says (Moral. xii) that Job's words (14:21), "'Whether his children come to honour or dishonour, he shall not understand,' do not apply to the souls of the saints, because since they possess the glory of God within them, we cannot believe that external things are unknown to them." [*Concerning this Reply, Cf. [5136]FP, Q[89], A[8]].
 
 Reply to Objection 2: Although the beauty of the thing seen conduces to the perfection of vision, there may be deformity of the thing seen without imperfection of vision: because the images of things whereby the soul knows contraries are not themselves contrary. Wherefore also God Who has most perfect knowledge sees all things, beautiful and deformed.
-# Whether The Blessed Pity The Unhappiness Of The Damned?
+## Whether The Blessed Pity The Unhappiness Of The Damned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the blessed pity the unhappiness of the damned. For pity proceeds from charity [*Cf. SS, Q[30]]; and charity will be most perfect in the blessed. Therefore they will most especially pity the sufferings of the damned.
 
 Objection 2: Further, the blessed will never be so far from taking pity as God is. Yet in a sense God compassionates our afflictions, wherefore He is said to be merciful.
 
-## Answer
+### Answer
 
 On the contrary, Whoever pities another shares somewhat in his unhappiness. But the blessed cannot share in any unhappiness. Therefore they do not pity the afflictions of the damned.
 
 I answer that, Mercy or compassion may be in a person in two ways: first by way of passion, secondly by way of choice. In the blessed there will be no passion in the lower powers except as a result of the reason's choice. Hence compassion or mercy will not be in them, except by the choice of reason. Now mercy or compassion comes of the reason's choice when a person wishes another's evil to be dispelled: wherefore in those things which, in accordance with reason, we do not wish to be dispelled, we have no such compassion. But so long as sinners are in this world they are in such a state that without prejudice to the Divine justice they can be taken away from a state of unhappiness and sin to a state of happiness. Consequently it is possible to have compassion on them both by the choice of the will---in which sense God, the angels and the blessed are said to pity them by desiring their salvation---and by passion, in which way they are pitied by the good men who are in the state of wayfarers. But in the future state it will be impossible for them to be taken away from their unhappiness: and consequently it will not be possible to pity their sufferings according to right reason. Therefore the blessed in glory will have no pity on the damned.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Charity is the principle of pity when it is possible for us out of charity to wish the cessation of a person's unhappiness. But the saints cannot desire this for the damned, since it would be contrary to Divine justice. Consequently the argument does not prove.
 
 Reply to Objection 2: God is said to be merciful, in so far as He succors those whom it is befitting to be released from their afflictions in accordance with the order of wisdom and justice: not as though He pitied the damned except perhaps in punishing them less than they deserve.
-# Whether The Blessed Rejoice In The Punishment Of The Wicked?
+## Whether The Blessed Rejoice In The Punishment Of The Wicked?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the blessed do not rejoice in the punishment of the wicked. For rejoicing in another's evil pertains to hatred. But there will be no hatred in the blessed. Therefore they will not rejoice in the unhappiness of the damned.
 
@@ -52,13 +52,13 @@ Objection 2: Further, the blessed in heaven will be in the highest degree confor
 
 Objection 3: Further, that which is blameworthy in a wayfarer has no place whatever in a comprehensor. Now it is most reprehensible in a wayfarer to take pleasure in the pains of others, and most praiseworthy to grieve for them. Therefore the blessed nowise rejoice in the punishment of the damned.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 57:11): "The just shall rejoice when he shall see the revenge."
 
 I answer that, A thing may be a matter of rejoicing in two ways. First directly, when one rejoices in a thing as such: and thus the saints will not rejoice in the punishment of the wicked. Secondly, indirectly, by reason namely of something annexed to it: and in this way the saints will rejoice in the punishment of the wicked, by considering therein the order of Divine justice and their own deliverance, which will fill them with joy. And thus the Divine justice and their own deliverance will be the direct cause of the joy of the blessed: while the punishment of the damned will cause it indirectly.
 
-## Replies
+### Replies
 
 Reply to Objection 1: To rejoice in another's evil as such belongs to hatred, but not to rejoice in another's evil by reason of something annexed to it. Thus a person sometimes rejoices in his own evil as when we rejoice in our own afflictions, as helping us to merit life: "My brethren, count it all joy when you shall fall into divers temptations" (James 1:2).
 

@@ -4,9 +4,9 @@ In the next place we must consider things connected with and accompanying the re
 (1) Whether there is to be a resurrection of the body?
 (2) Whether it is universally of all bodies?
 (3) Whether it is natural or miraculous?
-# Whether There Is To Be A Resurrection Of The Body?
+## Whether There Is To Be A Resurrection Of The Body?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is not to be a resurrection of the body: for it is written (Job 14:12): "Man, when he is fallen asleep, shall not rise again till the heavens be broken." But the heavens shall never be broken, since the earth, to which seemingly this is still less applicable, "standeth for ever" (Eccles. 1:4). Therefore the man that is dead shall never rise again.
 
@@ -18,7 +18,7 @@ Objection 4: Further, the last state of a thing is the most perfect, since there
 
 Objection 5: Further, bodily death is the punishment inflicted on man for his own transgression, as appears from Gn. 2, even as spiritual death, which is the separation of the soul from God, is inflicted on man for mortal sin. Now man never returns to life from spiritual death after receiving the sentence of his damnation. Therefore neither will there be any return from bodily death to bodily life, and so there will be no resurrection.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Job 19:25-26): "I know that my Redeemer liveth, and in the last day I shall rise out of the earth, and I shall be clothed again with my skin," etc. Therefore there will be a resurrection of the body.
 
@@ -32,7 +32,7 @@ This opinion was based by various people on various false foundations. For certa
 
 Others said that the entire nature of man is seated in the soul, so that the soul makes use of the body as an instrument, or as a sailor uses his ship: wherefore according to this opinion, it follows that if happiness is attained by the soul alone, man would not be balked in his natural desire for happiness, and so there is no need to hold the resurrection. But the Philosopher sufficiently destroys this foundation (De Anima ii, 2), where he shows that the soul is united to the body as form to matter. Hence it is clear that if man cannot be happy in this life, we must of necessity hold the resurrection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The heavens will never be broken as to their substance, but as to the effect of their power whereby their movement is the cause of generation and corruption of lower things: for this reason the Apostle says (1 Cor. 7:31): "The fashion of this world passeth away."
 
@@ -43,9 +43,9 @@ Reply to Objection 3: The soul is compared to the body, not only as a worker to 
 Reply to Objection 4: Other things being equal, the state of the soul in the body is more perfect than outside the body, because it is a part of the whole composite; and every integral part is material in comparison to the whole: and though it were conformed to God in one respect, it is not simply. Because, strictly speaking, a thing is more conformed to God when it has all that the condition of its nature requires, since then most of all it imitates the Divine perfection. Hence the heart of an animal is more conformed to an immovable God when it is in movement than when it is at rest, because the perfection of the heart is in its movement, and its rest is its undoing.
 
 Reply to Objection 5: Bodily death was brought about by Adam's sin which was blotted out by Christ's death: hence its punishment lasts not for ever. But mortal sin which causes everlasting death through impenitence will not be expiated hereafter. Hence that death will be everlasting.
-# Whether The Resurrection Will Be For All Without Exception?
+## Whether The Resurrection Will Be For All Without Exception?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the resurrection will not be for all without exception. For it is written (Ps. 1:5): "The wicked shall not rise again in judgment." Now men will not rise again except at the time of the general judgment. Therefore the wicked shall in no way rise again.
 
@@ -57,13 +57,13 @@ Objection 4: Further, punishment is not remitted unless the fault be condoned. N
 
 Objection 5: Further, as we are born again by the grace of Christ, even so shall we rise again by His grace. Now those who die in their mother's womb can never be born again: therefore neither can they rise again, and consequently all will not rise again.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Jn. 5:28, 25): "All that are in the graves shall hear the voice of the Son of God . . . and they that hear shall live." Therefore the dead shall all rise again.
 
 I answer that, Those things, the reason of which comes from the nature of a species, must needs be found likewise in all the members of that same species. Now such is the resurrection: because the reason thereof, as stated above [5058](A[1]), is that the soul cannot have the final perfection of the human species, so long as it is separated from the body. Hence no soul will remain for ever separated from the body. Therefore it is necessary for all, as well as for one, to rise again.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As a gloss expounds these words, they refer to the spiritual resurrection whereby the wicked shall not rise again in the particular judgment. or else they refer to the wicked who are altogether unbelievers, who will not rise again to be judged, since they are already judged [*Jn. 3:18].
 
@@ -74,9 +74,9 @@ Reply to Objection 3: All, both good and wicked, are conformed to Christ, while 
 Reply to Objection 4: Those who have died in original sin have, by dying, discharged the obligation of death which is the punishment of original sin. Hence, notwithstanding original sin, they can rise again from death: for the punishment of original sin is to die, rather than to be detained by death.
 
 Reply to Objection 5: We are born again by the grace of Christ that is given to us, but we rise again by the grace of Christ whereby it came about that He took our nature, since it is by this that we are conformed to Him in natural things. Hence those who die in their mother's womb, although they are not born again by receiving grace, will nevertheless rise again on account of the conformity of their nature with Him, which conformity they acquired by attaining to the perfection of the human species.
-# Whether The Resurrection Is Natural?
+## Whether The Resurrection Is Natural?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the resurrection is natural. For, as the Damascene says (De Fide Orth. iii, 14), "that which is commonly observed in all, marks the nature of the individuals contained under it." Now resurrection applies commonly to all. Therefore it is natural.
 
@@ -88,7 +88,7 @@ Objection 4: Further, that to which the entire expectation of nature looks forwa
 
 Objection 5: Further, the resurrection is a kind of movement towards the everlasting union of soul and body. Now movement is natural if it terminate in a natural rest (Phys. v, 6): and the everlasting union of soul and body will be natural, for since the soul is the body's proper mover, it has a body proportionate to it: so that the body is likewise for ever capable of being quickened by it, even as the soul lives for ever. Therefore the resurrection will be natural.
 
-## Answer
+### Answer
 
 On the contrary, There is no natural return from privation to habit. But death is privation of life. Therefore the resurrection whereby one returns from death to life is not natural.
 
@@ -98,7 +98,7 @@ Accordingly the action or movement that is related to nature in the first way ca
 
 Now nature cannot be the principle of resurrection, although resurrection terminates in the life of nature. For nature is the principle of movement in the thing wherein nature is---either the active principle, as in the movement of heavy and light bodies and in the natural alterations of animals---or the passive principle, as in the generation of simple bodies. The passive principle of natural generation is the natural passive potentiality which always has an active principle corresponding to it in nature, according to Metaphysics viii, 1: nor as to this does it matter whether the active principle in nature correspond to the passive principle in respect of its ultimate perfection, namely the form; or in respect of a disposition in virtue of which it demands the ultimate form, as in the generation of a man according to the teaching of faith, or in all other generations according to the opinions of Plato and Avicenna. But in nature there is no active principle of the resurrection, neither as regards the union of the soul with the body, nor as regards the disposition which is the demand for that union: since such a disposition cannot be produced by nature, except in a definite way by the process of generation from seed. Wherefore even granted a passive potentiality on the part of the body, or any kind of inclination to its union with the soul, it is not such as to suffice for the conditions of natural movement. Therefore the resurrection, strictly speaking, is miraculous and not natural except in a restricted sense, as we have explained.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Damascene is speaking of those things that are found in all individuals and are caused by the principles of nature. For supposing by a divine operation all men to be made white, or to be gathered together in one place, as happened at the time of the deluge, it would not follow that whiteness or existence in some particular place is a natural property of man.
 

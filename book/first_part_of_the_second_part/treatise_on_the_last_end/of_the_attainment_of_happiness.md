@@ -9,9 +9,9 @@ We must now consider the attainment of Happiness. Under this heading there are e
 (6) Whether man attains Happiness through the action of some higher creature?
 (7) Whether any actions of man are necessary in order that man may obtain Happiness of God?
 (8) Whether every man desires Happiness?
-# Whether Man Can Attain Happiness?
+## Whether Man Can Attain Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man cannot attain happiness. For just as the rational is above the sensible nature, so the intellectual is above the rational, as Dionysius declares (Div. Nom. iv, vi, vii) in several passages. But irrational animals that have the sensitive nature only, cannot attain the end of the rational nature. Therefore neither can man, who is of rational nature, attain the end of the intellectual nature, which is Happiness.
 
@@ -19,22 +19,22 @@ Objection 2: Further, True Happiness consists in seeing God, Who is pure Truth. 
 
 Objection 3: Further, Happiness consists in attaining the Sovereign Good. But we cannot arrive at the top without surmounting the middle. Since, therefore, the angelic nature through which man cannot mount is midway between God and human nature; it seems that he cannot attain Happiness.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 93:12): "Blessed is the man whom Thou shalt instruct, O Lord."
 
 I answer that, Happiness is the attainment of the Perfect Good. Whoever, therefore, is capable of the Perfect Good can attain Happiness. Now, that man is capable of the Perfect Good, is proved both because his intellect can apprehend the universal and perfect good, and because his will can desire it. And therefore man can attain Happiness. This can be proved again from the fact that man is capable of seeing God, as stated in [1028]FP, Q[12], A[1]: in which vision, as we stated above (Q[3], A[8]) man's perfect Happiness consists.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The rational exceeds the sensitive nature, otherwise than the intellectual surpasses the rational. For the rational exceeds the sensitive nature in respect of the object of its knowledge: since the senses have no knowledge whatever of the universal, whereas the reason has knowledge thereof. But the intellectual surpasses the rational nature, as to the mode of knowing the same intelligible truth: for the intellectual nature grasps forthwith the truth which the rational nature reaches by the inquiry of reason, as was made clear in the [1029]FP, Q[58], A[3]; [1030]FP, Q[79], A[8]. Therefore reason arrives by a kind of movement at that which the intellect grasps. Consequently the rational nature can attain Happiness, which is the perfection of the intellectual nature: but otherwise than the angels. Because the angels attained it forthwith after the beginning of their creation: whereas man attains if after a time. But the sensitive nature can nowise attain this end.
 
 Reply to Objection 2: To man in the present state of life the natural way of knowing intelligible truth is by means of phantasms. But after this state of life, he has another natural way, as was stated in the [1031]FP, Q[84], A[7] ; [1032]FP, Q[89], A[1].
 
 Reply to Objection 3: Man cannot surmount the angels in the degree of nature so as to be above them naturally. But he can surmount them by an operation of the intellect, by understanding that there is above the angels something that makes men happy; and when he has attained it, he will be perfectly happy.
-# Whether One Man Can Be Happier Than Another?
+## Whether One Man Can Be Happier Than Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one man cannot be happier than another. For Happiness is "the reward of virtue," as the Philosopher says (Ethic. i, 9). But equal reward is given for all the works of virtue; because it is written (Mat. 20:10) that all who labor in the vineyard "received every man a penny"; for, as Gregory says (Hom. xix in Evang.), "each was equally rewarded with eternal life." Therefore one man cannot be happier than another.
 
@@ -42,22 +42,22 @@ Objection 2: Further, Happiness is the supreme good. But nothing can surpass the
 
 Objection 3: Further, since Happiness is "the perfect and sufficient good" (Ethic. i, 7) it brings rest to man's desire. But his desire is not at rest, if he yet lacks some good that can be got. And if he lack nothing that he can get, there can be no still greater good. Therefore either man is not happy; or, if he be happy, no other Happiness can be greater.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 14:2): "In My Father's house there are many mansions"; which, according to Augustine (Tract. lxvii in Joan.) signify "the diverse dignities of merits in the one eternal life." But the dignity of eternal life which is given according to merit, is Happiness itself. Therefore there are diverse degrees of Happiness, and Happiness is not equally in all.
 
 I answer that, As stated above ([1033]Q[1], A[8];[1034] Q[2], A[7]), Happiness implies two things, to wit, the last end itself, i.e. the Sovereign Good; and the attainment or enjoyment of that same Good. As to that Good itself, Which is the object and cause of Happiness, one Happiness cannot be greater than another, since there is but one Sovereign Good, namely, God, by enjoying Whom, men are made happy. But as to the attainment or enjoyment of this Good, one man can be happier than another; because the more a man enjoys this Good the happier he is. Now, that one man enjoys God more than another, happens through his being better disposed or ordered to the enjoyment of Him. And in this sense one man can be happier than another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The one penny signifies that Happiness is one in its object. But the many mansions signify the manifold Happiness in the divers degrees of enjoyment.
 
 Reply to Objection 2: Happiness is said to be the supreme good, inasmuch as it is the perfect possession or enjoyment of the Supreme Good.
 
 Reply to Objection 3: None of the Blessed lacks any desirable good; since they have the Infinite Good Itself, Which is "the good of all good," as Augustine says (Enarr. in Ps. 134). But one is said to be happier than another, by reason of diverse participation of the same good. And the addition of other goods does not increase Happiness, since Augustine says (Confess. v, 4): "He who knows Thee, and others besides, is not the happier for knowing them, but is happy for knowing Thee alone."
-# Whether One Can Be Happy In This Life?
+## Whether One Can Be Happy In This Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Happiness can be had in this life. For it is written (Ps. 118:1): "Blessed are the undefiled in the way, who walk in the law of the Lord." But this happens in this life. Therefore one can be happy in this life.
 
@@ -65,7 +65,7 @@ Objection 2: Further, imperfect participation in the Sovereign Good does not des
 
 Objection 3: Further, what is said by many cannot be altogether false: since what is in many, comes, apparently, from nature; and nature does not fail altogether. Now many say that Happiness can be had in this life, as appears from Ps. 143:15: "They have called the people happy that hath these things," to wit, the good things in this life. Therefore one can be happy in this life.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Job 14:1): "Man born of a woman, living for a short time, is filled with many miseries." But Happiness excludes misery. Therefore man cannot be happy in this life.
 
@@ -75,16 +75,16 @@ First, from the general notion of happiness. For since happiness is a "perfect a
 
 Secondly, from a consideration of the specific nature of Happiness, viz. the vision of the Divine Essence, which man cannot obtain in this life, as was shown in the [1035]FP, Q[12], A[11]. Hence it is evident that none can attain true and perfect Happiness in this life.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some are said to be happy in this life, either on account of the hope of obtaining Happiness in the life to come, according to Rom. 8:24: "We are saved by hope"; or on account of a certain participation of Happiness, by reason of a kind of enjoyment of the Sovereign Good.
 
 Reply to Objection 2: The imperfection of participated Happiness is due to one of two causes. First, on the part of the object of Happiness, which is not seen in Its Essence: and this imperfection destroys the nature of true Happiness. Secondly, the imperfection may be on the part of the participator, who indeed attains the object of Happiness, in itself, namely, God: imperfectly, however, in comparison with the way in which God enjoys Himself. This imperfection does not destroy the true nature of Happiness; because, since Happiness is an operation, as stated above ([1036]Q[3], A[2]), the true nature of Happiness is taken from the object, which specifies the act, and not from the subject.
 
 Reply to Objection 3: Men esteem that there is some kind of happiness to be had in this life, on account of a certain likeness to true Happiness. And thus they do not fail altogether in their estimate.
-# Whether Happiness Once Had Can Be Lost?
+## Whether Happiness Once Had Can Be Lost?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Happiness can be lost. For Happiness is a perfection. But every perfection is in the thing perfected according to the mode of the latter. Since then man is, by his nature, changeable, it seems that Happiness is participated by man in a changeable manner. And consequently it seems that man can lose Happiness.
 
@@ -92,7 +92,7 @@ Objection 2: Further, Happiness consists in an act of the intellect; and the int
 
 Objection 3: Further, the end corresponds to the beginning. But man's Happiness has a beginning, since man was not always happy. Therefore it seems that it has an end.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 25:46) of the righteous that "they shall god . . . into life everlasting," which, as above stated [1037](A[2]), is the Happiness of the saints. Now what is eternal ceases not. Therefore Happiness cannot be lost.
 
@@ -106,16 +106,16 @@ This, however, is evidently false, for two reasons. First, from the general noti
 
 Secondly, it is again evident if we consider the specific nature of Happiness. For it has been shown above ([1038]Q[3], A[8]) that man's perfect Happiness consists in the vision of the Divine Essence. Now it is impossible for anyone seeing the Divine Essence, to wish not to see It. Because every good that one possesses and yet wishes to be without, is either insufficient, something more sufficing being desired in its stead; or else has some inconvenience attached to it, by reason of which it becomes wearisome. But the vision of the Divine Essence fills the soul with all good things, since it unites it to the source of all goodness; hence it is written (Ps. 16:15): "I shall be satisfied when Thy glory shall appear"; and (Wis. 7:11): "All good things came to me together with her," i.e. with the contemplation of wisdom. In like manner neither has it any inconvenience attached to it; because it is written of the contemplation of wisdom (Wis. 8:16): "Her conversation hath no bitterness, nor her company any tediousness." It is thus evident that the happy man cannot forsake Happiness of his own accord. Moreover, neither can he lose Happiness, through God taking it away from him. Because, since the withdrawal of Happiness is a punishment, it cannot be enforced by God, the just Judge, except for some fault; and he that sees God cannot fall into a fault, since rectitude of the will, of necessity, results from that vision as was shown above ([1039]Q[4], A[4]). Nor again can it be withdrawn by any other agent. Because the mind that is united to God is raised above all other things: and consequently no other agent can sever the mind from that union. Therefore it seems unreasonable that as time goes on, man should pass from happiness to misery, and vice versa; because such like vicissitudes of time can only be for such things as are subject to time and movement.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Happiness is consummate perfection, which excludes every defect from the happy. And therefore whoever has happiness has it altogether unchangeably: this is done by the Divine power, which raises man to the participation of eternity which transcends all change.
 
 Reply to Objection 2: The will can be directed to opposites, in things which are ordained to the end; but it is ordained, of natural necessity, to the last end. This is evident from the fact that man is unable not to wish to be happy.
 
 Reply to Objection 3: Happiness has a beginning owing to the condition of the participator: but it has no end by reason of the condition of the good, the participation of which makes man happy. Hence the beginning of happiness is from one cause, its endlessness is from another.
-# Whether Man Can Attain Happiness By His Natural Powers?
+## Whether Man Can Attain Happiness By His Natural Powers?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man can attain Happiness by his natural powers. For nature does not fail in necessary things. But nothing is so necessary to man as that by which he attains the last end. Therefore this is not lacking to human nature. Therefore man can attain Happiness by his natural powers.
 
@@ -123,22 +123,22 @@ Objection 2: Further, since man is more noble than irrational creatures, it seem
 
 Objection 3: Further, Happiness is a "perfect operation," according to the Philosopher (Ethic. vii, 13). Now the beginning of a thing belongs to the same principle as the perfecting thereof. Since, therefore, the imperfect operation, which is as the beginning in human operations, is subject to man's natural power, whereby he is master of his own actions; it seems that he can attain to perfect operation, i.e. Happiness, by his natural powers.
 
-## Answer
+### Answer
 
 On the contrary, Man is naturally the principle of his action, by his intellect and will. But final Happiness prepared for the saints, surpasses the intellect and will of man; for the Apostle says (1 Cor. 2:9) "Eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love Him." Therefore man cannot attain Happiness by his natural powers.
 
 I answer that, Imperfect happiness that can be had in this life, can be acquired by man by his natural powers, in the same way as virtue, in whose operation it consists: on this point we shall speak further on (Q[63]). But man's perfect Happiness, as stated above (Q[3], A[8]), consists in the vision of the Divine Essence. Now the vision of God's Essence surpasses the nature not only of man, but also of every creature, as was shown in the [1040]FP, Q[12], A[4]. For the natural knowledge of every creature is in keeping with the mode of his substance: thus it is said of the intelligence (De Causis; Prop. viii) that "it knows things that are above it, and things that are below it, according to the mode of its substance." But every knowledge that is according to the mode of created substance, falls short of the vision of the Divine Essence, which infinitely surpasses all created substance. Consequently neither man, nor any creature, can attain final Happiness by his natural powers.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as nature does not fail man in necessaries, although it has not provided him with weapons and clothing, as it provided other animals, because it gave him reason and hands, with which he is able to get these things for himself; so neither did it fail man in things necessary, although it gave him not the wherewithal to attain Happiness: since this it could not do. But it did give him free-will, with which he can turn to God, that He may make him happy. "For what we do by means of our friends, is done, in a sense, by ourselves" (Ethic. iii, 3).
 
 Reply to Objection 2: The nature that can attain perfect good, although it needs help from without in order to attain it, is of more noble condition than a nature which cannot attain perfect good, but attains some imperfect good, although it need no help from without in order to attain it, as the Philosopher says (De Coel. ii, 12). Thus he is better disposed to health who can attain perfect health, albeit by means of medicine, than he who can attain but imperfect health, without the help of medicine. And therefore the rational creature, which can attain the perfect good of happiness, but needs the Divine assistance for the purpose, is more perfect than the irrational creature, which is not capable of attaining this good, but attains some imperfect good by its natural powers.
 
 Reply to Objection 3: When imperfect and perfect are of the same species, they can be caused by the same power. But this does not follow of necessity, if they be of different species: for not everything, that can cause the disposition of matter, can produce the final perfection. Now the imperfect operation, which is subject to man's natural power, is not of the same species as that perfect operation which is man's happiness: since operation takes its species from its object. Consequently the argument does not prove.
-# Whether Man Attains Happiness Through The Action Of Some Higher Creature?
+## Whether Man Attains Happiness Through The Action Of Some Higher Creature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that man can be made happy through the action of some higher creature, viz. an angel. For since we observe a twofold order in things---one, of the parts of the universe to one another, the other, of the whole universe to a good which is outside the universe; the former order is ordained to the second as to its end (Metaph. xii, 10). Thus the mutual order of the parts of an army is dependent on the order of the parts of an army is dependent on the order of the whole army to the general. But the mutual order of the parts of the universe consists in the higher creatures acting on the lower, as stated in the [1041]FP, Q[109], A[2]: while happiness consists in the order of man to a good which is outside the universe, i.e. God. Therefore man is made happy, through a higher creature, viz. an angel, acting on him.
 
@@ -146,22 +146,22 @@ Objection 2: Further, that which is such in potentiality, can be reduced to act,
 
 Objection 3: Further, Happiness consists in an operation of the intellect as stated above (Q[3], A[4]). But an angel can enlighten man's intellect as shown in the [1042]FP, Q[111], A[1]. Therefore an angel can make a man happy.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 83:12): "The Lord will give grace and glory."
 
 I answer that, Since every creature is subject to the laws of nature, from the very fact that its power and action are limited: that which surpasses created nature, cannot be done by the power of any creature. Consequently if anything need to be done that is above nature, it is done by God immediately; such as raising the dead to life, restoring sight to the blind, and such like. Now it has been shown above [1043](A[5]) that Happiness is a good surpassing created nature. Therefore it is impossible that it be bestowed through the action of any creature: but by God alone is man made happy, if we speak of perfect Happiness. If, however, we speak of imperfect happiness, the same is to be said of it as of the virtue, in whose act it consists.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It often happens in the case of active powers ordained to one another, that it belongs to the highest power to reach the last end, while the lower powers contribute to the attainment of that last end, by causing a disposition thereto: thus to the art of sailing, which commands the art of shipbuilding, it belongs to use a ship for the end for which it was made. Thus, too, in the order of the universe, man is indeed helped by the angels in the attainment of his last end, in respect of certain preliminary dispositions thereto: whereas he attains the last end itself through the First Agent, which is God.
 
 Reply to Objection 2: When a form exists perfectly and naturally in something, it can be the principle of action on something else: for instance a hot thing heats through heat. But if a form exist in something imperfectly, and not naturally, it cannot be the principle whereby it is communicated to something else: thus the "intention" of color which is in the pupil, cannot make a thing white; nor indeed can everything enlightened or heated give heat or light to something else; for if they could, enlightening and heating would go on to infinity. But the light of glory, whereby God is seen, is in God perfectly and naturally; whereas in any creature, it is imperfectly and by likeness or participation. Consequently no creature can communicate its Happiness to another.
 
 Reply to Objection 3: A happy angel enlightens the intellect of a man or of a lower angel, as to certain notions of the Divine works: but not as to the vision of the Divine Essence, as was stated in the [1044]FP, Q[106], A[1]: since in order to see this, all are immediately enlightened by God.
-# Whether Any Good Works Are Necessary That Man May Receive Happiness From God?
+## Whether Any Good Works Are Necessary That Man May Receive Happiness From God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no works of man are necessary that he may obtain Happiness from God. For since God is an agent of infinite power, He requires before acting, neither matter, nor disposition of matter, but can forthwith produce the whole effect. But man's works, since they are not required for Happiness, as the efficient cause thereof, as stated above [1045](A[6]), can be required only as dispositions thereto. Therefore God who does not require dispositions before acting, bestows Happiness without any previous works.
 
@@ -169,22 +169,22 @@ Objection 2: Further, just as God is the immediate cause of Happiness, so is He 
 
 Objection 3: Further, the Apostle says (Rom. 4:6) that Happiness is of the man "to whom God reputeth justice without works." Therefore no works of man are necessary for attaining Happiness.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Jn. 13:17): "If you know these things, you shall be blessed if you do them." Therefore Happiness is obtained through works.
 
 I answer that, Rectitude of the will, as stated above (Q[4], A[4]), is necessary for Happiness; since it is nothing else than the right order of the will to the last end; and it is therefore necessary for obtaining the end, just as the right disposition of matter, in order to receive the form. But this does not prove that any work of man need precede his Happiness: for God could make a will having a right tendency to the end, and at the same time attaining the end; just as sometimes He disposes matter and at the same time introduces the form. But the order of Divine wisdom demands that it should not be thus; for as is stated in De Coel. ii, 12, "of those things that have a natural capacity for the perfect good, one has it without movement, some by one movement, some by several." Now to possess the perfect good without movement, belongs to that which has it naturally: and to have Happiness naturally belongs to God alone. Therefore it belongs to God alone not to be moved towards Happiness by any previous operation. Now since Happiness surpasses every created nature, no pure creature can becomingly gain Happiness, without the movement of operation, whereby it tends thereto. But the angel, who is above man in the natural order, obtained it, according to the order of Divine wisdom, by one movement of a meritorious work, as was explained in the [1046]FP, Q[62], A[5]; whereas man obtains it by many movements of works which are called merits. Wherefore also according to the Philosopher (Ethic. i, 9), happiness is the reward of works of virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Works are necessary to man in order to gain Happiness; not on account of the insufficiency of the Divine power which bestows Happiness, but that the order in things be observed.
 
 Reply to Objection 2: God produced the first creatures so that they are perfect forthwith, without any previous disposition or operation of the creature; because He instituted the first individuals of the various species, that through them nature might be propagated to their progeny. In like manner, because Happiness was to be bestowed on others through Christ, who is God and Man, "Who," according to Heb. 2:10, "had brought many children into glory"; therefore, from the very beginning of His conception, His soul was happy, without any previous meritorious operation. But this is peculiar to Him: for Christ's merit avails baptized children for the gaining of Happiness, though they have no merits of their own; because by Baptism they are made members of Christ.
 
 Reply to Objection 3: The Apostle is speaking of the Happiness of Hope, which is bestowed on us by sanctifying grace, which is not given on account of previous works. For grace is not a term of movement, as Happiness is; rather is it the principle of the movement that tends towards Happiness.
-# Whether Every Man Desires Happiness?
+## Whether Every Man Desires Happiness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not all desire Happiness. For no man can desire what he knows not; since the apprehended good is the object of the appetite (De Anima iii, 10). But many know not what Happiness is. This is evident from the fact that, as Augustine says (De Trin. xiii, 4), "some thought that Happiness consists in pleasures of the body; some, in a virtue of the soul; some in other things." Therefore not all desire Happiness.
 
@@ -192,13 +192,13 @@ Objection 2: Further, the essence of Happiness is the vision of the Divine Essen
 
 Objection 3: Further, Augustine says (De Trin. xiii, 5) that "happy is he who has all he desires, and desires nothing amiss." But all do not desire this; for some desire certain things amiss, and yet they wish to desire such things. Therefore all do not desire Happiness.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. xiii, 3): "If that actor had said: 'You all wish to be happy; you do not wish to be unhappy,' he would have said that which none would have failed to acknowledge in his will." Therefore everyone desires to be happy.
 
 I answer that, Happiness can be considered in two ways. First according to the general notion of happiness: and thus, of necessity, every man desires happiness. For the general notion of happiness consists in the perfect good, as stated above ([1048]AA[3],4). But since good is the object of the will, the perfect good of a man is that which entirely satisfies his will. Consequently to desire happiness is nothing else than to desire that one's will be satisfied. And this everyone desires. Secondly we may speak of Happiness according to its specific notion, as to that in which it consists. And thus all do not know Happiness; because they know not in what thing the general notion of happiness is found. And consequently, in this respect, not all desire it. Wherefore the reply to the first Objection is clear.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Since the will follows the apprehension of the intellect or reason; just as it happens that where there is no real distinction, there may be a distinction according to the consideration of reason; so does it happen that one and the same thing is desired in one way, and not desired in another. So that happiness may be considered as the final and perfect good, which is the general notion of happiness: and thus the will naturally and of necessity tends thereto, as stated above. Again it can be considered under other special aspects, either on the part of the operation itself, or on the part of the operating power, or on the part of the object; and thus the will does not tend thereto of necessity.
 

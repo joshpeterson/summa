@@ -7,9 +7,9 @@ We must now consider the precepts of justice, under which head there are six poi
 (4) Of the third;
 (5) Of the fourth;
 (6) Of the other six.
-# Whether The Precepts Of The Decalogue Are Precepts Of Justice?
+## Whether The Precepts Of The Decalogue Are Precepts Of Justice?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the precepts of the decalogue are not precepts of justice. For the intention of a lawgiver is "to make the citizens virtuous in respect of every virtue," as stated in Ethic. ii, 1. Wherefore, according to Ethic. v, 1, "the law prescribes about all acts of all virtues." Now the precepts of the decalogue are the first. principles of the whole Divine Law. Therefore the precepts of the decalogue do not pertain to justice alone.
 
@@ -19,13 +19,13 @@ Objection 3: Further, the Law contains chiefly precepts about acts of justice re
 
 Objection 4: Further, the precepts of the decalogue are divided into two tables, corresponding to the love of God and the love of our neighbor, both of which regard the virtue of charity. Therefore the precepts of the decalogue belong to charity rather than to justice.
 
-## Answer
+### Answer
 
 On the contrary, Seemingly justice is the sole virtue whereby we are directed to another. Now we are directed to another by all the precepts of the decalogue, as is evident if one consider each of them. Therefore all the precepts of the decalogue pertain to justice.
 
 I answer that, The precepts of the decalogue are the first principles of the Law: and the natural reason assents to them at once, as to principles that are most evident. Now it is altogether evident that the notion of duty, which is essential to a precept, appears in justice, which is of one towards another. Because in those matters that relate to himself it would seem at a glance that man is master of himself, and that he may do as he likes: whereas in matters that refer to another it appears manifestly that a man is under obligation to render to another that which is his due. Hence the precepts of the decalogue must needs pertain to justice. Wherefore the first three precepts are about acts of religion, which is the chief part of justice; the fourth precept is about acts of piety, which is the second part of justice; and the six remaining are about justice commonly so called, which is observed among equals.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The intention of the law is to make all men virtuous, but in a certain order, namely, by first of all giving them precepts about those things where the notion of duty is most manifest, as stated above.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: The judicial precepts are determinations of the moral prec
 Reply to Objection 3: Things that concern the common good must needs be administered in different ways according to the difference of men. Hence they were to be given a place not among the precepts of the decalogue, but among the judicial precepts.
 
 Reply to Objection 4: The precepts of the decalogue pertain to charity as their end, according to 1 Tim. 1:5, "The end of the commandment is charity": but they belong to justice, inasmuch as they refer immediately to acts of justice.
-# Whether The First Precept Of The Decalogue Is Fittingly Expressed?
+## Whether The First Precept Of The Decalogue Is Fittingly Expressed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the first precept of the decalogue is unfittingly expressed. For man is more bound to God than to his father in the flesh, according to Heb. 12:9, "How much more shall we [Vulg.: 'shall we not much more'] obey the Father of spirits and live?" Now the precept of piety, whereby man honors his father, is expressed affirmatively in these words: "Honor thy father and thy mother." Much more, therefore, should the first precept of religion, whereby all honor God, be expressed affirmatively, especially as affirmation is naturally prior to negation.
 
@@ -44,7 +44,7 @@ Objection 2: Further, the first precept of the decalogue pertains to religion, a
 
 Objection 3: Further, Augustine says (De decem chord. ix) that "the first precept forbids the sin of superstition." But there are many wicked superstitions besides idolatry, as stated above ([3273]Q[92], A[2]). Therefore it was insufficient to forbid idolatry alone.
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Scripture.
 
@@ -52,16 +52,16 @@ I answer that, It pertains to law to make men good, wherefore it behooved the pr
 
 The second thing to be observed in the order of generation is that in the first place contraries and obstacles have to be removed. Thus the farmer first purifies the soil, and afterwards sows his seed, according to Jer. 4:3, "Break up anew your fallow ground, and sow not upon thorns." Hence it behooved man, first of all to be instructed in religion, so as to remove the obstacles to true religion. Now the chief obstacle to religion is for man to adhere to a false god, according to Mat. 6:24, "You cannot serve God and mammon." Therefore in the first precept of the Law the worship of false gods is excluded.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In point of fact there is one affirmative precept about religion, namely: "Remember that thou keep holy the Sabbath Day." Still the negative precepts had to be given first, so that by their means the obstacles to religion might be removed. For though affirmation naturally precedes negation, yet in the process of generation, negation, whereby obstacles are removed, comes first, as stated in the Article. Especially is this true in matters concerning God, where negation is preferable to affirmation, on account of our insufficiency, as Dionysius observes (Coel. Hier. ii).
 
 Reply to Objection 2: People worshiped strange gods in two ways. For some served certain creatures as gods without having recourse to images. Hence Varro says that for a long time the ancient Romans worshiped gods without using images: and this worship is first forbidden by the words, "Thou shalt not have strange gods." Among others the worship of false gods was observed by using certain images: and so the very making of images was fittingly forbidden by the words, "Thou shalt not make to thyself any graven thing," as also the worship of those same images, by the words, "Thou shalt not adore them," etc.
 
 Reply to Objection 3: All other kinds of superstition proceed from some compact, tacit or explicit, with the demons; hence all are understood to be forbidden by the words, "Thou shalt not have strange gods."
-# Whether The Second Precept Of The Decalogue Is Fittingly Expressed?
+## Whether The Second Precept Of The Decalogue Is Fittingly Expressed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the second precept of the decalogue is unfittingly expressed. For this precept, "Thou shalt not take the name of thy God in vain" is thus explained by a gloss on Ex. 20:7: "Thou shalt not deem the Son of God to be a creature," so that it forbids an error against faith. Again, a gloss on the words of Dt. 5:11, "Thou shalt not take the name of . . . thy God in vain, " adds, i.e. "by giving the name of God to wood or stone," as though they forbade a false confession of faith, which, like error, is an act of unbelief. Now unbelief precedes superstition, as faith precedes religion. Therefore this precept should have preceded the first, whereby superstition is forbidden.
 
@@ -73,7 +73,7 @@ Objection 4: Further, blasphemy or any word or deed that is an insult to God is 
 
 Objection 5: Further, God's names are many. Therefore it should not have been said indefinitely: "Thou shalt not take the name of . . . thy God in vain."
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Scripture.
 
@@ -81,7 +81,7 @@ I answer that, In one who is being instructed in virtue it is necessary to remov
 
 For this reason the precept forbidding superstition is placed before the second precept, which forbids perjury that pertains to irreligion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: These expositions are mystical. The literal explanation is that which is given Dt. 5:11: "Thou shalt not take the name of . . . thy God in vain," namely, "by swearing on that which is not [*Vulg.: 'for he shall not be unpunished that taketh His name upon a vain thing']."
 
@@ -92,9 +92,9 @@ Reply to Objection 3: To swear to nothing means to swear to that which is not. T
 Reply to Objection 4: Just as when we instruct a man in some science, we begin by putting before him certain general maxims, even so the Law, which forms man to virtue by instructing him in the precepts of the decalogue, which are the first of all precepts, gave expression, by prohibition or by command, to those things which are of most common occurrence in the course of human life. Hence the precepts of the decalogue include the prohibition of perjury, which is of more frequent occurrence than blasphemy, since man does not fall so often into the latter sin.
 
 Reply to Objection 5: Reverence is due to the Divine names on the part of the thing signified, which is one, and not on the part of the signifying words, which are many. Hence it is expressed in the singular: "Thou shalt not take the name of . . . thy God in vain": since it matters not in which of God's names perjury is committed.
-# Whether The Third Precept Of The Decalogue, Concerning The Hallowing Of The Sabbath, Is Fittingly Expressed?
+## Whether The Third Precept Of The Decalogue, Concerning The Hallowing Of The Sabbath, Is Fittingly Expressed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the third precept of the decalogue, concerning the hallowing of the Sabbath, is unfittingly expressed. For this, understood spiritually, is a general precept: since Bede in commenting on Lk. 13:14, "The ruler of the synagogue being angry that He had healed on the Sabbath," says (Comment. iv): "The Law forbids, not to heal man on the Sabbath, but to do servile works," i.e. "to burden oneself with sin." Taken literally it is a ceremonial precept, for it is written (Ex. 31:13): "See that you keep My Sabbath: because it is a sign between Me and you in your generations." Now the precepts of the decalogue are both spiritual and moral. Therefore it is unfittingly placed among the precepts of the decalogue.
 
@@ -104,13 +104,13 @@ Objection 3: Further, whoever breaks a precept of the decalogue, sins. But in th
 
 Objection 4: Further, the precepts of the decalogue have to be observed also under the New Law. Yet in the New Law this precept is not observed, neither in the point of the Sabbath day, nor as to the Lord's day, on which men cook their food, travel, fish, and do many like things. Therefore the precept of the observance of the Sabbath is unfittingly expressed.
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Scripture.
 
 I answer that, The obstacles to true religion being removed by the first and second precepts of the decalogue, as stated above ([3276]AA[2],3), it remained for the third precept to be given whereby man is established in true religion. Now it belongs to religion to give worship to God: and just as the Divine scriptures teach the interior worship under the guise of certain corporal similitudes, so is external worship given to God under the guise of sensible signs. And since for the most part man is induced to pay interior worship, consisting in prayer and devotion, by the interior prompting of the Holy Ghost, a precept of the Law as necessary respecting the exterior worship that consists in sensible signs. Now the precepts of the decalogue are, so to speak, first and common principles of the Law, and consequently the third precept of the decalogue describes the exterior worship of God as the sign of a universal boon that concerns all. This universal boon was the work of the Creation of the world, from which work God is stated to have rested on the seventh day: and sign of this we are commanded to keep holy seventh day---that is, to set it aside as a day to be given to God. Hence after the precept about the hallowing of the Sabbath the reason for it is given: "For in six days the Lord made heaven and earth . . . and rested on the seventh day."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The precept about hallowing the Sabbath, understood literally, is partly oral and partly ceremonial. It is a moral precept in the point of commanding man to aside a certain time to be given to Divine things. For there is in man a natural inclination to set aside a certain time for each necessary thing, such as refreshment of the body, sleep, and so forth. Hence according to the dictate of reason, man sets aside a certain time for spiritual refreshment, by which man's mind is refreshed in God. And thus to have a certain time set aside for occupying oneself with Divine things is the matter of a moral precept. But, in so far as this precept specializes the time as a sign representing the Creation of the world, it is a ceremonial precept. Again, it is a ceremonial precept in its allegorical signification, as representative of Christ's rest in the tomb on the seventh day: also in its moral signification, as representing cessation from all sinful acts, and the mind's rest in God, in which sense, too, it is a general precept. Again, it is a ceremonial precept in its analogical signification, as foreshadowing the enjoyment of God in heaven. Hence the precept about hallowing the Sabbath is placed among the precepts of the decalogue, as a moral, but not as a ceremonial precept.
 
@@ -119,9 +119,9 @@ Reply to Objection 2: The other ceremonies of the Law are signs of certain parti
 Reply to Objection 3: Two things are to be observed in the hallowing of the Sabbath. One of these is the end: and this is that man occupy himself with Divine things, and is signified in the words: "Remember that thou keep holy the Sabbath day." For in the Law those things are said to be holy which are applied to the Divine worship. The other thing is cessation from work, and is signified in the words (Ex. 20:11), "On the seventh day . . . thou shalt do no work." The kind of work meant appears from Lev. 23:3, "You shall do no servile work on that day [*Vulg.: 'You shall do no work on that day']." Now servile work is so called from servitude: and servitude is threefold. One, whereby man is the servant of sin, according to Jn. 8:34, "Whosoever committeth sin is the servant of sin," and in this sense all sinful acts are servile. Another servitude is whereby one man serves another. Now one man serves another not with his mind but with his body, as stated above ([3277]Q[104], AA[5],6, ad 1). Wherefore in this respect those works are called servile whereby one man serves another. The third is the servitude of God; and in this way the work of worship, which pertains to the service of God, may be called a servile work. In this sense servile work is not forbidden on the Sabbath day, because that would be contrary to the end of the Sabbath observance: since man abstains from other works on the Sabbath day in order that he may occupy himself with works connected with God's service. For this reason, according to Jn. 7:23, "a man [*Vulg.: 'If a man,' etc.] receives circumcision on the Sabbath day, that the law of Moses may not be broken": and for this reason too we read (Mat. 12:5), that "on the Sabbath days the priests in the temple break the Sabbath," i.e. do corporal works on the Sabbath, "and are without blame." Accordingly, the priests in carrying the ark on the Sabbath did not break the precept of the Sabbath observance. In like manner it is not contrary to the observance of the Sabbath to exercise any spiritual act, such as teaching by word or writing. Wherefore a gloss on Num 28 says that "smiths and like craftsmen rest on the Sabbath day, but the reader or teacher of the Divine law does not cease from his work. Yet he profanes not the Sabbath, even as the priests in the temple break the Sabbath, and are without blame." On the other hand, those works that are called servile in the first or second way are contrary to the observance of the Sabbath, in so far as they hinder man from applying himself to Divine things. And since man is hindered from applying himself to Divine things rather by sinful than by lawful albeit corporal works, it follows that to sin on a feast day is more against this precept than to do some other but lawful bodily work. Hence Augustine says (De decem chord. iii): "It would be better if the Jew did some useful work on his farm than spent his time seditiously in the theatre: and their womenfolk would do better to be making linen on the Sabbath than to be dancing lewdly all day in their feasts of the new moon." It is not, however, against this precept to sin venially on the Sabbath, because venial sin does not destroy holiness.
 
 Reply to Objection 4: In the New Law the observance of the Lord's day took the place of the observance of the Sabbath, not by virtue of the precept but by the institution of the Church and the custom of Christian people. For this observance is not figurative, as was the observance of the Sabbath in the Old Law. Hence the prohibition to work on the Lord' day is not so strict as on the Sabbath: and certain works are permitted on the Lord's day which were forbidden on the Sabbath, such as the cooking of food and so forth. And again in the New Law, dispensation is more easily granted than in the Old, in the matter of certain forbidden works, on account of their necessity, because the figure pertains to the protestation of truth, which it is unlawful to omit even in small things; while works, considered in themselves, are changeable in point of place and time.
-# Whether The Fourth Precept, About Honoring One's Parents, Is Fittingly Expressed?
+## Whether The Fourth Precept, About Honoring One's Parents, Is Fittingly Expressed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the fourth precept, about honoring one's parents, is unfittingly expressed. For this is the precept pertaining to piety. Now, just as piety is a part of justice, so are observance, gratitude, and others of which we have spoken (QQ[101],102, seq.). Therefore it seems that there should not have been given a special precept of piety, as none is given regarding the others.
 
@@ -131,13 +131,13 @@ Objection 3: Further, we owe our parents not merely honor but also support. Ther
 
 Objection 4: Further, sometimes those who honor their parents die young, and on the contrary those who honor them not live a long time. Therefore it was unfitting to supplement this precept with the promise, "That thou mayest be long-lived upon earth."
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Scripture.
 
 I answer that, The precepts of the decalogue are directed to the love of God and of our neighbor. Now to our parents, of all our neighbors, we are under the greatest obligation. Hence, immediately after the precepts directing us to God, a place is given to the precept directing us to our parents, who are the particular principle of our being, just as God is the universal principle: so that this precept has a certain affinity to the precepts of the First Table.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([3279]Q[101], A[2]), piety directs us to pay the debt due to our parents, a debt which is common to all. Hence, since the precepts of the decalogue are general precepts, they ought to contain some reference to piety rather than to the other parts of justice, which regard some special debt.
 
@@ -146,9 +146,9 @@ Reply to Objection 2: The debt to one's parents precedes the debt to one's kindr
 Reply to Objection 3: Reverential honor is due to one's parents as such, whereas support and so forth are due to them accidentally, for instance, because they are in want, in slavery, or the like, as stated above ([3280]Q[101], A[2] ). And since that which belongs to a thing by nature precedes that which is accidental, it follows that among the first precepts of the Law, which are the precepts of the decalogue, there is a special precept of honoring our parents: and this honor, as a kind of principle, is understood to comprise support and whatever else is due to our parents.
 
 Reply to Objection 4: A long life is promised to those who honor their parents not only as to the life to come, but also as to the present life, according to the saying of the Apostle (1 Tim. 4:8): "Piety [Douay: 'godliness'] is profitable to all things, having promise of the life that now is and of that which is to come." And with reason. Because the man who is grateful for a favor deserves, with a certain congruity, that the favor should be continued to him, and he who is ungrateful for a favor deserves to lose it. Now we owe the favor of bodily life to our parents after God: wherefore he that honors his parents deserves the prolongation of his life, because he is grateful for that favor: while he that honors not his parents deserves to be deprived of life because he is ungrateful for the favor. However, present goods or evils are not the subject of merit or demerit except in so far as they are directed to a future reward, as stated above (FS, Q[114], A[12]). Wherefore sometimes in accordance with the hidden design of the Divine judgments, which regard chiefly the future reward, some, who are dutiful to their parents, are sooner deprived of life, while others, who are undutiful to their parents, live longer.
-# Whether The Other Six Precepts Of The Decalogue Are Fittingly Expressed?
+## Whether The Other Six Precepts Of The Decalogue Are Fittingly Expressed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the other six precepts of the decalogue are unfittingly expressed. For it is not sufficient for salvation that one refrain from injuring one's neighbor; but it is required that one pay one's debts, according to Rom. 13:7, "Render . . . to all men their dues." Now the last six precepts merely forbid one to injure one's neighbor. Therefore these precepts are unfittingly expressed.
 
@@ -158,13 +158,13 @@ Objection 3: Further, concupiscence may be taken in two ways. First as denoting 
 
 Objection 4: Further, murder is a more grievous sin than adultery or theft. But there is no precept forbidding the desire of murder. Therefore neither was it fitting to have precepts forbidding the desire of theft and of adultery.
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Scripture.
 
 I answer that, Just as by the parts of justice a man pays that which is due to certain definite persons, to whom he is bound for some special reason, so too by justice properly so called he pays that which is due to all in general. Hence, after the three precepts pertaining to religion, whereby man pays what is due God, and after the fourth precept pertaining to piety, whereby he pays what is due to his parents---which duty includes the paying of all that is due for any special reason---it was necessary in due sequence to give certain precepts pertaining to justice properly so called, which pays to all indifferently what is due to them.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Man is bound towards all persons in general to inflict injury on no one: hence the negative precepts, which forbid the doing of those injuries that can be inflicted on one's neighbor, had to be given a place, as general precepts, among the precepts of the decalogue. On the other hand, the duties we owe to our neighbor are paid in different ways to different people: hence it did not behoove to include affirmative precepts about those duties among the precepts of the decalogue.
 

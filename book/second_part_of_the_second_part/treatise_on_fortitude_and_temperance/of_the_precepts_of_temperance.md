@@ -3,9 +3,9 @@
 We must next consider the precepts of temperance:
 (1) The precepts of temperance itself;
 (2) The precepts of its parts.
-# Whether The Precepts Of Temperance Are Suitably Given In The Divine Law?
+## Whether The Precepts Of Temperance Are Suitably Given In The Divine Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the precepts of temperance are unsuitably given in the Divine law. Because fortitude is a greater virtue than temperance, as stated above (Q[123], A[12]; Q[141], A[8]; [3653]FS, Q[66], A[4] ). Now there is no precept of fortitude among the precepts of the decalogue, which are the most important among the precepts of the Law. Therefore it was unfitting to include among the precepts of the decalogue the prohibition of adultery, which is contrary to temperance, as stated above (Q[154], AA[1],8).
 
@@ -13,22 +13,22 @@ Objection 2: Further, temperance is not only about venereal matters, but also ab
 
 Objection 3: Further, in the lawgiver's intention inducement to virtue precedes the prohibition of vice, since vices are forbidden in order that obstacles to virtue may be removed. Now the precepts of the decalogue are the most important in the Divine law. Therefore the precepts of the decalogue should have included an affirmative precept directly prescribing the virtue of temperance, rather than a negative precept forbidding adultery which is directly opposed thereto.
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Scripture in the decalogue (Ex. 20:14, 17).
 
 I answer that, As the Apostle says (1 Tim. 1:5), "the end of the commandment is charity," which is enjoined upon us in the two precepts concerning the love of God and of our neighbor. Wherefore the decalogue contains those precepts which tend more directly to the love of God and of our neighbor. Now among the vices opposed to temperance, adultery would seem most of all opposed to the love of our neighbor, since thereby a man lays hold of another's property for his own use, by abusing his neighbor's wife. Wherefore the precepts of the decalogue include a special prohibition of adultery, not only as committed in deed, but also as desired in thought.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Among the species of vices opposed to fortitude there is not one that is so directly opposed to the love of our neighbor as adultery, which is a species of lust that is opposed to temperance. And yet the vice of daring, which is opposed to fortitude, is wont to be sometimes the cause of murder, which is forbidden by one of the precepts of the decalogue: for it is written (Ecclus. 8:18): "Go not on the way with a bold man lest he burden thee with his evils."
 
 Reply to Objection 2: Gluttony is not directly opposed to the love of our neighbor, as adultery is. Nor indeed is any other species of lust, for a father is not so wronged by the seduction of the virgin over whom he has no connubial right, as is the husband by the adultery of his wife, for he, not the wife herself, has power over her body [*1 Cor. 7:4].
 
 Reply to Objection 3: As stated above ([3654]Q[122], AA[1],4) the precepts of the decalogue are universal principles of the Divine law; hence they need to be common precepts. Now it was not possible to give any common affirmative precepts of temperance, because the practice of temperance varies according to different times, as Augustine remarks (De Bono Conjug. xv, 7), and according to different human laws and customs.
-# Whether The Precepts Of The Virtues Annexed To Temperance Are Suitably Given In The Divine Law?
+## Whether The Precepts Of The Virtues Annexed To Temperance Are Suitably Given In The Divine Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the precepts of the virtues annexed to temperance are unsuitably given in the Divine law. For the precepts of the Decalogue, as stated above (A[1], ad 3), are certain universal principles of the whole Divine law. Now "pride is the beginning of all sin," according to Ecclus. 10:15. Therefore among the precepts of the Decalogue there should have been one forbidding pride.
 
@@ -36,13 +36,13 @@ Objection 2: Further, a place before all should have been given in the decalogue
 
 Objection 3: Further, it was stated in the foregoing Article that adultery is forbidden in the decalogue, because it is contrary to the love of our neighbor. But inordinateness of outward movements, which is contrary to modesty, is opposed to neighborly love: wherefore Augustine says in his Rule (Ep. ccxii): "In all your movements let nothing be done to offend the eye of any person whatever." Therefore it seems that this kind of inordinateness should also have been forbidden by a precept of the Decalogue.
 
-## Answer
+### Answer
 
 On the contrary, suffices the authority of Scripture.
 
 I answer that, The virtues annexed to temperance may be considered in two ways: first, in themselves; secondly, in their effects. Considered in themselves they have no direct connection with the love of God or of our neighbor; rather do they regard a certain moderation of things pertaining to man himself. But considered in their effects, they may regard the love of God or of our neighbor: and in this respect the decalogue contains precepts that relate to the prohibition of the effects of the vices opposed to the parts of temperance. Thus the effect of anger, which is opposed to meekness, is sometimes that a man goes on to commit murder (and this is forbidden in the Decalogue), and sometimes that he refuses due honor to his parents, which may also be the result of pride, which leads many to transgress the precepts of the first table.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Pride is the beginning of sin, but it lies hidden in the heart; and its inordinateness is not perceived by all in common. Hence there was no place for its prohibition among the precepts of the Decalogue, which are like first self-evident principles.
 

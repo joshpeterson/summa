@@ -9,9 +9,9 @@ We come now to consider the mode and order of understanding. Under this head the
 (6) Whether the intellect can err?
 (7) Whether one intellect can understand better than another?
 (8) Whether our intellect understands the indivisible before the divisible?
-# Whether Our Intellect Understands Corporeal And Material Things By Abstraction From Phantasms?
+## Whether Our Intellect Understands Corporeal And Material Things By Abstraction From Phantasms?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that our intellect does not understand corporeal and material things by abstraction from the phantasms. For the intellect is false if it understands an object otherwise than as it really is. Now the forms of material things do not exist as abstracted from the particular things represented by the phantasms. Therefore, if we understand material things by abstraction of the species from the phantasm, there will be error in the intellect.
 
@@ -23,7 +23,7 @@ Objection 4: Further, the Philosopher says (De Anima iii, 5) there are two thing
 
 Objection 5: Further, the Philosopher (De Anima iii, 7) says that "the intellect understands the species in the phantasm"; and not, therefore, by abstraction.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima iii, 4) that "things are intelligible in proportion as they are separate from matter." Therefore material things must needs be understood according as they are abstracted from matter and from material images, namely, phantasms.
 
@@ -31,7 +31,7 @@ I answer that, As stated above ([683]Q[84], A[7]), the object of knowledge is pr
 
 But Plato, considering only the immateriality of the human intellect, and not its being in a way united to the body, held that the objects of the intellect are separate ideas; and that we understand not by abstraction, but by participating things abstract, as stated above ([685]Q[84] , A[1]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Abstraction may occur in two ways: First, by way of composition and division; thus we may understand that one thing does not exist in some other, or that it is separate therefrom. Secondly, by way of simple and absolute consideration; thus we understand one thing without considering the other. Thus for the intellect to abstract one from another things which are not really abstract from one another, does, in the first mode of abstraction, imply falsehood. But, in the second mode of abstraction, for the intellect to abstract things which are not really abstract from one another, does not involve falsehood, as clearly appears in the case of the senses. For if we understood or said that color is not in a colored body, or that it is separate from it, there would be error in this opinion or assertion. But if we consider color and its properties, without reference to the apple which is colored; or if we express in word what we thus understand, there is no error in such an opinion or assertion, because an apple is not essential to color, and therefore color can be understood independently of the apple. Likewise, the things which belong to the species of a material thing, such as a stone, or a man, or a horse, can be thought of apart from the individualizing principles which do not belong to the notion of the species. This is what we mean by abstracting the universal from the particular, or the intelligible species from the phantasm; that is, by considering the nature of the species apart from its individual qualities represented by the phantasms. If, therefore, the intellect is said to be false when it understands a thing otherwise than as it is, that is so, if the word "otherwise" refers to the thing understood; for the intellect is false when it understands a thing otherwise than as it is; and so the intellect would be false if it abstracted the species of a stone from its matter in such a way as to regard the species as not existing in matter, as Plato held. But it is not so, if the word "otherwise" be taken as referring to the one who understands. For it is quite true that the mode of understanding, in one who understands, is not the same as the mode of a thing in existing: since the thing understood is immaterially in the one who understands, according to the mode of the intellect, and not materially, according to the mode of a material thing.
 
@@ -42,9 +42,9 @@ Reply to Objection 3: Colors, as being in individual corporeal matter, have the 
 Reply to Objection 4: Not only does the active intellect throw light on the phantasm: it does more; by its own power it abstracts the intelligible species from the phantasm. It throws light on the phantasm, because, just as the sensitive part acquires a greater power by its conjunction with the intellectual part, so by the power of the active intellect the phantasms are made more fit for the abstraction therefrom of intelligible intentions. Furthermore, the active intellect abstracts the intelligible species from the phantasm, forasmuch as by the power of the active intellect we are able to disregard the conditions of individuality, and to take into our consideration the specific nature, the image of which informs the passive intellect.
 
 Reply to Objection 5: Our intellect both abstracts the intelligible species from the phantasms, inasmuch as it considers the natures of things in universal, and, nevertheless, understands these natures in the phantasms since it cannot understand even the things of which it abstracts the species, without turning to the phantasms, as we have said above ([686]Q[84], A[7]).
-# Whether The Intelligible Species Abstracted From The Phantasm Is Related To Our Intellect As That Which Is Understood?
+## Whether The Intelligible Species Abstracted From The Phantasm Is Related To Our Intellect As That Which Is Understood?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the intelligible species abstracted from the phantasm is related to our intellect as that which is understood. For the understood in act is in the one who understands: since the understood in act is the intellect itself in act. But nothing of what is understood is in the intellect actually understanding, save the abstracted intelligible species. Therefore this species is what is actually understood.
 
@@ -52,7 +52,7 @@ Objection 2: Further, what is actually understood must be in something; else it 
 
 Objection 3: Further, the Philosopher says (1 Peri Herm. i) that "words are signs of the passions in the soul." But words signify the things understood, for we express by word what we understand. Therefore these passions of the soul---viz. the intelligible species, are what is actually understood.
 
-## Answer
+### Answer
 
 On the contrary, The intelligible species is to the intellect what the sensible image is to the sense. But the sensible image is not what is perceived, but rather that by which sense perceives. Therefore the intelligible species is not what is actually understood, but that by which the intellect understands.
 
@@ -62,16 +62,16 @@ This is, however, manifestly false for two reasons. First, because the things we
 
 Therefore it must be said that the intelligible species is related to the intellect as that by which it understands: which is proved thus. There is a twofold action (Metaph. ix, Did. viii, 8), one which remains in the agent; for instance, to see and to understand; and another which passes into an external object; for instance, to heat and to cut; and each of these actions proceeds in virtue of some form. And as the form from which proceeds an act tending to something external is the likeness of the object of the action, as heat in the heater is a likeness of the thing heated; so the form from which proceeds an action remaining in the agent is the likeness of the object. Hence that by which the sight sees is the likeness of the visible thing; and the likeness of the thing understood, that is, the intelligible species, is the form by which the intellect understands. But since the intellect reflects upon itself, by such reflection it understands both its own act of intelligence, and the species by which it understands. Thus the intelligible species is that which is understood secondarily; but that which is primarily understood is the object, of which the species is the likeness. This also appears from the opinion of the ancient philosophers, who said that "like is known by like." For they said that the soul knows the earth outside itself, by the earth within itself; and so of the rest. If, therefore, we take the species of the earth instead of the earth, according to Aristotle (De Anima iii, 8), who says "that a stone is not in the soul, but only the likeness of the stone"; it follows that the soul knows external things by means of its intelligible species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The thing understood is in the intellect by its own likeness; and it is in this sense that we say that the thing actually understood is the intellect in act, because the likeness of the thing understood is the form of the intellect, as the likeness of a sensible thing is the form of the sense in act. Hence it does not follow that the intelligible species abstracted is what is actually understood; but rather that it is the likeness thereof.
 
 Reply to Objection 2: In these words "the thing actually understood" there is a double implication---the thing which is understood, and the fact that it is understood. In like manner the words "abstract universal" imply two things, the nature of a thing and its abstraction or universality. Therefore the nature itself to which it occurs to be understood, abstracted or considered as universal is only in individuals; but that it is understood, abstracted or considered as universal is in the intellect. We see something similar to this is in the senses. For the sight sees the color of the apple apart from its smell. If therefore it be asked where is the color which is seen apart from the smell, it is quite clear that the color which is seen is only in the apple: but that it be perceived apart from the smell, this is owing to the sight, forasmuch as the faculty of sight receives the likeness of color and not of smell. In like manner humanity understood is only in this or that man; but that humanity be apprehended without conditions of individuality, that is, that it be abstracted and consequently considered as universal, occurs to humanity inasmuch as it is brought under the consideration of the intellect, in which there is a likeness of the specific nature, but not of the principles of individuality.
 
 Reply to Objection 3: There are two operations in the sensitive part. One, in regard of impression only, and thus the operation of the senses takes place by the senses being impressed by the sensible. The other is formation, inasmuch as the imagination forms for itself an image of an absent thing, or even of something never seen. Both of these operations are found in the intellect. For in the first place there is the passion of the passive intellect as informed by the intelligible species; and then the passive intellect thus informed forms a definition, or a division, or a composition, expressed by a word. Wherefore the concept conveyed by a word is its definition; and a proposition conveys the intellect's division or composition. Words do not therefore signify the intelligible species themselves; but that which the intellect forms for itself for the purpose of judging of external things.
-# Whether The More Universal Is First In Our Intellectual Cognition?
+## Whether The More Universal Is First In Our Intellectual Cognition?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the more universal is not first in our intellectual cognition. For what is first and more known in its own nature, is secondarily and less known in relation to ourselves. But universals come first as regards their nature, because "that is first which does not involve the existence of its correlative" (Categor. ix). Therefore the universals are secondarily known as regards our intellect.
 
@@ -81,7 +81,7 @@ Objection 3: Further, the Philosopher says (Phys. i, 1), that the object defined
 
 Objection 4: Further, we know causes and principles by their effects. But universals are principles. Therefore universals are secondarily known by us.
 
-## Answer
+### Answer
 
 On the contrary, "We must proceed from the universal to the singular and individual" (Phys. i, 1)
 
@@ -91,7 +91,7 @@ Moreover, as sense, like the intellect, proceeds from potentiality to act, the s
 
 We must therefore conclude that knowledge of the singular and individual is prior, as regards us, to the knowledge of the universal; as sensible knowledge is prior to intellectual knowledge. But in both sense and intellect the knowledge of the more common precedes the knowledge of the less common.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The universal can be considered in two ways. First, the universal nature may be considered together with the intention of universality. And since the intention of universality---viz. the relation of one and the same to many---is due to intellectual abstraction, the universal thus considered is a secondary consideration. Hence it is said (De Anima i, 1) that the "universal animal is either nothing or something secondary." But according to Plato, who held that universals are subsistent, the universal considered thus would be prior to the particular, for the latter, according to him, are mere participations of the subsistent universals which he called ideas.
 
@@ -100,9 +100,9 @@ Reply to Objection 2: The more common universal may be compared to the less comm
 Reply to Objection 3: A part can be known in two ways. First, absolutely considered in itself; and thus nothing prevents the parts being known before the whole, as stones are known before a house is known. Secondly as belonging to a certain whole; and thus we must needs know the whole before its parts. For we know a house vaguely before we know its different parts. So likewise principles of definition are known before the thing defined is known; otherwise the thing defined would not be known at all. But as parts of the definition they are known after. For we know man vaguely as man before we know how to distinguish all that belongs to human nature.
 
 Reply to Objection 4: The universal, as understood with the intention of universality, is, indeed, in a way, a principle of knowledge, in so far as the intention of universality results from the mode of understanding by way of abstraction. But what is a principle of knowledge is not of necessity a principle of existence, as Plato thought: since at times we know a cause through its effect, and substance through accidents. Wherefore the universal thus considered, according to the opinion of Aristotle, is neither a principle of existence, nor a substance, as he makes clear (Metaph. vii, Did. vi, 13). But if we consider the generic or specific nature itself as existing in the singular, thus in a way it is in the nature of a formal principle in regard to the singulars: for the singular is the result of matter, while the idea of species is from the form. But the generic nature is compared to the specific nature rather after the fashion of a material principle, because the generic nature is taken from that which is material in a thing, while the idea of species is taken from that which is formal: thus the notion of animal is taken from the sensitive part, whereas the notion of man is taken from the intellectual part. Thus it is that the ultimate intention of nature is to the species and not to the individual, or the genus: because the form is the end of generation, while matter is for the sake of the form. Neither is it necessary that, as regards us, knowledge of any cause or principle should be secondary: since at times through sensible causes we become acquainted with unknown effects, and sometimes conversely.
-# Whether We Can Understand Many Things At The Same Time?
+## Whether We Can Understand Many Things At The Same Time?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that we can understand many things at the same time. For intellect is above time, whereas the succession of before and after belongs to time. Therefore the intellect does not understand different things in succession, but at the same time.
 
@@ -112,13 +112,13 @@ Objection 3: Further, the intellect understands a whole at the same time, such a
 
 Objection 4: Further, we cannot know the difference between two things unless we know both at the same time (De Anima iii, 2), and the same is to be said of any other comparison. But our intellect knows the difference and comparison between one thing and another. Therefore it knows many things at the same time.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Topic. ii, 10) that "understanding is of one thing only, knowledge is of many."
 
 I answer that, The intellect can, indeed, understand many things as one, but not as many: that is to say by "one" but not by "many" intelligible species. For the mode of every action follows the form which is the principle of that action. Therefore whatever things the intellect can understand under one species, it can understand at the same time: hence it is that God sees all things at the same time, because He sees all in one, that is, in His Essence. But whatever things the intellect understands under different species, it does not understand at the same time. The reason of this is that it is impossible for one and the same subject to be perfected at the same time by many forms of one genus and diverse species, just as it is impossible for one and the same body at the same time to have different colors or different shapes. Now all intelligible species belong to one genus, because they are the perfections of one intellectual faculty: although the things which the species represent belong to different genera. Therefore it is impossible for one and the same intellect to be perfected at the same time by different intelligible species so as actually to understand different things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The intellect is above that time, which is the measure of the movement of corporeal things. But the multitude itself of intelligible species causes a certain vicissitude of intelligible operations, according as one operation succeeds another. And this vicissitude is called time by Augustine, who says (Gen. ad lit. viii, 20,22), that "God moves the spiritual creature through time."
 
@@ -127,9 +127,9 @@ Reply to Objection 2: Not only is it impossible for opposite forms to exist at t
 Reply to Objection 3: Parts can be understood in two ways. First, in a confused way, as existing in the whole, and thus they are known through the one form of the whole, and so are known together. In another way they are known distinctly: thus each is known by its species; and so they are not understood at the same time.
 
 Reply to Objection 4: If the intellect sees the difference or comparison between one thing and another, it knows both in relation to their difference or comparison; just, as we have said above (ad 3), as it knows the parts in the whole.
-# Whether Our Intellect Understands By Composition And Division?
+## Whether Our Intellect Understands By Composition And Division?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that our intellect does not understand by composition and division. For composition and division are only of many; whereas the intellect cannot understand many things at the same time. Therefore it cannot understand by composition and division.
 
@@ -137,7 +137,7 @@ Objection 2: Further, every composition and division implies past, present, or f
 
 Objection 3: Further, the intellect understands things by a process of assimilation to them. But composition and division are not in things, for nothing is in things but what is signified by the predicate and the subject, and which is one and the same, provided that the composition be true, for "man" is truly what "animal" is. Therefore the intellect does not act by composition and division.
 
-## Answer
+### Answer
 
 On the contrary, Words signify the conceptions of the intellect, as the Philosopher says (Peri Herm. i). But in words we find composition and division, as appears in affirmative and negative propositions. Therefore the intellect acts by composition and division.
 
@@ -145,16 +145,16 @@ I answer that, The human intellect must of necessity understand by composition a
 
 But the angelic and the Divine intellect, like all incorruptible things, have their perfection at once from the beginning. Hence the angelic and the Divine intellect have the entire knowledge of a thing at once and perfectly; and hence also in knowing the quiddity of a thing they know at once whatever we can know by composition, division, and reasoning. Therefore the human intellect knows by composition, division and reasoning. But the Divine intellect and the angelic intellect know, indeed, composition, division, and reasoning, not by the process itself, but by understanding the simple essence.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Composition and division of the intellect are made by differentiating and comparing. Hence the intellect knows many things by composition and division, as by knowing the difference and comparison of things.
 
 Reply to Objection 2: Although the intellect abstracts from the phantasms, it does not understand actually without turning to the phantasms, as we have said [688](A[1]; [689]Q[84], A[7]). And forasmuch as it turns to the phantasms, composition and division of the intellect involve time.
 
 Reply to Objection 3: The likeness of a thing is received into the intellect according to the mode of the intellect, not according to the mode of the thing. Wherefore something on the part of the thing corresponds to the composition and division of the intellect; but it does not exist in the same way in the intellect and in the thing. For the proper object of the human intellect is the quiddity of a material thing, which comes under the action of the senses and the imagination. Now in a material thing there is a twofold composition. First, there is the composition of form with matter; and to this corresponds that composition of the intellect whereby the universal whole is predicated of its part: for the genus is derived from common matter, while the difference that completes the species is derived from the form, and the particular from individual matter. The second comparison is of accident with subject: and to this real composition corresponds that composition of the intellect, whereby accident is predicated of subject, as when we say "the man is white." Nevertheless composition of the intellect differs from composition of things; for in the latter the things are diverse, whereas composition of the intellect is a sign of the identity of the components. For the above composition of the intellect does not imply that "man" and "whiteness" are identical, but the assertion, "the man is white," means that "the man is something having whiteness": and the subject, which is a man, is identified with a subject having whiteness. It is the same with the composition of form and matter: for animal signifies that which has a sensitive nature; rational, that which has an intellectual nature; man, that which has both; and Socrates that which has all these things together with individual matter; and according to this kind of identity our intellect predicates the composition of one thing with another.
-# Whether The Intellect Can Be False?
+## Whether The Intellect Can Be False?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the intellect can be false; for the Philosopher says (Metaph. vi, Did. v, 4) that "truth and falsehood are in the mind." But the mind and intellect are the same, as is shown above ([690]Q[79], A[1]). Therefore falsehood may be in the mind.
 
@@ -162,7 +162,7 @@ Objection 2: Further, opinion and reasoning belong to the intellect. But falseho
 
 Objection 3: Further, sin is in the intellectual faculty. But sin involves falsehood: for "those err that work evil" (Prov. 14:22). Therefore falsehood can be in the intellect.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (QQ. 83, qu. 32), that "everyone who is deceived, does not rightly understand that wherein he is deceived." And the Philosopher says (De Anima iii, 10), that "the intellect is always true."
 
@@ -170,12 +170,12 @@ I answer that, The Philosopher (De Anima iii, 6) compares intellect with sense o
 
 The intellect, however, may be accidentally deceived in the quiddity of composite things, not by the defect of its organ, for the intellect is a faculty that is independent of an organ; but on the part of the composition affecting the definition, when, for instance, the definition of a thing is false in relation to something else, as the definition of a circle applied to a triangle; or when a definition is false in itself as involving the composition of things incompatible; as, for instance, to describe anything as "a rational winged animal." Hence as regards simple objects not subject to composite definitions we cannot be deceived unless, indeed, we understand nothing whatever about them, as is said Metaph. ix, Did. viii, 10.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher says that falsehood is in the intellect in regard to composition and division. The same answer applies to the Second Objection concerning opinion and reasoning, and to the Third Objection, concerning the error of the sinner, who errs in the practical judgment of the appetible object. But in the absolute consideration of the quiddity of a thing, and of those things which are known thereby, the intellect is never deceived. In this sense are to be understood the authorities quoted in proof of the opposite conclusion.
-# Whether One Person Can Understand One And The Same Thing Better Than Another Can?
+## Whether One Person Can Understand One And The Same Thing Better Than Another Can?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one person cannot understand one and the same thing better than another can. For Augustine says (QQ. 83, qu. 32), "Whoever understands a thing otherwise than as it is, does not understand it at all. Hence it is clear that there is a perfect understanding, than which none other is more perfect: and therefore there are not infinite degrees of understanding a thing: nor can one person understand a thing better than another can."
 
@@ -183,7 +183,7 @@ Objection 2: Further, the intellect is true in its act of understanding. But tru
 
 Objection 3: Further, the intellect is the most formal of all that is in man. But different forms cause different species. Therefore if one man understands better than another, it would seem that they do not belong to the same species.
 
-## Answer
+### Answer
 
 On the contrary, Experience shows that some understand more profoundly than do others; as one who carries a conclusion to its first principles and ultimate causes understands it better than the one who reduces it only to its proximate causes.
 
@@ -191,12 +191,12 @@ I answer that, A thing being understood more by one than by another may be taken
 
 The reply to the First Objection is clear from the above; likewise the reply to the Second, for the truth of the intellect consists in the intellect understanding a thing as it is.
 
-## Replies
+### Replies
 
 Reply to Objection 3: The difference of form which is due only to the different disposition of matter, causes not a specific but only a numerical difference: for different individuals have different forms, diversified according to the difference of matter.
-# Whether The Intellect Understands The Indivisible Before The Divisible?
+## Whether The Intellect Understands The Indivisible Before The Divisible?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the intellect understands the indivisible before the divisible. For the Philosopher says (Phys. i, 1) that "we understand and know from the knowledge of principles and elements." But principles are indivisible, and elements are of divisible things. Therefore the indivisible is known to us before the divisible.
 
@@ -204,7 +204,7 @@ Objection 2: Further, the definition of a thing contains what is known previousl
 
 Objection 3: Further, "Like is known by like." But the indivisible is more like to the intellect than is the divisible; because "the intellect is simple" (De Anima iii, 4). Therefore our intellect first knows the indivisible.
 
-## Answer
+### Answer
 
 On the contrary, It is said (De Anima iii, 6) that "the indivisible is expressed as a privation." But privation is known secondarily. Therefore likewise is the indivisible.
 
@@ -212,7 +212,7 @@ I answer that, The object of our intellect in its present state is the quiddity 
 
 But if our intellect understood by participation of certain separate indivisible (forms), as the Platonists maintained, it would follow that a like indivisible is understood primarily; for according to the Platonists what is first is first participated by things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the acquisition of knowledge, principles and elements are not always (known) first: for sometimes from sensible effects we arrive at the knowledge of principles and intelligible causes. But in perfect knowledge, the knowledge of effects always depends on the knowledge of principles and elements: for as the Philosopher says in the same passage: "Then do we consider that we know, when we can resolve principles into their causes."
 

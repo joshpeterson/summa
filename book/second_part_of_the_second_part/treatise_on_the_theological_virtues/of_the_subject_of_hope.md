@@ -5,9 +5,9 @@ We must now consider the subject of hope, under which head there are four points
 (2) Whether it is in the blessed?
 (3) Whether it is in the damned?
 (4) Whether there is certainty in the hope of the wayfarer?
-# Whether Hope Is In The Will As Its Subject?
+## Whether Hope Is In The Will As Its Subject?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that hope is not in the will as its subject. For the object of hope is an arduous good, as stated above (Q[17], A[1]; [2448]FS, Q[40], A[1]). Now the arduous is the object, not of the will, but of the irascible. Therefore hope is not in the will but in the irascible.
 
@@ -15,22 +15,22 @@ Objection 2: Further, where one suffices it is superfluous to add another. Now c
 
 Objection 3: Further, the one same power cannot exercise two acts at the same time; thus the intellect cannot understand many things simultaneously. Now the act of hope can be at the same time as an act of charity. Since, then, the act of charity evidently belongs to the will, it follows that the act of hope does not belong to that power: so that, therefore, hope is not in the will.
 
-## Answer
+### Answer
 
 On the contrary, The soul is not apprehensive of God save as regards the mind in which is memory, intellect and will, as Augustine declares (De Trin. xiv, 3,6). Now hope is a theological virtue having God for its object. Since therefore it is neither in the memory, nor in the intellect, which belong to the cognitive faculty, it follows that it is in the will as its subject.
 
 I answer that, As shown above ([2449]FP, Q[87], A[2]), habits are known by their acts. Now the act of hope is a movement of the appetitive faculty, since its object is a good. And, since there is a twofold appetite in man, namely, the sensitive which is divided into irascible and concupiscible, and the intellective appetite, called the will, as stated in the [2450]FP, Q[82], A[5], those movements which occur in the lower appetite, are with passion, while those in the higher appetite are without passion, as shown above ([2451]FP, Q[87], A[2], ad 1; [2452]FS, Q[22], A[3], ad 3). Now the act of the virtue of hope cannot belong to the sensitive appetite, since the good which is the principal object of this virtue, is not a sensible but a Divine good. Therefore hope resides in the higher appetite called the will, and not in the lower appetite, of which the irascible is a part.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The object of the irascible is an arduous sensible: whereas the object of the virtue of hope is an arduous intelligible, or rather superintelligible.
 
 Reply to Objection 2: Charity perfects the will sufficiently with regard to one act, which is the act of loving: but another virtue is required in order to perfect it with regard to its other act, which is that of hoping.
 
 Reply to Objection 3: The movement of hope and the movement of charity are mutually related, as was shown above (Q[17], A[8]). Hence there is no reason why both movements should not belong at the same time to the same power: even as the intellect can understand many things at the same time if they be related to one another, as stated in the [2453]FP, Q[85], A[4].
-# Whether In The Blessed There Is Hope?
+## Whether In The Blessed There Is Hope?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the blessed there is hope. For Christ was a perfect comprehensor from the first moment of His conception. Now He had hope, since, according to a gloss, the words of Ps. 30:2, "In Thee, O Lord, have I hoped," are said in His person. Therefore in the blessed there can be hope.
 
@@ -40,7 +40,7 @@ Objection 3: Further, by the virtue of hope, a man can hope for happiness, not o
 
 Objection 4: Further, the happiness of the saints implies not only glory of the soul but also glory of the body. Now the souls of the saints in heaven, look yet for the glory of their bodies (Apoc. 6:10; Augustine, Gen. ad lit. xii, 35). Therefore in the blessed there can be hope.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 8:24): "What a man seeth, why doth he hope for?" Now the blessed enjoy the sight of God. Therefore hope has no place in them.
 
@@ -48,7 +48,7 @@ I answer that, If what gives a thing its species be removed, the species is dest
 
 Since then the arduous possible good cannot be an object of hope except in so far as it is something future, it follows that when happiness is no longer future, but present, it is incompatible with the virtue of hope. Consequently hope, like faith, is voided in heaven, and neither of them can be in the blessed.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although Christ was a comprehensor and therefore blessed as to the enjoyment of God, nevertheless He was, at the same time, a wayfarer, as regards the passibility of nature, to which He was still subject. Hence it was possible for Him to hope for the glory of impassibility and immortality, yet not so as to the virtue of hope, the principal object of which is not the glory of the body but the enjoyment of God.
 
@@ -57,9 +57,9 @@ Reply to Objection 2: The happiness of the saints is called eternal life, becaus
 Reply to Objection 3: So long as the virtue of hope lasts, it is by the same hope that one hopes for one's own happiness, and for that of others. But when hope is voided in the blessed, whereby they hoped for their own happiness, they hope for the happiness of others indeed, yet not by the virtue of hope, but rather by the love of charity. Even so, he that has Divine charity, by that same charity loves his neighbor, without having the virtue of charity, but by some other love.
 
 Reply to Objection 4: Since hope is a theological virtue having God for its object, its principal object is the glory of the soul, which consists in the enjoyment of God, and not the glory of the body. Moreover, although the glory of the body is something arduous in comparison with human nature, yet it is not so for one who has the glory of the soul; both because the glory of the body is a very small thing as compared with the glory of the soul, and because one who has the glory of the soul has already the sufficient cause of the glory of the body.
-# Whether Hope Is In The Damned?
+## Whether Hope Is In The Damned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is hope in the damned. For the devil is damned and prince of the damned, according to Mat. 25:41: "Depart . . . you cursed, into everlasting fire, which was prepared for the devil and his angels." But the devil has hope, according to Job 40:28, "Behold his hope shall fail him." Therefore it seems that the damned have hope.
 
@@ -67,7 +67,7 @@ Objection 2: Further, just as faith is either living or dead, so is hope. But li
 
 Objection 3: Further, after death there accrues to man no merit or demerit that he had not before, according to Eccles. 11:3, "If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be." Now many who are damned, in this life hoped and never despaired. Therefore they will hope in the future life also.
 
-## Answer
+### Answer
 
 On the contrary, Hope causes joy, according to Rom. 12:12, "Rejoicing in hope." Now the damned have no joy, but sorrow and grief, according to Is. 65:14, "My servants shall praise for joyfulness of heart, and you shall cry for sorrow of heart, and shall howl for grief of spirit." Therefore no hope is in the damned.
 
@@ -75,16 +75,16 @@ I answer that, Just as it is a condition of happiness that the will should find 
 
 In like manner, since the everlastingness of damnation is a necessary condition of the punishment of the damned, it would not be truly penal unless it went against the will; and this would be impossible if they were ignorant of the everlastingness of their damnation. Hence it belongs to the unhappy state of the damned, that they should know that they cannot by any means escape from damnation and obtain happiness. Wherefore it is written (Job 15:22): "He believeth not that he may return from darkness to light." It is, therefore, evident that they cannot apprehend happiness as a possible good, as neither can the blessed apprehend it as a future good. Consequently there is no hope either in the blessed or in the damned. On the other hand, hope can be in wayfarers, whether of this life or in purgatory, because in either case they apprehend happiness as a future possible thing.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Gregory says (Moral. xxxiii, 20) this is said of the devil as regards his members, whose hope will fail utterly: or, if it be understood of the devil himself, it may refer to the hope whereby he expects to vanquish the saints, in which sense we read just before (Job 40:18): "He trusteth that the Jordan may run into his mouth": this is not, however, the hope of which we are speaking.
 
 Reply to Objection 2: As Augustine says (Enchiridion viii), "faith is about things, bad or good, past, present, or future, one's own or another's; whereas hope is only about good things, future and concerning oneself." Hence it is possible for lifeless faith to be in the damned, but not hope, since the Divine goods are not for them future possible things, but far removed from them.
 
 Reply to Objection 3: Lack of hope in the damned does not change their demerit, as neither does the voiding of hope in the blessed increase their merit: but both these things are due to the change in their respective states.
-# Whether There Is Certainty In The Hope Of A Wayfarer?
+## Whether There Is Certainty In The Hope Of A Wayfarer?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no certainty in the hope of a wayfarer. For hope resides in the will. But certainty pertains not to the will but to the intellect. Therefore there is no certainty in hope.
 
@@ -92,7 +92,7 @@ Objection 2: Further, hope is based on grace and merits, as stated above (Q[17],
 
 Objection 3: Further, there can be no certainty about that which may fail. Now many a hopeful wayfarer fails to obtain happiness. Therefore wayfarer's hope has no certainty.
 
-## Answer
+### Answer
 
 On the contrary, "Hope is the certain expectation of future happiness," as the Master states (Sent. iii, D, 26): and this may be gathered from 2 Tim. 1:12, "I know Whom I have believed, and I am certain that He is able to keep that which I have committed to Him."
 
@@ -100,7 +100,7 @@ I answer that, Certainty is found in a thing in two ways, essentially and by par
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Hope does not trust chiefly in grace already received, but on God's omnipotence and mercy, whereby even he that has not grace, can obtain it, so as to come to eternal life. Now whoever has faith is certain of God's omnipotence and mercy.
 

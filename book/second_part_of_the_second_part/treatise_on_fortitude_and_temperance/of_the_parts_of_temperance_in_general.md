@@ -1,9 +1,9 @@
 # Of The Parts Of Temperance, In General
 
 We must now consider the parts of temperance: we shall consider these same parts (1) in general; (2) each of them in particular.
-# Whether The Parts Of Temperance Are Rightly Assigned?
+## Whether The Parts Of Temperance Are Rightly Assigned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Tully (De Invent. Rhet. ii, 54) unbecomingly assigns the parts of temperance, when he asserts them to be "continence, mildness, and modesty." For continence is reckoned to be distinct from virtue (Ethic. vii, 1): whereas temperance is comprised under virtue. Therefore continence is not a part of temperance.
 
@@ -13,7 +13,7 @@ Objection 3: Further, modesty concerns external action, wherefore the Apostle sa
 
 Objection 4: Further, Macrobius (In Somn. Scip. i, 8) reckons many more parts of temperance: for he says that "temperance results in modesty, shamefacedness, abstinence, chastity, honesty, moderation, lowliness, sobriety, purity." Andronicus also says [*De Affectibus] that "the companions of temperance are gravity, continence, humility, simplicity, refinement, method, contentment." [*'Per-se-sufficientiam' which could be rendered 'self-sufficiency,' but for the fact that this is taken in a bad sense. See[3454] Q[169], A[1].] Therefore it seems that Tully insufficiently reckoned the parts of temperance.
 
-## Answer
+### Answer
 
 
 
@@ -29,7 +29,7 @@ With regard to bodily movements and actions, moderation and restraint is the eff
 
 With regard to external things, a twofold moderation has to be observed. First, we must not desire too many, and to this Macrobius assigns "lowliness," and Andronicus "contentment"; secondly, we must not be too nice in our requirements, and to this Macrobius ascribes "moderation," Andronicus "simplicity."
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is true that continence differs from virtue, just as imperfect differs from perfect, as we shall state further on ([3456]Q[165], A[1]); and in this sense it is condivided with virtue. Yet it has something in common with temperance both as to matter, since it is about pleasures of touch, and as to mode, since it is a kind of restraint. Hence it is suitably assigned as a part of temperance.
 

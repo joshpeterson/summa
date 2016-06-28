@@ -3,9 +3,9 @@
 We must now consider the condition of the offspring---first, as regards the body; secondly, as regards virtue; thirdly, in knowledge. Under the first head there are two points of inquiry:
 (1) Whether in the state of innocence children would have had full powers of the body immediately after birth?
 (2) Whether all infants would have been of the male sex?
-# Whether In The State Of Innocence Children Would Have Had Perfect Strength Of Body As To The Use Of Its Members Immediately After Birth?
+## Whether In The State Of Innocence Children Would Have Had Perfect Strength Of Body As To The Use Of Its Members Immediately After Birth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the state of innocence children would have had perfect strength of the body, as to the use of its members, immediately after birth. For Augustine says (De Pecc. Merit. et Remiss. i, 38): "This weakness of the body befits their weakness of mind." But in the state of innocence there would have been no weakness of mind. Therefore neither would there have been weakness of body in infants.
 
@@ -15,7 +15,7 @@ Objection 3: Further, inability to secure a proffered pleasure causes affliction
 
 Objection 4: Further, the weakness of old age seems to correspond to that of infancy. But in the state of innocence there would have been no weakness of old age. Therefore neither would there have been such weakness in infancy.
 
-## Answer
+### Answer
 
 On the contrary, Everything generated is first imperfect. But in the state of innocence children would have been begotten by generation. Therefore from the first they would have been imperfect in bodily size and power.
 
@@ -23,16 +23,16 @@ I answer that, By faith alone do we hold truths which are above nature, and what
 
 Now we have it on the authority of Scripture that "God made man right" (Eccles. 7:30), which rightness, as Augustine says (De Civ. Dei xiv, 11), consists in the perfect subjection of the body to the soul. As, therefore, in the primitive state it was impossible to find in the human limbs anything repugnant to man's well-ordered will, so was it impossible for those limbs to fail in executing the will's commands. Now the human will is well ordered when it tends to acts which are befitting to man. But the same acts are not befitting to man at every season of life. We must, therefore, conclude that children would not have had sufficient strength for the use of their limbs for the purpose of performing every kind of act; but only for the acts befitting the state of infancy, such as suckling, and the like.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine is speaking of the weakness which we observe in children even as regards those acts which befit the state of infancy; as is clear from his preceding remark that "even when close to the breast, and longing for it, they are more apt to cry than to suckle."
 
 Reply to Objection 2: The fact that some animals have the use of their limbs immediately after birth, is due, not to their superiority, since more perfect animals are not so endowed; but to the dryness of the brain, and to the operations proper to such animals being imperfect, so that a small amount of strength suffices them.
 
 Reply to Objection 4: In the state of innocence man would have been born, yet not subject to corruption. Therefore in that state there could have been certain infantile defects which result from birth; but not senile defects leading to corruption.
-# Whether, In The Primitive State, Women Would Have Been Born?
+## Whether, In The Primitive State, Women Would Have Been Born?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the primitive state woman would not have been born. For the Philosopher says (De Gener. Animal. ii, 3) that woman is a "misbegotten male," as though she were a product outside the purpose of nature. But in that state nothing would have been unnatural in human generation. Therefore in that state women would not have been born.
 
@@ -40,13 +40,13 @@ Objection 2: Further, every agent produces its like, unless prevented by insuffi
 
 Objection 3: Further, in the state of innocence generation is ordered to the multiplication of the human race. But the race would have been sufficiently multiplied by the first man and woman, from the fact that they would have lived for ever. Therefore, in the state of innocence, there was no need for women to be born.
 
-## Answer
+### Answer
 
 On the contrary, Nature's process in generation would have been in harmony with the manner in which it was established by God. But established male and female in human nature, as it is written (Gn. 1, 2). Therefore also in the state of innocence male and female would have been born.
 
 I answer that, Nothing belonging to the completeness of human nature would have been lacking in the state of innocence. And as different grades belong to the perfection of the universe, so also diversity of sex belongs to the perfection of human nature. Therefore in the state of innocence, both sexes would have been begotten.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Woman is said to be a "misbegotten male," as being a product outside the purpose of nature considered in the individual case: but not against the purpose of universal nature, as above explained ([806]Q[92], A[1], ad 2).
 

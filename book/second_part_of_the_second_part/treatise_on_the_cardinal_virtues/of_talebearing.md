@@ -3,9 +3,9 @@
 We must now consider tale-bearing: under which head there are two points of inquiry:
 (1) Whether tale-bearing is a sin distinct from backbiting?
 (2) Which of the two is the more grievous?
-# Whether Tale-bearing Is A Sin Distinct From Backbiting?
+## Whether Tale-bearing Is A Sin Distinct From Backbiting?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that tale-bearing is not a distinct sin from backbiting. Isidore says (Etym. x): "The susurro [tale-bearer] takes his name from the sound of his speech, for he speaks disparagingly not to the face but into the ear." But to speak of another disparagingly belongs to backbiting. Therefore tale-bearing is not a distinct sin from backbiting.
 
@@ -13,22 +13,22 @@ Objection 2: Further, it is written (Lev. 19:16): "Thou shalt not be an informer
 
 Objection 3: Further, it is written (Ecclus. 28:15): "The tale-bearer [Douay: 'whisperer'] and the double-tongued is accursed." But a double-tongued man is apparently the same as a backbiter, because a backbiter speaks with a double tongue, with one in your absence, with another in your presence. Therefore a tale-bearer is the same as a backbiter.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on Rom. 1:29,30, "Tale-bearers, backbiters [Douay: 'whisperers, detractors']" says: "Tale-bearers sow discord among friends; backbiters deny or disparage others' good points."
 
 I answer that, The tale-bearer and the backbiter agree in matter, and also in form or mode of speaking, since they both speak evil secretly of their neighbor: and for this reason these terms are sometimes used one for the other. Hence a gloss on Ecclus. 5:16, "Be not called a tale-bearer [Douay: 'whisperer']" says: "i.e. a backbiter." They differ however in end, because the backbiter intends to blacken his neighbor's good name, wherefore he brings forward those evils especially about his neighbor which are likely to defame him, or at least to depreciate his good name: whereas a tale-bearer intends to sever friendship, as appears from the gloss quoted above and from the saying of Prov. 26:20, "Where the tale-bearer is taken away, contentions shall cease." Hence it is that a tale-bearer speaks such ill about his neighbors as may stir his hearer's mind against them, according to Ecclus. 28:11, "A sinful man will trouble his friends, and bring in debate in the midst of them that are at peace."
 
-## Replies
+### Replies
 
 Reply to Objection 1: A tale-bearer is called a backbiter in so far as he speaks ill of another; yet he differs from a backbiter since he intends not to speak ill as such, but to say anything that may stir one man against another, though it be good simply, and yet has a semblance of evil through being unpleasant to the hearer.
 
 Reply to Objection 2: An informer differs from a tale-bearer and a backbiter, for an informer is one who charges others publicly with crimes, either by accusing or by railing them, which does not apply to a backbiter or tale-bearer.
 
 Reply to Objection 3: A double-tongued person is properly speaking a tale-bearer. For since friendship is between two, the tale-bearer strives to sever friendship on both sides. Hence he employs a double tongue towards two persons, by speaking ill of one to the other: wherefore it is written (Ecclus. 28:15): "The tale-bearer [Douay: 'whisperer'] and the double-tongued is accursed," and then it is added, "for he hath troubled many that were peace."
-# Whether Backbiting Is A Graver Sin Than Tale-bearing?
+## Whether Backbiting Is A Graver Sin Than Tale-bearing?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that backbiting is a graver sin than tale-bearing. For sins of word consist in speaking evil. Now a backbiter speaks of his neighbor things that are evil simply, for such things lead to the loss or depreciation of his good name: whereas a tale-bearer is only intent on saying what is apparently evil, because to wit they are unpleasant to the hearer. Therefore backbiting is a graver sin than tale-bearing.
 
@@ -36,13 +36,13 @@ Objection 2: Further, he that deprives. a man of his good name, deprives him not
 
 Objection 3: Further, it is written (James 4:11): "He that backbiteth [Douay:,'detracteth'] his brother . . . detracteth the law," and consequently God the giver of the law. Wherefore the sin of backbiting seems to be a sin against God, which is most grievous, as stated above (Q[20], A[3]; [2956]FS, Q[73], A[3]). On the other hand the sin of tale-bearing is against one's neighbor. Therefore the sin of backbiting is graver than the sin of tale-bearing.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 5:17): "An evil mark of disgrace is upon the double-tongued; but to the tale-bearer [Douay: 'whisperer'] hatred, and enmity, and reproach."
 
 I answer that, As stated above (Q[73], A[3]; [2957]FS, Q[73], A[8]), sins against one's neighbor are the more grievous, according as they inflict a greater injury on him: and an injury is so much the greater, according to the greatness of the good which it takes away. Now of all one's external goods a friend takes the first place, since "no man can live without friends," as the Philosopher declares (Ethic. viii, 1). Hence it is written (Ecclus. 6:15): "Nothing can be compared to a faithful friend." Again, a man's good name whereof backbiting deprives him, is most necessary to him that he may be fitted for friendship. Therefore tale-bearing is a greater sin than backbiting or even reviling, because a friend is better than honor, and to be loved is better than to be honored, according to the Philosopher (Ethic. viii).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The species and gravity of a sin depend on the end rather than on the material object, wherefore, by reason of its end, tale-bearing is worse than backbiting, although sometimes the backbiter says worse things.
 

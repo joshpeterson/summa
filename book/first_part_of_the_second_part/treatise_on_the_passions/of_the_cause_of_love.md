@@ -5,9 +5,9 @@ We must now consider the cause of love: and under this head there are four point
 (2) Whether knowledge is a cause of love?
 (3) Whether likeness is a cause of love?
 (4) Whether any other passion of the soul is a cause of love?
-# Whether Good Is The Only Cause Of Love?
+## Whether Good Is The Only Cause Of Love?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that good is not the only cause of love. For good does not cause love, except because it is loved. But it happens that evil also is loved, according to Ps. 10:6: "He that loveth iniquity, hateth his own soul": else, every love would be good. Therefore good is not the only cause of love.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the Philosopher says (Rhet. ii, 4) that "we love those who
 
 Objection 3: Further, Dionysius says (Div. Nom. iv) that not "the good" only but also "the beautiful is beloved by all."
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. viii, 3): "Assuredly the good alone is beloved." Therefore good alone is the cause of love.
 
 I answer that, As stated above ([1229]Q[26], A[1]), Love belongs to the appetitive power which is a passive faculty. Wherefore its object stands in relation to it as the cause of its movement or act. Therefore the cause of love must needs be love's object. Now the proper object of love is the good; because, as stated above ([1230]Q[26], AA[1],2), love implies a certain connaturalness or complacency of the lover for the thing beloved, and to everything, that thing is a good, which is akin and proportionate to it. It follows, therefore, that good is the proper cause of love.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Evil is never loved except under the aspect of good, that is to say, in so far as it is good in some respect, and is considered as being good simply. And thus a certain love is evil, in so far as it tends to that which is not simply a true good. It is in this way that man "loves iniquity," inasmuch as, by means of iniquity, some good is gained; pleasure, for instance, or money, or such like.
 
 Reply to Objection 2: Those who acknowledge their evils, are beloved, not for their evils, but because they acknowledge them, for it is a good thing to acknowledge one's faults, in so far as it excludes insincerity or hypocrisy.
 
 Reply to Objection 3: The beautiful is the same as the good, and they differ in aspect only. For since good is what all seek, the notion of good is that which calms the desire; while the notion of the beautiful is that which calms the desire, by being seen or known. Consequently those senses chiefly regard the beautiful, which are the most cognitive, viz. sight and hearing, as ministering to reason; for we speak of beautiful sights and beautiful sounds. But in reference to the other objects of the other senses, we do not use the expression "beautiful," for we do not speak of beautiful tastes, and beautiful odors. Thus it is evident that beauty adds to goodness a relation to the cognitive faculty: so that "good" means that which simply pleases the appetite; while the "beautiful" is something pleasant to apprehend.
-# Whether Knowledge Is A Cause Of Love?
+## Whether Knowledge Is A Cause Of Love?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that knowledge is not a cause of love. For it is due to love that a thing is sought. But some things are sought without being known, for instance, the sciences; for since "to have them is the same as to know them," as Augustine says (QQ[83], qu. 35), if we knew them we should have them, and should not seek them. Therefore knowledge is not the cause of love.
 
@@ -38,22 +38,22 @@ Objection 2: Further, to love what we know not seems like loving something more 
 
 Objection 3: Further, if knowledge were the cause of love, there would be no love, where there is no knowledge. But in all things there is love, as Dionysius says (Div. Nom. iv); whereas there is not knowledge in all things. Therefore knowledge is not the cause of love.
 
-## Answer
+### Answer
 
 On the contrary, Augustine proves (De Trin. x, 1,2) that "none can love what he does not know."
 
 I answer that, As stated above [1231](A[1]), good is the cause of love, as being its object. But good is not the object of the appetite, except as apprehended. And therefore love demands some apprehension of the good that is loved. For this reason the Philosopher (Ethic. ix, 5,12) says that bodily sight is the beginning of sensitive love: and in like manner the contemplation of spiritual beauty or goodness is the beginning of spiritual love. Accordingly knowledge is the cause of love for the same reason as good is, which can be loved only if known.
 
-## Replies
+### Replies
 
 Reply to Objection 1: He who seeks science, is not entirely without knowledge thereof: but knows something about it already in some respect, either in a general way, or in some one of its effects, or from having heard it commended, as Augustine says (De Trin. x, 1,2). But to have it is not to know it thus, but to know it perfectly.
 
 Reply to Objection 2: Something is required for the perfection of knowledge, that is not requisite for the perfection of love. For knowledge belongs to the reason, whose function it is to distinguish things which in reality are united, and to unite together, after a fashion, things that are distinct, by comparing one with another. Consequently the perfection of knowledge requires that man should know distinctly all that is in a thing, such as its parts, powers, and properties. On the other hand, love is in the appetitive power, which regards a thing as it is in itself: wherefore it suffices, for the perfection of love, that a thing be loved according as it is known in itself. Hence it is, therefore, that a thing is loved more than it is known; since it can be loved perfectly, even without being perfectly known. This is most evident in regard to the sciences, which some love through having a certain general knowledge of them: for instance, they know that rhetoric is a science that enables man to persuade others; and this is what they love in rhetoric. The same applies to the love of God.
 
 Reply to Objection 3: Even natural love, which is in all things, is caused by a kind of knowledge, not indeed existing in natural things themselves, but in Him Who created their nature, as stated above (Q[26], A[1]; cf. [1232]FP, Q[6], A[1], ad 2).
-# Whether Likeness Is A Cause Of Love?
+## Whether Likeness Is A Cause Of Love?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that likeness is not a cause of love. For the same thing is not the cause of contraries. But likeness is the cause of hatred; for it is written (Prov. 13:10) that "among the proud there are always contentions"; and the Philosopher says (Ethic. viii, 1) that "potters quarrel with one another." Therefore likeness is not a cause of love.
 
@@ -63,7 +63,7 @@ Objection 3: Further, everyone loves that which he needs, even if he have it not
 
 Objection 4: Further, the Philosopher says (Rhet. ii, 4) that "we love those who bestow money and health on us; and also those who retain their friendship for the dead." But all are not such. Therefore likeness is not a cause of love.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 13:19): "Every beast loveth its like."
 
@@ -75,16 +75,16 @@ Now it has been stated above ([1233]Q[26], A[4]), that in the love of concupisce
 
 Hence the Reply to the First Objection is evident.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Even when a man loves in another what he loves not in himself, there is a certain likeness of proportion: because as the latter is to that which is loved in him, so is the former to that which he loves in himself: for instance, if a good singer love a good writer, we can see a likeness of proportion, inasmuch as each one has that which is becoming to him in respect of his art.
 
 Reply to Objection 3: He that loves what he needs, bears a likeness to what he loves, as potentiality bears a likeness to its act, as stated above.
 
 Reply to Objection 4: According to the same likeness of potentiality to its act, the illiberal man loves the man who is liberal, in so far as he expects from him something which he desires. The same applies to the man who is constant in his friendship as compared to one who is inconstant. For in either case friendship seems to be based on usefulness. We might also say that although not all men have these virtues in the complete habit, yet they have them according to certain seminal principles in the reason, in force of which principles the man who is not virtuous loves the virtuous man, as being in conformity with his own natural reason.
-# Whether Any Other Passion Of The Soul Is A Cause Of Love?
+## Whether Any Other Passion Of The Soul Is A Cause Of Love?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that some other passion can be the cause of love. For the Philosopher (Ethic. viii, 3) says that some are loved for the sake of the pleasure they give. But pleasure is a passion. Therefore another passion is a cause of love.
 
@@ -92,13 +92,13 @@ Objection 2: Further, desire is a passion. But we love some because we desire to
 
 Objection 3: Further, Augustine says (De Trin. x, 1): "When we have no hope of getting a thing, we love it but half-heartedly or not at all, even if we see how beautiful it is." Therefore hope too is a cause of love.
 
-## Answer
+### Answer
 
 On the contrary, All the other emotions of the soul are caused by love, as Augustine says (De Civ. Dei xiv, 7,9).
 
 I answer that, There is no other passion of the soul that does not presuppose love of some kind. The reason is that every other passion of the soul implies either movement towards something, or rest in something. Now every movement towards something, or rest in something, arises from some kinship or aptness to that thing; and in this does love consist. Therefore it is not possible for any other passion of the soul to be universally the cause of every love. But it may happen that some other passion is the cause of some particular love: just as one good is the cause of another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When a man loves a thing for the pleasure it affords, his love is indeed caused by pleasure; but that very pleasure is caused, in its turn, by another preceding love; for none takes pleasure save in that which is loved in some way.
 

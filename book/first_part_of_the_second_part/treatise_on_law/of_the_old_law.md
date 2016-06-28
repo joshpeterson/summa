@@ -7,9 +7,9 @@ In due sequence we must now consider the Old Law; and (1) The Law itself; (2) It
 (4) Whether it was given to all?
 (5) Whether it was binding on all?
 (6) Whether it was given at a suitable time?
-# Whether The Old Law Was Good?
+## Whether The Old Law Was Good?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law was not good. For it is written (Ezech. 20:25): "I gave them statutes that were not good, and judgments in which they shall not live." But a law is not said to be good except on account of the goodness of the precepts that it contains. Therefore the Old Law was not good.
 
@@ -17,7 +17,7 @@ Objection 2: Further, it belongs to the goodness of a law that it conduce to the
 
 Objection 3: Further, it belongs to the goodness of the law that it should be possible to obey it, both according to nature, and according to human custom. But such the Old Law was not: since Peter said (Acts 15:10): "Why tempt you (God) to put a yoke on the necks of the disciples, which neither our fathers nor we have been able to bear?" Therefore it seems that the Old Law was not good.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 7:12): "Wherefore the law indeed is holy, and the commandment holy, and just, and good."
 
@@ -25,16 +25,16 @@ I answer that, Without any doubt, the Old Law was good. For just as a doctrine i
 
 But it must be noted that the good has various degrees, as Dionysius states (Div. Nom. iv): for there is a perfect good, and an imperfect good. In things ordained to an end, there is perfect goodness when a thing is such that it is sufficient in itself to conduce to the end: while there is imperfect goodness when a thing is of some assistance in attaining the end, but is not sufficient for the realization thereof. Thus a medicine is perfectly good, if it gives health to a man; but it is imperfect, if it helps to cure him, without being able to bring him back to health. Again it must be observed that the end of human law is different from the end of Divine law. For the end of human law is the temporal tranquillity of the state, which end law effects by directing external actions, as regards those evils which might disturb the peaceful condition of the state. On the other hand, the end of the Divine law is to bring man to that end which is everlasting happiness; which end is hindered by any sin, not only of external, but also of internal action. Consequently that which suffices for the perfection of human law, viz. the prohibition and punishment of sin, does not suffice for the perfection of the Divine law: but it is requisite that it should make man altogether fit to partake of everlasting happiness. Now this cannot be done save by the grace of the Holy Ghost, whereby "charity" which fulfilleth the law . . . "is spread abroad in our hearts" (Rom. 5:5): since "the grace of God is life everlasting" (Rom. 6:23). But the Old Law could not confer this grace, for this was reserved to Christ; because, as it is written (Jn. 1:17), the law was given "by Moses, grace and truth came by Jesus Christ." Consequently the Old Law was good indeed, but imperfect, according to Heb. 7:19: "The law brought nothing to perfection."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Lord refers there to the ceremonial precepts; which are said not to be good, because they did not confer grace unto the remission of sins, although by fulfilling these precepts man confessed himself a sinner. Hence it is said pointedly, "and judgments in which they shall not live"; i.e. whereby they are unable to obtain life; and so the text goes on: "And I polluted them," i.e. showed them to be polluted, "in their own gifts, when they offered all that opened the womb, for their offenses."
 
 Reply to Objection 2: The law is said to have been deadly, as being not the cause, but the occasion of death, on account of its imperfection: in so far as it did not confer grace enabling man to fulfil what is prescribed, and to avoid what it forbade. Hence this occasion was not given to men, but taken by them. Wherefore the Apostle says (Rom. 5:11): "Sin, taking occasion by the commandment, seduced me, and by it killed me." In the same sense when it is said that "the law entered in that sin might abound," the conjunction "that" must be taken as consecutive and not final: in so far as men, taking occasion from the law, sinned all the more, both because a sin became more grievous after law had forbidden it, and because concupiscence increased, since we desire a thing the more from its being forbidden.
 
 Reply to Objection 3: The yoke of the law could not be borne without the help of grace, which the law did not confer: for it is written (Rom. 9:16): "It is not him that willeth, nor of him that runneth," viz. that he wills and runs in the commandments of God, "but of God that showeth mercy." Wherefore it is written (Ps. 118:32): "I have run the way of Thy commandments, when Thou didst enlarge my heart," i.e. by giving me grace and charity.
-# Whether The Old Law Was From God?
+## Whether The Old Law Was From God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law was not from God. For it is written (Dt. 32:4): "The works of God are perfect." But the Law was imperfect, as stated above [2060](A[1]). Therefore the Old Law was not from God.
 
@@ -44,13 +44,13 @@ Objection 3: Further, a wise lawgiver should remove, not only evil, but also the
 
 Objection 4: Further, it is written (1 Tim. 2:4) that God "will have all men to be saved." But the Old Law did not suffice to save man, as stated above [2061](A[1]). Therefore the giving of such a law did not appertain to God. Therefore the Old Law was not from God.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said (Mat. 15:6) while speaking to the Jews, to whom the Law was given: "You have made void the commandment of God for your tradition." And shortly before (verse 4) He had said: "Honor thy father and mother," which is contained expressly in the Old Law (Ex. 20:12; Dt. 5:16). Therefore the Old Law was from God.
 
 I answer that, The Old Law was given by the good God, Who is the Father of Our Lord Jesus Christ. For the Old Law ordained men to Christ in two ways. First by bearing witness to Christ; wherefore He Himself says (Lk. 24:44): "All things must needs be fulfilled, which are written in the law . . . and in the prophets, and in the psalms, concerning Me": and (Jn. 5:46): "If you did believe Moses, you would perhaps believe Me also; for he wrote of Me." Secondly, as a kind of disposition, since by withdrawing men from idolatrous worship, it enclosed [concludebat] them in the worship of one God, by Whom the human race was to be saved through Christ. Wherefore the Apostle says (Gal. 3:23): "Before the faith came, we were kept under the law shut up [conclusi], unto that faith which was to be revealed." Now it is evident that the same thing it is, which gives a disposition to the end, and which brings to the end; and when I say "the same," I mean that it does so either by itself or through its subjects. For the devil would not make a law whereby men would be led to Christ, Who was to cast him out, according to Mat. 12:26: "If Satan cast out Satan, his kingdom is divided" [Vulg.: 'he is divided against himself']. Therefore the Old Law was given by the same God, from Whom came salvation to man, through the grace of Christ.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Nothing prevents a thing being not perfect simply, and yet perfect in respect of time: thus a boy is said to be perfect, not simply, but with regard to the condition of time. So, too, precepts that are given to children are perfect in comparison with the condition of those to whom they are given, although they are not perfect simply. Hence the Apostle says (Gal. 3:24): "The law was our pedagogue in Christ."
 
@@ -59,9 +59,9 @@ Reply to Objection 2: Those works of God endure for ever which God so made that 
 Reply to Objection 3: As stated above ([2062]Q[79], A[4]), God sometimes permits certain ones to fall into sin, that they may thereby be humbled. So also did He wish to give such a law as men by their own forces could not fulfill, so that, while presuming on their own powers, they might find themselves to be sinners, and being humbled might have recourse to the help of grace.
 
 Reply to Objection 4: Although the Old Law did not suffice to save man, yet another help from God besides the Law was available for man, viz. faith in the Mediator, by which the fathers of old were justified even as we were. Accordingly God did not fail man by giving him insufficient aids to salvation.
-# Whether The Old Law Was Given Through The Angels?
+## Whether The Old Law Was Given Through The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the Old Law was not given through the angels, but immediately by God. For an angel means a "messenger"; so that the word "angel" denotes ministry, not lordship, according to Ps. 102:20,21: "Bless the Lord, all ye His Angels . . . you ministers of His." But the Old Law is related to have been given by the Lord: for it is written (Ex. 20:1): "And the Lord spoke . . . these words," and further on: "I am the Lord Thy God." Moreover the same expression is often repeated in Exodus, and the later books of the Law. Therefore the Law was given by God immediately.
 
@@ -69,22 +69,22 @@ Objection 2: Further, according to Jn. 1:17, "the Law was given by Moses." But M
 
 Objection 3: Further, it belongs to the sovereign alone to make a law, as stated above ([2063]Q[90], A[3]). But God alone is Sovereign as regards the salvation of souls: while the angels are the "ministering spirits," as stated in Heb. 1:14. Therefore it was not meet for the Law to be given through the angels, since it is ordained to the salvation of souls.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle said (Gal. 3:19) that the Law was "given [Vulg.: 'ordained'] by angels in the hand of a Mediator." And Stephen said (Acts 7:53): "(Who) have received the Law by the disposition of angels."
 
 I answer that, The Law was given by God through the angels. And besides the general reason given by Dionysius (Coel. Hier. iv), viz. that "the gifts of God should be brought to men by means of the angels," there is a special reason why the Old Law should have been given through them. For it has been stated ([2064]AA[1],2) that the Old Law was imperfect, and yet disposed man to that perfect salvation of the human race, which was to come through Christ. Now it is to be observed that wherever there is an order of powers or arts, he that holds the highest place, himself exercises the principal and perfect acts; while those things which dispose to the ultimate perfection are effected by him through his subordinates: thus the ship-builder himself rivets the planks together, but prepares the material by means of the workmen who assist him under his direction. Consequently it was fitting that the perfect law of the New Testament should be given by the incarnate God immediately; but that the Old Law should be given to men by the ministers of God, i.e. by the angels. It is thus that the Apostle at the beginning of his epistle to the Hebrews (1:2) proves the excellence of the New Law over the Old; because in the New Testament "God . . . hath spoken to us by His Son," whereas in the Old Testament "the word was spoken by angels" (Heb. 2:2).
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Gregory says at the beginning of his Morals (Praef. chap. i), "the angel who is described to have appeared to Moses, is sometimes mentioned as an angel, sometimes as the Lord: an angel, in truth, in respect of that which was subservient to the external delivery; and the Lord, because He was the Director within, Who supported the effectual power of speaking." Hence also it is that the angel spoke as personating the Lord.
 
 Reply to Objection 2: As Augustine says (Gen. ad lit. xii, 27), it is stated in Exodus that "the Lord spoke to Moses face to face"; and shortly afterwards we read, "Show me Thy glory. Therefore He perceived what he saw and he desired what he saw not." Hence he did not see the very Essence of God; and consequently he was not taught by Him immediately. Accordingly when Scripture states that "He spoke to him face to face," this is to be understood as expressing the opinion of the people, who thought that Moses was speaking with God mouth to mouth, when God spoke and appeared to him, by means of a subordinate creature, i.e. an angel and a cloud. Again we may say that this vision "face to face" means some kind of sublime and familiar contemplation, inferior to the vision of the Divine Essence.
 
 Reply to Objection 3: It is for the sovereign alone to make a law by his own authority; but sometimes after making a law, he promulgates it through others. Thus God made the Law by His own authority, but He promulgated it through the angels.
-# Whether The Old Law Should Have Been Given To The Jews Alone?
+## Whether The Old Law Should Have Been Given To The Jews Alone?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law should not have been given to the Jews alone. For the Old Law disposed men for the salvation which was to come through Christ, as stated above ([2065]AA[2],3). But that salvation was to come not to the Jews alone but to all nations, according to Is. 49:6: "It is a small thing that thou shouldst be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold I have given thee to be the light of the Gentiles, that thou mayest be My salvation, even to the farthest part of the earth." Therefore the Old Law should have been given to all nations, and not to one people only.
 
@@ -92,7 +92,7 @@ Objection 2: Further, according to Acts 10:34,35, "God is not a respecter of per
 
 Objection 3: Further, the law was given through the angels, as stated above [2066](A[3]). But God always vouchsafed the ministrations of the angels not to the Jews alone, but to all nations: for it is written (Ecclus. 17:14): "Over every nation He set a ruler." Also on all nations He bestows temporal goods, which are of less account with God than spiritual goods. Therefore He should have given the Law also to all peoples.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Rom. 3:1,2): "What advantage then hath the Jew? . . . Much every way. First indeed, because the words of God were committed to them": and (Ps. 147:9): "He hath not done in like manner to every nation: and His judgments He hath not made manifest unto them."
 
@@ -104,16 +104,16 @@ What this promise was is shown by the Apostle, who says (Gal. 3:16) that "to Abr
 
 It is therefore evident that it was merely from gratuitous election that the patriarchs received the promise, and that the people sprung from them received the law; according to Dt. 4:36, 37: "Ye did [Vulg.: 'Thou didst'] hear His words out of the midst of the fire, because He loved thy fathers, and chose their seed after them." And if again it asked why He chose this people, and not another, that Christ might be born thereof; a fitting answer is given by Augustine (Tract. super Joan. xxvi): "Why He draweth one and draweth not another, seek not thou to judge, if thou wish not to err."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the salvation, which was to come through Christ, was prepared for all nations, yet it was necessary that Christ should be born of one people, which, for this reason, was privileged above other peoples; according to Rom. 9:4: "To whom," namely the Jews, "belongeth the adoption as of children (of God) . . . and the testament, and the giving of the Law . . . whose are the fathers, and of whom is Christ according to the flesh."
 
 Reply to Objection 2: Respect of persons takes place in those things which are given according to due; but it has no place in those things which are bestowed gratuitously. Because he who, out of generosity, gives of his own to one and not to another, is not a respecter of persons: but if he were a dispenser of goods held in common, and were not to distribute them according to personal merits, he would be a respecter of persons. Now God bestows the benefits of salvation on the human race gratuitously: wherefore He is not a respecter of persons, if He gives them to some rather than to others. Hence Augustine says (De Praedest. Sanct. viii): "All whom God teaches, he teaches out of pity; but whom He teaches not, out of justice He teaches not": for this is due to the condemnation of the human race for the sin of the first parent.
 
 Reply to Objection 3: The benefits of grace are forfeited by man on account of sin: but not the benefits of nature. Among the latter are the ministries of the angels, which the very order of various natures demands, viz. that the lowest beings be governed through the intermediate beings: and also bodily aids, which God vouchsafes not only to men, but also to beasts, according to Ps. 35:7: "Men and beasts Thou wilt preserve, O Lord."
-# Whether All Men Were Bound To Observe The Old Law?
+## Whether All Men Were Bound To Observe The Old Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all men were bound to observe the Old Law. Because whoever is subject to the king, must needs be subject to his law. But the Old Law was given by God, Who is "King of all the earth" (Ps. 46:8). Therefore all the inhabitants of the earth were bound to observe the Law.
 
@@ -121,7 +121,7 @@ Objection 2: Further, the Jews could not be saved without observing the Old Law:
 
 Objection 3: Further, the Gentiles were admitted to the Jewish ritual and to the observances of the Law: for it is written (Ex. 12:48): "If any stranger be willing to dwell among you, and to keep the Phase of the Lord, all his males shall first be circumcised, and then shall he celebrate it according to the manner; and he shall be as he that is born in the land." But it would have been useless to admit strangers to the legal observances according to Divine ordinance, if they could have been saved without the observance of the Law. Therefore none could be saved without observing the Law.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Coel. Hier. ix) that many of the Gentiles were brought back to God by the angels. But it is clear that the Gentiles did not observe the Law. Therefore some could be saved without observing the Law.
 
@@ -129,16 +129,16 @@ I answer that, The Old Law showed forth the precepts of the natural law, and add
 
 The reason of this is because the Old Law, as stated above [2067](A[4]), was given to the Jewish people, that it might receive a prerogative of holiness, in reverence for Christ Who was to be born of that people. Now whatever laws are enacted for the special sanctification of certain ones, are binding on them alone: thus clerics who are set aside for the service of God are bound to certain obligations to which the laity are not bound; likewise religious are bound by their profession to certain works of perfection, to which people living in the world are not bound. In like manner this people was bound to certain special observances, to which other peoples were not bound. Wherefore it is written (Dt. 18:13): "Thou shalt be perfect and without spot before the Lord thy God": and for this reason they used a kind of form of profession, as appears from Dt. 26:3: "I profess this day before the Lord thy God," etc.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Whoever are subject to a king, are bound to observe his law which he makes for all in general. But if he orders certain things to be observed by the servants of his household, others are not bound thereto.
 
 Reply to Objection 2: The more a man is united to God, the better his state becomes: wherefore the more the Jewish people were bound to the worship of God, the greater their excellence over other peoples. Hence it is written (Dt. 4:8): "What other nation is there so renowned that hath ceremonies and just judgments, and all the law?" In like manner, from this point of view, the state of clerics is better than that of the laity, and the state of religious than that of folk living in the world.
 
 Reply to Objection 3: The Gentiles obtained salvation more perfectly and more securely under the observances of the Law than under the mere natural law: and for this reason they were admitted to them. So too the laity are now admitted to the ranks of the clergy, and secular persons to those of the religious, although they can be saved without this.
-# Whether The Old Law Was Suitably Given At The Time Of Moses?
+## Whether The Old Law Was Suitably Given At The Time Of Moses?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Old Law was not suitably given at the time of Moses. Because the Old Law disposed man for the salvation which was to come through Christ, as stated above ([2068]AA[2],3). But man needed this salutary remedy immediately after he had sinned. Therefore the Law should have been given immediately after sin.
 
@@ -146,7 +146,7 @@ Objection 2: Further, the Old Law was given for the sanctification of those from
 
 Objection 3: Further, as Christ was born of those alone who descended from Noe through Abraham, to whom the promise was made; so was He born of no other of the descendants of Abraham but David, to whom the promise was renewed, according to 2 Kings 23:1: "The man to whom it was appointed concerning the Christ of the God of Jacob . . . said." Therefore the Old Law should have been given after David, just as it was given after Abraham.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Gal. 3:19) that the Law "was set because of transgressions, until the seed should come, to whom He made the promise, being ordained by angels in the hand of a Mediator": ordained, i.e. "given in orderly fashion," as the gloss explains. Therefore it was fitting that the Old Law should be given in this order of time.
 
@@ -154,7 +154,7 @@ I answer that, It was most fitting for the Law to be given at the time of Moses.
 
 With regard to good men, the Law was given to them as a help; which was most needed by the people, at the time when the natural law began to be obscured on account of the exuberance of sin: for it was fitting that this help should be bestowed on men in an orderly manner, so that they might be led from imperfection to perfection; wherefore it was becoming that the Old Law should be given between the law of nature and the law of grace.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It was not fitting for the Old Law to be given at once after the sin of the first man: both because man was so confident in his own reason, that he did not acknowledge his need of the Old Law; because as yet the dictate of the natural law was not darkened by habitual sinning.
 

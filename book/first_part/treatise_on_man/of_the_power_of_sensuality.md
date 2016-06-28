@@ -4,9 +4,9 @@ Next we have to consider the power of sensuality, concerning which there are thr
 (1) Whether sensuality is only an appetitive power?
 (2) Whether it is divided into irascible and concupiscible as distinct powers?
 (3) Whether the irascible and concupiscible powers obey reason?
-# Whether Sensuality Is Only Appetitive?
+## Whether Sensuality Is Only Appetitive?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sensuality is not only appetitive, but also cognitive. For Augustine says (De Trin. xii, 12) that "the sensual movement of the soul which is directed to the bodily senses is common to us and beasts." But the bodily senses belong to the apprehensive powers. Therefore sensuality is a cognitive power.
 
@@ -14,22 +14,22 @@ Objection 2: Further, things which come under one division seem to be of one gen
 
 Objection 3: Further, in man's temptations sensuality stands in the place of the "serpent." But in the temptation of our first parents, the serpent presented himself as one giving information and proposing sin, which belong to the cognitive power. Therefore sensuality is a cognitive power.
 
-## Answer
+### Answer
 
 On the contrary, Sensuality is defined as "the appetite of things belonging to the body."
 
 I answer that, The name sensuality seems to be taken from the sensual movement, of which Augustine speaks (De Trin. xii, 12, 13), just as the name of a power is taken from its act; for instance, sight from seeing. Now the sensual movement is an appetite following sensitive apprehension. For the act of the apprehensive power is not so properly called a movement as the act of the appetite: since the operation of the apprehensive power is completed in the very fact that the thing apprehended is in the one that apprehends: while the operation of the appetitive power is completed in the fact that he who desires is borne towards the thing desirable. Therefore the operation of the apprehensive power is likened to rest: whereas the operation of the appetitive power is rather likened to movement. Wherefore by sensual movement we understand the operation of the appetitive power: so that sensuality is the name of the sensitive appetite.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By saying that the sensual movement of the soul is directed to the bodily senses, Augustine does not give us to understand that the bodily senses are included in sensuality, but rather that the movement of sensuality is a certain inclination to the bodily senses, since we desire things which are apprehended through the bodily senses. And thus the bodily senses appertain to sensuality as a preamble.
 
 Reply to Objection 2: Sensuality is divided against higher and lower reason, as having in common with them the act of movement: for the apprehensive power, to which belong the higher and lower reason, is a motive power; as is appetite, to which appertains sensuality.
 
 Reply to Objection 3: The serpent not only showed and proposed sin, but also incited to the commission of sin. And in this, sensuality is signified by the serpent.
-# Whether The Sensitive Appetite Is Divided Into The Irascible And Concupiscible As Distinct Powers?
+## Whether The Sensitive Appetite Is Divided Into The Irascible And Concupiscible As Distinct Powers?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sensitive appetite is not divided into the irascible and concupiscible as distinct powers. For the same power of the soul regards both sides of a contrariety, as sight regards both black and white, according to the Philosopher (De Anima ii, 11). But suitable and harmful are contraries. Since, then, the concupiscible power regards what is suitable, while the irascible is concerned with what is harmful, it seems that irascible and concupiscible are the same power in the soul.
 
@@ -37,22 +37,22 @@ Objection 2: Further, the sensitive appetite regards only what is suitable accor
 
 Objection 3: Further, hatred is in the irascible part: for Jerome says on Mat. 13:33: "We ought to have the hatred of vice in the irascible power." But hatred is contrary to love, and is in the concupiscible part. Therefore the concupiscible and irascible are the same powers.
 
-## Answer
+### Answer
 
 On the contrary, Gregory of Nyssa (Nemesius, De Natura Hominis) and Damascene (De Fide Orth. ii, 12) assign two parts to the sensitive appetite, the irascible and the concupiscible.
 
 I answer that, The sensitive appetite is one generic power, and is called sensuality; but it is divided into two powers, which are species of the sensitive appetite---the irascible and the concupiscible. In order to make this clear, we must observe that in natural corruptible things there is needed an inclination not only to the acquisition of what is suitable and to the avoiding of what is harmful, but also to resistance against corruptive and contrary agencies which are a hindrance to the acquisition of what is suitable, and are productive of harm. For example, fire has a natural inclination, not only to rise from a lower position, which is unsuitable to it, towards a higher position which is suitable, but also to resist whatever destroys or hinders its action. Therefore, since the sensitive appetite is an inclination following sensitive apprehension, as natural appetite is an inclination following the natural form, there must needs be in the sensitive part two appetitive powers---one through which the soul is simply inclined to seek what is suitable, according to the senses, and to fly from what is hurtful, and this is called the concupiscible: and another, whereby an animal resists these attacks that hinder what is suitable, and inflict harm, and this is called the irascible. Whence we say that its object is something arduous, because its tendency is to overcome and rise above obstacles. Now these two are not to be reduced to one principle: for sometimes the soul busies itself with unpleasant things, against the inclination of the concupiscible appetite, in order that, following the impulse of the irascible appetite, it may fight against obstacles. Wherefore also the passions of the irascible appetite counteract the passions of the concupiscible appetite: since the concupiscence, on being aroused, diminishes anger; and anger being roused, diminishes concupiscence in many cases. This is clear also from the fact that the irascible is, as it were, the champion and defender of the concupiscible when it rises up against what hinders the acquisition of the suitable things which the concupiscible desires, or against what inflicts harm, from which the concupiscible flies. And for this reason all the passions of the irascible appetite rise from the passions of the concupiscible appetite and terminate in them; for instance, anger rises from sadness, and having wrought vengeance, terminates in joy. For this reason also the quarrels of animals are about things concupiscible---namely, food and sex, as the Philosopher says [*De Animal. Histor. viii.].
 
-## Replies
+### Replies
 
 Reply to Objection 1: The concupiscible power regards both what is suitable and what is unsuitable. But the object of the irascible power is to resist the onslaught of the unsuitable.
 
 Reply to Objection 2: As in the apprehensive powers of the sensitive part there is an estimative power, which perceives those things which do not impress the senses, as we have said above ([656]Q[78], A[2]); so also in the sensitive appetite there is a certain appetitive power which regards something as suitable, not because it pleases the senses, but because it is useful to the animal for self-defense: and this is the irascible power.
 
 Reply to Objection 3: Hatred belongs simply to the concupiscible appetite: but by reason of the strife which arises from hatred, it may belong to the irascible appetite.
-# Whether The Irascible And Concupiscible Appetites Obey Reason?
+## Whether The Irascible And Concupiscible Appetites Obey Reason?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the irascible and concupiscible appetites do not obey reason. For irascible and concupiscible are parts of sensuality. But sensuality does not obey reason, wherefore it is signified by the serpent, as Augustine says (De Trin. xii, 12,13). Therefore the irascible and concupiscible appetites do not obey reason.
 
@@ -60,7 +60,7 @@ Objection 2: Further, what obeys a certain thing does not resist it. But the ira
 
 Objection 3: Further, as the appetitive power is inferior to the rational part of the soul, so also is the sensitive power. But the sensitive part of the soul does not obey reason: for we neither hear nor see just when we wish. Therefore, in like manner, neither do the powers of the sensitive appetite, the irascible and concupscible, obey reason.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. ii, 12) that "the part of the soul which is obedient and amenable to reason is divided into concupiscence and anger."
 
@@ -68,7 +68,7 @@ I answer that, In two ways the irascible and concupiscible powers obey the highe
 
 To the will also is the sensitive appetite subject in execution, which is accomplished by the motive power. For in other animals movement follows at once the concupiscible and irascible appetites: for instance, the sheep, fearing the wolf, flees at once, because it has no superior counteracting appetite. On the contrary, man is not moved at once, according to the irascible and concupiscible appetites: but he awaits the command of the will, which is the superior appetite. For wherever there is order among a number of motive powers, the second only moves by virtue of the first: wherefore the lower appetite is not sufficient to cause movement, unless the higher appetite consents. And this is what the Philosopher says (De Anima iii, 11), that "the higher appetite moves the lower appetite, as the higher sphere moves the lower." In this way, therefore, the irascible and concupiscible are subject to reason.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Sensuality is signified by the serpent, in what is proper to it as a sensitive power. But the irascible and concupiscible powers denominate the sensitive appetite rather on the part of the act, to which they are led by the reason, as we have said.
 

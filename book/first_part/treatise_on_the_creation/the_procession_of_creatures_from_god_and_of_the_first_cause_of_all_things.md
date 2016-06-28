@@ -5,9 +5,9 @@ After treating of the procession of the divine persons, we must consider the pro
 (2) Whether primary matter is created by God, or is an independent coordinate principle with Him?
 (3) Whether God is the exemplar cause of beings or whether there are other exemplar causes?
 (4) Whether He is the final cause of things?
-# Whether It Is Necessary That Every Being Be Created By God?
+## Whether It Is Necessary That Every Being Be Created By God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not necessary that every being be created by God. For there is nothing to prevent a thing from being without that which does not belong to its essence, as a man can be found without whiteness. But the relation of the thing caused to its cause does not appear to be essential to beings, for some beings can be understood without it; therefore they can exist without it; and therefore it is possible that some beings should not be created by God.
 
@@ -15,7 +15,7 @@ Objection 2: Further, a thing requires an efficient cause in order to exist. The
 
 Objection 3: Further, whatever things have a cause, can be demonstrated by that cause. But in mathematics demonstration is not made by the efficient cause, as appears from the Philosopher (Metaph. iii, text 3); therefore not all beings are from God as from their efficient cause.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Rom. 11:36): "Of Him, and by Him, and in Him are all things."
 
@@ -23,16 +23,16 @@ I answer that, It must be said that every being in any way existing is from God.
 
 Hence Plato said (Parmen. xxvi) that unity must come before multitude; and Aristotle said (Metaph. ii, text 4) that whatever is greatest in being and greatest in truth, is the cause of every being and of every truth; just as whatever is the greatest in heat is the cause of all heat.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Though the relation to its cause is not part of the definition of a thing caused, still it follows, as a consequence, on what belongs to its essence; because from the fact that a thing has being by participation, it follows that it is caused. Hence such a being cannot be without being caused, just as man cannot be without having the faculty of laughing. But, since to be caused does not enter into the essence of being as such, therefore is it possible for us to find a being uncaused.
 
 Reply to Objection 2: This objection has led some to say that what is necessary has no cause (Phys. viii, text 46). But this is manifestly false in the demonstrative sciences, where necessary principles are the causes of necessary conclusions. And therefore Aristotle says (Metaph. v, text 6), that there are some necessary things which have a cause of their necessity. But the reason why an efficient cause is required is not merely because the effect is not necessary, but because the effect might not be if the cause were not. For this conditional proposition is true, whether the antecedent and consequent be possible or impossible.
 
 Reply to Objection 3: The science of mathematics treats its object as though it were something abstracted mentally, whereas it is not abstract in reality. Now, it is becoming that everything should have an efficient cause in proportion to its being. And so, although the object of mathematics has an efficient cause, still, its relation to that cause is not the reason why it is brought under the consideration of the mathematician, who therefore does not demonstrate that object from its efficient cause.
-# Whether Primary Matter Is Created By God?
+## Whether Primary Matter Is Created By God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that primary matter is not created by God. For whatever is made is composed of a subject and of something else (Phys. i, text 62). But primary matter has no subject. Therefore primary matter cannot have been made by God.
 
@@ -40,7 +40,7 @@ Objection 2: Further, action and passion are opposite members of a division. But
 
 Objection 3: Further, every agent produces its like, and thus, since every agent acts in proportion to its actuality, it follows that everything made is in some degree actual. But primary matter is only in potentiality, formally considered in itself. Therefore it is against the nature of primary matter to be a thing made.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Confess. xii, 7), Two "things hast Thou made, O Lord; one nigh unto Thyself"---viz. angels---"the other nigh unto nothing"---viz. primary matter.
 
@@ -48,16 +48,16 @@ I answer that, The ancient philosophers gradually, and as it were step by step, 
 
 Therefore whatever is the cause of things considered as beings, must be the cause of things, not only according as they are "such" by accidental forms, nor according as they are "these" by substantial forms, but also according to all that belongs to their being at all in any way. And thus it is necessary to say that also primary matter is created by the universal cause of things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher (Phys. i, text 62), is speaking of "becoming" in particular---that is, from form to form, either accidental or substantial. But here we are speaking of things according to their emanation from the universal principle of being; from which emanation matter itself is not excluded, although it is excluded from the former mode of being made.
 
 Reply to Objection 2: Passion is an effect of action. Hence it is reasonable that the first passive principle should be the effect of the first active principle, since every imperfect thing is caused by one perfect. For the first principle must be most perfect, as Aristotle says (Metaph. xii, text 40).
 
 Reply to Objection 3: The reason adduced does not show that matter is not created, but that it is not created without form; for though everything created is actual, still it is not pure act. Hence it is necessary that even what is potential in it should be created, if all that belongs to its being is created.
-# Whether The Exemplar Cause Is Anything Besides God?
+## Whether The Exemplar Cause Is Anything Besides God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the exemplar cause is something besides God. For the effect is like its exemplar cause. But creatures are far from being like God. Therefore God is not their exemplar cause.
 
@@ -67,13 +67,13 @@ Objection 3: Further, sciences and definitions are concerned with species themse
 
 Objection 4: Further, this likewise appears from Dionysius, who says (Div. Nom. v) that self-subsisting being is before self-subsisting life, and before self-subsisting wisdom.
 
-## Answer
+### Answer
 
 On the contrary, The exemplar is the same as the idea. But ideas, according to Augustine (QQ. 83, qu. 46), are "the master forms, which are contained in the divine intelligence." Therefore the exemplars of things are not outside God.
 
 I answer that, God is the first exemplar cause of all things. In proof whereof we must consider that if for the production of anything an exemplar is necessary, it is in order that the effect may receive a determinate form. For an artificer produces a determinate form in matter by reason of the exemplar before him, whether it is the exemplar beheld externally, or the exemplar interiorily conceived in the mind. Now it is manifest that things made by nature receive determinate forms. This determination of forms must be reduced to the divine wisdom as its first principle, for divine wisdom devised the order of the universe, which order consists in the variety of things. And therefore we must say that in the divine wisdom are the types of all things, which types we have called ideas---i.e. exemplar forms existing in the divine mind ([374]Q[15], A[1]). And these ideas, though multiplied by their relations to things, in reality are not apart from the divine essence, according as the likeness to that essence can be shared diversely by different things. In this manner therefore God Himself is the first exemplar of all things. Moreover, in things created one may be called the exemplar of another by the reason of its likeness thereto, either in species, or by the analogy of some kind of imitation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although creatures do not attain to a natural likeness to God according to similitude of species, as a man begotten is like to the man begetting, still they do attain to likeness to Him, forasmuch as they represent the divine idea, as a material house is like to the house in the architect's mind.
 
@@ -82,9 +82,9 @@ Reply to Objection 2: It is of a man's nature to be in matter, and so a man with
 Reply to Objection 3: Although every science and definition is concerned only with beings, still it is not necessary that a thing should have the same mode in reality as the thought of it has in our understanding. For we abstract universal ideas by force of the active intellect from the particular conditions; but it is not necessary that the universals should exist outside the particulars in order to be their exemplars.
 
 Reply to Objection 4: As Dionysius says (Div. Nom. iv), by "self-existing life and self-existing wisdom" he sometimes denotes God Himself, sometimes the powers given to things themselves; but not any self-subsisting things, as the ancients asserted.
-# Whether God Is The Final Cause Of All Things?
+## Whether God Is The Final Cause Of All Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that God is not the final cause of all things. For to act for an end seems to imply need of the end. But God needs nothing. Therefore it does not become Him to act for an end.
 
@@ -94,13 +94,13 @@ Objection 3: Further, all things desire their end. But all things do not desire 
 
 Objection 4: Further, the final cause is the first of causes. If, therefore, God is the efficient cause and the final cause, it follows that before and after exist in Him; which is impossible.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Prov. 16:4): "The Lord has made all things for Himself."
 
 I answer that, Every agent acts for an end: otherwise one thing would not follow more than another from the action of the agent, unless it were by chance. Now the end of the agent and of the patient considered as such is the same, but in a different way respectively. For the impression which the agent intends to produce, and which the patient intends to receive, are one and the same. Some things, however, are both agent and patient at the same time: these are imperfect agents, and to these it belongs to intend, even while acting, the acquisition of something. But it does not belong to the First Agent, Who is agent only, to act for the acquisition of some end; He intends only to communicate His perfection, which is His goodness; while every creature intends to acquire its own perfection, which is the likeness of the divine perfection and goodness. Therefore the divine goodness is the end of all things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: To act from need belongs only to an imperfect agent, which by its nature is both agent and patient. But this does not belong to God, and therefore He alone is the most perfectly liberal giver, because He does not act for His own profit, but only for His own goodness.
 

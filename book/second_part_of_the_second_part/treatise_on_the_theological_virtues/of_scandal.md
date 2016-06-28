@@ -9,9 +9,9 @@ It remains for us to consider the vices which are opposed to beneficence, among 
 (6) Whether they can give scandal?
 (7) Whether spiritual goods are to be foregone on account of scandal?
 (8) Whether temporal things are to be foregone on account of scandal?
-# Whether Scandal Is Fittingly Defined As Being Something Less Rightly Said Or Done That Occasions Spiritual Downfall?
+## Whether Scandal Is Fittingly Defined As Being Something Less Rightly Said Or Done That Occasions Spiritual Downfall?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that scandal is unfittingly defined as "something less rightly said or done that occasions spiritual downfall." For scandal is a sin as we shall state further on [2673](A[2]). Now, according to Augustine (Contra Faust. xxii, 27), a sin is a "word, deed, or desire contrary to the law of God." Therefore the definition given above is insufficient, since it omits "thought" or "desire."
 
@@ -23,7 +23,7 @@ Objection 4: Further, whatever a man does may be the occasion of another's spiri
 
 Objection 5: Further, a man occasions his neighbor's spiritual downfall when he offends or weakens him. Now scandal is condivided with offense and weakness, for the Apostle says (Rom. 14:21): "It is good not to eat flesh, and not to drink wine, nor anything whereby thy brother is offended or scandalized, or weakened." Therefore the aforesaid definition of scandal is unfitting.
 
-## Answer
+### Answer
 
 On the contrary, Jerome in expounding Mat. 15:12, "Dost thou know that the Pharisees, when they heard this word," etc. says: "When we read 'Whosoever shall scandalize,' the sense is 'Whosoever shall, by deed or word, occasion another's spiritual downfall.'"
 
@@ -33,7 +33,7 @@ In like manner, while going along the spiritual way, a man may be disposed to a 
 
 Now nothing by its very nature disposes a man to spiritual downfall, except that which has some lack of rectitude, since what is perfectly right, secures man against a fall, instead of conducing to his downfall. Scandal is, therefore, fittingly defined as "something less rightly done or said, that occasions another's spiritual downfall."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The thought or desire of evil lies hidden in the heart, wherefore it does not suggest itself to another man as an obstacle conducing to his spiritual downfall: hence it cannot come under the head of scandal.
 
@@ -44,9 +44,9 @@ Reply to Objection 3: As stated above ([2674]FS, Q[75], AA[2],3; [2675]FS, Q[80]
 Reply to Objection 4: Another's words or deed may be the cause of another's sin in two ways, directly and accidentally. Directly, when a man either intends, by his evil word or deed, to lead another man into sin, or, if he does not so intend, when his deed is of such a nature as to lead another into sin: for instance, when a man publicly commits a sin or does something that has an appearance of sin. In this case he that does such an act does, properly speaking, afford an occasion of another's spiritual downfall, wherefore his act is called "active scandal." One man's word or deed is the accidental cause of another's sin, when he neither intends to lead him into sin, nor does what is of a nature to lead him into sin, and yet this other one, through being ill-disposed, is led into sin, for instance, into envy of another's good, and then he who does this righteous act, does not, so far as he is concerned, afford an occasion of the other's downfall, but it is this other one who takes the occasion according to Rom. 7:8: "Sin taking occasion by the commandment wrought in me all manner of concupiscence." Wherefore this is "passive," without "active scandal," since he that acts rightly does not, for his own part, afford the occasion of the other's downfall. Sometimes therefore it happens that there is active scandal in the one together with passive scandal in the other, as when one commits a sin being induced thereto by another; sometimes there is active without passive scandal, for instance when one, by word or deed, provokes another to sin, and the latter does not consent; and sometimes there is passive without active scandal, as we have already said.
 
 Reply to Objection 5: "Weakness" denotes proneness to scandal; while "offense" signifies resentment against the person who commits a sin, which resentment may be sometimes without spiritual downfall; and "scandal" is the stumbling that results in downfall.
-# Whether Scandal Is A Sin?
+## Whether Scandal Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that scandal is not a sin. For sins do not occur from necessity, since all sin is voluntary, as stated above ([2676]FS, Q[74], AA[1],2). Now it is written (Mat. 18:7): "It must needs be that scandals come." Therefore scandal is not a sin.
 
@@ -54,7 +54,7 @@ Objection 2: Further, no sin arises from a sense of dutifulness, because "a good
 
 Objection 3: Further, scandal denotes a stumbling. But he that stumbles does not always fall. Therefore scandal, which is a spiritual fall, can be without sin.
 
-## Answer
+### Answer
 
 On the contrary, Scandal is "something less rightly said or done." Now anything that lacks rectitude is a sin. Therefore scandal is always with sin.
 
@@ -64,16 +64,16 @@ Yet there can be passive scandal, without sin on the part of the person whose ac
 
 Yet there can be active scandal without sin on the part of the person scandalized, as stated above (A[1], ad 4).
 
-## Replies
+### Replies
 
 Reply to Objection 1: These words, "It must needs be that scandals come," are to be understood to convey, not the absolute, but the conditional necessity of scandal; in which sense it is necessary that whatever God foresees or foretells must happen, provided it be taken conjointly with such foreknowledge, as explained in the [2677]FP, Q[14], A[13], ad 3; [2678]FP, Q[23], A[6], ad 2.
 
 Reply to Objection 2: In that passage scandal denotes any kind of hindrance: for Peter wished to hinder Our Lord's Passion out of a sense of dutifulness towards Christ.
 
 Reply to Objection 3: No man stumbles spiritually, without being kept back somewhat from advancing in God's way, and that is at least a venial sin.
-# Whether Scandal Is A Special Sin?
+## Whether Scandal Is A Special Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that scandal is not a special sin. For scandal is "something said or done less rightly." But this applies to every kind of sin. Therefore every sin is a scandal, and consequently, scandal is not a special sin.
 
@@ -81,7 +81,7 @@ Objection 2: Further, every special kind of sin, or every special kind of injust
 
 Objection 3: Further, every special sin is constituted by something which specifies the moral act. But the notion of scandal consists in its being something done in the presence of others: and the fact of a sin being committed openly, though it is an aggravating circumstance, does not seem to constitute the species of a sin. Therefore scandal is not a special sin.
 
-## Answer
+### Answer
 
 On the contrary, A special virtue has a special sin opposed to it. But scandal is opposed to a special virtue, viz. charity. For it is written (Rom. 14:15): "If, because of thy meat, thy brother be grieved, thou walkest not now according to charity." Therefore scandal is a special sin.
 
@@ -91,16 +91,16 @@ On the other hand, active scandal may be understood in two ways, directly and ac
 
 Active scandal is direct when a man intends, by his inordinate word or deed, to draw another into sin, and then it becomes a special kind of sin on account of the intention of a special kind of end, because moral actions take their species from their end, as stated above ([2680]FS, Q[1], A[3]; [2681]FS, Q[18], AA[4],6). Hence, just as theft and murder are special kinds of sin, on account of their denoting the intention of doing a special injury to one's neighbor: so too, scandal is a special kind of sin, because thereby a man intends a special harm to his neighbor, and it is directly opposed to fraternal correction, whereby a man intends the removal of a special kind of harm.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Any sin may be the matter of active scandal, but it may derive the formal aspect of a special sin from the end intended, as stated above.
 
 Reply to Objection 2: Active scandal can be found separate from other sins, as when a man scandalizes his neighbor by a deed which is not a sin in itself, but has an appearance of evil.
 
 Reply to Objection 3: Scandal does not derive the species of a special sin from the circumstance in question, but from the intention of the end, as stated above.
-# Whether Scandal Is A Mortal Sin?
+## Whether Scandal Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that scandal is a mortal sin. For every sin that is contrary to charity is a mortal sin, as stated above (Q[24], A[12]; Q[35] , A[3]). But scandal is contrary to charity, as stated above ([2682]AA[2],3). Therefore scandal is a mortal sin.
 
@@ -108,7 +108,7 @@ Objection 2: Further, no sin, save mortal sin, deserves the punishment of eterna
 
 Objection 3: Further, every sin committed against God is a mortal sin, because mortal sin alone turns man away from God. Now scandal is a sin against God, for the Apostle says (1 Cor. 8:12): "When you wound the weak conscience of the brethren [*Vulg.: 'When you sin thus against the brethren and wound their weak conscience'], you sin against Christ." Therefore scandal is always a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, It may be a venial sin to lead a person into venial sin: and yet this would be to give scandal. Therefore scandal may be a venial sin.
 
@@ -117,9 +117,9 @@ I answer that, As stated above [2683](A[1]), scandal denotes a stumbling whereby
 Active scandal, if it be accidental, may sometimes be a venial sin; for instance, when, through a slight indiscretion, a person either commits a venial sin, or does something that is not a sin in itself, but has some appearance of evil. On the other hand, it is sometimes a mortal sin, either because a person commits a mortal sin, or because he has such contempt for his neighbor's spiritual welfare that he declines, for the sake of procuring it, to forego doing what he wishes to do. But in the case of active direct scandal, as when a person intends to lead another into sin, if he intends to lead him into mortal sin, his own sin will be mortal; and in like manner if he intends by committing a mortal sin himself, to lead another into venial sin; whereas if he intends, by committing a venial sin, to lead another into venial sin, there will be a venial sin of scandal.
 
 And this suffices for the Replies to the Objections.
-# Whether Passive Scandal May Happen Even To The Perfect?
+## Whether Passive Scandal May Happen Even To The Perfect?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that passive scandal may happen even to the perfect. For Christ was supremely perfect: and yet He said to Peter (Mat. 16:23): "Thou art a scandal to Me." Much more therefore can other perfect men suffer scandal.
 
@@ -127,22 +127,22 @@ Objection 2: Further, scandal denotes an obstacle which is put in a person's spi
 
 Objection 3: Further, even perfect men are liable to venial sins, according to 1 Jn. 1:8: "If we say that we have no sin, we deceive ourselves." Now passive scandal is not always a mortal sin, but is sometimes venial, as stated above [2684](A[4]). Therefore passive scandal may be found in perfect men.
 
-## Answer
+### Answer
 
 On the contrary, Jerome, in commenting on Mat. 18:6, "He that shall scandalize one of these little ones," says: "Observe that it is the little one that is scandalized, for the elders do not take scandal."
 
 I answer that, Passive scandal implies that the mind of the person who takes scandal is unsettled in its adherence to good. Now no man can be unsettled, who adheres firmly to something immovable. The elders, i.e. the perfect, adhere to God alone, Whose goodness is unchangeable, for though they adhere to their superiors, they do so only in so far as these adhere to Christ, according to 1 Cor. 4:16: "Be ye followers of me, as I also am of Christ." Wherefore, however much others may appear to them to conduct themselves ill in word or deed, they themselves do not stray from their righteousness, according to Ps. 124:1: "They that trust in the Lord shall be as Mount Sion: he shall not be moved for ever that dwelleth in Jerusalem." Therefore scandal is not found in those who adhere to God perfectly by love, according to Ps. 118:165: "Much peace have they that love Thy law, and to them there is no stumbling-block [scandalum]."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above (A[2], ad 2), in this passage, scandal is used in a broad sense, to denote any kind of hindrance. Hence Our Lord said to Peter: "Thou art a scandal to Me," because he was endeavoring to weaken Our Lord's purpose of undergoing His Passion.
 
 Reply to Objection 2: Perfect men may be hindered in the performance of external actions. But they are not hindered by the words or deeds of others, from tending to God in the internal acts of the will, according to Rom. 8:38,39: "Neither death, nor life . . . shall be able to separate us from the love of God."
 
 Reply to Objection 3: Perfect men sometimes fall into venial sins through the weakness of the flesh; but they are not scandalized (taking scandal in its true sense), by the words or deeds of others, although there can be an approach to scandal in them, according to Ps. 72:2: "My feet were almost moved."
-# Whether Active Scandal Can Be Found In The Perfect?
+## Whether Active Scandal Can Be Found In The Perfect?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that active scandal can be found in the perfect. For passion is the effect of action. Now some are scandalized passively by the words or deeds of the perfect, according to Mat. 15:12: "Dost thou know that the Pharisees, when they heard this word, were scandalized?" Therefore active scandal can be found in the perfect.
 
@@ -150,22 +150,22 @@ Objection 2: Further, Peter, after receiving the Holy Ghost, was in the state of
 
 Objection 3: Further, active scandal is sometimes a venial sin. But venial sins may be in perfect men. Therefore active scandal may be in perfect men.
 
-## Answer
+### Answer
 
 On the contrary, Active scandal is more opposed to perfection, than passive scandal. But passive scandal cannot be in the perfect. Much less, therefore, can active scandal be in them.
 
 I answer that, Active scandal, properly so called, occurs when a man says or does a thing which in itself is of a nature to occasion another's spiritual downfall, and that is only when what he says or does is inordinate. Now it belongs to the perfect to direct all their actions according to the rule of reason, as stated in 1 Cor. 14:40: "Let all things be done decently and according to order"; and they are careful to do this in those matters chiefly wherein not only would they do wrong, but would also be to others an occasion of wrongdoing. And if indeed they fail in this moderation in such words or deeds as come to the knowledge of others, this has its origin in human weakness wherein they fall short of perfection. Yet they do not fall short so far as to stray far from the order of reason, but only a little and in some slight matter: and this is not so grave that anyone can reasonably take therefrom an occasion for committing sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Passive scandal is always due to some active scandal; yet this active scandal is not always in another, but in the very person who is scandalized, because, to wit, he scandalizes himself.
 
 Reply to Objection 2: In the opinion of Augustine (Ep. xxviii, xl, lxxxii) and of Paul also, Peter sinned and was to be blamed, in withdrawing from the gentiles in order to avoid the scandal of the Jews, because he did this somewhat imprudently, so that the gentiles who had been converted to the faith were scandalized. Nevertheless Peter's action was not so grave a sin as to give others sufficient ground for scandal. Hence they were guilty of passive scandal, while there was no active scandal in Peter.
 
 Reply to Objection 3: The venial sins of the perfect consist chiefly in sudden movements, which being hidden cannot give scandal. If, however, they commit any venial sins even in their external words or deeds, these are so slight as to be insufficient in themselves to give scandal.
-# Whether Spiritual Goods Should Be Foregone On Account Of Scandal?
+## Whether Spiritual Goods Should Be Foregone On Account Of Scandal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that spiritual goods ought to be foregone on account of scandal. For Augustine (Contra Ep. Parmen. iii, 2) teaches that "punishment for sin should cease, when the peril of schism is feared." But punishment of sins is a spiritual good, since it is an act of justice. Therefore a spiritual good is to be foregone on account of scandal.
 
@@ -177,7 +177,7 @@ Objection 4: Further, Jerome [*Hugh de S. Cher., In Matth. xviii; in Luc. xvii, 
 
 Objection 5: Further, the avoidance of any sin is a spiritual good, since any sin brings spiritual harm to the sinner. Now it seems that one ought sometimes to commit a venial sin in order to avoid scandalizing one's neighbor, for instance, when by sinning venially, one would prevent someone else from committing a mortal sin: because one is bound to hinder the damnation of one's neighbor as much as one can without prejudice to one's own salvation, which is not precluded by a venial sin. Therefore one ought to forego a spiritual good in order to avoid scandal.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Hom. Super Ezech. vii): "If people are scandalized at the truth, it is better to allow the birth of scandal, than to abandon the truth." Now spiritual goods belong, above all others, to the truth. Therefore spiritual goods are not to be foregone on account of scandal.
 
@@ -185,7 +185,7 @@ I answer that, Whereas scandal is twofold, active and passive, the present quest
 
 Again a distinction seems necessary among spiritual things which are not necessary for salvation: because the scandal which arises from such things sometimes proceeds from malice, for instance when a man wishes to hinder those spiritual goods by stirring up scandal. This is the "scandal of the Pharisees," who were scandalized at Our Lord's teaching: and Our Lord teaches (Mat. 15:14) that we ought to treat such like scandal with contempt. Sometimes scandal proceeds from weakness or ignorance, and such is the "scandal of little ones." In order to avoid this kind of scandal, spiritual goods ought to be either concealed, or sometimes even deferred (if this can be done without incurring immediate danger), until the matter being explained the scandal cease. If, however, the scandal continue after the matter has been explained, it would seem to be due to malice, and then it would no longer be right to forego that spiritual good in order to avoid such like scandal.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the infliction of punishment it is not the punishment itself that is the end in view, but its medicinal properties in checking sin; wherefore punishment partakes of the nature of justice, in so far as it checks sin. But if it is evident that the infliction of punishment will result in more numerous and more grievous sins being committed, the infliction of punishment will no longer be a part of justice. It is in this sense that Augustine is speaking, when, to wit, the excommunication of a few threatens to bring about the danger of a schism, for in that case it would be contrary to the truth of justice to pronounce excommunication.
 
@@ -196,9 +196,9 @@ Reply to Objection 3: As stated above ([2686]Q[33], A[1]), fraternal correction 
 Reply to Objection 4: The truth of life, of doctrine, and of justice comprises not only whatever is necessary for salvation, but also whatever is a means of obtaining salvation more perfectly, according to 1 Cor. 12:31: "Be zealous for the better gifts." Wherefore neither the counsels nor even the works of mercy are to be altogether omitted in order to avoid scandal; but sometimes they should be concealed or deferred, on account of the scandal of the little ones, as stated above. Sometimes, however, the observance of the counsels and the fulfilment of the works of mercy are necessary for salvation. This may be seen in the case of those who have vowed to keep the counsels, and of those whose duty it is to relieve the wants of others, either in temporal matters (as by feeding the hungry), or in spiritual matters (as by instructing the ignorant), whether such duties arise from their being enjoined as in the case of prelates, or from the need on the part of the person in want; and then the same applies to these things as to others that are necessary for salvation.
 
 Reply to Objection 5: Some have said that one ought to commit a venial sin in order to avoid scandal. But this implies a contradiction, since if it ought to be done, it is no longer evil or sinful, for a sin cannot be a matter of choice. It may happen however that, on account of some circumstance, something is not a venial sin, though it would be were it not for that circumstance: thus an idle word is a venial sin, when it is uttered uselessly; yet if it be uttered for a reasonable cause, it is neither idle nor sinful. And though venial sin does not deprive a man of grace which is his means of salvation, yet, in so far as it disposes him to mortal sin, it tends to the loss of salvation.
-# Whether Temporal Goods Should Be Foregone On Account Of Scandal?
+## Whether Temporal Goods Should Be Foregone On Account Of Scandal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that temporal goods should be foregone on account of scandal. For we ought to love our neighbor's spiritual welfare which is hindered by scandal, more than any temporal goods whatever. But we forego what we love less for the sake of what we love more. Therefore we should forego temporal goods in order to avoid scandalizing our neighbor.
 
@@ -210,7 +210,7 @@ Objection 4: Further, the most fitting way of safeguarding and recovering tempor
 
 Objection 5: Further, we ought, seemingly, to forego least of all those temporal goods which are connected with spiritual goods: and yet we ought to forego them on account of scandal. For the Apostle while sowing spiritual things did not accept a temporal stipend lest he "should give any hindrance to the Gospel of Christ" as we read 1 Cor. 9:12. For a like reason the Church does not demand tithes in certain countries, in order to avoid scandal. Much more, therefore, ought we to forego other temporal goods in order to avoid scandal.
 
-## Answer
+### Answer
 
 On the contrary, Blessed Thomas of Canterbury demanded the restitution of Church property, notwithstanding that the king took scandal from his doing so.
 
@@ -218,7 +218,7 @@ I answer that, A distinction must be made in temporal goods: for either they are
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: If it were permissible for wicked men to rob other people of their property, this would tend to the detriment of the truth of life and justice. Therefore we are not always bound to forego our temporal goods in order to avoid scandal.
 

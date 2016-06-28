@@ -5,9 +5,9 @@ We have now to consider things that are preparatory to Baptism: and (1) that whi
 (2) Its institution;
 (3) Its rite;
 (4) Its effect.
-# Whether Circumcision Was A Preparation For, And A Figure Of Baptism?
+## Whether Circumcision Was A Preparation For, And A Figure Of Baptism?
 
-## Objections
+### Objections
 
 Objection 1: It seems that circumcision was not a preparation for, and a figure of Baptism. For every figure has some likeness to that which it foreshadows. But circumcision has no likeness to Baptism. Therefore it seems that it was not a preparation for, and a figure of Baptism.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the Apostle, speaking of the Fathers of old, says (1 Cor. 
 
 Objection 3: Further, it was stated above ([4469]Q[38], AA[1],3) that the baptism of John was a preparation for Christ's. Consequently, if circumcision was a preparation for, and a figure of Christ's Baptism, it seems that John's baptism was superfluous: which is unseemly. Therefore circumcision was not a preparation for, and a figure of Baptism.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Col. 2:11,12): "You are circumcised with circumcision, not made by hand in despoiling the body of the flesh, but in the circumcision of Christ, buried with Him in Baptism."
 
 I answer that, Baptism is called the Sacrament of Faith; in so far, to wit, as in Baptism man makes a profession of faith, and by Baptism is aggregated to the congregation of the faithful. Now our faith is the same as that of the Fathers of old, according to the Apostle (2 Cor. 4:13): "Having the same spirit of faith . . . we . . . believe." But circumcision was a protestation of faith; wherefore by circumcision also men of old were aggregated to the body of the faithful. Consequently, it is manifest that circumcision was a preparation for Baptism and a figure thereof, forasmuch as "all things happened" to the Fathers of old "in figure" (1 Cor. 10:11); just as their faith regarded things to come.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Circumcision was like Baptism as to the spiritual effect of the latter. For just as circumcision removed a carnal pellicule, so Baptism despoils man of carnal behavior.
 
 Reply to Objection 2: The protecting pillar of cloud and the crossing of the Red Sea were indeed figures of our Baptism, whereby we are born again of water, signified by the Red Sea; and of the Holy Ghost, signified by the pillar of cloud: yet man did not make, by means of these, a profession of faith, as by circumcision; so that these two things were figures but not sacraments. But circumcision was a sacrament, and a preparation for Baptism; although less clearly figurative of Baptism, as to externals, than the aforesaid. And for this reason the Apostle mentions them rather than circumcision.
 
 Reply to Objection 3: John's baptism was a preparation for Christ's as to the act done: but circumcision, as to the profession of faith, which is required in Baptism, as stated above.
-# Whether Circumcision Was Instituted In A Fitting Manner?
+## Whether Circumcision Was Instituted In A Fitting Manner?
 
-## Objections
+### Objections
 
 Objection 1: It seems that circumcision was instituted in an unfitting manner. For as stated above [4470](A[1]) a profession of faith was made in circumcision. But none could ever be delivered from the first man's sin, except by faith in Christ's Passion, according to Rom. 3:25: "Whom God hath proposed to be a propitiation, through faith in His blood." Therefore circumcision should have been instituted forthwith after the first man's sin, and not at the time of Abraham.
 
@@ -40,13 +40,13 @@ Objection 3: Further, circumcision was a figure of, and a preparation for, Bapti
 
 Objection 4: Further, carnal circumcision should correspond to spiritual circumcision, as the shadow to the reality. But spiritual circumcision which is of Christ, regards indifferently both sexes, since "in Christ Jesus there is neither male nor female," as is written Col. 3 [*Gal. 3:28]. Therefore the institution of circumcision which concerns only males, was unfitting.
 
-## Answer
+### Answer
 
 On the contrary, We read (Gn. 17) that circumcision was instituted by God, Whose "works are perfect" (Dt. 32:4).
 
 I answer that, As stated above [4471](A[1]) circumcision was a preparation for Baptism, inasmuch as it was a profession of faith in Christ, which we also profess in Baptism. Now among the Fathers of old, Abraham was the first to receive the promise of the future birth of Christ, when it was said to him: "In thy seed shall all the nations of the earth be blessed" (Gn. 22:18). Moreover, he was the first to cut himself off from the society of unbelievers, in accordance with the commandment of the Lord, Who said to him (Gn. 13:1): "Go forth out of thy country and from thy kindred." Therefore circumcision was fittingly instituted in the person of Abraham.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Immediately after the sin of our first parent, on account of the knowledge possessed by Adam, who was fully instructed about Divine things, both faith and natural reason flourished in man to such an extent, that there was no need for any signs of faith and salvation to be prescribed to him, but each one was wont to make protestation of his faith, by outward signs of his profession, according as he thought best. But about the time of Abraham faith was on the wane, many being given over to idolatry. Moreover, by the growth of carnal concupiscence natural reason was clouded even in regard to sins against nature. And therefore it was fitting that then, and not before, circumcision should be instituted, as a profession of faith and a remedy against carnal concupiscence.
 
@@ -55,9 +55,9 @@ Reply to Objection 2: The observance of the Law was not to be promulgated until 
 Reply to Objection 3: Baptism contains in itself the perfection of salvation, to which God calls all men, according to 1 Tim. 2:4: "Who will have all men to be saved." Wherefore Baptism is offered to all nations. On the other hand circumcision did not contain the perfection of salvation, but signified it as to be achieved by Christ, Who was to be born of the Jewish nation. For this reason circumcision was given to that nation alone.
 
 Reply to Objection 4: The institution of circumcision is as a sign of Abraham's faith, who believed that himself would be the father of Christ Who was promised to him: and for this reason it was suitable that it should be for males only. Again, original sin, against which circumcision was specially ordained, is contracted from the father, not from the mother, as was stated in the [4473]FS, Q[81], A[5]. But Baptism contains the power of Christ, Who is the universal cause of salvation for all, and is "The Remission of all sins" (Post-Communion, Tuesday in Whitweek).
-# Whether The Rite Of Circumcision Was Fitting?
+## Whether The Rite Of Circumcision Was Fitting?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the rite of circumcision was unfitting. For circumcision, as stated above ([4474]AA[1],2), was a profession of faith. But faith is in the apprehensive power, whose operations appear mostly in the head. Therefore the sign of circumcision should have been conferred on the head rather than on the virile member.
 
@@ -65,22 +65,22 @@ Objection 2: Further, in the sacraments we make use of such things as are in mor
 
 Objection 3: Further, just as Baptism was instituted as a remedy against original sin, so also was circumcision, as Bede says (Hom. in Circum.). But now Baptism is not put off until the eighth day, lest children should be in danger of loss on account of original sin, if they should die before being baptized. On the other hand, sometimes Baptism is put off until after the eighth day. Therefore the eighth day should not have been fixed for circumcision, but this day should have been anticipated, just as sometimes it was deferred.
 
-## Answer
+### Answer
 
 On the contrary, The aforesaid rite of circumcision is fixed by a gloss on Rom. 4:11: "And he received the sign of circumcision."
 
 I answer that, As stated above [4475](A[2]), circumcision was established, as a sign of faith, by God "of" Whose "wisdom there is no number" (Ps. 146:5). Now to determine suitable signs is a work of wisdom. Consequently, it must be allowed that the rite of circumcision was fitting.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It was fitting for circumcision to be performed on the virile member. First, because it was a sign of that faith whereby Abraham believed that Christ would be born of his seed. Secondly, because it was to be a remedy against original sin, which is contracted through the act of generation. Thirdly, because it was ordained as a remedy for carnal concupiscence, which thrives principally in those members, by reason of the abundance of venereal pleasure.
 
 Reply to Objection 2: A stone knife was not essential to circumcision. Wherefore we do not find that an instrument of this description is required by any divine precept; nor did the Jews, as a rule, make use of such a knife for circumcision; indeed, neither do they now. Nevertheless, certain well-known circumcisions are related as having been performed with a stone knife, thus (Ex. 4:25) we read that "Sephora took a very sharp stone and circumcised the foreskin of her son," and (Joshua 5:2): "Make thee knives of stone, and circumcise the second time the children of Israel." Which signified that spiritual circumcision would be done by Christ, of Whom it is written (1 Cor. 10:4): "Now the rock was Christ."
 
 Reply to Objection 3: The eighth day was fixed for circumcision: first, because of the mystery; since, Christ, by taking away from the elect, not only guilt but also all penalties, will perfect the spiritual circumcision, in the eighth age (which is the age of those that rise again), as it were, on the eighth day. Secondly, on account of the tenderness of the infant before the eighth day. Wherefore even in regard to other animals it is prescribed (Lev. 22:27): "When a bullock, or a sheep, or a goat, is brought forth, they shall be seven days under the udder of their dam: but the eighth day and thenceforth, they may be offered to the Lord."
-# Whether Circumcision Bestowed Sanctifying Grace?
+## Whether Circumcision Bestowed Sanctifying Grace?
 
-## Objections
+### Objections
 
 Objection 1: It seems that circumcision did not bestow sanctifying grace. For the Apostle says (Gal. 2:21): "If justice be by the Law, then Christ died in vain," i.e. without cause. But circumcision was an obligation imposed by the Law, according to Gal. 5:3: "I testify . . . to every man circumcising himself, that ne is a debtor to do the whole law." Therefore, if justice be by circumcision, "Christ died in vain," i.e. without cause. But this cannot be allowed. Therefore circumcision did not confer grace whereby the sinner is made righteous.
 
@@ -92,7 +92,7 @@ Objection 4: Further, nothing but sin closes the entrance to the heavenly kingdo
 
 Objection 5: Further, original sin is not remitted without actual sin being remitted also: because "it is wicked to hope for half forgiveness from God," as Augustine says (De Vera et Falsa Poenit. ix). But we read nowhere of circumcision as remitting actual sin. Therefore neither did it remit original sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says, writing to Valerius in answer to Julian (De Nup. et Concup. ii): "From the time that circumcision was instituted among God's people, as 'a seal of the justice of the faith,' it availed little children unto sanctification by cleansing them from the original and bygone sin; just as Baptism also from the time of its institution began to avail unto the renewal of man."
 
@@ -104,7 +104,7 @@ Consequently, others said that grace was conferred in circumcision, also as a pa
 
 We must say, therefore, that grace was bestowed in circumcision as to all the effects of grace, but not as in Baptism. Because in Baptism grace is bestowed by the very power of Baptism itself, which power Baptism has as the instrument of Christ's Passion already consummated. Whereas circumcision bestowed grace, inasmuch as it was a sign of faith in Christ's future Passion: so that the man who was circumcised, professed to embrace that faith; whether, being an adult, he made profession for himself, or, being a child, someone else made profession for him. Hence, too, the Apostle says (Rom. 4:11), that Abraham "received the sign of circumcision, a seal of the justice of the faith": because, to wit, justice was of faith signified: not of circumcision signifying. And since Baptism operates instrumentally by the power of Christ's Passion, whereas circumcision does not, therefore Baptism imprints a character that incorporates man in Christ, and bestows grace more copiously than does circumcision; since greater is the effect of a thing already present, than of the hope thereof.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument would prove if justice were of circumcision otherwise than through faith in Christ's Passion.
 

@@ -7,9 +7,9 @@ We have now to consider the other effect of the sacraments, which is a character
 (4) What is its subject?
 (5) Is it indelible?
 (6) Whether every sacrament imprints a character?
-# Whether A Sacrament Imprints A Character On The Soul?
+## Whether A Sacrament Imprints A Character On The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It seems that a sacrament does not imprint a character on the soul. For the word "character" seems to signify some kind of distinctive sign. But Christ's members are distinguished from others by eternal predestination, which does not imply anything in the predestined, but only in God predestinating, as we have stated in the [4363]FP, Q[23], A[2]. For it is written (2 Tim. 2:19): "The sure foundation of God standeth firm, having this seal: The Lord knoweth who are His." Therefore the sacraments do not imprint a character on the soul.
 
@@ -17,22 +17,22 @@ Objection 2: Further, a character is a distinctive sign. Now a sign, as Augustin
 
 Objection 3: Further, just as the believer is distinguished from the unbeliever by the sacraments of the New Law, so was it under the Old Law. But the sacraments of the Old Law did not imprint a character; whence they are called "justices of the flesh" (Heb. 9:10) by the Apostle. Therefore neither seemingly do the sacraments of the New Law.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (2 Cor. 1:21,22): "He . . . that hath anointed us is God; Who also hath sealed us, and given the pledge of the spirit in our hearts." But a character means nothing else than a kind of sealing. Therefore it seems that by the sacraments God imprints His character on us.
 
 I answer that, As is clear from what has been already stated ([4364]Q[62], A[5]) the sacraments of the New Law are ordained for a twofold purpose; namely, for a remedy against sins; and for the perfecting of the soul in things pertaining to the Divine worship according to the rite of the Christian life. Now whenever anyone is deputed to some definite purpose he is wont to receive some outward sign thereof; thus in olden times soldiers who enlisted in the ranks used to be marked with certain characters on the body, through being deputed to a bodily service. Since, therefore, by the sacraments men are deputed to a spiritual service pertaining to the worship of God, it follows that by their means the faithful receive a certain spiritual character. Wherefore Augustine says (Contra Parmen. ii): "If a deserter from the battle, through dread of the mark of enlistment on his body, throws himself on the emperor's clemency, and having besought and received mercy, return to the fight; is that character renewed, when the man has been set free and reprimanded? is it not rather acknowledged and approved? Are the Christian sacraments, by any chance, of a nature less lasting than this bodily mark?"
 
-## Replies
+### Replies
 
 Reply to Objection 1: The faithful of Christ are destined to the reward of the glory that is to come, by the seal of Divine Predestination. But they are deputed to acts becoming the Church that is now, by a certain spiritual seal that is set on them, and is called a character.
 
 Reply to Objection 2: The character imprinted on the soul is a kind of sign in so far as it is imprinted by a sensible sacrament: since we know that a certain one has received the baptismal character, through his being cleansed by the sensible water. Nevertheless from a kind of likeness, anything that assimilates one thing to another, or discriminates one thing from another, even though it be not sensible, can be called a character or a seal; thus the Apostle calls Christ "the figure" or {charakter} "of the substance of the Father" (Heb. 1:3).
 
 Reply to Objection 3: As stated above ([4365]Q[62], A[6]) the sacraments of the Old Law had not in themselves any spiritual power of producing a spiritual effect. Consequently in those sacraments there was no need of a spiritual character, and bodily circumcision sufficed, which the Apostle calls "a seal" (Rom. 4:11).
-# Whether A Character Is A Spiritual Power?
+## Whether A Character Is A Spiritual Power?
 
-## Objections
+### Objections
 
 Objection 1: It seems that a character is not a spiritual power. For "character" seems to be the same thing as "figure"; hence (Heb. 1:3), where we read "figure of His substance, "for "figure" the Greek has {charakter}. Now "figure" is in the fourth species of quality, and thus differs from power which is in the second species. Therefore character is not a spiritual power.
 
@@ -42,7 +42,7 @@ Objection 3: Further, character is defined by some thus: "A character is a holy 
 
 Objection 4: Further, a power is in the nature of a cause and principle (Metaph. v). But a "sign" which is set down in the definition of a character is rather in the nature of an effect. Therefore a character is not a spiritual power.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. ii): "There are three things in the soul, power, habit, and passion." Now a character is not a passion: since a passion passes quickly, whereas a character is indelible, as will be made clear further on [4366](A[5]). In like manner it is not a habit: because no habit is indifferent to acting well or ill: whereas a character is indifferent to either, since some use it well, some ill. Now this cannot occur with a habit: because no one abuses a habit of virtue, or uses well an evil habit. It remains, therefore, that a character is a power.
 
@@ -50,7 +50,7 @@ I answer that, As stated above [4367](A[1]), the sacraments of the New Law produ
 
 But it must be observed that this spiritual power is instrumental: as we have stated above ([4368]Q[62], A[4]) of the virtue which is in the sacraments. For to have a sacramental character belongs to God's ministers: and a minister is a kind of instrument, as the Philosopher says (Polit. i). Consequently, just as the virtue which is in the sacraments is not of itself in a genus, but is reducible to a genus, for the reason that it is of a transitory and incomplete nature: so also a character is not properly in a genus or species, but is reducible to the second species of quality.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Configuration is a certain boundary of quantity. Wherefore, properly speaking, it is only in corporeal things; and of spiritual things is said metaphorically. Now that which decides the genus or species of a thing must needs be predicated of it properly. Consequently, a character cannot be in the fourth species of quality, although some have held this to be the case.
 
@@ -59,9 +59,9 @@ Reply to Objection 2: The third species of quality contains only sensible passio
 Reply to Objection 3: The relation signified by the word "sign" must needs have some foundation. Now the relation signified by this sign which is a character, cannot be founded immediately on the essence of the soul: because then it would belong to every soul naturally. Consequently, there must be something in the soul on which such a relation is founded. And it is in this that a character essentially consists. Therefore it need not be in the genus "relation" as some have held.
 
 Reply to Objection 4: A character is in the nature of a sign in comparison to the sensible sacrament by which it is imprinted. But considered in itself, it is in the nature of a principle, in the way already explained.
-# Whether The Sacramental Character Is The Character Of Christ?
+## Whether The Sacramental Character Is The Character Of Christ?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the sacramental character is not the character of Christ. For it is written (Eph. 4:30): "Grieve not the Holy Spirit of God, whereby you are sealed." But a character consists essentially in some. thing that seals. Therefore the sacramental character should be attributed to the Holy Ghost rather than to Christ.
 
@@ -69,7 +69,7 @@ Objection 2: Further, a character has the nature of a sign. And it is a sign of 
 
 Objection 3: Further, a man is marked with a character that he may be distinguishable from others. But the saints are distinguishable from others by charity, which, as Augustine says (De Trin. xv), "alone separates the children of the Kingdom from the children of perdition": wherefore also the children of perdition are said to have "the character of the beast" (Apoc. 13:16,17). But charity is not attributed to Christ, but rather to the Holy Ghost according to Rom. 5:5: "The charity of God is poured forth in our hearts, by the Holy Ghost, Who is given to us"; or even to the Father, according to 2 Cor. 13:13: "The grace of our Lord Jesus Christ and the charity of God." Therefore it seems that the sacramental character should not be attributed to Christ.
 
-## Answer
+### Answer
 
 On the contrary, Some define character thus: "A character is a distinctive mark printed in a man's rational soul by the eternal Character, whereby the created trinity is sealed with the likeness of the creating and re-creating Trinity, and distinguishing him from those who are not so enlikened, according to the state of faith." But the eternal Character is Christ Himself, according to Heb. 1:3: "Who being the brightness of His glory and the figure," or character, "of His substance." It seems, therefore, that the character should properly be attributed to Christ.
 
@@ -77,16 +77,16 @@ I answer that, As has been made clear above [4369](A[1]), a character is properl
 
 Secondly, each of the faithful is deputed to receive, or to bestow on others, things pertaining to the worship of God. And this, properly speaking, is the purpose of the sacramental character. Now the whole rite of the Christian religion is derived from Christ's priesthood. Consequently, it is clear that the sacramental character is specially the character of Christ, to Whose character the faithful are likened by reason of the sacramental characters, which are nothing else than certain participations of Christ's Priesthood, flowing from Christ Himself.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Apostle speaks there of that sealing by which a man is assigned to future glory, and which is effected by grace. Now grace is attributed to the Holy Ghost, inasmuch as it is through love that God gives us something gratis, which is the very nature of grace: while the Holy Ghost is love. Wherefore it is written (1 Cor. 12:4): "There are diversities of graces, but the same Spirit."
 
 Reply to Objection 2: The sacramental character is a thing as regards the exterior sacrament, and a sacrament in regard to the ultimate effect. Consequently, something can be attributed to a character in two ways. First, if the character be considered as a sacrament: and thus it is a sign of the invisible grace which is conferred in the sacrament. Secondly, if it be considered as a character. And thus it is a sign conferring on a man a likeness to some principal person in whom is vested the authority over that to which he is assigned: thus soldiers who are assigned to military service, are marked with their leader's sign, by which they are, in a fashion, likened to him. And in this way those who are deputed to the Christian worship, of which Christ is the author, receive a character by which they are likened to Christ. Consequently, properly speaking, this is Christ's character.
 
 Reply to Objection 3: A character distinguishes one from another, in relation to some particular end, to which he, who receives the character is ordained: as has been stated concerning the military character [4370](A[1]) by which a soldier of the king is distinguished from the enemy's soldier in relation to the battle. In like manner the character of the faithful is that by which the faithful of Christ are distinguished from the servants of the devil, either in relation to eternal life, or in relation to the worship of the Church that now is. Of these the former is the result of charity and grace, as the objection runs; while the latter results from the sacramental character. Wherefore the "character of the beast" may be understood by opposition, to mean either the obstinate malice for which some are assigned to eternal punishment, or the profession of an unlawful form of worship.
-# Whether The Character Be Subjected In The Powers Of The Soul?
+## Whether The Character Be Subjected In The Powers Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the character is not subjected in the powers of the soul. For a character is said to be a disposition to grace. But grace is subjected in the essence of the soul as we have stated in the [4371]FS, Q[110], A[4]. Therefore it seems that the character is in the essence of the soul and not in the powers.
 
@@ -94,22 +94,22 @@ Objection 2: Further, a power of the soul does not seem to be the subject of any
 
 Objection 3: Further, the powers of the soul are divided into those of knowledge and those of appetite. But it cannot be said that a character is only in a cognitive power, nor, again, only in an appetitive power: since it is neither ordained to knowledge only, nor to desire only. Likewise, neither can it be said to be in both, because the same accident cannot be in several subjects. Therefore it seems that a character is not subjected in a power of the soul, but rather in the essence.
 
-## Answer
+### Answer
 
 On the contrary, A character, according to its definition given above [4373](A[3]), is imprinted in the rational soul "by way of an image." But the image of the Trinity in the soul is seen in the powers. Therefore a character is in the powers of the soul.
 
 I answer that, As stated above [4374](A[3]), a character is a kind of seal by which the soul is marked, so that it may receive, or bestow on others, things pertaining to Divine worship. Now the Divine worship consists in certain actions: and the powers of the soul are properly ordained to actions, just as the essence is ordained to existence. Therefore a character is subjected not in the essence of the soul, but in its power.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The subject is ascribed to an. accident in respect of that to which the accident disposes it proximately, but not in respect of that to which it disposes it remotely or indirectly. Now a character disposes the soul directly and proximately to the fulfilling of things pertaining to Divine worship: and because such cannot be accomplished suitably without the help of grace, since, according to Jn. 4:24, "they that adore" God "must adore Him in spirit and in truth," consequently, the Divine bounty bestows grace on those who receive the character, so that they may accomplish worthily the service to which they are deputed. Therefore the subject should be ascribed to a character in respect of those actions that pertain to the Divine worship, rather than in respect of grace.
 
 Reply to Objection 2: The subject of the natural power, which flows from the principles of the essence. Now a character is not a power of this kind. but a spiritual power coming from without. Wherefore, just as the essence of the soul, from which man has his natural life, is perfected by grace from which the soul derives spiritual life; so the natural power of the soul is perfected by a spiritual power, which is a character. For habit and disposition belong to a power of the soul, since they are ordained to actions of which the powers are the principles. And in like manner whatever is ordained to action, should be attributed to a power.
 
 Reply to Objection 3: As stated above, a character is ordained unto things pertaining to the Divine worship; which is a protestation of faith expressed by exterior signs. Consequently, a character needs to be in the soul's cognitive power, where also is faith.
-# Whether A Character Can Be Blotted Out From The Soul?
+## Whether A Character Can Be Blotted Out From The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It seems that a character can be blotted out from the soul. Because the more perfect an accident is, the more firmly does it adhere to its subject. But grace is more perfect than a character; because a character is ordained unto grace as to a further end. Now grace is lost through sin. Much more, therefore, is a character so lost.
 
@@ -117,22 +117,22 @@ Objection 2: Further, by a character a man is deputed to the Divine worship, as 
 
 Objection 3: Further, when the end ceases, the means to the end should cease also: thus after the resurrection there will be no marriage, because begetting will cease, which is the purpose of marriage. Now the exterior worship to which a character is ordained, will not endure in heaven, where there will be no shadows, but all will be truth without a veil. Therefore the sacramental character does not last in the soul for ever: and consequently it can be blotted out.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Contra Parmen. ii): "The Christian sacraments are not less lasting than the bodily mark" of military service. But the character of military service is not repeated, but is "recognized and approved" in the man who obtains the emperor's forgiveness after offending him. Therefore neither can the sacramental character be blotted out.
 
 I answer that, As stated above [4376](A[3]), in a sacramental character Christ's faithful have a share in His Priesthood; in the sense that as Christ has the full power of a spiritual priesthood, so His faithful are likened to Him by sharing a certain spiritual power with regard to the sacraments and to things pertaining to the Divine worship. For this reason it is unbecoming that Christ should have a character: but His Priesthood is compared to a character, as that which is complete and perfect is compared to some participation of itself. Now Christ's Priesthood is eternal, according to Ps. 109:4: "Thou art a priest for ever, according to the order of Melchisedech." Consequently, every sanctification wrought by His Priesthood, is perpetual, enduring as long as the thing sanctified endures. This is clear even in inanimate things; for the consecration of a church or an altar lasts for ever unless they be destroyed. Since, therefore, the subject of a character is the soul as to its intellective part, where faith resides, as stated above (A[4], ad 3); it is clear that, the intellect being perpetual and incorruptible, a character cannot be blotted out from the soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Both grace and character are in the soul, but in different ways. For grace is in the soul, as a form having complete existence therein: whereas a character is in the soul, as an instrumental power, as stated above [4377](A[2]). Now a complete form is in its subject according to the condition of the subject. And since the soul as long as it is a wayfarer is changeable in respect of the free-will, it results that grace is in the soul in a changeable manner. But an instrumental power follows rather the condition of the principal agent: and consequently a character exists in the soul in an indelible manner, not from any perfection of its own, but from the perfection of Christ's Priesthood, from which the character flows like an instrumental power.
 
 Reply to Objection 2: As Augustine says (Contra Parmen. ii), "even apostates are not deprived of their baptism, for when they repent and return to the fold they do not receive it again; whence we conclude that it cannot be lost." The reason of this is that a character is an instrumental power, as stated above (ad 1), and the nature of an instrument as such is to be moved by another, but not to move itself; this belongs to the will. Consequently, however much the will be moved in the contrary direction, the character is not removed, by reason of the immobility of the principal mover.
 
 Reply to Objection 3: Although external worship does not last after this life, yet its end remains. Consequently, after this life the character remains, both in the good as adding to their glory, and in the wicked as increasing their shame: just as the character of the military service remains in the soldiers after the victory, as the boast of the conquerors, and the disgrace of the conquered.
-# Whether A Character Is Imprinted By Each Sacrament Of The New Law?
+## Whether A Character Is Imprinted By Each Sacrament Of The New Law?
 
-## Objections
+### Objections
 
 Objection 1: It seems that a character is imprinted by all the sacraments of the New Law: because each sacrament of the New Law makes man a participator in Christ's Priesthood. But the sacramental character is nothing but a participation in Christ's Priesthood, as already stated ([4378]AA[3],5). Therefore it seems that a character is imprinted by each sacrament of the New Law.
 
@@ -140,7 +140,7 @@ Objection 2: Further, a character may be compared to the soul in which it is, as
 
 Objection 3: Further, a character is both a reality and a sacrament. But in each sacrament of the New Law, there is something which is only a reality, and something which is only a sacrament, and something which is both reality and sacrament. Therefore a character is imprinted by each sacrament of the New Law.
 
-## Answer
+### Answer
 
 On the contrary, Those sacraments in which a character is imprinted, are not reiterated, because a character is indelible, as stated above [4380](A[5]): whereas some sacraments are reiterated, for instance, penance and matrimony. Therefore not all the sacraments imprint a character.
 
@@ -150,7 +150,7 @@ Now a sacrament may belong to the Divine worship in three ways: first in regard 
 
 But it is the sacrament of order that pertains to the sacramental agents: for it is by this sacrament that men are deputed to confer sacraments on others: while the sacrament of Baptism pertains to the recipients, since it confers on man the power to receive the other sacraments of the Church; whence it is called the "door of the sacraments." In a way Confirmation also is ordained for the same purpose, as we shall explain in its proper place ([4382]Q[65], A[3]). Consequently, these three sacraments imprint a character, namely, Baptism, Confirmation, and order.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Every sacrament makes man of the a participator in Christ's Priesthood, from the fact that it confers on him some effect thereof. But every sacrament does not depute a man to do or receive something pertaining to the worship of the priesthood of Christ: while it is just this that is required for a sacrament to imprint a character.
 

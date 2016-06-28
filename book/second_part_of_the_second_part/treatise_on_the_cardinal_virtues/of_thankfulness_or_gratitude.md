@@ -7,9 +7,9 @@ We must now consider thankfulness or gratitude, and ingratitude. Concerning than
 (4) Whether thanksgiving should be deferred?
 (5) Whether thanksgiving should be measured according to the favor received or the disposition of the giver?
 (6) Whether one ought to pay back more than one has received?
-# Whether Thankfulness Is A Special Virtue, Distinct From Other Virtues?
+## Whether Thankfulness Is A Special Virtue, Distinct From Other Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It seems that thankfulness is not a special virtue, distinct from other virtue. For we have received the greatest benefits from God, and from our parents. Now the honor which we pay to God in return belongs to the virtue of religion, and the honor with which we repay our parents belongs to the virtue of piety. Therefore thankfulness or gratitude is not distinct from the other virtues.
 
@@ -17,7 +17,7 @@ Objection 2: Further, proportionate repayment belongs to commutative justice, ac
 
 Objection 3: Further, acknowledgment of favor received is requisite for the preservation of friendship, according to the Philosopher (Ethic. viii, 13; ix, 1). Now friendship is associated with all the virtues, since they are the reason for which man is loved. Therefore thankfulness or gratitude, to which it belongs to repay favors received, is not a special virtue.
 
-## Answer
+### Answer
 
 On the contrary, Tully reckons thankfulness a special part of justice (De Invent. Rhet. ii).
 
@@ -25,16 +25,16 @@ I answer that, As stated above ([3184]FS, Q[60], A[3]), the nature of the debt t
 
 Accordingly, since what we owe God, or our father, or a person excelling in dignity, is not the same as what we owe a benefactor from whom we have received some particular favor, it follows that after religion, whereby we pay God due worship, and piety, whereby we worship our parents, and observance, whereby we worship persons excelling in dignity, there is thankfulness or gratitude, whereby we give thanks to our benefactors. And it is distinct from the foregoing virtues, just as each of these is distinct from the one that precedes, as falling short thereof.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as religion is superexcelling piety, so is it excelling thankfulness or gratitude: wherefore giving thanks to God was reckoned above ([3185]Q[83], A[17]) among things pertaining to religion.
 
 Reply to Objection 2: Proportionate repayment belongs to commutative justice, when it answers to the legal due; for instance when it is contracted that so much be paid for so much. But the repayment that belongs to the virtue of thankfulness or gratitude answers to the moral debt, and is paid spontaneously. Hence thanksgiving is less thankful when compelled, as Seneca observes (De Beneficiis iii).
 
 Reply to Objection 3: Since true friendship is based on virtue, whatever there is contrary to virtue in a friend is an obstacle to friendship, and whatever in him is virtuous is an incentive to friendship. In this way friendship is preserved by repayment of favors, although repayment of favors belongs specially to the virtue of gratitude.
-# Whether The Innocent Is More Bound To Give Thanks To God Than The Penitent?
+## Whether The Innocent Is More Bound To Give Thanks To God Than The Penitent?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the innocent is more bound to give thanks to God than the penitent. For the greater the gift one has received from God, the more one is bound to give Him thanks. Now the gift of innocence is greater than that of justice restored. Therefore it seems that the innocent is more bound to give thanks to God than the penitent.
 
@@ -42,16 +42,16 @@ Objection 2: Further, a man owes love to his benefactor just as he owes him grat
 
 Objection 3: Further, the more a gratuitous favor is continuous, the greater the thanksgiving due for it. Now the favor of divine grace is more continuous in the innocent than in the penitent. For Augustine says (Confess. iii): "To Thy grace I ascribe it, and to Thy mercy, that Thou hast melted away my sins as it were ice. To Thy grace I ascribe also whatsoever I have not done of evil; for what might I not have done? . . . Yea, all I confess to have been forgiven me, both what evils I committed by my own wilfulness, and what by Thy guidance committed not." Therefore the innocent is more bound to give thanks than the penitent.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lk. 7:43): "To whom more is forgiven, he loveth more [*Vulg.: 'To whom less is forgiven, he loveth less' Lk. 7:47]." Therefore for the same reason he is bound to greater thanksgiving.
 
 I answer that, Thanksgiving [gratiarum actio] in the recipient corresponds to the favor [gratia] of the giver: so that when there is greater favor on the part of the giver, greater thanks are due on the part of the recipient. Now a favor is something bestowed "gratis": wherefore on the part of the giver the favor may be greater on two counts. First, owing to the quantity of the thing given: and in this way the innocent owes greater thanksgiving, because he receives a greater gift from God, also, absolutely speaking, a more continuous gift, other things being equal. Secondly, a favor may be said to be greater, because it is given more gratuitously; and in this sense the penitent is more bound to give thanks than the innocent, because what he receives from God is more gratuitously given: since, whereas he was deserving of punishment, he has received grace. Wherefore, although the gift bestowed on the innocent is, considered absolutely, greater, yet the gift bestowed on the penitent is greater in relation to him: even as a small gift bestowed on a poor man is greater to him than a great gift is to a rich man. And since actions are about singulars, in matters of action, we have to take note of what is such here and now, rather than of what is such absolutely, as the Philosopher observes (Ethic. iii) in treating of the voluntary and the involuntary.
 
 This suffices for the Replies to the Objections.
-# Whether A Man Is Bound To Give Thanks To Every Benefactor?
+## Whether A Man Is Bound To Give Thanks To Every Benefactor?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the a man is not bound to give thanks to every benefactor. For a man may benefit himself just as he may harm himself, according to Ecclus. 14:5, "He that is evil to himself, to whom will he be good?" But a man cannot thank himself, since thanksgiving seems to pass from one person to another. Therefore thanksgiving is not due to every benefactor.
 
@@ -65,13 +65,13 @@ Objection 5: Further, no one is bound to do what he cannot do equitably and adva
 
 Objection 6: Further, no one is bound to do for another what is inexpedient and hurtful to him. Now sometimes it happens that repayment of a favor would be hurtful or useless to the person repaid. Therefore favors are not always to be repaid by gratitude.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Thess. 5:18): "In all things give thanks."
 
 I answer that, Every effect turns naturally to its cause; wherefore Dionysius says (Div. Nom. i) that "God turns all things to Himself because He is the cause of all": for the effect must needs always be directed to the end of the agent. Now it is evident that a benefactor, as such, is cause of the beneficiary. Hence the natural order requires that he who has received a favor should, by repaying the favor, turn to his benefactor according to the mode of each. And, as stated above with regard to a father ([3186]Q[31], A[3];[3187] Q[101], A[2]), a man owes his benefactor, as such, honor and reverence, since the latter stands to him in the relation of principle; but accidentally he owes him assistance or support, if he need it.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the words of Seneca (1 Benef. v), "just as a man is liberal who gives not to himself but to others, and gracious who forgives not himself but others, and merciful who is moved, not by his own misfortunes but by another's, so too, no man confers a favor on himself, he is but following the bent of his nature, which moves him to resist what hurts him, and to seek what is profitable." Wherefore in things that one does for oneself, there is no place for gratitude or ingratitude, since a man cannot deny himself a thing except by keeping it. Nevertheless things which are properly spoken of in relation to others are spoken of metaphorically in relation to oneself, as the Philosopher states regarding justice (Ethic. v, 11), in so far, to wit, as the various parts of man are considered as though they were various persons.
 
@@ -84,9 +84,9 @@ Reply to Objection 4: As Seneca observes (De Benef. iii), "when a slave does wha
 Reply to Objection 5: A poor man is certainly not ungrateful if he does what he can. For since kindness depends on the heart rather than on the deed, so too gratitude depends chiefly the heart. Hence Seneca says (De Benef. ii): "Who receives a favor gratefully, has already begun to pay it back: and that we are grateful for favors received should be shown by the outpourings of the heart, not only in his hearing but everywhere." From this it is evident that however well off a man may be, it is possible to thank him for his kindness by showing him reverence and honor. Wherefore the Philosopher says (Ethic. viii, 14): "He that abounds should be repaid with honor, he that is in want should be repaid with money": and Seneca writes (De Benef. vi): "There are many ways of repaying those who are well off, whatever we happen to owe them; such as good advice, frequent fellowship, affable and pleasant conversation without flattery." Therefore there is no need for a man to desire neediness or distress in his benefactor before repaying his kindness, because, as Seneca says (De Benef. vi), "it were inhuman to desire this in one from whom you have received no favor; how much more so to desire it in one whose kindness has made you his debtor!"
 
 Reply to Objection 6: As stated in the preceding reply, repayment of a favor depends chiefly on the affection of the heart: wherefore repayment should be made in such a way as to prove most beneficial. If, however, through the benefactor's carelessness it prove detrimental to him, this is not imputed to the person who repays him, as Seneca observes (De Benef. vii): "It is my duty to repay, and not to keep back and safeguard my repayment."
-# Whether A Man Is Bound To Repay A Favor At Once?
+## Whether A Man Is Bound To Repay A Favor At Once?
 
-## Objections
+### Objections
 
 Objection 1: It seems that a man is bound to repay a favor at once. For we are bound to restore at once what we owe, unless the term be fixed. Now there is no term prescribed for the repayment of favors, and yet this repayment is a duty, as stated above [3188](A[3]). Therefore a man is bound to repay a favor at once.
 
@@ -94,22 +94,22 @@ Objection 2: Further, a good action would seem to be all the more praiseworthy a
 
 Objection 3: Further, Seneca says (De Benef. ii) that "it is proper to a benefactor to act freely and quickly." Now repayment ought to equal the favor received. Therefore it should be done at once.
 
-## Answer
+### Answer
 
 On the contrary, Seneca says (De Benef. iv): "He that hastens to repay, is animated with a sense, not of gratitude but of indebtedness."
 
 I answer that, Just as in conferring a favor two things are to be considered, namely, the affection of the heart and the gift, so also must these things be considered in repaying the favor. As regards the affection of the heart, repayment should be made at once, wherefore Seneca says (De Benef. ii): "Do you wish to repay a favor? Receive it graciously." As regards the gift, one ought to wait until such a time as will be convenient to the benefactor. In fact, if instead of choosing a convenient time, one wished to repay at once, favor for favor, it would not seem to be a virtuous, but a constrained repayment. For, as Seneca observes (De Benef. iv), "he that wishes to repay too soon, is an unwilling debtor, and an unwilling debtor is ungrateful."
 
-## Replies
+### Replies
 
 Reply to Objection 1: A legal debt must be paid at once, else the equality of justice would not be preserved, if one kept another's property without his consent. But a moral debt depends on the equity of the debtor: and therefore it should be repaid in due time according as the rectitude of virtue demands.
 
 Reply to Objection 2: Earnestness of the will is not virtuous unless it be regulated by reason; wherefore it is not praiseworthy to forestall the proper time through earnestness.
 
 Reply to Objection 3: Favors also should be conferred at a convenient time and one should no longer delay when the convenient time comes; and the same is to be observed in repaying favors.
-# Whether In Giving Thanks We Should Look At The Benefactor's Disposition Or At The Deed?
+## Whether In Giving Thanks We Should Look At The Benefactor's Disposition Or At The Deed?
 
-## Objections
+### Objections
 
 Objection 1: It seems that in repaying favors we should not look at the benefactor's disposition but at the deed. For repayment is due to beneficence, and beneficence consists in deeds, as the word itself denotes. Therefore in repaying favors we should look at the deed.
 
@@ -117,7 +117,7 @@ Objection 2: Further, thanksgiving, whereby we repay favors, is a part of justic
 
 Objection 3: Further, no one can consider what he does not know. Now God alone knows the interior disposition. Therefore it is impossible to repay a favor according to the benefactor's disposition.
 
-## Answer
+### Answer
 
 On the contrary, Seneca says (De Benef. i): "We are sometimes under a greater obligation to one who has given little with a large heart, and has bestowed a small favor, yet willingly."
 
@@ -125,16 +125,16 @@ I answer that, The repayment of a favor may belong to three virtues, namely, jus
 
 On the other hand, repayment of a favor belongs, though in different ways, to friendship and likewise to the virtue of gratitude when it has the character of a moral debt. For in the repayment of friendship we have to consider the cause of friendship; so that in the friendship that is based on the useful, repayment should be made according to the usefulness accruing from the favor conferred, and in the friendship based on virtue repayment should be made with regard for the choice or disposition of the giver, since this is the chief requisite of virtue, as stated in Ethic. viii, 13. And likewise, since gratitude regards the favor inasmuch as it is bestowed gratis, and this regards the disposition of the giver, it follows again that repayment of a favor depends more on the disposition of the giver than on the effect.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Every moral act depends on the will. Hence a kindly action, in so far as it is praiseworthy and is deserving of gratitude, consists materially in the thing done, but formally and chiefly in the will. Hence Seneca says (De Benef. i): "A kindly action consists not in deed or gift, but in the disposition of the giver or doer."
 
 Reply to Objection 2: Gratitude is a part of justice, not indeed as a species is part of a genus, but by a kind of reduction to the genus of justice, as stated above ([3189]Q[80]). Hence it does not follow that we shall find the same kind of debt in both virtues.
 
 Reply to Objection 3: God alone sees man's disposition in itself: but in so far as it is shown by certain signs, man also can know it. It is thus that a benefactor's disposition is known by the way in which he does the kindly action, for instance through his doing it joyfully and readily.
-# Whether The Repayment Of Gratitude Should Surpass The Favor Received?
+## Whether The Repayment Of Gratitude Should Surpass The Favor Received?
 
-## Objections
+### Objections
 
 Objection 1: It seems that there is no need for the repayment of gratitude to surpass the favor received. For it is not possible to make even equal repayment to some, for instance, one's parents, as the Philosopher states (Ethic. viii, 14). Now virtue does not attempt the impossible. Therefore gratitude for a favor does not tend to something yet greater.
 
@@ -142,13 +142,13 @@ Objection 2: Further, if one person repays another more than he has received by 
 
 Objection 3: Further, justice consists in equality. But "more" is excess of equality. Since therefore excess is sinful in every virtue, it seems that to repay more than the favor received is sinful and opposed to justice.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. v, 5): "We should repay those who are gracious to us, by being gracious to them return," and this is done by repaying more than we have received. Therefore gratitude should incline to do something greater.
 
 I answer that, As stated above [3190](A[5]), gratitude regards the favor received according the intention of the benefactor; who seems be deserving of praise, chiefly for having conferred the favor gratis without being bound to do so. Wherefore the beneficiary is under a moral obligation to bestow something gratis in return. Now he does not seem to bestow something gratis, unless he exceeds the quantity of the favor received: because so long as he repays less or an equivalent, he would seem to do nothing gratis, but only to return what he has received. Therefore gratitude always inclines, as far as possible, to pay back something more.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above (A[3], ad 5; A[5]), in repaying favors we must consider the disposition rather than the deed. Accordingly, if we consider the effect of beneficence, which a son receives from his parents namely, to be and to live, the son cannot make an equal repayment, as the Philosopher states (Ethic. viii, 14). But if we consider the will of the giver and of the repayer, then it is possible for the son to pay back something greater to his father, as Seneca declares (De Benef. iii). If, however, he were unable to do so, the will to pay back would be sufficient for gratitude.
 

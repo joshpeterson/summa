@@ -6,9 +6,9 @@ In the next place we must consider the distinction of the orders and their acts,
 (3) Whether they ought to be divided into those that are sacred and those that are not?
 (4) Whether the acts of the Orders are rightly assigned in the text?
 (5) When are the characters of the Orders imprinted?
-# Whether We Ought To Distinguish Several Orders?
+## Whether We Ought To Distinguish Several Orders?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that we ought not to distinguish several Orders. For the greater a power is, the less is it multiplied. Now this sacrament ranks above the others in so far as it places its recipients in a degree above other persons. Since then the other sacraments are not divided into several of which the whole is predicated, neither ought this sacrament to be divided into several Orders.
 
@@ -16,22 +16,22 @@ Objection 2: Further, if it be divided, the parts of the division are either int
 
 Objection 3: Further, according to the Philosopher (Ethic. viii, 10) the form of authority in which one alone governs is a better government of the common weal than aristocracy, where different persons occupy different offices. But the government of the Church should be the best of all. Therefore in the Church there should be no distinction of Orders for different acts, but the whole power should reside in one person; and consequently there ought to be only one Order.
 
-## Answer
+### Answer
 
 On the contrary, The Church is Christ's mystical body, like to our natural body, according to the Apostle (Rom. 12:5; 1 Cor. 12:12, 27; Eph. 1:22,23; Col. 1:24). Now in the natural body there are various offices of the members. Therefore in the Church also there should be various Orders.
 
 I answer that, Multiplicity of Orders was introduced into the Church for three reasons. First to show forth the wisdom of God, which is reflected in the orderly distinction of things both natural and spiritual. This is signified in the statement of 3 Kings 10:4,5 that "when the queen of Saba saw . . . the order of" Solomon's "servants . . . she had no longer any spirit in her," for she was breathless from admiration of his wisdom. Secondly, in order to succor human weakness, because it would be impossible for one man, without his being heavily burdened, to fulfill all things pertaining to the Divine mysteries; and so various orders are severally appointed to the various offices; and this is shown by the Lord giving Moses seventy ancients to assist him. Thirdly, that men may be given a broader way for advancing (to perfection), seeing that the various duties are divided among many men, so that all become the co-operators of God; than which nothing is more God-like, as Dionysius says (Eccl. Hier. iii).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The other sacraments are given that certain effects may be received; but this sacrament is given chiefly that certain acts may be performed. Hence it behooves the sacrament of Order to be differentiated according to the diversity of acts, even as powers are differentiated by their acts.
 
 Reply to Objection 2: The division of Order is not that of an integral whole into its parts, nor of a universal whole, but of a potential whole, the nature of which is that the notion of the whole is found to be complete in one part, but in the others by some participation thereof. Thus it is here: for the entire fulness of the sacrament is in one Order, namely the priesthood, while in the other sacraments there is a participation of Order. And this is signified by the Lord saying (Num. 11:17): "I will take of thy spirit and give to them, that they may bear with thee the burden of the people." Therefore all the Orders are one sacrament.
 
 Reply to Objection 3: In a kingdom, although the entire fulness of power resides in the king, this does not exclude the ministers having a power which is a participation of the kingly power. It is the same in Order. In the aristocratic form of government, on the contrary, the fulness of power resides in no one, but in all.
-# Whether There Are Seven Orders?
+## Whether There Are Seven Orders?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are not seven Orders. For the Orders of the Church are directed to the hierarchical acts. But there are only three hierarchical acts, namely "to cleanse, to enlighten, and to perfect," for which reason Dionysius distinguishes three Orders (Eccl. Hier. v). Therefore there are not seven.
 
@@ -43,13 +43,13 @@ Objection 4: On the other hand, It would seem that there ought to be more. For t
 
 Objection 5: Further, the prophecy of the Psalms is the most noble of all the prophecies. Now there is one Order, namely of readers, for reading the other prophecies in the Church. Therefore there ought to be another Order for reading the Psalms, especially since (Decretals, Dist. xxi, cap. Cleros) the "psalmist" is reckoned as the second Order after the doorkeeper.
 
-## Answer
+### Answer
 
 
 
 I answer that, Some show the sufficiency of the orders from their correspondence with the gratuitous graces which are indicated 1 Cor. 12. For they say that the "word of wisdom" belongs to the bishop, because he is the ordainer of others, which pertains to wisdom; the "word of knowledge" to the priest, for he ought to have the key of knowledge; "faith" to the deacon, for he preaches the Gospel; the "working of miracles" to the subdeacon, who sets himself to do deeds of perfection by the vow of continency; "interpretation of speeches" to the acolyte, this being signified by the light which he bears; the "grace of healing" to the exorcist; "diverse kinds of tongues" to the psalmist; "prophecy" to the reader; and the "discerning of spirits" to the doorkeeper, for he excludes some and admits others. But this is of no account, for the gratuitous graces are not given, as the Orders are, to one same man. For it is written (1 Cor. 12:4): "There are distributions [Douay: 'diversities'] of graces." Moreover the episcopate [*Cf.[4908] Q[40], A[5]] and the office of psalmist are included, which are not Orders. Wherefore others account for the Orders by likening them to the heavenly hierarchy, where the Orders are distinguished in reference to cleansing, enlightening, and perfecting. Thus they say that the doorkeeper cleanses outwardly, by separating even in the body the good from the wicked; that the acolyte cleanses inwardly, because by the light which he bears, he signifies that he dispels inward darkness; and that the exorcist cleanses both ways, for he casts out the devil who disturbs a man both ways. But enlightening, which is effected by teaching, is done by readers as regards prophetic doctrine; by subdeacons as to apostolic doctrine; and by deacons as to the gospel doctrine; while ordinary perfection, such as the perfection of Penance, Baptism, and so forth is the work of the priest; excellent perfection, such as the consecration of priests and virgins, is the work of the bishop; while the most excellent perfection is the work of the Sovereign Pontiff in whom resides the fulness of authority. But this again is of no account; both because the orders of the heavenly hierarchy are not distinguished by the aforesaid hierarchical actions, since each of them is applicable to every Order; and because, according to Dionysius (Eccl. Hier. v), perfecting belongs to the bishops alone, enlightening to the priests, and cleansing to all the ministers. Wherefore others suit the orders to the seven gifts, so that the priesthood corresponds to the gift of wisdom, which feeds us with the bread of life and understanding, even as the priest refreshes us with the heavenly bread; fear to the doorkeeper, for he separates us from the wicked; and thus the intermediate Orders to the intermediate gifts. But this again is of no account, since the sevenfold grace is given in each one of the Orders. Consequently we must answer differently by saying that the sacrament of Order is directed to the sacrament of the Eucharist, which is the sacrament of sacraments, as Dionysius says (Eccl. Hier. iii). For just as temple, altar, vessels, and vestments need to be consecrated, so do the ministers who are ordained for the Eucharist; and this consecration is the sacrament of Order. Hence the distinction of Orders is derived from their relation to the Eucharist. For the power of Order is directed either to the consecration of the Eucharist itself, or to some ministry in connection with this sacrament of the Eucharist. If in the former way, then it is the Order of priests; hence when they are ordained, they receive the chalice with wine, and the paten with the bread, because they are receiving the power to consecrate the body and blood of Christ. The co-operation of the ministers is directed either to the sacrament itself, or to the recipients. If the former, this happens in three ways. For in the first place, there is the ministry whereby the minister co-operates with the priest in the sacrament itself, by dispensing, but not by consecrating, for this is done by the priest alone; and this belongs to the deacon. Hence in the text (Sent. iv, D, 24) it is said that it belongs to the deacon to minister to the priests in whatever is done in Christ's sacraments, wherefore he dispenses Christ's blood. Secondly, there is the ministry directed to the disposal of the sacramental matter in the sacred vessels of the sacrament. and this belongs to subdeacons. Wherefore it is stated in the text (Sent. iv, D, 24) that they carry the vessels of our Lord's body and blood, and place the oblation on the altar; hence, when they are ordained, they receive the chalice, empty however, from the bishop's hands. Thirdly, there is the ministry directed to the proffering of the sacramental matter, and this belongs to the acolyte. For he, as stated in the text (Sent. iv, D, 24), prepares the cruet with wine and water; wherefore he receives an empty cruet. The ministry directed to the preparation of the recipients can be exercised only over the unclean, since those who are clean are already apt for receiving the sacraments. Now the unclean are of three kinds, according to Dionysius (Eccl. Hier. iii). For some are absolute unbelievers and unwilling to believe; and these must be altogether debarred from beholding Divine things and from the assembly of the faithful; this belongs to the doorkeepers. Some, however, are willing to believe, but are not as yet instructed, namely catechumens, and to the instruction of such persons the Order of readers is directed, who are therefore entrusted with the reading of the first rudiments of the doctrine of faith, namely the Old Testament. But some are believers and instructed, yet lie under an impediment through the power of the devil, namely those who are possessed: and to this ministry the order of exorcists is directed. Thus the reason and number of the degrees of Orders is made clear.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Dionysius is speaking of the orders not as sacraments, but as directed to hierarchical actions. Wherefore he distinguishes three Orders corresponding to those actions. The first of these Orders, namely the bishop, has all three actions; the second, namely the priest, has two; while the third has one, namely to cleanse; this is the deacon who is called a minister: and under this last all the lower Orders are comprised. But the Orders derive their sacramental nature from their relation to the greatest of the sacraments, and consequently the number of Orders depends on this.
 
@@ -60,24 +60,24 @@ Reply to Objection 3: The orders are directed to the sacrament of the Eucharist 
 Reply to Objection 4: The angels differ specifically [*Cf. [4909]FP, Q[50], A[4]]: for this reason it is possible for them to have various modes of receiving Divine things, and hence also they are divided into various hierarchies. But in men there is only one hierarchy, because they have only one mode of receiving Divine things, which results from the human species, namely through the images of sensible objects. Consequently the distinction of orders in the angels cannot bear any relation to a sacrament as it is with us, but only a relation to the hierarchical actions which among them each Order exercises on the Orders below. In this respect our Orders correspond to theirs; since in our hierarchy there are three Orders, distinguished according to the three hierarchical actions, even as in each angelic hierarchy.
 
 Reply to Objection 5: The office of psalmist is not an Order, but an office annexed to an Order. For the psalmist is also styled precentor because the psalms are recited with chant. Now precentor is not the name of a special Order, both because it belongs to the whole choir to sing, and because he has no special relation to the sacrament of the Eucharist. Since, however, it is a particular office, it is sometimes reckoned among the Orders, taking these in a broad sense.
-# Whether The Order Should Be Divided Into Those That Are Sacred And Those That Are Not?
+## Whether The Order Should Be Divided Into Those That Are Sacred And Those That Are Not?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Orders ought not to be divided into those that are sacred and those that are not. For all the Orders are sacraments, and all the sacraments are sacred. Therefore all the Orders are sacred.
 
 Objection 2: Further, by the Orders of the Church a man is not appointed to any other than Divine offices. Now all these are sacred. Therefore all the Orders also are sacred.
 
-## Answer
+### Answer
 
 On the contrary, The sacred Orders are an impediment to the contracting of marriage and annul the marriage that is already contracted. But the four lower orders neither impede the contracting nor annul the contract. Therefore these are not sacred Orders.
 
 I answer that, An Order is said to be sacred in two ways. First, in itself, and thus every order is sacred, since it is a sacrament. Secondly, by reason of the matter about which it exercises an act, and thus an Order is called sacred, if it exercises an act about some consecrated thing. In this sense there are only three sacred Orders, namely the priesthood and diaconate, which exercise an act about the consecrated body and blood of Christ, and the subdiaconate, which exercises an act about the consecrated vessels. Wherefore continency is enjoined them, that they who handle holy things may themselves be holy and clean.
 
 This suffices for the Replies to the Objections.
-# Whether The Acts Of The Orders Are Rightly Assigned In The Text?
+## Whether The Acts Of The Orders Are Rightly Assigned In The Text?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the acts of the Orders are not rightly assigned in the text (Sent. iv, D, 24). Because a person is prepared by absolution to receive Christ's body. Now the preparation of the recipients of a sacrament belongs to the lower Orders. Therefore absolution from sins is unfittingly reckoned among the acts of a priest.
 
@@ -97,13 +97,13 @@ Objection 8: Further, things that have most in common should be placed beside on
 
 Objection 9: Further, in every act of a special Order, there should be some special power, which the person ordained has to the exclusion of other persons. But in opening and shutting doors the doorkeeper has no special power that other men have not. Therefore this should not be reckoned their act.
 
-## Answer
+### Answer
 
 
 
 I answer that, Since the consecration conferred in the sacrament of orders is directed to the sacrament of the Eucharist, as stated above [4910](A[2]), the principal act of each order is that whereby it is most nearly directed to the sacrament of the Eucharist. In this respect, too, one order ranks above another, in so far as one act is more nearly directed to that same sacrament. But because many things are directed to the Eucharist, as being the most exalted of the sacraments, it follows not unfittingly that one Order has many acts besides its principal act, and all the more, as it ranks higher, since a power extends to the more things, the higher it is.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The preparation of the recipients of a sacrament is twofold. One is remote and is effected by the ministers: another is proximate, whereby they are rendered apt at once for receiving the sacraments. This latter belongs to priests, since even in natural things matter receives from one and the same agent both the ultimate disposition to the form, and the form itself. And since a person acquires the proximate disposition to the Eucharist by being cleansed from sin, it follows that the priest is the proper minister of all those sacraments which are chiefly instituted for the cleansing of sins, namely Baptism, Penance, and Extreme Unction.
 
@@ -120,9 +120,9 @@ Reply to Objection 7: The bodily acts of the acolyte are more intimately connect
 Reply to Objection 8: The act of the acolyte is more closely connected with the principal acts of the higher ministers, than the acts of the other minor Orders, as is self-evident; and again as regards the secondary acts whereby they prepare the people by doctrine. For the acolyte by bearing a light represents the doctrine of the New Testament in a visible manner, while the reader by his recital represents it differently, wherefore the acolyte is of higher rank. It is the same with the exorcist, for as the act of the reader is compared with the secondary act of the deacon and subdeacon, so is the act of the exorcist compared with the secondary act of the priest, namely to bind and to loose, by which man is wholly freed from the slavery of the devil. This, too, shows the degrees of Order to be most orderly. since only the three higher Orders co-operate with the priest in his principal act which is to consecrate the body of Christ, while both the higher and lower Orders co-operate with him in his secondary act, which is to loose and bind.
 
 Reply to Objection 9: Some say that in receiving the Order the doorkeeper is given a Divine power to debar others from entering the Church, even as Christ had, when He cast out the sellers from the Temple. But this belongs to a gratuitous grace rather than to a sacramental grace. Wherefore we should reply that he receives the power to do this by virtue of his office, although others may do so, but not officially. It is the case in all the acts of the minor Orders, that they can be lawfully exercised by others, even though these have no office to that effect: just as Mass may be said in an unconsecrated building, although the consecration of a church is directed to the purpose that Mass be said there.
-# Whether The Character Is Imprinted On A Priest When The Chalice Is Handed To Him?
+## Whether The Character Is Imprinted On A Priest When The Chalice Is Handed To Him?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the character is not imprinted on the priest at the moment when the chalice is handed to him. For the consecration of a priest is done by anointing as in Confirmation. Now in Confirmation the character is imprinted at the moment of anointing; and therefore in the priesthood also and not at the handing of the chalice.
 
@@ -136,7 +136,7 @@ Objection 5: Further, the deacon's order is more closely allied to the priest's 
 
 Objection 6: Further, the Order of acolytes approaches nearer to the priestly act by exercising an act over the cruet than by exercising an act over the torch. Yet the character is imprinted on the acolytes when they receive the torch rather than when they receive the cruet, because the name of acolyte signifies candle-bearer. Therefore the character is not imprinted on the priest when he receives the chalice.
 
-## Answer
+### Answer
 
 On the contrary, The principal act of the priest's Order is to consecrate Christ's body. Now he receives the power to this effect at the handing of the chalice. Therefore the character is imprinted on him then.
 
@@ -144,7 +144,7 @@ I answer that, As stated above (A[4], ad 1), to cause the form and to give the m
 
 The conferring of power is effected by giving them something pertaining to their proper act. And since the principal act of a priest is to consecrate the body and blood of Christ, the priestly character is imprinted at the very giving of the chalice under the prescribed form of words.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In Confirmation there is not given the office of exercising an act on an exterior matter, wherefore the character is not imprinted in that sacrament at the handing of some particular thing, but at the mere imposition of hands and anointing. But it is otherwise in the priestly Order, and consequently the comparison fails.
 

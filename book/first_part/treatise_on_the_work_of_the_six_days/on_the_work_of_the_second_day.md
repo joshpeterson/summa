@@ -5,9 +5,9 @@ We must next consider the work of the second day. Under this head there are four
 (2) Whether there are waters above the firmament?
 (3) Whether the firmament divides waters from waters?
 (4) Whether there is more than one heaven?
-# Whether The Firmament Was Made On The Second Day?
+## Whether The Firmament Was Made On The Second Day?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the firmament was not made on the second day. For it is said (Gn. 1:8): "God called the firmament heaven." But the heaven existed before days, as is clear from the words, "In the beginning God created heaven and earth." Therefore the firmament was not made on the second day.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the work of the six days is ordered conformably to the ord
 
 Objection 3: Further, all that was made in the six days was formed out of matter created before days began. But the firmament cannot have been formed out of pre-existing matter, for if so it would be liable to generation and corruption. Therefore the firmament was not made on the second day.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 1:6): "God said: let there be a firmament," and further on (verse 8); "And the evening and morning were the second day."
 
@@ -35,12 +35,12 @@ If, however, we take these days to denote merely sequence in the natural order, 
 
 Another possible explanation is to understand by the firmament that was made on the second day, not that in which the stars are set, but the part of the atmosphere where the clouds are collected, and which has received the name firmament from the firmness and density of the air. "For a body is called firm," that is dense and solid, "thereby differing from a mathematical body" as is remarked by Basil (Hom. iii in Hexaem.). If, then, this explanation is adopted none of these opinions will be found repugnant to reason. Augustine, in fact (Gen. ad lit. ii, 4), recommends it thus: "I consider this view of the question worthy of all commendation, as neither contrary to faith nor difficult to be proved and believed."
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Chrysostom (Hom. iii in Genes.), Moses prefaces his record by speaking of the works of God collectively, in the words, "In the beginning God created heaven and earth," and then proceeds to explain them part by part; in somewhat the same way as one might say: "This house was constructed by that builder," and then add: "First, he laid the foundations, then built the walls, and thirdly, put on the roof." In accepting this explanation we are, therefore, not bound to hold that a different heaven is spoken of in the words: "In the beginning God created heaven and earth," and when we read that the firmament was made on the second day.
-# Whether There Are Waters Above The Firmament?
+## Whether There Are Waters Above The Firmament?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are not waters above the firmament. For water is heavy by nature, and heavy things tend naturally downwards, not upwards. Therefore there are not waters above the firmament.
 
@@ -48,22 +48,22 @@ Objection 2: Further, water is fluid by nature, and fluids cannot rest on a sphe
 
 Objection 3: Further, water is an element, and appointed to the generation of composite bodies, according to the relation in which imperfect things stand towards perfect. But bodies of composite nature have their place upon the earth, and not above the firmament, so that water would be useless there. But none of God's works are useless. Therefore there are not waters above the firmament.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 1:7): "(God) divided the waters that were under the firmament, from those that were above the firmament."
 
 
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some have attempted to solve this difficulty by supposing that in spite of the natural gravity of water, it is kept in its place above the firmament by the Divine power. Augustine (Gen. ad lit. ii, 1), however will not admit this solution, but says "It is our business here to inquire how God has constituted the natures of His creatures, not how far it may have pleased Him to work on them by way of miracle." We leave this view, then, and answer that according to the last two opinions on the firmament and the waters the solution appears from what has been said. According to the first opinion, an order of the elements must be supposed different from that given by Aristotle, that is to say, that the waters surrounding the earth are of a dense consistency, and those around the firmament of a rarer consistency, in proportion to the respective density of the earth and of the heaven.
 
 Reply to Objection 2: The solution is clear from what has been said, according to the last two opinions. But according to the first opinion, Basil gives two replies (Hom. iii in Hexaem.). He answers first, that a body seen as concave beneath need not necessarily be rounded, or convex, above. Secondly, that the waters above the firmament are not fluid, but exist outside it in a solid state, as a mass of ice, and that this is the crystalline heaven of some writers.
 
 Reply to Objection 3: According to the third opinion given, the waters above the firmament have been raised in the form of vapors, and serve to give rain to the earth. But according to the second opinion, they are above the heaven that is wholly transparent and starless. This, according to some, is the primary mobile, the cause of the daily revolution of the entire heaven, whereby the continuance of generation is secured. In the same way the starry heaven, by the zodiacal movement, is the cause whereby different bodies are generated or corrupted, through the rising and setting of the stars, and their various influences. But according to the first opinion these waters are set there to temper the heat of the celestial bodies, as Basil supposes (Hom. iii in Hexaem.). And Augustine says (Gen. ad lit. ii, 5) that some have considered this to be proved by the extreme cold of Saturn owing to its nearness to the waters that are above the firmament.
-# Whether The Firmament Divides Waters From Waters?
+## Whether The Firmament Divides Waters From Waters?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the firmament does not divide waters from waters. For bodies that are of one and the same species have naturally one and the same place. But the Philosopher says (Topic. i, 6): "All water is the same species." Water therefore cannot be distinct from water by place.
 
@@ -71,7 +71,7 @@ Objection 2: Further, should it be said that the waters above the firmament diff
 
 Objection 3: Further, it would appear that what distinguishes waters from waters must be something which is in contact with them on either side, as a wall standing in the midst of a river. But it is evident that the waters below do not reach up to the firmament. Therefore the firmament does not divide the waters from the waters.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 1:6): "Let there be a firmament made amidst the waters; and let it divide the waters from the waters."
 
@@ -83,16 +83,16 @@ Moses, then, while he expressly mentions water and earth, makes no express menti
 
 Whether, then, we understand by the firmament the starry heaven, or the cloudy region of the air, it is true to say that it divides the waters from the waters, according as we take water to denote formless matter, or any kind of transparent body, as fittingly designated under the name of waters. For the starry heaven divides the lower transparent bodies from the higher, and the cloudy region divides that higher part of the air, where the rain and similar things are generated, from the lower part, which is connected with the water and included under that name.
 
-## Replies
+### Replies
 
 Reply to Objection 1: If by the firmament is understood the starry heaven, the waters above are not of the same species as those beneath. But if by the firmament is understood the cloudy region of the air, both these waters are of the same species, and two places are assigned to them, though not for the same purpose, the higher being the place of their begetting, the lower, the place of their repose.
 
 Reply to Objection 2: If the waters are held to differ in species, the firmament cannot be said to divide the waters, as the cause of their destruction, but only as the boundary of each.
 
 Reply to Objection 3: On account of the air and other similar bodies being invisible, Moses includes all such bodies under the name of water, and thus it is evident that waters are found on each side of the firmament, whatever be the sense in which the word is used.
-# Whether There Is Only One Heaven?
+## Whether There Is Only One Heaven?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is only one heaven. For the heaven is contrasted with the earth, in the words, "In the beginning God created heaven and earth."But there is only one earth. Therefore there is only one heaven.
 
@@ -100,7 +100,7 @@ Objection 2: Further, that which consists of the entire sum of its own matter, m
 
 Objection 3: Further, whatever is predicated of many things univocally is predicated of them according to some common notion. But if there are more heavens than one, they are so called univocally, for if equivocally only, they could not properly be called many. If, then, they are many, there must be some common notion by reason of which each is called heaven, but this common notion cannot be assigned. Therefore there cannot be more than one heaven.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Ps. 148:4): "Praise Him, ye heavens of heavens."
 
@@ -116,7 +116,7 @@ Thirdly, there are metaphorical uses of the word heaven, as when this name is ap
 
 Again, three kinds of supernatural visions, bodily, imaginative, and intellectual, are called sometimes so many heavens, in reference to which Augustine (Gen. ad lit. xii) expounds Paul's rapture "to the third heaven."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The earth stands in relation to the heaven as the centre of a circle to its circumference. But as one center may have many circumferences, so, though there is but one earth, there may be many heavens.
 

@@ -5,9 +5,9 @@ We next consider how one creature moves another. This consideration will be thre
 (2) Whether one angel moves the will of another?
 (3) Whether an inferior angel can enlighten a superior angel?
 (4) Whether a superior angel enlightens an inferior angel in all that he knows himself?
-# Whether One Angel Enlightens Another?
+## Whether One Angel Enlightens Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one angel does not enlighten another. For the angels possess now the same beatitude which we hope to obtain. But one man will not then enlighten another, according to Jer. 31:34: "They shall teach no more every man his neighbor, and every man his brother." Therefore neither does an angel enlighten another now.
 
@@ -15,7 +15,7 @@ Objection 2: Further, light in the angels is threefold; of nature, of grace, and
 
 Objection 3: Further, light is a form in the mind. But the rational mind is "informed by God alone, without created intervention," as Augustine says (QQ. 83, qu. 51). Therefore one angel does not enlighten the mind of another.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Coel. Hier. viii) that "the angels of the second hierarchy are cleansed, enlightened and perfected by the angels of the first hierarchy."
 
@@ -23,16 +23,16 @@ I answer that, One angel enlightens another. To make this clear, we must observe
 
 Now since two things concur in the intellectual operation, as we have said ([850]Q[105], A[3]), namely, the intellectual power, and the likeness of the thing understood; in both of these one angel can notify the known truth to another. First, by strengthening his intellectual power; for just as the power of an imperfect body is strengthened by the neighborhood of a more perfect body ---for instance, the less hot is made hotter by the presence of what is hotter; so the intellectual power of an inferior angel is strengthened by the superior angel turning to him: since in spiritual things, for one thing to turn to another, corresponds to neighborhood in corporeal things. Secondly, one angel manifests the truth to another as regards the likeness of the thing understood. For the superior angel receives the knowledge of truth by a kind of universal conception, to receive which the inferior angel's intellect is not sufficiently powerful, for it is natural to him to receive truth in a more particular manner. Therefore the superior angel distinguishes, in a way, the truth which he conceives universally, so that it can be grasped by the inferior angel; and thus he proposes it to his knowledge. Thus it is with us that the teacher, in order to adapt himself to others, divides into many points the knowledge which he possesses in the universal. This is thus expressed by Dionysius (Coel. Hier. xv): "Every intellectual substance with provident power divides and multiplies the uniform knowledge bestowed on it by one nearer to God, so as to lead its inferiors upwards by analogy."
 
-## Replies
+### Replies
 
 Reply to Objection 1: All the angels, both inferior and superior, see the Essence of God immediately, and in this respect one does not teach another. It is of this truth that the prophet speaks; wherefore he adds: "They shall teach no more every man his brother, saying: 'Know the Lord': for all shall know Me, from the least of them even to the greatest." But all the types of the Divine works, which are known in God as in their cause, God knows in Himself, because He comprehends Himself; but of others who see God, each one knows the more types, the more perfectly he sees God. Hence a superior angel knows more about the types of the Divine works than an inferior angel, and concerning these the former enlightens the latter; and as to this Dionysius says (Div. Nom. iv) that the angels "are enlightened by the types of existing things."
 
 Reply to Objection 2: An angel does not enlighten another by giving him the light of nature, grace, or glory; but by strengthening his natural light, and by manifesting to him the truth concerning the state of nature, of grace, and of glory, as explained above.
 
 Reply to Objection 3: The rational mind is formed immediately by God, either as the image from the exemplar, forasmuch as it is made to the image of God alone; or as the subject by the ultimate perfecting form: for the created mind is always considered to be unformed, except it adhere to the first truth; while the other kinds of enlightenment that proceed from man or angel, are, as it were, dispositions to this ultimate form.
-# Whether One Angel Moves Another Angel's Will?
+## Whether One Angel Moves Another Angel's Will?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one angel can move another angel's will. Because, according to Dionysius quoted above [851](A[1]), as one angel enlightens another, so does he cleanse and perfect another. But cleansing and perfecting seem to belong to the will: for the former seems to point to the stain of sin which appertains to will; while to be perfected is to obtain an end, which is the object of the will. Therefore an angel can move another angel's will.
 
@@ -40,7 +40,7 @@ Objection 2: Further, as Dionysius says (Coel. Hier. vii): "The names of the ang
 
 Objection 3: Further, the Philosopher says (De Anima iii, 11) that the higher appetite moves the lower. But as the intellect of the superior angel is higher, so also is his will. It seems, therefore, that the superior angel can change the will of another angel.
 
-## Answer
+### Answer
 
 On the contrary, To him it belongs to change the will, to whom it belongs to bestow righteousness: for righteousness is the rightness of the will. But God alone bestows righteousness. Therefore one angel cannot change another angel's will.
 
@@ -48,16 +48,16 @@ I answer that, As was said above ([852]Q[105], A[4]), the will is changed in two
 
 But on the part of the power the will cannot be moved at all save by God. For the operation of the will is a certain inclination of the willer to the thing willed. And He alone can change this inclination, Who bestowed on the creature the power to will: just as that agent alone can change the natural inclination, which can give the power to which follows that natural inclination. Now God alone gave to the creature the power to will, because He alone is the author of the intellectual nature. Therefore an angel cannot move another angel's will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Cleansing and perfecting are to be understood according to the mode of enlightenment. And since God enlightens by changing the intellect and will, He cleanses by removing defects of intellect and will, and perfects unto the end of the intellect and will. But the enlightenment caused by an angel concerns the intellect, as explained above [854](A[1]); therefore an angel is to be understood as cleansing from the defect of nescience in the intellect; and as perfecting unto the consummate end of the intellect, and this is the knowledge of truth. Thus Dionysius says (Eccl. Hier. vi): that "in the heavenly hierarchy the chastening of the inferior essence is an enlightening of things unknown, that leads them to more perfect knowledge." For instance, we might say that corporeal sight is cleansed by the removal of darkness; enlightened by the diffusion of light; and perfected by being brought to the perception of the colored object.
 
 Reply to Objection 2: One angel can induce another to love God by persuasion as explained above.
 
 Reply to Objection 3: The Philosopher speaks of the lower sensitive appetite which can be moved by the superior intellectual appetite, because it belongs to the same nature of the soul, and because the inferior appetite is a power in a corporeal organ. But this does not apply to the angels.
-# Whether An Inferior Angel Can Enlighten A Superior Angel?
+## Whether An Inferior Angel Can Enlighten A Superior Angel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an inferior angel can enlighten a superior angel. For the ecclesiastical hierarchy is derived from, and represents the heavenly hierarchy; and hence the heavenly Jerusalem is called "our mother" (Gal. 4:26). But in the Church even superiors are enlightened and taught by their inferiors, as the Apostle says (1 Cor. 14:31): "You may all prophesy one by one, that all may learn and all may be exhorted." Therefore, likewise in the heavenly hierarchy, the superiors can be enlightened by inferiors.
 
@@ -65,22 +65,22 @@ Objection 2: Further, as the order of corporeal substances depends on the will o
 
 Objection 3: Further, one angel enlightens the other to whom he turns, as was above explained [856](A[1]). But since this turning to another is voluntary, the highest angel can turn to the lowest passing over the others. Therefore he can enlighten him immediately; and thus the latter can enlighten his superiors.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says that "this is the Divine unalterable law, that inferior things are led to God by the superior" (Coel. Hier. iv; Eccl. Hier. v).
 
 I answer that, The inferior angels never enlighten the superior, but are always enlightened by them. The reason is, because, as above explained ([857]Q[105], A[6]), one order is under another, as cause is under cause; and hence as cause is ordered to cause, so is order to order. Therefore there is no incongruity if sometimes anything is done outside the order of the inferior cause, to be ordered to the superior cause, as in human affairs the command of the president is passed over from obedience to the prince. So it happens that God works miraculously outside the order of corporeal nature, that men may be ordered to the knowledge of Him. But the passing over of the order that belongs to spiritual substances in no way belongs to the ordering of men to God; since the angelic operations are not made known to us; as are the operations of sensible bodies. Thus the order which belongs to spiritual substances is never passed over by God; so that the inferiors are always moved by the superior, and not conversely.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The ecclesiastical hierarchy imitates the heavenly in some degree, but by a perfect likeness. For in the heavenly hierarchy the perfection of the order is in proportion to its nearness to God; so that those who are the nearer to God are the more sublime in grade, and more clear in knowledge; and on that account the superiors are never enlightened by the inferiors, whereas in the ecclesiastical hierarchy, sometimes those who are the nearer to God in sanctity, are in the lowest grade, and are not conspicuous for science; and some also are eminent in one kind of science, and fail in another; and on that account superiors may be taught by inferiors.
 
 Reply to Objection 2: As above explained, there is no similarity between what God does outside the order of corporeal nature, and that of spiritual nature. Hence the argument does not hold.
 
 Reply to Objection 3: An angel turns voluntarily to enlighten another angel, but the angel's will is ever regulated by the Divine law which made the order in the angels.
-# Whether The Superior Angel Enlightens The Inferior As Regards All He Himself Knows?
+## Whether The Superior Angel Enlightens The Inferior As Regards All He Himself Knows?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the superior angel does not enlighten the inferior concerning all he himself knows. For Dionysius says (Coel. Hier. xii) that the superior angels have a more universal knowledge; and the inferior a more particular and individual knowledge. But more is contained under a universal knowledge than under a particular knowledge. Therefore not all that the superior angels know, is known by the inferior, through these being enlightened by the former.
 
@@ -88,7 +88,7 @@ Objection 2: Further, the Master of the Sentences (ii, D, 11) says that the supe
 
 Objection 3: Further, if the superior angels enlighten the inferior about all they know, nothing that the superior angels know would be unknown to the inferior angels. Therefore the superior angels could communicate nothing more to the inferior; which appears open to objection. Therefore the superior angels enlighten the inferior in all things.
 
-## Answer
+### Answer
 
 On the contrary, Gregory [*Peter Lombard, Sent. ii, D, ix; Cf. Gregory, Hom. xxxiv, in Ev.] says: "In that heavenly country, though there are some excellent gifts, yet nothing is held individually." And Dionysius says: "Each heavenly essence communicates to the inferior the gift derived from the superior" (Coel. Hier. xv), as quoted above [858](A[1]).
 
@@ -96,7 +96,7 @@ I answer that, Every creature participates in the Divine goodness, so as to diff
 
 Nevertheless this gift is not received so excellently by the inferior as by the superior angels; and therefore the superior ever remain in a higher order, and have a more perfect knowledge; as the master understands the same thing better than the pupil who learns from him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The knowledge of the superior angels is said to be more universal as regards the more eminent mode of knowledge.
 

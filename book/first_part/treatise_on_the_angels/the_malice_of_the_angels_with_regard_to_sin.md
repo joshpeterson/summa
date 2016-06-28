@@ -10,9 +10,9 @@ In the next place we must consider how angels became evil: first of all with reg
 (7) Was the highest of them who fell, absolutely the highest among the angels?
 (8) Was the sin of the foremost angel the cause of the others sinning?
 (9) Did as many sin as remained steadfast?
-# Whether The Evil Of Fault Can Be In The Angels?
+## Whether The Evil Of Fault Can Be In The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there can be no evil of fault in the angels. For there can be no evil except in things which are in potentiality, as is said by the Philosopher (Metaph. ix, text. 19), because the subject of privation is a being in potentiality. But the angels have not being in potentiality, since they are subsisting forms. Therefore there can be no evil in them.
 
@@ -22,13 +22,13 @@ Objection 3: Further, what is natural to a thing is always in it. But it is natu
 
 Objection 4: Further, desire is only of what is good or apparently good. Now for the angels there can be no apparent good which is not a true good; because in them either there can be no error at all, or at least not before guilt. Therefore the angels can desire only what it truly good. But no one sins by desiring what is truly good. Consequently the angel does not sin by desire.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Job 4:18): "In His angels He found wickedness."
 
 I answer that, An angel or any other rational creature considered in his own nature, can sin; and to whatever creature it belongs not to sin, such creature has it as a gift of grace, and not from the condition of nature. The reason of this is, because sinning is nothing else than a deviation from that rectitude which an act ought to have; whether we speak of sin in nature, art, or morals. That act alone, the rule of which is the very virtue of the agent, can never fall short of rectitude. Were the craftsman's hand the rule itself engraving, he could not engrave the wood otherwise than rightly; but if the rightness of engraving be judged by another rule, then the engraving may be right or faulty. Now the Divine will is the sole rule of God's act, because it is not referred to any higher end. But every created will has rectitude of act so far only as it is regulated according to the Divine will, to which the last end is to be referred: as every desire of a subordinate ought to be regulated by the will of his superior; for instance, the soldier's will, according to the will of his commanding officer. Thus only in the Divine will can there be no sin; whereas there can be sin in the will of every creature; considering the condition of its nature.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the angels there is no potentiality to natural existence. Yet there is potentiality in their intellective part, as regards their being inclined to this or the other object. In this respect there can be evil in them.
 
@@ -37,9 +37,9 @@ Reply to Objection 2: The heavenly bodies have none but a natural operation. The
 Reply to Objection 3: It is natural for the angel to turn to God by the movement of love, according as God is the principle of his natural being. But for him to turn to God as the object of supernatural beatitude, comes of infused love, from which he could be turned away by sinning.
 
 Reply to Objection 4: Mortal sin occurs in two ways in the act of free-will. First, when something evil is chosen; as man sins by choosing adultery, which is evil of itself. Such sin always comes of ignorance or error; otherwise what is evil would never be chosen as good. The adulterer errs in the particular, choosing this delight of an inordinate act as something good to be performed now, from the inclination of passion or of habit; even though he does not err in his universal judgment, but retains a right opinion in this respect. In this way there can be no sin in the angel; because there are no passions in the angels to fetter reason or intellect, as is manifest from what has been said above ([554]Q[59], A[4]); nor, again, could any habit inclining to sin precede their first sin. In another way sin comes of free-will by choosing something good in itself, but not according to proper measure or rule; so that the defect which induces sin is only on the part of the choice which is not properly regulated, but not on the part of the thing chosen; as if one were to pray, without heeding the order established by the Church. Such a sin does not presuppose ignorance, but merely absence of consideration of the things which ought to be considered. In this way the angel sinned, by seeking his own good, from his own free-will, insubordinately to the rule of the Divine will.
-# Whether Only The Sin Of Pride And Envy Can Exist In An Angel?
+## Whether Only The Sin Of Pride And Envy Can Exist In An Angel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there can be other sins in the angels besides those of pride and envy. Because whosoever can delight in any kind of sin, can fall into the sin itself. But the demons delight even in the obscenities of carnal sins; as Augustine says (De Civ. Dei xiv, 3). Therefore there can also be carnal sins in the demons.
 
@@ -47,7 +47,7 @@ Objection 2: Further, as pride and envy are spiritual sins, so are sloth, avaric
 
 Objection 3: Further, according to Gregory (Moral. xxxi), many vices spring from pride; and in like manner from envy. But, if the cause is granted, the effect follows. If, therefore, there can be pride and envy in the angels, for the same reason there can likewise be other vices in them.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xiv, 3) that the devil "is not a fornicator nor a drunkard, nor anything of the like sort; yet he is proud and envious."
 
@@ -55,16 +55,16 @@ I answer that, Sin can exist in a subject in two ways: first of all by actual gu
 
 Yet, as a consequence, it was possible for envy also to be in them, since for the appetite to tend to the desire of something involves on its part resistance to anything contrary. Now the envious man repines over the good possessed by another, inasmuch as he deems his neighbor's good to be a hindrance to his own. But another's good could not be deemed a hindrance to the good coveted by the wicked angel, except inasmuch as he coveted a singular excellence, which would cease to be singular because of the excellence of some other. So, after the sin of pride, there followed the evil of envy in the sinning angel, whereby he grieved over man's good, and also over the Divine excellence, according as against the devil's will God makes use of man for the Divine glory.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The demons do not delight in the obscenities of the sins of the flesh, as if they themselves were disposed to carnal pleasures: it is wholly through envy that they take pleasure in all sorts of human sins, so far as these are hindrances to a man's good.
 
 Reply to Objection 2: Avarice, considered as a special kind of sin, is the immoderate greed of temporal possessions which serve the use of human life, and which can be estimated in value of money; to these demons are not at all inclined, any more than they are to carnal pleasures. Consequently avarice properly so called cannot be in them. But if every immoderate greed of possessing any created good be termed avarice, in this way avarice is contained under the pride which is in the demons. Anger implies passion, and so does concupiscence; consequently they can only exist metaphorically in the demons. Sloth is a kind of sadness, whereby a man becomes sluggish in spiritual exercises because they weary the body; which does not apply to the demons. So it is evident that pride and envy are the only spiritual sins which can be found in demons; yet so that envy is not to be taken for a passion, but for a will resisting the good of another.
 
 Reply to Objection 3: Under envy and pride, as found in the demons, are comprised all other sins derived from them.
-# Whether The Devil Desired To Be As God?
+## Whether The Devil Desired To Be As God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the devil did not desire to be as God. For what does not fall under apprehension, does not fall under desire; because the good which is apprehended moves the appetite, whether sensible, rational, or intellectual; and sin consists only in such desire. But for any creature to be God's equal does not fall under apprehension, because it implies a contradiction; for it the finite equals the infinite, then it would itself be infinite. Therefore an angel could not desire to be as God.
 
@@ -72,7 +72,7 @@ Objection 2: Further, the natural end can always be desired without sin. But to 
 
 Objection 3: Further, the angel was created with greater fulness of wisdom than man. But no man, save a fool, ever makes choice of being the equal of an angel, still less of God; because choice regards only things which are possible, regarding which one takes deliberation. Therefore much less did the angel sin by desiring to be as God.
 
-## Answer
+### Answer
 
 On the contrary, It is said, in the person of the devil (Is. 14:13,14), "I will ascend into heaven . . . I will be like the Most High." And Augustine (De Qu. Vet. Test. cxiii) says that being "inflated with pride, he wished to be called God."
 
@@ -83,9 +83,9 @@ To desire to be as God according to likeness can happen in two ways. In one way,
 Since, then, what exists of itself is the cause of what exists of another, it follows from this furthermore that he sought to have dominion over others; wherein he also perversely wished to be like unto God.
 
 From this we have the answer to all the objections.
-# Whether Any Demons Are Naturally Wicked?
+## Whether Any Demons Are Naturally Wicked?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that some demons are naturally wicked. For Porphyry says, as quoted by Augustine (De Civ. Dei x, 11): "There is a class of demons of crafty nature, pretending that they are gods and the souls of the dead." But to be deceitful is to be evil. Therefore some demons are naturally wicked.
 
@@ -93,22 +93,22 @@ Objection 2: Further, as the angels are created by God, so are men. But some men
 
 Objection 3: Further, some irrational animals have wicked dispositions by nature: thus the fox is naturally sly, and the wolf naturally rapacious; yet they are God's creatures. Therefore, although the demons are God's creatures, they may be naturally wicked.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. iv) that "the demons are not naturally wicked."
 
 I answer that, Everything which exists, so far as it exists and has a particular nature, tends naturally towards some good; since it comes from a good principle; because the effect always reverts to its principle. Now a particular good may happen to have some evil connected with it; thus fire has this evil connected with it that it consumes other things: but with the universal good no evil can be connected. If, then, there be anything whose nature is inclined towards some particular good, it can tend naturally to some evil; not as evil, but accidentally, as connected with some good. But if anything of its nature be inclined to good in general, then of its own nature it cannot be inclined to evil. Now it is manifest that every intellectual nature is inclined towards good in general, which it can apprehend and which is the object of the will. Hence, since the demons are intellectual substances, they can in no wise have a natural inclination towards any evil whatsoever; consequently they cannot be naturally evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine rebukes Porphyry for saying that the demons are naturally deceitful; himself maintaining that they are not naturally so, but of their own will. Now the reason why Porphyry held that they are naturally deceitful was that, as he contended, demons are animals with a sensitive nature. Now the sensitive nature is inclined towards some particular good, with which evil may be connected. In this way, then, it can have a natural inclination to evil; yet only accidentally, inasmuch as evil is connected with good.
 
 Reply to Objection 2: The malice of some men can be called natural, either because of custom which is a second nature; or on account of the natural proclivity on the part of the sensitive nature to some inordinate passion, as some people are said to be naturally wrathful or lustful; but not on the part of the intellectual nature.
 
 Reply to Objection 3: Brute beasts have a natural inclination in their sensitive nature towards certain particular goods, with which certain evils are connected; thus the fox in seeking its food has a natural inclination to do so with a certain skill coupled with deceit. Wherefore it is not evil in the fox to be sly, since it is natural to him; as it is not evil in the dog to be fierce, as Dionysius observes (De Div. Nom. iv).
-# Whether The Devil Was Wicked By The Fault Of His Own Will In The First Instant Of His Creation?
+## Whether The Devil Was Wicked By The Fault Of His Own Will In The First Instant Of His Creation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the devil was wicked by the fault of his own will in the first instant of his creation. For it is said of the devil (Jn. 8:44): "He was a murderer from the beginning."
 
@@ -118,7 +118,7 @@ Objection 3: Further, sin is opposed to merit. But some intellectual nature can 
 
 Objection 4: Further, the angelic nature is more powerful than the corporeal nature. But a corporeal thing begins to have its operation in the first instant of its creation; as fire begins to move upwards in the first instant it is produced. Therefore the angel could also have his operation in the first instant of his creation. Now this operation was either ordinate or inordinate. It ordinate, then, since he had grace, he thereby merited beatitude. But with the angels the reward follows immediately upon merit; as was said above ([555]Q[62], A[5]). Consequently they would have become blessed at once; and so would never have sinned, which is false. It remains, then, that they sinned by inordinate action in their first instant.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 1:31): "God saw all the things that He had made, and they were very good." But among them were also the demons. Therefore the demons were at some time good.
 
@@ -130,7 +130,7 @@ This argument, however, does not satisfy. For it holds good only in such movemen
 
 We must therefore reply that, on the contrary, it was impossible for the angel to sin in the first instant by an inordinate act of free-will. For although a thing can begin to act in the first instant of its existence, nevertheless, that operation which begins with the existence comes of the agent from which it drew its nature; just as upward movement in fire comes of its productive cause. Therefore, if there be anything which derives its nature from a defective cause, which can be the cause of a defective action, it can in the first instant of its existence have a defective operation; just as the leg, which is defective from birth, through a defect in the principle of generation, begins at once to limp. But the agent which brought the angels into existence, namely, God, cannot be the cause of sin. Consequently it cannot be said that the devil was wicked in the first instant of his creation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says (De Civ. Dei xi, 15), when it is stated that "the devil sins from the beginning," "he is not to be thought of as sinning from the beginning wherein he was created, but from the beginning of sin": that is to say, because he never went back from his sin.
 
@@ -139,9 +139,9 @@ Reply to Objection 2: That distinction of light and darkness, whereby the sins o
 Reply to Objection 3: All that is in merit is from God; and consequently an angel could merit in the first instant of his creation. The same reason does not hold good of sin; as has been said.
 
 Reply to Objection 4: God did not distinguish between the angels before the turning away of some of them, and the turning of others to Himself, as Augustine says (De Civ. Dei xi, 15). Therefore, as all were created in grace, all merited in their first instant. But some of them at once placed an impediment to their beatitude, thereby destroying their preceding merit; and consequently they were deprived of the beatitude which they had merited.
-# Whether There Was Any Interval Between The Creation And The Fall Of The Angel?
+## Whether There Was Any Interval Between The Creation And The Fall Of The Angel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there was some interval between the angel's creation and his fall. For, it is said (Ezech. 28:15): "Thou didst walk perfect [*Vulg.: 'Thou hast walked in the midst of the stones of fire; thou wast perfect . . .'] in thy ways from the day of thy creation until iniquity was found in thee." But since walking is continuous movement, it requires an interval. Therefore there was some interval between the devil's creation and his fall.
 
@@ -151,7 +151,7 @@ Objection 3: Further, capability of sinning is common alike to man and angel. Bu
 
 Objection 4: Further, the instant wherein the devil sinned was distinct from the instant wherein he was created. But there is a middle time between every two instants. Therefore there was an interval between his creation and his fall.
 
-## Answer
+### Answer
 
 On the contrary, It is said of the devil (Jn. 8:44): "He stood not in the truth": and, as Augustine says (De Civ. Dei xi, 15), "we must understand this in the sense, that he was in the truth, but did not remain in it."
 
@@ -159,7 +159,7 @@ I answer that, There is a twofold opinion on this point. But the more probable o
 
 If, however, it be contended that the angel was not created in grace, or that he could not elicit an act of free-will in the first instant, then there is nothing to prevent some interval being interposed between his creation and fall.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Sometimes in Holy Scripture spiritual instantaneous movements are represented by corporeal movements which are measured by time. In this way by "walking" we are to understand the movement of free-will tending towards good.
 
@@ -168,9 +168,9 @@ Reply to Objection 2: Origen says, "The serpent of old did not from the first wa
 Reply to Objection 3: An angel has an inflexible free-will after once choosing; consequently, if after the first instant, in which he had a natural movement to good, he had not at once placed a barrier to beatitude, he would have been confirmed in good. It is not so with man; and therefore the argument does not hold good.
 
 Reply to Objection 4: It is true to say that there is a middle time between every two instants, so far as time is continuous, as it is proved Phys. vi, text. 2. But in the angels, who are not subject to the heavenly movement, which is primarily measured by continuous time, time is taken to mean the succession of their mental acts, or of their affections. So the first instant in the angels is understood to respond to the operation of the angelic mind, whereby it introspects itself by its evening knowledge because on the first day evening is mentioned, but not morning. This operation was good in them all. From such operation some of them were converted to the praise of the Word by their morning knowledge while others, absorbed in themselves, became night, "swelling up with pride," as Augustine says (Gen. ad lit. iv, 24). Hence the first act was common to them all; but in their second they were separated. Consequently they were all of them good in the first instant; but in the second the good were set apart from the wicked.
-# Whether The Highest Angel Among Those Who Sinned Was The Highest Of All?
+## Whether The Highest Angel Among Those Who Sinned Was The Highest Of All?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the highest among the angels who sinned was not the highest of all. For it is stated (Ezech. 28:14): "Thou wast a cherub stretched out, and protecting, and I set thee in the holy mountain of God." Now the order of the Cherubim is under the order of the Seraphim, as Dionysius says (Coel. Hier. vi, vii). Therefore, the highest angel among those who sinned was not the highest of all.
 
@@ -178,7 +178,7 @@ Objection 2: Further, God made intellectual nature in order that it might attain
 
 Objection 3: Further, the more a subject is inclined towards anything, so much the less can it fall away from it. But the higher an angel is, so much the more is he inclined towards God. Therefore so much the less can he turn away from God by sinning. And so it seems that the angel who sinned was not the highest of all, but one of the lower angels.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Hom. xxxiv in Ev.) says that the chief angel who sinned, "being set over all the hosts of angels, surpassed them in brightness, and was by comparison the most illustrious among them."
 
@@ -186,16 +186,16 @@ I answer that, Two things have to be considered in sin, namely, the proneness to
 
 But if the motive for sinning be considered, we find that it existed in the higher angels more than in the lower. For, as has been said [559](A[2]), the demons' sin was pride; and the motive of pride is excellence, which was greater in the higher spirits. Hence Gregory says that he who sinned was the very highest of all. This seems to be the more probable view: because the angels' sin did not come of any proneness, but of free choice alone. Consequently that argument seems to have the more weight which is drawn from the motive in sinning. Yet this must not be prejudicial to the other view; because there might be some motive for sinning in him also who was the chief of the lower angels.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Cherubim is interpreted "fulness of knowledge," while "Seraphim" means "those who are on fire," or "who set on fire." Consequently Cherubim is derived from knowledge; which is compatible with mortal sin; but Seraphim is derived from the heat of charity, which is incompatible with mortal sin. Therefore the first angel who sinned is called, not a Seraph, but a Cherub.
 
 Reply to Objection 2: The Divine intention is not frustrated either in those who sin, or in those who are saved; for God knows beforehand the end of both; and He procures glory from both, saving these of His goodness, and punishing those of His justice. But the intellectual creature, when it sins, falls away from its due end. Nor is this unfitting in any exalted creature; because the intellectual creature was so made by God, that it lies within its own will to act for its end.
 
 Reply to Objection 3: However great was the inclination towards good in the highest angel, there was no necessity imposed upon him: consequently it was in his power not to follow it.
-# Whether The Sin Of The Highest Angel Was The Cause Of The Others Sinning?
+## Whether The Sin Of The Highest Angel Was The Cause Of The Others Sinning?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sin of the highest angel was not the cause of the others sinning. For the cause precedes the effect. But, as Damascene observes (De Fide Orth. ii), they all sinned at one time. Therefore the sin of one was not the cause of the others' sinning.
 
@@ -203,22 +203,22 @@ Objection 2: Further, an angel's first sin can only be pride, as was shown above
 
 Objection 3: Further, it is a greater sin to wish to be subject to another against God, than to wish to be over another against God; because there is less motive for sinning. If, therefore, the sin of the foremost angel was the cause of the others sinning, in that he induced them to subject themselves to him, then the lower angels would have sinned more deeply than the highest one; which is contrary to a gloss on Ps. 103:26: "This dragon which Thou hast formed---He who was the more excellent than the rest in nature, became the greater in malice." Therefore the sin of the highest angel was not the cause of the others sinning.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Apoc. 12:4) that the dragon "drew" with him "the third part of the stars of heaven."
 
 I answer that, The sin of the highest angel was the cause of the others sinning; not as compelling them, but as inducing them by a kind of exhortation. A token thereof appears in this, that all the demons are subjects of that highest one; as is evident from our Lord's words: "Go [Vulg. 'Depart from Me'], you cursed, into everlasting fire, which was prepared for the devil and his angels" (Mat. 25:41). For the order of Divine justice exacts that whosoever consents to another's evil suggestion, shall be subjected to him in his punishment; according to (2 Pet. 2:19): "By whom a man is overcome, of the same also he is the slave."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the demons all sinned in the one instant, yet the sin of one could be the cause of the rest sinning. For an angel needs no delay of time for choice, exhortation, or consent, as man, who requires deliberation in order to choose and consent, and vocal speech in order to exhort; both of which are the work of time. And it is evident that even man begins to speak in the very instant when he takes thought; and in the last instant of speech, another who catches his meaning can assent to what is said; as is especially evident with regard to primary concepts, "which everyone accepts directly they are heard" [*Boethius, De Hebdom.].
 
 Reply to Objection 2: Other things being equal, the proud would rather be subject to a superior than to an inferior. Yet he chooses rather to be subject to an inferior than to a superior, if he can procure an advantage under an inferior which he cannot under a superior. Consequently it was not against the demons' pride for them to wish to serve an inferior by yielding to his rule; for they wanted to have him as their prince and leader, so that they might attain their ultimate beatitude of their own natural powers; especially because in the order of nature they were even then subject to the highest angel.
 
 Reply to Objection 3: As was observed above ([561]Q[62], A[6]), an angel has nothing in him to retard his action, and with his whole might he is moved to whatsoever he is moved, be it good or bad. Consequently since the highest angel had greater natural energy than the lower angels, he fell into sin with intenser energy, and therefore he became the greater in malice.
-# Whether Those Who Sinned Were As Many As Those Who Remained Firm?
+## Whether Those Who Sinned Were As Many As Those Who Remained Firm?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that more angels sinned than stood firm. For, as the Philosopher says (Ethic. ii, 6): "Evil is in many, but good is in few."
 
@@ -226,13 +226,13 @@ Objection 2: Further, justice and sin are to be found in the same way in men and
 
 Objection 3: Further, the angels are distinguished according to persons and orders. Therefore if more angelic persons stood firm, it would appear that those who sinned were not from all the orders.
 
-## Answer
+### Answer
 
 On the contrary, It is said (4 Kings 6:16): "There are more with us than with them": which is expounded of the good angels who are with us to aid us, and the wicked spirits who are our foes.
 
 I answer that, More angels stood firm than sinned. Because sin is contrary to the natural inclination; while that which is against the natural order happens with less frequency; for nature procures its effects either always, or more often than not.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking with regard to men, in whom evil comes to pass from seeking after sensible pleasures, which are known to most men, and from forsaking the good dictated by reason, which good is known to the few. In the angels there is only an intellectual nature; hence the argument does not hold.
 

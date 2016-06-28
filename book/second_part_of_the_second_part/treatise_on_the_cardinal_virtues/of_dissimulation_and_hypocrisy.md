@@ -5,9 +5,9 @@ In due sequence we must consider dissimulation and hypocrisy. Under this head th
 (2) Whether hypocrisy is dissimulation?
 (3) Whether it is opposed to truth?
 (4) Whether it is a mortal sin?
-# Whether All Dissimulation Is A Sin?
+## Whether All Dissimulation Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that not all dissimulation is a sin. For it is written (Lk. 24:28) that our Lord "pretended [Douay: 'made as though'] he would go farther"; and Ambrose in his book on the Patriarchs (De Abraham i) says of Abraham that he "spoke craftily to his servants, when he said" (Gn. 22:5): "I and the boy will go with speed as far as yonder, and after we have worshipped, will return to you." Now to pretend and to speak craftily savor of dissimulation: and yet it is not to be said that there was sin in Christ or Abraham. Therefore not all dissimulation is a sin.
 
@@ -17,13 +17,13 @@ Objection 3: Further, good is contrary to evil. Therefore if it is evil to simul
 
 Objection 4: Further, it is written in condemnation of certain people (Is. 3:9): "They have proclaimed abroad their sin as Sodom, and they have not hid it." Now it pertains to dissimulation to hide one's sin. Therefore it is reprehensible sometimes not to simulate. But it is never reprehensible to avoid sin. Therefore dissimulation is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on Is. 16:14, "In three years," etc., says: "Of the two evils it is less to sin openly than to simulate holiness." But to sin openly is always a sin. Therefore dissimulation is always a sin.
 
 I answer that, As stated above ([3212]Q[109], A[3];[3213] Q[110], A[1]), it belongs to the virtue of truth to show oneself outwardly by outward signs to be such as one is. Now outward signs are not only words, but also deeds. Accordingly just as it is contrary to truth to signify by words something different from that which is in one's mind, so also is it contrary to truth to employ signs of deeds or things to signify the contrary of what is in oneself, and this is what is properly denoted by dissimulation. Consequently dissimulation is properly a lie told by the signs of outward deeds. Now it matters not whether one lie in word or in any other way, as stated above ([3214]Q[110], A[1], OBJ[2]). Wherefore, since every lie is a sin, as stated above ([3215]Q[110], A[3]), it follows that also all dissimulation is a sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says (De QQ. Evang. ii), "To pretend is not always a lie: but only when the pretense has no signification, then it is a lie. When, however, our pretense refers to some signification, there is no lie, but a representation of the truth." And he cites figures of speech as an example, where a thing is "pretended," for we do not mean it to be taken literally but as a figure of something else that we wish to say. In this way our Lord "pretended He would go farther," because He acted as if wishing to go farther; in order to signify something figuratively either because He was far from their faith, according to Gregory (Hom. xxiii in Ev.); or, as Augustine says (De QQ. Evang. ii), because, "as He was about to go farther away from them by ascending into heaven, He was, so to speak, held back on earth by their hospitality."
 
@@ -32,9 +32,9 @@ Reply to Objection 2: Jerome employs the term "simulation" in a broad sense for 
 Reply to Objection 3: Some say that no one may pretend to be wicked, because no one pretends to be wicked by doing good deeds, and if he do evil deeds, he is evil. But this argument proves nothing. Because a man might pretend to be evil, by doing what is not evil in itself but has some appearance of evil: and nevertheless this dissimulation is evil, both because it is a lie, and because it gives scandal; and although he is wicked on this account, yet his wickedness is not the wickedness he simulates. And because dissimulation is evil in itself, its sinfulness is not derived from the thing simulated, whether this be good or evil.
 
 Reply to Objection 4: Just as a man lies when he signifies by word that which he is not, yet lies not when he refrains from saying what he is, for this is sometimes lawful; so also does a man dissemble, when by outward signs of deeds or things he signifies that which he is not, yet he dissembles not if he omits to signify what he is. Hence one may hide one's sin without being guilty of dissimulation. It is thus that we must understand the saying of Jerome on the words of Isa. 3:9, that the "second remedy after shipwreck is to hide one's sin," lest, to wit, others be scandalized thereby.
-# Whether Hypocrisy Is The Same As Dissimulation?
+## Whether Hypocrisy Is The Same As Dissimulation?
 
-## Objections
+### Objections
 
 Objection 1: It seems that hypocrisy is not the same as dissimulation. For dissimulation consists in lying by deeds. But there may be hypocrisy in showing outwardly what one does inwardly, according to Mat. 6:2, "When thou dost an alms-deed sound not a trumpet before thee, as the hypocrites do." Therefore hypocrisy is not the same as dissimulation.
 
@@ -42,7 +42,7 @@ Objection 2: Further, Gregory says (Moral. xxxi, 7): "Some there are who wear th
 
 Objection 3: Further, hypocrisy consists in the mere intention. For our Lord says of hypocrites (Mat. 23:5) that "all their works they do for to be seen of men": and Gregory says (Moral. xxxi, 7) that "they never consider what it is that they do, but how by their every action they may please men." But dissimulation consists, not in the mere intention, but in the outward action: wherefore a gloss on Job 36:13, "Dissemblers and crafty men prove the wrath of God," says that "the dissembler simulates one thing and does another: he pretends chastity, and delights in lewdness, he makes a show of poverty and fills his purse." Therefore hypocrisy is not the same as dissimulation.
 
-## Answer
+### Answer
 
 On the contrary, Isidore says (Etym. x): "'Hypocrite' is a Greek word corresponding to the Latin 'simulator,' for whereas he is evil within," he "shows himself outwardly as being good; {hypo} denoting falsehood, and {krisis}, judgment."
 
@@ -50,16 +50,16 @@ I answer that, As Isidore says (Etym. x), "the word hypocrite is derived from th
 
 We must conclude, therefore, that hypocrisy is dissimulation, not, however, any form of dissimulation, but only when one person simulates another, as when a sinner simulates the person of a just man.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The outward deed is a natural sign of the intention. Accordingly when a man does good works pertaining by their genus to the service of God, and seeks by their means to please, not God but man, he simulates a right intention which he has not. Wherefore Gregory says (Moral.) that "hypocrites make God's interests subservient to worldly purposes, since by making a show of saintly conduct they seek, not to turn men to God, but to draw to themselves the applause of their approval:" and so they make a lying pretense of having a good intention, which they have not, although they do not pretend to do a good deed without doing it.
 
 Reply to Objection 2: The habit of holiness, for instance the religious or the clerical habit, signifies a state whereby one is bound to perform works of perfection. And so when a man puts on the habit of holiness, with the intention of entering the state of perfection, if he fail through weakness, he is not a dissembler or a hypocrite, because he is not bound to disclose his sin by laying aside the habit of holiness. If, however, he were to put on the habit of holiness in order to make a show of righteousness, he would be a hypocrite and a dissembler.
 
 Reply to Objection 3: In dissimulation, as in a lie, there are two things: one by way of sign, the other by way of thing signified. Accordingly the evil intention in hypocrisy is considered as a thing signified, which does not tally with the sign: and the outward words, or deeds, or any sensible objects are considered in every dissimulation and lie as a sign.
-# Whether Hypocrisy Is Contrary To The Virtue Of Truth?
+## Whether Hypocrisy Is Contrary To The Virtue Of Truth?
 
-## Objections
+### Objections
 
 Objection 1: It seems that hypocrisy is not contrary to the virtue of truth. For in dissimulation or hypocrisy there is a sign and a thing signified. Now with regard to neither of these does it seem to be opposed to any special virtue: for a hypocrite simulates any virtue, and by means of any virtuous deeds, such as fasting, prayer and alms deeds, as stated in Mat. 6:1-18. Therefore hypocrisy is not specially opposed to the virtue of truth.
 
@@ -67,7 +67,7 @@ Objection 2: Further, all dissimulation seems to proceed from guile, wherefore i
 
 Objection 3: Further, the species of moral acts is taken from their end. Now the end of hypocrisy is the acquisition of gain or vainglory: wherefore a gloss on Job 27:8, "What is the hope of the hypocrite, if through covetousness he take by violence," says: "A hypocrite or, as the Latin has it, a dissimulator, is a covetous thief: for through desire of being honored for holiness, though guilty of wickedness, he steals praise for a life which is not his." [*The quotation is from St. Gregory's Moralia, Bk XVIII.] Therefore since covetousness or vainglory is not directly opposed to truth, it seems that neither is hypocrisy or dissimulation.
 
-## Answer
+### Answer
 
 On the contrary, All dissimulation is a lie, as stated above [3217](A[1]). Now a lie is directly opposed to truth. Therefore dissimulation or hypocrisy is also.
 
@@ -75,16 +75,16 @@ I answer that, According to the Philosopher (Metaph. text. 13, 24, x), "contrari
 
 The indirect opposition or contrariety of hypocrisy may be considered in relation to any accident, for instance a remote end, or an instrument of action, or anything else of that kind.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The hypocrite in simulating a virtue regards it as his end, not in respect of its existence, as though he wished to have it, but in respect of appearance, since he wishes to seem to have it. Hence his hypocrisy is not opposed to that virtue, but to truth, inasmuch as he wishes to deceive men with regard to that virtue. And he performs acts of that virtue, not as intending them for their own sake, but instrumentally, as signs of that virtue, wherefore his hypocrisy has not, on that account, a direct opposition to that virtue.
 
 Reply to Objection 2: As stated above ([3218]Q[55], AA[3],4,5), the vice directly opposed to prudence is cunning, to which it belongs to discover ways of achieving a purpose, that are apparent and not real: while it accomplishes that purpose, by guile in words, and by fraud in deeds: and it stands in relation to prudence, as guile and fraud to simplicity. Now guile and fraud are directed chiefly to deception, and sometimes secondarily to injury. Wherefore it belongs directly to simplicity to guard oneself from deception, and in this way the virtue of simplicity is the same as the virtue of truth as stated above ([3219]Q[109], A[2], ad 4). There is, however, a mere logical difference between them, because by truth we mean the concordance between sign and thing signified, while simplicity indicates that one does not tend to different things, by intending one thing inwardly, and pretending another outwardly.
 
 Reply to Objection 3: Gain or glory is the remote end of the dissembler as also of the liar. Hence it does not take its species from this end, but from the proximate end, which is to show oneself other than one is. Wherefore it sometimes happens to a man to pretend great things of himself, for no further purpose than the mere lust of hypocrisy, as the Philosopher says (Ethic. iv, 7), and as also we have said above with regard to lying ([3220]Q[110], A[2]).
-# Whether Hypocrisy Is Always A Mortal Sin?
+## Whether Hypocrisy Is Always A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that hypocrisy is always a mortal sin. For Jerome says on Is. 16:14: "Of the two evils it is less to sin openly than to simulate holiness": and a gloss on Job 1:21 [*St. Augustine on Ps. 63:7], "As it hath pleased the Lord," etc., says that "pretended justice is no justice, but a twofold sin": and again a gloss on Lam. 4:6, "The iniquity . . . of my people is made greater than the sin of Sodom," says: "He deplores the sins of the soul that falls into hypocrisy, which is a greater iniquity than the sin of Sodom." Now the sins of Sodom are mortal sin. Therefore hypocrisy is always a mortal sin.
 
@@ -92,7 +92,7 @@ Objection 2: Further, Gregory says (Moral. xxxi, 8) that hypocrites sin out of m
 
 Objection 3: Further, no one deserves the anger of God and exclusion from seeing God, save on account of mortal sin. Now the anger of God is deserved through hypocrisy according to Job 36:13, "Dissemblers and crafty men prove the wrath of God": and the hypocrite is excluded from seeing God, according to Job 13:16, "No hypocrite shall come before His presence." Therefore hypocrisy is always a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, Hypocrisy is lying by deed since it is a kind of dissimulation. But it is not always a mortal sin to lie by deed. Neither therefore is all hypocrisy a mortal sin.
 

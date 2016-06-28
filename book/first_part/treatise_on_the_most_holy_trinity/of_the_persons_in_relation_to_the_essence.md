@@ -9,9 +9,9 @@ Those things considered which belong to the divine persons absolutely, we next t
 (6) Whether the names of the persons can be predicated of concrete essential names?
 (7) Whether essential attributes can be appropriated to the persons?
 (8) Which attributes should be appropriated to each person?
-# Whether In God The Essence Is The Same As The Person?
+## Whether In God The Essence Is The Same As The Person?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in God the essence is not the same as person. For whenever essence is the same as person or "suppositum," there can be only one "suppositum" of one nature, as is clear in the case of all separate substances. For in those things which are really one and the same, one cannot be multiplied apart from the other. But in God there is one essence and three persons, as is clear from what is above expounded ([310]Q[28], A[3]; [311]Q[30], A[2]). Therefore essence is not the same as person.
 
@@ -19,22 +19,22 @@ Objection 2: Further, simultaneous affirmation and negation of the same things i
 
 Objection 3: Further, nothing can be subject to itself. But person is subject to essence; whence it is called "suppositum" or "hypostasis." Therefore person is not the same as essence.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. vi, 7): "When we say the person of the Father we mean nothing else but the substance of the Father."
 
 I answer that, The truth of this question is quite clear if we consider the divine simplicity. For it was shown above ([312]Q[3], A[3]) that the divine simplicity requires that in God essence is the same as "suppositum," which in intellectual substances is nothing else than person. But a difficulty seems to arise from the fact that while the divine persons are multiplied, the essence nevertheless retains its unity. And because, as Boethius says (De Trin. i), "relation multiplies the Trinity of persons," some have thought that in God essence and person differ, forasmuch as they held the relations to be "adjacent"; considering only in the relations the idea of "reference to another," and not the relations as realities. But as it was shown above ([313]Q[28], A[2]) in creatures relations are accidental, whereas in God they are the divine essence itself. Thence it follows that in God essence is not really distinct from person; and yet that the persons are really distinguished from each other. For person, as above stated ([314]Q[29], A[4]), signifies relation as subsisting in the divine nature. But relation as referred to the essence does not differ therefrom really, but only in our way of thinking; while as referred to an opposite relation, it has a real distinction by virtue of that opposition. Thus there are one essence and three persons.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There cannot be a distinction of "suppositum" in creatures by means of relations, but only by essential principles; because in creatures relations are not subsistent. But in God relations are subsistent, and so by reason of the opposition between them they distinguish the "supposita"; and yet the essence is not distinguished, because the relations themselves are not distinguished from each other so far as they are identified with the essence.
 
 Reply to Objection 2: As essence and person in God differ in our way of thinking, it follows that something can be denied of the one and affirmed of the other; and therefore, when we suppose the one, we need not suppose the other.
 
 Reply to Objection 3: Divine things are named by us after the way of created things, as above explained ([315]Q[13], AA[1],3). And since created natures are individualized by matter which is the subject of the specific nature, it follows that individuals are called "subjects," "supposita," or "hypostases." So the divine persons are named "supposita" or "hypostases," but not as if there really existed any real "supposition" or "subjection."
-# Whether It Must Be Said That The Three Persons Are Of One Essence?
+## Whether It Must Be Said That The Three Persons Are Of One Essence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem not right to say that the three persons are of one essence. For Hilary says (De Synod.) that the Father, Son and Holy Ghost "are indeed three by substance, but one in harmony." But the substance of God is His essence. Therefore the three persons are not of one essence.
 
@@ -48,13 +48,13 @@ Objection 5: Further, Augustine says (De Trin. vii, 6) that we do not say that t
 
 Objection 6: Further, nothing should be said of God which can be occasion of error. Now, to say that the three persons are of one essence or substance, furnishes occasion of error. For, as Hilary says (De Synod.): "One substance predicated of the Father and the Son signifies either one subsistent, with two denominations; or one substance divided into two imperfect substances; or a third prior substance taken and assumed by the other two." Therefore it must not be said that the three persons are of one substance.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Contra Maxim. iii) that the word {homoousion}, which the Council of Nicaea adopted against the Arians, means that the three persons are of one essence.
 
 I answer that, As above explained ([316]Q[13], AA[1],2), divine things are named by our intellect, not as they really are in themselves, for in that way it knows them not; but in a way that belongs to things created. And as in the objects of the senses, whence the intellect derives its knowledge, the nature of the species is made individual by the matter, and thus the nature is as the form, and the individual is the "suppositum" of the form; so also in God the essence is taken as the form of the three persons, according to our mode of signification. Now in creatures we say that every form belongs to that whereof it is the form; as the health and beauty of a man belongs to the man. But we do not say of that which has a form, that it belongs to the form, unless some adjective qualifies the form; as when we say: "That woman is of a handsome figure," or: "This man is of perfect virtue." In like manner, as in God the persons are multiplied, and the essence is not multiplied, we speak of one essence of the three persons, and three persons of the one essence, provided that these genitives be understood as designating the form.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Substance is here taken for the "hypostasis," and not for the essence.
 
@@ -67,9 +67,9 @@ Reply to Objection 4: Form, in the absolute sense, is wont to be designated as b
 Reply to Objection 5: The preposition "from" or "out of" does not designate the habitude of a formal cause, but rather the habitude of an efficient or material cause; which causes are in all cases distinguished from those things of which they are the causes. For nothing can be its own matter, nor its own active principle. Yet a thing may be its own form, as appears in all immaterial things. So, when we say, "three persons of one essence," taking essence as having the habitude of form, we do not mean that essence is different from person, which we should mean if we said, "three persons from the same essence."
 
 Reply to Objection 6: As Hilary says (De Synod.): "It would be prejudicial to holy things, if we had to do away with them, just because some do not think them holy. So if some misunderstand {homoousion}, what is that to me, if I understand it rightly? . . . The oneness of nature does not result from division, or from union or from community of possession, but from one nature being proper to both Father and Son."
-# Whether Essential Names Should Be Predicated In The Singular Of The Three Persons?
+## Whether Essential Names Should Be Predicated In The Singular Of The Three Persons?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that essential names, as the name "God," should not be predicated in the singular of the three persons, but in the plural. For as "man" signifies "one that has humanity," so God signifies "one that has Godhead." But the three persons are three who have Godhead. Therefore the three persons are "three Gods."
 
@@ -79,13 +79,13 @@ Objection 3: Further, this word "thing" when it is said absolutely, seems to bel
 
 Objection 4: Further, as this word "God" signifies "a being who has Deity," so also this word "person" signifies a being subsisting in an intellectual nature. But we say there are three persons. So for the same reason we can say there are "three Gods."
 
-## Answer
+### Answer
 
 On the contrary, It is said (Dt. 6:4): "Hear, O Israel, the Lord thy God is one God."
 
 I answer that, Some essential names signify the essence after the manner of substantives; while others signify it after the manner of adjectives. Those which signify it as substantives are predicated of the three persons in the singular only, and not in the plural. Those which signify the essence as adjectives are predicated of the three persons in the plural. The reason of this is that substantives signify something by way of substance, while adjectives signify something by way of accident, which adheres to a subject. Now just as substance has existence of itself, so also it has of itself unity or multitude; wherefore the singularity or plurality of a substantive name depends upon the form signified by the name. But as accidents have their existence in a subject, so they have unity or plurality from their subject; and therefore the singularity and plurality of adjectives depends upon their "supposita." In creatures, one form does not exist in several "supposita" except by unity of order, as the form of an ordered multitude. So if the names signifying such a form are substantives, they are predicated of many in the singular, but otherwise if they adjectives. For we say that many men are a college, or an army, or a people; but we say that many men are collegians. Now in God the divine essence is signified by way of a form, as above explained [317](A[2]), which, indeed, is simple and supremely one, as shown above ([318]Q[3], A[7]; [319]Q[11], A[4]). So, names which signify the divine essence in a substantive manner are predicated of the three persons in the singular, and not in the plural. This, then, is the reason why we say that Socrates, Plato and Cicero are "three men"; whereas we do not say the Father, Son and Holy Ghost are "three Gods," but "one God"; forasmuch as in the three "supposita" of human nature there are three humanities, whereas in the three divine Persons there is but one divine essence. On the other hand, the names which signify essence in an adjectival manner are predicated of the three persons plurally, by reason of the plurality of "supposita." For we say there are three "existent" or three "wise" beings, or three "eternal," "uncreated," and "immense" beings, if these terms are understood in an adjectival sense. But if taken in a substantive sense, we say "one uncreated, immense, eternal being," as Athanasius declares.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Though the name "God" signifies a being having Godhead, nevertheless the mode of signification is different. For the name "God" is used substantively; whereas "having Godhead" is used adjectively. Consequently, although there are "three having Godhead," it does not follow that there are three Gods.
 
@@ -94,9 +94,9 @@ Reply to Objection 2: Various languages have diverse modes of expression. So as 
 Reply to Objection 3: This word "thing" is one of the transcendentals. Whence, so far as it is referred to relation, it is predicated of God in the plural; whereas, so far as it is referred to the substance, it is predicated in the singular. So Augustine says, in the passage quoted, that "the same Trinity is a thing supreme."
 
 Reply to Objection 4: The form signified by the word "person" is not essence or nature, but personality. So, as there are three personalities---that is, three personal properties in the Father, Son and Holy Ghost---it is predicated of the three, not in the singular, but in the plural.
-# Whether The Concrete Essential Names Can Stand For The Person?
+## Whether The Concrete Essential Names Can Stand For The Person?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the concrete, essential names cannot stand for the person, so that we can truly say "God begot God." For, as the logicians say, "a singular term signifies what it stands for." But this name "God" seems to be a singular term, for it cannot be predicated in the plural, as above explained [320](A[3]). Therefore, since it signifies the essence, it stands for essence, and not for person.
 
@@ -108,13 +108,13 @@ Objection 4: Further, if "God begot God," He begot either God, that is Himself, 
 
 Objection 5: Further, if "God begot God," He begot either God who is the Father, or God who is not the Father. If God who is the Father, then God the Father was begotten. If God who is not the Father, then there is a God who is not God the Father: which is false. Therefore it cannot be said that "God begot God."
 
-## Answer
+### Answer
 
 On the contrary, In the Creed it is said, "God of God."
 
 I answer that, Some have said that this name "God" and the like, properly according to their nature, stand for the essence, but by reason of some notional adjunct are made to stand for the Person. This opinion apparently arose from considering the divine simplicity, which requires that in God, He "who possesses" and "what is possessed" be the same. So He who possesses Godhead, which is signified by the name God, is the same as Godhead. But when we consider the proper way of expressing ourselves, the mode of signification must be considered no less than the thing signified. Hence as this word "God" signifies the divine essence as in Him Who possesses it, just as the name "man" signifies humanity in a subject, others more truly have said that this word "God," from its mode of signification, can, in its proper sense, stand for person, as does the word "man." So this word "God" sometimes stands for the essence, as when we say "God creates"; because this predicate is attributed to the subject by reason of the form signified---that is, Godhead. But sometimes it stands for the person, either for only one, as when we say, "God begets," or for two, as when we say, "God spirates"; or for three, as when it is said: "To the King of ages, immortal, invisible, the only God," etc. (1 Tim. 1:17).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although this name "God" agrees with singular terms as regards the form signified not being multiplied; nevertheless it agrees also with general terms so far as the form signified is to be found in several "supposita." So it need not always stand for the essence it signifies.
 
@@ -125,9 +125,9 @@ Reply to Objection 3: The word "God" stands for the person in a different way fr
 Reply to Objection 4: This is false, "the Father begot God, that is Himself," because the word "Himself," as a reciprocal term, refers to the same "suppositum." Nor is this contrary to what Augustine says (Ep. lxvi ad Maxim.) that "God the Father begot another self [alterum se]," forasmuch as the word "se" is either in the ablative case, and then it means "He begot another from Himself," or it indicates a single relation, and thus points to identity of nature. This is, however, either a figurative or an emphatic way of speaking, so that it would really mean, "He begot another most like to Himself." Likewise also it is false to say, "He begot another God," because although the Son is another than the Father, as above explained ([322]Q[31], A[2]), nevertheless it cannot be said that He is "another God"; forasmuch as this adjective "another" would be understood to apply to the substantive God; and thus the meaning would be that there is a distinction of Godhead. Yet this proposition "He begot another God" is tolerated by some, provided that "another" be taken as a substantive, and the word "God" be construed in apposition with it. This, however, is an inexact way of speaking, and to be avoided, for fear of giving occasion to error.
 
 Reply to Objection 5: To say, "God begot God Who is God the Father," is wrong, because since the word "Father" is construed in apposition to "God," the word "God" is restricted to the person of the Father; so that it would mean, "He begot God, Who is Himself the Father"; and then the Father would be spoken of as begotten, which is false. Wherefore the negative of the proposition is true, "He begot God Who is not God the Father." If however, we understand these words not to be in apposition, and require something to be added, then, on the contrary, the affirmative proposition is true, and the negative is false; so that the meaning would be, "He begot God Who is God Who is the Father." Such a rendering however appears to be forced, so that it is better to say simply that the affirmative proposition is false, and the negative is true. Yet Prepositivus said that both the negative and affirmative are false, because this relative "Who" in the affirmative proposition can be referred to the "suppositum"; whereas in the negative it denotes both the thing signified and the "suppositum." Whence, in the affirmative the sense is that "to be God the Father" is befitting to the person of the Son; and in the negative sense is that "to be God the Father," is to be removed from the Son's divinity as well as from His personality. This, however, appears to be irrational; since, according to the Philosopher (Peri Herm. ii), what is open to affirmation, is open also to negation.
-# Whether Abstract Essential Names Can Stand For The Person?
+## Whether Abstract Essential Names Can Stand For The Person?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that abstract essential names can stand for the person, so that this proposition is true, "Essence begets essence." For Augustine says (De Trin. vii, i, 2): "The Father and the Son are one Wisdom, because they are one essence; and taken singly Wisdom is from Wisdom, as essence from essence."
 
@@ -141,13 +141,13 @@ Objection 5: Further, the essence is "a thing begetting," because the essence is
 
 Objection 6: Further, Augustine says (De Trin. iv, 20): "The Father is the principle of the whole Godhead." But He is principle only by begetting or spirating. Therefore the Father begets or spirates the Godhead.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. i, 1): "Nothing begets itself." But if the essence begets the essence, it begets itself only, since nothing exists in God as distinguished from the divine essence. Therefore the essence does not beget essence.
 
 I answer that, Concerning this, the abbot Joachim erred in asserting that as we can say "God begot God," so we can say "Essence begot essence": considering that, by reason of the divine simplicity God is nothing else but the divine essence. In this he was wrong, because if we wish to express ourselves correctly, we must take into account not only the thing which is signified, but also the mode of its signification as above stated [324](A[4]). Now although "God" is really the same as "Godhead," nevertheless the mode of signification is not in each case the same. For since this word "God" signifies the divine essence in Him that possesses it, from its mode of signification it can of its own nature stand for person. Thus the things which properly belong to the persons, can be predicated of this word, "God," as, for instance, we can say "God is begotten" or is "Begetter," as above explained [325](A[4]). The word "essence," however, in its mode of signification, cannot stand for Person, because it signifies the essence as an abstract form. Consequently, what properly belongs to the persons whereby they are distinguished from each other, cannot be attributed to the essence. For that would imply distinction in the divine essence, in the same way as there exists distinction in the "supposita."
 
-## Replies
+### Replies
 
 Reply to Objection 1: To express unity of essence and of person, the holy Doctors have sometimes expressed themselves with greater emphasis than the strict propriety of terms allows. Whence instead of enlarging upon such expressions we should rather explain them: thus, for instance, abstract names should be explained by concrete names, or even by personal names; as when we find "essence from essence"; or "wisdom from wisdom"; we should take the sense to be, "the Son" who is essence and wisdom, is from the Father who is essence and wisdom. Nevertheless, as regards these abstract names a certain order should be observed, forasmuch as what belongs to action is more nearly allied to the persons because actions belong to "supposita." So "nature from nature," and "wisdom from wisdom" are less inexact than "essence from essence."
 
@@ -160,28 +160,28 @@ Reply to Objection 4: The divine essence is predicated of the Father by mode of 
 Reply to Objection 5: The difference between substantive and adjectival names consist in this, that the former carry their subject with them, whereas the latter do not, but add the thing signified to the substantive. Whence logicians are wont to say that the substantive is considered in the light of "suppositum," whereas the adjective indicates something added to the "suppositum." Therefore substantive personal terms can be predicated of the essence, because they are really the same; nor does it follow that a personal property makes a distinct essence; but it belongs to the "suppositum" implied in the substantive. But notional and personal adjectives cannot be predicated of the essence unless we add some substantive. We cannot say that the "essence is begetting"; yet we can say that the "essence is a thing begetting," or that it is "God begetting," if "thing" and God stand for person, but not if they stand for essence. Consequently there exists no contradiction in saying that "essence is a thing begetting," and "a thing not begetting"; because in the first case "thing" stands for person, and in the second it stands for the essence.
 
 Reply to Objection 6: So far as Godhead is one in several "supposita," it agrees in a certain degree with the form of a collective term. So when we say, "the Father is the principle of the whole Godhead," the term Godhead can be taken for all the persons together, inasmuch as it is the principle in all the divine persons. Nor does it follow that He is His own principle; as one of the people may be called the ruler of the people without being ruler of himself. We may also say that He is the principle of the whole Godhead; not as generating or spirating it, but as communicating it by generation and spiration.
-# Whether The Persons Can Be Predicated Of The Essential Terms?
+## Whether The Persons Can Be Predicated Of The Essential Terms?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the persons cannot be predicated of the concrete essential names; so that we can say for instance, "God is three persons"; or "God is the Trinity." For it is false to say, "man is every man," because it cannot be verified as regards any particular subject. For neither Socrates, nor Plato, nor anyone else is every man. In the same way this proposition, "God is the Trinity," cannot be verified of any one of the "supposita" of the divine nature. For the Father is not the Trinity; nor is the Son; nor is the Holy Ghost. So to say, "God is the Trinity," is false.
 
 Objection 2: Further, the lower is not predicated of the higher except by accidental predication; as when I say, "animal is man"; for it is accidental to animal to be man. But this name "God" as regards the three persons is as a general term to inferior terms, as Damascene says (De Fide Orth. iii, 4). Therefore it seems that the names of the persons cannot be predicated of this name "God," except in an accidental sense.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says, in his sermon on Faith [*Serm. ii, in coena Domini], "We believe that one God is one divinely named Trinity."
 
 I answer that, As above explained [326](A[5]), although adjectival terms, whether personal or notional, cannot be predicated of the essence, nevertheless substantive terms can be so predicated, owing to the real identity of essence and person. The divine essence is not only really the same as one person, but it is really the same as the three persons. Whence, one person, and two, and three, can be predicated of the essence as if we were to say, "The essence is the Father, and the Son, and the Holy Ghost." And because this word "God" can of itself stand for the essence, as above explained (A[4], ad 3), hence, as it is true to say, "The essence is the three persons"; so likewise it is true to say, "God is the three persons."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As above explained this term "man" can of itself stand for person, whereas an adjunct is required for it to stand for the universal human nature. So it is false to say, "Man is every man"; because it cannot be verified of any particular human subject. On the contrary, this word "God" can of itself be taken for the divine essence. So, although to say of any of the "supposita" of the divine nature, "God is the Trinity," is untrue, nevertheless it is true of the divine essence. This was denied by Porretanus because he did not take note of this distinction.
 
 Reply to Objection 2: When we say, "God," or "the divine essence is the Father," the predication is one of identity, and not of the lower in regard to a higher species: because in God there is no universal and singular. Hence, as this proposition, "The Father is God" is of itself true, so this proposition "God is the Father" is true of itself, and by no means accidentally.
-# Whether The Essential Names Should Be Appropriated To The Persons?
+## Whether The Essential Names Should Be Appropriated To The Persons?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the essential names should not be appropriated to the persons. For whatever might verge on error in faith should be avoided in the treatment of divine things; for, as Jerome says, "careless words involve risk of heresy" [*In substance Ep. lvii.]. But to appropriate to any one person the names which are common to the three persons, may verge on error in faith; for it may be supposed either that such belong only to the person to whom they are appropriated or that they belong to Him in a fuller degree than to the others. Therefore the essential attributes should not be appropriated to the persons.
 
@@ -189,7 +189,7 @@ Objection 2: Further, the essential attributes expressed in the abstract signify
 
 Objection 3: Further, property is prior to the appropriated, for property is included in the idea of the appropriated. But the essential attributes, in our way of understanding, are prior to the persons; as what is common is prior to what is proper. Therefore the essential attributes are not to be appropriated to the persons.
 
-## Answer
+### Answer
 
 On the contrary, the Apostle says: "Christ the power of God and the wisdom of God" (1 Cor. 1:24).
 
@@ -197,16 +197,16 @@ I answer that, For the manifestation of our faith it is fitting that the essenti
 
 The divine person can be manifested in a twofold manner by the essential attributes; in one way by similitude, and thus the things which belong to the intellect are appropriated to the Son, Who proceeds by way of intellect, as Word. In another way by dissimilitude; as power is appropriated to the Father, as Augustine says, because fathers by reason of old age are sometimes feeble; lest anything of the kind be imagined of God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The essential attributes are not appropriated to the persons as if they exclusively belonged to them; but in order to make the persons manifest by way of similitude, or dissimilitude, as above explained. So, no error in faith can arise, but rather manifestation of the truth.
 
 Reply to Objection 2: If the essential attributes were appropriated to the persons as exclusively belonging to each of them, then it would follow that one person would be as a form as regards another; which Augustine altogether repudiates (De Trin. vi, 2), showing that the Father is wise, not by Wisdom begotten by Him, as though only the Son were Wisdom; so that the Father and the Son together only can be called wise, but not the Father without the Son. But the Son is called the Wisdom of the Father, because He is Wisdom from the Father Who is Wisdom. For each of them is of Himself Wisdom; and both together are one Wisdom. Whence the Father is not wise by the wisdom begotten by Him, but by the wisdom which is His own essence.
 
 Reply to Objection 3: Although the essential attribute is in its proper concept prior to person, according to our way of understanding; nevertheless, so far as it is appropriated, there is nothing to prevent the personal property from being prior to that which is appropriated. Thus color is posterior to body considered as body, but is naturally prior to "white body," considered as white.
-# Whether The Essential Attributes Are Appropriated To The Persons In A Fitting Manner By The Holy Doctors?
+## Whether The Essential Attributes Are Appropriated To The Persons In A Fitting Manner By The Holy Doctors?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the essential attributes are appropriated to the persons unfittingly by the holy doctors. For Hilary says (De Trin. ii): "Eternity is in the Father, the species in the Image; and use is in the Gift." In which words he designates three names proper to the persons: the name of the "Father," the name "Image" proper to the Son ([329]Q[35], A[2]), and the name "Bounty" or "Gift," which is proper to the Holy Ghost ([330]Q[38], A[2]). He also designates three appropriated terms. For he appropriates "eternity" to the Father, "species" to the Son, and "use" to the Holy Ghost. This he does apparently without reason. For "eternity" imports duration of existence; "species," the principle of existence; and 'use' belongs to the operation. But essence and operation are not found to be appropriated to any person. Therefore the above terms are not fittingly appropriated to the persons.
 
@@ -218,7 +218,7 @@ Objection 4: Likewise Augustine says (De Trin. vi, 10): "What the Apostle says, 
 
 Objection 5: Likewise, Truth is appropriated to the Son, according to Jn. 14:6, "I am the Way, the Truth, and the Life"; and likewise "the book of life," according to Ps. 39:9, "In the beginning of the book it is written of Me," where a gloss observes, "that is, with the Father Who is My head," also this word "Who is"; because on the text of Is. 65:1, "Behold I go to the Gentiles," a gloss adds, "The Son speaks Who said to Moses, I am Who am." These appear to belong to the Son, and are not appropriated. For "truth," according to Augustine (De Vera Relig. 36), "is the supreme similitude of the principle without any dissimilitude." So it seems that it properly belongs to the Son, Who has a principle. Also the "book of life" seems proper to the Son, as signifying "a thing from another"; for every book is written by someone. This also, "Who is," appears to be proper to the Son; because if when it was said to Moses, "I am Who am," the Trinity spoke, then Moses could have said, "He Who is Father, Son, and Holy Ghost, and the Holy Ghost sent me to you," so also he could have said further, "He Who is the Father, and the Son, and the Holy Ghost sent me to you," pointing out a certain person. This, however, is false; because no person is Father, Son and Holy Ghost. Therefore it cannot be common to the Trinity, but is proper to the Son.
 
-## Answer
+### Answer
 
 
 

@@ -5,9 +5,9 @@ We must now consider the causes of sin, in particular, and (1) The internal caus
 (2) Whether ignorance is a sin?
 (3) Whether it excuses from sin altogether?
 (4) Whether it diminishes sin?
-# Whether Ignorance Can Be A Cause Of Sin?
+## Whether Ignorance Can Be A Cause Of Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that ignorance cannot be a cause of sin: because a non-being is not the cause of anything. Now ignorance is a non-being, since it is a privation of knowledge. Therefore ignorance is not a cause of sin.
 
@@ -15,7 +15,7 @@ Objection 2: Further, causes of sin should be reckoned in respect of sin being a
 
 Objection 3: Further, every sin is seated in the will. Now the will does not turn to that which is not known, because its object is the good apprehended. Therefore ignorance cannot be a cause of sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Nat. et Grat. lxvii) "that some sin through ignorance."
 
@@ -23,16 +23,16 @@ I answer that, According to the Philosopher (Phys. viii, 27) a moving cause is t
 
 Now we must observe that the reason directs human acts in accordance with a twofold knowledge, universal and particular: because in conferring about what is to be done, it employs a syllogism, the conclusion of which is an act of judgment, or of choice, or an operation. Now actions are about singulars: wherefore the conclusion of a practical syllogism is a singular proposition. But a singular proposition does not follow from a universal proposition, except through the medium of a particular proposition: thus a man is restrained from an act of parricide, by the knowledge that it is wrong to kill one's father, and that this man is his father. Hence ignorance about either of these two propositions, viz. of the universal principle which is a rule of reason, or of the particular circumstance, could cause an act of parricide. Hence it is clear that not every kind of ignorance is the cause of a sin, but that alone which removes the knowledge which would prevent the sinful act. Consequently if a man's will be so disposed that he would not be restrained from the act of parricide, even though he recognized his father, his ignorance about his father is not the cause of his committing the sin, but is concomitant with the sin: wherefore such a man sins, not "through ignorance" but "in ignorance," as the Philosopher states (Ethic. iii, 1).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Non-being cannot be the direct cause of anything: but it can be an accidental cause, as being the removal of an impediment.
 
 Reply to Objection 2: As knowledge, which is removed by ignorance, regards sin as turning towards something, so too, ignorance of this respect of a sin is the cause of that sin, as removing its impediment.
 
 Reply to Objection 3: The will cannot turn to that which is absolutely unknown: but if something be known in one respect, and unknown in another, the will can will it. It is thus that ignorance is the cause of sin: for instance, when a man knows that what he is killing is a man, but not that it is his own father; or when one knows that a certain act is pleasurable, but not that it is a sin.
-# Whether Ignorance Is A Sin?
+## Whether Ignorance Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that ignorance is not a sin. For sin is "a word, deed or desire contrary to God's law," as stated above ([1767]Q[71], A[5]). Now ignorance does not denote an act, either internal or external. Therefore ignorance is not a sin.
 
@@ -44,13 +44,13 @@ Objection 4: Further, every sin is taken away by repentance, nor does any sin, e
 
 Objection 5: Further, if ignorance be a sin, then a man will be sinning, as long as he remains in ignorance. But ignorance is continual in the one who is ignorant. Therefore a person in ignorance would be continually sinning, which is clearly false, else ignorance would be a most grievous sin. Therefore ignorance is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, Nothing but sin deserves punishment. But ignorance deserves punishment, according to 1 Cor. 14:38: "If any man know not, he shall not be known." Therefore ignorance is a sin.
 
 I answer that, Ignorance differs from nescience, in that nescience denotes mere absence of knowledge; wherefore whoever lacks knowledge about anything, can be said to be nescient about it: in which sense Dionysius puts nescience in the angels (Coel. Hier. vii). On the other hand, ignorance denotes privation of knowledge, i.e. lack of knowledge of those things that one has a natural aptitude to know. Some of these we are under an obligation to know, those, to wit, without the knowledge of which we are unable to accomplish a due act rightly. Wherefore all are bound in common to know the articles of faith, and the universal principles of right, and each individual is bound to know matters regarding his duty or state. Meanwhile there are other things which a man may have a natural aptitude to know, yet he is not bound to know them, such as the geometrical theorems, and contingent particulars, except in some individual case. Now it is evident that whoever neglects to have or do what he ought to have or do, commits a sin of omission. Wherefore through negligence, ignorance of what one is bound to know, is a sin; whereas it is not imputed as a sin to man, if he fails to know what he is unable to know. Consequently ignorance of such like things is called "invincible," because it cannot be overcome by study. For this reason such like ignorance, not being voluntary, since it is not in our power to be rid of it, is not a sin: wherefore it is evident that no invincible ignorance is a sin. On the other hand, vincible ignorance is a sin, if it be about matters one is bound to know; but not, if it be about things one is not bound to know.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([1768]Q[71], A[6], ad 1), when we say that sin is a "word, deed or desire," we include the opposite negations, by reason of which omissions have the character of sin; so that negligence, in as much as ignorance is a sin, is comprised in the above definition of sin; in so far as one omits to say what one ought, or to do what one ought, or to desire what one ought, in order to acquire the knowledge which we ought to have.
 
@@ -61,9 +61,9 @@ Reply to Objection 3: Just as in a sin of transgression, the sin consists not on
 Reply to Objection 4: Although when the guilt has passed away through repentance, the ignorance remains, according as it is a privation of knowledge, nevertheless the negligence does not remain, by reason of which the ignorance is said to be a sin.
 
 Reply to Objection 5: Just as in other sins of omission, man sins actually only at the time at which the affirmative precept is binding, so is it with the sin of ignorance. For the ignorant man sins actually indeed, not continually, but only at the time for acquiring the knowledge that he ought to have.
-# Whether Ignorance Excuses From Sin Altogether?
+## Whether Ignorance Excuses From Sin Altogether?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that ignorance excuses from sin altogether. For as Augustine says (Retract. i, 9), every sin is voluntary. Now ignorance causes involuntariness, as stated above ([1769]Q[6], A[8]). Therefore ignorance excuses from sin altogether.
 
@@ -71,7 +71,7 @@ Objection 2: Further, that which is done beside the intention, is done accidenta
 
 Objection 3: Further, man is the subject of virtue and sin, inasmuch as he is partaker of reason. Now ignorance excludes knowledge which perfects the reason. Therefore ignorance excuses from sin altogether.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Lib. Arb. iii, 18) that "some things done through ignorance are rightly reproved." Now those things alone are rightly reproved which are sins. Therefore some things done through ignorance are sins. Therefore ignorance does not altogether excuse from sin.
 
@@ -79,16 +79,16 @@ I answer that, Ignorance, by its very nature, renders the act which it causes in
 
 On the other hand, ignorance which is the cause of the act, since it makes it to be involuntary, of its very nature excuses from sin, because voluntariness is essential to sin. But it may fail to excuse altogether from sin, and this for two reasons. First, on the part of the thing itself which is not known. For ignorance excuses from sin, in so far as something is not known to be a sin. Now it may happen that a person ignores some circumstance of a sin, the knowledge of which circumstance would prevent him from sinning, whether it belong to the substance of the sin, or not; and nevertheless his knowledge is sufficient for him to be aware that the act is sinful; for instance, if a man strike someone, knowing that it is a man (which suffices for it to be sinful) and yet be ignorant of the fact that it is his father, (which is a circumstance constituting another species of sin); or, suppose that he is unaware that this man will defend himself and strike him back, and that if he had known this, he would not have struck him (which does not affect the sinfulness of the act). Wherefore, though this man sins through ignorance, yet he is not altogether excused, because, not withstanding, he has knowledge of the sin. Secondly, this may happen on the part of the ignorance itself, because, to wit, this ignorance is voluntary, either directly, as when a man wishes of set purpose to be ignorant of certain things that he may sin the more freely; or indirectly, as when a man, through stress of work or other occupations, neglects to acquire the knowledge which would restrain him from sin. For such like negligence renders the ignorance itself voluntary and sinful, provided it be about matters one is bound and able to know. Consequently this ignorance does not altogether excuse from sin. If, however, the ignorance be such as to be entirely involuntary, either through being invincible, or through being of matters one is not bound to know, then such like ignorance excuses from sin altogether.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not every ignorance causes involuntariness, as stated above ([1771]Q[6], A[8]). Hence not every ignorance excuses from sin altogether.
 
 Reply to Objection 2: So far as voluntariness remains in the ignorant person, the intention of sin remains in him: so that, in this respect, his sin is not accidental.
 
 Reply to Objection 3: If the ignorance be such as to exclude the use of reason entirely, it excuses from sin altogether, as is the case with madmen and imbeciles: but such is not always the ignorance that causes the sin; and so it does not always excuse from sin altogether.
-# Whether Ignorance Diminishes A Sin?
+## Whether Ignorance Diminishes A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that ignorance does not diminish a sin. For that which is common to all sins does not diminish sin. Now ignorance is common to all sins, for the Philosopher says (Ethic. iii, 1) that "every evil man is ignorant." Therefore ignorance does not diminish sin.
 
@@ -98,7 +98,7 @@ Objection 3: Further, the same thing does not both aggravate and diminish sin. N
 
 Objection 4: Further, if any kind of ignorance diminishes a sin, this would seem to be chiefly the case as regards the ignorance which removes the use of reason altogether. Now this kind of ignorance does not diminish sin, but increases it: for the Philosopher says (Ethic. iii, 5) that the "punishment is doubled for a drunken man." Therefore ignorance does not diminish sin.
 
-## Answer
+### Answer
 
 On the contrary, Whatever is a reason for sin to be forgiven, diminishes sin. Now such is ignorance, as is clear from 1 Tim. 1:13: "I obtained . . . mercy . . . because I did it ignorantly." Therefore ignorance diminishes or alleviates sin.
 
@@ -106,7 +106,7 @@ I answer that, Since every sin is voluntary, ignorance can diminish sin, in so f
 
 Therefore sin cannot be alleviated by any ignorance, but only by such as is a cause of the sin being committed, and yet does not excuse from the sin altogether. Now it happens sometimes that such like ignorance is directly and essentially voluntary, as when a man is purposely ignorant that he may sin more freely, and ignorance of this kind seems rather to make the act more voluntary and more sinful, since it is through the will's intention to sin that he is willing to bear the hurt of ignorance, for the sake of freedom in sinning. Sometimes, however, the ignorance which is the cause of a sin being committed, is not directly voluntary, but indirectly or accidentally, as when a man is unwilling to work hard at his studies, the result being that he is ignorant, or as when a man willfully drinks too much wine, the result being that he becomes drunk and indiscreet, and this ignorance diminishes voluntariness and consequently alleviates the sin. For when a thing is not known to be a sin, the will cannot be said to consent to the sin directly, but only accidentally; wherefore, in that case there is less contempt, and therefore less sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The ignorance whereby "every evil man is ignorant," is not the cause of sin being committed, but something resulting from that cause, viz. of the passion or habit inclining to sin.
 

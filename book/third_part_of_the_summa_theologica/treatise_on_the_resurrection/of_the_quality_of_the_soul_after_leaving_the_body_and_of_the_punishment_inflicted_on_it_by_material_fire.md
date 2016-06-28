@@ -4,9 +4,9 @@ We must next consider the general quality of the soul after leaving the body, an
 (1) Whether the sensitive powers remain in the separated soul?
 (2) Whether the acts of the aforesaid powers remain in the soul?
 (3) Whether the separated soul can suffer from a material fire?
-# Whether The Sensitive Powers Remain In The Separated Soul?
+## Whether The Sensitive Powers Remain In The Separated Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sensitive powers remain in the sensitive soul. For Augustine says (De Spir. et Anim. xv): "The soul withdraws from the body taking all with itself, sense and imagination, reason, understanding and intelligence, the concupiscible and irascible powers." Now sense, imagination, concupiscible and irascible are sensitive powers. Therefore the sensitive powers remain in the separated soul.
 
@@ -22,7 +22,7 @@ Objection 6: Further, if the soul after separation from the body loses its sensi
 
 Objection 7: Further, if the sensitive powers were to be corrupted when the body is corrupted, it would follow that they are weakened when the body is weakened. Yet this is not the case, for according to De Anima i, "if an old man were given the eye of a young man, he would, without doubt, see as well as a young man." Therefore neither are the sensitive powers corrupted when the body is corrupted.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Eccl. Dogm. xix): "Of two substances alone does man consist, soul and body: the soul with its reason, and the body with its senses." Therefore the sensitive powers belong to the body: and consequently when the body is corrupted the sensitive powers remain not in the soul.
 
@@ -30,7 +30,7 @@ I answer that, There are many opinions on this question. For some, holding the v
 
 Hence others say that the sensitive and other like powers do not remain in the separated soul except in a restricted sense, namely radically, in the same way as a result is in its principle: because there remains in the separated soul the ability to produce these powers if it should be reunited to the body; nor is it necessary for this ability to be anything in addition to the essence of the soul, as stated above. This opinion appears to be the more reasonable.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This saying of Augustine is to be understood as meaning that the soul takes away with it some of those powers actually, namely understanding and intelligence, and some radically, as stated above [*Cf. [5031]FP, Q[77], A[8], ad 1 and infra A[2], ad 1].
 
@@ -45,9 +45,9 @@ Reply to Objection 5: The body co-operates in merit, as an essential part of the
 Reply to Objection 6: The powers of the sensitive soul are said to be acts of the organs, not as though they were the essential forms of those organs, except in reference to the soul whose powers they are. But they are the acts of the organs, by perfecting them for their proper operations, as heat is the act of fire by perfecting it for the purpose of heating. Wherefore, just as a fire would remain identically the same, although another individual heat were in it (even so the cold of water that has been heated returns not identically the same, although the water remains the same in identity), so the organs will be the same identically, although the powers be not identically the same.
 
 Reply to Objection 7: The Philosopher is speaking there of these powers as being rooted in the soul. This is clear from his saying that "old age is an affection not of the soul, but of that in which the soul is," namely the body. For in this way the powers of the soul are neither weakened nor corrupted on account of the body.
-# Whether The Acts Of The Sensitive Powers Remain In The Separated Soul?
+## Whether The Acts Of The Sensitive Powers Remain In The Separated Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the acts of the sensitive powers remain in the separated soul. For Augustine says (De Spiritu et Anima xv): "When the soul leaves the body it derives pleasure or sorrow through being affected with these" (namely the imagination, and the concupiscible and irascible faculties) "according to its merits." But the imagination, the concupiscible, and the irascible are sensitive powers. Therefore the separated soul will be affected as regards the sensitive powers, and consequently will be in some act by reason of them.
 
@@ -59,13 +59,13 @@ Objection 4: Further, the memory is a power of the sensitive part, as proved in 
 
 Objection 5: Further, according to the Philosopher (De Anima iii, 9) the irascible and concupiscible are in the sensitive part. But joy and sorrow, love and hatred, fear and hope, and similar emotions which according to our faith we hold to be in separated souls, are in the irascible and concupiscible. Therefore separated souls will not be deprived of the acts of the sensitive powers.
 
-## Answer
+### Answer
 
 On the contrary, That which is common to soul and body cannot remain in the separated soul. Now all the operations of the sensitive powers are common to the soul and body: and this is evident from the fact that no sensitive power exercises an act except through a bodily organ. Therefore the separated soul will be deprived of the acts of the sensitive powers.
 
 I answer that, Some distinguish two kinds of acts in the sensitive powers: external acts which the soul exercises through the body. and these do not remain in the separated soul; and internal acts which the soul performs by itself; and these will be in the separated soul. This statement would seem to have originated from the opinion of Plato, who held that the soul is united to the body, as a perfect substance nowise dependant on the body, and merely as a mover is united to the thing moved. This is an evident consequence of transmigration which he held. And since according to him nothing is in motion except what is moved, and lest he should go on indefinitely, he said that the first mover moves itself, and he maintained that the soul is the cause of its own movement. Accordingly there would be a twofold movement of the soul, one by which it moves itself, and another whereby the body is moved by the soul: so that this act "to see" is first of all in the soul itself as moving itself, and secondly in the bodily organ in so far as the soul moves the body. This opinion is refuted by the Philosopher (De Anima i, 3) who proves that the soul does not move itself, and that it is nowise moved in respect of such operations as seeing, feeling, and the like, but that such operations are movements of the composite only. We must therefore conclude that the acts of the sensitive powers nowise remain in the separated soul, except perhaps as in their remote origin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some deny that this book is Augustine's: for it is ascribed to a Cistercian who compiled it from Augustine's works and added things of his own. Hence we are not to take what is written there, as having authority. If, however, its authority should be maintained, it must be said that the meaning is that the separated soul is affected with imagination and other like powers, not as though such affection were the act of the aforesaid powers, but in the sense that the soul will be affected in the future life for good or ill, according to the things which it committed in the body through the imagination and other like powers: so that the imagination and such like powers are not supposed to elicit that affection, but to have elicited in the body the merit of that affection.
 
@@ -76,9 +76,9 @@ Reply to Objection 3: Augustine speaks there as nearly throughout that book, as 
 Reply to Objection 4: As stated in the first book (Sent. i, D, 3, qu. 4), memory has a twofold signification. Sometimes it means a power of the sensitive part, in so far as its gaze extends over past time; and in this way the act of the memory will not be in the separated soul. Wherefore the Philosopher says (De Anima i, 4) that "when this," the body to wit, "is corrupted, the soul remembers not." In another way memory is used to designate that part of the imagination which pertains to the intellective faculty, in so far namely as it abstracts from all differences of time, since it regards not only the past but also the present, and the future as Augustine says (De Trin. xiv, 11). Taking memory in this sense the separated soul will remember [*Cf. [5032]FP, Q[77], A[8]; [5033]FP, Q[89], A[6]].
 
 Reply to Objection 5: Love, joy, sorrow, and the like, have a twofold signification. Sometimes they denote passions of the sensitive appetite, and thus they will not be in the separated soul, because in this way they are not exercised without a definite movement of the heart. In another way they denote acts of the will which is in the intellective part: and in this way they will be in the separated soul, even as delight will be there without bodily movement, even as it is in God, namely in so far as it is a simple movement of the will. In this sense the Philosopher says (Ethic. vii, 14) that "God's joy is one simple delight."
-# Whether The Separated Soul Can Suffer From A Bodily Fire?
+## Whether The Separated Soul Can Suffer From A Bodily Fire?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the separated soul cannot suffer from a bodily fire. For Augustine says (Gen. ad lit. xii): "The things that affect the soul well or ill after its separation from the body, are not corporeal but resemble corporeal things." Therefore the separated soul is not punished with a bodily fire.
 
@@ -96,7 +96,7 @@ Objection 7: Further, every bodily agent acts by contact. But a corporeal fire c
 
 Objection 8: Further, an organic agent does not act on a remote object, except through acting on the intermediate objects; wherefore it is able to act at a fixed distance in proportion to its power. But souls, or at least the demons to whom this equally applies, are sometimes outside the place of hell, since sometimes they appear to men even in this world: and yet they are not then free from punishment, for just as the glory of the saints is never interrupted, so neither is the punishment of the damned. And yet we do not find that all the intermediate things suffer from the fire of hell: nor again is it credible that any corporeal thing of an elemental nature has such a power that its action can reach to such a distance. Therefore it does not seem that the pains suffered by the souls of the damned are inflicted by a corporeal fire.
 
-## Answer
+### Answer
 
 On the contrary, The possibility of suffering from a corporeal fire is equally consistent with separated souls and with demons. Now demons suffer therefrom since they are punished by that fire into which the bodies of the damned will be cast after the resurrection, and which must needs be as corporeal fire. This is evident from the words of our Lord (Mat. 25:41), "Depart from Me, you cursed, into everlasting fire, which was prepared for the devil," etc. Therefore separated souls also can suffer from that fire.
 
@@ -116,7 +116,7 @@ This way is asserted by Gregory (Dial. iv, 29). For in explaining how the soul c
 
 Accordingly we must unite all the aforesaid modes together, in order to understand perfectly how the soul suffers from a corporeal fire: so as to say that the fire of its nature is able to have an incorporeal spirit united to it as a thing placed is united to a place; that as the instrument of Divine justice it is enabled to detain it enchained as it were, and in this respect this fire is really hurtful to the spirit, and thus the soul seeing the fire as something hurtful to it is tormented by the fire. Hence Gregory (Dial. iv, 29) mentions all these in order, as may be seen from the above quotations.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine speaks there as one inquiring: wherefore he expresses himself otherwise when deciding the point, as quoted above (De Civ. Dei xxi). Or we may reply that Augustine means to say that the things which are the proximate occasion of the soul's pain or sorrow are spiritual, since it would not be distressed unless it apprehended the fire as hurtful to it: wherefore the fire as apprehended is the proximate cause of its distress, whereas the corporeal fire which exists outside the soul is the remote cause of its distress.
 

@@ -5,9 +5,9 @@ We next consider falsity. About this four points of inquiry arise:
 (2) Whether it exists in the sense?
 (3) Whether it exists in the intellect?
 (4) Concerning the opposition of the true and the false.
-# Whether Falsity Exists In Things?
+## Whether Falsity Exists In Things?
 
-## Objections
+### Objections
 
 Objection 1: It appears that falsity does not exist in things. For Augustine says (Soliloq. ii, 8), "If the true is that which is, it will be concluded that the false exists nowhere; whatever reason may appear to the contrary."
 
@@ -15,7 +15,7 @@ Objection 2: Further, false is derived from "fallere" [to deceive]. But things d
 
 Objection 3: Further, the true is said to exist in things by conformity to the divine intellect, as stated above [118](Q[16]). But everything, in so far as it exists, imitates God. Therefore everything is true without admixture of falsity; and thus nothing is false.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Vera Relig. 34): "Every body is a true body and a false unity: for it imitates unity without being unity." But everything imitates the divine unity yet falls short of it. Therefore in all things falsity exists.
 
@@ -25,16 +25,16 @@ In things that depend on God, falseness cannot be found, in so far as they are c
 
 But in relation to our intellect, natural things which are compared thereto accidentally, can be called false; not simply, but relatively; and that in two ways. In one way according to the thing signified, and thus a thing is said to be false as being signified or represented by word or thought that is false. In this respect anything can be said to be false as regards any quality not possessed by it; as if we should say that a diameter is a false commensurable thing, as the Philosopher says (Metaph. v, 34). So, too, Augustine says (Soliloq. ii, 10): "The true tragedian is a false Hector": even as, on the contrary, anything can be called true, in regard to that which is becoming to it. In another way a thing can be called false, by way of cause---and thus a thing is said to be false that naturally begets a false opinion. And whereas it is innate in us to judge things by external appearances, since our knowledge takes its rise from sense, which principally and naturally deals with external accidents, therefore those external accidents, which resemble things other than themselves, are said to be false with respect to those things; thus gall is falsely honey; and tin, false gold. Regarding this, Augustine says (Soliloq. ii, 6): "We call those things false that appear to our apprehension like the true:" and the Philosopher says (Metaph. v, 34): "Things are called false that are naturally apt to appear such as they are not, or what they are not." In this way a man is called false as delighting in false opinions or words, and not because he can invent them; for in this way many wise and learned persons might be called false, as stated in Metaph. v, 34.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A thing compared with the intellect is said to be true in respect to what it is; and false in respect to what it is not. Hence, "The true tragedian is a false Hector," as stated in Soliloq. ii, 6. As, therefore, in things that are is found a certain non-being, so in things that are is found a degree of falseness.
 
 Reply to Objection 2: Things do not deceive by their own nature, but by accident. For they give occasion to falsity, by the likeness they bear to things which they actually are not.
 
 Reply to Objection 3: Things are said to be false, not as compared with the divine intellect, in which case they would be false simply, but as compared with our intellect; and thus they are false only relatively.
-# Whether There Is Falsity In The Senses?
+## Whether There Is Falsity In The Senses?
 
-## Objections
+### Objections
 
 Objection 1: It seems that falsity is not in the senses. For Augustine says (De Vera Relig. 33): "If all the bodily senses report as they are affected, I do not know what more we can require from them." Thus it seems that we are not deceived by the senses; and therefore that falsity is not in them.
 
@@ -42,7 +42,7 @@ Objection 2: Further, the Philosopher says (Metaph. iv, 24) that falsity is not 
 
 Objection 3: Further, in non-complex things there is neither true nor false, but in complex things only. But affirmation and negation do not belong to the senses. Therefore in the senses there is no falsity.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Soliloq. ii, 6), "It appears that the senses entrap us into error by their deceptive similitudes."
 
@@ -52,22 +52,22 @@ The knowledge of things by the senses is in proportion to the existence of their
 
 Sense, then, has no false knowledge about its proper objects, except accidentally and rarely, and then, because of the unsound organ it does not receive the sensible form rightly; just as other passive subjects because of their indisposition receive defectively the impressions of the agent. Hence, for instance, it happens that on account of an unhealthy tongue sweet seems bitter to a sick person. But as to common objects of sense, and accidental objects, even a rightly disposed sense may have a false judgment, because it is referred to them not directly, but accidentally, or as a consequence of being directed to other things.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The affection of sense is its sensation itself. Hence, from the fact that sense reports as it is affected, it follows that we are not deceived in the judgment by which we judge that we experience sensation. Since, however, sense is sometimes affected erroneously of that object, it follows that it sometimes reports erroneously of that object; and thus we are deceived by sense about the object, but not about the fact of sensation.
 
 Reply to Objection 2: Falsity is said not to be proper to sense, since sense is not deceived as to its proper object. Hence in another translation it is said more plainly, "Sense, about its proper object, is never false." Falsity is attributed to the imagination, as it represents the likeness of something even in its absence. Hence, when anyone perceives the likeness of a thing as if it were the thing itself, falsity results from such an apprehension; and for this reason the Philosopher says (Metaph. v, 34) that shadows, pictures, and dreams are said to be false inasmuch as they convey the likeness of things that are not present in substance.
 
 Reply to Objection 3: This argument proves that the false is not in the sense, as in that which knows the true and the false.
-# Whether Falsity Is In The Intellect?
+## Whether Falsity Is In The Intellect?
 
-## Objections
+### Objections
 
 Objection 1: It seems that falsity is not in the intellect. For Augustine says (Qq. lxxxiii, 32), "Everyone who is deceived, understands not that in which he is deceived." But falsity is said to exist in any knowledge in so far as we are deceived therein. Therefore falsity does not exist in the intellect.
 
 Objection 2: Further, the Philosopher says (De Anima iii, 51) that the intellect is always right. Therefore there is no falsity in the intellect.
 
-## Answer
+### Answer
 
 On the contrary, It is said in De Anima iii, 21,[22] that "where there is composition of objects understood, there is truth and falsehood." But such composition is in the intellect. Therefore truth and falsehood exist in the intellect.
 
@@ -75,14 +75,14 @@ I answer that, Just as a thing has being by its proper form, so the knowing facu
 
 But because falsity of the intellect is concerned essentially only with the composition of the intellect, falsity occurs also accidentally in that operation of the intellect whereby it knows the essence of a thing, in so far as composition of the intellect is mixed up in it. This can take place in two ways. In one way, by the intellect applying to one thing the definition proper to another; as that of a circle to a man. Wherefore the definition of one thing is false of another. In another way, by composing a definition of parts which are mutually exclusive. For thus the definition is not only false of the thing, but false in itself. A definition such as " a reasonable four-footed animal" would be of this kind, and the intellect false in making it; for such a statement as "some reasonable animals are four-footed" is false in itself. For this reason the intellect cannot be false in its knowledge of simple essences; but it is either true, or it understands nothing at all.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Because the essence of a thing is the proper object of the intellect, we are properly said to understand a thing when we reduce it to its essence, and judge of it thereby; as takes place in demonstrations, in which there is no falsity. In this sense Augustine's words must be understood, "that he who is deceived, understands not that wherein he is deceived;" and not in the sense that no one is ever deceived in any operation of the intellect.
 
 Reply to Objection 2: The intellect is always right as regards first principles; since it is not deceived about them for the same reason that it is not deceived about what a thing is. For self-known principles are such as are known as soon as the terms are understood, from the fact that the predicate is contained in the definition of the subject.
-# Whether True And False Are Contraries?
+## Whether True And False Are Contraries?
 
-## Objections
+### Objections
 
 Objection 1: It seems that true and false are not contraries. For true and false are opposed, as that which is to that which is not; for "truth," as Augustine says (Soliloq. ii, 5), "is that which is." But that which is and that which is not are not opposed as contraries. Therefore true and false are not contrary things.
 
@@ -90,13 +90,13 @@ Objection 2: Further, one of two contraries is not in the other. But falsity is 
 
 Objection 3: Further, in God there is no contrariety, for "nothing is contrary to the Divine Substance," as Augustine says (De Civ. Dei xii, 2). But falsity is opposed to God, for an idol is called in Scripture a lie, "They have laid hold on lying" (Jer. 8:5), that is to say, "an idol," as a gloss says. Therefore false and true are not contraries.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Peri Herm. ii), that a false opinion is contrary to a true one.
 
 I answer that, True and false are opposed as contraries, and not, as some have said, as affirmation and negation. In proof of which it must be considered that negation neither asserts anything nor determines any subject, and can therefore be said of being as of not-being, for instance not-seeing or not-sitting. But privation asserts nothing, whereas it determines its subject, for it is "negation in a subject," as stated in Metaph. iv, 4: v. 27; for blindness is not said except of one whose nature it is to see. Contraries, however, both assert something and determine the subject, for blackness is a species of color. Falsity asserts something, for a thing is false, as the Philosopher says (Metaph. iv, 27), inasmuch as something is said or seems to be something that it is not, or not to be what it really is. For as truth implies an adequate apprehension of a thing, so falsity implies the contrary. Hence it is clear that true and false are contraries.
 
-## Replies
+### Replies
 
 Reply to Objection 1: What is in things is the truth of the thing; but what is apprehended, is the truth of the intellect, wherein truth primarily resides. Hence the false is that which is not as apprehended. To apprehend being, and not-being, implies contrariety; for, as the Philosopher proves (Peri Herm. ii), the contrary of this statement "God is good," is, "God is not good."
 

@@ -6,9 +6,9 @@ We must next consider me effect of this sacrament. Under this head there are fiv
 (3) Whether the character of Order presupposes of necessity the character of Baptism?
 (4) Whether it presupposes of necessity the character of Confirmation?
 (5) Whether the character of one Order presupposes of necessity the character of another Order?
-# Whether Sanctifying Grace Is Conferred In The Sacrament Of Order?
+## Whether Sanctifying Grace Is Conferred In The Sacrament Of Order?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sanctifying grace is not conferred in the sacrament of Order. For it is commonly agreed that the sacrament of Order is directed to counteract the defect of ignorance. Now not sanctifying grace but gratuitous grace is given to counteract ignorance, for sanctifying grace has more to do with the will. Therefore sanctifying grace is not given in the sacrament of Order.
 
@@ -16,22 +16,22 @@ Objection 2: Further, Order implies distinction. Now the members of the Church a
 
 Objection 3: Further, no cause presupposes its effect. But grace is presupposed in one who receives orders, so that he may be worthy to receive them. Therefore this same grace is not given in the conferring of Orders.
 
-## Answer
+### Answer
 
 On the contrary, The sacraments of the New Law cause what they signify. Now Order by its sevenfold number signifies the seven gifts of the Holy Ghost, as stated in the text (Sent. iv, D, 24). Therefore the gifts of the Holy Ghost, which are not apart from sanctifying grace, are given in Orders.
 
 
 
-## Replies
+### Replies
 
 Reply to Objection 1: Order is given as a remedy, not to one person but to the whole Church. Hence, although it is said to be given in order to counteract ignorance, it does not mean that by receiving Orders a man has his ignorance driven out of him, but that the recipient of Orders is set in authority to expel ignorance from among the people.
 
 Reply to Objection 2: Although the gifts of sanctifying grace are common to all the members of the Church, nevertheless a man cannot be the worthy recipient of those gifts, in respect of which the members of the Church are distinguished from one another, unless he have charity, and this cannot be apart from sanctifying grace.
 
 Reply to Objection 3: The worthy exercise of Orders requires not any kind of goodness but excellent goodness, in order that as they who receive orders are set above the people in the degree of Order, so may they be above them by the merit of holiness. Hence they are required to have the grace that suffices to make them worthy members of Christ's people, but when they receive Orders they are given a yet greater gift of grace, whereby they are rendered apt for greater things.
-# Whether In The Sacrament Of Order A Character Is Imprinted In Connection With All The Orders?
+## Whether In The Sacrament Of Order A Character Is Imprinted In Connection With All The Orders?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the sacrament of Order a character is not imprinted in connection with all the Orders. For the character of Order is a spiritual power. Now some Orders are directed only to certain bodily acts, for instance those of the doorkeeper or of the acolyte. Therefore a character is not imprinted in these Orders.
 
@@ -39,70 +39,70 @@ Objection 2: Further, every character is indelible. Therefore a character places
 
 Objection 3: Further, by means of a character a man is appointed to give or to receive some sacred thing. Now a man is sufficiently adapted to the reception of the sacraments by the character of Baptism, and a man is not appointed to dispense the sacraments except in the Order of priesthood. Therefore a character is not imprinted in the other Orders.
 
-## Answer
+### Answer
 
 On the contrary, Every sacrament in which a character is not imprinted can be repeated. But no Order can be repeated. Therefore a character is imprinted in each Order.
 
 I answer that, There have been three opinions on this point. For some have said that a character is imprinted only in the Order of priesthood; but this is not true, since none but a deacon can exercise the act of the diaconate, and so it is clear that in the dispensation of the sacraments, he has a spiritual power which others have not. For this reason others have said that a character is impressed in the sacred, but not in the minor, Orders. But this again comes to nothing, since each Order sets a man above the people in some degree of authority directed to the dispensation of the sacraments. Wherefore since a character is a sign whereby one thing is distinguished from another, it follows that a character is imprinted in each Order. And this is confirmed by the fact that they remain for ever and are never repeated. This is the third and more common opinion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Each Order either has an act connected with the sacrament itself, or adapts a man to the dispensation of the sacraments; thus doorkeepers exercise the act of admitting men to witness the Divine sacraments, and so forth; and consequently a spiritual power is required in each.
 
 Reply to Objection 2: For all that a man may return to the laity, the character always remains in him. This is evident from the fact that if he return to the clerical state, he does not receive again the order which he had already.
-# Whether The Character Of Order Presupposes The Baptismal Character?
+## Whether The Character Of Order Presupposes The Baptismal Character?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the character of Order does not presuppose the character of Baptism. For the character of Order makes a man a dispenser of the sacraments; while the character of Baptism makes him a recipient of them. Now active power does not necessarily presuppose passive power, for it can be without it, as in God. Therefore the character of Order does not necessarily presuppose the character of Baptism.
 
 Objection 2: Further, it may happen that a man is not baptized, and yet think with probability that he has been baptized. If therefore such a person present himself for Orders, he will not receive the character of Order, supposing the character of Order to presuppose the character of Baptism; and consequently whatever he does by way of consecration or absolution will be invalid, and the Church will be deceived therein, which is inadmissible.
 
-## Answer
+### Answer
 
 On the contrary, Baptism is the door of the sacraments. Therefore since Order is a sacrament, it presupposes Baptism.
 
 I answer that, No one can receive what he has not the power to receive. Now the character of Baptism gives a man the power to receive the other sacraments. Wherefore he that has not the baptismal character, can receive no other sacrament; and consequently the character of Order presupposes the character of Baptism.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In one who has active power of himself, the active does not presuppose the passive power; but in one who has active power from another, passive power, whereby he is enabled to receive the active power, is prerequisite to active power.
 
 Reply to Objection 2: Such a man if he be ordained to the priesthood is not a priest, and he can neither consecrate, nor absolve in the tribunal of Penance. Wherefore according to the canons he must be baptized, and reordained (Extra De Presbyt. non Bapt., cap. Si quis; cap. Veniens). And even though he be raised to the episcopate, those whom he ordains receive not the Order. Yet it may piously be believed that as regards the ultimate effects of the sacraments, the High Priest will supply the defect, and that He would not allow this to be so hidden as to endanger the Church.
-# Whether The Character Of Order Necessarily Presupposes The Character Of Confirmation?
+## Whether The Character Of Order Necessarily Presupposes The Character Of Confirmation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the character of Order necessarily presupposes the character of Confirmation. For in things subordinate to one another, as the middle presupposes the first, so does the last presuppose the middle. Now the character of Confirmation presupposes that of Baptism as being the first. Therefore the character of Order presupposes that of Confirmation as being in the middle.
 
 Objection 2: Further, those who are appointed to confirm should themselves be most firm. Now those who receive the sacrament of Order are appointed to confirm others. Therefore they especially should have received the sacrament of Confirmation.
 
-## Answer
+### Answer
 
 On the contrary, The apostles received the power of order before the Ascension (Jn. 20:22), where it is said: "Receive the Holy Ghost." But they were confirmed after the Ascension by the coming of the Holy Ghost. Therefore order does not presuppose Confirmation.
 
 I answer that, For the reception of Orders something is prerequisite for the validity of the sacrament, and something as congruous to the sacrament. For the validity of the sacrament it is required that one who presents himself for Orders should be capable of receiving them, and this is competent to him through Baptism; wherefore the baptismal character is prerequisite for the validity of the sacrament, so that the sacrament of Order cannot be conferred without it. On the other hand, as congruous to the sacrament a man is required to have every perfection whereby he becomes adapted to the exercise of Orders, and one of these is that he be confirmed. Wherefore the character of Order presupposes the character of Confirmation as congruous but not as necessary.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In this case the middle does not stand in the same relation to the last as the first to the middle, because the character of Baptism enables a man to receive the sacrament of Confirmation, whereas the character of Confirmation does not enable a man to receive the sacrament of Order. Hence the comparison fails.
 
 Reply to Objection 2: This argument considers aptness by way of congruity.
-# Whether The Character Of One Order Necessarily Presupposes The Character Of Another Order?
+## Whether The Character Of One Order Necessarily Presupposes The Character Of Another Order?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the character of one Order necessarily presupposes the character of another Order. For there is more in common between one Order and another, than between Order and another sacrament. But the character of Order presupposes the character of another sacrament, namely Baptism. Much more therefore does the character of one Order presuppose the character of another.
 
 Objection 2: Further, the Orders are degrees of a kind. Now no one can reach a further degree, unless he first mount the previous degree. Therefore no one can receive the character of a subsequent Order unless he has first received the preceding Order.
 
-## Answer
+### Answer
 
 On the contrary, If anything necessary for a sacrament be omitted in that sacrament, the sacrament must be repeated. But if one receive a subsequent Order, without receiving a preceding Order, he is not reordained, but he receives what was lacking, according to the canonical statutes (cap. Tuae literae, De clerico per salt. prom.). Therefore the preceding Order is not necessary for the following.
 
 I answer that, It is not necessary for the higher Orders that one should have received the minor Orders, because their respective powers are distinct, and one, considered in its essentials, does not require another in the same subject. Hence even in the early Church some were ordained priests without having previously received the lower Orders and yet they could do all that the lower Orders could, because the lower power is comprised in the higher, even as sense in understanding, and dukedom in kingdom. Afterwards, however, it was decided by the legislation of the Church that no one should present himself to the higher orders who had not previously humbled himself in the lower offices. And hence it is that according to the Canons (cap. Tuae literae, De clerico per salt. prom.) those who are ordained without receiving a preceding Order are not reordained, but receive what was lacking to them of the preceding Order.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Orders have more in common with one another as regards specific likeness, than order has with Baptism. But as regards proportion of power to action, Baptism has more in common with Order, than one Order with another, because Baptism confers on man the passive power to receive Orders, whereas a lower Order does not give him the passive power to receive higher Orders.
 

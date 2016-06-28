@@ -3,9 +3,9 @@
 We must now consider quarreling; concerning which there are two points of inquiry:
 (1) Whether it is opposed to the virtue of friendship?
 (2) Of its comparison with flattery?
-# Whether Quarreling Is Opposed To The Virtue Of Friendship Or Affability?
+## Whether Quarreling Is Opposed To The Virtue Of Friendship Or Affability?
 
-## Objections
+### Objections
 
 Objection 1: It seems that quarreling is not opposed to the virtue of friendship or affability. For quarreling seems to pertain to discord, just as contention does. But discord is opposed to charity, as stated above ([3236]Q[37], A[1]). Therefore quarreling is also.
 
@@ -13,22 +13,22 @@ Objection 2: Further, it is written (Prov. 26:21): "An angry man stirreth up str
 
 Objection 3: Further, it is written (James 4:1): "From whence are wars and quarrels [Douay: 'contentions'] among you? Are they not hence, from your concupiscences which war in your members?" Now it would seem contrary to temperance to follow one's concupiscences. Therefore it seems that quarreling is opposed not to friendship but to temperance.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher opposes quarreling to friendship (Ethic. iv, 6).
 
 I answer that, Quarreling consists properly in words, when, namely, one person contradicts another's words. Now two things may be observed in this contradiction. For sometimes contradiction arises on account of the person who speaks, the contradictor refusing to consent with him from lack of that love which unites minds together, and this seems to pertain to discord, which is contrary to charity. Whereas at times contradiction arises by reason of the speaker being a person to whom someone does not fear to be disagreeable: whence arises quarreling, which is opposed to the aforesaid friendship or affability, to which it belongs to behave agreeably towards those among whom we dwell. Hence the Philosopher says (Ethic. iv, 6) that "those who are opposed to everything with the intent of being disagreeable, and care for nobody, are said to be peevish and quarrelsome."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Contention pertains rather to the contradiction of discord, while quarreling belongs to the contradiction which has the intention of displeasing.
 
 Reply to Objection 2: The direct opposition of virtues to vices depends, not on their causes, since one vice may arise from many causes, but on the species of their acts. And although quarreling arises at times from anger, it may arise from many other causes, hence it does not follow that it is directly opposed to meekness.
 
 Reply to Objection 3: James speaks there of concupiscence considered as a general evil whence all vices arise. Thus, a gloss on Rom. 7:7 says: "The law is good, since by forbidding concupiscence, it forbids all evil."
-# Whether Quarreling Is A More Grievous Sin Than Flattery?
+## Whether Quarreling Is A More Grievous Sin Than Flattery?
 
-## Objections
+### Objections
 
 Objection 1: It seems that quarreling is a less grievous sin than the contrary vice, viz. adulation or flattery. For the more harm a sin does the more grievous it seems to be. Now flattery does more harm than quarreling, for it is written (Is. 3:12): "O My people, they that call thee blessed, the same deceive thee, and destroy the way of thy steps." Therefore flattery is a more grievous sin than quarreling.
 
@@ -36,13 +36,13 @@ Objection 2: Further, there appears to be a certain amount of deceit in flattery
 
 Objection 3: Further, shame is fear of what is vile, according to the Philosopher (Ethic. iv, 9). But a man is more ashamed to be a flatterer than a quarreler. Therefore quarreling is a less grievous sin than flattery.
 
-## Answer
+### Answer
 
 On the contrary, The more a sin is inconsistent with the spiritual state, the more it appears to be grievous. Now quarreling seems to be more inconsistent with the spiritual state: for it is written (1 Tim. 3:2,3) that it "behooveth a bishop to be . . . not quarrelsome"; and (2 Tim. 3:24): "The servant of the Lord must not wrangle." Therefore quarreling seems to be a more grievous sin than flattery.
 
 I answer that, We can speak of each of these sins in two ways. In one way we may consider the species of either sin, and thus the more a vice is at variance with the opposite virtue the more grievous it is. Now the virtue of friendship has a greater tendency to please than to displease: and so the quarrelsome man, who exceeds in giving displeasure sins more grievously than the adulator or flatterer, who exceeds in giving pleasure. In another way we may consider them as regards certain external motives, and thus flattery sometimes more grievous, for instance when one intends by deception to acquire undue honor or gain: while sometimes quarreling is more grievous; for instance, when one intends either to deny the truth, or to hold up the speaker to contempt.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as the flatterer may do harm by deceiving secretly, so the quarreler may do harm sometimes by assailing openly. Now, other things being equal, it is more grievous to harm a person openly, by violence as it were, than secretly. Wherefore robbery is a more grievous sin than theft, as stated above ([3237]Q[66], A[9]).
 

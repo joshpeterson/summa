@@ -6,9 +6,9 @@ We must now consider the cardinal virtues: under which head there are five point
 (3) Which are they?
 (4) Whether they differ from one another?
 (5) Whether they are fittingly divided into social, perfecting, perfect, and exemplar virtues?
-# Whether The Moral Virtues Should Be Called Cardinal Or Principal Virtues?
+## Whether The Moral Virtues Should Be Called Cardinal Or Principal Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that moral virtues should not be called cardinal or principal virtues. For "the opposite members of a division are by nature simultaneous" (Categor. x), so that one is not principal rather than another. Now all the virtues are opposite members of the division of the genus "virtue." Therefore none of them should be called principal.
 
@@ -16,22 +16,22 @@ Objection 2: Further, the end is principal as compared to the means. But the the
 
 Objection 3: Further, that which is essentially so is principal in comparison with that which is so by participation. But the intellectual virtues belong to that which is essentially rational: whereas the moral virtues belong to that which is rational by participation, as stated above ([1564]Q[58] , A[3]). Therefore the intellectual virtues are principal, rather than the moral virtues.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose in explaining the words, "Blessed are the poor in spirit" (Lk. 6:20) says: "We know that there are four cardinal virtues, viz. temperance, justice, prudence, and fortitude." But these are moral virtues. Therefore the moral virtues are cardinal virtues.
 
 I answer that, When we speak of virtue simply, we are understood to speak of human virtue. Now human virtue, as stated above ([1565]Q[56], A[3]), is one that answers to the perfect idea of virtue, which requires rectitude of the appetite: for such like virtue not only confers the faculty of doing well, but also causes the good deed done. On the other hand, the name virtue is applied to one that answers imperfectly to the idea of virtue, and does not require rectitude of the appetite: because it merely confers the faculty of doing well without causing the good deed to be done. Now it is evident that the perfect is principal as compared to the imperfect: and so those virtues which imply rectitude of the appetite are called principal virtues. Such are the moral virtues, and prudence alone, of the intellectual virtues, for it is also something of a moral virtue, as was clearly shown above ([1566]Q[57], A[4]). Consequently, those virtues which are called principal or cardinal are fittingly placed among the moral virtues.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When a univocal genus is divided into its species, the members of the division are on a par in the point of the generic idea; although considered in their nature as things, one species may surpass another in rank and perfection, as man in respect of other animals. But when we divide an analogous term, which is applied to several things, but to one before it is applied to another, nothing hinders one from ranking before another, even in the point of the generic idea; as the notion of being is applied to substance principally in relation to accident. Such is the division of virtue into various kinds of virtue: since the good defined by reason is not found in the same way in all things.
 
 Reply to Objection 2: The theological virtues are above man, as stated above ([1567]Q[58], A[3], ad 3). Hence they should properly be called not human, but "super-human" or godlike virtues.
 
 Reply to Objection 3: Although the intellectual virtues, except in prudence, rank before the moral virtues, in the point of their subject, they do not rank before them as virtues; for a virtue, as such, regards good, which is the object of the appetite.
-# Whether There Are Four Cardinal Virtues?
+## Whether There Are Four Cardinal Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are not four cardinal virtues. For prudence is the directing principle of the other moral virtues, as is clear from what has been said above ([1568]Q[58], A[4]). But that which directs other things ranks before them. Therefore prudence alone is a principal virtue.
 
@@ -39,7 +39,7 @@ Objection 2: Further, the principal virtues are, in a way, moral virtues. Now we
 
 Objection 3: Further, even among the other virtues one ranks higher than another. But in order that a virtue be principal, it needs not to rank above all the others, but above some. Therefore it seems that there are many more principal virtues.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. ii): "The entire structure of good works is built on four virtues."
 
@@ -49,16 +49,16 @@ For the formal principle of the virtue of which we speak now is good as defined 
 
 In like manner, we find the same number if we consider the subjects of virtue. For there are four subjects of the virtue we speak of now: viz. the power which is rational in its essence, and this is perfected by "Prudence"; and that which is rational by participation, and is threefold, the will, subject of "Justice," the concupiscible faculty, subject of "Temperance," and the irascible faculty, subject of "Fortitude."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Prudence is the principal of all the virtues simply. The others are principal, each in its own genus.
 
 Reply to Objection 2: That part of the soul which is rational by participation is threefold, as stated above.
 
 Reply to Objection 3: All the other virtues among which one ranks before another, are reducible to the above four, both as to the subject and as to the formal principle.
-# Whether Any Other Virtues Should Be Called Principal Rather Than These?
+## Whether Any Other Virtues Should Be Called Principal Rather Than These?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that other virtues should be called principal rather than these. For, seemingly, the greatest is the principal in any genus. Now "magnanimity has a great influence on all the virtues" (Ethic. iv, 3). Therefore magnanimity should more than any be called a principal virtue.
 
@@ -66,7 +66,7 @@ Objection 2: Further, that which strengthens the other virtues should above all 
 
 Objection 3: Further, that which is most perfect seems to be principal. But this applies to patience, according to James 1:4: "Patience hath a perfect work." Therefore patience should be reckoned a principal virtue.
 
-## Answer
+### Answer
 
 On the contrary, Cicero reduces all other virtues to these four (De Invent. Rhet. ii).
 
@@ -75,9 +75,9 @@ I answer that, As stated above [1569](A[2]), these four are reckoned as cardinal
 Accordingly the above four virtues may be considered in two ways. First, in respect of their common formal principles. In this way they are called principal, being general, as it were, in comparison with all the virtues: so that, for instance, any virtue that causes good in reason's act of consideration, may be called prudence; every virtue that causes the good of right and due in operation, be called justice; every virtue that curbs and represses the passions, be called temperance; and every virtue that strengthens the mind against any passions whatever, be called fortitude. Many, both holy doctors, as also philosophers, speak about these virtues in this sense: and in this way the other virtues are contained under them. Wherefore all the objections fail.
 
 Secondly, they may be considered in point of their being denominated, each one from that which is foremost in its respective matter, and thus they are specific virtues, condivided with the others. Yet they are called principal in comparison with the other virtues, on account of the importance of their matter: so that prudence is the virtue which commands; justice, the virtue which is about due actions between equals; temperance, the virtue which suppresses desires for the pleasures of touch; and fortitude, the virtue which strengthens against dangers of death. Thus again do the objections fail: because the other virtues may be principal in some other way, but these are called principal by reason of their matter, as stated above.
-# Whether The Four Cardinal Virtues Differ From One Another?
+## Whether The Four Cardinal Virtues Differ From One Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the above four virtues are not diverse and distinct from one another. For Gregory says (Moral. xxii, 1): "There is no true prudence, unless it be just, temperate and brave; no perfect temperance, that is not brave, just and prudent; no sound fortitude, that is not prudent, temperate and just; no real justice, without prudence, fortitude and temperance." But this would not be so, if the above virtues were distinct from one another: since the different species of one genus do not qualify one another. Therefore the aforesaid virtues are not distinct from one another.
 
@@ -85,7 +85,7 @@ Objection 2: Further, among things distinct from one another the function of one
 
 Objection 3: Further, the Philosopher says (Ethic. ii, 4) that the necessary conditions of virtue are first of all "that a man should have knowledge; secondly, that he should exercise choice for a particular end; thirdly, that he should possess the habit and act with firmness and steadfastness." But the first of these seems to belong to prudence which is rectitude of reason in things to be done; the second, i.e. choice, belongs to temperance, whereby a man, holding his passions on the curb, acts, not from passion but from choice; the third, that a man should act for the sake of a due end, implies a certain rectitude, which seemingly belongs to justice; while the last, viz. firmness and steadfastness, belongs to fortitude. Therefore each of these virtues is general in comparison to other virtues. Therefore they are not distinct from one another.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Moribus Eccl. xi) that "there are four virtues, corresponding to the various emotions of love," and he applies this to the four virtues mentioned above. Therefore the same four virtues are distinct from one another.
 
@@ -93,14 +93,14 @@ I answer that, As stated above [1570](A[3]), these four virtues are understood d
 
 Others, however, with better reason, take these four virtues, according as they have their special determinate matter; each of its own matter, in which special commendation is given to that general condition from which the virtue's name is taken as stated above [1571](A[3]). In this way it is clear that the aforesaid virtues are distinct habits, differentiated in respect of their diverse objects.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Gregory is speaking of these four virtues in the first sense given above. It may also be said that these four virtues qualify one another by a kind of overflow. For the qualities of prudence overflow on to the other virtues in so far as they are directed by prudence. And each of the others overflows on to the rest, for the reason that whoever can do what is harder, can do what is less difficult. Wherefore whoever can curb his desires for the pleasures of touch, so that they keep within bounds, which is a very hard thing to do, for this very reason is more able to check his daring in dangers of death, so as not to go too far, which is much easier; and in this sense fortitude is said to be temperate. Again, temperance is said to be brave, by reason of fortitude overflowing into temperance: in so far, to wit, as he whose mind is strengthened by fortitude against dangers of death, which is a matter of very great difficulty, is more able to remain firm against the onslaught of pleasures; for as Cicero says (De Offic. i), "it would be inconsistent for a man to be unbroken by fear, and yet vanquished by cupidity; or that he should be conquered by lust, after showing himself to be unconquered by toil."
 
 Reply to Objection 3: These four general conditions of virtue set down by the Philosopher, are not proper to the aforesaid virtues. They may, however, be appropriated to them, in the way above stated.
-# Whether The Cardinal Virtues Are Fittingly Divided Into Social Virtues, Perfecting, Perfect, And Exemplar Virtues?
+## Whether The Cardinal Virtues Are Fittingly Divided Into Social Virtues, Perfecting, Perfect, And Exemplar Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that these four virtues are unfittingly divided into exemplar virtues, perfecting virtues, perfect virtues, and social virtues. For as Macrobius says (Super Somn. Scip. 1), the "exemplar virtues are such as exist in the mind of God." Now the Philosopher says (Ethic. x, 8) that "it is absurd to ascribe justice, fortitude, temperance, and prudence to God." Therefore these virtues cannot be exemplar.
 
@@ -110,7 +110,7 @@ Objection 3: Further, he says (Macrobius: Super Somn. Scip. 1) that the "perfect
 
 Objection 4: Further, he says (Macrobius: Super Somn. Scip. 1) that the "social" virtues are those "whereby good men work for the good of their country and for the safety of the city." But it is only legal justice that is directed to the common weal, as the Philosopher states (Ethic. v, 1). Therefore other virtues should not be called "social."
 
-## Answer
+### Answer
 
 On the contrary, Macrobius says (Super Somn. Scip. 1): "Plotinus, together with Plato foremost among teachers of philosophy, says: 'The four kinds of virtue are fourfold: In the first place there are social* virtues; secondly, there are perfecting virtues [*Virtutes purgatoriae: literally meaning, cleansing virtues]; thirdly, there are perfect [*Virtutes purgati animi: literally, virtues of the clean soul] virtues; and fourthly, there are exemplar virtues.'" [*Cf. Chrysostom's fifteenth homily on St. Matthew, where he says: "The gentle, the modest, the merciful, the just man does not shut up his good deeds within himself . . . He that is clean of heart and peaceful, and suffers persecution for the sake of the truth, lives for the common weal."]
 
@@ -120,7 +120,7 @@ Again, since man by his nature is a social [*See above note on Chrysostom] anima
 
 But since it behooves a man to do his utmost to strive onward even to Divine things, as even the Philosopher declares in Ethic. x, 7, and as Scripture often admonishes us---for instance: "Be ye . . . perfect, as your heavenly Father is perfect" (Mat. 5:48), we must needs place some virtues between the social or human virtues, and the exemplar virtues which are Divine. Now these virtues differ by reason of a difference of movement and term: so that some are virtues of men who are on their way and tending towards the Divine similitude; and these are called "perfecting" virtues. Thus prudence, by contemplating the things of God, counts as nothing all things of the world, and directs all the thoughts of the soul to God alone: temperance, so far as nature allows, neglects the needs of the body; fortitude prevents the soul from being afraid of neglecting the body and rising to heavenly things; and justice consists in the soul giving a whole-hearted consent to follow the way thus proposed. Besides these there are the virtues of those who have already attained to the Divine similitude: these are called the "perfect virtues." Thus prudence sees nought else but the things of God; temperance knows no earthly desires; fortitude has no knowledge of passion; and justice, by imitating the Divine Mind, is united thereto by an everlasting covenant. Such as the virtues attributed to the Blessed, or, in this life, to some who are at the summit of perfection.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking of these virtues according as they relate to human affairs; for instance, justice, about buying and selling; fortitude, about fear; temperance, about desires; for in this sense it is absurd to attribute them to God.
 

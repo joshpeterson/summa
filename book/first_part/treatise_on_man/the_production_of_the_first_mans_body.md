@@ -5,9 +5,9 @@ We have now to consider the production of the first man's body. Under this head 
 (2) The author by whom it was produced;
 (3) The disposition it received in its production;
 (4) The mode and order of its production.
-# Whether The Body Of The First Man Was Made Of The Slime Of The Earth?
+## Whether The Body Of The First Man Was Made Of The Slime Of The Earth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the body of the first man was not made of the slime of the earth. For it is an act of greater power to make something out of nothing than out of something; because "not being" is farther off from actual existence than "being in potentiality." But since man is the most honorable of God's lower creatures, it was fitting that in the production of man's body, the power of God should be most clearly shown. Therefore it should not have been made of the slime of the earth, but out of nothing.
 
@@ -17,13 +17,13 @@ Objection 3: Further, fire and air are nobler than earth and water, as is clear 
 
 Objection 4: Further, the human body is composed of the four elements. Therefore it was not made of the slime of the earth, but of the four elements.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 2:7): "God made man of the slime of the earth."
 
 I answer that, As God is perfect in His works, He bestowed perfection on all of them according to their capacity: "God's works are perfect" (Dt. 32:4). He Himself is simply perfect by the fact that "all things are pre-contained" in Him, not as component parts, but as "united in one simple whole," as Dionysius says (Div. Nom. v); in the same way as various effects pre-exist in their cause, according to its one virtue. This perfection is bestowed on the angels, inasmuch as all things which are produced by God in nature through various forms come under their knowledge. But on man this perfection is bestowed in an inferior way. For he does not possess a natural knowledge of all natural things, but is in a manner composed of all things, since he has in himself a rational soul of the genus of spiritual substances, and in likeness to the heavenly bodies he is removed from contraries by an equable temperament. As to the elements, he has them in their very substance, yet in such a way that the higher elements, fire and air, predominate in him by their power; for life is mostly found where there is heat, which is from fire; and where there is humor, which is of the air. But the inferior elements abound in man by their substance; otherwise the mingling of elements would not be evenly balanced, unless the inferior elements, which have the less power, predominated in quantity. Therefore the body of man is said to have been formed from the slime of the earth; because earth and water mingled are called slime, and for this reason man is called 'a little world,' because all creatures of the world are in a way to be found in him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The power of the Divine Creator was manifested in man's body when its matter was produced by creation. But it was fitting that the human body should be made of the four elements, that man might have something in common with the inferior bodies, as being something between spiritual and corporeal substances.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: Although the heavenly body is in itself nobler than the ea
 Reply to Objection 3: If fire and air, whose action is of greater power, predominated also in quantity in the human body, they would entirely draw the rest into themselves, and there would be no equality in the mingling, such as is required in the composition of man, for the sense of touch, which is the foundation of the other senses. For the organ of any particular sense must not actually have the contraries of which that sense has the perception, but only potentially; either in such a way that it is entirely void of the whole "genus" of such contraries---thus, for instance, the pupil of the eye is without color, so as to be in potentiality as regards all colors; which is not possible in the organ of touch, since it is composed of the very elements, the qualities of which are perceived by that sense---or so that the organ is a medium between two contraries, as much needs be the case with regard to touch; for the medium is in potentiality to the extremes.
 
 Reply to Objection 4: In the slime of the earth are earth, and water binding the earth together. Of the other elements, Scripture makes no mention, because they are less in quantity in the human body, as we have said; and because also in the account of the Creation no mention is made of fire and air, which are not perceived by senses of uncultured men such as those to whom the Scripture was immediately addressed.
-# Whether The Human Body Was Immediately Produced By God?
+## Whether The Human Body Was Immediately Produced By God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the human body was not produced by God immediately. For Augustine says (De Trin. iii, 4), that "corporeal things are disposed by God through the angels." But the human body was made of corporeal matter, as stated above [763](A[1]). Therefore it was produced by the instrumentality of the angels, and not immediately by God.
 
@@ -44,13 +44,13 @@ Objection 3: Further, nothing is made of corporeal matter except by some materia
 
 Objection 4: Further, Augustine says (Gen. ad lit. vii, 24) that man's body was made during the work of the six days, according to the causal virtues which God inserted in corporeal creatures; and that afterwards it was actually produced. But what pre-exists in the corporeal creature by reason of causal virtues can be produced by some corporeal body. Therefore the human body was produced by some created power, and not immediately by God.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 17:1): "God created man out of the earth."
 
 I answer that, The first formation of the human body could not be by the instrumentality of any created power, but was immediately from God. Some, indeed, supposed that the forms which are in corporeal matter are derived from some immaterial forms; but the Philosopher refutes this opinion (Metaph. vii), for the reason that forms cannot be made in themselves, but only in the composite, as we have explained ([764]Q[65], A[4]); and because the agent must be like its effect, it is not fitting that a pure form, not existing in matter, should produce a form which is in matter, and which form is only made by the fact that the composite is made. So a form which is in matter can only be the cause of another form that is in matter, according as composite is made by composite. Now God, though He is absolutely immaterial, can alone by His own power produce matter by creation: wherefore He alone can produce a form in matter, without the aid of any preceding material form. For this reason the angels cannot transform a body except by making use of something in the nature of a seed, as Augustine says (De Trin. iii, 19). Therefore as no pre-existing body has been formed whereby another body of the same species could be generated, the first human body was of necessity made immediately by God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the angels are the ministers of God, as regards what He does in bodies, yet God does something in bodies beyond the angels' power, as, for instance, raising the dead, or giving sight to the blind: and by this power He formed the body of the first man from the slime of the earth. Nevertheless the angels could act as ministers in the formation of the body of the first man, in the same way as they will do at the last resurrection by collecting the dust.
 
@@ -59,9 +59,9 @@ Reply to Objection 2: Perfect animals, produced from seed, cannot be made by the
 Reply to Objection 3: The movement of the heavens causes natural changes; but not changes that surpass the order of nature, and are caused by the Divine Power alone, as for the dead to be raised to life, or the blind to see: like to which also is the making of man from the slime of the earth.
 
 Reply to Objection 4: An effect may be said to pre-exist in the causal virtues of creatures, in two ways. First, both in active and in passive potentiality, so that not only can it be produced out of pre-existing matter, but also that some pre-existing creature can produce it. Secondly, in passive potentiality only; that is, that out of pre-existing matter it can be produced by God. In this sense, according to Augustine, the human body pre-existed in the previous work in their causal virtues.
-# Whether The Body Of Man Was Given An Apt Disposition?
+## Whether The Body Of Man Was Given An Apt Disposition?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the body of man was not given an apt disposition. For since man is the noblest of animals, his body ought to be the best disposed in what is proper to an animal, that is, in sense and movement. But some animals have sharper senses and quicker movement than man; thus dogs have a keener smell, and birds a swifter flight. Therefore man's body was not aptly disposed.
 
@@ -69,7 +69,7 @@ Objection 2: Further, perfect is what lacks nothing. But the human body lacks mo
 
 Objection 3: Further, man is more distant from plants than he is from the brutes. But plants are erect in stature, while brutes are prone in stature. Therefore man should not be of erect stature.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Eccles. 7:30): "God made man right."
 
@@ -77,16 +77,16 @@ I answer that, All natural things were produced by the Divine art, and so may be
 
 Now the proximate end of the human body is the rational soul and its operations; since matter is for the sake of the form, and instruments are for the action of the agent. I say, therefore, that God fashioned the human body in that disposition which was best, as most suited to such a form and to such operations. If defect exists in the disposition of the human body, it is well to observe that such defect arises as a necessary result of the matter, from the conditions required in the body, in order to make it suitably proportioned to the soul and its operations.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The sense of touch, which is the foundation of the other senses, is more perfect in man than in any other animal; and for this reason man must have the most equable temperament of all animals. Moreover man excels all other animals in the interior sensitive powers, as is clear from what we have said above ([765]Q[78], A[4]). But by a kind of necessity, man falls short of the other animals in some of the exterior senses; thus of all animals he has the least sense of smell. For man needs the largest brain as compared to the body; both for his greater freedom of action in the interior powers required for the intellectual operations, as we have seen above ([766]Q[84], A[7]); and in order that the low temperature of the brain may modify the heat of the heart, which has to be considerable in man for him to be able to stand erect. So that size of the brain, by reason of its humidity, is an impediment to the smell, which requires dryness. In the same way, we may suggest a reason why some animals have a keener sight, and a more acute hearing than man; namely, on account of a hindrance to his senses arising necessarily from the perfect equability of his temperament. The same reason suffices to explain why some animals are more rapid in movement than man, since this excellence of speed is inconsistent with the equability of the human temperament.
 
 Reply to Objection 2: Horns and claws, which are the weapons of some animals, and toughness of hide and quantity of hair or feathers, which are the clothing of animals, are signs of an abundance of the earthly element; which does not agree with the equability and softness of the human temperament. Therefore such things do not suit the nature of man. Instead of these, he has reason and hands whereby he can make himself arms and clothes, and other necessaries of life, of infinite variety. Wherefore the hand is called by Aristotle (De Anima iii, 8), "the organ of organs." Moreover this was more becoming to the rational nature, which is capable of conceiving an infinite number of things, so as to make for itself an infinite number of instruments.
 
 Reply to Objection 3: An upright stature was becoming to man for four reasons. First, because the senses are given to man, not only for the purpose of procuring the necessaries of life, which they are bestowed on other animals, but also for the purpose of knowledge. Hence, whereas the other animals take delight in the objects of the senses only as ordered to food and sex, man alone takes pleasure in the beauty of sensible objects for its own sake. Therefore, as the senses are situated chiefly in the face, other animals have the face turned to the ground, as it were for the purpose of seeking food and procuring a livelihood; whereas man has his face erect, in order that by the senses, and chiefly by sight, which is more subtle and penetrates further into the differences of things, he may freely survey the sensible objects around him, both heavenly and earthly, so as to gather intelligible truth from all things. Secondly, for the greater freedom of the acts of the interior powers; the brain, wherein these actions are, in a way, performed, not being low down, but lifted up above other parts of the body. Thirdly, because if man's stature were prone to the ground he would need to use his hands as fore-feet; and thus their utility for other purposes would cease. Fourthly, because if man's stature were prone to the ground, and he used his hands as fore-feet, he would be obliged to take hold of his food with his mouth. Thus he would have a protruding mouth, with thick and hard lips, and also a hard tongue, so as to keep it from being hurt by exterior things; as we see in other animals. Moreover, such an attitude would quite hinder speech, which is reason's proper operation.
-# Whether The Production Of The Human Body Is Fittingly Described In Scripture?
+## Whether The Production Of The Human Body Is Fittingly Described In Scripture?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the production of the human body is not fittingly described in Scripture. For, as the human body was made by God, so also were the other works of the six days. But in the other works it is written, "God said; Let it be made, and it was made." Therefore the same should have been said of man.
 
@@ -98,13 +98,13 @@ Objection 4: Further, the soul, which is the breath of life, is in the whole bod
 
 Objection 5: Further, the male and female sex belong to the body, while the image of God belongs to the soul. But the soul, according to Augustine (Gen. ad lit. vii, 24), was made before the body. Therefore having said: "To His image He made them," he should not have added, "male and female He created them."
 
-## Answer
+### Answer
 
 On the contrary, Is the authority of Scripture.
 
 
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine observes (Gen. ad lit. vi, 12), man surpasses other things, not in the fact that God Himself made man, as though He did not make other things; since it is written (Ps. 101:26), "The work of Thy hands is the heaven," and elsewhere (Ps. 94:5), "His hands laid down the dry land"; but in this, that man is made to God's image. Yet in describing man's production, Scripture uses a special way of speaking, to show that other things were made for man's sake. For we are accustomed to do with more deliberation and care what we have chiefly in mind.
 

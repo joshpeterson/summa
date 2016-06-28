@@ -5,9 +5,9 @@ We must now consider the vices opposed to the joy of charity. This joy is either
 (2) Whether it is a special vice?
 (3) Whether it is a mortal sin?
 (4) Whether it is a capital sin?
-# Whether Sloth Is A Sin?
+## Whether Sloth Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sloth is not a sin. For we are neither praised nor blamed for our passions, according to the Philosopher (Ethic. ii, 5). Now sloth is a passion, since it is a kind of sorrow, according to Damascene (De Fide Orth. ii, 14), and as we stated above ([2629]FS, Q[35], A[8] ). Therefore sloth is not a sin.
 
@@ -17,7 +17,7 @@ Objection 3: Further, that which proceeds from a good root is, seemingly, no sin
 
 Objection 4: Further, all sin is to be avoided, according to Ecclus. 21:2: "Flee from sins as from the face of a serpent." Now Cassian says (De Instit. Monast. x): "Experience shows that the onslaught of sloth is not to be evaded by flight but to be conquered by resistance." Therefore sloth is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, Whatever is forbidden in Holy Writ is a sin. Now such is sloth [acedia]: for it is written (Ecclus. 6:26): "Bow down thy shoulder, and bear her," namely spiritual wisdom, "and be not grieved [acedieris] with her bands." Therefore sloth is a sin.
 
@@ -27,7 +27,7 @@ Now this sorrow is always evil, sometimes in itself, sometimes in its effect. Fo
 
 Accordingly, since sloth, as we understand it here, denotes sorrow for spiritual good, it is evil on two counts, both in itself and in point of its effect. Consequently it is a sin, for by sin we mean an evil movement of the appetite, as appears from what has been said above (Q[10], A[2]; [2630]FS, Q[74], A[4]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Passions are not sinful in themselves; but they are blameworthy in so far as they are applied to something evil, just as they deserve praise in so far as they are applied to something good. Wherefore sorrow, in itself, calls neither for praise nor for blame: whereas moderate sorrow for evil calls for praise, while sorrow for good, and again immoderate sorrow for evil, call for blame. It is in this sense that sloth is said to be a sin.
 
@@ -36,9 +36,9 @@ Reply to Objection 2: The passions of the sensitive appetite may either be venia
 Reply to Objection 3: It is a sign of humility if a man does not think too much of himself, through observing his own faults; but if a man contemns the good things he has received from God, this, far from being a proof of humility, shows him to be ungrateful: and from such like contempt results sloth, because we sorrow for things that we reckon evil and worthless. Accordingly we ought to think much of the goods of others, in such a way as not to disparage those we have received ourselves, because if we did they would give us sorrow.
 
 Reply to Objection 4: Sin is ever to be shunned, but the assaults of sin should be overcome, sometimes by flight, sometimes by resistance; by flight when a continued thought increases the incentive to sin, as in lust; for which reason it is written (1 Cor. 6:18): "Fly fornication"; by resistance, when perseverance in the thought diminishes the incentive to sin, which incentive arises from some trivial consideration. This is the case with sloth, because the more we think about spiritual goods, the more pleasing they become to us, and forthwith sloth dies away.
-# Whether Sloth Is A Special Vice?
+## Whether Sloth Is A Special Vice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sloth is not a special vice. For that which is common to all vices does not constitute a special kind of vice. But every vice makes a man sorrowful about the opposite spiritual good: for the lustful man is sorrowful about the good of continence, and the glutton about the good of abstinence. Since then sloth is sorrow for spiritual good, as stated above [2631](A[1]), it seems that sloth is not a special sin.
 
@@ -46,16 +46,16 @@ Objection 2: Further, sloth, through being a kind of sorrow, is opposed to joy. 
 
 Objection 3: Further, since spiritual good is a general kind of object, which virtue seeks, and vice shuns, it does not constitute a special virtue or vice, unless it be determined by some addition. Now nothing, seemingly, except toil, can determine it to sloth, if this be a special vice; because the reason why a man shuns spiritual goods, is that they are toilsome, wherefore sloth is a kind of weariness: while dislike of toil, and love of bodily repose seem to be due to the same cause, viz. idleness. Hence sloth would be nothing but laziness, which seems untrue, for idleness is opposed to carefulness, whereas sloth is opposed to joy. Therefore sloth is not a special vice.
 
-## Answer
+### Answer
 
 On the contrary, Gregory (Moral. xxxi, 45) distinguishes sloth from the other vices. Therefore it is a special vice.
 
 I answer that, Since sloth is sorrow for spiritual good, if we take spiritual good in a general way, sloth will not be a special vice, because, as stated above ([2632]FS, Q[71], A[1]), every vice shuns the spiritual good of its opposite virtue. Again it cannot be said that sloth is a special vice, in so far as it shuns spiritual good, as toilsome, or troublesome to the body, or as a hindrance to the body's pleasure, for this again would not sever sloth from carnal vices, whereby a man seeks bodily comfort and pleasure.
 
 Wherefore we must say that a certain order exists among spiritual goods, since all the spiritual goods that are in the acts of each virtue are directed to one spiritual good, which is the Divine good, about which there is a special virtue, viz. charity. Hence it is proper to each virtue to rejoice in its own spiritual good, which consists in its own act, while it belongs specially to charity to have that spiritual joy whereby one rejoices in the Divine good. In like manner the sorrow whereby one is displeased at the spiritual good which is in each act of virtue, belongs, not to any special vice, but to every vice, but sorrow in the Divine good about which charity rejoices, belongs to a special vice, which is called sloth. This suffices for the Replies to the Objections.
-# Whether Sloth Is A Mortal Sin?
+## Whether Sloth Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sloth is not a mortal sin. For every mortal sin is contrary to a precept of the Divine Law. But sloth seems contrary to no precept, as one may see by going through the precepts of the Decalogue. Therefore sloth is not a mortal sin.
 
@@ -63,22 +63,22 @@ Objection 2: Further, in the same genus, a sin of deed is no less grievous than 
 
 Objection 3: Further, no mortal sin is to be found in a perfect man. But sloth is to be found in a perfect man: for Cassian says (De Instit. Caenob. x, l) that "sloth is well known to the solitary, and is a most vexatious and persistent foe to the hermit." Therefore sloth is not always a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (2 Cor. 7:20): "The sorrow of the world worketh death." But such is sloth; for it is not sorrow "according to God," which is contrasted with sorrow of the world. Therefore it is a mortal sin.
 
 I answer that, As stated above ([2633]FS, Q[88], AA[1],2), mortal sin is so called because it destroys the spiritual life which is the effect of charity, whereby God dwells in us. Wherefore any sin which by its very nature is contrary to charity is a mortal sin by reason of its genus. And such is sloth, because the proper effect of charity is joy in God, as stated above (Q[28], A[1]), while sloth is sorrow about spiritual good in as much as it is a Divine good. Therefore sloth is a mortal sin in respect of its genus. But it must be observed with regard to all sins that are mortal in respect of their genus, that they are not mortal, save when they attain to their perfection. Because the consummation of sin is in the consent of reason: for we are speaking now of human sins consisting in human acts, the principle of which is the reason. Wherefore if the sin be a mere beginning of sin in the sensuality alone, without attaining to the consent of reason, it is a venial sin on account of the imperfection of the act. Thus in the genus of adultery, the concupiscence that goes no further than the sensuality is a venial sin, whereas if it reach to the consent of reason, it is a mortal sin. So too, the movement of sloth is sometimes in the sensuality alone, by reason of the opposition of the flesh to the spirit, and then it is a venial sin; whereas sometimes it reaches to the reason, which consents in the dislike, horror and detestation of the Divine good, on account of the flesh utterly prevailing over the spirit. In this case it is evident that sloth is a mortal sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Sloth is opposed to the precept about hallowing the Sabbath day. For this precept, in so far as it is a moral precept, implicitly commands the mind to rest in God: and sorrow of the mind about the Divine good is contrary thereto.
 
 Reply to Objection 2: Sloth is not an aversion of the mind from any spiritual good, but from the Divine good, to which the mind is obliged to adhere. Wherefore if a man is sorry because someone forces him to do acts of virtue that he is not bound to do, this is not a sin of sloth; but when he is sorry to have to do something for God's sake.
 
 Reply to Objection 3: Imperfect movements of sloth are to be found in holy men, but they do not reach to the consent of reason.
-# Whether Sloth Should Be Accounted A Capital Vice?
+## Whether Sloth Should Be Accounted A Capital Vice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sloth ought not to be accounted a capital vice. For a capital vice is one that moves a man to sinful acts, as stated above ([2634]Q[34], A[5]). Now sloth does not move one to action, but on the contrary withdraws one from it. Therefore it should not be accounted a capital sin.
 
@@ -86,13 +86,13 @@ Objection 2: Further, a capital sin is one to which daughters are assigned. Now 
 
 Objection 3: Further, Isidore distinguishes the vice of sloth from the vice of sorrow, saying (De Summo Bono ii, 37) that in so far as a man shirks his duty because it is distasteful and burdensome, it is sorrow, and in so far as he is inclined to undue repose, it is sloth: and of sorrow he says that it gives rise to "spite, faint-heartedness, bitterness, despair," whereas he states that from sloth seven things arise, viz. "idleness, drowsiness, uneasiness of the mind, restlessness of the body, instability, loquacity, curiosity." Therefore it seems that either Gregory or Isidore has wrongly assigned sloth as a capital sin together with its daughters.
 
-## Answer
+### Answer
 
 On the contrary, The same Gregory (Moral. xxxi, 45) states that sloth is a capital sin, and has the daughters aforesaid.
 
 I answer that, As stated above ([2636]FS, Q[84], AA[3],4), a capital vice is one which easily gives rise to others as being their final cause. Now just as we do many things on account of pleasure, both in order to obtain it, and through being moved to do something under the impulse of pleasure, so again we do many things on account of sorrow, either that we may avoid it, or through being exasperated into doing something under pressure thereof. Wherefore, since sloth is a kind of sorrow, as stated above [2637](A[2]; FS, Q[85], A[8]), it is fittingly reckoned a capital sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Sloth by weighing on the mind, hinders us from doing things that cause sorrow: nevertheless it induces the mind to do certain things, either because they are in harmony with sorrow, such as weeping, or because they are a means of avoiding sorrow.
 

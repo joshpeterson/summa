@@ -13,9 +13,9 @@ We have now to consider the use or receiving of this sacrament, first of all in 
 (10) Whether it is to be received daily?
 (11) Whether it is lawful to refrain from it altogether?
 (12) Whether it is lawful to receive the body without the blood?
-# Whether There Are Two Ways To Be Distinguished Of Eating Christ's Body?
+## Whether There Are Two Ways To Be Distinguished Of Eating Christ's Body?
 
-## Objections
+### Objections
 
 Objection 1: It seems that two ways ought not to be distinguished of eating Christ's body, namely, sacramentally and spiritually. For, as Baptism is spiritual regeneration, according to Jn. 3:5: "Unless a man be born again of water and the Holy Ghost," etc., so also this sacrament is spiritual food: hence our Lord, speaking of this sacrament, says (Jn. 6:64): "The words that I have spoken to you are spirit and life." But there are no two distinct ways of receiving Baptism, namely, sacramentally and spiritually. Therefore neither ought this distinction to be made regarding this sacrament.
 
@@ -23,22 +23,22 @@ Objection 2: Further, when two things are so related that one is on account of t
 
 Objection 3: Further, things which cannot exist without one another ought not to be divided in contrast with each other. But it seems that no one can eat spiritually without eating sacramentally; otherwise the fathers of old would have eaten this sacrament spiritually. Moreover, sacramental eating would be to no purpose, if the spiritual eating could be had without it. Therefore it is not right to distinguish a twofold eating, namely, sacramental and spiritual.
 
-## Answer
+### Answer
 
 On the contrary, The gloss says on 1 Cor. 11:29: "He that eateth and drinketh unworthily," etc.: "We hold that there are two ways of eating, the one sacramental, and the other spiritual."
 
 I answer that, There are two things to be considered in the receiving of this sacrament, namely, the sacrament itself, and its fruits, and we have already spoken of both (QQ[73],79). The perfect way, then, of receiving this sacrament is when one takes it so as to partake of its effect. Now, as was stated above ([4635]Q[79], AA[3],8), it sometimes happens that a man is hindered from receiving the effect of this sacrament; and such receiving of this sacrament is an imperfect one. Therefore, as the perfect is divided against the imperfect, so sacramental eating, whereby the sacrament only is received without its effect, is divided against spiritual eating, by which one receives the effect of this sacrament, whereby a man is spiritually united with Christ through faith and charity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The same distinction is made regarding Baptism and the other sacraments: for, some receive the sacrament only, while others receive the sacrament and the reality of the sacrament. However, there is a difference, because, since the other sacraments are accomplished in the use of the matter, the receiving of the sacrament is the actual perfection of the sacrament; whereas this sacrament is accomplished in the consecration of the matter: and consequently both uses follow the sacrament. On the other hand, in Baptism and in the other sacraments that imprint a character, they who receive the sacrament receive some spiritual effect, that is, the character. which is not the case in this sacrament. And therefore, in this sacrament, rather than in Baptism, the sacramental use is distinguished from the spiritual use.
 
 Reply to Objection 2: That sacramental eating which is also a spiritual eating is not divided in contrast with spiritual eating, but is included under it; but that sacramental eating which does not secure the effect, is divided in contrast with spiritual eating; just as the imperfect, which does not attain the perfection of its species, is divided in contrast with the perfect.
 
 Reply to Objection 3: As stated above ([4636]Q[73], A[3]), the effect of the sacrament can be secured by every man if he receive it in desire, though not in reality. Consequently, just as some are baptized with the Baptism of desire, through their desire of baptism, before being baptized in the Baptism of water; so likewise some eat this sacrament spiritually ere they receive it sacramentally. Now this happens in two ways. First of all, from desire of receiving the sacrament itself, and thus are said to be baptized, and to eat spiritually, and not sacramentally, they who desire to receive these sacraments since they have been instituted. Secondly, by a figure: thus the Apostle says (1 Cor. 10:2), that the fathers of old were "baptized in the cloud and in the sea," and that "they did eat . . . spiritual food, and . . . drank . . . spiritual drink." Nevertheless sacramental eating is not without avail, because the actual receiving of the sacrament produces more fully the effect of the sacrament than does the desire thereof, as stated above of Baptism ([4637]Q[69] , A[4], ad 2).
-# Whether It Belongs To Man Alone To Eat This Sacrament Spiritually?
+## Whether It Belongs To Man Alone To Eat This Sacrament Spiritually?
 
-## Objections
+### Objections
 
 Objection 1: It seems that it does not belong to man alone to eat this sacrament spiritually, but likewise to angels. Because on Ps. 77:25: "Man ate the bread of angels," the gloss says: "that is, the body of Christ, Who i's truly the food of angels." But it would not be so unless the angels were to eat Christ spiritually. Therefore the angels eat Christ spiritually.
 
@@ -46,7 +46,7 @@ Objection 2: Further, Augustine (Tract. xxvi in Joan.) says: By "this meat and d
 
 Objection 3: Further, Augustine in his book De Verbis Domini (Serm. cxlii) says: "Christ is to be eaten spiritually, as He Himself declares: 'He that eateth My flesh and drinketh My blood, abideth in Me, and I in him.'" But this belongs not only to men, but also to the holy angels, in whom Christ dwells by charity, and they in Him. Consequently, it seems that to eat Christ spiritually is not for men only, but also for the angels.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (Tract. xxvi in Joan.) says: "Eat the bread" of the altar "spiritually; take innocence to the altar." But angels do not approach the altar as for the purpose of taking something therefrom. Therefore the angels do not eat spiritually.
 
@@ -54,16 +54,16 @@ I answer that, Christ Himself is contained in this sacrament, not under His prop
 
 In another way one may eat Christ spiritually, as He is under the sacramental species, inasmuch as a man believes in Christ, while desiring to receive this sacrament; and this is not merely to eat Christ spiritually, but likewise to eat this sacrament; which does not fall to the lot of the angels. And therefore although the angels feed on Christ spiritually, yet it does not belong to them to eat this sacrament spiritually.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The receiving of Christ under this sacrament is ordained to the enjoyment of heaven, as to its end, in the same way as the angels enjoy it; and since the means are gauged by the end, hence it is that such eating of Christ whereby we receive Him under this sacrament, is, as it were, derived from that eating whereby the angels enjoy Christ in heaven. Consequently, man is said to eat the "bread of angels," because it belongs to the angels to do so firstly and principally, since they enjoy Him in his proper species; and secondly it belongs to men, who receive Christ under this sacrament.
 
 Reply to Objection 2: Both men and angels belong to the fellowship of His mystical body; men by faith, and angels by manifest vision. But the sacraments are proportioned to faith, through which the truth is seen "through a glass" and "in a dark manner." And therefore, properly speaking, it does not belong to angels, but to men, to eat this sacrament spiritually.
 
 Reply to Objection 3: Christ dwells in men through faith, according to their present state, but He is in the blessed angels by manifest vision. Consequently the comparison does not hold, as stated above (ad 2).
-# Whether The Just Man Alone May Eat Christ Sacramentally?
+## Whether The Just Man Alone May Eat Christ Sacramentally?
 
-## Objections
+### Objections
 
 Objection 1: It seems that none but the just man may eat Christ sacramentally. For Augustine says in his book De Remedio Penitentiae (cf. Tract. in Joan. xxv, n. 12; xxvi, n. 1): "Why make ready tooth and belly? Believe, and thou hast eaten . . . For to believe in Him, this it is, to eat the living bread." But the sinner does not believe in Him; because he has not living faith, to which it belongs to believe "in God," as stated above in the [4638]SS, Q[2], A[2]; [4639]SS, Q[4], A[5]. Therefore the sinner cannot eat this sacrament, which is the living bread.
 
@@ -71,7 +71,7 @@ Objection 2: Further, this sacrament is specially called "the sacrament of chari
 
 Objection 3: Further, the sinner is more abominable before God than the irrational creature: for it is said of the sinner (Ps. 48:21): "Man when he was in honor did not understand; he hath been compared to senseless beasts, and made like to them." But an irrational animal, such as a mouse or a dog, cannot receive this sacrament, just as it cannot receive the sacrament of Baptism. Therefore it seems that for the like reason neither may sinners eat this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (Tract. xxvi in Joan.), commenting on the words, "that if any man eat of it he may not die," says: "Many receive from the altar, and by receiving die: whence the Apostle saith, 'eateth and drinketh judgment to himself.'" But only sinners die by receiving. Therefore sinners eat the body of Christ sacramentally, and not the just only.
 
@@ -79,16 +79,16 @@ I answer that, In the past, some have erred upon this point, saying that Christ'
 
 But this is erroneous; because it detracts from the truth of this sacrament, to which truth it belongs that so long as the species last, Christ's body does not cease to be under them, as stated above ([4641]Q[76], A[6], ad 3;[4642] Q[77], A[8]). But the species last so long as the substance of the bread would remain, if it were there, as was stated above ([4643]Q[77], A[4]). Now it is clear that the substance of bread taken by a sinner does not at once cease to be, but it continues until digested by natural heat: hence Christ's body remains just as long under the sacramental species when taken by sinners. Hence it must be said that the sinner, and not merely the just, can eat Christ's body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Such words and similar expressions are to be understood of spiritual eating, which does not belong to sinners. Consequently, it is from such expressions being misunderstood that the above error seems to have arisen, through ignorance of the distinction between corporeal and spiritual eating.
 
 Reply to Objection 2: Should even an unbeliever receive the sacramental species, he would receive Christ's body under the sacrament: hence he would eat Christ sacramentally, if the word "sacramentally" qualify the verb on the part of the thing eaten. But if it qualify the verb on the part of the one eating, then, properly speaking, he does not eat sacramentally, because he uses what he takes, not as a sacrament, but as simple food. Unless perchance the unbeliever were to intend to receive what the Church bestows; without having proper faith regarding the other articles, or regarding this sacrament.
 
 Reply to Objection 3: Even though a mouse or a dog were to eat the consecrated host, the substance of Christ's body would not cease to be under the species, so long as those species remain, and that is, so long as the substance of bread would have remained; just as if it were to be cast into the mire. Nor does this turn to any indignity regarding Christ's body, since He willed to be crucified by sinners without detracting from His dignity; especially since the mouse or dog does not touch Christ's body in its proper species, but only as to its sacramental species. Some, however, have said that Christ's body would cease to be there, directly it were touched by a mouse or a dog; but this again detracts from the truth of the sacrament, as stated above. None the less it must not be said that the irrational animal eats the body of Christ sacramentally; since it is incapable of using it as a sacrament. Hence it eats Christ's body "accidentally," and not sacramentally, just as if anyone not knowing a host to be consecrated were to consume it. And since no genus is divided by an accidental difference, therefore this manner of eating Christ's body is not set down as a third way besides sacramental and spiritual eating.
-# Whether The Sinner Sins In Receiving Christ's Body Sacramentally?
+## Whether The Sinner Sins In Receiving Christ's Body Sacramentally?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the sinner does not sin in receiving Christ's body sacramentally, because Christ has no greater dignity under the sacramental species than under His own. But sinners did not sin when they touched Christ's body under its proper species; nay, rather they obtained forgiveness of their sins, as we read in Lk. 7 of the woman who was a sinner; while it is written (Mat. 14:36) that "as many as touched the hem of His garment were healed." Therefore, they do not sin, but rather obtain salvation, by receiving the body of Christ.
 
@@ -100,13 +100,13 @@ Objection 4: Further, as this sacrament is perceived by taste and touch, so also
 
 Objection 5: Further, it happens sometimes that the sinner is unconscious of his sin. Yet such a one does not seem to sin by receiving the body of Christ, for according to this all who receive it would sin, as exposing themselves to danger, since the Apostle says (1 Cor. 4:4): "I am not conscious to myself of anything, yet I am not hereby justified." Therefore, the sinner, if he receive this sacrament, does not appear to be guilty of sin.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Cor. 11:29): "He that eateth and drinketh unworthily, eateth and drinketh judgment to himself." Now the gloss says on this passage: "He eats and drinks unworthily who is in sin, or who handles it irreverently." Therefore, if anyone, while in mortal sin, receives this sacrament, he purchases damnation, by sinning mortally.
 
 I answer that, In this sacrament, as in the others, that which is a sacrament is a sign of the reality of the sacrament. Now there is a twofold reality of this sacrament, as stated above ([4644]Q[73], A[6]): one which is signified and contained, namely, Christ Himself; while the other is signified but not contained, namely, Christ's mystical body, which is the fellowship of the saints. Therefore, whoever receives this sacrament, expresses thereby that he is made one with Christ, and incorporated in His members; and this is done by living faith, which no one has who is in mortal sin. And therefore it is manifest that whoever receives this sacrament while in mortal sin, is guilty of lying to this sacrament, and consequently of sacrilege, because he profanes the sacrament: and therefore he sins mortally.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When Christ appeared under His proper species, He did not give Himself to be touched by men as a sign of spiritual union with Himself, as He gives Himself to be received in this sacrament. And therefore sinners in touching Him under His proper species did not incur the sin of lying to Godlike things, as sinners do in receiving this sacrament.
 
@@ -117,9 +117,9 @@ Reply to Objection 3: By the greatest gifts Augustine understands the soul's vir
 Reply to Objection 4: Christ's body is not received by being seen, but only its sacrament, because sight does not penetrate to the substance of Christ's body, but only to the sacramental species, as stated above ([4645]Q[76], A[7]). But he who eats, receives not only the sacramental species, but likewise Christ Himself Who is under them. Consequently, no one is forbidden to behold Christ's body, when once he has received Christ's sacrament, namely, Baptism: whereas the non-baptized are not to be allowed even to see this sacrament, as is clear from Dionysius (Eccl. Hier. vii). But only those are to be allowed to share in the eating who are united with Christ not merely sacramentally, but likewise really.
 
 Reply to Objection 5: The fact of a man being unconscious of his sin can come about in two ways. First of all through his own fault, either because through ignorance of the law (which ignorance does not excuse him), he thinks something not to be sinful which is a sin, as for example if one guilty of fornication were to deem simple fornication not to be a mortal sin; or because he neglects to examine his conscience, which is opposed to what the Apostle says (1 Cor. 11:28): "Let a man prove himself, and so let him eat of that bread, and drink of the chalice." And in this way nevertheless the sinner who receives Christ's body commits sin, although unconscious thereof, because the very ignorance is a sin on his part.
-# Whether To Approach This Sacrament With Consciousness Of Sin Is The Gravest Of All Sins?
+## Whether To Approach This Sacrament With Consciousness Of Sin Is The Gravest Of All Sins?
 
-## Objections
+### Objections
 
 Objection 1: It seems that to approach this sacrament with consciousness of sin is the gravest of all sins; because the Apostle says (1 Cor. 11:27): "Whosoever shall eat this bread, or drink the chalice of the Lord unworthily, shall be guilty of the body and of the blood of the Lord": upon which the gloss observes: "He shall be punished as though he slew Christ." But the sin of them who slew Christ seems to have been most grave. Therefore this sin, whereby a man approaches Christ's table with consciousness of sin, appears to be the gravest.
 
@@ -127,7 +127,7 @@ Objection 2: Further, Jerome says in an Epistle (xlix): "What hast thou to do wi
 
 Objection 3: Further, spiritual uncleanness is more abominable to God than corporeal. But if anyone was to cast Christ's body into mud or a cess-pool, his sin would be reputed a most grave one. Therefore, he sins more deeply by receiving it with sin, which is spiritual uncleanness, upon his soul.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says on the words, "If I had not come, and had not spoken to them, they would be without sin" (Tract. lxxxix in Joan.), that this is to be understood of the sin of unbelief, "in which all sins are comprised," and so the greatest of all sins appears to be, not this, but rather the sin of unbelief.
 
@@ -137,16 +137,16 @@ Accidentally, one sin can be graver than another on the sinner's part. for examp
 
 So, then, it is evident that this sin is specifically graver than many others, yet it is not the greatest of all.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The sin of the unworthy recipient is compared to the sin of them who slew Christ, by way of similitude, because each is committed against Christ's body; but not according to the degree of the crime. Because the sin of Christ's slayers was much graver, first of all, because their sin was against Christ's body in its own species, while this sin is against it under sacramental species; secondly, because their sin came of the intent of injuring Christ, while this does not.
 
 Reply to Objection 2: The sin of the fornicator receiving Christ's body is likened to Judas kissing Christ, as to the resemblance of the sin, because each outrages Christ with the sign of friendship. but not as to the extent of the sin, as was observed above (ad 1). And this resemblance in crime applies no less to other sinners than to fornicators: because by other mortal sins, sinners act against the charity of Christ, of which this sacrament is the sign, and all the more according as their sins are graver. But in a measure the sin of fornication makes one more unfit for receiving this sacrament, because thereby especially the spirit becomes enslaved by the flesh, which is a hindrance to the fervor of love required for this sacrament.
 
 Reply to Objection 3: The man who would throw this sacrament into the mire would be guilty of more heinous sin than another approaching the sacrament fully conscious of mortal sin. First of all, because he would intend to outrage the sacrament, whereas the sinner receiving Christ's body unworthily has no such intent; secondly, because the sinner is capable of grace; hence he is more capable of receiving this sacrament than any irrational creature. Hence he would make a most revolting use of this sacrament who would throw it to dogs to eat, or fling it in the mire to be trodden upon.
-# Whether The Priest Ought To Deny The Body Of Christ To The Sinner Seeking It?
+## Whether The Priest Ought To Deny The Body Of Christ To The Sinner Seeking It?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the priest should deny the body of Christ to the sinner seeking it. For Christ's precept is not to be set aside for the sake of avoiding scandal or on account of infamy to anyone. But (Mat. 7:6) our Lord gave this command: "Give not that which is holy to dogs." Now it is especially casting holy things to dogs to give this sacrament to sinners. Therefore, neither on account of avoiding scandal or infamy should this sacrament be administered to the sinner who asks for it.
 
@@ -154,7 +154,7 @@ Objection 2: Further, one must choose the lesser of two evils. But it seems to b
 
 Objection 3: Further, the body of Christ is sometimes given to those suspected of crime in order to put them to proof. Because we read in the Decretals: "It often happens that thefts are perpetrated in monasteries of monks; wherefore we command that when the brethren have to exonerate themselves of such acts, that the abbot shall celebrate Mass, or someone else deputed by him, in the presence of the community; and so, when the Mass is over, all shall communicate under these words: 'May the body of Christ prove thee today.'" And further on: "If any evil deed be imputed to a bishop or priest, for each charge he must say Mass and communicate, and show that he is innocent of each act imputed." But secret sinners must not be disclosed, for, once the blush of shame is set aside, they will indulge the more in sin, as Augustine says (De Verbis. Dom.; cf. Serm. lxxxii). Consequently, Christ's body is not to be given to occult sinners, even if they ask for it.
 
-## Answer
+### Answer
 
 On the contrary, on Ps. 21:30: "All the fat ones of the earth have eaten and have adored," Augustine says: "Let not the dispenser hinder the fat ones of the earth," i.e. sinners, "from eating at the table of the Lord."
 
@@ -162,16 +162,16 @@ I answer that, A distinction must be made among sinners: some are secret; others
 
 But if they be not open sinners, but occult, the Holy Communion should not be denied them if they ask for it. For since every Christian, from the fact that he is baptized, is admitted to the Lord's table, he may not be robbed of his right, except from some open cause. Hence on 1 Cor. 5:11, "If he who is called a brother among you," etc., Augustine's gloss remarks: "We cannot inhibit any person from Communion, except he has openly confessed, or has been named and convicted by some ecclesiastical or lay tribunal." Nevertheless a priest who has knowledge of the crime can privately warn the secret sinner, or warn all openly in public, from approaching the Lord's table, until they have repented of their sins and have been reconciled to the Church; because after repentance and reconciliation, Communion must not be refused even to public sinners, especially in the hour of death. Hence in the (3rd) Council of Carthage (Can. xxxv) we read: "Reconciliation is not to be denied to stage-players or actors, or others of the sort, or to apostates, after their conversion to God."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Holy things are forbidden to be given to dogs, that is, to notorious sinners: whereas hidden deeds may not be published, but are to be left to the Divine judgment.
 
 Reply to Objection 2: Although it is worse for the secret sinner to sin mortally in taking the body of Christ, rather than be defamed, nevertheless for the priest administering the body of Christ it is worse to commit mortal sin by unjustly defaming the hidden sinner than that the sinner should sin mortally; because no one ought to commit mortal sin in order to keep another out of mortal sin. Hence Augustine says (Quaest. super Gen. 42): "It is a most dangerous exchange, for us to do evil lest another perpetrate a greater evil." But the secret sinner ought rather to prefer infamy than approach the Lord's table unworthily.
 
 Reply to Objection 3: Those decrees were abolished by contrary enactments of Roman Pontiffs: because Pope Stephen V writes as follows: "The Sacred Canons do not allow of a confession being extorted from any person by trial made by burning iron or boiling water; it belongs to our government to judge of public crimes committed, and that by means of confession made spontaneously, or by proof of witnesses: but private and unknown crimes are to be left to Him Who alone knows the hearts of the sons of men." And the same is found in the Decretals (Extra, De Purgationibus, Ch. Ex tuarum). Because in all such practices there seems to be a tempting of God; hence such things cannot be done without sin. And it would seem graver still if anyone were to incur judgment of death through this sacrament, which was instituted as a means of salvation. Consequently, the body of Christ should never be given to anyone suspected of crime, as by way of examination.
-# Whether The Seminal Loss That Occurs During Sleep Hinders Anyone From Receiving This Sacrament?
+## Whether The Seminal Loss That Occurs During Sleep Hinders Anyone From Receiving This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that seminal loss does not hinder anyone from receiving the body of Christ: because no one is prevented from receiving the body of Christ except on account of sin. But seminal loss happens without sin: for Augustine says (Gen. ad lit. xii) that "the same image that comes into the mind of a speaker may present itself to the mind of the sleeper, so that the latter be unable to distinguish the image from the reality, and is moved carnally and with the result that usually follows such motions; and there is as little sin in this as there is in speaking and therefore thinking about such things." Consequently these motions do not prevent one from receiving this sacrament.
 
@@ -183,7 +183,7 @@ Objection 4: Further, venial sin is no hindrance to receiving the sacrament, nor
 
 Objection 5: Further, a sin against the Fifth Commandment is greater than a sin against the Sixth. But if a man dream that he has broken the Fifth or Seventh or any other Commandment, he is not on that account debarred from receiving this sacrament. Therefore it seems that much less should he be debarred through defilement resulting from a dream against the Sixth Commandment.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lev. 15:16): "The man from whom the seed of copulation goeth out . . . shall be unclean until evening." But for the unclean there is no approaching to the sacraments. Therefore, it seems that owing to such defilement of the flesh a man is debarred from taking this which is the greatest of the sacraments.
 
@@ -199,7 +199,7 @@ In the same way too the corporeal cause can be without sin, as when it arises fr
 
 At the same time a sense of decency forbids Communion on two accounts. The first of these is always verified, viz. the bodily defilement, with which, out of reverence for the sacrament, it is unbecoming to approach the altar (and hence those who wish to touch any sacred object, wash their hands): except perchance such uncleanness be perpetual or of long standing, such as leprosy or issue of blood, or anything else of the kind. The other reason is the mental distraction which follows after the aforesaid movements, especially when they take place with unclean imaginings. Now this obstacle, which arises from a sense of decency, can be set aside owing to any necessity, as Gregory says (Regist. xi): "As when perchance either a festival day calls for it, or necessity compels one to exercise the ministry because there is no other priest at hand."
 
-## Replies
+### Replies
 
 Reply to Objection 1: A person is hindered necessarily, only by mortal sin, from receiving this sacrament: but from a sense of decency one may be hindered through other causes, as stated above.
 
@@ -210,9 +210,9 @@ Reply to Objection 3: As Gregory says in his Letter quoted above to Augustine, B
 Reply to Objection 4: Although the stain of guilt be taken away by contrition and confession nevertheless the bodily defilement is not taken away, nor the mental distraction which follows therefrom.
 
 Reply to Objection 5: To dream of homicide brings no bodily uncleanness, nor such distraction of mind as fornication, on account of its intense delectation; still if the dream of homicide comes of a cause sinful in itself, especially if it be mortal sin, then owing to its cause it hinders the receiving of this sacrament.
-# Whether Food Or Drink Taken Beforehand Hinders The Receiving Of This Sacrament?
+## Whether Food Or Drink Taken Beforehand Hinders The Receiving Of This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that food or drink taken beforehand does not hinder the receiving of this sacrament. For this sacrament was instituted by our Lord at the supper. But when the supper was ended our Lord gave the sacrament to His disciples, as is evident from Lk. 22:20, and from 1 Cor. 11:25. Therefore it seems that we ought to take this sacrament after receiving other food.
 
@@ -226,7 +226,7 @@ Objection 5: Further, some eat and drink late at night, and possibly after passi
 
 Objection 6: Further, there is no less reverence due to this sacrament after receiving it, than before. But one may take food and drink after receiving the sacrament. Therefore one may do so before receiving it.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Resp. ad Januar., Ep. liv): "It has pleased the Holy Ghost that, out of honor for this great sacrament, the Lord's body should enter the mouth of a Christian before other foods."
 
@@ -234,7 +234,7 @@ I answer that, A thing may prevent the receiving of this sacrament in two ways: 
 
 Nevertheless the sick are exempted from this general rule, for they should be given Communion at once, even after food, should there be any doubt as to their danger, lest they die without Communion, because necessity has no law. Hence it is said in the Canon de Consecratione: "Let the priest at once take Communion to the sick person, lest he die without Communion."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Augustine says in the same book, "the fact that our Lord gave this sacrament after taking food is no reason why the brethren should assemble after dinner or supper in order to partake of it, or receive it at meal-time, as did those whom the Apostle reproves and corrects. For our Saviour, in order the more strongly to commend the depth of this mystery, wished to fix it closely in the hearts and memories of the disciples. and on that account He gave no command for it to be received in that order, leaving this to the apostles, to whom He was about to entrust the government of the churches."
 
@@ -247,9 +247,9 @@ Reply to Objection 4: As stated in the [4652]SS, Q[147], A[6], ad 2, there are t
 Reply to Objection 5: That this sacrament ought to enter into the mouth of a Christian before any other food must not be understood absolutely of all time, otherwise he who had once eaten or drunk could never afterwards take this sacrament: but it must be understood of the same day; and although the beginning of the day varies according to different systems of reckoning (for some begin their day at noon, some at sunset, others at midnight, and others at sunrise), the Roman Church begins it at midnight. Consequently, if any person takes anything by way of food or drink after midnight, he may not receive this sacrament on that day; but he can do so if the food was taken before midnight. Nor does it matter, so far as the precept is concerned, whether he has slept after taking food or drink, or whether he has digested it; but it does matter as to the mental disturbance which one suffers from want of sleep or from indigestion, for, if the mind be much disturbed, one becomes unfit for receiving this sacrament.
 
 Reply to Objection 6: The greatest devotion is called for at the moment of receiving this sacrament, because it is then that the effect of the sacrament is bestowed, and such devotion is hindered more by what goes before it than by what comes after it. And therefore it was ordained that men should fast before receiving the sacrament rather than after. Nevertheless there ought to be some interval between receiving this sacrament and taking other food. Consequently, both the Postcommunion prayer of thanksgiving is said in the Mass, and the communicants say their own private prayers.
-# Whether Those Who Have Not The Use Of Reason Ought To Receive This Sacrament?
+## Whether Those Who Have Not The Use Of Reason Ought To Receive This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that those who have not the use of reason ought not to receive this sacrament. For it is required that man should approach this sacrament with devotion and previous self-examination, according to 1 Cor. 11:28: "Let a man prove himself, and so let him eat of that bread, and drink of the chalice." But this is not possible for those who are devoid of reason. Therefore this sacrament should not be given to them.
 
@@ -257,7 +257,7 @@ Objection 2: Further, among those who have not the use of reason are the possess
 
 Objection 3: Further, among those that lack the use of reason are children, the most innocent of all. But this sacrament is not given to children. Therefore much less should it be given to others deprived of the use of reason.
 
-## Answer
+### Answer
 
 On the contrary, We read in the First Council of Orange, (Canon 13); and the same is to be found in the Decretals (xxvi, 6): "All things that pertain to piety are to be given to the insane": and consequently, since this is the "sacrament of piety," it must be given to them.
 
@@ -265,16 +265,16 @@ I answer that, Men are said to be devoid of reason in two ways. First, when they
 
 In another way men are said not to possess fully the use of reason. Either, then, they never had the use of reason, and have remained so from birth; and in that case this sacrament is not to be given to them, because in no way has there been any preceding devotion towards the sacrament: or else, they were not always devoid of reason, and then, if when they formerly had their wits they showed devotion towards this sacrament, it ought to be given to them in the hour of death; unless danger be feared of vomiting or spitting it out. Hence we read in the acts of the Fourth Council of Carthage (Canon 76). and the same is to be found in the Decretals (xxvi, 6): "If a sick man ask to receive the sacrament of Penance; and if, when the priest who has been sent for comes to him, he be so weak as to be unable to speak, or becomes delirious, let them, who heard him ask, bear witness, and let him receive the sacrament of Penance. then if it be thought that he is going to die shortly, let him be reconciled by imposition of hands, and let the Eucharist be placed in his mouth."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Those lacking the use of reason can have devotion towards the sacrament; actual devotion in some cases, and past in others.
 
 Reply to Objection 2: Dionysius is speaking there of energumens who are not yet baptized, in whom the devil's power is not yet extinct, since it thrives in them through the presence of original sin. But as to baptized persons who are vexed in body by unclean spirits, the same reason holds good of them as of others who are demented. Hence Cassian says (Collat. vii): "We do not remember the most Holy Communion to have ever been denied by our elders to them who are vexed by unclean spirits."
 
 Reply to Objection 3: The same reason holds good of newly born children as of the insane who never have had the use of reason: consequently, the sacred mysteries are not to be given to them. Although certain Greeks do the contrary, because Dionysius says (Eccl. Hier. ii) that Holy Communion is to be given to them who are baptized; not understanding that Dionysius is speaking there of the Baptism of adults. Nor do they suffer any loss of life from the fact of our Lord saying (Jn. 6:54), "Except you eat the flesh of the Son of Man, and drink His blood, you shall not have life in you"; because, as Augustine writes to Boniface (Pseudo-Beda, Comment. in 1 Cor. 10:17), "then every one of the faithful becomes a partaker," i.e. spiritually, "of the body and blood of the Lord, when he is made a member of Christ's body in Baptism." But when children once begin to have some use of reason so as to be able to conceive some devotion for the sacrament, then it can be given to them.
-# Whether It Is Lawful To Receive This Sacrament Daily?
+## Whether It Is Lawful To Receive This Sacrament Daily?
 
-## Objections
+### Objections
 
 Objection 1: It does not appear to be lawful to receive this sacrament daily, because, as Baptism shows forth our Lord's Passion, so also does this sacrament. Now one may not be baptized several times, but only once, because "Christ died once" only "for our sins," according to 1 Pet. 3:18. Therefore, it seems unlawful to receive this sacrament daily.
 
@@ -286,13 +286,13 @@ Objection 4: Further, if it were a praiseworthy custom to receive this sacrament
 
 Objection 5: Further, the Church by her statutes intends to promote the welfare of the faithful. But the Church's statute only requires Communion once a year; hence it is enacted (Extra, De Poenit. et Remiss. xii): "Let every person of either sex devoutly receive the sacrament of the Eucharist at least at Easter; unless by the advice of his parish priest, and for some reasonable cause, he considers he ought to refrain from receiving for a time." Consequently, it is not praiseworthy to receive this sacrament daily.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Verb. Dom., Serm. xxviii): "This is our daily bread; take it daily, that it may profit thee daily."
 
 I answer that, There are two things to be considered regarding the use of this sacrament. The first is on the part of the sacrament itself, the virtue of which gives health to men; and consequently it is profitable to receive it daily so as to receive its fruits daily. Hence Ambrose says (De Sacram. iv): "If, whenever Christ's blood is shed, it is shed for the forgiveness of sins, I who sin often, should receive it often: I need a frequent remedy." The second thing to be considered is on the part of the recipient, who is required to approach this sacrament with great reverence and devotion. Consequently, if anyone finds that he has these dispositions every day, he will do well to receive it daily. Hence, Augustine after saying, "Receive daily, that it may profit thee daily," adds: "So live, as to deserve to receive it daily." But because many persons are lacking in this devotion, on account of the many drawbacks both spiritual and corporal from which they suffer, it is not expedient for all to approach this sacrament every day; but they should do so as often as they find themselves properly disposed. Hence it is said in De Eccles. Dogmat. liii: "I neither praise nor blame daily reception of the Eucharist."
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the sacrament of Baptism a man is conformed to Christ's death, by receiving His character within him. And therefore, as Christ died but once, so a man ought to be baptized but once. But a man does not receive Christ's character in this sacrament; He receives Christ Himself, Whose virtue endures for ever. Hence it is written (Heb. 10:14): "By one oblation He hath perfected for ever them that are sanctified." Consequently, since man has daily need of Christ's health-giving virtue, he may commendably receive this sacrament every day.
 
@@ -303,9 +303,9 @@ Reply to Objection 3: Reverence for this sacrament consists in fear associated w
 Reply to Objection 4: Because our Lord said (Lk. 11:3), "Give us this day our daily bread," we are not on that account to communicate several times daily, for, by one daily communion the unity of Christ's Passion is set forth.
 
 Reply to Objection 5: Various statutes have emanated according to the various ages of the Church. In the primitive Church, when the devotion of the Christian faith was more flourishing, it was enacted that the faithful should communicate daily: hence Pope Anaclete says (Ep. i): "When the consecration is finished, let all communicate who do not wish to cut themselves off from the Church; for so the apostles have ordained, and the holy Roman Church holds." Later on, when the fervor of faith relaxed, Pope Fabian (Third Council of Tours, Canon 1) gave permission "that all should communicate, if not more frequently, at least three times in the year, namely, at Easter, Pentecost, and Christmas." Pope Soter likewise (Second Council of Chalon, Canon xlvii) declares that Communion should be received "on Holy Thursday," as is set forth in the Decretals (De Consecratione, dist. 2). Later on, when "iniquity abounded and charity grew cold" (Mat. 24:12), Pope Innocent III commanded that the faithful should communicate "at least once a year," namely, "at Easter." However, in De Eccles. Dogmat. xxiii, the faithful are counseled "to communicate on all Sundays."
-# Whether It Is Lawful To Abstain Altogether From Communion?
+## Whether It Is Lawful To Abstain Altogether From Communion?
 
-## Objections
+### Objections
 
 Objection 1: It seems to be lawful to abstain altogether from Communion. Because the Centurion is praised for saying (Mat. 8:8): "Lord, I am not worthy that Thou shouldst enter under my roof"; and he who deems that he ought to refrain entirely from Communion can be compared to the Centurion, as stated above (A[10], ad 3). Therefore, since we do not read of Christ entering his house, it seems to be lawful for any individual to abstain from Communion his whole life long.
 
@@ -313,7 +313,7 @@ Objection 2: Further, it is lawful for anyone to refrain from what is not of nec
 
 Objection 3: Further, sinners are not bound to go to Communion: hence Pope Fabian (Third Council of Tours, Canon 1) after saying, "Let all communicate thrice each year," adds: "Except those who are hindered by grievous crimes." Consequently, if those who are not in the state of sin are bound to go to Communion, it seems that sinners are better off than good people, which is unfitting. Therefore, it seems lawful even for the godly to refrain from Communion.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord said (Jn. 6:54): "Except ye eat the flesh of the Son of Man, and drink His blood, you shall not have life in you."
 
@@ -321,16 +321,16 @@ I answer that, As stated above [4656](A[1]), there are two ways of receiving thi
 
 Now a desire would be vain except it were fulfilled when opportunity presented itself. Consequently, it is evident that a man is bound to receive this sacrament, not only by virtue of the Church's precept, but also by virtue of the Lord's command (Lk. 22:19): "Do this in memory of Me." But by the precept of the Church there are fixed times for fulfilling Christ's command.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Gregory says: "He is truly humble, who is not obstinate in rejecting what is commanded for his good." Consequently, humility is not praiseworthy if anyone abstains altogether from Communion against the precept of Christ and the Church. Again the Centurion was not commanded to receive Christ into his house.
 
 Reply to Objection 2: This sacrament is said not to be as necessary as Baptism, with regard to children, who can be saved without the Eucharist, but not without the sacrament of Baptism: both, however, are of necessity with regard to adults.
 
 Reply to Objection 3: Sinners suffer great loss in being kept back from receiving this sacrament, so that they are not better off on that account; and although while continuing in their sins they are not on that account excused from transgressing the precept, nevertheless, as Pope Innocent III says, penitents, "who refrain on the advice of their priest," are excused.
-# Whether It Is Lawful To Receive The Body Of Christ Without The Blood?
+## Whether It Is Lawful To Receive The Body Of Christ Without The Blood?
 
-## Objections
+### Objections
 
 Objection 1: It seems unlawful to receive the body of Christ without the blood. For Pope Gelasius says (cf. De Consecr. ii): "We have learned that some persons after taking only a portion of the sacred body, abstain from the chalice of the sacred blood. I know not for what superstitious motive they do this: therefore let them either receive the entire sacrament, or let them be withheld from the sacrament altogether." Therefore it is not lawful to receive the body of Christ without His blood.
 
@@ -338,7 +338,7 @@ Objection 2: Further, the eating of the body and the drinking of the blood are r
 
 Objection 3: Further, this sacrament is celebrated in memory of our Lord's Passion, as stated above ([4659]Q[73], AA[4],5;[4660] Q[74], A[1]), and is received for the health of soul. But the Passion is expressed in the blood rather than in the body; moreover, as stated above ([4661]Q[74], A[1]), the blood is offered for the health of the soul. Consequently, one ought to refrain from receiving the body rather than the blood. Therefore, such as approach this sacrament ought not to take Christ's body without His blood.
 
-## Answer
+### Answer
 
 On the contrary, It is the custom of many churches for the body of Christ to be given to the communicant without His blood.
 
@@ -346,7 +346,7 @@ I answer that, Two points should be observed regarding the use of this sacrament
 
 But on the part of the recipient the greatest reverence and caution are called for, lest anything happen which is unworthy of so great a mystery. Now this could especially happen in receiving the blood, for, if incautiously handled, it might easily be spilt. And because the multitude of the Christian people increased, in which there are old, young, and children, some of whom have not enough discretion to observe due caution in using this sacrament, on that account it is a prudent custom in some churches for the blood not to be offered to the reception of the people, but to be received by the priest alone.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Pope Gelasius is speaking of priests, who, as they consecrate the entire sacrament, ought to communicate in the entire sacrament. For, as we read in the (Twelfth) Council of Toledo, "What kind of a sacrifice is that, wherein not even the sacrificer is known to have a share?"
 

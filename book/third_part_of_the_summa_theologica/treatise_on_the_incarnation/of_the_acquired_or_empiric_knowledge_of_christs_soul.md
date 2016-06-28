@@ -5,9 +5,9 @@ We must now consider the acquired or empiric knowledge of Christ's soul; and und
 (2) Whether He advanced in this knowledge?
 (3) Whether He learned anything from man?
 (4) Whether He received anything from angels?
-# Whether Christ Knew All Things By This Acquired Or Empiric Knowledge?
+## Whether Christ Knew All Things By This Acquired Or Empiric Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ did not know everything by this knowledge. For this knowledge is acquired by experience. But Christ did not experience everything. Therefore He did not know everything by this knowledge.
 
@@ -15,22 +15,22 @@ Objection 2: Further, man acquires knowledge through the senses. But not all sen
 
 Objection 3: Further, the extent of knowledge depends on the things knowable. Therefore if Christ knew all things by this knowledge, His acquired knowledge would have been equal to His infused and beatific knowledge; which is not fitting. Therefore Christ did not know all things by this knowledge.
 
-## Answer
+### Answer
 
 On the contrary, Nothing imperfect was in Christ's soul. Now this knowledge of His would have been imperfect if He had not known all things by it, since the imperfect is that to which addition may be made. Hence Christ knew all things by this knowledge.
 
 I answer that, Acquired knowledge is held to be in Christ's soul, as we have said[3997] Q[9], A[4], by reason of the active intellect, lest its action, which is to make things actually intelligible, should be wanting; even as imprinted or infused knowledge is held to be in Christ's soul for the perfection of the passive intellect. Now as the passive intellect is that by which "all things are in potentiality," so the active intellect is that by which "all are in act," as is said De Anima iii, 18. And hence, as the soul of Christ knew by infused knowledge all things to which the passive intellect is in any way in potentiality, so by acquired knowledge it knew whatever can be known by the action of the active intellect.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The knowledge of things may be acquired not merely by experiencing the things themselves, but by experiencing other things; since by virtue of the light of the active intellect man can go on to understand effects from causes, and causes from effects, like from like, contrary from contrary. Therefore Christ, though He did not experience all things, came to the knowledge of all things from what He did experience.
 
 Reply to Objection 2: Although all sensible things were not subjected to Christ's bodily senses, yet other sensible things were subjected to His senses; and from this He could come to know other things by the most excellent force of His reason, in the manner described in the previous reply; just as in seeing heavenly bodies He could comprehend their powers and the effects they have upon things here below, which were not subjected to His senses; and for the same reason, from any other things whatsoever, He could come to the knowledge of yet other things.
 
 Reply to Objection 3: By this knowledge the soul of Christ did not know all things simply, but all such as are knowable by the light of man's active intellect. Hence by this knowledge He did not know the essences of separate substances, nor past, present, or future singulars, which, nevertheless, He knew by infused knowledge, as was said above ([3998]Q[11]).
-# Whether Christ Advanced In Acquired Or Empiric Knowledge?
+## Whether Christ Advanced In Acquired Or Empiric Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ did not advance in this knowledge. For even as Christ knew all things by His beatific and His infused knowledge, so also did He by this acquired knowledge, as is plain from what has been said [3999](A[1]). But He did not advance in these knowledges. Therefore neither in this.
 
@@ -38,7 +38,7 @@ Objection 2: Further, to advance belongs to the imperfect, since the perfect can
 
 Objection 3: Further, Damascene says (De Fide Orth. iii, 22): "Whoever say that Christ advanced in wisdom and grace, as if receiving additional sensations, do not venerate the union which is in hypostasis." But it is impious not to venerate this union. Therefore it is impious to say that His knowledge received increase.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lk. 2:52): "Jesus advanced in wisdom and age and grace with God and men"; and Ambrose says (De Incar. Dom. vii) that "He advanced in human wisdom." Now human wisdom is that which is acquired in a human manner, i.e. by the light of the active intellect. Therefore Christ advanced in this knowledge.
 
@@ -46,16 +46,16 @@ I answer that, There is a twofold advancement in knowledge: one in essence, inas
 
 But as regards the habit of knowledge, it is plain that His habit of infused knowledge did not increase, since from the beginning He had perfect infused knowledge of all things; and still less could His beatific knowledge increase; while in the [4000]FP, Q[14], A[15], we have already said that His Divine knowledge could not increase. Therefore, if in the soul of Christ there was no habit of acquired knowledge, beyond the habit of infused knowledge, as appears to some [*Blessed Albert the Great, Alexander of Hales, St. Bonaventure], and sometime appeared to me (Sent. iii, D, xiv), no knowledge in Christ increased in essence, but merely by experience, i.e. by comparing the infused intelligible species with phantasms. And in this way they maintain that Christ's knowledge grew in experience, e.g. by comparing the infused intelligible species with what He received through the senses for the first time. But because it seems unfitting that any natural intelligible action should be wanting to Christ, and because to extract intelligible species from phantasms is a natural action of man's active intellect, it seems becoming to place even this action in Christ. And it follows from this that in the soul of Christ there was a habit of knowledge which could increase by this abstraction of species; inasmuch as the active intellect, after abstracting the first intelligible species from phantasms, could abstract others, and others again.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Both the infused knowledge and the beatific knowledge of Christ's soul were the effects of an agent of infinite power, which could produce the whole at once; and thus in neither knowledge did Christ advance; since from the beginning He had them perfectly. But the acquired knowledge of Christ is caused by the active intellect which does not produce the whole at once, but successively; and hence by this knowledge Christ did not know everything from the beginning, but step by step, and after a time, i.e. in His perfect age; and this is plain from what the Evangelist says, viz. that He increased in "knowledge and age" together.
 
 Reply to Objection 2: Even this knowledge was always perfect for the time being, although it was not always perfect, simply and in comparison to the nature; hence it could increase.
 
 Reply to Objection 3: This saying of Damascene regards those who say absolutely that addition was made to Christ's knowledge, i.e. as regards any knowledge of His, and especially as regards the infused knowledge which is caused in Christ's soul by union with the Word; but it does not regard the increase of knowledge caused by the natural agent.
-# Whether Christ Learned Anything From Man?
+## Whether Christ Learned Anything From Man?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ learned something from man. For it is written (Lk. 2:46,47) that, "They found Him in the temple in the midst of the doctors, hearing them, and asking them questions." But to ask questions and to reply pertains to a learner. Therefore Christ learned something from man.
 
@@ -63,22 +63,22 @@ Objection 2: Further, to acquire knowledge from a man's teaching seems more nobl
 
 Objection 3: Further, by empiric knowledge Christ did not know everything from the beginning, but advanced in it, as was said above [4002](A[2]). But anyone hearing words which mean something, may learn something he does not know. Therefore Christ could learn from men something He did not know by this knowledge.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 45:4): "Behold, I have given Him for a witness to the people, for a leader and a master to the Gentiles." Now a master is not taught, but teaches. Therefore Christ did not receive any knowledge by the teaching of any man.
 
 I answer that, In every genus that which is the first mover is not moved according to the same species of movement; just as the first alterative is not itself altered. Now Christ is established by God the Head of the Church---yea, of all men, as was said above ([4003]Q[8], A[3]), so that not only all might receive grace through Him, but that all might receive the doctrine of Truth from Him. Hence He Himself says (Jn. 18:37): "For this was I born, and for this came I into the world; that I should give testimony to the truth." And thus it did not befit His dignity that He should be taught by any man.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Origen says (Hom. xix in Luc.): "Our Lord asked questions not in order to learn anything, but in order to teach by questioning. For from the same well of knowledge came the question and the wise reply." Hence the Gospel goes on to say that "all that heard Him were astonished at His wisdom and His answers."
 
 Reply to Objection 2: Whoever learns from man does not receive knowledge immediately from the intelligible species which are in his mind, but through sensible words, which are signs of intelligible concepts. Now as words formed by a man are signs of his intellectual knowledge; so are creatures, formed by God, signs of His wisdom. Hence it is written (Ecclus. 1:10) that God "poured" wisdom "out upon all His works." Hence, just as it is better to be taught by God than by man, so it is better to receive our knowledge from sensible creatures and not by man's teaching.
 
 Reply to Objection 3: Jesus advanced in empiric knowledge, as in age, as stated above [4004](A[2]). Now as a fitting age is required for a man to acquire knowledge by discovery, so also that he may acquire it by being taught. But our Lord did nothing unbecoming to His age; and hence He did not give ear to hearing the lessons of doctrine until such time as He was able to have reached that grade of knowledge by way of experience. Hence Gregory says (Sup. Ezech. Lib. i, Hom. ii): "In the twelfth year of His age He deigned to question men on earth, since in the course of reason, the word of doctrine is not vouchsafed before the age of perfection."
-# Whether Christ Received Knowledge From The Angels?
+## Whether Christ Received Knowledge From The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ received knowledge from the angels. For it is written (Lk. 22:43) that "there appeared to Him an angel from heaven, strengthening Him." But we are strengthened by the comforting words of a teacher, according to Job 4:3,4: "Behold thou hast taught many and hast strengthened the weary hand. Thy words have confirmed them that were staggering." Therefore Christ was taught by angels.
 
@@ -86,13 +86,13 @@ Objection 2: Further, Dionysius says (Coel. Hier. iv): "For I see that even Jesu
 
 Objection 3: Further, as in the natural order the human body is subject to the celestial bodies, so likewise is the human mind to angelic minds. Now Christ's body was subject to the impressions of the heavenly bodies, for He felt the heat in summer and the cold in winter, and other human passions. Therefore His human mind was subject to the illuminations of supercelestial spirits.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Coel. Hier. vii) that "the highest angels question Jesus, and learn the knowledge of His Divine work, and of the flesh assumed for us; and Jesus teaches them directly." Now to teach and to be taught do not belong to the same. Therefore Christ did not receive knowledge from the angels.
 
 I answer that, Since the human soul is midway between spiritual substances and corporeal things, it is perfected naturally in two ways. First by knowledge received from sensible things; secondly, by knowledge imprinted or infused by the illumination of spiritual substances. Now in both these ways the soul of Christ was perfected; first by empirical knowledge of sensible things, for which there is no need of angelic light, since the light of the active intellect suffices; secondly, by the higher impression of infused knowledge, which He received directly from God. For as His soul was united to the Word above the common mode, in unity of person, so above the common manner of men was it filled with knowledge and grace by the Word of God Himself; and not by the medium of angels, who in their beginning received the knowledge of things by the influence of the Word, as Augustine says (Gen. ad lit. ii, 8).
 
-## Replies
+### Replies
 
 Reply to Objection 1: This strengthening by the angel was for the purpose not of instructing Him, but of proving the truth of His human nature. Hence Bede says (on Lk. 22:43): "In testimony of both natures are the angels said to have ministered to Him and to have strengthened Him. For the Creator did not need help from His creature; but having become man, even as it was for our sake that He was sad, so was it for our sake that He was strengthened," i.e. in order that our faith in the Incarnation might be strengthened.
 

@@ -5,9 +5,9 @@
 (2) Whether slight or contempt is the sole motive of anger?
 (3) Of the cause of anger on the part of the angry person;
 (4) Of the cause of anger on the part of the person with whom one is angry.
-# Whether The Motive Of Anger Is Always Something Done Against The One Who Is Angry?
+## Whether The Motive Of Anger Is Always Something Done Against The One Who Is Angry?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the motive of anger is not always something done against the one who is angry. Because man, by sinning, can do nothing against God; since it is written (Job 35:6): "If thy iniquities be multiplied, what shalt thou do against Him?" And yet God is spoken of as being angry with man on account of sin, according to Ps. 105:40: "The Lord was exceedingly angry with His people." Therefore it is not always on account of something done against him, that a man is angry.
 
@@ -17,13 +17,13 @@ Objection 3: Further, as the Philosopher says (Rhet. ii, 2) man is angry especia
 
 Objection 4: Further, he that holds his tongue when another insults him, provokes him to greater anger, as Chrysostom observes (Hom. xxii, in Ep. ad Rom.). But by holding his tongue he does the other no harm. Therefore a man is not always provoked to anger by something done against him.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Rhet. ii, 4) that "anger is always due to something done to oneself: whereas hatred may arise without anything being done to us, for we hate a man simply because we think him such."
 
 I answer that, As stated above ([1428]Q[46], A[6]), anger is the desire to hurt another for the purpose of just vengeance. Now unless some injury has been done, there is no question of vengeance: nor does any injury provoke one to vengeance, but only that which is done to the person who seeks vengeance: for just as everything naturally seeks its own good, so does it naturally repel its own evil. But injury done by anyone does not affect a man unless in some way it be something done against him. Consequently the motive of a man's anger is always something done against him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We speak of anger in God, not as of a passion of the soul but as of judgment of justice, inasmuch as He wills to take vengeance on sin. Because the sinner, by sinning, cannot do God any actual harm: but so far as he himself is concerned, he acts against God in two ways. First, in so far as he despises God in His commandments. Secondly, in so far as he harms himself or another; which injury redounds to God, inasmuch as the person injured is an object of God's providence and protection.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: If we are angry with those who harm others, and seek to be
 Reply to Objection 3: When we take a very great interest in a thing, we look upon it as our own good; so that if anyone despise it, it seems as though we ourselves were despised and injured.
 
 Reply to Objection 4: Silence provokes the insulter to anger when he thinks it is due to contempt, as though his anger were slighted: and a slight is an action.
-# Whether The Sole Motive Of Anger Is Slight Or Contempt?
+## Whether The Sole Motive Of Anger Is Slight Or Contempt?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that slight or contempt is not the sole motive of anger. For Damascene says (De Fide Orth. ii, 16) that we are angry "when we suffer, or think that we are suffering, an injury." But one may suffer an injury without being despised or slighted. Therefore a slight is not the only motive of anger.
 
@@ -42,7 +42,7 @@ Objection 2: Further, desire for honor and grief for a slight belong to the same
 
 Objection 3: Further, the Philosopher (Rhet. ii, 2) gives many other causes of anger, for instance, "being forgotten by others; that others should rejoice in our misfortunes; that they should make known our evils; being hindered from doing as we like." Therefore being slighted is not the only motive for being angry.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Rhet. ii, 2) that anger is "a desire, with sorrow, for vengeance, on account of a seeming slight done unbecomingly."
 
@@ -50,16 +50,16 @@ I answer that, All the causes of anger are reduced to slight. For slight is of t
 
 The second reason is because a slight is opposed to a man's excellence: because "men think little of things that are not worth much ado" (Rhet. ii, 2). Now we seek for some kind of excellence from all our goods. Consequently whatever injury is inflicted on us, in so far as it is derogatory to our excellence, seems to savor of a slight.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Any other cause, besides contempt, through which a man suffers an injury, takes away from the notion of injury: contempt or slight alone adds to the motive of anger, and consequently is of itself the cause of anger.
 
 Reply to Objection 2: Although a dumb animal does not seek honor as such, yet it naturally seeks a certain superiority, and is angry with anything derogatory thereto.
 
 Reply to Objection 3: Each of those causes amounts to some kind of slight. Thus forgetfulness is a clear sign of slight esteem, for the more we think of a thing the more is it fixed in our memory. Again if a man does not hesitate by his remarks to give pain to another, this seems to show that he thinks little of him: and those too who show signs of hilarity when another is in misfortune, seem to care little about his good or evil. Again he that hinders another from carrying out his will, without deriving thereby any profit to himself, seems not to care much for his friendship. Consequently all those things, in so far as they are signs of contempt, provoke anger.
-# Whether A Man's Excellence Is The Cause Of His Being Angry?
+## Whether A Man's Excellence Is The Cause Of His Being Angry?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man's excellence is not the cause of his being more easily angry. For the Philosopher says (Rhet. ii, 2) that "some are angry especially when they are grieved, for instance, the sick, the poor, and those who are disappointed." But these things seem to pertain to defect. Therefore defect rather than excellence makes one prone to anger.
 
@@ -67,7 +67,7 @@ Objection 2: Further, the Philosopher says (Rhet. ii, 2) that "some are very muc
 
 Objection 3: Further, whatever savors of excellence makes a man agreeable and hopeful. But the Philosopher says (Rhet. ii, 3) that "men are not angry when they play, make jokes, or take part in a feast, nor when they are prosperous or successful, nor in moderate pleasures and well-founded hope." Therefore excellence is not a cause of anger.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Rhet. ii, 9) that excellence makes men prone to anger.
 
@@ -77,14 +77,14 @@ Secondly, the cause of anger, in the man who is angry, may be considered on the 
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: If a man be despised in a matter in which he evidently excels greatly, he does not consider himself the loser thereby, and therefore is not grieved: and in this respect he is less angered. But in another respect, in so far as he is more undeservedly despised, he has more reason for being angry: unless perhaps he thinks that he is envied or insulted not through contempt but through ignorance, or some other like cause.
 
 Reply to Objection 3: All these things hinder anger in so far as they hinder sorrow. But in another respect they are naturally apt to provoke anger, because they make it more unseemly to insult anyone.
-# Whether A Person's Defect Is A Reason For Being More Easily Angry With Him?
+## Whether A Person's Defect Is A Reason For Being More Easily Angry With Him?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a person's defect is not a reason for being more easily angry with him. For the Philosopher says (Rhet. ii, 3) that "we are not angry with those who confess and repent and humble themselves; on the contrary, we are gentle with them. Wherefore dogs bite not those who sit down." But these things savor of littleness and defect. Therefore littleness of a person is a reason for being less angry with him.
 
@@ -92,7 +92,7 @@ Objection 2: Further, there is no greater defect than death. But anger ceases at
 
 Objection 3: Further, no one thinks little of a man through his being friendly towards him. But we are more angry with friends, if they offend us or refuse to help us; hence it is written (Ps. 54:13): "If my enemy had reviled me I would verily have borne with it." Therefore a person's defect is not a reason for being more easily angry with him.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Rhet. ii, 2) that "the rich man is angry with the poor man, if the latter despise him; and in like manner the prince is angry with his subject."
 
@@ -102,7 +102,7 @@ If, however, the littleness or deficiency lessens the unmerited contempt, then i
 
 This suffices for the Reply to the First Objection.
 
-## Replies
+### Replies
 
 Reply to Objection 2: There are two reasons why anger ceases at the sight of death. One is because the dead are incapable of sorrow and sensation; and this is chiefly what the angry seek in those with whom they are angered. Another reason is because the dead seem to have attained to the limit of evils. Hence anger ceases in regard to all who are grievously hurt, in so far as this hurt surpasses the measure of just retaliation.
 

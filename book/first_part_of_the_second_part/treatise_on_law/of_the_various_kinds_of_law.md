@@ -7,9 +7,9 @@ We must now consider the various kinds of law: under which head there are six po
 (4) Whether there is a Divine law?
 (5) Whether there is one Divine law, or several?
 (6) Whether there is a law of sin?
-# Whether There Is An Eternal Law?
+## Whether There Is An Eternal Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no eternal law. Because every law is imposed on someone. But there was not someone from eternity on whom a law could be imposed: since God alone was from eternity. Therefore no law is eternal.
 
@@ -17,22 +17,22 @@ Objection 2: Further, promulgation is essential to law. But promulgation could n
 
 Objection 3: Further, a law implies order to an end. But nothing ordained to an end is eternal: for the last end alone is eternal. Therefore no law is eternal.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Lib. Arb. i, 6): "That Law which is the Supreme Reason cannot be understood to be otherwise than unchangeable and eternal."
 
 I answer that, As stated above (Q[90], A[1], ad 2; [1960]AA[3],4), a law is nothing else but a dictate of practical reason emanating from the ruler who governs a perfect community. Now it is evident, granted that the world is ruled by Divine Providence, as was stated in the [1961]FP, Q[22], AA[1],2, that the whole community of the universe is governed by Divine Reason. Wherefore the very Idea of the government of things in God the Ruler of the universe, has the nature of a law. And since the Divine Reason's conception of things is not subject to time but is eternal, according to Prov. 8:23, therefore it is that this kind of law must be called eternal.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Those things that are not in themselves, exist with God, inasmuch as they are foreknown and preordained by Him, according to Rom. 4:17: "Who calls those things that are not, as those that are." Accordingly the eternal concept of the Divine law bears the character of an eternal law, in so far as it is ordained by God to the government of things foreknown by Him.
 
 Reply to Objection 2: Promulgation is made by word of mouth or in writing; and in both ways the eternal law is promulgated: because both the Divine Word and the writing of the Book of Life are eternal. But the promulgation cannot be from eternity on the part of the creature that hears or reads.
 
 Reply to Objection 3: The law implies order to the end actively, in so far as it directs certain things to the end; but not passively---that is to say, the law itself is not ordained to the end---except accidentally, in a governor whose end is extrinsic to him, and to which end his law must needs be ordained. But the end of the Divine government is God Himself, and His law is not distinct from Himself. Wherefore the eternal law is not ordained to another end.
-# Whether There Is In Us A Natural Law?
+## Whether There Is In Us A Natural Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no natural law in us. Because man is governed sufficiently by the eternal law: for Augustine says (De Lib. Arb. i) that "the eternal law is that by which it is right that all things should be most orderly." But nature does not abound in superfluities as neither does she fail in necessaries. Therefore no law is natural to man.
 
@@ -40,22 +40,22 @@ Objection 2: Further, by the law man is directed, in his acts, to the end, as st
 
 Objection 3: Further, the more a man is free, the less is he under the law. But man is freer than all the animals, on account of his free-will, with which he is endowed above all other animals. Since therefore other animals are not subject to a natural law, neither is man subject to a natural law.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on Rom. 2:14: "When the Gentiles, who have not the law, do by nature those things that are of the law," comments as follows: "Although they have no written law, yet they have the natural law, whereby each one knows, and is conscious of, what is good and what is evil."
 
 I answer that, As stated above (Q[90], A[1], ad 1), law, being a rule and measure, can be in a person in two ways: in one way, as in him that rules and measures; in another way, as in that which is ruled and measured, since a thing is ruled and measured, in so far as it partakes of the rule or measure. Wherefore, since all things subject to Divine providence are ruled and measured by the eternal law, as was stated above [1963](A[1]); it is evident that all things partake somewhat of the eternal law, in so far as, namely, from its being imprinted on them, they derive their respective inclinations to their proper acts and ends. Now among all others, the rational creature is subject to Divine providence in the most excellent way, in so far as it partakes of a share of providence, by being provident both for itself and for others. Wherefore it has a share of the Eternal Reason, whereby it has a natural inclination to its proper act and end: and this participation of the eternal law in the rational creature is called the natural law. Hence the Psalmist after saying (Ps. 4:6): "Offer up the sacrifice of justice," as though someone asked what the works of justice are, adds: "Many say, Who showeth us good things?" in answer to which question he says: "The light of Thy countenance, O Lord, is signed upon us": thus implying that the light of natural reason, whereby we discern what is good and what is evil, which is the function of the natural law, is nothing else than an imprint on us of the Divine light. It is therefore evident that the natural law is nothing else than the rational creature's participation of the eternal law.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument would hold, if the natural law were something different from the eternal law: whereas it is nothing but a participation thereof, as stated above.
 
 Reply to Objection 2: Every act of reason and will in us is based on that which is according to nature, as stated above ([1964]Q[10], A[1]): for every act of reasoning is based on principles that are known naturally, and every act of appetite in respect of the means is derived from the natural appetite in respect of the last end. Accordingly the first direction of our acts to their end must needs be in virtue of the natural law.
 
 Reply to Objection 3: Even irrational animals partake in their own way of the Eternal Reason, just as the rational creature does. But because the rational creature partakes thereof in an intellectual and rational manner, therefore the participation of the eternal law in the rational creature is properly called a law, since a law is something pertaining to reason, as stated above ([1965]Q[90], A[1]). Irrational creatures, however, do not partake thereof in a rational manner, wherefore there is no participation of the eternal law in them, except by way of similitude.
-# Whether There Is A Human Law?
+## Whether There Is A Human Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is not a human law. For the natural law is a participation of the eternal law, as stated above [1966](A[2]). Now through the eternal law "all things are most orderly," as Augustine states (De Lib. Arb. i, 6). Therefore the natural law suffices for the ordering of all human affairs. Consequently there is no need for a human law.
 
@@ -63,22 +63,22 @@ Objection 2: Further, a law bears the character of a measure, as stated above ([
 
 Objection 3: Further, a measure should be most certain, as stated in Metaph. x, text. 3. But the dictates of human reason in matters of conduct are uncertain, according to Wis. 9:14: "The thoughts of mortal men are fearful, and our counsels uncertain." Therefore no law can emanate from human reason.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (De Lib. Arb. i, 6) distinguishes two kinds of law, the one eternal, the other temporal, which he calls human.
 
 I answer that, As stated above ([1968]Q[90], A[1], ad 2), a law is a dictate of the practical reason. Now it is to be observed that the same procedure takes place in the practical and in the speculative reason: for each proceeds from principles to conclusions, as stated above (De Lib. Arb. i, 6). Accordingly we conclude that just as, in the speculative reason, from naturally known indemonstrable principles, we draw the conclusions of the various sciences, the knowledge of which is not imparted to us by nature, but acquired by the efforts of reason, so too it is from the precepts of the natural law, as from general and indemonstrable principles, that the human reason needs to proceed to the more particular determination of certain matters. These particular determinations, devised by human reason, are called human laws, provided the other essential conditions of law be observed, as stated above ([1969]Q[90], AA[2],3,4). Wherefore Tully says in his Rhetoric (De Invent. Rhet. ii) that "justice has its source in nature; thence certain things came into custom by reason of their utility; afterwards these things which emanated from nature and were approved by custom, were sanctioned by fear and reverence for the law."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The human reason cannot have a full participation of the dictate of the Divine Reason, but according to its own mode, and imperfectly. Consequently, as on the part of the speculative reason, by a natural participation of Divine Wisdom, there is in us the knowledge of certain general principles, but not proper knowledge of each single truth, such as that contained in the Divine Wisdom; so too, on the part of the practical reason, man has a natural participation of the eternal law, according to certain general principles, but not as regards the particular determinations of individual cases, which are, however, contained in the eternal law. Hence the need for human reason to proceed further to sanction them by law.
 
 Reply to Objection 2: Human reason is not, of itself, the rule of things: but the principles impressed on it by nature, are general rules and measures of all things relating to human conduct, whereof the natural reason is the rule and measure, although it is not the measure of things that are from nature.
 
 Reply to Objection 3: The practical reason is concerned with practical matters, which are singular and contingent: but not with necessary things, with which the speculative reason is concerned. Wherefore human laws cannot have that inerrancy that belongs to the demonstrated conclusions of sciences. Nor is it necessary for every measure to be altogether unerring and certain, but according as it is possible in its own particular genus.
-# Whether There Was Any Need For A Divine Law?
+## Whether There Was Any Need For A Divine Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there was no need for a Divine law. Because, as stated above [1970](A[2]), the natural law is a participation in us of the eternal law. But the eternal law is a Divine law, as stated above [1971](A[1]). Therefore there was no need for a Divine law in addition to the natural law, and human laws derived therefrom.
 
@@ -86,7 +86,7 @@ Objection 2: Further, it is written (Ecclus. 15:14) that "God left man in the ha
 
 Objection 3: Further, human nature is more self-sufficing than irrational creatures. But irrational creatures have no Divine law besides the natural inclination impressed on them. Much less, therefore, should the rational creature have a Divine law in addition to the natural law.
 
-## Answer
+### Answer
 
 On the contrary, David prayed God to set His law before him, saying (Ps. 118:33): "Set before me for a law the way of Thy justifications, O Lord."
 
@@ -100,16 +100,16 @@ Fourthly, because, as Augustine says (De Lib. Arb. i, 5,6), human law cannot pun
 
 And these four causes are touched upon in Ps. 118:8, where it is said: "The law of the Lord is unspotted," i.e. allowing no foulness of sin; "converting souls," because it directs not only exterior, but also interior acts; "the testimony of the Lord is faithful," because of the certainty of what is true and right; "giving wisdom to little ones," by directing man to an end supernatural and Divine.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By the natural law the eternal law is participated proportionately to the capacity of human nature. But to his supernatural end man needs to be directed in a yet higher way. Hence the additional law given by God, whereby man shares more perfectly in the eternal law.
 
 Reply to Objection 2: Counsel is a kind of inquiry: hence it must proceed from some principles. Nor is it enough for it to proceed from principles imparted by nature, which are the precepts of the natural law, for the reasons given above: but there is need for certain additional principles, namely, the precepts of the Divine law.
 
 Reply to Objection 3: Irrational creatures are not ordained to an end higher than that which is proportionate to their natural powers: consequently the comparison fails.
-# Whether There Is But One Divine Law?
+## Whether There Is But One Divine Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is but one Divine law. Because, where there is one king in one kingdom there is but one law. Now the whole of mankind is compared to God as to one king, according to Ps. 46:8: "God is the King of all the earth." Therefore there is but one Divine law.
 
@@ -117,7 +117,7 @@ Objection 2: Further, every law is directed to the end which the lawgiver intend
 
 Objection 3: Further, the Divine law seems to be more akin to the eternal law, which is one, than the natural law, according as the revelation of grace is of a higher order than natural knowledge. Therefore much more is the Divine law but one.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Heb. 7:12): "The priesthood being translated, it is necessary that a translation also be made of the law." But the priesthood is twofold, as stated in the same passage, viz. the levitical priesthood, and the priesthood of Christ. Therefore the Divine law is twofold, namely the Old Law and the New Law.
 
@@ -129,16 +129,16 @@ Secondly, it belongs to the law to direct human acts according to the order of r
 
 Thirdly, it belongs to the law to induce men to observe its commandments. This the Old Law did by the fear of punishment: but the New Law, by love, which is poured into our hearts by the grace of Christ, bestowed in the New Law, but foreshadowed in the Old. Hence Augustine says (Contra Adimant. Manich. discip. xvii) that "there is little difference [*The 'little difference' refers to the Latin words 'timor' and 'amor'---'fear' and 'love.'] between the Law and the Gospel---fear and love."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As the father of a family issues different commands to the children and to the adults, so also the one King, God, in His one kingdom, gave one law to men, while they were yet imperfect, and another more perfect law, when, by the preceding law, they had been led to a greater capacity for Divine things.
 
 Reply to Objection 2: The salvation of man could not be achieved otherwise than through Christ, according to Acts 4:12: "There is no other name . . . given to men, whereby we must be saved." Consequently the law that brings all to salvation could not be given until after the coming of Christ. But before His coming it was necessary to give to the people, of whom Christ was to be born, a law containing certain rudiments of righteousness unto salvation, in order to prepare them to receive Him.
 
 Reply to Objection 3: The natural law directs man by way of certain general precepts, common to both the perfect and the imperfect: wherefore it is one and the same for all. But the Divine law directs man also in certain particular matters, to which the perfect and imperfect do not stand in the same relation. Hence the necessity for the Divine law to be twofold, as already explained.
-# Whether There Is A Law In The Fomes Of Sin?
+## Whether There Is A Law In The Fomes Of Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no law of the "fomes" of sin. For Isidore says (Etym. v) that the "law is based on reason." But the "fomes" of sin is not based on reason, but deviates from it. Therefore the "fomes" has not the nature of a law.
 
@@ -146,7 +146,7 @@ Objection 2: Further, every law is binding, so that those who do not obey it are
 
 Objection 3: Further, the law is ordained to the common good, as stated above ([1977]Q[90], A[2]). But the "fomes" inclines us, not to the common, but to our own private good. Therefore the "fomes" has not the nature of sin.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Rom. 7:23): "I see another law in my members, fighting against the law of my mind."
 
@@ -156,7 +156,7 @@ Accordingly under the Divine Lawgiver various creatures have various natural inc
 
 So, then, this very inclination of sensuality which is called the "fomes," in other animals has simply the nature of a law (yet only in so far as a law may be said to be in such things), by reason of a direct inclination. But in man, it has not the nature of law in this way, rather is it a deviation from the law of reason. But since, by the just sentence of God, man is destitute of original justice, and his reason bereft of its vigor, this impulse of sensuality, whereby he is led, in so far as it is a penalty following from the Divine law depriving man of his proper dignity, has the nature of a law.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument considers the "fomes" in itself, as an incentive to evil. It is not thus that it has the nature of a law, as stated above, but according as it results from the justice of the Divine law: it is as though we were to say that the law allows a nobleman to be condemned to hard labor for some misdeed.
 

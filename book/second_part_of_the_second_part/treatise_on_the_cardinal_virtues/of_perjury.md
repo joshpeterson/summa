@@ -5,9 +5,9 @@ We must now consider perjury: under which head there are four points of inquiry:
 (2) Whether perjury is always a sin?
 (3) Whether it is always a mortal sin?
 (4) Whether it is a sin to enjoin an oath on a perjurer?
-# Whether It Is Necessary For Perjury That The Statement Confirmed On Oath Be False?
+## Whether It Is Necessary For Perjury That The Statement Confirmed On Oath Be False?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not necessary for perjury that the statement confirmed on oath be false. As stated above ([3130]Q[89], A[3]), an oath should be accompanied by judgment and justice no less than by truth. Since therefore perjury is incurred through lack of truth, it is incurred likewise through lack of judgment, as when one swears indiscreetly, and through lack of justice, as when one swears to something unjust.
 
@@ -15,22 +15,22 @@ Objection 2: Further, that which confirms is more weighty than the thing confirm
 
 Objection 3: Further, Augustine says (De Verb. Apost. Jacobi; Serm. clxxx): "Men swear falsely both in deceiving others and when they are deceived themselves"; and he gives three examples. The first is: "Supposing a man to swear, thinking that what he swears to is true, whereas it is false"; the second is: "Take the instance of another who knows the statement to be false, and swears to it as though it were true"; and the third is: "Take another, who thinks his statement false, and swears to its being true, while perhaps it is true," of whom he says afterwards that he is a perjurer. Therefore one may be a perjurer while swearing to the truth. Therefore falsehood is not necessary for perjury.
 
-## Answer
+### Answer
 
 On the contrary, Perjury is defined "a falsehood confirmed by oath" [*Hugh of St. Victor, Sum. Sent. iv, 5].
 
 I answer that, As stated above ([3131]Q[92], A[2]), moral acts take their species from their end. Now the end of an oath is the confirmation of a human assertion. To this confirmation falsehood is opposed: since an assertion is confirmed by being firmly shown to be true; and this cannot happen to that which is false. Hence falsehood directly annuls the end of an oath: and for this reason, that perversity in swearing, which is called perjury, takes its species chiefly from falsehood. Consequently falsehood is essential to perjury.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Jerome says on Jer. 4:2, "whichever of these three be lacking, there is perjury," but in different order. For first and chiefly perjury consists in a lack of truth, for the reason stated in the Article. Secondly, there is perjury when justice is lacking, for in whatever way a man swears to that which is unlawful, for this very reason he is guilty of falsehood, since he is under an obligation to do the contrary. Thirdly, there is perjury when judgment is lacking, since by the very fact that a man swears indiscreetly, he incurs the danger of lapsing into falsehood.
 
 Reply to Objection 2: In syllogisms the premises are of greater weight, since they are in the position of active principle, as stated in Phys. ii, 3: whereas in moral matters the end is of greater importance than the active principle. Hence though it is a perverse oath when a man swears to the truth by false gods, yet perjury takes its name from that kind of perversity in an oath, that deprives the oath of its end, by swearing what is false.
 
 Reply to Objection 3: Moral acts proceed from the will, whose object is the apprehended good. Wherefore if the false be apprehended as true, it will be materially false, but formally true, as related to the will. If something false be apprehended as false, it will be false both materially and formally. If that which is true be apprehended as false, it will be materially true, and formally false. Hence in each of these cases the conditions required for perjury are to be found in some way, on account of some measure of falsehood. Since, however, that which is formal in anything is of greater importance than that which is material, he that swears to a falsehood thinking it true is not so much of a perjurer as he that swears to the truth thinking it false. For Augustine says (De Verb. Apost. Jacobi; Serm. clxxx): "It depends how the assertion proceeds from the mind, for the tongue is not guilty except the mind be guilty."
-# Whether All Perjury Is Sinful?
+## Whether All Perjury Is Sinful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not all perjury is sinful. Whoever does not fulfil what he has confirmed on oath is seemingly a perjurer. Yet sometimes a man swears he will do something unlawful (adultery, for instance, or murder): and if he does it, he commits a sin. If therefore he would commit a sin even if he did it not, it would follow that he is perplexed.
 
@@ -40,13 +40,13 @@ Objection 3: Further, he that swears to do another's will would seem to be guilt
 
 Objection 4: Further, a promissory oath extends to future, just as a declaratory oath extends to past and present things. Now the obligation of an oath may be removed by some future occurrence: thus a state may swear to fulfil some obligation, and afterwards other citizens come on the scene who did not take the oath; or a canon may swear to keep the statutes of a certain church, and afterwards new statutes are made. Therefore seemingly he that breaks an oath does not sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Verb. Apost. Jacobi; Serm. cxxx), in speaking of perjury: "See how you should detest this horrible beast and exterminate it from all human business."
 
 I answer that, As stated above ([3132]Q[89], A[1]), to swear is to call God as witness. Now it is an irreverence to God to call Him to witness to a falsehood, because by so doing one implies either that God ignores the truth or that He is willing to bear witness to a falsehood. Therefore perjury is manifestly a sin opposed to religion, to which it belongs to show reverence to God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: He that swears to do what is unlawful is thereby guilty of perjury through lack of justice: though, if he fails to keep his oath, he is not guilty of perjury in this respect, since that which he swore to do was not a fit matter of an oath.
 
@@ -55,28 +55,28 @@ Reply to Objection 2: A person who swears not to enter religion, or not to give 
 Reply to Objection 3: When one man swears or promises to do another's will, there is to be understood this requisite condition---that the thing commanded be lawful and virtuous, and not unbearable or immoderate.
 
 Reply to Objection 4: An oath is a personal act, and so when a man becomes a citizen of a state, he is not bound, as by oath, to fulfil whatever the state has sworn to do. Yet he is bound by a kind of fidelity, the nature of which obligation is that he should take his share of the state's burdens if he takes a share of its goods.
-# Whether All Perjury Is A Mortal Sin?
+## Whether All Perjury Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that not all perjury is a mortal sin. It is laid down (Extra, De Jurejur, cap. Verum): "Referring to the question whether an oath is binding on those who have taken one in order to safeguard their life and possessions, we have no other mind than that which our predecessors the Roman Pontiffs are known to have had, and who absolved such persons from the obligations of their oath. Henceforth, that discretion may be observed, and in order to avoid occasions of perjury, let them not be told expressly not to keep their oath: but if they should not keep it, they are not for this reason to be punished as for a mortal sin." Therefore not all perjury is a mortal sin.
 
 
 
-## Answer
+### Answer
 
 On the contrary, Every sin that is contrary to a divine precept is a mortal sin. Now perjury is contrary to a divine precept, for it is written (Lev. 19:12): "Thou shalt not swear falsely by My name." Therefore it is a mortal sin.
 
 I answer that, According to the teaching of the Philosopher (Poster. i, 2), "that which causes a thing to be such is yet more so." Now we know that an action which is, by reason of its very nature, a venial sin, or even a good action, is a mortal sin if it be done out of contempt of God. Wherefore any action that of its nature, implies contempt of God is a mortal sin. Now perjury, of its very nature implies contempt of God, since, as stated above [3134](A[2]), the reason why it is sinful is because it is an act of irreverence towards God. Therefore it is manifest that perjury, of its very nature, is a mortal sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([3135]Q[89], A[7], ad 3), coercion does not deprive a promissory oath of its binding force, as regards that which can be done lawfully. Wherefore he who fails to fulfil an oath which he took under coercion is guilty of perjury and sins mortally. Nevertheless the Sovereign Pontiff can, by his authority, absolve a man from an obligation even of an oath, especially if the latter should have been coerced into taking the oath through such fear as may overcome a high-principled man.
 
 Reply to Objection 2: He that swears falsely in fun is nonetheless irreverent to God, indeed, in a way, he is more so, and consequently is not excused from mortal sin. He that swears falsely by a slip of tongue, if he adverts to the fact that he is swearing, and that he is swearing to something false, is not excused from mortal sin, as neither is he excused from contempt of God. If, however, he does not advert to this, he would seem to have no intention of swearing, and consequently is excused from the sin of perjury.
-# Whether He Sins Who Demands An Oath Of A Perjurer?
+## Whether He Sins Who Demands An Oath Of A Perjurer?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that he who demands an oath of a perjurer commits a sin. Either he knows that he swears truly, or he knows that he swears falsely. If he knows him to swear truly, it is useless for him to demand an oath: and if he believes him to swear falsely, for his own part he leads him into sin. Therefore nowise seemingly should one enjoin an oath on another person.
 
@@ -86,7 +86,7 @@ Objection 3: Further, it is written (Lev. 5:1): "If anyone sin, and hear the voi
 
 Objection 4: On the other hand, Just as it is a sin to swear falsely so is it to swear by false gods. Yet it is lawful to take advantage of an oath of one who has sworn by false gods, as Augustine says (ad Public. Ep. xlvii). Therefore it is lawful to demand an oath from one who swears falsely.
 
-## Answer
+### Answer
 
 
 
@@ -94,7 +94,7 @@ I answer that, As regards a person who demands an oath from another, a distincti
 
 If, on the other hand, a man demands an oath as a public person, in accordance with the requirements of the law, on the requisition of a third person: he does not seem to be at fault, if he demands an oath of a person, whether he knows that he will swear falsely or truly, because seemingly it is not he that exacts the oath but the person at whose instance he demands it.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument avails in the case of one who demands an oath on his own account. Yet he does not always know that the other will swear truly or falsely, for at times he has doubts about the fact, and believes he will swear truly. In such a case he exacts an oath in order that he may be more certain.
 

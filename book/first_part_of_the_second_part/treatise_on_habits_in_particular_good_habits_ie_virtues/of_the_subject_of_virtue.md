@@ -7,9 +7,9 @@ We now have to consider the subject of virtue, about which there are six points 
 (4) Whether the irascible and concupiscible faculties can be the subject of virtue?
 (5) Whether the sensitive powers of apprehension can be the subject of virtue?
 (6) Whether the will can be the subject of virtue?
-# Whether The Subject Of Virtue Is A Power Of The Soul?
+## Whether The Subject Of Virtue Is A Power Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the subject of virtue is not a power of the soul. For Augustine says (De Lib. Arb. ii, 19) that "virtue is that by which we live righteously." But we live by the essence of the soul, and not by a power of the soul. Therefore virtue is not a power, but in the essence of the soul.
 
@@ -17,22 +17,22 @@ Objection 2: Further, the Philosopher says (Ethic. ii, 6) that "virtue is that w
 
 Objection 3: Further, power is in the second species of quality. But virtue is a quality, as we have said above ([1502]Q[55], A[4]): and quality is not the subject of quality. Therefore a power of the soul is not the subject of virtue.
 
-## Answer
+### Answer
 
 On the contrary, "Virtue is the limit of power" (De Coelo ii). But the limit is in that of which it is the limit. Therefore virtue is in a power of the soul.
 
 I answer that, It can be proved in three ways that virtue belongs to a power of the soul. First, from the notion of the very essence of virtue, which implies perfection of a power; for perfection is in that which it perfects. Secondly, from the fact that virtue is an operative habit, as we have said above ([1503]Q[55], A[2]): for all operation proceeds from the soul through a power. Thirdly, from the fact that virtue disposes to that which is best: for the best is the end, which is either a thing's operation, or something acquired by an operation proceeding from the thing's power. Therefore a power of the soul is the subject of virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: "To live" may be taken in two ways. Sometimes it is taken for the very existence of the living thing: in this way it belongs to the essence of the soul, which is the principle of existence in the living thing. But sometimes "to live" is taken for the operation of the living thing: in this sense, by virtue we live righteously, inasmuch as by virtue we perform righteous actions.
 
 Reply to Objection 2: Good is either the end, or something referred to the end. And therefore, since the good of the worker consists in the work, this fact also, that virtue makes the worker good, is referred to the work, and consequently, to the power.
 
 Reply to Objection 3: One accident is said to be the subject of another, not as though one accident could uphold another; but because one accident inheres to substance by means of another, as color to the body by means of the surface; so that surface is said to be the subject of color. In this way a power of the soul is said to be the subject of virtue.
-# Whether One Virtue Can Be In Several Powers?
+## Whether One Virtue Can Be In Several Powers?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one virtue can be in several powers. For habits are known by their acts. But one act proceeds in various way from several powers: thus walking proceeds from the reason as directing, from the will as moving, and from the motive power as executing. Therefore also one habit can be in several powers.
 
@@ -40,22 +40,22 @@ Objection 2: Further, the Philosopher says (Ethic. ii, 4) that three things are 
 
 Objection 3: Further, prudence is in the reason since it is "the right reason of things to be done" (Ethic. vi, 5). And it is also in the will: for it cannot exist together with a perverse will (Ethic. vi, 12). Therefore one virtue can be in two powers.
 
-## Answer
+### Answer
 
 On the contrary, The subject of virtue is a power of the soul. But the same accident cannot be in several subjects. Therefore one virtue cannot be in several powers of the soul.
 
 I answer that, It happens in two ways that one thing is subjected in two. First, so that it is in both on an equal footing. In this way it is impossible for one virtue to be in two powers: since diversity of powers follows the generic conditions of the objects, while diversity of habits follows the specific conditions thereof: and so wherever there is diversity of powers, there is diversity of habits; but not vice versa. In another way one thing can be subjected in two or more, not on an equal footing, but in a certain order. And thus one virtue can belong to several powers, so that it is in one chiefly, while it extends to others by a kind of diffusion, or by way of a disposition, in so far as one power is moved by another, and one power receives from another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: One act cannot belong to several powers equally, and in the same degree; but only from different points of view, and in various degrees.
 
 Reply to Objection 2: "To know" is a condition required for moral virtue, inasmuch as moral virtue works according to right reason. But moral virtue is essentially in the appetite.
 
 Reply to Objection 3: Prudence is really subjected in reason: but it presupposes as its principle the rectitude of the will, as we shall see further on [1504](A[3]; Q[57], A[4]).
-# Whether The Intellect Can Be The Subject Of Virtue?
+## Whether The Intellect Can Be The Subject Of Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the intellect is not the subject of virtue. For Augustine says (De Moribus Eccl. xv) that all virtue is love. But the subject of love is not the intellect, but the appetitive power alone. Therefore no virtue is in the intellect.
 
@@ -63,7 +63,7 @@ Objection 2: Further, virtue is referred to good, as is clear from what has been
 
 Objection 3: Further, virtue is that "which makes its possessor good," as the Philosopher says (Ethic. ii, 6). But the habit which perfects the intellect does not make its possessor good: since a man is not said to be a good man on account of his science or his art. Therefore the intellect is not the subject of virtue.
 
-## Answer
+### Answer
 
 On the contrary, The mind is chiefly called the intellect. But the subject of virtue is the mind, as is clear from the definition, above given, of virtue ([1506]Q[55], A[4]). Therefore the intellect is the subject of virtue.
 
@@ -75,16 +75,16 @@ Hence the subject of a habit which is called a virtue in a relative sense, can b
 
 Now it happens that the intellect is moved by the will, just as are the other powers: for a man considers something actually, because he wills to do so. And therefore the intellect, in so far as it is subordinate to the will, can be the subject of virtue absolutely so called. And in this way the speculative intellect, or the reason, is the subject of Faith: for the intellect is moved by the command of the will to assent to what is of faith: for "no man believeth, unless he will" [*Augustine: Tract. xxvi in Joan.]. But the practical intellect is the subject of prudence. For since prudence is the right reason of things to be done, it is a condition thereof that man be rightly disposed in regard to the principles of this reason of things to be done, that is in regard to their ends, to which man is rightly disposed by the rectitude of the will, just as to the principles of speculative truth he is rightly disposed by the natural light of the active intellect. And therefore as the subject of science, which is the right reason of speculative truths, is the speculative intellect in its relation to the active intellect, so the subject of prudence is the practical intellect in its relation to the right will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The saying of Augustine is to be understood of virtue simply so called: not that every virtue is love simply: but that it depends in some way on love, in so far as it depends on the will, whose first movement consists in love, as we have said above (Q[25], AA[1],2,3; Q[27], A[4]; [1509]FP, Q[20], A[1]).
 
 Reply to Objection 2: The good of each thing is its end: and therefore, as truth is the end of the intellect, so to know truth is the good act of the intellect. Whence the habit, which perfects the intellect in regard to the knowledge of truth, whether speculative or practical, is a virtue.
 
 Reply to Objection 3: This objection considers virtue simply so called.
-# Whether The Irascible And Concupiscible Powers Are The Subject Of Virtue?
+## Whether The Irascible And Concupiscible Powers Are The Subject Of Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the irascible and concupiscible powers cannot be the subject of virtue. For these powers are common to us and dumb animals. But we are now speaking of virtue as proper to man, since for this reason it is called human virtue. It is therefore impossible for human virtue to be in the irascible and concupiscible powers which are parts of the sensitive appetite, as we have said in the [1510]FP, Q[81], A[2].
 
@@ -94,7 +94,7 @@ Objection 3: Further, Augustine proves (De Moribus Eccl. v) that virtue is not i
 
 Objection 4: Further, "the principal act of moral virtue is choice" (Ethic. viii, 13). Now choice is not an act of the irascible and concupiscible powers, but of the rational power, as we have said above ([1512]Q[13], A[2]). Therefore moral virtue is not in the irascible and concupiscible powers, but in the reason.
 
-## Answer
+### Answer
 
 On the contrary, Fortitude is assigned to the irascible power, and temperance to the concupiscible power. Whence the Philosopher (Ethic. iii, 10) says that "these virtues belong to the irrational part of the soul."
 
@@ -102,7 +102,7 @@ I answer that, The irascible and concupiscible powers can be considered in two w
 
 For it is clear that there are some virtues in the irascible and concupiscible powers. Because an act, which proceeds from one power according as it is moved by another power, cannot be perfect, unless both powers be well disposed to the act: for instance, the act of a craftsman cannot be successful unless both the craftsman and his instrument be well disposed to act. Therefore in the matter of the operations of the irascible and concupiscible powers, according as they are moved by reason, there must needs be some habit perfecting in respect of acting well, not only the reason, but also the irascible and concupiscible powers. And since the good disposition of the power which moves through being moved, depends on its conformity with the power that moves it: therefore the virtue which is in the irascible and concupiscible powers is nothing else but a certain habitual conformity of these powers to reason.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The irascible and concupiscible powers considered in themselves, as parts of the sensitive appetite, are common to us and dumb animals. But in so far as they are rational by participation, and are obedient to the reason, they are proper to man. And in this way they can be the subject of human virtue.
 
@@ -111,9 +111,9 @@ Reply to Objection 2: Just as human flesh has not of itself the good of virtue, 
 Reply to Objection 3: The body is ruled by the soul, and the irascible and concupiscible powers by the reason, but in different ways. For the body obeys the soul blindly without any contradiction, in those things in which it has a natural aptitude to be moved by the soul: whence the Philosopher says (Polit. i, 3) that the "soul rules the body with a despotic command" as the master rules his slave: wherefore the entire movement of the body is referred to the soul. For this reason virtue is not in the body, but in the soul. But the irascible and concupiscible powers do not obey the reason blindly; on the contrary, they have their own proper movements, by which, at times, they go against reason, whence the Philosopher says (Polit. i, 3) that the "reason rules the irascible and concupiscible powers by a political command" such as that by which free men are ruled, who have in some respects a will of their own. And for this reason also must there be some virtues in the irascible and concupiscible powers, by which these powers are well disposed to act.
 
 Reply to Objection 4: In choice there are two things, namely, the intention of the end, and this belongs to the moral virtue; and the preferential choice of that which is unto the end, and this belongs to prudence (Ethic. vi, 2,5). But that the irascible and concupiscible powers have a right intention of the end in regard to the passions of the soul, is due to the good disposition of these powers. And therefore those moral virtues which are concerned with the passions are in the irascible and concupiscible powers, but prudence is in the reason.
-# Whether The Sensitive Powers Of Apprehension Are The Subject Of Virtue?
+## Whether The Sensitive Powers Of Apprehension Are The Subject Of Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is possible for virtue to be in the interior sensitive powers of apprehension. For the sensitive appetite can be the subject of virtue, in so far as it obeys reason. But the interior sensitive powers of apprehension obey reason: for the powers of imagination, of cogitation, and of memory [*Cf. [1513]FP, Q[78], A[4]] act at the command of reason. Therefore in these powers there can be virtue.
 
@@ -121,7 +121,7 @@ Objection 2: Further, as the rational appetite, which is the will, can be hinder
 
 Objection 3: Further, prudence is a virtue, of which Cicero (De Invent. Rhetor. ii) says that memory is a part. Therefore also in the power of memory there can be a virtue: and in like manner, in the other interior sensitive powers of apprehension.
 
-## Answer
+### Answer
 
 On the contrary, All virtues are either intellectual or moral (Ethic. ii, 1). Now all the moral virtues are in the appetite; while the intellectual virtues are in the intellect or reason, as is clear from Ethic. vi, 1. Therefore there is no virtue in the interior sensitive powers of apprehension.
 
@@ -129,14 +129,14 @@ I answer that, In the interior sensitive powers of apprehension there are some h
 
 Nevertheless even if there be habits in such powers, they cannot be virtues. For virtue is a perfect habit, by which it never happens that anything but good is done: and so virtue must needs be in that power which consummates the good act. But the knowledge of truth is not consummated in the sensitive powers of apprehension: for such powers prepare the way to the intellective knowledge. And therefore in these powers there are none of the virtues, by which we know truth: these are rather in the intellect or reason.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The sensitive appetite is related to the will, which is the rational appetite, through being moved by it. And therefore the act of the appetitive power is consummated in the sensitive appetite: and for this reason the sensitive appetite is the subject of virtue. Whereas the sensitive powers of apprehension are related to the intellect rather through moving it; for the reason that the phantasms are related to the intellective soul, as colors to sight (De Anima iii, text. 18). And therefore the act of knowledge is terminated in the intellect; and for this reason the cognoscitive virtues are in the intellect itself, or the reason.
 
 Reply to Objection 3: Memory is not a part of prudence, as species is of a genus, as though memory were a virtue properly so called: but one of the conditions required for prudence is a good memory; so that, in a fashion, it is after the manner of an integral part.
-# Whether The Will Can Be The Subject Of Virtue?
+## Whether The Will Can Be The Subject Of Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the will is not the subject of virtue. Because no habit is required for that which belongs to a power by reason of its very nature. But since the will is in the reason, it is of the very essence of the will, according to the Philosopher (De Anima iii, text. 42), to tend to that which is good, according to reason. And to this good every virtue is ordered, since everything naturally desires its own proper good; for virtue, as Tully says in his Rhetoric, is a "habit like a second nature in accord with reason." Therefore the will is not the subject of virtue.
 
@@ -144,7 +144,7 @@ Objection 2: Further, every virtue is either intellectual or moral (Ethic. i, 13
 
 Objection 3: Further, all human acts, to which virtues are ordained, are voluntary. If therefore there be a virtue in the will in respect of some human acts, in like manner there will be a virtue in the will in respect of all human acts. Either, therefore, there will be no virtue in any other power, or there will be two virtues ordained to the same act, which seems unreasonable. Therefore the will cannot be the subject of virtue.
 
-## Answer
+### Answer
 
 On the contrary, Greater perfection is required in the mover than in the moved. But the will moves the irascible and concupiscible powers. Much more therefore should there be virtue in the will than in the irascible and concupiscible powers.
 
@@ -152,7 +152,7 @@ I answer that, Since the habit perfects the power in reference to act, then does
 
 Now the proper nature of a power is seen in its relation to its object. Since, therefore, as we have said above ([1515]Q[19], A[3]), the object of the will is the good of reason proportionate to the will, in respect of this the will does not need a virtue perfecting it. But if man's will is confronted with a good that exceeds its capacity, whether as regards the whole human species, such as Divine good, which transcends the limits of human nature, or as regards the individual, such as the good of one's neighbor, then does the will need virtue. And therefore such virtues as those which direct man's affections to God or to his neighbor are subjected in the will, as charity, justice, and such like.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection is true of those virtues which are ordained to the willer's own good; such as temperance and fortitude, which are concerned with the human passions, and the like, as is clear from what we have said ([1516]Q[35], A[6]).
 

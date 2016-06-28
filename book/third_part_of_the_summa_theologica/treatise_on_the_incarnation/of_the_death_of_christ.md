@@ -7,9 +7,9 @@ We have now to consider the death of Christ; concerning which there are six subj
 (4) Whether Christ was a man during the three days of His death?
 (5) Whether His was the same body, living and dead?
 (6) Whether His death conduced in any way to our salvation?
-# Whether It Was Fitting That Christ Should Die?
+## Whether It Was Fitting That Christ Should Die?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was not fitting that Christ should die. For a first principle in any order is not affected by anything contrary to such order: thus fire, which is the principle of heat, can never become cold. But the Son of God is the fountain-head and principle of all life, according to Ps. 35:10: "With Thee is the fountain of life." Therefore it does not seem fitting for Christ to die.
 
@@ -17,22 +17,22 @@ Objection 2: Further, death is a greater defect than sickness, because it is thr
 
 Objection 3: Further, our Lord said (Jn. 10:10): "I am come that they may have life, and may have it more abundantly." But one opposite does not lead to another. Therefore it seems that neither was it fitting for Christ to die.
 
-## Answer
+### Answer
 
 On the contrary, It is written, (Jn. 11:50): "It is expedient that one man should die for the people . . . that the whole nation perish not": which words were spoken prophetically by Caiphas, as the Evangelist testifies.
 
 I answer that, It was fitting for Christ to die. First of all to satisfy for the whole human race, which was sentenced to die on account of sin, according to Gn. 2:17: "In what day soever ye shall [Vulg.: 'thou shalt'] eat of it ye shall [Vulg.: 'thou shalt'] die the death." Now it is a fitting way of satisfying for another to submit oneself to the penalty deserved by that other. And so Christ resolved to die, that by dying He might atone for us, according to 1 Pet. 3:18: "Christ also died once for our sins." Secondly, in order to show the reality of the flesh assumed. For, as Eusebius says (Orat. de Laud. Constant. xv), "if, after dwelling among men Christ were suddenly to disappear from men's sight, as though shunning death, then by all men He would be likened to a phantom." Thirdly, that by dying He might deliver us from fearing death: hence it is written (Heb. 2:14,15) that He communicated "to flesh and blood, that through death He might destroy him who had the empire of death and might deliver them who, through the fear of death, were all their lifetime subject to servitude." Fourthly, that by dying in the body to the likeness of sin---that is, to its penalty---He might set us the example of dying to sin spiritually. Hence it is written (Rom. 6:10): "For in that He died to sin, He died once, but in that He liveth, He liveth unto God: so do you also reckon that you are dead to sin, but alive unto God." Fifthly, that by rising from the dead, and manifesting His power whereby He overthrew death, He might instill into us the hope of rising from the dead. Hence the Apostle says (1 Cor. 15:12): "If Christ be preached that He rose again from the dead, how do some among you say, that there is no resurrection from the dead?"
 
-## Replies
+### Replies
 
 Reply to Objection 1: Christ is the fountain of life, as God, and not as man: but He died as man, and not as God. Hence Augustine [*Vigilius Tapsensis] says against Felician: "Far be it from us to suppose that Christ so felt death that He lost His life inasmuch as He is life in Himself; for, were it so, the fountain of life would have run dry. Accordingly, He experienced death by sharing in our human feeling, which of His own accord He had taken upon Himself, but He did not lose the power of His Nature, through which He gives life to all things."
 
 Reply to Objection 2: Christ did not suffer death which comes of sickness, lest He should seem to die of necessity from exhausted nature: but He endured death inflicted from without, to which He willingly surrendered Himself, that His death might be shown to be a voluntary one.
 
 Reply to Objection 3: One opposite does not of itself lead to the other, yet it does so indirectly at times: thus cold sometimes is the indirect cause of heat: and in this way Christ by His death brought us back to life, when by His death He destroyed our death; just as he who bears another's punishment takes such punishment away.
-# Whether The Godhead Was Separated From The Flesh When Christ Died?
+## Whether The Godhead Was Separated From The Flesh When Christ Died?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Godhead was separated from the flesh when Christ died. For as Matthew relates (27:46), when our Lord was hanging upon the cross He cried out: "My God, My God, why hast Thou forsaken Me?" which words Ambrose, commenting on Lk. 23:46, explains as follows: "The man cried out when about to expire by being severed from the Godhead; for since the Godhead is immune from death, assuredly death could not be there, except life departed, for the Godhead is life." And so it seems that when Christ died, the Godhead was separated from His flesh.
 
@@ -40,22 +40,22 @@ Objection 2: Further, extremes are severed when the mean is removed. But the sou
 
 Objection 3: Further, God's life-giving power is greater than that of the soul. But the body could not die unless the soul quitted it. Therefore, much less could it die unless the Godhead departed.
 
-## Answer
+### Answer
 
 On the contrary, As stated above ([4267]Q[16], AA[4],5), the attributes of human nature are predicated of the Son of God only by reason of the union. But what belongs to the body of Christ after death is predicated of the Son of God---namely, being buried: as is evident from the Creed, in which it is said that the Son of God "was conceived and born of a Virgin, suffered, died, and was buried." Therefore Christ's Godhead was not separated from the flesh when He died.
 
 I answer that, What is bestowed through God's grace is never withdrawn except through fault. Hence it is written (Rom. 11:29): "The gifts and the calling of God are without repentance." But the grace of union whereby the Godhead was united to the flesh in Christ's Person, is greater than the grace of adoption whereby others are sanctified: also it is more enduring of itself, because this grace is ordained for personal union, whereas the grace of adoption is referred to a certain affective union. And yet we see that the grace of adoption is never lost without fault. Since, then there was no sin in Christ, it was impossible for the union of the Godhead with the flesh to be dissolved. Consequently, as before death Christ's flesh was united personally and hypostatically with the Word of God, it remained so after His death, so that the hypostasis of the Word of God was not different from that of Christ's flesh after death, as Damascene says (De Fide Orth. iii).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Such forsaking is not to be referred to the dissolving of the personal union, but to this, that God the Father gave Him up to the Passion: hence there "to forsake" means simply not to protect from persecutors. or else He says there that He is forsaken, with reference to the prayer He had made: "Father, if it be possible, let this chalice pass away from Me," as Augustine explains it (De Gratia Novi Test.).
 
 Reply to Objection 2: The Word of God is said to be united with the flesh through the medium of the soul, inasmuch as it is through the soul that the flesh belongs to human nature, which the Son of God intended to assume; but not as though the soul were the medium linking them together. But it is due to the soul that the flesh is human even after the soul has been separated from it---namely, inasmuch as by God's ordinance there remains in the dead flesh a certain relation to the resurrection. And therefore the union of the Godhead with the flesh is not taken away.
 
 Reply to Objection 3: The soul formally possesses the life-giving energy, and therefore, while it is present, and united formally, the body must necessarily be a living one, whereas the Godhead has not the life-giving energy formally, but effectively; because It cannot be the form of the body: and therefore it is not necessary for the flesh to be living while the union of the Godhead with the flesh remains, since God does not act of necessity, but of His own will.
-# Whether In Christ's Death There Was A Severance Between His Godhead And His Soul?
+## Whether In Christ's Death There Was A Severance Between His Godhead And His Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there was a severance in death between Christ's Godhead and His soul, because our Lord said (Jn. 10:18): "No man taketh away My soul from Me: but I lay it down of Myself, and I have power to lay it down, and I have power to take it up again." But it does not appear that the body can set the soul aside, by separating the soul from itself, because the soul is not subject to the power of the body, but rather conversely: and so it appears that it belongs to Christ, as the Word of God, to lay down His soul: but this is to separate it from Himself. Consequently, by death His soul was severed from the Godhead.
 
@@ -65,22 +65,22 @@ Objection 3: Further, the Son of God is truly styled a man because of the union 
 
 Objection 4: Further, the separated soul and body are not one hypostasis, but two. Therefore, if the Word of God remained united with Christ's soul and body, then, when they were severed by Christ's death, it seems to follow that the Word of God was two hypostases during such time as Christ was dead; which cannot be admitted. Therefore after Christ's death His soul did not continue to be united with the Word.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. iii): "Although Christ died as man, and His holy soul was separated from His spotless body, nevertheless His Godhead remained unseparated from both---from the soul, I mean, and from the body."
 
 I answer that, The soul is united with the Word of God more immediately and more primarily than the body is, because it is through the soul that the body is united with the Word of God, as stated above ([4268]Q[6], A[1]). Since, then, the Word of God was not separated from the body at Christ's death, much less was He separated from the soul. Accordingly, since what regards the body severed from the soul is affirmed of the Son of God---namely, that "it was buried"---so is it said of Him in the Creed that "He descended into hell," because His soul when separated from the body did go down into hell.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine (Tract. xlvii in Joan.), in commenting on the text of John, asks, since Christ is Word and soul and body, "whether He putteth down His soul, for that He is the Word? Or, for that He is a soul?" Or, again, "for that He is flesh?" And he says that, "should we say that the Word of God laid down His soul" . . . it would follow that "there was a time when that soul was severed from the Word"---which is untrue. "For death severed the body and soul . . . but that the soul was severed from the Word I do not affirm . . . But should we say that the soul laid itself down," it follows "that it is severed from itself: which is most absurd." It remains, therefore, that "the flesh itself layeth down its soul and taketh it again, not by its own power, but by the power of the Word dwelling in the flesh": because, as stated above [4269](A[2]), the Godhead of the Word was not severed from the flesh in death.
 
 Reply to Objection 2: In those words Athanasius never meant to say that the whole man was reassumed---that is, as to all his parts---as if the Word of God had laid aside the parts of human nature by His death; but that the totality of the assumed nature was restored once more in the resurrection by the resumed union of soul and body.
 
 Reply to Objection 4: As Damascene says (De Fide Orth. iii): "In Christ's death the soul was separated from the flesh: not one hypostasis divided into two: because both soul and body in the same respect had their existence from the beginning in the hypostasis of the Word; and in death, though severed from one another, each one continued to have the one same hypostasis of the Word. Wherefore the one hypostasis of the Word was the hypostasis of the Word, of the soul, and of the body. For neither soul nor body ever had an hypostasis of its own, besides the hypostasis of the Word: for there was always one hypostasis of the Word, and never two."
-# Whether Christ Was A Man During The Three Days Of His Death?
+## Whether Christ Was A Man During The Three Days Of His Death?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ was a man during the three days of His death, because Augustine says (De Trin. iii): "Such was the assuming [of nature] as to make God to be man, and man to be God." But this assuming [of nature] did not cease at Christ's death. Therefore it seems that He did not cease to be a man in consequence of death.
 
@@ -88,7 +88,7 @@ Objection 2: Further, the Philosopher says (Ethic. ix) that "each man is his int
 
 Objection 3: Further, every priest is a man. But during those three days of death Christ was a priest: otherwise what is said in Ps. 109:4 would not be true: "Thou art a priest for ever." Therefore Christ was a man during those three days.
 
-## Answer
+### Answer
 
 On the contrary, When the higher [species] is removed, so is the lower. But the living or animated being is a higher species than animal and man, because an animal is a sensible animated substance. Now during those three days of death Christ's body was not living or animated. Therefore He was not a man.
 
@@ -96,16 +96,16 @@ I answer that, It is an article of faith that Christ was truly dead: hence it is
 
 However, some writers have contended that Christ was a man during those three days, uttering words which are indeed erroneous, yet without intent of error in faith: as Hugh of Saint Victor, who (De Sacram. ii) contended that Christ, during the three days that followed His death, was a man, because he held that the soul is a man: but this is false, as was shown in the [4270]FP, Q[75], A[4]. Likewise the Master of the Sentences (iii, D, 22) held Christ to be a man during the three days of His death for quite another reason. For he believed the union of soul and flesh not to be essential to a man, and that for anything to be a man it suffices if it have a soul and body, whether united or separated: and that this is likewise false is clear both from what has been said in the [4271]FP, Q[75], A[4], and from what has been said above regarding the mode of union (Q[2] , A[5]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Word of God assumed a united soul and body: and the result of this assumption was that God is man, and man is God. But this assumption did not cease by the separation of the Word from the soul or from the flesh; yet the union of soul and flesh ceased.
 
 Reply to Objection 2: Man is said to be his own intellect, not because the intellect is the entire man, but because the intellect is the chief part of man, in which man's whole disposition lies virtually; just as the ruler of the city may be called the whole city, since its entire disposal is vested in him.
 
 Reply to Objection 3: That a man is competent to be a priest is by reason of the soul, which is the subject of the character of order: hence a man does not lose his priestly order by death, and much less does Christ, who is the fount of the entire priesthood.
-# Whether Christ's Was Identically The Same Body Living And Dead?
+## Whether Christ's Was Identically The Same Body Living And Dead?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's was not identically the same body living and dead. For Christ truly died just as other men do. But the body of everyone else is not simply identically the same, dead and living, because there is an essential difference between them. Therefore neither is the body of Christ identically the same, dead and living.
 
@@ -113,7 +113,7 @@ Objection 2: Further, according to the Philosopher (Metaph. v, text. 12), things
 
 Objection 3: Further, death is a kind of corruption. But what is corrupted by substantial corruption after being corrupted, exists no longer, since corruption is change from being to non-being. Therefore, Christ's body, after it was dead, did not remain identically the same, because death is a substantial corruption.
 
-## Answer
+### Answer
 
 On the contrary, Athanasius says (Epist. ad Epict.): "In that body which was circumcised and carried, which ate, and toiled, and was nailed on the tree, there was the impassible and incorporeal Word of God: the same was laid in the tomb." But Christ's living body was circumcised and nailed on the tree; and Christ's dead body was laid in the tomb. Therefore it was the same body living and dead.
 
@@ -121,16 +121,16 @@ I answer that, The expression "simply" can be taken in two senses. In the first 
 
 In another way "simply" is the same as "altogether" or "totally": in which sense the body of Christ, dead and alive, was not "simply" the same identically, because it was not "totally" the same, since life is of the essence of a living body; for it is an essential and not an accidental predicate: hence it follows that a body which ceases to be living does not remain totally the same. Moreover, if it were to be said that Christ's dead body did continue "totally" the same, it would follow that it was not corrupted---I mean, by the corruption of death: which is the heresy of the Gaianites, as Isidore says (Etym. viii), and is to be found in the Decretals (xxiv, qu. iii). And Damascene says (De Fide Orth. iii) that "the term 'corruption' denotes two things: in one way it is the separation of the soul from the body and other things of the sort; in another way, the complete dissolving into elements. Consequently it is impious to say with Julian and Gaian that the Lord's body was incorruptible after the first manner of corruption before the resurrection: because Christ's body would not be consubstantial with us, nor truly dead, nor would we have been saved in very truth. But in the second way Christ's body was incorrupt."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The dead body of everyone else does not continue united to an abiding hypostasis, as Christ's dead body did; consequently the dead body of everyone else is not the same "simply," but only in some respect: because it is the same as to its matter, but not the same as to its form. But Christ's body remains the same simply, on account of the identity of the suppositum, as stated above.
 
 Reply to Objection 2: Since a thing is said to be the same identically according to suppositum, but the same specifically according to form: wherever the suppositum subsists in only one nature, it follows of necessity that when the unity of species is taken away the unity of identity is also taken away. But the hypostasis of the Word of God subsists in two natures; and consequently, although in others the body does not remain the same according to the species of human nature, still it continues identically the same in Christ according to the suppositum of the Word of God.
 
 Reply to Objection 3: Corruption and death do not belong to Christ by reason of the suppositum, from which suppositum follows the unity of identity; but by reason of the human nature, according to which is found the difference of death and of life in Christ's body.
-# Whether Christ's Death Conduced In Any Way To Our Salvation?
+## Whether Christ's Death Conduced In Any Way To Our Salvation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's death did not conduce in any way to our salvation. For death is a sort of privation, since it is the privation of life. But privation has not any power of activity, because it is nothing positive. Therefore it could not work anything for our salvation.
 
@@ -138,13 +138,13 @@ Objection 2: Further, Christ's Passion wrought our salvation by way of merit. Bu
 
 Objection 3: Further, what is corporeal is not the cause of what is spiritual. But Christ's death was corporeal. Therefore it could not be the cause of our salvation, which is something spiritual.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iv): "The one death of our Saviour," namely, that of the body, "saved us from our two deaths," that is, of the soul and the body.
 
 I answer that, We may speak of Christ's death in two ways, "in becoming" and "in fact." Death is said to be "in becoming" when anyone from natural or enforced suffering is tending towards death: and in this way it is the same thing to speak of Christ's death as of His Passion: so that in this sense Christ's death is the cause of our salvation, according to what has been already said of the Passion ([4273]Q[48]). But death is considered in fact, inasmuch as the separation of soul and body has already taken place: and it is in this sense that we are now speaking of Christ's death. In this way Christ's death cannot be the cause of our salvation by way of merit, but only by way of causality, that is to say, inasmuch as the Godhead was not separated from Christ's flesh by death; and therefore, whatever befell Christ's flesh, even when the soul was departed, was conducive to salvation in virtue of the Godhead united. But the effect of any cause is properly estimated according to its resemblance to the cause. Consequently, since death is a kind of privation of one's own life, the effect of Christ's death is considered in relation to the removal of the obstacles to our salvation: and these are the death of the soul and of the body. Hence Christ's death is said to have destroyed in us both the death of the soul, caused by sin, according to Rom. 4:25: "He was delivered up [namely unto death] for our sins": and the death of the body, consisting in the separation of the soul, according to 1 Cor. 15:54: "Death is swallowed up in victory."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Christ's death wrought our salvation from the power of the Godhead united, and not consisted merely as His death.
 

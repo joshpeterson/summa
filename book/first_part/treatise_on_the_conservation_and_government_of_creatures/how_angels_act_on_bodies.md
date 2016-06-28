@@ -5,9 +5,9 @@ We now consider how the angels preside over the corporeal creatures. Under this 
 (2) Whether the corporeal creature obeys the mere will of the angels?
 (3) Whether the angels by their own power can immediately move bodies locally?
 (4) Whether the good or bad angels can work miracles?
-# Whether The Corporeal Creature Is Governed By The Angels?
+## Whether The Corporeal Creature Is Governed By The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the corporeal creature is not governed by angels. For whatever possesses a determinate mode of action, needs not to be governed by any superior power; for we require to be governed lest we do what we ought not. But corporeal things have their actions determined by the nature divinely bestowed upon them. Therefore they do not need the government of angels.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the lowest things are ruled by the superior. But some corp
 
 Objection 3: Further, the different orders of the angels are distinguished by different offices. But if corporeal creatures were ruled by the angels, there would be as many angelic offices as there are species of things. So also there would be as many orders of angels as there are species of things; which is against what is laid down above ([892]Q[108], A[2]). Therefore the corporeal creature is not governed by angels.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iii, 4) that "all bodies are ruled by the rational spirit of life"; and Gregory says (Dial. iv, 6), that "in this visible world nothing takes place without the agency of the invisible creature."
 
 I answer that, It is generally found both in human affairs and in natural things that every particular power is governed and ruled by the universal power; as, for example, the bailiff's power is governed by the power of the king. Among the angels also, as explained above ([893]Q[55], A[3] ; [894]Q[108], A[1]), the superior angels who preside over the inferior possess a more universal knowledge. Now it is manifest that the power of any individual body is more particular than the power of any spiritual substance; for every corporeal form is a form individualized by matter, and determined to the "here and now"; whereas immaterial forms are absolute and intelligible. Therefore, as the inferior angels who have the less universal forms, are ruled by the superior; so are all corporeal things ruled by the angels. This is not only laid down by the holy doctors, but also by all philosophers who admit the existence of incorporeal substances.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Corporeal things have determinate actions; but they exercise such actions only according as they are moved; because it belongs to a body not to act unless moved. Hence a corporeal creature must be moved by a spiritual creature.
 
 Reply to Objection 2: The reason alleged is according to the opinion of Aristotle who laid down (Metaph. xi, 8) that the heavenly bodies are moved by spiritual substances; the number of which he endeavored to assign according to the number of motions apparent in the heavenly bodies. But he did not say that there were any spiritual substances with immediate rule over the inferior bodies, except perhaps human souls; and this was because he did not consider that any operations were exercised in the inferior bodies except the natural ones for which the movement of the heavenly bodies sufficed. But because we assert that many things are done in the inferior bodies besides the natural corporeal actions, for which the movements of the heavenly bodies are not sufficient; therefore in our opinion we must assert that the angels possess an immediate presidency not only over the heavenly bodies, but also over the inferior bodies.
 
 Reply to Objection 3: Philosophers have held different opinions about immaterial substances. For Plato laid down that immaterial substances were types and species of sensible bodies; and that some were more universal than others; and so he held that immaterial substances preside immediately over all sensible bodies, and different ones over different bodies. But Aristotle held that immaterial substances are not the species of sensible bodies, but something higher and more universal; and so he did not attribute to them any immediate presiding over single bodies, but only over the universal agents, the heavenly bodies. Avicenna followed a middle course. For he agreed with Plato in supposing some spiritual substance to preside immediately in the sphere of active and passive elements; because, as Plato also said, he held that the forms of these sensible things are derived from immaterial substances. But he differed from Plato because he supposed only one immaterial substance to preside over all inferior bodies, which he called the "active intelligence."
-# Whether Corporeal Matter Obeys The Mere Will Of An Angel?
+## Whether Corporeal Matter Obeys The Mere Will Of An Angel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that corporeal matter obeys the mere will of an angel. For the power of an angel excels the power of the soul. But corporeal matter obeys a conception of the soul; for the body of man is changed by a conception of the soul as regards heat and cold, and sometimes even as regards health and sickness. Therefore much more is corporeal matter changed by a conception of an angel.
 
@@ -38,7 +38,7 @@ Objection 2: Further, whatever can be done by an inferior power, can be done by 
 
 Objection 3: Further, all corporeal nature is under angelic administration, as appears above [896](A[1]), and thus it appears that bodies are as instruments to the angels, for an instrument is essentially a mover moved. Now in effects there is something that is due to the power of their principal agents, and which cannot be due to the power of the instrument; and this it is that takes the principal place in the effect. For example, digestion is due to the force of natural heat, which is the instrument of the nutritive soul: but that living flesh is thus generated is due to the power of the soul. Again the cutting of the wood is from the saw; but that it assumes the length the form of a bed is from the design of the [joiner's] art. Therefore the substantial form which takes the principal place in the corporeal effects, is due to the angelic power. Therefore matter obeys the angels in receiving its form.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says "It is not to be thought, that this visible matter obeys these rebel angels; for it obeys God alone."
 
@@ -46,16 +46,16 @@ I answer that, The Platonists [*Phaedo. xlix: Tim. (Did.) vol. ii, p. 218] asser
 
 Now it is manifest that what is made is like to the maker, forasmuch as every agent makes its like. So whatever makes natural things, has a likeness to the composite; either because it is composite itself, as when fire begets fire, or because the whole "composite" as to both matter and form is within its power; and this belongs to God alone. Therefore every informing of matter is either immediately from God, or form some corporeal agent; but not immediately from an angel.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Our soul is united to the body as the form; and so it is not surprising for the body to be formally changed by the soul's concept; especially as the movement of the sensitive appetite, which is accompanied with a certain bodily change, is subject to the command of reason. An angel, however, has not the same connection with natural bodies; and hence the argument does not hold.
 
 Reply to Objection 2: Whatever an inferior power can do, that a superior power can do, not in the same way, but in a more excellent way; for example, the intellect knows sensible things in a more excellent way than sense knows them. So an angel can change corporeal matter in a more excellent way than can corporeal agents, that is by moving the corporeal agents themselves, as being the superior cause.
 
 Reply to Objection 3: There is nothing to prevent some natural effect taking place by angelic power, for which the power of corporeal agents would not suffice. This, however, is not to obey an angel's will (as neither does matter obey the mere will of a cook, when by regulating the fire according to the prescription of his art he produces a dish that the fire could not have produced by itself); since to reduce matter to the act of the substantial form does not exceed the power of a corporeal agent; for it is natural for like to make like.
-# Whether Bodies Obey The Angels As Regards Local Motion?
+## Whether Bodies Obey The Angels As Regards Local Motion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that bodies do not obey the angels in local motion. For the local motion of natural bodies follows on their forms. But the angels do not cause the forms of natural bodies, as stated above [897](A[2]). Therefore neither can they cause in them local motion.
 
@@ -63,22 +63,22 @@ Objection 2: Further, the Philosopher (Phys. viii, 7) proves that local motion i
 
 Objection 3: Further, the corporeal members obey the concept of the soul as regards local movement, as having in themselves some principle of life. In natural bodies, however, there is not vital principle. Therefore they do not obey the angels in local motion.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iii, 8,9) that the angels use corporeal seed to produce certain effects. But they cannot do this without causing local movement. Therefore bodies obey them in local motion.
 
 I answer that, As Dionysius says (Div. Nom. vii): "Divine wisdom has joined the ends of the first to the principles of the second." Hence it is clear that the inferior nature at its highest point is in conjunction with superior nature. Now corporeal nature is below the spiritual nature. But among all corporeal movements the most perfect is local motion, as the Philosopher proves (Phys. viii, 7). The reason of this is that what is moved locally is not as such in potentiality to anything intrinsic, but only to something extrinsic---that is, to place. Therefore the corporeal nature has a natural aptitude to be moved immediately by the spiritual nature as regards place. Hence also the philosophers asserted that the supreme bodies are moved locally by the spiritual substances; whence we see that the soul moves the body first and chiefly by a local motion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There are in bodies other local movements besides those which result from the forms; for instance, the ebb and flow of the sea does not follow from the substantial form of the water, but from the influence of the moon; and much more can local movements result from the power of spiritual substances.
 
 Reply to Objection 2: The angels, by causing local motion, as the first motion, can thereby cause other movements; that is, by employing corporeal agents to produce these effects, as a workman employs fire to soften iron.
 
 Reply to Objection 3: The power of an angel is not so limited as is the power of the soul. Hence the motive power of the soul is limited to the body united to it, which is vivified by it, and by which it can move other things. But an angel's power is not limited to any body; hence it can move locally bodies not joined to it.
-# Whether Angels Can Work Miracles?
+## Whether Angels Can Work Miracles?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels can work miracles. For Gregory says (Hom. xxxiv in Evang.): "Those spirits are called virtues by whom signs and miracles are usually done."
 
@@ -88,13 +88,13 @@ Objection 3: Further, Augustine says in the same work [*Cf. Liber xxi, Sentent.,
 
 Objection 4: Further, superior power is not subject to the order of an inferior cause. But corporeal nature is inferior to an angel. Therefore an angel can work outside the order of corporeal agents; which is to work miracles.
 
-## Answer
+### Answer
 
 On the contrary, It is written of God (Ps. 135:4): "Who alone doth great wonders."
 
 I answer that, A miracle properly so called is when something is done outside the order of nature. But it is not enough for a miracle if something is done outside the order of any particular nature; for otherwise anyone would perform a miracle by throwing a stone upwards, as such a thing is outside the order of the stone's nature. So for a miracle is required that it be against the order of the whole created nature. But God alone can do this, because, whatever an angel or any other creature does by its own power, is according to the order of created nature; and thus it is not a miracle. Hence God alone can work miracles.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some angels are said to work miracles; either because God works miracles at their request, in the same way as holy men are said to work miracles; or because they exercise a kind of ministry in the miracles which take place; as in collecting the dust in the general resurrection, or by doing something of that kind.
 

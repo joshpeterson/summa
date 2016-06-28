@@ -4,9 +4,9 @@ Having premised what have appeared necessary notions concerning the processions 
 (2) The comparison of person to essence, subsistence, and hypostasis.
 (3) Whether the name of person is becoming to God?
 (4) What does it signify in Him?
-# Whether "Person" Is The Same As Hypostasis, Subsistence, And Essence?
+## Whether "Person" Is The Same As Hypostasis, Subsistence, And Essence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that "person" is the same as "hypostasis," "subsistence," and "essence." For Boethius says (De Duab. Nat.) that "the Greeks called the individual substance of the rational nature by the name hypostasis." But this with us signifies "person." Therefore "person" is altogether the same as "hypostasis."
 
@@ -18,13 +18,13 @@ Objection 4: On the contrary, Boethius says (De Duab. Nat.) that genera and spec
 
 Objection 5: Further, Boethius says (Com. Praed.) that matter is called hypostasis, and form is called {ousiosis}---that is, subsistence. But neither form nor matter can be called person. Therefore person differs from the others.
 
-## Answer
+### Answer
 
 
 
 I answer that, According to the Philosopher (Metaph. v), substance is twofold. In one sense it means the quiddity of a thing, signified by its definition, and thus we say that the definition means the substance of a thing; in which sense substance is called by the Greeks {ousia}, what we may call "essence." In another sense substance means a subject or "suppositum," which subsists in the genus of substance. To this, taken in a general sense, can be applied a name expressive of an intention; and thus it is called "suppositum." It is also called by three names signifying a reality---that is, "a thing of nature," "subsistence," and "hypostasis," according to a threefold consideration of the substance thus named. For, as it exists in itself and not in another, it is called "subsistence"; as we say that those things subsist which exist in themselves, and not in another. As it underlies some common nature, it is called "a thing of nature"; as, for instance, this particular man is a human natural thing. As it underlies the accidents, it is called "hypostasis," or "substance." What these three names signify in common to the whole genus of substances, this name "person" signifies in the genus of rational substances.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Among the Greeks the term "hypostasis," taken in the strict interpretation of the word, signifies any individual of the genus substance; but in the usual way of speaking, it means the individual of the rational nature, by reason of the excellence of that nature.
 
@@ -35,9 +35,9 @@ Reply to Objection 3: Strictly speaking, the essence is what is expressed by the
 Reply to Objection 4: Boethius says that genera and species subsist, inasmuch as it belongs to some individual things to subsist, from the fact that they belong to genera and species comprised in the predicament of substance, but not because the species and genera themselves subsist; except in the opinion of Plato, who asserted that the species of things subsisted separately from singular things. To substand, however, belongs to the same individual things in relation to the accidents, which are outside the essence of genera and species.
 
 Reply to Objection 5: The individual composed of matter and form substands in relation to accident from the very nature of matter. Hence Boethius says (De Trin.): "A simple form cannot be a subject." Its self-subsistence is derived from the nature of its form, which does not supervene to the things subsisting, but gives actual existence to the matter and makes it subsist as an individual. On this account, therefore, he ascribes hypostasis to matter, and {ousiosis}, or subsistence, to the form, because the matter is the principle of substanding, and form is the principle of subsisting.
-# Whether The Word "Person" Should Be Said Of God?
+## Whether The Word "Person" Should Be Said Of God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the name "person" should not be said of God. For Dionysius says (Div. Nom.): "No one should ever dare to say or think anything of the supersubstantial and hidden Divinity, beyond what has been divinely expressed to us by the oracles." But the name "person" is not expressed to us in the Old or New Testament. Therefore "person" is not to be applied to God.
 
@@ -47,13 +47,13 @@ Objection 3: Further, every person is a hypostasis. But the word "hypostasis" do
 
 Objection 4: Further, if a definition is denied of anything, the thing defined is also denied of it. But the definition of "person," as given above, does not apply to God. Both because reason implies a discursive knowledge, which does not apply to God, as we proved above ([250]Q[14], A[12] ); and thus God cannot be said to have "a rational nature." And also because God cannot be called an individual substance, since the principle of individuation is matter; while God is immaterial: nor is He the subject of accidents, so as to be called a substance. Therefore the word "person" ought not to be attributed to God.
 
-## Answer
+### Answer
 
 On the contrary, In the Creed of Athanasius we say: "One is the person of the Father, another of the Son, another of the Holy Ghost."
 
 I answer that, "Person" signifies what is most perfect in all nature---that is, a subsistent individual of a rational nature. Hence, since everything that is perfect must be attributed to God, forasmuch as His essence contains every perfection, this name "person" is fittingly applied to God; not, however, as it is applied to creatures, but in a more excellent way; as other names also, which, while giving them to creatures, we attribute to God; as we showed above when treating of the names of God ([251]Q[13], A[2]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the word "person" is not found applied to God in Scripture, either in the Old or New Testament, nevertheless what the word signifies is found to be affirmed of God in many places of Scripture; as that He is the supreme self-subsisting being, and the most perfectly intelligent being. If we could speak of God only in the very terms themselves of Scripture, it would follow that no one could speak about God in any but the original language of the Old or New Testament. The urgency of confuting heretics made it necessary to find new words to express the ancient faith about God. Nor is such a kind of novelty to be shunned; since it is by no means profane, for it does not lead us astray from the sense of Scripture. The Apostle warns us to avoid "profane novelties of words" (1 Tim. 6:20).
 
@@ -62,9 +62,9 @@ Reply to Objection 2: Although this name "person" may not belong to God as regar
 Reply to Objection 3: The word "hypostasis" does not apply to God as regards its source of origin, since He does not underlie accidents; but it applies to Him in its objective sense, for it is imposed to signify the subsistence. Jerome said that "poison lurks in this word," forasmuch as before it was fully understood by the Latins, the heretics used this term to deceive the simple, to make people profess many essences as they profess several hypostases, inasmuch as the word "substance," which corresponds to hypostasis in Greek, is commonly taken amongst us to mean essence.
 
 Reply to Objection 4: It may be said that God has a rational "nature," if reason be taken to mean, not discursive thought, but in a general sense, an intelligent nature. But God cannot be called an "individual" in the sense that His individuality comes from matter; but only in the sense which implies incommunicability. "Substance" can be applied to God in the sense of signifying self-subsistence. There are some, however, who say that the definition of Boethius, quoted above [252](A[1]), is not a definition of person in the sense we use when speaking of persons in God. Therefore Richard of St. Victor amends this definition by adding that "Person" in God is "the incommunicable existence of the divine nature."
-# Whether This Word "Person" Signifies Relation?
+## Whether This Word "Person" Signifies Relation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this word "person," as applied to God, does not signify relation, but substance. For Augustine says (De Trin. vii, 6): "When we speak of the person of the Father, we mean nothing else but the substance of the Father, for person is said in regard to Himself, and not in regard to the Son."
 
@@ -74,7 +74,7 @@ Objection 3: According to the Philosopher (Metaph. iv), the meaning of a word is
 
 Objection 4: Further, person in men and angels does not signify relation, but something absolute. Therefore, if in God it signified relation, it would bear an equivocal meaning in God, in man, and in angels.
 
-## Answer
+### Answer
 
 On the contrary, Boethius says (De Trin.) that "every word that refers to the persons signifies relation." But no word belongs to person more strictly than the very word "person" itself. Therefore this word "person" signifies relation.
 
@@ -86,7 +86,7 @@ To determine the question, we must consider that something may be included in th
 
 Now distinction in God is only by relation of origin, as stated above ([253]Q[28], AA[2],3), while relation in God is not as an accident in a subject, but is the divine essence itself; and so it is subsistent, for the divine essence subsists. Therefore, as the Godhead is God so the divine paternity is God the Father, Who is a divine person. Therefore a divine person signifies a relation as subsisting. And this is to signify relation by way of substance, and such a relation is a hypostasis subsisting in the divine nature, although in truth that which subsists in the divine nature is the divine nature itself. Thus it is true to say that the name "person" signifies relation directly, and the essence indirectly; not, however, the relation as such, but as expressed by way of a hypostasis. So likewise it signifies directly the essence, and indirectly the relation, inasmuch as the essence is the same as the hypostasis: while in God the hypostasis is expressed as distinct by the relation: and thus relation, as such, enters into the notion of the person indirectly. Thus we can say that this signification of the word "person" was not clearly perceived before it was attacked by heretics. Hence, this word "person" was used just as any other absolute term. But afterwards it was applied to express relation, as it lent itself to that signification, so that this word "person" means relation not only by use and custom, according to the first opinion, but also by force of its own proper signification.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This word "person" is said in respect to itself, not to another; forasmuch as it signifies relation not as such, but by way of a substance---which is a hypostasis. In that sense Augustine says that it signifies the essence, inasmuch as in God essence is the same as the hypostasis, because in God what He is, and whereby He is are the same.
 

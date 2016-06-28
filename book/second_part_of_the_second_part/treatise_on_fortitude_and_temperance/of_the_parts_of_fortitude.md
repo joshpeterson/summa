@@ -1,9 +1,9 @@
 # Of The Parts Of Fortitude
 
 We must now consider the parts of fortitude; first we shall consider what are the parts of fortitude; and secondly we shall treat of each part.
-# Whether The Parts Of Fortitude Are Suitably Assigned?
+## Whether The Parts Of Fortitude Are Suitably Assigned?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the parts of fortitude are unsuitably assigned. For Tully (De Invent. Rhet. ii) assigns four parts to fortitude, namely "magnificence," "confidence," "patience," and "perseverance." Now magnificence seems to pertain to liberality; since both are concerned about money, and "a magnificent man must needs be liberal," as the Philosopher observes (Ethic. iv, 2). But liberality is a part of justice, as stated above ([3336]Q[117], A[5]). Therefore magnificence should not be reckoned a part of fortitude.
 
@@ -19,7 +19,7 @@ Objection 6: Further, Macrobius (De Somn. Scip. i) reckons seven parts of fortit
 
 Objection 7: Further, Aristotle (Ethic. iii) reckons five parts of fortitude. The first is "civic" fortitude, which produces brave deeds through fear of dishonor or punishment; the second is "military" fortitude, which produces brave deeds as a result of warlike art or experience; the third is the fortitude which produces brave deeds resulting from passion, especially anger; the fourth is the fortitude which makes a man act bravely through being accustomed to overcome; the fifth is the fortitude which makes a man act bravely through being unaccustomed to danger. Now these kinds of fortitude are not comprised under any of the above enumerations. Therefore these enumerations of the parts of fortitude are unfitting.
 
-## Answer
+### Answer
 
 
 
@@ -27,7 +27,7 @@ I answer that, As stated above ([3337]Q[48]), a virtue can have three kinds of p
 
 However, there are quasi-integral and potential parts assigned to it: integral parts, with regard to those things the concurrence of which is requisite for an act of fortitude; and potential parts, because what fortitude practices in face of the greatest hardships, namely dangers of death, certain other virtues practice in the matter of certain minor hardships and these virtues are annexed to fortitude as secondary virtues to the principal virtue. As stated above ([3338]Q[123], AA[3],6), the act of fortitude is twofold, aggression and endurance. Now two things are required for the act of aggression. The first regards preparation of the mind, and consists in one's having a mind ready for aggression. In this respect Tully mentions "confidence," of which he says (De Invent. Rhet. ii) that "with this the mind is much assured and firmly hopeful in great and honorable undertakings." The second regards the accomplishment of the deed, and consists in not failing to accomplish what one has confidently begun. In this respect Tully mentions "magnificence," which he describes as being "the discussion and administration," i.e. accomplishment "of great and lofty undertakings, with a certain broad and noble purpose of mind," so as to combine execution with greatness of purpose. Accordingly if these two be confined to the proper matter of fortitude, namely to dangers of death, they will be quasi-integral parts thereof, because without them there can be no fortitude; whereas if they be referred to other matters involving less hardship, they will be virtues specifically distinct from fortitude, but annexed thereto as secondary virtues to principal: thus "magnificence" is referred by the Philosopher (Ethic. iv) to great expenses, and "magnanimity," which seems to be the same as confidence, to great honors. Again, two things are requisite for the other act of fortitude, viz. endurance. The first is that the mind be not broken by sorrow, and fall away from its greatness, by reason of the stress of threatening evil. In this respect he mentions "patience," which he describes as "the voluntary and prolonged endurance of arduous and difficult things for the sake of virtue or profit." The other is that by the prolonged suffering of hardships man be not wearied so as to lose courage, according to Heb. 12:3, "That you be not wearied, fainting in your minds." In this respect he mentions "perseverance," which accordingly he describes as "the fixed and continued persistence in a well considered purpose." If these two be confined to the proper matter of fortitude, they will be quasi-integral parts thereof; but if they be referred to any kind of hardship they will be virtues distinct from fortitude, yet annexed thereto as secondary to principal.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Magnificence in the matter of liberality adds a certain greatness: this is connected with the notion of difficulty which is the object of the irascible faculty, that is perfected chiefly by fortitude: and to this virtue, in this respect, it belongs.
 

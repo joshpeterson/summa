@@ -9,9 +9,9 @@ We next consider the degrees of the angels in their hierarchies and orders; for 
 (6) Of the comparison of the orders to one another.
 (7) Whether the orders will outlast the Day of Judgment?
 (8) Whether men are taken up into the angelic orders?
-# Whether All The Angels Are Of One Hierarchy?
+## Whether All The Angels Are Of One Hierarchy?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all the angels belong to one hierarchy. For since the angels are supreme among creatures, it is evident that they are ordered for the best. But the best ordering of a multitude is for it to be governed by one authority, as the Philosopher shows (Metaph. xii, Did. xi, 10; Polit. iii, 4). Therefore as a hierarchy is nothing but a sacred principality, it seems that all the angels belong to one hierarchy.
 
@@ -19,7 +19,7 @@ Objection 2: Further, Dionysius says (Coel. Hier. iii) that "hierarchy is order,
 
 Objection 3: Further, the sacred principality called hierarchy is to be found among men and angels. But all men are of one hierarchy. Therefore likewise all the angels are of one hierarchy.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius (Coel. Hier. vi) distinguishes three hierarchies of angels.
 
@@ -27,16 +27,16 @@ I answer that, Hierarchy means a "sacred" principality, as above explained. Now 
 
 Hence it is clear that those err and speak against the opinion of Dionysius who place a hierarchy in the Divine Persons, and call it the "supercelestial" hierarchy. For in the Divine Persons there exists, indeed, a natural order, but there is no hierarchical order, for as Dionysius says (Coel. Hier. iii): "The hierarchical order is so directed that some be cleansed, enlightened, and perfected; and that others cleanse, enlighten, and perfect"; which far be it from us to apply to the Divine Persons.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection considers principality on the part of the ruler, inasmuch as a multitude is best ruled by one ruler, as the Philosopher asserts in those passages.
 
 Reply to Objection 2: As regards knowing God Himself, Whom all see in one way---that is, in His essence---there is no hierarchical distinction among the angels; but there is such a distinction as regards the types of created things, as above explained.
 
 Reply to Objection 3: All men are of one species, and have one connatural mode of understanding; which is not the case in the angels: and hence the same argument does not apply to both.
-# Whether There Are Several Orders In One Hierarchy?
+## Whether There Are Several Orders In One Hierarchy?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the one hierarchy there are not several orders. For when a definition is multiplied, the thing defined is also multiplied. But hierarchy is order, as Dionysius says (Coel. Hier. iii). Therefore, if there are many orders, there is not one hierarchy only, but many.
 
@@ -44,7 +44,7 @@ Objection 2: Further, different orders are different grades, and grades among sp
 
 Objection 3: Further, in the ecclesiastical hierarchy the orders are distinguished according to the actions of "cleansing," "enlightening," and "perfecting." For the order of deacons is "cleansing," the order of priests, is "enlightening," and of bishops "perfecting," as Dionysius says (Eccl. Hier. v). But each of the angels cleanses, enlightens, and perfects. Therefore there is no distinction of orders among the angels.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (Eph. 1:20,21) that "God has set the Man Christ above all principality and power, and virtue, and dominion": which are the various orders of the angels, and some of them belong to one hierarchy, as will be explained [871](A[6]).
 
@@ -54,16 +54,16 @@ This diversity of order arises from the diversity of offices and actions, as app
 
 But although one city thus comprises several orders, all may be reduced to three, when we consider that every multitude has a beginning, a middle, and an end. So in every city, a threefold order of men is to be seen, some of whom are supreme, as the nobles; others are the last, as the common people, while others hold a place between these, as the middle-class [populus honorabilis]. In the same way we find in each angelic hierarchy the orders distinguished according to their actions and offices, and all this diversity is reduced to three---namely, to the summit, the middle, and the base; and so in every hierarchy Dionysius places three orders (Coel. Hier. vi).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Order is twofold. In one way it is taken as the order comprehending in itself different grades; and in that way a hierarchy is called an order. In another way one grade is called an order; and in that sense the several orders of one hierarchy are so called.
 
 Reply to Objection 2: All things are possessed in common by the angelic society, some things, however, being held more excellently by some than by others. Each gift is more perfectly possessed by the one who can communicate it, than by the one who cannot communicate it; as the hot thing which can communicate heat is more perfect that what is unable to give heat. And the more perfectly anyone can communicate a gift, the higher grade he occupies, as he is in the more perfect grade of mastership who can teach a higher science. By this similitude we can reckon the diversity of grades or orders among the angels, according to their different offices and actions.
 
 Reply to Objection 3: The inferior angel is superior to the highest man of our hierarchy, according to the words, "He that is the lesser in the kingdom of heaven, is greater than he"---namely, John the Baptist, than whom "there hath not risen a greater among them that are born of women" (Mat. 11:11). Hence the lesser angel of the heavenly hierarchy can not only cleanse, but also enlighten and perfect, and in a higher way than can the orders of our hierarchy. Thus the heavenly orders are not distinguished by reason of these, but by reason of other different acts.
-# Whether There Are Many Angels In One Order?
+## Whether There Are Many Angels In One Order?
 
-## Objections
+### Objections
 
 Objection 1: It seems that there are not many angels in one order. For it was shown above ([872]Q[50], A[4]), that all the angels are unequal. But equals belong to one order. Therefore there are not many angels in one order.
 
@@ -71,7 +71,7 @@ Objection 2: Further, it is superfluous for a thing to be done by many, which ca
 
 Objection 3: Further, it was said above (OBJ 1) that all the angels are unequal. Therefore, if several angels (for instance, three or four), are of one order, the lowest one of the superior order will be more akin to the highest of the inferior order than with the highest of his own order; and thus he does not seem to be more of one order with the latter than with the former. Therefore there are not many angels of one order.
 
-## Answer
+### Answer
 
 On the contrary, It is written: "The Seraphim cried to one another" (Is. 6:3). Therefore there are many angels in the one order of the Seraphim.
 
@@ -79,16 +79,16 @@ I answer that, Whoever knows anything perfectly, is able to distinguish its acts
 
 Now our knowledge of the angels is imperfect, as Dionysius says (Coel. Hier. vi). Hence we can only distinguish the angelic offices and orders in a general way, so as to place many angels in one order. But if we knew the offices and distinctions of the angels perfectly, we should know perfectly that each angel has his own office and his own order among things, and much more so than any star, though this be hidden from us.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All the angels of one order are in some way equal in a common similitude, whereby they are placed in that order; but absolutely speaking they are not equal. Hence Dionysius says (Coel. Hier. x) that in one and the same order of angels there are those who are first, middle, and last.
 
 Reply to Objection 2: That special distinction of orders and offices wherein each angel has his own office and order, is hidden from us.
 
 Reply to Objection 3: As in a surface which is partly white and partly black, the two parts on the borders of white and black are more akin as regards their position than any other two white parts, but are less akin in quality; so two angels who are on the boundary of two orders are more akin in propinquity of nature than one of them is akin to the others of its own order, but less akin in their fitness for similar offices, which fitness, indeed, extends to a definite limit.
-# Whether The Distinction Of Hierarchies And Orders Comes From The Angelic Nature?
+## Whether The Distinction Of Hierarchies And Orders Comes From The Angelic Nature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the distinction of hierarchies and of orders is not from the nature of the angels. For hierarchy is "a sacred principality," and Dionysius places in its definition that it "approaches a resemblance to God, as far as may be" (Coel. Hier. iii). But sanctity and resemblance to God is in the angels by grace, and not by nature. Therefore the distinction of hierarchies and orders in the angels is by grace, and not by nature.
 
@@ -96,16 +96,16 @@ Objection 2: Further, the Seraphim are called "burning" or "kindling," as Dionys
 
 Objection 3: Further, the ecclesiastical hierarchy is copied from the heavenly. But the orders among men are not from nature, but by the gift of grace; for it is not a natural gift for one to be a bishop, and another a priest, and another a deacon. Therefore neither in the angels are the orders from nature, but from grace only.
 
-## Answer
+### Answer
 
 On the contrary, The Master says (ii, D. 9) that "an angelic order is a multitude of heavenly spirits, who are likened to each other by some gift of grace, just as they agree also in the participation of natural gifts." Therefore the distinction of orders among the angels is not only by gifts of grace, but also by gifts of nature.
 
 I answer that, The order of government, which is the order of a multitude under authority, is derived from its end. Now the end of the angels may be considered in two ways. First, according to the faculty of nature, so that they may know and love God by natural knowledge and love; and according to their relation to this end the orders of the angels are distinguished by natural gifts. Secondly, the end of the angelic multitude can be taken from what is above their natural powers, which consists in the vision of the Divine Essence, and in the unchangeable fruition of His goodness; to which end they can reach only by grace; and hence as regards this end, the orders in the angels are adequately distinguished by the gifts of grace, but dispositively by natural gifts, forasmuch as to the angels are given gratuitous gifts according to the capacity of their natural gifts; which is not the case with men, as above explained ([874]Q[62], A[6]). Hence among men the orders are distinguished according to the gratuitous gifts only, and not according to natural gifts.
 
 From the above the replies to the objections are evident.
-# Whether The Orders Of The Angels Are Properly Named?
+## Whether The Orders Of The Angels Are Properly Named?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the orders of the angels are not properly named. For all the heavenly spirits are called angels and heavenly virtues. But common names should not be appropriated to individuals. Therefore the orders of the angels and virtues are ineptly named.
 
@@ -119,7 +119,7 @@ Objection 5: Further, the name "Seraphim" is derived from ardor, which pertains 
 
 Objection 6: Further, Thrones are seats. But from the fact that God knows and loves the rational creature He is said to sit within it. Therefore there ought not to be any order of "Thrones" besides the "Cherubim" and "Seraphim." Therefore it appears that the orders of angels are not properly styled.
 
-## Answer
+### Answer
 
 
 
@@ -129,7 +129,7 @@ So we must consider that in the angelic orders all spiritual perfections are com
 
 So in this way Dionysius (Coel. Hier. vii) explains the names of the orders accordingly as they befit the spiritual perfections they signify. Gregory, on the other hand, in expounding these names (Hom. xxxiv in Evang.) seems to regard more the exterior ministrations; for he says that "angels are so called as announcing the least things; and the archangels in the greatest; by the virtues miracles are wrought; by the powers hostile powers are repulsed; and the principalities preside over the good spirits themselves."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Angel means "messenger." So all the heavenly spirits, so far as they make known Divine things, are called "angels." But the superior angels enjoy a certain excellence, as regards this manifestation, from which the superior orders are denominated. The lowest order of angels possess no excellence above the common manifestation; and therefore it is denominated from manifestation only; and thus the common name remains as it were proper to the lowest order, as Dionysius says (Coel. Hier. v). Or we may say that the lowest order can be specially called the order of "angels," forasmuch as they announce things to us immediately.
 
@@ -142,9 +142,9 @@ Reply to Objection 4: The "Archangels," according to Dionysius (Coel. Hier. ix),
 Reply to Objection 5: The name "Seraphim" does not come from charity only, but from the excess of charity, expressed by the word ardor or fire. Hence Dionysius (Coel. Hier. vii) expounds the name "Seraphim" according to the properties of fire, containing an excess of heat. Now in fire we may consider three things. First, the movement which is upwards and continuous. This signifies that they are borne inflexibly towards God. Secondly, the active force which is "heat," which is not found in fire simply, but exists with a certain sharpness, as being of most penetrating action, and reaching even to the smallest things, and as it were, with superabundant fervor; whereby is signified the action of these angels, exercised powerfully upon those who are subject to them, rousing them to a like fervor, and cleansing them wholly by their heat. Thirdly we consider in fire the quality of clarity, or brightness; which signifies that these angels have in themselves an inextinguishable light, and that they also perfectly enlighten others.
 
 Reply to Objection 6: The order of the "Thrones" excels the inferior orders as having an immediate knowledge of the types of the Divine works; whereas the "Cherubim" have the excellence of knowledge and the "Seraphim" the excellence of ardor. And although these two excellent attributes include the third, yet the gift belonging to the "Thrones" does not include the other two; and so the order of the "Thrones" is distinguished from the orders of the "Cherubim" and the "Seraphim." For it is a common rule in all things that the excellence of the inferior is contained in the superior, but not conversely. But Dionysius (Coel. Hier. vii) explains the name "Thrones" by its relation to material seats, in which we may consider four things. First, the site; because seats are raised above the earth, and to the angels who are called "Thrones" are raised up to the immediate knowledge of the types of things in God. Secondly, because in material seats is displayed strength, forasmuch as a person sits firmly on them. But here the reverse is the case; for the angels themselves are made firm by God. Thirdly, because the seat receives him who sits thereon, and he can be carried thereupon; and so the angels receive God in themselves, and in a certain way bear Him to the inferior creatures. Fourthly, because in its shape, a seat is open on one side to receive the sitter; and thus are the angels promptly open to receive God and to serve Him.
-# Whether The Grades Of The Orders Are Properly Assigned?
+## Whether The Grades Of The Orders Are Properly Assigned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the grades of the orders are not properly assigned. For the order of prelates is the highest. But the names of "Dominations," "Principalities," and "Powers" of themselves imply prelacy. Therefore these orders ought not to be supreme.
 
@@ -154,7 +154,7 @@ Objection 3: Further, knowledge comes before love, and intellect is higher than 
 
 Objection 4: Further, Gregory (Hom. xxiv in Evang.) places the "Principalities" above the "Powers." These therefore are not placed immediately above the Archangels, as Dionysius says (Coel. Hier. ix).
 
-## Answer
+### Answer
 
 On the contrary, Dionysius (Coel. Hier. vii), places in the highest hierarchy the "Seraphim" as the first, the "Cherubim" as the middle, the "Thrones" as the last; in the middle hierarchy he places the "Dominations," as the first, the "Virtues" in the middle, the "Powers" last; in the lowest hierarchy the "Principalities" first, then the "Archangels," and lastly the "Angels."
 
@@ -172,7 +172,7 @@ This explanation of the orders is quite a reasonable one. For the highest in an 
 
 The disposition of the orders which is mentioned by Gregory is also reasonable. For since the "Dominations" appoint and order what belongs to the Divine ministrations, the orders subject to them are arranged according to the disposition of those things in which the Divine ministrations are effected. Still, as Augustine says (De Trin. iii), "bodies are ruled in a certain order; the inferior by the superior; and all of them by the spiritual creature, and the bad spirit by the good spirit." So the first order after the "Dominations" is called that of "Principalities," who rule even over good spirits; then the "Powers," who coerce the evil spirits; even as evil-doers are coerced by earthly powers, as it is written (Rom. 13:3,4). After these come the "Virtues," which have power over corporeal nature in the working of miracles; after these are the "Angels" and the "Archangels," who announce to men either great things above reason, or small things within the purview of reason.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The angel's subjection to God is greater than their presiding over inferior things; and the latter is derived from the former. Thus the orders which derive their name from presiding are not the first and highest; but rather the orders deriving their name from their nearness and relation to God.
 
@@ -181,9 +181,9 @@ Reply to Objection 2: The nearness to God designated by the name of the "Thrones
 Reply to Objection 3: As above explained ([877]Q[27], A[3]), knowledge takes place accordingly as the thing known is in the knower; but love as the lover is united to the object loved. Now higher things are in a nobler way in themselves than in lower things; whereas lower things are in higher things in a nobler way than they are in themselves. Therefore to know lower things is better than to love them; and to love the higher things, God above all, is better than to know them.
 
 Reply to Objection 4: A careful comparison will show that little or no difference exists in reality between the dispositions of the orders according to Dionysius and Gregory. For Gregory expounds the name "Principalities" from their "presiding over good spirits," which also agrees with the "Virtues" accordingly as this name expressed a certain strength, giving efficacy to the inferior spirits in the execution of the Divine ministrations. Again, according to Gregory, the "Virtues" seem to be the same as "Principalities" of Dionysius. For to work miracles holds the first place in the Divine ministrations; since thereby the way is prepared for the announcements of the "Archangels" and the "Angels."
-# Whether The Orders Will Outlast The Day Of Judgment?
+## Whether The Orders Will Outlast The Day Of Judgment?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the orders of angels will not outlast the Day of Judgment. For the Apostle says (1 Cor. 15:24), that Christ will "bring to naught all principality and power, when He shall have delivered up the kingdom to God and the Father," and this will be in the final consummation. Therefore for the same reason all others will be abolished in that state.
 
@@ -191,22 +191,22 @@ Objection 2: Further, to the office of the angelic orders it belongs to cleanse,
 
 Objection 3: Further, the Apostle says of the angels (Heb. 1:14), that "they are all ministering spirits, sent to minister to them who shall receive the inheritance of salvation"; whence it appears that the angelic offices are ordered for the purpose of leading men to salvation. But all the elect are in pursuit of salvation until the Day of Judgment. Therefore the angelic offices and orders will not outlast the Day of Judgment.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Judges 5:20): "Stars remaining in their order and courses," which is applied to the angels. Therefore the angels will ever remain in their orders.
 
 I answer that, In the angelic orders we may consider two things; the distinction of grades, and the execution of their offices. The distinction of grades among the angels takes place according to the difference of grace and nature, as above explained [878](A[4]); and these differences will ever remain in the angels; for these differences of natures cannot be taken from them unless they themselves be corrupted. The difference of glory will also ever remain in them according to the difference of preceding merit. As to the execution of the angelic offices, it will to a certain degree remain after the Day of Judgment, and to a certain degree will cease. It will cease accordingly as their offices are directed towards leading others to their end; but it will remain, accordingly as it agrees with the attainment of the end. Thus also the various ranks of soldiers have different duties to perform in battle and in triumph.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The principalities and powers will come to an end in that final consummation as regards their office of leading others to their end; because when the end is attained, it is no longer necessary to tend towards the end. This is clear from the words of the Apostle, "When He shall have delivered up the kingdom of God and the Father," i.e. when He shall have led the faithful to the enjoyment of God Himself.
 
 Reply to Objection 2: The actions of angels over the other angels are to be considered according to a likeness to our own intellectual actions. In ourselves we find many intellectual actions which are ordered according to the order of cause and effect; as when we gradually arrive at one conclusion by many middle terms. Now it is manifest that the knowledge of a conclusion depends on all the preceding middle terms not only in the new acquisition of knowledge, but also as regards the keeping of the knowledge acquired. A proof of this is that when anyone forgets any of the preceding middle terms he can have opinion or belief about the conclusion, but not knowledge; as he is ignorant of the order of the causes. So, since the inferior angels know the types of the Divine works by the light of the superior angels, their knowledge depends on the light of the superior angels not only as regards the acquisition of knowledge, but also as regards the preserving of the knowledge possessed. So, although after the Judgment the inferior angels will not progress in the knowledge of some things, still this will not prevent their being enlightened by the superior angels.
 
 Reply to Objection 3: Although after the Day of Judgment men will not be led any more to salvation by the ministry of the angels, still those who are already saved will be enlightened through the angelic ministry.
-# Whether Men Are Taken Up Into The Angelic Orders?
+## Whether Men Are Taken Up Into The Angelic Orders?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that men are not taken up into the orders of the angels. For the human hierarchy is stationed beneath the lowest heavenly hierarchy, as the lowest under the middle hierarchy and the middle beneath the first. But the angels of the lowest hierarchy are never transferred into the middle, or the first. Therefore neither are men transferred to the angelic orders.
 
@@ -214,13 +214,13 @@ Objection 2: Further, certain offices belong to the orders of the angels, as to 
 
 Objection 3: Further, as the good angels lead on to good, so do the demons to what is evil. But it is erroneous to say that the souls of bad men are changed into demons; for Chrysostom rejects this (Hom. xxviii in Matt.). Therefore it does not seem that the souls of the saints will be transferred to the orders of angels.
 
-## Answer
+### Answer
 
 On the contrary, The Lord says of the saints that, "they will be as the angels of God" (Mat. 22:30). I answer that, As above explained ([879]AA[4],7), the orders of the angels are distinguished according to the conditions of nature and according to the gifts of grace. Considered only as regards the grade of nature, men can in no way be assumed into the angelic orders; for the natural distinction will always remain. In view of this distinction, some asserted that men can in no way be transferred to an equality with the angels; but this is erroneous, contradicting as it does the promise of Christ saying that the children of the resurrection will be equal to the angels in heaven (Lk. 20:36). For whatever belongs to nature is the material part of an order; whilst that which perfects is from grace which depends on the liberality of God, and not on the order of nature. Therefore by the gift of grace men can merit glory in such a degree as to be equal to the angels, in each of the angelic grades; and this implies that men are taken up into the orders of the angels. Some, however, say that not all who are saved are assumed into the angelic orders, but only virgins or the perfect; and that the other will constitute their own order, as it were, corresponding to the whole society of the angels. But this is against what Augustine says (De Civ. Dei xii, 9), that "there will not be two societies of men and angels, but only one; because the beatitude of all is to cleave to God alone."
 
 
 
-## Replies
+### Replies
 
 Reply to Objection 1: Grace is given to the angels in proportion to their natural gifts. This, however, does not apply to men, as above explained [880](A[4]; [881]Q[62], A[6]). So, as the inferior angels cannot be transferred to the natural grade of the superior, neither can they be transferred to the superior grade of grace; whereas men can ascend to the grade of grace, but not of nature.
 

@@ -9,9 +9,9 @@ We must now consider restitution, under which head there are eight points of inq
 (6) Whether the person who has taken something away is bound to restore it?
 (7) Whether any other person is bound to restitution?
 (8) Whether one is bound to restore at once?
-# Whether Restitution Is An Act Of Commutative Justice?
+## Whether Restitution Is An Act Of Commutative Justice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that restitution is not an act of commutative justice. For justice regards the notion of what is due. Now one may restore, even as one may give, that which is not due. Therefore restitution is not the act of any part of justice.
 
@@ -19,22 +19,22 @@ Objection 2: Further, that which has passed away and is no more cannot be restor
 
 Objection 3: Further, restitution is repayment of something taken away. Now something may be taken away from a man not only in commutation, but also in distribution, as when, in distributing, one gives a man less than his due. Therefore restitution is not more an act of commutative than of distributive justice.
 
-## Answer
+### Answer
 
 On the contrary, Restitution is opposed to taking away. Now it is an act of commutative injustice to take away what belongs to another. Therefore to restore it is an act of that justice which directs commutations.
 
 I answer that, To restore is seemingly the same as to reinstate a person in the possession or dominion of his thing, so that in restitution we consider the equality of justice attending the payment of one thing for another, and this belongs to commutative justice. Hence restitution is an act of commutative justice, occasioned by one person having what belongs to another, either with his consent, for instance on loan or deposit, or against his will, as in robbery or theft.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That which is not due to another is not his properly speaking, although it may have been his at some time: wherefore it is a mere gift rather than a restitution, when anyone renders to another what is not due to him. It is however somewhat like a restitution, since the thing itself is materially the same; yet it is not the same in respect of the formal aspect of justice, which considers that thing as belonging to this particular man: and so it is not restitution properly so called.
 
 Reply to Objection 2: In so far as the word restitution denotes something done over again, it implies identity of object. Hence it would seem originally to have applied chiefly to external things, which can pass from one person to another, since they remain the same both substantially and in respect of the right of dominion. But, even as the term "commutation" has passed from such like things to those actions and passions which confer reverence or injury, harm or profit on another person, so too the term "restitution" is applied, to things which though they be transitory in reality, yet remain in their effect; whether this touch his body, as when the body is hurt by being struck, or his reputation, as when a man remains defamed or dishonored by injurious words.
 
 Reply to Objection 3: Compensation is made by the distributor to the man to whom less was given than his due, by comparison of thing with thing, when the latter receives so much the more according as he received less than his due: and consequently it pertains to commutative justice.
-# Whether Restitution Of What Has Been Taken Away Is Necessary For Salvation?
+## Whether Restitution Of What Has Been Taken Away Is Necessary For Salvation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not necessary to restore what has been taken away. For that which is impossible is not necessary for salvation. But sometimes it is impossible to restore what has been taken, as when a man has taken limb or life. Therefore it does not seem necessary for salvation to restore what one has taken from another.
 
@@ -44,13 +44,13 @@ Objection 3: Further, what is done cannot be undone. Now sometimes a man loses h
 
 Objection 4: Further, to prevent a person from obtaining a good thing is seemingly the same as to take it away from him, since "to lack little is almost the same as to lack nothing at all," as the Philosopher says (Phys. ii, 5). Now when anyone prevents a man from obtaining a benefice or the like, seemingly he is not bound to restore the benefice, since this would be sometimes impossible. Therefore it is not necessary for salvation to restore what one has taken.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Ep. ad Maced. cxliii): "Unless a man restore what he has purloined, his sin is not forgiven."
 
 I answer that, Restitution as stated above [2890](A[1]) is an act of commutative justice, and this demands a certain equality. Wherefore restitution denotes the return of the thing unjustly taken; since it is by giving it back that equality is reestablished. If, however, it be taken away justly, there will be equality, and so there will be no need for restitution, for justice consists in equality. Since therefore the safeguarding of justice is necessary for salvation, it follows that it is necessary for salvation to restore what has been taken unjustly.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When it is impossible to repay the equivalent, it suffices to repay what one can, as in the case of honor due to God and our parents, as the Philosopher states (Ethic. viii, 14). Wherefore when that which has been taken cannot be restored in equivalent, compensation should be made as far as possible: for instance if one man has deprived another of a limb, he must make compensation either in money or in honor, the condition of either party being duly considered according to the judgment of a good man.
 
@@ -59,9 +59,9 @@ Reply to Objection 2: There are three ways in which one may take away another's 
 Reply to Objection 3: The action of the man who has defamed another cannot be undone, but it is possible, by showing him deference, to undo its effect, viz. the lowering of the other man's personal dignity in the opinion of other men.
 
 Reply to Objection 4: There are several ways of preventing a man from obtaining a benefice. First, justly: for instance, if having in view the honor of God or the good of the Church, one procures its being conferred on a more worthy subject, and then there is no obligation whatever to make restitution or compensation. Secondly, unjustly, if the intention is to injure the person whom one hinders, through hatred, revenge or the like. In this case, if before the benefice has been definitely assigned to anyone, one prevents its being conferred on a worthy subject by counseling that it be not conferred on him, one is bound to make some compensation, after taking account of the circumstances of persons and things according to the judgment of a prudent person: but one is not bound in equivalent, because that man had not obtained the benefice and might have been prevented in many ways from obtaining it. If, on the other hand, the benefice had already been assigned to a certain person, and someone, for some undue cause procures its revocation, it is the same as though he had deprived a man of what he already possessed, and consequently he would be bound to compensation in equivalent, in proportion, however, to his means.
-# Whether It Suffices To Restore The Exact Amount Taken?
+## Whether It Suffices To Restore The Exact Amount Taken?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not sufficient to restore the exact amount taken. For it is written (Ex. 22:1): "If a man shall steal an ox or a sheep and kill or sell it, he shall restore five oxen for one ox, and four sheep for one sheep." Now everyone is bound to keep the commandments of the Divine law. Therefore a thief is bound to restore four- or fivefold.
 
@@ -69,7 +69,7 @@ Objection 2: Further, "What things soever were written, were written for our lea
 
 Objection 3: Further, no one can be unjustly deprived of what he is not bound to give. Now a judge justly deprives a thief of more than the amount of his theft, under the head of damages. Therefore a man is bound to pay it, and consequently it is not sufficient to restore the exact amount.
 
-## Answer
+### Answer
 
 On the contrary, Restitution re-establishes equality where an unjust taking has caused inequality. Now equality is restored by repaying the exact amount taken. Therefore there is no obligation to restore more than the exact amount taken.
 
@@ -79,14 +79,14 @@ As regards the first, the remedy is applied by making restitution, since thereby
 
 Hence it is clear how to answer the First Objection: because this law fixes the punishment to be inflicted by the judge. Nor is this commandment to be kept now, because since the coming of Christ no man is bound to keep the judicial precepts, as stated above ([2891]FS, Q[104], A[3]). Nevertheless the same might be determined by human law, and then the same answer would apply.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Zachaeus said this being willing to do more than he was bound to do; hence he had said already: "Behold . . . the half of my goods I give to the poor."
 
 Reply to Objection 3: By condemning the man justly, the judge can exact more by way of damages; and yet this was not due before the sentence.
-# Whether A Man Is Bound To Restore What He Has Not Taken?
+## Whether A Man Is Bound To Restore What He Has Not Taken?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man is bound to restore what he has not taken. For he that has inflicted a loss on a man is bound to remove that loss. Now it happens sometimes that the loss sustained is greater than the thing taken: for instance, if you dig up a man's seeds, you inflict on the sower a loss equal to the coming harvest, and thus you would seem to be bound to make restitution accordingly. Therefore a man is bound to restore what he has not taken.
 
@@ -94,7 +94,7 @@ Objection 2: Further, he who retains his creditor's money beyond the stated time
 
 Objection 3: Further, human justice is derived from Divine justice. Now a man is bound to restore to God more than he has received from Him, according to Mat. 25:26, "Thou knewest that I reap where I sow not, and gather where I have not strewed." Therefore it is just that one should restore to a man also, something that one has not taken.
 
-## Answer
+### Answer
 
 On the contrary, Restitution belongs to justice, because it re-establishes equality. But if one were to restore what one did not take, there would not be equality. Therefore it is not just to make such a restitution.
 
@@ -104,12 +104,12 @@ Now a man suffers a loss in two ways. First, by being deprived of what he actual
 
 From this we see how to answer the First and Second Objections: because the sower of the seed in the field, has the harvest, not actually but only virtually. In like manner he that has money has the profit not yet actually but only virtually: and both may be hindered in many ways.
 
-## Replies
+### Replies
 
 Reply to Objection 3: God requires nothing from us but what He Himself has sown in us. Hence this saying is to be understood as expressing either the shameful thought of the lazy servant, who deemed that he had received nothing from the other, or the fact that God expects from us the fruit of His gifts, which fruit is from Him and from us, although the gifts themselves are from God without us.
-# Whether Restitution Must Always Be Made To The Person From Whom A Thing Has Been Taken?
+## Whether Restitution Must Always Be Made To The Person From Whom A Thing Has Been Taken?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that restitution need not always be made to the person from whom a thing has been taken. For it is not lawful to injure anyone. Now it would sometimes be injurious to the man himself, or to others, were one to restore to him what has been taken from him; if, for instance, one were to return a madman his sword. Therefore restitution need not always be made to the person from whom a thing has been taken.
 
@@ -121,13 +121,13 @@ Objection 4: Further, we owe more compensation to one from whom we have received
 
 Objection 5: Further, it is useless to restore a thing which reverts to the restorer by being restored. Now if a prelate has unjustly taken something from the Church and makes restitution to the Church, it reverts into his hands, since he is the guardian of the Church's property. Therefore he ought not to restore to the Church from whom he has taken: and so restitution should not always be made to the person from whom something has been taken away
 
-## Answer
+### Answer
 
 On the contrary, It is written (Rom. 13:7): "Render . . . to all men their dues; tribute to whom tribute is due, custom to whom custom."
 
 I answer that, Restitution re-establishes the equality of commutative justice, which equality consists in the equalizing of thing to thing, as stated above [2892](A[2]; Q[58], A[10]). Now this equalizing of things is impossible, unless he that has less than his due receive what is lacking to him: and for this to be done, restitution must be made to the person from whom a thing has been taken.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When the thing to be restored appears to be grievously injurious to the person to whom it is to be restored, or to some other, it should not be restored to him there and then, because restitution is directed to the good of the person to whom it is made, since all possessions come under the head of the useful. Yet he who retains another's property must not appropriate it, but must either reserve it, that he may restore it at a fitting time, or hand it over to another to keep it more securely.
 
@@ -138,9 +138,9 @@ Reply to Objection 3: If the person to whom restitution is due is unknown altoge
 Reply to Objection 4: A man is bound, out of his own property, to succor his parents, or those from whom he has received greater benefits; but he ought not to compensate a benefactor out of what belongs to others; and he would be doing this if he were to compensate one with what is due to another. Exception must be made in cases of extreme need, for then he could and should even take what belongs to another in order to succor a parent.
 
 Reply to Objection 5: There are three ways in which a prelate can rob the Church of her property. First by laying hands on Church property which is committed, not to him but to another; for instance, if a bishop appropriates the property of the chapter. In such a case it is clear that he is bound to restitution, by handing it over to those who are its lawful owners. Secondly by transferring to another person (for instance a relative or a friend) Church property committed to himself: in which case he must make restitution to the Church, and have it under his own care, so as to hand it over to his successor. Thirdly, a prelate may lay hands on Church property, merely in intention, when, to wit, he begins to have a mind to hold it as his own and not in the name of the Church: in which case he must make restitution by renouncing his intention.
-# Whether He That Has Taken A Thing Is Always Bound To Restitution?
+## Whether He That Has Taken A Thing Is Always Bound To Restitution?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that he who has taken a thing is not always bound to restore it. Restitution re-establishes the equality of justice, by taking away from him that has more and giving to him that has less. Now it happens sometimes that he who has taken that which belongs to another, no longer has it, through its having passed into another's hands. Therefore it should be restored, not by the person that took it, but by the one that has it.
 
@@ -148,22 +148,22 @@ Objection 2: Further, no man is bound to reveal his own crime. But by making res
 
 Objection 3: Further, the same thing should not be restored several times. Now sometimes several persons take a thing at the same time, and one of them restores it in its entirety. Therefore he that takes a thing is not always bound to restitution.
 
-## Answer
+### Answer
 
 On the contrary, He that has sinned is bound to satisfaction. Now restitution belongs to satisfaction. Therefore he that has taken a thing is bound to restore it.
 
 I answer that, With regard to a man who has taken another's property, two points must be considered: the thing taken, and the taking. By reason of the thing taken, he is bound to restore it as long as he has it in his possession, since the thing that he has in addition to what is his, should be taken away from him, and given to him who lacks it according to the form of commutative justice. On the other hand, the taking of the thing that is another's property, may be threefold. For sometimes it is injurious, i.e. against the will of the owner, as in theft and robbery: in which case the thief is bound to restitution not only by reason of the thing, but also by reason of the injurious action, even though the thing is no longer in his possession. For just as a man who strikes another, though he gain nothing thereby, is bound to compensate the injured person, so too he that is guilty of theft or robbery, is bound to make compensation for the loss incurred, although he be no better off; and in addition he must be punished for the injustice committed. Secondly, a man takes another's property for his own profit but without committing an injury, i.e. with the consent of the owner, as in the case of a loan: and then, the taker is bound to restitution, not only by reason of the thing, but also by reason of the taking, even if he has lost the thing: for he is bound to compensate the person who has done him a favor, and he would not be doing so if the latter were to lose thereby. Thirdly, a man takes another's property without injury to the latter or profit to himself, as in the case of a deposit; wherefore he that takes a thing thus, incurs no obligation on account of the taking, in fact by taking he grants a favor; but he is bound to restitution on account of the thing taken. Consequently if this thing be taken from him without any fault on his part, he is not bound to restitution, although he would be, if he were to lose the thing through a grievous fault on his part.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The chief end of restitution is, not that he who has more than his due may cease to have it, but that he who has less than his due may be compensated. Wherefore there is no place for restitution in those things which one man may receive from another without loss to the latter, as when a person takes a light from another's candle. Consequently although he that has taken something from another, may have ceased to have what he took, through having transferred it to another, yet since that other is deprived of what is his, both are bound to restitution, he that took the thing, on account of the injurious taking, and he that has it, on account of the thing.
 
 Reply to Objection 2: Although a man is not bound to reveal his crime to other men, yet is he bound to reveal it to God in confession; and so he may make restitution of another's property through the priest to whom he confesses.
 
 Reply to Objection 3: Since restitution is chiefly directed to the compensation for the loss incurred by the person from whom a thing has been taken unjustly, it stands to reason that when he has received sufficient compensation from one, the others are not bound to any further restitution in his regard: rather ought they to refund the person who has made restitution, who, nevertheless, may excuse them from so doing.
-# Whether Restitution Is Binding On Those Who Have Not Taken?
+## Whether Restitution Is Binding On Those Who Have Not Taken?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that restitution is not binding on those who have not taken. For restitution is a punishment of the taker. Now none should be punished except the one who sinned. Therefore none are bound to restitution save the one who has taken.
 
@@ -171,7 +171,7 @@ Objection 2: Further, justice does not bind one to increase another's property. 
 
 Objection 3: Further, no man is bound to expose himself to danger, in order to safeguard another's property. Now sometimes a man would expose himself to the danger of death, were he to betray a thief, or withstand him. Therefore one is not bound to restitution, through not betraying or withstanding a thief.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Rom. 1:32): "They who do such things are worthy of death, and not only they that do them, but also they that consent to them that do them." Therefore in like manner they that consent are bound to restitution.
 
@@ -183,16 +183,16 @@ It must be observed, however, that in five of these cases the cooperator is alwa
 
 In the other cases mentioned above, a man is not always bound to restitution: because counsel and flattery are not always the efficacious cause of robbery. Hence the counsellor or flatterer is bound to restitution, only when it may be judged with probability that the unjust taking resulted from such causes.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not only is he bound to restitution who commits the sin, but also he who is in any way cause of the sin, whether by counselling, or by commanding, or in any other way whatever.
 
 Reply to Objection 2: He is bound chiefly to restitution, who is the principal in the deed; first of all, the "commander"; secondly, the "executor," and in due sequence, the others: yet so that, if one of them make restitution, another is not bound to make restitution to the same person. Yet those who are principals in the deed, and who took possession of the thing, are bound to compensate those who have already made restitution. When a man commands an unjust taking that does not follow, no restitution has to be made, since its end is chiefly to restore the property of the person who has been unjustly injured.
 
 Reply to Objection 3: He that fails to denounce a thief or does not withstand or reprehend him is not always bound to restitution, but only when he is obliged, in virtue of his office, to do so: as in the case of earthly princes who do not incur any great danger thereby; for they are invested with public authority, in order that they may maintain justice.
-# Whether A Man Is Bound To Immediate Restitution, Or May He Put It Off?
+## Whether A Man Is Bound To Immediate Restitution, Or May He Put It Off?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a man is not bound to immediate restitution, and can lawfully delay to restore. For affirmative precepts do not bind for always. Now the necessity of making restitution is binding through an affirmative precept. Therefore a man is not bound to immediate restitution.
 
@@ -200,13 +200,13 @@ Objection 2: Further, no man is bound to do what is impossible. But it is someti
 
 Objection 3: Further, restitution is an act of virtue, viz. of justice. Now time is one of the circumstances requisite for virtuous acts. Since then the other circumstances are not determinate for acts of virtue, but are determinable according to the dictate of prudence, it seems that neither in restitution is there any fixed time, so that a man be bound to restore at once.
 
-## Answer
+### Answer
 
 On the contrary, All matters of restitution seem to come under one head. Now a man who hires the services of a wage-earner, must not delay compensation, as appears from Lev. 19:13, "The wages of him that hath been hired by thee shall not abide with thee until the morning." Therefore neither is it lawful, in other cases of restitution, to delay, and restitution should be made at once.
 
 I answer that, Even as it is a sin against justice to take another's property, so also is it to withhold it, since, to withhold the property of another against the owner's will, is to deprive him of the use of what belongs to him, and to do him an injury. Now it is clear that it is wrong to remain in sin even for a short time; and one is bound to renounce one's sin at once, according to Ecclus. 21:2, "Flee from sin as from the face of a serpent." Consequently one is bound to immediate restitution, if possible, or to ask for a respite from the person who is empowered to grant the use of the thing.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the precept about the making of restitution is affirmative in form, it implies a negative precept forbidding us to withhold another's property.
 

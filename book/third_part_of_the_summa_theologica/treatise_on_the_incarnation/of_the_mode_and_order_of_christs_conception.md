@@ -5,9 +5,9 @@ We have now to consider the mode and order of Christ's conception, concerning wh
 (2) Whether it was animated in the first instant of its conception?
 (3) Whether it was assumed by the Word in the first instant of its conception?
 (4) Whether this conception was natural or miraculous?
-# Whether Christ's Body Was Formed In The First Instant Of Its Conception?
+## Whether Christ's Body Was Formed In The First Instant Of Its Conception?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's body was not formed in the first instant of its conception. For it is written (Jn. 2:20): "Six-and-forty years was this Temple in building"; on which words Augustine comments as follows (De Trin. iv): "This number applies manifestly to the perfection of our Lord's body." He says, further (QQ. lxxxiii, qu. 56): "It is not without reason that the Temple, which was a type of His body, is said to have been forty-six years in building: so that as many years as it took to build the Temple, in so many days was our Lord's body perfected." Therefore Christ's body was not perfectly formed in the first instant of its conception.
 
@@ -17,7 +17,7 @@ Objection 3: Further, Christ's body was formed of the purest blood of the Virgin
 
 Objection 4: Further, as the augmentative power requires a fixed time for its act, so also does the generative power: for both are natural powers belonging to the vegetative soul. But Christ's body took a fixed time to grow, like the bodies of other men: for it is written (Lk. 2:52) that He "advanced in wisdom and age." Therefore it seems for the same reason that the formation of His body, since that, too, belongs to the generative power, was not instantaneous, but took a fixed time, like the bodies of other men.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. xviii): "As soon as the angel announced it, as soon as the Spirit came down, the Word was in the womb, within the womb the Word was made flesh."
 
@@ -27,7 +27,7 @@ Now, the first could not be instantaneous: since this would be contrary to the v
 
 But the body's very formation, in which conception principally consists, was instantaneous, for two reasons. First, because of the infinite power of the agent, viz. the Holy Ghost, by whom Christ's body was formed, as stated above ([4152]Q[32], A[1]). For the greater the power of an agent, the more quickly can it dispose matter; and, consequently, an agent of infinite power can dispose matter instantaneously to its due form. Secondly, on the part of the Person of the Son, whose body was being formed. For it was unbecoming that He should take to Himself a body as yet unformed. While, if the conception had been going on for any time before the perfect formation of the body, the whole conception could not be attributed to the Son of God, since it is not attributed to Him except by reason of the assumption of that body. Therefore in the first instant in which the various parts of the matter were united together in the place of generation, Christ's body was both perfectly formed and assumed. And thus is the Son of God said to have been conceived; nor could it be said otherwise.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Neither quotation from Augustine refers to formation alone of Christ's body, but to its formation, together with a fixed development up to the time of His birth. Wherefore in the aforesaid number are foreshadowed the number of months during which Christ was in the Virgin's womb.
 
@@ -36,9 +36,9 @@ Reply to Objection 2: This local movement is not comprised within the conception
 Reply to Objection 3: It is not possible to fix the last instant in which that matter was blood: but it is possible to fix the last period of time which continued without any interval up to the first instant in which Christ's body was formed. And this instant was the terminus of the time occupied by the local movement of the matter towards the place of generation.
 
 Reply to Objection 4: Increase is caused by the augmentative power of that which is the subject of increase: but the formation of the body is caused by the generative power, not of that which is generated, but of the father generating from seed, in which the formative power derived from the father's soul has its operation. But Christ's body was not formed by the seed of man, as stated above ([4153]Q[31], A[5], ad 3), but by the operation of the Holy Ghost. Therefore the formation thereof should be such as to be worthy of the Holy Ghost. But the development of Christ's body was the effect of the augmentative power in Christ's soul: and since this was of the same species as ours, it behooved His body to develop in the same way as the bodies of other men, so as to prove the reality of His human nature.
-# Whether Christ's Body Was Animated In The First Instant Of Its Conception?
+## Whether Christ's Body Was Animated In The First Instant Of Its Conception?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's body was not animated in the first instant of its conception. For Pope Leo says (Ep. ad Julian.): "Christ's flesh was not of another nature than ours: nor was the beginning of His animation different from that of other men." But the soul is not infused into other men at the first instant of their conception. Therefore neither should Christ's soul have been infused into His body in the first instant of its conception.
 
@@ -46,22 +46,22 @@ Objection 2: Further, the soul, like any natural form, requires determinate quan
 
 Objection 3: Further, whenever there is "before" and "after" there must be several instants. But according to the Philosopher (De Gener. Animal. ii) in the generation of a man there must needs be "before" and "after": for he is first of all a living thing, and afterwards, an animal, and after that, a man. Therefore the animation of Christ could not be effected in the first instant of His conception.
 
-## Answer
+### Answer
 
 On the contrary, Damascene says (De Fide Orth. iii): "At the very instant that there was flesh, it was the flesh of the Word of God, it was flesh animated with a rational and intellectual soul."
 
 I answer that, For the conception to be attributed to the very Son of God, as we confess in the Creed, when we say, "who was conceived by the Holy Ghost," we must needs say that the body itself, in being conceived, was assumed by the Word of God. Now it has been shown above ([4154]Q[6], AA[1] ,2) that the Word of God assumed the body by means of the soul, and the soul by means of the spirit, i.e. the intellect. Wherefore in the first instant of its conception Christ's body must needs have been animated by the rational soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The beginning of the infusion of the soul may be considered in two ways. First, in regard to the disposition of the body. And thus, the beginning of the infusion of the soul into Christ's body was the same as in other men's bodies: for just as the soul is infused into another man's body as soon as it is formed, so was it with Christ. Secondly, this beginning may be considered merely in regard to time. And thus, because Christ's body was perfectly formed in a shorter space of time, so after a shorter space of time was it animated.
 
 Reply to Objection 2: The soul requires due quantity in the matter into which it is infused: but this quantity allows of a certain latitude because it is not fixed to a certain amount. Now the quantity that a body has when the soul is first infused into it is in proportion to the perfect quantity to which it will attain by development: that is to say, men of greater stature have greater bodies at the time of first animation. But Christ at the perfect age was of becoming and middle stature: in proportion to which was the quantity of His body at the time when other men's bodies are animated; though it was less than theirs at the first instant of His conception. Nevertheless that quantity was not too small to safeguard the nature of an animated body; since it would have sufficed for the animation of a small man's body.
 
 Reply to Objection 3: What the Philosopher says is true in the generation of other men, because the body is successively formed and disposed for the soul: whence, first, as being imperfectly disposed, it receives an imperfect soul; and afterwards, when it is perfectly disposed, it receives a perfect soul. But Christ's body, on account of the infinite power of the agent, was perfectly disposed instantaneously. Wherefore, at once and in the first instant it received a perfect form, that is, the rational soul.
-# Whether Christ's Flesh Was First Of All Conceived And Afterwards Assumed?
+## Whether Christ's Flesh Was First Of All Conceived And Afterwards Assumed?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's flesh was first of all conceived, and afterwards assumed. Because what is not cannot be assumed. But Christ's flesh began to exist when it was conceived. Therefore it seems that it was assumed by the Word of God after it was conceived.
 
@@ -69,20 +69,20 @@ Objection 2: Further, Christ's flesh was assumed by the Word of God, by means of
 
 Objection 3: Further, in everything generated, that which is imperfect precedes in time that which is perfect: which is made clear by the Philosopher (Metaph. ix). But Christ's body is something generated. Therefore it did not attain to its ultimate perfection, which consisted in the union with the Word of God, at the first instant of its conception; but, first of all, the flesh was conceived and afterwards assumed.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Fide ad Petrum xviii [*Written by Fulgentius]): "Hold steadfastly, and doubt not for a moment that Christ's flesh was not conceived in the Virgin's womb, before being assumed by the Word."
 
 I answer that, As stated above, we may say properly that "God was made man," but not that "man was made God": because God took to Himself that which belongs to man---and that which belongs to man did not pre-exist, as subsisting in itself, before being assumed by the Word. But if Christ's flesh had been conceived before being assumed by the Word, it would have had at some time an hypostasis other than that of the Word of God. And this is against the very nature of the Incarnation, which we hold to consist in this, that the Word of God was united to human nature and to all its parts in the unity of hypostasis: nor was it becoming that the Word of God should, by assuming human nature, destroy a pre-existing hypostasis of human nature or of any part thereof. It is consequently contrary to faith to assert that Christ's flesh was first of all conceived and afterwards assumed by the Word of God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: If Christ's flesh had been formed or conceived, not instantaneously, but successively, one of two things would follow: either that what was assumed was not yet flesh, or that the flesh was conceived before it was assumed. But since we hold that the conception was effected instantaneously, it follows that in that flesh the beginning and the completion of its conception were in the same instant. So that, as Augustine [*Fulgentius, De Fide ad Petrum xviii] says: "We say that the very Word of God was conceived in taking flesh, and that His very flesh was conceived by the Word taking flesh."
 
 Reply to Objection 3: The mystery of the Incarnation is not to be looked upon as an ascent, as it were, of a man already existing and mounting up to the dignity of the Union: as the heretic Photinus maintained. Rather is it to be considered as a descent, by reason of the perfect Word of God taking unto Himself the imperfection of our nature; according to Jn. 6:38: "I came down from heaven."
-# Whether Christ's Conception Was Natural?
+## Whether Christ's Conception Was Natural?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ's conception was natural. For Christ is called the Son of Man by reason of His conception in the flesh. But He is a true and natural Son of Man: as also is He the true and natural Son of God. Therefore His conception was natural.
 
@@ -90,13 +90,13 @@ Objection 2: Further, no creature can be the cause of a miraculous effect. But C
 
 Objection 3: Further, for a transformation to be natural, it is enough that the passive principle be natural, as stated above ([4155]Q[32], A[4]). But in Christ's conception the passive principle on the part of His Mother was natural, as we have shown ([4156]Q[32], A[4]). Therefore Christ's conception was natural.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Ep. ad Caium Monach.): "Christ does in a superhuman way those things that pertain to man: this is shown in the miraculous virginal conception."
 
 I answer that, As Ambrose says (De Incarn. vi): "In this mystery thou shalt find many things that are natural, and many that are supernatural." For if we consider in this conception anything connected with the matter thereof, which was supplied by the mother, it was in all such things natural. But if we consider it on the part of the active power, thus it was entirely miraculous. And since judgment of a thing should be pronounced in respect of its form rather than of its matter: and likewise in respect of its activity rather than of its passiveness: therefore is it that Christ's conception should be described simply as miraculous and supernatural, although in a certain respect it was natural.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Christ is said to be a natural Son of Man, by reason of His having a true human nature, through which He is a Son of Man, although He had it miraculously; thus, too, the blind man to whom sight has been restored sees naturally by sight miraculously received.
 

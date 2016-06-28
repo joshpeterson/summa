@@ -7,9 +7,9 @@
 (4) Whether the marriage act is excused from sin by the aforesaid goods?
 (5) Whether it can ever be excused from sin without them?
 (6) Whether in their absence it is always a mortal sin?
-# Whether Certain Blessings Are Necessary In Order To Excuse Marriage?
+## Whether Certain Blessings Are Necessary In Order To Excuse Marriage?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that certain blessings are not necessary in order to excuse marriage. For just as the preservation of the individual which is effected by the nutritive power is intended by nature, so too is the preservation of the species which is effected by marriage; and indeed so much the more as the good of the species is better and more exalted than the good of the individual. But no goods are necessary to excuse the act of the nutritive power. Neither therefore are they necessary to excuse marriage.
 
@@ -19,13 +19,13 @@ Objection 3: Further, matrimony was instituted as a remedy and as an office, as 
 
 Objection 4: Further, the virtues are directed to whatever can be done aright. If then marriage can be righted by certain goods, it needs nothing else to right it besides the virtues of the soul; and consequently there is no need to assign to matrimony any goods whereby it is righted, any more than to other things in which the virtues direct us.
 
-## Answer
+### Answer
 
 On the contrary, Wherever there is indulgence, there must needs be some reason for excuse. Now marriage is allowed in the state of infirmity "by indulgence" (1 Cor. 7:6). Therefore it needs to be excused by certain goods.
 
 I answer that, No wise man should allow himself to lose a thing except for some compensation in the shape of an equal or better good. Wherefore for a thing that has a loss attached to it to be eligible, it needs to have some good connected with it, which by compensating for that loss makes that thing ordinate and right. Now there is a loss of reason incidental to the union of man and woman, both because the reason is carried away entirely on account of the vehemence of the pleasure, so that it is unable to understand anything at the same time, as the Philosopher says (Ethic. vii, 11); and again because of the tribulation of the flesh which such persons have to suffer from solicitude for temporal things (1 Cor. 7:28). Consequently the choice of this union cannot be made ordinate except by certain compensations whereby that same union is righted. and these are the goods which excuse marriage and make it right.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the act of eating there is not such an intense pleasure overpowering the reason as in the aforesaid action, both because the generative power, whereby original sin is transmitted, is infected and corrupt, whereas the nutritive power, by which original sin is not transmitted, is neither corrupt nor infected; and again because each one feels in himself a defect of the individual more than a defect of the species. Hence, in order to entice a man to take food which supplies a defect of the individual, it is enough that he feel this defect; but in order to entice him to the act whereby a defect of the species is remedied, Divine providence attached pleasure to that act, which moves even irrational animals in which there is not the stain of original sin. Hence the comparison fails.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: These goods which justify marriage belong to the nature of
 Reply to Objection 3: From the very fact that marriage is intended as an office or as a remedy it has the aspect of something useful and right; nevertheless both aspects belong to it from the fact that it has these goods by which it fulfills the office and affords a remedy to concupiscence.
 
 Reply to Objection 4: An act of virtue may derive its rectitude both from the virtue as its elicitive principle, and from its circumstances as its formal principles; and the goods of marriage are related to marriage as circumstances to an act of virtue which owes it to those circumstances that it can be an act of virtue.
-# Whether The Goods Of Marriage Are Sufficiently Enumerated?
+## Whether The Goods Of Marriage Are Sufficiently Enumerated?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the goods of marriage are insufficiently enumerated by the Master (Sent. iv, D, 31), namely "faith, offspring, and sacrament." For the object of marriage among men is not only the begetting and feeding of children, but also the partnership of a common life, whereby each one contributes his share of work to the common stock, as stated in Ethic. viii, 12. Therefore as the offspring is reckoned a good of matrimony, so also should the communication of works.
 
@@ -52,13 +52,13 @@ Objection 6: Further, the same cause does not make a thing both useful and virtu
 
 Objection 7: Further, nothing should be reckoned as a property or condition of itself. Now these goods are reckoned to be conditions of marriage. Therefore since matrimony is a sacrament, the sacrament should not be reckoned a condition of matrimony.
 
-## Answer
+### Answer
 
 
 
 I answer that, Matrimony is instituted both as an office of nature and as a sacrament of the Church. As an office of nature it is directed by two things, like every other virtuous act. one of these is required on the part of the agent and is the intention of the due end, and thus the "offspring" is accounted a good of matrimony; the other is required on the part of the act, which is good generically through being about a due matter; and thus we have "faith," whereby a man has intercourse with his wife and with no other woman. Besides this it has a certain goodness as a sacrament, and this is signified by the very word "sacrament."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Offspring signifies not only the begetting of children, but also their education, to which as its end is directed the entire communion of works that exists between man and wife as united in marriage, since parents naturally "lay up" for their "children" (2 Cor. 12:14); so that the offspring like a principal end includes another, as it were, secondary end.
 
@@ -73,9 +73,9 @@ Reply to Objection 5: Faith here does not denote a virtue, but that condition of
 Reply to Objection 6: Just as the right use of a useful good derives its rectitude not from the useful but from the reason which causes the right use, so too direction to a useful good may cause the goodness of rectitude by virtue of the reason causing the right direction; and in this way marriage, through being directed to the offspring, is useful, and nevertheless righteous, inasmuch as it is directed aright.
 
 Reply to Objection 7: As the Master says (Sent. iv, D, 31), sacrament here does not mean matrimony itself, but its indissolubility, which is a sign of the same thing as matrimony is.
-# Whether The Sacrament Is The Chief Of The Marriage Goods?
+## Whether The Sacrament Is The Chief Of The Marriage Goods?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the "sacrament" is not the chief of the marriage goods. For the end is principal in everything. Now the end of marriage is the offspring. Therefore the offspring is the chief marriage good.
 
@@ -87,13 +87,13 @@ Objection 4: Further, an effect cannot be more important than its cause. Now con
 
 Objection 5: Further, the sacraments which produce an everlasting effect imprint a character. But no character is imprinted in matrimony. Therefore it is not conditioned by a lasting inseparability. Consequently just as there is marriage without "offspring" so is there marriage without "sacrament," and thus the same conclusion follows as above.
 
-## Answer
+### Answer
 
 On the contrary, That which has a place in the definition of a thing is most essential thereto. Now inseparability, which pertains to sacrament, is placed in the definition of marriage ([4951]Q[44], A[3]), while offspring and faith are not. Therefore among the other goods sacrament is the most essential to matrimony.
 
 I answer that, This or that may be more important to a thing in two ways, either because it is more essential or because it is more excellent. If the reason is because it is more excellent, then "sacrament" is in every way the most important of the three marriage goods, since it belongs to marriage considered as a sacrament of grace; while the other two belong to it as an office of nature; and a perfection of grace is more excellent than a perfection of nature. If, however, it is said to be more important because it is more essential, we must draw a distinction; for "faith" and "offspring" can be considered in two ways. First, in themselves, and thus they regard the use of matrimony in begetting children and observing the marriage compact; while inseparability, which is denoted by "sacrament," regards the very sacrament considered in itself, since from the very fact that by the marriage compact man and wife give to one another power the one over the other in perpetuity, it follows that they cannot be put asunder. Hence there is no matrimony without inseparability, whereas there is matrimony without "faith" and "offspring," because the existence of a thing does not depend on its use; and in this sense "sacrament" is more essential to matrimony than "faith" and "offspring." Secondly, "faith" and "offspring" may be considered as in their principles, so that "offspring" denote the intention of having children, and "faith" the duty of remaining faithful, and there can be no matrimony without these also, since they are caused in matrimony by the marriage compact itself, so that if anything contrary to these were expressed in the consent which makes a marriage, the marriage would be invalid. Taking "faith" and "offspring" in this sense, it is clear that "offspring" is the most essential thing in marriage, secondly "faith," and thirdly "sacrament"; even as to man it is more essential to be in nature than to be in grace, although it is more excellent to be in grace.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The end as regards the intention stands first in a thing, but as regards the attainment it stands last. It is the same with "offspring" among the marriage goods; wherefore in a way it is the most important and in another way it is not.
 
@@ -104,9 +104,9 @@ Reply to Objection 3: According to Augustine (De Bono Conjug. ix), marriage is a
 Reply to Objection 4: Although the consent which makes a marriage is not everlasting materially, i.e. in regard to the substance of the act, since that act ceases and a contrary act may succeed it, nevertheless formally speaking it is everlasting, because it is a consent to an ever lasting bond, else it would not make a marriage, for a consent to take a woman for a time makes no marriage. Hence it is everlasting formally, inasmuch as an act takes its species from its object; and thus it is that matrimony derives its inseparability from the consent.
 
 Reply to Objection 5: In those sacraments wherein a character is imprinted, power is given to perform spiritual actions; but in matrimony, to perform bodily actions. Wherefore matrimony by reason of the power which man and wife receive over one another agrees with the sacraments in which a character is imprinted, and from this it derives its inseparability, as the Master says (Sent. iv, D, 31); yet it differs from them in so far as that power regards bodily acts; hence it does not confer a spiritual character.
-# Whether The Marriage Act Is Excused By The Aforesaid Goods?
+## Whether The Marriage Act Is Excused By The Aforesaid Goods?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the marriage act cannot be altogether excused from sin by the aforesaid goods. For whoever allows himself to lose a greater good for the sake of a lesser good sins because he allows it inordinately. Now the good of reason which is prejudiced in the marriage act is greater than these three marriage goods. Therefore the aforesaid goods do not suffice to excuse marriage intercourse.
 
@@ -116,13 +116,13 @@ Objection 3: Further, wherever there is immoderate passion there is moral vice. 
 
 Objection 4: Further, according to Damascene (De Fide Orth. ii, 15), shame is only caused by a disgraceful deed. Now the marriage goods do not deprive that deed of its shame. Therefore they cannot excuse it from sin.
 
-## Answer
+### Answer
 
 On the contrary, The marriage act differs not from fornication except by the marriage goods. If therefore these were not sufficient to excuse it marriage would be always unlawful; and this is contrary to what was stated above ([4952]Q[41], A[3]).
 
 I answer that, An act is said to be excused in two ways. First, on the part of the agent, so that although it be evil it is not imputed as sin to the agent, or at least not as so grave a sin. thus ignorance is said to excuse a sin wholly or partly. Secondly, an act is said to be excused on its part, so that, namely, it is not evil; and it is thus that the aforesaid goods are said to excuse the marriage act. Now it is from the same cause that an act is not morally evil, and that it is good, since there is no such thing as an indifferent act, as was stated in the Second Book (Sent. ii, D, 40; [4953]FS, Q[18], A[9]). Now a human act is said to be good in two ways. In one way by goodness of virtue, and thus an act derives its goodness from those things which place it in the mean. This is what "faith" and "offspring" do in the marriage act, as stated above [4954](A[2]). In another way, by goodness of the "sacrament," in which way an act is said to be not only good, but also holy, and the marriage act derives this goodness from the indissolubility of the union, in respect of which it signifies the union of Christ with the Church. Thus it is clear that the aforesaid goods sufficiently excuse the marriage act.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By the marriage act man does not incur harm to his reason as to habit, but only as to act. Nor is it unfitting that a certain act which is generically better be sometimes interrupted for some less good act; for it is possible to do this without sin, as in the case of one who ceases from the act of contemplation in order meanwhile to devote himself to action.
 
@@ -131,9 +131,9 @@ Reply to Objection 2: This argument would avail if the evil that is inseparable 
 Reply to Objection 3: The excess of passion that amounts to a sin does not refer to the passion's quantitative intensity, but to its proportion to reason; wherefore it is only when a passion goes beyond the bounds of reason that it is reckoned to be immoderate. Now the pleasure attaching to the marriage act, while it is most intense in point of quantity, does not go beyond the bounds previously appointed by reason before the commencement of the act, although reason is unable to regulate them during the pleasure itself.
 
 Reply to Objection 4: The turpitude that always accompanies the marriage act and always causes shame is the turpitude of punishment, not of sin, for man is naturally ashamed of any defect.
-# Whether The Marriage Act Can Be Excused Without The Marriage Goods?
+## Whether The Marriage Act Can Be Excused Without The Marriage Goods?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the marriage act can be excused even without the marriage goods. For he who is moved by nature alone to the marriage act, apparently does not intend any of the marriage goods, since the marriage goods pertain to grace or virtue. Yet when a person is moved to the aforesaid act by the natural appetite alone, seemingly he commits no sin, for nothing natural is an evil, since "evil is contrary to nature and order," as Dionysius says (Div. Nom. iv). Therefore the marriage act can be excused even without the marriage goods.
 
@@ -143,13 +143,13 @@ Objection 3: Further, he who uses as he will that which is his own does not act 
 
 Objection 4: Further, that which is good generically does not become evil unless it be done with an evil intention. Now the marriage act whereby a husband knows his wife is generically good. Therefore it cannot be evil unless it be done with an evil intention. Now it can be done with a good intention, even without intending any marriage good, for instance by intending to keep or acquire bodily health. Therefore it seems that this act can be excused even without the marriage goods.
 
-## Answer
+### Answer
 
 On the contrary, If the cause be removed the effect is removed. Now the marriage goods are the cause of rectitude in the marriage act. Therefore the marriage act cannot be excused without them.
 
 I answer that, Just as the marriage goods, in so far as they consist in a habit, make a marriage honest and holy, so too, in so far as they are in the actual intention, they make the marriage act honest, as regards those two marriage goods which relate to the marriage act. Hence when married persons come together for the purpose of begetting children, or of paying the debt to one another (which pertains to "faith") they are wholly excused from sin. But the third good does not relate to the use of marriage, but to its excuse, as stated above [4955](A[3]); wherefore it makes marriage itself honest, but not its act, as though its act were wholly excused from sin, through being done on account of some signification. Consequently there are only two ways in which married persons can come together without any sin at all, namely in order to have offspring, and in order to pay the debt. otherwise it is always at least a venial sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The offspring considered as a marriage good includes something besides the offspring as a good intended by nature. For nature intends offspring as safeguarding the good of the species, whereas the offspring as a good of the sacrament of marriage includes besides this the directing of the child to God. Wherefore the intention of nature which intends the offspring must needs be referred either actually or habitually to the intention of having an offspring, as a good of the sacrament: otherwise the intention would go no further than a creature; and this is always a sin. Consequently whenever nature alone moves a person to the marriage act, he is not wholly excused from sin, except in so far as the movement of nature is further directed actually or habitually to the offspring as a good of the sacrament. Nor does it follow that the instigation of nature is evil, but that it is imperfect unless it be further directed to some marriage good.
 
@@ -158,9 +158,9 @@ Reply to Objection 2: If a man intends by the marriage act to prevent fornicatio
 Reply to Objection 3: One due circumstance does not suffice to make a good act, and consequently it does not follow that, no matter how one use one's own property, the use is good, but when one uses it as one ought according to all the circumstances.
 
 Reply to Objection 4: Although it is not evil in itself to intend to keep oneself in good health, this intention becomes evil, if one intend health by means of something that is not naturally ordained for that purpose; for instance if one sought only bodily health by the sacrament of baptism, and the same applies to the marriage act in the question at issue.
-# Whether It Is A Mortal Sin For A Man To Have Knowledge Of His Wife, With The Intention Not Of A Marriage Good But Merely Of Pleasure?
+## Whether It Is A Mortal Sin For A Man To Have Knowledge Of His Wife, With The Intention Not Of A Marriage Good But Merely Of Pleasure?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that whenever a man has knowledge of his wife, with the intention not of a marriage good but merely of pleasure, he commits a mortal sin. For according to Jerome (Comment. in Eph. 5:25), as quoted in the text (Sent. iv, D, 31), "the pleasure taken in the embraces of a wanton is damnable in a husband." Now nothing but mortal sin is said to be damnable. Therefore it is always a mortal sin to have knowledge of one's wife for mere pleasure.
 
@@ -170,13 +170,13 @@ Objection 3: Further, whoever fails to refer the use of a creature to God enjoys
 
 Objection 4: Further, no one should be excommunicated except for a mortal sin. Now according to the text (Sent. ii, D, 24) a man who knows his wife for mere pleasure is debarred from entering the Church, as though he were excommunicate. Therefore every such man sins mortally.
 
-## Answer
+### Answer
 
 On the contrary, As stated in the text (Sent. ii, D, 24), according to Augustine (Contra Jul. ii, 10; De Decem Chord. xi; Serm. xli, de Sanct.), carnal intercourse of this kind is one of the daily sins, for which we say the "Our Father." Now these are not mortal sins. Therefore, etc.
 
 I answer that, Some say that whenever pleasure is the chief motive for the marriage act it is a mortal sin; that when it is an indirect motive it is a venial sin; and that when it spurns the pleasure altogether and is displeasing, it is wholly void of venial sin; so that it would be a mortal sin to seek pleasure in this act, a venial sin to take the pleasure when offered, but that perfection requires one to detest it. But this is impossible, since according to the Philosopher (Ethic. x, 3,4) the same judgment applies to pleasure as to action, because pleasure in a good action is good, and in an evil action, evil; wherefore, as the marriage act is not evil in itself, neither will it be always a mortal sin to seek pleasure therein. Consequently the right answer to this question is that if pleasure be sought in such a way as to exclude the honesty of marriage, so that, to wit, it is not as a wife but as a woman that a man treats his wife, and that he is ready to use her in the same way if she were not his wife, it is a mortal sin; wherefore such a man is said to be too ardent a lover of his wife, because his ardor carries him away from the goods of marriage. If, however, he seek pleasure within the bounds of marriage, so that it would not be sought in another than his wife, it is a venial sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A man seeks wanton pleasure in his wife when he sees no more in her that he would in a wanton.
 

@@ -7,9 +7,9 @@ We must consider next the species of modesty: (1) Humility, and pride which is o
 (4) Whether it is a part of modesty or temperance?
 (5) Of its comparison with the other virtues;
 (6) Of the degrees of humility.
-# Whether Humility Is A Virtue?
+## Whether Humility Is A Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that humility is not a virtue. For virtue conveys the notion of a penal evil, according to Ps. 104:18, "They humbled his feet in fetters." Therefore humility is not a virtue.
 
@@ -21,13 +21,13 @@ Objection 4: Further, virtue is "the disposition of that which is perfect" (Phys
 
 Objection 5: Further, every moral virtue is about actions and passions, according to Ethic. ii, 3. But humility is not reckoned by the Philosopher among the virtues that are about passions, nor is it comprised under justice which is about actions. Therefore it would seem not to be a virtue.
 
-## Answer
+### Answer
 
 On the contrary, Origen commenting on Lk. 1:48, "He hath regarded the humility of His handmaid," says (Hom. viii in Luc.): "One of the virtues, humility, is particularly commended in Holy Writ; for our Saviour said: 'Learn of Me, because I am meek, and humble of heart.'"
 
 I answer that, As stated above ([3594]FS, Q[23], A[2]) when we were treating of the passions, the difficult good has something attractive to the appetite, namely the aspect of good, and likewise something repulsive to the appetite, namely the difficulty of obtaining it. In respect of the former there arises the movement of hope, and in respect of the latter, the movement of despair. Now it has been stated above ([3595]FS, Q[61], A[2]) that for those appetitive movements which are a kind of impulse towards an object, there is need of a moderating and restraining moral virtue, while for those which are a kind of recoil, there is need, on the part of the appetite, of a moral virtue to strengthen it and urge it on. Wherefore a twofold virtue is necessary with regard to the difficult good: one, to temper and restrain the mind, lest it tend to high things immoderately; and this belongs to the virtue of humility: and another to strengthen the mind against despair, and urge it on to the pursuit of great things according to right reason; and this is magnanimity. Therefore it is evident that humility is a virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Isidore observes (Etym. x), "a humble man is so called because he is, as it were, 'humo acclinis'" [*Literally, 'bent to the ground'], i.e. inclined to the lowest place. This may happen in two ways. First, through an extrinsic principle, for instance when one is cast down by another, and thus humility is a punishment. Secondly, through an intrinsic principle: and this may be done sometimes well, for instance when a man, considering his own failings, assumes the lowest place according to his mode: thus Abraham said to the Lord (Gn. 18:27), "I will speak to my Lord, whereas I am dust and ashes." In this way humility is a virtue. Sometimes, however, this may be ill-done, for instance when man, "not understanding his honor, compares himself to senseless beasts, and becomes like to them" (Ps. 48:13).
 
@@ -38,9 +38,9 @@ Reply to Objection 3: Humility restrains the appetite from aiming at great thing
 Reply to Objection 4: A thing is said to be perfect in two ways. First absolutely; such a thing contains no defect, neither in its nature nor in respect of anything else, and thus God alone is perfect. To Him humility is fitting, not as regards His Divine nature, but only as regards His assumed nature. Secondly, a thing may be said to be perfect in a restricted sense, for instance in respect of its nature or state or time. Thus a virtuous man is perfect: although in comparison with God his perfection is found wanting, according to the word of Is. 40:17, "All nations are before Him as if they had no being at all." In this way humility may be competent to every man.
 
 Reply to Objection 5: The Philosopher intended to treat of virtues as directed to civic life, wherein the subjection of one man to another is defined according to the ordinance of the law, and consequently is a matter of legal justice. But humility, considered as a special virtue, regards chiefly the subjection of man to God, for Whose sake he humbles himself by subjecting himself to others.
-# Whether Humility Has To Do With The Appetite?
+## Whether Humility Has To Do With The Appetite?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that humility concerns, not the appetite but the judgment of reason. Because humility is opposed to pride. Now pride concerns things pertaining to knowledge: for Gregory says (Moral. xxxiv, 22) that "pride, when it extends outwardly to the body, is first of all shown in the eyes": wherefore it is written (Ps. 130:1), "Lord, my heart is not exalted, nor are my eyes lofty." Now eyes are the chief aids to knowledge. Therefore it would seem that humility is chiefly concerned with knowledge, whereby one thinks little of oneself.
 
@@ -50,13 +50,13 @@ Objection 3: Further, it belongs to the same virtue both to restrain excessive m
 
 Objection 4: Further, Andronicus [*De Affectibus] assigns humility to outward show; for he says that humility is "the habit of avoiding excessive expenditure and parade." Therefore it is not concerned with the movement of the appetite.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Poenit. [*Serm. cccli]) that "the humble man is one who chooses to be an abject in the house of the Lord, rather than to dwell in the tents of sinners." But choice concerns the appetite. Therefore humility has to do with the appetite rather than with the estimative power.
 
 I answer that, As stated above [3596](A[1]), it belongs properly to humility, that a man restrain himself from being borne towards that which is above him. For this purpose he must know his disproportion to that which surpasses his capacity. Hence knowledge of one's own deficiency belongs to humility, as a rule guiding the appetite. Nevertheless humility is essentially in the appetite itself; and consequently it must be said that humility, properly speaking, moderates the movement of the appetite.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Lofty eyes are a sign of pride, inasmuch as it excludes respect and fear: for fearing and respectful persons are especially wont to lower the eyes, as though not daring to compare themselves with others. But it does not follow from this that humility is essentially concerned with knowledge.
 
@@ -65,9 +65,9 @@ Reply to Objection 2: It is contrary to humility to aim at greater things throug
 Reply to Objection 3: In fortitude there is the same reason for restraining daring and for strengthening the soul against fear: since the reason in both cases is that man should set the good of reason before dangers of death. But the reason for restraining presumptuous hope which pertains to humility is not the same as the reason for strengthening the soul against despair. Because the reason for strengthening the soul against despair is the acquisition of one's proper good lest man, by despair, render himself unworthy of a good which was competent to him; while the chief reason for suppressing presumptuous hope is based on divine reverence, which shows that man ought not to ascribe to himself more than is competent to him according to the position in which God has placed him. Wherefore humility would seem to denote in the first place man's subjection to God; and for this reason Augustine (De Serm. Dom. in Monte i, 4) ascribes humility, which he understands by poverty of spirit, to the gift of fear whereby man reveres God. Hence it follows that the relation of fortitude to daring differs from that of humility to hope. Because fortitude uses daring more than it suppresses it: so that excess of daring is more like fortitude than lack of daring is. On the other hand, humility suppresses hope or confidence in self more than it uses it; wherefore excessive self-confidence is more opposed to humility than lack of confidence is.
 
 Reply to Objection 4: Excess in outward expenditure and parade is wont to be done with a view of boasting, which is suppressed by humility. Accordingly humility has to do, in a secondary way, with externals, as signs of the inward movement of the appetite.
-# Whether One Ought, By Humility, To Subject Oneself To All Men?
+## Whether One Ought, By Humility, To Subject Oneself To All Men?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one ought not, by humility, to subject oneself to all men. For, as stated above (A[2], ad 3), humility consists chiefly in man's subjection to God. Now one ought not to offer to a man that which is due to God, as is the case with all acts of religious worship. Therefore, by humility, one ought not to subject oneself to man.
 
@@ -75,22 +75,22 @@ Objection 2: Further, Augustine says (De Nat. et Gratia xxxiv): "Humility should
 
 Objection 3: Further no one ought to do that which conduces to the detriment of another's spiritual welfare. But if a man subject himself to another by humility, this is detrimental to the person to whom he subjects himself; for the latter might wax proud, or despise the other. Hence Augustine says in his Rule (Ep. ccxi): "Lest through excessive humility the superior lose his authority." Therefore a man ought not, by humility, to subject himself to all.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Phil. 2:3): "In humility, let each esteem others better than themselves."
 
 I answer that, We may consider two things in man, namely that which is God's, and that which is man's. Whatever pertains to defect is man's: but whatever pertains to man's welfare and perfection is God's, according to the saying of Osee 13:9, "Destruction is thy own, O Israel; thy help is only in Me." Now humility, as stated above (A[1], ad 5; A[2], ad 3), properly regards the reverence whereby man is subject to God. Wherefore every man, in respect of that which is his own, ought to subject himself to every neighbor, in respect of that which the latter has of God's: but humility does not require a man to subject what he has of God's to that which may seem to be God's in another. For those who have a share of God's gifts know that they have them, according to 1 Cor. 2:12: "That we may know the things that are given us from God." Wherefore without prejudice to humility they may set the gifts they have received from God above those that others appear to have received from Him; thus the Apostle says (Eph. 3:5): "(The mystery of Christ) was not known to the sons of men as it is now revealed to His holy apostles." In like manner. humility does not require a man to subject that which he has of his own to that which his neighbor has of man's: otherwise each one would have to esteem himself a greater sinner than anyone else: whereas the Apostle says without prejudice to humility (Gal. 2:15): "We by nature are Jews, and not of the Gentiles, sinners." Nevertheless a man may esteem his neighbor to have some good which he lacks himself, or himself to have some evil which another has not: by reason of which, he may subject himself to him with humility.
 
-## Replies
+### Replies
 
 Reply to Objection 1: We must not only revere God in Himself, but also that which is His in each one, although not with the same measure of reverence as we revere God. Wherefore we should subject ourselves with humility to all our neighbors for God's sake, according to 1 Pet. 2:13, "Be ye subject . . . to every human creature for God's sake"; but to God alone do we owe the worship of latria.
 
 Reply to Objection 2: If we set what our neighbor has of God's above that which we have of our own, we cannot incur falsehood. Wherefore a gloss [*St. Augustine, QQ. lxxxiii, qu. 71] on Phil. 2:3, "Esteem others better than themselves," says: "We must not esteem by pretending to esteem; but we should in truth think it possible for another person to have something that is hidden to us and whereby he is better than we are, although our own good whereby we are apparently better than he, be not hidden."
 
 Reply to Objection 3: Humility, like other virtues, resides chiefly inwardly in the soul. Consequently a man, by an inward act of the soul, may subject himself to another, without giving the other man an occasion of detriment to his spiritual welfare. This is what Augustine means in his Rule (Ep. ccxi): "With fear, the superior should prostrate himself at your feet in the sight of God." On the other hand, due moderation must be observed in the outward acts of humility even as of other virtues, lest they conduce to the detriment of others. If, however, a man does as he ought, and others take therefrom an occasion of sin, this is not imputed to the man who acts with humility; since he does not give scandal, although others take it.
-# Whether Humility Is A Part Of Modesty Or Temperance?
+## Whether Humility Is A Part Of Modesty Or Temperance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that humility is not a part of modesty or temperance. For humility regards chiefly the reverence whereby one is subject to God, as stated above [3597](A[3]). Now it belongs to a theological virtue to have God for its object. Therefore humility should be reckoned a theological virtue rather than a part of temperance or modesty.
 
@@ -98,22 +98,22 @@ Objection 2: Further, temperance is in the concupiscible, whereas humility would
 
 Objection 3: Further, humility and magnanimity are about the same object, as stated above (A[1], ad 3). But magnanimity is reckoned a part, not of temperance but of fortitude, as stated above ([3598]Q[129], A[5]). Therefore it would seem that humility is not a part of temperance or modesty.
 
-## Answer
+### Answer
 
 On the contrary, Origen says (Hom. viii super Luc.): "If thou wilt hear the name of this virtue, and what it was called by the philosophers, know that humility which God regards is the same as what they called {metriotes}, i.e. measure or moderation." Now this evidently pertains to modesty or temperance. Therefore humility is a part of modesty or temperance.
 
 I answer that, As stated above ([3599]Q[137], A[2], ad 1;[3600] Q[157], A[3], ad 2), in assigning parts to a virtue we consider chiefly the likeness that results from the mode of the virtue. Now the mode of temperance, whence it chiefly derives its praise, is the restraint or suppression of the impetuosity of a passion. Hence whatever virtues restrain or suppress, and the actions which moderate the impetuosity of the emotions, are reckoned parts of temperance. Now just as meekness suppresses the movement of anger, so does humility suppress the movement of hope, which is the movement of a spirit aiming at great things. Wherefore, like meekness, humility is accounted a part of temperance. For this reason the Philosopher (Ethic. iv, 3) says that a man who aims at small things in proportion to his mode is not magnanimous but "temperate," and such a man we may call humble. Moreover, for the reason given above ([3601]Q[160], A[2]), among the various parts of temperance, the one under which humility is comprised is modesty as understood by Tully (De Invent. Rhet. ii, 54), inasmuch as humility is nothing else than a moderation of spirit: wherefore it is written (1 Pet. 3:4): "In the incorruptibility of a quiet and meek spirit."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The theological virtues, whose object is our last end, which is the first principle in matters of appetite, are the causes of all the other virtues. Hence the fact that humility is caused by reverence for God does not prevent it from being a part of modesty or temperance.
 
 Reply to Objection 2: Parts are assigned to a principal virtue by reason of a sameness, not of subject or matter, but of formal mode, as stated above ([3602]Q[137], A[2], ad 1;[3603] Q[157], A[3], ad 2). Consequently, although humility is in the irascible as its subject, it is assigned as a part of modesty or temperance by reason of its mode.
 
 Reply to Objection 3: Although humility and magnanimity agree as to matter, they differ as to mode, by reason of which magnanimity is reckoned a part of fortitude, and humility a part of temperance.
-# Whether Humility Is The Greatest Of The Virtues?
+## Whether Humility Is The Greatest Of The Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that humility is the greatest of the virtues. For Chrysostom, expounding the story of the Pharisee and the publican (Lk. 18), says [*Eclog. hom. vii de Humil. Animi.] that "if humility is such a fleet runner even when hampered by sin that it overtakes the justice that is the companion of pride, whither will it not reach if you couple it with justice? It will stand among the angels by the judgment seat of God." Hence it is clear that humility is set above justice. Now justice is either the most exalted of all the virtues, or includes all virtues, according to the Philosopher (Ethic. v, 1). Therefore humility is the greatest of the virtues.
 
@@ -123,13 +123,13 @@ Objection 3: Further, the greater virtue deserves the greater reward. Now the gr
 
 Objection 4: Further, according to Augustine (De Vera Relig. 16), "Christ's whole life on earth was a lesson in moral conduct through the human nature which He assumed." Now He especially proposed His humility for our example, saying (Mat. 11:29): "Learn of Me, because I am meek and humble of heart." Moreover, Gregory says (Pastor. iii, 1) that the "lesson proposed to us in the mystery of our redemption is the humility of God." Therefore humility would seem to be the greatest of virtues.
 
-## Answer
+### Answer
 
 On the contrary, Charity is set above all the virtues, according to Col. 3:14, "Above all . . . things have charity." Therefore humility is not the greatest of virtues.
 
 I answer that, The good of human virtue pertains to the order of reason: which order is considered chiefly in reference to the end: wherefore the theological virtues are the greatest because they have the last end for their object. Secondarily, however, it is considered in reference to the ordering of the means to the end. This ordinance, as to its essence, is in the reason itself from which it issues, but by participation it is in the appetite ordered by the reason; and this ordinance is the effect of justice, especially of legal justice. Now humility makes a man a good subject to ordinance of all kinds and in all matters; while every other virtue has this effect in some special matter. Therefore after the theological virtues, after the intellectual virtues which regard the reason itself, and after justice, especially legal justice, humility stands before all others.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Humility is not set before justice, but before that justice which is coupled with pride, and is no longer a virtue; even so, on the other hand, sin is pardoned through humility: for it is said of the publican (Lk. 18:14) that through the merit of his humility "he went down into his house justified." Hence Chrysostom says [*De incompr. Nat. Dei, Hom. v]: "Bring me a pair of two-horse chariots: in the one harness pride with justice, in the other sin with humility: and you will see that sin outrunning justice wins not by its own strength, but by that of humility: while you will see the other pair beaten, not by the weakness of justice, but by the weight and size of pride."
 
@@ -138,9 +138,9 @@ Reply to Objection 2: Just as the orderly assembly of virtues is, by reason of a
 Reply to Objection 3: To him that despises earthly things, heavenly things are promised: thus heavenly treasures are promised to those who despise earthly riches, according to Mat. 6:19,20, "Lay not up to yourselves treasures on earth . . . but lay up to yourselves treasures in heaven." Likewise heavenly consolations are promised to those who despise worldly joys, according to Mat. 4:5, "Blessed are they that mourn, for they shall be comforted." In the same way spiritual uplifting is promised to humility, not that humility alone merits it, but because it is proper to it to despise earthly uplifting. Wherefore Augustine says (De Poenit. [*Serm. cccli]): "Think not that he who humbles himself remains for ever abased, for it is written: 'He shall be exalted.' And do not imagine that his exaltation in men's eyes is effected by bodily uplifting."
 
 Reply to Objection 4: The reason why Christ chiefly proposed humility to us, was because it especially removes the obstacle to man's spiritual welfare consisting in man's aiming at heavenly and spiritual things, in which he is hindered by striving to become great in earthly things. Hence our Lord, in order to remove an obstacle to our spiritual welfare, showed by giving an example of humility, that outward exaltation is to be despised. Thus humility is, as it were, a disposition to man's untrammeled access to spiritual and divine goods. Accordingly as perfection is greater than disposition, so charity, and other virtues whereby man approaches God directly, are greater than humility.
-# Whether Twelve Degrees Of Humility Are Fittingly Distinguished In The Rule Of The Blessed Benedict?
+## Whether Twelve Degrees Of Humility Are Fittingly Distinguished In The Rule Of The Blessed Benedict?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the twelve degrees of humility that are set down in the Rule of the Blessed Benedict [*St. Thomas gives these degrees in the reverse order to that followed by St. Benedict] are unfittingly distinguished. The first is to be "humble not only in heart, but also to show it in one's very person, one's eyes fixed on the ground"; the second is "to speak few and sensible words, and not to be loud of voice"; the third is "not to be easily moved, and disposed to laughter"; the fourth is "to maintain silence until one is asked"; the fifth is "to do nothing but to what one is exhorted by the common rule of the monastery"; the sixth is "to believe and acknowledge oneself viler than all"; the seventh is "to think oneself worthless and unprofitable for all purposes"; the eighth is "to confess one's sin"; the ninth is "to embrace patience by obeying under difficult and contrary circumstances"; the tenth is "to subject oneself to a superior"; the eleventh is "not to delight in fulfilling one's own desires"; the twelfth is "to fear God and to be always mindful of everything that God has commanded." For among these there are some things pertaining to the other virtues, such as obedience and patience. Again there are some that seem to involve a false opinion---and this is inconsistent with any virtue---namely to declare oneself more despicable than all men, and to confess and believe oneself to be in all ways worthless and unprofitable. Therefore these are unfittingly placed among the degrees of humility.
 
@@ -152,7 +152,7 @@ Objection 4: Further, a gloss on Mat. 3:15 says: "Perfect humility has three deg
 
 Objection 5: Further, Augustine says (De Virginit. xxxi): "The measure of humility is apportioned to each one according to his rank. It is imperiled by pride, for the greater a man is the more liable is he to be entrapped." Now the measure of a man's greatness cannot be fixed according to a definite number of degrees. Therefore it would seem that it is not possible to assign the aforesaid degrees to humility.
 
-## Answer
+### Answer
 
 
 
@@ -164,7 +164,7 @@ Certain things also are included referring to the estimate a man forms in acknow
 
 Again, some things are included that refer to outward signs. One of these regards deeds, namely that in one's work one should not depart from the ordinary way; this applies to the fifth degree. Two others have reference to words, namely that one should not be in a hurry to speak, which pertains to the fourth degree, and that one be not immoderate in speech, which refers to the second. The others have to do with outward gestures, for instance in restraining haughty looks, which regards the first, and in outwardly checking laughter and other signs of senseless mirth, and this belongs to the third degree.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is possible, without falsehood, to deem and avow oneself the most despicable of men, as regards the hidden faults which we acknowledge in ourselves, and the hidden gifts of God which others have. Hence Augustine says (De Virginit. lii): "Bethink you that some persons are in some hidden way better than you, although outwardly you are better than they." Again, without falsehood one may avow and believe oneself in all ways unprofitable and useless in respect of one's own capability, so as to refer all one's sufficiency to God, according to 2 Cor. 3:5, "Not that we are sufficient to think anything of ourselves as of ourselves: but our sufficiency is from God." And there is nothing unbecoming in ascribing to humility those things that pertain to other virtues, since, just as one vice arises from another, so, by a natural sequence, the act of one virtue proceeds from the act of another.
 

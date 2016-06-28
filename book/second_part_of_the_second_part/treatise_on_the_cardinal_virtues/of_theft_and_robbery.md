@@ -10,9 +10,9 @@ We must now consider the sins opposed to justice, whereby a man injures his neig
 (7) Whether it is lawful to thieve in a case of necessity?
 (8) Whether every robbery is a mortal sin?
 (9) Whether robbery is a more grievous sin than theft?
-# Whether It Is Natural For Man To Possess External Things?
+## Whether It Is Natural For Man To Possess External Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not natural for man to possess external things. For no man should ascribe to himself that which is God's. Now the dominion over all creatures is proper to God, according to Ps. 23:1, "The earth is the Lord's," etc. Therefore it is not natural for man to possess external things.
 
@@ -20,22 +20,22 @@ Objection 2: Further, Basil in expounding the words of the rich man (Lk. 12:18),
 
 Objection 3: Further, according to Ambrose (De Trin. i [*De Fide, ad Gratianum, i, 1]) "dominion denotes power." But man has no power over external things, since he can work no change in their nature. Therefore the possession of external things is not natural to man.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 8:8): "Thou hast subjected all things under his feet."
 
 I answer that, External things can be considered in two ways. First, as regards their nature, and this is not subject to the power of man, but only to the power of God Whose mere will all things obey. Secondly, as regards their use, and in this way, man has a natural dominion over external things, because, by his reason and will, he is able to use them for his own profit, as they were made on his account: for the imperfect is always for the sake of the perfect, as stated above ([2913]Q[64], A[1]). It is by this argument that the Philosopher proves (Polit. i, 3) that the possession of external things is natural to man. Moreover, this natural dominion of man over other creatures, which is competent to man in respect of his reason wherein God's image resides, is shown forth in man's creation (Gn. 1:26) by the words: "Let us make man to our image and likeness: and let him have dominion over the fishes of the sea," etc.
 
-## Replies
+### Replies
 
 Reply to Objection 1: God has sovereign dominion over all things: and He, according to His providence, directed certain things to the sustenance of man's body. For this reason man has a natural dominion over things, as regards the power to make use of them.
 
 Reply to Objection 2: The rich man is reproved for deeming external things to belong to him principally, as though he had not received them from another, namely from God.
 
 Reply to Objection 3: This argument considers the dominion over external things as regards their nature. Such a dominion belongs to God alone, as stated above.
-# Whether It Is Lawful For A Man To Possess A Thing As His Own?
+## Whether It Is Lawful For A Man To Possess A Thing As His Own?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unlawful for a man to possess a thing as his own. For whatever is contrary to the natural law is unlawful. Now according to the natural law all things are common property: and the possession of property is contrary to this community of goods. Therefore it is unlawful for any man to appropriate any external thing to himself.
 
@@ -43,7 +43,7 @@ Objection 2: Further, Basil in expounding the words of the rich man quoted above
 
 Objection 3: Further, Ambrose says [*Serm. lxiv, de temp.], and his words are quoted in the Decretals [*Dist. xlvii., Can. Sicut hi.]: "Let no man call his own that which is common property": and by "common" he means external things, as is clear from the context. Therefore it seems unlawful for a man to appropriate an external thing to himself.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Haeres., haer. 40): "The 'Apostolici' are those who with extreme arrogance have given themselves that name, because they do not admit into their communion persons who are married or possess anything of their own, such as both monks and clerics who in considerable number are to be found in the Catholic Church." Now the reason why these people are heretics was because severing themselves from the Church, they think that those who enjoy the use of the above things, which they themselves lack, have no hope of salvation. Therefore it is erroneous to maintain that it is unlawful for a man to possess property.
 
@@ -51,16 +51,16 @@ I answer that, Two things are competent to man in respect of exterior things. On
 
 The second thing that is competent to man with regard to external things is their use. In this respect man ought to possess external things, not as his own, but as common, so that, to wit, he is ready to communicate them to others in their need. Hence the Apostle says (1 Tim. 6:17,18): "Charge the rich of this world . . . to give easily, to communicate to others," etc.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Community of goods is ascribed to the natural law, not that the natural law dictates that all things should be possessed in common and that nothing should be possessed as one's own: but because the division of possessions is not according to the natural law, but rather arose from human agreement which belongs to positive law, as stated above ([2914]Q[57], AA[2],3). Hence the ownership of possessions is not contrary to the natural law, but an addition thereto devised by human reason.
 
 Reply to Objection 2: A man would not act unlawfully if by going beforehand to the play he prepared the way for others: but he acts unlawfully if by so doing he hinders others from going. In like manner a rich man does not act unlawfully if he anticipates someone in taking possession of something which at first was common property, and gives others a share: but he sins if he excludes others indiscriminately from using it. Hence Basil says (Hom. in Luc. xii, 18): "Why are you rich while another is poor, unless it be that you may have the merit of a good stewardship, and he the reward of patience?"
 
 Reply to Objection 3: When Ambrose says: "Let no man call his own that which is common," he is speaking of ownership as regards use, wherefore he adds: "He who spends too much is a robber."
-# Whether The Essence Of Theft Consists In Taking Another's Thing Secretly?
+## Whether The Essence Of Theft Consists In Taking Another's Thing Secretly?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not essential to theft to take another's thing secretly. For that which diminishes a sin, does not, apparently, belong to the essence of a sin. Now to sin secretly tends to diminish a sin, just as, on the contrary, it is written as indicating an aggravating circumstance of the sin of some (Is. 3:9): "They have proclaimed abroad their sin as Sodom, and they have not hid it." Therefore it is not essential to theft that it should consist in taking another's thing secretly.
 
@@ -68,22 +68,22 @@ Objection 2: Further, Ambrose says [*Serm. lxiv, de temp., A[2], OBJ[3], Can. Si
 
 Objection 3: Further, a man may take by stealth from another, even that which is his own, for instance a thing that he has deposited with another, or that has been taken away from him unjustly. Therefore it is not essential to theft that it should consist in taking another's thing secretly.
 
-## Answer
+### Answer
 
 On the contrary, Isidore says (Etym. x): "'Fur' [thief] is derived from 'furvus' and so from 'fuscus' [dark], because he takes advantage of the night."
 
 I answer that, Three things combine together to constitute theft. The first belongs to theft as being contrary to justice, which gives to each one that which is his, so that it belongs to theft to take possession of what is another's. The second thing belongs to theft as distinct from those sins which are committed against the person, such as murder and adultery, and in this respect it belongs to theft to be about a thing possessed: for if a man takes what is another's not as a possession but as a part (for instance, if he amputates a limb), or as a person connected with him (for instance, if he carry off his daughter or his wife), it is not strictly speaking a case of theft. The third difference is that which completes the nature of theft, and consists in a thing being taken secretly: and in this respect it belongs properly to theft that it consists in "taking another's thing secretly."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Secrecy is sometimes a cause of sin, as when a man employs secrecy in order to commit a sin, for instance in fraud and guile. In this way it does not diminish sin, but constitutes a species of sin: and thus it is in theft. In another way secrecy is merely a circumstance of sin, and thus it diminishes sin, both because it is a sign of shame, and because it removes scandal.
 
 Reply to Objection 2: To keep back what is due to another, inflicts the same kind of injury as taking a thing unjustly: wherefore an unjust detention is included in an unjust taking.
 
 Reply to Objection 3: Nothing prevents that which belongs to one person simply, from belonging to another in some respect: thus a deposit belongs simply to the depositor, but with regard to its custody it is the depositary's, and the thing stolen is the thief's, not simply, but as regards its custody.
-# Whether Theft And Robbery Are Sins Of Different Species?
+## Whether Theft And Robbery Are Sins Of Different Species?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that theft and robbery are not sins of different species. For theft and robbery differ as "secret" and "manifest": because theft is taking something secretly, while robbery is to take something violently and openly. Now in the other kinds of sins, the secret and the manifest do not differ specifically. Therefore theft and robbery are not different species of sin.
 
@@ -91,22 +91,22 @@ Objection 2: Further, moral actions take their species from the end, as stated a
 
 Objection 3: Further, just as a thing is taken by force for the sake of possession, so is a woman taken by force for pleasure: wherefore Isidore says (Etym. x) that "he who commits a rape is called a corrupter, and the victim of the rape is said to be corrupted." Now it is a case of rape whether the woman be carried off publicly or secretly. Therefore the thing appropriated is said to be taken by force, whether it be done secretly or publicly. Therefore theft and robbery do not differ.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher (Ethic. v, 2) distinguishes theft from robbery, and states that theft is done in secret, but that robbery is done openly.
 
 I answer that, Theft and robbery are vices contrary to justice, in as much as one man does another an injustice. Now "no man suffers an injustice willingly," as stated in Ethic. v, 9. Wherefore theft and robbery derive their sinful nature, through the taking being involuntary on the part of the person from whom something is taken. Now the involuntary is twofold, namely, through violence and through ignorance, as stated in Ethic. iii, 1. Therefore the sinful aspect of robbery differs from that of theft: and consequently they differ specifically.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the other kinds of sin the sinful nature is not derived from something involuntary, as in the sins opposed to justice: and so where there is a different kind of involuntary, there is a different species of sin.
 
 Reply to Objection 2: The remote end of robbery and theft is the same. But this is not enough for identity of species, because there is a difference of proximate ends, since the robber wishes to take a thing by his own power, but the thief, by cunning.
 
 Reply to Objection 3: The robbery of a woman cannot be secret on the part of the woman who is taken: wherefore even if it be secret as regards the others from whom she is taken, the nature of robbery remains on the part of the woman to whom violence is done.
-# Whether Theft Is Always A Sin?
+## Whether Theft Is Always A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that theft is not always a sin. For no sin is commanded by God, since it is written (Ecclus. 15:21): "He hath commanded no man to do wickedly." Yet we find that God commanded theft, for it is written (Ex. 12:35,36): "And the children of Israel did as the Lord had commanded Moses [Vulg.: 'as Moses had commanded']. . . and they stripped the Egyptians." Therefore theft is not always a sin.
 
@@ -120,22 +120,22 @@ Objection 3: Further, he that takes what is his own does not seem to sin, becaus
 
 
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ex. 20:15): "Thou shalt not steal."
 
 I answer that, If anyone consider what is meant by theft, he will find that it is sinful on two counts. First, because of its opposition to justice, which gives to each one what is his, so that for this reason theft is contrary to justice, through being a taking of what belongs to another. Secondly, because of the guile or fraud committed by the thief, by laying hands on another's property secretly and cunningly. Wherefore it is evident that every theft is a sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is no theft for a man to take another's property either secretly or openly by order of a judge who has commanded him to do so, because it becomes his due by the very fact that it is adjudicated to him by the sentence of the court. Hence still less was it a theft for the Israelites to take away the spoils of the Egyptians at the command of the Lord, Who ordered this to be done on account of the ill-treatment accorded to them by the Egyptians without any cause: wherefore it is written significantly (Wis. 10:19): "The just took the spoils of the wicked."
 
 Reply to Objection 2: With regard to treasure-trove a distinction must be made. For some there are that were never in anyone's possession, for instance precious stones and jewels, found on the seashore, and such the finder is allowed to keep [*Dig. I, viii, De divis. rerum: Inst. II, i, De rerum divis.]. The same applies to treasure hidden underground long since and belonging to no man, except that according to civil law the finder is bound to give half to the owner of the land, if the treasure trove be in the land of another person [*Inst. II, i, 39: Cod. X, xv, De Thesauris]. Hence in the parable of the Gospel (Mat. 13:44) it is said of the finder of the treasure hidden in a field that he bought the field, as though he purposed thus to acquire the right of possessing the whole treasure. On the other Land the treasure-trove may be nearly in someone's possession: and then if anyone take it with the intention, not of keeping it but of returning it to the owner who does not look upon such things as unappropriated, he is not guilty of theft. In like manner if the thing found appears to be unappropriated, and if the finder believes it to be so, although he keep it, he does not commit a theft [*Inst. II, i, 47]. In any other case the sin of theft is committed [*Dig. XLI, i, De acquirend, rerum dominio, 9: Inst. II, i, 48]: wherefore Augustine says in a homily (Serm. clxxviii; De Verb. Apost.): "If thou hast found a thing and not returned it, thou hast stolen it" (Dig. xiv, 5, can. Si quid invenisti).
 
 Reply to Objection 3: He who by stealth takes his own property which is deposited with another man burdens the depositary, who is bound either to restitution, or to prove himself innocent. Hence he is clearly guilty of sin, and is bound to ease the depositary of his burden. On the other hand he who, by stealth, takes his own property, if this be unjustly detained by another, he sins indeed; yet not because he burdens the retainer, and so he is not bound to restitution or compensation: but he sins against general justice by disregarding the order of justice and usurping judgment concerning his own property. Hence he must make satisfaction to God and endeavor to allay whatever scandal he may have given his neighbor by acting this way.
-# Whether It Is Lawful To Steal Through Stress Of Need?
+## Whether It Is Lawful To Steal Through Stress Of Need?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unlawful to steal through stress of need. For penance is not imposed except on one who has sinned. Now it is stated (Extra, De furtis, Cap. Si quis): "If anyone, through stress of hunger or nakedness, steal food, clothing or beast, he shall do penance for three weeks." Therefore it is not lawful to steal through stress of need.
 
@@ -143,7 +143,7 @@ Objection 2: Further, the Philosopher says (Ethic. ii, 6) that "there are some a
 
 Objection 3: Further, a man should love his neighbor as himself. Now, according to Augustine (Contra Mendac. vii), it is unlawful to steal in order to succor one's neighbor by giving him an alms. Therefore neither is it lawful to steal in order to remedy one's own needs.
 
-## Answer
+### Answer
 
 On the contrary, In cases of need all things are common property, so that there would seem to be no sin in taking another's property, for need has made it common.
 
@@ -151,16 +151,16 @@ I answer that, Things which are of human right cannot derogate from natural righ
 
 Since, however, there are many who are in need, while it is impossible for all to be succored by means of the same thing, each one is entrusted with the stewardship of his own things, so that out of them he may come to the aid of those who are in need. Nevertheless, if the need be so manifest and urgent, that it is evident that the present need must be remedied by whatever means be at hand (for instance when a person is in some imminent danger, and there is no other possible remedy), then it is lawful for a man to succor his own need by means of another's property, by taking it either openly or secretly: nor is this properly speaking theft or robbery.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This decretal considers cases where there is no urgent need.
 
 Reply to Objection 2: It is not theft, properly speaking, to take secretly and use another's property in a case of extreme need: because that which he takes for the support of his life becomes his own property by reason of that need.
 
 Reply to Objection 3: In a case of a like need a man may also take secretly another's property in order to succor his neighbor in need.
-# Whether Robbery May Be Committed Without Sin?
+## Whether Robbery May Be Committed Without Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that robbery may be committed without sin. For spoils are taken by violence, and this seems to belong to the essence of robbery, according to what has been said [2918](A[4]). Now it is lawful to take spoils from the enemy; for Ambrose says (De Patriarch. 4 [*De Abraham i, 3]): "When the conqueror has taken possession of the spoils, military discipline demands that all should be reserved for the sovereign," in order, to wit, that he may distribute them. Therefore in certain cases robbery is lawful.
 
@@ -168,22 +168,22 @@ Objection 2: Further, it is lawful to take from a man what is not his. Now the t
 
 Objection 3: Further, earthly princes violently extort many things from their subjects: and this seems to savor of robbery. Now it would seem a grievous matter to say that they sin in acting thus, for in that case nearly every prince would be damned. Therefore in some cases robbery is lawful.
 
-## Answer
+### Answer
 
 On the contrary, Whatever is taken lawfully may be offered to God in sacrifice and oblation. Now this cannot be done with the proceeds of robbery, according to Is. 61:8, "I am the Lord that love judgment, and hate robbery in a holocaust." Therefore it is not lawful to take anything by robbery.
 
 I answer that, Robbery implies a certain violence and coercion employed in taking unjustly from a man that which is his. Now in human society no man can exercise coercion except through public authority: and, consequently, if a private individual not having public authority takes another's property by violence, he acts unlawfully and commits a robbery, as burglars do. As regards princes, the public power is entrusted to them that they may be the guardians of justice: hence it is unlawful for them to use violence or coercion, save within the bounds of justice---either by fighting against the enemy, or against the citizens, by punishing evil-doers: and whatever is taken by violence of this kind is not the spoils of robbery, since it is not contrary to justice. On the other hand to take other people's property violently and against justice, in the exercise of public authority, is to act unlawfully and to be guilty of robbery; and whoever does so is bound to restitution.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A distinction must be made in the matter of spoils. For if they who take spoils from the enemy, are waging a just war, such things as they seize in the war become their own property. This is no robbery, so that they are not bound to restitution. Nevertheless even they who are engaged in a just war may sin in taking spoils through cupidity arising from an evil intention, if, to wit, they fight chiefly not for justice but for spoil. For Augustine says (De Verb. Dom. xix; Serm. lxxxii) that "it is a sin to fight for booty." If, however, those who take the spoil, are waging an unjust war, they are guilty of robbery, and are bound to restitution.
 
 Reply to Objection 2: Unbelievers possess their goods unjustly in so far as they are ordered by the laws of earthly princes to forfeit those goods. Hence these may be taken violently from them, not by private but by public authority.
 
 Reply to Objection 3: It is no robbery if princes exact from their subjects that which is due to them for the safe-guarding of the common good, even if they use violence in so doing: but if they extort something unduly by means of violence, it is robbery even as burglary is. Hence Augustine says (De Civ. Dei iv, 4): "If justice be disregarded, what is a king but a mighty robber? since what is a robber but a little king?" And it is written (Ezech. 22:27): "Her princes in the midst of her, are like wolves ravening the prey." Wherefore they are bound to restitution, just as robbers are, and by so much do they sin more grievously than robbers, as their actions are fraught with greater and more universal danger to public justice whose wardens they are.
-# Whether Theft Is A More Grievous Sin Than Robbery?
+## Whether Theft Is A More Grievous Sin Than Robbery?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that theft is a more grievous sin than robbery. For theft adds fraud and guile to the taking of another's property: and these things are not found in robbery. Now fraud and guile are sinful in themselves, as stated above ([2919]Q[55], AA[4],5). Therefore theft is a more grievous sin than robbery.
 
@@ -191,13 +191,13 @@ Objection 2: Further, shame is fear about a wicked deed, as stated in Ethic. iv,
 
 Objection 3: Further, the more persons a sin injures the more grievous it would seem to be. Now the great and the lowly may be injured by theft: whereas only the weak can be injured by robbery, since it is possible to use violence towards them. Therefore the sin of theft seems to be more grievous than the sin of robbery.
 
-## Answer
+### Answer
 
 On the contrary, According to the laws robbery is more severely punished than theft.
 
 I answer that, Robbery and theft are sinful, as stated above ([2920]AA[4],6), on account of the involuntariness on the part of the person from whom something is taken: yet so that in theft the involuntariness is due to ignorance, whereas in robbery it is due to violence. Now a thing is more involuntary through violence than through ignorance, because violence is more directly opposed to the will than ignorance. Therefore robbery is a more grievous sin than theft. There is also another reason, since robbery not only inflicts a loss on a person in his things, but also conduces to the ignominy and injury of his person, and this is of graver import than fraud or guile which belong to theft. Hence the Reply to the First Objection is evident.
 
-## Replies
+### Replies
 
 Reply to Objection 2: Men who adhere to sensible things think more of external strength which is evidenced in robbery, than of internal virtue which is forfeit through sin: wherefore they are less ashamed of robbery than of theft.
 

@@ -5,9 +5,9 @@ We have now to consider those things that concern Christ's Exaltation; and we sh
 (2) The time of the Resurrection;
 (3) Its order;
 (4) Its cause.
-# Whether It Was Necessary For Christ To Rise Again?
+## Whether It Was Necessary For Christ To Rise Again?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it was not necessary for Christ to rise again. For Damascene says (De Fide Orth. iv): "Resurrection is the rising again of an animate being, which was disintegrated and fallen." But Christ did not fall by sinning, nor was His body dissolved, as is manifest from what was stated above ([4293]Q[51], A[3]). Therefore, it does not properly belong to Him to rise again.
 
@@ -15,7 +15,7 @@ Objection 2: Further, whoever rises again is promoted to a higher state, since t
 
 Objection 3: Further, all that befell Christ's humanity was ordained for our salvation. But Christ's Passion sufficed for our salvation, since by it we were loosed from guilt and punishment, as is clear from what was said above ([4294]Q[49], A[1],3). Consequently, it was not necessary for Christ to rise again from the dead.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Lk. 24:46): "It behooved Christ to suffer and to rise again from the dead."
 
@@ -29,16 +29,16 @@ Fourthly, to set in order the lives of the faithful: according to Rom. 6:4: "As 
 
 Fifthly, in order to complete the work of our salvation: because, just as for this reason did He endure evil things in dying that He might deliver us from evil, so was He glorified in rising again in order to advance us towards good things; according to Rom. 4:25: "He was delivered up for our sins, and rose again for our justification."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although Christ did not fall by sin, yet He fell by death, because as sin is a fall from righteousness, so death is a fall from life: hence the words of Mic. 7:8 can be taken as though spoken by Christ: "Rejoice not thou, my enemy, over me, because I am fallen: I shall rise again." Likewise, although Christ's body was not disintegrated by returning to dust, yet the separation of His soul and body was a kind of disintegration.
 
 Reply to Objection 2: The Godhead was united with Christ's flesh after death by personal union, but not by natural union; thus the soul is united with the body as its form, so as to constitute human nature. Consequently, by the union of the body and soul, the body was uplifted to a higher condition of nature, but not to a higher personal state.
 
 Reply to Objection 3: Christ's Passion wrought our salvation, properly speaking, by removing evils; but the Resurrection did so as the beginning and exemplar of all good things.
-# Whether It Was Fitting For Christ To Rise Again On The Third Day?
+## Whether It Was Fitting For Christ To Rise Again On The Third Day?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unfitting that Christ should have risen again on the third day. For the members ought to be in conformity with their head. But we who are His members do not rise from death on the third day, since our rising is put off until the end of the world. Therefore, it seems that Christ, who is our head, should not have risen on the third day, but that His Resurrection ought to have been deferred until the end of the world.
 
@@ -46,7 +46,7 @@ Objection 2: Further, Peter said (Acts 2:24) that "it was impossible for Christ 
 
 Objection 3: The day seems to start with the rising of the sun, the presence of which causes the day. But Christ rose before sunrise: for it is related (Jn. 20:1) that "Mary Magdalen cometh early, when it was yet dark, unto the sepulchre": but Christ was already risen, for it goes on to say: "And she saw the stone taken away from the sepulchre." Therefore Christ did not rise on the third day.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 20:19): "They shall deliver Him to the Gentiles to be mocked, and scourged, and crucified, and the third day He shall rise again."
 
@@ -56,16 +56,16 @@ Furthermore, by His rising on the third day, the perfection of the number "three
 
 And thereby is also signified that a third epoch began with the Resurrection: for the first was before the Law; the second under the Law; and the third under grace. Moreover the third state of the saints began with the Resurrection of Christ: for, the first was under figures of the Law; the second under the truth of faith; while the third will be in the eternity of glory, which Christ inaugurated by rising again.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The head and members are likened in nature, but not in power; because the power of the head is more excellent than that of the members. Accordingly, to show forth the excellence of Christ's power, it was fitting that He should rise on the third day, while the resurrection of the rest is put off until the end of the world.
 
 Reply to Objection 2: Detention implies a certain compulsion. But Christ was not held fast by any necessity of death, but was "free among the dead": and therefore He abode a while in death, not as one held fast, but of His own will, just so long as He deemed necessary for the instruction of our faith. And a task is said to be done "at once" which is performed within a short space of time.
 
 Reply to Objection 3: As stated above ([4298]Q[51], A[4], ad 1,2), Christ rose early when the day was beginning to dawn, to denote that by His Resurrection He brought us to the light of glory; just as He died when the day was drawing to its close, and nearing to darkness, in order to signify that by His death He would destroy the darkness of sin and its punishment. Nevertheless He is said to have risen on the third day, taking day as a natural day which contains twenty-four hours. And as Augustine says (De Trin. iv): "The night until the dawn, when the Lord's Resurrection was proclaimed, belongs to the third day. Because God, who made the light to shine forth from darkness, in order that by the grace of the New Testament and partaking of Christ's rising we might hear this---'once ye were darkness, but now light in the Lord'---insinuates in a measure to us that day draws its origin from night: for, as the first days are computed from light to darkness on account of man's coming fall, so these days are reckoned from darkness to light owing to man's restoration." And so it is evident that even if He had risen at midnight, He could be said to have risen on the third day, taking it as a natural day. But now that He rose early, it can be affirmed that He rose on the third day, even taking the artificial day which is caused by the sun's presence, because the sun had already begun to brighten the sky. Hence it is written (Mk. 16:2) that "the women come to the sepulchre, the sun being now risen"; which is not contrary to John's statement "when it was yet dark," as Augustine says (De Cons. Evang. iii), "because, as the day advances the more the light rises, the more are the remaining shadows dispelled." But when Mark says "'the sun being now risen,' it is not to be taken as if the sun were already apparent over the horizon, but as coming presently into those parts."
-# Whether Christ Was The First To Rise From The Dead?
+## Whether Christ Was The First To Rise From The Dead?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ was not the first to rise from the dead, because we read in the Old Testament of some persons raised to life by Elias and Eliseus, according to Heb. 11:35: "Women received their dead raised to life again": also Christ before His Passion raised three dead persons to life. Therefore Christ was not the first to rise from the dead.
 
@@ -73,7 +73,7 @@ Objection 2: Further, among the other miracles which happened during the Passion
 
 Objection 3: Further, as Christ by His own rising is the cause of our resurrection, so by His grace He is the cause of our grace, according to Jn. 1:16: "Of His fulness we all have received." But in point of time some others had grace previous to Christ---for instance all the fathers of the Old Testament. Therefore some others came to the resurrection of the body before Christ.
 
-## Answer
+### Answer
 
 On the contrary, It is written (1 Cor. 15:20): "Christ is risen from the dead, the first fruits of them that sleep---because," says the gloss, "He rose first in point of time and dignity."
 
@@ -83,14 +83,14 @@ Consequently, speaking of perfect resurrection, Christ is the first of them who 
 
 And thus the answer to the first objection is clear: because both those raised from the dead in the old Testament, and those raised by Christ, so returned to life that they had to die again.
 
-## Replies
+### Replies
 
 Reply to Objection 2: There are two opinions regarding them who rose with Christ. Some hold that they rose to life so as to die no more, because it would be a greater torment for them to die a second time than not to rise at all. According to this view, as Jerome observes on Mat. 27:52,53, we must understand that "they had not risen before our Lord rose." Hence the Evangelist says that "coming out of the tombs after His Resurrection, they came into the holy city, and appeared to many." But Augustine (Ep. ad Evod. clxiv) while giving this opinion, says: "I know that it appears some, that by the death of Christ the Lord the same resurrection was bestowed upon the righteous as is promised to us in the end; and if they slept not again by laying aside their bodies, it remains to be seen how Christ can be understood to be 'the first-born of the dead,' if so many preceded Him unto that resurrection. Now if reply be made that this is said by anticipation, so that the monuments be understood to have been opened by the earthquake while Christ was still hanging on the cross, but that the bodies of the just did not rise then but after He had risen, the difficulty still arises---how is it that Peter asserts that it was predicted not of David but of Christ, that His body would not see corruption, since David's tomb was in their midst; and thus he did not convince them, if David's body was no longer there; for even if he had risen soon after his death, and his flesh had not seen corruption, his tomb might nevertheless remain. Now it seems hard that David from whose seed Christ is descended, was not in that rising of the just, if an eternal rising was conferred upon them. Also that saying in the Epistle to the Hebrews (11:40) regarding the ancient just would be hard to explain, 'that they should not be perfected without us,' if they were already established in that incorruption of the resurrection which is promised at the end when we shall be made perfect": so that Augustine would seem to think that they rose to die again. In this sense Jerome also in commenting on Matthew (27:52,53) says: "As Lazarus rose, so also many of the bodies of the saints rose, that they might bear witness to the risen Christ." Nevertheless in a sermon for the Assumption [*Ep. ix ad Paul. et Eustoch.; among the supposititious works ascribed to St. Jerome] he seems to leave the matter doubtful. But Augustine's reasons seem to be much more cogent.
 
 Reply to Objection 3: As everything preceding Christ's coming was preparatory for Christ, so is grace a disposition for glory. Consequently, it behooved all things appertaining to glory, whether they regard the soul, as the perfect fruition of God, or whether they regard the body, as the glorious resurrection, to be first in Christ as the author of glory: but that grace should be first in those that were ordained unto Christ.
-# Whether Christ Was The Cause Of His Own Resurrection?
+## Whether Christ Was The Cause Of His Own Resurrection?
 
-## Objections
+### Objections
 
 Objection 1: It seems that Christ was not the cause of His own Resurrection. For whoever is raised up by another is not the cause of his own rising. But Christ was raised up by another, according to Acts 2:24: "Whom God hath raised up, having loosed the sorrows of hell": and Rom. 8:11: "He that raised up Jesus Christ from the dead, shall quicken also your mortal bodies." Therefore Christ is not the cause of His own Resurrection.
 
@@ -98,13 +98,13 @@ Objection 2: Further, no one is said to merit, or ask from another, that of whic
 
 Objection 3: Further, as Damascene proves (De Fide Orth. iv), it is not the soul that rises again, but the body, which is stricken by death. But the body could not unite the soul with itself, since the soul is nobler. Therefore what rose in Christ could not be the cause of His Resurrection.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord says (Jn. 10:18): "No one taketh My soul from Me, but I lay it down, and I take it up again." But to rise is nothing else than to take the soul up again. Consequently, it appears that Christ rose again of His own power.
 
 I answer that, As stated above ([4299]Q[50], AA[2],3) in consequence of death Christ's Godhead was not separated from His soul, nor from His flesh. Consequently, both the soul and the flesh of the dead Christ can be considered in two respects: first, in respect of His Godhead; secondly, in respect of His created nature. Therefore, according to the virtue of the Godhead united to it, the body took back again the soul which it had laid aside, and the soul took back again the body which it had abandoned: and thus Christ rose by His own power. And this is precisely what is written (2 Cor. 13:4): "For although He was crucified through" our "weakness, yet He liveth by the power of God." But if we consider the body and soul of the dead Christ according to the power of created nature, they could not thus be reunited, but it was necessary for Christ to be raised up by God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Divine power is the same thing as the operation of the Father and the Son; accordingly these two things are mutually consequent, that Christ was raised up by the Divine power of the Father, and by His own power.
 

@@ -5,9 +5,9 @@ We must now consider the beatitudes: under which head there are four points of i
 (2) Of the rewards of the beatitudes: whether they refer to this life?
 (3) Of the number of the beatitudes;
 (4) Of the fittingness of the rewards ascribed to the beatitudes.
-# Whether The Beatitudes Differ From The Virtues And Gifts?
+## Whether The Beatitudes Differ From The Virtues And Gifts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the beatitudes do not differ from the virtues and gifts. For Augustine (De Serm. Dom. in Monte i, 4) assigns the beatitudes recited by Matthew (v 3, seqq.) to the gifts of the Holy Ghost; and Ambrose in his commentary on Luke 6:20, seqq., ascribes the beatitudes mentioned there, to the four cardinal virtues. Therefore the beatitudes do not differ from the virtues and gifts.
 
@@ -15,22 +15,22 @@ Objection 2: Further, there are but two rules of the human will: the reason and 
 
 Objection 3: Further, among the beatitudes are included meekness, justice, and mercy, which are said to be virtues. Therefore the beatitudes do not differ from the virtues and gifts.
 
-## Answer
+### Answer
 
 On the contrary, Certain things are included among the beatitudes, that are neither virtues nor gifts, e.g. poverty, mourning, and peace. Therefore the beatitudes differ from the virtues and gifts.
 
 I answer that, As stated above ([1668]Q[2], A[7];[1669] Q[3], A[1]), happiness is the last end of human life. Now one is said to possess the end already, when one hopes to possess it; wherefore the Philosopher says (Ethic. i, 9) that "children are said to be happy because they are full of hope"; and the Apostle says (Rom. 8:24): "We are saved by hope." Again, we hope to obtain an end, because we are suitably moved towards that end, and approach thereto; and this implies some action. And a man is moved towards, and approaches the happy end by works of virtue, and above all by the works of the gifts, if we speak of eternal happiness, for which our reason is not sufficient, since we need to be moved by the Holy Ghost, and to be perfected with His gifts that we may obey and follow him. Consequently the beatitudes differ from the virtues and gifts, not as habit, but as act from habit.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine and Ambrose assign the beatitudes to the gifts and virtues, as acts are ascribed to habits. But the gifts are more excellent than the cardinal virtues, as stated above ([1670]Q[68], A[8]). Wherefore Ambrose, in explaining the beatitudes propounded to the throng, assigns them to the cardinal virtues, whereas Augustine, who is explaining the beatitudes delivered to the disciples on the mountain, and so to those who were more perfect, ascribes them to the gifts of the Holy Ghost.
 
 Reply to Objection 2: This argument proves that no other habits, besides the virtues and gifts, rectify human conduct.
 
 Reply to Objection 3: Meekness is to be taken as denoting the act of meekness: and the same applies to justice and mercy. And though these might seem to be virtues, they are nevertheless ascribed to gifts, because the gifts perfect man in all matters wherein the virtues perfect him, as stated above ([1671]Q[68], A[2]).
-# Whether The Rewards Assigned To The Beatitudes Refer To This Life?
+## Whether The Rewards Assigned To The Beatitudes Refer To This Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the rewards assigned to the beatitudes do not refer to this life. Because some are said to be happy because they hope for a reward, as stated above [1672](A[1]). Now the object of hope is future happiness. Therefore these rewards refer to the life to come.
 
@@ -38,7 +38,7 @@ Objection 2: Further, certain punishments are set down in opposition to the beat
 
 Objection 3: Further, the kingdom of heaven which is set down as the reward of poverty is the happiness of heaven, as Augustine says (De Civ. Dei xix) [*Cf. De Serm. Dom. in Monte i, 1]. Again, abundant fullness is not to be had save in the life to come, according to Ps. 16:15: "I shall be filled [Douay: 'satisfied'] when Thy glory shall appear." Again, it is only in the future life that we shall see God, and that our Divine sonship will be made manifest, according to 1 Jn. 3:2: "We are now the sons of God; and it hath not yet appeared what we shall be. We know that, when He shall appear, we shall be like to Him, because we shall see Him as He is." Therefore these rewards refer to the future life.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Serm. Dom. in Monte i, 4): "These promises can be fulfilled in this life, as we believe them to have been fulfilled in the apostles. For no words can express that complete change into the likeness even of an angel, which is promised to us after this life."
 
@@ -48,16 +48,16 @@ In order to make the matter clear we must take note that hope of future happines
 
 Accordingly, those things which are set down as merits in the beatitudes, are a kind of preparation for, or disposition to happiness, either perfect or inchoate: while those that are assigned as rewards, may be either perfect happiness, so as to refer to the future life, or some beginning of happiness, such as is found in those who have attained perfection, in which case they refer to the present life. Because when a man begins to make progress in the acts of the virtues and gifts, it is to be hoped that he will arrive at perfection, both as a wayfarer, and as a citizen of the heavenly kingdom.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Hope regards future happiness as the last end: yet it may also regard the assistance of grace as that which leads to that end, according to Ps. 27:7: "In Him hath my heart hoped, and I have been helped."
 
 Reply to Objection 2: Although sometimes the wicked do not undergo temporal punishment in this life, yet they suffer spiritual punishment. Hence Augustine says (Confess. i): "Thou hast decreed, and it is so, Lord---that the disordered mind should be its own punishment." The Philosopher, too, says of the wicked (Ethic. ix, 4) that "their soul is divided against itself . . . one part pulls this way, another that"; and afterwards he concludes, saying: "If wickedness makes a man so miserable, he should strain every nerve to avoid vice." In like manner, although, on the other hand, the good sometimes do not receive material rewards in this life, yet they never lack spiritual rewards, even in this life, according to Mat. 19:29, and Mk. 10:30: "Ye shall receive a hundred times as much" even "in this time."
 
 Reply to Objection 3: All these rewards will be fully consummated in the life to come: but meanwhile they are, in a manner, begun, even in this life. Because the "kingdom of heaven," as Augustine says (De Civ. Dei xiv; *Cf. De Serm. Dom. in Monte, i, 1), can denote the beginning of perfect wisdom, in so far as "the spirit" begins to reign in men. The "possession" of the land denotes the well-ordered affections of the soul that rests, by its desire, on the solid foundation of the eternal inheritance, signified by "the land." They are "comforted" in this life, by receiving the Holy Ghost, Who is called the "Paraclete," i.e. the Comforter. They "have their fill," even in this life, of that food of which Our Lord said (Jn. 4:34): "My meat is to do the will of Him that sent Me." Again, in this life, men "obtain" God's "Mercy." Again, the eye being cleansed by the gift of understanding, we can, so to speak, "see God." Likewise, in this life, those who are the "peacemakers" of their own movements, approach to likeness to God, and are called "the children of God." Nevertheless these things will be more perfectly fulfilled in heaven.
-# Whether The Beatitudes Are Suitably Enumerated?
+## Whether The Beatitudes Are Suitably Enumerated?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the beatitudes are unsuitably enumerated. For the beatitudes are assigned to the gifts, as stated above (A[1], ad 1). Now some of the gifts, viz. wisdom and understanding, belong to the contemplative life: yet no beatitude is assigned to the act of contemplation, for all are assigned to matters connected with the active life. Therefore the beatitudes are insufficiently enumerated.
 
@@ -71,7 +71,7 @@ Objection 5: On the other hand, it seems that too many are mentioned. For there 
 
 Objection 6: Further, only four beatitudes are indicated in the sixth chapter of Luke. Therefore the seven or eight mentioned in Matthew 5 are too many.
 
-## Answer
+### Answer
 
 
 
@@ -83,7 +83,7 @@ Active life consists chiefly in man's relations with his neighbor, either by way
 
 Those things which concern the contemplative life, are either final beatitude itself, or some beginning thereof: wherefore they are included in the beatitudes, not as merits, but as rewards. Yet the effects of the active life, which dispose man for the contemplative life, are included in the beatitudes. Now the effect of the active life, as regards those virtues and gifts whereby man is perfected in himself, is the cleansing of man's heart, so that it is not defiled by the passions: hence the sixth beatitude is: "Blessed are the clean of heart." But as regards the virtues and gifts whereby man is perfected in relation to his neighbor, the effect of the active life is peace, according to Is. 32:17: "The work of justice shall be peace": hence the seventh beatitude is "Blessed are the peacemakers."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The acts of the gifts which belong to the active life are indicated in the merits: but the acts of the gifts pertaining to the contemplative life are indicated in the rewards, for the reason given above. Because to "see God" corresponds to the gift of understanding; and to be like God by being adoptive "children of God," corresponds to the gift of wisdom.
 
@@ -96,9 +96,9 @@ Reply to Objection 4: All the beatitudes mentioned in Holy Writ must be reduced 
 Reply to Objection 5: The eighth beatitude is a confirmation and declaration of all those that precede. Because from the very fact that a man is confirmed in poverty of spirit, meekness, and the rest, it follows that no persecution will induce him to renounce them. Hence the eighth beatitude corresponds, in a way, to all the preceding seven.
 
 Reply to Objection 6: Luke relates Our Lord's sermon as addressed to the multitude (Lk. 6:17). Hence he sets down the beatitudes according to the capacity of the multitude, who know no other happiness than pleasure, temporal and earthly: wherefore by these four beatitudes Our Lord excludes four things which seem to belong to such happiness. The first of these is abundance of external goods, which he sets aside by saying: "Blessed are ye poor." The second is that man be well off as to his body, in food and drink, and so forth; this he excludes by saying in the second place: "Blessed are ye that hunger." The third is that it should be well with man as to joyfulness of heart, and this he puts aside by saying: "Blessed are ye that weep now." The fourth is the outward favor of man; and this he excludes, saying, fourthly: "Blessed shall you be, when men shall hate you." And as Ambrose says on Lk. 6:20, "poverty corresponds to temperance, which is unmoved by delights; hunger, to justice, since who hungers is compassionate and, through compassion gives; mourning, to prudence, which deplores perishable things; endurance of men's hatred belongs to fortitude."
-# Whether The Rewards Of The Beatitudes Are Suitably Enumerated?
+## Whether The Rewards Of The Beatitudes Are Suitably Enumerated?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the rewards of the beatitudes are unsuitably enumerated. Because the kingdom of heaven, which is eternal life, contains all good things. Therefore, once given the kingdom of heaven, no other rewards should be mentioned.
 
@@ -106,7 +106,7 @@ Objection 2: Further, the kingdom of heaven is assigned as the reward, both of t
 
 Objection 3: Further, the beatitudes are arranged in the ascending order, as Augustine remarks (De Serm. Dom. in Monte i, 4): whereas the rewards seem to be placed in the descending order, since to "possess the land" is less than to possess "the kingdom of heaven." Therefore these rewards are unsuitably enumerated.
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Our Lord Who propounded these rewards.
 
@@ -116,7 +116,7 @@ Two other beatitudes belong to the works of active happiness, which are the work
 
 The last two beatitudes belong to contemplative happiness or beatitude: hence the rewards are assigned in correspondence with the dispositions included in the merit. For cleanness of the eye disposes one to see clearly: hence the clean of heart are promised that they shall see God. Again, to make peace either in oneself or among others, shows a man to be a follower of God, Who is the God of unity and peace. Hence, as a reward, he is promised the glory of the Divine sonship, consisting in perfect union with God through consummate wisdom.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Chrysostom says (Hom. xv in Matth.), all these rewards are one in reality, viz. eternal happiness, which the human intellect cannot grasp. Hence it was necessary to describe it by means of various boons known to us, while observing due proportion to the merits to which those rewards are assigned.
 

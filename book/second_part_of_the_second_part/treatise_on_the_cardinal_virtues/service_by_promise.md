@@ -13,9 +13,9 @@ OF VOWS (TWELVE ARTICLES)  We must now consider vows, whereby something is promi
 (10) Whether a vow is subject to dispensation or commutation?
 (11) Whether a dispensation can be granted in a solemn vow of continence?
 (12) Whether the authority of a superior is required in a dispensation from a vow?
-# Whether A Vow Consists In A Mere Purpose Of The Will?
+## Whether A Vow Consists In A Mere Purpose Of The Will?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a vow consists in nothing but a purpose of the will. According to some [*William of Auxerre, Sum. Aur. III, xxviii, qu. 1; Albertus Magnus, Sent. iv, D, 38], "a vow is a conception of a good purpose after a firm deliberation of the mind, whereby a man binds himself before God to do or not to do a certain thing." But the conception of a good purpose and so forth, may consist in a mere movement of the will. Therefore a vow consists in a mere purpose of the will.
 
@@ -23,22 +23,22 @@ Objection 2: Further, the very word vow seems to be derived from "voluntas" [wil
 
 Objection 3: Further, our Lord said (Lk. 9:62): "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." Now from the very fact that a man has a purpose of doing good, he puts his hand to the plough. Consequently, if he look back by desisting from his good purpose, he is not fit for the kingdom of God. Therefore by a mere good purpose a man is bound before God, even without making a promise; and consequently it would seem that a vow consists in a mere purpose of the will.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Eccles. 5:3): "If thou hast vowed anything to God, defer not to pay it, for an unfaithful and foolish promise displeaseth Him." Therefore to vow is to promise, and a vow is a promise.
 
 I answer that, A vow denotes a binding to do or omit some particular thing. Now one man binds himself to another by means of a promise, which is an act of the reason to which faculty it belongs to direct. For just as a man by commanding or praying, directs, in a fashion, what others are to do for him, so by promising he directs what he himself is to do for another. Now a promise between man and man can only be expressed in words or any other outward signs; whereas a promise can be made to God by the mere inward thought, since according to 1 Kings 16:7, "Man seeth those things that appear, but the Lord beholdeth the heart." Yet we express words outwardly sometimes, either to arouse ourselves, as was stated above with regard to prayer ([3051]Q[83], A[12]), or to call others to witness, so that one may refrain from breaking the vow, not only through fear of God, but also through respect of men. Now a promise is the outcome from a purpose of doing something: and a purpose presupposes deliberation, since it is the act of a deliberate will. Accordingly three things are essential to a vow: the first is deliberation. the second is a purpose of the will; and the third is a promise, wherein is completed the nature of a vow. Sometimes, however, two other things are added as a sort of confirmation of the vow, namely, pronouncement by word of mouth, according to Ps. 65:13, "I will pay Thee my vows which my lips have uttered"; and the witnessing of others. Hence the Master says (Sent. iv, D, 38) that a vow is "the witnessing of a spontaneous promise and ought to be made to God and about things relating to God": although the "witnessing" may strictly refer to the inward protestation.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The conceiving of a good purpose is not confirmed by the deliberation of the mind, unless the deliberation lead to a promise.
 
 Reply to Objection 2: Man's will moves the reason to promise something relating to things subject to his will, and a vow takes its name from the will forasmuch as it proceeds from the will as first mover.
 
 Reply to Objection 3: He that puts his hand to the plough does something already; while he that merely purposes to do something does nothing so far. When, however, he promises, he already sets about doing, although he does not yet fulfil his promise: even so, he that puts his hand to the plough does not plough yet, nevertheless he stretches out his hand for the purpose of ploughing.
-# Whether A Vow Should Always Be About A Better Good?
+## Whether A Vow Should Always Be About A Better Good?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a vow need not be always about a better good. A greater good is one that pertains to supererogation. But vows are not only about matters of supererogation, but also about matters of salvation: thus in Baptism men vow to renounce the devil and his pomps, and to keep the faith, as a gloss observes on Ps. 75:12, "Vow ye, and pay to the Lord your God"; and Jacob vowed (Gn. 28:21) that the Lord should be his God. Now this above all is necessary for salvation. Therefore vows are not only about a better good.
 
@@ -46,7 +46,7 @@ Objection 2: Further, Jephte is included among the saints (Heb. 11:32). Yet he k
 
 Objection 3: Further, things that tend to be harmful to the person, or that are quite useless, do not come under the head of a better good. Yet sometimes vows are made about immoderate vigils or fasts which tend to injure the person: and sometimes vows are about indifferent matters and such as are useful to no purpose. Therefore a vow is not always about a better good.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 23:22): "If thou wilt not promise thou shalt be without sin."
 
@@ -54,16 +54,16 @@ I answer that, As stated above [3052](A[1]), a vow is a promise made to God. Now
 
 On the other hand, if a thing be necessary. not absolutely but on the supposition of an end---for instance if salvation be unattainable without it---it may be the matter of a vow in so far as it is done voluntarily, but not in so far as there is a necessity for doing it. But that which is not necessary, neither absolutely, nor on the supposition of an end, is altogether voluntary, and therefore is most properly the matter of a vow. And this is said to be a greater good in comparison with that which is universally necessary for salvation. Therefore, properly speaking, a vow is said to be about a better good.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Renouncing the devil's pomps and keeping the faith of Christ are the matter of baptismal vows, in so far as these things are done voluntarily, although they are necessary for salvation. The same answer applies to Jacob's vow: although it may also be explained that Jacob vowed that he would have the Lord for his God, by giving Him a special form of worship to which he was not bound, for instance by offering tithes and so forth as mentioned further on in the same passage.
 
 Reply to Objection 2: Certain things are good, whatever be their result; such are acts of virtue, and these can be, absolutely speaking, the matter of a vow: some are evil, whatever their result may be; as those things which are sins in themselves, and these can nowise be the matter of a vow: while some, considered in themselves, are good, and as such may be the matter of a vow, yet they may have an evil result, in which case the vow must not be kept. It was thus with the vow of Jephte, who as related in Judges 11:30,31, "made a vow to the Lord, saying: If Thou wilt deliver the children of Ammon into my hands, whosoever shall first come forth out of the doors of my house, and shall meet me when I return in peace . . . the same will I offer a holocaust to the Lord." For this could have an evil result if, as indeed happened, he were to be met by some animal which it would be unlawful to sacrifice, such as an ass or a human being. Hence Jerome says [*Implicitly 1 Contra Jovin.: Comment. in Micheam vi, viii: Comment. in Jerem. vii. The quotation is from Peter Comestor, Hist. Scholast.]: "In vowing he was foolish, through lack of discretion, and in keeping his vow he was wicked." Yet it is premised (Judges 11:29) that "the Spirit of the Lord came upon him," because his faith and devotion, which moved him to make that vow, were from the Holy Ghost; and for this reason he is reckoned among the saints, as also by reason of the victory which he obtained, and because it is probable that he repented of his sinful deed, which nevertheless foreshadowed something good.
 
 Reply to Objection 3: The mortification of one's own body, for instance by vigils and fasting, is not acceptable to God except in so far as it is an act of virtue; and this depends on its being done with due discretion, namely, that concupiscence be curbed without overburdening nature. on this condition such things may be the matter of a vow. Hence the Apostle after saying (Rom. 12:1), "Present your bodies a living sacrifice, holy, pleasing to God," adds, "your reasonable service." Since, however, man is easily mistaken in judging of matters concerning himself, such vows as these are more fittingly kept or disregarded according to the judgment of a superior, yet so that, should a man find that without doubt he is seriously burdened by keeping such a vow, and should he be unable to appeal to his superior, he ought not to keep it. As to vows about vain and useless things they should be ridiculed rather than kept.
-# Whether All Vows Are Binding?
+## Whether All Vows Are Binding?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that vows are not all binding. For man needs things that are done by another, more than God does, since He has no need for our goods (Ps. 15:2). Now according to the prescription of human laws [*Dig. L. xii, de pollicitat., i] a simple promise made to a man is not binding; and this seems to be prescribed on account of the changeableness of the human will. Much less binding therefore is a simple promise made to God, which we call a vow.
 
@@ -71,22 +71,22 @@ Objection 2: Further, no one is bound to do what is impossible. Now sometimes th
 
 Objection 3: Further, if a man is bound to pay something, he must do so at once. But a man is not bound to pay his vow at once, especially if it be taken under a condition to be fulfilled in the future. Therefore a vow is not always binding.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Eccles. 5:3,4): "Whatsoever thou hast vowed, pay it; and it is much better not to vow, than after a vow not to perform the things promised."
 
 I answer that, For one to be accounted faithful one must keep one's promises. Wherefore, according to Augustine [*Ep. xxxii, 2: De Mendac. xx] faith takes its name "from a man's deed agreeing with his word" [*'Fides . . . fiunt dicta' Cicero gives the same etymology (De Offic. i, 7)]. Now man ought to be faithful to God above all, both on account of God's sovereignty, and on account of the favors he has received from God. Hence man is obliged before all to fulfill the vows he has made to God, since this is part of the fidelity he owes to God. On the other hand, the breaking of a vow is a kind of infidelity. Wherefore Solomon gives the reason why vows should be paid to God, because "an unfaithful . . . promise displeaseth Him" [*Eccles. 5:3].
 
-## Replies
+### Replies
 
 Reply to Objection 1: Honesty demands that a man should keep any promise he makes to another man, and this obligation is based on the natural law. But for a man to be under a civil obligation through a promise he has made, other conditions are requisite. And although God needs not our goods, we are under a very great obligation to Him: so that a vow made to Him is most binding.
 
 Reply to Objection 2: If that which a man has vowed becomes impossible to him through any cause whatsoever, he must do what he can, so that he have at least a will ready to do what he can. Hence if a man has vowed to enter a monastery, he must endeavor to the best of his power to be received there. And if his intention was chiefly to bind himself to enter the religious life, so that, in consequence, he chose this particular form of religious life, or this place, as being most agreeable to him, he is bound, should he be unable to be received there, to enter the religious life elsewhere. But if his principal intention is to bind himself to this particular kind of religious life, or to this particular place, because the one or the other pleases him in some special way, he is not bound to enter another religious house, if they are unwilling to receive him into this particular one. on the other hand, if he be rendered incapable of fulfilling his vow through his own fault, he is bound over and above to do penance for his past fault: thus if a woman has vowed virginity and is afterwards violated, she is bound not only to observe what is in her power, namely, perpetual continency, but also to repent of what she has lost by sinning.
 
 Reply to Objection 3: The obligation of a vow is caused by our own will and intention, wherefore it is written (Dt. 23:23): "That which is once gone out of thy lips, thou shalt observe, and shalt do as thou hast promised to the Lord thy God, and hast spoken with thy own will and with thy own mouth." Wherefore if in taking a vow, it is one's intention and will to bind oneself to fulfil it at once, one is bound to fulfil it immediately. But if one intend to fulfil it at a certain time, or under a certain condition, one is not bound to immediate fulfilment. And yet one ought not to delay longer than one intended to bind oneself, for it is written (Dt. 23:21): "When thou hast made a vow to the Lord thy God thou shalt not delay to pay it: because the Lord thy God will require it; and if thou delay, it shall be imputed to thee for a sin."
-# Whether It Is Expedient To Take Vows?
+## Whether It Is Expedient To Take Vows?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not expedient to take vows. It is not expedient to anyone to deprive himself of the good that God has given him. Now one of the greatest goods that God has given man is liberty whereof he seems to be deprived by the necessity implicated in a vow. Therefore it would seem inexpedient for man to take vows.
 
@@ -94,22 +94,22 @@ Objection 2: Further, no one should expose himself to danger. But whoever takes 
 
 Objection 3: Further, the Apostle says (1 Cor. 4:16): "Be ye followers of me, as I also am of Christ." But we do not read that either Christ or the Apostles took any vows. Therefore it would seem inexpedient to take vows.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 75:12): "Vow ye and pay to the Lord your God."
 
 I answer that, As stated above ([3053]AA[1],2), a vow is a promise made to God. Now one makes a promise to a man under one aspect, and to God under another. Because we promise something to a man for his own profit; since it profits him that we should be of service to him, and that we should at first assure him of the future fulfilment of that service: whereas we make promises to God not for His but for our own profit. Hence Augustine says (Ep. cxxvii, ad Arment. et Paulin.): "He is a kind and not a needy exactor, for he does not grow rich on our payments, but makes those who pay Him grow rich in Him." And just as what we give God is useful not to Him but to us, since "what is given Him is added to the giver," as Augustine says (Ep. cxxvii, ad Arment. et Paulin.), so also a promise whereby we vow something to God, does not conduce to His profit, nor does He need to be assured by us, but it conduces to our profit, in so far as by vowing we fix our wills immovably on that which it is expedient to do. Hence it is expedient to take vows.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even as one's liberty is not lessened by one being unable to sin, so, too, the necessity resulting from a will firmly fixed to good does not lessen the liberty, as instanced in God and the blessed. Such is the necessity implied by a vow, bearing a certain resemblance to the confirmation of the blessed. Hence, Augustine says (Ep. cxxvii, ad Arment. et Paulin.) that "happy is the necessity that compels us to do the better things."
 
 Reply to Objection 2: When danger arises from the deed itself, this deed is not expedient, for instance that one cross a river by a tottering bridge: but if the danger arise through man's failure in the deed, the latter does not cease to be expedient: thus it is expedient to mount on horseback, though there be the danger of a fall from the horse: else it would behoove one to desist from all good things, that may become dangerous accidentally. Wherefore it is written (Eccles. 11:4): "He that observeth the wind shall not sow, and he that considereth the clouds shall never reap." Now a man incurs danger, not from the vow itself, but from his fault, when he changes his mind by breaking his vow. Hence, Augustine says (Ep. cxxvii, ad Arment. et Paulin.): "Repent not of thy vow: thou shouldst rather rejoice that thou canst no longer do what thou mightest lawfully have done to thy detriment."
 
 Reply to Objection 3: It was incompetent for Christ, by His very nature, to take a vow, both because He was God, and because, as man, His will was firmly fixed on the good, since He was a "comprehensor." By a kind of similitude, however, He is represented as saying (Ps. 21:26): "I will pay my vows in the sight of them that fear Him," when He is speaking of His body, which is the Church.
-# Whether A Vow Is An Act Of Latria Or Religion?
+## Whether A Vow Is An Act Of Latria Or Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a vow is not an act of latria or religion. Every act of virtue is matter for a vow. Now it would seem to pertain to the same virtue to promise a thing and to do it. Therefore a vow pertains to any virtue and not to religion especially.
 
@@ -117,7 +117,7 @@ Objection 2: Further, according to Tully (De Invent. ii, 53) it belongs to relig
 
 Objection 3: Further, religious worship should be offered to none but God. But a vow is made not only to God, but also to the saints and to one's superiors, to whom religious vow obedience when they make their profession. Therefore, a vow is not an act of religion.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 19:21): "(The Egyptians) shall worship Him with sacrifices and offerings and they shall make vows to the Lord, and perform them." Now, the worship of God is properly the act of religion or latria. Therefore, a vow is an act of latria or religion.
 
@@ -125,16 +125,16 @@ I answer that, As stated above ([3054]Q[81], A[1], ad 1), every act of virtue be
 
 Now, it is evident from what has been said above ([3055]AA[1],2) that a vow is a promise made to God, and that a promise is nothing else than a directing of the thing promised to the person to whom the promise is made. Hence a vow is a directing of the thing vowed to the worship or service of God. And thus it is clear that to take a vow is properly an act of latria or religion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The matter of a vow is sometimes the act of another virtue, as, for instance, keeping the fast or observing continency; while sometimes it is an act of religion, as offering a sacrifice or praying. But promising either of them to God belongs to religion, for the reason given above. Hence it is evident that some vows belong to religion by reason only of the promise made to God, which is the essence of a vow, while others belong thereto by reason also of the thing promised, which is the matter of the vow.
 
 Reply to Objection 2: He who promises something gives it already in as far as he binds himself to give it: even as a thing is said to be made when its cause is made, because the effect is contained virtually in its cause. This is why we thank not only a giver, but also one who promises to give.
 
 Reply to Objection 3: A vow is made to God alone, whereas a promise may be made to a man also: and this very promise of good, which is fore made to a man, may be the matter of a vow, and in so far as it is a virtuous act. This is how we are to understand vows whereby we vow something to the saints or to one's superiors: so that the promise made to the saints or to one's superiors is the matter of the vow, in so far as one vows to God to fulfil what one has promised to the saints or one's superiors.
-# Whether It Is More Praiseworthy And Meritorious To Do Something In Fulfilment Of A Vow, Than Without A Vow?
+## Whether It Is More Praiseworthy And Meritorious To Do Something In Fulfilment Of A Vow, Than Without A Vow?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is more praiseworthy and meritorious to do a thing without a vow than in fulfilment of a vow. Prosper says (De Vita Contempl. ii): "We should abstain or fast without putting ourselves under the necessity of fasting, lest that which we are free to do be done without devotion and unwillingly." Now he who vows to fast puts himself under the necessity of fasting. Therefore it would be better for him to fast without taking the vow.
 
@@ -142,7 +142,7 @@ Objection 2: Further, the Apostle says (2 Cor. 9:7): "Everyone as he hath determ
 
 Objection 3: Further, a vow is necessary for the purpose of fixing the will on that which is vowed, as stated above [3056](A[4]). But the will cannot be more fixed on a thing than when it actually does that thing. Therefore it is no better to do a thing in fulfilment of a vow than without a vow.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on the words of Ps. 75:12, "Vow ye and pay," says: "Vows are counseled to the will." But a counsel is about none but a better good. Therefore it is better to do a deed in fulfilment of a vow than without a vow: since he that does it without a vow fulfils only one counsel, viz. the counsel to do it, whereas he that does it with a vow, fulfils two counsels, viz. the counsel to vow and the counsel to do it.
 
@@ -152,16 +152,16 @@ Secondly, because he that vows something and does it, subjects himself to God mo
 
 Thirdly, because a vow fixes the will on the good immovably and to do anything of a will that is fixed on the good belongs to the perfection of virtue, according to the Philosopher (Ethic. ii, 4), just as to sin with an obstinate mind aggravates the sin, and is called a sin against the Holy Ghost, as stated above ([3058]Q[14], A[2]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The passage quoted should be understood as referring to necessity of coercion which causes an act to be involuntary and excludes devotion. Hence he says pointedly: "Lest that which we are free to do be done without devotion and unwillingly." On the other hand the necessity resulting from a vow is caused by the immobility of the will, wherefore it strengthens the will and increases devotion. Hence the argument does not conclude.
 
 Reply to Objection 2: According to the Philosopher, necessity of coercion, in so far as it is opposed to the will, causes sorrow. But the necessity resulting from a vow, in those who are well disposed, in so far as it strengthens the will, causes not sorrow but joy. Hence Augustine says (Ep. ad Arment. et Paulin. cxxcii): "Repent not of thy vow: thou shouldst rather rejoice that thou canst no longer do what thou mightest lawfully have done to thy detriment." If, however, the very deed, considered in itself, were to become disagreeable and involuntary after one has taken the vow, the will to fulfil it remaining withal, it is still more meritorious than if it were done without the vow, since the fulfilment of a vow is an act of religion which is a greater virtue than abstinence, of which fasting is an act.
 
 Reply to Objection 3: He who does something without having vowed it has an immovable will as regards the individual deed which he does and at the time when he does it; but his will does not remain altogether fixed for the time to come, as does the will of one who makes a vow: for the latter has bound his will to do something, both before he did that particular deed, and perchance to do it many times.
-# Whether A Vow Is Solemnized By The Reception Of Holy Orders, And By The Profession Of A Certain Rule?
+## Whether A Vow Is Solemnized By The Reception Of Holy Orders, And By The Profession Of A Certain Rule?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a vow is not solemnized by the reception of holy orders and by the profession of a certain rule. As stated above [3059](A[1]), a vow is a promise made to God. Now external actions pertaining to solemnity seem to be directed, not to God, but to men. Therefore they are related to vows accidentally: and consequently a solemnization of this kind is not a proper circumstance of a vow.
 
@@ -169,22 +169,22 @@ Objection 2: Further, whatever belongs to the condition of a thing, would seem t
 
 Objection 3: Further, a solemn vow seems to be the same as a public vow. Now many other vows may be made in public besides that which is pronounced in receiving holy orders or in professing a certain rule; which latter, moreover, may be made in private. Therefore not only these vows are solemn.
 
-## Answer
+### Answer
 
 On the contrary, These vows alone are an impediment to the contract of marriage, and annul marriage if it be contracted, which is the effect of a solemn vow, as we shall state further on in the Third Part of this work [*[3060]XP, Q[53], A[2]].
 
 I answer that, The manner in which a thing is solemnized depends on its nature [conditio]: thus when a man takes up arms he solemnizes the fact in one way, namely, with a certain display of horses and arms and a concourse of soldiers, while a marriage is solemnized in another way, namely, the array of the bridegroom and bride and the gathering of their kindred. Now a vow is a promise made to God: wherefore, the solemnization of a vow consists in something spiritual pertaining to God; i.e. in some spiritual blessing or consecration which, in accordance with the institution of the apostles, is given when a man makes profession of observing a certain rule, in the second degree after the reception of holy orders, as Dionysius states (Eccl. Hier. vi). The reason of this is that solemnization is not wont to be employed, save when a man gives himself up entirely to some particular thing. For the nuptial solemnization takes place only when the marriage is celebrated, and when the bride and bridegroom mutually deliver the power over their bodies to one another. In like manner a vow is solemnized when a man devotes himself to the divine ministry by receiving holy orders, or embraces the state of perfection by renouncing the world and his own will by the profession of a certain rule.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This kind of solemnization regards not only men but also God in so far as it is accompanied by a spiritual consecration or blessing, of which God is the author, though man is the minister, according to Num. 6:27, "They shall invoke My name upon the children of Israel, and I will bless them." Hence a solemn vow is more binding with God than a simple vow, and he who breaks a solemn vow sins more grievously. When it is said that a simple vow is no less binding than a solemn vow, this refers to the fact that the transgressor of either commits a mortal sin.
 
 Reply to Objection 2: It is not customary to solemnize particular acts, but the embracing of a new state, as we have said above. Hence when a man vows particular deeds, such as a pilgrimage, or some special fast, such a vow is not competent to be solemnized, but only such as the vow whereby a man entirely devotes himself to the divine ministry or service: and yet many particular works are included under this vow as under a universal.
 
 Reply to Objection 3: Through being pronounced in public vows may have a certain human solemnity, but not a spiritual and divine solemnity, as the aforesaid vows have, even when they are pronounced before a few persons. Hence the publicity of a vow differs from its solemnization.
-# Whether Those Who Are Subject To Another's Power Are Hindered From Taking Vows?
+## Whether Those Who Are Subject To Another's Power Are Hindered From Taking Vows?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that those who are subject to another's power are not hindered from taking vows. The lesser bond is surpassed by the greater. Now the obligation of one man subject to another is a lesser bond than a vow whereby one is under an obligation to God. Therefore those who are subject to another's power are not hindered from taking vows.
 
@@ -194,13 +194,13 @@ Objection 3: Further, to do is more than to promise. But religious who are under
 
 Objection 4: Further, whoever does what he cannot do lawfully sins. But subjects do not sin by taking vows, since nowhere do we find this forbidden. Therefore it would seem that they can lawfully take vows.
 
-## Answer
+### Answer
 
 On the contrary, It is commanded (Num. 30:4-6) that "if a woman vow any thing . . . being in her father's house, and yet but a girl in age," she is not bound by the vow, unless her father consent: and the same is said there (Num. 30:7-9) of the woman that has a husband. Therefore in like manner other persons that are subject to another's power cannot bind themselves by vow.
 
 I answer that, As stated above [3061](A[1]), a vow is a promise made to God. Now no man can firmly bind himself by a promise to do what is in another's power, but only to that which is entirely in his own power. Now whoever is subject to another, as to the matter wherein he is subject to him, it does not lie in his power to do as he will, but it depends on the will of the other. And therefore without the consent of his superior he cannot bind himself firmly by a vow in those matters wherein he is subject to another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Nothing but what is virtuous can be the subject of a promise made to God, as stated above [3062](A[2]). Now it is contrary to virtue for a man to offer to God that which belongs to another, as stated above (Q[86], A[3]). Hence the conditions necessary for a vow are not altogether ensured, when a man who is under another's power vows that which is in that other's power, except under the condition that he whose power it concerns does not gainsay it.
 
@@ -209,9 +209,9 @@ Reply to Objection 2: As soon as a man comes of age, if he be a freeman he is in
 Reply to Objection 3: A religious is subject to his superior as to his actions connected with his profession of his rule. Wherefore even though one may be able to do something now and then, when one is not being occupied with other things by one's superior, yet since there is no time when his superior cannot occupy him with something, no vow of a religious stands without the consent of his superior, as neither does the vow of a girl while in (her father's) house without his consent; nor of a wife, without the consent of her husband.
 
 Reply to Objection 4: Although the vow of one who is subject to another's power does not stand without the consent of the one to whom he is subject, he does not sin by vowing; because his vow is understood to contain the requisite condition, providing, namely, that his superior approve or do not gainsay it.
-# Whether Children Can Bind Themselves By Vow To Enter Religion?
+## Whether Children Can Bind Themselves By Vow To Enter Religion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that children cannot bind themselves by vow to enter religion. Since a vow requires deliberation of the mind, it is fitting that those alone should vow who have the use of reason. But this is lacking in children just as in imbeciles and madmen. Therefore just as imbeciles and madmen cannot bind themselves to anything by vow, so neither, seemingly, can children bind themselves by vow to enter religion.
 
@@ -219,7 +219,7 @@ Objection 2: Further, that which can be validly done by one cannot be annulled b
 
 Objection 3: Further, according to the rule of Blessed Benedict [*Ch. 58] and a statute of Innocent IV, a year's probation is granted to those who enter religion, so that probation may precede the obligation of the vow. Therefore it seems unlawful, before the year of probation, for children to be bound by vow to enter religion.
 
-## Answer
+### Answer
 
 On the contrary, That which is not done aright is invalid without being annulled by anyone. But the vow pronounced by a maiden, even before attaining the age of puberty, is valid, unless it be annulled by her parents within a year (20, qu. ii, cap. Puella). Therefore even before attaining to puberty children can lawfully and validly be bound by a vow to enter religion.
 
@@ -229,16 +229,16 @@ Accordingly we must say that boys or girls who have not reached the years of pub
 
 Yet no matter how much they be capable of guile before the years of puberty, they cannot be bound by a solemn religious vow, on account of the Church's decree [*Sext. Decret. cap. Is qui, de Reg. et transeunt. ad Relig.] which considers the majority of cases. But after the years of puberty have been reached, they can bind themselves by religious vows, simple or solemn, without the consent of their parents.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument avails in the case of children who have not yet reached the use of reason: for their vows then are invalid, as stated above.
 
 Reply to Objection 2: The vows of persons subject to another's power contain an implied condition, namely, that they be not annulled by the superior. This condition renders them licit and valid if it be fulfilled, as stated above.
 
 Reply to Objection 3: This argument avails in the case of solemn vows which are taken in profession.
-# Whether Vows Admit Of Dispensation?
+## Whether Vows Admit Of Dispensation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that vows are not subject to dispensation. It is less to have a vow commuted than to be dispensed from keeping it. But a vow cannot be commuted, according to Lev. 27:9,10, "A beast that may be sacrificed to the Lord, if anyone shall vow, shall be holy, and cannot be changed, neither a better for a worse, nor a worse for a better." Much less, therefore, do vows admit of dispensation.
 
@@ -246,7 +246,7 @@ Objection 2: Further, no man can grant a dispensation in matters concerning the 
 
 Objection 3: Further, the obligation of a vow is based on the fidelity which a man owes to God, as stated above [3066](A[3]). But no man can dispense in such a matter as this. Neither, therefore, can any one grant a dispensation from a vow.
 
-## Answer
+### Answer
 
 On the contrary, That which proceeds from the common will of many has apparently greater stability than that which proceeds from the individual will of some one person. Now the law which derives its force from the common will admits of dispensation by a man. Therefore it seems that vows also admit of dispensation by a man.
 
@@ -254,16 +254,16 @@ I answer that, The dispensation from a vow is to be taken in the same sense as a
 
 In like manner a person who takes a vow makes a law for himself as it were, and binds himself to do something which in itself and in the majority of cases is a good. But it may happen that in some particular case this is simply evil, or useless, or a hindrance to a greater good: and this is essentially contrary to that which is the matter of a vow, as is clear from what has been said above [3069](A[2]). Therefore it is necessary, in such a case, to decide that the vow is not to be observed. And if it be decided absolutely that a particular vow is not to be observed, this is called a "dispensation" from that vow; but if some other obligation be imposed in lieu of that which was to have been observed, the vow is said to be "commuted." Hence it is less to commute a vow than to dispense from a vow: both, however, are in the power of the Church.
 
-## Replies
+### Replies
 
 Reply to Objection 1: An animal that could be lawfully sacrificed was deemed holy from the very moment that it was the subject of a vow, being, as it were, dedicated to the worship of God: and for this reason it could not be changed: even so neither may one now exchange for something better, or worse, that which one has vowed, if it be already consecrated, e.g. a chalice or a house. On the other hand, an animal that could not be sacrificed, through not being the lawful matter of a sacrifice, could and had to be bought back, as the law requires. Even so, vows can be commuted now, if no consecration has intervened.
 
 Reply to Objection 2: Even as man is bound by natural law and Divine precept to fulfil his vow, so, too, is he bound under the same heads to obey the law or commands of his superiors. And yet when he is dispensed from keeping a human law, this does not involve disobedience to that human law, for this would be contrary to the natural law and the Divine command; but it amounts to this---that what was law is not law in this particular case. Even so, when a superior grants a dispensation, that which was contained under a vow is by his authority no longer so contained, in so far as he decides that in this case such and such a thing is not fitting matter for a vow. Consequently when an ecclesiastical superior dispenses someone from a vow, he does not dispense him from keeping a precept of the natural or of the Divine law, but he pronounces a decision on a matter to which a man had bound himself of his own accord, and of which he was unable to consider every circumstance.
 
 Reply to Objection 3: The fidelity we owe to God does not require that we fulfil that which it would be wrong or useless to vow, or which would be an obstacle to the greater good whereunto the dispensation from that vow would conduce. Hence the dispensation from a vow is not contrary to the fidelity due to God.
-# Whether It Is Possible To Be Dispensed From A Solemn Vow Of Continency?
+## Whether It Is Possible To Be Dispensed From A Solemn Vow Of Continency?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is possible to be dispensed from a solemn vow of continency. As stated above, one reason for granting a dispensation from a vow is if it be an obstacle to a greater good. But a vow of continency, even though it be solemn, may be an obstacle to a greater good, since the common good is more God-like than the good of an individual. Now one man's continency may be an obstacle to the good of the whole community, for instance, in the case where, if certain persons who have vowed continency were to marry, the peace of their country might be procured. Therefore it seems that it is possible to be dispensed even from a solemn vow of continency.
 
@@ -273,7 +273,7 @@ Objection 3: Further, just as the observance of a vow of abstinence may be a sou
 
 Objection 4: Further, just as the vow of continency is part of the religious profession, whereby the vow is solemnized, so also are the vows of poverty and obedience. But it is possible to be dispensed from the vows of poverty and obedience, as in the case of those who are appointed bishops after making profession. Therefore it seems that it is possible to be dispensed from a solemn vow of continency.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 26:20): "No price is worthy of a continent soul."
 
@@ -285,7 +285,7 @@ For this reason others [*Innocent IV, on the above decretal] maintain that one m
 
 We must therefore consider whether continency is essentially bound up with the purpose for which the vow is solemnized. because if not, the solemnity of the consecration can remain without the obligation of continency, but not if continency is essentially bound up with that for which the vow is solemnized. Now the obligation of observing continency is connected with Holy orders, not essentially but by the institution of the Church; wherefore it seems that the Church can grant a dispensation from the vow of continency solemnized by the reception of Holy Orders. on the other hand the obligation of observing; continency is an essential condition of the religious state, whereby a man renounces the world and binds himself wholly to God's service, for this is incompatible with matrimony, in which state a man is under the obligation of taking to himself a wife, of begetting children, of looking after his household, and of procuring whatever is necessary for these purposes. Wherefore the Apostle says (1 Cor. 7:33) that "he that is with a wife, is solicitous for the things of the world, how he may please his wife; and he is divided." Hence the "monk" takes his name from "unity" [*The Greek {monos}] in contrast with this division. For this reason the Church cannot dispense from a vow solemnized by the religious profession; and the reason assigned by the Decretal is because "chastity is bound up with the monastic rule."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Perils occasioned by human affairs should be obviated by human means, not by turning divine things to a human use. Now a professed religious is dead to the world and lives to God, and so he must not be called back to the human life on the pretext of any human contingency.
 
@@ -294,9 +294,9 @@ Reply to Objection 2: A vow of temporal continency can be a matter of dispensati
 Reply to Objection 3: Food is directly ordered to the upkeep of the person, therefore abstinence from food may be a direct source of danger to the person: and so on this count a vow of abstinence is a matter of dispensation. On the other hand sexual intercourse is directly ordered to the upkeep not of the person but of the species, wherefore to abstain from such intercourse by continency does not endanger the person. And if indeed accidentally it prove a source of danger to the person, this danger may be obviated by some other means, for instance by abstinence, or other corporal remedies.
 
 Reply to Objection 4: A religious who is made a bishop is no more absolved from his vow of poverty than from his vow of continency, since he must have nothing of his own and must hold himself as being the dispenser of the common goods of the Church. In like manner neither is he dispensed from his vow of obedience; it is an accident that he is not bound to obey if he have no superior; just as the abbot of a monastery, who nevertheless is not dispensed from his vow of obedience.
-# Whether The Authority Of A Prelate Is Required For Commutation Or The Dispensation Of A Vow?
+## Whether The Authority Of A Prelate Is Required For Commutation Or The Dispensation Of A Vow?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the authority of a prelate is not required for the commutation or dispensation of a vow. A person may enter religion without the authority of a superior prelate. Now by entering religion one is absolved from the vows he made in the world, even from the vow of making a pilgrimage to the Holy Land [*Cap. Scripturae, de Voto et Voti redempt.]. Therefore the commutation or dispensation of a vow is possible without the authority of a superior prelate.
 
@@ -304,13 +304,13 @@ Objection 2: Further, to dispense anyone from a vow seems to consist in deciding
 
 Objection 3: Further, if it belongs to a prelate's power to grant dispensations from vows, on the same count it is competent to all prelates, but it does not belong to all to dispense from every vow. Therefore it does not belong to the power of a prelate to dispense from vows.
 
-## Answer
+### Answer
 
 On the contrary, A vow binds one to do something, even as a law does. Now the superior's authority is requisite for a dispensation from a precept of the law, as stated above ([3071]FS, Q[96], A[6]; [3072]FS, Q[97], A[4]). Therefore it is likewise required in a dispensation from a vow.
 
 I answer that, As stated above ([3073]AA[1],2), a vow is a promise made to God about something acceptable to Him. Now if you promise something to anyone it depends on his decision whether he accept what you promise. Again in the Church a prelate stands in God's place. Therefore a commutation or dispensation of vows requires the authority of a prelate who in God's stead declares what is acceptable to God, according to 2 Cor. 2:10: "For . . . have pardoned . . . for your sakes . . . in the person of Christ." And he says significantly "for your sakes," since whenever we ask a prelate for a dispensation we should do so to honor Christ in Whose person he dispenses, or to promote the interests of the Church which is His Body.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All other vows are about some particular works, whereas by the religious life a man consecrates his whole life to God's service. Now the particular is included in the universal, wherefore a Decretal [*Cap. Scripturae, de Voto et Voti redempt.] says that "a man is not deemed a vow-breaker if he exchange a temporal service for the perpetual service of religion." And yet a man who enters religion is not bound to fulfil the vows, whether of fasting or of praying or the like, which he made when in the world, because by entering religion he dies to his former life, and it is unsuitable to the religious life that each one should have his own observances, and because the burden of religion is onerous enough without requiring the addition of other burdens.
 

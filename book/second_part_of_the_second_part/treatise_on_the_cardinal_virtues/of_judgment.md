@@ -7,9 +7,9 @@ In due sequence we must consider judgment, under which head there are six points
 (4) Whether doubts should be interpreted favorably?
 (5) Whether judgment should always be given according to the written law?
 (6) Whether judgment is perverted by being usurped?
-# Whether Judgment Is An Act Of Justice?
+## Whether Judgment Is An Act Of Justice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that judgment is not an act of justice. The Philosopher says (Ethic. i, 3) that "everyone judges well of what he knows," so that judgment would seem to belong to the cognitive faculty. Now the cognitive faculty is perfected by prudence. Therefore judgment belongs to prudence rather than to justice, which is in the will, as stated above ([2872]Q[58], A[4]).
 
@@ -19,13 +19,13 @@ Objection 3: Further, it belongs to every virtue to judge aright of its proper m
 
 Objection 4: Further, judgment would seem to belong only to judges. But the act of justice is to be found in every just man. Since then judges are not the only just men, it seems that judgment is not the proper act of justice.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 93:15): "Until justice be turned into judgment."
 
 I answer that, Judgment properly denotes the act of a judge as such. Now a judge [judex] is so called because he asserts the right [jus dicens] and right is the object of justice, as stated above ([2873]Q[57], A[1]). Consequently the original meaning of the word "judgment" is a statement or decision of the just or right. Now to decide rightly about virtuous deeds proceeds, properly speaking, from the virtuous habit; thus a chaste person decides rightly about matters relating to chastity. Therefore judgment, which denotes a right decision about what is just, belongs properly to justice. For this reason the Philosopher says (Ethic. v, 4) that "men have recourse to a judge as to one who is the personification of justice."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The word "judgment," from its original meaning of a right decision about what is just, has been extended to signify a right decision in any matter whether speculative or practical. Now a right judgment in any matter requires two things. The first is the virtue itself that pronounces judgment: and in this way, judgment is an act of reason, because it belongs to the reason to pronounce or define. The other is the disposition of the one who judges, on which depends his aptness for judging aright. In this way, in matters of justice, judgment proceeds from justice, even as in matters of fortitude, it proceeds from fortitude. Accordingly judgment is an act of justice in so far as justice inclines one to judge aright, and of prudence in so far as prudence pronounces judgment: wherefore {synesis} (judging well according to common law) which belongs to prudence is said to "judge rightly," as stated above ([2874]Q[51], A[3]).
 
@@ -34,9 +34,9 @@ Reply to Objection 2: The spiritual man, by reason of the habit of charity, has 
 Reply to Objection 3: The other virtues regulate man in himself, whereas justice regulates man in his dealings with others, as shown above ([2875]Q[58], A[2]). Now man is master in things concerning himself, but not in matters relating to others. Consequently where the other virtues are in question, there is no need for judgment other than that of a virtuous man, taking judgment in its broader sense, as explained above (ad 1). But in matters of justice, there is further need for the judgment of a superior, who is "able to reprove both, and to put his hand between both" [*Job 9:33]. Hence judgment belongs more specifically to justice than to any other virtue.
 
 Reply to Objection 4: Justice is in the sovereign as a master-virtue [*Cf.[2876] Q[58], A[6]], commanding and prescribing what is just; while it is in the subjects as an executive and administrative virtue. Hence judgment, which denotes a decision of what is just, belongs to justice, considered as existing chiefly in one who has authority.
-# Whether It Is Lawful To Judge?
+## Whether It Is Lawful To Judge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unlawful to judge. For nothing is punished except what is unlawful. Now those who judge are threatened with punishment, which those who judge not will escape, according to Mat. 7:1, "Judge not, and ye shall not be judged." Therefore it is unlawful to judge.
 
@@ -44,22 +44,22 @@ Objection 2: Further, it is written (Rom. 14:4): "Who art thou that judgest anot
 
 Objection 3: Further, no man is sinless, according to 1 Jn. 1:8, "If we say that we have no sin, we deceive ourselves." Now it is unlawful for a sinner to judge, according to Rom. 2:1, "Thou art inexcusable, O man, whosoever thou art, that judgest; for wherein thou judgest another, thou condemnest thyself, for thou dost the same things which thou judgest." Therefore to no man is it lawful to judge.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 16:18): "Thou shalt appoint judges and magistrates in all thy gates . . . that they may judge the people with just judgment."
 
 I answer that, Judgment is lawful in so far as it is an act of justice. Now it follows from what has been stated above (A[1], ad 1,3) that three conditions are requisite for a judgment to be an act of justice: first, that it proceed from the inclination of justice; secondly, that it come from one who is in authority; thirdly, that it be pronounced according to the right ruling of prudence. If any one of these be lacking, the judgment will be faulty and unlawful. First, when it is contrary to the rectitude of justice, and then it is called "perverted" or "unjust": secondly, when a man judges about matters wherein he has no authority, and this is called judgment "by usurpation": thirdly, when the reason lacks certainty, as when a man, without any solid motive, forms a judgment on some doubtful or hidden matter, and then it is called judgment by "suspicion" or "rash" judgment.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In these words our Lord forbids rash judgment which is about the inward intention, or other uncertain things, as Augustine states (De Serm. Dom. in Monte ii, 18). Or else He forbids judgment about Divine things, which we ought not to judge, but simply believe, since they are above us, as Hilary declares in his commentary on Mat. 5. Or again according to Chrysostom [*Hom. xvii in Matth. in the Opus Imperfectum falsely ascribed to St. John of the Cross], He forbids the judgment which proceeds not from benevolence but from bitterness of heart.
 
 Reply to Objection 2: A judge is appointed as God's servant; wherefore it is written (Dt. 1:16): "Judge that which is just," and further on (Dt. 1:17), "because it is the judgment of God."
 
 Reply to Objection 3: Those who stand guilty of grievous sins should not judge those who are guilty of the same or lesser sins, as Chrysostom [*Hom. xxiv] says on the words of Mat. 7:1, "Judge not." Above all does this hold when such sins are public, because there would be an occasion of scandal arising in the hearts of others. If however they are not public but hidden, and there be an urgent necessity for the judge to pronounce judgment, because it is his duty, he can reprove or judge with humility and fear. Hence Augustine says (De Serm. Dom. in Monte ii, 19): "If we find that we are guilty of the same sin as another man, we should groan together with him, and invite him to strive against it together with us." And yet it is not through acting thus that a man condemns himself so as to deserve to be condemned once again, but when, in condemning another, he shows himself to be equally deserving of condemnation on account of another or a like sin.
-# Whether It Is Unlawful To Form A Judgment From Suspicions?
+## Whether It Is Unlawful To Form A Judgment From Suspicions?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not unlawful to form a judgment from suspicions. For suspicion is seemingly an uncertain opinion about an evil, wherefore the Philosopher states (Ethic. vi, 3) that suspicion is about both the true and the false. Now it is impossible to have any but an uncertain opinion about contingent singulars. Since then human judgment is about human acts, which are about singular and contingent matters, it seems that no judgment would be lawful, if it were not lawful to judge from suspicions.
 
@@ -67,7 +67,7 @@ Objection 2: Further, a man does his neighbor an injury by judging him unlawfull
 
 Objection 3: Further, if it is unlawful, it must needs be reducible to an injustice, since judgment is an act of justice, as stated above [2877](A[1]). Now an injustice is always a mortal sin according to its genus, as stated above (Q[59], A[4]). Therefore a judgment based on suspicion would always be a mortal sin, if it were unlawful. But this is false, because "we cannot avoid suspicions," according to a gloss of Augustine (Tract. xc in Joan.) on 1 Cor. 4:5, "Judge not before the time." Therefore a judgment based on suspicion would seem not to be unlawful.
 
-## Answer
+### Answer
 
 On the contrary, Chrysostom [*Hom. xvii in Matth. in the Opus Imperfectum falsely ascribed to St. John of the Cross] in comment on the words of Mat. 7:1, "Judge not," etc., says: "By this commandment our Lord does not forbid Christians to reprove others from kindly motives, but that Christian should despise Christian by boasting his own righteousness, by hating and condemning others for the most part on mere suspicion."
 
@@ -75,16 +75,16 @@ I answer that, As Tully says (De Invent. Rhet. ii), suspicion denotes evil think
 
 Now there are three degrees of suspicion. The first degree is when a man begins to doubt of another's goodness from slight indications. This is a venial and a light sin; for "it belongs to human temptation without which no man can go through this life," according to a gloss on 1 Cor. 4:5, "Judge not before the time." The second degree is when a man, from slight indications, esteems another man's wickedness as certain. This is a mortal sin, if it be about a grave matter, since it cannot be without contempt of one's neighbor. Hence the same gloss goes on to say: "If then we cannot avoid suspicions, because we are human, we must nevertheless restrain our judgment, and refrain from forming a definite and fixed opinion." The third degree is when a judge goes so far as to condemn a man on suspicion: this pertains directly to injustice, and consequently is a mortal sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Some kind of certainty is found in human acts, not indeed the certainty of a demonstration, but such as is befitting the matter in point, for instance when a thing is proved by suitable witnesses.
 
 Reply to Objection 2: From the very fact that a man thinks evil of another without sufficient cause, he despises him unduly, and therefore does him an injury.
 
 Reply to Objection 3: Since justice and injustice are about external operations, as stated above ([2878]Q[58], AA[8],10,11;[2879] Q[59], A[1], ad 3), the judgment of suspicion pertains directly to injustice when it is betrayed by external action, and then it is a mortal sin, as stated above. The internal judgment pertains to justice, in so far as it is related to the external judgment, even as the internal to the external act, for instance as desire is related to fornication, or anger to murder.
-# Whether Doubts Should Be Interpreted For The Best?
+## Whether Doubts Should Be Interpreted For The Best?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that doubts should not be interpreted for the best. Because we should judge from what happens for the most part. But it happens for the most part that evil is done, since "the number of fools is infinite" (Eccles. 1:15), "for the imagination and thought of man's heart are prone to evil from his youth" (Gn. 8:21). Therefore doubts should be interpreted for the worst rather than for the best.
 
@@ -92,22 +92,22 @@ Objection 2: Further, Augustine says (De Doctr. Christ. i, 27) that "he leads a 
 
 Objection 3: Further, man should love his neighbor as himself. Now with regard to himself, a man should interpret doubtful matters for the worst, according to Job 9:28, "I feared all my works." Therefore it seems that doubtful matters affecting one's neighbor should be interpreted for the worst.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on Rom. 14:3, "He that eateth not, let him not judge him that eateth," says: "Doubts should be interpreted in the best sense."
 
 I answer that, As stated above (A[3], ad 2), things from the very fact that a man thinks ill of another without sufficient cause, he injures and despises him. Now no man ought to despise or in any way injure another man without urgent cause: and, consequently, unless we have evident indications of a person's wickedness, we ought to deem him good, by interpreting for the best whatever is doubtful about him.
 
-## Replies
+### Replies
 
 Reply to Objection 1: He who interprets doubtful matters for the best, may happen to be deceived more often than not; yet it is better to err frequently through thinking well of a wicked man, than to err less frequently through having an evil opinion of a good man, because in the latter case an injury is inflicted, but not in the former.
 
 Reply to Objection 2: It is one thing to judge of things and another to judge of men. For when we judge of things, there is no question of the good or evil of the thing about which we are judging, since it will take no harm no matter what kind of judgment we form about it; but there is question of the good of the person who judges, if he judge truly, and of his evil if he judge falsely because "the true is the good of the intellect, and the false is its evil," as stated in Ethic. vi, 2, wherefore everyone should strive to make his judgment accord with things as they are. On the other hand when we judge of men, the good and evil in our judgment is considered chiefly on the part of the person about whom judgment is being formed; for he is deemed worthy of honor from the very fact that he is judged to be good, and deserving of contempt if he is judged to be evil. For this reason we ought, in this kind of judgment, to aim at judging a man good, unless there is evident proof of the contrary. And though we may judge falsely, our judgment in thinking well of another pertains to our good feeling and not to the evil of the intellect, even as neither does it pertain to the intellect's perfection to know the truth of contingent singulars in themselves.
 
 Reply to Objection 3: One may interpret something for the worst or for the best in two ways. First, by a kind of supposition; and thus, when we have to apply a remedy to some evil, whether our own or another's, in order for the remedy to be applied with greater certainty of a cure, it is expedient to take the worst for granted, since if a remedy be efficacious against a worse evil, much more is it efficacious against a lesser evil. Secondly we may interpret something for the best or for the worst, by deciding or determining, and in this case when judging of things we should try to interpret each thing according as it is, and when judging of persons, to interpret things for the best as stated above.
-# Whether We Should Always Judge According To The Written Law?
+## Whether We Should Always Judge According To The Written Law?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that we ought not always to judge according to the written law. For we ought always to avoid judging unjustly. But written laws sometimes contain injustice, according to Is. 10:1, "Woe to them that make wicked laws, and when they write, write injustice." Therefore we ought not always to judge according to the written law.
 
@@ -115,7 +115,7 @@ Objection 2: Further, judgment has to be formed about individual happenings. But
 
 Objection 3: Further, a law is written in order that the lawgiver's intention may be made clear. But it happens sometimes that even if the lawgiver himself were present he would judge otherwise. Therefore we ought not always to judge according to the written law.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Vera Relig. xxxi): "In these earthly laws, though men judge about them when they are making them, when once they are established and passed, the judges may judge no longer of them, but according to them."
 
@@ -123,14 +123,14 @@ I answer that, As stated above [2880](A[1]), judgment is nothing else but a deci
 
 Hence it is necessary to judge according to the written law, else judgment would fall short either of the natural or of the positive right.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as the written law does not give force to the natural right, so neither can it diminish or annul its force, because neither can man's will change nature. Hence if the written law contains anything contrary to the natural right, it is unjust and has no binding force. For positive right has no place except where "it matters not," according to the natural right, "whether a thing be done in one way or in another"; as stated above (Q[57], A[2], ad 2). Wherefore such documents are to be called, not laws, but rather corruptions of law, as stated above ([2881]FS, Q[95], A[2]): and consequently judgment should not be delivered according to them.
 
 Reply to Objection 2: Even as unjust laws by their very nature are, either always or for the most part, contrary to the natural right, so too laws that are rightly established, fail in some cases, when if they were observed they would be contrary to the natural right. Wherefore in such cases judgment should be delivered, not according to the letter of the law, but according to equity which the lawgiver has in view. Hence the jurist says [*Digest. i, 3; De leg. senatusque consult. 25]: "By no reason of law, or favor of equity, is it allowable for us to interpret harshly, and render burdensome, those useful measures which have been enacted for the welfare of man." In such cases even the lawgiver himself would decide otherwise; and if he had foreseen the case, he might have provided for it by law.
-# Whether Judgment Is Rendered Perverse By Being Usurped?
+## Whether Judgment Is Rendered Perverse By Being Usurped?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that judgment is not rendered perverse by being usurped. For justice is rectitude in matters of action. Now truth is not impaired, no matter who tells it, but it may suffer from the person who ought to accept it. Therefore again justice loses nothing, no matter who declares what is just, and this is what is meant by judgment.
 
@@ -140,13 +140,13 @@ Objection 3: Further, spiritual power is distinct from temporal. Now prelates ha
 
 Objection 4: Further, even as the judge requires authority in order to judge aright, so also does he need justice and knowledge, as shown above (A[1], ad 1,3; A[2]). But a judgment is not described as unjust, if he who judges lacks the habit of justice or the knowledge of the law. Neither therefore is it always unjust to judge by usurpation, i.e. without authority.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Rom. 14:4): "Who art thou that judgest another man's servant?"
 
 I answer that, Since judgment should be pronounced according to the written law, as stated above [2882](A[5]), he that pronounces judgment, interprets, in a way, the letter of the law, by applying it to some particular case. Now since it belongs to the same authority to interpret and to make a law, just as a law cannot be made save by public authority, so neither can a judgment be pronounced except by public authority, which extends over those who are subject to the community. Wherefore even as it would be unjust for one man to force another to observe a law that was not approved by public authority, so too it is unjust, if a man compels another to submit to a judgment that is pronounced by other than the public authority.
 
-## Replies
+### Replies
 
 Reply to Objection 1: When the truth is declared there is no obligation to accept it, and each one is free to receive it or not, as he wishes. On the other hand judgment implies an obligation, wherefore it is unjust for anyone to be judged by one who has no public authority.
 

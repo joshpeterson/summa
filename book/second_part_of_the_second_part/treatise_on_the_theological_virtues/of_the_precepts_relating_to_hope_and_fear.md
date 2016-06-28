@@ -3,9 +3,9 @@
 We must now consider the precepts relating to hope and fear: under which head there are two points of inquiry:
 (1) The precepts relating to hope;
 (2) The precepts relating to fear.
-# Whether There Should Be A Precept Of Hope?
+## Whether There Should Be A Precept Of Hope?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no precept should be given relating to the virtue of hope. For when an effect is sufficiently procured by one cause, there is no need to induce it by another. Now man is sufficiently induced by his natural inclination to hope for good. Therefore there is no need of a precept of the Law to induce him to do this.
 
@@ -13,7 +13,7 @@ Objection 2: Further, since precepts are given about acts of virtue, the chief p
 
 Objection 3: Further, to prescribe an act of virtue is equivalent to a prohibition of the act of the opposite vice. Now no precept is to be found forbidding despair which is contrary to hope. Therefore it seems that the Law should contain no precept of hope.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says on Jn. 15:12, "This is My commandment, that you love one another" (Tract. lxxxiii in Joan.): "How many things are commanded us about faith! How many relating to hope!" Therefore it is fitting that some precepts should be given about hope.
 
@@ -23,16 +23,16 @@ Yet the precepts of hope and faith were not to be given under the form of a comm
 
 Since, however, when once the Law has been given, it is for a wise man to induce men not only to observe the precepts, but also, and much more, to safeguard the foundation of the Law, therefore, after the first promulgation of the Law, Holy Writ holds out to man many inducements to hope, even by way of warning or command, and not merely by way of promise, as in the Law; for instance, in the Ps. 61:9: "Hope [Douay: 'Trust'] in Him all ye congregation of the people," and in many other passages of the Scriptures.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Nature inclines us to hope for the good which is proportionate to human nature; but for man to hope for a supernatural good he had to be induced by the authority of the Divine law, partly by promises, partly by admonitions and commands. Nevertheless there was need for precepts of the Divine law to be given even for those things to which natural reason inclines us, such as the acts of the moral virtues, for sake of insuring a greater stability, especially since the natural reason of man was clouded by the lusts of sin.
 
 Reply to Objection 2: The precepts of the law of the decalogue belong to the first promulgation of the Law: hence there was no need for a precept of hope among the precepts of the decalogue, and it was enough to induce men to hope by the inclusion of certain promises, as in the case of the first and fourth commandments.
 
 Reply to Objection 3: In those observances to which man is bound as under a duty, it is enough that he receive an affirmative precept as to what he has to do, wherein is implied the prohibition of what he must avoid doing: thus he is given a precept concerning the honor due to parents, but not a prohibition against dishonoring them, except by the law inflicting punishment on those who dishonor their parents. And since in order to be saved it is man's duty to hope in God, he had to be induced to do so by one of the above ways, affirmatively, so to speak, wherein is implied the prohibition of the opposite.
-# Whether There Should Have Been Given A Precept Of Fear?
+## Whether There Should Have Been Given A Precept Of Fear?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that, in the Law, there should not have been given a precept of fear. For the fear of God is about things which are a preamble to the Law, since it is the "beginning of wisdom." Now things which are a preamble to the Law do not come under a precept of the Law. Therefore no precept of fear should be given in the Law.
 
@@ -40,7 +40,7 @@ Objection 2: Further, given the cause, the effect is also given. Now love is the
 
 Objection 3: Further, presumption, in a way, is opposed to fear. But the Law contains no prohibition against presumption. Therefore it seems that neither should any precept of fear have been given.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 10:12): "And now, Israel, what doth the Lord thy God require of thee, but that thou fear the Lord thy God?" But He requires of us that which He commands us to do. Therefore it is a matter of precept that man should fear God.
 
@@ -52,7 +52,7 @@ Yet, just as wise men and the prophets who, consequently, strove to strengthen m
 
 On the other hand filial fear which shows reverence to God, is a sort of genus in respect of the love of God, and a kind of principle of all observances connected with reverence for God. Hence precepts of filial fear are given in the Law, even as precepts of love, because each is a preamble to the external acts prescribed by the Law and to which the precepts of the decalogue refer. Hence in the passage quoted in the argument, "On the contrary," man is required "to have fear, to walk in God's ways," by worshipping Him, and "to love Him."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Filial fear is a preamble to the Law, not as though it were extrinsic thereto, but as being the beginning of the Law, just as love is. Hence precepts are given of both, since they are like general principles of the whole Law.
 

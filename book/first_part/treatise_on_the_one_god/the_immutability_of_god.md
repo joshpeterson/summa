@@ -3,9 +3,9 @@
 We next consider God's immutability, and His eternity following on His immutability. On the immutability of God there are two points of inquiry:
 (1) Whether God is altogether immutable?
 (2) Whether to be immutable belongs to God alone?
-# Whether God Is Altogether Immutable?
+## Whether God Is Altogether Immutable?
 
-## Objections
+### Objections
 
 Objection 1: It seems that God is not altogether immutable. For whatever moves itself is in some way mutable. But, as Augustine says (Gen. ad lit viii, 20), "The Creator Spirit moves Himself neither by time, nor by place." Therefore God is in some way mutable.
 
@@ -13,22 +13,22 @@ Objection 2: Further, it is said of Wisdom, that "it is more mobile than all thi
 
 Objection 3: Further, to approach and to recede signify movement. But these are said of God in Scripture, "Draw nigh to God and He will draw nigh to you" (James 4:8). Therefore God is mutable.
 
-## Answer
+### Answer
 
 On the contrary, It is written, "I am the Lord, and I change not" (Malachi 3:6).
 
 I answer that, From what precedes, it is shown that God is altogether immutable. First, because it was shown above that there is some first being, whom we call God; and that this first being must be pure act, without the admixture of any potentiality, for the reason that, absolutely, potentiality is posterior to act. Now everything which is in any way changed, is in some way in potentiality. Hence it is evident that it is impossible for God to be in any way changeable. Secondly, because everything which is moved, remains as it was in part, and passes away in part; as what is moved from whiteness to blackness, remains the same as to substance; thus in everything which is moved, there is some kind of composition to be found. But it has been shown above ([42]Q[3], A[7]) that in God there is no composition, for He is altogether simple. Hence it is manifest that God cannot be moved. Thirdly, because everything which is moved acquires something by its movement, and attains to what it had not attained previously. But since God is infinite, comprehending in Himself all the plenitude of perfection of all being, He cannot acquire anything new, nor extend Himself to anything whereto He was not extended previously. Hence movement in no way belongs to Him. So, some of the ancients, constrained, as it were, by the truth, decided that the first principle was immovable.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine there speaks in a similar way to Plato, who said that the first mover moves Himself; calling every operation a movement, even as the acts of understanding, and willing, and loving, are called movements. Therefore because God understands and loves Himself, in that respect they said that God moves Himself, not, however, as movement and change belong to a thing existing in potentiality, as we now speak of change and movement.
 
 Reply to Objection 2: Wisdom is called mobile by way of similitude, according as it diffuses its likeness even to the outermost of things; for nothing can exist which does not proceed from the divine wisdom by way of some kind of imitation, as from the first effective and formal principle; as also works of art proceed from the wisdom of the artist. And so in the same way, inasmuch as the similitude of the divine wisdom proceeds in degrees from the highest things, which participate more fully of its likeness, to the lowest things which participate of it in a lesser degree, there is said to be a kind of procession and movement of the divine wisdom to things; as when we say that the sun proceeds to the earth, inasmuch as the ray of light touches the earth. In this way Dionysius (Coel. Hier. i) expounds the matter, that every procession of the divine manifestation comes to us from the movement of the Father of light.
 
 Reply to Objection 3: These things are said of God in Scripture metaphorically. For as the sun is said to enter a house, or to go out, according as its rays reach the house, so God is said to approach to us, or to recede from us, when we receive the influx of His goodness, or decline from Him.
-# Whether To Be Immutable Belongs To God Alone?
+## Whether To Be Immutable Belongs To God Alone?
 
-## Objections
+### Objections
 
 Objection 1: It seems that to be immutable does not belong to God alone. For the Philosopher says (Metaph. ii) that "matter is in everything which is moved." But, according to some, certain created substances, as angels and souls, have not matter. Therefore to be immutable does not belong to God alone.
 
@@ -36,7 +36,7 @@ Objection 2: Further, everything in motion moves to some end. What therefore has
 
 Objection 3: Further, everything which is mutable is variable. But forms are invariable; for it is said (Sex Princip. i) that "form is essence consisting of the simple and invariable." Therefore it does not belong to God alone to be immutable.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Nat. Boni. i), "God alone is immutable; and whatever things He has made, being from nothing, are mutable."
 
@@ -46,7 +46,7 @@ If, however, a thing is called mutable by a power in itself, thus also in some m
 
 Thus in every creature there is a potentiality to change either as regards substantial being as in the case of things corruptible; or as regards locality only, as in the case of the celestial bodies; or as regards the order to their end, and the application of their powers to divers objects, as in the case with the angels; and universally all creatures generally are mutable by the power of the Creator, in Whose power is their existence and non-existence. Hence since God is in none of these ways mutable, it belongs to Him alone to be altogether immutable.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection proceeds from mutability as regards substantial or accidental being; for philosophers treated of such movement.
 

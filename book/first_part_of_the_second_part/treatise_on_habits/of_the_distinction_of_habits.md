@@ -5,9 +5,9 @@ We have now to consider the distinction of habits; and under this head there are
 (2) Whether habits are distinguished by their objects?
 (3) Whether habits are divided into good and bad?
 (4) Whether one habit may be made up of many habits?
-# Whether Many Habits Can Be In One Power?
+## Whether Many Habits Can Be In One Power?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there cannot be many habits in one power. For when several things are distinguished in respect of the same thing, if one of them be multiplied, the others are too. Now habits and powers are distinguished in respect of the same thing, viz. their acts and objects. Therefore they are multiplied in like manner. Therefore there cannot be many habits in one power.
 
@@ -15,7 +15,7 @@ Objection 2: Further, a power is a simple force. Now in one simple subject there
 
 Objection 3: Further, just as the body is informed by its shape, so is a power informed by a habit. But one body cannot be informed at the same time by various shapes. Therefore neither can a power be informed at the same time by many habits. Therefore several habits cannot be at the same time in one power.
 
-## Answer
+### Answer
 
 On the contrary, The intellect is one power; wherein, nevertheless, are the habits of various sciences.
 
@@ -23,16 +23,16 @@ I answer that, As stated above ([1485]Q[49], A[4]), habits are dispositions of a
 
 If, however, we speak of those habits that are dispositions to operation, and belong properly to the powers; thus, again, there may be several habits in one power. The reason for this is that the subject of a habit is a passive power, as stated above ([1486]Q[51], A[2]): for it is only an active power that cannot be the subject of a habit, as was clearly shown above ([1487]Q[51], A[2]). Now a passive power is compared to the determinate act of any species, as matter to form: because, just as matter is determinate to one form by one agent, so, too, is a passive power determined by the nature of one active object to an act specifically one. Wherefore, just as several objects can move one passive power, so can one passive power be the subject of several acts or perfections specifically diverse. Now habits are qualities or forms adhering to a power, and inclining that power to acts of a determinate species. Consequently several habits, even as several specifically different acts, can belong to one power.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Even as in natural things, diversity of species is according to the form, and diversity of genus, according to matter, as stated in Metaph. v, text. 33 (since things that differ in matter belong to different genera): so, too, generic diversity of objects entails a difference of powers (wherefore the Philosopher says in Ethic. vi, 1, that "those objects that differ generically belong to different departments of the soul"); while specific difference of objects entails a specific difference of acts, and consequently of habits also. Now things that differ in genus differ in species, but not vice versa. Wherefore the acts and habits of different powers differ in species: but it does not follow that different habits are in different powers, for several can be in one power. And even as several genera may be included in one genus, and several species be contained in one species; so does it happen that there are several species of habits and powers.
 
 Reply to Objection 2: Although a power is simple as to its essence, it is multiple virtually, inasmuch as it extends to many specifically different acts. Consequently there is nothing to prevent many superficially different habits from being in one power.
 
 Reply to Objection 3: A body is informed by its shape as by its own terminal boundaries: whereas a habit is not the terminal boundary of a power, but the disposition of a power to an act as to its ultimate term. Consequently one same power cannot have several acts at the same time, except in so far as perchance one act is comprised in another; just as neither can a body have several shapes, save in so far as one shape enters into another, as a three-sided in a four-sided figure. For the intellect cannot understand several things at the same time "actually"; and yet it can know several things at the same time "habitually."
-# Whether Habits Are Distinguished By Their Objects?
+## Whether Habits Are Distinguished By Their Objects?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that habits are not distinguished by their objects. For contraries differ in species. Now the same habit of science regards contraries: thus medicine regards the healthy and the unhealthy. Therefore habits are not distinguished by objects specifically distinct.
 
@@ -40,7 +40,7 @@ Objection 2: Further, different sciences are different habits. But the same scie
 
 Objection 3: Further, wherever the act is the same, the object is the same. But the same act can belong to different habits of virtue, if it be directed to different ends; thus to give money to anyone, if it be done for God's sake, is an act of charity; while, if it be done in order to pay a debt, it is an act of justice. Therefore the same object can also belong to different habits. Therefore diversity of habits does not follow diversity of objects.
 
-## Answer
+### Answer
 
 On the contrary, Acts differ in species according to the diversity of their objects, as stated above ([1488]Q[18], A[5]). But habits are dispositions to acts. Therefore habits also are distinguished according to the diversity of objects.
 
@@ -48,16 +48,16 @@ I answer that, A habit is both a form and a habit. Hence the specific distinctio
 
 Accordingly habits are specifically distinct in respect of three things. First, in respect of the active principles of such dispositions; secondly, in respect of nature; thirdly, in respect of specifically different objects, as will appear from what follows.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In distinguishing powers, or also habits, we must consider the object not in its material but in its formal aspect, which may differ in species or even in genus. And though the distinction between specific contraries is a real distinction yet they are both known under one aspect, since one is known through the other. And consequently in so far as they concur in the one aspect of cognoscibility, they belong to one cognitive habit.
 
 Reply to Objection 2: The physicist proves the earth to be round by one means, the astronomer by another: for the latter proves this by means of mathematics, e.g. by the shapes of eclipses, or something of the sort; while the former proves it by means of physics, e.g. by the movement of heavy bodies towards the center, and so forth. Now the whole force of a demonstration, which is "a syllogism producing science," as stated in Poster. i, text. 5, depends on the mean. And consequently various means are as so many active principles, in respect of which the habits of science are distinguished.
 
 Reply to Objection 3: As the Philosopher says (Phys. ii, text. 89; Ethic. vii, 8), the end is, in practical matters, what the principle is in speculative matters. Consequently diversity of ends demands a diversity of virtues, even as diversity of active principles does. Moreover the ends are objects of the internal acts, with which, above all, the virtues are concerned, as is evident from what has been said ([1489]Q[18], A[6];[1490] Q[19], A[2], ad 1;[1491] Q[34], A[4]).
-# Whether Habits Are Divided Into Good And Bad?
+## Whether Habits Are Divided Into Good And Bad?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that habits are not divided into good and bad. For good and bad are contraries. Now the same habit regards contraries, as was stated above (A[2], OBJ[1]). Therefore habits are not divided into good and bad.
 
@@ -65,7 +65,7 @@ Objection 2: Further, good is convertible with being; so that, since it is commo
 
 Objection 3: Further, there can be different evil habits about one same object; for instance, intemperance and insensibility about matters of concupiscence: and in like manner there can be several good habits; for instance, human virtue and heroic or godlike virtue, as the Philosopher clearly states (Ethic. vii, 1). Therefore, habits are not divided into good and bad.
 
-## Answer
+### Answer
 
 On the contrary, A good habit is contrary to a bad habit, as virtue to vice. Now contraries are divided specifically into good and bad habits.
 
@@ -73,16 +73,16 @@ I answer that, As stated above [1492](A[2]), habits are specifically distinct no
 
 Secondly, habits are distinguished in relation to nature, from the fact that one habit disposes to an act that is suitable to a lower nature, while another habit disposes to an act befitting a higher nature. And thus human virtue, which disposes to an act befitting human nature, is distinct from godlike or heroic virtue, which disposes to an act befitting some higher nature.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The same habit may be about contraries in so far as contraries agree in one common aspect. Never, however, does it happen that contrary habits are in one species: since contrariety of habits follows contrariety of aspect. Accordingly habits are divided into good and bad, namely, inasmuch as one habit is good, and another bad; but not by reason of one habit being something good, and another about something bad.
 
 Reply to Objection 2: It is not the good which is common to every being, that is a difference constituting the species of a habit; but some determinate good by reason of suitability to some determinate, viz. the human, nature. In like manner the evil that constitutes a difference of habits is not a pure privation, but something determinate repugnant to a determinate nature.
 
 Reply to Objection 3: Several good habits about one same specific thing are distinct in reference to their suitability to various natures, as stated above. But several bad habits in respect of one action are distinct in reference to their diverse repugnance to that which is in keeping with nature: thus, various vices about one same matter are contrary to one virtue.
-# Whether One Habit Is Made Up Of Many Habits?
+## Whether One Habit Is Made Up Of Many Habits?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that one habit is made up of many habits. For whatever is engendered, not at once, but little by little, seems to be made up of several parts. But a habit is engendered, not at once, but little by little out of several acts, as stated above ([1493]Q[51], A[3]). Therefore one habit is made up of several.
 
@@ -90,7 +90,7 @@ Objection 2: Further, a whole is made up of its parts. Now many parts are assign
 
 Objection 3: Further, one conclusion suffices both for an act and for a habit of scientific knowledge. But many conclusions belong to but one science, to geometry, for instance, or to arithmetic. Therefore one habit is made up of many.
 
-## Answer
+### Answer
 
 On the contrary, A habit, since it is a quality, is a simple form. But nothing simple is made up of many. Therefore one habit is not made up of many.
 
@@ -98,7 +98,7 @@ I answer that, A habit directed to operation, such as we are chiefly concerned w
 
 If then we consider a habit as to the extent of its object, we shall find a certain multiplicity therein. But since this multiplicity is directed to one thing, on which the habit is chiefly intent, hence it is that a habit is a simple quality, not composed to several habits, even though it extend to many things. For a habit does not extend to many things save in relation to one, whence it derives its unity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: That a habit is engendered little by little, is due, not to one part being engendered after another, but to the fact that the subject does not acquire all at once a firm and difficultly changeable disposition; and also to the fact that it begins by being imperfectly in the subject, and is gradually perfected. The same applies to other qualities.
 

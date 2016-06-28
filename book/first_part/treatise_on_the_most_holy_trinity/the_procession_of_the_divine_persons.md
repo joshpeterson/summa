@@ -6,9 +6,9 @@ Having considered what belongs to the unity of the divine essence, it remains to
 (3) Whether there can be any other procession in God besides generation.
 (4) Whether that other procession can be called generation?
 (5) Whether there are more than two processions in God?
-# Whether There Is Procession In God?
+## Whether There Is Procession In God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there cannot be any procession in God. For procession signifies outward movement. But in God there is nothing mobile, nor anything extraneous. Therefore neither is there procession in God.
 
@@ -16,7 +16,7 @@ Objection 2: Further, everything which proceeds differs from that whence it proc
 
 Objection 3: Further, to proceed from another seems to be against the nature of the first principle. But God is the first principle, as shown above ([224]Q[2], A[3]). Therefore in God there is no procession.
 
-## Answer
+### Answer
 
 On the contrary, Our Lord says, "From God I proceeded" (Jn. 8:42).
 
@@ -24,16 +24,16 @@ I answer that, Divine Scripture uses, in relation to God, names which signify pr
 
 As God is above all things, we should understand what is said of God, not according to the mode of the lowest creatures, namely bodies, but from the similitude of the highest creatures, the intellectual substances; while even the similitudes derived from these fall short in the representation of divine objects. Procession, therefore, is not to be understood from what it is in bodies, either according to local movement or by way of a cause proceeding forth to its exterior effect, as, for instance, like heat from the agent to the thing made hot. Rather it is to be understood by way of an intelligible emanation, for example, of the intelligible word which proceeds from the speaker, yet remains in him. In that sense the Catholic Faith understands procession as existing in God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection comes from the idea of procession in the sense of local motion, or of an action tending to external matter, or to an exterior effect; which kind of procession does not exist in God, as we have explained.
 
 Reply to Objection 2: Whatever proceeds by way of outward procession is necessarily distinct from the source whence it proceeds, whereas, whatever proceeds within by an intelligible procession is not necessarily distinct; indeed, the more perfectly it proceeds, the more closely it is one with the source whence it proceeds. For it is clear that the more a thing is understood, the more closely is the intellectual conception joined and united to the intelligent agent; since the intellect by the very act of understanding is made one with the object understood. Thus, as the divine intelligence is the very supreme perfection of God ([225]Q[14], A[2]), the divine Word is of necessity perfectly one with the source whence He proceeds, without any kind of diversity.
 
 Reply to Objection 3: To proceed from a principle, so as to be something outside and distinct from that principle, is irreconcilable with the idea of a first principle; whereas an intimate and uniform procession by way of an intelligible act is included in the idea of a first principle. For when we call the builder the principle of the house, in the idea of such a principle is included that of his art; and it would be included in the idea of the first principle were the builder the first principle of the house. God, Who is the first principle of all things, may be compared to things created as the architect is to things designed.
-# Whether Any Procession In God Can Be Called Generation?
+## Whether Any Procession In God Can Be Called Generation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no procession in God can be called generation. For generation is change from non-existence to existence, and is opposed to corruption; while matter is the subject of both. Nothing of all this belongs to God. Therefore generation cannot exist in God.
 
@@ -41,22 +41,22 @@ Objection 2: Further, procession exists in God, according to an intelligible mod
 
 Objection 3: Further, anything that is generated derives existence from its generator. Therefore such existence is a derived existence. But no derived existence can be a self-subsistence. Therefore, since the divine existence is self-subsisting ([227]Q[3], A[4]), it follows that no generated existence can be the divine existence. Therefore there is no generation in God.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Ps. 2:7): "This day have I begotten Thee."
 
 I answer that, The procession of the Word in God is called generation. In proof whereof we must observe that generation has a twofold meaning: one common to everything subject to generation and corruption; in which sense generation is nothing but change from non-existence to existence. In another sense it is proper and belongs to living things; in which sense it signifies the origin of a living being from a conjoined living principle; and this is properly called birth. Not everything of that kind, however, is called begotten; but, strictly speaking, only what proceeds by way of similitude. Hence a hair has not the aspect of generation and sonship, but only that has which proceeds by way of a similitude. Nor will any likeness suffice; for a worm which is generated from animals has not the aspect of generation and sonship, although it has a generic similitude; for this kind of generation requires that there should be a procession by way of similitude in the same specific nature; as a man proceeds from a man, and a horse from a horse. So in living things, which proceed from potential to actual life, such as men and animals, generation includes both these kinds of generation. But if there is a being whose life does not proceed from potentiality to act, procession (if found in such a being) excludes entirely the first kind of generation; whereas it may have that kind of generation which belongs to living things. So in this manner the procession of the Word in God is generation; for He proceeds by way of intelligible action, which is a vital operation:---from a conjoined principle (as above described):---by way of similitude, inasmuch as the concept of the intellect is a likeness of the object conceived:---and exists in the same nature, because in God the act of understanding and His existence are the same, as shown above ([228]Q[14], A[4]). Hence the procession of the Word in God is called generation; and the Word Himself proceeding is called the Son.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This objection is based on the idea of generation in the first sense, importing the issuing forth from potentiality to act; in which sense it is not found in God.
 
 Reply to Objection 2: The act of human understanding in ourselves is not the substance itself of the intellect; hence the word which proceeds within us by intelligible operation is not of the same nature as the source whence it proceeds; so the idea of generation cannot be properly and fully applied to it. But the divine act of intelligence is the very substance itself of the one who understands ([229]Q[14], A[4]). The Word proceeding therefore proceeds as subsisting in the same nature; and so is properly called begotten, and Son. Hence Scripture employs terms which denote generation of living things in order to signify the procession of the divine Wisdom, namely, conception and birth; as is declared in the person of the divine Wisdom, "The depths were not as yet, and I was already conceived; before the hills, I was brought forth." (Prov. 8:24). In our way of understanding we use the word "conception" in order to signify that in the word of our intellect is found the likeness of the thing understood, although there be no identity of nature.
 
 Reply to Objection 3: Not everything derived from another has existence in another subject; otherwise we could not say that the whole substance of created being comes from God, since there is no subject that could receive the whole substance. So, then, what is generated in God receives its existence from the generator, not as though that existence were received into matter or into a subject (which would conflict with the divine self-subsistence); but when we speak of His existence as received, we mean that He Who proceeds receives divine existence from another; not, however, as if He were other from the divine nature. For in the perfection itself of the divine existence are contained both the Word intelligibly proceeding and the principle of the Word, with whatever belongs to His perfection ([230]Q[4], A[2]).
-# Whether Any Other Procession Exists In God Besides That Of The Word?
+## Whether Any Other Procession Exists In God Besides That Of The Word?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that no other procession exists in God besides the generation of the Word. Because, for whatever reason we admit another procession, we should be led to admit yet another, and so on to infinitude; which cannot be. Therefore we must stop at the first, and hold that there exists only one procession in God.
 
@@ -64,7 +64,7 @@ Objection 2: Further, every nature possesses but one mode of self-communication;
 
 Objection 3: Further, if any other procession but the intelligible procession of the Word existed in God, it could only be the procession of love, which is by the operation of the will. But such a procession is identified with the intelligible procession of the intellect, inasmuch as the will in God is the same as His intellect ([232]Q[19], A[1]). Therefore in God there is no other procession but the procession of the Word.
 
-## Answer
+### Answer
 
 On the contrary, The Holy Ghost proceeds from the Father (Jn. 15:26); and He is distinct from the Son, according to the words, "I will ask My Father, and He will give you another Paraclete" (Jn. 14:16). Therefore in God another procession exists besides the procession of the Word.
 
@@ -72,16 +72,16 @@ I answer that, There are two processions in God; the procession of the Word, and
 
 In evidence whereof we must observe that procession exists in God, only according to an action which does not tend to anything external, but remains in the agent itself. Such an action in an intellectual nature is that of the intellect, and of the will. The procession of the Word is by way of an intelligible operation. The operation of the will within ourselves involves also another procession, that of love, whereby the object loved is in the lover; as, by the conception of the word, the object spoken of or understood is in the intelligent agent. Hence, besides the procession of the Word in God, there exists in Him another procession called the procession of love.
 
-## Replies
+### Replies
 
 Reply to Objection 1: There is no need to go on to infinitude in the divine processions; for the procession which is accomplished within the agent in an intellectual nature terminates in the procession of the will.
 
 Reply to Objection 2: All that exists in God, is God ([233]Q[3], AA[3],4); whereas the same does not apply to others. Therefore the divine nature is communicated by every procession which is not outward, and this does not apply to other natures.
 
 Reply to Objection 3: Though will and intellect are not diverse in God, nevertheless the nature of will and intellect requires the processions belonging to each of them to exist in a certain order. For the procession of love occurs in due order as regards the procession of the Word; since nothing can be loved by the will unless it is conceived in the intellect. So as there exists a certain order of the Word to the principle whence He proceeds, although in God the substance of the intellect and its concept are the same; so, although in God the will and the intellect are the same, still, inasmuch as love requires by its very nature that it proceed only from the concept of the intellect, there is a distinction of order between the procession of love and the procession of the Word in God.
-# Whether The Procession Of Love In God Is Generation?
+## Whether The Procession Of Love In God Is Generation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the procession of love in God is generation. For what proceeds by way of likeness of nature among living things is said to be generated and born. But what proceeds in God by way of love proceeds in the likeness of nature; otherwise it would be extraneous to the divine nature, and would be an external procession. Therefore what proceeds in God by way of love, proceeds as generated and born.
 
@@ -89,7 +89,7 @@ Objection 2: Further, as similitude is of the nature of the word, so does it bel
 
 Objection 3: Further, what is not in any species is not in the genus. So if there is a procession of love in God, there ought to be some special name besides this common name of procession. But no other name is applicable but generation. Therefore the procession of love in God is generation.
 
-## Answer
+### Answer
 
 On the contrary, Were this true, it would follow that the Holy Ghost Who proceeds as love, would proceed as begotten; which is against the statement of Athanasius: "The Holy Ghost is from the Father and the Son, not made, nor begotten, but proceeding."
 
@@ -97,16 +97,16 @@ I answer that, The procession of love in God ought not to be called generation. 
 
 So what proceeds in God by way of love, does not proceed as begotten, or as son, but proceeds rather as spirit; which name expresses a certain vital movement and impulse, accordingly as anyone is described as moved or impelled by love to perform an action.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All that exists in God is one with the divine nature. Hence the proper notion of this or that procession, by which one procession is distinguished from another, cannot be on the part of this unity: but the proper notion of this or that procession must be taken from the order of one procession to another; which order is derived from the nature of the will and intellect. Hence, each procession in God takes its name from the proper notion of will and intellect; the name being imposed to signify what its nature really is; and so it is that the Person proceeding as love receives the divine nature, but is not said to be born.
 
 Reply to Objection 2: Likeness belongs in a different way to the word and to love. It belongs to the word as being the likeness of the object understood, as the thing generated is the likeness of the generator; but it belongs to love, not as though love itself were a likeness, but because likeness is the principle of loving. Thus it does not follow that love is begotten, but that the one begotten is the principle of love.
 
 Reply to Objection 3: We can name God only from creatures ([234]Q[13], A[1]). As in creatures generation is the only principle of communication of nature, procession in God has no proper or special name, except that of generation. Hence the procession which is not generation has remained without a special name; but it can be called spiration, as it is the procession of the Spirit.
-# Whether There Are More Than Two Processions In God?
+## Whether There Are More Than Two Processions In God?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are more than two processions in God. As knowledge and will are attributed to God, so is power. Therefore, if two processions exist in God, of intellect and will, it seems that there must also be a third procession of power.
 
@@ -114,13 +114,13 @@ Objection 2: Further, goodness seems to be the greatest principle of procession,
 
 Objection 3: Further, in God there is greater power of fecundity than in us. But in us there is not only one procession of the word, but there are many: for in us from one word proceeds another; and also from one love proceeds another. Therefore in God there are more than two processions.
 
-## Answer
+### Answer
 
 On the contrary, In God there are not more than two who proceed---the Son and the Holy Ghost. Therefore there are in Him but two processions.
 
 I answer that, The divine processions can be derived only from the actions which remain within the agent. In a nature which is intellectual, and in the divine nature these actions are two, the acts of intelligence and of will. The act of sensation, which also appears to be an operation within the agent, takes place outside the intellectual nature, nor can it be reckoned as wholly removed from the sphere of external actions; for the act of sensation is perfected by the action of the sensible object upon sense. It follows that no other procession is possible in God but the procession of the Word, and of Love.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Power is the principle whereby one thing acts on another. Hence it is that external action points to power. Thus the divine power does not imply the procession of a divine person; but is indicated by the procession therefrom of creatures.
 

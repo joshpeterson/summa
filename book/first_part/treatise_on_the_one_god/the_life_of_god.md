@@ -5,9 +5,9 @@ Since to understand belongs to living beings, after considering the divine knowl
 (2) What is life?
 (3) Whether life is properly attributed to God?
 (4) Whether all things in God are life?
-# Whether To Live Belongs To All Natural Things?
+## Whether To Live Belongs To All Natural Things?
 
-## Objections
+### Objections
 
 Objection 1: It seems that to live belongs to all natural things. For the Philosopher says (Phys. viii, 1) that "Movement is like a kind of life possessed by all things existing in nature." But all natural things participate in movement. Therefore all natural things partake of life.
 
@@ -15,22 +15,22 @@ Objection 2: Further, plants are said to live, inasmuch as they in themselves a 
 
 Objection 3: Further, amongst natural bodies the elements are the less perfect. Yet life is attributed to them, for we speak of "living waters." Much more, therefore, have other natural bodies life.
 
-## Answer
+### Answer
 
 On the contrary, Dionysius says (Div. Nom. vi, 1) that "The last echo of life is heard in the plants," whereby it is inferred that their life is life in its lowest degree. But inanimate bodies are inferior to plants. Therefore they have not life.
 
 I answer that, We can gather to what things life belongs, and to what it does not, from such things as manifestly possess life. Now life manifestly belongs to animals, for it said in De Vegetab. i [*De Plantis i, 1] that in animals life is manifest. We must, therefore, distinguish living from lifeless things, by comparing them to that by reason of which animals are said to live: and this it is in which life is manifested first and remains last. We say then that an animal begins to live when it begins to move of itself: and as long as such movement appears in it, so long as it is considered to be alive. When it no longer has any movement of itself, but is only moved by another power, then its life is said to fail, and the animal to be dead. Whereby it is clear that those things are properly called living that move themselves by some kind of movement, whether it be movement properly so called, as the act of an imperfect being, i.e. of a thing in potentiality, is called movement; or movement in a more general sense, as when said of the act of a perfect thing, as understanding and feeling are called movement. Accordingly all things are said to be alive that determine themselves to movement or operation of any kind: whereas those things that cannot by their nature do so, cannot be called living, unless by a similitude.
 
-## Replies
+### Replies
 
 Reply to Objection 1: These words of the Philosopher may be understood either of the first movement, namely, that of the celestial bodies, or of the movement in its general sense. In either way is movement called the life, as it were, of natural bodies, speaking by a similitude, and not attributing it to them as their property. The movement of the heavens is in the universe of corporeal natures as the movement of the heart, whereby life is preserved, is in animals. Similarly also every natural movement in respect to natural things has a certain similitude to the operations of life. Hence, if the whole corporeal universe were one animal, so that its movement came from an "intrinsic moving force," as some in fact have held, in that case movement would really be the life of all natural bodies.
 
 Reply to Objection 2: To bodies, whether heavy or light, movement does not belong, except in so far as they are displaced from their natural conditions, and are out of their proper place; for when they are in the place that is proper and natural to them, then they are at rest. Plants and other living things move with vital movement, in accordance with the disposition of their nature, but not by approaching thereto, or by receding from it, for in so far as they recede from such movement, so far do they recede from their natural disposition. Heavy and light bodies are moved by an extrinsic force, either generating them and giving them form, or removing obstacles from their way. They do not therefore move themselves, as do living bodies.
 
 Reply to Objection 3: Waters are called living that have a continuous current: for standing waters, that are not connected with a continually flowing source, are called dead, as in cisterns and ponds. This is merely a similitude, inasmuch as the movement they are seen to possess makes them look as if they were alive. Yet this is not life in them in its real sense, since this movement of theirs is not from themselves but from the cause that generates them. The same is the case with the movement of other heavy and light bodies.
-# Whether Life Is An Operation?
+## Whether Life Is An Operation?
 
-## Objections
+### Objections
 
 Objection 1: It seems that life is an operation. For nothing is divided except into parts of the same genus. But life is divided by certain operations, as is clear from the Philosopher (De Anima ii, 13), who distinguishes four kinds of life, namely, nourishment, sensation, local movement and understanding. Therefore life is an operation.
 
@@ -38,7 +38,7 @@ Objection 2: Further, the active life is said to be different from the contempla
 
 Objection 3: Further, to know God is an operation. But this is life, as is clear from the words of Jn. 18:3, "Now this is eternal life, that they may know Thee, the only true God." Therefore life is an operation.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (De Anima ii, 37), "In living things, to live is to be."
 
@@ -46,14 +46,14 @@ I answer that, As is clear from what has been said ([123]Q[17], A[3]), our intel
 
 Hence "living" is not an accidental but an essential predicate. Sometimes, however, life is used less properly for the operations from which its name is taken, and thus the Philosopher says (Ethic. ix, 9) that to live is principally to sense or to understand.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher here takes "to live" to mean an operation of life. Or it would be better to say that sensation and intelligence and the like, are sometimes taken for the operations, sometimes for the existence itself of the operator. For he says (Ethic. ix, 9) that to live is to sense or to understand---in other words, to have a nature capable of sensation or understanding. Thus, then, he distinguishes life by the four operations mentioned. For in this lower world there are four kinds of living things. It is the nature of some to be capable of nothing more than taking nourishment, and, as a consequence, of growing and generating. Others are able, in addition, to sense, as we see in the case of shellfish and other animals without movement. Others have the further power of moving from place to place, as perfect animals, such as quadrupeds, and birds, and so on. Others, as man, have the still higher faculty of understanding.
 
 Reply to Objection 2: By vital operations are meant those whose principles are within the operator, and in virtue of which the operator produces such operations of itself. It happens that there exist in men not merely such natural principles of certain operations as are their natural powers, but something over and above these, such as habits inclining them like a second nature to particular kinds of operations, so that the operations become sources of pleasure. Thus, as by a similitude, any kind of work in which a man takes delight, so that his bent is towards it, his time spent in it, and his whole life ordered with a view to it, is said to be the life of that man. Hence some are said to lead to life of self-indulgence, others a life of virtue. In this way the contemplative life is distinguished from the active, and thus to know God is said to be life eternal.
-# Whether Life Is Properly Attributed To God?
+## Whether Life Is Properly Attributed To God?
 
-## Objections
+### Objections
 
 Objection 1: It seems that life is not properly attributed to God. For things are said to live inasmuch as they move themselves, as previously stated [125](A[2]). But movement does not belong to God. Neither therefore does life.
 
@@ -61,7 +61,7 @@ Objection 2: Further, in all living things we must needs suppose some principle 
 
 Objection 3: Further, the principle of life in the living things that exist among us is the vegetative soul. But this exists only in corporeal things. Therefore life cannot be attributed to incorporeal things.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Ps. 83:3): "My heart and my flesh have rejoiced in the living God."
 
@@ -71,16 +71,16 @@ Other things have self-movement in a higher degree, that is, not only with regar
 
 But although our intellect moves itself to some things, yet others are supplied by nature, as are first principles, which it cannot doubt; and the last end, which it cannot but will. Hence, although with respect to some things it moves itself, yet with regard to other things it must be moved by another. Wherefore that being whose act of understanding is its very nature, and which, in what it naturally possesses, is not determined by another, must have life in the most perfect degree. Such is God; and hence in Him principally is life. From this the Philosopher concludes (Metaph. xii, 51), after showing God to be intelligent, that God has life most perfect and eternal, since His intellect is most perfect and always in act.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated in Metaph. ix, 16, action is twofold. Actions of one kind pass out to external matter, as to heat or to cut; whilst actions of the other kind remain in the agent, as to understand, to sense and to will. The difference between them is this, that the former action is the perfection not of the agent that moves, but of the thing moved; whereas the latter action is the perfection of the agent. Hence, because movement is an act of the thing in movement, the latter action, in so far as it is the act of the operator, is called its movement, by this similitude, that as movement is an act of the thing moved, so an act of this kind is the act of the agent, although movement is an act of the imperfect, that is, of what is in potentiality; while this kind of act is an act of the perfect, that is to say, of what is in act as stated in De Anima iii, 28. In the sense, therefore, in which understanding is movement, that which understands itself is said to move itself. It is in this sense that Plato also taught that God moves Himself; not in the sense in which movement is an act of the imperfect.
 
 Reply to Objection 2: As God is His own very existence and understanding, so is He His own life; and therefore He so lives that He has not principle of life.
 
 Reply to Objection 3: Life in this lower world is bestowed on a corruptible nature, that needs generation to preserve the species, and nourishment to preserve the individual. For this reason life is not found here below apart from a vegetative soul: but this does not hold good with incorruptible natures.
-# Whether All Things Are Life In God?
+## Whether All Things Are Life In God?
 
-## Objections
+### Objections
 
 Objection 1: It seems that not all things are life in God. For it is said (Acts 17:28), "In Him we live, and move, and be." But not all things in God are movement. Therefore not all things are life in Him.
 
@@ -90,13 +90,13 @@ Objection 3: Further, as Augustine says (De Vera Relig. 29), a living substance 
 
 Objection 4: Further, just as good things and things made in time are known by God, so are bad things, and things that God can make, but never will be made. If, therefore, all things are life in God, inasmuch as known by Him, it seems that even bad things and things that will never be made are life in God, as known by Him, and this appears inadmissible.
 
-## Answer
+### Answer
 
 On the contrary, (Jn. 1:3,4), it is said, "What was made, in Him was life." But all things were made, except God. Therefore all things are life in God.
 
 I answer that, In God to live is to understand, as before stated [126](A[3]). In God intellect, the thing understood, and the act of understanding, are one and the same. Hence whatever is in God as understood is the very living or life of God. Now, wherefore, since all things that have been made by God are in Him as things understood, it follows that all things in Him are the divine life itself.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Creatures are said to be in God in a twofold sense. In one way, so far are they are held together and preserved by the divine power; even as we say that things that are in our power are in us. And creatures are thus said to be in God, even as they exist in their own natures. In this sense we must understand the words of the Apostle when he says, "In Him we live, move, and be"; since our being, living, and moving are themselves caused by God. In another sense things are said to be in God, as in Him who knows them, in which sense they are in God through their proper ideas, which in God are not distinct from the divine essence. Hence things as they are in God are the divine essence. And since the divine essence is life and not movement, it follows that things existing in God in this manner are not movement, but life.
 

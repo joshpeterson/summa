@@ -5,9 +5,9 @@ We must now consider the first man's sin which was pride: and (1) his sin; (2) i
 (2) What the first man coveted by sinning?
 (3) Whether his sin was more grievous than all other sins?
 (4) Which sinned more grievously, the man or the woman?
-# Whether Pride Was The First Man's First Sin?
+## Whether Pride Was The First Man's First Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that pride was not the first man's first sin. For the Apostle says (Rom. 5:19) that "by the disobedience of one man many were made sinners." Now the first man's first sin is the one by which all men were made sinners in the point of original sin. Therefore disobedience, and not pride, was the first man's first sin.
 
@@ -17,13 +17,13 @@ Objection 3: Further, man sinned at the devil's suggestion. Now the devil in tem
 
 Objection 4: Further, a gloss [*St. Augustine, Gen. ad lit. xi] on 1 Tim. 2:14, "The woman being seduced was in the transgression," says: "The Apostle rightly calls this seduction, for they were persuaded to accept a falsehood as being true; namely that God had forbidden them to touch that tree, because He knew that if they touched it, they would be like gods, as though He who made them men, begrudged them the godhead . . ." Now it pertains to unbelief to believe such a thing. Therefore man's first sin was unbelief and not pride.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ecclus. 10:15): "Pride is the beginning of all sin." Now man's first sin is the beginning of all sin, according to Rom. 5:12, "By one man sin entered into this world." Therefore man's first sin was pride.
 
 I answer that, Many movements may concur towards one sin, and the character of sin attaches to that one in which inordinateness is first found. And it is evident that inordinateness is in the inward movement of the soul before being in the outward act of the body; since, as Augustine says (De Civ. Dei i, 18), the sanctity of the body is not forfeited so long as the sanctity of the soul remains. Also, among the inward movements, the appetite is moved towards the end before being moved towards that which is desired for the sake of the end; and consequently man's first sin was where it was possible for his appetite to be directed to an inordinate end. Now man was so appointed in the state of innocence, that there was no rebellion of the flesh against the spirit. Wherefore it was not possible for the first inordinateness in the human appetite to result from his coveting a sensible good, to which the concupiscence of the flesh tends against the order of reason. It remains therefore that the first inordinateness of the human appetite resulted from his coveting inordinately some spiritual good. Now he would not have coveted it inordinately, by desiring it according to his measure as established by the Divine rule. Hence it follows that man's first sin consisted in his coveting some spiritual good above his measure: and this pertains to pride. Therefore it is evident that man's first sin was pride.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Man's disobedience to the Divine command was not willed by man for his own sake, for this could not happen unless one presuppose inordinateness in his will. It remains therefore that he willed it for the sake of something else. Now the first thing he coveted inordinately was his own excellence; and consequently his disobedience was the result of his pride. This agrees with the statement of Augustine, who says (Ad Oros [*Dial. QQ. lxv, qu. 4]) that "man puffed up with pride obeyed the serpent's prompting, and scorned God's commands."
 
@@ -32,9 +32,9 @@ Reply to Objection 2: Gluttony also had a place in the sin of our first parents.
 Reply to Objection 3: The desire for knowledge resulted in our first parents from their inordinate desire for excellence. Hence the serpent began by saying: "You shall be as Gods," and added: "Knowing good and evil."
 
 Reply to Objection 4: According to Augustine (Gen. ad lit. xi, 30), "the woman had not believed the serpent's statement that they were debarred by God from a good and useful thing, were her mind not already filled with the love of her own power, and a certain proud self-presumption." This does not mean that pride preceded the promptings of the serpent, but that as soon as the serpent had spoken his words of persuasion, her mind was puffed up, the result being that she believed the demon to have spoken truly.
-# Whether The First Man's Pride Consisted In His Coveting God's Likeness?
+## Whether The First Man's Pride Consisted In His Coveting God's Likeness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the first man's pride did not consist in his coveting the Divine likeness. For no one sins by coveting that which is competent to him according to his nature. Now God's likeness is competent to man according to his nature: for it is written (Gn. 1:26): "Let us make man to our image and likeness." Therefore he did not sin by coveting God's likeness.
 
@@ -42,7 +42,7 @@ Objection 2: Further, it would seem that man coveted God's likeness in order tha
 
 Objection 3: Further, no wise man chooses the impossible. Now the first man was endowed with wisdom, according to Ecclus. 17:5, "He filled them with the knowledge of understanding." Since then every sin consists in a deliberate act of the appetite, namely choice, it would seem that the first man did not sin by coveting something impossible. But it is impossible for man to be like God, according to the saying of Ex. 15:11, "Who is like to Thee among the strong, O Lord?" Therefore the first man did not sin by coveting God's likeness.
 
-## Answer
+### Answer
 
 On the contrary, Augustine commenting on Ps. 68:5 [*Enarr. in Ps. 68], "Then did I restore [Douay: 'pay'] that which I took not away," says: "Adam and Eve wished to rob the Godhead and they lost happiness."
 
@@ -56,16 +56,16 @@ It must, however, be observed that the proper object of the appetite is a thing 
 
 Accordingly, while both (namely the devil and the first man) coveted God's likeness inordinately, neither of them sinned by coveting a likeness of nature. But the first man sinned chiefly by coveting God's likeness as regards "knowledge of good and evil," according to the serpent's instigation, namely that by his own natural power he might decide what was good, and what was evil for him to do; or again that he should of himself foreknow what good and what evil would befall him. Secondarily he sinned by coveting God's likeness as regards his own power of operation, namely that by his own natural power he might act so as to obtain happiness. Hence Augustine says (Gen. ad lit. xi, 30) that "the woman's mind was filled with love of her own power." On the other hand, the devil sinned by coveting God's likeness, as regards power. Wherefore Augustine says (De Vera Relig. 13) that "he wished to enjoy his own power rather than God's." Nevertheless both coveted somewhat to be equal to God, in so far as each wished to rely on himself in contempt of the order of the Divine rule.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument considers the likeness of nature: and man did not sin by coveting this, as stated.
 
 Reply to Objection 2: It is not a sin to covet God's likeness as to knowledge, absolutely; but to covet this likeness inordinately, that is, above one's measure, this is a sin. Hence Augustine commenting on Ps. 70:18, "O God, who is like Thee?" says: "He who desires to be of himself, even as God is of no one, wishes wickedly to be like God. Thus did the devil, who was unwilling to be subject to Him, and man who refused to be, as a servant, bound by His command."
 
 Reply to Objection 3: This argument considers the likeness of equality.
-# Whether The Sin Of Our First Parents Was More Grievous Than Other Sins?
+## Whether The Sin Of Our First Parents Was More Grievous Than Other Sins?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sin of our first parents was more grievous than other sins. For Augustine says (De Civ. Dei xiv, 15): "Great was the wickedness in sinning, when it was so easy to avoid sin." Now it was very easy for our first parents to avoid sin, because they had nothing within them urging them to sin. Therefore the sin of our first parents was more grievous than other sins.
 
@@ -73,7 +73,7 @@ Objection 2: Further, punishment is proportionate to guilt. Now the sin of our f
 
 Objection 3: Further, the first in every genus is seemingly the greatest (Metaph. ii, 4 [*Ed. Diel. i, 1]). Now the sin of our first parents was the first among sins of men. Therefore it was the greatest.
 
-## Answer
+### Answer
 
 On the contrary, Origen says [*Peri Archon i, 3]: "I think that a man who stands on the highest step of perfection cannot fail or fall suddenly: this can happen only by degrees and little by little." Now our first parents were established on the highest and perfect grade. Therefore their first sin was not the greatest of all sins.
 
@@ -81,16 +81,16 @@ I answer that, There is a twofold gravity to be observed in sin. one results fro
 
 But if we consider the circumstances of the persons who sinned, that sin was most grave on account of the perfection of their state. We must accordingly conclude that this sin was most grievous relatively but not simply.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument considers the gravity of sin as resulting from the person of the sinner.
 
 Reply to Objection 2: The severity of the punishment awarded to that first sin corresponds to the magnitude of the sin, not as regards its species but as regards its being the first sin: because it destroyed the innocence of our original state, and by robbing it of innocence brought disorder upon the whole human nature.
 
 Reply to Objection 3: Where things are directly subordinate, the first must needs be the greatest. Such is not the order among sins, for one follows from another accidentally. And thus it does not follow that the first sin is the greatest.
-# Whether Adam's Sin Was More Grievous Than Eve's?
+## Whether Adam's Sin Was More Grievous Than Eve's?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Adam's sin was more grievous than Eve's. For it is written (1 Tim. 2:14): "Adam was not seduced, but the woman being seduced was in the transgression": and so it would seem that the woman sinned through ignorance, but the man through assured knowledge. Now the latter is the graver sin, according to Lk. 12:47,48, "That servant who knew the will of his lord . . . and did not according to his will, shall be beaten with many stripes: but he that knew not, and did things worthy of stripes, shall be beaten with few stripes." Therefore Adam's sin was more grievous than Eve's.
 
@@ -98,7 +98,7 @@ Objection 2: Further, Augustine says (De Decem Chordis 3 [*Serm. ix; xcvi de Tem
 
 Objection 3: Further, the sin against the Holy Ghost would seem to be the most grievous. Now Adam, apparently, sinned against the Holy Ghost, because while sinning he relied on God's mercy [*Cf.[3623] Q[21], A[2], OBJ[3]. St. Thomas is evidently alluding to the words of Peter Lombard quoted there], and this pertains to the sin of presumption. Therefore it seems that Adam sinned more grievously than Eve.
 
-## Answer
+### Answer
 
 On the contrary, Punishment corresponds to guilt. Now the woman was more grievously punished than the man, as appears from Gn. 3. Therefore she sinned more grievously than the man.
 
@@ -110,7 +110,7 @@ But as regards the species of pride, the woman sinned more grievously, for three
 
 It is therefore evident that the woman's sin was more grievous than the man's.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The woman was deceived because she was first of all puffed up with pride. Wherefore her ignorance did not excuse, but aggravated her sin, in so far as it was the cause of her being puffed up with still greater pride.
 

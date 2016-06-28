@@ -6,9 +6,9 @@ We next investigate the material objects which are known by the angels. Under th
 (3) Whether they know the future?
 (4) Whether they know secret thoughts?
 (5) Whether they know all mysteries of grace?
-# Whether The Angels Know Material Things?
+## Whether The Angels Know Material Things?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels do not know material things. For the object understood is the perfection of him who understands it. But material things cannot be the perfections of angels, since they are beneath them. Therefore the angels do not know material things.
 
@@ -16,7 +16,7 @@ Objection 2: Further, intellectual vision is only of such things as exist within
 
 Objection 3: Further, material things are not actually intelligible, but are knowable by apprehension of sense and of imagination, which does not exist in angels. Therefore angels do not know material things.
 
-## Answer
+### Answer
 
 On the contrary, Whatever the lower power can do, the higher can do likewise. But man's intellect, which in the order of nature is inferior to the angel's, can know material things. Therefore much more can the mind of an angel.
 
@@ -24,16 +24,16 @@ I answer that, The established order of things is for the higher beings to be mo
 
 Now whatever exists in any subject, is contained in it after the manner of such subject. But the angels are intellectual beings of their own nature. Therefore, as God knows material things by His essence, so do the angels know them, forasmuch as they are in the angels by their intelligible species.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The thing understood is the perfection of the one who understands, by reason of the intelligible species which he has in his intellect. And thus the intelligible species which are in the intellect of an angel are perfections and acts in regard to that intellect.
 
 Reply to Objection 2: Sense does not apprehend the essences of things, but only their outward accidents. In like manner neither does the imagination; for it apprehends only the images of bodies. The intellect alone apprehends the essences of things. Hence it is said (De Anima iii, text. 26) that the object of the intellect is "what a thing is," regarding which it does not err; as neither does sense regarding its proper sensible object. So therefore the essences of material things are in the intellect of man and angels, as the thing understood is in him who understands, and not according to their real natures. But some things are in an intellect or in the soul according to both natures; and in either case there is intellectual vision.
 
 Reply to Objection 3: If an angel were to draw his knowledge of material things from the material things themselves, he would require to make them actually intelligible by a process of abstraction. But he does not derive his knowledge of them from the material things themselves; he has knowledge of material things by actually intelligible species of things, which species are connatural to him; just as our intellect has, by species which it makes intelligible by abstraction.
-# Whether An Angel Knows Singulars?
+## Whether An Angel Knows Singulars?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that angels do not know singulars. For the Philosopher says (Poster. i, text. 22): "The sense has for its object singulars, but the intellect, universals." Now, in the angels there is no power of understanding save the intellectual power, as is evident from what was said above ([502]Q[54], A[5]). Consequently they do not know singulars.
 
@@ -41,7 +41,7 @@ Objection 2: Further, all knowledge comes about by some assimilation of the know
 
 Objection 3: Further, if an angel does know singulars, it is either by singular or by universal species. It is not by singular species; because in this way he would require to have an infinite number of species. Nor is it by universal species; since the universal is not the sufficient principle for knowing the singular as such, because singular things are not known in the universal except potentially. Therefore the angel does not know singulars.
 
-## Answer
+### Answer
 
 On the contrary, No one can guard what he does not know. But angels guard individual men, according to Ps. 90:11: "He hath given His angels charge over Thee." Consequently the angels know singulars.
 
@@ -53,16 +53,16 @@ Therefore, it must be said differently, that, as man by his various powers of kn
 
 The manner in which an angel knows singular things can be considered from this, that, as things proceed from God in order that they may subsist in their own natures, so likewise they proceed in order that they may exist in the angelic mind. Now it is clear that there comes forth from God not only whatever belongs to their universal nature, but likewise all that goes to make up their principles of individuation; since He is the cause of the entire substance of the thing, as to both its matter and its form. And for as much as He causes, does He know; for His knowledge is the cause of a thing, as was shown above ([504]Q[14], A[8]). Therefore as by His essence, by which He causes all things, God is the likeness of all things, and knows all things, not only as to their universal natures, but also as to their singularity; so through the species imparted to them do the angels know things, not only as to their universal nature, but likewise in their individual conditions, in so far as they are the manifold representations of that one simple essence.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Philosopher is speaking of our intellect, which apprehends only by a process of abstraction; and by such abstraction from material conditions the thing abstracted becomes a universal. Such a manner of understanding is not in keeping with the nature of the angels, as was said above ([505]Q[55], A[2], A[3] ad 1), and consequently there is no comparison.
 
 Reply to Objection 2: It is not according to their nature that the angels are likened to material things, as one thing resembles another by agreement in genus, species, or accident; but as the higher bears resemblance to the lower, as the sun does to fire. Even in this way there is in God a resemblance of all things, as to both matter and form, in so far as there pre-exists in Him as in its cause whatever is to be found in things. For the same reason, the species in the angel's intellect, which are images drawn from the Divine essence, are the images of things not only as to their form, but also as to their matter.
 
 Reply to Objection 3: Angels know singulars by universal forms, which nevertheless are the images of things both as to their universal, and as to their individuating principles. How many things can be known by the same species, has been already stated above ([506]Q[55], A[3], ad 3).
-# Whether Angels Know The Future?
+## Whether Angels Know The Future?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels know future events. For angels are mightier in knowledge than men. But some men know many future events. Therefore much more do the angels.
 
@@ -72,7 +72,7 @@ Objection 3: Further, the angel does not understand by species derived from thin
 
 Objection 4: Further, as a thing is spoken of as distant by reason of time, so is it by reason of place. But angels know things which are distant according to place. Therefore they likewise know things distant according to future time.
 
-## Answer
+### Answer
 
 On the contrary, Whatever is the exclusive sign of the Divinity, does not belong to the angels. But to know future events is the exclusive sign of the Divinity, according to Is. 41:23: "Show the things that are to come hereafter, and we shall know that ye are gods." Therefore the angels do not know future events.
 
@@ -80,7 +80,7 @@ I answer that, The future can be known in two ways. First, it can be known in it
 
 In another way future events are known in themselves. To know the future in this way belongs to God alone; and not merely to know those events which happen of necessity, or in the majority of cases, but even casual and chance events; for God sees all things in His eternity, which, being simple, is present to all time, and embraces all time. And therefore God's one glance is cast over all things which happen in all time as present before Him; and He beholds all things as they are in themselves, as was said before when dealing with God's knowledge ([507]Q[14], A[13]). But the mind of an angel, and every created intellect, fall far short of God's eternity; hence the future as it is in itself cannot be known by any created intellect.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Men cannot know future things except in their causes, or by God's revelation. The angels know the future in the same way, but much more distinctly.
 
@@ -89,9 +89,9 @@ Reply to Objection 2: Although the angel's intellect is above that time accordin
 Reply to Objection 3: Although the species in the intellect of an angel, in so far as they are species, refer equally to things present, past, and future; nevertheless the present, past, and future; nevertheless the present, past, and future do not bear the same relations to the species. Present things have a nature according to which they resemble the species in the mind of an angel: and so they can be known thereby. Things which are yet to come have not yet a nature whereby they are likened to such species; consequently, they cannot be known by those species.
 
 Reply to Objection 4: Things distant according to place are already existing in nature; and share in some species, whose image is in the angel; whereas this is not true of future things, as has been stated. Consequently there is no comparison.
-# Whether Angels Know Secret Thoughts?
+## Whether Angels Know Secret Thoughts?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels know secret thoughts. For Gregory (Moral. xviii), explaining Job 28:17: "Gold or crystal cannot equal it," says that "then," namely in the bliss of those rising from the dead, "one shall be as evident to another as he is to himself, and when once the mind of each is seen, his conscience will at the same time be penetrated." But those who rise shall be like the angels, as is stated (Mat. 22:30). Therefore an angel can see what is in another's conscience.
 
@@ -99,7 +99,7 @@ Objection 2: Further, intelligible species bear the same relation to the intelle
 
 Objection 3: Further, the ideas of our intellect resemble the angel more than do the images in our imagination; because the former are actually understood, while the latter are understood only potentially. But the images in our imagination can be known by an angel as corporeal things are known: because the imagination is a corporeal faculty. Therefore it seems that an angel can know the thoughts of the intellect.
 
-## Answer
+### Answer
 
 On the contrary, What is proper to God does not belong to the angels. But it is proper to God to read the secrets of hearts, according to Jer. 17:9: "The heart is perverse above all things, and unsearchable; who can know it? I am the Lord, Who search the heart." Therefore angels do not know the secrets of hearts.
 
@@ -107,16 +107,16 @@ I answer that, A secret thought can be known in two ways: first, in its effect. 
 
 In another way thoughts can be known as they are in the mind, and affections as they are in the will: and thus God alone can know the thoughts of hearts and affections of wills. The reason of this is, because the rational creature is subject to God only, and He alone can work in it Who is its principal object and last end: this will be developed later ([508]Q[63], A[1]; [509]Q[105], A[5]). Consequently all that is in the will, and all things that depend only on the will, are known to God alone. Now it is evident that it depends entirely on the will for anyone actually to consider anything; because a man who has a habit of knowledge, or any intelligible species, uses them at will. Hence the Apostle says (1 Cor. 2:11): "For what man knoweth the things of a man, but the spirit of a man that is in him?"
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the present life one man's thought is not known by another owing to a twofold hindrance; namely, on account of the grossness of the body, and because the will shuts up its secrets. The first obstacle will be removed at the Resurrection, and does not exist at all in the angels; while the second will remain, and is in the angels now. Nevertheless the brightness of the body will show forth the quality of the soul; as to its amount of grace and of glory. In this way one will be able to see the mind of another.
 
 Reply to Objection 2: Although one angel sees the intelligible species of another, by the fact that the species are proportioned to the rank of these substances according to greater or lesser universality, yet it does not follow that one knows how far another makes use of them by actual consideration.
 
 Reply to Objection 3: The appetite of the brute does not control its act, but follows the impression of some other corporeal or spiritual cause. Since, therefore, the angels know corporeal things and their dispositions, they can thereby know what is passing in the appetite or in the imaginative apprehension of the brute beasts, and even of man, in so far as the sensitive appetite sometimes, through following some bodily impression, influences his conduct, as always happens in brutes. Yet the angels do not necessarily know the movement of the sensitive appetite and the imaginative apprehension of man in so far as these are moved by the will and reason; because, even the lower part of the soul has some share of reason, as obeying its ruler, as is said in Ethics iii, 12. But it does not follow that, if the angel knows what is passing through man's sensitive appetite or imagination, he knows what is in the thought or will: because the intellect or will is not subject to the sensitive appetite or the imagination, but can make various uses of them.
-# Whether The Angels Know The Mysteries Of Grace?
+## Whether The Angels Know The Mysteries Of Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angels know mysteries of grace. For, the mystery of the Incarnation is the most excellent of all mysteries. But the angels knew of it from the beginning; for Augustine says (Gen. ad lit. v, 19): "This mystery was hidden in God through the ages, yet so that it was known to the princes and powers in heavenly places." And the Apostle says (1 Tim. 3:16): "That great mystery of godliness appeared unto angels*." [*Vulg.: 'Great is the mystery of godliness, which . . . appeared unto angels.'] Therefore the angels know the mysteries of grace.
 
@@ -124,7 +124,7 @@ Objection 2: Further, the reasons of all mysteries of grace are contained in the
 
 Objection 3: Further, the prophets are enlightened by the angels, as is clear from Dionysius (Coel. Hier. iv). But the prophets knew mysteries of grace; for it is said (Amos 3:7): "For the Lord God doth nothing without revealing His secret to His servants the prophets." Therefore angels know the mysteries of grace.
 
-## Answer
+### Answer
 
 On the contrary, No one learns what he knows already. Yet even the highest angels seek out and learn mysteries of grace. For it is stated (Coel. Hier. vii) that "Sacred Scripture describes some heavenly essences as questioning Jesus, and learning from Him the knowledge of His Divine work for us; and Jesus as teaching them directly": as is evident in Is. 63:1, where, on the angels asking, "Who is he who cometh up from Edom?" Jesus answered, "It is I, Who speak justice." Therefore the angels do not know mysteries of grace.
 
@@ -132,7 +132,7 @@ I answer that, There is a twofold knowledge in the angel. The first is his natur
 
 There is another knowledge of the angels, which renders them happy; it is the knowledge whereby they see the Word, and things in the Word. By such vision they know mysteries of grace, but not all mysteries: nor do they all know them equally; but just as God wills them to learn by revelation; as the Apostle says (1 Cor. 2:10): "But to us God hath revealed them through His Spirit"; yet so that the higher angels beholding the Divine wisdom more clearly, learn more and deeper mysteries in the vision of God, which mysteries they communicate to the lower angels by enlightening them. Some of these mysteries they knew from the very beginning of their creation; others they are taught afterwards, as befits their ministrations.
 
-## Replies
+### Replies
 
 Reply to Objection 1: One can speak in two ways of the mystery of the Incarnation. First of all, in general; and in this way it was revealed to all from the commencement of their beatitude. The reason of this is, that this is a kind of general principle to which all their duties are ordered. For "all are [*Vulg.: 'Are they not all.'] ministering spirits, sent to minister for them who shall receive the inheritance of salvation (Heb. 1:14)"; and this is brought by the mystery of the Incarnation. Hence it was necessary for all of them to be instructed in this mystery from the very beginning.
 

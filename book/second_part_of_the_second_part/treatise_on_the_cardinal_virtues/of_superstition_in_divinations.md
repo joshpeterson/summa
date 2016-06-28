@@ -9,9 +9,9 @@ We must now consider superstition in divinations, under which head there are eig
 (6) Of divination by dreams;
 (7) Of divination by auguries and like observances;
 (8) Of divination by lots.
-# Whether Divination Is A Sin?
+## Whether Divination Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that divination is not a sin. Divination is derived from something "divine": and things that are divine pertain to holiness rather than to sin. Therefore it seems that divination is not a sin.
 
@@ -19,7 +19,7 @@ Objection 2: Further, Augustine says (De Lib. Arb. i, 1): "Who dares to say that
 
 Objection 3: Further, there is no natural inclination to evil; because nature inclines only to its like. But men by natural inclination seek to foreknow future events; and this belongs to divination. Therefore divination is not a sin.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 18:10,11): "Neither let there be found among you . . . any one that consulteth pythonic spirits, or fortune tellers": and it is stated in the Decretals (26, qu. v, can. Qui divinationes): "Those who seek for divinations shall be liable to a penance of five years' duration, according to the fixed grades of penance."
 
@@ -27,16 +27,16 @@ I answer that, Divination denotes a foretelling of the future. The future may be
 
 Accordingly it is not called divination, if a man foretells things that happen of necessity, or in the majority of instances, for the like can be foreknown by human reason: nor again if anyone knows other contingent future things, through divine revelation: for then he does not divine, i.e. cause something divine, but rather receives something divine. Then only is a man said to divine, when he usurps to himself, in an undue manner, the foretelling of future events: and this is manifestly a sin. Consequently divination is always a sin; and for this reason Jerome says in his commentary on Mic. 3:9, seqq. that "divination is always taken in an evil sense."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Divination takes its name not from a rightly ordered share of something divine, but from an undue usurpation thereof, as stated above.
 
 Reply to Objection 2: There are certain arts for the foreknowledge of future events that occur of necessity or frequently, and these do not pertain to divination. But there are no true arts or sciences for the knowledge of other future events, but only vain inventions of the devil's deceit, as Augustine says (De Civ. Dei xxi, 8).
 
 Reply to Objection 3: Man has a natural inclination to know the future by human means, but not by the undue means of divination.
-# Whether Divination Is A Species Of Superstition?
+## Whether Divination Is A Species Of Superstition?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that divination is not a species of superstition. The same thing cannot be a species of diverse genera. Now divination is apparently a species of curiosity, according to Augustine (De Vera Relig. xxxviii) [*Cf. De Doctr. Christ. ii, 23,24; De Divin. Daem. 3]. Therefore it is not, seemingly, a species of superstition.
 
@@ -44,22 +44,22 @@ Objection 2: Further, just as religion is due worship, so is superstition undue 
 
 Objection 3: Further, superstition is opposed to religion. But in true religion nothing is to be found corresponding as a contrary to divination. Therefore divination is not a species of superstition.
 
-## Answer
+### Answer
 
 On the contrary, Origen says in his Peri Archon [*The quotation is from his sixteenth homily on the Book of Numbers]: "There is an operation of the demons in the administering of foreknowledge, comprised, seemingly, under the head of certain arts exercised by those who have enslaved themselves to the demons, by means of lots, omens, or the observance of shadows. I doubt not that all these things are done by the operation of the demons." Now, according to Augustine (De Doctr. Christ. ii, 20,23), "whatever results from fellowship between demons and men is superstitious." Therefore divination is a species of superstition.
 
 I answer that, As stated above [3109](A[1]; QQ[92],94), superstition denotes undue divine worship. Now a thing pertains to the worship of God in two ways: in one way, it is something offered to God; as a sacrifice, an oblation, or something of the kind: in another way, it is something divine that is assumed, as stated above with regard to an oath (Q[89], A[4], ad 2). Wherefore superstition includes not only idolatrous sacrifices offered to demons, but also recourse to the help of the demons for the purpose of doing or knowing something. But all divination results from the demons' operation, either because the demons are expressly invoked that the future may be made known, or because the demons thrust themselves into futile searchings of the future, in order to entangle men's minds with vain conceits. Of this kind of vanity it is written (Ps. 39:5): "Who hath not regard to vanities and lying follies." Now it is vain to seek knowledge of the future, when one tries to get it from a source whence it cannot be foreknown. Therefore it is manifest that divination is a species of superstition.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Divination is a kind of curiosity with regard to the end in view, which is foreknowledge of the future; but it is a kind of superstition as regards the mode of operation.
 
 Reply to Objection 2: This kind of divination pertains to the worship of the demons, inasmuch as one enters into a compact, tacit or express with the demons.
 
 Reply to Objection 3: In the New Law man's mind is restrained from solicitude about temporal things: wherefore the New Law contains no institution for the foreknowledge of future events in temporal matters. On the other hand in the Old Law, which contained earthly promises, there were consultations about the future in connection with religious matters. Hence where it is written (Is. 8:19): "And when they shall say to you: Seek of pythons and of diviners, who mutter in their enchantments," it is added by way of answer: "Should not the people seek of their God, a vision for the living and the dead? [*Vulg.: 'seek of their God, for the living of the dead?']"
-# Whether We Ought To Distinguish Several Species Of Divination?
+## Whether We Ought To Distinguish Several Species Of Divination?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that we should not distinguish several species of divination. Where the formality of sin is the same, there are not seemingly several species of sin. Now there is one formality of sin in all divinations, since they consist in entering into compact with the demons in order to know the future. Therefore there are not several species of divination.
 
@@ -67,7 +67,7 @@ Objection 2: Further, a human act takes it species from its end, as stated above
 
 Objection 3: Further, signs do not vary the species of a sin, for whether one detracts by word writing or gestures, it is the same species of sin. Now divinations seem to differ merely according to the various signs whence the foreknowledge of the future is derived. Therefore there are not several species of divination.
 
-## Answer
+### Answer
 
 On the contrary, Isidore enumerates various species of divination (Etym. viii, 9).
 
@@ -79,16 +79,16 @@ To this second species of divination, which is without express invocation of the
 
 Accordingly it is clear that there are three kinds of divination. The first is when the demons are invoked openly, this comes under the head of "necromancy"; the second is merely an observation of the disposition or movement of some other being, and this belongs to "augury"; while the third consists in doing something in order to discover the occult; and this belongs to "sortilege." Under each of these many others are contained, as explained above.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In all the aforesaid there is the same general, but not the same special, character of sin: for it is much more grievous to invoke the demons than to do things that deserve the demons' interference.
 
 Reply to Objection 2: Knowledge of the future or of the occult is the ultimate end whence divination takes its general formality. But the various species are distinguished by their proper objects or matters, according as the knowledge of the occult is sought in various things.
 
 Reply to Objection 3: The things observed by diviners are considered by them, not as signs expressing what they already know, as happens in detraction, but as principles of knowledge. Now it is evident that diversity of principles diversifies the species, even in demonstrative sciences.
-# Whether Divination Practiced By Invoking The Demons Is Unlawful?
+## Whether Divination Practiced By Invoking The Demons Is Unlawful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that divination practiced by invoking the demons is not unlawful. Christ did nothing unlawful, according to 1 Pet. 2:22, "Who did no sin." Yet our Lord asked the demon: "What is thy name?" and the latter replied: "My name is Legion, for we are many" (Mk. 5:9). Therefore it seems lawful to question the demons about the occult.
 
@@ -96,22 +96,22 @@ Objection 2: Further, the souls of the saints do not encourage those who ask unl
 
 Objection 3: Further, it seems lawful to seek the truth from one who knows, if it be useful to know it. But it is sometimes useful to know what is hidden from us, and can be known through the demons, as in the discovery of thefts. Therefore divination by questioning demons is not unlawful.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 18:10,11): "Neither let there be found among you . . . anyone that consulteth soothsayers . . . nor . . . that consulteth pythonic spirits."
 
 I answer that, All divination by invoking demons is unlawful for two reasons. The first is gathered from the principle of divination, which is a compact made expressly with a demon by the very fact of invoking him. This is altogether unlawful; wherefore it is written against certain persons (Is. 28:15): "You have said: We have entered into a league with death, and we have made a covenant with hell." And still more grievous would it be if sacrifice were offered or reverence paid to the demon invoked. The second reason is gathered from the result. For the demon who intends man's perdition endeavors, by his answers, even though he sometimes tells the truth, to accustom men to believe him, and so to lead him on to something prejudicial to the salvation of mankind. Hence Athanasius, commenting on the words of Lk. 4:35, "He rebuked him, saying: Hold thy peace," says: "Although the demon confessed the truth, Christ put a stop to his speech, lest together with the truth he should publish his wickedness and accustom us to care little for such things, however much he may seem to speak the truth. For it is wicked, while we have the divine Scriptures, to seek knowledge from the demons."
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Bede's commentary on Lk. 8:30, "Our Lord inquired, not through ignorance, but in order that the disease, which he tolerated, being made public, the power of the Healer might shine forth more graciously." Now it is one thing to question a demon who comes to us of his own accord (and it is lawful to do so at times for the good of others, especially when he can be compelled, by the power of God, to tell the truth) and another to invoke a demon in order to gain from him knowledge of things hidden from us.
 
 Reply to Objection 2: According to Augustine (Ad Simplic. ii, 3), "there is nothing absurd in believing that the spirit of the just man, being about to smite the king with the divine sentence, was permitted to appear to him, not by the sway of magic art or power, but by some occult dispensation of which neither the witch nor Saul was aware. Or else the spirit of Samuel was not in reality aroused from his rest, but some phantom or mock apparition formed by the machinations of the devil, and styled by Scripture under the name of Samuel, just as the images of things are wont to be called by the names of those things."
 
 Reply to Objection 3: No temporal utility can compare with the harm to spiritual health that results from the research of the unknown by invoking the demon.
-# Whether Divination By The Stars Is Unlawful?
+## Whether Divination By The Stars Is Unlawful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that divination by the stars is not unlawful. It is lawful to foretell effects by observing their causes: thus a physician foretells death from the disposition of the disease. Now the heavenly bodies are the cause of what takes place in the world, according to Dionysius (Div. Nom. iv). Therefore divination by the stars is not unlawful.
 
@@ -119,7 +119,7 @@ Objection 2: Further, human science originates from experiments, according to th
 
 Objection 3: Further, divination is declared to be unlawful in so far as it is based on a compact made with the demons. But divination by the stars contains nothing of the kind, but merely an observation of God's creatures. Therefore it would seem that this species of divination is not unlawful.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Confess. iv, 3): "Those astrologers whom they call mathematicians, I consulted without scruple; because they seemed to use no sacrifice, nor to pray to any spirit for their divinations which art, however, Christian and true piety rejects and condemns."
 
@@ -137,12 +137,12 @@ Accordingly if anyone take observation of the stars in order to foreknow casual 
 
 Wherefore the Reply to the First Objection is evident.
 
-## Replies
+### Replies
 
 Reply to Objection 2: That astrologers not unfrequently forecast the truth by observing the stars may be explained in two ways. First, because a great number of men follow their bodily passions, so that their actions are for the most part disposed in accordance with the inclination of the heavenly bodies: while there are few, namely, the wise alone, who moderate these inclinations by their reason. The result is that astrologers in many cases foretell the truth, especially in public occurrences which depend on the multitude. Secondly, because of the interference of the demons. Hence Augustine says (Gen. ad lit. ii, 17): "When astrologers tell the truth, it must be allowed that this is due to an instinct that, unknown to man, lies hidden in his mind. And since this happens through the action of unclean and lying spirits who desire to deceive man for they are permitted to know certain things about temporal affairs." Wherefore he concludes: "Thus a good Christian should beware of astrologers, and of all impious diviners, especially of those who tell the truth, lest his soul become the dupe of the demons and by making a compact of partnership with them enmesh itself in their fellowship."
-# Whether Divination By Dreams Is Unlawful?
+## Whether Divination By Dreams Is Unlawful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that divination by dreams is not unlawful. It is not unlawful to make use of divine instruction. Now men are instructed by God in dreams, for it is written (Job 33:15,16): "By a dream in a vision by night, when deep sleep falleth upon men, and they are sleeping in their beds, then He," God to wit, "openeth the ears of men, and teaching instructeth them in what they are to learn." Therefore it is not unlawful to make use of divination by dreams.
 
@@ -150,7 +150,7 @@ Objection 2: Further, those who interpret dreams, properly speaking, make use of
 
 Objection 3: Further, it is unreasonable to deny the common experiences of men. Now it is the experience of all that dreams are significative of the future. Therefore it is useless to deny the efficacy of dreams for the purpose of divination, and it is lawful to listen to them.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 18:10): "Neither let there be found among you any one that . . . observeth dreams."
 
@@ -163,9 +163,9 @@ In like manner the outward cause of dreams is twofold, corporal and spiritual. I
 Accordingly we must say that there is no unlawful divination in making use of dreams for the foreknowledge of the future, so long as those dreams are due to divine revelation, or to some natural cause inward or outward, and so far as the efficacy of that cause extends. But it will be an unlawful and superstitious divination if it be caused by a revelation of the demons, with whom a compact has been made, whether explicit, through their being invoked for the purpose, or implicit, through the divination extending beyond its possible limits.
 
 This suffices for the Replies to the Objections.
-# Whether Divination By Auguries, Omens, And By Like Observations Of External Things Is Unlawful?
+## Whether Divination By Auguries, Omens, And By Like Observations Of External Things Is Unlawful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that divination by auguries, omens, and by like observations of external things is not unlawful. If it were unlawful holy men would not make use thereof. Now we read of Joseph that he paid attention to auguries, for it is related (Gn. 44:5) that Joseph's steward said: "The cup which you have stolen is that in which my lord drinketh and in which he is wont to divine [augurari]": and he himself afterwards said to his brethren (Gn. 44:15): "Know you not that there is no one like me in the science of divining?" Therefore it is not unlawful to make use of this kind of divination.
 
@@ -173,7 +173,7 @@ Objection 2: Further, birds naturally know certain things regarding future occur
 
 Objection 3: Further, Gedeon is numbered among the saints (Heb. 11:32). Yet Gedeon made use of an omen, when he listened to the relation and interpreting of a dream (Judges 7:15): and Eliezer, Abraham's servant, acted in like manner (Gn. 24). Therefore it seems that this kind of divination is not unlawful.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 18:10): "Neither let there be found among you anyone . . . that observeth omens."
 
@@ -183,16 +183,16 @@ In the second place, this instinct is produced by a spiritual cause, namely, eit
 
 Accordingly we must say that all such like divinations are superstitious and unlawful, if they be extended beyond the limits set according to the order of nature or of divine providence.
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Augustine [*QQ. in Genes., qu. cxlv], when Joseph said that there was no one like him in the science of divining, he spoke in joke and not seriously, referring perhaps to the common opinion about him: in this sense also spoke his steward.
 
 Reply to Objection 2: The passage quoted refers to the knowledge that birds have about things concerning them; and in order to know these things it is not unlawful to observe their cries and movements: thus from the frequent cawing of crows one might say that it will rain soon.
 
 Reply to Objection 3: Gedeon listened to the recital and interpretation of a dream, seeing therein an omen, ordered by divine providence for his instruction. In like manner Eliezer listened to the damsel's words, having previously prayed to God.
-# Whether Divination By Drawing Lots Is Unlawful?
+## Whether Divination By Drawing Lots Is Unlawful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that divination by drawing lots is not unlawful, because a gloss of Augustine on Ps. 30:16, "My lots are in Thy hands," says: "It is not wrong to cast lots, for it is a means of ascertaining the divine will when a man is in doubt."
 
@@ -200,7 +200,7 @@ Objection 2: There is, seemingly, nothing unlawful in the observances which the 
 
 Objection 3: Further, fighting with the fists, or "monomachy," i.e. single combat as it is called, and trial by fire and water, which are called "popular" trials, seem to come under the head of sortilege, because something unknown is sought by their means. Yet these practices seem to be lawful, because David is related to have engaged in single combat with the Philistine (1 Kings 17:32, sqq.). Therefore it would seem that divination by lot is not unlawful.
 
-## Answer
+### Answer
 
 On the contrary, It is written in the Decretals (XXVI, qu. v, can. Sortes): "We decree that the casting of lots, by which means you make up your mind in all your undertakings, and which the Fathers have condemned, is nothing but divination and witchcraft. For which reason we wish them to be condemned altogether, and henceforth not to be mentioned among Christians, and we forbid the practice thereof under pain of anathema."
 
@@ -218,6 +218,6 @@ If, however, there be urgent necessity it is lawful to seek the divine judgment 
 
 This suffices for the Reply to the First and Second Objections.
 
-## Replies
+### Replies
 
 Reply to Objection 3: The trial by hot iron or boiling water is directed to the investigation of someone's hidden sin, by means of something done by a man, and in this it agrees with the drawing of lots. But in so far as a miraculous result is expected from God, it surpasses the common generality of sortilege. Hence this kind of trial is rendered unlawful, both because it is directed to the judgment of the occult, which is reserved to the divine judgment, and because such like trials are not sanctioned by divine authority. Hence we read in a decree of Pope Stephen V [*II, qu. v., can. Consuluist i]: "The sacred canons do not approve of extorting a confession from anyone by means of the trial by hot iron or boiling water, and no one must presume, by a superstitious innovation, to practice what is not sanctioned by the teaching of the holy fathers. For it is allowable that public crimes should be judged by our authority, after the culprit has made spontaneous confession, or when witnesses have been approved, with due regard to the fear of God; but hidden and unknown crimes must be left to Him Who alone knows the hearts of the children of men." The same would seem to apply to the law concerning duels, save that it approaches nearer to the common kind of sortilege, since no miraculous effect is expected thereupon, unless the combatants be very unequal in strength or skill.

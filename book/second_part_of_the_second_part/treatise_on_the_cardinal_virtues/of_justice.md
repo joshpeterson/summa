@@ -13,9 +13,9 @@ We must now consider justice. Under this head there are twelve points of inquiry
 (10) Whether the mean of justice is the real mean?
 (11) Whether the act of justice is to render to everyone his own?
 (12) Whether justice is the chief of the moral virtues?
-# Whether Justice Is Fittingly Defined As Being The Perpetual And Constant Will To Render To Each One His Right?
+## Whether Justice Is Fittingly Defined As Being The Perpetual And Constant Will To Render To Each One His Right?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that lawyers have unfittingly defined justice as being "the perpetual and constant will to render to each one his right" [*Digest. i, 1; De Just. et Jure 10]. For, according to the Philosopher (Ethic. v, 1), justice is a habit which makes a man "capable of doing what is just, and of being just in action and in intention." Now "will" denotes a power, or also an act. Therefore justice is unfittingly defined as being a will.
 
@@ -29,7 +29,7 @@ Objection 5: Further, it belongs to the sovereign to give each one his right. Th
 
 Objection 6: Further, Augustine says (De Moribus Eccl. xv) that "justice is love serving God alone." Therefore it does not render to each one his right.
 
-## Answer
+### Answer
 
 
 
@@ -39,7 +39,7 @@ Now in order that an act bearing upon any matter whatever be virtuous, it requir
 
 Accordingly, this is a complete definition of justice; save that the act is mentioned instead of the habit, which takes its species from that act, because habit implies relation to act. And if anyone would reduce it to the proper form of a definition, he might say that "justice is a habit whereby a man renders to each one his due by a constant and perpetual will": and this is about the same definition as that given by the Philosopher (Ethic. v, 5) who says that "justice is a habit whereby a man is said to be capable of doing just actions in accordance with his choice."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Will here denotes the act, not the power: and it is customary among writers to define habits by their acts: thus Augustine says (Tract. in Joan. xl) that "faith is to believe what one sees not."
 
@@ -52,9 +52,9 @@ Reply to Objection 4: Since "perpetual" does not imply perpetuity of the act of 
 Reply to Objection 5: A judge renders to each one what belongs to him, by way of command and direction, because a judge is the "personification of justice," and "the sovereign is its guardian" (Ethic. v, 4). On the other hand, the subjects render to each one what belongs to him, by way of execution.
 
 Reply to Objection 6: Just as love of God includes love of our neighbor, as stated above ([2842]Q[25], A[1]), so too the service of God includes rendering to each one his due.
-# Whether Justice Is Always Towards One Another?
+## Whether Justice Is Always Towards One Another?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that justice is not always towards another. For the Apostle says (Rom. 3:22) that "the justice of God is by faith of Jesus Christ." Now faith does not concern the dealings of one man with another. Neither therefore does justice.
 
@@ -64,22 +64,22 @@ Objection 3: Further, the justice of God is eternal. But nothing else is co-eter
 
 Objection 4: Further, man's dealings with himself need to be rectified no less than his dealings with another. Now man's dealings are rectified by justice, according to Prov. 11:5, "The justice of the upright shall make his way prosperous." Therefore justice is about our dealings not only with others, but also with ourselves.
 
-## Answer
+### Answer
 
 On the contrary, Tully says (De Officiis i, 7) that "the object of justice is to keep men together in society and mutual intercourse." Now this implies relationship of one man to another. Therefore justice is concerned only about our dealings with others.
 
 I answer that, As stated above (Q[57], A[1]) since justice by its name implies equality, it denotes essentially relation to another, for a thing is equal, not to itself, but to another. And forasmuch as it belongs to justice to rectify human acts, as stated above (Q[57], A[1]; [2843]FS, Q[113], A[1]) this otherness which justice demands must needs be between beings capable of action. Now actions belong to supposits [*Cf. [2844]FP, Q[29], A[2]] and wholes and, properly speaking, not to parts and forms or powers, for we do not say properly that the hand strikes, but a man with his hand, nor that heat makes a thing hot, but fire by heat, although such expressions may be employed metaphorically. Hence, justice properly speaking demands a distinction of supposits, and consequently is only in one man towards another. Nevertheless in one and the same man we may speak metaphorically of his various principles of action such as the reason, the irascible, and the concupiscible, as though they were so many agents: so that metaphorically in one and the same man there is said to be justice in so far as the reason commands the irascible and concupiscible, and these obey reason; and in general in so far as to each part of man is ascribed what is becoming to it. Hence the Philosopher (Ethic. v, 11) calls this "metaphorical justice."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The justice which faith works in us, is that whereby the ungodly is justified it consists in the due coordination of the parts of the soul, as stated above ([2845]FS, Q[113], A[1]) where we were treating of the justification of the ungodly. Now this belongs to metaphorical justice, which may be found even in a man who lives all by himself.
 
 Reply to Objection 3: God's justice is from eternity in respect of the eternal will and purpose (and it is chiefly in this that justice consists); although it is not eternal as regards its effect, since nothing is co-eternal with God.
 
 Reply to Objection 4: Man's dealings with himself are sufficiently rectified by the rectification of the passions by the other moral virtues. But his dealings with others need a special rectification, not only in relation to the agent, but also in relation to the person to whom they are directed. Hence about such dealings there is a special virtue, and this is justice.
-# Whether Justice Is A Virtue?
+## Whether Justice Is A Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that justice is not a virtue. For it is written (Lk. 17:10): "When you shall have done all these things that are commanded you, say: We are unprofitable servants; we have done that which we ought to do." Now it is not unprofitable to do a virtuous deed: for Ambrose says (De Officiis ii, 6): "We look to a profit that is estimated not by pecuniary gain but by the acquisition of godliness." Therefore to do what one ought to do, is not a virtuous deed. And yet it is an act of justice. Therefore justice is not a virtue.
 
@@ -87,22 +87,22 @@ Objection 2: Further, that which is done of necessity, is not meritorious. But t
 
 Objection 3: Further, every moral virtue is about matters of action. Now those things which are wrought externally are not things concerning behavior but concerning handicraft, according to the Philosopher (Metaph. ix) [*Didot ed., viii, 8]. Therefore since it belongs to justice to produce externally a deed that is just in itself, it seems that justice is not a moral virtue.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. ii, 49) that "the entire structure of good works is built on four virtues," viz. temperance, prudence, fortitude and justice
 
 I answer that, A human virtue is one "which renders a human act and man himself good" [*Ethic. ii, 6], and this can be applied to justice. For a man's act is made good through attaining the rule of reason, which is the rule whereby human acts are regulated. Hence, since justice regulates human operations, it is evident that it renders man's operations good, and, as Tully declares (De Officiis i, 7), good men are so called chiefly from their justice, wherefore, as he says again (De Officiis i, 7) "the luster of virtue appears above all in justice."
 
-## Replies
+### Replies
 
 Reply to Objection 1: When a man does what he ought, he brings no gain to the person to whom he does what he ought, but only abstains from doing him a harm. He does however profit himself, in so far as he does what he ought, spontaneously and readily, and this is to act virtuously. Hence it is written (Wis. 8:7) that Divine wisdom "teacheth temperance, and prudence, and justice, and fortitude, which are such things as men (i.e. virtuous men) can have nothing more profitable in life."
 
 Reply to Objection 2: Necessity is twofold. One arises from "constraint," and this removes merit, since it runs counter to the will. The other arises from the obligation of a "command," or from the necessity of obtaining an end, when, to wit, a man is unable to achieve the end of virtue without doing some particular thing. The latter necessity does not remove merit, when a man does voluntarily that which is necessary in this way. It does however exclude the credit of supererogation, according to 1 Cor. 9:16, "If I preach the Gospel, it is no glory to me, for a necessity lieth upon me."
 
 Reply to Objection 3: Justice is concerned about external things, not by making them, which pertains to art, but by using them in our dealings with other men.
-# Whether Justice Is In The Will As Its Subject?
+## Whether Justice Is In The Will As Its Subject?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that justice is not in the will as its subject. For justice is sometimes called truth. But truth is not in the will, but in the intellect. Therefore justice is not in the will as its subject.
 
@@ -110,7 +110,7 @@ Objection 2: Further, justice is about our dealings with others. Now it belongs 
 
 Objection 3: Further, justice is not an intellectual virtue, since it is not directed to knowledge; wherefore it follows that it is a moral virtue. Now the subject of moral virtue is the faculty which is "rational by participation," viz. the irascible and the concupiscible, as the Philosopher declares (Ethic. i, 13). Therefore justice is not in the will as its subject, but in the irascible and concupiscible.
 
-## Answer
+### Answer
 
 On the contrary, Anselm says (De Verit. xii) that "justice is rectitude of the will observed for its own sake."
 
@@ -118,16 +118,16 @@ I answer that, The subject of a virtue is the power whose act that virtue aims a
 
 Now the appetite is twofold; namely, the will which is in the reason and the sensitive appetite which follows on sensitive apprehension, and is divided into the irascible and the concupiscible, as stated in the [2846]FP, Q[81], A[2]. Again the act of rendering his due to each man cannot proceed from the sensitive appetite, because sensitive apprehension does not go so far as to be able to consider the relation of one thing to another; but this is proper to the reason. Therefore justice cannot be in the irascible or concupiscible as its subject, but only in the will: hence the Philosopher (Ethic. v, 1) defines justice by an act of the will, as may be seen above [2847](A[1]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since the will is the rational appetite, when the rectitude of the reason which is called truth is imprinted on the will on account of its nighness to the reason, this imprint retains the name of truth; and hence it is that justice sometimes goes by the name of truth.
 
 Reply to Objection 2: The will is borne towards its object consequently on the apprehension of reason: wherefore, since the reason directs one thing in relation to another, the will can will one thing in relation to another, and this belongs to justice.
 
 Reply to Objection 3: Not only the irascible and concupiscible parts are "rational by participation," but the entire "appetitive" faculty, as stated in Ethic. i, 13, because all appetite is subject to reason. Now the will is contained in the appetitive faculty, wherefore it can be the subject of moral virtue.
-# Whether Justice Is A General Virtue?
+## Whether Justice Is A General Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that justice is not a general virtue. For justice is specified with the other virtues, according to Wis. 8:7, "She teacheth temperance and prudence, and justice, and fortitude." Now the "general" is not specified or reckoned together with the species contained under the same "general." Therefore justice is not a general virtue.
 
@@ -135,22 +135,22 @@ Objection 2: Further, as justice is accounted a cardinal virtue, so are temperan
 
 Objection 3: Further, justice is always towards others, as stated above (A[2] ). But a sin committed against one's neighbor cannot be a general sin, because it is condivided with sin committed against oneself. Therefore neither is justice a general virtue.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. v, 1) that "justice is every virtue."
 
 I answer that, Justice, as stated above [2848](A[2]) directs man in his relations with other men. Now this may happen in two ways: first as regards his relation with individuals, secondly as regards his relations with others in general, in so far as a man who serves a community, serves all those who are included in that community. Accordingly justice in its proper acceptation can be directed to another in both these senses. Now it is evident that all who are included in a community, stand in relation to that community as parts to a whole; while a part, as such, belongs to a whole, so that whatever is the good of a part can be directed to the good of the whole. It follows therefore that the good of any virtue, whether such virtue direct man in relation to himself, or in relation to certain other individual persons, is referable to the common good, to which justice directs: so that all acts of virtue can pertain to justice, in so far as it directs man to the common good. It is in this sense that justice is called a general virtue. And since it belongs to the law to direct to the common good, as stated above ([2849]FS, Q[90], A[2]), it follows that the justice which is in this way styled general, is called "legal justice," because thereby man is in harmony with the law which directs the acts of all the virtues to the common good.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Justice is specified or enumerated with the other virtues, not as a general but as a special virtue, as we shall state further on ([2850]AA[7],12).
 
 Reply to Objection 2: Temperance and fortitude are in the sensitive appetite, viz. in the concupiscible and irascible. Now these powers are appetitive of certain particular goods, even as the senses are cognitive of particulars. On the other hand justice is in the intellective appetite as its subject, which can have the universal good as its object, knowledge whereof belongs to the intellect. Hence justice can be a general virtue rather than temperance or fortitude.
 
 Reply to Objection 3: Things referable to oneself are referable to another, especially in regard to the common good. Wherefore legal justice, in so far as it directs to the common good, may be called a general virtue: and in like manner injustice may be called a general sin; hence it is written (1 Jn. 3:4) that all "sin is iniquity."
-# Whether Justice, As A General Virtue, Is Essentially The Same As All Virtue?
+## Whether Justice, As A General Virtue, Is Essentially The Same As All Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that justice, as a general virtue, is essentially the same as all virtue. For the Philosopher says (Ethic. v, 1) that "virtue and legal justice are the same as all virtue, but differ in their mode of being." Now things that differ merely in their mode of being or logically do not differ essentially. Therefore justice is essentially the same as every virtue.
 
@@ -160,7 +160,7 @@ Objection 3: Further, the essence of a virtue does not change through that virtu
 
 Objection 4: Further, every good of a part can be directed to the good of the whole, so that if it be not thus directed it would seem without use or purpose. But that which is in accordance with virtue cannot be so. Therefore it seems that there can be no act of any virtue, that does not belong to general justice, which directs to the common good; and so it seems that general justice is essentially the same as all virtue.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. v, 1) that "many are able to be virtuous in matters affecting themselves, but are unable to be virtuous in matters relating to others," and (Polit. iii, 2) that "the virtue of the good man is not strictly the same as the virtue of the good citizen." Now the virtue of a good citizen is general justice, whereby a man Is directed to the common good. Therefore general justice is not the same as virtue in general, and it is possible to have one without the other.
 
@@ -170,14 +170,14 @@ However the name of legal justice can be given to every virtue, in so far as eve
 
 Wherefore the Replies to the First and Second Objections are manifest.
 
-## Replies
+### Replies
 
 Reply to Objection 3: This argument again takes legal justice for the virtue commanded by legal justice.
 
 Reply to Objection 4: Every virtue strictly speaking directs its act to that virtue's proper end: that it should happen to be directed to a further end either always or sometimes, does not belong to that virtue considered strictly, for it needs some higher virtue to direct it to that end. Consequently there must be one supreme virtue essentially distinct from every other virtue, which directs all the virtues to the common good; and this virtue is legal justice.
-# Whether There Is A Particular Besides A General Justice?
+## Whether There Is A Particular Besides A General Justice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is not a particular besides a general justice. For there is nothing superfluous in the virtues, as neither is there in nature. Now general justice directs man sufficiently in all his relations with other men. Therefore there is no need for a particular justice.
 
@@ -185,22 +185,22 @@ Objection 2: Further, the species of a virtue does not vary according to "one" a
 
 Objection 3: Further, between the individual and the general public stands the household community. Consequently, if in addition to general justice there is a particular justice corresponding to the individual, for the same reason there should be a domestic justice directing man to the common good of a household: and yet this is not the case. Therefore neither should there be a particular besides a legal justice.
 
-## Answer
+### Answer
 
 On the contrary, Chrysostom in his commentary on Mat. 5:6, "Blessed are they that hunger and thirst after justice," says (Hom. xv in Matth.): "By justice He signifies either the general virtue, or the particular virtue which is opposed to covetousness."
 
 I answer that, As stated above [2853](A[6]), legal justice is not essentially the same as every virtue, and besides legal justice which directs man immediately to the common good, there is a need for other virtues to direct him immediately in matters relating to particular goods: and these virtues may be relative to himself or to another individual person. Accordingly, just as in addition to legal justice there is a need for particular virtues to direct man in relation to himself, such as temperance and fortitude, so too besides legal justice there is need for particular justice to direct man in his relations to other individuals.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Legal justice does indeed direct man sufficiently in his relations towards others. As regards the common good it does so immediately, but as to the good of the individual, it does so mediately. Wherefore there is need for particular justice to direct a man immediately to the good of another individual.
 
 Reply to Objection 2: The common good of the realm and the particular good of the individual differ not only in respect of the "many" and the "few," but also under a formal aspect. For the aspect of the "common" good differs from the aspect of the "individual" good, even as the aspect of "whole" differs from that of "part." Wherefore the Philosopher says (Polit. i, 1) that "they are wrong who maintain that the State and the home and the like differ only as many and few and not specifically."
 
 Reply to Objection 3: The household community, according to the Philosopher (Polit. i, 2), differs in respect of a threefold fellowship; namely "of husband and wife, father and son, master and slave," in each of which one person is, as it were, part of the other. Wherefore between such persons there is not justice simply, but a species of justice, viz. "domestic" justice, as stated in Ethic. v, 6.
-# Whether Particular Justice Has A Special Matter?
+## Whether Particular Justice Has A Special Matter?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that particular justice has no special matter. Because a gloss on Gn. 2:14, "The fourth river is Euphrates," says: "Euphrates signifies 'fruitful'; nor is it stated through what country it flows, because justice pertains to all the parts of the soul." Now this would not be the case, if justice had a special matter, since every special matter belongs to a special power. Therefore particular justice has no special matter.
 
@@ -208,22 +208,22 @@ Objection 2: Further, Augustine says (QQ. lxxxiii, qu. 61) that "the soul has fo
 
 Objection 3: Further, justice directs man sufficiently in matters relating to others. Now a man can be directed to others in all matters relating to this life. Therefore the matter of justice is general and not special.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher reckons (Ethic. v, 2) particular justice to be specially about those things which belong to social life.
 
 I answer that, Whatever can be rectified by reason is the matter of moral virtue, for this is defined in reference to right reason, according to the Philosopher (Ethic. ii, 6). Now the reason can rectify not only the internal passions of the soul, but also external actions, and also those external things of which man can make use. And yet it is in respect of external actions and external things by means of which men can communicate with one another, that the relation of one man to another is to be considered; whereas it is in respect of internal passions that we consider man's rectitude in himself. Consequently, since justice is directed to others, it is not about the entire matter of moral virtue, but only about external actions and things, under a certain special aspect of the object, in so far as one man is related to another through them.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is true that justice belongs essentially to one part of the soul, where it resides as in its subject; and this is the will which moves by its command all the other parts of the soul; and accordingly justice belongs to all the parts of the soul, not directly but by a kind of diffusion.
 
 Reply to Objection 2: As stated above ([2854]FS, Q[61], AA[3],4), the cardinal virtues may be taken in two ways: first as special virtues, each having a determinate matter; secondly, as certain general modes of virtue. In this latter sense Augustine speaks in the passage quoted: for he says that "prudence is knowledge of what we should seek and avoid, temperance is the curb on the lust for fleeting pleasures, fortitude is strength of mind in bearing with passing trials, justice is the love of God and our neighbor which pervades the other virtues, that is to say, is the common principle of the entire order between one man and another."
 
 Reply to Objection 3: A man's internal passions which are a part of moral matter, are not in themselves directed to another man, which belongs to the specific nature of justice; yet their effects, i.e. external actions, are capable of being directed to another man. Consequently it does not follow that the matter of justice is general.
-# Whether Justice Is About The Passions?
+## Whether Justice Is About The Passions?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that justice is about the passions. For the Philosopher says (Ethic. ii, 3) that "moral virtue is about pleasure and pain." Now pleasure or delight, and pain are passions, as stated above [*[2855]FS, Q[23], A[4]; [2856]FS, Q[31], A[1]; [2857]FS, Q[35], A[1]] when we were treating of the passions. Therefore justice, being a moral virtue, is about the passions.
 
@@ -231,22 +231,22 @@ Objection 2: Further, justice is the means of rectifying a man's operations in r
 
 Objection 3: Further, even as particular justice is towards another person so is legal justice. Now legal justice is about the passions, else it would not extend to all the virtues, some of which are evidently about the passions. Therefore justice is about the passions.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. v, 1) that justice is about operations.
 
 I answer that, The true answer to this question may be gathered from a twofold source. First from the subject of justice, i.e. from the will, whose movements or acts are not passions, as stated above ([2858]FS, Q[22], A[3]; [2859]FS, Q[59], A[4]), for it is only the sensitive appetite whose movements are called passions. Hence justice is not about the passions, as are temperance and fortitude, which are in the irascible and concupiscible parts. Secondly, on he part of the matter, because justice is about man's relations with another, and we are not directed immediately to another by the internal passions. Therefore justice is not about the passions.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not every moral virtue is about pleasure and pain as its proper matter, since fortitude is about fear and daring: but every moral virtue is directed to pleasure and pain, as to ends to be acquired, for, as the Philosopher says (Ethic. vii, 11), "pleasure and pain are the principal end in respect of which we say that this is an evil, and that a good": and in this way too they belong to justice, since "a man is not just unless he rejoice in just actions" (Ethic. i, 8).
 
 Reply to Objection 2: External operations are as it were between external things, which are their matter, and internal passions, which are their origin. Now it happens sometimes that there is a defect in one of these, without there being a defect in the other. Thus a man may steal another's property, not through the desire to have the thing, but through the will to hurt the man; or vice versa, a man may covet another's property without wishing to steal it. Accordingly the directing of operations in so far as they tend towards external things, belongs to justice, but in so far as they arise from the passions, it belongs to the other moral virtues which are about the passions. Hence justice hinders theft of another's property, in so far as stealing is contrary to the, equality that should be maintained in external things, while liberality hinders it as resulting from an immoderate desire for wealth. Since, however, external operations take their species, not from the internal passions but from external things as being their objects, it follows that, external operations are essentially the matter of justice rather than of the other moral virtues.
 
 Reply to Objection 3: The common good is the end of each individual member of a community, just as the good of the whole is the end of each part. On the other hand the good of one individual is not the end of another individual: wherefore legal justice which is directed to the common good, is more capable of extending to the internal passions whereby man is disposed in some way or other in himself, than particular justice which is directed to the good of another individual: although legal justice extends chiefly to other virtues in the point of their external operations, in so far, to wit, as "the law commands us to perform the actions of a courageous person . . . the actions of a temperate person . . . and the actions of a gentle person" (Ethic. v, 5).
-# Whether The Mean Of Justice Is The Real Mean?
+## Whether The Mean Of Justice Is The Real Mean?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the mean of justice is not the real mean. For the generic nature remains entire in each species. Now moral virtue is defined (Ethic. ii, 6) to be "an elective habit which observes the mean fixed, in our regard, by reason." Therefore justice observes the rational and not the real mean.
 
@@ -254,7 +254,7 @@ Objection 2: Further, in things that are good simply, there is neither excess no
 
 Objection 3: Further, the reason why the other virtues are said to observe the rational and not the real mean, is because in their case the mean varies according to different persons, since what is too much for one is too little for another (Ethic. ii, 6). Now this is also the case in justice: for one who strikes a prince does not receive the same punishment as one who strikes a private individual. Therefore justice also observes, not the real, but the rational mean.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. ii, 6; v, 4) that the mean of justice is to be taken according to "arithmetical" proportion, so that it is the real mean.
 
@@ -262,16 +262,16 @@ I answer that, As stated above [2860](A[9]; [2861]FS, Q[59], A[4]), the other mo
 
 On the other hand, the matter of justice is external operation, in so far as an operation or the thing used in that operation is duly proportionate to another person, wherefore the mean of justice consists in a certain proportion of equality between the external thing and the external person. Now equality is the real mean between greater and less, as stated in Metaph. x [*Didot ed., ix, 5; Cf. Ethic. v, 4]: wherefore justice observes the real mean.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This real mean is also the rational mean, wherefore justice satisfies the conditions of a moral virtue.
 
 Reply to Objection 2: We may speak of a thing being good simply in two ways. First a thing may be good in every way: thus the virtues are good; and there is neither mean nor extremes in things that are good simply in this sense. Secondly a thing is said to be good simply through being good absolutely i.e. in its nature, although it may become evil through being abused. Such are riches and honors; and in the like it is possible to find excess, deficiency and mean, as regards men who can use them well or ill: and it is in this sense that justice is about things that are good simply.
 
 Reply to Objection 3: The injury inflicted bears a different proportion to a prince from that which it bears to a private person: wherefore each injury requires to be equalized by vengeance in a different way: and this implies a real and not merely a rational diversity.
-# Whether The Act Of Justice Is To Render To Each One His Own?
+## Whether The Act Of Justice Is To Render To Each One His Own?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the act of justice is not to render to each one his own. For Augustine (De Trin. xiv, 9) ascribes to justice the act of succoring the needy. Now in succoring the needy we give them what is not theirs but ours. Therefore the act of justice does not consist in rendering to each one his own.
 
@@ -279,20 +279,20 @@ Objection 2: Further, Tully says (De Offic. i, 7) that "beneficence which we may
 
 Objection 3: Further, it belongs to justice not only to distribute things duly, but also to repress injurious actions, such as murder, adultery and so forth. But the rendering to each one of what is his seems to belong solely to the distribution of things. Therefore the act of justice is not sufficiently described by saying that it consists in rendering to each one his own.
 
-## Answer
+### Answer
 
 On the contrary, Ambrose says (De Offic. i, 24): "It is justice that renders to each one what is his, and claims not another's property; it disregards its own profit in order to preserve the common equity."
 
 I answer that, As stated above ([2862]AA[8],10), the matter of justice is an external operation in so far as either it or the thing we use by it is made proportionate to some other person to whom we are related by justice. Now each man's own is that which is due to him according to equality of proportion. Therefore the proper act of justice is nothing else than to render to each one his own.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since justice is a cardinal virtue, other secondary virtues, such as mercy, liberality and the like are connected with it, as we shall state further on ([2863]Q[80], A[1]). Wherefore to succor the needy, which belongs to mercy or pity, and to be liberally beneficent, which pertains to liberality, are by a kind of reduction ascribed to justice as to their principal virtue.
 
 Reply to Objection 3: As the Philosopher states (Ethic. v, 4), in matters of justice, the name of "profit" is extended to whatever is excessive, and whatever is deficient is called "loss." The reason for this is that justice is first of all and more commonly exercised in voluntary interchanges of things, such as buying and selling, wherein those expressions are properly employed; and yet they are transferred to all other matters of justice. The same applies to the rendering to each one of what is his own.
-# Whether Justice Stands Foremost Among All Moral Virtues?
+## Whether Justice Stands Foremost Among All Moral Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that justice does not stand foremost among all the moral virtues. Because it belongs to justice to render to each one what is his, whereas it belongs to liberality to give of one's own, and this is more virtuous. Therefore liberality is a greater virtue than justice.
 
@@ -300,13 +300,13 @@ Objection 2: Further, nothing is adorned by a less excellent thing than itself. 
 
 Objection 3: Further, virtue is about that which is "difficult" and "good," as stated in Ethic. ii, 3. But fortitude is about more difficult things than justice is, since it is about dangers of death, according to Ethic. iii, 6. Therefore fortitude is more excellent than justice.
 
-## Answer
+### Answer
 
 On the contrary, Tully says (De Offic. i, 7): "Justice is the most resplendent of the virtues, and gives its name to a good man."
 
 I answer that, If we speak of legal justice, it is evident that it stands foremost among all the moral virtues, for as much as the common good transcends the individual good of one person. In this sense the Philosopher declares (Ethic. v, 1) that "the most excellent of the virtues would seem to be justice, and more glorious than either the evening or the morning star." But, even if we speak of particular justice, it excels the other moral virtues for two reasons. The first reason may be taken from the subject, because justice is in the more excellent part of the soul, viz. the rational appetite or will, whereas the other moral virtues are in the sensitive appetite, whereunto appertain the passions which are the matter of the other moral virtues. The second reason is taken from the object, because the other virtues are commendable in respect of the sole good of the virtuous person himself, whereas justice is praiseworthy in respect of the virtuous person being well disposed towards another, so that justice is somewhat the good of another person, as stated in Ethic. v, 1. Hence the Philosopher says (Rhet. i, 9): "The greatest virtues must needs be those which are most profitable to other persons, because virtue is a faculty of doing good to others. For this reason the greatest honors are accorded the brave and the just, since bravery is useful to others in warfare, and justice is useful to others both in warfare and in time of peace."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the liberal man gives of his own, yet he does so in so far as he takes into consideration the good of his own virtue, while the just man gives to another what is his, through consideration of the common good. Moreover justice is observed towards all, whereas liberality cannot extend to all. Again liberality which gives of a man's own is based on justice, whereby one renders to each man what is his.
 

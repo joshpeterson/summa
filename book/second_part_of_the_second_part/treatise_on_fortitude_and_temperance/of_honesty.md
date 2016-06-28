@@ -5,9 +5,9 @@
 (2) Its relation with the beautiful [*As honesty here denotes moral goodness, so beauty stands for moral beauty];
 (3) Its relation with the useful and the pleasant;
 (4) Whether honesty is a part of temperance?
-# Whether Honesty Is The Same As Virtue?
+## Whether Honesty Is The Same As Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that honesty is not the same as virtue. For Tully says (De Invent. Rhet. ii, 53) that "the honest is what is desired for its own sake." Now virtue is desired, not for its own sake, but for the sake of happiness, for the Philosopher says (Ethic. i, 9) that "happiness is the reward and the end of virtue." Therefore honesty is not the same as virtue.
 
@@ -17,13 +17,13 @@ Objection 3: Further, the "principal part of virtue is the interior choice," as 
 
 Objection 4: Further, honesty apparently consists in external wealth. According to Ecclus. 11:14, "good things and evil, life and death [poverty and riches] are from God" [*The words in brackets are omitted in the Leonine edition. For riches the Vulgate has 'honestas']. But virtue does not consist in external wealth. Therefore honesty is not the same as virtue.
 
-## Answer
+### Answer
 
 On the contrary, Tully (De Offic. i, 5; Rhet. ii, 53) divides honesty into the four principal virtues, into which virtue is also divided. Therefore honesty is the same as virtue.
 
 I answer that, As Isidore says (Etym. x) "honesty means an honorable state," wherefore a thing may be said to be honest through being worthy of honor. Now honor, as stated above ([3466]Q[144], A[2], ad 2), is due to excellence: and the excellence of a man is gauged chiefly according to his virtue, as stated in Phys. vii, 17. Therefore, properly speaking, honesty refers to the same thing as virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to the Philosopher (Ethic. i, 7), of those things that are desired for their own sake, some are desired for their own sake alone, and never for the sake of something else, such as happiness which is the last end; while some are desired, not only for their own sake, inasmuch as they have an aspect of goodness in themselves, even if no further good accrued to us through them, but also for the sake of something else, inasmuch as they are conducive to some more perfect good. It is thus that the virtues are desirable for their own sake: wherefore Tully says (De Invent. Rhet. ii, 52) that "some things allure us by their own force, and attract us by their own worth, such as virtue, truth, knowledge." And this suffices to give a thing the character of honest.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: Some of the things which are honored besides virtue are mo
 Reply to Objection 3: As we have stated honest denotes that to which honor is due. Now honor is an attestation to someone's excellence, as stated above ([3467]Q[103], AA[1],2). But one attests only to what one knows; and the internal choice is not made known save by external actions. Wherefore external conduct has the character of honesty, in so far as it reflects internal rectitude. For this reason honesty consists radically in the internal choice, but its expression lies in the external conduct.
 
 Reply to Objection 4: It is because the excellence of wealth is commonly regarded as making a man deserving of honor, that sometimes the name of honesty is given to external prosperity.
-# Whether The Honest Is The Same As The Beautiful?
+## Whether The Honest Is The Same As The Beautiful?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the honest is not the same as the beautiful. For the aspect of honest is derived from the appetite, since the honest is "what is desirable for its own sake" [*Cicero, De Invent. Rhet. ii, 53]. But the beautiful regards rather the faculty of vision to which it is pleasing. Therefore the beautiful is not the same as the honest.
 
@@ -42,22 +42,22 @@ Objection 2: Further, beauty requires a certain clarity, which is characteristic
 
 Objection 3: Further, honesty is the same as virtue, as stated above [3469](A[1]). But a certain beauty is contrary to virtue, wherefore it is written (Ezech. 16:15): "Trusting in thy beauty thou playest the harlot because of thy renown." Therefore the honest is not the same as the beautiful.
 
-## Answer
+### Answer
 
 On the contrary, The Apostle says (1 Cor. 12:23,24): "Those that are our uncomely [inhonesta] parts, have more abundant comeliness [honestatem], but our comely [honesta] parts have no need." Now by uncomely parts he means the baser members, and by comely parts the beautiful members. Therefore the honest and the beautiful are apparently the same.
 
 I answer that, As may be gathered from the words of Dionysius (Div. Nom. iv), beauty or comeliness results from the concurrence of clarity and due proportion. For he states that God is said to be beautiful, as being "the cause of the harmony and clarity of the universe." Hence the beauty of the body consists in a man having his bodily limbs well proportioned, together with a certain clarity of color. In like manner spiritual beauty consists in a man's conduct or actions being well proportioned in respect of the spiritual clarity of reason. Now this is what is meant by honesty, which we have stated [3470](A[1]) to be the same as virtue; and it is virtue that moderates according to reason all that is connected with man. Wherefore "honesty is the same as spiritual beauty." Hence Augustine says (QQ[83], qu. 30): "By honesty I mean intelligible beauty, which we properly designate as spiritual," and further on he adds that "many things are beautiful to the eye, which it would be hardly proper to call honest."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The object that moves the appetite is an apprehended good. Now if a thing is perceived to be beautiful as soon as it is apprehended, it is taken to be something becoming and good. Hence Dionysius says (Div. Nom. iv) that "the beautiful and the good are beloved by all." Wherefore the honest, inasmuch as it implies spiritual beauty, is an object of desire, and for this reason Tully says (De Offic. i, 5): "Thou perceivest the form and the features, so to speak, of honesty; and were it to be seen with the eye, would, as Plato declares, arouse a wondrous love of wisdom."
 
 Reply to Objection 2: As stated above ([3471]Q[103], A[1], ad 3), glory is the effect of honor: because through being honored or praised, a person acquires clarity in the eyes of others. Wherefore, just as the same thing makes a man honorable and glorious, so is the same thing honest and beautiful.
 
 Reply to Objection 3: This argument applies to the beauty of the body: although it might be replied that to be proud of one's honesty is to play the harlot because of one's spiritual beauty, according to Ezech. 28:17, "Thy heart was lifted up with thy beauty, thou hast lost thy wisdom in thy beauty."
-# Whether The Honest Differs From The Useful And The Pleasant?
+## Whether The Honest Differs From The Useful And The Pleasant?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the honest does not differ from the useful and the pleasant. For the honest is "what is desirable for its own sake" [*Cicero, De Invent. Rhet. ii, 53]. Now pleasure is desired for its own sake, for "it seems ridiculous to ask a man why he wishes to be pleased," as the Philosopher remarks (Ethic. x, 2). Therefore the honest does not differ from the pleasant.
 
@@ -65,7 +65,7 @@ Objection 2: Further, riches are comprised under the head of useful good: for Tu
 
 Objection 3: Further, Tully proves (De Offic. ii, 3) that nothing can be useful unless it be honest: and Ambrose makes the same statement (De Offic. ii, 6). Therefore the useful differs not from the honest.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (Q[83], qu. 30): "The honest is that which is desirable for its own sake: the useful implies reference to something else."
 
@@ -73,16 +73,16 @@ I answer that, The honest concurs in the same subject with the useful and the pl
 
 Nevertheless they differ in aspect. For a thing is said to be honest as having a certain excellence deserving of honor on account of its spiritual beauty: while it is said to be pleasing, as bringing rest to desire, and useful, as referred to something else. The pleasant, however, extends to more things than the useful and the honest: since whatever is useful and honest is pleasing in some respect, whereas the converse does not hold (Ethic. ii, 3).
 
-## Replies
+### Replies
 
 Reply to Objection 1: A thing is said to be honest, if it is desired for its own sake by the rational appetite. which tends to that which is in accordance with reason: while a thing is said to be pleasant if it is desired for its own sake by the sensitive appetite.
 
 Reply to Objection 2: Riches are denominated honesty according of the opinion of the many who honor wealth: or because they are intended to be the instruments of virtuous deeds, as stated above (A[1], ad 2).
 
 Reply to Objection 3: Tully and Ambrose mean to say that nothing incompatible with honesty can be simply and truly useful, since it follows that it is contrary to man's last end, which is a good in accordance with reason; although it may perhaps be useful in some respect, with regard to a particular end. But they do not mean to say that every useful thing as such may be classed among those that are honest.
-# Whether Honesty Should Be Reckoned A Part Of Temperance?
+## Whether Honesty Should Be Reckoned A Part Of Temperance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that honesty should not be reckoned a part of temperance. For it is not possible for a thing to be part and whole in respect of one same thing. Now "temperance is a part of honesty," according to Tully (De Invent. Rhet. ii, 53). Therefore honesty is not a part of temperance.
 
@@ -90,13 +90,13 @@ Objection 2: Further, it is stated (3 Esdra 3:21) that "wine . . . makes all tho
 
 Objection 3: Further, the honest is that which is deserving of honor. Now "it is the just and the brave who receive most honor," according to the Philosopher (Rhet. i, 9). Therefore honesty pertains, not to temperance, but rather to justice and fortitude: wherefore Eleazar said as related in 2 Macc. 6:28: "I suffer an honorable [honesta] death, for the most venerable and most holy laws."
 
-## Answer
+### Answer
 
 On the contrary, Macrobius [*In Somn. Scip. i] reckons honesty a part of temperance, and Ambrose (De Offic. i, 43) ascribes honesty as pertaining especially to temperance.
 
 I answer that, As stated above [3473](A[2]), honesty is a kind of spiritual beauty. Now the disgraceful is opposed to the beautiful: and opposites are most manifest of one another. Wherefore seemingly honesty belongs especially to temperance, since the latter repels that which is most disgraceful and unbecoming to man, namely animal lusts. Hence by its very name temperance is most significative of the good of reason to which it belongs to moderate and temper evil desires. Accordingly honesty, as being ascribed for a special reason to temperance, is reckoned as a part thereof, not as a subjective part, nor as an annexed virtue, but as an integral part or condition attaching thereto.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Temperance is accounted a subjective part of honesty taken in a wide sense: it is not thus that the latter is reckoned a part of temperance.
 

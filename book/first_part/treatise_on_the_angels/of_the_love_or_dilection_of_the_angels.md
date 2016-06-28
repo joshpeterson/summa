@@ -6,9 +6,9 @@ The next subject for our consideration is that act of the will which is love or 
 (3) Whether the angel loves himself with natural love or with love of choice?
 (4) Whether one angel loves another with natural love as he loves himself?
 (5) Whether the angel loves God more than self with natural love?
-# Whether There Is Natural Love Or Dilection In An Angel?
+## Whether There Is Natural Love Or Dilection In An Angel?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no natural love or dilection in the angels. For, natural love is contradistinguished from intellectual love, as stated by Dionysius (Div. Nom. iv). But an angel's love is intellectual. Therefore it is not natural.
 
@@ -16,28 +16,28 @@ Objection 2: Further, those who love with natural love are more acted upon than 
 
 Objection 3: Further, every love is either ordinate or inordinate. Now ordinate love belongs to charity; while inordinate love belongs to wickedness. But neither of these belongs to nature; because charity is above nature, while wickedness is against nature. Therefore there is no natural love in the angels.
 
-## Answer
+### Answer
 
 On the contrary, Love results from knowledge; for, nothing is loved except it be first known, as Augustine says (De Trin. x, 1,2). But there is natural knowledge in the angels. Therefore there is also natural love.
 
 I answer that, We must necessarily place natural love in the angels. In evidence of this we must bear in mind that what comes first is always sustained in what comes after it. Now nature comes before intellect, because the nature of every subject is its essence. Consequently whatever belongs to nature must be preserved likewise in such subjects as have intellect. But it is common to every nature to have some inclination; and this is its natural appetite or love. This inclination is found to exist differently in different natures; but in each according to its mode. Consequently, in the intellectual nature there is to be found a natural inclination coming from the will; in the sensitive nature, according to the sensitive appetite; but in a nature devoid of knowledge, only according to the tendency of the nature to something. Therefore, since an angel is an intellectual nature, there must be a natural love in his will.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Intellectual love is contradistinguished from that natural love, which is merely natural, in so far as it belongs to a nature which has not likewise the perfection of either sense or intellect.
 
 Reply to Objection 2: All things in the world are moved to act by something else except the First Agent, Who acts in such a manner that He is in no way moved to act by another; and in Whom nature and will are the same. So there is nothing unfitting in an angel being moved to act in so far as such natural inclination is implanted in him by the Author of his nature. Yet he is not so moved to act that he does not act himself, because he has free-will.
 
 Reply to Objection 3: As natural knowledge is always true, so is natural love well regulated; because natural love is nothing else than the inclination implanted in nature by its Author. To say that a natural inclination is not well regulated, is to derogate from the Author of nature. Yet the rectitude of natural love is different from the rectitude of charity and virtue: because the one rectitude perfects the other; even so the truth of natural knowledge is of one kind, and the truth of infused or acquired knowledge is of another.
-# Whether There Is Love Of Choice In The Angels?
+## Whether There Is Love Of Choice In The Angels?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no love of choice in the angels. For love of choice appears to be rational love; since choice follows counsel, which lies in inquiry, as stated in Ethic. iii, 3. Now rational love is contrasted with intellectual, which is proper to angels, as is said (Div. Nom. iv). Therefore there is no love of choice in the angels.
 
 Objection 2: Further, the angels have only natural knowledge besides such as is infused: since they do not proceed from principles to acquire the knowledge of conclusions. Hence they are disposed to everything they can know, as our intellect is disposed towards first principles, which it can know naturally. Now love follows knowledge, as has been already stated [525](A[1]; [526]Q[16], A[1]). Consequently, besides their infused love, there is only natural love in the angels. Therefore there is no love of choice in them.
 
-## Answer
+### Answer
 
 On the contrary, We neither merit nor demerit by our natural acts. But by their love the angels merit or demerit. Therefore there is love of choice in them.
 
@@ -49,12 +49,12 @@ There is however a difference on the part of the intellect and on the part of th
 
 In saying all this, we are passing over all that regards things which are above nature, since nature is not the sufficient principle thereof: but we shall speak of them later on [528](Q[62]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Not all love of choice is rational love, according as rational is distinguished from intellectual love. For rational love is so called which follows deductive knowledge: but, as was said above ([529]Q[59], A[3], ad 1), when treating of free-will, every choice does not follow a discursive act of the reason; but only human choice. Consequently the conclusion does not follow.
-# Whether The Angel Loves Himself With Both Natural Love, And Love Of Choice?
+## Whether The Angel Loves Himself With Both Natural Love, And Love Of Choice?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angel does not love himself both with natural love and a love of choice. For, as was said [530](A[2]), natural love regards the end itself; while love of choice regards the means to the end. But the same thing, with regard to the same, cannot be both the end and a means to the end. Therefore natural love and the love of choice cannot have the same object.
 
@@ -62,7 +62,7 @@ Objection 2: Further, as Dionysius observes (Div. Nom. iv): "Love is a uniting a
 
 Objection 3: Further, love is a kind of movement. But every movement tends towards something else. Therefore it seems that an angel cannot love himself with either natural or elective love.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. ix, 8): "Love for others comes of love for oneself."
 
@@ -70,16 +70,16 @@ I answer that, Since the object of love is good, and good is to be found both in
 
 Now it is manifest that in things devoid of knowledge, everything naturally seeks to procure what is good for itself; as fire seeks to mount upwards. Consequently both angel and man naturally seek their own good and perfection. This is to love self. Hence angel and man naturally love self, in so far as by natural appetite each desires what is good for self. On the other hand, each loves self with the love of choice, in so far as from choice he wishes for something which will benefit himself.
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is not under the same but under quite different aspects that an angel or a man loves self with natural and with elective love, as was observed above.
 
 Reply to Objection 2: As to be one is better than to be united, so there is more oneness in love which is directed to self than in love which unites one to others. Dionysius used the terms "uniting" and "binding" in order to show the derivation of love from self to things outside self; as uniting is derived from unity.
 
 Reply to Objection 3: As love is an action which remains within the agent, so also is it a movement which abides within the lover, but does not of necessity tend towards something else; yet it can be reflected back upon the lover so that he loves himself; just as knowledge is reflected back upon the knower, in such a way that he knows himself.
-# Whether An Angel Loves Another With Natural Love As He Loves Himself?
+## Whether An Angel Loves Another With Natural Love As He Loves Himself?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that an angel does not love another with natural love as he loves himself. For love follows knowledge. But an angel does not know another as he knows himself: because he knows himself by his essence, while he knows another by his similitude, as was said above ([531]Q[56], AA[1],2). Therefore it seems that one angel does not love another with natural love as he loves himself.
 
@@ -87,7 +87,7 @@ Objection 2: Further, the cause is more powerful than the effect; and the princi
 
 Objection 3: Further, natural love is of something as an end, and is unremovable. But no angel is the end of another; and again, such love can be severed from him, as is the case with the demons, who have no love for the good angels. Therefore an angel does not love another with natural love as he loves himself.
 
-## Answer
+### Answer
 
 On the contrary, That seems to be a natural property which is found in all, even in such as devoid of reason. But, "every beast loves its like," as is said, Ecclus. 13:19. Therefore an angel naturally loves another as he loves himself.
 
@@ -97,16 +97,16 @@ Now it is evident that what is generically or specifically one with another, is 
 
 So then, it must be said that one angel loves another with natural affection, in so far as he is one with him in nature. But so far as an angel has something else in common with another angel, or differs from him in other respects, he does not love him with natural love.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The expression 'as himself' can in one way qualify the knowledge and the love on the part of the one known and loved: and thus one angel knows another as himself, because he knows the other to be even as he knows himself to be. In another way the expression can qualify the knowledge and the love on the part of the knower and lover. And thus one angel does not know another as himself, because he knows himself by his essence, and the other not by the other's essence. In like manner he does not love another as he loves himself, because he loves himself by his own will; but he does not love another by the other's will.
 
 Reply to Objection 2: The expression "as" does not denote equality, but likeness. For since natural affection rests upon natural unity, the angel naturally loves less what is less one with him. Consequently he loves more what is numerically one with himself, than what is one only generically or specifically. But it is natural for him to have a like love for another as for himself, in this respect, that as he loves self in wishing well to self, so he loves another in wishing well to him.
 
 Reply to Objection 3: Natural love is said to be of the end, not as of that end to which good is willed, but rather as of that good which one wills for oneself, and in consequence for another, as united to oneself. Nor can such natural love be stripped from the wicked angels, without their still retaining a natural affection towards the good angels, in so far as they share the same nature with them. But they hate them, in so far as they are unlike them according to righteousness and unrighteousness.
-# Whether An Angel By Natural Love Loves God More Than He Loves Himself?
+## Whether An Angel By Natural Love Loves God More Than He Loves Himself?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the angel does not love God by natural love more than he loves himself. For, as was stated [533](A[4]), natural love rests upon natural union. Now the Divine nature is far above the angelic nature. Therefore, according to natural love, the angel loves God less than self, or even than another angel.
 
@@ -118,7 +118,7 @@ Objection 4: Further, it is proper to charity to love God more than self. But to
 
 Objection 5: Further, natural love lasts while nature endures. But the love of God more than self does not remain in the angel or man who sins; for Augustine says (De Civ. Dei xiv), "Two loves have made two cities; namely love of self unto the contempt of God has made the earthly city; while love of God unto the contempt of self has made the heavenly city." Therefore it is not natural to love God more than self.
 
-## Answer
+### Answer
 
 On the contrary, All the moral precepts of the law come of the law of nature. But the precept of loving God more than self is a moral precept of the law. Therefore, it is of the law of nature. Consequently from natural love the angel loves God more than himself.
 
@@ -128,7 +128,7 @@ The falsity of such an opinion stands in evidence, if one but consider whither n
 
 Consequently, since God is the universal good, and under this good both man and angel and all creatures are comprised, because every creature in regard to its entire being naturally belongs to God, it follows that from natural love angel and man alike love God before themselves and with a greater love. Otherwise, if either of them loved self more than God, it would follow that natural love would be perverse, and that it would not be perfected but destroyed by charity.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Such reasoning holds good of things adequately divided whereof one is not the cause of the existence and goodness of the other; for in such natures each loves itself naturally more than it does the other, inasmuch as it is more one with itself than it is with the other. But where one is the whole cause of the existence and goodness of the other, that one is naturally more loved than self; because, as we said above, each part naturally loves the whole more than itself: and each individual naturally loves the good of the species more than its own individual good. Now God is not only the good of one species, but is absolutely the universal good; hence everything in its own way naturally loves God more than itself.
 

@@ -5,9 +5,9 @@ We must now consider, in the first place, fear; and, secondly, daring. With rega
 (2) Whether fear is a special passion?
 (3) Whether there is a natural fear?
 (4) Of the species of fear.
-# Whether Fear Is A Passion Of The Soul?
+## Whether Fear Is A Passion Of The Soul?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear is not a passion of the soul. For Damascene says (De Fide Orth. iii, 23) that "fear is a power, by way of {systole}"---i.e. of contraction---"desirous of vindicating nature." But no virtue is a passion, as is proved in Ethic. ii, 5. Therefore fear is not a passion.
 
@@ -15,22 +15,22 @@ Objection 2: Further, every passion is an effect due to the presence of an agent
 
 Objection 3: Further, every passion of the soul is a movement of the sensitive appetite, in consequence of an apprehension of the senses. But sense apprehends, not the future but the present. Since, then, fear is of future evil, it seems that it is not a passion of the soul.
 
-## Answer
+### Answer
 
 On the contrary, Augustine (De Civ. Dei xiv, 5, seqq.) reckons fear among the other passions of the soul.
 
 I answer that, Among the other passions of the soul, after sorrow, fear chiefly has the character of passion. For as we have stated above (Q[22] ), the notion of passion implies first of all a movement of a passive power---i.e. of a power whose object is compared to it as its active principle: since passion is the effect of an agent. In this way, both "to feel" and "to understand" are passions. Secondly, more properly speaking, passion is a movement of the appetitive power; and more properly still, it is a movement of an appetitive power that has a bodily organ, such movement being accompanied by a bodily transmutation. And, again, most properly those movements are called passions, which imply some deterioration. Now it is evident that fear, since it regards evil, belongs to the appetitive power, which of itself regards good and evil. Moreover, it belongs to the sensitive appetite: for it is accompanied by a certain transmutation---i.e. contraction---as Damascene says (Cf. OBJ 1). Again, it implies relation to evil as overcoming, so to speak, some particular good. Wherefore it has most properly the character of passion; less, however, than sorrow, which regards the present evil: because fear regards future evil, which is not so strong a motive as present evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Virtue denotes a principle of action: wherefore, in so far as the interior movements of the appetitive faculty are principles of external action, they are called virtues. But the Philosopher denies that passion is a virtue by way of habit.
 
 Reply to Objection 2: Just as the passion of a natural body is due to the bodily presence of an agent, so is the passion of the soul due to the agent being present to the soul, although neither corporally nor really present: that is to say, in so far as the evil which is really future, is present in the apprehension of the soul.
 
 Reply to Objection 3: The senses do not apprehend the future: but from apprehending the present, an animal is moved by natural instinct to hope for a future good, or to fear a future evil.
-# Whether Fear Is A Special Passion?
+## Whether Fear Is A Special Passion?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that fear is not a special passion. For Augustine says (QQ. 83, qu. 33) that "the man who is not distraught by fear, is neither harassed by desire, nor wounded by sickness"---i.e. sorrow---"nor tossed about in transports of empty joys." Wherefore it seems that, if fear be set aside, all the other passions are removed. Therefore fear is not a special but a general passion.
 
@@ -38,22 +38,22 @@ Objection 2: Further, the Philosopher says (Ethic. vi, 2) that "pursuit and avoi
 
 Objection 3: Further, if fear were a special passion, it would be chiefly in the irascible part. But fear is also in the concupiscible: since the Philosopher says (Rhet. ii, 5) that "fear is a kind of sorrow"; and Damascene says (De Fide Orth. iii, 23) that fear is "a power of desire": and both sorrow and desire are in the concupiscible faculty, as stated above ([1366]Q[23], A[4]). Therefore fear is not a special passion, since it belongs to different powers.
 
-## Answer
+### Answer
 
 On the contrary, Fear is condivided with the other passions of the soul, as is clear from Damascene (De Fide Orth. ii, 12,15).
 
 I answer that, The passions of the soul derive their species from their objects: hence that is a special passion, which has a special object. Now fear has a special object, as hope has. For just as the object of hope is a future good, difficult but possible to obtain; so the object of fear is a future evil, difficult and irresistible. Consequently fear is a special passion of the soul.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All the passions of the soul arise from one source, viz. love, wherein they are connected with one another. By reason of this connection, when fear is put aside, the other passions of the soul are dispersed; not, however, as though it were a general passion.
 
 Reply to Objection 2: Not every avoidance in the appetite is fear, but avoidance of a special object, as stated. Wherefore, though avoidance be something common, yet fear is a special passion.
 
 Reply to Objection 3: Fear is nowise in the concupiscible: for it regards evil, not absolutely, but as difficult or arduous, so as to be almost unavoidable. But since the irascible passions arise from the passions of the concupiscible faculty, and terminate therein, as stated above ([1367]Q[25], A[1]); hence it is that what belongs to the concupiscible is ascribed to fear. For fear is called sorrow, in so far as the object of fear causes sorrow when present: wherefore the Philosopher says (Rhet. ii, 5) that fear arises "from the representation of a future evil which is either corruptive or painful." In like manner desire is ascribed by Damascene to fear, because just as hope arises from the desire of good, so fear arises from avoidance of evil; while avoidance of evil arises from the desire of good, as is evident from what has been said above ([1368]Q[25], A[2];[1369] Q[29], A[2];[1370] Q[36], A[2]).
-# Whether There Is A Natural Fear?
+## Whether There Is A Natural Fear?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is a natural fear. For Damascene says (De Fide Orth. iii, 23) that "there is a natural fear, through the soul refusing to be severed from the body."
 
@@ -61,7 +61,7 @@ Objection 2: Further, fear arises from love, as stated above (A[2], ad 1). But t
 
 Objection 3: Further, fear is opposed to hope, as stated above ([1371]Q[40], A[4], ad 1). But there is a hope of nature, as is evident from Rom. 4:18, where it is said of Abraham that "against hope" of nature, "he believed in hope" of grace. Therefore there is also a fear of nature.
 
-## Answer
+### Answer
 
 On the contrary, That which is natural is common to things animate and inanimate. But fear is not in things inanimate. Therefore there is no natural fear.
 
@@ -72,9 +72,9 @@ And in this sense we may say that there is a natural fear; and it is distinguish
 But in the first sense of the word "natural," we must observe that certain passions of the soul are sometimes said to be natural, as love, desire, and hope; whereas the others cannot be called natural. The reason of this is because love and hatred, desire and avoidance, imply a certain inclination to pursue what is good or to avoid what is evil; which inclination is to be found in the natural appetite also. Consequently there is a natural love; while we may also speak of desire and hope as being even in natural things devoid of knowledge. On the other hand the other passions of the soul denote certain movements, whereto the natural inclination is nowise sufficient. This is due either to the fact that perception or knowledge is essential to these passions (thus we have said[1376], Q[31], AA[1],3;[1377] Q[35], A[1], that apprehension is a necessary condition of pleasure and sorrow), wherefore things devoid of knowledge cannot be said to take pleasure or to be sorrowful: or else it is because such like movements are contrary to the very nature of natural inclination: for instance, despair flies from good on account of some difficulty; and fear shrinks from repelling a contrary evil; both of which are contrary to the inclination of nature. Wherefore such like passions are in no way ascribed to inanimate beings.
 
 Thus the Replies to the Objections are evident.
-# Whether The Species Of Fear Is Suitably Assigned?
+## Whether The Species Of Fear Is Suitably Assigned?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that six species of fear are unsuitably assigned by Damascene (De Fide Orth. ii, 15); namely, "laziness, shamefacedness, shame, amazement, stupor, and anxiety." Because, as the Philosopher says (Rhet. ii, 5), "fear regards a saddening evil." Therefore the species of fear should correspond to the species of sorrow. Now there are four species of sorrow, as stated above ([1378]Q[35], A[8]). Therefore there should only be four species of fear corresponding to them.
 
@@ -86,7 +86,7 @@ Objection 4: Further, fear is only of evil. But amazement and stupor regard grea
 
 Objection 5: Further, Philosophers have been led by amazement to seek the truth, as stated in the beginning of Metaphysics. But fear leads to flight rather than to search. Therefore amazement is not a species of fear.
 
-## Answer
+### Answer
 
 
 
@@ -94,7 +94,7 @@ I answer that, As stated above [1381](A[2]), fear regards a future evil which su
 
 On the other hand, the evil that consists in external things may surpass man's faculty of resistance in three ways. First by reason of its magnitude; when, that is to say, a man considers some great evil the outcome of which he is unable to gauge: and then there is "amazement." Secondly, by reason of its being unwonted; because, to wit, some unwonted evil arises before us, and on that account is great in our estimation: and then there is "stupor," which is caused by the representation of something unwonted. Thirdly, by reason of its being unforeseen: thus future misfortunes are feared, and fear of this kind is called "anxiety."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Those species of sorrow given above are not derived from the diversity of objects, but from the diversity of effects, and for certain special reasons. Consequently there is no need for those species of sorrow to correspond with these species of fear, which are derived from the proper division of the object of fear itself.
 

@@ -5,9 +5,9 @@ We must now consider the properties of virtues: and (1) the mean of virtue, (2) 
 (2) Whether the mean of moral virtue is the real mean or the rational mean?
 (3) Whether the intellectual virtues observe the mean?
 (4) Whether the theological virtues do?
-# Whether Moral Virtues Observe The Mean?
+## Whether Moral Virtues Observe The Mean?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that moral virtue does not observe the mean. For the nature of a mean is incompatible with that which is extreme. Now the nature of virtue is to be something extreme; for it is stated in De Coelo i that "virtue is the limit of power." Therefore moral virtue does not observe the mean.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the maximum is not a mean. Now some moral virtues tend to 
 
 Objection 3: Further, if it is essential to a moral virtue to observe the mean, it follows that a moral virtue is not perfected, but the contrary corrupted, through tending to something extreme. Now some moral virtues are perfected by tending to something extreme; thus virginity, which abstains from all sexual pleasure, observes the extreme, and is the most perfect chastity: and to give all to the poor is the most perfect mercy or liberality. Therefore it seems that it is not essential to moral virtue that it should observe the mean.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. ii, 6) that "moral virtue is a habit of choosing the mean."
 
 I answer that, As already explained ([1598]Q[55], A[3]), the nature of virtue is that it should direct man to good. Now moral virtue is properly a perfection of the appetitive part of the soul in regard to some determinate matter: and the measure or rule of the appetitive movement in respect of appetible objects is the reason. But the good of that which is measured or ruled consists in its conformity with its rule: thus the good things made by art is that they follow the rule of art. Consequently, in things of this sort, evil consists in discordance from their rule or measure. Now this may happen either by their exceeding the measure or by their falling short of it; as is clearly the case in all things ruled or measured. Hence it is evident that the good of moral virtue consists in conformity with the rule of reason. Now it is clear that between excess and deficiency the mean is equality or conformity. Therefore it is evident that moral virtue observes the mean.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Moral virtue derives goodness from the rule of reason, while its matter consists in passions or operations. If therefore we compare moral virtue to reason, then, if we look at that which is has of reason, it holds the position of one extreme, viz. conformity; while excess and defect take the position of the other extreme, viz. deformity. But if we consider moral virtue in respect of its matter, then it holds the position of mean, in so far as it makes the passion conform to the rule of reason. Hence the Philosopher says (Ethic. ii, 6) that "virtue, as to its essence, is a mean state," in so far as the rule of virtue is imposed on its proper matter: "but it is an extreme in reference to the 'best' and the 'excellent,'" viz. as to its conformity with reason.
 
 Reply to Objection 2: In actions and passions the mean and the extremes depend on various circumstances: hence nothing hinders something from being extreme in a particular virtue as to one circumstance, while the same thing is a mean in respect of other circumstances, through being in conformity with reason. This is the case with magnanimity and magnificence. For if we look at the absolute quantity of the respective objects of these virtues, we shall call it an extreme and a maximum: but if we consider the quantity in relation to other circumstances, then it has the character of a mean: since these virtues tend to this maximum in accordance with the rule of reason, i.e. "where" it is right, "when" it is right, and for an "end" that is right. There will be excess, if one tends to this maximum "when" it is not right, or "where" it is not right, or for an undue "end"; and there will be deficiency if one fails to tend thereto "where" one ought, and "when" one aught. This agrees with the saying of the Philosopher (Ethic. iv, 3) that the "magnanimous man observes the extreme in quantity, but the mean in the right mode of his action."
 
 Reply to Objection 3: The same is to be said of virginity and poverty as of magnanimity. For virginity abstains from all sexual matters, and poverty from all wealth, for a right end, and in a right manner, i.e. according to God's word, and for the sake of eternal life. But if this be done in an undue manner, i.e. out of unlawful superstition, or again for vainglory, it will be in excess. And if it be not done when it ought to be done, or as it ought to be done, it is a vice by deficiency: for instance, in those who break their vows of virginity or poverty.
-# Whether The Mean Of Moral Virtue Is The Real Mean, Or The Rational Mean?
+## Whether The Mean Of Moral Virtue Is The Real Mean, Or The Rational Mean?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the mean of moral virtue is not the rational mean, but the real mean. For the good of moral virtue consists in its observing the mean. Now, good, as stated in Metaph. ii, text. 8, is in things themselves. Therefore the mean of moral virtue is a real mean.
 
@@ -38,7 +38,7 @@ Objection 2: Further, the reason is a power of apprehension. But moral virtue do
 
 Objection 3: Further, a mean that is observed according to arithmetical or geometrical proportion is a real mean. Now such is the mean of justice, as stated in Ethic. v, 3. Therefore the mean of moral virtue is not the rational, but the real mean.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. ii, 6) that "moral virtue observes the mean fixed, in our regard, by reason."
 
@@ -47,9 +47,9 @@ I answer that, The rational mean can be understood in two ways. First, according
 But it happens sometimes that the rational mean is also the real mean: in which case the mean of moral virtue is the real mean, for instance, in justice. On the other hand, sometimes the rational mean is not the real mean, but is considered in relation to us: and such is the mean in all the other moral virtues. The reason for this is that justice is about operations, which deal with external things, wherein the right has to be established simply and absolutely, as stated above ([1600]Q[60], A[2]): wherefore the rational mean in justice is the same as the real mean, in so far, to wit as justice gives to each one his due, neither more nor less. But the other moral virtues deal with interior passions wherein the right cannot be established in the same way, since men are variously situated in relation to their passions; hence the rectitude of reason has to be established in the passions, with due regard to us, who are moved in respect of the passions.
 
 This suffices for the Replies to the Objections. For the first two arguments take the rational mean as being in the very act of reason, while the third argues from the mean of justice.
-# Whether The Intellectual Virtues Observe The Mean?
+## Whether The Intellectual Virtues Observe The Mean?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the intellectual virtues do not observe the mean. Because moral virtue observes the mean by conforming to the rule of reason. But the intellectual virtues are in reason itself, so that they seem to have no higher rule. Therefore the intellectual virtues do not observe the mean.
 
@@ -57,7 +57,7 @@ Objection 2: Further, the mean of moral virtue is fixed by an intellectual virtu
 
 Objection 3: Further, a mean is, properly speaking, between contraries, as the Philosopher explains (Metaph. x, text. 22,23). But there seems to be no contrariety in the intellect; since contraries themselves, as they are in the intellect, are not in opposition to one another, but are understood together, as white and black, healthy and sick. Therefore there is no mean in the intellectual virtues.
 
-## Answer
+### Answer
 
 On the contrary, Art is an intellectual virtue; and yet there is a mean in art (Ethic. ii, 6). Therefore also intellectual virtue observes the mean.
 
@@ -67,16 +67,16 @@ Now truth apprehended by our intellect, if we consider it absolutely, is measure
 
 The truth of practical intellectual virtue, if we consider it in relation to things, is by way of that which is measured; so that both in practical and in speculative intellectual virtues, the mean consists in conformity with things. But if we consider it in relation to the appetite, it has the character of a rule and measure. Consequently the rectitude of reason is the mean of moral virtue, and also the mean of prudence---of prudence as ruling and measuring, of moral virtue, as ruled and measured by that mean. In like manner the difference between excess and deficiency is to be applied in both cases.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Intellectual virtues also have their measure, as stated, and they observe the mean according as they conform to that measure.
 
 Reply to Objection 2: There is no need for an indefinite series of virtues: because the measure and rule of intellectual virtue is not another kind of virtue, but things themselves.
 
 Reply to Objection 3: The things themselves that are contrary have no contrariety in the mind, because one is the reason for knowing the other: nevertheless there is in the intellect contrariety of affirmation and negation, which are contraries, as stated at the end of Peri Hermenias. For though "to be" and "not to be" are not in contrary, but in contradictory opposition to one another, so long as we consider their signification in things themselves, for on the one hand we have "being" and on the other we have simply "non-being"; yet if we refer them to the act of the mind, there is something positive in both cases. Hence "to be" and "not to be" are contradictory: but the opinion stating that "good is good" is contrary to the opinion stating that "good is not good": and between two such contraries intellectual virtue observes the mean.
-# Whether The Theological Virtues Observe The Mean?
+## Whether The Theological Virtues Observe The Mean?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that theological virtue observes the mean. For the good of other virtues consists in their observing the mean. Now the theological virtues surpass the others in goodness. Therefore much more does theological virtue observe the mean.
 
@@ -84,7 +84,7 @@ Objection 2: Further, the mean of moral virtue depends on the appetite being rul
 
 Objection 3: Further, hope, which is a theological virtue, is a mean between despair and presumption. Likewise faith holds a middle course between contrary heresies, as Boethius states (De Duab. Natur. vii): thus, by confessing one Person and two natures in Christ, we observe the mean between the heresy of Nestorius, who maintained the existence of two persons and two natures, and the heresy of Eutyches, who held to one person and one nature. Therefore theological virtue observes the mean.
 
-## Answer
+### Answer
 
 On the contrary, Wherever virtue observes the mean it is possible to sin by excess as well as by deficiency. But there is no sinning by excess against God, Who is the object of theological virtue: for it is written (Ecclus. 43:33): "Blessing the Lord, exalt Him as much as you can: for He is above all praise." Therefore theological virtue does not observe the mean.
 
@@ -92,7 +92,7 @@ I answer that, As stated above [1603](A[1]), the mean of virtue depends on confo
 
 The other rule or measure of theological virtue is by comparison with us: for although we cannot be borne towards God as much as we ought, yet we should approach to Him by believing, hoping and loving, according to the measure of our condition. Consequently it is possible to find a mean and extremes in theological virtue, accidentally and in reference to us.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The good of intellectual and moral virtues consists in a mean of reason by conformity with a measure that may be exceeded: whereas this is not so in the case of theological virtue, considered in itself, as stated above.
 

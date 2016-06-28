@@ -3,9 +3,9 @@
 We must now consider what pertains to Christ's unity in common. For, in their proper place, we must consider what pertains to unity and plurality in detail: thus we concluded ([4063]Q[9]) that there is not only one knowledge in Christ, and it will be concluded hereafter ([4064]Q[35], A[2]) that there is not only one nativity in Christ.  Hence we must consider Christ's unity (1) of being; (2) of will; (3) of operation.  Under the first head there are two points of inquiry:
 (1) Whether Christ is one or two?
 (2) Whether there is only one being in Christ?
-# Whether Christ Is One Or Two?
+## Whether Christ Is One Or Two?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Christ is not one, but two. For Augustine says (De Trin. i, 7): "Because the form of God took the form of a servant, both are God by reason of God Who assumed, yet both are Man by reason of the man assumed." Now "both" may only be said when there are two. Therefore Christ is two.
 
@@ -21,7 +21,7 @@ Objection 6: Further, the Philosopher says (Phys. iii, text. 18) that "one" and 
 
 Objection 7: Further, as accidental form makes a thing otherwise [alterum] so does substantial form make another thing [aliud] as Porphyry says (Praedic.). Now in Christ there are two substantial natures, the human and the Divine. Therefore Christ is one thing and another. Therefore Christ is two.
 
-## Answer
+### Answer
 
 On the contrary, Boethius says (De Duab. Nat.): "Whatever is, inasmuch as it is, is one." But we confess that Christ is. Therefore Christ is one.
 
@@ -29,7 +29,7 @@ I answer that, Nature, considered in itself, as it is used in the abstract, cann
 
 Now some placed two supposita in Christ, and one Person, which, in their opinion, would seem to be the suppositum completed with its final completion. Hence, since they placed two supposita in Christ, they said that God is two, in the neuter. But because they asserted one Person, they said that Christ is one, in the masculine, for the neuter gender signifies something unformed and imperfect, whereas the masculine signifies something formed and perfect. on the other hand, the Nestorians, who asserted two Persons in Christ, said that Christ is two not only in the neuter, but also in the masculine. But since we maintain one person and one suppositum in Christ, as is clear from[4066] Q[2], AA[2],3, it follows that we say that Christ is one not merely in the masculine, but also in the neuter.
 
-## Replies
+### Replies
 
 Reply to Objection 1: This saying of Augustine is not to be taken as if "both" referred to the predicate, so as to mean that Christ is both; but it refers to the subject. And thus "both" does not stand for two supposita, but for two words signifying two natures in the concrete. For I can say that "both, viz. God and Man, are God" on account of God Who assumes; and "both, viz. God and Man," are Man on account of the man assumed.
 
@@ -44,9 +44,9 @@ Reply to Objection 5: In the mystery of the Divine Trinity the Divine Nature is 
 Reply to Objection 6: Two signifies what has duality, not in another, but in the same thing of which "two" is predicated. Now what is predicated is said of the suppositum, which is implied by the word "Christ." Hence, although Christ has duality of nature, yet, because He has not duality of suppositum, it cannot be said that Christ is two.
 
 Reply to Objection 7: Otherwise implies diversity of accident. Hence diversity of accident suffices for anything to be called "otherwise" simply. But "another thing" implies diversity of substance. Now not merely the nature, but also the suppositum is said to be a substance, as is said Metaph. v, text. 15. Hence diversity of nature does not suffice for anything to be called "another thing" simply, unless there is diversity of suppositum. But diversity of nature makes "another thing" relatively, i.e. in nature, if there is no diversity of suppositum.
-# Whether There Is Only One Being In Christ?
+## Whether There Is Only One Being In Christ?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in Christ there is not merely one being, but two. For Damascene says (De Fide Orth. iii, 13) that whatever follows the nature is doubled in Christ. But being follows the nature, for being is from the form. Hence in Christ there are two beings.
 
@@ -56,7 +56,7 @@ Objection 3: Further, in the Trinity, although there are three Persons, yet on a
 
 Objection 4: Further, in Christ the soul gives some being to the body, since it is its form. But it does not give the Divine being, since this is uncreated. Therefore in Christ there is another being besides the Divine being; and thus in Christ there is not only one being.
 
-## Answer
+### Answer
 
 On the contrary, Everything is said to be a being, inasmuch as it is one, for one and being are convertible. Therefore, if there were two beings in Christ, and not one only, Christ would be two, and not one.
 
@@ -64,7 +64,7 @@ I answer that, Because in Christ there are two natures and one hypostasis, it fo
 
 If, therefore, the human nature accrued to the Son of God, not hypostatically or personally, but accidentally, as some maintained, it would be necessary to assert two beings in Christ---one, inasmuch as He is God---the other, inasmuch as He is Man; even as in Socrates we place one being inasmuch as he is white, and another inasmuch as he is a man, since "being white" does not pertain to the personal being of Socrates. But being possessed of a head, being corporeal, being animated---all these pertain to the one person of Socrates, and hence there arises from these only the one being of Socrates. And if it so happened that after the person of Socrates was constituted there accrued to him hands or feet or eyes, as happened to him who was born blind, no new being would be thereby added to Socrates, but only a relation to these, i.e. inasmuch as he would be said to be, not only with reference to what he had previously, but also with reference to what accrued to him afterwards. And thus, since the human nature is united to the Son of God, hypostatically or personally as was said above ([4067]Q[2], AA[5],6), and not accidentally, it follows that by the human nature there accrued to Him no new personal being, but only a new relation of the pre-existing personal being to the human nature, in such a way that the Person is said to subsist not merely in the Divine, but also in the human nature.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Being is consequent upon nature, not as upon that which has being, but as upon that whereby a thing is: whereas it is consequent upon person or hypostasis, as upon that which has being. Hence it has unity from the unity of hypostasis, rather than duality from the duality of the nature.
 

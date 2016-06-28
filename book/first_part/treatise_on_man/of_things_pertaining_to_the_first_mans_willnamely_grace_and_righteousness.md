@@ -5,9 +5,9 @@ We next consider what belongs to the will of the first man; concerning which the
 (2) Whether in the state of innocence he had passions of the soul?
 (3) Whether he had all virtues?
 (4) Whether what he did would have been as meritorious as now?
-# Whether The First Man Was Created In Grace?
+## Whether The First Man Was Created In Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the first man was not created in grace. For the Apostle, distinguishing between Adam and Christ, says (1 Cor. 15:45): "The first Adam was made into a living soul; the last Adam into a quickening spirit." But the spirit is quickened by grace. Therefore Christ alone was made in grace.
 
@@ -21,7 +21,7 @@ Objection 5: Further, the reception of grace requires the consent of the recipie
 
 Objection 6: Further, nature is more distant from grace than grace is from glory, which is but grace consummated. But in man grace precedes glory. Therefore much more did nature precede grace.
 
-## Answer
+### Answer
 
 On the contrary, Man and angel are both ordained to grace. But the angels were created in grace, for Augustine says (De Civ. Dei xii, 9): "God at the same time fashioned their nature and endowed them with grace." Therefore man also was created in grace.
 
@@ -29,7 +29,7 @@ I answer that, Some say that man was not created in grace; but that it was besto
 
 But the very rectitude of the primitive state, wherewith man was endowed by God, seems to require that, as others say, he was created in grace, according to Eccles. 7:30, "God made man right." For this rectitude consisted in his reason being subject to God, the lower powers to reason, and the body to the soul: and the first subjection was the cause of both the second and the third; since while reason was subject to God, the lower powers remained subject to reason, as Augustine says [*Cf. De Civ. Dei xiii, 13; De Pecc. Merit. et Remiss. i, 16]. Now it is clear that such a subjection of the body to the soul and of the lower powers to reason, was not from nature; otherwise it would have remained after sin; since even in the demons the natural gifts remained after sin, as Dionysius declared (Div. Nom. iv). Hence it is clear that also the primitive subjection by virtue of which reason was subject to God, was not a merely natural gift, but a supernatural endowment of grace; for it is not possible that the effect should be of greater efficiency than the cause. Hence Augustine says (De Civ. Dei xiii, 13) that, "as soon as they disobeyed the Divine command, and forfeited Divine grace, they were ashamed of their nakedness, for they felt the impulse of disobedience in the flesh, as though it were a punishment corresponding to their own disobedience." Hence if the loss of grace dissolved the obedience of the flesh to the soul, we may gather that the inferior powers were subjected to the soul through grace existing therein.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Apostle in these words means to show that there is a spiritual body, if there is an animal body, inasmuch as the spiritual life of the body began in Christ, who is "the firstborn of the dead," as the body's animal life began in Adam. From the Apostle's words, therefore, we cannot gather that Adam had no spiritual life in his soul; but that he had not spiritual life as regards the body.
 
@@ -42,9 +42,9 @@ Reply to Objection 4: The Master here speaks according to the opinion of those w
 Reply to Objection 5: As the motion of the will is not continuous there is nothing against the first man having consented to grace even in the first moment of his existence.
 
 Reply to Objection 6: We merit glory by an act of grace; but we do not merit grace by an act of nature; hence the comparison fails.
-# Whether Passions Existed In The Soul Of The First Man?
+## Whether Passions Existed In The Soul Of The First Man?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the first man's soul had no passions. For by the passions of the soul "the flesh lusteth against the spirit" (Gal. 5:7). But this did not happen in the state of innocence. Therefore in the state of innocence there were no passions of the soul.
 
@@ -52,22 +52,22 @@ Objection 2: Further, Adam's soul was nobler than his body. But his body was imp
 
 Objection 3: Further, the passions of the soul are restrained by the moral virtues. But in Adam the moral virtues were perfect. Therefore the passions were entirely excluded from him.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xiv, 10) that "in our first parents there was undisturbed love of God," and other passions of the soul.
 
 I answer that, The passions of the soul are in the sensual appetite, the object of which is good and evil. Wherefore some passions of the soul are directed to what is good, as love and joy; others to what is evil, as fear and sorrow. And since in the primitive state, evil was neither present nor imminent, nor was any good wanting which a good-will could desire to have then, as Augustine says (De Civ. Dei xiv, 10), therefore Adam had no passion with evil as its object; such as fear, sorrow, and the like; neither had he passions in respect of good not possessed, but to be possessed then, as burning concupiscence. But those passions which regard present good, as joy and love; or which regard future good to be had at the proper time, as desire and hope that casteth not down, existed in the state of innocence; otherwise, however, than as they exist in ourselves. For our sensual appetite, wherein the passions reside, is not entirely subject to reason; hence at times our passions forestall and hinder reason's judgment; at other times they follow reason's judgment, accordingly as the sensual appetite obeys reason to some extent. But in the state of innocence the inferior appetite was wholly subject to reason: so that in that state the passions of the soul existed only as consequent upon the judgment of reason.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The flesh lusts against the spirit by the rebellion of the passions against reason; which could not occur in the state of innocence.
 
 Reply to Objection 2: The human body was impassible in the state of innocence as regards the passions which alter the disposition of nature, as will be explained later on ([796]Q[97], A[2]); likewise the soul was impassible as regards the passions which impede the free use of reason.
 
 Reply to Objection 3: Perfection of moral virtue does not wholly take away the passions, but regulates them; for the temperate man desires as he ought to desire, and what he ought to desire, as stated in Ethic. iii, 11.
-# Whether Adam Had All The Virtues?
+## Whether Adam Had All The Virtues?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that Adam had not all the virtues. For some virtues are directed to curb passions: thus immoderate concupiscence is restrained by temperance, and immoderate fear by fortitude. But in the state of innocence no immoderation existed in the passions. Therefore neither did these virtues then exist.
 
@@ -79,7 +79,7 @@ Objection 4: Further, perseverance is a virtue. But Adam possessed it not; as pr
 
 Objection 5: Further, faith is a virtue. But it did not exist in the state of innocence; for it implies an obscurity of knowledge which seems to be incompatible with the perfection of the primitive state.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says, in a homily (Serm. contra Judaeos): "The prince of sin overcame Adam who was made from the slime of the earth to the image of God, adorned with modesty, restrained by temperance, refulgent with brightness."
 
@@ -87,7 +87,7 @@ I answer that, in the state of innocence man in a certain sense possessed all th
 
 It must, however, be noted that some virtues of their very nature do not involve imperfection, such as charity and justice; and these virtues did exist in the primitive state absolutely, both in habit and in act. But other virtues are of such a nature as to imply imperfection either in their act, or on the part of the matter. If such imperfection be consistent with the perfection of the primitive state, such virtues necessarily existed in that state; as faith, which is of things not seen, and hope which is of things not yet possessed. For the perfection of that state did not extend to the vision of the Divine Essence, and the possession of God with the enjoyment of final beatitude. Hence faith and hope could exist in the primitive state, both as to habit and as to act. But any virtue which implies imperfection incompatible with the perfection of the primitive state, could exist in that state as a habit, but not as to the act; for instance, penance, which is sorrow for sin committed; and mercy, which is sorrow for others' unhappiness; because sorrow, guilt, and unhappiness are incompatible with the perfection of the primitive state. Wherefore such virtues existed as habits in the first man, but not as to their acts; for he was so disposed that he would repent, if there had been a sin to repent for; and had he seen unhappiness in his neighbor, he would have done his best to remedy it. This is in accordance with what the Philosopher says, "Shame, which regards what is ill done, may be found in a virtuous man, but only conditionally; as being so disposed that he would be ashamed if he did wrong" (Ethic. iv, 9).
 
-## Replies
+### Replies
 
 Reply to Objection 1: It is accidental to temperance and fortitude to subdue superabundant passion, in so far as they are in a subject which happens to have superabundant passions, and yet those virtues are 'per se' competent to moderate the passions.
 
@@ -98,9 +98,9 @@ Reply to Objection 3: appears from what has been said above.
 Reply to Objection 4: Perseverance may be taken in two ways: in one sense as a particular virtue, signifying a habit whereby a man makes a choice of persevering in good; in that sense Adam possessed perseverance. In another sense it is taken as a circumstance of virtue; signifying a certain uninterrupted continuation of virtue; in which sense Adam did not possess perseverance.
 
 Reply to Objection 5: appears from what has been said above.
-# Whether The Actions Of The First Man Were Less Meritorious Than Ours Are?
+## Whether The Actions Of The First Man Were Less Meritorious Than Ours Are?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the actions of the first man were less meritorious than ours are. For grace is given to us through the mercy of God, Who succors most those who are most in need. Now we are more in need of grace than was man in the state of innocence. Therefore grace is more copiously poured out upon us; and since grace is the source of merit, our actions are more meritorious.
 
@@ -108,7 +108,7 @@ Objection 2: Further, struggle and difficulty are required for merit; for it is 
 
 Objection 3: Further, the Master says (Sent. ii., D, xxiv) that "man would not have merited in resisting temptation; whereas he does merit now, when he resists." Therefore our actions are more meritorious than in the primitive state.
 
-## Answer
+### Answer
 
 On the contrary, if such were the case, man would be better off after sinning.
 
@@ -116,7 +116,7 @@ I answer that, Merit as regards degree may be gauged in two ways. First, in its 
 
 We conclude therefore that in the state of innocence man's works were more meritorious than after sin was committed, if we consider the degree of merit on the part of grace, which would have been more copious as meeting with no obstacle in human nature: and in like manner, if we consider the absolute degree of the work done; because, as man would have had greater virtue, he would have performed greater works. But if we consider the proportionate degree, a greater reason for merit exists after sin, on account of man's weakness; because a small deed is more beyond the capacity of one who works with difficulty than a great deed is beyond one who performs it easily.
 
-## Replies
+### Replies
 
 Reply to Objection 1: After sin man requires grace for more things than before sin; but he does not need grace more; forasmuch as man even before sin required grace to obtain eternal life, which is the chief reason for the need of grace. But after sin man required grace also for the remission of sin, and for the support of his weakness.
 

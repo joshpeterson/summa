@@ -4,9 +4,9 @@ We next consider all the seven days in common: and there are three points of inq
 (1) As to the sufficiency of these days;
 (2) Whether they are all one day, or more than one?
 (3) As to certain modes of speaking which Scripture uses in narrating the works of the six days.
-# Whether These Days Are Sufficiently Enumerated?
+## Whether These Days Are Sufficiently Enumerated?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that these days are not sufficiently enumerated. For the work of creation is no less distinct from the works of distinction and adornment than these two works are from one another. But separate days are assigned to distinction and to adornment, and therefore separate days should be assigned to creation.
 
@@ -18,13 +18,13 @@ Objection 4: Further, it would seem, on the other hand, that some of these days 
 
 Objection 5: Further, these days are devoted to the first instituting of the world. But as on the seventh day nothing was instituted, that day ought not to be enumerated with the others.
 
-## Answer
+### Answer
 
 
 
 I answer that, The reason of the distinction of these days is made clear by what has been said above ([592]Q[70], A[1]), namely, that the parts of the world had first to be distinguished, and then each part adorned and filled, as it were, by the beings that inhabit it. Now the parts into which the corporeal creation is divided are three, according to some holy writers, these parts being the heaven, or highest part, the water, or middle part, and the earth, or the lowest part. Thus the Pythagoreans teach that perfection consists in three things, the beginning, the middle, and the end. The first part, then, is distinguished on the first day, and adorned on the fourth, the middle part distinguished on the middle day, and adorned on the fifth, and the third part distinguished on the third day, and adorned on the sixth. But Augustine, while agreeing with the above writers as to the last three days, differs as to the first three, for, according to him, spiritual creatures are formed on the first day, and corporeal on the two others, the higher bodies being formed on the first these two days, and the lower on the second. Thus, then, the perfection of the Divine works corresponds to the perfection of the number six, which is the sum of its aliquot parts, one, two, three; since one day is assigned to the forming of spiritual creatures, two to that of corporeal creatures, and three to the work of adornment.
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Augustine, the work of creation belongs to the production of formless matter, and of the formless spiritual nature, both of which are outside of time, as he himself says (Confess. xii, 12). Thus, then, the creation of either is set down before there was any day. But it may also be said, following other holy writers, that the works of distinction and adornment imply certain changes in the creature which are measurable by time; whereas the work of creation lies only in the Divine act producing the substance of beings instantaneously. For this reason, therefore, every work of distinction and adornment is said to take place "in a day," but creation "in the beginning" which denotes something indivisible.
 
@@ -35,9 +35,9 @@ Reply to Objection 3: The production of animals is recorded with reference to th
 Reply to Objection 4: The nature of light, as existing in a subject, was made on the first day; and the making of the luminaries on the fourth day does not mean that their substance was produced anew, but that they then received a form that they had not before, as said above ([593]Q[70], A[1] ad 2).
 
 Reply to Objection 5: According to Augustine (Gen. ad lit. iv, 15), after all that has been recorded that is assigned to the six days, something distinct is attributed to the seventh---namely, that on it God rested in Himself from His works: and for this reason it was right that the seventh day should be mentioned after the six. It may also be said, with the other writers, that the world entered on the seventh day upon a new state, in that nothing new was to be added to it, and that therefore the seventh day is mentioned after the six, from its being devoted to cessation from work.
-# Whether All These Days Are One Day?
+## Whether All These Days Are One Day?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all these days are one day. For it is written (Gn. 2:4,5): "These are the generations of the heaven and the earth, when they were created, in the day that the Lord . . . made the heaven and the earth, and every plant of the field, before it sprung up in the earth." Therefore the day in which God made "the heaven and the earth, and every plant of the field," is one and the same day. But He made the heaven and the earth on the first day, or rather before there was any day, but the plant of the field He made on the third day. Therefore the first and third days are but one day, and for a like reason all the rest.
 
@@ -47,7 +47,7 @@ Objection 3: Further, on the seventh day God ceased from all new works. If, then
 
 Objection 4: Further, the entire work ascribed to one day God perfected in an instant, for with each work are the words (God) "said . . . . and it was . . . done." If, then, He had kept back His next work to another day, it would follow that for the remainder of a day He would have ceased from working and left it vacant, which would be superfluous. The day, therefore, of the preceding work is one with the day of the work that follows.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Gn. 1), "The evening and the morning were the second day . . . the third day," and so on. But where there is a second and third there are more than one. There was not, therefore, only one day.
 
@@ -55,7 +55,7 @@ I answer that, On this question Augustine differs from other expositors. His opi
 
 If, however, these two explanations are looked at as referring to the mode of production, they will be found not greatly to differ, if the diversity of opinion existing on two points, as already shown ([594]Q[67], A[1]; [595]Q[69], A[1]), between Augustine and other writers is taken into account. First, because Augustine takes the earth and the water as first created, to signify matter totally without form; but the making of the firmament, the gathering of the waters, and the appearing of dry land, to denote the impression of forms upon corporeal matter. But other holy writers take the earth and the water, as first created, to signify the elements of the universe themselves existing under the proper forms, and the works that follow to mean some sort of distinction in bodies previously existing, as also has been shown ([596]Q[67], AA[1],4; [597]Q[69], A[1] ). Secondly, some writers hold that plants and animals were produced actually in the work of the six days; Augustine, that they were produced potentially. Now the opinion of Augustine, that the works of the six days were simultaneous, is consistent with either view of the mode of production. For the other writers agree with him that in the first production of things matter existed under the substantial form of the elements, and agree with him also that in the first instituting of the world animals and plants did not exist actually. There remains, however, a difference as to four points; since, according to the latter, there was a time, after the production of creatures, in which light did not exist, the firmament had not been formed, and the earth was still covered by the waters, nor had the heavenly bodies been formed, which is the fourth difference; which are not consistent with Augustine's explanation. In order, therefore, to be impartial, we must meet the arguments of either side.
 
-## Replies
+### Replies
 
 Reply to Objection 1: On the day on which God created the heaven and the earth, He created also every plant of the field, not, indeed, actually, but "before it sprung up in the earth," that is, potentially. And this work Augustine ascribes to the third day, but other writers to the first instituting of the world.
 
@@ -64,9 +64,9 @@ Reply to Objection 2: God created all things together so far as regards their su
 Reply to Objection 3: On the seventh day God ceased from making new things, but not from providing for their increase, and to this latter work it belongs that the first day is succeeded by other days.
 
 Reply to Objection 4: All things were not distinguished and adorned together, not from a want of power on God's part, as requiring time in which to work, but that due order might be observed in the instituting of the world. Hence it was fitting that different days should be assigned to the different states of the world, as each succeeding work added to the world a fresh state of perfection.
-# Whether Scripture Uses Suitable Words To Express The Work Of The Six Days?
+## Whether Scripture Uses Suitable Words To Express The Work Of The Six Days?
 
-## Objections
+### Objections
 
 Objection 1: It would seem the Scripture does not use suitable words to express the works of the six days. For as light, the firmament, and other similar works were made by the Word of God, so were the heaven and the earth. For "all things were made by Him" (Jn. 1:3). Therefore in the creation of heaven and earth, as in the other works, mention should have been made of the Word of God.
 
@@ -82,13 +82,13 @@ Objection 6: Further, evening and morning do not sufficiently divide the day, si
 
 Objection 7: Further, "first," not "one," corresponds to "second" and "third." It should therefore have been said that, "The evening and the morning were the first day," rather than "one day."
 
-## Answer
+### Answer
 
 
 
 
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Augustine (Gen. ad lit. i, 4), the person of the Son is mentioned both in the first creation of the world, and in its distinction and adornment, but differently in either place. For distinction and adornment belong to the work by which the world receives its form. But as the giving form to a work of art is by means of the form of the art in the mind of the artist, which may be called his intelligible word, so the giving form to every creature is by the word of God; and for this reason in the works of distinction and adornment the Word is mentioned. But in creation the Son is mentioned as the beginning, by the words, "In the beginning God created," since by creation is understood the production of formless matter. But according to those who hold that the elements were created from the first under their proper forms, another explanation must be given; and therefore Basil says (Hom. ii, iii in Hexaem.) that the words, "God said," signify a Divine command. Such a command, however, could not have been given before creatures had been produced that could obey it.
 

@@ -9,9 +9,9 @@ We have now to consider the matter of this sacrament: and first of all as to its
 (6) Whether water should be mixed with it?
 (7) Whether water is of necessity for this sacrament?
 (8) Of the quantity of the water added.
-# Whether The Matter Of This Sacrament Is Bread And Wine?
+## Whether The Matter Of This Sacrament Is Bread And Wine?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the matter of this sacrament is not bread and wine. Because this sacrament ought to represent Christ's Passion more fully than did the sacraments of the Old Law. But the flesh of animals, which was the matter of the sacraments under the Old Law, shows forth Christ's Passion more fully than bread and wine. Therefore the matter of this sacrament ought rather to be the flesh of animals than bread and wine.
 
@@ -19,7 +19,7 @@ Objection 2: Further, this sacrament is to be celebrated in every place. But in 
 
 Objection 3: Further, this sacrament is for both hale and weak. But to some weak persons wine is hurtful. Therefore it seems that wine ought not to be the matter of this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, Pope Alexander I says (Ep. ad omnes orth. i): "In oblations of the sacraments only bread and wine mixed with water are to be offered."
 
@@ -33,16 +33,16 @@ Thirdly, as to the effect, considered in each of the partakers. For, as Ambrose 
 
 Fourthly, as to the effect with regard to the whole Church, which is made up of many believers, just "as bread is composed of many grains, and wine flows from many grapes," as the gloss observes on 1 Cor. 10:17: "We being many are . . . one body," etc.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the flesh of slaughtered animals represents the Passion more forcibly, nevertheless it is less suitable for the common use of this sacrament, and for denoting the unity of the Church.
 
 Reply to Objection 2: Although wheat and wine are not produced in every country, yet they can easily be conveyed to every land, that is, as much as is needful for the use of this sacrament: at the same time one is not to be consecrated when the other is lacking, because it would not be a complete sacrament.
 
 Reply to Objection 3: Wine taken in small quantity cannot do the sick much harm: yet if there be fear of harm, it is not necessary for all who take Christ's body to partake also of His blood, as will be stated later ([4518]Q[80], A[12]).
-# Whether A Determinate Quantity Of Bread And Wine Is Required For The Matter Of This Sacrament?
+## Whether A Determinate Quantity Of Bread And Wine Is Required For The Matter Of This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that a determinate quantity of bread and wine is required for the matter of this sacrament. Because the effects of grace are no less set in order than those of nature. But, "there is a limit set by nature upon all existing things, and a reckoning of size and development" (De Anima ii). Consequently, in this sacrament, which is called "Eucharist," that is, "a good grace," a determinate quantity of the bread and wine is required.
 
@@ -50,22 +50,22 @@ Objection 2: Further, Christ gave no power to the ministers of the Church regard
 
 Objection 3: Further, if anyone be baptized in the sea, the entire sea-water is not sanctified by the form of baptism, but only the water wherewith the body of the baptized is cleansed. Therefore, neither in this sacrament can a superfluous quantity of bread be consecrated.
 
-## Answer
+### Answer
 
 On the contrary, Much is opposed to little, and great to small. But there is no quantity, however small, of the bread and wine which cannot be consecrated. Therefore, neither is there any quantity, however great, which cannot be consecrated.
 
 I answer that, Some have maintained that the priest could not consecrate an immense quantity of bread and wine, for instance, all the bread in the market or all the wine in a cask. But this does not appear to be true, because in all things containing matter, the reason for the determination of the matter is drawn from its disposition to an end, just as the matter of a saw is iron, so as to adapt it for cutting. But the end of this sacrament is the use of the faithful. Consequently, the quantity of the matter of this sacrament must be determined by comparison with the use of the faithful. But this cannot be determined by comparison with the use of the faithful who are actually present; otherwise the parish priest having few parishioners could not consecrate many hosts. It remains, then, for the matter of this sacrament to be determined in reference to the number of the faithful absolutely. But the number of the faithful is not a determinate one. Hence it cannot be said that the quantity of the matter of this sacrament is restricted.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The matter of every natural object has its determinate quantity by comparison with its determinate form. But the number of the faithful, for whose use this sacrament is ordained, is not a determinate one. Consequently there is no comparison.
 
 Reply to Objection 2: The power of the Church's ministers is ordained for two purposes: first for the proper effect, and secondly for the end of the effect. But the second does not take away the first. Hence, if the priest intends to consecrate the body of Christ for an evil purpose, for instance, to make mockery of it, or to administer poison through it, he commits sin by his evil intention, nevertheless, on account of the power committed to him, he accomplishes the sacrament.
 
 Reply to Objection 3: The sacrament of Baptism is perfected in the use of the matter: and therefore no more of the water is hallowed than what is used. But this sacrament is wrought in the consecration of the matter. Consequently there is no parallel.
-# Whether Wheaten Bread Is Required For The Matter Of This Sacrament?
+## Whether Wheaten Bread Is Required For The Matter Of This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that wheaten bread is not requisite for the matter of this sacrament, because this sacrament is a reminder of our Lord's Passion. But barley bread seems to be more in keeping with the Passion than wheaten bread, as being more bitter, and because Christ used it to feed the multitudes upon the mountain, as narrated in Jn. 6. Therefore wheaten bread is not the proper matter of this sacrament.
 
@@ -75,13 +75,13 @@ Objection 3: Further, mixing dissolves species. But wheaten flour is hardly to b
 
 Objection 4: Further, what is corrupted appears to be of another species. But some make the sacrament from bread which is corrupted, and which no longer seems to be wheaten bread. Therefore, it seems that such bread is not the proper matter of this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, Christ is contained in this sacrament, and He compares Himself to a grain of wheat, saying (Jn. 12:24): "Unless the grain of wheat falling into the ground die, itself remaineth alone." Therefore bread from corn, i.e. wheaten bread, is the matter of this sacrament.
 
 I answer that, As stated above [4519](A[1]), for the use of the sacraments such matter is adopted as is commonly made use of among men. Now among other breads wheaten bread is more commonly used by men; since other breads seem to be employed when this fails. And consequently Christ is believed to have instituted this sacrament under this species of bread. Moreover this bread strengthens man, and so it denotes more suitably the effect of this sacrament. Consequently, the proper matter for this sacrament is wheaten bread.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Barley bread serves to denote the hardness of the Old Law; both on account of the hardness of the bread, and because, as Augustine says ([4520]Q[83]): "The flour within the barley, wrapped up as it is within a most tenacious fibre, denotes either the Law itself, which was given in such manner as to be vested in bodily sacraments; or else it denotes the people themselves, who were not yet despoiled of carnal desires, which clung to their hearts like fibre." But this sacrament belongs to Christ's "sweet yoke," and to the truth already manifested, and to a spiritual people. Consequently barley bread would not be a suitable matter for this sacrament.
 
@@ -90,9 +90,9 @@ Reply to Objection 2: A begetter begets a thing like to itself in species. yet t
 Reply to Objection 3: A moderate mixing does not alter the species, because that little is as it were absorbed by the greater. Consequently, then, if a small quantity of another grain be mixed with a much greater quantity of wheat, bread may be made therefrom so as to be the proper matter of this sacrament; but if the mixing be notable, for instance, half and half; or nearly so, then such mixing alters the species; consequently, bread made therefrom will not be the proper matter of this sacrament.
 
 Reply to Objection 4: Sometimes there is such corruption of the bread that the species of bread is lost, as when the continuity of its parts is destroyed, and the taste, color, and other accidents are changed; hence the body of Christ may not be made from such matter. But sometimes there is not such corruption as to alter the species, but merely disposition towards corruption, which a slight change in the savor betrays, and from such bread the body of Christ may be made: but he who does so, sins from irreverence towards the sacrament. And because starch comes of corrupted wheat, it does not seem as if the body of Christ could be made of the bread made therefrom, although some hold the contrary.
-# Whether This Sacrament Ought To Be Made Of Unleavened Bread?
+## Whether This Sacrament Ought To Be Made Of Unleavened Bread?
 
-## Objections
+### Objections
 
 Objection 1: It seems that this sacrament ought not to be made of unleavened bread. because in this sacrament we ought to imitate Christ's institution. But Christ appears to have instituted this sacrament in fermented bread, because, as we have read in Ex. 12, the Jews, according to the Law, began to use unleavened bread on the day of the Passover which is celebrated on the fourteenth day of the moon; and Christ instituted this sacrament at the supper which He celebrated "before the festival day of the Pasch" (Jn. 13:1, 4). Therefore we ought likewise to celebrate this sacrament with fermented bread.
 
@@ -102,7 +102,7 @@ Objection 3: Further, as stated above ([4521]Q[65], A[1];[4522] Q[73], A[3]), th
 
 Objection 4: Further, leavened or unleavened are mere accidents of bread, which do not vary the species. But in the matter for the sacrament of Baptism no difference is observed regarding the variation of the accidents, as to whether it be salt or fresh, warm or cold water. Therefore neither ought any distinction to be observed, as to whether the bread be unleavened or leavened.
 
-## Answer
+### Answer
 
 On the contrary, According to the Decretals (Extra, De Celebr. Miss.), a priest is punished "for presuming to celebrate, using fermented bread and a wooden cup."
 
@@ -112,7 +112,7 @@ But it is suitable that every priest observe the rite of his Church in the celeb
 
 However, this custom of the Greeks is not unreasonable both on account of its signification, to which Gregory refers, and in detestation of the heresy of the Nazarenes, who mixed up legal observances with the Gospel.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As we read in Ex. 12, the paschal solemnity began on the evening of the fourteenth day of the moon. So, then, after immolating the Paschal Lamb, Christ instituted this sacrament: hence this day is said by John to precede the day of the Pasch, while the other three Evangelists call it "the first day of the Azymes," when fermented bread was not found in the houses of the Jews, as stated above. Fuller mention was made of this in the treatise on our Lord's Passion ([4525]Q[46], A[9], ad 1).
 
@@ -121,9 +121,9 @@ Reply to Objection 2: Those who celebrate the sacrament with unleavened bread do
 Reply to Objection 3: Leaven denotes charity on account of one single effect, because it makes the bread more savory and larger; but it also signifies corruption from its very nature.
 
 Reply to Objection 4: Since whatever is fermented partakes of corruption, this sacrament may not be made from corrupt bread, as stated above (A[3], ad 4); consequently, there is a wider difference between unleavened and leavened bread than between warm and cold baptismal water: because there might be such corruption of fermented bread that it could not be validly used for the sacrament.
-# Whether Wine Of The Grape Is The Proper Matter Of This Sacrament?
+## Whether Wine Of The Grape Is The Proper Matter Of This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that wine of the grape is not the proper matter of this sacrament. Because, as water is the matter of Baptism, so is wine the matter of this sacrament. But Baptism can be conferred with any kind of water. Therefore this sacrament can be celebrated in any kind of wine, such as of pomegranates, or of mulberries; since vines do not grow in some countries.
 
@@ -131,22 +131,22 @@ Objection 2: Further, vinegar is a kind of wine drawn from the grape, as Isidore
 
 Objection 3: Further, just as the clarified wine is drawn from grapes, so also are the juice of unripe grapes and must. But it does not appear that this sacrament may be made from such, according to what we read in the Sixth Council (Trull., Can. 28): "We have learned that in some churches the priests add grapes to the sacrifice of the oblation; and so they dispense both together to the people. Consequently we give order that no priest shall do this in future." And Pope Julius I rebukes some priests "who offer wine pressed from the grape in the sacrament of the Lord's chalice." Consequently, it seems that wine from the grape is not the proper matter of this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, As our Lord compared Himself to the grain of wheat, so also He compared Himself to the vine, saying (Jn. 15:1): "I am the true vine." But only bread from wheat is the matter of this sacrament, as stated above [4526](A[3]). Therefore, only wine from the grape is the proper matter of this sacrament.
 
 I answer that, This sacrament can only be performed with wine from the grape. First of all on account of Christ's institution, since He instituted this sacrament in wine from the grape, as is evident from His own words, in instituting this sacrament (Mat. 26:29): "I will not drink from henceforth of this fruit of the vine." Secondly, because, as stated above [4527](A[3]), that is adopted as the matter of the sacraments which is properly and universally considered as such. Now that is properly called wine, which is drawn from the grape, whereas other liquors are called wine from resemblance to the wine of the grape. Thirdly, because the wine from the grape is more in keeping with the effect of this sacrament, which is spiritual; because it is written (Ps. 103:15): "That wine may cheer the heart of man."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Such liquors are called wine, not properly but only from their resemblance thereto. But genuine wine can be conveyed to such countries wherein the grape-vine does not flourish, in a quantity sufficient for this sacrament.
 
 Reply to Objection 2: Wine becomes vinegar by corruption; hence there is no returning from vinegar to wine, as is said in Metaph. viii. And consequently, just as this sacrament may not be made from bread which is utterly corrupt, so neither can it be made from vinegar. It can, however, be made from wine which is turning sour, just as from bread turning corrupt, although he who does so sins, as stated above [4528](A[3]).
 
 Reply to Objection 3: The juice of unripe grapes is at the stage of incomplete generation, and therefore it has not yet the species of wine: on which account it may not be used for this sacrament. Must, however, has already the species of wine, for its sweetness [*"Aut dulcis musti Vulcano decoquit humorem"; Virgil, Georg. i, 295] indicates fermentation which is "the result of its natural heat" (Meteor. iv); consequently this sacrament can be made from must. Nevertheless entire grapes ought not to be mixed with this sacrament, because then there would be something else besides wine. It is furthermore forbidden to offer must in the chalice, as soon as it has been squeezed from the grape, since this is unbecoming owing to the impurity of the must. But in case of necessity it may be done: for it is said by the same Pope Julius, in the passage quoted in the argument: "If necessary, let the grape be pressed into the chalice."
-# Whether Water Should Be Mixed With The Wine?
+## Whether Water Should Be Mixed With The Wine?
 
-## Objections
+### Objections
 
 Objection 1: It seems that water ought not to be mixed with the wine, since Christ's sacrifice was foreshadowed by that of Melchisedech, who (Gn. 14:18) is related to have offered up bread and wine only. Consequently it seems that water should not be added in this sacrament.
 
@@ -154,22 +154,22 @@ Objection 2: Further, the various sacraments have their respective matters. But 
 
 Objection 3: Further, bread and wine are the matter of this sacrament. But nothing is added to the bread. Therefore neither should anything be added to the wine.
 
-## Answer
+### Answer
 
 On the contrary, Pope Alexander I writes (Ep. 1 ad omnes orth.): "In the sacramental oblations which in mass are offered to the Lord, only bread and wine mixed with water are to be offered in sacrifice."
 
 I answer that, Water ought to be mingled with the wine which is offered in this sacrament. First of all on account of its institution: for it is believed with probability that our Lord instituted this sacrament in wine tempered with water according to the custom of that country: hence it is written (Prov. 9:5): "Drink the wine which I have mixed for you." Secondly, because it harmonizes with the representation of our Lord's Passion: hence Pope Alexander I says (Ep. 1 ad omnes orth.): "In the Lord's chalice neither wine only nor water only ought to be offered, but both mixed because we read that both flowed from His side in the Passion." Thirdly, because this is adapted for signifying the effect of this sacrament, since as Pope Julius says (Concil. Bracarens iii, Can. 1): "We see that the people are signified by the water, but Christ's blood by the wine. Therefore when water is mixed with the wine in the chalice, the people is made one with Christ." Fourthly, because this is appropriate to the fourth effect of this sacrament, which is the entering into everlasting life: hence Ambrose says (De Sacram. v): "The water flows into the chalice, and springs forth unto everlasting life."
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Ambrose says (De Sacram. v), just as Christ's sacrifice is denoted by the offering of Melchisedech, so likewise it is signified by the water which flowed from the rock in the desert, according to 1 Cor. 10:4: "But they drank of the spiritual rock which came after them."
 
 Reply to Objection 2: In Baptism water is used for the purpose of ablution: but in this sacrament it is used by way of refreshment, according to Ps. 22:3: "He hath brought me up on the water of refreshment."
 
 Reply to Objection 3: Bread is made of water and flour; and therefore, since water is mixed with the wine, neither is without water.
-# Whether The Mixing With Water Is Essential To This Sacrament?
+## Whether The Mixing With Water Is Essential To This Sacrament?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the mixing with water is essential to this sacrament. Because Cyprian says to Cecilius (Ep. lxiii): "Thus the Lord's chalice is not water only and wine only, but both must be mixed together: in the same way as neither the Lord's body be of flour only, except both," i.e. the flour and the water "be united as one." But the admixture of water with the flour is necessary for this sacrament. Consequently, for the like reason, so is the mixing of water with the wine.
 
@@ -177,22 +177,22 @@ Objection 2: Further, at our Lord's Passion, of which this is the memorial, wate
 
 Objection 3: Further, if water were not essential to this sacrament, it would not matter in the least what kind of water was used; and so water distilled from roses, or any other kind might be employed; which is contrary to the usage of the Church. Consequently water is essential to this sacrament.
 
-## Answer
+### Answer
 
 On the contrary, Cyprian says (Ep. lxiii): "If any of our predecessors, out of ignorance or simplicity, has not kept this usage," i.e. of mixing water with the wine, "one may pardon his simplicity"; which would not be the case if water were essential to the sacrament, as the wine or the bread. Therefore the mingling of water with the wine is not essential to the sacrament.
 
 I answer that, Judgment concerning a sign is to be drawn from the thing signified. Now the adding of water to the wine is for the purpose of signifying the sharing of this sacrament by the faithful, in this respect that by the mixing of the water with the wine is signified the union of the people with Christ, as stated [4529](A[6]). Moreover, the flowing of water from the side of Christ hanging on the cross refers to the same, because by the water is denoted the cleansing from sins, which was the effect of Christ's Passion. Now it was observed above (Q[73], A[1], ad 3), that this sacrament is completed in the consecration of the matter: while the usage of the faithful is not essential to the sacrament, but only a consequence thereof. Consequently, then, the adding of water is not essential to the sacrament.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Cyprian's expression is to be taken in the same sense in which we say that a thing cannot be, which cannot be suitably. And so the comparison refers to what ought to be done, not to what is essential to be done; since water is of the essence of bread, but not of the essence of wine.
 
 Reply to Objection 2: The shedding of the blood belonged directly to Christ's Passion: for it is natural for blood to flow from a wounded human body. But the flowing of the water was not necessary for the Passion; but merely to show its effect, which is to wash away sins, and to refresh us from the heat of concupiscence. And therefore the water is not offered apart from the wine in this sacrament, as the wine is offered apart from the bread; but the water is offered mixed with the wine to show that the wine belongs of itself to this sacrament, as of its very essence; but the water as something added to the wine.
 
 Reply to Objection 3: Since the mixing of water with the wine is not necessary for the sacrament, it does not matter, as to the essence of the sacrament, what kind of water is added to the wine, whether natural water, or artificial, as rose-water, although, as to the propriety of the sacrament, he would sin who mixes any other than natural and true water, because true water flowed from the side of Christ hanging on the cross, and not phlegm, as some have said, in order to show that Christ's body was truly composed of the four elements; as by the flowing blood, it was shown to be composed of the four humors, as Pope Innocent III says in a certain Decree. But because the mixing of water with flour is essential to this sacrament, as making the composition of bread, if rose-water, or any other liquor besides true water, be mixed with the flour, the sacrament would not be valid, because it would not be true bread.
-# Whether Water Should Be Added In Great Quantity?
+## Whether Water Should Be Added In Great Quantity?
 
-## Objections
+### Objections
 
 Objection 1: It seems that water ought to be added in great quantity, because as blood flowed sensibly from Christ's side, so did water: hence it is written (Jn. 19:35): "He that saw it, hath given testimony." But water could not be sensibly present in this sacrament except it were used in great quantity. Consequently it seems that water ought to be added in great quantity.
 
@@ -200,7 +200,7 @@ Objection 2: Further, a little water mixed with much wine is corrupted. But what
 
 Objection 3: Further, if it sufficed to add a little, then as a consequence it would suffice to throw one drop of water into an entire cask. But this seems ridiculous. Therefore it does not suffice for a small quantity to be added.
 
-## Answer
+### Answer
 
 On the contrary, It is said in the Decretals (Extra, De Celeb. Miss.): "The pernicious abuse has prevailed in your country of adding water in greater quantity than the wine, in the sacrifice, where according to the reasonable custom of the entire Church more wine than water ought to be employed."
 
@@ -208,7 +208,7 @@ I answer that, There is a threefold opinion regarding the water added to the win
 
 And therefore as he (Innocent III, Decretals, Extra, De Celeb. Miss.) says, the more probable opinion is that which holds that the water is changed into wine, and the wine into blood. Now, this could not be done unless so little water was used that it would be changed into wine. Consequently, it is always safer to add little water, especially if the wine be weak, because the sacrament could not be celebrated if there were such addition of water as to destroy the species of the wine. Hence Pope Julius I reprehends some who "keep throughout the year a linen cloth steeped in must, and at the time of sacrifice wash a part of it with water, and so make the offering."
 
-## Replies
+### Replies
 
 Reply to Objection 1: For the signification of this sacrament it suffices for the water to be appreciable by sense when it is mixed with the wine: but it is not necessary for it to be sensible after the mingling.
 

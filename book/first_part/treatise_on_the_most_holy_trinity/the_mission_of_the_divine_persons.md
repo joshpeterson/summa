@@ -9,9 +9,9 @@ We next consider the mission of the divine persons, concerning which there are e
 (6) To whom the invisible mission is directed?
 (7) Of the visible mission
 (8) Whether any person sends Himself visibly or invisibly?
-# Whether A Divine Person Can Be Properly Sent?
+## Whether A Divine Person Can Be Properly Sent?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a divine person cannot be properly sent. For one who is sent is less than the sender. But one divine person is not less than another. Therefore one person is not sent by another.
 
@@ -19,22 +19,22 @@ Objection 2: Further, what is sent is separated from the sender; hence Jerome sa
 
 Objection 3: Further, whoever is sent, departs from one place and comes anew into another. But this does not apply to a divine person, Who is everywhere. Therefore it is not suitable for a divine person to be sent.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Jn. 8:16): "I am not alone, but I and the Father that sent Me."
 
 I answer that, the notion of mission includes two things: the habitude of the one sent to the sender; and that of the one sent to the end whereto he is sent. Anyone being sent implies a certain kind of procession of the one sent from the sender: either according to command, as the master sends the servant; or according to counsel, as an adviser may be said to send the king to battle; or according to origin, as a tree sends forth its flowers. The habitude to the term to which he is sent is also shown, so that in some way he begins to be present there: either because in no way was he present before in the place whereto he is sent, or because he begins to be there in some way in which he was not there hitherto. Thus the mission of a divine person is a fitting thing, as meaning in one way the procession of origin from the sender, and as meaning a new way of existing in another; thus the Son is said to be sent by the Father into the world, inasmuch as He began to exist visibly in the world by taking our nature; whereas "He was" previously "in the world" (Jn. 1:1).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Mission implies inferiority in the one sent, when it means procession from the sender as principle, by command or counsel; forasmuch as the one commanding is the greater, and the counsellor is the wiser. In God, however, it means only procession of origin, which is according to equality, as explained above ([364]Q[42], AA[4],6).
 
 Reply to Objection 2: What is so sent as to begin to exist where previously it did not exist, is locally moved by being sent; hence it is necessarily separated locally from the sender. This, however, has no place in the mission of a divine person; for the divine person sent neither begins to exist where he did not previously exist, nor ceases to exist where He was. Hence such a mission takes place without a separation, having only distinction of origin.
 
 Reply to Objection 3: This objection rests on the idea of mission according to local motion, which is not in God.
-# Whether Mission Is Eternal, Or Only Temporal?
+## Whether Mission Is Eternal, Or Only Temporal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that mission can be eternal. For Gregory says (Hom. xxvi, in Ev.), "The Son is sent as He is begotten." But the Son's generation is eternal. Therefore mission is eternal.
 
@@ -42,7 +42,7 @@ Objection 2: Further, a thing is changed if it becomes something temporally. But
 
 Objection 3: Further, mission implies procession. But the procession of the divine persons is eternal. Therefore mission is also eternal.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Gal. 4:4): "When the fullness of the time was come, God sent His Son."
 
@@ -50,16 +50,16 @@ I answer that, A certain difference is to be observed in all the words that expr
 
 Hence "mission" and "giving" have only a temporal significance in God; but "generation" and "spiration" are exclusively eternal; whereas "procession" and "giving," in God, have both an eternal and a temporal signification: for the Son may proceed eternally as God; but temporally, by becoming man, according to His visible mission, or likewise by dwelling in man according to His invisible mission.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Gregory speaks of the temporal generation of the Son, not from the Father, but from His mother; or it may be taken to mean that He could be sent because eternally begotten.
 
 Reply to Objection 2: That a divine person may newly exist in anyone, or be possessed by anyone in time, does not come from change of the divine person, but from change in the creature; as God Himself is called Lord temporally by change of the creature.
 
 Reply to Objection 3: Mission signifies not only procession from the principle, but also determines the temporal term of the procession. Hence mission is only temporal. Or we may say that it includes the eternal procession, with the addition of a temporal effect. For the relation of a divine person to His principle must be eternal. Hence the procession may be called a twin procession, eternal and temporal, not that there is a double relation to the principle, but a double term, temporal and eternal.
-# Whether The Invisible Mission Of The Divine Person Is Only According To The Gift Of Sanctifying Grace?
+## Whether The Invisible Mission Of The Divine Person Is Only According To The Gift Of Sanctifying Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the invisible mission of the divine person is not only according to the gift of sanctifying grace. For the sending of a divine person means that He is given. Hence if the divine person is sent only according to the gift of sanctifying grace, the divine person Himself will not be given, but only His gifts; and this is the error of those who say that the Holy Ghost is not given, but that His gifts are given.
 
@@ -69,7 +69,7 @@ Objection 3: Further, Augustine says (De Trin. iv, 20) that "the Son, when tempo
 
 Objection 4: Further, Rabanus says that the Holy Ghost was given to the apostles for the working of miracles. This, however, is not a gift of sanctifying grace, but a gratuitous grace. Therefore the divine person is not given only according to the gift of sanctifying grace.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. iii, 4) that "the Holy Ghost proceeds temporally for the creature's sanctification." But mission is a temporal procession. Since then the creature's sanctification is by sanctifying grace, it follows that the mission of the divine person is only by sanctifying grace.
 
@@ -79,7 +79,7 @@ For God is in all things by His essence, power and presence, according to His on
 
 Again, we are said to possess only what we can freely use or enjoy: and to have the power of enjoying the divine person can only be according to sanctifying grace. And yet the Holy Ghost is possessed by man, and dwells within him, in the very gift itself of sanctifying grace. Hence the Holy Ghost Himself is given and sent.
 
-## Replies
+### Replies
 
 Reply to Objection 1: By the gift of sanctifying grace the rational creature is perfected so that it can freely use not only the created gift itself, but enjoy also the divine person Himself; and so the invisible mission takes place according to the gift of sanctifying grace; and yet the divine person Himself is given.
 
@@ -88,9 +88,9 @@ Reply to Objection 2: Sanctifying grace disposes the soul to possess the divine 
 Reply to Objection 3: Although the Son can be known by us according to other effects, yet neither does He dwell in us, nor is He possessed by us according to those effects.
 
 Reply to Objection 4: The working of miracles manifests sanctifying grace as also does the gift of prophecy and any other gratuitous graces. Hence gratuitous grace is called the "manifestation of the Spirit" (1 Cor. 12:7). So the Holy Ghost is said to be given to the apostles for the working of miracles, because sanctifying grace was given to them with the outward sign. Were the sign only of sanctifying grace given to them without the grace itself, it would not be simply said that the Holy Ghost was given, except with some qualifying term; just as we read of certain ones receiving the gift of the spirit of prophecy, or of miracles, as having from the Holy Ghost the power of prophesying or of working miracles.
-# Whether The Father Can Be Fittingly Sent?
+## Whether The Father Can Be Fittingly Sent?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is fitting also that the Father should be sent. For being sent means that the divine person is given. But the Father gives Himself since He can only be possessed by His giving Himself. Therefore it can be said that the Father sends Himself.
 
@@ -98,22 +98,22 @@ Objection 2: Further, the divine person is sent according to the indwelling of g
 
 Objection 3: Further, whatever belongs to one person, belongs to them all, except the notions and persons. But mission does not signify any person; nor even a notion, since there are only five notions, as stated above ([365]Q[32], A[3]). Therefore every divine person can be sent.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Trin. ii, 3), "The Father alone is never described as being sent."
 
 I answer that, The very idea of mission means procession from another, and in God it means procession according to origin, as above expounded. Hence, as the Father is not from another, in no way is it fitting for Him to be sent; but this can only belong to the Son and to the Holy Ghost, to Whom it belongs to be from another.
 
-## Replies
+### Replies
 
 Reply to Objection 1: In the sense of "giving" as a free bestowal of something, the Father gives Himself, as freely bestowing Himself to be enjoyed by the creature. But as implying the authority of the giver as regards what is given, "to be given" only applies in God to the Person Who is from another; and the same as regards "being sent."
 
 Reply to Objection 2: Although the effect of grace is also from the Father, Who dwells in us by grace, just as the Son and the Holy Ghost, still He is not described as being sent, for He is not from another. Thus Augustine says (De Trin. iv, 20) that "The Father, when known by anyone in time, is not said to be sent; for there is no one whence He is, or from whom He proceeds."
 
 Reply to Objection 3: Mission, meaning procession from the sender, includes the signification of a notion, not of a special notion, but in general; thus "to be from another" is common to two of the notions.
-# Whether It Is Fitting For The Son To Be Sent Invisibly?
+## Whether It Is Fitting For The Son To Be Sent Invisibly?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that it is not fitting for the Son to be sent invisibly. For invisible mission of the divine person is according to the gift of grace. But all gifts of grace belong to the Holy Ghost, according to 1 Cor. 12:11: "One and the same Spirit worketh all things." Therefore only the Holy Ghost is sent invisibly.
 
@@ -121,22 +121,22 @@ Objection 2: Further, the mission of the divine person is according to sanctifyi
 
 Objection 3: Further, the mission of the divine person is a procession, as expounded above ([366]AA[1],4). But the procession of the Son and of the Holy Ghost differ from each other. Therefore they are distinct missions if both are sent; and then one of them would be superfluous, since one would suffice for the creature's sanctification.
 
-## Answer
+### Answer
 
 On the contrary, It is said of divine Wisdom (Wis. 9:10): "Send her from heaven to Thy Saints, and from the seat of Thy greatness."
 
 I answer that, The whole Trinity dwells in the mind by sanctifying grace, according to Jn. 14:23: "We will come to him, and will make Our abode with him." But that a divine person be sent to anyone by invisible grace signifies both that this person dwells in a new way within him and that He has His origin from another. Hence, since both to the Son and to the Holy Ghost it belongs to dwell in the soul by grace, and to be from another, it therefore belongs to both of them to be invisibly sent. As to the Father, though He dwells in us by grace, still it does not belong to Him to be from another, and consequently He is not sent.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although all the gifts, considered as such, are attributed to the Holy Ghost, forasmuch as He is by His nature the first Gift, since He is Love, as stated above ([367]Q[38], A[1]), some gifts nevertheless, by reason of their own particular nature, are appropriated in a certain way to the Son, those, namely, which belong to the intellect, and in respect of which we speak of the mission of the Son. Hence Augustine says (De Trin. iv, 20) that "The Son is sent to anyone invisibly, whenever He is known and perceived by anyone."
 
 Reply to Objection 2: The soul is made like to God by grace. Hence for a divine person to be sent to anyone by grace, there must needs be a likening of the soul to the divine person Who is sent, by some gift of grace. Because the Holy Ghost is Love, the soul is assimilated to the Holy Ghost by the gift of charity: hence the mission of the Holy Ghost is according to the mode of charity. Whereas the Son is the Word, not any sort of word, but one Who breathes forth Love. Hence Augustine says (De Trin. ix 10): "The Word we speak of is knowledge with love." Thus the Son is sent not in accordance with every and any kind of intellectual perfection, but according to the intellectual illumination, which breaks forth into the affection of love, as is said (Jn. 6:45): "Everyone that hath heard from the Father and hath learned, cometh to Me," and (Ps. 38:4): "In my meditation a fire shall flame forth." Thus Augustine plainly says (De Trin. iv, 20): "The Son is sent, whenever He is known and perceived by anyone." Now perception implies a certain experimental knowledge; and this is properly called wisdom [sapientia], as it were a sweet knowledge [sapida scientia], according to Ecclus. 6:23: "The wisdom of doctrine is according to her name."
 
 Reply to Objection 3: Since mission implies the origin of the person Who is sent, and His indwelling by grace, as above explained [368](A[1]), if we speak of mission according to origin, in this sense the Son's mission is distinguished from the mission of the Holy Ghost, as generation is distinguished from procession. If we consider mission as regards the effect of grace, in this sense the two missions are united in the root which is grace, but are distinguished in the effects of grace, which consist in the illumination of the intellect and the kindling of the affection. Thus it is manifest that one mission cannot be without the other, because neither takes place without sanctifying grace, nor is one person separated from the other.
-# Whether The Invisible Mission Is To All Who Participate Grace?
+## Whether The Invisible Mission Is To All Who Participate Grace?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the invisible mission is not to all who participate grace. For the Fathers of the Old Testament had their share of grace. Yet to them was made no invisible mission; for it is said (Jn. 7:39): "The Spirit was not yet given, because Jesus was not yet glorified." Therefore the invisible mission is not to all partakers in grace.
 
@@ -146,13 +146,13 @@ Objection 3: Further, Christ and the blessed have fullness of grace. But mission
 
 Objection 4: Further, the Sacraments of the New Law contain grace, and it is not said that the invisible mission is sent to them. Therefore the invisible mission is not to all that have grace.
 
-## Answer
+### Answer
 
 On the contrary, According to Augustine (De Trin. iii, 4; xv, 27), the invisible mission is for the creature's sanctification. Now every creature that has grace is sanctified. Therefore the invisible mission is to every such creature.
 
 I answer that, As above stated ([369]AA[3],4,5), mission in its very meaning implies that he who is sent either begins to exist where he was not before, as occurs to creatures; or begins to exist where he was before, but in a new way, in which sense mission is ascribed to the divine persons. Thus, mission as regards the one to whom it is sent implies two things, the indwelling of grace, and a certain renewal by grace. Thus the invisible mission is sent to all in whom are to be found these two conditions.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The invisible mission was directed to the Old Testament Fathers, as appears from what Augustine says (De Trin. iv, 20), that the invisible mission of the Son "is in man and with men. This was done in former times with the Fathers and the Prophets." Thus the words, "the Spirit was not yet given," are to be applied to that giving accompanied with a visible sign which took place on the day of Pentecost.
 
@@ -161,9 +161,9 @@ Reply to Objection 2: The invisible mission takes place also as regards progress
 Reply to Objection 3: The invisible mission is directed to the blessed at the very beginning of their beatitude. The invisible mission is made to them subsequently, not by "intensity" of grace, but by the further revelation of mysteries; which goes on till the day of judgment. Such an increase is by the "extension" of grace, because it extends to a greater number of objects. To Christ the invisible mission was sent at the first moment of His conception; but not afterwards, since from the beginning of His conception He was filled with all wisdom and grace.
 
 Reply to Objection 4: Grace resides instrumentally in the sacraments of the New Law, as the form of a thing designed resides in the instruments of the art designing, according to a process flowing from the agent to the passive object. But mission is only spoken of as directed to its term. Hence the mission of the divine person is not sent to the sacraments, but to those who receive grace through the sacraments.
-# Whether It Is Fitting For The Holy Ghost To Be Sent Visibly?
+## Whether It Is Fitting For The Holy Ghost To Be Sent Visibly?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the Holy Ghost is not fittingly sent in a visible manner. For the Son as visibly sent to the world is said to be less than the Father. But the Holy Ghost is never said to be less than the Father. Therefore the Holy Ghost is not fittingly sent in a visible manner.
 
@@ -177,7 +177,7 @@ Objection 5: Further, whatever is done visibly by God is dispensed by the minist
 
 Objection 6: Further, the Holy Ghost being sent in a visible manner is only for the purpose of manifesting the invisible mission; as invisible things are made known by the visible. So those to whom the invisible mission was not sent, ought not to receive the visible mission; and to all who received the invisible mission, whether in the New or in the Old Testament, the visible mission ought likewise to be sent; and this is clearly false. Therefore the Holy Ghost is not sent visibly.
 
-## Answer
+### Answer
 
 On the contrary, It is said (Mat. 3:16) that, when our Lord was baptized, the Holy Ghost descended upon Him in the shape of a dove.
 
@@ -185,7 +185,7 @@ I answer that, God provides for all things according to the nature of each thing
 
 This mode of manifestation applies in different ways to the Son and to the Holy Ghost. For it belongs to the Holy Ghost, Who proceeds as Love, to be the gift of sanctification; to the Son as the principle of the Holy Ghost, it belongs to the author of this sanctification. Thus the Son has been sent visibly as the author of sanctification; the Holy Ghost as the sign of sanctification.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The Son assumed the visible creature, wherein He appeared, into the unity of His person, so that whatever can be said of that creature can be said of the Son of God; and so, by reason of the nature assumed, the Son is called less than the Father. But the Holy Ghost did not assume the visible creature, in which He appeared, into the unity of His person; so that what is said of it cannot be predicated of Him. Hence He cannot be called less than the Father by reason of any visible creature.
 
@@ -198,9 +198,9 @@ Reply to Objection 4: It was necessary for the Son to be declared as the author 
 Reply to Objection 5: Those visible creatures were formed by the ministry of the angels, not to signify the person of an angel, but to signify the Person of the Holy Ghost. Thus, as the Holy Ghost resided in those visible creatures as the one signified in the sign, on that account the Holy Ghost is said to be sent visibly, and not as an angel.
 
 Reply to Objection 6: It is not necessary that the invisible mission should always be made manifest by some visible external sign; but, as is said (1 Cor. 12:7)---"the manifestation of the Spirit is given to every man unto profit"---that is, of the Church. This utility consists in the confirmation and propagation of the faith by such visible signs. This has been done chiefly by Christ and by the apostles, according to Heb. 2:3, "which having begun to be declared by the Lord, was confirmed unto us by them that heard."
-# Whether A Divine Person Is Sent Only By The Person Whence He Proceeds Eternally?
+## Whether A Divine Person Is Sent Only By The Person Whence He Proceeds Eternally?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that a divine person is sent only by the one whence He proceeds eternally. For as Augustine says (De Trin. iv), "The Father is sent by no one because He is from no one." Therefore if a divine person is sent by another, He must be from that other.
 
@@ -208,7 +208,7 @@ Objection 2: Further, the sender has authority over the one sent. But there can 
 
 Objection 3: Further, if a divine person can be sent by one whence He does not proceed, then the Holy Ghost may be given by a man, although He proceeds not from him; which is contrary to what Augustine says (De Trin. xv). Therefore the divine person is sent only by the one whence He proceeds.
 
-## Answer
+### Answer
 
 On the contrary, The Son is sent by the Holy Ghost, according to Is. 48:16, "Now the Lord God hath sent Me and His Spirit." But the Son is not from the Holy Ghost. Therefore a divine person is sent by one from Whom He does not proceed.
 

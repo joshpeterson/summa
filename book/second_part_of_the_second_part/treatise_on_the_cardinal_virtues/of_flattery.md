@@ -3,9 +3,9 @@
 We must now consider the vices opposed to the aforesaid virtue: (1) Flattery, and (2) Quarreling. Concerning flattery there are two points of inquiry:
 (1) Whether flattery is a sin?
 (2) Whether it is a mortal sin?
-# Whether Flattery Is A Sin?
+## Whether Flattery Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that flattery is not a sin. For flattery consists in words of praise offered to another in order to please him. But it is not a sin to praise a person, according to Prov. 31:28, "Her children rose up and called her blessed: her husband, and he praised her." Moreover, there is no evil in wishing to please others, according to 1 Cor. 10:33, "I . . . in all things please all men." Therefore flattery is not a sin.
 
@@ -13,22 +13,22 @@ Objection 2: Further, evil is contrary to good, and blame to praise. But it is n
 
 Objection 3: Further, detraction is contrary to flattery. Wherefore Gregory says (Moral. xxii, 5) that detraction is a remedy against flattery. "It must be observed," says he, "that by the wonderful moderation of our Ruler, we are often allowed to be rent by detractions but are uplifted by immoderate praise, so that whom the voice of the flatterer upraises, the tongue of the detractor may humble." But detraction is an evil, as stated above ([3230]Q[73], AA[2],3). Therefore flattery is a good.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on Ezech. 13:18, "Woe to them that sew cushions under every elbow," says, "that is to say, sweet flattery." Therefore flattery is a sin.
 
 I answer that, As stated above ([3231]Q[114], A[1], ad 3), although the friendship of which we have been speaking, or affability, intends chiefly the pleasure of those among whom one lives, yet it does not fear to displease when it is a question of obtaining a certain good, or of avoiding a certain evil. Accordingly, if a man were to wish always to speak pleasantly to others, he would exceed the mode of pleasing, and would therefore sin by excess. If he do this with the mere intention of pleasing he is said to be "complaisant," according to the Philosopher (Ethic. iv, 6): whereas if he do it with the intention of making some gain out of it, he is called a "flatterer" or "adulator." As a rule, however, the term "flattery" is wont to be applied to all who wish to exceed the mode of virtue in pleasing others by words or deeds in their ordinary behavior towards their fellows.
 
-## Replies
+### Replies
 
 Reply to Objection 1: One may praise a person both well and ill, according as one observes or omits the due circumstances. For if while observing other due circumstances one were to wish to please a person by praising him, in order thereby to console him, or that he may strive to make progress in good, this will belong to the aforesaid virtue of friendship. But it would belong to flattery, if one wished to praise a person for things in which he ought not to be praised; since perhaps they are evil, according to Ps. 9:24, "The sinner is praised in the desires of his soul"; or they may be uncertain, according to Ecclus. 27:8, "Praise not a man before he speaketh," and again (Ecclus. 11:2), "Praise not a man for his beauty"; or because there may be fear lest human praise should incite him to vainglory, wherefore it is written, (Ecclus. 11:30), "Praise not any man before death." Again, in like manner it is right to wish to please a man in order to foster charity, so that he may make spiritual progress therein. But it would be sinful to wish to please men for the sake of vainglory or gain, or to please them in something evil, according to Ps. 52:6, "God hath scattered the bones of them that please men," and according to the words of the Apostle (Gal. 1:10), "If I yet pleased men, I should not be the servant of Christ."
 
 Reply to Objection 2: Even to blame evil is sinful, if due circumstances be not observed; and so too is it to praise good.
 
 Reply to Objection 3: Nothing hinders two vices being contrary to one another. Wherefore even as detraction is evil, so is flattery, which is contrary thereto as regards what is said, but not directly as regards the end. Because flattery seeks to please the person flattered, whereas the detractor seeks not the displeasure of the person defamed, since at times he defames him in secret, but seeks rather his defamation.
-# Whether Flattery Is A Mortal Sin?
+## Whether Flattery Is A Mortal Sin?
 
-## Objections
+### Objections
 
 Objection 1: It seems that flattery is a mortal sin. For, according to Augustine (Enchiridion xii), "a thing is evil because it is harmful." But flattery is most harmful, according to Ps. 9:24, "For the sinner is praised in the desires of his soul, and the unjust man is blessed. The sinner hath provoked the Lord." Wherefore Jerome says (Ep. ad Celant): "Nothing so easily corrupts the human mind as flattery": and a gloss on Ps. 69:4, "Let them be presently turned away blushing for shame that say to me: 'Tis well, 'Tis well," says: "The tongue of the flatterer harms more than the sword of the persecutor." Therefore flattery is a most grievous sin.
 
@@ -36,13 +36,13 @@ Objection 2: Further, whoever does harm by words, harms himself no less than oth
 
 Objection 3: Further, it is written in the Decretals (D. XLVI, Cap. 3): "The cleric who shall be found to spend his time in flattery and treachery shall be degraded from his office." Now such a punishment as this is not inflicted save for mortal sin. Therefore flattery is a mortal sin.
 
-## Answer
+### Answer
 
 On the contrary, Augustine in a sermon on Purgatory (xli, de Sanctis) reckons among slight sins, "if one desire to flatter any person of higher standing, whether of one's own choice, or out of necessity."
 
 I answer that, As stated above ([3232]Q[112], A[2]), a mortal sin is one that is contrary to charity. Now flattery is sometimes contrary to charity and sometimes not. It is contrary to charity in three ways. First, by reason of the very matter, as when one man praises another's sin: for this is contrary to the love of God, against Whose justice he speaks, and contrary to the love of his neighbor, whom he encourages to sin. Wherefore this is a mortal sin, according to Is. 5:20. "Woe to you that call evil good." Secondly, by reason of the intention, as when one man flatters another, so that by deceiving him he may injure him in body or in soul; this is also a mortal sin, and of this it is written (Prov. 27:6): "Better are the wounds of a friend than the deceitful kisses of an enemy." Thirdly, by way of occasion, as when the praise of a flatterer, even without his intending it, becomes to another an occasion of sin. In this case it is necessary to consider, whether the occasion were given or taken, and how grievous the consequent downfall, as may be understood from what has been said above concerning scandal ([3233]Q[43], AA[3],4). If, however, one man flatters another from the mere craving to please others, or again in order to avoid some evil, or to acquire something in a case of necessity, this is not contrary to charity. Consequently it is not a mortal but a venial sin.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The passages quoted speak of the flatterer who praises another's sin. Flattery of this kind is said to harm more than the sword of the persecutor, since it does harm to goods that are of greater consequence. namely, spiritual goods. Yet it does not harm so efficaciously, since the sword of the persecutor slays effectively, being a sufficient cause of death; whereas no one by flattering can be a sufficient cause of another's sinning, as was shown above (Q[43], A[1], ad 3; [3234]FS, Q[73], A[8], ad 3; [3235]FS, Q[80], A[1]).
 

@@ -5,9 +5,9 @@ We must now consider other sinful injuries committed on the person. Under this h
 (2) Blows;
 (3) Imprisonment;
 (4) Whether the sins that consist in inflicting such like injuries are aggravated through being perpetrated on persons connected with others?
-# Whether In Some Cases It May Be Lawful To Maim Anyone?
+## Whether In Some Cases It May Be Lawful To Maim Anyone?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in no case can it be lawful to maim anyone. For Damascene says (De Fide Orth. iv, 20) that "sin consists in departing from what is according to nature, towards that which is contrary to nature." Now according to nature it is appointed by God that a man's body should be entire in its members, and it is contrary to nature that it should be deprived of a member. Therefore it seems that it is always a sin to maim a person.
 
@@ -15,22 +15,22 @@ Objection 2: Further, as the whole soul is to the whole body, so are the parts o
 
 Objection 3: Further, the welfare of the soul is to be preferred to the welfare of the body. Now it is not lawful for a man to maim himself for the sake of the soul's welfare: since the council of Nicea [*P. I, sect. 4, can. i] punished those who castrated themselves that they might preserve chastity. Therefore it is not lawful for any other reason to maim a person.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ex. 21:24): "Eye for eye, tooth for tooth, hand for hand, foot for foot."
 
 I answer that, Since a member is part of the whole human body, it is for the sake of the whole, as the imperfect for the perfect. Hence a member of the human body is to be disposed of according as it is expedient for the body. Now a member of the human body is of itself useful to the good of the whole body, yet, accidentally it may happen to be hurtful, as when a decayed member is a source of corruption to the whole body. Accordingly so long as a member is healthy and retains its natural disposition, it cannot be cut off without injury to the whole body. But as the whole of man is directed as to his end to the whole of the community of which he is a part, as stated above ([2907]Q[61], A[1];[2908] Q[64], AA[2],5), it may happen that although the removal of a member may be detrimental to the whole body, it may nevertheless be directed to the good of the community, in so far as it is applied to a person as a punishment for the purpose of restraining sin. Hence just as by public authority a person is lawfully deprived of life altogether on account of certain more heinous sins, so is he deprived of a member on account of certain lesser sins. But this is not lawful for a private individual, even with the consent of the owner of the member, because this would involve an injury to the community, to whom the man and all his parts belong. If, however, the member be decayed and therefore a source of corruption to the whole body, then it is lawful with the consent of the owner of the member, to cut away the member for the welfare of the whole body, since each one is entrusted with the care of his own welfare. The same applies if it be done with the consent of the person whose business it is to care for the welfare of the person who has a decayed member: otherwise it is altogether unlawful to maim anyone.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Nothing prevents that which is contrary to a particular nature from being in harmony with universal nature: thus death and corruption, in the physical order, are contrary to the particular nature of the thing corrupted, although they are in keeping with universal nature. In like manner to maim anyone, though contrary to the particular nature of the body of the person maimed, is nevertheless in keeping with natural reason in relation to the common good.
 
 Reply to Objection 2: The life of the entire man is not directed to something belonging to man; on the contrary whatever belongs to man is directed to his life. Hence in no case does it pertain to a person to take anyone's life, except to the public authority to whom is entrusted the procuring of the common good. But the removal of a member can be directed to the good of one man, and consequently in certain cases can pertain to him.
 
 Reply to Objection 3: A member should not be removed for the sake of the bodily health of the whole, unless otherwise nothing can be done to further the good of the whole. Now it is always possible to further one's spiritual welfare otherwise than by cutting off a member, because sin is always subject to the will: and consequently in no case is it allowable to maim oneself, even to avoid any sin whatever. Hence Chrysostom, in his exposition on Mat. 19:12 (Hom. lxii in Matth.), "There are eunuchs who have made themselves eunuchs for the kingdom of heaven," says: "Not by maiming themselves, but by destroying evil thoughts, for a man is accursed who maims himself, since they are murderers who do such things." And further on he says: "Nor is lust tamed thereby, on the contrary it becomes more importunate, for the seed springs in us from other sources, and chiefly from an incontinent purpose and a careless mind: and temptation is curbed not so much by cutting off a member as by curbing one's thoughts."
-# Whether It Is Lawful For Parents To Strike Their Children, Or Masters Their Slaves?
+## Whether It Is Lawful For Parents To Strike Their Children, Or Masters Their Slaves?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unlawful for parents to strike their children, or masters their slaves. For the Apostle says (Eph. 6:4): "You, fathers, provoke not your children to anger"; and further on (Eph. 9:6): "And you, masters, do the same thing to your slaves [Vulg.: 'to them'] forbearing threatenings." Now some are provoked to anger by blows, and become more troublesome when threatened. Therefore neither should parents strike their children, nor masters their slaves.
 
@@ -38,22 +38,22 @@ Objection 2: Further, the Philosopher says (Ethic. x, 9) that "a father's words 
 
 Objection 3: Further, everyone is allowed to impart correction, for this belongs to the spiritual almsdeeds, as stated above ([2909]Q[32], A[2]). If, therefore, it is lawful for parents to strike their children for the sake of correction, for the same reason it will be lawful for any person to strike anyone, which is clearly false. Therefore the same conclusion follows.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Prov. 13:24): "He that spareth the rod hateth his son," and further on (Prov. 23:13): "Withhold not correction from a child, for if thou strike him with the rod, he shall not die. Thou shalt beat him with the rod, and deliver his soul from hell." Again it is written (Ecclus. 33:28): "Torture and fetters are for a malicious slave."
 
 I answer that, Harm is done a body by striking it, yet not so as when it is maimed: since maiming destroys the body's integrity, while a blow merely affects the sense with pain, wherefore it causes much less harm than cutting off a member. Now it is unlawful to do a person a harm, except by way of punishment in the cause of justice. Again, no man justly punishes another, except one who is subject to his jurisdiction. Therefore it is not lawful for a man to strike another, unless he have some power over the one whom he strikes. And since the child is subject to the power of the parent, and the slave to the power of his master, a parent can lawfully strike his child, and a master his slave that instruction may be enforced by correction.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since anger is a desire for vengeance, it is aroused chiefly when a man deems himself unjustly injured, as the Philosopher states (Rhet. ii). Hence when parents are forbidden to provoke their children to anger, they are not prohibited from striking their children for the purpose of correction, but from inflicting blows on them without moderation. The command that masters should forbear from threatening their slaves may be understood in two ways. First that they should be slow to threaten, and this pertains to the moderation of correction; secondly, that they should not always carry out their threats, that is that they should sometimes by a merciful forgiveness temper the judgment whereby they threatened punishment.
 
 Reply to Objection 2: The greater power should exercise the greater coercion. Now just as a city is a perfect community, so the governor of a city has perfect coercive power: wherefore he can inflict irreparable punishments such as death and mutilation. On the other hand the father and the master who preside over the family household, which is an imperfect community, have imperfect coercive power, which is exercised by inflicting lesser punishments, for instance by blows, which do not inflict irreparable harm.
 
 Reply to Objection 3: It is lawful for anyone to impart correction to a willing subject. But to impart it to an unwilling subject belongs to those only who have charge over him. To this pertains chastisement by blows.
-# Whether It Is Lawful To Imprison A Man?
+## Whether It Is Lawful To Imprison A Man?
 
-## Objections
+### Objections
 
 Objection 1: It would seem unlawful to imprison a man. An act which deals with undue matter is evil in its genus, as stated above ([2910]FS, Q[18], A[2]). Now man, having a free-will, is undue matter for imprisonment which is inconsistent with free-will. Therefore it is unlawful to imprison a man.
 
@@ -61,7 +61,7 @@ Objection 2: Further, human justice should be ruled by Divine justice. Now accor
 
 Objection 3: Further, no man should be forcibly prevented except from doing an evil deed; and any man can lawfully prevent another from doing this. If, therefore, it were lawful to imprison a man, in order to restrain him from evil deeds, it would be lawful for anyone to put a man in prison; and this is clearly false. Therefore the same conclusion follows.
 
-## Answer
+### Answer
 
 On the contrary, We read in Lev. 24 that a man was imprisoned for the sin of blasphemy.
 
@@ -69,16 +69,16 @@ I answer that, In the goods three things may be considered in due order. First, 
 
 Therefore it is unlawful to imprison or in any way detain a man, unless it be done according to the order of justice, either in punishment, or as a measure of precaution against some evil.
 
-## Replies
+### Replies
 
 Reply to Objection 1: A man who abuses the power entrusted to him deserves to lose it, and therefore when a man by sinning abuses the free use of his members, he becomes a fitting matter for imprisonment.
 
 Reply to Objection 2: According to the order of His wisdom God sometimes restrains a sinner from accomplishing a sin, according to Job 5:12: "Who bringeth to nought the designs of the malignant, so that their hand cannot accomplish what they had begun, while sometimes He allows them to do what they will." In like manner, according to human justice, men are imprisoned, not for every sin but for certain ones.
 
 Reply to Objection 3: It is lawful for anyone to restrain a man for a time from doing some unlawful deed there and then: as when a man prevents another from throwing himself over a precipice, or from striking another. But to him alone who has the right of disposing in general of the actions and of the life of another does it belong primarily to imprison or fetter, because by so doing he hinders him from doing not only evil but also good deeds.
-# Whether The Sin Is Aggravated By The Fact That The Aforesaid Injuries Are Perpetrated On Those Who Are Connected With Others?
+## Whether The Sin Is Aggravated By The Fact That The Aforesaid Injuries Are Perpetrated On Those Who Are Connected With Others?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the sin is not aggravated by the fact that the aforesaid injuries are perpetrated on those who are connected with others. Such like injuries take their sinful character from inflicting an injury on another against his will. Now the evil inflicted on a man's own person is more against his will than that which is inflicted on a person connected with him. Therefore an injury inflicted on a person connected with another is less grievous.
 
@@ -86,13 +86,13 @@ Objection 2: Further, Holy Writ reproves those especially who do injuries to orp
 
 Objection 3: Further, the person who is connected has a will of his own just as the principal person has, so that something may be voluntary for him and yet against the will of the principal person, as in the case of adultery which pleases the woman but not the husband. Now these injuries are sinful in so far as they consist in an involuntary commutation. Therefore such like injuries are of a less sinful nature.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Dt. 28:32) as though indicating an aggravating circumstance: "Thy sons and thy daughters shall be given to another people, thy eyes looking on [*Vulg.: 'May thy sons and thy daughters be given,' etc.]."
 
 I answer that, Other things being equal, an injury is a more grievous sin according as it affects more persons; and hence it is that it is a more grievous sin to strike or injure a person in authority than a private individual, because it conduces to the injury of the whole community, as stated above ([2911]FS, Q[73], A[9]). Now when an injury is inflicted on one who is connected in any way with another, that injury affects two persons, so that, other things being equal, the sin is aggravated by this very fact. It may happen, however, that in view of certain circumstances, a sin committed against one who is not connected with any other person, is more grievous, on account of either the dignity of the person, or the greatness of the injury.
 
-## Replies
+### Replies
 
 Reply to Objection 1: An injury inflicted on a person connected with others is less harmful to the persons with whom he is connected, than if it were perpetrated immediately on them, and from this point of view it is a less grievous sin. But all that belongs to the injury of the person with whom he is connected, is added to the sin of which a man is guilty through injuring the other one in himself.
 

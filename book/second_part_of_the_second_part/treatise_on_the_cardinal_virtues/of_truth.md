@@ -5,9 +5,9 @@ We must now consider truth and the vices opposed thereto. Concerning truth there
 (2) Whether it is a special virtue?
 (3) Whether it is a part of justice?
 (4) Whether it inclines to that which is less?
-# Whether Truth Is A Virtue?
+## Whether Truth Is A Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It seems that truth is not a virtue. For the first of virtues is faith, whose object is truth. Since then the object precedes the habit and the act, it seems that truth is not a virtue, but something prior to virtue.
 
@@ -15,22 +15,22 @@ Objection 2: Further, according to the Philosopher (Ethic. iv, 7), it belongs to
 
 Objection 3: Further, every virtue is either theological, or intellectual, or moral. Now truth is not a theological virtue, because its object is not God but temporal things. For Tully says (De Invent. Rhet. ii) that by "truth we faithfully represent things as they are were, or will be." Likewise it is not one of the intellectual virtues, but their end. Nor again is it a moral virtue, since it is not a mean between excess and deficiency, for the more one tells the truth, the better it is. Therefore truth is not a virtue.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher both in the Second and in the Fourth Book of Ethics places truth among the other virtues.
 
 I answer that, Truth can be taken in two ways. First, for that by reason of which a thing is said to be true, and thus truth is not a virtue, but the object or end of a virtue: because, taken in this way, truth is not a habit, which is the genus containing virtue, but a certain equality between the understanding or sign and the thing understood or signified, or again between a thing and its rule, as stated in the [3201]FP, Q[16], A[1]; [3202]FP, Q[21], A[2]. Secondly, truth may stand for that by which a person says what is true, in which sense one is said to be truthful. This truth or truthfulness must needs be a virtue, because to say what is true is a good act: and virtue is "that which makes its possessor good, and renders his action good."
 
-## Replies
+### Replies
 
 Reply to Objection 1: This argument takes truth in the first sense.
 
 Reply to Objection 2: To state that which concerns oneself, in so far as it is a statement of what is true, is good generically. Yet this does not suffice for it to be an act of virtue, since it is requisite for that purpose that it should also be clothed with the due circumstances, and if these be not observed, the act will be sinful. Accordingly it is sinful to praise oneself without due cause even for that which is true: and it is also sinful to publish one's sin, by praising oneself on that account, or in any way proclaiming it uselessly.
 
 Reply to Objection 3: A person who says what is true, utters certain signs which are in conformity with things; and such signs are either words, or external actions, or any external thing. Now such kinds of things are the subject-matter of the moral virtues alone, for the latter are concerned with the use of the external members, in so far as this use is put into effect at the command of the will. Wherefore truth is neither a theological, nor an intellectual, but a moral virtue. And it is a mean between excess and deficiency in two ways. First, on the part of the object, secondly, on the part of the act. On the part of the object, because the true essentially denotes a kind of equality, and equal is a mean between more and less. Hence for the very reason that a man says what is true about himself, he observes the mean between one that says more than the truth about himself, and one that says less than the truth. On the part of the act, to observe the mean is to tell the truth, when one ought, and as one ought. Excess consists in making known one's own affairs out of season, and deficiency in hiding them when one ought to make them known.
-# Whether Truth Is A Special Virtue?
+## Whether Truth Is A Special Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It seems that truth is not a special virtue. For the true and the good are convertible. Now goodness is not a special virtue, in fact every virtue is goodness, because "it makes its possessor good." Therefore truth is not a special virtue.
 
@@ -40,13 +40,13 @@ Objection 3: Further, the truth of life is the truth whereby one lives aright, a
 
 Objection 4: Further, truth seems to be the same as simplicity, since hypocrisy is opposed to both. But simplicity is not a special virtue, since it rectifies the intention, and that is required in every virtue. Therefore neither is truth a special virtue.
 
-## Answer
+### Answer
 
 On the contrary, It is numbered together with other virtues (Ethic. ii, 7).
 
 I answer that, The nature of human virtue consists in making a man's deed good. Consequently whenever we find a special aspect of goodness in human acts, it is necessary that man be disposed thereto by a special virtue. And since according to Augustine (De Nat. Boni iii) good consists in order, it follows that a special aspect of good will be found where there is a special order. Now there is a special order whereby our externals, whether words or deeds, are duly ordered in relation to some thing, as sign to thing signified: and thereto man is perfected by the virtue of truth. Wherefore it is evident that truth is a special virtue.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The true and the good are convertible as to subject, since every true thing is good, and every good thing is true. But considered logically, they exceed one another, even as the intellect and will exceed one another. For the intellect understands the will and many things besides, and the will desires things pertaining to the intellect, and many others. Wherefore the "true" considered in its proper aspect as a perfection of the intellect is a particular good, since it is something appetible: and in like manner the "good" considered in its proper aspect as the end of the appetite is something true, since it is something intelligible. Therefore since virtue includes the aspect of goodness, it is possible for truth to be a special virtue, just as the "true" is a special good; yet it is not possible for goodness to be a special virtue, since rather, considered logically, it is the genus of virtue.
 
@@ -55,9 +55,9 @@ Reply to Objection 2: The habits of virtue and vice take their species from what
 Reply to Objection 3: The truth of life is the truth whereby a thing is true, not whereby a person says what is true. Life like anything else is said to be true, from the fact that it attains its rule and measure, namely, the divine law; since rectitude of life depends on conformity to that law. This truth or rectitude is common to every virtue.
 
 Reply to Objection 4: Simplicity is so called from its opposition to duplicity, whereby, to wit, a man shows one thing outwardly while having another in his heart: so that simplicity pertains to this virtue. And it rectifies the intention, not indeed directly (since this belongs to every virtue), but by excluding duplicity, whereby a man pretends one thing and intends another.
-# Whether Truth Is A Part Of Justice?
+## Whether Truth Is A Part Of Justice?
 
-## Objections
+### Objections
 
 Objection 1: It seems that truth is not a part of justice. For it seems proper to justice to give another man his due. But, by telling the truth, one does not seem to give another man his due, as is the case in all the foregoing parts of justice. Therefore truth is not a part of justice.
 
@@ -65,22 +65,22 @@ Objection 2: Further, truth pertains to the intellect: whereas justice is in the
 
 Objection 3: Further, according to Jerome truth is threefold, namely, "truth of life," "truth of justice," and "truth of doctrine." But none of these is a part of justice. For truth of life comprises all virtues, as stated above (A[2], ad 3): truth of justice is the same as justice, so that it is not one of its parts; and truth of doctrine belongs rather to the intellectual virtues. Therefore truth is nowise a part of justice.
 
-## Answer
+### Answer
 
 On the contrary, Tully (De Invent. Rhet. ii) reckons truth among the parts of justice.
 
 I answer that, As stated above ([3205]Q[80]), a virtue is annexed to justice, as secondary to a principal virtue, through having something in common with justice, while falling short from the perfect virtue thereof. Now the virtue of truth has two things in common with justice. In the first place it is directed to another, since the manifestation, which we have stated to be an act of truth, is directed to another, inasmuch as one person manifests to another the things that concern himself. In the second place, justice sets up a certain equality between things, and this the virtue of truth does also, for it equals signs to the things which concern man himself. Nevertheless it falls short of the proper aspect of justice, as to the notion of debt: for this virtue does not regard legal debt, which justice considers, but rather the moral debt, in so far as, out of equity, one man owes another a manifestation of the truth. Therefore truth is a part of justice, being annexed thereto as a secondary virtue to its principal.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Since man is a social animal, one man naturally owes another whatever is necessary for the preservation of human society. Now it would be impossible for men to live together, unless they believed one another, as declaring the truth one to another. Hence the virtue of truth does, in a manner, regard something as being due.
 
 Reply to Objection 2: Truth, as known, belongs to the intellect. But man, by his own will, whereby he uses both habits and members, utters external signs in order to manifest the truth, and in this way the manifestation of the truth is an act of the will.
 
 Reply to Objection 3: The truth of which we are speaking now differs from the truth of life, as stated in the preceding A[2], ad 3.
-# Whether The Virtue Of Truth Inclines Rather To That Which Is Less?
+## Whether The Virtue Of Truth Inclines Rather To That Which Is Less?
 
-## Objections
+### Objections
 
 Objection 1: It seems that the virtue of truth does not incline to that which is less. For as one incurs falsehood by saying more, so does one by saying less: thus it is no more false that four are five, than that four are three. But "every falsehood is in itself evil, and to be avoided," as the Philosopher declares (Ethic. iv, 7). Therefore the virtue of truth does not incline to that which is less rather than to that which is greater.
 
@@ -88,7 +88,7 @@ Objection 2: Further, that a virtue inclines to the one extreme rather than to t
 
 Objection 3: Further, to forsake the truth for that which is less seems to amount to a denial of the truth, since this is to subtract therefrom; and to forsake the truth for that which is greater seems to amount to an addition thereto. Now to deny the truth is more repugnant to truth than to add something to it, because truth is incompatible with the denial of truth, whereas it is compatible with addition. Therefore it seems that truth should incline to that which is greater rather than to that which is less.
 
-## Answer
+### Answer
 
 On the contrary, The Philosopher says (Ethic. iv, 7) that "by this virtue a man declines rather from the truth towards that which is less."
 

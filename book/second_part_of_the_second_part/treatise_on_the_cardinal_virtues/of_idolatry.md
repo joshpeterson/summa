@@ -5,9 +5,9 @@ We must now consider idolatry: under which head there are four points of inquiry
 (2) Whether it is a sin?
 (3) Whether it is the gravest sin?
 (4) Of the cause of this sin.
-# Whether Idolatry Is Rightly Reckoned A Species Of Superstition?
+## Whether Idolatry Is Rightly Reckoned A Species Of Superstition?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that idolatry is not rightly reckoned a species of superstition. Just as heretics are unbelievers, so are idolaters. But heresy is a species of unbelief, as stated above ([3101]Q[11], A[1]). Therefore idolatry is also a species of unbelief and not of superstition.
 
@@ -17,7 +17,7 @@ Objection 3: Further, that which is nothing cannot be the species of any genus. 
 
 Objection 4: Further, it belongs to superstition to give divine honor to whom that honor is not due. Now divine honor is undue to idols, just as it is undue to other creatures, wherefore certain people are reproached (Rom. 1:25) for that they "worshipped and served the creature rather than the Creator." Therefore this species of superstition is unfittingly called idolatry, and should rather be named "worship of creatures."
 
-## Answer
+### Answer
 
 On the contrary, It is related (Acts 17:16) that when Paul awaited Silas and Timothy at Athens, "his spirit was stirred within him seeing the whole city given to idolatry," and further on (Acts 17:22) he says: "Ye men of Athens, I perceive that in all things you are too superstitious." Therefore idolatry belongs to superstition.
 
@@ -31,7 +31,7 @@ The last two opinions were held to belong to "natural theology" which the philos
 
 Now all these come under the head of the superstition of idolatry. Wherefore Augustine says (De Doctr. Christ. ii, 20): "Anything invented by man for making and worshipping idols, or for giving Divine worship to a creature or any part of a creature, is superstitious."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Just as religion is not faith, but a confession of faith by outward signs, so superstition is a confession of unbelief by external worship. Such a confession is signified by the term idolatry, but not by the term heresy, which only means a false opinion. Therefore heresy is a species of unbelief, but idolatry is a species of superstition.
 
@@ -40,9 +40,9 @@ Reply to Objection 2: The term latria may be taken in two senses. In one sense i
 Reply to Objection 3: The saying of the Apostle that "an idol is nothing in the world" means that those images which were called idols, were not animated, or possessed of a divine power, as Hermes maintained, as though they were composed of spirit and body. In the same sense we must understand the saying that "what is offered in sacrifice to idols is not anything," because by being thus sacrificed the sacrificial flesh acquired neither sanctification, as the Gentiles thought, nor uncleanness, as the Jews held.
 
 Reply to Objection 4: It was owing to the general custom among the Gentiles of worshipping any kind of creature under the form of images that the term "idolatry" was used to signify any worship of a creature, even without the use of images.
-# Whether Idolatry Is A Sin?
+## Whether Idolatry Is A Sin?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that idolatry is not a sin. Nothing is a sin that the true faith employs in worshipping God. Now the true faith employs images for the divine worship: since both in the Tabernacle were there images of the cherubim, as related in Ex. 25, and in the Church are images set up which the faithful worship. Therefore idolatry, whereby idols are worshipped, is not a sin.
 
@@ -50,7 +50,7 @@ Objection 2: Further, reverence should be paid to every superior. But the angels
 
 Objection 3: Further, the most high God should be honored with an inward worship, according to Jn. 4:24, "God . . . they must adore . . . in spirit and in truth": and Augustine says (Enchiridion iii), that "God is worshipped by faith, hope and charity." Now a man may happen to worship idols outwardly, and yet not wander from the true faith inwardly. Therefore it seems that we may worship idols outwardly without prejudice to the divine worship.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ex. 20:5): "Thou shalt not adore them," i.e. outwardly, "nor serve them," i.e. inwardly, as a gloss explains it: and it is a question of graven things and images. Therefore it is a sin to worship idols whether outwardly or inwardly.
 
@@ -62,12 +62,12 @@ Others held that the outward worship of latria should be given to idols, not as 
 
 But this is evidently false. For since outward worship is a sign of the inward worship, just as it is a wicked lie to affirm the contrary of what one holds inwardly of the true faith so too is it a wicked falsehood to pay outward worship to anything counter to the sentiments of one's heart. Wherefore Augustine condemns Seneca (De Civ. Dei vi, 10) in that "his worship of idols was so much the more infamous forasmuch as the things he did dishonestly were so done by him that the people believed him to act honestly."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Neither in the Tabernacle or Temple of the Old Law, nor again now in the Church are images set up that the worship of latria may be paid to them, but for the purpose of signification, in order that belief in the excellence of angels and saints may be impressed and confirmed in the mind of man. It is different with the image of Christ, to which latria is due on account of His Divinity, as we shall state in the [3104]TP, Q[25], A[3].
-# Whether Idolatry Is The Gravest Of Sins?
+## Whether Idolatry Is The Gravest Of Sins?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that idolatry is not the gravest of sins. The worst is opposed to the best (Ethic. viii, 10). But interior worship, which consists of faith, hope and charity, is better than external worship. Therefore unbelief, despair and hatred of God, which are opposed to internal worship, are graver sins than idolatry, which is opposed to external worship.
 
@@ -79,13 +79,13 @@ Objection 4: Further, Augustine says (Contra Faust. xx, 5): "Neither do we say t
 
 Objection 5: Further, a gloss of Jerome on Gal. 4:9, "How turn you again to the weak and needy elements?" says: "The observance of the Law, to which they were then addicted, was a sin almost equal to the worship of idols, to which they had been given before their conversion." Therefore idolatry is not the most grievous sin.
 
-## Answer
+### Answer
 
 On the contrary, A gloss on the saying of Lev. 15:25, about the uncleanness of a woman suffering from an issue of blood, says: "Every sin is an uncleanness of the soul, but especially idolatry."
 
 I answer that, The gravity of a sin may be considered in two ways. First, on the part of the sin itself, and thus idolatry is the most grievous sin. For just as the most heinous crime in an earthly commonwealth would seem to be for a man to give royal honor to another than the true king, since, so far as he is concerned, he disturbs the whole order of the commonwealth, so, in sins that are committed against God, which indeed are the greater sins, the greatest of all seems to be for a man to give God's honor to a creature, since, so far as he is concerned, he sets up another God in the world, and lessens the divine sovereignty. Secondly, the gravity of a sin may be considered on the part of the sinner. Thus the sin of one that sins knowingly is said to be graver than the sin of one that sins through ignorance: and in this way nothing hinders heretics, if they knowingly corrupt the faith which they have received, from sinning more grievously than idolaters who sin through ignorance. Furthermore other sins may be more grievous on account of greater contempt on the part of the sinner.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Idolatry presupposes internal unbelief, and to this it adds undue worship. But in a case of external idolatry without internal unbelief, there is an additional sin of falsehood, as stated above [3105](A[2]).
 
@@ -96,9 +96,9 @@ Reply to Objection 3: Since it is essential to punishment that it be against the
 Reply to Objection 4: Even as to the genus of the sin, the Manichean heresy is more grievous than the sin of other idolaters, because it is more derogatory to the divine honor, since they set up two gods in opposition to one another, and hold many vain and fabulous fancies about God. It is different with other heretics, who confess their belief in one God and worship Him alone.
 
 Reply to Objection 5: The observance of the Law during the time of grace is not quite equal to idolatry as to the genus of the sin, but almost equal, because both are species of pestiferous superstition.
-# Whether The Cause Of Idolatry Was On The Part Of Man?
+## Whether The Cause Of Idolatry Was On The Part Of Man?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the cause of idolatry was not on the part of man. In man there is nothing but either nature, virtue, or guilt. But the cause of idolatry could not be on the part of man's nature, since rather does man's natural reason dictate that there is one God, and that divine worship should not be paid to the dead or to inanimate beings. Likewise, neither could idolatry have its cause in man on the part of virtue, since "a good tree cannot bring forth evil fruit," according to Mat. 7:18: nor again could it be on the part of guilt, because, according to Wis. 14:27, "the worship of abominable idols is the cause and the beginning and end of all evil." Therefore idolatry has no cause on the part of man.
 
@@ -106,7 +106,7 @@ Objection 2: Further, those things which have a cause in man are found among men
 
 Objection 3: Further, Augustine says (De Civ. Dei xxi, 6): "It was not possible to learn, for the first time, except from their" (i.e. the demons') "teaching, what each of them desired or disliked, and by what name to invite or compel him: so as to give birth to the magic arts and their professors": and the same observation seems to apply to idolatry. Therefore idolatry had no cause on the part of man.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Wis. 14:14): "By the vanity of men they," i.e. idols, "came into the world."
 
@@ -114,7 +114,7 @@ I answer that, Idolatry had a twofold cause. One was a dispositive cause; this w
 
 The other cause of idolatry was completive, and this was on the part of the demons, who offered themselves to be worshipped by men, by giving answers in the idols, and doing things which to men seemed marvelous. Hence it is written (Ps. 95:5): "All the gods of the Gentiles are devils."
 
-## Replies
+### Replies
 
 Reply to Objection 1: The dispositive cause of idolatry was, on the part of man, a defect of nature, either through ignorance in his intellect, or disorder in his affections, as stated above; and this pertains to guilt. Again, idolatry is stated to be the cause, beginning and end of all sin, because there is no kind of sin that idolatry does not produce at some time, either through leading expressly to that sin by causing it, or through being an occasion thereof, either as a beginning or as an end, in so far as certain sins were employed in the worship of idols; such as homicides, mutilations, and so forth. Nevertheless certain sins may precede idolatry and dispose man thereto.
 

@@ -3,9 +3,9 @@
 We must next consider studiousness and its opposite, curiosity. Concerning studiousness there are two points of inquiry:
 (1) What is the matter of studiousness?
 (2) Whether it is a part of temperance?
-# Whether The Proper Matter Of Studiousness Is Knowledge?
+## Whether The Proper Matter Of Studiousness Is Knowledge?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that knowledge is not the proper matter of studiousness. For a person is said to be studious because he applies study to certain things. Now a man ought to apply study to every matter, in order to do aright what has to be done. Therefore seemingly knowledge is not the special matter of studiousness.
 
@@ -13,22 +13,22 @@ Objection 2: Further, studiousness is opposed to curiosity. Now curiosity, which
 
 Objection 3: Further it is written (Jer. 6:13): "From the least of them even to the greatest, all study [Douay: 'are given to'] covetousness." Now covetousness is not properly about knowledge, but rather about the possession of wealth, as stated above ([3637]Q[118], A[2]). Therefore studiousness, which is derived from "study," is not properly about knowledge.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Prov. 27:11): "Study wisdom, my son, and make my heart joyful, that thou mayest give an answer to him that reproacheth." Now study, which is commended as a virtue, is the same as that to which the Law urges. Therefore studiousness is properly about "knowledge."
 
 I answer that, Properly speaking, study denotes keen application of the mind to something. Now the mind is not applied to a thing except by knowing that thing. Wherefore the mind's application to knowledge precedes its application to those things to which man is directed by his knowledge. Hence study regards knowledge in the first place, and as a result it regards any other things the working of which requires to be directed by knowledge. Now the virtues lay claim to that matter about which they are first and foremost; thus fortitude is concerned about dangers of death, and temperance about pleasures of touch. Therefore studiousness is properly ascribed to knowledge.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Nothing can be done aright as regards other matters, except in so far as is previously directed by the knowing reason. Hence studiousness, to whatever matter it be applied, has a prior regard for knowledge.
 
 Reply to Objection 2: Man's mind is drawn, on account of his affections, towards the things for which he has an affection, according to Mat. 6:21, "Where thy treasure is, there is thy heart also." And since man has special affection for those things which foster the flesh, it follows that man's thoughts are concerned about things that foster his flesh, so that man seeks to know how he may best sustain his body. Accordingly curiosity is accounted to be about things pertaining to the body by reason of things pertaining to knowledge.
 
 Reply to Objection 3: Covetousness craves the acquisition of gain, and for this it is very necessary to be skilled in earthly things. Accordingly studiousness is ascribed to things pertaining to covetousness.
-# Whether Studiousness Is A Part Of Temperance?
+## Whether Studiousness Is A Part Of Temperance?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that studiousness is not a part of temperance. For a man is said to be studious by reason of his studiousness. Now all virtuous persons without exception are called studious according to the Philosopher, who frequently employs the term "studious" ({spoudaios}) in this sense (Ethic. ix, 4,8,9). [*In the same sense Aristotle says in Ethic. iii, 2, that "every vicious person is ignorant of what he ought to do."] Therefore studiousness is a general virtue, and not a part of temperance.
 
@@ -36,7 +36,7 @@ Objection 2: Further, studiousness, as stated [3638](A[1]), pertains to knowledg
 
 Objection 3: Further, a virtue that is ascribed as part of a principal virtue resembles the latter as to mode. Now studiousness does not resemble temperance as to mode, because temperance takes its name from being a kind of restraint, wherefore it is more opposed to the vice that is in excess: whereas studiousness is denominated from being the application of the mind to something, so that it would seem to be opposed to the vice that is in default, namely, neglect of study, rather than to the vice which is in excess, namely curiosity. wherefore, on account of its resemblance to the latter, Isidore says (Etym. x) that "a studious man is one who is curious to study." Therefore studiousness is not a part of temperance.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Morib. Eccl. 21): "We are forbidden to be curious: and this is a great gift that temperance bestows." Now curiosity is prevented by moderate studiousness. Therefore studiousness is a part of temperance.
 
@@ -44,7 +44,7 @@ I answer that, As stated above ([3639]Q[141], AA[3],4,5), it belongs to temperan
 
 The moderation of this desire pertains to the virtue of studiousness; wherefore it follows that studiousness is a potential part of temperance, as a subordinate virtue annexed to a principal virtue. Moreover, it is comprised under modesty for the reason given above ([3640]Q[160], A[2]).
 
-## Replies
+### Replies
 
 Reply to Objection 1: Prudence is the complement of all the moral virtues, as stated in Ethic. vi, 13. Consequently, in so far as the knowledge of prudence pertains to all the virtues, the term "studiousness," which properly regards knowledge, is applied to all the virtues.
 

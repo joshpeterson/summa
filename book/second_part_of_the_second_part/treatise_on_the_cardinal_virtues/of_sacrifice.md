@@ -5,9 +5,9 @@ In due sequence we must consider those acts whereby external things are offered 
 (2) Whether sacrifice should be offered to God alone?
 (3) Whether the offering of a sacrifice is a special act of virtue?
 (4) Whether all are bound to offer sacrifice?
-# Whether Offering A Sacrifice To God Is Of The Law Of Nature?
+## Whether Offering A Sacrifice To God Is Of The Law Of Nature?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that offering a sacrifice to God is not of the natural law. Things that are of the natural law are common among all men. Yet this is not the case with sacrifices: for we read of some, e.g. Melchisedech (Gn. 14:18), offering bread and wine in sacrifice, and of certain animals being offered by some, and others by others. Therefore the offering of sacrifices is not of the natural law.
 
@@ -15,22 +15,22 @@ Objection 2: Further, things that are of the natural law were observed by all ju
 
 Objection 3: Further, Augustine says (De Civ. Dei x, 5,19) that sacrifices are offered in signification of something. Now words which are chief among signs, as he again says (De Doctr. Christ. ii, 3), "signify, not by nature but by convention," according to the Philosopher (Peri Herm. i, 2). Therefore sacrifices are not of the natural law.
 
-## Answer
+### Answer
 
 On the contrary, At all times and among all nations there has always been the offering of sacrifices. Now that which is observed by all is seemingly natural. Therefore the offering of sacrifices is of the natural law.
 
 I answer that, Natural reason tells man that he is subject to a higher being, on account of the defects which he perceives in himself, and in which he needs help and direction from someone above him: and whatever this superior being may be, it is known to all under the name of God. Now just as in natural things the lower are naturally subject to the higher, so too it is a dictate of natural reason in accordance with man's natural inclination that he should tender submission and honor, according to his mode, to that which is above man. Now the mode befitting to man is that he should employ sensible signs in order to signify anything, because he derives his knowledge from sensibles. Hence it is a dictate of natural reason that man should use certain sensibles, by offering them to God in sign of the subjection and honor due to Him, like those who make certain offerings to their lord in recognition of his authority. Now this is what we mean by a sacrifice, and consequently the offering of sacrifice is of the natural law.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above ([3035]FS, Q[95], A[2]), certain things belong generically to the natural law, while their determination belongs to the positive law; thus the natural law requires that evildoers should be punished; but that this or that punishment should be inflicted on them is a matter determined by God or by man. In like manner the offering of sacrifice belongs generically to the natural law, and consequently all are agreed on this point, but the determination of sacrifices is established by God or by man, and this is the reason for their difference.
 
 Reply to Objection 2: Adam, Isaac and other just men offered sacrifice to God in a manner befitting the times in which they lived, according to Gregory, who says (Moral. iv, 3) that in olden times original sin was remitted through the offering of sacrifices. Nor does Scripture mention all the sacrifices of the just, but only those that have something special connected with them. Perhaps the reason why we read of no sacrifice being offered by Adam may be that, as the origin of sin is ascribed to him, the origin of sanctification ought not to be represented as typified in him. Isaac was a type of Christ, being himself offered in sacrifice; and so there was no need that he should be represented as offering a sacrifice.
 
 Reply to Objection 3: It is natural to man to express his ideas by signs, but the determination of those signs depends on man's pleasure.
-# Whether Sacrifice Should Be Offered To God Alone?
+## Whether Sacrifice Should Be Offered To God Alone?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that sacrifice should not be offered to the most high God alone. Since sacrifice ought to be offered to God, it would seem that it ought to be offered to all such as are partakers of the Godhead. Now holy men are made "partakers of the Divine nature," according to 2 Pet. 1:4; wherefore of them is it written (Ps. 81:6): "I have said, You are gods": and angels too are called "sons of God," according to Job 1:6. Thus sacrifice should be offered to all these.
 
@@ -38,22 +38,22 @@ Objection 2: Further, the greater a person is the greater the honor due to him f
 
 Objection 3: Further, temples and altars are raised for the offering of sacrifices. Yet temples and altars are raised to angels and saints. Therefore sacrifices also may be offered to them.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ex. 22:20): "He that sacrificeth to gods shall be put to death, save only to the Lord."
 
 I answer that, As stated above [3036](A[1]), a sacrifice is offered in order that something may be represented. Now the sacrifice that is offered outwardly represents the inward spiritual sacrifice, whereby the soul offers itself to God according to Ps. 50:19, "A sacrifice to God is an afflicted spirit," since, as stated above (Q[81], A[7]; Q[84], A[2]), the outward acts of religion are directed to the inward acts. Again the soul offers itself in sacrifice to God as its beginning by creation, and its end by beatification: and according to the true faith God alone is the creator of our souls, as stated in the [3037]FP, Q[90], A[3]; FS, Q[118], A[2], while in Him alone the beatitude of our soul consists, as stated above ([3038]FS, Q[1], A[8]; [3039]FS, Q[2], A[8]; [3040]FS, Q[3], AA[1],7,8). Wherefore just as to God alone ought we to offer spiritual sacrifice, so too ought we to offer outward sacrifices to Him alone: even so "in our prayers and praises we proffer significant words to Him to Whom in our hearts we offer the things which we designate thereby," as Augustine states (De Civ. Dei x, 19). Moreover we find that in every country the people are wont to show the sovereign ruler some special sign of honor, and that if this be shown to anyone else, it is a crime of high-treason. Therefore, in the Divine law, the death punishment is assigned to those who offer Divine honor to another than God.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The name of the Godhead is communicated to certain ones, not equally with God, but by participation; hence neither is equal honor due to them.
 
 Reply to Objection 2: The offering of a sacrifice is measured not by the value of the animal killed, but by its signification, for it is done in honor of the sovereign Ruler of the whole universe. Wherefore, as Augustine says (De Civ. Dei x, 19), "the demons rejoice, not in the stench of corpses, but in receiving divine honors."
 
 Reply to Objection 3: As Augustine says (De Civ. Dei viii, 19), "we do not raise temples and priesthoods to the martyrs, because not they but their God is our God. Wherefore the priest says not: I offer sacrifice to thee, Peter or Paul. But we give thanks to God for their triumphs, and urge ourselves to imitate them."
-# Whether The Offering Of Sacrifice Is A Special Act Of Virtue?
+## Whether The Offering Of Sacrifice Is A Special Act Of Virtue?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the offering of sacrifice is not a special act of virtue. Augustine says (De Civ. Dei x, 6): "A true sacrifice is any work done that we may cleave to God in holy fellowship." But not every good work is a special act of some definite virtue. Therefore the offering of sacrifice is not a special act of a definite virtue.
 
@@ -61,22 +61,22 @@ Objection 2: Further, the mortification of the body by fasting belongs to abstin
 
 Objection 3: Further, a sacrifice is apparently anything offered to God. Now many things are offered to God, such as devotion, prayer, tithes, first-fruits, oblations, and holocausts. Therefore sacrifice does not appear to be a special act of a definite virtue.
 
-## Answer
+### Answer
 
 On the contrary, The law contains special precepts about sacrifices, as appears from the beginning of Leviticus.
 
 I answer that, As stated above ([3041]FS, Q[18], AA[6],7), where an act of one virtue is directed to the end of another virtue it partakes somewhat of its species; thus when a man thieves in order to commit fornication, his theft assumes, in a sense, the deformity of fornication, so that even though it were not a sin otherwise, it would be a sin from the very fact that it was directed to fornication. Accordingly, sacrifice is a special act deserving of praise in that it is done out of reverence for God; and for this reason it belongs to a definite virtue, viz. religion. But it happens that the acts of the other virtues are directed to the reverence of God, as when a man gives alms of his own things for God's sake, or when a man subjects his own body to some affliction out of reverence for God; and in this way the acts also of other virtues may be called sacrifices. On the other hand there are acts that are not deserving of praise save through being done out of reverence for God: such acts are properly called sacrifices, and belong to the virtue of religion.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The very fact that we wish to cling to God in a spiritual fellowship pertains to reverence for God: and consequently the act of any virtue assumes the character of a sacrifice through being done in order that we may cling to God in holy fellowship.
 
 Reply to Objection 2: Man's good is threefold. There is first his soul's good which is offered to God in a certain inward sacrifice by devotion, prayer and other like interior acts: and this is the principal sacrifice. The second is his body's good, which is, so to speak, offered to God in martyrdom, and abstinence or continency. The third is the good which consists of external things: and of these we offer a sacrifice to God, directly when we offer our possession to God immediately, and indirectly when we share them with our neighbor for God's sake.
 
 Reply to Objection 3: A "sacrifice," properly speaking, requires that something be done to the thing which is offered to God, for instance animals were slain and burnt, the bread is broken, eaten, blessed. The very word signifies this, since "sacrifice" is so called because a man does something sacred [facit sacrum]. On the other hand an "oblation" is properly the offering of something to God even if nothing be done thereto, thus we speak of offering money or bread at the altar, and yet nothing is done to them. Hence every sacrifice is an oblation, but not conversely. "First-fruits" are oblations, because they were offered to God, according to Dt. 26, but they are not a sacrifice, because nothing sacred was done to them. "Tithes," however, are neither a sacrifice nor an oblation, properly speaking, because they are not offered immediately to God, but to the ministers of Divine worship.
-# Whether All Are Bound To Offer Sacrifices?
+## Whether All Are Bound To Offer Sacrifices?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that all are not bound to offer sacrifices. The Apostle says (Rom. 3:19): "What things soever the Law speaketh, it speaketh to them that are in the Law." Now the law of sacrifices was not given to all, but only to the Hebrew people. Therefore all are not bound to offer sacrifices.
 
@@ -84,13 +84,13 @@ Objection 2: Further, sacrifices are offered to God in order to signify somethin
 
 Objection 3: Further, priests [*'Sacerdotes': Those who give or administer sacred things (sacra dantes): cf. 1 Cor. 4:1] are so called because they offer sacrifice to God. But all are not priests. Therefore not all are bound to offer sacrifices.
 
-## Answer
+### Answer
 
 On the contrary, The offering of sacrifices of is of the natural law, as stated above [3042](A[1]). Now all are bound to do that which is of the natural law. Therefore all are bound to offer sacrifice to God.
 
 I answer that, Sacrifice is twofold, as stated above [3043](A[2]). The first and principal is the inward sacrifice, which all are bound to offer, since all are obliged to offer to God a devout mind. The other is the outward sacrifice, and this again is twofold. There is a sacrifice which is deserving of praise merely through being offered to God in protestation of our subjection to God: and the obligation of offering this sacrifice was not the same for those under the New or the Old Law, as for those who were not under the Law. For those who are under the Law are bound to offer certain definite sacrifices according to the precepts of the Law, whereas those who were not under the Law were bound to perform certain outward actions in God's honor, as became those among whom they dwelt, but not definitely to this or that action. The other outward sacrifice is when the outward actions of the other virtues are performed out of reverence for God; some of which are a matter of precept; and to these all are bound, while others are works of supererogation, and to these all are not bound.
 
-## Replies
+### Replies
 
 Reply to Objection 1: All were not bound to offer those particular sacrifices which were prescribed in the Law: but they were bound to some sacrifices inward or outward, as stated above.
 

@@ -9,9 +9,9 @@ We must now consider the contemplative life, under which head there are eight po
 (6) Of the movements of contemplation assigned by Dionysius (Div. Nom. iv);
 (7) Of the pleasure of contemplation;
 (8) Of the duration of contemplation.
-# Whether The Contemplative Life Has Nothing To Do With The Affections, And Pertains Wholly To The Intellect?
+## Whether The Contemplative Life Has Nothing To Do With The Affections, And Pertains Wholly To The Intellect?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the contemplative life has nothing to do with the affections and pertains wholly to the intellect. For the Philosopher says (Metaph. ii, text. 3 [*Ed Did. ia, 1]) that "the end of contemplation is truth." Now truth pertains wholly to the intellect. Therefore it would seem that the contemplative life wholly regards the intellect.
 
@@ -19,7 +19,7 @@ Objection 2: Further, Gregory says (Moral. vi, 37; Hom. xix in Ezech.) that "Rac
 
 Objection 3: Further, Gregory says (Hom. xiv in Ezech.) that it belongs to the contemplative life, "to rest from external action." Now the affective or appetitive power inclines to external actions. Therefore it would seem that the contemplative life has nothing to do with the appetitive power.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Hom. xiv in Ezech.) that "the contemplative life is to cling with our whole mind to the love of God and our neighbor, and to desire nothing beside our Creator." Now desire and love pertain to the affective or appetitive power, as stated above ([3715]FS, Q[25], A[2]; [3716]FS, Q[26], A[2]). Therefore the contemplative life has also something to do with the affective or appetitive power.
 
@@ -27,16 +27,16 @@ I answer that, As stated above (Q[179], A[1]) theirs is said to be the contempla
 
 Now the appetitive power moves one to observe things either with the senses or with the intellect, sometimes for love of the thing seen because, as it is written (Mat. 6:21), "where thy treasure is, there is thy heart also," sometimes for love of the very knowledge that one acquires by observation. Wherefore Gregory makes the contemplative life to consist in the "love of God," inasmuch as through loving God we are aflame to gaze on His beauty. And since everyone delights when he obtains what he loves, it follows that the contemplative life terminates in delight, which is seated in the affective power, the result being that love also becomes more intense.
 
-## Replies
+### Replies
 
 Reply to Objection 1: From the very fact that truth is the end of contemplation, it has the aspect of an appetible good, both lovable and delightful, and in this respect it pertains to the appetitive power.
 
 Reply to Objection 2: We are urged to the vision of the first principle, namely God, by the love thereof; wherefore Gregory says (Hom. xiv in Ezech.) that "the contemplative life tramples on all cares and longs to see the face of its Creator."
 
 Reply to Objection 3: The appetitive power moves not only the bodily members to perform external actions, but also the intellect to practice the act of contemplation, as stated above.
-# Whether The Moral Virtues Pertain To The Contemplative Life?
+## Whether The Moral Virtues Pertain To The Contemplative Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the moral virtues pertain to the contemplative life. For Gregory says (Hom. xiv in Ezech.) that "the contemplative life is to cling to the love of God and our neighbor with the whole mind." Now all the moral virtues, since their acts are prescribed by the precepts of the Law, are reducible to the love of God and of our neighbor, for "love . . . is the fulfilling of the Law" (Rom. 13:10). Therefore it would seem that the moral virtues belong to the contemplative life.
 
@@ -44,7 +44,7 @@ Objection 2: Further, the contemplative life is chiefly directed to the contempl
 
 Objection 3: Further, Gregory says (Hom. xiv in Ezech.) that "the contemplative life gives beauty to the soul," wherefore it is signified by Rachel, of whom it is said (Gn. 29:17) that she was "of a beautiful countenance." Now the beauty of the soul consists in the moral virtues, especially temperance, as Ambrose says (De Offic. i, 43,45,46). Therefore it seems that the moral virtues pertain to the contemplative life.
 
-## Answer
+### Answer
 
 On the contrary, The moral virtues are directed to external actions. Now Gregory says (Moral. vi [*Hom. xiv in Ezech.; Cf. A[1], OBJ[3]]) that it belongs to the contemplative life "to rest from external action." Therefore the moral virtues do not pertain to the contemplative life.
 
@@ -52,16 +52,16 @@ I answer that, A thing may belong to the contemplative life in two ways, essenti
 
 On the other hand, the moral virtues belong to the contemplative life dispositively. For the act of contemplation, wherein the contemplative life essentially consists, is hindered both by the impetuosity of the passions which withdraw the soul's intention from intelligible to sensible things, and by outward disturbances. Now the moral virtues curb the impetuosity of the passions, and quell the disturbance of outward occupations. Hence moral virtues belong dispositively to the contemplative life.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As stated above [3721](A[1]), the contemplative life has its motive cause on the part of the affections, and in this respect the love of God and our neighbor is requisite to the contemplative life. Now motive causes do not enter into the essence of a thing, but dispose and perfect it. Wherefore it does not follow that the moral virtues belong essentially to the contemplative life.
 
 Reply to Objection 2: Holiness or cleanness of heart is caused by the virtues that are concerned with the passions which hinder the purity of the reason; and peace is caused by justice which is about operations, according to Is. 32:17, "The work of justice shall be peace": since he who refrains from wronging others lessens the occasions of quarrels and disturbances. Hence the moral virtues dispose one to the contemplative life by causing peace and cleanness of heart.
 
 Reply to Objection 3: Beauty, as stated above ([3722]Q[145], A[2]), consists in a certain clarity and due proportion. Now each of these is found radically in the reason; because both the light that makes beauty seen, and the establishing of due proportion among things belong to reason. Hence since the contemplative life consists in an act of the reason, there is beauty in it by its very nature and essence; wherefore it is written (Wis. 8:2) of the contemplation of wisdom: "I became a lover of her beauty."
-# Whether There Are Various Actions Pertaining To The Contemplative Life?
+## Whether There Are Various Actions Pertaining To The Contemplative Life?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there are various actions pertaining to the contemplative life. For Richard of St. Victor [*De Grat. Contempl. i, 3,4] distinguishes between "contemplation," "meditation," and "cogitation." Yet all these apparently pertain to contemplation. Therefore it would seem that there are various actions pertaining to the contemplative life.
 
@@ -71,13 +71,13 @@ Objection 3: Further, Bernard says (De Consid. v, 14) that "the first and greate
 
 Objection 4: Further, "Prayer," "reading," and "meditation" [*Hugh of St. Victor, Alleg. in N.T. iii, 4] are said to belong to the contemplative life. Again, "hearing" belongs to the contemplative life: since it is stated that Mary (by whom the contemplative life is signified) "sitting . . . at the Lord's feet, heard His word" (Lk. 10:39). Therefore it would seem that several acts are requisite for the contemplative life.
 
-## Answer
+### Answer
 
 On the contrary, Life signifies here the operation on which a man is chiefly intent. Wherefore if there are several operations of the contemplative life, there will be, not one, but several contemplative lives.
 
 I answer that, We are now speaking of the contemplative life as applicable to man. Now according to Dionysius (Div. Nom. vii) between man and angel there is this difference, that an angel perceives the truth by simple apprehension, whereas man arrives at the perception of a simple truth by a process from several premises. Accordingly, then, the contemplative life has one act wherein it is finally completed, namely the contemplation of truth, and from this act it derives its unity. Yet it has many acts whereby it arrives at this final act. Some of these pertain to the reception of principles, from which it proceeds to the contemplation of truth; others are concerned with deducing from the principles, the truth, the knowledge of which is sought; and the last and crowning act is the contemplation itself of the truth.
 
-## Replies
+### Replies
 
 Reply to Objection 1: According to Richard of St. Victor "cogitation" would seem to regard the consideration of the many things from which a person intends to gather one simple truth. Hence cogitation may comprise not only the perceptions of the senses in taking cognizance of certain effects, but also the imaginations. and again the reason's discussion of the various signs or of anything that conduces to the truth in view: although, according to Augustine (De Trin. xiv, 7), cogitation may signify any actual operation of the intellect. "Meditation" would seem to be the process of reason from certain principles that lead to the contemplation of some truth: and "consideration" has the same meaning, according to Bernard (De Consid. ii, 2), although, according to the Philosopher (De Anima ii, 1), every operation of the intellect may be called "consideration." But "contemplation" regards the simple act of gazing on the truth; wherefore Richard says again (De Grat. Contempl. i, 4) that "contemplation is the soul's clear and free dwelling upon the object of its gaze; meditation is the survey of the mind while occupied in searching for the truth: and cogitation is the mind's glance which is prone to wander."
 
@@ -86,9 +86,9 @@ Reply to Objection 2: According to a gloss [*Cf. De Trin. xv, 8] of Augustine on
 Reply to Objection 3: Admiration is a kind of fear resulting from the apprehension of a thing that surpasses our faculties: hence it results from the contemplation of the sublime truth. For it was stated above [3723](A[1]) that contemplation terminates in the affections.
 
 Reply to Objection 4: Man reaches the knowledge of truth in two ways. First, by means of things received from another. In this way, as regards the things he receives from God, he needs "prayer," according to Wis. 7:7, "I called upon" God, "and the spirit of wisdom came upon me": while as regards the things he receives from man, he needs "hearing," in so far as he receives from the spoken word, and "reading," in so far as he receives from the tradition of Holy Writ. Secondly, he needs to apply himself by his personal study, and thus he requires "meditation."
-# Whether The Contemplative Life Consists In The Mere Contemplation Of God, Or Also In The Consideration Of Any Truth Whatever?
+## Whether The Contemplative Life Consists In The Mere Contemplation Of God, Or Also In The Consideration Of Any Truth Whatever?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the contemplative life consists not only in the contemplation of God, but also in the consideration of any truth. For it is written (Ps. 138:14): "Wonderful are Thy works, and my soul knoweth right well." Now the knowledge of God's works is effected by any contemplation of the truth. Therefore it would seem that it pertains to the contemplative life to contemplate not only the divine truth, but also any other.
 
@@ -98,7 +98,7 @@ Objection 3: Further, Richard of St. Victor [*De Grat. Contempl. i, 6] distingui
 
 Objection 4: Further, in the contemplative life the contemplation of truth is sought as being the perfection of man. Now any truth is a perfection of the human intellect. Therefore the contemplative life consists in the contemplation of any truth.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Moral. vi, 37) that "in contemplation we seek the principle which is God."
 
@@ -108,7 +108,7 @@ Since, however, God's effects show us the way to the contemplation of God Himsel
 
 Accordingly it is clear from what has been said ([3725]AA[1],2,3) that four things pertain, in a certain order, to the contemplative life; first, the moral virtues; secondly, other acts exclusive of contemplation; thirdly, contemplation of the divine effects; fourthly, the complement of all which is the contemplation of the divine truth itself.
 
-## Replies
+### Replies
 
 Reply to Objection 1: David sought the knowledge of God's works, so that he might be led by them to God; wherefore he says elsewhere (Ps. 142:5,6): "I meditated on all Thy works: I meditated upon the works of Thy hands: I stretched forth my hands to Thee."
 
@@ -117,9 +117,9 @@ Reply to Objection 2: By considering the divine judgments man is guided to the c
 Reply to Objection 3: These six denote the steps whereby we ascend by means of creatures to the contemplation of God. For the first step consists in the mere consideration of sensible objects; the second step consists in going forward from sensible to intelligible objects; the third step is to judge of sensible objects according to intelligible things; the fourth is the absolute consideration of the intelligible objects to which one has attained by means of sensibles; the fifth is the contemplation of those intelligible objects that are unattainable by means of sensibles, but which the reason is able to grasp; the sixth step is the consideration of such intelligible things as the reason can neither discover nor grasp, which pertain to the sublime contemplation of divine truth, wherein contemplation is ultimately perfected.
 
 Reply to Objection 4: The ultimate perfection of the human intellect is the divine truth: and other truths perfect the intellect in relation to the divine truth.
-# Whether In The Present State Of Life The Contemplative Life Can Reach To The Vision Of The Divine Essence?
+## Whether In The Present State Of Life The Contemplative Life Can Reach To The Vision Of The Divine Essence?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in the present state of life the contemplative life can reach to the vision of the Divine essence. For, as stated in Gn. 32:30, Jacob said: "I have seen God face to face, and my soul has been saved." Now the vision of God's face is the vision of the Divine essence. Therefore it would seem that in the present life one may come, by means of contemplation, to see God in His essence.
 
@@ -127,7 +127,7 @@ Objection 2: Further, Gregory says (Moral. vi, 37) that "contemplative men withd
 
 Objection 3: Further, Gregory says (Dial. ii, 35): "All creatures are small to the soul that sees its Creator: wherefore when the man of God," the blessed Benedict, to wit, "saw a fiery globe in the tower and angels returning to heaven, without doubt he could only see such things by the light of God." Now the blessed Benedict was still in this life. Therefore the contemplation of the present life can extend to the vision of the essence of God.
 
-## Answer
+### Answer
 
 On the contrary, Gregory says (Hom. xiv in Ezech.): "As long as we live in this mortal flesh, no one reaches such a height of contemplation as to fix the eyes of his mind on the ray itself of incomprehensible light."
 
@@ -135,16 +135,16 @@ I answer that, As Augustine says (Gen. ad lit. xii, 27), "no one seeing God live
 
 Accordingly we must state that one may be in this life in two ways. First, with regard to act, that is to say by actually making use of the bodily senses, and thus contemplation in the present life can nowise attain to the vision of God's essence. Secondly, one may be in this life potentially and not with regard to act, that is to say, when the soul is united to the mortal body as its form, yet so as to make use neither of the bodily senses, nor even of the imagination, as happens in rapture; and in this way the contemplation of the present life can attain to the vision of the Divine essence. Consequently the highest degree of contemplation in the present life is that which Paul had in rapture, whereby he was in a middle state between the present life and the life to come.
 
-## Replies
+### Replies
 
 Reply to Objection 1: As Dionysius says (Ep. i ad Caium. Monach.), "if anyone seeing God, understood what he saw, he saw not God Himself, but something belonging to God." And Gregory says (Hom. xiv in Ezech.): "By no means is God seen now in His glory; but the soul sees something of lower degree, and is thereby refreshed so that afterwards it may attain to the glory of vision." Accordingly the words of Jacob, "I saw God face to face" do not imply that he saw God's essence, but that he saw some shape [*Cf. [3727]FP, Q[12], A[11], ad 1], imaginary of course, wherein God spoke to him. Or, "since we know a man by his face, by the face of God he signified his knowledge of Him," according to a gloss of Gregory on the same passage.
 
 Reply to Objection 2: In the present state of life human contemplation is impossible without phantasms, because it is connatural to man to see the intelligible species in the phantasms, as the Philosopher states (De Anima iii, 7). Yet intellectual knowledge does not consist in the phantasms themselves, but in our contemplating in them the purity of the intelligible truth: and this not only in natural knowledge, but also in that which we obtain by revelation. For Dionysius says (Coel. Hier. i) that "the Divine glory shows us the angelic hierarchies under certain symbolic figures, and by its power we are brought back to the single ray of light," i.e. to the simple knowledge of the intelligible truth. It is in this sense that we must understand the statement of Gregory that "contemplatives do not carry along with them the shadows of things corporeal," since their contemplation is not fixed on them, but on the consideration of the intelligible truth.
 
 Reply to Objection 3: By these words Gregory does not imply that the blessed Benedict, in that vision, saw God in His essence, but he wishes to show that because "all creatures are small to him that sees God," it follows that all things can easily be seen through the enlightenment of the Divine light. Wherefore he adds: "For however little he may see of the Creator's light, all created things become petty to him."
-# Whether The Operation Of Contemplation Is Fittingly Divided Into A Threefold Movement, Circular, Straight And Oblique?
+## Whether The Operation Of Contemplation Is Fittingly Divided Into A Threefold Movement, Circular, Straight And Oblique?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the operation of contemplation is unfittingly divided into a threefold movement, "circular," "straight," and "oblique" (Div. Nom. iv). For contemplation pertains exclusively to rest, according to Wis. 8:16, "When I go into my house, I shall repose myself with her." Now movement is opposed to rest. Therefore the operations of the contemplative life should not be described as movements.
 
@@ -152,22 +152,22 @@ Objection 2: Further, the action of the contemplative life pertains to the intel
 
 Objection 3: Further, Richard of St. Victor (De Contempl. i, 5) mentions many other different movements in likeness to the birds of the air. "For some of these rise at one time to a great height, at another swoop down to earth, and they do so repeatedly; others fly now to the right, now to the left again and again; others go forwards or lag behind many times; others fly in a circle now more now less extended; and others remain suspended almost immovably in one place." Therefore it would seem that there are only three movements of contemplation.
 
-## Answer
+### Answer
 
 On the contrary, stands the authority of Dionysius (Div. Nom. iv).
 
 I answer that, As stated above ([3728]Q[119], A[1], ad 3), the operation of the intellect, wherein contemplation essentially consists, is called a movement, in so far as movement is the act of a perfect thing, according to the Philosopher (De Anima iii, 1). Since, however, it is through sensible objects that we come to the knowledge of intelligible things, and since sensible operations do not take place without movement, the result is that even intelligible operations are described as movements, and are differentiated in likeness to various movements. Now of bodily movements, local movements are the most perfect and come first, as proved in Phys. viii, 7; wherefore the foremost among intelligible operations are described by being likened to them. These movements are of three kinds; for there is the "circular" movement, by which a thing moves uniformly round one point as center, another is the "straight" movement, by which a thing goes from one point to another; the third is "oblique," being composed as it were of both the others. Consequently, in intelligible operations, that which is simply uniform is compared to circular movement; the intelligible operation by which one proceeds from one point to another is compared to the straight movement; while the intelligible operation which unites something of uniformity with progress to various points is compared to the oblique movement.
 
-## Replies
+### Replies
 
 Reply to Objection 1: External bodily movements are opposed to the quiet of contemplation, which consists in rest from outward occupations: but the movements of intellectual operations belong to the quiet of contemplation.
 
 Reply to Objection 2: Man is like the angels in intellect generically, but the intellective power is much higher in the angel than in man. Consequently these movements must be ascribed to souls and angels in different ways, according as they are differently related to uniformity. For the angelic intellect has uniform knowledge in two respects. First, because it does not acquire intelligible truth from the variety of composite objects; secondly, because it understands the truth of intelligible objects not discursively, but by simple intuition. On the other hand, the intellect of the soul acquires intelligible truth from sensible objects, and understands it by a certain discoursing of the reason.
 
 Reply to Objection 3: These varieties of movement that are taken from the distinction between above and below, right and left, forwards and backwards, and from varying circles, are all comprised under either straight and oblique movement, because they all denote discursions of reason. For if the reason pass from the genus to the species, or from the part to the whole, it will be, as he explains, from above to below: if from one opposite to another, it will be from right to left; if from the cause to the effect, it will be backwards and forwards; if it be about accidents that surround a thing near at hand or far remote, the movement will be circular. The discoursing of reason from sensible to intelligible objects, if it be according to the order of natural reason, belongs to the straight movement; but if it be according to the Divine enlightenment, it will belong to the oblique movement as explained above (ad 2). That alone which he describes as immobility belongs to the circular movement.
-# Whether There Is Delight In Contemplation?
+## Whether There Is Delight In Contemplation?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that there is no delight in contemplation. For delight belongs to the appetitive power; whereas contemplation resides chiefly in the intellect. Therefore it would seem that there is no delight in contemplation.
 
@@ -177,7 +177,7 @@ Objection 3: Further, delight is the result of a perfect operation, as stated in
 
 Objection 4: Further, a lesion of the body is an obstacle to delight. Now contemplation causes a lesion of the body; wherefore it is stated (Gn. 32) that after Jacob had said (Gn. 32:30), "'I have seen God face to face' . . . he halted on his foot (Gn. 32:31) . . . because he touched the sinew of his thigh and it shrank" (Gn. 32:32). Therefore seemingly there is no delight in contemplation.
 
-## Answer
+### Answer
 
 On the contrary, It is written of the contemplation of wisdom (Wis. 8:16): "Her conversation hath no bitterness, nor her company any tediousness, but joy and gladness": and Gregory says (Hom. xiv in Ezech.) that "the contemplative life is sweetness exceedingly lovable."
 
@@ -185,7 +185,7 @@ I answer that, There may be delight in any particular contemplation in two ways.
 
 In both respects the delight thereof surpasses all human delight, both because spiritual delight is greater than carnal pleasure, as stated above ([3731]FS, Q[31], A[5]), when we were treating of the passions, and because the love whereby God is loved out of charity surpasses all love. Hence it is written (Ps. 33:9): "O taste and see that the Lord is sweet."
 
-## Replies
+### Replies
 
 Reply to Objection 1: Although the contemplative life consists chiefly in an act of the intellect, it has its beginning in the appetite, since it is through charity that one is urged to the contemplation of God. And since the end corresponds to the beginning, it follows that the term also and the end of the contemplative life has its being in the appetite, since one delights in seeing the object loved, and the very delight in the object seen arouses a yet greater love. Wherefore Gregory says (Hom. xiv in Ezech.) that "when we see one whom we love, we are so aflame as to love him more." And this is the ultimate perfection of the contemplative life, namely that the Divine truth be not only seen but also loved.
 
@@ -194,9 +194,9 @@ Reply to Objection 2: Strife or struggle arising from the opposition of an exter
 Reply to Objection 3: The contemplation of God in this life is imperfect in comparison with the contemplation in heaven; and in like manner the delight of the wayfarer's contemplation is imperfect as compared with the delight of contemplation in heaven, of which it is written (Ps. 35:9): "Thou shalt make them drink of the torrent of Thy pleasure." Yet, though the contemplation of Divine things which is to be had by wayfarers is imperfect, it is more delightful than all other contemplation however perfect, on account of the excellence of that which is contemplated. Hence the Philosopher says (De Part. Animal. i, 5): "We may happen to have our own little theories about those sublime beings and godlike substances, and though we grasp them but feebly, nevertheless so elevating is the knowledge that they give us more delight than any of those things that are round about us": and Gregory says in the same sense (Hom. xiv in Ezech.): "The contemplative life is sweetness exceedingly lovable; for it carries the soul away above itself, it opens heaven and discovers the spiritual world to the eyes of the mind."
 
 Reply to Objection 4: After contemplation Jacob halted with one foot, "because we need to grow weak in the love of the world ere we wax strong in the love of God," as Gregory says (Hom. xiv in Ezech.). "Thus when we have known the sweetness of God, we have one foot sound while the other halts; since every one who halts on one foot leans only on that foot which is sound."
-# Whether The Contemplative Life Is Continuous?
+## Whether The Contemplative Life Is Continuous?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the contemplative life is not continuous. For the contemplative life consists essentially in things pertaining to the intellect. Now all the intellectual perfections of this life will be made void, according to 1 Cor. 13:8, "Whether prophecies shall be made void, or tongues shall cease, or knowledge shall be destroyed." Therefore the contemplative life is made void.
 
@@ -204,13 +204,13 @@ Objection 2: Further, a man tastes the sweetness of contemplation by snatches an
 
 Objection 3: Further, that which is not connatural to man cannot be continuous. Now the contemplative life, according to the Philosopher (Ethic. x, 7), "is better than the life which is according to man." Therefore seemingly the contemplative life is not continuous.
 
-## Answer
+### Answer
 
 On the contrary, our Lord said (Lk. 10:42): "Mary hath chosen the best part, which shall not be taken away from her," since as Gregory says (Hom. xiv in Ezech.), "the contemplative life begins here so that it may be perfected in our heavenly home."
 
 I answer that, A thing may be described as continuous in two ways: first, in regard to its nature; secondly, in regard to us. It is evident that in regard to itself contemplative life is continuous for two reasons: first, because it is about incorruptible and unchangeable things; secondly, because it has no contrary, for there is nothing contrary to the pleasure of contemplation, as stated in Topic. i, 13. But even in our regard contemplative life is continuous---both because it is competent to us in respect of the incorruptible part of the soul, namely the intellect, wherefore it can endure after this life---and because in the works of the contemplative life we work not with our bodies, so that we are the more able to persevere in the works thereof, as the Philosopher observes (Ethic. x, 7).
 
-## Replies
+### Replies
 
 Reply to Objection 1: The manner of contemplation is not the same here as in heaven: yet the contemplative life is said to remain by reason of charity, wherein it has both its beginning and its end. Gregory speaks in this sense (Hom. xiv in Ezech.): "The contemplative life begins here, so as to be perfected in our heavenly home, because the fire of love which begins to burn here is aflame with a yet greater love when we see Him Whom we love."
 

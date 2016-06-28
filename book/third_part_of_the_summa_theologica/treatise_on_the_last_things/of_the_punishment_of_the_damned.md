@@ -8,9 +8,9 @@ In due sequence we must consider those things that concern the damned after the 
 (5) Whether the fire whereby they are tormented is corporeal?
 (6) Whether it is of the same species as our fire?
 (7) Whether this fire is beneath the earth?
-# Whether In Hell The Damned Are Tormented By The Sole Punishment Of Fire?
+## Whether In Hell The Damned Are Tormented By The Sole Punishment Of Fire?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that in hell the damned are tormented by the sole punishment of fire; because Mat. 25:41, where their condemnation is declared, mention is made of fire only, in the words: "Depart from Me, you cursed, into everlasting fire."
 
@@ -18,54 +18,54 @@ Objection 2: Further, even as the punishment of purgatory is due to venial sin, 
 
 Objection 3: Further, variety of punishment affords a respite, as when one passes from heat to cold. But we can admit no respite in the damned. Therefore there will not be various punishments, but that of fire alone.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Ps. 10:7): "Fire and brimstone and storms of winds shall be the portion of their cup."
 
 I answer that, According to Basil (Homilia vi in Hexaemeron and Hom. i in Ps. 38), at the final cleansing of the world, there will be a separation of the elements, whatever is pure and noble remaining above for the glory of the blessed, and whatever is ignoble and sordid being cast down for the punishment of the damned: so that just as every creature will be to the blessed a matter of joy, so will all the elements conduce to the torture of the damned, according to Wis. 5:21, "the whole world will fight with Him against the unwise." This is also becoming to Divine justice, that whereas they departed from one by sin, and placed their end in material things which are many and various, so should they be tormented in many ways and from many sources.
 
-## Replies
+### Replies
 
 Reply to Objection 2: It is because fire is most painful, through its abundance of active force, that the name of fire is given to any torment if it be intense.
 
 Reply to Objection 3: The damned will pass from the most intense heat to the most intense cold without this giving them any respite: because they will suffer from external agencies, not by the transmutation of their body from its original natural disposition, and the contrary passion affording a respite by restoring an equable or moderate temperature, as happens now, but by a spiritual action, in the same way as sensible objects act on the senses being perceived by impressing the organ with their forms according to their spiritual and not their material being.
-# Whether The Worm Of The Damned Is Corporeal?
+## Whether The Worm Of The Damned Is Corporeal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the worm by which the damned are tormented is corporeal. Because flesh cannot be tormented by a spiritual worm. Now the flesh of the damned will be tormented by a worm: "He will give fire and worms into their flesh" (Judith 16:21), and: "The vengeance on the flesh of the ungodly is fire and worms" (Ecclus. 7:19). Therefore that worm will be corporeal.
 
 Objection 2: Further, Augustine says (De Civ. Dei xxi, 9): . . . "Both, namely fire and worm, will be the punishment of the body." Therefore, etc.
 
-## Answer
+### Answer
 
 On the contrary, Augustine says (De Civ. Dei xx, 22): "The unquenchable fire and the restless worm in the punishment of the damned are explained in various ways by different persons. Some refer both to the body, some, both to the soul: others refer the fire, in the literal sense, to the body, the worm to the soul metaphorically: and this seems the more probable."
 
 I answer that, After the day of judgment, no animal or mixed body will remain in the renewed world except only the body of man, because the former are not directed to incorruption [*Cf.[5155] Q[91], A[5]], nor after that time will there be generation or corruption. Consequently the worm ascribed to the damned must be understood to be not of a corporeal but of a spiritual nature: and this is the remorse of conscience, which is called a worm because it originates from the corruption of sin, and torments the soul, as a corporeal worm born of corruption torments by gnawing.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The very souls of the damned are called their flesh for as much as they were subject to the flesh. Or we may reply that the flesh will be tormented by the spiritual worm, according as the afflictions of the soul overflow into the body, both here and hereafter.
 
 Reply to Objection 2: Augustine speaks by way of comparison. For he does not wish to assert absolutely that this worm is material, but that it is better to say that both are to be understood materially, than that both should be understood only in a spiritual sense: for then the damned would suffer no bodily pain. This is clear to anyone that examines the context of his words in this passage.
-# Whether The Weeping Of The Damned Will Be Corporeal?
+## Whether The Weeping Of The Damned Will Be Corporeal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the weeping of the damned will be corporeal. For a gloss on Lk. 13:28, "There will be weeping," says that "the weeping with which our Lord threatens the wicked is a proof of the resurrection of the body." But this would not be the case if that weeping were merely spiritual. Therefore, etc.
 
 Objection 2: Further, the pain of the punishment corresponds to the pleasure of the sin, according to Apoc. 18:7: "As much as she hath glorified herself and lived in delicacies, so much torment and sorrow give ye to her." Now sinners had internal and external pleasure in their sin. Therefore they will also have external weeping.
 
-## Answer
+### Answer
 
 On the contrary, Corporeal weeping results from dissolving into tears. Now there cannot be a continual dissolution from the bodies of the damned, since nothing is restored to them by food; for everything finite is consumed if something be continually taken from it. Therefore the weeping of the damned will not be corporeal.
 
 I answer that, Two things are to be observed in corporeal weeping. One is the resolution of tears: and as to this corporeal weeping cannot be in the damned, since after the day of judgment, the movement of the first movable being being at an end, there will be neither generation, nor corruption, nor bodily alteration: and in the resolution of tears that humor needs to be generated which is shed forth in the shape of tears. Wherefore in this respect it will be impossible for corporeal weeping to be in the damned. The other thing to be observed in corporeal weeping is a certain commotion and disturbance of the head and eyes, and in this respect weeping will be possible in the damned after the resurrection: for the bodies of the damned will be tormented not only from without, but also from within, according as the body is affected at the instance of the soul's passion towards good or evil. In this sense weeping is a proof of the body's resurrection, and corresponds to the pleasure of sin, experienced by both soul and body.
 
 This suffices for the Replies to the Objections.
-# Whether The Damned Are In Material Darkness?
+## Whether The Damned Are In Material Darkness?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the damned are not in material darkness. For commenting on Job 10:22, "But everlasting horror dwelleth," Gregory says (Moral. ix): "Although that fire will give no light for comfort, yet, that it may torment the more it does give light for a purpose, for by the light of its flame the wicked will see their followers whom they have drawn thither from the world." Therefore the darkness there is not material.
 
@@ -73,7 +73,7 @@ Objection 2: Further, the damned see their own punishment, for this increases th
 
 Objection 3: Further, there the damned will have the power of sight after being reunited to their bodies. But this power would be useless to them unless they see something. Therefore, since nothing is seen unless it be in the light, it would seem that they are not in absolute darkness.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Mat. 22:13): "Bind his hands and his feet, and cast him into the exterior darkness." Commenting on these words Gregory says (Moral. ix): If this fire gave any light, "he would by no means be described as cast into exterior darkness."
 
@@ -84,9 +84,9 @@ Yet it happens accidentally that seeing is painful, when we see things that are 
 Some hold that this darkness is caused by the massing together of the bodies of the damned, which will so fill the place of hell with their numbers, that no air will remain, so that there will be no translucid body that can be the subject of light and darkness, except the eyes of the damned, which will be darkened utterly.
 
 This suffices for the Replies to the Objections.
-# Whether The Fire Of Hell Will Be Corporeal?
+## Whether The Fire Of Hell Will Be Corporeal?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that the fire of hell whereby the bodies of the damned will be tormented will not be corporeal. For Damascene says (De Fide Orth. iv): The devil, and "demons, and his men" [*Cf. 2 Thess. 2:3: "And the man of sin be revealed, the son of perdition."], namely Antichrist, "together with the ungodly and sinners will be cast into everlasting fire, not material fire, such as that which we have, but such as God knoweth." Now everything corporeal is material. Therefore the fire of hell will not be corporeal.
 
@@ -94,22 +94,22 @@ Objection 2: Further, the souls of the damned when severed from their bodies are
 
 Objection 3: Further, corporeal fire in the mode of its action does not follow the mode of guilt in the person who is burned at the stake, rather does it follow the mode of humid and dry: for in the same corporeal fire we see both good and wicked suffer. But the fire of hell, in its mode of torture or action, follows the mode of guilt in the person punished; wherefore Gregory says (Dial. iv, 63): "There is indeed but one hell fire, but it does not torture all sinners equally. For each one will suffer as much pain according as his guilt deserves." Therefore this fire will not be corporeal.
 
-## Answer
+### Answer
 
 On the contrary, He says (Dial. iv, 29): "I doubt not that the fire of hell is corporeal, since it is certain that bodies are tortured there."
 
 I answer that, There have been many opinions about the fire of hell. For some philosophers, as Avicenna, disbelieving in the resurrection, thought that the soul alone would be punished after death. And as they considered it impossible for the soul, being incorporeal, to be punished with a corporeal fire, they denied that the fire whereby the wicked are punished is corporeal, and pretended that all statements as to souls being punished in future after death by any corporeal means are to be taken metaphorically. For just as the joy and happiness of good souls will not be about any corporeal object, but about something spiritual, namely the attainment of their end, so will the torment of the wicked be merely spiritual, in that they will be grieved at being separated from their end, the desire whereof is in them by nature. Wherefore, just as all descriptions of the soul's delight after death that seem to denote bodily pleasure---for instance, that they are refreshed, that they smile, and so forth---must be taken metaphorically, so also are all such descriptions of the soul's suffering as seem to imply bodily punishment---for instance, that they burn in fire, or suffer from the stench, and so forth. For as spiritual pleasure and pain are unknown to the majority, these things need to be declared under the figure of corporeal pleasures and pains, in order that men may be moved the more to the desire or fear thereof. Since, however, in the punishment of the damned there will be not only pain of loss corresponding to the aversion that was in their sin, but also pain of sense corresponding to the conversion, it follows that it is not enough to hold the above manner of punishment. For this reason Avicenna himself (Met. ix) added another explanation, by saying that the souls of the wicked are punished after death, not by bodies but by images of bodies; just as in a dream it seems to a man that he is suffering various pains on account of such like images being in his imagination. Even Augustine seems to hold this kind of punishment (Gen. ad lit. xii, 32), as is clear from the text. But this would seem an unreasonable statement. For the imagination is a power that makes use of a bodily organ: so that it is impossible for such visions of the imagination to occur in the soul separated from the body, as in the soul of the dreamer. Wherefore Avicenna also that he might avoid this difficulty, said that the soul separated from the body uses as an organ some part of the heavenly body, to which the human body needs to be conformed, in order to be perfected by the rational soul, which is like the movers of the heavenly body---thus following somewhat the opinion of certain philosophers of old, who maintained that souls return to the stars that are their compeers. But this is absolutely absurd according to the Philosopher's teaching, since the soul uses a definite bodily organ, even as art uses definite instruments, so that it cannot pass from one body to another, as Pythagoras is stated (De Anima i, text. 53) to have maintained. As to the statement of Augustine we shall say below how it is to be answered (ad 2). However, whatever we may say of the fire that torments the separated souls, we must admit that the fire which will torment the bodies of the damned after the resurrection is corporeal, since one cannot fittingly apply a punishment to a body unless that punishment itself be bodily. Wherefore Gregory (Dial. iv) proves the fire of hell to be corporeal from the very fact that the wicked will be cast thither after the resurrection. Again Augustine, as quoted in the text of Sentent. iv, D, 44, clearly admits (De Civ. Dei xxi, 10) that the fire by which the bodies are tormented is corporeal. And this is the point at issue for the present. We have said elsewhere ([5157]Q[70], A[3]) how the souls of the damned are punished by this corporeal fire.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Damascene does not absolutely deny that this fire is material, but that it is material as our fire, since it differs from ours in some of its properties. We may also reply that since that fire does not alter bodies as to their matter, but acts on them for their punishment by a kind of spiritual action, it is for this reason that it is stated not to be material, not as regards its substance, but as to its punitive effect on bodies and, still more, on souls.
 
 Reply to Objection 2: The assertion of Augustine may be taken in this way, that the place whither souls are conveyed after death be described as incorporeal, in so far as the soul is there, not corporeally, i.e. as bodies are in a place, but in some other spiritual way, as angels are in a place. Or we may reply that Augustine is expressing an opinion without deciding the point, as he often does in those books.
 
 Reply to Objection 3: That fire will be the instrument of Divine justice inflicting punishment. Now an instrument acts not only by its own power and in its own way, but also by the power of the principal agent, and as directed thereby. Wherefore although fire is not able, of its own power, to torture certain persons more or less, according to the measure of sin, it is able to do so nevertheless in so far as its action is regulated by the ordering of Divine justice: even so the fire of the furnace is regulated by the forethought of the smith, according as the effect of his art requires.
-# Whether The Fire Of Hell Is Of The Same Species As Ours?
+## Whether The Fire Of Hell Is Of The Same Species As Ours?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this fire is not of the same species as the corporeal fire which we see. For Augustine says (De Civ. Dei xx, 16): "In my opinion no man knows of what kind is the everlasting fire, unless the Spirit of God has revealed it to anyone." But all or nearly all know the nature of this fire of ours. Therefore that fire is not of the same species as this.
 
@@ -119,13 +119,13 @@ Objection 3: Further, the everlasting and the corruptible differ essentially, si
 
 Objection 4: Further, it belongs to the nature of this fire of ours to give light. But the fire of hell gives no light, hence the saying of Job 18:5: "Shall not the light of the wicked be extinguished?" Therefore . . . as above.
 
-## Answer
+### Answer
 
 On the contrary, According to the Philosopher (Topic. i, 6), "every water is of the same species as every other water." Therefore in like manner every fire is of the same species as every other fire.
 
 I answer that, As stated in Meteor. iv, 1 fire has other bodies for its matter, for the reason that of all the elements it has the greatest power of action. Hence fire is found under two conditions: in its own matter, as existing in its own sphere, and in a strange matter, whether of earth, as in burning coal, or of air as in the flame. Under whatever conditions however fire be found, it is always of the same species, so far as the nature of fire is concerned, but there may be a difference of species as to the bodies which are the matter of fire. Wherefore flame and burning coal differ specifically, and likewise burning wood and red-hot iron; nor does it signify, as to this particular point, whether they be kindled by force, as in the case of iron, or by a natural intrinsic principle, as happens with sulphur. Accordingly it is clear that the fire of hell is of the same species as the fire we have, so far as the nature of fire is concerned. But whether that fire subsists in its proper matter, or if it subsists in a strange matter, what that matter may be, we know not. And in this way it may differ specifically from the fire we have, considered materially. It has, however, certain properties differing from our fire, for instance that it needs no kindling, nor is kept alive by fuel. But the differences do not argue a difference of species as regards the nature of the fire.
 
-## Replies
+### Replies
 
 Reply to Objection 1: Augustine is speaking of that fire with regard to its matter, and not with regard to its nature.
 
@@ -134,9 +134,9 @@ Reply to Objection 2: This fire of ours is kept alive with fuel, and is kindled 
 Reply to Objection 3: Even as the bodies of the damned will be of the same species as now, although now they are corruptible, whereas then they will be incorruptible, both by the ordering of Divine justice, and on account of the cessation of the heavenly movement, so is it with the fire of hell whereby those bodies will be punished.
 
 Reply to Objection 4: To give light does not belong to fire according to any mode of existence, since in its own matter it gives no light; wherefore it does not shine in its own sphere according to the philosophers: and in like manner in certain foreign matters it does not shine, as when it is in an opaque earthly substance such as sulphur. The same happens also when its brightness is obscured by thick smoke. Wherefore that the fire of hell gives no light is not sufficient proof of its being of a different species.
-# Whether The Fire Of Hell Is Beneath The Earth?
+## Whether The Fire Of Hell Is Beneath The Earth?
 
-## Objections
+### Objections
 
 Objection 1: It would seem that this fire is not beneath the earth. For it is said of the damned (Job 18:18), "And God shall remove him out of the globe [Douay: 'world']." Therefore the fire whereby the damned will be punished is not beneath the earth but outside the globe.
 
@@ -146,7 +146,7 @@ Objection 3: Further, after the day of judgment the bodies of all the damned wil
 
 Objection 4: Further, "By what things a man sinneth, by the same also he is tormented" (Wis. 11:17). But the wicked have sinned on the earth. Therefore the fire that punishes them should not be under the earth.
 
-## Answer
+### Answer
 
 On the contrary, It is written (Is. 14:9): "Hell below was in an uproar to meet Thee at Thy coming." Therefore the fire of hell is beneath us.
 
@@ -154,7 +154,7 @@ I answer that, As Augustine says (De Civ. Dei xv, 16), "I am of opinion that no 
 
 Pythagoras held the place of punishment to be in a fiery sphere situated, according to him, in the middle of the whole world: and he called it the prison-house of Jupiter as Aristotle relates (De Coelo et Mundo ii). It is, however, more in keeping with Scripture to say that it is beneath the earth.
 
-## Replies
+### Replies
 
 Reply to Objection 1: The words of Job, "God shall remove him out of the globe," refer to the surface of the earth [*"De orbe terrarum," which might be rendered "from the land of the living."], i.e. from this world. This is how Gregory expounds it (Moral. xiv) where he says: "He is removed from the globe when, at the coming of the heavenly judge, he is taken away from this world wherein he now prides himself in his wickedness." Nor does globe here signify the universe, as though the place of punishment were outside the whole universe.
 
