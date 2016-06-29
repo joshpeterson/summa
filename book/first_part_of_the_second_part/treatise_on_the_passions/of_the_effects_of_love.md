@@ -7,9 +7,9 @@ We now have to consider the effects of love: under which head there are six poin
 (4) Whether zeal is an effect of love?
 (5) Whether love is a passion that is hurtful to the lover?
 (6) Whether love is cause of all that the lover does?
-## Whether Union Is An Effect Of Love?
+### Whether Union Is An Effect Of Love?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that union is not an effect of love. For absence is incompatible with union. But love is compatible with absence; for the Apostle says (Gal. 4:18): "Be zealous for that which is good in a good thing always" (speaking of himself, according to a gloss), "and not only when I am present with you." Therefore union is not an effect of love.
 
@@ -17,7 +17,7 @@ Objection 2: Further, every union is either according to essence, thus form is u
 
 Objection 3: Further, the sense in act is the sensible in act, and the intellect in act is the thing actually understood. But the lover in act is not the beloved in act. Therefore union is the effect of knowledge rather than of love.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Div. Nom. iv) that every love is a "unitive love."
 
@@ -25,16 +25,16 @@ I answer that, The union of lover and beloved is twofold. The first is real unio
 
 The first of these unions is caused "effectively" by love; because love moves man to desire and seek the presence of the beloved, as of something suitable and belonging to him. The second union is caused "formally" by love; because love itself is this union or bond. In this sense Augustine says (De Trin. viii, 10) that "love is a vital principle uniting, or seeking to unite two together, the lover, to wit, and the beloved." For in describing it as "uniting" he refers to the union of affection, without which there is no love: and in saying that "it seeks to unite," he refers to real union.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is true of real union. That is necessary to pleasure as being its cause; desire implies the real absence of the beloved: but love remains whether the beloved be absent or present.
 
 Reply to Objection 2: Union has a threefold relation to love. There is union which causes love; and this is substantial union, as regards the love with which one loves oneself; while as regards the love wherewith one loves other things, it is the union of likeness, as stated above ([1235]Q[27], A[3]). There is also a union which is essentially love itself. This union is according to a bond of affection, and is likened to substantial union, inasmuch as the lover stands to the object of his love, as to himself, if it be love of friendship; as to something belonging to himself, if it be love of concupiscence. Again there is a union, which is the effect of love. This is real union, which the lover seeks with the object of his love. Moreover this union is in keeping with the demands of love: for as the Philosopher relates (Polit. ii, 1), "Aristophanes stated that lovers would wish to be united both into one," but since "this would result in either one or both being destroyed," they seek a suitable and becoming union---to live together, speak together, and be united together in other like things.
 
 Reply to Objection 3: Knowledge is perfected by the thing known being united, through its likeness, to the knower. But the effect of love is that the thing itself which is loved, is, in a way, united to the lover, as stated above. Consequently the union caused by love is closer than that which is caused by knowledge.
-## Whether Mutual Indwelling Is An Effect Of Love?
+### Whether Mutual Indwelling Is An Effect Of Love?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that love does not cause mutual indwelling, so that the lover be in the beloved and vice versa. For that which is in another is contained in it. But the same cannot be container and contents. Therefore love cannot cause mutual indwelling, so that the lover be in the beloved and vice versa.
 
@@ -42,7 +42,7 @@ Objection 2: Further, nothing can penetrate within a whole, except by means of a
 
 Objection 3: Further, if love involves the lover being in the beloved and vice versa, it follows that the beloved is united to the lover, in the same way as the lover is united to the beloved. But the union itself is love, as stated above [1236](A[1]). Therefore it follows that the lover is always loved by the object of his love; which is evidently false. Therefore mutual indwelling is not an effect of love.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Jn. 4:16): "He that abideth in charity abideth in God, and God in him." Now charity is the love of God. Therefore, for the same reason, every love makes the beloved to be in the lover, and vice versa.
 
@@ -52,16 +52,16 @@ As the appetitive power, the object loved is said to be in the lover, inasmuch a
 
 In yet a third way, mutual indwelling in the love of friendship can be understood in regard to reciprocal love: inasmuch as friends return love for love, and both desire and do good things for one another.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The beloved is contained in the lover, by being impressed on his heart and thus becoming the object of his complacency. On the other hand, the lover is contained in the beloved, inasmuch as the lover penetrates, so to speak, into the beloved. For nothing hinders a thing from being both container and contents in different ways: just as a genus is contained in its species, and vice versa.
 
 Reply to Objection 2: The apprehension of the reason precedes the movement of love. Consequently, just as the reason divides, so does the movement of love penetrate into the beloved, as was explained above.
 
 Reply to Objection 3: This argument is true of the third kind of mutual indwelling, which is not to be found in every kind of love.
-## Whether Ecstasy Is An Effect Of Love?
+### Whether Ecstasy Is An Effect Of Love?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that ecstasy is not an effect of love. For ecstasy seems to imply loss of reason. But love does not always result in loss of reason: for lovers are masters of themselves at times. Therefore love does not cause ecstasy.
 
@@ -69,7 +69,7 @@ Objection 2: Further, the lover desires the beloved to be united to him. Therefo
 
 Objection 3: Further, love unites the beloved to the lover, as stated above [1237](A[1]). If, therefore, the lover goes out from himself, in order to betake himself into the beloved, it follows that the lover always loves the beloved more than himself: which is evidently false. Therefore ecstasy is not an effect of love.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Div. Nom. iv) that "the Divine love produces ecstasy," and that "God Himself suffered ecstasy through love." Since therefore according to the same author (Div. Nom. iv), every love is a participated likeness of the Divine Love, it seems that every love causes ecstasy.
 
@@ -77,16 +77,16 @@ I answer that, To suffer ecstasy means to be placed outside oneself. This happen
 
 The first of these ecstasies is caused by love dispositively in so far, namely, as love makes the lover dwell on the beloved, as stated above [1238](A[2]), and to dwell intently on one thing draws the mind from other things. The second ecstasy is caused by love directly; by love of friendship, simply; by love of concupiscence not simply but in a restricted sense. Because in love of concupiscence, the lover is carried out of himself, in a certain sense; in so far, namely, as not being satisfied with enjoying the good that he has, he seeks to enjoy something outside himself. But since he seeks to have this extrinsic good for himself, he does not go out from himself simply, and this movement remains finally within him. On the other hand, in the love of friendship, a man's affection goes out from itself simply; because he wishes and does good to his friend, by caring and providing for him, for his sake.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is true of the first kind of ecstasy.
 
 Reply to Objection 2: This argument applies to love of concupiscence, which, as stated above, does not cause ecstasy simply.
 
 Reply to Objection 3: He who loves, goes out from himself, in so far as he wills the good of his friend and works for it. Yet he does not will the good of his friend more than his own good: and so it does not follow that he loves another more than himself.
-## Whether Zeal Is An Effect Of Love?
+### Whether Zeal Is An Effect Of Love?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that zeal is not an effect of love. For zeal is a beginning of contention; wherefore it is written (1 Cor. 3:3): "Whereas there is among you zeal [Douay: 'envying'] and contention," etc. But contention is incompatible with love. Therefore zeal is not an effect of love.
 
@@ -94,7 +94,7 @@ Objection 2: Further, the object of love is the good, which communicates itself 
 
 Objection 3: Further, there is no zeal without hatred, as neither is there without love: for it is written (Ps. 72:3): "I had a zeal on occasion of the wicked." Therefore it should not be set down as an effect of love any more than of hatred.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Div. Nom. iv): "God is said to be a zealot, on account of his great love for all things."
 
@@ -104,16 +104,16 @@ But this happens in different ways according to love of concupiscence, and love 
 
 On the other hand, love of friendship seeks the friend's good: wherefore, when it is intense, it causes a man to be moved against everything that opposes the friend's good. In this respect, a man is said to be zealous on behalf of his friend, when he makes a point of repelling whatever may be said or done against the friend's good. In this way, too, a man is said to be zealous on God's behalf, when he endeavors, to the best of his means, to repel whatever is contrary to the honor or will of God; according to 3 Kings 19:14: "With zeal I have been zealous for the Lord of hosts." Again on the words of Jn. 2:17: "The zeal of Thy house hath eaten me up," a gloss says that "a man is eaten up with a good zeal, who strives to remedy whatever evil he perceives; and if he cannot, bears with it and laments it."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle is speaking in this passage of the zeal of envy; which is indeed the cause of contention, not against the object of love, but for it, and against that which is opposed to it.
 
 Reply to Objection 2: Good is loved inasmuch as it can be communicated to the lover. Consequently whatever hinders the perfection of this communication, becomes hateful. Thus zeal arises from love of good. But through defect of goodness, it happens that certain small goods cannot, in their entirety, be possessed by many at the same time: and from the love of such things arises the zeal of envy. But it does not arise, properly speaking, in the case of those things which, in their entirety, can be possessed by many: for no one envies another the knowledge of truth, which can be known entirely by many; except perhaps one may envy another his superiority in the knowledge of it.
 
 Reply to Objection 3: The very fact that a man hates whatever is opposed to the object of his love, is the effect of love. Hence zeal is set down as an effect of love rather than of hatred.
-## Whether Love Is A Passion That Wounds The Lover?
+### Whether Love Is A Passion That Wounds The Lover?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that love wounds the lover. For languor denotes a hurt in the one that languishes. But love causes languor: for it is written (Cant 2:5): "Stay me up with flowers, compass me about with apples; because I languish with love." Therefore love is a wounding passion.
 
@@ -121,7 +121,7 @@ Objection 2: Further, melting is a kind of dissolution. But love melts that in w
 
 Objection 3: Further, fervor denotes a certain excess of heat; which excess has a corruptive effect. But love causes fervor: for Dionysius (Coel. Hier. vii) in reckoning the properties belonging to the Seraphim's love, includes "hot" and "piercing" and "most fervent." Moreover it is said of love (Cant 8:6) that "its lamps are fire and flames." Therefore love is a wounding and corruptive passion.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Div. Nom. iv) that "everything loves itself with a love that holds it together," i.e. that preserves it. Therefore love is not a wounding passion, but rather one that preserves and perfects.
 
@@ -130,9 +130,9 @@ I answer that, As stated above ([1239]Q[26], AA[1],2;[1240] Q[27], A[1]), love d
 And let this be understood as applying to love in respect of its formal element, i.e. in regard to the appetite. But in respect of the material element in the passion of love, i.e. a certain bodily change, it happens that love is hurtful, by reason of this change being excessive: just as it happens in the senses, and in every act of a power of the soul that is exercised through the change of some bodily organ.
 
 In reply to the objections, it is to be observed that four proximate effects may be ascribed to love: viz. melting, enjoyment, languor, and fervor. Of these the first is "melting," which is opposed to freezing. For things that are frozen, are closely bound together, so as to be hard to pierce. But it belongs to love that the appetite is fitted to receive the good which is loved, inasmuch as the object loved is in the lover, as stated above [1241](A[2]). Consequently the freezing or hardening of the heart is a disposition incompatible with love: while melting denotes a softening of the heart, whereby the heart shows itself to be ready for the entrance of the beloved. If, then, the beloved is present and possessed, pleasure or enjoyment ensues. But if the beloved be absent, two passions arise; viz. sadness at its absence, which is denoted by "languor" (hence Cicero in De Tusc. Quaest. iii, 11 applies the term "ailment" chiefly to sadness); and an intense desire to possess the beloved, which is signified by "fervor." And these are the effects of love considered formally, according to the relation of the appetitive power to its object. But in the passion of love, other effects ensue, proportionate to the above, in respect of a change in the organ.
-## Whether Love Is Cause Of All That The Lover Does?
+### Whether Love Is Cause Of All That The Lover Does?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the lover does not do everything from love. For love is a passion, as stated above ([1242]Q[26], A[2]). But man does not do everything from passion: but some things he does from choice, and some things from ignorance, as stated in Ethic. v, 8. Therefore not everything that a man does, is done from love.
 
@@ -140,13 +140,13 @@ Objection 2: Further, the appetite is a principle of movement and action in all 
 
 Objection 3: Further, nothing is produced at one and the same time by contrary causes. But some things are done from hatred. Therefore all things are not done from love.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Div. Nom. iv) that "all things, whatever they do, they do for the love of good."
 
 I answer that, Every agent acts for an end, as stated above ([1243]Q[1], A[2] ). Now the end is the good desired and loved by each one. Wherefore it is evident that every agent, whatever it be, does every action from love of some kind.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This objection takes love as a passion existing in the sensitive appetite. But here we are speaking of love in a general sense, inasmuch as it includes intellectual, rational, animal, and natural love: for it is in this sense that Dionysius speaks of love in chapter iv of De Divinis Nominibus.
 

@@ -5,9 +5,9 @@ We must now consider the parts of temperance in particular: and in the first pla
 (2) What is its object?
 (3) Who are the cause of a man being ashamed?
 (4) What kind of people are ashamed?
-## Whether Shamefacedness Is A Virtue?
+### Whether Shamefacedness Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that shamefacedness is a virtue. For it is proper to a virtue "to observe the mean as fixed by reason": this is clear from the definition of virtue given in Ethic. ii, 6. Now shamefacedness observes the mean in this way, as the Philosopher observes (Ethic. ii, 7). Therefore shamefacedness is a virtue.
 
@@ -19,7 +19,7 @@ Objection 4: Further, every vice is opposed to a virtue. Now certain vices are o
 
 Objection 5: Further, "like acts beget like habits," according to Ethic. ii, 1. Now shamefacedness implies a praiseworthy act; wherefore from many such acts a habit results. But a habit of praiseworthy deeds is a virtue, according to the Philosopher (Ethic. i, 12). Therefore shamefacedness is a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. ii, 7; iv, 9) that shamefacedness is not a virtue.
 
@@ -27,7 +27,7 @@ I answer that, Virtue is taken in two ways, in a strict sense and in a broad sen
 
 Taken, however, in a broad sense virtue denotes whatever is good and praiseworthy in human acts or passions; and in this way /shamefacedness is sometimes called a virtue, since it is a praiseworthy passion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Observing the mean is not sufficient for the notion of virtue, although it is one of the conditions included in virtue's definition: but it is requisite, in addition to this, that it be "an elective habit," that is to say, operating from choice. Now shamefacedness denotes, not a habit but a passion, nor does its movement result from choice, but from an impulse of passion. Hence it falls short of the notion of virtue.
 
@@ -38,9 +38,9 @@ Reply to Objection 3: Shamefacedness fosters honesty, by removing that which is 
 Reply to Objection 4: Every defect causes a vice, but not every good is sufficient for the notion of virtue. Consequently it does not follow that whatever is directly opposed to vice is a virtue, although every vice is opposed to a virtue, as regards its origin. Hence shamelessness, in so far as it results from excessive love of disgraceful things, is opposed to temperance.
 
 Reply to Objection 5: Being frequently ashamed causes the habit of an acquired virtue whereby one avoids disgraceful things which are the object of shamefacedness, without continuing to be ashamed in their regard: although as a consequence of this acquired virtue, a man would be more ashamed, if confronted with the matter of shamefacedness.
-## Whether Shamefacedness Is About A Disgraceful Action?
+### Whether Shamefacedness Is About A Disgraceful Action?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that shamefacedness is not about a disgraceful action. For the Philosopher says (Ethic. iv, 9) that "shamefacedness is fear of disgrace." Now sometimes those who do nothing wrong suffer ignominy, according to Ps. 67:8, "For thy sake I have borne reproach, shame hath covered my face." Therefore shamefacedness is not properly about a disgraceful action.
 
@@ -50,7 +50,7 @@ Objection 3: Further, virtuous deeds are not disgraceful but most beautiful acco
 
 Objection 4: Further, if shamefacedness were properly about a disgraceful action, it would follow that the more disgraceful the action the more ashamed would one be. Yet sometimes a man is more ashamed of lesser sins, while he glories in those which are most grievous, according to Ps. 51:3, "Why dost thou glory in malice?" Therefore shamefacedness is not properly about a disgraceful action.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene (De Fide Orth. ii, 15) and Gregory of Nyssa [*Nemesius, (De Nat. Hom. xx)] say that "shamefacedness is fear of doing a disgraceful deed or of a disgraceful deed done."
 
@@ -60,7 +60,7 @@ The other kind of disgrace is penal so to speak, and it consists in the reproach
 
 Now shamefacedness regards fault in two ways. In one way a man refrains from vicious acts through fear of reproach: in another way a man while doing a disgraceful deed avoids the public eye through fear of reproach. In the former case, according to Gregory of Nyssa (Nemesius, De Nat. Hom. xx), we speak of a person "blushing," in the latter we say that he is "ashamed." Hence he says that "the man who is ashamed acts in secret, but he who blushes fears to be disgraced."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Shamefacedness properly regards disgrace as due to sin which is a voluntary defect. Hence the Philosopher says (Rhet. ii, 6) that "a man is more ashamed of those things of which he is the cause." Now the virtuous man despises the disgrace to which he is subject on account of virtue, because he does not deserve it; as the Philosopher says of the magnanimous (Ethic. iv, 3). Thus we find it said of the apostles (Acts 5:41) that "they (the apostles) went from the presence of the council, rejoicing that they were accounted worthy to suffer reproach for the name of Jesus." It is owing to imperfection of virtue that a man is sometimes ashamed of the reproaches which he suffers on account of virtue, since the more virtuous a man is, the more he despises external things, whether good or evil. Wherefore it is written (Is. 51:7): "Fear ye not the reproach of men."
 
@@ -69,9 +69,9 @@ Reply to Objection 2: As stated above ([3463]Q[63], A[3]), though honor is not r
 Reply to Objection 3: Shamefacedness does not regard virtuous deeds as such. Yet it happens accidentally that a man is ashamed of them either because he looks upon them as vicious according to human opinion, or because he is afraid of being marked as presumptuous or hypocritical for doing virtuous deeds.
 
 Reply to Objection 4: Sometimes more grievous sins are less shameful, either because they are less disgraceful, as spiritual sins in comparison with sins of the flesh, or because they connote a certain abundance of some temporal good; thus a man is more ashamed of cowardice than of daring, of theft than of robbery, on account of a semblance of power. The same applies to other sins.
-## Whether Man Is More Shamefaced Of Those Who Are More Closely Connected With Him?
+### Whether Man Is More Shamefaced Of Those Who Are More Closely Connected With Him?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man is not more shamefaced of those who are more closely connected with him. For it is stated in Rhet. ii, 6 that "men are more shamefaced of those from whom they desire approbation." Now men desire this especially from people of the better sort who are sometimes not connected with them. Therefore man is not more shamefaced of those who are more closely connected with him.
 
@@ -81,7 +81,7 @@ Objection 3: Further, the Philosopher says (Rhet. ii, 6) that "men take more sha
 
 Objection 4: Further, the Philosopher says (Rhet. ii, 6) that "men are most liable to be made ashamed by those among whom they have done nothing amiss; by those of whom they ask something for the first time; by those whose friends they wish to become." Now these are less closely connected with us. Therefore man is not made most ashamed by those who are more closely united to him.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated in Rhet. ii, 6 that "man is made most ashamed by those who are to be continually with him."
 
@@ -89,7 +89,7 @@ I answer that, Since reproach is opposed to honor, just as honor denotes attesta
 
 An attestation receives weight from its effect by reason of some advantage or harm resulting therefrom; wherefore men are more desirous of being honored by those who can be of use to them, and are more liable to be made ashamed by those who are able to do them some harm. And for this reason again, in a certain respect, persons connected with us make us more ashamed, since we are to be continually in their society, as though this entailed a continual harm to us: whereas the harm that comes from strangers and passersby ceases almost at once.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: People of the better sort make us ashamed for the same reason as those who are more closely connected with us; because just as the attestation of the better men carries more weight since they have a more universal knowledge of things, and in their judgments hold fast to the truth: so, too, the attestation of those among whom we live is more cogent since they know more about our concerns in detail.
 
@@ -98,9 +98,9 @@ Reply to Objection 2: We fear not the attestation of those who are connected wit
 Reply to Objection 3: Tale-bearers make us ashamed on account of the harm they do by making many think ill of us.
 
 Reply to Objection 4: Even those among whom we have done no wrong, make us more ashamed, on account of the harm that would follow, because, to wit, we should forfeit the good opinion they had of us: and again because when contraries are put in juxtaposition their opposition seems greater, so that when a man notices something disgraceful in one whom he esteemed good, he apprehends it as being the more disgraceful. The reason why we are made more ashamed by those of whom we ask something for the first time, or whose friends we wish to be, is that we fear to suffer some injury, by being disappointed in our request, or by failing to become their friends.
-## Whether Even Virtuous Men Can Be Ashamed?
+### Whether Even Virtuous Men Can Be Ashamed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that even virtuous men can be ashamed. For contraries have contrary effects. Now those who excel in wickedness are not ashamed, according to Jer. 3:3, "Thou hadst a harlot's forehead, thou wouldst not blush." Therefore those who are virtuous are more inclined to be ashamed.
 
@@ -110,7 +110,7 @@ Objection 3: Further, shamefacedness is "fear of disgrace" [*Ethic. iv, 9]. Now 
 
 Objection 4: Further, shamefacedness is a part of temperance, as stated above ([3464]Q[143]). Now a part is not separated from its whole. Since then temperance is in a virtuous man, it means that shamefacedness is also.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iv, 9) that a "virtuous man is not shamefaced."
 
@@ -118,7 +118,7 @@ I answer that, As stated above ([3465]AA[1],2) shamefacedness is fear of some di
 
 Accordingly shame may be lacking in a person in two ways. First, because the things that should make him ashamed are not deemed by him to be disgraceful; and in this way those who are steeped in sin are without shame, for instead of disapproving of their sins, they boast of them. Secondly, because they apprehend disgrace as impossible to themselves, or as easy to avoid. In this way the old and the virtuous are not shamefaced. Yet they are so disposed, that if there were anything disgraceful in them they would be ashamed of it. Wherefore the Philosopher says (Ethic. iv, 9) that "shame is in the virtuous hypothetically."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Lack of shame occurs in the best and in the worst men through different causes, as stated in the Article. In the average men it is found, in so far as they have a certain love of good, and yet are not altogether free from evil.
 

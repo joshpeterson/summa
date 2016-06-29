@@ -3,9 +3,9 @@
 We now have to consider the condition of the offspring as to righteousness. Under this head there are two points of inquiry:
 (1) Whether men would have been born in a state of righteousness?
 (2) Whether they would have been born confirmed in righteousness?
-## Whether Men Would Have Been Born In A State Of Righteousness?
+### Whether Men Would Have Been Born In A State Of Righteousness?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence men would not have been born in a state of righteousness. For Hugh of St. Victor says (De Sacram. i): "Before sin the first man would have begotten children sinless; but not heirs to their father's righteousness."
 
@@ -13,20 +13,20 @@ Objection 2: Further, righteousness is effected by grace, as the Apostle says (R
 
 Objection 3: Further, righteousness is in the soul. But the soul is not transmitted from the parent. Therefore neither would righteousness have been transmitted from parents, to the children.
 
-### Answer
+**Answer**
 
 On the contrary, Anselm says (De Concep. Virg. x): "As long as man did not sin, he would have begotten children endowed with righteousness together with the rational soul."
 
 I answer that, Man naturally begets a specific likeness to himself. Hence whatever accidental qualities result from the nature of the species, must be alike in parent and child, unless nature fails in its operation, which would not have occurred in the state of innocence. But individual accidents do not necessarily exist alike in parent and child. Now original righteousness, in which the first man was created, was an accident pertaining to the nature of the species, not as caused by the principles of the species, but as a gift conferred by God on the entire human nature. This is clear from the fact that opposites are of the same genus; and original sin, which is opposed to original righteousness, is called the sin of nature, wherefore it is transmitted from the parent to the offspring; and for this reason also, the children would have been assimilated to their parents as regards original righteousness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These words of Hugh are to be understood as referring, not to the habit of righteousness, but to the execution of the act thereof.
 
 Reply to Objection 2: Some say that children would have been born, not with the righteousness of grace, which is the principle of merit, but with original righteousness. But since the root of original righteousness, which conferred righteousness on the first man when he was made, consists in the supernatural subjection of the reason to God, which subjection results from sanctifying grace, as above explained ([807]Q[95], A[1]), we must conclude that if children were born in original righteousness, they would also have been born in grace; thus we have said above that the first man was created in grace ([808]Q[95], A[1]). This grace, however, would not have been natural, for it would not have been transfused by virtue of the semen; but would have been conferred on man immediately on his receiving a rational soul. In the same way the rational soul, which is not transmitted by the parent, is infused by God as soon as the human body is apt to receive it.
-## Whether In The State Of Innocence Children Would Have Been Born Confirmed In Righteousness?
+### Whether In The State Of Innocence Children Would Have Been Born Confirmed In Righteousness?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence children would have been born confirmed in righteousness. For Gregory says (Moral. iv) on the words of Job 3:13: "For now I should have been asleep, etc.: If no sinful corruption had infected our first parent, he would not have begotten "children of hell"; no children would have been born of him but such as were destined to be saved by the Redeemer." Therefore all would have been born confirmed in righteousness.
 
@@ -36,13 +36,13 @@ Objection 3: Further, good is stronger than evil. But by the sin of the first ma
 
 Objection 4: Further, the angels who remained faithful to God, while the others sinned, were at once confirmed in grace, so as to be unable henceforth to sin. In like manner, therefore, man would have been confirmed in grace if he had persevered. But he would have begotten children like himself. Therefore they also would have been born confirmed in righteousness.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xiv, 10): "Happy would have been the whole human race if neither they---that is our first parents---had committed any evil to be transmitted to their descendants, nor any of their race had committed any sin for which they would have been condemned." From which words we gather that even if our first parents had not sinned, any of their descendants might have done evil; and therefore they would not have been born confirmed in righteousness.
 
 I answer that, It does not seem possible that in the state of innocence children would have been born confirmed in righteousness. For it is clear that at their birth they would not have had greater perfection than their parents at the time of begetting. Now the parents, as long as they begot children, would not have been confirmed in righteousness. For the rational creature is confirmed in righteousness through the beatitude given by the clear vision of God; and when once it has seen God, it cannot but cleave to Him Who is the essence of goodness, wherefrom no one can turn away, since nothing is desired or loved but under the aspect of good. I say this according to the general law; for it may be otherwise in the case of special privilege, such as we believe was granted to the Virgin Mother of God. And as soon as Adam had attained to that happy state of seeing God in His Essence, he would have become spiritual in soul and body; and his animal life would have ceased, wherein alone there is generation. Hence it is clear that children would not have been born confirmed in righteousness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: If Adam had not sinned, he would not have begotten "children of hell" in the sense that they would contract from him sin which is the cause of hell: yet by sinning of their own free-will they could have become "children of hell." If, however, they did not become "children of hell" by falling into sin, this would not have been owing to their being confirmed in righteousness, but to Divine Providence preserving them free from sin.
 

@@ -5,9 +5,9 @@ We come now to the consideration of habits specifically. And since habits, as we
 (2) Whether it is an operative habit?
 (3) Whether it is a good habit?
 (4) Of the definition of virtue.
-## Whether Human Virtue Is A Habit?
+### Whether Human Virtue Is A Habit?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that human virtue is not a habit: For virtue is "the limit of power" (De Coelo i, text. 116). But the limit of anything is reducible to the genus of that of which it is the limit; as a point is reducible to the genus of line. Therefore virtue is reducible to the genus of power, and not to the genus of habit.
 
@@ -19,7 +19,7 @@ Objection 4: Further, Augustine says (De Moribus Eccl. xv) that "virtue is the o
 
 Objection 5: Further, just as there are human virtues, so are there natural virtues. But natural virtues are not habits, but powers. Neither therefore are human virtues habits.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Categor. vi) that science and virtue are habits.
 
@@ -27,7 +27,7 @@ I answer that, Virtue denotes a certain perfection of a power. Now a thing's per
 
 Now there are some powers which of themselves are determinate to their acts; for instance, the active natural powers. And therefore these natural powers are in themselves called virtues. But the rational powers, which are proper to man, are not determinate to one particular action, but are inclined indifferently to many: and they are determinate to acts by means of habits, as is clear from what we have said above ([1497]Q[49], A[4] ). Therefore human virtues are habits.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Sometimes we give the name of a virtue to that to which the virtue is directed, namely, either to its object, or to its act: for instance, we give the name Faith, to that which we believe, or to the act of believing, as also to the habit by which we believe. When therefore we say that "virtue is the limit of power," virtue is taken for the object of virtue. For the furthest point to which a power can reach, is said to be its virtue; for instance, if a man can carry a hundredweight and not more, his virtue [*In English we should say 'strength,' which is the original signification of the Latin 'virtus': thus we speak of an engine being so many horse-power, to indicate its 'strength'] is put at a hundredweight, and not at sixty. But the objection takes virtue as being essentially the limit of power.
 
@@ -38,9 +38,9 @@ Reply to Objection 3: We are said to merit by something in two ways. First, as b
 Reply to Objection 4: When we say that virtue is the order or ordering of love, we refer to the end to which virtue is ordered: because in us love is set in order by virtue.
 
 Reply to Objection 5: Natural powers are of themselves determinate to one act: not so the rational powers. And so there is no comparison, as we have said.
-## Whether Human Virtue Is An Operative Habit?
+### Whether Human Virtue Is An Operative Habit?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not essential to human virtue to be an operative habit. For Tully says (Tuscul. iv) that as health and beauty belong to the body, so virtue belongs to the soul. But health and beauty are not operative habits. Therefore neither is virtue.
 
@@ -48,7 +48,7 @@ Objection 2: Further, in natural things we find virtue not only in reference to 
 
 Objection 3: Further, the Philosopher says (Phys. vii, text. 17) that virtue "is the disposition of a perfect thing to that which is best." Now the best thing to which man needs to be disposed by virtue is God Himself, as Augustine proves (De Moribus Eccl. 3, 6, 14) to Whom the soul is disposed by being made like to Him. Therefore it seems that virtue is a quality of the soul in reference to God, likening it, as it were, to Him; and not in reference to operation. It is not, therefore, an operative habit.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher (Ethic. ii, 6) says that "virtue of a thing is that which makes its work good."
 
@@ -56,16 +56,16 @@ I answer that, Virtue, from the very nature of the word, implies some perfection
 
 Now man is so constituted that the body holds the place of matter, the soul that of form. The body, indeed, man has in common with other animals; and the same is to be said of the forces which are common to the soul and body: and only those forces which are proper to the soul, namely, the rational forces, belong to man alone. And therefore, human virtue, of which we are speaking now, cannot belong to the body, but belongs only to that which is proper to the soul. Wherefore human virtue does not imply reference to being, but rather to act. Consequently it is essential to human virtue to be an operative habit.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Mode of action follows on the disposition of the agent: for such as a thing is, such is its act. And therefore, since virtue is the principle of some kind of operation, there must needs pre-exist in the operator in respect of virtue some corresponding disposition. Now virtue causes an ordered operation. Therefore virtue itself is an ordered disposition of the soul, in so far as, to wit, the powers of the soul are in some way ordered to one another, and to that which is outside. Hence virtue, inasmuch as it is a suitable disposition of the soul, is like health and beauty, which are suitable dispositions of the body. But this does not hinder virtue from being a principle of operation.
 
 Reply to Objection 2: Virtue which is referred to being is not proper to man; but only that virtue which is referred to works of reason, which are proper to man.
 
 Reply to Objection 3: As God's substance is His act, the highest likeness of man to God is in respect of some operation. Wherefore, as we have said above ([1499]Q[3], A[2]), happiness or bliss by which man is made most perfectly conformed to God, and which is the end of human life, consists in an operation.
-## Whether Human Virtue Is A Good Habit?
+### Whether Human Virtue Is A Good Habit?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not essential to virtue that it should be a good habit. For sin is always taken in a bad sense. But there is a virtue even of sin; according to 1 Cor. 15:56: "The virtue [Douay: 'strength'] of sin is the Law." Therefore virtue is not always a good habit.
 
@@ -73,22 +73,22 @@ Objection 2: Further, Virtue corresponds to power. But power is not only referre
 
 Objection 3: Further, according to the Apostle (2 Cor. 12:9): "Virtue [Douay: 'power'] is made perfect in infirmity." But infirmity is an evil. Therefore virtue is referred not only to good, but also to evil.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Moribus Eccl. vi): "No one can doubt that virtue makes the soul exceeding good": and the Philosopher says (Ethic. ii, 6): "Virtue is that which makes its possessor good, and his work good likewise."
 
 I answer that, As we have said above [1500](A[1]), virtue implies a perfection of power: wherefore the virtue of a thing is fixed by the limit of its power (De Coelo i). Now the limit of any power must needs be good: for all evil implies defect; wherefore Dionysius says (Div. Hom. ii) that every evil is a weakness. And for this reason the virtue of a thing must be regarded in reference to good. Therefore human virtue which is an operative habit, is a good habit, productive of good works.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as bad things are said metaphorically to be perfect, so are they said to be good: for we speak of a perfect thief or robber; and of a good thief or robber, as the Philosopher explains (Metaph. v, text. 21). In this way therefore virtue is applied to evil things: so that the "virtue" of sin is said to be law, in so far as occasionally sin is aggravated through the law, so as to attain to the limit of its possibility.
 
 Reply to Objection 2: The evil of drunkenness and excessive drink, consists in a falling away from the order of reason. Now it happens that, together with this falling away from reason, some lower power is perfect in reference to that which belongs to its own kind, even in direct opposition to reason, or with some falling away therefrom. But the perfection of that power, since it is compatible with a falling away from reason, cannot be called a human virtue.
 
 Reply to Objection 3: Reason is shown to be so much the more perfect, according as it is able to overcome or endure more easily the weakness of the body and of the lower powers. And therefore human virtue, which is attributed to reason, is said to be "made perfect in infirmity," not of the reason indeed, but of the body and of the lower powers.
-## Whether Virtue Is Suitably Defined?
+### Whether Virtue Is Suitably Defined?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the definition, usually given, of virtue, is not suitable, to wit: "Virtue is a good quality of the mind, by which we live righteously, of which no one can make bad use, which God works in us, without us." For virtue is man's goodness, since virtue it is that makes its subject good. But goodness does not seem to be good, as neither is whiteness white. It is therefore unsuitable to describe virtue as a "good quality."
 
@@ -102,7 +102,7 @@ Objection 5: Further, whoever is proud of a thing, makes bad use of it. But many
 
 Objection 6: Further, man is justified by virtue. But Augustine commenting on Jn. 15:11: "He shall do greater things than these," says [*Tract. xxvii in Joan.: Serm. xv de Verb. Ap. 11]: "He who created thee without thee, will not justify thee without thee." It is therefore unsuitable to say that "God works virtue in us, without us."
 
-### Answer
+**Answer**
 
 On the contrary, We have the authority of Augustine from whose words this definition is gathered, and principally in De Libero Arbitrio ii, 19.
 
@@ -114,7 +114,7 @@ The end of virtue, since it is an operative habit, is operation. But it must be 
 
 Lastly, God is the efficient cause of infused virtue, to which this definition applies; and this is expressed in the words "which God works in us without us." If we omit this phrase, the remainder of the definition will apply to all virtues in general, whether acquired or infused.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That which is first seized by the intellect is being: wherefore everything that we apprehend we consider as being, and consequently as one, and as good, which are convertible with being. Wherefore we say that essence is being and is one and is good; and that oneness is being and one and good: and in like manner goodness. But this is not the case with specific forms, as whiteness and health; for everything that we apprehend, is not apprehended with the notion of white and healthy. We must, however, observe that, as accidents and non-subsistent forms are called beings, not as if they themselves had being, but because things are by them; so also are they called good or one, not by some distinct goodness or oneness, but because by them something is good or one. So also is virtue called good, because by it something is good.
 

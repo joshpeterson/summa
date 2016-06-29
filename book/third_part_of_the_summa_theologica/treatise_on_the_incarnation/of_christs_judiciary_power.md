@@ -7,9 +7,9 @@ We have now to consider Christ's judiciary power. Under this head there are six 
 (4) Whether His judiciary power is universal with regard to all men?
 (5) Whether besides the judgment that takes place now in time, we are to expect Him in the future general judgment?
 (6) Whether His judiciary power extends likewise to the angels?  It will be more suitable to consider the execution of the Last Judgment when we treat of things pertaining to the end of the world [*See XP, QQ[88], seqq.]. For the present it will be enough to touch on those points that concern Christ's dignity.
-## Whether Judiciary Power Is To Be Specially Attributed To Christ?
+### Whether Judiciary Power Is To Be Specially Attributed To Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that judiciary power is not to be specially attributed to Christ. For judgment of others seems to belong to their lord; hence it is written (Rom. 14:4): "Who art thou that judgest another man's servant?" But, it belongs to the entire Trinity to be Lord over creatures. Therefore judiciary power ought not to be attributed specially to Christ.
 
@@ -17,7 +17,7 @@ Objection 2: Further, it is written (Dan. 7:9): "The Ancient of days sat"; and f
 
 Objection 3: Further, it seems to belong to the same person to judge as it does to convince. But it belongs to the Holy Ghost to convince: for our Lord says (Jn. 16:8): "And when He is come," i.e. the Holy Ghost, "He will convince the world of sin, and of justice, and of judgment." Therefore judiciary power ought to be attributed to the Holy Ghost rather than to Christ.
 
-### Answer
+**Answer**
 
 On the contrary, It is said of Christ (Acts 10:42): "It is He who was appointed by God, to be judge of the living end of the dead."
 
@@ -25,16 +25,16 @@ I answer that, Three things are required for passing judgment: first, the power 
 
 Now because the Son is Wisdom begotten, and Truth proceeding from the Father, and His perfect Image, consequently, judiciary power is properly attributed to the Son of God. Accordingly Augustine says (De Vera Relig. xxxi): "This is that unchangeable Truth, which is rightly styled the law of all arts, and the art of the Almighty Craftsman. But even as we and all rational souls judge aright of the things beneath us, so does He who alone is Truth itself pass judgment on us, when we cling to Him. But the Father judges Him not, for He is the Truth no less than Himself. Consequently, whatever the Father judges, He judges through It." Further on he concludes by saying: "Therefore the Father judges no man, but has given all judgment to the Son."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument proves that judiciary power is common to the entire Trinity, which is quite true: still by special appropriation such power is attributed to the Son, as stated above.
 
 Reply to Objection 2: As Augustine says (De Trin. vi), eternity is attributed to the Father, because He is the Principle, which is implied in the idea of eternity. And in the same place Augustine says that the Son is the art of the Father. So, then, judiciary authority is attributed to the Father, inasmuch as He is the Principle of the Son, but the very rule of judgment is attributed to the Son who is the art and wisdom of the Father, so that as the Father does all things through the Son, inasmuch as the Son is His art, so He judges all things through the Son, inasmuch as the Son is His wisdom and truth. And this is implied by Daniel, when he says in the first passage that "the Ancient of days sat," and when he subsequently adds that the Son of Man "came even to the Ancient of days, who gave Him power, and glory, and a kingdom": and thereby we are given to understand that the authority for judging lies with the Father, from whom the Son received the power to judge.
 
 Reply to Objection 3: As Augustine says (Tract. xcv in Joan.): "Christ said that the Holy Ghost shall convince the world of sin, as if to say 'He shall pour out charity upon your hearts.' For thus, when fear is driven away, you shall have freedom for convincing." Consequently, then, judgment is attributed to the Holy Ghost, not as regards the rule of judgment, but as regards man's desire to judge others aright.
-## Whether Judiciary Power Belongs To Christ As Man?
+### Whether Judiciary Power Belongs To Christ As Man?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that judiciary power does not belong to Christ as man. For Augustine says (De Vera Relig. xxxi) that judgment is attributed to the Son inasmuch as He is the law of the first truth. But this is Christ's attribute as God. Consequently, judiciary power does not belong to Christ as man but as God.
 
@@ -42,7 +42,7 @@ Objection 2: Further, it belongs to judiciary power to reward the good, just as 
 
 Objection 3: Further, it belongs to Christ's judiciary power to judge secrets of hearts, according to 1 Cor. 4:5: "Judge not before the time; until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts." But this belongs exclusively to the Divine power, according to Jer. 17:9,10: "The heart of man is perverse and unsearchable, who can know it? I am the Lord who search the heart, and prove the reins: who give to every one according to his way." Therefore judiciary power does not belong to Christ as man but as God.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Jn. 5:27): "He hath given Him power to do judgment, because He is the Son of man."
 
@@ -52,16 +52,16 @@ But it must be observed that although the primary authority of judging rests wit
 
 Now judiciary power belongs to Christ in this way according to His human nature on three accounts. First, because of His likeness and kinship with men; for, as God works through intermediary causes, as being closer to the effects, so He judges men through the Man Christ, that His judgment may be sweeter to men. Hence (Heb. 4:15) the Apostle says: "For we have not a high-priest, who cannot have compassion on our infirmities; but one tempted in all things like as we are, without sin. Let us go therefore with confidence to the throne of His grace." Secondly, because at the last judgment, as Augustine says (Tract. xix in Joan.), "there will be a resurrection of dead bodies, which God will raise up through the Son of Man"; just as by "the same Christ He raises souls," inasmuch as "He is the Son of God." Thirdly, because, as Augustine observes (De Verb. Dom., Serm. cxxvii): "It was but right that those who were to be judged should see their judge. But those to be judged were the good and the bad. It follows that the form of a servant should be shown in the judgment to both good and wicked, while the form of God should be kept for the good alone."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Judgment belongs to truth as its standard, while it belongs to the man imbued with truth, according as he is as it were one with truth, as a kind of law and "living justice" [*Aristotle, Ethic. v]. Hence Augustine quotes (De Verb. Dom., Serm. cxxvii) the saying of 1 Cor. 2:15: "The spiritual man judgeth all things." But beyond all creatures Christ's soul was more closely united with truth, and more full of truth; according to Jn. 1:14: "We saw Him . . . full of grace and truth." And according to this it belongs principally to the soul of Christ to judge all things.
 
 Reply to Objection 2: It belongs to God alone to bestow beatitude upon souls by a participation with Himself; but it is Christ's prerogative to bring them to such beatitude, inasmuch as He is their Head and the author of their salvation, according to Heb. 2:10: "Who had brought many children into glory, to perfect the author of their salvation by His Passion."
 
 Reply to Objection 3: To know and judge the secrets of hearts, of itself belongs to God alone; but from the overflow of the Godhead into Christ's soul it belongs to Him also to know and to judge the secrets of hearts, as we stated above ([4332]Q[10], A[2]), when dealing with the knowledge of Christ. Hence it is written (Rom. 2:16): "In the day when God shall judge the secrets of men by Jesus Christ."
-## Whether Christ Acquired His Judiciary Power By His Merits?
+### Whether Christ Acquired His Judiciary Power By His Merits?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ did not acquire His judiciary power by His merits. For judiciary power flows from the royal dignity: according to Prov. 20:8: "The king that sitteth on the throne of judgment, scattereth away all evil with his look." But it was without merits that Christ acquired royal power, for it is His due as God's Only-begotten Son: thus it is written (Lk. 1:32): "The Lord God shall give unto Him the throne of David His father, and He shall reign in the house of Jacob for ever." Therefore Christ did not obtain judiciary power by His merits.
 
@@ -69,22 +69,22 @@ Objection 2: Further, as stated above [4333](A[2]), judiciary power is Christ's 
 
 Objection 3: Further, the Apostle says (1 Cor. 2:15): "The spiritual man judgeth all things." But a man becomes spiritual through grace, which is not from merits; otherwise it is "no more grace," as is said in Rom. 11:6. Therefore it seems that judiciary power belongs neither to Christ nor to others from any merits, but from grace alone.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Job 36:17): "Thy cause hath been judged as that of the wicked, cause and judgment thou shalt recover." And Augustine says (Serm. cxxvii): "The Judge shall sit, who stood before a judge; He shall condemn the truly wicked, who Himself was falsely reputed wicked."
 
 I answer that, There is nothing to hinder one and the same thing from being due to some one from various causes: as the glory of the body in rising was due to Christ not only as befitting His Godhead and His soul's glory, but likewise "from the merit of the lowliness of His Passion" [*Cf. Augustine, Tract. civ in Joan.]. And in the same way it must be said that judiciary power belongs to the Man Christ on account of both His Divine personality, and the dignity of His headship, and the fulness of His habitual grace: and yet He obtained it from merit, so that, in accordance with the Divine justice, He should be judge who fought for God's justice, and conquered, and was unjustly condemned. Hence He Himself says (Apoc. 3:21): "I have overcome and am set down in My Father's throne [Vulg.: 'with My Father in His throne']." Now judiciary power is understood by "throne," according to Ps. 9:5: "Thou hast sat on the throne, who judgest justice."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument holds good of judiciary power according as it is due to Christ by reason of the union with the Word of God.
 
 Reply to Objection 2: This argument is based on the ground of His grace as Head.
 
 Reply to Objection 3: This argument holds good in regard to habitual grace, which perfects Christ's soul. But although judiciary power be Christ's due in these ways, it is not hindered from being His due from merit.
-## Whether Judiciary Power Belongs To Christ With Respect To All Human Affairs?
+### Whether Judiciary Power Belongs To Christ With Respect To All Human Affairs?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that judiciary power concerning all human affairs does not belong to Christ. For as we read in Lk. 12:13,14, when one of the crowd said to Christ: "Speak to my brother that he divide the inheritance with me; He said to him: Man, who hath appointed Me judge, or divider over you?" Consequently, He does not exercise judgment over all human affairs.
 
@@ -92,7 +92,7 @@ Objection 2: Further, no one exercises judgment except over his own subjects. Bu
 
 Objection 3: Further, Augustine says (De Civ. Dei xx) that it is part of Divine judgment for the good to be afflicted sometimes in this world, and sometimes to prosper, and in like manner the wicked. But the same was the case also before the Incarnation. Consequently, not all God's judgments regarding human affairs are included in Christ's judiciary power.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Jn. 5:22): "The Father hath given all judgment to the Son."
 
@@ -104,16 +104,16 @@ Secondly, the same appears from the merit of His death; because, according to Ro
 
 Thirdly, the same thing is evident from comparison of human affairs with the end of human salvation. For, to whomsoever the substance is entrusted, the accessory is likewise committed. Now all human affairs are ordered for the end of beatitude, which is everlasting salvation, to which men are admitted, or from which they are excluded by Christ's judgment, as is evident from Mat. 25:31,40. Consequently, it is manifest that all human affairs are included in Christ's judiciary power.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As was said above (A[3], OBJ[1]), judiciary power goes with royal dignity. Now Christ, although established king by God, did not wish while living on earth to govern temporarily an earthly kingdom; consequently He said (Jn. 18:36): "My kingdom is not of this world." In like fashion He did not wish to exercise judiciary power over temporal concerns, since He came to raise men to Divine things. Hence Ambrose observes on this passage in Luke: "It is well that He who came down with a Divine purpose should hold Himself aloof from temporal concerns; nor does He deign to be a judge of quarrels and an arbiter of property, since He is judge of the quick and the dead, and the arbitrator of merits."
 
 Reply to Objection 2: All things are subject to Christ in respect of that power, which He received from the Father, over all things, according to Mat. 28:18: "All power is given to Me in heaven and in earth." But as to the exercise of this power, all things are not yet subject to Him: this will come to pass in the future, when He shall fulfil His will regarding all things, by saving some and punishing others.
 
 Reply to Objection 3: Judgments of this kind were exercised by Christ before His Incarnation, inasmuch as He is the Word of God: and the soul united with Him personally became a partaker of this power by the Incarnation.
-## Whether After The Judgment That Takes Place In The Present Time, There Remains Yet Another General Judgment?
+### Whether After The Judgment That Takes Place In The Present Time, There Remains Yet Another General Judgment?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that after the Judgment that takes place in the present time, there does not remain another General Judgment. For a judgment serves no purpose after the final allotment of rewards and punishments. But rewards and punishments are allotted in this present time: for our Lord said to the thief on the cross (Lk. 23:43): "This day thou shalt be with Me in paradise": and (Lk. 16:22) it is said that "the rich man died and was buried in hell." Therefore it is useless to look forward to a final Judgment.
 
@@ -121,7 +121,7 @@ Objection 2: Further, according to another (the Septuagint) version of Nahum 1:9
 
 Objection 3: Further, reward and punishment correspond with merit and demerit. But merit and demerit bear relation to the body only in so far as it is the instrument of the soul. Therefore reward or punishment is not due to the body save as the soul's instrument. Therefore no other Judgment is called for at the end (of the world) to requite man with reward or punishment in the body, besides that Judgment in which souls are now punished or rewarded.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in Jn. 12:48: "The word that I have spoken, the same shall judge you [Vulg.: 'him'] in the last day." Therefore there will be a Judgment at the last day besides that which takes place in the present time.
 
@@ -131,16 +131,16 @@ But it must be observed that although man's temporal life in itself ends with de
 
 Now all these things are submitted to the verdict of the Divine Judgment; and consequently, a perfect and public Judgment cannot be made of all these things during the course of this present time. Wherefore, there must be a final Judgment at the last day, in which everything concerning every man in every respect shall be perfectly and publicly judged.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Some men have held the opinion that the souls of the saints shall not be rewarded in heaven, nor the souls of the lost punished in hell, until the Judgment-day. That this is false appears from the testimony of the Apostle (2 Cor. 5:8), where he says: "We are confident and have a good will to be absent rather from the body, and to be present with the Lord": that is, not to "walk by faith" but "by sight," as appears from the context. But this is to see God in His Essence, wherein consists "eternal life," as is clear from Jn. 17:3. Hence it is manifest that the souls separated from bodies are in eternal life.
 
 Reply to Objection 2: "God shall not judge twice the same thing," i.e. in the same respect; but it is not unseemly for God to judge twice according to different respects.
 
 Reply to Objection 3: Although the reward or punishment of the body depends upon the reward or punishment of the soul, nevertheless, since the soul is changeable only accidentally, on account of the body, once it is separated from the body it enters into an unchangeable condition, and receives its judgment. But the body remains subject to change down to the close of time: and therefore it must receive its reward or punishment then, in the last Judgment.
-## Whether Christ's Judiciary Power Extends To The Angels?
+### Whether Christ's Judiciary Power Extends To The Angels?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ's judiciary power does not extend to the angels, because the good and wicked angels alike were judged in the beginning of the world, when some fell through sin while others were confirmed in bliss. But those already judged have no need of being judged again. Therefore Christ's judiciary power does not extend to the angels.
 
@@ -148,13 +148,13 @@ Objection 2: Further, the same person cannot be both judge and judged. But the a
 
 Objection 3: Further, the angels are higher than other creatures. If Christ, then, be judge not only of men but likewise of angels, then for the same reason He will be judge of all creatures; which seems to be false, since this belongs to God's providence: hence it is written (Job 34:13): "What other hath He appointed over the earth? or whom hath He set over the world which He made?" Therefore Christ is not the judge of the angels.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 6:3): "Know you not that we shall judge angels?" But the saints judge only by Christ's authority. Therefore, much more does Christ possess judiciary power over the angels.
 
 I answer that, The angels are subjects of Christ's judiciary power, not only with regard to His Divine Nature, as He is the Word of God, but also with regard to His human nature. And this is evident from three considerations. First of all, from the closeness of His assumed nature to God; because, according to Heb. 2:16: "For nowhere doth He take hold of the angels, but of the seed of Abraham He taketh hold." Consequently, Christ's soul is more filled with the truth of the Word of God than any angel: for which reason He also enlightens the angels, as Dionysius says (Coel. Hier. vii), and so He has power to judge them. Secondly, because by the lowliness of His Passion, human nature in Christ merited to be exalted above the angels; so that, as is said in Phil. 2:10: "In the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth." And therefore Christ has judiciary power even over the good and wicked angels: in token whereof it is said in the Apocalypse (7:11) that "all the angels stood round about the throne." Thirdly, on account of what they do for men, of whom Christ is the Head in a special manner. Hence it is written (Heb. 1:14): "They are [Vulg.: 'Are they not'] all ministering spirits, sent to minister for them, who shall receive the inheritance of salvation (?)." But they are submitted to Christ's judgment, first, as regards the dispensing of those things which are done through them; which dispensing is likewise done by the Man Christ, to whom the angels ministered, as related (Mat. 4:11), and from whom the devils besought that they might be sent into the swine, according to Mat. 8:31. Secondly, as to other accidental rewards of the good angels, such as the joy which they have at the salvation of men, according to Lk. 15:10: "There shall be joy before the angels of God upon one sinner doing penance": and furthermore as to the accidental punishments of the devils wherewith they are either tormented here, or are shut up in hell; and this also belongs to the Man Christ: hence it is written (Mk. 1:24) that the devil cried out: "What have we to do with thee, Jesus of Nazareth? art Thou come to destroy us?" Thirdly, as to the essential reward of the good angels, which is everlasting bliss; and as to the essential punishment of the wicked angels, which is everlasting damnation. But this was done by Christ from the beginning of the world, inasmuch as He is the Word of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument considers judgment as to the essential reward and chief punishment.
 

@@ -3,9 +3,9 @@
 We now consider the propagation of man, as to the body. Concerning this there are two points of inquiry:
 (1) Whether any part of the food is changed into true human nature?
 (2) Whether the semen, which is the principle of human generation, is produced from the surplus food?
-## Whether Some Part Of The Food Is Changed Into True Human Nature?
+### Whether Some Part Of The Food Is Changed Into True Human Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that none of the food is changed into true human nature. For it is written (Mat. 15:17): "Whatsoever entereth into the mouth, goeth into the belly, and is cast out into the privy." But what is cast out is not changed into the reality of human nature. Therefore none of the food is changed into true human nature.
 
@@ -17,7 +17,7 @@ Objection 4: Further, if the food were changed into true human nature, whatever 
 
 Objection 5: Further, if the food is changed into true human nature, there is nothing in man which may not recede or be repaired: for what is generated in a man from his food can both recede and be repaired. If therefore a man lived long enough, it would follow that in the end nothing would be left in him of what belonged to him at the beginning. Consequently he would not be numerically the same man throughout his life; since for the thing to be numerically the same, identity of matter is necessary. But this is incongruous. Therefore the food is not changed into true human nature.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Vera Relig. xi): "The bodily food when corrupted, that is, having lost its form, is changed into the texture of the members." But the texture of the members belongs to true human nature. Therefore the food is changed into the reality of human nature.
 
@@ -33,7 +33,7 @@ Wherefore others have said that the human form can indeed begin to exist in some
 
 Therefore, according to others, it must be said that the food is really changed into the true human nature by reason of its assuming the specific form of flesh, bones and such like parts. This is what the Philosopher says (De Anima ii, 4): "Food nourishes inasmuch as it is potentially flesh."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord does not say that the "whole" of what enters into the mouth, but "all"---because something from every kind of food is cast out into the privy. It may also be said that whatever is generated from food, can be dissolved by natural heat, and be cast aside through the pores, as Jerome expounds the passage.
 
@@ -44,9 +44,9 @@ Reply to Objection 3: The "radical humor" is said to comprise whatever the virtu
 Reply to Objection 4: Every virtue of a passible body is weakened by continuous action, because such agents are also patient. Therefore the transforming virtue is strong at first so as to be able to transform not only enough for the renewal of what is lost, but also for growth. Later on it can only transform enough for the renewal of what is lost, and then growth ceases. At last it cannot even do this; and then begins decline. In fine, when this virtue fails altogether, the animal dies. Thus the virtue of wine that transforms the water added to it, is weakened by further additions of water, so as to become at length watery, as the Philosopher says by way of example (De Gener. i, 5).
 
 Reply to Objection 5: As the Philosopher says (De Gener. i, 5), when a certain matter is directly transformed into fire, then fire is said to be generated anew: but when matter is transformed into a fire already existing, then fire is said to be fed. Wherefore if the entire matter together loses the form of fire, and another matter transformed into fire, there will be another distinct fire. But if, while one piece of wood is burning, other wood is laid on, and so on until the first piece is entirely consumed, the same identical fire will remain all the time: because that which is added passes into what pre-existed. It is the same with living bodies, in which by means of nourishment that is renewed which was consumed by natural heat.
-## Whether The Semen Is Produced From Surplus Food?
+### Whether The Semen Is Produced From Surplus Food?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the semen is not produced from the surplus food, but from the substance of the begetter. For Damascene says (De Fide Orth. i, 8) that "generation is a work of nature, producing, from the substance of the begetter, that which is begotten." But that which is generated is produced from the semen. Therefore the semen is produced from the substance of the begetter.
 
@@ -56,7 +56,7 @@ Objection 3: Further, the food of the generator is sometimes the flesh of cows, 
 
 Objection 4: Further, Augustine says (Gen. ad lit. x, 20) that we were in Adam "not only by seminal virtue, but also in the very substance of the body." But this would not be, if the semen were produced from surplus food. Therefore the semen is not produced therefrom.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher proves in many ways (De Gener. Animal. i, 18) that "the semen is surplus food."
 
@@ -66,7 +66,7 @@ Now it is not possible that the semen be a kind of solution from what is already
 
 It remains to be said, therefore, that the semen is not something separated from what was before the actual whole; rather is it the whole, though potentially, having the power, derived from the soul of the begetter, to produce the whole body, as stated above [989](A[1]; [990]Q[108], A[1] ). Now that which is in potentiality to the whole, is that which is generated from the food, before it is transformed into the substance of the members. Therefore the semen is taken from this. In this sense the nutritive power is said to serve the generative power: because what is transformed by the nutritive power is employed as semen by the generative power. A sign of this, according to the Philosopher, is that animals of great size, which require much food, have little semen in proportion to the size of their bodies, and generated seldom; in like manner fat men, and for the same reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Generation is from the substance of the begetter in animals and plants, inasmuch as the semen owes its virtue to the form of the begetter, and inasmuch as it is in potentiality to the substance.
 

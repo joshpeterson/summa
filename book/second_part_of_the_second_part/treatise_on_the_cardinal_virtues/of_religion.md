@@ -9,9 +9,9 @@ We must now consider each of the foregoing virtues, in so far as our present sco
 (6) Whether religion should be preferred to the other moral virtues?
 (7) Whether religion has any external actions?
 (8) Whether religion is the same as holiness?
-## Whether Religion Directs Man To God Alone?
+### Whether Religion Directs Man To God Alone?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion does not direct man to God alone. It is written (James 1:27): "Religion clean and undefiled before God and the Father is this, to visit the fatherless and widows in their tribulation, and to keep oneself unspotted from this world." Now "to visit the fatherless and widows" indicates an order between oneself and one's neighbor, and "to keep oneself unspotted from this world" belongs to the order of a man within himself. Therefore religion does not imply order to God alone.
 
@@ -23,13 +23,13 @@ Objection 4: Further, worship belongs to religion. Now man is said to worship no
 
 Objection 5: Further, all those who are in the state of grace are subject to God. Yet not all who are in a state of grace are called religious, but only those who bind themselves by certain vows and observances, and to obedience to certain men. Therefore religion seemingly does not denote a relation of subjection of man to God.
 
-### Answer
+**Answer**
 
 On the contrary, Tully says (Rhet. ii, 53) that "religion consists in offering service and ceremonial rites to a superior nature that men call divine."
 
 I answer that, as Isidore says (Etym. x), "according to Cicero, a man is said to be religious from 'religio,' because he often ponders over, and, as it were, reads again [relegit], the things which pertain to the worship of God," so that religion would seem to take its name from reading over those things which belong to Divine worship because we ought frequently to ponder over such things in our hearts, according to Prov. 3:6, "In all thy ways think on Him." According to Augustine (De Civ. Dei x, 3) it may also take its name from the fact that "we ought to seek God again, whom we had lost by our neglect" [*St. Augustine plays on the words 'reeligere,' i.e. to choose over again, and 'negligere,' to neglect or despise.]. Or again, religion may be derived from "religare" [to bind together], wherefore Augustine says (De Vera Relig. 55): "May religion bind us to the one Almighty God." However, whether religion take its name from frequent reading, or from a repeated choice of what has been lost through negligence, or from being a bond, it denotes properly a relation to God. For it is He to Whom we ought to be bound as to our unfailing principle; to Whom also our choice should be resolutely directed as to our last end; and Whom we lose when we neglect Him by sin, and should recover by believing in Him and confessing our faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Religion has two kinds of acts. Some are its proper and immediate acts, which it elicits, and by which man is directed to God alone, for instance, sacrifice, adoration and the like. But it has other acts, which it produces through the medium of the virtues which it commands, directing them to the honor of God, because the virtue which is concerned with the end, commands the virtues which are concerned with the means. Accordingly "to visit the fatherless and widows in their tribulation" is an act of religion as commanding, and an act of mercy as eliciting; and "to keep oneself unspotted from this world" is an act of religion as commanding, but of temperance or of some similar virtue as eliciting.
 
@@ -40,9 +40,9 @@ Reply to Objection 3: Since servant implies relation to a lord, wherever there i
 Reply to Objection 4: We are said to worship those whom we honor, and to cultivate [*In the Latin the same word 'colere' stands for 'worship' and 'cultivate']: a man's memory or presence: we even speak of cultivating things that are beneath us, thus a farmer [agricola] is one who cultivates the land, and an inhabitant [incola] is one who cultivates the place where he dwells. Since, however, special honor is due to God as the first principle of all things, to Him also is due a special kind of worship, which in Greek is {Eusebeia} or {Theosebeia}, as Augustine states (De Civ. Dei x, 1).
 
 Reply to Objection 5: Although the name "religious" may be given to all in general who worship God, yet in a special way religious are those who consecrate their whole life to the Divine worship, by withdrawing from human affairs. Thus also the term "contemplative" is applied, not to those who contemplate, but to those who give up their whole lives to contemplation. Such men subject themselves to man, not for man's sake but for God's sake, according to the word of the Apostle (Gal. 4:14), "You . . . received me as an angel of God, even as Christ Jesus."
-## Whether Religion Is A Virtue?
+### Whether Religion Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion is not a virtue. Seemingly it belongs to religion to pay reverence to God. But reverence is an act of fear which is a gift, as stated above ([2986]Q[19], A[9]). Therefore religion is not a virtue but a gift
 
@@ -50,22 +50,22 @@ Objection 2: Further, every virtue is a free exercise of the will, wherefore it 
 
 Objection 3: Further, according to Ethic. ii, 1, aptitude for virtue is in us by nature, wherefore things pertaining to virtue belong to the dictate of natural reason. Now, it belongs to religion "to offer ceremonial worship to the Godhead" [*Cf. A[1]], and ceremonial matters, as stated above ([2987]FS, Q[99], A[3], ad 2; [2988]FS, Q[101]) , do not belong to the dictate of natural reason. Therefore religion is not a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, It is enumerated with the other virtues, as appears from what has been said above ([2989]Q[80]).
 
 I answer that, As stated above (Q[58], A[3]; [2990]FS, Q[55], AA[3],4) "a virtue is that which makes its possessor good, and his act good likewise," wherefore we must needs say that every good act belongs to a virtue. Now it is evident that to render anyone his due has the aspect of good, since by rendering a person his due, one becomes suitably proportioned to him, through being ordered to him in a becoming manner. But order comes under the aspect of good, just as mode and species, according to Augustine (De Nat. Boni iii). Since then it belongs to religion to pay due honor to someone, namely, to God, it is evident that religion is a virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To pay reverence to God is an act of the gift of fear. Now it belongs to religion to do certain things through reverence for God. Hence it follows, not that religion is the same as the gift of fear, but that it is referred thereto as to something more excellent; for the gifts are more excellent than the moral virtues, as stated above (Q[9], A[1], ad 3; [2991]FS, Q[68], A[8]).
 
 Reply to Objection 2: Even a slave can voluntarily do his duty by his master, and so "he makes a virtue of necessity" [*Jerome, Ep. liv, ad Furiam.], by doing his duty voluntarily. In like manner, to render due service to God may be an act of virtue, in so far as man does so voluntarily.
 
 Reply to Objection 3: It belongs to the dictate of natural reason that man should do something through reverence for God. But that he should do this or that determinate thing does not belong to the dictate of natural reason, but is established by Divine or human law.
-## Whether Religion Is One Virtue?
+### Whether Religion Is One Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion is not one virtue. Religion directs us to God, as stated above [2992](A[1]). Now in God there are three Persons; and also many attributes, which differ at least logically from one another. Now a logical difference in the object suffices for a difference of virtue, as stated above (Q[50], A[2], ad 2). Therefore religion is not one virtue.
 
@@ -73,22 +73,22 @@ Objection 2: Further, of one virtue there is seemingly one act, since habits are
 
 Objection 3: Further, adoration belongs to religion. Now adoration is paid to images under one aspect, and under another aspect to God Himself. Since, then, a difference of aspect distinguishes virtues, it would seem that religion is not one virtue.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Eph. 4:5): "One God [Vulg.: 'Lord'], one faith." Now true religion professes faith in one God. Therefore religion is one virtue.
 
 I answer that, As stated above ([2993]FS, Q[54], A[2], ad 1), habits are differentiated according to a different aspect of the object. Now it belongs to religion to show reverence to one God under one aspect, namely, as the first principle of the creation and government of things. Wherefore He Himself says (Malach. 1:6): "If . . . I be a father, where is My honor?" For it belongs to a father to beget and to govern. Therefore it is evident that religion is one virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The three Divine Persons are the one principle of the creation and government of things, wherefore they are served by one religion. The different aspects of the attributes concur under the aspect of first principle, because God produces all things, and governs them by the wisdom, will and power of His goodness. Wherefore religion is one virtue.
 
 Reply to Objection 2: By the one same act man both serves and worships God, for worship regards the excellence of God, to Whom reverence is due: while service regards the subjection of man who, by his condition, is under an obligation of showing reverence to God. To these two belong all acts ascribed to religion, because, by them all, man bears witness to the Divine excellence and to his own subjection to God, either by offering something to God, or by assuming something Divine.
 
 Reply to Objection 3: The worship of religion is paid to images, not as considered in themselves, nor as things, but as images leading us to God incarnate. Now movement to an image as image does not stop at the image, but goes on to the thing it represents. Hence neither "latria" nor the virtue of religion is differentiated by the fact that religious worship is paid to the images of Christ.
-## Whether Religion Is A Special Virtue, Distinct From The Others?
+### Whether Religion Is A Special Virtue, Distinct From The Others?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion is not a special virtue distinct from the others. Augustine says (De Civ. Dei x, 6): "Any action whereby we are united to God in holy fellowship, is a true sacrifice." But sacrifice belongs to religion. Therefore every virtuous deed belongs to religion; and consequently religion is not a special virtue.
 
@@ -96,22 +96,22 @@ Objection 2: Further, the Apostle says (1 Cor. 10:31): "Do all to the glory of G
 
 Objection 3: Further, the charity whereby we love God is not distinct from the charity whereby we love our neighbor. But according to Ethic. viii, 8 "to be honored is almost to be loved." Therefore the religion whereby we honor God is not a special virtue distinct from observance, or "dulia," or piety whereby we honor our neighbor. Therefore religion is not a special virtue.
 
-### Answer
+**Answer**
 
 On the contrary, It is reckoned a part of justice, distinct from the other parts.
 
 I answer that, Since virtue is directed to the good, wherever there is a special aspect of good, there must be a special virtue. Now the good to which religion is directed, is to give due honor to God. Again, honor is due to someone under the aspect of excellence: and to God a singular excellence is competent, since He infinitely surpasses all things and exceeds them in every way. Wherefore to Him is special honor due: even as in human affairs we see that different honor is due to different personal excellences, one kind of honor to a father, another to the king, and so on. Hence it is evident that religion is a special virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Every virtuous deed is said to be a sacrifice, in so far as it is done out of reverence of God. Hence this does not prove that religion is a general virtue, but that it commands all other virtues, as stated above (A[1], ad 1).
 
 Reply to Objection 2: Every deed, in so far as it is done in God's honor, belongs to religion, not as eliciting but as commanding: those belong to religion as eliciting which pertain to the reverence of God by reason of their specific character.
 
 Reply to Objection 3: The object of love is the good, but the object of honor and reverence is something excellent. Now God's goodness is communicated to the creature, but the excellence of His goodness is not. Hence the charity whereby God is loved is not distinct from the charity whereby our neighbor is loved; whereas the religion whereby God is honored, is distinct from the virtues whereby we honor our neighbor.
-## Whether Religion Is A Theological Virtue?
+### Whether Religion Is A Theological Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion is a theological virtue. Augustine says (Enchiridion iii) that "God is worshiped by faith, hope and charity," which are theological virtues. Now it belongs to religion to pay worship to God. Therefore religion is a theological virtue.
 
@@ -119,7 +119,7 @@ Objection 2: Further, a theological virtue is one that has God for its object. N
 
 Objection 3: Further, every virtue is either theological, or intellectual, or moral, as is clear from what has been said (FS, QQ[57],58,62). Now it is evident that religion is not an intellectual virtue, because its perfection does not depend on the consideration of truth: nor is it a moral virtue, which consists properly in observing the mean between too much and too little. for one cannot worship God too much, according to Ecclus. 43:33, "Blessing the Lord, exalt Him as much as you can; for He is above all praise." Therefore it remains that it is a theological virtue.
 
-### Answer
+**Answer**
 
 On the contrary, It is reckoned a part of justice which is a moral virtue.
 
@@ -127,16 +127,16 @@ I answer that, As stated above [2995](A[4]) religion pays due worship to God. He
 
 Now due worship is paid to God, in so far as certain acts whereby God is worshiped, such as the offering of sacrifices and so forth, are done out of reverence for God. Hence it is evident that God is related to religion not as matter or object, but as end: and consequently religion is not a theological virtue whose object is the last end, but a moral virtue which is properly about things referred to the end.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The power or virtue whose action deals with an end, moves by its command the power or virtue whose action deals with matters directed to that end. Now the theological virtues, faith, hope and charity have an act in reference to God as their proper object: wherefore, by their command, they cause the act of religion, which performs certain deeds directed to God: and so Augustine says that God is worshiped by faith, hope and charity.
 
 Reply to Objection 2: Religion directs man to God not as its object but as its end.
 
 Reply to Objection 3: Religion is neither a theological nor an intellectual, but a moral virtue, since it is a part of justice, and observes a mean, not in the passions, but in actions directed to God, by establishing a kind of equality in them. And when I say "equality," I do not mean absolute equality, because it is not possible to pay God as much as we owe Him, but equality in consideration of man's ability and God's acceptance.
-## Whether Religion Should Be Preferred To The Other Moral Virtues?
+### Whether Religion Should Be Preferred To The Other Moral Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion should not be preferred to the other moral virtues. The perfection of a moral virtue consists in its observing the mean, as stated in Ethic. ii, 6. But religion fails to observe the mean of justice, since it does not render an absolute equal to God. Therefore religion is not more excellent than the other moral virtues.
 
@@ -144,22 +144,22 @@ Objection 2: Further, what is offered by one man to another is the more praisewo
 
 Objection 3: Further, the greater. the obligation to do a thing, the less praise does it deserve, according to 1 Cor. 9:16, "If I preach the Gospel, it is no glory to me: a necessity lieth upon me." Now the more a thing is due, the greater the obligation of paying it. Since, then, what is paid to God by man is in the highest degree due to Him, it would seem that religion is less praiseworthy than the other human virtues.
 
-### Answer
+**Answer**
 
 On the contrary, The precepts pertaining to religion are given precedence (Ex. 20) as being of greatest importance. Now the order of precepts is proportionate to the order of virtues, since the precepts of the Law prescribe acts of virtue. Therefore religion is the chief of the moral virtues.
 
 I answer that, Whatever is directed to an end takes its goodness from being ordered to that end; so that the nearer it is to the end the better it is. Now moral virtues, as stated above [2996](A[5]; Q[4], A[7]), are about matters that are ordered to God as their end. And religion approaches nearer to God than the other moral virtues, in so far as its actions are directly and immediately ordered to the honor of God. Hence religion excels among the moral virtues.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Virtue is praised because of the will, not because of the ability: and therefore if a man fall short of equality which is the mean of justice, through lack of ability, his virtue deserves no less praise, provided there be no failing on the part of his will.
 
 Reply to Objection 2: In offering a thing to a man on account of its usefulness to him, the more needy the man the more praiseworthy the offering, because it is more useful: whereas we offer a thing to God not on account of its usefulness to Him, but for the sake of His glory, and on account of its usefulness to us.
 
 Reply to Objection 3: Where there is an obligation to do a thing it loses the luster of supererogation, but not the merit of virtue, provided it be done voluntarily. Hence the argument proves nothing.
-## Whether Religion Has An External Act?
+### Whether Religion Has An External Act?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion has not an external act. It is written (Jn. 4:24): "God is a spirit, and they that adore Him, must adore Him in spirit and in truth." Now external acts pertain, not to the spirit but to the body. Therefore religion, to which adoration belongs, has acts that are not external but internal.
 
@@ -167,22 +167,22 @@ Objection 2: Further, the end of religion is to pay God reverence and honor. Now
 
 Objection 3: Further, Augustine (De Civ. Dei vi, 10) commends Seneca for finding fault with those who offered to idols those things that are wont to be offered to men, because, to wit, that which befits mortals is unbecoming to immortals. But such things are much less becoming to the true God, Who is "exalted above all gods" [*Ps. 94:3]. Therefore it would seem wrong to worship God with bodily actions. Therefore religion has no bodily actions.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 83:3): "My heart and my flesh have rejoiced in the living God." Now just as internal actions belong to the heart, so do external actions belong to the members of the flesh. Therefore it seems that God ought to be worshiped not only by internal but also by external actions.
 
 I answer that, We pay God honor and reverence, not for His sake (because He is of Himself full of glory to which no creature can add anything), but for our own sake, because by the very fact that we revere and honor God, our mind is subjected to Him; wherein its perfection consists, since a thing is perfected by being subjected to its superior, for instance the body is perfected by being quickened by the soul, and the air by being enlightened by the sun. Now the human mind, in order to be united to God, needs to be guided by the sensible world, since "invisible things . . . are clearly seen, being understood by the things that are made," as the Apostle says (Rom. 1:20). Wherefore in the Divine worship it is necessary to make use of corporeal things, that man's mind may be aroused thereby, as by signs, to the spiritual acts by means of which he is united to God. Therefore the internal acts of religion take precedence of the others and belong to religion essentially, while its external acts are secondary, and subordinate to the internal acts.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord is speaking of that which is most important and directly intended in the worship of God.
 
 Reply to Objection 2: These external things are offered to God, not as though He stood in need of them, according to Ps. 49:13, "Shall I eat the flesh of bullocks? or shall I drink the blood of goats?" but as signs of the internal and spiritual works, which are of themselves acceptable to God. Hence Augustine says (De Civ. Dei x, 5): "The visible sacrifice is the sacrament or sacred sign of the invisible sacrifice."
 
 Reply to Objection 3: Idolaters are ridiculed for offering to idols things pertaining to men, not as signs arousing them to certain spiritual things, but as though they were of themselves acceptable to the idols; and still more because they were foolish and wicked.
-## Whether Religion Is The Same As Sanctity?
+### Whether Religion Is The Same As Sanctity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion is not the same as sanctity. Religion is a special virtue, as stated above [2997](A[4]): whereas sanctity is a general virtue, because it makes us faithful, and fulfil our just obligations to God, according to Andronicus [*De Affectibus]. Therefore sanctity is not the same as religion.
 
@@ -190,7 +190,7 @@ Objection 2: Further, sanctity seems to denote a kind of purity. For Dionysius s
 
 Objection 3: Further, things that are opposite members of a division are not identified with one another. But in an enumeration given above (Q[80], ad 4) of the parts of justice, sanctity is reckoned as distinct from religion. Therefore sanctity is not the same as religion.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 1:74,75): "That . . . we may serve Him . . . in holiness and justice." Now, "to serve God" belongs to religion, as stated above (A[1], ad 3; A[3], ad 2). Therefore religion is the same as sanctity.
 
@@ -198,7 +198,7 @@ I answer that, The word "sanctity" seems to have two significations. In one way 
 
 Accordingly, it is by sanctity that the human mind applies itself and its acts to God: so that it differs from religion not essentially but only logically. For it takes the name of religion according as it gives God due service in matters pertaining specially to the Divine worship, such as sacrifices, oblations, and so forth; while it is called sanctity, according as man refers to God not only these but also the works of the other virtues, or according as man by means of certain good works disposes himself to the worship of God
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Sanctity is a special virtue according to its essence; and in this respect it is in a way identified with religion. But it has a certain generality, in so far as by its command it directs the acts of all the virtues to the Divine good, even as legal justice is said to be a general virtue, in so far as it directs the acts of all the virtues to the common good.
 

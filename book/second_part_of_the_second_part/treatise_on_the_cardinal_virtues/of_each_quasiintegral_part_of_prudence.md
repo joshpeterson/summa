@@ -9,9 +9,9 @@ We must now consider each quasi-integral part of prudence, and under this head t
 (6) Foresight;
 (7) Circumspection;
 (8) Caution.
-## Whether Memory Is A Part Of Prudence?
+### Whether Memory Is A Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that memory is not a part of prudence. For memory, as the Philosopher proves (De Memor. et Remin. i), is in the sensitive part of the soul: whereas prudence is in the rational part (Ethic. vi, 5). Therefore memory is not a part of prudence.
 
@@ -19,22 +19,22 @@ Objection 2: Further, prudence is acquired and perfected by experience, whereas 
 
 Objection 3: Further, memory regards the past, whereas prudence regards future matters of action, about which counsel is concerned, as stated in Ethic. vi, 2,7. Therefore memory is not a part of prudence.
 
-### Answer
+**Answer**
 
 On the contrary, Tully (De Invent. Rhet. ii, 53) places memory among the parts of prudence.
 
 I answer that, Prudence regards contingent matters of action, as stated above ([2769]Q[47], A[5]). Now in such like matters a man can be directed, not by those things that are simply and necessarily true, but by those which occur in the majority of cases: because principles must be proportionate to their conclusions, and "like must be concluded from like" (Ethic. vi [*Anal. Post. i. 32]). But we need experience to discover what is true in the majority of cases: wherefore the Philosopher says (Ethic. ii, 1) that "intellectual virtue is engendered and fostered by experience and time." Now experience is the result of many memories as stated in Metaph. i, 1, and therefore prudence requires the memory of many things. Hence memory is fittingly accounted a part of prudence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([2770]Q[47], AA[3],6), prudence applies universal knowledge to particulars which are objects of sense: hence many things belonging to the sensitive faculties are requisite for prudence, and memory is one of them.
 
 Reply to Objection 2: Just as aptitude for prudence is in our nature, while its perfection comes through practice or grace, so too, as Tully says in his Rhetoric [*Ad Herenn. de Arte Rhet. iii, 16,24], memory not only arises from nature, but is also aided by art and diligence.
 
 Reply to Objection 3: It behooves us to argue, as it were, about the future from the past; wherefore memory of the past is necessary in order to take good counsel for the future.
-## Whether Understanding Is A Part Of Prudence?
+### Whether Understanding Is A Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that understanding is not a part of prudence. When two things are members of a division, one is not part of the other. But intellectual virtue is divided into understanding and prudence, according to Ethic. vi, 3. Therefore understanding should not be reckoned a part of prudence.
 
@@ -42,22 +42,22 @@ Objection 2: Further, understanding is numbered among the gifts of the Holy Ghos
 
 Objection 3: Further, prudence is about singular matters of action (Ethic. vi, 7): whereas understanding takes cognizance of universal and immaterial objects (De Anima iii, 4). Therefore understanding is not a part of prudence.
 
-### Answer
+**Answer**
 
 On the contrary, Tully [*De Invent. Rhet. ii, 53] accounts "intelligence" a part of prudence, and Macrobius [*In Somn. Scip. i, 8] mentions "understanding," which comes to the same.
 
 I answer that, Understanding denotes here, not the intellectual power, but the right estimate about some final principle, which is taken as self-evident: thus we are said to understand the first principles of demonstrations. Now every deduction of reason proceeds from certain statements which are taken as primary: wherefore every process of reasoning must needs proceed from some understanding. Therefore since prudence is right reason applied to action, the whole process of prudence must needs have its source in understanding. Hence it is that understanding is reckoned a part of prudence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The reasoning of prudence terminates, as in a conclusion, in the particular matter of action, to which, as stated above ([2772]Q[47], AA[3],6), it applies the knowledge of some universal principle. Now a singular conclusion is argued from a universal and a singular proposition. Wherefore the reasoning of prudence must proceed from a twofold understanding. The one is cognizant of universals, and this belongs to the understanding which is an intellectual virtue, whereby we know naturally not only speculative principles, but also practical universal principles, such as "One should do evil to no man," as shown above ([2773]Q[47], A[6]). The other understanding, as stated in Ethic. vi, 11, is cognizant of an extreme, i.e. of some primary singular and contingent practical matter, viz. the minor premiss, which must needs be singular in the syllogism of prudence, as stated above ([2774]Q[47], AA[3],6). Now this primary singular is some singular end, as stated in the same place. Wherefore the understanding which is a part of prudence is a right estimate of some particular end.
 
 Reply to Objection 2: The understanding which is a gift of the Holy Ghost, is a quick insight into divine things, as shown above ([2775]Q[8], AA[1],2). It is in another sense that it is accounted a part of prudence, as stated above.
 
 Reply to Objection 3: The right estimate about a particular end is called both "understanding," in so far as its object is a principle, and "sense," in so far as its object is a particular. This is what the Philosopher means when he says (Ethic. v, 11): "Of such things we need to have the sense, and this is understanding." But this is to be understood as referring, not to the particular sense whereby we know proper sensibles, but to the interior sense, whereby we judge of a particular.
-## Whether Docility Should Be Accounted A Part Of Prudence?
+### Whether Docility Should Be Accounted A Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that docility should not be accounted a part of prudence. For that which is a necessary condition of every intellectual virtue, should not be appropriated to one of them. But docility is requisite for every intellectual virtue. Therefore it should not be accounted a part of prudence.
 
@@ -65,22 +65,22 @@ Objection 2: Further, that which pertains to a human virtue is in our power, sin
 
 Objection 3: Further, docility is in the disciple: whereas prudence, since it makes precepts, seems rather to belong to teachers, who are also called "preceptors." Therefore docility is not a part of prudence.
 
-### Answer
+**Answer**
 
 On the contrary, Macrobius [*In Somn. Scip. i, 8] following the opinion of Plotinus places docility among the parts of prudence.
 
 I answer that, As stated above (A[2], ad 1;[2776] Q[47], A[3]) prudence is concerned with particular matters of action, and since such matters are of infinite variety, no one man can consider them all sufficiently; nor can this be done quickly, for it requires length of time. Hence in matters of prudence man stands in very great need of being taught by others, especially by old folk who have acquired a sane understanding of the ends in practical matters. Wherefore the Philosopher says (Ethic. vi, 11): "It is right to pay no less attention to the undemonstrated assertions and opinions of such persons as are experienced, older than we are, and prudent, than to their demonstrations, for their experience gives them an insight into principles." Thus it is written (Prov. 3:5): "Lean not on thy own prudence," and (Ecclus. 6:35): "Stand in the multitude of the ancients" (i.e. the old men), "that are wise, and join thyself from thy heart to their wisdom." Now it is a mark of docility to be ready to be taught: and consequently docility is fittingly reckoned a part of prudence
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although docility is useful for every intellectual virtue, yet it belongs to prudence chiefly, for the reason given above.
 
 Reply to Objection 2: Man has a natural aptitude for docility even as for other things connected with prudence. Yet his own efforts count for much towards the attainment of perfect docility: and he must carefully, frequently and reverently apply his mind to the teachings of the learned, neither neglecting them through laziness, nor despising them through pride.
 
 Reply to Objection 3: By prudence man makes precepts not only for others, but also for himself, as stated above ([2777]Q[47], A[12], ad 3). Hence as stated (Ethic. vi, 11), even in subjects, there is place for prudence; to which docility pertains. And yet even the learned should be docile in some respects, since no man is altogether self-sufficient in matters of prudence, as stated above.
-## Whether Shrewdness Is Part Of Prudence?
+### Whether Shrewdness Is Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that shrewdness is not a part of prudence. For shrewdness consists in easily finding the middle term for demonstrations, as stated in Poster. i, 34. Now the reasoning of prudence is not a demonstration since it deals with contingencies. Therefore shrewdness does not pertain to prudence.
 
@@ -88,22 +88,22 @@ Objection 2: Further, good counsel pertains to prudence according to Ethic. vi, 
 
 Objection 3: Further, shrewdness as stated above ([2778]Q[48]) is a "happy conjecture." Now it belongs to rhetoricians to make use of conjectures. Therefore shrewdness belongs to rhetoric rather than to prudence.
 
-### Answer
+**Answer**
 
 On the contrary, Isidore says (Etym. x): "A solicitous man is one who is shrewd and alert [solers citus]." But solicitude belongs to prudence, as stated above ([2779]Q[47], A[9]). Therefore shrewdness does also.
 
 I answer that, Prudence consists in a right estimate about matters of action. Now a right estimate or opinion is acquired in two ways, both in practical and in speculative matters, first by discovering it oneself, secondly by learning it from others. Now just as docility consists in a man being well disposed to acquire a right opinion from another man, so shrewdness is an apt disposition to acquire a right estimate by oneself, yet so that shrewdness be taken for {eustochia}, of which it is a part. For {eustochia} is a happy conjecture about any matter, while shrewdness is "an easy and rapid conjecture in finding the middle term" (Poster. i, 34). Nevertheless the philosopher [*Andronicus; Cf. Q[48], OBJ[1]] who calls shrewdness a part of prudence, takes it for {eustochia}, in general, hence he says: "Shrewdness is a habit whereby congruities are discovered rapidly."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Shrewdness is concerned with the discovery of the middle term not only in demonstrative, but also in practical syllogisms, as, for instance, when two men are seen to be friends they are reckoned to be enemies of a third one, as the Philosopher says (Poster. i, 34). In this way shrewdness belongs to prudence.
 
 Reply to Objection 2: The Philosopher adduces the true reason (Ethic. vi, 9) to prove that {euboulia}, i.e. good counsel, is not {eustochia}, which is commended for grasping quickly what should be done. Now a man may take good counsel, though he be long and slow in so doing, and yet this does not discount the utility of a happy conjecture in taking good counsel: indeed it is sometimes a necessity, when, for instance, something has to be done without warning. It is for this reason that shrewdness is fittingly reckoned a part of prudence.
 
 Reply to Objection 3: Rhetoric also reasons about practical matters, wherefore nothing hinders the same thing belonging both to rhetoric and prudence. Nevertheless, conjecture is taken here not only in the sense in which it is employed by rhetoricians, but also as applicable to all matters whatsoever wherein man is said to conjecture the truth.
-## Whether Reason Should Be Reckoned A Part Of Prudence?
+### Whether Reason Should Be Reckoned A Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that reason should not be reckoned a part of prudence. For the subject of an accident is not a part thereof. But prudence is in the reason as its subject (Ethic. vi, 5). Therefore reason should not be reckoned a part of prudence.
 
@@ -111,22 +111,22 @@ Objection 2: Further, that which is common to many, should not be reckoned a par
 
 Objection 3: Further, reason as a power does not differ essentially from the intelligence, as stated above ([2780]FP, Q[79], A[8]). If therefore intelligence be reckoned a part of prudence, it is superfluous to add reason.
 
-### Answer
+**Answer**
 
 On the contrary, Macrobius [*In Somn. Scip. i], following the opinion of Plotinus, numbers reason among the parts of prudence.
 
 I answer that, The work of prudence is to take good counsel, as stated in Ethic. vi, 7. Now counsel is a research proceeding from certain things to others. But this is the work of reason. Wherefore it is requisite for prudence that man should be an apt reasoner. And since the things required for the perfection of prudence are called requisite or quasi-integral parts of prudence, it follows that reason should be numbered among these parts.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Reason denotes here, not the power of reason, but its good use.
 
 Reply to Objection 2: The certitude of reason comes from the intellect. Yet the need of reason is from a defect in the intellect, since those things in which the intellective power is in full vigor, have no need for reason, for they comprehend the truth by their simple insight, as do God and the angels. On the other hand particular matters of action, wherein prudence guides, are very far from the condition of things intelligible, and so much the farther, as they are less certain and fixed. Thus matters of art, though they are singular, are nevertheless more fixed and certain, wherefore in many of them there is no room for counsel on account of their certitude, as stated in Ethic. iii, 3. Hence, although in certain other intellectual virtues reason is more certain than in prudence, yet prudence above all requires that man be an apt reasoner, so that he may rightly apply universals to particulars, which latter are various and uncertain.
 
 Reply to Objection 3: Although intelligence and reason are not different powers, yet they are named after different acts. For intelligence takes its name from being an intimate penetration of the truth [*Cf. [2781]SS, Q[8], A[1]], while reason is so called from being inquisitive and discursive. Hence each is accounted a part of reason as explained above [2782](A[2]; Q[47], A[2] ,3).
-## Whether Foresight Should Be Accounted A Part Of Prudence?
+### Whether Foresight Should Be Accounted A Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that foresight should not be accounted a part of prudence. For nothing is part of itself. Now foresight seems to be the same as prudence, because according to Isidore (Etym. x), "a prudent man is one who sees from afar [porro videns]": and this is also the derivation of "providentia [foresight]," according to Boethius (De Consol. v). Therefore foresight is not a part of prudence.
 
@@ -134,7 +134,7 @@ Objection 2: Further, prudence is only practical, whereas foresight may be also 
 
 Objection 3: Further, the chief act of prudence is to command, while its secondary act is to judge and to take counsel. But none of these seems to be properly implied by foresight. Therefore foresight is not part of prudence.
 
-### Answer
+**Answer**
 
 
 
@@ -142,16 +142,16 @@ I answer that, As stated above ([2784]Q[47], A[1], ad 2, AA[6],13), prudence is 
 
 Consequently, future contingents, in so far as they can be directed by man to the end of human life, are the matter of prudence: and each of these things is implied in the word foresight, for it implies the notion of something distant, to which that which occurs in the present has to be directed. Therefore foresight is part of prudence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Whenever many things are requisite for a unity, one of them must needs be the principal to which all the others are subordinate. Hence in every whole one part must be formal and predominant, whence the whole has unity. Accordingly foresight is the principal of all the parts of prudence, since whatever else is required for prudence, is necessary precisely that some particular thing may be rightly directed to its end. Hence it is that the very name of prudence is taken from foresight [providentia] as from its principal part.
 
 Reply to Objection 2: Speculation is about universal and necessary things, which, in themselves, are not distant, since they are everywhere and always, though they are distant from us, in so far as we fail to know them. Hence foresight does not apply properly to speculative, but only to practical matters.
 
 Reply to Objection 3: Right order to an end which is included in the notion of foresight, contains rectitude of counsel, judgment and command, without which no right order to the end is possible.
-## Whether Circumspection Can Be A Part Of Prudence?
+### Whether Circumspection Can Be A Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that circumspection cannot be a part of prudence. For circumspection seems to signify looking at one's surroundings. But these are of infinite number, and cannot be considered by the reason wherein is prudence. Therefore circumspection should not be reckoned a part of prudence.
 
@@ -159,7 +159,7 @@ Objection 2: Further, circumstances seem to be the concern of moral virtues rath
 
 Objection 3: Further, whoever can see things afar off can much more see things that are near. Now foresight enables a man to look on distant things. Therefore there is no need to account circumspection a part of prudence in addition to foresight.
 
-### Answer
+**Answer**
 
 
 
@@ -167,16 +167,16 @@ I answer that, As stated above [2786](A[6]), it belongs to prudence chiefly to d
 
 Since, however, prudence, as stated above ([2787]Q[47], A[3]) is about singular matters of action, which contain many combinations of circumstances, it happens that a thing is good in itself and suitable to the end, and nevertheless becomes evil or unsuitable to the end, by reason of some combination of circumstances. Thus to show signs of love to someone seems, considered in itself, to be a fitting way to arouse love in his heart, yet if pride or suspicion of flattery arise in his heart, it will no longer be a means suitable to the end. Hence the need of circumspection in prudence, viz. of comparing the means with the circumstances.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Though the number of possible circumstances be infinite, the number of actual circumstances is not; and the judgment of reason in matters of action is influenced by things which are few in number
 
 Reply to Objection 2: Circumstances are the concern of prudence, because prudence has to fix them; on the other hand they are the concern of moral virtues, in so far as moral virtues are perfected by the fixing of circumstances.
 
 Reply to Objection 3: Just as it belongs to foresight to look on that which is by its nature suitable to an end, so it belongs to circumspection to consider whether it be suitable to the end in view of the circumstances. Now each of these presents a difficulty of its own, and therefore each is reckoned a distinct part of prudence.
-## Whether Caution Should Be Reckoned A Part Of Prudence?
+### Whether Caution Should Be Reckoned A Part Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that caution should not be reckoned a part of prudence. For when no evil is possible, no caution is required. Now no man makes evil use of virtue, as Augustine declares (De Lib. Arb. ii, 19). Therefore caution does not belong to prudence which directs the virtues.
 
@@ -184,13 +184,13 @@ Objection 2: Further, to foresee good and to avoid evil belong to the same facul
 
 Objection 3: Further, no prudent man strives for the impossible. But no man can take precautions against all possible evils. Therefore caution does not belong to prudence.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Eph. 5:15): "See how you walk cautiously [Douay: 'circumspectly']."
 
 I answer that, The things with which prudence is concerned, are contingent matters of action, wherein, even as false is found with true, so is evil mingled with good, on account of the great variety of these matters of action, wherein good is often hindered by evil, and evil has the appearance of good. Wherefore prudence needs caution, so that we may have such a grasp of good as to avoid evil.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Caution is required in moral acts, that we may be on our guard, not against acts of virtue, but against the hindrance of acts of virtue.
 

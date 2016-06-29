@@ -11,9 +11,9 @@ We must now consider those external acts of religion, whereby something Divine i
 (8) Which is more binding, an oath or a vow?
 (9) Whether an oath is subject to dispensation?
 (10) Who may lawfully swear, and when?
-## Whether To Swear Is To Call God To Witness?
+### Whether To Swear Is To Call God To Witness?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that to swear is not to call God to witness. Whoever invokes the authority of Holy Writ calls God to witness, since it is His word that Holy Writ contains. Therefore, if to swear is to call God to witness, whoever invoked the authority of Holy Writ would swear. But this is false Therefore the antecedent is false also.
 
@@ -21,22 +21,22 @@ Objection 2: Further, one does not pay anything to a person by calling him to wi
 
 Objection 3: Further, the duties of a judge differ from the duties of a witness, as shown above (QQ[67],70). Now sometimes a man, by swearing, implores the Divine judgment, according to Ps. 7:5, "If I have rendered to them that repaid me evils, let me deservedly fall empty before my enemies." Therefore to swear is not to call God to witness.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says in a sermon on perjury (Serm. clxxx): "When a man says: 'By God,' what else does he mean but that God is his witness?"
 
 I answer that, As the Apostle says (Heb. 6:16), oaths are taken for the purpose of confirmation. Now speculative propositions receive confirmation from reason, which proceeds from principles known naturally and infallibly true. But particular contingent facts regarding man cannot be confirmed by a necessary reason, wherefore propositions regarding such things are wont to be confirmed by witnesses. Now a human witness does not suffice to confirm such matters for two reasons. First, on account of man's lack of truth, for many give way to lying, according to Ps. 16:10, "Their mouth hath spoken lies [Vulg.: 'proudly']." Secondly, on account of this lack of knowledge, since he can know neither the future, nor secret thoughts, nor distant things: and yet men speak about such things, and our everyday life requires that we should have some certitude about them. Hence the need to have recourse to a Divine witness, for neither can God lie, nor is anything hidden from Him. Now to call God to witness is named "jurare" [to swear] because it is established as though it were a principle of law [jure] that what a man asserts under the invocation of God as His witness should be accepted as true. Now sometimes God is called to witness when we assert present or past events, and this is termed a "declaratory oath"; while sometimes God is called to witness in confirmation of something future, and this is termed a "promissory oath." But oaths are not employed in order to substantiate necessary matters, and such as come under the investigation of reason; for it would seem absurd in a scientific discussion to wish to prove one's point by an oath.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is one thing to employ a Divine witness already given, as when one adduces the authority of Holy Scripture; and another to implore God to bear witness, as in an oath.
 
 Reply to Objection 2: A man is said to pay his oaths to God because he performs what he swears to do, or because, from the very fact that he calls upon God to witness, he recognizes Him as possessing universal knowledge and unerring truth.
 
 Reply to Objection 3: A person is called to give witness, in order that he may make known the truth about what is alleged. Now there are two ways in which God makes known whether the alleged facts are true or not. In one way He reveals the truth simply, either by inward inspiration, or by unveiling the facts, namely, by making public what was hitherto secret: in another way by punishing the lying witness, and then He is at once judge and witness, since by punishing the liar He makes known his lie. Hence oaths are of two kinds: one is a simple contestation of God, as when a man says "God is my witness," or, "I speak before God," or, "By God," which has the same meaning, as Augustine states [*See argument On the contrary]; the other is by cursing, and consists in a man binding himself or something of his to punishment if what is alleged be not true.
-## Whether It Is Lawful To Swear?
+### Whether It Is Lawful To Swear?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not lawful to swear. Nothing forbidden in the Divine Law is lawful. Now swearing is forbidden (Mat. 5:34), "But I say to you not to swear at all"; and (James 5:12), "Above all things, my brethren, swear not." Therefore swearing is unlawful.
 
@@ -44,7 +44,7 @@ Objection 2: Further, whatever comes from an evil seems to be unlawful, because 
 
 Objection 3: Further, to seek a sign of Divine Providence is to tempt God, and this is altogether unlawful, according to Dt. 6:16, "Thou shalt not tempt the Lord thy God." Now he that swears seems to seek a sign of Divine Providence, since he asks God to bear witness, and this must be by some evident effect. Therefore it seems that swearing is altogether unlawful.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 6:13): "Thou shalt fear the Lord thy God . . . and shalt swear by His name."
 
@@ -52,16 +52,16 @@ I answer that, Nothing prevents a thing being good in itself, and yet becoming a
 
 Yet an oath becomes a source of evil to him that makes evil use of it, that is who employs it without necessity and due caution. For if a man calls God as witness, for some trifling reason, it would seemingly prove him to have but little reverence for God, since he would not treat even a good man in this manner. Moreover, he is in danger of committing perjury, because man easily offends in words, according to James 3:2, "If any man offend not in word, the same is a perfect man." Wherefore it is written (Ecclus. 23:9): "Let not thy mouth be accustomed to swearing, for in it there are many falls."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Jerome, commenting on Mat. 5:34, says: "Observe that our Saviour forbade us to swear, not by God, but by heaven and earth. For it is known that the Jews have this most evil custom of swearing by the elements." Yet this answer does not suffice, because James adds, "nor by any other oath." Wherefore we must reply that, as Augustine states (De Mendacio xv), "when the Apostle employs an oath in his epistles, he shows how we are to understand the saying, 'I say to you, not to swear at all'; lest, to wit, swearing lead us to swear easily and from swearing easily, we contract the habit, and, from swearing habitually, we fall into perjury. Hence we find that he swore only when writing, because thought brings caution and avoids hasty words."
 
 Reply to Objection 2: According to Augustine (De Serm. Dom. in Monte i. 17): "If you have to swear, note that the necessity arises from the infirmity of those whom you convince, which infirmity is indeed an evil. Accordingly He did not say: 'That which is over and above is evil,' but 'is of evil.' For you do no evil; since you make good use of swearing, by persuading another to a useful purpose: yet it 'comes of the evil' of the person by whose infirmity you are forced to swear."
 
 Reply to Objection 3: He who swears tempts not God, because it is not without usefulness and necessity that he implores the Divine assistance. Moreover, he does not expose himself to danger, if God be unwilling to bear witness there and then: for He certainly will bear witness at some future time, when He "will bring to light the hidden things of darkness, and will make manifest the counsels of hearts" (1 Cor. 4:5). And this witness will be lacking to none who swears, neither for nor against him.
-## Whether Three Accompanying Conditions Of An Oath Are Suitably Assigned, Namely, Justice, Judgment, And Truth?
+### Whether Three Accompanying Conditions Of An Oath Are Suitably Assigned, Namely, Justice, Judgment, And Truth?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that justice, judgment and truth are unsuitably assigned as the conditions accompanying an oath. Things should not be enumerated as diverse, if one of them includes the other. Now of these three, one includes another, since truth is a part of justice, according to Tully (De Invent. Rhet. ii, 53): and judgment is an act of justice, as stated above ([3075]Q[60], A[1]). Therefore the three accompanying conditions of an oath are unsuitably assigned.
 
@@ -69,22 +69,22 @@ Objection 2: Further, many other things are required for an oath, namely, devoti
 
 Objection 3: Further, these three are requisite in man's every deed: since he ought to do nothing contrary to justice and truth, or without judgment, according to 1 Tim. 5:21, "Do nothing without prejudice," i.e. without previous judgment [*Vulg.: 'Observe these things without prejudice, doing nothing by declining to either side.']. Therefore these three should not be associated with an oath any more than with other human actions.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jer. 4:2): "Thou shalt swear: As the Lord liveth, in truth, and in judgment, and in justice": which words Jerome expounds, saying: "Observe that an oath must be accompanied by these conditions, truth, judgment and justice."
 
 I answer that, As stated above [3076](A[2]), an oath is not good except for one who makes good use of it. Now two conditions are required for the good use of an oath. First, that one swear, not for frivolous, but for urgent reasons, and with discretion; and this requires judgment or discretion on the part of the person who swears. Secondly, as regards the point to be confirmed by oath, that it be neither false, nor unlawful, and this requires both truth, so that one employ an oath in order to confirm what is true, and justice, so that one confirm what is lawful. A rash oath lacks judgment, a false oath lacks truth, and a wicked or unlawful oath lacks justice.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Judgment does not signify here the execution of justice, but the judgment of discretion, as stated above. Nor is truth here to be taken for the part of justice, but for a condition of speech.
 
 Reply to Objection 2: Devotion, faith and like conditions requisite for the right manner of swearing are implied by judgment: for the other two regard the things sworn to as stated above. We might also reply that justice regards the reason for swearing.
 
 Reply to Objection 3: There is great danger in swearing, both on account of the greatness of God Who is called upon to bear witness, and on account of the frailty of the human tongue, the words of which are confirmed by oath. Hence these conditions are more requisite for an oath than for other human actions.
-## Whether An Oath Is An Act Of Religion Or Latria?
+### Whether An Oath Is An Act Of Religion Or Latria?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an oath is not an act of religion, or latria. Acts of religion are about holy and divine things. But oaths are employed in connection with human disputes, as the Apostle declares (Heb. 6:16). Therefore swearing is not an act of religion or latria.
 
@@ -92,22 +92,22 @@ Objection 2: Further, it belongs to religion to give worship to God, as Tully sa
 
 Objection 3: Further, the end of religion or latria is to show reverence to God. But the end of an oath is not this, but rather the confirmation of some assertion. Therefore swearing is not an act of religion.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 6:13): "Thou shalt fear the Lord thy God, and shalt serve Him only, and thou shalt swear by His name." Now he speaks there of the servitude of religion. Therefore swearing is an act of religion.
 
 I answer that, As appears from what has been said above [3077](A[1]), he that swears calls God to witness in confirmation of what he says. Now nothing is confirmed save by what is more certain and more powerful. Therefore in the very fact that a man swears by God, he acknowledges God to be more powerful, by reason of His unfailing truth and His universal knowledge; and thus in a way he shows reverence to God. For this reason the Apostle says (Heb. 6:16) that "men swear by one greater than themselves," and Jerome commenting on Mat. 5:34, says that "he who swears either reveres or loves the person by whom he swears." The Philosopher, too, states (Metaph. i, 3) that "to swear is to give very great honor." Now to show reverence to God belongs to religion or latria. wherefore it is evident that an oath is an act of religion or latria.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Two things may be observed in an oath. The witness adduced, and this is Divine: and the thing witnessed to, or that which makes it necessary to call the witness, and this is human. Accordingly an oath belongs to religion by reason of the former, and not of the latter.
 
 Reply to Objection 2: In the very fact that a man takes God as witness by way of an oath, he acknowledges Him to be greater: and this pertains to the reverence and honor of God, so that he offers something to God, namely, reverence and honor.
 
 Reply to Objection 3: Whatsoever we do, we should do it in honor of God: wherefore there is no hindrance, if by intending to assure a man, we show reverence to God. For we ought so to perform our actions in God's honor that they may conduce to our neighbor's good, since God also works for His own glory and for our good.
-## Whether Oaths Are Desirable And To Be Used Frequently As Something Useful And Good?
+### Whether Oaths Are Desirable And To Be Used Frequently As Something Useful And Good?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that oaths are desirable and to be used frequently as something useful and good. Just as a vow is an act of religion, so is an oath. Now it is commendable and more meritorious to do a thing by vow, because a vow is an act of religion, as stated above ([3078]Q[88], A[5]). Therefore for the same reason, to do or say a thing with an oath is more commendable, and consequently oaths are desirable as being good essentially.
 
@@ -115,22 +115,22 @@ Objection 2: Further, Jerome, commenting on Mat. 5:34, says that "he who swears 
 
 Objection 3: Further, swearing is directed to the purpose of confirming or assuring. But it is a good thing for a man to confirm his assertion. Therefore an oath is desirable as a good thing.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ecclus. 23:12): "A man that sweareth much shall be filled with iniquity": and Augustine says (De Mendacio xv) that "the Lord forbade swearing, in order that for your own part you might not be fond of it, and take pleasure in seeking occasions of swearing, as though it were a good thing."
 
 I answer that, Whatever is required merely as a remedy for an infirmity or a defect, is not reckoned among those things that are desirable for their own sake, but among those that are necessary: this is clear in the case of medicine which is required as a remedy for sickness. Now an oath is required as a remedy to a defect, namely, some man's lack of belief in another man. Wherefore an oath is not to be reckoned among those things that are desirable for their own sake, but among those that are necessary for this life; and such things are used unduly whenever they are used outside the bounds of necessity. For this reason Augustine says (De Serm. Dom. in Monte i, 17): "He who understands that swearing is not to be held as a good thing," i.e. desirable for its own sake, "restrains himself as far as he can from uttering oaths, unless there be urgent need."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There is no parity between a vow and an oath: because by a vow we direct something to the honor of God, so that for this very reason a vow is an act of religion. On the other hand, in an oath reverence for the name of God is taken in confirmation of a promise. Hence what is confirmed by oath does not, for this reason, become an act of religion, since moral acts take their species from the end.
 
 Reply to Objection 2: He who swears does indeed make use of his reverence or love for the person by whom he swears: he does not, however, direct his oath to the reverence or love of that person, but to something else that is necessary for the present life.
 
 Reply to Objection 3: Even as a medicine is useful for healing, and yet, the stronger it is, the greater harm it does if it be taken unduly, so too an oath is useful indeed as a means of confirmation, yet the greater the reverence it demands the more dangerous it is, unless it be employed aright; for, as it is written (Ecclus. 23:13), "if he make it void," i.e. if he deceive his brother, "his sin shall be upon him: and if he dissemble it," by swearing falsely, and with dissimulation, "he offendeth double," [because, to wit, "pretended equity is a twofold iniquity," as Augustine [*Enarr. in Ps. lxiii, 7] declares]: "and if he swear in vain," i.e. without due cause and necessity, "he shall not be justified."
-## Whether It Is Lawful To Swear By Creatures?
+### Whether It Is Lawful To Swear By Creatures?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not lawful to swear by creatures. It is written (Mat. 5:34-36): "I say to you not to swear at all, neither by heaven . . . nor by the earth . . . nor by Jerusalem . . . nor by thy head": and Jerome, expounding these words, says: "Observe that the Saviour does not forbid swearing by God, but by heaven and earth," etc.
 
@@ -138,7 +138,7 @@ Objection 2: Further, punishment is not due save for a fault. Now a punishment i
 
 Objection 3: Further, an oath is an act of religion, as stated above [3079](A[4]). But religious worship is not due to any creature, according to Rom. 1:23, 25. Therefore it is not lawful to swear by a creature.
 
-### Answer
+**Answer**
 
 On the contrary, Joseph swore "by the health of Pharaoh" (Gn. 42:16). Moreover it is customary to swear by the Gospel, by relics, and by the saints.
 
@@ -148,14 +148,14 @@ The other way of swearing is by cursing and in this kind of oath a creature is a
 
 As to Joseph's oath by the health of Pharaoh this may be understood in both ways: either by way of a curse, as though he pledged Pharao's health to God; or by way of contestation, as though he appealed to the truth of God's justice which the princes of the earth are appointed to execute.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord forbade us to swear by creatures so as to give them the reverence due to God. Hence Jerome adds that "the Jews, through swearing by the angels and the like, worshipped creatures with a Divine honor."
 
 Reply to Objection 3: Religious worship is shown to one whose testimony is invoked by oath: hence the prohibition (Ex. 23:13): "By the name of strange gods you shall not swear." But religious worship is not given to creatures employed in an oath in the ways mentioned above.
-## Whether An Oath Has A Binding Force?
+### Whether An Oath Has A Binding Force?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an oath has no binding force. An oath is employed in order to confirm the truth of an assertion. But when a person makes an assertion about the future his assertion is true, though it may not be verified. Thus Paul lied not (2 Cor. 1:15, seqq.) though he went not to Corinth, as he had said he would (1 Cor. 16:5). Therefore it seems that an oath is not binding.
 
@@ -165,7 +165,7 @@ Objection 3: Further, sometimes a man is compelled against his will to promise s
 
 Objection 4: Further, no person can be under two opposite obligations. Yet sometimes the person who swears and the person to whom he swears have opposite intentions. Therefore an oath cannot always be binding.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 5:33): "Thou shalt perform thy oaths to the Lord."
 
@@ -177,7 +177,7 @@ Now if this thing be such as not to be in his power, his oath is lacking in judg
 
 Accordingly we must conclude that whoever swears to do something is bound to do what he can for the fulfilment of truth; provided always that the other two accompanying conditions be present, namely, judgment and justice.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is not the same with a simple assertion, and with an oath wherein God is called to witness: because it suffices for the truth of an assertion, that a person say what he proposes to do, since it is already true in its cause, namely, the purpose of the doer. But an oath should not be employed, save in a matter about which one is firmly certain: and, consequently, if a man employ an oath, he is bound, as far as he can, to make true what he has sworn, through reverence of the Divine witness invoked, unless it leads to an evil result, as stated.
 
@@ -186,9 +186,9 @@ Reply to Objection 2: An oath may lead to an evil result in two ways. First, bec
 Reply to Objection 3: There is a twofold obligation in the oath which a man takes under compulsion: one, whereby he is beholden to the person to whom he promises something; and this obligation is cancelled by the compulsion, because he that used force deserves that the promise made to him should not be kept. The other is an obligation whereby a man is beholden to God, in virtue of which he is bound to fulfil what he has promised in His name. This obligation is not removed in the tribunal of conscience, because that man ought rather to suffer temporal loss, than violate his oath. He can, however, seek in a court of justice to recover what he has paid, or denounce the matter to his superior even if he has sworn to the contrary, because such an oath would lead to evil results since it would be contrary to public justice. The Roman Pontiffs, in absolving men from oaths of this kind, did not pronounce such oaths to be unbinding, but relaxed the obligation for some just cause.
 
 Reply to Objection 4: When the intention of the swearer is not the same as the intention of the person to whom he swears, if this be due to the swearer's guile, he must keep his oath in accordance with the sound understanding of the person to whom the oath is made. Hence Isidore says (De Summo Bono ii, 31): "However artful a man may be in wording his oath, God Who witnesses his conscience accepts his oath as understood by the person to whom it is made." And that this refers to the deceitful oath is clear from what follows: "He is doubly guilty who both takes God's name in vain, and tricks his neighbor by guile." If, however, the swearer uses no guile, he is bound in accordance with his own intention. Wherefore Gregory says (Moral. xxvi, 7): "The human ear takes such like words in their natural outward sense, but the Divine judgment interprets them according to our inward intention."
-## Whether An Oath Is More Binding Than A Vow?
+### Whether An Oath Is More Binding Than A Vow?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an oath is more binding than a vow. A vow is a simple promise: whereas an oath includes, besides a promise, an appeal to God as witness. Therefore an oath is more binding than a vow.
 
@@ -196,22 +196,22 @@ Objection 2: Further, the weaker is wont to be confirmed by the stronger. Now a 
 
 Objection 3: Further, the obligation of a vow arises from the deliberation of the mind, a stated above ([3083]Q[88], A[1]); while the obligation of an oath results from the truth of God Whose testimony is invoked. Since therefore God's truth is something greater than human deliberation, it seems that the obligation of an oath is greater than that of a vow.
 
-### Answer
+**Answer**
 
 On the contrary, A vow binds one to God while an oath sometimes binds one to man. Now one is more bound to God than to man. Therefore a vow is more binding than an oath.
 
 I answer that, The obligation both of vow and of an oath arises from something Divine; but in different ways. For the obligation of a vow arises from the fidelity we owe God, which binds us to fulfil our promises to Him. On the other hand, the obligation of an oath arises from the reverence we owe Him which binds us to make true what we promise in His name. Now every act of infidelity includes an irreverence, but not conversely, because the infidelity of a subject to his lord would seem to be the greatest irreverence. Hence a vow by its very nature is more binding than an oath.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A vow is not any kind of promise, but a promise made to God; and to be unfaithful to God is most grievous.
 
 Reply to Objection 2: An oath is added to a vow not because it is more stable, but because greater stability results from "two immutable things" [*Heb. 6:18].
 
 Reply to Objection 3: Deliberation of the mind gives a vow its stability, on the part of the person who takes the vow: but it has a greater cause of stability on the part of God, to Whom the vow is offered.
-## Whether Anyone Can Dispense From An Oath?
+### Whether Anyone Can Dispense From An Oath?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no one can dispense from an oath. Just as truth is required for a declaratory oath, which is about the past or the present, so too is it required for a promissory oath, which is about the future. Now no one can dispense a man from swearing to the truth about present or past things. Therefore neither can anyone dispense a man from making truth that which he has promised by oath to do in the future.
 
@@ -219,22 +219,22 @@ Objection 2: Further, a promissory oath is used for the benefit of the person to
 
 Objection 3: Further, any bishop can grant a dispensation from a vow, except certain vows reserved to the Pope alone, as stated above ([3084]Q[88], A[12], ad 3). Therefore in like manner, if an oath admits of dispensation, any bishop can dispense from an oath. And yet seemingly this is to be against the law [*Caus. XV, qu. 6, can. Auctoritatem, seqq.: Cap. Si vero, de Jurejurando]. Therefore it would seem that an oath does not admit of dispensation.
 
-### Answer
+**Answer**
 
 On the contrary, A vow is more binding than an oath, as stated above [3085](A[8]). But a vow admits of dispensation and therefore an oath does also.
 
 I answer that, As stated above ([3086]Q[88], A[10]), the necessity of a dispensation both from the law and from a vow arises from the fact that something which is useful and morally good in itself and considered in general, may be morally evil and hurtful in respect of some particular emergency: and such a case comes under neither law nor vow. Now anything morally evil or hurtful is incompatible with the matter of an oath: for if it be morally evil it is opposed to justice, and if it be hurtful it is contrary to judgment. Therefore an oath likewise admits of dispensation.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A dispensation from an oath does not imply a permission to do anything against the oath: for this is impossible, since the keeping of an oath comes under a Divine precept, which does not admit of dispensation: but it implies that what hitherto came under an oath no longer comes under it, as not being due matter for an oath, just as we have said with regard to vows ([3087]Q[88], A[10], ad 2). Now the matter of a declaratory oath, which is about something past or present, has already acquired a certain necessity, and has become unchangeable, wherefore the dispensation will regard not the matter but the act itself of the oath: so that such a dispensation would be directly contrary to the Divine precept. On the other hand, the matter of a promissory oath is something future, which admits of change, so that, to wit, in certain emergencies, it may be unlawful or hurtful, and consequently undue matter for an oath. Therefore a promissory oath admits of dispensation, since such dispensation regards the matter of an oath, and is not contrary to the Divine precept about the keeping of oaths.
 
 Reply to Objection 2: One man may promise something under oath to another in two ways. First, when he promises something for his benefit: for instance, if he promise to serve him, or to give him money: and from such a promise he can be released by the person to whom he made it: for he is understood to have already kept his promise to him when he acts towards him according to his will. Secondly, one man promises another something pertaining to God's honor or to the benefit of others: for instance, if a man promise another under oath that he will enter religion, or perform some act of kindness. In this case the person to whom the promise is made cannot release him that made the promise, because it was made principally not to him but to God: unless perchance it included some condition, for instance, "provided he give his consent" or some such like condition.
 
 Reply to Objection 3: Sometimes that which is made the matter of a promissory oath is manifestly opposed to justice, either because it is a sin, as when a man swears to commit a murder, or because it is an obstacle to a greater good, as when a man swears not to enter a religion: and such an oath requires no dispensation. But in the former case a man is bound not to keep such an oath, while in the latter it is lawful for him to keep or not to keep the oath, as stated above (A[7], ad 2). Sometimes what is promised on oath is doubtfully right or wrong, useful or harmful, either in itself or under the circumstance. In this case any bishop can dispense. Sometimes, however, that which is promised under oath is manifestly lawful and beneficial. An oath of this kind seemingly admits not of dispensation but of commutation, when there occurs something better to be done for the common good, in which case the matter would seem to belong chiefly to the power of the Pope, who has charge over the whole Church; and even of absolute relaxation, for this too belongs in general to the Pope in all matters regarding the administration of things ecclesiastical. Thus it is competent to any man to cancel an oath made by one of his subjects in matters that come under his authority: for instance, a father may annul his daughter's oath, and a husband his wife's (Num. 30:6, seqq.), as stated above with regard to vows ([3088]Q[88], AA[8],9).
-## Whether An Oath Is Voided By A Condition Of Person Or Time?
+### Whether An Oath Is Voided By A Condition Of Person Or Time?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an oath is not voided by a condition of person or time. An oath, according to the Apostle (Heb. 6:16), is employed for the purpose of confirmation. Now it is competent to anyone to confirm his assertion, and at any time. Therefore it would seem that an oath is not voided by a condition of person or time.
 
@@ -244,7 +244,7 @@ Objection 3: Further, the same effect does not proceed from contrary causes, sin
 
 Objection 4: Further, in this world no living man is equal in dignity to an angel: for it is written (Mat. 11:11) that "he that is the lesser in the kingdom of heaven is greater than he," namely than John the Baptist, while yet living. Now an angel is competent to swear, for it is written (Apoc. 10:6) that the angel "swore by Him that liveth for ever and ever." Therefore no man ought to be excused from swearing, on account of his dignity.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated (II, qu. v, can. Si quis presbyter): "Let a priest be examined 'by his sacred consecration,' instead of being put on his oath": and (22, qu. v, can. Nullus): "Let no one in ecclesiastical orders dare to swear on the Holy Gospels to a layman."
 
@@ -252,7 +252,7 @@ I answer that, Two things are to be considered in an oath. One is on the part of
 
 The other thing to be considered is on the part of the man, whose assertion is confirmed by oath. For a man's assertion needs no confirmation save because there is a doubt about it. Now it derogates from a person's dignity that one should doubt about the truth of what he says, wherefore "it becomes not persons of great dignity to swear." For this reason the law says (II, qu. v, can. Si quis presbyter) that "priests should not swear for trifling reasons." Nevertheless it is lawful for them to swear if there be need for it, or if great good may result therefrom. Especially is this the case in spiritual affairs, when moreover it is becoming that they should take oath on days of solemnity, since they ought then to devote themselves to spiritual matters. Nor should they on such occasions take oaths temporal matters, except perhaps in cases grave necessity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Some are unable to confirm their own assertions on account of their own defect: and some there are whose words should be so certain that they need no confirmation.
 

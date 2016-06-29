@@ -5,9 +5,9 @@ We must now consider the return of sins which have been taken away by Penance: u
 (2) Whether more specially as regards certain sins they return, in a way, on account of ingratitude?
 (3) Whether the debt of punishment remains the same for sins thus returned?
 (4) Whether this ingratitude, on account of which sins return, is a special sin?
-## Whether Sins Once Forgiven Return Through A Subsequent Sin?
+### Whether Sins Once Forgiven Return Through A Subsequent Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sins once forgiven return through a subsequent sin. For Augustine says (De Bapt. contra Donat. i, 12): "Our Lord teaches most explicitly in the Gospel that sins which have been forgiven return, when fraternal charity ceases, in the example of the servant from whom his master exacted the payment of the debt already forgiven, because he had refused to forgive the debt of his fellow-servant." Now fraternal charity is destroyed through each mortal sin. Therefore sins already taken away through Penance, return through each subsequent mortal sin.
 
@@ -17,7 +17,7 @@ Objection 3: Further, the Lord said (Ezech. 18:24): "If the just man turn himsel
 
 Objection 4: Further, past sins are covered by grace, as the Apostle declares (Rom. 4:7) where he quotes Ps. 31:1: "Blessed are they whose iniquities are forgiven, and whose sins are covered." But a subsequent mortal sin takes away grace. Therefore the sins committed previously, become uncovered: and so, seemingly, they return.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 11:29): "The gifts and the calling of God are without repentance." Now the penitent's sins are taken away by a gift of God. Therefore the sins which have been taken away do not return through a subsequent sin, as though God repented His gift of forgiveness.
 
@@ -31,7 +31,7 @@ Consequently it is in no way possible for the stain of past sins and the debt of
 
 Accordingly the sin which follows repentance brings back, in a sense, the debt of punishment due to the sins previously forgiven, not as caused by those sins already forgiven but as caused by this last sin being committed, on account of its being aggravated in view of those previous sins. This means that those sins return, not simply, but in a restricted sense, viz., in so far as they are virtually contained in the subsequent sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This saying of Augustine seems to refer to the return of sins as to the debt of eternal punishment considered in itself, namely, that he who sins after doing penance incurs a debt of eternal punishment, just as before, but not altogether for the same "reason." Wherefore Augustine, after saying (Lib. Resp. Prosperi i [*Cf. Prosper, Responsiones ad Capitula Gallorum ii]) that "he does not fall back into that which was forgiven, nor will he be condemned for original sin," adds: "Nevertheless, for these last sins he will be condemned to the same death, which he deserved to suffer for the former," because he incurs the punishment of eternal death which he deserved for his previous sins.
 
@@ -40,9 +40,9 @@ Reply to Objection 2: By these words Bede means that the guilt already forgiven 
 Reply to Objection 3: The effect of a subsequent sin is that the former "justices" are not remembered, in so far as they were deserving of eternal life, but not in so far as they were a hindrance to sin. Consequently if a man sins mortally after making restitution, he does not become guilty as though he had not paid back what he owed; and much less is penance previously done forgotten as to the pardon of the guilt, since this is the work of God rather than of man.
 
 Reply to Objection 4: Grace removes the stain and the debt of eternal punishment simply; but it covers the past sinful acts, lest, on their account, God deprive man of grace, and judge him deserving of eternal punishment; and what grace has once done, endures for ever.
-## Whether Sins That Have Been Forgiven, Return Through Ingratitude Which Is Shown Especially In Four Kinds Of Sin?
+### Whether Sins That Have Been Forgiven, Return Through Ingratitude Which Is Shown Especially In Four Kinds Of Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sins do not return through ingratitude, which is shown especially in four kinds of sin, viz., hatred of one's neighbor, apostasy from faith, contempt of confession and regret for past repentance, and which have been expressed in the following verse:
 
@@ -50,7 +50,7 @@ Objection 2: Further, Rabanus says: "God delivered the wicked servant to the tor
 
 Objection 3: Further, ingratitude is all the greater, according as one sins after receiving a greater favor. Now innocence whereby one avoids sin is a Divine favor, for Augustine says (Confess. ii): "Whatever sins I have avoided committing, I owe it to Thy grace." Now innocence is a greater gift, than even the forgiveness of all sins. Therefore the first sin committed after innocence is no less an ingratitude to God, than a sin committed after repentance, so that seemingly ingratitude in respect of the aforesaid sins is not the chief cause of sins returning.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xviii [*Cf. Dial. iv]): "It is evident from the words of the Gospel that if we do not forgive from our hearts the offenses committed against us, we become once more accountable for what we rejoiced in as forgiven through Penance": so that ingratitude implied in the hatred of one's brother is a special cause of the return of sins already forgiven: and the same seems to apply to the others.
 
@@ -58,16 +58,16 @@ I answer that, As stated above [4793](A[1]), sins pardoned through Penance are s
 
 Accordingly it is said that the ingratitude of sinners is a special cause of the return of sins previously forgiven.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This is not said of these sins as though they were more grievous than others, but because they are more directly opposed to the favor of the forgiveness of sin.
 
 Reply to Objection 2: Even venial sins and original sin return in the way explained above, just as mortal sins do, in so far as the favor conferred by God in forgiving those sins is despised. A man does not, however, incur ingratitude by committing a venial sin, because by sinning venially man does not act against God, but apart from Him, wherefore venial sins nowise cause the return of sins already forgiven.
 
 Reply to Objection 3: A favor can be weighed in two ways. First by the quantity of the favor itself, and in this way innocence is a greater favor from God than penance, which is called the second plank after shipwreck (cf.[4794] Q[84], A[6]). Secondly, a favor may be weighed with regard to the recipient, who is less worthy, wherefore a greater favor is bestowed on him, so that he is the more ungrateful if he scorns it. In this way the favor of the pardon of sins is greater when bestowed on one who is altogether unworthy, so that the ingratitude which follows is all the greater.
-## Whether The Debt Of Punishment That Arises Through Ingratitude In Respect Of A Subsequent Sin Is As Great As That Of The Sins Previously Pardoned?
+### Whether The Debt Of Punishment That Arises Through Ingratitude In Respect Of A Subsequent Sin Is As Great As That Of The Sins Previously Pardoned?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the debt of punishment arising through ingratitude in respect of a subsequent sin is as great as that of the sins previously pardoned. Because the greatness of the favor of the pardon of sins is according to the greatness of the sin pardoned, and so too, in consequence, is the greatness of the ingratitude whereby this favor is scorned. But the greatness of the consequent debt of punishment is in accord with the greatness of the ingratitude. Therefore the debt of punishment arising through ingratitude in respect of a subsequent sin is as great as the debt of punishment due for all the previous sins.
 
@@ -75,7 +75,7 @@ Objection 2: Further, it is a greater sin to offend God than to offend man. But 
 
 Objection 3: Further, it is written (Mat. 18:34) that "his lord being angry, delivered him" (whose sins returned to him on account of his ingratitude) "to the torturers, until he paid all the debt." But this would not be so unless the debt of punishment incurred through ingratitude were as great as that incurred through all previous sins. Therefore an equal debt of punishment returns through ingratitude.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 25:2): "According to the measure of the sin shall the measure also of the stripes be," whence it is evident that a great debt of punishment does not arise from a slight sin. But sometimes a subsequent mortal sin is much less grievous than any one of those previously pardoned. Therefore the debt of punishment incurred through subsequent sins is not equal to that of sins previously forgiven.
 
@@ -85,16 +85,16 @@ It is possible, however, for the gravity of the subsequent sin to equal the grav
 
 Hence it is evident that the debt of punishment incurred by a subsequent sin need not always be equal to that of previous sins; but it must be in proportion thereto, so that the more numerous or the greater the sins previously pardoned, the greater must be the debt of punishment incurred by any subsequent mortal sin whatever.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The favor of the pardon of sins takes its absolute quantity from the quantity of the sins previously pardoned: but the sin of ingratitude does not take its absolute quantity from the measure of the favor bestowed, but from the measure of the contempt or of the offense, as stated above: and so the objection does not prove.
 
 Reply to Objection 2: A slave who has been given his freedom is not brought back to his previous state of slavery for any kind of ingratitude, but only when this is grave.
 
 Reply to Objection 3: He whose forgiven sins return to him on account of subsequent ingratitude, incurs the debt for all, in so far as the measure of his previous sins is contained proportionally in his subsequent ingratitude, but not absolutely, as stated above.
-## Whether The Ingratitude Whereby A Subsequent Sin Causes The Return Of Previous Sins, Is A Special Sin?
+### Whether The Ingratitude Whereby A Subsequent Sin Causes The Return Of Previous Sins, Is A Special Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the ingratitude, whereby a subsequent sin causes the return of sins previously forgiven, is a special sin. For the giving of thanks belongs to counterpassion which is a necessary condition of justice, as the Philosopher shows (Ethic. v, 5). But justice is a special virtue. Therefore this ingratitude is a special sin.
 
@@ -102,7 +102,7 @@ Objection 2: Further, Tully says (De Inv. Rhet. ii) that thanksgiving is a speci
 
 Objection 3: Further, a special effect proceeds from a special cause. Now ingratitude has a special effect, viz. the return, after a fashion, of sins already forgiven. Therefore ingratitude is a special sin.
 
-### Answer
+**Answer**
 
 On the contrary, That which is a sequel to every sin is not a special sin. Now by any mortal sin whatever, a man becomes ungrateful to God, as evidenced from what has been said [4796](A[1]). Therefore ingratitude is not a special sin.
 

@@ -9,9 +9,9 @@ After considering Christ's conception, we must treat of His nativity. First, as 
 (6) Of the mode of the Nativity;
 (7) Of its place;
 (8) Of the time of the Nativity.
-## Whether Nativity Regards The Nature Rather Than The Person?
+### Whether Nativity Regards The Nature Rather Than The Person?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that nativity regards the nature rather than the person. For Augustine [*Fulgentius] says (De Fide ad Petrum): "The eternal Divine Nature could not be conceived and born of human nature, except in a true human nature." Consequently it becomes the Divine Nature to be conceived and born by reason of the human nature. Much more, therefore, does it regard human nature itself.
 
@@ -19,7 +19,7 @@ Objection 2: Further, according to the Philosopher (Metaph. v), "nature" is so d
 
 Objection 3: Further, properly speaking, that is born which begins to exist by nativity. But Christ's Person did not begin to exist by His nativity, whereas His human nature did. Therefore it seems that the nativity properly regards the nature, and not the person.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iii): "Nativity regards the hypostasis, not the nature."
 
@@ -27,16 +27,16 @@ I answer that, Nativity can be attributed to someone in two ways: first, as to i
 
 But to the nature nativity is attributed as to its terminus. For the terminus of generation and of every nativity is the form. Now, nature designates something as a form: wherefore nativity is said to be "the road to nature," as the Philosopher states (Phys. ii): for the purpose of nature is terminated in the form or nature of the species.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: On account of the identity of nature and hypostasis in God, nature fs sometimes put instead of person or hypostasis. And in this sense Augustine says that the Divine Nature was conceived and born, inasmuch as the Person of the Son was conceived and born in the human nature.
 
 Reply to Objection 2: No movement or change is denominated from the subject moved, but from the terminus of the movement, whence the subject has its species. For this reason nativity is not denominated from the person born, but from nature, which is the terminus of nativity.
 
 Reply to Objection 3: Nature, properly speaking, does not begin to exist: rather is it the person that begins to exist in some nature. Because, as stated above, nature designates that by which something is; whereas person designates something as having subsistent being.
-## Whether A Temporal Nativity Should Be Attributed To Christ?
+### Whether A Temporal Nativity Should Be Attributed To Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that temporal nativity is not to be attributed to Christ. For "to be born is a certain movement of a thing that did not exist before it was born, which movement procures for it the benefit of existence" [*Cf. Augustine, De Unit. Trin. xii]. But Christ was from all eternity. Therefore He could not be born in time.
 
@@ -46,13 +46,13 @@ Objection 3: Further, properly speaking, nativity regards the person. But in Chr
 
 Objection 4: Further, what is born by two nativities is born twice. But this proposition is false; "Christ was born twice": because the nativity whereby He was born of the Father suffers no interruption; since it is eternal. Whereas interruption is required to warrant the use of the adverb "twice": for a man is said to run twice whose running is interrupted. Therefore it seems that we should not admit a double nativity in Christ.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iii): "We confess two nativities in Christ: one of the Father---eternal; and one which occurred in these latter times for our sake."
 
 I answer that, As stated above [4172](A[1]), nature is compared to nativity, as the terminus to movement or change. Now, movement is diversified according to the diversity of its termini, as the Philosopher shows (Phys. v). But, in Christ there is a twofold nature: one which He received of the Father from eternity, the other which He received from His Mother in time. Therefore we must needs attribute to Christ a twofold nativity: one by which He was born of the Father from all eternity; one by which He was born of His Mother in time.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This was the argument of a certain heretic, Felician, and is solved thus by Augustine (Contra Felic. xii). "Let us suppose," says he, "as many maintain, that in the world there is a universal soul, which, by its ineffable movement, so gives life to all seed, that it is not compounded with things begotten, but bestows life that they may be begotten. Without doubt, when this soul reaches the womb, being intent on fashioning the passible matter to its own purpose, it unites itself to the personality thereof, though manifestly it is not of the same substance; and thus of the active soul and passive matter, one man is made out of two substances. And so we confess that the soul is born from out the womb; but not as though, before birth, it was nothing at all in itself. Thus, then, but in a way much more sublime, the Son of God was born as man, just as the soul is held to be born together with the body: not as though they both made one substance, but that from both, one person results. Yet we do not say that the Son of God began thus to exist: lest it be thought that His Divinity is temporal. Nor do we acknowledge the flesh of the Son of God to have been from eternity: lest it be thought that He took, not a true human body, but some resemblance thereof."
 
@@ -61,9 +61,9 @@ Reply to Objection 2: This was an argument of Nestorius, and it is thus solved b
 Reply to Objection 3: Nativity regards the person as its subject, the nature as its terminus. Now, it is possible for several transformations to be in the same subject: yet must they be diversified in respect of their termini. But we do not say this as though the eternal nativity were a transformation or a movement, but because it is designated by way of a transformation or movement.
 
 Reply to Objection 4: Christ can be said to have been born twice in respect of His two nativities. For just as he is said to run twice who runs at two different times, so can He be said to be born twice who is born once from eternity and once in time: because eternity and time differ much more than two different times, although each signifies a measure of duration.
-## Whether The Blessed Virgin Can Be Called Christ's Mother In Respect Of His Temporal Nativity?
+### Whether The Blessed Virgin Can Be Called Christ's Mother In Respect Of His Temporal Nativity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Blessed Virgin cannot be called Christ's Mother in respect of His temporal nativity. For, as stated above ([4173]Q[32], A[4]), the Blessed Virgin Mary did not cooperate actively in begetting Christ, but merely supplied the matter. But this does not seem sufficient to make her His Mother: otherwise wood might be called the mother of the bed or bench. Therefore it seems that the Blessed Virgin cannot be called the Mother of Christ.
 
@@ -71,22 +71,22 @@ Objection 2: Further, Christ was born miraculously of the Blessed Virgin. But a 
 
 Objection 3: Further, motherhood seems to imply partial separation of the semen. But, as Damascene says (De Fide Orth. iii), "Christ's body was formed, not by a seminal process, but by the operation of the Holy Ghost." Therefore it seems that the Blessed Virgin should not be called the Mother of Christ.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 1:18): "The generation of Christ was in this wise. When His Mother Mary was espoused to Joseph," etc.
 
 I answer that, The Blessed Virgin Mary is in truth and by nature the Mother of Christ. For, as we have said above ([4174]Q[5], A[2];[4175] Q[31], A[5]), Christ's body was not brought down from heaven, as the heretic Valentine maintained, but was taken from the Virgin Mother, and formed from her purest blood. And this is all that is required for motherhood, as has been made clear above ([4176]Q[31], A[5];[4177] Q[32], A[4]). Therefore the Blessed Virgin is truly Christ's Mother.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([4178]Q[32], A[3]), not every generation implies fatherhood or motherhood and sonship, but only the generation of living things. Consequently when inanimate things are made from some matter, the relationship of motherhood and sonship does not follow from this, but only in the generation of living things, which is properly called nativity.
 
 Reply to Objection 2: As Damascene says (De Fide Orth. iii): "The temporal nativity by which Christ was born for our salvation is, in a way, natural, since a Man was born of a woman, and after the due lapse of time from His conception: but it is also supernatural, because He was begotten, not of seed, but of the Holy Ghost and the Blessed Virgin, above the law of conception." Thus, then, on the part of the mother, this nativity was natural, but on the part of the operation of the Holy Ghost it was supernatural. Therefore the Blessed Virgin is the true and natural Mother of Christ.
 
 Reply to Objection 3: As stated above ([4179]Q[31], A[5], ad 3;[4180] Q[32], A[4]), the resolution of the woman's semen is not necessary for conception; neither, therefore, is it required for motherhood.
-## Whether The Blessed Virgin Should Be Called The Mother Of God?
+### Whether The Blessed Virgin Should Be Called The Mother Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Blessed Virgin should not be called the Mother of God. For in the Divine mysteries we should not make any assertion that is not taken from Holy Scripture. But we read nowhere in Holy Scripture that she is the mother or parent of God, but that she is the "mother of Christ" or of "the Child," as may be seen from Mat. 1:18. Therefore we should not say that the Blessed Virgin is the Mother of God.
 
@@ -94,22 +94,22 @@ Objection 2: Further, Christ is called God in respect of His Divine Nature. But 
 
 Objection 3: Further, the word "God" is predicated in common of Father, Son, and Holy Ghost. If, therefore, the Blessed Virgin is Mother of God it seems to follow that she was the Mother of Father, Son, and Holy Ghost, which cannot be allowed. Therefore the Blessed Virgin should not be called Mother of God.
 
-### Answer
+**Answer**
 
 On the contrary, In the chapters of Cyril, approved in the Council of Ephesus (P. 1, Cap. xxvi), we read: "If anyone confess not that the Emmanuel is truly God, and that for this reason the Holy Virgin is the Mother of God, since she begot of her flesh the Word of God made flesh, let him be anathema."
 
 I answer that, As stated above ([4181]Q[16], A[1]), every word that signifies a nature in the concrete can stand for any hypostasis of that nature. Now, since the union of the Incarnation took place in the hypostasis, as above stated ([4182]Q[2], A[3]), it is manifest that this word "God" can stand for the hypostasis, having a human and a Divine nature. Therefore whatever belongs to the Divine and to the human nature can be attributed to that Person: both when a word is employed to stand for it, signifying the Divine Nature, and when a word is used signifying the human nature. Now, conception and birth are attributed to the person and hypostasis in respect of that nature in which it is conceived and born. Since, therefore, the human nature was taken by the Divine Person in the very beginning of the conception, as stated above ([4183]Q[33], A[3]), it follows that it can be truly said that God was conceived and born of the Virgin. Now from this is a woman called a man's mother, that she conceived him and gave birth to him. Therefore the Blessed Virgin is truly called the Mother of God. For the only way in which it could be denied that the Blessed Virgin is the Mother of God would be either if the humanity were first subject to conception and birth, before this man were the Son of God, as Photinus said; or if the humanity were not assumed unto unity of the Person or hypostasis of the Word of God, as Nestorius maintained. But both of these are erroneous. Therefore it is heretical to deny that the Blessed Virgin is the Mother of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This was an argument of Nestorius, and it is solved by saying that, although we do not find it said expressly in Scripture that the Blessed Virgin is the Mother of God, yet we do find it expressly said in Scripture that "Jesus Christ is true God," as may be seen 1 Jn. 5:20, and that the Blessed Virgin is the "Mother of Jesus Christ," which is clearly expressed Mat. 1:18. Therefore, from the words of Scripture it follows of necessity that she is the Mother of God.
 
 Reply to Objection 2: This was an argument of Nestorius. But Cyril, in a letter against Nestorius [*Cf. Acta Conc. Ephes., p. 1, cap. ii], answers it thus: "Just as when a man's soul is born with its body, they are considered as one being: and if anyone wish to say that the mother of the flesh is not the mother of the soul, he says too much. Something like this may be perceived in the generation of Christ. For the Word of God was born of the substance of God the Father: but because He took flesh, we must of necessity confess that in the flesh He was born of a woman." Consequently we must say that the Blessed Virgin is called the Mother of God, not as though she were the Mother of the Godhead, but because she is the mother, according to His human nature, of the Person who has both the divine and the human nature.
 
 Reply to Objection 3: Although the name "God" is common to the three Persons, yet sometimes it stands for the Person of the Father alone, sometimes only for the Person of the Son or of the Holy Ghost, as stated above (Q[16], A[1]; [4184]FP, Q[39], A[4]). So that when we say, "The Blessed Virgin is the Mother of God," this word "God" stands only for the incarnate Person of the Son.
-## Whether There Are Two Filiations In Christ?
+### Whether There Are Two Filiations In Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are two filiations in Christ. For nativity is the cause of filiation. But in Christ there are two nativities. Therefore in Christ there are also two filiations.
 
@@ -117,7 +117,7 @@ Objection 2: Further, filiation, which is said of a man as being the son of some
 
 Objection 3: Further, one of two relatives enters the definition of the other; hence it is clear that of two relatives, one is specified from the other. But one and the same cannot be in diverse species. Therefore it seems impossible that one and the same relation be referred to extremes which are altogether diverse. But Christ is said to be the Son of the Eternal Father and a temporal mother, who are terms altogether diverse. Therefore it seems that Christ cannot, by the same relation, be called the Son of the Father and of His Mother Therefore in Christ there are two filiations.
 
-### Answer
+**Answer**
 
 On the contrary, As Damascene says (De Fide Orth. iii), things pertaining to the nature are multiple in Christ; but not those things that pertain to the Person. But filiation belongs especially to the Person, since it is a personal property, as appears from what was said in the [4186]FP, Q[32], A[3]; [4187]FP, Q[40], A[2]. Therefore there is but one filiation in Christ.
 
@@ -129,16 +129,16 @@ Now, it is manifest that Christ was not born by one and the same nativity, of th
 
 Consequently each opinion is true to a certain extent. For if we consider the adequate causes of filiation, we must needs say that there are two filiations in respect of the twofold nativity. But if we consider the subject of filiation, which can only be the eternal suppositum, then no other than the eternal filiation in Christ is a real relation. Nevertheless, He has the relation of Son in regard to His Mother, because it is implied in the relation of motherhood to Christ. Thus God is called Lord by a relation which is implied in the real relation by which the creature is subject to God. And although lordship is not a real relation in God, yet is He really Lord through the real subjection of the creature to Him. In the same way Christ is really the Son of the Virgin Mother through the real relation of her motherhood to Christ.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Temporal nativity would cause a real temporal filiation in Christ if there were in Him a subject capable of such filiation. But this cannot be; since the eternal suppositum cannot be receptive of a temporal relation, as stated above. Nor can it be said that it is receptive of temporal filiation by reason of the human nature, just as it is receptive of the temporal nativity; because human nature would need in some way to be the subject of filiation, just as in a way it is the subject of nativity; for since an Ethiopian is said to be white by reason of his teeth, it must be that his teeth are the subject of whiteness. But human nature can nowise be the subject of filiation, because this relation regards directly the person.
 
 Reply to Objection 2: Eternal filiation does not depend on a temporal mother, but together with this eternal filiation we understand a certain temporal relation dependent on the mother, in respect of which relation Christ is called the Son of His Mother.
 
 Reply to Objection 3: One and being are mutually consequent, as is said Metaph. iv. Therefore, just as it happens that in one of the extremes of a relation there is something real, whereas in the other there is not something real, but merely a certain aspect, as the Philosopher observes of knowledge and the thing known; so also it happens that on the part of one extreme there is one relation, whereas on the part of the other there are many. Thus in man on the part of his parents there is a twofold relation, the one of paternity, the other of motherhood, which are specifically diverse, inasmuch as the father is the principle of generation in one way, and the mother in another (whereas if many be the principle of one action and in the same way---for instance, if many. together draw a ship along---there would be one and the same relation in all of them); but on the part of the child there is but one filiation in reality, though there be two in aspect, corresponding to the two relations in the parents, as considered by the intellect. And thus in one way there is only one real filiation in Christ, which is in respect of the Eternal Father: yet there is another temporal relation in regard to His temporal mother.
-## Whether Christ Was Born Without His Mother Suffering?
+### Whether Christ Was Born Without His Mother Suffering?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ was not born without His Mother suffering. For just as man's death was a result of the sin of our first parents, according to Gn. 2:17: "In what day soever ye shall eat, ye shall [Vulg.: 'thou shalt eat of it, thou shalt] die"; so were the pains of childbirth, according to Gn. 3:16: "In sorrow shalt thou bring forth children." But Christ was willing to undergo death. Therefore for the same reason it seems that His birth should have been with pain.
 
@@ -146,22 +146,22 @@ Objection 2: Further, the end is proportionate to the beginning. But Christ ende
 
 Objection 3: Further, in the book on the birth of our Saviour [*Protevangelium Jacobi xix, xx] it is related that midwives were present at Christ's birth; and they would be wanted by reason of the mother's suffering pain. Therefore it seems that the Blessed Virgin suffered pain in giving birth to her Child.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Serm. de Nativ. [*Supposititious]), addressing himself to the Virgin-Mother: "In conceiving thou wast all pure, in giving birth thou wast without pain."
 
 I answer that, The pains of childbirth are caused by the infant opening the passage from the womb. Now it has been said above ([4189]Q[28], A[2], Replies to objections), that Christ came forth from the closed womb of His Mother, and, consequently, without opening the passage. Consequently there was no pain in that birth, as neither was there any corruption; on the contrary, there was much joy therein for that God-Man "was born into the world," according to Is. 35:1,2: "Like the lily, it shall bud forth and blossom, and shall rejoice with joy and praise."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The pains of childbirth in the woman follow from the mingling of the sexes. Wherefore (Gn. 3:16) after the words, "in sorrow shalt thou bring forth children," the following are added: "and thou shalt be under thy husband's power." But, as Augustine says (Serm. de Assumpt. B. Virg., [*Supposititious]), from this sentence we must exclude the Virgin-Mother of God; who, "because she conceived Christ without the defilement of sin, and without the stain of sexual mingling, therefore did she bring Him forth without pain, without violation of her virginal integrity, without detriment to the purity of her maidenhood." Christ, indeed, suffered death, but through His own spontaneous desire, in order to atone for us, not as a necessary result of that sentence, for He was not a debtor unto death.
 
 Reply to Objection 2: As "by His death" Christ "destroyed our death" [*Preface of the Mass in Paschal-time], so by His pains He freed us from our pains; and so He wished to die a painful death. But the mother's pains in childbirth did not concern Christ, who came to atone for our sins. And therefore there was no need for His Mother to suffer in giving birth.
 
 Reply to Objection 3: We are told (Lk. 2:7) that the Blessed Virgin herself "wrapped up in swaddling clothes" the Child whom she had brought forth, "and laid Him in a manger." Consequently the narrative of this book, which is apocryphal, is untrue. Wherefore Jerome says (Adv. Helvid. iv): "No midwife was there, no officious women interfered. She was both mother and midwife. 'With swaddling clothes,' says he, 'she wrapped up the child, and laid Him in a manger.'" These words prove the falseness of the apocryphal ravings.
-## Whether Christ Should Have Been Born In Bethlehem?
+### Whether Christ Should Have Been Born In Bethlehem?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ should not have been born in Bethlehem. For it is written (Is. 2:3): "The law shall come forth from Sion, and the Word of the Lord from Jerusalem." But Christ is truly the Word of God. Therefore He should have come into the world at Jerusalem.
 
@@ -169,22 +169,22 @@ Objection 2: Further, it is said (Mat. 2:23) that it is written of Christ that "
 
 Objection 3: Further, for this was our Lord born into the world, that He might make known the true faith. according to Jn. 18:37: "For this was I born, and for this came I into the world; that I should give testimony to the truth." But this would have been easier if He had been born in the city of Rome, which at that time ruled the world; whence Paul, writing to the Romans (1:8) says: "Your faith is spoken of in the whole world." Therefore it seems that He should not have been born in Bethlehem.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mic. 5:2): "And thou, Bethlehem, Ephrata . . . out of thee shall He come forth unto Me, that is to be the ruler in Israel."
 
 I answer that, Christ willed to be born in Bethlehem for two reasons. First, because "He was made . . . of the seed of David according to the flesh," as it is written (Rom. 1:3); to whom also was a special promise made concerning Christ; according to 2 Kings 23:1: "The man to whom it was appointed concerning the Christ of the God of Jacob . . . said." Therefore He willed to be born at Bethlehem, where David was born, in order that by the very birthplace the promise made to David might be shown to be fulfilled. The Evangelist points this out by saying: "Because He was of the house and of the family of David." Secondly, because, as Gregory says (Hom. viii in Evang.): "Bethlehem is interpreted 'the house of bread.' It is Christ Himself who said, 'I am the living Bread which came down from heaven.'"
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As David was born in Bethlehem, so also did he choose Jerusalem to set up his throne there, and to build there the Temple of God, so that Jerusalem was at the same time a royal and a priestly city. Now, Christ's priesthood and kingdom were "consummated" principally in His Passion. Therefore it was becoming that He should choose Bethlehem for His Birthplace and Jerusalem for the scene of His Passion.
 
 Reply to Objection 2: Christ wished "to flower" by His holy life, not in His carnal birth. Therefore He wished to be fostered and brought up at Nazareth. But He wished to be born at Bethlehem away from home; because, as Gregory says (Hom. viii in Evang.), through the human nature which He had taken, He was born, as it were, in a foreign place---foreign not to His power, but to His Nature. And, again, as Bede says on Lk. 2:7: "In order that He who found no room at the inn might prepare many mansions for us in His Father's house."
 
 Reply to Objection 3: According to a sermon in the Council of Ephesus [*P. iii, cap. ix]: "If He had chosen the great city of Rome, the change in the world would be ascribed to the influence of her citizens. If He had been the son of the Emperor, His benefits would have been attributed to the latter's power. But that we might acknowledge the work of God in the transformation of the whole earth, He chose a poor mother and a birthplace poorer still."
-## Whether Christ Was Born At A Fitting Time?
+### Whether Christ Was Born At A Fitting Time?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ was not born at a fitting time. Because Christ came in order to restore liberty to His own. But He was born at a time of subjection---namely, when the whole world, as it were, tributary to Augustus, was being enrolled, at his command as Luke relates (2:1). Therefore it seems that Christ was not born at a fitting time.
 
@@ -192,13 +192,13 @@ Objection 2: Further, the promises concerning the coming of Christ were not made
 
 Objection 3: Further, the time of Christ's presence on earth is compared to the day, because He is the "Light of the world"; wherefore He says Himself (Jn. 9:4): "I must work the works of Him that sent Me, whilst it is day." But in summer the days are longer than in winter. Therefore, since He was born in the depth of winter, eight days before the Kalends of January, it seems that He was not born at a fitting time.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gal. 4:4): "When the fulness of the time was come, God sent His Son, made of a woman, made under the law."
 
 I answer that, There is this difference between Christ and other men, that, whereas they are born subject to the restrictions of time, Christ, as Lord and Maker of all time, chose a time in which to be born, just as He chose a mother and a birthplace. And since "what is of God is well ordered" and becomingly arranged, it follows that Christ was born at a most fitting time.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ came in order to bring us back from a state of bondage to a state of liberty. And therefore, as He took our mortal nature in order to restore us to life, so, as Bede says (Super Luc. ii, 4,5), "He deigned to take flesh at such a time that, shortly after His birth, He would be enrolled in Caesar's census, and thus submit Himself to bondage for the sake of our liberty."
 

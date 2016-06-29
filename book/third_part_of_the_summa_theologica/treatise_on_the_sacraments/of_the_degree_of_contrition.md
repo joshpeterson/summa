@@ -4,9 +4,9 @@ We must now consider the degree of contrition: under which head there are three 
 (1) Whether contrition is the greatest possible sorrow in the world?
 (2) Whether the sorrow of contrition can be too great?
 (3) Whether sorrow for one sin ought to be greater than for another?
-## Whether Contrition Is The Greatest Possible Sorrow In The World?
+### Whether Contrition Is The Greatest Possible Sorrow In The World?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that contrition is not the greatest possible sorrow in the world. For sorrow is the sensation of hurt. But some hurts are more keenly felt than the hurt of sin, e.g. the hurt of a wound. Therefore contrition is not the greatest sorrow.
 
@@ -16,13 +16,13 @@ Objection 3: Further, the more a thing is mingled with its contrary, the less it
 
 Objection 4: Further, the sorrow of contrition is a kind of displeasure. But there are many things more displeasing to the contrite than their past sins; for they would not prefer to suffer the pains of hell rather than to sin. nor to have suffered, nor yet to suffer all manner of temporal punishment; else few would be found contrite. Therefore the sorrow of contrition is not the greatest.
 
-### Answer
+**Answer**
 
 On the contrary, According to Augustine (De Civ. Dei xiv, 7, 9), "all sorrow is based on love." Now the love of charity, on which the sorrow of contrition is based, is the greatest love. Therefore the sorrow of contrition is the greatest sorrow.
 
 I answer that, As stated above ([4828]Q[1], A[2], ad 1), there is a twofold sorrow in contrition: one is in the will, and is the very essence of contrition, being nothing else than displeasure at past sin, and this sorrow, in contrition, surpasses all other sorrows. For the more pleasing a thing is, the more displeasing is its contrary. Now the last end is above all things pleasing: wherefore sin, which turns us away from the last end, should be, above all things, displeasing. The other sorrow is in the sensitive part, and is caused by the former sorrow either from natural necessity, in so far as the lower powers follow the movements of the higher, or from choice, in so far as a penitent excites in himself this sorrow for his sins. In neither of these ways is such sorrow, of necessity, the greatest, because the lower powers are more deeply moved by their own objects than through redundance from the higher powers. Wherefore the nearer the operation of the higher powers approaches to the objects of the lower powers, the more do the latter follow the movement of the former. Consequently there is greater pain in the sensitive part, on account of a sensible hurt, than that which redounds into the sensitive part from the reason; and likewise, that which redounds from the reason when it deliberates on corporeal things, is greater than that which redounds from the reason in considering spiritual things. Therefore the sorrow which results in the sensitive part from the reason's displeasure at sin, is not greater than the other sorrows of which that same part is the subject: and likewise, neither is the sorrow which is assumed voluntarily greater than other sorrows---both because the lower appetite does not obey the higher appetite infallibly, as though in the lower appetite there should arise a passion of such intensity and of such a kind as the higher appetite might ordain---and because the passions are employed by the reason, in acts of virtue, according to a certain measure, which the sorrow that is without virtue sometimes does not observe, but exceeds.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as sensible sorrow is on account of the sensation of hurt, so interior sorrow is on account of the thought of something hurtful. Therefore, although the hurt of sin is not perceived by the external sense, yet it is perceived to be the most grievous hurt by the interior sense or reason.
 
@@ -31,9 +31,9 @@ Reply to Objection 2: Affections of the body are the immediate result of the sen
 Reply to Objection 3: The joy which a penitent has for his sorrow does not lessen his displeasure (for it is not contrary to it), but increases it, according as every operation is increased by the delight which it causes, as stated in Ethic. x, 5. Thus he who delights in learning a science, learns the better, and, in like manner, he who rejoices in his displeasure, is the more intensely displeased. But it may well happen that this joy tempers the sorrow that results from the reason in the sensitive part.
 
 Reply to Objection 4: The degree of displeasure at a thing should be proportionate to the degree of its malice. Now the malice of mortal sin is measured from Him against Whom it is committed, inasmuch as it is offensive to Him; and from him who sins, inasmuch as it is hurtful to him. And, since man should love God more than himself, therefore he should hate sin, as an offense against God, more than as being hurtful to himself. Now it is hurtful to him chiefly because it separates him from God; and in this respect the separation from God which is a punishment, should be more displeasing than the sin itself, as causing this hurt (since what is hated on account of something else, is less hated), but less than the sin, as an offense against God. Again, among all the punishments of malice a certain order is observed according to the degree of the hurt. Consequently, since this is the greatest hurt, inasmuch as it consists in privation of the greatest good, the greatest of all punishments will be separation from God.
-## Whether The Sorrow Of Contrition Can Be Too Great?
+### Whether The Sorrow Of Contrition Can Be Too Great?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the sorrow of contrition cannot be too great. For no sorrow can be more immoderate than that which destroys its own subject. But the sorrow of contrition, if it be so great as to cause death or corruption of the body, is praiseworthy. For Anselm says (Orat. lii): "Would that such were the exuberance of my inmost soul, as to dry up the marrow of my body"; and Augustine [*De Contritione Cordis, work of an unknown author] confesses that "he deserves to blind his eyes with tears." Therefore the sorrow of contrition cannot be too great.
 
@@ -41,20 +41,20 @@ Objection 2: Further, the sorrow of contrition results from the love of charity.
 
 Objection 3: On the contrary, Every moral virtue is destroyed by excess and deficiency. But contrition is an act of a moral virtue, viz. penance, since it is a part of justice. Therefore sorrow for sins can be too great.
 
-### Answer
+**Answer**
 
 
 
 I answer that, Contrition, as regards the sorrow in the reason, i.e. the displeasure, whereby the sin is displeasing through being an offense against God, cannot be too great; even as neither can the love of charity be too great, for when this is increased the aforesaid displeasure is increased also. But, as regards the sensible sorrow, contrition may be too great, even as outward affliction of the body may be too great. In all these things the rule should be the safeguarding of the subject, and of that general well-being which suffices for the fulfillment of one's duties; hence it is written (Rom. 12:1): "Let your sacrifice be reasonable [*Vulg.: 'Present your bodies . . . a reasonable sacrifice']."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Anselm desired the marrow of his body to be dried up by the exuberance of his devotion, not as regards the natural humor, but as to his bodily desires and concupiscences. And, although Augustine acknowledged that he deserved to lose the use of his bodily eyes on account of his sins, because every sinner deserves not only eternal, but also temporal death, yet he did not wish his eyes to be blinded.
 
 Reply to Objection 2: This objection considers the sorrow which is in the reason: while the Third considers the sorrow of the sensitive part.
-## Whether Sorrow For One Sin Should Be Greater Than For Another?
+### Whether Sorrow For One Sin Should Be Greater Than For Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sorrow for one sin need not be greater than for another. For Jerome (Ep. cviii) commends Paula for that "she deplored her slightest sins as much as great ones." Therefore one need not be more sorry for one sin than for another.
 
@@ -62,7 +62,7 @@ Objection 2: Further, the movement of contrition is instantaneous. Now one insta
 
 Objection 3: Further, contrition is for sin chiefly as turning us away from God. But all mortal sins agree in turning us away from God, since they all deprive us of grace whereby the soul is united to God. Therefore we should have equal contrition for all mortal sins.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 25:2): "According to the measure of the sin, shall the measure also of the stripes be." Now, in contrition, the stripes are measured according to the sins, because to contrition is united the purpose of making satisfaction. Therefore contrition should be for one sin more than for another.
 
@@ -70,7 +70,7 @@ I answer that, We may speak of contrition in two ways: first, in so far as it co
 
 Secondly, contrition may be taken in so far as it is directed to all one's sins together, as in the act of justification. Such contrition arises either from the consideration of each single sin, and thus although it is but one act, yet the distinction of the sins remains virtually therein; or, at least, it includes the purpose of thinking of each sin; and in this way too it is habitually more for one than for another.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Paula is commended, not for deploring all her sins equally, but because she grieved for her slight sins as much as though they were grave sins, in comparison with other persons who grieve for their sins: but for graver sins she would have grieved much more.
 

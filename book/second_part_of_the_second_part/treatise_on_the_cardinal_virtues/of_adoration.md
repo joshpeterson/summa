@@ -4,9 +4,9 @@ In due sequence we must consider the external acts of latria, and in the first p
 (1) Whether adoration is an act of latria?
 (2) Whether adoration denotes an internal or an external act?
 (3) Whether adoration requires a definite place?
-## Whether Adoration Is An Act Of Latria Or Religion?
+### Whether Adoration Is An Act Of Latria Or Religion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that adoration is not an act of latria or religion. The worship of religion is due to God alone. But adoration is not due to God alone: since we read (Gn. 18:2) that Abraham adored the angels; and (3 Kings 1:23) that the prophet Nathan, when he was come in to king David, "worshiped him bowing down to the ground." Therefore adoration is not an act of religion.
 
@@ -14,22 +14,22 @@ Objection 2: Further, the worship of religion is due to God as the object of bea
 
 Objection 3: Further, the worship of one same religion is due to the three Persons. But we do not adore the three Persons with one adoration, for we genuflect at each separate invocation of Them [*At the adoration of the Cross, on Good Friday]. Therefore adoration is nol an act of latria.
 
-### Answer
+**Answer**
 
 On the contrary, are the words quoted Mat. 4:10: "The Lord thy God shalt thou adore and Him only shalt thou serve."
 
 I answer that, Adoration is directed to the reverence of the person adored. Now it is evident from what we have said ([3031]Q[81], AA[2],4) that it is proper to religion to show reverence to God. Hence the adoration whereby we adore God is an act of religion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Reverence is due to God on account of His excellence, which is communicated to certain creatures not in equal measure, but according to a measure of proportion; and so the reverence which we pay to God, and which belongs to latria, differs from the reverence which we pay to certain excellent creatures; this belongs to dulia, and we shall speak of it further on ([3032]Q[103]). And since external actions are signs of internal reverence, certain external tokens significative of reverence are offered to creatures of excellence, and among these tokens the chief is adoration: yet there is one thing which is offered to God alone, and that is sacrifice. Hence Augustine says (De Civ. Dei x, 4): "Many tokens of Divine worship are employed in doing honor to men, either through excessive humility, or through pernicious flattery; yet so that those to whom these honors are given are recognized as being men to whom we owe esteem and reverence and even adoration if they be far above us. But who ever thought it his duty to sacrifice to any other than one whom he either knew or deemed or pretended to be a God?" Accordingly it was with the reverence due to an excellent creature that Nathan adored David; while it was the reverence due to God with which Mardochai refused to adore Aman fearing "lest he should transfer the honor of his God to a man" (Esther 13:14).
 
 Reply to Objection 2: Every Divine excellency is included in His majesty: to which it pertains that we should be made happy in Him as in the sovereign good.
 
 Reply to Objection 3: Since there is one excellence of the three Divine Persons, one honor and reverence is due to them and consequently one adoration. It is to represent this that where it is related (Gn. 18:2) that three men appeared to Abraham, we are told that he addressed one, saying: "Lord, if I have found favor in thy sight," etc. The triple genuflection represents the Trinity of Persons, not a difference of adoration.
-## Whether Adoration Denotes An Action Of The Body?
+### Whether Adoration Denotes An Action Of The Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that adoration does not denote an act of the body. It is written (Jn. 4:23): "The true adorers shall adore the Father in spirit and in truth." Now what is done in spirit has nothing to do with an act of the body. Therefore adoration does not denote an act of the body.
 
@@ -37,22 +37,22 @@ Objection 2: Further, the word adoration is taken from "oratio" [prayer]. But pr
 
 Objection 3: Further, acts of the body pertain to sensible knowledge: whereas we approach God not by bodily but by spiritual sense. Therefore adoration does not denote an act of the body.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Ex. 20:5, "Thou shalt not adore them, nor serve them," says: "Thou shalt neither worship them in mind, nor adore them outwardly."
 
 I answer that, As Damascene says (De Fide Orth. iv, 12), since we are composed of a twofold nature, intellectual and sensible, we offer God a twofold adoration; namely, a spiritual adoration, consisting in the internal devotion of the mind; and a bodily adoration, which consists in an exterior humbling of the body. And since in all acts of latria that which is without is referred to that which is within as being of greater import, it follows that exterior adoration is offered on account of interior adoration, in other words we exhibit signs of humility in our bodies in order to incite our affections to submit to God, since it is connatural to us to proceed from the sensible to the intelligible.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Even bodily adoration is done in spirit, in so far as it proceeds from and is directed to spiritual devotion.
 
 Reply to Objection 2: Just as prayer is primarily in the mind, and secondarily expressed in words, as stated above ([3033]Q[83], A[12]), so too adoration consists chiefly in an interior reverence of God, but secondarily in certain bodily signs of humility; thus when we genuflect we signify our weakness in comparison with God, and when we prostrate ourselves we profess that we are nothing of ourselves.
 
 Reply to Objection 3: Though we cannot reach God with the senses, our mind is urged by sensible signs to approach God.
-## Whether Adoration Requires A Definite Place?
+### Whether Adoration Requires A Definite Place?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that adoration does not require a definite place. It is written (Jn. 4:21): "The hour cometh, when you shall neither on this mountain, nor in Jerusalem, adore the Father"; and the same reason seems to apply to other places. Therefore a definite place is not necessary for adoration.
 
@@ -60,13 +60,13 @@ Objection 2: Further, exterior adoration is directed to interior adoration. But 
 
 Objection 3: Further, the same God is adored in the New as in the Old Testament. Now in the Old Testament they adored towards the west, because the door of the Tabernacle looked to the east (Ex. 26:18 seqq.). Therefore for the same reason we ought now to adore towards the west, if any definite place be requisite for adoration.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 56:7): "My house shall be called the house of prayer," which words are also quoted (Jn. 2:16).
 
 I answer that, As stated above [3034](A[2]), the chief part of adoration is the internal devotion of the mind, while the secondary part is something external pertaining to bodily signs. Now the mind internally apprehends God as not comprised in a place; while bodily signs must of necessity be in some definite place and position. Hence a definite place is required for adoration, not chiefly, as though it were essential thereto, but by reason of a certain fittingness, like other bodily signs.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: By these words our Lord foretold the cessation of adoration, both according to the rite of the Jews who adored in Jerusalem, and according to the rite of the Samaritans who adored on Mount Garizim. For both these rites ceased with the advent of the spiritual truth of the Gospel, according to which "a sacrifice is offered to God in every place," as stated in Malach. 1:11.
 

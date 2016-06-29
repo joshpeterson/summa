@@ -13,9 +13,9 @@ We must now consider the object of charity; which consideration will be twofold:
 (10) Whether we ought to love the angels out of charity?
 (11) Whether we ought to love the demons?
 (12) How to enumerate the things we are bound to love out of charity.
-## Whether The Love Of Charity Stops At God, Or Extends To Our Neighbor?
+### Whether The Love Of Charity Stops At God, Or Extends To Our Neighbor?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the love of charity stops at God and does not extend to our neighbor. For as we owe God love, so do we owe Him fear, according Dt. 10:12: "And now Israel, what doth the Lord thy God require of thee, but that thou fear . . . and love Him?" Now the fear with which we fear man, and which is called human fear, is distinct from the fear with which we fear God, and which is either servile or filial, as is evident from what has been stated above ([2530]Q[10], A[2]). Therefore also the love with which we love God, is distinct from the love with which we love our neighbor.
 
@@ -23,7 +23,7 @@ Objection 2: Further, the Philosopher says (Ethic. viii, 8) that "to be loved is
 
 Objection 3: Further, hope begets charity, as a gloss states on Mat. 1:2. Now hope is so due to God that it is reprehensible to hope in man, according to Jer. 17:5: "Cursed be the man that trusteth in man." Therefore charity is so due to God, as not to extend to our neighbor.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Jn. 4:21): "This commandment we have from God, that he, who loveth God, love also his brother."
 
@@ -31,16 +31,16 @@ I answer that, As stated above (Q[17], A[6]; Q[19], A[3]; [2531]FS, Q[54], A[3])
 
 Now the aspect under which our neighbor is to be loved, is God, since what we ought to love in our neighbor is that he may be in God. Hence it is clear that it is specifically the same act whereby we love God, and whereby we love our neighbor. Consequently the habit of charity extends not only to the love of God, but also to the love of our neighbor.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We may fear our neighbor, even as we may love him, in two ways: first, on account of something that is proper to him, as when a man fears a tyrant on account of his cruelty, or loves him by reason of his own desire to get something from him. Such like human fear is distinct from the fear of God, and the same applies to love. Secondly, we fear a man, or love him on account of what he has of God; as when we fear the secular power by reason of its exercising the ministry of God for the punishment of evildoers, and love it for its justice: such like fear of man is not distinct from fear of God, as neither is such like love.
 
 Reply to Objection 2: Love regards good in general, whereas honor regards the honored person's own good, for it is given to a person in recognition of his own virtue. Hence love is not differentiated specifically on account of the various degrees of goodness in various persons, so long as it is referred to one good common to all, whereas honor is distinguished according to the good belonging to individuals. Consequently we love all our neighbors with the same love of charity, in so far as they are referred to one good common to them all, which is God; whereas we give various honors to various people, according to each one's own virtue, and likewise to God we give the singular honor of latria on account of His singular virtue.
 
 Reply to Objection 3: It is wrong to hope in man as though he were the principal author of salvation, but not, to hope in man as helping us ministerially under God. In like manner it would be wrong if a man loved his neighbor as though he were his last end, but not, if he loved him for God's sake; and this is what charity does.
-## Whether We Should Love Charity Out Of Charity?
+### Whether We Should Love Charity Out Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity need not be loved out of charity. For the things to be loved out of charity are contained in the two precepts of charity (Mat. 22:37-39): and neither of them includes charity, since charity is neither God nor our neighbor. Therefore charity need not be loved out of charity.
 
@@ -48,7 +48,7 @@ Objection 2: Further, charity is founded on the fellowship of happiness, as stat
 
 Objection 3: Further, charity is a kind of friendship, as stated above ([2533]Q[23], A[1]). But no man can have friendship for charity or for an accident, since such things cannot return love for love, which is essential to friendship, as stated in Ethic. viii. Therefore charity need not be loved out of charity.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. viii, 8): "He that loves his neighbor, must, in consequence, love love itself." But we love our neighbor out of charity. Therefore it follows that charity also is loved out of charity.
 
@@ -56,16 +56,16 @@ I answer that, Charity is love. Now love, by reason of the nature of the power w
 
 Yet charity is not love simply, but has the nature of friendship, as stated above ([2534]Q[23], A[1]). Now by friendship a thing is loved in two ways: first, as the friend for whom we have friendship, and to whom we wish good things: secondly, as the good which we wish to a friend. It is in the latter and not in the former way that charity is loved out of charity, because charity is the good which we desire for all those whom we love out of charity. The same applies to happiness, and to the other virtues.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God and our neighbor are those with whom we are friends, but love of them includes the loving of charity, since we love both God and our neighbor, in so far as we love ourselves and our neighbor to love God, and this is to love charity.
 
 Reply to Objection 2: Charity is itself the fellowship of the spiritual life, whereby we arrive at happiness: hence it is loved as the good which we desire for all whom we love out of charity.
 
 Reply to Objection 3: This argument considers friendship as referred to those with whom we are friends.
-## Whether Irrational Creatures Also Ought To Be Loved Out Of Charity?
+### Whether Irrational Creatures Also Ought To Be Loved Out Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that irrational creatures also ought to be loved out of charity. For it is chiefly by charity that we are conformed to God. Now God loves irrational creatures out of charity, for He loves "all things that are" (Wis. 11:25), and whatever He loves, He loves by Himself Who is charity. Therefore we also should love irrational creatures out of charity.
 
@@ -73,7 +73,7 @@ Objection 2: Further, charity is referred to God principally, and extends to oth
 
 Objection 3: Further, just as the object of charity is God. so is the object of faith. Now faith extends to irrational creatures, since we believe that heaven and earth were created by God, that the fishes and birds were brought forth out of the waters, and animals that walk, and plants, out of the earth. Therefore charity extends also to irrational creatures.
 
-### Answer
+**Answer**
 
 On the contrary, The love of charity extends to none but God and our neighbor. But the word neighbor cannot be extended to irrational creatures, since they have no fellowship with man in the rational life. Therefore charity does not extend to irrational creatures.
 
@@ -83,14 +83,14 @@ Nevertheless we can love irrational creatures out of charity, if we regard them 
 
 Wherefore the Reply to the First Objection is evident.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The likeness by way of trace does not confer the capacity for everlasting life, whereas the likeness of image does: and so the comparison fails.
 
 Reply to Objection 3: Faith can extend to all that is in any way true, whereas the friendship of charity extends only to such things as have a natural capacity for everlasting life; wherefore the comparison fails.
-## Whether A Man Ought To Love Himself Out Of Charity?
+### Whether A Man Ought To Love Himself Out Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man is bound to love himself out of charity. For Gregory says in a homily (In Evang. xvii) that there "can be no charity between less than two." Therefore no man has charity towards himself.
 
@@ -98,7 +98,7 @@ Objection 2: Further, friendship, by its very nature, implies mutual love and eq
 
 Objection 3: Further, anything relating to charity cannot be blameworthy, since charity "dealeth not perversely" (1 Cor. 23:4). Now a man deserves to be blamed for loving himself, since it is written (2 Tim. 3:1,2): "In the last days shall come dangerous times, men shall be lovers of themselves." Therefore a man cannot love himself out of charity.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lev. 19:18): "Thou shalt love thy friend as thyself." Now we love our friends out of charity. Therefore we should love ourselves too out of charity.
 
@@ -106,14 +106,14 @@ I answer that, Since charity is a kind of friendship, as stated above ([2538]Q[2
 
 Secondly, we may speak of charity in respect of its specific nature, namely as denoting man's friendship with God in the first place, and, consequently, with the things of God, among which things is man himself who has charity. Hence, among these other things which he loves out of charity because they pertain to God, he loves also himself out of charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Gregory speaks there of charity under the general notion of friendship: and the Second Objection is to be taken in the same sense.
 
 Reply to Objection 3: Those who love themselves are to be blamed, in so far as they love themselves as regards their sensitive nature, which they humor. This is not to love oneself truly according to one's rational nature, so as to desire for oneself the good things which pertain to the perfection of reason: and in this way chiefly it is through charity that a man loves himself.
-## Whether A Man Ought To Love His Body Out Of Charity?
+### Whether A Man Ought To Love His Body Out Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man ought not to love his body out of charity. For we do not love one with whom we are unwilling to associate. But those who have charity shun the society of the body, according to Rom. 7:24: "Who shall deliver me from the body of this death?" and Phil. 1:23: "Having a desire to be dissolved and to be with Christ." Therefore our bodies are not to be loved out of charity.
 
@@ -121,7 +121,7 @@ Objection 2: Further, the friendship of charity is based on fellowship in the en
 
 Objection 3: Further, since charity is a kind of friendship it is towards those who are capable of loving in return. But our body cannot love us out of charity. Therefore it should not be loved out of charity.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. i, 23,26) that there are four things that we should love out of charity, and among them he reckons our own body.
 
@@ -129,16 +129,16 @@ I answer that, Our bodies can be considered in two ways: first, in respect of th
 
 Now the nature of our body was created, not by an evil principle, as the Manicheans pretend, but by God. Hence we can use it for God's service, according to Rom. 6:13: "Present . . . your members as instruments of justice unto God." Consequently, out of the love of charity with which we love God, we ought to love our bodies also, but we ought not to love the evil effects of sin and the corruption of punishment; we ought rather, by the desire of charity, to long for the removal of such things.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle did not shrink from the society of his body, as regards the nature of the body, in fact in this respect he was loth to be deprived thereof, according to 2 Cor. 5:4: "We would not be unclothed, but clothed over." He did, however, wish to escape from the taint of concupiscence, which remains in the body, and from the corruption of the body which weighs down the soul, so as to hinder it from seeing God. Hence he says expressly: "From the body of this death."
 
 Reply to Objection 2: Although our bodies are unable to enjoy God by knowing and loving Him, yet by the works which we do through the body, we are able to attain to the perfect knowledge of God. Hence from the enjoyment in the soul there overflows a certain happiness into the body, viz., "the flush of health and incorruption," as Augustine states (Ep. ad Dioscor. cxviii). Hence, since the body has, in a fashion, a share of happiness, it can be loved with the love of charity.
 
 Reply to Objection 3: Mutual love is found in the friendship which is for another, but not in that which a man has for himself, either in respect of his soul, or in respect of his body.
-## Whether We Ought To Love Sinners Out Of Charity?
+### Whether We Ought To Love Sinners Out Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to love sinners out of charity. For it is written (Ps. 118:113): "I have hated the unjust." But David had perfect charity. Therefore sinners should be hated rather than loved, out of charity.
 
@@ -150,7 +150,7 @@ Objection 4: Further, it is proper to friends to rejoice in, and will the same t
 
 Objection 5: Further, it is proper to friends to associate together, according to Ethic. viii. But we ought not to associate with sinners, according to 2 Cor. 6:17: "Go ye out from among them." Therefore we should not love sinners out of charity.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. i, 30) that "when it is said: 'Thou shalt love thy neighbor,' it is evident that we ought to look upon every man as our neighbor." Now sinners do not cease to be men, for sin does not destroy nature. Therefore we ought to love sinners out of charity.
 
@@ -158,7 +158,7 @@ I answer that, Two things may be considered in the sinner: his nature and his gu
 
 On the other hand their guilt is opposed to God, and is an obstacle to happiness. Wherefore, in respect of their guilt whereby they are opposed to God, all sinners are to be hated, even one's father or mother or kindred, according to Lk. 12:26. For it is our duty to hate, in the sinner, his being a sinner, and to love in him, his being a man capable of bliss; and this is to love him truly, out of charity, for God's sake.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The prophet hated the unjust, as such, and the object of his hate was their injustice, which was their evil. Such hatred is perfect, of which he himself says (Ps. 138:22): "I have hated them with a perfect hatred." Now hatred of a person's evil is equivalent to love of his good. Hence also this perfect hatred belongs to charity.
 
@@ -169,9 +169,9 @@ Reply to Objection 3: Such like imprecations which we come across in Holy Writ, 
 Reply to Objection 4: We love sinners out of charity, not so as to will what they will, or to rejoice in what gives them joy, but so as to make them will what we will, and rejoice in what rejoices us. Hence it is written (Jer. 15:19): "They shall be turned to thee, and thou shalt not to be turned to them."
 
 Reply to Objection 5: The weak should avoid associating with sinners, on account of the danger in which they stand of being perverted by them. But it is commendable for the perfect, of whose perversion there is no fear, to associate with sinners that they may convert them. For thus did Our Lord eat and drink with sinners as related by Mat. 9:11-13. Yet all should avoid the society of sinners, as regards fellowship in sin; in this sense it is written (2 Cor. 6:17): "Go out from among them . . . and touch not the unclean thing," i.e. by consenting to sin.
-## Whether Sinners Love Themselves?
+### Whether Sinners Love Themselves?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sinners love themselves. For that which is the principle of sin, is most of all in the sinner. Now love of self is the principle of sin, since Augustine says (De Civ. Dei xiv, 28) that it "builds up the city of Babylon." Therefore sinners most of all love themselves.
 
@@ -179,7 +179,7 @@ Objection 2: Further, sin does not destroy nature. Now it is in keeping with nat
 
 Objection 3: Further, good is beloved by all, as Dionysius states (Div. Nom. iv). Now many sinners reckon themselves to be good. Therefore many sinners love themselves.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 10:6): "He that loveth iniquity, hateth his own soul."
 
@@ -193,16 +193,16 @@ On the other hand, the wicked have no wish to be preserved in the integrity of t
 
 In the same manner it may be shown that the wicked love themselves, as regards the corruption of the outward man, whereas the good do not love themselves thus.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The love of self which is the principle of sin is that which is proper to the wicked, and reaches "to the contempt of God," as stated in the passage quoted, because the wicked so desire external goods as to despise spiritual goods.
 
 Reply to Objection 2: Although natural love is not altogether forfeited by wicked men, yet it is perverted in them, as explained above.
 
 Reply to Objection 3: The wicked have some share of self-love, in so far as they think themselves good. Yet such love of self is not true but apparent: and even this is not possible in those who are very wicked.
-## Whether Charity Requires That We Should Love Our Enemies?
+### Whether Charity Requires That We Should Love Our Enemies?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity does not require us to love our enemies. For Augustine says (Enchiridion lxxiii) that "this great good," namely, the love of our enemies, is "not so universal in its application, as the object of our petition when we say: Forgive us our trespasses." Now no one is forgiven sin without he have charity, because, according to Prov. 10:12, "charity covereth all sins." Therefore charity does not require that we should love our enemies.
 
@@ -210,7 +210,7 @@ Objection 2: Further, charity does not do away with nature. Now everything, even
 
 Objection 3: Further, charity "doth nothing perversely" (1 Cor. 13:4). Now it seems perverse to love one's enemies, as it would be to hate one's friends: hence Joab upbraided David by saying (2 Kings 19:6): "Thou lovest them that hate thee, and thou hatest them that love thee." Therefore charity does not make us love our enemies.
 
-### Answer
+**Answer**
 
 On the contrary, Our Lord said (Mat. 4:44): "Love your enemies."
 
@@ -220,14 +220,14 @@ Secondly love of one's enemies may mean that we love them as to their nature, bu
 
 Thirdly, love of one's enemies may be considered as specially directed to them, namely, that we should have a special movement of love towards our enemies. Charity does not require this absolutely, because it does not require that we should have a special movement of love to every individual man, since this would be impossible. Nevertheless charity does require this, in respect of our being prepared in mind, namely, that we should be ready to love our enemies individually, if the necessity were to occur. That man should actually do so, and love his enemy for God's sake, without it being necessary for him to do so, belongs to the perfection of charity. For since man loves his neighbor, out of charity, for God's sake, the more he loves God, the more does he put enmities aside and show love towards his neighbor: thus if we loved a certain man very much, we would love his children though they were unfriendly towards us. This is the sense in which Augustine speaks in the passage quoted in the First Objection, the Reply to which is therefore evident.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Everything naturally hates its contrary as such. Now our enemies are contrary to us, as enemies, wherefore this itself should be hateful to us, for their enmity should displease us. They are not, however, contrary to us, as men and capable of happiness: and it is as such that we are bound to love them.
 
 Reply to Objection 3: It is wrong to love one's enemies as such: charity does not do this, as stated above.
-## Whether It Is Necessary For Salvation That We Should Show Our Enemies The Signs And Effects Of Love?
+### Whether It Is Necessary For Salvation That We Should Show Our Enemies The Signs And Effects Of Love?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity demands of a man to show his enemy the signs or effects of love. For it is written (1 Jn. 3:18): "Let us not love in word nor in tongue, but in deed and in truth." Now a man loves in deed by showing the one he loves signs and effects of love. Therefore charity requires that a man show his enemies such signs and effects of love.
 
@@ -235,7 +235,7 @@ Objection 2: Further, Our Lord said in the same breath (Mat. 5:44): "Love your e
 
 Objection 3: Further, not only God but also our neighbor is the object of charity. Now Gregory says in a homily for Pentecost (In Evang. xxx), that "love of God cannot be idle for wherever it is it does great things, and if it ceases to work, it is no longer love." Hence charity towards our neighbor cannot be without producing works. But charity requires us to love our neighbor without exception, though he be an enemy. Therefore charity requires us to show the signs and effects of love towards our enemies.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Mat. 5:44, "Do good to them that hate you," says: "To do good to one's enemies is the height of perfection" [*Augustine, Enchiridion lxxiii]. Now charity does not require us to do that which belongs to its perfection. Therefore charity does not require us to show the signs and effects of love to our enemies.
 
@@ -244,9 +244,9 @@ I answer that, The effects and signs of charity are the result of inward love, a
 We must accordingly apply this to the showing of the effects and signs of love. For some of the signs and favors of love are shown to our neighbors in general, as when we pray for all the faithful, or for a whole people, or when anyone bestows a favor on a whole community: and the fulfilment of the precept requires that we should show such like favors or signs of love towards our enemies. For if we did not so, it would be a proof of vengeful spite, and contrary to what is written (Lev. 19:18): "Seek not revenge, nor be mindful of the injury of thy citizens." But there are other favors or signs of love, which one shows to certain persons in particular: and it is not necessary for salvation that we show our enemies such like favors and signs of love, except as regards being ready in our minds, for instance to come to their assistance in a case of urgency, according to Prov. 25:21: "If thy enemy be hungry, give him to eat; if he thirst, give him . . . drink." Outside cases of urgency, to show such like favors to an enemy belongs to the perfection of charity, whereby we not only beware, as in duty bound, of being overcome by evil, but also wish to overcome evil by good [*Rom. 12:21], which belongs to perfection: for then we not only beware of being drawn into hatred on account of the hurt done to us, but purpose to induce our enemy to love us on account of our kindliness.
 
 This suffices for the Replies to the Objections.
-## Whether We Ought To Love The Angels Out Of Charity?
+### Whether We Ought To Love The Angels Out Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we are not bound to love the angels out of charity. For, as Augustine says (De Doctr. Christ. i), charity is a twofold love: the love of God and of our neighbor. Now love of the angels is not contained in the love of God, since they are created substances; nor is it, seemingly, contained in the love of our neighbor, since they do not belong with us to a common species. Therefore we are not bound to love them out of charity.
 
@@ -254,22 +254,22 @@ Objection 2: Further, dumb animals have more in common with us than the angels h
 
 Objection 3: Further, nothing is so proper to friends as companionship with one another (Ethic. viii, 5). But the angels are not our companions; we cannot even see them. Therefore we are unable to give them the friendship of charity.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. i, 30): "If the name of neighbor is given either to those whom we pity, or to those who pity us, it is evident that the precept binding us to love our neighbor includes also the holy angels from whom we receive many merciful favors."
 
 I answer that, As stated above ([2542]Q[23], A[1]), the friendship of charity is founded upon the fellowship of everlasting happiness, in which men share in common with the angels. For it is written (Mat. 22:30) that "in the resurrection . . . men shall be as the angels of God in heaven." It is therefore evident that the friendship of charity extends also to the angels.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our neighbor is not only one who is united to us in a common species, but also one who is united to us by sharing in the blessings pertaining to everlasting life, and it is on the latter fellowship that the friendship of charity is founded.
 
 Reply to Objection 2: Dumb animals are united to us in the proximate genus, by reason of their sensitive nature; whereas we are partakers of everlasting happiness, by reason not of our sensitive nature but of our rational mind wherein we associate with the angels.
 
 Reply to Objection 3: The companionship of the angels does not consist in outward fellowship, which we have in respect of our sensitive nature; it consists in a fellowship of the mind, imperfect indeed in this life, but perfect in heaven, as stated above ([2543]Q[23], A[1], ad 1).
-## Whether We Are Bound To Love The Demons Out Of Charity?
+### Whether We Are Bound To Love The Demons Out Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought to love the demons out of charity. For the angels are our neighbors by reason of their fellowship with us in a rational mind. But the demons also share in our fellowship thus, since natural gifts, such as life and understanding, remain in them unimpaired, as Dionysius states (Div. Nom. iv). Therefore we ought to love the demons out of charity.
 
@@ -277,7 +277,7 @@ Objection 2: Further, the demons differ from the blessed angels in the matter of
 
 Objection 3: Further, we ought, out of charity, to love, as being our neighbors, those from whom we receive favors, as appears from the passage of Augustine quoted above [2544](A[9]). Now the demons are useful to us in many things, for "by tempting us they work crowns for us," as Augustine says (De Civ. Dei xi, 17). Therefore we ought to love the demons out of charity.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 28:18): "Your league with death shall be abolished, and your covenant with hell shall not stand." Now the perfection of a peace and covenant is through charity. Therefore we ought not to have charity for the demons who live in hell and compass death.
 
@@ -285,16 +285,16 @@ I answer that, As stated above [2545](A[6]), in the sinner, we are bound, out of
 
 Secondly, we love a thing as being that which we desire to be enduring as another's good. In this way we love irrational creatures out of charity, in as much as we wish them to endure, to give glory to God and be useful to man, as stated above [2547](A[3]): and in this way too we can love the nature of the demons even out of charity, in as much as we desire those spirits to endure, as to their natural gifts, unto God's glory.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The possession of everlasting happiness is not impossible for the angelic mind as it is for the mind of a demon; consequently the friendship of charity which is based on the fellowship of everlasting life, rather than on the fellowship of nature, is possible towards the angels, but not towards the demons.
 
 Reply to Objection 2: In this life, men who are in sin retain the possibility of obtaining everlasting happiness: not so those who are lost in hell, who, in this respect, are in the same case as the demons.
 
 Reply to Objection 3: That the demons are useful to us is due not to their intention but to the ordering of Divine providence; hence this leads us to be friends, not with them, but with God, Who turns their perverse intention to our profit.
-## Whether Four Things Are Rightly Reckoned As To Be Loved Out Of Charity, Viz. God, Our Neighbor, Our Body And Ourselves?
+### Whether Four Things Are Rightly Reckoned As To Be Loved Out Of Charity, Viz. God, Our Neighbor, Our Body And Ourselves?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that these four things are not rightly reckoned as to be loved out of charity, to wit: God, our neighbor, our body, and ourselves. For, as Augustine states (Tract. super Joan. lxxxiii), "he that loveth not God, loveth not himself." Hence love of oneself is included in the love of God. Therefore love of oneself is not distinct from the love of God.
 
@@ -302,7 +302,7 @@ Objection 2: Further, a part ought not to be condivided with the whole. But our 
 
 Objection 3: Further, just as a man has a body, so has his neighbor. Since then the love with which a man loves his neighbor, is distinct from the love with which a man loves himself, so the love with which a man loves his neighbor's body, ought to be distinct from the love with which he loves his own body. Therefore these four things are not rightly distinguished as objects to be loved out of charity.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. i, 23): "There are four things to be loved; one which is above us," namely God, "another, which is ourselves, a third which is nigh to us," namely our neighbor, "and a fourth which is beneath us," namely our own body.
 
@@ -310,7 +310,7 @@ I answer that, As stated above ([2548]Q[23], AA[1],5), the friendship of charity
 
 Now the source from which happiness flows is lovable by reason of its being the cause of happiness: that which is a partaker of happiness, can be an object of love for two reasons, either through being identified with ourselves, or through being associated with us in partaking of happiness, and in this respect, there are two things to be loved out of charity, in as much as man loves both himself and his neighbor.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The different relations between a lover and the various things loved make a different kind of lovableness. Accordingly, since the relation between the human lover and God is different from his relation to himself, these two are reckoned as distinct objects of love, for the love of the one is the cause of the love of the other, so that the former love being removed the latter is taken away.
 

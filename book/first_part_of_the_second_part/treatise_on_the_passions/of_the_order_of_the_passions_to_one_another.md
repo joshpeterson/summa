@@ -5,9 +5,9 @@ We must now consider the order of the passions to one another: and under this he
 (2) The relation of the concupiscible passions to one another;
 (3) The relation of the irascible passions to one another;
 (4) The four principal passions.
-## Whether The Irascible Passions Precede The Concupiscible Passions, Or Vice Versa?
+### Whether The Irascible Passions Precede The Concupiscible Passions, Or Vice Versa?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the irascible passions precede the concupiscible passions. For the order of the passions is that of their objects. But the object of the irascible faculty is the difficult good, which seems to be the highest good. Therefore the irascible passions seem to precede the concupiscible passions.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the mover precedes that which is moved. But the irascible 
 
 Objection 3: Further, joy and sadness are concupiscible passions. But joy and sadness succeed to the irascible passions: for the Philosopher says (Ethic. iv, 5) that"retaliation causes anger to cease, because it produces pleasure instead of the previous pain." Therefore the concupiscible passions follow the irascible passions.
 
-### Answer
+**Answer**
 
 On the contrary, The concupiscible passions regard the absolute good, while the irascible passions regard a restricted, viz. the difficult, good. Since, therefore, the absolute good precedes the restricted good, it seems that the concupiscible passions precede the irascible.
 
@@ -27,14 +27,14 @@ But if we compare the irascible passions to those concupiscible passions that de
 
 Accordingly the passions of the irascible faculty stand between those concupiscible passions that denote movement towards good or evil, and those concupiscible passions that denote rest in good or evil. And it is therefore evident that the irascible passions both arise from and terminate in the passions of the concupiscible faculty.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument would prove, if the formal object of the concupiscible faculty were something contrary to the arduous, just as the formal object of the irascible faculty is that which is arduous. But because the object of the concupiscible faculty is good absolutely, it naturally precedes the object of the irascible, as the common precedes the proper.
 
 Reply to Objection 2: The remover of an obstacle is not a direct but an accidental mover: and here we are speaking of passions as directly related to one another. Moreover, the irascible passion removes the obstacle that hinders the concupiscible from resting in its object. Wherefore it only follows that the irascible passions precede those concupiscible passions that connote rest. The third object leads to the same conclusion.
-## Whether Love Is The First Of The Concupiscible Passions?
+### Whether Love Is The First Of The Concupiscible Passions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that love is not the first of the concupiscible passions. For the concupiscible faculty is so called from concupiscence, which is the same passion as desire. But "things are named from their chief characteristic" (De Anima ii, 4). Therefore desire takes precedence of love.
 
@@ -42,7 +42,7 @@ Objection 2: Further, love implies a certain union; since it is a "uniting and b
 
 Objection 3: Further, the cause precedes its effect. But pleasure is sometimes the cause of love: since some love on account of pleasure (Ethic. viii, 3,4). Therefore pleasure precedes love; and consequently love is not the first of the concupiscible passions.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xiv, 7,9) that all the passions are caused by love: since "love yearning for the beloved object, is desire; and, having and enjoying it, is joy." Therefore love is the first of the concupiscible passions.
 
@@ -50,16 +50,16 @@ I answer that, Good and evil are the object of the concupiscible faculty. Now go
 
 Now good has the aspect of an end, and the end is indeed first in the order of intention, but last in the order of execution. Consequently the order of the concupiscible passions can be considered either in the order of intention or in the order of execution. In the order of execution, the first place belongs to that which takes place first in the thing that tends to the end. Now it is evident that whatever tends to an end, has, in the first place, an aptitude or proportion to that end, for nothing tends to a disproportionate end; secondly, it is moved to that end; thirdly, it rests in the end, after having attained it. And this very aptitude or proportion of the appetite to good is love, which is complacency in good; while movement towards good is desire or concupiscence; and rest in good is joy or pleasure. Accordingly in this order, love precedes desire, and desire precedes pleasure. But in the order of intention, it is the reverse: because the pleasure intended causes desire and love. For pleasure is the enjoyment of the good, which enjoyment is, in a way, the end, just as the good itself is, as stated above ([1225]Q[11], A[3], ad 3).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We name a thing as we understand it, for "words are signs of thoughts," as the Philosopher states (Peri Herm. i, 1). Now in most cases we know a cause by its effect. But the effect of love, when the beloved object is possessed, is pleasure: when it is not possessed, it is desire or concupiscence: and, as Augustine says (De Trin. x, 12), "we are more sensible to love, when we lack that which we love." Consequently of all the concupiscible passions, concupiscence is felt most; and for this reason the power is named after it.
 
 Reply to Objection 2: The union of lover and beloved is twofold. There is real union, consisting in the conjunction of one with the other. This union belongs to joy or pleasure, which follows desire. There is also an affective union, consisting in an aptitude or proportion, in so far as one thing, from the very fact of its having an aptitude for and an inclination to another, partakes of it: and love betokens such a union. This union precedes the movement of desire.
 
 Reply to Objection 3: Pleasure causes love, in so far as it precedes love in the order of intention.
-## Whether Hope Is The First Of The Irascible Passions?
+### Whether Hope Is The First Of The Irascible Passions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hope is not the first of the irascible passions. Because the irascible faculty is denominated from anger. Since, therefore, "things are names from their chief characteristic" (cf. A[2], OBJ[1]), it seems that anger precedes and surpasses hope.
 
@@ -67,7 +67,7 @@ Objection 2: Further, the object of the irascible faculty is something arduous. 
 
 Objection 3: Further, when a thing is moved towards an end, the movement of withdrawal precedes the movement of approach. But fear and despair imply withdrawal from something; while daring and hope imply approach towards something. Therefore fear and despair precede hope and daring.
 
-### Answer
+**Answer**
 
 On the contrary, The nearer a thing is to the first, the more it precedes others. But hope is nearer to love, which is the first of the passions. Therefore hope is the first of the passions in the irascible faculty.
 
@@ -77,16 +77,16 @@ Since then in order of generation or execution, proportion or aptitude to the en
 
 And if we wish to know the order of all the passions in the way of generation, love and hatred are first; desire and aversion, second; hope and despair, third; fear and daring, fourth; anger, fifth; sixth and last, joy and sadness, which follow from all the passions, as stated in Ethic. ii, 5: yet so that love precedes hatred; desire precedes aversion; hope precedes despair; fear precedes daring; and joy precedes sadness, as may be gathered from what has been stated above.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Because anger arises from the other passions, as an effect from the causes that precede it, it is from anger, as being more manifest than the other passions, that the power takes its name.
 
 Reply to Objection 2: It is not the arduousness but the good that is the reason for approach or desire. Consequently hope, which regards good more directly, takes precedence: although at times daring or even anger regards something more arduous.
 
 Reply to Objection 3: The movement of the appetite is essentially and directly towards the good as towards its proper object; its movement from evil results from this. For the movement of the appetitive part is in proportion, not to natural movement, but to the intention of nature, which intends the end before intending the removal of a contrary, which removal is desired only for the sake of obtaining the end.
-## Whether These Are The Four Principal Passions: Joy, Sadness, Hope And Fear?
+### Whether These Are The Four Principal Passions: Joy, Sadness, Hope And Fear?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that joy, sadness, hope and fear are not the four principal passions. For Augustine (De Civ. Dei xiv, 3,[7] sqq.) omits hope and puts desire in its place.
 
@@ -94,7 +94,7 @@ Objection 2: Further, there is a twofold order in the passions of the soul: the 
 
 Objection 3: Further, just as daring is caused by hope, so fear is caused by despair. Either, therefore, hope and despair should be reckoned as principal passions, since they cause others: or hope and daring, from being akin to one another.
 
-### Answer
+**Answer**
 
 On the contrary, Boethius (De Consol. i) in enumerating the four principal passions, says:
 
@@ -102,7 +102,7 @@ I answer that, These four are commonly called the principal passions. Two of the
 
 As to the other passions that regard good or evil, present or future, they all culminate in these four. For this reason some have said that these four are the principal passions, because they are general passions; and this is true, provided that by hope and fear we understand the appetite's common tendency to desire or shun something.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine puts desire or covetousness in place of hope, in so far as they seem to regard the same object, viz. some future good.
 

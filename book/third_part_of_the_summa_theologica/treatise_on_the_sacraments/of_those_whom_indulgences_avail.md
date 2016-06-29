@@ -5,15 +5,15 @@ We must now consider those whom indulgences avail: under which head there are fo
 (2) Whether they avail religious?
 (3) Whether they avail a person who does not fulfill the conditions for which the indulgence is given?
 (4) Whether they avail him who grants them?
-## Whether An Indulgence Avails Those Who Are In Mortal Sin?
+### Whether An Indulgence Avails Those Who Are In Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an indulgence avails those who are in mortal sin. For one person can merit grace and many other good things for another, even though he be in mortal sin. Now indulgences derive their efficacy from the application of the saints' merits to an individual. Therefore they are effective in one who is in mortal sin.
 
 Objection 2: Further, the greater the need, the more room there is for pity. Now a man who is in mortal sin is in very great need. Therefore all the more should pity be extended to him by indulgence.
 
-### Answer
+**Answer**
 
 On the contrary, A dead member receives no inflow from the other members that are living. But one who is in mortal sin, is like a dead member. Therefore he receives no inflow, through indulgences, from the merits of living members.
 
@@ -23,50 +23,50 @@ But this opinion seems to be untrue. Because, although those merits which are ap
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Although he who is in mortal sin is in greater need of help, yet he is less capable of receiving it.
-## Whether Indulgences Avail Religious?
+### Whether Indulgences Avail Religious?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that indulgences do not avail religious. For there is no reason to bring supplies to those who supply others out of their own abundance. Now indulgences are derived from the abundance of works of satisfaction to be found in religious. Therefore it is unreasonable for them to profit by indulgences.
 
 Objection 2: Further, nothing detrimental to religious life should be done in the Church. But, if indulgences were to avail religious, this would be detrimental to regular discipline, because religious would become lax on account of indulgences, and would neglect the penances imposed in chapter. Therefore indulgences do not avail religious.
 
-### Answer
+**Answer**
 
 On the contrary, Good brings harm to no man. But the religious life is a good thing. Therefore it does not take away from religious the profit to be derived from indulgences.
 
 I answer that, Indulgences avail both seculars and religious, provided they have charity and satisfy the conditions for gaining the indulgences: for religious can be helped by indulgences no less than persons living in the world.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although religious are in the state of perfection, yet they cannot live without sin: and so if at times they are liable to punishment on account of some sin, they can expiate this debt by means of indulgences. For it is not unreasonable that one who is well off absolutely speaking, should be in want at times and in some respect, and thus need to be supplied with what he lacks. Hence it is written (Gal. 6:2): "Bear ye one another's burdens."
 
 Reply to Objection 2: There is no reason why indulgences should be detrimental to religious observance, because, as to the reward of eternal life, religious merit more by observing their rule than by gaining indulgences; although, as to the remission of punishment, which is a lesser good, they merit less. Nor again do indulgences remit the punishment enjoined in chapter, because the chapter is a judicial rather than a penitential tribunal. hence even those who are not priests hold chapter. Absolution from punishment enjoined or due for sin is given in the tribunal of Penance.
-## Whether An Indulgence Can Ever Be Granted To One Who Does Not Fulfill The Conditions Required?
+### Whether An Indulgence Can Ever Be Granted To One Who Does Not Fulfill The Conditions Required?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an indulgence can sometimes be granted to one who does not fulfill the required conditions. Because when a person is unable to perform a certain action his will is taken for the deed. Now sometimes an indulgence is to be gained by giving an alms, which a poor man is unable to do, though he would do so willingly. Therefore he can gain the indulgence.
 
 Objection 2: Further, one man can make satisfaction for another. Now an indulgence is directed to the remission of punishment, just as satisfaction is. Therefore one man can gain an indulgence for another; and so a man can gain an indulgence without doing that for which the indulgence is given.
 
-### Answer
+**Answer**
 
 On the contrary, If the cause is removed, the effect is removed. If therefore a person fails to do that for which an indulgence is granted, and which is the cause of the indulgence, he does not gain the indulgence.
 
 I answer that, Failing the condition of a grant, no grant ensues. Hence, as an indulgence is granted on the condition that a person does or gives a certain thing, if he fails in this, he does not gain the indulgence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This is true of the essential reward, but not of certain accidental rewards, such as the remission of punishment and the like.
 
 Reply to Objection 2: A person can by his intention apply his own action to whomever he lists, and so he can make satisfaction for whomever he chooses. On the other hand, an indulgence cannot be applied to someone, except in accordance with the intention of the grantor. Hence, since he applies it to the doer or giver of a particular action or thing, the doer cannot transfer this intention to another. If, however, the indulgence were expressed thus: "Whosoever does this, or for whomsoever this is done, shall gain so much indulgence," it would avail the person for whom it is done. Nor would the person who does this action, give the indulgence to another, but he who grants the indulgence in this form.
-## Whether An Indulgence Avails The Person Who Grants It?
+### Whether An Indulgence Avails The Person Who Grants It?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an indulgence does not avail him who grants it. For the granting of an indulgence belongs to jurisdiction. Now no one can exercise jurisdiction on himself. thus no one can excommunicate himself. Therefore no one can participate in an indulgence granted by himself.
 
@@ -74,13 +74,13 @@ Objection 2: Further, if this were possible, he who grants an indulgence might g
 
 Objection 3: Further, to grant indulgences and to excommunicate belong to the same power. Now a man cannot excommunicate himself. Therefore he cannot share in the indulgence of which he is the grantor.
 
-### Answer
+**Answer**
 
 On the contrary, He would be worse off than others if he could not make use of the Church's treasury which he dispenses to others.
 
 I answer that, An indulgence should be given for some reason, in order for anyone to be enticed by the indulgence to perform some action that conduces to the good of the Church and to the honor of God. Now the prelate to whom is committed the care of the Church's good and of the furthering of God's honor, does not need to entice himself thereto. Therefore he cannot grant an indulgence to himself alone; but he can avail himself of an indulgence that he grants for others, since it is based on a cause for granting it to them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A man cannot exercise an act of jurisdiction on himself, but a prelate can avail himself of those things which are granted to others by the authority of his jurisdiction, both in temporal and in spiritual matters: thus also a priest gives himself the Eucharist which he gives to others. And so a bishop too can apply to himself the suffrages of the Church which he dispenses to others, the immediate effect of which suffrages, and not of his jurisdiction, is the remission of punishment by means of indulgences.
 

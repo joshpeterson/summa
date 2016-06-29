@@ -5,9 +5,9 @@ We must now consider Peace, under which head there are four points of inquiry:
 (2) Whether all things desire peace?
 (3) Whether peace is an effect of charity?
 (4) Whether peace is a virtue?
-## Whether Peace Is The Same As Concord?
+### Whether Peace Is The Same As Concord?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that peace is the same as concord. For Augustine says (De Civ. Dei xix, 13): "Peace among men is well ordered concord." Now we are speaking here of no other peace than that of men. Therefore peace is the same as concord.
 
@@ -15,7 +15,7 @@ Objection 2: Further, concord is union of wills. Now the nature of peace consist
 
 Objection 3: Further, things whose opposites are identical are themselves identical. Now the one same thing is opposed to concord and peace, viz. dissension; hence it is written (1 Cor. 16:33): "God is not the God of dissension but of peace." Therefore peace is the same as concord.
 
-### Answer
+**Answer**
 
 On the contrary, There can be concord in evil between wicked men. But "there is no peace to the wicked" (Is. 48:22). Therefore peace is not the same as concord.
 
@@ -23,16 +23,16 @@ I answer that, Peace includes concord and adds something thereto. Hence wherever
 
 For concord, properly speaking, is between one man and another, in so far as the wills of various hearts agree together in consenting to the same thing. Now the heart of one man may happen to tend to diverse things, and this in two ways. First, in respect of the diverse appetitive powers: thus the sensitive appetite tends sometimes to that which is opposed to the rational appetite, according to Gal. 5:17: "The flesh lusteth against the spirit." Secondly, in so far as one and the same appetitive power tends to diverse objects of appetite, which it cannot obtain all at the same time: so that there must needs be a clashing of the movements of the appetite. Now the union of such movements is essential to peace, because man's heart is not at peace, so long as he has not what he wants, or if, having what he wants, there still remains something for him to want, and which he cannot have at the same time. On the other hand this union is not essential to concord: wherefore concord denotes union of appetites among various persons, while peace denotes, in addition to this union, the union of the appetites even in one man.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is speaking there of that peace which is between one man and another, and he says that this peace is concord, not indeed any kind of concord, but that which is well ordered, through one man agreeing with another in respect of something befitting to both of them . For if one man concord with another, not of his own accord, but through being forced, as it were, by the fear of some evil that besets him, such concord is not really peace, because the order of each concordant is not observed, but is disturbed by some fear-inspiring cause. For this reason he premises that "peace is tranquillity of order," which tranquillity consists in all the appetitive movements in one man being set at rest together.
 
 Reply to Objection 2: If one man consent to the same thing together with another man, his consent is nevertheless not perfectly united to himself, unless at the same time all his appetitive movements be in agreement.
 
 Reply to Objection 3: A twofold dissension is opposed to peace, namely dissension between a man and himself, and dissension between one man and another. The latter alone is opposed to concord.
-## Whether All Things Desire Peace?
+### Whether All Things Desire Peace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that not all things desire peace. For, according to Dionysius (Div. Nom. xi), peace "unites consent." But there cannot be unity of consent in things which are devoid of knowledge. Therefore such things cannot desire peace.
 
@@ -42,13 +42,13 @@ Objection 3: Further, good alone is an object of appetite. But a certain peace i
 
 Objection 4: Further, that which all desire is, seemingly, the sovereign good which is the last end. But this is not true of peace, since it is attainable even by a wayfarer; else Our Lord would vainly command (Mk. 9:49): "Have peace among you." Therefore all things do not desire peace.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xix, 12,14) that "all things desire peace": and Dionysius says the same (Div. Nom. xi).
 
 I answer that, From the very fact that a man desires a certain thing it follows that he desires to obtain what he desires, and, in consequence, to remove whatever may be an obstacle to his obtaining it. Now a man may be hindered from obtaining the good he desires, by a contrary desire either of his own or of some other, and both are removed by peace, as stated above. Hence it follows of necessity that whoever desires anything desires peace, in so far as he who desires anything, desires to attain, with tranquillity and without hindrance, to that which he desires: and this is what is meant by peace which Augustine defines (De Civ. Dei xix, 13) "the tranquillity of order."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Peace denotes union not only of the intellective or rational appetite, or of the animal appetite, in both of which consent may be found, but also of the natural appetite. Hence Dionysius says that "peace is the cause of consent and of connaturalness," where "consent" denotes the union of appetites proceeding from knowledge, and "connaturalness," the union of natural appetites.
 
@@ -57,9 +57,9 @@ Reply to Objection 2: Even those who seek war and dissension, desire nothing but
 Reply to Objection 3: Peace gives calm and unity to the appetite. Now just as the appetite may tend to what is good simply, or to what is good apparently, so too, peace may be either true or apparent. There can be no true peace except where the appetite is directed to what is truly good, since every evil, though it may appear good in a way, so as to calm the appetite in some respect, has, nevertheless many defects, which cause the appetite to remain restless and disturbed. Hence true peace is only in good men and about good things. The peace of the wicked is not a true peace but a semblance thereof, wherefore it is written (Wis. 14:22): "Whereas they lived in a great war of ignorance, they call so many and so great evils peace."
 
 Reply to Objection 4: Since true peace is only about good things, as the true good is possessed in two ways, perfectly and imperfectly, so there is a twofold true peace. One is perfect peace. It consists in the perfect enjoyment of the sovereign good, and unites all one's desires by giving them rest in one object. This is the last end of the rational creature, according to Ps. 147:3: "Who hath placed peace in thy borders." The other is imperfect peace, which may be had in this world, for though the chief movement of the soul finds rest in God, yet there are certain things within and without which disturb the peace.
-## Whether Peace Is The Proper Effect Of Charity?
+### Whether Peace Is The Proper Effect Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that peace is not the proper effect of charity. For one cannot have charity without sanctifying grace. But some have peace who have not sanctifying grace, thus heathens sometimes have peace. Therefore peace is not the effect of charity.
 
@@ -67,22 +67,22 @@ Objection 2: Further, if a certain thing is caused by charity, its contrary is n
 
 Objection 3: Further, the same thing is not the proper effect of different things. Now peace is the effect of justice, according to Is. 32:17: "And the work of justice shall be peace." Therefore it is not the effect of charity.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 118:165): "Much peace have they that love Thy Law."
 
 I answer that, Peace implies a twofold union, as stated above [2586](A[1]). The first is the result of one's own appetites being directed to one object; while the other results from one's own appetite being united with the appetite of another: and each of these unions is effected by charity---the first, in so far as man loves God with his whole heart, by referring all things to Him, so that all his desires tend to one object---the second, in so far as we love our neighbor as ourselves, the result being that we wish to fulfil our neighbor's will as though it were ours: hence it is reckoned a sign of friendship if people "make choice of the same things" (Ethic. ix, 4), and Tully says (De Amicitia) that friends "like and dislike the same things" (Sallust, Catilin.)
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Without sin no one falls from a state of sanctifying grace, for it turns man away from his due end by making him place his end in something undue: so that his appetite does not cleave chiefly to the true final good, but to some apparent good. Hence, without sanctifying grace, peace is not real but merely apparent.
 
 Reply to Objection 2: As the Philosopher says (Ethic. ix, 6) friends need not agree in opinion, but only upon such goods as conduce to life, and especially upon such as are important; because dissension in small matters is scarcely accounted dissension. Hence nothing hinders those who have charity from holding different opinions. Nor is this an obstacle to peace, because opinions concern the intellect, which precedes the appetite that is united by peace. In like manner if there be concord as to goods of importance, dissension with regard to some that are of little account is not contrary to charity: for such a dissension proceeds from a difference of opinion, because one man thinks that the particular good, which is the object of dissension, belongs to the good about which they agree, while the other thinks that it does not. Accordingly such like dissension about very slight matters and about opinions is inconsistent with a state of perfect peace, wherein the truth will be known fully, and every desire fulfilled; but it is not inconsistent with the imperfect peace of the wayfarer.
 
 Reply to Objection 3: Peace is the "work of justice" indirectly, in so far as justice removes the obstacles to peace: but it is the work of charity directly, since charity, according to its very nature, causes peace. For love is "a unitive force" as Dionysius says (Div. Nom. iv): and peace is the union of the appetite's inclinations.
-## Whether Peace Is A Virtue?
+### Whether Peace Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that peace is a virtue. For nothing is a matter of precept, unless it be an act of virtue. But there are precepts about keeping peace, for example: "Have peace among you" (Mk. 9:49). Therefore peace is a virtue.
 
@@ -90,7 +90,7 @@ Objection 2: Further, we do not merit except by acts of virtue. Now it is merito
 
 Objection 3: Further, vices are opposed to virtues. But dissensions, which are contrary to peace, are numbered among the vices (Gal. 5:20). Therefore peace is a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Virtue is not the last end, but the way thereto. But peace is the last end, in a sense, as Augustine says (De Civ. Dei xix, 11). Therefore peace is not a virtue.
 
@@ -98,7 +98,7 @@ I answer that, As stated above ([2587]Q[28], A[4]), when a number of acts all pr
 
 Since then charity causes peace precisely because it is love of God and of our neighbor, as shown above [2588](A[3]), there is no other virtue except charity whose proper act is peace, as we have also said in reference to joy (Q[28], A[4]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We are commanded to keep peace because it is an act of charity; and for this reason too it is a meritorious act. Hence it is placed among the beatitudes, which are acts of perfect virtue, as stated above ([2589]FS, Q[69], AA[1],3). It is also numbered among the fruits, in so far as it is a final good, having spiritual sweetness.
 

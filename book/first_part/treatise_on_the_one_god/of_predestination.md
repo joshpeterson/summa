@@ -9,9 +9,9 @@ After consideration of divine providence, we must treat of predestination and th
 (6) of the certainty of predestination; whether the predestined will infallibly be saved?
 (7) Whether the number of the predestined is certain?
 (8) Whether predestination can be furthered by the prayers of the saints?
-## Whether Men Are Predestined By God?
+### Whether Men Are Predestined By God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that men are not predestined by God, for Damascene says (De Fide Orth. ii, 30): "It must be borne in mind that God foreknows but does not predetermine everything, since He foreknows all that is in us, but does not predetermine it all." But human merit and demerit are in us, forasmuch as we are the masters of our own acts by free will. All that pertains therefore to merit or demerit is not predestined by God; and thus man's predestination is done away.
 
@@ -21,13 +21,13 @@ Objection 3: Further, the angels are capable of beatitude, as well as men. But p
 
 Objection 4: Further, the benefits God confers upon men are revealed by the Holy Ghost to holy men according to the saying of the Apostle (1 Cor. 2:12): "Now we have received not the spirit of this world, but the Spirit that is of God: that we may know the things that are given us from God." Therefore if man were predestined by God, since predestination is a benefit from God, his predestination would be made known to each predestined; which is clearly false.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Rom. 8:30): "Whom He predestined, them He also called."
 
 I answer that, It is fitting that God should predestine men. For all things are subject to His providence, as was shown above ([165]Q[22], A[2]). Now it belongs to providence to direct things towards their end, as was also said ([166]Q[22], AA[1],2). The end towards which created things are directed by God is twofold; one which exceeds all proportion and faculty of created nature; and this end is life eternal, that consists in seeing God which is above the nature of every creature, as shown above ([167]Q[12], A[4]). The other end, however, is proportionate to created nature, to which end created being can attain according to the power of its nature. Now if a thing cannot attain to something by the power of its nature, it must be directed thereto by another; thus, an arrow is directed by the archer towards a mark. Hence, properly speaking, a rational creature, capable of eternal life, is led towards it, directed, as it were, by God. The reason of that direction pre-exists in God; as in Him is the type of the order of all things towards an end, which we proved above to be providence. Now the type in the mind of the doer of something to be done, is a kind of pre-existence in him of the thing to be done. Hence the type of the aforesaid direction of a rational creature towards the end of life eternal is called predestination. For to destine, is to direct or send. Thus it is clear that predestination, as regards its objects, is a part of providence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Damascene calls predestination an imposition of necessity, after the manner of natural things which are predetermined towards one end. This is clear from his adding: "He does not will malice, nor does He compel virtue." Whence predestination is not excluded by Him.
 
@@ -36,9 +36,9 @@ Reply to Objection 2: Irrational creatures are not capable of that end which exc
 Reply to Objection 3: Predestination applies to angels, just as it does to men, although they have never been unhappy. For movement does not take its species from the term "wherefrom" but from the term "whereto." Because it matters nothing, in respect of the notion of making white, whether he who is made white was before black, yellow or red. Likewise it matters nothing in respect of the notion of predestination whether one is predestined to life eternal from the state of misery or not. Although it may be said that every conferring of good above that which is due pertains to mercy; as was shown previously ([168]Q[21], AA[3],4).
 
 Reply to Objection 4: Even if by a special privilege their predestination were revealed to some, it is not fitting that it should be revealed to everyone; because, if so, those who were not predestined would despair; and security would beget negligence in the predestined.
-## Whether Predestination Places Anything In The Predestined?
+### Whether Predestination Places Anything In The Predestined?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that predestination does place something in the predestined. For every action of itself causes passion. If therefore predestination is action in God, predestination must be passion in the predestined.
 
@@ -48,13 +48,13 @@ Objection 3: Further, preparation is something in the thing prepared. But predes
 
 Objection 4: Further, nothing temporal enters into the definition of eternity. But grace, which is something temporal, is found in the definition of predestination. For predestination is the preparation of grace in the present; and of glory in the future. Therefore predestination is not anything eternal. So it must needs be that it is in the predestined, and not in God; for whatever is in Him is eternal.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Praed. Sanct. ii, 14) that "predestination is the foreknowledge of God's benefits." But foreknowledge is not in the things foreknown, but in the person who foreknows them. Therefore, predestination is in the one who predestines, and not in the predestined.
 
 I answer that, Predestination is not anything in the predestined; but only in the person who predestines. We have said above that predestination is a part of providence. Now providence is not anything in the things provided for; but is a type in the mind of the provider, as was proved above ([169]Q[22], A[1]). But the execution of providence which is called government, is in a passive way in the thing governed, and in an active way in the governor. Whence it is clear that predestination is a kind of type of the ordering of some persons towards eternal salvation, existing in the divine mind. The execution, however, of this order is in a passive way in the predestined, but actively in God. The execution of predestination is the calling and magnification; according to the Apostle (Rom. 8:30): "Whom He predestined, them He also called and whom He called, them He also magnified [Vulg. 'justified']."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Actions passing out to external matter imply of themselves passion---for example, the actions of warming and cutting; but not so actions remaining in the agent, as understanding and willing, as said above ([170]Q[14], A[2]; [171]Q[18], A[3], ad 1). Predestination is an action of this latter class. Wherefore, it does not put anything in the predestined. But its execution, which passes out to external things, has an effect in them.
 
@@ -63,9 +63,9 @@ Reply to Objection 2: Destination sometimes denotes a real mission of someone to
 Reply to Objection 3: Preparation is twofold: of the patient in respect to passion and this is in the thing prepared; and of the agent to action, and this is in the agent. Such a preparation is predestination, and as an agent by intellect is said to prepare itself to act, accordingly as it preconceives the idea of what is to be done. Thus, God from all eternity prepared by predestination, conceiving the idea of the order of some towards salvation.
 
 Reply to Objection 4: Grace does not come into the definition of predestination, as something belonging to its essence, but inasmuch as predestination implies a relation to grace, as of cause to effect, and of act to its object. Whence it does not follow that predestination is anything temporal.
-## Whether God Reprobates Any Man?
+### Whether God Reprobates Any Man?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God reprobates no man. For nobody reprobates what he loves. But God loves every man, according to (Wis. 11:25): "Thou lovest all things that are, and Thou hatest none of the things Thou hast made." Therefore God reprobates no man.
 
@@ -73,22 +73,22 @@ Objection 2: Further, if God reprobates any man, it would be necessary for repro
 
 Objection 3: Further, to no one ought anything be imputed which he cannot avoid. But if God reprobates anyone, that one must perish. For it is said (Eccles. 7:14): "Consider the works of God, that no man can correct whom He hath despised." Therefore it could not be imputed to any man, were he to perish. But this is false. Therefore God does not reprobate anyone.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Malachi 1:2,3): "I have loved Jacob, but have hated Esau."
 
 I answer that, God does reprobate some. For it was said above [172](A[1]) that predestination is a part of providence. To providence, however, it belongs to permit certain defects in those things which are subject to providence, as was said above ([173]Q[22], A[2]). Thus, as men are ordained to eternal life through the providence of God, it likewise is part of that providence to permit some to fall away from that end; this is called reprobation. Thus, as predestination is a part of providence, in regard to those ordained to eternal salvation, so reprobation is a part of providence in regard to those who turn aside from that end. Hence reprobation implies not only foreknowledge, but also something more, as does providence, as was said above ([174]Q[22], A[1]). Therefore, as predestination includes the will to confer grace and glory; so also reprobation includes the will to permit a person to fall into sin, and to impose the punishment of damnation on account of that sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God loves all men and all creatures, inasmuch as He wishes them all some good; but He does not wish every good to them all. So far, therefore, as He does not wish this particular good---namely, eternal life---He is said to hate or reprobated them.
 
 Reply to Objection 2: Reprobation differs in its causality from predestination. This latter is the cause both of what is expected in the future life by the predestined---namely, glory---and of what is received in this life---namely, grace. Reprobation, however, is not the cause of what is in the present---namely, sin; but it is the cause of abandonment by God. It is the cause, however, of what is assigned in the future---namely, eternal punishment. But guilt proceeds from the free-will of the person who is reprobated and deserted by grace. In this way, the word of the prophet is true---namely, "Destruction is thy own, O Israel."
 
 Reply to Objection 3: Reprobation by God does not take anything away from the power of the person reprobated. Hence, when it is said that the reprobated cannot obtain grace, this must not be understood as implying absolute impossibility: but only conditional impossibility: as was said above ([175]Q[19], A[3]), that the predestined must necessarily be saved; yet a conditional necessity, which does not do away with the liberty of choice. Whence, although anyone reprobated by God cannot acquire grace, nevertheless that he falls into this or that particular sin comes from the use of his free-will. Hence it is rightly imputed to him as guilt.
-## Whether The Predestined Are Chosen By God?
+### Whether The Predestined Are Chosen By God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the predestined are not chosen by God. For Dionysius says (Div. Nom. iv, 1) that as the corporeal sun sends his rays upon all without selection, so does God His goodness. But the goodness of God is communicated to some in an especial manner through a participation of grace and glory. Therefore God without any selection communicates His grace and glory; and this belongs to predestination.
 
@@ -96,22 +96,22 @@ Objection 2: Further, election is of things that exist. But predestination from 
 
 Objection 3: Further, election implies some discrimination. Now God "wills all men to be saved" (1 Tim. 2:4). Therefore, predestination which ordains men towards eternal salvation, is without election.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Eph. 1:4): "He chose us in Him before the foundation of the world."
 
 I answer that, Predestination presupposes election in the order of reason; and election presupposes love. The reason of this is that predestination, as stated above [176](A[1]), is a part of providence. Now providence, as also prudence, is the plan existing in the intellect directing the ordering of some things towards an end; as was proved above ([177]Q[22], A[2]). But nothing is directed towards an end unless the will for that end already exists. Whence the predestination of some to eternal salvation presupposes, in the order of reason, that God wills their salvation; and to this belong both election and love:---love, inasmuch as He wills them this particular good of eternal salvation; since to love is to wish well to anyone, as stated above ([178]Q[20], AA[2],3):---election, inasmuch as He wills this good to some in preference to others; since He reprobates some, as stated above [179](A[3]). Election and love, however, are differently ordered in God, and in ourselves: because in us the will in loving does not cause good, but we are incited to love by the good which already exists; and therefore we choose someone to love, and so election in us precedes love. In God, however, it is the reverse. For His will, by which in loving He wishes good to someone, is the cause of that good possessed by some in preference to others. Thus it is clear that love precedes election in the order of reason, and election precedes predestination. Whence all the predestinate are objects of election and love.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: If the communication of the divine goodness in general be considered, God communicates His goodness without election; inasmuch as there is nothing which does not in some way share in His goodness, as we said above ([180]Q[6], A[4]). But if we consider the communication of this or that particular good, He does not allot it without election; since He gives certain goods to some men, which He does not give to others. Thus in the conferring of grace and glory election is implied.
 
 Reply to Objection 2: When the will of the person choosing is incited to make a choice by the good already pre-existing in the object chosen, the choice must needs be of those things which already exist, as happens in our choice. In God it is otherwise; as was said above ([181]Q[20], A[2]). Thus, as Augustine says (De Verb. Ap. Serm. 11): "Those are chosen by God, who do not exist; yet He does not err in His choice."
 
 Reply to Objection 3: God wills all men to be saved by His antecedent will, which is to will not simply but relatively; and not by His consequent will, which is to will simply.
-## Whether The Foreknowledge Of Merits Is The Cause Of Predestination?
+### Whether The Foreknowledge Of Merits Is The Cause Of Predestination?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that foreknowledge of merits is the cause of predestination. For the Apostle says (Rom. 8:29): "Whom He foreknew, He also predestined." Again a gloss of Ambrose on Rom. 9:15: "I will have mercy upon whom I will have mercy" says: "I will give mercy to him who, I foresee, will turn to Me with his whole heart." Therefore it seems the foreknowledge of merits is the cause of predestination.
 
@@ -119,7 +119,7 @@ Objection 2: Further, Divine predestination includes the divine will, which by n
 
 Objection 3: Further, "There is no injustice in God" (Rom. 9:14). Now it would seem unjust that unequal things be given to equals. But all men are equal as regards both nature and original sin; and inequality in them arises from the merits or demerits of their actions. Therefore God does not prepare unequal things for men by predestinating and reprobating, unless through the foreknowledge of their merits and demerits.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Titus 3:5): "Not by works of justice which we have done, but according to His mercy He saved us." But as He saved us, so He predestined that we should be saved. Therefore, foreknowledge of merits is not the cause or reason of predestination.
 
@@ -131,16 +131,16 @@ Others said that pre-existing merits in this life are the reason and cause of th
 
 And so others said that merits following the effect of predestination are the reason of predestination; giving us to understand that God gives grace to a person, and pre-ordains that He will give it, because He knows beforehand that He will make good use of that grace, as if a king were to give a horse to a soldier because he knows he will make good use of it. But these seem to have drawn a distinction between that which flows from grace, and that which flows from free will, as if the same thing cannot come from both. It is, however, manifest that what is of grace is the effect of predestination; and this cannot be considered as the reason of predestination, since it is contained in the notion of predestination. Therefore, if anything else in us be the reason of predestination, it will outside the effect of predestination. Now there is no distinction between what flows from free will, and what is of predestination; as there is not distinction between what flows from a secondary cause and from a first cause. For the providence of God produces effects through the operation of secondary causes, as was above shown ([184]Q[22], A[3]). Wherefore, that which flows from free-will is also of predestination. We must say, therefore, that the effect of predestination may be considered in a twofold light---in one way, in particular; and thus there is no reason why one effect of predestination should not be the reason or cause of another; a subsequent effect being the reason of a previous effect, as its final cause; and the previous effect being the reason of the subsequent as its meritorious cause, which is reduced to the disposition of the matter. Thus we might say that God pre-ordained to give glory on account of merit, and that He pre-ordained to give grace to merit glory. In another way, the effect of predestination may be considered in general. Thus, it is impossible that the whole of the effect of predestination in general should have any cause as coming from us; because whatsoever is in man disposing him towards salvation, is all included under the effect of predestination; even the preparation for grace. For neither does this happen otherwise than by divine help, according to the prophet Jeremias (Lam. 5:21): "convert us, O Lord, to Thee, and we shall be converted." Yet predestination has in this way, in regard to its effect, the goodness of God for its reason; towards which the whole effect of predestination is directed as to an end; and from which it proceeds, as from its first moving principle.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The use of grace foreknown by God is not the cause of conferring grace, except after the manner of a final cause; as was explained above.
 
 Reply to Objection 2: Predestination has its foundation in the goodness of God as regards its effects in general. Considered in its particular effects, however, one effect is the reason of another; as already stated.
 
 Reply to Objection 3: The reason for the predestination of some, and reprobation of others, must be sought for in the goodness of God. Thus He is said to have made all things through His goodness, so that the divine goodness might be represented in things. Now it is necessary that God's goodness, which in itself is one and undivided, should be manifested in many ways in His creation; because creatures in themselves cannot attain to the simplicity of God. Thus it is that for the completion of the universe there are required different grades of being; some of which hold a high and some a low place in the universe. That this multiformity of grades may be preserved in things, God allows some evils, lest many good things should never happen, as was said above ([185]Q[22], A[2]). Let us then consider the whole of the human race, as we consider the whole universe. God wills to manifest His goodness in men; in respect to those whom He predestines, by means of His mercy, as sparing them; and in respect of others, whom he reprobates, by means of His justice, in punishing them. This is the reason why God elects some and rejects others. To this the Apostle refers, saying (Rom. 9:22,23): "What if God, willing to show His wrath [that is, the vengeance of His justice], and to make His power known, endured [that is, permitted] with much patience vessels of wrath, fitted for destruction; that He might show the riches of His glory on the vessels of mercy, which He hath prepared unto glory" and (2 Tim. 2:20): "But in a great house there are not only vessels of gold and silver; but also of wood and of earth; and some, indeed, unto honor, but some unto dishonor." Yet why He chooses some for glory, and reprobates others, has no reason, except the divine will. Whence Augustine says (Tract. xxvi. in Joan.): "Why He draws one, and another He draws not, seek not to judge, if thou dost not wish to err." Thus too, in the things of nature, a reason can be assigned, since primary matter is altogether uniform, why one part of it was fashioned by God from the beginning under the form of fire, another under the form of earth, that there might be a diversity of species in things of nature. Yet why this particular part of matter is under this particular form, and that under another, depends upon the simple will of God; as from the simple will of the artificer it depends that this stone is in part of the wall, and that in another; although the plan requires that some stones should be in this place, and some in that place. Neither on this account can there be said to be injustice in God, if He prepares unequal lots for not unequal things. This would be altogether contrary to the notion of justice, if the effect of predestination were granted as a debt, and not gratuitously. In things which are given gratuitously, a person can give more or less, just as he pleases (provided he deprives nobody of his due), without any infringement of justice. This is what the master of the house said: "Take what is thine, and go thy way. Is it not lawful for me to do what I will?" (Mat. 20:14,15).
-## Whether Predestination Is Certain?
+### Whether Predestination Is Certain?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that predestination is not certain. Because on the words "Hold fast that which thou hast, that no one take thy crown," (Rev 3:11), Augustine says (De Corr. et Grat. 15): "Another will not receive, unless this one were to lose it." Hence the crown which is the effect of predestination can be both acquired and lost. Therefore predestination cannot be certain.
 
@@ -148,22 +148,22 @@ Objection 2: Further, granted what is possible, nothing impossible follows. But 
 
 Objection 3: Further, whatever God could do in the past, He can do now. But He could have not predestined whom He hath predestined. Therefore now He is able not to predestine him. Therefore predestination is not certain.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Rom. 8:29: "Whom He foreknew, He also predestinated", says: "Predestination is the foreknowledge and preparation of the benefits of God, by which whosoever are freed will most certainly be freed."
 
 I answer that, Predestination most certainly and infallibly takes effect; yet it does not impose any necessity, so that, namely, its effect should take place from necessity. For it was said above [186](A[1]), that predestination is a part of providence. But not all things subject to providence are necessary; some things happening from contingency, according to the nature of the proximate causes, which divine providence has ordained for such effects. Yet the order of providence is infallible, as was shown above ([187]Q[22], A[4]). So also the order of predestination is certain; yet free-will is not destroyed; whence the effect of predestination has its contingency. Moreover all that has been said about the divine knowledge and will ([188]Q[14], A[13]; [189]Q[19], A[4]) must also be taken into consideration; since they do not destroy contingency in things, although they themselves are most certain and infallible.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The crown may be said to belong to a person in two ways; first, by God's predestination, and thus no one loses his crown: secondly, by the merit of grace; for what we merit, in a certain way is ours; and thus anyone may lose his crown by mortal sin. Another person receives that crown thus lost, inasmuch as he takes the former's place. For God does not permit some to fall, without raising others; according to Job 34:24: "He shall break in pieces many and innumerable, and make others to stand in their stead." Thus men are substituted in the place of the fallen angels; and the Gentiles in that of the Jews. He who is substituted for another in the state of grace, also receives the crown of the fallen in that in eternal life he will rejoice at the good the other has done, in which life he will rejoice at all good whether done by himself or by others.
 
 Reply to Objection 2: Although it is possible for one who is predestinated considered in himself to die in mortal sin; yet it is not possible, supposed, as in fact it is supposed. that he is predestinated. Whence it does not follow that predestination can fall short of its effect.
 
 Reply to Objection 3: Since predestination includes the divine will as stated above [190](A[4]): and the fact that God wills any created thing is necessary on the supposition that He so wills, on account of the immutability of the divine will, but is not necessary absolutely; so the same must be said of predestination. Wherefore one ought not to say that God is able not to predestinate one whom He has predestinated, taking it in a composite sense, thought, absolutely speaking, God can predestinate or not. But in this way the certainty of predestination is not destroyed.
-## Whether The Number Of The Predestined Is Certain?
+### Whether The Number Of The Predestined Is Certain?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the number of the predestined is not certain. For a number to which an addition can be made is not certain. But there can be an addition to the number of the predestined as it seems; for it is written (Dt. 1:11): "The Lord God adds to this number many thousands," and a gloss adds, "fixed by God, who knows those who belong to Him." Therefore the number of the predestined is not certain.
 
@@ -171,7 +171,7 @@ Objection 2: Further, no reason can be assigned why God pre-ordains to salvation
 
 Objection 3: Further, the operations of God are more perfect than those of nature. But in the works of nature, good is found in the majority of things; defect and evil in the minority. If, then, the number of the saved were fixed by God at a certain figure, there would be more saved than lost. Yet the contrary follows from Mat. 7:13,14: "For wide is the gate, and broad the way that leadeth to destruction, and many there are who go in thereat. How narrow is the gate, and strait is the way that leadeth to life; and few there are who find it!" Therefore the number of those pre-ordained by God to be saved is not certain.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Corr. et Grat. 13): "The number of the predestined is certain, and can neither be increased nor diminished."
 
@@ -179,16 +179,16 @@ I answer that, The number of the predestined is certain. Some have said that it 
 
 It is not exactly the same thing in the case of the number of the reprobate, who would seem to be pre-ordained by God for the good of the elect, in whose regard "all things work together unto good" (Rom. 8:28). Concerning the number of all the predestined, some say that so many men will be saved as angels fell; some, so many as there were angels left; others, as many as the number of angels created by God. It is, however, better to say that, "to God alone is known the number for whom is reserved eternal happiness [*From the 'secret' prayer of the missal, 'pro vivis et defunctis.']"
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These words of Deuteronomy must be taken as applied to those who are marked out by God beforehand in respect to present righteousness. For their number is increased and diminished, but not the number of the predestined.
 
 Reply to Objection 2: The reason of the quantity of any one part must be judged from the proportion of that part of the whole. Thus in God the reason why He has made so many stars, or so many species of things, or predestined so many, is according to the proportion of the principal parts to the good of the whole universe.
 
 Reply to Objection 3: The good that is proportionate to the common state of nature is to be found in the majority; and is wanting in the minority. The good that exceeds the common state of nature is to be found in the minority, and is wanting in the majority. Thus it is clear that the majority of men have a sufficient knowledge for the guidance of life; and those who have not this knowledge are said to be half-witted or foolish; but they who attain to a profound knowledge of things intelligible are a very small minority in respect to the rest. Since their eternal happiness, consisting in the vision of God, exceeds the common state of nature, and especially in so far as this is deprived of grace through the corruption of original sin, those who are saved are in the minority. In this especially, however, appears the mercy of God, that He has chosen some for that salvation, from which very many in accordance with the common course and tendency of nature fall short.
-## Whether Predestination Can Be Furthered By The Prayers Of The Saints?
+### Whether Predestination Can Be Furthered By The Prayers Of The Saints?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that predestination cannot be furthered by the prayers of the saints. For nothing eternal can be preceded by anything temporal; and in consequence nothing temporal can help towards making something else eternal. But predestination is eternal. Therefore, since the prayers of the saints are temporal, they cannot so help as to cause anyone to become predestined. Predestination therefore is not furthered by the prayers of the saints.
 
@@ -196,7 +196,7 @@ Objection 2: Further, as there is no need of advice except on account of defecti
 
 Objection 3: Further, if a thing can be helped, it can also be hindered. But predestination cannot be hindered by anything. Therefore it cannot be furthered by anything.
 
-### Answer
+**Answer**
 
 On the contrary, It is said that "Isaac besought the Lord for his wife because she was barren; and He heard him and made Rebecca to conceive" (Gn. 25:21). But from that conception Jacob was born, and he was predestined. Now his predestination would not have happened if he had never been born. Therefore predestination can be furthered by the prayers of the saints.
 
@@ -206,7 +206,7 @@ Others declared that the divine predestination was altered through prayer. This 
 
 Wherefore we must say otherwise that in predestination two things are to be considered---namely, the divine ordination; and its effect. As regards the former, in no possible way can predestination be furthered by the prayers of the saints. For it is not due to their prayers that anyone is predestined by God. As regards the latter, predestination is said to be helped by the prayers of the saints, and by other good works; because providence, of which predestination is a part, does not do away with secondary causes but so provides effects, that the order of secondary causes falls also under providence. So, as natural effects are provided by God in such a way that natural causes are directed to bring about those natural effects, without which those effects would not happen; so the salvation of a person is predestined by God in such a way, that whatever helps that person towards salvation falls under the order of predestination; whether it be one's own prayers or those of another; or other good works, and such like, without which one would not attain to salvation. Whence, the predestined must strive after good works and prayer; because through these means predestination is most certainly fulfilled. For this reason it is said: "Labor more that by good works you may make sure your calling and election" (2 Pet. 1:10).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument shows that predestination is not furthered by the prayers of the saints, as regards the preordination.
 

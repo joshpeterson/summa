@@ -11,9 +11,9 @@ We must now consider the subject of vice or sin: under which head there are ten 
 (8) Whether the lower reason can be the subject of mortal sin?
 (9) Whether the higher reason can be the subject of venial sin?
 (10) Whether there can be in the higher reason a venial sin directed to its proper object?
-## Whether The Will Is A Subject Of Sin?
+### Whether The Will Is A Subject Of Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will cannot be a subject of sin. For Dionysius says (Div. Nom. iv) that "evil is outside the will and the intention." But sin has the character of evil. Therefore sin cannot be in the will.
 
@@ -21,22 +21,22 @@ Objection 2: Further, the will is directed either to the good or to what seems g
 
 Objection 3: Further, the same thing cannot be both subject and efficient cause of sin: because "the efficient and the material cause do not coincide" (Phys. 2, text. 70). Now the will is the efficient cause of sin: because the first cause of sinning is the will, as Augustine states (De Duabus Anim. x, 10,11). Therefore it is not the subject of sin.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Retract. i, 9) that "it is by the will that we sin, and live righteously."
 
 I answer that, Sin is an act, as stated above ([1739]Q[71], AA[1],6). Now some acts pass into external matter, e.g. "to cut" and "to burn": and such acts have for their matter and subject, the thing into which the action passes: thus the Philosopher states (Phys. iii, text. 18) that "movement is the act of the thing moved, caused by a mover." On the other hand, there are acts which do not pass into external matter, but remain in the agent, e.g. "to desire" and "to know": and such are all moral acts, whether virtuous or sinful. Consequently the proper subject of sin must needs be the power which is the principle of the act. Now since it is proper to moral acts that they are voluntary, as stated above ([1740]Q[1], A[1] ;[1741] Q[18], A[6]), it follows that the will, which is the principle of voluntary acts, both of good acts, and of evil acts or sins, is the principle of sins. Therefore it follows that sin is in the will as its subject.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Evil is said to be outside the will, because the will does not tend to it under the aspect of evil. But since some evil is an apparent good, the will sometimes desires an evil, and in this sense is in the will.
 
 Reply to Objection 2: If the defect in the apprehensive power were nowise subject to the will, there would be no sin, either in the will, or in the apprehensive power, as in the case of those whose ignorance is invincible. It remains therefore that when there is in the apprehensive power a defect that is subject to the will, this defect also is deemed a sin.
 
 Reply to Objection 3: This argument applies to those efficient causes whose actions pass into external matter, and which do not move themselves, but move other things; the contrary of which is to be observed in the will; hence the argument does not prove.
-## Whether The Will Alone Is The Subject Of Sin?
+### Whether The Will Alone Is The Subject Of Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will alone is the subject of sin. For Augustine says (De Duabus Anim. x, 10) that "no one sins except by the will." Now the subject of sin is the power by which we sin. Therefore the will alone is the subject of sin.
 
@@ -44,22 +44,22 @@ Objection 2: Further, sin is an evil contrary to reason. Now good and evil perta
 
 Objection 3: Further, every sin is a voluntary act, because, as Augustine states (De Lib. Arb. iii, 18) [*Cf. De Vera Relig. xiv.], "so true is it that every sin is voluntary, that unless it be voluntary, it is no sin at all." Now the acts of the other powers are not voluntary, except in so far as those powers are moved by the will; nor does this suffice for them to be the subject of sin, because then even the external members of the body, which are moved by the will, would be a subject of sin; which is clearly untrue. Therefore the will alone is the subject of sin.
 
-### Answer
+**Answer**
 
 On the contrary, Sin is contrary to virtue: and contraries are about one same thing. But the other powers of the soul, besides the will, are the subject of virtues, as stated above ([1742]Q[56]). Therefore the will is not the only subject of sin.
 
 I answer that, As was shown above [1743](A[1]), whatever is the a principle of a voluntary act is a subject of sin. Now voluntary acts are not only those which are elicited by the will, but also those which are commanded by the will, as we stated above (Q[6], A[4]) in treating of voluntariness. Therefore not only the will can be a subject of sin, but also all those powers which can be moved to their acts, or restrained from their acts, by the will; and these same powers are the subjects of good and evil moral habits, because act and habit belong to the same subject.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We do not sin except by the will as first mover; but we sin by the other powers as moved by the will.
 
 Reply to Objection 2: Good and evil pertain to the will as its proper objects; but the other powers have certain determinate goods and evils, by reason of which they can be the subject of virtue, vice, and sin, in so far as they partake of will and reason.
 
 Reply to Objection 3: The members of the body are not principles but merely organs of action: wherefore they are compared to the soul which moves them, as a slave who is moved but moves no other. On the other hand, the internal appetitive powers are compared to reason as free agents, because they both act and are acted upon, as is made clear in Polit. i, 3. Moreover, the acts of the external members are actions that pass into external matter, as may be seen in the blow that is inflicted in the sin of murder. Consequently there is no comparison.
-## Whether There Can Be Sin In The Sensuality?
+### Whether There Can Be Sin In The Sensuality?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there cannot be sin in the sensuality. For sin is proper to man who is praised or blamed for his actions. Now sensuality is common to us and irrational animals. Therefore sin cannot be in the sensuality.
 
@@ -67,22 +67,22 @@ Objection 2: Further, "no man sins in what he cannot avoid," as Augustine states
 
 Objection 3: Further, that which man himself does not do is not imputed to him as a sin. Now "that alone do we seem to do ourselves, which we do with the deliberation of reason," as the Philosopher says (Ethic. ix, 8). Therefore the movement of the sensuality, which is without the deliberation of reason, is not imputed to a man as a sin.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Rom. 7:19): "The good which I will I do not; but the evil which I will not, that I do": which words Augustine explains (Contra Julian. iii, 26; De Verb. Apost. xii, 2,3), as referring to the evil of concupiscence, which is clearly a movement of the sensuality. Therefore there can be sin in the sensuality.
 
 I answer that, As stated above ([1744]AA[2],3), sin may be found in any power whose act can be voluntary and inordinate, wherein consists the nature of sin. Now it is evident that the act of the sensuality, or sensitive appetite, is naturally inclined to be moved by the will. Wherefore it follows that sin can be in the sensuality.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although some of the powers of the sensitive part are common to us and irrational animals, nevertheless, in us, they have a certain excellence through being united to the reason; thus we surpass other animals in the sensitive part for as much as we have the powers of cogitation and reminiscence, as stated in the [1745]FP, Q[78], A[4]. In the same way our sensitive appetite surpasses that of other animals by reason of a certain excellence consisting in its natural aptitude to obey the reason; and in this respect it can be the principle of a voluntary action, and, consequently, the subject of sin.
 
 Reply to Objection 2: The continual corruption of the sensuality is to be understood as referring to the "fomes," which is never completely destroyed in this life, since, though the stain of original sin passes, its effect remains. However, this corruption of the "fomes" does not hinder man from using his rational will to check individual inordinate movements, if he be presentient to them, for instance by turning his thoughts to other things. Yet while he is turning his thoughts to something else, an inordinate movement may arise about this also: thus when a man, in order to avoid the movements of concupiscence, turns his thoughts away from carnal pleasures, to the considerations of science, sometimes an unpremeditated movement of vainglory will arise. Consequently, a man cannot avoid all such movements, on account of the aforesaid corruption: but it is enough, for the conditions of a voluntary sin, that he be able to avoid each single one.
 
 Reply to Objection 3: Man does not do perfectly himself what he does without the deliberation of reason, since the principal part of man does nothing therein: wherefore such is not perfectly a human act; and consequently it cannot be a perfect act of virtue or of sin, but is something imperfect of that kind. Therefore such movement of the sensuality as forestalls the reason, is a venial sin, which is something imperfect in the genus of sin.
-## Whether Mortal Sin Can Be In The Sensuality?
+### Whether Mortal Sin Can Be In The Sensuality?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that mortal sin can be in the sensuality. Because an act is discerned by its object. Now it is possible to commit a mortal sin about the objects of the sensuality, e.g. about carnal pleasures. Therefore the act of the sensuality can be a mortal sin, so that mortal sin can be found in the sensuality.
 
@@ -90,22 +90,22 @@ Objection 2: Further, mortal sin is opposed to virtue. But virtue can be in the 
 
 Objection 3: Further, venial sin is a disposition to mortal sin. Now disposition and habit are in the same subject. Since therefore venial sin may be in the sensuality, as stated above (A[3], ad 3), mortal sin can be there also.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Retract. i, 23): "The inordinate movement of concupiscence, which is the sin of the sensuality, can even be in those who are in a state of grace," in whom, however, mortal sin is not to be found. Therefore the inordinate movement of the sensuality is not a mortal sin.
 
 I answer that, Just as a disorder which destroys the principle of the body's life causes the body's death, so too a disorder which destroys the principle of spiritual life, viz. the last end, causes spiritual death, which is mortal sin, as stated above ([1746]Q[72], A[5]). Now it belongs to the reason alone, and not to the sensuality, to order anything to the end: and disorder in respect of the end can only belong to the power whose function it is to order others to the end. Wherefore mortal sin cannot be in the sensuality, but only in the reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The act of the sensuality can concur towards a mortal sin: yet the fact of its being a mortal sin is due, not to its being an act of the sensuality, but to its being an act of reason, to whom the ordering to the end belongs. Consequently mortal sin is imputed, not to the sensuality, but to reason.
 
 Reply to Objection 2: An act of virtue is perfected not only in that it is an act of the sensuality, but still more in the fact of its being an act of reason and will, whose function it is to choose: for the act of moral virtue is not without the exercise of choice: wherefore the act of moral virtue, which perfects the appetitive power, is always accompanied by an act of prudence, which perfects the rational power; and the same applies to mortal sin, as stated (ad 1).
 
 Reply to Objection 3: A disposition may be related in three ways to that to which it disposes: for sometimes it is the same thing and is in the same subject; thus inchoate science is a disposition to perfect science: sometimes it is in the same subject, but is not the same thing; thus heat is a disposition to the form of fire: sometimes it is neither the same thing, nor in the same subject, as in those things which are subordinate to one another in such a way that we can arrive at one through the other, e.g. goodness of the imagination is a disposition to science which is in the intellect. In this way the venial sin that is in the sensuality, may be a disposition to mortal sin, which is in the reason.
-## Whether Sin Can Be In The Reason?
+### Whether Sin Can Be In The Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sin cannot be in the reason. For the sin of any power is a defect thereof. But the fault of the reason is not a sin, on the contrary, it excuses sin: for a man is excused from sin on account of ignorance. Therefore sin cannot be in the reason.
 
@@ -113,20 +113,20 @@ Objection 2: Further, the primary object of sin is the will, as stated above [17
 
 Objection 3: Further, there can be no sin except about things which are under our control. Now perfection and defect of reason are not among those things which are under our control: since by nature some are mentally deficient, and some shrewd-minded. Therefore no sin is in the reason.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xii, 12) that sin is in the lower and in the higher reason.
 
 I answer that, The sin of any power is an act of that power, as we have clearly shown ([1748]AA[1],2,3). Now reason has a twofold act: one is its proper act in respect of its proper object, and this is the act of knowing the truth; the other is the act of reason as directing the other powers. Now in both of these ways there may be sin in the reason. First, in so far as it errs in the knowledge of truth, which error is imputed to the reason as a sin, when it is in ignorance or error about what it is able and ought to know: secondly, when it either commands the inordinate movements of the lower powers, or deliberately fails to check them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument considers the defect in the proper act of the reason in respect of its proper object, and with regard to the case when it is a defect of knowledge about something which one is unable to know: for then this defect of reason is not a sin, and excuses from sin, as is evident with regard to the actions of madmen. If, however, the defect of reason be about something which a man is able and ought to know, he is not altogether excused from sin, and the defect is imputed to him as a sin. The defect which belongs only to the act of directing the other powers, is always imputed to reason as a sin, because it can always obviate this defect by means of its proper act.
 
 Reply to Objection 2: As stated above ([1749]Q[17], A[1]), when we were treating of the acts of the will and reason, the will moves and precedes the reason, in one way, and the reason moves and precedes the will in another: so that both the movement of the will can be called rational, and the act of the reason, voluntary. Accordingly sin is found in the reason, either through being a voluntary defect of the reason, or through the reason being the principle of the will's act.
-## Whether The Sin Of Morose Delectation Is In The Reason?
+### Whether The Sin Of Morose Delectation Is In The Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the sin of morose delectation is not in the reason. For delectation denotes a movement of the appetitive power, as stated above ([1750]Q[31], A[1]). But the appetitive power is distinct from the reason, which is an apprehensive power. Therefore morose delectation is not in the reason.
 
@@ -134,22 +134,22 @@ Objection 2: Further, the object shows to which power an act belongs, since it i
 
 Objection 3: Further, a thing is said to be morose [*From the Latin 'mora'---delay] through taking a length of time. But length of time is no reason why an act should belong to a particular power. Therefore morose delectation does not belong to the reason.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xii, 12) that "if the consent to a sensual delectation goes no further than the mere thought of the pleasure, I deem this to be like as though the woman alone had partaken of the forbidden fruit." Now "the woman" denotes the lower reason, as he himself explains (De Trin. xii, 12). Therefore the sin of morose delectation is in the reason.
 
 I answer that, As stated [1751](A[5]), sin may be in the reason, not only in respect of reason's proper act, but sometimes in respect of its directing human actions. Now it is evident that reason directs not only external acts, but also internal passions. Consequently when the reason fails in directing the internal passions, sin is said to be in the reason, as also when it fails in directing external actions. Now it fails, in two ways, in directing internal passions: first, when it commands unlawful passions; for instance, when a man deliberately provokes himself to a movement of anger, or of lust: secondly, when it fails to check the unlawful movement of a passion; for instance, when a man, having deliberately considered that a rising movement of passion is inordinate, continues, notwithstanding, to dwell [immoratur] upon it, and fails to drive it away. And in this sense the sin of morose delectation is said to be in the reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Delectation is indeed in the appetitive power as its proximate principle; but it is in the reason as its first mover, in accordance with what has been stated above [1752](A[1]), viz. that actions which do not pass into external matter are subjected in their principles.
 
 Reply to Objection 2: Reason has its proper elicited act about its proper object; but it exercises the direction of all the objects of those lower powers that can be directed by the reason: and accordingly delectation about sensible objects comes also under the direction of reason.
 
 Reply to Objection 3: Delectation is said to be morose not from a delay of time, but because the reason in deliberating dwells [immoratur] thereon, and fails to drive it away, "deliberately holding and turning over what should have been cast aside as soon as it touched the mind," as Augustine says (De Trin. xii, 12).
-## Whether The Sin Of Consent To The Act Is In The Higher Reason?
+### Whether The Sin Of Consent To The Act Is In The Higher Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the sin of consent to the act is not in the higher reason. For consent is an act of the appetitive power, as stated above ([1753]Q[15], A[1]): whereas the reason is an apprehensive power. Therefore the sin of consent to the act is not in the higher reason.
 
@@ -159,13 +159,13 @@ Objection 3: Further, just as man can regulate his external actions according to
 
 Objection 4: Further, just as the higher reason excels the lower, so does the reason excel the imagination. Now sometimes man proceeds to act through the apprehension of the power of imagination, without any deliberation of his reason, as when, without premeditation, he moves his hand, or foot. Therefore sometimes also the lower reason may consent to a sinful act, independently of the higher reason.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xii, 12): "If the consent to the evil use of things that can be perceived by the bodily senses, so far approves of any sin, as to point, if possible, to its consummation by deed, we are to understand that the woman has offered the forbidden fruit to her husband."
 
 I answer that, Consent implies a judgment about the thing to which consent is given. For just as the speculative reason judges and delivers its sentence about intelligible matters, so the practical reason judges and pronounces sentence on matters of action. Now we must observe that in every case brought up for judgment, the final sentence belongs to the supreme court, even as we see that in speculative matters the final sentence touching any proposition is delivered by referring it to the first principles; since, so long as there remains a yet higher principle, the question can yet be submitted to it: wherefore the judgment is still in suspense, the final sentence not being as yet pronounced. But it is evident that human acts can be regulated by the rule of human reason, which rule is derived from the created things that man knows naturally; and further still, from the rule of the Divine law, as stated above ([1755]Q[19], A[4]). Consequently, since the rule of the Divine law is the higher rule, it follows that the ultimate sentence, whereby the judgment is finally pronounced, belongs to the higher reason which is intent on the eternal types. Now when judgment has to be pronounced on several points, the final judgment deals with that which comes last; and, in human acts, the action itself comes last, and the delectation which is the inducement to the action is a preamble thereto. Therefore the consent to an action belongs properly to the higher reason, while the preliminary judgment which is about the delectation belongs to the lower reason, which delivers judgment in a lower court: although the higher reason can also judge of the delectation, since whatever is subject to the judgment of the lower court, is subject also to the judgment of the higher court, but not conversely.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Consent is an act of the appetitive power, not absolutely, but in consequence of an act of reason deliberating and judging, as stated above ([1756]Q[15], A[3]). Because the fact that the consent is finally given to a thing is due to the fact that the will tends to that upon which the reason has already passed its judgment. Hence consent may be ascribed both to the will and to the reason.
 
@@ -174,9 +174,9 @@ Reply to Objection 2: The higher reason is said to consent, from the very fact t
 Reply to Objection 3: The higher reason, by considering the eternal law, can direct or restrain the internal delectation, even as it can direct or restrain the external action: nevertheless, before the judgment of the higher reason is pronounced the lower reason, while deliberating the matter in reference to temporal principles, sometimes approves of this delectation: and then the consent to the delectation belongs to the lower reason. If, however, after considering the eternal law, man persists in giving the same consent, such consent will then belong to the higher reason.
 
 Reply to Objection 4: The apprehension of the power of imagination is sudden and indeliberate: wherefore it can cause an act before the higher or lower reason has time to deliberate. But the judgment of the lower reason is deliberate, and so requires time, during which the higher reason can also deliberate; consequently, if by its deliberation it does not check the sinful act, this will deservedly by imputed to it.
-## Whether Consent To Delectation Is A Mortal Sin?
+### Whether Consent To Delectation Is A Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that consent to delectation is not a mortal sin, for consent to delectation belongs to the lower reason, which does not consider the eternal types, i.e. the eternal law, and consequently does not turn away from them. Now every mortal sin consists in turning away from Augustine's definition of mortal sin, which was quoted above ([1757]Q[71], A[6]). Therefore consent to delectation is not a mortal sin.
 
@@ -190,7 +190,7 @@ Objection 5: Further, the sin of murder is more grievous than simple fornication
 
 Objection 6: Further, the Lord's prayer is recited every day for the remission of venial sins, as Augustine asserts (Enchiridion lxxviii). Now Augustine teaches that consent to delectation may be driven away by means of the Lord's Prayer: for he says (De Trin. xii, 12) that "this sin is much less grievous than if it be decided to fulfil it by deed: wherefore we ought to ask pardon for such thoughts also, and we should strike our breasts and say: 'Forgive us our trespasses.'" Therefore consent to delectation is a venial sin.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine adds after a few words: "Man will be altogether lost unless, through the grace of the Mediator, he be forgiven those things which are deemed mere sins of thought, since without the will to do them, he desires nevertheless to enjoy them." But no man is lost except through mortal sin. Therefore consent to delectation is a mortal sin.
 
@@ -198,7 +198,7 @@ I answer that, There have been various opinions on this point, for some have hel
 
 But that a man in thinking of fornication takes pleasure in the act thought of, is due to his desire being inclined to this act. Wherefore the fact that a man consents to such a delectation, amounts to nothing less than a consent to the inclination of his appetite to fornication: for no man takes pleasure except in that which is in conformity with his appetite. Now it is a mortal sin, if a man deliberately chooses that his appetite be conformed to what is in itself a mortal sin. Wherefore such a consent to delectation in a mortal sin, is itself a mortal sin, as the second opinion maintains.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Consent to delectation may be not only in the lower reason, but also in the higher reason, as stated above [1758](A[7]). Nevertheless the lower reason may turn away from the eternal types, for, though it is not intent on them, as regulating according to them, which is proper to the higher reason, yet, it is intent on them, as being regulated according to them: and by turning from them in this sense, it may sin mortally; since even the acts of the lower powers and of the external members may be mortal sins, in so far as the direction of the higher reason fails in directing them according to the eternal types.
 
@@ -211,9 +211,9 @@ Reply to Objection 4: The delectation which has an external act for its object, 
 Reply to Objection 5: The consent to delectation, resulting from complacency in an act of murder thought of, is a mortal sin also: but not the consent to delectation resulting from complacency in the thought of murder.
 
 Reply to Objection 6: The Lord's Prayer is to be said in order that we may be preserved not only from venial sin, but also from mortal sin.
-## Whether There Can Be Venial Sin In The Higher Reason As Directing The Lower Powers?
+### Whether There Can Be Venial Sin In The Higher Reason As Directing The Lower Powers?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there cannot be venial sin in the higher reason as directing the lower powers, i.e. as consenting to a sinful act. For Augustine says (De Trin. xii, 7) that the "higher reason is intent on considering and consulting the eternal law." But mortal sin consists in turning away from the eternal law. Therefore it seems that there can be no other than mortal sin in the higher reason.
 
@@ -221,7 +221,7 @@ Objection 2: Further, the higher reason is the principle of the spiritual life, 
 
 Objection 3: Further, a venial sin becomes a mortal sin if it be done out of contempt. But it would seem impossible to commit even a venial sin, deliberately, without contempt. Since then the consent of the higher reason is always accompanied by deliberate consideration of the eternal law, it seems that it cannot be without mortal sin, on account of the contempt of the Divine law.
 
-### Answer
+**Answer**
 
 On the contrary, Consent to a sinful act belongs to the higher reason, as stated above [1759](A[7]). But consent to an act of venial sin is itself a venial sin. Therefore a venial sin can be in the higher reason.
 
@@ -229,14 +229,14 @@ I answer that, As Augustine says (De Trin. xii, 7), the higher reason "is intent
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Disease of the heart is twofold: one which is in the very substance of the heart, and affects its natural consistency, and such a disease is always mortal: the other is a disease of the heart consisting in some disorder either of the movement or of the parts surrounding the heart, and such a disease is not always mortal. In like manner there is mortal sin in the higher reason whenever the order itself of the higher reason to its proper object which is the eternal law, is destroyed; but when the disorder leaves this untouched, the sin is not mortal but venial.
 
 Reply to Objection 3: Deliberate consent to a sin does not always amount to contempt of the Divine law, but only when the sin is contrary to the Divine law.
-## Whether Venial Sin Can Be In The Higher Reason As Such?
+### Whether Venial Sin Can Be In The Higher Reason As Such?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that venial sin cannot be in the higher reason as such, i.e. as considering the eternal law. For the act of a power is not found to fail except that power be inordinately disposed with regard to its object. Now the object of the higher reason is the eternal law, in respect of which there can be no disorder without mortal sin. Therefore there can be no venial sin in the higher reason as such.
 
@@ -244,7 +244,7 @@ Objection 2: Further, since the reason is a deliberative power, there can be no 
 
 Objection 3: Further, it happens sometimes that a sin which takes us unawares, is a venial sin. Now a deliberate sin is a mortal sin, through the reason, in deliberating, having recourse to some higher good, by acting against which, man sins more grievously; just as when the reason in deliberating about an inordinate pleasurable act, considers that it is contrary to the law of God, it sins more grievously in consenting, than if it only considered that it is contrary to moral virtue. But the higher reason cannot have recourse to any higher tribunal than its own object. Therefore if a movement that takes us unawares is not a mortal sin, neither will the subsequent deliberation make it a mortal sin; which is clearly false. Therefore there can be no venial sin in the higher reason as such.
 
-### Answer
+**Answer**
 
 On the contrary, A sudden movement of unbelief is a venial sin. But it belongs to the higher reason as such. Therefore there can be a venial sin in the higher reason as such.
 
@@ -252,7 +252,7 @@ I answer that, The higher reason regards its own object otherwise than the objec
 
 With regard to its own object it has a twofold act, viz. simple "intuition," and "deliberation," in respect of which it again consults the eternal law about its own object. But in respect of simple intuition, it can have an inordinate movement about Divine things, as when a man suffers a sudden movement of unbelief. And although unbelief, in its genus, is a mortal sin, yet a sudden movement of unbelief is a venial sin, because there is no mortal sin unless it be contrary to the law of God. Now it is possible for one of the articles of faith to present itself to the reason suddenly under some other aspect, before the eternal law, i.e. the law of God, is consulted, or can be consulted, on the matter; as, for instance, when a man suddenly apprehends the resurrection of the dead as impossible naturally, and rejects it, as soon as he had thus apprehended it, before he has had time to deliberate and consider that this is proposed to our belief in accordance with the Divine law. If, however, the movement of unbelief remains after this deliberation, it is a mortal sin. Therefore, in sudden movements, the higher reason may sin venially in respect of its proper object, even if it be a mortal sin in its genus; or it may sin mortally in giving a deliberate consent; but in things pertaining to the lower powers, it always sins mortally, in things which are mortal sins in their genus, but not in those which are venial sins in their genus.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A sin which is against the eternal law, though it be mortal in its genus, may nevertheless be venial, on account of the incompleteness of a sudden action, as stated.
 

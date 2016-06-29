@@ -3,9 +3,9 @@
 We must now consider the cause of fear: under which head there are two points of inquiry:
 (1) Whether love is the cause of fear?
 (2) Whether defect is the cause of fear?
-## Whether Love Is The Cause Of Fear?
+### Whether Love Is The Cause Of Fear?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that love is not the cause of fear. For that which leads to a thing is its cause. But "fear leads to the love of charity" as Augustine says on the canonical epistle of John (Tract. ix). Therefore fear is the cause of love, and not conversely.
 
@@ -13,7 +13,7 @@ Objection 2: Further, the Philosopher says (Rhet. ii, 5) that "those are feared 
 
 Objection 3: Further, it has been stated above ([1392]Q[42], A[3]) that those things which occur by our own doing are not fearful. But that which we do from love, is done from our inmost heart. Therefore fear is not caused by love.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (QQ. 83, qu. 33): "There can be no doubt that there is no cause for fear save the loss of what we love, when we possess it, or the failure to obtain what we hope for." Therefore all fear is caused by our loving something: and consequently love is the cause of fear.
 
@@ -21,16 +21,16 @@ I answer that, The objects of the soul's passions stand in relation thereto as t
 
 Accordingly, as to the matter in question, the object of fear is something reckoned as an evil to come, near at hand and difficult to avoid. Therefore that which can inflict such an evil, is the efficient cause of the object of fear, and, consequently, of fear itself. While that which renders a man so disposed that thing is such an evil to him, is a cause of fear and of its object, by way of material disposition. And thus it is that love causes fear: since it is through his loving a certain good, that whatever deprives a man of that good is an evil to him, and that consequently he fears it as an evil.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([1393]Q[42], A[1]), fear, of itself and in the first place, regards the evil from which it recoils as being contrary to some loved good: and thus fear, of itself, is born of love. But, in the second place, it regards the cause from which that evil ensues: so that sometimes, accidentally, fear gives rise to love; in so far as, for instance, through fear of God's punishments, man keeps His commandments, and thus begins to hope, while hope leads to love, as stated above ([1394]Q[40] , A[7]).
 
 Reply to Objection 2: He, from whom evil is expected, is indeed hated at first; but afterwards, when once we begin to hope for good from him, we begin to love him. But the good, the contrary evil of which is feared, was loved from the beginning.
 
 Reply to Objection 3: This argument is true of that which is the efficient cause of the evil to be feared: whereas love causes fear by way of material disposition, as stated above.
-## Whether Defect Is The Cause Of Fear?
+### Whether Defect Is The Cause Of Fear?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that defect is not a cause of fear. Because those who are in power are very much feared. But defect is contrary to power. Therefore defect is not a cause of fear.
 
@@ -38,7 +38,7 @@ Objection 2: Further, the defect of those who are already being executed is extr
 
 Objection 3: Further, contests arise from strength not from defect. But "those who contend fear those who contend with them" (Rhet. ii, 5). Therefore defect is not a cause of fear.
 
-### Answer
+**Answer**
 
 On the contrary, Contraries ensue from contrary causes. But "wealth, strength, a multitude of friends, and power drive fear away" (Rhet. ii, 5). Therefore fear is caused by lack of these.
 
@@ -46,7 +46,7 @@ I answer that, As stated above [1395](A[1]), fear may be set down to a twofold c
 
 But as to the second, power and strength are, of themselves, the cause of fear: because it is owing to the fact that the cause apprehended as harmful is powerful, that its effect cannot be repulsed. It may happen, however, in this respect, that some defect causes fear accidentally, in so far as owing to some defect someone wishes to hurt another; for instance, by reason of injustice, either because that other has already done him a harm, or because he fears to be harmed by him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is true of the cause of fear, on the part of the efficient cause.
 

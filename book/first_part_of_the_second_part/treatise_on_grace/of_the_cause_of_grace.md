@@ -6,9 +6,9 @@ We must now consider the cause of grace; and under this head there are five poin
 (3) Whether such a disposition can make grace follow of necessity?
 (4) Whether grace is equal in all?
 (5) Whether anyone may know that he has grace?
-## Whether God Alone Is The Cause Of Grace?
+### Whether God Alone Is The Cause Of Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that God alone is not the cause of grace. For it is written (Jn. 1:17): "Grace and truth came by Jesus Christ." Now, by the name of Jesus Christ is understood not merely the Divine Nature assuming, but the created nature assumed. Therefore a creature may be the cause of grace.
 
@@ -16,22 +16,22 @@ Objection 2: Further, there is this difference between the sacraments of the New
 
 Objection 3: Further, according to Dionysius (Coel. Hier. iii, iv, vii, viii), "Angels cleanse, enlighten, and perfect both lesser angels and men." Now the rational creature is cleansed, enlightened, and perfected by grace. Therefore God is not the only cause of grace.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 83:12): "The Lord will give grace and glory."
 
 I answer that, Nothing can act beyond its species, since the cause must always be more powerful than its effect. Now the gift of grace surpasses every capability of created nature, since it is nothing short of a partaking of the Divine Nature, which exceeds every other nature. And thus it is impossible that any creature should cause grace. For it is as necessary that God alone should deify, bestowing a partaking of the Divine Nature by a participated likeness, as it is impossible that anything save fire should enkindle.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ's humanity is an "organ of His Godhead," as Damascene says (De Fide Orth. iii, 19). Now an instrument does not bring forth the action of the principal agent by its own power, but in virtue of the principal agent. Hence Christ's humanity does not cause grace by its own power, but by virtue of the Divine Nature joined to it, whereby the actions of Christ's humanity are saving actions.
 
 Reply to Objection 2: As in the person of Christ the humanity causes our salvation by grace, the Divine power being the principal agent, so likewise in the sacraments of the New Law, which are derived from Christ, grace is instrumentally caused by the sacraments, and principally by the power of the Holy Ghost working in the sacraments, according to Jn. 3:5: "Unless a man be born again of water and the Holy Ghost he cannot enter into the kingdom of God."
 
 Reply to Objection 3: Angels cleanse, enlighten, and perfect angels or men, by instruction, and not by justifying them through grace. Hence Dionysius says (Coel. Hier. vii) that "this cleansing and enlightenment and perfecting is nothing else than the assumption of Divine knowledge."
-## Whether Any Preparation And Disposition For Grace Is Required On Man's Part?
+### Whether Any Preparation And Disposition For Grace Is Required On Man's Part?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no preparation or disposition for grace is required on man's part, since, as the Apostle says (Rom. 4:4), "To him that worketh, the reward is not reckoned according to grace, but according to debt." Now a man's preparation by free-will can only be through some operation. Hence it would do away with the notion of grace.
 
@@ -39,22 +39,22 @@ Objection 2: Further, whoever is going on sinning, is not preparing himself to h
 
 Objection 3: Further, an agent of infinite power needs no disposition in matter, since it does not even require matter, as appears in creation, to which grace is compared, which is called "a new creature" (Gal. 6:15). But only God, Who has infinite power, causes grace, as stated above (A[1] ). Hence no preparation is required on man's part to obtain grace.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Amos 4:12): "Be prepared to meet thy God, O Israel," and (1 Kings 7:3): "Prepare your hearts unto the Lord."
 
 I answer that, As stated above ([2205]Q[111], A[2]), grace is taken in two ways: first, as a habitual gift of God. Secondly, as a help from God, Who moves the soul to good. Now taking grace in the first sense, a certain preparation of grace is required for it, since a form can only be in disposed matter. But if we speak of grace as it signifies a help from God to move us to good, no preparation is required on man's part, that, as it were, anticipates the Divine help, but rather, every preparation in man must be by the help of God moving the soul to good. And thus even the good movement of the free-will, whereby anyone is prepared for receiving the gift of grace is an act of the free-will moved by God. And thus man is said to prepare himself, according to Prov. 16:1: "It is the part of man to prepare the soul"; yet it is principally from God, Who moves the free-will. Hence it is said that man's will is prepared by God, and that man's steps are guided by God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A certain preparation of man for grace is simultaneous with the infusion of grace; and this operation is meritorious, not indeed of grace, which is already possessed---but of glory which is not yet possessed. But there is another imperfect preparation, which sometimes precedes the gift of sanctifying grace, and yet it is from God's motion. But it does not suffice for merit, since man is not yet justified by grace, and merit can only arise from grace, as will be seen further on ([2206]Q[114], A[2]).
 
 Reply to Objection 2: Since a man cannot prepare himself for grace unless God prevent and move him to good, it is of no account whether anyone arrive at perfect preparation instantaneously, or step by step. For it is written (Ecclus. 11:23): "It is easy in the eyes of God on a sudden to make the poor man rich." Now it sometimes happens that God moves a man to good, but not perfect good, and this preparation precedes grace. But He sometimes moves him suddenly and perfectly to good, and man receives grace suddenly, according to Jn. 6:45: "Every one that hath heard of the Father, and hath learned, cometh to Me." And thus it happened to Paul, since, suddenly when he was in the midst of sin, his heart was perfectly moved by God to hear, to learn, to come; and hence he received grace suddenly.
 
 Reply to Objection 3: An agent of infinite power needs no matter or disposition of matter, brought about by the action of something else; and yet, looking to the condition of the thing caused, it must cause, in the thing caused, both the matter and the due disposition for the form. So likewise, when God infuses grace into a soul, no preparation is required which He Himself does not bring about.
-## Whether Grace Is Necessarily Given To Whoever Prepares Himself For It, Or To Whoever Does What He Can?
+### Whether Grace Is Necessarily Given To Whoever Prepares Himself For It, Or To Whoever Does What He Can?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that grace is necessarily given to whoever prepares himself for grace, or to whoever does what he can, because, on Rom. 5:1, "Being justified . . . by faith, let us have peace," etc. the gloss says: "God welcomes whoever flies to Him, otherwise there would be injustice with Him." But it is impossible for injustice to be with God. Therefore it is impossible for God not to welcome whoever flies to Him. Hence he receives grace of necessity.
 
@@ -62,22 +62,22 @@ Objection 2: Further, Anselm says (De Casu Diaboli. iii) that the reason why God
 
 Objection 3: Further, good is diffusive of itself, as appears from Dionysius (Div. Nom. iv). Now the good of grace is better than the good of nature. Hence, since natural forms necessarily come to disposed matter, much more does it seem that grace is necessarily bestowed on whoever prepares himself for grace.
 
-### Answer
+**Answer**
 
 On the contrary, Man is compared to God as clay to the potter, according to Jer. 18:6: "As clay is in the hand of the potter, so are you in My hand." But however much the clay is prepared, it does not necessarily receive its shape from the potter. Hence, however much a man prepares himself, he does not necessarily receive grace from God.
 
 I answer that, As stated above [2207](A[2]), man's preparation for grace is from God, as Mover, and from the free-will, as moved. Hence the preparation may be looked at in two ways: first, as it is from free-will, and thus there is no necessity that it should obtain grace, since the gift of grace exceeds every preparation of human power. But it may be considered, secondly, as it is from God the Mover, and thus it has a necessity---not indeed of coercion, but of infallibility---as regards what it is ordained to by God, since God's intention cannot fail, according to the saying of Augustine in his book on the Predestination of the Saints (De Dono Persev. xiv) that "by God's good gifts whoever is liberated, is most certainly liberated." Hence if God intends, while moving, that the one whose heart He moves should attain to grace, he will infallibly attain to it, according to Jn. 6:45: "Every one that hath heard of the Father, and hath learned, cometh to Me."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This gloss is speaking of such as fly to God by a meritorious act of their free-will, already "informed" with grace; for if they did not receive grace, it would be against the justice which He Himself established. Or if it refers to the movement of free-will before grace, it is speaking in the sense that man's flight to God is by a Divine motion, which ought not, in justice, to fail.
 
 Reply to Objection 2: The first cause of the defect of grace is on our part; but the first cause of the bestowal of grace is on God's according to Osee 13:9: "Destruction is thy own, O Israel; thy help is only in Me."
 
 Reply to Objection 3: Even in natural things, the form does not necessarily ensue the disposition of the matter, except by the power of the agent that causes the disposition.
-## Whether Grace Is Greater In One Than In Another?
+### Whether Grace Is Greater In One Than In Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that grace is not greater in one than in another. For grace is caused in us by the Divine love, as stated above ([2208]Q[110], A[1]). Now it is written (Wis. 6:8): "He made the little and the great and He hath equally care of all." Therefore all obtain grace from Him equally.
 
@@ -85,7 +85,7 @@ Objection 2: Further, whatever is the greatest possible, cannot be more or less.
 
 Objection 3: Further, grace is the soul's life, as stated above ([2209]Q[110], A[1], ad 2). But there is no greater or less in life. Hence, neither is there in grace.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Eph. 4:7): "But to every one of us is given grace according to the measure of the giving of Christ." Now what is given in measure, is not given to all equally. Hence all have not an equal grace.
 
@@ -93,16 +93,16 @@ I answer that, As stated above ([2210]Q[52], AA[1],2;[2211] Q[56], AA[1],2), hab
 
 Now as regards the first magnitude, sanctifying grace cannot be greater or less, since, of its nature, grace joins man to the Highest Good, which is God. But as regards the subject, grace can receive more or less, inasmuch as one may be more perfectly enlightened by grace than another. And a certain reason for this is on the part of him who prepares himself for grace; since he who is better prepared for grace, receives more grace. Yet it is not here that we must seek the first cause of this diversity, since man prepares himself, only inasmuch as his free-will is prepared by God. Hence the first cause of this diversity is to be sought on the part of the God, Who dispenses His gifts of grace variously, in order that the beauty and perfection of the Church may result from these various degree; even as He instituted the various conditions of things, that the universe might be perfect. Hence after the Apostle had said (Eph. 4:7): "To every one of us is given grace according to the measure of the giving of Christ," having enumerated the various graces, he adds (Eph. 4:12): "For the perfecting of the saints . . . for the edifying of the body of Christ."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Divine care may be looked at in two ways: first, as regards the Divine act, which is simple and uniform; and thus His care looks equally to all, since by one simple act He administers great things and little. But, "secondly," it may be considered in those things which come to be considered by the Divine care; and thus, inequality is found, inasmuch as God by His care provides greater gifts to some, and lesser gifts for others.
 
 Reply to Objection 2: This objection is based on the first kind of magnitude of grace; since grace cannot be greater by ordaining to a greater good, but inasmuch as it more or less ordains to a greater or less participation of the same good. For there may be diversity of intensity and remissness, both in grace and in final glory as regards the subjects' participation.
 
 Reply to Objection 3: Natural life pertains to man's substance, and hence cannot be more or less; but man partakes of the life of grace accidentally, and hence man may possess it more or less.
-## Whether Man Can Know That He Has Grace?
+### Whether Man Can Know That He Has Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man can know that he has grace. For grace by its physical reality is in the soul. Now the soul has most certain knowledge of those things that are in it by their physical reality, as appears from Augustine (Gen. ad lit. xii, 31). Hence grace may be known most certainly by one who has grace.
 
@@ -114,7 +114,7 @@ Objection 4: Further, the Apostle says (1 Cor. 2:12): "Now we have received not 
 
 Objection 5: Further, it was said by the Lord to Abraham (Gn. 22:12): "Now I know that thou fearest God," i.e. "I have made thee know." Now He is speaking there of chaste fear, which is not apart from grace. Hence a man may know that he has grace.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Eccles. 9:1): "Man knoweth not whether he be worthy of love or hatred." Now sanctifying grace maketh a man worthy of God's love. Therefore no one can know whether he has sanctifying grace.
 
@@ -124,7 +124,7 @@ Secondly, a man may, of himself, know something, and with certainty; and in this
 
 Thirdly, things are known conjecturally by signs; and thus anyone may know he has grace, when he is conscious of delighting in God, and of despising worldly things, and inasmuch as a man is not conscious of any mortal sin. And thus it is written (Apoc. 2:17): "To him that overcometh I will give the hidden manna . . . which no man knoweth, but he that receiveth it," because whoever receives it knows, by experiencing a certain sweetness, which he who does not receive it, does not experience. Yet this knowledge is imperfect; hence the Apostle says (1 Cor. 4:4): "I am not conscious to myself of anything, yet am I not hereby justified," since, according to Ps. 18:13: "Who can understand sins? From my secret ones cleanse me, O Lord, and from those of others spare Thy servant."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Those things which are in the soul by their physical reality, are known through experimental knowledge; in so far as through acts man has experience of their inward principles: thus when we wish, we perceive that we have a will; and when we exercise the functions of life, we observe that there is life in us.
 

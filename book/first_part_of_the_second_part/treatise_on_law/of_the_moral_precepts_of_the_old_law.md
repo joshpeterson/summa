@@ -13,9 +13,9 @@ We must now consider each kind of precept of the Old Law: and (1) the moral prec
 (10) Whether the mode of charity comes under the precept?
 (11) The distinction of other moral precepts;
 (12) Whether the moral precepts of the Old Law justified man?
-## Whether All The Moral Precepts Of The Old Law Belong To The Law Of Nature?
+### Whether All The Moral Precepts Of The Old Law Belong To The Law Of Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that not all the moral precepts belong to the law of nature. For it is written (Ecclus. 17:9): "Moreover He gave them instructions, and the law of life for an inheritance." But instruction is in contradistinction to the law of nature; since the law of nature is not learnt, but instilled by natural instinct. Therefore not all the moral precepts belong to the natural law.
 
@@ -23,7 +23,7 @@ Objection 2: Further, the Divine law is more perfect than human law. But human l
 
 Objection 3: Further, just as natural reason leads to good morals in certain matters, so does faith: hence it is written (Gal. 5:6) that faith "worketh by charity." But faith is not included in the law of nature; since that which is of faith is above nature. Therefore not all the moral precepts of the Divine law belong to the law of nature.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 2:14) that "the Gentiles, who have not the Law, do by nature those things that are of the Law": which must be understood of things pertaining to good morals. Therefore all the moral precepts of the Law belong to the law of nature.
 
@@ -32,9 +32,9 @@ I answer that, The moral precepts, distinct from the ceremonial and judicial pre
 It is therefore evident that since the moral precepts are about matters which concern good morals; and since good morals are those which are in accord with reason; and since also every judgment of human reason must needs by derived in some way from natural reason; it follows, of necessity, that all the moral precepts belong to the law of nature; but not all in the same way. For there are certain things which the natural reason of every man, of its own accord and at once, judges to be done or not to be done: e.g. "Honor thy father and thy mother," and "Thou shalt not kill, Thou shalt not steal": and these belong to the law of nature absolutely. And there are certain things which, after a more careful consideration, wise men deem obligatory. Such belong to the law of nature, yet so that they need to be inculcated, the wiser teaching the less wise: e.g. "Rise up before the hoary head, and honor the person of the aged man," and the like. And there are some things, to judge of which, human reason needs Divine instruction, whereby we are taught about the things of God: e.g. "Thou shalt not make to thyself a graven thing, nor the likeness of anything; Thou shalt not take the name of the Lord thy God in vain."
 
 This suffices for the Replies to the Objections.
-## Whether The Moral Precepts Of The Law Are About All The Acts Of Virtue?
+### Whether The Moral Precepts Of The Law Are About All The Acts Of Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the moral precepts of the Law are not about all the acts of virtue. For observance of the precepts of the Old Law is called justification, according to Ps. 118:8: "I will keep Thy justifications." But justification is the execution of justice. Therefore the moral precepts are only about acts of justice.
 
@@ -42,7 +42,7 @@ Objection 2: Further, that which comes under a precept has the character of a du
 
 Objection 3: Further, every law is made for the common good, as Isidore says (Etym. v, 21). But of all the virtues justice alone regards the common good, as the Philosopher says (Ethic. v, 1). Therefore the moral precepts are only about the acts of justice.
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose says (De Paradiso viii) that "a sin is a transgression of the Divine law, and a disobedience to the commandments of heaven." But there are sins contrary to all the acts of virtue. Therefore it belongs to Divine law to direct all the acts of virtue.
 
@@ -50,14 +50,14 @@ I answer that, Since the precepts of the Law are ordained to the common good, as
 
 But the community for which the Divine law is ordained, is that of men in relation to God, either in this life or in the life to come. And therefore the Divine law proposes precepts about all those matters whereby men are well ordered in their relations to God. Now man is united to God by his reason or mind, in which is God's image. Wherefore the Divine law proposes precepts about all those matters whereby human reason is well ordered. But this is effected by the acts of all the virtues: since the intellectual virtues set in good order the acts of the reason in themselves: while the moral virtues set in good order the acts of the reason in reference to the interior passions and exterior actions. It is therefore evident that the Divine law fittingly proposes precepts about the acts of all the virtues: yet so that certain matters, without which the order of virtue, which is the order of reason, cannot even exist, come under an obligation of precept; while other matters, which pertain to the well-being of perfect virtue, come under an admonition of counsel.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The fulfilment of the commandments of the Law, even of those which are about the acts of the other virtues, has the character of justification, inasmuch as it is just that man should obey God: or again, inasmuch as it is just that all that belongs to man should be subject to reason.
 
 Reply to Objection 2: Justice properly so called regards the duty of one man to another: but all the other virtues regard the duty of the lower powers to reason. It is in relation to this latter duty that the Philosopher speaks (Ethic. v, 11) of a kind of metaphorical justice.
-## Whether All The Moral Precepts Of The Old Law Are Reducible To The Ten Precepts Of The Decalogue?
+### Whether All The Moral Precepts Of The Old Law Are Reducible To The Ten Precepts Of The Decalogue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that not all the moral precepts of the Old Law are reducible to the ten precepts of the decalogue. For the first and principal precepts of the Law are, "Thou shalt love the Lord thy God," and "Thou shalt love thy neighbor," as stated in Mat. 22:37,39. But these two are not contained in the precepts of the decalogue. Therefore not all the moral precepts are contained in the precepts of the decalogue.
 
@@ -65,22 +65,22 @@ Objection 2: Further, the moral precepts are not reducible to the ceremonial pre
 
 Objection 3: Further, the moral precepts are about all the acts of virtue. But among the precepts of the decalogue are only such as regard acts of justice; as may be seen by going through them all. Therefore the precepts of the decalogue do not include all the moral precepts.
 
-### Answer
+**Answer**
 
 On the contrary, The gloss on Mat. 5:11: "Blessed are ye when they shall revile you," etc. says that "Moses, after propounding the ten precepts, set them out in detail." Therefore all the precepts of the Law are so many parts of the precepts of the decalogue.
 
 I answer that, The precepts of the decalogue differ from the other precepts of the Law, in the fact that God Himself is said to have given the precepts of the decalogue; whereas He gave the other precepts to the people through Moses. Wherefore the decalogue includes those precepts the knowledge of which man has immediately from God. Such are those which with but slight reflection can be gathered at once from the first general principles: and those also which become known to man immediately through divinely infused faith. Consequently two kinds of precepts are not reckoned among the precepts of the decalogue: viz. first general principles, for they need no further promulgation after being once imprinted on the natural reason to which they are self-evident; as, for instance, that one should do evil to no man, and other similar principles: and again those which the careful reflection of wise men shows to be in accord with reason; since the people receive these principles from God, through being taught by wise men. Nevertheless both kinds of precepts are contained in the precepts of the decalogue; yet in different ways. For the first general principles are contained in them, as principles in their proximate conclusions; while those which are known through wise men are contained, conversely, as conclusions in their principles.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Those two principles are the first general principles of the natural law, and are self-evident to human reason, either through nature or through faith. Wherefore all the precepts of the decalogue are referred to these, as conclusions to general principles.
 
 Reply to Objection 2: The precept of the Sabbath observance is moral in one respect, in so far as it commands man to give some time to the things of God, according to Ps. 45:11: "Be still and see that I am God." In this respect it is placed among the precepts of the decalogue: but not as to the fixing of the time, in which respect it is a ceremonial precept.
 
 Reply to Objection 3: The notion of duty is not so patent in the other virtues as it is in justice. Hence the precepts about the acts of the other virtues are not so well known to the people as are the precepts about acts of justice. Wherefore the acts of justice especially come under the precepts of the decalogue, which are the primary elements of the Law.
-## Whether The Precepts Of The Decalogue Are Suitably Distinguished From One Another?
+### Whether The Precepts Of The Decalogue Are Suitably Distinguished From One Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the precepts of the decalogue are unsuitably distinguished from one another. For worship is a virtue distinct from faith. Now the precepts are about acts of virtue. But that which is said at the beginning of the decalogue, "Thou shalt not have strange gods before Me," belongs to faith: and that which is added, "Thou shalt not make . . . any graven thing," etc. belongs to worship. Therefore these are not one precept, as Augustine asserts (Qq. in Exod. qu. lxxi), but two.
 
@@ -88,7 +88,7 @@ Objection 2: Further, the affirmative precepts in the Law are distinct from the 
 
 Objection 3: Further, the Apostle says (Rom. 7:7): "I had not known concupiscence, if the Law did not say: 'Thou shalt not covet.'" Hence it seems that this precept, "Thou shalt not covet," is one precept; and, therefore, should not be divided into two.
 
-### Answer
+**Answer**
 
 On the contrary, stands the authority of Augustine who, in commenting on Exodus (Qq. in Exod. qu. lxxi) distinguishes three precepts as referring to God, and seven as referring to our neighbor.
 
@@ -98,16 +98,16 @@ But, in the first place, it seems unbecoming for the precept of the Sabbath-day 
 
 Since, however, the making of graven things or the likeness of anything is not forbidden except as to the point of their being worshipped as gods---for God commanded an image of the Seraphim [Vulg.: Cherubim] to be made and placed in the tabernacle, as related in Ex. 25:18---Augustine more fittingly unites these two, "Thou shalt not have strange gods before Me," and, "Thou shalt not make . . . any graven thing," into one precept. Likewise to covet another's wife, for the purpose of carnal knowledge, belongs to the concupiscence of the flesh; whereas, to covet other things, which are desired for the purpose of possession, belongs to the concupiscence of the eyes; wherefore Augustine reckons as distinct precepts, that which forbids the coveting of another's goods, and that which prohibits the coveting of another's wife. Thus he distinguishes three precepts as referring to God, and seven as referring to our neighbor. And this is better.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Worship is merely a declaration of faith: wherefore the precepts about worship should not be reckoned as distinct from those about faith. Nevertheless precepts should be given about worship rather than about faith, because the precept about faith is presupposed to the precepts of the decalogue, as is also the precept of charity. For just as the first general principles of the natural law are self-evident to a subject having natural reason, and need no promulgation; so also to believe in God is a first and self-evident principle to a subject possessed of faith: "for he that cometh to God, must believe that He is" (Heb. 11:6). Hence it needs no other promulgation that the infusion of faith.
 
 Reply to Objection 2: The affirmative precepts are distinct from the negative, when one is not comprised in the other: thus that man should honor his parents does not include that he should not kill another man; nor does the latter include the former. But when an affirmative precept is included in a negative, or vice versa, we do not find that two distinct precepts are given: thus there is not one precept saying that "Thou shalt not steal," and another binding one to keep another's property intact, or to give it back to its owner. In the same way there are not different precepts about believing in God, and about not believing in strange gods.
 
 Reply to Objection 3: All covetousness has one common ratio: and therefore the Apostle speaks of the commandment about covetousness as though it were one. But because there are various special kinds of covetousness, therefore Augustine distinguishes different prohibitions against coveting: for covetousness differs specifically in respect of the diversity of actions or things coveted, as the Philosopher says (Ethic. x, 5).
-## Whether The Precepts Of The Decalogue Are Suitably Set Forth?
+### Whether The Precepts Of The Decalogue Are Suitably Set Forth?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the precepts of the decalogue are unsuitably set forth. Because sin, as stated by Ambrose (De Paradiso viii), is "a transgression of the Divine law and a disobedience to the commandments of heaven." But sins are distinguished according as man sins against God, or his neighbor, or himself. Since, then, the decalogue does not include any precepts directing man in his relations to himself, but only such as direct him in his relations to God and himself, it seems that the precepts of the decalogue are insufficiently enumerated.
 
@@ -121,7 +121,7 @@ Objection 5: Further, in every kind of sin, it is possible to sin in thought or 
 
 Objection 6: Further, just as sin happens through disorder of the concupiscible faculty, so does it arise through disorder of the irascible part. But some precepts forbid inordinate concupiscence, when it is said, "Thou shalt not covet." Therefore the decalogue should have included some precepts forbidding the disorders of the irascible faculty. Therefore it seems that the ten precepts of the decalogue are unfittingly enumerated.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 4:13): "He shewed you His covenant, which He commanded you to do, and the ten words that He wrote in two tablets of stone."
 
@@ -133,7 +133,7 @@ To his neighbors a man behaves himself well both in particular and in general. I
 
 The three precepts that direct man in his behavior towards God may also be differentiated in this same way. For the first refers to deeds; wherefore it is said, "Thou shalt not make . . . a graven thing": the second, to words; wherefore it is said, "Thou shalt not take the name of the Lord thy God in vain": the third, to thoughts; because the sanctification of the Sabbath, as the subject of a moral precept, requires repose of the heart in God. Or, according to Augustine (In Ps. 32: Conc. 1), by the first commandment we reverence the unity of the First Principle; by the second, the Divine truth; by the third, His goodness whereby we are sanctified, and wherein we rest as in our last end.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This objection may be answered in two ways. First, because the precepts of the decalogue can be reduced to the precepts of charity. Now there was need for man to receive a precept about loving God and his neighbor, because in this respect the natural law had become obscured on account of sin: but not about the duty of loving oneself, because in this respect the natural law retained its vigor: or again, because love of oneself is contained in the love of God and of one's neighbor: since true self-love consists in directing oneself to God. And for this reason the decalogue includes those precepts only which refer to our neighbor and to God.
 
@@ -146,9 +146,9 @@ Reply to Objection 4: That a man should not do harm to anyone is an immediate di
 Reply to Objection 5: The pleasure of adultery and the usefulness of wealth, in so far as they have the character of pleasurable or useful good, are of themselves, objects of appetite: and for this reason they needed to be forbidden not only in the deed but also in the desire. But murder and falsehood are, of themselves, objects of repulsion (since it is natural for man to love his neighbor and the truth): and are desired only for the sake of something else. Consequently with regard to sins of murder and false witness, it was necessary to proscribe, not sins of thought, but only sins of deed.
 
 Reply to Objection 6: As stated above ([2084]Q[25], A[1]), all the passions of the irascible faculty arise from the passions of the concupiscible part. Hence, as the precepts of the decalogue are, as it were, the first elements of the Law, there was no need for mention of the irascible passions, but only of the concupiscible passions.
-## Whether The Ten Precepts Of The Decalogue Are Set In Proper Order?
+### Whether The Ten Precepts Of The Decalogue Are Set In Proper Order?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the ten precepts of the decalogue are not set in proper order. Because love of one's neighbor is seemingly previous to love of God, since our neighbor is better known to us than God is; according to 1 Jn. 4:20: "He that loveth not his brother, whom he seeth, how can he love God, Whom he seeth not?" But the first three precepts belong to the love of God, while the other seven pertain to the love of our neighbor. Therefore the precepts of the decalogue are not set in proper order.
 
@@ -156,7 +156,7 @@ Objection 2: Further, the acts of virtue are prescribed by the affirmative prece
 
 Objection 3: Further, the precepts of the Law are about men's actions. But actions of thought precede actions of word or outward deed. Therefore the precepts about not coveting, which regard our thoughts, are unsuitably placed last in order.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 13:1): "The things that are of God, are well ordered" [Vulg.: 'Those that are, are ordained of God']. But the precepts of the decalogue were given immediately by God, as stated above [2085](A[3]). Therefore they are arranged in becoming order.
 
@@ -166,16 +166,16 @@ Now among those things whereby we are ordained to God, the first is that man sho
 
 As to the precepts that direct man in his behavior towards his neighbor, it is evident that it is more repugnant to reason, and a more grievous sin, if man does not observe the due order as to those persons to whom he is most indebted. Consequently, among those precepts that direct man in his relations to his neighbor, the first place is given to that one which regards his parents. Among the other precepts we again find the order to be according to the gravity of sin. For it is more grave and more repugnant to reason, to sin by deed than by word; and by word than by thought. And among sins of deed, murder which destroys life in one already living is more grievous than adultery, which imperils the life of the unborn child; and adultery is more grave than theft, which regards external goods.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although our neighbor is better known than God by the way of the senses, nevertheless the love of God is the reason for the love of our neighbor, as shall be declared later on ([2087]SS, Q[25], A[1]; [2088]SS, Q[26], A[2]). Hence the precepts ordaining man to God demanded precedence of the others.
 
 Reply to Objection 2: Just as God is the universal principle of being in respect of all things, so is a father a principle of being in respect of his son. Therefore the precept regarding parents was fittingly placed after the precepts regarding God. This argument holds in respect of affirmative and negative precepts about the same kind of deed: although even then it is not altogether cogent. For although in the order of execution, vices should be uprooted before virtues are sown, according to Ps. 33:15: "Turn away from evil, and do good," and Is. 1:16,17: "Cease to do perversely; learn to do well"; yet, in the order of knowledge, virtue precedes vice, because "the crooked line is known by the straight" (De Anima i): and "by the law is the knowledge of sin" (Rom. 3:20). Wherefore the affirmation precept demanded the first place. However, this is not the reason for the order, but that which is given above. Because in the precepts regarding God, which belongs to the first table, an affirmative precept is placed last, since its transgression implies a less grievous sin.
 
 Reply to Objection 3: Although sin of thought stands first in the order of execution, yet its prohibition holds a later position in the order of reason.
-## Whether The Precepts Of The Decalogue Are Suitably Formulated?
+### Whether The Precepts Of The Decalogue Are Suitably Formulated?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the precepts of the decalogue are unsuitably formulated. Because the affirmative precepts direct man to acts of virtue, while the negative precepts withdraw him from acts of vice. But in every matter there are virtues and vices opposed to one another. Therefore in whatever matter there is an ordinance of a precept of the decalogue, there should have been an affirmative and a negative precept. Therefore it was unfitting that affirmative precepts should be framed in some matters, and negative precepts in others.
 
@@ -187,13 +187,13 @@ Objection 4: Further, the Old Law is called "the law of fear," in so far as it i
 
 Objection 5: Further, all the commandments of God should be retained in the memory: for it is written (Prov. 3:3): "Write them in the tables of thy heart." Therefore it was not fitting that mention of the memory should be made in the third commandment only. Consequently it seems that the precepts of the decalogue are unsuitably formulated.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Wis. 11:21) that "God made all things, in measure, number and weight." Much more therefore did He observe a suitable manner in formulating His Law.
 
 I answer that, The highest wisdom is contained in the precepts of the Divine law: wherefore it is written (Dt. 4:6): "This is your wisdom and understanding in the sight of nations." Now it belongs to wisdom to arrange all things in due manner and order. Therefore it must be evident that the precepts of the Law are suitably set forth.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Affirmation of one thing always leads to the denial of its opposite: but the denial of one opposite does not always lead to the affirmation of the other. For it follows that if a thing is white, it is not black: but it does not follow that if it is not black, it is white: because negation extends further than affirmation. And hence too, that one ought not to do harm to another, which pertains to the negative precepts, extends to more persons, as a primary dictate of reason, than that one ought to do someone a service or kindness. Nevertheless it is a primary dictate of reason that man is a debtor in the point of rendering a service or kindness to those from whom he has received kindness, if he has not yet repaid the debt. Now there are two whose favors no man can sufficiently repay, viz. God and man's father, as stated in Ethic. viii, 14. Therefore it is that there are only two affirmative precepts; one about the honor due to parents, the other about the celebration of the Sabbath in memory of the Divine favor.
 
@@ -204,9 +204,9 @@ Reply to Objection 3: Generally speaking, men direct their actions to some point
 Reply to Objection 4: Punishments are necessary against those who are prone to evil, as stated in Ethic. x, 9. Wherefore a threat of punishment is only affixed to those precepts of the law which forbade evils to which men were prone. Now men were prone to idolatry by reason of the general custom of the nations. Likewise men are prone to perjury on account of the frequent use of oaths. Hence it is that a threat is affixed to the first two precepts.
 
 Reply to Objection 5: The commandment about the Sabbath was made in memory of a past blessing. Wherefore special mention of the memory is made therein. Or again, the commandment about the Sabbath has a determination affixed to it that does not belong to the natural law, wherefore this precept needed a special admonition.
-## Whether The Precepts Of The Decalogue Are Dispensable?
+### Whether The Precepts Of The Decalogue Are Dispensable?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the precepts of the decalogue are dispensable. For the precepts of the decalogue belong to the natural law. But the natural law fails in some cases and is changeable, like human nature, as the Philosopher says (Ethic. v, 7). Now the failure of law to apply in certain particular cases is a reason for dispensation, as stated above ([2089]Q[96], A[6];[2090] Q[97], A[4]). Therefore a dispensation can be granted in the precepts of the decalogue.
 
@@ -216,7 +216,7 @@ Objection 3: Further, among the precepts of the decalogue is one forbidding murd
 
 Objection 4: Further, the observance of the Sabbath is ordained by a precept of the decalogue. But a dispensation was granted in this precept; for it is written (1 Macc. 2:4): "And they determined in that day, saying: Whosoever shall come up to fight against us on the Sabbath-day, we will fight against him." Therefore the precepts of the decalogue are dispensable.
 
-### Answer
+**Answer**
 
 On the contrary, are the words of Is. 24:5, where some are reproved for that "they have changed the ordinance, they have broken the everlasting covenant"; which, seemingly, apply principally to the precepts of the decalogue. Therefore the precepts of the decalogue cannot be changed by dispensation.
 
@@ -224,7 +224,7 @@ I answer that, As stated above ([2091]Q[96], A[6];[2092] Q[97], A[4]), precepts 
 
 Now the precepts of the decalogue contain the very intention of the lawgiver, who is God. For the precepts of the first table, which direct us to God, contain the very order to the common and final good, which is God; while the precepts of the second table contain the order of justice to be observed among men, that nothing undue be done to anyone, and that each one be given his due; for it is in this sense that we are to take the precepts of the decalogue. Consequently the precepts of the decalogue admit of no dispensation whatever.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher is not speaking of the natural law which contains the very order of justice: for it is a never-failing principle that "justice should be preserved." But he is speaking in reference to certain fixed modes of observing justice, which fail to apply in certain cases.
 
@@ -233,9 +233,9 @@ Reply to Objection 2: As the Apostle says (2 Tim. 2:13), "God continueth faithfu
 Reply to Objection 3: The slaying of a man is forbidden in the decalogue, in so far as it bears the character of something undue: for in this sense the precept contains the very essence of justice. Human law cannot make it lawful for a man to be slain unduly. But it is not undue for evil-doers or foes of the common weal to be slain: hence this is not contrary to the precept of the decalogue; and such a killing is no murder as forbidden by that precept, as Augustine observes (De Lib. Arb. i, 4). In like manner when a man's property is taken from him, if it be due that he should lose it, this is not theft or robbery as forbidden by the decalogue.
 
 Reply to Objection 4: This determination was an interpretation rather than a dispensation. For a man is not taken to break the Sabbath, if he does something necessary for human welfare; as Our Lord proves (Mat. 12:3, seqq.).
-## Whether The Mode Of Virtue Falls Under The Precept Of The Law?
+### Whether The Mode Of Virtue Falls Under The Precept Of The Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the mode of virtue falls under the precept of the law. For the mode of virtue is that deeds of justice should be done justly, that deeds of fortitude should be done bravely, and in like manner as to the other virtues. But it is commanded (Dt. 26:20) that "thou shalt follow justly after that which is just." Therefore the mode of virtue falls under the precept.
 
@@ -243,7 +243,7 @@ Objection 2: Further, that which belongs to the intention of the lawgiver comes 
 
 Objection 3: Further, the mode of virtue seems to consist properly in working willingly and with pleasure. But this falls under a precept of the Divine law, for it is written (Ps. 99:2): "Serve ye the Lord with gladness"; and (2 Cor. 9:7): "Not with sadness or necessity: for God loveth a cheerful giver"; whereupon the gloss says: "Whatever ye do, do gladly; and then you will do it well; whereas if you do it sorrowfully, it is done in thee, not by thee." Therefore the mode of virtue falls under the precept of the law.
 
-### Answer
+**Answer**
 
 On the contrary, No man can act as a virtuous man acts unless he has the habit of virtue, as the Philosopher explains (Ethic. ii, 4; v, 8). Now whoever transgresses a precept of the law, deserves to be punished. Hence it would follow that a man who has not the habit of virtue, would deserve to be punished, whatever he does. But this is contrary to the intention of the law, which aims at leading man to virtue, by habituating him to good works. Therefore the mode of virtue does not fall under the precept.
 
@@ -255,16 +255,16 @@ The second point is that a man should act "deliberately," i.e. "from choice, cho
 
 The third point is that he should "act from a firm and immovable principle": which firmness belongs properly to a habit, and implies that the action proceeds from a rooted habit. In this respect, the mode of virtue does not fall under the precept either of Divine or of human law, since neither by man nor by God is he punished as breaking the law, who gives due honor to his parents and yet has not the habit of filial piety.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The mode of doing acts of justice, which falls under the precept, is that they be done in accordance with right; but not that they be done from the habit of justice.
 
 Reply to Objection 2: The intention of the lawgiver is twofold. His aim, in the first place, is to lead men to something by the precepts of the law: and this is virtue. Secondly, his intention is brought to bear on the matter itself of the precept: and this is something leading or disposing to virtue, viz. an act of virtue. For the end of the precept and the matter of the precept are not the same: just as neither in other things is the end the same as that which conduces to the end.
 
 Reply to Objection 3: That works of virtue should be done without sadness, falls under the precept of the Divine law; for whoever works with sadness works unwillingly. But to work with pleasure, i.e. joyfully or cheerfully, in one respect falls under the precept, viz. in so far as pleasure ensues from the love of God and one's neighbor (which love falls under the precept), and love causes pleasure: and in another respect does not fall under the precept, in so far as pleasure ensues from a habit; for "pleasure taken in a work proves the existence of a habit," as stated in Ethic. ii, 3. For an act may give pleasure either on account of its end, or through its proceeding from a becoming habit.
-## Whether The Mode Of Charity Falls Under The Precept Of The Divine Law?
+### Whether The Mode Of Charity Falls Under The Precept Of The Divine Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the mode of charity falls under the precept of the Divine law. For it is written (Mat. 19:17): "If thou wilt enter into life, keep the commandments": whence it seems to follow that the observance of the commandments suffices for entrance into life. But good works do not suffice for entrance into life, except they be done from charity: for it is written (1 Cor. 13:3): "If I should distribute all my goods to feed the poor, and if I should deliver my body to be burned, and have not charity, it profiteth me nothing." Therefore the mode of charity is included in the commandment.
 
@@ -272,7 +272,7 @@ Objection 2: Further, the mode of charity consists properly speaking in doing al
 
 Objection 3: Further, if the mode of charity does not fall under the precept, it follows that one can fulfil the precepts of the law without having charity. Now what can be done without charity can be done without grace, which is always united to charity. Therefore one can fulfil the precepts of the law without grace. But this is the error of Pelagius, as Augustine declares (De Haeres. lxxxviii). Therefore the mode of charity is included in the commandment.
 
-### Answer
+**Answer**
 
 On the contrary, Whoever breaks a commandment sins mortally. If therefore the mode of charity falls under the precept, it follows that whoever acts otherwise than from charity sins mortally. But whoever has not charity, acts otherwise than from charity. Therefore it follows that whoever has not charity, sins mortally in whatever he does, however good this may be in itself: which is absurd.
 
@@ -280,16 +280,16 @@ I answer that, Opinions have been contrary on this question. For some have said 
 
 Both these opinions are true up to a certain point. Because the act of charity can be considered in two ways. First, as an act by itself: and thus it falls under the precept of the law which specially prescribes it, viz. "Thou shalt love the Lord thy God," and "Thou shalt love thy neighbor." In this sense, the first opinion is true. Because it is not impossible to observe this precept which regards the act of charity; since man can dispose himself to possess charity, and when he possesses it, he can use it. Secondly, the act of charity can be considered as being the mode of the acts of the other virtues, i.e. inasmuch as the acts of the other virtues are ordained to charity, which is "the end of the commandment," as stated in 1 Tim. i, 5: for it has been said above ([2094]Q[12], A[4]) that the intention of the end is a formal mode of the act ordained to that end. In this sense the second opinion is true in saying that the mode of charity does not fall under the precept, that is to say that this commandment, "Honor thy father," does not mean that a man must honor his father from charity, but merely that he must honor him. Wherefore he that honors his father, yet has not charity, does not break this precept: although he does break the precept concerning the act of charity, for which reason he deserves to be punished.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord did not say, "If thou wilt enter into life, keep one commandment"; but "keep" all "the commandments": among which is included the commandment concerning the love of God and our neighbor.
 
 Reply to Objection 2: The precept of charity contains the injunction that God should be loved from our whole heart, which means that all things would be referred to God. Consequently man cannot fulfil the precept of charity, unless he also refer all things to God. Wherefore he that honors his father and mother, is bound to honor them from charity, not in virtue of the precept, "Honor thy father and mother," but in virtue of the precept, "Thou shalt love the Lord thy God with thy whole heart." And since these are two affirmative precepts, not binding for all times, they can be binding, each one at a different time: so that it may happen that a man fulfils the precept of honoring his father and mother, without at the same time breaking the precept concerning the omission of the mode of charity.
 
 Reply to Objection 3: Man cannot fulfil all the precepts of the law, unless he fulfil the precept of charity, which is impossible without charity. Consequently it is not possible, as Pelagius maintained, for man to fulfil the law without grace.
-## Whether It Is Right To Distinguish Other Moral Precepts Of The Law Besides The Decalogue?
+### Whether It Is Right To Distinguish Other Moral Precepts Of The Law Besides The Decalogue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is wrong to distinguish other moral precepts of the law besides the decalogue. Because, as Our Lord declared (Mat. 22:40), "on these two commandments" of charity "dependeth the whole law and the prophets." But these two commandments are explained by the ten commandments of the decalogue. Therefore there is no need for other moral precepts.
 
@@ -297,7 +297,7 @@ Objection 2: Further, the moral precepts are distinct from the judicial and cere
 
 Objection 3: Further, the moral precepts are about the acts of all the virtues, as stated above [2096](A[2]). Therefore, as the Law contains, besides the decalogue, moral precepts pertaining to religion, liberality, mercy, and chastity; so there should have been added some precepts pertaining to the other virtues, for instance, fortitude, sobriety, and so forth. And yet such is not the case. It is therefore unbecoming to distinguish other moral precepts in the Law besides those of the decalogue.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 18:8): "The law of the Lord is unspotted, converting souls." But man is preserved from the stain of sin, and his soul is converted to God by other moral precepts besides those of the decalogue. Therefore it was right for the Law to include other moral precepts.
 
@@ -305,16 +305,16 @@ I answer that, As is evident from what has been stated (Q[99], AA[3],4), the jud
 
 But since the things that are evident are the principles whereby we know those that are not evident, these other moral precepts added to the decalogue are reducible to the precepts of the decalogue, as so many corollaries. Thus the first commandment of the decalogue forbids the worship of strange gods: and to this are added other precepts forbidding things relating to worship of idols: thus it is written (Dt. 18:10,11): "Neither let there be found among you anyone that shall expiate his son or daughter, making them to pass through the fire: . . . neither let there by any wizard nor charmer, nor anyone that consulteth pythonic spirits, or fortune-tellers, or that seeketh the truth from the dead." The second commandment forbids perjury. To this is added the prohibition of blasphemy (Lev. 24:15, seqq) and the prohibition of false doctrine (Dt. 13). To the third commandment are added all the ceremonial precepts. To the fourth commandment prescribing the honor due to parents, is added the precept about honoring the aged, according to Lev. 19:32: "Rise up before the hoary head, and honor the person of the aged man"; and likewise all the precepts prescribing the reverence to be observed towards our betters, or kindliness towards our equals or inferiors. To the fifth commandment, which forbids murder, is added the prohibition of hatred and of any kind of violence inflicted on our neighbor, according to Lev. 19:16: "Thou shalt not stand against the blood of thy neighbor": likewise the prohibition against hating one's brother (Lev. 19:17): "Thou shalt not hate thy brother in thy heart." To the sixth commandment which forbids adultery, is added the prohibition about whoredom, according to Dt. 23:17: "There shall be no whore among the daughters of Israel, nor whoremonger among the sons of Israel"; and the prohibition against unnatural sins, according to Lev. 28:22,23: "Thou shalt not lie with mankind . . . thou shalt not copulate with any beast." To the seventh commandment which prohibits theft, is added the precept forbidding usury, according to Dt. 23:19: "Thou shalt not lend to thy brother money to usury"; and the prohibition against fraud, according to Dt. 25:13: "Thou shalt not have divers weights in thy bag"; and universally all prohibitions relating to peculations and larceny. To the eighth commandment, forbidding false testimony, is added the prohibition against false judgment, according to Ex. 23:2: "Neither shalt thou yield in judgment, to the opinion of the most part, to stray from the truth"; and the prohibition against lying (Ex. 23:7): "Thou shalt fly lying," and the prohibition against detraction, according to Lev. 19:16: "Thou shalt not be a detractor, nor a whisperer among the people." To the other two commandments no further precepts are added, because thereby are forbidden all kinds of evil desires.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The precepts of the decalogue are ordained to the love of God and our neighbor as pertaining evidently to our duty towards them; but the other precepts are so ordained as pertaining thereto less evidently.
 
 Reply to Objection 2: It is in virtue of their institution that the ceremonial and judicial precepts "are determinations of the precepts of the decalogue," not by reason of a natural instinct, as in the case of the superadded moral precepts.
 
 Reply to Objection 3: The precepts of a law are ordained for the common good, as stated above ([2098]Q[90], A[2]). And since those virtues which direct our conduct towards others pertain directly to the common good, as also does the virtue of chastity, in so far as the generative act conduces to the common good of the species; hence precepts bearing directly on these virtues are given, both in the decalogue and in addition thereto. As to the act of fortitude there are the order to be given by the commanders in the war, which is undertaken for the common good: as is clear from Dt. 20:3, where the priest is commanded (to speak thus): "Be not afraid, do not give back." In like manner the prohibition of acts of gluttony is left to paternal admonition, since it is contrary to the good of the household; hence it is said (Dt. 21:20) in the person of parents: "He slighteth hearing our admonitions, he giveth himself to revelling, and to debauchery and banquetings."
-## Whether The Moral Precepts Of The Old Law Justified Man?
+### Whether The Moral Precepts Of The Old Law Justified Man?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the moral precepts of the Old Law justified man. Because the Apostle says (Rom. 2:13): "For not the hearers of the Law are justified before God, but the doers of the Law shall be justified." But the doers of the Law are those who fulfil the precepts of the Law. Therefore the fulfilling of the precepts of the Law was a cause of justification.
 
@@ -322,7 +322,7 @@ Objection 2: Further, it is written (Lev. 18:5): "Keep My laws and My judgments,
 
 Objection 3: Further, the Divine law is more efficacious than human law. But human law justifies man; since there is a kind of justice consisting in fulfilling the precepts of law. Therefore the precepts of the Law justified man.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (2 Cor. 3:6): "The letter killeth": which, according to Augustine (De Spir. et Lit. xiv), refers even to the moral precepts. Therefore the moral precepts did not cause justice.
 
@@ -332,7 +332,7 @@ But if we speak of justification properly so called, then we must notice that it
 
 If, on the other hand, by justification we understand the execution of justice, thus all the precepts of the Law justified man, but in various ways. Because the ceremonial precepts taken as a whole contained something just in itself, in so far as they aimed at offering worship to God; whereas taken individually they contained that which is just, not in itself, but by being a determination of the Divine law. Hence it is said of these precepts that they did not justify man save through the devotion and obedience of those who complied with them. On the other hand the moral and judicial precepts, either in general or also in particular, contained that which is just in itself: but the moral precepts contained that which is just in itself according to that "general justice" which is "every virtue" according to Ethic. v, 1: whereas the judicial precepts belonged to "special justice," which is about contracts connected with the human mode of life, between one man and another.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle takes justification for the execution of justice.
 

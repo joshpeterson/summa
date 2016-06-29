@@ -6,9 +6,9 @@ We must now consider the difference of one moral virtue from another. And since 
 (3) Whether sorrow is compatible with moral virtue?
 (4) Whether every moral virtue is about a passion?
 (5) Whether there can be moral virtue without passion?
-## Whether Moral Virtue Is A Passion?
+### Whether Moral Virtue Is A Passion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that moral virtue is a passion. Because the mean is of the same genus as the extremes. But moral virtue is a mean between two passions. Therefore moral virtue is a passion.
 
@@ -16,22 +16,22 @@ Objection 2: Further, virtue and vice, being contrary to one another, are in the
 
 Objection 3: Further, pity is a passion, since it is sorrow for another's ills, as stated above ([1538]Q[35], A[8]). Now "Cicero the renowned orator did not hesitate to call pity a virtue," as Augustine states in De Civ. Dei ix, 5. Therefore a passion may be a moral virtue.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated in Ethic. ii, 5 that "passions are neither virtues nor vices."
 
 I answer that, Moral virtue cannot be a passion. This is clear for three reasons. First, because a passion is a movement of the sensitive appetite, as stated above ([1539]Q[22], A[3]): whereas moral virtue is not a movement, but rather a principle of the movement of the appetite, being a kind of habit. Secondly, because passions are not in themselves good or evil. For man's good or evil is something in reference to reason: wherefore the passions, considered in themselves, are referable both to good and evil, for as much as they may accord or disaccord with reason. Now nothing of this sort can be a virtue: since virtue is referable to good alone, as stated above ([1540]Q[55], A[3]). Thirdly, because, granted that some passions are, in some way, referable to good only, or to evil only; even then the movement of passion, as passion, begins in the appetite, and ends in the reason, since the appetite tends to conformity with reason. On the other hand, the movement of virtue is the reverse, for it begins in the reason and ends in the appetite, inasmuch as the latter is moved by reason. Hence the definition of moral virtue (Ethic. ii, 6) states that it is "a habit of choosing the mean appointed by reason as a prudent man would appoint it."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Virtue is a mean between passions, not by reason of its essence, but on account of its effect; because, to wit, it establishes the mean between passions.
 
 Reply to Objection 2: If by vice we understand a habit of doing evil deeds, it is evident that no passion is a vice. But if vice is taken to mean sin which is a vicious act, nothing hinders a passion from being a vice, or, on the other hand, from concurring in an act of virtue; in so far as a passion is either opposed to reason or in accordance with reason.
 
 Reply to Objection 3: Pity is said to be a virtue, i.e. an act of virtue, in so far as "that movement of the soul is obedient to reason"; viz. "when pity is bestowed without violating right, as when the poor are relieved, or the penitent forgiven," as Augustine says (De Civ. Dei ix, 5). But if by pity we understand a habit perfecting man so that he bestows pity reasonably, nothing hinders pity, in this sense, from being a virtue. The same applies to similar passions.
-## Whether There Can Be Moral Virtue With Passion?
+### Whether There Can Be Moral Virtue With Passion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that moral virtue cannot be with passion. For the Philosopher says (Topic. iv) that "a gentle man is one who is not passionate; but a patient man is one who is passionate but does not give way." The same applies to all the moral virtues. Therefore all moral virtues are without passion.
 
@@ -39,7 +39,7 @@ Objection 2: Further, virtue is a right affection of the soul, as health is to t
 
 Objection 3: Further, moral virtue requires perfect use of reason even in particular matters. But the passions are an obstacle to this: for the Philosopher says (Ethic. vi, 5) that "pleasures destroy the judgment of prudence": and Sallust says (Catilin.) that "when they," i.e. the soul's passions, "interfere, it is not easy for the mind to grasp the truth." Therefore passion is incompatible with moral virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xiv, 6): "If the will is perverse, these movements," viz. the passions, "are perverse also: but if it is upright, they are not only blameless, but even praiseworthy." But nothing praiseworthy is incompatible with moral virtue. Therefore moral virtue does not exclude the passions, but is consistent with them.
 
@@ -49,16 +49,16 @@ This difference, as Augustine observes (De Civ. Dei ix, 4), was one of words rat
 
 Accordingly, if the passions be taken for inordinate emotions, they cannot be in a virtuous man, so that he consent to them deliberately; as the Stoics maintained. But if the passions be taken for any movements of the sensitive appetite, they can be in a virtuous man, in so far as they are subordinate to reason. Hence Aristotle says (Ethic. ii, 3) that "some describe virtue as being a kind of freedom from passion and disturbance; this is incorrect, because the assertion should be qualified": they should have said virtue is freedom from those passions "that are not as they should be as to manner and time."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher quotes this, as well as many other examples in his books on Logic, in order to illustrate, not his own mind, but that of others. It was the opinion of the Stoics that the passions of the soul were incompatible with virtue: and the Philosopher rejects this opinion (Ethic. ii, 3), when he says that virtue is not freedom from passion. It may be said, however, that when he says "a gentle man is not passionate," we are to understand this of inordinate passion.
 
 Reply to Objection 2: This and all similar arguments which Tully brings forward in De Tusc. Quaest. iv take the passions in the execution of reason's command.
 
 Reply to Objection 3: When a passion forestalls the judgment of reason, so as to prevail on the mind to give its consent, it hinders counsel and the judgment of reason. But when it follows that judgment, as through being commanded by reason, it helps towards the execution of reason's command.
-## Whether Sorrow Is Compatible With Moral Virtue?
+### Whether Sorrow Is Compatible With Moral Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sorrow is incompatible with virtue. Because the virtues are effects of wisdom, according to Wis. 8:7: "She," i.e. Divine wisdom, "teacheth temperance, and prudence, and justice, and fortitude." Now the "conversation" of wisdom "hath no bitterness," as we read further on (verse 16). Therefore sorrow is incompatible with virtue also.
 
@@ -66,7 +66,7 @@ Objection 2: Further, sorrow is a hindrance to work, as the Philosopher states (
 
 Objection 3: Further, Tully calls sorrow a disease of the mind (De Tusc. Quaest. iv). But disease of the mind is incompatible with virtue, which is a good condition of the mind. Therefore sorrow is opposed to virtue and is incompatible with it.
 
-### Answer
+**Answer**
 
 On the contrary, Christ was perfect in virtue. But there was sorrow in Him, for He said (Mat. 26:38): "My soul is sorrowful even unto death." Therefore sorrow is compatible with virtue.
 
@@ -78,16 +78,16 @@ Their second reason for holding this opinion was that sorrow is about evil prese
 
 Accordingly we must allow that sorrow for things pertaining to virtue is incompatible with virtue: since virtue rejoices in its own. On the other hand, virtue sorrows moderately for all that thwarts virtue, no matter how.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The passage quoted proves that the wise man is not made sorrowful by wisdom. Yet he sorrows for anything that hinders wisdom. Consequently there is no room for sorrow in the blessed, in whom there can be no hindrance to wisdom.
 
 Reply to Objection 2: Sorrow hinders the work that makes us sorrowful: but it helps us to do more readily whatever banishes sorrow.
 
 Reply to Objection 3: Immoderate sorrow is a disease of the mind: but moderate sorrow is the mark of a well-conditioned mind, according to the present state of life.
-## Whether All The Moral Virtues Are About The Passions?
+### Whether All The Moral Virtues Are About The Passions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all the moral virtues are about the passions. For the Philosopher says (Ethic. ii, 3) that "moral virtue is about objects of pleasure and sorrow." But pleasure and sorrow are passions, as stated above ([1541]Q[23], A[4];[1542] Q[31], A[1];[1543] Q[35], AA[1], 2). Therefore all the moral virtues are about the passions.
 
@@ -95,22 +95,22 @@ Objection 2: Further, the subject of the moral virtues is a faculty which is rat
 
 Objection 3: Further, some passion is to be found in every moral virtue: and so either all are about the passions, or none are. But some are about the passions, as fortitude and temperance, as stated in Ethic. iii, 6,10. Therefore all the moral virtues are about the passions.
 
-### Answer
+**Answer**
 
 On the contrary, Justice, which is a moral virtue, is not about the passions; as stated in Ethic. v, 1, seqq.
 
 I answer that, Moral virtue perfects the appetitive part of the soul by directing it to good as defined by reason. Now good as defined by reason is that which is moderated or directed by reason. Consequently there are moral virtues about all matters that are subject to reason's direction and moderation. Now reason directs, not only the passions of the sensitive appetite, but also the operations of the intellective appetite, i.e. the will, which is not the subject of a passion, as stated above ([1545]Q[22], A[3]). Therefore not all the moral virtues are about passions, but some are about passions, some about operations.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The moral virtues are not all about pleasures and sorrows, as being their proper matter; but as being something resulting from their proper acts. For every virtuous man rejoices in acts of virtue, and sorrows for the contrary. Hence the Philosopher, after the words quoted, adds, "if virtues are about actions and passions; now every action and passion is followed by pleasure or sorrow, so that in this way virtue is about pleasures and sorrows," viz. as about something that results from virtue.
 
 Reply to Objection 2: Not only the sensitive appetite which is the subject of the passions, is rational by participation, but also the will, where there are no passions, as stated above.
 
 Reply to Objection 3: Some virtues have passions as their proper matter, but some virtues not. Hence the comparison does not hold for all cases.
-## Whether There Can Be Moral Virtue Without Passion?
+### Whether There Can Be Moral Virtue Without Passion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that moral virtue can be without passion. For the more perfect moral virtue is, the more does it overcome the passions. Therefore at its highest point of perfection it is altogether without passion.
 
@@ -118,7 +118,7 @@ Objection 2: Further, then is a thing perfect, when it is removed from its contr
 
 Objection 3: Further, it is by virtue that we are conformed to God, as Augustine declares (De Moribus Eccl. vi, xi, xiii). But God does all things without passion at all. Therefore the most perfect virtue is without any passion.
 
-### Answer
+**Answer**
 
 On the contrary, "No man is just who rejoices not in his deeds," as stated in Ethic. i, 8. But joy is a passion. Therefore justice cannot be without passion; and still less can the other virtues be.
 
@@ -126,7 +126,7 @@ I answer that, If we take the passions as being inordinate emotions, as the Stoi
 
 Those moral virtues, however, which are not about the passions, but about operations, can be without passions. Such a virtue is justice: because it applies the will to its proper act, which is not a passion. Nevertheless, joy results from the act of justice; at least in the will, in which case it is not a passion. And if this joy be increased through the perfection of justice, it will overflow into the sensitive appetite; in so far as the lower powers follow the movement of the higher, as stated above ([1546]Q[17], A[7];[1547] Q[24], A[3]). Wherefore by reason of this kind of overflow, the more perfect a virtue is, the more does it cause passion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Virtue overcomes inordinate passion; it produces ordinate passion.
 

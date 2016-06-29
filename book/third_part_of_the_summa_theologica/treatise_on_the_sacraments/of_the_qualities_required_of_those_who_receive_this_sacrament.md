@@ -6,9 +6,9 @@ We must next consider the qualities required of those who receive the sacrament 
 (3) Whether the degree of Orders is obtained by mere merit of life?
 (4) Whether he who raises the unworthy to Orders sins?
 (5) Whether one who is in sin can without committing a sin exercise the Order he has received?
-## Whether Goodness Of Life Is Required Of Those Who Receive Orders?
+### Whether Goodness Of Life Is Required Of Those Who Receive Orders?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that goodness of life is not required of those who receive Orders. For by Orders a man is ordained to the dispensation of the sacraments. But the sacraments can be administered by good and wicked. Therefore goodness of life is not requisite.
 
@@ -16,22 +16,22 @@ Objection 2: Further, the service of God in the sacraments is no greater than se
 
 Objection 3: Further, by every grace a remedy is given against sin. Now those who are in sin should not be refused a remedy that may avail them. Since then grace is given in the sacrament of order, it would seem that this sacrament ought also to be conferred on sinners.
 
-### Answer
+**Answer**
 
 On the contrary, "Whosoever of the seed of Aaron throughout their families hath a blemish, he shall not offer bread to his God neither shall he approach to minister to him [*Vulg.: 'Say to Aaron: Whosoever of thy seed,'etc.]" (Lev. 21:17,18). Now "blemish signifies all kinds of vice" according to a gloss. Therefore he who is shackled by any vice should not be admitted to the ministry of Orders.
 
 I answer that, As Dionysius says (Eccl. Hier. iii), "even as the more subtle and clear essences, being filled by the outpouring of the solar radiance, like the sun enlighten other bodies with their brilliant light, so in all things pertaining to God a man must not dare to become a leader of others, unless in all his habits he be most deiform and godlike." Wherefore, since in every order a man is appointed to lead others in Divine things, he who being conscious of mortal sin presents himself for Orders is guilty of presumption and sins mortally. Consequently holiness of life is requisite for Orders, as a matter of precept, but not as essential to the sacrament; and if a wicked man be ordained, he receives the Order none the less, and yet with sin withal.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as the sinner dispenses sacraments validly, so does he receive validly the sacrament of Orders, and as he dispenses unworthily, even so he receives unworthily.
 
 Reply to Objection 2: The service in point consisted only in the exercise of bodily homage, which even sinners can offer lawfully. It is different with the spiritual service to which the ordained are appointed, because thereby they are made to stand between God and the people. Wherefore they should shine with a good conscience before God, and with a good name before men.
 
 Reply to Objection 3: Certain medicines require a robust constitution, else it is mortally dangerous to take them; others can be given to the weakly. So too in spiritual things certain sacraments are ordained as remedies for sin, and the like are to be given to sinners, as Baptism and Penance, while others, which confer the perfection of grace, require a man made strong by grace.
-## Whether Knowledge Of All Holy Writ Is Required?
+### Whether Knowledge Of All Holy Writ Is Required?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that knowledge of all Holy Writ is required. For one from whose lips we seek the law, should have knowledge of the law. Now the laity seek the law at the mouth of the priest (Malachi 2:7). Therefore he should have knowledge of the whole law.
 
@@ -39,41 +39,41 @@ Objection 2: Further, "being always ready to satisfy everyone that asketh you a 
 
 Objection 3: Further, no one is competent to read what he understands not, since to read without intelligence is "negligence,"* as Cato declares (Rudiment.). [*"Legere et non intelligere est negligere." The play on the words is more evident in Latin.] Now it belongs to the reader (which is the lower Order) to read the Old Testament, as stated in the text (Sent. iv, D, 24). Therefore he should understand the whole of the Old Testament; and much more those in the higher Orders.
 
-### Answer
+**Answer**
 
 On the contrary, Many are raised to the priesthood even who know nothing at all of these things, even in many religious Orders. Therefore apparently this knowledge is not required.
 
 I answer that, For any human act to be rightly ordered there must needs be the direction of reason. Wherefore in order that a man exercise the office of an Order, it is necessary for him to have as much knowledge as suffices for his direction in the act of that Order. And consequently one who is to be raised to Orders is required to have that knowledge, and to be instructed in Sacred Scripture, not the whole, but more or less, according as his office is of a greater or lesser extent---to wit, that those who are placed over others, and receive the care of souls, know things pertaining to the doctrine of faith and morals, and that others know whatever concerns the exercise of their Order.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A priest exercises a twofold action: the one, which is principal, over the true body of Christ; the other, which is secondary, over the mystical body of Christ. The second act depends on the first, but not conversely. Wherefore some are raised to the priesthood, to whom the first act alone is deputed, for instance those religious who are not empowered with the care of souls. The law is not sought at the mouth of these, they are required only for the celebration of the sacraments; and consequently it is enough for them to have such knowledge as enables them to observe rightly those things that regard the celebration of the sacrament. Others are raised to exercise the other act which is over the mystical body of Christ, and it is at the mouth of these that the people seek the law; wherefore they ought to possess knowledge of the law, not indeed to know all the difficult points of the law (for in these they should have recourse to their superiors), but to know what the people have to believe and fulfill in the law. To the higher priests, namely the bishops, it belongs to know even those points of the law which may offer some difficulty, and to know them the more perfectly according as they are in a higher position.
 
 Reply to Objection 2: The reason that we have to give for our faith and hope does not denote one that suffices to prove matters of faith and hope, since they are both of things invisible; it means that we should be able to give general proofs of the probability of both, and for this there is not much need of great knowledge.
 
 Reply to Objection 3: The reader has not to explain Holy Writ to the people (for this belongs to the higher orders), but merely to voice the words. Therefore he is not required to have so much knowledge as to understand Holy Writ, but only to know how to pronounce it correctly. And since such knowledge is obtained easily and from many persons, it may be supposed with probability that the ordained will acquire that knowledge even if he have it not already, especially if it appear that he is on the road to acquire it.
-## Whether A Man Obtains The Degrees Of Order By The Merit Of One's Life?
+### Whether A Man Obtains The Degrees Of Order By The Merit Of One's Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man obtains the degrees of order by the mere merit of his life. For, according to Chrysostom [*Hom. xliii in the Opus Imperfectum, wrongly ascribed to St. John Chrysostom], "not every priest is a saint, but every saint is a priest." Now a man becomes a saint by the merit of his life. Consequently he thereby also becomes a priest, and "a fortiori" has he the other Orders.
 
 Objection 2: Further, in natural things, men obtain a higher degree from the very fact that they are near God, and have a greater share of His favors, as Dionysius says (Eccl. Hier. iv). Now it is by merit of holiness and knowledge that a man approaches nearer to God and receives more of His favors. Therefore by this alone he is raised to the degree of Orders.
 
-### Answer
+**Answer**
 
 On the contrary, Holiness once possessed can be lost. But when once a man is ordained he never loses his order. Therefore order does not consist in the mere merit of holiness.
 
 I answer that, A cause should be proportionate to its effect. And consequently as in Christ, from Whom grace comes down on all men, there must needs be fulness of grace; so in the ministers of the Church, to whom it belongs, not to give grace, but to give the sacraments of grace, the degree of order does not result from their having grace, but from their participating in a sacrament of grace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Chrysostom is speaking of the priest in reference to the reason for which he is so called, the word "sacerdos" signifying dispenser of holy things [sacra dans]: for in this sense every righteous man, in so far as he assists others by the sacraments, may be called a priest. But he is not speaking according to the actual meaning of the words; for this word "sacerdos" [priest] is employed to signify one who gives sacred things by dispensing the sacraments.
 
 Reply to Objection 2: Natural things acquire a degree of superiority over others, from the fact that they are able to act on them by virtue of their form; wherefore from the very fact that they have a higher form, they obtain a higher degree. But the ministers of the Church are placed over others, not to confer anything on them by virtue of their own holiness (for this belongs to God alone), but as ministers, and as instruments, so to say, of the outpouring from the Head to the members. Hence the comparison fails as regards the dignity of Order, although it applies as to congruity.
-## Whether He Who Raises The Unworthy To Orders Commits A Sin?
+### Whether He Who Raises The Unworthy To Orders Commits A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that he who raises the unworthy to orders commits no sin. For a bishop needs assistants appointed to the lesser offices. But he would be unable to find them in sufficient number, if he were to require of them such qualifications as the saints enumerate. Therefore if he raise some who are not qualified, he would seem to be excusable.
 
@@ -81,22 +81,22 @@ Objection 2: Further, the Church needs not only ministers for the dispensation o
 
 Objection 3: Further, everyone is bound to avoid sin, as far as he can. If therefore a bishop sins in promoting the unworthy, he is bound to take the utmost pains to know whether those who present themselves for Orders be worthy, by making a careful inquiry about their morals and knowledge, and yet seemingly this is not done anywhere.
 
-### Answer
+**Answer**
 
 On the contrary, It is worse to raise the wicked to the sacred ministry, than not to correct those who are raised already. But Heli sinned mortally by not correcting his sons for their wickedness; wherefore "he fell backwards . . . and died" (1 Kings 4:18). Therefore he who promotes the unworthy does not escape sin.
 
 I answer that, Our Lord describes the faithful servant whom He has set "over His household to give them their measure of wheat." Hence he is guilty of unfaithfulness who gives any man Divine things above his measure: and whoso promotes the unworthy does this. Wherefore he commits a mortal crime, as being unfaithful to his sovereign Lord, especially since this is detrimental to the Church and to the Divine honor which is promoted by good ministers. For a man would be unfaithful to his earthly lord were he to place unworthy subjects in his offices.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God never so abandons His Church that apt ministers are not to be found sufficient for the needs of the people, if the worthy be promoted and the unworthy set aside. And though it were impossible to find as many ministers as there are now, it were better to have few good ministers than many bad ones, as the blessed Clement declares in his second epistle to James the brother of the Lord.
 
 Reply to Objection 2: Temporal things are not to be sought but for the sake of spiritual things. Wherefore all temporal advantage should count for nothing, and all gain be despised for the advancement of spiritual good.
 
 Reply to Objection 3: It is at least required that the ordainer know that nothing contrary to holiness is in the candidate for ordination. But besides this he is required to take the greatest care, in proportion to the Order or office to be enjoined, so as to be certain of the qualifications of those to be promoted, at least from the testification of others. This is the meaning of the Apostle when he says (1 Tim. 5:22): "Impose not hands lightly on any man."
-## Whether A Man Who Is In Sin Can Without Sin Exercise The Order He Has Received?
+### Whether A Man Who Is In Sin Can Without Sin Exercise The Order He Has Received?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one who is in sin can without sin exercise the order he has received. For since, by virtue of his office, he is bound to exercise his order, he sins if he fails to do so. If therefore he sins by exercising it, he cannot avoid sin: which is inadmissible.
 
@@ -106,13 +106,13 @@ Objection 3: Further, whoever co-operates with another in a mortal sin, sins mor
 
 Objection 4: Further, if he sins by exercising his order, it follows that every act of his order that he performs is a mortal sin; and consequently since many acts concur in the one exercise of his order, it would seem that he commits many mortal sins: which seems very hard.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Ep. ad Demophil.): "It seems presumptuous for such a man, one to wit who is not enlightened, to lay hands on priestly things; he is not afraid nor ashamed, all unworthy that he is to take part in Divine things, with the thought that God does not see what he sees in himself; he thinks, by false pretense, to cheat Him Whom he falsely calls his Father; he dares to utter in the person of Christ, words polluted by his infamy, I will not call them prayers, over the Divine symbols." Therefore a priest is a blasphemer and a cheat if he exercises his order unworthily, and thus he sins mortally: and in like manner any other person in orders.
 
 I answer that, The law prescribes (Dt. 16:20) that "man should follow justly after that which is just." Wherefore whoever fulfills unworthily the duties of his order follows unjustly after that which is just, and acts contrary to a precept of the law, and thereby sins mortally. Now anyone who exercises a sacred office in mortal sin, without doubt does so unworthily. Hence it is clear that he sins mortally.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He is not perplexed as though he were in the necessity of sinning; for he can renounce his sin, or resign his office whereby he was bound to the exercise of his order.
 

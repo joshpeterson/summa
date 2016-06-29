@@ -3,9 +3,9 @@
 We must now consider disobedience, under which head there are two points of inquiry:
 (1) Whether it is a mortal sin?
 (2) Whether it is the most grievous of sins?
-## Whether Disobedience Is A Mortal Sin?
+### Whether Disobedience Is A Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that disobedience is not a mortal sin. For every sin is a disobedience, as appears from Ambrose's definition given above ([3179]Q[104], A[2], OBJ[1]). Therefore if disobedience were a mortal sin, every sin would be mortal.
 
@@ -13,7 +13,7 @@ Objection 2: Further, Gregory says (Moral. xxxi) that disobedience is born of va
 
 Objection 3: Further, a person is said to be disobedient when he does not fulfil a superior's command. But superiors often issue so many commands that it is seldom, if ever, possible to fulfil them. Therefore if disobedience were a mortal sin, it would follow that man cannot avoid mortal sin, which is absurd. Wherefore disobedience is not a mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, The sin of disobedience to parents is reckoned (Rom. 1:30; 2 Tim. 3:2) among other mortal sins.
 
@@ -21,16 +21,16 @@ I answer that, As stated above (Q[24], A[12]; [3180]FS, Q[72], A[5]; [3181]FS, Q
 
 Again, the commandments of God contain the precept of obedience to superiors. Wherefore also disobedience to the commands of a superior is a mortal sin, as being contrary to the love of God, according to Rom. 13:2, "He that resisteth the power, resisteth the ordinance of God." It is also contrary to the love of our neighbor, as it withdraws from the superior who is our neighbor the obedience that is his due.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The definition given by Ambrose refers to mortal sin, which has the character of perfect sin. Venial sin is not disobedience, because it is not contrary to a precept, but beside it. Nor again is every mortal sin disobedience, properly and essentially, but only when one contemns a precept, since moral acts take their species from the end. And when a thing is done contrary to a precept, not in contempt of the precept, but with some other purpose, it is not a sin of disobedience except materially, and belongs formally to another species of sin.
 
 Reply to Objection 2: Vainglory desires display of excellence. And since it seems to point to a certain excellence that one be not subject to another's command, it follows that disobedience arises from vainglory. But there is nothing to hinder mortal sin from arising out of venial sin, since venial sin is a disposition to mortal.
 
 Reply to Objection 3: No one is bound to do the impossible: wherefore if a superior makes a heap of precepts and lays them upon his subjects, so that they are unable to fulfil them, they are excused from sin. Wherefore superiors should refrain from making a multitude of precepts.
-## Whether Disobedience Is The Most Grievous Of Sins?
+### Whether Disobedience Is The Most Grievous Of Sins?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that disobedience is the most grievous of sins. For it is written (1 Kings 15:23): "It is like the sin of witchcraft to rebel, and like the crime of idolatry to refuse to obey." But idolatry is the most grievous of sins, as stated above ([3182]Q[94], A[3]). Therefore disobedience is the most grievous of sins.
 
@@ -38,7 +38,7 @@ Objection 2: Further, the sin against the Holy Ghost is one that removes the obs
 
 Objection 3: Further, the Apostle says (Rom. 5:19) that "by the disobedience of one man, many were made sinners." Now the cause is seemingly greater than its effect. Therefore disobedience seems to be a more grievous sin than the others that are caused thereby.
 
-### Answer
+**Answer**
 
 On the contrary, Contempt of the commander is a more grievous sin than contempt of his command. Now some sins are against the very person of the commander, such as blasphemy and murder. Therefore disobedience is not the most grievous of sins.
 
@@ -46,7 +46,7 @@ I answer that, Not every disobedience is equally a sin: for one disobedience may
 
 Accordingly the various degrees of disobedience must correspond with the various degrees of precepts: because the disobedience in which there is contempt of God's precept, from the very nature of disobedience is more grievous than a sin committed against a man, apart from the latter being a disobedience to God. And I say this because whoever sins against his neighbor acts also against God's commandment. And if the divine precept be contemned in a yet graver matter, the sin is still more grievous. The disobedience that contains contempt of a man's precept is less grievous than the sin which contemns the man who made the precept, because reverence for the person commanding should give rise to reverence for his command. In like manner a sin that directly involves contempt of God, such as blasphemy, or the like, is more grievous (even if we mentally separate the disobedience from the sin) than would be a sin involving contempt of God's commandment alone.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This comparison of Samuel is one, not of equality but of likeness, because disobedience redounds to the contempt of God just as idolatry does, though the latter does so more.
 

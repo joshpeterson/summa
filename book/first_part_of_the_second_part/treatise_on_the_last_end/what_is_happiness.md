@@ -9,9 +9,9 @@ We have now to consider (1) what happiness is, and (2) what things are required 
 (6) If it be an operation of the speculative intellect, whether it consists in the consideration of speculative sciences?
 (7) Whether it consists in the consideration of separate substances viz. angels?
 (8) Whether it consists in the sole contemplation of God seen in His Essence?
-## Whether Happiness Is Something Uncreated?
+### Whether Happiness Is Something Uncreated?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that happiness is something uncreated. For Boethius says (De Consol. iii): "We must needs confess that God is happiness itself."
 
@@ -19,22 +19,22 @@ Objection 2: Further, happiness is the supreme good. But it belongs to God to be
 
 Objection 3: Further, happiness is the last end, to which man's will tends naturally. But man's will should tend to nothing else as an end, but to God, Who alone is to be enjoyed, as Augustine says (De Doctr. Christ. i, 5,22). Therefore happiness is the same as God.
 
-### Answer
+**Answer**
 
 On the contrary, Nothing made is uncreated. But man's happiness is something made; because according to Augustine (De Doctr. Christ. i, 3): "Those things are to be enjoyed which make us happy." Therefore happiness is not something uncreated.
 
 I answer that, As stated above ([1002]Q[1], A[8];[1003] Q[2], A[7]), our end is twofold. First, there is the thing itself which we desire to attain: thus for the miser, the end is money. Secondly there is the attainment or possession, the use or enjoyment of the thing desired; thus we may say that the end of the miser is the possession of money; and the end of the intemperate man is to enjoy something pleasurable. In the first sense, then, man's last end is the uncreated good, namely, God, Who alone by His infinite goodness can perfectly satisfy man's will. But in the second way, man's last end is something created, existing in him, and this is nothing else than the attainment or enjoyment of the last end. Now the last end is called happiness. If, therefore, we consider man's happiness in its cause or object, then it is something uncreated; but if we consider it as to the very essence of happiness, then it is something created.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God is happiness by His Essence: for He is happy not by acquisition or participation of something else, but by His Essence. On the other hand, men are happy, as Boethius says (De Consol. iii), by participation; just as they are called "gods," by participation. And this participation of happiness, in respect of which man is said to be happy, is something created.
 
 Reply to Objection 2: Happiness is called man's supreme good, because it is the attainment or enjoyment of the supreme good.
 
 Reply to Objection 3: Happiness is said to be the last end, in the same way as the attainment of the end is called the end.
-## Whether Happiness Is An Operation?
+### Whether Happiness Is An Operation?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that happiness is not an operation. For the Apostle says (Rom. 6:22): "You have your fruit unto sanctification, and the end, life everlasting." But life is not an operation, but the very being of living things. Therefore the last end, which is happiness, is not an operation.
 
@@ -48,13 +48,13 @@ Objection 5: Further, to one man there is one happiness. But operations are many
 
 Objection 6: Further, happiness is in the happy one uninterruptedly. But human operation is often interrupted; for instance, by sleep, or some other occupation, or by cessation. Therefore happiness is not an operation.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. i, 13) that "happiness is an operation according to perfect virtue."
 
 I answer that, In so far as man's happiness is something created, existing in him, we must needs say that it is an operation. For happiness is man's supreme perfection. Now each thing is perfect in so far as it is actual; since potentiality without act is imperfect. Consequently happiness must consist in man's last act. But it is evident that operation is the last act of the operator, wherefore the Philosopher calls it "second act" (De Anima ii, 1): because that which has a form can be potentially operating, just as he who knows is potentially considering. And hence it is that in other things, too, each one is said to be "for its operation" (De Coel ii, 3). Therefore man's happiness must of necessity consist in an operation.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Life is taken in two senses. First for the very being of the living. And thus happiness is not life: since it has been shown ([1004]Q[2] , A[5]) that the being of a man, no matter in what it may consist, is not that man's happiness; for of God alone is it true that His Being is His Happiness. Secondly, life means the operation of the living, by which operation the principle of life is made actual: thus we speak of active and contemplative life, or of a life of pleasure. And in this sense eternal life is said to be the last end, as is clear from Jn. 17:3: "This is eternal life, that they may know Thee, the only true God."
 
@@ -63,9 +63,9 @@ Reply to Objection 2: Boethius, in defining happiness, considered happiness in g
 Reply to Objection 3: As stated in Metaph. ix, 7 action is twofold. One proceeds from the agent into outward matter, such as "to burn" and "to cut." And such an operation cannot be happiness: for such an operation is an action and a perfection, not of the agent, but rather of the patient, as is stated in the same passage. The other is an action that remains in the agent, such as to feel, to understand, and to will: and such an action is a perfection and an act of the agent. And such an operation can be happiness.
 
 Reply to Objection 4: Since happiness signifies some final perfection; according as various things capable of happiness can attain to various degrees of perfection, so must there be various meanings applied to happiness. For in God there is happiness essentially; since His very Being is His operation, whereby He enjoys no other than Himself. In the happy angels, the final perfection is in respect of some operation, by which they are united to the Uncreated Good: and this operation of theirs is one only and everlasting. But in men, according to their present state of life, the final perfection is in respect of an operation whereby man is united to God: but this operation neither can be continual, nor, consequently, is it one only, because operation is multiplied by being discontinued. And for this reason in the present state of life, perfect happiness cannot be attained by man. Wherefore the Philosopher, in placing man's happiness in this life (Ethic. i, 10), says that it is imperfect, and after a long discussion, concludes: "We call men happy, but only as men." But God has promised us perfect happiness, when we shall be "as the angels . . . in heaven" (Mat. 22:30).
-## Whether Happiness Is An Operation Of The Sensitive Part, Or Of The Intellective Part Only?
+### Whether Happiness Is An Operation Of The Sensitive Part, Or Of The Intellective Part Only?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that happiness consists in an operation of the senses also. For there is no more excellent operation in man than that of the senses, except the intellective operation. But in us the intellective operation depends on the sensitive: since "we cannot understand without a phantasm" (De Anima iii, 7). Therefore happiness consists in an operation of the senses also.
 
@@ -73,7 +73,7 @@ Objection 2: Further, Boethius says (De Consol. iii) that happiness is "a state 
 
 Objection 3: Further, happiness is the perfect good, as we find proved in Ethic. i, 7: which would not be true, were not man perfected thereby in all his parts. But some parts of the soul are perfected by sensitive operations. Therefore sensitive operation is required for happiness.
 
-### Answer
+**Answer**
 
 On the contrary, Irrational animals have the sensitive operation in common with us: but they have not happiness in common with us. Therefore happiness does not consist in a sensitive operation.
 
@@ -81,16 +81,16 @@ I answer that, A thing may belong to happiness in three ways: (1) essentially, (
 
 Nevertheless the operations of the senses can belong to happiness, both antecedently and consequently: antecedently, in respect of imperfect happiness, such as can be had in this life, since the operation of the intellect demands a previous operation of the sense; consequently, in that perfect happiness which we await in heaven; because at the resurrection, "from the very happiness of the soul," as Augustine says (Ep. ad Dioscor.) "the body and the bodily senses will receive a certain overflow, so as to be perfected in their operations"; a point which will be explained further on when we treat of the resurrection (SS, QQ[82] -85). But then the operation whereby man's mind is united to God will not depend on the senses.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This objection proves that the operation of the senses is required antecedently for imperfect happiness, such as can be had in this life.
 
 Reply to Objection 2: Perfect happiness, such as the angels have, includes the aggregate of all good things, by being united to the universal source of all good; not that it requires each individual good. But in this imperfect happiness, we need the aggregate of those goods that suffice for the most perfect operation of this life.
 
 Reply to Objection 3: In perfect happiness the entire man is perfected, in the lower part of his nature, by an overflow from the higher. But in the imperfect happiness of this life, it is otherwise; we advance from the perfection of the lower part to the perfection of the higher part.
-## Whether, If Happiness Is In The Intellective Part, It Is An Operation Of The Intellect Or Of The Will?
+### Whether, If Happiness Is In The Intellective Part, It Is An Operation Of The Intellect Or Of The Will?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that happiness consists in an act of the will. For Augustine says (De Civ. Dei xix, 10,11), that man's happiness consists in peace; wherefore it is written (Ps. 147:3): "Who hath placed peace in thy end [Douay: 'borders']". But peace pertains to the will. Therefore man's happiness is in the will.
 
@@ -102,7 +102,7 @@ Objection 4: Further, if happiness be an operation, it must needs be man's most 
 
 Objection 5: Further, Augustine says (De Trin. xiii, 5) that "happy is he who has whatever he desires, and desires nothing amiss." And a little further on (6) he adds: "He is most happy who desires well, whatever he desires: for good things make a man happy, and such a man already possesses some good---i.e. a good will." Therefore happiness consists in an act of the will.
 
-### Answer
+**Answer**
 
 On the contrary, Our Lord said (Jn. 17:3): "This is eternal life: that they may know Thee, the only true God." Now eternal life is the last end, as stated above (A[2], ad 1). Therefore man's happiness consists in the knowledge of God, which is an act of the intellect.
 
@@ -112,7 +112,7 @@ This is evidently the case in regard to sensible ends. For if the acquisition of
 
 So, therefore, the essence of happiness consists in an act of the intellect: but the delight that results from happiness pertains to the will. In this sense Augustine says (Confess. x, 23) that happiness is "joy in truth," because, to wit, joy itself is the consummation of happiness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Peace pertains to man's last end, not as though it were the very essence of happiness; but because it is antecedent and consequent thereto: antecedent, in so far as all those things are removed which disturb and hinder man in attaining the last end: consequent inasmuch as when man has attained his last end, he remains at peace, his desire being at rest.
 
@@ -123,9 +123,9 @@ Reply to Objection 3: The intellect apprehends the end before the will does: yet
 Reply to Objection 4: Love ranks above knowledge in moving, but knowledge precedes love in attaining: for "naught is loved save what is known," as Augustine says (De Trin. x, 1). Consequently we first attain an intelligible end by an act of the intellect; just as we first attain a sensible end by an act of sense.
 
 Reply to Objection 5: He who has whatever he desires, is happy, because he has what he desires: and this indeed is by something other than the act of his will. But to desire nothing amiss is needed for happiness, as a necessary disposition thereto. And a good will is reckoned among the good things which make a man happy, forasmuch as it is an inclination of the will: just as a movement is reduced to the genus of its terminus, for instance, "alteration" to the genus "quality."
-## Whether Happiness Is An Operation Of The Speculative, Or Of The Practical Intellect?
+### Whether Happiness Is An Operation Of The Speculative, Or Of The Practical Intellect?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that happiness is an operation of the practical intellect. For the end of every creature consists in becoming like God. But man is like God, by his practical intellect, which is the cause of things understood, rather than by his speculative intellect, which derives its knowledge from things. Therefore man's happiness consists in an operation of the practical intellect rather than of the speculative.
 
@@ -133,7 +133,7 @@ Objection 2: Further, happiness is man's perfect good. But the practical intelle
 
 Objection 3: Further, happiness is a good of man himself. But the speculative intellect is more concerned with things outside man; whereas the practical intellect is concerned with things belonging to man himself, viz. his operations and passions. Therefore man's happiness consists in an operation of the practical intellect rather than of the speculative.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. i, 8) that "contemplation is promised us, as being the goal of all our actions, and the everlasting perfection of our joys."
 
@@ -145,16 +145,16 @@ Thirdly, it is again evident, from the fact that in the contemplative life man h
 
 Therefore the last and perfect happiness, which we await in the life to come, consists entirely in contemplation. But imperfect happiness, such as can be had here, consists first and principally, in an operation of the practical intellect directing human actions and passions, as stated in Ethic. x, 7,8.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The asserted likeness of the practical intellect to God is one of proportion; that is to say, by reason of its standing in relation to what it knows, as God does to what He knows. But the likeness of the speculative intellect to God is one of union and "information"; which is a much greater likeness. And yet it may be answered that, in regard to the principal thing known, which is His Essence, God has not practical but merely speculative knowledge.
 
 Reply to Objection 2: The practical intellect is ordained to good which is outside of it: but the speculative intellect has good within it, viz. the contemplation of truth. And if this good be perfect, the whole man is perfected and made good thereby: such a good the practical intellect has not; but it directs man thereto.
 
 Reply to Objection 3: This argument would hold, if man himself were his own last end; for then the consideration and direction of his actions and passions would be his happiness. But since man's last end is something outside of him, to wit, God, to Whom we reach out by an operation of the speculative intellect; therefore, man's happiness consists in an operation of the speculative intellect rather than of the practical intellect.
-## Whether Happiness Consists In The Consideration Of Speculative Sciences?
+### Whether Happiness Consists In The Consideration Of Speculative Sciences?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man's happiness consists in the consideration of speculative sciences. For the Philosopher says (Ethic. i, 13) that "happiness is an operation according to perfect virtue." And in distinguishing the virtues, he gives no more than three speculative virtues---"knowledge," "wisdom" and "understanding," which all belong to the consideration of speculative sciences. Therefore man's final happiness consists in the consideration of speculative sciences.
 
@@ -162,7 +162,7 @@ Objection 2: Further, that which all desire for its own sake, seems to be man's 
 
 Objection 3: Further, happiness is man's final perfection. Now everything is perfected, according as it is reduced from potentiality to act. But the human intellect is reduced to act by the consideration of speculative sciences. Therefore it seems that in the consideration of these sciences, man's final happiness consists.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jer. 9:23): "Let not the wise man glory in his wisdom": and this is said in reference to speculative sciences. Therefore man's final happiness does not consist in the consideration of these.
 
@@ -170,16 +170,16 @@ I answer that, As stated above (A[2], ad 4), man's happiness is twofold, one per
 
 Accordingly perfect happiness cannot consist essentially in the consideration of speculative sciences. To prove this, we must observe that the consideration of a speculative science does not extend beyond the scope of the principles of that science: since the entire science is virtually contained in its principles. Now the first principles of speculative sciences are received through the senses, as the Philosopher clearly states at the beginning of the Metaphysics (i, 1), and at the end of the Posterior Analytics (ii, 15). Wherefore the entire consideration of speculative sciences cannot extend farther than knowledge of sensibles can lead. Now man's final happiness, which is his final perfection cannot consist in the knowledge of sensibles. For a thing is not perfected by something lower, except in so far as the lower partakes of something higher. Now it is evident that the form of a stone or of any sensible, is lower than man. Consequently the intellect is not perfected by the form of a stone, as such, but inasmuch as it partakes of a certain likeness to that which is above the human intellect, viz. the intelligible light, or something of the kind. Now whatever is by something else is reduced to that which is of itself. Therefore man's final perfection must needs be through knowledge of something above the human intellect. But it has been shown ([1008]FP, Q[88], A[2]), that man cannot acquire through sensibles, the knowledge of separate substances, which are above the human intellect. Consequently it follows that man's happiness cannot consist in the consideration of speculative sciences. However, just as in sensible forms there is a participation of the higher substances, so the consideration of speculative sciences is a certain participation of true and perfect happiness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In his book on Ethics the Philosopher treats of imperfect happiness, such as can be had in this life, as stated above (A[2], ad 4).
 
 Reply to Objection 2: Not only is perfect happiness naturally desired, but also any likeness or participation thereof.
 
 Reply to Objection 3: Our intellect is reduced to act, in a fashion, by the consideration of speculative sciences, but not to its final and perfect act.
-## Whether Happiness Consists In The Knowledge Of Separate Substances, Namely, Angels?
+### Whether Happiness Consists In The Knowledge Of Separate Substances, Namely, Angels?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man's happiness consists in the knowledge of separate substances, namely, angels. For Gregory says in a homily (xxvi in Evang.): "It avails nothing to take part in the feasts of men, if we fail to take part in the feasts of angels"; by which he means final happiness. But we can take part in the feasts of the angels by contemplating them. Therefore it seems that man's final happiness consists in contemplating the angels.
 
@@ -187,28 +187,28 @@ Objection 2: Further, the final perfection of each thing is for it to be united 
 
 Objection 3: Further, each nature is perfect, when united to a higher nature; just as the final perfection of a body is to be united to the spiritual nature. But above the human intellect, in the natural order, are the angels. Therefore the final perfection of the human intellect is to be united to the angels by contemplation.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jer. 9:24): "Let him that glorieth, glory in this, that he understandeth and knoweth Me." Therefore man's final glory or happiness consists only in the knowledge of God.
 
 I answer that, As stated above [1009](A[6]), man's perfect happiness consists not in that which perfects the intellect by some participation, but in that which is so by its essence. Now it is evident that whatever is the perfection of a power is so in so far as the proper formal object of that power belongs to it. Now the proper object of the intellect is the true. Therefore the contemplation of whatever has participated truth, does not perfect the intellect with its final perfection. Since, therefore, the order of things is the same in being and in truth (Metaph ii, 1); whatever are beings by participation, are true by participation. Now angels have being by participation: because in God alone is His Being His Essence, as shown in the [1010]FP, Q[44], A[1]. It follows that contemplation of Him makes man perfectly happy. However, there is no reason why we should not admit a certain imperfect happiness in the contemplation of the angels; and higher indeed than in the consideration of speculative science.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We shall take part in the feasts of the angels, by contemplating not only the angels, but, together with them, also God Himself.
 
 Reply to Objection 2: According to those that hold human souls to be created by the angels, it seems fitting enough, that man's happiness should consist in the contemplation of the angels, in the union, as it were, of man with his beginning. But this is erroneous, as stated in [1011]FP, Q[90], A[3]. Wherefore the final perfection of the human intellect is by union with God, Who is the first principle both of the creation of the soul and of its enlightenment. Whereas the angel enlightens as a minister, as stated in the [1012]FP, Q[111], A[2], ad 2. Consequently, by his ministration he helps man to attain to happiness; but he is not the object of man's happiness.
 
 Reply to Objection 3: The lower nature may reach the higher in two ways. First, according to a degree of the participating power: and thus man's final perfection will consist in his attaining to a contemplation such as that of the angels. Secondly, as the object is attained by the power: and thus the final perfection of each power is to attain that in which is found the fulness of its formal object.
-## Whether Man's Happiness Consists In The Vision Of The Divine Essence?
+### Whether Man's Happiness Consists In The Vision Of The Divine Essence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man's happiness does not consist in the vision of the Divine Essence. For Dionysius says (Myst. Theol. i) that by that which is highest in his intellect, man is united to God as to something altogether unknown. But that which is seen in its essence is not altogether unknown. Therefore the final perfection of the intellect, namely, happiness, does not consist in God being seen in His Essence.
 
 Objection 2: Further, the higher the perfection belongs to the higher nature. But to see His own Essence is the perfection proper to the Divine intellect. Therefore the final perfection of the human intellect does not reach to this, but consists in something less.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Jn. 3:2): "When He shall appear, we shall be like to Him; and [Vulg.: 'because'] we shall see Him as He is."
 
@@ -216,7 +216,7 @@ I answer that, Final and perfect happiness can consist in nothing else than the 
 
 If therefore the human intellect, knowing the essence of some created effect, knows no more of God than "that He is"; the perfection of that intellect does not yet reach simply the First Cause, but there remains in it the natural desire to seek the cause. Wherefore it is not yet perfectly happy. Consequently, for perfect happiness the intellect needs to reach the very Essence of the First Cause. And thus it will have its perfection through union with God as with that object, in which alone man's happiness consists, as stated above ([1013]AA[1],7; Q[2], A[8]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Dionysius speaks of the knowledge of wayfarers journeying towards happiness.
 

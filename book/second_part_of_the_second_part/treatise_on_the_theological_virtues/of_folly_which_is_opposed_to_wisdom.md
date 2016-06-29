@@ -4,9 +4,9 @@ We must now consider folly which is opposed to wisdom; and under this head there
 (1) Whether folly is contrary to wisdom?
 (2) Whether folly is a sin?
 (3) To which capital sin is it reducible?
-## Whether Folly Is Contrary To Wisdom?
+### Whether Folly Is Contrary To Wisdom?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that folly is not contrary to wisdom. For seemingly unwisdom is directly opposed to wisdom. But folly does not seem to be the same as unwisdom, for the latter is apparently about Divine things alone, whereas folly is about both Divine and human things. Therefore folly is not contrary to wisdom.
 
@@ -16,7 +16,7 @@ Objection 3: Further, one contrary is not the cause of the other. But wisdom is 
 
 Objection 4: Further, Isidore says (Etym. x, under the letter S) that "a fool is one whom shame does not incite to sorrow, and who is unconcerned when he is injured." But this pertains to spiritual wisdom, according to Gregory (Moral. x, 49). Therefore folly is not opposed to wisdom.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. ii, 26) that "the gift of wisdom is given as a remedy against folly."
 
@@ -24,7 +24,7 @@ I answer that, Stultitia [Folly] seems to take its name from "stupor"; wherefore
 
 For "sapiens" [wise] as Isidore says (Etym. x) "is so named from sapor [savor], because just as the taste is quick to distinguish between savors of meats, so is a wise man in discerning things and causes." Wherefore it is manifest that "folly" is opposed to "wisdom" as its contrary, while "fatuity" is opposed to it as a pure negation: since the fatuous man lacks the sense of judgment, while the fool has the sense, though dulled, whereas the wise man has the sense acute and penetrating.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to Isidore (Etym. x), "unwisdom is contrary to wisdom because it lacks the savor of discretion and sense"; so that unwisdom is seemingly the same as folly. Yet a man would appear to be a fool chiefly through some deficiency in the verdict of that judgment, which is according to the highest cause, for if a man fails in judgment about some trivial matter, he is not for that reason called a fool.
 
@@ -33,9 +33,9 @@ Reply to Objection 2: Just as there is an evil wisdom, as stated above ([2718]Q[
 Reply to Objection 3: It is the wisdom of the world that deceives and makes us foolish in God's sight, as is evident from the Apostle's words (1 Cor. 3:19).
 
 Reply to Objection 4: To be unconcerned when one is injured is sometimes due to the fact that one has no taste for worldly things, but only for heavenly things. Hence this belongs not to worldly but to Divine wisdom, as Gregory declares (Moral. x, 49). Sometimes however it is the result of a man's being simply stupid about everything, as may be seen in idiots, who do not discern what is injurious to them, and this belongs to folly simply.
-## Whether Folly Is A Sin?
+### Whether Folly Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that folly is not a sin. For no sin arises in us from nature. But some are fools naturally. Therefore folly is not a sin.
 
@@ -43,7 +43,7 @@ Objection 2: Further, "Every sin is voluntary," according to Augustine (De Vera 
 
 Objection 3: Further, every sin is contrary to a Divine precept. But folly is not contrary to any precept. Therefore folly is not a sin.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Prov. 1:32): "The prosperity of fools shall destroy them." But no man is destroyed save for sin. Therefore folly is a sin.
 
@@ -51,14 +51,14 @@ I answer that, Folly, as stated above [2719](A[1]), denotes dullness of sense in
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Though no man wishes to be a fool, yet he wishes those things of which folly is a consequence, viz. to withdraw his sense from spiritual things and to plunge it into earthly things. The same thing happens in regard to other sins; for the lustful man desires pleasure, without which there is no sin, although he does not desire sin simply, for he would wish to enjoy the pleasure without sin.
 
 Reply to Objection 3: Folly is opposed to the precepts about the contemplation of truth, of which we have spoken above ([2720]Q[16]) when we were treating of knowledge and understanding.
-## Whether Folly Is A Daughter Of Lust?
+### Whether Folly Is A Daughter Of Lust?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that folly is not a daughter of lust. For Gregory (Moral. xxxi, 45) enumerates the daughters of lust, among which however he makes no mention of folly. Therefore folly does not proceed from lust.
 
@@ -66,13 +66,13 @@ Objection 2: Further, the Apostle says (1 Cor. 3:19): "The wisdom of this world 
 
 Objection 3: Further, anger especially is the cause of fury and madness in some persons; and this pertains to folly. Therefore folly arises from anger rather than from lust.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Prov. 7:22): "Immediately he followeth her," i.e. the harlot . . . "not knowing that he is drawn like a fool to bonds."
 
 I answer that, As already stated [2721](A[2]), folly, in so far as it is a sin, is caused by the spiritual sense being dulled, so as to be incapable of judging spiritual things. Now man's sense is plunged into earthly things chiefly by lust, which is about the greatest of pleasures; and these absorb the mind more than any others. Therefore the folly which is a sin, arises chiefly from lust.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is part of folly that a man should have a distaste for God and His gifts. Hence Gregory mentions two daughters of lust, pertaining to folly, namely, "hatred of God" and "despair of the life to come"; thus he divides folly into two parts as it were.
 

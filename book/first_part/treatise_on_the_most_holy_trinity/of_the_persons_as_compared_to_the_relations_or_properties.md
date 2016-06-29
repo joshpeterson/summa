@@ -5,9 +5,9 @@ We now consider the persons in connection with the relations, or properties; and
 (2) Whether the relations distinguish and constitute the persons?
 (3) Whether mental abstraction of the relations from the persons leaves the hypostases distinct?
 (4) Whether the relations, according to our mode of understanding, presuppose the acts of the persons, or contrariwise?
-## Whether Relation Is The Same As Person?
+### Whether Relation Is The Same As Person?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in God relation is not the same as person. For when things are identical, if one is multiplied the others are multiplied. But in one person there are several relations; as in the person of the Father there is paternity and common spiration. Again, one relation exists in two person, as common spiration in the Father and in the Son. Therefore relation is not the same as person.
 
@@ -15,7 +15,7 @@ Objection 2: Further, according to the Philosopher (Phys. iv, text. 24), nothing
 
 Objection 3: Further, when several things are identical, what is predicated of one is predicated of the others. But all that is predicated of a Person is not predicated of His property. For we say that the Father begets; but not that the paternity is begetting. Therefore property is not the same as person in God.
 
-### Answer
+**Answer**
 
 On the contrary, in God "what is" and "whereby it is" are the same, according to Boethius (De Hebdom.). But the Father is Father by paternity. In the same way, the other properties are the same as the persons.
 
@@ -23,16 +23,16 @@ I answer that, Different opinions have been held on this point. Some have said t
 
 Others, therefore, considering this identity, said that the properties were indeed the persons; but not "in" the persons; for, they said, there are no properties in God except in our way of speaking, as stated above ([336]Q[32], A[2]). We must, however, say that there are properties in God; as we have shown ([337]Q[32], A[2]). These are designated by abstract terms, being forms, as it were, of the persons. So, since the nature of a form requires it to be "in" that of which it is the form, we must say that the properties are in the persons, and yet that they are the persons; as we say that the essence is in God, and yet is God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Person and property are really the same, but differ in concept. Consequently, it does not follow that if one is multiplied, the other must also be multiplied. We must, however, consider that in God, by reason of the divine simplicity, a twofold real identity exists as regards what in creatures are distinct. For, since the divine simplicity excludes the composition of matter and form, it follows that in God the abstract is the same as the concrete, as "Godhead" and "God." And as the divine simplicity excludes the composition of subject and accident, it follows that whatever is attributed to God, is His essence Itself; and so, wisdom and power are the same in God, because they are both in the divine essence. According to this twofold identity, property in God is the same person. For personal properties are the same as the persons because the abstract and the concrete are the same in God; since they are the subsisting persons themselves, as paternity is the Father Himself, and filiation is the Son, and procession is the Holy Ghost. But the non-personal properties are the same as the persons according to the other reason of identity, whereby whatever is attributed to God is His own essence. Thus, common spiration is the same as the person of the Father, and the person of the Son; not that it is one self-subsisting person; but that as there is one essence in the two persons, so also there is one property in the two persons, as above explained ([338]Q[30], A[2] ).
 
 Reply to Objection 2: The properties are said to be in the essence, only by mode of identity; but in the persons they exist by mode of identity, not merely in reality, but also in the mode of signification; as the form exists in its subject. Thus the properties determine and distinguish the persons, but not the essence.
 
 Reply to Objection 3: Notional participles and verbs signify the notional acts: and acts belong to a "suppositum." Now, properties are not designated as "supposita," but as forms of "supposita." And so their mode of signification is against notional participles and verbs being predicated of the properties.
-## Whether The Persons Are Distinguished By The Relations?
+### Whether The Persons Are Distinguished By The Relations?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the persons are not distinguished by the relations. For simple things are distinct by themselves. But the persons are supremely simple. Therefore they are distinguished by themselves, and not by the relation.
 
@@ -42,7 +42,7 @@ Objection 3: Further, what is absolute comes before what is relative. But the di
 
 Objection 4: Further, whatever presupposes distinction cannot be the first principle of distinction. But relation presupposes distinction, which comes into its definition; for a relation is essentially what is towards another. Therefore the first distinctive principle in God cannot be relation.
 
-### Answer
+**Answer**
 
 On the contrary, Boethius says (De Trin.): "Relation alone multiplies the Trinity of the divine persons."
 
@@ -54,7 +54,7 @@ This opinion, however, cannot stand---for two reasons. Firstly, because, in orde
 
 It is therefore better to say that the persons or hypostases are distinguished rather by relations than by origin. For, although in both ways they are distinguished, nevertheless in our mode of understanding they are distinguished chiefly and firstly by relations; whence this name "Father" signifies not only a property, but also the hypostasis; whereas this term "Begetter" or "Begetting" signifies property only; forasmuch as this name "Father" signifies the relation which is distinctive and constitutive of the hypostasis; and this term "Begetter" or "Begotten" signifies the origin which is not distinctive and constitutive of the hypostasis.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The persons are the subsisting relations themselves. Hence it is not against the simplicity of the divine persons for them to be distinguished by the relations.
 
@@ -63,9 +63,9 @@ Reply to Objection 2: The divine persons are not distinguished as regards being,
 Reply to Objection 3: The more prior a distinction is, the nearer it approaches to unity; and so it must be the least possible distinction. So the distinction of the persons must be by that which distinguishes the least possible; and this is by relation.
 
 Reply to Objection 4: Relation presupposes the distinction of the subjects, when it is an accident; but when the relation is subsistent, it does not presuppose, but brings about distinction. For when it is said that relation is by nature to be towards another, the word "another" signifies the correlative which is not prior, but simultaneous in the order of nature.
-## Whether The Hypostases Remain If The Relations Are Mentally Abstracted From The Persons?
+### Whether The Hypostases Remain If The Relations Are Mentally Abstracted From The Persons?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the hypostases remain if the properties or relations are mentally abstracted from the persons. For that to which something is added, may be understood when the addition is taken away; as man is something added to animal which can be understood if rational be taken away. But person is something added to hypostasis; for person is "a hypostasis distinguished by a property of dignity." Therefore, if a personal property be taken away from a person, the hypostasis remains.
 
@@ -73,7 +73,7 @@ Objection 2: Further, that the Father is Father, and that He is someone, are not
 
 Objection 3: Further, Augustine says (De Trin. v, 6): "Unbegotten is not the same as Father; for if the Father had not begotten the Son, nothing would prevent Him being called unbegotten." But if He had not begotten the Son, there would be no paternity in Him. Therefore, if paternity be removed, there still remains the hypostasis of the Father as unbegotten.
 
-### Answer
+**Answer**
 
 On the contrary, Hilary says (De Trin. iv): "The Son has nothing else than birth." But He is Son by "birth." Therefore, if filiation be removed, the Son's hypostasis no more remains; and the same holds as regards the other persons.
 
@@ -85,16 +85,16 @@ If, however, the personal property be mentally abstracted, the idea of the hypos
 
 But this is impossible, for two reasons: first, because the relations distinguish and constitute the hypostases, as shown above [340](A[2]); secondly, because every hypostasis of a rational nature is a person, as appears from the definition of Boethius (De Duab. Nat.) that, "person is the individual substance of a rational nature." Hence, to have hypostasis and not person, it would be necessary to abstract the rationality from the nature, but not the property from the person.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Person does not add to hypostasis a distinguishing property absolutely, but a distinguishing property of dignity, all of which must be taken as the difference. Now, this distinguishing property is one of dignity precisely because it is understood as subsisting in a rational nature. Hence, if the distinguishing property be removed from the person, the hypostasis no longer remains; whereas it would remain were the rationality of the nature removed; for both person and hypostasis are individual substances. Consequently, in God the distinguishing relation belongs essentially to both.
 
 Reply to Objection 2: By paternity the Father is not only Father, but is a person, and is "someone," or a hypostasis. It does not follow, however, that the Son is not "someone" or a hypostasis; just as it does not follow that He is not a person.
 
 Reply to Objection 3: Augustine does not mean to say that the hypostasis of the Father would remain as unbegotten, if His paternity were removed, as if innascibility constituted and distinguished the hypostasis of the Father; for this would be impossible, since "being unbegotten" says nothing positive and is only a negation, as he himself says. But he speaks in a general sense, forasmuch as not every unbegotten being is the Father. So, if paternity be removed, the hypostasis of the Father does not remain in God, as distinguished from the other persons, but only as distinguished from creatures; as the Jews understand it.
-## Whether The Properties Presuppose The Notional Acts?
+### Whether The Properties Presuppose The Notional Acts?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the notional acts are understood before the properties. For the Master of the Sentences says (Sent. i, D, xxvii) that "the Father always is, because He is ever begetting the Son." So it seems that generation precedes paternity in the order of intelligence.
 
@@ -102,13 +102,13 @@ Objection 2: Further, in the order of intelligence every relation presupposes th
 
 Objection 3: Further, active generation is to paternity as nativity is to filiation. But filiation presupposes nativity; for the Son is so called because He is born. Therefore paternity also presupposes generation.
 
-### Answer
+**Answer**
 
 On the contrary, Generation is the operation of the person of the Father. But paternity constitutes the person of the Father. Therefore in the order of intelligence, paternity is prior to generation.
 
 I answer that, According to the opinion that the properties do not distinguish and constitute the hypostases in God, but only manifest them as already distinct and constituted, we must absolutely say that the relations in our mode of understanding follow upon the notional acts, so that we can say, without qualifying the phrase, that "because He begets, He is the Father." A distinction, however, is needed if we suppose that the relations distinguish and constitute the divine hypostases. For origin has in God an active and passive signification---active, as generation is attributed to the Father, and spiration, taken for the notional act, is attributed to the Father and the Son; passive, as nativity is attributed to the Son, and procession to the Holy Ghost. For, in the order of intelligence, origin, in the passive sense, simply precedes the personal properties of the person proceeding; because origin, as passively understood, signifies the way to a person constituted by the property. Likewise, origin signified actively is prior in the order of intelligence to the non-personal relation of the person originating; as the notional act of spiration precedes, in the order of intelligence, the unnamed relative property common to the Father and the Son. The personal property of the Father can be considered in a twofold sense: firstly, as a relation; and thus again in the order of intelligence it presupposes the notional act, for relation, as such, is founded upon an act: secondly, according as it constitutes the person; and thus the notional act presupposes the relation, as an action presupposes a person acting.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When the Master says that "because He begets, He is Father," the term "Father" is taken as meaning relation only, but not as signifying the subsisting person; for then it would be necessary to say conversely that because He is Father He begets.
 

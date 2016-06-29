@@ -5,9 +5,9 @@ We must now consider the conditions under which the blessed rise again, and (1) 
 (2) Whether all will be equally impassible?
 (3) Whether this impassibility renders the glorious bodies?
 (4) Whether in them all the senses are in act?
-## Whether The Bodies Of The Saints Will Be Impassible After The Resurrection?
+### Whether The Bodies Of The Saints Will Be Impassible After The Resurrection?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the bodies of the saints will not be impassible after the resurrection. For everything mortal is passible. But man, after the resurrection, will be "a mortal rational animal," for such is the definition of man, which will never be dissociated from him. Therefore the body will be passible.
 
@@ -19,7 +19,7 @@ Objection 4: Further, in the human body the blood and humors will rise again, as
 
 Objection 5: Further, actual defect is more inconsistent with perfection than potential defect. But passibility denotes merely potential defect. Since then there will be certain actual defects in the bodies of the blessed, such as the scars of the wounds in the martyrs, even as they were in Christ, it would seem that their perfections will not suffer, if we grant their bodies to be passible.
 
-### Answer
+**Answer**
 
 On the contrary, Everything passible is corruptible, because "increase of passion results in loss of substance" [*Aristotle, Topic. vi, 1]. Now the bodies of the saints will be incorruptible after the resurrection, according to 1 Cor. 15:42, "It is sown in corruption, it shall rise in incorruption." Therefore they will be impassible.
 
@@ -27,7 +27,7 @@ I answer that, We speak of a thing being "passive" in two ways [*Cf. [5074]FS, Q
 
 The reason however of this impassibility is assigned differently by different persons. Some ascribe it to the condition of the elements, which will be different then from what it is now. For they say that the elements will remain, then, as to substance, yet that they will be deprived of their active and passive qualities. But this does not seem to be true: because the active and passive qualities belong to the perfection of the elements, so that if the elements were restored without them in the body of the man that rises again, they would be less perfect than now. Moreover since these qualities are the proper accidents of the elements, being caused by their form and matter, it would seem most absurd for the cause to remain and the effect to be removed. Wherefore others say that the qualities will remain, but deprived of their proper activities, the Divine power so doing for the preservation of the human body. This however would seem to be untenable, since the action and passion of the active and passive qualities is necessary for the mixture (of the elements), and according as one or the other preponderates the mixed (bodies) differ in their respective complexions, and this must apply to the bodies of those who rise again, for they will contain flesh and bones and like parts, all of which demand different complexions. Moreover, according to this, impassibility could not be one of their gifts, because it would not imply a disposition in the impassible substance, but merely an external preventive to passion, namely the power of God, which might produce the same effect in a human body even in this state of life. Consequently others say that in the body itself there will be something preventing the passion of a glorified body, namely the nature of a fifth [*The other four being the elements; this fifth element was known to the peripatetic philosophers as the quintessence, of which they held heavenly bodies to be formed]: or heavenly body, which they maintain enters into the composition of a human body, to the effect of blending the elements together in harmony so as to be fitting matter for the rational soul; but that in this state of life, on account of the preponderance of the elemental nature, the human body is passible like other elements, whereas in the resurrection the nature of the fifth body will predominate, so that the human body will be made impassible in likeness to the heavenly body. But this cannot stand, because the fifth body does not enter materially into the composition of a human body, as was proved above (Sent. ii, D, 12, Q. 1, A[1]). Moreover it is absurd to say that a natural power, such as the power of a heavenly body, should endow the human body with a property of glory, such as the impassibility of a glorified body, since the Apostle ascribes to Christ's power the transformation of the human body, because "such as is the heavenly, such also are they that are heavenly" (1 Cor. 15:48), and "He will reform the body of our lowness, made like to the body of His glory, according to the operation whereby also He is able to subdue all things unto Himself" (Phil. 3:21). And again, a heavenly nature cannot exercise such power over the human body as to take from it its elemental nature which is passible by reason of its essential constituents. Consequently we must say otherwise that all passion results from the agent overcoming the patient, else it would not draw it to its own bounds. Now it is impossible for agent to overcome patient except through the weakening of the hold which the form of the patient has over its matter, if we speak of the passion which is against nature, for it is of passion in this sense that we are speaking now: for matter is not subject to one of two contraries, except through the cessation or at least the diminution of the hold which the other contrary has on it. Now the human body and all that it contains will be perfectly subject to the rational soul, even as the soul will be perfectly subject to God. Wherefore it will be impossible for the glorified body to be subject to any change contrary to the disposition whereby it is perfected by the soul; and consequently those bodies will be impassible.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to Anselm (Cur Deus Homo ii, 11), "mortal is included in the philosophers' definition of man, because they did not believe that the whole man could be ever immortal, for they had no experience of man otherwise than in this state of mortality." Or we may say that since, according to the Philosopher (Metaph. vi, 12), essential differences are unknown to us, we sometimes employ accidental differences in order to signify essential differences from which the accidental differences result. Hence "mortal" is put in the definition of man, not as though mortality were essential to man, but because that which causes passibility and mortality in the present state of life, namely composition of contraries, is essential to man, but it will not cause it then, on account of the triumph of the soul over the body.
 
@@ -38,9 +38,9 @@ Reply to Objection 3: The elemental qualities are the instruments of the soul, a
 Reply to Objection 4: According to Augustine (Ep. ad Consent. cxlvi) "the Divine power is able to remove" whatever qualities He will "from this visible and tangible body, other qualities remaining." Hence even as in a certain respect "He deprived the flames of the Chaldees' furnace of the power to burn, since the bodies of the children were preserved without hurt, while in another respect that power remained, since those flames consumed the wood, so will He remove passibility from the humors while leaving their nature unchanged." It has been explained in the Article how this is brought about.
 
 Reply to Objection 5: The scars of wounds will not be in the saints, nor were they in Christ, in so far as they imply a defect, but as signs of the most steadfast virtue whereby the saints suffered for the sake of justice and faith: so that this will increase their own and others' joy (Cf. [5075]TP, Q[54], A[4], ad 3). Hence Augustine says (De Civ. Dei xxii, 19): "We feel an undescribable love for the blessed martyrs so as to desire to see in that kingdom the scars of the wounds in their bodies, which they bore for Christ's name. Perchance indeed we shall see them for this will not make them less comely but more glorious. A certain beauty will shine in them, a beauty though in the body, yet not of the body but of virtue." Nevertheless those martyrs who have been maimed and deprived of their limbs will not be without those limbs in the resurrection of the dead, for to them it is said (Lk. 21:18): "A hair of your head shall not perish."
-## Whether All Will Be Equally Impassible?
+### Whether All Will Be Equally Impassible?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all will be equally impassible. For a gloss on 1 Cor. 15:42, "It is sown in corruption," says that "all have equal immunity from suffering." Now the gift of impassibility consists in immunity from suffering. Therefore all will be equally impassible.
 
@@ -48,22 +48,22 @@ Objection 2: Further, negations are not subject to be more or less. Now impassib
 
 Objection 3: Further, a thing is more white if it have less admixture of black. But there will be no admixture of passibility in any of the saints' bodies. Therefore they will all be equally impassible.
 
-### Answer
+**Answer**
 
 On the contrary, Reward should be proportionate to merit. Now some of the saints were greater in merit than others. Therefore, since impassibility is a reward, it would seem to be greater in some than in others.
 
 I answer that, Impassibility may be considered in two ways, either in itself, or in respect of its cause. If it be considered in itself, since it denotes a mere negation or privation, it is not subject to be more or less, but will be equal in all the blessed. on the other hand, if we consider it in relation to its cause, thus it will be greater in one person than in another. Now its cause is the dominion of the soul over the body, and this dominion is caused by the soul's unchangeable enjoyment of God. Consequently in one who enjoys God more perfectly, there is a greater cause of impassibility.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This gloss is speaking of impassibility in itself and not in relation to its cause.
 
 Reply to Objection 2: Although negations and privations considered in themselves are not increased nor diminished, yet they are subject to increase and diminution in relation to their causes. Thus a place is said to be more darksome from having more and greater obstacles to light.
 
 Reply to Objection 3: Some things increase not only by receding from their contrary, but also by approach to a term: thus light increases. Consequently impassibility also is greater in one subject than in another, although there is no passibility remaining in any one.
-## Whether Impassibility Excludes Actual Sensation From Glorified Bodies?
+### Whether Impassibility Excludes Actual Sensation From Glorified Bodies?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that impassibility excludes actual sensation from glorified bodies. For according to the Philosopher (De Anima ii, 11), "sensation is a kind of passion." But the glorified bodies will be impassible. Therefore they will not have actual sensation.
 
@@ -73,7 +73,7 @@ Objection 3: Further, whenever actual sensation is due to a new perception, ther
 
 Objection 4: Further, when the act of one of the soul's powers is intense, the acts of the other powers are remiss. Now the soul will be supremely intent on the act of the contemplative power in contemplating God. Therefore the soul will have no actual sensation whatever.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Apoc. 1:7): "Every eye shall see Him." Therefore there will be actual sensation.
 
@@ -81,7 +81,7 @@ I answer that, All are agreed that there is some sensation in the bodies of the 
 
 For some say that the glorified bodies will be impassible, and consequently "not susceptible to impressions from without" [*Cf.[5078] Q[74], A[4], On the contrary] and much less so than the heavenly bodies, because they will have actual sensations, not by receiving species from sensibles, but by emission of species. But this is impossible, since in the resurrection the specific nature will remain the same in man and in all his parts. Now the nature of sense is to be a passive power as the Philosopher proves (De Anima ii, text. 51,54). Wherefore if the saints, in the resurrection, were to have sensations by emitting and not by receiving species, sense in them would be not a passive but an active power, and thus it would not be the same specifically with sense as it is now, but would be some other power bestowed on them; for just as matter never becomes form, so a passive power never becomes active. Consequently others say that the senses will be actualized by receiving species, not indeed from external sensibles, but by an outflow from the higher powers, so that as now the higher powers receive from the lower, so on the contrary the lower powers will then receive from the higher. But this mode of reception does not result in real sensation, because every passive power, according to its specific nature, is determined to some special active principle, since a power as such bears relation to that with respect to which it is said to be the power. Wherefore since the proper active principle in external sensation is a thing existing outside the soul and not an intention thereof existing in the imagination or reason, if the organ of sense be not moved by external things, but by the imagination or other higher powers, there will be no true sensation. Hence we do not say that madmen or other witless persons (in whom there is this kind of outflow of species towards the organs of sense, on account of the powerful influence of the imagination) have real sensations, but that it seems to them that they have sensations. Consequently we must say with others that sensation in glorified bodies will result from the reception of things outside the soul. It must, however, be observed that the organs of sense are transmuted by things outside the soul in two ways. First by a natural transmutation, when namely the organ is disposed by the same natural quality as the thing outside the soul which acts on that organ: for instance, when the hand is heated by touching a hot object, or becomes fragrant through contact with a fragrant object. Secondly, by a spiritual transmutation, as when a sensible quality is received in an instrument, according to a spiritual mode of being, when, namely, the species or the intention of a quality, and not the quality itself is received: thus the pupil receives the species of whiteness and yet does not itself become white. Accordingly the first reception does not cause sensation, properly speaking, because the senses are receptive of species in matter but without matter. that is to say without the material "being" which the species had outside the soul (De Anima ii, text. 121). This reception transmutes the nature of the recipient, because in this way the quality is received according to its material "being." Consequently this kind of reception will not be in the glorified bodies, but the second, which of itself causes actual sensation, without changing the nature of the recipient.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As already explained, by this passion that takes place in actual sensation and is no other than the aforesaid reception of species, the body is not drawn away from natural quality, but is perfected by a spiritual change. Wherefore the impassibility of glorified bodies does not exclude this kind of passion.
 
@@ -90,9 +90,9 @@ Reply to Objection 2: Every subject of passion receives the action of the agent 
 Reply to Objection 3: Just as there will be new reception of species in the organs of sensation, so there will be new judgment in the common sense: but there will be no new judgment on the point in the intellect; such is the case with one who sees what he knew before. The saying of Augustine, that "there our thoughts will not be changeable," refers to the thoughts of the intellectual part: therefore it is not to the point.
 
 Reply to Objection 4: When one of two things is the type of the other, the attention of the soul to the one does not hinder or lessen its attention to the other: thus a physician while considering urine is not less but more able to bear in mind the rules of his art concerning the colors of urine. And since God is apprehended by the saints as the type of all things that will be done or known by them, their attention to perceiving sensibles, or to contemplating or doing anything else will nowise hinder their contemplation of God, nor conversely. Or we may say that the reason why one power is hindered in its act when another power is intensely engaged is because one power does not alone suffice for such an intense operation, unless it be assisted by receiving from the principle of life the inflow that the other powers or members should receive. And since in the saints all the powers will be most perfect, one will be able to operate intensely without thereby hindering the operation of another power even as it was with Christ.
-## Whether In The Blessed, After The Resurrection, All The Senses Will Be In Act?
+### Whether In The Blessed, After The Resurrection, All The Senses Will Be In Act?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all the senses are not in act there. For touch is the first of all the senses (De Anima ii, 2). But the glorified body will lack the actual sense of touch, since the sense of touch becomes actual by the alteration of an animal body by some external body preponderating in some one of the active or passive qualities which touch is capable of discerning: and such an alteration will then be impossible. Therefore all the senses will not be in act there.
 
@@ -106,13 +106,13 @@ Objection 5: Further. seeing results from the pupil receiving the species of the
 
 Objection 6: Further, according to the science of perspective, whatever is seen is seen at an angle. But this does not apply to the glorified bodies. Therefore they will not have actual sense of sight. The minor is proved thus. Whenever a thing is seen at an angle, the angle must be proportionate to the distance of the object seen: because what is seen from a greater distance is less seen and at a lesser angle, so that the angle may be so small that nothing is seen of the object. Therefore if the glorified eye sees at an angle, it follows that it sees things within a certain distance, and that consequently it does not see a thing from a greater distance than we see now: and this would seem very absurd. And thus it would seem that the sense of sight will not be actual in glorified bodies.
 
-### Answer
+**Answer**
 
 On the contrary, A power conjoined to its act is more perfect than one not so conjoined. Now human nature in the blessed will be in its greatest perfection. Therefore all the senses will be actual there.
 
 I answer that, There are two opinions on this question. For some say that in the glorified bodies there will be all the sensitive powers, but that only two senses will be in act, namely touch and sight; nor will this be owing to defective senses, but from lack of medium and object; and that the senses will not be useless, because they will conduce to the integrity of human nature and will show forth the wisdom of their Creator. But this is seemingly untrue, because the medium in these senses is the same as in the others. For in the sight the medium is the air, and this is also the medium in hearing and smelling (De Anima ii, 7). Again, the taste, like the touch, has the medium in contact, since taste is a kind of touch (De Anima ii, 9). Smell also which is the object of the sense of smell will be there, since the Church sings that the bodies of the saints will be a most sweet smell. There will also be vocal praise in heaven; hence a gloss says on Ps. 149:6, "The high praises of God shall be in their mouth" that "hearts and tongues shall not cease to praise God." The same is had on the authority of a gloss on 2 Esdra 12:27, "With singing and with cymbals." Wherefore, according to others we may say that smelling and hearing will be in act there, but taste will not be in act, in the sense of being affected by the taking of food or drink, as appears from what we have said ([5080]Q[81], A[4]): unless perchance we say that there will be taste in act through the tongue being affected by some neighboring humor.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The qualities perceived by the touch are those which constitute the animal body. Wherefore the body of an animal has, through its tangible qualities according to the present state of life, a natural aptitude to be affected with a natural and spiritual alteration by the object of touch. For this reason the touch is said to be the most material of the senses, since it has a greater measure of material alteration connected with it. Yet material alteration is only accidentally related to the act of sensation which is effected by a spiritual alteration. Consequently the glorified bodies, which by reason of their impassibility are immune from natural alteration, will be subject only to spiritual alteration by tangible qualities. Thus it was with the body of Adam, which could neither be burned by fire, nor pierced by sword, although he had the sense of such things.
 

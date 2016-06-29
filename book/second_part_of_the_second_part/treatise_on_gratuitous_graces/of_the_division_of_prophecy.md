@@ -7,9 +7,9 @@ We must now consider the division of prophecy, and under this head there are six
 (4) Whether Moses was the greatest of the prophets?
 (5) Whether a comprehensor can be a prophet?
 (6) Whether prophecy advanced in perfection as time went on?
-## Whether Prophecy Is Fittingly Divided Into The Prophecy Of Divine Predestination, Of Foreknowledge, And Of Denunciation?
+### Whether Prophecy Is Fittingly Divided Into The Prophecy Of Divine Predestination, Of Foreknowledge, And Of Denunciation?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prophecy is unfittingly divided according to a gloss on Mat. 1:23, "Behold a virgin shall be with child," where it is stated that "one kind of prophecy proceeds from the Divine predestination, and must in all respects be accomplished so that its fulfillment is independent of our will, for instance the one in question. Another prophecy proceeds from God's foreknowledge: and into this our will enters. And another prophecy is called denunciation, which is significative of God's disapproval." For that which results from every prophecy should not be reckoned a part of prophecy. Now all prophecy is according to the Divine foreknowledge, since the prophets "read in the book of foreknowledge," as a gloss says on Is. 38:1. Therefore it would seem that prophecy according to foreknowledge should not be reckoned a species of prophecy.
 
@@ -17,22 +17,22 @@ Objection 2: Further, just as something is foretold in denunciation, so is somet
 
 Objection 3: Further, Isidore says (Etym. vii, 8): "There are seven kinds of prophecy. The first is an ecstasy, which is the transport of the mind: thus Peter saw a vessel descending from heaven with all manner of beasts therein. The second kind is a vision, as we read in Isaias, who says (Is. 6:1): 'I saw the Lord sitting,' etc. The third kind is a dream: thus Jacob in a dream, saw a ladder. The fourth kind is from the midst of a cloud: thus God spake to Moses. The fifth kind is a voice from heaven, as that which called to Abraham saying (Gn. 22:11): 'Lay not thy hand upon the boy.' The sixth kind is taking up a parable, as in the example of Balaam (Num. 23:7; 24:15). The seventh kind is the fullness of the Holy Ghost, as in the case of nearly all the prophets." Further, he mentions three kinds of vision; "one by the eyes of the body, another by the soul's imagination, a third by the eyes of the mind." Now these are not included in the aforesaid division. Therefore it is insufficient.
 
-### Answer
+**Answer**
 
 On the contrary, stands the authority of Jerome to whom the gloss above quoted is ascribed.
 
 I answer that, The species of moral habits and acts are distinguished according to their objects. Now the object of prophecy is something known by God and surpassing the faculty of man. Wherefore, according to the difference of such things, prophecy is divided into various species, as assigned above. Now it has been stated above (Q[71], A[6], ad 2) that the future is contained in the Divine knowledge in two ways. First, as in its cause: and thus we have the prophecy of "denunciation," which is not always fulfilled. but it foretells the relation of cause to effect, which is sometimes hindered by some other occurrence supervening. Secondly, God foreknows certain things in themselves---either as to be accomplished by Himself, and of such things is the prophecy of "predestination," since, according to Damascene (De Fide Orth. ii, 30), "God predestines things which are not in our power"---or as to be accomplished through man's free-will, and of such is the prophecy of "foreknowledge." This may regard either good or evil, which does not apply to the prophecy of predestination, since the latter regards good alone. And since predestination is comprised under foreknowledge, the gloss in the beginning of the Psalter assigns only two species to prophecy, namely of "foreknowledge," and of "denunciation."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Foreknowledge, properly speaking, denotes precognition of future events in themselves, and in this sense it is reckoned a species of prophecy. But in so far as it is used in connection with future events, whether as in themselves, or as in their causes, it is common to every species of prophecy.
 
 Reply to Objection 2: The prophecy of promise is included in the prophecy of denunciation, because the aspect of truth is the same in both. But it is denominated in preference from denunciation, because God is more inclined to remit punishment than to withdraw promised blessings.
 
 Reply to Objection 3: Isidore divides prophecy according to the manner of prophesying. Now we may distinguish the manner of prophesying---either according to man's cognitive powers, which are sense, imagination, and intellect, and then we have the three kinds of vision mentioned both by him and by Augustine (Gen. ad lit. xii, 6,7)---or according to the different ways in which the prophetic current is received. Thus as regards the enlightening of the intellect there is the "fullness of the Holy Ghost" which he mentions in the seventh place. As to the imprinting of pictures on the imagination he mentions three, namely "dreams," to which he gives the third place; "vision," which occurs to the prophet while awake and regards any kind of ordinary object, and this he puts in the second place; and "ecstasy," which results from the mind being uplifted to certain lofty things, and to this he assigns the first place. As regards sensible signs he reckons three kinds of prophecy, because a sensible sign is---either a corporeal thing offered externally to the sight, such as "a cloud," which he mentions in the fourth place---or a "voice" sounding from without and conveyed to man's hearing---this he puts in the fifth place---or a voice proceeding from a man, conveying something under a similitude, and this pertains to the "parable" to which he assigns the sixth place.
-## Whether The Prophecy Which Is Accompanied By Intellective And Imaginative Vision Is More Excellent Than That Which Is Accompanied By Intellective Vision Alone?
+### Whether The Prophecy Which Is Accompanied By Intellective And Imaginative Vision Is More Excellent Than That Which Is Accompanied By Intellective Vision Alone?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the prophecy which has intellective and imaginative vision is more excellent than that which is accompanied by intellective vision alone. For Augustine says (Gen. ad lit. xii, 9): "He is less a prophet, who sees in spirit nothing but the signs representative of things, by means of the images of things corporeal: he is more a prophet, who is merely endowed with the understanding of these signs; but most of all is he a prophet, who excels in both ways," and this refers to the prophet who has intellective together with imaginative vision. Therefore this kind of prophecy is more excellent.
 
@@ -42,7 +42,7 @@ Objection 3: Further, Jerome (Prol. in Lib. Reg.) distinguishes the "prophets" f
 
 Objection 4: Further, Dionysius says (Coel. Hier. i) that "it is impossible for the Divine ray to shine on us, except as screened round about by the many-colored sacred veils." Now the prophetic revelation is conveyed by the infusion of the divine ray. Therefore it seems that it cannot be without the veils of phantasms.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss says at the beginning of the Psalter that "the most excellent manner of prophecy is when a man prophesies by the mere inspiration of the Holy Ghost, apart from any outward assistance of deed, word, vision, or dream."
 
@@ -50,7 +50,7 @@ I answer that, The excellence of the means is measured chiefly by the end. Now t
 
 Moreover the prophet's mind is shown thereby to be more lofty: even as in human teaching the hearer, who is able to grasp the bare intelligible truth the master propounds, is shown to have a better understanding than one who needs to be taken by the hand and helped by means of examples taken from objects of sense. Hence it is said in commendation of David's prophecy (2 Kings 23:3): "The strong one of Israel spoke to me," and further on (2 Kings 23:4): "As the light of the morning, when the sun riseth, shineth in the morning without clouds."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When a particular supernatural truth has to be revealed by means of corporeal images, he that has both, namely the intellectual light and the imaginary vision, is more a prophet than he that has only one, because his prophecy is more perfect; and it is in this sense that Augustine speaks as quoted above. Nevertheless the prophecy in which the bare intelligible truth is revealed is greater than all.
 
@@ -59,9 +59,9 @@ Reply to Objection 2: The same judgment does not apply to things that are sought
 Reply to Objection 3: The fact that a particular predicate is applicable to one thing and less properly to another, does not prevent this latter from being simply better than the former: thus the knowledge of the blessed is more excellent than the knowledge of the wayfarer, although faith is more properly predicated of the latter knowledge, because faith implies an imperfection of knowledge. In like manner prophecy implies a certain obscurity, and remoteness from the intelligible truth; wherefore the name of prophet is more properly applied to those who see by imaginary vision. And yet the more excellent prophecy is that which is conveyed by intellectual vision, provided the same truth be revealed in either case. If, however, the intellectual light be divinely infused in a person, not that he may know some supernatural things, but that he may be able to judge, with the certitude of divine truth, of things that can be known by human reason, such intellectual prophecy is beneath that which is conveyed by an imaginary vision leading to a supernatural truth. It was this kind of prophecy that all those had who are included in the ranks of the prophets, who moreover were called prophets for the special reason that they exercised the prophetic calling officially. Hence they spoke as God's representatives, saying to the people: "Thus saith the Lord": but not so the authors of the "sacred writings," several of whom treated more frequently of things that can be known by human reason, not in God's name, but in their own, yet with the assistance of the Divine light withal.
 
 Reply to Objection 4: In the present life the enlightenment by the divine ray is not altogether without any veil of phantasms, because according to his present state of life it is unnatural to man not to understand without a phantasm. Sometimes, however, it is sufficient to have phantasms abstracted in the usual way from the senses without any imaginary vision divinely vouchsafed, and thus prophetic vision is said to be without imaginary vision.
-## Whether The Degrees Of Prophecy Can Be Distinguished According To The Imaginary Vision?
+### Whether The Degrees Of Prophecy Can Be Distinguished According To The Imaginary Vision?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the degrees of prophecy cannot be distinguished according to the imaginary vision. For the degrees of a thing bear relation to something that is on its own account, not on account of something else. Now, in prophecy, intellectual vision is sought on its own account, and imaginary vision on account of something else, as stated above (A[2], ad 2). Therefore it would seem that the degrees of prophecy are distinguished not according to imaginary, but only according to intellectual, vision.
 
@@ -69,7 +69,7 @@ Objection 2: Further, seemingly for one prophet there is one degree of prophecy.
 
 Objection 3: Further, according to a gloss [*Cassiodorus, super Prolog. Hieron. in Psalt.], prophecy consists of words, deeds, dreams, and visions. Therefore the degrees of prophecy should not be distinguished according to imaginary vision, to which vision and dreams pertain, rather than according to words and deeds.
 
-### Answer
+**Answer**
 
 On the contrary, The medium differentiates the degrees of knowledge: thus science based on direct [*"Propter quid"] proofs is more excellent than science based on indirect [*"Quia"] premises or than opinion, because it comes through a more excellent medium. Now imaginary vision is a kind of medium in prophetic knowledge. Therefore the degrees of prophecy should be distinguished according to imaginary vision.
 
@@ -79,16 +79,16 @@ Nevertheless these two degrees are beneath prophecy properly so called, because 
 
 But above all these degrees there is a third kind of prophecy, wherein an intelligible and supernatural truth is shown without any imaginary vision. However, this goes beyond the bounds of prophecy properly so called, as stated above (A[2], ad 3); and consequently the degrees of prophecy are properly distinguished according to imaginary vision.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We are unable to know how to distinguish the intellectual light, except by means of imaginary or sensible signs. Hence the difference in the intellectual light is gathered from the difference in the things presented to the imagination.
 
 Reply to Objection 2: As stated above ([3685]Q[171], A[2]), prophecy is by way, not of an abiding habit, but of a transitory passion; wherefore there is nothing inconsistent if one and the same prophet, at different times, receive various degrees of prophetic revelation.
 
 Reply to Objection 3: The words and deeds mentioned there do not pertain to the prophetic revelation, but to the announcement, which is made according to the disposition of those to whom that which is revealed to the prophet is announced; and this is done sometimes by words, sometimes by deeds. Now this announcement, and the working of miracles, are something consequent upon prophecy, as stated above ([3686]Q[171], A[1]).
-## Whether Moses Was The Greatest Of The Prophets?
+### Whether Moses Was The Greatest Of The Prophets?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Moses was not the greatest of the prophets. For a gloss at the beginning of the Psalter says that "David is called the prophet by way of excellence." Therefore Moses was not the greatest of all.
 
@@ -96,22 +96,22 @@ Objection 2: Further, greater miracles were wrought by Josue, who made the sun a
 
 Objection 3: Further, it is written (Mat. 11:11) that "there hath not risen, among them that are born of women, a greater than John the Baptist." Therefore Moses was not greater than all the prophets.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 34:10): "There arose no more a prophet in Israel like unto Moses."
 
 I answer that, Although in some respect one or other of the prophets was greater than Moses, yet Moses was simply the greatest of all. For, as stated above [3687](A[3]; Q[171], A[1]), in prophecy we may consider not only the knowledge, whether by intellectual or by imaginary vision, but also the announcement and the confirmation by miracles. Accordingly Moses was greater than the other prophets. First, as regards the intellectual vision, since he saw God's very essence, even as Paul in his rapture did, according to Augustine (Gen. ad lit. xii, 27). Hence it is written (Num. 12:8) that he saw God "plainly and not by riddles." Secondly, as regards the imaginary vision, which he had at his call, as it were, for not only did he hear words, but also saw one speaking to him under the form of God, and this not only while asleep, but even when he was awake. Hence it is written (Ex. 33:11) that "the Lord spoke to Moses face to face, as a man is wont to speak to his friend." Thirdly, as regards the working of miracles which he wrought on a whole nation of unbelievers. Wherefore it is written (Dt. 34:10,11): "There arose no more a prophet in Israel like unto Moses, whom the Lord knew face to face: in all the signs and wonders, which He sent by him, to do in the land of Egypt to Pharaoh, and to all his servants, and to his whole land."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The prophecy of David approaches near to the vision of Moses, as regards the intellectual vision, because both received a revelation of intelligible and supernatural truth, without any imaginary vision. Yet the vision of Moses was more excellent as regards the knowledge of the Godhead; while David more fully knew and expressed the mysteries of Christ's incarnation.
 
 Reply to Objection 2: These signs of the prophets mentioned were greater as to the substance of the thing done; yet the miracles of Moses were greater as regards the way in which they were done, since they were wrought on a whole people.
 
 Reply to Objection 3: John belongs to the New Testament, whose ministers take precedence even of Moses, since they are spectators of a fuller revelation, as stated in 2 Cor. 3.
-## Whether There Is A Degree Of Prophecy In The Blessed?
+### Whether There Is A Degree Of Prophecy In The Blessed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is a degree of prophecy in the blessed. For, as stated above [3688](A[4]), Moses saw the Divine essence, and yet he is called a prophet. Therefore in like manner the blessed can be called prophets.
 
@@ -121,7 +121,7 @@ Objection 3: Further, Christ was a comprehensor from the moment of His conceptio
 
 Objection 4: Further, it is written of Samuel (Ecclus. 46:23): "He lifted up his voice from the earth in prophecy to blot out the wickedness of the nation." Therefore other saints can likewise be called prophets after they have died.
 
-### Answer
+**Answer**
 
 On the contrary, The prophetic word is compared (2 Pet. 1:19) to a "light that shineth in a dark place." Now there is no darkness in the blessed. Therefore they cannot be called prophets.
 
@@ -129,7 +129,7 @@ I answer that, Prophecy denotes vision of some supernatural truth as being far r
 
 Now in neither of these ways are the blessed remote; wherefore they cannot be called prophets.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This vision of Moses was interrupted after the manner of a passion, and was not permanent like the beatific vision, wherefore he was as yet a seer from afar. For this reason his vision did not entirely lose the character of prophecy.
 
@@ -138,9 +138,9 @@ Reply to Objection 2: The divine revelation is made to the angels, not as being 
 Reply to Objection 3: Christ was at the same time comprehensor and wayfarer [*Cf. TP, QQ[9], seqq.]. Consequently the notion of prophecy is not applicable to Him as a comprehensor, but only as a wayfarer.
 
 Reply to Objection 4: Samuel had not yet attained to the state of blessedness. Wherefore although by God's will the soul itself of Samuel foretold to Saul the issue of the war as revealed to him by God, this pertains to the nature of prophecy. It is not the same with the saints who are now in heaven. Nor does it make any difference that this is stated to have been brought about by the demons' art, because although the demons are unable to evoke the soul of a saint, or to force it to do any particular thing, this can be done by the power of God, so that when the demon is consulted, God Himself declares the truth by His messenger: even as He gave a true answer by Elias to the King's messengers who were sent to consult the god of Accaron (4 Kings 1).
-## Whether The Degrees Of Prophecy Change As Time Goes On?
+### Whether The Degrees Of Prophecy Change As Time Goes On?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the degrees of prophecy change as time goes on. For prophecy is directed to the knowledge of Divine things, as stated above [3690](A[2]). Now according to Gregory (Hom. in Ezech.), "knowledge of God went on increasing as time went on." Therefore degrees of prophecy should be distinguished according to the process of time.
 
@@ -148,7 +148,7 @@ Objection 2: Further, prophetic revelation is conveyed by God speaking to man; w
 
 Objection 3: Further, our Lord said (Mat. 11:13): "The prophets and the law prophesied until John"; and afterwards the gift of prophecy was in Christ's disciples in a much more excellent manner than in the prophets of old, according to Eph. 3:5, "In other generations" the mystery of Christ "was not known to the sons of men, as it is now revealed to His holy apostles and prophets in the Spirit." Therefore it would seem that in course of time the degree of prophecy advanced.
 
-### Answer
+**Answer**
 
 On the contrary, As stated above [3691](A[4]), Moses was the greatest of the prophets, and yet he preceded the other prophets. Therefore prophecy did not advance in degree as time went on.
 
@@ -160,7 +160,7 @@ As to the faith in Christ's incarnation, it is evident that the nearer men were 
 
 As regards the guidance of human acts, the prophetic revelation varied not according to the course of time, but according as circumstances required, because as it is written (Prov. 29:18), "When prophecy shall fail, the people shall be scattered abroad." Wherefore at all times men were divinely instructed about what they were to do, according as it was expedient for the spiritual welfare of the elect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The saying of Gregory is to be referred to the time before Christ's incarnation, as regards the knowledge of this mystery.
 

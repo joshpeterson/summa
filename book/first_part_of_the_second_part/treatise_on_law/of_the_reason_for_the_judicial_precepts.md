@@ -5,9 +5,9 @@ We must now consider the reason for the judicial precepts: under which head ther
 (2) Concerning the fellowship of one man with another;
 (3) Concerning matters relating to foreigners;
 (4) Concerning things relating to domestic matters.
-## Whether The Old Law Enjoined Fitting Precepts Concerning Rulers?
+### Whether The Old Law Enjoined Fitting Precepts Concerning Rulers?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Old Law made unfitting precepts concerning rulers. Because, as the Philosopher says (Polit. iii, 4), "the ordering of the people depends mostly on the chief ruler." But the Law contains no precept relating to the institution of the chief ruler; and yet we find therein prescriptions concerning the inferior rulers: firstly (Ex. 18:21): "Provide out of all the people wise [Vulg.: 'able'] men," etc.; again (Num. 11:16): "Gather unto Me seventy men of the ancients of Israel"; and again (Dt. 1:13): "Let Me have from among you wise and understanding men," etc. Therefore the Law provided insufficiently in regard to the rulers of the people.
 
@@ -19,7 +19,7 @@ Objection 4: Further, just as priests are instituted for the benefit of the peop
 
 Objection 5: Further, as a kingdom is the best form of government, so is tyranny the most corrupt. But when the Lord appointed the king, He established a tyrannical law; for it is written (1 Kings 8:11): "This will be the right of the king, that shall reign over you: He will take your sons," etc. Therefore the Law made unfitting provision with regard to the institution of rulers.
 
-### Answer
+**Answer**
 
 On the contrary, The people of Israel is commended for the beauty of its order (Num. 24:5): "How beautiful are thy tabernacles, O Jacob, and thy tents." But the beautiful ordering of a people depends on the right establishment of its rulers. Therefore the Law made right provision for the people with regard to its rulers.
 
@@ -27,7 +27,7 @@ I answer that, Two points are to be observed concerning the right ordering of ru
 
 Such was the form of government established by the Divine Law. For Moses and his successors governed the people in such a way that each of them was ruler over all; so that there was a kind of kingdom. Moreover, seventy-two men were chosen, who were elders in virtue: for it is written (Dt. 1:15): "I took out of your tribes wise and honorable, and appointed them rulers": so that there was an element of aristocracy. But it was a democratical government in so far as the rulers were chosen from all the people; for it is written (Ex. 18:21): "Provide out of all the people wise [Vulg.: 'able'] men," etc.; and, again, in so far as they were chosen by the people; wherefore it is written (Dt. 1:13): "Let me have from among you wise [Vulg.: 'able'] men," etc. Consequently it is evident that the ordering of the rulers was well provided for by the Law.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This people was governed under the special care of God: wherefore it is written (Dt. 7:6): "The Lord thy God hath chosen thee to be His peculiar people": and this is why the Lord reserved to Himself the institution of the chief ruler. For this too did Moses pray (Num. 27:16): "May the Lord the God of the spirits of all the flesh provide a man, that may be over this multitude." Thus by God's orders Josue was set at the head in place of Moses; and we read about each of the judges who succeeded Josue that God "raised . . . up a saviour" for the people, and that "the spirit of the Lord was" in them (Judges 3:9, 10, 15). Hence the Lord did not leave the choice of a king to the people; but reserved this to Himself, as appears from Dt. 17:15: "Thou shalt set him whom the Lord thy God shall choose."
 
@@ -38,9 +38,9 @@ Reply to Objection 3: The division of the kingdom, and a number of kings, was ra
 Reply to Objection 4: The priestly office was bequeathed by succession from father to son: and this, in order that it might be held in greater respect, if not any man from the people could become a priest: since honor was given to them out of reverence for the divine worship. Hence it was necessary to put aside certain things for them both as to tithes and as to first-fruits, and, again, as to oblations and sacrifices, that they might be afforded a means of livelihood. On the other hand, the rulers, as stated above, were chosen from the whole people; wherefore they had their own possessions, from which to derive a living: and so much the more, since the Lord forbade even a king to have superabundant wealth to make too much show of magnificence: both because he could scarcely avoid the excesses of pride and tyranny, arising from such things, and because, if the rulers were not very rich, and if their office involved much work and anxiety, it would not tempt the ambition of the common people; and would not become an occasion of sedition.
 
 Reply to Objection 5: That right was not given to the king by Divine institution: rather was it foretold that kings would usurp that right, by framing unjust laws, and by degenerating into tyrants who preyed on their subjects. This is clear from the context that follows: "And you shall be his slaves [Douay: 'servants']": which is significative of tyranny, since a tyrant rules is subjects as though they were his slaves. Hence Samuel spoke these words to deter them from asking for a king; since the narrative continues: "But the people would not hear the voice of Samuel." It may happen, however, that even a good king, without being a tyrant, may take away the sons, and make them tribunes and centurions; and may take many things from his subjects in order to secure the common weal.
-## Whether The Judicial Precepts Were Suitably Framed As To The Relations Of One Man With Another?
+### Whether The Judicial Precepts Were Suitably Framed As To The Relations Of One Man With Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the judicial precepts were not suitably framed as regards the relations of one man with another. Because men cannot live together in peace, if one man takes what belongs to another. But this seems to have been approved by the Law: since it is written (Dt. 23:24): "Going into thy neighbor's vineyard, thou mayest eat as many grapes as thou pleasest." Therefore the Old Law did not make suitable provisions for man's peace.
 
@@ -60,7 +60,7 @@ Objection 8: Further, it is possible that not only two, but three or more, shoul
 
 Objection 9: Further, punishment should be fixed according to the gravity of the fault: for which reason also it is written (Dt. 25:2): "According to the measure of the sin, shall the measure also of the stripes be." Yet the Law fixed unequal punishments for certain faults: for it is written (Ex. 22:1) that the thief "shall restore five oxen for one ox, and four sheep for one sheep." Moreover, certain slight offenses are severely punished: thus (Num. 15:32, seqq.) a man is stoned for gathering sticks on the sabbath day: and (Dt. 21:18, seqq.) the unruly son is commanded to be stoned on account of certain small transgressions, viz. because "he gave himself to revelling . . . and banquetings." Therefore the Law prescribed punishments in an unreasonable manner.
 
-### Answer
+**Answer**
 
 On the contrary, It is recalled as a special blessing (Ps. 147:20) that "He hath not done in like manner to every nation; and His judgments He hath not made manifest to them."
 
@@ -72,7 +72,7 @@ Secondly, the Law commanded that, in some respects, the use of things should bel
 
 Thirdly, the law recognized the transference of goods by the owner. There was a purely gratuitous transfer: thus it is written (Dt. 14:28,29): "The third day thou shalt separate another tithe . . . and the Levite . . . and the stranger, and the fatherless, and the widow . . . shall come and shall eat and be filled." And there was a transfer for a consideration, for instance, by selling and buying, by letting out and hiring, by loan and also by deposit, concerning all of which we find that the Law made ample provision. Consequently it is clear that the Old Law provided sufficiently concerning the mutual relations of one man with another.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As the Apostle says (Rom. 13:8), "he that loveth his neighbor hath fulfilled the Law": because, to wit, all the precepts of the Law, chiefly those concerning our neighbor, seem to aim at the end that men should love one another. Now it is an effect of love that men give their own goods to others: because, as stated in 1 Jn. 3:17: "He that . . . shall see his brother in need, and shall shut up his bowels from him: how doth the charity of God abide in him?" Hence the purpose of the Law was to accustom men to give of their own to others readily: thus the Apostle (1 Tim. 6:18) commands the rich "to give easily and to communicate to others." Now a man does not give easily to others if he will not suffer another man to take some little thing from him without any great injury to him. And so the Law laid down that it should be lawful for a man, on entering his neighbor's vineyard, to eat of the fruit there: but not to carry any away, lest this should lead to the infliction of a grievous harm, and cause a disturbance of the peace: for among well-behaved people, the taking of a little does not disturb the peace; in fact, it rather strengthens friendship and accustoms men to give things to one another.
 
@@ -91,9 +91,9 @@ Reply to Objection 7: The purpose for which judges are appointed among men, is t
 Reply to Objection 8: In the business affairs of men, there is no such thing as demonstrative and infallible proof, and we must be content with a certain conjectural probability, such as that which an orator employs to persuade. Consequently, although it is quite possible for two or three witnesses to agree to a falsehood, yet it is neither easy nor probable that they succeed in so doing: wherefore their testimony is taken as being true, especially if they do not waver in giving it, or are not otherwise suspect. Moreover, in order that witnesses might not easily depart from the truth, the Law commanded that they should be most carefully examined, and that those who were found untruthful should be severely punished, as stated in Dt. 19:16, seqq.
 
 Reply to Objection 9: A severe punishment is inflicted not only on account of the gravity of a fault, but also for other reasons. First, on account of the greatness of the sin, because a greater sin, other things being equal, deserves a greater punishment. Secondly, on account of a habitual sin, since men are not easily cured of habitual sin except by severe punishments. Thirdly, on account of a great desire for or a great pleasure in the sin: for men are not easily deterred from such sins unless they be severely punished. Fourthly, on account of the facility of committing a sin and of concealing it: for such like sins, when discovered, should be more severely punished in order to deter others from committing them.
-## Whether The Judicial Precepts Regarding Foreigners Were Framed In A Suitable Manner?
+### Whether The Judicial Precepts Regarding Foreigners Were Framed In A Suitable Manner?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the judicial precepts regarding foreigners were not suitably framed. For Peter said (Acts 10:34,35): "In very deed I perceive that God is not a respecter of persons, but in every nation, he that feareth Him and worketh justice is acceptable to Him." But those who are acceptable to God should not be excluded from the Church of God. Therefore it is unsuitably commanded (Dt. 23:3) that "the Ammonite and the Moabite, even after the tenth generation, shall not enter into the church of the Lord for ever": whereas, on the other hand, it is prescribed (Dt. 23:7) to be observed with regard to certain other nations: "Thou shalt not abhor the Edomite, because he is thy brother; nor the Egyptian because thou wast a stranger in his land."
 
@@ -107,7 +107,7 @@ Objection 5: Further, every one should prefer the common good of virtue to the g
 
 Objection 6: Further, no man should profit by his own fault. But it is a man's fault if he be timid or faint-hearted: since this is contrary to the virtue of fortitude. Therefore the timid and faint-hearted are unfittingly excused from the toil of battle (Dt. 20:8).
 
-### Answer
+**Answer**
 
 On the contrary, Divine Wisdom declares (Prov. 8:8): "All my words are just, there is nothing wicked nor perverse in them."
 
@@ -115,7 +115,7 @@ I answer that, Man's relations with foreigners are twofold: peaceful, and hostil
 
 In like manner with regard to hostile relations with foreigners, the Law contained suitable precepts. For, in the first place, it commanded that war should be declared for a just cause: thus it is commanded (Dt. 20:10) that when they advanced to besiege a city, they should at first make an offer of peace. Secondly, it enjoined that when once they had entered on a war they should undauntedly persevere in it, putting their trust in God. And in order that they might be the more heedful of this command, it ordered that on the approach of battle the priest should hearten them by promising them God's aid. Thirdly, it prescribed the removal of whatever might prove an obstacle to the fight, and that certain men, who might be in the way, should be sent home. Fourthly, it enjoined that they should use moderation in pursuing the advantage of victory, by sparing women and children, and by not cutting down fruit-trees of that country.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Law excluded the men of no nation from the worship of God and from things pertaining to the welfare of the soul: for it is written (Ex. 12:48): "If any stranger be willing to dwell among you, and to keep the Phase of the Lord; all his males shall first be circumcised, and then shall he celebrate it according to the manner, and he shall be as that which is born in the land." But in temporal matters concerning the public life of the people, admission was not granted to everyone at once, for the reason given above: but to some, i.e. the Egyptians and Idumeans, in the third generation; while others were excluded in perpetuity, in detestation of their past offense, i.e. the peoples of Moab, Ammon, and Amalec. For just as one man is punished for a sin committed by him, in order that others seeing this may be deterred and refrain from sinning; so too may one nation or city be punished for a crime, that others may refrain from similar crimes.
 
@@ -128,9 +128,9 @@ Reply to Objection 4: A distinction was observed with regard to hostile cities. 
 Reply to Objection 5: The builder of a new house, the planter of a vineyard, the newly married husband, were excluded from fighting, for two reasons. First, because man is wont to give all his affection to those things which he has lately acquired, or is on the point of having, and consequently he is apt to dread the loss of these above other things. Wherefore it was likely enough that on account of this affection they would fear death all the more, and be so much the less brave in battle. Secondly, because, as the Philosopher says (Phys. ii, 5), "it is a misfortune for a man if he is prevented from obtaining something good when it is within his grasp." And so lest the surviving relations should be the more grieved at the death of these men who had not entered into the possession of the good things prepared for them; and also lest the people should be horror-stricken at the sight of their misfortune: these men were taken away from the danger of death by being removed from the battle.
 
 Reply to Objection 6: The timid were sent back home, not that they might be the gainers thereby; but lest the people might be the losers by their presence, since their timidity and flight might cause others to be afraid and run away.
-## Whether The Old Law Set Forth Suitable Precepts About The Members Of The Household?
+### Whether The Old Law Set Forth Suitable Precepts About The Members Of The Household?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Old Law set forth unsuitable precepts about the members of the household. For a slave "is in every respect his master's property," as the Philosopher states (Polit. i, 2). But that which is a man's property should be his always. Therefore it was unfitting for the Law to command (Ex. 21:2) that slaves should "go out free" in the seventh year.
 
@@ -150,7 +150,7 @@ Objection 8: Further, as there is the greatest familiarity between man and wife,
 
 Objection 9: Further, just as a wife can be faithless to her husband, so can a slave be to his master, and a son to his father. But the Law did not command any sacrifice to be offered in order to investigate the injury done by a servant to his master, or by a son to his father. Therefore it seems to have been superfluous for the Law to prescribe the "sacrifice of jealousy" in order to investigate a wife's adultery (Num. 5:12, seqq.). Consequently it seems that the Law put forth unsuitable judicial precepts about the members of the household.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 18:10): "The judgments of the Lord are true, justified in themselves."
 
@@ -160,7 +160,7 @@ With regard to wives the Law made certain prescriptions as to those who were to 
 
 With regard to children, the Law commanded parents to educate them by instructing them in the faith: hence it is written (Ex. 12:26, seqq.): "When your children shall say to you: What is the meaning of this service? You shall say to them: It is the victim of the passage of the Lord." Moreover, they are commanded to teach them the rules of right conduct: wherefore it is written (Dt. 21:20) that the parents had to say: "He slighteth hearing our admonitions, he giveth himself to revelling and to debauchery."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As the children of Israel had been delivered by the Lord from slavery, and for this reason were bound to the service of God, He did not wish them to be slaves in perpetuity. Hence it is written (Lev. 25:39, seqq.): "If thy brother, constrained by poverty, sell himself to thee, thou shalt not oppress him with the service of bondservants: but he shall be as a hireling and a sojourner . . . for they are My servants, and I brought them out of the land of Egypt: let them not be sold as bondmen": and consequently, since they were slaves, not absolutely but in a restricted sense, after a lapse of time they were set free.
 

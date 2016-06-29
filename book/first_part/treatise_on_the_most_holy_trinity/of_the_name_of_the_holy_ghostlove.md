@@ -3,9 +3,9 @@
 We now inquire concerning the name "Love," on which arise two points of inquiry:
 (1) Whether it is the proper name of the Holy Ghost?
 (2) Whether the Father and the Son love each other by the Holy Ghost?
-## Whether "Love" Is The Proper Name Of The Holy Ghost?
+### Whether "Love" Is The Proper Name Of The Holy Ghost?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that "Love" is not the proper name of the Holy Ghost. For Augustine says (De Trin. xv, 17): "As the Father, Son and Holy Ghost are called Wisdom, and are not three Wisdoms, but one; I know not why the Father, Son and Holy Ghost should not be called Charity, and all together one Charity." But no name which is predicated in the singular of each person and of all together, is a proper name of a person. Therefore this name, "Love," is not the proper name of the Holy Ghost.
 
@@ -15,7 +15,7 @@ Objection 3: Further, Love is the bond between lovers, for as Dionysius says (Di
 
 Objection 4: Further, Love belongs to every lover. But the Holy Ghost is a lover: therefore He has love. So if the Holy Ghost is Love, He must be love of love, and spirit from spirit; which is not admissible.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. xxx, in Pentecost.): "The Holy Ghost Himself is Love."
 
@@ -25,7 +25,7 @@ To see this we must know that since as shown above ([302]Q[27], AA[2],3,4,5), th
 
 It follows that so far as love means only the relation of the lover to the object loved, "love" and "to love" are said of the essence, as "understanding" and "to understand"; but, on the other hand, so far as these words are used to express the relation to its principle, of what proceeds by way of love, and "vice versa," so that by "love" is understood the "love proceeding," and by "to love" is understood "the spiration of the love proceeding," in that sense "love" is the name of the person and "to love" is a notional term, as "to speak" and "to beget."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is there speaking of charity as it means the divine essence, as was said above (here and [304]Q[24], A[2], ad 4).
 
@@ -34,9 +34,9 @@ Reply to Objection 2: Although to understand, and to will, and to love signify a
 Reply to Objection 3: The Holy Ghost is said to be the bond of the Father and Son, inasmuch as He is Love; because, since the Father loves Himself and the Son with one Love, and conversely, there is expressed in the Holy Ghost, as Love, the relation of the Father to the Son, and conversely, as that of the lover to the beloved. But from the fact that the Father and the Son mutually love one another, it necessarily follows that this mutual Love, the Holy Ghost, proceeds from both. As regards origin, therefore, the Holy Ghost is not the medium, but the third person in the Trinity; whereas as regards the aforesaid relation He is the bond between the two persons, as proceeding from both.
 
 Reply to Objection 4: As it does not belong to the Son, though He understands, to produce a word, for it belongs to Him to understand as the word proceeding; so in like manner, although the Holy Ghost loves, taking Love as an essential term, still it does not belong to Him to spirate love, which is to take love as a notional term; because He loves essentially as love proceeding; but not as the one whence love proceeds.
-## Whether The Father And The Son Love Each Other By The Holy Ghost?
+### Whether The Father And The Son Love Each Other By The Holy Ghost?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Father and the Son do not love each other by the Holy Ghost. For Augustine (De Trin. vii, 1) proves that the Father is not wise by the Wisdom begotten. But as the Son is Wisdom begotten, so the Holy Ghost is the Love proceeding, as explained above ([306]Q[27], A[3]). Therefore the Father and the Son do not love Themselves by the Love proceeding, which is the Holy Ghost.
 
@@ -44,7 +44,7 @@ Objection 2: Further, the proposition, "The Father and the Son love each other b
 
 Objection 3: Further, by the same love the Father loves the Son, and Himself, and us. But the Father does not love Himself by the Holy Ghost; for no notional act is reflected back on the principle of the act; since it cannot be said that the "Father begets Himself," or that "He spirates Himself." Therefore, neither can it be said that "He loves Himself by the Holy Ghost," if "to love" is taken in a notional sense. Again, the love wherewith He loves us is not the Holy Ghost; because it imports a relation to creatures, and this belongs to the essence. Therefore this also is false: "The Father loves the Son by the Holy Ghost."
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. vi, 5): "The Holy Ghost is He whereby the Begotten is loved by the one begetting and loves His Begetter."
 
@@ -54,7 +54,7 @@ In view of this difficulty some have held that it is false, that "the Father and
 
 To make the matter clear, we must consider that since a thing is commonly denominated from its forms, as "white" from whiteness, and "man" from humanity; everything whence anything is denominated, in this particular respect stands to that thing in the relation of form. So when I say, "this man is clothed with a garment," the ablative is to be construed as having relation to the formal cause, although the garment is not the form. Now it may happen that a thing may be denominated from that which proceeds from it, not only as an agent is from its action, but also as from the term itself of the action---that is, the effect, when the effect itself is included in the idea of the action. For we say that fire warms by heating, although heating is not the heat which is the form of the fire, but is an action proceeding from the fire; and we say that a tree flowers with the flower, although the flower is not the tree's form, but is the effect proceeding from the form. In this way, therefore, we must say that since in God "to love" is taken in two ways, essentially and notionally, when it is taken essentially, it means that the Father and the Son love each other not by the Holy Ghost, but by their essence. Hence Augustine says (De Trin. xv, 7): "Who dares to say that the Father loves neither Himself, nor the Son, nor the Holy Ghost, except by the Holy Ghost?" The opinions first quoted are to be taken in this sense. But when the term Love is taken in a notional sense it means nothing else than "to spirate love"; just as to speak is to produce a word, and to flower is to produce flowers. As therefore we say that a tree flowers by its flower, so do we say that the Father, by the Word or the Son, speaks Himself, and His creatures; and that the Father and the Son love each other and us, by the Holy Ghost, or by Love proceeding.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To be wise or intelligent is taken only essentially in God; therefore we cannot say that "the Father is wise or intelligent by the Son." But to love is taken not only essentially, but also in a notional sense; and in this way, we can say that the Father and the Son love each other by the Holy Ghost, as was above explained.
 

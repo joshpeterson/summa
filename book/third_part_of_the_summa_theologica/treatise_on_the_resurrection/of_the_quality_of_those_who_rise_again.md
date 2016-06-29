@@ -5,9 +5,9 @@ We must now consider the quality of those who rise again. Under this head there 
 (2) Whether they will be of equal stature?
 (3) Whether all will be of the same sex?
 (4) Whether they will rise again to the animal life?
-## Whether All Will Rise Again Of The Same Age?
+### Whether All Will Rise Again Of The Same Age?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all will not rise again of the same, namely the youthful age. Because God will take nothing pertaining to man's perfection from those who rise again, especially from the blessed. Now age pertains to the perfection of man, since old age is the age that demands reverence. Therefore the old will not rise again of a youthful age.
 
@@ -15,22 +15,22 @@ Objection 2: Further, age is reckoned according to the length of past time. Now 
 
 Objection 3: Further, that which belonged most to the truth of human nature in each individual will especially rise again in him. Now the sooner a thing was in man the more would it seem to have belonged to the truth of human nature, because in the end, through the strength of the species being weakened the human body is likened to watery wine according to the Philosopher (De Gener. i). Therefore if all are to rise again of the same age, it is more fitting that they should rise again in the age of childhood.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Eph. 4:13): "Until we all meet . . . unto a perfect man, unto the measure of the age of the fulness of Christ."
 
 I answer that, Man will rise again without any defect of human nature, because as God founded human nature without a defect, even so will He restore it without defect. Now human nature has a twofold defect. First, because it has not yet attained to its ultimate perfection. Secondly, because it has already gone back from its ultimate perfection. The first defect is found in children, the second in the aged: and consequently in each of these human nature will be brought by the resurrection to the state of its ultimate perfection which is in the youthful age, at which the movement of growth terminates, and from which the movement of decrease begins.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Old age calls for reverence, not on account of the state of the body which is at fault; but on account of the soul's wisdom which is taken for granted on account of its being advanced in years. Wherefore in the elect there will remain the reverence due to old age on account of the fulness of Divine wisdom which will be in them, but the defect of old age will not be in them.
 
 Reply to Objection 2: We speak of age not as regards the number of years, but as regards the state which the human body acquires from years. Hence Adam is said to have been formed in the youthful age on account of the particular condition of body which he had at the first day of his formation. Thus the argument is not to the point.
 
 Reply to Objection 3: The strength of the species is said to be more perfect in a child than in a young man, as regards the ability to transform nourishment in a certain way, even as it is more perfect in the seed than in the mature man. In youth, however, it is more perfect as regards the term of completion. Wherefore that which belonged principally to the truth of human nature will be brought to that perfection which it has in the age of youth, and not to that perfection which it has in the age of a child, wherein the humors have not yet reached their ultimate disposition.
-## Whether All Will Rise Again Of The Same Stature?
+### Whether All Will Rise Again Of The Same Stature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all will rise again of the same stature. For just as man is measured by dimensive quantity, so is he by the quantity of time. Now the quantity of time will be reduced to the same measure in all, since all will rise again of the same age. Therefore the dimensive quantity will also be reduced to the same measure in all, so that all will rise again of the same stature.
 
@@ -38,22 +38,22 @@ Objection 2: Further, the Philosopher says (De Anima ii, 4) that "all things in 
 
 Objection 3: Further, it will be impossible for man in rising again to be of a quantity proportionate to the natural power which first formed his body; for otherwise those who could not be brought to a greater quantity by the power of nature will never rise again of a greater quantity, which is false. Therefore that quantity must needs be proportionate to the power which will restore the human body by the resurrection, and to the matter from which it is restored. Now the selfsame, namely the Divine, power will restore all bodies; and all the ashes from which the human bodies will be restored are equally disposed to receive the action of that power. Therefore the resurrection of all men will bring them to the same quantity: and so the same conclusion follows.
 
-### Answer
+**Answer**
 
 On the contrary, Natural quantity results from each individual's nature. Now the nature of the individual will not be altered at the resurrection. Therefore neither will its natural quantity. But all are not of the same natural quantity. Therefore all will not rise again of the same stature.
 
 I answer that, At the resurrection human nature will be restored not only in the self-same species but also in the selfsame individual: and consequently we must observe in the resurrection what is requisite not only to the specific but also to the individual nature. Now the specific nature has a certain quantity which it neither exceeds nor fails without error, and yet this quantity has certain degrees of latitude and is not to be attached to one fixed measure; and each individual in the human species aims at some degree of quantity befitting his individual nature within the bounds of that latitude, and reaches it at the end of his growth, if there has been no error in the working of nature, resulting in the addition of something to or the subtraction of something from the aforesaid quantity: the measure whereof is gauged according to the proportion of heat as expanding, and of humidity as expansive, in point of which all are not of the same power. Therefore all will not rise again of the same quantity, but each one will rise again of that quantity which would have been his at the end of his growth if nature had not erred or failed: and the Divine power will subtract or supply what was excessive or lacking in man.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It has already been explained (A[1], ad 2) that all are said to rise again of the same age, not as though the same length of time were befitting to each one, but because the same state of perfection will be in all, which state is indifferent to a great or small quantity.
 
 Reply to Objection 2: The quantity of a particular individual corresponds not only to the form of the species, but also to the nature or matter of the individual: wherefore the conclusion does not follow.
 
 Reply to Objection 3: The quantity of those who will be raised from the dead is not proportionate to the restoring power, because the latter does not belong to the power of the body---nor to the ashes, as to the state in which they are before the resurrection---but to nature which the individual had at first. Nevertheless if the formative power on account of some defect was unable to effect the due quantity that is befitting to the species, the Divine power will supply the defect at the resurrection, as in dwarfs, and in like manner in those who by immoderate size have exceeded the due bounds of nature.
-## Whether All Will Rise Again Of The Male Sex?
+### Whether All Will Rise Again Of The Male Sex?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all will rise again of the male sex. For it is written (Eph. 4:13) that we shall all meet "unto a perfect man," etc. Therefore there will be none but the male sex.
 
@@ -61,22 +61,22 @@ Objection 2: Further, in the world to come all pre-eminence will cease, as a glo
 
 Objection 3: Further, that which is produced incidentally and beside the intention of nature will not rise again, since all error will be removed at the resurrection. Now the female sex is produced beside the intention of nature, through a fault in the formative power of the seed, which is unable to bring the matter of the fetus to the male form: wherefore the Philosopher says (De Anima xvi, i.e. De Generat. Animal. ii) that "the female is a misbegotten male." Therefore the female sex will not rise again.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xxii): "Those are wiser, seemingly, who doubt not that both sexes will rise again."
 
 I answer that, Just as, considering the nature of the individual, a different quantity is due to different men, so also, considering the nature of the individual, a different sex is due to different men. Moreover, this same diversity is becoming to the perfection of the species, the different degrees whereof are filled by this very difference of sex and quantity. Wherefore just as men will rise again of various stature, so will they rise again of different sex. And though there be difference of sex there will be no shame in seeing one another, since there will no lust to invite them to shameful deeds which are the cause of shame.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When it is said: We shall all meet "Christ unto a perfect man," this refers not to the male sex but to the strength of soul which will be in all, both men and women.
 
 Reply to Objection 2: Woman is subject to man on account of the frailty of nature, as regards both vigor of soul and strength of body. After the resurrection, however, the difference in those points will be not on account of the difference of sex, but by reason of the difference of merits. Hence the conclusion does not follow.
 
 Reply to Objection 3: Although the begetting of a woman is beside the intention of a particular nature, it is in the intention of universal nature, which requires both sexes for the perfection of the human species. Nor will any defect result from sex as stated above (ad 2).
-## Whether All Will Rise Again To Animal Life So As To Exercise The Functions Of Nutrition And Generation?
+### Whether All Will Rise Again To Animal Life So As To Exercise The Functions Of Nutrition And Generation?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that they will rise again to the animal life, or in other words that they will make use of the acts of the nutritive and generative powers. For our resurrection will be conformed to Christ's. But Christ is said to have ate after His resurrection (Jn. 21; Lk. 24). Therefore, after the resurrection men will eat, and in like manner beget.
 
@@ -86,13 +86,13 @@ Objection 3: Further, the whole man will be beatified both in soul and in body. 
 
 Objection 4: Further, after the resurrection there will be perfect joy in the blessed. Now such a joy includes all pleasures, since "happiness" according to Boethius is "a state rendered perfect by the accumulation of all goods" (De Consol. iii), and the perfect is that which lacks nothing. Since then there is much pleasure in the act of the generative and nutritive powers it would seem that such acts belonging to animal life will be in the blessed, and much more in others, who will have less spiritual bodies.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 22:30): "In the resurrection they shall neither marry nor be married."
 
 I answer that, The resurrection will not be necessary to man on account of his primary perfection, which consists in the integrity of those things that belong to his nature, since man can attain to this in his present state of life by the action of natural causes; but the necessity of the resurrection regards the attainment of his ultimate perfection, which consists in his reaching his ultimate end. Consequently those natural operations which are directed to cause or preserve the primary perfection of human nature will not be in the resurrection: such are the actions of the animal life in man, the action of the elements on one another, and the movement of the heavens; wherefore all these will cease at the resurrection. And since to eat, drink, sleep, beget, pertain to the animal life, being directed to the primary perfection of nature, it follows that they will not be in the resurrection.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When Christ partook of that meal, His eating was an act, not of necessity as though human nature needed food after the resurrection, but of power, so as to prove that He had resumed the true human nature which He had in that state wherein He ate and drank with His disciples. There will be no need of such proof at the general resurrection, since it will be evident to all. Hence Christ is said to have ate by dispensation in the sense in which lawyers say that a "dispensation is a relaxation of the general law": because Christ made an exception to that which is common to those who rise again (namely not to partake of food) for the aforesaid motive. Hence the argument does not prove.
 

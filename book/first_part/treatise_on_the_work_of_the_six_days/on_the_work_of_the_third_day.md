@@ -3,9 +3,9 @@
 We next consider the work of the third day. Under this head there are two points of inquiry:
 (1) About the gathering together of the waters;
 (2) About the production of plants.
-## Whether It Was Fitting That The Gathering Together Of The Waters Should Take Place, As Recorded, On The Third Day?
+### Whether It Was Fitting That The Gathering Together Of The Waters Should Take Place, As Recorded, On The Third Day?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not fitting that the gathering together of the waters should take place on the third day. For what was made on the first and second days is expressly said to have been "made" in the words, "God said: Be light made," and "Let there be a firmament made."But the third day is contradistinguished from the first and the second days. Therefore the work of the third day should have been described as a making not as a gathering together.
 
@@ -17,7 +17,7 @@ Objection 4: Further, a gathering together is a mode of local movement. But the 
 
 Objection 5: Further, the earth is given its name at its first creation by the words, "In the beginning God created heaven and earth." Therefore the imposition of its name on the third day seems to be recorded without necessity.
 
-### Answer
+**Answer**
 
 On the contrary, The authority of Scripture suffices.
 
@@ -25,7 +25,7 @@ I answer that, It is necessary to reply differently to this question according t
 
 According, however, to other holy writers [*[580]Q[66], A[1]] an order of duration in the works is to be understood, by which is meant that the formlessness of matter precedes its formation, and one form another, in order of time. Nevertheless, they do not hold that the formlessness of matter implies the total absence of form, since heaven, earth, and water already existed, since these three are named as already clearly perceptible to the senses; rather they understand by formlessness the want of due distinction and of perfect beauty, and in respect of these three Scripture mentions three kinds of formlessness. Heaven, the highest of them, was without form so long as "darkness" filled it, because it was the source of light. The formlessness of water, which holds the middle place, is called the "deep," because, as Augustine says (Contr. Faust. xxii, 11), this word signifies the mass of waters without order. Thirdly, the formless state of the earth is touched upon when the earth is said to be "void" or "invisible," because it was covered by the waters. Thus, then, the formation of the highest body took place on the first day. And since time results from the movement of the heaven, and is the numerical measure of the movement of the highest body, from this formation, resulted the distinction of time, namely, that of night and day. On the second day the intermediate body, water, was formed, receiving from the firmament a sort of distinction and order (so that water be understood as including certain other things, as explained above ([581]Q[68], A[3])). On the third day the earth, the lowest body, received its form by the withdrawal of the waters, and there resulted the distinction in the lowest body, namely, of land and sea. Hence Scripture, having clearly expresses the manner in which it received its form by the equally suitable words, "Let the dry land appear."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to Augustine [*Gen. ad lit. ii, 7,8; iii, 20], Scripture does not say of the work of the third day, that it was made, as it says of those that precede, in order to show that higher and spiritual forms, such as the angels and the heavenly bodies, are perfect and stable in being, whereas inferior forms are imperfect and mutable. Hence the impression of such forms is signified by the gathering of the waters, and the appearing of the land. For "water," to use Augustine's words, "glides and flows away, the earth abides" (Gen. ad lit. ii, 11). Others, again, hold that the work of the third day was perfected on that day only as regards movement from place to place, and that for this reason Scripture had no reason to speak of it as made.
 
@@ -36,9 +36,9 @@ Reply to Objection 3: All the waters have the sea as their goal, into which they
 Reply to Objection 4: The Divine command gives bodies their natural movement and by these natural movements they are said to "fulfill His word." Or we may say that it was according to the nature of water completely to cover the earth, just as the air completely surrounds both water and earth; but as a necessary means towards an end, namely, that plants and animals might be on the earth, it was necessary for the waters to be withdrawn from a portion of the earth. Some philosophers attribute this uncovering of the earth's surface to the action of the sun lifting up the vapors and thus drying the land. Scripture, however, attributes it to the Divine power, not only in the Book of Genesis, but also Job 38:10 where in the person of the Lord it is said, "I set My bounds around the sea," and Jer. 5:22, where it is written: "Will you not then fear Me, saith the Lord, who have set the sand a bound for the sea?"
 
 Reply to Objection 5: According to Augustine (De Gen. Contr. Manich. i), primary matter is meant by the word earth, where first mentioned, but in the present passage it is to be taken for the element itself. Again it may be said with Basil (Hom. iv in Hexaem.), that the earth is mentioned in the first passage in respect of its nature, but here in respect of its principal property, namely, dryness. Wherefore it is written: "He called the dry land, Earth." It may also be said with Rabbi Moses, that the expression, "He called," denotes throughout an equivocal use of the name imposed. Thus we find it said at first that "He called the light Day": for the reason that later on a period of twenty-four hours is also called day, where it is said that "there was evening and morning, one day." In like manner it is said that "the firmament," that is, the air, "He called heaven": for that which was first created was also called "heaven." And here, again, it is said that "the dry land," that is, the part from which the waters had withdrawn, "He called, Earth," as distinct from the sea; although the name earth is equally applied to that which is covered with waters or not. So by the expression "He called" we are to understand throughout that the nature or property He bestowed corresponded to the name He gave.
-## Whether It Was Fitting That The Production Of Plants Should Take Place On The Third Day?
+### Whether It Was Fitting That The Production Of Plants Should Take Place On The Third Day?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not fitting that the production of plants should take place on the third day. For plants have life, as animals have. But the production of animals belongs to the work, not of distinction, but of adornment. Therefore the production of plants, as also belonging to the work of adornment, ought not to be recorded as taking place on the third day, which is devoted to the work of distinction.
 
@@ -46,13 +46,13 @@ Objection 2: Further, a work by which the earth is accursed should have been rec
 
 Objection 3: Further, as plants are firmly fixed to the earth, so are stones and metals, which are, nevertheless, not mentioned in the work of formation. Plants, therefore, ought not to have been made on the third day.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Gn. 1:12): "The earth brought forth the green herb," after which there follows, "The evening and the morning were the third day."
 
 I answer that, On the third day, as said [582](A[1]), the formless state of the earth comes to an end. But this state is described as twofold. On the one hand, the earth was "invisible" or "void," being covered by the waters; on the other hand, it was "shapeless" or "empty," that is, without that comeliness which it owes to the plants that clothe it, as it were, with a garment. Thus, therefore, in either respect this formless state ends on the third day: first, when "the waters were gathered together into one place and the dry land appeared"; secondly, when "the earth brought forth the green herb." But concerning the production of plants, Augustine's opinion differs from that of others. For other commentators, in accordance with the surface meaning of the text, consider that the plants were produced in act in their various species on this third day; whereas Augustine (Gen. ad lit. v, 5; viii, 3) says that the earth is said to have then produced plants and trees in their causes, that is, it received then the power to produce them. He supports this view by the authority of Scripture, for it is said (Gn. 2:4,5): "These are the generations of the heaven and the earth, when they were created, in the day that . . . God made the heaven and the earth, and every plant of the field before it sprung up in the earth, and every herb of the ground before it grew." Therefore, the production of plants in their causes, within the earth, took place before they sprang up from the earth's surface. And this is confirmed by reason, as follows. In these first days God created all things in their origin or causes, and from this work He subsequently rested. Yet afterwards, by governing His creatures, in the work of propagation, "He worketh until now."Now the production of plants from out the earth is a work of propagation, and therefore they were not produced in act on the third day, but in their causes only. However, in accordance with other writers, it may be said that the first constitution of species belongs to the work of the six days, but the reproduction among them of like from like, to the government of the universe. And Scripture indicates this in the words, "before it sprung up in the earth," and "before it grew," that is, before like was produced from like; just as now happens in the natural course by the production of seed. Wherefore Scripture says pointedly (Gn. 1:11): "Let the earth bring forth the green herb, and such as may seed," as indicating the production of perfection of perfect species, from which the seed of others should arise. Nor does the question where the seminal power may reside, whether in root, stem, or fruit, affect the argument.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Life in plants is hidden, since they lack sense and local movement, by which the animate and the inanimate are chiefly discernible. And therefore, since they are firmly fixed in the earth, their production is treated as a part of the earth's formation.
 

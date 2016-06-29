@@ -11,9 +11,9 @@ We must now consider the act of faith, and (1) the internal act; (2) the externa
 (8) Whether it is necessary for salvation to believe in the Trinity explicitly?
 (9) Whether the act of faith is meritorious?
 (10) Whether human reason diminishes the merit of faith?
-## Whether To Believe Is To Think With Assent?
+### Whether To Believe Is To Think With Assent?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that to believe is not to think with assent. Because the Latin word "cogitatio" [thought] implies a research, for "cogitare" [to think] seems to be equivalent to "coagitare," i.e. "to discuss together." Now Damascene says (De Fide Orth. iv) that faith is "an assent without research." Therefore thinking has no place in the act of faith.
 
@@ -21,7 +21,7 @@ Objection 2: Further, faith resides in the reason, as we shall show further on (
 
 Objection 3: Further, to believe is an act of the intellect, since its object is truth. But assent seems to be an act not of the intellect, but of the will, even as consent is, as stated above ([2276]FS, Q[15], A[1], ad 3). Therefore to believe is not to think with assent.
 
-### Answer
+**Answer**
 
 On the contrary, This is how "to believe" is defined by Augustine (De Praedest. Sanct. ii).
 
@@ -29,16 +29,16 @@ I answer that, "To think" can be taken in three ways. First, in a general way fo
 
 Accordingly, if "to think" be understood broadly according to the first sense, then "to think with assent," does not express completely what is meant by "to believe": since, in this way, a man thinks with assent even when he considers what he knows by science [*Science is certain knowledge of a demonstrated conclusion through its demonstration.], or understands. If, on the other hand, "to think" be understood in the second way, then this expresses completely the nature of the act of believing. For among the acts belonging to the intellect, some have a firm assent without any such kind of thinking, as when a man considers the things that he knows by science, or understands, for this consideration is already formed. But some acts of the intellect have unformed thought devoid of a firm assent, whether they incline to neither side, as in one who "doubts"; or incline to one side rather than the other, but on account of some slight motive, as in one who "suspects"; or incline to one side yet with fear of the other, as in one who "opines." But this act "to believe," cleaves firmly to one side, in which respect belief has something in common with science and understanding; yet its knowledge does not attain the perfection of clear sight, wherein it agrees with doubt, suspicion and opinion. Hence it is proper to the believer to think with assent: so that the act of believing is distinguished from all the other acts of the intellect, which are about the true or the false.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Faith has not that research of natural reason which demonstrates what is believed, but a research into those things whereby a man is induced to believe, for instance that such things have been uttered by God and confirmed by miracles.
 
 Reply to Objection 2: "To think" is not taken here for the act of the cogitative power, but for an act of the intellect, as explained above.
 
 Reply to Objection 3: The intellect of the believer is determined to one object, not by the reason, but by the will, wherefore assent is taken here for an act of the intellect as determined to one object by the will.
-## Whether The Act Of Faith Is Suitably Distinguished As Believing God, Believing In A God And Believing In God?
+### Whether The Act Of Faith Is Suitably Distinguished As Believing God, Believing In A God And Believing In God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the act of faith is unsuitably distinguished as believing God, believing in a God, and believing in God. For one habit has but one act. Now faith is one habit since it is one virtue. Therefore it is unreasonable to say that there are three acts of faith.
 
@@ -48,7 +48,7 @@ Objection 3: Further, that which can be said of unbelievers, cannot be called an
 
 Objection 4: Further, movement towards the end belongs to the will, whose object is the good and the end. Now to believe is an act, not of the will, but of the intellect. Therefore "to believe in God," which implies movement towards an end, should not be reckoned as a species of that act.
 
-### Answer
+**Answer**
 
 
 
@@ -58,16 +58,16 @@ If it be considered on the part of the intellect, then two things can be observe
 
 Thirdly, if the object of faith be considered in so far as the intellect is moved by the will, an act of faith is "to believe in God." For the First Truth is referred to the will, through having the aspect of an end.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These three do not denote different acts of faith, but one and the same act having different relations to the object of faith.
 
 Reply to Objection 3: Unbelievers cannot be said "to believe in a God" as we understand it in relation to the act of faith. For they do not believe that God exists under the conditions that faith determines; hence they do not truly believe in a God, since, as the Philosopher observes (Metaph. ix, text. 22) "to know simple things defectively is not to know them at all."
 
 Reply to Objection 4: As stated above ([2280]FS, Q[9], A[1]) the will moves the intellect and the other powers of the soul to the end: and in this respect an act of faith is "to believe in God."
-## Whether It Is Necessary For Salvation To Believe Anything Above The Natural Reason?
+### Whether It Is Necessary For Salvation To Believe Anything Above The Natural Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unnecessary for salvation to believe anything above the natural reason. For the salvation and perfection of a thing seem to be sufficiently insured by its natural endowments. Now matters of faith, surpass man's natural reason, since they are things unseen as stated above ([2281]Q[1], A[4]). Therefore to believe seems unnecessary for salvation.
 
@@ -75,7 +75,7 @@ Objection 2: Further, it is dangerous for man to assent to matters, wherein he c
 
 Objection 3: Further, man's salvation rests on God, according to Ps. 36:39: "But the salvation of the just is from the Lord." Now "the invisible things" of God "are clearly seen, being understood by the things that are made; His eternal power also and Divinity," according to Rom. 1:20: and those things which are clearly seen by the understanding are not an object of belief. Therefore it is not necessary for man's salvation, that he should believe certain things.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 11:6): "Without faith it is impossible to please God."
 
@@ -85,16 +85,16 @@ Consequently the perfection of the rational creature consists not only in what b
 
 Hence in order that a man arrive at the perfect vision of heavenly happiness, he must first of all believe God, as a disciple believes the master who is teaching him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since man's nature is dependent on a higher nature, natural knowledge does not suffice for its perfection, and some supernatural knowledge is necessary, as stated above.
 
 Reply to Objection 2: Just as man assents to first principles, by the natural light of his intellect, so does a virtuous man, by the habit of virtue, judge aright of things concerning that virtue; and in this way, by the light of faith which God bestows on him, a man assents to matters of faith and not to those which are against faith. Consequently "there is no" danger or "condemnation to them that are in Christ Jesus," and whom He has enlightened by faith.
 
 Reply to Objection 3: In many respects faith perceives the invisible things of God in a higher way than natural reason does in proceeding to God from His creatures. Hence it is written (Ecclus. 3:25): "Many things are shown to thee above the understandings of man."
-## Whether It Is Necessary To Believe Those Things Which Can Be Proved By Natural Reason?
+### Whether It Is Necessary To Believe Those Things Which Can Be Proved By Natural Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unnecessary to believe those things which can be proved by natural reason. For nothing is superfluous in God's works, much less even than in the works of nature. Now it is superfluous to employ other means, where one already suffices. Therefore it would be superfluous to receive by faith, things that can be known by natural reason.
 
@@ -102,7 +102,7 @@ Objection 2: Further, those things must be believed, which are the object of fai
 
 Objection 3: Further, all things knowable scientifically [*Science is certain knowledge of a demonstrated conclusion through its demonstration] would seem to come under one head: so that if some of them are proposed to man as objects of faith, in like manner the others should also be believed. But this is not true. Therefore it is not necessary to believe those things which can be proved by natural reason.
 
-### Answer
+**Answer**
 
 On the contrary, It is necessary to believe that God is one and incorporeal: which things philosophers prove by natural reason.
 
@@ -110,16 +110,16 @@ I answer that, It is necessary for man to accept by faith not only things which 
 
 the knowledge of God, unless Divine things were brought to their knowledge under the guise of faith. The third reason is for the sake of certitude. For human reason is very deficient in things concerning God. A sign of this is that philosophers in their researches, by natural investigation, into human affairs, have fallen into many errors, and have disagreed among themselves. And consequently, in order that men might have knowledge of God, free of doubt and uncertainty, it was necessary for Divine matters to be delivered to them by way of faith, being told to them, as it were, by God Himself Who cannot lie.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The researches of natural reason do not suffice mankind for the knowledge of Divine matters, even of those that can be proved by reason: and so it is not superfluous if these others be believed.
 
 Reply to Objection 2: Science and faith cannot be in the same subject and about the same object: but what is an object of science for one, can be an object of faith for another, as stated above ([2284]Q[1], A[5]).
 
 Reply to Objection 3: Although all things that can be known by science are of one common scientific aspect, they do not all alike lead man to beatitude: hence they are not all equally proposed to our belief.
-## Whether Man Is Bound To Believe Anything Explicitly?
+### Whether Man Is Bound To Believe Anything Explicitly?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man is not bound to believe anything explicitly. For no man is bound to do what is not in his power. Now it is not in man's power to believe a thing explicitly, for it is written (Rom. 10:14,15): "How shall they believe Him, of whom they have not heard? And how shall they hear without a preacher? And how shall they preach unless they be sent?" Therefore man is not bound to believe anything explicitly.
 
@@ -127,7 +127,7 @@ Objection 2: Further, just as we are directed to God by faith, so are we by char
 
 Objection 3: Further, the good of faith consists in obedience, according to Rom. 1:5: "For obedience to the faith in all nations." Now the virtue of obedience does not require man to keep certain fixed precepts, but it is enough that his mind be ready to obey, according to Ps. 118:60: "I am ready and am not troubled; that I may keep Thy commandments." Therefore it seems enough for faith, too, that man should be ready to believe whatever God may propose, without his believing anything explicitly.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 11:6): "He that cometh to God, must believe that He is, and is a rewarder to them that seek Him."
 
@@ -137,16 +137,16 @@ Accordingly, just as a virtuous act is required for the fulfilment of a precept,
 
 Therefore, as regards the primary points or articles of faith, man is bound to believe them, just as he is bound to have faith; but as to other points of faith, man is not bound to believe them explicitly, but only implicitly, or to be ready to believe them, in so far as he is prepared to believe whatever is contained in the Divine Scriptures. Then alone is he bound to believe such things explicitly, when it is clear to him that they are contained in the doctrine of faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: If we understand those things alone to be in a man's power, which we can do without the help of grace, then we are bound to do many things which we cannot do without the aid of healing grace, such as to love God and our neighbor, and likewise to believe the articles of faith. But with the help of grace we can do this, for this help "to whomsoever it is given from above it is mercifully given; and from whom it is withheld it is justly withheld, as a punishment of a previous, or at least of original, sin," as Augustine states (De Corr. et Grat. v, vi [*Cf. Ep. cxc; De Praed. Sanct. viii.]).
 
 Reply to Objection 2: Man is bound to love definitely those lovable things which are properly and directly the objects of charity, namely, God and our neighbor. The objection refers to those precepts of charity which belong, as a consequence, to the objects of charity.
 
 Reply to Objection 3: The virtue of obedience is seated, properly speaking, in the will; hence promptness of the will subject to authority, suffices for the act of obedience, because it is the proper and direct object of obedience. But this or that precept is accidental or consequent to that proper and direct object.
-## Whether All Are Equally Bound To Have Explicit Faith?
+### Whether All Are Equally Bound To Have Explicit Faith?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all are equally bound to have explicit faith. For all are bound to those things which are necessary for salvation, as is evidenced by the precepts of charity. Now it is necessary for salvation that certain things should be believed explicitly. Therefore all are equally bound to have explicit faith.
 
@@ -154,22 +154,22 @@ Objection 2: Further, no one should be put to test in matters that he is not bou
 
 Objection 3: Further, if the simple are bound to have, not explicit but only implicit faith, their faith must needs be implied in the faith of the learned. But this seems unsafe, since it is possible for the learned to err. Therefore it seems that the simple should also have explicit faith; so that all are, therefore, equally bound to have explicit faith.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Job 1:14): "The oxen were ploughing, and the asses feeding beside them," because, as Gregory expounds this passage (Moral. ii, 17), the simple, who are signified by the asses, ought, in matters of faith, to stay by the learned, who are denoted by the oxen.
 
 I answer that, The unfolding of matters of faith is the result of Divine revelation: for matters of faith surpass natural reason. Now Divine revelation reaches those of lower degree through those who are over them, in a certain order; to men, for instance, through the angels, and to the lower angels through the higher, as Dionysius explains (Coel. Hier. iv, vii). In like manner therefore the unfolding of faith must needs reach men of lower degree through those of higher degree. Consequently, just as the higher angels, who enlighten those who are below them, have a fuller knowledge of Divine things than the lower angels, as Dionysius states (Coel. Hier. xii), so too, men of higher degree, whose business it is to teach others, are under obligation to have fuller knowledge of matters of faith, and to believe them more explicitly.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The unfolding of the articles of faith is not equally necessary for the salvation of all, since those of higher degree, whose duty it is to teach others, are bound to believe explicitly more things than others are.
 
 Reply to Objection 2: Simple persons should not be put to the test about subtle questions of faith, unless they be suspected of having been corrupted by heretics, who are wont to corrupt the faith of simple people in such questions. If, however, it is found that they are free from obstinacy in their heterodox sentiments, and that it is due to their simplicity, it is no fault of theirs.
 
 Reply to Objection 3: The simple have no faith implied in that of the learned, except in so far as the latter adhere to the Divine teaching. Hence the Apostle says (1 Cor. 4:16): "Be ye followers of me, as I also am of Christ." Hence it is not human knowledge, but the Divine truth that is the rule of faith: and if any of the learned stray from this rule, he does not harm the faith of the simple ones, who think that the learned believe aright; unless the simple hold obstinately to their individual errors, against the faith of the universal Church, which cannot err, since Our Lord said (Lk. 22:32): "I have prayed for thee," Peter, "that thy faith fail not."
-## Whether It Is Necessary For The Salvation Of All, That They Should Believe Explicitly In The Mystery Of Christ?
+### Whether It Is Necessary For The Salvation Of All, That They Should Believe Explicitly In The Mystery Of Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not necessary for the salvation of all that they should believe explicitly in the mystery of Christ. For man is not bound to believe explicitly what the angels are ignorant about: since the unfolding of faith is the result of Divine revelation, which reaches man by means of the angels, as stated above [2287](A[6]; [2288]FP, Q[111], A[1]). Now even the angels were in ignorance of the mystery of the Incarnation: hence, according to the commentary of Dionysius (Coel. Hier. vii), it is they who ask (Ps. 23:8): "Who is this king of glory?" and (Is. 63:1): "Who is this that cometh from Edom?" Therefore men were not bound to believe explicitly in the mystery of Christ's Incarnation.
 
@@ -177,7 +177,7 @@ Objection 2: Further, it is evident that John the Baptist was one of the teacher
 
 Objection 3: Further, many gentiles obtained salvation through the ministry of the angels, as Dionysius states (Coel. Hier. ix). Now it would seem that the gentiles had neither explicit nor implicit faith in Christ, since they received no revelation. Therefore it seems that it was not necessary for the salvation of all to believe explicitly in the mystery of Christ.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Corr. et Gratia vii; Ep. cxc): "Our faith is sound if we believe that no man, old or young is delivered from the contagion of death and the bonds of sin, except by the one Mediator of God and men, Jesus Christ."
 
@@ -187,16 +187,16 @@ But after sin, man believed explicitly in Christ, not only as to the Incarnation
 
 After grace had been revealed, both learned and simple folk are bound to explicit faith in the mysteries of Christ, chiefly as regards those which are observed throughout the Church, and publicly proclaimed, such as the articles which refer to the Incarnation, of which we have spoken above ([2291]Q[1], A[8]). As to other minute points in reference to the articles of the Incarnation, men have been bound to believe them more or less explicitly according to each one's state and office.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The mystery of the Kingdom of God was not entirely hidden from the angels, as Augustine observes (Gen. ad lit. v, 19), yet certain aspects thereof were better known to them when Christ revealed them to them.
 
 Reply to Objection 2: It was not through ignorance that John the Baptist inquired of Christ's advent in the flesh, since he had clearly professed his belief therein, saying: "I saw, and I gave testimony, that this is the Son of God" (Jn. 1:34). Hence he did not say: "Art Thou He that hast come?" but "Art Thou He that art to come?" thus saying about the future, not about the past. Likewise it is not to be believed that he was ignorant of Christ's future Passion, for he had already said (Jn. 1:39): "Behold the Lamb of God, behold Him who taketh away the sins [Vulg.: 'sin'] of the world," thus foretelling His future immolation; and since other prophets had foretold it, as may be seen especially in Isaias 53. We may therefore say with Gregory (Hom. xxvi in Evang.) that he asked this question, being in ignorance as to whether Christ would descend into hell in His own Person. But he did not ignore the fact that the power of Christ's Passion would be extended to those who were detained in Limbo, according to Zech. 9:11: "Thou also, by the blood of Thy testament hast sent forth Thy prisoners out of the pit, wherein there is no water"; nor was he bound to believe explicitly, before its fulfilment, that Christ was to descend thither Himself.
 
 Reply to Objection 3: Many of the gentiles received revelations of Christ, as is clear from their predictions. Thus we read (Job 19:25): "I know that my Redeemer liveth." The Sibyl too foretold certain things about Christ, as Augustine states (Contra Faust. xiii, 15). Moreover, we read in the history of the Romans, that at the time of Constantine Augustus and his mother Irene a tomb was discovered, wherein lay a man on whose breast was a golden plate with the inscription: "Christ shall be born of a virgin, and in Him, I believe. O sun, during the lifetime of Irene and Constantine, thou shalt see me again" [*Cf. Baron, Annal., A.D. 780]. If, however, some were saved without receiving any revelation, they were not saved without faith in a Mediator, for, though they did not believe in Him explicitly, they did, nevertheless, have implicit faith through believing in Divine providence, since they believed that God would deliver mankind in whatever way was pleasing to Him, and according to the revelation of the Spirit to those who knew the truth, as stated in Job 35:11: "Who teacheth us more than the beasts of the earth."
-## Whether It Is Necessary For Salvation To Believe Explicitly In The Trinity?
+### Whether It Is Necessary For Salvation To Believe Explicitly In The Trinity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not necessary for salvation to believe explicitly in the Trinity. For the Apostle says (Heb. 11:6): "He that cometh to God must believe that He is, and is a rewarder to them that seek Him." Now one can believe this without believing in the Trinity. Therefore it was not necessary to believe explicitly in the Trinity.
 
@@ -204,22 +204,22 @@ Objection 2: Further our Lord said (Jn. 17:5,6): "Father, I have manifested Thy 
 
 Objection 3: Further, that which we are bound to believe explicitly of God is the object of heavenly happiness. Now the object of heavenly happiness is the sovereign good, which can be understood to be in God, without any distinction of Persons. Therefore it was not necessary to believe explicitly in the Trinity.
 
-### Answer
+**Answer**
 
 On the contrary, In the Old Testament the Trinity of Persons is expressed in many ways; thus at the very outset of Genesis it is written in manifestation of the Trinity: "Let us make man to Our image and likeness" (Gn. 1:26). Therefore from the very beginning it was necessary for salvation to believe in the Trinity.
 
 I answer that, It is impossible to believe explicitly in the mystery of Christ, without faith in the Trinity, since the mystery of Christ includes that the Son of God took flesh; that He renewed the world through the grace of the Holy Ghost; and again, that He was conceived by the Holy Ghost. Wherefore just as, before Christ, the mystery of Christ was believed explicitly by the learned, but implicitly and under a veil, so to speak, by the simple, so too was it with the mystery of the Trinity. And consequently, when once grace had been revealed, all were bound to explicit faith in the mystery of the Trinity: and all who are born again in Christ, have this bestowed on them by the invocation of the Trinity, according to Mat. 28:19: "Going therefore teach ye all nations, baptizing them in the name of the Father, and of the Son and of the Holy Ghost."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Explicit faith in those two things was necessary at all times and for all people: but it was not sufficient at all times and for all people.
 
 Reply to Objection 2: Before Christ's coming, faith in the Trinity lay hidden in the faith of the learned, but through Christ and the apostles it was shown to the world.
 
 Reply to Objection 3: God's sovereign goodness as we understand it now through its effects, can be understood without the Trinity of Persons: but as understood in itself, and as seen by the Blessed, it cannot be understood without the Trinity of Persons. Moreover the mission of the Divine Persons brings us to heavenly happiness.
-## Whether To Believe Is Meritorious?
+### Whether To Believe Is Meritorious?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that to believe in not meritorious. For the principle of all merit is charity, as stated above ([2292]FS, Q[114], A[4]). Now faith, like nature, is a preamble to charity. Therefore, just as an act of nature is not meritorious, since we do not merit by our natural gifts, so neither is an act of faith.
 
@@ -227,22 +227,22 @@ Objection 2: Further, belief is a mean between opinion and scientific knowledge 
 
 Objection 3: Further, he who assents to a point of faith, either has a sufficient motive for believing, or he has not. If he has a sufficient motive for his belief, this does not seem to imply any merit on his part, since he is no longer free to believe or not to believe: whereas if he has not a sufficient motive for believing, this is a mark of levity, according to Ecclus. 19:4: "He that is hasty to give credit, is light of heart," so that, seemingly, he gains no merit thereby. Therefore to believe is by no means meritorious.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 11:33) that the saints "by faith . . . obtained promises," which would not be the case if they did not merit by believing. Therefore to believe is meritorious.
 
 I answer that, As stated above ([2293]FS, Q[114], AA[3],4), our actions are meritorious in so far as they proceed from the free-will moved with grace by God. Therefore every human act proceeding from the free-will, if it be referred to God, can be meritorious. Now the act of believing is an act of the intellect assenting to the Divine truth at the command of the will moved by the grace of God, so that it is subject to the free-will in relation to God; and consequently the act of faith can be meritorious.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Nature is compared to charity which is the principle of merit, as matter to form: whereas faith is compared to charity as the disposition which precedes the ultimate form. Now it is evident that the subject or the matter cannot act save by virtue of the form, nor can a preceding disposition, before the advent of the form: but after the advent of the form, both the subject and the preceding disposition act by virtue of the form, which is the chief principle of action, even as the heat of fire acts by virtue of the substantial form of fire. Accordingly neither nature nor faith can, without charity, produce a meritorious act; but, when accompanied by charity, the act of faith is made meritorious thereby, even as an act of nature, and a natural act of the free-will.
 
 Reply to Objection 2: Two things may be considered in science: namely the scientist's assent to a scientific fact and his consideration of that fact. Now the assent of science is not subject to free-will, because the scientist is obliged to assent by force of the demonstration, wherefore scientific assent is not meritorious. But the actual consideration of what a man knows scientifically is subject to his free-will, for it is in his power to consider or not to consider. Hence scientific consideration may be meritorious if it be referred to the end of charity, i.e. to the honor of God or the good of our neighbor. On the other hand, in the case of faith, both these things are subject to the free-will so that in both respects the act of faith can be meritorious: whereas in the case of opinion, there is no firm assent, since it is weak and infirm, as the Philosopher observes (Poster. i, 33), so that it does not seem to proceed from a perfect act of the will: and for this reason, as regards the assent, it does not appear to be very meritorious, though it can be as regards the actual consideration.
 
 Reply to Objection 3: The believer has sufficient motive for believing, for he is moved by the authority of Divine teaching confirmed by miracles, and, what is more, by the inward instinct of the Divine invitation: hence he does not believe lightly. He has not, however, sufficient reason for scientific knowledge, hence he does not lose the merit.
-## Whether Reasons In Support Of What We Believe Lessen The Merit Of Faith?
+### Whether Reasons In Support Of What We Believe Lessen The Merit Of Faith?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that reasons in support of what we believe lessen the merit of faith. For Gregory says (Hom. xxvi in Evang.) that "there is no merit in believing what is shown by reason." If, therefore, human reason provides sufficient proof, the merit of faith is altogether taken away. Therefore it seems that any kind of human reasoning in support of matters of faith, diminishes the merit of believing.
 
@@ -250,13 +250,13 @@ Objection 2: Further, whatever lessens the measure of virtue, lessens the amount
 
 Objection 3: Further, contrary things have contrary causes. Now an inducement in opposition to faith increases the merit of faith whether it consist in persecution inflicted by one who endeavors to force a man to renounce his faith, or in an argument persuading him to do so. Therefore reasons in support of faith diminish the merit of faith.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Pet. 3:15): "Being ready always to satisfy every one that asketh you a reason of that faith [*Vulg.: 'Of that hope which is in you.' St. Thomas' reading is apparently taken from Bede.] and hope which is in you." Now the Apostle would not give this advice, if it would imply a diminution in the merit of faith. Therefore reason does not diminish the merit of faith.
 
 I answer that, As stated above [2295](A[9]), the act of faith can be meritorious, in so far as it is subject to the will, not only as to the use, but also as to the assent. Now human reason in support of what we believe, may stand in a twofold relation to the will of the believer. First, as preceding the act of the will; as, for instance, when a man either has not the will, or not a prompt will, to believe, unless he be moved by human reasons: and in this way human reason diminishes the merit of faith. In this sense it has been said above ([2296]FS, Q[24], A[3], ad 1; Q[77], A[6], ad 2) that, in moral virtues, a passion which precedes choice makes the virtuous act less praiseworthy. For just as a man ought to perform acts of moral virtue, on account of the judgment of his reason, and not on account of a passion, so ought he to believe matters of faith, not on account of human reason, but on account of the Divine authority. Secondly, human reasons may be consequent to the will of the believer. For when a man's will is ready to believe, he loves the truth he believes, he thinks out and takes to heart whatever reasons he can find in support thereof; and in this way human reason does not exclude the merit of faith but is a sign of greater merit. Thus again, in moral virtues a consequent passion is the sign of a more prompt will, as stated above ([2297]FS, Q[24], A[3], ad 1). We have an indication of this in the words of the Samaritans to the woman, who is a type of human reason: "We now believe, not for thy saying" (Jn. 4:42).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Gregory is referring to the case of a man who has no will to believe what is of faith, unless he be induced by reasons. But when a man has the will to believe what is of faith on the authority of God alone, although he may have reasons in demonstration of some of them, e.g. of the existence of God, the merit of his faith is not, for that reason, lost or diminished.
 

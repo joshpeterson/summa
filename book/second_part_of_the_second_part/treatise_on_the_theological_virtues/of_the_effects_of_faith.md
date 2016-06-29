@@ -3,9 +3,9 @@
 We must now consider the effects of faith: under which head there are two points of inquiry:
 (1) Whether fear is an effect of faith?
 (2) Whether the heart is purified by faith?
-## Whether Fear Is An Effect Of Faith?
+### Whether Fear Is An Effect Of Faith?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that fear is not an effect of faith. For an effect does not precede its cause. Now fear precedes faith: for it is written (Ecclus. 2:8): "Ye that fear the Lord, believe in Him." Therefore fear is not an effect of faith.
 
@@ -13,7 +13,7 @@ Objection 2: Further, the same thing is not the cause of contraries. Now fear an
 
 Objection 3: Further, one contrary does not cause another. Now the object of faith is a good, which is the First Truth, while the object of fear is an evil, as stated above ([2353]FS, Q[42], A[1]). Again, acts take their species from the object, according to what was stated above ([2354]FS, Q[18], A[2]). Therefore faith is not a cause of fear.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (James 2:19): "The devils . . . believe and tremble."
 
@@ -21,16 +21,16 @@ I answer that, Fear is a movement of the appetitive power, as stated above ([235
 
 It is also the cause of filial fear, whereby one dreads to be separated from God, or whereby one shrinks from equalling oneself to Him, and holds Him in reverence, inasmuch as faith makes us appreciate God as an unfathomable and supreme good, separation from which is the greatest evil, and to which it is wicked to wish to be equalled. Of the first fear, viz. servile fear, lifeless faith is the cause, while living faith is the cause of the second, viz. filial fear, because it makes man adhere to God and to be subject to Him by charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Fear of God cannot altogether precede faith, because if we knew nothing at all about Him, with regard to rewards and punishments, concerning which faith teaches us, we should nowise fear Him. If, however, faith be presupposed in reference to certain articles of faith, for example the Divine excellence, then reverential fear follows, the result of which is that man submits his intellect to God, so as to believe in all the Divine promises. Hence the text quoted continues: "And your reward shall not be made void."
 
 Reply to Objection 2: The same thing in respect of contraries can be the cause of contraries, but not under the same aspect. Now faith begets hope, in so far as it enables us to appreciate the prize which God awards to the just, while it is the cause of fear, in so far as it makes us appreciate the punishments which He intends to inflict on sinners.
 
 Reply to Objection 3: The primary and formal object of faith is the good which is the First Truth; but the material object of faith includes also certain evils; for instance, that it is an evil either not to submit to God, or to be separated from Him, and that sinners will suffer penal evils from God: in this way faith can be the cause of fear.
-## Whether Faith Has The Effect Of Purifying The Heart?
+### Whether Faith Has The Effect Of Purifying The Heart?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that faith does not purify the heart. For purity of the heart pertains chiefly to the affections, whereas faith is in the intellect. Therefore faith has not the effect of purifying the heart.
 
@@ -38,13 +38,13 @@ Objection 2: Further, that which purifies the heart is incompatible with impurit
 
 Objection 3: Further, if faith were to purify the human heart in any way, it would chiefly purify the intellect of man. Now it does not purify the intellect from obscurity, since it is a veiled knowledge. Therefore faith nowise purifies the heart.
 
-### Answer
+**Answer**
 
 On the contrary, Peter said (Acts 15:9): "Purifying their hearts by faith."
 
 I answer that, A thing is impure through being mixed with baser things: for silver is not called impure, when mixed with gold, which betters it, but when mixed with lead or tin. Now it is evident that the rational creature is more excellent than all transient and corporeal creatures; so that it becomes impure through subjecting itself to transient things by loving them. From this impurity the rational creature is purified by means of a contrary movement, namely, by tending to that which is above it, viz. God. The first beginning of this movement is faith: since "he that cometh to God must believe that He is," according to Heb. 11:6. Hence the first beginning of the heart's purifying is faith; and if this be perfected through being quickened by charity, the heart will be perfectly purified thereby.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Things that are in the intellect are the principles of those which are in the appetite, in so far as the apprehended good moves the appetite.
 

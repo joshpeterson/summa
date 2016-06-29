@@ -11,9 +11,9 @@ We must now consider things pertaining to the religious state: which considerati
 (8) Of their comparison one with another;
 (9) Whether a religious sins mortally whenever he transgresses a statute of his rule?
 (10) Whether, other things being equal, a religious sins more grievously by the same kind of sin than a secular person?
-## Whether Religion Implies A State Of Perfection?
+### Whether Religion Implies A State Of Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religion does not imply a state of perfection. For that which is necessary for salvation does not seemingly pertain to perfection. But religion is necessary for salvation, whether because "thereby we are bound [religamur] to the one almighty God," as Augustine says (De Vera Relig. 55), or because it takes its name from "our returning [religimus] to God Whom we had lost by neglecting Him" [*Cf.[3779] Q[81], A[1]], according to Augustine (De Civ. Dei x, 3). Therefore it would seem that religion does not denote the state of perfection.
 
@@ -23,13 +23,13 @@ Objection 3: Further, the state of perfection is distinct from the state of begi
 
 Objection 4: Further, religion would seem a place of repentance; for it is said in the Decrees (VII, qu. i, can. Hoc nequaquam): "The holy synod orders that any man who has been degraded from the episcopal dignity to the monastic life and a place of repentance, should by no means rise again to the episcopate." Now a place of repentance is opposed to the state of perfection; hence Dionysius (Eccl. Hier. vi) places penitents in the lowest place, namely among those who are to be cleansed. Therefore it would seem that religion is not the state of perfection.
 
-### Answer
+**Answer**
 
 On the contrary, In the Conferences of the Fathers (Collat. i, 7) abbot Moses speaking of religious says: "We must recognize that we have to undertake the hunger of fasting, watchings, bodily toil, privation, reading, and other acts of virtue, in order by these degrees to mount to the perfection of charity." Now things pertaining to human acts are specified and denominated from the intention of the end. Therefore religious belong to the state of perfection.
 
 I answer that, As stated above ([3782]Q[141], A[2]) that which is applicable to many things in common is ascribed antonomastically to that to which it is applicable by way of excellence. Thus the name of "fortitude" is claimed by the virtue which preserves the firmness of the mind in regard to most difficult things, and the name of "temperance," by that virtue which tempers the greatest pleasures. Now religion as stated above ([3783]Q[81] , A[2]; A[3], ad 2) is a virtue whereby a man offers something to the service and worship of God. Wherefore those are called religious antonomastically, who give themselves up entirely to the divine service, as offering a holocaust to God. Hence Gregory says (Hom. xx in Ezech.): "Some there are who keep nothing for themselves, but sacrifice to almighty God their tongue, their senses, their life, and the property they possess." Now the perfection of man consists in adhering wholly to God, as stated above ([3784]Q[184], A[2]), and in this sense religion denotes the state of perfection.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To offer something to the worship of God is necessary for salvation, but to offer oneself wholly, and one's possessions to the worship of God belongs to perfection.
 
@@ -38,9 +38,9 @@ Reply to Objection 2: As stated above ([3785]Q[81], A[1], ad 1; A[4], ad 1,2;[37
 Reply to Objection 3: As stated above ([3787]Q[184], AA[4],6) religion denotes the state of perfection by reason of the end intended. Hence it does not follow that whoever is in the state of perfection is already perfect, but that he tends to perfection. Hence Origen commenting on Mat. 19:21, "If thou wilt be perfect," etc., says (Tract. viii in Matth.) that "he who has exchanged riches for poverty in order to become perfect does not become perfect at the very moment of giving his goods to the poor; but from that day the contemplation of God will begin to lead him to all the virtues." Thus all are not perfect in religion, but some are beginners, some proficient.
 
 Reply to Objection 4: The religious state was instituted chiefly that we might obtain perfection by means of certain exercises, whereby the obstacles to perfect charity are removed. By the removal of the obstacles of perfect charity, much more are the occasions of sin cut off, for sin destroys charity altogether. Wherefore since it belongs to penance to cut out the causes of sin, it follows that the religious state is a most fitting place for penance. Hence (XXXIII, qu. ii, cap. Admonere) a man who had killed his wife is counseled to enter a monastery which is described as "better and lighter," rather than to do public penance while remaining in the world.
-## Whether Every Religious Is Bound To Keep All The Counsels?
+### Whether Every Religious Is Bound To Keep All The Counsels?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that every religious is bound to keep all the counsels. For whoever professes a certain state of life is bound to observe whatever belongs to that state. Now each religious professes the state of perfection. Therefore every religious is bound to keep all the counsels that pertain to the state of perfection.
 
@@ -48,7 +48,7 @@ Objection 2: Further, Gregory says (Hom. xx in Ezech.) that "he who renounces th
 
 Objection 3: Further, if it is not requisite for the state of perfection to fulfil all the counsels, it would seem enough to fulfil some of them. But this is false, since some who lead a secular life fulfil some of the counsels, for instance those who observe continence. Therefore it would seem that every religious who is in the state of perfection is bound to fulfil whatever pertains to perfection: and such are the counsels.
 
-### Answer
+**Answer**
 
 On the contrary, one is not bound, unless one bind oneself, to do works of supererogation. But every religious does not bind himself to keep all the counsels, but to certain definite ones, some to some, others to others. Therefore all are not bound to keep all of them.
 
@@ -60,16 +60,16 @@ For the same reason he is not bound to fulfil those things that result from the 
 
 In like manner he is not bound to observe all the practices whereby perfection may be attained, but only those which are definitely prescribed to him by the rule which he has professed.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He who enters religion does not make profession to be perfect, but he professes to endeavor to attain perfection; even as he who enters the schools does not profess to have knowledge, but to study in order to acquire knowledge. Wherefore as Augustine says (De Civ. Dei viii, 2), Pythagoras was unwilling to profess to be a wise man, but acknowledged himself, "a lover of wisdom." Hence a religious does not violate his profession if he be not perfect, but only if he despises to tend to perfection.
 
 Reply to Objection 2: Just as, though all are bound to love God with their whole heart, yet there is a certain wholeness of perfection which cannot be omitted without sin, and another wholeness which can be omitted without sin ([3790]Q[184], A[2], ad 3), provided there be no contempt, as stated above (ad 1), so too, all, both religious and seculars, are bound, in a certain measure, to do whatever good they can, for to all without exception it is said (Eccles. 9:10): "Whatsoever thy hand is able to do, do it earnestly." Yet there is a way of fulfilling this precept, so as to avoid sin, namely if one do what one can as required by the conditions of one's state of life: provided there be no contempt of doing better things, which contempt sets the mind against spiritual progress.
 
 Reply to Objection 3: There are some counsels such that if they be omitted, man's whole life would be taken up with secular business; for instance if he have property of his own, or enter the married state, or do something of the kind that regards the essential vows of religion themselves; wherefore religious are bound to keep all such like counsels. Other counsels there are, however, about certain particular better actions, which can be omitted without one's life being taken up with secular actions; wherefore there is no need for religious to be bound to fulfil all of them.
-## Whether Poverty Is Required For Religious Perfection?
+### Whether Poverty Is Required For Religious Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that poverty is not required for religious perfection. For that which it is unlawful to do does not apparently belong to the state of perfection. But it would seem to be unlawful for a man to give up all he possesses; since the Apostle (2 Cor. 8:12) lays down the way in which the faithful are to give alms saying: "If the will be forward, it is accepted according to that which a man hath," i.e. "you should keep back what you need," and afterwards he adds (2 Cor. 8:13): "For I mean not that others should be eased, and you burthened," i.e. "with poverty," according to a gloss. Moreover a gloss on 1 Tim. 6:8, "Having food, and wherewith to be covered," says: "Though we brought nothing, and will carry nothing away, we must not give up these temporal things altogether." Therefore it seems that voluntary poverty is not requisite for religious perfection.
 
@@ -83,7 +83,7 @@ Objection 5: Further, the episcopal state is more perfect than the religious sta
 
 Objection 6: Further, almsgiving is a work most acceptable to God, and as Chrysostom says (Hom. ix in Ep. ad Hebr.) "is a most effective remedy in repentance." Now poverty excludes almsgiving. Therefore it would seem that poverty does not pertain to religious perfection.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. viii, 26): "There are some of the righteous who bracing themselves up to lay hold of the very height of perfection, while they aim at higher objects within, abandon all things without." Now, as stated above, ([3792]AA[1],2), it belongs properly to religious to brace themselves up in order to lay hold of the very height of perfection. Therefore it belongs to them to abandon all outward things by voluntary poverty.
 
@@ -91,7 +91,7 @@ I answer that, As stated above [3793](A[2]), the religious state is an exercise 
 
 Hence it is that in the attainment of the perfection of charity the first foundation is voluntary poverty, whereby a man lives without property of his own, according to the saying of our Lord (Mat. 19:21), "If thou wilt be perfect, go, sell all [Vulg.: 'what'] thou hast, and give to the poor . . . and come, follow Me."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As the gloss adds, "when the Apostle said this (namely "not that you should be burthened," i.e. with poverty)," he did not mean that "it were better not to give: but he feared for the weak, whom he admonished so to give as not to suffer privation." Hence in like manner the other gloss means not that it is unlawful to renounce all one's temporal goods, but that this is not required of necessity. Wherefore Ambrose says (De Offic. i, 30): "Our Lord does not wish," namely does not command us "to pour out our wealth all at once, but to dispense it; or perhaps to do as did Eliseus who slew his oxen, and fed the poor with that which was his own so that no household care might hold him back."
 
@@ -104,9 +104,9 @@ Reply to Objection 4: Happiness or felicity is twofold. One is perfect, to which
 Reply to Objection 5: The episcopal state is not directed to the attainment of perfection, but rather to the effect that, in virtue of the perfection which he already has, a man may govern others, by administering not only spiritual but also temporal things. This belongs to the active life, wherein many things occur that may be done by means of wealth as an instrument, as stated (ad 4). Wherefore it is not required of bishops, who make profession of governing Christ's flock, that they have nothing of their own, whereas it is required of religious who make profession of learning to obtain perfection.
 
 Reply to Objection 6: The renouncement of one's own wealth is compared to almsgiving as the universal to the particular, and as the holocaust to the sacrifice. Hence Gregory says (Hom. xx in Ezech.) that those who assist "the needy with the things they possess, by their good deeds offer sacrifice, since they offer up something to God and keep back something for themselves; whereas those who keep nothing for themselves offer a holocaust which is greater than a sacrifice." Wherefore Jerome also says (Contra Vigilant.): "When you declare that those do better who retain the use of their possessions, and dole out the fruits of their possessions to the poor, it is not I but the Lord Who answers you; If thou wilt be perfect," etc., and afterwards he goes on to say: "This man whom you praise belongs to the second and third degree, and we too commend him: provided we acknowledge the first as to be preferred to the second and third." For this reason in order to exclude the error of Vigilantius it is said (De Eccl. Dogm. xxxviii): "It is a good thing to give away one's goods by dispensing them to the poor: it is better to give them away once for all with the intention of following the Lord, and, free of solicitude, to be poor with Christ."
-## Whether Perpetual Continence Is Required For Religious Perfection?
+### Whether Perpetual Continence Is Required For Religious Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that perpetual continence is not required for religious perfection. For all perfection of the Christian life began with Christ's apostles. Now the apostles do not appear to have observed continence, as evidenced by Peter, of whose mother-in-law we read Mat. 8:14. Therefore it would seem that perpetual continence is not requisite for religious perfection.
 
@@ -114,7 +114,7 @@ Objection 2: Further, the first example of perfection is shown to us in the pers
 
 Objection 3: Further, that which is required for religious perfection is to be found in every religious order. Now there are some religious who lead a married life. Therefore religious perfection does not require perpetual continence.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (2 Cor. 7:1): "Let us cleanse ourselves from all defilement of the flesh and of the spirit, perfecting sanctification in the fear of God." Now cleanness of flesh and spirit is safeguarded by continence, for it is said (1 Cor. 7:34): "The unmarried woman and the virgin thinketh on the things of the Lord that she may be holy both in spirit and in body [Vulg.: 'both in body and in spirit']." Therefore religious perfection requires continence.
 
@@ -122,16 +122,16 @@ I answer that, The religious state requires the removal of whatever hinders man 
 
 Therefore perpetual continence, as well as voluntary poverty, is requisite for religious perfection. Wherefore just as Vigilantius was condemned for equaling riches to poverty, so was Jovinian condemned for equaling marriage to virginity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The perfection not only of poverty but also of continence was introduced by Christ Who said (Mat. 19:12): "There are eunuchs who have made themselves eunuchs, for the kingdom of heaven," and then added: "He that can take, let him take it." And lest anyone should be deprived of the hope of attaining perfection, he admitted to the state of perfection those even who were married. Now the husbands could not without committing an injustice forsake their wives, whereas men could without injustice renounce riches. Wherefore Peter whom He found married, He severed not from his wife, while "He withheld from marriage John who wished to marry" [*Prolog. in Joan. among the supposititious works of St. Jerome].
 
 Reply to Objection 2: As Augustine says (De Bono Conjug. xxii), "the chastity of celibacy is better than the chastity of marriage, one of which Abraham had in use, both of them in habit. For he lived chastely, and he might have been chaste without marrying, but it was not requisite then." Nevertheless if the patriarchs of old had perfection of mind together with wealth and marriage, which is a mark of the greatness of their virtue, this is no reason why any weaker person should presume to have such great virtue that he can attain to perfection though rich and married; as neither does a man unarmed presume to attack his enemy, because Samson slew many foes with the jaw-bone of an ass. For those fathers, had it been seasonable to observe continence and poverty, would have been most careful to observe them.
 
 Reply to Objection 3: Such ways of living as admit of the use of marriage are not the religious life simply and absolutely speaking, but in a restricted sense, in so far as they have a certain share in those things that belong to the religious state.
-## Whether Obedience Belongs To Religious Perfection?
+### Whether Obedience Belongs To Religious Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that obedience does not belong to religious perfection. For those things seemingly belong to religious perfection, which are works of supererogation and are not binding upon all. But all are bound to obey their superiors, according to the saying of the Apostle (Heb. 13:17), "Obey your prelates, and be subject to them." Therefore it would seem that obedience does not belong to religious perfection.
 
@@ -143,13 +143,13 @@ Objection 4: Further, if the vow of obedience were requisite for religion, it wo
 
 Objection 5: Further, those services are most acceptable to God which are done freely and not of necessity, according to 2 Cor. 9:7, "Not with sadness or of necessity." Now that which is done out of obedience is done of necessity of precept. Therefore those good works are more deserving of praise which are done of one's own accord. Therefore the vow of obedience is unbecoming to religion whereby men seek to attain to that which is better.
 
-### Answer
+**Answer**
 
 On the contrary, Religious perfection consists chiefly in the imitation of Christ, according to Mat. 19:21, "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast, and give to the poor, and follow Me." Now in Christ obedience is commended above all according to Phil. 2:8, "He became [Vulg.: 'becoming'] obedient unto death." Therefore seemingly obedience belongs to religious perfection.
 
 I answer that, As stated above ([3795]AA[2],3) the religious state is a school and exercise for tending to perfection. Now those who are being instructed or exercised in order to attain a certain end must needs follow the direction of someone under whose control they are instructed or exercised so as to attain that end as disciples under a master. Hence religious need to be placed under the instruction and command of someone as regards things pertaining to the religious life; wherefore it is said (VII, qu. i, can. Hoc nequaquam): "The monastic life denotes subjection and discipleship." Now one man is subjected to another's command and instruction by obedience: and consequently obedience is requisite for religious perfection.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To obey one's superiors in matters that are essential to virtue is not a work of supererogation, but is common to all: whereas to obey in matters pertaining to the practice of perfection belongs properly to religious. This latter obedience is compared to the former as the universal to the particular. For those who live in the world, keep something for themselves, and offer something to God; and in the latter respect they are under obedience to their superiors: whereas those who live in religion give themselves wholly and their possessions to God, as stated above ([3796]AA[1],3). Hence their obedience is universal.
 
@@ -160,9 +160,9 @@ Reply to Objection 3: The subjection of religious is chiefly in reference to bis
 Reply to Objection 4: The vow of obedience taken by religious, extends to the disposition of a man's whole life, and in this way it has a certain universality, although it does not extend to all individual acts. For some of these do not belong to religion, through not being of those things that concern the love of God and of our neighbor, such as rubbing one's beard, lifting a stick from the ground and so forth, which do not come under a vow nor under obedience; and some are contrary to religion. Nor is there any comparison with continence whereby acts are excluded which are altogether contrary to religion.
 
 Reply to Objection 5: The necessity of coercion makes an act involuntary and consequently deprives it of the character of praise or merit; whereas the necessity which is consequent upon obedience is a necessity not of coercion but of a free will, inasmuch as a man is willing to obey, although perhaps he would not be willing to do the thing commanded considered in itself. Wherefore since by the vow of obedience a man lays himself under the necessity of doing for God's sake certain things that are not pleasing in themselves, for this very reason that which he does is the more acceptable to God, though it be of less account, because man can give nothing greater to God, than by subjecting his will to another man's for God's sake. Hence in the Conferences of the Fathers (Coll. xviii, 7) it is stated that "the Sarabaitae are the worst class of monks, because through providing for their own needs without being subject to superiors, they are free to do as they will; and yet day and night they are more busily occupied in work than those who live in monasteries."
-## Whether It Is Requisite For Religious Perfection That Poverty, Continence, And Obedience Should Come Under A Vow?
+### Whether It Is Requisite For Religious Perfection That Poverty, Continence, And Obedience Should Come Under A Vow?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not requisite for religious perfection that the three aforesaid, namely poverty, continence, and obedience, should come under a vow. For the school of perfection is founded on the principles laid down by our Lord. Now our Lord in formulating perfection (Mat. 19:21) said: "If thou wilt be perfect, go, sell all [Vulg.: 'what'] thou hast, and give to the poor," without any mention of a vow. Therefore it would seem that a vow is not necessary for the school of religion.
 
@@ -170,22 +170,22 @@ Objection 2: Further, a vow is a promise made to God, wherefore (Eccles. 5:3) th
 
 Objection 3: Further, Augustine says (Ad Pollent., de Adult. Conjug. i, 14): "The services we render are more pleasing when we might lawfully not render them, yet do so out of love." Now it is lawful not to render a service which we have not vowed, whereas it is unlawful if we have vowed to render it. Therefore seemingly it is more pleasing to God to keep poverty, continence, and obedience without a vow. Therefore a vow is not requisite for religious perfection.
 
-### Answer
+**Answer**
 
 On the contrary, In the Old Law the Nazareans were consecrated by vow according to Num. 6:2, "When a man or woman shall make a vow to be sanctified and will consecrate themselves to the Lord," etc. Now these were a figure of those "who attain the summit of perfection," as a gloss [*Cf. Moral. ii] of Gregory states. Therefore a vow is requisite for religious perfection.
 
 I answer that, It belongs to religious to be in the state of perfection, as shown above (Q[174], A[5]). Now the state of perfection requires an obligation to whatever belongs to perfection: and this obligation consists in binding oneself to God by means of a vow. But it is evident from what has been said ([3797]AA[3],4,5) that poverty, continence, and obedience belong to the perfection of the Christian life. Consequently the religious state requires that one be bound to these three by vow. Hence Gregory says (Hom. xx in Ezech.): "When a man vows to God all his possessions, all his life, all his knowledge, it is a holocaust"; and afterwards he says that this refers to those who renounce the present world.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord declared that it belongs to the perfection of life that a man follow Him, not anyhow, but in such a way as not to turn back. Wherefore He says again (Lk. 9:62): "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." And though some of His disciples went back, yet when our Lord asked (Jn. 6:68,69), "Will you also go away?" Peter answered for the others: "Lord, to whom shall we go?" Hence Augustine says (De Consensu Ev. ii, 17) that "as Matthew and Mark relate, Peter and Andrew followed Him after drawing their boats on to the beach, not as though they purposed to return, but as following Him at His command." Now this unwavering following of Christ is made fast by a vow: wherefore a vow is requisite for religious perfection.
 
 Reply to Objection 2: As Gregory says (Moral. ii) religious perfection requires that a man give "his whole life" to God. But a man cannot actually give God his whole life, because that life taken as a whole is not simultaneous but successive. Hence a man cannot give his whole life to God otherwise than by the obligation of a vow.
 
 Reply to Objection 3: Among other services that we can lawfully give, is our liberty, which is dearer to man than aught else. Consequently when a man of his own accord deprives himself by vow of the liberty of abstaining from things pertaining to God's service, this is most acceptable to God. Hence Augustine says (Ep. cxxvii ad Paulin. et Arment.): "Repent not of thy vow; rejoice rather that thou canst no longer do lawfully, what thou mightest have done lawfully but to thy own cost. Happy the obligation that compels to better things."
-## Whether It Is Right To Say That Religious Perfection Consists In These Three Vows?
+### Whether It Is Right To Say That Religious Perfection Consists In These Three Vows?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not right to say that religious perfection consists in these three vows. For the perfection of life consists of inward rather than of outward acts, according to Rom. 14:17, "The Kingdom of God is not meat and drink, but justice and peace and joy in the Holy Ghost." Now the religious vow binds a man to things belonging to perfection. Therefore vows of inward actions, such as contemplation, love of God and our neighbor, and so forth, should pertain to the religious state, rather than the vows of poverty, continence, and obedience which refer to outward actions.
 
@@ -195,7 +195,7 @@ Objection 3: Further, by the vow of obedience a man is bound to do according to 
 
 Objection 4: Further, external goods comprise not only riches but also honors. Therefore, if religious, by the vow of poverty, renounce earthly riches, there should be another vow whereby they may despise worldly honors.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated (Extra, de Statu Monach., cap. Cum ad monasterium) that "the keeping of chastity and the renouncing of property are affixed to the monastic rule."
 
@@ -205,7 +205,7 @@ First, as regards the practice of perfection a man is required to remove from hi
 
 Again, "a holocaust is the offering to God of all that one has," according to Gregory (Hom. xx in Ezech.). Now man has a threefold good, according to the Philosopher (Ethic. i, 8). First, the good of external things, which he wholly offers to God by the vow of voluntary poverty: secondly, the good of his own body, and this good he offers to God especially by the vow of continence, whereby he renounces the greatest bodily pleasures. the third is the good of the soul, which man wholly offers to God by the vow of obedience, whereby he offers God his own will by which he makes use of all the powers and habits of the soul. Therefore the religious state is fittingly constituted by the three vows.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above [3798](A[1]), the end whereunto the religious vow is directed is the perfection of charity, since all the interior acts of virtue belong to charity as to their mother, according to 1 Cor. 13:4, "Charity is patient, is kind," etc. Hence the interior acts of virtue, for instance humility, patience, and so forth, do not come under the religious vow, but this is directed to them as its end.
 
@@ -214,9 +214,9 @@ Reply to Objection 2: All other religious observances are directed to the three 
 Reply to Objection 3: By obedience a man offers to God his will, to which though all human affairs are subject, yet some are subject to it alone in a special manner, namely human actions, since passions belong also to the sensitive appetite. Wherefore in order to restrain the passions of carnal pleasures and of external objects of appetite, which hinder the perfection of life, there was need for the vows of continence and poverty; but for the ordering of one's own actions accordingly as the state of perfection requires, there was need for the vow of obedience.
 
 Reply to Objection 4: As the Philosopher says (Ethic. iv, 3), strictly and truly speaking honor is not due save to virtue. Since, however, external goods serve instrumentally for certain acts of virtue, the consequence is that a certain honor is given to their excellence especially by the common people who acknowledge none but outward excellence. Therefore since religious tend to the perfection of virtue it becomes them not to renounce the honor which God and all holy men accord to virtue, according to Ps. 138:17, "But to me Thy friends, O God, are made exceedingly honorable." On the other hand, they renounce the honor that is given to outward excellence, by the very fact that they withdraw from a worldly life: hence no special vow is needed for this.
-## Whether The Vow Of Obedience Is The Chief Of The Three Religious Vows?
+### Whether The Vow Of Obedience Is The Chief Of The Three Religious Vows?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the vow of obedience is not the chief of the three religious vows. For the perfection of the religious life was inaugurated by Christ. Now Christ gave a special counsel of poverty; whereas He is not stated to have given a special counsel of obedience. Therefore the vow of poverty is greater than the vow of obedience.
 
@@ -224,7 +224,7 @@ Objection 2: Further, it is written (Ecclus. 26:20) that "no price is worthy of 
 
 Objection 3: Further, the greater a vow the more indispensable it would seem to be. Now the vows of poverty and continence "are so inseparable from the monastic rule, that not even the Sovereign Pontiff can allow them to be broken," according to a Decretal (De Statu Monach., cap. Cum ad monasterium): yet he can dispense a religious from obeying his superior. Therefore it would seem that the vow of obedience is less than the vow of poverty and continence.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xxxv, 14): "Obedience is rightly placed before victims, since by victims another's flesh, but by obedience one's own will, is sacrificed." Now the religious vows are holocausts, as stated above ([3799]AA[1],3, ad 6). Therefore the vow of obedience is the chief of all religious vows.
 
@@ -238,16 +238,16 @@ Thirdly, because the vow of obedience extends properly to those acts that are cl
 
 It follows from this that the vow of obedience is more essential to the religious life. For if a man without taking a vow of obedience were to observe, even by vow, voluntary poverty and continence, he would not therefore belong to the religious state, which is to be preferred to virginity observed even by vow; for Augustine says (De Virgin. xlvi): "No one, methinks, would prefer virginity to the monastic life." [*St. Augustine wrote not 'monasterio' but 'martyrio'---to 'martyrdom'; and St. Thomas quotes the passage correctly above[3800], Q[124], A[3] and[3801] Q[152], A[5]].
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The counsel of obedience was included in the very following of Christ, since to obey is to follow another's will. Consequently it is more pertinent to perfection than the vow of poverty, because as Jerome, commenting on Mat. 19:27, "Behold we have left all things," observes, "Peter added that which is perfect when he said: And have followed Thee."
 
 Reply to Objection 2: The words quoted mean that continence is to be preferred, not to all other acts of virtue, but to conjugal chastity, or to external riches of gold and silver which are measured by weight [*'Pondere,' referring to the Latin 'ponderatio' in the Vulgate, which the Douay version renders 'price.']. Or again continence is taken in a general sense for abstinence from ali evil, as stated above ([3802]Q[155], A[4], ad 1).
 
 Reply to Objection 3: The Pope cannot dispense a religious from his vow of obedience so as to release him from obedience to every superior in matters relating to the perfection of life, for he cannot exempt him from obedience to himself. He can, however, exempt him from subjection to a lower superior, but this is not to dispense him from his vow of obedience.
-## Whether A Religious Sins Mortally Whenever He Transgresses The Things Contained In His Rule?
+### Whether A Religious Sins Mortally Whenever He Transgresses The Things Contained In His Rule?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a religious sins mortally whenever he transgresses the things contained in his rule. For to break a vow is a sin worthy of condemnation, as appears from 1 Tim. 5:11,12, where the Apostle says that widows who "will marry have [Vulg.: 'having'] damnation, because they have made void their first faith." But religious are bound to a rule by the vows of their profession. Therefore they sin mortally by transgressing the things contained in their rule.
 
@@ -255,7 +255,7 @@ Objection 2: Further, the rule is enjoined upon a religious in the same way as a
 
 Objection 3: Further, contempt involves a mortal sin. Now whoever repeatedly does what he ought not to do seems to sin from contempt. Therefore it would seem that a religious sins mortally by frequently transgressing the things contained in his rule.
 
-### Answer
+**Answer**
 
 On the contrary, The religious state is safer than the secular state; wherefore Gregory at the beginning of his Morals [*Epist. Missoria, ad Leand. Episc. i] compares the secular life to the stormy sea, and the religious life to the calm port. But if every transgression of the things contained in his rule were to involve a religious in mortal sin, the religious life would be fraught with danger of account of its multitude of observances. Therefore not every transgression of the things contained in the rule is a mortal sin.
 
@@ -263,16 +263,16 @@ I answer that, As stated above (A[1], ad 1,2), a thing is contained in the rule 
 
 Secondly, a thing is contained in the rule through pertaining to the outward practice, such as all external observances, to some of which a religious is bound by the vow of his profession. Now the vow of profession regards chiefly the three things aforesaid, namely poverty, continence, and obedience, while all others are directed to these. Consequently the transgression of these three involves a mortal sin, while the transgression of the others does not involve a mortal sin, except either by reason of contempt of the rule (since this is directly contrary to the profession whereby a man vows to live according to the rule), or by reason of a precept, whether given orally by a superior, or expressed in the rule, since this would be to act contrary to the vow of obedience.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He who professes a rule does not vow to observe all the things contained in the rule, but he vows the regular life which consists essentially in the three aforesaid things. Hence in certain religious orders precaution is taken to profess, not the rule, but to live according to the rule, i.e. to tend to form one's conduct in accordance with the rule as a kind of model; and this is set aside by contempt. Yet greater precaution is observed in some religious orders by professing obedience according to the rule, so that only that which is contrary to a precept of the rule is contrary to the profession, while the transgression or omission of other things binds only under pain of venial sin, because, as stated above (A[7], ad 2), such things are dispositions to the chief vows. And venial sin is a disposition to mortal, as stated above ([3804]FS, Q[88], A[3]), inasmuch as it hinders those things whereby a man is disposed to keep the chief precepts of Christ's law, namely the precepts of charity.
 
 Reply to Objection 2: Not all the contents of the law are set forth by way of precept; for some are expressed under the form of ordinance or statute binding under pain of a fixed punishment. Accordingly, just as in the civil law the transgression of a legal statute does not always render a man deserving of bodily death, so neither in the law of the Church does every ordinance or statute bind under mortal sin; and the same applies to the statutes of the rule.
 
 Reply to Objection 3: An action or transgression proceeds from contempt when a man's will refuses to submit to the ordinance of the law or rule, and from this he proceeds to act against the law or rule. on the other hand, he does not sin from contempt, but from some other cause, when he is led to do something against the ordinance of the law or rule through some particular cause such as concupiscence or anger, even though he often repeat the same kind of sin through the same or some other cause. Thus Augustine says (De Nat. et Grat. xxix) that "not all sins are committed through proud contempt." Nevertheless the frequent repetition of a sin leads dispositively to contempt, according to the words of Prov. 18:3, "The wicked man, when he is come into the depth of sins, contemneth."
-## Whether A Religious Sins More Grievously Than A Secular By The Same Kind Of Sin?
+### Whether A Religious Sins More Grievously Than A Secular By The Same Kind Of Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a religious does not sin more grievously than a secular by the same kind of sin. For it is written (2 Paralip 30:18,19): "The Lord Who is good will show mercy to all them who with their whole heart seek the Lord the God of their fathers, and will not impute it to them that they are not sanctified." Now religious apparently follow the Lord the God of their fathers with their whole heart rather than seculars, who partly give themselves and their possessions to God and reserve part for themselves, as Gregory says (Hom. xx in Ezech.). Therefore it would seem that it is less imputed to them if they fall short somewhat of their sanctification.
 
@@ -280,7 +280,7 @@ Objection 2: Further, God is less angered at a man's sins if he does some good d
 
 Objection 3: Further, this present life is not carried through without sin, according to James 3:2, "In many things we all offend." Therefore if the sins of religious were more grievous than those of seculars it would follow that religious are worse off than seculars: and consequently it would not be a wholesome counsel to enter religion.
 
-### Answer
+**Answer**
 
 On the contrary, The greater the evil the more it would seem to be deplored. But seemingly the sins of those who are in the state of holiness and perfection are the most deplorable, for it is written (Jer. 23:9): "My heart is broken within me," and afterwards (Jer. 23:11): "For the prophet and the priest are defiled; and in My house I have found their wickedness." Therefore religious and others who are in the state of perfection, other things being equal, sin more grievously.
 
@@ -288,7 +288,7 @@ I answer that, A sin committed by a religious may be in three ways more grievous
 
 On the other hand, if a religious, not out of contempt, but out of weakness or ignorance, commit a sin that is not against the vow of his profession, without giving scandal (for instance if he commit it in secret) he sins less grievously in the same kind of sin than a secular, because his sin if slight is absorbed as it were by his many good works, and if it be mortal, he more easily recovers from it. First, because he has a right intention towards God, and though it be intercepted for the moment, it is easily restored to its former object. Hence Origen commenting on Ps. 36:24, "When he shall fall he shall not be bruised," says (Hom. iv in Ps. 36): "The wicked man, if he sin, repents not, and fails to make amends for his sin. But the just man knows how to make amends and recover himself; even as he who had said: 'I know not the man,' shortly afterwards when the Lord had looked on him, knew to shed most bitter tears, and he who from the roof had seen a woman and desired her knew to say: 'I have sinned and done evil before Thee.'" Secondly, he is assisted by his fellow-religious to rise again, according to Eccles. 4:10, "If one fall he shall be supported by the other: woe to him that is alone, for when he falleth he hath none to lift him up."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The words quoted refer to things done through weakness or ignorance, but not to those that are done out of contempt.
 

@@ -5,9 +5,9 @@ We must now treat of excommunication: we shall consider: (1) the definition, con
 (2) Whether the Church should excommunicate anyone?
 (3) Whether anyone should be excommunicated for inflicting temporal harm?
 (4) Whether an excommunication unjustly pronounced has any effect?
-## Whether Excommunication Is Suitably Defined As Separation From The Communion Of The Church, Etc?
+### Whether Excommunication Is Suitably Defined As Separation From The Communion Of The Church, Etc?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that excommunication is unsuitably defined by some thus: "Excommunication is separation from the communion of the Church, as to fruit and general suffrages." For the suffrages of the Church avail for those for whom they are offered. But the Church prays for those who are outside the Church, as, for instance, for heretics and pagans. Therefore she prays also for the excommunicated, since they are outside the Church, and so the suffrages of the Church avail for them.
 
@@ -17,7 +17,7 @@ Objection 3: Further, the fruit of the Church seems to be the same as the Church
 
 Objection 4: Further, there is a kind of excommunication called minor*, by which man is not deprived of the suffrages of the Church. [*Minor excommunication is no longer recognized by Canon Law.] Therefore this definition is unsuitable.
 
-### Answer
+**Answer**
 
 
 
@@ -29,7 +29,7 @@ I answer that, When a man enters the Church by Baptism, he is admitted to two th
 
 Another definition is given which expresses the privation of both kinds of acts, and is as follows: "Excommunication is the privation of all lawful communion with the faithful."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Prayers are said for unbelievers, but they do not receive the fruit of those prayers unless they be converted to the faith. In like manner prayers may be offered up for those who are excommunicated, but not among the prayers that are said for the members of the Church. Yet they do not receive the fruit so long as they remain under the excommunication, but prayers are said for them that they may receive the spirit of repentance, so that they may be loosed from excommunication.
 
@@ -38,9 +38,9 @@ Reply to Objection 2: One man's prayers profit another in so far as they can rea
 Reply to Objection 3: The spiritual fruit of the Church is derived not only from her prayers, but also from the sacraments received and from the faithful dwelling together.
 
 Reply to Objection 4: The minor excommunication does not fulfill all the conditions of excommunication but only a part of them, hence the definition of excommunication need not apply to it in every respect, but only in some.
-## Whether The Church Should Excommunicate Anyone?
+### Whether The Church Should Excommunicate Anyone?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Church ought not to excommunicate anyone, because excommunication is a kind of curse, and we are forbidden to curse (Rom. 12:14). Therefore the Church should not excommunicate.
 
@@ -48,47 +48,47 @@ Objection 2: Further, the Church Militant should imitate the Church Triumphant. 
 
 Objection 3: Further, no man should be given into the hands of his enemies, unless there be no hope for him. Now by excommunication a man is given into the hands of Satan, as is clear from 1 Cor. 5:5. Since then we should never give up hope about anyone in this life, the Church should not excommunicate anyone.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle (1 Cor. 5:5) ordered a man to be excommunicated.
 
 I answer that, The judgment of the Church should be conformed to the judgment of God. Now God punishes the sinner in many ways, in order to draw him to good, either by chastising him with stripes, or by leaving him to himself so that being deprived of those helps whereby he was kept out of evil, he may acknowledge his weakness, and humbly return to God Whom he had abandoned in his pride. In both these respects the Church by passing sentence of excommunication imitates the judgment of God. For by severing a man from the communion of the faithful that he may blush with shame, she imitates the judgment whereby God chastises man with stripes; and by depriving him of prayers and other spiritual things, she imitates the judgment of God in leaving man to himself, in order that by humility he may learn to know himself and return to God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A curse may be pronounced in two ways: first, so that the intention of the one who curses is fixed on the evil which he invokes or pronounces, and cursing in this sense is altogether forbidden. Secondly, so that the evil which a man invokes in cursing is intended for the good of the one who is cursed, and thus cursing is sometimes lawful and salutary: thus a physician makes a sick man undergo pain, by cutting him, for instance, in order to deliver him from his sickness.
 
 Reply to Objection 2: The devil cannot be brought to repentance, wherefore the pain of excommunication cannot do him any good.
 
 Reply to Objection 3: From the very fact that a man is deprived of the prayers of the Church, he incurs a triple loss, corresponding to the three things which a man acquires through the Church's prayers. For they bring an increase of grace to those who have it, or merit grace for those who have it not; and in this respect the Master of the Sentences says (Sent. iv, D, 18): "The grace of God is taken away by excommunication." They also prove a safeguard of virtue; and in this respect he says that "protection is taken away," not that the excommunicated person is withdrawn altogether from God's providence, but that he is excluded from that protection with which He watches over the children of the Church in a more special way. Moreover, they are useful as a defense against the enemy, and in this respect he says that "the devil receives greater power of assaulting the excommunicated person, both spiritually and corporally." Hence in the early Church, when men had to be enticed to the faith by means of outward signs (thus the gift of the Holy Ghost was shown openly by a visible sign), so too excommunication was evidenced by a person being troubled in his body by the devil. Nor is it unreasonable that one, for whom there is still hope, be given over to the enemy, for he is surrendered, not unto damnation, but unto correction, since the Church has the power to rescue him from the hands of the enemy, whenever he is willing.
-## Whether Anyone Should Be Excommunicated For Inflicting Temporal Harm?
+### Whether Anyone Should Be Excommunicated For Inflicting Temporal Harm?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no man should be excommunicated for inflicting a temporal harm. For the punishment should not exceed the fault. But the punishment of excommunication is the privation of a spiritual good, which surpasses all temporal goods. Therefore no man should be excommunicated for temporal injuries.
 
 Objection 2: Further, we should render to no man evil for evil, according to the precept of the Apostle (Rom. 12:17). But this would be rendering evil for evil, if a man were to be excommunicated for doing such an injury. Therefore this ought by no means to be done.
 
-### Answer
+**Answer**
 
 On the contrary, Peter sentenced Ananias and Saphira to death for keeping back the price of their piece of land (Acts 5:1-10). Therefore it is lawful for the Church to excommunicate for temporal injuries.
 
 I answer that, By excommunication the ecclesiastical judge excludes a man, in a sense, from the kingdom. Wherefore, since he ought not to exclude from the kingdom others than the unworthy, as was made clear from the definition of the keys ([4882]Q[17], A[2]), and since no one becomes unworthy, unless, through committing a mortal sin, he lose charity which is the way leading to the kingdom, it follows that no man should be excommunicated except for a mortal sin. And since by injuring a man in his body or in his temporalities, one may sin mortally and act against charity, the Church can excommunicate a man for having inflicted temporal injury on anyone. Yet, as excommunication is the most severe punishment, and since punishments are intended as remedies, according to the Philosopher (Ethic. ii), and again since a prudent physician begins with lighter and less risky remedies, therefore excommunication should not be inflicted, even for a mortal sin, unless the sinner be obstinate, either by not coming up for judgment, or by going away before judgment is pronounced, or by failing to obey the decision of the court. For then, if, after due warning, he refuse to obey, he is reckoned to be obstinate, and the judge, not being able to proceed otherwise against him, must excommunicate him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A fault is not measured by the extent of the damage a man does, but by the will with which he does it, acting against charity. Wherefore, though the punishment of excommunication exceeds the harm done, it does not exceed the measure of the sin.
 
 Reply to Objection 2: When a man is corrected by being punished, evil is not rendered to him, but good: since punishments are remedies, as stated above.
-## Whether An Excommunication Unjustly Pronounced Has Any Effect?
+### Whether An Excommunication Unjustly Pronounced Has Any Effect?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an excommunication which is pronounced unjustly has no effect at all. Because excommunication deprives a man of the protection and grace of God, which cannot be forfeited unjustly. Therefore excommunication has no effect if it be unjustly pronounced.
 
 Objection 2: Further, Jerome says (on Mat. 16:19: "I will give to thee the keys"): "It is a pharisaical severity to reckon as really bound or loosed, that which is bound or loosed unjustly." But that severity was proud and erroneous. Therefore an unjust excommunication has no effect.
 
-### Answer
+**Answer**
 
 On the contrary, According to Gregory (Hom. xxvi in Evang.), "the sentence of the pastor is to be feared whether it be just or unjust." Now there would be no reason to fear an unjust excommunication if it did not hurt. Therefore, etc.
 
@@ -96,7 +96,7 @@ I answer that, An excommunication may be unjust for two reasons. First, on the p
 
 But sometimes it happens that there is sufficient cause on the part of the excommunicator, but not on the part of the excommunicated, as when a man is excommunicated for a crime which he has not committed, but which has been proved against him: in this case, if he submit humbly, the merit of his humility will compensate him for the harm of excommunication.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although a man cannot lose God's grace unjustly, yet he can unjustly lose those things which on our part dispose us to receive grace. for instance, a man may be deprived of the instruction which he ought to have. It is in this sense that excommunication is said to deprive a man of God's grace, as was explained above (A[2], ad 3).
 

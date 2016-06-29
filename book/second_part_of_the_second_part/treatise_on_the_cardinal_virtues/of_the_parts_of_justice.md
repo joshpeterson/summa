@@ -5,9 +5,9 @@ We must now consider the parts of justice; (1) the subjective parts, which are t
 (2) Whether in either case the mean is take in the same way?
 (3) Whether their matter is uniform or manifold?
 (4) Whether in any of these species the just is the same as counter-passion?
-## Whether Two Species Of Justice Are Suitably Assigned, Viz. Commutative And Distributive?
+### Whether Two Species Of Justice Are Suitably Assigned, Viz. Commutative And Distributive?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the two species of justice are unsuitably assigned, viz. distributive and commutative. That which is hurtful to the many cannot be a species of justice, since justice is directed to the common good. Now it is hurtful to the common good of the many, if the goods of the community are distributed among many, both because the goods of the community would be exhausted, and because the morals of men would be corrupted. For Tully says (De Offic. ii, 15): "He who receives becomes worse, and the more ready to expect that he will receive again." Therefore distribution does not belong to any species of justice.
 
@@ -19,13 +19,13 @@ Objection 4: Further, "Distributive justice regards common goods" (Ethic. v, 4).
 
 Objection 5: Further, unity or multitude do not change the species of a virtue. Now commutative justice consists in rendering something to one person, while distributive justice consists in giving something to many. Therefore they are not different species of justice.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher assigns two parts to justice and says (Ethic. v, 2) that "one directs distributions, the other, commutations."
 
 I answer that, As stated above ([2885]Q[58], AA[7],8), particular justice is directed to the private individual, who is compared to the community as a part to the whole. Now a twofold order may be considered in relation to a part. In the first place there is the order of one part to another, to which corresponds the order of one private individual to another. This order is directed by commutative justice, which is concerned about the mutual dealings between two persons. In the second place there is the order of the whole towards the parts, to which corresponds the order of that which belongs to the community in relation to each single person. This order is directed by distributive justice, which distributes common goods proportionately. Hence there are two species of justice, distributive and commutative.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as a private individual is praised for moderation in his bounty, and blamed for excess therein, so too ought moderation to be observed in the distribution of common goods, wherein distributive justice directs.
 
@@ -36,9 +36,9 @@ Reply to Objection 3: The act of distributing the goods of the community, belong
 Reply to Objection 4: Movement takes its species from the term "whereunto." Hence it belongs to legal justice to direct to the common good those matters which concern private individuals: whereas on the contrary it belongs to particular justice to direct the common good to particular individuals by way of distribution.
 
 Reply to Objection 5: Distributive and commutative justice differ not only in respect of unity and multitude, but also in respect of different kinds of due: because common property is due to an individual in one way, and his personal property in another way.
-## Whether The Mean Is To Be Observed In The Same Way In Distributive As In Commutative Justice?
+### Whether The Mean Is To Be Observed In The Same Way In Distributive As In Commutative Justice?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the mean in distributive justice is to be observed in the same way as in commutative justice. For each of these is a kind of particular justice, as stated above [2886](A[1]). Now the mean is taken in the same way in all the parts of temperance or fortitude. Therefore the mean should also be observed in the same way in both distributive and commutative justice.
 
@@ -46,7 +46,7 @@ Objection 2: Further, the form of a moral virtue consists in observing the mean 
 
 Objection 3: Further, in order to observe the mean in distributive justice we have to consider the various deserts of persons. Now a person's deserts are considered also in commutative justice, for instance, in punishments; thus a man who strikes a prince is punished more than one who strikes a private individual. Therefore the mean is observed in the same way in both kinds of justice.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. v, 3,4) that the mean in distributive justice is observed according to "geometrical proportion," whereas in commutative justice it follows "arithmetical proportion."
 
@@ -54,16 +54,16 @@ I answer that, As stated above [2887](A[1]), in distributive justice something i
 
 On the other hand in commutations something is paid to an individual on account of something of his that has been received, as may be seen chiefly in selling and buying, where the notion of commutation is found primarily. Hence it is necessary to equalize thing with thing, so that the one person should pay back to the other just so much as he has become richer out of that which belonged to the other. The result of this will be equality according to the "arithmetical mean" which is gauged according to equal excess in quantity. Thus 5 is the mean between 6 and 4, since it exceeds the latter and is exceeded by the former, by 1. Accordingly if, at the start, both persons have 5, and one of them receives 1 out of the other's belongings, the one that is the receiver, will have 6, and the other will be left with 4: and so there will be justice if both be brought back to the mean, 1 being taken from him that has 6, and given to him that has 4, for then both will have 5 which is the mean.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the other moral virtues the rational, not the real mean, is to be followed: but justice follows the real mean; wherefore the mean, in justice, depends on the diversity of things.
 
 Reply to Objection 2: Equality is the general form of justice, wherein distributive and commutative justice agree: but in one we find equality of geometrical proportion, whereas in the other we find equality of arithmetical proportion.
 
 Reply to Objection 3: In actions and passions a person's station affects the quantity of a thing: for it is a greater injury to strike a prince than a private person. Hence in distributive justice a person's station is considered in itself, whereas in commutative justice it is considered in so far as it causes a diversity of things.
-## Whether There Is A Different Matter For Both Kinds Of Justice?
+### Whether There Is A Different Matter For Both Kinds Of Justice?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is not a different matter for both kinds of justice. Diversity of matter causes diversity of virtue, as in the case of fortitude and temperance. Therefore, if distributive and commutative justice have different matters, it would seem that they are not comprised under the same virtue, viz. justice.
 
@@ -71,16 +71,16 @@ Objection 2: Further, the distribution that has to do with distributive justice 
 
 Objection 3: Further, if the matter of distributive justice differs from that of commutative justice, for the reason that they differ specifically, where there is no specific difference, there ought to be no diversity of matter. Now the Philosopher (Ethic. v, 2) reckons commutative justice as one species, and yet this has many kinds of matter. Therefore the matter of these species of justice is, seemingly, not of many kinds.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated in Ethic. v, 2 that "one kind of justice directs distributions, and another commutations."
 
 I answer that, As stated above (Q[51], AA[8],10), justice is about certain external operations, namely distribution and commutation. These consist in the use of certain externals, whether things, persons or even works: of things, as when one man takes from or restores to another that which is his; of persons, as when a man does an injury to the very person of another, for instance by striking or insulting him, or even by showing respect for him; and of works, as when a man justly exacts a work of another, or does a work for him. Accordingly, if we take for the matter of each kind of justice the things themselves of which the operations are the use, the matter of distributive and commutative justice is the same, since things can be distributed out of the common property to individuals, and be the subject of commutation between one person and another; and again there is a certain distribution and payment of laborious works.
 
 If, however, we take for the matter of both kinds of justice the principal actions themselves, whereby we make use of persons, things, and works, there is then a difference of matter between them. For distributive justice directs distributions, while commutative justice directs commutations that can take place between two persons. Of these some are involuntary, some voluntary. They are involuntary when anyone uses another man's chattel, person, or work against his will, and this may be done secretly by fraud, or openly by violence. In either case the offence may be committed against the other man's chattel or person, or against a person connected with him. If the offence is against his chattel and this be taken secretly, it is called "theft," if openly, it is called "robbery." If it be against another man's person, it may affect either the very substance of his person, or his dignity. If it be against the substance of his person, a man is injured secretly if he is treacherously slain, struck or poisoned, and openly, if he is publicly slain, imprisoned, struck or maimed. If it be against his personal dignity, a man is injured secretly by false witness, detractions and so forth, whereby he is deprived of his good name, and openly, by being accused in a court of law, or by public insult. If it be against a personal connection, a man is injured in the person of his wife, secretly (for the most part) by adultery, in the person of his slave, if the latter be induced to leave his master: which things can also be done openly. The same applies to other personal connections, and whatever injury may be committed against the principal, may be committed against them also. Adultery, however, and inducing a slave to leave his master are properly injuries against the person; yet the latter, since a slave is his master's chattel, is referred to theft. Voluntary commutations are when a man voluntarily transfers his chattel to another person. And if he transfer it simply so that the recipient incurs no debt, as in the case of gifts, it is an act, not of justice but of liberality. A voluntary transfer belongs to justice in so far as it includes the notion of debt, and this may occur in many ways. First when one man simply transfers his thing to another in exchange for another thing, as happens in selling and buying. Secondly when a man transfers his thing to another, that the latter may have the use of it with the obligation of returning it to its owner. If he grant the use of a thing gratuitously, it is called "usufruct" in things that bear fruit; and simply "borrowing" on "loan" in things that bear no fruit, such as money, pottery, etc.; but if not even the use is granted gratis, it is called "letting" or "hiring." Thirdly, a man transfers his thing with the intention of recovering it, not for the purpose of its use, but that it may be kept safe, as in a "deposit," or under some obligation, as when a man pledges his property, or when one man stands security for another. In all these actions, whether voluntary or involuntary, the mean is taken in the same way according to the equality of repayment. Hence all these actions belong to the one same species of justice, namely commutative justice. And this suffices for the Replies to the Objections.
-## Whether The Just Is Absolutely The Same As Retaliation?
+### Whether The Just Is Absolutely The Same As Retaliation?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the just is absolutely the same as retaliation. For the judgment of God is absolutely just. Now the judgment of God is such that a man has to suffer in proportion with his deeds, according to Mat. 7:2: "With what measure you judge, you shall be judged: and with what measure you mete, it shall be measured to you again." Therefore the just is absolutely the same as retaliation.
 
@@ -88,7 +88,7 @@ Objection 2: Further, in either kind of justice something is given to someone ac
 
 Objection 3: Further, the chief argument against retaliation is based on the difference between the voluntary and the involuntary; for he who does an injury involuntarily is less severely punished. Now voluntary and involuntary taken in relation to ourselves, do not diversify the mean of justice since this is the real mean and does not depend on us. Therefore it would seem that the just is absolutely the same as retaliation.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher proves (Ethic. v, 5) that the just is not always the same as retaliation.
 
@@ -96,7 +96,7 @@ I answer that, Retaliation [contrapassum] denotes equal passion repaid for previ
 
 In all these cases, however, repayment must be made on a basis of equality according to the requirements of commutative justice, namely that the meed of passion be equal to the action. Now there would not always be equality if passion were in the same species as the action. Because, in the first place, when a person injures the person of one who is greater, the action surpasses any passion of the same species that he might undergo, wherefore he that strikes a prince, is not only struck back, but is much more severely punished. In like manner when a man despoils another of his property against the latter's will, the action surpasses the passion if he be merely deprived of that thing, because the man who caused another's loss, himself would lose nothing, and so he is punished by making restitution several times over, because not only did he injure a private individual, but also the common weal, the security of whose protection he has infringed. Nor again would there be equality of passion in voluntary commutations, were one always to exchange one's chattel for another man's, because it might happen that the other man's chattel is much greater than our own: so that it becomes necessary to equalize passion and action in commutations according to a certain proportionate commensuration, for which purpose money was invented. Hence retaliation is in accordance with commutative justice: but there is no place for it in distributive justice, because in distributive justice we do not consider the equality between thing and thing or between passion and action (whence the expression 'contrapassum'), but according to proportion between things and persons, as stated above [2889](A[2]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This form of the Divine judgment is in accordance with the conditions of commutative justice, in so far as rewards are apportioned to merits, and punishments to sins.
 

@@ -5,9 +5,9 @@ We must now consider war, under which head there are four points of inquiry:
 (2) Whether it is lawful for clerics to fight?
 (3) Whether it is lawful for belligerents to lay ambushes?
 (4) Whether it is lawful to fight on holy days?
-## Whether It Is Always Sinful To Wage War?
+### Whether It Is Always Sinful To Wage War?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is always sinful to wage war. Because punishment is not inflicted except for sin. Now those who wage war are threatened by Our Lord with punishment, according to Mat. 26:52: "All that take the sword shall perish with the sword." Therefore all wars are unlawful.
 
@@ -17,7 +17,7 @@ Objection 3: Further, nothing, except sin, is contrary to an act of virtue. But 
 
 Objection 4: Further, the exercise of a lawful thing is itself lawful, as is evident in scientific exercises. But warlike exercises which take place in tournaments are forbidden by the Church, since those who are slain in these trials are deprived of ecclesiastical burial. Therefore it seems that war is a sin in itself.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says in a sermon on the son of the centurion [*Ep. ad Marcel. cxxxviii]: "If the Christian Religion forbade war altogether, those who sought salutary advice in the Gospel would rather have been counselled to cast aside their arms, and to give up soldiering altogether. On the contrary, they were told: 'Do violence to no man . . . and be content with your pay' [*Lk. 3:14]. If he commanded them to be content with their pay, he did not forbid soldiering."
 
@@ -27,7 +27,7 @@ Secondly, a just cause is required, namely that those who are attacked, should b
 
 Thirdly, it is necessary that the belligerents should have a rightful intention, so that they intend the advancement of good, or the avoidance of evil. Hence Augustine says (De Verb. Dom. [*The words quoted are to be found not in St. Augustine's works, but Can. Apud. Caus. xxiii, qu. 1]): "True religion looks upon as peaceful those wars that are waged not for motives of aggrandizement, or cruelty, but with the object of securing peace, of punishing evil-doers, and of uplifting the good." For it may happen that the war is declared by the legitimate authority, and for a just cause, and yet be rendered unlawful through a wicked intention. Hence Augustine says (Contra Faust. xxii, 74): "The passion for inflicting harm, the cruel thirst for vengeance, an unpacific and relentless spirit, the fever of revolt, the lust of power, and such like things, all these are rightly condemned in war."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (Contra Faust. xxii, 70): "To take the sword is to arm oneself in order to take the life of anyone, without the command or permission of superior or lawful authority." On the other hand, to have recourse to the sword (as a private person) by the authority of the sovereign or judge, or (as a public person) through zeal for justice, and by the authority, so to speak, of God, is not to "take the sword," but to use it as commissioned by another, wherefore it does not deserve punishment. And yet even those who make sinful use of the sword are not always slain with the sword, yet they always perish with their own sword, because, unless they repent, they are punished eternally for their sinful use of the sword.
 
@@ -36,9 +36,9 @@ Reply to Objection 2: Such like precepts, as Augustine observes (De Serm. Dom. i
 Reply to Objection 3: Those who wage war justly aim at peace, and so they are not opposed to peace, except to the evil peace, which Our Lord "came not to send upon earth" (Mat. 10:34). Hence Augustine says (Ep. ad Bonif. clxxxix): "We do not seek peace in order to be at war, but we go to war that we may have peace. Be peaceful, therefore, in warring, so that you may vanquish those whom you war against, and bring them to the prosperity of peace."
 
 Reply to Objection 4: Manly exercises in warlike feats of arms are not all forbidden, but those which are inordinate and perilous, and end in slaying or plundering. In olden times warlike exercises presented no such danger, and hence they were called "exercises of arms" or "bloodless wars," as Jerome states in an epistle [*Reference incorrect: cf. Veget., De Re Milit. i].
-## Whether It Is Lawful For Clerics And Bishops To Fight?
+### Whether It Is Lawful For Clerics And Bishops To Fight?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem lawful for clerics and bishops to fight. For, as stated above [2661](A[1]), wars are lawful and just in so far as they protect the poor and the entire common weal from suffering at the hands of the foe. Now this seems to be above all the duty of prelates, for Gregory says (Hom. in Ev. xiv): "The wolf comes upon the sheep, when any unjust and rapacious man oppresses those who are faithful and humble. But he who was thought to be the shepherd, and was not, leaveth the sheep, end flieth, for he fears lest the wolf hurt him, and dares not stand up against his injustice." Therefore it is lawful for prelates and clerics to fight.
 
@@ -48,7 +48,7 @@ Objection 3: Further, apparently, it comes to the same whether a man does a thin
 
 Objection 4: Further, whatever is right and meritorious in itself, is lawful for prelates and clerics. Now it is sometimes right and meritorious to make war, for it is written (xxiii, qu. 8, can. Omni timore) that if "a man die for the true faith, or to save his country, or in defense of Christians, God will give him a heavenly reward." Therefore it is lawful for bishops and clerics to fight.
 
-### Answer
+**Answer**
 
 On the contrary, It was said to Peter as representing bishops and clerics (Mat. 16:52): "Put up again thy sword into the scabbard [Vulg.: 'its place'] [*"Scabbard" is the reading in Jn. 18:11]." Therefore it is not lawful for them to fight.
 
@@ -56,7 +56,7 @@ I answer that, Several things are requisite for the good of a human society: and
 
 Now warlike pursuits are altogether incompatible with the duties of a bishop and a cleric, for two reasons. The first reason is a general one, because, to wit, warlike pursuits are full of unrest, so that they hinder the mind very much from the contemplation of Divine things, the praise of God, and prayers for the people, which belong to the duties of a cleric. Wherefore just as commercial enterprises are forbidden to clerics, because they unsettle the mind too much, so too are warlike pursuits, according to 2 Tim. 2:4: "No man being a soldier to God, entangleth himself with secular business." The second reason is a special one, because, to wit, all the clerical Orders are directed to the ministry of the altar, on which the Passion of Christ is represented sacramentally, according to 1 Cor. 11:26: "As often as you shall eat this bread, and drink the chalice, you shall show the death of the Lord, until He come." Wherefore it is unbecoming for them to slay or shed blood, and it is more fitting that they should be ready to shed their own blood for Christ, so as to imitate in deed what they portray in their ministry. For this reason it has been decreed that those who shed blood, even without sin, become irregular. Now no man who has a certain duty to perform, can lawfully do that which renders him unfit for that duty. Wherefore it is altogether unlawful for clerics to fight, because war is directed to the shedding of blood.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Prelates ought to withstand not only the wolf who brings spiritual death upon the flock, but also the pillager and the oppressor who work bodily harm; not, however, by having recourse themselves to material arms, but by means of spiritual weapons, according to the saying of the Apostle (2 Cor. 10:4): "The weapons of our warfare are not carnal, but mighty through God." Such are salutary warnings, devout prayers, and, for those who are obstinate, the sentence of excommunication.
 
@@ -65,9 +65,9 @@ Reply to Objection 2: Prelates and clerics may, by the authority of their superi
 Reply to Objection 3: As stated above ([2662]Q[23], A[4], ad 2) every power, art or virtue that regards the end, has to dispose that which is directed to the end. Now, among the faithful, carnal wars should be considered as having for their end the Divine spiritual good to which clerics are deputed. Wherefore it is the duty of clerics to dispose and counsel other men to engage in just wars. For they are forbidden to take up arms, not as though it were a sin, but because such an occupation is unbecoming their personality.
 
 Reply to Objection 4: Although it is meritorious to wage a just war, nevertheless it is rendered unlawful for clerics, by reason of their being deputed to works more meritorious still. Thus the marriage act may be meritorious; and yet it becomes reprehensible in those who have vowed virginity, because they are bound to a yet greater good.
-## Whether It Is Lawful To Lay Ambushes In War?
+### Whether It Is Lawful To Lay Ambushes In War?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is unlawful to lay ambushes in war. For it is written (Dt. 16:20): "Thou shalt follow justly after that which is just." But ambushes, since they are a kind of deception, seem to pertain to injustice. Therefore it is unlawful to lay ambushes even in a just war.
 
@@ -75,7 +75,7 @@ Objection 2: Further, ambushes and deception seem to be opposed to faithfulness 
 
 Objection 3: Further, it is written (Mat. 7:12): "Whatsoever you would that men should do to you, do you also to them": and we ought to observe this in all our dealings with our neighbor. Now our enemy is our neighbor. Therefore, since no man wishes ambushes or deceptions to be prepared for himself, it seems that no one ought to carry on war by laying ambushes.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (QQ. in Hept. qu. x super Jos): "Provided the war be just, it is no concern of justice whether it be carried on openly or by ambushes": and he proves this by the authority of the Lord, Who commanded Joshua to lay ambushes for the city of Hai (Joshua 8:2).
 
@@ -86,9 +86,9 @@ Secondly, a man may be deceived by what we say or do, because we do not declare 
 Nor can these ambushes be properly called deceptions, nor are they contrary to justice or to a well-ordered will. For a man would have an inordinate will if he were unwilling that others should hide anything from him
 
 This suffices for the Replies to the Objections.
-## Whether It Is Lawful To Fight On Holy Days?
+### Whether It Is Lawful To Fight On Holy Days?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful to fight on holy days. For holy days are instituted that we may give our time to the things of God. Hence they are included in the keeping of the Sabbath prescribed Ex. 20:8: for "sabbath" is interpreted "rest." But wars are full of unrest. Therefore by no means is it lawful to fight on holy days.
 
@@ -96,7 +96,7 @@ Objection 2: Further, certain persons are reproached (Is. 58:3) because on fast-
 
 Objection 3: Further, no ill deed should be done to avoid temporal harm. But fighting on a holy day seems in itself to be an ill deed. Therefore no one should fight on a holy day even through the need of avoiding temporal harm.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Mac. 2:41): The Jews rightly determined . . . saying: "Whosoever shall come up against us to fight on the Sabbath-day, we will fight against him."
 

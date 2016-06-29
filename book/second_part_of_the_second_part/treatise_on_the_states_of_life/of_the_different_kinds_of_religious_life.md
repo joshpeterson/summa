@@ -9,9 +9,9 @@ We must now consider the different kinds of religious life, and under this head 
 (6) Whether a religious order that is directed to the contemplative life is more excellent than one that is directed to the active life?
 (7) Whether religious perfection is diminished by possessing something in common?
 (8) Whether the religious life of solitaries is to be preferred to the religious life of those who live in community?
-## Whether There Is Only One Religious Order?
+### Whether There Is Only One Religious Order?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is but one religious order. For there can be no diversity in that which is possessed wholly and perfectly; wherefore there can be only one sovereign good, as stated in the [3811]FP, Q[6] , AA[2],3,4. Now as Gregory says (Hom. xx in Ezech.), "when a man vows to Almighty God all that he has, all his life, all his knowledge, it is a holocaust," without which there is no religious life. Therefore it would seem that there are not many religious orders but only one.
 
@@ -21,7 +21,7 @@ Objection 3: Further, the state of perfection is competent both to religious and
 
 Objection 4: Further, anything that may lead to confusion should be removed from the Church. Now it would seem that a diversity of religious orders might confuse the Christian people, as stated in the Decretal de Statu Monach. et Canon. Reg. [*Cap. Ne Nimia, de Relig. Dom.]. Therefore seemingly there ought not to be different religious orders.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 44:10) that it pertains to the adornment of the queen that she is "surrounded with variety."
 
@@ -29,7 +29,7 @@ I answer that, As stated above (Q[186], A, 7;[3814] Q[187], A[2]), the religious
 
 Since, however, the end imports most in every matter, [*Arist., Topic. vi 8] religious orders differ more especially according to their various ends than according to their various practices.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The obligation to devote oneself wholly to God's service is common to every religious order; hence religious do not differ in this respect, as though in one religious order a person retained some one thing of his own, and in another order some other thing. But the difference is in respect of the different things wherein one may serve God, and whereby a man may dispose himself to the service of God.
 
@@ -38,9 +38,9 @@ Reply to Objection 2: The three essential vows of religion pertain to the practi
 Reply to Objection 3: In matters relating to perfection, the bishop stands in the position of agent, and the religious as passive, as stated above ([3816]Q[184], A[7]). Now the agent, even in natural things, the higher it is, is so much the more one, whereas the things that are passive are various. Hence with reason the episcopal state is one, while religious orders are many.
 
 Reply to Objection 4: Confusion is opposed to distinction and order. Accordingly the multitude of religious orders would lead to confusion, if different religious orders were directed to the same end and in the same way, without necessity or utility. Wherefore to prevent this happening it has been wholesomely forbidden to establish a new religious order without the authority of the Sovereign Pontiff.
-## Whether A Religious Order Should Be Established For The Works Of The Active Life?
+### Whether A Religious Order Should Be Established For The Works Of The Active Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no religious order should be established for the works of the active life. For every religious order belongs to the state of perfection, as stated above ([3817]Q[184], A[5];[3818] Q[186], A[1]). Now the perfection of the religious state consists in the contemplation of divine things. For Dionysius says (Eccl. Hier. vi) that they are "called servants of God by reason of their rendering pure service and subjection to God, and on account of the indivisible and singular life which unites them by holy reflections," i.e. contemplations, "on invisible things, to the Godlike unity and the perfection beloved of God." Therefore seemingly no religious order should be established for the works of the active life.
 
@@ -48,22 +48,22 @@ Objection 2: Further, seemingly the same judgment applies to canons regular as t
 
 Objection 3: Further, the active life is concerned with the present world. Now all religious are said to renounce the world; wherefore Gregory says (Hom. xx in Ezech.): "He who renounces this world, and does all the good he can, is like one who has gone out of Egypt and offers sacrifice in the wilderness." Therefore it would seem that no religious order can be directed to the active life.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (James 1:27): "Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation." Now this belongs to the active life. Therefore religious life can be fittingly directed to the active life.
 
 I answer that, As stated above [3819](A[1]), the religious state is directed to the perfection of charity, which extends to the love of God and of our neighbor. Now the contemplative life which seeks to devote itself to God alone belongs directly to the love of God, while the active life, which ministers to our neighbor's needs, belongs directly to the love of one's neighbor. And just as out of charity we love our neighbor for God's sake, so the services we render our neighbor redound to God, according to Mat. 25:40, "What you have done [Vulg.: 'As long as you did it'] to one of these My least brethren, you did it to Me." Consequently those services which we render our neighbor, in so far as we refer them to God, are described as sacrifices, according to Heb. 13:16, "Do not forget to do good and to impart, for by such sacrifices God's favor is obtained." And since it belongs properly to religion to offer sacrifice to God, as stated above (Q[81], A[1], ad 1; A[4], ad 1), it follows that certain religious orders are fittingly directed to the works of the active life. Wherefore in the Conferences of the Fathers (Coll. xiv, 4) the Abbot Nesteros in distinguishing the various aims of religious orders says: "Some direct their intention exclusively to the hidden life of the desert and purity of heart; some are occupied with the instruction of the brethren and the care of the monasteries; while others delight in the service of the guesthouse," i.e. in hospitality.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Service and subjection rendered to God are not precluded by the works of the active life, whereby a man serves his neighbor for God's sake, as stated in the Article. Nor do these works preclude singularity of life; not that they involve man's living apart from his fellow-men, but in the sense that each man individually devotes himself to things pertaining to the service of God; and since religious occupy themselves with the works of the active life for God's sake, it follows that their action results from their contemplation of divine things. Hence they are not entirely deprived of the fruit of the contemplative life.
 
 Reply to Objection 2: The same judgment applies to monks and to all other religious, as regards things common to all religious orders: for instance as regards their devoting themselves wholly to the divine service, their observance of the essential vows of religion, and their refraining from worldly business. But it does not follow that this likeness extends to other things that are proper to the monastic profession, and are directed especially to the contemplative life. Hence in the aforesaid Decretal, De Postulando, it is not simply stated that "the same judgment applies to canons regular" as "to monks," but that it applies "in matters already mentioned," namely that "they are not to act as advocates in lawsuits." Again the Decretal quoted, De Statu Monach., after the statement that "canons regular are not considered to be separated from the fellowship of monks," goes on to say: "Nevertheless they obey an easier rule." Hence it is evident that they are not bound to all that monks are bound.
 
 Reply to Objection 3: A man may be in the world in two ways: in one way by his bodily presence, in another way by the bent of his mind. Hence our Lord said to His disciples (Jn. 15:19): "I have chosen you out of the world," and yet speaking of them to His Father He said (Jn. 17:11): "These are in the world, and I come to Thee." Although, then, religious who are occupied with the works of the active life are in the world as to the presence of the body, they are not in the world as regards their bent of mind, because they are occupied with external things, not as seeking anything of the world, but merely for the sake of serving God: for "they . . . use this world, as if they used it not," to quote 1 Cor. 7:31. Hence (James 1:27) after it is stated that "religion clean and undefiled . . . is . . . to visit the fatherless and widows in their tribulation," it is added, "and to keep one's self unspotted from this world," namely to avoid being attached to worldly things.
-## Whether A Religious Order Can Be Directed To Soldiering?
+### Whether A Religious Order Can Be Directed To Soldiering?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no religious order can be directed to soldiering. For all religious orders belong to the state of perfection. Now our Lord said with reference to the perfection of Christian life (Mat. 5:39): "I say to you not to resist evil; but if one strike thee on the right cheek, turn to him also the other," which is inconsistent with the duties of a soldier. Therefore no religious order can be established for soldiering.
 
@@ -73,7 +73,7 @@ Objection 3: Further, the religious state is a state of penance, as we have said
 
 Objection 4: Further, no religious order may be established for an unjust object. But as Isidore says (Etym. xviii, 1), "A just war is one that is waged by order of the emperor." Since then religious are private individuals, it would seem unlawful for them to wage war; and consequently no religious order may be established for this purpose.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Ep. clxxxix; ad Bonifac.), "Beware of thinking that none of those can please God who handle war-like weapons. Of such was holy David to whom the Lord gave great testimony." Now religious orders are established in order that men may please God. Therefore nothing hinders the establishing of a religious order for the purpose of soldiering.
 
@@ -81,7 +81,7 @@ I answer that, As stated above [3821](A[2]), a religious order may be establishe
 
 Hence a religious order may be fittingly established for soldiering, not indeed for any worldly purpose, but for the defense of divine worship and public safety, or also of the poor and oppressed, according to Ps. 81:4: "Rescue the poor, and deliver the needy out of the hand of the sinner."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Not to resist evil may be understood in two ways. First, in the sense of forgiving the wrong done to oneself, and thus it may pertain to perfection, when it is expedient to act thus for the spiritual welfare of others. Secondly, in the sense of tolerating patiently the wrongs done to others: and this pertains to imperfection, or even to vice, if one be able to resist the wrongdoer in a becoming manner. Hence Ambrose says (De Offic. i, 27): "The courage whereby a man in battle defends his country against barbarians, or protects the weak at home, or his friends against robbers is full of justice": even so our Lord says in the passage quoted [*Lk. 6:30 "Of him that taketh away thy goods, ask them not again"; Cf. Mat. 5:40], " . . . thy goods, ask them not again." If, however, a man were not to demand the return of that which belongs to another, he would sin if it were his business to do so: for it is praiseworthy to give away one's own, but not another's property. And much less should the things of God be neglected, for as Chrysostom [*Hom. v in Matth. in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says, "it is most wicked to overlook the wrongs done to God."
 
@@ -90,9 +90,9 @@ Reply to Objection 2: It is inconsistent with any religious order to act as coun
 Reply to Objection 3: Worldly soldiering is forbidden to penitents, but the soldiering which is directed to the service of God is imposed as a penance on some people, as in the case of those upon whom it is enjoined to take arms in defense of the Holy Land.
 
 Reply to Objection 4: The establishment of a religious order for the purpose of soldiering does not imply that the religious can wage war on their own authority; but they can do so only on the authority of the sovereign or of the Church.
-## Whether A Religious Order Can Be Established For Preaching Or Hearing Confessions?
+### Whether A Religious Order Can Be Established For Preaching Or Hearing Confessions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no religious order may be established for preaching, or hearing confessions. For it is said (VII, qu. i [*Cap. Hoc nequaquam; Cf.[3822] Q[187], A[1], OBJ[1]]): "The monastic life is one of subjection and discipleship, not of teaching, authority, or pastoral care," and the same apparently applies to religious. Now preaching and hearing confessions are the actions of a pastor and teacher. Therefore a religious order should not be established for this purpose.
 
@@ -104,13 +104,13 @@ Objection 4: Further, preachers have a right to receive their livelihood from th
 
 Objection 5: Further, the organization of the Church should be in accordance with Christ's institution. Now Christ sent first the twelve apostles to preach, as related in Luke 9, and afterwards He sent the seventy-two disciples, as stated in Luke 10. Moreover, according to the gloss of Bede on "And after these things" (Lk. 10:1), "the apostles are represented by the bishops, the seventy-two disciples by the lesser priests," i.e. the parish priests. Therefore in addition to bishops and parish priests, no religious order should be established for the purpose of preaching and hearing confessions.
 
-### Answer
+**Answer**
 
 On the contrary, In the Conferences of the Fathers (Coll. xiv, 4), Abbot Nesteros, speaking of the various kinds of religious orders, says: "Some choosing the care of the sick, others devoting themselves to the relief of the afflicted and oppressed, or applying themselves to teaching, or giving alms to the poor, have been most highly esteemed on account of their devotion and piety." Therefore just as a religious order may be established for the care of the sick, so also may one be established for teaching the people by preaching and like works.
 
 I answer that, As stated above [3824](A[2]), it is fitting for a religious order to be established for the works of the active life, in so far as they are directed to the good of our neighbor, the service of God, and the upkeep of divine worship. Now the good of our neighbor is advanced by things pertaining to the spiritual welfare of the soul rather than by things pertaining to the supplying of bodily needs, in proportion to the excellence of spiritual over corporal things. Hence it was stated above (Q[32], A[3]) that spiritual works of mercy surpass corporal works of mercy. Moreover this is more pertinent to the service of God, to Whom no sacrifice is more acceptable than zeal for souls, as Gregory says (Hom. xii in Ezech.). Furthermore, it is a greater thing to employ spiritual arms in defending the faithful against the errors of heretics and the temptations of the devil, than to protect the faithful by means of bodily weapons. Therefore it is most fitting for a religious order to be established for preaching and similar works pertaining to the salvation of souls.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He who works by virtue of another, acts as an instrument. And a minister is like an "animated instrument," as the Philosopher says (Polit. i, 2 [*Cf. Ethic. viii, 11]). Hence if a man preach or do something similar by the authority of his superiors, he does not rise above the degree of "discipleship" or "subjection," which is competent to religious.
 
@@ -121,9 +121,9 @@ Reply to Objection 3: Bishops do not allow these religious severally and indiscr
 Reply to Objection 4: The faithful are not bound by law to contribute to the support of other than their ordinary prelates, who receive the tithes and offerings of the faithful for that purpose, as well as other ecclesiastical revenues. But if some men are willing to minister to the faithful by exercising the aforesaid acts gratuitously, and without demanding payment as of right, the faithful are not burdened thereby because their temporal contributions can be liberally repaid by those men, nor are they bound by law to contribute, but by charity, and yet not so that they be burdened thereby and others eased, as stated in 2 Cor. 8:13. If, however, none be found to devote themselves gratuitously to services of this kind, the ordinary prelate is bound, if he cannot suffice by himself, to seek other suitable persons and support them himself.
 
 Reply to Objection 5: The seventy-two disciples are represented not only by the parish priests, but by all those of lower order who in any way assist the bishops in their office. For we do not read that our Lord appointed the seventy-two disciples to certain fixed parishes, but that "He sent them two and two before His face into every city and place whither He Himself was to come." It was fitting, however, that in addition to the ordinary prelates others should be chosen for these duties on account of the multitude of the faithful, and the difficulty of finding a sufficient number of persons to be appointed to each locality, just as it was necessary to establish religious orders for military service, on account of the secular princes being unable to cope with unbelievers in certain countries.
-## Whether A Religious Order Should Be Established For The Purpose Of Study?
+### Whether A Religious Order Should Be Established For The Purpose Of Study?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a religious order should not be established for the purpose of study. For it is written (Ps. 70:15,16): "Because I have not known letters [Douay: 'learning'], I will enter into the powers of the Lord," i.e. "Christian virtue," according to a gloss. Now the perfection of Christian virtue, seemingly, pertains especially to religious. Therefore it is not for them to apply themselves to the study of letters.
 
@@ -131,22 +131,22 @@ Objection 2: Further, that which is a source of dissent is unbecoming to religio
 
 Objection 3: Further, those who profess the Christian religion should profess nothing in common with the Gentiles. Now among the Gentiles were some who professed philosophy, and even now some secular persons are known as professors of certain sciences. Therefore the study of letters does not become religious.
 
-### Answer
+**Answer**
 
 On the contrary, Jerome (Ep. liii ad Paulin.) urges him to acquire learning in the monastic state, saying: "Let us learn on earth those things the knowledge of which will remain in heaven," and further on: "Whatever you seek to know, I will endeavor to know with you."
 
 
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This commentary of the gloss is an exposition of the Old Law of which the Apostle says (2 Cor. 3:6): "The letter killeth." Hence not to know letters is to disapprove of the circumcision of the "letter" and other carnal observances.
 
 Reply to Objection 2: Study is directed to knowledge which, without charity, "puffeth up," and consequently leads to dissent, according to Prov. 13:10, "Among the proud there are always dissensions": whereas, with charity, it "edifieth and begets concord." Hence the Apostle after saying (1 Cor. 1:5): "You are made rich . . . in all utterance and in all knowledge," adds (1 Cor. 1:10): "That you all speak the same thing, and that there be no schisms among you." But Jerome is not speaking here of the study of letters, but of the study of dissensions which heretics and schismatics have brought into the Christian religion.
 
 Reply to Objection 3: The philosophers professed the study of letters in the matter of secular learning: whereas it becomes religious to devote themselves chiefly to the study of letters in reference to the doctrine that is "according to godliness" (Titus 1:1). It becomes not religious, whose whole life is devoted to the service of God, to seek for other learning, save in so far as it is referred to the sacred doctrine. Hence Augustine says at the end of De Musica vi, 17: "Whilst we think that we should not overlook those whom heretics delude by the deceitful assurance of reason and knowledge, we are slow to advance in the consideration of their methods. Yet we should not be praised for doing this, were it not that many holy sons of their most loving mother the Catholic Church had done the same under the necessity of confounding heretics."
-## Whether A Religious Order That Is Devoted To The Contemplative Life Is More Excellent Than On That Is Given To The Active Life?
+### Whether A Religious Order That Is Devoted To The Contemplative Life Is More Excellent Than On That Is Given To The Active Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a religious order which is devoted to the contemplative life is not more excellent than one which is given to the active life. For it is said (Extra, de Regular. et Transeunt. ad Relig., cap. Licet), quoting the words of Innocent III: "Even as a greater good is preferred to a lesser, so the common profit takes precedence of private profit: and in this case teaching is rightly preferred to silence, responsibility to contemplation, work to rest." Now the religious order which is directed to the greater good is better. Therefore it would seem that those religious orders that are directed to the active life are more excellent than those which are directed to the contemplative life.
 
@@ -154,7 +154,7 @@ Objection 2: Further, every religious order is directed to the perfection of cha
 
 Objection 3: Further, seemingly the stricter a religious order is, the more excellent it is. But there is no reason why certain religious orders directed to the active life should not be of stricter observance than those directed to the contemplative life. Therefore they are more excellent.
 
-### Answer
+**Answer**
 
 On the contrary, our Lord said (Lk. 10:42) that the "best part" was Mary's, by whom the contemplative life is signified.
 
@@ -164,16 +164,16 @@ Accordingly we must say that the work of the active life is twofold. one proceed
 
 Moreover, in each of these degrees it may be noted that one religious order excels another through being directed to higher action in the same genus; thus among the works of the active life it is better to ransom captives than to receive guests, and among the works of the contemplative life prayer is better than study. Again one will excel another if it be directed to more of these actions than another, or if it have statutes more adapted to the attainment of the end in view.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This Decretal refers to the active life as directed to the salvation of souls.
 
 Reply to Objection 2: Those religious orders that are established for the purpose of military service aim more directly at shedding the enemy's blood than at the shedding of their own, which latter is more properly competent to martyrs. Yet there is no reason why religious of this description should not acquire the merit of martyrdom in certain cases, and in this respect stand higher than other religious; even as in some cases the works of the active life take precedence of contemplation.
 
 Reply to Objection 3: Strictness of observances, as the Blessed Antony remarks (Conferences of the Fathers; Coll. ii, 2), is not the chief object of commendation in a religious order; and it is written (Is. 58:5): "Is this such a fast as I have chosen, for a man to afflict his soul for a day?" Nevertheless it is adopted in religious life as being necessary for taming the flesh, "which if done without discretion, is liable to make us fail altogether," as the Blessed Antony observes. Wherefore a religious order is not more excellent through having stricter observances, but because its observances are directed by greater discretion to the end of religion. Thus the taming of the flesh is more efficaciously directed to continence by means of abstinence in meat and drink, which pertain to hunger and thirst, than by the privation of clothing, which pertains to cold and nakedness, or by bodily labor.
-## Whether Religious Perfection Is Diminished By Possessing Something In Common?
+### Whether Religious Perfection Is Diminished By Possessing Something In Common?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religious perfection is diminished by possessing something in common. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast and give to the poor." Hence it is clear that to lack worldly wealth belongs to the perfection of Christian life. Now those who possess something in common do not lack worldly wealth. Therefore it would seem that they do not quite reach to the perfection of Christian life.
 
@@ -185,7 +185,7 @@ Objection 4: Further, Gregory (Dial. iii, 14) relates of a very holy man named I
 
 Objection 5: Further, our Lord in prescribing religious perfection to His disciples, said (Mat. 10:9,10): "Do not possess gold, nor silver, nor money in your purses, nor script for your journey." By these words, as Jerome says in his commentary, "He reproves those philosophers who are commonly called Bactroperatae [*i.e. staff and scrip bearers], who as despising the world and valuing all things at naught carried their pantry about with them." Therefore it would seem derogatory to religious perfection that one should keep something whether for oneself or for the common use.
 
-### Answer
+**Answer**
 
 On the contrary, Prosper [*Julianus Pomerius, among the works of Prosper] says (De Vita Contempl. ix) and his words are quoted (XII, qu. 1, can. Expedit): "It is sufficiently clear both that for the sake of perfection one should renounce having anything of one's own, and that the possession of revenues, which are of course common property, is no hindrance to the perfection of the Church."
 
@@ -201,7 +201,7 @@ Now it is manifest that a religious order established for the purpose of contemp
 
 Nor should it be argued that Jerome (Super Matth. xvii, 26) says: "If anyone object that Judas carried money in the purse, we answer that He deemed it unlawful to spend the property of the poor on His own uses," namely by paying the tax---because among those poor His disciples held a foremost place, and the money in Christ's purse was spent chiefly on their needs. For it is stated (Jn. 4:8) that "His disciples were gone into the city to buy meats," and (Jn. 13:29) that the disciples "thought, because Judas had the purse, that Jesus had said to him: But those things which we have need of for the festival day, or that he should give something to the poor." From this it is evident that to keep money by, or any other common property for the support of religious of the same order, or of any other poor, is in accordance with the perfection which Christ taught by His example. Moreover, after the resurrection, the disciples from whom all religious orders took their origin kept the price of the lands, and distributed it according as each one had need (Acts 4:34,35).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([3831]Q[184], A[3], ad 1), this saying of our Lord does not mean that poverty itself is perfection, but that it is the means of perfection. Indeed, as shown above ([3832]Q[186], A[8]), it is the least of the three chief means of perfection; since the vow of continence excels the vow of poverty, and the vow of obedience excels them both. Since, however, the means are sought not for their own sake, but for the sake of the end, a thing is better, not for being a greater instrument, but for being more adapted to the end. Thus a physician does not heal the more the more medicine he gives, but the more the medicine is adapted to the disease. Accordingly it does not follow that a religious order is the more perfect, according as the poverty it professes is more perfect, but according as its poverty is more adapted to the end both common and special. Granted even that the religious order which exceeds others in poverty be more perfect in so far as it is poorer, this would not make it more perfect simply. For possibly some other religious order might surpass it in matters relating to continence, or obedience, and thus be more perfect simply, since to excel in better things is to be better simply.
 
@@ -212,9 +212,9 @@ Reply to Objection 3: The saying of Jerome applies where there are excessive ric
 Reply to Objection 4: Isaac refused to accept the offer of possessions, because he feared lest this should lead him to have excessive wealth, the abuse of which would be an obstacle to religious perfection. Hence Gregory adds (Dial. iii, 14): "He was as afraid of forfeiting the security of his poverty, as the rich miser is careful of his perishable wealth." It is not, however, related that he refused to accept such things as are commonly necessary for the upkeep of life.
 
 Reply to Objection 5: The Philosopher says (Polit. i, 5,6) that bread, wine, and the like are natural riches, while money is artificial riches. Hence it is that certain philosophers declined to make use of money, and employed other things, living according to nature. Wherefore Jerome shows by the words of our Lord, Who equally forbade both, that it comes to the same to have money and to possess other things necessary for life. And though our Lord commanded those who were sent to preach not to carry these things on the way, He did not forbid them to be possessed in common. How these words of our Lord should be understood has been shown above (Q[185], A[6] , ad 2; [3833]FS, Q[108], A[2], ad 3).
-## Whether The Religious Life Of Those Who Live In Community Is More Perfect Than That Of Those Who Lead A Solitary Life?
+### Whether The Religious Life Of Those Who Live In Community Is More Perfect Than That Of Those Who Lead A Solitary Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the religious life of those who live in community is more perfect than that of those who lead a solitary life. For it is written (Eccles. 4:9): "It is better . . . that two should be together, than one; for they have the advantage of their society." Therefore the religious life of those who live in community would seem to be more perfect.
 
@@ -226,7 +226,7 @@ Objection 4: Further, our Lord said (Lk. 11:33): "No man lighteth a candle and p
 
 Objection 5: Further, that which is in accord with man's nature is apparently more pertinent to the perfection of virtue. But man is naturally a social animal, as the Philosopher says (Polit. i, 1). Therefore it would seem that to lead a solitary life is not more perfect than to lead a community life.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De oper. Monach. xxiii) that "those are holier who keep themselves aloof from the approach of all, and give their whole mind to a life of prayer."
 
@@ -238,7 +238,7 @@ Now man is assisted in this practice by the fellowship of others in two ways. Fi
 
 Accordingly, just as that which is already perfect surpasses that which is being schooled in perfection, so the life of the solitaries, if duly practiced, surpasses the community life. But if it be undertaken without the aforesaid practice, it is fraught with very great danger, unless the grace of God supply that which others acquire by practice, as in the case of the Blessed Antony and the Blessed Benedict.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Solomon shows that two are better than one, on account of the help which one affords the other either by "lifting him" up, or by "warming him," i.e. giving him spiritual heat (Eccles. 4:10,11). But those who have already attained to perfection do not require this help.
 

@@ -5,9 +5,9 @@ We must now consider those things that are contained in the New Law: under which
 (2) Whether the New Law makes sufficient provision in prescribing and forbidding external acts?
 (3) Whether in the matter of internal acts it directs man sufficiently?
 (4) Whether it fittingly adds counsels to precepts?
-## Whether The New Law Ought To Prescribe Or Prohibit Any External Acts?
+### Whether The New Law Ought To Prescribe Or Prohibit Any External Acts?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the New Law should not prescribe or prohibit any external acts. For the New Law is the Gospel of the kingdom, according to Mat. 24:14: "This Gospel of the kingdom shall be preached in the whole world." But the kingdom of God consists not in exterior, but only in interior acts, according to Lk. 17:21: "The kingdom of God is within you"; and Rom. 14:17: "The kingdom of God is not meat and drink; but justice and peace and joy in the Holy Ghost." Therefore the New Law should not prescribe or forbid any external acts.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the New Law is "the law of the Spirit" (Rom. 8:2). But "wh
 
 Objection 3: Further, all external acts are understood as referable to the hand, just as interior acts belong to the mind. But this is assigned as the difference between the New and Old Laws that the "Old Law restrains the hand, whereas the New Law curbs the will" [*Peter Lombard, Sent. iii, D, 40]. Therefore the New Law should not contain prohibitions and commands about exterior deeds, but only about interior acts.
 
-### Answer
+**Answer**
 
 On the contrary, Through the New Law, men are made "children of light": wherefore it is written (Jn. 12:36): "Believe in the light that you may be the children of light." Now it is becoming that children of the light should do deeds of light and cast aside deeds of darkness, according to Eph. 5:8: "You were heretofore darkness, but now light in the Lord. Walk . . . as children of the light." Therefore the New Law had to forbid certain external acts and prescribe others.
 
@@ -25,16 +25,16 @@ Accordingly external acts may have a twofold connection with grace. In the first
 
 In the second place there are those external acts which ensue from the promptings of grace: and herein we must observe a difference. For there are some which are necessarily in keeping with, or in opposition to inward grace consisting in faith that worketh through love. Such external works are prescribed or forbidden in the New Law; thus confession of faith is prescribed, and denial of faith is forbidden; for it is written (Mat. 10:32,33) "(Every one) that shall confess Me before men, I will also confess him before My Father . . . But he that shall deny Me before men, I will also deny him before My Father." On the other hand, there are works which are not necessarily opposed to, or in keeping with faith that worketh through love. Such works are not prescribed or forbidden in the New Law, by virtue of its primitive institution; but have been left by the Lawgiver, i.e. Christ, to the discretion of each individual. And so to each one it is free to decide what he should do or avoid; and to each superior, to direct his subjects in such matters as regards what they must do or avoid. Wherefore also in this respect the Gospel is called the "law of liberty" [*Cf. Reply OBJ[2]]: since the Old Law decided many points and left few to man to decide as he chose.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The kingdom of God consists chiefly in internal acts: but as a consequence all things that are essential to internal acts belong also to the kingdom of God. Thus if the kingdom of God is internal righteousness, peace, and spiritual joy, all external acts that are incompatible with righteousness, peace, and spiritual joy, are in opposition to the kingdom of God; and consequently should be forbidden in the Gospel of the kingdom. On the other hand, those things that are indifferent as regards the aforesaid, for instance, to eat of this or that food, are not part of the kingdom of God; wherefore the Apostle says before the words quoted: "The kingdom of God is not meat and drink."
 
 Reply to Objection 2: According to the Philosopher (Metaph. i, 2), what is "free is cause of itself." Therefore he acts freely, who acts of his own accord. Now man does of his own accord that which he does from a habit that is suitable to his nature: since a habit inclines one as a second nature. If, however, a habit be in opposition to nature, man would not act according to his nature, but according to some corruption affecting that nature. Since then the grace of the Holy Ghost is like an interior habit bestowed on us and inclining us to act aright, it makes us do freely those things that are becoming to grace, and shun what is opposed to it.
 
 Reply to Objection 3: The New Law, by restraining the mind from inordinate movements, must needs also restrain the hand from inordinate acts, which ensue from inward movements.
-## Whether The New Law Made Sufficient Ordinations About External Acts?
+### Whether The New Law Made Sufficient Ordinations About External Acts?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the New Law made insufficient ordinations about external acts. Because faith that worketh through charity seems chiefly to belong to the New Law, according to Gal. 5:6: "In Christ Jesus neither circumcision availeth anything, nor uncircumcision: but faith that worketh through charity." But the New Law declared explicitly certain points of faith which were not set forth explicitly in the Old Law; for instance, belief in the Trinity. Therefore it should also have added certain outward moral deeds, which were not fixed in the Old Law.
 
@@ -44,7 +44,7 @@ Objection 3: Further, in the Old Law, just as there were certain observances per
 
 Objection 4: Further, in the Old Law, besides moral and ceremonial precepts, there were certain judicial precepts. But in the New Law there are no judicial precepts. Therefore the New Law made insufficient ordinations about external works.
 
-### Answer
+**Answer**
 
 On the contrary, Our Lord said (Mat. 7:24): "Every one . . . that heareth these My words, and doth them, shall be likened to a wise man that built his house upon a rock." But a wise builder leaves out nothing that is necessary to the building. Therefore Christ's words contain all things necessary for man's salvation.
 
@@ -54,7 +54,7 @@ The right use of grace is by means of works of charity. These, in so far as they
 
 Accordingly the New Law had no other external works to determine, by prescribing or forbidding, except the sacraments, and those moral precepts which have a necessary connection with virtue, for instance, that one must not kill, or steal, and so forth.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Matters of faith are above human reason, and so we cannot attain to them except through grace. Consequently, when grace came to be bestowed more abundantly, the result was an increase in the number of explicit points of faith. On the other hand, it is through human reason that we are directed to works of virtue, for it is the rule of human action, as stated above ([2158]Q[19], A[3];[2159] Q[63], A[2]). Wherefore in such matters as these there was no need for any precepts to be given besides the moral precepts of the Law, which proceed from the dictate of reason.
 
@@ -63,9 +63,9 @@ Reply to Objection 2: In the sacraments of the New Law grace is bestowed, which 
 Reply to Objection 3: Our Lord gave the apostles those precepts not as ceremonial observances, but as moral statutes: and they can be understood in two ways. First, following Augustine (De Consensu Evang. 30), as being not commands but permissions. For He permitted them to set forth to preach without scrip or stick, and so on, since they were empowered to accept their livelihood from those to whom they preached: wherefore He goes on to say: "For the laborer is worthy of his hire." Nor is it a sin, but a work of supererogation for a preacher to take means of livelihood with him, without accepting supplies from those to whom he preaches; as Paul did (1 Cor. 9:4, seqq.).
 
 Reply to Objection 4: Judicial precepts also, are not essential to virtue in respect of any particular determination, but only in regard to the common notion of justice. Consequently Our Lord left the judicial precepts to the discretion of those who were to have spiritual or temporal charge of others. But as regards the judicial precepts of the Old Law, some of them He explained, because they were misunderstood by the Pharisees, as we shall state later on (A[3], ad 2).
-## Whether The New Law Directed Man Sufficiently As Regards Interior Actions?
+### Whether The New Law Directed Man Sufficiently As Regards Interior Actions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the New Law directed man insufficiently as regards interior actions. For there are ten commandments of the decalogue directing man to God and his neighbor. But Our Lord partly fulfilled only three of them: as regards, namely, the prohibition of murder, of adultery, and of perjury. Therefore it seems that, by omitting to fulfil the other precepts, He directed man insufficiently.
 
@@ -79,7 +79,7 @@ Objection 5: Further, solicitude for the necessary means of livelihood is by nat
 
 Objection 6: Further, no act of virtue should be the subject of a prohibition. Now judgment is an act of justice, according to Ps. 18:15: "Until justice be turned into judgment." Therefore it seems that Our Lord unbecomingly forbade judgment: and consequently that the New Law directed man insufficiently in the matter of interior acts.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Serm. Dom. in Monte i, 1): We should take note that, when He said: "'He that heareth these My words,' He indicates clearly that this sermon of the Lord is replete with all the precepts whereby a Christian's life is formed."
 
@@ -91,7 +91,7 @@ Afterwards He directs man's interior movement in respect of his neighbor, by for
 
 Lastly, He teaches us how to fulfil the teaching of the Gospel; viz. by imploring the help of God; by striving to enter by the narrow door of perfect virtue; and by being wary lest we be led astray by evil influences. Moreover, He declares that we must observe His commandments, and that it is not enough to make profession of faith, or to work miracles, or merely to hear His words.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord explained the manner of fulfilling those precepts which the Scribes and Pharisees did not rightly understand: and this affected chiefly those precepts of the decalogue. For they thought that the prohibition of adultery and murder covered the external act only, and not the internal desire. And they held this opinion about murder and adultery rather than about theft and false witness, because the movement of anger tending to murder, and the movement of desire tending to adultery, seem to be in us from nature somewhat, but not the desire of stealing or bearing false witness. They held a false opinion about perjury, for they thought that perjury indeed was a sin; but that oaths were of themselves to be desired and to be taken frequently, since they seem to proceed from reverence to God. Hence Our Lord shows that an oath is not desirable as a good thing; and that it is better to speak without oaths, unless necessity forces us to have recourse to them.
 
@@ -104,9 +104,9 @@ Reply to Objection 4: All worldly goods may be reduced to three---honors, riches
 Reply to Objection 5: Our Lord forbade, not necessary, but inordinate solicitude. Now there is a fourfold solicitude to be avoided in temporal matters. First, we must not place our end in them, nor serve God for the sake of the necessities of food and raiment. Wherefore He says: "Lay not up for yourselves," etc. Secondly, we must not be so anxious about temporal things, as to despair of God's help: wherefore Our Lord says (Mat. 6:32): "Your Father knoweth that you have need of all these things." Thirdly, we must not add presumption to our solicitude; in other words, we must not be confident of getting the necessaries of life by our own efforts without God's help: such solicitude Our Lord sets aside by saying that a man cannot add anything to his stature (Mat. 6:27). We must not anticipate the time for anxiety; namely, by being solicitous now, for the needs, not of the present, but of a future time: wherefore He says (Mat. 6:34): "Be not . . . solicitous for tomorrow."
 
 Reply to Objection 6: Our Lord did not forbid the judgment of justice, without which holy things could not be withdrawn from the unworthy. But he forbade inordinate judgment, as stated above.
-## Whether Certain Definite Counsels Are Fittingly Proposed In The New Law?
+### Whether Certain Definite Counsels Are Fittingly Proposed In The New Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that certain definite counsels are not fittingly proposed in the New Law. For counsels are given about that which is expedient for an end, as we stated above, when treating of counsel ([2164]Q[14] , A[2]). But the same things are not expedient for all. Therefore certain definite counsels should not be proposed to all.
 
@@ -116,7 +116,7 @@ Objection 3: Further, counsels pertain to the life of perfection. But obedience 
 
 Objection 4: Further, many matters pertaining to the life of perfection are found among the commandments, as, for instance, "Love your enemies" (Mat. 5:44), and those precepts which Our Lord gave His apostles (Mat. 10). Therefore the counsels are unfittingly given in the New Law: both because they are not all mentioned; and because they are not distinguished from the commandments.
 
-### Answer
+**Answer**
 
 On the contrary, The counsels of a wise friend are of great use, according to Prov. (27:9): "Ointment and perfumes rejoice the heart: and the good counsels of a friend rejoice the soul." But Christ is our wisest and greatest friend. Therefore His counsels are supremely useful and becoming.
 
@@ -128,7 +128,7 @@ Now the goods of this world which come into use in human life, consist in three 
 
 Now if a man observe these absolutely, this is in accordance with the counsels as they stand. But if a man observe any one of them in a particular case, this is taking that counsel in a restricted sense, namely, as applying to that particular case. For instance, when anyone gives an alms to a poor man, not being bound so to do, he follows the counsels in that particular case. In like manner, when a man for some fixed time refrains from carnal pleasures that he may give himself to prayer, he follows the counsel for that particular time. And again, when a man follows not his will as to some deed which he might do lawfully, he follows the counsel in that particular case: for instance, if he do good to his enemies when he is not bound to, or if he forgive an injury of which he might justly seek to be avenged. In this way, too, all particular counsels may be reduced to these three general and perfect counsels.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The aforesaid counsels, considered in themselves, are expedient to all; but owing to some people being ill-disposed, it happens that some of them are inexpedient, because their disposition is not inclined to such things. Hence Our Lord, in proposing the evangelical counsels, always makes mention of man's fitness for observing the counsels. For in giving the counsel of perpetual poverty (Mat. 19:21), He begins with the words: "If thou wilt be perfect," and then He adds: "Go, sell all [Vulg.: 'what'] thou hast." In like manner when He gave the counsel of perpetual chastity, saying (Mat. 19:12): "There are eunuchs who have made themselves eunuchs for the kingdom of heaven," He adds straightway: "He that can take, let him take it." And again, the Apostle (1 Cor. 7:35), after giving the counsel of virginity, says: "And this I speak for your profit; not to cast a snare upon you."
 

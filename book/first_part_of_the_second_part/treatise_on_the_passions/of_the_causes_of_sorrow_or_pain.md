@@ -5,9 +5,9 @@ We must now consider the causes of sorrow: under which head there are four point
 (2) Whether desire is a cause of sorrow?
 (3) Whether the craving for unity is a cause of sorrow?
 (4) Whether an irresistible power is a cause of sorrow?
-## Whether Sorrow Is Caused By The Loss Of Good Or By The Presence Of Evil?
+### Whether Sorrow Is Caused By The Loss Of Good Or By The Presence Of Evil?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sorrow is caused by the loss of a good rather than by the presence of an evil. For Augustine says (De viii QQ. Dulcit. qu. 1) that sorrow is caused by the loss of temporal goods. Therefore, in like manner, every sorrow is caused by the loss of some good.
 
@@ -15,7 +15,7 @@ Objection 2: Further, it was said above ([1311]Q[35], A[4]) that the sorrow whic
 
 Objection 3: Further, according to Augustine (De Civ. Dei xiv, 7,9), love is the cause of sorrow, as of the other emotions of the soul. But the object of love is good. Therefore pain or sorrow is felt for the loss of good rather than for an evil that is present.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. ii, 12) that "the dreaded evil gives rise to fear, the present evil is the cause of sorrow."
 
@@ -25,16 +25,16 @@ Again, since the movement of the animal appetite holds the same place in the act
 
 Accordingly, since, in the movements of the appetite, sorrow is a kind of flight or withdrawal, while pleasure is a kind of pursuit or approach; just as pleasure regards first the good possessed, as its proper object, so sorrow regards the evil that is present. On the other hand love, which is the cause of pleasure and sorrow, regards good rather than evil: and therefore, forasmuch as the object is the cause of a passion, the present evil is more properly the cause of sorrow or pain, than the good which is lost.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The loss itself of good is apprehended as an evil, just as the loss of evil is apprehended as a good: and in this sense Augustine says that pain results from the loss of temporal goods.
 
 Reply to Objection 2: Pleasure and its contrary pain have the same object, but under contrary aspects: because if the presence of a particular thin be the object of pleasure, the absence of that same thing is the object of sorrow. Now one contrary includes the privation of the other, as stated in Metaph. x, 4: and consequently sorrow in respect of one contrary is, in a way, directed to the same thing under a contrary aspect.
 
 Reply to Objection 3: When many movements arise from one cause, it does not follow that they all regard chiefly that which the cause regards chiefly, but only the first of them. And each of the others regards chiefly that which is suitable to it according to its own nature.
-## Whether Desire Is A Cause Of Sorrow?
+### Whether Desire Is A Cause Of Sorrow?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that desire is not a cause of pain or sorrow. Because sorrow of itself regards evil, as stated above [1317](A[1]): whereas desire is a movement of the appetite towards good. Now movement towards one contrary is not a cause of movement towards the other contrary. Therefore desire is not a cause of pain.
 
@@ -42,7 +42,7 @@ Objection 2: Further, pain, according to Damascene (De Fide Orth. ii, 12), is ca
 
 Objection 3: Further, that which is pleasant in itself is not a cause of pain. But desire is pleasant in itself, as the Philosopher says (Rhet. i, 11). Therefore desire is not a cause of pain or sorrow.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Enchiridion xxiv): "When ignorance of things necessary to be done, and desire of things hurtful, found their way in: error and pain stole an entrance in their company." But ignorance is the cause of error. Therefore desire is a cause of sorrow.
 
@@ -50,16 +50,16 @@ I answer that, Sorrow is a movement of the animal appetite. Now, as stated above
 
 Now the cause of the appetitive movement, on the part of the end, is the object of that movement. And thus, it has been said above [1319](A[1]) that the cause of pain or sorrow is a present evil. On the other hand, the cause, by way or principle, of that movement, is the inward inclination of the appetite; which inclination regards, first of all, the good, and in consequence, the rejection of a contrary evil. Hence the first principle of this appetitive movement is love, which is the first inclination of the appetite towards the possession of good: while the second principle is hatred, which is the first inclination of the appetite towards the avoidance of evil. But since concupiscence or desire is the first effect of love, which gives rise to the greatest pleasure, as stated above (Q[32], A[6]); hence it is that Augustine often speaks of desire or concupiscence in the sense of love, as was also stated (Q[30], A[2], ad 2): and in this sense he says that desire is the universal cause of sorrow. Sometimes, however, desire taken in its proper sense, is the cause of sorrow. Because whatever hinders a movement from reaching its end is contrary to that movement. Now that which is contrary to the movement of the appetite, is a cause of sorrow. Consequently, desire becomes a cause of sorrow, in so far as we sorrow for the delay of a desired good, or for its entire removal. But it cannot be a universal cause of sorrow: since we sorrow more for the loss of present good, in which we have already taken pleasure, than for the withdrawal of future good which we desire to have.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The inclination of the appetite to the possession of good causes the inclination of the appetite to fly from evil, as stated above. And hence it is that the appetitive movements that regard good, are reckoned as causing the appetitive movements that regard evil.
 
 Reply to Objection 2: That which is desired, though really future, is, nevertheless, in a way, present, inasmuch as it is hoped for. Or we may say that although the desired good itself is future, yet the hindrance is reckoned as present, and so gives rise to sorrow.
 
 Reply to Objection 3: Desire gives pleasure, so long as there is hope of obtaining that which is desired. But, when hope is removed through the presence of an obstacle, desire causes sorrow.
-## Whether The Craving For Unity Is A Cause Of Sorrow?
+### Whether The Craving For Unity Is A Cause Of Sorrow?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the craving for unity is not a cause of sorrow. For the Philosopher says (Ethic. x, 3) that "this opinion," which held repletion to be the cause of pleasure, and division [*Aristotle wrote {endeian}, 'want'; St. Thomas, in the Latin version, read 'incisionem'; should he have read 'indigentiam'?], the cause of sorrow, "seems to have originated in pains and pleasures connected with food." But not every pleasure or sorrow is of this kind. Therefore the craving for unity is not the universal cause of sorrow; since repletion pertains to unity, and division is the cause of multitude.
 
@@ -67,22 +67,22 @@ Objection 2: Further, every separation is opposed to unity. If therefore sorrow 
 
 Objection 3: Further, for the same reason we desire the conjunction of good and the removal of evil. But as conjunction regards unity, since it is a kind of union; so separation is contrary to unity. Therefore the craving for unity should not be reckoned, rather than the craving for separation, as causing sorrow.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Lib. Arb. iii, 23), that "from the pain that dumb animals feel, it is quite evident how their souls desire unity, in ruling and quickening their bodies. For what else is pain but a feeling of impatience of division or corruption?"
 
 I answer that, Forasmuch as the desire or craving for good is reckoned as a cause of sorrow, so must a craving for unity, and love, be accounted as causing sorrow. Because the good of each thing consists in a certain unity, inasmuch as each thing has, united in itself, the elements of which its perfection consists: wherefore the Platonists held that "one" is a principle, just as "good" is. Hence everything naturally desires unity, just as it desires goodness: and therefore, just as love or desire for good is a cause of sorrow, so also is the love or craving for unity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Not every kind of union causes perfect goodness, but only that on which the perfect being of a thing depends. Hence neither does the desire of any kind of unity cause pain or sorrow, as some have maintained: whose opinion is refuted by the Philosopher from the fact that repletion is not always pleasant; for instance, when a man has eaten to repletion, he takes no further pleasure in eating; because repletion or union of this kind, is repugnant rather than conducive to perfect being. Consequently sorrow is caused by the craving, not for any kind of unity, but for that unity in which the perfection of nature consists.
 
 Reply to Objection 2: Separation can be pleasant, either because it removes something contrary to a thing's perfection, or because it has some union connected with it, such as union of the sense to its object.
 
 Reply to Objection 3: Separation from things hurtful and corruptive is desired, in so far as they destroy the unity which is due. Wherefore the desire for such like separation is not the first cause of sorrow, whereas the craving for unity is.
-## Whether An Irresistible Power Is A Cause Of Sorrow?
+### Whether An Irresistible Power Is A Cause Of Sorrow?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a greater power should not be reckoned a cause of sorrow. For that which is in the power of the agent is not present but future. But sorrow is for present evil. Therefore a greater power is not a cause of sorrow.
 
@@ -90,7 +90,7 @@ Objection 2: Further, hurt inflicted is the cause of sorrow. But hurt can be inf
 
 Objection 3: Further, the interior inclinations of the soul are the causes of the movements of appetite. But a greater power is something external. Therefore it should not be reckoned as a cause of sorrow.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Nat. Boni xx): "Sorrow in the soul is caused by the will resisting a stronger power: while pain in the body is caused by sense resisting a stronger body."
 
@@ -100,7 +100,7 @@ But it must be noted that if the stronger power goes so far as to transform the 
 
 Accordingly if some greater power prevail so far as to take away from the will or the sensitive appetite, their respective inclinations, pain or sorrow will not result therefrom; such is the result only when the contrary inclination of the appetite remains. And hence Augustine says (De Nat. Boni xx) that sorrow is caused by the will "resisting a stronger power": for were it not to resist, but to yield by consenting, the result would be not sorrow but pleasure.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A greater power causes sorrow, as acting not potentially but actually, i.e. by causing the actual presence of the corruptive evil.
 

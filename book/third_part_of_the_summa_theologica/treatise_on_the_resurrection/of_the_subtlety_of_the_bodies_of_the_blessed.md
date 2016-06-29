@@ -7,9 +7,9 @@ We must now consider the subtlety of the bodies of the blessed. Under this head 
 (4) Whether a glorified body can be in the same place with another glorified body?
 (5) Whether a glorified body necessarily requires a place equal to itself?
 (6) Whether a glorified body is palpable?
-## Whether Subtlety Is A Property Of The Glorified Body?
+### Whether Subtlety Is A Property Of The Glorified Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that subtlety is not a property of the glorified body. For the properties of glory surpass the properties of nature, even as the clarity of glory surpasses the clarity of the sun, which is the greatest in nature. Accordingly if subtlety be a property of the glorified body, it would seem that the glorified body will be more subtle than anything which is subtle in nature, and thus it will be "more subtle than the wind and the air," which was condemned by Gregory in the city of Constantinople, as he relates (Moral. xiv, 56).
 
@@ -17,7 +17,7 @@ Objection 2: Further, as heat and cold are simple qualities of bodies, i.e. of t
 
 Objection 3: Further, subtlety is in bodies as a result of scarcity of matter, wherefore bodies that have less matter within equal dimensions are said to be more subtle; as fire in comparison with air, and air as compared with water, and water as compared with earth. But there will be as much matter in the glorified bodies as there is now, nor will their dimensions be greater. Therefore they will not be more subtle then than now.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Cor. 15:44): "It is sown a corruptible body, it shall rise a spiritual," i.e. a spirit-like, "body." But the subtlety of a spirit surpasses all bodily subtlety. Therefore the glorified bodies will be most subtle.
 
@@ -32,9 +32,9 @@ Consequently another kind of subtlety must be assigned to glorified bodies, by s
 Hence others say that the aforesaid completeness by reason of which human bodies are said to be subtle will result from the dominion of the glorified soul (which is the form of the body) over the body, by reason of which dominion the glorified body is said to be "spiritual," as being wholly subject to the spirit. The first subjection whereby the body is subject to the soul is to the effect of its participating in its specific being, in so far as it is subject to the soul as matter to form; and secondly it is subject to the soul in respect of the other operations of the soul, in so far as the soul is a principle of movement. Consequently the first reason for spirituality in the body is subtlety, and, after that, agility and the other properties of a glorified body. Hence the Apostle, as the masters expound, in speaking of spirituality indicates subtlety: wherefore Gregory says (Moral. xiv, 56) that "the glorified body is said to be subtle as a result of a spiritual power."
 
 This suffices for the Replies to the Objections which refer to the subtlety of rarefaction.
-## Whether By Reason Of This Subtlety A Glorified Body Is Able To Be In The Same Place With Another Body Not Glorified?
+### Whether By Reason Of This Subtlety A Glorified Body Is Able To Be In The Same Place With Another Body Not Glorified?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that by reason of this subtlety a body is able to be in the same place with another body not glorified. For according to Phil. 3:21, "He will reform the body of our lowness made like to the body of His glory." Now the body of Christ was able to be in the same place with another body, as appears from the fact that after His Resurrection He went in to His disciples, the doors being shut (Jn. 20:19, 26). Therefore also the glorified bodies by reason of their subtlety will be able to be in the same place with other bodies not glorified.
 
@@ -46,7 +46,7 @@ Objection 4: Further, a body which is unable to be in the same place with anothe
 
 Objection 5: Further, as point is to point, so is line to line, surface to surface, and body to body. Now two points can be coincident, as in the case of two lines touching one another, and two lines when two surfaces are in contact with one another, and two surfaces when two bodies touch one another, because "contiguous things are those whose boundaries coincide" (Phys. vi, 6). Therefore it is not against the nature of a body to be in the same place together with another body. Now whatever excellence is competent to the nature of a body will all be bestowed on the glorified body. Therefore a glorified body, by reason of its subtlety, will be able to be in the same place together with another body.
 
-### Answer
+**Answer**
 
 On the contrary, Boethius says (De Trin. i): "Difference of accidents makes distinction in number. For three men differ not in genus, nor in species, but in their accidents. If we were to remove absolutely every accident from them, still each one has a different place; and it is quite conceivable that they should all occupy the same place." Therefore if we suppose two bodies to occupy the same place, there will be but one body numerically.
 
@@ -54,7 +54,7 @@ I answer that, It cannot be maintained that a glorified body, by reason of its s
 
 Accordingly we must say that the obstacle to our body's being now in the same place with another body can nowise be removed by the gift of subtlety. For nothing can prevent a body from occupying the same place together with another body, except something in it that requires a different place: since nothing is an obstacle to identity, save that which is a cause of distinction. Now this distinction of place is not required by any quality of the body, because a body demands a place, not by reason of its quality: wherefore if we remove from a body the fact of its being hot or cold, heavy or light, it still retains the necessity of the aforesaid distinction, as the Philosopher proves (Phys. iv), and as is self-evident. In like manner neither can matter cause the necessity of the aforesaid distinction, because matter does not occupy a place except through its dimensive quantity. Again neither does form occupy a place, unless it have a place through its matter. It remains therefore that the necessity for two bodies occupying each a distinct place results from the nature of dimensive quantity, to which a place is essentially befitting. For this forms part of its definition, since dimensive quantity is quantity occupying a place. Hence it is that if we remove all else in a thing from it, the necessity of this distinction is found in its dimensive quantity alone. Thus take the example of a separate line, supposing there to be two such lines, or two parts of one line, they must needs occupy distinct places, else one line added to another would not make something greater, and this is against common sense. The same applies to surfaces and mathematical bodies. And since matter demands place, through being the subject of dimension, the aforesaid necessity results in placed matter, so that just as it is impossible for there to be two lines, or two parts of a line, unless they occupy distinct places, so is it impossible for there to be two matters, or two parts of matter, without there be distinction of place. And since distinction of matter is the principle of the distinction between individuals, it follows that, as Boethius says (De Trin.), "we cannot possibly conceive two bodies occupying one place," so that this distinction of individuals requires this difference of accidents. Now subtlety does not deprive the glorified body of its dimension; wherefore it nowise removes from it the aforesaid necessity of occupying a distinct place from another body. Therefore the subtlety of a glorified body will not enable it to be in the same place together with another body, but it will be possible for it to be together with another body by the operation of the Divine power: even as the body of Peter had the power whereby the sick were healed at the passing of Peter's shadow (Acts 5:15) not through any inherent property, but by the power of God for the upbuilding of the faith. Thus will the Divine power make it possible for a glorified body to be in the same place together with another body for the perfection of glory.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That Christ's body was able to be together with another body in the same place was not due to its subtlety, but resulted from the power of His Godhead after His resurrection, even as in His birth [*Cf. [5083]TP, Q[28], A[2], ad 3]. Hence Gregory says (Hom. xxvi in Evang.): "The same body went into His disciples the doors being shut, which to human eyes came from the closed womb of the Virgin at His birth." Therefore there is no reason why this should be befitting to glorified bodies on account of their subtlety.
 
@@ -65,9 +65,9 @@ Reply to Objection 3: The glorified body will pass through the heavenly spheres 
 Reply to Objection 4: From the fact that God will come to the aid of the blessed at will in whatever they desire, it follows that they cannot be surrounded or imprisoned.
 
 Reply to Objection 5: As stated in Phys. iv, 5, "a point is not in a place": hence if it be said to be in a place, this is only accidental, because the body of which it is a term is in a place. And just as the whole place corresponds to the whole body, so the term of the place corresponds to the term of the body. But it happens that two places have one term, even as two lines terminate in one point. And consequently though two bodies must needs be in distinct places, yet the same term of two places corresponds to the two terms of the two bodies. It is in this sense that the bounds of contiguous bodies are said to coincide.
-## Whether It Is Possible, By A Miracle, For Two Bodies To Be In The Same Place?
+### Whether It Is Possible, By A Miracle, For Two Bodies To Be In The Same Place?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that not even by a miracle is it possible for two bodies to be in the same place. For it is not possible that, by a miracle, two bodies be at once two and one, since this would imply that contradictions are true at the same time. But if we suppose two bodies to be in the same place, it would follow that those two bodies are one. Therefore this cannot be done by a miracle. The minor is proved thus. Suppose two bodies A and B to be in the same place. The dimensions of A will either be the same as the dimensions of the place, or they will differ from them. If they differ, then some of the dimensions will be separate: which is impossible, since the dimensions that are within the bounds of a place are not in a subject unless they be in a placed body. If they be the same, then for the same reason the dimensions of B will be the same as the dimensions of the place. "Now things that are the same with one and the same thing are the same with one another." Therefore the dimensions of A and B are the same. But two bodies cannot have identical dimensions just as they cannot have the same whiteness. Therefore A and B are one body and yet they were two. Therefore they are at the same time one and two.
 
@@ -77,13 +77,13 @@ Objection 3: Further, it would seem impossible that by a miracle a body which is
 
 Objection 4: Further, place corresponds in proportion to the thing placed. Now it can never happen by a miracle that the same body is at the same time in different places, except by some kind of transformation, as in the Sacrament of the Altar. Therefore it can nowise happen by a miracle that two bodies be together in the same place.
 
-### Answer
+**Answer**
 
 On the contrary, The Blessed Virgin gave birth to her Son by a miracle. Now in this hallowed birth it was necessary for two bodies to be together in the same place, because the body of her child when coming forth did not break through the enclosure of her virginal purity. Therefore it is possible for two bodies to be miraculously together in the same place.
 
 I answer that, As shown above [5085](A[2]) the reason why two bodies must needs be in two places is that distinction in matter requires distinction in place. Wherefore we observe that when two bodies merge into one, each loses its distinct being, and one indistinct being accrues to the two combined, as in the case of mixtures. Hence it is impossible for two bodies to remain two and yet be together unless each retain its distinct being which it had hitherto, in so much as each of them was a being undivided in itself and distinct from others. Now this distinct being depends on the essential principles of a thing as on its proximate causes, but on God as on the first cause. And since the first cause can preserve a thing in being, though the second causes be done away, as appears from the first proposition of De Causis, therefore by God's power and by that alone it is possible for an accident to be without substance as in the Sacrament of the Altar. Likewise by the power of God, and by that alone, it is possible for a body to retain its distinct being from that of another body, although its matter be not distinct as to place from the matter of the other body: and thus it is possible by a miracle for two bodies to be together in the same place.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is sophistical because it is based on a false supposition, or begs the question. For it supposes the existence, between two opposite superficies of a place, of a dimension proper to the place, with which dimension a dimension of the body put in occupation of the place would have to be identified: because it would then follow that the dimensions of two bodies occupying a place would become one dimension, if each of them were identified with the dimension of the place. But this supposition is false, because if it were true whenever a body acquires a new place, it would follow that a change takes place in the dimensions of the place or of thing placed: since it is impossible for two things to become one anew, except one of them be changed. Whereas if, as is the case in truth, no other dimensions belong to a place than those of the thing occupying the place, it is clear that the argument proves nothing, but begs the question, because according to this nothing else has been said, but that the dimensions of a thing placed are the same as the dimensions of the place; excepting that the dimensions of the thing placed are contained within the bounds of the place, and that the distance between the bounds of a place is commensurate with the distance between the bounds of the thing placed, just as the former would be distant by their own dimensions if they had them. Thus that the dimensions of two bodies be the dimensions of one place is nothing else than that two bodies be in the same place, which is the chief question at issue.
 
@@ -92,9 +92,9 @@ Reply to Objection 2: Granted that by a miracle two bodies be together in the sa
 Reply to Objection 3: God could make a body not to be in a place; and yet supposing this, it would not follow that a certain body is not in a place, because the greater body is the place of the lesser body, by reason of its superficies which is described by contact with the terms of the lesser body.
 
 Reply to Objection 4: It is impossible for one body to be miraculously in two places locally (for Christ's body is not locally on the altar), although it is possible by a miracle for two bodies to be in the same place. Because to be in several places at once is incompatible with the individual, by reason of its having being undivided in itself, for it would follow that it is divided as to place. on the other hand, to be in the same place with another body is incompatible with the individual as distinct from aught else. Now the nature of unity is perfected in indivision (Metaph. v), whereas distinction from others is a result of the nature of unity. Wherefore that one same body be locally in several places at once implies a contradiction, even as for a man to lack reason, while for two bodies to be in the same place does not imply a contradiction, as explained above. Hence the comparison fails.
-## Whether One Glorified Body Can Be In The Same Place Together With Another Glorified Body?
+### Whether One Glorified Body Can Be In The Same Place Together With Another Glorified Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a glorified body can be in the same place together with another glorified body. Because where there is greater subtlety there is less resistance. If then a glorified body is more subtle than a non-glorified body, it will offer less resistance to a glorified body: and so if a glorified body can be in the same place with a non-glorified body, much more can it with a glorified body.
 
@@ -102,20 +102,20 @@ Objection 2: Further, even as a glorified body will be more subtle than a non-gl
 
 Objection 3: Further, the body of heaven is subtle, and will then be glorified. Now the glorified body of a saint will be able to be in the same place with the body of heaven, since the saints will be able at will to travel to and from earth. Therefore two glorified bodies will be able to occupy the same place.
 
-### Answer
+**Answer**
 
 On the contrary, The glorified bodies will be spiritual, that is like spirits in a certain respect. Now two spirits cannot be in the same place, although a body and a spirit can be in the same place, as stated above (Sent. i, D, 37, Q[3], A[3]; [5087]FP, Q[52], A[3]). Therefore neither will two glorified bodies be able to be in the same place.
 
 I answer that, The property of a glorified body does not make it able to be in the same place with another glorified body, nor again to be in the same place with a non-glorified body. But it would be possible by the Divine power for two glorified bodies or two non-glorified bodies to be in the same place, even as a glorified body with a non-glorified body. Nevertheless it is not befitting for a glorified body to be in the same place with another glorified body, both because a becoming order will be observed in them, which demands distinction, and because one glorified body will not be in the way of another. Consequently two glorified bodies will never be in the same place.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument supposes that a glorified body is able by reason of its subtlety to be in the same place with another body: and this is not true.
 
 Reply to Objection 3: The body of heaven and the other bodies will be said equivocally to be glorified, in so far as they will have a certain share in glory, and not as though it were becoming for them to have the gifts of glorified human bodies.
-## Whether By Virtue Of Its Subtlety A Glorified Body Will No Longer Need To Be In An Equal Place?
+### Whether By Virtue Of Its Subtlety A Glorified Body Will No Longer Need To Be In An Equal Place?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that by virtue of its subtlety, a glorified body will no longer need to be in an equal place. For the glorified bodies will be made like to the body of Christ according to Phil. 3:21. Now Christ's body is not bound by this necessity of being in an equal place: wherefore it is contained whole under the small or great dimensions of a consecrated host. Therefore the same will be true of the glorified bodies.
 
@@ -123,22 +123,22 @@ Objection 2: Further, the Philosopher proves (Phys. iv, 6), that two bodies are 
 
 Objection 3: Further, even as a body is seen by reason of its color, so is it measured by reason of its quantity. Now the glorified body will be so subject to the spirit that it will be able at will to be seen, and not seen, especially by a non-glorified eye, as evidenced in the case of Christ. Therefore its quantity will be so subject to the spirit's will that it will be able to be in a little or great place, and to have a little or great quantity at will.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Phys. iv, text. 30) that "whatever is in a place occupies a place equal to itself." Now the glorified body will be in a place. Therefore it will occupy a place equal to itself.
 
 I answer that, A body is not related to place save through the medium of its proper dimensions, in respect of which a located body is confined through contact with the locating body. Hence it is not possible for a body to occupy a place smaller than its quantity, unless its proper quantity be made in some way less than itself: and this can only be understood in two ways. First, by a variation in quantity in respect of the same matter, so that in fact the matter which at first is subject to a greater quantity is afterwards subject to a lesser. Some have held this to be the case with the glorified bodies, saying that quantity is subject to them at will, so that when they list, they are able to have a great quantity, and when they list a small quantity. But this is impossible, because no movement affecting that which is intrinsic to a thing is possible without passion to the detriment [*Cf. [5088]FS, Q[22], A[1]; [5089]FS, Q[41], A[1]] of its substance. Hence in incorruptible, i.e. heavenly, bodies, there is only local movement, which is not according to something intrinsic. Thus it is clear that change of quantity in respect of matter would be incompatible with the impassibility and incorruptibility of a glorified body. Moreover, it would follow that a glorified body would be sometimes rarer and sometimes denser, because since it cannot be deprived of any of its matter, sometimes the same matter would be under great dimensions and sometimes under small dimensions, and thus it would be rarefied and densified, which is impossible. Secondly, that the quantity of a glorified body become smaller than itself may be understood by a variation of place; so, to wit, that the parts of a glorified body insinuate themselves into one another, so that it is reduced in quantity however small it may become. And some have held this to be the case, saying that by reason of its subtlety a glorified body will be able to be in the same place with a non-glorified body: and that in like manner its parts can be one within the other, so much so that a whole glorified body will be able to pass through the minutest opening in another body: and thus they explain how Christ's body came out of the Virgin's womb; and how it went into His disciples, the doors being shut. But this is impossible; both because the glorified body will not be able, by reason of its subtlety, to be in the same place with another body, and because, even if it were able to be in the same place with another body, this would not be possible if the other were a glorified body, as many say; and again because this would be inconsistent with the right disposition of the human body, which requires the parts to be in a certain fixed place and at a certain fixed distance from one another. Wherefore this will never happen, not even by a miracle. Consequently we must say that the glorified body will always be in a place equal to itself.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ's body is not locally in the Sacrament of the Altar, as stated above (Sent. iv, D, 10, Q[1], A[1], ad 5; [5090]TP, Q[77], A[5]).
 
 Reply to Objection 2: The Philosopher's argument is that for the same reason one part might permeate another. But this permeation of the parts of a glorified body into one another is impossible, as stated above. Therefore the objection does not prove.
 
 Reply to Objection 3: A body is seen because it acts on the sight: but that it does or does not act on the sight causes no change in the body. Hence it is not unfitting, if it can be seen when it will, and not seen when it will [*Cf. [5091]TP, Q[55], A[4]]. On the other hand, being in a place is not an action proceeding from a body by reason of its quantity, as being seen is by reason of its color. Consequently the comparison fails.
-## Whether The Glorified Body, By Reason Of Its Subtlety, Will Be Impalpable?
+### Whether The Glorified Body, By Reason Of Its Subtlety, Will Be Impalpable?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the glorified body, by reason of its subtlety, is impalpable. For Gregory says (Hom. xxv in Evang.): "What is palpable must needs be corruptible." But the glorified body is incorruptible. Therefore it is impalpable.
 
@@ -146,13 +146,13 @@ Objection 2: Further, whatever is palpable resists one who handles it. But that 
 
 Objection 3: Further, every palpable body is tangible. Now every tangible body has tangible qualities in excess of the qualities of the one touching it. Since then in the glorified bodies the tangible qualities are not in excess but are reduced to a supreme degree of equality, it would seem that they are impalpable.
 
-### Answer
+**Answer**
 
 On the contrary, our Lord rose again with a glorified body; and yet His body was palpable, as appears from Lk. 24:39: "Handle, and see; for a spirit hath not flesh and bones." Therefore the glorified bodies also will be palpable.
 
 I answer that, Every palpable body is tangible, but not conversely. For every body is tangible that has qualities whereby the sense of touch has a natural aptitude to be affected: wherefore air, fire, and the like are tangible bodies: but a palpable body, in addition to this, resists the touch; wherefore the air which never resists that which passes through it, and is most easily pierced, is tangible indeed but not palpable. Accordingly it is clear that a body is said to be palpable for two reasons, namely on account of its tangible qualities, and on account of its resisting that which touches it, so as to hinder it from piercing it. And since the tangible qualities are hot and cold and so forth, which are not found save in heavy and light bodies, which through being contrary to one another are therefore corruptible, it follows that the heavenly bodies, which by their nature are incorruptible, are sensible to the sight but not tangible, and therefore neither are they palpable. This is what Gregory means when he says (Hom. xxv in Evang.) that "whatever is palpable must needs be corruptible." Accordingly the glorified body has by its nature those qualities which have a natural aptitude to affect the touch, and yet since the body is altogether subject to the spirit, it is in its power thereby to affect or not to affect the touch. In like manner it is competent by its nature to resist any other passing body, so that the latter cannot be in the same place together with it: although, according to its pleasure, it may happen by the Divine power that it occupy the same place with another body, and thus offer no resistance to a passing body. Wherefore according to its nature the glorified body is palpable, but it is competent for it to be impalpable to a non-glorified body by a supernatural power. Hence Gregory says (Hom. xxv in Evang.) that "our Lord offered His flesh to be handled, which He had brought in through the closed doors, so as to afford a complete proof that after His resurrection His body was unchanged in nature though changed in glory."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The incorruptibility of a glorified body does not result from the nature of its component parts; and it is on account of that nature that whatever is palpable is corruptible, as stated above. Hence the argument does not prove.
 

@@ -3,9 +3,9 @@
 We must now consider those gratuitous graces that pertain to speech, and (1) the grace of tongues; (2) the grace of the word of wisdom and knowledge. Under the first head there are two points of inquiry:
 (1) Whether by the grace of tongues a man acquires the knowledge of all languages?
 (2) Of the comparison between this gift and the grace of prophecy.
-## Whether Those Who Received The Gift Of Tongues Spoke In Every Language?
+### Whether Those Who Received The Gift Of Tongues Spoke In Every Language?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that those who received the gift of tongues did not speak in every language. For that which is granted to certain persons by the divine power is the best of its kind: thus our Lord turned the water into good wine, as stated in Jn. 2:10. Now those who had the gift of tongues spoke better in their own language; since a gloss on Heb. 1, says that "it is not surprising that the epistle to the Hebrews is more graceful in style than the other epistles, since it is natural for a man to have more command over his own than over a strange language. For the Apostle wrote the other epistles in a foreign, namely the Greek, idiom; whereas he wrote this in the Hebrew tongue." Therefore the apostles did not receive the knowledge of all languages by a gratuitous grace.
 
@@ -13,22 +13,22 @@ Objection 2: Further, nature does not employ many means where one is sufficient;
 
 Objection 3: Further, all graces flow from Christ to His body, which is the Church, according to Jn. 1:16, "Of His fullness we all have received." Now we do not read that Christ spoke more than one language, nor does each one of the faithful now speak save in one tongue. Therefore it would seem that Christ's disciples did not receive the grace to the extent of speaking in all languages.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Acts 2:4) that "they were all filled with the Holy Ghost, and they began to speak with divers tongues, according as the Holy Ghost gave them to speak"; on which passage a gloss of Gregory [*Hom. xxx in Ev.] says that "the Holy Ghost appeared over the disciples under the form of fiery tongues, and gave them the knowledge of all tongues."
 
 I answer that, Christ's first disciples were chosen by Him in order that they might disperse throughout the whole world, and preach His faith everywhere, according to Mat. 28:19, "Going . . . teach ye all nations." Now it was not fitting that they who were being sent to teach others should need to be taught by others, either as to how they should speak to other people, or as to how they were to understand those who spoke to them; and all the more seeing that those who were being sent were of one nation, that of Judea, according to Is. 27:6, "When they shall rush out from Jacob [*Vulg.: 'When they shall rush in unto Jacob,' etc.] . . . they shall fill the face of the world with seed." Moreover those who were being sent were poor and powerless; nor at the outset could they have easily found someone to interpret their words faithfully to others, or to explain what others said to them, especially as they were sent to unbelievers. Consequently it was necessary, in this respect, that God should provide them with the gift of tongues; in order that, as the diversity of tongues was brought upon the nations when they fell away to idolatry, according to Gn. 11, so when the nations were to be recalled to the worship of one God a remedy to this diversity might be applied by the gift of tongues.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As it is written (1 Cor. 12:7), "the manifestation of the Spirit is given to every man unto profit"; and consequently both Paul and the other apostles were divinely instructed in the languages of all nations sufficiently for the requirements of the teaching of the faith. But as regards the grace and elegance of style which human art adds to a language, the Apostle was instructed in his own, but not in a foreign tongue. Even so they were sufficiently instructed in wisdom and scientific knowledge, as required for teaching the faith, but not as to all things known by acquired science, for instance the conclusions of arithmetic and geometry.
 
 Reply to Objection 2: Although either was possible, namely that, while speaking in one tongue they should be understood by all, or that they should speak in all tongues, it was more fitting that they should speak in all tongues, because this pertained to the perfection of their knowledge, whereby they were able not only to speak, but also to understand what was said by others. Whereas if their one language were intelligible to all, this would either have been due to the knowledge of those who understood their speech, or it would have amounted to an illusion, since a man's words would have had a different sound in another's ears, from that with which they were uttered. Hence a gloss says on Acts 2:6 that "it was a greater miracle that they should speak all kinds of tongues"; and Paul says (1 Cor. 14:18): "I thank my God I speak with all your tongues."
 
 Reply to Objection 3: Christ in His own person purposed preaching to only one nation, namely the Jews. Consequently, although without any doubt He possessed most perfectly the knowledge of all languages, there was no need for Him to speak in every tongue. And therefore, as Augustine says (Tract. xxxii in Joan.), "whereas even now the Holy Ghost is received, yet no one speaks in the tongues of all nations, because the Church herself already speaks the languages of all nations: since whoever is not in the Church, receives not the Holy Ghost."
-## Whether The Gift Of Tongues Is More Excellent Than The Grace Of Prophecy?
+### Whether The Gift Of Tongues Is More Excellent Than The Grace Of Prophecy?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the gift of tongues is more excellent than the grace of prophecy. For, seemingly, better things are proper to better persons, according to the Philosopher (Topic. iii, 1). Now the gift of tongues is proper to the New Testament, hence we sing in the sequence of Pentecost [*The sequence: 'Sancti Spiritus adsit nobis gratia' ascribed to King Robert of France, the reputed author of the 'Veni Sancte Spiritus.' Cf. Migne, Patr. Lat. tom. CXLI]: "On this day Thou gavest Christ's apostles an unwonted gift, a marvel to all time": whereas prophecy is more pertinent to the Old Testament, according to Heb. 1:1, "God Who at sundry times and in divers manners spoke in times past to the fathers by the prophets." Therefore it would seem that the gift of tongues is more excellent than the gift of prophecy.
 
@@ -38,7 +38,7 @@ Objection 3: Further, the gift of tongues abides like a habit in the person who 
 
 Objection 4: Further, the "interpretation of speeches" would seem to be contained under prophecy, because the Scriptures are expounded by the same Spirit from Whom they originated. Now the interpretation of speeches is placed after "divers kinds of tongues" (1 Cor. 12:10). Therefore it seems that the gift of tongues is more excellent than the gift of prophecy, particularly as regards a part of the latter.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 14:5): "Greater is he that prophesieth than he that speaketh with tongues."
 
@@ -46,7 +46,7 @@ I answer that, The gift of prophecy surpasses the gift of tongues, in three ways
 
 Thirdly, because the gift of prophecy is more profitable. The Apostle proves this in three ways (1 Cor. 14); first, because prophecy is more profitable to the edification of the Church, for which purpose he that speaketh in tongues profiteth nothing, unless interpretation follow (1 Cor. 14:4,5). Secondly, as regards the speaker himself, for if he be enabled to speak in divers tongues without understanding them, which pertains to the gift of prophecy, his own mind would not be edified (1 Cor. 14:7-14). Thirdly, as to unbelievers for whose especial benefit the gift of tongues seems to have been given; since perchance they might think those who speak in tongues to be mad (1 Cor. 14:23), for instance the Jews deemed the apostles drunk when the latter spoke in various tongues (Acts 2:13): whereas by prophecies the unbeliever is convinced, because the secrets of his heart are made manifest (Acts 2:25).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([3707]Q[174], A[3], ad 1), it belongs to the excellence of prophecy that a man is not only enlightened by an intelligible light, but also that he should perceive an imaginary vision: and so again it belongs to the perfection of the Holy Ghost's operation, not only to fill the mind with the prophetic light, and the imagination with the imaginary vision, as happened in the Old Testament, but also to endow the tongue with external erudition, in the utterance of various signs of speech. All this is done in the New Testament, according to 1 Cor. 14:26, "Every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation," i.e. a prophetic revelation.
 

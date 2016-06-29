@@ -6,9 +6,9 @@ We must now consider the cause of sin, on the part of man. Now, while man, like 
 (3) Whether original sin is contracted by all those who are begotten of Adam by way of seminal generation?
 (4) Whether it would be contracted by anyone formed miraculously from some part of the human body?
 (5) Whether original sin would have been contracted if the woman, and not the man, had sinned?
-## Whether The First Sin Of Our First Parent Is Contracted By His Descendants, By Way Of Origin?
+### Whether The First Sin Of Our First Parent Is Contracted By His Descendants, By Way Of Origin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the first sin of our first parent is not contracted by others, by way of origin. For it is written (Ezech. 18:20): "The son shall not bear the iniquity of the father." But he would bear the iniquity if he contracted it from him. Therefore no one contracts any sin from one of his parents by way of origin.
 
@@ -20,7 +20,7 @@ Objection 4: Further, that which is more perfect in nature, is more powerful in 
 
 Objection 5: Further, the Philosopher says (Ethic. iii, 5): "No one finds fault with those who are ugly by nature, but only those who are so through want of exercise and through carelessness." Now those are said to be "naturally ugly," who are so from their origin. Therefore nothing which comes by way of origin is blameworthy or sinful.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 5:12): "By one man sin entered into this world, and by sin death." Nor can this be understood as denoting imitation or suggestion, since it is written (Wis. 2:24): "By the envy of the devil, death came into this world." It follows therefore that through origin from the first man sin entered into the world.
 
@@ -32,7 +32,7 @@ But all these explanations are insufficient. Because, granted that some bodily d
 
 Therefore we must explain the matter otherwise by saying that all men born of Adam may be considered as one man, inasmuch as they have one common nature, which they receive from their first parents; even as in civil matters, all who are members of one community are reputed as one body, and the whole community as one man. Indeed Porphyry says (Praedic., De Specie) that "by sharing the same species, many men are one man." Accordingly the multitude of men born of Adam, are as so many members of one body. Now the action of one member of the body, of the hand for instance, is voluntary not by the will of that hand, but by the will of the soul, the first mover of the members. Wherefore a murder which the hand commits would not be imputed as a sin to the hand, considered by itself as apart from the body, but is imputed to it as something belonging to man and moved by man's first moving principle. In this way, then, the disorder which is in this man born of Adam, is voluntary, not by his will, but by the will of his first parent, who, by the movement of generation, moves all who originate from him, even as the soul's will moves all the members to their actions. Hence the sin which is thus transmitted by the first parent to his descendants is called "original," just as the sin which flows from the soul into the bodily members is called "actual." And just as the actual sin that is committed by a member of the body, is not the sin of that member, except inasmuch as that member is a part of the man, for which reason it is called a "human sin"; so original sin is not the sin of this person, except inasmuch as this person receives his nature from his first parent, for which reason it is called the "sin of nature," according to Eph. 2:3: "We . . . were by nature children of wrath."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The son is said not to bear the iniquity of his father, because he is not punished for his father's sin, unless he share in his guilt. It is thus in the case before us: because guilt is transmitted by the way of origin from father to son, even as actual sin is transmitted through being imitated.
 
@@ -43,9 +43,9 @@ Reply to Objection 3: Although the guilt is not actually in the semen, yet human
 Reply to Objection 4: The semen is the principle of generation, which is an act proper to nature, by helping it to propagate itself. Hence the soul is more infected by the semen, than by the flesh which is already perfect, and already affixed to a certain person.
 
 Reply to Objection 5: A man is not blamed for that which he has from his origin, if we consider the man born, in himself. But it we consider him as referred to a principle, then he may be reproached for it: thus a man may from his birth be under a family disgrace, on account of a crime committed by one of his forbears.
-## Whether Also Other Sins Of The First Parent Or Of Nearer Ancestors Are Transmitted To Their Descendants?
+### Whether Also Other Sins Of The First Parent Or Of Nearer Ancestors Are Transmitted To Their Descendants?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that also other sins, whether of the first parent or of nearer ancestors, are transmitted to their descendants. For punishment is never due unless for fault. Now some are punished by the judgment of God for the sin of their immediate parents, according to Ex. 20:5: "I am . . . God . . . jealous, visiting the iniquity of the fathers upon the children, unto the third and fourth generation." Furthermore, according to human law, the children of those who are guilty of high treason are disinherited. Therefore the guilt of nearer ancestors is also transmitted to their descendants.
 
@@ -53,7 +53,7 @@ Objection 2: Further, a man can better transmit to another, that which he has of
 
 Objection 3: Further, the reason why we contract original sin from our first parent is because we were in him as in the principle of our nature, which he corrupted. But we were likewise in our nearer ancestors, as in principles of our nature, which however it be corrupt, can be corrupted yet more by sin, according to Apoc. 22:11: "He that is filthy, let him be filthier still." Therefore children contract, by the way of origin, the sins of their nearer ancestors, even as they contract the sin of their first parent.
 
-### Answer
+**Answer**
 
 On the contrary, Good is more self-diffusive than evil. But the merits of the nearer ancestors are not transmitted to their descendants. Much less therefore are their sins.
 
@@ -61,16 +61,16 @@ I answer that, Augustine puts this question in the Enchiridion xlvi, xlvii, and 
 
 Now just as something may belong to the person as such, and also something through the gift of grace, so may something belong to the nature as such, viz. whatever is caused by the principles of nature, and something too through the gift of grace. In this way original justice, as stated in the [1821]FP, Q[100], A[1], was a gift of grace, conferred by God on all human nature in our first parent. This gift the first man lost by his first sin. Wherefore as that original justice together with the nature was to have been transmitted to his posterity, so also was its disorder. Other actual sins, however, whether of the first parent or of others, do not corrupt the nature as nature, but only as the nature of that person, i.e. in respect of the proneness to sin: and consequently other sins are not transmitted.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to Augustine in his letter to Avitus [*Ep. ad Auxilium ccl.], children are never inflicted with spiritual punishment on account of their parents, unless they share in their guilt, either in their origin, or by imitation, because every soul is God's immediate property, as stated in Ezech. 18:4. Sometimes, however, by Divine or human judgment, children receive bodily punishment on their parents' account, inasmuch as the child, as to its body, is part of its father.
 
 Reply to Objection 2: A man can more easily transmit that which he has of himself, provided it be transmissible. But the actual sins of our nearer ancestors are not transmissible, because they are purely personal, as stated above.
 
 Reply to Objection 3: The first sin infects nature with a human corruption pertaining to nature; whereas other sins infect it with a corruption pertaining only to the person.
-## Whether The Sin Of The First Parent Is Transmitted, By The Way Of Origin, To All Men?
+### Whether The Sin Of The First Parent Is Transmitted, By The Way Of Origin, To All Men?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the sin of the first parent is not transmitted, by the way of origin, to all men. Because death is a punishment consequent upon original sin. But not all those, who are born of the seed of Adam, will die: since those who will be still living at the coming of our Lord, will never die, as, seemingly, may be gathered from 1 Thess. 4:14: "We who are alive . . . unto the coming of the Lord, shall not prevent them who have slept." Therefore they do not contract original sin.
 
@@ -78,20 +78,20 @@ Objection 2: Further, no one gives another what he has not himself. Now a man wh
 
 Objection 3: Further, the gift of Christ is greater than the sin of Adam, as the Apostle declares (Rom. 5:15, seqq). But the gift of Christ is not transmitted to all men: neither, therefore, is the sin of Adam.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 5:12): "Death passed upon all men in whom all have sinned."
 
 I answer that, According to the Catholic Faith we must firmly believe that, Christ alone excepted, all men descended from Adam contract original sin from him; else all would not need redemption [*Cf. Translator's note inserted before TP, Q[27]] which is through Christ; and this is erroneous. The reason for this may be gathered from what has been stated [1822](A[1]), viz. that original sin, in virtue of the sin of our first parent, is transmitted to his posterity, just as, from the soul's will, actual sin is transmitted to the members of the body, through their being moved by the will. Now it is evident that actual sin can be transmitted to all such members as have an inborn aptitude to be moved by the will. Therefore original sin is transmitted to all those who are moved by Adam by the movement of generation.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is held with greater probability and more commonly that all those that are alive at the coming of our Lord, will die, and rise again shortly, as we shall state more fully in the TP ([1823]XP, Q[78], A[1], OBJ[1]). If, however, it be true, as others hold, that they will never die, (an opinion which Jerome mentions among others in a letter to Minerius, on the Resurrection of the Body---Ep. cxix), then we must say in reply to the objection, that although they are not to die, the debt of death is none the less in them, and that the punishment of death will be remitted by God, since He can also forgive the punishment due for actual sins.
 
 Reply to Objection 3: Just as Adam's sin is transmitted to all who are born of Adam corporally, so is the grace of Christ transmitted to all that are begotten of Him spiritually, by faith and Baptism: and this, not only unto the removal of sin of their first parent, but also unto the removal of actual sins, and the obtaining of glory.
-## Whether Original Sin Would Be Contracted By A Person Formed Miraculously From Human Flesh?
+### Whether Original Sin Would Be Contracted By A Person Formed Miraculously From Human Flesh?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that original sin would be contracted by a person formed miraculously from human flesh. For a gloss on Gn. 4:1 says that "Adam's entire posterity was corrupted in his loins, because they were not severed from him in the place of life, before he sinned, but in the place of exile after he had sinned." But if a man were to be formed in the aforesaid manner, his flesh would be severed in the place of exile. Therefore it would contract original sin.
 
@@ -99,22 +99,22 @@ Objection 2: Further, original sin is caused in us by the soul being infected th
 
 Objection 3: Further, original sin comes upon all from our first parent, in so far as we were all in him when he sinned. But those who might be formed out of human flesh, would have been in Adam. Therefore they would contract original sin.
 
-### Answer
+**Answer**
 
 On the contrary, They would not have been in Adam "according to seminal virtue," which alone is the cause of the transmission of original sin, as Augustine states (Gen. ad lit. x, 18, seqq.).
 
 I answer that, As stated above ([1824]AA[1],3), original sin is transmitted from the first parent to his posterity, inasmuch as they are moved by him through generation, even as the members are moved by the soul to actual sin. Now there is no movement to generation except by the active power of generation: so that those alone contract original sin, who are descended from Adam through the active power of generation originally derived from Adam, i.e. who are descended from him through seminal power; for the seminal power is nothing else than the active power of generation. But if anyone were to be formed by God out of human flesh, it is evident that the active power would not be derived from Adam. Consequently he would not contract original sin: even as a hand would have no part in a human sin, if it were moved, not by the man's will, but by some external power.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Adam was not in the place of exile until after his sin. Consequently it is not on account of the place of exile, but on account of the sin, that original sin is transmitted to those to whom his active generation extends.
 
 Reply to Objection 2: The flesh does not corrupt the soul, except in so far as it is the active principle in generation, as we have stated.
 
 Reply to Objection 3: If a man were to be formed from human flesh, he would have been in Adam, "by way of bodily substance" [*The expression is St. Augustine's (Gen. ad lit. x). Cf. Summa Theologica [1825]TP, Q[31], A[6], Reply to OBJ[1]], but not according to seminal virtue, as stated above. Therefore he would not contract original sin.
-## Whether If Eve, And Not Adam, Had Sinned, Their Children Would Have Contracted Original Sin?
+### Whether If Eve, And Not Adam, Had Sinned, Their Children Would Have Contracted Original Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that if Eve, and not Adam, had sinned, their children would have contracted original sin. Because we contract original sin from our parents, in so far as we were once in them, according to the word of the Apostle (Rom. 5:12): "In whom all have sinned." Now a man pre-exist in his mother as well as in his father. Therefore a man would have contracted original sin from his mother's sin as well as from his father's.
 
@@ -122,13 +122,13 @@ Objection 2: Further, if Eve, and not Adam, had sinned, their children would hav
 
 Objection 3: Further, Damascene says (De Fide Orth. iii, 3) that "the Holy Ghost came upon the Virgin," (of whom Christ was to be born without original sin) "purifying her." But this purification would not have been necessary, if the infection of original sin were not contracted from the mother. Therefore the infection of original sin is contracted from the mother: so that if Eve had sinned, her children would have contracted original sin, even if Adam had not sinned.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 5:12): "By one man sin entered into this world." Now if the woman would have transmitted original sin to her children, he should have said that it entered by two, since both of them sinned, or rather that it entered by a woman, since she sinned first. Therefore original sin is transmitted to the children, not by the mother, but by the father.
 
 I answer that, The solution of this question is made clear by what has been said. For it has been stated [1826](A[1]) that original sin is transmitted by the first parent in so far as he is the mover in the begetting of his children: wherefore it has been said [1827](A[4]) that if anyone were begotten materially only, of human flesh, they would not contract original sin. Now it is evident that in the opinion of philosophers, the active principle of generation is from the father, while the mother provides the matter. Therefore original sin, is contracted, not from the mother, but from the father: so that, accordingly, if Eve, and not Adam, had sinned, their children would not contract original sin: whereas, if Adam, and not Eve, had sinned, they would contract it.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The child pre-exists in its father as in its active principle, and in its mother, as in its material and passive principle. Consequently the comparison fails.
 

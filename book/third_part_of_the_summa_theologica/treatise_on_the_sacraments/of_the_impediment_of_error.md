@@ -3,9 +3,9 @@
 We must now consider the impediments to matrimony in particular, and in the first place the impediment of error. Under this head there are two points of inquiry:
 (1) Whether error of its very nature is an impediment to matrimony?
 (2) What kind of error?
-## Whether It Is Right To Reckon Error As An Impediment To Marriage?
+### Whether It Is Right To Reckon Error As An Impediment To Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that error should not be reckoned in itself an impediment to marriage. For consent, which is the efficient cause of marriage, is hindered in the same way as the voluntary. Now the voluntary, according to the Philosopher (Ethic. iii, 1), may be hindered by ignorance. But ignorance is not the same as error, because ignorance excludes knowledge altogether, whereas error does not, since "error is to approve the false as though it were true," according to Augustine (De Trin. ix, 11). Therefore ignorance rather than error should have been reckoned here as an impediment to marriage.
 
@@ -15,13 +15,13 @@ Objection 3: Further, just as consent is required for marriage, so is intention 
 
 Objection 4: Further, there was true marriage between Lia and Jacob, and yet, in this case, there was error. Therefore error does not annul a marriage.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in the Digests (Si per errorem, ff. De jurisdic. omn. judic.): "What is more opposed to consent than error?" Now consent is required for marriage. Therefore error is an impediment to matrimony.
 
 I answer that, Whatever hinders a cause, of its very nature hinders the effect likewise. Now consent is the cause of matrimony, as stated above ([4956]Q[45], A[1]). Hence whatever voids the consent, voids marriage. Now consent is an act of the will, presupposing an act of the intellect; and if the first be lacking, the second must needs be lacking also. Hence, when error hinders knowledge, there follows a defect in the consent also, and consequently in the marriage. Therefore it is possible according to the natural law for error to void marriage.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Speaking simply, ignorance differs from error, because ignorance does not of its very nature imply an act of knowledge, while error supposes a wrong judgment of reason about something. However, as regards being an impediment to the voluntary, it differs not whether we call it ignorance or error, since no ignorance can be an impediment to the voluntary, unless it have error in conjunction with it, because the will's act presupposes an estimate or judgment about something which is the object of the will. Wherefore if there be ignorance there must needs be error; and for this reason error is set down as being the proximate cause.
 
@@ -30,9 +30,9 @@ Reply to Objection 2: Although error is not of itself contrary to matrimony, it 
 Reply to Objection 3: The character of baptism is not caused directly by the intention of the baptizer, but by the material element applied outwardly; and the intention is effective only as directing the material element to its effect; whereas the marriage tie is caused by the consent directly. Hence the comparison fails.
 
 Reply to Objection 4: According to the Master (Sent. iv, D, 30) the marriage between Lia and Jacob was effected not by their coming together, which happened through an error, but by their consent, which followed afterwards. Yet both are clearly to be excused from sin (Sent. iv, D, 30).
-## Whether Every Error Is An Impediment To Matrimony?
+### Whether Every Error Is An Impediment To Matrimony?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that every error is an impediment to matrimony, and not, as stated in the text (Sent. iv, D, 30), only error about the condition or the person. For that which applies to a thing as such applies to it in all its bearings. Now error is of its very nature an impediment to matrimony, as stated above [4957](A[1]). Therefore every error is an impediment to matrimony.
 
@@ -52,13 +52,13 @@ Objection 8: Further, it is possible for them to remain in this error for many y
 
 Objection 9: Further, it might happen that the woman is betrothed to the brother of the man whom she thinks that she is consenting to marry, and that she has had carnal intercourse with him; in which case, seemingly, she cannot go back to the man to whom she thought to give her consent, but should hold on to his brother. Thus error regarding the person is not an impediment to marriage.
 
-### Answer
+**Answer**
 
 
 
 I answer that, Just as error, through causing involuntariness, is an excuse from sin, so on the same count is it an impediment to marriage. Now error does not excuse from sin unless it refer to a circumstance the presence or absence of which makes an action lawful or unlawful. For if a man were to strike his father with an iron rod thinking it to be of wood, he is not excused from sin wholly, although perhaps in part; but if a man were to strike his father, thinking to strike his son to correct him, he is wholly excused provided he take due care. Wherefore error, in order to void marriage, must needs be about the essentials of marriage. Now marriage includes two things, namely the two persons who are joined together, and the mutual power over one another wherein marriage consists. The first of these is removed by error concerning the person, the second by error regarding the condition, since a slave cannot freely give power over his body to another, without his master's consent. For this reason these two errors, and no others, are an impediment to matrimony.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is not from its generic nature that error is an impediment to marriage, but from the nature of the difference added thereto; namely from its being error about one of the essentials to marriage.
 

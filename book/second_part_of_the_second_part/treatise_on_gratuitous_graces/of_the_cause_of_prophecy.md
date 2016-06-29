@@ -7,9 +7,9 @@ We must now consider the cause of prophecy. Under this head there are six points
 (4) Whether a good life is requisite?
 (5) Whether any prophecy is from the demons?
 (6) Whether prophets of the demons ever tell what is true?
-## Whether Prophecy Can Be Natural?
+### Whether Prophecy Can Be Natural?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prophecy can be natural. For Gregory says (Dial. iv, 26) that "sometimes the mere strength of the soul is sufficiently cunning to foresee certain things": and Augustine says (Gen. ad lit. xii, 13) that the human soul, according as it is withdrawn from the sense of the body, is able to foresee the future [*Cf. [3671]FP, Q[86], A[4], ad 2]. Now this pertains to prophecy. Therefore the soul can acquire prophecy naturally.
 
@@ -21,7 +21,7 @@ Objection 4: Further, it is written (Prov. 29:18): "When prophecy shall fail, th
 
 
 
-### Answer
+**Answer**
 
 On the contrary, It is written (2 Pet. 1:21): "For prophecy came not by the will of man at any time, but the holy men of God spoke, inspired by the Holy Ghost." Therefore prophecy comes not from nature, but through the gift of the Holy Ghost.
 
@@ -31,16 +31,16 @@ Since, however, it seems truer, according to the opinion of Aristotle, that the 
 
 Nevertheless this latter foreknowledge of the future differs in two ways from the former, which comes through Divine revelation. First, because the former can be about any events whatever, and this infallibly; whereas the latter foreknowledge, which can be had naturally, is about certain effects, to which human experience may extend. Secondly, because the former prophecy is "according to the unchangeable truth" [*[3674]Q[171], A[3], OBJ[1]], while the latter is not, and can cover a falsehood. Now the former foreknowledge, and not the latter, properly belongs to prophecy, because, as stated above ([3675]Q[171], A[3]), prophetic knowledge is of things which naturally surpass human knowledge. Consequently we must say that prophecy strictly so called cannot be from nature, but only from Divine revelation.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When the soul is withdrawn from corporeal things, it becomes more adapted to receive the influence of spiritual substances [*Cf. FP, Q[88], A[4], ad 2], and also is more inclined to receive the subtle motions which take place in the human imagination through the impression of natural causes, whereas it is hindered from receiving them while occupied with sensible things. Hence Gregory says (Dial. iv, 26) that "the soul, at the approach of death, foresees certain future things, by reason of the subtlety of its nature," inasmuch as it is receptive even of slight impressions. Or again, it knows future things by a revelation of the angels; but not by its own power, because according to Augustine (Gen. ad lit. xii, 13), "if this were so, it would be able to foreknow the future whenever it willed," which is clearly false.
 
 Reply to Objection 3: Even dumb animals have no foreknowledge of future events, except as these are foreknown in their causes, whereby their imagination is moved more than man's, because man's imagination, especially in waking, is more disposed according to reason than according to the impression of natural causes. Yet reason effects much more amply in man, that which the impression of natural causes effects in dumb animals; and Divine grace by inspiring the prophecy assists man still more.
 
 Reply to Objection 4: The prophetic light extends even to the direction of human acts; and in this way prophecy is requisite for the government of a people, especially in relation to Divine worship; since for this nature is not sufficient, and grace is necessary.
-## Whether Prophetic Revelation Comes Through The Angels?
+### Whether Prophetic Revelation Comes Through The Angels?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prophetic revelation does not come through the angels. For it is written (Wis. 7:27) that Divine wisdom "conveyeth herself into holy souls," and "maketh the friends of God, and the prophets." Now wisdom makes the friends of God immediately. Therefore it also makes the prophets immediately, and not through the medium of the angels.
 
@@ -48,22 +48,22 @@ Objection 2: Further, prophecy is reckoned among the gratuitous graces. But the 
 
 Objection 3: Further, Cassiodorus [*Prol. in Psalt. i] says that prophecy is a "Divine revelation": whereas if it were conveyed by the angels, it would be called an angelic revelation. Therefore prophecy is not bestowed by means of the angels.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Coel. Hier. iv): "Our glorious fathers received Divine visions by means of the heavenly powers"; and he is speaking there of prophetic visions. Therefore prophetic revelation is conveyed by means of the angels.
 
 I answer that, As the Apostle says (Rom. 13:1), "Things that are of God are well ordered [*Vulg.: 'Those that are, are ordained of God.']." Now the Divine ordering, according to Dionysius [*Coel. Hier. iv; Eccl. Hier. v], is such that the lowest things are directed by middle things. Now the angels hold a middle position between God and men, in that they have a greater share in the perfection of the Divine goodness than men have. Wherefore the Divine enlightenments and revelations are conveyed from God to men by the angels. Now prophetic knowledge is bestowed by Divine enlightenment and revelation. Therefore it is evident that it is conveyed by the angels.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Charity which makes man a friend of God, is a perfection of the will, in which God alone can form an impression; whereas prophecy is a perfection of the intellect, in which an angel also can form an impression, as stated in the [3677]FP, Q[111], A[1], wherefore the comparison fails between the two.
 
 Reply to Objection 2: The gratuitous graces are ascribed to the Holy Ghost as their first principle: yet He works grace of this kind in men by means of the angels.
 
 Reply to Objection 3: The work of the instrument is ascribed to the principal agent by whose power the instrument acts. And since a minister is like an instrument, prophetic revelation, which is conveyed by the ministry of the angels, is said to be Divine.
-## Whether A Natural Disposition Is Requisite For Prophecy?
+### Whether A Natural Disposition Is Requisite For Prophecy?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a natural disposition is requisite for prophecy. For prophecy is received by the prophet according to the disposition of the recipient, since a gloss of Jerome on Amos 1:2, "The Lord will roar from Sion," says: "Anyone who wishes to make a comparison naturally turns to those things of which he has experience, and among which his life is spent. For example, sailors compare their enemies to the winds, and their losses to a shipwreck. In like manner Amos, who was a shepherd, likens the fear of God to that which is inspired by the lion's roar." Now that which is received by a thing according to the mode of the recipient requires a natural disposition. Therefore prophecy requires a natural disposition.
 
@@ -71,22 +71,22 @@ Objection 2: Further, the considerations of prophecy are more lofty than those o
 
 Objection 3: Further, natural indisposition is a much greater obstacle than an accidental impediment. Now the considerations of prophecy are hindered by an accidental occurrence. For Jerome says in his commentary on Matthew [*The quotation is from Origen, Hom. vi in Num.] that "at the time of the marriage act, the presence of the Holy Ghost will not be vouchsafed, even though it be a prophet that fulfils the duty of procreation." Much more therefore does a natural indisposition hinder prophecy; and thus it would seem that a good natural disposition is requisite for prophecy.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says in a homily for Pentecost (xxx in Ev.): "He," namely the Holy Ghost, "fills the boy harpist and makes him a Psalmist; He fills the herdsman plucking wild figs, and makes him a prophet." Therefore prophecy requires no previous disposition, but depends on the will alone of the Holy Ghost, of Whom it is written (1 Cor. 12:2): "All these things, one and the same Spirit worketh, dividing to every one according as He will."
 
 I answer that, As stated above [3678](A[1]), prophecy in its true and exact sense comes from Divine inspiration; while that which comes from a natural cause is not called prophecy except in a relative sense. Now we must observe that as God Who is the universal efficient cause requires neither previous matter nor previous disposition of matter in His corporeal effects, for He is able at the same instant to bring into being matter and disposition and form, so neither does He require a previous disposition in His spiritual effects, but is able to produce both the spiritual effect and at the same time the fitting disposition as requisite according to the order of nature. More than this, He is able at the same time, by creation, to produce the subject, so as to dispose a soul for prophecy and give it the prophetic grace, at the very instant of its creation.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It matters not to prophecy by what comparisons the thing prophesied is expressed; and so the Divine operation makes no change in a prophet in this respect. Yet if there be anything in him incompatible with prophecy, it is removed by the Divine power.
 
 Reply to Objection 2: The considerations of science proceed from a natural cause, and nature cannot work without a previous disposition in matter. This cannot be said of God Who is the cause of prophecy.
 
 Reply to Objection 3: A natural indisposition, if not removed, might be an obstacle to prophetic revelation, for instance if a man were altogether deprived of the natural senses. In the same way a man might be hindered from the act of prophesying by some very strong passion, whether of anger, or of concupiscence as in coition, or by any other passion. But such a natural indisposition as this is removed by the Divine power, which is the cause of prophecy.
-## Whether A Good Life Is Requisite For Prophecy?
+### Whether A Good Life Is Requisite For Prophecy?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a good life is requisite for prophecy. For it is written (Wis. 7:27) that the wisdom of God "through nations conveyeth herself into holy souls," and "maketh the friends of God, and prophets." Now there can be no holiness without a good life and sanctifying grace. Therefore prophecy cannot be without a good life and sanctifying grace.
 
@@ -96,7 +96,7 @@ Objection 3: Further, it is written (Mat. 7:15): "Beware of false prophets, who 
 
 Objection 4: Further, the Philosopher says (De Somn. et Vigil. [*Cf. De Divinat. per Somn. i, which is annexed to the work quoted]) that "if interpretation of dreams is from God, it is unfitting for it to be bestowed on any but the best." Now it is evident that the gift of prophecy is from God. Therefore the gift of prophecy is vouchsafed only to the best men.
 
-### Answer
+**Answer**
 
 On the contrary, To those who had said, "Lord, have we not prophesied in Thy name?" this reply is made: "I never knew you" (Mat. 7:22,23). Now "the Lord knoweth who are His" (2 Tim. 2:19). Therefore prophecy can be in those who are not God's by grace.
 
@@ -104,7 +104,7 @@ I answer that, A good life may be considered from two points of view. First, wit
 
 If, however, we consider a good life, with regard to the passions of the soul, and external actions, from this point of view an evil life is an obstacle to prophecy. For prophecy requires the mind to be raised very high in order to contemplate spiritual things, and this is hindered by strong passions, and the inordinate pursuit of external things. Hence we read of the sons of the prophets (4 Kings 4:38) that they "dwelt together with [Vulg.: 'before']" Eliseus, leading a solitary life, as it were, lest worldly employment should be a hindrance to the gift of prophecy.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Sometimes the gift of prophecy is given to a man both for the good of others, and in order to enlighten his own mind; and such are those whom Divine wisdom, "conveying itself" by sanctifying grace to their minds, "maketh the friends of God, and prophets." Others, however, receive the gift of prophecy merely for the good of others. Hence Jerome commenting on Mat. 7:22, says: "Sometimes prophesying, the working of miracles, and the casting out of demons are accorded not to the merit of those who do these things, but either to the invoking the name of Christ, or to the condemnation of those who invoke, and for the good of those who see and hear."
 
@@ -113,9 +113,9 @@ Reply to Objection 2: Gregory [*Hom. xxvii in Ev.] expounding this passage [*Jn.
 Reply to Objection 3: Not all wicked men are ravening wolves, but only those whose purpose is to injure others. For Chrysostom says [*Opus Imperf. in Matth., Hom. xix, among the works of St. John Chrysostom, and falsely ascribed to him] that "Catholic teachers, though they be sinners, are called slaves of the flesh, but never ravening wolves, because they do not purpose the destruction of Christians." And since prophecy is directed to the good of others, it is manifest that such are false prophets, because they are not sent for this purpose by God.
 
 Reply to Objection 4: God's gifts are not always bestowed on those who are simply the best, but sometimes are vouchsafed to those who are best as regards the receiving of this or that gift. Accordingly God grants the gift of prophecy to those whom He judges best to give it to.
-## Whether Any Prophecy Comes From The Demons?
+### Whether Any Prophecy Comes From The Demons?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no prophecy comes from the demons. For prophecy is "a Divine revelation," according to Cassiodorus [*Prol. in Psalt. i]. But that which is done by a demon is not Divine. Therefore no prophecy can be from a demon.
 
@@ -123,7 +123,7 @@ Objection 2: Further, some kind of enlightenment is requisite for prophetic know
 
 Objection 3: Further, a sign is worthless if it betokens contraries. Now prophecy is a sign in confirmation of faith; wherefore a gloss on Rom. 12:6, "Either prophecy to be used according to the rule of faith," says: "Observe that in reckoning the graces, he begins with prophecy, which is the first proof of the reasonableness of our faith; since believers, after receiving the Spirit, prophesied." Therefore prophecy cannot be bestowed by the demons.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (3 Kings 18:19): "Gather unto me all Israel unto mount Carmel, and the prophets of Baal four hundred and fifty, and the prophets of the grove four hundred, who eat at Jezebel's table." Now these were worshippers of demons. Therefore it would seem that there is also a prophecy from the demons.
 
@@ -131,16 +131,16 @@ I answer that, As stated above ([3679]Q[171], A[1]), prophecy denotes knowledge 
 
 Accordingly prophecy, properly and simply, is conveyed by Divine revelations alone; yet the revelation which is made by the demons may be called prophecy in a restricted sense. Wherefore those men to whom something is revealed by the demons are styled in the Scriptures as prophets, not simply, but with an addition, for instance as "false prophets," or "prophets of idols." Hence Augustine says (Gen. ad lit. xii, 19): "When the evil spirit lays hold of a man for such purposes as these," namely visions, "he makes him either devilish, or possessed, or a false prophet."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Cassiodorus is here defining prophecy in its proper and simple acceptation.
 
 Reply to Objection 2: The demons reveal what they know to men, not by enlightening the intellect, but by an imaginary vision, or even by audible speech; and in this way this prophecy differs from true prophecy.
 
 Reply to Objection 3: The prophecy of the demons can be distinguished from Divine prophecy by certain, and even outward, signs. Hence Chrysostom says [*Opus Imperf. in Matth., Hom. xix, falsely ascribed to St. John Chrysostom] that "some prophesy by the spirit of the devil, such as diviners, but they may be discerned by the fact that the devil sometimes utters what is false, the Holy Ghost never." Wherefore it is written (Dt. 18:21,22): "If in silent thought thou answer: How shall I know the word that the Lord hath spoken? Thou shalt have this sign: Whatsoever that same prophet foretelleth in the name of the Lord, and it come not to pass, that thing the Lord hath not spoken."
-## Whether The Prophets Of The Demons Ever Foretell The Truth?
+### Whether The Prophets Of The Demons Ever Foretell The Truth?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the prophets of the demons never foretell the truth. For Ambrose [*Hilary the Deacon (Ambrosiaster) on 1 Cor. 12:3] says that "Every truth, by whomsoever spoken, is from the Holy Ghost." Now the prophets of the demons do not speak from the Holy Ghost, because "there is no concord between Christ and Belial [*'What concord hath Christ with Belial?']" (2 Cor. 6:15). Therefore it would seem that they never foretell the truth.
 
@@ -148,13 +148,13 @@ Objection 2: Further, just as true prophets are inspired by the Spirit of truth,
 
 Objection 3: Further, it is said of the devil (Jn. 8:44) that "when he speaketh a lie, he speaketh of his own, for the devil is a liar, and the father thereof," i.e. of lying. Now by inspiring his prophets, the devil speaks only of his own, for he is not appointed God's minister to declare the truth, since "light hath no fellowship with darkness [*Vulg.: 'What fellowship hath light with darkness?']" (2 Cor. 6:14). Therefore the prophets of the demons never foretell the truth.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Num. 22:14, says that "Balaam was a diviner, for he sometimes foreknew the future by help of the demons and the magic art." Now he foretold many true things, for instance that which is to be found in Num. 24:17: "A star shall rise out of Jacob, and a scepter shall spring up from Israel." Therefore even the prophets of the demons foretell the truth.
 
 I answer that, As the good is in relation to things, so is the true in relation to knowledge. Now in things it is impossible to find one that is wholly devoid of good. Wherefore it is also impossible for any knowledge to be wholly false, without some mixture of truth. Hence Bede says [*Comment. in Luc. xvii, 12; Cf. Augustine, QQ. Evang. ii, 40] that "no teaching is so false that it never mingles truth with falsehood." Hence the teaching of the demons, with which they instruct their prophets, contains some truths whereby it is rendered acceptable. For the intellect is led astray to falsehood by the semblance of truth, even as the will is seduced to evil by the semblance of goodness. Wherefore Chrysostom says [*Opus Imperf. in Matth., Hom. xix, falsely ascribed to St. John Chrysostom]: "The devil is allowed sometimes to speak true things, in order that his unwonted truthfulness may gain credit for his lie."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The prophets of the demons do not always speak from the demons' revelation, but sometimes by Divine inspiration. This was evidently the case with Balaam, of whom we read that the Lord spoke to him (Num. 22:12), though he was a prophet of the demons, because God makes use even of the wicked for the profit of the good. Hence He foretells certain truths even by the demons' prophets, both that the truth may be rendered more credible, since even its foes bear witness to it, and also in order that men, by believing such men, may be more easily led on to truth. Wherefore also the Sibyls foretold many true things about Christ.
 

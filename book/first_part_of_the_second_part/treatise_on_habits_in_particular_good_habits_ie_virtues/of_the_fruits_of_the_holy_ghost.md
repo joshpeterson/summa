@@ -5,9 +5,9 @@ We must now consider the Fruits of the Holy Ghost: under which head there are fo
 (2) Whether they differ from the beatitudes?
 (3) Of their number?
 (4) Of their opposition to the works of the flesh.
-## Whether The Fruits Of The Holy Ghost Which The Apostle Enumerates Are Acts?
+### Whether The Fruits Of The Holy Ghost Which The Apostle Enumerates Are Acts?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fruits of the Holy Ghost, enumerated by the Apostle (Gal. 5:22,23), are not acts. For that which bears fruit, should not itself be called a fruit, else we should go on indefinitely. But our actions bear fruit: for it is written (Wis. 3:15): "The fruit of good labor is glorious," and (Jn. 4:36): "He that reapeth receiveth wages, and gathereth fruit unto life everlasting." Therefore our actions are not to be called fruits.
 
@@ -15,7 +15,7 @@ Objection 2: Further, as Augustine says (De Trin. x, 10), "we enjoy [*'Fruimur',
 
 Objection 3: Further, among the fruits of the Holy Ghost, the Apostle numbers certain virtues, viz. charity, meekness, faith, and chastity. Now virtues are not actions but habits, as stated above ([1675]Q[55], A[1]). Therefore the fruits are not actions.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 12:33): "By the fruit the tree is known"; that is to say, man is known by his works, as holy men explain the passage. Therefore human actions are called fruits.
 
@@ -25,16 +25,16 @@ Yet not all that man gathers is fruit, but only that which is last and gives ple
 
 If, however, by man's fruit we understand a product of man, then human actions are called fruits: because operation is the second act of the operator, and gives pleasure if it is suitable to him. If then man's operation proceeds from man in virtue of his reason, it is said to be the fruit of his reason: but if it proceeds from him in respect of a higher power, which is the power of the Holy Ghost, then man's operation is said to be the fruit of the Holy Ghost, as of a Divine seed, for it is written (1 Jn. 3:9): "Whosoever is born of God, committeth no sin, for His seed abideth in him."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since fruit is something last and final, nothing hinders one fruit bearing another fruit, even as one end is subordinate to another. And so our works, in so far as they are produced by the Holy Ghost working in us, are fruits: but, in so far as they are referred to the end which is eternal life, they should rather be called flowers: hence it is written (Ecclus. 24:23): "My flowers are the fruits of honor and riches."
 
 Reply to Objection 2: When the will is said to delight in a thing for its own sake, this may be understood in two ways. First, so that the expression "for the sake of" be taken to designate the final cause; and in this way, man delights in nothing for its own sake, except the last end. Secondly, so that it expresses the formal cause; and in this way, a man may delight in anything that is delightful by reason of its form. Thus it is clear that a sick man delights in health, for its own sake, as in an end; in a nice medicine, not as in an end, but as in something tasty; and in a nasty medicine, nowise for its own sake, but only for the sake of something else. Accordingly we must say that man must delight in God for His own sake, as being his last end, and in virtuous deeds, not as being his end, but for the sake of their inherent goodness which is delightful to the virtuous. Hence Ambrose says (De Parad. xiii) that virtuous deeds are called fruits because "they refresh those that have them, with a holy and genuine delight."
 
 Reply to Objection 3: Sometimes the names of the virtues are applied to their actions: thus Augustine writes (Tract. xl in Joan.): "Faith is to believe what thou seest not"; and (De Doctr. Christ. iii, 10): "Charity is the movement of the soul in loving God and our neighbor." It is thus that the names of the virtues are used in reckoning the fruits.
-## Whether The Fruits Differ From The Beatitudes?
+### Whether The Fruits Differ From The Beatitudes?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fruits do not differ from the beatitudes. For the beatitudes are assigned to the gifts, as stated above ([1676]Q[69], A[1], ad 1). But the gifts perfect man in so far as he is moved by the Holy Ghost. Therefore the beatitudes themselves are fruits of the Holy Ghost.
 
@@ -42,22 +42,22 @@ Objection 2: Further, as the fruit of eternal life is to future beatitude which 
 
 Objection 3: Further, fruit is essentially something ultimate and delightful. Now this is the very nature of beatitude, as stated above ([1677]Q[3], A[1];[1678] Q[4], A[1]). Therefore fruit and beatitude have the same nature, and consequently should not be distinguished from one another.
 
-### Answer
+**Answer**
 
 On the contrary, Things divided into different species, differ from one another. But fruits and beatitudes are divided into different parts, as is clear from the way in which they are enumerated. Therefore the fruits differ from the beatitudes.
 
 I answer that, More is required for a beatitude than for a fruit. Because it is sufficient for a fruit to be something ultimate and delightful; whereas for a beatitude, it must be something perfect and excellent. Hence all the beatitudes may be called fruits, but not vice versa. For the fruits are any virtuous deeds in which one delights: whereas the beatitudes are none but perfect works, and which, by reason of their perfection, are assigned to the gifts rather than to the virtues, as already stated ([1679]Q[69], A[1], ad 1).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument proves the beatitudes to be fruits, but not that all the fruits are beatitudes.
 
 Reply to Objection 2: The fruit of eternal life is ultimate and perfect simply: hence it nowise differs from future beatitude. On the other hand the fruits of the present life are not simply ultimate and perfect; wherefore not all the fruits are beatitudes.
 
 Reply to Objection 3: More is required for a beatitude than for a fruit, as stated.
-## Whether The Fruits Are Suitably Enumerated By The Apostle?
+### Whether The Fruits Are Suitably Enumerated By The Apostle?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fruits are unsuitably enumerated by the Apostle (Gal. 5:22,23). Because, elsewhere, he says that there is only one fruit of the present life; according to Rom. 6:22: "You have your fruit unto sanctification." Moreover it is written (Is. 27:9): "This is all the fruit . . . that the sin . . . be taken away." Therefore we should not reckon twelve fruits.
 
@@ -67,7 +67,7 @@ Objection 3: Further, the very nature of fruit is to be something ultimate and d
 
 Objection 4: On the other hand, It seems that they are enumerated insufficiently and incompletely. For it has been stated [1680](A[2]) that all the beatitudes may be called fruits; yet not all are mentioned here. Nor is there anything corresponding to the acts of wisdom, and of many other virtues. Therefore it seems that the fruits are insufficiently enumerated.
 
-### Answer
+**Answer**
 
 
 
@@ -79,7 +79,7 @@ Man's mind is well disposed as regards what is near him, viz. his neighbor, firs
 
 Man is well disposed in respect of that which is below him, as regards external action, by "modesty," whereby we observe the "mode" in all our words and deeds: as regards internal desires, by "contingency" and "chastity": whether these two differ because chastity withdraws man from unlawful desires, contingency also from lawful desires: or because the continent man is subject to concupiscence, but is not led away; whereas the chaste man is neither subject to, nor led away from them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Sanctification is effected by all the virtues, by which also sins are taken away. Consequently fruit is mentioned there in the singular, on account of its being generically one, though divided into many species which are spoken of as so many fruits.
 
@@ -88,9 +88,9 @@ Reply to Objection 2: The hundredfold, sixtyfold, and thirtyfold fruits do not d
 Reply to Objection 3: The fact of not being disturbed by painful things is something to delight in. And as to faith, if we consider it as the foundation, it has the aspect of being ultimate and delightful, in as much as it contains certainty: hence a gloss expounds thus: "Faith, which is certainly about the unseen."
 
 Reply to Objection 4: As Augustine says on Gal. 5:22,23, "the Apostle had no intention of teaching us how many [either works of the flesh, or fruits of the Spirit] there are; but to show how the former should be avoided, and the latter sought after." Hence either more or fewer fruits might have been mentioned. Nevertheless, all the acts of the gifts and virtues can be reduced to these by a certain kind of fittingness, in so far as all the virtues and gifts must needs direct the mind in one of the above-mentioned ways. Wherefore the acts of wisdom and of any gifts directing to good, are reduced to charity, joy and peace. The reason why he mentions these rather than others, is that these imply either enjoyment of good things, or relief from evils, which things seem to belong to the notion of fruit.
-## Whether The Fruits Of The Holy Ghost Are Contrary To The Works Of The Flesh?
+### Whether The Fruits Of The Holy Ghost Are Contrary To The Works Of The Flesh?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fruits of the Holy Ghost are not contrary to the works of the flesh, which the Apostle enumerates (Gal. 5:19, seqq.). Because contraries are in the same genus. But the works of the flesh are not called fruits. Therefore the fruits of the Spirit are not contrary to them.
 
@@ -98,7 +98,7 @@ Objection 2: Further, one thing has a contrary. Now the Apostle mentions more wo
 
 Objection 3: Further, among the fruits of the Spirit, the first place is given to charity, joy, and peace: to which, fornication, uncleanness, and immodesty, which are the first of the works of the flesh are not opposed. Therefore the fruits of the Spirit are not contrary to the works of the flesh.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Gal. 5:17) that "the flesh lusteth against the spirit, and the spirit against the flesh."
 
@@ -106,7 +106,7 @@ I answer that, The works of the flesh and the fruits of the Spirit may be taken 
 
 Secondly, both fruits and fleshly works as enumerated may be considered singly, each according to its specific nature. And in this they are not of necessity contrary each to each: because, as stated above (A[3], ad 4), the Apostle did not intend to enumerate all the works, whether spiritual or carnal. However, by a kind of adaptation, Augustine, commenting on Gal. 5:22,23, contrasts the fruits with the carnal works, each to each. Thus "to fornication, which is the love of satisfying lust outside lawful wedlock, we may contrast charity, whereby the soul is wedded to God: wherein also is true chastity. By uncleanness we must understand whatever disturbances arise from fornication: and to these the joy of tranquillity is opposed. Idolatry, by reason of which war was waged against the Gospel of God, is opposed to peace. Against witchcrafts, enmities, contentions, emulations, wraths and quarrels, there is longsuffering, which helps us to bear the evils inflicted on us by those among whom we dwell; while kindness helps us to cure those evils; and goodness, to forgive them. In contrast to heresy there is faith; to envy, mildness; to drunkenness and revellings, contingency."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That which proceeds from a tree against the tree's nature, is not called its fruit, but rather its corruption. And since works of virtue are connatural to reason, while works of vice are contrary to nature, therefore it is that works of virtue are called fruits, but not so works of vice.
 

@@ -5,9 +5,9 @@ Having considered all that relates to the will absolutely, we must now proceed t
 (2) Whether everything comes under divine providence?
 (3) Whether divine providence is immediately concerned with all things?
 (4) Whether divine providence imposes any necessity upon things foreseen?
-## Whether Providence Can Suitably Be Attributed To God?
+### Whether Providence Can Suitably Be Attributed To God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that providence is not becoming to God. For providence, according to Tully (De Invent. ii), is a part of prudence. But prudence, since, according to the Philosopher (Ethic. vi, 5,9,18), it gives good counsel, cannot belong to God, Who never has any doubt for which He should take counsel. Therefore providence cannot belong to God.
 
@@ -15,22 +15,22 @@ Objection 2: Further, whatever is in God, is eternal. But providence is not anyt
 
 Objection 3: Further, there is nothing composite in God. But providence seems to be something composite, because it includes both the intellect and the will. Therefore providence is not in God.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Wis. 14:3): "But Thou, Father, governest all things by providence [*Vulg. But 'Thy providence, O Father, governeth it.']."
 
 I answer that, It is necessary to attribute providence to God. For all the good that is in created things has been created by God, as was shown above ([155]Q[6], A[4]). In created things good is found not only as regards their substance, but also as regards their order towards an end and especially their last end, which, as was said above, is the divine goodness ([156]Q[21], A[4]). This good of order existing in things created, is itself created by God. Since, however, God is the cause of things by His intellect, and thus it behooves that the type of every effect should pre-exist in Him, as is clear from what has gone before ([157]Q[19], A[4]), it is necessary that the type of the order of things towards their end should pre-exist in the divine mind: and the type of things ordered towards an end is, properly speaking, providence. For it is the chief part of prudence, to which two other parts are directed---namely, remembrance of the past, and understanding of the present; inasmuch as from the remembrance of what is past and the understanding of what is present, we gather how to provide for the future. Now it belongs to prudence, according to the Philosopher (Ethic. vi, 12), to direct other things towards an end whether in regard to oneself---as for instance, a man is said to be prudent, who orders well his acts towards the end of life--or in regard to others subject to him, in a family, city or kingdom; in which sense it is said (Mat. 24:45), "a faithful and wise servant, whom his lord hath appointed over his family." In this way prudence or providence may suitably be attributed to God. For in God Himself there can be nothing ordered towards an end, since He is the last end. This type of order in things towards an end is therefore in God called providence. Whence Boethius says (De Consol. iv, 6) that "Providence is the divine type itself, seated in the Supreme Ruler; which disposeth all things": which disposition may refer either to the type of the order of things towards an end, or to the type of the order of parts in the whole.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to the Philosopher (Ethic. vi, 9,10), "Prudence is what, strictly speaking, commands all that 'ebulia' has rightly counselled and 'synesis' rightly judged" [*Cf. [158]FS, Q[57], A[6]]. Whence, though to take counsel may not be fitting to God, from the fact that counsel is an inquiry into matters that are doubtful, nevertheless to give a command as to the ordering of things towards an end, the right reason of which He possesses, does belong to God, according to Ps. 148:6: "He hath made a decree, and it shall not pass away." In this manner both prudence and providence belong to God. Although at the same time it may be said that the very reason of things to be done is called counsel in God; not because of any inquiry necessitated, but from the certitude of the knowledge, to which those who take counsel come by inquiry. Whence it is said: "Who worketh all things according to the counsel of His will" (Eph. 1:11).
 
 Reply to Objection 2: Two things pertain to the care of providence---namely, the "reason of order," which is called providence and disposition; and the execution of order, which is termed government. Of these, the first is eternal, and the second is temporal.
 
 Reply to Objection 3: Providence resides in the intellect; but presupposes the act of willing the end. Nobody gives a precept about things done for an end; unless he will that end. Hence prudence presupposes the moral virtues, by means of which the appetitive faculty is directed towards good, as the Philosopher says. Even if Providence has to do with the divine will and intellect equally, this would not affect the divine simplicity, since in God both the will and intellect are one and the same thing, as we have said above [159](Q[19]).
-## Whether Everything Is Subject To The Providence Of God?
+### Whether Everything Is Subject To The Providence Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that everything is not subject to divine providence. For nothing foreseen can happen by chance. If then everything was foreseen by God, nothing would happen by chance. And thus hazard and luck would disappear; which is against common opinion.
 
@@ -42,7 +42,7 @@ Objection 4: Further, whatsoever is left to itself cannot be subject to the prov
 
 Objection 5: Further, the Apostle says (1 Cor. 9:9): "God doth not care for oxen [*Vulg. 'Doth God take care for oxen?']": and we may say the same of other irrational creatures. Thus everything cannot be under the care of divine providence.
 
-### Answer
+**Answer**
 
 On the contrary, It is said of Divine Wisdom: "She reacheth from end to end mightily, and ordereth all things sweetly" (Wis. 8:1).
 
@@ -50,7 +50,7 @@ I answer that, Certain persons totally denied the existence of providence, as De
 
 We must say, however, that all things are subject to divine providence, not only in general, but even in their own individual selves. This is made evident thus. For since every agent acts for an end, the ordering of effects towards that end extends as far as the causality of the first agent extends. Whence it happens that in the effects of an agent something takes place which has no reference towards the end, because the effect comes from a cause other than, and outside the intention of the agent. But the causality of God, Who is the first agent, extends to all being, not only as to constituent principles of species, but also as to the individualizing principles; not only of things incorruptible, but also of things corruptible. Hence all things that exist in whatsoever manner are necessarily directed by God towards some end; as the Apostle says: "Those things that are of God are well ordered [*Vulg.'Those powers that are, are ordained of God': 'Quae autem sunt, a Deo ordinatae sunt.' St. Thomas often quotes this passage, and invariably reads: 'Quae a Deo sunt, ordinata sunt.']" (Rom. 13:1). Since, therefore, as the providence of God is nothing less than the type of the order of things towards an end, as we have said; it necessarily follows that all things, inasmuch as they participate in existence, must likewise be subject to divine providence. It has also been shown ([160]Q[14], AA[6],11) that God knows all things, both universal and particular. And since His knowledge may be compared to the things themselves, as the knowledge of art to the objects of art, all things must of necessity come under His ordering; as all things wrought by art are subject to the ordering of that art.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There is a difference between universal and particular causes. A thing can escape the order of a particular cause; but not the order of a universal cause. For nothing escapes the order of a particular cause, except through the intervention and hindrance of some other particular cause; as, for instance, wood may be prevented from burning, by the action of water. Since then, all particular causes are included under the universal cause, it could not be that any effect should take place outside the range of that universal cause. So far then as an effect escapes the order of a particular cause, it is said to be casual or fortuitous in respect to that cause; but if we regard the universal cause, outside whose range no effect can happen, it is said to be foreseen. Thus, for instance, the meeting of two servants, although to them it appears a chance circumstance, has been fully foreseen by their master, who has purposely sent to meet at the one place, in such a way that the one knows not about the other.
 
@@ -61,9 +61,9 @@ Reply to Objection 3: Man is not the author of nature; but he uses natural thing
 Reply to Objection 4: When it is said that God left man to himself, this does not mean that man is exempt from divine providence; but merely that he has not a prefixed operating force determined to only the one effect; as in the case of natural things, which are only acted upon as though directed by another towards an end; and do not act of themselves, as if they directed themselves towards an end, like rational creatures, through the possession of free will, by which these are able to take counsel and make a choice. Hence it is significantly said: "In the hand of his own counsel." But since the very act of free will is traced to God as to a cause, it necessarily follows that everything happening from the exercise of free will must be subject to divine providence. For human providence is included under the providence of God, as a particular under a universal cause. God, however, extends His providence over the just in a certain more excellent way than over the wicked; inasmuch as He prevents anything happening which would impede their final salvation. For "to them that love God, all things work together unto good" (Rom. 8:28). But from the fact that He does not restrain the wicked from the evil of sin, He is said to abandon them: not that He altogether withdraws His providence from them; otherwise they would return to nothing, if they were not preserved in existence by His providence. This was the reason that had weight with Tully, who withdrew from the care of divine providence human affairs concerning which we take counsel.
 
 Reply to Objection 5: Since a rational creature has, through its free will, control over its actions, as was said above ([161]Q[19], A[10]), it is subject to divine providence in an especial manner, so that something is imputed to it as a fault, or as a merit; and there is given it accordingly something by way of punishment or reward. In this way, the Apostle withdraws oxen from the care of God: not, however, that individual irrational creatures escape the care of divine providence; as was the opinion of the Rabbi Moses.
-## Whether God Has Immediate Providence Over Everything?
+### Whether God Has Immediate Providence Over Everything?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God has not immediate providence over all things. For whatever is contained in the notion of dignity, must be attributed to God. But it belongs to the dignity of a king, that he should have ministers; through whose mediation he provides for his subjects. Therefore much less has God Himself immediate providence over all things.
 
@@ -71,22 +71,22 @@ Objection 2: Further, it belongs to providence to order all things to an end. No
 
 Objection 3: Further, Augustine says (Enchiridion 17) that, "It is better to be ignorant of some things than to know them, for example, vile things": and the Philosopher says the same (Metaph. xii, 51). But whatever is better must be assigned to God. Therefore He has not immediate providence over bad and vile things.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Job 34:13): "What other hath He appointed over the earth? or whom hath He set over the world which He made?" On which passage Gregory says (Moral. xxiv, 20): "Himself He ruleth the world which He Himself hath made."
 
 I answer that, Two things belong to providence---namely, the type of the order of things foreordained towards an end; and the execution of this order, which is called government. As regards the first of these, God has immediate providence over everything, because He has in His intellect the types of everything, even the smallest; and whatsoever causes He assigns to certain effects, He gives them the power to produce those effects. Whence it must be that He has beforehand the type of those effects in His mind. As to the second, there are certain intermediaries of God's providence; for He governs things inferior by superior, not on account of any defect in His power, but by reason of the abundance of His goodness; so that the dignity of causality is imparted even to creatures. Thus Plato's opinion, as narrated by Gregory of Nyssa (De Provid. viii, 3), is exploded. He taught a threefold providence. First, one which belongs to the supreme Deity, Who first and foremost has provision over spiritual things, and thus over the whole world as regards genus, species, and universal causes. The second providence, which is over the individuals of all that can be generated and corrupted, he attributed to the divinities who circulate in the heavens; that is, certain separate substances, which move corporeal things in a circular direction. The third providence, over human affairs, he assigned to demons, whom the Platonic philosophers placed between us and the gods, as Augustine tells us (De Civ. Dei, 1, 2: viii, 14).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It pertains to a king's dignity to have ministers who execute his providence. But the fact that he has not the plan of those things which are done by them arises from a deficiency in himself. For every operative science is the more perfect, the more it considers the particular things with which its action is concerned.
 
 Reply to Objection 2: God's immediate provision over everything does not exclude the action of secondary causes; which are the executors of His order, as was said above ([162]Q[19], AA[5],8).
 
 Reply to Objection 3: It is better for us not to know low and vile things, because by them we are impeded in our knowledge of what is better and higher; for we cannot understand many things simultaneously; because the thought of evil sometimes perverts the will towards evil. This does not hold with God, Who sees everything simultaneously at one glance, and whose will cannot turn in the direction of evil.
-## Whether Providence Imposes Any Necessity On Things Foreseen?
+### Whether Providence Imposes Any Necessity On Things Foreseen?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that divine providence imposes necessity upon things foreseen. For every effect that has a "per se" cause, either present or past, which it necessarily follows, happens from necessity; as the Philosopher proves (Metaph. vi, 7). But the providence of God, since it is eternal, pre-exists; and the effect flows from it of necessity, for divine providence cannot be frustrated. Therefore divine providence imposes a necessity upon things foreseen.
 
@@ -94,13 +94,13 @@ Objection 2: Further, every provider makes his work as stable as he can, lest it
 
 Objection 3: Further, Boethius says (De Consol. iv, 6): "Fate from the immutable source of providence binds together human acts and fortunes by the indissoluble connection of causes." It seems therefore that providence imposes necessity upon things foreseen.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says that (Div. Nom. iv, 23) "to corrupt nature is not the work of providence." But it is in the nature of some things to be contingent. Divine providence does not therefore impose any necessity upon things so as to destroy their contingency.
 
 I answer that, Divine providence imposes necessity upon some things; not upon all, as some formerly believed. For to providence it belongs to order things towards an end. Now after the divine goodness, which is an extrinsic end to all things, the principal good in things themselves is the perfection of the universe; which would not be, were not all grades of being found in things. Whence it pertains to divine providence to produce every grade of being. And thus it has prepared for some things necessary causes, so that they happen of necessity; for others contingent causes, that they may happen by contingency, according to the nature of their proximate causes.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The effect of divine providence is not only that things should happen somehow; but that they should happen either by necessity or by contingency. Therefore whatsoever divine providence ordains to happen infallibly and of necessity happens infallibly and of necessity; and that happens from contingency, which the plan of divine providence conceives to happen from contingency.
 

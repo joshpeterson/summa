@@ -13,9 +13,9 @@ In due sequence we must consider the contrary vices: first, unbelief, which is c
 (10) Whether unbelievers can have authority over Christians?
 (11) Whether the rites of unbelievers should be tolerated?
 (12) Whether the children of unbelievers are to be baptized against their parents' will?
-## Whether Unbelief Is A Sin?
+### Whether Unbelief Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that unbelief is not a sin. For every sin is contrary to nature, as Damascene proves (De Fide Orth. ii, 4). Now unbelief seems not to be contrary to nature; for Augustine says (De Praedest. Sanct. v) that "to be capable to having faith, just as to be capable of having charity, is natural to all men; whereas to have faith, even as to have charity, belongs to the grace of the faithful." Therefore not to have faith, which is to be an unbeliever, is not a sin.
 
@@ -23,7 +23,7 @@ Objection 2: Further, no one sins that which he cannot avoid, since every sin is
 
 Objection 3: Further, as stated above ([2383]FS, Q[84], A[4]), there are seven capital sins, to which all sins are reduced. But unbelief does not seem to be comprised under any of them. Therefore unbelief is not a sin.
 
-### Answer
+**Answer**
 
 On the contrary, Vice is opposed to virtue. Now faith is a virtue, and unbelief is opposed to it. Therefore unbelief is a sin.
 
@@ -31,16 +31,16 @@ I answer that, Unbelief may be taken in two ways: first, by way of pure negation
 
 If, however, we take it by way of pure negation, as we find it in those who have heard nothing about the faith, it bears the character, not of sin, but of punishment, because such like ignorance of Divine things is a result of the sin of our first parent. If such like unbelievers are damned, it is on account of other sins, which cannot be taken away without faith, but not on account of their sin of unbelief. Hence Our Lord said (Jn. 15:22) "If I had not come, and spoken to them, they would not have sin"; which Augustine expounds (Tract. lxxxix in Joan.) as "referring to the sin whereby they believed not in Christ."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To have the faith is not part of human nature, but it is part of human nature that man's mind should not thwart his inner instinct, and the outward preaching of the truth. Hence, in this way, unbelief is contrary to nature.
 
 Reply to Objection 2: This argument takes unbelief as denoting a pure negation.
 
 Reply to Objection 3: Unbelief, in so far as it is a sin, arises from pride, through which man is unwilling to subject his intellect to the rules of faith, and to the sound interpretation of the Fathers. Hence Gregory says (Moral. xxxi, 45) that "presumptuous innovations arise from vainglory."
-## Whether Unbelief Is In The Intellect As Its Subject?
+### Whether Unbelief Is In The Intellect As Its Subject?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that unbelief is not in the intellect as its subject. For every sin is in the will, according to Augustine (De Duabus Anim. x, xi). Now unbelief is a sin, as stated above [2384](A[1]). Therefore unbelief resides in the will and not in the intellect.
 
@@ -48,7 +48,7 @@ Objection 2: Further, unbelief is sinful through contempt of the preaching of th
 
 Objection 3: Further, a gloss [*Augustine, Enchiridion lx.] on 2 Cor. 11:14 "Satan . . . transformeth himself into an angel of light," says that if "a wicked angel pretend to be a good angel, and be taken for a good angel, it is not a dangerous or an unhealthy error, if he does or says what is becoming to a good angel." This seems to be because of the rectitude of the will of the man who adheres to the angel, since his intention is to adhere to a good angel. Therefore the sin of unbelief seems to consist entirely in a perverse will: and, consequently, it does not reside in the intellect.
 
-### Answer
+**Answer**
 
 On the contrary, Things which are contrary to one another are in the same subject. Now faith, to which unbelief is opposed, resides in the intellect. Therefore unbelief also is in the intellect.
 
@@ -58,14 +58,14 @@ Therefore unbelief, like faith, is in the intellect as its proximate subject. Bu
 
 Hence the Reply to the First Objection is clear.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The will's contempt causes the intellect's dissent, which completes the notion of unbelief. Hence the cause of unbelief is in the will, while unbelief itself is in the intellect.
 
 Reply to Objection 3: He that believes a wicked angel to be a good one, does not dissent from a matter of faith, because "his bodily senses are deceived, while his mind does not depart from a true and right judgment" as the gloss observes [*Augustine, Enchiridion lx]. But, according to the same authority, to adhere to Satan when he begins to invite one to his abode, i.e. wickedness and error, is not without sin.
-## Whether Unbelief Is The Greatest Of Sin?
+### Whether Unbelief Is The Greatest Of Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that unbelief is not the greatest of sins. For Augustine says (De Bapt. contra Donat. iv, 20): "I should hesitate to decide whether a very wicked Catholic ought to be preferred to a heretic, in whose life one finds nothing reprehensible beyond the fact that he is a heretic." But a heretic is an unbeliever. Therefore we ought not to say absolutely that unbelief is the greatest of sins.
 
@@ -73,7 +73,7 @@ Objection 2: Further, that which diminishes or excuses a sin is not, seemingly, 
 
 Objection 3: Further, the greater sin deserves the greater punishment, according to Dt. 25:2: "According to the measure of the sin shall the measure also of the stripes be." Now a greater punishment is due to believers than to unbelievers, according to Heb. 10:29: "How much more, do you think, he deserveth worse punishments, who hath trodden under foot the Son of God, and hath esteemed the blood of the testament unclean, by which he was sanctified?" Therefore unbelief is not the greatest of sins.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine, commenting on Jn. 15:22, "If I had not come, and spoken to them, they would not have sin," says (Tract. lxxxix in Joan.): "Under the general name, He refers to a singularly great sin. For this," viz. infidelity, "is the sin to which all others may be traced." Therefore unbelief is the greatest of sins.
 
@@ -81,16 +81,16 @@ I answer that, Every sin consists formally in aversion from God, as stated above
 
 Nor is it possible for one who has a false opinion of God, to know Him in any way at all, because the object of his opinion is not God. Therefore it is clear that the sin of unbelief is greater than any sin that occurs in the perversion of morals. This does not apply to the sins that are opposed to the theological virtues, as we shall stated further on ([2388]Q[20], A[3];[2389] Q[34], A[2], ad 2;[2390] Q[39], A[2], ad 3).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Nothing hinders a sin that is more grave in its genus from being less grave in respect of some circumstances. Hence Augustine hesitated to decide between a bad Catholic, and a heretic not sinning otherwise, because although the heretic's sin is more grave generically, it can be lessened by a circumstance, and conversely the sin of the Catholic can, by some circumstance, be aggravated.
 
 Reply to Objection 2: Unbelief includes both ignorance, as an accessory thereto, and resistance to matters of faith, and in the latter respect it is a most grave sin. In respect, however, of this ignorance, it has a certain reason for excuse, especially when a man sins not from malice, as was the case with the Apostle.
 
 Reply to Objection 3: An unbeliever is more severely punished for his sin of unbelief than another sinner is for any sin whatever, if we consider the kind of sin. But in the case of another sin, e.g. adultery, committed by a believer, and by an unbeliever, the believer, other things being equal, sins more gravely than the unbeliever, both on account of his knowledge of the truth through faith, and on account of the sacraments of faith with which he has been satiated, and which he insults by committing sin.
-## Whether Every Act Of An Unbeliever Is A Sin?
+### Whether Every Act Of An Unbeliever Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that each act of an unbeliever is a sin. Because a gloss on Rom. 14:23, "All that is not of faith is sin," says: "The whole life of unbelievers is a sin." Now the life of unbelievers consists of their actions. Therefore every action of an unbeliever is a sin.
 
@@ -98,7 +98,7 @@ Objection 2: Further, faith directs the intention. Now there can be no good save
 
 Objection 3: Further, when that which precedes is corrupted, that which follows is corrupted also. Now an act of faith precedes the acts of all the virtues. Therefore, since there is no act of faith in unbelievers, they can do no good work, but sin in every action of theirs.
 
-### Answer
+**Answer**
 
 On the contrary, It is said of Cornelius, while yet an unbeliever (Acts 10:4, 31), that his alms were acceptable to God. Therefore not every action of an unbeliever is a sin, but some of his actions are good.
 
@@ -106,16 +106,16 @@ I answer that, As stated above ([2391]FS, Q[85], AA[2],4) mortal sin takes away 
 
 Hence it does not follow that they sin in everything they do; but whenever they do anything out of their unbelief, then they sin. For even as one who has the faith, can commit an actual sin, venial or even mortal, which he does not refer to the end of faith, so too, an unbeliever can do a good deed in a matter which he does not refer to the end of his unbelief.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The words quoted must be taken to mean either that the life of unbelievers cannot be sinless, since without faith no sin is taken away, or that whatever they do out of unbelief, is a sin. Hence the same authority adds: "Because every one that lives or acts according to his unbelief, sins grievously."
 
 Reply to Objection 2: Faith directs the intention with regard to the supernatural last end: but even the light of natural reason can direct the intention in respect of a connatural good.
 
 Reply to Objection 3: Unbelief does not so wholly destroy natural reason in unbelievers, but that some knowledge of the truth remains in them, whereby they are able to do deeds that are generically good. With regard, however, to Cornelius, it is to be observed that he was not an unbeliever, else his works would not have been acceptable to God, whom none can please without faith. Now he had implicit faith, as the truth of the Gospel was not yet made manifest: hence Peter was sent to him to give him fuller instruction in the faith.
-## Whether There Are Several Species Of Unbelief?
+### Whether There Are Several Species Of Unbelief?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are not several species of unbelief. For, since faith and unbelief are contrary to one another, they must be about the same thing. Now the formal object of faith is the First Truth, whence it derives its unity, although its matter contains many points of belief. Therefore the object of unbelief also is the First Truth; while the things which an unbeliever disbelieves are the matter of his unbelief. Now the specific difference depends not on material but on formal principles. Therefore there are not several species of unbelief, according to the various points which the unbeliever disbelieves.
 
@@ -123,7 +123,7 @@ Objection 2: Further, it is possible to stray from the truth of faith in an infi
 
 Objection 3: Further, the same thing does not belong to different species. Now a man may be an unbeliever through erring about different points of truth. Therefore diversity of errors does not make a diversity of species of unbelief: and so there are not several species of unbelief.
 
-### Answer
+**Answer**
 
 On the contrary, Several species of vice are opposed to each virtue, because "good happens in one way, but evil in many ways," according to Dionysius (Div. Nom. iv) and the Philosopher (Ethic. ii, 6). Now faith is a virtue. Therefore several species of vice are opposed to it.
 
@@ -133,16 +133,16 @@ Accordingly we must say that if unbelief be considered in comparison to faith, t
 
 If, however, the species of unbelief be distinguished according to the various errors that occur in matters of faith, there are not determinate species of unbelief: for errors can be multiplied indefinitely, as Augustine observes (De Haeresibus).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The formal aspect of a sin can be considered in two ways. First, according to the intention of the sinner, in which case the thing to which the sinner turns is the formal object of his sin, and determines the various species of that sin. Secondly, it may be considered as an evil, and in this case the good which is forsaken is the formal object of the sin; which however does not derive its species from this point of view, in fact it is a privation. We must therefore reply that the object of unbelief is the First Truth considered as that which unbelief forsakes, but its formal aspect, considered as that to which unbelief turns, is the false opinion that it follows: and it is from this point of view that unbelief derives its various species. Hence, even as charity is one, because it adheres to the Sovereign Good, while there are various species of vice opposed to charity, which turn away from the Sovereign Good by turning to various temporal goods, and also in respect of various inordinate relations to God, so too, faith is one virtue through adhering to the one First Truth, yet there are many species of unbelief, because unbelievers follow many false opinions.
 
 Reply to Objection 2: This argument considers the various species of unbelief according to various points in which errors occur.
 
 Reply to Objection 3: Since faith is one because it believes in many things in relation to one, so may unbelief, although it errs in many things, be one in so far as all those things are related to one. Yet nothing hinders one man from erring in various species of unbelief, even as one man may be subject to various vices, and to various bodily diseases.
-## Whether The Unbelief Of Pagans Or Heathens Is Graver Than Other Kinds?
+### Whether The Unbelief Of Pagans Or Heathens Is Graver Than Other Kinds?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the unbelief of heathens or pagans is graver than other kinds. For just as bodily disease is graver according as it endangers the health of a more important member of the body, so does sin appear to be graver, according as it is opposed to that which holds a more important place in virtue. Now that which is most important in faith, is belief in the unity of God, from which the heathens deviate by believing in many gods. Therefore their unbelief is the gravest of all.
 
@@ -150,7 +150,7 @@ Objection 2: Further, among heresies, the more detestable are those which contra
 
 Objection 3: Further, every good diminishes evil. Now there is some good in the Jews, since they believe in the Old Testament as being from God, and there is some good in heretics, since they venerate the New Testament. Therefore they sin less grievously than heathens, who receive neither Testament.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (2 Pet. 2:21): "It had been better for them not to have known the way of justice, than after they have known it, to turn back." Now the heathens have not known the way of justice, whereas heretics and Jews have abandoned it after knowing it in some way. Therefore theirs is the graver sin.
 
@@ -161,9 +161,9 @@ The second thing to be considered in unbelief is the corruption of matters of fa
 Of these two gravities the first surpasses the second from the point of view of guilt; since, as stated above [2395](A[1]) unbelief has the character of guilt, from its resisting faith rather than from the mere absence of faith, for the latter as was stated [2396](A[1]) seems rather to bear the character of punishment. Hence, speaking absolutely, the unbelief of heretics is the worst.
 
 This suffices for the Replies to the Objections.
-## Whether One Ought To Dispute With Unbelievers In Public?
+### Whether One Ought To Dispute With Unbelievers In Public?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one ought not to dispute with unbelievers in public. For the Apostle says (2 Tim. 2:14): "Contend not in words, for it is to no profit, but to the subverting of the hearers." But it is impossible to dispute with unbelievers publicly without contending in words. Therefore one ought not to dispute publicly with unbelievers.
 
@@ -171,7 +171,7 @@ Objection 2: Further, the law of Martianus Augustus confirmed by the canons [*De
 
 Objection 3: Further, disputations are conducted by means of arguments. But an argument is a reason in settlement of a dubious matter: whereas things that are of faith, being most certain, ought not to be a matter of doubt. Therefore one ought not to dispute in public about matters of faith.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Acts 9:22, 29) that "Saul increased much more in strength, and confounded the Jews," and that "he spoke . . . to the gentiles and disputed with the Greeks."
 
@@ -179,16 +179,16 @@ I answer that, In disputing about the faith, two things must be observed: one on
 
 On the part of the hearers we must consider whether those who hear the disputation are instructed and firm in the faith, or simple and wavering. As to those who are well instructed and firm in the faith, there can be no danger in disputing about the faith in their presence. But as to simple-minded people, we must make a distinction; because either they are provoked and molested by unbelievers, for instance, Jews or heretics, or pagans who strive to corrupt the faith in them, or else they are not subject to provocation in this matter, as in those countries where there are not unbelievers. In the first case it is necessary to dispute in public about the faith, provided there be those who are equal and adapted to the task of confuting errors; since in this way simple people are strengthened in the faith, and unbelievers are deprived of the opportunity to deceive, while if those who ought to withstand the perverters of the truth of faith were silent, this would tend to strengthen error. Hence Gregory says (Pastor. ii, 4): "Even as a thoughtless speech gives rise to error, so does an indiscreet silence leave those in error who might have been instructed." On the other hand, in the second case it is dangerous to dispute in public about the faith, in the presence of simple people, whose faith for this very reason is more firm, that they have never heard anything differing from what they believe. Hence it is not expedient for them to hear what unbelievers have to say against the faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle does not entirely forbid disputations, but such as are inordinate, and consist of contentious words rather than of sound speeches.
 
 Reply to Objection 2: That law forbade those public disputations about the faith, which arise from doubting the faith, but not those which are for the safeguarding thereof.
 
 Reply to Objection 3: One ought to dispute about matters of faith, not as though one doubted about them, but in order to make the truth known, and to confute errors. For, in order to confirm the faith, it is necessary sometimes to dispute with unbelievers, sometimes by defending the faith, according to 1 Pet. 3:15: "Being ready always to satisfy everyone that asketh you a reason of that hope and faith which is in you [*Vulg.: 'Of that hope which is in you' St. Thomas' reading is apparently taken from Bede]." Sometimes again, it is necessary, in order to convince those who are in error, according to Titus 1:9: "That he may be able to exhort in sound doctrine and to convince the gainsayers."
-## Whether Unbelievers Ought To Be Compelled To The Faith?
+### Whether Unbelievers Ought To Be Compelled To The Faith?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that unbelievers ought by no means to be compelled to the faith. For it is written (Mat. 13:28) that the servants of the householder, in whose field cockle had been sown, asked him: "Wilt thou that we go and gather it up?" and that he answered: "No, lest perhaps gathering up the cockle, you root up the wheat also together with it": on which passage Chrysostom says (Hom. xlvi in Matth.): "Our Lord says this so as to forbid the slaying of men. For it is not right to slay heretics, because if you do you will necessarily slay many innocent persons." Therefore it seems that for the same reason unbelievers ought not to be compelled to the faith.
 
@@ -198,7 +198,7 @@ Objection 3: Further, Augustine says (Tract. xxvi in Joan.) that "it is possible
 
 Objection 4: It is said in God's person (Ezech. 18:32 [*Ezech. 33:11]): "I desire not the death of the sinner [Vulg.: 'of him that dieth']." Now we ought to conform our will to the Divine will, as stated above ([2397]FS, Q[19], AA[9],10). Therefore we should not even wish unbelievers to be put to death.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 14:23): "Go out into the highways and hedges; and compel them to come in." Now men enter into the house of God, i.e. into Holy Church, by faith. Therefore some ought to be compelled to the faith.
 
@@ -206,7 +206,7 @@ I answer that, Among unbelievers there are some who have never received the fait
 
 On the other hand, there are unbelievers who at some time have accepted the faith, and professed it, such as heretics and all apostates: such should be submitted even to bodily compulsion, that they may fulfil what they have promised, and hold what they, at one time, received.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Some have understood the authority quoted to forbid, not the excommunication but the slaying of heretics, as appears from the words of Chrysostom. Augustine too, says (Ep. ad Vincent. xciii) of himself: "It was once my opinion that none should be compelled to union with Christ, that we should deal in words, and fight with arguments. However this opinion of mine is undone, not by words of contradiction, but by convincing examples. Because fear of the law was so profitable, that many say: Thanks be to the Lord Who has broken our chains asunder." Accordingly the meaning of Our Lord's words, "Suffer both to grow until the harvest," must be gathered from those which precede, "lest perhaps gathering up the cockle, you root the wheat also together with it." For, Augustine says (Contra Ep. Parmen. iii, 2) "these words show that when this is not to be feared, that is to say, when a man's crime is so publicly known, and so hateful to all, that he has no defenders, or none such as might cause a schism, the severity of discipline should not slacken."
 
@@ -215,9 +215,9 @@ Reply to Objection 2: Those Jews who have in no way received the faith, ought no
 Reply to Objection 3: Just as taking a vow is a matter of will, and keeping a vow, a matter of obligation, so acceptance of the faith is a matter of the will, whereas keeping the faith, when once one has received it, is a matter of obligation. Wherefore heretics should be compelled to keep the faith. Thus Augustine says to the Count Boniface (Ep. clxxxv): "What do these people mean by crying out continually: 'We may believe or not believe just as we choose. Whom did Christ compel?' They should remember that Christ at first compelled Paul and afterwards taught Him."
 
 Reply to Objection 4: As Augustine says in the same letter, "none of us wishes any heretic to perish. But the house of David did not deserve to have peace, unless his son Absalom had been killed in the war which he had raised against his father. Thus if the Catholic Church gathers together some of the perdition of others, she heals the sorrow of her maternal heart by the delivery of so many nations."
-## Whether It Is Lawful To Communicate With Unbelievers?
+### Whether It Is Lawful To Communicate With Unbelievers?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is lawful to communicate with unbelievers. For the Apostle says (1 Cor. 10:27): "If any of them that believe not, invite you, and you be willing to go, eat of anything that is set before you." And Chrysostom says (Hom. xxv super Epist. ad Heb.): "If you wish to go to dine with pagans, we permit it without any reservation." Now to sit at table with anyone is to communicate with him. Therefore it is lawful to communicate with unbelievers.
 
@@ -225,7 +225,7 @@ Objection 2: Further, the Apostle says (1 Cor. 5:12): "What have I to do to judg
 
 Objection 3: Further, a master cannot employ his servant, unless he communicate with him, at least by word, since the master moves his servant by command. Now Christians can have unbelievers, either Jews, or pagans, or Saracens, for servants. Therefore they can lawfully communicate with them.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 7:2,3): "Thou shalt make no league with them, nor show mercy to them; neither shalt thou make marriages with them": and a gloss on Lev. 15:19, "The woman who at the return of the month," etc. says: "It is so necessary to shun idolatry, that we should not come in touch with idolaters or their disciples, nor have any dealings with them."
 
@@ -237,14 +237,14 @@ With regard to the second way, it seems that one ought to distinguish according 
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The Church does not exercise judgment against unbelievers in the point of inflicting spiritual punishment on them: but she does exercise judgment over some of them in the matter of temporal punishment. It is under this head that sometimes the Church, for certain special sins, withdraws the faithful from communication with certain unbelievers.
 
 Reply to Objection 3: There is more probability that a servant who is ruled by his master's commands, will be converted to the faith of his master who is a believer, than if the case were the reverse: and so the faithful are not forbidden to have unbelieving servants. If, however, the master were in danger, through communicating with such a servant, he should send him away, according to Our Lord's command (Mat. 18:8): "If . . . thy foot scandalize thee, cut it off, and cast it from thee."
-## Whether Unbelievers May Have Authority Or Dominion Over The Faithful?
+### Whether Unbelievers May Have Authority Or Dominion Over The Faithful?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that unbelievers may have authority or dominion over the faithful. For the Apostle says (1 Tim. 6:1): "Whosoever are servants under the yoke, let them count their masters worthy of all honor": and it is clear that he is speaking of unbelievers, since he adds (1 Tim. 6:2): "But they that have believing masters, let them not despise them." Moreover it is written (1 Pet. 2:18): "Servants be subject to your masters with all fear, not only to the good and gentle, but also to the froward." Now this command would not be contained in the apostolic teaching unless unbelievers could have authority over the faithful. Therefore it seems that unbelievers can have authority over the faithful.
 
@@ -252,7 +252,7 @@ Objection 2: Further, all the members of a prince's household are his subjects. 
 
 Objection 3: Further, according to the Philosopher (Polit. i, 2) a slave is his master's instrument in matters concerning everyday life, even as a craftsman's laborer is his instrument in matters concerning the working of his art. Now, in such matters, a believer can be subject to an unbeliever, for he may work on an unbeliever's farm. Therefore unbelievers may have authority over the faithful even as to dominion.
 
-### Answer
+**Answer**
 
 On the contrary, Those who are in authority can pronounce judgment on those over whom they are placed. But unbelievers cannot pronounce judgment on the faithful, for the Apostle says (1 Cor. 6:1): "Dare any of you, having a matter against another, go to be judged before the unjust," i.e. unbelievers, "and not before the saints?" Therefore it seems that unbelievers cannot have authority over the faithful.
 
@@ -266,14 +266,14 @@ This the Church does sometimes, and sometimes not. For among those unbelievers w
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The authority of Caesar preceded the distinction of faithful from unbelievers. Hence it was not cancelled by the conversion of some to the faith. Moreover it was a good thing that there should be a few of the faithful in the emperor's household, that they might defend the rest of the faithful. Thus the Blessed Sebastian encouraged those whom he saw faltering under torture, and, the while, remained hidden under the military cloak in the palace of Diocletian.
 
 Reply to Objection 3: Slaves are subject to their masters for their whole lifetime, and are subject to their overseers in everything: whereas the craftsman's laborer is subject to him for certain special works. Hence it would be more dangerous for unbelievers to have dominion or authority over the faithful, than that they should be allowed to employ them in some craft. Wherefore the Church permits Christians to work on the land of Jews, because this does not entail their living together with them. Thus Solomon besought the King of Tyre to send master workmen to hew the trees, as related in 3 Kings 5:6. Yet, if there be reason to fear that the faithful will be perverted by such communications and dealings, they should be absolutely forbidden.
-## Whether The Rites Of Unbelievers Ought To Be Tolerated?
+### Whether The Rites Of Unbelievers Ought To Be Tolerated?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that rites of unbelievers ought not to be tolerated. For it is evident that unbelievers sin in observing their rites: and not to prevent a sin, when one can, seems to imply consent therein, as a gloss observes on Rom. 1:32: "Not only they that do them, but they also that consent to them that do them." Therefore it is a sin to tolerate their rites.
 
@@ -281,7 +281,7 @@ Objection 2: Further, the rites of the Jews are compared to idolatry, because a 
 
 Objection 3: Further, unbelief is the greatest of sins, as stated above (A[3] ). Now other sins such as adultery, theft and the like, are not tolerated, but are punishable by law. Therefore neither ought the rites of unbelievers to be tolerated.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory [*Regist. xi, Ep. 15: cf. Decret., dist. xlv, can., Qui sincera] says, speaking of the Jews: "They should be allowed to observe all their feasts, just as hitherto they and their fathers have for ages observed them."
 
@@ -290,9 +290,9 @@ I answer that, Human government is derived from the Divine government, and shoul
 On the other hand, the rites of other unbelievers, which are neither truthful nor profitable are by no means to be tolerated, except perchance in order to avoid an evil, e.g. the scandal or disturbance that might ensue, or some hindrance to the salvation of those who if they were unmolested might gradually be converted to the faith. For this reason the Church, at times, has tolerated the rites even of heretics and pagans, when unbelievers were very numerous.
 
 This suffices for the Replies to the Objections.
-## Whether The Children Of Jews And Other Unbelievers Ought To Be Baptized Against Their Parents' Will?
+### Whether The Children Of Jews And Other Unbelievers Ought To Be Baptized Against Their Parents' Will?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the children of Jews and of other unbelievers ought to be baptized against their parents' will. For the bond of marriage is stronger than the right of parental authority over children, since the right of parental authority can be made to cease, when a son is set at liberty; whereas the marriage bond cannot be severed by man, according to Mat. 19:6: "What . . . God hath joined together let no man put asunder." And yet the marriage bond is broken on account of unbelief: for the Apostle says (1 Cor. 7:15): "If the unbeliever depart, let him depart. For a brother or sister is not under servitude in such cases": and a canon [*Can. Uxor legitima, and Idololatria, qu. i] says that "if the unbelieving partner is unwilling to abide with the other, without insult to their Creator, then the other partner is not bound to cohabitation." Much more, therefore, does unbelief abrogate the right of unbelieving parents' authority over their children: and consequently their children may be baptized against their parents' will.
 
@@ -304,7 +304,7 @@ Objection 4: Further, every man belongs more to God, from Whom he has his soul, 
 
 Objection 5: Further, Baptism avails for salvation more than preaching does, since Baptism removes forthwith the stain of sin and the debt of punishment, and opens the gate of heaven. Now if danger ensue through not preaching, it is imputed to him who omitted to preach, according to the words of Ezech. 33:6 about the man who "sees the sword coming and sounds not the trumpet." Much more therefore, if Jewish children are lost through not being baptized are they accounted guilty of sin, who could have baptized them and did not.
 
-### Answer
+**Answer**
 
 On the contrary, Injustice should be done to no man. Now it would be an injustice to Jews if their children were to be baptized against their will, since they would lose the rights of parental authority over their children as soon as these were Christians. Therefore these should not be baptized against their parents' will.
 
@@ -314,7 +314,7 @@ There are two reasons for this custom. One is on account of the danger to the fa
 
 The other reason is that it is against natural justice. For a child is by nature part of its father: thus, at first, it is not distinct from its parents as to its body, so long as it is enfolded within its mother's womb; and later on after birth, and before it has the use of its free-will, it is enfolded in the care of its parents, which is like a spiritual womb, for so long as man has not the use of reason, he differs not from an irrational animal; so that even as an ox or a horse belongs to someone who, according to the civil law, can use them when he likes, as his own instrument, so, according to the natural law, a son, before coming to the use of reason, is under his father's care. Hence it would be contrary to natural justice, if a child, before coming to the use of reason, were to be taken away from its parents' custody, or anything done to it against its parents' wish. As soon, however, as it begins to have the use of its free-will, it begins to belong to itself, and is able to look after itself, in matters concerning the Divine or the natural law, and then it should be induced, not by compulsion but by persuasion, to embrace the faith: it can then consent to the faith, and be baptized, even against its parents' wish; but not before it comes to the use of reason. Hence it is said of the children of the fathers of old that they were saved in the faith of their parents; whereby we are given to understand that it is the parents' duty to look after the salvation of their children, especially before they come to the use of reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the marriage bond, both husband and wife have the use of the free-will, and each can assent to the faith without the other's consent. But this does not apply to a child before it comes to the use of reason: yet the comparison holds good after the child has come to the use of reason, if it is willing to be converted.
 

@@ -5,9 +5,9 @@ We next consider the effects of the Divine government in particular; concerning 
 (2) Whether they are immediately preserved by God?
 (3) Whether God can reduce anything to nothingness?
 (4) Whether anything is reduced to nothingness?
-## Whether Creatures Need To Be Kept In Being By God?
+### Whether Creatures Need To Be Kept In Being By God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that creatures do not need to be kept in being by God. For what cannot not-be, does not need to be kept in being; just as that which cannot depart, does not need to be kept from departing. But some creatures by their very nature cannot not-be. Therefore not all creatures need to be kept in being by God. The middle proposition is proved thus. That which is included in the nature of a thing is necessarily in that thing, and its contrary cannot be in it; thus a multiple of two must necessarily be even, and cannot possibly be an odd number. Now form brings being with itself, because everything is actually in being, so far as it has form. But some creatures are subsistent forms, as we have said of the angels ([835]Q[50], AA[2],5): and thus to be is in them of themselves. The same reasoning applies to those creatures whose matter is in potentiality to one form only, as above explained of heavenly bodies ([836]Q[66], A[2]). Therefore such creatures as these have in their nature to be necessarily, and cannot not-be; for there can be no potentiality to not-being, either in the form which has being of itself, or in matter existing under a form which it cannot lose, since it is not in potentiality to any other form.
 
@@ -17,7 +17,7 @@ Objection 3: Further, nothing violent can occur, except there be some active cau
 
 Objection 4: Further, if God keeps creatures in being, this is done by some action. Now every action of an agent, if that action be efficacious, produces something in the effect. Therefore the preserving power of God must produce something in the creature. But this is not so; because this action does not give being to the creature, since being is not given to that which already is: nor does it add anything new to the creature; because either God would not keep the creature in being continually, or He would be continually adding something new to the creature; either of which is unreasonable. Therefore creatures are not kept in being by God.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 1:3): "Upholding all things by the word of His power."
 
@@ -33,7 +33,7 @@ Therefore as the becoming of a thing cannot continue when that action of the age
 
 Now every creature may be compared to God, as the air is to the sun which enlightens it. For as the sun possesses light by its nature, and as the air is enlightened by sharing the sun's nature; so God alone is Being in virtue of His own Essence, since His Essence is His existence; whereas every creature has being by participation, so that its essence is not its existence. Therefore, as Augustine says (Gen. ad lit. iv, 12): "If the ruling power of God were withdrawn from His creatures, their nature would at once cease, and all nature would collapse." In the same work (Gen. ad lit. viii, 12) he says: "As the air becomes light by the presence of the sun, so is man enlightened by the presence of God, and in His absence returns at once to darkness."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: "Being" naturally results from the form of a creature, given the influence of the Divine action; just as light results from the diaphanous nature of the air, given the action of the sun. Wherefore the potentiality to not-being in spiritual creatures and heavenly bodies is rather something in God, Who can withdraw His influence, than in the form or matter of those creatures.
 
@@ -42,9 +42,9 @@ Reply to Objection 2: God cannot grant to a creature to be preserved in being af
 Reply to Objection 3: This argument holds in regard to that preservation which consists in the removal of corruption: but all creatures do not need to be preserved thus, as stated above.
 
 Reply to Objection 4: The preservation of things by God is a continuation of that action whereby He gives existence, which action is without either motion or time; so also the preservation of light in the air is by the continual influence of the sun.
-## Whether God Preserves Every Creature Immediately?
+### Whether God Preserves Every Creature Immediately?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that God preserves every creature immediately. For God creates and preserves things by the same action, as above stated (A[1], ad 4). But God created all things immediately. Therefore He preserves all things immediately.
 
@@ -52,7 +52,7 @@ Objection 2: Further, a thing is nearer to itself than to another. But it cannot
 
 Objection 3: Further, an effect is kept in being by the cause, not only of its "becoming," but also of its being. But all created causes do not seem to cause their effects except in their "becoming," for they cause only by moving, as above stated ([837]Q[45], A[3]). Therefore they do not cause so as to keep their effects in being.
 
-### Answer
+**Answer**
 
 On the contrary, A thing is kept in being by that which gives it being. But God gives being by means of certain intermediate causes. Therefore He also keeps things in being by means of certain causes.
 
@@ -60,16 +60,16 @@ I answer that, As stated above [838](A[1]), a thing keeps another in being in tw
 
 For this reason, even in things corporeal, the preservation and continuation of things is ascribed to the higher causes: thus the Philosopher says (Metaph. xii, Did. xi, 6), that the first, namely the diurnal movement is the cause of the continuation of things generated; whereas the second movement, which is from the zodiac, is the cause of diversity owing to generation and corruption. In like manner astrologers ascribe to Saturn, the highest of the planets, those things which are permanent and fixed. So we conclude that God keeps certain things in being, by means of certain causes.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God created all things immediately, but in the creation itself He established an order among things, so that some depend on others, by which they are preserved in being, though He remains the principal cause of their preservation.
 
 Reply to Objection 2: Since an effect is preserved by its proper cause on which it depends; just as no effect can be its own cause, but can only produce another effect, so no effect can be endowed with the power of self-preservation, but only with the power of preserving another.
 
 Reply to Objection 3: No created nature can be the cause of another, as regards the latter acquiring a new form, or disposition, except by virtue of some change; for the created nature acts always on something presupposed. But after causing the form or disposition in the effect, without any fresh change in the effect, the cause preserves that form or disposition; as in the air, when it is lit up anew, we must allow some change to have taken place, while the preservation of the light is without any further change in the air due to the presence of the source of light.
-## Whether God Can Annihilate Anything?
+### Whether God Can Annihilate Anything?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that God cannot annihilate anything. For Augustine says (QQ. 83, qu. 21) that "God is not the cause of anything tending to non-existence." But He would be such a cause if He were to annihilate anything. Therefore He cannot annihilate anything.
 
@@ -77,22 +77,22 @@ Objection 2: Further, by His goodness God is the cause why things exist, since, 
 
 Objection 3: Further, if God were to annihilate anything it would be by His action. But this cannot be; because the term of every action is existence. Hence even the action of a corrupting cause has its term in something generated; for when one thing is generated another undergoes corruption. Therefore God cannot annihilate anything.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jer. 10:24): "Correct me, O Lord, but yet with judgment; and not in Thy fury, lest Thou bring me to nothing."
 
 I answer that, Some have held that God, in giving existence to creatures, acted from natural necessity. Were this true, God could not annihilate anything, since His nature cannot change. But, as we have said above ([839]Q[19], A[4]), such an opinion is entirely false, and absolutely contrary to the Catholic faith, which confesses that God created things of His own free-will, according to Ps. 134:6: "Whatsoever the Lord pleased, He hath done." Therefore that God gives existence to a creature depends on His will; nor does He preserve things in existence otherwise than by continually pouring out existence into them, as we have said. Therefore, just as before things existed, God was free not to give them existence, and not to make them; so after they are made, He is free not to continue their existence; and thus they would cease to exist; and this would be to annihilate them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Non-existence has no direct cause; for nothing is a cause except inasmuch as it has existence, and a being essentially as such is a cause of something existing. Therefore God cannot cause a thing to tend to non-existence, whereas a creature has this tendency of itself, since it is produced from nothing. But indirectly God can be the cause of things being reduced to non-existence, by withdrawing His action therefrom.
 
 Reply to Objection 2: God's goodness is the cause of things, not as though by natural necessity, because the Divine goodness does not depend on creatures; but by His free-will. Wherefore, as without prejudice to His goodness, He might not have produced things into existence, so, without prejudice to His goodness, He might not preserve things in existence.
 
 Reply to Objection 3: If God were to annihilate anything, this would not imply an action on God's part; but a mere cessation of His action.
-## Whether Anything Is Annihilated?
+### Whether Anything Is Annihilated?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that something is annihilated. For the end corresponds to the beginning. But in the beginning there was nothing but God. Therefore all things must tend to this end, that there shall be nothing but God. Therefore creatures will be reduced to nothing.
 
@@ -100,7 +100,7 @@ Objection 2: Further, every creature has a finite power. But no finite power ext
 
 Objection 3: Further, forms and accidents have no matter as part of themselves. But at some time they cease to exist. Therefore they are reduced to nothing.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Eccles. 3:14): "I have learned that all the works that God hath made continue for ever."
 
@@ -108,7 +108,7 @@ I answer that, Some of those things which God does in creatures occur in accorda
 
 Now the nature of creatures shows that none of them is annihilated. For, either they are immaterial, and therefore have no potentiality to non-existence; or they are material, and then they continue to exist, at least in matter, which is incorruptible, since it is the subject of generation and corruption. Moreover, the annihilation of things does not pertain to the manifestation of grace; since rather the power and goodness of God are manifested by the preservation of things in existence. Wherefore we must conclude by denying absolutely that anything at all will be annihilated.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That things are brought into existence from a state of non-existence, clearly shows the power of Him Who made them; but that they should be reduced to nothing would hinder that manifestation, since the power of God is conspicuously shown in His preserving all things in existence, according to the Apostle: "Upholding all things by the word of His power" (Heb. 1:3).
 

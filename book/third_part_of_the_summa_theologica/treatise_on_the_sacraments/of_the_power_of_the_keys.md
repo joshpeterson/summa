@@ -4,9 +4,9 @@ We must now consider the power of the ministers of this sacrament, which power d
 (1) Whether there ought to be keys in the Church?
 (2) Whether the key is the power of binding and loosing, etc.?
 (3) Whether there are two keys or only one?
-## Whether There Should Be Keys In The Church?
+### Whether There Should Be Keys In The Church?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is no necessity for keys in the Church. For there is no need for keys that one may enter a house the door of which is open. But it is written (Apoc. 4:1): "I looked and behold a door was opened in heaven," which door is Christ, for He said of Himself (Jn. 10:7): "I am the door." Therefore the Church needs no keys for the entrance into heaven.
 
@@ -14,22 +14,22 @@ Objection 2: Further, a key is needed for opening and shutting. But this belongs
 
 Objection 3: Further, hell is opened to whomever heaven is closed, and vice versa. Therefore whoever has the keys of heaven, has the keys of hell. But the Church is not said to have the keys of hell. Therefore neither has she the keys of heaven.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 16:19): "To thee will I give the keys of the kingdom of heaven."
 
 I answer that, In material things a key is an instrument for opening a door. Now the door of the kingdom is closed to us through sin, both as to the stain and as to the debt of punishment. Wherefore the power of removing this obstacle is called a key. Now this power is in the Divine Trinity by authority; hence some say that God has the key of "authority." But Christ Man had the power to remove the above obstacle, through the merit of His Passion, which also is said to open the door; hence some say that He has the keys of "excellence." And since "the sacraments of which the Church is built, flowed from the side of Christ while He lay asleep on the cross" [*Augustine, Enarr. in Ps. 138], the efficacy of the Passion abides in the sacraments of the Church. Wherefore a certain power for the removal of the aforesaid obstacle is bestowed on the ministers of the Church, who are the dispensers of the sacraments, not by their own, but by a Divine power and by the Passion of Christ. This power is called metaphorically the Church's key, and is the key of "ministry."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The door of heaven, considered in itself, is ever open, but it is said to be closed to someone, on account of some obstacle against entering therein, which is in himself. The obstacle which the entire human nature inherited from the sin of the first man was removed by Christ's Passion; hence, after the Passion, John saw an opened door in heaven. Yet that door still remains closed to this or that man, on account of the original sin which he has contracted, or the actual sin which he has committed: hence we need the sacraments and the keys of the Church.
 
 Reply to Objection 2: This refers to His closing Limbo, so that thenceforth no one should go there, and to His opening of Paradise, the obstacle of nature being removed by His Passion.
 
 Reply to Objection 3: The key whereby hell is opened and closed, is the power of bestowing grace, whereby hell is opened to man, so that he is taken out from sin which is the door of hell, and closed, so that by the help of grace man should no more fall into sin. Now the power of bestowing grace belongs to God alone, wherefore He kept this key to Himself. But the key of the kingdom is also the power to remit the debt of temporal punishment, which debt prevents man from entering the kingdom Consequently the key of the kingdom can be given to man rather than the key of hell, for they are not the same, as is clear from what has been said. For a man may be set free from hell by the remission of the debt of eternal punishment, without being at once admitted to the kingdom, on account of his yet owing a debt of temporal punishment.
-## Whether The Key Is The Power Of Binding And Loosing, Etc.?
+### Whether The Key Is The Power Of Binding And Loosing, Etc.?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the key is not the power of binding and loosing, whereby "the ecclesiastical judge has to admit the worthy to the kingdom and exclude the unworthy" therefrom, as stated in the text (Sent. iv, D, 16). For the spiritual power conferred in a sacrament is the same as the character. But the key and the character do not seem to be the same, since by the character man is referred to God, whereas by the key he is referred to his subjects. Therefore the key is not a power.
 
@@ -41,13 +41,13 @@ Objection 4: Further, sinners are unworthy of the kingdom. But the Church prays 
 
 Objection 5: Further, in every ordered series of agents, the last end belongs to the principal and not to the instrumental agent. But the principal agent in view of man's salvation is God. Therefore admission to the kingdom, which is the last end, belongs to Him, and not to those who have the keys, who are as instrumental or ministerial agents.
 
-### Answer
+**Answer**
 
 
 
 I answer that, According to the Philosopher (De Anima ii, text. 33), "powers are defined from their acts." Wherefore, since the key is a kind of power, it should be defined from its act or use, and reference to the act should include its object from which it takes its species, and the mode of acting whereby the power is shown to be well-ordered. Now the act of the spiritual power is to open heaven, not absolutely, since it is already open, as stated above (A[1], ad 1), but for this or that man; and this cannot be done in an orderly manner without due consideration of the worthiness of the one to be admitted to heaven. Hence the aforesaid definition of the key gives the genus, viz. "power," the subject of the power, viz. the "ecclesiastical judge," and the act, viz. "of excluding or admitting," corresponding to the two acts of a material key which are to open and shut; the object of which act is referred to in the words "from the kingdom," and the mode, in the words, "worthy" and "unworthy," because account is taken of the worthiness or unworthiness of those on whom the act is exercised.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The same power is directed to two things, of which one is the cause of the other, as heat, in fire, is directed to make a thing hot and to melt it. And since every grace and remission in a mystical body comes to it from its head, it seems that it is essentially the same power whereby a priest can consecrate, and whereby he can loose and bind, if he has jurisdiction, and that there is only a logical difference, according as it is referred to different effects, even as fire in one respect is said to have the power of heating, and in another, the power of melting. And because the character of the priestly order is nothing else than the power of exercising that act to which the priestly order is chiefly ordained (if we maintain that it is the same as a spiritual power), therefore the character, the power of consecrating, and the power of the keys are one and the same essentially, but differ logically.
 
@@ -58,9 +58,9 @@ Reply to Objection 3: A person may be worthy to have something in two ways, eith
 Reply to Objection 4: Even as God hardens not by imparting malice, but by withholding grace, so a priest is said to exclude, not as though he placed an obstacle to entrance, but because he does not remove an obstacle which is there, since he cannot remove it unless God has already removed it. [*St. Thomas here follows the opinion of Peter Lombard, and replies in the negative. Later in life he altered his opinion. Cf. [4860]TP, Q[62], A[1]; [4861]TP, Q[64], A[1]; [4862]TP, Q[86], A[6].] Hence God is prayed that He may absolve, so that there may be room for the priest's absolution.
 
 Reply to Objection 5: The priest's act does not bear immediately on the kingdom, but on the sacraments, by means of which man wins to the kingdom.
-## Whether There Are Two Keys Or Only One?
+### Whether There Are Two Keys Or Only One?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are not two keys but only one. For one lock requires but one key. Now the lock for the removal of which the keys of the Church are required, is sin. Therefore the Church does not require two keys for one sin.
 
@@ -72,7 +72,7 @@ Objection 4: On the other hand, It seems that there are more than two keys. For 
 
 Objection 5: Further, all three Divine Persons remit sins. Now the priest, through the keys, is the minister for the remission of sins. Therefore he should have three keys, so that he may be conformed to the Trinity.
 
-### Answer
+**Answer**
 
 
 
@@ -80,7 +80,7 @@ I answer that, Whenever an act requires fitness on the part of the recipient, tw
 
 These two keys are distinct, not in the essence of authority, since both belong to the minister by virtue of his office, but in comparison with their respective acts, one of which presupposes the other.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: One key is ordained immediately to the opening of one lock, but it is not unfitting that one key should be ordained to the act of another. Thus it is in the case in point. For it is the second key, which is the power of binding and loosing, that opens the lock of sin immediately, but the key of knowledge shows to whom that lock should be opened.
 

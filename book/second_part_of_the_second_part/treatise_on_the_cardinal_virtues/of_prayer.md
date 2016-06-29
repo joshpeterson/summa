@@ -18,9 +18,9 @@ We must now consider prayer, under which head there are seventeen points of inqu
 (15) Whether prayer is meritorious? [*Art. 16]
 (16) Whether sinners impetrate anything from God by praying? [*Art. 15]
 (17) of the different kinds of prayer.
-## Whether Prayer Is An Act Of The Appetitive Power?
+### Whether Prayer Is An Act Of The Appetitive Power?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prayer is an act of the appetitive power. It belongs to prayer to be heard. Now it is the desire that is heard by God, according to Ps. 9:38, "The Lord hath heard the desire of the poor." Therefore prayer is desire. But desire is an act of the appetitive power: and therefore prayer is also.
 
@@ -28,7 +28,7 @@ Objection 2: Further, Dionysius says (Div. Nom. iii): "It is useful to begin eve
 
 Objection 3: Further, the Philosopher states (De Anima iii, 6) that there are two operations of the intellective part. Of these the first is "the understanding of indivisibles," by which operation we apprehend what a thing is: while the second is "synthesis" and "analysis," whereby we apprehend that a thing is or is not. To these a third may be added, namely, "reasoning," whereby we proceed from the known to the unknown. Now prayer is not reducible to any of these operations. Therefore it is an operation, not of the intellective, but of the appetitive power.
 
-### Answer
+**Answer**
 
 On the contrary, Isidore says (Etym. x) that "to pray is to speak." Now speech belongs to the intellect. Therefore prayer is an act, not of the appetitive, but of the intellective power.
 
@@ -36,16 +36,16 @@ I answer that, According to Cassiodorus [*Comment. in Ps. 38:13] "prayer [oratio
 
 Now in the present instance we are speaking of prayer [*This last paragraph refers to the Latin word 'oratio' [prayer] which originally signified a speech, being derived in the first instance from 'os,' 'oris' (the mouth).] as signifying a beseeching or petition, in which sense Augustine [*Rabanus, De Univ. vi, 14]: says (De Verb. Dom.) that "prayer is a petition," and Damascene states (De Fide Orth. iii, 24) that "to pray is to ask becoming things of God." Accordingly it is evident that prayer, as we speak of it now, is an act of reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Lord is said to hear the desire of the poor, either because desire is the cause of their petition, since a petition is like the interpreter of a desire, or in order to show how speedily they are heard, since no sooner do the poor desire something than God hears them before they put up a prayer, according to the saying of Is. 65:24, "And it shall come to pass, that before they call, I will hear."
 
 Reply to Objection 2: As stated above ([3007]FP, Q[82], A[4]; [3008]FS, Q[9], A[1], ad 3), the will moves the reason to its end: wherefore nothing hinders the act of reason, under the motion of the will, from tending to an end such as charity which is union with God. Now prayer tends to God through being moved by the will of charity, as it were, and this in two ways. First, on the part of the object of our petition, because when we pray we ought principally to ask to be united to God, according to Ps. 26:4, "One thing I have asked of the Lord, this will I seek after, that I may dwell in the house of the Lord all the days of my life." Secondly, on the part of the petitioner, who ought to approach the person whom he petitions, either locally, as when he petitions a man, or mentally, as when he petitions God. Hence Dionysius says (Div. Nom. iii) that "when we call upon God in our prayers, we unveil our mind in His presence": and in the same sense Damascene says (De Fide Orth. iii, 24) that "prayer is the raising up of the mind to God."
 
 Reply to Objection 3: These three acts belong to the speculative reason, but to the practical reason it belongs in addition to cause something by way of command or of petition, as stated above.
-## Whether It Is Becoming To Pray?
+### Whether It Is Becoming To Pray?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is unbecoming to pray. Prayer seems to be necessary in order that we may make our needs known to the person to whom we pray. But according to Mat. 6:32, "Your Father knoweth that you have need of all these things." Therefore it is not becoming to pray to God.
 
@@ -53,7 +53,7 @@ Objection 2: Further, by prayer we bend the mind of the person to whom we pray, 
 
 Objection 3: Further, it is more liberal to give to one that asks not, than to one who asks because, according to Seneca (De Benefic. ii, 1), "nothing is bought more dearly than what is bought with prayers." But God is supremely liberal. Therefore it would seem unbecoming to pray to God.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 18:1): "We ought always to pray, and not to faint."
 
@@ -61,16 +61,16 @@ I answer that, Among the ancients there was a threefold error concerning prayer.
 
 In order to throw light on this question we must consider that Divine providence disposes not only what effects shall take place, but also from what causes and in what order these effects shall proceed. Now among other causes human acts are the causes of certain effects. Wherefore it must be that men do certain actions, not that thereby they may change the Divine disposition, but that by those actions they may achieve certain effects according to the order of the Divine disposition: and the same is to be said of natural causes. And so is it with regard to prayer. For we pray not that we may change the Divine disposition, but that we may impetrate that which God has disposed to be fulfilled by our prayers in other words "that by asking, men may deserve to receive what Almighty God from eternity has disposed to give," as Gregory says (Dial. i, 8)
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We need to pray to God, not in order to make known to Him our needs or desires but that we ourselves may be reminded of the necessity of having recourse to God's help in these matters.
 
 Reply to Objection 2: As stated above, our motive in praying is, not Divine disposition, we may change the Divine disposition, but that, by our prayers, we may obtain what God has appointed.
 
 Reply to Objection 3: God bestows many things on us out of His liberality, even without our asking for them: but that He wishes to bestow certain things on us at our asking, is for the sake of our good, namely, that we may acquire confidence in having recourse to God, and that we may recognize in Him the Author of our goods. Hence Chrysostom says [*Implicitly [Hom. ii, de Orat.: Hom. xxx in Genes. ]; Cf. Caten. Aur. on Lk. 18]: "Think what happiness is granted thee, what honor bestowed on thee, when thou conversest with God in prayer, when thou talkest with Christ, when thou askest what thou wilt, whatever thou desirest."
-## Whether Prayer Is An Act Of Religion?
+### Whether Prayer Is An Act Of Religion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prayer is not an act of religion. Since religion is a part of justice, it resides in the will as in its subject. But prayer belongs to the intellective part, as stated above [3013](A[1]). Therefore prayer seems to be an act, not of religion, but of the gift of understanding whereby the mind ascends to God.
 
@@ -78,22 +78,22 @@ Objection 2: Further, the act of "latria" falls under a necessity of precept. Bu
 
 Objection 3: Further, it seems to belong to religion that one "offers worship end ceremonial rites to the Godhead" [*Cicero, Rhet. ii, 53]. But prayer seems not to offer anything to God, but to. ask to obtain something from Him. Therefore prayer is not an act of religion.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 140:2): "Let my prayer be directed as incense in Thy sight": and a gloss on the passage says that "it was to signify this that under the old Law incense was said to be offered for a sweet smell to the Lord." Now this belongs to religion. Therefore prayer is an act of religion.
 
 I answer that, As stated above ([3014]Q[81], AA[2],4), it belongs properly to religion to show honor to God, wherefore all those things through which reverence is shown to God, belong to religion. Now man shows reverence to God by means of prayer, in so far as he subjects himself to Him, and by praying confesses that he needs Him as the Author of his goods. Hence it is evident that prayer is properly an act of religion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The will moves the other powers of the soul to its end, as stated above ([3015]Q[82], A[1], ad 1), and therefore religion, which is in the will, directs the acts of the other powers to the reverence of God. Now among the other powers of the soul the intellect is the highest, and the nearest to the will; and consequently after devotion which belongs to the will, prayer which belongs to the intellective part is the chief of the acts of religion, since by it religion directs man's intellect to God.
 
 Reply to Objection 2: It is a matter of precept not only that we should ask for what we desire, but also that we should desire aright. But to desire comes under a precept of charity, whereas to ask comes under a precept of religion, which precept is expressed in Mat. 7:7, where it is said: "Ask and ye shall receive" [*Vulg.: 'Ask and it shall be given you.'].
 
 Reply to Objection 3: By praying man surrenders his mind to God, since he subjects it to Him with reverence and, so to speak, presents it to Him, as appears from the words of Dionysius quoted above (A[1], OBJ[2]). Wherefore just as the human mind excels exterior things, whether bodily members, or those external things that are employed for God's service, so too, prayer surpasses other acts of religion.
-## Whether We Ought To Pray To God Alone?
+### Whether We Ought To Pray To God Alone?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought to pray to God alone. Prayer is an act of religion, as stated above [3016](A[3]). But God alone is to be worshiped by religion. Therefore we should pray to God alone.
 
@@ -101,22 +101,22 @@ Objection 2: Further, it is useless to pray to one who is ignorant of the prayer
 
 Objection 3: Further, if we pray to any of the saints, this is only because they are united to God. Now some yet living in this world, or even some who are in Purgatory, are closely united to God by grace, and yet we do not pray to them. Therefore neither should we pray to the saints who are in Paradise.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Job 5:1), "Call . . . if there be any that will answer thee, and turn to some of the saints."
 
 I answer that, Prayer is offered to a person in two ways: first, as to be fulfilled by him, secondly, as to be obtained through him. In the first way we offer prayer to God alone, since all our prayers ought to be directed to the acquisition of grace and glory, which God alone gives, according to Ps. 83:12, "The Lord will give grace and glory." But in the second way we pray to the saints, whether angels or men, not that God may through them know our petitions, but that our prayers may be effective through their prayers and merits. Hence it is written (Apoc. 8:4) that "the smoke of the incense," namely "the prayers of the saints ascended up before God." This is also clear from the very style employed by the Church in praying: since we beseech the Blessed Trinity "to have mercy on us," while we ask any of the saints "to pray for us."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To Him alone do we offer religious worship when praying, from Whom we seek to obtain what we pray for, because by so doing we confess that He is the Author of our goods: but not to those whom we call upon as our advocates in God's presence.
 
 Reply to Objection 2: The dead, if we consider their natural condition, do not know what takes place in this world, especially the interior movements of the heart. Nevertheless, according to Gregory (Moral. xii, 21), whatever it is fitting the blessed should know about what happens to us, even as regards the interior movements of the heart, is made known to them in the Word: and it is most becoming to their exalted position that they should know the petitions we make to them by word or thought; and consequently the petitions which we raise to them are known to them through Divine manifestation.
 
 Reply to Objection 3: Those who are in this world or in Purgatory, do not yet enjoy the vision of the Word, so as to be able to know what we think or say. Wherefore we do not seek their assistance by praying to them, but ask it of the living by speaking to them.
-## Whether We Ought To Ask For Something Definite When We Pray?
+### Whether We Ought To Ask For Something Definite When We Pray?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to ask for anything definite when we pray to God. According to Damascene (De Fide Orth. iii, 24), "to pray is to ask becoming things of God"; wherefore it is useless to pray for what is inexpedient, according to James 4:3, "You ask, and receive not: because you ask amiss." Now according to Rom. 8:26, "we know not what we should pray for as we ought." Therefore we ought not to ask for anything definite when we pray.
 
@@ -124,22 +124,22 @@ Objection 2: Further, those who ask another person for something definite strive
 
 Objection 3: Further, evil things are not to be sought from God; and as to good things, God Himself invites us to take them. Now it is useless to ask a person to give you what he invites you to take. Therefore we ought not to ask God for anything definite in our prayers.
 
-### Answer
+**Answer**
 
 On the contrary, our Lord (Mat. 6 and Lk. 11) taught His disciples to ask definitely for those things which are contained in the petitions of the Lord's Prayer.
 
 I answer that, According to Valerius Maximus [*Fact. et Dict. Memor. vii, 2], "Socrates deemed that we should ask the immortal gods for nothing else but that they should grant us good things, because they at any rate know what is good for each one whereas when we pray we frequently ask for what it had been better for us not to obtain." This opinion is true to a certain extent, as to those things which may have an evil result, and which man may use ill or well, such as "riches, by which," as stated by the same authority (Fact. et Dict. Memor. vii, 2), "many have come to an evil end; honors, which have ruined many; power, of which we frequently witness the unhappy results; splendid marriages, which sometimes bring about the total wreck of a family." Nevertheless there are certain goods which man cannot ill use, because they cannot have an evil result. Such are those which are the object of beatitude and whereby we merit it: and these the saints seek absolutely when they pray, as in Ps. 79:4, "Show us Thy face, and we shall be saved," and again in Ps. 118:35, "Lead me into the path of Thy commandments."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although man cannot by himself know what he ought to pray for, "the Spirit," as stated in the same passage, "helpeth our infirmity," since by inspiring us with holy desires, He makes us ask for what is right. Hence our Lord said (Jn. 4:24) that true adorers "must adore . . . in spirit and in truth."
 
 Reply to Objection 2: When in our prayers we ask for things concerning our salvation, we conform our will to God's, of Whom it is written (1 Tim. 2:4) that "He will have all men to be saved."
 
 Reply to Objection 3: God so invites us to take good things, that we may approach to them not by the steps of the body, but by pious desires and devout prayers.
-## Whether Man Ought To Ask God For Temporal Things When He Prays?
+### Whether Man Ought To Ask God For Temporal Things When He Prays?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man ought not to ask God for temporal things when he prays. We seek what we ask for in prayer. But we should not seek for temporal things, for it is written (Mat. 6:33): "Seek ye . . . first the kingdom of God, and His justice: and all these things shall be added unto you," that is to say, temporal things, which, says He, we are not to seek, but they will be added to what we seek. Therefore temporal things are not to be asked of God in prayer.
 
@@ -149,13 +149,13 @@ Objection 3: Further, by prayer our mind should be raised up to God. But by aski
 
 Objection 4: Further, man ought not to ask of God other than good and useful things. But sometimes temporal things, when we have them, are harmful, not only in a spiritual sense, but also in a material sense. Therefore we should not ask God for them in our prayers.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Prov. 30:8): "Give me only the necessaries of life."
 
 I answer that, As Augustine says (ad Probam, de orando Deum, Ep. cxxx, 12): "It is lawful to pray for what it is lawful to desire." Now it is lawful to desire temporal things, not indeed principally, by placing our end therein, but as helps whereby we are assisted in tending towards beatitude, in so far, to wit, as they are the means of supporting the life of the body, and are of service to us as instruments in performing acts of virtue, as also the Philosopher states (Ethic. i, 8). Augustine too says the same to Proba (ad Probam, de orando Deum, Ep. cxxx, 6,7) when he states that "it is not unbecoming for anyone to desire enough for a livelihood, and no more; for this sufficiency is desired, not for its own sake, but for the welfare of the body, or that we should desire to be clothed in a way befitting one's station, so as not to be out of keeping with those among whom we have to live. Accordingly we ought to pray that we may keep these things if we have them, and if we have them not, that we may gain possession of them."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We should seek temporal things not in the first but in the second place. Hence Augustine says (De Serm. Dom. in Monte ii, 16): "When He says that this" (i.e. the kingdom of God) "is to be sought first, He implies that the other" (i.e. temporal goods) "is to be sought afterwards, not in time but in importance, this as being our good, the other as our need."
 
@@ -164,9 +164,9 @@ Reply to Objection 2: Not all solicitude about temporal things is forbidden, but
 Reply to Objection 3: When our mind is intent on temporal things in order that it may rest in them, it remains immersed therein; but when it is intent on them in relation to the acquisition of beatitude, it is not lowered by them, but raises them to a higher level.
 
 Reply to Objection 4: From the very fact that we ask for temporal things not as the principal object of our petition, but as subordinate to something else, we ask God for them in the sense that they may be granted to us in so far as they are expedient for salvation.
-## Whether We Ought To Pray For Others?
+### Whether We Ought To Pray For Others?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to pray for others. In praying we ought to conform to the pattern given by our Lord. Now in the Lord's Prayer we make petitions for ourselves, not for others; thus we say: "Give us this day our daily bread," etc. Therefore we should not pray for others.
 
@@ -174,22 +174,22 @@ Objection 2: Further, prayer is offered that it may be heard. Now one of the con
 
 Objection 3: Further, we are forbidden to pray for others, if they are wicked, according to Jer. 7:16, "Therefore do not then pray for this people . . . and do not withstand Me, for I will not hear thee." On the other hand we are not bound to pray for the good, since they are heard when they pray for themselves. Therefore it would seem that we ought not to pray for others.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (James 5:16): "Pray one for another, that you may be saved."
 
 I answer that, As stated above [3018](A[6]), when we pray we ought to ask for what we ought to desire. Now we ought to desire good things not only for ourselves, but also for others: for this is essential to the love which we owe to our neighbor, as stated above (Q[25], AA[1],12; Q[27], A[2]; Q[31], A[1]). Therefore charity requires us to pray for others. Hence Chrysostom says (Hom. xiv in Matth.) [*Opus Imperfectum, falsely ascribed to St. John Chrysostom]: "Necessity binds us to pray for ourselves, fraternal charity urges us to pray for others: and the prayer that fraternal charity proffers is sweeter to God than that which is the outcome of necessity."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Cyprian says (De orat. Dom.), "We say 'Our Father' and not 'My Father,' 'Give us' and not 'Give me,' because the Master of unity did not wish us to pray privately, that is for ourselves alone, for He wished each one to pray for all, even as He Himself bore all in one."
 
 Reply to Objection 2: It is a condition of prayer that one pray for oneself: not as though it were necessary in order that prayer be meritorious, but as being necessary in order that prayer may not fail in its effect of impetration. For it sometimes happens that we pray for another with piety and perseverance, and ask for things relating to his salvation, and yet it is not granted on account of some obstacle on the part of the person we are praying for, according to Jer. 15:1, "If Moses and Samuel shall stand before Me, My soul is not towards this people." And yet the prayer will be meritorious for the person who prays thus out of charity, according to Ps. 34:13, "My prayer shall be turned into my bosom, i.e. though it profit them not, I am not deprived of my reward," as the gloss expounds it.
 
 Reply to Objection 3: We ought to pray even for sinners, that they may be converted, and for the just that they may persevere and advance in holiness. Yet those who pray are heard not for all sinners but for some: since they are heard for the predestined, but not for those who are foreknown to death; even as the correction whereby we correct the brethren, has an effect in the predestined but not in the reprobate, according to Eccles. 7:14, "No man can correct whom God hath despised." Hence it is written (1 Jn. 5:16): "He that knoweth his brother to sin a sin which is not to death, let him ask, and life shall be given to him, who sinneth not to death." Now just as the benefit of correction must not be refused to any man so long as he lives here below, because we cannot distinguish the predestined from the reprobate, as Augustine says (De Correp. et Grat. xv), so too no man should be denied the help of prayer.
-## Whether We Ought To Pray For Our Enemies?
+### Whether We Ought To Pray For Our Enemies?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to pray for our enemies. According to Rom. 15:4, "what things soever were written, were written for our learning." Now Holy Writ contains many imprecations against enemies; thus it is written (Ps. 6:11): "Let all my enemies be ashamed and be . . . troubled, let them be ashamed and be troubled very speedily [*Vulg.: 'Let them be turned back and be ashamed.']." Therefore we too should pray against rather than for our enemies.
 
@@ -197,7 +197,7 @@ Objection 2: Further, to be revenged on one's enemies is harmful to them. But ho
 
 Objection 3: Further, man's deed should not be contrary to his prayer. Now sometimes men lawfully attack their enemies, else all wars would be unlawful, which is opposed to what we have said above ([3019]Q[40], A[1]). Therefore we should not pray for our enemies.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 5:44): "Pray for them that persecute and calumniate you."
 
@@ -205,16 +205,16 @@ I answer that, To pray for another is an act of charity, as stated above [3020](
 
 In like manner it is a matter of obligation that we should not exclude our enemies from the general prayers which we offer up for others: but it is a matter of perfection, and not of obligation, to pray for them individually, except in certain special cases.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The imprecations contained in Holy Writ may be understood in four ways. First, according to the custom of the prophets "to foretell the future under the veil of an imprecation," as Augustine states [*De Serm. Dom. in Monte i, 21]. Secondly, in the sense that certain temporal evils are sometimes inflicted by God on the wicked for their correction. Thirdly, because they are understood to be pronounced, not against the men themselves, but against the kingdom of sin, with the purpose, to wit, of destroying sin by the correction of men. Fourthly, by way of conformity of our will to the Divine justice with regard to the damnation of those who are obstinate in sin.
 
 Reply to Objection 2: As Augustine states in the same book (De Serm. Dom. in Monte i, 22), "the martyrs' vengeance is the overthrow of the kingdom of sin, because they suffered so much while it reigned": or as he says again (QQ. Vet. et Nov. Test. lxviii), "their prayer for vengeance is expressed not in words but in their minds, even as the blood of Abel cried from the earth." They rejoice in vengeance not for its own sake, but for the sake of Divine justice.
 
 Reply to Objection 3: It is lawful to attack one's enemies, that they may be restrained from sin: and this is for their own good and for the good of others. Consequently it is even lawful in praying to ask that temporal evils be inflicted on our enemies in order that they may mend their ways. Thus prayer and deed will not be contrary to one another.
-## Whether The Seven Petitions Of The Lord's Prayer Are Fittingly Assigned?
+### Whether The Seven Petitions Of The Lord's Prayer Are Fittingly Assigned?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the seven petitions of the Lord's Prayer are not fittingly assigned. It is useless to ask for that to be hallowed which is always holy. But the name of God is always holy, according to Lk. 1:49, "Holy is His name." Again, His kingdom is everlasting, according to Ps. 144:13, "Thy kingdom is a kingdom of all ages." Again, God's will is always fulfilled, according to Isa 46:10, "All My will shall be done." Therefore it is useless to ask for "the name of God to be hallowed," for "His kingdom to come," and for "His will to be done."
 
@@ -226,7 +226,7 @@ Objection 4: Further, according to Luke, only five petitions are mentioned in th
 
 Objection 5: Further, it seems useless to seek to win the benevolence of one who forestalls us by his benevolence. Now God forestalls us by His benevolence, since "He first hath loved us" ( 1 Jn. 4:19). Therefore it is useless to preface the petitions with the words our "Father Who art in heaven," which seem to indicate a desire to win God's benevolence.
 
-### Answer
+**Answer**
 
 On the contrary, The authority of Christ, who composed this prayer, suffices.
 
@@ -236,7 +236,7 @@ To this same end a thing directs us in two ways: in one way, by its very nature,
 
 We are directed to beatitude accidentally by the removal of obstacles. Now there are three obstacles to our attainment of beatitude. First, there is sin, which directly excludes a man from the kingdom, according to 1 Cor. 6:9,10, "Neither fornicators, nor idolaters, etc., shall possess the kingdom of God"; and to this refer the words, "Forgive us our trespasses." Secondly, there is temptation which hinders us from keeping God's will, and to this we refer when we say: "And lead us not into temptation," whereby we do not ask not to be tempted, but not to be conquered by temptation, which is to be led into temptation. Thirdly, there is the present penal state which is a kind of obstacle to a sufficiency of life, and to this we refer in the words, "Deliver us from evil."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (De Serm. Dom. in Monte ii, 5), when we say, "Hallowed be Thy name, we do not mean that God's name is not holy, but we ask that men may treat it as a holy thing," and this pertains to the diffusion of God's glory among men. When we say, "Thy kingdom come, we do not imply that God is not reigning now," but "we excite in ourselves the desire for that kingdom, that it may come to us, and that we may reign therein," as Augustine says (ad Probam, Ep. cxxx, 11). The words, "Thy will be done rightly signify, 'May Thy commandments be obeyed' on earth as in heaven, i.e. by men as well as by angels" (De Serm. Dom. in Monte ii, 6). Hence these three petitions will be perfectly fulfilled in the life to come; while the other four, according to Augustine (Enchiridion cxv), belong to the needs of the present life
 
@@ -247,9 +247,9 @@ Reply to Objection 3: Augustine (De Serm. Dom. in Monte ii, 11) adapts the seven
 Reply to Objection 4: According to Augustine (Enchiridion cxvi), "Luke included not seven but five petitions in the Lord's Prayer, for by omitting it, he shows that the third petition is a kind of repetition of the two that precede, and thus helps us to understand it"; because, to wit, the will of God tends chiefly to this---that we come to the knowledge of His holiness and to reign together with Him. Again the last petition mentioned by Matthew, "Deliver us from evil," is omitted by Luke, so that each one may know himself to be delivered from evil if he be not led into temptation.
 
 Reply to Objection 5: Prayer is offered up to God, not that we may bend Him, but that we may excite in ourselves the confidence to ask: which confidence is excited in us chiefly by the consideration of His charity in our regard, whereby he wills our good---wherefore we say: "Our Father"; and of His excellence, whereby He is able to fulfil it---wherefore we say: "Who art in heaven."
-## Whether Prayer Is Proper To The Rational Creature?
+### Whether Prayer Is Proper To The Rational Creature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prayer is not proper to the rational creature. Asking and receiving apparently belong to the same subject. But receiving is becoming also to uncreated Persons, viz. the Son and Holy Ghost. Therefore it is competent to them to pray: for the Son said (Jn. 14:16): "I will ask My [Vulg.: 'the'] Father," and the Apostle says of the Holy Ghost (Rom. 8:26): "The Spirit . . . asketh for us."
 
@@ -257,22 +257,22 @@ Objection 2: Angels are above rational creatures, since they are intellectual su
 
 Objection 3: Further, the same subject is fitted to pray as is fitted to call upon God, since this consists chiefly in prayer. But dumb animals are fitted to call upon God, according to Ps. 146:9, "Who giveth to beasts their food and to the young ravens that call upon Him." Therefore prayer is not proper to the rational creatures.
 
-### Answer
+**Answer**
 
 On the contrary, Prayer is an act of reason, as stated above [3021](A[1]). But the rational creature is so called from his reason. Therefore prayer is proper to the rational creature.
 
 I answer that, As stated above [3022](A[1]) prayer is an act of reason, and consists in beseeching a superior; just as command is an act of reason, whereby an inferior is directed to something. Accordingly prayer is properly competent to one to whom it is competent to have reason, and a superior whom he may beseech. Now nothing is above the Divine Persons; and dumb animals are devoid of reason. Therefore prayer is unbecoming both the Divine Persons and dumb animals, and it is proper to the rational creature.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Receiving belongs to the Divine Persons in respect of their nature, whereas prayer belongs to one who receives through grace. The Son is said to ask or pray in respect of His assumed, i.e. His human, nature and not in respect of His Godhead: and the Holy Ghost is said to ask, because He makes us ask.
 
 Reply to Objection 2: As stated in the [3023]FP, Q[79], A[8], intellect and reason are not distinct powers in us: but they differ as the perfect from the imperfect. Hence intellectual creatures which are the angels are distinct from rational creatures, and sometimes are included under them. In this sense prayer is said to be proper to the rational creature.
 
 Reply to Objection 3: The young ravens are said to call upon God, on account of the natural desire whereby all things, each in its own way, desire to attain the Divine goodness. Thus too dumb animals are said to obey God, on account of the natural instinct whereby they are moved by God.
-## Whether The Saints In Heaven Pray For Us?
+### Whether The Saints In Heaven Pray For Us?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the saints in heaven do not pray for us. A man's action is more meritorious for himself than for others. But the saints in heaven do not merit for themselves, neither do they pray for themselves, since they are already established in the term. Neither therefore do they pray for us.
 
@@ -284,13 +284,13 @@ Objection 4: Further, if the saints in heaven pray for us, the prayers of the hi
 
 Objection 5: Further, the soul of Peter is not Peter. If therefore the souls of the saints pray for us, so long as they are separated from their bodies, we ought not to call upon Saint Peter, but on his soul, to pray for us: yet the Church does the contrary. The saints therefore do not pray for us, at least before the resurrection.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (2 Macc. 15:14): "This is . . . he that prayeth much for the people, and for all the holy city, Jeremias the prophet of God."
 
 I answer that, As Jerome says (Cont. Vigilant. 6), the error of Vigilantius consisted in saying that "while we live, we can pray one for another; but that after we are dead, none of our prayers for others can be heard, seeing that not even the martyrs' prayers are granted when they pray for their blood to be avenged." But this is absolutely false, because, since prayers offered for others proceed from charity, as stated above ([3024]AA[7],8), the greater the charity of the saints in heaven, the more they pray for wayfarers, since the latter can be helped by prayers: and the more closely they are united to God, the more are their prayers efficacious: for the Divine order is such that lower beings receive an overflow of the excellence of the higher, even as the air receives the brightness of the sun. Wherefore it is said of Christ (Heb. 7:25): "Going to God by His own power . . . to make intercession for us" [*Vulg.: 'He is able to save for ever them that come to God by Him, always living to make intercession for us.']. Hence Jerome says (Cont. Vigilant. 6): "If the apostles and martyrs while yet in the body and having to be solicitous for themselves, can pray for others, how much more now that they have the crown of victory and triumph."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The saints in heaven, since they are blessed, have no lack of bliss, save that of the body's glory, and for this they pray. But they pray for us who lack the ultimate perfection of bliss: and their prayers are efficacious in impetrating through their previous merits and through God's acceptance.
 
@@ -301,9 +301,9 @@ Reply to Objection 3: Those who are in Purgatory though they are above us on acc
 Reply to Objection 4: It is God's will that inferior beings should be helped by all those that are above them, wherefore we ought to pray not only to the higher but also to the lower saints; else we should have to implore the mercy of God alone. Nevertheless it happens sometime that prayers addressed to a saint of lower degree are more efficacious, either because he is implored with greater devotion, or because God wishes to make known his sanctity.
 
 Reply to Objection 5: It is because the saints while living merited to pray for us, that we invoke them under the names by which they were known in this life, and by which they are better known to us: and also in order to indicate our belief in the resurrection, according to the saying of Ex. 3:6, "I am the God of Abraham," etc.
-## Whether Prayer Should Be Vocal?
+### Whether Prayer Should Be Vocal?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prayer ought not to be vocal. As stated above [3025](A[4]), prayer is addressed chiefly to God. Now God knows the language of the heart. Therefore it is useless to employ vocal prayer.
 
@@ -311,7 +311,7 @@ Objection 2: Further, prayer should lift man's mind to God, as stated above (A[1
 
 Objection 3: Further, prayer should be offered to God in secret, according to Mat. 6:6, "But thou, when thou shalt pray, enter into thy chamber, and having shut the door, pray to thy Father in secret." But prayer loses its secrecy by being expressed vocally. Therefore prayer should not be vocal.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 141:2): "I cried to the Lord with my voice, with my voice I made supplication to the Lord."
 
@@ -319,16 +319,16 @@ I answer that, Prayer is twofold, common and individual. Common prayer is that w
 
 On the other hand individual prayer is that which is offered by any single person, whether he pray for himself or for others; and it is not essential to such a prayer as this that it be vocal. And yet the voice is employed in such like prayers for three reasons. First, in order to excite interior devotion, whereby the mind of the person praying is raised to God, because by means of external signs, whether of words or of deeds, the human mind is moved as regards apprehension, and consequently also as regards the affections. Hence Augustine says (ad Probam. Ep. cxxx, 9) that "by means of words and other signs we arouse ourselves more effectively to an increase of holy desires." Hence then alone should we use words and such like signs when they help to excite the mind internally. But if they distract or in any way impede the mind we should abstain from them; and this happens chiefly to those whose mind is sufficiently prepared for devotion without having recourse to those signs. Wherefore the Psalmist (Ps. 26:8) said: "My heart hath said to Thee: 'My face hath sought Thee,'" and we read of Anna (1 Kings 1:13) that "she spoke in her heart." Secondly, the voice is used in praying as though to pay a debt, so that man may serve God with all that he has from God, that is to say, not only with his mind, but also with his body: and this applies to prayer considered especially as satisfactory. Hence it is written (Osee 14:3): "Take away all iniquity, and receive the good: and we will render the calves of our lips." Thirdly, we have recourse to vocal prayer, through a certain overflow from the soul into the body, through excess of feeling, according to Ps. 15:9, "My heart hath been glad, and my tongue hath rejoiced."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Vocal prayer is employed, not in order to tell God something He does not know, but in order to lift up the mind of the person praying or of other persons to God.
 
 Reply to Objection 2: Words about other matters distract the mind and hinder the devotion of those who pray: but words signifying some object of devotion lift up the mind, especially one that is less devout.
 
 Reply to Objection 3: As Chrysostom says [*Hom. xiii in the Opus Imperfectum falsely ascribed to St. John Chrysostom], "Our Lord forbids one to pray in presence of others in order that one may be seen by others. Hence when you pray, do nothing strange to draw men's attention, either by shouting so as to be heard by others, or by openly striking the heart, or extending the hands, so as to be seen by many. And yet, "according to Augustine (De Serm. Dom. in Monte ii, 3), "it is not wrong to be seen by men, but to do this or that in order to be seen by men."
-## Whether Attention Is A Necessary Condition Of Prayer?
+### Whether Attention Is A Necessary Condition Of Prayer?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that attention is a necessary condition of prayer. It is written (Jn. 4:24): "God is a spirit, and they that adore Him must adore Him in spirit and in truth." But prayer is not in spirit unless it be attentive. Therefore attention is a necessary condition of prayer.
 
@@ -336,7 +336,7 @@ Objection 2: Further, prayer is "the ascent of the mind to God" [*Damascene, De 
 
 Objection 3: Further, it is a necessary condition of prayer that it should be altogether sinless. Now if a man allows his mind to wander while praying he is not free of sin, for he seems to make light of God; even as if he were to speak to another man without attending to what he was saying. Hence Basil says [*De Constit. Monach. i] that the "Divine assistance is to be implored, not lightly, nor with a mind wandering hither and thither: because he that prays thus not only will not obtain what he asks, nay rather will he provoke God to anger." Therefore it would seem a necessary condition of prayer that it should be attentive.
 
-### Answer
+**Answer**
 
 On the contrary, Even holy men sometimes suffer from a wandering of the mind when they pray, according to Ps. 39:13, "My heart hath forsaken me."
 
@@ -344,16 +344,16 @@ I answer that, This question applies chiefly to vocal prayer. Accordingly we mus
 
 It must be observed, however, that there are three kinds of attention that can be brought to vocal prayer: one which attends to the words, lest we say them wrong, another which attends to the sense of the words, and a third, which attends to the end of prayer, namely, God, and to the thing we are praying for. That last kind of attention is most necessary, and even idiots are capable of it. Moreover this attention, whereby the mind is fixed on God, is sometimes so strong that the mind forgets all other things, as Hugh of St. Victor states [*De Modo Orandi ii].
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To pray in spirit and in truth is to set about praying through the instigation of the Spirit, even though afterwards the mind wander through weakness.
 
 Reply to Objection 2: The human mind is unable to remain aloft for long on account of the weakness of nature, because human weakness weighs down the soul to the level of inferior things: and hence it is that when, while praying, the mind ascends to God by contemplation, of a sudden it wanders off through weakness.
 
 Reply to Objection 3: Purposely to allow one's mind to wander in prayer is sinful and hinders the prayer from having fruit. It is against this that Augustine says in his Rule (Ep. ccxi): "When you pray God with psalms and hymns, let your mind attend to that which your lips pronounce." But to wander in mind unintentionally does not deprive prayer of its fruit. Hence Basil says (De Constit. Monach. i): "If you are so truly weakened by sin that you are unable to pray attentively, strive as much as you can to curb yourself, and God will pardon you, seeing that you are unable to stand in His presence in a becoming manner, not through negligence but through frailty."
-## Whether Prayer Should Last A Long Time?
+### Whether Prayer Should Last A Long Time?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prayer should not be continual. It is written (Mat. 6:7): "When you are praying, speak not much." Now one who prays a long time needs to speak much, especially if his be vocal prayer. Therefore prayer should not last a long time.
 
@@ -363,13 +363,13 @@ Objection 3: Further, it seems to be wrong to transgress the limits fixed by God
 
 Objection 4: On the contrary, It would seem that we ought to pray continually. For our Lord said (Lk. 18:1): "We ought always to pray, and not to faint": and it is written (1 Thess. 5:17): "Pray without ceasing."
 
-### Answer
+**Answer**
 
 
 
 I answer that, We may speak about prayer in two ways: first, by considering it in itself; secondly, by considering it in its cause. The not cause of prayer is the desire of charity, from which prayer ought to arise: and this desire ought to be in us continually, either actually or virtually, for the virtue of this desire remains in whatever we do out of charity; and we ought to "do all things to the glory of God" (1 Cor. 10:31). From this point of view prayer ought to be continual: wherefore Augustine says (ad Probam, Ep. cxxx, 9): "Faith, hope and charity are by themselves a prayer of continual longing." But prayer, considered in itself, cannot be continual, because we have to be busy about other works, and, as Augustine says (ad Probam. Ep. cxxx, 9), "we pray to God with our lips at certain intervals and seasons, in order to admonish ourselves by means of such like signs, to take note of the amount of our progress in that desire, and to arouse ourselves more eagerly to an increase thereof." Now the quantity of a thing should be commensurate with its end, for instance the quantity of the dose should be commensurate with health. And so it is becoming that prayer should last long enough to arouse the fervor of the interior desire: and when it exceeds this measure, so that it cannot be continued any longer without causing weariness, it should be discontinued. Wherefore Augustine says (ad Probam. Ep. cxxx): "It is said that the brethren in Egypt make frequent but very short prayers, rapid ejaculations, as it were, lest that vigilant and erect attention which is so necessary in prayer slacken and languish, through the strain being prolonged. By so doing they make it sufficiently clear not only that this attention must not be forced if we are unable to keep it up, but also that if we are able to continue, it should not be broken off too soon." And just as we must judge of this in private prayers by considering the attention of the person praying, so too, in public prayers we must judge of it by considering the devotion of the people.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (ad Probam. Ep. cxxx), "to pray with many words is not the same as to pray long; to speak long is one thing, to be devout long is another. For it is written that our Lord passed the whole night in prayer, and that He 'prayed the longer' in order to set us an example." Further on he says: "When praying say little, yet pray much so long as your attention is fervent. For to say much in prayer is to discuss your need in too many words: whereas to pray much is to knock at the door of Him we pray, by the continuous and devout clamor of the heart. Indeed this business is frequently done with groans rather than with words, with tears rather than with speech."
 
@@ -378,9 +378,9 @@ Reply to Objection 2: Length of prayer consists, not in praying for many things,
 Reply to Objection 3: Our Lord instituted this prayer, not that we might use no other words when we pray, but that in our prayers we might have none but these things in view, no matter how we express them or think of them.
 
 Reply to Objection 4: One may pray continually, either through having a continual desire, as stated above; or through praying at certain fixed times, though interruptedly; or by reason of the effect, whether in the person who prays---because he remains more devout even after praying, or in some other person---as when by his kindness a man incites another to pray for him, even after he himself has ceased praying.
-## Whether Prayer Is Meritorious?
+### Whether Prayer Is Meritorious?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prayer is not meritorious. All merit proceeds from grace. But prayer precedes grace, since even grace is obtained by means of prayer according to Lk. 11:13, "(How much more) will your Father from heaven give the good Spirit to them that ask Him!" Therefore prayer is not a meritorious act.
 
@@ -388,7 +388,7 @@ Objection 2: Further, if prayer merits anything, this would seem to be chiefly t
 
 Objection 3: Further, prayer is based chiefly on faith, according to James 1:6, "But let him ask in faith, nothing wavering." Now faith is not sufficient for merit, as instanced in those who have lifeless faith. Therefore prayer is not a meritorious act.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on the words of Ps. 34:13, "My prayer shall be turned into my bosom," explains them as meaning, "if my prayer does not profit them, yet shall not I be deprived of my reward." Now reward is not due save to merit. Therefore prayer is meritorious.
 
@@ -396,16 +396,16 @@ I answer that, As stated above [3026](A[13]) prayer, besides causing spiritual c
 
 As to its efficacy in impetrating, prayer derives this from the grace of God to Whom we pray, and Who instigates us to pray. Wherefore Augustine says (De Verb. Dom., Serm. cv, 1): "He would not urge us to ask, unless He were willing to give"; and Chrysostom [*Cf. Catena Aurea of St. Thomas on Lk. 18. The words as quoted are not to be found in the words of Chrysostom] says: "He never refuses to grant our prayers, since in His loving-kindness He urged us not to faint in praying."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Neither prayer nor any other virtuous act is meritorious without sanctifying grace. And yet even that prayer which impetrates sanctifying grace proceeds from some grace, as from a gratuitous gift, since the very act of praying is "a gift of God," as Augustine states (De Persever. xxiii).
 
 Reply to Objection 2: Sometimes the merit of prayer regards chiefly something distinct from the object of one's petition. For the chief object of merit is beatitude, whereas the direct object of the petition of prayer extends sometimes to certain other things, as stated above ([3028]AA[6],7). Accordingly if this other thing that we ask for ourselves be not useful for our beatitude, we do not merit it; and sometimes by asking for and desiring such things we lose merit for instance if we ask of God the accomplishment of some sin, which would be an impious prayer. And sometimes it is not necessary for salvation, nor yet manifestly contrary thereto; and then although he who prays may merit eternal life by praying, yet he does not merit to obtain what he asks for. Hence Augustine says (Liber. Sentent. Prosperi sent. ccxii): "He who faithfully prays God for the necessaries of this life, is both mercifully heard, and mercifully not heard. For the physician knows better than the sick man what is good for the disease." For this reason, too, Paul was not heard when he prayed for the removal of the sting in his flesh, because this was not expedient. If, however, we pray for something that is useful for our beatitude, through being conducive to salvation, we merit it not only by praying, but also by doing other good deeds: therefore without any doubt we receive what we ask for, yet when we ought to receive it: "since certain things are not denied us, but are deferred that they may be granted at a suitable time," according to Augustine (Tract. cii in Joan.): and again this may be hindered if we persevere not in asking for it. Wherefore Basil says (De Constit. Monast. i): "The reason why sometimes thou hast asked and not received, is because thou hast asked amiss, either inconsistently, or lightly, or because thou hast asked for what was not good for thee, or because thou hast ceased asking." Since, however, a man cannot condignly merit eternal life for another, as stated above ([3029]FS, Q[114], A[6]), it follows that sometimes one cannot condignly merit for another things that pertain to eternal life. For this reason we are not always heard when we pray for others, as stated above (A[7], ad 2,3). Hence it is that four conditions are laid down; namely, to ask---"for ourselves---things necessary for salvation---piously---perseveringly"; when all these four concur, we always obtain what we ask for.
 
 Reply to Objection 3: Prayer depends chiefly on faith, not for its efficacy in meriting, because thus it depends chiefly on charity, but for its efficacy in impetrating, because it is through faith that man comes to know of God's omnipotence and mercy, which are the source whence prayer impetrates what it asks for.
-## Whether Sinners Impetrate Anything From God By Their Prayers?
+### Whether Sinners Impetrate Anything From God By Their Prayers?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sinners impetrate nothing from God by their prayers. It is written (Jn. 9:31): "We know that God doth not hear sinners"; and this agrees with the saying of Prov. 28:9, "He that turneth away his ears from hearing the law, his prayer shall be an abomination." Now an abominable prayer impetrates nothing from God. Therefore sinners impetrate nothing from God.
 
@@ -413,22 +413,22 @@ Objection 2: Further, the just impetrate from God what they merit, as stated abo
 
 Objection 3: Further, Chrysostom [*Hom. xiv in the Opus Imperfectum falsely ascribed to St. John Chrysostom] says: "The Father is unwilling to hear the prayer which the Son has not inspired." Now in the prayer inspired by Christ we say: "Forgive us our trespasses as we forgive them that trespass against us": and sinners do not fulfil this. Therefore either they lie in saying this, and so are unworthy to be heard, or, if they do not say it, they are not heard, because they do not observe the form of prayer instituted by Christ.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Tract. xliv, super Joan.): "If God were not to hear sinners, the publican would have vainly said: Lord, be merciful to me a sinner"; and Chrysostom [*Hom. xviii of the same Opus Imperfectum] says: "Everyone that asketh shall receive, that is to say whether he be righteous or sinful."
 
 I answer that, In the sinner, two things are to be considered: his nature which God loves, and the sin which He hates. Accordingly when a sinner prays for something as sinner, i.e. in accordance with a sinful desire, God hears him not through mercy but sometimes through vengeance when He allows the sinner to fall yet deeper into sin. For "God refuses in mercy what He grants in anger," as Augustine declares (Tract. lxxiii in Joan.). On the other hand God hears the sinner's prayer if it proceed from a good natural desire, not out of justice, because the sinner does not merit to be heard, but out of pure mercy [*Cf. A[15], ad 1], provided however he fulfil the four conditions given above, namely, that he beseech for himself things necessary for salvation, piously and perseveringly.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine states (Tract. xliv super Joan.), these words were spoken by the blind man before being anointed, i.e. perfectly enlightened, and consequently lack authority. And yet there is truth in the saying if it refers to a sinner as such, in which sense also the sinner's prayer is said to be an abomination.
 
 Reply to Objection 2: There can be no godliness in the sinner's prayer as though his prayer were quickened by a habit of virtue: and yet his prayer may be godly in so far as he asks for something pertaining to godliness. Even so a man who has not the habit of justice is able to will something just, as stated above ([3030]Q[59], A[2]). And though his prayer is not meritorious, it can be impetrative, because merit depends on justice, whereas impetration rests on grace.
 
 Reply to Objection 3: As stated above (A[7], ad 1) the Lord's Prayer is pronounced in the common person of the whole Church: and so if anyone say the Lord's Prayer while unwilling to forgive his neighbor's trespasses, he lies not, although his words do not apply to him personally: for they are true as referred to the person of the Church, from which he is excluded by merit, and consequently he is deprived of the fruit of his prayer. Sometimes, however, a sinner is prepared to forgive those who have trespassed against him, wherefore his prayers are heard, according to Ecclus. 28:2, "Forgive thy neighbor if he hath hurt thee, and then shall thy sins be forgiven to thee when thou prayest."
-## Whether The Parts Of Prayer Are Fittingly Described As Supplications, Prayers, Intercessions, And Thanksgivings?
+### Whether The Parts Of Prayer Are Fittingly Described As Supplications, Prayers, Intercessions, And Thanksgivings?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the parts of prayer are unfittingly described as supplications, prayers, intercessions, and thanksgivings. Supplication would seem to be a kind of adjuration. Yet, according to Origen (Super Matth. Tract. xxxv), "a man who wishes to live according to the gospel need not adjure another, for if it be unlawful to swear, it is also unlawful to adjure." Therefore supplication is unfittingly reckoned a part of prayer.
 
@@ -436,7 +436,7 @@ Objection 2: Further, according to Damascene (De Fide Orth. iii, 24), "to pray i
 
 Objection 3: Further, thanksgivings regard the past, while the others regard the future. But the past precedes the future. Therefore thanksgivings are unfittingly placed after the others.
 
-### Answer
+**Answer**
 
 On the contrary, suffices the authority of the Apostle (1 Tim. 2:1).
 
@@ -446,7 +446,7 @@ We may notice these four things in several of the Church's collects. Thus in the
 
 In the "Conferences of the Fathers" (ix, cap. 11, seqq.) we read: "Supplication is bewailing one's sins; prayer is vowing something to God; intercession is praying for others; thanksgiving is offered by the mind to God in ineffable ecstasy." The first explanation, however, is the better.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: "Supplication" is an adjuration not for the purpose of compelling, for this is forbidden, but in order to implore mercy.
 

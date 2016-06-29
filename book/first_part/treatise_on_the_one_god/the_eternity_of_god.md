@@ -7,9 +7,9 @@ We must now consider the eternity of God, concerning which arise six points of i
 (4) Whether eternity differs from time?
 (5) The difference of aeviternity, as there is one time, and one eternity?
 (6) Whether there is only one aeviternity?
-## Whether This Is A Good Definition Of Eternity, "The Simultaneously-whole And Perfect Possession Of Interminable Life"?
+### Whether This Is A Good Definition Of Eternity, "The Simultaneously-whole And Perfect Possession Of Interminable Life"?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the definition of eternity given by Boethius (De Consol. v) is not a good one: "Eternity is the simultaneously-whole and perfect possession of interminable life." For the word "interminable" is a negative one. But negation only belongs to what is defective, and this does not belong to eternity. Therefore in the definition of eternity the word "interminable" ought not to be found.
 
@@ -23,7 +23,7 @@ Objection 5: Further, the whole and the perfect are the same thing. Supposing, t
 
 Objection 6: Further, duration does not imply "possession." But eternity is a kind of duration. Therefore eternity is not possession.
 
-### Answer
+**Answer**
 
 
 
@@ -33,7 +33,7 @@ Further, those things are said to be measured by time which have a beginning and
 
 Thus eternity is known from two sources: first, because what is eternal is interminable---that is, has no beginning nor end (that is, no term either way); secondly, because eternity has no succession, being simultaneously whole.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Simple things are usually defined by way of negation; as "a point is that which has no parts." Yet this is not to be taken as if the negation belonged to their essence, but because our intellect which first apprehends compound things, cannot attain to the knowledge of simple things except by removing the opposite.
 
@@ -46,9 +46,9 @@ Reply to Objection 4: As God, although incorporeal, is named in Scripture metaph
 Reply to Objection 5: Two things are to be considered in time: time itself, which is successive; and the "now" of time, which is imperfect. Hence the expression "simultaneously-whole" is used to remove the idea of time, and the word "perfect" is used to exclude the "now" of time.
 
 Reply to Objection 6: Whatever is possessed, is held firmly and quietly; therefore to designate the immutability and permanence of eternity, we use the word "possession."
-## Whether God Is Eternal?
+### Whether God Is Eternal?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God is not eternal. For nothing made can be predicated of God; for Boethius says (De Trin. iv) that, "The now that flows away makes time, the now that stands still makes eternity;" and Augustine says (Octog. Tri. Quaest. qu. 28) "that God is the author of eternity." Therefore God is not eternal.
 
@@ -58,13 +58,13 @@ Objection 3: Further, eternity is a kind of measure. But to be measured belongs 
 
 Objection 4: Further, in eternity, there is no present, past or future, since it is simultaneously whole; as was said in the preceding article. But words denoting present, past and future time are applied to God in Scripture. Therefore God is not eternal.
 
-### Answer
+**Answer**
 
 On the contrary, Athanasius says in his Creed: "The Father is eternal, the Son is eternal, the Holy Ghost is eternal."
 
 I answer that, The idea of eternity follows immutability, as the idea of time follows movement, as appears from the preceding article. Hence, as God is supremely immutable, it supremely belongs to Him to be eternal. Nor is He eternal only; but He is His own eternity; whereas, no other being is its own duration, as no other is its own being. Now God is His own uniform being; and hence as He is His own essence, so He is His own eternity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The "now" that stands still, is said to make eternity according to our apprehension. As the apprehension of time is caused in us by the fact that we apprehend the flow of the "now," so the apprehension of eternity is caused in us by our apprehending the "now" standing still. When Augustine says that "God is the author of eternity," this is to be understood of participated eternity. For God communicates His eternity to some in the same way as He communicates His immutability.
 
@@ -73,9 +73,9 @@ Reply to Objection 2: From this appears the answer to the Second Objection. For 
 Reply to Objection 3: Eternity is nothing else but God Himself. Hence God is not called eternal, as if He were in any way measured; but the idea of measurement is there taken according to the apprehension of our mind alone.
 
 Reply to Objection 4: Words denoting different times are applied to God, because His eternity includes all times; not as if He Himself were altered through present, past and future.
-## Whether To Be Eternal Belongs To God Alone?
+### Whether To Be Eternal Belongs To God Alone?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that it does not belong to God alone to be eternal. For it is written that "those who instruct many to justice," shall be "as stars unto perpetual eternities [*Douay: 'for all eternity']" (Dan. 12:3). Now if God alone were eternal, there could not be many eternities. Therefore God alone is not the only eternal.
 
@@ -83,22 +83,22 @@ Objection 2: Further, it is written "Depart, ye cursed into eternal [Douay: 'eve
 
 Objection 3: Further, every necessary thing is eternal. But there are many necessary things; as, for instance, all principles of demonstration and all demonstrative propositions. Therefore God is not the only eternal.
 
-### Answer
+**Answer**
 
 On the contrary, Jerome says (Ep. ad Damasum. xv) that "God is the only one who has no beginning." Now whatever has a beginning, is not eternal. Therefore God is the only one eternal.
 
 I answer that, Eternity truly and properly so called is in God alone, because eternity follows on immutability; as appears from the first article. But God alone is altogether immutable, as was shown above ([44]Q[9], A[1]). Accordingly, however, as some receive immutability from Him, they share in His eternity. Thus some receive immutability from God in the way of never ceasing to exist; in that sense it is said of the earth, "it standeth for ever" (Eccles. 1:4). Again, some things are called eternal in Scripture because of the length of their duration, although they are in nature corruptible; thus (Ps. 75:5) the hills are called "eternal" and we read "of the fruits of the eternal hills." (Dt. 33:15). Some again, share more fully than others in the nature of eternity, inasmuch as they possess unchangeableness either in being or further still in operation; like the angels, and the blessed, who enjoy the Word, because "as regards that vision of the Word, no changing thoughts exist in the Saints," as Augustine says (De Trin. xv). Hence those who see God are said to have eternal life; according to that text, "This is eternal life, that they may know Thee the only true God," etc. (Jn. 17:3).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There are said to be many eternities, accordingly as many share in eternity, by the contemplation of God.
 
 Reply to Objection 2: The fire of hell is called eternal, only because it never ends. Still, there is change in the pains of the lost, according to the words "To extreme heat they will pass from snowy waters" (Job 24:19). Hence in hell true eternity does not exist, but rather time; according to the text of the Psalm "Their time will be for ever" (Ps. 80:16).
 
 Reply to Objection 3: Necessary means a certain mode of truth; and truth, according to the Philosopher (Metaph. vi), is in the mind. Therefore in this sense the true and necessary are eternal, because they are in the eternal mind, which is the divine intellect alone; hence it does not follow that anything beside God is eternal.
-## Whether Eternity Differs From Time?
+### Whether Eternity Differs From Time?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that eternity does not differ from time. For two measures of duration cannot exist together, unless one is part of the other; for instance two days or two hours cannot be together; nevertheless, we may say that a day or an hour are together, considering hour as part of a day. But eternity and time occur together, each of which imports a certain measure of duration. Since therefore eternity is not a part of time, forasmuch as eternity exceeds time, and includes it, it seems that time is a part of eternity, and is not a different thing from eternity.
 
@@ -106,7 +106,7 @@ Objection 2: Further, according to the Philosopher (Phys. iv), the "now" of time
 
 Objection 3: Further, as the measure of the first movement is the measure of every movement, as said in Phys. iv, it thus appears that the measure of the first being is that of every being. But eternity is the measure of the first being---that is, of the divine being. Therefore eternity is the measure of every being. But the being of things corruptible is measured by time. Time therefore is either eternity or is a part of eternity.
 
-### Answer
+**Answer**
 
 On the contrary, Eternity is simultaneously whole. But time has a "before" and an "after." Therefore time and eternity are not the same thing.
 
@@ -114,16 +114,16 @@ I answer that, It is manifest that time and eternity are not the same. Some have
 
 Another reason for the same can be taken from these measures in themselves, if we consider the end and the beginning as potentialities; because, granted also that time always goes on, yet it is possible to note in time both the beginning and the end, by considering its parts: thus we speak of the beginning and the end of a day or of a year; which cannot be applied to eternity. Still these differences follow upon the essential and primary differences, that eternity is simultaneously whole, but that time is not so.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Such a reason would be a valid one if time and eternity were the same kind of measure; but this is seen not to be the case when we consider those things of which the respective measures are time and eternity.
 
 Reply to Objection 2: The "now" of time is the same as regards its subject in the whole course of time, but it differs in aspect; for inasmuch as time corresponds to movement, its "now" corresponds to what is movable; and the thing movable has the same one subject in all time, but differs in aspect a being here and there; and such alteration is movement. Likewise the flow of the "now" as alternating in aspect is time. But eternity remains the same according to both subject and aspect; and hence eternity is not the same as the "now" of time.
 
 Reply to Objection 3: As eternity is the proper measure of permanent being, so time is the proper measure of movement; and hence, according as any being recedes from permanence of being, and is subject to change, it recedes from eternity, and is subject to time. Therefore the being of things corruptible, because it is changeable, is not measured by eternity, but by time; for time measures not only things actually changed, but also things changeable; hence it not only measures movement but it also measures repose, which belongs to whatever is naturally movable, but is not actually in motion.
-## Whether There Is Only One Aeviternity?
+### Whether There Is Only One Aeviternity?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that there is not only one aeviternity; for it is written in the apocryphal books of Esdras: "Majesty and power of ages are with Thee, O Lord."
 
@@ -133,7 +133,7 @@ Objection 3: Further, since aeviternity is a term of duration, where there is on
 
 Objection 4: Further, things not dependent on each other do not seem to have one measure of duration; for there appears to be one time for all temporal things; since the first movement, measured by time, is in some way the cause of all movement. But aeviternal things do not depend on each other, for one angel is not the cause of another angel. Therefore there is not only one aeviternity.
 
-### Answer
+**Answer**
 
 On the contrary, Aeviternity is a more simple thing than time, and is nearer to eternity. But time is one only. Therefore much more is aeviternity one only.
 
@@ -143,7 +143,7 @@ Now some say that there is only one time for temporal things, forasmuch as one n
 
 This being established, we must observe that a twofold opinion existed concerning spiritual substances. Some said that all proceeded from God in a certain equality, as Origen said (Peri Archon. i); or at least many of them, as some others thought. Others said that all spiritual substances proceeded from God in a certain degree and order; and Dionysius (Coel. Hier. x) seems to have thought so, when he said that among spiritual substances there are the first, the middle and the last; even in one order of angels. Now according to the first opinion, it must be said that there are many aeviternities as there are many aeviternal things of first degree. But according to the second opinion, it would be necessary to say that there is one aeviternity only; because since each thing is measured by the most simple element of its genus, it must be that the existence of all aeviternal things should be measured by the existence of the first aeviternal thing, which is all the more simple the nearer it is to the first. Wherefore because the second opinion is truer, as will be shown later ([45]Q[47], A[2]); we concede at present that there is only one aeviternity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Aeviternity is sometimes taken for age, that is, a space of a thing's duration; and thus we say many aeviternities when we mean ages.
 

@@ -9,9 +9,9 @@ We must now consider the union on the part of the Person assuming, and under thi
 (6) Whether several Persons can assume one individual nature?
 (7) Whether one Person can assume two individual natures?
 (8) Whether it was more fitting for the Person of the Son of God to assume human nature than for another Divine Person?
-## Whether It Is Befitting For A Divine Person To Assume?
+### Whether It Is Befitting For A Divine Person To Assume?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not befitting to a Divine Person to assume a created nature. For a Divine Person signifies something most perfect. Now no addition can be made to what is perfect. Therefore, since to assume is to take to oneself, and consequently what is assumed is added to the one who assumes, it does not seem to be befitting to a Divine Person to assume a created nature.
 
@@ -19,22 +19,22 @@ Objection 2: Further, that to which anything is assumed is communicated in some 
 
 Objection 3: Further, person is constituted by nature. But it is repugnant that the thing constituted should assume the constituent, since the effect does not act on its cause. Hence it is not befitting to a Person to assume a nature.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine [*Fulgentius] says (De Fide ad Petrum ii): "This God, i.e. the only-Begotten one, took the form," i.e. the nature, "of a servant to His own Person." But the only-Begotten God is a Person. Therefore it is befitting to a Person to take, i.e. to assume a nature.
 
 I answer that, In the word "assumption" are implied two things, viz. the principle and the term of the act, for to assume is to take something to oneself. Now of this assumption a Person is both the principle and the term. The principle---because it properly belongs to a person to act, and this assuming of flesh took place by the Divine action. Likewise a Person is the term of this assumption, because, as was said above ([3877]Q[2], AA[1] ,2), the union took place in the Person, and not in the nature. Hence it is plain that to assume a nature is most properly befitting to a Person.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since the Divine Person is infinite, no addition can be made to it: Hence Cyril says [*Council of Ephesus, Part I, ch. 26]: "We do not conceive the mode of conjunction to be according to addition"; just as in the union of man with God, nothing is added to God by the grace of adoption, but what is Divine is united to man; hence, not God but man is perfected.
 
 Reply to Objection 2: A Divine Person is said to be incommunicable inasmuch as It cannot be predicated of several supposita, but nothing prevents several things being predicated of the Person. Hence it is not contrary to the nature of person to be communicated so as to subsist in several natures, for even in a created person several natures may concur accidentally, as in the person of one man we find quantity and quality. But this is proper to a Divine Person, on account of its infinity, that there should be a concourse of natures in it, not accidentally, but in subsistence.
 
 Reply to Objection 3: As was said above ([3878]Q[2], A[1]), the human nature constitutes a Divine Person, not simply, but forasmuch as the Person is denominated from such a nature. For human nature does not make the Son of Man to be simply, since He was from eternity, but only to be man. It is by the Divine Nature that a Divine Person is constituted simply. Hence the Divine Person is not said to assume the Divine Nature, but to assume the human nature.
-## Whether It Is Befitting To The Divine Nature To Assume?
+### Whether It Is Befitting To The Divine Nature To Assume?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not befitting to the Divine Nature to assume. Because, as was said above [3879](A[1]), to assume is to take to oneself. But the Divine Nature did not take to Itself human nature, for the union did not take place in the nature, as was said above (Q[2], AA[1],3). Hence it is not befitting to the Divine Nature to assume human nature.
 
@@ -42,22 +42,22 @@ Objection 2: Further, the Divine Nature is common to the three Persons. If, ther
 
 Objection 3: Further, to assume is to act. But to act befits a person, not a nature, which is rather taken to be the principle by which the agent acts. Therefore to assume is not befitting to the nature.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine (Fulgentius) says (De Fide ad Petrum ii): "That nature which remains eternally begotten of the Father" (i.e. which is received from the Father by eternal generation) "took our nature free of sin from His Mother."
 
 I answer that, As was said above [3880](A[1]), in the word assumption two things are signified---to wit, the principle and the term of the action. Now to be the principle of the assumption belongs to the Divine Nature in itself, because the assumption took place by Its power; but to be the term of the assumption does not belong to the Divine Nature in itself, but by reason of the Person in Whom It is considered to be. Hence a Person is primarily and more properly said to assume, but it may be said secondarily that the Nature assumed a nature to Its Person. And after the same manner the Nature is also said to be incarnate, not that it is changed to flesh, but that it assumed the nature of flesh. Hence Damascene says (De Fide Orth. iii, 6): "Following the blessed Athanasius and Cyril we say that the Nature of God is incarnate."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: "Oneself" is reciprocal, and points to the same suppositum. But the Divine Nature is not a distinct suppositum from the Person of the Word. Hence, inasmuch as the Divine Nature took human nature to the Person of the Word, It is said to take it to Itself. But although the Father takes human nature to the Person of the Word, He did not thereby take it to Himself, for the suppositum of the Father and the Son is not one. and hence it cannot properly be said that the Father assumes human nature.
 
 Reply to Objection 2: What is befitting to the Divine Nature in Itself is befitting to the three Persons, as goodness, wisdom, and the like. But to assume belongs to It by reason of the Person of the Word, as was said above, and hence it is befitting to that Person alone.
 
 Reply to Objection 3: As in God "what is" and "whereby it is" are the same, so likewise in Him "what acts" and "whereby it acts" are the same, since everything acts, inasmuch as it is a being. Hence the Divine Nature is both that whereby God acts, and the very God Who acts.
-## Whether The Nature Abstracted From The Personality Can Assume?
+### Whether The Nature Abstracted From The Personality Can Assume?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that if we abstract the Personality by our mind, the Nature cannot assume. For it was said above [3881](A[1]) that it belongs to the Nature to assume by reason of the Person. But what belongs to one by reason of another cannot belong to it if the other is removed; as a body, which is visible by reason of color, without color cannot be seen. Hence if the Personality be mentally abstracted, the Nature cannot assume.
 
@@ -65,22 +65,22 @@ Objection 2: Further, assumption implies the term of union, as was said above [3
 
 Objection 3: Further, it has been said above ([3883]FP, Q[40], A[3]) that in the Godhead if the Personality is abstracted, nothing remains. But the one who assumes is something. Therefore, if the Personality is abstracted, the Divine Nature cannot assume.
 
-### Answer
+**Answer**
 
 On the contrary, In the Godhead Personality signifies a personal property; and this is threefold, viz. Paternity, Filiation and Procession, as was said above ([3884]FP, Q[30], A[2]). Now if we mentally abstract these, there still remains the omnipotence of God, by which the Incarnation was wrought, as the angel says (Lk. 1:37): "No word shall be impossible with God." Therefore it seems that if the Personality be removed, the Divine Nature can still assume.
 
 I answer that, The intellect stands in two ways towards God. First, to know God as He is, and in this manner it is impossible for the intellect to circumscribe something in God and leave the rest, for all that is in God is one, except the distinction of Persons; and as regards these, if one is removed the other is taken away, since they are distinguished by relations only which must be together at the same time. Secondly, the intellect stands towards God, not indeed as knowing God as He is, but in its own way, i.e. understanding manifoldly and separately what in God is one: and in this way our intellect can understand the Divine goodness and wisdom, and the like, which are called essential attributes, without understanding Paternity or Filiation, which are called Personalities. And hence if we abstract Personality by our intellect, we may still understand the Nature assuming.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Because in God "what is," and "whereby it is," are one, if any one of the things which are attributed to God in the abstract is considered in itself, abstracted from all else, it will still be something subsisting, and consequently a Person, since it is an intellectual nature. Hence just as we now say three Persons, on account of holding three personal properties, so likewise if we mentally exclude the personal properties there will still remain in our thought the Divine Nature as subsisting and as a Person. And in this way It may be understood to assume human nature by reason of Its subsistence or Personality.
 
 Reply to Objection 2: Even if the personal properties of the three Persons are abstracted by our mind, nevertheless there will remain in our thoughts the one Personality of God, as the Jews consider. And the assumption can be terminated in It, as we now say it is terminated in the Person of the Word.
 
 Reply to Objection 3: If we mentally abstract the Personality, it is said that nothing remains by way of resolution, i.e. as if the subject of the relation and the relation itself were distinct because all we can think of in God is considered as a subsisting suppositum. However, some of the things predicated of God can be understood without others, not by way of resolution, but by the way mentioned above.
-## Whether One Person Without Another Can Assume A Created Nature?
+### Whether One Person Without Another Can Assume A Created Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one Person cannot assume a created nature without another assuming it. For "the works of the Trinity are inseparable," as Augustine says (Enchiridion xxxviii). But as the three Persons have one essence, so likewise They have one operation. Now to assume is an operation. Therefore it cannot belong to one without belonging to another.
 
@@ -88,22 +88,22 @@ Objection 2: Further, as we say the Person of the Son became incarnate, so also 
 
 Objection 3: Further, as the human nature in Christ is assumed by God, so likewise are men assumed by Him through grace, according to Rom. 14:3: "God hath taken him to Him." But this assumption pertains to all the Persons; therefore the first also.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Div. Nom. ii) that the mystery of the Incarnation pertains to "discrete theology," i.e. according to which something "distinct" is said of the Divine Persons.
 
 I answer that, As was said above [3885](A[1]), assumption implies two things, viz. the act of assuming and the term of assumption. Now the act of assumption proceeds from the Divine power, which is common to the three Persons, but the term of the assumption is a Person, as stated above [3886](A[2]). Hence what has to do with action in the assumption is common to the three Persons; but what pertains to the nature of term belongs to one Person in such a manner as not to belong to another; for the three Persons caused the human nature to be united to the one Person of the Son.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This reason regards the operation, and the conclusion would follow if it implied this operation only, without the term, which is a Person.
 
 Reply to Objection 2: The Nature is said to be incarnate, and to assume by reason of the Person in Whom the union is terminated, as stated above ([3887]AA[1],2), and not as it is common to the three Persons. Now "the whole Divine Nature is" said to be "incarnate"; not that It is incarnate in all the Persons, but inasmuch as nothing is wanting to the perfection of the Divine Nature of the Person incarnate, as Damascene explains there.
 
 Reply to Objection 3: The assumption which takes place by the grace of adoption is terminated in a certain participation of the Divine Nature, by an assimilation to Its goodness, according to 2 Pet. 1:4: "That you may be made partakers of the Divine Nature"; and hence this assumption is common to the three Persons, in regard to the principle and the term. But the assumption which is by the grace of union is common on the part of the principle, but not on the part of the term, as was said above.
-## Whether Each Of The Divine Persons Could Have Assumed Human Nature?
+### Whether Each Of The Divine Persons Could Have Assumed Human Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no other Divine Person could have assumed human nature except the Person of the Son. For by this assumption it has been brought about that God is the Son of Man. But it was not becoming that either the Father or the Holy Ghost should be said to be a Son; for this would tend to the confusion of the Divine Persons. Therefore the Father and Holy Ghost could not have assumed flesh.
 
@@ -111,22 +111,22 @@ Objection 2: Further, by the Divine Incarnation men have come into possession of
 
 Objection 3: Further, the Son is said to be sent and to be begotten by the temporal nativity, inasmuch as He became incarnate. But it does not belong to the Father to be sent, for He is innascible, as was said above ([3888]FP, Q[32], A[3]; [3889]FP, Q[43], A[4]). Therefore at least the Person of the Father cannot become incarnate.
 
-### Answer
+**Answer**
 
 On the contrary, Whatever the Son can do, so can the Father and the Holy Ghost, otherwise the power of the three Persons would not be one. But the Son was able to become incarnate. Therefore the Father and the Holy Ghost were able to become incarnate.
 
 I answer that, As was said above ([3890]AA[1],2,4), assumption implies two things, viz. the act of the one assuming and the term of the assumption. Now the principle of the act is the Divine power, and the term is a Person. But the Divine power is indifferently and commonly in all the Persons. Moreover, the nature of Personality is common to all the Persons, although the personal properties are different. Now whenever a power regards several things indifferently, it can terminate its action in any of them indifferently, as is plain in rational powers, which regard opposites, and can do either of them. Therefore the Divine power could have united human nature to the Person of the Father or of the Holy Ghost, as It united it to the Person of the Son. And hence we must say that the Father or the Holy Ghost could have assumed flesh even as the Son.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The temporal sonship, whereby Christ is said to be the Son of Man, does not constitute His Person, as does the eternal Sonship; but is something following upon the temporal nativity. Hence, if the name of son were transferred to the Father or the Holy Ghost in this manner, there would be no confusion of the Divine Persons.
 
 Reply to Objection 2: Adoptive sonship is a certain participation of natural sonship; but it takes place in us, by appropriation, by the Father, Who is the principle of natural sonship, and by the gift of the Holy Ghost, Who is the love of the Father and Son, according to Gal. 4:6: "God hath sent the Spirit of His Son into your hearts crying, Abba, Father." And therefore, even as by the Incarnation of the Son we receive adoptive sonship in the likeness of His natural sonship, so likewise, had the Father become incarnate, we should have received adoptive sonship from Him, as from the principle of the natural sonship, and from the Holy Ghost as from the common bond of Father and Son.
 
 Reply to Objection 3: It belongs to the Father to be innascible as to eternal birth, and the temporal birth would not destroy this. But the Son of God is said to be sent in regard to the Incarnation, inasmuch as He is from another, without which the Incarnation would not suffice for the nature of mission.
-## Whether Several Divine Persons Can Assume One And The Same Individual Nature?
+### Whether Several Divine Persons Can Assume One And The Same Individual Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that two Divine Persons cannot assume one and the same individual nature. For, this being granted, there would either be several men or one. But not several, for just as one Divine Nature in several Persons does not make several gods, so one human nature in several persons does not make several men. Nor would there be only one man, for one man is "this man," which signifies one person; and hence the distinction of three Divine Persons would be destroyed, which cannot be allowed. Therefore neither two nor three Persons can take one human nature.
 
@@ -134,22 +134,22 @@ Objection 2: Further, the assumption is terminated in the unity of Person, as ha
 
 Objection 3: Further, Damascene says (De Fide Orth. iii, 3,4), and Augustine (De Trin. i, 11,12,13), that from the Incarnation of God the Son it follows that whatever is said of the Son of God is said of the Son of Man, and conversely. Hence, if three Persons were to assume one human nature, it would follow that whatever is said of each of the three Persons would be said of the man; and conversely, what was said of the man could be said of each of the three Persons. Therefore what is proper to the Father, viz. to beget the Son, would be said of the man, and consequently would be said of the Son of God; and this could not be. Therefore it is impossible that the three Persons should assume one human nature.
 
-### Answer
+**Answer**
 
 On the contrary, The Incarnate Person subsists in two natures. But the three Persons can subsist in one Divine Nature. Therefore they can also subsist in one human nature in such a way that the human nature be assumed by the three Persons.
 
 I answer that, As was said above ([3892]Q[2], A[5], ad 1), by the union of the soul and body in Christ neither a new person is made nor a new hypostasis, but one human nature is assumed to the Divine Person or hypostasis, which, indeed, does not take place by the power of the human nature, but by the power of the Divine Person. Now such is the characteristic of the Divine Persons that one does not exclude another from communicating in the same nature, but only in the same Person. Hence, since in the mystery of the Incarnation "the whole reason of the deed is the power of the doer," as Augustine says (Ep. ad Volusianum cxxxvii), we must judge of it in regard to the quality of the Divine Person assuming, and not according to the quality of the human nature assumed. Therefore it is not impossible that two or three Divine Persons should assume one human nature, but it would be impossible for them to assume one human hypostasis or person; thus Anselm says in the book De Concep. Virg. (Cur Deus Homo ii, 9), that "several Persons cannot assume one and the same man to unity of Person."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the hypothesis that three Persons assume one human nature, it would be true to say that the three Persons were one man, because of the one human nature. For just as it is now true to say the three Persons are one God on account of the one Divine Nature, so it would be true to say they are one man on account of the one human nature. Nor would "one" imply unity of person, but unity in human nature; for it could not be argued that because the three Persons were one man they were one simply. For nothing hinders our saying that men, who are many simply, are in some respect one, e.g. one people, and as Augustine says (De Trin. vi, 3): "The Spirit of God and the spirit of man are by nature different, but by inherence one spirit results," according to 1 Cor. 6:17: "He who is joined to the Lord is one spirit."
 
 Reply to Objection 2: In this supposition the human nature would be assumed to the unity, not indeed of one Person, but to the unity of each Person, so that even as the Divine Nature has a natural unity with each Person, so also the human nature would have a unity with each Person by assumption.
 
 Reply to Objection 3: In the mystery of the Incarnation, there results a communication of the properties belonging to the nature, because whatever belongs to the nature can be predicated of the Person subsisting in that nature, no matter to which of the natures it may apply. Hence in this hypothesis, of the Person of the Father may be predicated what belongs to the human nature and what belongs to the Divine; and likewise of the Person of the Son and of the Holy Ghost. But what belongs to the Person of the Father by reason of His own Person could not be attributed to the Person of the Son or Holy Ghost on account of the distinction of Persons which would still remain. Therefore it might be said that as the Father was unbegotten, so the man was unbegotten, inasmuch as "man" stood for the Person of the Father. But if one were to go on to say, "The man is unbegotten; the Son is man; therefore the Son is unbegotten," it would be the fallacy of figure of speech or of accident; even as we now say God is unbegotten, because the Father is unbegotten, yet we cannot conclude that the Son is unbegotten, although He is God.
-## Whether One Divine Person Can Assume Two Human Natures?
+### Whether One Divine Person Can Assume Two Human Natures?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one Divine Person cannot assume two human natures. For the nature assumed in the mystery of the Incarnation has no other suppositum than the suppositum of the Divine Person, as is plain from what has been stated above ([3893]Q[2], AA[3],6). Therefore, if we suppose one Person to assume two human natures, there would be one suppositum of two natures of the same species; which would seem to imply a contradiction, for the nature of one species is only multiplied by distinct supposita.
 
@@ -157,22 +157,22 @@ Objection 2: Further, in this hypothesis it could not be said that the Divine Pe
 
 Objection 3: Further, in the mystery of the Incarnation the whole Divine Nature is united to the whole nature assumed, i.e. to every part of it, for Christ is "perfect God and perfect man, complete God and complete man," as Damascene says (De Fide Orth. iii, 7). But two human natures cannot be wholly united together, inasmuch as the soul of one would be united to the body of the other; and, again, two bodies would be together, which would give rise to confusion of natures. Therefore it is not possibly for one Divine Person to assume two human natures.
 
-### Answer
+**Answer**
 
 On the contrary, Whatever the Father can do, that also can the Son do. But after the Incarnation the Father can still assume a human nature distinct from that which the Son has assumed; for in nothing is the power of the Father or the Son lessened by the Incarnation of the Son. Therefore it seems that after the Incarnation the Son can assume another human nature distinct from the one He has assumed.
 
 I answer that, What has power for one thing, and no more, has a power limited to one. Now the power of a Divine Person is infinite, nor can it be limited by any created thing. Hence it may not be said that a Divine Person so assumed one human nature as to be unable to assume another. For it would seem to follow from this that the Personality of the Divine Nature was so comprehended by one human nature as to be unable to assume another to its Personality; and this is impossible, for the Uncreated cannot be comprehended by any creature. Hence it is plain that, whether we consider the Divine Person in regard to His power, which is the principle of the union, or in regard to His Personality, which is the term of the union, it has to be said that the Divine Person, over and beyond the human nature which He has assumed, can assume another distinct human nature.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A created nature is completed in its essentials by its form, which is multiplied according to the division of matter. And hence, if the composition of matter and form constitutes a new suppositum, the consequence is that the nature is multiplied by the multiplication of supposita. But in the mystery of the Incarnation the union of form and matter, i.e. of soul and body, does not constitute a new suppositum, as was said above [3894](A[6]). Hence there can be a numerical multitude on the part of the nature, on account of the division of matter, without distinction of supposita.
 
 Reply to Objection 2: It might seem possible to reply that in such a hypothesis it would follow that there were two men by reason of the two natures, just as, on the contrary, the three Persons would be called one man, on account of the one nature assumed, as was said above (A[6], ad 1). But this does not seem to be true; because we must use words according to the purpose of their signification, which is in relation to our surroundings. Consequently, in order to judge of a word's signification or co-signification, we must consider the things which are around us, in which a word derived from some form is never used in the plural unless there are several supposita. For a man who has on two garments is not said to be "two persons clothed," but "one clothed with two garments"; and whoever has two qualities is designated in the singular as "such by reason of the two qualities." Now the assumed nature is, as it were, a garment, although this similitude does not fit at all points, as has been said above ([3895]Q[2], A[6], ad 1). And hence, if the Divine Person were to assume two human natures, He would be called, on account of the unity of suppositum, one man having two human natures. Now many men are said to be one people, inasmuch as they have some one thing in common, and not on account of the unity of suppositum. So likewise, if two Divine Persons were to assume one singular human nature, they would be said to be one man, as stated (A[6], ad 1), not from the unity of suppositum, but because they have some one thing in common.
 
 Reply to Objection 3: The Divine and human natures do not bear the same relation to the one Divine Person, but the Divine Nature is related first of all thereto, inasmuch as It is one with It from eternity; and afterwards the human nature is related to the Divine Person, inasmuch as it is assumed by the Divine Person in time, not indeed that the nature is the Person, but that the Person of God subsists in human nature. For the Son of God is His Godhead, but is not His manhood. And hence, in order that the human nature may be assumed by the Divine Person, the Divine Nature must be united by a personal union with the whole nature assumed, i.e. in all its parts. Now in the two natures assumed there would be a uniform relation to the Divine Person, nor would one assume the other. Hence it would not be necessary for one of them to be altogether united to the other, i.e. all the parts of one with all the parts of the other.
-## Whether It Was More Fitting That The Person Of The Son Rather Than Any Other Divine Person Should Assume Human Nature?
+### Whether It Was More Fitting That The Person Of The Son Rather Than Any Other Divine Person Should Assume Human Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not more fitting that the Son of God should become incarnate than the Father or the Holy Ghost. For by the mystery of the Incarnation men are led to the true knowledge of God, according to Jn. 18:37: "For this was I born, and for this came I into the world, to give testimony to the truth." But by the Person of the Son of God becoming incarnate many have been kept back from the true knowledge of God, since they referred to the very Person of the Son what was said of the Son in His human nature, as Arius, who held an inequality of Persons, according to what is said (Jn. 14:28): "The Father is greater than I." Now this error would not have arisen if the Person of the Father had become incarnate, for no one would have taken the Father to be less than the Son. Hence it seems fitting that the Person of the Father, rather than the Person of the Son, should have become incarnate.
 
@@ -180,7 +180,7 @@ Objection 2: Further, the effect of the Incarnation would seem to be, as it were
 
 Objection 3: Further, the Incarnation is ordained to the remission of sins, according to Mat. 1:21: "Thou shalt call His name Jesus. For He shall save His people from their sins." Now the remission of sins is attributed to the Holy Ghost according to Jn. 20:22,23: "Receive ye the Holy Ghost. Whose sins you shall forgive, they are forgiven them." Therefore it became the Person of the Holy Ghost rather than the Person of the Son to become incarnate.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iii, 1): "In the mystery of the Incarnation the wisdom and power of God are made known: the wisdom, for He found a most suitable discharge for a most heavy debt; the power, for He made the conquered conquer." But power and wisdom are appropriated to the Son, according to 1 Cor. 1:24: "Christ, the power of God and the wisdom of God." Therefore it was fitting that the Person of the Son should become incarnate.
 
@@ -190,7 +190,7 @@ Secondly, the reason of this fitness may be taken from the end of the union, whi
 
 Thirdly, the reason for this fitness may be taken from the sin of our first parent, for which the Incarnation supplied the remedy. For the first man sinned by seeking knowledge, as is plain from the words of the serpent, promising to man the knowledge of good and evil. Hence it was fitting that by the Word of true knowledge man might be led back to God, having wandered from God through an inordinate thirst for knowledge.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There is nothing which human malice cannot abuse, since it even abuses God's goodness, according to Rom. 2:4: "Or despisest thou the riches of His goodness?" Hence, even if the Person of the Father had become incarnate, men would have been capable of finding an occasion of error, as though the Son were not able to restore human nature.
 

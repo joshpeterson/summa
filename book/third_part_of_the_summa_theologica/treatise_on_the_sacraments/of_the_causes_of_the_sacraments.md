@@ -11,9 +11,9 @@ In the next place we have to consider the causes of the sacraments, both as to a
 (8) Whether the minister's intention is necessary in the sacraments?
 (9) Whether right faith is required therein; so that it be impossible for an unbeliever to confer a sacrament?
 (10) Whether a right intention is required therein?
-## Whether God Alone, Or The Minister Also, Works Inwardly Unto The Sacramental Effect?
+### Whether God Alone, Or The Minister Also, Works Inwardly Unto The Sacramental Effect?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that not God alone, but also the minister, works inwardly unto the sacramental effect. For the inward sacramental effect is to cleanse man from sin and enlighten him by grace. But it belongs to the ministers of the Church "to cleanse, enlighten and perfect," as Dionysius explains (Coel. Hier. v). Therefore it seems that the sacramental effect is the work not only of God, but also of the ministers of the Church.
 
@@ -21,22 +21,22 @@ Objection 2: Further, certain prayers are offered up in conferring the sacrament
 
 Objection 3: Further, man is of greater account than an inanimate thing. But an inanimate thing contributes something to the interior effect: since "water touches the body and cleanses the soul," as Augustine says (Tract. lxxx in Joan.). Therefore the interior sacramental effect is partly the work of man and not of God alone.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Rom. 8:33): "God that justifieth." Since, then, the inward effect of all the sacraments is justification, it seems that God alone works the interior sacramental effect.
 
 I answer that, There are two ways of producing an effect; first, as a principal agent; secondly, as an instrument. In the former way the interior sacramental effect is the work of God alone: first, because God alone can enter the soul wherein the sacramental effect takes place; and no agent can operate immediately where it is not: secondly, because grace which is an interior sacramental effect is from God alone, as we have established in the [4383]FS, Q[112], A[1]; while the character which is the interior effect of certain sacraments, is an instrumental power which flows from the principal agent, which is God. In the second way, however, the interior sacramental effect can be the work of man, in so far as he works as a minister. For a minister is of the nature of an instrument, since the action of both is applied to something extrinsic, while the interior effect is produced through the power of the principal agent, which is God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Cleansing in so far as it is attributed to the ministers of the Church is not a washing from sin: deacons are said to "cleanse," inasmuch as they remove the unclean from the body of the faithful, or prepare them by their pious admonitions for the reception of the sacraments. In like manner also priests are said to "enlighten" God's people, not indeed by giving them grace, but by conferring on them the sacraments of grace; as Dionysius explains (Coel. Hier. v).
 
 Reply to Objection 2: The prayers which are said in giving the sacraments, are offered to God, not on the part of the individual, but on the part of the whole Church, whose prayers are acceptable to God, according to Mat. 18:19: "If two of you shall consent upon earth, concerning anything whatsoever they shall ask, it shall be done to them by My Father." Nor is there any reason why the devotion of a just man should not contribute to this effect. But that which is the sacramental effect is not impetrated by the prayer of the Church or of the minister, but through the merit of Christ's Passion, the power of which operates in the sacraments, as stated above ([4384]Q[62], A[5]). Wherefore the sacramental effect is made no better by a better minister. And yet something in addition may be impetrated for the receiver of the sacrament through the devotion of the minister: but this is not the work of the minister, but the work of God Who hears the minister's prayer.
 
 Reply to Objection 3: Inanimate things do not produce the sacramental effect, except instrumentally, as stated above. In like manner neither do men produce the sacramental effect, except ministerially, as also stated above.
-## Whether The Sacraments Are Instituted By God Alone?
+### Whether The Sacraments Are Instituted By God Alone?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the sacraments are not instituted by God alone. For those things which God has instituted are delivered to us in Holy Scripture. But in the sacraments certain things are done which are nowhere mentioned in Holy Scripture; for instance, the chrism with which men are confirmed, the oil with which priests are anointed, and many others, both words and actions, which we employ in the sacraments. Therefore the sacraments were not instituted by God alone.
 
@@ -44,22 +44,22 @@ Objection 2: Further, a sacrament is a kind of sign. Now sensible things have th
 
 Objection 3: Further, the apostles were God's vicegerents on earth: hence the Apostle says (2 Cor. 2:10): "For what I have pardoned, if I have pardoned anything, for your sakes have I done it in the person of Christ," i.e. as though Christ Himself had pardoned. Therefore it seems that the apostles and their successors can institute new sacraments.
 
-### Answer
+**Answer**
 
 On the contrary, The institutor of anything is he who gives it strength and power: as in the case of those who institute laws. But the power of a sacrament is from God alone, as we have shown above [4385](A[1]; Q[62], A[1]). Therefore God alone can institute a sacrament.
 
 I answer that, As appears from what has been said above [4386](A[1]; Q[62], A[1]), the sacraments are instrumental causes of spiritual effects. Now an instrument has its power from the principal agent. But an agent in respect of a sacrament is twofold; viz. he who institutes the sacraments, and he who makes use of the sacrament instituted, by applying it for the production of the effect. Now the power of a sacrament cannot be from him who makes use of the sacrament: because he works but as a minister. Consequently, it follows that the power of the sacrament is from the institutor of the sacrament. Since, therefore, the power of the sacrament is from God alone, it follows that God alone can institute the sacraments.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Human institutions observed in the sacraments are not essential to the sacrament; but belong to the solemnity which is added to the sacraments in order to arouse devotion and reverence in the recipients. But those things that are essential to the sacrament, are instituted by Christ Himself, Who is God and man. And though they are not all handed down by the Scriptures, yet the Church holds them from the intimate tradition of the apostles, according to the saying of the Apostle (1 Cor. 11:34): "The rest I will set in order when I come."
 
 Reply to Objection 2: From their very nature sensible things have a certain aptitude for the signifying of spiritual effects: but this aptitude is fixed by the Divine institution to some special signification. This is what Hugh of St. Victor means by saying (De Sacram. i) that "a sacrament owes its signification to its institution." Yet God chooses certain things rather than others for sacramental signification, not as though His choice were restricted to them, but in order that their signification be more suitable to them.
 
 Reply to Objection 3: The apostles and their successors are God's vicars in governing the Church which is built on faith and the sacraments of faith. Wherefore, just as they may not institute another Church, so neither may they deliver another faith, nor institute other sacraments: on the contrary, the Church is said to be built up with the sacraments "which flowed from the side of Christ while hanging on the Cross."
-## Whether Christ As Man Had The Power Of Producing The Inward Sacramental Effect?
+### Whether Christ As Man Had The Power Of Producing The Inward Sacramental Effect?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that Christ as man had the power of producing the interior sacramental effect. For John the Baptist said (Jn. 1:33): "He, Who sent me to baptize in water, said to me: He upon Whom thou shalt see the Spirit descending and remaining upon Him, He it is that baptizeth with the Holy Ghost." But to baptize with the Holy Ghost is to confer inwardly the grace of the Holy Ghost. And the Holy Ghost descended upon Christ as man, not as God: for thus He Himself gives the Holy Ghost. Therefore it seems that Christ, as man, had the power of producing the inward sacramental effect.
 
@@ -71,16 +71,16 @@ Objection 4: Further, no one can confer the sacramental effect without conferrin
 
 Objection 5: Further, the principal agent in causing the inward effect is that in virtue of which the sacrament operates. But the sacraments derive their power from Christ's Passion and through the invocation of His Name; according to 1 Cor. 1:13: "Was Paul then crucified for you? or were you baptized in the name of Paul?" Therefore Christ, as man, produces the inward sacramental effect.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine (Isidore, Etym. vi) says: "The Divine power in the sacraments works inwardly in producing their salutary effect." Now the Divine power is Christ's as God, not as man. Therefore Christ produces the inward sacramental effect, not as man but as God.
 
 I answer that, Christ produces the inward sacramental effect, both as God and as man, but not in the same way. For, as God, He works in the sacraments by authority: but, as man, His operation conduces to the inward sacramental effects meritoriously and efficiently, but instrumentally. For it has been stated ([4387]Q[48], AA[1],6;[4388] Q[49], A[1]) that Christ's Passion which belongs to Him in respect of His human nature, is the cause of justification, both meritoriously and efficiently, not as the principal cause thereof, or by His own authority, but as an instrument, in so far as His humanity is the instrument of His Godhead, as stated above ([4389]Q[13], AA[2],3;[4390] Q[19], A[1]).
 
 Nevertheless, since it is an instrument united to the Godhead in unity of Person, it has a certain headship and efficiency in regard to extrinsic instruments, which are the ministers of the Church and the sacraments themselves, as has been explained above [4391](A[1]). Consequently, just as Christ, as God, has power of "authority" over the sacraments, so, as man, He has the power of ministry in chief, or power of "excellence." And this consists in four things. First in this, that the merit and power of His Passion operates in the sacraments, as stated above (Q[62], A[5]). And because the power of the Passion is communicated to us by faith, according to Rom. 3:25: "Whom God hath proposed to be a propitiation through faith in His blood," which faith we proclaim by calling on the name of Christ: therefore, secondly, Christ's power of excellence over the sacraments consists in this, that they are sanctified by the invocation of His name. And because the sacraments derive their power from their institution, hence, thirdly, the excellence of Christ's power consists in this, that He, Who gave them their power, could institute the sacraments. And since cause does not depend on effect, but rather conversely, it belongs to the excellence of Christ's power, that He could bestow the sacramental effect without conferring the exterior sacrament. Thus it is clear how to solve the objections; for the arguments on either side are true to a certain extent, as explained above.
-## Whether Christ Could Communicate To Ministers The Power Which He Had In The Sacraments?
+### Whether Christ Could Communicate To Ministers The Power Which He Had In The Sacraments?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that Christ could not communicate to ministers the power which He had in the sacraments. For as Augustine argues against Maximin, "if He could, but would not, He was jealous of His power." But jealousy was far from Christ Who had the fulness of charity. Since, therefore, Christ did not communicate His power to ministers, it seems that He could not.
 
@@ -88,22 +88,22 @@ Objection 2: Further, on Jn. 14:12: "Greater than these shall he do," Augustine 
 
 Objection 3: Further, it belongs to Christ as Head of the Church that grace should flow from Him to others, according to Jn. 1:16: "Of His fulness we all have received." But this could not be communicated to others; since then the Church would be deformed, having many heads. Therefore it seems that Christ could not communicate His power to ministers.
 
-### Answer
+**Answer**
 
 On the contrary, on Jn. 1:31: "I knew Him not," Augustine says (Tract. v) that "he did not know that our Lord having the authority of baptizing . . . would keep it to Himself." But John would not have been in ignorance of this, if such a power were incommunicable. Therefore Christ could communicate His power to ministers.
 
 I answer that, As stated above [4392](A[3]), Christ had a twofold power in the sacraments. one was the power of "authority," which belongs to Him as God: and this power He could not communicate to any creature; just as neither could He communicate the Divine Essence. The other was the power of "excellence," which belongs to Him as man. This power He could communicate to ministers; namely, by giving them such a fulness of grace---that their merits would conduce to the sacramental effect---that by the invocation of their names, the sacraments would be sanctified---and that they themselves might institute sacraments, and by their mere will confer the sacramental effect without observing the sacramental rite. For a united instrument, the more powerful it is, is all the more able to lend its power to the separated instrument; as the hand can to a stick.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It was not through jealousy that Christ refrained from communicating to ministers His power of excellence, but for the good of the faithful; lest they should put their trust in men, and lest there should be various kinds of sacraments, giving rise to division in the Church; as may be seen in those who said: "I am of Paul, I am of Apollo, and I of Cephas" (1 Cor. 1:12).
 
 Reply to Objection 2: This objection is true of the power of authority, which belongs to Christ as God. At the same time the power of excellence can be called authority in comparison to other ministers. Whence on 1 Cor. 1:13: "Is Christ divided?" the gloss says that "He could give power of authority in baptizing, to those to whom He gave the power of administering it."
 
 Reply to Objection 3: It was in order to avoid the incongruity of many heads in the Church, that Christ was unwilling to communicate to ministers His power of excellence. If, however, He had done so, He would have been Head in chief; the others in subjection to Him.
-## Whether The Sacraments Can Be Conferred By Evil Ministers?
+### Whether The Sacraments Can Be Conferred By Evil Ministers?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the sacraments cannot be conferred by evil ministers. For the sacraments of the New Law are ordained for the purpose of cleansing from sin and for the bestowal of grace. Now evil men, being themselves unclean, cannot cleanse others from sin, according to Ecclus. 34:4: "Who [Vulg.: 'What'] can be made clean by the unclean?" Moreover, since they have not grace, it seems that they cannot give grace, for "no one gives what he has not." It seems, therefore, that the sacraments cannot be conferred by wicked men.
 
@@ -111,22 +111,22 @@ Objection 2: Further, all the power of the sacraments is derived from Christ, as
 
 Objection 3: Further, if anything is wanting that is required for the sacraments, the sacrament is invalid; for instance, if the required matter or form be wanting. But the minister required for a sacrament is one who is without the stain of sin, according to Lev. 21:17,18: "Whosoever of thy seed throughout their families, hath a blemish, he shall not offer bread to his God, neither shall he approach to minister to Him." Therefore it seems that if the minister be wicked, the sacrament has no effect.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says on Jn. 1:33: "He upon Whom thou shalt see the Spirit," etc. (Tract. v in Joan.), that "John did not know that our Lord, having the authority of baptizing, would keep it to Himself, but that the ministry would certainly pass to both good and evil men . . . What is a bad minister to thee, where the Lord is good?"
 
 I answer that, As stated above [4394](A[1]), the ministers of the Church work instrumentally in the sacraments, because, in a way, a minister is of the nature of an instrument. But, as stated above (Q[62], AA[1],4), an instrument acts not by reason of its own form, but by the power of the one who moves it. Consequently, whatever form or power an instrument has in addition to that which it has as an instrument, is accidental to it: for instance, that a physician's body, which is the instrument of his soul, wherein is his medical art, be healthy or sickly; or that a pipe, through which water passes, be of silver or lead. Therefore the ministers of the Church can confer the sacraments, though they be wicked.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The ministers of the Church do not by their own power cleanse from sin those who approach the sacraments, nor do they confer grace on them: it is Christ Who does this by His own power while He employs them as instruments. Consequently, those who approach the sacraments receive an effect whereby they are enlikened not to the ministers but to Christ.
 
 Reply to Objection 2: Christ's members are united to their Head by charity, so that they may receive life from Him; for as it is written (1 Jn. 3:14): "He that loveth not abideth in death." Now it is possible for a man to work with a lifeless instrument, and separated from him as to bodily union, provided it be united to him by some sort of motion: for a workman works in one way with his hand, in another with his axe. Consequently, it is thus that Christ works in the sacraments, both by wicked men as lifeless instruments, and by good men as living instruments.
 
 Reply to Objection 3: A thing is required in a sacrament in two ways. First, as being essential to it: and if this be wanting, the sacrament is invalid; for instance, if the due form or matter be wanting. Secondly, a thing is required for a sacrament, by reason of a certain fitness. And in this way good ministers are required for a sacrament.
-## Whether Wicked Men Sin In Administering The Sacraments?
+### Whether Wicked Men Sin In Administering The Sacraments?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that wicked men do not sin in administering the sacraments. For just as men serve God in the sacraments, so do they serve Him in works of charity; whence it is written (Heb. 13:16): "Do not forget to do good and to impart, for by such sacrifices God's favor is obtained." But the wicked do not sin in serving God by works of charity: indeed, they should be persuaded to do so, according to Dan. 4:24: "Let my counsel be acceptable" to the king; "Redeem thou thy sins with alms." Therefore it seems that wicked men do not sin in administering the sacraments.
 
@@ -134,22 +134,22 @@ Objection 2: Further, whoever co-operates with another in his sin, is also guilt
 
 Objection 3: Further, it seems that no one should act when in doubt, for thus man would be driven to despair, as being unable to avoid sin. But if the wicked were to sin in administering sacraments, they would be in a state of perplexity: since sometimes they would sin also if they did not administer sacraments; for instance, when by reason of their office it is their bounden duty to do so; for it is written (1 Cor. 9:16): "For a necessity lieth upon me: Woe is unto me if I preach not the gospel." Sometimes also on account of some danger; for instance, if a child in danger of death be brought to a sinner for baptism. Therefore it seems that the wicked do not sin in administering the sacraments.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Eccl. Hier. i) that "it is wrong for the wicked even to touch the symbols," i.e. the sacramental signs. And he says in the epistle to Demophilus: "It seems presumptuous for such a man," i.e. a sinner, "to lay hands on priestly things; he is neither afraid nor ashamed, all unworthy that he is, to take part in Divine things, with the thought that God does not see what he sees in himself: he thinks, by false pretenses, to cheat Him Whom he calls his Father; he dares to utter, in the person of Christ, words polluted by his infamy, I will not call them prayers, over the Divine symbols."
 
 I answer that, A sinful action consists in this, that a man "fails to act as he ought to," as the Philosopher explains (Ethic. ii). Now it has been said (A[5], ad 3) that it is fitting for the ministers of sacraments to be righteous; because ministers should be like unto their Lord, according to Lev. 19:2: "Be ye holy, because I . . . am holy"; and Ecclus. 10:2: "As the judge of the people is himself, so also are his ministers." Consequently, there can be no doubt that the wicked sin by exercising the ministry of God and the Church, by conferring the sacraments. And since this sin pertains to irreverence towards God and the contamination of holy things, as far as the man who sins is concerned, although holy things in themselves cannot be contaminated; it follows that such a sin is mortal in its genus.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Works of charity are not made holy by some process of consecration, but they belong to the holiness of righteousness, as being in a way parts of righteousness. Consequently, when a man shows himself as a minister of God, by doing works of charity, if he be righteous, he will be made yet holier; but if he be a sinner, he is thereby disposed to holiness. On the other hand, the sacraments are holy in themselves owing to their mystical consecration. Wherefore the holiness of righteousness is required in the minister, that he may be suitable for his ministry: for which reason he acts unbecomingly and sins, if while in a state of sin he attempts to fulfil that ministry.
 
 Reply to Objection 2: He who approaches a sacrament, receives it from a minister of the Church, not because he is such and such a man, but because he is a minister of the Church. Consequently, as long as the latter is tolerated in the ministry, he that receives a sacrament from him, does not communicate in his sin, but communicates with the Church from. whom he has his ministry. But if the Church, by degrading, excommunicating, or suspending him, does not tolerate him in the ministry, he that receives a sacrament from him sins, because he communicates in his sin.
 
 Reply to Objection 3: A man who is in mortal sin is not perplexed simply, if by reason of his office it be his bounden duty to minister sacraments; because he can repent of his sin and so minister lawfully. But there is nothing unreasonable in his being perplexed, if we suppose that he wishes to remain in sin.
-## Whether Angels Can Administer Sacraments?
+### Whether Angels Can Administer Sacraments?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that angels can administer sacraments. Because a higher minister can do whatever the lower can; thus a priest can do whatever a deacon can: but not conversely. But angels are higher ministers in the hierarchical order than any men whatsoever, as Dionysius says (Coel. Hier. ix). Therefore, since men can be ministers of sacraments, it seems that much more can angels be.
 
@@ -157,7 +157,7 @@ Objection 2: Further, in heaven holy men are likened to the angels (Mat. 22:30).
 
 Objection 3: Further, as stated above ([4398]Q[8], A[7]), the devil is head of the wicked, and the wicked are his members. But sacraments can be administered by the wicked. Therefore it seems that they can be administered even by demons.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 5:1): "Every high priest taken from among men, is ordained for men in the things that appertain to God." But angels whether good or bad are not taken from among men. Therefore they are not ordained ministers in the things that appertain to God, i.e. in the sacraments.
 
@@ -165,16 +165,16 @@ I answer that, As stated above [4399](A[3]; Q[62], A[5]), the whole power of the
 
 But it must be observed that as God did not bind His power to the sacraments, so as to be unable to bestow the sacramental effect without conferring the sacrament; so neither did He bind His power to the ministers of the Church so as to be unable to give angels power to administer the sacraments. And since good angels are messengers of truth; if any sacramental rite were performed by good angels, it should be considered valid, because it ought to be evident that this is being done by the will of God: for instance, certain churches are said to have been consecrated by the ministry of the angels [*See Acta S.S., September 29]. But if demons, who are "lying spirits," were to perform a sacramental rite, it should be pronounced as invalid.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: What men do in a less perfect manner, i.e. by sensible sacraments, which are proportionate to their nature, angels also do, as ministers of a higher degree, in a more perfect manner, i.e. invisibly---by cleansing, enlightening, and perfecting.
 
 Reply to Objection 2: The saints in heaven resemble the angels as to their share of glory, but not as to the conditions of their nature: and consequently not in regard to the sacraments.
 
 Reply to Objection 3: Wicked men do not owe their power of conferring sacraments to their being members of the devil. Consequently, it does not follow that "a fortiori" the devil, their head, can do so.
-## Whether The Minister's Intention Is Required For The Validity Of A Sacrament?
+### Whether The Minister's Intention Is Required For The Validity Of A Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the minister's intention is not required for the validity of a sacrament. For the minister of a sacrament works instrumentally. But the perfection of an action does not depend on the intention of the instrument, but on that of the principal agent. Therefore the minister's intention is not necessary for the perfecting of a sacrament.
 
@@ -182,22 +182,22 @@ Objection 2: Further, one man's intention cannot be known to another. Therefore 
 
 Objection 3: Further, a man's intention cannot bear on that to which he does not attend. But sometimes ministers of sacraments do not attend to what they say or do, through thinking of something else. Therefore in this respect the sacrament would be invalid through want of intention.
 
-### Answer
+**Answer**
 
 On the contrary, What is unintentional happens by chance. But this cannot be said of the sacramental operation. Therefore the sacraments require the intention of the minister.
 
 I answer that, When a thing is indifferent to many uses, it must needs be determined to one, if that one has to be effected. Now those things which are done in the sacraments, can be done with various intent; for instance, washing with water, which is done in baptism, may be ordained to bodily cleanliness, to the health of the body, to amusement, and many other similar things. Consequently, it needs to be determined to one purpose, i.e. the sacramental effect, by the intention of him who washes. And this intention is expressed by the words which are pronounced in the sacraments; for instance the words, "I baptize thee in the name of the Father," etc.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: An inanimate instrument has no intention regarding the effect; but instead of the intention there is the motion whereby it is moved by the principal agent. But an animate instrument, such as a minister, is not only moved, but in a sense moves itself, in so far as by his will he moves his bodily members to act. Consequently, his intention is required, whereby he subjects himself to the principal agent; that is, it is necessary that he intend to do that which Christ and the Church do.
 
 Reply to Objection 2: On this point there are two opinions. For some hold that the mental intention of the minister is necessary; in the absence of which the sacrament is invalid: and that this defect in the case of children who have not the intention of approaching the sacrament, is made good by Christ, Who baptizes inwardly: whereas in adults, who have that intention, this defect is made good by their faith and devotion.
 
 Reply to Objection 3: Although he who thinks of something else, has no actual intention, yet he has habitual intention, which suffices for the validity of the sacrament; for instance if, when a priest goes to baptize someone, he intends to do to him what the Church does. Wherefore if subsequently during the exercise of the act his mind be distracted by other matters, the sacrament is valid in virtue of his original intention. Nevertheless, the minister of a sacrament should take great care to have actual intention. But this is not entirely in man's power, because when a man wishes to be very intent on something, he begins unintentionally to think of other things, according to Ps. 39:18: "My heart hath forsaken me."
-## Whether Faith Is Required Of Necessity In The Minister Of A Sacrament?
+### Whether Faith Is Required Of Necessity In The Minister Of A Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that faith is required of necessity in the minister of a sacrament. For, as stated above [4401](A[8]), the intention of the minister is necessary for the validity of a sacrament. But "faith directs in intention" as Augustine says against Julian (In Psalm xxxi, cf. Contra Julian iv). Therefore, if the minister is without the true faith, the sacrament is invalid.
 
@@ -205,22 +205,22 @@ Objection 2: Further, if a minister of the Church has not the true faith, it see
 
 Objection 3: Further, those who have not the true faith seem to be separated from the Church by excommunication: for it is written in the second canonical epistle of John (10): "If any man come to you, and bring not this doctrine, receive him not into the house, nor say to him; God speed you": and (Titus 3:10): "A man that is a heretic, after the first and second admonition avoid." But it seems that an excommunicate cannot confer a sacrament of the Church: since he is separated from the Church, to whose ministry the dispensation of the sacraments belongs. Therefore a sacrament requires of necessity that the minister should have the true faith.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says against the Donatist Petilian: "Remember that the evil lives of wicked men are not prejudicial to God's sacraments, by rendering them either invalid or less holy."
 
 I answer that, As stated above [4402](A[5]), since the minister works instrumentally in the sacraments, he acts not by his own but by Christ's power. Now just as charity belongs to a man's own power so also does faith. Wherefore, just as the validity of a sacrament does not require that the minister should have charity, and even sinners can confer sacraments, as stated above [4403](A[5]); so neither is it necessary that he should have faith, and even an unbeliever can confer a true sacrament, provided that the other essentials be there.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It may happen that a man's faith is defective in regard to something else, and not in regard to the reality of the sacrament which he confers: for instance, he may believe that it is unlawful to swear in any case whatever, and yet he may believe that baptism is an efficient cause of salvation. And thus such unbelief does not hinder the intention of conferring the sacrament. But if his faith be defective in regard to the very sacrament that he confers, although he believe that no inward effect is caused by the thing done outwardly, yet he does know that the Catholic Church intends to confer a sacrament by that which is outwardly done. Wherefore, his unbelief notwithstanding, he can intend to do what the Church does, albeit he esteem it to be nothing. And such an intention suffices for a sacrament: because as stated above (A[8], ad 2) the minister of a sacrament acts in the person of the Church by whose faith any defect in the minister's faith is made good.
 
 Reply to Objection 2: Some heretics in conferring sacraments do not observe the form prescribed by the Church: and these confer neither the sacrament nor the reality of the sacrament. But some do observe the form prescribed by the Church: and these confer indeed the sacrament but not the reality. I say this in the supposition that they are outwardly cut off from the Church; because from the very fact that anyone receives the sacraments from them, he sins; and consequently is hindered from receiving the effect of the sacrament. Wherefore Augustine (Fulgentius, De Fide ad Pet.) says: "Be well assured and have no doubt whatever that those who are baptized outside the Church, unless they come back to the Church, will reap disaster from their Baptism." In this sense Pope Leo says that "the light of the sacraments was extinguished in the Church of Alexandria"; viz. in regard to the reality of the sacrament, not as to the sacrament itself.
 
 Reply to Objection 3: The power of administering the sacraments belongs to the spiritual character which is indelible, as explained above ([4404]Q[63], A[3] ). Consequently, if a man be suspended by the Church, or excommunicated or degraded, he does not lose the power of conferring sacraments, but the permission to use this power. Wherefore he does indeed confer the sacrament, but he sins in so doing. He also sins that receives a sacrament from such a man: so that he does not receive the reality of the sacrament, unless ignorance excuses him.
-## Whether The Validity Of A Sacrament Requires A Good Intention In The Minister?
+### Whether The Validity Of A Sacrament Requires A Good Intention In The Minister?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the validity of a sacrament requires a good intention in the minister. For the minister's intention should be in conformity with the Church's intention, as explained above (A[8], ad 1). But the intention of the Church is always good. Therefore the validity of a sacrament requires of necessity a good intention in the minister.
 
@@ -228,7 +228,7 @@ Objection 2: Further, a perverse intention seems worse than a playful one. But a
 
 Objection 3: Further, a perverse intention vitiates the whole work, according to Lk. 11:34: "If thy eye be evil, thy" whole "body will be darksome." But the sacraments of Christ cannot be contaminated by evil men; as Augustine says against Petilian (Cont. Litt. Petil ii). Therefore it seems that, if the minister's intention is perverse, the sacrament is invalid.
 
-### Answer
+**Answer**
 
 On the contrary, A perverse intention belongs to the wickedness of the minister. But the wickedness of the minister does not annul the sacrament: neither, therefore, does his perverse intention.
 
@@ -236,7 +236,7 @@ I answer that, The minister's intention may be perverted in two ways. First in r
 
 Secondly, the minister's intention may be perverted as to something that follows the sacrament: for instance, a priest may intend to baptize a woman so as to be able to abuse her; or to consecrate the Body of Christ, so as to use it for sorcery. And because that which comes first does not depend on that which follows, consequently such a perverse intention does not annul the sacrament; but the minister himself sins grievously in having such an intention.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Church has a good intention both as to the validity of the sacrament and as to the use thereof: but it is the former intention that perfects the sacrament, while the latter conduces to the meritorious effect. Consequently, the minister who conforms his intention to the Church as to the former rectitude, but not as to the latter, perfects the sacrament indeed, but gains no merit for himself.
 

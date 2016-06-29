@@ -5,9 +5,9 @@ We must now consider the cause of sin, in so far as one sin can be the cause of 
 (2) Whether pride is the beginning of every sin?
 (3) Whether other special sins should be called capital vices, besides pride and covetousness?
 (4) How many capital vices there are, and which are they?
-## Whether Covetousness Is The Root Of All Sins?
+### Whether Covetousness Is The Root Of All Sins?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that covetousness is not the root of all sins. For covetousness, which is immoderate desire for riches, is opposed to the virtue of liberality. But liberality is not the root of all virtues. Therefore covetousness is not the root of all sins.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the desire for the means proceeds from desire for the end.
 
 Objection 3: Further, it often happens that avarice, which is another name for covetousness, arises from other sins; as when a man desires money through ambition, or in order to sate his gluttony. Therefore it is not the root of all sins.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Tim. 6:10): "The desire of money is the root of all evil."
 
@@ -23,16 +23,16 @@ I answer that, According to some, covetousness may be understood in different wa
 
 Now, though all this is true, it does not seem to explain the mind of the Apostle when he states that covetousness is the root of all sins. For in that passage he clearly speaks against those who, because they "will become rich, fall into temptation, and into the snare of the devil . . . for covetousness is the root of all evils." Hence it is evident that he is speaking of covetousness as denoting the inordinate desire for riches. Accordingly, we must say that covetousness, as denoting a special sin, is called the root of all sins, in likeness to the root of a tree, in furnishing sustenance to the whole tree. For we see that by riches man acquires the means of committing any sin whatever, and of sating his desire for any sin whatever, since money helps man to obtain all manner of temporal goods, according to Eccles. 10:19: "All things obey money": so that in this desire for riches is the root of all sins.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Virtue and sin do not arise from the same source. For sin arises from the desire of mutable good; and consequently the desire of that good which helps one to obtain all temporal goods, is called the root of all sins. But virtue arises from the desire for the immutable God; and consequently charity, which is the love of God, is called the root of the virtues, according to Eph. 3:17: "Rooted and founded in charity."
 
 Reply to Objection 2: The desire of money is said to be the root of sins, not as though riches were sought for their own sake, as being the last end; but because they are much sought after as useful for any temporal end. And since a universal good is more desirable than a particular good, they move the appetite more than any individual goods, which along with many others can be procured by means of money.
 
 Reply to Objection 3: Just as in natural things we do not ask what always happens, but what happens most frequently, for the reason that the nature of corruptible things can be hindered, so as not always to act in the same way; so also in moral matters, we consider what happens in the majority of cases, not what happens invariably, for the reason that the will does not act of necessity. So when we say that covetousness is the root of all evils, we do not assert that no other evil can be its root, but that other evils more frequently arise therefrom, for the reason given.
-## Whether Pride Is The Beginning Of Every Sin?
+### Whether Pride Is The Beginning Of Every Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that pride is not the beginning of every sin. For the root is a beginning of a tree, so that the beginning of a sin seems to be the same as the root of sin. Now covetousness is the root of every sin, as stated above [1854](A[1]). Therefore it is also the beginning of every sin, and not pride.
 
@@ -40,7 +40,7 @@ Objection 2: Further, it is written (Ecclus. 10:14): "The beginning of the pride
 
 Objection 3: Further, the beginning of every sin would seem to be that which causes all sins. Now this is inordinate self-love, which, according to Augustine (De Civ. Dei xiv), "builds up the city of Babylon." Therefore self-love and not pride, is the beginning of every sin.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ecclus. 10:15): "Pride is the beginning of all sin."
 
@@ -50,14 +50,14 @@ Now though all this is true, nevertheless it does not explain the mind of the wi
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Apostasy from God is stated to be the beginning of pride, in so far as it denotes a turning away from God, because from the fact that man wishes not to be subject to God, it follows that he desires inordinately his own excellence in temporal things. Wherefore, in the passage quoted, apostasy from God does not denote the special sin, but rather that general condition of every sin, consisting in its turning away from God. It may also be said that apostasy from God is said to be the beginning of pride, because it is the first species of pride. For it is characteristic of pride to be unwilling to be subject to any superior, and especially to God; the result being that a man is unduly lifted up, in respect of the other species of pride.
 
 Reply to Objection 3: In desiring to excel, man loves himself, for to love oneself is the same as to desire some good for oneself. Consequently it amounts to the same whether we reckon pride or self-love as the beginning of every evil.
-## Whether Any Other Special Sins, Besides Pride And Avarice, Should Be Called Capital?
+### Whether Any Other Special Sins, Besides Pride And Avarice, Should Be Called Capital?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no other special sins, besides pride and avarice, should be called capital. Because "the head seems to be to an animal, what the root is to a plant," as stated in De Anima ii, text. 38: for the roots are like a mouth. If therefore covetousness is called the "root of all evils," it seems that it alone, and no other sin, should be called a capital vice.
 
@@ -65,22 +65,22 @@ Objection 2: Further, the head bears a certain relation of order to the other me
 
 Objection 3: Further, capital crimes are those which receive capital punishment. But every kind of sin comprises some that are punished thus. Therefore the capital sins are not certain specific sins.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxxi, 17) enumerates certain special vices under the name of capital.
 
 I answer that, The word capital is derived from "caput" [a head]. Now the head, properly speaking, is that part of an animal's body, which is the principle and director of the whole animal. Hence, metaphorically speaking, every principle is called a head, and even men who direct and govern others are called heads. Accordingly a capital vice is so called, in the first place, from "head" taken in the proper sense, and thus the name "capital" is given to a sin for which capital punishment is inflicted. It is not in this sense that we are now speaking of capital sins, but in another sense, in which the term "capital" is derived from head, taken metaphorically for a principle or director of others. In this way a capital vice is one from which other vices arise, chiefly by being their final cause, which origin is formal, as stated above ([1856]Q[72], A[6]). Wherefore a capital vice is not only the principle of others, but is also their director and, in a way, their leader: because the art or habit, to which the end belongs, is always the principle and the commander in matters concerning the means. Hence Gregory (Moral. xxxi, 17) compares these capital vices to the "leaders of an army."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The term "capital" is taken from "caput" and applied to something connected with, or partaking of the head, as having some property thereof, but not as being the head taken literally. And therefore the capital vices are not only those which have the character of primary origin, as covetousness which is called the "root," and pride which is called the beginning, but also those which have the character of proximate origin in respect of several sins.
 
 Reply to Objection 2: Sin lacks order in so far as it turns away from God, for in this respect it is an evil, and evil, according to Augustine (De Natura Boni iv), is "the privation of mode, species and order." But in so far as sin implies a turning to something, it regards some good: wherefore, in this respect, there can be order in sin.
 
 Reply to Objection 3: This objection considers capital sin as so called from the punishment it deserves, in which sense we are not taking it here.
-## Whether The Seven Capital Vices Are Suitably Reckoned?
+### Whether The Seven Capital Vices Are Suitably Reckoned?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to reckon seven capital vices, viz. vainglory, envy, anger, sloth, covetousness, gluttony, lust. For sins are opposed to virtues. But there are four principal virtues, as stated above ([1857]Q[61], A[2]). Therefore there are only four principal or capital vices.
 
@@ -92,7 +92,7 @@ Objection 4: Further, just as covetousness or avarice is the root of sin, so is 
 
 Objection 5: Further, some sins are committed which cannot be caused through any of these: as, for instance, when one sins through ignorance, or when one commits a sin with a good intention, e.g. steals in order to give an alms. Therefore the capital vices are insufficiently enumerated.
 
-### Answer
+**Answer**
 
 On the contrary, stands the authority of Gregory who enumerates them in this way (Moral. xxxi, 17).
 
@@ -106,7 +106,7 @@ Or again, good moves the appetite chiefly through possessing some property of ha
 
 On the other hand, avoidance of good on account of an attendant evil occurs in two ways. For this happens either in respect of one's own good, and thus we have "sloth," which is sadness about one's spiritual good, on account of the attendant bodily labor: or else it happens in respect of another's good, and this, if it be without recrimination, belongs to "envy," which is sadness about another's good as being a hindrance to one's own excellence, while if it be with recrimination with a view to vengeance, it is "anger." Again, these same vices seek the contrary evils.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Virtue and vice do not originate in the same way: since virtue is caused by the subordination of the appetite to reason, or to the immutable good, which is God, whereas vice arises from the appetite for mutable good. Wherefore there is no need for the principal vices to be contrary to the principal virtues.
 

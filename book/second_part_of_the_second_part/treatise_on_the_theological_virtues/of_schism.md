@@ -5,9 +5,9 @@ We must now consider the vices contrary to peace, which belong to deeds: such ar
 (2) Whether it is graver than unbelief?
 (3) Of the power exercised by schismatics;
 (4) Of the punishment inflicted on them.
-## Whether Schism Is A Special Sin?
+### Whether Schism Is A Special Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that schism is not a special sin. For "schism," as Pope Pelagius I says (Epist. ad Victor. et Pancrat.), "denotes a division." But every sin causes a division, according to Is. 59:: "Your sins have divided between you and your God." Therefore schism is not a special sin.
 
@@ -15,7 +15,7 @@ Objection 2: Further, a man is apparently a schismatic if he disobeys the Church
 
 Objection 3: Further, heresy also divides a man from the unity of faith. If, therefore, the word schism denotes a division, it would seem not to differ, as a special sin, from the sin of unbelief.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine (Contra Faust. xx, 3; Contra Crescon. ii, 4) distinguishes between schism and heresy, for he says that a "schismatic is one who holds the same faith, and practises the same worship, as others, and takes pleasure in the mere disunion of the community, whereas a heretic is one who holds another faith from that of the Catholic Church." Therefore schism is not a generic sin.
 
@@ -23,16 +23,16 @@ I answer that, As Isidore says (Etym. viii, 3), schism takes its name "from bein
 
 Accordingly schismatics properly so called are those who, wilfully and intentionally separate themselves from the unity of the Church; for this is the chief unity, and the particular unity of several individuals among themselves is subordinate to the unity of the Church, even as the mutual adaptation of each member of a natural body is subordinate to the unity of the whole body. Now the unity of the Church consists in two things; namely, in the mutual connection or communion of the members of the Church, and again in the subordination of all the members of the Church to the one head, according to Col. 2:18,19: "Puffed up by the sense of his flesh, and not holding the Head, from which the whole body, by joints and bands, being supplied with nourishment and compacted, groweth unto the increase of God." Now this Head is Christ Himself, Whose viceregent in the Church is the Sovereign Pontiff. Wherefore schismatics are those who refuse to submit to the Sovereign Pontiff, and to hold communion with those members of the Church who acknowledge his supremacy.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The division between man and God that results from sin is not intended by the sinner: it happens beside his intention as a result of his turning inordinately to a mutable good, and so it is not schism properly so called.
 
 Reply to Objection 2: The essence of schism consists in rebelliously disobeying the commandments: and I say "rebelliously," since a schismatic both obstinately scorns the commandments of the Church, and refuses to submit to her judgment. But every sinner does not do this, wherefore not every sin is a schism.
 
 Reply to Objection 3: Heresy and schism are distinguished in respect of those things to which each is opposed essentially and directly. For heresy is essentially opposed to faith, while schism is essentially opposed to the unity of ecclesiastical charity. Wherefore just as faith and charity are different virtues, although whoever lacks faith lacks charity, so too schism and heresy are different vices, although whoever is a heretic is also a schismatic, but not conversely. This is what Jerome says in his commentary on the Epistle to the Galatians [*In Ep. ad Tit. iii, 10]: "I consider the difference between schism and heresy to be that heresy holds false doctrine while schism severs a man from the Church." Nevertheless, just as the loss of charity is the road to the loss of faith, according to 1 Tim. 1:6: "From which things," i.e. charity and the like, "some going astray, are turned aside into vain babbling," so too, schism is the road to heresy. Wherefore Jerome adds (In Ep. ad Tit. iii, 10) that "at the outset it is possible, in a certain respect, to find a difference between schism and heresy: yet there is no schism that does not devise some heresy for itself, that it may appear to have had a reason for separating from the Church."
-## Whether Schism Is A Graver Sin Than Unbelief?
+### Whether Schism Is A Graver Sin Than Unbelief?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that schism is a graver sin than unbelief. For the graver sin meets with a graver punishment, according to Dt. 25:2: "According to the measure of the sin shall the measure also of the stripes be." Now we find the sin of schism punished more severely than even the sin of unbelief or idolatry: for we read (Ex. 32:28) that some were slain by the swords of their fellow men on account of idolatry: whereas of the sin of schism we read (Num. 16:30): "If the Lord do a new thing, and the earth opening her mouth swallow them down, and all things that belong to them, and they go down alive into hell, you shall know that they have blasphemed the Lord God." Moreover the ten tribes who were guilty of schism in revolting from the rule of David were most severely punished (4 Kings 17). Therefore the sin of schism is graver than the sin of unbelief.
 
@@ -40,7 +40,7 @@ Objection 2: Further, "The good of the multitude is greater and more godlike tha
 
 Objection 3: Further, a greater good is opposed to a greater evil, according to the Philosopher (Ethic. viii, 10). Now schism is opposed to charity, which is a greater virtue than faith to which unbelief is opposed, as shown above ([2654]Q[10], A[2];[2655] Q[23], A[6]). Therefore schism is a graver sin than unbelief.
 
-### Answer
+**Answer**
 
 On the contrary, That which results from an addition to something else surpasses that thing either in good or in evil. Now heresy results from something being added to schism, for it adds corrupt doctrine, as Jerome declares in the passage quoted above (A[1], ad 3). Therefore schism is a less grievous sin than unbelief.
 
@@ -48,16 +48,16 @@ I answer that, The gravity of a sin can be considered in two ways: first, accord
 
 Now it is evident that unbelief is a sin committed against God Himself, according as He is Himself the First Truth, on which faith is founded; whereas schism is opposed to ecclesiastical unity, which is a participated good, and a lesser good than God Himself. Wherefore it is manifest that the sin of unbelief is generically more grievous than the sin of schism, although it may happen that a particular schismatic sins more grievously than a particular unbeliever, either because his contempt is greater, or because his sin is a source of greater danger, or for some similar reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It had already been declared to that people by the law which they had received that there was one God, and that no other God was to be worshipped by them; and the same had been confirmed among them by many kinds of signs. Consequently there was no need for those who sinned against this faith by falling into idolatry, to be punished in an unwonted manner: it was enough that they should be punished in the usual way. On the other hand, it was not so well known among them that Moses was always to be their ruler, and so it behooved those who rebelled against his authority to be punished in a miraculous and unwonted manner.
 
 Reply to Objection 2: Just as the good of the multitude is greater than the good of a unit in that multitude, so is it less than the extrinsic good to which that multitude is directed, even as the good of a rank in the army is less than the good of the commander-in-chief. In like manner the good of ecclesiastical unity, to which schism is opposed, is less than the good of Divine truth, to which unbelief is opposed.
 
 Reply to Objection 3: Charity has two objects; one is its principal object and is the Divine goodness, the other is its secondary object and is our neighbor's good. Now schism and other sins against our neighbor, are opposed to charity in respect of its secondary good, which is less than the object of faith, for this is God Himself; and so these sins are less grievous than unbelief. On the other hand, hatred of God, which is opposed to charity in respect of its principal object, is not less grievous than unbelief. Nevertheless of all sins committed by man against his neighbor, the sin of schism would seem to be the greatest, because it is opposed to the spiritual good of the multitude.
-## Whether Schismatics Have Any Power?
+### Whether Schismatics Have Any Power?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that schismatics have some power. For Augustine says (Contra Donat. i, 1): "Just as those who come back to the Church after being baptized, are not baptized again, so those who return after being ordained, are not ordained again." Now Order is a kind of power. Therefore schismatics have some power since they retain their Orders.
 
@@ -65,7 +65,7 @@ Objection 2: Further, Augustine says (De Unico Bapt. [*De Bap. contra Donat. vi,
 
 Objection 3: Further, Pope Urban II [*Council of Piacenza, cap. x; cf. Can. Ordinationes, ix, qu. 1] says: "We command that persons consecrated by bishops who were themselves consecrated according to the Catholic rite, but have separated themselves by schism from the Roman Church, should be received mercifully and that their Orders should be acknowledged, when they return to the unity of the Church, provided they be of commendable life and knowledge." But this would not be so, unless spiritual power were retained by schismatics. Therefore schismatics have spiritual power.
 
-### Answer
+**Answer**
 
 On the contrary, Cyprian says in a letter (Ep. lii, quoted vii, qu. 1, can. Novatianus): "He who observes neither unity of spirit nor the concord of peace, and severs himself from the bonds of the Church, and from the fellowship of her priests, cannot have episcopal power or honor."
 
@@ -76,9 +76,9 @@ On the other hand, the power of jurisdiction is that which is conferred by a mer
 Accordingly when it is said that such like persons have no spiritual power, it is to be understood as referring either to the second power, or if it be referred to the first power, not as referring to the essence of the power, but to its lawful use.
 
 This suffices for the Replies to the Objections.
-## Whether It Is Right That Schismatics Should Be Punished With Excommunication?
+### Whether It Is Right That Schismatics Should Be Punished With Excommunication?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that schismatics are not rightly punished with excommunication. For excommunication deprives a man chiefly of a share in the sacraments. But Augustine says (Contra Donat. vi, 5) that "Baptism can be received from a schismatic." Therefore it seems that excommunication is not a fitting punishment for schismatics.
 
@@ -86,13 +86,13 @@ Objection 2: Further, it is the duty of Christ's faithful to lead back those who
 
 Objection 3: Further, a double punishment is not inflicted for one and the same sin, according to Nahum 1:9: "God will not judge the same twice" [*Septuagint version]. Now some receive a temporal punishment for the sin of schism, according to[2659] Q[23], A[5], where it is stated: "Both divine and earthly laws have laid down that those who are severed from the unity of the Church, and disturb her peace, must be punished by the secular power." Therefore they ought not to be punished with excommunication.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Num. 16:26): "Depart from the tents of these wicked men," those, to wit, who had caused the schism, "and touch nothing of theirs, lest you be involved in their sins."
 
 I answer that, According to Wis. 11:11, "By what things a man sinneth, by the same also he should be punished" [Vulg.: 'he is tormented']. Now a schismatic, as shown above [2660](A[1]), commits a twofold sin: first by separating himself from communion with the members of the Church, and in this respect the fitting punishment for schismatics is that they be excommunicated. Secondly, they refuse submission to the head of the Church, wherefore, since they are unwilling to be controlled by the Church's spiritual power, it is just that they should be compelled by the secular power.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is not lawful to receive Baptism from a schismatic, save in a case of necessity, since it is better for a man to quit this life, marked with the sign of Christ, no matter from whom he may receive it, whether from a Jew or a pagan, than deprived of that mark, which is bestowed in Baptism.
 

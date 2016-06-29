@@ -9,9 +9,9 @@ In proper sequence, we must consider charity; and (1) charity itself; (2) the co
 (6) Whether it is the greatest of the virtues?
 (7) Whether any true virtue is possible without it?
 (8) Whether it is the form of the virtues?
-## Whether Charity Is Friendship?
+### Whether Charity Is Friendship?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not friendship. For nothing is so appropriate to friendship as to dwell with one's friend, according to the Philosopher (Ethic. viii, 5). Now charity is of man towards God and the angels, "whose dwelling [Douay: 'conversation'] is not with men" (Dan. 2:11). Therefore charity is not friendship.
 
@@ -19,7 +19,7 @@ Objection 2: Further, there is no friendship without return of love (Ethic. viii
 
 Objection 3: Further, according to the Philosopher (Ethic. viii, 3) there are three kinds of friendship, directed respectively towards the delightful, the useful, or the virtuous. Now charity is not the friendship for the useful or delightful; for Jerome says in his letter to Paulinus which is to be found at the beginning of the Bible: "True friendship cemented by Christ, is where men are drawn together, not by household interests, not by mere bodily presence, not by crafty and cajoling flattery, but by the fear of God, and the study of the Divine Scriptures." No more is it friendship for the virtuous, since by charity we love even sinners, whereas friendship based on the virtuous is only for virtuous men (Ethic. viii). Therefore charity is not friendship.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 15:15): "I will not now call you servants . . . but My friends." Now this was said to them by reason of nothing else than charity. Therefore charity is friendship.
 
@@ -29,16 +29,16 @@ Yet neither does well-wishing suffice for friendship, for a certain mutual love 
 
 Accordingly, since there is a communication between man and God, inasmuch as He communicates His happiness to us, some kind of friendship must needs be based on this same communication, of which it is written (1 Cor. 1:9): "God is faithful: by Whom you are called unto the fellowship of His Son." The love which is based on this communication, is charity: wherefore it is evident that charity is the friendship of man for God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man's life is twofold. There is his outward life in respect of his sensitive and corporeal nature: and with regard to this life there is no communication or fellowship between us and God or the angels. The other is man's spiritual life in respect of his mind, and with regard to this life there is fellowship between us and both God and the angels, imperfectly indeed in this present state of life, wherefore it is written (Phil. 3:20): "Our conversation is in heaven." But this "conversation" will be perfected in heaven, when "His servants shall serve Him, and they shall see His face" (Apoc. 22:3,4). Therefore charity is imperfect here, but will be perfected in heaven.
 
 Reply to Objection 2: Friendship extends to a person in two ways: first in respect of himself, and in this way friendship never extends but to one's friends: secondly, it extends to someone in respect of another, as, when a man has friendship for a certain person, for his sake he loves all belonging to him, be they children, servants, or connected with him in any way. Indeed so much do we love our friends, that for their sake we love all who belong to them, even if they hurt or hate us; so that, in this way, the friendship of charity extends even to our enemies, whom we love out of charity in relation to God, to Whom the friendship of charity is chiefly directed.
 
 Reply to Objection 3: The friendship that is based on the virtuous is directed to none but a virtuous man as the principal person, but for his sake we love those who belong to him, even though they be not virtuous: in this way charity, which above all is friendship based on the virtuous, extends to sinners, whom, out of charity, we love for God's sake.
-## Whether Charity Is Something Created In The Soul?
+### Whether Charity Is Something Created In The Soul?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not something created in the soul. For Augustine says (De Trin. viii, 7): "He that loveth his neighbor, consequently, loveth love itself." Now God is love. Therefore it follows that he loves God in the first place. Again he says (De Trin. xv, 17): "It was said: God is Charity, even as it was said: God is a Spirit." Therefore charity is not something created in the soul, but is God Himself.
 
@@ -46,7 +46,7 @@ Objection 2: Further, God is the life of the soul spiritually just as the soul i
 
 Objection 3: Further, no created thing is of infinite power; on the contrary every creature is vanity. But charity is not vanity, indeed it is opposed to vanity; and it is of infinite power, since it brings the human soul to the infinite good. Therefore charity is not something created in the soul.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. iii, 10): "By charity I mean the movement of the soul towards the enjoyment of God for His own sake." But a movement of the soul is something created in the soul. Therefore charity is something created in the soul.
 
@@ -60,16 +60,16 @@ Likewise, neither can it be said that the Holy Ghost moves the will in such a wa
 
 Now no act is perfectly produced by an active power, unless it be connatural to that power of reason of some form which is the principle of that action. Wherefore God, Who moves all things to their due ends, bestowed on each thing the form whereby it is inclined to the end appointed to it by Him; and in this way He "ordereth all things sweetly" (Wis. 8:1). But it is evident that the act of charity surpasses the nature of the power of the will, so that, therefore, unless some form be superadded to the natural power, inclining it to the act of love, this same act would be less perfect than the natural acts and the acts of the other powers; nor would it be easy and pleasurable to perform. And this is evidently untrue, since no virtue has such a strong inclination to its act as charity has, nor does any virtue perform its act with so great pleasure. Therefore it is most necessary that, for us to perform the act of charity, there should be in us some habitual form superadded to the natural power, inclining that power to the act of charity, and causing it to act with ease and pleasure.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Divine Essence Itself is charity, even as It is wisdom and goodness. Wherefore just as we are said to be good with the goodness which is God, and wise with the wisdom which is God (since the goodness whereby we are formally good is a participation of Divine goodness, and the wisdom whereby we are formally wise, is a share of Divine wisdom), so too, the charity whereby formally we love our neighbor is a participation of Divine charity. For this manner of speaking is common among the Platonists, with whose doctrines Augustine was imbued; and the lack of adverting to this has been to some an occasion of error.
 
 Reply to Objection 2: God is effectively the life both of the soul by charity, and of the body by the soul: but formally charity is the life of the soul, even as the soul is the life of the body. Consequently we may conclude from this that just as the soul is immediately united to the body, so is charity to the soul.
 
 Reply to Objection 3: Charity works formally. Now the efficacy of a form depends on the power of the agent, who instills the form, wherefore it is evident that charity is not vanity. But because it produces an infinite effect, since, by justifying the soul, it unites it to God, this proves the infinity of the Divine power, which is the author of charity.
-## Whether Charity Is A Virtue?
+### Whether Charity Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not a virtue. For charity is a kind of friendship. Now philosophers do not reckon friendship a virtue, as may be gathered from Ethic. viii, 1; nor is it numbered among the virtues whether moral or intellectual. Neither, therefore, is charity a virtue.
 
@@ -77,7 +77,7 @@ Objection 2: Further, "virtue is the ultimate limit of power" (De Coelo et Mundo
 
 Objection 3: Further, every virtue is an accidental habit. But charity is not an accidental habit, since it is a more excellent thing than the soul itself: whereas no accident is more excellent than its subject. Therefore charity is not a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Moribus Eccl. xi): "Charity is a virtue which, when our affections are perfectly ordered, unites us to God, for by it we love Him."
 
@@ -85,16 +85,16 @@ I answer that, Human acts are good according as they are regulated by their due 
 
 Consequently just as moral virtue is defined as being "in accord with right reason," as stated in Ethic. ii, 6, so too, the nature of virtue consists in attaining God, as also stated above with regard to faith, ([2498]Q[4], A[5]) and hope ([2499]Q[17], A[1]). Wherefore, it follows that charity is a virtue, for, since charity attains God, it unites us to God, as evidenced by the authority of Augustine quoted above.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher (Ethic. viii) does not deny that friendship is a virtue, but affirms that it is "either a virtue or with a virtue." For we might say that it is a moral virtue about works done in respect of another person, but under a different aspect from justice. For justice is about works done in respect of another person, under the aspect of the legal due, whereas friendship considers the aspect of a friendly and moral duty, or rather that of a gratuitous favor, as the Philosopher explains (Ethic. viii, 13). Nevertheless it may be admitted that it is not a virtue distinct of itself from the other virtues. For its praiseworthiness and virtuousness are derived merely from its object, in so far, to wit, as it is based on the moral goodness of the virtues. This is evident from the fact that not every friendship is praiseworthy and virtuous, as in the case of friendship based on pleasure or utility. Wherefore friendship for the virtuous is something consequent to virtue rather than a virtue. Moreover there is no comparison with charity since it is not founded principally on the virtue of a man, but on the goodness of God.
 
 Reply to Objection 2: It belongs to the same virtue to love a man and to rejoice about him, since joy results from love, as stated above ([2500]FS, Q[25], A[2]) in the treatise on the passions: wherefore love is reckoned a virtue, rather than joy, which is an effect of love. And when virtue is described as being something ultimate, we mean that it is last, not in the order of effect, but in the order of excess, just as one hundred pounds exceed sixty.
 
 Reply to Objection 3: Every accident is inferior to substance if we consider its being, since substance has being in itself, while an accident has its being in another: but considered as to its species, an accident which results from the principles of its subject is inferior to its subject, even as an effect is inferior to its cause; whereas an accident that results from a participation of some higher nature is superior to its subject, in so far as it is a likeness of that higher nature, even as light is superior to the diaphanous body. In this way charity is superior to the soul, in as much as it is a participation of the Holy Ghost.
-## Whether Charity Is A Special Virtue?
+### Whether Charity Is A Special Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not a special virtue. For Jerome says: "Let me briefly define all virtue as the charity whereby we love God" [*The reference should be to Augustine, Ep. clxvii]: and Augustine says (De Moribus Eccl. xv) [*De Civ. Dei xv, 22] that "virtue is the order of love." Now no special virtue is included in the definition of virtue in general. Therefore charity is not a special virtue.
 
@@ -102,22 +102,22 @@ Objection 2: Further, that which extends to all works of virtue, cannot be a spe
 
 Objection 3: Further, the precepts of the Law refer to acts of virtue. Now Augustine says (De Perfect. Human. Justit. v) that, "Thou shalt love" is "a general commandment," and "Thou shalt not covet," "a general prohibition." Therefore charity is a general virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Nothing general is enumerated together with what is special. But charity is enumerated together with special virtues, viz. hope and faith, according to 1 Cor. 13:13: "And now there remain faith, hope, charity, these three." Therefore charity is a special virtue.
 
 I answer that, Acts and habits are specified by their objects, as shown above ([2501]FS, Q[18], A[2]; [2502]FS, Q[54], A[2]). Now the proper object of love is the good, as stated above ([2503]FS, Q[27], A[1]), so that wherever there is a special aspect of good, there is a special kind of love. But the Divine good, inasmuch as it is the object of happiness, has a special aspect of good, wherefore the love of charity, which is the love of that good, is a special kind of love. Therefore charity is a special virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Charity is included in the definition of every virtue, not as being essentially every virtue, but because every virtue depends on it in a way, as we shall state further on ([2504]AA[7],8). In this way prudence is included in the definition of the moral virtues, as explained in Ethic. ii, vi, from the fact that they depend on prudence.
 
 Reply to Objection 2: The virtue or art which is concerned about the last end, commands the virtues or arts which are concerned about other ends which are secondary, thus the military art commands the art of horse-riding (Ethic. i). Accordingly since charity has for its object the last end of human life, viz. everlasting happiness, it follows that it extends to the acts of a man's whole life, by commanding them, not by eliciting immediately all acts of virtue.
 
 Reply to Objection 3: The precept of love is said to be a general command, because all other precepts are reduced thereto as to their end, according to 1 Tim. 1:5: "The end of the commandment is charity."
-## Whether Charity Is One Virtue?
+### Whether Charity Is One Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not one virtue. For habits are distinct according to their objects. Now there are two objects of charity---God and our neighbor---which are infinitely distant from one another. Therefore charity is not one virtue.
 
@@ -125,7 +125,7 @@ Objection 2: Further, different aspects of the object diversify a habit, even th
 
 Objection 3: Further, charity comprises friendship for our neighbor. But the Philosopher reckons several species of friendship (Ethic. viii, 3,11,12). Therefore charity is not one virtue, but is divided into a number of various species.
 
-### Answer
+**Answer**
 
 On the contrary, Just as God is the object of faith, so is He the object of charity. Now faith is one virtue by reason of the unity of the Divine truth, according to Eph. 4:5: "One faith." Therefore charity also is one virtue by reason of the unity of the Divine goodness.
 
@@ -133,16 +133,16 @@ I answer that, Charity, as stated above [2506](A[1]) is a kind of friendship of 
 
 Now charity cannot be differentiated in either of these ways: for its end is one, namely, the goodness of God; and the fellowship of everlasting happiness, on which this friendship is based, is also one. Hence it follows that charity is simply one virtue, and not divided into several species.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument would hold, if God and our neighbor were equally objects of charity. But this is not true: for God is the principal object of charity, while our neighbor is loved out of charity for God's sake.
 
 Reply to Objection 2: God is loved by charity for His own sake: wherefore charity regards principally but one aspect of lovableness, namely God's goodness, which is His substance, according to Ps. 105:1: "Give glory to the Lord for He is good." Other reasons that inspire us with love for Him, or which make it our duty to love Him, are secondary and result from the first.
 
 Reply to Objection 3: Human friendship of which the Philosopher treats has various ends and various forms of fellowship. This does not apply to charity, as stated above: wherefore the comparison fails.
-## Whether Charity Is The Most Excellent Of The Virtues?
+### Whether Charity Is The Most Excellent Of The Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not the most excellent of the virtues. Because the higher power has the higher virtue even as it has a higher operation. Now the intellect is higher than the will, since it directs the will. Therefore, faith, which is in the intellect, is more excellent than charity which is in the will.
 
@@ -150,7 +150,7 @@ Objection 2: Further, the thing by which another works seems the less excellent 
 
 Objection 3: Further, that which is by way of addition to another seems to be the more perfect of the two. Now hope seems to be something additional to charity: for the object of charity is good, whereas the object of hope is an arduous good. Therefore hope is more excellent than charity.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Cor. 13:13): "The greater of these is charity."
 
@@ -158,16 +158,16 @@ I answer that, Since good, in human acts, depends on their being regulated by th
 
 Now that which is of itself always ranks before that which is by another. But faith and hope attain God indeed in so far as we derive from Him the knowledge of truth or the acquisition of good, whereas charity attains God Himself that it may rest in Him, but not that something may accrue to us from Him. Hence charity is more excellent than faith or hope, and, consequently, than all the other virtues, just as prudence, which by itself attains reason, is more excellent than the other moral virtues, which attain reason in so far as it appoints the mean in human operations or passions.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The operation of the intellect is completed by the thing understood being in the intellectual subject, so that the excellence of the intellectual operation is assessed according to the measure of the intellect. On the other hand, the operation of the will and of every appetitive power is completed in the tendency of the appetite towards a thing as its term, wherefore the excellence of the appetitive operation is gauged according to the thing which is the object of the operation. Now those things which are beneath the soul are more excellent in the soul than they are in themselves, because a thing is contained according to the mode of the container (De Causis xii). On the other hand, things that are above the soul, are more excellent in themselves than they are in the soul. Consequently it is better to know than to love the things that are beneath us; for which reason the Philosopher gave the preference to the intellectual virtues over the moral virtues (Ethic. x, 7,8): whereas the love of the things that are above us, especially of God, ranks before the knowledge of such things. Therefore charity is more excellent than faith.
 
 Reply to Objection 2: Faith works by love, not instrumentally, as a master by his servant, but as by its proper form: hence the argument does not prove.
 
 Reply to Objection 3: The same good is the object of charity and of hope: but charity implies union with that good, whereas hope implies distance therefrom. Hence charity does not regard that good as being arduous, as hope does, since what is already united has not the character of arduous: and this shows that charity is more perfect than hope.
-## Whether Any True Virtue Is Possible Without Charity?
+### Whether Any True Virtue Is Possible Without Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there can be true virtue without charity. For it is proper to virtue to produce a good act. Now those who have not charity, do some good actions, as when they clothe the naked, or feed the hungry and so forth. Therefore true virtue is possible without charity.
 
@@ -175,7 +175,7 @@ Objection 2: Further, charity is not possible without faith, since it comes of "
 
 Objection 3: Further, science and art are virtues, according to Ethic. vi. But they are to be found in sinners who lack charity. Therefore true virtue can be without charity.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 13:3): "If I should distribute all my goods to the poor, and if I should deliver my body to be burned, and have not charity, it profiteth me nothing." And yet true virtue is very profitable, according to Wis. 8:7: "She teacheth temperance, and prudence, and justice, and fortitude, which are such things as men can have nothing more profitable in life." Therefore no true virtue is possible without charity.
 
@@ -183,16 +183,16 @@ I answer that, Virtue is ordered to the good, as stated above ([2508]FS, Q[55] ,
 
 If, however, we take virtue as being ordered to some particular end, then we speak of virtue being where there is no charity, in so far as it is directed to some particular good. But if this particular good is not a true, but an apparent good, it is not a true virtue that is ordered to such a good, but a counterfeit virtue. Even so, as Augustine says (Contra Julian. iv, 3), "the prudence of the miser, whereby he devises various roads to gain, is no true virtue; nor the miser's justice, whereby he scorns the property of another through fear of severe punishment; nor the miser's temperance, whereby he curbs his desire for expensive pleasures; nor the miser's fortitude, whereby as Horace, says, 'he braves the sea, he crosses mountains, he goes through fire, in order to avoid poverty'" (Epis. lib, 1; Ep. i, 45). If, on the other hand, this particular good be a true good, for instance the welfare of the state, or the like, it will indeed be a true virtue, imperfect, however, unless it be referred to the final and perfect good. Accordingly no strictly true virtue is possible without charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The act of one lacking charity may be of two kinds; one is in accordance with his lack of charity, as when he does something that is referred to that whereby he lacks charity. Such an act is always evil: thus Augustine says (Contra Julian. iv, 3) that the actions which an unbeliever performs as an unbeliever, are always sinful, even when he clothes the naked, or does any like thing, and directs it to his unbelief as end.
 
 Reply to Objection 2: Since the end is in practical matters, what the principle is in speculative matters, just as there can be no strictly true science, if a right estimate of the first indemonstrable principle be lacking, so, there can be no strictly true justice, or chastity, without that due ordering to the end, which is effected by charity, however rightly a man may be affected about other matters.
 
 Reply to Objection 3: Science and art of their very nature imply a relation to some particular good, and not to the ultimate good of human life, as do the moral virtues, which make man good simply, as stated above ([2510]FS, Q[56] , A[3]). Hence the comparison fails.
-## Whether Charity Is The Form Of The Virtues?
+### Whether Charity Is The Form Of The Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not the true form of the virtues. Because the form of a thing is either exemplar or essential. Now charity is not the exemplar form of the other virtues, since it would follow that the other virtues are of the same species as charity: nor is it the essential form of the other virtues, since then it would not be distinct from them. Therefore it is in no way the form of the virtues.
 
@@ -200,13 +200,13 @@ Objection 2: Further, charity is compared to the other virtues as their root and
 
 Objection 3: Further, formal, final, and efficient causes do not coincide with one another (Phys. ii, 7). Now charity is called the end and the mother of the virtues. Therefore it should not be called their form.
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose [*Lombard, Sent. iii, D, 23] says that charity is the form of the virtues.
 
 I answer that, In morals the form of an act is taken chiefly from the end. The reason of this is that the principal of moral acts is the will, whose object and form, so to speak, are the end. Now the form of an act always follows from a form of the agent. Consequently, in morals, that which gives an act its order to the end, must needs give the act its form. Now it is evident, in accordance with what has been said [2511](A[7]), that it is charity which directs the acts of all other virtues to the last end, and which, consequently, also gives the form to all other acts of virtue: and it is precisely in this sense that charity is called the form of the virtues, for these are called virtues in relation to "informed" acts.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Charity is called the form of the other virtues not as being their exemplar or their essential form, but rather by way of efficient cause, in so far as it sets the form on all, in the aforesaid manner.
 

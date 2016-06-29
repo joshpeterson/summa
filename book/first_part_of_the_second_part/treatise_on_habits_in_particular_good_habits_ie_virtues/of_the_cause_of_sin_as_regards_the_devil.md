@@ -5,9 +5,9 @@ We must now consider the cause of sin, as regards the devil; and under this head
 (2) Whether the devil induces us to sin, by persuading us inwardly?
 (3) Whether he can make us sin of necessity?
 (4) Whether all sins are due to the devil's suggestion?
-## Whether The Devil Is Directly The Cause Of Man's Sinning?
+### Whether The Devil Is Directly The Cause Of Man's Sinning?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the devil is directly the cause of man's sinning. For sin consists directly in an act of the appetite. Now Augustine says (De Trin. iv, 12) that "the devil inspires his friends with evil desires"; and Bede, commenting on Acts 5:3, says that the devil "draws the mind to evil desires"; and Isidore says (De Summo Bono ii, 41; iii, 5) that the devil "fills men's hearts with secret lusts." Therefore the devil is directly the cause of sin.
 
@@ -15,7 +15,7 @@ Objection 2: Further, Jerome says (Contra Jovin. ii, 2) that "as God is the perf
 
 Objection 3: Further, the Philosopher says in a chapter of the Eudemein Ethics (vii, 18): "There must needs be some extrinsic principle of human counsel." Now human counsel is not only about good things but also about evil things. Therefore, as God moves man to take good counsel, and so is the cause of good, so the devil moves him to take evil counsel, and consequently is directly the cause of sin.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine proves (De Lib. Arb. i, 11) that "nothing else than his own will makes man's mind the slave of his desire." Now man does not become a slave to his desires, except through sin. Therefore the cause of sin cannot be the devil, but man's own will alone.
 
@@ -25,16 +25,16 @@ Now the will, as stated above ([1805]Q[9], AA[3],4,6), can be moved by two thing
 
 As regards the object, a thing may be understood as moving the will in three ways. First, the object itself which is proposed to the will: thus we say that food arouses man's desire to eat. Secondly, he that proposes or offers this object. Thirdly, he that persuades the will that the object proposed has an aspect of good, because he also, in a fashion, offers the will its proper object, which is a real or apparent good of reason. Accordingly, in the first way the sensible things, which approach from without, move a man's will to sin. In the second and third ways, either the devil or a man may incite to sin, either by offering an object of appetite to the senses, or by persuading the reason. But in none of these three ways can anything be the direct cause of sin, because the will is not, of necessity, moved by any object except the last end, as stated above ([1808]Q[10], AA[1],2). Consequently neither the thing offered from without, nor he that proposes it, nor he that persuades, is the sufficient cause of sin. Therefore it follows that the devil is a cause of sin, neither directly nor sufficiently, but only by persuasion, or by proposing the object of appetite.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All these, and other like authorities, if we meet with them, are to be understood as denoting that the devil induces man to affection for a sin, either by suggesting to him, or by offering him objects of appetite.
 
 Reply to Objection 2: This comparison is true in so far as the devil is somewhat the cause of our sins, even as God is in a certain way the cause of our good actions, but does not extend to the mode of causation: for God causes good things in us by moving the will inwardly, whereas the devil cannot move us in this way.
 
 Reply to Objection 3: God is the universal principle of all inward movements of man; but that the human will be determined to an evil counsel, is directly due to the human will, and to the devil as persuading or offering the object of appetite.
-## Whether The Devil Can Induce Man To Sin, By Internal Instigations?
+### Whether The Devil Can Induce Man To Sin, By Internal Instigations?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the devil cannot induce man to sin, by internal instigations. Because the internal movements of the soul are vital functions. Now no vital functions can be exercised except by an intrinsic principle, not even those of the vegetal soul, which are the lowest of vital functions. Therefore the devil cannot instigate man to evil through his internal movements.
 
@@ -42,7 +42,7 @@ Objection 2: Further, all the internal movements arise from the external senses 
 
 Objection 3: Further, the internal acts of the soul are to understand and to imagine. Now the devil can do nothing in connection with either of these, because, as stated in the [1810]FP, Q[111], AA[2],3, ad 2, the devil cannot impress species on the human intellect, nor does it seem possible for him to produce imaginary species, since imaginary forms, being more spiritual, are more excellent than those which are in sensible matter, which, nevertheless, the devil is unable to produce, as is clear from what we have said in the [1811]FP, Q[110], A[2]; [1812]FP, Q[111], AA[2],3, ad 2. Therefore the devil cannot through man's internal movements induce him to sin.
 
-### Answer
+**Answer**
 
 On the contrary, In that case, the devil would never tempt man, unless he appeared visibly; which is evidently false.
 
@@ -52,14 +52,14 @@ The reason of this is, that as stated in the [1815]FP, Q[110], A[3], the corpore
 
 In like manner, the sensitive appetite is incited to certain passions according to certain fixed movements of the heart and the vital spirits: wherefore the devil can cooperate in this also. And through certain passions being aroused in the sensitive appetite, the result is that man more easily perceives the movement or sensible image which is brought in the manner explained, before the apprehensive principle, since, as the Philosopher observes (De Somno et Virgil.: De Insomn. iii, iv), "lovers are moved, by even a slight likeness, to an apprehension of the beloved." It also happens, through the rousing of a passion, that what is put before the imagination, is judged, as being something to be pursued, because, to him who is held by a passion, whatever the passion inclines him to, seems good. In this way the devil induces man inwardly to sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although vital functions are always from an intrinsic principle, yet an extrinsic agent can cooperate with them, even as external heat cooperates with the functions of the vegetal soul, that food may be more easily digested.
 
 Reply to Objection 2: This apparition of imaginary forms is not altogether outside the order of nature, nor is it due to a command alone, but according to local movement, as explained above.
-## Whether The Devil Can Induce Man To Sin Of Necessity?
+### Whether The Devil Can Induce Man To Sin Of Necessity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the devil can induce man to sin of necessity. Because the greater can compel the lesser. Now it is said of the devil (Job 41:24) that "there is no power on earth that can compare with him." Therefore he can compel man to sin, while he dwells on the earth.
 
@@ -67,22 +67,22 @@ Objection 2: Further, man's reason cannot be moved except in respect of things t
 
 Objection 3: Further, Augustine says (De Civ. Dei xix, 4) that "there is some sin when the flesh lusteth against the spirit." Now the devil can cause concupiscence of the flesh, even as other passions, in the way explained above [1817](A[2]). Therefore he can induce man to sin of necessity.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Pet. 5:8): "Your adversary the devil, as a roaring lion, goeth about seeking whom he may devour." Now it would be useless to admonish thus, if it were true that man were under the necessity of succumbing to the devil. Therefore he cannot induce man to sin of necessity.
 
 I answer that, The devil, by his own power, unless he be restrained by God, can compel anyone to do an act which, in its genus, is a sin; but he cannot bring about the necessity of sinning. This is evident from the fact that man does not resist that which moves him to sin, except by his reason; the use of which the devil is able to impede altogether, by moving the imagination and the sensitive appetite; as is the case with one who is possessed. But then, the reason being thus fettered, whatever man may do, it is not imputed to him as a sin. If, however, the reason is not altogether fettered, then, in so far as it is free, it can resist sin, as stated above ([1818]Q[77], A[7]). It is consequently evident that the devil can nowise compel man to sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Not every power that is greater than man, can move man's will; God alone can do this, as stated above ([1819]Q[9], A[6]).
 
 Reply to Objection 2: That which is apprehended by the senses or the imagination does not move the will, of necessity, so long as man has the use of reason; nor does such an apprehension always fetter the reason.
 
 Reply to Objection 3: The lusting of the flesh against the spirit, when the reason actually resists it, is not a sin, but is matter for the exercise of virtue. That reason does not resist, is not in the devil's power; wherefore he cannot bring about the necessity of sinning.
-## Whether All The Sins Of Men Are Due To The Devil's Suggestion?
+### Whether All The Sins Of Men Are Due To The Devil's Suggestion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all the sins of men are due to the devil's suggestion. For Dionysius says (Div. Nom. iv) that the "crowd of demons are the cause of all evils, both to themselves and to others."
 
@@ -90,13 +90,13 @@ Objection 2: Further, whoever sins mortally, becomes the slave of the devil, acc
 
 Objection 3: Further, Gregory says (Moral. iv, 10) the sin of the devil is irreparable, because he sinned at no other's suggestion. Therefore, if any men were to sin of their own free-will and without suggestion from any other, their sin would be irremediable: which is clearly false. Therefore all the sins of men are due to the devil's suggestion.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (De Eccl. Dogm. lxxxii): "Not all our evil thoughts are incited by the devil; sometimes they are due to a movement of the free-will."
 
 I answer that, the devil is the occasional and indirect cause of all our sins, in so far as he induced the first man to sin, by reason of whose sin human nature is so infected, that we are all prone to sin: even as the burning of wood might be imputed to the man who dried the wood so as to make it easily inflammable. He is not, however, the direct cause of all the sins of men, as though each were the result of his suggestion. Origen proves this (Peri Archon iii, 2) from the fact that even if the devil were no more, men would still have the desire for food, sexual pleasures and the like; which desire might be inordinate, unless it were subordinate to reason, a matter that is subject to the free-will.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The crowd of demons are the cause of all our evils, as regards their original cause, as stated.
 

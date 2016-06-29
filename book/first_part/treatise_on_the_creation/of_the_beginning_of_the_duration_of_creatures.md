@@ -4,9 +4,9 @@ Next must be considered the beginning of the duration of creatures, about which 
 (1) Whether creatures always existed?
 (2) Whether that they began to exist in an article of Faith?
 (3) How God is said to have created heaven and earth in the beginning?
-## Whether The Universe Of Creatures Always Existed?
+### Whether The Universe Of Creatures Always Existed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the universe of creatures, called the world, had no beginning, but existed from eternity. For everything which begins to exist, is a possible being before it exists: otherwise it would be impossible for it to exist. If therefore the world began to exist, it was a possible being before it began to exist. But possible being is matter, which is in potentiality to existence, which results from a form, and to non-existence, which results from privation of form. If therefore the world began to exist, matter must have existed before the world. But matter cannot exist without form: while the matter of the world with its form is the world. Therefore the world existed before it began to exist: which is impossible.
 
@@ -26,7 +26,7 @@ Objection 8: Further, God is before the world either in the order of nature only
 
 Objection 9: Further, if there is a sufficient cause, there is an effect; for a cause to which there is no effect is an imperfect cause, requiring something else to make the effect follow. But God is the sufficient cause of the world; being the final cause, by reason of His goodness, the exemplar cause by reason of His wisdom, and the efficient cause, by reason of His power as appears from the above ([396]Q[44], AA[2],3,4). Since therefore God is eternal, the world is also eternal.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Jn. 17:5), "Glorify Me, O Father, with Thyself with the glory which I had before the world was"; and (Prov. 8:22), "The Lord possessed Me in the beginning of His ways, before He made anything from the beginning."
 
@@ -34,7 +34,7 @@ I answer that, Nothing except God can be eternal. And this statement is far from
 
 Nor are Aristotle's reasons (Phys. viii) simply, but relatively, demonstrative---viz. in order to contradict the reasons of some of the ancients who asserted that the world began to exist in some quite impossible manner. This appears in three ways. Firstly, because, both in Phys. viii and in De Coelo i, text 101, he premises some opinions, as those of Anaxagoras, Empedocles and Plato, and brings forward reasons to refute them. Secondly, because wherever he speaks of this subject, he quotes the testimony of the ancients, which is not the way of a demonstrator, but of one persuading of what is probable. Thirdly, because he expressly says (Topic. i, 9), that there are dialectical problems, about which we have nothing to say from reason, as, "whether the world is eternal."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Before the world existed it was possible for the world to be, not, indeed, according to a passive power which is matter, but according to the active power of God; and also, according as a thing is called absolutely possible, not in relation to any power, but from the sole habitude of the terms which are not repugnant to each other; in which sense possible is opposed to impossible, as appears from the Philosopher (Metaph. v, text 17).
 
@@ -53,9 +53,9 @@ Reply to Objection 7: As is stated (Phys. iv, text 99), "before" and "after" bel
 Reply to Objection 8: God is prior to the world by priority of duration. But the word "prior" signifies priority not of time, but of eternity. Or we may say that it signifies the eternity of imaginary time, and not of time really existing; thus, when we say that above heaven there is nothing, the word "above" signifies only an imaginary place, according as it is possible to imagine other dimensions beyond those of the heavenly body.
 
 Reply to Objection 9: As the effect follows from the cause that acts by nature, according to the mode of its form, so likewise it follows from the voluntary agent, according to the form preconceived and determined by the agent, as appears from what was said above ([401]Q[19], A[4]; [402]Q[41], A[2]). Therefore, although God was from eternity the sufficient cause of the world, we should not say that the world was produced by Him, except as preordained by His will---that is, that it should have being after not being, in order more manifestly to declare its author.
-## Whether It Is An Article Of Faith That The World Began?
+### Whether It Is An Article Of Faith That The World Began?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not an article of faith but a demonstrable conclusion that the world began. For everything that is made has a beginning of its duration. But it can be proved demonstratively that God is the effective cause of the world; indeed this is asserted by the more approved philosophers. Therefore it can be demonstratively proved that the world began.
 
@@ -73,13 +73,13 @@ Objection 7: Further, if the world was eternal, generation also was eternal. The
 
 Objection 8: Further, if the world and generation always were, there have been an infinite number of men. But man's soul is immortal: therefore an infinite number of human souls would actually now exist, which is impossible. Therefore it can be known with certainty that the world began, and not only is it known by faith.
 
-### Answer
+**Answer**
 
 On the contrary, The articles of faith cannot be proved demonstratively, because faith is of things "that appear not" (Heb. 11:1). But that God is the Creator of the world: hence that the world began, is an article of faith; for we say, "I believe in one God," etc. And again, Gregory says (Hom. i in Ezech.), that Moses prophesied of the past, saying, "In the beginning God created heaven and earth": in which words the newness of the world is stated. Therefore the newness of the world is known only by revelation; and therefore it cannot be proved demonstratively.
 
 I answer that, By faith alone do we hold, and by no demonstration can it be proved, that the world did not always exist, as was said above of the mystery of the Trinity ([403]Q[32], A[1]). The reason of this is that the newness of the world cannot be demonstrated on the part of the world itself. For the principle of demonstration is the essence of a thing. Now everything according to its species is abstracted from "here" and "now"; whence it is said that universals are everywhere and always. Hence it cannot be demonstrated that man, or heaven, or a stone were not always. Likewise neither can it be demonstrated on the part of the efficient cause, which acts by will. For the will of God cannot be investigated by reason, except as regards those things which God must will of necessity; and what He wills about creatures is not among these, as was said above ([404]Q[19], A[3]). But the divine will can be manifested by revelation, on which faith rests. Hence that the world began to exist is an object of faith, but not of demonstration or science. And it is useful to consider this, lest anyone, presuming to demonstrate what is of faith, should bring forward reasons that are not cogent, so as to give occasion to unbelievers to laugh, thinking that on such grounds we believe things that are of faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (De Civ. Dei xi, 4), the opinion of philosophers who asserted the eternity of the world was twofold. For some said that the substance of the world was not from God, which is an intolerable error; and therefore it is refuted by proofs that are cogent. Some, however, said that the world was eternal, although made by God. For they hold that the world has a beginning, not of time, but of creation, so that in a certain hardly intelligible way it was always made. "And they try to explain their meaning thus (De Civ. Dei x, 31): for as, if the foot were always in the dust from eternity, there would always be a footprint which without doubt was caused by him who trod on it, so also the world always was, because its Maker always existed." To understand this we must consider that the efficient cause, which acts by motion, of necessity precedes its effect in time; because the effect is only in the end of the action, and every agent must be the principle of action. But if the action is instantaneous and not successive, it is not necessary for the maker to be prior to the thing made in duration as appears in the case of illumination. Hence they say that it does not follow necessarily if God is the active cause of the world, that He should be prior to the world in duration; because creation, by which He produced the world, is not a successive change, as was said above ([405]Q[45], A[2]).
 
@@ -96,9 +96,9 @@ Reply to Objection 6: Passage is always understood as being from term to term. W
 Reply to Objection 7: In efficient causes it is impossible to proceed to infinity "per se"---thus, there cannot be an infinite number of causes that are "per se" required for a certain effect; for instance, that a stone be moved by a stick, the stick by the hand, and so on to infinity. But it is not impossible to proceed to infinity "accidentally" as regards efficient causes; for instance, if all the causes thus infinitely multiplied should have the order of only one cause, their multiplication being accidental, as an artificer acts by means of many hammers accidentally, because one after the other may be broken. It is accidental, therefore, that one particular hammer acts after the action of another; and likewise it is accidental to this particular man as generator to be generated by another man; for he generates as a man, and not as the son of another man. For all men generating hold one grade in efficient causes---viz. the grade of a particular generator. Hence it is not impossible for a man to be generated by man to infinity; but such a thing would be impossible if the generation of this man depended upon this man, and on an elementary body, and on the sun, and so on to infinity.
 
 Reply to Objection 8: Those who hold the eternity of the world evade this reason in many ways. For some do not think it impossible for there to be an actual infinity of souls, as appears from the Metaphysics of Algazel, who says that such a thing is an accidental infinity. But this was disproved above ([407]Q[7], A[4]). Some say that the soul is corrupted with the body. And some say that of all souls only one will remain. But others, as Augustine says [*Serm. xiv, De Temp. 4,5; De Haeres., haeres. 46; De Civ. Dei xii. 13], asserted on this account a circuit of souls---viz. that souls separated from their bodies return again thither after a course of time; a fuller consideration of which matters will be given later ([408]Q[75], A[2]; Q[118], A[6]). But be it noted that this argument considers only a particular case. Hence one might say that the world was eternal, or least some creature, as an angel, but not man. But we are considering the question in general, as to whether any creature can exist from eternity.
-## Whether The Creation Of Things Was In The Beginning Of Time?
+### Whether The Creation Of Things Was In The Beginning Of Time?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the creation of things was not in the beginning of time. For whatever is not in time, is not of any part of time. But the creation of things was not in time; for by the creation the substance of things was brought into being; and time does not measure the substance of things, and especially of incorporeal things. Therefore creation was not in the beginning of time.
 
@@ -106,13 +106,13 @@ Objection 2: Further, the Philosopher proves (Phys. vi, text 40) that everything
 
 Objection 3: Further, even time itself is created. But time cannot be created in the beginning of time, since time is divisible, and the beginning of time is indivisible. Therefore, the creation of things was not in the beginning of time.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Gn. 1:1): "In the beginning God created heaven and earth."
 
 I answer that, The words of Genesis, "In the beginning God created heaven and earth," are expounded in a threefold sense in order to exclude three errors. For some said that the world always was, and that time had no beginning; and to exclude this the words "In the beginning" are expounded---viz. "of time." And some said that there are two principles of creation, one of good things and the other of evil things, against which "In the beginning" is expounded---"in the Son." For as the efficient principle is appropriated to the Father by reason of power, so the exemplar principle is appropriated to the Son by reason of wisdom, in order that, as it is said (Ps. 103:24), "Thou hast made all things in wisdom," it may be understood that God made all things in the beginning---that is, in the Son; according to the word of the Apostle (Col. 1:16), "In Him"---viz. the Son---"were created all things." But others said that corporeal things were created by God through the medium of spiritual creation; and to exclude this it is expounded thus: "In the beginning"---i.e. before all things---"God created heaven and earth." For four things are stated to be created together---viz. the empyrean heaven, corporeal matter, by which is meant the earth, time, and the angelic nature.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Things are said to be created in the beginning of time, not as if the beginning of time were a measure of creation, but because together with time heaven and earth were created.
 

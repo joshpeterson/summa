@@ -5,9 +5,9 @@ We next consider the mastership which belonged to man in the state of innocence.
 (2) Whether he was master over all creatures?
 (3) Whether in the state of innocence all men were equal?
 (4) Whether in that state man would have been master over men?
-## Whether Adam In The State Of Innocence Had Mastership Over The Animals?
+### Whether Adam In The State Of Innocence Had Mastership Over The Animals?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence Adam had no mastership over the animals. For Augustine says (Gen. ad lit. ix, 14), that the animals were brought to Adam, under the direction of the angels, to receive their names from him. But the angels need not have intervened thus, if man himself were master over the animals. Therefore in the state of innocence man had no mastership of the animals.
 
@@ -17,13 +17,13 @@ Objection 3: Further, Jerome says [*The words quoted are not in St. Jerome's wor
 
 Objection 4: Further, it is proper to a master to command. But a command is not given rightly save to a rational being. Therefore man had no mastership over the irrational animals.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gn. 1:26): "Let him have dominion over the fishes of the sea, and the birds of the air, and the beasts of the earth" [Vulg."and the whole earth"].
 
 I answer that, As above stated ([800]Q[95], A[1]) for his disobedience to God, man was punished by the disobedience of those creatures which should be subject to him. Therefore in the state of innocence, before man had disobeyed, nothing disobeyed him that was naturally subject to him. Now all animals are naturally subject to man. This can be proved in three ways. First, from the order observed by nature; for just as in the generation of things we perceive a certain order of procession of the perfect from the imperfect (thus matter is for the sake of form; and the imperfect form, for the sake of the perfect), so also is there order in the use of natural things; thus the imperfect are for the use of the perfect; as the plants make use of the earth for their nourishment, and animals make use of plants, and man makes use of both plants and animals. Therefore it is in keeping with the order of nature, that man should be master over animals. Hence the Philosopher says (Polit. i, 5) that the hunting of wild animals is just and natural, because man thereby exercises a natural right. Secondly, this is proved by the order of Divine Providence which always governs inferior things by the superior. Wherefore, as man, being made to the image of God, is above other animals, these are rightly subject to his government. Thirdly, this is proved from a property of man and of other animals. For we see in the latter a certain participated prudence of natural instinct, in regard to certain particular acts; whereas man possesses a universal prudence as regards all practical matters. Now whatever is participated is subject to what is essential and universal. Therefore the subjection of other animals to man is proved to be natural.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A higher power can do many things that an inferior power cannot do to those which are subject to them. Now an angel is naturally higher than man. Therefore certain things in regard to animals could be done by angels, which could not be done by man; for instance, the rapid gathering together of all the animals.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: In the opinion of some, those animals which now are fierce
 Reply to Objection 3: In the state of innocence man would not have had any bodily need of animals---neither for clothing, since then they were naked and not ashamed, there being no inordinate motions of concupiscence---nor for food, since they fed on the trees of paradise---nor to carry him about, his body being strong enough for that purpose. But man needed animals in order to have experimental knowledge of their natures. This is signified by the fact that God led the animals to man, that he might give them names expressive of their respective natures.
 
 Reply to Objection 4: All animals by their natural instinct have a certain participation of prudence and reason: which accounts for the fact that cranes follow their leader, and bees obey their queen. So all animals would have obeyed man of their own accord, as in the present state some domestic animals obey him.
-## Whether Man Had Mastership Over All Other Creatures?
+### Whether Man Had Mastership Over All Other Creatures?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence man would not have had mastership over all other creatures. For an angel naturally has a greater power than man. But, as Augustine says (De Trin. iii, 8), "corporeal matter would not have obeyed even the holy angels." Much less therefore would it have obeyed man in the state of innocence.
 
@@ -42,16 +42,16 @@ Objection 2: Further, the only powers of the soul existing in plants are nutriti
 
 Objection 3: Further, whosoever is master of a thing, can change it. But man could not have changed the course of the heavenly bodies; for this belongs to God alone, as Dionysius says (Ep. ad Polycarp. vii). Therefore man had no dominion over them.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gn. 1:26): "That he may have dominion over . . . every creature."
 
 I answer that, Man in a certain sense contains all things; and so according as he is master of what is within himself, in the same way he can have mastership over other things. Now we may consider four things in man: his "reason," which makes him like to the angels'; his "sensitive powers," whereby he is like the animals; his "natural forces," which liken him to the plants; and "the body itself," wherein he is like to inanimate things. Now in man reason has the position of a master and not of a subject. Wherefore man had no mastership over the angels in the primitive state; so when we read "all creatures," we must understand the creatures which are not made to God's image. Over the sensitive powers, as the irascible and concupiscible, which obey reason in some degree, the soul has mastership by commanding. So in the state of innocence man had mastership over the animals by commanding them. But of the natural powers and the body itself man is master not by commanding, but by using them. Thus also in the state of innocence man's mastership over plants and inanimate things consisted not in commanding or in changing them, but in making use of them without hindrance.
 
 The answers to the objections appear from the above.
-## Whether Men Were Equal In The State Of Innocence?
+### Whether Men Were Equal In The State Of Innocence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence all would have been equal. For Gregory says (Moral. xxi): "Where there is no sin, there is no inequality." But in the state of innocence there was no sin. Therefore all were equal.
 
@@ -59,7 +59,7 @@ Objection 2: Further, likeness and equality are the basis of mutual love, accord
 
 Objection 3: Further, the cause ceasing, the effect also ceases. But the cause of present inequality among men seems to arise, on the part of God, from the fact that He rewards some and punishes others; and on the part of nature, from the fact that some, through a defect of nature, are born weak and deficient, others strong and perfect, which would not have been the case in the primitive state. Therefore, etc.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Rom. 13:1): "The things which are of God, are well ordered" [Vulg."Those that are, are ordained of God"]. But order chiefly consists in inequality; for Augustine says (De Civ. Dei xix, 13): "Order disposes things equal and unequal in their proper place." Therefore in the primitive state, which was most proper and orderly, inequality would have existed.
 
@@ -71,16 +71,16 @@ There might also have been bodily disparity. For the human body was not entirely
 
 So we may say that, according to the climate, or the movement of the stars, some would have been born more robust in body than others, and also greater, and more beautiful, and all ways better disposed; so that, however, in those who were thus surpassed, there would have been no defect or fault either in soul or body.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: By those words Gregory means to exclude such inequality as exists between virtue and vice; the result of which is that some are placed in subjection to others as a penalty.
 
 Reply to Objection 2: Equality is the cause of equality in mutual love. Yet between those who are unequal there can be a greater love than between equals; although there be not an equal response: for a father naturally loves his son more than a brother loves his brother; although the son does not love his father as much as he is loved by him.
 
 Reply to Objection 3: The cause of inequality could be on the part of God; not indeed that He would punish some and reward others, but that He would exalt some above others; so that the beauty of order would the more shine forth among men. Inequality might also arise on the part of nature as above described, without any defect of nature.
-## Whether In The State Of Innocence Man Would Have Been Master Over Man?
+### Whether In The State Of Innocence Man Would Have Been Master Over Man?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence man would not have been master over man. For Augustine says (De Civ. Dei xix, 15): "God willed that man, who was endowed with reason and made to His image, should rule over none but irrational creatures; not over men, but over cattle."
 
@@ -88,7 +88,7 @@ Objection 2: Further, what came into the world as a penalty for sin would not ha
 
 Objection 3: Further, subjection is opposed to liberty. But liberty is one of the chief blessings, and would not have been lacking in the state of innocence, "where nothing was wanting that man's good-will could desire," as Augustine says (De Civ. Dei xiv, 10). Therefore man would not have been master over man in the state of innocence.
 
-### Answer
+**Answer**
 
 On the contrary, The condition of man in the state of innocence was not more exalted than the condition of the angels. But among the angels some rule over others; and so one order is called that of "Dominations." Therefore it was not beneath the dignity of the state of innocence that one man should be subject to another.
 

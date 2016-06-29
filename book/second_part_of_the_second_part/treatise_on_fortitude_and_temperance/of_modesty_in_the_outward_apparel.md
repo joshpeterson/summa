@@ -3,9 +3,9 @@
 We must now consider modesty as connected with the outward apparel, and under this head there are two points of inquiry:
 (1) Whether there can be virtue and vice in connection with outward apparel?
 (2) Whether women sin mortally by excessive adornment?
-## Whether There Can Be Virtue And Vice In Connection With Outward Apparel?
+### Whether There Can Be Virtue And Vice In Connection With Outward Apparel?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there cannot be virtue and vice in connection with outward apparel. For outward adornment does not belong to us by nature, wherefore it varies according to different times and places. Hence Augustine says (De Doctr. Christ. iii, 12) that "among the ancient Romans it was scandalous for one to wear a cloak with sleeves and reaching to the ankles, whereas now it is scandalous for anyone hailing from a reputable place to be without them." Now according to the Philosopher (Ethic. ii, 1) there is in us a natural aptitude for the virtues. Therefore there is no virtue or vice about such things.
 
@@ -13,7 +13,7 @@ Objection 2: Further, if there were virtue and vice in connection with outward a
 
 Objection 3: Further, every virtue is either theological, or moral, or intellectual. Now an intellectual virtue is not conversant with matter of this kind, since it is a perfection regarding the knowledge of truth. Nor is there a theological virtue connected therewith, since that has God for its object; nor are any of the moral virtues enumerated by the Philosopher (Ethic. ii, 7), connected with it. Therefore it seems that there cannot be virtue and vice in connection with this kind of attire.
 
-### Answer
+**Answer**
 
 On the contrary, Honesty [*Cf. Q[145]] pertains to virtue. Now a certain honesty is observed in the outward apparel; for Ambrose says (De Offic. i, 19): "The body should be bedecked naturally and without affectation, with simplicity, with negligence rather than nicety, not with costly and dazzling apparel, but with ordinary clothes, so that nothing be lacking to honesty and necessity, yet nothing be added to increase its beauty." Therefore there can be virtue and vice in the outward attire.
 
@@ -25,16 +25,16 @@ Accordingly Andronicus [*De Affectibus] reckons three virtues in connection with
 
 In the point of deficiency there may be inordinate attachment in two ways. First, through a man's neglect to give the requisite study or trouble to the use of outward apparel. Wherefore the Philosopher says (Ethic. vii, 7) that "it is a mark of effeminacy to let one's cloak trail on the ground to avoid the trouble of lifting it up." Secondly, by seeking glory from the very lack of attention to outward attire. Hence Augustine says (De Serm. Dom. in Monte ii, 12) that "not only the glare and pomp of outward things, but even dirt and the weeds of mourning may be a subject of ostentation, all the more dangerous as being a decoy under the guise of God's service"; and the Philosopher says (Ethic. iv, 7) that "both excess and inordinate defect are a subject of ostentation."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although outward attire does not come from nature, it belongs to natural reason to moderate it; so that we are naturally inclined to be the recipients of the virtue that moderates outward raiment.
 
 Reply to Objection 2: Those who are placed in a position of dignity, or again the ministers of the altar, are attired in more costly apparel than others, not for the sake of their own glory, but to indicate the excellence of their office or of the Divine worship: wherefore this is not sinful in them. Hence Augustine says (De Doctr. Christ. iii, 12): "Whoever uses outward things in such a way as to exceed the bounds observed by the good people among whom he dwells, either signifies something by so doing, or is guilty of sin, inasmuch as he uses these things for sensual pleasure or ostentation."
 
 Reply to Objection 3: This outward apparel is an indication of man's estate; wherefore excess, deficiency, and mean therein, are referable to the virtue of truthfulness, which the Philosopher (Ethic. ii, 7) assigns to deeds and words, which are indications of something connected with man's estate.
-## Whether The Adornment Of Women Is Devoid Of Mortal Sin?
+### Whether The Adornment Of Women Is Devoid Of Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the adornment of women is not devoid of mortal sin. For whatever is contrary to a precept of the Divine law is a mortal sin. Now the adornment of women is contrary to a precept of the Divine law; for it is written (1 Pet. 3:3): "Whose," namely women's, "adorning, let it not be the outward plaiting of the hair, or the wearing of gold, or the putting on of apparel." Wherefore a gloss of Cyprian says: "Those who are clothed in silk and purple cannot sincerely put on Christ: those who are bedecked with gold and pearls and trinkets have forfeited the adornments of mind and body." Now this is not done without a mortal sin. Therefore the adornment of women cannot be devoid of mortal sin.
 
@@ -44,7 +44,7 @@ Objection 3: Further, just as it is unbecoming for a woman to wear man's clothes
 
 Objection 4: On the contrary, If this were true it would seem that the makers of these means of adornment sin mortally.
 
-### Answer
+**Answer**
 
 
 
@@ -54,7 +54,7 @@ Nevertheless a woman may use means to please her husband, lest through despising
 
 But those women who have no husband nor wish to have one, or who are in a state of life inconsistent with marriage, cannot without sin desire to give lustful pleasure to those men who see them, because this is to incite them to sin. And if indeed they adorn themselves with this intention of provoking others to lust, they sin mortally; whereas if they do so from frivolity, or from vanity for the sake of ostentation, it is not always mortal, but sometimes venial. And the same applies to men in this respect. Hence Augustine says (Ep. ccxlv ad Possid.): "I do not wish you to be hasty in forbidding the wearing of gold or costly attire except in the case of those who being neither married nor wishful to marry, should think how they may please God: whereas the others think on the things of the world, either husbands how they may please their wives, or wives how they may please their husbands, except that it is unbecoming for women though married to uncover their hair, since the Apostle commands them to cover the head." Yet in this case some might be excused from sin, when they do this not through vanity but on account of some contrary custom: although such a custom is not to be commended.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As a gloss says on this passage, "The wives of those who were in distress despised their husbands, and decked themselves that they might please other men": and the Apostle forbids this. Cyprian is speaking in the same sense; yet he does not forbid married women to adorn themselves in order to please their husbands, lest the latter be afforded an occasion of sin with other women. Hence the Apostle says (1 Tim. 2:9): "Women . . . in ornate [Douay: 'decent'] apparel, adorning themselves with modesty and sobriety, not with plaited hair, or gold, or pearls, or costly attire": whence we are given to understand that women are not forbidden to adorn themselves soberly and moderately but to do so excessively, shamelessly, and immodestly.
 

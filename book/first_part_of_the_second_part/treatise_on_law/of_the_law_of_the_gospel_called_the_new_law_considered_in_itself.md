@@ -5,9 +5,9 @@ In proper sequence we have to consider now the Law of the Gospel which is called
 (2) Of its efficacy, i.e. does it justify?
 (3) Of its beginning: should it have been given at the beginning of the world?
 (4) Of its end: i.e. whether it will last until the end, or will another law take its place?
-## Whether The New Law Is A Written Law?
+### Whether The New Law Is A Written Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the New Law is a written law. For the New Law is just the same as the Gospel. But the Gospel is set forth in writing, according to Jn. 20:31: "But these are written that you may believe." Therefore the New Law is a written law.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the law that is instilled in the heart is the natural law,
 
 Objection 3: Further, the law of the Gospel is proper to those who are in the state of the New Testament. But the law that is instilled in the heart is common to those who are in the New Testament and to those who are in the Old Testament: for it is written (Wis. 7:27) that Divine Wisdom "through nations conveyeth herself into holy souls, she maketh the friends of God and prophets." Therefore the New Law is not instilled in our hearts.
 
-### Answer
+**Answer**
 
 On the contrary, The New Law is the law of the New Testament. But the law of the New Testament is instilled in our hearts. For the Apostle, quoting the authority ofJeremiah 31:31, 33: "Behold the days shall come, saith the Lord; and I will perfect unto the house of Israel, and unto the house of Judah, a new testament," says, explaining what this statement is (Heb. 8:8, 10): "For this is the testament which I will make to the house of Israel . . . by giving [Vulg.: 'I will give'] My laws into their mind, and in their heart will I write them." Therefore the New Law is instilled in our hearts.
 
@@ -23,16 +23,16 @@ I answer that, "Each thing appears to be that which preponderates in it," as the
 
 Nevertheless the New Law contains certain things that dispose us to receive the grace of the Holy Ghost, and pertaining to the use of that grace: such things are of secondary importance, so to speak, in the New Law; and the faithful need to be instructed concerning them, both by word and writing, both as to what they should believe and as to what they should do. Consequently we must say that the New Law is in the first place a law that is inscribed on our hearts, but that secondarily it is a written law.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Gospel writings contain only such things as pertain to the grace of the Holy Ghost, either by disposing us thereto, or by directing us to the use thereof. Thus with regard to the intellect, the Gospel contains certain matters pertaining to the manifestation of Christ's Godhead or humanity, which dispose us by means of faith through which we receive the grace of the Holy Ghost: and with regard to the affections, it contains matters touching the contempt of the world, whereby man is rendered fit to receive the grace of the Holy Ghost: for "the world," i.e. worldly men, "cannot receive" the Holy Ghost (Jn. 14:17). As to the use of spiritual grace, this consists in works of virtue to which the writings of the New Testament exhort men in divers ways.
 
 Reply to Objection 2: There are two ways in which a thing may be instilled into man. First, through being part of his nature, and thus the natural law is instilled into man. Secondly, a thing is instilled into man by being, as it were, added on to his nature by a gift of grace. In this way the New Law is instilled into man, not only by indicating to him what he should do, but also by helping him to accomplish it.
 
 Reply to Objection 3: No man ever had the grace of the Holy Ghost except through faith in Christ either explicit or implicit: and by faith in Christ man belongs to the New Testament. Consequently whoever had the law of grace instilled into them belonged to the New Testament.
-## Whether The New Law Justifies?
+### Whether The New Law Justifies?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the New Law does not justify. For no man is justified unless he obeys God's law, according to Heb. 5:9: "He," i.e. Christ, "became to all that obey Him the cause of eternal salvation." But the Gospel does not always cause men to believe in it: for it is written (Rom. 10:16): "All do not obey the Gospel." Therefore the New Law does not justify.
 
@@ -40,22 +40,22 @@ Objection 2: Further, the Apostle proves in his epistle to the Romans that the O
 
 Objection 3: Further, justification is an effect proper to God, according to Rom. 8:33: "God that justifieth." But the Old Law was from God just as the New Law. Therefore the New Law does not justify any more than the Old Law.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 1:16): "I am not ashamed of the Gospel: for it is in the power of God unto salvation to everyone that believeth." But there is no salvation but to those who are justified. Therefore the Law of the Gospel justifies.
 
 I answer that, As stated above [2138](A[1]), there is a twofold element in the Law of the Gospel. There is the chief element, viz. the grace of the Holy Ghost bestowed inwardly. And as to this, the New Law justifies. Hence Augustine says (De Spir. et Lit. xvii): "There," i.e. in the Old Testament, "the Law was set forth in an outward fashion, that the ungodly might be afraid"; "here," i.e. in the New Testament, "it is given in an inward manner, that they may be justified." The other element of the Evangelical Law is secondary: namely, the teachings of faith, and those commandments which direct human affections and human actions. And as to this, the New Law does not justify. Hence the Apostle says (2 Cor. 3:6) "The letter killeth, but the spirit quickeneth": and Augustine explains this (De Spir. et Lit. xiv, xvii) by saying that the letter denotes any writing external to man, even that of the moral precepts such as are contained in the Gospel. Wherefore the letter, even of the Gospel would kill, unless there were the inward presence of the healing grace of faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument holds true of the New Law, not as to its principal, but as to its secondary element: i.e. as to the dogmas and precepts outwardly put before man either in words or in writing.
 
 Reply to Objection 2: Although the grace of the New Testament helps man to avoid sin, yet it does not so confirm man in good that he cannot sin: for this belongs to the state of glory. Hence if a man sin after receiving the grace of the New Testament, he deserves greater punishment, as being ungrateful for greater benefits, and as not using the help given to him. And this is why the New Law is not said to "work wrath": because as far as it is concerned it gives man sufficient help to avoid sin.
 
 Reply to Objection 3: The same God gave both the New and the Old Law, but in different ways. For He gave the Old Law written on tables of stone: whereas He gave the New Law written "in the fleshly tables of the heart," as the Apostle expresses it (2 Cor. 3:3). Wherefore, as Augustine says (De Spir. et Lit. xviii), "the Apostle calls this letter which is written outside man, a ministration of death and a ministration of condemnation: whereas he calls the other letter, i.e. the Law of the New Testament, the ministration of the spirit and the ministration of justice: because through the gift of the Spirit we work justice, and are delivered from the condemnation due to transgression."
-## Whether The New Law Should Have Been Given From The Beginning Of The World?
+### Whether The New Law Should Have Been Given From The Beginning Of The World?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the New Law should have been given from the beginning of the world. "For there is no respect of persons with God" (Rom. 2:11). But "all" men "have sinned and do need the glory of God" (Rom. 3:23). Therefore the Law of the Gospel should have been given from the beginning of the world, in order that it might bring succor to all.
 
@@ -63,7 +63,7 @@ Objection 2: Further, as men dwell in various places, so do they live in various
 
 Objection 3: Further, man needs to save his soul, which is for all eternity, more than to save his body, which is a temporal matter. But God provided man from the beginning of the world with things that are necessary for the health of his body, by subjecting to his power whatever was created for the sake of man (Gn. 1:26-29). Therefore the New Law also, which is very necessary for the health of the soul, should have been given to man from the beginning of the world.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 15:46): "That was not first which is spiritual, but that which is natural." But the New Law is highly spiritual. Therefore it was not fitting for it to be given from the beginning of the world.
 
@@ -73,16 +73,16 @@ A second reason may be taken from the perfection of the New Law. Because a thing
 
 The third reason is found in the fact that the New Law is the law of grace: wherefore it behoved man first of all to be left to himself under the state of the Old Law, so that through falling into sin, he might realize his weakness, and acknowledge his need of grace. This reason is set down by the Apostle (Rom. 5:20): "The Law entered in, that sin might abound: and when sin abounded grace did more abound."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Mankind on account of the sin of our first parents deserved to be deprived of the aid of grace: and so "from whom it is withheld it is justly withheld, and to whom it is given, it is mercifully given," as Augustine states (De Perfect. Justit. iv) [*Cf. Ep. ccvii; De Pecc. Mer. et Rem. ii, 19]. Consequently it does not follow that there is respect of persons with God, from the fact that He did not offer the Law of grace to all from the beginning of the world, which Law was to be published in due course of time, as stated above.
 
 Reply to Objection 2: The state of mankind does not vary according to diversity of place, but according to succession of time. Hence the New Law avails for all places, but not for all times: although at all times there have been some persons belonging to the New Testament, as stated above (A[1], ad 3).
 
 Reply to Objection 3: Things pertaining to the health of the body are of service to man as regards his nature, which sin does not destroy: whereas things pertaining to the health of the soul are ordained to grace, which is forfeit through sin. Consequently the comparison will not hold.
-## Whether The New Law Will Last Till The End Of The World?
+### Whether The New Law Will Last Till The End Of The World?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the New Law will not last until the end of the world. Because, as the Apostle says (1 Cor. 13:10), "when that which is perfect is come, that which is in part shall be done away." But the New Law is "in part," since the Apostle says (1 Cor. 13:9): "We know in part and we prophesy in part." Therefore the New Law is to be done away, and will be succeeded by a more perfect state.
 
@@ -92,7 +92,7 @@ Objection 3: Further, just as the Father is distinct from the Son and the Son fr
 
 Objection 4: Further, Our Lord said (Mat. 24:14): "This Gospel of the kingdom shall be preached in the whole world . . . and then shall the consummation come." But the Gospel of Christ is already preached throughout the whole world: and yet the consummation has not yet come. Therefore the Gospel of Christ is not the Gospel of the kingdom, but another Gospel, that of the Holy Ghost, is to come yet, like unto another Law.
 
-### Answer
+**Answer**
 
 On the contrary, Our Lord said (Mat. 24:34): "I say to you that this generation shall not pass till all (these) things be done": which passage Chrysostom (Hom. lxxvii) explains as referring to "the generation of those that believe in Christ." Therefore the state of those who believe in Christ will last until the consummation of the world.
 
@@ -100,7 +100,7 @@ I answer that, The state of the world may change in two ways. In one way, accord
 
 In another way the state of mankind may change according as man stands in relation to one and the same law more or less perfectly. And thus the state of the Old Law underwent frequent changes, since at times the laws were very well kept, and at other times were altogether unheeded. Thus, too, the state of the New Law is subject to change with regard to various places, times, and persons, according as the grace of the Holy Ghost dwells in man more or less perfectly. Nevertheless we are not to look forward to a state wherein man is to possess the grace of the Holy Ghost more perfectly than he has possessed it hitherto, especially the apostles who "received the firstfruits of the Spirit, i.e. sooner and more abundantly than others," as a gloss expounds on Rom. 8:23.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Dionysius says (Eccl. Hier. v), there is a threefold state of mankind; the first was under the Old Law; the second is that of the New Law; the third will take place not in this life, but in heaven. But as the first state is figurative and imperfect in comparison with the state of the Gospel; so is the present state figurative and imperfect in comparison with the heavenly state, with the advent of which the present state will be done away as expressed in that very passage (1 Cor. 13:12): "We see now through a glass in a dark manner; but then face to face."
 

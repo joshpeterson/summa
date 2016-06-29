@@ -3,9 +3,9 @@
 We must now consider wife-murder, under which head there are two points of inquiry:
 (1) Whether in a certain case it is lawful to kill one's wife?
 (2) Whether wife-murder is an impediment to marriage?
-## Whether It Is Lawful For A Man To Kill His Wife If She Be Discovered In The Act Of Adultery?
+### Whether It Is Lawful For A Man To Kill His Wife If She Be Discovered In The Act Of Adultery?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem lawful for a man to kill his wife if she be discovered in the act of adultery. For the Divine law commanded adulterous wives to be stoned. Now it is not a sin to fulfill the Divine law. Neither therefore is it a sin to kill one's own wife if she be an adulteress.
 
@@ -15,13 +15,13 @@ Objection 3: Further, the husband has greater power over his adulterous wife tha
 
 Objection 4: Further, the husband is bound to correct his wife. But correction is given by inflicting a just punishment. Since then the just punishment of adultery is death, because it is a capital sin, it would seem lawful for a husband to kill his adulterous wife.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated in the text (Sent. iv, D, 37) that "the Church of God is never bound by the laws of this world, for she has none but a spiritual sword." Therefore it would seem that he who wishes to belong to the Church cannot rightly take advantage of the law which permits a man to kill his wife.
 
 I answer that, It happens in two ways that a husband kills his wife. First, by a civil judgment; and thus there is no doubt that a husband, moved by zeal for justice and not by vindictive anger or hatred can, without sin, bring a criminal accusation of adultery upon his wife before a secular court, and demand that she receive capital punishment as appointed by the law; just as it is lawful to accuse a person of murder or any other crime. Such an accusation however cannot be made in an ecclesiastical court, because, as stated in the text (Sent. iv, D, 37), the Church does not wield a material sword. Secondly, a husband can kill his wife himself without her being convicted in court, and thus to kill her outside of the act of adultery is not lawful, neither according to civil law nor according to the law of conscience, whatever evidence he may have of her adultery. The civil law however considers it, as though it were lawful, that he should kill her in the very act, not by commanding him to do so, but by not inflicting on him the punishment for murder, on account of the very great provocation which the husband receives by such a deed to kill his wife. But the Church is not bound in this matter by human laws, neither does she acquit him of the debt of eternal punishment, nor of such punishment as may be awarded him by an ecclesiastical tribunal for the reason that he is quit of any punishment to be inflicted by a secular court. Therefore in no case is it lawful for a husband to kill his wife on his own authority.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The law has committed the infliction of this punishment not to private individuals, but to public persons, who are deputed to this by their office. Now the husband is not his wife's judge: wherefore he may not kill her, but may accuse her in the judge's presence.
 
@@ -30,9 +30,9 @@ Reply to Objection 2: The civil law has not commissioned the husband to kill his
 Reply to Objection 3: This does not prove that it is lawful simply, but that it is lawful as regards immunity from a particular kind of punishment, since excommunication is also a kind of punishment.
 
 Reply to Objection 4: There are two kinds of community: the household, such as a family; and the civil community, such as a city or kingdom. Accordingly, he who presides over the latter kind of community, a king for instance, can punish an individual both by correcting and by exterminating him, for the betterment of the community with whose care he is charged. But he who presides over a community of the first kind, can inflict only corrective punishment, which does not extend beyond the limits of amendment, and these are exceeded by the punishment of death. Wherefore the husband who exercises this kind of control over his wife may not kill her, but he may accuse or chastise her in some other way.
-## Whether Wife-murder Is An Impediment To Marriage?
+### Whether Wife-murder Is An Impediment To Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that wife-murder is not an impediment to marriage. For adultery is more directly opposed to marriage than murder is. Now adultery is not an impediment to marriage. Neither therefore is wife-murder.
 
@@ -42,13 +42,13 @@ Objection 3: Further, it is a greater sin for a man to kill another man's wife o
 
 Objection 4: Further, if the cause be removed, the effect is removed. But the sin of murder can be removed by repentance. Therefore the consequent impediment to marriage can be removed also: and consequently it would seem that after he has done penance he is not forbidden to marry.
 
-### Answer
+**Answer**
 
 On the contrary, A canon (caus. xxxiii, qu. ii, can. Interfectores) says: "The slayers of their own wives must be brought back to penance, and they are absolutely forbidden to marry." Further, in whatsoever a man sins, in that same must he be punished. But he who kills his wife sins against marriage. Therefore he must be punished by being deprived of marriage.
 
 I answer that, By the Church's decree wife-murder is an impediment to marriage. Sometimes however it forbids the contracting of marriage without voiding the contract, when to wit the husband kills his wife on account of adultery or even through hatred; nevertheless if there be fear lest he should prove incontinent, he may be dispensed by the Church so as to marry lawfully. Sometimes it also voids the contract, as when a man kills his wife in order to marry her with whom he has committed adultery, for then the law declares him simply unfit to marry her, so that if he actually marry her his marriage is void. He is not however hereby rendered simply unfit by law in relation to other women: wherefore if he should have married another, although he sin by disobeying the Church's ordinance, the marriage is nevertheless not voided for this reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Murder and adultery in certain cases forbid the contracting of marriage and void the contract, as we say here in regard to wife-murder, and shall say further on (Sent. iv[4999], Q[62], A[2]) in regard to adultery. We may also reply that wife-murder is contrary to the substance of wedlock, whereas adultery is contrary to the good of fidelity due to marriage. Hence adultery is not more opposed to marriage than wife-murder, and the argument is based on a false premiss.
 

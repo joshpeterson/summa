@@ -9,9 +9,9 @@ We have now to consider Christ's descent into hell; concerning which there are e
 (6) Whether He delivered the lost from hell?
 (7) Whether He delivered the children who died in original sin?
 (8) Whether He delivered men from Purgatory?
-## Whether It Was Fitting For Christ To Descend Into Hell?
+### Whether It Was Fitting For Christ To Descend Into Hell?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not fitting for Christ to descend into hell, because Augustine says (Ep. ad Evod. cliv.): "Nor could I find anywhere in the Scriptures hell mentioned as something good." But Christ's soul did not descend into any evil place, for neither do the souls of the just. Therefore it does not seem fitting for Christ's soul to descend into hell.
 
@@ -19,22 +19,22 @@ Objection 2: Further, it cannot belong to Christ to descend into hell according 
 
 Objection 3: Further, by Christ's death His soul was separated from His body, and this was laid in the sepulchre, as stated above ([4279]Q[51]). But it seems that He descended into hell, not according to His soul only, because seemingly the soul, being incorporeal, cannot be a subject of local motion; for this belongs to bodies, as is proved in Phys. vi, text. 32; while descent implies corporeal motion. Therefore it was not fitting for Christ to descend into hell.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in the Creed: "He descended into hell": and the Apostle says (Eph. 4:9): "Now that He ascended, what is it, but because He also descended first into the lower parts of the earth?" And a gloss adds: "that is---into hell."
 
 
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The name of hell stands for an evil of penalty, and not for an evil of guilt. Hence it was becoming that Christ should descend into hell, not as liable to punishment Himself, but to deliver them who were.
 
 Reply to Objection 2: Christ's Passion was a kind of universal cause of men's salvation, both of the living and of the dead. But a general cause is applied to particular effects by means of something special. Hence, as the power of the Passion is applied to the living through the sacraments which make us like unto Christ's Passion, so likewise it is applied to the dead through His descent into hell. On which account it is written (Zech. 9:11) that "He sent forth prisoners out of the pit, in the blood of His testament," that is, by the power of His Passion.
 
 Reply to Objection 3: Christ's soul descended into hell not by the same kind of motion as that whereby bodies are moved, but by that kind whereby the angels are moved, as was said in the [4280]FP, Q[53], A[1].
-## Whether Christ Went Down Into The Hell Of The Lost?
+### Whether Christ Went Down Into The Hell Of The Lost?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ went down into the hell of the lost, because it is said by the mouth of Divine Wisdom (Ecclus. 24:45): "I will penetrate to all the lower parts of the earth." But the hell of the lost is computed among the lower parts of the earth according to Ps. 62:10: "They shall go into the lower parts of the earth." Therefore Christ who is the Wisdom of God, went down even into the hell of the lost.
 
@@ -46,7 +46,7 @@ Objection 4: Further, Augustine says (Ep. ad Evod. clxiv): "If the sacred Script
 
 Objection 5: Further, as Augustine says in a sermon upon the Resurrection: Christ descending into hell "set free all the just who were held in the bonds of original sin." But among them was Job, who says of himself (Job 17:16): "All that I have shall go down into the deepest pit." Therefore Christ descended into the deepest pit.
 
-### Answer
+**Answer**
 
 On the contrary, Regarding the hell of the lost it is written (Job 10:21): "Before I go, and return no more, to a land that is dark and covered with the mist of death." Now there is no "fellowship of light with darkness," according to 2 Cor. 6:14. Therefore Christ, who is "the light," did not descend into the hell of the lost.
 
@@ -54,7 +54,7 @@ I answer that, A thing is said to be in a place in two ways. First of all, throu
 
 In another way a thing is said to be in a place through its essence: and in this way Christ's soul descended only into that part of hell wherein the just were detained. so that He visited them "in place," according to His soul, whom He visited "interiorly by grace," according to His Godhead. Accordingly, while remaining in one part of hell, He wrought this effect in a measure in every part of hell, just as while suffering in one part of the earth He delivered the whole world by His Passion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ, who is the Wisdom of God, penetrated to all the lower parts of the earth, not passing through them locally with His soul, but by spreading the effects of His power in a measure to them all: yet so that He enlightened only the just: because the text quoted continues: "And I will enlighten all that hope in the Lord."
 
@@ -65,9 +65,9 @@ Reply to Objection 3: These words of Peter are referred by some to Christ's desc
 Reply to Objection 4: The expression "Abraham's bosom" may be taken in two senses. First of all, as implying that restfulness, existing there, from sensible pain; so that in this sense it cannot be called hell, nor are there any sorrows there. In another way it can be taken as implying the privation of longed-for glory: in this sense it has the character of hell and sorrow. Consequently, that rest of the blessed is now called Abraham's bosom, yet it is not styled hell, nor are sorrows said to be now in Abraham's bosom.
 
 Reply to Objection 5: As Gregory says (Moral. xiii): "Even the higher regions of hell he calls the deepest hell . . . For if relatively to the height of heaven this darksome air is infernal, then relatively to the height of this same air the earth lying beneath can be considered as infernal and deep. And again in comparison with the height of the same earth, those parts of hell which are higher than the other infernal mansions, may in this way be designated as the deepest hell."
-## Whether The Whole Christ Was In Hell?
+### Whether The Whole Christ Was In Hell?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the whole Christ was not in hell. For Christ's body is one of His parts. But His body was not in hell. Therefore, the whole Christ was not in hell.
 
@@ -75,22 +75,22 @@ Objection 2: Further, nothing can be termed whole when its parts are severed. Bu
 
 Objection 3: Further, the whole of a thing is said to be in a place when no part of it is outside such place. But there were parts of Christ outside hell; for instance, His body was in the grave, and His Godhead everywhere. Therefore the whole Christ was not in hell.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Symbolo iii): "The whole Son is with the Father, the whole Son in heaven, on earth, in the Virgin's womb, on the Cross, in hell, in paradise, into which He brought the robber."
 
 I answer that, It is evident from what was said in the [4282]FP, Q[31], A[2], ad 4, the masculine gender is referred to the hypostasis or person, while the neuter belongs to the nature. Now in the death of Christ, although the soul was separated from the body, yet neither was separated from the Person of the Son of God, as stated above (Q[50], A[2]). Consequently, it must be affirmed that during the three days of Christ's death the whole Christ was in the tomb, because the whole Person was there through the body united with Him, and likewise He was entirely in hell, because the whole Person of Christ was there by reason of the soul united with Him, and the whole Christ was then everywhere by reason of the Divine Nature.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The body which was then in the grave is not a part of the uncreated Person, but of the assumed nature. Consequently, the fact of Christ's body not being in hell does not prevent the whole Christ from being there: but proves that not everything appertaining to human nature was there.
 
 Reply to Objection 2: The whole human nature is made up of the united soul and body; not so the Divine Person. Consequently when death severed the union of the soul with the body, the whole Christ remained, but His whole human nature did not remain.
 
 Reply to Objection 3: Christ's Person is whole in each single place, but not wholly, because it is not circumscribed by any place: indeed, all places put together could not comprise His immensity; rather is it His immensity that embraces all things. But it happens in those things which are in a place corporeally and circumscriptively, that if a whole be in some place, then no part of it is outside that place. But this is not the case with God. Hence Augustine says (De Symbolo iii): "It is not according to times or places that we say that the whole Christ is everywhere, as if He were at one time whole in one place, at another time whole in another: but as being whole always and everywhere."
-## Whether Christ Made Any Stay In Hell?
+### Whether Christ Made Any Stay In Hell?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ did not make any stay in hell. For Christ went down into hell to deliver men from thence. But He accomplished this deliverance at once by His descent, for, according to Ecclus. 11:23: "It is easy in the eyes of God on a sudden to make the poor man rich." Consequently He does not seem to have tarried in hell.
 
@@ -98,22 +98,22 @@ Objection 2: Further, Augustine says in a sermon on the Passion (clx) that "of a
 
 Objection 3: Further, it is related (Lk. 23:43) that our Lord while hanging on the cross said to the thief: "This day thou shalt be with Me in paradise": from which it is evident that Christ was in paradise on that very day. But He was not there with His body. for that was in the grave. Therefore He was there with the soul which had gone down into hell: and consequently it appears that He made no stay in hell.
 
-### Answer
+**Answer**
 
 On the contrary, Peter says (Acts 2:24): "Whom God hath raised up, having loosed the sorrows of hell, as it was impossible that He should be held by it." Therefore it seems that He remained in hell until the hour of the Resurrection.
 
 I answer that, As Christ, in order to take our penalties upon Himself, willed His body to be laid in the tomb, so likewise He willed His soul to descend into hell. But the body lay in the tomb for a day and two nights, so as to demonstrate the truth of His death. Consequently, it is to be believed that His soul was in hell, in order that it might be brought back out of hell simultaneously with His body from the tomb.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When Christ descended into hell He delivered the saints who were there, not by leading them out at once from the confines of hell, but by enlightening them with the light of glory in hell itself. Nevertheless it was fitting that His soul should abide in hell as long as His body remained in the tomb.
 
 Reply to Objection 2: By the expression "bars of hell" are understood the obstacles which kept the holy Fathers from quitting hell, through the guilt of our first parent's sin; and these bars Christ burst asunder by the power of His Passion on descending into hell: nevertheless He chose to remain in hell for some time, for the reason stated above.
 
 Reply to Objection 3: Our Lord's expression is not to be understood of the earthly corporeal paradise, but of a spiritual one, in which all are said to be who enjoy the Divine glory. Accordingly, the thief descended locally into hell with Christ, because it was said to him: "This day thou shalt be with Me in paradise"; still as to reward he was in paradise, because he enjoyed Christ's Godhead just as the other saints did.
-## Whether Christ Descending Into Hell Delivered The Holy Fathers From Thence?
+### Whether Christ Descending Into Hell Delivered The Holy Fathers From Thence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ descending into hell did not deliver the holy Fathers from thence. For Augustine (Epist. ad Evod. clxiv) says: "I have not yet discovered what Christ descending into hell bestowed upon those righteous ones who were in Abraham's bosom, from whom I fail to see that He ever departed according to the beatific presence of His Godhead." But had He delivered them, He would have bestowed much upon them. Therefore it does not appear that Christ delivered the holy Fathers from hell.
 
@@ -121,22 +121,22 @@ Objection 2: Further, no one is detained in hell except on account of sin. But d
 
 Objection 3: Further, if you remove the cause, you remove the effect. But that Christ went down into hell was due to sin which was taken away by the Passion, as stated above ([4283]Q[49], A[1]). Consequently, the holy Fathers were not delivered on Christ's descent into hell.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says in the sermon on the Passion already quoted that when Christ descended into hell "He broke down the gate and 'iron bars' of hell, setting at liberty all the righteous who were held fast through original sin."
 
 I answer that, As stated above (A[4], ad 2), when Christ descended into hell He worked through the power of His Passion. But through Christ's Passion the human race was delivered not only from sin, but also from the debt of its penalty, as stated above (Q[49], AA[1],3). Now men were held fast by the debt of punishment in two ways: first of all for actual sin which each had committed personally: secondly, for the sin of the whole human race, which each one in his origin contracts from our first parent, as stated in Rom. 5 of which sin the penalty is the death of the body as well as exclusion from glory, as is evident from Gn. 2 and 3: because God cast out man from paradise after sin, having beforehand threatened him with death should he sin. Consequently, when Christ descended into hell, by the power of His Passion He delivered the saints from the penalty whereby they were excluded from the life of glory, so as to be unable to see God in His Essence, wherein man's beatitude lies, as stated in the [4284]FS, Q[3], A[8]. But the holy Fathers were detained in hell for the reason, that, owing to our first parent's sin, the approach to the life of glory was not opened. And so when Christ descended into hell He delivered the holy Fathers from thence. And this is what is written Zech. 9:11: "Thou also by the blood of Thy testament hast sent forth Thy prisoners out of the pit, wherein is no water." And (Col. 2:15) it is written that "despoiling the principalities and powers," i.e. "of hell, by taking out Isaac and Jacob, and the other just souls," "He led them," i.e. "He brought them far from this kingdom of darkness into heaven," as the gloss explains.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is speaking there against such as maintained that the righteous of old were subject to penal sufferings before Christ's descent into hell. Hence shortly before the passage quoted he says: "Some add that this benefit was also bestowed upon the saints of old, that on the Lord's coming into hell they were freed from their sufferings. But I fail to see how Abraham, into whose bosom the poor man was received, was ever in such sufferings." Consequently, when he afterwards adds that "he had not yet discovered what Christ's descent into hell had brought to the righteous of old," this must be understood as to their being freed from penal sufferings. Yet Christ bestowed something upon them as to their attaining glory: and in consequence He dispelled the suffering which they endured through their glory being delayed: still they had great joy from the very hope thereof, according to Jn. 8:56: "Abraham your father rejoiced that he might see my day." And therefore he adds: "I fail to see that He ever departed, according to the beatific presence of His Godhead," that is, inasmuch as even before Christ's coming they were happy in hope, although not yet fully happy in fact.
 
 Reply to Objection 2: The holy Fathers while yet living were delivered from original as well as actual sin through faith in Christ; also from the penalty of actual sins, but not from the penalty of original sin, whereby they were excluded from glory, since the price of man's redemption was not yet paid: just as the faithful are now delivered by baptism from the penalty of actual sins, and from the penalty of original sin as to exclusion from glory, yet still remain bound by the penalty of original sin as to the necessity of dying in the body because they are renewed in the spirit, but not yet in the flesh, according to Rom. 8:10: "The body indeed is dead, because of sin; but the spirit liveth, because of justification."
 
 Reply to Objection 3: Directly Christ died His soul went down into hell, and bestowed the fruits of His Passion on the saints detained there; although they did not go out as long as Christ remained in hell, because His presence was part of the fulness of their glory.
-## Whether Christ Delivered Any Of The Lost From Hell?
+### Whether Christ Delivered Any Of The Lost From Hell?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ did deliver some of the lost from hell, because it is written (Is. 24:22): "And they shall be gathered together as in the gathering of one bundle into the pit, end they shall be shut up there in prison: and after many days they shall be visited." But there he is speaking of the lost, who "had adored the host of heaven," according to Jerome's commentary. Consequently it seems that even the lost were visited at Christ's descent into hell; and this seems to imply their deliverance.
 
@@ -144,22 +144,22 @@ Objection 2: Further, on Zech. 9:11: "Thou also by the blood of Thy testament ha
 
 Objection 3: Further, Christ's power was not less in hell than in this world, because He worked in every place by the power of His Godhead. But in this world He delivered some persons of every state. Therefore, in hell also, He delivered some from the state of the lost.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Osee 13:14): "O death, I will be thy death; O hell, I will be thy bite": upon which the gloss says: "By leading forth the elect, and leaving there the reprobate." But only the reprobate are in the hell of the lost. Therefore, by Christ's descent into hell none were delivered from the hell of the lost.
 
 I answer that, As stated above [4285](A[5]), when Christ descended into hell He worked by the power of His Passion. Consequently, His descent into hell brought the fruits of deliverance to them only who were united to His Passion through faith quickened by charity, whereby sins are taken away. Now those detained in the hell of the lost either had no faith in Christ's Passion, as infidels; or if they had faith, they had no conformity with the charity of the suffering Christ: hence they could not be cleansed from their sins. And on this account Christ's descent into hell brought them no deliverance from the debt of punishment in hell.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When Christ descended into hell, all who were in any part of hell were visited in some respect: some to their consolation and deliverance, others, namely, the lost, to their shame and confusion. Accordingly the passage continues: "And the moon shall blush, and the sun be put to shame," etc.
 
 Reply to Objection 2: When the gloss says "where no mercy refreshed them," this is to be understood of the refreshing of full deliverance, because the holy Fathers could not be delivered from this prison of hell before Christ's coming.
 
 Reply to Objection 3: It was not due to any lack of power on Christ's part that some were not delivered from every state in hell, as out of every state among men in this world; but it was owing to the very different condition of each state. For, so long as men live here below, they can be converted to faith and charity, because in this life men are not confirmed either in good or in evil, as they are after quitting this life.
-## Whether The Children Who Died In Original Sin Were Delivered By Christ?
+### Whether The Children Who Died In Original Sin Were Delivered By Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the children who died in original sin were delivered from hell by Christ's descending thither. For, like the holy Fathers, the children were kept in hell simply because of original sin. But the holy Fathers were delivered from hell, as stated above [4286](A[5]). Therefore the children were similarly delivered from hell by Christ.
 
@@ -167,22 +167,22 @@ Objection 2: Further, the Apostle says (Rom. 5:15): "If by the offense of one, m
 
 Objection 3: Further, as Baptism works in virtue of Christ's Passion, so also does Christ's descent into hell, as is clear from what has been said (A[4], ad 2, AA[5],6). But through Baptism children are delivered from original sin and hell. Therefore, they were similarly delivered by Christ's descent into hell.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 3:25): "God hath proposed Christ to be a propitiation, through faith in His blood." But the children who had died with only original sin were in no wise sharers of faith in Christ. Therefore, they did not receive the fruits of Christ's propitiation, so as to be delivered by Him from hell.
 
 I answer that, As stated above [4287](A[6]), Christ's descent into hell had its effect of deliverance on them only who through faith and charity were united to Christ's Passion, in virtue whereof Christ's descent into hell was one of deliverance. But the children who had died in original sin were in no way united to Christ's Passion by faith and love: for, not having the use of free will, they could have no faith of their own; nor were they cleansed from original sin either by their parents' faith or by any sacrament of faith. Consequently, Christ's descent into hell did not deliver the children from thence. And furthermore, the holy Fathers were delivered from hell by being admitted to the glory of the vision of God, to which no one can come except through grace; according to Rom. 6:23: "The grace of God is life everlasting." Therefore, since children dying in original sin had no grace, they were not delivered from hell.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The holy Fathers, although still held bound by the debt of original sin, in so far as it touches human nature, were nevertheless delivered from all stain of sin by faith in Christ: consequently, they were capable of that deliverance which Christ brought by descending into hell. But the same cannot be said of the children, as is evident from what was said above.
 
 Reply to Objection 2: When the Apostle says that the grace of God "hath abounded unto many," the word "many" [*The Vulgate reads 'plures,' i.e. 'many more'] is to be taken, not comparatively, as if more were saved by Christ's grace than lost by Adam's sin: but absolutely, as if he said that the grace of the one Christ abounded unto many, just as Adam's sin was contracted by many. But as Adam's sin was contracted by those only who descended seminally from him according to the flesh, so Christ's grace reached those only who became His members by spiritual regeneration: which does not apply to children dying in original sin.
 
 Reply to Objection 3: Baptism is applied to men in this life, in which man's state can be changed from sin into grace: but Christ's descent into hell was vouchsafed to the souls after this life when they are no longer capable of the said change. And consequently by baptism children are delivered from original sin and from hell, but not by Christ's descent into hell.
-## Whether Christ By His Descent Into Hell Delivered Souls From Purgatory?
+### Whether Christ By His Descent Into Hell Delivered Souls From Purgatory?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ by His descent into hell delivered souls from Purgatory---for Augustine says (Ep. ad Evod. clxiv): "Because evident testimonies speak of hell and its pains, there is no reason for believing that the Saviour came thither except to rescue men from those same pains: but I still wish to know whether it was all whom He found there, or some whom He deemed worthy of such a benefit. Yet I do not doubt that Christ went into hell, and granted this favor to them who were suffering from its pains." But, as stated above [4288](A[6]), He did not confer the benefit of deliverance upon the lost: and there are no others in a state of penal suffering except those in Purgatory. Consequently Christ delivered souls from Purgatory.
 
@@ -190,13 +190,13 @@ Objection 2: Further, the very presence of Christ's soul had no less effect than
 
 Objection 3: Further, as Augustine says (De Poenit. ix), those whom Christ healed in this life He healed completely. Also, our Lord says (Jn. 7:23): "I have healed the whole man on the sabbath-day." But Christ delivered them who were in Purgatory from the punishment of the pain of loss, whereby they were excluded from glory. Therefore, He also delivered them from the punishment of Purgatory.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xiii): "Since our Creator and Redeemer, penetrating the bars of hell, brought out from thence the souls of the elect, He does not permit us to go thither, from whence He has already by descending set others free." But He permits us to go to Purgatory. Therefore, by descending into hell, He did not deliver souls from Purgatory.
 
 I answer that, As we have stated more than once (A[4], ad 2, AA[5],6,7), Christ's descent into hell was one of deliverance in virtue of His Passion. Now Christ's Passion had a virtue which was neither temporal nor transitory, but everlasting, according to Heb. 10:14: "For by one oblation He hath perfected for ever them that are sanctified." And so it is evident that Christ's Passion had no greater efficacy then than it has now. Consequently, they who were such as those who are now in Purgatory, were not set free from Purgatory by Christ's descent into hell. But if any were found such as are now set free from Purgatory by virtue of Christ's Passion, then there was nothing to hinder them from being delivered from Purgatory by Christ's descent into hell.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: From this passage of Augustine it cannot be concluded that all who were in Purgatory were delivered from it, but that such a benefit was bestowed upon some persons, that is to say, upon such as were already cleansed sufficiently, or who in life, by their faith and devotion towards Christ's death, so merited, that when He descended, they were delivered from the temporal punishment of Purgatory.
 

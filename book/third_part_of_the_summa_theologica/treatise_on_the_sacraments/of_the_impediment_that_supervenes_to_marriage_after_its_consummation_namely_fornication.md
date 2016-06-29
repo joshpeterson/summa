@@ -7,9 +7,9 @@ We must now consider the impediment that supervenes upon marriage after its cons
 (4) Whether in this matter husband and wife are of equal condition?
 (5) Whether, after being divorced, they must remain unmarried?
 (6) Whether they can be reconciled after being divorced?
-## Whether It Is Lawful For A Husband To Put Away His Wife On Account Of Fornication?
+### Whether It Is Lawful For A Husband To Put Away His Wife On Account Of Fornication?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful for a husband to put away his wife on account of fornication. For we must not return evil for evil. But the husband, by putting away his wife on account of fornication, seemingly returns evil for evil. Therefore this is not lawful.
 
@@ -19,13 +19,13 @@ Objection 3: Further, spiritual fornication and certain other sins are more grie
 
 Objection 4: Further, the unnatural vice is further removed from the marriage goods than fornication is, the manner of which is natural. Therefore it ought to have been a cause of separation rather than fornication.
 
-### Answer
+**Answer**
 
 On the contrary, are the words of Mat. 5:32.
 
 I answer that, Our Lord permitted a man to put away his wife on account of fornication, in punishment of the unfaithful party and in favor of the faithful party, so that the latter is not bound to marital intercourse with the unfaithful one. There are however seven cases to be excepted in which it is not lawful to put away a wife who has committed fornication, when either the wife is not to be blamed, or both parties are equally blameworthy. The first is if the husband also has committed fornication; the second is if he has prostituted his wife; the third is if the wife, believing her husband dead on account of his long absence, has married again; the fourth is if another man has fraudulently impersonated her husband in the marriage-bed; the fifth is if she be overcome by force; the sixth is if he has been reconciled to her by having carnal intercourse with her after she has committed adultery; the seventh is if both having been married in the state of unbelief, the husband has given his wife a bill of divorce and she has married again; for then if both be converted the husband is bound to receive her back again.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A husband sins if through vindictive anger he puts away his wife who has committed fornication, but he does not sin if he does so in order to avoid losing his good name, lest he seem to share in her guilt, or in order to correct his wife's sin, or in order to avoid the uncertainty of her offspring.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: Divorce on account of fornication is effected by the one a
 Reply to Objection 3: Fornication is directly opposed to the good of marriage, since by it the certainty of offspring is destroyed, faith is broken, and marriage ceases to have its signification when the body of one spouse is given to several others. Wherefore other sins, though perhaps they be more grievous than fornication, are not motives for a divorce. Since, however, unbelief which is called spiritual fornication, is also opposed to the good of marriage consisting in the rearing of the offspring to the worship of God, it is also a motive for divorce, yet not in the same way as bodily fornication. Because one may take steps for procuring a divorce on account of one act of carnal fornication, not, however, on account of one act of unbelief, but on account of inveterate unbelief which is a proof of obstinacy wherein unbelief is perfected.
 
 Reply to Objection 4: Steps may be taken to procure a divorce on account also of the unnatural vice: but this is not mentioned in the same way, both because it is an unmentionable passion, and because it does not so affect the certainty of offspring.
-## Whether The Husband Is Bound By Precept To Put Away His Wife When She Is Guilty Of Fornication?
+### Whether The Husband Is Bound By Precept To Put Away His Wife When She Is Guilty Of Fornication?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the husband is bound by precept to put away his wife who is guilty of fornication. For since the husband is the head of his wife, he is bound to correct his wife. Now separation from bed is prescribed as a correction of the wife who is guilty of fornication. Therefore he is bound to separate from her.
 
@@ -50,13 +50,13 @@ Objection 5: On the contrary, A gloss on 1 Cor. 7:11, "Let not the husband put a
 
 Objection 6: Further, one can always pardon the sin that another has committed against oneself. Now the wife, by committing fornication, sinned against her husband. Therefore the husband may spare her by not putting her away.
 
-### Answer
+**Answer**
 
 
 
 I answer that, The putting away of a wife guilty of fornication was prescribed in order that the wife might be corrected by means of that punishment. Now a corrective punishment is not required when amendment has already taken place. Wherefore, if the wife repent of her sin, her husband is not bound to put her away: whereas if she repent not, he is bound to do so, lest he seem to consent to her sin, by not having recourse to her due correction.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The wife can be corrected for her sin of fornication not only by this punishment but also by words and blows; wherefore if she be ready to be corrected otherwise, her husband is not bound to have recourse to the aforesaid punishment in order to correct her.
 
@@ -69,9 +69,9 @@ Reply to Objection 4: There is no parallel, because the effect of consanguinity 
 Reply to Objection 5: This permission is to be understood as an absence of prohibition: and thus it is not in contradistinction with a precept, for that which is a matter of precept is also not forbidden.
 
 Reply to Objection 6: The wife sins not only against her husband, but also against herself and against God, wherefore her husband cannot entirely remit the punishment, unless amendment has followed.
-## Whether The Husband Can On His Own Judgment Put Away His Wife On Account Of Fornication?
+### Whether The Husband Can On His Own Judgment Put Away His Wife On Account Of Fornication?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the husband can on his own judgment put away his wife on account of fornication. For when sentence has been pronounced by the judge, it is lawful to carry it out without any further judgment. But God, the just Judge, has pronounced this judgment, that a husband may put his wife away on account of fornication. Therefore no further judgment is required for this.
 
@@ -85,13 +85,13 @@ Objection 5: Further, accusation should be preceded by inscription [*Cf. [5001]S
 
 Objection 6: Further, a man is more bound to his wife than to a stranger. Now a man ought not to refer to the Church the crime of another, even though he be a stranger, without previously admonishing him privately (Mat. 18:15). Much less therefore may the husband bring his wife's crime before the Church, unless he has previously rebuked her in private.
 
-### Answer
+**Answer**
 
 On the contrary, No one should avenge himself. But if a husband were by his own judgment to put away his wife on account of fornication, he would avenge himself. Therefore this should not be done.
 
 I answer that, A husband can put away his wife in two ways. First as to bed only, and thus he may put her away on his own judgment, as soon as he has evidence of her fornication: nor is he bound to pay her the marriage debt at her demand, unless he be compelled by the Church, and by paying it thus he nowise prejudices his own case. Secondly, as to bed and board, and in this way she cannot be put away except at the judgment of the Church; and if she has been put away otherwise, he must be compelled to cohabit with her unless the husband can at once prove the wife's fornication. Now this putting away is called a divorce: and consequently it must be admitted that a divorce cannot be pronounced except at the judgment of the Church.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The sentence is an application of the general law to a particular fact. Wherefore God gave out the law according to which the sentence of the court has to be pronounced.
 
@@ -102,9 +102,9 @@ Reply to Objection 4: Sometimes when the husband suspects his wife of adultery h
 Reply to Objection 5: A husband may accuse his wife of adultery in two ways. First, he may seek a separation from bed before a spiritual judge, and then there is no need for an inscription to be made under the pain of retaliation, since thus the husband would gain his end, as the objection proves. Secondly, he may seek for the crime to be punished in a secular court, and then it is necessary for inscription to precede, whereby he binds himself under pain of retaliation if he fail to prove his case.
 
 Reply to Objection 6: According to a Decretal (Extra, De Simonia, cap. Licet), "there are three modes of procedure in criminal cases. First, by inquisition, which should be preceded by notoriety; secondly, by accusation, which should be preceded by inscription; [*Cf. [5002]SS, Q[33], A[7]] thirdly, by denunciation, which should be preceded by fraternal correction." Accordingly the saying of our Lord refers to the case where the process is by way of denunciation, and not by accusation, because then the end in view is not only the correction of the guilty party, but also his punishment, for the safeguarding of the common good, which would be destroyed if justice were lacking.
-## Whether In A Case Of Divorce Husband And Wife Should Be Judged On A Par With Each Other?
+### Whether In A Case Of Divorce Husband And Wife Should Be Judged On A Par With Each Other?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that, in a case of divorce, husband and wife ought not to be judged on a par with each other. For divorce under the New Law takes the place of the divorce [repudium] recognized by the Old Law (Mat. 5:31,32). Now in the "repudium" husband and wife were not judged on a par with each other, since the husband could put away his wife, but not "vice versa." Therefore neither in divorce ought they to be judged on a par with each other.
 
@@ -118,13 +118,13 @@ Objection 5: On the contrary, It would seem in this matter the wife ought to hav
 
 Objection 6: Further, the husband is placed as the head of the woman in order to correct her. Therefore his sin is greater than the woman's and so he should be punished the more.
 
-### Answer
+**Answer**
 
 
 
 I answer that, In a case of divorce husband and wife are judged on a par with each other, in the sense that the same things are lawful or unlawful to the one as to the other: but they are not judged on a par with each other in reference to those things, since the reason for divorce is greater in one spouse than in the other, although there is sufficient reason for divorce in both. For divorce is a punishment of adultery, in so far as it is opposed to the marriage goods. Now as regards the good of fidelity to which husband and wife are equally bound towards each other, the adultery of one is as great a sin against marriage as the adultery of the other, and this is in either of them a sufficient reason for divorce. But as regards the good of the offspring the wife's adultery is a greater sin against marriage than the husband's wherefore it is a greater reason for divorce in the wife than in the husband: and thus they are under an equal obligation, but not for equal reasons. Nor is this unjust for on either hand there is sufficient reason for the punishment in question, just as there is in two persons condemned to the punishment of death, although one of them may have sinned more grievously than the other.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The only reason why divorce was permitted, was to avoid murder. And since there was more danger of this in men than in women, the husband was allowed to put away his wife by a bill of divorce, but not "vice versa."
 
@@ -133,9 +133,9 @@ Reply to Objection 4: Although the husband is the head of the wife, he is her pi
 Reply to Objection 5: In adultery there is the same sinful character as in simple fornication, and something more which aggravates it, namely the lesion to marriage. Accordingly if we consider that which is common to adultery and fornication, the sin of the husband and that of the wife are compared the one to the other as that which exceeds to that which is exceeded, for in women the humors are more abundant, wherefore they are more inclined to be led by their concupiscences, whereas in man there is abundance of heat which excites concupiscence. Simply speaking, however, other things being equal, a man sins more grievously in simple fornication than a woman, because he has more of the good of reason, which prevails over all movements of bodily passions. But as regards the lesion to marriage which adultery adds to fornication and for which reason it is an occasion for divorce, the woman sins more grievously than the man, as appears from what we have said above. And since it is more grievous than simple fornication, it follows that, simply speaking, the adulterous wife sins more grievously than the adulterous husband, other things being equal.
 
 Reply to Objection 6: Although the control which the husband receives over his wife is an aggravating circumstance, nevertheless the sin is yet more aggravated by this circumstance which draws the sin to another species, namely by the lesion to marriage, which lesion becomes a kind of injustice, through the fraudulent substitution of another's child.
-## Whether A Husband Can Marry Again After Having A Divorce?
+### Whether A Husband Can Marry Again After Having A Divorce?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a husband can marry again after having a divorce. For no one is bound to perpetual continence. Now in some cases the husband is bound to put away his wife forever on account of fornication, as stated above [5003](A[2]). Therefore seemingly at least in this case he can marry again.
 
@@ -145,13 +145,13 @@ Objection 3: Further, the wife is not bound to the husband save as regards the p
 
 Objection 4: Further, it is said (Mat. 19:9): "Whosoever shall put away his wife, except it be for fornication, and shall marry another committeth adultery." Therefore seemingly he does not commit adultery if he marry again after putting away his wife on account of fornication, and consequently this will be a true marriage.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Cor. 7:10,11): "Not I, but the Lord, commandeth that the wife depart not from her husband. and, if she depart, that she remain unmarried."
 
 I answer that, Nothing supervenient to marriage can dissolve it: wherefore adultery does not make a marriage cease to be valid. For, according to Augustine (De Nup. et Concup. i, 10), "as long as they live they are bound by the marriage tie, which neither divorce nor union with another can destroy." Therefore it is unlawful for one, while the other lives, to marry again.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although no one is absolutely bound to continence, he may be bound accidentally; for instance, if his wife contract an incurable disease that is incompatible with carnal intercourse. And it is the same if she labor under a spiritual disease, namely fornication, so as to be incorrigible.
 
@@ -160,9 +160,9 @@ Reply to Objection 2: The very shame of having been divorced ought to keep her f
 Reply to Objection 3: Although after divorce the wife is not bound to her husband as regards paying him the marriage debt and cohabiting with him, the marriage tie, whereby she was bound to this, remains, and consequently she cannot marry again during her husband's lifetime. She can, however, take a vow of continence, against her husband's will, unless it seem that the Church has been deceived by false witnesses in pronouncing the divorce; for in that case, even if she has made her vow of profession she ought to be restored to her husband, and would be bound to pay the marriage debt, but it would be unlawful for her to demand it.
 
 Reply to Objection 4: The exception expressed in our Lord's words refers to the putting away of the wife. Hence the objection is based on a false interpretation.
-## Whether Husband And Wife May Be Reconciled After Being Divorced?
+### Whether Husband And Wife May Be Reconciled After Being Divorced?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that husband and wife may not be reconciled after being divorced. For the law contains the rule (Can. Quod bene semel, Caus. vi, qu. iv): "That which has been once well decided must not be subsequently withdrawn." Now it has been decided by the judgment of the Church that they ought to be separated. Therefore they cannot subsequently be reconciled.
 
@@ -174,13 +174,13 @@ Objection 4: Further, if it were lawful to be reconciled to an adulterous wife, 
 
 Objection 5: Further, if a husband whose adultery is unknown put away his wife, who is convicted of adultery by the sentence of the Church, the divorce would seem to have been pronounced unjustly. And yet the husband is not bound to be reconciled to his wife, because she is unable to prove his adultery in court. Much less, therefore, is reconciliation allowable when the divorce has been granted justly.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Cor. 7:11): "And if she depart, that she remain unmarried, or be reconciled to her husband."
 
 I answer that, If the wife has mended her ways by repenting of her sin after the divorce, her husband may become reconciled to her; but if she remain incorrigible in her sin, he must not take her back, for the same reason which forbade him to retain her while she refused to desist from sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The sentence of the Church in pronouncing the divorce did not bind them to separate, but allowed them to do so. Therefore reconciliation may be effected or ensue without any withdrawal of the previous sentence.
 

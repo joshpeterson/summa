@@ -5,9 +5,9 @@ After treating of human acts and passions, we now pass on to the consideration o
 (2) Whether it is a distinct species of quality?
 (3) Whether habit implies an order to an act?
 (4) Of the necessity of habit.
-## Whether Habit Is A Quality?
+### Whether Habit Is A Quality?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that habit is not a quality. For Augustine says (QQ. lxxxiii, qu. 73): "this word 'habit' is derived from the verb 'to have.'" But "to have" belongs not only to quality, but also to the other categories: for we speak of ourselves as "having" quantity and money and other like things. Therefore habit is not a quality.
 
@@ -15,7 +15,7 @@ Objection 2: Further, habit is reckoned as one of the predicaments; as may be cl
 
 Objection 3: Further, "every habit is a disposition," as is stated in the Book of the Predicaments (Categor. vi). Now disposition is "the order of that which has parts," as stated in Metaph. v, text. 24. But this belongs to the predicament Position. Therefore habit is not a quality.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says in the Book of Predicaments (Categor. vi) that "habit is a quality which is difficult to change."
 
@@ -25,16 +25,16 @@ Concerning the first, we must observe that "to have," as said in regard to anyth
 
 But if "to have" be taken according as a thing has a relation in regard to itself or to something else; in that case habit is a quality; since this mode of having is in respect of some quality: and of this the Philosopher says (Metaph. v, text. 25) that "habit is a disposition whereby that which is disposed is disposed well or ill, and this, either in regard to itself or in regard to another: thus health is a habit." And in this sense we speak of habit now. Wherefore we must say that habit is a quality.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument takes "to have" in the general sense: for thus it is common to many predicaments, as we have said.
 
 Reply to Objection 2: This argument takes habit in the sense in which we understand it to be a medium between the haver, and that which is had: and in this sense it is a predicament, as we have said.
 
 Reply to Objection 3: Disposition does always, indeed, imply an order of that which has parts: but this happens in three ways, as the Philosopher goes on at once to says (Metaph. v, text. 25): namely, "either as to place, or as to power, or as to species." "In saying this," as Simplicius observes in his Commentary on the Predicaments, "he includes all dispositions: bodily dispositions, when he says 'as to place,'" and this belongs to the predicament "Position," which is the order of parts in a place: "when he says 'as to power,' he includes all those dispositions which are in course of formation and not yet arrived at perfect usefulness," such as inchoate science and virtue: "and when he says, 'as to species,' he includes perfect dispositions, which are called habits," such as perfected science and virtue.
-## Whether Habit Is A Distinct Species Of Quality?
+### Whether Habit Is A Distinct Species Of Quality?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that habit is not a distinct species of quality. Because, as we have said [1442](A[1]), habit, in so far as it is a quality, is "a disposition whereby that which is disposed is disposed well or ill." But this happens in regard to any quality: for a thing happens to be well or ill disposed in regard also to shape, and in like manner, in regard to heat and cold, and in regard to all such things. Therefore habit is not a distinct species of quality.
 
@@ -42,7 +42,7 @@ Objection 2: Further, the Philosopher says in the Book of the Predicaments (Cate
 
 Objection 3: Further, "difficult to change" is not a difference belonging to the predicament of quality, but rather to movement or passion. Now, no genus should be contracted to a species by a difference of another genus; but "differences should be proper to a genus," as the Philosopher says in Metaph. vii, text. 42. Therefore, since habit is "a quality difficult to change," it seems not to be a distinct species of quality.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says in the Book of the Predicaments (Categor. vi) that "one species of quality is habit and disposition."
 
@@ -56,14 +56,14 @@ But the mode of determination of the subject, in regard to action or passion, is
 
 On the other hand, the mode or determination of the subject, in regard to the nature of the thing, belongs to the first species of quality, which is habit and disposition: for the Philosopher says (Phys. vii, text. 17), when speaking of habits of the soul and of the body, that they are "dispositions of the perfect to the best; and by perfect I mean that which is disposed in accordance with its nature." And since the form itself and the nature of a thing is the end and the cause why a thing is made (Phys. ii, text. 25), therefore in the first species we consider both evil and good, and also changeableness, whether easy or difficult; inasmuch as a certain nature is the end of generation and movement. And so the Philosopher (Metaph. v, text. 25) defines habit, a "disposition whereby someone is disposed, well or ill"; and in Ethic. ii, 4, he says that by "habits we are directed well or ill in reference to the passions." For when the mode is suitable to the thing's nature, it has the aspect of good: and when it is unsuitable, it has the aspect of evil. And since nature is the first object of consideration in anything, for this reason habit is reckoned as the first species of quality.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Disposition implies a certain order, as stated above (A[1], ad 3). Wherefore a man is not said to be disposed by some quality except in relation to something else. And if we add "well or ill," which belongs to the essential notion of habit, we must consider the quality's relation to the nature, which is the end. So in regard to shape, or heat, or cold, a man is not said to be well or ill disposed, except by reason of a relation to the nature of a thing, with regard to its suitability or unsuitability. Consequently even shapes and passion-like qualities, in so far as they are considered to be suitable or unsuitable to the nature of a thing, belong to habits or dispositions: for shape and color, according to their suitability to the nature of thing, concern beauty; while heat and cold, according to their suitability to the nature of a thing, concern health. And in this way heat and cold are put, by the Philosopher, in the first species of quality.
 
 Reply to Objection 3: This difference, "difficult to change," does not distinguish habit from the other species of quality, but from disposition. Now disposition may be taken in two ways; in one way, as the genus of habit, for disposition is included in the definition of habit (Metaph. v, text. 25): in another way, according as it is divided against habit. Again, disposition, properly so called, can be divided against habit in two ways: first, as perfect and imperfect within the same species; and thus we call it a disposition, retaining the name of the genus, when it is had imperfectly, so as to be easily lost: whereas we call it a habit, when it is had perfectly, so as not to be lost easily. And thus a disposition becomes a habit, just as a boy becomes a man. Secondly, they may be distinguished as diverse species of the one subaltern genus: so that we call dispositions, those qualities of the first species, which by reason of their very nature are easily lost, because they have changeable causes; e.g. sickness and health: whereas we call habits those qualities which, by reason of their very nature, are not easily changed, in that they have unchangeable causes, e.g. sciences and virtues. And in this sense, disposition does not become habit. The latter explanation seems more in keeping with the intention of Aristotle: for in order to confirm this distinction he adduces the common mode of speaking, according to which, when a quality is, by reason of its nature, easily changeable, and, through some accident, becomes difficultly changeable, then it is called a habit: while the contrary happens in regard to qualities, by reason of their nature, difficultly changeable: for supposing a man to have a science imperfectly, so as to be liable to lose it easily, we say that he is disposed to that science, rather than that he has the science. From this it is clear that the word "habit" implies a certain lastingness: while the word "disposition" does not.
-## Whether Habit Implies Order To An Act?
+### Whether Habit Implies Order To An Act?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that habit does not imply order to an act. For everything acts according as it is in act. But the Philosopher says (De Anima iii, text 8), that "when one is become knowing by habit, one is still in a state of potentiality, but otherwise than before learning." Therefore habit does not imply the relation of a principle to an act.
 
@@ -71,7 +71,7 @@ Objection 2: Further, that which is put in the definition of a thing, belongs to
 
 Objection 3: Further, health is sometimes a habit, and so are leanness and beauty. But these do not indicate relation to an act. Therefore it is not essential to habit to be a principle of act.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Bono Conjug. xxi) that "habit is that whereby something is done when necessary." And the Commentator says (De Anima iii) that "habit is that whereby we act when we will."
 
@@ -79,16 +79,16 @@ I answer that, To have relation to an act may belong to habit, both in regard to
 
 But there are some habits, which even on the part of the subject in which they are, imply primarily and principally relation to an act. For, as we have said, habit primarily and of itself implies a relation to the thing's nature. If therefore the nature of a thing, in which the habit is, consists in this very relation to an act, it follows that the habit principally implies relation to an act. Now it is clear that the nature and the notion of power is that it should be a principle of act. Wherefore every habit is subjected in a power, implies principally relation to an act.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Habit is an act, in so far as it is a quality: and in this respect it can be a principle of operation. It is, however, in a state of potentiality in respect to operation. Wherefore habit is called first act, and operation, second act; as it is explained in De Anima ii, text. 5.
 
 Reply to Objection 2: It is not the essence of habit to be related to power, but to be related to nature. And as nature precedes action, to which power is related, therefore habit is put before power as a species of quality.
 
 Reply to Objection 3: Health is said to be a habit, or a habitual disposition, in relation to nature, as stated above. But in so far as nature is a principle of act, it consequently implies a relation to act. Wherefore the Philosopher says (De Hist. Animal. x, 1), that man, or one of his members, is called healthy, "when he can perform the operation of a healthy man." And the same applies to other habits.
-## Whether Habits Are Necessary?
+### Whether Habits Are Necessary?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that habits are not necessary. For by habits we are well or ill disposed in respect of something, as stated above. But a thing is well or ill disposed by its form: for in respect of its form a thing is good, even as it is a being. Therefore there is no necessity for habits.
 
@@ -96,7 +96,7 @@ Objection 2: Further, habit implies relation to an act. But power implies suffic
 
 Objection 3: Further, as power is related to good and evil, so also is habit: and as power does not always act, so neither does habit. Given, therefore, the powers, habits become superfluous.
 
-### Answer
+**Answer**
 
 On the contrary, Habits are perfections (Phys. vii, text. 17). But perfection is of the greatest necessity to a thing: since it is in the nature of an end. Therefore it is necessary that there should be habits.
 
@@ -106,7 +106,7 @@ The second condition is, that that which is in a state of potentiality in regard
 
 The third condition is that in disposing the subject to one of those things to which it is in potentiality, several things should occur, capable of being adjusted in various ways: so as to dispose the subject well or ill to its form or to its operation. Wherefore the simple qualities of the elements which suit the natures of the elements in one single fixed way, are not called dispositions or habits, but "simple qualities": but we call dispositions or habits, such things as health, beauty, and so forth, which imply the adjustment of several things which may vary in their relative adjustability. For this reason the Philosopher says (Metaph. v, text. 24,25) that "habit is a disposition": and disposition is "the order of that which has parts either as to place, or as to potentiality, or as to species," as we have said above (A[1], ad 3). Wherefore, since there are many things for whose natures and operations several things must concur which may vary in their relative adjustability, it follows that habit is necessary.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: By the form the nature of a thing is perfected: yet the subject needs to be disposed in regard to the form by some disposition. But the form itself is further ordained to operation, which is either the end, or the means to the end. And if the form is limited to one fixed operation, no further disposition, besides the form itself, is needed for the operation. But if the form be such that it can operate in diverse ways, as the soul; it needs to be disposed to its operations by means of habits.
 

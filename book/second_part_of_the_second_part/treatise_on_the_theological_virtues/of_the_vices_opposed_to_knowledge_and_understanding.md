@@ -4,9 +4,9 @@ We must now consider the vices opposed to knowledge and understanding. Since, ho
 (1) Whether blindness of mind is a sin?
 (2) Whether dulness of sense is a sin distinct from blindness of mind?
 (3) Whether these vices arise from sins of the flesh?
-## Whether Blindness Of Mind Is A Sin?
+### Whether Blindness Of Mind Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that blindness of mind is not a sin. Because, seemingly, that which excuses from sin is not itself a sin. Now blindness of mind excuses from sin; for it is written (Jn. 9:41): "If you were blind, you should not have sin." Therefore blindness of mind is not a sin.
 
@@ -14,7 +14,7 @@ Objection 2: Further, punishment differs from guilt. But blindness of mind is a 
 
 Objection 3: Further, every sin is voluntary, according to Augustine (De Vera Relig. xiv). Now blindness of mind is not voluntary, since, as Augustine says (Confess. x), "all love to know the resplendent truth," and as we read in Eccles. 11:7, "the light is sweet and it is delightful for the eyes to see the sun." Therefore blindness of mind is not a sin.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxxi, 45) reckons blindness of mind among the vices arising from lust.
 
@@ -24,16 +24,16 @@ Another principle of intellectual sight is a certain habitual light superadded t
 
 A third principle of intellectual sight is an intelligible principle, through which a man understands other things; to which principle a man may attend or not attend. That he does not attend thereto happens in two ways. Sometimes it is due to the fact that a man's will is deliberately turned away from the consideration of that principle, according to Ps. 35:4, "He would not understand, that he might do well": whereas sometimes it is due to the mind being more busy about things which it loves more, so as to be hindered thereby from considering this principle, according to Ps. 57:9, "Fire," i.e. of concupiscence, "hath fallen on them and they shall not see the sun." In either of these ways blindness of mind is a sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The blindness that excuses from sin is that which arises from the natural defect of one who cannot see.
 
 Reply to Objection 2: This argument considers the second kind of blindness which is a punishment.
 
 Reply to Objection 3: To understand the truth is, in itself, beloved by all; and yet, accidentally it may be hateful to someone, in so far as a man is hindered thereby from having what he loves yet more.
-## Whether Dulness Of Sense Is A Sin Distinct From Blindness Of Mind?
+### Whether Dulness Of Sense Is A Sin Distinct From Blindness Of Mind?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that dulness of sense is not a distinct sin from blindness of mind. Because one thing has one contrary. Now dulness is opposed to the gift of understanding, according to Gregory (Moral. ii, 49); and so is blindness of mind, since understanding denotes a principle of sight. Therefore dulness of sense is the same as blindness of mind.
 
@@ -41,7 +41,7 @@ Objection 2: Further, Gregory (Moral. xxxi, 45) in speaking of dulness describes
 
 Objection 3: Further, if they differ at all, it seems to be chiefly in the fact that blindness of mind is voluntary, as stated above [2423](A[1]), while dulness of sense is a natural defect. But a natural defect is not a sin: so that, accordingly, dulness of sense would not be a sin, which is contrary to what Gregory says (Moral. xxxi, 45), where he reckons it among the sins arising from gluttony.
 
-### Answer
+**Answer**
 
 On the contrary, Different causes produce different effects. Now Gregory says (Moral. xxxi, 45) that dulness of sense arises from gluttony, and that blindness of mind arises from lust. Now these others are different vices. Therefore those are different vices also.
 
@@ -52,9 +52,9 @@ Now, by way of similitude to bodily sense, we speak of sense in connection with 
 Accordingly dulness of sense in connection with understanding denotes a certain weakness of the mind as to the consideration of spiritual goods; while blindness of mind implies the complete privation of the knowledge of such things. Both are opposed to the gift of understanding, whereby a man knows spiritual goods by apprehending them, and has a subtle penetration of their inmost nature. This dulness has the character of sin, just as blindness of mind has, that is, in so far as it is voluntary, as evidenced in one who, owing to his affection for carnal things, dislikes or neglects the careful consideration of spiritual things.
 
 This suffices for the Replies to the Objections.
-## Whether Blindness Of Mind And Dulness Of Sense Arise From Sins Of The Flesh?
+### Whether Blindness Of Mind And Dulness Of Sense Arise From Sins Of The Flesh?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that blindness of mind and dulness of sense do not arise from sins of the flesh. For Augustine (Retract. i, 4) retracts what he had said in his Soliloquies i, 1, "God Who didst wish none but the clean to know the truth," and says that one might reply that "many, even those who are unclean, know many truths." Now men become unclean chiefly by sins of the flesh. Therefore blindness of mind and dulness of sense are not caused by sins of the flesh.
 
@@ -62,7 +62,7 @@ Objection 2: Further, blindness of mind and dulness of sense are defects in conn
 
 Objection 3: Further, all things are more passive to what is near them than to what is remote. Now spiritual vices are nearer the mind than carnal vices are. Therefore blindness of mind and dulness of sense are caused by spiritual rather than by carnal vices.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xxxi, 45) that dulness of sense arises from gluttony and blindness of mind from lust.
 
@@ -70,7 +70,7 @@ I answer that, The perfect intellectual operation in man consists in an abstract
 
 Now carnal vices, namely gluttony and lust, are concerned with pleasures of touch in matters of food and sex; and these are the most impetuous of all pleasures of the body. For this reason these vices cause man's attention to be very firmly fixed on corporeal things, so that in consequence man's operation in regard to intelligible things is weakened, more, however, by lust than by gluttony, forasmuch as sexual pleasures are more vehement than those of the table. Wherefore lust gives rise to blindness of mind, which excludes almost entirely the knowledge of spiritual things, while dulness of sense arises from gluttony, which makes a man weak in regard to the same intelligible things. On the other hand, the contrary virtues, viz. abstinence and chastity, dispose man very much to the perfection of intellectual operation. Hence it is written (Dan. 1:17) that "to these children" on account of their abstinence and continency, "God gave knowledge and understanding in every book, and wisdom."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although some who are the slaves of carnal vices are at times capable of subtle considerations about intelligible things, on account of the perfection of their natural genius, or of some habit superadded thereto, nevertheless, on account of the pleasures of the body, it must needs happen that their attention is frequently withdrawn from this subtle contemplation: wherefore the unclean can know some truths, but their uncleanness is a clog on their knowledge.
 

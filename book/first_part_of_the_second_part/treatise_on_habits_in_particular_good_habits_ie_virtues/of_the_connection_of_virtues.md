@@ -6,9 +6,9 @@ We must now consider the connection of virtues: under which head there are five 
 (3) Whether charity can be without them?
 (4) Whether faith and hope can be without charity?
 (5) Whether charity can be without them?
-## Whether The Moral Virtues Are Connected With One Another?
+### Whether The Moral Virtues Are Connected With One Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the moral virtues are not connected with one another. Because moral virtues are sometimes caused by the exercise of acts, as is proved in Ethic. ii, 1,2. But man can exercise himself in the acts of one virtue, without exercising himself in the acts of some other virtue. Therefore it is possible to have one moral virtue without another.
 
@@ -18,7 +18,7 @@ Objection 3: Further, as the moral virtues perfect the appetitive part of the so
 
 Objection 4: Further, if the moral virtues are mutually connected, this can only be because they are united together in prudence. But this does not suffice to connect the moral virtues together. For, seemingly, one may be prudent about things to be done in relation to one virtue, without being prudent in those that concern another virtue: even as one may have the art of making certain things, without the art of making certain others. Now prudence is right reason about things to be done. Therefore the moral virtues are not necessarily connected with one another.
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose says on Lk. 6:20: "The virtues are connected and linked together, so that whoever has one, is seen to have several": and Augustine says (De Trin. vi, 4) that "the virtues that reside in the human mind are quite inseparable from one another": and Gregory says (Moral. xxii, 1) that "one virtue without the other is either of no account whatever, or very imperfect": and Cicero says (Quaest. Tusc. ii): "If you confess to not having one particular virtue, it must needs be that you have none at all."
 
@@ -28,16 +28,16 @@ But the perfect moral virtue is a habit that inclines us to do a good deed well;
 
 Others, however, differentiate these virtues in respect of their matters, and it is in this way that Aristotle assigns the reason for their connection (Ethic. vi, 13). Because, as stated above ([1606]Q[58], A[4]), no moral virtue can be without prudence; since it is proper to moral virtue to make a right choice, for it is an elective habit. Now right choice requires not only the inclination to a due end, which inclination is the direct outcome of moral virtue, but also correct choice of things conducive to the end, which choice is made by prudence, that counsels, judges, and commands in those things that are directed to the end. In like manner one cannot have prudence unless one has the moral virtues: since prudence is "right reason about things to be done," and the starting point of reason is the end of the thing to be done, to which end man is rightly disposed by moral virtue. Hence, just as we cannot have speculative science unless we have the understanding of the principles, so neither can we have prudence without the moral virtues: and from this it follows clearly that the moral virtues are connected with one another.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Some moral virtues perfect man as regards his general state, in other words, with regard to those things which have to be done in every kind of human life. Hence man needs to exercise himself at the same time in the matters of all moral virtues. And if he exercise himself, by good deeds, in all such matters, he will acquire the habits of all the moral virtues. But if he exercise himself by good deeds in regard to one matter, but not in regard to another, for instance, by behaving well in matters of anger, but not in matters of concupiscence; he will indeed acquire a certain habit of restraining his anger; but this habit will lack the nature of virtue, through the absence of prudence, which is wanting in matters of concupiscence. In the same way, natural inclinations fail to have the complete character of virtue, if prudence be lacking.
 
 Reply to Objection 3: The intellectual virtues are about divers matters having no relation to one another, as is clearly the case with the various sciences and arts. Hence we do not observe in them the connection that is to be found among the moral virtues, which are about passions and operations, that are clearly related to one another. For all the passions have their rise in certain initial passions, viz. love and hatred, and terminate in certain others, viz. pleasure and sorrow. In like manner all the operations that are the matter of moral virtue are related to one another, and to the passions. Hence the whole matter of moral virtues falls under the one rule of prudence.
 
 Reply to Objection 4: Those things to which the moral virtues incline, are as the principles of prudence: whereas the products of art are not the principles, but the matter of art. Now it is evident that, though reason may be right in one part of the matter, and not in another, yet in no way can it be called right reason, if it be deficient in any principle whatever. Thus, if a man be wrong about the principle, "A whole is greater than its part," he cannot acquire the science of geometry, because he must necessarily wander from the truth in his conclusion. Moreover, things "done" are related to one another, but not things "made," as stated above (ad 3). Consequently the lack of prudence in one department of things to be done, would result in a deficiency affecting other things to be done: whereas this does not occur in things to be made.
-## Whether Moral Virtues Can Be Without Charity?
+### Whether Moral Virtues Can Be Without Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that moral virtues can be without charity. For it is stated in the Liber Sentent. Prosperi vii, that "every virtue save charity may be common to the good and bad." But "charity can be in none except the good," as stated in the same book. Therefore the other virtues can be had without charity.
 
@@ -45,7 +45,7 @@ Objection 2: Further, moral virtues can be acquired by means of human acts, as s
 
 Objection 3: Further, the moral virtues are connected together, through depending on prudence. But charity does not depend on prudence; indeed, it surpasses prudence, according to Eph. 3:19: "The charity of Christ, which surpasseth all knowledge." Therefore the moral virtues are not connected with charity, and can be without it.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Jn. 3:14): "He that loveth not, abideth in death." Now the spiritual life is perfected by the virtues, since it is "by them" that "we lead a good life," as Augustine states (De Lib. Arb. ii, 17,19). Therefore they cannot be without the love of charity.
 
@@ -53,16 +53,16 @@ I answer that, As stated above (Q[63], A[2]), it is possible by means of human w
 
 It is therefore clear from what has been said that only the infused virtues are perfect, and deserve to be called virtues simply: since they direct man well to the ultimate end. But the other virtues, those, namely, that are acquired, are virtues in a restricted sense, but not simply: for they direct man well in respect of the last end in some particular genus of action, but not in respect of the last end simply. Hence a gloss of Augustine [*Cf. Lib. Sentent. Prosperi cvi.] on the words, "All that is not of faith is sin" (Rom. 14:23), says: "He that fails to acknowledge the truth, has no true virtue, even if his conduct be good."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Virtue, in the words quoted, denotes imperfect virtue. Else if we take moral virtue in its perfect state, "it makes its possessor good," and consequently cannot be in the wicked.
 
 Reply to Objection 2: This argument holds good of virtue in the sense of acquired virtue.
 
 Reply to Objection 3: Though charity surpasses science and prudence, yet prudence depends on charity, as stated: and consequently so do all the infused moral virtues.
-## Whether Charity Can Be Without Moral Virtue?
+### Whether Charity Can Be Without Moral Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem possible to have charity without the moral virtues. For when one thing suffices for a certain purpose, it is superfluous to employ others. Now charity alone suffices for the fulfilment of all the works of virtue, as is clear from 1 Cor. 13:4, seqq.: "Charity is patient, is kind," etc. Therefore it seems that if one has charity, other virtues are superfluous.
 
@@ -70,7 +70,7 @@ Objection 2: Further, he that has a habit of virtue easily performs the works of
 
 Objection 3: Further, charity is to be found in every saint: and yet there are some saints who are without certain virtues. For Bede says (on Lk. 17:10) that the saints are more humbled on account of their not having certain virtues, than rejoiced at the virtues they have. Therefore, if a man has charity, it does not follow of necessity that he has all the moral virtues.
 
-### Answer
+**Answer**
 
 On the contrary, The whole Law is fulfilled through charity, for it is written (Rom. 13:8): "He that loveth his neighbor, hath fulfilled the Law." Now it is not possible to fulfil the whole Law, without having all the moral virtues: since the law contains precepts about all acts of virtue, as stated in Ethic. v, 1,2. Therefore he that has charity, has all the moral virtues. Moreover, Augustine says in a letter (Epis. clxvii) [*Cf. Serm. xxxix and xlvi de Temp.] that charity contains all the cardinal virtues.
 
@@ -78,16 +78,16 @@ I answer that, All the moral virtues are infused together with charity. The reas
 
 It is therefore clear that the infused moral virtues are connected, not only through prudence, but also on account of charity: and, again, that whoever loses charity through mortal sin, forfeits all the infused moral virtues.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In order that the act of a lower power be perfect, not only must there be perfection in the higher, but also in the lower power: for if the principal agent were well disposed, perfect action would not follow, if the instrument also were not well disposed. Consequently, in order that man work well in things referred to the end, he needs not only a virtue disposing him well to the end, but also those virtues which dispose him well to whatever is referred to the end: for the virtue which regards the end is the chief and moving principle in respect of those things that are referred to the end. Therefore it is necessary to have the moral virtues together with charity.
 
 Reply to Objection 2: It happens sometimes that a man who has a habit, finds it difficult to act in accordance with the habit, and consequently feels no pleasure and complacency in the act, on account of some impediment supervening from without: thus a man who has a habit of science, finds it difficult to understand, through being sleepy or unwell. In like manner sometimes the habits of moral virtue experience difficulty in their works, by reason of certain ordinary dispositions remaining from previous acts. This difficulty does not occur in respect of acquired moral virtue: because the repeated acts by which they are acquired, remove also the contrary dispositions.
 
 Reply to Objection 3: Certain saints are said not to have certain virtues, in so far as they experience difficulty in the acts of those virtues, for the reason stated; although they have the habits of all the virtues.
-## Whether Faith And Hope Can Be Without Charity?
+### Whether Faith And Hope Can Be Without Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that faith and hope are never without charity. Because, since they are theological virtues, they seem to be more excellent than even the infused moral virtues. But the infused moral virtues cannot be without charity. Neither therefore can faith and hope be without charity.
 
@@ -95,7 +95,7 @@ Objection 2: Further, "no man believes unwillingly" as Augustine says (Tract. xx
 
 Objection 3: Further, Augustine says (Enchiridion viii) that "there can be no hope without love." But love is charity: for it is of this love that he speaks. Therefore hope cannot be without charity.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Mat. 1:2 says that "faith begets hope, and hope, charity." Now the begetter precedes the begotten, and can be without it. Therefore faith can be without hope; and hope, without charity.
 
@@ -103,16 +103,16 @@ I answer that, Faith and hope, like the moral virtues, can be considered in two 
 
 Accordingly faith and hope can exist indeed in a fashion without charity: but they have not the perfect character of virtue without charity. For, since the act of faith is to believe in God; and since to believe is to assent to someone of one's own free will: to will not as one ought, will not be a perfect act of faith. To will as one ought is the outcome of charity which perfects the will: since every right movement of the will proceeds from a right love, as Augustine says (De Civ. Dei xiv, 9). Hence faith may be without charity, but not as a perfect virtue: just as temperance and fortitude can be without prudence. The same applies to hope. Because the act of hope consists in looking to God for future bliss. This act is perfect, if it is based on the merits which we have; and this cannot be without charity. But to expect future bliss through merits which one has not yet, but which one proposes to acquire at some future time, will be an imperfect act; and this is possible without charity. Consequently, faith and hope can be without charity; yet, without charity, they are not virtues properly so-called; because the nature of virtue requires that by it, we should not only do what is good, but also that we should do it well (Ethic. ii, 6).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Moral virtue depends on prudence: and not even infused prudence has the character of prudence without charity; for this involves the absence of due order to the first principle, viz. the ultimate end. On the other hand faith and hope, as such, do not depend either on prudence or charity; so that they can be without charity, although they are not virtues without charity, as stated.
 
 Reply to Objection 2: This argument is true of faith considered as a perfect virtue.
 
 Reply to Objection 3: Augustine is speaking here of that hope whereby we look to gain future bliss through merits which we have already; and this is not without charity.
-## Whether Charity Can Be Without Faith And Hope?
+### Whether Charity Can Be Without Faith And Hope?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity can be without faith and hope. For charity is the love of God. But it is possible for us to love God naturally, without already having faith, or hope in future bliss. Therefore charity can be without faith and hope.
 
@@ -120,13 +120,13 @@ Objection 2: Further, charity is the root of all the virtues, according to Eph. 
 
 Objection 3: Further, there was perfect charity in Christ. And yet He had neither faith nor hope: because He was a perfect comprehensor, as we shall explain further on ([1611]TP, Q[7], AA[3],4). Therefore charity can be without faith and hope.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Heb. 11:6): "Without faith it is impossible to please God"; and this evidently belongs most to charity, according to Prov. 8:17: "I love them that love me." Again, it is by hope that we are brought to charity, as stated above ([1612]Q[62], A[4]). Therefore it is not possible to have charity without faith and hope.
 
 I answer that, Charity signifies not only the love of God, but also a certain friendship with Him; which implies, besides love, a certain mutual return of love, together with mutual communion, as stated in Ethic. viii, 2. That this belongs to charity is evident from 1 Jn. 4:16: "He that abideth in charity, abideth in God, and God in him," and from 1 Cor. 1:9, where it is written: "God is faithful, by Whom you are called unto the fellowship of His Son." Now this fellowship of man with God, which consists in a certain familiar colloquy with Him, is begun here, in this life, by grace, but will be perfected in the future life, by glory; each of which things we hold by faith and hope. Wherefore just as friendship with a person would be impossible, if one disbelieved in, or despaired of, the possibility of their fellowship or familiar colloquy; so too, friendship with God, which is charity, is impossible without faith, so as to believe in this fellowship and colloquy with God, and to hope to attain to this fellowship. Therefore charity is quite impossible without faith and hope.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Charity is not any kind of love of God, but that love of God, by which He is loved as the object of bliss, to which object we are directed by faith and hope.
 

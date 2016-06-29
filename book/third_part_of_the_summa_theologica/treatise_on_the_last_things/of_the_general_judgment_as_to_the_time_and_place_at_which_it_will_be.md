@@ -5,9 +5,9 @@ We must next consider the general judgment, as to the time and place at which it
 (2) Whether as regards the debate it will be conducted by word of mouth?
 (3) Whether it will take place at an unknown time?
 (4) Whether it will take place in the valley of Josaphat?
-## Whether There Will Be A General Judgment?
+### Whether There Will Be A General Judgment?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there will not be a general judgment. For according to Nahum 1:9, following the Septuagint version, "God will not judge the same thing a second time." But God judges now of mans' every work, by assigning punishments and rewards to each one after death, and also by rewarding and punishing certain ones in this life for their good or evil deeds. Therefore it would seem that there will be no other judgment.
 
@@ -15,22 +15,22 @@ Objection 2: Further, in no judicial inquiry is the sentence carried cut before 
 
 Objection 3: Further, the reason why certain things are submitted to judgment is that we may come to a decision about them. Now before the end of the world each of the damned is awarded his damnation, and each of the blessed his beatitude. Therefore, etc.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 12:41): "The men of Nineve shall rise in judgment with this generation, and shall condemn it." Therefore there will be a judgment after the resurrection.
 
 I answer that, Just as operation refers to the beginning wherefrom things receive their being, so judgment belongs to the term, wherein they are brought to their end. Now we distinguish a twofold operation in God. One is that whereby He first gave things their being, by fashioning their nature and by establishing the distinctions which contribute to the perfection thereof: from this work God is stated to have rested (Gn. 2:2). His other operation is that whereby He works in governing creatures; and of this it is written (Jn. 5:17): "My Father worketh until now; and I work." Hence we distinguish in Him a twofold judgment, but in the reverse order. One corresponds to the work of governance which cannot be without judgment: and by this judgment each one is judged individually according to his works, not only as adapted to himself, but also as adapted to the government of the universe. Hence one man's reward is delayed for the good of others (Heb. 11:13, 39, 40), and the punishment of one conduces to the profit of another. Consequently it is necessary that there should be another, and that a general judgment corresponding on the other hand with the first formation of things in being, in order that, to wit, just as then all things proceeded immediately from God, so at length the world will receive its ultimate complement, by each one receiving finally his own personal due. Hence at this judgment the Divine justice will be made manifest in all things, whereas now it remains hidden, for as much as at times some persons are dealt with for the profit of others, otherwise than their manifest works would seem to require. For this same reason there will then be a general separation of the good from the wicked, because there will be no further motive for the good to profit by the wicked, or the wicked by the good: for the sake of which profit the good are meanwhile mingled with the wicked, so long as this state of life is governed by Divine providence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Each man is both an individual person and a part of the whole human race: wherefore a twofold judgment is due to him. One, the particular judgment, is that to which he will be subjected after death, when he will receive according as he hath done in the body [*Cf. 2 Cor. 5:10], not indeed entirely but only in part since he will receive not in the body but only in the soul. The other judgment will be passed on him as a part of the human race: thus a man is said to be judged according to human justice, even when judgment is pronounced on the community of which he is a part. Hence at the general judgment of the whole human race by the general separation of the good from the wicked, it follows that each one will be judged. And yet God will not judge "the same thing a second time," since He will not inflict two punishments for one sin, and the punishment which before the judgment was not inflicted completely will be completed at the last judgment, after which the wicked will be tormented at the same time in body and soul.
 
 Reply to Objection 2: The sentence proper to this general judgment is the general separation of the good from the wicked, which will not precede this judgment. Yet even now, as regards the particular sentence on each individual, the judgment does not at once take full effect since even the good will receive an increase of reward after the judgment, both from the added glory of the body and from the completion of the number of the saints. The wicked also will receive an increase of torment from the added punishment of the body and from the completion of the number of damned to be punished, because the more numerous those with whom they will burn, the more will they themselves burn.
 
 Reply to Objection 3: The general judgment will regard more directly the generality of men than each individual to be judged, as stated above. Wherefore although before that judgment each one will be certain of his condemnation or reward, he will not be cognizant of the condemnation or reward of everyone else. Hence the necessity of the general judgment.
-## Whether The Judgment Will Take Place By Word Of Mouth?
+### Whether The Judgment Will Take Place By Word Of Mouth?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this judgment, as regards the inquiry and sentence, will take place by word of mouth. For according to Augustine (De Civ. Dei xx) "it is uncertain how many days this judgment will last." But it would not be uncertain if the things we are told will take place at the judgment were to be accomplished only in the mind. Therefore this judgment will take place by word of mouth and not only in the mind.
 
@@ -38,22 +38,22 @@ Objection 2: Further, Gregory says (Moral. xxvi): "Those at least will hear the 
 
 Objection 3: Further, Christ will judge according to His human form, so as to be visible in the body to all. Therefore in like manner it seems that He will speak with the voice of the body, so as to be heard by all.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xx) that the book of life which is mentionedApoc. 20:12, 15 "is a kind of Divine energy enabling each one to remember all his good or evil works, and to discern them with the gaze of the mind, with wondrous rapidity, his knowledge accusing or defending his conscience, so that all and each will be judged at the same moment." But if each one's merits were discussed by word of mouth, all and each could not be judged at the same moment. Therefore it would seem that this judgment will not take place by word of mouth.
 
 I answer that, It is not possible to come to any certain conclusion about the truth of this question. It is, however, the more probable opinion that the whole of this judgment, whether as regards the inquiry, or as regards the accusation of the wicked and the approval of the good or again as regards the sentence on both, will take place mentally. For if the deeds of each individual were to be related by word of mouth, this would require an inconceivable length of time. Thus Augustine says (De Civ. Dei xx) that "if we suppose the book, from the pages of which all will be judged according to Apoc. 20, to be a material book, who will be able to conceive its size and length? or the length of time required for the reading of a book that contains the entire life of every individual?" Nor is less time requisite for telling by word of mouth the deeds of each individual, than for reading them if they were written in a material book. Hence, probably we should understand that the details set forth in Mat. 25 will be fulfilled not by word of mouth but mentally.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The reason why Augustine says that "it is uncertain how many days this judgment will last" is precisely because it is not certain whether it will take place mentally or by word of mouth. For if it were to take place by word of mouth, a considerable time would be necessary. but if mentally, it is possible for it to be accomplished in an instant.
 
 Reply to Objection 2: Even if the judgment is accomplished solely in the mind, the saying of Gregory stands, since though all will be cognizant of their own and of others' deeds, as a result of the Divine energy which the Gospel describes as speech (Mat. 25:84-46), nevertheless those who have had the faith which they received through God's words will be judged from those very words, for it is written (Rom. 2:12): "Whosoever have sinned in the Law shall be judged by the Law." Hence in a special way something will be said to those who had been believers, which will not be said to unbelievers.
 
 Reply to Objection 3: Christ will appear in body, so that the Judge may be recognized in the body by all, and it is possible for this to take place suddenly. But speech which is measured by time would require an immense length of time, if the judgment took place by word of mouth.
-## Whether The Time Of The Future Judgment Is Unknown?
+### Whether The Time Of The Future Judgment Is Unknown?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the time of the future judgment is not unknown. For just as the holy Fathers looked forward to the first coming, so do we look forward to the second. But the holy Fathers knew the time of the first coming, as proved by the number of weeks mentioned in Daniel 9: wherefore the Jews are reproached for not knowing the time of Christ's coming (Lk. 12:56): "You hypocrites, you know how to discern the face of the heaven and of the earth, but how is it that you do not discern this time?" Therefore it would seem that the time of the second coming when God will come to judgment should also be certified to us.
 
@@ -63,13 +63,13 @@ Objection 3: Further, the Apostle says (1 Cor. 10:11): "It is on us [*'These thi
 
 Objection 4: Further, there is no need for the time of the judgment to be hidden, except that each one may be careful to prepare himself for judgment, being in ignorance of the appointed time. Yet the same care would still be necessary even were the time known for certain, because each one is uncertain about the time of his death, of which Augustine says (Ep. ad Hesych. cxcix) that "as each one's last day finds him, so will the world's last day find him." Therefore there is no necessity for the time of the judgment to be uncertain.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mk. 13:32): "Of that day or hour no man knoweth, neither the angels in heaven, nor the Son, but the Father." The Son, however, is said not to know in so far as He does not impart the knowledge to us.
 
 I answer that, God is the cause of things by His knowledge [*Cf. [5107]FP, Q[14], A[8]]. Now He communicates both these things to His creatures, since He both endows some with the power of action on others whereof they are the cause, and bestows on some the knowledge of things. But in both cases He reserves something to Himself, for He operates certain things wherein no creature co-operates with Him, and again He knows certain things which are unknown to any mere creature. Now this should apply to none more than to those things which are subject to the Divine power alone, and in which no creature co-operates with Him. Such is the end of the world when the day of judgment will come. For the world will come to an end by no created cause, even as it derived its existence immediately from God. Wherefore the knowledge of the end of the world is fittingly reserved to God. Indeed our Lord seems to assign this very reason when He said (Acts 1:7): "It is not for you to know the times or moments which the Father hath put in His own power," as though He were to say, "which are reserved to His power alone."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: At His first coming Christ came secretly according to Is. 45:15, "Verily Thou art a hidden God, the God of Israel, the Saviour." Hence, that He might be recognized by believers, it was necessary for the time to be fixed beforehand with certainty. On the other hand, at the second coming, He will come openly, according to Ps. 49:3, "God shall come manifestly." Consequently there can be no error affecting the knowledge of His coming. Hence the comparison fails.
 
@@ -78,9 +78,9 @@ Reply to Objection 2: As Augustine says, in his letter to Hesychius concerning t
 Reply to Objection 3: The statement, "It is the last hour" and similar expressions that are to be found in Scripture do not enable us to know the exact length of time. For they are not intended to indicate a short length of time, but to signify the last state of the world, which is the last age of all, and it is not stated definitely how long this will last. Thus neither is fixed duration appointed to old age, which is the last age of man, since sometimes it is seen to last as long as or even longer than all the previous ages, as Augustine remarks (Qq. 83, qu. lviii). Hence also the Apostle (2 Thess. 2:2) disclaims the false signification which some had given to his words, by believing that the day of the Lord was already at hand.
 
 Reply to Objection 4: Notwithstanding the uncertainty of death, the uncertainty of the judgment conduces to watchfulness in two ways. First, as regards the thing ignored, since its delay is equal to the length of man's life, so that on either side uncertainty provokes him to greater care. Secondly, for the reason that a man is careful not only of his own person, but also of his family, or of his city or kingdom, or of the whole Church, the length of whose duration is not dependent on the length of man's life. And yet it behooves each of these to be so ordered that the day of the Lord find us not unprepared.
-## Whether The Judgment Will Take Place In The Valley Of Josaphat?
+### Whether The Judgment Will Take Place In The Valley Of Josaphat?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the judgment will not take place in the valley of Josaphat or in the surrounding locality. For at least it will be necessary for those to be judged to stand on the ground, and those alone to be raised aloft whose business it will be to judge. But the whole land of promise would not be able to contain the multitude of those who are to be judged. Therefore it is impossible for the judgment to take place in the neighborhood of that valley.
 
@@ -88,13 +88,13 @@ Objection 2: Further, to Christ in His human form judgment is given that He may 
 
 Objection 3: Further, clouds result from the exhalation of vapors. But then there will be no evaporation or exhalation. Therefore it will be impossible for the just to be "taken up . . . in the clouds to meet Christ, into the air": and consequently it will be necessary for both good and wicked to be on the earth, so that a much larger place than this valley will be required.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Joel 3:2): "I will gather together all nations and will bring them down into the valley of Josaphat, and I will plead with them there."
 
 I answer that, We cannot know with any great certainty the manner in which this judgment will take place, nor how men will gather together to the place of judgment; but it may be gathered from Scripture that in all probability He will descend in the neighborhood of Mount Olivet, even as He ascended from there, so as to show that He who descends is the same as He who ascended.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A great multitude can be enclosed in a small space. And all that is required is that in the neighborhood of that locality there be a space, however great, to contain the multitude of those who are to be judged, provided that Christ can be seen thence since being raised in the air, and shining with exceeding glory, He will be visible from a great distance.
 

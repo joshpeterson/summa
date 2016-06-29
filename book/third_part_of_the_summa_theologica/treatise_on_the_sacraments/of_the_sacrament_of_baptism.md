@@ -13,9 +13,9 @@ We have now to consider each sacrament specially: (1) Baptism; (2) Confirmation;
 (10) Of the Baptismal rite;
 (11) Of the various kinds of Baptism;
 (12) Of the comparison between various Baptisms.
-## Whether Baptism Is The Mere Washing?
+### Whether Baptism Is The Mere Washing?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that Baptism is not the mere washing. For the washing of the body is something transitory: but Baptism is something permanent. Therefore Baptism is not the mere washing; but rather is it "the regeneration, the seal, the safeguarding, the enlightenment," as Damascene says (De Fide Orth. iv).
 
@@ -23,7 +23,7 @@ Objection 2: Further, Hugh of St. Victor says (De Sacram. ii) that "Baptism is w
 
 Objection 3: Further, Augustine says (Tract. lxxx super Joan.): "The word is added to the element, and this becomes a sacrament." Now, the element is the water. Therefore Baptism is the water and not the washing.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ecclus. 34:30): "He that washeth himself [baptizatur] after touching the dead, if he touch him again, what does his washing avail?" It seems, therefore, that Baptism is the washing or bathing.
 
@@ -33,16 +33,16 @@ But this is not true. For since the sacraments of the New Law effect a certain s
 
 The Baptismal character is both reality and sacrament: because it is something real signified by the outward washing; and a sacramental sign of the inward justification: and this last is the reality only, in this sacrament---namely, the reality signified and not signifying.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That which is both sacrament and reality---i.e. the character---and that which is reality only---i.e. the inward justification---remain: the character remains and is indelible, as stated above ([4415]Q[63], A[5]); the justification remains, but can be lost. Consequently Damascene defined Baptism, not as to that which is done outwardly, and is the sacrament only; but as to that which is inward. Hence he sets down two things as pertaining to the character---namely, "seal" and "safeguarding"; inasmuch as the character which is called a seal, so far as itself is concerned, safeguards the soul in good. He also sets down two things as pertaining to the ultimate reality of the sacrament---namely, "regeneration" which refers to the fact that man by being baptized begins the new life of righteousness; and "enlightenment," which refers especially to faith, by which man receives spiritual life, according to Habac 2 (Heb. 10:38; cf. Habac 2:4): "But (My) just man liveth by faith"; and Baptism is a sort of protestation of faith; whence it is called the "Sacrament of Faith." Likewise Dionysius defined Baptism by its relation to the other sacraments, saying (Eccl. Hier. ii) that it is "the principle that forms the habits of the soul for the reception of those most holy words and sacraments"; and again by its relation to heavenly glory, which is the universal end of all the sacraments, when he adds, "preparing the way for us, whereby we mount to the repose of the heavenly kingdom"; and again as to the beginning of spiritual life, when he adds, "the conferring of our most sacred and Godlike regeneration."
 
 Reply to Objection 2: As already stated, the opinion of Hugh of St. Victor on this question is not to be followed. Nevertheless the saying that "Baptism is water" may be verified in so far as water is the material principle of Baptism: and thus there would be "causal predication."
 
 Reply to Objection 3: When the words are added, the element becomes a sacrament, not in the element itself, but in man, to whom the element is applied, by being used in washing him. Indeed, this is signified by those very words which are added to the element, when we say: "I baptize thee," etc.
-## Whether Baptism Was Instituted After Christ's Passion?
+### Whether Baptism Was Instituted After Christ's Passion?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that Baptism was instituted after Christ's Passion. For the cause precedes the effect. Now Christ's Passion operates in the sacraments of the New Law. Therefore Christ's Passion precedes the institution of the sacraments of the New Law: especially the sacrament of Baptism since the Apostle says (Rom. 6:3): "All we, who are baptized in Christ Jesus, are baptized in His death," etc.
 
@@ -50,22 +50,22 @@ Objection 2: Further, the sacraments of the New Law derive their efficacy from t
 
 Objection 3: Further, Baptism is a necessary sacrament, as stated above ([4416]Q[65] , A[4]): wherefore, seemingly, it must have been binding on man as soon as it was instituted. But before Christ's Passion men were not bound to be baptized: for Circumcision was still in force, which was supplanted by Baptism. Therefore it seems that Baptism was not instituted before Christ's Passion.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says in a sermon on the Epiphany (Append. Serm., clxxxv): "As soon as Christ was plunged into the waters, the waters washed away the sins of all." But this was before Christ's Passion. Therefore Baptism was instituted before Christ's Passion.
 
 I answer that, As stated above ([4417]Q[62], A[1]), sacraments derive from their institution the power of conferring grace. Wherefore it seems that a sacrament is then instituted, when it receives the power of producing its effect. Now Baptism received this power when Christ was baptized. Consequently Baptism was truly instituted then, if we consider it as a sacrament. But the obligation of receiving this sacrament was proclaimed to mankind after the Passion and Resurrection. First, because Christ's Passion put an end to the figurative sacraments, which were supplanted by Baptism and the other sacraments of the New Law. Secondly, because by Baptism man is "made conformable" to Christ's Passion and Resurrection, in so far as he dies to sin and begins to live anew unto righteousness. Consequently it behooved Christ to suffer and to rise again, before proclaiming to man his obligation of conforming himself to Christ's Death and Resurrection.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Even before Christ's Passion, Baptism, inasmuch as it foreshadowed it, derived its efficacy therefrom; but not in the same way as the sacraments of the Old Law. For these were mere figures: whereas Baptism derived the power of justifying from Christ Himself, to Whose power the Passion itself owed its saving virtue.
 
 Reply to Objection 2: It was not meet that men should be restricted to a number of figures by Christ, Who came to fulfil and replace the figure by His reality. Therefore before His Passion He did not make Baptism obligatory as soon as it was instituted; but wished men to become accustomed to its use; especially in regard to the Jews, to whom all things were figurative, as Augustine says (Contra Faust. iv). But after His Passion and Resurrection He made Baptism obligatory, not only on the Jews, but also on the Gentiles, when He gave the commandment: "Going, teach ye all nations."
 
 Reply to Objection 3: Sacraments are not obligatory except when we are commanded to receive them. And this was not before the Passion, as stated above. For our Lord's words to Nicodemus (Jn. 3:5), "Unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God, seem to refer to the future rather than to the present."
-## Whether Water Is The Proper Matter Of Baptism?
+### Whether Water Is The Proper Matter Of Baptism?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that water is not the proper matter of Baptism. For Baptism, according to Dionysius (Eccl. Hier. v) and Damascene (De Fide Orth. iv), has a power of enlightening. But enlightenment is a special characteristic of fire. Therefore Baptism should be conferred with fire rather than with water: and all the more since John the Baptist said when foretelling Christ's Baptism (Mat. 3:11): "He shall baptize you in the Holy Ghost and fire."
 
@@ -77,7 +77,7 @@ Objection 4: Further, as Augustine (cf. Master of the Sentences, iv, 3) and Bede
 
 Objection 5: Further, if water, as such, were the proper matter of Baptism, there would be no need to do anything to the water before using it for Baptism. But in solemn Baptism the water which is used for baptizing, is exorcized and blessed. Therefore it seems that water, as such, is not the proper matter of Baptism.
 
-### Answer
+**Answer**
 
 On the contrary, our Lord said (Jn. 3:5): "Unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God."
 
@@ -89,7 +89,7 @@ Thirdly, because it is suitable for the signification of the mysteries of Christ
 
 Fourthly, because by being so universal and abundant, it is a matter suitable to our need of this sacrament: for it can easily be obtained everywhere.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Fire enlightens actively. But he who is baptized does not become an enlightener, but is enlightened by faith, which "cometh by hearing" (Rom. 10:17). Consequently water is more suitable, than fire, for Baptism.
 
@@ -100,9 +100,9 @@ Reply to Objection 3: Water flowed from Christ's side to wash us; blood, to rede
 Reply to Objection 4: Christ's power flowed into all waters, by reason of, not connection of place, but likeness of species, as Augustine says in a sermon on the Epiphany (Append. Serm. cxxxv): "The blessing that flowed from the Saviour's Baptism, like a mystic river, swelled the course of every stream, and filled the channels of every spring."
 
 Reply to Objection 5: The blessing of the water is not essential to Baptism, but belongs to a certain solemnity, whereby the devotion of the faithful is aroused, and the cunning of the devil hindered from impeding the baptismal effect.
-## Whether Plain Water Is Necessary For Baptism?
+### Whether Plain Water Is Necessary For Baptism?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that plain water is not necessary for Baptism. For the water which we have is not plain water; as appears especially in sea-water, in which there is a considerable proportion of the earthly element, as the Philosopher shows (Meteor. ii). Yet this water may be used for Baptism. Therefore plain and pure water is not necessary for Baptism.
 
@@ -114,7 +114,7 @@ Objection 4: Further, lye does not seem to be pure water, for it has the propert
 
 Objection 5: Further, rose-water is distilled from roses, just as chemical waters are distilled from certain bodies. But seemingly, such like waters may be used in Baptism; just as rain-water, which is distilled from vapors. Since, therefore, such waters are not pure and plain water, it seems that pure and plain water is not necessary for Baptism.
 
-### Answer
+**Answer**
 
 On the contrary, The proper matter of Baptism is water, as stated above [4419](A[3]). But plain water alone has the nature of water. Therefore pure plain water is necessary for Baptism.
 
@@ -126,7 +126,7 @@ But if the change be natural, sometimes it destroys the nature of the water; and
 
 We must therefore say that any water may be used for Baptism, no matter how much it may be changed, as long as the species of water is not destroyed; but if the species of water be destroyed, it cannot be used for Baptism.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The change in sea-water and in other waters which we have to hand, is not so great as to destroy the species of water. And therefore such waters may be used for Baptism.
 
@@ -137,9 +137,9 @@ Reply to Objection 3: The water which flowed from the side of Christ hanging on 
 Reply to Objection 4: Baptism may be conferred with lye and the waters of Sulphur Baths: because such like waters are not incorporated, artificially or naturally, with certain mixed bodies, and suffer only a certain alteration by passing through certain bodies.
 
 Reply to Objection 5: Rose-water is a liquid distilled from roses: consequently it cannot be used for Baptism. For the same reason chemical waters cannot be used, as neither can wine. Nor does the comparison hold with rain-water, which for the most part is formed by the condensing of vapors, themselves formed from water, and contains a minimum of the liquid matter from mixed bodies; which liquid matter by the force of nature, which is stronger than art, is transformed in this process of condensation into real water, a result which cannot be produced artificially. Consequently rain-water retains no properties of any mixed body; which cannot be said of rose-water or chemical waters.
-## Whether This Be A Suitable Form Of Baptism: "I Baptize Thee In The Name Of The Father, And Of The Son, And Of The Holy Ghost"?
+### Whether This Be A Suitable Form Of Baptism: "I Baptize Thee In The Name Of The Father, And Of The Son, And Of The Holy Ghost"?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that this is not a suitable form of Baptism: "I baptize thee in the name of the Father, and of the Son, and of the Holy Ghost." For action should be ascribed to the principal agent rather than to the minister. Now the minister of a sacrament acts as an instrument, as stated above ([4420]Q[64], A[1]); while the principal agent in Baptism is Christ, according to Jn. 1:33, "He upon Whom thou shalt see the Spirit descending and remaining upon Him, He it is that baptizeth." It is therefore unbecoming for the minister to say, "I baptize thee": the more so that "Ego" [I] is understood in the word "baptizo" [I baptize], so that it seems redundant.
 
@@ -155,13 +155,13 @@ Objection 6: Further, a name signifies a thing's property. But there are three P
 
 Objection 7: Further, the Person of the Father is designated not only by the name Father, but also by that of "Unbegotten and Begetter"; and the Son by those of "Word," "Image," and "Begotten"; and the Holy Ghost by those of "Gift," "Love," and the "Proceeding One." Therefore it seems that Baptism is valid if conferred in these names.
 
-### Answer
+**Answer**
 
 On the contrary, our Lord said (Mat. 28:19): "Going . . . teach ye all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost."
 
 I answer that, Baptism receives its consecration from its form, according to Eph. 5:26: "Cleansing it by the laver of water in the word of life." And Augustine says (De Unico Baptismo iv) that "Baptism is consecrated by the words of the Gospel." Consequently the cause of Baptism needs to be expressed in the baptismal form. Now this cause is twofold; the principal cause from which it derives its virtue, and this is the Blessed Trinity; and the instrumental cause, viz. the minister who confers the sacrament outwardly. Wherefore both causes should be expressed in the form of Baptism. Now the minister is designated by the words, "I baptize thee"; and the principal cause in the words, "in the name of the Father, and of the Son, and of the Holy Ghost." Therefore this is the suitable form of Baptism: "I baptize thee in the name of the Father, and of the Son, and of the Holy Ghost."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Action is attributed to an instrument as to the immediate agent; but to the principal agent inasmuch as the instrument acts in virtue thereof. Consequently it is fitting that in the baptismal form the minister should be mentioned as performing the act of baptizing, in the words, "I baptize thee"; indeed, our Lord attributed to the ministers the act of baptizing, when He said: "Baptizing them," etc. But the principal cause is indicated as conferring the sacrament by His own power, in the words, "in the name of the Father, and of the Son, and of the Holy Ghost": for Christ does not baptize without the Father and the Holy Ghost.
 
@@ -176,9 +176,9 @@ Reply to Objection 5: Although Christ's Passion is the principal cause as compar
 Reply to Objection 6: Although there are three personal names of the three Persons, there is but one essential name. Now the Divine power which works in Baptism, pertains to the Essence; and therefore we say, "in the name," and not, "in the names."
 
 Reply to Objection 7: Just as water is used in Baptism, because it is more commonly employed in washing, so for the purpose of designating the three Persons, in the form of Baptism, those names are chosen, which are generally used, in a particular language, to signify the Persons. Nor is the sacrament valid if conferred in any other names.
-## Whether Baptism Can Be Conferred In The Name Of Christ?
+### Whether Baptism Can Be Conferred In The Name Of Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that Baptism can be conferred in the name of Christ. For just as there is "one Faith," so is there "one Baptism" (Eph. 4:5). But it is related (Acts 8:12) that "in the name of Jesus Christ they were baptized, both men and women." Therefore now also can Baptism be conferred in the name of Christ.
 
@@ -186,7 +186,7 @@ Objection 2: Further, Ambrose says (De Spir. Sanct. i): "If you mention Christ, 
 
 Objection 3: Further, Pope Nicholas I, answering questions put to him by the Bulgars, said: "Those who have been baptized in the name of the Trinity, or only in the name of Christ, as we read in the Acts of the Apostles (it is all the same, as Blessed Ambrose saith), must not be rebaptized." But they would be baptized again if they had not been validly baptized with that form. Therefore Baptism can be celebrated in the name of Christ by using this form: "I baptize thee in the name of Christ."
 
-### Answer
+**Answer**
 
 On the contrary, Pope Pelagius II wrote to the Bishop Gaudentius: "If any people living in your Worship's neighborhood, avow that they have been baptized in the name of the Lord only, without any hesitation baptize them again in the name of the Blessed Trinity, when they come in quest of the Catholic Faith." Didymus, too, says (De Spir. Sanct.): "If indeed there be such a one with a mind so foreign to faith as to baptize while omitting one of the aforesaid names," viz. of the three Persons, "he baptizes invalidly."
 
@@ -194,16 +194,16 @@ I answer that, As stated above ([4422]Q[64], A[3]), the sacraments derive their 
 
 Nor does it matter that in the name of one Person another is implied, as the name of the Son is implied in that of the Father, or that he who mentions the name of only one Person may believe aright in the Three; because just as a sacrament requires sensible matter, so does it require a sensible form. Hence, for the validity of the sacrament it is not enough to imply or to believe in the Trinity, unless the Trinity be expressed in sensible words. For this reason at Christ's Baptism, wherein was the source of the sanctification of our Baptism, the Trinity was present in sensible signs: viz. the Father in the voice, the Son in the human nature, the Holy Ghost in the dove.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It was by a special revelation from Christ that in the primitive Church the apostles baptized in the name of Christ; in order that the name of Christ, which was hateful to Jews and Gentiles, might become an object of veneration, in that the Holy Ghost was given in Baptism at the invocation of that Name.
 
 Reply to Objection 2: Ambrose here gives this reason why exception could, without inconsistency, be allowed in the primitive Church; namely, because the whole Trinity is implied in the name of Christ, and therefore the form prescribed by Christ in the Gospel was observed in its integrity, at least implicitly.
 
 Reply to Objection 3: Pope Nicolas confirms his words by quoting the two authorities given in the preceding objections: wherefore the answer to this is clear from the two solutions given above.
-## Whether Immersion In Water Is Necessary For Baptism?
+### Whether Immersion In Water Is Necessary For Baptism?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that immersion in water is necessary for Baptism. Because it is written (Eph. 4:5): "One faith, one baptism." But in many parts of the world the ordinary way of baptizing is by immersion. Therefore it seems that there can be no Baptism without immersion.
 
@@ -211,22 +211,22 @@ Objection 2: Further, the Apostle says (Rom. 6:3,4): "All we who are baptized in
 
 Objection 3: Further, if Baptism is valid without total immersion of the body, it would follow that it would be equally sufficient to pour water over any part of the body. But this seems unreasonable; since original sin, to remedy which is the principal purpose of Baptism, is not in only one part of the body. Therefore it seems that immersion is necessary for Baptism, and that mere sprinkling is not enough.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 10:22): "Let us draw near with a true heart in fulness of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with clean water."
 
 I answer that, In the sacrament of Baptism water is put to the use of a washing of the body, whereby to signify the inward washing away of sins. Now washing may be done with water not only by immersion, but also by sprinkling or pouring. And, therefore, although it is safer to baptize by immersion, because this is the more ordinary fashion, yet Baptism can be conferred by sprinkling or also by pouring, according to Ezech. 36:25: "I will pour upon you clean water," as also the Blessed Lawrence is related to have baptized. And this especially in cases of urgency: either because there is a great number to be baptized, as was clearly the case in Acts 2 and 4, where we read that on one day three thousand believed, and on another five thousand: or through there being but a small supply of water, or through feebleness of the minister, who cannot hold up the candidate for Baptism; or through feebleness of the candidate, whose life might be endangered by immersion. We must therefore conclude that immersion is not necessary for Baptism.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: What is accidental to a thing does not diversify its essence. Now bodily washing with water is essential to Baptism: wherefore Baptism is called a "laver," according to Eph. 5:26: "Cleansing it by the laver of water in the word of life." But that the washing be done this or that way, is accidental to Baptism. And consequently such diversity does not destroy the oneness of Baptism.
 
 Reply to Objection 2: Christ's burial is more clearly represented by immersion: wherefore this manner of baptizing is more frequently in use and more commendable. Yet in the other ways of baptizing it is represented after a fashion, albeit not so clearly; for no matter how the washing is done, the body of a man, or some part thereof, is put under water, just as Christ's body was put under the earth.
 
 Reply to Objection 3: The principal part of the body, especially in relation to the exterior members, is the head, wherein all the senses, both interior and exterior, flourish. And therefore, if the whole body cannot be covered with water, because of the scarcity of water, or because of some other reason, it is necessary to pour water over the head, in which the principle of animal life is made manifest.
-## Whether Trine Immersion Is Essential To Baptism?
+### Whether Trine Immersion Is Essential To Baptism?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that trine immersion is essential to Baptism. For Augustine says in a sermon on the Symbol, addressed to the Neophytes: "Rightly were you dipped three times, since you were baptized in the name of the Trinity. Rightly were you dipped three times, because you were baptized in the name of Jesus Christ, Who on the third day rose again from the dead. For that thrice repeated immersion reproduces the burial of the Lord by which you were buried with Christ in Baptism." Now both seem to be essential to Baptism, namely, that in Baptism the Trinity of Persons should be signified, and that we should be conformed to Christ's burial. Therefore it seems that trine immersion is essential to Baptism.
 
@@ -234,22 +234,22 @@ Objection 2: Further, the sacraments derive their efficacy from Christ's mandate
 
 Objection 3: Further, if trine immersion be not essential to Baptism, it follows that the sacrament of Baptism is conferred at the first immersion; so that if a second or third immersion be added, it seems that Baptism is conferred a second or third time. which is absurd. Therefore one immersion does not suffice for the sacrament of Baptism, and trine immersion is essential thereto.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory wrote to the Bishop Leander: "It cannot be in any way reprehensible to baptize an infant with either a trine or a single immersion: since the Trinity can be represented in the three immersions, and the unity of the Godhead in one immersion."
 
 
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Trinity acts as principal agent in Baptism. Now the likeness of the agent enters into the effect, in regard to the form and not in regard to the matter. Wherefore the Trinity is signified in Baptism by the words of the form. Nor is it essential for the Trinity to be signified by the manner in which the matter is used; although this is done to make the signification clearer.
 
 Reply to Objection 2: Pope Pelagius understood the trine immersion to be ordained by Christ in its equivalent; in the sense that Christ commanded Baptism to be conferred "in the name of the Father, and of the Son, and of the Holy Ghost." Nor can we argue from the form to the use of the matter, as stated above (ad 1).
 
 Reply to Objection 3: As stated above ([4424]Q[64], A[8]), the intention is essential to Baptism. Consequently, one Baptism results from the intention of the Church's minister, who intends to confer one Baptism by a trine immersion. Wherefore Jerome says on Eph. 4:5,6: "Though the Baptism," i.e. the immersion, "be thrice repeated, on account of the mystery of the Trinity, yet it is reputed as one Baptism."
-## Whether Baptism May Be Reiterated?
+### Whether Baptism May Be Reiterated?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that Baptism may be reiterated. For Baptism was instituted, seemingly, in order to wash away sins. But sins are reiterated. Therefore much more should Baptism be reiterated: because Christ's mercy surpasses man's guilt.
 
@@ -261,7 +261,7 @@ Objection 4: Further, Baptism is necessary for salvation. But sometimes there is
 
 Objection 5: Further, the Eucharist is a more perfect sacrament than Baptism, as stated above ([4425]Q[65], A[3]). But the sacrament of the Eucharist is reiterated. Much more reason, therefore, is there for Baptism to be reiterated.
 
-### Answer
+**Answer**
 
 On the contrary, It is written, (Eph. 4:5): "One faith, one Baptism."
 
@@ -275,7 +275,7 @@ Thirdly, because Baptism imprints a character, which is indelible, and is confer
 
 Fourthly, because Baptism is conferred principally as a remedy against original sin. Wherefore, just as original sin is not renewed, so neither is Baptism reiterated, for as it is written (Rom. 5:18), "as by the offense of one, unto all men to condemnation, so also by the justice of one, unto all men to justification of life."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Baptism derives its efficacy from Christ's Passion, as stated above (A[2], ad 1). Wherefore, just as subsequent sins do not cancel the virtue of Christ's Passion, so neither do they cancel Baptism, so as to call for its repetition. on the other hand the sin which hindered the effect of Baptism is blotted out on being submitted to Penance.
 
@@ -286,9 +286,9 @@ Reply to Objection 3: The Paulianists and Cataphrygians used not to baptize in t
 Reply to Objection 4: According to the Decretal of Alexander III: "Those about whose Baptism there is a doubt are to be baptized with these words prefixed to the form: 'If thou art baptized, I do not rebaptize thee; but if thou art not baptized, I baptize thee,' etc.: for that does not appear to be repeated, which is not known to have been done."
 
 Reply to Objection 5: Both sacraments, viz. Baptism and the Eucharist, are a representation of our Lord's death and Passion, but not in the same way. For Baptism is a commemoration of Christ's death in so far as man dies with Christ, that he may be born again into a new life. But the Eucharist is a commemoration of Christ's death, in so far as the suffering Christ Himself is offered to us as the Paschal banquet, according to 1 Cor. 5:7,8: "Christ our pasch is sacrificed; therefore let us feast." And forasmuch as man is born once, whereas he eats many times, so is Baptism given once, but the Eucharist frequently.
-## Whether The Church Observes A Suitable Rite In Baptizing?
+### Whether The Church Observes A Suitable Rite In Baptizing?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the Church observes an unsuitable rite in baptizing. For as Chrysostom (Chromatius, in Matth. 3:15) says: "The waters of Baptism would never avail to purge the sins of them that believe, had they not been hallowed by the touch of our Lord's body." Now this took place at Christ's Baptism, which is commemorated in the Feast of the Epiphany. Therefore solemn Baptism should be celebrated at the Feast of the Epiphany rather than on the eves of Easter and Whitsunday.
 
@@ -298,7 +298,7 @@ Objection 3: Further, "in Christ Jesus . . . there is neither male nor female" (
 
 Objection 4: Further, Baptism can be celebrated without such like ceremonies. Therefore it seems that those mentioned above are superfluous; and consequently that they are unsuitably inserted by the Church in the baptismal rite.
 
-### Answer
+**Answer**
 
 On the contrary, The Church is ruled by the Holy Ghost, Who does nothing inordinate.
 
@@ -310,7 +310,7 @@ Secondly, for the instruction of the faithful. Because simple and unlettered fol
 
 Thirdly, because the power of the devil is restrained, by prayers, blessings, and the like, from hindering the sacramental effect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ was baptized on the Epiphany with the Baptism of John, as stated above ([4426]Q[39], A[2]), with which baptism, indeed, the faithful are not baptized, rather are they baptized with Christ's Baptism. This has its efficacy from the Passion of Christ, according to Rom. 6:3: "We who are baptized in Christ Jesus, are baptized in His death"; and in the Holy Ghost, according to Jn. 3:5: "Unless a man be born again of water and the Holy Ghost." Therefore it is that solemn Baptism is held in the Church, both on Easter Eve, when we commemorate our Lord's burial and resurrection; for which reason our Lord gave His disciples the commandment concerning Baptism as related by Matthew (28:19): and on Whitsun-eve, when the celebration of the Feast of the Holy Ghost begins; for which reason the apostles are said to have baptized three thousand on the very day of Pentecost when they had received the Holy Ghost.
 
@@ -319,9 +319,9 @@ Reply to Objection 2: The use of water in Baptism is part of the substance of th
 Reply to Objection 3: This white garment is given, not as though it were unlawful for the neophyte to use others: but as a sign of the glorious resurrection, unto which men are born again by Baptism; and in order to designate the purity of life, to which he will be bound after being baptized, according to Rom. 6:4: "That we may walk in newness of life."
 
 Reply to Objection 4: Although those things that belong to the solemnity of a sacrament are not essential to it, yet are they not superfluous, since they pertain to the sacrament's wellbeing, as stated above.
-## Whether Three Kinds Of Baptism Are Fittingly Described---viz. Baptism Of Water, Of Blood, And Of The Spirit?
+### Whether Three Kinds Of Baptism Are Fittingly Described---viz. Baptism Of Water, Of Blood, And Of The Spirit?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the three kinds of Baptism are not fittingly described as Baptism of Water, of Blood, and of the Spirit, i.e. of the Holy Ghost. Because the Apostle says (Eph. 4:5): "One Faith, one Baptism." Now there is but one Faith. Therefore there should not be three Baptisms.
 
@@ -329,22 +329,22 @@ Objection 2: Further, Baptism is a sacrament, as we have made clear above ([4427
 
 Objection 3: Further, Damascene (De Fide Orth. iv) distinguishes several other kinds of Baptism. Therefore we should admit more than three Baptisms.
 
-### Answer
+**Answer**
 
 On the contrary, on Heb. 6:2, "Of the doctrine of Baptisms," the gloss says: "He uses the plural, because there is Baptism of Water, of Repentance, and of Blood."
 
 I answer that, As stated above ([4428]Q[62], A[5]), Baptism of Water has its efficacy from Christ's Passion, to which a man is conformed by Baptism, and also from the Holy Ghost, as first cause. Now although the effect depends on the first cause, the cause far surpasses the effect, nor does it depend on it. Consequently, a man may, without Baptism of Water, receive the sacramental effect from Christ's Passion, in so far as he is conformed to Christ by suffering for Him. Hence it is written (Apoc. 7:14): "These are they who are come out of great tribulation, and have washed their robes and have made them white in the blood of the Lamb." In like manner a man receives the effect of Baptism by the power of the Holy Ghost, not only without Baptism of Water, but also without Baptism of Blood: forasmuch as his heart is moved by the Holy Ghost to believe in and love God and to repent of his sins: wherefore this is also called Baptism of Repentance. Of this it is written (Is. 4:4): "If the Lord shall wash away the filth of the daughters of Zion, and shall wash away the blood of Jerusalem out of the midst thereof, by the spirit of judgment, and by the spirit of burning." Thus, therefore, each of these other Baptisms is called Baptism, forasmuch as it takes the place of Baptism. Wherefore Augustine says (De Unico Baptismo Parvulorum iv): "The Blessed Cyprian argues with considerable reason from the thief to whom, though not baptized, it was said: 'Today shalt thou be with Me in Paradise' that suffering can take the place of Baptism. Having weighed this in my mind again and again, I perceive that not only can suffering for the name of Christ supply for what was lacking in Baptism, but even faith and conversion of heart, if perchance on account of the stress of the times the celebration of the mystery of Baptism is not practicable."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The other two Baptisms are included in the Baptism of Water, which derives its efficacy, both from Christ's Passion and from the Holy Ghost. Consequently for this reason the unity of Baptism is not destroyed.
 
 Reply to Objection 2: As stated above ([4429]Q[60], A[1]), a sacrament is a kind of sign. The other two, however, are like the Baptism of Water, not, indeed, in the nature of sign, but in the baptismal effect. Consequently they are not sacraments.
 
 Reply to Objection 3: Damascene enumerates certain figurative Baptisms. For instance, "the Deluge" was a figure of our Baptism, in respect of the salvation of the faithful in the Church; since then "a few . . . souls were saved in the ark [Vulg.: 'by water']," according to 1 Pet. 3:20. He also mentions "the crossing of the Red Sea": which was a figure of our Baptism, in respect of our delivery from the bondage of sin; hence the Apostle says (1 Cor. 10:2) that "all . . . were baptized in the cloud and in the sea." And again he mentions "the various washings which were customary under the Old Law," which were figures of our Baptism, as to the cleansing from sins: also "the Baptism of John," which prepared the way for our Baptism.
-## Whether The Baptism Of Blood Is The Most Excellent Of These?
+### Whether The Baptism Of Blood Is The Most Excellent Of These?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the Baptism of Blood is not the most excellent of these three. For the Baptism of Water impresses a character; which the Baptism of Blood cannot do. Therefore the Baptism of Blood is not more excellent than the Baptism of Water.
 
@@ -352,13 +352,13 @@ Objection 2: Further, the Baptism of Blood is of no avail without the Baptism of
 
 Objection 3: Further, just as the Baptism of Water derives its efficacy from Christ's Passion, to which, as stated above [4430](A[11]), the Baptism of Blood corresponds, so Christ's Passion derives its efficacy from the Holy Ghost, according to Heb. 9:14: "The Blood of Christ, Who by the Holy Ghost offered Himself unspotted unto God, shall cleanse our conscience from dead works," etc. Therefore the Baptism of the Spirit is more excellent than the Baptism of Blood. Therefore the Baptism of Blood is not the most excellent.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine (Ad Fortunatum) speaking of the comparison between Baptisms says: "The newly baptized confesses his faith in the presence of the priest: the martyr in the presence of the persecutor. The former is sprinkled with water, after he has confessed; the latter with his blood. The former receives the Holy Ghost by the imposition of the bishop's hands; the latter is made the temple of the Holy Ghost."
 
 I answer that, As stated above [4431](A[11]), the shedding of blood for Christ's sake, and the inward operation of the Holy Ghost, are called baptisms, in so far as they produce the effect of the Baptism of Water. Now the Baptism of Water derives its efficacy from Christ's Passion and from the Holy Ghost, as already stated [4432](A[11]). These two causes act in each of these three Baptisms; most excellently, however, in the Baptism of Blood. For Christ's Passion acts in the Baptism of Water by way of a figurative representation; in the Baptism of the Spirit or of Repentance, by way of desire. but in the Baptism of Blood, by way of imitating the (Divine) act. In like manner, too, the power of the Holy Ghost acts in the Baptism of Water through a certain hidden power. in the Baptism of Repentance by moving the heart; but in the Baptism of Blood by the highest degree of fervor of dilection and love, according to Jn. 15:13: "Greater love than this no man hath that a man lay down his life for his friends."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A character is both reality and a sacrament. And we do not say that the Baptism of Blood is more excellent, considering the nature of a sacrament; but considering the sacramental effect.
 

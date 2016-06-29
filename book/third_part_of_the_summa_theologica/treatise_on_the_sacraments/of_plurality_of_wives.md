@@ -6,9 +6,9 @@ We must now consider the plurality of wives. Under this head there are five poin
 (3) Whether it is against the natural law to have a concubine?
 (4) Whether it is a mortal sin to have intercourse with a concubine?
 (5) Whether it was ever lawful to have a concubine?
-## Whether It Is Against The Natural Law To Have Several Wives?
+### Whether It Is Against The Natural Law To Have Several Wives?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not against the natural law to have several wives. For custom does not prejudice the law of nature. But "it was not a sin" to have several wives "when this was the custom," according to Augustine (De Bono Conjug. xv) as quoted in the text (Sent. iv, D, 33). Therefore it is not contrary to the natural law to have several wives.
 
@@ -28,7 +28,7 @@ Objection 8: Further, "Do not to another what thou wouldst not were done to thys
 
 Objection 9: Further, whatever is against the natural desire is contrary to the natural law. Now a husband's jealousy of his wife and the wife's jealousy of her husband are natural, for they are found in all. Therefore, since jealousy is "love impatient of sharing the beloved," it would seem to be contrary to the natural law that several wives should share one husband.
 
-### Answer
+**Answer**
 
 
 
@@ -36,7 +36,7 @@ I answer that, All natural things are imbued with certain principles whereby the
 
 Now marriage has for its principal end the begetting and rearing of children, and this end is competent to man according to his generic nature, wherefore it is common to other animals (Ethic. viii, 12), and thus it is that the "offspring" is assigned as a marriage good. But for its secondary end, as the Philosopher says (Ethic. viii, 12), it has, among men alone, the community of works that are a necessity of life, as stated above ([5011]Q[41], A[1]). And in reference to this they owe one another "fidelity" which is one of the goods of marriage. Furthermore it has another end, as regards marriage between believers, namely the signification of Christ and the Church: and thus the "sacrament" is said to be a marriage good. Wherefore the first end corresponds to the marriage of man inasmuch as he is an animal: the second, inasmuch as he is a man; the third, inasmuch as he is a believer. Accordingly plurality of wives neither wholly destroys nor in any way hinders the first end of marriage, since one man is sufficient to get children of several wives, and to rear the children born of them. But though it does not wholly destroy the second end, it hinders it considerably for there cannot easily be peace in a family where several wives are joined to one husband, since one husband cannot suffice to satisfy the requisitions of several wives, and again because the sharing of several in one occupation is a cause of strife: thus "potters quarrel with one another" [*Aristotle, Rhet. ii, 4], and in like manner the several wives of one husband. The third end, it removes altogether, because as Christ is one, so also is the Church one. It is therefore evident from what has been said that plurality of wives is in a way against the law of nature, and in a way not against it.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Custom does not prejudice the law of nature as regards the first precepts of the latter, which are like the general concepts of the mind in speculative matters. But those which are drawn like conclusions from these custom enforces, as Tully declares (De Inv. Rhet. ii), or weakens. Such is the precept of nature in the matter of having one wife.
 
@@ -49,9 +49,9 @@ Reply to Objection 7: In marriage the husband gives his wife power of his body, 
 Reply to Objection 8: This precept of the natural law, "Do not to another what thou wouldst not were done to thyself," should be understood with the proviso that there be equal proportion. For if a superior is unwilling to be withstood by his subject, he is not therefore bound not to withstand his subject. Hence it does not follow in virtue of this precept that as a husband is unwilling for his wife to have another husband, he must not have another wife: because for one man to have several wives is not contrary to the first principles of the natural law, as stated above: whereas for one wife to have several husbands is contrary to the first principles of the natural law, since thereby the good of the offspring which is the principal end of marriage is, in one respect, entirely destroyed, and in another respect hindered. For the good of the offspring means not only begetting, but also rearing. Now the begetting of offspring, though not wholly voided (since a woman may be impregnated a second time after impregnation has already taken place, as stated in De Gener. Animal. vii. 4), is nevertheless considerably hindered, because this can scarcely happen without injury either to both fetus or to one of them. But the rearing of the offspring is altogether done away, because as a result of one woman having several husbands there follows uncertainty of the offspring in relation to its father, whose care is necessary for its education. Wherefore the marriage of one wife with several husbands has not been sanctioned by any law or custom, whereas the converse has been.
 
 Reply to Objection 9: The natural inclination in the appetitive power follows the natural concept in the cognitive power. And since it is not so much opposed to the natural concept for a man to have several wives as for a wife to have several husbands, it follows that a wife's love is not so averse to another sharing the same husband with her, as a husband's love is to another sharing the same wife with him. Consequently both in man and in other animals the male is more jealous of the female than "vice versa."
-## Whether It Was Ever Lawful To Have Several Wives?
+### Whether It Was Ever Lawful To Have Several Wives?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it can never have been lawful to have several wives. For, according to the Philosopher (Ethic. v, 7), "The natural law has the same power at all times and places." Now plurality of wives is forbidden by the natural law, as stated above [5012](A[1]). Therefore as it is unlawful now, it was unlawful at all times.
 
@@ -63,13 +63,13 @@ Objection 4: Further, where there is the same reason for dispensation, the same 
 
 Objection 5: Further, in granting a dispensation the greater good should not be overlooked for the sake of a lesser good. Now fidelity and the sacrament, which it would seem impossible to safeguard in a marriage where one man is joined to several wives, are greater goods than the multiplication of the offspring. Therefore this dispensation ought not to have been granted with a view to this multiplication.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated (Gal. 3:19) that the Law "was set because of transgressors [Vulg.: 'transgressions']," namely in order to prohibit them. Now the Old Law mentions plurality of wives without any prohibition thereof, as appears from Dt. 21:15, "If a man have two wives," etc. Therefore they were not transgressors through having two wives; and so it was lawful.
 
 I answer that, As stated above (A[1], ad 7,8), plurality of wives is said to be against the natural law, not as regards its first precepts, but as regards the secondary precepts, which like conclusions are drawn from its first precepts. Since, however, human acts must needs vary according to the various conditions of persons, times, and other circumstances, the aforesaid conclusions do not proceed from the first precepts of the natural law, so as to be binding in all cases, but only in the majority. for such is the entire matter of Ethics according to the Philosopher (Ethic. i, 3,7). Hence, when they cease to be binding, it is lawful to disregard them. But because it is not easy to determine the above variations, it belongs exclusively to him from whose authority he derives its binding force to permit the non-observance of the law in those cases to which the force of the law ought not to extend, and this permission is called a dispensation. Now the law prescribing the one wife was framed not by man but by God, nor was it ever given by word or in writing, but was imprinted on the heart, like other things belonging in any way to the natural law. Consequently a dispensation in this matter could be granted by God alone through an inward inspiration, vouchsafed originally to the holy patriarchs, and by their example continued to others, at a time when it behooved the aforesaid precept not to be observed, in order to ensure the multiplication of the offspring to be brought up in the worship of God. For the principal end is ever to be borne in mind before the secondary end. Wherefore, since the good of the offspring is the principal end of marriage, it behooved to disregard for a time the impediment that might arise to the secondary ends, when it was necessary for the offspring to be multiplied; because it was for the removal of this impediment that the precept forbidding a plurality of wives was framed, as stated above [5013](A[1]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The natural law, considered in itself, has the same force at all times and places; but accidentally on account of some impediment it may vary at certain times and places, as the Philosopher (Ethic. i, 3,7) instances in the case of other natural things. For at all times and places the right hand is better than the left according to nature, but it may happen accidentally that a person is ambidextrous, because our nature is variable; and the same applies to the natural, just as the Philosopher states (Ethic. i, 3,7).
 
@@ -80,9 +80,9 @@ Reply to Objection 3: Dispensation from a law should follow the quality of the l
 Reply to Objection 4: When Christ came it was the time of the fulness of the grace of Christ, whereby the worship of God was spread abroad among all nations by a spiritual propagation. Hence there is not the same reason for a dispensation as before Christ's coming, when the worship of God was spread and safeguarded by a carnal propagation.
 
 Reply to Objection 5: The offspring, considered as one of the marriage goods, includes the keeping of faith with God, because the reason why it is reckoned a marriage good is because it is awaited with a view to its being brought up in the worship of God. Now the faith to be kept with God is of greater import than the faith to be kept with a wife, which is reckoned a marriage good, and than the signification which pertains to the sacrament, since the signification is subordinate to the knowledge of faith. Hence it is not unfitting if something is taken from the two other goods for the sake of the good of the offspring. Nor are they entirely done away, since there remains faith towards several wives; and the sacrament remains after a fashion, for though it did not signify the union of Christ with the Church as one, nevertheless the plurality of wives signified the distinction of degrees in the Church, which distinction is not only in the Church militant but also in the Church triumphant. Consequently their marriages signified somewhat the union of Christ not only with the Church militant, as some say, but also with the Church triumphant where there are "many mansions" [*Jn. 19:2].
-## Whether It Is Against The Natural Law To Have A Concubine?
+### Whether It Is Against The Natural Law To Have A Concubine?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that to have a concubine is not against the natural law. For the ceremonies of the Law are not of the natural law. But fornication is forbidden (Acts 15:29) in conjunction with ceremonies of the law which for the time were being imposed on those who were brought to the faith from among the heathens. Therefore simple fornication which is intercourse with a concubine is not against the natural law.
 
@@ -94,13 +94,13 @@ Objection 4: Further, whoever uses his own property as he will, injures no one. 
 
 Objection 5: Further, everyone may give his own property to another. Now the wife has power of her husband's body (1 Cor. 7:4). Therefore if his wife be willing, the husband can have intercourse with another woman without sin.
 
-### Answer
+**Answer**
 
 On the contrary, According to all laws the children born of a concubine are children of shame. But this would not be so unless the union of which they are born were naturally shameful.
 
 I answer that, As stated above [5015](A[1]), an action is said to be against the natural law, if it is not in keeping with the due end intended by nature, whether through not being directed thereto by the action of the agent, or through being directed thereto by the action of the agent, or through being in itself improportionate to that end. Now the end which nature intends in sexual union is the begetting and rearing of the offspring. and that this good might be sought after, it attached pleasure to the union; as Augustine says (De Nup. et Concup. i, 8). Accordingly to make use of sexual intercourse on account of its inherent pleasure, without reference to the end for which nature intended it, is to act against nature, as also is it if the intercourse be not such as may fittingly be directed to that end. And since, for the most part, things are denominated from their end, as being that which is of most consequence to them, just as the marriage union took its name from the good of the offspring [*Cf. Q[44], A[2]], which is the end chiefly sought after in marriage, so the name of concubine is expressive of that union where sexual intercourse is sought after for its own sake. Moreover even though sometimes a man may seek to have offspring of such an intercourse, this is not befitting to the good of the offspring, which signifies not only the begetting of children from which they take their being, but also their rearing and instruction, by which means they receive nourishment and learning from their parents, in respect of which three things the parents are bound to their children, according to the Philosopher (Ethic. viii, 11,12). Now since the rearing and teaching of the children remain a duty of the parents during a long period of time, the law of nature requires the father and mother to dwell together for a long time, in order that together they may be of assistance to their children. Hence birds that unite together in rearing their young do not sever their mutual fellowship from the time when they first come together until the young are fully fledged. Now this obligation which binds the female and her mate to remain together constitutes matrimony. Consequently it is evident that it is contrary to the natural law for a man to have intercourse with a woman who is not married to him, which is the signification of a concubine.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Among the Gentiles the natural law was obscured in many points: and consequently they did not think it wrong to have intercourse with a concubine, and in many cases practiced fornication as though it were lawful, as also other things contrary to the ceremonial laws of the Jews, though not contrary to the law of nature. Wherefore the apostles inserted the prohibition of fornication among that of other ceremonial observances, because in both cases there was a difference of opinion between Jews and Gentiles.
 
@@ -111,9 +111,9 @@ Reply to Objection 3: In certain cases no evil results ensue if a person surrend
 Reply to Objection 4: Injury is opposed to justice. Now the natural law forbids not only injustice, but also whatever is opposed to any of the virtues: for instance it is contrary to the natural law to eat immoderately, although by doing so a man uses his own property without injury to anyone. Moreover although a bondswoman is her master's property that she may serve him, she is not his that she may be his concubine. And again it depends how a person makes use of his property. For such a man does an injury to the offspring he begets, since such a union is not directed to its good, as stated above.
 
 Reply to Objection 5: The wife has power of her husband's body, not simply and in all respects, but only in relation to marriage, and consequently she cannot transfer her husband's body to another to the detriment of the good of marriage.
-## Whether It Is A Mortal Sin To Have Intercourse With A Concubine?
+### Whether It Is A Mortal Sin To Have Intercourse With A Concubine?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not a mortal sin to have intercourse with a concubine. For a lie is a greater sin than simple fornication: and a proof of this is that Juda, who did not abhor to commit fornication with Thamar, recoiled from telling a lie, saying (Gn. 38:23): "Surely she cannot charge us with a lie." But a lie is not always a mortal sin. Neither therefore is simple fornication.
 
@@ -123,13 +123,13 @@ Objection 3: Further, according to Gregory (Moral. xxxiii, 12), the sins of the 
 
 Objection 4: Further, where the incentive is greater the sin is less grievous, because he sins more who is overcome by a lighter temptation. But concupiscence is the greatest incentive to lust. Therefore since lustful actions are not always mortal sins, neither is simple fornication a mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, Nothing but mortal sin excludes from the kingdom of God. But fornicators are excluded from the kingdom of God (1 Cor. 6:9,10). Therefore simple fornication is a mortal sin.
 
 I answer that, As we have already stated (Sent. ii, D, 42, Q[1], A[4]), those sins are mortal in their genus which violate the bond of friendship between man and God, and between man and man; for such sins are against the two precepts of charity which is the life of the soul. Wherefore since the intercourse of fornication destroys the due relations of the parent with the offspring that is nature's aim in sexual intercourse, there can be no doubt that simple fornication by its very nature is a mortal sin even though there were no written law.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It often happens that a man who does not avoid a mortal sin, avoids a venial sin to which he has not so great an incentive. Thus, too, Juda avoided a lie while he avoided not fornication. Nevertheless that would have been a pernicious lie, for it would have involved an injury if he had not kept his promise.
 
@@ -138,9 +138,9 @@ Reply to Objection 2: A sin is called deadly, not because it is punished with te
 Reply to Objection 3: Just as not every movement of pride is a mortal sin, so neither is every movement of lust, because the first movements of lust and the like are venial sins, even sometimes marriage intercourse. Nevertheless some acts of lust are mortal sins, while some movements of pride are venial: since the words quoted from Gregory are to be understood as comparing vices in their genus and not in their particular acts.
 
 Reply to Objection 4: A circumstance is the more effective in aggravating a sin according as it comes nearer to the nature of sin. Hence although fornication is less grave on account of the greatness of its incentive, yet on account of the matter about which it is, it has a greater gravity than immoderate eating, because it is about those things which tighten the bond of human fellowship, as stated above. Hence the argument does not prove.
-## Whether It Was Ever Lawful To Have A Concubine?
+### Whether It Was Ever Lawful To Have A Concubine?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it has been sometimes lawful to have a concubine. For just as the natural law requires a man to have but one wife, so does it forbid him to have a concubine. Yet at times it has been lawful to have several wives. Therefore it has also been lawful to have a concubine.
 
@@ -148,13 +148,13 @@ Objection 2: Further, a woman cannot be at the same time a slave and a wife; whe
 
 Objection 3: Further, a woman who is taken in marriage cannot be cast out, and her son should have a share in the inheritance. Yet Abraham sent Agar away, and her son was not his heir (Gn. 21:14). Therefore she was not Abraham's wife.
 
-### Answer
+**Answer**
 
 On the contrary, Things opposed to the precepts of the decalogue were never lawful. Now to have a concubine is against a precept of the decalogue, namely, "Thou shalt not commit adultery." Therefore it was never lawful.
 
 I answer that, Rabbi Moses says (Doc. Perp. iii, 49) that before the time of the Law fornication was not a sin; and he proved his assertion from the fact that Juda had intercourse with Thamar. But this argument is not conclusive. For there is no need to excuse Jacob's sons from mortal sin, since they were accused to their father of a most wicked crime (Gn. 37:2), and consented kill Joseph and to sell him. Wherefore we must say that since it is against the natural law to have a concubine outside wedlock, as stated above [5016](A[3]), it was never lawful either in itself or by dispensation. For as we have shown (Doc. Perp. iii, 49) intercourse with a woman outside wedlock is an action improportionate to the good of the offspring which is the principal end of marriage: and consequently it is against the first precepts of the natural law which admit of no dispensation. Hence wherever in the Old Testament we read of concubines being taken by such men as we ought to excuse from mortal sin, we must needs understand them to have been taken in marriage, and yet to have been called concubines, because they had something of the character of a wife and something of the character of a concubine. In so far as marriage is directed to its principal end, which is the good of the offspring, the union of wife and husband is indissoluble or at least of a lasting nature, as shown above [5017](A[1]), and in regard to this there is no dispensation. But in regard to the secondary end, which is the management of the household and community of works, the wife is united to the husband as his mate: and this was lacking in those who were known as concubines. For in this respect a dispensation was possible, since it is the secondary end of marriage. And from this point of view they bore some resemblance to concubines, and for this reason they were known as such.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above (A[1], ad 7,8) to have several wives is not against the first precepts of the natural law, as it is to have a concubine; wherefore the argument does not prove.
 

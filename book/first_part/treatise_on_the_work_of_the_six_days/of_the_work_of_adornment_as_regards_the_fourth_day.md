@@ -4,9 +4,9 @@ We must next consider the work of adornment, first as to each day by itself, sec
 (1) As to the production of the lights;
 (2) As to the end of their production;
 (3) Whether they are living beings?
-## Whether The Lights Ought To Have Been Produced On The Fourth Day?
+### Whether The Lights Ought To Have Been Produced On The Fourth Day?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the lights ought not to have been produced on the fourth day. For the heavenly luminaries are by nature incorruptible bodies: wherefore their matter cannot exist without their form. But as their matter was produced in the work of creation, before there was any day, so therefore were their forms. It follows, then, that the lights were not produced on the fourth day.
 
@@ -18,13 +18,13 @@ Objection 4: Further, plants are an effect of the sun, moon, and other heavenly 
 
 Objection 5: Further, as astronomers say, there are many stars larger than the moon. Therefore the sun and the moon alone are not correctly described as the "two great lights."
 
-### Answer
+**Answer**
 
 On the contrary, Suffices the authority of Scripture.
 
 I answer that, In recapitulating the Divine works, Scripture says (Gn. 2:1): "So the heavens and the earth were finished and all the furniture of them," thereby indicating that the work was threefold. In the first work, that of "creation," the heaven and the earth were produced, but as yet without form. In the second, or work of "distinction," the heaven and the earth were perfected, either by adding substantial form to formless matter, as Augustine holds (Gen. ad lit. ii, 11), or by giving them the order and beauty due to them, as other holy writers suppose. To these two works is added the work of adornment, which is distinct from perfect. For the perfection of the heaven and the earth regards, seemingly, those things that belong to them intrinsically, but the adornment, those that are extrinsic, just as the perfection of a man lies in his proper parts and forms, and his adornment, in clothing or such like. Now just as distinction of certain things is made most evident by their local movement, as separating one from another; so the work of adornment is set forth by the production of things having movement in the heavens, and upon the earth. But it has been stated above ([585]Q[69], A[1]), that three things are recorded as created, namely, the heaven, the water, and the earth; and these three received their form from the three days' work of distinction, so that heaven was formed on the first day; on the second day the waters were separated; and on the third day, the earth was divided into sea and dry land. So also is it in the work of adornment; on the first day of this work, which is the fourth of creation, are produced the lights, to adorn the heaven by their movements; on the second day, which is the fifth, birds and fishes are called into being, to make beautiful the intermediate element, for they move in air and water, which are here taken as one; while on the third day, which is the sixth, animals are brought forth, to move upon the earth and adorn it. It must also here be noted that Augustine's opinion (Gen. ad lit. v, 5) on the production of lights is not at variance with that of other holy writers, since he says that they were made actually, and not merely virtually, for the firmament has not the power of producing lights, as the earth has of producing plants. Wherefore Scripture does not say: "Let the firmament produce lights," though it says: "Let the earth bring forth the green herb."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In Augustine's opinion there is no difficulty here; for he does not hold a succession of time in these works, and so there was no need for the matter of the lights to exist under another form. Nor is there any difficulty in the opinion of those who hold the heavenly bodies to be of the nature of the four elements, for it may be said that they were formed out of matter already existing, as animals and plants were formed. For those, however, who hold the heavenly bodies to be of another nature from the elements, and naturally incorruptible, the answer must be that the lights were substantially created at the beginning, but that their substance, at first formless, is formed on this day, by receiving not its substantial form, but a determination of power. As to the fact that the lights are not mentioned as existing from the beginning, but only as made on the fourth day, Chrysostom (Hom. vi in Gen.) explains this by the need of guarding the people from the danger of idolatry: since the lights are proved not to be gods, by the fact that they were not from the beginning.
 
@@ -35,9 +35,9 @@ Reply to Objection 3: According to Ptolemy the heavenly luminaries are not fixed
 Reply to Objection 4: In the words of Basil (Hom. v in Hexaem.), plants were recorded as produced before the sun and moon, to prevent idolatry, since those who believe the heavenly bodies to be gods, hold that plants originate primarily from these bodies. Although as Chrysostom remarks (Hom. vi in Gen.), the sun, moon, and stars cooperate in the work of production by their movements, as the husbandman cooperates by his labor.
 
 Reply to Objection 5: As Chrysostom says, the two lights are called great, not so much with regard to their dimensions as to their influence and power. For though the stars be of greater bulk than the moon, yet the influence of the moon is more perceptible to the senses in this lower world. Moreover, as far as the senses are concerned, its apparent size is greater.
-## Whether The Cause Assigned For The Production Of The Lights Is Reasonable?
+### Whether The Cause Assigned For The Production Of The Lights Is Reasonable?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the cause assigned for the production of the lights is not reasonable. For it is said (Jer. 10:2): "Be not afraid of the signs of heaven, which the heathens fear." Therefore the heavenly lights were not made to be signs.
 
@@ -49,13 +49,13 @@ Objection 4: Further, nothing is made for the sake of that which is inferior to 
 
 Objection 5: Further, the new moon cannot be said "to rule the night." But such it probably did when first made; for men begin to count from the new moon. The moon, therefore, was not made "to rule the night."
 
-### Answer
+**Answer**
 
 On the contrary, Suffices the authority of Scripture.
 
 I answer that, As we have said above ([588]Q[65], A[2]), a corporeal creature can be considered as made either for the sake of its proper act, or for other creatures, or for the whole universe, or for the glory of God. Of these reasons only that which points out the usefulness of these things to man, is touched upon by Moses, in order to withdraw his people from idolatry. Hence it is written (Dt. 4:19): "Lest perhaps lifting up thy eyes to heaven, thou see the sun and the moon and all the stars of heaven, and being deceived by error thou adore and serve them, which the Lord thy God created for the service of all nations." Now, he explains this service at the beginning of Genesis as threefold. First, the lights are of service to man, in regard to sight, which directs him in his works, and is most useful for perceiving objects. In reference to this he says: "Let them shine in the firmament and give life to the earth." Secondly, as regards the changes of the seasons, which prevent weariness, preserve health, and provide for the necessities of food; all of which things could not be secured if it were always summer or winter. In reference to this he says: "Let them be for seasons, and for days, and years." Thirdly, as regards the convenience of business and work, in so far as the lights are set in the heavens to indicate fair or foul weather, as favorable to various occupations. And in this respect he says: "Let them be for signs."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The lights in the heaven are set for signs of changes effected in corporeal creatures, but not of those changes which depend upon the free-will.
 
@@ -66,9 +66,9 @@ Reply to Objection 3: The general division of time into day and night took place
 Reply to Objection 4: Light was given to the earth for the service of man, who, by reason of his soul, is nobler than the heavenly bodies. Nor is it untrue to say that a higher creature may be made for the sake of a lower, considered not in itself, but as ordained to the good of the universe.
 
 Reply to Objection 5: When the moon is at its perfection it rises in the evening and sets in the morning, and thus it rules the night, and it was probably made in its full perfection as were plants yielding seed, as also were animals and man himself. For although the perfect is developed from the imperfect by natural processes, yet the perfect must exist simply before the imperfect. Augustine, however (Gen. ad lit. ii), does not say this, for he says that it is not unfitting that God made things imperfect, which He afterwards perfected.
-## Whether The Lights Of Heaven Are Living Beings?
+### Whether The Lights Of Heaven Are Living Beings?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the lights of heaven are living beings. For the nobler a body is, the more nobly it should be adorned. But a body less noble than the heaven, is adorned with living beings, with fish, birds, and the beasts of the field. Therefore the lights of heaven, as pertaining to its adornment, should be living beings also.
 
@@ -80,7 +80,7 @@ Objection 4: Further, the movement of the heaven and the heavenly bodies are nat
 
 Objection 5: Further, the first of movables is the heaven. Now, of all things that are endowed with movement the first moves itself, as is proved in Phys. viii, text. 34, because, what is such of itself precedes that which is by another. But only beings that are living move themselves, as is shown in the same book (text. 27). Therefore the heavenly bodies are living beings.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. ii), "Let no one esteem the heavens or the heavenly bodies to be living things, for they have neither life nor sense."
 
@@ -90,7 +90,7 @@ In examining the truth of this question, where such diversity of opinion exists,
 
 From what has been said, then, it is clear that the heavenly bodies are not living beings in the same sense as plants and animals, and that if they are called so, it can only be equivocally. It will also be seen that the difference of opinion between those who affirm, and those who deny, that these bodies have life, is not a difference of things but of words.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Certain things belong to the adornment of the universe by reason of their proper movement; and in this way the heavenly luminaries agree with others that conduce to that adornment, for they are moved by a living substance.
 

@@ -5,9 +5,9 @@ After considering the divine perfection we must consider the divine infinity, an
 (2) Whether anything besides Him is infinite in essence?
 (3) Whether anything can be infinitude in magnitude?
 (4) Whether an infinite multitude can exist?
-## Whether God Is Infinite?
+### Whether God Is Infinite?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God is not infinite. For everything infinite is imperfect, as the Philosopher says; because it has parts and matter, as is said in Phys. iii. But God is most perfect; therefore He is not infinite.
 
@@ -15,7 +15,7 @@ Objection 2: Further, according to the Philosopher (Phys. i), finite and infinit
 
 Objection 3: Further, what is here in such a way as not to be elsewhere, is finite according to place. Therefore that which is a thing in such a way as not to be another thing, is finite according to substance. But God is this, and not another; for He is not a stone or wood. Therefore God is not infinite in substance.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. i, 4) that "God is infinite and eternal, and boundless."
 
@@ -25,14 +25,14 @@ We must consider therefore that a thing is called infinite because it is not fin
 
 From this appears the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Quantity is terminated by its form, which can be seen in the fact that a figure which consists in quantity terminated, is a kind of quantitative form. Hence the infinite of quantity is the infinite of matter; such a kind of infinite cannot be attributed to God; as was said above, in this article.
 
 Reply to Objection 3: The fact that the being of God is self-subsisting, not received in any other, and is thus called infinite, shows Him to be distinguished from all other beings, and all others to be apart from Him. Even so, were there such a thing as a self-subsisting whiteness, the very fact that it did not exist in anything else, would make it distinct from every other whiteness existing in a subject.
-## Whether Anything But God Can Be Essentially Infinite?
+### Whether Anything But God Can Be Essentially Infinite?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that something else besides God can be essentially infinite. For the power of anything is proportioned to its essence. Now if the essence of God is infinite, His power must also be infinite. Therefore He can produce an infinite effect, since the extent of a power is known by its effect.
 
@@ -40,22 +40,22 @@ Objection 2: Further, whatever has infinite power, has an infinite essence. Now 
 
 Objection 3: Further, primary matter is something other than God, as was shown above ([38]Q[3], A[8]). But primary matter is infinite. Therefore something besides God can be infinite.
 
-### Answer
+**Answer**
 
 On the contrary, The infinite cannot have a beginning, as said in Phys. iii. But everything outside God is from God as from its first principle. Therefore besides God nothing can be infinite.
 
 I answer that, Things other than God can be relatively infinite, but not absolutely infinite. For with regard to infinite as applied to matter, it is manifest that everything actually existing possesses a form; and thus its matter is determined by form. But because matter, considered as existing under some substantial form, remains in potentiality to many accidental forms, which is absolutely finite can be relatively infinite; as, for example, wood is finite according to its own form, but still it is relatively infinite, inasmuch as it is in potentiality to an infinite number of shapes. But if we speak of the infinite in reference to form, it is manifest that those things, the forms of which are in matter, are absolutely finite, and in no way infinite. If, however, any created forms are not received into matter, but are self-subsisting, as some think is the case with angels, these will be relatively infinite, inasmuch as such kinds of forms are not terminated, nor contracted by any matter. But because a created form thus subsisting has being, and yet is not its own being, it follows that its being is received and contracted to a determinate nature. Hence it cannot be absolutely infinite.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is against the nature of a made thing for its essence to be its existence; because subsisting being is not a created being; hence it is against the nature of a made thing to be absolutely infinite. Therefore, as God, although He has infinite power, cannot make a thing to be not made (for this would imply that two contradictories are true at the same time), so likewise He cannot make anything to be absolutely infinite.
 
 Reply to Objection 2: The fact that the power of the intellect extends itself in a way to infinite things, is because the intellect is a form not in matter, but either wholly separated from matter, as is the angelic substance, or at least an intellectual power, which is not the act of any organ, in the intellectual soul joined to a body.
 
 Reply to Objection 3: Primary matter does not exist by itself in nature, since it is not actually being, but potentially only; hence it is something concreated rather than created. Nevertheless, primary matter even as a potentiality is not absolutely infinite, but relatively, because its potentiality extends only to natural forms.
-## Whether An Actually Infinite Magnitude Can Exist?
+### Whether An Actually Infinite Magnitude Can Exist?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that there can be something actually infinite in magnitude. For in mathematics there is no error, since "there is no lie in things abstract," as the Philosopher says (Phys. ii). But mathematics uses the infinite in magnitude; thus, the geometrician in his demonstrations says, "Let this line be infinite." Therefore it is not impossible for a thing to be infinite in magnitude.
 
@@ -65,7 +65,7 @@ Objection 3: Further, magnitude is infinitely divisible, for the continuous is d
 
 Objection 4: Further, movement and time have quantity and continuity derived from the magnitude over which movement passes, as is said in Phys. iv. But it is not against the nature of time and movement to be infinite, since every determinate indivisible in time and circular movement is both a beginning and an end. Therefore neither is it against the nature of magnitude to be infinite.
 
-### Answer
+**Answer**
 
 On the contrary, Every body has a surface. But every body which has a surface is finite; because surface is the term of a finite body. Therefore all bodies are finite. The same applies both to surface and to a line. Therefore nothing is infinite in magnitude.
 
@@ -77,7 +77,7 @@ Now it is manifest that a natural body cannot be actually infinite. For every na
 
 The same applies to a mathematical body. For if we imagine a mathematical body actually existing, we must imagine it under some form, because nothing is actual except by its form; hence, since the form of quantity as such is figure, such a body must have some figure, and so would be finite; for figure is confined by a term or boundary.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A geometrician does not need to assume a line actually infinite, but takes some actually finite line, from which he subtracts whatever he finds necessary; which line he calls infinite.
 
@@ -86,9 +86,9 @@ Reply to Objection 2: Although the infinite is not against the nature of magnitu
 Reply to Objection 3: The infinite in quantity, as was shown above, belongs to matter. Now by division of the whole we approach to matter, forasmuch as parts have the aspect of matter; but by addition we approach to the whole which has the aspect of a form. Therefore the infinite is not in the addition of magnitude, but only in division.
 
 Reply to Objection 4: Movement and time are whole, not actually but successively; hence they have potentiality mixed with actuality. But magnitude is an actual whole; therefore the infinite in quantity refers to matter, and does not agree with the totality of magnitude; yet it agrees with the totality of time and movement: for it is proper to matter to be in potentiality.
-## Whether An Infinite Multitude Can Exist?
+### Whether An Infinite Multitude Can Exist?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that an actually infinite multitude is possible. For it is not impossible for a potentiality to be made actual. But number can be multiplied to infinity. Therefore it is possible for an infinite multitude actually to exist.
 
@@ -96,7 +96,7 @@ Objection 2: Further, it is possible for any individual of any species to be mad
 
 Objection 3: Further, things not opposed to each other do not obstruct each other. But supposing a multitude of things to exist, there can still be many others not opposed to them. Therefore it is not impossible for others also to coexist with them, and so on to infinitude; therefore an actual infinite number of things is possible.
 
-### Answer
+**Answer**
 
 On the contrary, It is written, "Thou hast ordered all things in measure, and number, and weight" (Wis. 11:21).
 
@@ -106,7 +106,7 @@ A multitude is said to be accidentally infinite when its existence as such is no
 
 This, however, is impossible; since every kind of multitude must belong to a species of multitude. Now the species of multitude are to be reckoned by the species of numbers. But no species of number is infinite; for every number is multitude measured by one. Hence it is impossible for there to be an actually infinite multitude, either absolute or accidental. Likewise multitude in nature is created; and everything created is comprehended under some clear intention of the Creator; for no agent acts aimlessly. Hence everything created must be comprehended in a certain number. Therefore it is impossible for an actually infinite multitude to exist, even accidentally. But a potentially infinite multitude is possible; because the increase of multitude follows upon the division of magnitude; since the more a thing is divided, the greater number of things result. Hence, as the infinite is to be found potentially in the division of the continuous, because we thus approach matter, as was shown in the preceding article, by the same rule, the infinite can be also found potentially in the addition of multitude.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Every potentiality is made actual according to its mode of being; for instance, a day is reduced to act successively, and not all at once. Likewise the infinite in multitude is reduced to act successively, and not all at once; because every multitude can be succeeded by another multitude to infinity.
 

@@ -5,9 +5,9 @@ We must now consider daring: under which head there are four points of inquiry:
 (2) How is daring related to hope?
 (3) Of the cause of daring;
 (4) Of its effect.
-## Whether Daring Is Contrary To Fear?
+### Whether Daring Is Contrary To Fear?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that daring is not contrary to fear. For Augustine says (QQ. 83, qu. 31) that "daring is a vice." Now vice is contrary to virtue. Since, therefore, fear is not a virtue but a passion, it seems that daring is not contrary to fear.
 
@@ -15,22 +15,22 @@ Objection 2: Further, to one thing there is one contrary. But hope is contrary t
 
 Objection 3: Further, every passion excludes its opposite. But fear excludes safety; for Augustine says (Confess. ii, 6) that "fear takes forethought for safety." Therefore safety is contrary to fear. Therefore daring is not contrary to fear.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Rhet. ii, 5) that "daring is contrary to fear."
 
 I answer that, It is of the essence of contraries to be "farthest removed from one another," as stated in Metaph. x, 4. Now that which is farthest removed from fear, is daring: since fear turns away from the future hurt, on account of its victory over him that fears it; whereas daring turns on threatened danger because of its own victory over that same danger. Consequently it is evident that daring is contrary to fear.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Anger, daring and all the names of the passions can be taken in two ways. First, as denoting absolutely movements of the sensitive appetite in respect of some object, good or bad: and thus they are names of passions. Secondly, as denoting besides this movement, a straying from the order of reason: and thus they are names of vices. It is in this sense that Augustine speaks of daring: but we are speaking of it in the first sense.
 
 Reply to Objection 2: To one thing, in the same respect, there are not several contraries; but in different respects nothing prevents one thing having several contraries. Accordingly it has been said above ([1403]Q[23], A[2];[1404] Q[40], A[4]) that the irascible passions admit of a twofold contrariety: one, according to the opposition of good and evil, and thus fear is contrary to hope: the other, according to the opposition of approach and withdrawal, and thus daring is contrary to fear, and despair contrary to hope.
 
 Reply to Objection 3: Safety does not denote something contrary to fear, but merely the exclusion of fear: for he is said to be safe, who fears not. Wherefore safety is opposed to fear, as a privation: while daring is opposed thereto as a contrary. And as contrariety implies privation, so daring implies safety.
-## Whether Daring Ensues From Hope?
+### Whether Daring Ensues From Hope?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that daring does not ensue from hope. Because daring regards evil and fearful things, as stated in Ethic. iii, 7. But hope regards good things, as stated above ([1405]Q[40], A[1]). Therefore they have different objects and are not in the same order. Therefore daring does not ensue from hope.
 
@@ -38,22 +38,22 @@ Objection 2: Further, just as daring is contrary to fear, so is despair contrary
 
 Objection 3: Further, daring is intent on something good, viz. victory. But it belongs to hope to tend to that which is good and difficult. Therefore daring is the same as hope; and consequently does not result from it.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iii, 8) that "those are hopeful are full of daring." Therefore it seems that daring ensues from hope.
 
 I answer that, As we have often stated ([1406]Q[22], A[2];[1407] Q[35], A[1];[1408] Q[41], A[1]), all these passions belong to the appetitive power. Now every movement of the appetitive power is reducible to one either of pursuit or of avoidance. Again, pursuit or avoidance is of something either by reason of itself or by reason of something else. By reason of itself, good is the object of pursuit, and evil, the object of avoidance: but by reason of something else, evil can be the object of pursuit, through some good attaching to it; and good can be the object of avoidance, through some evil attaching to it. Now that which is by reason of something else, follows that which is by reason of itself. Consequently pursuit of evil follows pursuit of good; and avoidance of good follows avoidance of evil. Now these four things belong to four passions, since pursuit of good belongs to hope, avoidance of evil to fear, the pursuit of the fearful evil belongs to daring, and the avoidance of good to despair. It follows, therefore, that daring results from hope; since it is in the hope of overcoming the threatening object of fear, that one attacks it boldly. But despair results from fear: since the reason why a man despairs is because he fears the difficulty attaching to the good he should hope for.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument would hold, if good and evil were not co-ordinate objects. But because evil has a certain relation to good, since it comes after good, as privation comes after habit; consequently daring which pursues evil, comes after hope which pursues good.
 
 Reply to Objection 2: Although good, absolutely speaking, is prior to evil, yet avoidance of evil precedes avoidance of good; just as the pursuit of good precedes the pursuit of evil. Consequently just as hope precedes daring, so fear precedes despair. And just as fear does not always lead to despair, but only when it is intense; so hope does not always lead to daring, save only when it is strong.
 
 Reply to Objection 3: Although the object of daring is an evil to which, in the estimation of the daring man, the good of victory is conjoined; yet daring regards the evil, and hope regards the conjoined good. In like manner despair regards directly the good which it turns away from, while fear regards the conjoined evil. Hence, properly speaking, daring is not a part of hope, but its effect: just as despair is an effect, not a part, of fear. For this reason, too, daring cannot be a principal passion.
-## Whether Some Defect Is A Cause Of Daring?
+### Whether Some Defect Is A Cause Of Daring?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that some defect is a cause of daring. For the Philosopher says (De Problem. xxvii, 4) that "lovers of wine are strong and daring." But from wine ensues the effect of drunkenness. Therefore daring is caused by a defect.
 
@@ -61,7 +61,7 @@ Objection 2: Further, the Philosopher says (Rhet. ii, 5) that "those who have no
 
 Objection 3: Further, those who have suffered wrongs are wont to be daring; "like the beasts when beaten," as stated in Ethic. iii, 5. But the suffering of wrongs pertains to defect. Therefore daring is caused by a defect.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Rhet. ii, 5) that the cause of daring "is the presence in the imagination of the hope that the means of safety are nigh, and that the things to be feared are either non-existent or far off." But anything pertaining to defect implies either the removal of the means of safety, or the proximity of something to be feared. Therefore nothing pertaining to defect is a cause of daring.
 
@@ -71,16 +71,16 @@ On the part of the appetitive movement which follows apprehension, hope that lea
 
 On the part of the bodily transmutation, daring is caused through the incitement of hope and the banishment of fear, by those things which raise the temperature about the heart. Wherefore the Philosopher says (De Part. Animal. iii, 4) that "those whose heart is small in size, are more daring; while animals whose heart is large are timid; because the natural heat is unable to give the same degree of temperature to a large as to a small heart; just as a fire does not heat a large house as well as it does a small house." He says also (De Problem. xxvii, 4), that "those whose lungs contain much blood, are more daring, through the heat in the heart that results therefrom." He says also in the same passage that "lovers of wine are more daring, on account of the heat of the wine": hence it has been said above ([1410]Q[40], A[6]) that drunkenness conduces to hope, since the heat in the heart banishes fear and raises hope, by reason of the dilatation and enlargement of the heart.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Drunkenness causes daring, not through being a defect, but through dilating the heart: and again through making a man think greatly of himself.
 
 Reply to Objection 2: Those who have no experience of dangers are more daring, not on account of a defect, but accidentally, i.e. in so far as through being inexperienced they do not know their own failings, nor the dangers that threaten. Hence it is that the removal of the cause of fear gives rise to daring.
 
 Reply to Objection 3: As the Philosopher says (Rhet. ii, 5) "those who have been wronged are courageous, because they think that God comes to the assistance of those who suffer unjustly."
-## Whether The Brave Are More Eager At First Than In The Midst Of Danger?
+### Whether The Brave Are More Eager At First Than In The Midst Of Danger?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the daring are not more eager at first than in the midst of danger. Because trembling is caused by fear, which is contrary to daring, as stated above [1411](A[1]; Q[44], A[3]). But the daring sometimes tremble at first, as the Philosopher says (De Problem. xxvii, 3). Therefore they are not more eager at first than in the midst of danger.
 
@@ -88,7 +88,7 @@ Objection 2: Further, passion is intensified by an increase in its object: thus 
 
 Objection 3: Further, anger is provoked by the infliction of wounds. But anger causes daring; for the Philosopher says (Rhet. ii, 5) that "anger makes man bold." Therefore when man is in the midst of danger and when he is being beaten, then is he most daring.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in Ethic. iii, 7 that "the daring are precipitate and full of eagerness before the danger, yet in the midst of dangers they stand aloof."
 
@@ -96,7 +96,7 @@ I answer that, Daring, being a movement of the sensitive appetite, follows an ap
 
 On the other hand, reason discusses all the difficulties of a situation. Consequently men of fortitude who face danger according to the judgment of reason, at first seem slack, because they face the danger not from passion but with due deliberation. Yet when they are in the midst of danger, they experience nothing unforeseen, but sometimes the difficulty turns out to be less than they anticipated; wherefore they are more persevering. Moreover, it may be because they face the danger on account of the good of virtue which is the abiding object of their will, however great the danger may prove: whereas men of daring face the danger on account of a mere thought giving rise to hope and banishing fear, as stated above [1412](A[3]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Trembling does occur in men of daring, on account of the heat being withdrawn from the outer to the inner parts of the body, as occurs also in those who are afraid. But in men of daring the heat withdraws to the heart; whereas in those who are afraid, it withdraws to the inferior parts.
 

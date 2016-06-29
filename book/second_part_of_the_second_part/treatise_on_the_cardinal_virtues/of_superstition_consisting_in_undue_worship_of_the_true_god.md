@@ -3,9 +3,9 @@
 We must now consider the species of superstition. We shall treat (1) Of the superstition which consists in giving undue worship to the true God; (2) Of the superstition of idolatry; (3) of divinatory superstition; (4) of the superstition of observances.  Under the first head there are two points of inquiry:
 (1) Whether there can be anything pernicious in the worship of the true God?
 (2) Whether there can be anything superfluous therein?
-## Whether There Can Be Anything Pernicious In The Worship Of The True God?
+### Whether There Can Be Anything Pernicious In The Worship Of The True God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there cannot be anything pernicious in the worship of the true God. It is written (Joel 2:32): "Everyone that shall call upon the name of the Lord shall be saved." Now whoever worships God calls upon His name. Therefore all worship of God is conducive to salvation, and consequently none is pernicious.
 
@@ -13,7 +13,7 @@ Objection 2: Further, it is the same God that is worshiped by the just in any ag
 
 Objection 3: Further, nothing pernicious is tolerated in the Church. Yet the Church tolerates various rites of divine worship: wherefore Gregory, replying to Augustine, bishop of the English (Regist. xi, ep. 64), who stated that there existed in the churches various customs in the celebration of Mass, wrote: "I wish you to choose carefully whatever you find likely to be most pleasing to God, whether in the Roman territory, or in the land of the Gauls, or in any part of the Church." Therefore no way of worshiping God is pernicious.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine [*Jerome (Ep. lxxv, ad Aug.) See Opp. August. Ep. lxxxii] in a letter to Jerome (and the words are quoted in a gloss on Gal. 2:14) says that "after the Gospel truth had been preached the legal observances became deadly," and yet these observances belonged to the worship of God. Therefore there can be something deadly in the divine worship.
 
@@ -21,16 +21,16 @@ I answer that, As Augustine states (Cont. Mendac. xiv), "a most pernicious lie i
 
 Now this happens in two ways. In the first place, it happens on the part of the thing signified, through the worship signifying something discordant therefrom: and in this way, at the time of the New Law, the mysteries of Christ being already accomplished, it is pernicious to make use of the ceremonies of the Old Law whereby the mysteries of Christ were foreshadowed as things to come: just as it would be pernicious for anyone to declare that Christ has yet to suffer. In the second place, falsehood in outward worship occurs on the part of the worshiper, and especially in common worship which is offered by ministers impersonating the whole Church. For even as he would be guilty of falsehood who would, in the name of another person, proffer things that are not committed to him, so too does a man incur the guilt of falsehood who, on the part of the Church, gives worship to God contrary to the manner established by the Church or divine authority, and according to ecclesiastical custom. Hence Ambrose [*Comment. in 1 ad1 Cor. 11:27, quoted in the gloss of Peter Lombard] says: "He is unworthy who celebrates the mystery otherwise than Christ delivered it." For this reason, too, a gloss on Col. 2:23 says that superstition is "the use of human observances under the name of religion."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since God is truth, to invoke God is to worship Him in spirit and truth, according to Jn. 4:23. Hence a worship that contains falsehood, is inconsistent with a salutary calling upon God.
 
 Reply to Objection 2: Before the time of the Law the just were instructed by an inward instinct as to the way of worshiping God, and others followed them. But afterwards men were instructed by outward precepts about this matter, and it is wicked to disobey them.
 
 Reply to Objection 3: The various customs of the Church in the divine worship are in no way contrary to the truth: wherefore we must observe them, and to disregard them is unlawful.
-## Whether There Can Be Any Excess In The Worship Of God?
+### Whether There Can Be Any Excess In The Worship Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there cannot be excess in the worship of God. It is written (Ecclus. 43:32): "Glorify the Lord as much as ever you can, for He will yet far exceed." Now the divine worship is directed to the glorification of God. Therefore there can be no excess in it.
 
@@ -38,7 +38,7 @@ Objection 2: Further, outward worship is a profession of inward worship, "whereb
 
 Objection 3: Further, to worship God consists in offering to Him what we have received from Him. But we have received all our goods from God. Therefore if we do all that we possibly can for God's honor, there will be no excess in the divine worship.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. ii, 18) "that the good and true Christian rejects also superstitious fancies, from Holy Writ." But Holy Writ teaches us to worship God. Therefore there can be superstition by reason of excess even in the worship of God.
 
@@ -46,7 +46,7 @@ I answer that, A thing is said to be in excess in two ways. First, with regard t
 
 On the other hand if that which is done be, in itself, not conducive to God's glory, nor raise man's mind to God, nor curb inordinate concupiscence, or again if it be not in accordance with the commandments of God and of the Church, or if it be contrary to the general custom---which, according to Augustine [*Ad Casulan. Ep. xxxvi], "has the force of law"---all this must be reckoned excessive and superstitious, because consisting, as it does, of mere externals, it has no connection with the internal worship of God. Hence Augustine (De Vera Relig. iii) quotes the words of Lk. 17:21, "The kingdom of God is within you," against the "superstitious," those, to wit, who pay more attention to externals.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The glorification of God implies that what is done is done for God's glory: and this excludes the excess denoted by superstition.
 

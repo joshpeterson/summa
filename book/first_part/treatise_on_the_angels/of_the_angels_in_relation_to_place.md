@@ -4,9 +4,9 @@ We now inquire into the place of the angels. Touching this there are three subje
 (1) Is the angel in a place?
 (2) Can he be in several places at once?
 (3) Can several angels be in the same place?
-## Whether An Angel Is In A Place?
+### Whether An Angel Is In A Place?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an angel is not in a place. For Boethius says (De Hebdom.): "The common opinion of the learned is that things incorporeal are not in a place." And again, Aristotle observes (Phys. iv, text 48,57) that "it is not everything existing which is in a place, but only a movable body." But an angel is not a body, as was shown above [478](Q[50]). Therefore an angel is not in a place.
 
@@ -14,7 +14,7 @@ Objection 2: Further, place is a "quantity having position." But everything whic
 
 Objection 3: Further, to be in a place is to be measured and to be contained by such place, as is evident from the Philosopher (Phys. iv, text 14,119). But an angel can neither be measured nor contained by a place, because the container is more formal than the contained; as air with regard to water (Phys. iv, text 35,49). Therefore an angel is not in a place.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in the Collect [*Prayer at Compline, Dominican Breviary]: "Let Thy holy angels who dwell herein, keep us in peace."
 
@@ -23,9 +23,9 @@ I answer that, It is befitting an angel to be in a place; yet an angel and a bod
 Accordingly there is no need for saying that an angel can be deemed commensurate with a place, or that he occupies a space in the continuous; for this is proper to a located body which is endowed with dimensive quantity. In similar fashion it is not necessary on this account for the angel to be contained by a place; because an incorporeal substance virtually contains the thing with which it comes into contact, and is not contained by it: for the soul is in the body as containing it, not as contained by it. In the same way an angel is said to be in a place which is corporeal, not as the thing contained, but as somehow containing it.
 
 And hereby we have the answers to the objections.
-## Whether An Angel Can Be In Several Places At Once?
+### Whether An Angel Can Be In Several Places At Once?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an angel can be in several places at once. For an angel is not less endowed with power than the soul. But the soul is in several places at once, for it is entirely in every part of the body, as Augustine says (De Trin. vi). Therefore an angel can be in several places at once.
 
@@ -33,7 +33,7 @@ Objection 2: Further, an angel is in the body which he assumes; and, since the b
 
 Objection 3: Further, Damascene says (De Fide Orth. ii) that "where the angel operates, there he is." But occasionally he operates in several places at one time, as is evident from the angel destroying Sodom (Gn. 19:25). Therefore an angel can be in several places at the one time.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. ii) that "while the angels are in heaven, they are not on earth."
 
@@ -46,9 +46,9 @@ Neither, if any angel moves the heavens, is it necessary for him to be everywher
 So, then, it is evident that to be in a place appertains quite differently to a body, to an angel, and to God. For a body is in a place in a circumscribed fashion, since it is measured by the place. An angel, however, is not there in a circumscribed fashion, since he is not measured by the place, but definitively, because he is in a place in such a manner that he is not in another. But God is neither circumscriptively nor definitively there, because He is everywhere.
 
 From this we can easily gather an answer to the objections: because the entire subject to which the angelic power is immediately applied, is reputed as one place, even though it be continuous.
-## Whether Several Angels Can Be At The Same Time In The Same Place?
+### Whether Several Angels Can Be At The Same Time In The Same Place?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that several angels can be at the same time in the same place. For several bodies cannot be at the same time in the same place, because they fill the place. But the angels do not fill a place, because only a body fills a place, so that it be not empty, as appears from the Philosopher (Phys. iv, text 52,58). Therefore several angels can be in the one place.
 
@@ -56,13 +56,13 @@ Objection 2: Further, there is a greater difference between an angel and a body 
 
 Objection 3: Further, the soul is in every part of the body, according to Augustine (De Trin. vi). But demons, although they do not obsess souls, do obsess bodies occasionally; and thus the soul and the demon are at the one time in the same place; and consequently for the same reason all other spiritual substances.
 
-### Answer
+**Answer**
 
 On the contrary, There are not two souls in the same body. Therefore for a like reason there are not two angels in the same place.
 
 I answer that, There are not two angels in the same place. The reason of this is because it is impossible for two complete causes to be the causes immediately of one and the same thing. This is evident in every class of causes: for there is one proximate form of one thing, and there is one proximate mover, although there may be several remote movers. Nor can it be objected that several individuals may row a boat, since no one of them is a perfect mover, because no one man's strength is sufficient for moving the boat; while all together are as one mover, in so far as their united strengths all combine in producing the one movement. Hence, since the angel is said to be in one place by the fact that his power touches the place immediately by way of a perfect container, as was said [479](A[1]), there can be but one angel in one place.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Several angels are not hindered from being in the same place because of their filling the place; but for another reason, as has been said.
 

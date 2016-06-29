@@ -7,9 +7,9 @@ We must now consider gluttony. Under this head there are six points of inquiry:
 (4) Its species;
 (5) Whether it is a capital sin?
 (6) Its daughters.
-## Whether Gluttony Is A Sin?
+### Whether Gluttony Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that gluttony is not a sin. For our Lord said (Mat. 15:11): "Not that which goeth into the mouth defileth a man." Now gluttony regards food which goes into a man. Therefore, since every sin defiles a man, it seems that gluttony is not a sin.
 
@@ -17,22 +17,22 @@ Objection 2: Further, "No man sins in what he cannot avoid" [*Ep. lxxi, ad Lucin
 
 Objection 3: Further, in every kind of sin the first movement is a sin. But the first movement in taking food is not a sin, else hunger and thirst would be sinful. Therefore gluttony is not a sin.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xxx, 18) that "unless we first tame the enemy dwelling within us, namely our gluttonous appetite, we have not even stood up to engage in the spiritual combat." But man's inward enemy is sin. Therefore gluttony is a sin.
 
 I answer that, Gluttony denotes, not any desire of eating and drinking, but an inordinate desire. Now desire is said to be inordinate through leaving the order of reason, wherein the good of moral virtue consists: and a thing is said to be a sin through being contrary to virtue. Wherefore it is evident that gluttony is a sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That which goes into man by way of food, by reason of its substance and nature, does not defile a man spiritually. But the Jews, against whom our Lord is speaking, and the Manichees deemed certain foods to make a man unclean, not on account of their signification, but by reason of their nature [*Cf. [3493]FS, Q[102], A[6], ad 1]. It is the inordinate desire of food that defiles a man spiritually.
 
 Reply to Objection 2: As stated above, the vice of gluttony does not regard the substance of food, but in the desire thereof not being regulated by reason. Wherefore if a man exceed in quantity of food, not from desire of food, but through deeming it necessary to him, this pertains, not to gluttony, but to some kind of inexperience. It is a case of gluttony only when a man knowingly exceeds the measure in eating, from a desire for the pleasures of the palate.
 
 Reply to Objection 3: The appetite is twofold. There is the natural appetite, which belongs to the powers of the vegetal soul. In these powers virtue and vice are impossible, since they cannot be subject to reason; wherefore the appetitive power is differentiated from the powers of secretion, digestion, and excretion, and to it hunger and thirst are to be referred. Besides this there is another, the sensitive appetite, and it is in the concupiscence of this appetite that the vice of gluttony consists. Hence the first movement of gluttony denotes inordinateness in the sensitive appetite, and this is not without sin.
-## Whether Gluttony Is A Mortal Sin?
+### Whether Gluttony Is A Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that gluttony is not a mortal sin. For every mortal sin is contrary to a precept of the Decalogue: and this, apparently, does not apply to gluttony. Therefore gluttony is not a mortal sin.
 
@@ -42,13 +42,13 @@ Objection 3: Further, Augustine says in a sermon on Purgatory [*Cf. Append. to S
 
 Objection 4: On the contrary, Gregory says (Moral. xxx, 18): "As long as the vice of gluttony has a hold on a man, all that he has done valiantly is forfeited by him: and as long as the belly is unrestrained, all virtue comes to naught." But virtue is not done away save by mortal sin. Therefore gluttony is a mortal sin.
 
-### Answer
+**Answer**
 
 
 
 I answer that, As stated above [3495](A[1]), the vice of gluttony properly consists in inordinate concupiscence. Now the order of reason in regulating the concupiscence may be considered from two points of view. First, with regard to things directed to the end, inasmuch as they may be incommensurate and consequently improportionate to the end; secondly, with regard to the end itself, inasmuch as concupiscence turns man away from his due end. Accordingly, if the inordinate concupiscence in gluttony be found to turn man away from the last end, gluttony will be a mortal sin. This is the case when he adheres to the pleasure of gluttony as his end, for the sake of which he contemns God, being ready to disobey God's commandments, in order to obtain those pleasures. On the other hand, if the inordinate concupiscence in the vice of gluttony be found to affect only such things as are directed to the end, for instance when a man has too great a desire for the pleasures of the palate, yet would not for their sake do anything contrary to God's law, it is a venial sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The vice of gluttony becomes a mortal sin by turning man away from his last end: and accordingly, by a kind of reduction, it is opposed to the precept of hallowing the sabbath, which commands us to rest in our last end. For mortal sins are not all directly opposed to the precepts of the Decalogue, but only those which contain injustice: because the precepts of the Decalogue pertain specially to justice and its parts, as stated above ([3496]Q[122], A[1]).
 
@@ -57,9 +57,9 @@ Reply to Objection 2: In so far as it turns man away from his last end, gluttony
 Reply to Objection 3: This saying of Augustine refers to gluttony as denoting inordinate concupiscence merely in regard of things directed to the end.
 
 Reply to Objection 4: Gluttony is said to bring virtue to naught, not so much on its own account, as on account of the vices which arise from it. For Gregory says (Pastor. iii, 19): "When the belly is distended by gluttony, the virtues of the soul are destroyed by lust."
-## Whether Gluttony Is The Greatest Of Sins?
+### Whether Gluttony Is The Greatest Of Sins?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that gluttony is the greatest of sins. For the grievousness of a sin is measured by the grievousness of the punishment. Now the sin of gluttony is most grievously punished, for Chrysostom says [*Hom. xiii in Matth.]: "Gluttony turned Adam out of Paradise, gluttony it was that drew down the deluge at the time of Noah." According to Ezech. 16:49, "This was the iniquity of Sodom, thy sister . . . fulness of bread," etc. Therefore the sin of gluttony is the greatest of all.
 
@@ -67,22 +67,22 @@ Objection 2: Further, in every genus the cause is the most powerful. Now glutton
 
 Objection 3: Further, man should love himself in the first place after God, as stated above ([3497]Q[25], A[4]). Now man, by the vice of gluttony, inflicts an injury on himself: for it is written (Ecclus. 37:34): "By surfeiting many have perished." Therefore gluttony is the greatest of sins, at least excepting those that are against God.
 
-### Answer
+**Answer**
 
 On the contrary, The sins of the flesh, among which gluttony is reckoned, are less culpable according to Gregory (Moral. xxxiii).
 
 I answer that, The gravity of a sin may be measured in three ways. First and foremost it depends on the matter in which the sin is committed: and in this way sins committed in connection with Divine things are the greatest. From this point of view gluttony is not the greatest sin, for it is about matters connected with the nourishment of the body. Secondly, the gravity of a sin depends on the person who sins, and from this point of view the sin of gluttony is diminished rather than aggravated, both on account of the necessity of taking food, and on account of the difficulty of proper discretion and moderation in such matters. Thirdly, from the point of view of the result that follows, and in this way gluttony has a certain gravity, inasmuch as certain sins are occasioned thereby.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These punishments are to be referred to the vices that resulted from gluttony, or to the root from which gluttony sprang, rather than to gluttony itself. For the first man was expelled from Paradise on account of pride, from which he went on to an act of gluttony: while the deluge and the punishment of the people of Sodom were inflicted for sins occasioned by gluttony.
 
 Reply to Objection 2: This objection argues from the standpoint of the sins that result from gluttony. Nor is a cause necessarily more powerful, unless it be a direct cause: and gluttony is not the direct cause but the accidental cause, as it were, and the occasion of other vices.
 
 Reply to Objection 3: The glutton intends, not the harm to his body, but the pleasure of eating: and if injury results to his body, this is accidental. Hence this does not directly affect the gravity of gluttony, the guilt of which is nevertheless aggravated, if a man incur some bodily injury through taking too much food.
-## Whether The Species Of Gluttony Are Fittingly Distinguished?
+### Whether The Species Of Gluttony Are Fittingly Distinguished?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the species of gluttony are unfittingly distinguished by Gregory who says (Moral. xxx, 18): "The vice of gluttony tempts us in five ways. Sometimes it forestalls the hour of need; sometimes it seeks costly meats; sometimes it requires the food to be daintily cooked; sometimes it exceeds the measure of refreshment by taking too much; sometimes we sin by the very heat of an immoderate appetite"---which are contained in the following verse: "Hastily, sumptuously, too much, greedily, daintily."
 
@@ -90,7 +90,7 @@ Objection 2: Further, as time is a circumstance, so is place. If then gluttony a
 
 Objection 3: Further, just as temperance observes due circumstances, so do the other moral virtues. Now the species of the vices opposed to the other moral virtues are not distinguished according to various circumstances. Neither, therefore, are the species of gluttony distinguished thus.
 
-### Answer
+**Answer**
 
 On the contrary, stands the authority of Gregory quoted above.
 
@@ -100,16 +100,16 @@ Secondly, the inordinate concupiscence is considered as to the consumption of fo
 
 Isidore [*De Summo Bon. ii, 42] comprises the first and second under one heading, when he says that the glutton exceeds in "what" he eats, or in "how much," "how" or "when he eats."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The corruption of various circumstances causes the various species of gluttony, on account of the various motives, by reason of which the species of moral things are differentiated. For in him that seeks sumptuous food, concupiscence is aroused by the very species of the food; in him that forestalls the time concupiscence is disordered through impatience of delay, and so forth.
 
 Reply to Objection 2: Place and other circumstances include no special motive connected with eating, that can cause a different species of gluttony.
 
 Reply to Objection 3: In all other vices, whenever different circumstances correspond to different motives, the difference of circumstances argues a specific difference of vice: but this does not apply to all circumstances, as stated above ([3499]FS, Q[72], A[9]).
-## Whether Gluttony Is A Capital Vice?
+### Whether Gluttony Is A Capital Vice?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that gluttony is not a capital vice. For capital vices denote those whence, under the aspect of final cause, other vices originate. Now food, which is the matter of gluttony, has not the aspect of end, since it is sought, not for its own sake, but for the body's nourishment. Therefore gluttony is not a capital vice.
 
@@ -117,22 +117,22 @@ Objection 2: Further, a capital vice would seem to have a certain pre-eminence i
 
 Objection 3: Further, sin results from a man forsaking the food of virtue on account of something useful to the present life, or pleasing to the senses. Now as regards goods having the aspect of utility, there is but one capital vice, namely covetousness. Therefore, seemingly, there would be but one capital vice in respect of pleasures: and this is lust, which is a greater vice than gluttony, and is about greater pleasures. Therefore gluttony is not a capital vice.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxxi, 45) reckons gluttony among the capital vices.
 
 I answer that, As stated above ([3500]FS, Q[84], A[3]), a capital vice denotes one from which, considered as final cause, i.e. as having a most desirable end, other vices originate: wherefore through desiring that end men are incited to sin in many ways. Now an end is rendered most desirable through having one of the conditions of happiness which is desirable by its very nature: and pleasure is essential to happiness, according to Ethic. i, 8; x, 3,7,8. Therefore the vice of gluttony, being about pleasures of touch which stand foremost among other pleasures, is fittingly reckoned among the capital vices.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is true that food itself is directed to something as its end: but since that end, namely the sustaining of life, is most desirable and whereas life cannot be sustained without food, it follows that food too is most desirable: indeed, nearly all the toil of man's life is directed thereto, according to Eccles. 6:7, "All the labor of man is for his mouth." Yet gluttony seems to be about pleasures of food rather than about food itself; wherefore, as Augustine says (De Vera Relig. liii), "with such food as is good for the worthless body, men desire to be fed," wherein namely the pleasure consists, "rather than to be filled: since the whole end of that desire is this---not to thirst and not to hunger."
 
 Reply to Objection 2: In sin the end is ascertained with respect to the conversion, while the gravity of sin is determined with regard to the aversion. Wherefore it does not follow that the capital sin which has the most desirable end surpasses the others in gravity.
 
 Reply to Objection 3: That which gives pleasure is desirable in itself: and consequently corresponding to its diversity there are two capital vices, namely gluttony and lust. On the other hand, that which is useful is desirable, not in itself, but as directed to something else: wherefore seemingly in all useful things there is one aspect of desirability. Hence there is but one capital vice, in respect of such things.
-## Whether Six Daughters Are Fittingly Assigned To Gluttony?
+### Whether Six Daughters Are Fittingly Assigned To Gluttony?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that six daughters are unfittingly assigned to gluttony, to wit, "unseemly joy, scurrility, uncleanness, loquaciousness, and dullness of mind as regards the understanding." For unseemly joy results from every sin, according to Prov. 2:14, "Who are glad when they have done evil, and rejoice in most wicked things." Likewise dullness of mind is associated with every sin, according to Prov. 14:22, "They err that work evil." Therefore they are unfittingly reckoned to be daughters of gluttony.
 
@@ -140,7 +140,7 @@ Objection 2: Further, the uncleanness which is particularly the result of glutto
 
 Objection 3: Further, Isidore (QQ. in Deut. xvi) reckons scurrility as a daughter of lust. Therefore it should not be reckoned among the daughters of gluttony.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxxi, 45) assigns these daughters to gluttony.
 
@@ -148,7 +148,7 @@ I answer that, As stated above ([3501]AA[1],2,3), gluttony consists properly in 
 
 On the part of the body, mention is made of "uncleanness," which may refer either to the inordinate emission of any kind of superfluities, or especially to the emission of the semen. Hence a gloss on Eph. 5:3, "But fornication and all uncleanness," says: "That is, any kind of incontinence that has reference to lust."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Joy in the act or end of sin results from every sin, especially the sin that proceeds from habit, but the random riotous joy which is described as "unseemly" arises chiefly from immoderate partaking of meat or drink. In like manner, we reply that dullness of sense as regards matters of choice is common to all sin, whereas dullness of sense in speculative matters arises chiefly from gluttony, for the reason given above.
 

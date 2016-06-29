@@ -3,9 +3,9 @@
 We must next consider the various qualities of souls that are stripped of their bodies, according to their respective states; and first we shall treat of the souls which depart this life with original sin only.  Under this head there are two points of inquiry:
 (1) Whether these souls suffer from a bodily fire, and are inflicted with punishment by fire?
 (2) Whether these souls suffer from a spiritual torment within themselves?
-## Whether Those Souls Which Depart With Original Sin Alone, Suffer From A Bodily Fire, And Are Punished By Fire?
+### Whether Those Souls Which Depart With Original Sin Alone, Suffer From A Bodily Fire, And Are Punished By Fire?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that souls which depart with none but original sin, suffer from a bodily fire and are punished by fire. For Augustine [*Fulgentius, De Fide ad Petrum, xxvii] says: "Hold firmly and doubt not that children who depart this life without the sacrament of Baptism will be punished everlastingly." Now punishment denotes sensible pain. Therefore souls which depart this life with original sin alone, suffer from a bodily fire and are tormented with the pain of fire.
 
@@ -17,13 +17,13 @@ Objection 4: Further, even as in actual sin there is aversion and conversion, so
 
 Objection 5: Further, after the resurrection the bodies of children will be either passible or impassible. If they be impassible---and no human body can be impassible except either on account of the gift of impassibility (as in the blessed) or by reason of original justice (as in the state of innocence)---it follows that the bodies of children will either have the gift of impassibility, and thus will be glorious, so that there will be no difference between baptized and non-baptized children, which is heretical, or else they will have original justice, and thus will be without original sin, and will not be punished for original sin, which is likewise heretical. If, on the other hand, they be passible, since everything passible suffers of necessity in the presence of the active, it follows that in the presence of active sensible bodies they will suffer sensible punishment.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Enchiridion xxiii) that the mildest punishment of all will be for those who are burdened with original sin only. But this would not be so, if they were tormented with sensible punishment, because the pain of hell fire is most grievous. Therefore they will not suffer sensible punishment.
 
 I answer that, Punishment should be proportionate to fault, according to the saying of Isaias (27:8), "In measure against measure, when it shall be cast off, thou shalt judge it." Now the defect transmitted to us through our origin, and having the character of a sin does not result from the withdrawal or corruption of a good consequent upon human nature by virtue of its principles, but from the withdrawal or corruption of something that had been superadded to nature. Nor does this sin belong to this particular man, except in so far as he has such a nature, that is deprived of this good, which in the ordinary course of things he would have had and would have been able to keep. Wherefore no further punishment is due to him, besides the privation of that end to which the gift withdrawn destined him, which gift human nature is unable of itself to obtain. Now this is the divine vision; and consequently the loss of this vision is the proper and only punishment of original sin after death: because, if any other sensible punishment were inflicted after death for original sin, a man would be punished out of proportion to his guilt, for sensible punishment is inflicted for that which is proper to the person, since a man undergoes sensible punishment in so far as he suffers in his person. Hence, as his guilt did not result from an action of his own, even so neither should he be punished by suffering himself, but only by losing that which his nature was unable to obtain. On the other hand, those who are under sentence for original sin will suffer no loss whatever in other kinds of perfection and goodness which are consequent upon human nature by virtue of its principles.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the authority quoted punishment denotes, not pain of sense, but only pain of loss, which is the privation of the divine vision, even as in Scripture the word "fire" is often wont to signify any kind of punishment.
 
@@ -34,9 +34,9 @@ Reply to Objection 3: There is no parity between pain of sense before and after 
 Reply to Objection 4: Sensible pain corresponds to sensible pleasure, which is in the conversion of actual sin: whereas habitual concupiscence, which is in original sin, has no pleasure. Hence, sensible pain does not correspond thereto as punishment.
 
 Reply to Objection 5: The bodies of children will be impassible, not through their being unable in themselves to suffer, but through the lack of an external agent to act upon them: because, after the resurrection, no body will act on another, least of all so as to induce corruption by the action of nature, but there will only be action to the effect of punishing them by order of the divine justice. Wherefore those bodies to which pain of sense is not due by divine justice will not suffer punishment. On the other hand, the bodies of the saints will be impassible, because they will lack the capability of suffering; hence impassibility in them will be a gift, but not in children.
-## Whether These Same Souls Suffer Spiritual Affliction On Account Of The State In Which They Are?
+### Whether These Same Souls Suffer Spiritual Affliction On Account Of The State In Which They Are?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the souls in question suffer spiritual affliction on account of the state wherein they are, because as Chrysostom says (Hom. xxiii in Matth.), the punishment of God in that they will be deprived of seeing God will be more painful than their being burned in hell fire. Now these souls will be deprived of seeing God. Therefore they will suffer spiritual affliction thereby.
 
@@ -48,7 +48,7 @@ Objection 4: Further, as baptized children are in relation to the merit of Chris
 
 Objection 5: Further, separation from what we love cannot be without pain. But these children will have natural knowledge of God, and for that very reason will love Him naturally. Therefore since they are separated from Him for ever, seemingly they cannot undergo this separation without pain.
 
-### Answer
+**Answer**
 
 On the contrary, If unbaptized children have interior sorrow after death, they will grieve either for their sin or for their punishment. If for their sin, since they cannot be further cleansed from that sin, their sorrow will lead them to despair. Now sorrow of this kind in the damned is the worm of conscience. Therefore these children will have the worm of conscience, and consequently theirs would not be the mildest punishment, as Augustine says it is [*See A[1], "On the contrary"]. If, on the other hand, they grieve for their punishment, it follows, since their punishment is justly inflicted by God, that their will opposes itself to divine justice, and thus would be actually inordinate, which is not to be granted. Therefore they will feel no sorrow.
 
@@ -56,7 +56,7 @@ I answer that, on this question there are three opinions. Some say that these ch
 
 Accordingly, it must be observed that if one is guided by right reason one does not grieve through being deprived of what is beyond one's power to obtain, but only through lack of that which, in some way, one is capable of obtaining. Thus no wise man grieves for being unable to fly like a bird, or for that he is not a king or an emperor, since these things are not due to him; whereas he would grieve if he lacked that to which he had some kind of claim. I say, then, that every man who has the use of free-will is adapted to obtain eternal life, because he can prepare himself for grace whereby to merit eternal life [*Cf. [5183]FS, Q[109], AA[5],6]; so that if he fail in this, his grief will be very great, since he has lost what he was able to possess. But children were never adapted to possess eternal life, since neither was this due to them by virtue of their natural principles, for it surpasses the entire faculty of nature, nor could they perform acts of their own whereby to obtain so great a good. Hence they will nowise grieve for being deprived of the divine vision; nay, rather will they rejoice for that they will have a large share of God's goodness and their own natural perfections. Nor can it be said that they were adapted to obtain eternal life, not indeed by their own action, but by the actions of others around them, since they could be baptized by others, like other children of the same condition who have been baptized and obtained eternal life: for this is of superabundant grace that one should be rewarded without any act of one's own. Wherefore the lack of such a grace will not cause sorrow in children who die without Baptism, any more than the lack of many graces accorded to others of the same condition makes a wise man to grieve.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In those who, having the use of free-will, are damned for actual sin, there was aptitude to obtain eternal life, but not in children, as stated above. Consequently there is no parity between the two.
 

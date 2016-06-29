@@ -5,9 +5,9 @@ We have now to consider Christ's temptation, concerning which there are four poi
 (2) Of the place;
 (3) Of the time;
 (4) Of the mode and order of the temptation.
-## Whether It Was Becoming That Christ Should Be Tempted?
+### Whether It Was Becoming That Christ Should Be Tempted?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not becoming for Christ to be tempted. For to tempt is to make an experiment, which is not done save in regard to something unknown. But the power of Christ was known even to the demons; for it is written (Lk. 4:41) that "He suffered them not to speak, for they knew that He was Christ." Therefore it seems that it was unbecoming for Christ to be tempted.
 
@@ -15,7 +15,7 @@ Objection 2: Further, Christ was come in order to destroy the works of the devil
 
 Objection 3: Further, temptation is from a threefold source---the flesh, the world, and the devil. But Christ was not tempted either by the flesh or by the world. Therefore neither should He have been tempted by the devil.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 4:1): "Jesus was led by the Spirit into the desert to be tempted by the devil."
 
@@ -27,16 +27,16 @@ Thirdly, in order to give us an example: to teach us, to wit, how to overcome th
 
 Fourthly, in order to fill us with confidence in His mercy. Hence it is written (Heb. 4:15): "We have not a high-priest, who cannot have compassion on our infirmities, but one tempted in all things like as we are, without sin."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (De Civ. Dei ix): "Christ was known to the demons only so far as He willed; not as the Author of eternal life, but as the cause of certain temporal effects," from which they formed a certain conjecture that Christ was the Son of God. But since they also observed in Him certain signs of human frailty, they did not know for certain that He was the Son of God: wherefore (the devil) wished to tempt Him. This is implied by the words of Mat. 4:2,3, saying that, after "He was hungry, the tempter" came "to Him," because, as Hilary says (Super Matth., cap. iii), "Had not Christ's weakness in hungering betrayed His human nature, the devil would not have dared to tempt Him." Moreover, this appears from the very manner of the temptation, when he said: "If Thou be the Son of God." Which words Ambrose explains as follows (In Luc. iv): "What means this way of addressing Him, save that, though he knew that the Son of God was to come, yet he did not think that He had come in the weakness of the flesh?"
 
 Reply to Objection 2: Christ came to destroy the works of the devil, not by powerful deeds, but rather by suffering from him and his members, so as to conquer the devil by righteousness, not by power; thus Augustine says (De Trin. xiii) that "the devil was to be overcome, not by the power of God, but by righteousness." And therefore in regard to Christ's temptation we must consider what He did of His own will and what He suffered from the devil. For that He allowed Himself to be tempted was due to His own will. Wherefore it is written (Mat. 4:1): "Jesus was led by the Spirit into the desert, to be tempted by the devil"; and Gregory (Hom. xvi in Evang.) says this is to be understood of the Holy Ghost, to wit, that "thither did His Spirit lead Him, where the wicked spirit would find Him and tempt Him." But He suffered from the devil in being "taken up" on to "the pinnacle of the Temple" and again "into a very high mountain." Nor is it strange, as Gregory observes, "that He allowed Himself to be taken by him on to a mountain, who allowed Himself to be crucified by His members." And we understand Him to have been taken up by the devil, not, as it were, by force, but because, as Origen says (Hom. xxi super Luc.), "He followed Him in the course of His temptation like a wrestler advancing of his own accord."
 
 Reply to Objection 3: As the Apostle says (Heb. 4:15), Christ wished to be "tempted in all things, without sin." Now temptation which comes from an enemy can be without sin: because it comes about by merely outward suggestion. But temptation which comes from the flesh cannot be without sin, because such a temptation is caused by pleasure and concupiscence; and, as Augustine says (De Civ. Dei xix), "it is not without sin that 'the flesh desireth against the spirit.'" And hence Christ wished to be tempted by an enemy, but not by the flesh.
-## Whether Christ Should Have Been Tempted In The Desert?
+### Whether Christ Should Have Been Tempted In The Desert?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ should not have been tempted in the desert. Because Christ wished to be tempted in order to give us an example, as stated above [4211](A[1]). But an example should be set openly before those who are to follow it. Therefore He should not have been tempted in the desert.
 
@@ -44,22 +44,22 @@ Objection 2: Further, Chrysostom says (Hom. xii in Matth.): "Then most especiall
 
 Objection 3: Further, Mat. 4:5, Christ's second temptation is set down, in which "the devil took" Christ up "into the Holy City, and set Him upon the pinnacle of the Temple": which is certainly not in the desert. Therefore He was not tempted in the desert only.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mk. 1:13) that Jesus "was in the desert forty days and forty nights, and was tempted by Satan."
 
 I answer that, As stated above (A[1], ad 2), Christ of His own free-will exposed Himself to be tempted by the devil, just as by His own free-will He submitted to be killed by His members; else the devil would not have dared to approach Him. Now the devil prefers to assail a man who is alone, for, as it is written (Eccles. 4:12), "if a man prevail against one, two shall withstand him." And so it was that Christ went out into the desert, as to a field of battle, to be tempted there by the devil. Hence Ambrose says on Lk. 4:1, that "Christ was led into the desert for the purpose of provoking the devil. For had he," i.e. the devil, "not fought, He," i.e. Christ, "would not have conquered." He adds other reasons, saying that "Christ in doing this set forth the mystery of Adam's delivery from exile," who had been expelled from paradise into the desert, and "set an example to us, by showing that the devil envies those who strive for better things."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ is set as an example to all through faith, according to Heb. 12:2: "Looking on Jesus, the author and finisher of faith." Now faith, as it is written (Rom. 10:17), "cometh by hearing," but not by seeing: nay, it is even said (Jn. 20:29): "Blessed are they that have not seen and have believed." And therefore, in order that Christ's temptation might be an example to us, it behooved that men should not see it, and it was enough that they should hear it related.
 
 Reply to Objection 2: The occasions of temptation are twofold. one is on the part of man---for instance, when a man causes himself to be near to sin by not avoiding the occasion of sinning. And such occasions of temptation should be avoided, as it is written of Lot (Gn. 19:17): "Neither stay thou in all the country about" Sodom.
 
 Reply to Objection 3: Some say that all the temptations took place in the desert. Of these some say that Christ was led into the Holy City, not really, but in an imaginary vision; while others say that the Holy City itself, i.e. Jerusalem, is called "a desert," because it was deserted by God. But there is no need for this explanation. For Mark says that He was tempted in the desert by the devil, but not that He was tempted in the desert only.
-## Whether Christ's Temptation Should Have Taken Place After His Fast?
+### Whether Christ's Temptation Should Have Taken Place After His Fast?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ's temptation should not have taken place after His fast. For it has been said above ([4212]Q[40], A[2]) that an austere mode of life was not becoming to Christ. But it savors of extreme austerity that He should have eaten nothing for forty days and forty nights, for Gregory (Hom. xvi inn Evang.) explains the fact that "He fasted forty days and forty nights," saying that "during that time He partook of no food whatever." It seems, therefore, that He should not thus have fasted before His temptation.
 
@@ -67,7 +67,7 @@ Objection 2: Further, it is written (Mk. 1:13) that "He was in the desert forty 
 
 Objection 3: Further, we read that Christ fasted but once. But He was tempted by the devil, not only once, for it is written (Lk. 4:13) "that all the temptation being ended, the devil departed from Him for a time." As, therefore, He did not fast before the second temptation, so neither should He have fasted before the first.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 4:2,3): "When He had fasted forty days and forty nights, afterwards He was hungry": and then "the tempter came to Him."
 
@@ -77,16 +77,16 @@ Secondly, in order to show that the devil assails with temptations even those wh
 
 Thirdly, because after the fast, hunger followed, which made the devil dare to approach Him, as already stated (A[1], ad 1). Now, when "our Lord was hungry," says Hilary (Super Matth. iii), "it was not because He was overcome by want of food, but because He abandoned His manhood to its nature. For the devil was to be conquered, not by God, but by the flesh." Wherefore Chrysostom too says: "He proceeded no farther than Moses and Elias, lest His assumption of our flesh might seem incredible."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It was becoming for Christ not to adopt an extreme form of austere life in order to show Himself outwardly in conformity with those to whom He preached. Now, no one should take up the office of preacher unless he be already cleansed and perfect in virtue, according to what is said of Christ, that "Jesus began to do and to teach" (Acts 1:1). Consequently, immediately after His baptism Christ adopted an austere form of life, in order to teach us the need of taming the flesh before passing on to the office of preaching, according to the Apostle (1 Cor. 9:27): "I chastise my body, and bring it into subjection, lest perhaps when I have preached to others, I myself should become a castaway."
 
 Reply to Objection 2: These words of Mark may be understood as meaning that "He was in the desert forty days and forty nights," and that He fasted during that time: and the words, "and He was tempted by Satan," may be taken as referring, not to the time during which He fasted, but to the time that followed: since Matthew says that "after He had fasted forty days and forty nights, afterwards He was hungry," thus affording the devil a pretext for approaching Him. And so the words that follow, and the angels ministered to Him, are to be taken in sequence, which is clear from the words of Matthew (4:11): "Then the devil left Him," i.e. after the temptation, "and behold angels came and ministered to Him." And as to the words inserted by Mark, "and He was with the beasts," according to Chrysostom (Hom. xiii in Matth.), they are set down in order to describe the desert as being impassable to man and full of beasts.
 
 Reply to Objection 3: As Ambrose says on Lk. 4:13, the devil departed from Christ "for a time, because, later on, he returned, not to tempt Him, but to assail Him openly"---namely, at the time of His Passion. Nevertheless, He seemed in this later assault to tempt Christ to dejection and hatred of His neighbor; just as in the desert he had tempted Him to gluttonous pleasure and idolatrous contempt of God.
-## Whether The Mode And Order Of The Temptation Were Becoming?
+### Whether The Mode And Order Of The Temptation Were Becoming?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the mode and order of the temptation were unbecoming. For the devil tempts in order to induce us to sin. But if Christ had assuaged His bodily hunger by changing the stones into bread, He would not have sinned; just as neither did He sin when He multiplied the loaves, which was no less a miracle, in order to succor the hungry crowd. Therefore it seems that this was nowise a temptation.
 
@@ -102,7 +102,7 @@ Objection 6: Further, Jerome says on Mat. 4:4 that "Christ purposed to overcome 
 
 Objection 7: Further, the gospel narrative seems to be false. For it seems impossible that Christ could have been set on a pinnacle of the Temple without being seen by others. Nor is there to be found a mountain so high that all the world can be seen from it, so that all the kingdoms of the earth could be shown to Christ from its summit. It seems, therefore, that Christ's temptation is unfittingly described.
 
-### Answer
+**Answer**
 
 
 
@@ -112,7 +112,7 @@ Thus, too, did the devil set about the temptation of the first man. For at first
 
 And Christ resisted these temptations by quoting the authority of the Law, not by enforcing His power, "so as to give more honor to His human nature and a greater punishment to His adversary, since the foe of the human race was vanquished, not as by God, but as by man"; as Pope Leo says (Serm. 1, De Quadrag. 3).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To make use of what is needful for self-support is not the sin of gluttony; but if a man do anything inordinate out of the desire for such support, it can pertain to the sin of gluttony. Now it is inordinate for a man who has human assistance at his command to seek to obtain food miraculously for mere bodily support. Hence the Lord miraculously provided the children of Israel with manna in the desert, where there was no means of obtaining food otherwise. And in like fashion Christ miraculously provided the crowds with food in the desert, when there was no other means of getting food. But in order to assuage His hunger, He could have done otherwise than work a miracle, as did John the Baptist, according to Matthew (3:4); or He could have hastened to the neighboring country. Consequently the devil esteemed that if Christ was a mere man, He would fall into sin by attempting to assuage His hunger by a miracle.
 

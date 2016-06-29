@@ -5,9 +5,9 @@ The divine relations are next to be considered, in four points of inquiry:
 (2) Whether those relations are the divine essence itself, or are extrinsic to it?
 (3) Whether in God there can be several relations distinct from each other?
 (4) The number of these relations.
-## Whether There Are Real Relations In God?
+### Whether There Are Real Relations In God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are no real relations in God. For Boethius says (De Trin. iv), "All possible predicaments used as regards the Godhead refer to the substance; for nothing can be predicated relatively." But whatever really exists in God can be predicated of Him. Therefore no real relation exists in God.
 
@@ -17,13 +17,13 @@ Objection 3: Further, the relation of paternity is the relation of a principle. 
 
 Objection 4: Further, the divine generation proceeds by way of an intelligible word. But the relations following upon the operation of the intellect are logical relations. Therefore paternity and filiation in God, consequent upon generation, are only logical relations.
 
-### Answer
+**Answer**
 
 On the contrary, The Father is denominated only from paternity; and the Son only from filiation. Therefore, if no real paternity or filiation existed in God, it would follow that God is not really Father or Son, but only in our manner of understanding; and this is the Sabellian heresy.
 
 I answer that, relations exist in God really; in proof whereof we may consider that in relations alone is found something which is only in the apprehension and not in reality. This is not found in any other genus; forasmuch as other genera, as quantity and quality, in their strict and proper meaning, signify something inherent in a subject. But relation in its own proper meaning signifies only what refers to another. Such regard to another exists sometimes in the nature of things, as in those things which by their own very nature are ordered to each other, and have a mutual inclination; and such relations are necessarily real relations; as in a heavy body is found an inclination and order to the centre; and hence there exists in the heavy body a certain respect in regard to the centre and the same applies to other things. Sometimes, however, this regard to another, signified by relation, is to be found only in the apprehension of reason comparing one thing to another, and this is a logical relation only; as, for instance, when reason compares man to animal as the species to the genus. But when something proceeds from a principle of the same nature, then both the one proceeding and the source of procession, agree in the same order; and then they have real relations to each other. Therefore as the divine processions are in the identity of the same nature, as above explained ([237]Q[27], AA[2],4), these relations, according to the divine processions, are necessarily real relations.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Relationship is not predicated of God according to its proper and formal meaning, that is to say, in so far as its proper meaning denotes comparison to that in which relation is inherent, but only as denoting regard to another. Nevertheless Boethius did not wish to exclude relation in God; but he wished to show that it was not to be predicated of Him as regards the mode of inherence in Himself in the strict meaning of relation; but rather by way of relation to another.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: The relation signified by the term "the same" is a logical
 Reply to Objection 3: As the creature proceeds from God in diversity of nature, God is outside the order of the whole creation, nor does any relation to the creature arise from His nature; for He does not produce the creature by necessity of His nature, but by His intellect and will, as is above explained ([238]Q[14], AA[3],4; [239]Q[19], A[8]). Therefore there is no real relation in God to the creature; whereas in creatures there is a real relation to God; because creatures are contained under the divine order, and their very nature entails dependence on God. On the other hand, the divine processions are in one and the same nature. Hence no parallel exists.
 
 Reply to Objection 4: Relations which result from the mental operation alone in the objects understood are logical relations only, inasmuch as reason observes them as existing between two objects perceived by the mind. Those relations, however, which follow the operation of the intellect, and which exist between the word intellectually proceeding and the source whence it proceeds, are not logical relations only, but are real relations; inasmuch as the intellect and the reason are real things, and are really related to that which proceeds from them intelligibly; as a corporeal thing is related to that which proceeds from it corporeally. Thus paternity and filiation are real relations in God.
-## Whether Relation In God Is The Same As His Essence?
+### Whether Relation In God Is The Same As His Essence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the divine relation is not the same as the divine essence. For Augustine says (De Trin. v) that "not all that is said of God is said of His substance, for we say some things relatively, as Father in respect of the Son: but such things do not refer to the substance." Therefore the relation is not the divine essence.
 
@@ -42,7 +42,7 @@ Objection 2: Further, Augustine says (De Trin. vii) that, "every relative expres
 
 Objection 3: Further, the essence of relation is the being referred to another, as the Philosopher says (Praedic. v). So if relation is the divine essence, it follows that the divine essence is essentially itself a relation to something else; whereas this is repugnant to the perfection of the divine essence, which is supremely absolute and self-subsisting ([240]Q[3], A[4]). Therefore relation is not the divine essence.
 
-### Answer
+**Answer**
 
 On the contrary, Everything which is not the divine essence is a creature. But relation really belongs to God; and if it is not the divine essence, it is a creature; and it cannot claim the adoration of latria; contrary to what is sung in the Preface: "Let us adore the distinction of the Persons, and the equality of their Majesty."
 
@@ -54,16 +54,16 @@ Now whatever has an accidental existence in creatures, when considered as transf
 
 Thus it is manifest that relation really existing in God is really the same as His essence and only differs in its mode of intelligibility; as in relation is meant that regard to its opposite which is not expressed in the name of essence. Thus it is clear that in God relation and essence do not differ from each other, but are one and the same.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These words of Augustine do not imply that paternity or any other relation which is in God is not in its very being the same as the divine essence; but that it is not predicated under the mode of substance, as existing in Him to Whom it is applied; but as a relation. So there are said to be two predicaments only in God, since other predicaments import habitude to that of which they are spoken, both in their generic and in their specific nature; but nothing that exists in God can have any relation to that wherein it exists or of whom it is spoken, except the relation of identity; and this by reason of God's supreme simplicity.
 
 Reply to Objection 2: As the relation which exists in creatures involves not only a regard to another, but also something absolute, so the same applies to God, yet not in the same way. What is contained in the creature above and beyond what is contained in the meaning of relation, is something else besides that relation; whereas in God there is no distinction, but both are one and the same; and this is not perfectly expressed by the word "relation," as if it were comprehended in the ordinary meaning of that term. For it was above explained ([241]Q[13], A[2]), in treating of the divine names, that more is contained in the perfection of the divine essence than can be signified by any name. Hence it does not follow that there exists in God anything besides relation in reality; but only in the various names imposed by us.
 
 Reply to Objection 3: If the divine perfection contained only what is signified by relative names, it would follow that it is imperfect, being thus related to something else; as in the same way, if nothing more were contained in it than what is signified by the word "wisdom," it would not in that case be a subsistence. But as the perfection of the divine essence is greater than can be included in any name, it does not follow, if a relative term or any other name applied to God signify something imperfect, that the divine essence is in any way imperfect; for the divine essence comprehends within itself the perfection of every genus ([242]Q[4], A[2]).
-## Whether The Relations In God Are Really Distinguished From Each Other?
+### Whether The Relations In God Are Really Distinguished From Each Other?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the divine relations are not really distinguished from each other. For things which are identified with the same, are identified with each other. But every relation in God is really the same as the divine essence. Therefore the relations are not really distinguished from each other.
 
@@ -71,22 +71,22 @@ Objection 2: Further, as paternity and filiation are by name distinguished from 
 
 Objection 3: Further, in God there is no real distinction but that of origin. But one relation does not seem to arise from another. Therefore the relations are not really distinguished from each other.
 
-### Answer
+**Answer**
 
 On the contrary, Boethius says (De Trin.) that in God "the substance contains the unity; and relation multiplies the trinity." Therefore, if the relations were not really distinguished from each other, there would be no real trinity in God, but only an ideal trinity, which is the error of Sabellius.
 
 I answer that, The attributing of anything to another involves the attribution likewise of whatever is contained in it. So when "man" is attributed to anyone, a rational nature is likewise attributed to him. The idea of relation, however, necessarily means regard of one to another, according as one is relatively opposed to another. So as in God there is a real relation [243](A[1]), there must also be a real opposition. The very nature of relative opposition includes distinction. Hence, there must be real distinction in God, not, indeed, according to that which is absolute---namely, essence, wherein there is supreme unity and simplicity---but according to that which is relative.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to the Philosopher (Phys. iii), this argument holds, that whatever things are identified with the same thing are identified with each other, if the identity be real and logical; as, for instance, a tunic and a garment; but not if they differ logically. Hence in the same place he says that although action is the same as motion, and likewise passion; still it does not follow that action and passion are the same; because action implies reference as of something "from which" there is motion in the thing moved; whereas passion implies reference as of something "which is from" another. Likewise, although paternity, just as filiation, is really the same as the divine essence; nevertheless these two in their own proper idea and definitions import opposite respects. Hence they are distinguished from each other.
 
 Reply to Objection 2: Power and goodness do not import any opposition in their respective natures; and hence there is no parallel argument.
 
 Reply to Objection 3: Although relations, properly speaking, do not arise or proceed from each other, nevertheless they are considered as opposed according to the procession of one from another.
-## Whether In God There Are Only Four Real Relations---paternity, Filiation, Spiration, And Procession?
+### Whether In God There Are Only Four Real Relations---paternity, Filiation, Spiration, And Procession?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in God there are not only four real relations---paternity, filiation, spiration and procession. For it must be observed that in God there exist the relations of the intelligent agent to the object understood; and of the one willing to the object willed; which are real relations not comprised under those above specified. Therefore there are not only four real relations in God.
 
@@ -98,13 +98,13 @@ Objection 4: Further, equality, and likeness, and identity are relations: and th
 
 Objection 5: Further, it may also contrariwise be said that there are fewer relations in God than those above named. For, according to the Philosopher (Phys. iii text 24), "It is the same way from Athens to Thebes, as from Thebes to Athens." By the same way of reasoning there is the same relation from the Father to the Son, that of paternity, and from the Son to the Father, that of filiation; and thus there are not four relations in God.
 
-### Answer
+**Answer**
 
 
 
 I answer that, According to the Philosopher (Metaph. v), every relation is based either on quantity, as double and half; or on action and passion, as the doer and the deed, the father and the son, the master and the servant, and the like. Now as there is no quantity in God, for He is great without quantity, as Augustine says (De Trin. i, 1) it follows that a real relation in God can be based only on action. Such relations are not based on the actions of God according to any extrinsic procession, forasmuch as the relations of God to creatures are not real in Him ([245]Q[13], A[7]). Hence, it follows that real relations in God can be understood only in regard to those actions according to which there are internal, and not external, processions in God. These processions are two only, as above explained ([246]Q[27], A[5]), one derived from the action of the intellect, the procession of the Word; and the other from the action of the will, the procession of love. In respect of each of these processions two opposite relations arise; one of which is the relation of the person proceeding from the principle; the other is the relation of the principle Himself. The procession of the Word is called generation in the proper sense of the term, whereby it is applied to living things. Now the relation of the principle of generation in perfect living beings is called paternity; and the relation of the one proceeding from the principle is called filiation. But the procession of Love has no proper name of its own ([247]Q[27], A[4]); and so neither have the ensuing relations a proper name of their own. The relation of the principle of this procession is called spiration; and the relation of the person proceeding is called procession: although these two names belong to the processions or origins themselves, and not to the relations.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In those things in which there is a difference between the intellect and its object, and the will and its object, there can be a real relation, both of science to its object, and of the willer to the object willed. In God, however, the intellect and its object are one and the same; because by understanding Himself, God understands all other things; and the same applies to His will and the object that He wills. Hence it follows that in God these kinds of relations are not real; as neither is the relation of a thing to itself. Nevertheless, the relation to the word is a real relation; because the word is understood as proceeding by an intelligible action; and not as a thing understood. For when we understand a stone; that which the intellect conceives from the thing understood, is called the word.
 

@@ -5,9 +5,9 @@ We must now consider the gift of counsel which corresponds to prudence. Under th
 (2) Whether the gift of counsel corresponds to prudence?
 (3) Whether the gift of counsel remains in heaven?
 (4) Whether the fifth beatitude, "Blessed are the merciful," etc. corresponds to the gift of counsel?
-## Whether Counsel Should Be Reckoned Among The Gifts Of The Holy Ghost?
+### Whether Counsel Should Be Reckoned Among The Gifts Of The Holy Ghost?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that counsel should not be reckoned among the gifts of the Holy Ghost. The gifts of the Holy Ghost are given as a help to the virtues, according to Gregory (Moral. ii, 49). Now for the purpose of taking counsel, man is sufficiently perfected by the virtue of prudence, or even of {euboulia} (deliberating well), as is evident from what has been said ([2799]Q[47], A[1], ad 2;[2800] Q[51], AA[1],2). Therefore counsel should not be reckoned among the gifts of the Holy Ghost.
 
@@ -15,22 +15,22 @@ Objection 2: Further, the difference between the seven gifts of the Holy Ghost a
 
 Objection 3: Further, it is written (Rom. 8:14): "Whosoever are led by the Spirit of God, they are the sons of God." But counselling is not consistent with being led by another. Since then the gifts of the Holy Ghost are most befitting the children of God, who "have received the spirit of adoption of sons," it would seem that counsel should not be numbered among the gifts of the Holy Ghost.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 11:2): "(The Spirit of the Lord) shall rest upon him . . . the spirit of counsel, and of fortitude."
 
 I answer that, As stated above ([2801]FS, Q[68], A[1]), the gifts of the Holy Ghost are dispositions whereby the soul is rendered amenable to the motion of the Holy Ghost. Now God moves everything according to the mode of the thing moved: thus He moves the corporeal creature through time and place, and the spiritual creature through time, but not through place, as Augustine declares (Gen. ad lit. viii, 20,22). Again, it is proper to the rational creature to be moved through the research of reason to perform any particular action, and this research is called counsel. Hence the Holy Ghost is said to move the rational creature by way of counsel, wherefore counsel is reckoned among the gifts of the Holy Ghost.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Prudence or {euboulia} (deliberating well), whether acquired or infused, directs man in the research of counsel according to principles that the reason can grasp; hence prudence or {euboulia} (deliberating well) makes man take good counsel either for himself or for another. Since, however, human reason is unable to grasp the singular and contingent things which may occur, the result is that "the thoughts of mortal men are fearful, and our counsels uncertain" (Wis. 9:14). Hence in the research of counsel, man requires to be directed by God who comprehends all things: and this is done through the gift of counsel, whereby man is directed as though counseled by God, just as, in human affairs, those who are unable to take counsel for themselves, seek counsel from those who are wiser.
 
 Reply to Objection 2: That a man be of such good counsel as to counsel others, may be due to a gratuitous grace; but that a man be counselled by God as to what he ought to do in matters necessary for salvation is common to all holy persons.
 
 Reply to Objection 3: The children of God are moved by the Holy Ghost according to their mode, without prejudice to their free-will which is the "faculty of will and reason" [*Sent. iii, D, 24]. Accordingly the gift of counsel is befitting the children of God in so far as the reason is instructed by the Holy Ghost about what we have to do.
-## Whether The Gift Of Counsel Corresponds To The Virtue Of Prudence?
+### Whether The Gift Of Counsel Corresponds To The Virtue Of Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the gift of counsel does not fittingly correspond to the virtue of prudence. For "the highest point of that which is underneath touches that which is above," as Dionysius observes (Div. Nom. vii), even as a man comes into contact with the angel in respect of his intellect. Now cardinal virtues are inferior to the gifts, as stated above ([2802]FS, Q[68], A[8]). Since, then, counsel is the first and lowest act of prudence, while command is its highest act, and judgment comes between, it seems that the gift corresponding to prudence is not counsel, but rather a gift of judgment or command.
 
@@ -38,22 +38,22 @@ Objection 2: Further, one gift suffices to help one virtue, since the higher a t
 
 Objection 3: Further, it belongs properly to prudence to direct, as stated above (Q[47], A[8]). But it belongs to the gift of counsel that man should be directed by God, as stated above [2804](A[1]). Therefore the gift of counsel does not correspond to the virtue of prudence.
 
-### Answer
+**Answer**
 
 On the contrary, The gift of counsel is about what has to be done for the sake of the end. Now prudence is about the same matter. Therefore they correspond to one another.
 
 I answer that, A lower principle of movement is helped chiefly, and is perfected through being moved by a higher principle of movement, as a body through being moved by a spirit. Now it is evident that the rectitude of human reason is compared to the Divine Reason, as a lower motive principle to a higher: for the Eternal Reason is the supreme rule of all human rectitude. Consequently prudence, which denotes rectitude of reason, is chiefly perfected and helped through being ruled and moved by the Holy Ghost, and this belongs to the gift of counsel, as stated above [2805](A[1]). Therefore the gift of counsel corresponds to prudence, as helping and perfecting it.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To judge and command belongs not to the thing moved, but to the mover. Wherefore, since in the gifts of the Holy Ghost, the position of the human mind is of one moved rather than of a mover, as stated above [2806](A[1]; [2807]FS, Q[68], A[1]), it follows that it would be unfitting to call the gift corresponding to prudence by the name of command or judgment rather than of counsel whereby it is possible to signify that the counselled mind is moved by another counselling it.
 
 Reply to Objection 2: The gift of knowledge does not directly correspond to prudence, since it deals with speculative matters: yet by a kind of extension it helps it. On the other hand the gift of counsel corresponds to prudence directly, because it is concerned about the same things.
 
 Reply to Objection 3: The mover that is moved, moves through being moved. Hence the human mind, from the very fact that it is directed by the Holy Ghost, is enabled to direct itself and others.
-## Whether The Gift Of Counsel Remains In Heaven?
+### Whether The Gift Of Counsel Remains In Heaven?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the gift of counsel does not remain in heaven. For counsel is about what has to be done for the sake of an end. But in heaven nothing will have to be done for the sake of an end, since there man possesses the last end. Therefore the gift of counsel is not in heaven.
 
@@ -61,7 +61,7 @@ Objection 2: Further, counsel implies doubt, for it is absurd to take counsel in
 
 Objection 3: Further, the saints in heaven are most conformed to God, according to 1 Jn. 3:2, "When He shall appear, we shall be like to Him." But counsel is not becoming to God, according to Rom. 11:34, "Who hath been His counsellor?" Therefore neither to the saints in heaven is the gift of counsel becoming.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xvii, 12): "When either the guilt or the righteousness of each nation is brought into the debate of the heavenly Court, the guardian of that nation is said to have won in the conflict, or not to have won."
 
@@ -71,16 +71,16 @@ Nevertheless there are things which the blessed, whether angels or men, do not k
 
 Accordingly the gift of counsel is in the blessed, in so far as God preserves in them the knowledge that they have, and enlightens them in their nescience of what has to be done.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Even in the blessed there are acts directed to an end, or resulting, as it were, from their attainment of the end, such as the acts of praising God, or of helping on others to the end which they themselves have attained, for example the ministrations of the angels, and the prayers of the saints. In this respect the gift of counsel finds a place in them.
 
 Reply to Objection 2: Doubt belongs to counsel according to the present state of life, but not to that counsel which takes place in heaven. Even so neither have the theological virtues quite the same acts in heaven as on the way thither.
 
 Reply to Objection 3: Counsel is in God, not as receiving but as giving it: and the saints in heaven are conformed to God, as receivers to the source whence they receive.
-## Whether The Fifth Beatitude, Which Is That Of Mercy, Corresponds To The Gift Of Counsel?
+### Whether The Fifth Beatitude, Which Is That Of Mercy, Corresponds To The Gift Of Counsel?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fifth beatitude, which is that of mercy, does not correspond to the gift of counsel. For all the beatitudes are acts of virtue, as stated above ([2810]FS, Q[69], A[1]). Now we are directed by counsel in all acts of virtue. Therefore the fifth beatitude does not correspond more than any other to counsel.
 
@@ -88,13 +88,13 @@ Objection 2: Further, precepts are given about matters necessary for salvation, 
 
 Objection 3: Further, the fruits result from the beatitudes, for they denote a certain spiritual delight resulting from perfect acts of virtue. Now none of the fruits correspond to the gift of counsel, as appears from Gal. 5:22, 23. Therefore neither does the beatitude of mercy correspond to the gift of counsel.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Serm. Dom. iv): "Counsel is befitting the merciful, because the one remedy is to be delivered from evils so great, to pardon, and to give."
 
 I answer that, Counsel is properly about things useful for an end. Hence such things as are of most use for an end, should above all correspond to the gift of counsel. Now such is mercy, according to 1 Tim. 4:8, "Godliness [*'Pietas,' which our English word 'pity,' which is the same as mercy; see note on [2811]SS, Q[30], A[1]] is profitable to all things." Therefore the beatitude of mercy specially corresponds to the gift of counsel, not as eliciting but as directing mercy.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although counsel directs in all the acts of virtue, it does so in a special way in works of mercy, for the reason given above.
 

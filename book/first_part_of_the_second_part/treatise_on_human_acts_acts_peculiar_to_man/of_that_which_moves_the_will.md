@@ -7,9 +7,9 @@ We must now consider what moves the will: and under this head there are six poin
 (4) Whether it is moved by an extrinsic principle?
 (5) Whether it is moved by a heavenly body?
 (6) Whether the will is moved by God alone as by an extrinsic principle?
-## Whether The Will Is Moved By The Intellect?
+### Whether The Will Is Moved By The Intellect?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will is not moved by the intellect. For Augustine says on Ps. 118:20: "My soul hath coveted to long for Thy justifications: The intellect flies ahead, the desire follows sluggishly or not at all: we know what is good, but deeds delight us not." But it would not be so, if the will were moved by the intellect: because movement of the movable results from motion of the mover. Therefore the intellect does not move the will.
 
@@ -17,7 +17,7 @@ Objection 2: Further, the intellect in presenting the appetible object to the wi
 
 Objection 3: Further, the same is not mover and moved in respect of the same thing. But the will moves the intellect; for we exercise the intellect when we will. Therefore the intellect does not move the will.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (De Anima iii, 10) that "the appetible object is a mover not moved, whereas the will is a mover moved."
 
@@ -27,16 +27,16 @@ The motion of the subject itself is due to some agent. And since every agent act
 
 On the other hand, the object moves, by determining the act, after the manner of a formal principle, whereby in natural things actions are specified, as heating by heat. Now the first formal principle is universal "being" and "truth," which is the object of the intellect. And therefore by this kind of motion the intellect moves the will, as presenting its object to it.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The passage quoted proves, not that the intellect does not move, but that it does not move of necessity.
 
 Reply to Objection 2: Just as the imagination of a form without estimation of fitness or harmfulness, does not move the sensitive appetite; so neither does the apprehension of the true without the aspect of goodness and desirability. Hence it is not the speculative intellect that moves, but the practical intellect (De Anima iii, 9).
 
 Reply to Objection 3: The will moves the intellect as to the exercise of its act; since even the true itself which is the perfection of the intellect, is included in the universal good, as a particular good. But as to the determination of the act, which the act derives from the object, the intellect moves the will; since the good itself is apprehended under a special aspect as contained in the universal true. It is therefore evident that the same is not mover and moved in the same respect.
-## Whether The Will Is Moved By The Sensitive Appetite?
+### Whether The Will Is Moved By The Sensitive Appetite?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will cannot be moved by the sensitive appetite. For "to move and to act is more excellent than to be passive," as Augustine says (Gen. ad lit. xii, 16). But the sensitive appetite is less excellent than the will which is the intellectual appetite; just as sense is less excellent than intellect. Therefore the sensitive appetite does not move the will.
 
@@ -44,7 +44,7 @@ Objection 2: Further, no particular power can produce a universal effect. But th
 
 Objection 3: Further, as is proved in Phys. viii, 5, the mover is not moved by that which it moves, in such a way that there be reciprocal motion. But the will moves the sensitive appetite, inasmuch as the sensitive appetite obeys the reason. Therefore the sensitive appetite does not move the will.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (James 1:14): "Every man is tempted by his own concupiscence, being drawn away and allured." But man would not be drawn away by his concupiscence, unless his will were moved by the sensitive appetite, wherein concupiscence resides. Therefore the sensitive appetite moves the will.
 
@@ -52,16 +52,16 @@ I answer that, As stated above [1066](A[1]), that which is apprehended as good a
 
 Now it is evident that according to a passion of the sensitive appetite man is changed to a certain disposition. Wherefore according as man is affected by a passion, something seems to him fitting, which does not seem so when he is not so affected: thus that seems good to a man when angered, which does not seem good when he is calm. And in this way, the sensitive appetite moves the will, on the part of the object.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Nothing hinders that which is better simply and in itself, from being less excellent in a certain respect. Accordingly the will is simply more excellent than the sensitive appetite: but in respect of the man in whom a passion is predominant, in so far as he is subject to that passion, the sensitive appetite is more excellent.
 
 Reply to Objection 2: Men's acts and choices are in reference to singulars. Wherefore from the very fact that the sensitive appetite is a particular power, it has great influence in disposing man so that something seems to him such or otherwise, in particular cases.
 
 Reply to Objection 3: As the Philosopher says (Polit. i, 2), the reason, in which resides the will, moves, by its command, the irascible and concupiscible powers, not, indeed, "by a despotic sovereignty," as a slave is moved by his master, but by a "royal and politic sovereignty," as free men are ruled by their governor, and can nevertheless act counter to his commands. Hence both irascible and concupiscible can move counter to the will: and accordingly nothing hinders the will from being moved by them at times.
-## Whether The Will Moves Itself?
+### Whether The Will Moves Itself?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will does not move itself. For every mover, as such, is in act: whereas what is moved, is in potentiality; since "movement is the act of that which is in potentiality, as such" [*Aristotle, Phys. iii, 1]. Now the same is not in potentiality and in act, in respect of the same. Therefore nothing moves itself. Neither, therefore, can the will move itself.
 
@@ -69,22 +69,22 @@ Objection 2: Further, the movable is moved on the mover being present. But the w
 
 Objection 3: Further, the will is moved by the intellect, as stated above [1067](A[1]). If, therefore, the will move itself, it would follow that the same thing is at once moved immediately by two movers; which seems unreasonable. Therefore the will does not move itself.
 
-### Answer
+**Answer**
 
 On the contrary, The will is mistress of its own act, and to it belongs to will and not to will. But this would not be so, had it not the power to move itself to will. Therefore it moves itself.
 
 I answer that, As stated above [1068](A[1]), it belongs to the will to move the other powers, by reason of the end which is the will's object. Now, as stated above (Q[8], A[2]), the end is in things appetible, what the principle is in things intelligible. But it is evident that the intellect, through its knowledge of the principle, reduces itself from potentiality to act, as to its knowledge of the conclusions; and thus it moves itself. And, in like manner, the will, through its volition of the end, moves itself to will the means.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is not in respect of the same that the will moves itself and is moved: wherefore neither is it in act and in potentiality in respect of the same. But forasmuch as it actually wills the end, it reduces itself from potentiality to act, in respect of the means, so as, in a word, to will them actually.
 
 Reply to Objection 2: The power of the will is always actually present to itself; but the act of the will, whereby it wills an end, is not always in the will. But it is by this act that it moves itself. Accordingly it does not follow that it is always moving itself.
 
 Reply to Objection 3: The will is moved by the intellect, otherwise than by itself. By the intellect it is moved on the part of the object: whereas it is moved by itself, as to the exercise of its act, in respect of the end.
-## Whether The Will Is Moved By An Exterior Principle?
+### Whether The Will Is Moved By An Exterior Principle?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will is not moved by anything exterior. For the movement of the will is voluntary. But it is essential to the voluntary act that it be from an intrinsic principle, just as it is essential to the natural act. Therefore the movement of the will is not from anything exterior.
 
@@ -92,7 +92,7 @@ Objection 2: Further, the will cannot suffer violence, as was shown above ([1069
 
 Objection 3: Further, that which is sufficiently moved by one mover, needs not to be moved by another. But the will moves itself sufficiently. Therefore it is not moved by anything exterior.
 
-### Answer
+**Answer**
 
 On the contrary, The will is moved by the object, as stated above (A[1] ). But the object of the will can be something exterior, offered to the sense. Therefore the will can be moved by something exterior.
 
@@ -100,16 +100,16 @@ I answer that, As far as the will is moved by the object, it is evident that it 
 
 For everything that is at one time an agent actually, and at another time an agent in potentiality, needs to be moved by a mover. Now it is evident that the will begins to will something, whereas previously it did not will it. Therefore it must, of necessity, be moved by something to will it. And, indeed, it moves itself, as stated above [1070](A[3]), in so far as through willing the end it reduces itself to the act of willing the means. Now it cannot do this without the aid of counsel: for when a man wills to be healed, he begins to reflect how this can be attained, and through this reflection he comes to the conclusion that he can be healed by a physician: and this he wills. But since he did not always actually will to have health, he must, of necessity, have begun, through something moving him, to will to be healed. And if the will moved itself to will this, it must, of necessity, have done this with the aid of counsel following some previous volition. But this process could not go on to infinity. Wherefore we must, of necessity, suppose that the will advanced to its first movement in virtue of the instigation of some exterior mover, as Aristotle concludes in a chapter of the Eudemian Ethics (vii, 14).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is essential to the voluntary act that its principle be within the agent: but it is not necessary that this inward principle be the first principle unmoved by another. Wherefore though the voluntary act has an inward proximate principle, nevertheless its first principle is from without. Thus, too, the first principle of the natural movement is from without, that, to wit, which moves nature.
 
 Reply to Objection 2: For an act to be violent it is not enough that its principle be extrinsic, but we must add "without the concurrence of him that suffers violence." This does not happen when the will is moved by an exterior principle: for it is the will that wills, though moved by another. But this movement would be violent, if it were counter to the movement of the will: which in the present case is impossible; since then the will would will and not will the same thing.
 
 Reply to Objection 3: The will moves itself sufficiently in one respect, and in its own order, that is to say as proximate agent; but it cannot move itself in every respect, as we have shown. Wherefore it needs to be moved by another as first mover.
-## Whether The Will Is Moved By A Heavenly Body?
+### Whether The Will Is Moved By A Heavenly Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the human will is moved by a heavenly body. For all various and multiform movements are reduced, as to their cause, to a uniform movement which is that of the heavens, as is proved in Phys. viii, 9. But human movements are various and multiform, since they begin to be, whereas previously they were not. Therefore they are reduced, as to their cause, to the movement of the heavens, which is uniform according to its nature.
 
@@ -117,7 +117,7 @@ Objection 2: Further, according to Augustine (De Trin. iii, 4) "the lower bodies
 
 Objection 3: Further, by observing the heavenly bodies astrologers foretell the truth about future human acts, which are caused by the will. But this would not be so, if the heavenly bodies could not move man's will. Therefore the human will is moved by a heavenly body.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. ii, 7) that "the heavenly bodies are not the causes of our acts." But they would be, if the will, which is the principle of human acts, were moved by the heavenly bodies. Therefore the will is not moved by the heavenly bodies.
 
@@ -127,16 +127,16 @@ But some have maintained that heavenly bodies have an influence on the human wil
 
 But since it has been stated [1071](A[2]) that the intellectual appetite is moved, in a fashion, by the sensitive appetite, the movements of the heavenly bodies have an indirect bearing on the will; in so far as the will happens to be moved by the passions of the sensitive appetite.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The multiform movements of the human will are reduced to some uniform cause, which, however, is above the intellect and will. This can be said, not of any body, but of some superior immaterial substance. Therefore there is no need for the movement of the will to be referred to the movement of the heavens, as to its cause.
 
 Reply to Objection 2: The movements of the human body are reduced, as to their cause, to the movement of a heavenly body, in so far as the disposition suitable to a particular movement, is somewhat due to the influence of heavenly bodies; also, in so far as the sensitive appetite is stirred by the influence of heavenly bodies; and again, in so far as exterior bodies are moved in accordance with the movement of heavenly bodies, at whose presence, the will begins to will or not to will something; for instance, when the body is chilled, we begin to wish to make the fire. But this movement of the will is on the part of the object offered from without: not on the part of an inward instigation.
 
 Reply to Objection 3: As stated above (Cf. [1072]FP, Q[84], AA[6],7) the sensitive appetite is the act of a bodily organ. Wherefore there is no reason why man should not be prone to anger or concupiscence, or some like passion, by reason of the influence of heavenly bodies, just as by reason of his natural complexion. But the majority of men are led by the passions, which the wise alone resist. Consequently, in the majority of cases predictions about human acts, gathered from the observation of heavenly bodies, are fulfilled. Nevertheless, as Ptolemy says (Centiloquium v), "the wise man governs the stars"; which is a though to say that by resisting his passions, he opposes his will, which is free and nowise subject to the movement of the heavens, to such like effects of the heavenly bodies.
-## Whether The Will Is Moved By God Alone, As Exterior Principle?
+### Whether The Will Is Moved By God Alone, As Exterior Principle?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will is not moved by God alone as exterior principle. For it is natural that the inferior be moved by its superior: thus the lower bodies are moved by the heavenly bodies. But there is something which is higher than the will of man and below God, namely, the angel. Therefore man's will can be moved by an angel also, as exterior principle.
 
@@ -144,7 +144,7 @@ Objection 2: Further, the act of the will follows the act of the intellect. But 
 
 Objection 3: Further, God is not the cause of other than good things, according to Gn. 1:31: "God saw all the things that He had made, and they were very good." If, therefore man's will were moved by God alone, it would never be moved to evil: and yet it is the will whereby "we sin and whereby we do right," as Augustine says (Retract. i, 9).
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Phil. 2:13): "It is God Who worketh in us" [Vulg.'you'] "both to will and to accomplish."
 
@@ -152,7 +152,7 @@ I answer that, The movement of the will is from within, as also is the movement 
 
 Now the cause of the will can be none other than God. And this is evident for two reasons. First, because the will is a power of the rational soul, which is caused by God alone, by creation, as was stated in the [1073]FP, Q[90], A[2]. Secondly, it is evident from the fact that the will is ordained to the universal good. Wherefore nothing else can be the cause of the will, except God Himself, Who is the universal good: while every other good is good by participation, and is some particular good, and a particular cause does not give a universal inclination. Hence neither can primary matter, which is potentiality to all forms, be created by some particular agent.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: An angel is not above man in such a way as to be the cause of his will, as the heavenly bodies are the causes of natural forms, from which result the natural movements of natural bodies.
 

@@ -8,85 +8,85 @@ We must now consider on whom this sacrament should be conferred and on what part
 (5) Whether, in this sacrament, the whole body should be anointed?
 (6) Whether certain parts are suitably assigned to be anointed?
 (7) Whether those who are deformed in the above parts ought to be anointed thereon?
-## Whether This Sacrament Ought To Be Conferred On Those Who Are In Good Health?
+### Whether This Sacrament Ought To Be Conferred On Those Who Are In Good Health?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this sacrament should be conferred even on those who are in good health. For the healing of the mind is a more important effect of this sacrament than the healing of the body, as stated above ([4902]Q[30], A[2]). Now even those who are healthy in body need to be healed in mind. Therefore this sacrament should be conferred on them also.
 
 Objection 2: Further, this is the sacrament of those who are departing this life, just as Baptism is the sacrament of those who are entering this life. Now Baptism is given to all who enter. Therefore this sacrament should be given to all who are departing. But sometimes those who are near departure are in good health, for instance those who are to be beheaded. Therefore this sacrament should be conferred on them.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (James 5:14): "Is any man sick among you," etc. Therefore none but the sick are competent to receive this sacrament.
 
 I answer that, This sacrament is a spiritual healing, as stated above ([4903]Q[30], AA[1],2), and is signified by way of a healing of the body. Hence this sacrament should not be conferred on those who are not subjects for bodily healing, those namely, who are in good health.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although spiritual health is the principal effect of this sacrament, yet this same spiritual healing needs to be signified by a healing of the body, although bodily health may not actually ensue. Consequently spiritual health can be conferred by this sacrament on those alone who are competent to receive bodily healing, viz. the sick; even as he alone can receive Baptism who is capable of a bodily washing, and not a child yet in its mother's womb.
 
 Reply to Objection 2: Even those who are entering into life cannot receive Baptism unless they are capable of a bodily washing. And so those who are departing this life cannot receive this sacrament, unless they be subjects for a bodily healing.
-## Whether This Sacrament Ought To Be Given In Any Kind Of Sickness?
+### Whether This Sacrament Ought To Be Given In Any Kind Of Sickness?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this sacrament should be given in any kind of sickness. For no kind of sickness is determined in the fifth chapter of James where this sacrament is delivered to us. Therefore this sacrament should be given in all kinds of sickness.
 
 Objection 2: Further, the more excellent a remedy is, the more generally should it be available. Now this sacrament is more excellent than bodily medicine. Since then bodily medicine is given to all manner of sick persons, it seems that this sacrament should be given in like manner to all.
 
-### Answer
+**Answer**
 
 On the contrary, This sacrament is called by all Extreme Unction. Now it is not every sickness that brings man to the extremity of his life, since some ailments prolong life, according to the Philosopher (De Long. et Brev. Vitae i). Therefore this sacrament should not be given in every case of sickness.
 
 I answer that, This sacrament is the last remedy that the Church can give, since it is an immediate preparation for glory. Therefore it ought to be given to those only, who are so sick as to be in a state of departure from this life, through their sickness being of such a nature as to cause death, the danger of which is to be feared.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Any sickness can cause death, if it be aggravated. Hence if we consider the different kinds of disease, there is none in which this sacrament cannot be given; and for this reason the apostle does not determine any particular one. But if we consider the degree and the stage of the complaint, this sacrament should not be given to every sick person.
 
 Reply to Objection 2: The principal effect of bodily medicine is bodily health, which all sick people lack, whatever be the stage of their sickness. But the principal effect of this sacrament is that immunity from disorder which is needed by those who are taking their departure from this life and setting out for the life of glory. Hence the comparison fails.
-## Whether This Sacrament Ought To Be Given To Madmen And Imbeciles?
+### Whether This Sacrament Ought To Be Given To Madmen And Imbeciles?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this sacrament should be given to madmen and imbeciles. For these diseases are full of danger and cause death quickly. Now when there is danger it is the time to apply the remedy. Therefore this sacrament, which was intended as a remedy to human weakness, should be given to such people.
 
 Objection 2: Further, Baptism is a greater sacrament than this. Now Baptism is conferred on mad people as stated above ([4904]TP, Q[68], A[12]). Therefore this sacrament also should be given to them.
 
-### Answer
+**Answer**
 
 On the contrary, This sacrament should be given to none but such as acknowledge it. Now this does not apply to madmen and imbeciles. Therefore it should not be given to them.
 
 I answer that, The devotion of the recipient, the personal merit of the minister, and the general merits of the whole Church, are of great account towards the reception of the effect of this sacrament. This is evident from the fact that the form of this sacrament is pronounced by way of a prayer. Hence it should not be given those who cannot acknowledge it, and especially to madmen and imbeciles, who might dishonor the sacrament by their offensive conduct, unless they have lucid intervals, when they would be capable of acknowledging the sacrament, for then the sacrament should be given to children the same in that state.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although such people are sometimes in danger of death; yet the remedy cannot be applied to them, on account of their lack of devotion. Hence it should not be given to them.
 
 Reply to Objection 2: Baptism does not require a movement of the free-will, because it is given chiefly as a remedy for original sin, which, in us, is not taken away by a movement of the free-will. On the other hand this sacrament requires a movement of the free-will; wherefore the comparison fails. Moreover Baptism is a necessary sacrament, while Extreme Unction is not.
-## Whether This Sacrament Should Be Given To Children?
+### Whether This Sacrament Should Be Given To Children?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this sacrament ought to be given to children. Because children suffer from the same ailments sometimes as adults. Now the same disease requires the same remedy. Therefore this sacrament should be given to children the same as to adults.
 
 Objection 2: Further, this sacrament is given in order to remove the remnants of sin, whether original or actual, as stated above ([4905]Q[30], A[1]). Now the remnants of original sin are in children. Therefore this sacrament should be given to them.
 
-### Answer
+**Answer**
 
 On the contrary, This sacrament should be given to none but those to whom the form applies. But the form of this sacrament does not apply to children, since they have not sinned by sight and hearing; as expressed in the form. Therefore this sacrament should not be given to them.
 
 I answer that, This sacrament, like the Eucharist, requires actual devotion in the recipient. Therefore, just as the Eucharist ought not to be given to children, so neither ought this sacrament to be given to them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Children's infirmities are not caused by actual sin, as in adults, and this sacrament is given chiefly as a remedy for infirmities that result from sins, being the remnants of sin, as it were.
 
 Reply to Objection 2: This sacrament is not given as a remedy for the remnants of original sin, except in so far as they gather strength, so to speak, from actual sins. Hence from the very form it appears that it is given chiefly as a remedy for actual sins, which are not in children.
-## Whether The Whole Body Should Be Anointed In This Sacrament?
+### Whether The Whole Body Should Be Anointed In This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the whole body should be anointed in this sacrament. For, according to Augustine (De Trin. vi, 6), "the whole soul is in every part of the body." Now this sacrament is given chiefly in order to heal the soul. Therefore the whole body ought to be anointed.
 
@@ -94,22 +94,22 @@ Objection 2: Further, the remedy should be applied to the part affected by the d
 
 Objection 3: Further, in Baptism the whole body is dipped under the water. Therefore in this sacrament the whole body should be anointed.
 
-### Answer
+**Answer**
 
 On the contrary, stands the rite observed throughout the Church, according to which in this sacrament the sick man is anointed, only in certain fixed parts of the body.
 
 I answer that, This sacrament is shown to us under the form of a healing. Now bodily healing has to be effected, by applying the remedy, not to the whole body, but to those parts where the root of the disease is seated. Consequently the sacramental unction also ought to be applied to those parts only in which the spiritual sickness is rooted.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the whole soul is, as to its essence, in each part of the body, it is not as to its powers which are the roots of sinful acts. Hence certain fixed parts have to be anointed, those, namely, in which powers have their being.
 
 Reply to Objection 2: The remedy is not always applied to the part affected by the disease, but, with greater reason, to the part where the root of the disease is seated.
 
 Reply to Objection 3: Baptism is given under the form of washing: and a bodily washing cleanses only the part to which it is applied; for this reason Baptism is applied to the whole body. It is different with Extreme Unction for the reason given above.
-## Whether The Parts To Be Anointed Are Suitably Assigned?
+### Whether The Parts To Be Anointed Are Suitably Assigned?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that these parts are unsuitably assigned, namely, that the eyes, nose, ears, lips, hands, and feet should be anointed. For a wise physician heals the disease in its root. Now "from the heart come forth thoughts . . . that defile a man" (Mat. 15:19,20). Therefore the breast ought to be anointed.
 
@@ -119,7 +119,7 @@ Objection 3: Further, the remedy should be applied where the disease is most vir
 
 Objection 4: Further, sins are committed with other parts of the body, no less than with the feet. Therefore, as the feet are anointed, so ought other members of the body to be anointed.
 
-### Answer
+**Answer**
 
 
 
@@ -127,7 +127,7 @@ I answer that, The principles of sinning are the same in us as the principles of
 
 Now all our knowledge has its origin in the senses. And, since the remedy for sin should be applied where sin originates in us first, for that reason the places of the five senses are anointed. the eyes, to wit, on account of the sight, the ears on account of hearing, the nostrils on account of the smell, the mouth on account of the taste, the hands on account of the touch which is keenest in the finger tips, (in some places too the loins are anointed on account of the appetite), and the feet are anointed on account of the motive power of which they are the chief instrument. And since the cognitive power is the first principle of human activity, the anointing of the five senses is observed by all, as being essential to the sacrament. But some do not observe the other unctions---some also anoint the feet but not the loins---because the appetitive and motive powers are secondary principles.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: No thought arises in the heart without an act of the imagination which is a movement proceeding from sensation (De Anima ii). Hence the primary root of thought is not the heart, but the sensory organs, except in so far as the heart is a principle of the whole body, albeit a remote principle.
 
@@ -136,15 +136,15 @@ Reply to Objection 2: Those who enter have to receive purity of the mind, wherea
 Reply to Objection 3: Some are wont to anoint the loins, because they are the chief seat of the concupiscible appetite: however, as stated above, the appetitive power is not the primary root.
 
 Reply to Objection 4: The bodily organs which are the instruments of sin, are the feet, hands, and tongue, all of which are anointed, and the organs of generation which it would be unbecoming to anoint, on account of their uncleanliness, and out of respect for the sacrament.
-## Whether Those Who Are Deformed In Those Parts Should Be Anointed?
+### Whether Those Who Are Deformed In Those Parts Should Be Anointed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that those who are deformed should not be anointed in those parts. For just as this sacrament demands a certain disposition on the part of the recipient, viz. that he should be sick, so it demands that he should be anointed in a certain part of the body. Now he that is not sick cannot be anointed. Therefore neither can he be anointed who lacks the part to be anointed.
 
 Objection 2: Further, a man born blind does not sin by his sight. Yet in the anointing of the eyes mention is made of sins by sight. Therefore this anointing ought not to be applied to one born blind, and in like manner as regards the other senses.
 
-### Answer
+**Answer**
 
 On the contrary, Bodily deformity is not an impediment to any other sacrament. Therefore it should not be an impediment to this one. Now each of the anointings is essential to the sacrament. Therefore all should be applied to those who are deformed.
 

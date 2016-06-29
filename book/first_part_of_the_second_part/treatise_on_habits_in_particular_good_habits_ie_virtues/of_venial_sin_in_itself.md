@@ -7,9 +7,9 @@ We must now consider venial sin in itself, and under this head there are six poi
 (4) Whether a good or a wicked angel can sin venially?
 (5) Whether the movements of unbelievers are venial sins?
 (6) Whether venial sin can be in a man with original sin alone?
-## Whether Venial Sin Causes A Stain On The Soul?
+### Whether Venial Sin Causes A Stain On The Soul?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that venial sin causes a stain in the soul. For Augustine says (De Poenit.) [*Hom. 50, inter. L., 2], that if venial sins be multiplied, they destroy the beauty of our souls so as to deprive us of the embraces of our heavenly spouse. But the stain of sin is nothing else but the loss of the soul's beauty. Therefore venial sins cause a stain in the soul.
 
@@ -17,22 +17,22 @@ Objection 2: Further, mortal sin causes a stain in the soul, on account of the i
 
 Objection 3: Further, the stain on the soul is caused by contact with a temporal thing, through love thereof as stated above ([1938]Q[86], A[1]). But, in venial sin, the soul is in contact with a temporal thing through inordinate love. therefore, venial sin brings a stain on the soul.
 
-### Answer
+**Answer**
 
 On the contrary, it is written, (Eph. 5:27): "That He might present it to Himself a glorious church, not having spot or wrinkle," on which the gloss says: "i.e., some grievous sin." Therefore it seems proper to mortal sin to cause a stain on the soul.
 
 
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is speaking of the case in which many venial sins lead to mortal sin dispositively: because otherwise they would not sever the soul from its heavenly spouse.
 
 Reply to Objection 2: In mortal sin the inordinateness of the act destroys the habit of virtue, but not in venial sin.
 
 Reply to Objection 3: In mortal sin the soul comes into contact with a temporal thing as its end, so that the shedding of the light of grace, which accrues to those who, by charity, cleave to God as their last end, is entirely cut off. On the contrary, in venial sin, man does not cleave to a creature as his last end: hence there is no comparison.
-## Whether Venial Sins Are Suitably Designated As "Wood, Hay, And Stubble"?
+### Whether Venial Sins Are Suitably Designated As "Wood, Hay, And Stubble"?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that venial sins are unsuitably designated as "wood," "hay," and "stubble." Because wood hay and stubble are said ( 1 Cor. 3:12) to be built on a spiritual foundation. Now venial sins are something outside a spiritual foundation, even as false opinions are outside the pale of science. Therefore, venial sins are not suitably designated as wood, hay and stubble.
 
@@ -42,7 +42,7 @@ Objection 3: Further, according to the Apostle (1 Cor. 3:12) those who build "go
 
 Objection 4: Further, there are many more than three differences and degrees of venial sins. Therefore they are unsuitably comprised under these three.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 3:15) that the man who builds up wood, hay and stubble, "shall be saved yet so as by fire," so that he will suffer punishment, but not everlasting. Now the debt of temporal punishment belongs properly to venial sin, as stated above ([1940]Q[87], A[5]). Therefore these three signify venial sins.
 
@@ -52,7 +52,7 @@ Others say that wood, hay, stubble designate good works, which are indeed built 
 
 We must therefore say that the very venial sins that insinuate themselves into those who have a care for earthly things, are designated by wood, hay, and stubble. For just as these are stored in a house, without belonging to the substance of the house, and can be burnt, while the house is saved, so also venial sins are multiplied in a man, while the spiritual edifice remains, and for them, man suffers fire, either of temporal trials in this life, or of purgatory after this life, and yet he is saved for ever.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Venial sins are not said to be built upon the spiritual foundation, as though they were laid directly upon it, but because they are laid beside it; in the same sense as it is written (Ps. 136:1): "Upon the waters of Babylon," i.e. "beside the waters": because venial sins do not destroy the edifice.
 
@@ -61,9 +61,9 @@ Reply to Objection 2: It is not said that everyone who builds wood, hay and stub
 Reply to Objection 3: Although those who are withdrawn from the care of temporal things, sin venially sometimes, yet they commit but slight venial sins, and in most cases they are cleansed by the fervor of charity: wherefore they do not build up venial sins, because these do not remain long in them. But the venial sins of those who are busy about earthly remain longer, because they are unable to have such frequent recourse to the fervor of charity in order to remove them.
 
 Reply to Objection 4: As the Philosopher says (De Coelo i, text. 2), "all things are comprised under three, the beginning, the middle, the end." Accordingly all degrees of venial sins are reduced to three, viz. to "wood," which remains longer in the fire; "stubble," which is burnt up at once; and "hay," which is between these two: because venial sins are removed by fire, quickly or slowly, according as man is more or less attached to them.
-## Whether Man Could Commit A Venial Sin In The State Of Innocence?
+### Whether Man Could Commit A Venial Sin In The State Of Innocence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man could commit a venial sin in the state of innocence. Because on 1 Tim. 2:14, "Adam was not seduced," a gloss says: "Having had no experience of God's severity, it was possible for him to be so mistaken as to think that what he had done was a venial sin." But he would not have thought this unless he could have committed a venial sin. Therefore he could commit a venial sin without sinning mortally.
 
@@ -71,7 +71,7 @@ Objection 2: Further Augustine says (Gen. ad lit. xi, 5): "We must not suppose t
 
 Objection 3: Further, mortal sin is more opposed to the integrity of the original state, than venial sin is. Now man could sin mortally notwithstanding the integrity of the original state. Therefore he could also sin venially.
 
-### Answer
+**Answer**
 
 On the contrary, Every sin deserves some punishment. But nothing penal was possible in the state of innocence, as Augustine declares (De Civ. Dei xiv, 10). Therefore he could commit a sin that would not deprive him of that state of integrity. But venial sin does not change man's state. Therefore he could not sin venially.
 
@@ -79,16 +79,16 @@ I answer that, It is generally admitted that man could not commit a venial sin i
 
 The reason for this is because venial sin occurs in us, either through the imperfection of the act, as in the case of sudden movements, in a genus of mortal sin or through some inordinateness in respect of things referred to the end, the due order of the end being safeguarded. Now each of these happens on account of some defect of order, by reason of the lower powers not being checked by the higher. Because the sudden rising of a movement of the sensuality in us is due to the sensuality not being perfectly subject to reason: and the sudden rising of a movement of reason itself is due, in us, to the fact that the execution of the act of reason is not subject to the act of deliberation which proceeds from a higher good, as stated above (Q[74], A[10]); and that the human mind be out of order as regards things directed to the end, the due order of the end being safeguarded, is due to the fact that the things referred to the end are not infallibly directed under the end, which holds the highest place, being the beginning, as it were, in matters concerning the appetite, as stated above (Q[10], AA[1],2, ad 3; Q[72], A[5]). Now, in the state of innocence, as stated in the [1941]FP, Q[95], A[1], there was an unerring stability of order, so that the lower powers were always subjected to the higher, so long as man remained subject to God, as Augustine says (De Civ. Dei xiv, 13). Hence there can be no inordinateness in man, unless first of all the highest part of man were not subject to God, which constitutes a mortal sin. From this it is evident that, in the state of innocence, man could not commit a venial sin, before committing a mortal sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the passage quoted, venial is not taken in the same sense as we take it now; but by venial sin we mean that which is easily forgiven.
 
 Reply to Objection 2: This vainglory which preceded man's downfall, was his first mortal sin, for it is stated to have preceded his downfall into the outward act of sin. This vainglory was followed, in the man, by the desire to make and experiment, and in the woman, by doubt, for she gave way to vainglory, merely through hearing the serpent mention the precept, as though she refused to be held in check by the precept.
 
 Reply to Objection 3: Mortal sin is opposed to the integrity of the original state in the fact of its destroying that state: this a venial sin cannot do. And because the integrity of the primitive state is incompatible with any inordinateness whatever, the result is that the first man could not sin venially, before committing a mortal sin.
-## Whether A Good Or A Wicked Angel Can Sin Venially?
+### Whether A Good Or A Wicked Angel Can Sin Venially?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that a good or wicked angel can sin venially. Because man agrees with the angels in the higher part of his soul which is called the mind, according to Gregory, who says (Hom. xxix in Evang.) that "man understands in common with the angels." But man can commit a venial sin in the higher part of his soul. Therefore an angel can commit a venial sin also.
 
@@ -96,22 +96,22 @@ Objection 2: Further, He that can do more can do less. But an angel could love a
 
 Objection 3: Further, wicked angels seem to do things which are venial sins generically, by provoking men to laughter, and other like frivolities. Now the circumstance of the person does not make a mortal sin to be venial as stated above [1942](A[3]), unless there is a special prohibition, which is not the case in point. Therefore an angel can sin venially.
 
-### Answer
+**Answer**
 
 On the contrary, The perfection of an angel is greater than that of man in the primitive state. But man could not sin venially in the primitive state, and much less, therefore, can an angel.
 
 I answer that, An angel's intellect, as stated above in the [1943]FP, Q[58], A[3]; [1944]FP, Q[79], A[8], is not discursive, i.e. it does not proceed from principles to conclusions, so as to understand both separately, as we do. Consequently, whenever the angelic intellect considers a conclusion, it must, of necessity, consider it in its principles. Now in matters of appetite, as we have often stated (Q[8], A[2]; Q[10], A[1]; Q[72], A[5]), ends are like principles, while the means are like conclusions. Wherefore, an angel's mind is not directed to the means, except as they stand under the order to the end. Consequently, from their very nature, they can have no inordinateness in respect of the means, unless at the same time they have an inordinateness in respect of the end, and this is a mortal sin. Now good angels are not moved to the means, except in subordination to the due end which is God: wherefore all their acts are acts of charity, so that no venial sin can be in them. On the other hand, wicked angels are moved to nothing except in subordination to the end which is their sin of pride. Therefore they sin mortally in everything that they do of their own will. This does not apply to the appetite for the natural good, which appetite we have stated to be in them ([1945]FP, Q[63], A[4]; Q[64], A[2], ad 5).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man does indeed agree with the angels in the mind or intellect, but he differs in his mode of understanding, as stated above.
 
 Reply to Objection 2: An angel could not love a creature less than God, without, at the same time, either referring it to God, as the last end, or to some inordinate end, for the reason given above.
 
 Reply to Objection 3: The demons incite man to all such things which seem venial, that he may become used to them, so as to lead him on to mortal sin. Consequently in all such things they sin mortally, on account of the end they have in view.
-## Whether The First Movements Of The Sensuality In Unbelievers Are Mortal Sin?
+### Whether The First Movements Of The Sensuality In Unbelievers Are Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the first movements of the sensuality in unbelievers are mortal sins. For the Apostle says (Rom. 8:1) that "there is . . . no condemnation to them that are in Christ Jesus, who walk not according to the flesh": and he is speaking there of the concupiscence of the sensuality, as appears from the context (Rom. 7). Therefore the reason why concupiscence is not a matter of condemnation to those who walk not according to the flesh, i.e. by consenting to concupiscence, is because they are in Christ Jesus. But unbelievers are not in Christ Jesus. Therefore in unbelievers this is a matter of condemnation. Therefore the first movements of unbelievers are mortal sins.
 
@@ -119,20 +119,20 @@ Objection 2: Further Anselm says (De Gratia et Lib. Arb. vii): "Those who are no
 
 Objection 3: Further, Anselm says (De Gratia et Lib. Arb. vii): "Man was so made that he was not liable to feel concupiscence." Now this liability seems to be remitted to man by the grace of Baptism, which the unbeliever has not. Therefore every act of concupiscence in an unbeliever, even without his consent, is a mortal sin, because he acts against his duty.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated in Acts 10:34 that "God is not a respecter of persons." Therefore he does not impute to one unto condemnation, what He does not impute to another. But he does not impute first movements to believers, unto condemnation. Neither therefore does He impute them to unbelievers.
 
 I answer that, It is unreasonable to say that the first movements of unbelievers are mortal sins, when they do not consent to them. This is evident for two reasons. First, because the sensuality itself could not be the subject of mortal sin, as stated above ([1946]Q[79], A[4]). Now the sensuality has the same nature in unbelievers as in believers. Therefore it is not possible for the mere movements of the sensuality in unbelievers, to be mortal sins. Secondly, from the state of the sinner. Because excellence of the person of the person never diminishes sin, but, on the contrary, increases it, as stated above ([1947]Q[73], A[10]). Therefore a sin is not less grievous in a believer than in an unbeliever, but much more so. For the sins of an unbeliever are more deserving of forgiveness, on account of their ignorance, according to 1 Tim. 1:13: "I obtained the mercy of God, because I did it ignorantly in my unbelief": whereas the sins of believers are more grievous on account of the sacraments of grace, according to Heb. 10:29: "How much more, do you think, he deserveth worse punishments . . . who hath esteemed the blood of the testament unclean, by which he was sanctified?"
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle is speaking of the condemnation due to original sin, which condemnation is remitted by the grace of Jesus Christ, although the "fomes" of concupiscence remain. Wherefore the fact that believers are subject to concupiscence is not in them a sign of the condemnation due to original sin, as it is in unbelievers.
 
 Reply to Objection 3: This freedom from liability to concupiscence was a result of original justice. Wherefore that which is opposed to such liability pertains, not to actual but to original sin.
-## Whether Venial Sin Can Be In Anyone With Original Sin Alone?
+### Whether Venial Sin Can Be In Anyone With Original Sin Alone?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that venial sin can be in a man with original sin alone. For disposition precedes habit. Now venial sin is a disposition to mortal sin, as stated above ([1948]Q[88], A[3]). Therefore in an unbeliever, in whom original sin is not remitted, venial sin exists before mortal sin: and so sometimes unbelievers have venial together with original sin, and without mortal sins.
 
@@ -140,13 +140,13 @@ Objection 2: Further, venial sin has less in common, and less connection with mo
 
 Objection 3: Further, it is possible to fix the time at which a child is first able to commit an actual sin: and when the child comes to that time, it can stay a short time at least, without committing a mortal sin, because this happens in the worst criminals. Now it is possible for the child to sin venially during that space of time, however short it may be. Therefore venial sin can be in anyone with original sin alone and without mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, Man is punished for original sin in the children's limbo, where there is no pain of sense as we shall state further on (SS, Q[69], A[6]): whereas men are punished in hell for no other than mortal sin. Therefore there will be no place where a man can be punished for venial sin with no other than original sin.
 
 I answer that, It is impossible for venial sin to be in anyone with original sin alone, and without mortal sin. The reason for this is because before a man comes to the age of discretion, the lack of years hinders the use of reason and excuses him from mortal sin, wherefore, much more does it excuse him from venial sin, if he does anything which is such generically. But when he begins to have the use of reason, he is not entirely excused from the guilt of venial or mortal sin. Now the first thing that occurs to a man to think about then, is to deliberate about himself. And if he then direct himself to the due end, he will, by means of grace, receive the remission of original sin: whereas if he does not then direct himself to the due end, and as far as he is capable of discretion at that particular age, he will sin mortally, for through not doing that which is in his power to do. Accordingly thenceforward there cannot be venial sin in him without mortal, until afterwards all sin shall have been remitted to him through grace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Venial sin always precedes mortal sin not as a necessary, but as a contingent disposition, just as work sometimes disposes to fever, but not as heat disposes to the form of fire.
 

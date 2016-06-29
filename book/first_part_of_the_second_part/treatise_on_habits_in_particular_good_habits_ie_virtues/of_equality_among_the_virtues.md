@@ -7,9 +7,9 @@ We must now consider equality among the virtues: under which head there are six 
 (4) Of the moral virtues as compared with one another;
 (5) Of the intellectual virtues in comparison with one another;
 (6) Of the theological virtues in comparison with one another.
-## Whether One Virtue Can Be Greater Or Less Than Another?
+### Whether One Virtue Can Be Greater Or Less Than Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one virtue cannot be greater or less than another. For it is written (Apoc. 21:16) that the sides of the city of Jerusalem are equal; and a gloss says that the sides denote the virtues. Therefore all virtues are equal; and consequently one cannot be greater than another.
 
@@ -17,7 +17,7 @@ Objection 2: Further, a thing that, by its nature, consists in a maximum, cannot
 
 Objection 3: Further, the quantity of an effect is measured by the power of the agent. But perfect, viz. infused virtues, are from God Whose power is uniform and infinite. Therefore it seems that one virtue cannot be greater than another.
 
-### Answer
+**Answer**
 
 On the contrary, Wherever there can be increase and greater abundance, there can be inequality. Now virtues admit of greater abundance and increase: for it is written (Mat. 5:20): "Unless your justice abound more than that of the Scribes and Pharisees, you shall not enter into the kingdom of heaven": and (Prov. 15:5): "In abundant justice there is the greatest strength [virtus]." Therefore it seems that a virtue can be greater or less than another.
 
@@ -27,16 +27,16 @@ The question can be taken in another way, as referring to virtues of the same sp
 
 If, however, we consider virtue on the part of the subject, it may then be greater or less, either in relation to different times, or in different men. Because one man is better disposed than another to attain to the mean of virtue which is defined by right reason; and this, on account of either greater habituation, or a better natural disposition, or a more discerning judgment of reason, or again a greater gift of grace, which is given to each one "according to the measure of the giving of Christ," as stated in Eph. 4:9. And here the Stoics erred, for they held that no man should be deemed virtuous, unless he were, in the highest degree, disposed to virtue. Because the nature of virtue does not require that man should reach the mean of right reason as though it were an indivisible point, as the Stoics thought; but it is enough that he should approach the mean, as stated in Ethic. ii, 6. Moreover, one same indivisible mark is reached more nearly and more readily by one than by another: as may be seen when several arches aim at a fixed target.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This equality is not one of absolute quantity, but of proportion: because all virtues grow in a man proportionately, as we shall see further on [1618](A[2]).
 
 Reply to Objection 2: This "limit" which belongs to virtue, can have the character of something "more" or "less" good, in the ways explained above: since, as stated, it is not an indivisible limit.
 
 Reply to Objection 3: God does not work by necessity of nature, but according to the order of His wisdom, whereby He bestows on men various measures of virtue, according to Eph. 4:7: "To every one of you [Vulg.: 'us'] is given grace according to the measure of the giving of Christ."
-## Whether All The Virtues That Are Together In One Man, Are Equal?
+### Whether All The Virtues That Are Together In One Man, Are Equal?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the virtues in one same man are not all equally intense. For the Apostle says (1 Cor. 7:7): "Everyone hath his proper gift from God; one after this manner, and another after that." Now one gift would not be more proper than another to a man, if God infused all the virtues equally into each man. Therefore it seems that the virtues are not all equal in one and the same man.
 
@@ -44,7 +44,7 @@ Objection 2: Further, if all the virtues were equally intense in one and the sam
 
 Objection 3: Further, the more intense a habit is, the greater one's pleasure and readiness in making use of it. Now experience shows that a man is more pleased and ready to make use of one virtue than of another. Therefore the virtues are not all equal in one and the same man.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. vi, 4) that "those who are equal in fortitude are equal in prudence and temperance," and so on. Now it would not be so, unless all the virtues in one man were equal. Therefore all virtues are equal in one man.
 
@@ -56,14 +56,14 @@ The other kind of connection among virtues followed the opinion of those who hol
 
 But in regard to that which is material in the moral virtues, viz. the inclination to the virtuous act, one may be readier to perform the act of one virtue, than the act of another virtue, and this either from nature, or from habituation, or again by the grace of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This saying of the Apostle may be taken to refer to the gifts of gratuitous grace, which are not common to all, nor are all of them equal in the one same subject. We might also say that it refers to the measure of sanctifying grace, by reason of which one man has all the virtues in greater abundance than another man, on account of his greater abundance of prudence, or also of charity, in which all the infused virtues are connected.
 
 Reply to Objection 2: One saint is praised chiefly for one virtue, another saint for another virtue, on account of his more admirable readiness for the act of one virtue than for the act of another virtue.
-## Whether The Moral Virtues Are Better Than The Intellectual Virtues?
+### Whether The Moral Virtues Are Better Than The Intellectual Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the moral virtues are better than the intellectual. Because that which is more necessary, and more lasting, is better. Now the moral virtues are "more lasting even than the sciences" (Ethic. i) which are intellectual virtues: and, moreover, they are more necessary for human life. Therefore they are preferable to the intellectual virtues.
 
@@ -71,7 +71,7 @@ Objection 2: Further, virtue is defined as "that which makes its possessor good.
 
 Objection 3: Further, the end is more excellent than the means. But according to Ethic. vi, 12, "moral virtue gives right intention of the end; whereas prudence gives right choice of the means." Therefore moral virtue is more excellent than prudence, which is the intellectual virtue that regards moral matters.
 
-### Answer
+**Answer**
 
 On the contrary, Moral virtue is in that part of the soul which is rational by participation; while intellectual virtue is in the essentially rational part, as stated in Ethic. i, 13. Now rational by essence is more excellent than rational by participation. Therefore intellectual virtue is better than moral virtue.
 
@@ -79,16 +79,16 @@ I answer that, A thing may be said to be greater or less in two ways: first, sim
 
 But if we consider virtue in its relation to act, then moral virtue, which perfects the appetite, whose function it is to move the other powers to act, as stated above ([1625]Q[9], A[1]), is more excellent. And since virtue is so called from its being a principle of action, for it is the perfection of a power, it follows again that the nature of virtue agrees more with moral than with intellectual virtue, though the intellectual virtues are more excellent habits, simply speaking.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The moral virtues are more lasting than the intellectual virtues, because they are practised in matters pertaining to the life of the community. Yet it is evident that the objects of the sciences, which are necessary and invariable, are more lasting than the objects of moral virtue, which are certain particular matters of action. That the moral virtues are more necessary for human life, proves that they are more excellent, not simply, but relatively. Indeed, the speculative intellectual virtues, from the very fact that they are not referred to something else, as a useful thing is referred to an end, are more excellent. The reason for this is that in them we have a kind of beginning of that happiness which consists in the knowledge of truth, as stated above ([1626]Q[3], A[6]).
 
 Reply to Objection 2: The reason why man is said to be good simply, in respect of moral virtue, but not in respect of intellectual virtue, is because the appetite moves the other powers to their acts, as stated above ([1627]Q[56], A[3]). Wherefore this argument, too, proves merely that moral virtue is better relatively.
 
 Reply to Objection 3: Prudence directs the moral virtues not only in the choice of the means, but also in appointing the end. Now the end of each moral virtue is to attain the mean in the matter proper to that virtue; which mean is appointed according to the right ruling of prudence, as stated in Ethic. ii, 6; vi, 13.
-## Whether Justice Is The Chief Of The Moral Virtues?
+### Whether Justice Is The Chief Of The Moral Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that justice is not the chief of the moral virtues. For it is better to give of one's own than to pay what is due. Now the former belongs to liberality, the latter to justice. Therefore liberality is apparently a greater virtue than justice.
 
@@ -96,7 +96,7 @@ Objection 2: Further, the chief quality of a thing is, seemingly, that in which 
 
 Objection 3: Further, "Magnanimity has a great influence on every virtue," as stated in Ethic. iv, 3. Therefore it magnifies even justice. Therefore it is greater than justice.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. v, 1) that "justice is the most excellent of the virtues."
 
@@ -104,16 +104,16 @@ I answer that, A virtue considered in its species may be greater or less, either
 
 A virtue is said to be greater relatively, by reason of its helping or adorning a principal virtue: even as substance is more excellent simply than accident: and yet relatively some particular accident is more excellent than substance in so far as it perfects substance in some accidental mode of being.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The act of liberality needs to be founded on an act of justice, for "a man is not liberal in giving, unless he gives of his own" (Polit. ii, 3). Hence there could be no liberality apart from justice, which discerns between "meum" and "tuum": whereas justice can be without liberality. Hence justice is simply greater than liberality, as being more universal, and as being its foundation: while liberality is greater relatively since it is an ornament and an addition to justice.
 
 Reply to Objection 2: Patience is said to have "a perfect work," by enduring evils, wherein it excludes not only unjust revenge, which is also excluded by justice; not only hatred, which is also suppressed by charity; nor only anger, which is calmed by gentleness; but also inordinate sorrow, which is the root of all the above. Wherefore it is more perfect and excellent through plucking up the root in this matter. It is not, however, more perfect than all the other virtues simply. Because fortitude not only endures trouble without being disturbed, but also fights against it if necessary. Hence whoever is brave is patient; but the converse does not hold, for patience is a part of fortitude.
 
 Reply to Objection 3: There can be no magnanimity without the other virtues, as stated in Ethic. iv, 3. Hence it is compared to them as their ornament, so that relatively it is greater than all the others, but not simply.
-## Whether Wisdom Is The Greatest Of The Intellectual Virtues?
+### Whether Wisdom Is The Greatest Of The Intellectual Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that wisdom is not the greatest of the intellectual virtues. Because the commander is greater than the one commanded. Now prudence seems to command wisdom, for it is stated in Ethic. i, 2 that political science, which belongs to prudence (Ethic. vi, 8), "orders that sciences should be cultivated in states, and to which of these each individual should devote himself, and to what extent." Since, then, wisdom is one of the sciences, it seems that prudence is greater than wisdom.
 
@@ -123,13 +123,13 @@ Objection 3: Further, the more perfect knowledge is, the greater it seems to be.
 
 Objection 4: Further, knowledge of principles is more excellent than knowledge of conclusions. But wisdom draws conclusions from indemonstrable principles which are the object of the virtue of understanding, even as other sciences do. Therefore understanding is a greater virtue than wisdom.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. vi, 7) that wisdom is "the head" among "the intellectual virtues."
 
 I answer that, As stated above [1629](A[3]), the greatness of a virtue, as to its species, is taken from its object. Now the object of wisdom surpasses the objects of all the intellectual virtues: because wisdom considers the Supreme Cause, which is God, as stated at the beginning of the Metaphysics. And since it is by the cause that we judge of an effect, and by the higher cause that we judge of the lower effects; hence it is that wisdom exercises judgment over all the other intellectual virtues, directs them all, and is the architect of them all.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since prudence is about human affairs, and wisdom about the Supreme Cause, it is impossible for prudence to be a greater virtue than wisdom, "unless," as stated in Ethic. vi, 7, "man were the greatest thing in the world." Wherefore we must say, as stated in the same book (Ethic. vi), that prudence does not command wisdom, but vice versa: because "the spiritual man judgeth all things; and he himself is judged by no man" (1 Cor. 2:15). For prudence has no business with supreme matters which are the object of wisdom: but its command covers things directed to wisdom, viz. how men are to obtain wisdom. Wherefore prudence, or political science, is, in this way, the servant of wisdom; for it leads to wisdom, preparing the way for her, as the doorkeeper for the king.
 
@@ -138,9 +138,9 @@ Reply to Objection 2: Prudence considers the means of acquiring happiness, but w
 Reply to Objection 3: As the Philosopher says (De Anima i, text. 1), "one knowledge is preferable to another, either because it is about a higher object, or because it is more certain." Hence if the objects be equally good and sublime, that virtue will be greater which possesses more certain knowledge. But a virtue which is less certain about a higher and better object, is preferable to that which is more certain about an object of inferior degree. Wherefore the Philosopher says (De Coelo ii, text. 60) that "it is a great thing to be able to know something about celestial beings, though it be based on weak and probable reasoning"; and again (De Part. Animal. i, 5) that "it is better to know a little about sublime things, than much about mean things." Accordingly wisdom, to which knowledge about God pertains, is beyond the reach of man, especially in this life, so as to be his possession: for this "belongs to God alone" (Metaph. i, 2): and yet this little knowledge about God which we can have through wisdom is preferable to all other knowledge.
 
 Reply to Objection 4: The truth and knowledge of indemonstrable principles depends on the meaning of the terms: for as soon as we know what is a whole, and what is a part, we know at once that every whole is greater than its part. Now to know the meaning of being and non-being, of whole and part, and of other things consequent to being, which are the terms whereof indemonstrable principles are constituted, is the function of wisdom: since universal being is the proper effect of the Supreme Cause, which is God. And so wisdom makes use of indemonstrable principles which are the object of understanding, not only by drawing conclusions from them, as other sciences do, but also by passing its judgment on them, and by vindicating them against those who deny them. Hence it follows that wisdom is a greater virtue than understanding.
-## Whether Charity Is The Greatest Of The Theological Virtues?
+### Whether Charity Is The Greatest Of The Theological Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not the greatest of the theological virtues. Because, since faith is in the intellect, while hope and charity are in the appetitive power, it seems that faith is compared to hope and charity, as intellectual to moral virtue. Now intellectual virtue is greater than moral virtue, as was made evident above ([1630]Q[62], A[3]). Therefore faith is greater than hope and charity.
 
@@ -148,13 +148,13 @@ Objection 2: Further, when two things are added together, the result is greater 
 
 Objection 3: Further, a cause is more noble than its effect. Now faith and hope are the cause of charity: for a gloss on Mat. 1:3 says that "faith begets hope, and hope charity." Therefore faith and hope are greater than charity.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 13:13): "Now there remain faith, hope, charity, these three; but the greatest of these is charity."
 
 I answer that, As stated above [1631](A[3]), the greatness of a virtue, as to its species, is taken from its object. Now, since the three theological virtues look at God as their proper object, it cannot be said that any one of them is greater than another by reason of its having a greater object, but only from the fact that it approaches nearer than another to that object; and in this way charity is greater than the others. Because the others, in their very nature, imply a certain distance from the object: since faith is of what is not seen, and hope is of what is not possessed. But the love of charity is of that which is already possessed: since the beloved is, in a manner, in the lover, and, again, the lover is drawn by desire to union with the beloved; hence it is written (1 Jn. 4:16): "He that abideth in charity, abideth in God, and God in him."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Faith and hope are not related to charity in the same way as prudence to moral virtue; and for two reasons. First, because the theological virtues have an object surpassing the human soul: whereas prudence and the moral virtues are about things beneath man. Now in things that are above man, to love them is more excellent than to know them. Because knowledge is perfected by the known being in the knower: whereas love is perfected by the lover being drawn to the beloved. Now that which is above man is more excellent in itself than in man: since a thing is contained according to the mode of the container. But it is the other way about in things beneath man. Secondly, because prudence moderates the appetitive movements pertaining to the moral virtues, whereas faith does not moderate the appetitive movement tending to God, which movement belongs to the theological virtues: it only shows the object. And this appetitive movement towards its object surpasses human knowledge, according to Eph. 3:19: "The charity of Christ which surpasseth all knowledge."
 

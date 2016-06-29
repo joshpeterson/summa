@@ -5,9 +5,9 @@ We must consider next the work of distinction in itself. First, the work of the 
 (2) Whether light, in corporeal things, is itself corporeal?
 (3) Whether light is a quality?
 (4) Whether light was fittingly made on the first day?
-## Whether The Word "Light" Is Used In Its Proper Sense In Speaking Of Spiritual Things?
+### Whether The Word "Light" Is Used In Its Proper Sense In Speaking Of Spiritual Things?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that "light" is used in its proper sense in spiritual things. For Augustine says (Gen. ad lit. iv, 28) that "in spiritual things light is better and surer: and that Christ is not called Light in the same sense as He is called the Stone; the former is to be taken literally, and the latter metaphorically."
 
@@ -15,16 +15,16 @@ Objection 2: Further, Dionysius (Div. Nom. iv) includes Light among the intellec
 
 Objection 3: Further, the Apostle says (Eph. 5:13): "All that is made manifest is light." But to be made manifest belongs more properly to spiritual things than to corporeal. Therefore also does light.
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose says (De Fide ii) that "Splendor" is among those things which are said of God metaphorically.
 
 I answer that, Any word may be used in two ways---that is to say, either in its original application or in its more extended meaning. This is clearly shown in the word "sight," originally applied to the act of the sense, and then, as sight is the noblest and most trustworthy of the senses, extended in common speech to all knowledge obtained through the other senses. Thus we say, "Seeing how it tastes," or "smells," or "burns. "Further, sight is applied to knowledge obtained through the intellect, as in those words: "Blessed are the clean of heart, for they shall see God" (Mat. 5:8). And thus it is with the word light. In its primary meaning it signifies that which makes manifest to the sense of sight; afterwards it was extended to that which makes manifest to cognition of any kind. If, then, the word is taken in its strict and primary meaning, it is to be understood metaphorically when applied to spiritual things, as Ambrose says (De Fide ii). But if taken in its common and extended use, as applied to manifestation of every kind, it may properly be applied to spiritual things.
 
 The answer to the objections will sufficiently appear from what has been said.
-## Whether Light Is A Body?
+### Whether Light Is A Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that light is a body. For Augustine says (De Lib. Arb. iii, 5) that "light takes the first place among bodies."Therefore light is a body.
 
@@ -32,7 +32,7 @@ Objection 2: Further, the Philosopher says (Topic. v, 2) that "light is a specie
 
 Objection 3: Further, the powers of movement, intersection, reflection, belong properly to bodies; and all these are attributes of light and its rays. Moreover, different rays of light, as Dionysius says (Div. Nom. ii) are united and separated, which seems impossible unless they are bodies. Therefore light is a body.
 
-### Answer
+**Answer**
 
 On the contrary, Two bodies cannot occupy the same place simultaneously. But this is the case with light and air. Therefore light is not a body.
 
@@ -44,16 +44,16 @@ The third reason is from generation and corruption. For if light were a body, it
 
 Since, therefore, these things are repugnant, not only to reason, but to common sense, we must conclude that light cannot be a body.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine takes light to be a luminous body in act---in other words, to be fire, the noblest of the four elements.
 
 Reply to Objection 2: Aristotle pronounces light to be fire existing in its own proper matter: just as fire in aerial matter is "flame," or in earthly matter is "burning coal." Nor must too much attention be paid to the instances adduced by Aristotle in his works on logic, as he merely mentions them as the more or less probable opinions of various writers.
 
 Reply to Objection 3: All these properties are assigned to light metaphorically, and might in the same way be attributed to heat. For because movement from place to place is naturally first in the order of movement as is proved Phys. viii, text. 55, we use terms belonging to local movement in speaking of alteration and movement of all kinds. For even the word distance is derived from the idea of remoteness of place, to that of all contraries, as is said Metaph. x, text. 13.
-## Whether Light Is A Quality?
+### Whether Light Is A Quality?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that light is not a quality. For every quality remains in its subject, though the active cause of the quality be removed, as heat remains in water removed from the fire. But light does not remain in the air when the source of light is withdrawn. Therefore light is not a quality.
 
@@ -61,7 +61,7 @@ Objection 2: Further, every sensible quality has its opposite, as cold is oppose
 
 Objection 3: Further, a cause is more potent than its effect. But the light of the heavenly bodies is a cause of substantial forms of earthly bodies, and also gives to colors their immaterial being, by making them actually visible. Light, then, is not a sensible quality, but rather a substantial or spiritual form.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene (De Fide Orth. i) says that light is a species of quality.
 
@@ -69,16 +69,16 @@ I answer that, Some writers have said that the light in the air has not a natura
 
 We must say, then, that as heat is an active quality consequent on the substantial form of fire, so light is an active quality consequent on the substantial form of the sun, or of another body that is of itself luminous, if there is any such body. A proof of this is that the rays of different stars produce different effects according to the diverse natures of bodies.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since quality is consequent upon substantial form, the mode in which the subject receives a quality differs as the mode differs in which a subject receives a substantial form. For when matter receives its form perfectly, the qualities consequent upon the form are firm and enduring; as when, for instance, water is converted into fire. When, however, substantial form is received imperfectly, so as to be, as it were, in process of being received, rather than fully impressed, the consequent quality lasts for a time but is not permanent; as may be seen when water which has been heated returns in time to its natural state. But light is not produced by the transmutation of matter, as though matter were in receipt of a substantial form, and light were a certain inception of substantial form. For this reason light disappears on the disappearance of its active cause.
 
 Reply to Objection 2: It is accidental to light not to have a contrary, forasmuch as it is the natural quality of the first corporeal cause of change, which is itself removed from contrariety.
 
 Reply to Objection 3: As heat acts towards perfecting the form of fire, as an instrumental cause, by virtue of the substantial form, so does light act instrumentally, by virtue of the heavenly bodies, towards producing substantial forms; and towards rendering colors actually visible, inasmuch as it is a quality of the first sensible body.
-## Whether The Production Of Light Is Fittingly Assigned To The First Day?
+### Whether The Production Of Light Is Fittingly Assigned To The First Day?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the production of light is not fittingly assigned to the first day. For light, as stated above [575](A[3]), is a quality. But qualities are accidents, and as such should have, not the first, but a subordinate place. The production of light, then, ought not to be assigned to the first day.
 
@@ -88,7 +88,7 @@ Objection 3: Further, night and day are brought about by the circular movement o
 
 Objection 4: Further, if it be said that spiritual light is here spoken of, it may be replied that the light made on the first day dispels the darkness. But in the beginning spiritual darkness was not, for even the demons were in the beginning good, as has been shown ([576]Q[63], A[5]). Therefore the production of light ought not to be assigned to the first day.
 
-### Answer
+**Answer**
 
 On the contrary, That without which there could not be day, must have been made on the first day. But there can be no day without light. Therefore light must have been made on the first day.
 
@@ -102,7 +102,7 @@ But mention is made of several kinds of formlessness, in regard to the corporeal
 
 Basil [*Hom. ii in Hexaem.], indeed, adds a third reason: that all other things are made manifest by light. And there is yet a fourth, already touched upon in the objections; that day cannot be unless light exists, which was made therefore on the first day.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to the opinion of those who hold that the formlessness of matter preceded its form in duration, matter must be held to have been created at the beginning with substantial forms, afterwards receiving those that are accidental, among which light holds the first place.
 

@@ -4,9 +4,9 @@ We now inquire into the knowledge of the angels with regard to the objects known
 (1) Does an angel know himself?
 (2) Does one angel know another?
 (3) Does the angel know God by his own natural principles?
-## Whether An Angel Knows Himself?
+### Whether An Angel Knows Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an angel does not know himself. For Dionysius says that "the angels do not know their own powers" (Coel. Hier. vi). But, when the substance is known, the power is known. Therefore an angel does not know his own essence.
 
@@ -14,7 +14,7 @@ Objection 2: Further, an angel is a single substance, otherwise he would not act
 
 Objection 3: Further, the intellect is moved by the intelligible object: because, as stated in De Anima iii, 4 understanding is a kind of passion. But nothing is moved by or is passive to itself; as appears in corporeal things. Therefore the angel cannot understand himself.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Gen. ad lit. ii) that "the angel knew himself when he was established, that is, enlightened by truth."
 
@@ -22,16 +22,16 @@ I answer that, As is evident from what has been previously said ([495]Q[14], A[2
 
 It must, however, be borne in mind that this image of the object exists sometimes only potentially in the knowing faculty; and then there is only knowledge in potentiality; and in order that there may be actual knowledge, it is required that the faculty of knowledge be actuated by the species. But if it always actually possesses the species, it can thereby have actual knowledge without any preceding change or reception. From this it is evident that it is not of the nature of knower, as knowing, to be moved by the object, but as knowing in potentiality. Now, for the form to be the principle of the action, it makes no difference whether it be inherent in something else, or self-subsisting; because heat would give forth heat none the less if it were self-subsisting, than it does by inhering in something else. So therefore, if in the order of intelligible beings there be any subsisting intelligible form, it will understand itself. And since an angel is immaterial, he is a subsisting form; and, consequently, he is actually intelligible. Hence it follows that he understands himself by his form, which is his substance.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That is the text of the old translation, which is amended in the new one, and runs thus: "furthermore they," that is to say the angels, "knew their own powers": instead of which the old translation read---"and furthermore they do not know their own powers." Although even the letter of the old translation might be kept in this respect, that the angels do not know their own power perfectly; according as it proceeds from the order of the Divine Wisdom, Which to the angels is incomprehensible.
 
 Reply to Objection 2: We have no knowledge of single corporeal things, not because of their particularity, but on account of the matter, which is their principle of individuation. Accordingly, if there be any single things subsisting without matter, as the angels are, there is nothing to prevent them from being actually intelligible.
 
 Reply to Objection 3: It belongs to the intellect, in so far as if is in potentiality, to be moved and to be passive. Hence this does not happen in the angelic intellect, especially as regards the fact that he understands himself. Besides the action of the intellect is not of the same nature as the action found in corporeal things, which passes into some other matter.
-## Whether One Angel Knows Another?
+### Whether One Angel Knows Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one angel does not know another. For the Philosopher says (De Anima iii, text. 4), that if the human intellect were to have in itself any one of the sensible things, then such a nature existing within it would prevent it from apprehending external things; as likewise, if the pupil of the eye were colored with some particular color, it could not see every color. But as the human intellect is disposed for understanding corporeal things, so is the angelic mind for understanding immaterial things. Therefore, since the angelic intellect has within itself some one determinate nature from the number of such natures, it would seem that it cannot understand other natures.
 
@@ -41,13 +41,13 @@ Objection 3: Further, one angel cannot be known to another angel by the essence 
 
 Objection 4: Further, if one angel did understand another, this would be either by an innate species; and so it would follow that, if God were now to create another angel, such an angel could not be known by the existing angels; or else he would have to be known by a species drawn from things; and so it would follow that the higher angels could not know the lower, from whom they receive nothing. Therefore in no way does it seem that one angel knows another.
 
-### Answer
+**Answer**
 
 On the contrary, We read in De Causis that "every intelligence knows the things which are not corrupted."
 
 I answer that, As Augustine says (Gen. ad lit. lit. ii), such things as pre-existed from eternity in the Word of God, came forth from Him in two ways: first, into the angelic mind; and secondly, so as to subsist in their own natures. They proceeded into the angelic mind in such a way, that God impressed upon the angelic mind the images of the things which He produced in their own natural being. Now in the Word of God from eternity there existed not only the forms of corporeal things, but likewise the forms of all spiritual creatures. So in every one of these spiritual creatures, the forms of all things, both corporeal and spiritual, were impressed by the Word of God; yet so that in every angel there was impressed the form of his own species according to both its natural and its intelligible condition, so that he should subsist in the nature of his species, and understand himself by it; while the forms of other spiritual and corporeal natures were impressed in him only according to their intelligible natures, so that by such impressed species he might know corporeal and spiritual creatures.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The spiritual natures of the angels are distinguished from one another in a certain order, as was already observed ([499]Q[50], A[4], ad 1,2). So the nature of an angel does not hinder him from knowing the other angelic natures, since both the higher and lower bear affinity to his nature, the only difference being according to their various degrees of perfection.
 
@@ -56,9 +56,9 @@ Reply to Objection 2: The nature of cause and effect does not lead one angel to 
 Reply to Objection 3: One angel knows another by the species of such angel existing in his intellect, which differs from the angel whose image it is, not according to material and immaterial nature, but according to natural and intentional existence. The angel is himself a subsisting form in his natural being; but his species in the intellect of another angel is not so, for there it possesses only an intelligible existence. As the form of color on the wall has a natural existence; but, in the deferent medium, it has only intentional existence.
 
 Reply to Objection 4: God made every creature proportionate to the universe which He determined to make. Therefore had God resolved to make more angels or more natures of things, He would have impressed more intelligible species in the angelic minds; as a builder who, if he had intended to build a larger house, would have made larger foundations. Hence, for God to add a new creature to the universe, means that He would add a new intelligible species to an angel.
-## Whether An Angle Knows God By His Own Natural Principles?
+### Whether An Angle Knows God By His Own Natural Principles?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angels cannot know God by their natural principles. For Dionysius says (Div. Nom. i) that God "by His incomprehensible might is placed above all heavenly minds." Afterwards he adds that, "since He is above all substances, He is remote from all knowledge."
 
@@ -66,7 +66,7 @@ Objection 2: Further, God is infinitely above the intellect of an angel. But wha
 
 Objection 3: Further, it is written (1 Cor. 13:12): "We see now through a glass in a dark manner; but then face to face." From this it appears that there is a twofold knowledge of God; the one, whereby He is seen in His essence, according to which He is said to be seen face to face; the other whereby He is seen in the mirror of creatures. As was already shown ([500]Q[12], A[4]), an angel cannot have the former knowledge by his natural principles. Nor does vision through a mirror belong to the angels, since they do not derive their knowledge of God from sensible things, as Dionysius observes (Div. Nom. vii). Therefore the angels cannot know God by their natural powers.
 
-### Answer
+**Answer**
 
 On the contrary, The angels are mightier in knowledge than men. Yet men can know God through their natural principles; according to Rom. 1:19: "what is known of God is manifest in them." Therefore much more so can the angels.
 
@@ -74,7 +74,7 @@ I answer that, The angels can have some knowledge of God by their own principles
 
 To the first-named class that knowledge of God is likened by which He is seen through His essence; and knowledge such as this cannot accrue to any creature from its natural principles, as was said above ([501]Q[12], A[4]). The third class comprises the knowledge whereby we know God while we are on earth, by His likeness reflected in creatures, according to Rom. 1:20: "The invisible things of God are clearly seen, being understood by the things that are made." Hence, too, we are said to see God in a mirror. But the knowledge, whereby according to his natural principles the angel knows God, stands midway between these two; and is likened to that knowledge whereby a thing is seen through the species abstracted from it. For since God's image is impressed on the very nature of the angel in his essence, the angel knows God in as much as he is the image of God. Yet he does not behold God's essence; because no created likeness is sufficient to represent the Divine essence. Such knowledge then approaches rather to the specular kind; because the angelic nature is itself a kind of mirror representing the Divine image.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Dionysius is speaking of the knowledge of comprehension, as his words expressly state. In this way God is not known by any created intellect.
 

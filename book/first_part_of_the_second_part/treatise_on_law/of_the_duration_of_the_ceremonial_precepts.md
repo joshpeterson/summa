@@ -5,9 +5,9 @@ We must now consider the duration of the ceremonial precepts: under which head t
 (2) Whether at the time of the Law the ceremonies of the Old Law had any power of justification?
 (3) Whether they ceased at the coming of Christ?
 (4) Whether it is a mortal sin to observe them after the coming of Christ?
-## Whether The Ceremonies Of The Law Were In Existence Before The Law?
+### Whether The Ceremonies Of The Law Were In Existence Before The Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the ceremonies of the Law were in existence before the Law. For sacrifices and holocausts were ceremonies of the Old Law, as stated above ([2120]Q[101], A[4]). But sacrifices and holocausts preceded the Law: for it is written (Gn. 4:3,4) that "Cain offered, of the fruits of the earth, gifts to the Lord," and that "Abel offered of the firstlings of his flock, and of their fat." Noe also "offered holocausts" to the Lord (Gn. 18:20), and Abraham did in like manner (Gn. 22:13). Therefore the ceremonies of the Old Law preceded the Law.
 
@@ -17,13 +17,13 @@ Objection 3: Further, the first of the legal sacraments seems to have been circu
 
 Objection 4: Further, the distinction of clean from unclean animals belongs to the ceremonies of observances, as stated above (Q[100], 2, A[6], ad 1). But this distinction preceded the Law; for it is written (Gn. 7:2,3): "Of all clean beasts take seven and seven . . . but of the beasts that are unclean, two and two." Therefore the legal ceremonies preceded the Law.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 6:1): "These are the precepts and ceremonies . . . which the Lord your God commanded that I should teach you." But they would not have needed to be taught about these things, if the aforesaid ceremonies had been already in existence. Therefore the legal ceremonies did not precede the Law.
 
 I answer that, As is clear from what has been said ([2121]Q[101], A[2];[2122] Q[102] , A[2]), the legal ceremonies were ordained for a double purpose; the worship of God, and the foreshadowing of Christ. Now whoever worships God must needs worship Him by means of certain fixed things pertaining to external worship. But the fixing of the divine worship belongs to the ceremonies; just as the determining of our relations with our neighbor is a matter determined by the judicial precepts, as stated above ([2123]Q[99], A[4]). Consequently, as among men in general there were certain judicial precepts, not indeed established by Divine authority, but ordained by human reason; so also there were some ceremonies fixed, not by the authority of any law, but according to the will and devotion of those that worship God. Since, however, even before the Law some of the leading men were gifted with the spirit of prophecy, it is to be believed that a heavenly instinct, like a private law, prompted them to worship God in a certain definite way, which would be both in keeping with the interior worship, and a suitable token of Christ's mysteries, which were foreshadowed also by other things that they did, according to 1 Cor. 10:11: "All . . . things happened to them in figure." Therefore there were some ceremonies before the Law, but they were not legal ceremonies, because they were not as yet established by legislation.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The patriarchs offered up these oblations, sacrifices and holocausts previously to the Law, out of a certain devotion of their own will, according as it seemed proper to them to offer up in honor of God those things which they had received from Him, and thus to testify that they worshipped God Who is the beginning and end of all.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: They also established certain sacred things, because they 
 Reply to Objection 3: The sacrament of circumcision was established by command of God before the Law. Hence it cannot be called a sacrament of the Law as though it were an institution of the Law, but only as an observance included in the Law. Hence Our Lord said (Jn. 7:20) that circumcision was "not of Moses, but of his fathers." Again, among those who worshipped God, the priesthood was in existence before the Law by human appointment, for the Law allotted the priestly dignity to the firstborn.
 
 Reply to Objection 4: The distinction of clean from unclean animals was in vogue before the Law, not with regard to eating them, since it is written (Gn. 9:3): "Everything that moveth and liveth shall be meat for you": but only as to the offering of sacrifices because they used only certain animals for that purpose. If, however, they did make any distinction in regard to eating; it was not that it was considered illegal to eat such animals, since this was not forbidden by any law, but from dislike or custom: thus even now we see that certain foods are looked upon with disgust in some countries, while people partake of them in others.
-## Whether, At The Time Of The Law, The Ceremonies Of The Old Law Had Any Power Of Justification?
+### Whether, At The Time Of The Law, The Ceremonies Of The Old Law Had Any Power Of Justification?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the ceremonies of the Old Law had the power of justification at the time of the Law. Because expiation from sin and consecration pertains to justification. But it is written (Ex. 39:21) that the priests and their apparel were consecrated by the sprinkling of blood and the anointing of oil; and (Lev. 16:16) that, by sprinkling the blood of the calf, the priest expiated "the sanctuary from the uncleanness of the children of Israel, and from their transgressions and . . . their sins." Therefore the ceremonies of the Old Law had the power of justification.
 
@@ -42,7 +42,7 @@ Objection 2: Further, that by which man pleases God pertains to justification, a
 
 Objection 3: Further, things relating to the divine worship regard the soul rather than the body, according to Ps. 18:8: "The Law of the Lord is unspotted, converting souls." But the leper was cleansed by means of the ceremonies of the Old Law, as stated in Lev. 14. Much more therefore could the ceremonies of the Old Law cleanse the soul by justifying it.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Gal. 2) [*The first words of the quotation are from 3:21: St. Thomas probably quoting from memory, substituted them for 2:21, which runs thus: 'If justice be by the Law, then Christ died in vain.']: "If there had been a law given which could justify [Vulg.: 'give life'], Christ died in vain," i.e. without cause. But this is inadmissible. Therefore the ceremonies of the Old Law did not confer justice.
 
@@ -54,16 +54,16 @@ However, it was possible at the time of the Law, for the minds of the faithful, 
 
 It is therefore evident that under the state of the Old Law the ceremonies had no power of justification.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That sanctification of priests and their sons, and of their apparel or of anything else belonging to them, by sprinkling them with blood, had no other effect but to appoint them to the divine worship, and to remove impediments from them, "to the cleansing of the flesh," as the Apostle states (Heb. 9:13) in token of that sanctification whereby "Jesus" sanctified "the people by His own blood" (Heb. 13:12). Moreover, the expiation must be understood as referring to the removal of these bodily uncleannesses, not to the forgiveness of sin. Hence even the sanctuary which could not be the subject of sin is stated to be expiated.
 
 Reply to Objection 2: The priests pleased God in the ceremonies by their obedience and devotion, and by their faith in the reality foreshadowed; not by reason of the things considered in themselves.
 
 Reply to Objection 3: Those ceremonies which were prescribed in the cleansing of a leper, were not ordained for the purpose of taking away the defilement of leprosy. This is clear from the fact that these ceremonies were not applied to a man until he was already healed: hence it is written (Lev. 14:3,4) that the priest, "going out of the camp, when he shall find that the leprosy is cleansed, shall command him that is to be purified to offer," etc.; whence it is evident that the priest was appointed the judge of leprosy, not before, but after cleansing. But these ceremonies were employed for the purpose of taking away the uncleanness of irregularity. They do say, however, that if a priest were to err in his judgment, the leper would be cleansed miraculously by the power of God, but not in virtue of the sacrifice. Thus also it was by miracle that the thigh of the adulterous woman rotted, when she had drunk the water "on which" the priest had "heaped curses," as stated in Num. 5:19-27.
-## Whether The Ceremonies Of The Old Law Ceased At The Coming Of Christ?
+### Whether The Ceremonies Of The Old Law Ceased At The Coming Of Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the ceremonies of the Old Law did not cease at the coming of Christ. For it is written (Bar 4:1): "This is the book of the commandments of God, and the law that is for ever." But the legal ceremonies were part of the Law. Therefore the legal ceremonies were to last for ever.
 
@@ -73,7 +73,7 @@ Objection 3: Further, as long as the cause remains, the effect remains. But the 
 
 Objection 4: Further, circumcision was instituted as a sign of Abraham's faith: the observance of the sabbath, to recall the blessing of creation: and other solemnities, in memory of other Divine favors, as state above ([2125]Q[102], A[4], ad 10; A[5], ad 1). But Abraham's faith is ever to be imitated even by us: and the blessing of creation and other Divine favors should never be forgotten. Therefore at least circumcision and the other legal solemnities should not have ceased.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Col. 2:16,17): "Let no man . . . judge you in meat or in drink, or in respect of a festival day, or of the new moon, or of the sabbaths, which are a shadow of things to come": and (Heb. 8:13): "In saying a new (testament), he hath made the former old: and that which decayeth and groweth old, is near its end."
 
@@ -81,7 +81,7 @@ I answer that, All the ceremonial precepts of the Old Law were ordained to the w
 
 In this state of the Blessed, then, nothing in regard to worship of God will be figurative; there will be naught but "thanksgiving and voice of praise" (Is. 51:3). Hence it is written concerning the city of the Blessed (Apoc. 21:22): "I saw no temple therein: for the Lord God Almighty is the temple thereof, and the Lamb." Proportionately, therefore, the ceremonies of the first-mentioned state which foreshadowed the second and third states, had need to cease at the advent of the second state; and other ceremonies had to be introduced which would be in keeping with the state of divine worship for that particular time, wherein heavenly goods are a thing of the future, but the Divine favors whereby we obtain the heavenly boons are a thing of the present.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Old Law is said to be "for ever" simply and absolutely, as regards its moral precepts; but as regards the ceremonial precepts it lasts for even in respect of the reality which those ceremonies foreshadowed.
 
@@ -90,9 +90,9 @@ Reply to Objection 2: The mystery of the redemption of the human race was fulfil
 Reply to Objection 3: The literal reasons already given ([2127]Q[102]) for the ceremonies refer to the divine worship, which was founded on faith in that which was to come. Hence, at the advent of Him Who was to come, both that worship ceased, and all the reasons referring thereto.
 
 Reply to Objection 4: The faith of Abraham was commended in that he believed in God's promise concerning his seed to come, in which all nations were to blessed. Wherefore, as long as this seed was yet to come, it was necessary to make profession of Abraham's faith by means of circumcision. But now that it is consummated, the same thing needs to be declared by means of another sign, viz. Baptism, which, in this respect, took the place of circumcision, according to the saying of the Apostle (Col. 2:11, 12): "You are circumcised with circumcision not made by hand, in despoiling of the body of the flesh, but in the circumcision of Christ, buried with Him in Baptism."
-## Whether Since Christ's Passion The Legal Ceremonies Can Be Observed Without Committing Mortal Sin?
+### Whether Since Christ's Passion The Legal Ceremonies Can Be Observed Without Committing Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that since Christ's Passion the legal ceremonies can be observed without committing mortal sin. For we must not believe that the apostles committed mortal sin after receiving the Holy Ghost: since by His fulness they were "endued with power from on high" (Lk. 24:49). But the apostles observed the legal ceremonies after the coming of the Holy Ghost: for it is stated (Acts 16:3) that Paul circumcised Timothy: and (Acts 21:26) that Paul, at the advice of James, "took the men, and . . . being purified with them, entered into the temple, giving notice of the accomplishment of the days of purification, until an oblation should be offered for every one of them." Therefore the legal ceremonies can be observed since the Passion of Christ without mortal sin.
 
@@ -100,13 +100,13 @@ Objection 2: Further, one of the legal ceremonies consisted in shunning the fell
 
 Objection 3: Further, the commands of the apostles did not lead men into sin. But it was commanded by apostolic decree that the Gentiles should observe certain ceremonies of the Law: for it is written (Acts 15:28,29): "It hath seemed good to the Holy Ghost and to us, to lay no further burden upon you than these necessary things: that you abstain from things sacrificed to idols, and from blood, and from things strangled, and from fornication." Therefore the legal ceremonies can be observed since Christ's Passion without committing mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Gal. 5:2): "If you be circumcised, Christ shall profit you nothing." But nothing save mortal sin hinders us from receiving Christ's fruit. Therefore since Christ's Passion it is a mortal sin to be circumcised, or to observe the other legal ceremonies.
 
 I answer that, All ceremonies are professions of faith, in which the interior worship of God consists. Now man can make profession of his inward faith, by deeds as well as by words: and in either profession, if he make a false declaration, he sins mortally. Now, though our faith in Christ is the same as that of the fathers of old; yet, since they came before Christ, whereas we come after Him, the same faith is expressed in different words, by us and by them. For by them was it said: "Behold a virgin shall conceive and bear a son," where the verbs are in the future tense: whereas we express the same by means of verbs in the past tense, and say that she "conceived and bore." In like manner the ceremonies of the Old Law betokened Christ as having yet to be born and to suffer: whereas our sacraments signify Him as already born and having suffered. Consequently, just as it would be a mortal sin now for anyone, in making a profession of faith, to say that Christ is yet to be born, which the fathers of old said devoutly and truthfully; so too it would be a mortal sin now to observe those ceremonies which the fathers of old fulfilled with devotion and fidelity. Such is the teaching Augustine (Contra Faust. xix, 16), who says: "It is no longer promised that He shall be born, shall suffer and rise again, truths of which their sacraments were a kind of image: but it is declared that He is already born, has suffered and risen again; of which our sacraments, in which Christians share, are the actual representation."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: On this point there seems to have been a difference of opinion between Jerome and Augustine. For Jerome (Super Galat. ii, 11, seqq.) distinguished two periods of time. One was the time previous to Christ's Passion, during which the legal ceremonies were neither dead, since they were obligatory, and did expiate in their own fashion; nor deadly, because it was not sinful to observe them. But immediately after Christ's Passion they began to be not only dead, so as no longer to be either effectual or binding; but also deadly, so that whoever observed them was guilty of mortal sin. Hence he maintained that after the Passion the apostles never observed the legal ceremonies in real earnest; but only by a kind of pious pretense, lest, to wit, they should scandalize the Jews and hinder their conversion. This pretense, however, is to be understood, not as though they did not in reality perform those actions, but in the sense that they performed them without the mind to observe the ceremonies of the Law: thus a man might cut away his foreskin for health's sake, not with the intention of observing legal circumcision.
 

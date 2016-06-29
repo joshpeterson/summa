@@ -5,9 +5,9 @@ We must now consider the vices which pertain to irreligion, whereby sacred thing
 (2) Whether it is a special sin?
 (3) Of the species of sacrilege;
 (4) Of the punishment of sacrilege.
-## Whether Sacrilege Is The Violation Of A Sacred Thing?
+### Whether Sacrilege Is The Violation Of A Sacred Thing?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sacrilege is not the violation of a sacred thing. It is stated (XVII, qu. iv [*Append. Gratian, on can. Si quis suadente]): "They are guilty of sacrilege who disagree about the sovereign's decision, and doubt whether the person chosen by the sovereign be worthy of honor." Now this seems to have no connection with anything sacred. Therefore sacrilege does not denote the violation of something sacred.
 
@@ -15,22 +15,22 @@ Objection 2: Further, it is stated further on [*Append. Gratian, on can. Constit
 
 Objection 3: Further, God's power is greater than man's. Now sacred things receive their sacred character from God. Therefore they cannot be violated by man: and so a sacrilege would not seem to be the violation of a sacred thing.
 
-### Answer
+**Answer**
 
 On the contrary, Isidore says (Etym. x) that "a man is said to be sacrilegious because he selects," i.e. steals, "sacred things."
 
 I answer that, As stated above (Q[81], A[5]; [3138]FS, Q[101], A[4]), a thing is called "sacred" through being deputed to the divine worship. Now just as a thing acquires an aspect of good through being deputed to a good end, so does a thing assume a divine character through being deputed to the divine worship, and thus a certain reverence is due to it, which reverence is referred to God. Therefore whatever pertains to irreverence for sacred things is an injury to God, and comes under the head of sacrilege.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to the Philosopher (Ethic. i, 2) the common good of the nation is a divine thing, wherefore in olden times the rulers of a commonwealth were called divines, as being the ministers of divine providence, according to Wis. 6:5, "Being ministers of His kingdom, you have not judged rightly." Hence by an extension of the term, whatever savors of irreverence for the sovereign, such as disputing his judgment, and questioning whether one ought to follow it, is called sacrilege by a kind of likeness.
 
 Reply to Objection 2: Christians are sanctified by faith and the sacraments of Christ, according to 1 Cor. 6:11, "But you are washed, but you are sanctified." Wherefore it is written (1 Pet. 2:9): "You are a chosen generation, a kingly priesthood, a holy nation, a purchased people." Therefore any injury inflicted on the Christian people, for instance that unbelievers should be put in authority over it, is an irreverence for a sacred thing, and is reasonably called a sacrilege.
 
 Reply to Objection 3: Violation here means any kind of irreverence or dishonor. Now as "honor is in the person who honors and not in the one who is honored" (Ethic. i, 5), so again irreverence is in the person who behaves irreverently even though he do no harm to the object of his irreverence. Hence, so far he is concerned, he violates the sacred thing, though the latter be not violated in itself.
-## Whether Sacrilege Is A Special Sin?
+### Whether Sacrilege Is A Special Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sacrilege not a special sin. It is stated (XVII, qu. iv) "They are guilty of sacrilege who through ignorance sin against the sanctity of the law, violate and defile it by their negligence." But this is done in every sin, because sin is "a word, deed or desire contrary to the law of God," according to Augustine (Contra Faust. xxi, 27). Therefore sacrilege is a general sin.
 
@@ -38,7 +38,7 @@ Objection 2: Further, no special sin is comprised under different kinds of sin. 
 
 Objection 3: Further, every special sin is to found apart from other sins as the Philosopher states, in speaking of special justice (Ethic. v, 11). But, seemingly, sacrilege is not to be found apart from other sins; for it is sometimes united to theft, sometimes to murder, as stated in the preceding objection. Therefore it is not a special sin.
 
-### Answer
+**Answer**
 
 On the contrary, That which is opposed to a special virtue is a special sin. But sacrilege is opposed to a special virtue, namely religion, to which it belongs to reverence God and divine things. Therefore sacrilege is a special sin.
 
@@ -46,16 +46,16 @@ I answer that, Wherever we find a special aspect of deformity, there must needs 
 
 Moreover, it is opposed to religion. For according to Damascene (De Fide Orth. iv, 3), "When the purple has been made into a royal robe, we pay it honor and homage, and if anyone dishonor it he is condemned to death," as acting against the king: and in the same way if a man violate a sacred thing, by so doing his behavior is contrary to the reverence due to God and consequently he is guilty of irreligion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Those are said to sin against the sanctity of the divine law who assail God's law, as heretics and blasphemers do. These are guilty of unbelief, through not believing in God; and of sacrilege, through perverting the words of the divine law.
 
 Reply to Objection 2: Nothing prevents one specific kind of sin being found in various generic kinds of sin, inasmuch as various sins are directed to the end of one sin, just as happens in the case of virtues commanded by one virtue. In this way, by whatever kind of sin a man acts counter to reverence due to sacred things, he commits a sacrilege formally; although his act contains various kinds of sin materially.
 
 Reply to Objection 3: Sacrilege is sometimes found apart from other sins, through its act having no other deformity than the violation of a sacred thing: for instance, if a judge were to take a person from a sacred place for he might lawfully have taken him from elsewhere.
-## Whether The Species Of Sacrilege Are Distinguished According To The Sacred Things?
+### Whether The Species Of Sacrilege Are Distinguished According To The Sacred Things?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the species of sacrilege are not distinguished according to the sacred things. Material diversity does not differentiate species, if the formal aspect remains the same. Now there would seem to be the same formal aspect of sin in all violations of sacred things, and that the only difference is one of matter. Therefore the species of sacrilege are not distinguished thereby.
 
@@ -63,7 +63,7 @@ Objection 2: Further, it does not seem possible that things belonging to the sam
 
 Objection 3: Further, among sacred things sacred persons are reckoned. If, therefore, one species of sacrilege arises from the violation of a sacred person, it would follow that every sin committed by a sacred person is a sacrilege, since every sin violates the person of the sinner. Therefore the species of sacrilege are not reckoned according to the sacred things.
 
-### Answer
+**Answer**
 
 On the contrary, Acts and habits are distinguished by their objects. Now the sacred thing is the object of sacrilege, as stated above [3139](A[1]). Therefore the species of sacrilege are distinguished according to the sacred things.
 
@@ -73,16 +73,16 @@ Now holiness is ascribed, not only to sacred persons, namely, those who are cons
 
 In like manner the third species of sacrilege, which is committed against other sacred things, has various degrees, according to the differences of sacred things. Among these the highest place belongs to the sacraments whereby man is sanctified: chief of which is the sacrament of the Eucharist, for it contains Christ Himself. Wherefore the sacrilege that is committed against this sacrament is the gravest of all. The second place, after the sacraments, belongs to the vessels consecrated for the administration of the sacraments; also sacred images, and the relics of the saints, wherein the very persons of the saints, so to speak, are reverenced and honored. After these come things connected with the apparel of the Church and its ministers; and those things, whether movable or immovable, that are deputed to the upkeep of the ministers. And whoever sins against any one of the aforesaid incurs the crime of sacrilege.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There is not the same aspect of holiness in all the aforesaid: wherefore the diversity of sacred things is not only a material, but also a formal difference.
 
 Reply to Objection 2: Nothing hinders two things from belonging to one species in one respect, and to different species in another respect. Thus Socrates and Plato belong to the one species, "animal," but differ in the species "colored thing," if one be white and the other black. In like manner it is possible for two sins to differ specifically as to their material acts, and to belong to the same species as regards the one formal aspect of sacrilege: for instance, the violation of a nun by blows or by copulation.
 
 Reply to Objection 3: Every sin committed by a sacred person is a sacrilege materially and accidentally as it were. Hence Jerome [*The quotation is from St. Bernard, De Consideration, ii, 13] says that "a trifle on a priest's lips is a sacrilege or a blasphemy." But formally and properly speaking a sin committed by a sacred person is a sacrilege only when it is committed against his holiness, for instance if a virgin consecrated to God be guilty of fornication: and the same is to be said of other instances.
-## Whether The Punishment Of Sacrilege Should Be Pecuniary?
+### Whether The Punishment Of Sacrilege Should Be Pecuniary?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the punishment of sacrilege should not be pecuniary. A pecuniary punishment is not wont to be inflicted for a criminal fault. But sacrilege is a criminal fault, wherefore it is punished by capital sentence according to civil law [*Dig. xlviii, 13; Cod. i, 3, de Episc. et Cleric.]. Therefore sacrilege should not be awarded a pecuniary punishment.
 
@@ -90,13 +90,13 @@ Objection 2: Further, the same sin should not receive a double punishment, accor
 
 Objection 3: Further, the Apostle says (1 Thess. 2:5): "Neither have we taken an occasion of covetousness." But it seems to involve an occasion of covetousness that a pecuniary punishment should be exacted for the violation of a sacred thing. Therefore this does not seem to be a fitting punishment of sacrilege.
 
-### Answer
+**Answer**
 
 On the contrary, It is written [*XVII, qu. iv, can. Si quis contumax]: "If anyone contumaciously or arrogantly take away by force an escaped slave from the confines of a church he shall pay nine hundred soldi": and again further on (XVII, qu. iv, can. Quisquis inventus, can. 21): "Whoever is found guilty of sacrilege shall pay thirty pounds of tried purest silver."
 
 I answer that, In the award of punishments two points must be considered. First equality, in order that the punishment may be just, and that "by what things a man sinneth by the same . . . he may be tormented" (Wis. 11:17). In this respect the fitting punishment of one guilty of sacrilege, since he has done an injury to a sacred thing, is excommunication [*Append. Gratian. on can. Si quis contumax, quoted above] whereby sacred things are withheld from him. The second point to be considered is utility. For punishments are inflicted as medicines, that men being deterred thereby may desist from sin. Now it would seem that the sacrilegious man, who reverences not sacred things, is not sufficiently deterred from sinning by sacred things being withheld from him, since he has no care for them. Wherefore according to human laws he is sentenced to capital punishment, and according to the statutes of the Church, which does not inflict the death of the body, a pecuniary punishment is inflicted, in order that men may be deterred from sacrilege, at least by temporal punishments.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Church inflicts not the death of the body, but excommunication in its stead.
 

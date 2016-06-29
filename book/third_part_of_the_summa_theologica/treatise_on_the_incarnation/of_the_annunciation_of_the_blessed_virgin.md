@@ -5,9 +5,9 @@ We now have to consider the Blessed Virgin's Annunciation, concerning which ther
 (2) By whom should this announcement be made?
 (3) In what manner should this announcement be made?
 (4) Of the order observed in the Annunciation.
-## Whether It Was Necessary To Announce To The Blessed Virgin That Which Was To Be Done In Her?
+### Whether It Was Necessary To Announce To The Blessed Virgin That Which Was To Be Done In Her?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was unnecessary to announce to the Blessed Virgin that which was to be done in her. For there seems to have been no need of the Annunciation except for the purpose of receiving the Virgin's consent. But her consent seems to have been unnecessary: because the Virginal Conception was foretold by a prophecy of "predestination," which is "fulfilled without our consent," as a gloss says on Mat. 1:22. There was no need, therefore, for this Annunciation.
 
@@ -15,7 +15,7 @@ Objection 2: Further, the Blessed Virgin believed in the Incarnation, for to dis
 
 Objection 3: Further, just as the Blessed Virgin conceived Christ in her body, so every pious soul conceives Him spiritually. Thus the Apostle says (Gal. 4:19): "My little children, of whom I am in labor again, until Christ be formed in you." But to those who conceive Him spiritually no announcement is made of this conception. Therefore neither should it have been announced to the Blessed Virgin that she was to conceive the Son of God in her womb.
 
-### Answer
+**Answer**
 
 On the contrary, It is related (Lk. 1:31) that the angel said to her: "Behold, thou shalt conceive in thy womb, and shalt bring forth a son."
 
@@ -27,16 +27,16 @@ Thirdly, that she might offer to God the free gift of her obedience: which she p
 
 Fourthly, in order to show that there is a certain spiritual wedlock between the Son of God and human nature. Wherefore in the Annunciation the Virgin's consent was besought in lieu of that of the entire human nature.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The prophecy of predestination is fulfilled without the causality of our will; not without its consent.
 
 Reply to Objection 2: The Blessed Virgin did indeed believe explicitly in the future Incarnation; but, being humble, she did not think such high things of herself. Consequently she required instruction in this matter.
 
 Reply to Objection 3: The spiritual conception of Christ through faith is preceded by the preaching of the faith, for as much as "faith is by hearing" (Rom. 10:17). Yet man does not know for certain thereby that he has grace; but he does know that the faith, which he has received, is true.
-## Whether The Annunciation Should Have Been Made By An Angel To The Blessed Virgin?
+### Whether The Annunciation Should Have Been Made By An Angel To The Blessed Virgin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Annunciation should not have been made by an angel to our Blessed Lady. For revelations to the highest angels are made immediately by God, as Dionysius says (Coel. Hier. vii). But the Mother of God is exalted above all the angels. Therefore it seems that the mystery of the Incarnation should have been announced to her by God immediately, and not by an angel.
 
@@ -46,7 +46,7 @@ Objection 3: Further, none can becomingly announce what he knows not. But the hi
 
 Objection 4: Further, greater things should be announced by messengers of greater dignity. But the mystery of the Incarnation is the greatest of all things announced by angels to men. It seems, therefore, if it behooved to be announced by an angel at all, that this should have been done by an angel of the highest order. But Gabriel is not of the highest order, but of the order of archangels, which is the last but one: wherefore the Church sings: "We know that the archangel Gabriel brought thee a message from God" [*Feast of Purification B.V.M. ix Resp. Brev. O.P.]. Therefore this announcement was not becomingly made by the archangel Gabriel.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 1:26): "The angel Gabriel was sent by God," etc.
 
@@ -56,7 +56,7 @@ Secondly, this was becoming to the restoration of human nature which was to be e
 
 Thirdly, because this was becoming to the virginity of the Mother of God. Wherefore Jerome says in a sermon on the Assumption [*Ascribed to St. Jerome but not his work]: "It is well that an angel be sent to the Virgin; because virginity is ever akin to the angelic nature. Surely to live in the flesh and not according to the flesh is not an earthly but a heavenly life."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Mother of God was above the angels as regards the dignity to which she was chosen by God. But as regards the present state of life, she was beneath the angels. For even Christ Himself, by reason of His passible life, "was made a little lower than the angels," according to Heb. 2:9. But because Christ was both wayfarer and comprehensor, He did not need to be instructed by angels, as regards knowledge of Divine things. The Mother of God, however, was not yet in the state of comprehension: and therefore she had to be instructed by angels concerning the Divine Conception.
 
@@ -65,9 +65,9 @@ Reply to Objection 2: As Augustine says in a sermon on the Assumption (De Assump
 Reply to Objection 3: As may be gathered from the passage quoted from Dionysius, the angels were acquainted with the mystery of the Incarnation: and yet they put this question, being desirous that Christ should give them more perfect knowledge of the details of this mystery, which are incomprehensible to any created intellect. Thus Maximus [*Maximus of Constantinople] says that "there can be no question that the angels knew that the Incarnation was to take place. But it was not given to them to trace the manner of our Lord's conception, nor how it was that He remained whole in the Father, whole throughout the universe, and was whole in the narrow abode of the Virgin."
 
 Reply to Objection 4: Some say that Gabriel was of the highest order; because Gregory says (Hom. de Centum Ovibus [*34 in Evang.]): "It was right that one of the highest angels should come, since his message was most sublime." But this does nat imply that he was of the highest order of all, but in regard to the angels: since he was an archangel. Thus the Church calls him an archangel, and Gregory himself in a homily (De Centum Ovibus 34) says that "those are called archangels who announce sublime things." It is therefore sufficiently credible that he was the highest of the archangels. And, as Gregory says (De Centum Ovibus 34), this name agrees with his office: for "Gabriel means 'Power of God.' This message therefore was fittingly brought by the 'Power of God,' because the Lord of hosts and mighty in battle was coming to overcome the powers of the air."
-## Whether The Angel Of Annunciation Should Have Appeared To The Virgin In A Bodily Vision?
+### Whether The Angel Of Annunciation Should Have Appeared To The Virgin In A Bodily Vision?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angel of the Annunciation should not have appeared to the Virgin in a bodily vision. For "intellectual vision is more excellent than bodily vision," as Augustine says (Gen. ad lit. xii), and especially more becoming to an angel: since by intellectual vision an angel is seen in his substance; whereas in a bodily vision he is seen in the bodily shape which he assumes. Now since it behooved a sublime messenger to come to announce the Divine Conception, so, seemingly, he should have appeared in the most excellent kind of vision. Therefore it seems that the angel of the Annunciation appeared to the Virgin in an intellectual vision.
 
@@ -75,7 +75,7 @@ Objection 2: Further, imaginary vision also seems to excel bodily vision: just a
 
 Objection 3: Further, the bodily vision of a spiritual substance stupefies the beholder; thus we sing of the Virgin herself: "And the Virgin seeing the light was filled with fear" [*Feast of Annunciation, B.V.M. ii Resp. Brev. O.P.]. But it was better that her mind should be preserved from being thus troubled. Therefore it was not fitting that this announcement should be made in a bodily vision.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine in a sermon (De Annunt. iii) pictures the Blessed Virgin as speaking thus: "To me came the archangel Gabriel with glowing countenance, gleaming robe, and wondrous step." But these cannot pertain to other than bodily vision. Therefore the angel of the Annunciation appeared in a bodily vision to the Blessed Virgin.
 
@@ -85,16 +85,16 @@ Secondly, it was fitting as regards the dignity of the Mother of God, who was to
 
 Thirdly, it is in keeping with the certainty of that which was announced. For we apprehend with greater certainty that which is before our eyes, than what is in our imagination. Thus Chrysostom says (Hom. iv in Matth.) that the angel "came to the Virgin not in her sleep, but visibly. For since she was receiving from the angel a message exceeding great, before such an event she needed a vision of great solemnity."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Intellectual vision excels merely imaginary and merely bodily vision. But Augustine himself says (De Annunt. iii) that prophecy is more excellent if accompanied by intellectual and imaginary vision, than if accompanied by only one of them. Now the Blessed Virgin perceived not only the bodily vision, but also the intellectual illumination. Wherefore this was a more excellent vision. Yet it would have been more excellent if she had perceived the angel himself in his substance by her intellectual vision. But it was incompatible with her state of wayfarer that she should see an angel in his essence.
 
 Reply to Objection 2: The imagination is indeed a higher power than the exterior sense: but because the senses are the principle of human knowledge, the greatest certainty is in them, for the principles of knowledge must needs always be most certain. Consequently Joseph, to whom the angel appeared in his sleep, did not have so excellent a vision as the Blessed Virgin.
 
 Reply to Objection 3: As Ambrose says on Lk. 1:11: "We are disturbed, and lose our presence of mind, when we are confronted by the presence of a superior power." And this happens not only in bodily, but also in imaginary vision. Wherefore it is written (Gn. 15:12) that "when the sun was setting, a deep sleep fell upon Abram, and a great and darksome horror seized upon him." But by being thus disturbed man is not harmed to such an extent that therefore he ought to forego the vision of an angel. First because from the very fact that man is raised above himself, in which matter his dignity is concerned, his inferior powers are weakened; and from this results the aforesaid disturbance: thus, also, when the natural heat is drawn within a body, the exterior parts tremble. Secondly, because, as Origen says (Hom. iv in Luc.): "The angel who appeared, knowing hers was a human nature, first sought to remedy the disturbance of mind to which a man is subject." Wherefore both to Zachary and to Mary, as soon as they were disturbed, he said: "Fear not." For this reason, as we read in the life of Anthony, "it is difficult to discern good from evil spirits. For if joy succeed fear, we should know that the help is from the Lord: because security of soul is a sign of present majesty. But if the fear with which we are stricken persevere, it is an enemy that we see."
-## Whether The Annunciation Took Place In Becoming Order?
+### Whether The Annunciation Took Place In Becoming Order?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Annunciation did not take place in becoming order. For the dignity of the Mother of God results from the child she conceived. But the cause should be made known before the effect. Therefore the angel should have announced to the Virgin the conception of her child before acknowledging her dignity in greeting her.
 
@@ -102,7 +102,7 @@ Objection 2: Further, proof should be omitted in things which admit of no doubt;
 
 Objection 3: Further, the greater cannot be adequately proved by the less. But it was a greater wonder for a virgin than for an old woman to be with child. Therefore the angel's proof was insufficient to demonstrate the conception of a virgin from that of an old woman.
 
-### Answer
+**Answer**
 
 On the contrary, it is written (Rom. 13:1): "Those that are of God, are well ordered [Vulg.: 'Those that are, are ordained of God']." Now the angel was "sent by God" to announce unto the Virgin, as is related Lk. 1:26. Therefore the Annunciation was made by the angel in the most perfect order.
 
@@ -112,7 +112,7 @@ Secondly, he purposed to instruct her about the mystery of the Incarnation, whic
 
 Thirdly, he purposed to lead her mind to consent. This he did by the instance of Elizabeth, and by the argument from Divine omnipotence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To a humble mind nothing is more astonishing than to hear its own excellence. Now, wonder is most effective in drawing the mind's attention. Therefore the angel, desirous of drawing the Virgin's attention to the hearing of so great a mystery, began by praising her.
 

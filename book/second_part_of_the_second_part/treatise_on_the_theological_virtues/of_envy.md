@@ -5,9 +5,9 @@ We must now consider envy, and under this head there are four points of inquiry:
 (2) Whether it is a sin?
 (3) Whether it is a mortal sin?
 (4) Whether it is a capital sin, and which are its daughters?
-## Whether Envy Is A Kind Of Sorrow?
+### Whether Envy Is A Kind Of Sorrow?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that envy is not a kind of sorrow. For the object of envy is a good, for Gregory says (Moral. v, 46) of the envious man that "self-inflicted pain wounds the pining spirit, which is racked by the prosperity of another." Therefore envy is not a kind of sorrow.
 
@@ -17,7 +17,7 @@ Objection 3: Further, sorrow is caused by a defect, wherefore those who are in g
 
 Objection 4: Further, sorrow is opposed to pleasure. Now opposite effects have not one and the same cause. Therefore, since the recollection of goods once possessed is a cause of pleasure, as stated above ([2640]FS, Q[32], A[3]) it will not be a cause of sorrow. But it is a cause of envy; for the Philosopher says (Rhet. ii, 10) that "we envy those who have or have had things that befitted ourselves, or which we possessed at some time." Therefore sloth is not a kind of sorrow.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene (De Fide Orth. ii, 14) calls envy a species of sorrow, and says that "envy is sorrow for another's good."
 
@@ -25,7 +25,7 @@ I answer that, The object of a man's sorrow is his own evil. Now it may happen t
 
 Secondly, another's good may be reckoned as being one's own evil, in so far as it conduces to the lessening of one's own good name or excellence. It is in this way that envy grieves for another's good: and consequently men are envious of those goods in which a good name consists, and about which men like to be honored and esteemed, as the Philosopher remarks (Rhet. ii, 10).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Nothing hinders what is good for one from being reckoned as evil for another: and in this way it is possible for sorrow to be about good, as stated above.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: Since envy is about another's good name in so far as it di
 Reply to Objection 3: A man does not strive for mastery in matters where he is very deficient; so that he does not envy one who surpasses him in such matters, unless he surpass him by little, for then it seems to him that this is not beyond him, and so he makes an effort; wherefore, if his effort fails through the other's reputation surpassing his, he grieves. Hence it is that those who love to be honored are more envious; and in like manner the faint-hearted are envious, because all things are great to them, and whatever good may befall another, they reckon that they themselves have been bested in something great. Hence it is written (Job 5:2): "Envy slayeth the little one," and Gregory says (Moral. v, 46) that "we can envy those only whom we think better in some respect than ourselves."
 
 Reply to Objection 4: Recollection of past goods in so far as we have had them, causes pleasure; in so far as we have lost them, causes sorrow; and in so far as others have them, causes envy, because that, above all, seems to belittle our reputation. Hence the Philosopher says (Rhet. ii) that the old envy the young, and those who have spent much in order to get something, envy those who have got it by spending little, because they grieve that they have lost their goods, and that others have acquired goods.
-## Whether Envy Is A Sin?
+### Whether Envy Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that envy is not a sin. For Jerome says to Laeta about the education of her daughter (Ep. cvii): "Let her have companions, so that she may learn together with them, envy them, and be nettled when they are praised." But no one should be advised to commit a sin. Therefore envy is not a sin
 
@@ -46,7 +46,7 @@ Objection 3: Further, envy denotes a kind of zeal. But there is a good zeal, acc
 
 Objection 4: Further, punishment is condivided with fault. But envy is a kind of punishment: for Gregory says (Moral. v, 46): "When the foul sore of envy corrupts the vanquished heart, the very exterior itself shows how forcibly the mind is urged by madness. For paleness seizes the complexion, the eyes are weighed down, the spirit is inflamed, while the limbs are chilled, there is frenzy in the heart, there is gnashing with the teeth." Therefore envy is not a sin.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gal. 5:26): "Let us not be made desirous of vainglory, provoking one another, envying one another."
 
@@ -54,7 +54,7 @@ I answer that, As stated above [2641](A[1]), envy is sorrow for another's good. 
 
 Secondly, we may grieve over another's good, not because he has it, but because the good which he has, we have not: and this, properly speaking, is zeal, as the Philosopher says (Rhet. ii, 9). And if this zeal be about virtuous goods, it is praiseworthy, according to 1 Cor. 14:1: "Be zealous for spiritual gifts": while, if it be about temporal goods, it may be either sinful or sinless. Thirdly, one may grieve over another's good, because he who happens to have that good is unworthy of it. Such sorrow as this cannot be occasioned by virtuous goods, which make a man righteous, but, as the Philosopher states, is about riches, and those things which can accrue to the worthy and the unworthy; and he calls this sorrow {nemesis} [*The nearest equivalent is "indignation." The use of the word "nemesis" to signify "revenge" does not represent the original Greek.], saying that it belongs to good morals. But he says this because he considered temporal goods in themselves, in so far as they may seem great to those who look not to eternal goods: whereas, according to the teaching of faith, temporal goods that accrue to those who are unworthy, are so disposed according to God's just ordinance, either for the correction of those men, or for their condemnation, and such goods are as nothing in comparison with the goods to come, which are prepared for good men. Wherefore sorrow of this kind is forbidden in Holy Writ, according to Ps. 36:1: "Be not emulous of evil doers, nor envy them that work iniquity," and elsewhere (Ps. 72:2,3): "My steps had well nigh slipped, for I was envious of the wicked, when I saw the prosperity of sinners [*Douay: 'because I had a zeal on occasion of the wicked, seeing the prosperity of sinners']." Fourthly, we grieve over a man's good, in so far as his good surpasses ours; this is envy properly speaking, and is always sinful, as also the Philosopher states (Rhet. ii, 10), because to do so is to grieve over what should make us rejoice, viz. over our neighbor's good.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Envy there denotes the zeal with which we ought to strive to progress with those who are better than we are.
 
@@ -63,9 +63,9 @@ Reply to Objection 2: This argument considers sorrow for another's good in the f
 Reply to Objection 3: Envy differs from zeal, as stated above. Hence a certain zeal may be good, whereas envy is always evil.
 
 Reply to Objection 4: Nothing hinders a sin from being penal accidentally, as stated above ([2643]FS, Q[87], A[2]) when we were treating of sins.
-## Whether Envy Is A Mortal Sin?
+### Whether Envy Is A Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that envy is not a mortal sin. For since envy is a kind of sorrow, it is a passion of the sensitive appetite. Now there is no mortal sin in the sensuality, but only in the reason, as Augustine declares (De Trin. xii, 12) [*Cf. [2644]FS, Q[74], A[4]]. Therefore envy is not a mortal sin.
 
@@ -73,7 +73,7 @@ Objection 2: Further, there cannot be mortal sin in infants. But envy can be in 
 
 Objection 3: Further, every mortal sin is contrary to some virtue. But envy is contrary, not to a virtue but to {nemesis}, which is a passion, according to the Philosopher (Rhet. ii, 9). Therefore envy is not a mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Job 5:2): "Envy slayeth the little one." Now nothing slays spiritually, except mortal sin. Therefore envy is a mortal sin.
 
@@ -81,14 +81,14 @@ I answer that, Envy is a mortal sin, in respect of its genus. For the genus of a
 
 Nevertheless, as stated above (Q[35], A[4]; [2646]FS, Q[72], A[5], ad 1), in every kind of mortal sin we find certain imperfect movements in the sensuality, which are venial sins: such are the first movement of concupiscence, in the genus of adultery, and the first movement of anger, in the genus of murder, and so in the genus of envy we find sometimes even in perfect men certain first movements, which are venial sins.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The movement of envy in so far as it is a passion of the sensuality, is an imperfect thing in the genus of human acts, the principle of which is the reason, so that envy of that kind is not a mortal sin. The same applies to the envy of little children who have not the use of reason: wherefore the Reply to the Second Objection is manifest.
 
 Reply to Objection 3: According to the Philosopher (Rhet. ii, 9), envy is contrary both to {nemesis} and to pity, but for different reasons. For it is directly contrary to pity, their principal objects being contrary to one another, since the envious man grieves over his neighbor's good, whereas the pitiful man grieves over his neighbor's evil, so that the envious have no pity, as he states in the same passage, nor is the pitiful man envious. On the other hand, envy is contrary to {nemesis} on the part of the man whose good grieves the envious man, for {nemesis} is sorrow for the good of the undeserving according to Ps. 72:3: "I was envious of the wicked, when I saw the prosperity of sinners" [*Douay: 'because I had a zeal on occasion of the wicked, seeing the prosperity of sinners'], whereas the envious grieves over the good of those who are deserving of it. Hence it is clear that the former contrariety is more direct than the latter. Now pity is a virtue, and an effect proper to charity: so that envy is contrary to pity and charity.
-## Whether Envy Is A Capital Vice?
+### Whether Envy Is A Capital Vice?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that envy is not a capital vice. For the capital vices are distinct from their daughters. Now envy is the daughter of vainglory; for the Philosopher says (Rhet. ii, 10) that "those who love honor and glory are more envious." Therefore envy is not a capital vice.
 
@@ -96,13 +96,13 @@ Objection 2: Further, the capital vices seem to be less grave than the other vic
 
 Objection 3: Further, it seems that its daughters are unfittingly assigned by Gregory (Moral. xxxi, 45), who says that from envy arise "hatred, tale-bearing, detraction, joy at our neighbor's misfortunes, and grief for his prosperity." For joy at our neighbor's misfortunes and grief for his prosperity seem to be the same as envy, as appears from what has been said above [2647](A[3]). Therefore these should not be assigned as daughters of envy.
 
-### Answer
+**Answer**
 
 
 
 I answer that, Just as sloth is grief for a Divine spiritual good, so envy is grief for our neighbor's good. Now it has been stated above ([2648]Q[35], A[4]) that sloth is a capital vice for the reason that it incites man to do certain things, with the purpose either of avoiding sorrow or of satisfying its demands. Wherefore envy is accounted a capital vice for the same reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Gregory says (Moral. xxxi, 45), "the capital vices are so closely akin to one another that one springs from the other. For the first offspring of pride is vainglory, which by corrupting the mind it occupies begets envy, since while it craves for the power of an empty name, it repines for fear lest another should acquire that power." Consequently the notion of a capital vice does not exclude its originating from another vice, but it demands that it should have some principal reason for being itself the origin of several kinds of sin. However it is perhaps because envy manifestly arises from vainglory, that it is not reckoned a capital sin, either by Isidore (De Summo Bono) or by Cassian (De Instit. Caenob. v, 1).
 

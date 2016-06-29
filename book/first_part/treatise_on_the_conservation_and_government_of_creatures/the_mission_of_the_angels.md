@@ -5,9 +5,9 @@ We next consider the mission of the angels. Under this head arise four points of
 (2) Whether all are sent?
 (3) Whether those who are sent, assist?
 (4) From what orders they are sent.
-## Whether The Angels Are Sent On Works Of Ministry?
+### Whether The Angels Are Sent On Works Of Ministry?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angels are not sent on works of ministry. For every mission is to some determinate place. But intellectual actions do not determine a place, for intellect abstracts from the "here" and "now." Since therefore the angelic actions are intellectual, it appears that the angels are not sent to perform their own actions.
 
@@ -17,7 +17,7 @@ Objection 3: Further, external occupation hinders the contemplation of wisdom; h
 
 Objection 4: Further, to minister is the part of an inferior; hence it is written (Lk. 22:27): "Which is the greater, he that sitteth at table, or he that serveth? is not he that sitteth at table?" But the angels are naturally greater than we are. Therefore they are not sent to administer to us.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ex. 23:20): "Behold I will send My angels who shall go before thee."
 
@@ -25,7 +25,7 @@ I answer that, From what has been said above ([909]Q[108], A[6]), it may be show
 
 Yet the action performed by the angel who is sent, proceeds from God as from its first principle, at Whose nod and by Whose authority the angels work; and is reduced to God as to its last end. Now this is what is meant by a minister: for a minister is an intelligent instrument; while an instrument is moved by another, and its action is ordered to another. Hence angels' actions are called 'ministries'; and for this reason they are said to be sent in ministry.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: An operation can be intellectual in two ways. In one way, as dwelling in the intellect itself, as contemplation; such an operation does not demand to occupy a place; indeed, as Augustine says (De Trin. iv, 20): "Even we ourselves as mentally tasting something eternal, are not in this world." In another sense an action is said to be intellectual because it is regulated and commanded by some intellect; in that sense the intellectual operations evidently have sometimes a determinate place.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: The empyrean heaven belongs to the angelic dignity by way 
 Reply to Objection 3: In ourselves the purity of contemplation is obscured by exterior occupation; because we give ourselves to action through the sensitive faculties, the action of which when intense impedes the action of the intellectual powers. An angel, on the contrary, regulates his exterior actions by intellectual operation alone. Hence it follows that his external occupations in no respect impede his contemplation; because given two actions, one of which is the rule and the reason of the other, one does not hinder but helps the other. Wherefore Gregory says (Moral. ii) that "the angels do not go abroad in such a manner as to lose the delights of inward contemplation."
 
 Reply to Objection 4: In their external actions the angels chiefly minister to God, and secondarily to us; not because we are superior to them, absolutely speaking, but because, since every man or angel by cleaving to God is made one spirit with God, he is thereby superior to every creature. Hence the Apostle says (Phil. 2:3): "Esteeming others better than themselves."
-## Whether All The Angels Are Sent In Ministry?
+### Whether All The Angels Are Sent In Ministry?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all the angels are sent in ministry. For the Apostle says (Heb. 1:14): "All are ministering spirits, sent to minister" [Vulg. 'Are they not all . . . ?'].
 
@@ -46,7 +46,7 @@ Objection 3: Further, the Divine Persons infinitely excel all the angelic orders
 
 Objection 4: Further, if the superior angels are not sent to the external ministries, this can only be because the superior angels execute the Divine ministries by means of the inferior angels. But as all the angels are unequal, as stated above ([914]Q[50], A[4]), each angel has an angel inferior to himself except the last one. Therefore only the last angel would be sent in ministry; which contradicts the words, "Thousands of thousands ministered to Him" (Dan. 7:10).
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. xxxiv in Evang.), quoting the statement of Dionysius (Coel. Hier. xiii), that "the higher ranks fulfil no exterior service."
 
@@ -54,16 +54,16 @@ I answer that, As appears from what has been said above ([915]Q[106], A[3]; [916
 
 It may also be said that the Apostle wishes to prove that Christ is greater than the angels who were chosen as the messengers of the law; in order that He might show the excellence of the new over the old law. Hence there is no need to apply this to any other angels besides those who were sent to give the law.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: According to Dionysius (Coel. Hier. xiii), the angel who was sent to purify the prophet's lips was one of the inferior order; but was called a "Seraph," that is, "kindling " in an equivocal sense, because he came to "kindle" the lips of the prophet. It may also be said that the superior angels communicate their own proper gifts whereby they are denominated, through the ministry of the inferior angels. Thus one of the Seraphim is described as purifying by fire the prophet's lips, not as if he did so immediately, but because an inferior angel did so by his power; as the Pope is said to absolve a man when he gives absolution by means of someone else.
 
 Reply to Objection 3: The Divine Persons are not sent in ministry, but are said to be sent in an equivocal sense, as appears from what has been said ([917]Q[43], A[1]).
 
 Reply to Objection 4: A manifold grade exists in the Divine ministries. Hence there is nothing to prevent angels though unequal from being sent immediately in ministry, in such a manner however that the superior are sent to the higher ministries, and the lower to the inferior ministries.
-## Whether All The Angels Who Are Sent, Assist?
+### Whether All The Angels Who Are Sent, Assist?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angels who are sent also assist. For Gregory says (Hom. xxxiv in Evang.): "So the angels are sent, and assist; for, though the angelic spirit is limited, yet the supreme Spirit, God, is not limited."
 
@@ -73,7 +73,7 @@ Objection 3: Further, every holy angel is nearer to God than Satan is. Yet Satan
 
 Objection 4: Further, if the inferior angels do not assist, the reason is because they receive the Divine enlightenment, not immediately, but through the superior angels. But every angel receives the Divine enlightenment from a superior, except the one who is highest of all. Therefore only the highest angel would assist; which is contrary to the text of Dan. 7:10: "Ten thousand times a hundred thousand stood before Him." Therefore the angels who are sent also assist.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says, on Job 25:3: "Is there any numbering of His soldiers?" (Moral. xvii): "Those powers assist, who do not go forth as messengers to men." Therefore those who are sent in ministry do not assist.
 
@@ -83,26 +83,26 @@ We must therefore observe that all the angels gaze upon the Divine Essence immed
 
 From this may be deduced the reply to the first and second objections, which are based on the first mode of assisting.
 
-### Replies
+**Replies**
 
 Reply to Objection 3: Satan is not described as having assisted, but as present among the assistants; for, as Gregory says (Moral. ii), "though he has lost beatitude, still he has retained a nature like to the angels."
 
 Reply to Objection 4: All the assistants see some things immediately in the glory of the Divine Essence; and so it may be said that it is the prerogative of the whole of the highest hierarchy to be immediately enlightened by God; while the higher ones among them see more than is seen by the inferior; some of whom enlighten others: as also among those who assist the king, one knows more of the king's secrets than another.
-## Whether All The Angels Of The Second Hierarchy Are Sent?
+### Whether All The Angels Of The Second Hierarchy Are Sent?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all the angels of the second hierarchy are sent. For all the angels either assist, or minister, according to Dan. 7:10. But the angels of the second hierarchy do not assist; for they are enlightened by the angels of the first hierarchy, as Dionysius says (Coel. Hier. viii). Therefore all the angels of the second hierarchy are sent in ministry.
 
 Objection 2: Further, Gregory says (Moral. xvii) that "there are more who minister than who assist." This would not be the case if the angels of the second hierarchy were not sent in ministry. Therefore all the angels of the second hierarchy are sent to minister.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Coel. Hier. viii) that the "Dominations are above all subjection." But to be sent implies subjection. Therefore the dominations are not sent to minister.
 
 I answer that, As above stated [918](A[1]), to be sent to external ministry properly belongs to an angel according as he acts by Divine command in respect of any corporeal creature; which is part of the execution of the Divine ministry. Now the angelic properties are manifested by their names, as Dionysius says (Coel. Hier. vii); and therefore the angels of those orders are sent to external ministry whose names signify some kind of administration. But the name "dominations" does not signify any such administration, but only disposition and command in administering. On the other hand, the names of the inferior orders imply administration, for the "Angels" and "Archangels" are so called from "announcing"; the "Virtues" and "Powers" are so called in respect of some act; and it is right that the "Prince," according to what Gregory says (Hom. xxxiv in Evang.), "be first among the workers." Hence it belongs to these five orders to be sent to external ministry; not to the four superior orders.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Dominations are reckoned among the ministering angels, not as exercising but as disposing and commanding what is to be done by others; thus an architect does not put his hands to the production of his art, but only disposes and orders what others are to do.
 

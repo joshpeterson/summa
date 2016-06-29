@@ -3,9 +3,9 @@
 We must next consider the grace of miracles, under which head there are two points of inquiry:
 (1) Whether there is a gratuitous grace of working miracles?
 (2) To whom is it becoming?
-## Whether There Is A Gratuitous Grace Of Working Miracles?
+### Whether There Is A Gratuitous Grace Of Working Miracles?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no gratuitous grace is directed to the working of miracles. For every grace puts something in the one to whom it is given (Cf. [3710]FS, Q[90], A[1]). Now the working of miracles puts nothing in the soul of the man who receives it since miracles are wrought at the touch even of a dead body. Thus we read (4 Kings 13:21) that "some . . . cast the body into the sepulchre of Eliseus. And when it had touched the bones of Eliseus, the man came to life, and stood upon his feet." Therefore the working of miracles does not belong to a gratuitous grace.
 
@@ -17,13 +17,13 @@ Objection 4: Further, the miraculous restoring to health is done by the power of
 
 Objection 5: Further, the working of miracles results from faith---either of the worker, according to 1 Cor. 13:2, "If I should have all faith, so that I could remove mountains," or of other persons for whose sake miracles are wrought, according to Mat. 13:58, "And He wrought not many miracles there, because of their unbelief." Therefore, if faith be reckoned a gratuitous grace, it is superfluous to reckon in addition the working of signs as another gratuitous grace.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle (1 Cor. 12:9,10) says that among other gratuitous graces, "to another" is given "the grace of healing . . . to another, the working of miracles."
 
 I answer that, As stated above ([3711]Q[177], A[1]), the Holy Ghost provides sufficiently for the Church in matters profitable unto salvation, to which purpose the gratuitous graces are directed. Now just as the knowledge which a man receives from God needs to be brought to the knowledge of others through the gift of tongues and the grace of the word, so too the word uttered needs to be confirmed in order that it be rendered credible. This is done by the working of miracles, according to Mk. 16:20, "And confirming the word with signs that followed": and reasonably so. For it is natural to man to arrive at the intelligible truth through its sensible effects. Wherefore just as man led by his natural reason is able to arrive at some knowledge of God through His natural effects, so is he brought to a certain degree of supernatural knowledge of the objects of faith by certain supernatural effects which are called miracles. Therefore the working of miracles belongs to a gratuitous grace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as prophecy extends to whatever can be known supernaturally, so the working of miracles extends to all things that can be done supernaturally; the cause whereof is the divine omnipotence which cannot be communicated to any creature. Hence it is impossible for the principle of working miracles to be a quality abiding as a habit in the soul. On the other hand, just as the prophet's mind is moved by divine inspiration to know something supernaturally, so too is it possible for the mind of the miracle worker to be moved to do something resulting in the miraculous effect which God causes by His power. Sometimes this takes place after prayer, as when Peter raised to life the dead Tabitha (Acts 9:40): sometimes without any previous prayer being expressed, as when Peter by upbraiding the lying Ananias and Saphira delivered them to death (Acts 5:4, 9). Hence Gregory says (Dial. ii, 30) that "the saints work miracles, sometimes by authority, sometimes by prayer." In either case, however, God is the principal worker, for He uses instrumentally either man's inward movement, or his speech, or some outward action, or again the bodily contact of even a dead body. Thus when Josue had said as though authoritatively (Josh. 10:12): "Move not, O sun, toward Gabaon," it is said afterwards (Josh. 10:14): "There was not before or after so long a day, the Lord obeying the voice of a man."
 
@@ -34,9 +34,9 @@ Reply to Objection 3: Two things may be considered in miracles. One is that whic
 Reply to Objection 4: The "grace of healing" is mentioned separately, because by its means a benefit, namely bodily health, is conferred on man in addition to the common benefit bestowed in all miracles, namely the bringing of men to the knowledge of God.
 
 Reply to Objection 5: The working of miracles is ascribed to faith for two reasons. First, because it is directed to the confirmation of faith, secondly, because it proceeds from God's omnipotence on which faith relies. Nevertheless, just as besides the grace of faith, the grace of the word is necessary that people may be instructed in the faith, so too is the grace of miracles necessary that people may be confirmed in their faith.
-## Whether The Wicked Can Work Miracles?
+### Whether The Wicked Can Work Miracles?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the wicked cannot work miracles. For miracles are wrought through prayer, as stated above (A[1], ad 1). Now the prayer of a sinner is not granted, according to Jn. 9:31, "We know that God doth not hear sinners," and Prov. 28:9, "He that turneth away his ear from hearing the law, his prayer shall be an abomination." Therefore it would seem that the wicked cannot work miracles.
 
@@ -46,7 +46,7 @@ Objection 3: Further, miracles are divine attestations, according to Heb. 2:4, "
 
 Objection 4: Further, the good are more closely united to God than the wicked. But the good do not all work miracles. Much less therefore do the wicked.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 13:2): "If I should have all faith, so that I could remove mountains, and have not charity, I am nothing." Now whosoever has not charity is wicked, because "this gift alone of the Holy Ghost distinguishes the children of the kingdom from the children of perdition," as Augustine says (De Trin. xv, 18). Therefore it would seem that even the wicked can work miracles.
 
@@ -56,7 +56,7 @@ True miracles cannot be wrought save by the power of God, because God works them
 
 In the second way miracles are not wrought except by the saints, since it is in proof of their holiness that miracles are wrought during their lifetime or after death, either by themselves or by others. For we read (Acts 19:11,12) that "God wrought by the hand of Paul . . . miracles" and "even there were brought from his body to the sick, handkerchiefs . . . and the diseases departed from them." In this way indeed there is nothing to prevent a sinner from working miracles by invoking a saint; but the miracle is ascribed not to him, but to the one in proof of whose holiness such things are done.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([3713]Q[83], A[16]) when we were treating of prayer, the prayer of impetration relies not on merit but on God's mercy, which extends even to the wicked, wherefore the prayers even of sinners are sometimes granted by God. Hence Augustine says (Tract. xliv in Joan.) that "the blind man spoke these words before he was anointed," that is, before he was perfectly enlightened; "since God does hear sinners." When it is said that the prayer of one who hears not the law is an abomination, this must be understood so far as the sinner's merit is concerned; yet it is sometimes granted, either for the spiritual welfare of the one who prays---as the publican was heard (Lk. 18:14)---or for the good of others and for God's glory.
 

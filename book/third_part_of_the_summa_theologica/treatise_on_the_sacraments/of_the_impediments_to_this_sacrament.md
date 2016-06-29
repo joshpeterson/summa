@@ -7,9 +7,9 @@ We must next consider the impediments to this sacrament. Under this head there a
 (4) Whether homicide is?
 (5) Whether illegitimate birth is?
 (6) Whether lack of members is?
-## Whether The Female Sex Is An Impediment To Receiving Orders?
+### Whether The Female Sex Is An Impediment To Receiving Orders?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the female sex is no impediment to receiving Orders. For the office of prophet is greater than the office of priest, since a prophet stands midway between God and priests, just as the priest does between God and people. Now the office of prophet was sometimes granted to women, as may be gathered from 4 Kings 22:14. Therefore the office of priest also may be competent to them.
 
@@ -17,18 +17,18 @@ Objection 2: Further, just as Order pertains to a kind of pre-eminence, so does 
 
 Objection 3: Further, the power of orders is founded in the soul. But sex is not in the soul. Therefore difference in sex makes no difference to the reception of Orders.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (1 Tim. 2:12): "I suffer not a woman to teach (in the Church),* nor to use authority over the man." [*The words in parenthesis are from 1 Cor. 14:34, "Let women keep silence in the churches."]
 
 I answer that, Certain things are required in the recipient of a sacrament as being requisite for the validity of the sacrament, and if such things be lacking, one can receive neither the sacrament nor the reality of the sacrament. Other things, however, are required, not for the validity of the sacrament, but for its lawfulness, as being congruous to the sacrament; and without these one receives the sacrament, but not the reality of the sacrament. Accordingly we must say that the male sex is required for receiving Orders not only in the second, but also in the first way. Wherefore even though a woman were made the object of all that is done in conferring Orders, she would not receive Orders, for since a sacrament is a sign, not only the thing, but the signification of the thing, is required in all sacramental actions; thus it was stated above ([4913]Q[32], A[2]) that in Extreme Unction it is necessary to have a sick man, in order to signify the need of healing. Accordingly, since it is not possible in the female sex to signify eminence of degree, for a woman is in the state of subjection, it follows that she cannot receive the sacrament of Order. Some, however, have asserted that the male sex is necessary for the lawfulness and not for the validity of the sacrament, because even in the Decretals (cap. Mulieres dist. 32; cap. Diaconissam, 27, qu. i) mention is made of deaconesses and priestesses. But deaconess there denotes a woman who shares in some act of a deacon, namely who reads the homilies in the Church; and priestess [presbytera] means a widow, for the word "presbyter" means elder.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Prophecy is not a sacrament but a gift of God. Wherefore there it is not the signification, but only the thing which is necessary. And since in matters pertaining to the soul woman does not differ from man as to the thing (for sometimes a woman is found to be better than many men as regards the soul), it follows that she can receive the gift of prophecy and the like, but not the sacrament of Orders.
-## Whether Boys And Those Who Lack The Use Of Reason Can Receive Orders?
+### Whether Boys And Those Who Lack The Use Of Reason Can Receive Orders?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that boys and those who lack the use of reason cannot receive Orders. For, as stated in the text (Sent. iv, D, 25), the sacred canons have appointed a certain fixed age in those who receive Orders. But this would not be if boys could receive the sacrament of Orders. Therefore, etc.
 
@@ -36,22 +36,22 @@ Objection 2: Further, the sacrament of Orders ranks above the sacrament of matri
 
 Objection 3: Further, act and power are in the same subject, according to the Philosopher (De Somn. et Vigil. i). Now the act of Orders requires the use of reason. Therefore the power of Orders does also.
 
-### Answer
+**Answer**
 
 On the contrary, one who is raised to Orders before the age of discretion is sometimes allowed to exercise them without being reordained, as appears from Extra., De Cler. per salt. prom. But this would not be the case if he had not received Orders. Therefore a boy can receive Orders.
 
 I answer that, Boyhood and other defects which remove the use of reason occasion an impediment to act. Wherefore the like are unfit to receive all those sacraments which require an act on the part of the recipient of the sacrament, such as Penance, Matrimony, and so forth. But since infused powers like natural powers precede acts---although acquired powers follow acts---and the removal of that which comes after does not entail the removal of what comes first, it follows that children and those who lack the use of reason can receive all the sacraments in which an act on the part of the recipient is not required for the validity of the sacrament, but some spiritual power is conferred from above; with this difference, however, that in the minor orders the age of discretion is required out of respect for the dignity of the sacrament, but not for its lawfulness, nor for its validity. Hence some can without sin be raised to the minor orders before the years of discretion, if there be an urgent reason for it and hope of their proficiency. and they are validly ordained; for although at the time they are not qualified for the offices entrusted to them, they will become qualified by being habituated thereto. For the higher Orders, however, the use of reason is required both out of respect for, and for the lawfulness of the sacrament, not only on account of the vow of continency annexed thereto, but also because the handling of the sacraments is entrusted to them [*See Acts of the Council of Trent: De Reform., Sess. xxii, cap. 4,11,12]. But for the episcopate whereby a man receives power also over the mystical body, the act of accepting the pastoral care of souls is required; wherefore the use of reason is necessary for the validity of episcopal consecration. Some, however, maintain that the use of reason is necessary for the validity of the sacrament in all the Orders. but this statement is not confirmed either by authority or by reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated in the Article, not all that is necessary for the lawfulness of a sacrament is required for its validity.
 
 Reply to Objection 2: The cause of matrimony is consent, which cannot be without the use of reason. Whereas in the reception of Orders no act is required on the part of the recipients since no act on their part is expressed in their consecration. Hence there is no comparison.
 
 Reply to Objection 3: Act and power are in the same subject; yet sometimes a power, such as the free-will, precedes its act; and thus it is in the case in point.
-## Whether The State Of Slavery Is An Impediment To Receiving Orders?
+### Whether The State Of Slavery Is An Impediment To Receiving Orders?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the state of slavery is not an impediment to receiving Orders. For corporal subjection is not incompatible with spiritual authority. But in a slave there is corporal subjection. Therefore he is not hindered from receiving the spiritual authority which is given in orders.
 
@@ -63,13 +63,13 @@ Objection 4: On the contrary, It would seem that it is an impediment to the vali
 
 Objection 5: Further, a man, from the fact that he receives an Order, is bound to minister in that Order. But he cannot at the same time serve his carnal master and exercise his spiritual ministry. Therefore it would seem that he cannot receive Orders, since the master must be indemnified.
 
-### Answer
+**Answer**
 
 
 
 I answer that, By receiving Orders a man pledges himself to the Divine offices. And since no man can give what is not his, a slave who has not the disposal of himself, cannot be raised to Orders. If, however, he be raised, he receives the Order, because freedom is not required for the validity of the sacrament, although it is requisite for its lawfulness, since it hinders not the power, but the act only. The same reason applies to all who are under an obligation to others, such as those who are in debt and like persons.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The reception of spiritual power involves also an obligation to certain bodily actions, and consequently it is hindered by bodily subjection.
 
@@ -80,9 +80,9 @@ Reply to Objection 3: The blessed Paulinus did this out of the abundance of his 
 Reply to Objection 4: The sacramental signs signify by reason of their natural likeness. Now a woman is a subject by her nature, whereas a slave is not. Hence the comparison fails.
 
 Reply to Objection 5: If he be ordained, his master knowing and not dissenting, by this very fact he becomes a freedman. But if his master be in ignorance, the bishop and he who presented him are bound to pay the master double the slave's value, if they knew him to be a slave. Otherwise if the slave has possessions of his own, he is bound to buy his freedom, else he would have to return to the bondage of his master, notwithstanding the impossibility of his exercising his Order.
-## Whether A Man Should Be Debarred From Receiving Orders On Account Of Homicide?
+### Whether A Man Should Be Debarred From Receiving Orders On Account Of Homicide?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man ought not to be debarred from receiving Orders on account of homicide. Because our Orders originated with the office of the Levites, as stated in the previous Distinction (Sent. iv, D, 24). But the Levites consecrated their hands by shedding the blood of their brethren (Ex. 32:29). Therefore neither should anyone in the New Testament be debarred from receiving Orders on account of the shedding of blood.
 
@@ -90,47 +90,47 @@ Objection 2: Further, no one should be debarred from a sacrament on account of a
 
 Objection 3: Further, punishment is not due save for a fault. Now sometimes a person commits homicide without fault, for instance by defending himself, or again by mishap. Therefore he ought not to incur the punishment of irregularity.
 
-### Answer
+**Answer**
 
 On the contrary, Against this there are many canonical statutes [*Cap. Miror; cap. Clericum; cap. De his Cler., dist. 1; cap. Continebatur, De homic. volunt.], as also the custom of the Church.
 
 I answer that, All the Orders bear a relation to the sacrament of the Eucharist, which is the sacrament of the peace vouchsafed to us by the shedding of Christ's blood. And since homicide is most opposed to peace, and those who slay are conformed to Christ's slayers rather than to Christ slain, to whom all the ministers of the aforesaid sacrament ought to be conformed, it follows that it is unlawful, although not invalid, for homicides to be raised to Orders.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Old Law inflicted the punishment of blood, whereas the New Law does not. Hence the comparison fails between the ministers of the Old Testament and those of the New, which is a sweet yoke and a light burden (Mat. 11:30).
 
 Reply to Objection 2: Irregularity is incurred not only on account of sin, but chiefly on account of a person being unfit to administer the sacrament of the Eucharist. Hence the judge and all who take part with him in a cause of blood, are irregular, because the shedding of blood is unbecoming to the ministers of that sacrament.
 
 Reply to Objection 3: No one does a thing without being the cause thereof, and in man this is something voluntary. Hence he who by mishap slays a man without knowing that it is a man, is not called a homicide, nor does he incur irregularity (unless he was occupying himself in some unlawful manner, or failed to take sufficient care, since in this case the slaying becomes somewhat voluntary). But this is not because he is not in fault, since irregularity is incurred even without fault. Wherefore even he who in a particular case slays a man in self-defense without committing a sin, is none the less irregular [*St. Thomas is speaking according to the canon law of his time. This is no longer the case now.].
-## Whether Those Of Illegitimate Birth Should Be Debarred From Receiving Orders?
+### Whether Those Of Illegitimate Birth Should Be Debarred From Receiving Orders?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that those who are of illegitimate birth should not be debarred from receiving Orders. For the son should not bear the iniquity of the father (Ezech. 18:20); and yet he would if this were an impediment to his receiving Orders. Therefore, etc.
 
 Objection 2: Further, one's own fault is a greater impediment than the fault of another. Now unlawful intercourse does not always debar a man from receiving Orders. Therefore neither should he be debarred by the unlawful intercourse of his father.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 23:2): "A mamzer, that is to say, one born of a prostitute, shall not enter into the Church of the Lord until the tenth generation." Much less therefore should he be ordained.
 
 I answer that, Those who are ordained are placed in a position of dignity over others. Hence by a kind of propriety it is requisite that they should be without reproach, not for the validity but for the lawfulness of the sacrament, namely that they should be of good repute, bedecked with a virtuous life, and not publicly penitent. And since a man's good name is bedimmed by a sinful origin, therefore those also who are born of an unlawful union are debarred from receiving orders, unless they receive a dispensation; and this is the more difficult to obtain, according as their origin is more discreditable.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Irregularity is not a punishment due for sin. Hence it is clear that those who are of illegitimate birth do not bear the iniquity of their father through being irregular.
 
 Reply to Objection 2: What a man does by his own act can be removed by repentance and by a contrary act; not so the things which are from nature. Hence the comparison fails between sinful act and sinful origin.
-## Whether Lack Of Members Should Be An Impediment?
+### Whether Lack Of Members Should Be An Impediment?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man ought not to be debarred from receiving Orders on account of a lack of members. For one who is afflicted should not receive additional affliction. Therefore a man ought not to be deprived of the degree of Orders on account of his suffering a bodily defect.
 
 Objection 2: Further, integrity of discretion is more necessary for the act of orders than integrity of body. But some can be ordained before the years of discretion. Therefore they can also be ordained though deficient in body.
 
-### Answer
+**Answer**
 
 On the contrary, The like were debarred from the ministry of the Old Law (Lev. 21:18, seqq.). Much more therefore should they be debarred in the New Law.
 

@@ -7,9 +7,9 @@ We have now to consider the effect of the sacraments. First of their principal e
 (4) Whether there is any power in them for the causing of grace?
 (5) Whether the sacraments derive this power from Christ's Passion?
 (6) Whether the sacraments of the Old Law caused grace?
-## Whether The Sacraments Are The Cause Of Grace?
+### Whether The Sacraments Are The Cause Of Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the sacraments are not the cause of grace. For it seems that the same thing is not both sign and cause: since the nature of sign appears to be more in keeping with an effect. But a sacrament is a sign of grace. Therefore it is not its cause.
 
@@ -17,7 +17,7 @@ Objection 2: Further, nothing corporeal can act on a spiritual thing: since "the
 
 Objection 3: Further, what is proper to God should not be ascribed to a creature. But it is proper to God to cause grace, according to Ps. 83:12: "The Lord will give grace and glory." Since, therefore, the sacraments consist in certain words and created things, it seems that they cannot cause grace.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Tract. lxxx in Joan.) that the baptismal water "touches the body and cleanses the heart." But the heart is not cleansed save through grace. Therefore it causes grace: and for like reason so do the other sacraments of the Church.
 
@@ -27,16 +27,16 @@ Some, however, say that they are the cause of grace not by their own operation, 
 
 We must therefore say otherwise, that an efficient cause is twofold, principal and instrumental. The principal cause works by the power of its form, to which form the effect is likened; just as fire by its own heat makes something hot. In this way none but God can cause grace: since grace is nothing else than a participated likeness of the Divine Nature, according to 2 Pet. 1:4: "He hath given us most great and precious promises; that we may be [Vulg.: 'you may be made'] partakers of the Divine Nature." But the instrumental cause works not by the power of its form, but only by the motion whereby it is moved by the principal agent: so that the effect is not likened to the instrument but to the principal agent: for instance, the couch is not like the axe, but like the art which is in the craftsman's mind. And it is thus that the sacraments of the New Law cause grace: for they are instituted by God to be employed for the purpose of conferring grace. Hence Augustine says (Contra Faust. xix): "All these things," viz. pertaining to the sacraments, "are done and pass away, but the power," viz. of God, "which works by them, remains ever." Now that is, properly speaking, an instrument by which someone works: wherefore it is written (Titus 3:5): "He saved us by the laver of regeneration."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The principal cause cannot properly be called a sign of its effect, even though the latter be hidden and the cause itself sensible and manifest. But an instrumental cause, if manifest, can be called a sign of a hidden effect, for this reason, that it is not merely a cause but also in a measure an effect in so far as it is moved by the principal agent. And in this sense the sacraments of the New Law are both cause and signs. Hence, too, is it that, to use the common expression, "they effect what they signify." From this it is clear that they perfectly fulfil the conditions of a sacrament; being ordained to something sacred, not only as a sign, but also as a cause.
 
 Reply to Objection 2: An instrument has a twofold action; one is instrumental, in respect of which it works not by its own power but by the power of the principal agent: the other is its proper action, which belongs to it in respect of its proper form: thus it belongs to an axe to cut asunder by reason of its sharpness, but to make a couch, in so far as it is the instrument of an art. But it does not accomplish the instrumental action save by exercising its proper action: for it is by cutting that it makes a couch. In like manner the corporeal sacraments by their operation, which they exercise on the body that they touch, accomplish through the Divine institution an instrumental operation on the soul; for example, the water of baptism, in respect of its proper power, cleanses the body, and thereby, inasmuch as it is the instrument of the Divine power, cleanses the soul: since from soul and body one thing is made. And thus it is that Augustine says (Gen. ad lit. xii) that it "touches the body and cleanses the heart."
 
 Reply to Objection 3: This argument considers that which causes grace as principal agent; for this belongs to God alone, as stated above.
-## Whether Sacramental Grace Confers Anything In Addition To The Grace Of The Virtues And Gifts?
+### Whether Sacramental Grace Confers Anything In Addition To The Grace Of The Virtues And Gifts?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that sacramental grace confers nothing in addition to the grace of the virtues and gifts. For the grace of the virtues and gifts perfects the soul sufficiently, both in its essence and in its powers; as is clear from what was said in the [4353]FS, Q[110], AA[3],4. But grace is ordained to the perfecting of the soul. Therefore sacramental grace cannot confer anything in addition to the grace of the virtues and gifts.
 
@@ -44,22 +44,22 @@ Objection 2: Further, the soul's defects are caused by sin. But all sins are suf
 
 Objection 3: Further, every addition or subtraction of form varies the species (Metaph. viii). If, therefore, sacramental grace confers anything in addition to the grace of the virtues and gifts, it follows that it is called grace equivocally: and so we are none the wiser when it is said that the sacraments cause grace.
 
-### Answer
+**Answer**
 
 On the contrary, If sacramental grace confers nothing in addition to the grace of the virtues and gifts, it is useless to confer the sacraments on those who have the virtues and gifts. But there is nothing useless in God's works. Therefore it seems that sacramental grace confers something in addition to the grace of the virtues and gifts.
 
 I answer that, As stated in the [4354]FS, Q[110], AA[3],4, grace, considered in itself, perfects the essence of the soul, in so far as it is a certain participated likeness of the Divine Nature. And just as the soul's powers flow from its essence, so from grace there flow certain perfections into the powers of the soul, which are called virtues and gifts, whereby the powers are perfected in reference to their actions. Now the sacraments are ordained unto certain special effects which are necessary in the Christian life: thus Baptism is ordained unto a certain spiritual regeneration, by which man dies to vice and becomes a member of Christ: which effect is something special in addition to the actions of the soul's powers: and the same holds true of the other sacraments. Consequently just as the virtues and gifts confer, in addition to grace commonly so called, a certain special perfection ordained to the powers' proper actions, so does sacramental grace confer, over and above grace commonly so called, and in addition to the virtues and gifts, a certain Divine assistance in obtaining the end of the sacrament. It is thus that sacramental grace confers something in addition to the grace of the virtues and gifts.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The grace of the virtues and gifts perfects the essence and powers of the soul sufficiently as regards ordinary conduct: but as regards certain special effects which are necessary in a Christian life, sacramental grace is needed.
 
 Reply to Objection 2: Vices and sins are sufficiently removed by virtues and gifts, as to present and future time. in so far as they prevent man from sinning. But in regard to past sins, the acts of which are transitory whereas their guilt remains, man is provided with a special remedy in the sacraments.
 
 Reply to Objection 3: Sacramental grace is compared to grace commonly so called, as species to genus. Wherefore just as it is not equivocal to use the term "animal" in its generic sense, and as applied to a man, so neither is it equivocal to speak of grace commonly so called and of sacramental grace.
-## Whether The Sacraments Of The New Law Contain Grace?
+### Whether The Sacraments Of The New Law Contain Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the sacraments of the New Law do not contain grace. For it seems that what is contained is in the container. But grace is not in the sacraments; neither as in a subject, because the subject of grace is not a body but a spirit; nor as in a vessel, for according to Phys. iv, "a vessel is a movable place," and an accident cannot be in a place. Therefore it seems that the sacraments of the New Law do not contain grace.
 
@@ -67,22 +67,22 @@ Objection 2: Further, sacraments are instituted as means whereby men may obtain 
 
 Objection 3: Further, a spiritual thing is not contained by a corporeal, even if it be therein; for the soul is not contained by the body; rather does it contain the body. Since, therefore, grace is something spiritual, it seems that it cannot be contained in a corporeal sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, Hugh of S. Victor says (De Sacram. i) that "a sacrament, through its being sanctified, contains an invisible grace."
 
 I answer that, A thing is said to be in another in various ways; in two of which grace is said to be in the sacraments. First, as in its sign; for a sacrament is a sign of grace. Secondly, as in its cause; for, as stated above [4355](A[1]) a sacrament of the New Law is an instrumental cause of grace. Wherefore grace is in a sacrament of the New Law, not as to its specific likeness, as an effect in its univocal cause; nor as to some proper and permanent form proportioned to such an effect, as effects in non-univocal causes, for instance, as things generated are in the sun; but as to a certain instrumental power transient and incomplete in its natural being, as will be explained later on [4356](A[4]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Grace is said to be in a sacrament not as in its subject; nor as in a vessel considered as a place, but understood as the instrument of some work to be done, according to Ezech. 9:1: "Everyone hath a destroying vessel [Douay: 'weapon'] in his hand."
 
 Reply to Objection 2: Although an accident does not pass from one subject to another, nevertheless in a fashion it does pass from its cause into its subject through the instrument; not so that it be in each of these in the same way, but in each according to its respective nature.
 
 Reply to Objection 3: If a spiritual thing exist perfectly in something, it contains it and is not contained by it. But, in a sacrament, grace has a passing and incomplete mode of being: and consequently it is not unfitting to say that the sacraments contain grace.
-## Whether There Be In The Sacraments A Power Of Causing Grace?
+### Whether There Be In The Sacraments A Power Of Causing Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that there is not in the sacraments a power of causing grace. For the power of causing grace is a spiritual power. But a spiritual power cannot be in a body; neither as proper to it, because power flows from a thing's essence and consequently cannot transcend it; nor as derived from something else, because that which is received into anything follows the mode of the recipient. Therefore in the sacraments there is no power of causing grace.
 
@@ -92,13 +92,13 @@ Objection 3: Further, if there be such a power in the sacraments, its presence t
 
 Objection 4: Further, the same thing cannot be in several. But several things concur in the completion of a sacrament, namely, words and things: while in one sacrament there can be but one power. Therefore it seems that there is no power of causing grace in the sacraments.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Tract. lxxx in Joan.): "Whence hath water so great power, that it touches the body and cleanses the heart?" And Bede says that "Our Lord conferred a power of regeneration on the waters by the contact of His most pure body."
 
 I answer that, Those who hold that the sacraments do not cause grace save by a certain coincidence, deny the sacraments any power that is itself productive of the sacramental effect, and hold that the Divine power assists the sacraments and produces their effect. But if we hold that a sacrament is an instrumental cause of grace, we must needs allow that there is in the sacraments a certain instrumental power of bringing about the sacramental effects. Now such power is proportionate to the instrument: and consequently it stands in comparison to the complete and perfect power of anything, as the instrument to the principal agent. For an instrument, as stated above [4357](A[1]), does not work save as moved by the principal agent, which works of itself. And therefore the power of the principal agent exists in nature completely and perfectly: whereas the instrumental power has a being that passes from one thing into another, and is incomplete; just as motion is an imperfect act passing from agent to patient.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A spiritual power cannot be in a corporeal subject, after the manner of a permanent and complete power, as the argument proves. But there is nothing to hinder an instrumental spiritual power from being in a body; in so far as a body can be moved by a particular spiritual substance so as to produce a particular spiritual effect; thus in the very voice which is perceived by the senses there is a certain spiritual power, inasmuch as it proceeds from a mental concept, of arousing the mind of the hearer. It is in this way that a spiritual power is in the sacraments, inasmuch as they are ordained by God unto the production of a spiritual effect.
 
@@ -107,9 +107,9 @@ Reply to Objection 2: Just as motion, through being an imperfect act, is not pro
 Reply to Objection 3: Just as an instrumental power accrues to an instrument through its being moved by the principal agent, so does a sacrament receive spiritual power from Christ's blessing and from the action of the minister in applying it to a sacramental use. Hence Augustine says in a sermon on the Epiphany (St. Maximus of Turin, Serm. xii): "Nor should you marvel, if we say that water, a corporeal substance, achieves the cleansing of the soul. It does indeed, and penetrates every secret hiding-place of the conscience. For subtle and clear as it is, the blessing of Christ makes it yet more subtle, so that it permeates into the very principles of life and searches the inner-most recesses of the heart."
 
 Reply to Objection 4: Just as the one same power of the principal agent is instrumentally in all the instruments that are ordained unto the production of an effect, forasmuch as they are one as being so ordained: so also the one same sacramental power is in both words and things, forasmuch as words and things combine to form one sacrament.
-## Whether The Sacraments Of The New Law Derive Their Power From Christ's Passion?
+### Whether The Sacraments Of The New Law Derive Their Power From Christ's Passion?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the sacraments of the New Law do not derive their power from Christ's Passion. For the power of the sacraments is in the causing of grace which is the principle of spiritual life in the soul. But as Augustine says (Tract. xix in Joan.): "The Word, as He was in the beginning with God, quickens souls; as He was made flesh, quickens bodies." Since, therefore, Christ's Passion pertains to the Word as made flesh, it seems that it cannot cause the power of the sacraments.
 
@@ -117,7 +117,7 @@ Objection 2: Further, the power of the sacraments seems to depend on faith. for 
 
 Objection 3: Further, the sacraments are ordained unto man's justification, according to 1 Cor. 6:11: "You are washed . . . you are justified." Now justification is ascribed to the Resurrection, according to Rom. 4:25: "(Who) rose again for our justification." Therefore it seems that the sacraments derive their power from Christ's Resurrection rather than from His Passion.
 
-### Answer
+**Answer**
 
 On the contrary, on Rom. 5:14: "After the similitude of the transgression of Adam," etc., the gloss says: "From the side of Christ asleep on the Cross flowed the sacraments which brought salvation to the Church." Consequently, it seems that the sacraments derive their power from Christ's Passion.
 
@@ -125,16 +125,16 @@ I answer that, As stated above [4358](A[1]) a sacrament in causing grace works a
 
 Now sacramental grace seems to be ordained principally to two things: namely, to take away the defects consequent on past sins, in so far as they are transitory in act, but endure in guilt; and, further, to perfect the soul in things pertaining to Divine Worship in regard to the Christian Religion. But it is manifest from what has been stated above ([4359]Q[48], AA[1],2,6;[4360] Q[49], AA[1],3) that Christ delivered us from our sins principally through His Passion, not only by way of efficiency and merit, but also by way of satisfaction. Likewise by His Passion He inaugurated the Rites of the Christian Religion by offering "Himself---an oblation and a sacrifice to God" (Eph. 5:2). Wherefore it is manifest that the sacraments of the Church derive their power specially from Christ's Passion, the virtue of which is in a manner united to us by our receiving the sacraments. It was in sign of this that from the side of Christ hanging on the Cross there flowed water and blood, the former of which belongs to Baptism, the latter to the Eucharist, which are the principal sacraments.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Word, forasmuch as He was in the beginning with God, quickens souls as principal agent; but His flesh, and the mysteries accomplished therein, are as instrumental causes in the process of giving life to the soul: while in giving life to the body they act not only as instrumental causes, but also to a certain extent as exemplars, as we stated above ([4361]Q[56], A[1], ad 3).
 
 Reply to Objection 2: Christ dwells in us "by faith" (Eph. 3:17). Consequently, by faith Christ's power is united to us. Now the power of blotting out sin belongs in a special way to His Passion. And therefore men are delivered from sin especially by faith in His Passion, according to Rom. 3:25: "Whom God hath proposed to be a propitiation through faith in His Blood." Therefore the power of the sacraments which is ordained unto the remission of sins is derived principally from faith in Christ's Passion.
 
 Reply to Objection 3: Justification is ascribed to the Resurrection by reason of the term "whither," which is newness of life through grace. But it is ascribed to the Passion by reason of the term "whence," i.e. in regard to the forgiveness of sin.
-## Whether The Sacraments Of The Old Law Caused Grace?
+### Whether The Sacraments Of The Old Law Caused Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the sacraments of the Old Law caused grace. For, as stated above (A[5], ad 2) the sacraments of the New Law derive their efficacy from faith in Christ's Passion. But there was faith in Christ's Passion under the Old Law, as well as under the New, since we have "the same spirit of faith" (2 Cor. 4:13). Therefore just as the sacraments of the New Law confer grace, so did the sacraments of the Old Law.
 
@@ -142,7 +142,7 @@ Objection 2: Further, there is no sanctification save by grace. But men were san
 
 Objection 3: Further, Bede says in a homily on the Circumcision: "Under the Law circumcision provided the same health-giving balm against the wound of original sin, as baptism in the time of revealed grace." But Baptism confers grace now. Therefore circumcision conferred grace; and in like manner, the other sacraments of the Law; for just as Baptism is the door of the sacraments of the New Law, so was circumcision the door of the sacraments of the Old Law: hence the Apostle says (Gal. 5:3): "I testify to every man circumcising himself, that he is a debtor to the whole law."
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gal. 4:9): "Turn you again to the weak and needy elements?" i.e. "to the Law," says the gloss, "which is called weak, because it does not justify perfectly." But grace justifies perfectly. Therefore the sacraments of the old Law did not confer grace.
 
@@ -152,7 +152,7 @@ But neither can it be said that they derived the power of conferring sanctifying
 
 Nevertheless the Fathers of old were justified by faith in Christ's Passion, just as we are. And the sacraments of the old Law were a kind of protestation of that faith, inasmuch as they signified Christ's Passion and its effects. It is therefore manifest that the sacraments of the Old Law were not endowed with any power by which they conduced to the bestowal of justifying grace: and they merely signified faith by which men were justified.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Fathers of old had faith in the future Passion of Christ, which, inasmuch as it was apprehended by the mind, was able to justify them. But we have faith in the past Passion of Christ, which is able to justify, also by the real use of sacramental things as stated above.
 

@@ -7,9 +7,9 @@ After treating individually of all the virtues and vices that pertain to men of 
 (4) Whether a prophet knows all possible matters of prophecy?
 (5) Whether a prophet distinguishes that which he perceives by the gift of God, from that which he perceives by his own spirit?
 (6) Whether anything false can be the matter of prophecy?
-## Whether Prophecy Pertains To Knowledge?
+### Whether Prophecy Pertains To Knowledge?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prophecy does not pertain to knowledge. For it is written (Ecclus. 48:14) that after death the body of Eliseus prophesied, and further on (Ecclus. 49:18) it is said of Joseph that "his bones were visited, and after death they prophesied." Now no knowledge remains in the body or in the bones after death. Therefore prophecy does not pertain to knowledge.
 
@@ -19,7 +19,7 @@ Objection 3: Further, every cognitive perfection excludes folly and madness. Yet
 
 Objection 4: Further, just as revelation regards the intellect, so inspiration regards, apparently, the affections, since it denotes a kind of motion. Now prophecy is described as "inspiration" or "revelation," according to Cassiodorus [*Prolog. super Psalt. i]. Therefore it would seem that prophecy does not pertain to the intellect more than to the affections.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Kings 9:9): "For he that is now called a prophet, in time past was called a seer." Now sight pertains to knowledge. Therefore prophecy pertains to knowledge.
 
@@ -29,7 +29,7 @@ Since, however, it is written (1 Cor. 12:7): "The manifestation of the Spirit is
 
 Now those things above human ken which are revealed by God cannot be confirmed by human reason, which they surpass as regards the operation of the Divine power, according to Mk. 16:20, "They . . . preached everywhere, the Lord working withal and confirming the word with signs that followed." Hence, thirdly, prophecy is concerned with the working of miracles, as a kind of confirmation of the prophetic utterances. Wherefore it is written (Dt. 34:10,11): "There arose no more a prophet in Israel like unto Moses, whom the Lord knew face to face, in all the signs and wonders."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These passages speak of prophecy in reference to the third point just mentioned, which regards the proof of prophecy.
 
@@ -38,9 +38,9 @@ Reply to Objection 2: The Apostle is speaking there of the prophetic utterances.
 Reply to Objection 3: Those prophets who are described as foolish and mad are not true but false prophets, of whom it is said (Jer. 3:16): "Hearken not to the words of the prophets that prophesy to you, and deceive you; they speak a vision of their own heart, and not out of the mouth of the Lord," and (Ezech. 13:3): "Woe to the foolish prophets, that follow their own spirit, and see nothing."
 
 Reply to Objection 4: It is requisite to prophecy that the intention of the mind be raised to the perception of Divine things: wherefore it is written (Ezech. 2:1): "Son of man, stand upon thy feet, and I will speak to thee." This raising of the intention is brought about by the motion of the Holy Ghost, wherefore the text goes on to say: "And the Spirit entered into me . . . and He set me upon my feet." After the mind's intention has been raised to heavenly things, it perceives the things of God; hence the text continues: "And I heard Him speaking to me." Accordingly inspiration is requisite for prophecy, as regards the raising of the mind, according to Job 32:8, "The inspiration of the Almighty giveth understanding": while revelation is necessary, as regards the very perception of Divine things, whereby prophecy is completed; by its means the veil of darkness and ignorance is removed, according to Job 12:22, "He discovereth great things out of darkness."
-## Whether Prophecy Is A Habit?
+### Whether Prophecy Is A Habit?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prophecy is a habit. For according to Ethic. ii, 5, "there are three things in the soul, power, passion, and habit." Now prophecy is not a power, for then it would be in all men, since the powers of the soul are common to them. Again it is not a passion, since the passions belong to the appetitive faculty, as stated above ([3658]FS, Q[22] , A[2]); whereas prophecy pertains principally to knowledge, as stated in the foregoing Article. Therefore prophecy is a habit.
 
@@ -48,7 +48,7 @@ Objection 2: Further, every perfection of the soul, which is not always in act, 
 
 Objection 3: Further, prophecy is reckoned among the gratuitous graces. Now grace is something in the soul, after the manner of a habit, as stated above ([3659]FS, Q[110], A[2]). Therefore prophecy is a habit.
 
-### Answer
+**Answer**
 
 On the contrary, A habit is something "whereby we act when we will," as the Commentator [*Averroes or Ibn Roshd, 1120-1198] says (De Anima iii). But a man cannot make use of prophecy when he will, as appears in the case of Eliseus (4 Kings 3:15), "who on Josaphat inquiring of him concerning the future, and the spirit of prophecy failing him, caused a minstrel to be brought to him, that the spirit of prophecy might come down upon him through the praise of psalmody, and fill his mind with things to come," as Gregory observes (Hom. i super Ezech.). Therefore prophecy is not a habit.
 
@@ -58,16 +58,16 @@ It follows therefore that the prophetic light is in the prophet's soul by way of
 
 But a habit is an abiding form. Wherefore it is evident that, properly speaking, prophecy is not a habit.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This division of the Philosopher's does not comprise absolutely all that is in the soul, but only such as can be principles of moral actions, which are done sometimes from passion, sometimes from habit, sometimes from mere power, as in the case of those who perform an action from the judgment of their reason before having the habit of that action.
 
 Reply to Objection 2: Just as in corporeal things, when a passion ceases, there remains a certain aptitude to a repetition of the passion---thus wood once ignited is more easily ignited again, so too in the prophet's intellect, after the actual enlightenment has ceased, there remains an aptitude to be enlightened anew---thus when the mind has once been aroused to devotion, it is more easily recalled to its former devotion. Hence Augustine says (De orando Deum. Ep. cxxx, 9) that our prayers need to be frequent, "lest devotion be extinguished as soon as it is kindled."
 
 Reply to Objection 3: Every gift of grace raises man to something above human nature, and this may happen in two ways. First, as to the substance of the act---for instance, the working of miracles, and the knowledge of the uncertain and hidden things of Divine wisdom---and for such acts man is not granted a habitual gift of grace. Secondly, a thing is above human nature as to the mode but not the substance of the act---for instance to love God and to know Him in the mirror of His creatures---and for this a habitual gift of grace is bestowed.
-## Whether Prophecy Is Only About Future Contingencies?
+### Whether Prophecy Is Only About Future Contingencies?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prophecy is only about future contingencies. For Cassiodorus says [*Prol. super Psalt. i] that "prophecy is a Divine inspiration or revelation, announcing the issue of things with unchangeable truth." Now issues pertain to future contingencies. Therefore the prophetic revelation is about future contingencies alone.
 
@@ -75,7 +75,7 @@ Objection 2: Further, according to 1 Cor. 12, the grace of prophecy is different
 
 Objection 3: Further, difference of object causes difference of species, as stated above ([3662]FS, Q[54], A[2]). Therefore, if one prophecy is about future contingencies, and another about other things, it would seem to follow that these are different species of prophecy.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. i super Ezech.) that some prophecies are "about the future, for instance (Is. 7:14), 'Behold a virgin shall conceive, and bear a son'"; some are "about the past, as (Gn. 1:1), 'In the beginning God created heaven and earth'"; some are "about the present," as (1 Cor. 14:24,25), "If all prophesy, and there come in one that believeth not . . . the secrets of his heart are made manifest." Therefore prophecy is not about future contingencies alone.
 
@@ -87,16 +87,16 @@ The second degree comprises those things which surpass the knowledge of all men 
 
 The last degree comprises things remote from the knowledge of all men, through being in themselves unknowable; such are future contingencies, the truth of which is indeterminate. And since that which is predicated universally and by its very nature, takes precedence of that which is predicated in a limited and relative sense, it follows that revelation of future events belongs most properly to prophecy, and from this prophecy apparently takes its name. Hence Gregory says (Hom. i super Ezech.): "And since a prophet is so called because he foretells the future, his name loses its significance when he speaks of the past or present."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Prophecy is there defined according to its proper signification; and it is in this sense that it is differentiated from the other gratuitous graces.
 
 Reply to Objection 2: This is evident from what has just been said. We might also reply that all those things that are the matter of prophecy have the common aspect of being unknowable to man except by Divine revelation; whereas those that are the matter of "wisdom," "knowledge," and the "interpretation of speeches," can be known by man through natural reason, but are manifested in a higher way through the enlightening of the Divine light. As to "faith," although it is about things invisible to man, it is not concerned with the knowledge of the things believed, but with a man's certitude of assent to things known by others.
 
 Reply to Objection 3: The formal element in prophetic knowledge is the Divine light, which being one, gives unity of species to prophecy, although the things prophetically manifested by the Divine light are diverse.
-## Whether By The Divine Revelation A Prophet Knows All That Can Be Known Prophetically?
+### Whether By The Divine Revelation A Prophet Knows All That Can Be Known Prophetically?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that by the Divine revelation a prophet knows all that can be known prophetically. For it is written (Amos 3:7): "The Lord God doth nothing without revealing His secret to His servants the prophets." Now whatever is revealed prophetically is something done by God. Therefore there is not one of them but what is revealed to the prophet.
 
@@ -104,7 +104,7 @@ Objection 2: Further, "God's works are perfect" (Dt. 32:4). Now prophecy is a "D
 
 Objection 3: Further, the Divine light which causes prophecy is more powerful than the right of natural reason which is the cause of human science. Now a man who has acquired a science knows whatever pertains to that science; thus a grammarian knows all matters of grammar. Therefore it would seem that a prophet knows all matters of prophecy.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. i super Ezech.) that "sometimes the spirit of prophecy indicates the present to the prophet's mind and nowise the future; and sometimes it points not to the present but to the future." Therefore the prophet does not know all matters of prophecy.
 
@@ -112,16 +112,16 @@ I answer that, Things which differ from one another need not exist simultaneousl
 
 Now the principle of those things that are prophetically manifested by the Divine light is the first truth, which the prophets do not see in itself. Wherefore there is no need for their knowing all possible matters of prophecy; but each one knows some of them according to the special revelation of this or that matter.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Lord reveals to the prophets all things that are necessary for the instruction of the faithful; yet not all to every one, but some to one, and some to another.
 
 Reply to Objection 2: Prophecy is by way of being something imperfect in the genus of Divine revelation: hence it is written (1 Cor. 13:8) that "prophecies shall be made void," and that "we prophesy in part," i.e. imperfectly. The Divine revelation will be brought to its perfection in heaven; wherefore the same text continues (1 Cor. 113:10): "When that which is perfect is come, that which is in part shall be done away." Consequently it does not follow that nothing is lacking to prophetic revelation, but that it lacks none of those things to which prophecy is directed.
 
 Reply to Objection 3: He who has a science knows the principles of that science, whence whatever is pertinent to that science depends; wherefore to have the habit of a science perfectly, is to know whatever is pertinent to that science. But God Who is the principle of prophetic knowledge is not known in Himself through prophecy; wherefore the comparison fails.
-## Whether The Prophet Always Distinguishes What He Says By His Own Spirit From What He Says By The Prophetic Spirit?
+### Whether The Prophet Always Distinguishes What He Says By His Own Spirit From What He Says By The Prophetic Spirit?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the prophet always distinguishes what he says by his own spirit from what he says by the prophetic spirit. For Augustine states (Confess. vi, 13) that his mother said "she could, through a certain feeling, which in words she could not express, discern betwixt Divine revelations, and the dreams of her own soul." Now prophecy is a Divine revelation, as stated above [3665](A[3]). Therefore the prophet always distinguishes what he says by the spirit of prophecy, from what he says by his own spirit.
 
@@ -129,7 +129,7 @@ Objection 2: Further, God commands nothing impossible, as Jerome [*Pelagius. Ep.
 
 Objection 3: Further, the certitude resulting from a Divine light is greater than that which results from the light of natural reason. Now he that has science, by the light of natural reason knows for certain that he has it. Therefore he that has prophecy by a Divine light is much more certain that he has it.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. i super Ezech.): "It must be observed that sometimes the holy prophets, when consulted, utter certain things by their own spirit, through being much accustomed to prophesying, and think they are speaking by the prophetic spirit."
 
@@ -138,9 +138,9 @@ I answer that, The prophet's mind is instructed by God in two ways: in one way b
 On the other hand, his position with regard to the things he knows by instinct is sometimes such that he is unable to distinguish fully whether his thoughts are conceived of Divine instinct or of his own spirit. And those things which we know by Divine instinct are not all manifested with prophetic certitude, for this instinct is something imperfect in the genus of prophecy. It is thus that we are to understand the saying of Gregory. Lest, however, this should lead to error, "they are very soon set aright by the Holy Ghost [*For instance, cf. 2 Kings 7:3 seqq.], and from Him they hear the truth, so that they reproach themselves for having said what was untrue," as Gregory adds (Hom. i super Ezech.).
 
 The arguments set down in the first place consider the revelation that is made by the prophetic spirit; wherefore the answer to all the objections is clear.
-## Whether Things Known Or Declared Prophetically Can Be False?
+### Whether Things Known Or Declared Prophetically Can Be False?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that things known or declared prophetically can be false. For prophecy is about future contingencies, as stated above (A[3] ). Now future contingencies may possibly not happen; else they would happen of necessity. Therefore the matter of prophecy can be false.
 
@@ -148,13 +148,13 @@ Objection 2: Further, Isaias prophesied to Ezechias saying (Is. 38:1): "Take ord
 
 Objection 3: Further, in a conditional proposition, whenever the antecedent is absolutely necessary, the consequent is absolutely necessary, because the consequent of a conditional proposition stands in the same relation to the antecedent, as the conclusion to the premises in a syllogism, and a syllogism whose premises are necessary always leads to a necessary conclusion, as we find proved in I Poster. 6. But if the matter of a prophecy cannot be false, the following conditional proposition must needs be true: "If a thing has been prophesied, it will be." Now the antecedent of this conditional proposition is absolutely necessary, since it is about the past. Therefore the consequent is also necessary absolutely; yet this is unfitting, for then prophecy would not be about contingencies. Therefore it is untrue that the matter of prophecy cannot be false.
 
-### Answer
+**Answer**
 
 On the contrary, Cassiodorus says [*Prol. in Psalt. i] that "prophecy is a Divine inspiration or revelation, announcing the issue of things with invariable truth." Now the truth of prophecy would not be invariable, if its matter could be false. Therefore nothing false can come under prophecy.
 
 I answer that, As may be gathered from what has been said ([3666]AA[1],3,5), prophecy is a kind of knowledge impressed under the form of teaching on the prophet's intellect, by Divine revelation. Now the truth of knowledge is the same in disciple and teacher since the knowledge of the disciple is a likeness of the knowledge of the teacher, even as in natural things the form of the thing generated is a likeness of the form of the generator. Jerome speaks in this sense when he says [*Comment. in Daniel ii, 10] that "prophecy is the seal of the Divine foreknowledge." Consequently the same truth must needs be in prophetic knowledge and utterances, as in the Divine knowledge, under which nothing false can possibly come, as stated in the [3667]FP, Q[16], A[8]. Therefore nothing false can come under prophecy.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated in the [3668]FP, Q[14], A[13] the certitude of the Divine foreknowledge does not exclude the contingency of future singular events, because that knowledge regards the future as present and already determinate to one thing. Wherefore prophecy also, which is an "impressed likeness" or "seal of the Divine foreknowledge," does not by its unchangeable truth exclude the contingency of future things.
 

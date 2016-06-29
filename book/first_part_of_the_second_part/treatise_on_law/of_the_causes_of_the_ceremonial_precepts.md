@@ -7,9 +7,9 @@ We must now consider the causes of the ceremonial precepts: under which head the
 (4) The causes of the sacrifices;
 (5) The causes of the sacred things;
 (6) The causes of the observances.
-## Whether There Was Any Cause For The Ceremonial Precepts?
+### Whether There Was Any Cause For The Ceremonial Precepts?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there was no cause for the ceremonial precepts. Because on Eph. 2:15, "Making void the law of the commandments," the gloss says, (i.e.) "making void the Old Law as to the carnal observances, by substituting decrees, i.e. evangelical precepts, which are based on reason." But if the observances of the Old Law were based on reason, it would have been useless to void them by the reasonable decrees of the New Law. Therefore there was no reason for the ceremonial observances of the Old Law.
 
@@ -17,22 +17,22 @@ Objection 2: Further, the Old Law succeeded the law of nature. But in the law of
 
 Objection 3: Further, man's works are called moral according as they proceed from reason. If therefore there is any reason for the ceremonial precepts, they would not differ from the moral precepts. It seems therefore that there was no cause for the ceremonial precepts: for the reason of a precept is taken from some cause.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 18:9): "The commandment of the Lord is lightsome, enlightening the eyes." But the ceremonial precepts are commandments of God. Therefore they are lightsome: and yet they would not be so, if they had no reasonable cause. Therefore the ceremonial precepts have a reasonable cause.
 
 I answer that, Since, according to the Philosopher (Metaph. i, 2), it is the function of a "wise man to do everything in order," those things which proceed from the Divine wisdom must needs be well ordered, as the Apostle states (Rom. 13:1). Now there are two conditions required for things to be well ordered. First, that they be ordained to their due end, which is the principle of the whole order in matters of action: since those things that happen by chance outside the intention of the end, or which are not done seriously but for fun, are said to be inordinate. Secondly, that which is done in view of the end should be proportionate to the end. From this it follows that the reason for whatever conduces to the end is taken from the end: thus the reason for the disposition of a saw is taken from cutting, which is its end, as stated in Phys. ii, 9. Now it is evident that the ceremonial precepts, like all the other precepts of the Law, were institutions of Divine wisdom: hence it is written (Dt. 4:6): "This is your wisdom and understanding in the sight of nations." Consequently we must needs say that the ceremonial precepts were ordained to a certain end, wherefrom their reasonable causes can be gathered.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It may be said there was no reason for the observances of the Old Law, in the sense that there was no reason in the very nature of the thing done: for instance that a garment should not be made of wool and linen. But there could be a reason for them in relation to something else: namely, in so far as something was signified or excluded thereby. On the other hand, the decrees of the New Law, which refer chiefly to faith and the love of God, are reasonable from the very nature of the act.
 
 Reply to Objection 2: The reason for the prohibition concerning the tree of knowledge of good and evil was not that this tree was naturally evil: and yet this prohibition was reasonable in its relation to something else, in as much as it signified something. And so also the ceremonial precepts of the Old Law were reasonable on account of their relation to something else.
 
 Reply to Objection 3: The moral precepts in their very nature have reasonable causes: as for instance, "Thou shalt not kill, Thou shalt not steal." But the ceremonial precepts have a reasonable cause in their relation to something else, as stated above.
-## Whether The Ceremonial Precepts Have A Literal Cause Or Merely A Figurative Cause?
+### Whether The Ceremonial Precepts Have A Literal Cause Or Merely A Figurative Cause?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the ceremonial precepts have not a literal, but merely a figurative cause. For among the ceremonial precepts, the chief was circumcision and the sacrifice of the paschal lamb. But neither of these had any but a figurative cause: because each was given as a sign. For it is written (Gn. 17:11): "You shall circumcise the flesh of your foreskin, that it may be a sign of the covenant between Me and you": and of the celebration of the Passover it is written (Ex. 13:9): "It shall be as a sign in thy hand, and as a memorial before thy eyes." Therefore much more did the other ceremonial precepts have none but a figurative reason.
 
@@ -40,22 +40,22 @@ Objection 2: Further, an effect is proportionate to its cause. But all the cerem
 
 Objection 3: Further, if it be a matter of indifference whether a certain thing, considered in itself, be done in a particular way or not, it seems that it has not a literal cause. Now there are certain points in the ceremonial precepts, which appear to be a matter of indifference, as to whether they be done in one way or in another: for instance, the number of animals to be offered, and other such particular circumstances. Therefore there is no literal cause for the precepts of the Old Law.
 
-### Answer
+**Answer**
 
 On the contrary, Just as the ceremonial precepts foreshadowed Christ, so did the stories of the Old Testament: for it is written (1 Cor. 10:11) that "all (these things) happened to them in figure." Now in the stories of the Old Testament, besides the mystical or figurative, there is the literal sense. Therefore the ceremonial precepts had also literal, besides their figurative causes.
 
 I answer that, As stated above [2112](A[1]), the reason for whatever conduces to an end must be taken from that end. Now the end of the ceremonial precepts was twofold: for they were ordained to the Divine worship, for that particular time, and to the foreshadowing of Christ; just as the words of the prophets regarded the time being in such a way as to be utterances figurative of the time to come, as Jerome says on Osee 1:3. Accordingly the reasons for the ceremonial precepts of the Old Law can be taken in two ways. First, in respect of the Divine worship which was to be observed for that particular time: and these reasons are literal: whether they refer to the shunning of idolatry; or recall certain Divine benefits; or remind men of the Divine excellence; or point out the disposition of mind which was then required in those who worshipped God. Secondly, their reasons can be gathered from the point of view of their being ordained to foreshadow Christ: and thus their reasons are figurative and mystical: whether they be taken from Christ Himself and the Church, which pertains to the allegorical sense; or to the morals of the Christian people, which pertains to the moral sense; or to the state of future glory, in as much as we are brought thereto by Christ, which refers to the anagogical sense.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as the use of metaphorical expressions in Scripture belongs to the literal sense, because the words are employed in order to convey that particular meaning; so also the meaning of those legal ceremonies which commemorated certain Divine benefits, on account of which they were instituted, and of others similar which belonged to that time, does not go beyond the order of literal causes. Consequently when we assert that the cause of the celebration of the Passover was its signification of the delivery from Egypt, or that circumcision was a sign of God's covenant with Abraham, we assign the literal cause.
 
 Reply to Objection 2: This argument would avail if the ceremonial precepts had been given merely as figures of things to come, and not for the purpose of worshipping God then and there.
 
 Reply to Objection 3: As we have stated when speaking of human laws ([2113]Q[96], AA[1] ,6), there is a reason for them in the abstract, but not in regard to particular conditions, which depend on the judgment of those who frame them; so also many particular determinations in the ceremonies of the Old Law have no literal cause, but only a figurative cause; whereas in the abstract they have a literal cause.
-## Whether A Suitable Cause Can Be Assigned For The Ceremonies Which Pertained To Sacrifices?
+### Whether A Suitable Cause Can Be Assigned For The Ceremonies Which Pertained To Sacrifices?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no suitable cause can be assigned for the ceremonies pertaining to sacrifices. For those things which were offered in sacrifice, are those which are necessary for sustaining human life: such as certain animals and certain loaves. But God needs no such sustenance; according to Ps. 49:13: "Shall I eat the flesh of bullocks? Or shall I drink the blood of goats?" Therefore such sacrifices were unfittingly offered to God.
 
@@ -75,7 +75,7 @@ Objection 8: Further, those who offer victims to God should partake thereof, acc
 
 Objection 9: Further, just as holocausts were offered up in honor of God, so also were the peace-offerings and sin-offerings. But no female animals was offered up to God as a holocaust, although holocausts were offered of both quadrupeds and birds. Therefore it was inconsistent that female animals should be offered up in peace-offerings and sin-offerings, and that nevertheless birds should not be offered up in peace-offerings.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lev. 1:13): "The priest shall offer it all and burn it all upon the altar, for a holocaust, and most sweet savor to the Lord." Now according to Wis. 7:28, "God loveth none but him that dwelleth with wisdom": whence it seems to follow that whatever is acceptable to God is wisely done. Therefore these ceremonies of the sacrifices were wisely done, as having reasonable causes.
 
@@ -85,7 +85,7 @@ For, according as the ceremonies of the sacrifices were intended for the divine 
 
 Now of all the gifts which God vouchsafed to mankind after they had fallen away by sin, the chief is that He gave His Son; wherefore it is written (Jn. 3:16): "God so loved the world, as to give His only-begotten Son; that whosoever believeth in Him, may not perish, but may have life everlasting." Consequently the chief sacrifice is that whereby Christ Himself "delivered Himself . . . to God for an odor of sweetness" (Eph. 5:2). And for this reason all the other sacrifices of the Old Law were offered up in order to foreshadow this one individual and paramount sacrifice---the imperfect forecasting the perfect. Hence the Apostle says (Heb. 10:11) that the priest of the Old Law "often" offered "the same sacrifices, which can never take away sins: but" Christ offered "one sacrifice for sins, for ever." And since the reason of the figure is taken from that which the figure represents, therefore the reasons of the figurative sacrifices of the Old Law should be taken from the true sacrifice of Christ.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God did not wish these sacrifices to be offered to Him on account of the things themselves that were offered, as though He stood in need of them: wherefore it is written (Is. 1:11): "I desire not holocausts of rams, and fat of fatlings, and blood of calves and lambs and buckgoats." But, as stated above, He wished them to be offered to Him, in order to prevent idolatry; in order to signify the right ordering of man's mind to God; and in order to represent the mystery of the Redemption of man by Christ.
 
@@ -104,9 +104,9 @@ Reply to Objection 7: It is because unclean animals are wont to be held in conte
 Reply to Objection 8: There were three kinds of sacrifices. There was one in which the victim was entirely consumed by fire: this was called "a holocaust, i.e. all burnt." For this kind of sacrifice was offered to God specially to show reverence to His majesty, and love of His goodness: and typified the state of perfection as regards the fulfilment of the counsels. Wherefore the whole was burnt up: so that as the whole animal by being dissolved into vapor soared aloft, so it might denote that the whole man, and whatever belongs to him, are subject to the authority of God, and should be offered to Him.
 
 Reply to Objection 9: Because the holocaust was the most perfect kind of sacrifice, therefore none but a male was offered for a holocaust: because the female is an imperfect animal. The offering of turtledoves and doves was on account of the poverty of the offerers, who were unable to offer bigger animals. And since peace-victims were offered freely, and no one was bound to offer them against his will, hence these birds were offered not among the peace-victims, but among the holocausts and victims for sin, which man was obliged to offer at times. Moreover these birds, on account of their lofty flight, while befitting the perfection of the holocausts: and were suitable for sin-offerings because their song is doleful.
-## Whether Sufficient Reason Can Be Assigned For The Ceremonies Pertaining To Holy Things?
+### Whether Sufficient Reason Can Be Assigned For The Ceremonies Pertaining To Holy Things?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no sufficient reason can be assigned for the ceremonies of the Old Law that pertain to holy things. For Paul said (Acts 17:24): "God Who made the world and all things therein; He being Lord of heaven and earth, dwelleth not in temples made by hands." It was therefore unfitting that in the Old Law a tabernacle or temple should be set up for the worship of God.
 
@@ -126,7 +126,7 @@ Objection 8: Further, in God's works nothing should be superfluous; for not even
 
 Objection 9: Further, exterior consecration signifies interior holiness, the subject of which is the soul. It was therefore unsuitable for the tabernacle and its vessels to be consecrated, since they were inanimate things.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Heb. 8:4) that those who "offer gifts according to the law . . . serve unto the example and shadow of heavenly things. As it was answered to Moses, when he was to finish the tabernacle: See, says He, that thou make all things according to the pattern which was shown thee on the mount." But that is most reasonable, which presents a likeness to heavenly things. Therefore the ceremonies relating to holy things had a reasonable cause.
 
@@ -134,7 +134,7 @@ I answer that, The chief purpose of the whole external worship is that man may g
 
 In like manner the state of the Old Law, as observed above [2116](A[2]; Q[100] , A[12]; Q[101], A[2]), was instituted that it might foreshadow the mystery of Christ. Now that which foreshadows something should be determinate, so that it may present some likeness thereto. Consequently, certain special points had to be observed in matters pertaining to the worship of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The divine worship regards two things: namely, God Who is worshipped; and men, who worship Him. Accordingly God, Who is worshipped, is confined to no bodily place: wherefore there was no need, on His part, for a tabernacle or temple to be set up. But men, who worship Him, are corporeal beings: and for their sake there was need for a special tabernacle or temple to be set up for the worship of God, for two reasons. First, that through coming together with the thought that the place was set aside for the worship of God, they might approach thither with greater reverence. Secondly, that certain things relating to the excellence of Christ's Divine or human nature might be signified by the arrangement of various details in such temple or tabernacle.
 
@@ -153,9 +153,9 @@ Reply to Objection 7: The Lord commanded an altar to be made for the offering of
 Reply to Objection 8: The body of the tabernacle consisted of boards placed on end, and covered on the inside with curtains of four different colors, viz. twisted linen, violet, purple, and scarlet twice dyed. These curtains, however, covered the sides only of the tabernacle; and the roof of the tabernacle was covered with violet-colored skins; and over this there was another covering of rams' skins dyed red; and over this there was a third curtain made of goats' hair, which covered not only the roof of the tabernacle, but also reached to the ground and covered the boards of the tabernacle on the outside. The literal reason of these coverings taken altogether was the adornment and protection of the tabernacle, that it might be an object of respect. Taken singly, according to some, the curtains denoted the starry heaven, which is adorned with various stars; the curtain (of goats' skin) signified the waters which are above the firmament; the skins dyed red denoted the empyrean heaven, where the angels are; the violet skins, the heaven of the Blessed Trinity.
 
 Reply to Objection 9: The literal reason for the sanctification of the tabernacle and vessels was that they might be treated with greater reverence, being deputed, as it were, to the divine worship by this consecration. The figurative reason is that this sanctification signified the sanctification of the living tabernacle, i.e. the faithful of whom the Church of Christ is composed.
-## Whether There Can Be Any Suitable Cause For The Sacraments Of The Old Law?
+### Whether There Can Be Any Suitable Cause For The Sacraments Of The Old Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there can be no suitable cause for the sacraments of the Old Law. Because those things that are done for the purpose of divine worship should not be like the observances of idolaters: since it is written (Dt. 12:31): "Thou shalt not do in like manner to the Lord thy God: for they have done to their gods all the abominations which the Lord abhorreth." Now worshippers of idols used to knive themselves to the shedding of blood: for it is related (3 Kings 18:28) that they "cut themselves after their manner with knives and lancets, till they were all covered with blood." For this reason the Lord commanded (Dt. 14:1): "You shall not cut yourselves nor make any baldness for the dead." Therefore it was unfitting for circumcision to be prescribed by the Law (Lev. 12:3).
 
@@ -175,7 +175,7 @@ Objection 8: Further, spiritual uncleanness cannot be cleansed by material water
 
 Objection 9: Further, that which is greater cannot be cleansed by that which is less. Therefore it was unfitting that, in the Law, the higher and lower priests, as stated in Lev. 8 [*Cf. Ex. 29], and the Levites, according to Num. 8, should be consecrated with any bodily anointing, bodily sacrifices, and bodily oblations.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lev. 20:8): "I am the Lord that sanctify you." But nothing unreasonable is done by God, for it is written (Ps. 103:24): "Thou hast made all things in wisdom." Therefore there was nothing without a reasonable cause in the sacraments of the Old Law, which were ordained to the sanctification of man.
 
@@ -185,7 +185,7 @@ In regard to both, three things were necessary. The first was to be established 
 
 And all these things had reasonable causes, both literal, in so far as they were ordained to the worship of God for the time being, and figurative, in so far as they were ordained to foreshadow Christ: as we shall see by taking them one by one.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The chief literal reason for circumcision was in order that man might profess his belief in one God. And because Abraham was the first to sever himself from the infidels, by going out from his house and kindred, for this reason he was the first to receive circumcision. This reason is set forth by the Apostle (Rom. 4:9, seqq.) thus: "He received the sign of circumcision, a seal of the justice of the faith which he had, being uncircumcised"; because, to wit, we are told that "unto Abraham faith was reputed to justice," for the reason that "against hope he believed in hope," i.e. against the hope that is of nature he believed in the hope that is of grace, "that he might be made the father of many nations," when he was an old man, and his wife an old and barren woman. And in order that this declaration, and imitation of Abraham's faith, might be fixed firmly in the hearts of the Jews, they received in their flesh such a sign as they could not forget, wherefore it is written (Gn. 17:13): "My covenant shall be in your flesh for a perpetual covenant." This was done on the eighth day, because until then a child is very tender, and so might be seriously injured; and is considered as something not yet consolidated: wherefore neither are animals offered before the eighth day. And it was not delayed after that time, lest some might refuse the sign of circumcision on account of the pain: and also lest the parents, whose love for their children increases as they become used to their presence and as they grow older, should withdraw their children from circumcision. A second reason may have been the weakening of concupiscence in that member. A third motive may have been to revile the worship of Venus and Priapus, which gave honor to that part of the body. The Lord's prohibition extended only to the cutting of oneself in honor of idols: and such was not the circumcision of which we have been speaking.
 
@@ -200,9 +200,9 @@ Reply to Objection 5: As stated above (ad 4), there was a twofold uncleanness in
 Reply to Objection 6: As stated above (ad 5), an uncleanness which was caused by corruption either of mind or of body was expiated by sin-offerings. Now special sacrifices were wont to be offered for the sins of individuals: but since some were neglectful about expiating such sins and uncleannesses; or, through ignorance, failed to offer this expiation; it was laid down that once a year, on the tenth day of the seventh month, a sacrifice of expiation should be offered for the whole people. And because, as the Apostle says (Heb. 7:28), "the Law maketh men priests, who have infirmity," it behooved the priest first of all to offer a calf for his own sins, in memory of Aaron's sin in fashioning the molten calf; and besides, to offer a ram for a holocaust, which signified that the priestly sovereignty denoted by the ram, who is the head of the flock, was to be ordained to the glory of God. Then he offered two he-goats for the people: one of which was offered in expiation of the sins of the multitude. For the he-goat is an evil-smelling animal; and from its skin clothes are made having a pungent odor; to signify the stench, uncleanness and the sting of sin. After this he-goat had been immolated, its blood was taken, together with the blood of the calf, into the Holy of Holies, and the entire sanctuary was sprinkled with it; to signify that the tabernacle was cleansed from the uncleanness of the children of Israel. But the corpses of the he-goat and calf which had been offered up for sin had to be burnt, to denote the destruction of sins. They were not, however, burnt on the altar: since none but holocausts were burnt thereon; but it was prescribed that they should be burnt without the camp, in detestation of sin: for this was done whenever sacrifice was offered for a grievous sin, or for the multitude of sins. The other goat was let loose into the wilderness: not indeed to offer it to the demons, whom the Gentiles worshipped in desert places, because it was unlawful to offer aught to them; but in order to point out the effect of the sacrifice which had been offered up. Hence the priest put his hand on its head, while confessing the sins of the children of Israel: as though that goat were to carry them away into the wilderness, where it would be devoured by wild beasts, because it bore the punishment of the people's sins. And it was said to bear the sins of the people, either because the forgiveness of the people's sins was signified by its being let loose, or because on its head written lists of sins were fastened.
 
 Reply to Objection 7: The legal rite did not cleanse the leper of his deformity, but declared him to be cleansed. This is shown by the words of Lev. 14:3, seqq., where it was said that the priest, "when he shall find that the leprosy is cleansed," shall command "him that is to be purified": consequently, the leper was already healed: but he was said to be purified in so far as the verdict of the priest restored him to the society of men and to the worship of God. It happened sometimes, however, that bodily leprosy was miraculously cured by the legal rite, when the priest erred in his judgment.
-## Whether There Was Any Reasonable Cause For The Ceremonial Observances?
+### Whether There Was Any Reasonable Cause For The Ceremonial Observances?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there was no reasonable cause for the ceremonial observances. Because, as the Apostle says (1 Tim. 4:4), "every creature of God is good, and nothing to be rejected that is received with thanksgiving." It was therefore unfitting that they should be forbidden to eat certain foods, as being unclean according to Lev. 11 [*Cf. Dt. 14].
 
@@ -222,13 +222,13 @@ Objection 8: Further, the Apostle says (1 Cor. 9:9) that God does not "take care
 
 Objection 9: Further, no distinction was made between clean and unclean plants. Much less therefore should any distinction have been made about the cultivation of plants. Therefore it was unfittingly prescribed (Lev. 19:19): "Thou shalt not sow thy field with different seeds"; and (Dt. 22:9, seqq.): "Thou shalt sow thy vineyard with divers seeds"; and: "Thou shalt not plough with an ox and an ass together."
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 18:14): "But thou art otherwise instructed by the Lord thy God": from which words we may gather that these observances were instituted by God to be a special prerogative of that people. Therefore they are not without reason or cause.
 
 I answer that, The Jewish people, as stated above [2119](A[5]), were specially chosen for the worship of God, and among them the priests themselves were specially set apart for that purpose. And just as other things that are applied to the divine worship, need to be marked in some particular way so that they be worthy of the worship of God; so too in that people's, and especially the priests', mode of life, there needed to be certain special things befitting the divine worship, whether spiritual or corporal. Now the worship prescribed by the Law foreshadowed the mystery of Christ: so that whatever they did was a figure of things pertaining to Christ, according to 1 Cor. 10:11: "All these things happened to them in figures." Consequently the reasons for these observances may be taken in two ways, first according to their fittingness to the worship of God; secondly, according as they foreshadow something touching the Christian mode of life.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above (A[5], ad 4,5), the Law distinguished a twofold pollution or uncleanness; one, that of sin, whereby the soul was defiled; and another consisting in some kind of corruption, whereby the body was in some way infected. Speaking then of the first-mentioned uncleanness, no kind of food is unclean, or can defile a man, by reason of its nature; wherefore we read (Mat. 15:11): "Not that which goeth into the mouth defileth a man; but what cometh out of the mouth, this defileth a man": which words are explained (Mat. 15:17) as referring to sins. Yet certain foods can defile the soul accidentally; in so far as man partakes of them against obedience or a vow, or from excessive concupiscence; or through their being an incentive to lust, for which reason some refrain from wine and flesh-meat.
 

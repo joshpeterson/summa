@@ -9,9 +9,9 @@ We proceed to consider those things which belong to the powers of the soul; firs
 (6) Whether the powers flow from the essence of the soul?
 (7) Whether one power rises from another?
 (8) Whether all the powers of the soul remain in the soul after death?
-## Whether The Essence Of The Soul Is Its Power?
+### Whether The Essence Of The Soul Is Its Power?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the essence of the soul is its power. For Augustine says (De Trin. ix, 4), that "mind, knowledge, and love are in the soul substantially, or, which is the same thing, essentially": and (De Trin. x, 11), that "memory, understanding, and will are one life, one mind, one essence."
 
@@ -27,13 +27,13 @@ Objection 6: Further, " a simple form cannot be a subject." But the soul is a si
 
 Objection 7: Further, an accident is not the principle of a substantial difference. But sensitive and rational are substantial differences; and they are taken from sense and reason, which are powers of the soul. Therefore the powers of the soul are not accidents; and so it would seem that the power of the soul is its own essence.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius (Coel. Hier. xi) says that "heavenly spirits are divided into essence, power, and operation." Much more, then, in the soul is the essence distinct from the virtue or power.
 
 I answer that, It is impossible to admit that the power of the soul is its essence, although some have maintained it. For the present purpose this may be proved in two ways. First, because, since power and act divide being and every kind of being, we must refer a power and its act to the same genus. Therefore, if the act be not in the genus of substance, the power directed to that act cannot be in the genus of substance. Now the operation of the soul is not in the genus of substance; for this belongs to God alone, whose operation is His own substance. Wherefore the Divine power which is the principle of His operation is the Divine Essence itself. This cannot be true either of the soul, or of any creature; as we have said above when speaking of the angels ([623]Q[54], A[3]). Secondly, this may be also shown to be impossible in the soul. For the soul by its very essence is an act. Therefore if the very essence of the soul were the immediate principle of operation, whatever has a soul would always have actual vital actions, as that which has a soul is always an actually living thing. For as a form the soul is not an act ordained to a further act, but the ultimate term of generation. Wherefore, for it to be in potentiality to another act, does not belong to it according to its essence, as a form, but according to its power. So the soul itself, as the subject of its power, is called the first act, with a further relation to the second act. Now we observe that what has a soul is not always actual with respect to its vital operations; whence also it is said in the definition of the soul, that it is "the act of a body having life potentially"; which potentiality, however, "does not exclude the soul." Therefore it follows that the essence of the soul is not its power. For nothing is in potentiality by reason of an act, as act.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is speaking of the mind as it knows and loves itself. Thus knowledge and love as referred to the soul as known and loved, are substantially or essentially in the soul, for the very substance or essence of the soul is known and loved. In the same way are we to understand what he says in the other passage, that those things are "one life, one mind, one essence." Or, as some say, this passage is true in the sense in which the potential whole is predicated of its parts, being midway between the universal whole, and the integral whole. For the universal whole is in each part according to its entire essence and power; as animal in a man and in a horse; and therefore it is properly predicated of each part. But the integral whole is not in each part, neither according to its whole essence, nor according to its whole power. Therefore in no way can it be predicated of each part; yet in a way it is predicated, though improperly, of all the parts together; as if we were to say that the wall, roof, and foundations are a house. But the potential whole is in each part according to its whole essence, not, however, according to its whole power. Therefore in a way it can be predicated of each part, but not so properly as the universal whole. In this sense, Augustine says that the memory, understanding, and the will are the one essence of the soul.
 
@@ -48,9 +48,9 @@ Reply to Objection 5: If we take accident as meaning what is divided against sub
 Reply to Objection 6: Although the soul is not composed of matter and form, yet it has an admixture of potentiality, as we have said above ([624]Q[75], A[5], ad 4); and for this reason it can be the subject of an accident. The statement quoted is verified in God, Who is the Pure Act; in treating of which subject Boethius employs that phrase (De Trin. i).
 
 Reply to Objection 7: Rational and sensitive, as differences, are not taken from the powers of sense and reason, but from the sensitive and rational soul itself. But because substantial forms, which in themselves are unknown to us, are known by their accidents; nothing prevents us from sometimes substituting accidents for substantial differences.
-## Whether There Are Several Powers Of The Soul?
+### Whether There Are Several Powers Of The Soul?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are not several powers of the soul. For the intellectual soul approaches nearest to the likeness of God. But in God there is one simple power: and therefore also in the intellectual soul.
 
@@ -58,7 +58,7 @@ Objection 2: Further, the higher a power is, the more unified it is. But the int
 
 Objection 3: Further, to operate belongs to what is in act. But by the one essence of the soul, man has actual existence in the different degrees of perfection, as we have seen above ([625]Q[76], AA[3],4). Therefore by the one power of the soul he performs operations of various degrees.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher places several powers in the soul (De Anima ii, 2,3).
 
@@ -66,16 +66,16 @@ I answer that, Of necessity we must place several powers in the soul. To make th
 
 There is yet another reason why the human soul abounds in a variety of powers---because it is on the confines of spiritual and corporeal creatures; and therefore the powers of both meet together in the soul.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The intellectual soul approaches to the Divine likeness, more than inferior creatures, in being able to acquire perfect goodness; although by many and various means; and in this it falls short of more perfect creatures.
 
 Reply to Objection 2: A unified power is superior if it extends to equal things: but a multiform power is superior to it, if it is over many things.
 
 Reply to Objection 3: One thing has one substantial existence, but may have several operations. So there is one essence of the soul, with several powers.
-## Whether The Powers Are Distinguished By Their Acts And Objects?
+### Whether The Powers Are Distinguished By Their Acts And Objects?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the powers of the soul are not distinguished by acts and objects. For nothing is determined to its species by what is subsequent and extrinsic to it. But the act is subsequent to the power; and the object is extrinsic to it. Therefore the soul's powers are not specifically distinct by acts and objects.
 
@@ -85,7 +85,7 @@ Objection 3: Further, if the cause be removed, the effect is removed. Hence if t
 
 Objection 4: Further, that which of itself is the cause of anything, is the cause thereof, wherever it is. But various objects which belong to various powers, belong also to some one power; as sound and color belong to sight and hearing, which are different powers, yet they come under the one power of common sense. Therefore the powers are not distinguished according to the difference of their objects.
 
-### Answer
+**Answer**
 
 On the contrary, Things that are subsequent are distinguished by what precedes. But the Philosopher says (De Anima ii, 4) that "acts and operations precede the powers according to reason; and these again are preceded by their opposites," that is their objects. Therefore the powers are distinguished according to their acts and objects.
 
@@ -93,7 +93,7 @@ I answer that, A power as such is directed to an act. Wherefore we seek to know 
 
 Nevertheless, we must observe that things which are accidental do not change the species. For since to be colored is accidental to an animal, its species is not changed by a difference of color, but by a difference in that which belongs to the nature of an animal, that is to say, by a difference in the sensitive soul, which is sometimes rational, and sometimes otherwise. Hence "rational" and "irrational" are differences dividing animal, constituting its various species. In like manner therefore, not any variety of objects diversifies the powers of the soul, but a difference in that to which the power of its very nature is directed. Thus the senses of their very nature are directed to the passive quality which of itself is divided into color, sound, and the like, and therefore there is one sensitive power with regard to color, namely, the sight, and another with regard to sound, namely, hearing. But it is accidental to a passive quality, for instance, to something colored, to be a musician or a grammarian, great or small, a man or a stone. Therefore by reason of such differences the powers of the soul are not distinct.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Act, though subsequent in existence to power, is, nevertheless, prior to it in intention and logically; as the end is with regard to the agent. And the object, although extrinsic, is, nevertheless, the principle or end of the action; and those conditions which are intrinsic to a thing, are proportionate to its principle and end.
 
@@ -102,9 +102,9 @@ Reply to Objection 2: If any power were to have one of two contraries as such fo
 Reply to Objection 3: Nothing prevents things which coincide in subject, from being considered under different aspects; therefore they can belong to various powers of the soul.
 
 Reply to Objection 4: The higher power of itself regards a more universal formality of the object than the lower power; because the higher a power is, to a greater number of things does it extend. Therefore many things are combined in the one formality of the object, which the higher power considers of itself; while they differ in the formalities regarded by the lower powers of themselves. Thus it is that various objects belong to various lower powers; which objects, however, are subject to one higher power.
-## Whether Among The Powers Of The Soul There Is Order?
+### Whether Among The Powers Of The Soul There Is Order?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is no order among the powers of the soul. For in those things which come under one division, there is no before and after, but all are naturally simultaneous. But the powers of the soul are contradistinguished from one another. Therefore there is no order among them.
 
@@ -112,7 +112,7 @@ Objection 2: Further, the powers of the soul are referred to their objects and t
 
 Objection 3: Further, where there is order among powers, we find that the operation of one depends on the operation of another. But the action of one power of the soul does not depend on that of another; for sight can act independently of hearing, and conversely. Therefore there is no order among the powers of the soul.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher (De Anima ii, 3) compares the parts or powers of the soul to figures. But figures have an order among themselves. Therefore the powers of the soul have order.
 
@@ -120,16 +120,16 @@ I answer that, Since the soul is one, and the powers are many; and since a numbe
 
 In the second kind of order, it is the other way about. For the powers of the nutritive soul are prior by way of generation to the powers of the sensitive soul; for which, therefore, they prepare the body. The same is to be said of the sensitive powers with regard to the intellectual. But in the third kind of order, certain sensitive powers are ordered among themselves, namely, sight, hearing, and smelling. For the visible naturally comes first; since it is common to higher and lower bodies. But sound is audible in the air, which is naturally prior to the mingling of elements, of which smell is the result.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The species of a given genus are to one another as before and after, like numbers and figures, if considered in their nature; although they may be said to be simultaneous, according as they receive the predication of the common genus.
 
 Reply to Objection 2: This order among the powers of the soul is both on the part of the soul (which, though it be one according to its essence, has a certain aptitude to various acts in a certain order) and on the part of the objects, and furthermore on the part of the acts, as we have said above.
 
 Reply to Objection 3: This argument is verified as regards those powers among which order of the third kind exists. Those powers among which the two other kinds of order exist are such that the action of one depends on another.
-## Whether All The Powers Of The Soul Are In The Soul As Their Subject?
+### Whether All The Powers Of The Soul Are In The Soul As Their Subject?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all the powers of the soul are in the soul as their subject. For as the powers of the body are to the body; so are the powers of the soul to the soul. But the body is the subject of the corporeal powers. Therefore the soul is the subject of the powers of the soul.
 
@@ -137,22 +137,22 @@ Objection 2: Further, the operations of the powers of the soul are attributed to
 
 Objection 3: Further, Augustine says (Gen. ad lit. xii, 7,24) that the soul senses certain things, not through the body, in fact, without the body, as fear and such like; and some things through the body. But if the sensitive powers were not in the soul alone as their subject, the soul could not sense anything without the body. Therefore the soul is the subject of the sensitive powers; and for a similar reason, of all the other powers.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (De Somno et Vigilia i) that "sensation belongs neither to the soul, nor to the body, but to the composite." Therefore the sensitive power is in "the composite" as its subject. Therefore the soul alone is not the subject of all the powers.
 
 I answer that, The subject of operative power is that which is able to operate, for every accident denominates its proper subject. Now the same is that which is able to operate, and that which does operate. Wherefore the "subject of power" is of necessity "the subject of operation," as again the Philosopher says in the beginning of De Somno et Vigilia. Now, it is clear from what we have said above ([626]Q[75], AA[2],3; [627]Q[76], A[1], ad 1), that some operations of the soul are performed without a corporeal organ, as understanding and will. Hence the powers of these operations are in the soul as their subject. But some operations of the soul are performed by means of corporeal organs; as sight by the eye, and hearing by the ear. And so it is with all the other operations of the nutritive and sensitive parts. Therefore the powers which are the principles of these operations have their subject in the composite, and not in the soul alone.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All the powers are said to belong to the soul, not as their subject, but as their principle; because it is by the soul that the composite has the power to perform such operations.
 
 Reply to Objection 2: All such powers are primarily in the soul, as compared to the composite; not as in their subject, but as in their principle.
 
 Reply to Objection 3: Plato's opinion was that sensation is an operation proper to the soul, just as understanding is. Now in many things relating to Philosophy Augustine makes use of the opinions of Plato, not asserting them as true, but relating them. However, as far as the present question is concerned, when it is said that the soul senses some things with the body, and some without the body, this can be taken in two ways. Firstly, the words "with the body or without the body" may determine the act of sense in its mode of proceeding from the sentient. Thus the soul senses nothing without the body, because the action of sensation cannot proceed from the soul except by a corporeal organ. Secondly, they may be understood as determining the act of sense on the part of the object sensed. Thus the soul senses some things with the body, that is, things existing in the body, as when it feels a wound or something of that sort; while it senses some things without the body, that is, which do not exist in the body, but only in the apprehension of the soul, as when it feels sad or joyful on hearing something.
-## Whether The Powers Of The Soul Flow From Its Essence?
+### Whether The Powers Of The Soul Flow From Its Essence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the powers of the soul do not flow from its essence. For different things do not proceed from one simple thing. But the essence of the soul is one and simple. Since, therefore, the powers of the soul are many and various, they cannot proceed from its essence.
 
@@ -160,7 +160,7 @@ Objection 2: Further, that from which a thing proceeds is its cause. But the ess
 
 Objection 3: Further, emanation involves some sort of movement. But nothing is moved by itself, as the Philosopher proves (Phys. vii, 1,2); except, perhaps, by reason of a part of itself, as an animal is said to be moved by itself, because one part thereof moves and another is moved. Neither is the soul moved, as the Philosopher proves (De Anima i, 4). Therefore the soul does not produce its powers within itself.
 
-### Answer
+**Answer**
 
 On the contrary, The powers of the soul are its natural properties. But the subject is the cause of its proper accidents; whence also it is included in the definition of accident, as is clear from Metaph. vii (Did. vi, 4). Therefore the powers of the soul proceed from its essence as their cause.
 
@@ -168,16 +168,16 @@ I answer that, The substantial and the accidental form partly agree and partly d
 
 Now it is clear, from what has been said [628](A[5]), that either the subject of the soul's powers is the soul itself alone, which can be the subject of an accident, forasmuch as it has something of potentiality, as we have said above (A[1], ad 6); or else this subject is the composite. Now the composite is actual by the soul. Whence it is clear that all the powers of the soul, whether their subject be the soul alone, or the composite, flow from the essence of the soul, as from their principle; because it has already been said that the accident is caused by the subject according as it is actual, and is received into it according as it is in potentiality.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: From one simple thing many things may proceed naturally, in a certain order; or again if there be diversity of recipients. Thus, from the one essence of the soul many and various powers proceed; both because order exists among these powers; and also by reason of the diversity of the corporeal organs.
 
 Reply to Objection 2: The subject is both the final cause, and in a way the active cause, of its proper accident. It is also as it were the material cause, inasmuch as it is receptive of the accident. From this we may gather that the essence of the soul is the cause of all its powers, as their end, and as their active principle; and of some as receptive thereof.
 
 Reply to Objection 3: The emanation of proper accidents from their subject is not by way of transmutation, but by a certain natural resultance; thus one thing results naturally from another, as color from light.
-## Whether One Power Of The Soul Arises From Another?
+### Whether One Power Of The Soul Arises From Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one power of the soul does not arise from another. For if several things arise together, one of them does not arise from another. But all the powers of the soul are created at the same time with the soul. Therefore one of them does not arise from another.
 
@@ -185,22 +185,22 @@ Objection 2: Further, the power of the soul arises from the soul as an accident 
 
 Objection 3: Further, one opposite does not arise from the other opposite; but everything arises from that which is like it in species. Now the powers of the soul are oppositely divided, as various species. Therefore one of them does not proceed from another.
 
-### Answer
+**Answer**
 
 On the contrary, Powers are known by their actions. But the action of one power is caused by the action of another power, as the action of the imagination by the action of the senses. Therefore one power of the soul is caused by another.
 
 I answer that, In those things which proceed from one according to a natural order, as the first is the cause of all, so that which is nearer to the first is, in a way, the cause of those which are more remote. Now it has been shown above [629](A[4]) that among the powers of the soul there are several kinds of order. Therefore one power of the soul proceeds from the essence of the soul by the medium of another. But since the essence of the soul is compared to the powers both as a principle active and final, and as a receptive principle, either separately by itself, or together with the body; and since the agent and the end are more perfect, while the receptive principle, as such, is less perfect; it follows that those powers of the soul which precede the others, in the order of perfection and nature, are the principles of the others, after the manner of the end and active principle. For we see that the senses are for the sake of the intelligence, and not the other way about. The senses, moreover, are a certain imperfect participation of the intelligence; wherefore, according to their natural origin, they proceed from the intelligence as the imperfect from the perfect. But considered as receptive principles, the more perfect powers are principles with regard to the others; thus the soul, according as it has the sensitive power, is considered as the subject, and as something material with regard to the intelligence. On this account, the more imperfect powers precede the others in the order of generation, for the animal is generated before the man.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As the power of the soul flows from the essence, not by a transmutation, but by a certain natural resultance, and is simultaneous with the soul, so is it the case with one power as regards another.
 
 Reply to Objection 2: An accident cannot of itself be the subject of an accident; but one accident is received prior to another into substance, as quantity prior to quality. In this sense one accident is said to be the subject of another; as surface is of color, inasmuch as substance receives an accident through the means of another. The same thing may be said of the powers of the soul.
 
 Reply to Objection 3: The powers of the soul are opposed to one another, as perfect and imperfect; as also are the species of numbers and figures. But this opposition does not prevent the origin of one from another, because imperfect things naturally proceed from perfect things.
-## Whether All The Powers Remain In The Soul When Separated From The Body?
+### Whether All The Powers Remain In The Soul When Separated From The Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all the powers of the soul remain in the soul separated from the body. For we read in the book De Spiritu et Anima that "the soul withdraws from the body, taking with itself sense and imagination, reason and intelligence, concupiscibility and irascibility."
 
@@ -214,7 +214,7 @@ Objection 5: Further, joy and sorrow are in the concupiscible part, which is a p
 
 Objection 6: Further, Augustine says (Gen. ad lit. xii, 32) that, as the soul, when the body lies senseless, yet not quite dead, sees some things by imaginary vision; so also when by death the soul is quite separate from the body. But the imagination is a power of the sensitive part. Therefore the power of the sensitive part remains in the separate soul; and consequently all the other powers.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (De Eccl. Dogm. xix) that "of two substances only does man consist; the soul with its reason, and the body with its senses." Therefore the body being dead, the sensitive powers do not remain.
 
@@ -222,7 +222,7 @@ I answer that, As we have said already ([630]AA[5],6,7), all the powers of the s
 
 So it is false that, as some say, these powers remain in the soul even after the corruption of the body. It is much more false that, as they say also, the acts of these powers remain in the separate soul; because these powers have no act apart from the corporeal organ.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That book has no authority, and so what is there written can be despised with the same facility as it was said; although we may say that the soul takes with itself these powers, not actually but virtually.
 

@@ -7,9 +7,9 @@ OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)  We have in the next pla
 (4) Whether a vicious act is compatible with virtue?
 (5) Whether every sin includes action?
 (6) Of the definition of sin proposed by Augustine (Contra Faust. xxii): "Sin is a word, deed, or desire against the eternal law."
-## Whether Vice Is Contrary To Virtue?
+### Whether Vice Is Contrary To Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that vice is not contrary to virtue. For one thing has one contrary, as proved in Metaph. x, text. 17. Now sin and malice are contrary to virtue. Therefore vice is not contrary to it: since vice applies also to undue disposition of bodily members or of any things whatever.
 
@@ -17,7 +17,7 @@ Objection 2: Further, virtue denotes a certain perfection of power. But vice doe
 
 Objection 3: Further, Cicero (De Quaest. Tusc. iv) says that "virtue is the soul's health." Now sickness or disease, rather than vice, is opposed to health. Therefore vice is not contrary to virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Perfect. Justit. ii) that "vice is a quality in respect of which the soul is evil." But "virtue is a quality which makes its subject good," as was shown above ([1682]Q[55], AA[3],4). Therefore vice is contrary to virtue.
 
@@ -25,16 +25,16 @@ I answer that, Two things may be considered in virtue---the essence of virtue, a
 
 Accordingly three things are found to be contrary to virtue. One of these is "sin," which is opposed to virtue in respect of that to which virtue is ordained: since, properly speaking, sin denotes an inordinate act; even as an act of virtue is an ordinate and due act: in respect of that which virtue implies consequently, viz. that it is a kind of goodness, the contrary of virtue is "malice": while in respect of that which belongs to the essence of virtue directly, its contrary is "vice": because the vice of a thing seems to consist in its not being disposed in a way befitting its nature: hence Augustine says (De Lib. Arb. iii): "Whatever is lacking for a thing's natural perfection may be called a vice."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These three things are contrary to virtue, but not in the same respect: for sin is opposed to virtue, according as the latter is productive of a good work; malice, according as virtue is a kind of goodness; while vice is opposed to virtue properly as such.
 
 Reply to Objection 2: Virtue implies not only perfection of power, the principle of action; but also the due disposition of its subject. The reason for this is because a thing operates according as it is in act: so that a thing needs to be well disposed if it has to produce a good work. It is in this respect that vice is contrary to virtue.
 
 Reply to Objection 3: As Cicero says (De Quaest. Tusc. iv), "disease and sickness are vicious qualities," for in speaking of the body "he calls it" disease "when the whole body is infected," for instance, with fever or the like; he calls it sickness "when the disease is attended with weakness"; and vice "when the parts of the body are not well compacted together." And although at times there may be disease in the body without sickness, for instance, when a man has a hidden complaint without being hindered outwardly from his wonted occupations; "yet, in the soul," as he says, "these two things are indistinguishable, except in thought." For whenever a man is ill-disposed inwardly, through some inordinate affection, he is rendered thereby unfit for fulfilling his duties: since "a tree is known by its fruit," i.e. man by his works, according to Mat. 12:33. But "vice of the soul," as Cicero says (De Quaest. Tusc. iv), "is a habit or affection of the soul discordant and inconsistent with itself through life": and this is to be found even without disease and sickness, e.g. when a man sins from weakness or passion. Consequently vice is of wider extent than sickness or disease; even as virtue extends to more things than health; for health itself is reckoned a kind of virtue (Phys. vii, text. 17). Consequently vice is reckoned as contrary to virtue, more fittingly than sickness or disease.
-## Whether Vice Is Contrary To Nature?
+### Whether Vice Is Contrary To Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that vice is not contrary to nature. Because vice is contrary to virtue, as stated above [1684](A[1]). Now virtue is in us, not by nature but by infusion or habituation, as stated above (Q[63], AA[1] ,2,3). Therefore vice is not contrary to nature.
 
@@ -44,7 +44,7 @@ Objection 3: Further, anything contrary to a nature, is not found in the greater
 
 Objection 4: Further, sin is compared to vice, as act to habit, as stated above [1685](A[1]). Now sin is defined as "a word, deed, or desire, contrary to the Law of God," as Augustine shows (Contra Faust. xxii, 27). But the Law of God is above nature. Therefore we should say that vice is contrary to the Law, rather than to nature.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Lib. Arb. iii, 13): "Every vice, simply because it is a vice, is contrary to nature."
 
@@ -52,7 +52,7 @@ I answer that, As stated above [1686](A[1]), vice is contrary to virtue. Now the
 
 But it must be observed that the nature of a thing is chiefly the form from which that thing derives its species. Now man derives his species from his rational soul: and consequently whatever is contrary to the order of reason is, properly speaking, contrary to the nature of man, as man; while whatever is in accord with reason, is in accord with the nature of man, as man. Now "man's good is to be in accord with reason, and his evil is to be against reason," as Dionysius states (Div. Nom. iv). Therefore human virtue, which makes a man good, and his work good, is in accord with man's nature, for as much as it accords with his reason: while vice is contrary to man's nature, in so far as it is contrary to the order of reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the virtues are not caused by nature as regards their perfection of being, yet they incline us to that which accords with reason, i.e. with the order of reason. For Cicero says (De Inv. Rhet. ii) that "virtue is a habit in accord with reason, like a second nature": and it is in this sense that virtue is said to be in accord with nature, and on the other hand that vice is contrary to nature.
 
@@ -61,9 +61,9 @@ Reply to Objection 2: The Philosopher is speaking there of a thing being against
 Reply to Objection 3: There is a twofold nature in man, rational nature, and the sensitive nature. And since it is through the operation of his senses that man accomplishes acts of reason, hence there are more who follow the inclinations of the sensitive nature, than who follow the order of reason: because more reach the beginning of a business than achieve its completion. Now the presence of vices and sins in man is owing to the fact that he follows the inclination of his sensitive nature against the order of his reason.
 
 Reply to Objection 4: Whatever is irregular in a work of art, is unnatural to the art which produced that work. Now the eternal law is compared to the order of human reason, as art to a work of art. Therefore it amounts to the same that vice and sin are against the order of human reason, and that they are contrary to the eternal law. Hence Augustine says (De Lib. Arb. iii, 6) that "every nature, as such, is from God; and is a vicious nature, in so far as it fails from the Divine art whereby it was made."
-## Whether Vice Is Worse Than A Vicious Act?
+### Whether Vice Is Worse Than A Vicious Act?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that vice, i.e. a bad habit, is worse than a sin, i.e. a bad act. For, as the more lasting a good is, the better it is, so the longer an evil lasts, the worse it is. Now a vicious habit is more lasting than vicious acts, that pass forthwith. Therefore a vicious habit is worse than a vicious act.
 
@@ -71,22 +71,22 @@ Objection 2: Further, several evils are more to be shunned than one. But a bad h
 
 Objection 3: Further, a cause is more potent than its effect. But a habit produces its actions both as to their goodness and as to their badness. Therefore a habit is more potent than its act, both in goodness and in badness.
 
-### Answer
+**Answer**
 
 On the contrary, A man is justly punished for a vicious act; but not for a vicious habit, so long as no act ensues. Therefore a vicious action is worse than a vicious habit.
 
 I answer that, A habit stands midway between power and act. Now it is evident that both in good and in evil, act precedes power, as stated in Metaph. ix, 19. For it is better to do well than to be able to do well, and in like manner, it is more blameworthy to do evil, than to be able to do evil: whence it also follows that both in goodness and in badness, habit stands midway between power and act, so that, to wit, even as a good or evil habit stands above the corresponding power in goodness or in badness, so does it stand below the corresponding act. This is also made clear from the fact that a habit is not called good or bad, save in so far as it induces to a good or bad act: wherefore a habit is called good or bad by reason of the goodness or badness of its act: so that an act surpasses its habit in goodness or badness, since "the cause of a thing being such, is yet more so."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Nothing hinders one thing from standing above another simply, and below it in some respect. Now a thing is deemed above another simply if it surpasses it in a point which is proper to both; while it is deemed above it in a certain respect, if it surpasses it in something which is accidental to both. Now it has been shown from the very nature of act and habit, that act surpasses habit both in goodness and in badness. Whereas the fact that habit is more lasting than act, is accidental to them, and is due to the fact that they are both found in a nature such that it cannot always be in action, and whose action consists in a transient movement. Consequently act simply excels in goodness and badness, but habit excels in a certain respect.
 
 Reply to Objection 2: A habit is several acts, not simply, but in a certain respect, i.e. virtually. Wherefore this does not prove that habit precedes act simply, both in goodness and in badness.
 
 Reply to Objection 3: Habit causes act by way of efficient causality: but act causes habit, by way of final causality, in respect of which we consider the nature of good and evil. Consequently act surpasses habit both in goodness and in badness.
-## Whether Sin Is Compatible With Virtue?
+### Whether Sin Is Compatible With Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a vicious act, i.e. sin, is incompatible with virtue. For contraries cannot be together in the same subject. Now sin is, in some way, contrary to virtue, as stated above [1688](A[1]). Therefore sin is incompatible with virtue.
 
@@ -94,7 +94,7 @@ Objection 2: Further, sin is worse than vice, i.e. evil act than evil habit. But
 
 Objection 3: Further, sin occurs in natural things, even as in voluntary matters (Phys. ii, text. 82). Now sin never happens in natural things, except through some corruption of the natural power; thus monsters are due to corruption of some elemental force in the seed, as stated in Phys. ii. Therefore no sin occurs in voluntary matters, except through the corruption of some virtue in the soul: so that sin and virtue cannot be together in the same subject.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. ii, 2,3) that "virtue is engendered and corrupted by contrary causes." Now one virtuous act does not cause a virtue, as stated above ([1689]Q[51], A[3]): and, consequently, one sinful act does not corrupt virtue. Therefore they can be together in the same subject.
 
@@ -102,16 +102,16 @@ I answer that, Sin is compared to virtue, as evil act to good habit. Now the pos
 
 Accordingly, mortal sin is incompatible with the infused virtues, but is consistent with acquired virtue: while venial sin is compatible with virtues, whether infused or acquired.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Sin is contrary to virtue, not by reason of itself, but by reason of its act. Hence sin is incompatible with the act, but not with the habit, of virtue.
 
 Reply to Objection 2: Vice is directly contrary to virtue, even as sin to virtuous act: and so vice excludes virtue, just as sin excludes acts of virtue.
 
 Reply to Objection 3: The natural powers act of necessity, and hence so long as the power is unimpaired, no sin can be found in the act. On the other hand, the virtues of the soul do not produce their acts of necessity; hence the comparison fails.
-## Whether Every Sin Includes An Action?
+### Whether Every Sin Includes An Action?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that every sin includes an action. For as merit is compared with virtue, even so is sin compared with vice. Now there can be no merit without an action. Neither, therefore, can there be sin without action.
 
@@ -119,7 +119,7 @@ Objection 2: Further, Augustine says (De Lib. Arb. iii, 18) [*Cf. De Vera Relig.
 
 Objection 3: Further, if sin could be without act, it would follow that a man sins as soon as he ceases doing what he ought. Now he who never does something that he ought to do, ceases continually doing what he ought. Therefore it would follow that he sins continually; and this is untrue. Therefore there is no sin without an act.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (James 4:17): "To him . . . who knoweth to do good, and doth it not, to him it is a sin." Now "not to do" does not imply an act. Therefore sin can be without act.
 
@@ -131,16 +131,16 @@ If, however, in the sin of omission, we consider also the causes, or occasions o
 
 Now in judging about things, we must be guided by that which is proper to them, and not by that which is accidental: and consequently it is truer to say that a sin can be without any act; else the circumstantial acts and occasions would be essential to other actual sins.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: More things are required for good than for evil, since "good results from a whole and entire cause, whereas evil results from each single defect," as Dionysius states (Div. Nom. iv): so that sin may arise from a man doing what he ought not, or by his not doing what he ought; while there can be no merit, unless a man do willingly what he ought to do: wherefore there can be no merit without act, whereas there can be sin without act.
 
 Reply to Objection 2: The term "voluntary" is applied not only to that on which the act of the will is brought to bear, but also to that which we have the power to do or not to do, as stated in Ethic. iii, 5. Hence even not to will may be called voluntary, in so far as man has it in his power to will, and not to will.
 
 Reply to Objection 3: The sin of omission is contrary to an affirmative precept which binds always, but not for always. Hence, by omitting to act, a man sins only for the time at which the affirmative precept binds him to act.
-## Whether Sin Is Fittingly Defined As A Word, Deed, Or Desire Contrary To The Eternal Law?
+### Whether Sin Is Fittingly Defined As A Word, Deed, Or Desire Contrary To The Eternal Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sin is unfittingly defined by saying: "Sin is a word, deed, or desire, contrary to the eternal law." Because "Word," "deed," and "desire" imply an act; whereas not every sin implies an act, as stated above [1691](A[5]). Therefore this definition does not include every sin.
 
@@ -152,13 +152,13 @@ Objection 4: Further, a thing is said to be forbidden, because it is contrary to
 
 Objection 5: Further, a sin denotes a bad human act, as was explained above [1695](A[1]). Now man's evil is to be against reason, as Dionysius states (Div. Nom. iv). Therefore it would have been better to say that sin is against reason than to say that it is contrary to the eternal law.
 
-### Answer
+**Answer**
 
 On the contrary, the authority of Augustine suffices (Contra Faust. xxii, 27).
 
 I answer that, As was shown above [1696](A[1]), sin is nothing else than a bad human act. Now that an act is a human act is due to its being voluntary, as stated above (Q[1], A[1]), whether it be voluntary, as being elicited by the will, e.g. to will or to choose, or as being commanded by the will, e.g. the exterior actions of speech or operation. Again, a human act is evil through lacking conformity with its due measure: and conformity of measure in a thing depends on a rule, from which if that thing depart, it is incommensurate. Now there are two rules of the human will: one is proximate and homogeneous, viz. the human reason; the other is the first rule, viz. the eternal law, which is God's reason, so to speak. Accordingly Augustine (Contra Faust. xxii, 27) includes two things in the definition of sin; one, pertaining to the substance of a human act, and which is the matter, so to speak, of sin, when he says "word," "deed," or "desire"; the other, pertaining to the nature of evil, and which is the form, as it were, of sin, when he says, "contrary to the eternal law."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Affirmation and negation are reduced to one same genus: e.g. in Divine things, begotten and unbegotten are reduced to the genus "relation," as Augustine states (De Trin. v, 6,7): and so "word" and "deed" denote equally what is said and what is not said, what is done and what is not done.
 

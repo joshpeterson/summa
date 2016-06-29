@@ -5,15 +5,15 @@ We come now to the consideration of fate. Under this head there are four points 
 (2) Where is it?
 (3) Is it unchangeable?
 (4) Are all things subject to fate?
-## Whether There Be Such A Thing As Fate?
+### Whether There Be Such A Thing As Fate?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that fate is nothing. For Gregory says in a homily for the Epiphany (Hom. x in Evang.): "Far be it from the hearts of the faithful to think that fate is anything real."
 
 Objection 2: Further, what happens by fate is not unforeseen, for as Augustine says (De Civ. Dei v, 4), "fate is understood to be derived from the verb 'fari' which means to speak"; as though things were said to happen by fate, which are "fore-spoken" by one who decrees them to happen. Now what is foreseen is neither lucky nor chance-like. If therefore things happen by fate, there will be neither luck nor chance in the world.
 
-### Answer
+**Answer**
 
 On the contrary, What does not exist cannot be defined. But Boethius (De Consol. iv) defines fate thus: "Fate is a disposition inherent to changeable things, by which Providence connects each one with its proper order."
 
@@ -27,12 +27,12 @@ We must therefore say that what happens here by accident, both in natural things
 
 So therefore inasmuch as all that happens here below is subject to Divine Providence, as being pre-ordained, and as it were "fore-spoken," we can admit the existence of fate: although the holy doctors avoided the use of this word, on account of those who twisted its application to a certain force in the position of the stars. Hence Augustine says (De Civ. Dei v, 1): "If anyone ascribes human affairs to fate, meaning thereby the will or power of God, let him keep to his opinion, but hold his tongue." For this reason Gregory denies the existence of fate: wherefore the first objection's solution is manifest.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Nothing hinders certain things happening by luck or by chance, if compared to their proximate causes: but not if compared to Divine Providence, whereby "nothing happens at random in the world," as Augustine says (QQ. 83, qu. 24).
-## Whether Fate Is In Created Things?
+### Whether Fate Is In Created Things?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that fate is not in created things. For Augustine says (De Civ. Dei v, 1) that the "Divine will or power is called fate." But the Divine will or power is not in creatures, but in God. Therefore fate is not in creatures but in God.
 
@@ -40,22 +40,22 @@ Objection 2: Further, fate is compared to things that happen by fate, as their c
 
 Objection 3: Further, if fate is in creatures, it is either a substance or an accident: and whichever it is it must be multiplied according to the number of creatures. Since, therefore, fate seems to be one thing only, it seems that fate is not in creatures, but in God.
 
-### Answer
+**Answer**
 
 On the contrary, Boethius says (De Consol. iv): "Fate is a disposition inherent to changeable things."
 
 I answer that, As is clear from what has been stated above ([947]Q[22], A[3]; [948]Q[103], A[6]), Divine Providence produces effects through mediate causes. We can therefore consider the ordering of the effects in two ways. Firstly, as being in God Himself: and thus the ordering of the effects is called Providence. But if we consider this ordering as being in the mediate causes ordered by God to the production of certain effects, thus it has the nature of fate. This is what Boethius says (De Consol. iv): "Fate is worked out when Divine Providence is served by certain spirits; whether by the soul, or by all nature itself which obeys Him, whether by the heavenly movements of the stars, whether by the angelic power, or by the ingenuity of the demons, whether by some of these, or by all, the chain of fate is forged." Of each of these things we have spoken above [949](A[1]; [950]Q[104], A[2]; [951]Q[110], A[1]; [952]Q[113]; [953]Q[114]). It is therefore manifest that fate is in the created causes themselves, as ordered by God to the production of their effects.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The ordering itself of second causes, which Augustine (De Civ. Dei v, 8) calls the "series of causes," has not the nature of fate, except as dependent on God. Wherefore the Divine power or will can be called fate, as being the cause of fate. But essentially fate is the very disposition or "series," i.e. order, of second causes.
 
 Reply to Objection 2: Fate has the nature of a cause, just as much as the second causes themselves, the ordering of which is called fate.
 
 Reply to Objection 3: Fate is called a disposition, not that disposition which is a species of quality, but in the sense in which it signifies order, which is not a substance, but a relation. And if this order be considered in relation to its principle, it is one; and thus fate is one. But if it be considered in relation to its effects, or to the mediate causes, this fate is multiple. In this sense the poet wrote: "Thy fate draws thee."
-## Whether Fate Is Unchangeable?
+### Whether Fate Is Unchangeable?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fate is not unchangeable. For Boethius says (De Consol. iv): "As reasoning is to the intellect, as the begotten is to that which is, as time to eternity, as the circle to its centre; so is the fickle chain of fate to the unwavering simplicity of Providence."
 
@@ -63,7 +63,7 @@ Objection 2: Further, the Philosopher says (Topic. ii, 7): "If we be moved, what
 
 Objection 3: Further, if fate is unchangeable, what is subject to fate happens unchangeably and of necessity. But things ascribed to fate seem principally to be contingencies. Therefore there would be no contingencies in the world, but all things would happen of necessity.
 
-### Answer
+**Answer**
 
 On the contrary, Boethius says (De Consol. iv) that fate is an unchangeable disposition.
 
@@ -74,9 +74,9 @@ Others, on the other hand, held that fate is changeable, even as dependent on Di
 We must therefore say that fate, considered in regard to second causes, is changeable; but as subject to Divine Providence, it derives a certain unchangeableness, not of absolute but of conditional necessity. In this sense we say that this conditional is true and necessary: "If God foreknew that this would happen, it will happen." Wherefore Boethius, having said that the chain of fate is fickle, shortly afterwards adds---"which, since it is derived from an unchangeable Providence must also itself be unchangeable."
 
 From this the answers to the objections are clear.
-## Whether All Things Are Subject To Fate?
+### Whether All Things Are Subject To Fate?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that all things are subject to fate. For Boethius says (De Consol. iv): "The chain of fate moves the heaven and the stars, tempers the elements to one another, and models them by a reciprocal transformation. By fate all things that are born into the world and perish are renewed in a uniform progression of offspring and seed." Nothing therefore seems to be excluded from the domain of fate.
 
@@ -84,13 +84,13 @@ Objection 2: Further, Augustine says (De Civ. Dei v, 1) that fate is something r
 
 Objection 3: Further, Boethius says (De Consol. iv) that fate "is a disposition inherent to changeable things." But all creatures are changeable, and God alone is truly unchangeable, as stated above ([955]Q[9], A[2]). Therefore fate is in all things.
 
-### Answer
+**Answer**
 
 On the contrary, Boethius says (De Consol. iv) that "some things subject to Providence are above the ordering of fate."
 
 I answer that, As stated above [956](A[2]), fate is the ordering of second causes to effects foreseen by God. Whatever, therefore, is subject to second causes, is subject also to fate. But whatever is done immediately by God, since it is not subject to second causes, neither is it subject to fate; such are creation, the glorification of spiritual substances, and the like. And this is what Boethius says (De Consol. iv): viz. that "those things which are nigh to God have a state of immobility, and exceed the changeable order of fate." Hence it is clear that "the further a thing is from the First Mind, the more it is involved in the chain of fate"; since so much the more it is bound up with second causes.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All the things mentioned in this passage are done by God by means of second causes; for this reason they are contained in the order of fate. But it is not the same with everything else, as stated above.
 

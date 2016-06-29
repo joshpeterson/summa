@@ -7,9 +7,9 @@ We must now consider hatred: concerning which there are six points of inquiry:
 (4) Whether a man can hate himself?
 (5) Whether a man can hate the truth?
 (6) Whether a thing can be the object of universal hatred?
-## Whether Evil Is The Cause And Object Of Hatred?
+### Whether Evil Is The Cause And Object Of Hatred?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that evil is not the object and cause of hatred. For everything that exists, as such, is good. If therefore evil be the object of hatred, it follows that nothing but the lack of something can be the object of hatred: which is clearly untrue.
 
@@ -17,22 +17,22 @@ Objection 2: Further, hatred of evil is praise-worthy; hence (2 Macc 3:1) some a
 
 Objection 3: Further, the same thing is not at the same time both good and evil. But the same thing is lovable and hateful to different subjects. Therefore hatred is not only of evil, but also of good.
 
-### Answer
+**Answer**
 
 On the contrary, Hatred is the opposite of love. But the object of love is good, as stated above ([1246]Q[26], A[1];[1247] Q[27], A[1]). Therefore the object of hatred is evil.
 
 I answer that, Since the natural appetite is the result of apprehension (though this apprehension is not in the same subject as the natural appetite), it seems that what applies to the inclination of the natural appetite, applies also to the animal appetite, which does result from an apprehension in the same subject, as stated above ([1248]Q[26], A[1]). Now, with regard to the natural appetite, it is evident, that just as each thing is naturally attuned and adapted to that which is suitable to it, wherein consists natural love; so has it a natural dissonance from that which opposes and destroys it; and this is natural hatred. So, therefore, in the animal appetite, or in the intellectual appetite, love is a certain harmony of the appetite with that which is apprehended as suitable; while hatred is dissonance of the appetite from that which is apprehended as repugnant and hurtful. Now, just as whatever is suitable, as such, bears the aspect of good; so whatever is repugnant, as such, bears the aspect of evil. And therefore, just as good is the object of love, so evil is the object of hatred.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Being, as such, has not the aspect of repugnance but only of fittingness; because being is common to all things. But being, inasmuch as it is this determinate being, has an aspect of repugnance to some determinate being. And in this way, one being is hateful to another, and is evil; though not in itself, but by comparison with something else.
 
 Reply to Objection 2: Just as a thing may be apprehended as good, when it is not truly good; so a thing may be apprehended as evil, whereas it is not truly evil. Hence it happens sometimes that neither hatred of evil nor love of good is good.
 
 Reply to Objection 3: To different things the same thing may be lovable or hateful: in respect of the natural appetite, owing to one and the same thing being naturally suitable to one thing, and naturally unsuitable to another: thus heat is becoming to fire and unbecoming to water: and in respect of the animal appetite, owing to one and the same thing being apprehended by one as good, by another as bad.
-## Whether Love Is A Cause Of Hatred?
+### Whether Love Is A Cause Of Hatred?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that love is not a cause of hatred. For "the opposite members of a division are naturally simultaneous" (Praedic. x). But love and hatred are opposite members of a division, since they are contrary to one another. Therefore they are naturally simultaneous. Therefore love is not the cause of hatred.
 
@@ -40,22 +40,22 @@ Objection 2: Further, of two contraries, one is not the cause of the other. But 
 
 Objection 3: Further, that which follows is not the cause of that which precedes. But hatred precedes love, seemingly: since hatred implies a turning away from evil, whereas love implies a turning towards good. Therefore love is not the cause of hatred.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xiv, 7,9) that all emotions are caused by love. Therefore hatred also, since it is an emotion of the soul, is caused by love.
 
 I answer that, As stated above [1249](A[1]), love consists in a certain agreement of the lover with the object loved, while hatred consists in a certain disagreement or dissonance. Now we should consider in each thing, what agrees with it, before that which disagrees: since a thing disagrees with another, through destroying or hindering that which agrees with it. Consequently love must needs precede hatred; and nothing is hated, save through being contrary to a suitable thing which is loved. And hence it is that every hatred is caused by love.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The opposite members of a division are sometimes naturally simultaneous, both really and logically; e.g. two species of animal, or two species of color. Sometimes they are simultaneous logically, while, in reality, one precedes, and causes the other; e.g. the species of numbers, figures and movements. Sometimes they are not simultaneous either really or logically; e.g. substance and accident; for substance is in reality the cause of accident; and being is predicated of substance before it is predicated of accident, by a priority of reason, because it is not predicated of accident except inasmuch as the latter is in substance. Now love and hatred are naturally simultaneous, logically but not really. Wherefore nothing hinders love from being the cause of hatred.
 
 Reply to Objection 2: Love and hatred are contraries if considered in respect of the same thing. But if taken in respect of contraries, they are not themselves contrary, but consequent to one another: for it amounts to the same that one love a certain thing, or that one hate its contrary. Thus love of one thing is the cause of one's hating its contrary.
 
 Reply to Objection 3: In the order of execution, the turning away from one term precedes the turning towards the other. But the reverse is the case in the order of intention: since approach to one term is the reason for turning away from the other. Now the appetitive movement belongs rather to the order of intention than to that of execution. Wherefore love precedes hatred: because each is an appetitive movement.
-## Whether Hatred Is Stronger Than Love?
+### Whether Hatred Is Stronger Than Love?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hatred is stronger than love. For Augustine says (QQ. 83, qu. 36): "There is no one who does not flee from pain, more than he desires pleasure." But flight from pain pertains to hatred; while desire for pleasure belongs to love. Therefore hatred is stronger than love.
 
@@ -63,7 +63,7 @@ Objection 2: Further, the weaker is overcome by the stronger. But love is overco
 
 Objection 3: Further, the emotions of the soul are shown by their effects. But man insists more on repelling what is hateful, than on seeking what is pleasant: thus also irrational animals refrain from pleasure for fear of the whip, as Augustine instances (QQ. 83, qu. 36). Therefore hatred is stronger than love.
 
-### Answer
+**Answer**
 
 On the contrary, Good is stronger than evil; because "evil does nothing except in virtue of good," as Dionysius says (Div. Nom. iv). But hatred and love differ according to the difference of good and evil. Therefore love is stronger than hatred.
 
@@ -74,9 +74,9 @@ But furthermore, love must needs be, absolutely speaking, stronger than hatred. 
 Nevertheless hatred sometimes seems to be stronger than love, for two reasons. First, because hatred is more keenly felt than love. For, since the sensitive perception is accompanied by a certain impression; when once the impression has been received it is not felt so keenly as in the moment of receiving it. Hence the heat of a hectic fever, though greater, is nevertheless not felt so much as the heat of tertian fever; because the heat of the hectic fever is habitual and like a second nature. For this reason, love is felt more keenly in the absence of the object loved; thus Augustine says (De Trin. x, 12) that "love is felt more keenly when we lack what we love." And for the same reason, the unbecomingness of that which is hated is felt more keenly than the becomingness of that which is loved. Secondly, because comparison is made between a hatred and a love which are not mutually corresponding. Because, according to different degrees of good there are different degrees of love to which correspond different degrees of hatred. Wherefore a hatred that corresponds to a greater love, moves us more than a lesser love.
 
 Hence it is clear how to reply to the First Objection. For the love of pleasure is less than the love of self-preservation, to which corresponds flight from pain. Wherefore we flee from pain more than we love pleasure.
-## Whether A Man Can Hate Himself?
+### Whether A Man Can Hate Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man can hate himself. For it is written (Ps. 10:6): "He that loveth iniquity, hateth his own soul." But many love iniquity. Therefore many hate themselves.
 
@@ -84,7 +84,7 @@ Objection 2: Further, him we hate, to whom we wish and work evil. But sometimes 
 
 Objection 3: Further, Boethius says (De Consol. ii) that "avarice makes a man hateful"; whence we may conclude that everyone hates a miser. But some men are misers. Therefore they hate themselves.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Eph. 5:29) that "no man ever hated his own flesh."
 
@@ -94,14 +94,14 @@ But accidentally it happens that a man hates himself: and this in two ways. Firs
 
 Wherefore the reply to the First Objection is evident.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: No man wills and works evil to himself, except he apprehend it under the aspect of good. For even they who kill themselves, apprehend death itself as a good, considered as putting an end to some unhappiness or pain.
 
 Reply to Objection 3: The miser hates something accidental to himself, but not for that reason does he hate himself: thus a sick man hates his sickness for the very reason that he loves himself. Or we may say that avarice makes man hateful to others, but not to himself. In fact, it is caused by inordinate self-love, in respect of which, man desires temporal goods for himself more than he should.
-## Whether A Man Can Hate The Truth?
+### Whether A Man Can Hate The Truth?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man cannot hate the truth. For good, true, and being are convertible. But a man cannot hate good. Neither, therefore, can he hate the truth.
 
@@ -109,7 +109,7 @@ Objection 2: Further, "All men have a natural desire for knowledge," as stated i
 
 Objection 3: Further, the Philosopher says (Rhet. ii, 4) that "men love those who are straightforward." But there can be no other motive for this save truth. Therefore man loves the truth naturally. Therefore he cannot hate it.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Gal. 4:16): "Am I become your enemy because I tell you the truth?" [*St. Thomas quotes the passage, probably from memory, as though it were an assertion: "I am become," etc.]
 
@@ -117,14 +117,14 @@ I answer that, Good, true and being are the same in reality, but differ as consi
 
 Now it may happen in three ways that some particular truth is repugnant or hurtful to the good we love. First, according as truth is in things as in its cause and origin. And thus man sometimes hates a particular truth, when he wishes that what is true were not true. Secondly, according as truth is in man's knowledge, which hinders him from gaining the object loved: such is the case of those who wish not to know the truth of faith, that they may sin freely; in whose person it is said (Job 21:14): "We desire not the knowledge of Thy ways." Thirdly, a particular truth is hated, as being repugnant, inasmuch as it is in the intellect of another man: as, for instance, when a man wishes to remain hidden in his sin, he hates that anyone should know the truth about his sin. In this respect, Augustine says (Confess. x, 23) that men "love truth when it enlightens, they hate it when it reproves." This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The knowledge of truth is lovable in itself: hence Augustine says that men love it when it enlightens. But accidentally, the knowledge of truth may become hateful, in so far as it hinders one from accomplishing one's desire.
 
 Reply to Objection 3: The reason why we love those who are straightforward is that they make known the truth, and the knowledge of the truth, considered in itself, is a desirable thing.
-## Whether Anything Can Be An Object Of Universal Hatred?
+### Whether Anything Can Be An Object Of Universal Hatred?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a thing cannot be an object of universal hatred. Because hatred is a passion of the sensitive appetite, which is moved by an apprehension in the senses. But the senses cannot apprehend the universal. Therefore a thing cannot be an object of universal hatred.
 
@@ -132,7 +132,7 @@ Objection 2: Further, hatred is caused by disagreement; and where there is disag
 
 Objection 3: Further, the object of hatred is evil. But "evil is in things, and not in the mind" (Metaph. vi, 4). Since therefore the universal is in the mind only, which abstracts the universal from the particular, it would seem that hatred cannot have a universal object.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Rhet. ii, 4) that "anger is directed to something singular, whereas hatred is also directed to a thing in general; for everybody hates the thief and the backbiter."
 
@@ -142,7 +142,7 @@ Nevertheless the sensitive powers, both of apprehension and of appetite, can ten
 
 But according as hatred is in the intellectual part, since it arises from the universal apprehension of the intellect, it can regard the universal in both ways.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The senses do not apprehend the universal, as such: but they apprehend something to which the character of universality is given by abstraction.
 

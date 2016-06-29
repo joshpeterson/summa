@@ -3,9 +3,9 @@
 We must now consider the possibility of satisfaction, under which head there are two points of inquiry:
 (1) Whether man can make satisfaction to God?
 (2) Whether one man can make satisfaction for another?
-## Whether Man Can Make Satisfaction To God?
+### Whether Man Can Make Satisfaction To God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man cannot make satisfaction to God. For satisfaction should balance the offense, as shown above ([4854]Q[12], AA[2],3). But an offense against God is infinite, since it is measured by the person against whom it is committed, for it is a greater offense to strike a prince than anyone else. Therefore, as no action of man can be infinite, it seems that he cannot make satisfaction to God.
 
@@ -17,13 +17,13 @@ Objection 4: Further, man is bound to spend all his time in the service of God. 
 
 Objection 5: Further, mortal actual sin is more grievous than original sin. But none could satisfy for original sin unless he were both God and man. Neither, therefore, can he satisfy for actual sin.
 
-### Answer
+**Answer**
 
 On the contrary, Jerome [*Pelagius, Expos. Fidei ad Damasum] says: "Whoever maintains that God has commanded anything impossible to man, let him be anathema." But satisfaction is commanded (Lk. 3:8): "Bring forth . . . fruits worthy of penance." Therefore it is possible to make satisfaction to God.
 
 I answer that, Man becomes God's debtor in two ways; first, by reason of favors received, secondly, by reason of sin committed: and just as thanksgiving or worship or the like regard the debt for favors received, so satisfaction regards the debt for sin committed. Now in giving honor to one's parents or to the gods, as indeed the Philosopher says (Ethic. viii, 14), it is impossible to repay them measure for measure, but it suffices that man repay as much as he can, for friendship does not demand measure for measure, but what is possible. Yet even this is equal somewhat, viz. according to proportion, for as the debt due to God is, in comparison with God, so is what man can do, in comparison with himself, so that in another way the form of justice is preserved. It is the same as regards satisfaction. Consequently man cannot make satisfaction to God if "satis" [enough] denotes quantitative equality; but he can, if it denote proportionate equality, as explained above, and as this suffices for justice, so does it suffice for satisfaction.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as the offense derived a certain infinity from the infinity of the Divine majesty, so does satisfaction derive a certain infinity from the infinity of Divine mercy, in so far as it is quickened by grace, whereby whatever man is able to repay becomes acceptable. Others, however, say that the offense is infinite as regards the aversion, and in this respect it is pardoned gratuitously, but that it is finite as turning to a mutable good, in which respect it is possible to make satisfaction for it. But this is not to the point, since satisfaction does not answer to sin, except as this is an offense against God, which is a matter, not of turning to a creature but of turning away from God. Others again say that even as regards the aversion it is possible to make satisfaction for sin in virtue of Christ's merit, which was, in a way, infinite. And this comes to the same as what we said before, since grace is given to believers through faith in the Mediator. If, however, He were to give grace otherwise, satisfaction would suffice in the way explained above.
 
@@ -34,9 +34,9 @@ Reply to Objection 3: This argument proves that it is impossible to make equival
 Reply to Objection 4: Though man cannot recover the time that is past, he can in the time that follows make compensation for what he should have done in the past, since the commandment did not exact from him the fulfillment of his whole power, as stated above (ad 3).
 
 Reply to Objection 5: Though original sin has less of the nature of sin than actual sin has, yet it is a more grievous evil, because it is an infection of human nature itself, so that, unlike actual sin, it could not be expiated by the satisfaction of a mere man.
-## Whether One Man Can Fulfill Satisfactory Punishment For Another?
+### Whether One Man Can Fulfill Satisfactory Punishment For Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one man cannot fulfill satisfactory punishment for another. Because merit is requisite for satisfaction. Now one man cannot merit or demerit for another, since it is written (Ps. 61:12): "Thou wilt render to every man according to his works." Therefore one man cannot make satisfaction for another.
 
@@ -46,13 +46,13 @@ Objection 3: Further, by praying for another one merits also for oneself. If the
 
 Objection 4: Further, if one can satisfy for another, as soon as he takes the debt of punishment on himself, this other is freed from his debt. Therefore the latter will go straight to heaven, if he die after the whole of his debt of punishment has been taken up by another; else, if he be punished all the same, a double punishment will be paid for the same sin, viz. by him who has begun to make satisfaction, and by him who is punished in Purgatory.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gal. 6:2): "Bear ye one another's burdens." Therefore it seems that one can bear the burden of punishment laid upon another.
 
 I answer that, Satisfactory punishment has a twofold purpose, viz. to pay the debt, and to serve as a remedy for the avoidance of sin. Accordingly, as a remedy against future sin, the satisfaction of one does not profit another, for the flesh of one man is not tamed by another's fast; nor does one man acquire the habit of well-doing, through the actions of another, except accidentally, in so far as a man, by his good actions, may merit an increase of grace for another, since grace is the most efficacious remedy for the avoidance of sin. But this is by way of merit rather than of satisfaction. on the other hand, as regards the payment of the debt, one man can satisfy for another, provided he be in a state of charity, so that his works may avail for satisfaction. Nor is it necessary that he who satisfies for another should undergo a greater punishment than the principal would have to undergo (as some maintain, who argue that a man profits more by his own punishment than by another's), because punishment derives its power of satisfaction chiefly from charity whereby man bears it. And since greater charity is evidenced by a man satisfying for another than for himself, less punishment is required of him who satisfies for another, than of the principal: wherefore we read in the Lives of the Fathers (v, 5) of one who for love of his brother did penance for a sin which his brother had not committed, and that on account of his charity his brother was released from a sin which he had committed. Nor is it necessary that the one for whom satisfaction is made should be unable to make satisfaction himself, for even if he were able, he would be released from his debt when the other satisfied in his stead. But this is necessary in so far as the satisfactory punishment is medicinal: so that a man is not to be allowed to do penance for another, unless there be evidence of some defect in the penitent, either bodily, so that he is unable to bear it, or spiritual, so that he is not ready to undergo it.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The essential reward is bestowed on a man according to his disposition, because the fulness of the sight of God will be according to the capacity of those who see Him. Wherefore just as one man is not disposed thereto by another's act, so one man does not merit the essential reward for another, unless his merit has infinite efficacy, as the merit of Christ, whereby children come to eternal life through Baptism. On the other hand, the temporal punishment due to sin after the guilt has been forgiven is not measured according to the disposition of the man to whom it is due, since sometimes the better man owes a greater debt of punishment. Consequently one man can merit for another as regards release from punishment, and one man's act becomes another's, by means of charity whereby we are "all one in Christ" (Gal. 3:28).
 

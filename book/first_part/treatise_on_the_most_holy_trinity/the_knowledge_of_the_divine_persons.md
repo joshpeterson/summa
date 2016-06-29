@@ -5,9 +5,9 @@ We proceed to inquire concerning the knowledge of the divine persons; and this i
 (2) Whether notions are to be attributed to the divine persons?
 (3) The number of the notions?
 (4) Whether we may lawfully have various contrary opinions of these notions?
-## Whether The Trinity Of The Divine Persons Can Be Known By Natural Reason?
+### Whether The Trinity Of The Divine Persons Can Be Known By Natural Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the trinity of the divine persons can be known by natural reason. For philosophers came to the knowledge of God not otherwise than by natural reason. Now we find that they said many things about the trinity of persons, for Aristotle says (De Coelo et Mundo i, 2): "Through this number"---namely, three---"we bring ourselves to acknowledge the greatness of one God, surpassing all things created." And Augustine says (Confess. vii, 9): "I have read in their works, not in so many words, but enforced by many and various reasons, that in the beginning was the Word, and the Word was with God, and the Word was God," and so on; in which passage the distinction of persons is laid down. We read, moreover, in a gloss on Rom. 1 and Ex. 8 that the magicians of Pharaoh failed in the third sign---that is, as regards knowledge of a third person---i.e. of the Holy Ghost ---and thus it is clear that they knew at least two persons. Likewise Trismegistus says: "The monad begot a monad, and reflected upon itself its own heat." By which words the generation of the Son and procession of the Holy Ghost seem to be indicated. Therefore knowledge of the divine persons can be obtained by natural reason.
 
@@ -15,7 +15,7 @@ Objection 2: Further, Richard St. Victor says (De Trin. i, 4): "I believe withou
 
 Objection 3: Further, it seems to be superfluous to teach what cannot be known by natural reason. But it ought not to be said that the divine tradition of the Trinity is superfluous. Therefore the trinity of persons can be known by natural reason.
 
-### Answer
+**Answer**
 
 On the contrary, Hilary says (De Trin. i), "Let no man think to reach the sacred mystery of generation by his own mind." And Ambrose says (De Fide ii, 5), "It is impossible to know the secret of generation. The mind fails, the voice is silent." But the trinity of the divine persons is distinguished by origin of generation and procession ([272]Q[30], A[2]). Since, therefore, man cannot know, and with his understanding grasp that for which no necessary reason can be given, it follows that the trinity of persons cannot be known by reason.
 
@@ -23,16 +23,16 @@ I answer that, It is impossible to attain to the knowledge of the Trinity by nat
 
 Therefore, we must not attempt to prove what is of faith, except by authority alone, to those who receive the authority; while as regards others it suffices to prove that what faith teaches is not impossible. Hence it is said by Dionysius (Div. Nom. ii): "Whoever wholly resists the word, is far off from our philosophy; whereas if he regards the truth of the word"---i.e. "the sacred word, we too follow this rule."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The philosophers did not know the mystery of the trinity of the divine persons by its proper attributes, such as paternity, filiation, and procession, according to the Apostle's words, "We speak the wisdom of God which none of the princes of the world"---i.e. the philosophers---"knew" (1 Cor. 2:6). Nevertheless, they knew some of the essential attributes appropriated to the persons, as power to the Father, wisdom to the Son, goodness to the Holy Ghost; as will later on appear. So, when Aristotle said, "By this number," etc., we must not take it as if he affirmed a threefold number in God, but that he wished to say that the ancients used the threefold number in their sacrifices and prayers on account of some perfection residing in the number three. In the Platonic books also we find, "In the beginning was the word," not as meaning the Person begotten in God, but as meaning the ideal type whereby God made all things, and which is appropriated to the Son. And although they knew these were appropriated to the three persons, yet they are said to have failed in the third sign---that is, in the knowledge of the third person, because they deviated from the goodness appropriated to the Holy Ghost, in that knowing God "they did not glorify Him as God" (Rom. 1); or, because the Platonists asserted the existence of one Primal Being whom they also declared to be the father of the universe, they consequently maintained the existence of another substance beneath him, which they called "mind" or the "paternal intellect," containing the idea of all things, as Macrobius relates (Som. Scip. iv). They did not, however, assert the existence of a third separate substance which might correspond to the Holy Ghost. So also we do not assert that the Father and the Son differ in substance, which was the error of Origen and Arius, who in this followed the Platonists. When Trismegistus says, "Monad begot monad," etc., this does not refer to the generation of the Son, or to the procession of the Holy Ghost, but to the production of the world. For one God produced one world by reason of His love for Himself.
 
 Reply to Objection 2: Reason may be employed in two ways to establish a point: firstly, for the purpose of furnishing sufficient proof of some principle, as in natural science, where sufficient proof can be brought to show that the movement of the heavens is always of uniform velocity. Reason is employed in another way, not as furnishing a sufficient proof of a principle, but as confirming an already established principle, by showing the congruity of its results, as in astrology the theory of eccentrics and epicycles is considered as established, because thereby the sensible appearances of the heavenly movements can be explained; not, however, as if this proof were sufficient, forasmuch as some other theory might explain them. In the first way, we can prove that God is one; and the like. In the second way, reasons avail to prove the Trinity; as, when assumed to be true, such reasons confirm it. We must not, however, think that the trinity of persons is adequately proved by such reasons. This becomes evident when we consider each point; for the infinite goodness of God is manifested also in creation, because to produce from nothing is an act of infinite power. For if God communicates Himself by His infinite goodness, it is not necessary that an infinite effect should proceed from God: but that according to its own mode and capacity it should receive the divine goodness. Likewise, when it is said that joyous possession of good requires partnership, this holds in the case of one not having perfect goodness: hence it needs to share some other's good, in order to have the goodness of complete happiness. Nor is the image in our mind an adequate proof in the case of God, forasmuch as the intellect is not in God and ourselves univocally. Hence, Augustine says (Tract. xxvii. in Joan.) that by faith we arrive at knowledge, and not conversely.
 
 Reply to Objection 3: There are two reason why the knowledge of the divine persons was necessary for us. It was necessary for the right idea of creation. The fact of saying that God made all things by His Word excludes the error of those who say that God produced things by necessity. When we say that in Him there is a procession of love, we show that God produced creatures not because He needed them, nor because of any other extrinsic reason, but on account of the love of His own goodness. So Moses, when he had said, "In the beginning God created heaven and earth," subjoined, "God said, Let there be light," to manifest the divine Word; and then said, "God saw the light that it was good," to show proof of the divine love. The same is also found in the other works of creation. In another way, and chiefly, that we may think rightly concerning the salvation of the human race, accomplished by the Incarnate Son, and by the gift of the Holy Ghost.
-## Whether There Are Notions In God?
+### Whether There Are Notions In God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in God there are no notions. For Dionysius says (Div. Nom. i): "We must not dare to say anything of God but what is taught to us by the Holy Scripture." But Holy Scripture does not say anything concerning notions. Therefore there are none in God.
 
@@ -40,7 +40,7 @@ Objection 2: Further, all that exists in God concerns the unity of the essence o
 
 Objection 3: Further, we do not require to presuppose any abstract notions as principles of knowing things which are devoid of composition: for they are known of themselves. But the divine persons are supremely simple. Therefore we are not to suppose any notions in God.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iii, 5): "We recognize difference of hypostases [i.e. of persons], in the three properties; i.e. in the paternal, the filial, and the processional." Therefore we must admit properties and notions in God.
 
@@ -56,16 +56,16 @@ The second motive is because one person in God is related to two persons---namel
 
 Further, in God there is no need to admit any real relation to the creature ([276]Q[28], A[1],3); while there is no reason against our admitting in God, many logical relations. But in the Father there must be a real relation to the Son and to the Holy Ghost. Hence, corresponding to the two relations of the Son and of the Holy Ghost, whereby they are related to the Father, we must understand two relations in the Father, whereby He is related to the Son and to the Holy Ghost. Hence, since there is only one Person of the Father, it is necessary that the relations should be separately signified in the abstract; and these are what we mean by properties and notions.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the notions are not mentioned in Holy Scripture, yet the persons are mentioned, comprising the idea of notions, as the abstract is contained in the concrete.
 
 Reply to Objection 2: In God the notions have their significance not after the manner of realities, but by way of certain ideas whereby the persons are known; although in God these notions or relations are real, as stated above ([277]Q[28], A[1]). Therefore whatever has order to any essential or personal act, cannot be applied to the notions; forasmuch as this is against their mode of signification. Hence we cannot say that paternity begets, or creates, or is wise, or is intelligent. The essentials, however, which are not ordered to any act, but simply remove created conditions from God, can be predicated of the notions; for we can say that paternity is eternal, or immense, or such like. So also on account of the real identity, substantive terms, whether personal or essential, can be predicated of the notions; for we can say that paternity is God, and that paternity is the Father.
 
 Reply to Objection 3: Although the persons are simple, still without prejudice to their simplicity, the proper ideas of the persons can be abstractedly signified, as above explained.
-## Whether There Are Five Notions?
+### Whether There Are Five Notions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are not five notions. For the notions proper to the persons are the relations whereby they are distinguished from each other. But the relations in God are only four ([278]Q[28], A[4]). Therefore the notions are only four in number.
 
@@ -77,7 +77,7 @@ Objection 4: On the contrary, It seems that there are more; because as the Fathe
 
 Objection 5: Further, as the Father and the Son are the common origin of the Holy Ghost, so it is common to the Son and the Holy Ghost to proceed from the Father. Therefore, as one notion is common to the Father and the Son, so there ought to be one notion common to the Son and to the Holy Ghost.
 
-### Answer
+**Answer**
 
 
 
@@ -85,7 +85,7 @@ I answer that, A notion is the proper idea whereby we know a divine Person. Now 
 
 Therefore, there are Five notions in God: "innascibility," "paternity," "filiation," "common spiration," and "procession." Of these only four are relations, for "innascibility" is not a relation, except by reduction, as will appear later ([279]Q[33], A[4], ad 3). Four only are properties. For "common spiration" is not a property; because it belongs to two persons. Three are personal notions---i.e. constituting persons, "paternity," "filiation," and "procession." "Common spiration" and "innascibility" are called notions of Persons, but not personal notions, as we shall explain further on ([280]Q[40], A[1], ad 1).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Besides the four relations, another notion must be admitted, as above explained.
 
@@ -96,15 +96,15 @@ Reply to Objection 3: Since the real plurality in God is founded only on relativ
 Reply to Objection 4: Since Person implies dignity, as stated above ([281]Q[19], A[3] ) we cannot derive a notion of the Holy Spirit from the fact that no person is from Him. For this does not belong to His dignity, as it belongs to the authority of the Father that He is from no one.
 
 Reply to Objection 5: The Son and the Holy Ghost do not agree in one special mode of existence derived from the Father; as the Father and the Son agree in one special mode of producing the Holy Ghost. But the principle on which a notion is based must be something special; thus no parity of reasoning exists.
-## Whether It Is Lawful To Have Various Contrary Opinions Of Notions?
+### Whether It Is Lawful To Have Various Contrary Opinions Of Notions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not lawful to have various contrary opinions of the notions. For Augustine says (De Trin. i, 3): "No error is more dangerous than any as regards the Trinity": to which mystery the notions assuredly belong. But contrary opinions must be in some way erroneous. Therefore it is not right to have contrary opinions of the notions.
 
 Objection 2: Further, the persons are known by the notions. But no contrary opinion concerning the persons is to be tolerated. Therefore neither can there be about the notions.
 
-### Answer
+**Answer**
 
 On the contrary, The notions are not articles of faith. Therefore different opinions of the notions are permissible.
 

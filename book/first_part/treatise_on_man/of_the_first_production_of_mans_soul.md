@@ -5,9 +5,9 @@ After the foregoing we must consider the first production of man, concerning whi
 (2) Whether, if made, it was created?
 (3) Whether it was made by angelic instrumentality?
 (4) Whether it was made before the body?
-## Whether The Soul Was Made Or Was Of God's Substance?
+### Whether The Soul Was Made Or Was Of God's Substance?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the soul was not made, but was God's substance. For it is written (Gn. 2:7): "God formed man of the slime of the earth, and breathed into his face the breath of life, and man was made a living soul." But he who breathes sends forth something of himself. Therefore the soul, whereby man lives, is of the Divine substance.
 
@@ -15,7 +15,7 @@ Objection 2: Further, as above explained ([747]Q[75], A[5]), the soul is a simpl
 
 Objection 3: Further, things that exist and do differ are the same. But God and the mind exist, and in no way differ, for they could only be differentiated by certain differences, and thus would be composite. Therefore God and the human mind are the same.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine (De Orig. Animae iii, 15) mentions certain opinions which he calls "exceedingly and evidently perverse, and contrary to the Catholic Faith," among which the first is the opinion that "God made the soul not out of nothing, but from Himself."
 
@@ -27,16 +27,16 @@ Then a further step in advance was made, and some surmised the existence of some
 
 But, all these theories are impossible, as proved above ([753]Q[3], AA[1],8; and [754]Q[75], A[1]), wherefore it is evidently false that the soul is of the substance of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The term "breathe" is not to be taken in the material sense; but as regards the act of God, to breathe [spirare], is the same as to "make a spirit." Moreover, in the material sense, man by breathing does not send forth anything of his own substance, but an extraneous thing.
 
 Reply to Objection 2: Although the soul is a simple form in its essence, yet it is not its own existence, but is a being by participation, as above explained ([755]Q[75], A[5], ad 4). Therefore it is not a pure act like God.
 
 Reply to Objection 3: That which differs, properly speaking, differs in something; wherefore we seek for difference where we find also resemblance. For this reason things which differ must in some way be compound; since they differ in something, and in something resemble each other. In this sense, although all that differ are diverse, yet all things that are diverse do not differ. For simple things are diverse; yet do not differ from one another by differences which enter into their composition. For instance, a man and a horse differ by the difference of rational and irrational; but we cannot say that these again differ by some further difference.
-## Whether The Soul Was Produced By Creation?
+### Whether The Soul Was Produced By Creation?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the soul was not produced by creation. For that which has in itself something material is produced from matter. But the soul is in part material, since it is not a pure act. Therefore the soul was made of matter; and hence it was not created.
 
@@ -44,22 +44,22 @@ Objection 2: Further, every actuality of matter is educed from the potentiality 
 
 Objection 3: Further, the soul is a form. Therefore, if the soul is created, all other forms also are created. Thus no forms would come into existence by generation; which is not true.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gn. 1:27): "God created man to His own image." But man is like to God in his soul. Therefore the soul was created.
 
 I answer that, The rational soul can be made only by creation; which, however, is not true of other forms. The reason is because, since to be made is the way to existence, a thing must be made in such a way as is suitable to its mode of existence. Now that properly exists which itself has existence; as it were, subsisting in its own existence. Wherefore only substances are properly and truly called beings; whereas an accident has not existence, but something is (modified) by it, and so far is it called a being; for instance, whiteness is called a being, because by it something is white. Hence it is said Metaph. vii, Did. vi, 1 that an accident should be described as "of something rather than as something." The same is to be said of all non-subsistent forms. Therefore, properly speaking, it does not belong to any non-existing form to be made; but such are said to be made through the composite substances being made. On the other hand, the rational soul is a subsistent form, as above explained ([756]Q[75], A[2]). Wherefore it is competent to be and to be made. And since it cannot be made of pre-existing matter---whether corporeal, which would render it a corporeal being---or spiritual, which would involve the transmutation of one spiritual substance into another, we must conclude that it cannot exist except by creation.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The soul's simple essence is as the material element, while its participated existence is its formal element; which participated existence necessarily co-exists with the soul's essence, because existence naturally follows the form. The same reason holds if the soul is supposed to be composed of some spiritual matter, as some maintain; because the said matter is not in potentiality to another form, as neither is the matter of a celestial body; otherwise the soul would be corruptible. Wherefore the soul cannot in any way be made of pre-existent matter.
 
 Reply to Objection 2: The production of act from the potentiality of matter is nothing else but something becoming actually that previously was in potentiality. But since the rational soul does not depend in its existence on corporeal matter, and is subsistent, and exceeds the capacity of corporeal matter, as we have seen ([757]Q[75], A[2]), it is not educed from the potentiality of matter.
 
 Reply to Objection 3: As we have said, there is no comparison between the rational soul and other forms.
-## Whether The Rational Soul Is Produced By God Immediately?
+### Whether The Rational Soul Is Produced By God Immediately?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the rational soul is not immediately made by God, but by the instrumentality of the angels. For spiritual things have more order than corporeal things. But inferior bodies are produced by means of the superior, as Dionysius says (Div. Nom. iv). Therefore also the inferior spirits, who are the rational souls, are produced by means of the superior spirits, the angels.
 
@@ -67,16 +67,16 @@ Objection 2: Further, the end corresponds to the beginning of things; for God is
 
 Objection 3: Further, "perfect is that which can produce its like," as is stated Metaph. v. But spiritual substances are much more perfect than corporeal. Therefore, since bodies produce their like in their own species, much more are angels able to produce something specifically inferior to themselves; and such is the rational soul.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gn. 2:7) that God Himself "breathed into the face of man the breath of life."
 
 I answer that, Some have held that angels, acting by the power of God, produce rational souls. But this is quite impossible, and is against faith. For it has been proved that the rational soul cannot be produced except by creation. Now, God alone can create; for the first agent alone can act without presupposing the existence of anything; while the second cause always presupposes something derived from the first cause, as above explained ([758]Q[75], A[3]): and every agent, that presupposes something to its act, acts by making a change therein. Therefore everything else acts by producing a change, whereas God alone acts by creation. Since, therefore, the rational soul cannot be produced by a change in matter, it cannot be produced, save immediately by God.
 
 Thus the replies to the objections are clear. For that bodies produce their like or something inferior to themselves, and that the higher things lead forward the inferior---all these things are effected through a certain transmutation.
-## Whether The Human Soul Was Produced Before The Body?
+### Whether The Human Soul Was Produced Before The Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the human soul was made before the body. For the work of creation preceded the work of distinction and adornment, as shown above ([759]Q[66], A[1]; [760]Q[70], A[1]). But the soul was made by creation; whereas the body was made at the end of the work of adornment. Therefore the soul of man was made before the body.
 
@@ -84,7 +84,7 @@ Objection 2: Further, the rational soul has more in common with the angels than 
 
 Objection 3: Further, the end is proportionate to the beginning. But in the end the soul outlasts the body. Therefore in the beginning it was created before the body.
 
-### Answer
+**Answer**
 
 On the contrary, The proper act is produced in its proper potentiality. Therefore since the soul is the proper act of the body, the soul was produced in the body.
 
@@ -96,7 +96,7 @@ Now this could be upheld by those who hold that the soul has of itself a complet
 
 Therefore, if we admit the opinion of Augustine about the work of the six days ([762]Q[74], A[2]), we may say that the human soul preceded in the work of the six days by a certain generic similitude, so far as it has intellectual nature in common with the angels; but was itself created at the same time as the body. According to the other saints, both the body and soul of the first man were produced in the work of the six days.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: If the soul by its nature were a complete species, so that it might be created as to itself, this reason would prove that the soul was created by itself in the beginning. But as the soul is naturally the form of the body, it was necessarily created, not separately, but in the body.
 

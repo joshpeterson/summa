@@ -6,9 +6,9 @@ We must next discuss the quality which the world and those who rise again will h
 (3) Whether the heavenly bodies will be more brilliant?
 (4) Whether the elements will receive an additional clarity?
 (5) Whether the animals and plants will remain?
-## Whether The World Will Be Renewed?
+### Whether The World Will Be Renewed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the world will never be renewed. For nothing will be but what was at some time as to its species: "What is it that hath been? the same thing that shall be" (Eccles. 1:9). Now the world never had any disposition other than it has now as to essential parts, both genera and species. Therefore it will never be renewed.
 
@@ -20,13 +20,13 @@ Objection 4: Further, the disposition which things have now is natural to them. 
 
 Objection 5: Further, newness of glory is given to the rational creature as a reward. Now where there is no merit, there can be no reward. Since then insensible creatures have merited nothing, it would seem that they will not be renewed.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 65:17): "Behold I create new heavens and a new earth, and the former things shall not be in remembrance"; and (Apoc. 21:1): "I saw a new heaven and a new earth. For the first heaven and the first earth was gone."
 
 I answer that, We believe all corporeal things to have been made for man's sake, wherefore all things are stated to be subject to him [*Ps. 8:5, seqq.]. Now they serve man in two ways, first, as sustenance to his bodily life, secondly, as helping him to know God, inasmuch as man sees the invisible things of God by the things that are made (Rom. 1:20). Accordingly glorified man will nowise need creatures to render him the first of these services, since his body will be altogether incorruptible, the Divine power effecting this through the soul which it will glorify immediately. Again man will not need the second service as to intellective knowledge, since by that knowledge he will see God immediately in His essence. The carnal eye, however, will be unable to attain to this vision of the Essence; wherefore that it may be fittingly comforted in the vision of God, it will see the Godhead in Its corporeal effects, wherein manifest proofs of the Divine majesty will appear, especially in Christ's flesh, and secondarily in the bodies of the blessed, and afterwards in all other bodies. Hence those bodies also will need to receive a greater inflow from the Divine goodness than now, not indeed so as to change their species, but so as to add a certain perfection of glory: and such will be the renewal of the world. Wherefore at the one same time, the world will be renewed, and man will be glorified.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Solomon is speaking there of the natural course: this is evident from his adding: "Nothing under the sun is new." For since the movement of the sun follows a circle, those things which are subject to the sun's power must needs have some kind of circular movement. This consists in the fact that things which were before return the same in species but different in the individual (De Generat. i). But things belonging to the state of glory are not "under the sun."
 
@@ -37,9 +37,9 @@ Reply to Objection 3: God is stated to have ceased on the seventh day forming ne
 Reply to Objection 4: This disposition of newness will be neither natural nor contrary to nature, but above nature (just as grace and glory are above the nature of the soul): and it will proceed from an everlasting agent which will preserve it for ever.
 
 Reply to Objection 5: Although, properly speaking, insensible bodies will not have merited this glory, yet man merited that this glory should be bestowed on the whole universe, in so far as this conduces to man's increase of glory. Thus a man merits to be clothed in more splendid robes, which splendor the robes nowise merited themselves.
-## Whether The Movement Of The Heavenly Bodies Will Cease?
+### Whether The Movement Of The Heavenly Bodies Will Cease?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that when the world is thus renewed the movement of the heavenly bodies will not cease. For it is written (Gn. 8:22): "All the days of the earth . . . cold and heat, summer and winter, night and day shall not cease." Now night and day, summer and winter result from the movement of the sun. Therefore the movement of the sun will never cease.
 
@@ -59,13 +59,13 @@ Objection 8: Further, if a thing is indifferent in relation to more than one alt
 
 Objection 9: Further, the movement of the heaven is the cause of time. Therefore if the movement of the heaven fail, time must needs fail: and if this were to fail, it would fail in an instant. Now an instant is defined (Phys. viii) "the beginning of the future and the end of the past." Consequently there would be time after the last instant of time, which is impossible. Therefore the movement of the heavens will never cease.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated (Apoc. 10:6) that the angel who appeared, "swore by him that liveth for ever and ever . . . that time shall be no longer," namely after the seventh angel shall have sounded the trumpet, at the sound of which "the dead shall rise again" (1 Cor. 15:52). Now if time be not, there is no movement of the heaven. Therefore the movement of the heaven will cease.
 
 I answer that, There are three opinions touching this question. The first is of the philosophers who assert that the movement of the heaven will last for ever. But this is not in keeping with our faith, which holds that the elect are in a certain number preordained by God, so that the begetting of men will not last for ever, and for the same reason, neither will other things that are directed to the begetting of men, such as the movement of the heaven and the variations of the elements. Others say that the movement of the heaven will cease naturally. But this again is false, since every body that is moved naturally has a place wherein it rests naturally, whereto it is moved naturally, and whence it is not moved except by violence. Now no such place can be assigned to the heavenly body, since it is not more natural to the sun to move towards a point in the east than to move away from it, wherefore either its movement would not be altogether natural, or its movement would not naturally terminate in rest. Hence we must agree with others who say that the movement of the heaven will cease at this renewal of the world, not indeed by any natural cause, but as a result of the will of God. For the body in question, like other bodies, was made to serve man in the two ways above mentioned [5120](A[1]): and hereafter in the state of glory man will no longer need one of these services, that namely in respect of which the heavenly bodies serve man for the sustenance of his bodily life. Now in this way the heavenly bodies serve man by their movement, in so far as by the heavenly movement the human race is multiplied, plants and animals needful for man's use generated, and the temperature of the atmosphere rendered conducive to health. Therefore the movement of the heavenly body will cease as soon as man is glorified.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These words refer to the earth in its present state, when it is able to be the principle of the generation and corruption of plants. This is evident from its being said there: "All the days of the earth, seed time and harvest," etc. And it is simply to be granted that as long as the earth is fit for seed time and harvest, the movement of the heaven will not cease.
 
@@ -82,9 +82,9 @@ Reply to Objection 7: In a heavenly body there is no potentiality that can be pe
 Reply to Objection 8: Although a heavenly body, so far as regards its nature, is equally inclined to every situation that it can possibly occupy, nevertheless in comparison with things outside it, it is not equally inclined to every situation: but in respect of one situation it has a more noble disposition in comparison with certain things than in respect of another situation; thus in our regard the sun has a more noble disposition at daytime than at night-time. Hence it is probable, since the entire renewal of the world is directed to man, that the heaven will have in this renewal the most noble situation possible in relation to our dwelling there. Or, according to some, the heaven will rest in that situation wherein it was made, else one of its revolutions would remain incomplete. But this argument seems improbable, for since a revolution of the heaven takes no less than 36,000 years to complete, it would follow that the world must last that length of time, which does not seem probable. Moreover according to this it would be possible to know when the world will come to an end. For we may conclude with probability from astronomers in what position the heavenly bodies were made, by taking into consideration the number of years that have elapsed since the beginning of the world: and in the same way it would be possible to know the exact number of years it would take them to return to a like position: whereas the time of the world's end is stated to be unknown.
 
 Reply to Objection 9: Time will at length cease, when the heavenly movement ceases. Yet that last "now" will not be the beginning of the future. For the definition quoted applies to the "now" only as continuous with the parts of time, not as terminating the whole of time.
-## Whether The Brightness Of The Heavenly Bodies Will Be Increased At This Renewal?
+### Whether The Brightness Of The Heavenly Bodies Will Be Increased At This Renewal?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the brightness of the heavenly bodies will not be increased at this renewal. For this renewal as regards the lower bodies will be caused by the cleansing fire. But the cleansing fire will not reach the heavenly bodies. Therefore the heavenly bodies will not be renewed by receiving an increase of brightness.
 
@@ -98,13 +98,13 @@ Objection 5: Further, the brightness of the heavenly bodies, like other creature
 
 Objection 6: Further, it were not a wise craftsman who would make very great instruments for the making of a small work. Now man is a very small thing in comparison with the heavenly bodies, which by their huge bulk surpass the size of man almost beyond comparison: in fact the size of the whole earth in comparison with the heaven is as a point compared with a sphere, as astronomers say. Since then God is most wise it would seem that man is not the end of the creation of the heavens, and so it is unseemly that the heaven should deteriorate when he sinned, or that it should be bettered when he is glorified.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 30:26): "The light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold."
 
 I answer that, The renewal of the world is directed to the end that, after this renewal has taken place, God may become visible to man by signs so manifest as to be perceived as it were by his senses. Now creatures lead to the knowledge of God chiefly by their comeliness and beauty, which show forth the wisdom of their Maker and Governor; wherefore it is written (Wis. 13:5): "By the greatness of the beauty and of the creature, the Creator of them may be seen, so as to be known thereby." And the beauty of the heavenly bodies consists chiefly in light; wherefore it is written (Ecclus. 43:10): "The glory of the stars is the beauty of heaven, the Lord enlighteneth the world on high." Hence the heavenly bodies will be bettered, especially as regards their brightness. But to what degree and in what way this betterment will take place is known to Him alone Who will bring it about.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The cleansing fire will not cause the form of the renewal, but will only dispose thereto, by cleansing from the vileness of sin and the impurity resulting from the mingling of bodies, and this is not to be found in the heavenly bodies. Hence although the heavenly bodies are not to be cleansed by fire, they are nevertheless to be Divinely renewed.
 
@@ -117,9 +117,9 @@ Reply to Objection 4: This diminution, according to the more probable opinion, r
 Reply to Objection 5: A thing may be useful to man in two ways. First, by reason of necessity, and thus no creature will be useful to man because he will have complete sufficiency from God. This is signified (Apoc. 21:23) by the words quoted, according to which that "city hath no need of the sun," nor "of the moon." Secondly, on account of a greater perfection, and thus man will make use of other creatures, yet not as needful to him in order to obtain his end, in which way he makes use of them now.
 
 Reply to Objection 6: This is the argument of Rabbi Moses who endeavors to prove (Dux errantium iii) that the world was by no means made for man's use. Wherefore he maintains that what we read in the Old Testament about the renewal of the world, as instanced by the quotations from Isaias, is said metaphorically: and that even as the sun is said to be darkened in reference to a person when he encounters a great sorrow so as not to know what to do (which way of speaking is customary to Scripture), so on the other hand the sun is said to shine brighter for a person, and the whole world to be renewed, when he is brought from a state of sorrow to one of very great joy. But this is not in harmony with the authority and commentaries of holy men. Consequently we must answer this argument by saying that although the heavenly bodies far surpass the human body, yet the rational soul surpasses the heavenly bodies far more than these surpass the human body. Hence it is not unreasonable to say that the heavenly bodies were made for man's sake; not, however as though this were the principal end, since the principal end of all things is God.
-## Whether The Elements Will Be Renewed By An Addition Of Brightness?
+### Whether The Elements Will Be Renewed By An Addition Of Brightness?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the elements will not be renewed by receiving some kind of brightness. For just as light is a quality proper to a heavenly body, so are hot and cold, wet and dry. qualities proper to the elements. Therefore as the heaven is renewed by an increase of brightness, so ought the elements to be renewed by an increase of active and passive qualities.
 
@@ -131,13 +131,13 @@ Objection 4: Further, increase of brightness in the elements implies an increase
 
 Objection 5: Further, the good of the universe which consists in the order and harmony of the parts is more excellent than the good of any individual creature. But if one creature be bettered, the good of the universe is done away, since there will no longer be the same harmony. Therefore if the elemental bodies, which according to their natural degree in the universe should be devoid of brightness, were to be endowed with brightness, the perfection of the universe would be diminished thereby rather than increased.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Apoc. 21:1): "I saw a new heaven and a new earth." Now the heaven will be renewed by an increase of brightness. Therefore the earth and likewise the other elements will also.
 
 I answer that, Just as there is a certain order between the heavenly spirits and the earthly or human spirits, so is there an order between heavenly bodies and earthly bodies. Since then the corporeal creature was made for the sake of the spiritual and is ruled thereby, it follows that corporeal things are dealt with similarly to spiritual things. Now in this final consummation of things the lower spirits will receive the properties of the higher spirits, because men will be as the angels in heaven (Mat. 22:30): and this will be accomplished by conferring the highest degree of perfection on that in which the human spirit agrees with the angelic. Wherefore, in like manner, since the lower bodies do not agree with the heavenly bodies except in the nature of light and transparency (De Anima ii), it follows that the lower bodies are to be perfected chiefly as regards brightness. Hence all the elements will be clothed with a certain brightness, not equally, however, but according to their mode: for it is said that the earth on its outward surface will be as transparent as glass, water as crystal, the air as heaven, fire as the lights of heaven.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above [5122](A[1]), the renewal of the world is directed to the effect that man even by his senses may as it were see the Godhead by manifest signs. Now the most spiritual and subtle of our senses is the sight. Consequently all the lower bodies need to be bettered, chiefly as regards the visible qualities the principle of which is light. On the other hand, the elemental qualities regard the touch, which is the most material of the senses, and the excess of their contrariety is more displeasing than pleasant; whereas excess of light will be pleasant, since it has no contrariety, except on account of a weakness in the organ, such as will not be then.
 
@@ -148,9 +148,9 @@ Reply to Objection 3: The earth will not be glorified with brightness in the inf
 Reply to Objection 4: This brightness will be in these bodies even as it is in the heavenly bodies, in which it causes no heat, because these bodies will then be unalterable, as the heavenly bodies are now.
 
 Reply to Objection 5: The order of the universe will not be done away by the betterment of the elements, because all the other parts will also be bettered, and so the same harmony will remain.
-## Whether The Plants And Animals Will Remain In This Renewal?
+### Whether The Plants And Animals Will Remain In This Renewal?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the plants and animals will remain in this renewal. For the elements should be deprived of nothing that belongs to their adornment. Now the elements are said to be adorned by the animals and plants [*Cf. Gn. 1:11,12,20,21,24,25]. Therefore they will not be removed in this renewal.
 
@@ -162,13 +162,13 @@ Objection 4: Further, animals and plants have a more noble form than the element
 
 Objection 5: Further, it is unseemly to assert that the natural appetite will be frustrated. But by their natural appetite animals and plants desire to be for ever, if indeed not as regards the individual, at least as regards the species: and to this end their continual generation is directed (De Generat. ii). Therefore it is unseemly to say that these species will at length cease to be.
 
-### Answer
+**Answer**
 
 On the contrary, If plants and animals are to remain, either all of them will, or some of them. If all of them, then dumb animals, which had previously died, will have to rise again just as men will rise again. But this cannot be asserted for since their form comes to nothing, they cannot resume the same identical form. On the other hand if not all but some of them remain, since there is no more reason for one of them remaining for ever rather than another, it would seem that none of them will. But whatever remains after the world has been renewed will remain for ever, generation and corruption being done away. Therefore plants and animals will altogether cease after the renewal of the world.
 
 I answer that, Since the renewal of the world will be for man's sake it follows that it should be conformed to the renewal of man. Now by being renewed man will pass from the state of corruption to incorruptibility and to a state of everlasting rest, wherefore it is written (1 Cor. 15:53): "This corruptible must put on incorruption, and this mortal must put on immortality"; and consequently the world will be renewed in such a way as to throw off all corruption and remain for ever at rest. Therefore it will be impossible for anything to be the subject of that renewal, unless it be a subject of incorruption. Now such are the heavenly bodies, the elements, and man. For the heavenly bodies are by their very nature incorruptible both as to their whole and as to their part: the elements are corruptible as to their parts but incorruptible as a whole: while men are corruptible both in whole and in part, but this is on the part of their matter not on the part of their form, the rational soul to wit, which will remain incorrupt after the corruption of man. on the other hand, dumb animals, plants, and minerals, and all mixed bodies, are corruptible both in their whole and in their parts, both on the part of their matter which loses its form, and on the part of their form which does not remain actually; and thus they are in no way subjects of incorruption. Hence they will not remain in this renewal, but those things alone which we have mentioned above.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These bodies are said to adorn the elements, inasmuch as the general active and passive forces which are in the elements are applied to specific actions: hence they adorn the elements in their active and passive state. But this state will not remain in the elements: wherefore there is no need for animals or plants to remain.
 

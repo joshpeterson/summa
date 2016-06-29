@@ -7,9 +7,9 @@ We must now consider rapture. Under this head there are six points of inquiry:
 (4) Whether he was withdrawn from his senses?
 (5) Whether, when in that state, his soul was wholly separated from his body?
 (6) What did he know, and what did he not know about this matter?
-## Whether The Soul Of Man Is Carried Away To Things Divine?
+### Whether The Soul Of Man Is Carried Away To Things Divine?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the soul of man is not carried away to things divine. For some define rapture as "an uplifting by the power of a higher nature, from that which is according to nature to that which is above nature" [*Reference unknown; Cf. De Veritate xiii, 1]. Now it is in accordance with man's nature that he be uplifted to things divine; for Augustine says at the beginning of his Confessions: "Thou madest us, Lord, for Thyself, and our heart is restless, till it rest in Thee." Therefore man's soul is not carried away to things divine.
 
@@ -17,7 +17,7 @@ Objection 2: Further, Dionysius says (Div. Nom. viii) that "God's justice is see
 
 Objection 3: Further, rapture denotes violence of some kind. But God rules us not by violence or force, as Damascene says [*De Fide Orth. ii, 30]. Therefore man's soul is not carried away to things divine.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (2 Cor. 12:2): "I know a man in Christ . . . rapt even to the third heaven." On which words a gloss says: "Rapt, that is to say, uplifted contrary to nature."
 
@@ -29,16 +29,16 @@ This withdrawal, whatever its term may be, may arise from a threefold cause. Fir
 
 It must be observed, however, that sometimes a person is said to be carried away, not only through being withdrawn from his senses, but also through being withdrawn from the things to which he was attending, as when a person's mind wanders contrary to his purpose. But this is to use the expression in a less proper signification.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is natural to man to tend to divine things through the apprehension of things sensible, according to Rom. 1:20, "The invisible things of God . . . are clearly seen, being understood by the things that are made." But the mode, whereby a man is uplifted to divine things and withdrawn from his senses, is not natural to man.
 
 Reply to Objection 2: It belongs to man's mode and dignity that he be uplifted to divine things, from the very fact that he is made to God's image. And since a divine good infinitely surpasses the faculty of man in order to attain that good, he needs the divine assistance which is bestowed on him in every gift of grace. Hence it is not contrary to nature, but above the faculty of nature that man's mind be thus uplifted in rapture by God.
 
 Reply to Objection 3: The saying of Damascene refers to those things which a man does by himself. But as to those things which are beyond the scope of the free-will, man needs to be uplifted by a stronger operation, which in a certain respect may be called force if we consider the mode of operation, but not if we consider its term to which man is directed both by nature and by his intention.
-## Whether Rapture Pertains To The Cognitive Rather Than To The Appetitive Power?
+### Whether Rapture Pertains To The Cognitive Rather Than To The Appetitive Power?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that rapture pertains to the appetitive rather than to the cognitive power. For Dionysius says (Div. Nom. iv): "The Divine love causes ecstasy." Now love pertains to the appetitive power. Therefore so does ecstasy or rapture.
 
@@ -46,7 +46,7 @@ Objection 2: Further, Gregory says (Dial. ii, 3) that "he who fed the swine deba
 
 Objection 3: Further, a gloss on Ps. 30:1, "In Thee, O Lord, have I hoped, let me never be confounded," says in explaining the title [*Unto the end, a psalm for David, in an ecstasy]: "{Ekstasis} in Greek signifies in Latin 'excessus mentis,' an aberration of the mind. This happens in two ways, either through dread of earthly things or through the mind being rapt in heavenly things and forgetful of this lower world." Now dread of earthly things pertains to the appetite. Therefore rapture of the mind in heavenly things, being placed in opposition to this dread, also pertains to the appetite.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Ps. 115:2, "I said in my excess: Every man is a liar," says: "We speak of ecstasy, not when the mind wanders through fear, but when it is carried aloft on the wings of revelation." Now revelation pertains to the intellective power. Therefore ecstasy or rapture does also.
 
@@ -54,16 +54,16 @@ I answer that, We can speak of rapture in two ways. First, with regard to the te
 
 Secondly, rapture may be considered with regard to its cause, and thus it may have a cause on the part of the appetitive power. For from the very fact that the appetite is strongly affected towards something, it may happen, owing to the violence of his affection, that a man is carried away from everything else. Moreover, it has an effect on the appetitive power, when for instance a man delights in the things to which he is rapt. Hence the Apostle said that he was rapt, not only "to the third heaven"---which pertains to the contemplation of the intellect---but also into "paradise," which pertains to the appetite.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Rapture adds something to ecstasy. For ecstasy means simply a going out of oneself by being placed outside one's proper order [*Cf. [3694]FS, Q[28], A[3]]; while rapture denotes a certain violence in addition. Accordingly ecstasy may pertain to the appetitive power, as when a man's appetite tends to something outside him, and in this sense Dionysius says that "the Divine love causes ecstasy," inasmuch as it makes man's appetite tend to the object loved. Hence he says afterwards that "even God Himself, the cause of all things, through the overflow of His loving goodness, goes outside Himself in His providence for all beings." But even if this were said expressly of rapture, it would merely signify that love is the cause of rapture.
 
 Reply to Objection 2: There is a twofold appetite in man; to wit, the intellective appetite which is called the will, and the sensitive appetite known as the sensuality. Now it is proper to man that his lower appetite be subject to the higher appetite, and that the higher move the lower. Hence man may become outside himself as regards the appetite, in two ways. In one way, when a man's intellective appetite tends wholly to divine things, and takes no account of those things whereto the sensitive appetite inclines him; thus Dionysius says (Div. Nom. iv) that "Paul being in ecstasy through the vehemence of Divine love" exclaimed: "I live, now not I, but Christ liveth in me."
 
 Reply to Objection 3: Just as love is a movement of the appetite with regard to good, so fear is a movement of the appetite with regard to evil. Wherefore either of them may equally cause an aberration of mind; and all the more since fear arises from love, as Augustine says (De Civ. Dei xiv, 7,9).
-## Whether Paul, When In Rapture, Saw The Essence Of God?
+### Whether Paul, When In Rapture, Saw The Essence Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Paul, when in rapture, did not see the essence of God. For just as we read of Paul that he was rapt to the third heaven, so we read of Peter (Acts 10:10) that "there came upon him an ecstasy of mind." Now Peter, in his ecstasy, saw not God's essence but an imaginary vision. Therefore it would seem that neither did Paul see the essence of God.
 
@@ -73,13 +73,13 @@ Objection 3: Further, according to 1 Cor. 13:10-12, faith and hope are incompati
 
 Objection 4: Further, as Augustine states (Gen. ad lit. xii, 6,7), "pictures of bodies are seen in the imaginary vision." Now Paul is stated (2 Cor. 12:2, 4) to have seen certain pictures in his rapture, for instance of the "third heaven" and of "paradise." Therefore he would seem to have been rapt to an imaginary vision rather than to the vision of the Divine essence.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine (Ep. CXLVII, 13; ad Paulin., de videndo Deum) concludes that "possibly God's very substance was seen by some while yet in this life: for instance by Moses, and by Paul who in rapture heard unspeakable words, which it is not granted unto man to utter."
 
 I answer that, Some have said that Paul, when in rapture, saw "not the very essence of God, but a certain reflection of His clarity." But Augustine clearly comes to an opposite decision, not only in his book (De videndo Deum), but also in Gen. ad lit. xii, 28 (quoted in a gloss on 2 Cor. 12:2). Indeed the words themselves of the Apostle indicate this. For he says that "he heard secret words, which it is not granted unto man to utter": and such would seem to be words pertaining to the vision of the blessed, which transcends the state of the wayfarer, according to Is. 64:4, "Eye hath not seen, O God, besides Thee, what things Thou hast prepared for them that love [Vulg.: 'wait for'] Thee" [*1 Cor. 2:9]. Therefore it is more becoming to hold that he saw God in His essence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man's mind is rapt by God to the contemplation of divine truth in three ways. First, so that he contemplates it through certain imaginary pictures, and such was the ecstasy that came upon Peter. Secondly, so that he contemplates the divine truth through its intelligible effects; such was the ecstasy of David, who said (Ps. 115:11): "I said in my excess: Every man is a liar." Thirdly, so that he contemplates it in its essence. Such was the rapture of Paul, as also of Moses [*Cf. Q[174], A[4]]; and not without reason, since as Moses was the first Teacher of the Jews, so was Paul the first "Teacher of the gentiles" [*Cf. [3695]FP, Q[68], A[4]].
 
@@ -88,9 +88,9 @@ Reply to Objection 2: The Divine essence cannot be seen by a created intellect s
 Reply to Objection 3: Since, in his rapture, Paul was beatified not as to the habit, but only as to the act of the blessed, it follows that he had not the act of faith at the same time, although he had the habit.
 
 Reply to Objection 4: In one way by the third heaven we may understand something corporeal, and thus the third heaven denotes the empyrean [*1 Tim. 2:7; Cf. [3697]FP, Q[12], A[11], ad 2], which is described as the "third," in relation to the aerial and starry heavens, or better still, in relation to the aqueous and crystalline heavens. Moreover Paul is stated to be rapt to the "third heaven," not as though his rapture consisted in the vision of something corporeal, but because this place is appointed for the contemplation of the blessed. Hence the gloss on 2 Cor. 12 says that the "third heaven is a spiritual heaven, where the angels and the holy souls enjoy the contemplation of God: and when Paul says that he was rapt to this heaven he means that God showed him the life wherein He is to be seen forevermore."
-## Whether Paul, When In Rapture, Was Withdrawn From His Senses?
+### Whether Paul, When In Rapture, Was Withdrawn From His Senses?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Paul, when in rapture, was not withdrawn from his senses. For Augustine says (Gen. ad lit. xii, 28): "Why should we not believe that when so great an apostle, the teacher of the gentiles, was rapt to this most sublime vision, God was willing to vouchsafe him a glimpse of that eternal life which is to take the place of the present life?" Now in that future life after the resurrection the saints will see the Divine essence without being withdrawn from the senses of the body. Therefore neither did such a withdrawal take place in Paul.
 
@@ -98,22 +98,22 @@ Objection 2: Further, Christ was truly a wayfarer, and also enjoyed an uninterru
 
 Objection 3: Further, after seeing God in His essence, Paul remembered what he had seen in that vision; hence he said (2 Cor. 12:4): "He heard secret words, which it is not granted to man to utter." Now the memory belongs to the sensitive faculty according to the Philosopher (De Mem. et Remin. i). Therefore it seems that Paul, while seeing the essence of God, was not withdrawn from his senses.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Gen. ad lit. xii, 27): "Unless a man in some way depart this life, whether by going altogether out of his body or by turning away and withdrawing from his carnal senses, so that he truly knows not as the Apostle said, whether he be in the body or out of the body, he is not rapt and caught up into that vision.*" [*The text of St. Augustine reads: "when he is rapt," etc.]
 
 I answer that, The Divine essence cannot be seen by man through any cognitive power other than the intellect. Now the human intellect does not turn to intelligible objects except by means of the phantasms [*Cf. [3699]FP, Q[84], A[7]] which it takes from the senses through the intelligible species; and it is in considering these phantasms that the intellect judges of and coordinates sensible objects. Hence in any operation that requires abstraction of the intellect from phantasms, there must be also withdrawal of the intellect from the senses. Now in the state of the wayfarer it is necessary for man's intellect, if it see God's essence, to be withdrawn from phantasms. For God's essence cannot be seen by means of a phantasm, nor indeed by any created intelligible species [*Cf. [3700]FP, Q[12], A[2]], since God's essence infinitely transcends not only all bodies, which are represented by phantasms, but also all intelligible creatures. Now when man's intellect is uplifted to the sublime vision of God's essence, it is necessary that his mind's whole attention should be summoned to that purpose in such a way that he understand naught else by phantasms, and be absorbed entirely in God. Therefore it is impossible for man while a wayfarer to see God in His essence without being withdrawn from his senses.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above (A[3], OBJ[2]), after the resurrection, in the blessed who see God in His essence, there will be an overflow from the intellect to the lower powers and even to the body. Hence it is in keeping with the rule itself of the divine vision that the soul will turn towards phantasms and sensible objects. But there is no such overflow in those who are raptured, as stated (A[3], OBJ[2], ad 2), and consequently the comparison fails.
 
 Reply to Objection 2: The intellect of Christ's soul was glorified by the habit of the light of glory, whereby He saw the Divine essence much more fully than an angel or a man. He was, however, a wayfarer on account of the passibility of His body, in respect of which He was "made a little lower than the angels" (Heb. 2:9), by dispensation, and not on account of any defect on the part of His intellect. Hence there is no comparison between Him and other wayfarers.
 
 Reply to Objection 3: Paul, after seeing God in His essence, remembered what he had known in that vision, by means of certain intelligible species that remained in his intellect by way of habit; even as in the absence of the sensible object, certain impressions remain in the soul which it recollects when it turns to the phantasms. And so this was the knowledge that he was unable wholly to think over or express in words.
-## Whether, While In This State, Paul's Soul Was Wholly Separated From His Body?
+### Whether, While In This State, Paul's Soul Was Wholly Separated From His Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that, while in this state, Paul's soul was wholly separated from his body. For the Apostle says (2 Cor. 5:6,7): "While we are in the body we are absent from the Lord. For we walk by faith, and not by sight" [*'Per speciem,' i.e. by an intelligible species]. Now, while in that state, Paul was not absent from the Lord, for he saw Him by a species, as stated above [3701](A[3]). Therefore he was not in the body.
 
@@ -121,13 +121,13 @@ Objection 2: Further, a power of the soul cannot be uplifted above the soul's es
 
 Objection 3: Further, the forces of the vegetative soul are more material than those of the sensitive soul. Now in order for him to be rapt to the vision of God, it was necessary for him to be withdrawn from the forces of the sensitive soul, as stated above [3702](A[4]). Much more, therefore, was it necessary for him to be withdrawn from the forces of the vegetative soul. Now when these forces cease to operate, the soul is no longer in any way united to the body. Therefore it would seem that in Paul's rapture it was necessary for the soul to be wholly separated from the body.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Ep. CXLVII, 13, ad Paulin.; de videndo Deum): "It is not incredible that this sublime revelation" (namely, that they should see God in His essence) "was vouchsafed certain saints, without their departing this life so completely as to leave nothing but a corpse for burial." Therefore it was not necessary for Paul's soul, when in rapture, to be wholly separated from his body.
 
 I answer that, As stated above (A[1], OBJ[1]), in the rapture of which we are speaking now, man is uplifted by God's power, "from that which is according to nature to that which is above nature." Wherefore two things have to be considered: first, what pertains to man according to nature; secondly, what has to be done by God in man above his nature. Now, since the soul is united to the body as its natural form, it belongs to the soul to have a natural disposition to understand by turning to phantasms; and this is not withdrawn by the divine power from the soul in rapture, since its state undergoes no change, as stated above (A[3], ad 2,3). Yet, this state remaining, actual conversion to phantasms and sensible objects is withdrawn from the soul, lest it be hindered from being uplifted to that which transcends all phantasms, as stated above [3703](A[4]). Therefore it was not necessary that his soul in rapture should be so separated from the body as to cease to be united thereto as its form; and yet it was necessary for his intellect to be withdrawn from phantasms and the perception of sensible objects.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In this rapture Paul was absent from the Lord as regards his state, since he was still in the state of a wayfarer, but not as regards the act by which he saw God by a species, as stated above (A[3], ad 2,3).
 

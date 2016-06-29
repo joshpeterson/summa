@@ -9,9 +9,9 @@ We must now consider the Precepts of Charity, under which there are eight points
 (6) Whether it is possible to fulfil this precept in this life?
 (7) Of the precept: "Thou shalt love thy neighbor as thyself";
 (8) Whether the order of charity is included in the precept?
-## Whether Any Precept Should Be Given About Charity?
+### Whether Any Precept Should Be Given About Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no precept should be given about charity. For charity imposes the mode on all acts of virtue, since it is the form of the virtues as stated above ([2687]Q[23], A[8]), while the precepts are about the virtues themselves. Now, according to the common saying, the mode is not included in the precept. Therefore no precepts should be given about charity.
 
@@ -19,22 +19,22 @@ Objection 2: Further, charity, which "is poured forth in our hearts by the Holy 
 
 Objection 3: Further, charity is the foremost among all the virtues, to which the precepts are directed, as shown above ([2688]FS, Q[90], A[2]; [2689]FS, Q[100], A[9]). If, therefore, any precepts were given about charity, they should have a place among the chief precepts which are those of the decalogue. But they have no place there. Therefore no precepts should be given about charity.
 
-### Answer
+**Answer**
 
 On the contrary, Whatever God requires of us is included in a precept. Now God requires that man should love Him, according to Dt. 10:12. Therefore it behooved precepts to be given about the love of charity, which is the love of God.
 
 I answer that, As stated above (Q[16], A[1]; [2690]FS, Q[99], A[1]), a precept implies the notion of something due. Hence a thing is a matter of precept, in so far as it is something due. Now a thing is due in two ways, for its own sake, and for the sake of something else. In every affair, it is the end that is due for its own sake, because it has the character of a good for its own sake: while that which is directed to the end is due for the sake of something else: thus for a physician, it is due for its own sake, that he should heal, while it is due for the sake of something else that he should give a medicine in order to heal. Now the end of the spiritual life is that man be united to God, and this union is effected by charity, while all things pertaining to the spiritual life are ordained to this union, as to their end. Hence the Apostle says (1 Tim. 1:5): "The end of the commandment is charity from a pure heart, and a good conscience, and an unfeigned faith." For all the virtues, about whose acts the precepts are given, are directed either to the freeing of the heart from the whirl of the passions---such are the virtues that regulate the passions---or at least to the possession of a good conscience---such are the virtues that regulate operations---or to the having of a right faith---such are those which pertain to the worship of God: and these three things are required of man that he may love God. For an impure heart is withdrawn from loving God, on account of the passion that inclines it to earthly things; an evil conscience gives man a horror for God's justice, through fear of His punishments; and an untrue faith draws man's affections to an untrue representation of God, and separates him from the truth of God. Now in every genus that which is for its own sake takes precedence of that which is for the sake of another, wherefore the greatest precept is that of charity, as stated in Mat. 22:39.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([2691]FS, Q[100], A[10]) when we were treating of the commandments, the mode of love does not come under those precepts which are about the other acts of virtue: for instance, this precept, "Honor thy father and thy mother," does not prescribe that this should be done out of charity. The act of love does, however, fall under special precepts.
 
 Reply to Objection 2: The obligation of a precept is not opposed to liberty, except in one whose mind is averted from that which is prescribed, as may be seen in those who keep the precepts through fear alone. But the precept of love cannot be fulfilled save of one's own will, wherefore it is not opposed to charity.
 
 Reply to Objection 3: All the precepts of the decalogue are directed to the love of God and of our neighbor: and therefore the precepts of charity had not to be enumerated among the precepts of the decalogue, since they are included in all of them.
-## Whether There Should Have Been Given Two Precepts Of Charity?
+### Whether There Should Have Been Given Two Precepts Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there should not have been given two precepts of charity. For the precepts of the Law are directed to virtue, as stated above (A[1], OBJ[3]). Now charity is one virtue, as shown above ([2692]Q[33], A[5]). Therefore only one precept of charity should have been given.
 
@@ -44,13 +44,13 @@ Objection 3: Further, different sins are opposed to different precepts. But it i
 
 Objection 4: Further, the Apostle says (Rom. 13:8): "He that loveth his neighbor hath fulfilled the Law." But a law is not fulfilled unless all its precepts be observed. Therefore all the precepts are included in the love of our neighbor: and consequently the one precept of the love of our neighbor suffices. Therefore there should not be two precepts of charity.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Jn. 4:21): "This commandment we have from God, that he who loveth God, love also his brother."
 
 I answer that, As stated above ([2693]FS, Q[91], A[3]; [2694]FS, Q[94], A[2]) when we were treating of the commandments, the precepts are to the Law what propositions are to speculative sciences, for in these latter, the conclusions are virtually contained in the first principles. Hence whoever knows the principles as to their entire virtual extent has no need to have the conclusions put separately before him. Since, however, some who know the principles are unable to consider all that is virtually contained therein, it is necessary, for their sake, that scientific conclusions should be traced to their principles. Now in practical matters wherein the precepts of the Law direct us, the end has the character of principle, as stated above (Q[23], A[7], ad 2; Q[26], A[1], ad 1): and the love of God is the end to which the love of our neighbor is directed. Therefore it behooved us to receive precepts not only of the love of God but also of the love of our neighbor, on account of those who are less intelligent, who do not easily understand that one of these precepts is included in the other.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although charity is one virtue, yet it has two acts, one of which is directed to the other as to its end. Now precepts are given about acts of virtue, and so there had to be several precepts of charity.
 
@@ -59,9 +59,9 @@ Reply to Objection 2: God is loved in our neighbor, as the end is loved in that 
 Reply to Objection 3: The means derive their goodness from their relation to the end, and accordingly aversion from the means derives its malice from the same source and from no other
 
 Reply to Objection 4: Love of our neighbor includes love of God, as the end is included in the means, and vice versa: and yet it behooved each precept to be given explicitly, for the reason given above.
-## Whether Two Precepts Of Charity Suffice?
+### Whether Two Precepts Of Charity Suffice?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that two precepts of charity do not suffice. For precepts are given about acts of virtue. Now acts are distinguished by their objects. Since, then, man is bound to love four things out of charity, namely, God, himself, his neighbor and his own body, as shown above ([2695]Q[25], A[12];[2696] Q[26]), it seems that there ought to be four precepts of charity, so that two are not sufficient.
 
@@ -69,22 +69,22 @@ Objection 2: Further, love is not the only act of charity, but also joy, peace a
 
 Objection 3: Further, virtue consists not only in doing good but also in avoiding evil. Now we are led by the positive precepts to do good, and by the negative precepts to avoid evil. Therefore there ought to have been not only positive, but also negative precepts about charity; and so two precepts of charity are not sufficient.
 
-### Answer
+**Answer**
 
 On the contrary, Our Lord said (Mat. 22:40): "On these two commandments dependeth the whole Law and the prophets."
 
 I answer that, Charity, as stated above ([2697]Q[23], A[1]), is a kind of friendship. Now friendship is between one person and another, wherefore Gregory says (Hom. in Ev. xvii): "Charity is not possible between less than two": and it has been explained how one may love oneself out of charity ([2698]Q[25], A[4]). Now since good is the object of dilection and love, and since good is either an end or a means, it is fitting that there should be two precepts of charity, one whereby we are induced to love God as our end, and another whereby we are led to love our neighbor for God's sake, as for the sake of our end
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (De Doctr. Christ. i, 23), "though four things are to be loved out of charity, there was no need of a precept as regards the second and fourth," i.e. love of oneself and of one's own body. "For however much a man may stray from the truth, the love of himself and of his own body always remains in him." And yet the mode of this love had to be prescribed to man, namely, that he should love himself and his own body in an ordinate manner, and this is done by his loving God and his neighbor.
 
 Reply to Objection 2: As stated above ([2699]Q[28], A[4];[2700] Q[29], A[3]), the other acts of charity result from the act of love as effects from their cause. Hence the precepts of love virtually include the precepts about the other acts. And yet we find that, for the sake of the laggards, special precepts were given about each act---about joy (Phil. 4:4): "Rejoice in the Lord always"---about peace (Heb. 12:14): "Follow peace with all men"---about beneficence (Gal. 6:10): "Whilst we have time, let us work good to all men"---and Holy Writ contains precepts about each of the parts of beneficence, as may be seen by anyone who considers the matter carefully.
 
 Reply to Objection 3: To do good is more than to avoid evil, and therefore the positive precepts virtually include the negative precepts. Nevertheless we find explicit precepts against the vices contrary to charity: for, against hatred it is written (Lev. 12:17): "Thou shalt not hate thy brother in thy heart"; against sloth (Ecclus. 6:26): "Be not grieved with her bands"; against envy (Gal. 5:26): "Let us not be made desirous of vainglory, provoking one another, envying one another"; against discord (1 Cor. 1:10): "That you all speak the same thing, and that there be no schisms among you"; and against scandal (Rom. 14:13): "That you put not a stumbling-block or a scandal in your brother's way."
-## Whether It Is Fittingly Commanded That Man Should Love God With His Whole Heart?
+### Whether It Is Fittingly Commanded That Man Should Love God With His Whole Heart?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is unfittingly commanded that man should love God with his whole heart. For the mode of a virtuous act is not a matter of precept, as shown above (A[1], ad 1; [2701]FS, Q[100], A[9]). Now the words "with thy whole heart" signify the mode of the love of God. Therefore it is unfittingly commanded that man should love God with his whole heart.
 
@@ -92,22 +92,22 @@ Objection 2: Further, "A thing is whole and perfect when it lacks nothing" (Phys
 
 Objection 3: Further, to love God with one's whole heart belongs to perfection, since according to the Philosopher (Phys. iii, text. 64), "to be whole is to be perfect." But that which belongs to perfection is not a matter of precept, but a matter of counsel. Therefore we ought not to be commanded to love God with our whole heart.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 6:5): "Thou shalt love the Lord thy God with thy whole heart."
 
 I answer that, Since precepts are given about acts of virtue, an act is a matter of precept according as it is an act of virtue. Now it is requisite for an act of virtue that not only should it fall on its own matter, but also that it should be endued with its due circumstances, whereby it is adapted to that matter. But God is to be loved as the last end, to which all things are to be referred. Therefore some kind of totality was to be indicated in connection with the precept of the love of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The commandment that prescribes an act of virtue does not prescribe the mode which that virtue derives from another and higher virtue, but it does prescribe the mode which belongs to its own proper virtue, and this mode is signified in the words "with thy whole heart."
 
 Reply to Objection 2: To love God with one's whole heart has a twofold signification. First, actually, so that a man's whole heart be always actually directed to God: this is the perfection of heaven. Secondly, in the sense that a man's whole heart be habitually directed to God, so that it consent to nothing contrary to the love of God, and this is the perfection of the way. Venial sin is not contrary to this latter perfection, because it does not destroy the habit of charity, since it does not tend to a contrary object, but merely hinders the use of charity.
 
 Reply to Objection 3: That perfection of charity to which the counsels are directed, is between the two perfections mentioned in the preceding reply: and it consists in man renouncing, as much as possible, temporal things, even such as are lawful, because they occupy the mind and hinder the actual movement of the heart towards God.
-## Whether To The Words, "Thou Shalt Love The Lord Thy God With Thy Whole Heart," It Was Fitting To Add "And With Thy Whole Soul, And With Thy Whole Strength"?
+### Whether To The Words, "Thou Shalt Love The Lord Thy God With Thy Whole Heart," It Was Fitting To Add "And With Thy Whole Soul, And With Thy Whole Strength"?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was unfitting to the words, "Thou shalt love the Lord thy God, with thy whole heart," to add, "and with thy whole soul, and with thy whole strength" (Dt. 6:5). For heart does not mean here a part of the body, since to love God is not a bodily action: and therefore heart is to be taken here in a spiritual sense. Now the heart understood spiritually is either the soul itself or part of the soul. Therefore it is superfluous to mention both heart and soul.
 
@@ -115,7 +115,7 @@ Objection 2: Further, a man's strength whether spiritual or corporal depends on 
 
 Objection 3: Further, in Mat. 22:37 we read: "With all thy mind," which words do not occur here. Therefore it seems that this precept is unfittingly worded in Dt. 6.
 
-### Answer
+**Answer**
 
 
 
@@ -126,9 +126,9 @@ Accordingly these four have to be explained, since the fact that one of them is 
 Chrysostom [*The quotation is from an anonymous author's unfinished work (Opus imperf. Hom. xlii, in Matth.) which is included in Chrysostom's works], on the other hand, takes "heart" and "soul" in the contrary sense; and Augustine (De Doctr. Christ. i, 22) refers "heart" to the thought, "soul" to the manner of life, and "mind" to the intellect. Again some explain "with thy whole heart" as denoting the intellect, "with thy whole soul" as signifying the will, "with thy mind" as pointing to the memory. And again, according to Gregory of Nyssa (De Hom. Opif. viii), "heart" signifies the vegetative soul, "soul" the sensitive, and "mind" the intellective soul, because our nourishment, sensation, and understanding ought all to be referred by us to God.
 
 This suffices for the Replies to the Objections.
-## Whether It Is Possible In This Life To Fulfil This Precept Of The Love Of God?
+### Whether It Is Possible In This Life To Fulfil This Precept Of The Love Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in this life it is possible to fulfil this precept of the love of God. For according to Jerome [*Pelagius, Exposit. Cath. Fid.] "accursed is he who says that Cod has commanded anything impossible." But God gave this commandment, as is clear from Dt. 6:5. Therefore it is possible to fulfil this precept in this life.
 
@@ -136,22 +136,22 @@ Objection 2: Further, whoever does not fulfil a precept sins mortally, since acc
 
 Objection 3: Further, precepts are given in order to direct man in the way of salvation, according to Ps. 18:9: "The commandment of the Lord is lightsome, enlightening the eyes." Now it is useless to direct anyone to what is impossible. Therefore it is not impossible to fulfill this precept in this life.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Perfect. Justit. viii): "In the fulness of heavenly charity this precept will be fulfilled: Thou shalt love the Lord thy God," etc. For as long as any carnal concupiscence remains, that can be restrained by continence, man cannot love God with all his heart.
 
 I answer that, A precept can be fulfilled in two ways; perfectly, and imperfectly. A precept is fulfilled perfectly, when the end intended by the author of the precept is reached; yet it is fulfilled, imperfectly however, when although the end intended by its author is not reached, nevertheless the order to that end is not departed from. Thus if the commander of an army order his soldiers to fight, his command will be perfectly obeyed by those who fight and conquer the foe, which is the commander's intention; yet it is fulfilled, albeit imperfectly, by those who fight without gaining the victory, provided they do nothing contrary to military discipline. Now God intends by this precept that man should be entirely united to Him, and this will be realized in heaven, when God will be "all in all," according to 1 Cor. 15:28. Hence this precept will be observed fully and perfectly in heaven; yet it is fulfilled, though imperfectly, on the way. Nevertheless on the way one man will fulfil it more perfectly than another, and so much the more, as he approaches by some kind of likeness to the perfection of heaven.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument proves that the precept can be fulfilled after a fashion on the way, but not perfectly.
 
 Reply to Objection 2: Even as the soldier who fights legitimately without conquering is not blamed nor deserves to be punished for this, so too he that does not fulfil this precept on the way, but does nothing against the love of God, does not sin mortally.
 
 Reply to Objection 3: As Augustine says (De Perfect. Justit. viii), "why should not this perfection be prescribed to man, although no man attains it in this life? For one cannot run straight unless one knows whither to run. And how would one know this if no precept pointed it out."
-## Whether The Precept Of Love Of Our Neighbor Is Fittingly Expressed?
+### Whether The Precept Of Love Of Our Neighbor Is Fittingly Expressed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the precept of the love of our neighbor is unfittingly expressed. For the love of charity extends to all men, even to our enemies, as may be seen in Mat. 5:44. But the word "neighbor" denotes a kind of "nighness" which does not seem to exist towards all men. Therefore it seems that this precept is unfittingly expressed.
 
@@ -159,7 +159,7 @@ Objection 2: Further, according to the Philosopher (Ethic. ix, 8) "the origin of
 
 Objection 3: Further, man loves himself, but not his neighbor, naturally. Therefore it is unfitting that he should be commanded to love his neighbor as himself.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 22:39): "The second" commandment "is like to this: Thou shalt love thy neighbor as thyself."
 
@@ -168,9 +168,9 @@ I answer that, This precept is fittingly expressed, for it indicates both the re
 The mode of love is indicated in the words "as thyself." This does not mean that a man must love his neighbor equally as himself, but in like manner as himself, and this in three ways. First, as regards the end, namely, that he should love his neighbor for God's sake, even as he loves himself for God's sake, so that his love for his neighbor is a "holy" love. Secondly, as regards the rule of love, namely, that a man should not give way to his neighbor in evil, but only in good things, even as he ought to gratify his will in good things alone, so that his love for his neighbor may be a "righteous" love. Thirdly, as regards the reason for loving, namely, that a man should love his neighbor, not for his own profit, or pleasure, but in the sense of wishing his neighbor well, even as he wishes himself well, so that his love for his neighbor may be a "true" love: since when a man loves his neighbor for his own profit or pleasure, he does not love his neighbor truly, but loves himself.
 
 This suffices for the Replies to the Objections.
-## Whether The Order Of Charity Is Included In The Precept?
+### Whether The Order Of Charity Is Included In The Precept?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the order of charity is not included in the precept. For whoever transgresses a precept does a wrong. But if man loves some one as much as he ought, and loves any other man more, he wrongs no man. Therefore he does not transgress the precept. Therefore the order of charity is not included in the precept.
 
@@ -178,13 +178,13 @@ Objection 2: Further, whatever is a matter of precept is sufficiently delivered 
 
 Objection 3: Further, order implies some kind of distinction. But the love of our neighbor is prescribed without any distinction, in the words, "Thou shalt love thy neighbor as thyself." Therefore the order of charity is not included in the precept.
 
-### Answer
+**Answer**
 
 On the contrary, Whatever God works in us by His grace, He teaches us first of all by His Law, according to Jer. 31:33: "I will give My Law in their heart [*Vulg.: 'in their bowels, and I will write it in their heart']." Now God causes in us the order of charity, according to Cant 2:4: "He set in order charity in me." Therefore the order of charity comes under the precept of the Law.
 
 I answer that, As stated above (A[4], ad 1), the mode which is essential to an act of virtue comes under the precept which prescribes that virtuous act. Now the order of charity is essential to the virtue, since it is based on the proportion of love to the thing beloved, as shown above ([2703]Q[25], A[12];[2704] Q[26], AA[1],2). It is therefore evident that the order of charity must come under the precept.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A man gratifies more the person he loves more, so that if he loved less one whom he ought to love more, he would wish to gratify more one whom he ought to gratify less, and so he would do an injustice to the one he ought to love more.
 

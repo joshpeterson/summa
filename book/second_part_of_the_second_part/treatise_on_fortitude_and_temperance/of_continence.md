@@ -5,9 +5,9 @@ We must next consider the potential parts of temperance: (1) continence; (2) cle
 (2) What is its matter?
 (3) What is its subject?
 (4) Of its comparison with temperance.
-## Whether Continence Is A Virtue?
+### Whether Continence Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that continence is not a virtue. For species and genus are not co-ordinate members of the same division. But continence is co-ordinated with virtue, according to the Philosopher (Ethic. vii, 1,9). Therefore continence is not a virtue.
 
@@ -15,7 +15,7 @@ Objection 2: Further, no one sins by using a virtue, since, according to Augusti
 
 Objection 3: Further, no virtue withdraws man from that which is lawful, but only from unlawful things: for a gloss on Gal. 5:23, "Faith, modesty," etc., says that by continence a man refrains even from things that are lawful. Therefore continence is not a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Every praiseworthy habit would seem to be a virtue. Now such is continence, for Andronicus says [*De Affectibus] that "continence is a habit unconquered by pleasure." Therefore continence is a virtue.
 
@@ -23,16 +23,16 @@ I answer that, The word "continence" is taken by various people in two ways. For
 
 If, however, we take virtue in a broad sense, for any principle of commendable actions, we may say that continence is a virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher includes continence in the same division with virtue in so far as the former falls short of virtue.
 
 Reply to Objection 2: Properly speaking, man is that which is according to reason. Wherefore from the very fact that a man holds [tenet se] to that which is in accord with reason, he is said to contain himself. Now whatever pertains to perversion of reason is not according to reason. Hence he alone is truly said to be continent who stands to that which is in accord with right reason, and not to that which is in accord with perverse reason. Now evil desires are opposed to right reason, even as good desires are opposed to perverse reason. Wherefore he is properly and truly continent who holds to right reason, by abstaining from evil desires, and not he who holds to perverse reason, by abstaining from good desires: indeed, the latter should rather be said to be obstinate in evil.
 
 Reply to Objection 3: The gloss quoted takes continence in the first sense, as denoting a perfect virtue, which refrains not merely from unlawful goods, but also from certain lawful things that are lesser goods, in order to give its whole attention to the more perfect goods.
-## Whether Desires For Pleasures Of Touch Are The Matter Of Continence?
+### Whether Desires For Pleasures Of Touch Are The Matter Of Continence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that desires for pleasures of touch are not the matter of continence. For Ambrose says (De Offic. i, 46): "General decorum by its consistent form and the perfection of what is virtuous is restrained* in its every action." [*"Continentem" according to St. Thomas' reading; St. Ambrose wrote "concinentem = harmonious"].
 
@@ -44,13 +44,13 @@ Objection 4: Further, there are pleasures of touch not only in venereal matters 
 
 Objection 5: Further, among pleasures of touch some are not human but bestial, both as regards food---for instance, the pleasure of eating human flesh; and as regards venereal matters---for instance the abuse of animals or boys. But continence is not about such like things, as stated in Ethic. vii, 5. Therefore desires for pleasures of touch are not the proper matter of continence.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. vii, 4) that "continence and incontinence are about the same things as temperance and intemperance." Now temperance and intemperance are about the desires for pleasures of touch, as stated above ([3553]Q[141], A[4]). Therefore continence and incontinence are also about that same matter.
 
 I answer that, Continence denotes, by its very name, a certain curbing, in so far as a man contains himself from following his passions. Hence continence is properly said in reference to those passions which urge a man towards the pursuit of something, wherein it is praiseworthy that reason should withhold man from pursuing: whereas it is not properly about those passions, such as fear and the like, which denote some kind of withdrawal: since in these it is praiseworthy to remain firm in pursuing what reason dictates, as stated above (Q[123], AA[3],4). Now it is to be observed that natural inclinations are the principles of all supervening inclinations, as stated above ([3554]FP, Q[60], A[2]). Wherefore the more they follow the inclination of nature, the more strongly do the passions urge to the pursuance of an object. Now nature inclines chiefly to those things that are necessary to it, whether for the maintenance of the individual, such as food, or for the maintenance of the species, such as venereal acts, the pleasures of which pertain to the touch. Therefore continence and incontinence refer properly to desires for pleasures of touch.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as temperance may be used in a general sense in connection with any matter; but is properly applied to that matter wherein it is best for man to be curbed: so, too, continence properly speaking regards that matter wherein it is best and most difficult to contain oneself, namely desires for pleasures of touch, and yet in a general sense and relatively may be applied to any other matter: and in this sense Ambrose speaks of continence.
 
@@ -61,9 +61,9 @@ Reply to Objection 3: External goods, such as honors, riches and the like, as th
 Reply to Objection 4: Venereal pleasures are more vehement than pleasures of the palate: wherefore we are wont to speak of continence and incontinence in reference to venereal matters rather than in reference to food; although according to the Philosopher they are applicable to both.
 
 Reply to Objection 5: Continence is a good of the human reason: wherefore it regards those passions which can be connatural to man. Hence the Philosopher says (Ethic. vii, 5) that "if a man were to lay hold of a child with desire of eating him or of satisfying an unnatural passion whether he follow up his desire or not, he is said to be continent [*See A[4]], not absolutely, but relatively."
-## Whether The Subject Of Continence Is The Concupiscible Power?
+### Whether The Subject Of Continence Is The Concupiscible Power?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the subject of continence is the concupiscible power. For the subject of a virtue should be proportionate to the virtue's matter. Now the matter of continence, as stated [3555](A[2]), is desires for the pleasures of touch, which pertain to the concupiscible power. Therefore continence is in the concupiscible power.
 
@@ -71,22 +71,22 @@ Objection 2: Further, "Opposites are referred to one same thing" [*Categ. viii].
 
 Objection 3: Further, the subject of a human virtue is either the reason, or the appetitive power, which is divided into the will, the concupiscible and the irascible. Now continence is not in the reason, for then it would be an intellectual virtue; nor is it in the will, since continence is about the passions which are not in the will; nor again is it in the irascible, because it is not properly about the passions of the irascible, as stated above (A[2], ad 2). Therefore it follows that it is in the concupiscible.
 
-### Answer
+**Answer**
 
 On the contrary, Every virtue residing in a certain power removes the evil act of that power. But continence does not remove the evil act of the concupiscible: since "the continent man has evil desires," according to the Philosopher (Ethic. vii, 9). Therefore continence is not in the concupiscible power.
 
 I answer that, Every virtue while residing in a subject, makes that subject have a different disposition from that which it has while subjected to the opposite vice. Now the concupiscible has the same disposition in one who is continent and in one who is incontinent, since in both of them it breaks out into vehement evil desires. Wherefore it is manifest that continence is not in the concupiscible as its subject. Again the reason has the same disposition in both, since both the continent and the incontinent have right reason, and each of them, while undisturbed by passion, purposes not to follow his unlawful desires. Now the primary difference between them is to be found in their choice: since the continent man, though subject to vehement desires, chooses not to follow them, because of his reason; whereas the incontinent man chooses to follow them, although his reason forbids. Hence continence must needs reside in that power of the soul, whose act it is to choose; and that is the will, as stated above ([3556]FS, Q[13], A[1]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Continence has for its matter the desires for pleasures of touch, not as moderating them (this belongs to temperance which is in the concupiscible), but its business with them is to resist them. For this reason it must be in another power, since resistance is of one thing against another.
 
 Reply to Objection 2: The will stands between reason and the concupiscible, and may be moved by either. In the continent man it is moved by the reason, in the incontinent man it is moved by the concupiscible. Hence continence may be ascribed to the reason as to its first mover, and incontinence to the concupiscible power: though both belong immediately to the will as their proper subject.
 
 Reply to Objection 3: Although the passions are not in the will as their subject, yet it is in the power of the will to resist them: thus it is that the will of the continent man resists desires.
-## Whether Continence Is Better Than Temperance?
+### Whether Continence Is Better Than Temperance?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that continence is better than temperance. For it is written (Ecclus. 26:20): "No price is worthy of a continent soul." Therefore no virtue can be equalled to continence.
 
@@ -94,13 +94,13 @@ Objection 2: Further, the greater the reward a virtue merits, the greater the vi
 
 Objection 3: Further, the will is a more excellent power than the concupiscible. But continence is in the will, whereas temperance is in the concupiscible, as stated above [3557](A[3]). Therefore continence is a greater virtue than temperance.
 
-### Answer
+**Answer**
 
 On the contrary, Tully (De Invent. Rhet. ii, 54) and Andronicus [*De Affectibus] reckon continence to be annexed to temperance, as to a principal virtue.
 
 I answer that, As stated above [3558](A[1]), continence has a twofold signification. In one way it denotes cessation from all venereal pleasures; and if continence be taken in this sense, it is greater than temperance considered absolutely, as may be gathered from what we said above (Q[152], A[5]) concerning the preeminence of virginity over chastity considered absolutely. In another way continence may be taken as denoting the resistance of the reason to evil desires when they are vehement in a man: and in this sense temperance is far greater than continence, because the good of a virtue derives its praise from that which is in accord with reason. Now the good of reason flourishes more in the temperate man than in the continent man, because in the former even the sensitive appetite is obedient to reason, being tamed by reason so to speak, whereas in the continent man the sensitive appetite strongly resists reason by its evil desires. Hence continence is compared to temperance, as the imperfect to the perfect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The passage quoted may be understood in two ways. First in reference to the sense in which continence denotes abstinence from all things venereal: and thus it means that "no price is worthy of a continent soul," in the genus of chastity the fruitfulness of the flesh is the purpose of marriage is equalled to the continence of virginity or of widowhood, as stated above ([3559]Q[152], AA[4],5). Secondly it may be understood in reference to the general sense in which continence denotes any abstinence from things unlawful: and thus it means that "no price is worthy of a continent soul," because its value is not measured with gold or silver, which are appreciable according to weight.
 

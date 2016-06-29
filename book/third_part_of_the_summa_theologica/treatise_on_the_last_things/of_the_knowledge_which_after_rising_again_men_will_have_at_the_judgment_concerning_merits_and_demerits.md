@@ -4,9 +4,9 @@ In the next place we must treat of those things which follow the resurrection. T
 (1) Whether at the judgment every man will know all his sins?
 (2) Whether every one will be able to read all that is on another's conscience?
 (3) Whether one will be able at one glance to see all merits and demerits?
-## Whether After The Resurrection Every One Will Know What Sins He Has Committed?
+### Whether After The Resurrection Every One Will Know What Sins He Has Committed?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that after the resurrection everyone will not be able to know all the sins he has committed. For whatever we know, either we receive it anew through the senses, or we draw it from the treasure house of the memory. Now after the resurrection men will be unable to perceive their sins by means of sense, because they will be things of the past, while sense perceives only the present: and many sins will have escaped the sinner's memory, and he will be unable to recall them from the treasure house of his memory. Therefore after rising again one will not be cognizant of all the sins one has committed.
 
@@ -16,13 +16,13 @@ Objection 3: Further, the greater the cause the greater the effect. Now the caus
 
 Objection 4: Further, at the resurrection the damned will be to the good they once did as the blessed to the sins they once committed. Now seemingly the damned after rising again will have no knowledge of the good they once did, since this would alleviate their pain considerably. Neither therefore will the blessed have any knowledge of the sins they had committed.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xx) that "a kind of Divine energy will come to our aid, so that we shall recall all of our sins to mind."
 
 I answer that, According to Rom. 2:15,16, "In the day when God shall judge" each one's conscience will bear witness to him and his thoughts will accuse and defend him. And since in every judicial hearing, the witness, the accuser, and the defendant need to be acquainted with the matter on which judgment has to be pronounced, and since at the general judgment all the works of men will be submitted to judgment, it will behoove every man to be cognizant then of all his works. Wherefore each man's conscience will be as a book containing his deeds on which judgment will be pronounced, even as in the human court of law we make use of records. Of these books it is written in the Apocalypse (20:12): "The books were opened: and another book was opened, which is the book of life; and the dead were judged by those things which were written in the books [Vulg.: 'book'], according to their works." According to Augustine's exposition (De Civ. Dei xx) the books which are here said to be opened "denote the saints of the New and Old Testaments in whom God's commandments are exemplified." Hence Richard of St. Victor (De judic. potest.) says: "Their hearts will be like the code of law." But the book of life, of which the text goes on to speak, signifies each one's conscience, which is said to be one single book, because the one Divine power will cause all to recall their deeds, and this energy, in so far as it reminds a man of his deeds, is called the "book of life" [*Cf. [5106]FP, Q[24], A[1], ad 1]. Or else we may refer the first books to the conscience, and by the second book we may understand the Judge's sentence as expressed in His providence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although many merits and demerits will have escaped our memory, yet there will be none of them but will remain somewhat in its effect, because those merits which are not deadened will remain in the reward accorded to them, while those that are deadened remain in the guilt of ingratitude, which is increased through the fact that a man sinned after receiving grace. In like manner those demerits which are not blotted out by repentance remain in the debt of punishment due to them, while those which have been blotted out by repentance remain in the remembrance of repentance, which they will recall together with their other merits. Hence in each man there will be something whereby he will be able to recollect his deeds. Nevertheless, as Augustine says (De Civ. Dei xx), the Divine energy will especially conduce to this.
 
@@ -31,9 +31,9 @@ Reply to Objection 2: Each one's conscience will bear certain marks of the deeds
 Reply to Objection 3: Although charity is now the cause of sorrow for sin, yet the saints in heaven will be so full of joy, that they will have no room for sorrow; and so they will not grieve for their sins, but rather will they rejoice in the Divine mercy, whereby their sins are forgiven them. Even so do the angels rejoice now in the Divine justice whereby those whom they guard fall headlong into sin through being abandoned by grace. and whose salvation none the less they eagerly watch over.
 
 Reply to Objection 4: The wicked will know all the good they have done, and this will not diminish their pain; indeed, it will increase it, because the greatest sorrow is to have lost many goods: for which reason Boethius says (De Consol. ii) that "the greatest misfortune is to have been happy."
-## Whether Every One Will Be Able To Read All That Is In Another's Conscience?
+### Whether Every One Will Be Able To Read All That Is In Another's Conscience?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that it will be impossible for every one to read all that is in another's conscience. For the knowledge of those who rise again will not be clearer than that of the angels, equality with whom is promised us after the resurrection (Mat. 22:30). Now angels cannot read one another's thoughts in matters dependent on the free-will, wherefore they need to speak in order to notify such things to one another [*Cf. FP, Q[107]]. Therefore after rising again we shall be unable to read what is contained in another's conscience.
 
@@ -43,13 +43,13 @@ Objection 3: Further, Chrysostom says (Hom. xxxi in Ep. ad Hebr.), as we have qu
 
 Objection 4: Further, it is a relief to know that one has had many associates in sin, so that one is less ashamed thereof. If therefore every one were to know the sin of another, each sinner's shame would be much diminished, which is unlikely. Therefore every one will not know the sins of all.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on 1 Cor. 4:5, "will . . . bring to light the hidden things of darkness," says: "Deeds and thoughts both good and evil will then be revealed and made known to all."
 
 I answer that, At the last and general judgment it behooves the Divine justice, which now is in many ways hidden, to appear evidently to all. Now the sentence of one who condemns or rewards cannot be just, unless it be delivered according to merits and demerits. Therefore just as it behooves both judge and jury to know the merits of a case, in order to deliver a just verdict, so is it necessary, in order that the sentence appear to be just, that all who know the sentence should be acquainted with the merits. Hence, since every one will know of his reward or condemnation, so will every one else know of it, and consequently as each one will recall his own merits or demerits, so will he be cognizant of those of others. This is the more probable and more common opinion, although the Master (Sent. iv, D, 43) says the contrary, namely that a man's sins blotted out by repentance will not be made known to others at the judgment. But it would follow from this that neither would his repentance for these sins be perfectly known, which would detract considerably from the glory of the saints and the praise due to God for having so mercifully delivered them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All the preceding merits or demerits will come to a certain amount in the glory or unhappiness of each one rising again. Consequently through eternal things being seen, all things in their consciences will be visible, especially as the Divine power will conduce to this so that the Judge's sentence may appear just to all.
 
@@ -58,9 +58,9 @@ Reply to Objection 2: It will be possible for a man's merits or demerits to be m
 Reply to Objection 3: The manifestation of his sins to the confusion of the sinner is a result of his neglect in omitting to confess them. But that the sins of the saints be revealed cannot be to their confusion or shame, as neither does it bring confusion to Mary Magdalen that her sins are publicly recalled in the Church, because shame is "fear of disgrace," as Damascene says (De Fide Orth. ii), and this will be impossible in the blessed. But this manifestation will bring them great glory on account of the penance they did, even as the confessor hails a man who courageously confesses great crimes. Sins are said to be blotted out because God sees them not for the purpose of punishing them.
 
 Reply to Objection 4: The sinner's confusion will not be diminished, but on the contrary increased, through his seeing the sins of others, for in seeing that others are blameworthy he will all the more acknowledge himself to be blamed. For that confusion be diminished by a cause of this kind is owing to the fact that shame regards the esteem of men, who esteem more lightly that which is customary. But then confusion will regard the esteem of God, which weighs every sin according to the truth, whether it be the sin of one man or of many.
-## Whether All Merits And Demerits, One's Own As Well As Those Of Others, Will Be Seen By Anyone At A Single Glance?
+### Whether All Merits And Demerits, One's Own As Well As Those Of Others, Will Be Seen By Anyone At A Single Glance?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that not all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance. For things considered singly are not seen at one glance. Now the damned will consider their sins singly and will bewail them, wherefore they say (Wis. 5:8): "What hath pride profited us?" Therefore they will not see them all at a glance.
 
@@ -68,7 +68,7 @@ Objection 2: Further, the Philosopher says (Topic. ii) that "we do not arrive at
 
 Objection 3: Further, the intellect of the damned after the resurrection will not be clearer than the intellect of the blessed and of the angels is now, as to the natural knowledge whereby they know things by innate species. Now by such knowledge the angels do not see several things at the same time. Therefore neither will the damned be able then to see all their deeds at the same time.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Job 8:22, "They . . . shall be clothed with confusion," says: "As soon as they shall see the Judge, all their evil deeds will stand before their eyes." Now they will see the Judge suddenly. Therefore in like manner will they see the evil they have done, and for the same reason all others.
 

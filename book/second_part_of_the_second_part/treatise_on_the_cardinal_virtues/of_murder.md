@@ -8,9 +8,9 @@ In due sequence we must consider the vices opposed to commutative justice. We mu
 (6) Whether it is lawful to kill a just man?
 (7) Whether it is lawful to kill a man in self-defense?
 (8) Whether accidental homicide is a mortal sin?
-## Whether It Is Unlawful To Kill Any Living Thing?
+### Whether It Is Unlawful To Kill Any Living Thing?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful to kill any living thing. For the Apostle says (Rom. 13:2): "They that resist the ordinance of God purchase to themselves damnation [*Vulg.: 'He that resisteth the power, resisteth the ordinance of God: and they that resist, purchase themselves damnation.']." Now Divine providence has ordained that all living things should be preserved, according to Ps. 146:8,9, "Who maketh grass to grow on the mountains . . . Who giveth to beasts their food." Therefore it seems unlawful to take the life of any living thing.
 
@@ -18,7 +18,7 @@ Objection 2: Further, murder is a sin because it deprives a man of life. Now lif
 
 Objection 3: Further, in the Divine law a special punishment is not appointed save for a sin. Now a special punishment had to be inflicted, according to the Divine law, on one who killed another man's ox or sheep (Ex. 22:1). Therefore the slaying of dumb animals is a sin.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei i, 20): "When we hear it said, 'Thou shalt not kill,' we do not take it as referring to trees, for they have no sense, nor to irrational animals, because they have no fellowship with us. Hence it follows that the words, 'Thou shalt not kill' refer to the killing of a man."
 
@@ -26,16 +26,16 @@ I answer that, There is no sin in using a thing for the purpose for which it is.
 
 Now the most necessary use would seem to consist in the fact that animals use plants, and men use animals, for food, and this cannot be done unless these be deprived of life: wherefore it is lawful both to take life from plants for the use of animals, and from animals for the use of men. In fact this is in keeping with the commandment of God Himself: for it is written (Gn. 1:29,30): "Behold I have given you every herb . . . and all trees . . . to be your meat, and to all beasts of the earth": and again (Gn. 9:3): "Everything that moveth and liveth shall be meat to you."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to the Divine ordinance the life of animals and plants is preserved not for themselves but for man. Hence, as Augustine says (De Civ. Dei i, 20), "by a most just ordinance of the Creator, both their life and their death are subject to our use."
 
 Reply to Objection 2: Dumb animals and plants are devoid of the life of reason whereby to set themselves in motion; they are moved, as it were by another, by a kind of natural impulse, a sign of which is that they are naturally enslaved and accommodated to the uses of others.
 
 Reply to Objection 3: He that kills another's ox, sins, not through killing the ox, but through injuring another man in his property. Wherefore this is not a species of the sin of murder but of the sin of theft or robbery.
-## Whether It Is Lawful To Kill Sinners?
+### Whether It Is Lawful To Kill Sinners?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful to kill men who have sinned. For our Lord in the parable (Mat. 13) forbade the uprooting of the cockle which denotes wicked men according to a gloss. Now whatever is forbidden by God is a sin. Therefore it is a sin to kill a sinner.
 
@@ -43,22 +43,22 @@ Objection 2: Further, human justice is conformed to Divine justice. Now accordin
 
 Objection 3: Further, it is not lawful, for any good end whatever, to do that which is evil in itself, according to Augustine (Contra Mendac. vii) and the Philosopher (Ethic. ii, 6). Now to kill a man is evil in itself, since we are bound to have charity towards all men, and "we wish our friends to live and to exist," according to Ethic. ix, 4. Therefore it is nowise lawful to kill a man who has sinned.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ex. 22:18): "Wizards thou shalt not suffer to live"; and (Ps. 100:8): "In the morning I put to death all the wicked of the land."
 
 I answer that, As stated above [2900](A[1]), it is lawful to kill dumb animals, in so far as they are naturally directed to man's use, as the imperfect is directed to the perfect. Now every part is directed to the whole, as imperfect to perfect, wherefore every part is naturally for the sake of the whole. For this reason we observe that if the health of the whole body demands the excision of a member, through its being decayed or infectious to the other members, it will be both praiseworthy and advantageous to have it cut away. Now every individual person is compared to the whole community, as part to whole. Therefore if a man be dangerous and infectious to the community, on account of some sin, it is praiseworthy and advantageous that he be killed in order to safeguard the common good, since "a little leaven corrupteth the whole lump" (1 Cor. 5:6).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord commanded them to forbear from uprooting the cockle in order to spare the wheat, i.e. the good. This occurs when the wicked cannot be slain without the good being killed with them, either because the wicked lie hidden among the good, or because they have many followers, so that they cannot be killed without danger to the good, as Augustine says (Contra Parmen. iii, 2). Wherefore our Lord teaches that we should rather allow the wicked to live, and that vengeance is to be delayed until the last judgment, rather than that the good be put to death together with the wicked. When, however, the good incur no danger, but rather are protected and saved by the slaying of the wicked, then the latter may be lawfully put to death.
 
 Reply to Objection 2: According to the order of His wisdom, God sometimes slays sinners forthwith in order to deliver the good, whereas sometimes He allows them time to repent, according as He knows what is expedient for His elect. This also does human justice imitate according to its powers; for it puts to death those who are dangerous to others, while it allows time for repentance to those who sin without grievously harming others.
 
 Reply to Objection 3: By sinning man departs from the order of reason, and consequently falls away from the dignity of his manhood, in so far as he is naturally free, and exists for himself, and he falls into the slavish state of the beasts, by being disposed of according as he is useful to others. This is expressed in Ps. 48:21: "Man, when he was in honor, did not understand; he hath been compared to senseless beasts, and made like to them," and Prov. 11:29: "The fool shall serve the wise." Hence, although it be evil in itself to kill a man so long as he preserve his dignity, yet it may be good to kill a man who has sinned, even as it is to kill a beast. For a bad man is worse than a beast, and is more harmful, as the Philosopher states (Polit. i, 1 and Ethic. vii, 6).
-## Whether It Is Lawful For A Private Individual To Kill A Man Who Has Sinned?
+### Whether It Is Lawful For A Private Individual To Kill A Man Who Has Sinned?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem lawful for a private individual to kill a man who has sinned. For nothing unlawful is commanded in the Divine law. Yet, on account of the sin of the molten calf, Moses commanded (Ex. 32:27): "Let every man kill his brother, and friend, and neighbor." Therefore it is lawful for private individuals to kill a sinner.
 
@@ -66,22 +66,22 @@ Objection 2: Further, as stated above (A[2], ad 3), man, on account of sin, is c
 
 Objection 3: Further, a man, though a private individual, deserves praise for doing what is useful for the common good. Now the slaying of evildoers is useful for the common good, as stated above [2901](A[2]). Therefore it is deserving of praise if even private individuals kill evil-doers.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei i) [*Can. Quicumque percutit, caus. xxiii, qu. 8]: "A man who, without exercising public authority, kills an evil-doer, shall be judged guilty of murder, and all the more, since he has dared to usurp a power which God has not given him."
 
 I answer that, As stated above [2902](A[2]), it is lawful to kill an evildoer in so far as it is directed to the welfare of the whole community, so that it belongs to him alone who has charge of the community's welfare. Thus it belongs to a physician to cut off a decayed limb, when he has been entrusted with the care of the health of the whole body. Now the care of the common good is entrusted to persons of rank having public authority: wherefore they alone, and not private individuals, can lawfully put evildoers to death.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The person by whose authority a thing is done really does the thing as Dionysius declares (Coel. Hier. iii). Hence according to Augustine (De Civ. Dei i, 21), "He slays not who owes his service to one who commands him, even as a sword is merely the instrument to him that wields it." Wherefore those who, at the Lord's command, slew their neighbors and friends, would seem not to have done this themselves, but rather He by whose authority they acted thus: just as a soldier slays the foe by the authority of his sovereign, and the executioner slays the robber by the authority of the judge.
 
 Reply to Objection 2: A beast is by nature distinct from man, wherefore in the case of a wild beast there is no need for an authority to kill it; whereas, in the case of domestic animals, such authority is required, not for their sake, but on account of the owner's loss. On the other hand a man who has sinned is not by nature distinct from good men; hence a public authority is requisite in order to condemn him to death for the common good.
 
 Reply to Objection 3: It is lawful for any private individual to do anything for the common good, provided it harm nobody: but if it be harmful to some other, it cannot be done, except by virtue of the judgment of the person to whom it pertains to decide what is to be taken from the parts for the welfare of the whole.
-## Whether It Is Lawful For Clerics To Kill Evil-doers?
+### Whether It Is Lawful For Clerics To Kill Evil-doers?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem lawful for clerics to kill evil-doers. For clerics especially should fulfil the precept of the Apostle (1 Cor. 4:16): "Be ye followers of me as I also am of Christ," whereby we are called upon to imitate God and His saints. Now the very God whom we worship puts evildoers to death, according to Ps. 135:10, "Who smote Egypt with their firstborn." Again Moses made the Levites slay twenty-three thousand men on account of the worship of the calf (Ex. 32), the priest Phinees slew the Israelite who went in to the woman of Madian (Num. 25), Samuel killed Agag king of Amalec (1 Kings 15), Elias slew the priests of Baal (3 Kings 18), Mathathias killed the man who went up to the altar to sacrifice (1 Mac. 2); and, in the New Testament, Peter killed Ananias and Saphira (Acts 5). Therefore it seems that even clerics may kill evil-doers.
 
@@ -89,22 +89,22 @@ Objection 2: Further, spiritual power is greater than the secular and is more un
 
 Objection 3: Further, whosoever lawfully accepts an office, may lawfully exercise the functions of that office. Now it belongs to the princely office to slay evildoers, as stated above [2903](A[3]). Therefore those clerics who are earthly princes may lawfully slay malefactors.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Tim. 3:2,3): "It behooveth . . . a bishop to be without crime [*Vulg.: 'blameless.' 'Without crime' is the reading in Tit. 1:7] . . . not given to wine, no striker."
 
 I answer that, It is unlawful for clerics to kill, for two reasons. First, because they are chosen for the ministry of the altar, whereon is represented the Passion of Christ slain "Who, when He was struck did not strike [Vulg.: 'When He suffered, He threatened not']" (1 Pet. 2:23). Therefore it becomes not clerics to strike or kill: for ministers should imitate their master, according to Ecclus. 10:2, "As the judge of the people is himself, so also are his ministers." The other reason is because clerics are entrusted with the ministry of the New Law, wherein no punishment of death or of bodily maiming is appointed: wherefore they should abstain from such things in order that they may be fitting ministers of the New Testament.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God works in all things without exception whatever is right, yet in each one according to its mode. Wherefore everyone should imitate God in that which is specially becoming to him. Hence, though God slays evildoers even corporally, it does not follow that all should imitate Him in this. As regards Peter, he did not put Ananias and Saphira to death by his own authority or with his own hand, but published their death sentence pronounced by God. The Priests or Levites of the Old Testament were the ministers of the Old Law, which appointed corporal penalties, so that it was fitting for them to slay with their own hands.
 
 Reply to Objection 2: The ministry of clerics is concerned with better things than corporal slayings, namely with things pertaining to spiritual welfare, and so it is not fitting for them to meddle with minor matters.
 
 Reply to Objection 3: Ecclesiastical prelates accept the office of earthly princes, not that they may inflict capital punishment themselves, but that this may be carried into effect by others in virtue of their authority.
-## Whether It Is Lawful To Kill Oneself?
+### Whether It Is Lawful To Kill Oneself?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem lawful for a man to kill himself. For murder is a sin in so far as it is contrary to justice. But no man can do an injustice to himself, as is proved in Ethic. v, 11. Therefore no man sins by killing himself.
 
@@ -116,13 +116,13 @@ Objection 4: Further, Samson killed himself, as related in Judges 16, and yet he
 
 Objection 5: Further, it is related (2 Mac. 14:42) that a certain Razias killed himself, "choosing to die nobly rather than to fall into the hands of the wicked, and to suffer abuses unbecoming his noble birth." Now nothing that is done nobly and bravely is unlawful. Therefore suicide is not unlawful.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei i, 20): "Hence it follows that the words 'Thou shalt not kill' refer to the killing of a man---not another man; therefore, not even thyself. For he who kills himself, kills nothing else than a man."
 
 I answer that, It is altogether unlawful to kill oneself, for three reasons. First, because everything naturally loves itself, the result being that everything naturally keeps itself in being, and resists corruptions so far as it can. Wherefore suicide is contrary to the inclination of nature, and to charity whereby every man should love himself. Hence suicide is always a mortal sin, as being contrary to the natural law and to charity. Secondly, because every part, as such, belongs to the whole. Now every man is part of the community, and so, as such, he belongs to the community. Hence by killing himself he injures the community, as the Philosopher declares (Ethic. v, 11). Thirdly, because life is God's gift to man, and is subject to His power, Who kills and makes to live. Hence whoever takes his own life, sins against God, even as he who kills another's slave, sins against that slave's master, and as he who usurps to himself judgment of a matter not entrusted to him. For it belongs to God alone to pronounce sentence of death and life, according to Dt. 32:39, "I will kill and I will make to live."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Murder is a sin, not only because it is contrary to justice, but also because it is opposed to charity which a man should have towards himself: in this respect suicide is a sin in relation to oneself. In relation to the community and to God, it is sinful, by reason also of its opposition to justice.
 
@@ -133,9 +133,9 @@ Reply to Objection 3: Man is made master of himself through his free-will: where
 Reply to Objection 4: As Augustine says (De Civ. Dei i, 21), "not even Samson is to be excused that he crushed himself together with his enemies under the ruins of the house, except the Holy Ghost, Who had wrought many wonders through him, had secretly commanded him to do this." He assigns the same reason in the case of certain holy women, who at the time of persecution took their own lives, and who are commemorated by the Church.
 
 Reply to Objection 5: It belongs to fortitude that a man does not shrink from being slain by another, for the sake of the good of virtue, and that he may avoid sin. But that a man take his own life in order to avoid penal evils has indeed an appearance of fortitude (for which reason some, among whom was Razias, have killed themselves thinking to act from fortitude), yet it is not true fortitude, but rather a weakness of soul unable to bear penal evils, as the Philosopher (Ethic. iii, 7) and Augustine (De Civ. Dei 22,23) declare.
-## Whether It Is Lawful To Kill The Innocent?
+### Whether It Is Lawful To Kill The Innocent?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in some cases it is lawful to kill the innocent. The fear of God is never manifested by sin, since on the contrary "the fear of the Lord driveth out sin" (Ecclus. 1:27). Now Abraham was commended in that he feared the Lord, since he was willing to slay his innocent son. Therefore one may, without sin, kill an innocent person.
 
@@ -143,22 +143,22 @@ Objection 2: Further, among those sins that are committed against one's neighbor
 
 Objection 3: Further, what is done in keeping with the order of justice is not a sin. But sometimes a man is forced, according to the order of justice, to slay an innocent person: for instance, when a judge, who is bound to judge according to the evidence, condemns to death a man whom he knows to be innocent but who is convicted by false witnesses; and again the executioner, who in obedience to the judge puts to death the man who has been unjustly sentenced.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ex. 23:7): "The innocent and just person thou shalt not put to death."
 
 I answer that, An individual man may be considered in two ways: first, in himself; secondly, in relation to something else. If we consider a man in himself, it is unlawful to kill any man, since in every man though he be sinful, we ought to love the nature which God has made, and which is destroyed by slaying him. Nevertheless, as stated above [2904](A[2]) the slaying of a sinner becomes lawful in relation to the common good, which is corrupted by sin. On the other hand the life of righteous men preserves and forwards the common good, since they are the chief part of the community. Therefore it is in no way lawful to slay the innocent.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God is Lord of death and life, for by His decree both the sinful and the righteous die. Hence he who at God's command kills an innocent man does not sin, as neither does God Whose behest he executes: indeed his obedience to God's commands is a proof that he fears Him.
 
 Reply to Objection 2: In weighing the gravity of a sin we must consider the essential rather than the accidental. Wherefore he who kills a just man, sins more grievously than he who slays a sinful man: first, because he injures one whom he should love more, and so acts more in opposition to charity: secondly, because he inflicts an injury on a man who is less deserving of one, and so acts more in opposition to justice: thirdly, because he deprives the community of a greater good: fourthly, because he despises God more, according to Lk. 10:16, "He that despiseth you despiseth Me." On the other hand it is accidental to the slaying that the just man whose life is taken be received by God into glory.
 
 Reply to Objection 3: If the judge knows that man who has been convicted by false witnesses, is innocent he must, like Daniel, examine the witnesses with great care, so as to find a motive for acquitting the innocent: but if he cannot do this he should remit him for judgment by a higher tribunal. If even this is impossible, he does not sin if he pronounce sentence in accordance with the evidence, for it is not he that puts the innocent man to death, but they who stated him to be guilty. He that carries out the sentence of the judge who has condemned an innocent man, if the sentence contains an inexcusable error, he should not obey, else there would be an excuse for the executions of the martyrs: if however it contain no manifest injustice, he does not has no right to discuss the judgment of his superior; nor is it he who slays the innocent man, but the judge whose minister he is.
-## Whether It Is Lawful To Kill A Man In Self-defense?
+### Whether It Is Lawful To Kill A Man In Self-defense?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that nobody may lawfully kill a man in self-defense. For Augustine says to Publicola (Ep. xlvii): "I do not agree with the opinion that one may kill a man lest one be killed by him; unless one be a soldier, exercise a public office, so that one does it not for oneself but for others, having the power to do so, provided it be in keeping with one's person." Now he who kills a man in self-defense, kills him lest he be killed by him. Therefore this would seem to be unlawful.
 
@@ -176,13 +176,13 @@ Objection 5: Further, if the tree be evil, so is the fruit, according to Mat. 7:
 
 
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ex. 22:2): "If a thief be found breaking into a house or undermining it, and be wounded so as to die; he that slew him shall not be guilty of blood." Now it is much more lawful to defend one's life than one's house. Therefore neither is a man guilty of murder if he kill another in defense of his own life.
 
 I answer that, Nothing hinders one act from having two effects, only one of which is intended, while the other is beside the intention. Now moral acts take their species according to what is intended, and not according to what is beside the intention, since this is accidental as explained above (Q[43], A[3]; [2905]FS, Q[12], A[1]). Accordingly the act of self-defense may have two effects, one is the saving of one's life, the other is the slaying of the aggressor. Therefore this act, since one's intention is to save one's own life, is not unlawful, seeing that it is natural to everything to keep itself in "being," as far as possible. And yet, though proceeding from a good intention, an act may be rendered unlawful, if it be out of proportion to the end. Wherefore if a man, in self-defense, uses more than necessary violence, it will be unlawful: whereas if he repel force with moderation his defense will be lawful, because according to the jurists [*Cap. Significasti, De Homicid. volunt. vel casual.], "it is lawful to repel force by force, provided one does not exceed the limits of a blameless defense." Nor is it necessary for salvation that a man omit the act of moderate self-defense in order to avoid killing the other man, since one is bound to take more care of one's own life than of another's. But as it is unlawful to take a man's life, except for the public authority acting for the common good, as stated above [2906](A[3]), it is not lawful for a man to intend killing a man in self-defense, except for such as have public authority, who while intending to kill a man in self-defense, refer this to the public good, as in the case of a soldier fighting against the foe, and in the minister of the judge struggling with robbers, although even these sin if they be moved by private animosity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The words quoted from Augustine refer to the case when one man intends to kill another to save himself from death. The passage quoted in the Second Objection is to be understood in the same sense. Hence he says pointedly, "for the sake of these things," whereby he indicates the intention. This suffices for the Reply to the Second Objection.
 

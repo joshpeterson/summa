@@ -3,9 +3,9 @@
 We must now consider modesty: and (1) Modesty in general; (2) Each of its species. Under the first head there are two points of inquiry:
 (1) Whether modesty is a part of temperance?
 (2) What is the matter of modesty?
-## Whether Modesty Is A Part Of Temperance?
+### Whether Modesty Is A Part Of Temperance?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that modesty is not a part of temperance. For modesty is denominated from mode. Now mode is requisite in every virtue: since virtue is directed to good; and "good," according to Augustine (De Nat. Boni 3), "consists in mode, species, and order." Therefore modesty is a general virtue, and consequently should not be reckoned a part of temperance.
 
@@ -13,22 +13,22 @@ Objection 2: Further, temperance would seem to be deserving of praise chiefly on
 
 Objection 3: Further, modesty would seem to regard the correction of our neighbor, according to 2 Tim. 2:24,25, "The servant of the Lord must not wrangle, but be mild towards all men . . . with modesty admonishing them that resist the truth." Now admonishing wrong-doers is an act of justice or of charity, as stated above ([3587]Q[33], A[1]). Therefore seemingly modesty is a part of justice rather than of temperance.
 
-### Answer
+**Answer**
 
 On the contrary, Tully (De Invent. Rhet. ii, 54) reckons modesty as a part of temperance.
 
 I answer that, As stated above ([3588]Q[141], A[4];[3589] Q[157], A[3]), temperance brings moderation into those things wherein it is most difficult to be moderate, namely the concupiscences of pleasures of touch. Now whenever there is a special virtue about some matter of very great moment, there must needs be another virtue about matters of lesser import: because the life of man requires to be regulated by the virtues with regard to everything: thus it was stated above ([3590]Q[134], A[3], ad 1), that while magnificence is about great expenditure, there is need in addition for liberality, which is concerned with ordinary expenditure. Hence there is need for a virtue to moderate other lesser matters where moderation is not so difficult. This virtue is called modesty, and is annexed to temperance as its principal.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When a name is common to many it is sometimes appropriated to those of the lowest rank; thus the common name of angel is appropriated to the lowest order of angels. In the same way, mode which is observed by all virtues in common, is specially appropriated to the virtue which prescribes the mode in the slightest things.
 
 Reply to Objection 2: Some things need tempering on account of their strength, thus we temper strong wine. But moderation is necessary in all things: wherefore temperance is more concerned with strong passions, and modesty about weaker passions.
 
 Reply to Objection 3: Modesty is to be taken there for the general moderation which is necessary in all virtues.
-## Whether Modesty Is Only About Outward Actions?
+### Whether Modesty Is Only About Outward Actions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that modesty is only about outward actions. For the inward movements of the passions cannot be known to other persons. Yet the Apostle enjoins (Phil. 4:5): "Let your modesty be known to all men." Therefore modesty is only about outward actions.
 
@@ -36,7 +36,7 @@ Objection 2: Further, the virtues that are about the passions are distinguished 
 
 Objection 3: Further, no one same virtue is both about things pertaining to the appetite---which is proper to the moral virtues---and about things pertaining to knowledge---which is proper to the intellectual virtues---and again about things pertaining to the irascible and concupiscible faculties. Therefore, if modesty be one virtue, it cannot be about all these things.
 
-### Answer
+**Answer**
 
 On the contrary, In all these things it is necessary to observe the "mode" whence modesty takes its name. Therefore modesty is about all of them.
 
@@ -46,7 +46,7 @@ In addition to this, moreover, Tully (De Invent. Rhet. ii, 54) considered that t
 
 To some of these matters, however, other authorities appointed certain special virtues: thus Andronicus [*De Affectibus] mentions "meekness, simplicity, humility," and other kindred virtues, of which we have spoken above (Q[143]); while Aristotle (Ethic. ii, 7) assigned {eutrapelia} to pleasures in games, as stated above ([3593]FS, Q[60], A[5]). All these are comprised under modesty as understood by Tully; and in this way modesty regards not only outward but also inward actions.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle speaks of modesty as regarding externals. Nevertheless the moderation of the inner man may be shown by certain outward signs.
 

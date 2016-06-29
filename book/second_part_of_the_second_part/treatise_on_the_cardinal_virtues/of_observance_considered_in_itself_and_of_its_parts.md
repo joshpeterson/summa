@@ -4,9 +4,9 @@ We must now consider observance and its parts, the considerations of which will 
 (1) Whether observance is a special virtue, distinct from other virtues?
 (2) What does observance offer?
 (3) Of its comparison with piety.
-## Whether Observance Is A Special Virtue, Distinct From Other Virtues?
+### Whether Observance Is A Special Virtue, Distinct From Other Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that observance is not a special virtue, distinct from other virtues. For virtues are distinguished by their objects. But the object of observance is not distinct from the object of piety: for Tully says (De Invent. Rhet. ii) that "it is by observance that we pay worship and honor to those who excel in some kind of dignity." But worship and honor are paid also by piety to our parents, who excel in dignity. Therefore observance is not a distinct virtue from piety.
 
@@ -14,7 +14,7 @@ Objection 2: Further, just as honor and worship are due to those that are in a p
 
 Objection 3: Further, we have many duties towards those who are in a position of dignity, the fulfilment of which is required by law, according to Rom. 13:7, "Render . . . to all men their dues: tribute to whom tribute is due," etc. Now the fulfilment of the requirements of the law belongs to legal justice, or even to special justice. Therefore observance is not by itself a special virtue distinct from other virtues.
 
-### Answer
+**Answer**
 
 On the contrary, Tully (De Invent. Rhet. ii) reckons observance along with the other parts of justice, which are special virtues.
 
@@ -22,16 +22,16 @@ I answer that, As explained above ([3156]Q[101], AA[1],3;[3157] Q[80]), accordin
 
 Therefore, just as, in a manner, religion, whereby worship is given to find piety, whereby we worship our so under piety we find observance, whereby worship and honor are paid to persons in positions of dignity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([3158]Q[101], A[3], ad 2), religion goes by the name of piety by way of supereminence, although piety properly so called is distinct from religion; and in the same way piety can be called observance by way of excellence, although observance properly speaking is distinct from piety.
 
 Reply to Objection 2: By the very fact of being in a position of dignity a man not only excels as regards his position, but also has a certain power of governing subjects, wherefore it is fitting that he should be considered as a principle inasmuch as he is the governor of others. On the other hand, the fact that a man has perfection of science and virtue does not give him the character of a principle in relation to others, but merely a certain excellence in himself. Wherefore a special virtue is appointed for the payment of worship and honor to persons in positions of dignity. Yet, forasmuch as science, virtue and all like things render a man fit for positions of dignity, the respect which is paid to anyone on account of any excellence whatever belongs to the same virtue.
 
 Reply to Objection 3: It belongs to special justice, properly speaking, to pay the equivalent to those to whom we owe anything. Now this cannot be done to the virtuous, and to those who make good use of their position of dignity, as neither can it be done to God, nor to our parents. Consequently these matters belong to an annexed virtue, and not to special justice, which is a principal virtue.
-## Whether It Belongs To Observance To Pay Worship And Honor To Those Who Are In Positions Of Dignity?
+### Whether It Belongs To Observance To Pay Worship And Honor To Those Who Are In Positions Of Dignity?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that it does not belong to observance to pay worship and honor to persons in positions of dignity. For according to Augustine (De Civ. Dei x), we are said to worship those persons whom we hold in honor, so that worship and honor would seem to be the same. Therefore it is unfitting to define observance as paying worship and honor to persons in positions of dignity.
 
@@ -39,22 +39,22 @@ Objection 2: Further, it belongs to justice that we pay what we owe: wherefore t
 
 Objection 3: Further, not only do we owe honor to persons of dignity who are placed over us; we owe them also fear and a certain payment of remuneration, according to Rom. 13:7, "Render . . . to all men their dues; tribute to whom tribute is due; custom to whom custom; fear to whom fear; honor to whom honor." Moreover, we owe them reverence and subjection, according to Heb. 13:17, "Obey your prelates, and be subject to them." Therefore observance is not fittingly defined as paying worship and honor.
 
-### Answer
+**Answer**
 
 On the contrary, Tully says (De Invent. Rhet. ii) that "it is by observance that we pay worship and honor to those who excel in some kind of dignity."
 
 I answer that, It belongs to persons in positions of dignity to govern subjects. Now to govern is to move certain ones to their due end: thus a sailor governs his ship by steering it to port. But every mover has a certain excellence and power over that which is moved. Wherefore, a person in a position of dignity is an object of twofold consideration: first, in so far as he obtains excellence of position, together with a certain power over subjects: secondly, as regards the exercise of his government. In respect of his excellence there is due to him honor, which is the recognition of some kind of excellence; and in respect of the exercise of his government, there is due to him worship, consisting in rendering him service, by obeying his commands, and by repaying him, according to one's faculty, for the benefits we received from him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Worship includes not only honor, but also whatever other suitable actions are connected with the relations between man and man.
 
 Reply to Objection 2: As stated above ([3160]Q[80]), debt is twofold. One is legal debt, to pay which man is compelled by law; and thus man owes honor and worship to those persons in positions of dignity who are placed over him. The other is moral debt, which is due by reason of a certain honesty: it is in this way that we owe worship and honor to persons in positions of dignity even though we be not their subjects.
 
 Reply to Objection 3: Honor is due to the excellence of persons in positions of dignity, on account of their higher rank: while fear is due to them on account of their power to use compulsion: and to the exercise of their government there is due both obedience, whereby subjects are moved at the command of their superiors, and tributes, which are a repayment of their labor.
-## Whether Observance Is A Greater Virtue Than Piety?
+### Whether Observance Is A Greater Virtue Than Piety?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that observance is a greater virtue than piety. For the prince to whom worship is paid by observance is compared to a father who is worshiped by piety, as a universal to a particular governor; because the household which a father governs is part of the state which is governed by the prince. Now a universal power is greater, and inferiors are more subject thereto. Therefore observance is a greater virtue than piety.
 
@@ -62,13 +62,13 @@ Objection 2: Further, persons in positions of dignity take care of the common go
 
 Objection 3: Further honor and reverence are due to the virtuous in the first place after God. Now honor and reverence are paid to the virtuous by the virtue of observance, as stated above (A[1], ad 3). Therefore observance takes the first place after religion.
 
-### Answer
+**Answer**
 
 On the contrary, The precepts of the Law prescribe acts of virtue. Now, immediately after the precepts of religion, which belong to the first table, follows the precept of honoring our parents which refers to piety. Therefore piety follows immediately after religion in the order of excellence.
 
 I answer that, Something may be paid to persons in positions of dignity in two ways. First, in relation to the common good, as when one serves them in the administration of the affairs of the state. This no longer belongs to observance, but to piety, which pays worship not only to one's father but also to one's fatherland. Secondly, that which is paid to persons in positions of dignity refers specially to their personal usefulness or renown, and this belongs properly to observance, as distinct from piety. Therefore in comparing observance with piety we must needs take into consideration the different relations in which other persons stand to ourselves, which relations both virtues regard. Now it is evident that the persons of our parents and of our kindred are more substantially akin to us than persons in positions of dignity, since birth and education, which originate in the father, belong more to one's substance than external government, the principle of which is seated in those who are in positions of dignity. For this reason piety takes precedence of observance, inasmuch as it pays worship to persons more akin to us, and to whom we are more strictly bound.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The prince is compared to the father as a universal to a particular power, as regards external government, but not as regards the father being a principle of generation: for in this way the father should be compared with the divine power from which all things derive their being.
 

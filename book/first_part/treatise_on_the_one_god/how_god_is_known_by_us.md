@@ -14,9 +14,9 @@ As hitherto we have considered God as He is in Himself, we now go on to consider
 (11) Whether in the state of this life any man can see the essence of God?
 (12) Whether by natural reason we can know God in this life?
 (13) Whether there is in this life any knowledge of God through grace above the knowledge of natural reason?
-## Whether Any Created Intellect Can See The Essence Of God?
+### Whether Any Created Intellect Can See The Essence Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that no created intellect can see the essence of God. For Chrysostom (Hom. xiv. in Joan.) commenting on Jn. 1:18, "No man hath seen God at any time," says: "Not prophets only, but neither angels nor archangels have seen God. For how can a creature see what is increatable?" Dionysius also says (Div. Nom. i), speaking of God: "Neither is there sense, nor image, nor opinion, nor reason, nor knowledge of Him."
 
@@ -26,7 +26,7 @@ Objection 3: Further, the created intellect knows only existing things. For what
 
 Objection 4: Further, there must be some proportion between the knower and the known, since the known is the perfection of the knower. But no proportion exists between the created intellect and God; for there is an infinite distance between them. Therefore the created intellect cannot see the essence of God.
 
-### Answer
+**Answer**
 
 On the contrary, It is written: "We shall see Him as He is" (1 Jn. 2:2).
 
@@ -36,7 +36,7 @@ Therefore some who considered this, held that no created intellect can see the e
 
 Hence it must be absolutely granted that the blessed see the essence of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Both of these authorities speak of the vision of comprehension. Hence Dionysius premises immediately before the words cited, "He is universally to all incomprehensible," etc. Chrysostom likewise after the words quoted says: "He says this of the most certain vision of the Father, which is such a perfect consideration and comprehension as the Father has of the Son."
 
@@ -45,9 +45,9 @@ Reply to Objection 2: The infinity of matter not made perfect by form, is unknow
 Reply to Objection 3: God is not said to be not existing as if He did not exist at all, but because He exists above all that exists; inasmuch as He is His own existence. Hence it does not follow that He cannot be known at all, but that He exceeds every kind of knowledge; which means that He is not comprehended.
 
 Reply to Objection 4: Proportion is twofold. In one sense it means a certain relation of one quantity to another, according as double, treble and equal are species of proportion. In another sense every relation of one thing to another is called proportion. And in this sense there can be a proportion of the creature to God, inasmuch as it is related to Him as the effect of its cause, and as potentiality to its act; and in this way the created intellect can be proportioned to know God.
-## Whether The Essence Of God Is Seen By The Created Intellect Through An Image?
+### Whether The Essence Of God Is Seen By The Created Intellect Through An Image?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the essence of God is seen through an image by the created intellect. For it is written: "We know that when He shall appear, we shall be like to Him, and [Vulg.: 'because'] we shall see Him as He is" (1 Jn. 3:2).
 
@@ -55,7 +55,7 @@ Objection 2: Further, Augustine says (De Trin. v): "When we know God, some liken
 
 Objection 3: Further, the intellect in act is the actual intelligible; as sense in act is the actual sensible. But this comes about inasmuch as sense is informed with the likeness of the sensible object, and the intellect with the likeness of the thing understood. Therefore, if God is seen by the created intellect in act, it must be that He is seen by some similitude.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xv) that when the Apostle says, "We see through a glass and in an enigma [*Douay: 'in a dark manner']," "by the terms 'glass' and 'enigma' certain similitudes are signified by him, which are accommodated to the vision of God." But to see the essence of God is not an enigmatic nor a speculative vision, but is, on the contrary, of an opposite kind. Therefore the divine essence is not seen through a similitude.
 
@@ -65,16 +65,16 @@ Now it is manifest both that God is the author of the intellect power, and that 
 
 Therefore it must be said that to see the essence of God, there is required some similitude in the visual faculty, namely, the light of glory strengthening the intellect to see God, which is spoken of in the Ps. 35:10, "In Thy light we shall see light." The essence of God, however, cannot be seen by any created similitude representing the divine essence itself as it really is.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That authority speaks of the similitude which is caused by participation of the light of glory.
 
 Reply to Objection 2: Augustine speaks of the knowledge of God here on earth.
 
 Reply to Objection 3: The divine essence is existence itself. Hence as other intelligible forms which are not their own existence are united to the intellect by means of some entity, whereby the intellect itself is informed, and made in act; so the divine essence is united to the created intellect, as the object actually understood, making the intellect in act by and of itself.
-## Whether The Essence Of God Can Be Seen With The Bodily Eye?
+### Whether The Essence Of God Can Be Seen With The Bodily Eye?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the essence of God can be seen by the corporeal eye. For it is written (Job 19:26): "In my flesh I shall see . . . God," and (Job 42:5), "With the hearing of the ear I have heard Thee, but now my eye seeth Thee."
 
@@ -82,22 +82,22 @@ Objection 2: Further, Augustine says (De Civ. Dei xxix, 29): "Those eyes" (namel
 
 Objection 3: Further, God can be seen by man through a vision of the imagination. For it is written: "I saw the Lord sitting upon a throne," etc. (Is. 6:1). But an imaginary vision originates from sense; for the imagination is moved by sense to act. Therefore God can be seen by a vision of sense.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Vid. Deum, Ep. cxlvii): "No one has ever seen God either in this life, as He is, nor in the angelic life, as visible things are seen by corporeal vision."
 
 I answer that, It is impossible for God to be seen by the sense of sight, or by any other sense, or faculty of the sensitive power. For every such kind of power is the act of a corporeal organ, as will be shown later [52](Q[78]). Now act is proportional to the nature which possesses it. Hence no power of that kind can go beyond corporeal things. For God is incorporeal, as was shown above ([53]Q[3], A[1]). Hence He cannot be seen by the sense or the imagination, but only by the intellect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The words, "In my flesh I shall see God my Saviour," do not mean that God will be seen with the eye of the flesh, but that man existing in the flesh after the resurrection will see God. Likewise the words, "Now my eye seeth Thee," are to be understood of the mind's eye, as the Apostle says: "May He give unto you the spirit of wisdom . . . in the knowledge of Him, that the eyes of your heart" may be "enlightened" (Eph. 1:17,18).
 
 Reply to Objection 2: Augustine speaks as one inquiring, and conditionally. This appears from what he says previously: "Therefore they will have an altogether different power (viz. the glorified eyes), if they shall see that incorporeal nature;" and afterwards he explains this, saying: "It is very credible, that we shall so see the mundane bodies of the new heaven and the new earth, as to see most clearly God everywhere present, governing all corporeal things, not as we now see the invisible things of God as understood by what is made; but as when we see men among whom we live, living and exercising the functions of human life, we do not believe they live, but see it." Hence it is evident how the glorified eyes will see God, as now our eyes see the life of another. But life is not seen with the corporeal eye, as a thing in itself visible, but as the indirect object of the sense; which indeed is not known by sense, but at once, together with sense, by some other cognitive power. But that the divine presence is known by the intellect immediately on the sight of, and through, corporeal things, happens from two causes---viz. from the perspicuity of the intellect, and from the refulgence of the divine glory infused into the body after its renovation.
 
 Reply to Objection 3: The essence of God is not seen in a vision of the imagination; but the imagination receives some form representing God according to some mode of similitude; as in the divine Scripture divine things are metaphorically described by means of sensible things.
-## Whether Any Created Intellect By Its Natural Powers Can See The Divine Essence?
+### Whether Any Created Intellect By Its Natural Powers Can See The Divine Essence?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that a created intellect can see the Divine essence by its own natural power. For Dionysius says (Div. Nom. iv): "An angel is a pure mirror, most clear, receiving, if it is right to say so, the whole beauty of God." But if a reflection is seen, the original thing is seen. Therefore since an angel by his natural power understands himself, it seems that by his own natural power he understands the Divine essence.
 
@@ -105,22 +105,22 @@ Objection 2: Further, what is supremely visible, is made less visible to us by r
 
 Objection 3: Further, corporeal sense cannot be raised up to understand incorporeal substance, which is above its nature. Therefore if to see the essence of God is above the nature of every created intellect, it follows that no created intellect can reach up to see the essence of God at all. But this is false, as appears from what is said above [54](A[1]). Therefore it seems that it is natural for a created intellect to see the Divine essence.
 
-### Answer
+**Answer**
 
 On the contrary, It is written: "The grace of God is life everlasting" (Rom. 6:23). But life everlasting consists in the vision of the Divine essence, according to the words: "This is eternal life, that they may know Thee the only true God," etc. (Jn. 17:3). Therefore to see the essence of God is possible to the created intellect by grace, and not by nature.
 
 I answer that, It is impossible for any created intellect to see the essence of God by its own natural power. For knowledge is regulated according as the thing known is in the knower. But the thing known is in the knower according to the mode of the knower. Hence the knowledge of every knower is ruled according to its own nature. If therefore the mode of anything's being exceeds the mode of the knower, it must result that the knowledge of the object is above the nature of the knower. Now the mode of being of things is manifold. For some things have being only in this one individual matter; as all bodies. But others are subsisting natures, not residing in matter at all, which, however, are not their own existence, but receive it; and these are the incorporeal beings, called angels. But to God alone does it belong to be His own subsistent being. Therefore what exists only in individual matter we know naturally, forasmuch as our soul, whereby we know, is the form of certain matter. Now our soul possesses two cognitive powers; one is the act of a corporeal organ, which naturally knows things existing in individual matter; hence sense knows only the singular. But there is another kind of cognitive power in the soul, called the intellect; and this is not the act of any corporeal organ. Wherefore the intellect naturally knows natures which exist only in individual matter; not as they are in such individual matter, but according as they are abstracted therefrom by the considering act of the intellect; hence it follows that through the intellect we can understand these objects as universal; and this is beyond the power of the sense. Now the angelic intellect naturally knows natures that are not in matter; but this is beyond the power of the intellect of our soul in the state of its present life, united as it is to the body. It follows therefore that to know self-subsistent being is natural to the divine intellect alone; and this is beyond the natural power of any created intellect; for no creature is its own existence, forasmuch as its existence is participated. Therefore the created intellect cannot see the essence of God, unless God by His grace unites Himself to the created intellect, as an object made intelligible to it.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This mode of knowing God is natural to an angel---namely, to know Him by His own likeness refulgent in the angel himself. But to know God by any created similitude is not to know the essence of God, as was shown above [55](A[2]). Hence it does not follow that an angel can know the essence of God by his own power.
 
 Reply to Objection 2: The angelic intellect is not defective, if defect be taken to mean privation, as if it were without anything which it ought to have. But if the defect be taken negatively, in that sense every creature is defective, when compared with God; forasmuch as it does not possess the excellence which is in God.
 
 Reply to Objection 3: The sense of sight, as being altogether material, cannot be raised up to immateriality. But our intellect, or the angelic intellect, inasmuch as it is elevated above matter in its own nature, can be raised up above its own nature to a higher level by grace. The proof is, that sight cannot in any way know abstractedly what it knows concretely; for in no way can it perceive a nature except as this one particular nature; whereas our intellect is able to consider abstractedly what it knows concretely. Now although it knows things which have a form residing in matter, still it resolves the composite into both of these elements; and it considers the form separately by itself. Likewise, also, the intellect of an angel, although it naturally knows the concrete in any nature, still it is able to separate that existence by its intellect; since it knows that the thing itself is one thing, and its existence is another. Since therefore the created intellect is naturally capable of apprehending the concrete form, and the concrete being abstractedly, by way of a kind of resolution of parts; it can by grace be raised up to know separate subsisting substance, and separate subsisting existence.
-## Whether The Created Intellect Needs Any Created Light In Order To See The Essence Of God?
+### Whether The Created Intellect Needs Any Created Light In Order To See The Essence Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the created intellect does not need any created light in order to see the essence of God. For what is of itself lucid in sensible things does not require any other light in order to be seen. Therefore the same applies to intelligible things. Now God is intelligible light. Therefore He is not seen by means of any created light.
 
@@ -128,22 +128,22 @@ Objection 2: Further, if God is seen through a medium, He is not seen in His ess
 
 Objection 3: Further, what is created can be natural to some creature. Therefore if the essence of God is seen through any created light, such a light can be made natural to some other creature; and thus, that creature would not need any other light to see God; which is impossible. Therefore it is not necessary that every creature should require a superadded light in order to see the essence of God.
 
-### Answer
+**Answer**
 
 On the contrary, It is written: "In Thy light we shall see light" (Ps. 35:10).
 
 I answer that, Everything which is raised up to what exceeds its nature, must be prepared by some disposition above its nature; as, for example, if air is to receive the form of fire, it must be prepared by some disposition for such a form. But when any created intellect sees the essence of God, the essence of God itself becomes the intelligible form of the intellect. Hence it is necessary that some supernatural disposition should be added to the intellect in order that it may be raised up to such a great and sublime height. Now since the natural power of the created intellect does not avail to enable it to see the essence of God, as was shown in the preceding article, it is necessary that the power of understanding should be added by divine grace. Now this increase of the intellectual powers is called the illumination of the intellect, as we also call the intelligible object itself by the name of light of illumination. And this is the light spoken of in the Apocalypse (Apoc. 21:23): "The glory of God hath enlightened it"---viz. the society of the blessed who see God. By this light the blessed are made "deiform"---i.e. like to God, according to the saying: "When He shall appear we shall be like to Him, and [Vulg.: 'because'] we shall see Him as He is" (1 Jn. 3:2).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The created light is necessary to see the essence of God, not in order to make the essence of God intelligible, which is of itself intelligible, but in order to enable the intellect to understand in the same way as a habit makes a power abler to act. Even so corporeal light is necessary as regards external sight, inasmuch as it makes the medium actually transparent, and susceptible of color.
 
 Reply to Objection 2: This light is required to see the divine essence, not as a similitude in which God is seen, but as a perfection of the intellect, strengthening it to see God. Therefore it may be said that this light is to be described not as a medium in which God is seen, but as one by which He is seen; and such a medium does not take away the immediate vision of God.
 
 Reply to Objection 3: The disposition to the form of fire can be natural only to the subject of that form. Hence the light of glory cannot be natural to a creature unless the creature has a divine nature; which is impossible. But by this light the rational creature is made deiform, as is said in this article.
-## Whether Of Those Who See The Essence Of God, One Sees More Perfectly Than Another?
+### Whether Of Those Who See The Essence Of God, One Sees More Perfectly Than Another?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that of those who see the essence of God, one does not see more perfectly than another. For it is written (1 Jn. 3:2): "We shall see Him as He is." But He is only in one way. Therefore He will be seen by all in one way only; and therefore He will not be seen more perfectly by one and less perfectly by another.
 
@@ -151,7 +151,7 @@ Objection 2: Further, Augustine says (Octog. Tri. Quaest. qu. xxxii): "One perso
 
 Objection 3: Further, That anything be seen more perfectly than another can happen in two ways: either on the part of the visible object, or on the part of the visual power of the seer. On the part of the object, it may so happen because the object is received more perfectly in the seer, that is, according to the greater perfection of the similitude; but this does not apply to the present question, for God is present to the intellect seeing Him not by way of similitude, but by His essence. It follows then that if one sees Him more perfectly than another, this happens according to the difference of the intellectual power; thus it follows too that the one whose intellectual power is higher, will see Him the more clearly; and this is incongruous; since equality with angels is promised to men as their beatitude.
 
-### Answer
+**Answer**
 
 On the contrary, Eternal life consists in the vision of God, according to Jn. 17:3: "This is eternal life, that they may know Thee the only true God," etc. Therefore if all saw the essence of God equally in eternal life, all would be equal; the contrary to which is declared by the Apostle: "Star differs from star in glory" (1 Cor. 15:41).
 
@@ -159,14 +159,14 @@ I answer that, Of those who see the essence of God, one sees Him more perfectly 
 
 Hence the intellect which has more of the light of glory will see God the more perfectly; and he will have a fuller participation of the light of glory who has more charity; because where there is the greater charity, there is the more desire; and desire in a certain degree makes the one desiring apt and prepared to receive the object desired. Hence he who possesses the more charity, will see God the more perfectly, and will be the more beatified.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the words,"We shall see Him as He is," the conjunction "as" determines the mode of vision on the part of the object seen, so that the meaning is, we shall see Him to be as He is, because we shall see His existence, which is His essence. But it does not determine the mode of vision on the part of the one seeing; as if the meaning was that the mode of seeing God will be as perfect as is the perfect mode of God's existence.
 
 Reply to Objection 3: The diversity of seeing will not arise on the part of the object seen, for the same object will be presented to all---viz. the essence of God; nor will it arise from the diverse participation of the object seen by different similitudes; but it will arise on the part of the diverse faculty of the intellect, not, indeed, the natural faculty, but the glorified faculty.
-## Whether Those Who See The Essence Of God Comprehend Him?
+### Whether Those Who See The Essence Of God Comprehend Him?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that those who see the divine essence, comprehend God. For the Apostle says (Phil. 3:12): "But I follow after, if I may by any means comprehend [Douay: 'apprehend']." But the Apostle did not follow in vain; for he said (1 Cor. 9:26): "I . . . so run, not as at an uncertainty." Therefore he comprehended; and in the same way, others also, whom he invites to do the same, saying: "So run that you may comprehend."
 
@@ -174,7 +174,7 @@ Objection 2: Further, Augustine says (De Vid. Deum, Ep. cxlvii): "That is compre
 
 Objection 3: Further, if we say that He is seen as a "whole," but not "wholly," it may be contrarily urged that "wholly" refers either to the mode of the seer, or to the mode of the thing seen. But he who sees the essence of God, sees Him wholly, if the mode of the thing seen is considered; forasmuch as he sees Him as He is; also, likewise, he sees Him wholly if the mode of the seer is meant, forasmuch as the intellect will with its full power see the Divine essence. Therefore all who see the essence of God see Him wholly; therefore they comprehend Him.
 
-### Answer
+**Answer**
 
 On the contrary, It is written: "O most mighty, great, and powerful, the Lord of hosts is Thy Name. Great in counsel, and incomprehensible in thought" (Jer. 32:18,19). Therefore He cannot be comprehended.
 
@@ -182,16 +182,16 @@ I answer that, It is impossible for any created intellect to comprehend God; yet
 
 In proof of this we must consider that what is comprehended is perfectly known; and that is perfectly known which is known so far as it can be known. Thus, if anything which is capable of scientific demonstration is held only by an opinion resting on a probably proof, it is not comprehended; as, for instance, if anyone knows by scientific demonstration that a triangle has three angles equal to two right angles, he comprehends that truth; whereas if anyone accepts it as a probable opinion because wise men or most men teach it, he cannot be said to comprehend the thing itself, because he does not attain to that perfect mode of knowledge of which it is intrinsically capable. But no created intellect can attain to that perfect mode of the knowledge of the Divine intellect whereof it is intrinsically capable. Which thus appears---Everything is knowable according to its actuality. But God, whose being is infinite, as was shown above [56](Q[7]) is infinitely knowable. Now no created intellect can know God infinitely. For the created intellect knows the Divine essence more or less perfectly in proportion as it receives a greater or lesser light of glory. Since therefore the created light of glory received into any created intellect cannot be infinite, it is clearly impossible for any created intellect to know God in an infinite degree. Hence it is impossible that it should comprehend God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: "Comprehension" is twofold: in one sense it is taken strictly and properly, according as something is included in the one comprehending; and thus in no way is God comprehended either by intellect, or in any other way; forasmuch as He is infinite and cannot be included in any finite being; so that no finite being can contain Him infinitely, in the degree of His own infinity. In this sense we now take comprehension. But in another sense "comprehension" is taken more largely as opposed to "non-attainment"; for he who attains to anyone is said to comprehend him when he attains to him. And in this sense God is comprehended by the blessed, according to the words, "I held him, and I will not let him go" (Cant 3:4); in this sense also are to be understood the words quoted from the Apostle concerning comprehension. And in this way "comprehension" is one of the three prerogatives of the soul, responding to hope, as vision responds to faith, and fruition responds to charity. For even among ourselves not everything seen is held or possessed, forasmuch as things either appear sometimes afar off, or they are not in our power of attainment. Neither, again, do we always enjoy what we possess; either because we find no pleasure in them, or because such things are not the ultimate end of our desire, so as to satisfy and quell it. But the blessed possess these three things in God; because they see Him, and in seeing Him, possess Him as present, having the power to see Him always; and possessing Him, they enjoy Him as the ultimate fulfilment of desire.
 
 Reply to Objection 2: God is called incomprehensible not because anything of Him is not seen; but because He is not seen as perfectly as He is capable of being seen; thus when any demonstrable proposition is known by probable reason only, it does not follow that any part of it is unknown, either the subject, or the predicate, or the composition; but that it is not as perfectly known as it is capable of being known. Hence Augustine, in his definition of comprehension, says the whole is comprehended when it is seen in such a way that nothing of it is hidden from the seer, or when its boundaries can be completely viewed or traced; for the boundaries of a thing are said to be completely surveyed when the end of the knowledge of it is attained.
 
 Reply to Objection 3: The word "wholly" denotes a mode of the object; not that the whole object does not come under knowledge, but that the mode of the object is not the mode of the one who knows. Therefore he who sees God's essence, sees in Him that He exists infinitely, and is infinitely knowable; nevertheless, this infinite mode does not extend to enable the knower to know infinitely; thus, for instance, a person can have a probable opinion that a proposition is demonstrable, although he himself does not know it as demonstrated.
-## Whether Those Who See The Essence Of God See All In God?
+### Whether Those Who See The Essence Of God See All In God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that those who see the essence of God see all things in God. For Gregory says (Dialog. iv): "What do they not see, who see Him Who sees all things?" But God sees all things. Therefore those who see God see all things.
 
@@ -201,13 +201,13 @@ Objection 3: Further, whoever understands the greater, can understand the least,
 
 Objection 4: Further, the rational creature naturally desires to know all things. Therefore if in seeing God it does not know all things, its natural desire will not rest satisfied; thus, in seeing God it will not be fully happy; which is incongruous. Therefore he who sees God knows all things.
 
-### Answer
+**Answer**
 
 On the contrary, The angels see the essence of God; and yet do not know all things. For as Dionysius says (Coel. Hier. vii), "the inferior angels are cleansed from ignorance by the superior angels." Also they are ignorant of future contingent things, and of secret thoughts; for this knowledge belongs to God alone. Therefore whosoever sees the essence of God, does not know all things.
 
 I answer that, The created intellect, in seeing the divine essence, does not see in it all that God does or can do. For it is manifest that things are seen in God as they are in Him. But all other things are in God as effects are in the power of their cause. Therefore all things are seen in God as an effect is seen in its cause. Now it is clear that the more perfectly a cause is seen, the more of its effects can be seen in it. For whoever has a lofty understanding, as soon as one demonstrative principle is put before him can gather the knowledge of many conclusions; but this is beyond one of a weaker intellect, for he needs things to be explained to him separately. And so an intellect can know all the effects of a cause and the reasons for those effects in the cause itself, if it comprehends the cause wholly. Now no created intellect can comprehend God wholly, as shown above [57](A[7]). Therefore no created intellect in seeing God can know all that God does or can do, for this would be to comprehend His power; but of what God does or can do any intellect can know the more, the more perfectly it sees God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Gregory speaks as regards the object being sufficient, namely, God, who in Himself sufficiently contains and shows forth all things; but it does not follow that whoever sees God knows all things, for he does not perfectly comprehend Him.
 
@@ -216,47 +216,47 @@ Reply to Objection 2: It is not necessary that whoever sees a mirror should see 
 Reply to Objection 3: Although it is more to see God than to see all things else, still it is a greater thing to see Him so that all things are known in Him, than to see Him in such a way that not all things, but the fewer or the more, are known in Him. For it has been shown in this article that the more things are known in God according as He is seen more or less perfectly.
 
 Reply to Objection 4: The natural desire of the rational creature is to know everything that belongs to the perfection of the intellect, namely, the species and the genera of things and their types, and these everyone who sees the Divine essence will see in God. But to know other singulars, their thoughts and their deeds does not belong to the perfection of the created intellect nor does its natural desire go out to these things; neither, again, does it desire to know things that exist not as yet, but which God can call into being. Yet if God alone were seen, Who is the fount and principle of all being and of all truth, He would so fill the natural desire of knowledge that nothing else would be desired, and the seer would be completely beatified. Hence Augustine says (Confess. v): "Unhappy the man who knoweth all these" (i.e. all creatures) "and knoweth not Thee! but happy whoso knoweth Thee although he know not these. And whoso knoweth both Thee and them is not the happier for them, but for Thee alone."
-## Whether What Is Seen In God By Those Who See The Divine Essence, Is Seen Through Any Similitude?
+### Whether What Is Seen In God By Those Who See The Divine Essence, Is Seen Through Any Similitude?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that what is seen in God by those who see the Divine essence, is seen by means of some similitude. For every kind of knowledge comes about by the knower being assimilated to the object known. For thus the intellect in act becomes the actual intelligible, and the sense in act becomes the actual sensible, inasmuch as it is informed by a similitude of the object, as the eye by the similitude of color. Therefore if the intellect of one who sees the Divine essence understands any creatures in God, it must be informed by their similitudes.
 
 Objection 2: Further, what we have seen, we keep in memory. But Paul, seeing the essence of God whilst in ecstasy, when he had ceased to see the Divine essence, as Augustine says (Gen. ad lit. ii, 28,34), remembered many of the things he had seen in the rapture; hence he said: "I have heard secret words which it is not granted to man to utter" (2 Cor. 12:4). Therefore it must be said that certain similitudes of what he remembered, remained in his mind; and in the same way, when he actually saw the essence of God, he had certain similitudes or ideas of what he actually saw in it.
 
-### Answer
+**Answer**
 
 On the contrary, A mirror and what is in it are seen by means of one likeness. But all things are seen in God as in an intelligible mirror. Therefore if God Himself is not seen by any similitude but by His own essence, neither are the things seen in Him seen by any similitudes or ideas.
 
 I answer that, Those who see the divine essence see what they see in God not by any likeness, but by the divine essence itself united to their intellect. For each thing is known in so far as its likeness is in the one who knows. Now this takes place in two ways. For as things which are like one and the same thing are like to each other, the cognitive faculty can be assimilated to any knowable object in two ways. In one way it is assimilated by the object itself, when it is directly informed by a similitude, and then the object is known in itself. In another way when informed by a similitude which resembles the object; and in this way, the knowledge is not of the thing in itself, but of the thing in its likeness. For the knowledge of a man in himself differs from the knowledge of him in his image. Hence to know things thus by their likeness in the one who knows, is to know them in themselves or in their own nature; whereas to know them by their similitudes pre-existing in God, is to see them in God. Now there is a difference between these two kinds of knowledge. Hence, according to the knowledge whereby things are known by those who see the essence of God, they are seen in God Himself not by any other similitudes but by the Divine essence alone present to the intellect; by which also God Himself is seen.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The created intellect of one who sees God is assimilated to what is seen in God, inasmuch as it is united to the Divine essence, in which the similitudes of all things pre-exist.
 
 Reply to Objection 2: Some of the cognitive faculties form other images from those first conceived; thus the imagination from the preconceived images of a mountain and of gold can form the likeness of a golden mountain; and the intellect, from the preconceived ideas of genus and difference, forms the idea of species; in like manner from the similitude of an image we can form in our minds the similitude of the original of the image. Thus Paul, or any other person who sees God, by the very vision of the divine essence, can form in himself the similitudes of what is seen in the divine essence, which remained in Paul even when he had ceased to see the essence of God. Still this kind of vision whereby things are seen by this likeness thus conceived, is not the same as that whereby things are seen in God.
-## Whether Those Who See The Essence Of God See All They See In It At The Same Time?
+### Whether Those Who See The Essence Of God See All They See In It At The Same Time?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that those who see the essence of God do not see all they see in Him at one and the same time. For according to the Philosopher (Topic. ii): "It may happen that many things are known, but only one is understood." But what is seen in God, is understood; for God is seen by the intellect. Therefore those who see God do not see all in Him at the same time.
 
 Objection 2: Further, Augustine says (Gen. ad lit. viii, 22,23), "God moves the spiritual creature according to time"---i.e. by intelligence and affection. But the spiritual creature is the angel who sees God. Therefore those who see God understand and are affected successively; for time means succession.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xvi): "Our thoughts will not be unstable, going to and fro from one thing to another; but we shall see all we know at one glance."
 
 I answer that, What is seen in the Word is seen not successively, but at the same time. In proof whereof, we ourselves cannot know many things all at once, forasmuch as understand many things by means of many ideas. But our intellect cannot be actually informed by many diverse ideas at the same time, so as to understand by them; as one body cannot bear different shapes simultaneously. Hence, when many things can be understood by one idea, they are understood at the same time; as the parts of a whole are understood successively, and not all at the same time, if each one is understood by its own idea; whereas if all are understood under the one idea of the whole, they are understood simultaneously. Now it was shown above that things seen in God, are not seen singly by their own similitude; but all are seen by the one essence of God. Hence they are seen simultaneously, and not successively.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We understand one thing only when we understand by one idea; but many things understood by one idea are understood simultaneously, as in the idea of a man we understand "animal" and "rational"; and in the idea of a house we understand the wall and the roof.
 
 Reply to Objection 2: As regards their natural knowledge, whereby they know things by diverse ideas given them, the angels do not know all things simultaneously, and thus they are moved in the act of understanding according to time; but as regards what they see in God, they see all at the same time.
-## Whether Anyone In This Life Can See The Essence Of God?
+### Whether Anyone In This Life Can See The Essence Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that one can in this life see the Divine essence. For Jacob said: "I have seen God face to face" (Gn. 32:30). But to see Him face to face is to see His essence, as appears from the words: "We see now in a glass and in a dark manner, but then face to face" (1 Cor. 13:12).
 
@@ -266,13 +266,13 @@ Objection 3: Further, that wherein we know all other things, and whereby we judg
 
 Objection 4: Further, according to Augustine (Gen. ad lit. xii, 24, 25), those things that are in the soul by their essence are seen by intellectual vision. But intellectual vision is of intelligible things, not by similitudes, but by their very essences, as he also says (Gen. ad lit. xiii, 24,25). Therefore since God is in our soul by His essence, it follows that He is seen by us in His essence.
 
-### Answer
+**Answer**
 
 On the contrary, It is written, "Man shall not see Me, and live" (Ex. 32:20), and a gloss upon this says, "In this mortal life God can be seen by certain images, but not by the likeness itself of His own nature."
 
 I answer that, God cannot be seen in His essence by a mere human being, except he be separated from this mortal life. The reason is because, as was said above [58](A[4]), the mode of knowledge follows the mode of the nature of the knower. But our soul, as long as we live in this life, has its being in corporeal matter; hence naturally it knows only what has a form in matter, or what can be known by such a form. Now it is evident that the Divine essence cannot be known through the nature of material things. For it was shown above ([59]AA[2],9) that the knowledge of God by means of any created similitude is not the vision of His essence. Hence it is impossible for the soul of man in this life to see the essence of God. This can be seen in the fact that the more our soul is abstracted from corporeal things, the more it is capable of receiving abstract intelligible things. Hence in dreams and alienations of the bodily senses divine revelations and foresight of future events are perceived the more clearly. It is not possible, therefore, that the soul in this mortal life should be raised up to the supreme of intelligible objects, i.e. to the divine essence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to Dionysius (Coel. Hier. iv) a man is said in the Scriptures to see God in the sense that certain figures are formed in the senses or imagination, according to some similitude representing in part the divinity. So when Jacob says, "I have seen God face to face," this does not mean the Divine essence, but some figure representing God. And this is to be referred to some high mode of prophecy, so that God seems to speak, though in an imaginary vision; as will later be explained (SS, Q[174]) in treating of the degrees of prophecy. We may also say that Jacob spoke thus to designate some exalted intellectual contemplation, above the ordinary state.
 
@@ -281,9 +281,9 @@ Reply to Objection 2: As God works miracles in corporeal things, so also He does
 Reply to Objection 3: All things are said to be seen in God and all things are judged in Him, because by the participation of His light, we know and judge all things; for the light of natural reason itself is a participation of the divine light; as likewise we are said to see and judge of sensible things in the sun, i.e., by the sun's light. Hence Augustine says (Soliloq. i, 8), "The lessons of instruction can only be seen as it were by their own sun," namely God. As therefore in order to see a sensible object, it is not necessary to see the substance of the sun, so in like manner to see any intelligible object, it is not necessary to see the essence of God.
 
 Reply to Objection 4: Intellectual vision is of the things which are in the soul by their essence, as intelligible things are in the intellect. And thus God is in the souls of the blessed; not thus is He in our soul, but by presence, essence and power.
-## Whether God Can Be Known In This Life By Natural Reason?
+### Whether God Can Be Known In This Life By Natural Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that by natural reason we cannot know God in this life. For Boethius says (De Consol. v) that "reason does not grasp simple form." But God is a supremely simple form, as was shown above ([60]Q[3], A[7] ). Therefore natural reason cannot attain to know Him.
 
@@ -291,7 +291,7 @@ Objection 2: Further, the soul understands nothing by natural reason without the
 
 Objection 3: Further, the knowledge of natural reason belongs to both good and evil, inasmuch as they have a common nature. But the knowledge of God belongs only to the good; for Augustine says (De Trin. i): "The weak eye of the human mind is not fixed on that excellent light unless purified by the justice of faith." Therefore God cannot be known by natural reason.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Rom. 1:19), "That which is known of God," namely, what can be known of God by natural reason, "is manifest in them."
 
@@ -299,16 +299,16 @@ I answer that, Our natural knowledge begins from sense. Hence our natural knowle
 
 Hence we know that His relationship with creatures so far as to be the cause of them all; also that creatures differ from Him, inasmuch as He is not in any way part of what is caused by Him; and that creatures are not removed from Him by reason of any defect on His part, but because He superexceeds them all.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Reason cannot reach up to simple form, so as to know "what it is"; but it can know "whether it is."
 
 Reply to Objection 2: God is known by natural knowledge through the images of His effects.
 
 Reply to Objection 3: As the knowledge of God's essence is by grace, it belongs only to the good; but the knowledge of Him by natural reason can belong to both good and bad; and hence Augustine says (Retract. i), retracting what he had said before: "I do not approve what I said in prayer, 'God who willest that only the pure should know truth.' For it can be answered that many who are not pure can know many truths," i.e. by natural reason.
-## Whether By Grace A Higher Knowledge Of God Can Be Obtained Than By Natural Reason?
+### Whether By Grace A Higher Knowledge Of God Can Be Obtained Than By Natural Reason?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that by grace a higher knowledge of God is not obtained than by natural reason. For Dionysius says (De Mystica Theol. i) that whoever is the more united to God in this life, is united to Him as to one entirely unknown. He says the same of Moses, who nevertheless obtained a certain excellence by the knowledge conferred by grace. But to be united to God while ignoring of Him "what He is," comes about also by natural reason. Therefore God is not more known to us by grace than by natural reason.
 
@@ -316,7 +316,7 @@ Objection 2: Further, we can acquire the knowledge of divine things by natural r
 
 Objection 3: Further, our intellect adheres to God by grace of faith. But faith does not seem to be knowledge; for Gregory says (Hom. xxvi in Ev.) that "things not seen are the objects of faith, and not of knowledge." Therefore there is not given to us a more excellent knowledge of God by grace.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says that "God hath revealed to us His spirit," what "none of the princes of this world knew" (1 Cor. 2:10), namely, the philosophers, as the gloss expounds.
 
@@ -324,7 +324,7 @@ I answer that, We have a more perfect knowledge of God by grace than by natural 
 
 Now in both of these, human knowledge is assisted by the revelation of grace. For the intellect's natural light is strengthened by the infusion of gratuitous light; and sometimes also the images in the human imagination are divinely formed, so as to express divine things better than those do which we receive from sensible objects, as appears in prophetic visions; while sometimes sensible things, or even voices, are divinely formed to express some divine meaning; as in the Baptism, the Holy Ghost was seen in the shape of a dove, and the voice of the Father was heard, "This is My beloved Son" (Mat. 3:17).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although by the revelation of grace in this life we cannot know of God "what He is," and thus are united to Him as to one unknown; still we know Him more fully according as many and more excellent of His effects are demonstrated to us, and according as we attribute to Him some things known by divine revelation, to which natural reason cannot reach, as, for instance, that God is Three and One.
 

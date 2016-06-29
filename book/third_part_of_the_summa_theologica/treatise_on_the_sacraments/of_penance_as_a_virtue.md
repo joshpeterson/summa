@@ -7,9 +7,9 @@ We must now consider penance as a virtue, under which head there are six points 
 (4) Of its subject;
 (5) Of its cause;
 (6) Of its relation to the other virtues.
-## Whether Penance Is A Virtue?
+### Whether Penance Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that penance is not a virtue. For penance is a sacrament numbered among the other sacraments, as was shown above ([4732]Q[84], A[1];[4733] Q[65], A[1]). Now no other sacrament is a virtue. Therefore neither is penance a virtue.
 
@@ -17,22 +17,22 @@ Objection 2: Further, according to the Philosopher (Ethic. iv, 9), "shame is not
 
 Objection 3: Further, according to the Philosopher (Ethic. iv, 3), "no virtuous man is foolish." But it seems foolish to deplore what has been done in the past, since it cannot be otherwise, and yet this is what we understand by penance. Therefore penance is not a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, The precepts of the Law are about acts of virtue, because "a lawgiver intends to make the citizens virtuous" (Ethic. ii, 1). But there is a precept about penance in the Divine law, according to Mat. 4:17: "Do penance," etc. Therefore penance is a virtue.
 
 I answer that, As stated above (OBJ[2];[4734] Q[84], A[10], ad 4), to repent is to deplore something one has done. Now it has been stated above ([4735]Q[84] , A[9]) that sorrow or sadness is twofold. First, it denotes a passion of the sensitive appetite, and in this sense penance is not a virtue, but a passion. Secondly, it denotes an act of the will, and in this way it implies choice, and if this be right, it must, of necessity, be an act of virtue. For it is stated in Ethic. ii, 6 that virtue is a habit of choosing according to right reason. Now it belongs to right reason than one should grieve for a proper object of grief as one ought to grieve, and for an end for which one ought to grieve. And this is observed in the penance of which we are speaking now; since the penitent assumes a moderated grief for his past sins, with the intention of removing them. Hence it is evident that the penance of which we are speaking now, is either a virtue or the act of a virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above (Q[84], A[1], ad 1; [4736]AA[2],3), in the sacrament of Penance, human acts take the place of matter, which is not the case in Baptism and Confirmation. Wherefore, since virtue is a principle of an act, penance is either a virtue or accompanies a virtue, rather than Baptism or Confirmation.
 
 Reply to Objection 2: Penance, considered as a passion, is not a virtue, as stated above, and it is thus that it is accompanied by a bodily alteration. On the other hand, it is a virtue, according as it includes a right choice on the part of the will; which, however, applies to penance rather than to shame. Because shame regards the evil deed as present, whereas penance regards the evil deed as past. Now it is contrary to the perfection of virtue that one should have an evil deed actually present, of which one ought to be ashamed; whereas it is not contrary to the perfection of virtue that we should have previously committed evil deeds, of which it behooves us to repent, since a man from being wicked becomes virtuous.
 
 Reply to Objection 3: It would indeed be foolish to grieve for what has already been done, with the intention of trying to make it not done. But the penitent does not intend this: for his sorrow is displeasure or disapproval with regard to the past deed, with the intention of removing its result, viz. the anger of God and the debt of punishment: and this is not foolish.
-## Whether Penance Is A Special Virtue?
+### Whether Penance Is A Special Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that penance is not a special virtue. For it seems that to rejoice at the good one has done, and to grieve for the evil one has done are acts of the same nature. But joy for the good one has done is not a special virtue, but is a praiseworthy emotion proceeding from charity, as Augustine states (De Civ. Dei xiv, 7,8,9): wherefore the Apostle says (1 Cor. 13:6) that charity "rejoiceth not at iniquity, but rejoiceth with the truth." Therefore, in like manner, neither is penance, which is sorrow for past sins, a special virtue, but an emotion resulting from charity.
 
@@ -40,22 +40,22 @@ Objection 2: Further, every special virtue has its special matter, because habit
 
 Objection 3: Further, nothing is removed except by its contrary. But penance removes all sins. Therefore it is contrary to all sins, and consequently is not a special virtue.
 
-### Answer
+**Answer**
 
 On the contrary, The Law has a special precept about penance, as stated above ([4737]Q[84], AA[5],7).
 
 I answer that, As stated in the [4738]FS, Q[54], A[1], ad 1, A[2], habits are specifically distinguished according to the species of their acts, so that whenever an act has a special reason for being praiseworthy, there must needs be a special habit. Now it is evident that there is a special reason for praising the act of penance, because it aims at the destruction of past sin, considered as an offense against God, which does not apply to any other virtue. We must therefore conclude that penance is a special virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: An act springs from charity in two ways: first as being elicited by charity, and a like virtuous act requires no other virtue than charity, e.g. to love the good, to rejoice therein, and to grieve for what is opposed to it. Secondly, an act springs from charity, being, so to speak, commanded by charity; and thus, since charity commands all the virtues, inasmuch as it directs them to its own end, an act springing from charity may belong even to another special virtue. Accordingly, if in the act of the penitent we consider the mere displeasure in the past sin, it belongs to charity immediately, in the same way as joy for past good acts; but the intention to aim at the destruction of past sin requires a special virtue subordinate to charity.
 
 Reply to Objection 2: In point of fact, penance has indeed a general matter, inasmuch as it regards all sins; but it does so under a special aspect, inasmuch as they can be remedied by an act of man in co-operating with God for his justification.
 
 Reply to Objection 3: Every special virtue removes formally the habit of the opposite vice, just as whiteness removes blackness from the same subject: but penance removes every sin effectively, inasmuch as it works for the destruction of sins, according as they are pardonable through the grace of God if man co-operate therewith. Wherefore it does not follow that it is a general virtue.
-## Whether The Virtue Of Penance Is A Species Of Justice?
+### Whether The Virtue Of Penance Is A Species Of Justice?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the virtue of penance is not a species of justice. For justice is not a theological but a moral virtue, as was shown in the [4739]SS, Q[62], A[3]. But penance seems to be a theological virtue, since God is its object, for it makes satisfaction to God, to Whom, moreover, it reconciles the sinner. Therefore it seems that penance is not a species of justice.
 
@@ -65,7 +65,7 @@ Objection 3: Further, there are two species of justice, as stated in Ethic. v, 4
 
 Objection 4: Further, a gloss on Lk. 6:21, "Blessed are ye that weep now," says: "It is prudence that teaches us the unhappiness of earthly things and the happiness of heavenly things." But weeping is an act of penance. Therefore penance is a species of prudence rather than of justice.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says in De Poenitentia [*De vera et falsa Poenitentia, the authorship of which is unknown]: "Penance is the vengeance of the sorrowful, ever punishing in them what they are sorry for having done." But to take vengeance is an act of justice, wherefore Tully says (De Inv. Rhet. ii) that one kind of justice is called vindictive. Therefore it seems that penance is a species of justice.
 
@@ -73,7 +73,7 @@ I answer that, As stated above (A[1], ad 2) penance is a special virtue not mere
 
 It must be observed, however, that according to the Philosopher (Ethic. v, 6) a thing is said to be just in two ways, simply and relatively. A thing is just simply when it is between equals, since justice is a kind of equality, and he calls this the politic or civil just, because all citizens are equal, in the point of being immediately under the ruler, retaining their freedom. But a thing is just relatively when it is between parties of whom one is subject to the other, as a servant under his master, a son under his father, a wife under her husband. It is this kind of just that we consider in penance. Wherefore the penitent has recourse to God with a purpose of amendment, as a servant to his master, according to Ps. 122:2: "Behold, as the eyes of servants are on the hands of their masters . . . so are our eyes unto the Lord our God, until He have mercy on us"; and as a son to his father, according to Lk. 15:21: "Father, I have sinned against heaven and before thee"; and as a wife to her husband, according to Jer. 3:1: "Thou hast prostituted thyself to many lovers; nevertheless return to Me, saith the Lord."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated in Ethic. v, 1, justice is a virtue towards another person, and the matter of justice is not so much the person to whom justice is due as the thing which is the subject of distribution or commutation. Hence the matter of penance is not God, but human acts, whereby God is offended or appeased; whereas God is as one to whom justice is due. Wherefore it is evident that penance is not a theological virtue, because God is not its matter or object.
 
@@ -82,9 +82,9 @@ Reply to Objection 2: The mean of justice is the equality that is established be
 Reply to Objection 3: As there is a kind of commutation in favors, when, to wit, a man gives thanks for a favor received, so also is there commutation in the matter of offenses, when, on account of an offense committed against another, a man is either punished against his will, which pertains to vindictive justice, or makes amends of his own accord, which belongs to penance, which regards the person of the sinner, just as vindictive justice regards the person of the judge. Therefore it is evident that both are comprised under commutative justice.
 
 Reply to Objection 4: Although penance is directly a species of justice, yet, in a fashion, it comprises things pertaining to all the virtues; for inasmuch as there is a justice of man towards God, it must have a share in matter pertaining to the theological virtues, the object of which is God. Consequently penance comprises faith in Christ's Passion, whereby we are cleansed of our sins, hope for pardon, and hatred of vice, which pertains to charity. Inasmuch as it is a moral virtue, it has a share of prudence, which directs all the moral virtues: but from the very nature of justice, it has not only something belonging to justice, but also something belonging to temperance and fortitude, inasmuch as those things which cause pleasure, and which pertain to temperance, and those which cause terror, which fortitude moderates, are objects of commutative justice. Accordingly it belongs to justice both to abstain from pleasure, which belongs to temperance, and to bear with hardships, which belongs to fortitude.
-## Whether The Will Is Properly The Subject Of Penance?
+### Whether The Will Is Properly The Subject Of Penance?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the subject of penance is not properly the will. For penance is a species of sorrow. But sorrow is in the concupiscible part, even as joy is. Therefore penance is in the concupiscible faculty.
 
@@ -94,13 +94,13 @@ Objection 3: Further, the past is the proper object of the memory, according to 
 
 Objection 4: Further, nothing acts where it is not. Now penance removes sin from all the powers of the soul. Therefore penance is in every power of the soul, and not only in the will.
 
-### Answer
+**Answer**
 
 On the contrary, Penance is a kind of sacrifice, according to Ps. 50:19: "A sacrifice to God is an afflicted spirit." But to offer a sacrifice is an act of the will, according to Ps. 53:8: "I will freely sacrifice to Thee." Therefore penance is in the will.
 
 I answer that, We can speak of penance in two ways: first, in so far as it is a passion, and thus, since it is a kind of sorrow, it is in the concupiscible part as its subject; secondly, in so far as it is a virtue, and thus, as stated above [4740](A[3]), it is a species of justice. Now justice, as stated in the [4741]FS, Q[56], A[6], is subjected in the rational appetite which is the will. Therefore it is evident that penance, in so far as it is a virtue, is subjected in the will, and its proper act is the purpose of amending what was committed against God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument considers penance as a passion.
 
@@ -109,9 +109,9 @@ Reply to Objection 2: To desire vengeance on another, through passion, belongs t
 Reply to Objection 3: The memory is a power that apprehends the past. But penance belongs not to the apprehensive but to the appetitive power, which presupposes an act of the apprehension. Wherefore penance is not in the memory, but presupposes it.
 
 Reply to Objection 4: The will, as stated above ([4742]FP, Q[82], A[4]; [4743]FS, Q[9], A[1] ), moves all the other powers of the soul; so that it is not unreasonable for penance to be subjected in the will, and to produce an effect in each power of the soul.
-## Whether Penance Originates From Fear?
+### Whether Penance Originates From Fear?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that penance does not originate from fear. For penance originates in displeasure at sin. But this belongs to charity, as stated above [4744](A[3]). Therefore penance originates from love rather than fear.
 
@@ -119,7 +119,7 @@ Objection 2: Further, men are induced to do penance, through the expectation of 
 
 Objection 3: Further, fear is an internal act of man. But penance does not seem to arise in us through any work of man, but through the operation of God, according to Jer. 31:19: "After Thou didst convert me I did penance." Therefore penance does not result from fear.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 26:17): "As a woman with child, when she draweth near the time of her delivery, is in pain, and crieth out in her pangs, so ere we become," by penance, to wit; and according to another [*The Septuagint] version the text continues: "Through fear of Thee, O Lord, we have conceived, and been as it were in labor, and have brought forth the spirit of salvation," i.e. of salutary penance, as is clear from what precedes. Therefore penance results from fear.
 
@@ -127,16 +127,16 @@ I answer that, We may speak of penance in two ways: first, as to the habit, and 
 
 Accordingly it is evident that the act of penance results from servile fear as from the first movement of the appetite in this direction and from filial fear as from its immediate and proper principle.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Sin begins to displease a man, especially a sinner, on account of the punishments which servile fear regards, before it displeases him on account of its being an offense against God, or on account of its wickedness, which pertains to charity.
 
 Reply to Objection 2: When the kingdom of heaven is said to be at hand, we are to understand that the king is on his way, not only to reward but also to punish. Wherefore John the Baptist said (Mat. 3:7): "Ye brood of vipers, who hath showed you to flee from the wrath to come?"
 
 Reply to Objection 3: Even the movement of fear proceeds from God's act in turning the heart; wherefore it is written (Dt. 5:29): "Who shall give them to have such a mind, to fear Me?" And so the fact that penance results from fear does not hinder its resulting from the act of God in turning the heart.
-## Whether Penance Is The First Of The Virtues?
+### Whether Penance Is The First Of The Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that penance is the first of the virtues. Because, on Mat. 3:2, "Do penance," etc., a gloss says: "The first virtue is to destroy the old man, and hate sin by means of penance."
 
@@ -144,7 +144,7 @@ Objection 2: Further, withdrawal from one extreme seems to precede approach to t
 
 Objection 3: Further, before penance, there is sin in the soul. Now no virtue is compatible with sin in the soul. Therefore no virtue precedes penance, which is itself the first of all and opens the door to the others by expelling sin.
 
-### Answer
+**Answer**
 
 On the contrary, Penance results from faith, hope, and charity, as already stated ([4745]AA[2],5). Therefore penance is not the first of the virtues.
 
@@ -152,7 +152,7 @@ I answer that, In speaking of the virtues, we do not consider the order of time 
 
 Consequently penance is not simply the first of the virtues, either in the order of time, or in the order of nature, because, in the order of nature, the theological virtues precede it simply. Nevertheless, in a certain respect, it is the first of the other virtues in the order of time, as regards its act, because this act is the first in the justification of the ungodly; whereas in the order of nature, the other virtues seem to precede, as that which is natural precedes that which is accidental; because the other virtues seem to be necessary for man's good, by reason of their very nature, whereas penance is only necessary if something, viz. sin, be presupposed, as stated above ([4748]Q[55], A[2]), when we spoke of the relation of the sacrament of penance to the other sacraments aforesaid.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This gloss is to be taken as meaning that the act of penance is the first in point of time, in comparison with the acts of the other virtues.
 

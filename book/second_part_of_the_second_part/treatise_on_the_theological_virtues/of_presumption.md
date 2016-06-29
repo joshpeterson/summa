@@ -5,9 +5,9 @@ We must now consider presumption, under which head there are four points of inqu
 (2) Whether presumption is a sin?
 (3) To what is it opposed?
 (4) From what vice does it arise?
-## Whether Presumption Trusts In God Or In Our Own Power?
+### Whether Presumption Trusts In God Or In Our Own Power?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that presumption, which is a sin against the Holy Ghost, trusts, not in God, but in our own power. For the lesser the power, the more grievously does he sin who trusts in it too much. But man's power is less than God's. Therefore it is a more grievous sin to presume on human power than to presume on the power of God. Now the sin against the Holy Ghost is most grievous. Therefore presumption, which is reckoned a species of sin against the Holy Ghost, trusts to human rather than to Divine power.
 
@@ -15,7 +15,7 @@ Objection 2: Further, other sins arise from the sin against the Holy Ghost, for 
 
 Objection 3: Further, sin arises from the inordinate conversion to a mutable good. Now presumption is a sin. Therefore it arises from turning to human power, which is a mutable good, rather than from turning to the power of God, which is an immutable good.
 
-### Answer
+**Answer**
 
 On the contrary, Just as, through despair, a man despises the Divine mercy, on which hope relies, so, through presumption, he despises the Divine justice, which punishes the sinner. Now justice is in God even as mercy is. Therefore, just as despair consists in aversion from God, so presumption consists in inordinate conversion to Him.
 
@@ -23,16 +23,16 @@ I answer that, Presumption seems to imply immoderate hope. Now the object of hop
 
 But as to the hope whereby a man relies on the power of God, there may be presumption through immoderation, in the fact that a man tends to some good as though it were possible by the power and mercy of God, whereas it is not possible, for instance, if a man hope to obtain pardon without repenting, or glory without merits. This presumption is, properly, the sin against the Holy Ghost, because, to wit, by presuming thus a man removes or despises the assistance of the Holy Spirit, whereby he is withdrawn from sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above (Q[20], A[3]; [2488]FS, Q[73], A[3]) a sin which is against God is, in its genus, graver than other sins. Hence presumption whereby a man relies on God inordinately, is a more grievous sin than the presumption of trusting in one's own power, since to rely on the Divine power for obtaining what is unbecoming to God, is to depreciate the Divine power, and it is evident that it is a graver sin to detract from the Divine power than to exaggerate one's own.
 
 Reply to Objection 2: The presumption whereby a man presumes inordinately on God, includes self-love, whereby he loves his own good inordinately. For when we desire a thing very much, we think we can easily procure it through others, even though we cannot.
 
 Reply to Objection 3: Presumption on God's mercy implies both conversion to a mutable good, in so far as it arises from an inordinate desire of one's own good, and aversion from the immutable good, in as much as it ascribes to the Divine power that which is unbecoming to it, for thus man turns away from God's power.
-## Whether Presumption Is A Sin?
+### Whether Presumption Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that presumption is not a sin. For no sin is a reason why man should be heard by God. Yet, through presumption some are heard by God, for it is written (Judith 9:17): "Hear me a poor wretch making supplication to Thee, and presuming of Thy mercy." Therefore presumption on God's mercy is not a sin.
 
@@ -40,7 +40,7 @@ Objection 2: Further, presumption denotes excessive hope. But there cannot be ex
 
 Objection 3: Further, that which is a sin does not excuse from sin: for the Master says (Sent. ii, D, 22) that "Adam sinned less, because he sinned in the hope of pardon," which seems to indicate presumption. Therefore presumption is not a sin.
 
-### Answer
+**Answer**
 
 On the contrary, It is reckoned a species of sin against the Holy Ghost.
 
@@ -48,16 +48,16 @@ I answer that, As stated above ([2489]Q[20], A[1]) with regard to despair, every
 
 Consequently presumption is a sin, but less grave than despair, since, on account of His infinite goodness, it is more proper to God to have mercy and to spare, than to punish: for the former becomes God in Himself, the latter becomes Him by reason of our sins.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Presumption sometimes stands for hope, because even the right hope which we have in God seems to be presumption, if it be measured according to man's estate: yet it is not, if we look at the immensity of the goodness of God.
 
 Reply to Objection 2: Presumption does not denote excessive hope, as though man hoped too much in God; but through man hoping to obtain from God something unbecoming to Him; which is the same as to hope too little in Him, since it implies a depreciation of His power; as stated above (A[1], ad 1).
 
 Reply to Objection 3: To sin with the intention of persevering in sin and through the hope of being pardoned, is presumptuous, and this does not diminish, but increases sin. To sin, however, with the hope of obtaining pardon some time, and with the intention of refraining from sin and of repenting of it, is not presumptuous, but diminishes sin, because this seems to indicate a will less hardened in sin.
-## Whether Presumption Is More Opposed To Fear Than To Hope?
+### Whether Presumption Is More Opposed To Fear Than To Hope?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that presumption is more opposed to fear than to hope. Because inordinate fear is opposed to right fear. Now presumption seems to pertain to inordinate fear, for it is written (Wis. 17:10): "A troubled conscience always presumes [Douay: 'forecasteth'] grievous things," and (Wis. 17:11) that "fear is a help to presumption [*Vulg.: 'Fear is nothing else but a yielding up of the succours from thought.']." Therefore presumption is opposed to fear rather than to hope.
 
@@ -65,7 +65,7 @@ Objection 2: Further, contraries are most distant from one another. Now presumpt
 
 Objection 3: Further, presumption excludes fear altogether, whereas it does not exclude hope altogether, but only the rectitude of hope. Since therefore contraries destroy one another, it seems that presumption is contrary to fear rather than to hope.
 
-### Answer
+**Answer**
 
 On the contrary, When two vices are opposed to one another they are contrary to the same virtue, as timidity and audacity are opposed to fortitude. Now the sin of presumption is contrary to the sin of despair, which is directly opposed to hope. Therefore it seems that presumption also is more directly opposed to hope.
 
@@ -73,16 +73,16 @@ I answer that, As Augustine states (Contra Julian. iv, 3), "every virtue not onl
 
 Accordingly presumption appears to be manifestly opposed to fear, especially servile fear, which looks at the punishment arising from God's justice, the remission of which presumption hopes for; yet by a kind of false likeness it is more opposed to hope, since it denotes an inordinate hope in God. And since things are more directly opposed when they belong to the same genus, than when they belong to different genera, it follows that presumption is more directly opposed to hope than to fear. For they both regard and rely on the same object, hope inordinately, presumption inordinately.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as hope is misused in speaking of evils, and properly applied in speaking of good, so is presumption: it is in this way that inordinate fear is called presumption.
 
 Reply to Objection 2: Contraries are things that are most distant from one another within the same genus. Now presumption and hope denote a movement of the same genus, which can be either ordinate or inordinate. Hence presumption is more directly opposed to hope than to fear, since it is opposed to hope in respect of its specific difference, as an inordinate thing to an ordinate one, whereas it is opposed to fear, in respect of its generic difference, which is the movement of hope.
 
 Reply to Objection 3: Presumption is opposed to fear by a generic contrariety, and to the virtue of hope by a specific contrariety. Hence presumption excludes fear altogether even generically, whereas it does not exclude hope except by reason of its difference, by excluding its ordinateness.
-## Whether Presumption Arises From Vainglory?
+### Whether Presumption Arises From Vainglory?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that presumption does not arise from vainglory. For presumption seems to rely most of all on the Divine mercy. Now mercy [misericordia] regards unhappiness [miseriam] which is contrary to glory. Therefore presumption does not arise from vainglory.
 
@@ -90,7 +90,7 @@ Objection 2: Further, presumption is opposed to despair. Now despair arises from
 
 Objection 3: Further, the vice of presumption consists in tending to some impossible good, as though it were possible. Now it is owing to ignorance that one deems an impossible thing to be possible. Therefore presumption arises from ignorance rather than from vainglory.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xxxi, 45) that "presumption of novelties is a daughter of vainglory."
 

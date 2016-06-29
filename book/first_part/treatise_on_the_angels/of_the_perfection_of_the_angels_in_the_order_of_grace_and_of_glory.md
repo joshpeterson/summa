@@ -10,9 +10,9 @@ In due sequence we have to inquire how the angels were made in the order of grac
 (7) After entering glory, did their natural love and knowledge remain?
 (8) Could they have sinned afterwards?
 (9) After entering into glory, could they advance farther?
-## Whether The Angels Were Created In Beatitude?
+### Whether The Angels Were Created In Beatitude?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angels were created in beatitude. For it is stated (De Eccl. Dogm. xxix) that "the angels who continue in the beatitude wherein they were created, do not of their nature possess the excellence they have." Therefore the angels were created in beatitude.
 
@@ -20,7 +20,7 @@ Objection 2: Further, the angelic nature is nobler than the corporeal creature. 
 
 Objection 3: Further, according to Augustine (Gen. ad lit. iv, 34; v, 5), the things which we read of as being made in the works of the six days, were made together at one time; and so all the six days must have existed instantly from the beginning of creation. But, according to his exposition, in those six days, "the morning" was the angelic knowledge, according to which they knew the Word and things in the Word. Therefore straightway from their creation they knew the Word, and things in the Word. But the bliss of the angels comes of seeing the Word. Consequently the angels were in beatitude straightway from the very beginning of their creation.
 
-### Answer
+**Answer**
 
 On the contrary, To be established or confirmed in good is of the nature of beatitude. But the angels were not confirmed in good as soon as they were created; the fall of some of them shows this. Therefore the angels were not in beatitude from their creation.
 
@@ -28,16 +28,16 @@ I answer that, By the name of beatitude is understood the ultimate perfection of
 
 So, then, it remains to be said, that, as regards this first beatitude, which the angel could procure by his natural power, he was created already blessed. Because the angel does not acquire such beatitude by any progressive action, as man does, but, as was observed above ([542]Q[58], AA[3] ,4), is straightway in possession thereof, owing to his natural dignity. But the angels did not have from the beginning of their creation that ultimate beatitude which is beyond the power of nature; because such beatitude is no part of their nature, but its end; and consequently they ought not to have it immediately from the beginning.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Beatitude is there taken for that natural perfection which the angel had in the state of innocence.
 
 Reply to Objection 2: The corporeal creature instantly in the beginning of its creation could not have the perfection to which it is brought by its operation; consequently, according to Augustine (Gen. ad. lit. v, 4,23; viii, 3), the growing of plants from the earth did not take place at once among the first works, in which only the germinating power of the plants was bestowed upon the earth. In the same way, the angelic creature in the beginning of its existence had the perfection of its nature; but it did not have the perfection to which it had to come by its operation.
 
 Reply to Objection 3: The angel has a twofold knowledge of the Word; the one which is natural, and the other according to glory. He has a natural knowledge whereby he knows the Word through a similitude thereof shining in his nature; and he has a knowledge of glory whereby he knows the Word through His essence. By both kinds of knowledge the angel knows things in the Word; imperfectly by his natural knowledge, and perfectly by his knowledge of glory. Therefore the first knowledge of things in the Word was present to the angel from the outset of his creation; while the second was not, but only when the angels became blessed by turning to the good. And this is properly termed their morning knowledge.
-## Whether An Angel Needs Grace In Order To Turn To God?
+### Whether An Angel Needs Grace In Order To Turn To God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angel had no need of grace in order to turn to God. For, we have no need of grace for what we can accomplish naturally. But the angel naturally turns to God: because he loves God naturally, as is clear from what has been said ([543]Q[60], A[5]). Therefore an angel did not need grace in order to turn to God.
 
@@ -45,7 +45,7 @@ Objection 2: Further, seemingly we need help only for difficult tasks. Now it wa
 
 Objection 3: Further, to turn oneself to God is to dispose oneself for grace; hence it is said (Zech. 1:3): "Turn ye to Me, and I will turn to you." But we do not stand in need of grace in order to prepare ourselves for grace: for thus we should go on to infinity. Therefore the angel did not need grace to turn to God.
 
-### Answer
+**Answer**
 
 On the contrary, It was by turning to God that the angel reached to beatitude. If, then, he had needed no grace in order to turn to God, it would follow that he did not require grace in order to possess everlasting life. But this is contrary to the saying of the Apostle (Rom. 6:23): "The grace of God is life everlasting."
 
@@ -53,16 +53,16 @@ I answer that, The angels stood in need of grace in order to turn to God, as the
 
 Now it was shown above ([545]Q[12], AA[4],5), when we were treating of God's knowledge, that to see God in His essence, wherein the ultimate beatitude of the rational creature consists, is beyond the nature of every created intellect. Consequently no rational creature can have the movement of the will directed towards such beatitude, except it be moved thereto by a supernatural agent. This is what we call the help of grace. Therefore it must be said that an angel could not of his own will be turned to such beatitude, except by the help of grace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The angel loves God naturally, so far as God is the author of his natural being. But here we are speaking of turning to God, so far as God bestows beatitude by the vision of His essence.
 
 Reply to Objection 2: A thing is "difficult" which is beyond a power; and this happens in two ways. First of all, because it is beyond the natural capacity of the power. Thus, if it can be attained by some help, it is said to be "difficult"; but if it can in no way be attained, then it is "impossible"; thus it is impossible for a man to fly. In another way a thing may be beyond the power, not according to the natural order of such power, but owing to some intervening hindrance; as to mount upwards is not contrary to the natural order of the motive power of the soul; because the soul, considered in itself, can be moved in any direction; but is hindered from so doing by the weight of the body; consequently it is difficult for a man to mount upwards. To be turned to his ultimate beatitude is difficult for man, both because it is beyond his nature, and because he has a hindrance from the corruption of the body and infection of sin. But it is difficult for an angel, only because it is supernatural.
 
 Reply to Objection 3: Every movement of the will towards God can be termed a conversion to God. And so there is a threefold turning to God. The first is by the perfect love of God; this belongs to the creature enjoying the possession of God; and for such conversion, consummate grace is required. The next turning to God is that which merits beatitude; and for this there is required habitual grace, which is the principle of merit. The third conversion is that whereby a man disposes himself so that he may have grace; for this no habitual grace is required; but the operation of God, Who draws the soul towards Himself, according to Lam 5:21: "Convert us, O Lord, to Thee, and we shall be converted." Hence it is clear that there is no need to go on to infinity.
-## Whether The Angels Were Created In Grace?
+### Whether The Angels Were Created In Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angels were not created in grace. For Augustine says (Gen. ad lit. ii, 8) that the angelic nature was first made without form, and was called "heaven": but afterwards it received its form, and was then called "light." But such formation comes from grace. Therefore they were not created in grace.
 
@@ -70,22 +70,22 @@ Objection 2: Further, grace turns the rational creature towards God. If, therefo
 
 Objection 3: Further, grace comes midway between nature and glory. But the angels were not beatified in their creation. Therefore it seems that they were not created in grace; but that they were first created in nature only, and then received grace, and that last of all they were beatified.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xii, 9), "Who wrought the good will of the angels? Who, save Him Who created them with His will, that is, with the pure love wherewith they cling to Him; at the same time building up their nature and bestowing grace on them?"
 
 I answer that, Although there are conflicting opinions on this point, some holding that the angels were created only in a natural state, while others maintain that they were created in grace; yet it seems more probable, and more in keeping with the sayings of holy men, that they were created in sanctifying grace. For we see that all things which, in the process of time, being created by the work of Divine Providence, were produced by the operation of God, were created in the first fashioning of things according to seedlike forms, as Augustine says (Gen. ad lit. viii, 3), such as trees, animals, and the rest. Now it is evident that sanctifying grace bears the same relation to beatitude as the seedlike form in nature does to the natural effect; hence (1 Jn. 3:9) grace is called the "seed" of God. As, then, in Augustine's opinion it is contended that the seedlike forms of all natural effects were implanted in the creature when corporeally created, so straightway from the beginning the angels were created in grace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Such absence of form in the angels can be understood either by comparison with their formation in glory; and so the absence of formation preceded formation by priority of time. Or else it can be understood of the formation according to grace: and so it did not precede in the order of time, but in the order of nature; as Augustine holds with regard to the formation of corporeal things (Gen. ad lit. i, 15).
 
 Reply to Objection 2: Every form inclines the subject after the mode of the subject's nature. Now it is the mode of an intellectual nature to be inclined freely towards the objects it desires. Consequently the movement of grace does not impose necessity; but he who has grace can fail to make use of it, and can sin.
 
 Reply to Objection 3: Although in the order of nature grace comes midway between nature and glory, nevertheless, in the order of time, in created nature, glory is not simultaneous with nature; because glory is the end of the operation of nature helped by grace. But grace stands not as the end of operation, because it is not of works, but as the principle of right operation. Therefore it was fitting for grace to be given straightway with nature.
-## Whether An Angel Merits His Beatitude?
+### Whether An Angel Merits His Beatitude?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angel did not merit his beatitude. For merit arises from the difficulty of the meritorious act. But the angel experienced no difficulty in acting rightly. Therefore righteous action was not meritorious for him.
 
@@ -93,7 +93,7 @@ Objection 2: Further, we do not merit by merely natural operations. But it was q
 
 Objection 3: Further, if a beatified angel merited his beatitude, he did so either before he had it, or else afterwards. But it was not before; because, in the opinion of many, he had no grace before whereby to merit it. Nor did he merit it afterwards, because thus he would be meriting it now; which is clearly false, because in that case a lower angel could by meriting rise up to the rank of a higher, and the distinct degrees of grace would not be permanent; which is not admissible. Consequently the angel did not merit his beatitude.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated (Apoc. 21:17) that the "measure of the angel" in that heavenly Jerusalem is "the measure of a man." Therefore the same is the case with the angel.
 
@@ -105,14 +105,14 @@ But if he had no grace before entering upon beatitude, it would then have to be 
 
 Consequently it is better to say that the angel had grace ere he was admitted to beatitude, and that by such grace he merited beatitude.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The angel's difficulty of working righteously does not come from any contrariety or hindrance of natural powers; but from the fact that the good work is beyond his natural capacity.
 
 Reply to Objection 2: An angel did not merit beatitude by natural movement towards God; but by the movement of charity, which comes of grace.
-## Whether The Angel Obtained Beatitude Immediately After One Act Of Merit?
+### Whether The Angel Obtained Beatitude Immediately After One Act Of Merit?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angel did not possess beatitude instantly after one act of merit. For it is more difficult for a man to do well than for an angel. But man is not rewarded at once after one act of merit. Therefore neither was the angel.
 
@@ -120,22 +120,22 @@ Objection 2: Further, an angel could act at once, and in an instant, from the ve
 
 Objection 3: Further, there must be many intervals between things which are far apart. But the beatific state of the angels is very far remote from their natural condition: while merit comes midway between. Therefore the angel would have to pass through many stages of merit in order to reach beatitude.
 
-### Answer
+**Answer**
 
 On the contrary, Man's soul and an angel are ordained alike for beatitude: consequently equality with angels is promised to the saints. Now the soul separated from the body, if it has merit deserving beatitude, enters at once into beatitude, unless there be some obstacle. Therefore so does an angel. Now an angel instantly, in his first act of charity, had the merit of beatitude. Therefore, since there was no obstacle within him, he passed at once into beatitude by only one meritorious act.
 
 I answer that, The angel was beatified instantly after the first act of charity, whereby he merited beatitude. The reason whereof is because grace perfects nature according to the manner of the nature; as every perfection is received in the subject capable of perfection, according to its mode. Now it is proper to the angelic nature to receive its natural perfection not by passing from one stage to another; but to have it at once naturally, as was shown above [548](A[1]; [549]Q[58], AA[3],4). But as the angel is of his nature inclined to natural perfection, so is he by merit inclined to glory. Hence instantly after merit the angel secured beatitude. Now the merit of beatitude in angel and man alike can be from merely one act; because man merits beatitude by every act informed by charity. Hence it remains that an angel was beatified straightway after one act of charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man was not intended to secure his ultimate perfection at once, like the angel. Hence a longer way was assigned to man than to the angel for securing beatitude.
 
 Reply to Objection 2: The angel is above the time of corporeal things; hence the various instants regarding the angels are not to be taken except as reckoning the succession of their acts. Now their act which merited beatitude could not be in them simultaneously with the act of beatitude, which is fruition; since the one belongs to imperfect grace, and the other to consummate grace. Consequently, it remains for different instants to be conceived, in one of which the angel merited beatitude, and in another was beatified.
 
 Reply to Objection 3: It is of the nature of an angel instantly to attain the perfection unto which he is ordained. Consequently, only one meritorious act is required; which act can so far be called an interval as through it the angel is brought to beatitude.
-## Whether The Angels Receive Grace And Glory According To The Degree Of Their Natural Gifts?
+### Whether The Angels Receive Grace And Glory According To The Degree Of Their Natural Gifts?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angels did not receive grace and glory according to the degree of their natural gifts. For grace is bestowed of God's absolute will. Therefore the degree of grace depends on God's will, and not on the degree of their natural gifts.
 
@@ -143,7 +143,7 @@ Objection 2: Further, a moral act seems to be more closely allied with grace tha
 
 Objection 3: Further, man and angel are alike ordained for beatitude or grace. But man does not receive more grace according to the degree of his natural gifts. Therefore neither does the angel.
 
-### Answer
+**Answer**
 
 On the contrary, Is the saying of the Master of the Sentences (Sent. ii, D, 3) that "those angels who were created with more subtle natures and of keener intelligence in wisdom, were likewise endowed with greater gifts of grace."
 
@@ -151,16 +151,16 @@ I answer that, It is reasonable to suppose that gifts of graces and perfection o
 
 Secondly, the same is evident on the part of the angel. The angel is not a compound of different natures, so that the inclination of the one thwarts or retards the tendency of the other; as happens in man, in whom the movement of his intellective part is either retarded or thwarted by the inclination of his sensitive part. But when there is nothing to retard or thwart it, nature is moved with its whole energy. So it is reasonable to suppose that the angels who had a higher nature, were turned to God more mightily and efficaciously. The same thing happens in men, since greater grace and glory are bestowed according to the greater earnestness of their turning to God. Hence it appears that the angels who had the greater natural powers, had the more grace and glory.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As grace comes of God's will alone, so likewise does the nature of the angel: and as God's will ordained nature for grace, so did it ordain the various degrees of nature to the various degrees of grace.
 
 Reply to Objection 2: The acts of the rational creature are from the creature itself; whereas nature is immediately from God. Accordingly it seems rather that grace is bestowed according to degree of nature than according to works.
 
 Reply to Objection 3: Diversity of natural gifts is in one way in the angels, who are themselves different specifically; and in quite another way in men, who differ only numerically. For specific difference is on account of the end; while numerical difference is because of the matter. Furthermore, there is something in man which can thwart or impede the movement of his intellective nature; but not in the angels. Consequently the argument is not the same for both.
-## Whether Natural Knowledge And Love Remain In The Beatified Angels?
+### Whether Natural Knowledge And Love Remain In The Beatified Angels?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that natural knowledge and love do not remain in the beatified angels. For it is said (1 Cor. 13:10): "When that which is perfect is come, then that which is in part shall be done away." But natural love and knowledge are imperfect in comparison with beatified knowledge and love. Therefore, in beatitude, natural knowledge and love cease.
 
@@ -168,22 +168,22 @@ Objection 2: Further, where one suffices, another is superfluous. But the knowle
 
 Objection 3: Further, the same faculty has not two simultaneous acts, as the same line cannot, at the same end, be terminated in two points. But the beatified angels are always exercising their beatified knowledge and love; for, as is said Ethic. i, 8, happiness consists not in habit, but in act. Therefore there can never be natural knowledge and love in the angels.
 
-### Answer
+**Answer**
 
 On the contrary, So long as a nature endures, its operation remains. But beatitude does not destroy nature, since it is its perfection. Therefore it does not take away natural knowledge and love.
 
 I answer that, Natural knowledge and love remain in the angels. For as principles of operations are mutually related, so are the operations themselves. Now it is manifest that nature is to beatitude as first to second; because beatitude is superadded to nature. But the first must ever be preserved in the second. Consequently nature must be preserved in beatitude: and in like manner the act of nature must be preserved in the act of beatitude.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The advent of a perfection removes the opposite imperfection. Now the imperfection of nature is not opposed to the perfection of beatitude, but underlies it; as the imperfection of the power underlies the perfection of the form, and the power is not taken away by the form, but the privation which is opposed to the form. In the same way, the imperfection of natural knowledge is not opposed to the perfection of the knowledge in glory; for nothing hinders us from knowing a thing through various mediums, as a thing may be known at the one time through a probable medium and through a demonstrative one. In like manner, an angel can know God by His essence, and this appertains to his knowledge of glory; and at the same time he can know God by his own essence, which belongs to his natural knowledge.
 
 Reply to Objection 2: All things which make up beatitude are sufficient of themselves. But in order for them to exist, they presuppose the natural gifts; because no beatitude is self-subsisting, except the uncreated beatitude.
 
 Reply to Objection 3: There cannot be two operations of the one faculty at the one time, except the one be ordained to the other. But natural knowledge and love are ordained to the knowledge and love of glory. Accordingly there is nothing to hinder natural knowledge and love from existing in the angel conjointly with those of glory.
-## Whether A Beatified Angel Can Sin?
+### Whether A Beatified Angel Can Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a beatified angel can sin. For, as was said above [550](A[7]), beatitude does not do away with nature. But it is of the very notion of created nature, that it can fail. Therefore a beatified angel can sin.
 
@@ -191,22 +191,22 @@ Objection 2: Further, the rational powers are referred to opposites, as the Phil
 
 Objection 3: Further, it belongs to the liberty of free-will for man to be able to choose good or evil. But the freedom of will is not lessened in the beatified angels. Therefore they can sin.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Gen. ad lit. xi) that "there is in the holy angels that nature which cannot sin." Therefore the holy angels cannot sin.
 
 I answer that, The beatified angels cannot sin. The reason for this is, because their beatitude consists in seeing God through His essence. Now, God's essence is the very essence of goodness. Consequently the angel beholding God is disposed towards God in the same way as anyone else not seeing God is to the common form of goodness. Now it is impossible for any man either to will or to do anything except aiming at what is good; or for him to wish to turn away from good precisely as such. Therefore the beatified angel can neither will nor act, except as aiming towards God. Now whoever wills or acts in this manner cannot sin. Consequently the beatified angel cannot sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Created good, considered in itself, can fail. But from its perfect union with the uncreated good, such as is the union of beatitude, it is rendered unable to sin, for the reason already alleged.
 
 Reply to Objection 2: The rational powers are referred to opposites in the things to which they are not inclined naturally; but as to the things whereunto they have a natural tendency, they are not referred to opposites. For the intellect cannot but assent to naturally known principles; in the same way, the will cannot help clinging to good, formally as good; because the will is naturally ordained to good as to its proper object. Consequently the will of the angels is referred to opposites, as to doing many things, or not doing them. But they have no tendency to opposites with regard to God Himself, Whom they see to be the very nature of goodness; but in all things their aim is towards God, which ever alternative they choose, that is not sinful.
 
 Reply to Objection 3: Free-will in its choice of means to an end is disposed just as the intellect is to conclusions. Now it is evident that it belongs to the power of the intellect to be able to proceed to different conclusions, according to given principles; but for it to proceed to some conclusion by passing out of the order of the principles, comes of its own defect. Hence it belongs to the perfection of its liberty for the free-will to be able to choose between opposite things, keeping the order of the end in view; but it comes of the defect of liberty for it to choose anything by turning away from the order of the end; and this is to sin. Hence there is greater liberty of will in the angels, who cannot sin, than there is in ourselves, who can sin.
-## Whether The Beatified Angels Advance In Beatitude?
+### Whether The Beatified Angels Advance In Beatitude?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the beatified angels can advance in beatitude. For charity is the principle of merit. But there is perfect charity in the angels. Therefore the beatified angels can merit. Now, as merit increases, the reward of beatitude increases. Therefore the beatified angels can progress in beatitude.
 
@@ -214,7 +214,7 @@ Objection 2: Further, Augustine says (De Doctr. Christ. i) that "God makes use o
 
 Objection 3: Further, it argues imperfection for anyone not occupying the foremost place not to be able to advance. But the angels are not in the highest degree of beatitude. Therefore if unable to ascend higher, it would appear that there is imperfection and defect in them; which is not admissible.
 
-### Answer
+**Answer**
 
 On the contrary, Merit and progress belong to this present condition of life. But angels are not wayfarers travelling towards beatitude, they are already in possession of beatitude. Consequently the beatified angels can neither merit nor advance in beatitude.
 
@@ -224,7 +224,7 @@ Now this one determinate object cannot, in the vision of God, consist precisely 
 
 Therefore every rational creature is so led by God to the end of its beatitude, that from God's predestination it is brought even to a determinate degree of beatitude. Consequently, when that degree is once secured, it cannot pass to a higher degree.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Merit belongs to a subject which is moving towards its end. Now the rational creature is moved towards its end, not merely passively, but also by working actively. If the end is within the power of the rational creature, then its action is said to procure the end; as man acquires knowledge by reflection: but if the end be beyond its power, and is looked for from another, then the action will be meritorious of such end. But what is already in the ultimate term is not said to be moved, but to have been moved. Consequently, to merit belongs to the imperfect charity of this life; whereas perfect charity does not merit but rather enjoys the reward. Even as in acquired habits, the operation preceding the habit is productive of the habit; but the operation from an acquired habit is both perfect and enjoyable. In the same way the act of perfect charity has no quality of merit, but belongs rather to the perfection of the reward.
 

@@ -10,9 +10,9 @@ We must now consider the fire of the final conflagration: and under this head th
 (7) Whether that fire precedes or follows the judgment?
 (8) Whether men are to be consumed by that fire?
 (9) Whether the wicked will be involved therein?
-## Whether The World Is To Be Cleansed?
+### Whether The World Is To Be Cleansed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is not to be any cleansing of the world. For only that which is unclean needs cleansing. Now God's creatures are not unclean, wherefore it is written (Acts 10:15): "That which God hath cleansed, do not thou call common," i.e. unclean. Therefore the creatures of the world shall not be cleansed.
 
@@ -20,22 +20,22 @@ Objection 2: Further, according to Divine justice cleansing is directed to the r
 
 Objection 3: Further, a thing is said to be cleansed when any foreign matter that depreciates it is removed therefrom: for the removal of that which ennobles a thing is not called a cleansing, but rather a diminishing. Now it pertains to the perfection and nobility of the elements that something of a foreign nature is mingled with them, since the form of a mixed body is more noble than the form of a simple body. Therefore it would seem nowise fitting that the elements of this world can possibly be cleansed.
 
-### Answer
+**Answer**
 
 On the contrary, All renewal is effected by some kind of cleansing. But the elements will be renewed; hence it is written (Apoc. 21:1): "I saw a new heaven and a new earth: for the first heaven and the first earth was gone." Therefore the elements shall be cleansed.
 
 I answer that, Since the world was, in a way, made for man's sake, it follows that, when man shall be glorified in the body, the other bodies of the world shall also be changed to a better state, so that it is rendered a more fitting place for him and more pleasant to look upon. Now in order that man obtain the glory of the body, it behooves first of all those things to be removed which are opposed to glory. There are two, namely the corruption and stain of sin---because according to 1 Cor. 15:50, "neither shall corruption possess incorruption," and all the unclean shall be without the city of glory (Apoc. 22:15)---and again, the elements require to be cleansed from the contrary dispositions, ere they be brought to the newness of glory, proportionately to what we have said with regard to man. Now although, properly speaking, a corporeal thing cannot be the subject of the stain of sin, nevertheless, on account of sin corporeal things contract a certain unfittingness for being appointed to spiritual purposes; and for this reason we find that places where crimes have been committed are reckoned unfit for the performance of sacred actions therein, unless they be cleansed beforehand. Accordingly that part of the world which is given to our use contracts from men's sins a certain unfitness for being glorified, wherefore in this respect it needs to be cleansed. In like manner with regard to the intervening space, on account of the contact of the elements, there are many corruptions, generations and alterations of the elements, which diminish their purity: wherefore the elements need to be cleansed from these also, so that they be fit to receive the newness of glory.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When it is asserted that every creature of God is clean we are to understand this as meaning that its substance contains no alloy of evil, as the Manichees maintained, saying that evil and good are two substances in some places severed from one another, in others mingled together. But it does not exclude a creature from having an admixture of a foreign nature, which in itself is also good, but is inconsistent with the perfection of that creature. Nor does this prevent evil from being accidental to a creature, although not mingled with it as part of its substance.
 
 Reply to Objection 2: Although corporeal elements cannot be the subject of sin, nevertheless, from the sin that is committed in them they contract a certain unfitness for receiving the perfection of glory.
 
 Reply to Objection 3: The form of a mixed body and the form of an element may be considered in two ways: either as regards the perfection of the species, and thus a mixed body is more perfect---or as regards their continual endurance; and thus the simple body is more noble, because it has not in itself the cause of corruption, unless it be corrupted by something extrinsic: whereas a mixed body has in itself the cause of its corruption, namely the composition of contraries. Wherefore a simple body, although it be corruptible in part is incorruptible as a whole, which cannot be said of a mixed body. And since incorruption belongs to the perfection of glory, it follows that the perfection of a simple is more in keeping with the perfection of glory, than the perfection of a mixed body, unless the mixed body has also in itself some principle of incorruption, as the human body has, the form of which is incorruptible. Nevertheless, although a mixed body is somewhat more noble than a simple body, a simple body that exists by itself has a more noble being than if it exist in a mixed body, because in a mixed body simple bodies are somewhat in potentiality, whereas, existing by themselves, they are in their ultimate perfection.
-## Whether The Cleansing Of The World Will Be Effected By Fire?
+### Whether The Cleansing Of The World Will Be Effected By Fire?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this cleansing will not be effected by fire. For since fire is a part of the world, it needs to be cleansed like the other parts. Now, the same thing should not be both cleanser and cleansed. Therefore it would seem that the cleansing will not be by fire.
 
@@ -43,22 +43,22 @@ Objection 2: Further, just as fire has a cleansing virtue so has water. Since th
 
 Objection 3: Further, this cleansing would seem to consist in purifying the parts of the world by separating them from one another. Now the separation of the parts of the world from one another at the world's beginning was effected by God's power alone, for the work of distinction was carried out by that power: wherefore Anaxagoras asserted that the separation was effected by the act of the intellect which moves all things (cf. Aristotle, Phys. viii, 9). Therefore it would seem that at the end of the world the cleansing will be done immediately by God and not by fire.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 49:3): "A fire shall burn before Him, and a mighty tempest shall be around Him"; and afterwards in reference to the judgment (Ps. 49:4): "He shall call heaven from above, and the earth to judge His people." Therefore it would seem that the final cleansing of the world will be by means of fire.
 
 I answer that, As stated above [5050](A[1]) this cleansing of the world will remove from it the stain contracted from sin, and the impurity resulting from mixture, and will be a disposition to the perfection of glory; and consequently in this threefold respect it will be most fitting for it to be effected by fire. First, because since fire is the most noble of the elements, its natural properties are more like the properties of glory, and this is especially clear in regard to light. Secondly, because fire, on account of the efficacy of its active virtue, is not as susceptible as the other elements to the admixture of a foreign matter. Thirdly, because the sphere of fire is far removed from our abode; nor are we so familiar with the use of fire as with that of earth, water, and air, so that it is not so liable to depreciation. Moreover, it is most efficacious in cleansing and in separating by a process of rarefaction.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Fire is not employed by us in its proper matter (since thus it is far removed from us), but only in a foreign matter: and in this respect it will be possible for the world to be cleansed by fire as existing in its pure state. But in so far as it has an admixture of some foreign matter it will be possible for it to be cleansed; and thus it will be cleanser and cleansed under different aspects. and this is not unreasonable.
 
 Reply to Objection 2: The first cleansing of the world by the deluge regarded only the stain of sin. Now the sin which was most prevalent then was the sin of concupiscence, and consequently it was fitting that the cleansing should be by means of its contrary, namely water. But the second cleansing regards both the stain of sin and the impurity of mixture, and in respect of both it is more fitting for it to be effected by fire than by water. For the power of water tends to unite rather than to separate; wherefore the natural impurity of the elements could not be removed by water as by fire. Moreover, at the end of the world the prevalent sin will be that of tepidity, as though the world were already growing old, because then, according to Mat. 24:12, "the charity of many shall grow cold," and consequently the cleansing will then be fittingly effected by fire. Nor is there any thing that cannot in some way be cleansed by fire: some things, however, cannot be cleansed by fire without being destroyed themselves, such as cloths and wooden vessels, and these the Law ordered to be cleansed with water; yet all these things will be finally destroyed by fire.
 
 Reply to Objection 3: By the work of distinction things received different forms whereby they are distinct from one another: and consequently this could only be done by Him Who is the author of nature. But by the final cleansing things will be restored to the purity wherein they were created, wherefore created nature will be able to minister to its Creator to this effect; and for this reason is a creature employed as a minister, that it is ennobled thereby.
-## Whether The Fire Whereby The World Will Be Cleansed Will Be Of The Same Species With Elemental Fire?
+### Whether The Fire Whereby The World Will Be Cleansed Will Be Of The Same Species With Elemental Fire?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fire in question is not of the same species as elemental fire. For nothing consumes itself. But that fire will consume the four elements according to a gloss on 2 Pet. 3:12. Therefore that fire will not be of the same species as elemental fire.
 
@@ -66,22 +66,22 @@ Objection 2: Further, as power is made known by operation, so is nature made kno
 
 Objection 3: Further, in natural bodies those that are of the same species have the same movement. But that fire will have a different movement from the fire that is an element, because it will move in all directions so as to cleanse the whole. Therefore it is not of the same species.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xx, 16), and his words are contained in a gloss on 1 Cor. 7:31, that "the fashion of this world will perish in the burning of worldly flames." Therefore that fire will be of the same nature as the fire which is now in the world.
 
 I answer that, We meet with three opinions on this question. For some say that the element of fire which is in its own sphere will come down to cleanse the world: and they explain this descent by way of multiplication, because the fire will spread through finding combustible matter on all sides. And this will result all the more then since the virtue of the fire will be raised over all the elements. Against this, however, would seem to be not only the fact that this fire will come down, but also the statement of the saints that it will rise up; thus (2 Pet. 3:10) it is declared that the fire of the judgment will rise as high as the waters of the deluge; whence it would seem to follow that this fire is situated towards the middle of the place of generation. Hence others say that this fire will be generated towards the intervening space through the focusing together of the rays of the heavenly bodies, just as we see them focused together in a burning-glass; for at that time in lieu of glasses there will be concave clouds, on which the rays will strike But this again does not seem probable: for since the effects of heavenly bodies depend on certain fixed positions and aspects, if this fire resulted from the virtue of the heavenly bodies, the time of this cleansing would be known to those who observe the movements of the stars and this is contrary to the authority of Scripture. Consequently others, following Augustine, say that "just as the deluge resulted from an outpouring of the waters of the world, so the fashion of this world will perish by a burning of worldly flames" (De Civ. Dei. xx, 16). This burning is nothing else but the assembly of all those lower and higher causes that by their nature have a kindling virtue: and this assembly will take place not in the ordinary course of things, but by the Divine power: and from all these causes thus assembled the fire that will burn the surface of this world will result. If we consider aright these opinions, we shall find that they differ as to the cause producing this fire and not as to its species. For fire, whether produced by the sun or by some lower heating cause, is of the same species as fire in its own sphere, except in so far as the former has some admixture of foreign matter. And this will of necessity be the case then, since fire cannot cleanse a thing, unless this become its matter in some way. Hence we must grant that the fire in question is simply of the same species as ours.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The fire in question, although of the same species as ours, is not identically the same. Now we see that of two fires of the same species one destroys the other, namely the greater destroys the lesser, by consuming its matter. In like manner that fire will be able to destroy our fire.
 
 Reply to Objection 2: Just as an operation that proceeds from the virtue of a thing is an indication of that virtue, so is its virtue an indication of its essence or nature, if it proceed from the essential principles of the thing. But an operation that does not proceed from the virtue of the operator does not indicate its virtue. This appears in instruments: for the action of an instrument shows forth the virtue of the mover rather than that of the instrument, since it shows forth the virtue of the agent in so far as the latter is the first principle of the action, whereas it does not show forth the virtue of the instrument, except in so far as it is susceptive of the influence of the principal agent as moving that instrument. In like manner a virtue that does not proceed from the essential principles of a thing does not indicate the nature of that thing except in the point of susceptibility. Thus the virtue whereby hot water can heat is no indication of the nature of water except in the point of its being receptive of heat. Consequently nothing prevents water that has this virtue from being of the same species as water that has it not. In like manner it is not unreasonable that this fire, which will have the power to cleanse the surface of the world, will be of the same species as the fire to which we are used, since the heating power therein arises, not from its essential principles but from the divine power or operation: whether we say that this power is an absolute quality, such as heat in hot water, or a kind of intention as we have ascribed to instrumental virtue (Sent. iv, D, 1, qu. 1, A[4]) [*Cf. [5051]TP, Q[62], A[4], ad 1]. The latter is more probable since that fire will not act save as the instrument of the Divine power.
 
 Reply to Objection 3: Of its own nature fire tends only upwards; but in so far as it pursues its matter, which it requires when it is outside its own sphere, it follows the site of combustible matter. Accordingly it is not unreasonable for it to take a circular or a downward course, especially in so far as it acts as the instrument of the Divine power.
-## Whether That Fire Will Cleanse Also The Higher Heavens?
+### Whether That Fire Will Cleanse Also The Higher Heavens?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that that fire will cleanse also the higher heavens. For it is written (Ps. 101:26,27): "The heavens are the works of Thy hands: they shall perish but Thou remainest." Now the higher heavens also are the work of God's hands. Therefore they also shall perish in the final burning of the world.
 
@@ -89,22 +89,22 @@ Objection 2: Further, it is written (2 Pet. 3:12): "The heavens being on fire sh
 
 Objection 3: Further, the purpose of that fire will be to remove from bodies their indisposition to the perfection of glory. Now in the higher heaven we find this indisposition both as regards guilt, since the devil sinned there, and as regards natural deficiency, since a gloss on Rom. 8:22, "We know that every creature groaneth and is in labor even until now," says: "All the elements fulfill their duty with labor: even as it is not without labor that the sun and moon travel their appointed course." Therefore the higher heavens also will be cleansed by that fire.
 
-### Answer
+**Answer**
 
 On the contrary, "The heavenly bodies are not receptive of impressions from without" [*Cf. Sent. Philosop. ex Arist. collect. lit. c.---Among the works of Bede].
 
 I answer that, The cleansing of the world will be for the purpose of removing from bodies the disposition contrary to the perfection of glory, and this perfection is the final consummation of the universe: and this disposition is to be found in all bodies, but differently in different bodies. For in some this indisposition regards something inherent to their substance: as in these lower bodies which by being mixed together fall away from their own purity. In others this indisposition does not regard something inherent to their substance; as in the heavenly bodies, wherein nothing is to be found contrary to the final perfection of the universe, except movement which is the way to perfection, and this not any kind of movement, but only local movement, which changes nothing intrinsic to a thing, such as its substance, quantity, or quality, but only its place which is extrinsic to it. Consequently there is no need to take anything away from the substance of the higher heavens, but only to set its movement at rest. Now local movement is brought to rest not by the action of a counter agent, but by the mover ceasing to move; and therefore the heavenly bodies will not be cleansed, neither by fire nor by the action of any creature, but in lieu of being cleansed they will be set at rest by God's will alone.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (De Civ. Dei xx, 18,24): "Those words of the psalm refer to the aerial heavens which will be cleansed by the fire of the final conflagration." Or we may reply that if they refer also to the higher heavens, these are said to perish as regards their movement whereby now they are moved without cessation.
 
 Reply to Objection 2: Peter explains himself to which heavens he refers. For before the words quoted, he had said (2 Pet. 3:5-7): "The heavens . . . first, and the earth . . . through water . . . perished . . . which . . . now, by the same word are kept in store, reserved unto fire unto the day of judgment." [*The entire text differs somewhat from St. Thomas's quotation; but the sense is the same.] Therefore the heavens to be cleansed are those which before were cleansed by the waters of the deluge, namely the aerial heavens.
 
 Reply to Objection 3: This labor and service of the creature, that Ambrose ascribes to the heavenly bodies, is nothing else than the successive movements whereby they are subject to time, and the lack of that final consummation which they will attain in the end. Nor did the empyrean heaven contract any stain from the sin of the demons, because they were expelled from that heaven as soon as they sinned.
-## Whether That Fire Will Consume The Other Elements?
+### Whether That Fire Will Consume The Other Elements?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fire in question will consume the other elements. For a gloss of Bede on 2 Pet. 3:12 says: "This exceeding great fire will engulf the four elements whereof the world consists: yet it will not so engulf all things that they will cease to be, but it will consume two of them entirely, and will restore two of them to a better fashion." Therefore it would seem that at least two of the elements are to be entirely destroyed by that fire.
 
@@ -114,7 +114,7 @@ Objection 3: Further, fire does not cleanse except in so far as other things are
 
 Objection 4: Further, the form of fire is the most noble of the forms to which elemental matter can attain. Now all things will be brought to the most noble state by this cleansing. Therefore the other elements will be wholly transformed into fire.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on 1 Cor. 7:31, "The fashion of this world passeth away," says: "The beauty, not the substance, passeth." But the very substance of the elements belongs to the perfection of the world. Therefore the elements will not be consumed as to their substance.
 
@@ -126,7 +126,7 @@ Hence others say that all the elements will remain as to their substance, but th
 
 However, this does not seem probable, for since the proper qualities of the elements are the effects of their substantial form, it seems impossible, as long as the substantial forms remain, for the aforesaid qualities to be changed, except for a time by some violent action: thus in hot water we see that by virtue of its species it returns to the cold temperature which it had lost by the action of fire, provided the species of water remain. Moreover, these same elemental qualities belong to the second perfection of the elements, as being their proper passions: nor is it probable that in this final consummation the elements will lose anything of their natural perfection. Wherefore it would seem that the reply to this question should be that the elements will remain as to their substance and proper qualities, but that they will be cleansed both from the stain which they contracted from the sins of men, and from the impurity resulting in them through their mutual action and passion: because when once the movement of the first movable body ceases, mutual action and passion will be impossible in the lower elements: and this is what Augustine calls the "qualities of corruptible elements," namely their unnatural dispositions by reason of which they come near to corruption.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That fire is said to engulf the four elements in so far as in some way it will cleanse them. But when it is said further that "it will consume two entirely," this does not mean that two of the elements are to be destroyed as to their substance, but that two will be more changed from the property which they have now. Some say that these two are fire and water which excel the others in their active qualities, namely heat and cold, which are the chief principles of corruption in other bodies; and since then there will be no action of fire and water which surpass the others in activity, they would seem especially to be changed from the virtue which they have now. Others, however, say that these two are air and water, on account of the various movements of these two elements, which movements they derive from the movement of the heavenly bodies. And since these movements will cease (such as the ebb and flow of the sea, and the disturbances of winds and so forth), therefore these elements especially will be changed from the property which they have now.
 
@@ -135,9 +135,9 @@ Reply to Objection 2: As Augustine says (De Civ. Dei xx, 16), when it is stated:
 Reply to Objection 3: This fire will not act save as the instrument of God's providence and power; wherefore it will not act on the other elements so as to consume them but only so as to cleanse them. Nor is it necessary for that which becomes the matter of fire, to be voided of its proper species entirely, as instanced by incandescent iron, which by virtue of its species that remains returns to its proper and former state as soon as it is taken from the furnace. It will be the same with the elements after they are cleansed by fire.
 
 Reply to Objection 4: In the elemental parts we must consider not only what is befitting a part considered in itself, but also what is befitting it in its relation to the whole. I say, then, that although water would be more noble if it had the form of fire, as likewise would earth and air, yet the universe would be more imperfect, if all elemental matter were to assume the form of fire.
-## Whether All The Elements Will Be Cleansed By That Fire?
+### Whether All The Elements Will Be Cleansed By That Fire?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that neither will all the elements be cleansed by that fire. Because that fire, as stated already [5052](A[3]), will not rise higher than the waters of the deluge. But the waters of the deluge did not reach to the sphere of fire. Therefore neither will the element of fire be cleansed by the final cleansing.
 
@@ -147,7 +147,7 @@ Objection 3: Further, a place where there is an everlasting stain is never clean
 
 Objection 4: Further, the earthly paradise is situated on the earth. Yet it will not be cleansed by fire, since not even the waters of the deluge reached it, as Bede says (Hexaem. i, ad Gen. 2:8), as is stated in Sentent. ii, D, 7. Therefore it would seem that the elements will not all be wholly cleansed.
 
-### Answer
+**Answer**
 
 On the contrary, The gloss quoted above (A[5], OBJ[1]) on 2 Pet. 3:12 declares that "this fire will engulf the four elements."
 
@@ -155,16 +155,16 @@ I answer that, Some [*St. Bonaventure, Sentent. iv, D, 47, A[2], Q[3]] say that 
 
 We therefore grant the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The reason for doubt is expressed in the gloss, because, to wit, water is believed to have in itself the power of cleansing, yet not such a power as will be competent to the future state, as stated above [5053](A[5]; A[2], ad 2).
 
 Reply to Objection 3: The purpose of this cleansing will be chiefly to remove all imperfection from the abode of the saints; and consequently in this cleansing all that is foul will be brought together to the place of the damned: so hell will not be cleansed, and the dregs of the whole earth will be brought thither, according to Ps. 74:9, "The dregs thereof are not emptied, all the sinners of the earth shall drink."
 
 Reply to Objection 4: Although the sin of the first man was committed in the earthly paradise, this is not the place of sinners, as neither is the empyrean heaven: since from both places man and devil were expelled forthwith after their sin. Consequently that place needs no cleansing.
-## Whether The Fire Of The Final Conflagration Is To Follow The Judgment?
+### Whether The Fire Of The Final Conflagration Is To Follow The Judgment?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the fire of the final conflagration is to follow the judgment. For Augustine (De Civ. Dei xx, 30) gives the following order of the things to take place at the judgment, saying: "At this judgment we have learned that the following things will occur. Elias the Thesbite will appear, the Jews will believe, Antichrist will persecute, Christ will judge, the dead shall rise again, the good shall be separated from the wicked, the world shall be set on fire and shall be renewed." Therefore the burning will follow the judgment.
 
@@ -174,22 +174,22 @@ Objection 3: Further, when the Lord comes to judgment He will find some men livi
 
 Objection 4: Further, it is said that our Lord will come to judge the earth by fire, and consequently the final conflagration would seem to be the execution of the sentence of Divine judgment. Now execution follows judgment. Therefore that fire will follow the judgment.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 96:3): "A fire shall go before Him."
 
 I answer that, The fire in question will in reality, as regards its beginning, precede the judgment. This can clearly be gathered from the fact that the resurrection of the dead will precede the judgment, since according to 1 Thess. 4:13-16, those who have slept "shall be taken up . . . in the clouds . . . into the air . . . to meet Christ coming to judgment." Now the general resurrection and the glorification of the bodies of the saints will happen at the same time; for the saints in rising again will assume a glorified body, as evidenced by 1 Cor. 15:43, "It is sown in dishonor, it shall rise in glory": and at the same time as the saints' bodies shall be glorified, all creatures shall be renewed, each in its own way, as appears from the statement (Rom. 8:21) that "the creature . . . itself shall be delivered from the servitude of corruption into the liberty of the glory of the children of God." Since then the burning of the world is a disposition to the aforesaid renewal, as stated above ([5054]AA[1],4); it can clearly be gathered that this burning, so far as it shall cleanse the world, will precede the judgment, but as regards a certain action thereof, whereby it will engulf the wicked, it will follow the judgment.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is speaking not as one who decides the point, but as expressing an opinion. This is clear from his continuing thus: "That all these things are to happen is a matter of faith, but how and in what order we shall learn more then by experience of the things themselves than now by seeking a definite conclusion by arguing about them. Methinks, however, they will occur in the order I have given." Hence it is clear that he is speaking as offering his opinion. The same answer applies to the Second Objection.
 
 Reply to Objection 3: All men shall die and rise again: yet those are said to be found alive who will live in the body until the time of the conflagration.
 
 Reply to Objection 4: That fire will not carry out the sentence of the judge except as regards the engulfing of the wicked: in this respect it will follow the judgment.
-## Whether That Fire Will Have Such An Effect On Men As Is Described?
+### Whether That Fire Will Have Such An Effect On Men As Is Described?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this fire will not have such an effect on men as is described in the text (Sent. iv, D, 47). For a thing is said to be consumed when it is reduced to naught. Now the bodies of the wicked will not be reduced to naught, but will be kept for eternity, that they may bear an eternal punishment. Therefore this fire will not consume the wicked, as stated in the text.
 
@@ -201,7 +201,7 @@ Objection 4: Further, as long as the state of the way lasts the elements act in 
 
 Objection 5: Further, this fire will have done its work in a moment as it were. Yet there will be many among the living in whom there will be many things to be cleansed. Therefore that fire will not suffice for their cleansing.
 
-### Answer
+**Answer**
 
 
 
@@ -209,7 +209,7 @@ I answer that, This fire of the final conflagration, in so far as it will preced
 
 On the other hand, as regards the action which this fire will have after the judgment, it will act on the damned alone, since the good will all have impassible bodies.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Consumption there signifies being brought, not to nothing, but to ashes.
 
@@ -220,9 +220,9 @@ Reply to Objection 3: The elements that are in human bodies, even in the bodies 
 Reply to Objection 4: This fire will act not only according to the natural power of the element, but also as the instrument of Divine justice.
 
 Reply to Objection 5: There are three reasons why those who will be found living will be able to be cleansed suddenly. One is because there will be few things in them to be cleansed, since they will be already cleansed by the previous fears and persecutions. The second is because they will suffer pain both while living and of their own will: and pain suffered in this life voluntarily cleanses much more than pain inflicted after death, as in the case of the martyrs, because "if anything needing to be cleansed be found in them, it is cut off by the sickle of suffering," as Augustine says (De Unic. Bap. xiii), although the pain of martyrdom is of short duration in comparison with the pain endured in purgatory. The third is because the heat will gain in intensity what it loses in shortness of time.
-## Whether That Fire Will Engulf The Wicked?
+### Whether That Fire Will Engulf The Wicked?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that that fire will not engulf the wicked. For a gloss on Malachi 3:3, "He shall purify the sons of Levi," says that "it is a fire consuming the wicked and refining the good"; and a gloss on 1 Cor. 3:13, "Fire shall try every man's work," says: "We read that there will be a twofold fire, one that will cleanse the elect and will precede the judgment, another that will torture the wicked." Now the latter is the fire of hell that shall engulf the wicked, while the former is the fire of the final conflagration. Therefore the fire of the final conflagration will not be that which will engulf the wicked.
 
@@ -230,13 +230,13 @@ Objection 2: Further, that fire will obey God in the cleansing of the world: the
 
 Objection 3: Further, the fire that will engulf the wicked will be the fire of hell: and this fire was prepared from the beginning of the world for the damned; hence it is written (Mat. 25:41): "Depart . . . you cursed . . . into everlasting fire which was prepared for the devil," etc., and (Is. 30:33): "Tophet is prepared from yesterday, prepared by the king," etc., where a gloss observes: "From yesterday, i.e. from the beginning---Tophet, i.e. the valley of hell." But this fire of the final conflagration was not prepared from the beginning, but will result from the meeting together of the fires of the world. Therefore that fire is not the fire of hell which will engulf the wicked.
 
-### Answer
+**Answer**
 
 On the contrary, are the words of Ps. 96:3, where it is said of this fire that it "shall burn His enemies round about."
 
 I answer that, The entire cleansing of the world and the renewal for the purpose of cleansing will be directed to the renewal of man: and consequently the cleansing and renewal of the world must needs correspond with the cleansing and renewal of mankind. Now mankind will be cleansed in one way by the separation of the wicked from the good: wherefore it is said (Lk. 3:17): "Whose fan is in His hand, and He will purge His poor, and will gather the wheat," i.e. the elect, "into His barn, but the chaff," i.e. the wicked, "He will burn with unquenchable fire." Hence it will be thus with the cleansing of the world, so that all that is ugly and vile will be cast with the wicked into hell, and all that is beautiful and noble will be taken up above for the glory of the elect: and so too will it be with the fire of that conflagration, as Basil says in Ps. 28:7, "The voice of the Lord divideth the flame of fire," because whatever fire contains of burning heat and gross matter will go down into hell for the punishment of the wicked, and whatever is subtle and lightsome will remain above for the glory of the elect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The fire that will cleanse the elect before the judgment will be the same as the fire that will burn the world, although some say the contrary. For it is fitting that man, being a part of the world, be cleansed with the same fire as the world. They are, however, described as two fires, that will cleanse the good, and torture the wicked, both in reference to their respective offices, and somewhat in reference to their substance: since the substance of the cleansing fire will not all be cast into hell, as stated above.
 

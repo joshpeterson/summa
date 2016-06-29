@@ -7,9 +7,9 @@ We must now consider the power of human law. Under this head there are six point
 (4) Whether it binds man in conscience?
 (5) Whether all men are subject to human law?
 (6) Whether those who are under the law may act beside the letter of the law?
-## Whether Human Law Should Be Framed For The Community Rather Than For The Individual?
+### Whether Human Law Should Be Framed For The Community Rather Than For The Individual?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that human law should be framed not for the community, but rather for the individual. For the Philosopher says (Ethic. v, 7) that "the legal just . . . includes all particular acts of legislation . . . and all those matters which are the subject of decrees," which are also individual matters, since decrees are framed about individual actions. Therefore law is framed not only for the community, but also for the individual.
 
@@ -17,22 +17,22 @@ Objection 2: Further, law is the director of human acts, as stated above ([2035]
 
 Objection 3: Further, law is a rule and measure of human acts, as stated above ([2036]Q[90], AA[1],2). But a measure should be most certain, as stated in Metaph. x. Since therefore in human acts no general proposition can be so certain as not to fail in some individual cases, it seems that laws should be framed not in general but for individual cases.
 
-### Answer
+**Answer**
 
 On the contrary, The jurist says (Pandect. Justin. lib. i, tit. iii, art. ii; De legibus, etc.) that "laws should be made to suit the majority of instances; and they are not framed according to what may possibly happen in an individual case."
 
 I answer that, Whatever is for an end should be proportionate to that end. Now the end of law is the common good; because, as Isidore says (Etym. v, 21) that "law should be framed, not for any private benefit, but for the common good of all the citizens." Hence human laws should be proportionate to the common good. Now the common good comprises many things. Wherefore law should take account of many things, as to persons, as to matters, and as to times. Because the community of the state is composed of many persons; and its good is procured by many actions; nor is it established to endure for only a short time, but to last for all time by the citizens succeeding one another, as Augustine says (De Civ. Dei ii, 21; xxii, 6).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher (Ethic. v, 7) divides the legal just, i.e. positive law, into three parts. For some things are laid down simply in a general way: and these are the general laws. Of these he says that "the legal is that which originally was a matter of indifference, but which, when enacted, is so no longer": as the fixing of the ransom of a captive. Some things affect the community in one respect, and individuals in another. These are called "privileges," i.e. "private laws," as it were, because they regard private persons, although their power extends to many matters; and in regard to these, he adds, "and further, all particular acts of legislation." Other matters are legal, not through being laws, but through being applications of general laws to particular cases: such are decrees which have the force of law; and in regard to these, he adds "all matters subject to decrees."
 
 Reply to Objection 2: A principle of direction should be applicable to many; wherefore (Metaph. x, text. 4) the Philosopher says that all things belonging to one genus, are measured by one, which is the principle in that genus. For if there were as many rules or measures as there are things measured or ruled, they would cease to be of use, since their use consists in being applicable to many things. Hence law would be of no use, if it did not extend further than to one single act. Because the decrees than to one single act. Because the decrees of prudent men are made for the purpose of directing individual actions; whereas law is a general precept, as stated above ([2037]Q[92], A[2], OBJ[2]).
 
 Reply to Objection 3: "We must not seek the same degree of certainty in all things" (Ethic. i, 3). Consequently in contingent matters, such as natural and human things, it is enough for a thing to be certain, as being true in the greater number of instances, though at times and less frequently it fail.
-## Whether It Belongs To The Human Law To Repress All Vices?
+### Whether It Belongs To The Human Law To Repress All Vices?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it belongs to human law to repress all vices. For Isidore says (Etym. v, 20) that "laws were made in order that, in fear thereof, man's audacity might be held in check." But it would not be held in check sufficiently, unless all evils were repressed by law. Therefore human laws should repress all evils.
 
@@ -40,7 +40,7 @@ Objection 2: Further, the intention of the lawgiver is to make the citizens virt
 
 Objection 3: Further, human law is derived from the natural law, as stated above ([2038]Q[95], A[2]). But all vices are contrary to the law of nature. Therefore human law should repress all vices.
 
-### Answer
+**Answer**
 
 On the contrary, We read in De Lib. Arb. i, 5: "It seems to me that the law which is written for the governing of the people rightly permits these things, and that Divine providence punishes them." But Divine providence punishes nothing but vices. Therefore human law rightly allows some vices, by not repressing them.
 
@@ -48,16 +48,16 @@ I answer that, As stated above ([2039]Q[90], AA[1],2), law is framed as a rule o
 
 Now human law is framed for a number of human beings, the majority of whom are not perfect in virtue. Wherefore human laws do not forbid all vices, from which the virtuous abstain, but only the more grievous vices, from which it is possible for the majority to abstain; and chiefly those that are to the hurt of others, without the prohibition of which human society could not be maintained: thus human law prohibits murder, theft and such like.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Audacity seems to refer to the assailing of others. Consequently it belongs to those sins chiefly whereby one's neighbor is injured: and these sins are forbidden by human law, as stated.
 
 Reply to Objection 2: The purpose of human law is to lead men to virtue, not suddenly, but gradually. Wherefore it does not lay upon the multitude of imperfect men the burdens of those who are already virtuous, viz. that they should abstain from all evil. Otherwise these imperfect ones, being unable to bear such precepts, would break out into yet greater evils: thus it is written (Ps. 30:33): "He that violently bloweth his nose, bringeth out blood"; and (Mat. 9:17) that if "new wine," i.e. precepts of a perfect life, "is put into old bottles," i.e. into imperfect men, "the bottles break, and the wine runneth out," i.e. the precepts are despised, and those men, from contempt, break into evils worse still.
 
 Reply to Objection 3: The natural law is a participation in us of the eternal law: while human law falls short of the eternal law. Now Augustine says (De Lib. Arb. i, 5): "The law which is framed for the government of states, allows and leaves unpunished many things that are punished by Divine providence. Nor, if this law does not attempt to do everything, is this a reason why it should be blamed for what it does." Wherefore, too, human law does not prohibit everything that is forbidden by the natural law.
-## Whether Human Law Prescribes Acts Of All The Virtues?
+### Whether Human Law Prescribes Acts Of All The Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that human law does not prescribe acts of all the virtues. For vicious acts are contrary to acts of virtue. But human law does not prohibit all vices, as stated above [2040](A[2]). Therefore neither does it prescribe all acts of virtue.
 
@@ -65,22 +65,22 @@ Objection 2: Further, a virtuous act proceeds from a virtue. But virtue is the e
 
 Objection 3: Further, law is ordained to the common good, as stated above ([2041]Q[90], A[2]). But some acts of virtue are ordained, not to the common good, but to private good. Therefore the law does not prescribe all acts of virtue.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. v, 1) that the law "prescribes the performance of the acts of a brave man . . . and the acts of the temperate man . . . and the acts of the meek man: and in like manner as regards the other virtues and vices, prescribing the former, forbidding the latter."
 
 I answer that, The species of virtues are distinguished by their objects, as explained above ([2042]Q[54], A[2];[2043] Q[60], A[1];[2044] Q[62], A[2]). Now all the objects of virtues can be referred either to the private good of an individual, or to the common good of the multitude: thus matters of fortitude may be achieved either for the safety of the state, or for upholding the rights of a friend, and in like manner with the other virtues. But law, as stated above ([2045]Q[90], A[2]) is ordained to the common good. Wherefore there is no virtue whose acts cannot be prescribed by the law. Nevertheless human law does not prescribe concerning all the acts of every virtue: but only in regard to those that are ordainable to the common good---either immediately, as when certain things are done directly for the common good---or mediately, as when a lawgiver prescribes certain things pertaining to good order, whereby the citizens are directed in the upholding of the common good of justice and peace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Human law does not forbid all vicious acts, by the obligation of a precept, as neither does it prescribe all acts of virtue. But it forbids certain acts of each vice, just as it prescribes some acts of each virtue.
 
 Reply to Objection 2: An act is said to be an act of virtue in two ways. First, from the fact that a man does something virtuous; thus the act of justice is to do what is right, and an act of fortitude is to do brave things: and in this way law prescribes certain acts of virtue. Secondly an act of virtue is when a man does a virtuous thing in a way in which a virtuous man does it. Such an act always proceeds from virtue: and it does not come under a precept of law, but is the end at which every lawgiver aims.
 
 Reply to Objection 3: There is no virtue whose act is not ordainable to the common good, as stated above, either mediately or immediately.
-## Whether Human Law Binds A Man In Conscience?
+### Whether Human Law Binds A Man In Conscience?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that human law does not bind man in conscience. For an inferior power has no jurisdiction in a court of higher power. But the power of man, which frames human law, is beneath the Divine power. Therefore human law cannot impose its precept in a Divine court, such as is the court of conscience.
 
@@ -88,7 +88,7 @@ Objection 2: Further, the judgment of conscience depends chiefly on the commandm
 
 Objection 3: Further, human laws often bring loss of character and injury on man, according to Is. 10:1 et seqq.: "Woe to them that make wicked laws, and when they write, write injustice; to oppress the poor in judgment, and do violence to the cause of the humble of My people." But it is lawful for anyone to avoid oppression and violence. Therefore human laws do not bind man in conscience.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Pet. 2:19): "This is thankworthy, if for conscience . . . a man endure sorrows, suffering wrongfully."
 
@@ -98,16 +98,16 @@ On the other hand laws may be unjust in two ways: first, by being contrary to hu
 
 Secondly, laws may be unjust through being opposed to the Divine good: such are the laws of tyrants inducing to idolatry, or to anything else contrary to the Divine law: and laws of this kind must nowise be observed, because, as stated in Acts 5:29, "we ought to obey God rather than man."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As the Apostle says (Rom. 13:1,2), all human power is from God . . . "therefore he that resisteth the power," in matters that are within its scope, "resisteth the ordinance of God"; so that he becomes guilty according to his conscience.
 
 Reply to Objection 2: This argument is true of laws that are contrary to the commandments of God, which is beyond the scope of (human) power. Wherefore in such matters human law should not be obeyed.
 
 Reply to Objection 3: This argument is true of a law that inflicts unjust hurt on its subjects. The power that man holds from God does not extend to this: wherefore neither in such matters is man bound to obey the law, provided he avoid giving scandal or inflicting a more grievous hurt.
-## Whether All Are Subject To The Law?
+### Whether All Are Subject To The Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that not all are subject to the law. For those alone are subject to a law for whom a law is made. But the Apostle says (1 Tim. 1:9): "The law is not made for the just man." Therefore the just are not subject to the law.
 
@@ -115,7 +115,7 @@ Objection 2: Further, Pope Urban says [*Decretals. caus. xix, qu. 2]: "He that i
 
 Objection 3: Further, the jurist says [*Pandect. Justin. i, ff., tit. 3, De Leg. et Senat.] that "the sovereign is exempt from the laws." But he that is exempt from the law is not bound thereby. Therefore not all are subject to the law.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 13:1): "Let every soul be subject to the higher powers." But subjection to a power seems to imply subjection to the laws framed by that power. Therefore all men should be subject to human law.
 
@@ -123,16 +123,16 @@ I answer that, As stated above ([2046]Q[90], AA[1],2; A[3], ad 2), the notion of
 
 Secondly, a man is said to be subject to a law as the coerced is subject to the coercer. In this way the virtuous and righteous are not subject to the law, but only the wicked. Because coercion and violence are contrary to the will: but the will of the good is in harmony with the law, whereas the will of the wicked is discordant from it. Wherefore in this sense the good are not subject to the law, but only the wicked.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is true of subjection by way of coercion: for, in this way, "the law is not made for the just men": because "they are a law to themselves," since they "show the work of the law written in their hearts," as the Apostle says (Rom. 2:14,15). Consequently the law does not enforce itself upon them as it does on the wicked.
 
 Reply to Objection 2: The law of the Holy Ghost is above all law framed by man: and therefore spiritual men, in so far as they are led by the law of the Holy Ghost, are not subject to the law in those matters that are inconsistent with the guidance of the Holy Ghost. Nevertheless the very fact that spiritual men are subject to law, is due to the leading of the Holy Ghost, according to 1 Pet. 2:13: "Be ye subject . . . to every human creature for God's sake."
 
 Reply to Objection 3: The sovereign is said to be "exempt from the law," as to its coercive power; since, properly speaking, no man is coerced by himself, and law has no coercive power save from the authority of the sovereign. Thus then is the sovereign said to be exempt from the law, because none is competent to pass sentence on him, if he acts against the law. Wherefore on Ps. 50:6: "To Thee only have I sinned," a gloss says that "there is no man who can judge the deeds of a king." But as to the directive force of law, the sovereign is subject to the law by his own will, according to the statement (Extra, De Constit. cap. Cum omnes) that "whatever law a man makes for another, he should keep himself. And a wise authority [*Dionysius Cato, Dist. de Moribus] says: 'Obey the law that thou makest thyself.'" Moreover the Lord reproaches those who "say and do not"; and who "bind heavy burdens and lay them on men's shoulders, but with a finger of their own they will not move them" (Mat. 23:3,4). Hence, in the judgment of God, the sovereign is not exempt from the law, as to its directive force; but he should fulfil it to his own free-will and not of constraint. Again the sovereign is above the law, in so far as, when it is expedient, he can change the law, and dispense in it according to time and place.
-## Whether He Who Is Under A Law May Act Beside The Letter Of The Law?
+### Whether He Who Is Under A Law May Act Beside The Letter Of The Law?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that he who is subject to a law may not act beside the letter of the law. For Augustine says (De Vera Relig. 31): "Although men judge about temporal laws when they make them, yet when once they are made they must pass judgment not on them, but according to them." But if anyone disregard the letter of the law, saying that he observes the intention of the lawgiver, he seems to pass judgment on the law. Therefore it is not right for one who is under the law to disregard the letter of the law, in order to observe the intention of the lawgiver.
 
@@ -140,7 +140,7 @@ Objection 2: Further, he alone is competent to interpret the law who can make th
 
 Objection 3: Further, every wise man knows how to explain his intention by words. But those who framed the laws should be reckoned wise: for Wisdom says (Prov. 8:15): "By Me kings reign, and lawgivers decree just things." Therefore we should not judge of the intention of the lawgiver otherwise than by the words of the law.
 
-### Answer
+**Answer**
 
 On the contrary, Hilary says (De Trin. iv): "The meaning of what is said is according to the motive for saying it: because things are not subject to speech, but speech to things." Therefore we should take account of the motive of the lawgiver, rather than of his very words.
 
@@ -148,7 +148,7 @@ I answer that, As stated above [2047](A[4]), every law is directed to the common
 
 Nevertheless it must be noted, that if the observance of the law according to the letter does not involve any sudden risk needing instant remedy, it is not competent for everyone to expound what is useful and what is not useful to the state: those alone can do this who are in authority, and who, on account of such like cases, have the power to dispense from the laws. If, however, the peril be so sudden as not to allow of the delay involved by referring the matter to authority, the mere necessity brings with it a dispensation, since necessity knows no law.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He who in a case of necessity acts beside the letter of the law, does not judge the law; but of a particular case in which he sees that the letter of the law is not to be observed.
 

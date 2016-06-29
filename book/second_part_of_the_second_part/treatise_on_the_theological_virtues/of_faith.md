@@ -11,9 +11,9 @@ Having to treat now of the theological virtues, we shall begin with Faith, secon
 (8) Of the number of articles;
 (9) Of the manner of embodying the articles in a symbol;
 (10) Who has the right to propose a symbol of faith?
-## Whether The Object Of Faith Is The First Truth?
+### Whether The Object Of Faith Is The First Truth?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the object of faith is not the First Truth. For it seems that the object of faith is that which is proposed to us to be believed. Now not only things pertaining to the Godhead, i.e. the First Truth, are proposed to us to be believed, but also things concerning Christ's human nature, and the sacraments of the Church, and the condition of creatures. Therefore the object of faith is not only the First Truth.
 
@@ -21,7 +21,7 @@ Objection 2: Further, faith and unbelief have the same object since they are opp
 
 Objection 3: Further, faith is condivided with charity, as stated above ([2258]FS, Q[62], A[3]). Now by charity we love not only God, who is the sovereign Good, but also our neighbor. Therefore the object of Faith is not only the First Truth.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Div. Nom. vii) that "faith is about the simple and everlasting truth." Now this is the First Truth. Therefore the object of faith is the First Truth.
 
@@ -29,14 +29,14 @@ I answer that, The object of every cognitive habit includes two things: first, t
 
 Accordingly if we consider, in faith, the formal aspect of the object, it is nothing else than the First Truth. For the faith of which we are speaking, does not assent to anything, except because it is revealed by God. Hence the mean on which faith is based is the Divine Truth. If, however, we consider materially the things to which faith assents, they include not only God, but also many other things, which, nevertheless, do not come under the assent of faith, except as bearing some relation to God, in as much as, to wit, through certain effects of the Divine operation, man is helped on his journey towards the enjoyment of God. Consequently from this point of view also the object of faith is, in a way, the First Truth, in as much as nothing comes under faith except in relation to God, even as the object of the medical art is health, for it considers nothing save in relation to health.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Things concerning Christ's human nature, and the sacraments of the Church, or any creatures whatever, come under faith, in so far as by them we are directed to God, and in as much as we assent to them on account of the Divine Truth.
 
 Reply to Objection 3: Charity also loves our neighbor on account of God, so that its object, properly speaking, is God, as we shall show further on ([2259]Q[25] , A[1]).
-## Whether The Object Of Faith Is Something Complex, By Way Of A Proposition?
+### Whether The Object Of Faith Is Something Complex, By Way Of A Proposition?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the object of faith is not something complex by way of a proposition. For the object of faith is the First Truth, as stated above [2260](A[1]). Now the First Truth is something simple. Therefore the object of faith is not something complex.
 
@@ -44,7 +44,7 @@ Objection 2: Further, the exposition of faith is contained in the symbol. Now th
 
 Objection 3: Further, faith is succeeded by vision, according to 1 Cor. 13:12: "We see now through a glass in a dark manner; but then face to face. Now I know in part; but then I shall know even as I am known." But the object of the heavenly vision is something simple, for it is the Divine Essence. Therefore the faith of the wayfarer is also.
 
-### Answer
+**Answer**
 
 On the contrary, Faith is a mean between science and opinion. Now the mean is in the same genus as the extremes. Since, then, science and opinion are about propositions, it seems that faith is likewise about propositions; so that its object is something complex.
 
@@ -54,16 +54,16 @@ Accordingly the object of faith may be considered in two ways. First, as regards
 
 Hence in the past both opinions have been held with a certain amount of truth.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument considers the object of faith on the part of the thing believed.
 
 Reply to Objection 2: The symbol mentions the things about which faith is, in so far as the act of the believer is terminated in them, as is evident from the manner of speaking about them. Now the act of the believer does not terminate in a proposition, but in a thing. For as in science we do not form propositions, except in order to have knowledge about things through their means, so is it in faith.
 
 Reply to Objection 3: The object of the heavenly vision will be the First Truth seen in itself, according to 1 Jn. 3:2: "We know that when He shall appear, we shall be like to Him: because we shall see Him as He is": hence that vision will not be by way of a proposition but by way of a simple understanding. On the other hand, by faith, we do not apprehend the First Truth as it is in itself. Hence the comparison fails.
-## Whether Anything False Can Come Under Faith?
+### Whether Anything False Can Come Under Faith?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that something false can come under faith. For faith is condivided with hope and charity. Now something false can come under hope, since many hope to have eternal life, who will not obtain it. The same may be said of charity, for many are loved as being good, who, nevertheless, are not good. Therefore something false can be the object of faith.
 
@@ -73,13 +73,13 @@ Objection 3: Further, the ancients believed in the future birth of Christ, and m
 
 Objection 4: Further, it is a matter of faith, that one should believe that the true Body of Christ is contained in the Sacrament of the altar. But it might happen that the bread was not rightly consecrated, and that there was not Christ's true Body there, but only bread. Therefore something false can come under faith.
 
-### Answer
+**Answer**
 
 On the contrary, No virtue that perfects the intellect is related to the false, considered as the evil of the intellect, as the Philosopher declares (Ethic. vi, 2). Now faith is a virtue that perfects the intellect, as we shall show further on ([2262]Q[4], AA[2],5). Therefore nothing false can come under it.
 
 I answer that, Nothing comes under any power, habit or act, except by means of the formal aspect of the object: thus color cannot be seen except by means of light, and a conclusion cannot be known save through the mean of demonstration. Now it has been stated [2263](A[1]) that the formal aspect of the object of faith is the First Truth; so that nothing can come under faith, save in so far as it stands under the First Truth, under which nothing false can stand, as neither can non-being stand under being, nor evil under goodness. It follows therefore that nothing false can come under faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since the true is the good of the intellect, but not of the appetitive power, it follows that all virtues which perfect the intellect, exclude the false altogether, because it belongs to the nature of a virtue to bear relation to the good alone. On the other hand those virtues which perfect the appetitive faculty, do not entirely exclude the false, for it is possible to act in accordance with justice or temperance, while having a false opinion about what one is doing. Therefore, as faith perfects the intellect, whereas hope and charity perfect the appetitive part, the comparison between them fails.
 
@@ -88,9 +88,9 @@ Reply to Objection 2: That "God would not take flesh," considered in itself was 
 Reply to Objection 3: After Christ's birth, to believe in Him, was to believe in Christ's birth at some time or other. The fixing of the time, wherein some were deceived was not due to their faith, but to a human conjecture. For it is possible for a believer to have a false opinion through a human conjecture, but it is quite impossible for a false opinion to be the outcome of faith.
 
 Reply to Objection 4: The faith of the believer is not directed to such and such accidents of bread, but to the fact that the true body of Christ is under the appearances of sensible bread, when it is rightly consecrated. Hence if it be not rightly consecrated, it does not follow that anything false comes under faith.
-## Whether The Object Of Faith Can Be Something Seen?
+### Whether The Object Of Faith Can Be Something Seen?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the object of faith is something seen. For Our Lord said to Thomas (Jn. 20:29): "Because thou hast seen Me, Thomas, thou hast believed." Therefore vision and faith regard the same object.
 
@@ -100,7 +100,7 @@ Objection 3: Further, faith is a spiritual light. Now something is seen under ev
 
 Objection 4: Further, "Every sense is a kind of sight," as Augustine states (De Verb. Domini, Serm. xxxiii). But faith is of things heard, according to Rom. 10:17: "Faith . . . cometh by hearing." Therefore faith is of things seen.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Heb. 11:1) that "faith is the evidence of things that appear not."
 
@@ -108,7 +108,7 @@ I answer that, Faith implies assent of the intellect to that which is believed. 
 
 Now those things are said to be seen which, of themselves, move the intellect or the senses to knowledge of them. Wherefore it is evident that neither faith nor opinion can be of things seen either by the senses or by the intellect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Thomas "saw one thing, and believed another" [*St. Gregory: Hom. xxvi in Evang.]: he saw the Man, and believing Him to be God, he made profession of his faith, saying: "My Lord and my God."
 
@@ -117,9 +117,9 @@ Reply to Objection 2: Those things which come under faith can be considered in t
 Reply to Objection 3: The light of faith makes us see what we believe. For just as, by the habits of the other virtues, man sees what is becoming to him in respect of that habit, so, by the habit of faith, the human mind is directed to assent to such things as are becoming to a right faith, and not to assent to others.
 
 Reply to Objection 4: Hearing is of words signifying what is of faith, but not of the things themselves that are believed; hence it does not follow that these things are seen.
-## Whether Those Things That Are Of Faith Can Be An Object Of Science?
+### Whether Those Things That Are Of Faith Can Be An Object Of Science?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that those things that are of faith can be an object of science. For where science is lacking there is ignorance, since ignorance is the opposite of science. Now we are not in ignorance of those things we have to believe, since ignorance of such things savors of unbelief, according to 1 Tim. 1:13: "I did it ignorantly in unbelief." Therefore things that are of faith can be an object of science.
 
@@ -129,7 +129,7 @@ Objection 3: Further, things which are demonstrated are an object of science, si
 
 Objection 4: Further, opinion is further from science than faith is, since faith is said to stand between opinion and science. Now opinion and science can, in a way, be about the same object, as stated in Poster. i. Therefore faith and science can be about the same object also.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. xxvi in Evang.) that "when a thing is manifest, it is the object, not of faith, but of perception." Therefore things that are of faith are not the object of perception, whereas what is an object of science is the object of perception. Therefore there can be no faith about things which are an object of science.
 
@@ -139,7 +139,7 @@ Now as stated above [2265](A[4]), it is impossible that one and the same thing s
 
 Nevertheless that which is proposed to be believed equally by all, is equally unknown by all as an object of science: such are the things which are of faith simply. Consequently faith and science are not about the same things.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Unbelievers are in ignorance of things that are of faith, for neither do they see or know them in themselves, nor do they know them to be credible. The faithful, on the other hand, know them, not as by demonstration, but by the light of faith which makes them see that they ought to believe them, as stated above (A[4], ad 2,3).
 
@@ -148,9 +148,9 @@ Reply to Objection 2: The reasons employed by holy men to prove things that are 
 Reply to Objection 3: Things which can be proved by demonstration are reckoned among the articles of faith, not because they are believed simply by all, but because they are a necessary presupposition to matters of faith, so that those who do not known them by demonstration must know them first of all by faith.
 
 Reply to Objection 4: As the Philosopher says (Poster. i), "science and opinion about the same object can certainly be in different men," as we have stated above about science and faith; yet it is possible for one and the same man to have science and faith about the same thing relatively, i.e. in relation to the object, but not in the same respect. For it is possible for the same person, about one and the same object, to know one thing and to think another: and, in like manner, one may know by demonstration the unity of the Godhead, and, by faith, the Trinity. On the other hand, in one and the same man, about the same object, and in the same respect, science is incompatible with either opinion or faith, yet for different reasons. Because science is incompatible with opinion about the same object simply, for the reason that science demands that its object should be deemed impossible to be otherwise, whereas it is essential to opinion, that its object should be deemed possible to be otherwise. Yet that which is the object of faith, on account of the certainty of faith, is also deemed impossible to be otherwise; and the reason why science and faith cannot be about the same object and in the same respect is because the object of science is something seen whereas the object of faith is the unseen, as stated above.
-## Whether Those Things That Are Of Faith Should Be Divided Into Certain Articles?
+### Whether Those Things That Are Of Faith Should Be Divided Into Certain Articles?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that those things that are of faith should not be divided into certain articles. For all things contained in Holy Writ are matters of faith. But these, by reason of their multitude, cannot be reduced to a certain number. Therefore it seems superfluous to distinguish certain articles of faith.
 
@@ -158,7 +158,7 @@ Objection 2: Further, material differences can be multiplied indefinitely, and t
 
 Objection 3: Further, it has been said by some [*Cf. William of Auxerre, Summa Aurea] that "an article is an indivisible truth concerning God, exacting [arctans] our belief." Now belief is a voluntary act, since, as Augustine says (Tract. xxvi in Joan.), "no man believes against his will." Therefore it seems that matters of faith should not be divided into articles.
 
-### Answer
+**Answer**
 
 On the contrary, Isidore says: "An article is a glimpse of Divine truth, tending thereto." Now we can only get a glimpse of Divine truth by way of analysis, since things which in God are one, are manifold in our intellect. Therefore matters of faith should be divided into articles.
 
@@ -166,16 +166,16 @@ I answer that, the word "article" is apparently derived from the Greek; for the 
 
 Hence matters of Christian faith are said to contain distinct articles, in so far as they are divided into parts, and fit together. Now the object of faith is something unseen in connection with God, as stated above [2268](A[4]). Consequently any matter that, for a special reason, is unseen, is a special article; whereas when several matters are known or not known, under the same aspect, we are not to distinguish various articles. Thus one encounters one difficulty in seeing that God suffered, and another in seeing that He rose again from the dead, wherefore the article of the Resurrection is distinct from the article of the Passion. But that He suffered, died and was buried, present the same difficulty, so that if one be accepted, it is not difficult to accept the others; wherefore all these belong to one article.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Some things are proposed to our belief are in themselves of faith, while others are of faith, not in themselves but only in relation to others: even as in sciences certain propositions are put forward on their own account, while others are put forward in order to manifest others. Now, since the chief object of faith consists in those things which we hope to see, according to Heb. 11:2: "Faith is the substance of things to be hoped for," it follows that those things are in themselves of faith, which order us directly to eternal life. Such are the Trinity of Persons in Almighty God [*The Leonine Edition reads: The Three Persons, the omnipotence of God, etc.], the mystery of Christ's Incarnation, and the like: and these are distinct articles of faith. On the other hand certain things in Holy Writ are proposed to our belief, not chiefly on their own account, but for the manifestation of those mentioned above: for instance, that Abraham had two sons, that a dead man rose again at the touch of Eliseus' bones, and the like, which are related in Holy Writ for the purpose of manifesting the Divine mystery or the Incarnation of Christ: and such things should not form distinct articles.
 
 Reply to Objection 2: The formal aspect of the object of faith can be taken in two ways: first, on the part of the thing believed, and thus there is one formal aspect of all matters of faith, viz. the First Truth: and from this point of view there is no distinction of articles. Secondly, the formal aspect of matters of faith, can be considered from our point of view; and thus the formal aspect of a matter of faith is that it is something unseen; and from this point of view there are various distinct articles of faith, as we saw above.
 
 Reply to Objection 3: This definition of an article is taken from an etymology of the word as derived from the Latin, rather than in accordance with its real meaning, as derived from the Greek: hence it does not carry much weight. Yet even then it could be said that although faith is exacted of no man by a necessity of coercion, since belief is a voluntary act, yet it is exacted of him by a necessity of end, since "he that cometh to God must believe that He is," and "without faith it is impossible to please God," as the Apostle declares (Heb. 11:6).
-## Whether The Articles Of Faith Have Increased In Course Of Time?
+### Whether The Articles Of Faith Have Increased In Course Of Time?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the articles of faith have not increased in course of time. Because, as the Apostle says (Heb. 11:1), "faith is the substance of things to be hoped for." Now the same things are to be hoped for at all times. Therefore, at all times, the same things are to be believed.
 
@@ -185,7 +185,7 @@ Objection 3: Further, the operation of grace proceeds in orderly fashion no less
 
 Objection 4: Further, just as the faith of Christ was delivered to us through the apostles, so too, in the Old Testament, the knowledge of faith was delivered by the early fathers to those who came later, according to Dt. 32:7: "Ask thy father, and he will declare to thee." Now the apostles were most fully instructed about the mysteries, for "they received them more fully than others, even as they received them earlier," as a gloss says on Rom. 8:23: "Ourselves also who have the first fruits of the Spirit." Therefore it seems that knowledge of matters of faith has not increased as time went on.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. xvi in Ezech.) that "the knowledge of the holy fathers increased as time went on . . . and the nearer they were to Our Savior's coming, the more fully did they received the mysteries of salvation."
 
@@ -193,7 +193,7 @@ I answer that, The articles of faith stand in the same relation to the doctrine 
 
 Accordingly we must conclude that, as regards the substance of the articles of faith, they have not received any increase as time went on: since whatever those who lived later have believed, was contained, albeit implicitly, in the faith of those Fathers who preceded them. But there was an increase in the number of articles believed explicitly, since to those who lived in later times some were known explicitly which were not known explicitly by those who lived before them. Hence the Lord said to Moses (Ex. 6:2,3): "I am the God of Abraham, the God of Isaac, the God of Jacob [*Vulg.: 'I am the Lord that appeared to Abraham, to Isaac, and to Jacob'] . . . and My name Adonai I did not show them": David also said (Ps. 118:100): "I have had understanding above ancients": and the Apostle says (Eph. 3:5) that the mystery of Christ, "in other generations was not known, as it is now revealed to His holy apostles and prophets."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Among men the same things were always to be hoped for from Christ. But as they did not acquire this hope save through Christ, the further they were removed from Christ in point of time, the further they were from obtaining what they hoped for. Hence the Apostle says (Heb. 11:13): "All these died according to faith, not having received the promises, but beholding them afar off." Now the further off a thing is the less distinctly is it seen; wherefore those who were nigh to Christ's advent had a more distinct knowledge of the good things to be hoped for.
 
@@ -202,9 +202,9 @@ Reply to Objection 2: Progress in knowledge occurs in two ways. First, on the pa
 Reply to Objection 3: Two causes are requisite before actual generation can take place, an agent, namely, and matter. In the order of the active cause, the more perfect is naturally first; and in this way nature makes a beginning with perfect things, since the imperfect is not brought to perfection, except by something perfect already in existence. On the other hand, in the order of the material cause, the imperfect comes first, and in this way nature proceeds from the imperfect to the perfect. Now in the manifestation of faith, God is the active cause, having perfect knowledge from all eternity; while man is likened to matter in receiving the influx of God's action. Hence, among men, the knowledge of faith had to proceed from imperfection to perfection; and, although some men have been after the manner of active causes, through being doctors of faith, nevertheless the manifestation of the Spirit is given to such men for the common good, according to 1 Cor. 12:7; so that the knowledge of faith was imparted to the Fathers who were instructors in the faith, so far as was necessary at the time for the instruction of the people, either openly or in figures.
 
 Reply to Objection 4: The ultimate consummation of grace was effected by Christ, wherefore the time of His coming is called the "time of fulness [*Vulg.: 'fulness of time']" (Gal. 4:4). Hence those who were nearest to Christ, wherefore before, like John the Baptist, or after, like the apostles, had a fuller knowledge of the mysteries of faith; for even with regard to man's state we find that the perfection of manhood comes in youth, and that a man's state is all the more perfect, whether before or after, the nearer it is to the time of his youth.
-## Whether The Articles Of Faith Are Suitably Formulated?
+### Whether The Articles Of Faith Are Suitably Formulated?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the articles of faith are unsuitably formulated. For those things, which can be known by demonstration, do not belong to faith as to an object of belief for all, as stated above (A[5] ). Now it can be known by demonstration that there is one God; hence the Philosopher proves this (Metaph. xii, text. 52) and many other philosophers demonstrated the same truth. Therefore that "there is one God" should not be set down as an article of faith.
 
@@ -218,7 +218,7 @@ Objection 5: Further, just as certain things are said by appropriation, of the P
 
 Objection 6: Further, the sacrament of the Eucharist presents a special difficulty over and above the other articles. Therefore it should have been mentioned in a special article: and consequently it seems that there is not a sufficient number of articles.
 
-### Answer
+**Answer**
 
 
 
@@ -230,7 +230,7 @@ In like manner, with regard to Christ's human nature, there are seven articles, 
 
 Some, however, distinguish twelve articles, six pertaining to the Godhead, and six to the humanity. For they include in one article the three about the three Persons; because we have one knowledge of the three Persons: while they divide the article referring to the work of glorification into two, viz. the resurrection of the body, and the glory of the soul. Likewise they unite the conception and nativity into one article.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: By faith we hold many truths about God, which the philosophers were unable to discover by natural reason, for instance His providence and omnipotence, and that He alone is to be worshiped, all of which are contained in the one article of the unity of God.
 
@@ -243,9 +243,9 @@ Reply to Objection 4: It belongs to the Son and Holy Ghost to be sent to sanctif
 Reply to Objection 5: The sanctification of a creature by grace, and its consummation by glory, is also effected by the gift of charity, which is appropriated to the Holy Ghost, and by the gift of wisdom, which is appropriated to the Son: so that each work belongs by appropriation, but under different aspects, both to the Son and to the Holy Ghost.
 
 Reply to Objection 6: Two things may be considered in the sacrament of the Eucharist. One is the fact that it is a sacrament, and in this respect it is like the other effects of sanctifying grace. The other is that Christ's body is miraculously contained therein and thus it is included under God's omnipotence, like all other miracles which are ascribed to God's almighty power.
-## Whether It Is Suitable For The Articles Of Faith To Be Embodied In A Symbol?
+### Whether It Is Suitable For The Articles Of Faith To Be Embodied In A Symbol?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is unsuitable for the articles of faith to be embodied in a symbol. Because Holy Writ is the rule of faith, to which no addition or subtraction can lawfully be made, since it is written (Dt. 4:2): "You shall not add to the word that I speak to you, neither shall you take away from it." Therefore it was unlawful to make a symbol as a rule of faith, after the Holy Writ had once been published.
 
@@ -259,13 +259,13 @@ Objection 5: Further, Augustine (Tract. xxix in Joan.) expounding the passage, "
 
 Objection 6: Further, a symbol is drawn up that it may be a rule of faith. Now a rule of faith ought to be proposed to all, and that publicly. Therefore every symbol, besides the symbol of the Fathers, should be sung at Mass. Therefore it seems unfitting to publish the articles of faith in a symbol.
 
-### Answer
+**Answer**
 
 On the contrary, The universal Church cannot err, since she is governed by the Holy Ghost, Who is the Spirit of truth: for such was Our Lord's promise to His disciples (Jn. 16:13): "When He, the Spirit of truth, is come, He will teach you all truth." Now the symbol is published by the authority of the universal Church. Therefore it contains nothing defective.
 
 I answer that, As the Apostle says (Heb. 11:6), "he that cometh to God, must believe that He is." Now a man cannot believe, unless the truth be proposed to him that he may believe it. Hence the need for the truth of faith to be collected together, so that it might the more easily be proposed to all, lest anyone might stray from the truth through ignorance of the faith. It is from its being a collection of maxims of faith that the symbol [*The Greek {symballein}] takes its name.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The truth of faith is contained in Holy Writ, diffusely, under various modes of expression, and sometimes obscurely, so that, in order to gather the truth of faith from Holy Writ, one needs long study and practice, which are unattainable by all those who require to know the truth of faith, many of whom have no time for study, being busy with other affairs. And so it was necessary to gather together a clear summary from the sayings of Holy Writ, to be proposed to the belief of all. This indeed was no addition to Holy Writ, but something taken from it.
 
@@ -278,9 +278,9 @@ Reply to Objection 4: No error about the descent into hell had arisen among here
 Reply to Objection 5: If we say: "'In' the holy Catholic Church," this must be taken as verified in so far as our faith is directed to the Holy Ghost, Who sanctifies the Church; so that the sense is: "I believe in the Holy Ghost sanctifying the Church." But it is better and more in keeping with the common use, to omit the 'in,' and say simply, "the holy Catholic Church," as Pope Leo [*Rufinus, Comm. in Sym. Apost.] observes.
 
 Reply to Objection 6: Since the symbol of the Fathers is an explanation of the symbol of the Apostles, and was drawn up after the faith was already spread abroad, and when the Church was already at peace, it is sung publicly in the Mass. On the other hand the symbol of the Apostles, which was drawn up at the time of persecution, before the faith was made public, is said secretly at Prime and Compline, as though it were against the darkness of past and future errors.
-## Whether It Belongs To The Sovereign Pontiff To Draw Up A Symbol Of Faith?
+### Whether It Belongs To The Sovereign Pontiff To Draw Up A Symbol Of Faith?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it does not belong to the Sovereign Pontiff to draw up a symbol of faith. For a new edition of the symbol becomes necessary in order to explain the articles of faith, as stated above [2273](A[9]). Now, in the Old Testament, the articles of faith were more and more explained as time went on, by reason of the truth of faith becoming clearer through greater nearness to Christ, as stated above [2274](A[7]). Since then this reason ceased with the advent of the New Law, there is no need for the articles of faith to be more and more explicit. Therefore it does not seem to belong to the authority of the Sovereign Pontiff to draw up a new edition of the symbol.
 
@@ -288,13 +288,13 @@ Objection 2: Further, no man has the power to do what is forbidden under pain of
 
 Objection 3: Further, Athanasius was not the Sovereign Pontiff, but patriarch of Alexandria, and yet he published a symbol which is sung in the Church. Therefore it does not seem to belong to the Sovereign Pontiff any more than to other bishops, to publish a new edition of the symbol.
 
-### Answer
+**Answer**
 
 On the contrary, The symbol was drawn us by a general council. Now such a council cannot be convoked otherwise than by the authority of the Sovereign Pontiff, as stated in the Decretals [*Dist. xvii, Can. 4,5]. Therefore it belongs to the authority of the Sovereign Pontiff to draw up a symbol.
 
 I answer that, As stated above (OBJ 1), a new edition of the symbol becomes necessary in order to set aside the errors that may arise. Consequently to publish a new edition of the symbol belongs to that authority which is empowered to decide matters of faith finally, so that they may be held by all with unshaken faith. Now this belongs to the authority of the Sovereign Pontiff, "to whom the more important and more difficult questions that arise in the Church are referred," as stated in the Decretals [*Dist. xvii, Can. 5]. Hence our Lord said to Peter whom he made Sovereign Pontiff (Lk. 22:32): "I have prayed for thee," Peter, "that thy faith fail not, and thou, being once converted, confirm thy brethren." The reason of this is that there should be but one faith of the whole Church, according to 1 Cor. 1:10: "That you all speak the same thing, and that there be no schisms among you": and this could not be secured unless any question of faith that may arise be decided by him who presides over the whole Church, so that the whole Church may hold firmly to his decision. Consequently it belongs to the sole authority of the Sovereign Pontiff to publish a new edition of the symbol, as do all other matters which concern the whole Church, such as to convoke a general council and so forth.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The truth of faith is sufficiently explicit in the teaching of Christ and the apostles. But since, according to 2 Pet. 3:16, some men are so evil-minded as to pervert the apostolic teaching and other doctrines and Scriptures to their own destruction, it was necessary as time went on to express the faith more explicitly against the errors which arose.
 

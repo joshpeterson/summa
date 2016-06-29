@@ -7,9 +7,9 @@ We must now consider the gift of wisdom which corresponds to charity; and firstl
 (4) Whether the wisdom that is a gift is compatible with mortal sin?
 (5) Whether it is in all those who have sanctifying grace?
 (6) Which beatitude corresponds to it?
-## Whether Wisdom Should Be Reckoned Among The Gifts Of The Holy Ghost?
+### Whether Wisdom Should Be Reckoned Among The Gifts Of The Holy Ghost?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that wisdom ought not to be reckoned among the gifts of the Holy Ghost. For the gifts are more perfect than the virtues, as stated above ([2705]FS, Q[68], A[8]). Now virtue is directed to the good alone, wherefore Augustine says (De Lib. Arb. ii, 19) that "no man makes bad use of the virtues." Much more therefore are the gifts of the Holy Ghost directed to the good alone. But wisdom is directed to evil also, for it is written (James 3:15) that a certain wisdom is "earthly, sensual, devilish." Therefore wisdom should not be reckoned among the gifts of the Holy Ghost.
 
@@ -17,7 +17,7 @@ Objection 2: Further, according to Augustine (De Trin. xii, 14) "wisdom is the k
 
 Objection 3: Further, it is written (Job 28:28): "Behold the fear of the Lord, that is wisdom, and to depart from evil, that is understanding." And in this passage according to the rendering of the Septuagint which Augustine follows (De Trin. xii, 14; xiv, 1) we read: "Behold piety, that is wisdom." Now both fear and piety are gifts of the Holy Ghost. Therefore wisdom should not be reckoned among the gifts of the Holy Ghost, as though it were distinct from the others.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 11:2): "The Spirit of the Lord shall rest upon Him; the spirit of wisdom and of understanding."
 
@@ -25,16 +25,16 @@ I answer that, According to the Philosopher (Metaph. i: 2), it belongs to wisdom
 
 Now man obtains this judgment through the Holy Ghost, according to 1 Cor. 2:15: "The spiritual man judgeth all things," because as stated in the same chapter (1 Cor. 2:10), "the Spirit searcheth all things, yea the deep things of God." Wherefore it is evident that wisdom is a gift of the Holy Ghost.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A thing is said to be good in two senses: first in the sense that it is truly good and simply perfect, secondly, by a kind of likeness, being perfect in wickedness; thus we speak of a good or a perfect thief, as the Philosopher observes (Metaph. v, text. 21). And just as with regard to those things which are truly good, we find a highest cause, namely the sovereign good which is the last end, by knowing which, man is said to be truly wise, so too in evil things something is to be found to which all others are to be referred as to a last end, by knowing which, man is said to be wise unto evil doing, according to Jer. 4:22: "They are wise to do evils, but to do good they have no knowledge." Now whoever turns away from his due end, must needs fix on some undue end, since every agent acts for an end. Wherefore, if he fixes his end in external earthly things, his "wisdom" is called "earthly," if in the goods of the body, it is called "sensual wisdom," if in some excellence, it is called "devilish wisdom" because it imitates the devil's pride, of which it is written (Job 41:25): "He is king over all the children of pride."
 
 Reply to Objection 2: The wisdom which is called a gift of the Holy Ghost, differs from that which is an acquired intellectual virtue, for the latter is attained by human effort, whereas the latter is "descending from above" (James 3:15). In like manner it differs from faith, since faith assents to the Divine truth in itself, whereas it belongs to the gift of wisdom to judge according to the Divine truth. Hence the gift of wisdom presupposes faith, because "a man judges well what he knows" (Ethic. i, 3).
 
 Reply to Objection 3: Just as piety which pertains to the worship of God is a manifestation of faith, in so far as we make profession of faith by worshipping God, so too, piety manifests wisdom. For this reason piety is stated to be wisdom, and so is fear, for the same reason, because if a man fear and worship God, this shows that he has a right judgment about Divine things.
-## Whether Wisdom Is In The Intellect As Its Subject?
+### Whether Wisdom Is In The Intellect As Its Subject?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that wisdom is not in the intellect as its subject. For Augustine says (Ep. cxx) that "wisdom is the charity of God." Now charity is in the will as its subject, and not in the intellect, as stated above ([2707]Q[24], A[1]). Therefore wisdom is not in the intellect as its subject.
 
@@ -42,7 +42,7 @@ Objection 2: Further, it is written (Ecclus. 6:23): "The wisdom of doctrine is a
 
 Objection 3: Further, the intellective power is sufficiently perfected by the gift of understanding. Now it is superfluous to require two things where one suffices for the purpose. Therefore wisdom is not in the intellect.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. ii, 49) that "wisdom is contrary to folly." But folly is in the intellect. Therefore wisdom is also.
 
@@ -52,14 +52,14 @@ Accordingly it belongs to the wisdom that is an intellectual virtue to pronounce
 
 Now this sympathy or connaturality for Divine things is the result of charity, which unites us to God, according to 1 Cor. 6:17: "He who is joined to the Lord, is one spirit." Consequently wisdom which is a gift, has its cause in the will, which cause is charity, but it has its essence in the intellect, whose act is to judge aright, as stated above ([2709]FS, Q[14], A[1]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is speaking of wisdom as to its cause, whence also wisdom [sapientia] takes its name, in so far as it denotes a certain sweetness [saporem]. Hence the Reply to the Second Objection is evident, that is if this be the true meaning of the text quoted. For, apparently this is not the case, because such an exposition of the text would only fit the Latin word for wisdom, whereas it does not apply to the Greek and perhaps not in other languages. Hence it would seem that in the text quoted wisdom stands for the renown of doctrine, for which it is praised by all.
 
 Reply to Objection 3: The intellect exercises a twofold act, perception and judgment. The gift of understanding regards the former; the gift of wisdom regards the latter according to the Divine ideas, the gift of knowledge, according to human ideas.
-## Whether Wisdom Is Merely Speculative, Or Practical Also?
+### Whether Wisdom Is Merely Speculative, Or Practical Also?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that wisdom is not practical but merely speculative. For the gift of wisdom is more excellent than the wisdom which is an intellectual virtue. But wisdom, as an intellectual virtue, is merely speculative. Much more therefore is wisdom, as a gift, speculative and not practical.
 
@@ -67,7 +67,7 @@ Objection 2: Further, the practical intellect is about matters of operation whic
 
 Objection 3: Further, Gregory says (Moral. vi, 37) that "in contemplation we seek the Beginning which is God, but in action we labor under a mighty bundle of wants." Now wisdom regards the vision of Divine things, in which there is no toiling under a load, since according to Wis. 8:16, "her conversation hath no bitterness, nor her company any tediousness." Therefore wisdom is merely contemplative, and not practical or active.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Col. 4:5): "Walk with wisdom towards them that are without." Now this pertains to action. Therefore wisdom is not merely speculative, but also practical.
 
@@ -75,16 +75,16 @@ I answer that, As Augustine says (De Trin. xii, 14), the higher part of the reas
 
 Accordingly wisdom as a gift, is not merely speculative but also practical.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The higher a virtue is, the greater the number of things to which it extends, as stated in De Causis, prop. x, xvii. Wherefore from the very fact that wisdom as a gift is more excellent than wisdom as an intellectual virtue, since it attains to God more intimately by a kind of union of the soul with Him, it is able to direct us not only in contemplation but also in action.
 
 Reply to Objection 2: Divine things are indeed necessary and eternal in themselves, yet they are the rules of the contingent things which are the subject-matter of human actions.
 
 Reply to Objection 3: A thing is considered in itself before being compared with something else. Wherefore to wisdom belongs first of all contemplation which is the vision of the Beginning, and afterwards the direction of human acts according to the Divine rules. Nor from the direction of wisdom does there result any bitterness or toil in human acts; on the contrary the result of wisdom is to make the bitter sweet, and labor a rest.
-## Whether Wisdom Can Be Without Grace, And With Mortal Sin?
+### Whether Wisdom Can Be Without Grace, And With Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that wisdom can be without grace and with mortal sin. For saints glory chiefly in such things as are incompatible with mortal sin, according to 2 Cor. 1:12: "Our glory is this, the testimony of our conscience." Now one ought not to glory in one's wisdom, according to Jer. 9:23: "Let not the wise man glory in his wisdom." Therefore wisdom can be without grace and with mortal sin.
 
@@ -92,22 +92,22 @@ Objection 2: Further, wisdom denotes knowledge of Divine things, as stated above
 
 Objection 3: Further, Augustine says (De Trin. xv, 18) while speaking of charity: "Nothing surpasses this gift of God, it is this alone that divides the children of the eternal kingdom from the children of eternal perdition." But wisdom is distinct from charity. Therefore it does not divide the children of the kingdom from the children of perdition. Therefore it is compatible with mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Wis. 1:4): "Wisdom will not enter into a malicious soul, nor dwell in a body subject to sins."
 
 I answer that, The wisdom which is a gift of the Holy Ghost, as stated above [2713](A[1]), enables us to judge aright of Divine things, or of other things according to Divine rules, by reason of a certain connaturalness or union with Divine things, which is the effect of charity, as stated above [2714](A[2]; Q[23], A[5]). Hence the wisdom of which we are speaking presupposes charity. Now charity is incompatible with mortal sin, as shown above (Q[24], A[12]). Therefore it follows that the wisdom of which we are speaking cannot be together with mortal sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These words are to be understood as referring to worldly wisdom, or to wisdom in Divine things acquired through human reasons. In such wisdom the saints do not glory, according to Prov. 30:2: "The wisdom of men is not with Me": But they do glory in Divine wisdom according to 1 Cor. 1:30: "(Who) of God is made unto us wisdom."
 
 Reply to Objection 2: This argument considers, not the wisdom of which we speak but that which is acquired by the study and research of reason, and is compatible with mortal sin.
 
 Reply to Objection 3: Although wisdom is distinct from charity, it presupposes it, and for that very reason divides the children of perdition from the children of the kingdom.
-## Whether Wisdom Is In All Who Have Grace?
+### Whether Wisdom Is In All Who Have Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that wisdom is not in all who have grace. For it is more to have wisdom than to hear wisdom. Now it is only for the perfect to hear wisdom, according to 1 Cor. 2:6: "We speak wisdom among the perfect." Since then not all who have grace are perfect, it seems that much less all who have grace have wisdom.
 
@@ -115,7 +115,7 @@ Objection 2: Further, "The wise man sets things in order," as the Philosopher st
 
 Objection 3: Further, "Wisdom is a remedy against folly," as Gregory says (Moral. ii, 49). Now many that have grace are naturally foolish, for instance madmen who are baptized or those who without being guilty of mortal sin have become insane. Therefore wisdom is not in all that have grace.
 
-### Answer
+**Answer**
 
 On the contrary, Whoever is without mortal sin, is beloved of God; since he has charity, whereby he loves God, and God loves them that love Him (Prov. 8:17). Now it is written (Wis. 7:28) that "God loveth none but him that dwelleth with wisdom." Therefore wisdom is in all those who have charity and are without mortal sin.
 
@@ -123,16 +123,16 @@ I answer that, The wisdom of which we are speaking, as stated above [2715](A[4])
 
 Some, however, receive a higher degree of the gift of wisdom, both as to the contemplation of Divine things (by both knowing more exalted mysteries and being able to impart this knowledge to others) and as to the direction of human affairs according to Divine rules (by being able to direct not only themselves but also others according to those rules). This degree of wisdom is not common to all that have sanctifying grace, but belongs rather to the gratuitous graces, which the Holy Ghost dispenses as He will, according to 1 Cor. 12:8: "To one indeed by the Spirit is given the word of wisdom," etc.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle speaks there of wisdom, as extending to the hidden mysteries of Divine things, as indeed he says himself (2 Cor. 1:7): "We speak the wisdom of God in a mystery, a wisdom which is hidden."
 
 Reply to Objection 2: Although it belongs to those alone who are in authority to direct and judge other men, yet every man is competent to direct and judge his own actions, as Dionysius declares (Ep. ad Demophil.).
 
 Reply to Objection 3: Baptized idiots, like little children, have the habit of wisdom, which is a gift of the Holy Ghost, but they have not the act, on account of the bodily impediment which hinders the use of reason in them.
-## Whether The Seventh Beatitude Corresponds To The Gift Of Wisdom?
+### Whether The Seventh Beatitude Corresponds To The Gift Of Wisdom?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the seventh beatitude does not correspond to the gift of wisdom. For the seventh beatitude is: "Blessed are the peacemakers, for they shall be called the children of God." Now both these things belong to charity: since of peace it is written (Ps. 118:165): "Much peace have they that love Thy law," and, as the Apostle says (Rom. 5:5), "the charity of God is poured forth in our hearts by the Holy Ghost Who is given to us," and Who is "the Spirit of adoption of sons, whereby we cry: Abba [Father]" (Rom. 8:15). Therefore the seventh beatitude ought to be ascribed to charity rather than to wisdom.
 
@@ -140,13 +140,13 @@ Objection 2: Further, a thing is declared by its proximate effect rather than by
 
 Objection 3: Further, it is written (James 3:17): "The wisdom, that is from above, first indeed is chaste, then peaceable, modest, easy to be persuaded, consenting to the good, full of mercy and good fruits, judging without dissimulation [*Vulg.: 'without judging, without dissimulation']." Therefore the beatitude corresponding to wisdom should not refer to peace rather than to the other effects of heavenly wisdom.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Serm. Dom. in Monte i, 4) that "wisdom is becoming to peacemakers, in whom there is no movement of rebellion, but only obedience to reason."
 
 I answer that, The seventh beatitude is fittingly ascribed to the gift of wisdom, both as to the merit and as to the reward. The merit is denoted in the words, "Blessed are the peacemakers." Now a peacemaker is one who makes peace, either in himself, or in others: and in both cases this is the result of setting in due order those things in which peace is established, for "peace is the tranquillity of order," according to Augustine (De Civ. Dei xix, 13). Now it belongs to wisdom to set things in order, as the Philosopher declares (Metaph. i, 2), wherefore peaceableness is fittingly ascribed to wisdom. The reward is expressed in the words, "they shall be called the children of God." Now men are called the children of God in so far as they participate in the likeness of the only-begotten and natural Son of God, according to Rom. 8:29, "Whom He foreknew . . . to be made conformable to the image of His Son," Who is Wisdom Begotten. Hence by participating in the gift of wisdom, man attains to the sonship of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It belongs to charity to be at peace, but it belongs to wisdom to make peace by setting things in order. Likewise the Holy Ghost is called the "Spirit of adoption" in so far as we receive from Him the likeness of the natural Son, Who is the Begotten Wisdom.
 

@@ -8,9 +8,9 @@ We must now consider the bill of divorce, under which head there are seven point
 (5) Whether the husband can marry again the wife whom he has divorced?
 (6) Whether the cause of divorce was hatred of the wife?
 (7) Whether the reasons for divorce had to be written on the bill?
-## Whether Inseparableness Of The Wife Is Of Natural Law?
+### Whether Inseparableness Of The Wife Is Of Natural Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that inseparableness of the wife is not of natural law. For the natural law is the same for all. But no law save Christ's has forbidden the divorcing of a wife. Therefore inseparableness of a wife is not of natural law.
 
@@ -20,22 +20,22 @@ Objection 3: Further, the union of man and woman in marriage is chiefly directed
 
 Objection 4: Further, the good of the offspring is the principal end of marriage. But the indissolubility of marriage is opposed to the good of the offspring, because, according to philosophers, a certain man cannot beget offspring of a certain woman, and yet he might beget of another, even though she may have had intercourse with another man. Therefore the indissolubility of marriage is against rather than according to the natural law.
 
-### Answer
+**Answer**
 
 On the contrary, Those things which were assigned to nature when it was well established in its beginning belong especially to the law of nature. Now the indissolubility of marriage is one of these things according to Mat. 19:4,6. Therefore it is of natural law.
 
 I answer that, By the intention of nature marriage is directed to the rearing of the offspring, not merely for a time, but throughout its whole life. Hence it is of natural law that parents should lay up for their children, and that children should be their parents' heirs (2 Cor. 12:14). Therefore, since the offspring is the common good of husband and wife, the dictate of the natural law requires the latter to live together for ever inseparably: and so the indissolubility of marriage is of natural law.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ's law alone brought mankind "to perfection" [*Cf. Heb. 7:19] by bringing man back to the state of the newness of nature. Wherefore neither Mosaic nor human laws could remove all that was contrary to the law of nature, for this was reserved exclusively to "the law of the spirit of life" [*Cf. Rom. 8:2].
 
 Reply to Objection 2: Indissolubility belongs to marriage in so far as the latter is a sign of the perpetual union of Christ with the Church, and in so far as it fulfills an office of nature that is directed to the good of the offspring, as stated above. But since divorce is more directly incompatible with the signification of the sacrament than with the good of the offspring, with which it is incompatible consequently, as stated above ([5019]Q[65], A[2], ad 5), the indissolubility of marriage is implied in the good of the sacrament rather than in the good of the offspring, although it may be connected with both. And in so far as it is connected with the good of the offspring, it is of the natural law, but not as connected with the good of the sacrament.
 
 Reply to Objection 4: Marriage is chiefly directed to the common good in respect of its principal end, which is the good of the offspring; although in respect of its secondary end it is directed to the good of the contracting party, in so far as it is by its very nature a remedy for concupiscence. Hence marriage laws consider what is expedient for all rather than what may be suitable for one. Therefore although the indissolubility of marriage hinder the good of the offspring with regard to some individual, it is proportionate with the good of the offspring absolutely speaking: and for this reason the argument does not prove.
-## Whether It May Have Been Lawful By Dispensation To Put Away A Wife?
+### Whether It May Have Been Lawful By Dispensation To Put Away A Wife?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that it could not be lawful by dispensation to put away a wife. For in marriage anything that is opposed to the good of the offspring is against the first precepts of the natural law, which admit of no dispensation. Now such is the putting away of a wife, as stated above [5020](A[1]). Therefore, etc.
 
@@ -43,22 +43,22 @@ Objection 2: Further, a concubine differs from a wife especially in the fact tha
 
 Objection 3: Further, men are as fit to receive a dispensation now as of old. But now a man cannot receive a dispensation to divorce his wife. Neither, therefore, could he in olden times.
 
-### Answer
+**Answer**
 
 On the contrary, Abraham carnally knew Agar with the disposition of a husband towards his wife, as stated above ([5021]Q[65], A[5], ad 2,3). Now by Divine command he sent her away, and yet sinned not. Therefore it could be lawful by dispensation for a man to put away his wife.
 
 I answer that, In the commandments, especially those which in some way are of natural law, a dispensation is like a change in the natural course of things: and this course is subject to a twofold change. First, by some natural cause whereby another natural cause is hindered from following its course: it is thus in all things that happen by chance less frequently in nature. In this way, however, there is no variation in the course of those natural things which happen always, but only in the course of those which happen frequently. Secondly, by a cause altogether supernatural, as in the case of miracles: and in this way there can be a variation in the course of nature, not only in the course which is appointed for the majority of cases, but also in the course which is appointed for all cases, as instanced by the sun standing still at the time of Josue, and by its turning back at the time of Ezechias, and by the miraculous eclipse at the time of Christ's Passion [*Jos. 10:14; 4 Kings 20:10; Is. 38:8; Mat. 27:15]. In like manner the reason for a dispensation from a precept of the law of nature is sometimes found in the lower causes, and in this way a dispensation may bear upon the secondary precepts of the natural law, but not on the first precepts because these are always existent as it were, as stated above ([5022]Q[65], A[1]) in reference to the plurality of wives and so forth. But sometimes this reason is found in the higher causes, and then a dispensation may be given by God even from the first precepts of the natural law, for the sake of signifying or showing some Divine mystery, as instanced in the dispensation vouchsafed to Abraham in the slaying of his innocent son. Such dispensations, however, are not granted to all generally, but to certain individual persons, as also happens in regard to miracles. Accordingly, if the indissolubility of marriage is contained among the first precepts of the natural law, it could only be a matter of dispensation in this second way; but, if it be one of the second precepts of the natural law, it could be a matter of dispensation even in the first way. Now it would seem to belong rather to the secondary precepts of the natural law. For the indissolubility of marriage is not directed to the good of the offspring, which is the principal end of marriage, except in so far as parents have to provide for their children for their whole life, by due preparation of those things that are necessary in life. Now this preparation does not pertain to the first intention of nature, in respect of which all things are common. And therefore it would seem that to put away one's wife is not contrary to the first intention of nature, and consequently that it is contrary not to the first but to the second precepts of the natural law. Therefore, seemingly, it can be a matter of dispensation even in the first way.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The good of the offspring, in so far as it belongs to the first intention of nature, includes procreation, nourishment, and instruction, until the offspring comes to perfect age. But that provision be made for the children by bequeathing to them the inheritance or other goods belongs seemingly to the second intention of the natural law.
 
 Reply to Objection 2: To have a concubine is contrary to the good of the offspring, in respect of nature's first intention in that good, namely the rearing and instruction of the child, for which purpose it is necessary that the parents remain together permanently; which is not the case with a concubine, since she is taken for a time. Hence the comparison fails. But in respect of nature's second intention, even the having of a concubine may be a matter of dispensation as evidenced by Osee 1.
 
 Reply to Objection 3: Although indissolubility belongs to the second intention of marriage as fulfilling an office of nature, it belongs to its first intention as a sacrament of the Church. Hence, from the moment it was made a sacrament of the Church, as long as it remains such it cannot be a matter of dispensation, except perhaps by the second kind of dispensation.
-## Whether It Was Lawful To Divorce A Wife Under The Mosaic Law?
+### Whether It Was Lawful To Divorce A Wife Under The Mosaic Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was lawful to divorce a wife under the Mosaic law. For one way of giving consent is to refrain from prohibiting when one can prohibit. It is also unlawful to consent to what is unlawful. Since then the Mosaic law did not forbid the putting away of a wife and did no wrong by not forbidding it, for "the law . . . is holy" (Rom. 7:12), it would seem that divorce was at one time lawful.
 
@@ -70,13 +70,13 @@ Objection 4: On the contrary, our Lord said (Mat. 19:8) that Moses granted the J
 
 Objection 5: Further, Chrysostom says [*Hom. xxxii in the Opus Imperfectum falsely ascribed to St. John Chrysostom] that "Moses, by granting the bill of divorce, did not indicate the justice of God, but deprived their sin of its guilt, for while the Jews acted as though they were keeping the law, their sin seemed to be no sin."
 
-### Answer
+**Answer**
 
 
 
 I answer that, on this point there are two opinions. For some say that under the Law those who put away their wives, after giving them a bill of divorce, were not excused from sin, although they were excused from the punishment which they should have suffered according to the Law: and that for this reason Moses is stated to have permitted the bill of divorce. Accordingly they reckon four kinds of permission: one by absence of precept, so that when a greater good is not prescribed, a lesser good is said to be permitted: thus the Apostle by not prescribing virginity, permitted marriage (1 Cor. 7). The second is by absence of prohibition: thus venial sins are said to be permitted because they are not forbidden. The third is by absence of prevention, and thus all sins are said to be permitted by God, in so far as He does not prevent them whereas He can. The fourth is by omission of punishment, and in this way the bill of divorce was permitted in the Law, not indeed for the sake of obtaining a greater good, as was the dispensation to have several wives, but for the sake of preventing a greater evil, namely wife-murder to which the Jews were prone on account of the corruption of their irascible appetite. Even so they were allowed to lend money for usury to strangers, on account of corruption in their concupiscible appetite, lest they should exact usury of their brethren; and again on account of the corruption of suspicion in the reason they were allowed the sacrifice of jealousy, lest mere suspicion should corrupt their judgment. But because the Old Law, though it did not confer grace, was given that it might indicate sin, as the saints are agreed in saying, others are of opinion that if it had been a sin for a man to put away his wife, this ought to have been indicated to him, at least by the law or the prophets: "Show My people their wicked doings" (Is. 58:1): else they would seem to have been neglected, if those things which are necessary for salvation and which they knew not were never made known to them: and this cannot be admitted, because the righteousness of the Law observed at the time of the Law would merit eternal life. For this reason they say that although to put away one's wife is wrong in itself, it nevertheless became lawful by God's permitting it, and they confirm this by the authority of Chrysostom, who says [*Hom. xxxii in the Opus Imperfectum falsely ascribed to St. John Chrysostom] that "the Lawgiver by permitting divorce removed the guilt from the sin." Although this opinion has some probability the former is more generally held: wherefore we must reply to the arguments on both sides [*Cf. [5023]FS, Q[105], A[4], ad 8; [5024]FS, Q[108], A[3], ad 2; Contra Gentes iii, cap. 123].
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He who can forbid, sins not by omitting to forbid if he has no hope of correcting, but fears by forbidding to furnish the occasion of a greater evil. Thus it happened to Moses: wherefore acting on Divine authority he did not forbid the bill of divorce.
 
@@ -87,9 +87,9 @@ Reply to Objection 3: This likeness of permission must not be applied to every d
 Reply to Objection 4: Although their hardness of heart excused them not from sin, the permission given on account of that hardness excused them. For certain things are forbidden those who are healthy in body, which are not forbidden the sick, and yet the sick sin not by availing themselves of the permission granted to them.
 
 Reply to Objection 5: A good may be omitted in two ways. First, in order to obtain a greater good, and then the omission of that good becomes virtuous by being directed to a greater good; thus Jacob rightly omitted to have only one wife, on account of the good of the offspring. In another way a good is omitted in order to avoid a greater evil, and then if this is done with the authority of one who can grant a dispensation, the omission of that good is not sinful, and yet it does not also become virtuous. In this way the indissolubility of marriage was suspended in the law of Moses in order to avoid a greater evil, namely wife-murder. Hence Chrysostom says that "he removed the guilt from the sin." For though divorce remained inordinate, for which reason it is called a sin, it did not incur the debt of punishment, either temporal or eternal, in so far as it was done by Divine permission: and thus its guilt was taken away from it. And therefore he says again [*Hom. xxxii in the Opus Imperfectum falsely ascribed to St. John Chrysostom] that "divorce was permitted, an evil indeed, yet lawful." Those who hold the first opinion understand by this only that divorce incurred the debt of temporal punishment.
-## Whether It Was Lawful For A Divorced Wife To Have Another Husband?
+### Whether It Was Lawful For A Divorced Wife To Have Another Husband?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was lawful for a divorced wife to have another husband. For in divorce the husband did a greater wrong by divorcing his wife than the wife by being divorced. But the husband could, without sin, marry another wife. Therefore the wife could without sin, marry another husband.
 
@@ -101,7 +101,7 @@ Objection 4: On the contrary, are the words of Mat. 5:32, "He that shall marry h
 
 Objection 5: Further, it is written (Dt. 24:3) that a divorced woman who marries another husband "is defiled, and is become abominable before the Lord." Therefore she sinned by marrying another husband.
 
-### Answer
+**Answer**
 
 
 
@@ -109,7 +109,7 @@ I answer that, According to the first above mentioned opinion [5025](A[3]), she 
 
 Accordingly to reply to the arguments on either side:
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It was lawful for a husband to have several wives at one time by virtue of the divine dispensation: wherefore having put one away he could marry another even though the former marriage were not dissolved. But it was never lawful for a wife to have several husbands. Wherefore the comparison fails.
 
@@ -120,9 +120,9 @@ Reply to Objection 3: Our Lord shows the superabundance of the New Law over the 
 Reply to Objection 4: The saying of our Lord refers to the time of the New Law, when the aforesaid permission was recalled. In the same way we are to understand the statement of Chrysostom [*Hom. xii in the Opus Imperfectum falsely ascribed to St. John Chrysostom], who says that "a man who divorces his wife according to the law is guilty of four crimes: for in God's sight he is a murderer," in so far as he has the purpose of killing his wife unless he divorce her; "and because he divorces her without her having committed fornication," in which case alone the law of the Gospel allows a man to put away his wife; "and again, because he makes her an adulteress, and the man whom she marries an adulterer."
 
 Reply to Objection 5: A gloss observes here: "She is defiled and abominable, namely in the judgment of him who first put her away as being defiled," and consequently it does not follow that she is defiled absolutely speaking; or she is said to be defiled just as a person who had touched a dead or leprous body was said to be unclean with the uncleanness, not of sin, but of a certain legal irregularity. Wherefore a priest could not marry a widow or a divorced woman.
-## Whether A Husband Could Lawfully Take Back The Wife He Had Divorced?
+### Whether A Husband Could Lawfully Take Back The Wife He Had Divorced?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a husband could lawfully take back the wife he had divorced. For it is lawful to undo what was ill done. But for the husband to divorce his wife was ill done. Therefore it was lawful for him to undo it, by taking back his wife.
 
@@ -130,22 +130,22 @@ Objection 2: Further, it has always been lawful to be indulgent to the sinner, b
 
 Objection 3: Further, the reason given (Dt. 24:4) for its being unlawful to take back a divorced wife was "because she is defiled." But the divorced wife is not defiled except by marrying another husband. Therefore at least it was lawful to take back a divorced wife before she married again.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Dt. 24:4) that "the former husband cannot take her again," etc.
 
 I answer that, In the law concerning the bill of divorce two things were permitted, namely for the husband to put away the wife, and for the divorced wife to take another husband; and two things were commanded, namely that the bill of divorce should be written, and secondly that the husband who divorced his wife could not take her back. According to those who hold the first opinion [5026](A[3]) this was done in punishment of the woman who married again, and that it was by this sin that she was defiled: but according to the others it was done that a husband might not be too ready to divorce his wife if he could nowise take her back afterwards.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In order to prevent the evil committed by a man in divorcing his wife, it was ordered that the husband could not take back his divorced wife, as stated above: and for this reason it was ordered by God.
 
 Reply to Objection 2: It was always lawful to be indulgent to the sinner as regards the unkindly feelings of the heart, but not as regards the punishment appointed by God.
 
 Reply to Objection 3: There are two opinions on this point. For some say that it was lawful for a divorced wife to be reconciled to her husband, unless she were joined in marriage to another husband. For then, on account of the adultery to which she had voluntarily yielded, it was assigned to her in punishment that she should not return to her former husband. Since, however, the law makes no distinction in its prohibition, others say that from the moment that she was put away she could not be taken back, even before marrying again, because the defilement must be understood not in reference to sin, but as explained above (A[4], ad 3).
-## Whether The Reason For Divorce Was Hatred For The Wife?
+### Whether The Reason For Divorce Was Hatred For The Wife?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the reason for divorce was hatred for the wife. For it is written (Malachi 2:16): "When thou shalt hate her put her away." Therefore, etc.
 
@@ -157,22 +157,22 @@ Objection 4: Further, hatred may be caused by the virtue of the person hated. Th
 
 Objection 5: Further, "If a man marry a wife and afterwards hate her, and seek occasions to put her away"* alleging that she was not a virgin when he married her, should he fail to prove this, he shall be beaten, and shall be condemned in a hundred sicles of silver, and he shall be unable to put her away all the days of his life (Dt. 22:13-19). [*The rest of the passage is apparently quoted from memory.] Therefore hatred is not a sufficient reason for divorce.
 
-### Answer
+**Answer**
 
 
 
 I answer that, It is the general opinion of holy men that the reason for permission being given to divorce a wife was the avoidance of wife-murder. Now the proximate cause of murder is hatred: wherefore the proximate cause of divorce was hatred. But hatred proceeds, like love, from a cause. Wherefore we must assign to divorce certain remote causes which were a cause of hatred. For Augustine says in his gloss (De Serm. Dom. in Monte i, 14): "In the Law there were many causes for divorcing a wife: Christ admitted none but fornication: and He commands other grievances to be borne for conjugal fidelity and chastity." Such causes are imperfections either of body, as sickness or some notable deformity, or in soul as fornication or the like which amounts to moral depravity. Some, however, restrict these causes within narrower limits, saying with sufficient probability that it was not lawful to divorce a wife except for some cause subsequent to the marriage; and that not even then could it be done for any such cause, but only for such as could hinder the good of the offspring, whether in body as barrenness, or leprosy and the like, or in soul, for instance if she were a woman of wicked habits which her children through continual contact with her would imitate. There is however a gloss on Dt. 24:1, "If . . . she find not favor in his eyes," which would seem to restrict them yet more, namely to sin, by saying that there "uncleanness" denotes sin: but "sin" in the gloss refers not only to the morality of the soul but also to the condition of the body. Accordingly we grant the first two objections.
 
-### Replies
+**Replies**
 
 Reply to Objection 3: Barrenness and other like things are causes of hatred, and so they are remote causes of divorce.
 
 Reply to Objection 4: No one is hateful on account of virtue as such, because goodness is the cause of love. Wherefore the argument does not hold.
 
 Reply to Objection 5: The husband was punished in that case by being unable to put away his wife for ever, just as in the case when he had corrupted a maid (Dt. 22:28-30).
-## Whether The Causes Of Divorce Had To Be Written In The Bill?
+### Whether The Causes Of Divorce Had To Be Written In The Bill?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the causes of divorce had to be written in the bill: because the husband was absolved from the punishment of the law by the written bill of divorce. But this would seem altogether unjust, unless sufficient causes were alleged for a divorce. Therefore it was necessary for them to be written in the bill.
 
@@ -180,7 +180,7 @@ Objection 2: Further, seemingly this document was of no use except to show the c
 
 Objection 3: Further, the Master says that it was so in the text (Sent. iv, D, 33).
 
-### Answer
+**Answer**
 
 On the contrary, The causes for divorce were either sufficient or not. If they were sufficient, the wife was debarred from a second marriage, though this was allowed her by the Law. If they were insufficient, the divorce was proved to be unjust, and therefore could not be effected. Therefore the causes for divorce were by no means particularized in the bill.
 

@@ -5,9 +5,9 @@ We must now consider sobriety and the contrary vice, namely drunkenness. As rega
 (2) Whether it is a special virtue?
 (3) Whether the use of wine is lawful?
 (4) To whom especially is sobriety becoming?
-## Whether Drink Is The Matter Of Sobriety?
+### Whether Drink Is The Matter Of Sobriety?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that drink is not the matter proper to sobriety. For it is written (Rom. 12:3): "Not to be more wise than it behooveth to be wise, but to be wise unto sobriety." Therefore sobriety is also about wisdom, and not only about drink.
 
@@ -15,22 +15,22 @@ Objection 2: Further, concerning the wisdom of God, it is written (Wis. 8:7) tha
 
 Objection 3: Further, sobriety would seem to take its name from "measure" [*'Bria,' a measure, a cup; Cf. Facciolati and Forcellini's Lexicon]. Now we ought to be guided by the measure in all things appertaining to us: for it is written (Titus 2:12): "We should live soberly and justly and godly," where a gloss remarks: "Soberly, in ourselves"; and (1 Tim. 2:9): "Women . . . in decent apparel, adorning themselves with modesty and sobriety." Consequently it would seem that sobriety regards not only the interior man, but also things appertaining to external apparel. Therefore drink is not the matter proper to sobriety.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ecclus. 31:32): "Wine taken with sobriety is equal life to men; if thou drink it moderately, thou shalt be sober."
 
 I answer that, When a virtue is denominated from some condition common to the virtues, the matter specially belonging to it is that in which it is most difficult and most commendable to satisfy that condition of virtue: thus fortitude is about dangers of death, and temperance about pleasures of touch. Now sobriety takes its name from "measure," for a man is said to be sober because he observes the "bria," i.e. the measure. Wherefore sobriety lays a special claim to that matter wherein /the observance of the measure is most deserving of praise. Such matter is the drinking of intoxicants, because the measured use thereof is most profitable, while immoderate excess therein is most harmful, since it hinders the use of reason even more than excessive eating. Hence it is written (Ecclus. 31:37,38): "Sober drinking is health to soul and body; wine drunken with excess raiseth quarrels, and wrath and many ruins." For this reason sobriety is especially concerned with drink, not any kind of drink, but that which by reason of its volatility is liable to disturb the brain, such as wine and all intoxicants. Nevertheless, sobriety may be employed in a general sense so as to apply to any matter, as stated above ([3502]Q[123], A[2];[3503] Q[141], A[2]) with regard to fortitude and temperance.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as the material wine intoxicates a man as to his body, so too, speaking figuratively, the consideration of wisdom is said to be an inebriating draught, because it allures the mind by its delight, according to Ps. 22:5, "My chalice which inebriateth me, how goodly is it!" Hence sobriety is applied by a kind of metaphor in speaking of the contemplation of wisdom.
 
 Reply to Objection 2: All the things that belong properly to temperance are necessary to the present life, and their excess is harmful. Wherefore it behooves one to apply a measure in all such things. This is the business of sobriety: and for this reason sobriety is used to designate temperance. Yet slight excess is more harmful in drink than in other things, wherefore sobriety is especially concerned with drink.
 
 Reply to Objection 3: Although a measure is needful in all things, sobriety is not properly employed in connection with all things, but only in those wherein there is most need for a measure.
-## Whether Sobriety Is By Itself A Special Virtue?
+### Whether Sobriety Is By Itself A Special Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sobriety is not by itself a special virtue. For abstinence is concerned with both meat and drink. Now there is no special virtue about meat. Therefore neither is sobriety, which is about drink, a special virtue.
 
@@ -38,22 +38,22 @@ Objection 2: Further, abstinence and gluttony are about pleasures of touch as se
 
 Objection 3: Further, just as in things pertaining to nourishment, drink is distinguished from meat, so are there various kinds of meats and of drinks. Therefore if sobriety is by itself a special virtue, seemingly there will be a special virtue corresponding to each different kind of meat or drink, which is unreasonable. Therefore it would seem that sobriety is not a special virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Macrobius [*In Somno Scip. i, 8] reckons sobriety to be a special part of temperance.
 
 I answer that, As stated above ([3504]Q[146], A[2]), it belongs to moral virtue to safeguard the good of reason against those things which may hinder it. Hence wherever we find a special hindrance to reason, there must needs be a special virtue to remove it. Now intoxicating drink is a special kind of hindrance to the use of reason, inasmuch as it disturbs the brain by its fumes. Wherefore in order to remove this hindrance to reason a special virtue, which is sobriety, is requisite.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Meat and drink are alike capable of hindering the good of reason, by embroiling the reason with immoderate pleasure: and in this respect abstinence is about both meat and drink alike. But intoxicating drink is a special kind of hindrance, as stated above, wherefore it requires a special virtue.
 
 Reply to Objection 2: The virtue of abstinence is about meat and drink, considered, not as food but as a hindrance to reason. Hence it does not follow that special kinds of virtue correspond to different kinds of food.
 
 Reply to Objection 3: In all intoxicating drinks there is one kind of hindrance to the use of reason: so that the difference of drinks bears an accidental relation to virtue. Hence this difference does not call for a difference of virtue. The same applies to the difference of meats.
-## Whether The Use Of Wine Is Altogether Unlawful?
+### Whether The Use Of Wine Is Altogether Unlawful?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the use of wine is altogether unlawful. For without wisdom, a man cannot be in the state of salvation: since it is written (Wis. 7:28): "God loveth none but him that dwelleth with wisdom," and further on (Wis. 9:19): "By wisdom they were healed, whosoever have pleased Thee, O Lord, from the beginning." Now the use of wine is a hindrance to wisdom, for it is written (Eccles. 2:3): "I thought in my heart to withdraw my flesh from wine, that I might turn my mind to wisdom." Therefore wine-drinking is altogether unlawful.
 
@@ -61,22 +61,22 @@ Objection 2: Further, the Apostle says (Rom. 14:21): "It is good not to eat fles
 
 Objection 3: Further, Jerome says [*Contra Jovin. i] that "after the deluge wine and flesh were sanctioned: but Christ came in the last of the ages and brought back the end into line with the beginning." Therefore it seems unlawful to use wine under the Christian law.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Tim. 5:23): "Do not still drink water, but use a little wine for thy stomach's sake, and thy frequent infirmities"; and it is written (Ecclus. 31:36): "Wine drunken with moderation is the joy of the soul and the heart."
 
 I answer that, No meat or drink, considered in itself, is unlawful, according to Mat. 15:11, "Not that which goeth into the mouth defileth a man." Wherefore it is not unlawful to drink wine as such. Yet it may become unlawful accidentally. This is sometimes owing to a circumstance on the part of the drinker, either because he is easily the worse for taking wine, or because he is bound by a vow not to drink wine: sometimes it results from the mode of drinking, because to wit he exceeds the measure in drinking: and sometimes it is on account of others who would be scandalized thereby.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A man may have wisdom in two ways. First, in a general way, according as it is sufficient for salvation: and in this way it is required, in order to have wisdom, not that a man abstain altogether from wine, but that he abstain from its immoderate use. Secondly, a man may have wisdom in some degree of perfection: and in this way, in order to receive wisdom perfectly, it is requisite for certain persons that they abstain altogether from wine, and this depends on circumstances of certain persons and places.
 
 Reply to Objection 2: The Apostle does not declare simply that it is good to abstain from wine, but that it is good in the case where this would give scandal to certain people.
 
 Reply to Objection 3: Christ withdraws us from some things as being altogether unlawful, and from others as being obstacles to perfection. It is in the latter way that he withdraws some from the use of wine, that they may aim at perfection, even as from riches and the like.
-## Whether Sobriety Is More Requisite In Persons Of Greater Standing?
+### Whether Sobriety Is More Requisite In Persons Of Greater Standing?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that sobriety is more requisite in persons of greater standing. For old age gives a man a certain standing; wherefore honor and reverence are due to the old, according to Lev. 19:32, "Rise up before the hoary head, and honor the person of the aged man." Now the Apostle declares that old men especially should be exhorted to sobriety, according to Titus 2:2, "That the aged man be sober." Therefore sobriety is most requisite in persons of standing.
 
@@ -84,7 +84,7 @@ Objection 2: Further, a bishop has the highest degree in the Church: and the Apo
 
 Objection 3: Further, sobriety denotes abstinence from wine. Now wine is forbidden to kings, who hold the highest place in human affairs: while it is allowed to those who are in a state of affliction, according to Prov. 31:4, "Give not wine to kings," and further on (Prov. 31:6), "Give strong drink to them that are sad, and wine to them that are grieved in mind." Therefore sobriety is more requisite in persons of standing.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Tim. 3:11): "The women in like manner, chaste . . . sober," etc., and (Titus 2:6) "Young men in like manner exhort that they be sober."
 

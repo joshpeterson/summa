@@ -8,9 +8,9 @@ We must now consider the minister of confession, under which head there are seve
 (5) Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or of the command of a superior?
 (6) Whether a penitent, in danger of death can be absolved by any priest?
 (7) Whether the temporal punishment should be enjoined in proportion to the sin?
-## Whether It Is Necessary To Confess To A Priest?
+### Whether It Is Necessary To Confess To A Priest?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not necessary to confess to a priest. For we are not bound to confession, except in virtue of its Divine institution. Now its Divine institution is made known to us (James 5:16): "Confess your sins, one to another," where there is no mention of a priest. Therefore it is not necessary to confess to a priest.
 
@@ -20,13 +20,13 @@ Objection 3: Further, confession is necessary in order that the measure of satis
 
 Objection 4: Further, confession was instituted in the Church in order that the rectors might know their sheep by sight. But sometimes a rector or prelate is not a priest. Therefore confession should not always be made to a priest.
 
-### Answer
+**Answer**
 
 On the contrary, The absolution of the penitent, for the sake of which he makes his confession, is imparted by none but priests to whom the keys are intrusted. Therefore confession should be made to a priest.
 
 I answer that, The grace which is given in the sacraments, descends from the Head to the members. Wherefore he alone who exercises a ministry over Christ's true body is a minister of the sacraments, wherein grace is given; and this belongs to a priest alone, who can consecrate the Eucharist. Therefore, since grace is given in the sacrament of Penance, none but a priest is the minister of the sacrament: and consequently sacramental confession which should be made to a minister of the Church, should be made to none but a priest.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: James speaks on the presupposition of the Divine institutions: and since confession had already been prescribed by God to be made to a priest, in that He empowered them, in the person of the apostles, to forgive sins, as related in Jn. 20:23, we must take the words of James as conveying an admonishment to confess to priests.
 
@@ -35,9 +35,9 @@ Reply to Objection 2: Baptism is a sacrament of greater necessity than Penance, 
 Reply to Objection 3: In satisfaction we must consider not only the quantity of the punishment but also its power, inasmuch as it is part of a sacrament. In this way it requires a dispenser of the sacraments, though the quantity of the punishment may be fixed by another than a priest.
 
 Reply to Objection 4: It may be necessary for two reasons to know the sheep by sight. First, in order to register them as members of Christ's flock, and to know the sheep by sight thus belongs to the pastoral charge and care, which is sometimes the duty of those who are not priests. Secondly, that they may be provided with suitable remedies for their health; and to know the sheep by sight thus belongs to the man, i.e. the priest, whose business it is to provide remedies conducive to health, such as the sacrament of the Eucharist, and other like things. It is to this knowledge of the sheep that confession is ordained.
-## Whether It Is Ever Lawful To Confess To Another Than A Priest?
+### Whether It Is Ever Lawful To Confess To Another Than A Priest?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is never lawful to confess to another than a priest. For confession is a sacramental accusation, as appears from the definition given above ([4843]Q[7], A[1]). But the dispensing of a sacrament belongs to none but the minister of a sacrament. Since then the proper minister of Penance is a priest, it seems that confession should be made to no one else.
 
@@ -45,28 +45,28 @@ Objection 2: Further, in every court of justice confession is ordained to the se
 
 Objection 3: Further, in the case of Baptism, since anyone can baptize, if a layman has baptized, even without necessity, the Baptism should not be repeated by a priest. But if anyone confess to a layman in a case of necessity, he is bound to repeat his confession to a priest, when the cause for urgency has passed. Therefore confession should not be made to a layman in a case of necessity.
 
-### Answer
+**Answer**
 
 On the contrary, is the authority of the text (Sent. iv, D, 17).
 
 I answer that, Just as Baptism is a necessary sacrament, so is Penance. And Baptism, through being a necessary sacrament has a twofold minister: one whose duty it is to baptize, in virtue of his office, viz. the priest, and another, to whom the conferring of Baptism is committed, in a case of necessity. In like manner the minister of Penance, to whom, in virtue of his office, confession should be made, is a priest; but in a case of necessity even a layman may take the place of a priest, and hear a person's confession.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the sacrament of Penance there is not only something on the part of the minister, viz. the absolution and imposition of satisfaction, but also something on the part of the recipient, which is also essential to the sacrament, viz. contrition and confession. Now satisfaction originates from the minister in so far as he enjoins it, and from the penitent who fulfills it; and, for the fulness of the sacrament, both these things should concur when possible. But when there is reason for urgency, the penitent should fulfill his own part, by being contrite and confessing to whom he can; and although this person cannot perfect the sacrament, so as to fulfill the part of the priest by giving absolution, yet this defect is supplied by the High Priest. Nevertheless confession made to a layman, through lack* of a priest, is quasi-sacramental, although it is not a perfect sacrament, on account of the absence of the part which belongs to the priest. [*Here and in the Reply to OBJ[2] the Leonine edition reads "through desire for a priest".]
 
 Reply to Objection 2: Although a layman is not the judge of the person who confesses to him, yet, on account of the urgency, he does take the place of a judge over him, absolutely speaking, in so far as the penitent submits to him, through lack of a priest.
 
 Reply to Objection 3: By means of the sacraments man must needs be reconciled not only to God, but also to the Church. Now he cannot be reconciled to the Church, unless the hallowing of the Church reach him. In Baptism the hallowing of the Church reaches a man through the element itself applied externally, which is sanctified by "the word of life" (Eph. 5:26), by whomsoever it is conferred: and so when once a man has been baptized, no matter by whom, he must not be baptized again. On the other hand, in Penance the hallowing of the Church reaches man by the minister alone, because in that sacrament there is no bodily element applied externally, through the hallowing of which grace may be conferred. Consequently although the man who, in a case of necessity, has confessed to a layman, has received forgiveness from God, for the reason that he fulfilled, so far as he could, the purpose which he conceived in accordance with God's command, he is not yet reconciled to the Church, so as to be admitted to the sacraments, unless he first be absolved by a priest, even as he who has received the Baptism of desire, is not admitted to the Eucharist. Wherefore he must confess again to a priest, as soon as there is one at hand, and the more so since, as stated above (ad 1), the sacrament of Penance was not perfected, and so it needs yet to be perfected, in order that by receiving the sacrament, the penitent may receive a more plentiful effect, and that he may fulfill the commandment about receiving the sacrament of Penance.
-## Whether, Outside A Case Of Necessity, Anyone Who Is Not A Priest May Hear The Confession Of Venial Sins?
+### Whether, Outside A Case Of Necessity, Anyone Who Is Not A Priest May Hear The Confession Of Venial Sins?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that, outside a case of necessity, no one but a priest may hear the confession of venial sins. For the dispensation of a sacrament is committed to a layman by reason of necessity. But the confession of venial sins is not necessary. Therefore it is not committed to a layman.
 
 Objection 2: Further, Extreme Unction is ordained against venial sin, just as Penance is. But the former may not be given by a layman, as appears from James 5:14. Therefore neither can the confession of venial sins be made to a layman.
 
-### Answer
+**Answer**
 
 On the contrary, is the authority of Bede (on James 5:16, "Confess . . . one to another") quoted in the text (Sent. iv, D, 17).
 
@@ -74,12 +74,12 @@ I answer that, By venial sin man is separated neither from God nor from the sacr
 
 This suffices for the Reply to the First Objection, because there is no need to receive a sacrament for the forgiveness of venial sins. and a sacramental, such as holy water or the like, suffices for the purpose.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Extreme Unction is not given directly as a remedy for venial sin, nor is any other sacrament.
-## Whether It Is Necessary For One To Confess To One's Own Priest?
+### Whether It Is Necessary For One To Confess To One's Own Priest?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is nol necessary to confess to one's own priest. For Gregory [*Cf. Can. Ex auctoritate xvi, Q[1]] says: "By our apostolic authority and in discharge of our solicitude we have decreed that priests, who as monks imitate the ex. ample of the apostles, may preach, baptize, give communion, pray for sinners, impose penances, and absolve from sins." Now monks are not the proper priests of anyone, since they have not the care of souls. Since, therefore confession is made for the sake of absolution it suffices for it to be made to any priest.
 
@@ -93,13 +93,13 @@ Objection 5: Further, "That which is instituted for the sake of charity, does no
 
 Objection 6: Further, men should not be straitened in matters necessary for salvation, lest they be hindered in the way of salvation. But it seems a great inconvenience to be bound of necessity to confess to one particular man, and many might be hindered from going to confession, through either fear, shame, or something else of the kind. Therefore, since confession is necessary for salvation, men should not be straitened, as apparently they would be, by having to confess to their own priest.
 
-### Answer
+**Answer**
 
 On the contrary, stands a decree of Pope Innocent III in the Fourth Lateran Council (Can. 21), who appointed "all of either sex to confess once a year to their own priest."
 
 I answer that, The other sacraments do not consist in an action of the recipient, but only in his receiving something, as is evident with regard to Baptism and so forth. though the action of the recipient is required as removing an obstacle, i.e. insincerity, in order that he may receive the benefit of the sacrament, if he has come to the use of his free-will. On the other hand, the action of the man who approaches the sacrament of Penance is essential to the sacrament, since contrition, confession, and satisfaction, which are acts of the penitent, are parts of Penance. Now our actions, since they have their origin in us, cannot be dispensed by others, except through their command. Hence whoever is appointed a dispenser of this sacrament, must be such as to be able to command something to be done. Now a man is not competent to command another unless he have jurisdiction over him. Consequently it is essential to this sacrament, not only for the minister to be in orders, as in the case of the other sacraments, but also for him to have jurisdiction: wherefore he that has no jurisdiction cannot administer this sacrament any more than one who is not a priest. Therefore confession should be made not only to a priest, but to one's own priest; for since a priest does not absolve a man except by binding him to do something, he alone can absolve, who, by his command, can bind the penitent to do something.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Gregory is speaking of those monks who have jurisdiction, through having charge of a parish; about whom some had maintained that from the very fact that they were monks, they could not absolve or impose penance, which is false.
 
@@ -112,9 +112,9 @@ Reply to Objection 4: Since it is the duty of prelates to dispense the sacrament
 Reply to Objection 5: In those cases wherein the penitent has reason to fear some harm to himself or to the priest by reason of his confessing to him, he should have recourse to the higher authority, or ask permission of the priest himself to confess to another; and if he fails to obtain permission, the case is to be decided as for a man who has no priest at hand; so that he should rather choose a layman and confess to him. Nor does he disobey the law of the Church by so doing, because the precepts of positive law do not extend beyond the intention of the lawgiver, which is the end of the precept, and in this case, is charity, according to the Apostle (1 Tim. 1:5). Nor is any slur cast on the priest, for he deserves to forfeit his privilege, for abusing the power intrusted to him.
 
 Reply to Objection 6: The necessity of confessing to one's own priest does not straiten the way of salvation, but determines it sufficiently. A priest, however, would sin if he were not easy in giving permission to confess to another, because many are so weak that they would rather die without confession than confess to such a priest. Wherefore those priests who are too anxious to probe the consciences of their subjects by means of confession, lay a snare of damnation for many, and consequently for themselves.
-## Whether It Is Lawful For Anyone To Confess To Another Than His Own Priest, In Virtue Of A Privilege Or A Command Given By A Superior?
+### Whether It Is Lawful For Anyone To Confess To Another Than His Own Priest, In Virtue Of A Privilege Or A Command Given By A Superior?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not lawful for anyone to confess to another than his own priest, even in virtue of a privilege or command given by a superior. For no privilege should be given that wrongs a third party. Now it would be prejudicial to the subject's own priest, if he were to confess to another. Therefore this cannot be allowed by a superior's privilege, permission, or command.
 
@@ -124,13 +124,13 @@ Objection 3: Further, he that hears another's confession is the latter's own jud
 
 Objection 4: Further, it is derogatory to a sacrament, or at least useless, to repeat a sacrament over the same matter. But he who has confessed to another priest, is bound to confess again to his own priest, if the latter requires him to do so, because he is not absolved from his obedience, whereby he is bound to him in this respect. Therefore it cannot be lawful for anyone to confess to another than his own priest.
 
-### Answer
+**Answer**
 
 On the contrary, He that can perform the actions of an order can depute the exercise thereof to anyone who has the same order. Now a superior, such as a bishop, can hear the confession of anyone belonging to a priest's parish, for sometimes he reserves certain cases to himself, since he is the chief rector. Therefore he can also depute another priest to hear that man.
 
 I answer that, A priest may be hindered in two ways from hearing a man's confession: first, through lack of jurisdiction; secondly, through being prevented from exercising his order, as those who are excommunicate, degraded, and so forth. Now whoever has jurisdiction, can depute to another whatever comes under his jurisdiction; so that if a priest is hindered from hearing a man's confession through want of jurisdiction, anyone who has immediate jurisdiction over that man, priest, bishop, or Pope, can depute that priest to hear his confession and absolve him. If, on the other hand, the priest cannot hear the confession, on account of an impediment to the exercise of his order, anyone who has the power to remove that impediment can permit him to hear confessions.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: No wrong is done to a person unless what is taken away from him was granted for his own benefit. Now the power of jurisdiction is not granted a man for his own benefit, but for the good of the people and for the glory of God. Wherefore if the higher prelates deem it expedient for the furthering of the people's salvation and God's glory, to commit matters of jurisdiction to others, no wrong is done to the inferior prelates, except to those who "seek the things that are their own; not the things that are Jesus Christ's" (Phil. 2:21), and who rule their flock, not by feeding it, but by feeding on it.
 
@@ -139,9 +139,9 @@ Reply to Objection 2: The rector of a church should "know the countenance of his
 Reply to Objection 3: It would be inconvenient, if two men were placed equally over the same people, but there is no inconvenience if over the same people two are placed one of whom is over the other. In this way the parish priest, the bishop, and the Pope are placed immediately over the same people, and each of them can commit matters of jurisdiction to some other. Now a higher superior delegates a man in two ways: first, so that the latter takes the superior's place, as when the Pope or a bishop appoints his penitentiaries; and then the man thus delegated is higher than the inferior prelate, as the Pope's penitentiary is higher than a bishop, and the bishop's penitentiary than a parish priest, and the penitent is bound to obey the former rather than the latter. Secondly, so that the delegate is appointed the coadjutor of this other priest; and since a co-adjutor is subordinate to the person he is appointed to help, he holds a lower rank, and the penitent is not so bound to obey him as his own priest.
 
 Reply to Objection 4: No man is bound to confess sins that he has no longer. Consequently, if a man has confessed to the bishop's penitentiary, or to someone else having faculties from the bishop, his sins are forgiven both before the Church and before God, so that he is not bound to confess them to his own priest, however much the latter may insist: but on account of the Ecclesiastical precept (De Poenit. et Remiss., Cap. Omnis utriusque) which prescribes confession to be made once a year to one's own priest, he is under the same obligation as one who has committed none but venial sins. For such a one, according to some, is bound to confess none but venial sins, or he must declare that he is free from mortal sin, and the priest, in the tribunal of conscience, ought, and is bound, to believe him. If, however, he were bound to confess again, his first confession would not be useless, because the more priests one confesses to, the more is the punishment remitted, both by reason of the shame in confessing, which is reckoned as a satisfactory punishment, and by reason of the power of the keys: so that one might confess so often as to be delivered from all punishment. Nor is repetition derogatory to a sacrament, except in those wherein there is some kind of sanctification, either by the impressing of a character, or by the consecration of the matter, neither of which applies to Penance. Hence it would be well for him who hears confessions by the bishop's authority, to advise the penitent to confess to his own priest, yet he must absolve him, even if he declines to do so.
-## Whether A Penitent, At The Point Of Death, Can Be Absolved By Any Priest?
+### Whether A Penitent, At The Point Of Death, Can Be Absolved By Any Priest?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a penitent, at the point of death, cannot be absolved by any priest. For absolution requires jurisdiction, as stated above [4847](A[5]). Now a priest does not acquire jurisdiction over a man who repents at the point of death. Therefore he cannot absolve him.
 
@@ -149,22 +149,22 @@ Objection 2: Further, he that receives the sacrament of Baptism, when in danger 
 
 Objection 3: Further, when there is danger of death, Baptism can be conferred not only by a strange priest, but also by one who is not a priest. But one who is not a priest can never absolve in the tribunal of Penance. Therefore neither can a priest absolve a man who is not his subject, when he is in danger of death.
 
-### Answer
+**Answer**
 
 On the contrary, Spiritual necessity is greater than bodily necessity. But it is lawful in a case of extreme necessity, for a man to make use of another's property, even against the owner's will, in order to supply a bodily need. Therefore in danger of death, a man may be absolved by another than his own priest, in order to supply his spiritual need.
 
 I answer that, If we consider the power of the keys, every priest has power over all men equally and over all sins: and it is due to the fact that by the ordination of the Church, he has a limited jurisdiction or none at all, that he cannot absolve all men from all sins. But since "necessity knows no law" [*Cap. Consilium, De observ. jejun.; De reg. jur. (v, Decretal)] in cases of necessity the ordination of the Church does not hinder him from being able to absolve, since he has the keys sacramentally: and the penitent will receive as much benefit from the absolution of this other priest as if he had been absolved by his own. Moreover a man can then be absolved by any priest not only from his sins, but also from excommunication, by whomsoever pronounced, because such absolution is also a matter of that jurisdiction which by the ordination of the Church is con. fined within certain limits.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: One person may act on the jurisdiction of another according to the latter's will, since matters of jurisdiction can be deputed. Since, therefore, the Church recognizes absolution granted by any priest at the hour of death, from this very fact a priest has the use of jurisdiction though he lack the power of jurisdiction.
 
 Reply to Objection 2: He needs to go to his own priest, not that he may be absolved again from the sins, from which he was absolved when in danger of death, but that his own priest may know that he is absolved. In like manner, he who has been absolved from excommunication needs to go to the judge, who in other circumstances could have absolved him, not in order to seek absolution, but in order to offer satisfaction.
 
 Reply to Objection 3: Baptism derives its efficacy from the sanctification of the matter itself, so that a man receives the sacrament whosoever baptizes him: whereas the sacramental power of Penance consists in a sanctification pronounced by the minister, so that if a man confess to a layman, although he fulfills his own part of the sacramental confession, he does not receive sacramental absolution. Wherefore his confession avails him somewhat, as to the lessening of his punishment, owing to the merit derived from his confession and to his repentance. but he does not receive that diminution of his punishment which results from the power of the keys; and consequently he must confess again to a priest; and one who has confessed thus, is more punished hereafter than if he had confessed to a priest.
-## Whether The Temporal Punishment Is Imposed According To The Degree Of The Fault?
+### Whether The Temporal Punishment Is Imposed According To The Degree Of The Fault?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the temporal punishment, the debt of which remains after Penance, is not imposed according to the degree of fault. For it is imposed according to the degree of pleasure derived from the sin, as appears from Apoc. 18:7: "As much as she hath glorified herself and lived in delicacies, so much torment and sorrow give ye her." Yet sometimes where there is greater pleasure, there is less fault, since "carnal sins, which afford more pleasure than spiritual sins, are less guilty," according to Gregory (Moral. xxxiii, 2). Therefore the punishment is not imposed according to the degree of fault.
 
@@ -174,13 +174,13 @@ Objection 3: Further, the sin of murder in a layman is more grievous than that o
 
 Objection 4: Further, a sin committed against the very body of Christ is most grievous, because the greater the person sinned against, the more grievous the sin. Now for spilling the blood of Christ in the sacrament of the altar a punishment of forty days or a little more is enjoined, while a punishment of seven years is prescribed for fornication, according to the Canons (Can. Presbyter, Dist. lxxxii). Therefore the quantity of the punishment does not answer to the degree of fault.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Is. 27:8): "In measure against measure, when it shall be cast off, thou shalt judge it." Therefore the quantity of punishment adjudicated for sin answers the degree of fault.
 
 I answer that, After the forgiveness of sin, a punishment is required for two reasons, viz. to pay the debt, and to afford a remedy. Hence the punishment may be imposed in consideration of two things. First, in consideration of the debt, and in this way the quantity of the punishment corresponds radically to the quantity of the fault, before anything of the latter is forgiven: yet the more there is remitted by the first of those things which are of a nature to remit punishment, the less there remains to be remitted or paid by the other, because the more contrition remits of the punishment, the less there remains to be remitted by confession. Secondly, in consideration of the remedy, either as regards the one who sinned, or as regards others: and thus sometimes a greater punishment is enjoined for a lesser sin; either because one man's sin is more difficult to resist than another's (thus a heavier punishment is imposed on a young man for fornication, than on an old man, though the former's sin be less grievous), or because one man's sin; for instance, a priest's, is more dangerous to others, than another's sin, or because the people are more prone to that particular sin, so that it is necessary by the punishment of the one man to deter others. Consequently, in the tribunal of Penance, the punishment has to be imposed with due regard to both these things: and so a greater punishment is not always imposed for a greater sin. on the other hand, the punishment of Purgatory is only for the payment of the debt, because there is no longer any possibility of sinning, so that this punishment is meted only according to the measure of sin, with due consideration however for the degree of contrition, and for confession and absolution, since all these lessen the punishment somewhat: wherefore the priest in enjoining satisfaction should bear them in mind.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the words quoted two things are mentioned with regard to the sin, viz. "glorification" and "delicacies" or "delectation"; the first of which regards the uplifting of the sinner, whereby he resists God; while the second regards the pleasure of sin: and though sometimes there is less pleasure in a greater sin, yet there is greater uplifting; wherefore the argument does not prove.
 

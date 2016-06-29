@@ -6,9 +6,9 @@ We must now consider moral virtues. We shall speak (1) of the difference between
 (3) Whether virtue is adequately divided into moral and intellectual virtue?
 (4) Whether there can be moral without intellectual virtue?
 (5) Whether, on the other hand, there can be intellectual without moral virtue?
-## Whether Every Virtue Is A Moral Virtue?
+### Whether Every Virtue Is A Moral Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that every virtue is a moral virtue. Because moral virtue is so called from the Latin "mos," i.e. custom. Now, we can accustom ourselves to the acts of all the virtues. Therefore every virtue is a moral virtue.
 
@@ -16,7 +16,7 @@ Objection 2: Further, the Philosopher says (Ethic. ii, 6) that moral virtue is "
 
 Objection 3: Further, Cicero says (De Invent. Rhet. ii) that "virtue is a habit like a second nature, in accord with reason." But since every human virtue is directed to man's good, it must be in accord with reason: since man's good "consists in that which agrees with his reason," as Dionysius states (Div. Nom. iv). Therefore every virtue is a moral virtue.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher (Ethic. i, 13): "When we speak of a man's morals, we do not say that he is wise or intelligent, but that he is gentle or sober." Accordingly, then, wisdom and understanding are not moral virtues: and yet they are virtues, as stated above ([1530]Q[57], A[2]). Therefore not every virtue is a moral virtue.
 
@@ -24,16 +24,16 @@ I answer that, In order to answer this question clearly, we must consider the me
 
 Now "moral" virtue is so called from "mos" in the sense of a natural or quasi-natural inclination to do some particular action. And the other meaning of "mos," i.e. "custom," is akin to this: because custom becomes a second nature, and produces an inclination similar to a natural one. But it is evident that inclination to an action belongs properly to the appetitive power, whose function it is to move all the powers to their acts, as explained above ([1531]Q[9], A[1]). Therefore not every virtue is a moral virtue, but only those that are in the appetitive faculty.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument takes "mos" in the sense of "custom."
 
 Reply to Objection 2: Every act of virtue can be done from choice: but no virtue makes us choose aright, save that which is in the appetitive part of the soul: for it has been stated above that choice is an act of the appetitive faculty ([1532]Q[13], A[1]). Wherefore a habit of choosing, i.e. a habit which is the principle whereby we choose, is that habit alone which perfects the appetitive faculty: although the acts of other habits also may be a matter of choice.
 
 Reply to Objection 3: "Nature is the principle of movement" (Phys. ii, text. 3). Now to move the faculties to act is the proper function of the appetitive power. Consequently to become as a second nature by consenting to the reason, is proper to those virtues which are in the appetitive faculty.
-## Whether Moral Virtue Differs From Intellectual Virtue?
+### Whether Moral Virtue Differs From Intellectual Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that moral virtue does not differ from intellectual virtue. For Augustine says (De Civ. Dei iv, 21) "that virtue is the art of right conduct." But art is an intellectual virtue. Therefore moral and intellectual virtue do not differ.
 
@@ -43,7 +43,7 @@ Objection 3: Further, Augustine says (Soliloq. i, 6) that "virtue is the rectitu
 
 Objection 4: Further, a thing does not differ from that which is included in its definition. But intellectual virtue is included in the definition of moral virtue: for the Philosopher says (Ethic. ii, 6) that "moral virtue is a habit of choosing the mean appointed by reason as a prudent man would appoint it." Now this right reason that fixes the mean of moral virtue, belongs to an intellectual virtue, as stated in Ethic. vi, 13. Therefore moral virtue does not differ from intellectual.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated in Ethic. i, 13 that "there are two kinds of virtue: some we call intellectual; some moral."
 
@@ -53,16 +53,16 @@ Now this is based on a false supposition. Because the appetitive faculty obeys t
 
 Accordingly for a man to do a good deed, it is requisite not only that his reason be well disposed by means of a habit of intellectual virtue; but also that his appetite be well disposed by means of a habit of moral virtue. And so moral differs from intellectual virtue, even as the appetite differs from the reason. Hence just as the appetite is the principle of human acts, in so far as it partakes of reason, so are moral habits to be considered virtues in so far as they are in conformity with reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine usually applies the term "art" to any form of right reason; in which sense art includes prudence which is the right reason about things to be done, even as art is the right reason about things to be made. Accordingly, when he says that "virtue is the art of right conduct," this applies to prudence essentially; but to other virtues, by participation, for as much as they are directed by prudence.
 
 Reply to Objection 2: All such definitions, by whomsoever given, were based on the Socratic theory, and should be explained according to what we have said about art (ad 1).
 
 Reply to Objection 4: Right reason which is in accord with prudence is included in the definition of moral virtue, not as part of its essence, but as something belonging by way of participation to all the moral virtues, in so far as they are all under the direction of prudence.
-## Whether Virtue Is Adequately Divided Into Moral And Intellectual?
+### Whether Virtue Is Adequately Divided Into Moral And Intellectual?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that virtue is not adequately divided into moral and intellectual. For prudence seems to be a mean between moral and intellectual virtue, since it is reckoned among the intellectual virtues (Ethic. vi, 3,5); and again is placed by all among the four cardinal virtues, which are moral virtues, as we shall show further on ([1533]Q[61], A[1]). Therefore virtue is not adequately divided into intellectual and moral, as though there were no mean between them.
 
@@ -70,22 +70,22 @@ Objection 2: Further, contingency, perseverance, and patience are not reckoned t
 
 Objection 3: Further, faith, hope, and charity are virtues. Yet they are not intellectual virtues: for there are only five of these, viz. science, wisdom, understanding, prudence, and art, as stated above ([1534]Q[57], AA[2] ,3,5). Neither are they moral virtues; since they are not about the passions, which are the chief concern of moral virtue. Therefore virtue is not adequately divided into intellectual and moral.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. ii, 1) that "virtue is twofold, intellectual and moral."
 
 I answer that, Human virtue is a habit perfecting man in view of his doing good deeds. Now, in man there are but two principles of human actions, viz. the intellect or reason and the appetite: for these are the two principles of movement in man as stated in De Anima iii, text. 48. Consequently every human virtue must needs be a perfection of one of these principles. Accordingly if it perfects man's speculative or practical intellect in order that his deed may be good, it will be an intellectual virtue: whereas if it perfects his appetite, it will be a moral virtue. It follows therefore that every human virtue is either intellectual or moral.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Prudence is essentially an intellectual virtue. But considered on the part of its matter, it has something in common with the moral virtues: for it is right reason about things to be done, as stated above ([1535]Q[57], A[4]). It is in this sense that it is reckoned with the moral virtues.
 
 Reply to Objection 2: Contingency and perseverance are not perfections of the sensitive appetite. This is clear from the fact that passions abound in the continent and persevering man, which would not be the case if his sensitive appetite were perfected by a habit making it conformable to reason. Contingency and perseverance are, however, perfections of the rational faculty, and withstand the passions lest reason be led astray. But they fall short of being virtues: since intellectual virtue, which makes reason to hold itself well in respect of moral matters, presupposes a right appetite of the end, so that it may hold itself aright in respect of principles, i.e. the ends, on which it builds its argument: and this is wanting in the continent and persevering man. Nor again can an action proceeding from two principles be perfect, unless each principle be perfected by the habit corresponding to that operation: thus, however perfect be the principal agent employing an instrument, it will produce an imperfect effect, if the instrument be not well disposed also. Hence if the sensitive faculty, which is moved by the rational faculty, is not perfect; however perfect the rational faculty may be, the resulting action will be imperfect: and consequently the principle of that action will not be a virtue. And for this reason, contingency, desisting from pleasures, and perseverance in the midst of pains, are not virtues, but something less than a virtue, as the Philosopher maintains (Ethic. vii, 1,9).
 
 Reply to Objection 3: Faith, hope, and charity are superhuman virtues: for they are virtues of man as sharing in the grace of God.
-## Whether There Can Be Moral Without Intellectual Virtue?
+### Whether There Can Be Moral Without Intellectual Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that moral can be without intellectual virtue. Because moral virtue, as Cicero says (De Invent. Rhet. ii) is "a habit like a second nature in accord with reason." Now though nature may be in accord with some sovereign reason that moves it, there is no need for that reason to be united to nature in the same subject, as is evident of natural things devoid of knowledge. Therefore in a man there may be a moral virtue like a second nature, inclining him to consent to his reason, without his reason being perfected by an intellectual virtue.
 
@@ -93,22 +93,22 @@ Objection 2: Further, by means of intellectual virtue man obtains perfect use of
 
 Objection 3: Further moral virtue makes us inclined to do good works. But some, without depending on the judgment of reason, have a natural inclination to do good works. Therefore moral virtues can be without intellectual virtues.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xxii) that "the other virtues, unless we do prudently what we desire to do, cannot be real virtues." But prudence is an intellectual virtue, as stated above ([1536]Q[57], A[5]). Therefore moral virtues cannot be without intellectual virtues.
 
 I answer that, Moral virtue can be without some of the intellectual virtues, viz. wisdom, science, and art; but not without understanding and prudence. Moral virtue cannot be without prudence, because it is a habit of choosing, i.e. making us choose well. Now in order that a choice be good, two things are required. First, that the intention be directed to a due end; and this is done by moral virtue, which inclines the appetitive faculty to the good that is in accord with reason, which is a due end. Secondly, that man take rightly those things which have reference to the end: and this he cannot do unless his reason counsel, judge and command aright, which is the function of prudence and the virtues annexed to it, as stated above ([1537]Q[57], AA[5],6). Wherefore there can be no moral virtue without prudence: and consequently neither can there be without understanding. For it is by the virtue of understanding that we know self-evident principles both in speculative and in practical matters. Consequently just as right reason in speculative matters, in so far as it proceeds from naturally known principles, presupposes the understanding of those principles, so also does prudence, which is the right reason about things to be done.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The inclination of nature in things devoid of reason is without choice: wherefore such an inclination does not of necessity require reason. But the inclination of moral virtue is with choice: and consequently in order that it may be perfect it requires that reason be perfected by intellectual virtue.
 
 Reply to Objection 2: A man may be virtuous without having full use of reason as to everything, provided he have it with regard to those things which have to be done virtuously. In this way all virtuous men have full use of reason. Hence those who seem to be simple, through lack of worldly cunning, may possibly be prudent, according to Mat. 10:16: "Be ye therefore prudent [Douay: 'wise'] as serpents, and simple as doves."
 
 Reply to Objection 3: The natural inclination to a good of virtue is a kind of beginning of virtue, but is not perfect virtue. For the stronger this inclination is, the more perilous may it prove to be, unless it be accompanied by right reason, which rectifies the choice of fitting means towards the due end. Thus if a running horse be blind, the faster it runs the more heavily will it fall, and the more grievously will it be hurt. And consequently, although moral virtue be not right reason, as Socrates held, yet not only is it "according to right reason," in so far as it inclines man to that which is, according to right reason, as the Platonists maintained [*Cf. Plato, Meno xli.]; but also it needs to be "joined with right reason," as Aristotle declares (Ethic. vi, 13).
-## Whether There Can Be Intellectual Without Moral Virtue?
+### Whether There Can Be Intellectual Without Moral Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there can be intellectual without moral virtue. Because perfection of what precedes does not depend on the perfection of what follows. Now reason precedes and moves the sensitive appetite. Therefore intellectual virtue, which is a perfection of the reason, does not depend on moral virtue, which is a perfection of the appetitive faculty; and can be without it.
 
@@ -116,13 +116,13 @@ Objection 2: Further, morals are the matter of prudence, even as things makeable
 
 Objection 3: Further, prudence is "a virtue whereby we are of good counsel" (Ethic. vi, 9). Now many are of good counsel without having the moral virtues. Therefore prudence can be without a moral virtue.
 
-### Answer
+**Answer**
 
 On the contrary, To wish to do evil is directly opposed to moral virtue; and yet it is not opposed to anything that can be without moral virtue. Now it is contrary to prudence "to sin willingly" (Ethic. vi, 5). Therefore prudence cannot be without moral virtue.
 
 I answer that, Other intellectual virtues can, but prudence cannot, be without moral virtue. The reason for this is that prudence is the right reason about things to be done (and this, not merely in general, but also in particular); about which things actions are. Now right reason demands principles from which reason proceeds to argue. And when reason argues about particular cases, it needs not only universal but also particular principles. As to universal principles of action, man is rightly disposed by the natural understanding of principles, whereby he understands that he should do no evil; or again by some practical science. But this is not enough in order that man may reason aright about particular cases. For it happens sometimes that the aforesaid universal principle, known by means of understanding or science, is destroyed in a particular case by a passion: thus to one who is swayed by concupiscence, when he is overcome thereby, the object of his desire seems good, although it is opposed to the universal judgment of his reason. Consequently, as by the habit of natural understanding or of science, man is made to be rightly disposed in regard to the universal principles of action; so, in order that he be rightly disposed with regard to the particular principles of action, viz. the ends, he needs to be perfected by certain habits, whereby it becomes connatural, as it were, to man to judge aright to the end. This is done by moral virtue: for the virtuous man judges aright of the end of virtue, because "such a man is, such does the end seem to him" (Ethic. iii, 5). Consequently the right reason about things to be done, viz. prudence, requires man to have moral virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Reason, as apprehending the end, precedes the appetite for the end: but appetite for the end precedes the reason, as arguing about the choice of the means, which is the concern of prudence. Even so, in speculative matters the understanding of principles is the foundation on which the syllogism of the reason is based.
 

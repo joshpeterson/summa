@@ -3,9 +3,9 @@
 We must now consider the cause of faith, under which head there are two points of inquiry:
 (1) Whether faith is infused into man by God?
 (2) Whether lifeless faith is a gift of God?
-## Whether Faith Is Infused Into Man By God?
+### Whether Faith Is Infused Into Man By God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that faith is not infused into man by God. For Augustine says (De Trin. xiv) that "science begets faith in us, and nourishes, defends and strengthens it." Now those things which science begets in us seem to be acquired rather than infused. Therefore faith does not seem to be in us by Divine infusion.
 
@@ -13,7 +13,7 @@ Objection 2: Further, that to which man attains by hearing and seeing, seems to 
 
 Objection 3: Further, that which depends on a man's will can be acquired by him. But "faith depends on the believer's will," according to Augustine (De Praedest. Sanct. v). Therefore faith can be acquired by man.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Eph. 2:8,9): "By grace you are saved through faith, and that not of yourselves . . . that no man may glory . . . for it is the gift of God."
 
@@ -23,16 +23,16 @@ As regards the second, viz. man's assent to the things which are of faith, we ma
 
 The Pelagians held that this cause was nothing else than man's free-will: and consequently they said that the beginning of faith is from ourselves, inasmuch as, to wit, it is in our power to be ready to assent to things which are of faith, but that the consummation of faith is from God, Who proposes to us the things we have to believe. But this is false, for, since man, by assenting to matters of faith, is raised above his nature, this must needs accrue to him from some supernatural principle moving him inwardly; and this is God. Therefore faith, as regards the assent which is the chief act of faith, is from God moving man inwardly by grace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Science begets and nourishes faith, by way of external persuasion afforded by science; but the chief and proper cause of faith is that which moves man inwardly to assent.
 
 Reply to Objection 2: This argument again refers to the cause that proposes outwardly the things that are of faith, or persuades man to believe by words or deeds.
 
 Reply to Objection 3: To believe does indeed depend on the will of the believer: but man's will needs to be prepared by God with grace, in order that he may be raised to things which are above his nature, as stated above ([2347]Q[2] , A[3]).
-## Whether Lifeless Faith Is A Gift Of God?
+### Whether Lifeless Faith Is A Gift Of God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that lifeless faith is not a gift of God. For it is written (Dt. 32:4) that "the works of God are perfect." Now lifeless faith is something imperfect. Therefore it is not the work of God.
 
@@ -40,7 +40,7 @@ Objection 2: Further, just as an act is said to be deformed through lacking its 
 
 Objection 3: Further, whomsoever God heals, He heals wholly: for it is written (Jn. 7:23): "If a man receive circumcision on the sabbath-day, that the law of Moses may not be broken; are you angry at Me because I have healed the whole man on the sabbath-day?" Now faith heals man from unbelief. Therefore whoever receives from God the gift of faith, is at the same time healed from all his sins. But this is not done except by living faith. Therefore living faith alone is a gift of God: and consequently lifeless faith is not from God.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on 1 Cor. 13:2 says that "the faith which lacks charity is a gift of God." Now this is lifeless faith. Therefore lifeless faith is a gift of God.
 
@@ -48,7 +48,7 @@ I answer that, Lifelessness is a privation. Now it must be noted that privation 
 
 Now the lifelessness of faith is not essential to the species of faith, since faith is said to be lifeless through lack of an extrinsic form, as stated above (Q[4], A[4]). Consequently the cause of lifeless faith is that which is the cause of faith strictly so called: and this is God, as stated above [2349](A[1]). It follows, therefore, that lifeless faith is a gift of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Lifeless faith, though it is not simply perfect with the perfection of a virtue, is, nevertheless, perfect with a perfection that suffices for the essential notion of faith.
 

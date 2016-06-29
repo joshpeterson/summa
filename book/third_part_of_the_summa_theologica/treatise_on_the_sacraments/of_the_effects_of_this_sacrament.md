@@ -9,9 +9,9 @@ We must now consider the effects of this sacrament, and under this head there ar
 (6) Whether this sacrament preserves man from future sins?
 (7) Whether this sacrament benefits others besides the recipients?
 (8) Of the obstacles to the effect of this sacrament.
-## Whether Grace Is Bestowed Through This Sacrament?
+### Whether Grace Is Bestowed Through This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that grace is not bestowed through this sacrament. For this sacrament is spiritual nourishment. But nourishment is only given to the living. Therefore since the spiritual life is the effect of grace, this sacrament belongs only to one in the state of grace. Therefore grace is not bestowed through this sacrament for it to be had in the first instance. In like manner neither is it given so as grace may be increased, because spiritual growth belongs to the sacrament of Confirmation, as stated above ([4613]Q[72], A[1]). Consequently, grace is not bestowed through this sacrament.
 
@@ -19,7 +19,7 @@ Objection 2: Further, this sacrament is given as a spiritual refreshment. But sp
 
 Objection 3: Further, as was said above (Q[74], A[1]), "Christ's body is offered up in this sacrament for the salvation of the body, and His blood for that of the soul." Now it is not the body which is the subject of grace, but the soul, as was shown in the [4614]FS, Q[110], A[4]. Therefore grace is not bestowed through this sacrament, at least so far as the body is concerned.
 
-### Answer
+**Answer**
 
 On the contrary, Our Lord says (Jn. 6:52): "The bread which I will give, is My flesh for the life of the world." But the spiritual life is the effect of grace. Therefore grace is bestowed through this sacrament.
 
@@ -33,16 +33,16 @@ Fourthly, the effect of this sacrament is considered from the species under whic
 
 And since Christ and His Passion are the cause of grace. and since spiritual refreshment, and charity cannot be without grace, it is clear from all that has been set forth that this sacrament bestows grace.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This sacrament has of itself the power of bestowing grace; nor does anyone possess grace before receiving this sacrament except from some desire thereof; from his own desire, as in the case of the adult. or from the Church's desire in the case of children, as stated above ([4617]Q[73], A[3]). Hence it is due to the efficacy of its power, that even from desire thereof a man procures grace whereby he is enabled to lead the spiritual life. It remains, then, that when the sacrament itself is really received, grace is increased, and the spiritual life perfected: yet in different fashion from the sacrament of Confirmation, in which grace is increased and perfected for resisting the outward assaults of Christ's enemies. But by this sacrament grace receives increase, and the spiritual life is perfected, so that man may stand perfect in himself by union with God.
 
 Reply to Objection 2: This sacrament confers grace spiritually together with the virtue of charity. Hence Damascene (De Fide Orth. iv) compares this sacrament to the burning coal which Isaias saw (Is. 6:6): "For a live ember is not simply wood, but wood united to fire; so also the bread of communion is not simple bread but bread united with the Godhead." But as Gregory observes in a Homily for Pentecost, "God's love is never idle; for, wherever it is it does great works." And consequently through this sacrament, as far as its power is concerned, not only is the habit of grace and of virtue bestowed, but it is furthermore aroused to act, according to 2 Cor. 5:14: "The charity of Christ presseth us." Hence it is that the soul is spiritually nourished through the power of this sacrament, by being spiritually gladdened, and as it were inebriated with the sweetness of the Divine goodness, according to Cant 5:1: "Eat, O friends, and drink, and be inebriated, my dearly beloved."
 
 Reply to Objection 3: Because the sacraments operate according to the similitude by which they signify, therefore by way of assimilation it is said that in this sacrament "the body is offered for the salvation of the body, and the blood for the salvation of the soul," although each works for the salvation of both, since the entire Christ is under each, as stated above ([4618]Q[76], A[2]). And although the body is not the immediate subject of grace, still the effect of grace flows into the body while in the present life we present "our [Vulg.: 'your'] members" as "instruments of justice unto God" (Rom. 6:13), and in the life to come our body will share in the incorruption and the glory of the soul.
-## Whether The Attaining Of Glory Is An Effect Of This Sacrament?
+### Whether The Attaining Of Glory Is An Effect Of This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the attaining of glory is not an effect of this sacrament. For an effect is proportioned to its cause. But this sacrament belongs to "wayfarers" [viatoribus], and hence it is termed "Viaticum." Since, then, wayfarers are not yet capable of glory, it seems that this sacrament does not cause the attaining of glory.
 
@@ -50,7 +50,7 @@ Objection 2: Further, given sufficient cause, the effect follows. But many take 
 
 Objection 3: Further, the greater is not brought about by the lesser, for nothing acts outside its species. But it is the lesser thing to receive Christ under a strange species, which happens in this sacrament, than to enjoy Him in His own species, which belongs to glory. Therefore this sacrament does not cause the attaining of glory.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 6:52): "If any man eat of this bread, he shall live for ever." But eternal life is the life of glory. Therefore the attaining of glory is an effect of this sacrament.
 
@@ -60,16 +60,16 @@ Now as to both of these it belongs to this sacrament to cause the attaining of e
 
 In like manner the refreshment of spiritual food and the unity denoted by the species of the bread and wine are to be had in the present life, although imperfectly. but perfectly in the state of glory. Hence Augustine says on the words, "My flesh is meat indeed" (Jn. 6:56): "Seeing that in meat and drink, men aim at this, that they hunger not nor thirst, this verily nought doth afford save only this meat and drink which maketh them who partake thereof to be immortal and incorruptible, in the fellowship of the saints, where shall be peace, and unity, full and perfect."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Christ's Passion, in virtue whereof this sacrament is accomplished, is indeed the sufficient cause of glory, yet not so that we are thereby forthwith admitted to glory, but we must first "suffer with Him in order that we may also be glorified" afterwards "with Him" (Rom. 8:17), so this sacrament does not at once admit us to glory, but bestows on us the power of coming unto glory. And therefore it is called "Viaticum," a figure whereof we read in 3 Kings 19:8: "Elias ate and drank, and walked in the strength of that food forty days and forty nights unto the mount of God, Horeb."
 
 Reply to Objection 2: Just as Christ's Passion has not its effect in them who are not disposed towards it as they should be, so also they do not come to glory through this sacrament who receive it unworthily. Hence Augustine (Tract. xxvi in Joan.), expounding the same passage, observes: "The sacrament is one thing, the power of the sacrament another. Many receive it from the altar . . . and by receiving" . . . die . . . Eat, then, spiritually the heavenly "bread, bring innocence to the altar." It is no wonder, then, if those who do not keep innocence, do not secure the effect of this sacrament.
 
 Reply to Objection 3: That Christ is received under another species belongs to the nature of a sacrament, which acts instrumentally. But there is nothing to prevent an instrumental cause from producing a more mighty effect, as is evident from what was said above ([4619]Q[77], A[3], ad 3).
-## Whether The Forgiveness Of Mortal Sin Is An Effect Of This Sacrament?
+### Whether The Forgiveness Of Mortal Sin Is An Effect Of This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the forgiveness of mortal sin is an effect of this sacrament. For it is said in one of the Collects (Postcommunion, Pro vivis et defunctis): "May this sacrament be a cleansing from crimes." But mortal sins are called crimes. Therefore mortal sins are blotted out by this sacrament.
 
@@ -77,7 +77,7 @@ Objection 2: Further, this sacrament, like Baptism, works by the power of Christ
 
 Objection 3: Further, grace is bestowed through this sacrament, as stated above [4621](A[1]). But by grace a man is justified from mortal sins, according to Rom. 3:24: "Being justified freely by His grace." Therefore mortal sins are forgiven by this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Cor. 11:29): "He that eateth and drinketh unworthily, eateth and drinketh judgment to himself": and a gloss of the same passage makes the following commentary: "He eats and drinks unworthily who is in the state of sin, or who handles (the sacrament) irreverently; and such a one eats and drinks judgment, i.e. damnation, unto himself." Therefore, he that is in mortal sin, by taking the sacrament heaps sin upon sin, rather than obtains forgiveness of his sin.
 
@@ -87,16 +87,16 @@ Secondly, it can be considered in comparison with the recipient of the sacrament
 
 Nevertheless this sacrament can effect the forgiveness of sin in two ways. First of all, by being received, not actually, but in desire; as when a man is first justified from sin. Secondly, when received by one in mortal sin of which he is not conscious, and for which he has no attachment; since possibly he was not sufficiently contrite at first, but by approaching this sacrament devoutly and reverently he obtains the grace of charity, which will perfect his contrition and bring forgiveness of sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We ask that this sacrament may be the "cleansing of crimes," or of those sins of which we are unconscious, according to Ps. 18:13: "Lord, cleanse me from my hidden sins"; or that our contrition may be perfected for the forgiveness of our sins; or that strength be bestowed on us to avoid sin.
 
 Reply to Objection 2: Baptism is spiritual generation, which is a transition from spiritual non-being into spiritual being, and is given by way of ablution. Consequently, in both respects he who is conscious of mortal sin does not improperly approach Baptism. But in this sacrament man receives Christ within himself by way of spiritual nourishment, which is unbecoming to one that lies dead in his sins. Therefore the comparison does not hold good.
 
 Reply to Objection 3: Grace is the sufficient cause of the forgiveness of mortal sin; yet it does not forgive sin except when it is first bestowed on the sinner. But it is not given so in this sacrament. Hence the argument does not prove.
-## Whether Venial Sins Are Forgiven Through This Sacrament?
+### Whether Venial Sins Are Forgiven Through This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that venial sins are not forgiven by this sacrament, because this is the "sacrament of charity," as Augustine says (Tract. xxvi in Joan.). But venial sins are not contrary to charity, as was shown in the [4622]FS, Q[88], AA[1],2; [4623]SS, Q[24], A[10]. Therefore, since contrary is taken away by its contrary, it seems that venial sins are not forgiven by this sacrament.
 
@@ -104,7 +104,7 @@ Objection 2: Further, if venial sins be forgiven by this sacrament, then all of 
 
 Objection 3: Further, contraries mutually exclude each other. But venial sins do not forbid the receiving of this sacrament: because Augustine says on the words, "If any man eat of it he shall [Vulg.: 'may'] not die for ever" (Jn. 6:50): "Bring innocence to the altar: your sins, though they be daily . . . let them not be deadly." Therefore neither are venial sins taken away by this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, Innocent III says (De S. Alt. Myst. iv) that this sacrament "blots out venial sins, and wards off mortal sins."
 
@@ -112,14 +112,14 @@ I answer that, Two things may be considered in this sacrament, to wit, the sacra
 
 The reality of this sacrament is charity, not only as to its habit, but also as to its act, which is kindled in this sacrament; and by this means venial sins are forgiven. Consequently, it is manifest that venial sins are forgiven by the power of this sacrament.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Venial sins, although not opposed to the habit of charity, are nevertheless opposed to the fervor of its act, which act is kindled by this sacrament; by reason of which act venial sins are blotted out.
 
 Reply to Objection 3: The power of charity, to which this sacrament belongs, is greater than that of venial sins: because charity by its act takes away venial sins, which nevertheless cannot entirely hinder the act of charity. And the same holds good of this sacrament.
-## Whether The Entire Punishment Due To Sin Is Forgiven Through This Sacrament?
+### Whether The Entire Punishment Due To Sin Is Forgiven Through This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the entire punishment due to sin is forgiven through this sacrament. For through this sacrament man receives the effect of Christ's Passion within himself as stated above ([4625]AA[1],2), just as he does through Baptism. But through Baptism man receives forgiveness of all punishment, through the virtue of Christ's Passion, which satisfied sufficiently for all sins, as was explained above (Q[69], A[2] ). Therefore it seems the whole debt of punishment is forgiven through this sacrament.
 
@@ -127,7 +127,7 @@ Objection 2: Further, Pope Alexander I says (Ep. ad omnes orth.): "No sacrifice 
 
 Objection 3: Further, it is certain that some part of the debt of punishment is forgiven by this sacrament; for which reason it is sometimes enjoined upon a man, by way of satisfaction, to have masses said for himself. But if one part of the punishment is forgiven, for the same reason is the other forgiven: owing to Christ's infinite power contained in this sacrament. Consequently, it seems that the whole punishment can be taken away by this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, In that case no other punishment would have to be enjoined; just as none is imposed upon the newly baptized.
 
@@ -137,16 +137,16 @@ If, then, it be considered as a sacrament, it produces its effect in two ways: f
 
 But in so far as it is a sacrifice, it has a satisfactory power. Yet in satisfaction, the affection of the offerer is weighed rather than the quantity of the offering. Hence our Lord says (Mk. 12:43: cf. Lk. 21:4) of the widow who offered "two mites" that she "cast in more than all." Therefore, although this offering suffices of its own quantity to satisfy for all punishment, yet it becomes satisfactory for them for whom it is offered, or even for the offerers, according to the measure of their devotion, and not for the whole punishment.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The sacrament of Baptism is directly ordained for the remission of punishment and guilt: not so the Eucharist, because Baptism is given to man as dying with Christ, whereas the Eucharist is given as by way of nourishing and perfecting him through Christ. Consequently there is no parallel.
 
 Reply to Objection 2: Those other sacrifices and oblations did not effect the forgiveness of the whole punishment, neither as to the quantity of the thing offered, as this sacrament does, nor as to personal devotion; from which it comes to pass that even here the whole punishment is not taken away.
 
 Reply to Objection 3: If part of the punishment and not the whole be taken away by this sacrament, it is due to a defect not on the part of Christ's power, but on the part of man's devotion.
-## Whether Man Is Preserved By This Sacrament From Future Sins?
+### Whether Man Is Preserved By This Sacrament From Future Sins?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that man is not preserved by this sacrament from future sins. For there are many that receive this sacrament worthily, who afterwards fall into sin. Now this would not happen if this sacrament were to preserve them from future sins. Consequently, it is not an effect of this sacrament to preserve from future sins.
 
@@ -154,7 +154,7 @@ Objection 2: Further, the Eucharist is the sacrament of charity, as stated above
 
 Objection 3: Further, the origin of sin within us is "the law of sin, which is in our members," as declared by the Apostle (Rom. 7:23). But the lessening of the fomes, which is the law of sin, is set down as an effect not of this sacrament, but rather of Baptism. Therefore preservation from sin is not an effect of this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, our Lord said (Jn. 6:50): "This is the bread which cometh down from heaven; that if any man eat of it, he may not die": which manifestly is not to be understood of the death of the body. Therefore it is to be understood that this sacrament preserves from spiritual death, which is through sin.
 
@@ -162,16 +162,16 @@ I answer that, Sin is the spiritual death of the soul. Hence man is preserved fr
 
 Now this sacrament preserves man from sin in both of these ways. For, first of all, by uniting man with Christ through grace, it strengthens his spiritual life, as spiritual food and spiritual medicine, according to Ps. 103:5: "(That) bread strengthens [Vulg.: 'may strengthen'] man's heart." Augustine likewise says (Tract. xxvi in Joan.): "Approach without fear; it is bread, not poison." Secondly, inasmuch as it is a sign of Christ's Passion, whereby the devils are conquered, it repels all the assaults of demons. Hence Chrysostom says (Hom. xlvi in Joan.): "Like lions breathing forth fire, thus do we depart from that table, being made terrible to the devil."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The effect of this sacrament is received according to man's condition: such is the case with every active cause in that its effect is received in matter according to the condition of the matter. But such is the condition of man on earth that his free-will can be bent to good or evil. Hence, although this sacrament of itself has the power of preserving from sin, yet it does not take away from man the possibility of sinning.
 
 Reply to Objection 2: Even charity of itself keeps man from sin, according to Rom. 13:10: "The love of our neighbor worketh no evil": but it is due to the mutability of free-will that a man sins after possessing charity, just as after receiving this sacrament.
 
 Reply to Objection 3: Although this sacrament is not ordained directly to lessen the fomes, yet it does lessen it as a consequence, inasmuch as it increases charity, because, as Augustine says ([4629]Q[83]), "the increase of charity is the lessening of concupiscence." But it directly strengthens man's heart in good; whereby he is also preserved from sin.
-## Whether This Sacrament Benefit Others Besides The Recipients?
+### Whether This Sacrament Benefit Others Besides The Recipients?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that this sacrament benefits only the recipients. For this sacrament is of the same genus as the other sacraments, being one of those into which that genus is divided. But the other sacraments only benefit the recipients; thus the baptized person alone receives effect of Baptism. Therefore, neither does this sacrament benefit others than the recipients.
 
@@ -179,7 +179,7 @@ Objection 2: Further, the effects of this sacrament are the attainment of grace 
 
 Objection 3: Further, when the cause is multiplied, the effect is likewise multiplied. If therefore this sacrament benefit others besides the recipients, it would follow that it benefits a man more if he receive this sacrament through many hosts being consecrated in one mass, whereas this is not the Church's custom: for instance, that many receive communion for the salvation of one individual. Consequently, it does not seem that this sacrament benefits anyone but the recipient.
 
-### Answer
+**Answer**
 
 On the contrary, Prayer is made for many others during the celebration of this sacrament; which would serve no purpose were the sacrament not beneficial to others. Therefore, this sacrament is beneficial not merely to them who receive it.
 
@@ -187,16 +187,16 @@ I answer that, As stated above [4630](A[3]), this sacrament is not only a sacram
 
 But to others who do not receive it, it is beneficial by way of sacrifice, inasmuch as it is offered for their salvation. Hence it is said in the Canon of the Mass: "Be mindful, O Lord, of Thy servants, men and women . . . for whom we offer, or who offer up to Thee, this sacrifice of praise for themselves and for all their own, for the redemption of their souls, for the hope of their safety and salvation." And our Lord expressed both ways, saying (Mat. 26:28, with Lk. 22:20): "Which for you," i.e. who receive it, "and for many," i.e. others, "shall be shed unto remission of sins."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This sacrament has this in addition to the others, that it is a sacrifice: and therefore the comparison fails.
 
 Reply to Objection 2: As Christ's Passion benefits all, for the forgiveness of sin and the attaining of grace and glory, whereas it produces no effect except in those who are united with Christ's Passion through faith and charity, so likewise this sacrifice, which is the memorial of our Lord's Passion, has no effect except in those who are united with this sacrament through faith and charity. Hence Augustine says to Renatus (De Anima et ejus origine i): "Who may offer Christ's body except for them who are Christ's members?" Hence in the Canon of the Mass no prayer is made for them who are outside the pale of the Church. But it benefits them who are members, more or less, according to the measure of their devotion.
 
 Reply to Objection 3: Receiving is of the very nature of the sacrament, but offering belongs to the nature of sacrifice: consequently, when one or even several receive the body of Christ, no help accrues to others. In like fashion even when the priest consecrates several hosts in one mass, the effect of this sacrament is not increased, since there is only one sacrifice; because there is no more power in several hosts than in one, since there is only one Christ present under all the hosts and under one. Hence, neither will any one receive greater effect from the sacrament by taking many consecrated hosts in one mass. But the oblation of the sacrifice is multiplied in several masses, and therefore the effect of the sacrifice and of the sacrament is multiplied.
-## Whether The Effect Of This Sacrament Is Hindered By Venial Sin?
+### Whether The Effect Of This Sacrament Is Hindered By Venial Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the effect of this sacrament is not hindered by venial sin. For Augustine (Tract. xxvi in Joan.), commenting on Jn. 6:52, "If any man eat of this bread," etc., says: "Eat the heavenly bread spiritually; bring innocence to the altar; your sins, though they be daily, let them not be deadly." From this it is evident that venial sins, which are called daily sins, do not prevent spiritual eating. But they who eat spiritually, receive the effect of this sacrament. Therefore, venial sins do not hinder the effect of this sacrament.
 
@@ -204,13 +204,13 @@ Objection 2: Further, this sacrament is not less powerful than Baptism. But, as 
 
 Objection 3: Further, nothing which is removed by the action of any cause, can hinder the effect of such cause. But venial sins are taken away by this sacrament. Therefore, they do not hinder its effect.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iv): "The fire of that desire which is within us, being kindled by the burning coal," i.e. this sacrament, "will consume our sins, and enlighten our hearts, so that we shall be inflamed and made godlike." But the fire of our desire or love is hindered by venial sins, which hinder the fervor of charity, as was shown in the [4632]FS, Q[81], A[4]; [4633]SS, Q[24], A[10]. Therefore venial sins hinder the effect of this sacrament.
 
 I answer that, Venial sins can be taken in two ways: first of all as past, secondly as in the act of being committed. Venial sins taken in the first way do not in any way hinder the effect of this sacrament. For it can come to pass that after many venial sins a man may approach devoutly to this sacrament and fully secure its effect. Considered in the second way venial sins do not utterly hinder the effect of this sacrament, but merely in part. For, it has been stated above [4634](A[1]), that the effect of this sacrament is not only the obtaining of habitual grace or charity, but also a certain actual refreshment of spiritual sweetness: which is indeed hindered if anyone approach to this sacrament with mind distracted through venial sins; but the increase of habitual grace or of charity is not taken away.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He that approaches this sacrament with actual venial sin, eats spiritually indeed, in habit but not in act: and therefore he shares in the habitual effect of the sacrament, but not in its actual effect.
 

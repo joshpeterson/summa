@@ -9,9 +9,9 @@ We must now consider those things that pertain to the state of perfection wheret
 (6) Whether all prelates are in the state of perfection?
 (7) Which is the more perfect, the episcopal or the religious state?
 (8) The comparison between religious and parish priests and archdeacons.
-## Whether The Perfection Of The Christian Life Consists Chiefly In Charity?
+### Whether The Perfection Of The Christian Life Consists Chiefly In Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the perfection of the Christian life does not consist chiefly in charity. For the Apostle says (1 Cor. 14:20): "In malice be children, but in sense be perfect." But charity regards not the senses but the affections. Therefore it would seem that the perfection of the Christian life does not chiefly consist in charity.
 
@@ -19,22 +19,22 @@ Objection 2: Further,'it is written (Eph. 6:13): "Take unto you the armor of God
 
 Objection 3: Further, virtues like other habits, are specified by their acts. Now it is written (James 1:4) that "patience hath a perfect work." Therefore seemingly the state of perfection consists more specially in patience.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Col. 3:14): "Above all things have charity, which is the bond of perfection," because it binds, as it were, all the other virtues together in perfect unity.
 
 I answer that, A thing is said to be perfect in so far as it attains its proper end, which is the ultimate perfection thereof. Now it is charity that unites us to God, Who is the last end of the human mind, since "he that abideth in charity abideth in God, and God in him" (1 Jn. 4:16). Therefore the perfection of the Christian life consists radically in charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The perfection of the human senses would seem to consist chiefly in their concurring together in the unity of truth, according to 1 Cor. 1:10, "That you be perfect in the same mind [sensu], and in the same judgment." Now this is effected by charity which operates consent in us men. Wherefore even the perfection of the senses consists radically in the perfection of charity.
 
 Reply to Objection 2: A man may be said to be perfect in two ways. First, simply: and this perfection regards that which belongs to a thing's nature, for instance an animal may be said to be perfect when it lacks nothing in the disposition of its members and in such things as are necessary for an animal's life. Secondly, a thing is said to be perfect relatively: and this perfection regards something connected with the thing externally, such as whiteness or blackness or something of the kind. Now the Christian life consists chiefly in charity whereby the soul is united to God; wherefore it is written (1 Jn. 3:14): "He that loveth not abideth in death." Hence the perfection of the Christian life consists simply in charity, but in the other virtues relatively. And since that which is simply, is paramount and greatest in comparison with other things, it follows that the perfection of charity is paramount in relation to the perfection that regards the other virtues.
 
 Reply to Objection 3: Patience is stated to have a perfect work in relation to charity, in so far as it is an effect of the abundance of charity that a man bears hardships patiently, according to Rom. 8:35, "Who . . . shall separate us from the love of Christ? Shall tribulation? Or distress?" etc.
-## Whether Any One Can Be Perfect In This Life?
+### Whether Any One Can Be Perfect In This Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that none can be perfect in this life. For the Apostle says (1 Cor. 13:10): "When that which is perfect is come, that which is in part shall be done away." Now in this life that which is in part is not done away; for in this life faith and hope, which are in part, remain. Therefore none can be perfect in this life.
 
@@ -42,7 +42,7 @@ Objection 2: Further, "The perfect is that which lacks nothing" (Phys. iii, 6). 
 
 Objection 3: Further, the perfection of the Christian life, as stated [3754](A[1]), relates to charity, which comprises the love of God and of our neighbor. Now, neither as to the love of God can one have perfect charity in this life, since according to Gregory (Hom. xiv in Ezech.) "the furnace of love which begins to burn here, will burn more fiercely when we see Him Whom we love"; nor as to the love of our neighbor, since in this life we cannot love all our neighbors actually, even though we love them habitually; and habitual love is imperfect. Therefore it seems that no one can be perfect in this life.
 
-### Answer
+**Answer**
 
 On the contrary, The Divine law does not prescribe the impossible. Yet it prescribes perfection according to Mat. 5:48, "Be you . . . perfect, as also your heavenly Father is perfect." Therefore seemingly one can be perfect in this life.
 
@@ -52,16 +52,16 @@ Another perfection answers to an absolute totality on the part of the lover, so 
 
 The third perfection answers to a totality neither on the part of the object served, nor on the part of the lover as regards his always actually tending to God, but on the part of the lover as regards the removal of obstacles to the movement of love towards God, in which sense Augustine says (QQ. LXXXIII, qu. 36) that "carnal desire is the bane of charity; to have no carnal desires is the perfection of charity." Such perfection as this can be had in this life, and in two ways. First, by the removal from man's affections of all that is contrary to charity, such as mortal sin; and there can be no charity apart from this perfection, wherefore it is necessary for salvation. Secondly, by the removal from man's affections not only of whatever is contrary to charity, but also of whatever hinders the mind's affections from tending wholly to God. Charity is possible apart from this perfection, for instance in those who are beginners and in those who are proficient.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle is speaking there of heavenly perfection which is not possible to those who are on the way.
 
 Reply to Objection 2: Those who are perfect in this life are said to "offend in many things" with regard to venial sins, which result from the weakness of the present life: and in this respect they have an "imperfect being" in comparison with the perfection of heaven.
 
 Reply to Objection 3: As the conditions of the present life do not allow of a man always tending actually to God, so neither does it allow of his tending actually to each individual neighbor; but it suffices for him to tend to all in common and collectively, and to each individual habitually and according to the preparedness of his mind. Now in the love of our neighbor, as in the love of God we may observe a twofold perfection: one without which charity is impossible, and consisting in one's having in one's affections nothing that is contrary to the love of one's neighbor; and another without which it is possible to have charity. The latter perfection may be considered in three ways. First, as to the extent of love, through a man loving not only his friends and acquaintances but also strangers and even his enemies, for as Augustine says (Enchiridion lxxiii) this is a mark of the perfect children of God. Secondly, as to the intensity of love, which is shown by the things which man despises for his neighbor's sake, through his despising not only external goods for the sake of his neighbor, but also bodily hardships and even death, according to Jn. 15:13, "Greater love than this no man hath, that a man lay down his life for his friends." Thirdly, as to the effect of love, so that a man will surrender not only temporal but also spiritual goods and even himself, for his neighbor's sake, according to the words of the Apostle (2 Cor. 12:15), "But I most gladly will spend and be spent myself for your souls."
-## Whether, In This Life, Perfection Consists In The Observance Of The Commandments Or Of The Counsels?
+### Whether, In This Life, Perfection Consists In The Observance Of The Commandments Or Of The Counsels?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that, in this life, perfection consists in the observance not of the commandments but of the counsels. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast, and give to the poor . . . and come, follow Me." Now this is a counsel. Therefore perfection regards the counsels and not the precepts.
 
@@ -69,7 +69,7 @@ Objection 2: Further, all are bound to the observance of the commandments, since
 
 Objection 3: Further, the perfection of the Christian life is gauged according to charity, as stated above [3756](A[1]). Now the perfection of charity, seemingly, does not consist in the observance of the commandments, since the perfection of charity is preceded both by its increase and by its beginning, as Augustine says (Super Canonic. Joan. Tract. ix). But the beginning of charity cannot precede the observance of the commandments, since according to Jn. 14:23, "If any one love Me, he will keep My word." Therefore the perfection of life regards not the commandments but the counsels.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 6:5): "Thou shalt love the Lord thy God with thy whole heart," and (Lev. 19:18): "Thou shalt love thy neighbor [Vulg.: 'friend'] as thyself"; and these are the commandments of which our Lord said (Mat. 22:40): "On these two commandments dependeth the whole law and the prophets." Now the perfection of charity, in respect of which the Christian life is said to be perfect, consists in our loving God with our whole heart, and our neighbor as ourselves. Therefore it would seem that perfection consists in the observance of the precepts.
 
@@ -77,16 +77,16 @@ I answer that, Perfection is said to consist in a thing in two ways: in one way,
 
 Secondarily and instrumentally, however, perfection consists in the observance of the counsels, all of which, like the commandments, are directed to charity; yet not in the same way. For the commandments, other than the precepts of charity, are directed to the removal of things contrary to charity, with which, namely, charity is incompatible, whereas the counsels are directed to the removal of things that hinder the act of charity, and yet are not contrary to charity, such as marriage, the occupation of worldly business, and so forth. Hence Augustine says (Enchiridion cxxi): "Whatever things God commands, for instance, 'Thou shalt not commit adultery,' and whatever are not commanded, yet suggested by a special counsel, for instance, 'It is good for a man not to touch a woman,' are then done aright when they are referred to the love of God, and of our neighbor for God's sake, both in this world and in the world to come." Hence it is that in the Conferences of the Fathers (Coll. i, cap. vii) the abbot Moses says: "Fastings, watchings, meditating on the Scriptures, penury and loss of all one's wealth, these are not perfection but means to perfection, since not in them does the school of perfection find its end, but through them it achieves its end," and he had already said that "we endeavor to ascend by these steps to the perfection of charity."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In this saying of our Lord something is indicated as being the way to perfection by the words, "Go, sell all thou hast, and give to the poor"; and something else is added wherein perfection consists, when He said, "And follow Me." Hence Jerome in his commentary on Mat. 19:27, says that "since it is not enough merely to leave, Peter added that which is perfect: 'And have followed Thee'"; and Ambrose, commenting on Lk. 5:27, "Follow Me," says: "He commands him to follow, not with steps of the body, but with devotion of the soul, which is the effect of charity." Wherefore it is evident from the very way of speaking that the counsels are means of attaining to perfection, since it is thus expressed: "If thou wilt be perfect, go, sell," etc., as though He said: "By so doing thou shalt accomplish this end."
 
 Reply to Objection 2: As Augustine says (De Perf. Justit. viii) "the perfection of charity is prescribed to man in this life, because one runs not right unless one knows whither to run. And how shall we know this if no commandment declares it to us?" And since that which is a matter of precept can be fulfilled variously, one does not break a commandment through not fulfilling it in the best way, but it is enough to fulfil it in any way whatever. Now the perfection of Divine love is a matter of precept for all without exception, so that even the perfection of heaven is not excepted from this precept, as Augustine says (De Perf. Justit. viii [*Cf. De Spir. et Lit. XXXVI]), and one escapes transgressing the precept, in whatever measure one attains to the perfection of Divine love. The lowest degree of Divine love is to love nothing more than God, or contrary to God, or equally with God, and whoever fails from this degree of perfection nowise fulfils the precept. There is another degree of the Divine love, which cannot be fulfilled so long as we are on the way, as stated above [3757](A[2]), and it is evident that to fail from this is not to be a transgressor of the precept; and in like manner one does not transgress the precept, if one does not attain to the intermediate degrees of perfection, provided one attain to the lowest.
 
 Reply to Objection 3: Just as man has a certain perfection of his nature as soon as he is born, which perfection belongs to the very essence of his species, while there is another perfection which he acquires by growth, so again there is a perfection of charity which belongs to the very essence of charity, namely that man love God above all things, and love nothing contrary to God, while there is another perfection of charity even in this life, whereto a man attains by a kind of spiritual growth, for instance when a man refrains even from lawful things, in order more freely to give himself to the service of God.
-## Whether Whoever Is Perfect Is In The State Of Perfection?
+### Whether Whoever Is Perfect Is In The State Of Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that whoever is perfect is in the state of perfection. For, as stated above (A[3], ad 3), just as bodily perfection is reached by bodily growth, so spiritual perfection is acquired by spiritual growth. Now after bodily growth one is said to have reached the state of perfect age. Therefore seemingly also after spiritual growth, when one has already reached spiritual perfection, one is in the state of perfection.
 
@@ -94,7 +94,7 @@ Objection 2: Further, according to Phys. v, 2, movement "from one contrary to an
 
 Objection 3: Further, a man acquires a state by being freed from servitude. But one is freed from the servitude of sin by charity, because "charity covereth all sins" (Prov. 10:12). Now one is said to be perfect on account of charity, as stated above [3758](A[1]). Therefore, seemingly, whoever has perfection, for this very reason has the state of perfection.
 
-### Answer
+**Answer**
 
 On the contrary, Some are in the state of perfection, who are wholly lacking in charity and grace, for instance wicked bishops or religious. Therefore it would seem that on the other hand some have the perfection of life, who nevertheless have not the state of perfection.
 
@@ -104,16 +104,16 @@ Now it must be observed, that so far as men are concerned, in order that any one
 
 Accordingly, properly speaking, one is said to be in the state of perfection, not through having the act of perfect love, but through binding himself in perpetuity and with a certain solemnity to those things that pertain to perfection. Moreover it happens that some persons bind themselves to that which they do not keep, and some fulfil that to which they have not bound themselves, as in the case of the two sons (Mat. 21:28, 30), one of whom when his father said: "Work in my vineyard," answered: "I will not," and "afterwards . . . he went," while the other "answering said: I go . . . and he went not." Wherefore nothing hinders some from being perfect without being in the state of perfection, and some in the state of perfection without being perfect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: By bodily growth a man progresses in things pertaining to nature, wherefore he attains to the state of nature; especially since "what is according to nature is," in a way, "unchangeable" [*Ethic. v, 7], inasmuch as nature is determinate to one thing. In like manner by inward spiritual growth a man reaches the state of perfection in relation to the Divine judgment. But as regards the distinctions of ecclesiastical states, a man does not reach the state of perfection except by growth in respect of external actions.
 
 Reply to Objection 2: This argument also regards the interior state. Yet when a man passes from sin to grace, he passes from servitude to freedom; and this does not result from a mere progress in grace, except when a man binds himself to things pertaining to grace.
 
 Reply to Objection 3: Again this argument considers the interior state. Nevertheless, although charity causes the change of condition from spiritual servitude to spiritual freedom, an increase of charity has not the same effect.
-## Whether Religious And Prelates Are In The State Of Perfection?
+### Whether Religious And Prelates Are In The State Of Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that prelates and religious are not in the state of perfection. For the state of perfection differs from the state of the beginners and the proficient. Now no class of men is specially assigned to the state of the proficient or of the beginners. Therefore it would seem that neither should any class of men be assigned to the state of perfection.
 
@@ -121,7 +121,7 @@ Objection 2: Further, the outward state should answer to the inward, else one is
 
 Objection 3: Further, as stated above [3761](A[1]), perfection is measured according to charity. Now the most perfect charity would seem to be in the martyrs, according to Jn. 15:13, "Greater love than this no man hath, that a man lay down his life for his friends": and a gloss on Heb. 12:4, "For you have not yet resisted unto blood," says: "In this life no love is more perfect than that to which the holy martyrs attained, who strove against sin even unto blood." Therefore it would seem that the state of perfection should be ascribed to the martyrs rather than to religious and bishops.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius (Eccl. Hier. v) ascribes perfection to bishops as being perfecters, and (Eccl. Hier. vi) to religious (whom he calls monks or {therapeutai}, i.e. servants of God) as being perfected.
 
@@ -129,16 +129,16 @@ I answer that, As stated above [3762](A[4]), there is required for the state of 
 
 In like manner bishops bind themselves to things pertaining to perfection when they take up the pastoral duty, to which it belongs that a shepherd "lay down his life for his sheep," according to Jn. 10:15. Wherefore the Apostle says (1 Tim. 6:12): "Thou . . . hast confessed a good confession before many witnesses," that is to say, "when he was ordained," as a gloss says on this passage. Again, a certain solemnity of consecration is employed together with the aforesaid profession, according to 2 Tim. 1:6: "Stir up the grace of God which is in thee by the imposition of my hands," which the gloss ascribes to the grace of the episcopate. And Dionysius says (Eccl. Hier. v) that "when the high priest," i.e. the bishop, "is ordained, he receives on his head the most holy imposition of the sacred oracles, whereby it is signified that he is a participator in the whole and entire hierarchical power, and that not only is he the enlightener in all things pertaining to his holy discourses and actions, but that he also confers this on others."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Beginning and increase are sought not for their own sake, but for the sake of perfection; hence it is only to the state of perfection that some are admitted under certain obligations and with solemnity.
 
 Reply to Objection 2: Those who enter the state of perfection do not profess to be perfect, but to tend to perfection. Hence the Apostle says (Phil. 3:12): "Not as though I had already attained, or were already perfect; but I follow after, if I may by any means apprehend": and afterwards (Phil. 3:15): "Let us therefore as many as are perfect, be thus minded." Hence a man who takes up the state of perfection is not guilty of lying or deceit through not being perfect, but through withdrawing his mind from the intention of reaching perfection.
 
 Reply to Objection 3: Martyrdom is the most perfect act of charity. But an act of perfection does not suffice to make the state of perfection, as stated above [3763](A[4]).
-## Whether All Ecclesiastical Prelates Are In The State Of Perfection?
+### Whether All Ecclesiastical Prelates Are In The State Of Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all ecclesiastical prelates are in a state of perfection. For Jerome commenting on Titus 1:5, "Ordain . . . in every city," etc. says: "Formerly priest was the same as bishop," and afterwards he adds: "Just as priests know that by the custom of the Church they are subject to the one who is placed over them, so too, bishops should recognize that, by custom rather than by the very ordinance of our Lord, they are above the priests, and are together the rightful governors of the Church." Now bishops are in the state of perfection. Therefore those priests also are who have the cure of souls.
 
@@ -146,7 +146,7 @@ Objection 2: Further, just as bishops together with their consecration receive t
 
 Objection 3: Further, just as bishops are bound to "lay down their life for their sheep," so too are parish priests and archdeacons. But this belongs to the perfection of charity, as stated above (A[2], ad 3). Therefore it would seem that parish priests and archdeacons also are in the state of perfection.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Eccl. Hier. v): "The order of pontiffs is consummative and perfecting, that of the priests is illuminative and light-giving, that of the ministers is cleansing and discretive." Hence it is evident that perfection is ascribed to bishops only.
 
@@ -154,16 +154,16 @@ I answer that, In priests and deacons having cure of souls two things may be con
 
 In like manner, neither are they placed in the state of perfection on the part of the cure which they take upon themselves. For they are not bound by this very fact under the obligation of a perpetual vow to retain the cure of souls; but they can surrender it---either by entering religion, even without their bishop's permission (cf. Decret. xix, qu. 2, can. Duae sunt)---or again an archdeacon may with his bishop's permission resign his arch-deaconry or parish, and accept a simple prebend without cure, which would be nowise lawful, if he were in the state of perfection; for "no man putting his hand to the plough and looking back is fit for the kingdom of God" (Lk. 9:62). On the other hand bishops, since they are in the state of perfection, cannot abandon the episcopal cure, save by the authority of the Sovereign Pontiff (to whom alone it belongs also to dispense from perpetual vows), and this for certain causes, as we shall state further on ([3766]Q[185], A[4]). Wherefore it is manifest that not all prelates are in the state of perfection, but only bishops.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We may speak of priest and bishop in two ways. First, with regard to the name: and thus formerly bishops and priests were not distinct. For bishops are so called "because they watch over others," as Augustine observes (De Civ. Dei xix, 19); while the priests according to the Greek are "elders." [*Referring to the Greek {episkopos} and {presbyteros} from which the English 'bishop' and 'priest' are derived.] Hence the Apostle employs the term "priests" in reference to both, when he says (1 Tim. 5:17): "Let the priests that rule well be esteemed worthy of double honor"; and again he uses the term "bishops" in the same way, wherefore addressing the priests of the Church of Ephesus he says (Acts 20:28): "Take heed to yourselves" and "to the whole flock, wherein the Holy Ghost hath placed you bishops, to rule the church of God."
 
 Reply to Objection 2: Bishops have the chief cure of the sheep of their diocese, while parish priests and archdeacons exercise an inferior ministry under the bishops. Hence a gloss on 1 Cor. 12:28, "to one, helps, to another, governments [*Vulg.: 'God hath set some in the church . . . helps, governments,' etc.]," says: "Helps, namely assistants to those who are in authority," as Titus was to the Apostle, or as archdeacons to the bishop; "governments, namely persons of lesser authority, such as priests who have to instruct the people": and Dionysius says (Eccl. Hier. v) that "just as we see the whole hierarchy culminating in Jesus, so each office culminates in its respective godlike hierarch or bishop." Also it is said (XVI, qu. i, can. Cunctis): "Priests and deacons must all take care not to do anything without their bishop's permission." Wherefore it is evident that they stand in relation to their bishop as wardens or mayors to the king; and for this reason, just as in earthly governments the king alone receives a solemn blessing, while others are appointed by simple commission, so too in the Church the episcopal cure is conferred with the solemnity of consecration, while the archdeacon or parish priest receives his cure by simple appointment; although they are consecrated by receiving orders before having a cure.
 
 Reply to Objection 3: As parish priests and archdeacons have not the chief cure, but a certain ministry as committed to them by the bishop, so the pastoral office does not belong to them in chief, nor are they bound to lay down their life for the sheep, except in so far as they have a share in their cure. Hence we should say that they have an office pertaining to perfection rather than that they attain the state of perfection.
-## Whether The Religious State Is More Perfect Than That Of Prelates?
+### Whether The Religious State Is More Perfect Than That Of Prelates?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the religious state is more perfect than that of prelates. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go" and "sell" all [Vulg.: 'what'] "thou hast, and give to the poor"; and religious do this. But bishops are not bound to do so; for it is said (XII, qu. i, can. Episcopi de rebus): "Bishops, if they wish, may bequeath to their heirs their personal or acquired property, and whatever belongs to them personally." Therefore religious are in a more perfect state than bishops.
 
@@ -171,22 +171,22 @@ Objection 2: Further, perfection consists more especially in the love of God tha
 
 Objection 3: Further, the religious state is directed to the contemplative life, which is more excellent than the active life to which the episcopal state is directed. For Gregory says (Pastor. i, 7) that "Isaias wishing to be of profit to his neighbor by means of the active life desired the office of preaching, whereas Jeremias, who was fain to hold fast to the love of his Creator, exclaimed against being sent to preach." Therefore it would seem that the religious state is more perfect than the episcopal state.
 
-### Answer
+**Answer**
 
 On the contrary, It is not lawful for anyone to pass from a more excellent to a less excellent state; for this would be to look back [*Cf. Lk. 9:62]. Yet a man may pass from the religious to the episcopal state, for it is said (XVIII, qu. i, can. Statutum) that "the holy ordination makes a monk to be a bishop." Therefore the episcopal state is more perfect than the religious.
 
 I answer that, As Augustine says (Gen. ad lit. xii, 16), "the agent is ever more excellent than the patient." Now in the genus of perfection according to Dionysius (Eccl. Hier. v, vi), bishops are in the position of "perfecters," whereas religious are in the position of being "perfected"; the former of which pertains to action, and the latter to passion. Whence it is evident that the state of perfection is more excellent in bishops than in religious.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Renunciation of one's possessions may be considered in two ways. First, as being actual: and thus it is not essential, but a means, to perfection, as stated above [3767](A[3]). Hence nothing hinders the state of perfection from being without renunciation of one's possessions, and the same applies to other outward practices. Secondly, it may be considered in relation to one's preparedness, in the sense of being prepared to renounce or give away all: and this belongs directly to perfection. Hence Augustine says (De QQ. Evang. ii, qu. 11): "Our Lord shows that the children of wisdom understand righteousness to consist neither in eating nor in abstaining, but in bearing want patiently." Wherefore the Apostle says (Phil. 4:12): "I know . . . both to abound and to suffer need." Now bishops especially are bound to despise all things for the honor of God and the spiritual welfare of their flock, when it is necessary for them to do so, either by giving to the poor of their flock, or by suffering "with joy the being stripped of" their "own goods" [*Heb. 10:34].
 
 Reply to Objection 2: That bishops are busy about things pertaining to the love of their neighbor, arises out of the abundance of their love of God. Hence our Lord asked Peter first of all whether he loved Him, and afterwards committed the care of His flock to him. And Gregory says (Pastor. i, 5): "If the pastoral care is a proof of love, he who refuses to feed God's flock, though having the means to do so, is convicted of not loving the supreme Pastor." And it is a sign of greater love if a man devotes himself to others for his friend's sake, than if he be willing only to serve his friend.
 
 Reply to Objection 3: As Gregory says (Pastor. ii, 1), "a prelate should be foremost in action, and more uplifted than others in contemplation," because it is incumbent on him to contemplate, not only for his own sake, but also for the purpose of instructing others. Hence Gregory applies (Hom. v in Ezech.) the words of Ps. 144:7, "They shall publish the memory . . . of Thy sweetness," to perfect men returning after their contemplation.
-## Whether Parish Priests And Archdeacons Are More Perfect Than Religious?
+### Whether Parish Priests And Archdeacons Are More Perfect Than Religious?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that also parish priests and archdeacons are more perfect than religious. For Chrysostom says in his Dialogue (De Sacerdot. vi): "Take for example a monk, such as Elias, if I may exaggerate somewhat, he is not to be compared with one who, cast among the people and compelled to carry the sins of many, remains firm and strong." A little further on he says: "If I were given the choice, where would I prefer to please, in the priestly office, or in the monastic solitude, without hesitation I should choose the former." Again in the same book (ch. 5) he says: "If you compare the toils of this project, namely of the monastic life, with a well-employed priesthood, you will find them as far distant from one another as a common citizen is from a king." Therefore it would seem that priests who have the cure of souls are more perfect than religious.
 
@@ -200,7 +200,7 @@ Objection 5: Further, bishops are in a more perfect state than religious, as sho
 
 Objection 6: Further, virtue "is concerned with the difficult and the good" (Ethic. ii, 3). Now it is more difficult to lead a good life in the office of parish priest or archdeacon than in the religious state. Therefore parish priests and archdeacons have more perfect virtue than religious.
 
-### Answer
+**Answer**
 
 On the contrary, It is stated (XIX, qu. ii, cap. Duce): "If a man while governing the people in his church under the bishop and leading a secular life is inspired by the Holy Ghost to desire to work out his salvation in a monastery or under some canonical rule, since he is led by a private law, there is no reason why he should be constrained by a public law." Now a man is not led by the law of the Holy Ghost, which is here called a "private law," except to something more perfect. Therefore it would seem that religious are more perfect than archdeacons or parish priests.
 
@@ -214,7 +214,7 @@ This comparison, however, must be considered as regarding the genus of the deed;
 
 On the other hand, if we consider the difficulty of leading a good life in religion, and in the office of one having the cure of souls, in this way it is more difficult to lead a good life together with the exercise of the cure of souls, on account of outward dangers: although the religious life is more difficult as regards the genus of the deed, by reason of the strictness of religious observance. If, however, the religious is also without orders, as in the case of religious lay brethren, then it is evident that the pre-eminence of order excels in the point of dignity, since by holy orders a man is appointed to the most august ministry of serving Christ Himself in the sacrament of the altar. For this requires a greater inward holiness than that which is requisite for the religious state, since as Dionysius says (Eccl. Hier. vi) the monastic order must follow the priestly orders, and ascend to Divine things in imitation of them. Hence, other things being equal, a cleric who is in holy orders, sins more grievously if he do something contrary to holiness than a religious who is not in holy orders: although a religious who is not in orders is bound to regular observance to which persons in holy orders are not bound.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We might answer briefly these quotations from Chrysostom by saying that he speaks not of a priest of lesser order who has the cure of souls, but of a bishop, who is called a high-priest; and this agrees with the purpose of that book wherein he consoles himself and Basil in that they were chosen to be bishops. We may, however, pass this over and reply that he speaks in view of the difficulty. For he had already said: "When the pilot is surrounded by the stormy sea and is able to bring the ship safely out of the tempest, then he deserves to be acknowledged by all as a perfect pilot"; and afterwards he concludes, as quoted, with regard to the monk, "who is not to be compared with one who, cast among the people . . . remains firm"; and he gives the reason why, because "both in the calm end in the storm he piloted himself to safety." This proves nothing more than that the state of one who has the cure of souls is fraught with more danger than the monastic state; and to keep oneself innocent in face of a greater peril is proof of greater virtue. on the other hand, it also indicates greatness of virtue if a man avoid dangers by entering religion; hence he does not say that "he would prefer the priestly office to the monastic solitude," but that "he would rather please" in the former than in the latter, since this is a proof of greater virtue.
 

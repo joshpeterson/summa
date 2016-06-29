@@ -7,9 +7,9 @@ We must now consider the union on the part of what was assumed. About which we m
 (4) Whether it was becoming that He should assume human nature abstracted from all individuals?
 (5) Whether it was becoming that He should assume human nature in all its individuals?
 (6) Whether it was becoming that He should assume human nature in any man begotten of the stock of Adam?
-## Whether Human Nature Was More Assumable By The Son Of God Than Any Other Nature?
+### Whether Human Nature Was More Assumable By The Son Of God Than Any Other Nature?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that human nature is not more capable of being assumed by the Son of God than any other nature. For Augustine says (Ep. ad Volusianum cxxxvii): "In deeds wrought miraculously the whole reason of the deed is the power of the doer." Now the power of God Who wrought the Incarnation, which is a most miraculous work, is not limited to one nature, since the power of God is infinite. Therefore human nature is not more capable of being assumed than any other creature.
 
@@ -19,13 +19,13 @@ Objection 3: Further, in the angelic nature we find a more perfect likeness than
 
 Objection 4: Further, since the highest perfection belongs to God, the more like to God a thing is, the more perfect it is. But the whole universe is more perfect than its parts, amongst which is human nature. Therefore the whole universe is more capable of being assumed than human nature.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Prov. 8:31) by the mouth of Begotten Wisdom: "My delights were to be with the children of men"; and hence there would seem some fitness in the union of the Son of God with human nature.
 
 I answer that, A thing is said to be assumable as being capable of being assumed by a Divine Person, and this capability cannot be taken with reference to the natural passive power, which does not extend to what transcends the natural order, as the personal union of a creature with God transcends it. Hence it follows that a thing is said to be assumable according to some fitness for such a union. Now this fitness in human nature may be taken from two things, viz. according to its dignity, and according to its need. According to its dignity, because human nature, as being rational and intellectual, was made for attaining to the Word to some extent by its operation, viz. by knowing and loving Him. According to its need---because it stood in need of restoration, having fallen under original sin. Now these two things belong to human nature alone. For in the irrational creature the fitness of dignity is wanting, and in the angelic nature the aforesaid fitness of need is wanting. Hence it follows that only human nature was assumable.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Creatures are said to be "such" with reference to their proper causes, not with reference to what belongs to them from their first and universal causes; thus we call a disease incurable, not that it cannot be cured by God, but that it cannot be cured by the proper principles of the subject. Therefore a creature is said to be not assumable, not as if we withdrew anything from the power of God, but in order to show the condition of the creature, which has no capability for this.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: The likeness of image is found in human nature, forasmuch 
 Reply to Objection 3: Some say that angels are not assumable, since they are perfect in their personality from the beginning of their creation, inasmuch as they are not subject to generation and corruption; hence they cannot be assumed to the unity of a Divine Person, unless their personality be destroyed, and this does not befit the incorruptibility of their nature nor the goodness of the one assuming, to Whom it does not belong to corrupt any perfection in the creature assumed. But this would not seem totally to disprove the fitness of the angelic nature for being assumed. For God by producing a new angelic nature could join it to Himself in unity of Person, and in this way nothing pre-existing would be corrupted in it. But as was said above, there is wanting the fitness of need, because, although the angelic nature in some is the subject of sin, their sin is irremediable, as stated above ([3897]FP, Q[64], A[2]).
 
 Reply to Objection 4: The perfection of the universe is not the perfection of one person or suppositum, but of something which is one by position or order, whereof very many parts are not capable of assumption, as was said above. Hence it follows that only human nature is capable of being assumed.
-## Whether The Son Of God Assumed A Person?
+### Whether The Son Of God Assumed A Person?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Son of God assumed a person. For Damascene says (De Fide Orth. iii, 11) that the Son of God "assumed human nature 'in atomo,'" i.e. in an individual. But an individual in rational nature is a person, as is plain from Boethius (De Duab. Nat.). Therefore the Son of God assumed a person.
 
@@ -44,22 +44,22 @@ Objection 2: Further, Damascene says (De Fide Orth. iii, 6) that the Son of God 
 
 Objection 3: Further, nothing is absorbed unless it exist. But Innocent III [*Paschas. Diac., De Spiritu Sanct. ii] says in a Decretal that "the Person of God absorbed the person of man." Therefore it would seem that the person of man existed previous to its being assumed.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine [*Fulgentius] says (De Fide ad Petrum ii) that "God assumed the nature, not the person, of man."
 
 I answer that, A thing is said to be assumed inasmuch as it is taken into another. Hence, what is assumed must be presupposed to the assumption, as what is moved locally is presupposed to the motion. Now a person in human nature is not presupposed to assumption; rather, it is the term of the assumption, as was said ([3898]Q[3], AA[1],2). For if it were presupposed, it must either have been corrupted---in which case it was useless; or it remains after the union---and thus there would be two persons, one assuming and the other assumed, which is false, as was shown above ([3899]Q[2], A[6]). Hence it follows that the Son of God nowise assumed a human person.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Son of God assumed human nature "in atomo," i.e. in an individual, which is no other than the uncreated suppositum, the Person of the Son of God. Hence it does not follow that a person was assumed.
 
 Reply to Objection 2: Its proper personality is not wanting to the nature assumed through the loss of anything pertaining to the perfection of the human nature but through the addition of something which is above human nature, viz. the union with a Divine Person.
 
 Reply to Objection 3: Absorption does not here imply the destruction of anything pre-existing, but the hindering what might otherwise have been. For if the human nature had not been assumed by a Divine Person, the human nature would have had its own personality; and in this way is it said, although improperly, that the Person "absorbed the person," inasmuch as the Divine Person by His union hindered the human nature from having its personality.
-## Whether The Divine Person Assumed A Man?
+### Whether The Divine Person Assumed A Man?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Divine Person assumed a man. For it is written (Ps. 64:5): "Blessed is he whom Thou hast chosen and taken to Thee," which a gloss expounds of Christ; and Augustine says (De Agone Christ. xi): "The Son of God assumed a man, and in him bore things human."
 
@@ -67,22 +67,22 @@ Objection 2: Further, the word "man" signifies a human nature. But the Son of Go
 
 Objection 3: Further, the Son of God is a man. But He is not one of the men He did not assume, for with equal reason He would be Peter or any other man. Therefore He is the man whom He assumed.
 
-### Answer
+**Answer**
 
 On the contrary, Is the authority of Felix, Pope and Martyr, which is quoted by the Council of Ephesus: "We believe in our Lord Jesus Christ, born of the Virgin Mary, because He is the Eternal Son and Word of God, and not a man assumed by God, in such sort that there is another besides Him. For the Son of God did not assume a man, so that there be another besides Him."
 
 I answer that, As has been said above [3900](A[2]), what is assumed is not the term of the assumption, but is presupposed to the assumption. Now it was said (Q[3], AA[1],2) that the individual to Whom the human nature is assumed is none other than the Divine Person, Who is the term of the assumption. Now this word "man" signifies human nature, as it is in a suppositum, because, as Damascene says (De Fide Orth. iii, 4,11), this word God signifies Him Who has human nature. And hence it cannot properly be said that the Son assumed a man, granted (as it must be, in fact) that in Christ there is but one suppositum and one hypostasis. But according to such as hold that there are two hypostases or two supposita in Christ, it may fittingly and properly be said that the Son of God assumed a man. Hence the first opinion quoted in Sent. iii, D. 6, grants that a man was assumed. But this opinion is erroneous, as was said above (Q[2], A[6]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These phrases are not to be taken too literally, but are to be loyally explained, wherever they are used by holy doctors; so as to say that a man was assumed, inasmuch as his nature was assumed; and because the assumption terminated in this---that the Son of God is man.
 
 Reply to Objection 2: The word "man" signifies human nature in the concrete, inasmuch as it is in a suppositum; and hence, since we cannot say a suppositum was assumed, so we cannot say a man was assumed.
 
 Reply to Objection 3: The Son of God is not the man whom He assumed, but the man whose nature He assumed.
-## Whether The Son Of God Ought To Have Assumed Human Nature Abstracted From All Individuals?
+### Whether The Son Of God Ought To Have Assumed Human Nature Abstracted From All Individuals?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Son of God ought to have assumed human nature abstracted from all individuals. For the assumption of human nature took place for the common salvation of all men; hence it is said of Christ (1 Tim. 4:10) that He is "the Saviour of all men, especially of the faithful." But nature as it is in individuals withdraws from its universality. Therefore the Son of God ought to have assumed human nature as it is abstracted from all individuals.
 
@@ -90,7 +90,7 @@ Objection 2: Further, what is noblest in all things ought to be attributed to Go
 
 Objection 3: Further, human nature was not assumed by the Son of God in the concrete as is signified by the word "man," as was said above [3901](A[3]). Now in this way it signifies human nature as it is in individuals, as is plain from what has been said [3902](A[3]). Therefore the Son of God assumed human nature as it is separated from individuals.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iii, 11): "God the Word Incarnate did not assume a nature which exists in pure thought; for this would have been no Incarnation, but a false and fictitious Incarnation." But human nature as it is separated or abstracted from individuals is "taken to be a pure conception, since it does not exist in itself," as Damascene says (De Fide Orth. iii, 11). Therefore the Son of God did not assume human nature, as it is separated from individuals.
 
@@ -98,16 +98,16 @@ I answer that, The nature of man or of any other sensible thing, beyond the bein
 
 Likewise, neither could human nature have been assumed by the Son of God, as it is in the Divine intellect, since it would be none other than the Divine Nature; and, according to this, human nature would be in the Son of God from eternity. Neither can we say that the Son of God assumed human nature as it is in a human intellect, for this would mean nothing else but that He is understood to assume a human nature; and thus if He did not assume it in reality, this would be a false understanding; nor would this assumption of the human nature be anything but a fictitious Incarnation, as Damascene says (De Fide Orth. iii, 11).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The incarnate Son of God is the common Saviour of all, not by a generic or specific community, such as is attributed to the nature separated from the individuals, but by a community of cause, whereby the incarnate Son of God is the universal cause of human salvation.
 
 Reply to Objection 2: Self-existing [per se] man is not to be found in nature in such a way as to be outside the singular, as the Platonists held, although some say Plato believed that the separate man was only in the Divine intellect. And hence it was not necessary for it to be assumed by the Word, since it had been with Him from eternity.
 
 Reply to Objection 3: Although human nature was not assumed in the concrete, as if the suppositum were presupposed to the assumption, nevertheless it is assumed in an individual, since it is assumed so as to be in an individual.
-## Whether The Son Of God Ought To Have Assumed Human Nature In All Individuals?
+### Whether The Son Of God Ought To Have Assumed Human Nature In All Individuals?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Son of God ought to have assumed human nature in all individuals. For what is assumed first and by itself is human nature. But what belongs essentially to a nature belongs to all who exist in the nature. Therefore it was fitting that human nature should be assumed by the Word of God in all its supposita.
 
@@ -115,22 +115,22 @@ Objection 2: Further, the Divine Incarnation proceeded from Divine Love; hence i
 
 Objection 3: Further, a skilful workman completes his work in the shortest manner possible. But it would have been a shorter way if all men had been assumed to the natural sonship than for one natural Son to lead many to the adoption of sons, as is written Gal. 4:5 (cf. Heb. 2:10). Therefore human nature ought to have been assumed by God in all its supposita.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iii, 11) that the Son of God "did not assume human nature as a species, nor did He assume all its hypostases."
 
 I answer that, It was unfitting for human nature to be assumed by the Word in all its supposita. First, because the multitude of supposita of human nature, which are natural to it, would have been taken away. For since we must not see any other suppositum in the assumed nature, except the Person assuming, as was said above [3904](A[3]), if there was no human nature except what was assumed, it would follow that there was but one suppositum of human nature, which is the Person assuming. Secondly, because this would have been derogatory to the dignity of the incarnate Son of God, as He is the First-born of many brethren, according to the human nature, even as He is the First-born of all creatures according to the Divine, for then all men would be of equal dignity. Thirdly, because it is fitting that as one Divine suppositum is incarnate, so He should assume one human nature, so that on both sides unity might be found.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To be assumed belongs to the human nature of itself, because it does not belong to it by reason of a person, as it belongs to the Divine Nature to assume by reason of the Person; not, however, that it belongs to it of itself as if belonging to its essential principles, or as its natural property in which manner it would belong to all its supposita.
 
 Reply to Objection 2: The love of God to men is shown not merely in the assumption of human nature, but especially in what He suffered in human nature for other men, according to Rom. 5:8: "But God commendeth His charity towards us; because when as yet we were sinners . . . Christ died for us," which would not have taken place had He assumed human nature in all its supposita.
 
 Reply to Objection 3: In order to shorten the way, which every skilful workman does, what can be done by one must not be done by many. Hence it was most fitting that by one man all the rest should be saved.
-## Whether It Was Fitting For The Son Of God To Assume Human Nature Of The Stock Of Adam?
+### Whether It Was Fitting For The Son Of God To Assume Human Nature Of The Stock Of Adam?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not fitting for the Son of God to assume human nature of the stock of Adam, for the Apostle says (Heb. 7:26): "For it was fitting that we should have such a high priest . . . separated from sinners." But He would have been still further separated from sinners had He not assumed human nature of the stock of Adam, a sinner. Hence it seems that He ought not to have assumed human nature of the stock of Adam.
 
@@ -138,13 +138,13 @@ Objection 2: Further, in every genus the principle is nobler than what is from t
 
 Objection 3: Further, the Gentiles were greater sinners than the Jews, as a gloss says on Gal. 2:15: "For we by nature are Jews, and not of the Gentiles, sinners." Hence, if He wished to assume human nature from sinners, He ought rather to have assumed it from the Gentiles than from the stock of Abraham, who was just.
 
-### Answer
+**Answer**
 
 On the contrary, (Lk. 3), the genealogy of our Lord is traced back to Adam.
 
 I answer that, As Augustine says (De Trin. xiii, 18): "God was able to assume human nature elsewhere than from the stock of Adam, who by his sin had fettered the whole human race; yet God judged it better to assume human nature from the vanquished race, and thus to vanquish the enemy of the human race." And this for three reasons: First, because it would seem to belong to justice that he who sinned should make amends; and hence that from the nature which he had corrupted should be assumed that whereby satisfaction was to be made for the whole nature. Secondly, it pertains to man's greater dignity that the conqueror of the devil should spring from the stock conquered by the devil. Thirdly, because God's power is thereby made more manifest, since, from a corrupt and weakened nature, He assumed that which was raised to such might and glory.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ ought to be separated from sinners as regards sin, which He came to overthrow, and not as regards nature which He came to save, and in which "it behooved Him in all things to be made like to His brethren," as the Apostle says (Heb. 2:17). And in this is His innocence the more wonderful, seeing that though assumed from a mass tainted by sin, His nature was endowed with such purity.
 

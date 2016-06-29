@@ -3,9 +3,9 @@
 We now consider the espousals of God's Mother: concerning which two points arise for inquiry:
 (1) Whether Christ should have been born of an espoused virgin?
 (2) Whether there was true marriage between our Lord's Mother and Joseph?
-## Whether Christ Should Have Been Born Of An Espoused Virgin?
+### Whether Christ Should Have Been Born Of An Espoused Virgin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ should not have been born of an espoused virgin. For espousals are ordered to carnal intercourse. But our Lord's Mother never wished to have carnal intercourse with her husband; because this would be derogatory to the virginity of her mind. Therefore she should not have been espoused.
 
@@ -15,7 +15,7 @@ Objection 3: Further, the martyr Ignatius, as Jerome says on Mat. 1:18, gives as
 
 Objection 4: Further, Jerome gives as another reason, "lest the Mother of God should be stoned by the Jews as an adulteress." But this reason seems to have no weight, for if she were not espoused, she could not be condemned for adultery. Therefore it does not seem reasonable that Christ should be born of an espoused virgin.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 1:18): "When as His Mother Mary was espoused to Joseph": and (Lk. 1:26,27): "The angel Gabriel was sent . . . to a virgin espoused to a man whose name was Joseph."
 
@@ -43,7 +43,7 @@ Fourthly, because by this the universal Church is typified, which is a virgin an
 
 A fifth reason may be added: since the Mother of the Lord being both espoused and a virgin, both virginity and wedlock are honored in her person, in contradiction to those heretics who disparaged one or the other.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We must believe that the Blessed Virgin, Mother of God, desired, from an intimate inspiration of the Holy Ghost, to be espoused, being confident that by the help of God she would never come to have carnal intercourse: yet she left this to God's discretion. Wherefore she suffered nothing in detriment to her virginity.
 
@@ -52,9 +52,9 @@ Reply to Objection 2: As Ambrose says on Lk. 1:26: "Our Lord preferred that men 
 Reply to Objection 3: As Augustine says (De Trin. iii), the devil can do many things by his natural power which he is hindered by the Divine power from doing. Thus it may be that by his natural power the devil could know that the Mother of God knew not man, but was a virgin; yet was prevented by God from knowing the manner of the Divine Birth. That afterwards the devil after a fashion knew that He was the Son of God, makes no difficulty: because then the time had already come for Christ to make known His power against the devil, and to suffer persecution aroused by him. But during His infancy it behooved the malice of the devil to be withheld, lest he should persecute Him too severely: for Christ did not wish to suffer such things then, nor to make His power known, but to show Himself to be in all things like other infants. Hence Pope Leo (Serm. in Epiph. iv) says that "the Magi found the Child Jesus small in body, dependent on others, unable to speak, and in no way differing from the generality of human infants." Ambrose, however, expounding Lk. 1:26, seems to understand this of the devil's members. For, after giving the above reason---namely, that the prince of the world might be deceived---he continues thus: "Yet still more did He deceive the princes of the world, since the evil disposition of the demons easily discovers even hidden things: but those who spend their lives in worldly vanities can have no acquaintance of Divine things."
 
 Reply to Objection 4: The sentence of adulteresses according to the Law was that they should be stoned, not only if they were already espoused or married, but also if their maidenhood were still under the protection of the paternal roof, until the day when they enter the married state. Thus it is written (Dt. 22:20,21): "If . . . virginity be not found in the damsel . . . the men of the city shall stone her to death, and she shall die; because she hath done a wicked thing in Israel, to play the whore in her father's house."
-## Whether There Was A True Marriage Between Mary And Joseph?
+### Whether There Was A True Marriage Between Mary And Joseph?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there was no true marriage between Mary and Joseph. For Jerome says against Helvidius that Joseph "was Mary's guardian rather than her husband." But if this was a true marriage, Joseph was truly her husband. Therefore there was no true marriage between Mary and Joseph.
 
@@ -62,7 +62,7 @@ Objection 2: Further, on Mat. 1:16: "Jacob begot Joseph the husband of Mary," Je
 
 Objection 3: Further, it is written (Mat. 1:19): "Joseph, her husband, being a just man, and not willing to take her away [*Douay: 'publicly to expose her'], i.e. to take her to his home in order to cohabit with her, was minded to put her away privately, i.e. to postpone the wedding," as Remigius [*Cf. Catena Aurea in Matth.] expounds. Therefore, it seems that, as the wedding was not yet solemnized, there was no true marriage: especially since, after the marriage contract, no one can lawfully put his wife away.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Consensu Evang. ii): "It cannot be allowed that the evangelist thought that Joseph ought to sever his union with Mary" (since he said that Joseph was Mary's husband) "on the ground that in giving birth to Christ, she had not conceived of him, but remained a virgin. For by this example the faithful are taught that if after marriage they remain continent by mutual consent, their union is still and is rightly called marriage, even without intercourse of the sexes."
 
@@ -72,7 +72,7 @@ Thus we may say, as to the first perfection, that the marriage of the Virgin Mot
 
 But as to the second perfection which is attained by the marriage act, if this be referred to carnal intercourse, by which children are begotten; thus this marriage was not consummated. Wherefore Ambrose says on Lk. 1:26,27: "Be not surprised that Scripture calls Mary a wife. The fact of her marriage is declared, not to insinuate the loss of virginity, but to witness to the reality of the union." Nevertheless, this marriage had the second perfection, as to upbringing of the child. Thus Augustine says (De Nup. et Concup. i): "All the nuptial blessings are fulfilled in the marriage of Christ's parents, offspring, faith and sacrament. The offspring we know to have been the Lord Jesus; faith, for there was no adultery: sacrament, since there was no divorce. Carnal intercourse alone there was none."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Jerome uses the term "husband" in reference to marriage consummated.
 

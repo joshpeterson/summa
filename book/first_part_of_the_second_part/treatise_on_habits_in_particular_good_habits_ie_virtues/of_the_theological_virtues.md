@@ -5,9 +5,9 @@ We must now consider the Theological Virtues: under which head there are four po
 (2) Whether the theological virtues are distinct from the intellectual and moral virtues?
 (3) How many, and which are they?
 (4) Of their order.
-## Whether There Are Any Theological Virtues?
+### Whether There Are Any Theological Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are not any theological virtues. For according to Phys. vii, text. 17, "virtue is the disposition of a perfect thing to that which is best: and by perfect, I mean that which is disposed according to nature." But that which is Divine is above man's nature. Therefore the theological virtues are not virtues of a man.
 
@@ -15,22 +15,22 @@ Objection 2: Further, theological virtues are quasi-Divine virtues. But the Divi
 
 Objection 3: Further, the theological virtues are so called because they direct us to God, Who is the first beginning and last end of all things. But by the very nature of his reason and will, man is directed to his first beginning and last end. Therefore there is no need for any habits of theological virtue, to direct the reason and will to God.
 
-### Answer
+**Answer**
 
 On the contrary, The precepts of the Law are about acts of virtue. Now the Divine Law contains precepts about the acts of faith, hope, and charity: for it is written (Ecclus. 2:8, seqq.): "Ye that fear the Lord believe Him," and again, "hope in Him," and again, "love Him." Therefore faith, hope, and charity are virtues directing us to God. Therefore they are theological virtues.
 
 I answer that, Man is perfected by virtue, for those actions whereby he is directed to happiness, as was explained above ([1574]Q[5], A[7]). Now man's happiness is twofold, as was also stated above ([1575]Q[5], A[5]). One is proportionate to human nature, a happiness, to wit, which man can obtain by means of his natural principles. The other is a happiness surpassing man's nature, and which man can obtain by the power of God alone, by a kind of participation of the Godhead, about which it is written (2 Pet. 1:4) that by Christ we are made "partakers of the Divine nature." And because such happiness surpasses the capacity of human nature, man's natural principles which enable him to act well according to his capacity, do not suffice to direct man to this same happiness. Hence it is necessary for man to receive from God some additional principles, whereby he may be directed to supernatural happiness, even as he is directed to his connatural end, by means of his natural principles, albeit not without Divine assistance. Such like principles are called "theological virtues": first, because their object is God, inasmuch as they direct us aright to God: secondly, because they are infused in us by God alone: thirdly, because these virtues are not made known to us, save by Divine revelation, contained in Holy Writ.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A certain nature may be ascribed to a certain thing in two ways. First, essentially: and thus these theological virtues surpass the nature of man. Secondly, by participation, as kindled wood partakes of the nature of fire: and thus, after a fashion, man becomes a partaker of the Divine Nature, as stated above: so that these virtues are proportionate to man in respect of the Nature of which he is made a partaker.
 
 Reply to Objection 2: These virtues are called Divine, not as though God were virtuous by reason of them, but because of them God makes us virtuous, and directs us to Himself. Hence they are not exemplar but exemplate virtues.
 
 Reply to Objection 3: The reason and will are naturally directed to God, inasmuch as He is the beginning and end of nature, but in proportion to nature. But the reason and will, according to their nature, are not sufficiently directed to Him in so far as He is the object of supernatural happiness.
-## Whether The Theological Virtues Are Distinct From The Intellectual And Moral Virtues?
+### Whether The Theological Virtues Are Distinct From The Intellectual And Moral Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the theological virtues are not distinct from the moral and intellectual virtues. For the theological virtues, if they be in a human soul, must needs perfect it, either as to the intellective, or as to the appetitive part. Now the virtues which perfect the intellective part are called intellectual; and the virtues which perfect the appetitive part, are called moral. Therefore, the theological virtues are not distinct from the moral and intellectual virtues.
 
@@ -38,22 +38,22 @@ Objection 2: Further, the theological virtues are those which direct us to God. 
 
 Objection 3: Further, Augustine (De Moribus Eccl. xv) shows how the four cardinal virtues are the "order of love." Now love is charity, which is a theological virtue. Therefore the moral virtues are not distinct from the theological.
 
-### Answer
+**Answer**
 
 On the contrary, That which is above man's nature is distinct from that which is according to his nature. But the theological virtues are above man's nature; while the intellectual and moral virtues are in proportion to his nature, as clearly shown above ([1576]Q[58], A[3]). Therefore they are distinct from one another.
 
 I answer that, As stated above ([1577]Q[54], A[2], ad 1), habits are specifically distinct from one another in respect of the formal difference of their objects. Now the object of the theological virtues is God Himself, Who is the last end of all, as surpassing the knowledge of our reason. On the other hand, the object of the intellectual and moral virtues is something comprehensible to human reason. Wherefore the theological virtues are specifically distinct from the moral and intellectual virtues.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The intellectual and moral virtues perfect man's intellect and appetite according to the capacity of human nature; the theological virtues, supernaturally.
 
 Reply to Objection 2: The wisdom which the Philosopher (Ethic. vi, 3,7) reckons as an intellectual virtue, considers Divine things so far as they are open to the research of human reason. Theological virtue, on the other hand, is about those same things so far as they surpass human reason.
 
 Reply to Objection 3: Though charity is love, yet love is not always charity. When, then, it is stated that every virtue is the order of love, this can be understood either of love in the general sense, or of the love of charity. If it be understood of love, commonly so called, then each virtue is stated to be the order of love, in so far as each cardinal virtue requires ordinate emotions; and love is the root and cause of every emotion, as stated above (Q[27], A[4]; Q[28], A[6], ad 2; Q[41], A[2], ad 1). If, however, it be understood of the love of charity, it does not mean that every other virtue is charity essentially: but that all other virtues depend on charity in some way, as we shall show further on (Q[65], AA[2],5; [1578]SS, Q[23], A[7]).
-## Whether Faith, Hope, And Charity Are Fittingly Reckoned As Theological Virtues?
+### Whether Faith, Hope, And Charity Are Fittingly Reckoned As Theological Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that faith, hope, and charity are not fittingly reckoned as three theological virtues. For the theological virtues are in relation to Divine happiness, what the natural inclination is in relation to the connatural end. Now among the virtues directed to the connatural end there is but one natural virtue, viz. the understanding of principles. Therefore there should be but one theological virtue.
 
@@ -61,7 +61,7 @@ Objection 2: Further, the theological virtues are more perfect than the intellec
 
 Objection 3: Further, the theological virtues direct man's soul to God. Now man's soul cannot be directed to God, save through the intellective part, wherein are the intellect and will. Therefore there should be only two theological virtues, one perfecting the intellect, the other, the will.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 13:13): "Now there remain faith, hope, charity, these three."
 
@@ -69,16 +69,16 @@ I answer that, As stated above [1579](A[1]), the theological virtues direct man 
 
 But these two fall short of the order of supernatural happiness, according to 1 Cor. 2:9: "The eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love Him." Consequently in respect of both the above things man needed to receive in addition something supernatural to direct him to a supernatural end. First, as regards the intellect, man receives certain supernatural principles, which are held by means of a Divine light: these are the articles of faith, about which is faith. Secondly, the will is directed to this end, both as to that end as something attainable---and this pertains to hope---and as to a certain spiritual union, whereby the will is, so to speak, transformed into that end---and this belongs to charity. For the appetite of a thing is moved and tends towards its connatural end naturally; and this movement is due to a certain conformity of the thing with its end.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The intellect requires intelligible species whereby to understand: consequently there is need of a natural habit in addition to the power. But the very nature of the will suffices for it to be directed naturally to the end, both as to the intention of the end and as to its conformity with the end. But the nature of the power is insufficient in either of these respects, for the will to be directed to things that are above its nature. Consequently there was need for an additional supernatural habit in both respects.
 
 Reply to Objection 2: Faith and hope imply a certain imperfection: since faith is of things unseen, and hope, of things not possessed. Hence faith and hope, in things that are subject to human power, fall short of the notion of virtue. But faith and hope in things which are above the capacity of human nature surpass all virtue that is in proportion to man, according to 1 Cor. 1:25: "The weakness of God is stronger than men."
 
 Reply to Objection 3: Two things pertain to the appetite, viz. movement to the end, and conformity with the end by means of love. Hence there must needs be two theological virtues in the human appetite, namely, hope and charity.
-## Whether Faith Precedes Hope, And Hope Charity?
+### Whether Faith Precedes Hope, And Hope Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the order of the theological virtues is not that faith precedes hope, and hope charity. For the root precedes that which grows from it. Now charity is the root of all the virtues, according to Eph. 3:17: "Being rooted and founded in charity." Therefore charity precedes the others.
 
@@ -86,7 +86,7 @@ Objection 2: Further, Augustine says (De Doctr. Christ. i): "A man cannot love w
 
 Objection 3: Further, love is the principle of all our emotions, as stated above (A[2], ad 3). Now hope is a kind of emotion, since it is a passion, as stated above ([1580]Q[25], A[2]). Therefore charity, which is love, precedes hope.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle enumerates them thus (1 Cor. 13:13): "Now there remain faith, hope, charity."
 
@@ -96,7 +96,7 @@ But in the order of perfection, charity precedes faith and hope: because both fa
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Augustine is speaking of that hope whereby a man hopes to obtain bliss through the merits which he has already: this belongs to hope quickened by and following charity. But it is possible for a man before having charity, to hope through merits not already possessed, but which he hopes to possess.
 

@@ -7,9 +7,9 @@ We must now consider the things that are competent to religious; and under this 
 (4) Whether it is lawful for them to live on alms?
 (5) Whether it is lawful for them to quest?
 (6) Whether it is lawful for them to wear coarser clothes than other persons?
-## Whether It Is Lawful For Religious To Teach, Preach, And The Like?
+### Whether It Is Lawful For Religious To Teach, Preach, And The Like?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful for religious to teach, preach, and the like. For it is said (VII, qu. i, can. Hoc nequaquam) in an ordinance of a synod of Constantinople [*Pseudosynod held by Photius in the year 879]: "The monastic life is one of subjection and discipleship, not of teaching, authority, or pastoral care." And Jerome says (ad Ripar. et Desider. [*Contra Vigilant. xvi]): "A monk's duty is not to teach but to lament." Again Pope Leo [*Leo I, Ep. cxx ad Theodoret., 6, cf. XVI, qu. i, can. Adjicimus]: says "Let none dare to preach save the priests of the Lord, be he monk or layman, and no matter what knowledge he may boast of having." Now it is not lawful to exceed the bounds of one's office or transgress the ordinance of the Church. Therefore seemingly it is unlawful for religious to teach, preach, and the like.
 
@@ -17,7 +17,7 @@ Objection 2: Further, in an ordinance of the Council of Nicea (cf. XVI, qu. i, c
 
 Objection 3: Further, Gregory says (Regist. v, Ep. 1): "No man can fulfil ecclesiastical duties, and keep consistently to the monastic rule": and this is quoted XVI, qu. i, can. Nemo potest. Now monks are bound to keep consistently to the monastic rule. Therefore it would seem that they cannot fulfil ecclesiastical duties, whereof teaching and preaching are a part. Therefore seemingly it is unlawful for them to preach, teach, and do similar things.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory is quoted (XVI, qu. i, can. Ex auctoritate) as saying: "By authority of this decree framed in virtue of our apostolic power and the duty of our office, be it lawful to monk priests who are configured to the apostles, to preach, baptize, give communion, pray for sinners, impose penance, and absolve from sin."
 
@@ -27,16 +27,16 @@ In this way it is not unlawful for religious to preach, teach, and do like thing
 
 Secondly, a thing is said to be unlawful for a man, not on account of there being in him something contrary thereto, but because he lacks that which enables him to do it: thus it is unlawful for a deacon to say mass, because he is not in priestly orders; and it is unlawful for a priest to deliver judgment because he lacks the episcopal authority. Here, however, a distinction must be made. Because those things which are a matter of an order, cannot be deputed to one who has not the order, whereas matters of jurisdiction can be deputed to those who have not ordinary jurisdiction: thus the delivery of a judgment is deputed by the bishop to a simple priest. In this sense it is said to be unlawful for monks and other religious to preach, teach, and so forth, because the religious state does not give them the power to do these things. They can, however, do them if they receive orders, or ordinary jurisdiction, or if matters of jurisdiction be delegated to them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It results from the words quoted that the fact of their being monks does not give monks the power to do these things, yet it does not involve in them anything contrary to the performance of these acts.
 
 Reply to Objection 2: Again, this ordinance of the Council of Nicea forbids monks to claim the power of exercising those acts on the ground of their being monks, but it does not forbid those acts being delegated to them.
 
 Reply to Objection 3: These two things are incompatible, namely, the ordinary cure of ecclesiastical duties, and the observance of the monastic rule in a monastery. But this does not prevent monks and other religious from being sometimes occupied with ecclesiastical duties through being deputed thereto by superiors having ordinary cure; especially members of religious orders that are especially instituted for that purpose, as we shall say further on ([3805]Q[188], A[4]).
-## Whether It Is Lawful For Religious To Occupy Themselves With Secular Business?
+### Whether It Is Lawful For Religious To Occupy Themselves With Secular Business?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful for religious to occupy themselves with secular business. For in the decree quoted above [3806](A[1]) of Pope Boniface it is said that the "Blessed Benedict bade them to be altogether free from secular business; and this is most explicitly prescribed by the apostolic doctrine and the teaching of all the Fathers, not only to religious, but also to all the canonical clergy," according to 2 Tim. 2:4, "No man being a soldier to God, entangleth himself with secular business." Now it is the duty of all religious to be soldiers of God. Therefore it is unlawful for them to occupy themselves with secular business.
 
@@ -44,7 +44,7 @@ Objection 2: Further, the Apostle says (1 Thess. 4:11): "That you use your endea
 
 Objection 3: Further, Jerome, commenting on Mat. 11:8, "Behold they that are clothed in soft garments are in the houses of kings," says: "Hence we gather that an austere life and severe preaching should avoid the palaces of kings and the mansions of the voluptuous." But the needs of secular business induce men to frequent the palaces of kings. Therefore it is unlawful for religious to occupy themselves with secular business.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 16:1): "I commend to you Phoebe our Sister," and further on (Rom. 16:2), "that you assist her in whatsoever business she shall have need of you."
 
@@ -52,16 +52,16 @@ I answer that, As stated above ([3807]Q[186], AA[1],7, ad 1), the religious stat
 
 We must conclude therefore that it is unlawful for either monks or clerics to carry on secular business from motives of avarice; but from motives of charity, and with their superior's permission, they may occupy themselves with due moderation in the administration and direction of secular business. Wherefore it is said in the Decretals (Dist. xxxviii, can. Decrevit): "The holy synod decrees that henceforth no cleric shall buy property or occupy himself with secular business, save with a view to the care of the fatherless, orphans, or widows, or when the bishop of the city commands him to take charge of the business connected with the Church." And the same applies to religious as to clerics, because they are both debarred from secular business on the same grounds, as stated above.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Monks are forbidden to occupy themselves with secular business from motives of avarice, but not from motives of charity.
 
 Reply to Objection 2: To occupy oneself with secular business on account of another's need is not officiousness but charity.
 
 Reply to Objection 3: To haunt the palaces of kings from motives of pleasure, glory, or avarice is not becoming to religious, but there is nothing unseemly in their visiting them from motives of piety. Hence it is written (4 Kings 4:13): "Hast thou any business, and wilt thou that I speak to the king or to the general of the army?" Likewise it becomes religious to go to the palaces of kings to rebuke and guide them, even as John the Baptist rebuked Herod, as related in Mat. 14:4.
-## Whether Religious Are Bound To Manual Labor?
+### Whether Religious Are Bound To Manual Labor?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that religious are bound to manual labor. For religious are not exempt from the observance of precepts. Now manual labor is a matter of precept according to 1 Thess. 4:11, "Work with your own hands as we commanded you"; wherefore Augustine says (De oper. Monach. xxx): "But who can allow these insolent men," namely religious that do no work, of whom he is speaking there, "who disregard the most salutary admonishment of the Apostle, not merely to be borne with as being weaker than others, but even to preach as though they were holier than others." Therefore it would seem that religious are bound to manual labor.
 
@@ -73,7 +73,7 @@ Objection 4: Further, a gloss on Lk. 12:33, "Sell what you possess," says: "Not 
 
 Objection 5: Further, religious especially would seem to be bound to imitate the life of the apostles, since they profess the state of perfection. Now the apostles worked with their own hands, according to 1 Cor. 4:12: "We labor, working with our own hands." Therefore it would seem that religious are bound to manual labor.
 
-### Answer
+**Answer**
 
 On the contrary, Those precepts that are commonly enjoined upon all are equally binding on religious and seculars. But the precept of manual labor is enjoined upon all in common, as appears from 2 Thess. 3:6, "Withdraw yourselves from every brother walking disorderly," etc. (for by brother he signifies every Christian, according to 1 Cor. 7:12, "If any brother have a wife that believeth not"). Now it is written in the same passage (2 Thess. 3:10): "If any man will not work, neither let him eat." Therefore religious are not bound to manual labor any more than seculars are.
 
@@ -83,7 +83,7 @@ It must, however, be observed that under manual labor are comprised all those hu
 
 In so far as manual labor is directed to the removal of idleness, or the affliction of the body, it does not come under a necessity of precept if we consider it in itself, since there are many other means besides manual labor of afflicting the body or of removing idleness: for the flesh is afflicted by fastings and watchings, and idleness is removed by meditation on the Holy Scriptures and by the divine praises. Hence a gloss on Ps. 118:82, "My eyes have failed for Thy word," says: "He is not idle who meditates only on God's word; nor is he who works abroad any better than he who devotes himself to the study of knowing the truth." Consequently for these reasons religious are not bound to manual labor, as neither are seculars, except when they are so bound by the statutes of their order. Thus Jerome says (Ep. cxxv ad Rustic Monach.): "The Egyptian monasteries are wont to admit none unless they work or labor, not so much for the necessities of life, as for the welfare of the soul, lest it be led astray by wicked thoughts." But in so far as manual labor is directed to almsgiving, it does not come under the necessity of precept, save perchance in some particular case, when a man is under an obligation to give alms, and has no other means of having the wherewithal to assist the poor: for in such a case religious would be bound as well as seculars to do manual labor.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This command of the Apostle is of natural law: wherefore a gloss on 2 Thess. 3:6, "That you withdraw yourselves from every brother walking disorderly," says, "otherwise than the natural order requires," and he is speaking of those who abstained from manual labor. Hence nature has provided man with hands instead of arms and clothes, with which she has provided other animals, in order that with his hands he may obtain these and all other necessaries. Hence it is clear that this precept, even as all the precepts of the natural law, is binding on both religious and seculars alike. Yet not everyone sins that works not with his hands, because those precepts of the natural law which regard the good of the many are not binding on each individual, but it suffices that one person apply himself to this business and another to that; for instance, that some be craftsmen, others husbandmen, others judges, and others teachers, and so forth, according to the words of the Apostle (1 Cor. 12:17), "If the whole body were the eye, where would be the hearing? If the whole were the hearing, where would be the smelling?"
 
@@ -94,9 +94,9 @@ Reply to Objection 3: A man may devote himself in two ways to all the spiritual 
 Reply to Objection 4: Those who despise all for God's sake are bound to work with their hands, when they have no other means of livelihood, or of almsgiving (should the case occur where almsgiving were a matter of precept), but not otherwise, as stated in the Article. It is in this sense that the gloss quoted is to be understood.
 
 Reply to Objection 5: That the apostles worked with their hands was sometimes a matter of necessity, sometimes a work of supererogation. It was of necessity when they failed to receive a livelihood from others. Hence a gloss on 1 Cor. 4:12, "We labor, working with our own hands," adds, "because no man giveth to us." It was supererogation, as appears from 1 Cor. 9:12, where the Apostle says that he did not use the power he had of living by the Gospel. The Apostle had recourse to this supererogation for three motives. First, in order to deprive the false apostles of the pretext for preaching, for they preached merely for a temporal advantage; hence he says (2 Cor. 11:12): "But what I do, that I will do that I may cut off the occasion from them," etc. Secondly, in order to avoid burdening those to whom he preached; hence he says (2 Cor. 12:13): "What is there that you have had less than the other churches, but that I myself was not burthensome to you?" Thirdly, in order to give an example of work to the idle; hence he says (2 Thess. 3:8,9): "We worked night and day . . . that we might give ourselves a pattern unto you, to imitate us." However, the Apostle did not do this in places like Athens where he had facilities for preaching daily, as Augustine observes (De oper. Monach. xviii). Yet religious are not for this reason bound to imitate the Apostle in this matter, since they are not bound to all works of supererogation: wherefore neither did the other apostles work with their hands.
-## Whether It Is Lawful For Religious To Live On Alms?
+### Whether It Is Lawful For Religious To Live On Alms?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful for religious to live on alms. For the Apostle (1 Tim. 5:16) forbids those widows who have other means of livelihood to live on the alms of the Church, so that the Church may have "sufficient for them that are widows indeed." And Jerome says to Pope Damasus [*Cf. Cf. Can. Clericos, cause. i, qu. 2; Can. Quoniam, cause xvi, qu. 1; Regul. Monach. iv among the supposititious works of St. Jerome] that "those who have sufficient income from their parents and their own possessions, if they take what belongs to the poor they commit and incur the guilt of sacrilege, and by the abuse of such things they eat and drink judgment to themselves." Now religious if they be able-bodied can support themselves by the work of their hands. Therefore it would seem that they sin if they consume the alms belonging to the poor.
 
@@ -108,7 +108,7 @@ Objection 4: Further, it belongs to religious to avoid obstacles to virtue and o
 
 Objection 5: Further, religious especially are bound to imitate the perfection of the apostles; wherefore the Apostle says (Phil. 3:15): "Let us . . . as many as are perfect, be thus minded." But the Apostle was unwilling to live at the expense of the faithful, either in order to cut off the occasion from the false apostles as he himself says (2 Cor. 11:12), or to avoid giving scandal to the weak, as appears from 1 Cor. 9:12. It would seem therefore that religious ought for the same reasons to refrain from living on alms. Hence Augustine says (De oper. Monach. 28): "Cut off the occasion of disgraceful marketing whereby you lower yourselves in the esteem of others, and give scandal to the weak: and show men that you seek not an easy livelihood in idleness, but the kingdom of God by the narrow and strait way."
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Dial. ii, 1): The Blessed Benedict after leaving his home and parents dwelt for three years in a cave, and while there lived on the food brought to him by a monk from Rome. Nevertheless, although he was able-bodied, we do not read that he sought to live by the labor of his hands. Therefore religious may lawfully live on alms.
 
@@ -120,7 +120,7 @@ In another way a thing becomes due to a person through his affording others some
 
 On the other hand, in the default of any necessity, or of their affording any profit to others, it is unlawful for religious to wish to live in idleness on the alms given to the poor. Hence Augustine says (De oper. Monach. xxii): "Sometimes those who enter the profession of God's service come from a servile condition of life, from tilling the soil or working at some trade or lowly occupation. In their case it is not so clear whether they came with the purpose of serving God, or of evading a life of want and toil with a view to being fed and clothed in idleness, and furthermore to being honored by those by whom they were wont to be despised and downtrodden. Such persons surely cannot excuse themselves from work on the score of bodily weakness, for their former mode of life is evidence against them." And he adds further on (De oper. Monach. xxv): "If they be unwilling to work, neither let them eat. For if the rich humble themselves to piety, it is not that the poor may be exalted to pride; since it is altogether unseemly that in a life wherein senators become laborers, laborers should become idle, and that where the lords of the manor have come after renouncing their ease, the serfs should live in comfort."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These authorities must be understood as referring to cases of necessity, that is to say, when there is no other means of succoring the poor: for then they would be bound not only to refrain from accepting alms, but also to give what they have for the support of the needy.
 
@@ -131,9 +131,9 @@ Reply to Objection 3: Other things being equal, it is more perfect to give than 
 Reply to Objection 4: To receive gifts so as to increase one's wealth, or to accept a livelihood from another without having a claim to it, and without profit to others or being in need oneself, affords an occasion of sin. But this does not apply to religious, as stated above.
 
 Reply to Objection 5: Whenever there is evident necessity for religious living on alms without doing any manual work, as well as an evident profit to be derived by others, it is not the weak who are scandalized, but those who are full of malice like the Pharisees, whose scandal our Lord teaches us to despise (Mat. 15:12-14). If, however, these motives of necessity and profit be lacking, the weak might possibly be scandalized thereby; and this should be avoided. Yet the same scandal might be occasioned through those who live in idleness on the common revenues.
-## Whether It Is Lawful For Religious To Beg?
+### Whether It Is Lawful For Religious To Beg?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful for religious to beg. For Augustine says (De oper. Monach. xxviii): "The most cunning foe has scattered on all sides a great number of hypocrites wearing the monastic habit, who go wandering about the country," and afterwards he adds: "They all ask, they all demand to be supported in their profitable penury, or to be paid for a pretended holiness." Therefore it would seem that the life of mendicant religious is to be condemned.
 
@@ -145,13 +145,13 @@ Objection 4: Further, "Shame is about that which is disgraceful," as Damascene s
 
 Objection 5: Further, according to our Lord's command it is especially becoming to preachers of the Gospel to live on alms, as stated above [3809](A[4]). Yet it is not becoming that they should beg, since a gloss on 2 Tim. 2:6, "The husbandman, that laboreth," etc. says: "The Apostle wishes the gospeler to understand that to accept necessaries from those among whom he labors is not mendicancy but a right." Therefore it would seem unbecoming for religious to beg.
 
-### Answer
+**Answer**
 
 On the contrary, It becomes religious to live in imitation of Christ. Now Christ was a mendicant, according to Ps. 39:18, "But I am a beggar and poor"; where a gloss says: "Christ said this of Himself as bearing the 'form of a servant,'" and further on: "A beggar is one who entreats another, and a poor man is one who has not enough for himself." Again it is written (Ps. 69:6): "I am needy and poor"; where a gloss says: "'Needy,' that is a suppliant; 'and poor,' that is, not having enough for myself, because I have no worldly wealth." And Jerome says in a letter [*Reference unknown]: "Beware lest whereas thy Lord," i.e. Christ, "begged, thou amass other people's wealth." Therefore it becomes religious to beg.
 
 I answer that, Two things may be considered in reference to mendicancy. The first is on the part of the act itself of begging, which has a certain abasement attaching to it; since of all men those would seem most abased who are not only poor, but are so needy that they have to receive their meat from others. In this way some deserve praise for begging out of humility, just as they abase themselves in other ways, as being the most efficacious remedy against pride which they desire to quench either in themselves or in others by their example. For just as a disease that arises from excessive heat is most efficaciously healed by things that excel in cold, so proneness to pride is most efficaciously healed by those things which savor most of abasement. Hence it is said in the Decretals (II, cap. Si quis semel, de Paenitentia): "To condescend to the humblest duties, and to devote oneself to the lowliest service is an exercise of humility; for thus one is able to heal the disease of pride and human glory." Hence Jerome praises Fabiola (Ep. lxxvii ad ocean.) for that she desired "to receive alms, having poured forth all her wealth for Christ's sake." The Blessed Alexis acted in like manner, for, having renounced all his possessions for Christ's sake he rejoiced in receiving alms even from his own servants. It is also related of the Blessed Arsenius in the Lives of the Fathers (v, 6) that he gave thanks because he was forced by necessity to ask for alms. Hence it is enjoined to some people as a penance for grievous sins to go on a pilgrimage begging. Since, however, humility like the other virtues should not be without discretion, it behooves one to be discreet in becoming a mendicant for the purpose of humiliation, lest a man thereby incur the mark of covetousness or of anything else unbecoming. Secondly, mendicancy may be considered on the part of that which one gets by begging: and thus a man may be led to beg by a twofold motive. First, by the desire to have wealth or meat without working for it, and such like mendicancy is unlawful; secondly, by a motive of necessity or usefulness. The motive is one of necessity if a man has no other means of livelihood save begging; and it is a motive of usefulness if he wishes to accomplish something useful, and is unable to do so without the alms of the faithful. Thus alms are besought for the building of a bridge, or church, or for any other work whatever that is conducive to the common good: thus scholars may seek alms that they may devote themselves to the study of wisdom. In this way mendicancy is lawful to religious no less than to seculars.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine is speaking there explicitly of those who beg from motives of covetousness.
 
@@ -162,9 +162,9 @@ Reply to Objection 3: This precept of the divine law does not forbid anyone to b
 Reply to Objection 4: Disgrace is twofold; one arises from lack of honesty [*Cf.[3810] Q[145], A[1]], the other from an external defect, thus it is disgraceful for a man to be sick or poor. Such like uncomeliness of mendicancy does not pertain to sin, but it may pertain to humility, as stated above.
 
 Reply to Objection 5: Preachers have the right to be fed by those to whom they preach: yet if they wish to seek this by begging so as to receive it as a free gift and not as a right this will be a mark of greater humility.
-## Whether It Is Lawful For Religious To Wear Coarser Clothes Than Others?
+### Whether It Is Lawful For Religious To Wear Coarser Clothes Than Others?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful for religious to wear coarser clothes than others. For according to the Apostle (1 Thess. 5:22) we ought to "refrain from all appearance of evil." Now coarseness of clothes has an appearance of evil; for our Lord said (Mat. 7:15): "Beware of false prophets who come to you in the clothing of sheep": and a gloss on Apoc. 6:8, "Behold a pale horse," says: "The devil finding that he cannot succeed, neither by outward afflictions nor by manifest heresies, sends in advance false brethren, who under the guise of religion assume the characteristics of the black and red horses by corrupting the faith." Therefore it would seem that religious should not wear coarse clothes.
 
@@ -172,7 +172,7 @@ Objection 2: Further, Jerome says (Ep. lii ad Nepotian.): "Avoid somber," i.e. b
 
 Objection 3: Further, religious should aim especially at doing works of penance. Now in works of penance we should use, not outward signs of sorrow, but rather signs of joy; for our Lord said (Mat. 6:16): "When you fast, be not, as the hypocrites, sad," and afterwards He added: "But thou, when thou fastest, anoint thy head and wash thy face." Augustine commenting on these words (De Serm. Dom. in Monte ii, 12): "In this chapter we must observe that not only the glare and pomp of outward things, but even the weeds of mourning may be a subject of ostentation, all the more dangerous as being a decoy under the guise of God's service." Therefore seemingly religious ought not to wear coarse clothes.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Heb. 11:37): "They wandered about in sheep-skins in goat-skins," and a gloss adds---"as Elias and others." Moreover it is said in the Decretal XXI, qu. iv, can. Omnis jactantia: "If any persons be found to deride those who wear coarse and religious apparel they must be reproved. For in the early times all those who were consecrated to God went about in common and coarse apparel."
 
@@ -184,7 +184,7 @@ Accordingly in the first two ways it is praiseworthy to wear humble apparel, but
 
 Secondly, coarse and homely attire may be considered as the result of covetousness or negligence, and thus also it is sinful.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Coarseness of attire has not of itself the appearance of evil, indeed it has more the appearance of good, namely of the contempt of worldly glory. Hence it is that wicked persons hide their wickedness under coarse clothing. Hence Augustine says (De Serm. Dom. in Monte ii, 24) that "the sheep should not dislike their clothing for the reason that the wolves sometimes hide themselves under it."
 

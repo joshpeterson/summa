@@ -7,9 +7,9 @@ We must how consider the vices opposed to charity: (1) hatred, which is opposed 
 (4) Whether it is the greatest of all sins against our neighbor?
 (5) Whether it is a capital sin?
 (6) From what capital sin does it arise?
-## Whether It Is Possible For Anyone To Hate God?
+### Whether It Is Possible For Anyone To Hate God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no man can hate God. For Dionysius says (Div. Nom. iv) that "the first good and beautiful is an object of love and dilection to all." But God is goodness and beauty itself. Therefore He is hated by none.
 
@@ -17,7 +17,7 @@ Objection 2: Further, in the Apocryphal books of 3 Esdras 4:36, 39 it is written
 
 Objection 3: Further, hatred is a kind of aversion. But according to Dionysius (Div. Nom. i) God draws all things to Himself. Therefore none can hate Him.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 73:23): "The pride of them that hate Thee ascendeth continually," and (Jn. 15:24): "But now they have both seen and hated both Me and My Father."
 
@@ -25,16 +25,16 @@ I answer that, As shown above ([2619]FS, Q[29], A[1]), hatred is a movement of t
 
 Moreover some of His effects are such that they can nowise be contrary to the human will, since "to be, to live, to understand," which are effects of God, are desirable and lovable to all. Wherefore again God cannot be an object of hatred if we consider Him as the Author of such like effects. Some of God's effects, however, are contrary to an inordinate will, such as the infliction of punishment, and the prohibition of sin by the Divine Law. Such like effects are repugnant to a will debased by sin, and as regards the consideration of them, God may be an object of hatred to some, in so far as they look upon Him as forbidding sin, and inflicting punishment.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is true of those who see God's Essence, which is the very essence of goodness.
 
 Reply to Objection 2: This argument is true in so far as God is apprehended as the cause of such effects as are naturally beloved of all, among which are the works of Truth who reveals herself to men.
 
 Reply to Objection 3: God draws all things to Himself, in so far as He is the source of being, since all things, in as much as they are, tend to be like God, Who is Being itself.
-## Whether Hatred Of God Is The Greatest Of Sins?
+### Whether Hatred Of God Is The Greatest Of Sins?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hatred of God is not the greatest of sins. For the most grievous sin is the sin against the Holy Ghost, since it cannot be forgiven, according to Mat. 12:32. Now hatred of God is not reckoned among the various kinds of sin against the Holy Ghost, as may be seen from what has been said above ([2620]Q[14], A[2]). Therefore hatred of God is not the most grievous sin.
 
@@ -42,7 +42,7 @@ Objection 2: Further, sin consists in withdrawing oneself from God. Now an unbel
 
 Objection 3: Further, God is an object of hatred, only by reason of those of His effects that are contrary to the will: the chief of which is punishment. But hatred of punishment is not the most grievous sin. Therefore hatred of God is not the most grievous sin.
 
-### Answer
+**Answer**
 
 On the contrary, The best is opposite to the worst, according to the Philosopher (Ethic. viii, 10). But hatred of God is contrary to the love of God, wherein man's best consists. Therefore hatred of God is man's worst sin.
 
@@ -50,16 +50,16 @@ I answer that, The defect in sin consists in its aversion from God, as stated ab
 
 Now this voluntary aversion from God is directly implied in the hatred of God, but in other sins, by participation and indirectly. For just as the will cleaves directly to what it loves, so does it directly shun what it hates. Hence when a man hates God, his will is directly averted from God, whereas in other sins, fornication for instance, a man turns away from God, not directly, but indirectly, in so far, namely, as he desires an inordinate pleasure, to which aversion from God is connected. Now that which is so by itself, always takes precedence of that which is so by another. Wherefore hatred of God is more grievous than other sins.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to Gregory (Moral. xxv, 11), "it is one thing not to do good things, end another to hate the giver of good things, even as it is one thing to sin indeliberately, and another to sin deliberately." This implies that to hate God, the giver of all good things, is to sin deliberately, and this is a sin against the Holy Ghost. Hence it is evident that hatred of God is chiefly a sin against the Holy Ghost, in so far as the sin against the Holy Ghost denotes a special kind of sin: and yet it is not reckoned among the kinds of sin against the Holy Ghost, because it is universally found in every kind of that sin.
 
 Reply to Objection 2: Even unbelief is not sinful unless it be voluntary: wherefore the more voluntary it is, the more it is sinful. Now it becomes voluntary by the fact that a man hates the truth that is proposed to him. Wherefore it is evident that unbelief derives its sinfulness from hatred of God, Whose truth is the object of faith; and hence just as a cause is greater than its effect, so hatred of God is a greater sin than unbelief.
 
 Reply to Objection 3: Not everyone who hates his punishment, hates God the author of punishments. For many hate the punishments inflicted on them, and yet they bear them patiently out of reverence for the Divine justice. Wherefore Augustine says (Confess. x) that God commands us to bear with penal evils, not to love them. On the other hand, to break out into hatred of God when He inflicts those punishments, is to hate God's very justice, and that is a most grievous sin. Hence Gregory says (Moral. xxv, 11): "Even as sometimes it is more grievous to love sin than to do it, so is it more wicked to hate justice than, not to have done it."
-## Whether Hatred Of One's Neighbor Is Always A Sin?
+### Whether Hatred Of One's Neighbor Is Always A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hatred of one's neighbor is not always a sin. For no sin is commanded or counselled by God, according to Prov. 8:8: "All My words are just, there is nothing wicked nor perverse in them." Now, it is written (Lk. 14:26): "If any man come to Me, and hate not his father and mother . . . he cannot be My disciple." Therefore hatred of one's neighbor is not always a sin.
 
@@ -67,7 +67,7 @@ Objection 2: Further, nothing wherein we imitate God can be a sin. But it is in 
 
 Objection 3: Further, nothing that is natural is a sin, for sin is a "wandering away from what is according to nature," according to Damascene (De Fide Orth. ii, 4,30; iv, 20). Now it is natural to a thing to hate whatever is contrary to it, and to aim at its undoing. Therefore it seems that it is not a sin to hate one's I enemy.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Jn. 2:9): "He that . . . hateth his brother, is in darkness." Now spiritual darkness is sin. Therefore there cannot be hatred of one's neighbor without sin.
 
@@ -75,31 +75,31 @@ I answer that, Hatred is opposed to love, as stated above ([2622]FS, Q[29], A[2]
 
 Consequently it is lawful to hate the sin in one's brother, and whatever pertains to the defect of Divine justice, but we cannot hate our brother's nature and grace without sin. Now it is part of our love for our brother that we hate the fault and the lack of good in him, since desire for another's good is equivalent to hatred of his evil. Consequently the hatred of one's brother, if we consider it simply, is always sinful.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: By the commandment of God (Ex. 20:12) we must honor our parents---as united to us in nature and kinship. But we must hate them in so far as they prove an obstacle to our attaining the perfection of Divine justice.
 
 Reply to Objection 2: God hates the sin which is in the detractor, not his nature: so that we can hate detractors without committing a sin.
 
 Reply to Objection 3: Men are not opposed to us in respect of the goods which they have received from God: wherefore, in this respect, we should love them. But they are opposed to us, in so far as they show hostility towards us, and this is sinful in them. In this respect we should hate them, for we should hate in them the fact that they are hostile to us.
-## Whether Hatred Of Our Neighbor Is The Most Grievous Sin Against Our Neighbor?
+### Whether Hatred Of Our Neighbor Is The Most Grievous Sin Against Our Neighbor?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hatred of our neighbor is the most grievous sin against our neighbor. For it is written (1 Jn. 3:15): "Whosoever hateth his brother is a murderer." Now murder is the most grievous of sins against our neighbor. Therefore hatred is also.
 
 Objection 2: Further, worst is opposed to best. Now the best thing we give our neighbor is love, since all other things are referable to love. Therefore hatred is the worst.
 
-### Answer
+**Answer**
 
 On the contrary, A thing is said to be evil, because it hurts, as Augustine observes (Enchiridion xii). Now there are sins by which a man hurts his neighbor more than by hatred, e.g. theft, murder and adultery. Therefore hatred is not the most grievous sin.
 
 I answer that, Sins committed against our neighbor are evil on two counts; first by reason of the disorder in the person who sins, secondly by reason of the hurt inflicted on the person sinned against. On the first count, hatred is a more grievous sin than external actions that hurt our neighbor, because hatred is a disorder of man's will, which is the chief part of man, and wherein is the root of sin, so that if a man's outward actions were to be inordinate, without any disorder in his will, they would not be sinful, for instance, if he were to kill a man, through ignorance or out of zeal for justice: and if there be anything sinful in a man's outward sins against his neighbor, it is all to be traced to his inward hatred.
 
 On the other hand, as regards the hurt inflicted on his neighbor, a man's outward sins are worse than his inward hatred. This suffices for the Replies to the Objections.
-## Whether Hatred Is A Capital Sin?
+### Whether Hatred Is A Capital Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hatred is a capital sin. For hatred is directly opposed to charity. Now charity is the foremost among the virtues, and the mother of all others. Therefore hatred is the chief of the capital sins, and the origin of all others.
 
@@ -107,22 +107,22 @@ Objection 2: Further, sins arise in us on account of the inclinations of our pas
 
 Objection 3: Further, vice is a moral evil. Now hatred regards evil more than any other passion does. Therefore it seems that hatred should be reckoned a capital sin.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxxi) does not reckon hatred among the seven capital sins.
 
 I answer that, As stated above ([2624]FS, Q[84], AA[3],4), a capital vice is one from which other vices arise most frequently. Now vice is contrary to man's nature, in as much as he is a rational animal: and when a thing acts contrary to its nature, that which is natural to it is corrupted little by little. Consequently it must first of all fail in that which is less in accordance with its nature, and last of all in that which is most in accordance with its nature, since what is first in construction is last in destruction. Now that which, first and foremost, is most natural to man, is the love of what is good, and especially love of the Divine good, and of his neighbor's good. Wherefore hatred, which is opposed to this love, is not the first but the last thing in the downfall of virtue resulting from vice: and therefore it is not a capital vice.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated in Phys. vii, text. 18, "the virtue of a thing consists in its being well disposed in accordance with its nature." Hence what is first and foremost in the virtues must be first and foremost in the natural order. Hence charity is reckoned the foremost of the virtues, and for the same reason hatred cannot be first among the vices, as stated above.
 
 Reply to Objection 2: Hatred of the evil that is contrary to one's natural good, is the first of the soul's passions, even as love of one's natural good is. But hatred of one's connatural good cannot be first, but is something last, because such like hatred is a proof of an already corrupted nature, even as love of an extraneous good.
 
 Reply to Objection 3: Evil is twofold. One is a true evil, for the reason that it is incompatible with one's natural good, and the hatred of such an evil may have priority over the other passions. There is, however, another which is not a true, but an apparent evil, which, namely, is a true and connatural good, and yet is reckoned evil on account of the corruption of nature: and the hatred of such an evil must needs come last. This hatred is vicious, but the former is not.
-## Whether Hatred Arises From Envy?
+### Whether Hatred Arises From Envy?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that hatred does not arise from envy. For envy is sorrow for another's good. Now hatred does not arise from sorrow, for, on the contrary, we grieve for the presence of the evil we hate. Therefore hatred does not arise from envy.
 
@@ -130,13 +130,13 @@ Objection 2: Further, hatred is opposed to love. Now love of our neighbor is ref
 
 Objection 3: Further, to one effect there is one cause. Now hatred is caused by anger, for Augustine says in his Rule that "anger grows into hatred." Therefore hatred does not arise from envy.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. xxxi, 45) that "out of envy cometh hatred."
 
 I answer that, As stated above [2627](A[5]), hatred of his neighbor is a man's last step in the path of sin, because it is opposed to the love which he naturally has for his neighbor. Now if a man declines from that which is natural, it is because he intends to avoid that which is naturally an object to be shunned. Now every animal naturally avoids sorrow, just as it desires pleasure, as the Philosopher states (Ethic. vii, x). Accordingly just as love arises from pleasure, so does hatred arise from sorrow. For just as we are moved to love whatever gives us pleasure, in as much as for that very reason it assumes the aspect of good; so we are moved to hate whatever displeases us, in so far as for this very reason it assumes the aspect of evil. Wherefore, since envy is sorrow for our neighbor's good, it follows that our neighbor's good becomes hateful to us, so that "out of envy cometh hatred."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since the appetitive power, like the apprehensive power, reflects on its own acts, it follows that there is a kind of circular movement in the actions of the appetitive power. And so according to the first forward course of the appetitive movement, love gives rise to desire, whence follows pleasure when one has obtained what one desired. And since the very fact of taking pleasure in the good one loves is a kind of good, it follows that pleasure causes love. And in the same way sorrow causes hatred.
 

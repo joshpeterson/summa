@@ -6,9 +6,9 @@ In the next place we have to consider the consent; and the first point to discus
 (3) Whether consent given in words expressive of the future makes a marriage?
 (4) Whether consent given in words expressive of the present, without inward consent, makes a true marriage outwardly?
 (5) Whether consent given secretly in words expressive of the present makes a marriage?
-## Whether Consent Is The Efficient Cause Of Matrimony?
+### Whether Consent Is The Efficient Cause Of Matrimony?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that consent is not the efficient cause of matrimony. For the sacraments depend not on the human will but on the Divine institution, as shown above (Sent. iv, D, 2; [4937]TP, Q[64], A[2]). But consent belongs to the human will. Therefore it is no more the cause of matrimony than of the other sacraments.
 
@@ -16,22 +16,22 @@ Objection 2: Further, nothing is its own cause. But seemingly matrimony is nothi
 
 Objection 3: Further, of one thing there should be one cause. Now there is one marriage between two persons, as stated above ([4938]Q[44], A[1]); whereas the consents of the two parties are distinct, for they are given by different persons and to different things, since on the one hand there is consent to take a husband, and on the other hand consent to take a wife. Therefore mutual consent is not the cause of matrimony.
 
-### Answer
+**Answer**
 
 On the contrary, Chrysostom [*Hom. xxxii in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says: "It is not coition but consent that makes a marriage."
 
 I answer that, In every sacrament there is a spiritual operation by means of a material operation which signifies it; thus in Baptism the inward spiritual cleansing is effected by a bodily cleansing. Wherefore, since in matrimony there is a kind of spiritual joining together, in so far as matrimony is a sacrament, and a certain material joining together, in so far as it is directed to an office of nature and of civil life, it follows that the spiritual joining is the effect of the Divine power by means of the material joining. Therefore seeing that the joinings of material contracts are effected by mutual consent, it follows that the joining together of marriage is effected in the same way.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The first cause of the sacraments is the Divine power which works in them the welfare of the soul; but the second or instrumental causes are material operations deriving their efficacy from the Divine institution, and thus consent is the cause in matrimony.
 
 Reply to Objection 2: Matrimony is not the consent itself, but the union of persons directed to one purpose, as stated above ([4939]Q[44], A[1]), and this union is the effect of the consent. Moreover, the consent, properly speaking, signifies not the union of Christ with the Church, but His will whereby His union with the Church was brought about.
 
 Reply to Objection 3: Just as marriage is one on the part of the object to which the union is directed, whereas it is more than one on the part of the persons united, so too the consent is one on the part of the thing consented to, namely the aforesaid union, whereas it is more than one on the part of the persons consenting. Nor is the direct object of consent a husband but union with a husband on the part of the wife, even as it is union with a wife on the part of the husband.
-## Whether The Consent Needs To Be Expressed In Words?
+### Whether The Consent Needs To Be Expressed In Words?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is no need for the consent to be expressed in words. For a man is brought under another's power by a vow just as he is by matrimony. Now a vow is binding in God's sight, even though it be not expressed in words. Therefore consent also makes a marriage binding even without being expressed in words.
 
@@ -39,22 +39,22 @@ Objection 2: Further, there can be marriage between persons who are unable to ex
 
 Objection 3: Further, if that which is essential to a sacrament be omitted for any reason whatever, there is no sacrament. Now there is a case of marriage without the expression of words if the maid is silent through bashfulness when her parents give her away to the bridegroom. Therefore the expression of words is not essential to matrimony.
 
-### Answer
+**Answer**
 
 On the contrary, Matrimony is a sacrament. Now a sensible sign is required in every sacrament. Therefore it is also required in matrimony, and consequently there must needs be at least words by which the consent is made perceptible to the senses.
 
 I answer that, As stated above [4940](A[1]), the marriage union is effected in the same way as the bond in material contracts. And since material contracts are not feasible unless the contracting parties express their will to one another in words, it follows that the consent which makes a marriage must also be expressed in words, so that the expression of words is to marriage what the outward washing is to Baptism.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In a vow there is not a sacramental but only a spiritual bond, wherefore there is no need for it to be done in the same way as material contracts, in order that it be binding, as in the case of matrimony.
 
 Reply to Objection 2: Although the like cannot plight themselves to one another in words, they can do so by signs, and such signs count for words.
 
 Reply to Objection 3: According to Hugh of S. Victor (Tract. vii, Sum. Sent.), persons who are being married should give their consent by accepting one another freely. and this is judged to be the case if they show no dissent when they are being wedded. Wherefore in such a case the words of the parents are taken as being the maid's, for the fact that she does not contradict them is a sign that they are her words.
-## Whether Consent Given In Words Expressive Of The Future Makes A Marriage?
+### Whether Consent Given In Words Expressive Of The Future Makes A Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that consent given in words expressive of the future makes a marriage. For as present is to present, so is future to future. But consent given in words expressive of the present makes a marriage in the present. Therefore consent given in words expressive of the future makes a marriage in the future.
 
@@ -62,22 +62,22 @@ Objection 2: Further, in other civil contracts, just as in matrimony, a certain 
 
 Objection 3: Further, by the religious vow man contracts a spiritual marriage with God. Now the religious vow is expressed in words of the future tense, and is binding. Therefore carnal marriage also can be effected by words of the future tense.
 
-### Answer
+**Answer**
 
 On the contrary, A man who consents in words of the future tense to take a particular woman as his wife, and after, by words of the present tense, consents to take another, according to law must take the second for his wife (cap. Sicut ex Litteris, De spons. et matr.). But this would not be the case if consent given in words of the future tense made a marriage, since from the very fact that his marriage with the one is valid, he cannot, as long as she lives, marry another. Therefore consent given in words of the future tense does not make a marriage.
 
 I answer that, The sacramental causes produce their effect by signifying it; hence they effect what they signify. Since therefore when a man expresses his consent by words of the future tense, he does not signify that he is marrying, but promises that he will marry, it follows that a consent expressed in this manner does not make a marriage, but a promise [sponsionem] of marriage, and this promise is known as a betrothal [sponsalia].
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When consent is expressed in words of the present tense, not only are the words actually present, but consent is directed to the present, so that they coincide in point of time; but when consent is given in words of the future tense, although the words are actually present, the consent is directed to a future time, and hence they do not coincide in point of time. For this reason the comparison fails.
 
 Reply to Objection 2: Even in other contracts, a man who uses words referring to the future, does not transfer the power over his property to another person---for instance if he were to say "I will give thee"---but only when he uses words indicative of the present.
 
 Reply to Objection 3: In the vow of religious profession it is not the spiritual marriage itself that is expressed in words which refer to the future, but an act of the spiritual marriage, namely obedience or observance of the rule. If, however, a man vow spiritual marriage in the future, it is not a spiritual marriage, for a man does not become a monk by taking such a vow, but promises to become one.
-## Whether, In The Absence Of Inward Consent, A Marriage Is Made By Consent Given In Words Of The Present?
+### Whether, In The Absence Of Inward Consent, A Marriage Is Made By Consent Given In Words Of The Present?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that even in the absence of inward consent a marriage is made by consent expressed in words of the present. For "fraud and deceit should benefit no man," according to the law (cap. Ex Tenore, De Rescrip., cap. Si Vir, De cognat. spir.). Now he who gives consent in words without consenting in heart commits a fraud. Therefore he should not benefit by it, through being released of the bond of marriage.
 
@@ -85,22 +85,22 @@ Objection 2: Further, the mental consent of one person cannot be known to anothe
 
 Objection 3: Further, if a man is proved to have consented to take a certain woman to wife in words of the present tense, he is compelled under pain of excommunication to take her as his wife, even though he should say that he was wanting in mental consent, notwithstanding that afterwards he may have contracted marriage with another woman by words expressive of consent in the present. But this would not be the case if mental consent were requisite for marriage. Therefore it is not required.
 
-### Answer
+**Answer**
 
 On the contrary, Innocent III says in a Decretal (cap. Tua Nos, De Spons. et matr.) in reference to this case: "Other things cannot complete the marriage bond in the absence of consent."
 
 I answer that, The outward cleansing stands in the same relation to baptism as the expression of words to this sacrament, as stated above [4941](A[2]). Wherefore just as were a person to receive the outward cleansing, with the intention, not of receiving the sacrament, but of acting in jest or deceit, he would not be baptized; so, too, expression of words without inward consent makes no marriage.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There are two things here, namely the lack of consent---which benefits him in the tribunal of his conscience so that he is not bound by the marriage tie, albeit not in the tribunal of the Church where judgment is pronounced according to the evidence---and the deceit in the words, which does not benefit him, neither in the tribunal of his conscience nor in the tribunal of the Church, since in both he is punished for this.
 
 Reply to Objection 2: If mental consent is lacking in one of the parties, on neither side is there marriage, since marriage consists in a mutual joining together, as stated above ([4942]Q[44], A[1]). However one may believe that in all probability there is no fraud unless there be evident signs thereof; because we must presume good of everyone, unless there be proof of the contrary. Consequently the party in whom there is no fraud is excused from sin on account of ignorance.
 
 Reply to Objection 3: In such a case the Church compels him to hold to his first wife, because the Church judges according to outward appearances; nor is she deceived in justice or right, although she is deceived in the facts of the case. Yet such a man ought to bear the excommunication rather than return to his first wife; or else he should go far away into another country.
-## Whether Consent Given Secretly In Words Of The Present Makes A Marriage?
+### Whether Consent Given Secretly In Words Of The Present Makes A Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that consent given secretly in words of the present does not make a marriage. For a thing that is in one person's power is not transferred to the power of another without the consent of the person in whose power it was. Now the maid is in her father's power. Therefore she cannot by marriage be transferred to a husband's power without her father's consent. Wherefore if consent be given secretly, even though it should be expressed in words of the present, there will be no marriage.
 
@@ -110,13 +110,13 @@ Objection 3: Further, the Church does not forbid baptism to be given secretly, s
 
 Objection 4: Further, marriage cannot be contracted by those who are related in the second degree, because the Church has forbidden it. But the Church has also forbidden clandestine marriages. Therefore they cannot be valid marriages.
 
-### Answer
+**Answer**
 
 On the contrary, Given the cause the effect follows. Now the sufficient cause of matrimony is consent expressed in words of the present. Therefore whether this be done in public or in private the result is a marriage.
 
 I answer that, Just as in the other sacraments certain things are essential to the sacrament, and if they are omitted there is no sacrament, while certain things belong to the solemnization of the sacrament, and if these be omitted the sacrament is nevertheless validly performed, although it is a sin to omit them; so, too, consent expressed in words of the present between persons lawfully qualified to contract makes a marriage, because these two conditions are essential to the sacrament; while all else belongs to the solemnization of the sacrament, as being done in order that the marriage may be more fittingly performed. Hence if these be omitted it is a true marriage, although the contracting parties sin, unless they have a lawful motive for being excused. [*Clandestine marriages have since been declared invalid by the Council of Trent (sess. xxiv). It must be borne in mind that throughout the treatise on marriage St. Thomas gives the Canon Law of his time.]
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The maid is in her father's power, not as a female slave without power over her own body, but as a daughter, for the purpose of education. Hence, in so far as she is free, she can give herself into another's power without her father's consent, even as a son or daughter, since they are free, may enter religion without their parent's consent.
 

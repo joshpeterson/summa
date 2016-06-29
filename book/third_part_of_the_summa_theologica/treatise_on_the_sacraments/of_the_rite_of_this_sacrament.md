@@ -7,9 +7,9 @@ We have now to consider the Rite of this sacrament, under which head there are s
 (4) Of the words uttered in celebrating this mystery;
 (5) Of the actions performed in celebrating this mystery.
 (6) Of the defects which occur in the celebration of this sacrament.
-## Whether Christ Is Sacrificed In This Sacrament?
+### Whether Christ Is Sacrificed In This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that Christ is not sacrificed in the celebration of this sacrament. For it is written (Heb. 10:14) that "Christ by one oblation hath perfected for ever them that are sanctified." But that oblation was His oblation. Therefore Christ is not sacrificed in the celebration of this sacrament.
 
@@ -17,22 +17,22 @@ Objection 2: Further, Christ's sacrifice was made upon the cross, whereon "He de
 
 Objection 3: Further, as Augustine says (De Trin. iv), in Christ's sacrifice the priest and the victim are one and the same. But in the celebration of this sacrament the priest and the victim are not the same. Therefore, the celebration of this sacrament is not a sacrifice of Christ.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says in the Liber Sentent. Prosp. (cf. Ep. xcviii): "Christ was sacrificed once in Himself, and yet He is sacrificed daily in the Sacrament."
 
 I answer that, The celebration of this sacrament is called a sacrifice for two reasons. First, because, as Augustine says (Ad Simplician. ii), "the images of things are called by the names of the things whereof they are the images; as when we look upon a picture or a fresco, we say, 'This is Cicero and that is Sallust.'" But, as was said above ([4695]Q[79], A[1]), the celebration of this sacrament is an image representing Christ's Passion, which is His true sacrifice. Accordingly the celebration of this sacrament is called Christ's sacrifice. Hence it is that Ambrose, in commenting on Heb. 10:1, says: "In Christ was offered up a sacrifice capable of giving eternal salvation; what then do we do? Do we not offer it up every day in memory of His death?" Secondly it is called a sacrifice, in respect of the effect of His Passion: because, to wit, by this sacrament, we are made partakers of the fruit of our Lord's Passion. Hence in one of the Sunday Secrets (Ninth Sunday after Pentecost) we say: "Whenever the commemoration of this sacrifice is celebrated, the work of our redemption is enacted." Consequently, according to the first reason, it is true to say that Christ was sacrificed, even in the figures of the Old Testament: hence it is stated in the Apocalypse (13:8): "Whose names are not written in the Book of Life of the Lamb, which was slain from the beginning of the world." But according to the second reason, it is proper to this sacrament for Christ to be sacrificed in its celebration.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Ambrose says (commenting on Heb. 10:1), "there is but one victim," namely that which Christ offered, and which we offer, "and not many victims, because Christ was offered but once: and this latter sacrifice is the pattern of the former. For, just as what is offered everywhere is one body, and not many bodies, so also is it but one sacrifice."
 
 Reply to Objection 2: As the celebration of this sacrament is an image representing Christ's Passion, so the altar is representative of the cross itself, upon which Christ was sacrificed in His proper species.
 
 Reply to Objection 3: For the same reason (cf. Reply OBJ[2]) the priest also bears Christ's image, in Whose person and by Whose power he pronounces the words of consecration, as is evident from what was said above ([4696]Q[82], AA[1],3). And so, in a measure, the priest and victim are one and the same.
-## Whether The Time For Celebrating This Mystery Has Been Properly Determined?
+### Whether The Time For Celebrating This Mystery Has Been Properly Determined?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the time for celebrating this mystery has not been properly determined. For as was observed above [4697](A[1]), this sacrament is representative of our Lord's Passion. But the commemoration of our Lord's Passion takes place in the Church once in the year: because Augustine says (Enarr. ii in Ps. 21): "Is not Christ slain as often as the Pasch is celebrated? Nevertheless, the anniversary remembrance represents what took place in by-gone days; and so it does not cause us to be stirred as if we saw our Lord hanging upon the cross." Therefore this sacrament ought to be celebrated but once a year.
 
@@ -44,7 +44,7 @@ Objection 4: Further, as is set down in the Decretals (De Consecr., dist. i), Po
 
 Objection 5: Further, in one of the Sunday Secrets (Ninth Sunday after Pentecost) we say: "Grant us, Lord, we beseech Thee, to frequent these mysteries." But there will be greater frequency if the priest celebrates several times a day. Therefore it seems that the priest ought not to be hindered from celebrating several times daily.
 
-### Answer
+**Answer**
 
 
 
@@ -52,7 +52,7 @@ I answer that, As stated above [4699](A[1]), in the celebration of this mystery,
 
 But since our Lord's Passion was celebrated from the third to the ninth hour, therefore this sacrament is solemnly celebrated by the Church in that part of the day.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ's Passion is recalled in this sacrament, inasmuch as its effect flows out to the faithful; but at Passion-tide Christ's Passion is recalled inasmuch as it was wrought in Him Who is our Head. This took place but once; whereas the faithful receive daily the fruits of His Passion: consequently, the former is commemorated but once in the year, whereas the latter takes place every day, both that we may partake of its fruit and in order that we may have a perpetual memorial.
 
@@ -63,9 +63,9 @@ Reply to Objection 3: As already observed ([4701]Q[73], A[5]), Christ wished to 
 Reply to Objection 4: As a rule mass ought to be said in the day and not in the night, because Christ is present in this sacrament, Who says (Jn. 9:4,5): "I must work the works of Him that sent Me, whilst it is day: because the night cometh when no man can work; as long as I am in the world, I am the light of the world." Yet this should be done in such a manner that the beginning of the day is not to be taken from midnight; nor from sunrise, that is, when the substance of the sun appears above the earth; but when the dawn begins to show: because then the sun is said to be risen when the brightness of his beams appears. Accordingly it is written (Mk. 16:1) that "the women came to the tomb, the sun being now risen"; though, as John relates (Jn. 20:1), "while it was yet dark they came to the tomb." It is in this way that Augustine explains this difference (De Consens. Evang. iii).
 
 Reply to Objection 5: As is set down in the decree (De Consecr., dist. 1), in virtue of a decree of Pope Alexander II, "it is enough for a priest to celebrate one mass each day, because Christ suffered once and redeemed the whole world; and very happy is he who can worthily celebrate one mass. But there are some who say one mass for the dead, and another of the day, if need be. But I do not deem that those escape condemnation who presume to celebrate several masses daily, either for the sake of money, or to gain flattery from the laity." And Pope Innocent III says (Extra, De Celebr. Miss., chap. Consuluisti) that "except on the day of our Lord's birth, unless necessity urges, it suffices for a priest to celebrate only one mass each day."
-## Whether This Sacrament Ought To Be Celebrated In A House And With Sacred Vessels?
+### Whether This Sacrament Ought To Be Celebrated In A House And With Sacred Vessels?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that this sacrament ought not to be celebrated in a house and with sacred vessels. For this sacrament is a representation of our Lord's Passion. But Christ did not suffer in a house, but outside the city gate, according to Heb. 1:12: "Jesus, that He might sanctify the people by His own blood, suffered without the gate." Therefore, it seems that this sacrament ought not to be celebrated in a house, but rather in the open air.
 
@@ -83,7 +83,7 @@ Objection 7: Further, just as gold is the most precious among the materials of t
 
 Objection 8: Further, the dispensing and ordering of the sacraments belong to the Church's ministers, just as the ordering of temporal affairs is subject to the ruling of secular princes; hence the Apostle says (1 Cor. 4:1): "Let a man so esteem us as the ministers of Christ end the dispensers of the mysteries of God." But if anything be done against the ordinances of princes it is deemed void. Therefore, if the various items mentioned above are suitably commanded by the Church's prelates, it seems that the body of Christ could not be consecrated unless they be observed; and so it appears to follow that Christ's words are not sufficient of themselves for consecrating this sacrament: which is contrary to the fact. Consequently, it does not seem fitting for such ordinances to be made touching the celebration of this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, The Church's ordinances are Christ's own ordinances; since He said (Mat. 18:20): "Wherever two or three are gathered together in My name, there am I in the midst of them."
 
@@ -91,7 +91,7 @@ I answer that, There are two things to be considered regarding the equipment of 
 
 Hence we consecrate those things which we make use of in this sacrament; both that we may show our reverence for the sacrament, and in order to represent the holiness which is the effect of the Passion of Christ, according to Heb. 13:12: "Jesus, that He might sanctify the people by His own blood," etc.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This sacrament ought as a rule to be celebrated in a house, whereby the Church is signified, according to 1 Tim. 3:15: "That thou mayest know how thou oughtest to behave thyself in the house of God, which is the Church of the living God." Because "outside the Church there is no place for the true sacrifice," as Augustine says (Liber Sentent. Prosp. xv). And because the Church was not to be confined within the territories of the Jewish people, but was to be established throughout the whole world, therefore Christ's Passion was not celebrated within the city of the Jews, but in the open country, that so the whole world might serve as a house for Christ's Passion. Nevertheless, as is said in De Consecr., dist. 1, "if a church be not to hand, we permit travelers to celebrate mass in the open air, or in a tent, if there be a consecrated altar-table to hand, and the other requisites belonging to the sacred function."
 
@@ -108,9 +108,9 @@ Reply to Objection 6: As is laid down in the same distinction, "formerly the pri
 Reply to Objection 7: Where it could be done without danger, the Church gave order for that thing to be used which more expressively represents Christ's Passion. But there was not so much danger regarding the body which is placed on the corporal, as there is with the blood contained in the chalice. And consequently, although the chalice is not made of stone, yet the corporal is made of linen, since Christ's body was wrapped therein. Hence we read in an Epistle of Pope Silvester, quoted in the same distinction: "By a unanimous decree we command that no one shall presume to celebrate the sacrifice of the altar upon a cloth of silk, or dyed material, but upon linen consecrated by the bishop; as Christ's body was buried in a clean linen winding-sheet." Moreover, linen material is becoming, owing to its cleanness, to denote purity of conscience, and, owing to the manifold labor with which it is prepared, to denote Christ's Passion.
 
 Reply to Objection 8: The dispensing of the sacraments belongs to the Church's ministers; but their consecration is from God Himself. Consequently, the Church's ministers can make no ordinances regarding the form of the consecration, and the manner of celebrating. And therefore, if the priest pronounces the words of consecration over the proper matter with the intention of consecrating, then, without every one of the things mentioned above---namely, without house, and altar, consecrated chalice and corporal, and the other things instituted by the Church---he consecrates Christ's body in very truth; yet he is guilty of grave sin, in not following the rite of the Church.
-## Whether The Words Spoken In This Sacrament Are Properly Framed?
+### Whether The Words Spoken In This Sacrament Are Properly Framed?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the words spoken in this sacrament are not properly framed. For, as Ambrose says (De Sacram. iv), this sacrament is consecrated with Christ's own words. Therefore no other words besides Christ's should be spoken in this sacrament.
 
@@ -130,7 +130,7 @@ Objection 8: Further, the sacrifice of the New Law is much more excellent than t
 
 Objection 9: Further, just as Christ's body does not begin to be in this sacrament by change of place, as stated above ([4703]Q[75], A[2]), so likewise neither does it cease to be there. Consequently, it is improper for the priest to ask: "Bid these things be borne by the hands of thy holy angel unto Thine altar on high."
 
-### Answer
+**Answer**
 
 On the contrary, We find it stated in De Consecr., dist. 1, that "James, the brother of the Lord according to the flesh, and Basil, bishop of Caesarea, edited the rite of celebrating the mass": and from their authority it is manifest that whatever words are employed in this matter, are chosen becomingly.
 
@@ -158,7 +158,7 @@ Then follows the reception of the sacrament, the priest receiving first, and aft
 
 Finally, the whole celebration of mass ends with the thanksgiving, the people rejoicing for having received the mystery (and this is the meaning of the singing after the Communion); and the priest returning thanks by prayer, as Christ, at the close of the supper with His disciples, "said a hymn" (Mat. 26:30).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The consecration is accomplished by Christ's words only; but the other words must be added to dispose the people for receiving it, as stated above.
 
@@ -177,9 +177,9 @@ Reply to Objection 7: The efficacy of the sacramental words can be hindered by t
 Reply to Objection 8: Although this sacrament is of itself preferable to all ancient sacrifices, yet the sacrifices of the men of old were most acceptable to God on account of their devotion. Consequently the priest asks that this sacrifice may be accepted by God through the devotion of the offerers, just as the former sacrifices were accepted by Him.
 
 Reply to Objection 9: The priest does not pray that the sacramental species may be borne up to heaven; nor that Christ's true body may be borne thither, for it does not cease to be there; but he offers this prayer for Christ's mystical body, which is signified in this sacrament, that the angel standing by at the Divine mysteries may present to God the prayers of both priest and people, according to Apoc. 8:4: "And the smoke of the incense of the prayers of the saints ascended up before God, from the hand of the angel." But God's "altar on high" means either the Church triumphant, unto which we pray to be translated, or else God Himself, in Whom we ask to share; because it is said of this altar (Ex. 20:26): "Thou shalt not go up by steps unto My altar, i.e. thou shalt make no steps towards the Trinity." Or else by the angel we are to understand Christ Himself, Who is the "Angel of great counsel" (Is. 9:6: Septuagint), Who unites His mystical body with God the Father and the Church triumphant.
-## Whether The Actions Performed In Celebrating This Sacrament Are Becoming?
+### Whether The Actions Performed In Celebrating This Sacrament Are Becoming?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the actions performed in celebrating this mystery are not becoming. For, as is evident from its form, this sacrament belongs to the New Testament. But under the New Testament the ceremonies of the old are not to be observed, such as that the priests and ministers were purified with water when they drew nigh to offer up the sacrifice: for we read (Ex. 30:19,20): "Aaron and his sons shall wash their hands and feet . . . when they are going into the tabernacle of the testimony . . . and when they are to come to the altar." Therefore it is not fitting that the priest should wash his hands when celebrating mass.
 
@@ -199,13 +199,13 @@ Objection 8: Further, the ceremonies performed in this sacrament represent Chris
 
 Objection 9: Further, Christ's entire body is consecrated in this sacrament apart from the blood. Consequently, it is not proper for a particle of the body to be mixed with the blood.
 
-### Answer
+**Answer**
 
 On the contrary, The custom of the Church stands for these things: and the Church cannot err, since she is taught by the Holy Ghost.
 
 I answer that, As was said above ([4708]Q[60], A[6]), there is a twofold manner of signification in the sacraments, by words, and by actions, in order that the signification may thus be more perfect. Now, in the celebration of this sacrament words are used to signify things pertaining to Christ's Passion, which is represented in this sacrament; or again, pertaining to Christ's mystical body, which is signified therein; and again, things pertaining to the use of this sacrament, which use ought to be devout and reverent. Consequently, in the celebration of this mystery some things are done in order to represent Christ's Passion, or the disposing of His mystical body, and some others are done which pertain to the devotion and reverence due to this sacrament.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The washing of the hands is done in the celebration of mass out of reverence for this sacrament; and this for two reasons: first, because we are not wont to handle precious objects except the hands be washed; hence it seems indecent for anyone to approach so great a sacrament with hands that are, even literally, unclean. Secondly, on account of its signification, because, as Dionysius says (Eccl. Hier. iii), the washing of the extremities of the limbs denotes cleansing from even the smallest sins, according to Jn. 13:10: "He that is washed needeth not but to wash his feet." And such cleansing is required of him who approaches this sacrament; and this is denoted by the confession which is made before the "Introit" of the mass. Moreover, this was signified by the washing of the priests under the Old Law, as Dionysius says (Eccl. Hier. iii). However, the Church observes this ceremony, not because it was prescribed under the Old Law, but because it is becoming in itself, and therefore instituted by the Church. Hence it is not observed in the same way as it was then: because the washing of the feet is omitted, and the washing of the hands is observed; for this can be done more readily, and suffices far denoting perfect cleansing. For, since the hand is the "organ of organs" (De Anima iii), all works are attributed to the hands: hence it is said in Ps. 25:6: "I will wash my hands among the innocent."
 
@@ -224,9 +224,9 @@ Reply to Objection 7: The breaking of the host denotes three things: first, the 
 Reply to Objection 8: As Pope Sergius says, and it is to be found in the Decretals (De Consecr., dist. ii), "the Lord's body is threefold; the part offered and put into the chalice signifies Christ's risen body," namely, Christ Himself, and the Blessed Virgin, and the other saints, if there be any, who are already in glory with their bodies. "The part consumed denotes those still walking upon earth," because while living upon earth they are united together by this sacrament; and are bruised by the passions, just as the bread eaten is bruised by the teeth. "The part reserved on the altar till the close of the mass, is His body hidden in the sepulchre, because the bodies of the saints will be in their graves until the end of the world": though their souls are either in purgatory, or in heaven. However, this rite of reserving one part on the altar till the close of the mass is no longer observed, on account of the danger; nevertheless, the same meaning of the parts continues, which some persons have expressed in verse, thus:
 
 Reply to Objection 9: Two things can be signified by the chalice: first, the Passion itself, which is represented in this sacrament, and according to this, by the part put into the chalice are denoted those who are still sharers of Christ's sufferings; secondly, the enjoyment of the Blessed can be signified, which is likewise foreshadowed in this sacrament; and therefore those whose bodies are already in full beatitude, are denoted by the part put into the chalice. And it is to be observed that the part put into the chalice ought not to be given to the people to supplement the communion, because Christ gave dipped bread only to Judas the betrayer.
-## Whether The Defects Occurring During The Celebration Of This Sacrament Can Be Sufficiently Met By Observing The Church's Statutes?
+### Whether The Defects Occurring During The Celebration Of This Sacrament Can Be Sufficiently Met By Observing The Church's Statutes?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the defects occurring during the celebration of this sacrament cannot be sufficiently met by observing the statutes of the Church. For it sometimes happens that before or after the consecration the priest dies or goes mad, or is hindered by some other infirmity from receiving the sacrament and completing the mass. Consequently it seems impossible to observe the Church's statute, whereby the priest consecrating must communicate of his own sacrifice.
 
@@ -242,13 +242,13 @@ Objection 6: Further, it sometimes comes to pass owing to the cold that the host
 
 Objection 7: Further, sometimes, too, it happens, owing to the priest's want of care, that Christ's blood is spilled, or that he vomits the sacrament received, or that the consecrated hosts are kept so long that they become corrupt, or that they are nibbled by mice, or lost in any manner whatsoever; in which cases it does not seem possible for due reverence to be shown towards this sacrament, as the Church's ordinances require. It does not seem then that such defects or dangers can be met by keeping to the Church's statutes.
 
-### Answer
+**Answer**
 
 On the contrary, Just as God does not command an impossibility, so neither does the Church.
 
 I answer that, Dangers or defects happening to this sacrament can be met in two ways: first, by preventing any such mishaps from occurring: secondly, by dealing with them in such a way, that what may have happened amiss is put right, either by employing a remedy, or at least by repentance on his part who has acted negligently regarding this sacrament.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: If the priest be stricken by death or grave sickness before the consecration of our Lord's body and blood, there is no need for it to be completed by another. But if this happens after the consecration is begun, for instance, when the body has been consecrated and before the consecration of the blood, or even after both have been consecrated, then the celebration of the mass ought to be finished by someone else. Hence, as is laid down (Decretal vii, q. 1), we read the following decree of the (Seventh) Council of Toledo: "We consider it to be fitting that when the sacred mysteries are consecrated by priests during the time of mass, if any sickness supervenes, in consequence of which they cannot finish the mystery begun, let it be free for the bishop or another priest to finish the consecration of the office thus begun. For nothing else is suitable for completing the mysteries commenced, unless the consecration be completed either by the priest who began it, or by the one who follows him: because they cannot be completed except they be performed in perfect order. For since we are all one in Christ, the change of persons makes no difference, since unity of faith insures the happy issue of the mystery. Yet let not the course we propose for cases of natural debility, be presumptuously abused: and let no minister or priest presume ever to leave the Divine offices unfinished, unless he be absolutely prevented from continuing. If anyone shall have rashly presumed to do so, he will incur sentence of excommunication."
 

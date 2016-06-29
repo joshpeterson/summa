@@ -8,9 +8,9 @@ We must now consider the act of charity, and (1) the principal act of charity, w
 (5) Whether God can be loved wholly?
 (6) Whether the love of God is according to measure?
 (7) Which is the better, to love one's friend, or one's enemy? (8) Which is the better, to love God, or one's neighbor?
-## Whether To Be Loved Is More Proper To Charity Than To Love?
+### Whether To Be Loved Is More Proper To Charity Than To Love?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is more proper to charity to be loved than to love. For the better charity is to be found in those who are themselves better. But those who are better should be more loved. Therefore to be loved is more proper to charity.
 
@@ -18,22 +18,22 @@ Objection 2: Further, that which is to be found in more subjects seems to be mor
 
 Objection 3: Further, "the cause of anything being such is yet more so." Now men love because they are loved, for Augustine says (De Catech. Rud. iv) that "nothing incites another more to love you than that you love him first." Therefore charity consists in being loved rather than in loving.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. viii, 8) that friendship consists in loving rather than in being loved. Now charity is a kind of friendship. Therefore it consists in loving rather than in being loved.
 
 I answer that, To love belongs to charity as charity. For, since charity is a virtue, by its very essence it has an inclination to its proper act. Now to be loved is not the act of the charity of the person loved; for this act is to love: and to be loved is competent to him as coming under the common notion of good, in so far as another tends towards his good by an act of charity. Hence it is clear that to love is more proper to charity than to be loved: for that which befits a thing by reason of itself and its essence is more competent to it than that which is befitting to it by reason of something else. This can be exemplified in two ways. First, in the fact that friends are more commended for loving than for being loved, indeed, if they be loved and yet love not, they are blamed. Secondly, because a mother, whose love is the greatest, seeks rather to love than to be loved: for "some women," as the Philosopher observes (Ethic. viii, 8) "entrust their children to a nurse; they do love them indeed, yet seek not to be loved in return, if they happen not to be loved."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A better man, through being better, is more lovable; but through having more perfect charity, loves more. He loves more, however, in proportion to the person he loves. For a better man does not love that which is beneath him less than it ought to be loved: whereas he who is less good fails to love one who is better, as much as he ought to be loved.
 
 Reply to Objection 2: As the Philosopher says (Ethic. viii, 8), "men wish to be loved in as much as they wish to be honored." For just as honor is bestowed on a man in order to bear witness to the good which is in him, so by being loved a man is shown to have some good, since good alone is lovable. Accordingly men seek to be loved and to be honored, for the sake of something else, viz. to make known the good which is in the person loved. On the other hand, those who have charity seek to love for the sake of loving, as though this were itself the good of charity, even as the act of any virtue is that virtue's good. Hence it is more proper to charity to wish to love than to wish to be loved.
 
 Reply to Objection 3: Some love on account of being loved, not so that to be loved is the end of their loving, but because it is a kind of way leading a man to love.
-## Whether To Love Considered As An Act Of Charity Is The Same As Goodwill?
+### Whether To Love Considered As An Act Of Charity Is The Same As Goodwill?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that to love, considered as an act of charity, is nothing else than goodwill. For the Philosopher says (Rhet. ii, 4) that "to love is to wish a person well"; and this is goodwill. Therefore the act of charity is nothing but goodwill.
 
@@ -41,22 +41,22 @@ Objection 2: Further, the act belongs to the same subject as the habit. Now the 
 
 Objection 3: Further, the Philosopher reckons five things pertaining to friendship (Ethic. ix, 4), the first of which is that a man should wish his friend well; the second, that he should wish him to be and to live; the third, that he should take pleasure in his company; the fourth, that he should make choice of the same things; the fifth, that he should grieve and rejoice with him. Now the first two pertain to goodwill. Therefore goodwill is the first act of charity.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. ix, 5) that "goodwill is neither friendship nor love, but the beginning of friendship." Now charity is friendship, as stated above ([2572]Q[23], A[1]). Therefore goodwill is not the same as to love considered as an act of charity.
 
 I answer that, Goodwill properly speaking is that act of the will whereby we wish well to another. Now this act of the will differs from actual love, considered not only as being in the sensitive appetite but also as being in the intellective appetite or will. For the love which is in the sensitive appetite is a passion. Now every passion seeks its object with a certain eagerness. And the passion of love is not aroused suddenly, but is born of an earnest consideration of the object loved; wherefore the Philosopher, showing the difference between goodwill and the love which is a passion, says (Ethic. ix, 5) that goodwill does not imply impetuosity or desire, that is to say, has not an eager inclination, because it is by the sole judgment of his reason that one man wishes another well. Again such like love arises from previous acquaintance, whereas goodwill sometimes arises suddenly, as happens to us if we look on at a boxing-match, and we wish one of the boxers to win. But the love, which is in the intellective appetite, also differs from goodwill, because it denotes a certain union of affections between the lover and the beloved, in as much as the lover deems the beloved as somewhat united to him, or belonging to him, and so tends towards him. On the other hand, goodwill is a simple act of the will, whereby we wish a person well, even without presupposing the aforesaid union of the affections with him. Accordingly, to love, considered as an act of charity, includes goodwill, but such dilection or love adds union of affections, wherefore the Philosopher says (Ethic. ix, 5) that "goodwill is a beginning of friendship."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher, by thus defining "to love," does not describe it fully, but mentions only that part of its definition in which the act of love is chiefly manifested.
 
 Reply to Objection 2: To love is indeed an act of the will tending to the good, but it adds a certain union with the beloved, which union is not denoted by goodwill.
 
 Reply to Objection 3: These things mentioned by the Philosopher belong to friendship because they arise from a man's love for himself, as he says in the same passage, in so far as a man does all these things in respect of his friend, even as he does them to himself: and this belongs to the aforesaid union of the affections.
-## Whether Out Of Charity God Ought To Be Loved For Himself?
+### Whether Out Of Charity God Ought To Be Loved For Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that God is loved out of charity, not for Himself but for the sake of something else. For Gregory says in a homily (In Evang. xi): "The soul learns from the things it knows, to love those it knows not," where by things unknown he means the intelligible and the Divine, and by things known he indicates the objects of the senses. Therefore God is to be loved for the sake of something else.
 
@@ -64,22 +64,22 @@ Objection 2: Further, love follows knowledge. But God is known through something
 
 Objection 3: Further, "hope begets charity" as a gloss says on Mat. 1:1, and "fear leads to charity," according to Augustine in his commentary on the First Canonical Epistle of John (In prim. canon. Joan. Tract. ix). Now hope looks forward to obtain something from God, while fear shuns something which can be inflicted by God. Therefore it seems that God is to be loved on account of some good we hope for, or some evil to be feared. Therefore He is not to be loved for Himself.
 
-### Answer
+**Answer**
 
 On the contrary, According to Augustine (De Doctr. Christ. i), to enjoy is to cleave to something for its own sake. Now "God is to be enjoyed" as he says in the same book. Therefore God is to be loved for Himself.
 
 I answer that, The preposition "for" denotes a relation of causality. Now there are four kinds of cause, viz., final, formal, efficient, and material, to which a material disposition also is to be reduced, though it is not a cause simply but relatively. According to these four different causes one thing is said to be loved for another. In respect of the final cause, we love medicine, for instance, for health; in respect of the formal cause, we love a man for his virtue, because, to wit, by his virtue he is formally good and therefore lovable; in respect of the efficient cause, we love certain men because, for instance, they are the sons of such and such a father; and in respect of the disposition which is reducible to the genus of a material cause, we speak of loving something for that which disposed us to love it, e.g. we love a man for the favors received from him, although after we have begun to love our friend, we no longer love him for his favors, but for his virtue. Accordingly, as regards the first three ways, we love God, not for anything else, but for Himself. For He is not directed to anything else as to an end, but is Himself the last end of all things; nor does He require to receive any form in order to be good, for His very substance is His goodness, which is itself the exemplar of all other good things; nor again does goodness accrue to Him from aught else, but from Him to all other things. In the fourth way, however, He can be loved for something else, because we are disposed by certain things to advance in His love, for instance, by favors bestowed by Him, by the rewards we hope to receive from Him, or even by the punishments which we are minded to avoid through Him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: From the things it knows the soul learns to love what it knows not, not as though the things it knows were the reason for its loving things it knows not, through being the formal, final, or efficient cause of this love, but because this knowledge disposes man to love the unknown.
 
 Reply to Objection 2: Knowledge of God is indeed acquired through other things, but after He is known, He is no longer known through them, but through Himself, according to Jn. 4:42: "We now believe, not for thy saying: for we ourselves have heard Him, and know that this is indeed the Saviour of the world."
 
 Reply to Objection 3: Hope and fear lead to charity by way of a certain disposition, as was shown above ([2573]Q[17], A[8];[2574] Q[19], AA[4],7,10).
-## Whether God Can Be Loved Immediately In This Life?
+### Whether God Can Be Loved Immediately In This Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that God cannot be loved immediately in this life. For the "unknown cannot be loved" as Augustine says (De Trin. x, 1). Now we do not know God immediately in this life, since "we see now through a glass, in a dark manner" (1 Cor. 13:12). Neither, therefore, do we love Him immediately.
 
@@ -87,7 +87,7 @@ Objection 2: Further, he who cannot do what is less, cannot do what is more. Now
 
 Objection 3: Further, man is severed from God by sin, according to Is. 59:2: "Your iniquities have divided between you and your God." Now sin is in the will rather than in the intellect. Therefore man is less able to love God immediately than to know Him immediately.
 
-### Answer
+**Answer**
 
 On the contrary, Knowledge of God, through being mediate, is said to be "enigmatic," and "falls away" in heaven, as stated in 1 Cor. 13:12. But charity "does not fall away" as stated in the same passage (1 Cor. 13:12). Therefore the charity of the way adheres to God immediately.
 
@@ -97,16 +97,16 @@ Now in itself the very order of things is such, that God is knowable and lovable
 
 Accordingly, we must assert that to love which is an act of the appetitive power, even in this state of life, tends to God first, and flows on from Him to other things, and in this sense charity loves God immediately, and other things through God. On the other hand, with regard to knowledge, it is the reverse, since we know God through other things, either as a cause through its effects, or by way of pre-eminence or negation as Dionysius states (Div. Nom. i; cf. [2576]FP, Q[12], A[12]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the unknown cannot be loved, it does not follow that the order of knowledge is the same as the order of love, since love is the term of knowledge, and consequently, love can begin at once where knowledge ends, namely in the thing itself which is known through another thing.
 
 Reply to Objection 2: Since to love God is something greater than to know Him, especially in this state of life, it follows that love of God presupposes knowledge of God. And because this knowledge does not rest in creatures, but, through them, tends to something else, love begins there, and thence goes on to other things by a circular movement so to speak; for knowledge begins from creatures, tends to God, and love begins with God as the last end, and passes on to creatures.
 
 Reply to Objection 3: Aversion from God, which is brought about by sin, is removed by charity, but not by knowledge alone: hence charity, by loving God, unites the soul immediately to Him with a chain of spiritual union.
-## Whether God Can Be Loved Wholly?
+### Whether God Can Be Loved Wholly?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that God cannot be loved wholly. For love follows knowledge. Now God cannot be wholly known by us, since this would imply comprehension of Him. Therefore He cannot be wholly loved by us.
 
@@ -114,7 +114,7 @@ Objection 2: Further, love is a kind of union, as Dionysius shows (Div. Nom. iv)
 
 Objection 3: Further, God loves Himself wholly. If therefore He be loved wholly by another, this one will love Him as much as God loves Himself. But this is unreasonable. Therefore God cannot be wholly loved by a creature.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Dt. 6:5): "Thou shalt love the Lord thy God with thy whole heart."
 
@@ -125,9 +125,9 @@ Secondly, it may be understood as though "wholly" qualified the lover: and thus 
 Thirdly, it may be understood by way of comparison of the lover to the thing loved, so that the mode of the lover equal the mode of the thing loved. This is impossible: for, since a thing is lovable in proportion to its goodness, God is infinitely lovable, since His goodness is infinite. Now no creature can love God infinitely, because all power of creatures, whether it be natural or infused, is finite.
 
 This suffices for the Replies to the Objections, because the first three objections consider the question in this third sense, while the last takes it in the second sense.
-## Whether In Loving God We Ought To Observe Any Mode?
+### Whether In Loving God We Ought To Observe Any Mode?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought to observe some mode in loving God. For the notion of good consists in mode, species and order, as Augustine states (De Nat. Boni iii, iv). Now the love of God is the best thing in man, according to Col. 3:14: "Above all . . . things, have charity." Therefore there ought to be a mode of the love of God.
 
@@ -135,7 +135,7 @@ Objection 2: Further, Augustine says (De Morib. Eccl. viii): "Prithee, tell me w
 
 Objection 3: Further, as Augustine says (Gen. ad lit. iv, 3), "the measure which nature appoints to a thing, is its mode." Now the measure of the human will, as also of external action, is the reason. Therefore just as it is necessary for the reason to appoint a mode to the exterior effect of charity, according to Rom. 12:1: "Your reasonable service," so also the interior love of God requires a mode.
 
-### Answer
+**Answer**
 
 On the contrary, Bernard says (De Dilig. Deum 1) that "God is the cause of our loving God; the measure is to love Him without measure."
 
@@ -145,16 +145,16 @@ Now in all matters of appetite and action the measure is the end, because the pr
 
 Again, the end of all human actions and affections is the love of God, whereby principally we attain to our last end, as stated above ([2577]Q[23], A[6]), wherefore the mode in the love of God, must not be taken as in a thing measured where we find too much or too little, but as in the measure itself, where there cannot be excess, and where the more the rule is attained the better it is, so that the more we love God the better our love is.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That which is so by its essence takes precedence of that which is so through another, wherefore the goodness of the measure which has the mode essentially, takes precedence of the goodness of the thing measured, which has its mode through something else; and so too, charity, which has a mode as a measure has, stands before the other virtues, which have a mode through being measured .
 
 Reply to Objection 2: As Augustine adds in the same passage, "the measure of our love for God is to love Him with our whole heart," that is to love Him as much as He can be loved, and this belongs to the mode which is proper to the measure.
 
 Reply to Objection 3: An affection, whose object is subject to reason's judgment, should be measured by reason. But the object of the Divine love which is God surpasses the judgment of reason, wherefore it is not measured by reason but transcends it. Nor is there parity between the interior act and external acts of charity. For the interior act of charity has the character of an end, since man's ultimate good consists in his soul cleaving to God, according to Ps. 72:28: "It is good for me to adhere to my God"; whereas the exterior acts are as means to the end, and so have to be measured both according to charity and according to reason.
-## Whether It Is More Meritorious To Love An Enemy Than To Love A Friend?
+### Whether It Is More Meritorious To Love An Enemy Than To Love A Friend?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem more meritorious to love an enemy than to love a friend. For it is written (Mat. 5:46): "If you love them that love you, what reward shall you have?" Therefore it is not deserving of reward to love one's friend: whereas, as the same passage proves, to love one's enemy is deserving of a reward. Therefore it is more meritorious to love one's enemy than to love one's friend.
 
@@ -162,7 +162,7 @@ Objection 2: Further, an act is the more meritorious through proceeding from a g
 
 Objection 3: Further, where there is more effort for good, there seems to be more merit, since "every man shall receive his own reward according to his own labor" (1 Cor. 3:8). Now a man has to make a greater effort to love his enemy than to love his friend, because it is more difficult. Therefore it seems more meritorious to love one's enemy than to love one's friend.
 
-### Answer
+**Answer**
 
 On the contrary, The better an action is, the more meritorious it is. Now it is better to love one's friend, since it is better to love a better man, and the friend who loves you is better than the enemy who hates you. Therefore it is more meritorious to love one's friend than to love one's enemy.
 
@@ -174,12 +174,12 @@ In the second way, however, it is better to love one's enemy than one's friend, 
 
 Yet just as the same fire acts with greater force on what is near than on what is distant, so too, charity loves with greater fervor those who are united to us than those who are far removed; and in this respect the love of friends, considered in itself, is more ardent and better than the love of one's enemy.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The words of Our Lord must be taken in their strict sense: because the love of one's friends is not meritorious in God's sight when we love them merely because they are our friends: and this would seem to be the case when we love our friends in such a way that we love not our enemies. On the other hand the love of our friends is meritorious, if we love them for God's sake, and not merely because they are our friends.
-## Whether It Is More Meritorious To Love One's Neighbor Than To Love God?
+### Whether It Is More Meritorious To Love One's Neighbor Than To Love God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is more meritorious to love one's neighbor than to love God. For the more meritorious thing would seem to be what the Apostle preferred. Now the Apostle preferred the love of our neighbor to the love of God, according to Rom. 9:3: "I wished myself to be an anathema from Christ for my brethren." Therefore it is more meritorious to love one's neighbor than to love God.
 
@@ -187,13 +187,13 @@ Objection 2: Further, in a certain sense it seems to be less meritorious to love
 
 Objection 3: Further, whatever is more difficult seems to be more virtuous and meritorious since "virtue is about that which is difficult and good" (Ethic. ii, 3). Now it is easier to love God than to love one's neighbor, both because all things love God naturally, and because there is nothing unlovable in God, and this cannot be said of one's neighbor. Therefore it is more meritorious to love one's neighbor than to love God.
 
-### Answer
+**Answer**
 
 On the contrary, That on account of which a thing is such, is yet more so. Now the love of one's neighbor is not meritorious, except by reason of his being loved for God's sake. Therefore the love of God is more meritorious than the love of our neighbor.
 
 I answer that, This comparison may be taken in two ways. First, by considering both loves separately: and then, without doubt, the love of God is the more meritorious, because a reward is due to it for its own sake, since the ultimate reward is the enjoyment of God, to Whom the movement of the Divine love tends: hence a reward is promised to him that loves God (Jn. 14:21): "He that loveth Me, shall be loved of My Father, and I will . . . manifest Myself to him." Secondly, the comparison may be understood to be between the love of God alone on the one side, and the love of one's neighbor for God's sake, on the other. In this way love of our neighbor includes love of God, while love of God does not include love of our neighbor. Hence the comparison will be between perfect love of God, extending also to our neighbor, and inadequate and imperfect love of God, for "this commandment we have from God, that he, who loveth God, love also his brother" (1 Jn. 4:21).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to one gloss, the Apostle did not desire this, viz. to be severed from Christ for his brethren, when he was in a state of grace, but had formerly desired it when he was in a state of unbelief, so that we should not imitate him in this respect.
 

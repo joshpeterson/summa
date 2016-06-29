@@ -1,9 +1,9 @@
 # Of The Impediments Of Marriage, In General
 
 In the next place we must consider the impediments of marriage: (1) In general; (2) In particular.
-## Whether It Is Fitting That Impediments Should Be Assigned To Marriage?
+### Whether It Is Fitting That Impediments Should Be Assigned To Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unfitting for impediments to be assigned to marriage. For marriage is a sacrament condivided with the others. But no impediments are assigned to the others. Neither therefore should they be assigned to marriage.
 
@@ -23,7 +23,7 @@ Objection 8: On the other hand, it would seem that there should be an infinite n
 
 Objection 9: Further, the impediments to marriage arise from the conditions of individuals. But such like conditions are infinite in number. Therefore the impediments to marriage are also infinite.
 
-### Answer
+**Answer**
 
 
 
@@ -49,7 +49,7 @@ The reason for this number may be explained as follows: Marriage may be hindered
 
 If, however, a person is hindered from marrying, not simply but in reference to a particular person, this is either because he is bound to another person, and thus he who is married to one cannot marry another, which constitutes the impediment of the "bond of marriage"---or through lack of proportion to the other party, and this for three reasons. First, on account of too great a distance separating them, and thus we have "difference of worship"; secondly, on account of their being too closely related, and thus we have three impediments, namely "kinship," then "affinity," which denotes the close relationship between two persons, in reference to a third united to one of them by marriage, and the "justice of public honesty," where we have a close relationship between two persons arising out of the betrothal of one of them to a third person; thirdly, on account of a previous undue union between him and the woman, and thus the "crime of adultery" previously committed with her is an impediment.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There may be impediments to the other sacraments also in the omission either of that which is essential, or of that which pertains to the solemnization of the sacrament, as stated above. However, impediments are assigned to matrimony rather than to the other sacraments for three reasons. First, because matrimony consists of two persons, and consequently can be impeded in more ways than the other sacraments which refer to one person taken individually; secondly, because matrimony has its cause in us and in God, while some of the other sacraments have their cause in God alone. Wherefore penance which in a manner has a cause in us, is assigned certain impediments by the Master (Sent. iv, D, 16), such as hypocrisy, the public games, and so forth; thirdly, because other sacraments are objects of command or counsel, as being more perfect goods, whereas marriage is a matter of indulgence, as being a less perfect good (1 Cor. 7:6). Wherefore, in order to afford an opportunity of proficiency towards a greater good, more impediments are assigned to matrimony than to the other sacraments.
 

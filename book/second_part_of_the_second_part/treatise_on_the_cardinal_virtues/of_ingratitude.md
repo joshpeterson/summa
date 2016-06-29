@@ -5,9 +5,9 @@ We must now consider ingratitude, under which head there are four points of inqu
 (2) Whether ingratitude is a special sin?
 (3) Whether every act of ingratitude is a mortal sin?
 (4) Whether favors should be withdrawn from the ungrateful?
-## Whether Ingratitude Is Always A Sin?
+### Whether Ingratitude Is Always A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that ingratitude is not always a sin. For Seneca says (De Benef. iii) that "he who does not repay a favor is ungrateful." But sometimes it is impossible to repay a favor without sinning, for instance if one man has helped another to commit a sin. Therefore, since it is not a sin to refrain from sinning, it seems that ingratitude is not always a sin.
 
@@ -15,22 +15,22 @@ Objection 2: Further, every sin is in the power of the person who commits it: be
 
 Objection 3: Further, there would seem to be no repayment in being unwilling to owe anything, according to the Apostle (Rom. 13:8), "Owe no man anything." Yet "an unwilling debtor is ungrateful," as Seneca declares (De Benef. iv). Therefore ingratitude is not always a sin.
 
-### Answer
+**Answer**
 
 On the contrary, Ingratitude is reckoned among other sins (2 Tim. 3:2), where it is written: "Disobedient to parents, ungrateful, wicked." etc.
 
 I answer that, As stated above ([3191]Q[106], A[4], ad 1, A[6]) a debt of gratitude is a moral debt required by virtue. Now a thing is a sin from the fact of its being contrary to virtue. Wherefore it is evident that every ingratitude is a sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Gratitude regards a favor received: and he that helps another to commit a sin does him not a favor but an injury: and so no thanks are due to him, except perhaps on account of his good will, supposing him to have been deceived, and to have thought to help him in doing good, whereas he helped him to sin. In such a case the repayment due to him is not that he should be helped to commit a sin, because this would be repaying not good but evil, and this is contrary to gratitude.
 
 Reply to Objection 2: No man is excused from ingratitude through inability to repay, for the very reason that the mere will suffices for the repayment of the debt of gratitude, as stated above ([3192]Q[106], A[6], ad 1).
 
 Reply to Objection 3: The debt of gratitude flows from the debt of love, and from the latter no man should wish to be free. Hence that anyone should owe this debt unwillingly seems to arise from lack of love for his benefactor.
-## Whether Ingratitude Is A Special Sin?
+### Whether Ingratitude Is A Special Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that ingratitude is not a special sin. For whoever sins acts against God his sovereign benefactor. But this pertains to ingratitude. Therefore ingratitude is not a special sin.
 
@@ -38,7 +38,7 @@ Objection 2: Further, no special sin is contained under different kinds of sin. 
 
 Objection 3: Further, Seneca writes (De Benef. iii): "It is ungrateful to take no notice of a kindness, it is ungrateful not to repay one, but it is the height of ingratitude to forget it." Now these do not seem to belong to the same species of sin. Therefore ingratitude is not a special sin.
 
-### Answer
+**Answer**
 
 On the contrary, Ingratitude is opposed to gratitude or thankfulness, which is a special virtue. Therefore it is a special sin.
 
@@ -46,16 +46,16 @@ I answer that, Every vice is denominated from a deficiency of virtue, because de
 
 It has, however, various degrees corresponding in their order to the things required for gratitude. The first of these is to recognize the favor received, the second to express one's appreciation and thanks, and the third to repay the favor at a suitable place and time according to one's means. And since what is last in the order of generation is first in the order of destruction, it follows that the first degree of ingratitude is when a man fails to repay a favor, the second when he declines to notice or indicate that he has received a favor, while the third and supreme degree is when a man fails to recognize the reception of a favor, whether by forgetting it or in any other way. Moreover, since opposite affirmation includes negation, it follows that it belongs to the first degree of ingratitude to return evil for good, to the second to find fault with a favor received, and to the third to esteem kindness as though it were unkindness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In every sin there is material ingratitude to God, inasmuch as a man does something that may pertain to ingratitude. But formal ingratitude is when a favor is actually contemned, and this is a special sin.
 
 Reply to Objection 2: Nothing hinders the formal aspect of some special sin from being found materially in several kinds of sin, and in this way the aspect of ingratitude is to be found in many kinds of sin.
 
 Reply to Objection 3: These three are not different species but different degrees of one special sin.
-## Whether Ingratitude Is Always A Mortal Sin?
+### Whether Ingratitude Is Always A Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that ingratitude is always a mortal sin. For one ought to be grateful to God above all. But one is not ungrateful to God by committing a venial sin: else every man would be guilty of ingratitude. Therefore no ingratitude is a venial sin.
 
@@ -65,7 +65,7 @@ Objection 3: Further, Seneca says (De Benef. ii): "Between the giver and the rec
 
 Objection 4: On the contrary, No one should be put in the way of committing a mortal sin. Yet, according to Seneca (De Benef. ii), "sometimes it is necessary to deceive the person who receives assistance, in order that he may receive without knowing from whom he has received." But this would seem to put the recipient in the way of ingratitude. Therefore ingratitude is not always a mortal sin.
 
-### Answer
+**Answer**
 
 
 
@@ -75,7 +75,7 @@ Secondly, a man may be ungrateful, because he not only omits to pay the debt of 
 
 It must be observed, however, that when ingratitude arises from a mortal sin, it has the perfect character of ingratitude, and when it arises from venial sin, it has the imperfect character.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: By committing a venial sin one is not ungrateful to God to the extent of incurring the guilt of perfect ingratitude: but there is something of ingratitude in a venial sin, in so far as it removes a virtuous act of obedience to God.
 
@@ -84,9 +84,9 @@ Reply to Objection 2: When ingratitude is a venial sin it is not contrary to, bu
 Reply to Objection 3: Seneca also says (De Benef. vii): "When we say that a man after conferring a favor should forget about it, it is a mistake to suppose that we mean him to shake off the recollection of a thing so very praiseworthy. When we say: He must not remember it, we mean that he must not publish it abroad and boast about it."
 
 Reply to Objection 4: He that is unaware of a favor conferred on him is not ungrateful, if he fails to repay it, provided he be prepared to do so if he knew. It is nevertheless commendable at times that the object of a favor should remain in ignorance of it, both in order to avoid vainglory, as when Blessed Nicolas threw gold into a house secretly, wishing to avoid popularity: and because the kindness is all the greater through the benefactor wishing not to shame the person on whom he is conferring the favor.
-## Whether Favors Should Be Withheld From The Ungrateful?
+### Whether Favors Should Be Withheld From The Ungrateful?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that favors should withheld from the ungrateful. For it is written (Wis. 16:29): "The hope of the unthankful shall melt away as the winter's ice." But this hope would not melt away unless favors were withheld from him. Therefore favors should be withheld from the ungrateful.
 
@@ -94,13 +94,13 @@ Objection 2: Further, no one should afford another an occasion of committing sin
 
 Objection 3: Further, "By what things a man sinneth, by the same also he is tormented" (Wis. 11:17). Now he that is ungrateful when he receives a favor sins against the favor. Therefore he should be deprived of the favor.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 6:35) that "the Highest . . . is kind to the unthankful, and to the evil." Now we should prove ourselves His children by imitating Him (Lk. 6:36). Therefore we should not withhold favors from the ungrateful.
 
 I answer that, There are two points to be considered with regard to an ungrateful person. The first is what he deserves to suffer and thus it is certain that he deserves to be deprived of our favor. The second is, what ought his benefactor to do? For in the first place he should not easily judge him to be ungrateful, since, as Seneca remarks (De Benef. iii), "a man is often grateful although he repays not," because perhaps he has not the means or the opportunity of repaying. Secondly, he should be inclined to turn his ungratefulness into gratitude, and if he does not achieve this by being kind to him once, he may by being so a second time. If, however, the more he repeats his favors, the more ungrateful and evil the other becomes, he should cease from bestowing his favors upon him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The passage quoted speaks of what the ungrateful man deserves to suffer.
 

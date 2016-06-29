@@ -13,9 +13,9 @@ After considering justice we must in due sequence consider fortitude. We must (1
 (10) Whether it makes use of anger in its action?
 (11) Whether it is a cardinal virtue?
 (12) Of its comparison with the other cardinal virtues.
-## Whether Fortitude Is A Virtue?
+### Whether Fortitude Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fortitude is not a virtue. For the Apostle says (2 Cor. 12:9): "Virtue is perfected in infirmity." But fortitude is contrary to infirmity. Therefore fortitude is not a virtue.
 
@@ -23,7 +23,7 @@ Objection 2: Further, if it is a virtue, it is either theological, intellectual,
 
 Objection 3: Further, human virtue resides chiefly in the soul, since it is a "good quality of the mind," as stated above (Ethic. iii, 7,8). But fortitude, seemingly, resides in the body, or at least results from the temperament of the body. Therefore it seems that fortitude is not a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine (De Morib. Eccl. xv, xxi, xxii) numbers fortitude among the virtues.
 
@@ -31,16 +31,16 @@ I answer that, According to the Philosopher (Ethic. ii, 6) "virtue is that which
 
 Hence it is evident that fortitude is a virtue, in so far as it conforms man to reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The virtue of the soul is perfected, not in the infirmity of the soul, but in the infirmity of the body, of which the Apostle was speaking. Now it belongs to fortitude of the mind to bear bravely with infirmities of the flesh, and this belongs to the virtue of patience or fortitude, as also to acknowledge one's own infirmity, and this belongs to the perfection that is called humility.
 
 Reply to Objection 2: Sometimes a person performs the exterior act of a virtue without having the virtue, and from some other cause than virtue. Hence the Philosopher (Ethic. iii, 8) mentions five ways in which people are said to be brave by way of resemblance, through performing acts of fortitude without having the virtue. This may be done in three ways. First, because they tend to that which is difficult as though it were not difficult: and this again happens in three ways, for sometimes this is owing to ignorance, through not perceiving the greatness of the danger; sometimes it is owing to the fact that one is hopeful of overcoming dangers---when, for instance, one has often experienced escape from danger; and sometimes this is owing to a certain science and art, as in the case of soldiers who, through skill and practice in the use of arms, think little of the dangers of battle, as they reckon themselves capable of defending themselves against them; thus Vegetius says (De Re Milit. i), "No man fears to do what he is confident of having learned to do well." Secondly, a man performs an act of fortitude without having the virtue, through the impulse of a passion, whether of sorrow that he wishes to cast off, or again of anger. Thirdly, through choice, not indeed of a due end, but of some temporal advantage to be obtained, such as honor, pleasure, or gain, or of some disadvantage to be avoided, such as blame, pain, or loss.
 
 Reply to Objection 3: The fortitude of the soul which is reckoned a virtue, as explained in the Reply to the First Objection, is so called from its likeness to fortitude of the body. Nor is it inconsistent with the notion of virtue, that a man should have a natural inclination to virtue by reason of his natural temperament, as stated above ([3284]FS, Q[63], A[1]).
-## Whether Fortitude Is A Special Virtue?
+### Whether Fortitude Is A Special Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fortitude is not a special virtue. For it is written (Wis. 7:7): "She teacheth temperance, and prudence, and justice, and fortitude," where the text has "virtue" for "fortitude." Since then the term "virtue" is common to all virtues, it seems that fortitude is a general virtue.
 
@@ -48,22 +48,22 @@ Objection 2: Further, Ambrose says (De Offic. i): "Fortitude is not lacking in c
 
 Objection 3: Further, fortitude would seem to derive its name from firmness. But it belongs to every virtue to stand firm, as stated in Ethic. ii. Therefore fortitude is a general virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxii) numbers it among the other virtues.
 
 I answer that, As stated above ([3285]FS, Q[61], AA[3],4), the term "fortitude" can be taken in two ways. First, as simply denoting a certain firmness of mind, and in this sense it is a general virtue, or rather a condition of every virtue, since as the Philosopher states (Ethic. ii), it is requisite for every virtue to act firmly and immovably. Secondly, fortitude may be taken to denote firmness only in bearing and withstanding those things wherein it is most difficult to be firm, namely in certain grave dangers. Therefore Tully says (Rhet. ii), that "fortitude is deliberate facing of dangers and bearing of toils." In this sense fortitude is reckoned a special virtue, because it has a special matter.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to the Philosopher (De Coelo i, 116) the word virtue refers to the extreme limit of a power. Now a natural power is, in one sense, the power of resisting corruptions, and in another sense is a principle of action, as stated in Metaph. v, 17. And since this latter meaning is the more common, the term "virtue," as denoting the extreme limit of such a power, is a common term, for virtue taken in a general sense is nothing else than a habit whereby one acts well. But as denoting the extreme limit of power in the first sense, which sense is more specific, it is applied to a special virtue, namely fortitude, to which it belongs to stand firm against all kinds of assaults.
 
 Reply to Objection 2: Ambrose takes fortitude in a broad sense, as denoting firmness of mind in face of assaults of all kinds. Nevertheless even as a special virtue with a determinate matter, it helps to resist the assaults of all vices. For he that can stand firm in things that are most difficult to bear, is prepared, in consequence, to resist those which are less difficult.
 
 Reply to Objection 3: This objection takes fortitude in the first sense.
-## Whether Fortitude Is About Fear And Dying?
+### Whether Fortitude Is About Fear And Dying?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fortitude is not about fear and daring. For Gregory says (Moral. vii): "The fortitude of the just man is to overcome the flesh, to withstand self-indulgence, to quench the lusts of the present life." Therefore fortitude seems to be about pleasures rather than about fear and daring.
 
@@ -71,22 +71,22 @@ Objection 2: Further, Tully says (De Invent. Rhet. ii), that it belongs to forti
 
 Objection 3: Further, not only daring, but also hope, is opposed to fear, as stated above ([3286]FS, Q[45], A[1], ad 2) in the treatise on passions. Therefore fortitude should not be about daring any more than about hope.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. ii, 7; iii, 9) that fortitude is about fear and daring.
 
 I answer that, As stated above [3287](A[1]), it belongs to the virtue of fortitude to remove any obstacle that withdraws the will from following the reason. Now to be withdrawn from something difficult belongs to the notion of fear, which denotes withdrawal from an evil that entails difficulty, as stated above ([3288]FS, Q[42], AA[3],5) in the treatise on passions. Hence fortitude is chiefly about fear of difficult things, which can withdraw the will from following the reason. And it behooves one not only firmly to bear the assault of these difficulties by restraining fear, but also moderately to withstand them, when, to wit, it is necessary to dispel them altogether in order to free oneself therefrom for the future, which seems to come under the notion of daring. Therefore fortitude is about fear and daring, as curbing fear and moderating daring.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Gregory is speaking then of the fortitude of the just man, as to its common relation to all virtues. Hence he first of all mentions matters pertaining to temperance, as in the words quoted, and then adds that which pertains properly to fortitude as a special virtue, by saying: "To love the trials of this life for the sake of an eternal reward."
 
 Reply to Objection 2: Dangers and toils do not withdraw the will from the course of reason, except in so far as they are an object of fear. Hence fortitude needs to be immediately about fear and daring, but mediately about dangers and toils, these being the objects of those passions.
 
 Reply to Objection 3: Hope is opposed to fear on the part of the object, for hope is of good, fear of evil: whereas daring is about the same object, and is opposed to fear by way of approach and withdrawal, as stated above ([3289]FS, Q[45], A[1]). And since fortitude properly regards those temporal evils that withdraw one from virtue, as appears from Tully's definition quoted in the Second Objection, it follows that fortitude properly is about fear and daring and not about hope, except in so far as it is connected with daring, as stated above ([3290]FS, Q[45], A[2]).
-## Whether Fortitude Is Only About Dangers Of Death?
+### Whether Fortitude Is Only About Dangers Of Death?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fortitude is not only about dangers of death. For Augustine says (De Morib. Eccl. xv) that "fortitude is love bearing all things readily for the sake of the object beloved": and (Music. vi) he says that fortitude is "the love which dreads no hardship, not even death." Therefore fortitude is not only about danger of death, but also about other afflictions.
 
@@ -94,22 +94,22 @@ Objection 2: Further, all the passions of the soul need to be reduced to a mean 
 
 Objection 3: Further, no virtue is about extremes. But fear of death is about an extreme, since it is the greatest of fears, as stated in Ethic. iii. Therefore the virtue of fortitude is not about fear of death.
 
-### Answer
+**Answer**
 
 On the contrary, Andronicus says that "fortitude is a virtue of the irascible faculty that is not easily deterred by the fear of death."
 
 I answer that, As stated above [3291](A[3]), it belongs to the virtue of fortitude to guard the will against being withdrawn from the good of reason through fear of bodily evil. Now it behooves one to hold firmly the good of reason against every evil whatsoever, since no bodily good is equivalent to the good of the reason. Hence fortitude of soul must be that which binds the will firmly to the good of reason in face of the greatest evils: because he that stands firm against great things, will in consequence stand firm against less things, but not conversely. Moreover it belongs to the notion of virtue that it should regard something extreme: and the most fearful of all bodily evils is death, since it does away all bodily goods. Wherefore Augustine says (De Morib. Eccl. xxii) that "the soul is shaken by its fellow body, with fear of toil and pain, lest the body be stricken and harassed with fear of death lest it be done away and destroyed." Therefore the virtue of fortitude is about the fear of dangers of death.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Fortitude behaves well in bearing all manner of adversity: yet a man is not reckoned brave simply through bearing any kind of adversity, but only through bearing well even the greatest evils; while through bearing others he is said to be brave in a restricted sense.
 
 Reply to Objection 2: Since fear is born of love, any virtue that moderates the love of certain goods must in consequence moderate the fear of contrary evils: thus liberality, which moderates the love of money, as a consequence, moderates the fear of losing it, and the same is the case with temperance and other virtues. But to love one's own life is natural: and hence the necessity of a special virtue modifying the fear of death.
 
 Reply to Objection 3: In virtues the extreme consists in exceeding right reason: wherefore to undergo the greatest dangers in accordance with reason is not contrary to virtue.
-## Whether Fortitude Is Properly About Dangers Of Death In Battle?
+### Whether Fortitude Is Properly About Dangers Of Death In Battle?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fortitude is not properly about dangers of death in battle. For martyrs above all are commended for their fortitude. But martyrs are not commended in connection with battle. Therefore fortitude is not properly about dangers of death in battle.
 
@@ -117,7 +117,7 @@ Objection 2: Further, Ambrose says (De Offic. i) that "fortitude is applicable b
 
 Objection 3: Further, war is directed to the preservation of a country's temporal peace: for Augustine says (De Civ. Dei xix) that "wars are waged in order to insure peace." Now it does not seem that one ought to expose oneself to the danger of death for the temporal peace of one's country, since this same peace is the occasion of much license in morals. Therefore it seems that the virtue of fortitude is not about the danger of death in battle.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iii) that fortitude is chiefly about death in battle.
 
@@ -125,16 +125,16 @@ I answer that, As stated above [3292](A[4]), fortitude strengthens a man's mind 
 
 Moreover, a brave man behaves well in face of danger of any other kind of death; especially since man may be in danger of any kind of death on account of virtue: thus may a man not fail to attend on a sick friend through fear of deadly infection, or not refuse to undertake a journey with some godly object in view through fear of shipwreck or robbers.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Martyrs face the fight that is waged against their own person, and this for the sake of the sovereign good which is God; wherefore their fortitude is praised above all. Nor is it outside the genus of fortitude that regards warlike actions, for which reason they are said to have been valiant in battle. [*Office of Martyrs, ex. Heb. xi. 34.]
 
 Reply to Objection 2: Personal and civil business is differentiated from the business of war that regards general wars. However, personal and civil affairs admit of dangers of death arising out of certain conflicts which are private wars, and so with regard to these also there may be fortitude properly so called.
 
 Reply to Objection 3: The peace of the state is good in itself, nor does it become evil because certain persons make evil use of it. For there are many others who make good use of it; and many evils prevented by it, such as murders and sacrileges, are much greater than those which are occasioned by it, and which belong chiefly to the sins of the flesh.
-## Whether Endurance Is The Chief Act Of Fortitude?
+### Whether Endurance Is The Chief Act Of Fortitude?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that endurance is not the chief act of fortitude. For virtue "is about the difficult and the good" (Ethic. ii, 3). Now it is more difficult to attack than to endure. Therefore endurance is not the chief act of fortitude.
 
@@ -142,22 +142,22 @@ Objection 2: Further, to be able to act on another seems to argue greater power 
 
 Objection 3: Further, one contrary is more distant from the other than its mere negation. Now to endure is merely not to fear, whereas to attack denotes a movement contrary to that of fear, since it implies pursuit. Since then fortitude above all withdraws the mind from fear, it seems that it regards attack rather than endurance.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iii, 9) that "certain persons are" said to be brave chiefly because they endure affliction.
 
 I answer that, As stated above [3293](A[3]), and according to the Philosopher (Ethic. iii, 9), "fortitude is more concerned to allay fear, than to moderate daring." For it is more difficult to allay fear than to moderate daring, since the danger which is the object of daring and fear, tends by its very nature to check daring, but to increase fear. Now to attack belongs to fortitude in so far as the latter moderates daring, whereas to endure follows the repression of fear. Therefore the principal act of fortitude is endurance, that is to stand immovable in the midst of dangers rather than to attack them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Endurance is more difficult than aggression, for three reasons. First, because endurance seemingly implies that one is being attacked by a stronger person, whereas aggression denotes that one is attacking as though one were the stronger party; and it is more difficult to contend with a stronger than with a weaker. Secondly, because he that endures already feels the presence of danger, whereas the aggressor looks upon danger as something to come; and it is more difficult to be unmoved by the present than by the future. Thirdly, because endurance implies length of time, whereas aggression is consistent with sudden movements; and it is more difficult to remain unmoved for a long time, than to be moved suddenly to something arduous. Hence the Philosopher says (Ethic. iii, 8) that "some hurry to meet danger, yet fly when the danger is present; this is not the behavior of a brave man."
 
 Reply to Objection 2: Endurance denotes indeed a passion of the body, but an action of the soul cleaving most resolutely [fortissime] to good, the result being that it does not yield to the threatening passion of the body. Now virtue concerns the soul rather than the body.
 
 Reply to Objection 3: He that endures fears not, though he is confronted with the cause of fear, whereas this cause is not present to the aggressor.
-## Whether The Brave Man Acts For The Sake Of The Good Of His Habit?
+### Whether The Brave Man Acts For The Sake Of The Good Of His Habit?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the brave man does not act for the sake of the good of his habit. For in matters of action the end, though first in intention, is last in execution. Now the act of fortitude, in the order of execution, follows the habit of fortitude. Therefore it is impossible for the brave man to act for the sake of the good of his habit.
 
@@ -165,16 +165,16 @@ Objection 2: Further, Augustine says (De Trin. xiii): "We love virtues for the s
 
 Objection 3: Further, Augustine says (De Morib. Eccl. xv) that "fortitude is love ready to bear all things for God's sake." Now God is not the habit of fortitude, but something better, since the end must needs be better than what is directed to the end. Therefore the brave man does not act for the sake of the good of his habit.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iii, 7) that "to the brave man fortitude itself is a good": and such is his end.
 
 I answer that, An end is twofold: proximate and ultimate. Now the proximate end of every agent is to introduce a likeness of that agent's form into something else: thus the end of fire in heating is to introduce the likeness of its heat into some passive matter, and the end of the builder is to introduce into matter the likeness of his art. Whatever good ensues from this, if it be intended, may be called the remote end of the agent. Now just as in things made, external matter is fashioned by art, so in things done, human deeds are fashioned by prudence. Accordingly we must conclude that the brave man intends as his proximate end to reproduce in action a likeness of his habit, for he intends to act in accordance with his habit: but his remote end is happiness or God.
 
 This suffices for the Replies to the Objections: for the First Objection proceeds as though the very essence of a habit were its end, instead of the likeness of the habit in act, as stated. The other two objections consider the ultimate end.
-## Whether The Brave Man Delights In His Act?
+### Whether The Brave Man Delights In His Act?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the brave man delights in his act. For "delight is the unhindered action of a connatural habit" (Ethic. x, 4,6,8). Now the brave deed proceeds from a habit which acts after the manner of nature. Therefore the brave man takes pleasure in his act.
 
@@ -182,7 +182,7 @@ Objection 2: Further, Ambrose, commenting on Gal. 5:22, "But the fruit of the Sp
 
 Objection 3: Further, the weaker is overcome by the stronger. Now the brave man has a stronger love for the good of virtue than for his own body, which he exposes to the danger of death. Therefore the delight in the good of virtue banishes the pain of the body; and consequently the brave man does all things with pleasure.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iii, 9) that "the brave man seems to have no delight in his act."
 
@@ -192,16 +192,16 @@ Now the sensible pain of the body makes one insensible to the spiritual delight 
 
 Yet the virtue of fortitude prevents the reason from being entirely overcome by bodily pain. And the delight of virtue overcomes spiritual sorrow, inasmuch as a man prefers the good of virtue to the life of the body and to whatever appertains thereto. Hence the Philosopher says (Ethic. ii, 3; iii, 9) that "it is not necessary for a brave man to delight so as to perceive his delight, but it suffices for him not to be sad."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The vehemence of the action or passion of one power hinders the action of another power: wherefore the pain in his senses hinders the mind of the brave man from feeling delight in its proper operation.
 
 Reply to Objection 2: Deeds of virtue are delightful chiefly on account of their end; yet they can be painful by their nature, and this is principally the case with fortitude. Hence the Philosopher says (Ethic. iii, 9) that "to perform deeds with pleasure does not happen in all virtues, except in so far as one attains the end."
 
 Reply to Objection 3: In the brave man spiritual sorrow is overcome by the delight of virtue. Yet since bodily pain is more sensible, and the sensitive apprehension is more in evidence to man, it follows that spiritual pleasure in the end of virtue fades away, so to speak, in the presence of great bodily pain.
-## Whether Fortitude Deals Chiefly With Sudden Occurrences?
+### Whether Fortitude Deals Chiefly With Sudden Occurrences?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fortitude does not deal chiefly with sudden occurrences. For it would seem that things occur suddenly when they are unforeseen. But Tully says (De Invent. Rhet. ii) that "fortitude is the deliberate facing of danger, and bearing of toil." Therefore fortitude does not deal chiefly with sudden happenings.
 
@@ -209,16 +209,16 @@ Objection 2: Further, Ambrose says (De Offic. i): "The brave man is not unmindfu
 
 Objection 3: Further, the Philosopher says (Ethic. iii, 8) that the "brave man is of good hope." But hope looks forward to the future, which is inconsistent with sudden occurrences. Therefore the operation of fortitude is not concerned with sudden happenings.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iii, 8) that "fortitude is chiefly about sudden dangers of death."
 
 I answer that, Two things must be considered in the operation of fortitude. One is in regard to its choice: and thus fortitude is not about sudden occurrences: because the brave man chooses to think beforehand of the dangers that may arise, in order to be able to withstand them, or to bear them more easily: since according to Gregory (Hom. xxv in Evang.), "the blow that is foreseen strikes with less force, and we are able more easily to bear earthly wrongs, if we are forearmed with the shield of foreknowledge." The other thing to be considered in the operation of fortitude regards the display of the virtuous habit: and in this way fortitude is chiefly about sudden occurrences, because according to the Philosopher (Ethic. iii, 8) the habit of fortitude is displayed chiefly in sudden dangers: since a habit works by way of nature. Wherefore if a person without forethought does that which pertains to virtue, when necessity urges on account of some sudden danger, this is a very strong proof that habitual fortitude is firmly seated in his mind.
 
 Yet is it possible for a person even without the habit of fortitude, to prepare his mind against danger by long forethought: in the same way as a brave man prepares himself when necessary. This suffices for the Replies to the Objections.
-## Whether The Brave Man Makes Use Of Anger In His Action?
+### Whether The Brave Man Makes Use Of Anger In His Action?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the brave man does not use anger in his action. For no one should employ as an instrument of his action that which he cannot use at will. Now man cannot use anger at will, so as to take it up and lay it aside when he will. For, as the Philosopher says (De Memoria ii), when a bodily passion is in movement, it does not rest at once just as one wishes. Therefore a brave man should not employ anger for his action.
 
@@ -232,7 +232,7 @@ Objection 3: Further, just as people are more earnest in doing deeds of fortitud
 
 
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iii, 8) that "anger helps the brave."
 
@@ -240,16 +240,16 @@ I answer that, As stated above ([3295]FS, Q[24], A[2]), concerning anger and the
 
 Accordingly the brave man employs moderate anger for his action, but not immoderate anger.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Anger that is moderated in accordance with reason is subject to the command of reason: so that man uses it at his will, which would not be the case were it immoderate.
 
 Reply to Objection 2: Reason employs anger for its action, not as seeking its assistance, but because it uses the sensitive appetite as an instrument, just as it uses the members of the body. Nor is it unbecoming for the instrument to be more imperfect than the principal agent, even as the hammer is more imperfect than the smith. Moreover, Seneca was a follower of the Stoics, and the above words were aimed by him directly at Aristotle.
 
 Reply to Objection 3: Whereas fortitude, as stated above [3297](A[6]), has two acts, namely endurance and aggression, it employs anger, not for the act of endurance, because the reason by itself performs this act, but for the act of aggression, for which it employs anger rather than the other passions, since it belongs to anger to strike at the cause of sorrow, so that it directly cooperates with fortitude in attacking. On the other hand, sorrow by its very nature gives way to the thing that hurts; though accidentally it helps in aggression, either as being the cause of anger, as stated above ([3298]FS, Q[47], A[3]), or as making a person expose himself to danger in order to escape from sorrow. In like manner desire, by its very nature, tends to a pleasurable good, to which it is directly contrary to withstand danger: yet accidentally sometimes it helps one to attack, in so far as one prefers to risk dangers rather than lack pleasure. Hence the Philosopher says (Ethic. iii, 5): "Of all the cases in which fortitude arises from a passion, the most natural is when a man is brave through anger, making his choice and acting for a purpose," i.e. for a due end; "this is true fortitude."
-## Whether Fortitude Excels Among All Other Virtues?
+### Whether Fortitude Excels Among All Other Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that fortitude excels among all other virtues. For Ambrose says (De Offic. i): "Fortitude is higher, so to speak, than the rest."
 
@@ -261,13 +261,13 @@ Objection 4: On the contrary, Tully says (De Offic. i): "Justice is the most res
 
 Objection 5: Further, the Philosopher says (Rhet. i, 19): "Those virtues must needs be greatest which are most profitable to others." Now liberality seems to be more useful than fortitude. Therefore it is a greater virtue.
 
-### Answer
+**Answer**
 
 
 
 I answer that, As Augustine says (De Trin. vi), "In things that are great, but not in bulk, to be great is to be good": wherefore the better a virtue the greater it is. Now reason's good is man's good, according to Dionysius (Div. Nom. iv) prudence, since it is a perfection of reason, has the good essentially: while justice effects this good, since it belongs to justice to establish the order of reason in all human affairs: whereas the other virtues safeguard this good, inasmuch as they moderate the passions, lest they lead man away from reason's good. As to the order of the latter, fortitude holds the first place, because fear of dangers of death has the greatest power to make man recede from the good of reason: and after fortitude comes temperance, since also pleasures of touch excel all others in hindering the good of reason. Now to be a thing essentially ranks before effecting it, and the latter ranks before safeguarding it by removing obstacles thereto. Wherefore among the cardinal virtues, prudence ranks first, justice second, fortitude third, temperance fourth, and after these the other virtues.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Ambrose places fortitude before the other virtues, in respect of a certain general utility, inasmuch as it is useful both in warfare, and in matters relating to civil or home life. Hence he begins by saying (De Offic. i): "Now we come to treat of fortitude, which being higher so to speak than the others, is applicable both to warlike and to civil matters."
 

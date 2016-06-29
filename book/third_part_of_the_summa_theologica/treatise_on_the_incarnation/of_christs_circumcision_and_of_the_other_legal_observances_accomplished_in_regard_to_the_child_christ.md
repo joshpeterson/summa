@@ -5,9 +5,9 @@ We must now consider Christ's circumcision. And since the circumcision is a kind
 (2) The imposition of His name;
 (3) His presentation;
 (4) His Mother's purification.
-## Whether Christ Should Have Been Circumcised?
+### Whether Christ Should Have Been Circumcised?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ should not have been circumcised. For on the advent of the reality, the figure ceases. But circumcision was prescribed to Abraham as a sign of the covenant concerning his posterity, as may be seen from Gn. 17. Now this covenant was fulfilled in Christ's birth. Therefore circumcision should have ceased at once.
 
@@ -15,22 +15,22 @@ Objection 2: Further, "every action of Christ is a lesson to us" [*Innoc. III, S
 
 Objection 3: Further, circumcision was prescribed as a remedy of original sin. But Christ did not contract original sin, as stated above ([4191]Q[14], A[3];[4192] Q[15], A[1]). Therefore Christ should not have been circumcised.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 2:21): "After eight days were accomplished, that the child should be circumcised."
 
 I answer that, For several reasons Christ ought to have been circumcised. First, in order to prove the reality of His human nature, in contradiction to the Manicheans, who said that He had an imaginary body: and in contradiction to Apollinarius, who said that Christ's body was consubstantial with His Godhead; and in contradiction to Valentine, who said that Christ brought His body from heaven. Secondly, in order to show His approval of circumcision, which God had instituted of old. Thirdly, in order to prove that He was descended from Abraham, who had received the commandment of circumcision as a sign of his faith in Him. Fourthly, in order to take away from the Jews an excuse for not receiving Him, if He were uncircumcised. Fifthly, "in order by His example to exhort us to be obedient" [*Bede, Hom. x in Evang.]. Wherefore He was circumcised on the eighth day according to the prescription of the Law (Lev. 12:3). Sixthly, "that He who had come in the likeness of sinful flesh might not reject the remedy whereby sinful flesh was wont to be healed." Seventhly, that by taking on Himself the burden of the Law, He might set others free therefrom, according to Gal. 4:4,5: "God sent His Son . . . made under the Law, that He might redeem them who were under the Law."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Circumcision by the removal of the piece of skin in the member of generation, signified "the passing away of the old generation" [*Athanasius, De Sabb. et Circumcis.]: from the decrepitude of which we are freed by Christ's Passion. Consequently this figure was not completely fulfilled in Christ's birth, but in His Passion, until which time the circumcision retained its virtue and status. Therefore it behooved Christ to be circumcised as a son of Abraham before His Passion.
 
 Reply to Objection 2: Christ submitted to circumcision while it was yet of obligation. And thus His action in this should be imitated by us, in fulfilling those things which are of obligation in our own time. Because "there is a time and opportunity for every business" (Eccl 8:6).
 
 Reply to Objection 3: As Christ voluntarily took upon Himself our death, which is the effect of sin, whereas He had no sin Himself, in order to deliver us from death, and to make us to die spiritually unto sin, so also He took upon Himself circumcision, which was a remedy against original sin, whereas He contracted no original sin, in order to deliver us from the yoke of the Law, and to accomplish a spiritual circumcision in us---in order, that is to say, that, by taking upon Himself the shadow, He might accomplish the reality.
-## Whether His Name Was Suitably Given To Christ?
+### Whether His Name Was Suitably Given To Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that an unsuitable name was given to Christ. For the Gospel reality should correspond to the prophetic foretelling. But the prophets foretold another name for Christ: for it is written (Is. 7:14): "Behold a virgin shall conceive and bear a son, and His name shall be called Emmanuel"; and (Is. 8:3): "Call His name, Hasten to take away the spoils; Make haste to take away the prey"; and (Is. 9:6): "His name shall be called Wonderful, Counselor God the Mighty, the Father of the world to come, the Prince of Peace"; and (Zech. 6:12): "Behold a Man, the Orient is His name." Thus it was unsuitable that His name should be called Jesus.
 
@@ -38,7 +38,7 @@ Objection 2: Further, it is written (Is. 62:2): "Thou shalt be called by a new n
 
 Objection 3: Further, the name Jesus signifies "salvation"; as is clear from Mat. 1:21: "She shall bring forth a son, and thou shalt call His name Jesus. For He shall save His people from their sins." But salvation through Christ was accomplished not only in the circumcision, but also in uncircumcision, as is declared by the Apostle (Rom. 4:11,12). Therefore this name was not suitably given to Christ at His circumcision.
 
-### Answer
+**Answer**
 
 
 
@@ -48,16 +48,16 @@ Now, the names of individual men are always taken from some property of the men 
 
 But names given to men by God always signify some gratuitous gift bestowed on them by Him; thus it was said to Abraham (Gn. 17:5): "Thou shalt be called Abraham; because I have made thee a father of many nations": and it was said to Peter (Mat. 16:18): "Thou art Peter, and upon this rock I will build My Church." Since, therefore, this prerogative of grace was bestowed on the Man Christ that through Him all men might be saved, therefore He was becomingly named Jesus, i.e. Saviour: the angel having foretold this name not only to His Mother, but also to Joseph, who was to be his foster-father.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All these names in some way mean the same as Jesus, which means "salvation." For the name "Emmanuel, which being interpreted is 'God with us,'" designates the cause of salvation, which is the union of the Divine and human natures in the Person of the Son of God, the result of which union was that "God is with us."
 
 Reply to Objection 2: The name Jesus could be suitable for some other reason to those who lived before Christ---for instance, because they were saviours in a particular and temporal sense. But in the sense of spiritual and universal salvation, this name is proper to Christ, and thus it is called a "new" name.
 
 Reply to Objection 3: As is related Gn. 17, Abraham received from God and at the same time both his name and the commandment of circumcision. For this reason it was customary among the Jews to name children on the very day of circumcision, as though before being circumcised they had not as yet perfect existence: just as now also children receive their names in Baptism. Wherefore on Prov. 4:3, "I was my father's son, tender, and as an only son in the sight of my mother," the gloss says: "Why does Solomon call himself an only son in the sight of his mother, when Scripture testifies that he had an elder brother of the same mother, unless it be that the latter died unnamed soon after birth?" Therefore it was that Christ received His name at the time of His circumcision.
-## Whether Christ Was Becomingly Presented In The Temple?
+### Whether Christ Was Becomingly Presented In The Temple?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ was unbecomingly presented in the Temple. For it is written (Ex. 13:2): "Sanctify unto Me every first-born that openeth the womb among the children of Israel." But Christ came forth from the closed womb of the Virgin; and thus He did not open His Mother's womb. Therefore Christ was not bound by this law to be presented in the Temple.
 
@@ -67,7 +67,7 @@ Objection 3: Further, Christ is the principal victim, to whom all the victims of
 
 Objection 4: Further, among the legal victims the principal was the lamb, which was a "continual sacrifice" [Vulg.: 'holocaust'], as is stated Num. 28:6: for which reason Christ is also called "the Lamb---Behold the Lamb of God" (Jn. 1: 29). It was therefore more fitting that a lamb should be offered for Christ than "a pair of turtle doves or two young pigeons."
 
-### Answer
+**Answer**
 
 
 
@@ -77,7 +77,7 @@ The other was a special precept in the law concerning the first-born of "both ma
 
 Therefore, since Christ was born of a woman and was her first-born, and since He wished to be "made under the Law," the Evangelist Luke shows that both these precepts were fulfilled in His regard. First, as to that which concerns the first-born, when he says (Lk. 2:22,23): "They carried Him to Jerusalem to present Him to the Lord: as it is written in the law of the Lord, 'Every male opening the womb shall be called holy to the Lord.'" Secondly, as to the general precept which concerned all, when he says (Lk. 2:24): "And to offer a sacrifice according as it is written in the law of the Lord, a pair of turtle doves or two young pigeons."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Gregory of Nyssa says (De Occursu Dom.): "It seems that this precept of the Law was fulfilled in God incarnate alone in a special manner exclusively proper to Him. For He alone, whose conception was ineffable, and whose birth was incomprehensible, opened the virginal womb which had been closed to sexual union, in such a way that after birth the seal of chastity remained inviolate." Consequently the words "opening the womb" imply that nothing hitherto had entered or gone forth therefrom. Again, for a special reason is it written "'a male,' because He contracted nothing of the woman's sin": and in a singular way "is He called 'holy,' because He felt no contagion of earthly corruption, whose birth was wondrously immaculate" (Ambrose, on Lk. 2:23).
 
@@ -86,9 +86,9 @@ Reply to Objection 2: As the Son of God "became man, and was circumcised in the 
 Reply to Objection 3: For this very reason He wished the legal victims to be offered for Him who was the true Victim, in order that the figure might be united to and confirmed by the reality, against those who denied that in the Gospel Christ preached the God of the Law. "For we must not think," says Origen (Hom. xiv in Luc.) "that the good God subjected His Son to the enemy's law, which He Himself had not given."
 
 Reply to Objection 4: The law ofLev. 12:6, 8 "commanded those who could, to offer, for a son or a daughter, a lamb and also a turtle dove or a pigeon: but those who were unable to offer a lamb were commanded to offer two turtle doves or two young pigeons" [*Bede, Hom. xv in Purif.]. "And so the Lord, who, 'being rich, became poor for our [Vulg.: 'your'] sakes, that through His poverty we [you] might be rich," as is written 2 Cor. 8:9, "wished the poor man's victim to be offered for Him" just as in His birth He was "wrapped in swaddling clothes and laid in a manger" [*Bede on Lk. 1]. Nevertheless, these birds have a figurative sense. For the turtle dove, being a loquacious bird, represents the preaching and confession of faith; and because it is a chaste animal, it signifies chastity; and being a solitary animal, it signifies contemplation. The pigeon is a gentle and simple animal, and therefore signifies gentleness and simplicity. It is also a gregarious animal; wherefore it signifies the active life. Consequently this sacrifice signified the perfection of Christ and His members. Again, "both these animals, by the plaintiveness of their song, represented the mourning of the saints in this life: but the turtle dove, being solitary, signifies the tears of prayer; whereas the pigeon, being gregarious, signifies the public prayers of the Church" [*Bede, Hom. xv in Purif.]. Lastly, two of each of these animals are offered, to show that holiness should be not only in the soul, but also in the body.
-## Whether It Was Fitting That The Mother Of God Should Go To The Temple To Be Purified?
+### Whether It Was Fitting That The Mother Of God Should Go To The Temple To Be Purified?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was unfitting for the Mother of God to go to the Temple to be purified. For purification presupposes uncleanness. But there was no uncleanness in the Blessed Virgin, as stated above (QQ[27],28). Therefore she should not have gone to the Temple to be purified.
 
@@ -96,13 +96,13 @@ Objection 2: Further, it is written (Lev. 12:2-4): "If a woman, having received 
 
 Objection 3: Further, purification from uncleanness is accomplished by grace alone. But the sacraments of the Old Law did not confer grace; rather, indeed, did she have the very Author of grace with her. Therefore it was not fitting that the Blessed Virgin should come to the Temple to be purified.
 
-### Answer
+**Answer**
 
 
 
 I answer that, As the fulness of grace flowed from Christ on to His Mother, so it was becoming that the mother should be like her Son in humility: for "God giveth grace to the humble," as is written James 4:6. And therefore, just as Christ, though not subject to the Law, wished, nevertheless, to submit to circumcision and the other burdens of the Law, in order to give an example of humility and obedience; and in order to show His approval of the Law; and, again, in order to take away from the Jews an excuse for calumniating Him: for the same reasons He wished His Mother also to fulfil the prescriptions of the Law, to which, nevertheless, she was not subject.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the Blessed Virgin had no uncleanness, yet she wished to fulfil the observance of purification, not because she needed it, but on account of the precept of the Law. Thus the Evangelist says pointedly that the days of her purification "according to the Law" were accomplished; for she needed no purification in herself.
 

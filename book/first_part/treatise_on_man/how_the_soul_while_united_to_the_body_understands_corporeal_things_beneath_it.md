@@ -9,9 +9,9 @@ We now have to consider the acts of the soul in regard to the intellectual and t
 (6) Whether it acquires intellectual knowledge from the senses?
 (7) Whether the intellect can, through the species of which it is possessed, actually understand, without turning to the phantasms?
 (8) Whether the judgment of the intellect is hindered by an obstacle in the sensitive powers?
-## Whether The Soul Knows Bodies Through The Intellect?
+### Whether The Soul Knows Bodies Through The Intellect?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the soul does not know bodies through the intellect. For Augustine says (Soliloq. ii, 4) that "bodies cannot be understood by the intellect; nor indeed anything corporeal unless it can be perceived by the senses." He says also (Gen. ad lit. xii, 24) that intellectual vision is of those things that are in the soul by their essence. But such are not bodies. Therefore the soul cannot know bodies through the intellect.
 
@@ -19,7 +19,7 @@ Objection 2: Further, as sense is to the intelligible, so is the intellect to th
 
 Objection 3: Further, the intellect is concerned with things that are necessary and unchangeable. But all bodies are mobile and changeable. Therefore the soul cannot know bodies through the intellect.
 
-### Answer
+**Answer**
 
 On the contrary, Science is in the intellect. If, therefore, the intellect does not know bodies, it follows that there is no science of bodies; and thus perishes natural science, which treats of mobile bodies.
 
@@ -33,16 +33,16 @@ Now it seems that Plato strayed from the truth because, having observed that all
 
 But there is no necessity for this. For even in sensible things it is to be observed that the form is otherwise in one sensible than in another: for instance, whiteness may be of great intensity in one, and of a less intensity in another: in one we find whiteness with sweetness, in another without sweetness. In the same way the sensible form is conditioned differently in the thing which is external to the soul, and in the senses which receive the forms of sensible things without receiving matter, such as the color of gold without receiving gold. So also the intellect, according to its own mode, receives under conditions of immateriality and immobility, the species of material and mobile bodies: for the received is in the receiver according to the mode of the receiver. We must conclude, therefore, that through the intellect the soul knows bodies by a knowledge which is immaterial, universal, and necessary.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These words of Augustine are to be understood as referring to the medium of intellectual knowledge, and not to its object. For the intellect knows bodies by understanding them, not indeed through bodies, nor through material and corporeal species; but through immaterial and intelligible species, which can be in the soul by their own essence.
 
 Reply to Objection 2: As Augustine says (De Civ. Dei xxii, 29), it is not correct to say that as the sense knows only bodies so the intellect knows only spiritual things; for it follows that God and the angels would not know corporeal things. The reason of this diversity is that the lower power does not extend to those things that belong to the higher power; whereas the higher power operates in a more excellent manner those things which belong to the lower power.
 
 Reply to Objection 3: Every movement presupposes something immovable: for when a change of quality occurs, the substance remains unmoved; and when there is a change of substantial form, matter remains unmoved. Moreover the various conditions of mutable things are themselves immovable; for instance, though Socrates be not always sitting, yet it is an immovable truth that whenever he does sit he remains in one place. For this reason there is nothing to hinder our having an immovable science of movable things.
-## Whether The Soul Understands Corporeal Things Through Its Essence?
+### Whether The Soul Understands Corporeal Things Through Its Essence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the soul understands corporeal things through its essence. For Augustine says (De Trin. x, 5) that the soul "collects and lays hold of the images of bodies which are formed in the soul and of the soul: for in forming them it gives them something of its own substance." But the soul understands bodies by images of bodies. Therefore the soul knows bodies through its essence, which it employs for the formation of such images, and from which it forms them.
 
@@ -50,7 +50,7 @@ Objection 2: Further, the Philosopher says (De Anima iii, 8) that "the soul, aft
 
 Objection 3: Further, the soul is superior to corporeal creatures. Now lower things are in higher things in a more eminent way than in themselves, as Dionysius says (Coel. Hier. xii). Therefore all corporeal creatures exist in a more excellent way in the soul than in themselves. Therefore the soul can know corporeal creatures through its essence.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. ix, 3) that "the mind gathers knowledge of corporeal things through the bodily senses." But the soul itself cannot be known through the bodily senses. Therefore it does not know corporeal things through itself.
 
@@ -62,16 +62,16 @@ We must conclude, therefore, that material things known must needs exist in the 
 
 It is therefore clear from the foregoing, that if there be an intellect which knows all things by its essence, then its essence must needs have all things in itself immaterially; thus the early philosophers held that the essence of the soul, that it may know all things, must be actually composed of the principles of all material things. Now this is proper to God, that His Essence comprise all things immaterially as effects pre-exist virtually in their cause. God alone, therefore, understands all things through His Essence: but neither the human soul nor the angels can do so.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine in that passage is speaking of an imaginary vision, which takes place through the image of bodies. To the formation of such images the soul gives part of its substance, just as a subject is given in order to be informed by some form. In this way the soul makes such images from itself; not that the soul or some part of the soul be turned into this or that image; but just as we say that a body is made into something colored because of its being informed with color. That this is the sense, is clear from what follows. For he says that the soul "keeps something"---namely, not informed with such image---"which is able freely to judge of the species of these images": and that this is the "mind" or "intellect." And he says that the part which is informed with these images---namely, the imagination---is "common to us and beasts."
 
 Reply to Objection 2: Aristotle did not hold that the soul is actually composed of all things, as did the earlier philosophers; he said that the soul is all things, "after a fashion," forasmuch as it is in potentiality to all---through the senses, to all things sensible---through the intellect, to all things intelligible.
 
 Reply to Objection 3: Every creature has a finite and determinate essence. Wherefore although the essence of the higher creature has a certain likeness to the lower creature, forasmuch as they have something in common generically, yet it has not a complete likeness thereof, because it is determined to a certain species other than the species of the lower creature. But the Divine Essence is a perfect likeness of all, whatsoever may be found to exist in things created, being the universal principle of all.
-## Whether The Soul Understands All Things Through Innate Species?
+### Whether The Soul Understands All Things Through Innate Species?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the soul understands all things through innate species. For Gregory says, in a homily for the Ascension (xxix in Ev.), that "man has understanding in common with the angels." But angels understand all things through innate species: wherefore in the book De Causis it is said that "every intelligence is full of forms." Therefore the soul also has innate species of things, by means of which it understands corporeal things.
 
@@ -79,7 +79,7 @@ Objection 2: Further, the intellectual soul is more excellent than corporeal pri
 
 Objection 3: Further, no one can answer the truth except concerning what he knows. But even a person untaught and devoid of acquired knowledge, answers the truth to every question if put to him in orderly fashion, as we find related in the Meno (xv seqq.) of Plato, concerning a certain individual. Therefore we have some knowledge of things even before we acquire knowledge; which would not be the case unless we had innate species. Therefore the soul understands corporeal things through innate species.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher, speaking of the intellect, says (De Anima iii, 4) that it is like "a tablet on which nothing is written."
 
@@ -87,16 +87,16 @@ I answer that, Since form is the principle of action, a thing must be related to
 
 But since that which has a form actually, is sometimes unable to act according to that form on account of some hindrance, as a light thing may be hindered from moving upwards; for this reason did Plato hold that naturally man's intellect is filled with all intelligible species, but that, by being united to the body, it is hindered from the realization of its act. But this seems to be unreasonable. First, because, if the soul has a natural knowledge of all things, it seems impossible for the soul so far to forget the existence of such knowledge as not to know itself to be possessed thereof: for no man forgets what he knows naturally; that, for instance, the whole is larger than the part, and such like. And especially unreasonable does this seem if we suppose that it is natural to the soul to be united to the body, as we have established above ([673]Q[76] , A[1]): for it is unreasonable that the natural operation of a thing be totally hindered by that which belongs to it naturally. Secondly, the falseness of this opinion is clearly proved from the fact that if a sense be wanting, the knowledge of what is apprehended through that sense is wanting also: for instance, a man who is born blind can have no knowledge of colors. This would not be the case if the soul had innate images of all intelligible things. We must therefore conclude that the soul does not know corporeal things through innate species.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man indeed has intelligence in common with the angels, but not in the same degree of perfection: just as the lower grades of bodies, which merely exist, according to Gregory (Homily on Ascension, xxix In Ev.), have not the same degree of perfection as the higher bodies. For the matter of the lower bodies is not totally completed by its form, but is in potentiality to forms which it has not: whereas the matter of heavenly bodies is totally completed by its form, so that it is not in potentiality to any other form, as we have said above ([674]Q[66], A[2]). In the same way the angelic intellect is perfected by intelligible species, in accordance with its nature; whereas the human intellect is in potentiality to such species.
 
 Reply to Objection 2: Primary matter has substantial being through its form, consequently it had need to be created under some form: else it would not be in act. But when once it exists under one form it is in potentiality to others. On the other hand, the intellect does not receive substantial being through the intelligible species; and therefore there is no comparison.
 
 Reply to Objection 3: If questions be put in an orderly fashion they proceed from universal self-evident principles to what is particular. Now by such a process knowledge is produced in the mind of the learner. Wherefore when he answers the truth to a subsequent question, this is not because he had knowledge previously, but because he thus learns for the first time. For it matters not whether the teacher proceed from universal principles to conclusions by questioning or by asserting; for in either case the mind of the listener is assured of what follows by that which preceded.
-## Whether The Intelligible Species Are Derived By The Soul From Certain Separate Forms?
+### Whether The Intelligible Species Are Derived By The Soul From Certain Separate Forms?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the intelligible species are derived by the soul from some separate forms. For whatever is such by participation is caused by what is such essentially; for instance, that which is on fire is reduced to fire as the cause thereof. But the intellectual soul forasmuch as it is actually understanding, participates the thing understood: for, in a way, the intellect in act is the thing understood in act. Therefore what in itself and in its essence is understood in act, is the cause that the intellectual soul actually understands. Now that which in its essence is actually understood is a form existing without matter. Therefore the intelligible species, by which the soul understands, are caused by some separate forms.
 
@@ -104,7 +104,7 @@ Objection 2: Further, the intelligible is to the intellect, as the sensible is t
 
 Objection 3: Further, whatever is in potentiality is reduced to act by something actual. If, therefore, our intellect, previously in potentiality, afterwards actually understands, this must needs be caused by some intellect which is always in act. But this is a separate intellect. Therefore the intelligible species, by which we actually understand, are caused by some separate substances.
 
-### Answer
+**Answer**
 
 On the contrary, If this were true we should not need the senses in order to understand. And this is proved to be false especially from the fact that if a man be wanting in a sense, he cannot have any knowledge of the sensibles corresponding to that sense.
 
@@ -118,16 +118,16 @@ But if it be said that our soul needs the senses in order to understand, through
 
 And if it be said with Avicenna, that the senses are necessary to the soul, because by them it is aroused to turn to the "active intelligence" from which it receives the species: neither is this a sufficient explanation. Because if it is natural for the soul to understand through species derived from the "active intelligence," it follows that at times the soul of an individual wanting in one of the senses can turn to the active intelligence, either from the inclination of its very nature, or through being roused by another sense, to the effect of receiving the intelligible species of which the corresponding sensible species are wanting. And thus a man born blind could have knowledge of colors; which is clearly untrue. We must therefore conclude that the intelligible species, by which our soul understands, are not derived from separate forms.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The intelligible species which are participated by our intellect are reduced, as to their first cause, to a first principle which is by its essence intelligible---namely, God. But they proceed from that principle by means of the sensible forms and material things, from which we gather knowledge, as Dionysius says (Div. Nom. vii).
 
 Reply to Objection 2: Material things, as to the being which they have outside the soul, may be actually sensible, but not actually intelligible. Wherefore there is no comparison between sense and intellect.
 
 Reply to Objection 3: Our passive intellect is reduced from potentiality to act by some being in act, that is, by the active intellect, which is a power of the soul, as we have said ([677]Q[79], A[4]); and not by a separate intelligence, as proximate cause, although perchance as remote cause.
-## Whether The Intellectual Soul Knows Material Things In The Eternal Types?
+### Whether The Intellectual Soul Knows Material Things In The Eternal Types?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the intellectual soul does not know material things in the eternal types. For that in which anything is known must itself be known more and previously. But the intellectual soul of man, in the present state of life, does not know the eternal types: for it does not know God in Whom the eternal types exist, but is "united to God as to the unknown," as Dionysius says (Myst. Theolog. i). Therefore the soul does not know all in the eternal types.
 
@@ -135,7 +135,7 @@ Objection 2: Further, it is written (Rom. 1:20) that "the invisible things of Go
 
 Objection 3: Further, the eternal types are nothing else but ideas, for Augustine says (QQ. 83, qu. 46) that "ideas are permanent types existing in the Divine mind." If therefore we say that the intellectual soul knows all things in the eternal types, we come back to the opinion of Plato who said that all knowledge is derived from them.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Confess. xii, 25): "If we both see that what you say is true, and if we both see that what I say is true, where do we see this, I pray? Neither do I see it in you, nor do you see it in me: but we both see it in the unchangeable truth which is above our minds." Now the unchangeable truth is contained in the eternal types. Therefore the intellectual soul knows all true things in the eternal types.
 
@@ -148,9 +148,9 @@ But since besides the intellectual light which is in us, intelligible species, w
 But that Augustine did not understand all things to be known in their "eternal types" or in the "unchangeable truth," as though the eternal types themselves were seen, is clear from what he says (QQ. 83, qu. 46)---viz. that "not each and every rational soul can be said to be worthy of that vision," namely, of the eternal types, "but only those that are holy and pure," such as the souls of the blessed.
 
 From what has been said the objections are easily solved.
-## Whether Intellectual Knowledge Is Derived From Sensible Things?
+### Whether Intellectual Knowledge Is Derived From Sensible Things?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that intellectual knowledge is not derived from sensible things. For Augustine says (QQ. 83, qu. 9) that "we cannot expect to learn the fulness of truth from the senses of the body." This he proves in two ways. First, because "whatever the bodily senses reach, is continually being changed; and what is never the same cannot be perceived." Secondly, because, "whatever we perceive by the body, even when not present to the senses, may be present to the imagination, as when we are asleep or angry: yet we cannot discern by the senses, whether what we perceive be the sensible object or the deceptive image thereof. Now nothing can be perceived which cannot be distinguished from its counterfeit." And so he concludes that we cannot expect to learn the truth from the senses. But intellectual knowledge apprehends the truth. Therefore intellectual knowledge cannot be conveyed by the senses.
 
@@ -158,7 +158,7 @@ Objection 2: Further, Augustine says (Gen. ad lit. xii, 16): "We must not thing 
 
 Objection 3: Further, an effect does not surpass the power of its cause. But intellectual knowledge extends beyond sensible things: for we understand some things which cannot be perceived by the senses. Therefore intellectual knowledge is not derived from sensible things.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Metaph. i, 1; Poster. ii, 15) that the principle of knowledge is in the senses.
 
@@ -170,16 +170,16 @@ Aristotle chose a middle course. For with Plato he agreed that intellect and sen
 
 According to this opinion, then, on the part of the phantasms, intellectual knowledge is caused by the senses. But since the phantasms cannot of themselves affect the passive intellect, and require to be made actually intelligible by the active intellect, it cannot be said that sensible knowledge is the total and perfect cause of intellectual knowledge, but rather that it is in a way the material cause.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Those words of Augustine mean that we must not expect the entire truth from the senses. For the light of the active intellect is needed, through which we achieve the unchangeable truth of changeable things, and discern things themselves from their likeness.
 
 Reply to Objection 2: In this passage Augustine speaks not of intellectual but of imaginary knowledge. And since, according to the opinion of Plato, the imagination has an operation which belongs to the soul only, Augustine, in order to show that corporeal images are impressed on the imagination, not by bodies but by the soul, uses the same argument as Aristotle does in proving that the active intellect must be separate, namely, because "the agent is more noble than the patient." And without doubt, according to the above opinion, in the imagination there must needs be not only a passive but also an active power. But if we hold, according to the opinion of Aristotle, that the action of the imagination, is an action of the "composite," there is no difficulty; because the sensible body is more noble than the organ of the animal, in so far as it is compared to it as a being in act to a being in potentiality; even as the object actually colored is compared to the pupil which is potentially colored. It may, however, be said, although the first impression of the imagination is through the agency of the sensible, since "fancy is movement produced in accordance with sensation" (De Anima iii, 3), that nevertheless there is in man an operation which by synthesis and analysis forms images of various things, even of things not perceived by the senses. And Augustine's words may be taken in this sense.
 
 Reply to Objection 3: Sensitive knowledge is not the entire cause of intellectual knowledge. And therefore it is not strange that intellectual knowledge should extend further than sensitive knowledge.
-## Whether The Intellect Can Actually Understand Through The Intelligible Species Of Which It Is Possessed, Without Turning To The Phantasms?
+### Whether The Intellect Can Actually Understand Through The Intelligible Species Of Which It Is Possessed, Without Turning To The Phantasms?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the intellect can actually understand through the intelligible species of which it is possessed, without turning to the phantasms. For the intellect is made actual by the intelligible species by which it is informed. But if the intellect is in act, it understands. Therefore the intelligible species suffices for the intellect to understand actually, without turning to the phantasms.
 
@@ -187,7 +187,7 @@ Objection 2: Further, the imagination is more dependent on the senses than the i
 
 Objection 3: There are no phantasms of incorporeal things: for the imagination does not transcend time and space. If, therefore, our intellect cannot understand anything actually without turning to the phantasms, it follows that it cannot understand anything incorporeal. Which is clearly false: for we understand truth, and God, and the angels.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (De Anima iii, 7) that "the soul understands nothing without a phantasm."
 
@@ -195,28 +195,28 @@ I answer that, In the present state of life in which the soul is united to a pas
 
 Now the reason of this is that the power of knowledge is proportioned to the thing known. Wherefore the proper object of the angelic intellect, which is entirely separate from a body, is an intelligible substance separate from a body. Whereas the proper object of the human intellect, which is united to a body, is a quiddity or nature existing in corporeal matter; and through such natures of visible things it rises to a certain knowledge of things invisible. Now it belongs to such a nature to exist in an individual, and this cannot be apart from corporeal matter: for instance, it belongs to the nature of a stone to be in an individual stone, and to the nature of a horse to be in an individual horse, and so forth. Wherefore the nature of a stone or any material thing cannot be known completely and truly, except in as much as it is known as existing in the individual. Now we apprehend the individual through the senses and the imagination. And, therefore, for the intellect to understand actually its proper object, it must of necessity turn to the phantasms in order to perceive the universal nature existing in the individual. But if the proper object of our intellect were a separate form; or if, as the Platonists say, the natures of sensible things subsisted apart from the individual; there would be no need for the intellect to turn to the phantasms whenever it understands.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The species preserved in the passive intellect exist there habitually when it does not understand them actually, as we have said above ([681]Q[79], A[6]). Wherefore for us to understand actually, the fact that the species are preserved does not suffice; we need further to make use of them in a manner befitting the things of which they are the species, which things are natures existing in individuals.
 
 Reply to Objection 2: Even the phantasm is the likeness of an individual thing; wherefore the imagination does not need any further likeness of the individual, whereas the intellect does.
 
 Reply to Objection 3: Incorporeal things, of which there are no phantasms, are known to us by comparison with sensible bodies of which there are phantasms. Thus we understand truth by considering a thing of which we possess the truth; and God, as Dionysius says (Div. Nom. i), we know as cause, by way of excess and by way of remotion. Other incorporeal substances we know, in the present state of life, only by way of remotion or by some comparison to corporeal things. And, therefore, when we understand something about these things, we need to turn to phantasms of bodies, although there are no phantasms of the things themselves.
-## Whether The Judgment Of The Intellect Is Hindered Through Suspension Of The Sensitive Powers?
+### Whether The Judgment Of The Intellect Is Hindered Through Suspension Of The Sensitive Powers?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the judgment of the intellect is not hindered by suspension of the sensitive powers. For the superior does not depend on the inferior. But the judgment of the intellect is higher than the senses. Therefore the judgment of the intellect is not hindered through suspension of the senses.
 
 Objection 2: Further, to syllogize is an act of the intellect. But during sleep the senses are suspended, as is said in De Somn. et Vigil. i and yet it sometimes happens to us to syllogize while asleep. Therefore the judgment of the intellect is not hindered through suspension of the senses.
 
-### Answer
+**Answer**
 
 On the contrary, What a man does while asleep, against the moral law, is not imputed to him as a sin; as Augustine says (Gen. ad lit. xii, 15). But this would not be the case if man, while asleep, had free use of his reason and intellect. Therefore the judgment of the intellect is hindered by suspension of the senses.
 
 I answer that, As we have said above [682](A[7]), our intellect's proper and proportionate object is the nature of a sensible thing. Now a perfect judgment concerning anything cannot be formed, unless all that pertains to that thing's nature be known; especially if that be ignored which is the term and end of judgment. Now the Philosopher says (De Coel. iii), that "as the end of a practical science is action, so the end of natural science is that which is perceived principally through the senses"; for the smith does not seek knowledge of a knife except for the purpose of action, in order that he may produce a certain individual knife; and in like manner the natural philosopher does not seek to know the nature of a stone and of a horse, save for the purpose of knowing the essential properties of those things which he perceives with his senses. Now it is clear that a smith cannot judge perfectly of a knife unless he knows the action of the knife: and in like manner the natural philosopher cannot judge perfectly of natural things, unless he knows sensible things. But in the present state of life whatever we understand, we know by comparison to natural sensible things. Consequently it is not possible for our intellect to form a perfect judgment, while the senses are suspended, through which sensible things are known to us.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the intellect is superior to the senses, nevertheless in a manner it receives from the senses, and its first and principal objects are founded in sensible things. And therefore suspension of the senses necessarily involves a hindrance to the judgment of the intellect.
 

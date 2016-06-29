@@ -4,9 +4,9 @@ Because the chief aim of sacred doctrine is to teach the knowledge of God, not o
 (1) Whether the proposition "God exists" is self-evident?
 (2) Whether it is demonstrable?
 (3) Whether God exists?
-## Whether The Existence Of God Is Self-evident?
+### Whether The Existence Of God Is Self-evident?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the existence of God is self-evident. Now those things are said to be self-evident to us the knowledge of which is naturally implanted in us, as we can see in regard to first principles. But as Damascene says (De Fide Orth. i, 1,3), "the knowledge of God is naturally implanted in all." Therefore the existence of God is self-evident.
 
@@ -14,22 +14,22 @@ Objection 2: Further, those things are said to be self-evident which are known a
 
 Objection 3: Further, the existence of truth is self-evident. For whoever denies the existence of truth grants that truth does not exist: and, if truth does not exist, then the proposition "Truth does not exist" is true: and if there is anything true, there must be truth. But God is truth itself: "I am the way, the truth, and the life" (Jn. 14:6) Therefore "God exists" is self-evident.
 
-### Answer
+**Answer**
 
 On the contrary, No one can mentally admit the opposite of what is self-evident; as the Philosopher (Metaph. iv, lect. vi) states concerning the first principles of demonstration. But the opposite of the proposition "God is" can be mentally admitted: "The fool said in his heart, There is no God" (Ps. 52:1). Therefore, that God exists is not self-evident.
 
 I answer that, A thing can be self-evident in either of two ways: on the one hand, self-evident in itself, though not to us; on the other, self-evident in itself, and to us. A proposition is self-evident because the predicate is included in the essence of the subject, as "Man is an animal," for animal is contained in the essence of man. If, therefore the essence of the predicate and subject be known to all, the proposition will be self-evident to all; as is clear with regard to the first principles of demonstration, the terms of which are common things that no one is ignorant of, such as being and non-being, whole and part, and such like. If, however, there are some to whom the essence of the predicate and subject is unknown, the proposition will be self-evident in itself, but not to those who do not know the meaning of the predicate and subject of the proposition. Therefore, it happens, as Boethius says (Hebdom., the title of which is: "Whether all that is, is good"), "that there are some mental concepts self-evident only to the learned, as that incorporeal substances are not in space." Therefore I say that this proposition, "God exists," of itself is self-evident, for the predicate is the same as the subject, because God is His own existence as will be hereafter shown ([2]Q[3], A[4]). Now because we do not know the essence of God, the proposition is not self-evident to us; but needs to be demonstrated by things that are more known to us, though less known in their nature---namely, by effects.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To know that God exists in a general and confused way is implanted in us by nature, inasmuch as God is man's beatitude. For man naturally desires happiness, and what is naturally desired by man must be naturally known to him. This, however, is not to know absolutely that God exists; just as to know that someone is approaching is not the same as to know that Peter is approaching, even though it is Peter who is approaching; for many there are who imagine that man's perfect good which is happiness, consists in riches, and others in pleasures, and others in something else.
 
 Reply to Objection 2: Perhaps not everyone who hears this word "God" understands it to signify something than which nothing greater can be thought, seeing that some have believed God to be a body. Yet, granted that everyone understands that by this word "God" is signified something than which nothing greater can be thought, nevertheless, it does not therefore follow that he understands that what the word signifies exists actually, but only that it exists mentally. Nor can it be argued that it actually exists, unless it be admitted that there actually exists something than which nothing greater can be thought; and this precisely is not admitted by those who hold that God does not exist.
 
 Reply to Objection 3: The existence of truth in general is self-evident but the existence of a Primal Truth is not self-evident to us.
-## Whether It Can Be Demonstrated That God Exists?
+### Whether It Can Be Demonstrated That God Exists?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the existence of God cannot be demonstrated. For it is an article of faith that God exists. But what is of faith cannot be demonstrated, because a demonstration produces scientific knowledge; whereas faith is of the unseen (Heb. 11:1). Therefore it cannot be demonstrated that God exists.
 
@@ -37,28 +37,28 @@ Objection 2: Further, the essence is the middle term of demonstration. But we ca
 
 Objection 3: Further, if the existence of God were demonstrated, this could only be from His effects. But His effects are not proportionate to Him, since He is infinite and His effects are finite; and between the finite and infinite there is no proportion. Therefore, since a cause cannot be demonstrated by an effect not proportionate to it, it seems that the existence of God cannot be demonstrated.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says: "The invisible things of Him are clearly seen, being understood by the things that are made" (Rom. 1:20). But this would not be unless the existence of God could be demonstrated through the things that are made; for the first thing we must know of anything is whether it exists.
 
 I answer that, Demonstration can be made in two ways: One is through the cause, and is called "a priori," and this is to argue from what is prior absolutely. The other is through the effect, and is called a demonstration "a posteriori"; this is to argue from what is prior relatively only to us. When an effect is better known to us than its cause, from the effect we proceed to the knowledge of the cause. And from every effect the existence of its proper cause can be demonstrated, so long as its effects are better known to us; because since every effect depends upon its cause, if the effect exists, the cause must pre-exist. Hence the existence of God, in so far as it is not self-evident to us, can be demonstrated from those of His effects which are known to us.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The existence of God and other like truths about God, which can be known by natural reason, are not articles of faith, but are preambles to the articles; for faith presupposes natural knowledge, even as grace presupposes nature, and perfection supposes something that can be perfected. Nevertheless, there is nothing to prevent a man, who cannot grasp a proof, accepting, as a matter of faith, something which in itself is capable of being scientifically known and demonstrated.
 
 Reply to Objection 2: When the existence of a cause is demonstrated from an effect, this effect takes the place of the definition of the cause in proof of the cause's existence. This is especially the case in regard to God, because, in order to prove the existence of anything, it is necessary to accept as a middle term the meaning of the word, and not its essence, for the question of its essence follows on the question of its existence. Now the names given to God are derived from His effects; consequently, in demonstrating the existence of God from His effects, we may take for the middle term the meaning of the word "God".
 
 Reply to Objection 3: From effects not proportionate to the cause no perfect knowledge of that cause can be obtained. Yet from every effect the existence of the cause can be clearly demonstrated, and so we can demonstrate the existence of God from His effects; though from them we cannot perfectly know God as He is in His essence.
-## Whether God Exists?
+### Whether God Exists?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not exist; because if one of two contraries be infinite, the other would be altogether destroyed. But the word "God" means that He is infinite goodness. If, therefore, God existed, there would be no evil discoverable; but there is evil in the world. Therefore God does not exist.
 
 Objection 2: Further, it is superfluous to suppose that what can be accounted for by a few principles has been produced by many. But it seems that everything we see in the world can be accounted for by other principles, supposing God did not exist. For all natural things can be reduced to one principle which is nature; and all voluntary things can be reduced to one principle which is human reason, or will. Therefore there is no need to suppose God's existence.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in the person of God: "I am Who am." (Ex. 3:14)
 
@@ -74,7 +74,7 @@ The fourth way is taken from the gradation to be found in things. Among beings t
 
 The fifth way is taken from the governance of the world. We see that things which lack intelligence, such as natural bodies, act for an end, and this is evident from their acting always, or nearly always, in the same way, so as to obtain the best result. Hence it is plain that not fortuitously, but designedly, do they achieve their end. Now whatever lacks intelligence cannot move towards an end, unless it be directed by some being endowed with knowledge and intelligence; as the arrow is shot to its mark by the archer. Therefore some intelligent being exists by whom all natural things are directed to their end; and this being we call God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (Enchiridion xi): "Since God is the highest good, He would not allow any evil to exist in His works, unless His omnipotence and goodness were such as to bring good even out of evil." This is part of the infinite goodness of God, that He should allow evil to exist, and out of it produce good.
 

@@ -5,9 +5,9 @@ We next consider what belongs to the bodily state of the first man: first, as re
 (2) Whether he was impassible?
 (3) Whether he stood in need of food?
 (4) Whether he would have obtained immortality by the tree of life?
-## Whether In The State Of Innocence Man Would Have Been Immortal?
+### Whether In The State Of Innocence Man Would Have Been Immortal?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence man was not immortal. For the term "mortal" belongs to the definition of man. But if you take away the definition, you take away the thing defined. Therefore as long as man was man he could not be immortal.
 
@@ -17,7 +17,7 @@ Objection 3: Further, if man were immortal in the state of innocence, this would
 
 Objection 4: Further, immortality is promised to man as a reward, according to Apoc. 21:4: "Death shall be no more." But man was not created in the state of reward, but that he might deserve the reward. Therefore man was not immortal in the state of innocence.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Rom. 5:12): "By sin death came into the world." Therefore man was immortal before sin.
 
@@ -25,14 +25,14 @@ I answer that, A thing may be incorruptible in three ways. First, on the part of
 
 Reply OBJ 1 and 2: These objections are founded on natural incorruptibility and immortality.
 
-### Replies
+**Replies**
 
 Reply to Objection 3: This power of preserving the body was not natural to the soul, but was the gift of grace. And though man recovered grace as regards remission of guilt and the merit of glory; yet he did not recover immortality, the loss of which was an effect of sin; for this was reserved for Christ to accomplish, by Whom the defect of nature was to be restored into something better, as we shall explain further on (TP, [802]Q[14] , A[4], ad 1).
 
 Reply to Objection 4: The promised reward of the immortality of glory differs from the immortality which was bestowed on man in the state of innocence.
-## Whether In The State Of Innocence Man Would Have Been Passible?
+### Whether In The State Of Innocence Man Would Have Been Passible?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence man was passible. For "sensation is a kind of passion." But in the state of innocence man would have been sensitive. Therefore he would have been passible.
 
@@ -42,7 +42,7 @@ Objection 3: Further, the same passage goes on to say that "He took a rib out of
 
 Objection 4: Further, man's body was soft. But a soft body is naturally passible as regards a hard body; therefore if a hard body had come in contact with the soft body of the first man, the latter would have suffered from the impact. Therefore the first man was passible.
 
-### Answer
+**Answer**
 
 On the contrary, Had man been passible, he would have been also corruptible, because, as the Philosopher says (Top. vi, 3): "Excessive suffering wastes the very substance."
 
@@ -50,14 +50,14 @@ I answer that, "Passion" may be taken in two senses. First, in its proper sense,
 
 Thus it is clear how to reply to the first two objections; since sensation and sleep do not remove from man his natural disposition, but are ordered to his natural welfare.
 
-### Replies
+**Replies**
 
 Reply to Objection 3: As already explained ([803]Q[92], A[3], ad 2), the rib was in Adam as the principle of the human race, as the semen in man, who is a principle through generation. Hence as man does not suffer any natural deterioration by seminal issue; so neither did he through the separation of the rib.
 
 Reply to Objection 4: Man's body in the state of innocence could be preserved from suffering injury from a hard body; partly by the use of his reason, whereby he could avoid what was harmful; and partly also by Divine Providence, so preserving him, that nothing of a harmful nature could come upon him unawares.
-## Whether In The State Of Innocence Man Had Need Of Food?
+### Whether In The State Of Innocence Man Had Need Of Food?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in the state of innocence man did not require food. For food is necessary for man to restore what he has lost. But Adam's body suffered no loss, as being incorruptible. Therefore he had no need of food.
 
@@ -67,7 +67,7 @@ Objection 3: Further, we need food for the preservation of life. But Adam could 
 
 Objection 4: Further, the consumption of food involves voiding of the surplus, which seems unsuitable to the state of innocence. Therefore it seems that man did not take food in the primitive state.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gn. 2:16): "Of every tree in paradise ye shall [Vulg. 'thou shalt'] eat."
 
@@ -75,7 +75,7 @@ I answer that, In the state of innocence man had an animal life requiring food; 
 
 Thus in the primitive state, the rational soul communicated to the body what belonged to itself as a soul; and so the body was called "animal" [*From 'anima', a soul; Cf. 1 Cor. 15:44 seqq.], through having its life from the soul. Now the first principle of life in these inferior creatures as the Philosopher says (De Anima ii, 4) is the vegetative soul: the operations of which are the use of food, generation, and growth. Wherefore such operations befitted man in the state of innocence. But in the final state, after the resurrection, the soul will, to a certain extent, communicate to the body what properly belongs to itself as a spirit; immortality to everyone; impassibility, glory, and power to the good, whose bodies will be called "spiritual." So, after the resurrection, man will not require food; whereas he required it in the state of innocence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (QQ. Vet. et Nov. Test. qu. 19 [*Works of an anonymous author, among the supposititious works of St. Augustine]): "How could man have an immortal body, which was sustained by food? Since an immortal being needs neither food nor drink." For we have explained [804](A[1]) that the immortality of the primitive state was based on a supernatural force in the soul, and not on any intrinsic disposition of the body: so that by the action of heat, the body might lose part of its humid qualities; and to prevent the entire consumption of the humor, man was obliged to take food.
 
@@ -84,9 +84,9 @@ Reply to Objection 2: A certain passion and alteration attends nutriment, on the
 Reply to Objection 3: If man had not taken food he would have sinned; as he also sinned by taking the forbidden fruit. For he was told at the same time, to abstain from the tree of knowledge of good and evil, and to eat of every other tree of Paradise.
 
 Reply to Objection 4: Some say that in the state of innocence man would not have taken more than necessary food, so that there would have been nothing superfluous; which, however, is unreasonable to suppose, as implying that there would have been no faecal matter. Wherefore there was need for voiding the surplus, yet so disposed by God as to be decorous and suitable to the state.
-## Whether In The State Of Innocence Man Would Have Acquired Immortality By The Tree Of Life?
+### Whether In The State Of Innocence Man Would Have Acquired Immortality By The Tree Of Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the tree of life could not be the cause of immortality. For nothing can act beyond its own species; as an effect does not exceed its cause. But the tree of life was corruptible, otherwise it could not be taken as food; since food is changed into the substance of the thing nourished. Therefore the tree of life could not give incorruptibility or immortality.
 
@@ -94,7 +94,7 @@ Objection 2: Further, effects caused by the forces of plants and other natural a
 
 Objection 3: Further, this would seem to be reduced to the ancient fable, that the gods, by eating a certain food, became immortal; which the Philosopher ridicules (Metaph. iii, Did. ii, 4).
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Gn. 3:22): "Lest perhaps he put forth his hand, and take of the tree of life, and eat, and live for ever." Further, Augustine says (QQ. Vet. et Nov. Test. qu. 19 [*Work of an anonymous author, among the supposititious works of St. Augustine]): "A taste of the tree of life warded off corruption of the body; and even after sin man would have remained immortal, had he been allowed to eat of the tree of life."
 

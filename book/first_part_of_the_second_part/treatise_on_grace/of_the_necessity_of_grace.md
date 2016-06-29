@@ -11,9 +11,9 @@ We must now consider the exterior principle of human acts, i.e. God, in so far a
 (8) Whether without grace man can avoid sin?
 (9) Whether man having received grace can do good and avoid sin without any further Divine help?
 (10) Whether he can of himself persevere in good?
-## Whether Without Grace Man Can Know Any Truth?
+### Whether Without Grace Man Can Know Any Truth?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that without grace man can know no truth. For, on 1 Cor. 12:3: "No man can say, the Lord Jesus, but by the Holy Ghost," a gloss says: "Every truth, by whomsoever spoken is from the Holy Ghost." Now the Holy Ghost dwells in us by grace. Therefore we cannot know truth without grace.
 
@@ -21,7 +21,7 @@ Objection 2: Further, Augustine says (Solil. i, 6) that "the most certain scienc
 
 Objection 3: Further, the human mind can only understand truth by thinking, as is clear from Augustine (De Trin. xiv, 7). But the Apostle says (2 Cor. 3:5): "Not that we are sufficient to think anything of ourselves, as of ourselves; but our sufficiency is from God." Therefore man cannot, of himself, know truth without the help of grace.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Retract. i, 4): "I do not approve having said in the prayer, O God, Who dost wish the sinless alone to know the truth; for it may be answered that many who are not sinless know many truths." Now man is cleansed from sin by grace, according to Ps. 50:12: "Create a clean heart in me, O God, and renew a right spirit within my bowels." Therefore without grace man of himself can know truth.
 
@@ -31,16 +31,16 @@ Now every form bestowed on created things by God has power for a determined act,
 
 Hence we must say that for the knowledge of any truth whatsoever man needs Divine help, that the intellect may be moved by God to its act. But he does not need a new light added to his natural light, in order to know the truth in all things, but only in some that surpass his natural knowledge. And yet at times God miraculously instructs some by His grace in things that can be known by natural reason, even as He sometimes brings about miraculously what nature can do.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Every truth by whomsoever spoken is from the Holy Ghost as bestowing the natural light, and moving us to understand and speak the truth, but not as dwelling in us by sanctifying grace, or as bestowing any habitual gift superadded to nature. For this only takes place with regard to certain truths that are known and spoken, and especially in regard to such as pertain to faith, of which the Apostle speaks.
 
 Reply to Objection 2: The material sun sheds its light outside us; but the intelligible Sun, Who is God, shines within us. Hence the natural light bestowed upon the soul is God's enlightenment, whereby we are enlightened to see what pertains to natural knowledge; and for this there is required no further knowledge, but only for such things as surpass natural knowledge.
 
 Reply to Objection 3: We always need God's help for every thought, inasmuch as He moves the understanding to act; for actually to understand anything is to think, as is clear from Augustine (De Trin. xiv, 7).
-## Whether Man Can Wish Or Do Any Good Without Grace?
+### Whether Man Can Wish Or Do Any Good Without Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man can wish and do good without grace. For that is in man's power, whereof he is master. Now man is master of his acts, and especially of his willing, as stated above ([2165]Q[1], A[1];[2166] Q[13], A[6]). Hence man, of himself, can wish and do good without the help of grace.
 
@@ -48,7 +48,7 @@ Objection 2: Further, man has more power over what is according to his nature th
 
 Objection 3: Further, the understanding's good is truth, as the Philosopher says (Ethic. vi, 2). Now the intellect can of itself know truth, even as every other thing can work its own operation of itself. Therefore, much more can man, of himself, do and wish good.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 9:16): "It is not of him that willeth," namely, to will, "nor of him that runneth," namely to run, "but of God that showeth mercy." And Augustine says (De Corrept. et Gratia ii) that "without grace men do nothing good when they either think or wish or love or act."
 
@@ -56,16 +56,16 @@ I answer that, Man's nature may be looked at in two ways: first, in its integrit
 
 And thus in the state of perfect nature man needs a gratuitous strength superadded to natural strength for one reason, viz. in order to do and wish supernatural good; but for two reasons, in the state of corrupt nature, viz. in order to be healed, and furthermore in order to carry out works of supernatural virtue, which are meritorious. Beyond this, in both states man needs the Divine help, that he may be moved to act well.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man is master of his acts and of his willing or not willing, because of his deliberate reason, which can be bent to one side or another. And although he is master of his deliberating or not deliberating, yet this can only be by a previous deliberation; and since it cannot go on to infinity, we must come at length to this, that man's free-will is moved by an extrinsic principle, which is above the human mind, to wit by God, as the Philosopher proves in the chapter "On Good Fortune" (Ethic. Eudem. vii). Hence the mind of man still unweakened is not so much master of its act that it does not need to be moved by God; and much more the free-will of man weakened by sin, whereby it is hindered from good by the corruption of the nature.
 
 Reply to Objection 2: To sin is nothing else than to fail in the good which belongs to any being according to its nature. Now as every created thing has its being from another, and, considered in itself, is nothing, so does it need to be preserved by another in the good which pertains to its nature. For it can of itself fail in good, even as of itself it can fall into non-existence, unless it is upheld by God.
 
 Reply to Objection 3: Man cannot even know truth without Divine help, as stated above [2169](A[1]). And yet human nature is more corrupt by sin in regard to the desire for good, than in regard to the knowledge of truth.
-## Whether By His Own Natural Powers And Without Grace Man Can Love God Above All Things?
+### Whether By His Own Natural Powers And Without Grace Man Can Love God Above All Things?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that without grace man cannot love God above all things by his own natural powers. For to love God above all things is the proper and principal act of charity. Now man cannot of himself possess charity, since the "charity of God is poured forth in our hearts by the Holy Ghost Who is given to us," as is said Rom. 5:5. Therefore man by his natural powers alone cannot love God above all things.
 
@@ -73,22 +73,22 @@ Objection 2: Further, no nature can rise above itself. But to love God above all
 
 Objection 3: Further, to God, Who is the Highest Good, is due the best love, which is that He be loved above all things. Now without grace man is not capable of giving God the best love, which is His due; otherwise it would be useless to add grace. Hence man, without grace and with his natural powers alone, cannot love God above all things.
 
-### Answer
+**Answer**
 
 On the contrary, As some maintain, man was first made with only natural endowments; and in this state it is manifest that he loved God to some extent. But he did not love God equally with himself, or less than himself, otherwise he would have sinned. Therefore he loved God above himself. Therefore man, by his natural powers alone, can love God more than himself and above all things.
 
 I answer that, As was said above ([2170]FP, Q[60], A[5]), where the various opinions concerning the natural love of the angels were set forth, man in a state of perfect nature, could by his natural power, do the good natural to him without the addition of any gratuitous gift, though not without the help of God moving him. Now to love God above all things is natural to man and to every nature, not only rational but irrational, and even to inanimate nature according to the manner of love which can belong to each creature. And the reason of this is that it is natural to all to seek and love things according as they are naturally fit (to be sought and loved) since "all things act according as they are naturally fit" as stated in Phys. ii, 8. Now it is manifest that the good of the part is for the good of the whole; hence everything, by its natural appetite and love, loves its own proper good on account of the common good of the whole universe, which is God. Hence Dionysius says (Div. Nom. iv) that "God leads everything to love of Himself." Hence in the state of perfect nature man referred the love of himself and of all other things to the love of God as to its end; and thus he loved God more than himself and above all things. But in the state of corrupt nature man falls short of this in the appetite of his rational will, which, unless it is cured by God's grace, follows its private good, on account of the corruption of nature. And hence we must say that in the state of perfect nature man did not need the gift of grace added to his natural endowments, in order to love God above all things naturally, although he needed God's help to move him to it; but in the state of corrupt nature man needs, even for this, the help of grace to heal his nature.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Charity loves God above all things in a higher way than nature does. For nature loves God above all things inasmuch as He is the beginning and the end of natural good; whereas charity loves Him, as He is the object of beatitude, and inasmuch as man has a spiritual fellowship with God. Moreover charity adds to natural love of God a certain quickness and joy, in the same way that every habit of virtue adds to the good act which is done merely by the natural reason of a man who has not the habit of virtue.
 
 Reply to Objection 2: When it is said that nature cannot rise above itself, we must not understand this as if it could not be drawn to any object above itself, for it is clear that our intellect by its natural knowledge can know things above itself, as is shown in our natural knowledge of God. But we are to understand that nature cannot rise to an act exceeding the proportion of its strength. Now to love God above all things is not such an act; for it is natural to every creature, as was said above.
 
 Reply to Objection 3: Love is said to be best, both with respect to degree of love, and with regard to the motive of loving, and the mode of love. And thus the highest degree of love is that whereby charity loves God as the giver of beatitude, as was said above.
-## Whether Man Without Grace And By His Own Natural Powers Can Fulfil The Commandments Of The Law?
+### Whether Man Without Grace And By His Own Natural Powers Can Fulfil The Commandments Of The Law?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man without grace, and by his own natural powers, can fulfil the commandments of the Law. For the Apostle says (Rom. 2:14) that "the Gentiles who have not the law, do by nature those things that are of the Law." Now what a man does naturally he can do of himself without grace. Hence a man can fulfil the commandments of the Law without grace.
 
@@ -96,22 +96,22 @@ Objection 2: Further, Jerome says (Expos. Cathol. Fide [*Symboli Explanatio ad D
 
 Objection 3: Further, of all the commandments of the Law, the greatest is this, "Thou shalt love the Lord thy God with thy whole heart" (Mat. 27:37). Now man with his natural endowments can fulfil this command by loving God above all things, as stated above [2171](A[3]). Therefore man can fulfil all the commandments of the Law without grace.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Haeres. lxxxviii) that it is part of the Pelagian heresy that "they believe that without grace man can fulfil all the Divine commandments."
 
 I answer that, There are two ways of fulfilling the commandments of the Law. The first regards the substance of the works, as when a man does works of justice, fortitude, and of other virtues. And in this way man in the state of perfect nature could fulfil all the commandments of the Law; otherwise he would have been unable to sin in that state, since to sin is nothing else than to transgress the Divine commandments. But in the state of corrupted nature man cannot fulfil all the Divine commandments without healing grace. Secondly, the commandments of the law can be fulfilled, not merely as regards the substance of the act, but also as regards the mode of acting, i.e. their being done out of charity. And in this way, neither in the state of perfect nature, nor in the state of corrupt nature can man fulfil the commandments of the law without grace. Hence, Augustine (De Corrupt. et Grat. ii) having stated that "without grace men can do no good whatever," adds: "Not only do they know by its light what to do, but by its help they do lovingly what they know." Beyond this, in both states they need the help of God's motion in order to fulfil the commandments, as stated above ([2172]AA[2],3).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (De Spir. et Lit. xxvii), "do not be disturbed at his saying that they do by nature those things that are of the Law; for the Spirit of grace works this, in order to restore in us the image of God, after which we were naturally made."
 
 Reply to Objection 2: What we can do with the Divine assistance is not altogether impossible to us; according to the Philosopher (Ethic. iii, 3): "What we can do through our friends, we can do, in some sense, by ourselves." Hence Jerome [*Symboli Explanatio ad Damasum, among the supposititious works of St. Jerome: now ascribed to Pelagius] concedes that "our will is in such a way free that we must confess we still require God's help."
 
 Reply to Objection 3: Man cannot, with his purely natural endowments, fulfil the precept of the love of God, as stated above [2173](A[3]).
-## Whether Man Can Merit Everlasting Life Without Grace?
+### Whether Man Can Merit Everlasting Life Without Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man can merit everlasting life without grace. For Our Lord says (Mat. 19:17): "If thou wilt enter into life, keep the commandments"; from which it would seem that to enter into everlasting life rests with man's will. But what rests with our will, we can do of ourselves. Hence it seems that man can merit everlasting life of himself.
 
@@ -119,22 +119,22 @@ Objection 2: Further, eternal life is the wage of reward bestowed by God on men,
 
 Objection 3: Further, everlasting life is the last end of human life. Now every natural thing by its natural endowments can attain its end. Much more, therefore, may man attain to life everlasting by his natural endowments, without grace.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 6:23): "The grace of God is life everlasting." And as a gloss says, this is said "that we may understand that God, of His own mercy, leads us to everlasting life."
 
 I answer that, Acts conducing to an end must be proportioned to the end. But no act exceeds the proportion of its active principle; and hence we see in natural things, that nothing can by its operation bring about an effect which exceeds its active force, but only such as is proportionate to its power. Now everlasting life is an end exceeding the proportion of human nature, as is clear from what we have said above ([2174]Q[5], A[5]). Hence man, by his natural endowments, cannot produce meritorious works proportionate to everlasting life; and for this a higher force is needed, viz. the force of grace. And thus without grace man cannot merit everlasting life; yet he can perform works conducing to a good which is natural to man, as "to toil in the fields, to drink, to eat, or to have friends," and the like, as Augustine says in his third Reply to the Pelagians [*Hypognosticon iii, among the spurious works of St. Augustine].
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man, by his will, does works meritorious of everlasting life; but as Augustine says, in the same book, for this it is necessary that the will of man should be prepared with grace by God.
 
 Reply to Objection 2: As the gloss upon Rom. 6:23, "The grace of God is life everlasting," says, "It is certain that everlasting life is meter to good works; but the works to which it is meted, belong to God's grace." And it has been said [2175](A[4]), that to fulfil the commandments of the Law, in their due way, whereby their fulfilment may be meritorious, requires grace.
 
 Reply to Objection 3: This objection has to do with the natural end of man. Now human nature, since it is nobler, can be raised by the help of grace to a higher end, which lower natures can nowise reach; even as a man who can recover his health by the help of medicines is better disposed to health than one who can nowise recover it, as the Philosopher observes (De Coelo ii, 12).
-## Whether A Man, By Himself And Without The External Aid Of Grace, Can Prepare Himself For Grace?
+### Whether A Man, By Himself And Without The External Aid Of Grace, Can Prepare Himself For Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man, by himself and without the external help of grace, can prepare himself for grace. For nothing impossible is laid upon man, as stated above (A[4], ad 1). But it is written (Zech. 1:3): "Turn ye to Me . . . and I will turn to you." Now to prepare for grace is nothing more than to turn to God. Therefore it seems that man of himself, and without the external help of grace, can prepare himself for grace.
 
@@ -144,13 +144,13 @@ Objection 3: Further, if a man needs grace in order to prepare for grace, with e
 
 Objection 4: Further, it is written (Prov. 16:1) that "it is the part of man to prepare the soul." Now an action is said to be part of a man, when he can do it by himself. Hence it seems that man by himself can prepare himself for grace.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 6:44): "No man can come to Me except the Father, Who hath sent Me, draw him." But if man could prepare himself, he would not need to be drawn by another. Hence man cannot prepare himself without the help of grace.
 
 I answer that, The preparation of the human will for good is twofold: the first, whereby it is prepared to operate rightly and to enjoy God; and this preparation of the will cannot take place without the habitual gift of grace, which is the principle of meritorious works, as stated above [2176](A[5]). There is a second way in which the human will may be taken to be prepared for the gift of habitual grace itself. Now in order that man prepare himself to receive this gift, it is not necessary to presuppose any further habitual gift in the soul, otherwise we should go on to infinity. But we must presuppose a gratuitous gift of God, Who moves the soul inwardly or inspires the good wish. For in these two ways do we need the Divine assistance, as stated above ([2177]AA[2],3). Now that we need the help of God to move us, is manifest. For since every agent acts for an end, every cause must direct is effect to its end, and hence since the order of ends is according to the order of agents or movers, man must be directed to the last end by the motion of the first mover, and to the proximate end by the motion of any of the subordinate movers; as the spirit of the soldier is bent towards seeking the victory by the motion of the leader of the army---and towards following the standard of a regiment by the motion of the standard-bearer. And thus since God is the First Mover, simply, it is by His motion that everything seeks to be likened to God in its own way. Hence Dionysius says (Div. Nom. iv) that "God turns all to Himself." But He directs righteous men to Himself as to a special end, which they seek, and to which they wish to cling, according to Ps. 72:28, "it is good for Me to adhere to my God." And that they are "turned" to God can only spring from God's having "turned" them. Now to prepare oneself for grace is, as it were, to be turned to God; just as, whoever has his eyes turned away from the light of the sun, prepares himself to receive the sun's light, by turning his eyes towards the sun. Hence it is clear that man cannot prepare himself to receive the light of grace except by the gratuitous help of God moving him inwardly.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man's turning to God is by free-will; and thus man is bidden to turn himself to God. But free-will can only be turned to God, when God turns it, according to Jer. 31:18: "Convert me and I shall be converted, for Thou art the Lord, my God"; and Lam. 5:21: "Convert us, O Lord, to Thee, and we shall be converted."
 
@@ -159,9 +159,9 @@ Reply to Objection 2: Man can do nothing unless moved by God, according to Jn. 1
 Reply to Objection 3: This objection regards habitual grace, for which some preparation is required, since every form requires a disposition in that which is to be its subject. But in order that man should be moved by God, no further motion is presupposed since God is the First Mover. Hence we need not go to infinity.
 
 Reply to Objection 4: It is the part of man to prepare his soul, since he does this by his free-will. And yet he does not do this without the help of God moving him, and drawing him to Himself, as was said above.
-## Whether Man Can Rise From Sin Without The Help Of Grace?
+### Whether Man Can Rise From Sin Without The Help Of Grace?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man can rise from sin without the help of grace. For what is presupposed to grace, takes place without grace. But to rise to sin is presupposed to the enlightenment of grace; since it is written (Eph. 5:14): "Arise from the dead and Christ shall enlighten thee." Therefore man can rise from sin without grace.
 
@@ -169,7 +169,7 @@ Objection 2: Further, sin is opposed to virtue as illness to health, as stated a
 
 Objection 3: Further, every natural thing can return by itself to the act befitting its nature, as hot water returns by itself to its natural coldness, and a stone cast upwards returns by itself to its natural movement. Now a sin is an act against nature, as is clear from Damascene (De Fide Orth. ii, 30). Hence it seems that man by himself can return from sin to the state of justice.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Gal. 2:21; Cf. Gal. 3:21): "For if there had been a law given which could give life---then Christ died in vain," i.e. to no purpose. Hence with equal reason, if man has a nature, whereby he can he justified, "Christ died in vain," i.e. to no purpose. But this cannot fittingly be said. Therefore by himself he cannot be justified, i.e. he cannot return from a state of sin to a state of justice.
 
@@ -177,16 +177,16 @@ I answer that, Man by himself can no wise rise from sin without the help of grac
 
 Now it is manifest that none of these three can be restored except by God. For since the lustre of grace springs from the shedding of Divine light, this lustre cannot be brought back, except God sheds His light anew: hence a habitual gift is necessary, and this is the light of grace. Likewise, the order of nature can only be restored, i.e. man's will can only be subject to God when God draws man's will to Himself, as stated above [2183](A[6]). So, too, the guilt of eternal punishment can be remitted by God alone, against Whom the offense was committed and Who is man's Judge. And thus in order that man rise from sin there is required the help of grace, both as regards a habitual gift, and as regards the internal motion of God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To man is bidden that which pertains to the act of free-will, as this act is required in order that man should rise from sin. Hence when it is said, "Arise, and Christ shall enlighten thee," we are not to think that the complete rising from sin precedes the enlightenment of grace; but that when man by his free-will, moved by God, strives to rise from sin, he receives the light of justifying grace.
 
 Reply to Objection 2: The natural reason is not the sufficient principle of the health that is in man by justifying grace. This principle is grace which is taken away by sin. Hence man cannot be restored by himself; but he requires the light of grace to be poured upon him anew, as if the soul were infused into a dead body for its resurrection.
 
 Reply to Objection 3: When nature is perfect, it can be restored by itself to its befitting and proportionate condition; but without exterior help it cannot be restored to what surpasses its measure. And thus human nature undone by reason of the act of sin, remains no longer perfect, but corrupted, as stated above ([2184]Q[85]); nor can it be restored, by itself, to its connatural good, much less to the supernatural good of justice.
-## Whether Man Without Grace Can Avoid Sin?
+### Whether Man Without Grace Can Avoid Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that without grace man can avoid sin. Because "no one sins in what he cannot avoid," as Augustine says (De Duab. Anim. x, xi; De Libero Arbit. iii, 18). Hence if a man in mortal sin cannot avoid sin, it would seem that in sinning he does not sin, which is impossible.
 
@@ -194,7 +194,7 @@ Objection 2: Further, men are corrected that they may not sin. If therefore a ma
 
 Objection 3: Further, it is written (Ecclus. 15:18): "Before man is life and death, good and evil; that which he shall choose shall be given him." But by sinning no one ceases to be a man. Hence it is still in his power to choose good or evil; and thus man can avoid sin without grace.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Perfect Just. xxi): "Whoever denies that we ought to say the prayer 'Lead us not into temptation' (and they deny it who maintain that the help of God's grace is not necessary to man for salvation, but that the gift of the law is enough for the human will) ought without doubt to be removed beyond all hearing, and to be anathematized by the tongues of all."
 
@@ -204,16 +204,16 @@ But in the state of corrupt nature man needs grace to heal his nature in order t
 
 So, too, before man's reason, wherein is mortal sin, is restored by justifying grace, he can avoid each mortal sin, and for a time, since it is not necessary that he should be always actually sinning. But it cannot be that he remains for a long time without mortal sin. Hence Gregory says (Super Ezech. Hom. xi) that " a sin not at once taken away by repentance, by its weight drags us down to other sins": and this because, as the lower appetite ought to be subject to the reason, so should the reason be subject to God, and should place in Him the end of its will. Now it is by the end that all human acts ought to be regulated, even as it is by the judgment of the reason that the movements of the lower appetite should be regulated. And thus, even as inordinate movements of the sensitive appetite cannot help occurring since the lower appetite is not subject to reason, so likewise, since man's reason is not entirely subject to God, the consequence is that many disorders occur in the reason. For when man's heart is not so fixed on God as to be unwilling to be parted from Him for the sake of finding any good or avoiding any evil, many things happen for the achieving or avoiding of which a man strays from God and breaks His commandments, and thus sins mortally: especially since, when surprised, a man acts according to his preconceived end and his pre-existing habits, as the Philosopher says (Ethic. iii); although with premeditation of his reason a man may do something outside the order of his preconceived end and the inclination of his habit. But because a man cannot always have this premeditation, it cannot help occurring that he acts in accordance with his will turned aside from God, unless, by grace, he is quickly brought back to the due order.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Man can avoid each but every act of sin, except by grace, as stated above. Nevertheless, since it is by his own shortcoming that he does not prepare himself to have grace, the fact that he cannot avoid sin without grace does not excuse him from sin.
 
 Reply to Objection 2: Correction is useful "in order that out of the sorrow of correction may spring the wish to be regenerate; if indeed he who is corrected is a son of promise, in such sort that whilst the noise of correction is outwardly resounding and punishing, God by hidden inspirations is inwardly causing to will," as Augustine says (De Corr. et Gratia vi). Correction is therefore necessary, from the fact that man's will is required in order to abstain from sin; yet it is not sufficient without God's help. Hence it is written (Eccles. 7:14): "Consider the works of God that no man can correct whom He hath despised."
 
 Reply to Objection 3: As Augustine says (Hypognosticon iii [*Among the spurious works of St. Augustine]), this saying is to be understood of man in the state of perfect nature, when as yet he was not a slave of sin. Hence he was able to sin and not to sin. Now, too, whatever a man wills, is given to him; but his willing good, he has by God's assistance.
-## Whether One Who Has Already Obtained Grace, Can, Of Himself And Without Further Help Of Grace, Do Good And Avoid Sin?
+### Whether One Who Has Already Obtained Grace, Can, Of Himself And Without Further Help Of Grace, Do Good And Avoid Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that whoever has already obtained grace, can by himself and without further help of grace, do good and avoid sin. For a thing is useless or imperfect, if it does not fulfil what it was given for. Now grace is given to us that we may do good and keep from sin. Hence if with grace man cannot do this, it seems that grace is either useless or imperfect.
 
@@ -221,7 +221,7 @@ Objection 2: Further, by grace the Holy Spirit dwells in us, according to 1 Cor.
 
 Objection 3: Further, if a man who has obtained grace needs further aid of grace in order to live righteously and to keep free from sin, with equal reason, will he need yet another grace, even though he has obtained this first help of grace. Therefore we must go on to infinity; which is impossible. Hence whoever is in grace needs no further help of grace in order to do righteously and to keep free from sin.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Natura et Gratia xxvi) that "as the eye of the body though most healthy cannot see unless it is helped by the brightness of light, so, neither can a man, even if he is most righteous, live righteously unless he be helped by the eternal light of justice." But justification is by grace, according to Rom. 3:24: "Being justified freely by His grace." Hence even a man who already possesses grace needs a further assistance of grace in order to live righteously.
 
@@ -229,16 +229,16 @@ I answer that, As stated above [2187](A[5]), in order to live righteously a man 
 
 Now with regard to the first kind of help, man does not need a further help of grace, e.g. a further infused habit. Yet he needs the help of grace in another way, i.e. in order to be moved by God to act righteously, and this for two reasons: first, for the general reason that no created thing can put forth any act, unless by virtue of the Divine motion. Secondly, for this special reason---the condition of the state of human nature. For although healed by grace as to the mind, yet it remains corrupted and poisoned in the flesh, whereby it serves "the law of sin," Rom. 7:25. In the intellect, too, there seems the darkness of ignorance, whereby, as is written (Rom. 8:26): "We know not what we should pray for as we ought"; since on account of the various turns of circumstances, and because we do not know ourselves perfectly, we cannot fully know what is for our good, according to Wis. 9:14: "For the thoughts of mortal men are fearful and our counsels uncertain." Hence we must be guided and guarded by God, Who knows and can do all things. For which reason also it is becoming in those who have been born again as sons of God, to say: "Lead us not into temptation," and "Thy Will be done on earth as it is in heaven," and whatever else is contained in the Lord's Prayer pertaining to this.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The gift of habitual grace is not therefore given to us that we may no longer need the Divine help; for every creature needs to be preserved in the good received from Him. Hence if after having received grace man still needs the Divine help, it cannot be concluded that grace is given to no purpose, or that it is imperfect, since man will need the Divine help even in the state of glory, when grace shall be fully perfected. But here grace is to some extent imperfect, inasmuch as it does not completely heal man, as stated above.
 
 Reply to Objection 2: The operation of the Holy Ghost, which moves and protects, is not circumscribed by the effect of habitual grace which it causes in us; but beyond this effect He, together with the Father and the Son, moves and protects us.
 
 Reply to Objection 3: This argument merely proves that man needs no further habitual grace.
-## Whether Man Possessed Of Grace Needs The Help Of Grace In Order To Persevere?
+### Whether Man Possessed Of Grace Needs The Help Of Grace In Order To Persevere?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man possessed of grace needs no help to persevere. For perseverance is something less than virtue, even as continence is, as is clear from the Philosopher (Ethic. vii, 7,9). Now since man is justified by grace, he needs no further help of grace in order to have the virtues. Much less, therefore, does he need the help of grace to have perseverance.
 
@@ -246,13 +246,13 @@ Objection 2: Further, all the virtues are infused at once. But perseverance is p
 
 Objection 3: Further, as the Apostle says (Rom. 5:20) more was restored to man by Christ's gift, than he had lost by Adam's sin. But Adam received what enabled him to persevere; and thus man does not need grace in order to persevere.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Persev. ii): "Why is perseverance besought of God, if it is not bestowed by God? For is it not a mocking request to seek what we know He does not give, and what is in our power without His giving it?" Now perseverance is besought by even those who are hallowed by grace; and this is seen, when we say "Hallowed be Thy name," which Augustine confirms by the words of Cyprian (De Correp. et Grat. xii). Hence man, even when possessed of grace, needs perseverance to be given to him by God.
 
 I answer that, Perseverance is taken in three ways. First, to signify a habit of the mind whereby a man stands steadfastly, lest he be moved by the assault of sadness from what is virtuous. And thus perseverance is to sadness as continence is to concupiscence and pleasure, as the Philosopher says (Ethic. vii, 7). Secondly, perseverance may be called a habit, whereby a man has the purpose of persevering in good unto the end. And in both these ways perseverance is infused together with grace, even as continence and the other virtues are. Thirdly, perseverance is called the abiding in good to the end of life. And in order to have this perseverance man does not, indeed, need another habitual grace, but he needs the Divine assistance guiding and guarding him against the attacks of the passions, as appears from the preceding article. And hence after anyone has been justified by grace, he still needs to beseech God for the aforesaid gift of perseverance, that he may be kept from evil till the end of his life. For to many grace is given to whom perseverance in grace is not given.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This objection regards the first mode of perseverance, as the second objection regards the second.
 

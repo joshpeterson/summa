@@ -7,9 +7,9 @@ We have now to consider the Priesthood of Christ; and under this head there are 
 (4) Whether the effect of His priesthood pertains to Himself, or only to others?
 (5) Of the eternal duration of His priesthood;
 (6) Whether He should be called "a priest according to the order of Melchisedech"?
-## Whether It Is Fitting That Christ Should Be A Priest?
+### Whether It Is Fitting That Christ Should Be A Priest?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unfitting that Christ should be a priest. For a priest is less than an angel; whence it is written (Zech. 3:1): "The Lord showed me the high-priest standing before the angel of the Lord." But Christ is greater than the angels, according to Heb. 1:4: "Being made so much better than the angels, as He hath inherited a more excellent name than they." Therefore it is unfitting that Christ should be a priest.
 
@@ -17,22 +17,22 @@ Objection 2: Further, things which were in the Old Testament were figures of Chr
 
 Objection 3: Further, in the Old Law, which is a figure of Christ, the lawgivers and the priests were distinct: wherefore the Lord said to Moses the lawgiver (Ex. 28:1): "Take unto thee Aaron, thy brother . . . that he [Vulg.: 'they'] may minister to Me in the priest's office." But Christ is the giver of the New Law, according to Jer. 31:33: "I will give My law in their bowels." Therefore it is unfitting that Christ should be a priest.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 4:14): "We have [Vulg.: 'Having'] therefore a great high-priest that hath passed into the heavens, Jesus, the Son of God."
 
 I answer that, The office proper to a priest is to be a mediator between God and the people: to wit, inasmuch as He bestows Divine things on the people, wherefore "sacerdos" [priest] means a giver of sacred things [sacra dans], according to Malachi 2:7: "They shall seek the law at his," i.e. the priest's, "mouth"; and again, forasmuch as he offers up the people's prayers to God, and, in a manner, makes satisfaction to God for their sins; wherefore the Apostle says (Heb. 5:1): "Every high-priest taken from among men is ordained for men in the things that appertain to God, that he may offer up gifts and sacrifices for sins." Now this is most befitting to Christ. For through Him are gifts bestowed on men, according to 2 Pet. 1:4: "By Whom" (i.e. Christ) "He hath given us most great and precious promises, that by these you may be made partakers of the Divine Nature." Moreover, He reconciled the human race to God, according to Col. 1:19,20: "In Him" (i.e. Christ) "it hath well pleased (the Father) that all fulness should dwell, and through Him to reconcile all things unto Himself." Therefore it is most fitting that Christ should be a priest.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Hierarchical power appertains to the angels, inasmuch as they also are between God and man, as Dionysius explains (Coel. Hier. ix), so that the priest himself, as being between God and man, is called an angel, according to Malachi 2:7: "He is the angel of the Lord of hosts." Now Christ was greater than the angels, not only in His Godhead, but also in His humanity, as having the fulness of grace and glory. Wherefore also He had the hierarchical or priestly power in a higher degree than the angels, so that even the angels were ministers of His priesthood, according to Mat. 4:11: "Angels came and ministered unto Him." But, in regard to His passibility, He "was made a little lower than the angels," as the Apostle says (Heb. 2:9): and thus He was conformed to those wayfarers who are ordained to the priesthood.
 
 Reply to Objection 2: As Damascene says (De Fide Orth. iii, 26): "What is like in every particular must be, of course, identical, and not a copy." Since, therefore, the priesthood of the Old Law was a figure of the priesthood of Christ, He did not wish to be born of the stock of the figurative priests, that it might be made clear that His priesthood is not quite the same as theirs, but differs therefrom as truth from figure.
 
 Reply to Objection 3: As stated above ([4103]Q[7], A[7], ad 1), other men have certain graces distributed among them: but Christ, as being the Head of all, has the perfection of all graces. Wherefore, as to others, one is a lawgiver, another is a priest, another is a king; but all these concur in Christ, as the fount of all grace. Hence it is written (Is. 33:22): "The Lord is our Judge, the Lord is our law-giver, the Lord is our King: He will" come and "save us."
-## Whether Christ Was Himself Both Priest And Victim?
+### Whether Christ Was Himself Both Priest And Victim?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ Himself was not both priest and victim. For it is the duty of the priest to slay the victim. But Christ did not kill Himself. Therefore He was not both priest and victim.
 
@@ -40,7 +40,7 @@ Objection 2: Further, the priesthood of Christ has a greater similarity to the J
 
 Objection 3: Further, every victim, through being offered to God, is consecrated to God. But the humanity of Christ was from the beginning consecrated and united to God. Therefore it cannot be said fittingly that Christ as man was a victim.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Eph. 5:2): "Christ hath loved us, and hath delivered Himself for us, an oblation and a victim [Douay: 'sacrifice'] to God for an odor of sweetness."
 
@@ -50,16 +50,16 @@ Now man is required to offer sacrifice for three reasons. First, for the remissi
 
 Now these effects were conferred on us by the humanity of Christ. For, in the first place, our sins were blotted out, according to Rom. 4:25: "Who was delivered up for our sins." Secondly, through Him we received the grace of salvation, according to Heb. 5:9: "He became to all that obey Him the cause of eternal salvation." Thirdly, through Him we have acquired the perfection of glory, according to Heb. 10:19: "We have [Vulg.: 'Having'] a confidence in the entering into the Holies" (i.e. the heavenly glory) "through His Blood." Therefore Christ Himself, as man, was not only priest, but also a perfect victim, being at the same time victim for sin, victim for a peace-offering, and a holocaust.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ did not slay Himself, but of His own free-will He exposed Himself to death, according to Is. 53:7: "He was offered because it was His own will." Thus He is said to have offered Himself.
 
 Reply to Objection 2: The slaying of the Man Christ may be referred to a twofold will. First, to the will of those who slew Him: and in this respect He was not a victim: for the slayers of Christ are not accounted as offering a sacrifice to God, but as guilty of a great crime: a similitude of which was borne by the wicked sacrifices of the Gentiles, in which they offered up men to idols. Secondly, the slaying of Christ may be considered in reference to the will of the Sufferer, Who freely offered Himself to suffering. In this respect He is a victim, and in this He differs from the sacrifices of the Gentiles.
 
 Reply to Objection 3: The fact that Christ's manhood was holy from its beginning does not prevent that same manhood, when it was offered to God in the Passion, being sanctified in a new way---namely, as a victim actually offered then. For it acquired then the actual holiness of a victim, from the charity which it had from the beginning, and from the grace of union sanctifying it absolutely.]
-## Whether The Effect Of Christ's Priesthood Is The Expiation Of Sins?
+### Whether The Effect Of Christ's Priesthood Is The Expiation Of Sins?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the effect of Christ's priesthood is not the expiation of sins. For it belongs to God alone to blot out sins, according to Is. 43:25: "I am He that blot out thy iniquities for My own sake." But Christ is priest, not as God, but as man. Therefore the priesthood of Christ does not expiate sins.
 
@@ -67,22 +67,22 @@ Objection 2: Further, the Apostle says (Heb. 10:1-3) that the victims of the Old
 
 Objection 3: Further, in the sin-offerings of the Old Law, a he-goat was mostly offered for the sin of a prince, a she-goat for the sin of some private individual, a calf for the sin of a priest, as we gather from Lev. 4:3,23,28. But Christ is compared to none of these, but to the lamb, according to Jer. 11:19: "I was as a meek lamb, that is carried to be a victim." Therefore it seems that His priesthood does not expiate sins.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Heb. 9:14): "The blood of Christ, Who by the Holy Ghost offered Himself unspotted unto God, shall cleanse our conscience from dead works, to serve the living God." But dead works denote sins. Therefore the priesthood of Christ has the power to cleanse from sins.
 
 I answer that, Two things are required for the perfect cleansing from sins, corresponding to the two things comprised in sin---namely, the stain of sin and the debt of punishment. The stain of sin is, indeed, blotted out by grace, by which the sinner's heart is turned to God: whereas the debt of punishment is entirely removed by the satisfaction that man offers to God. Now the priesthood of Christ produces both these effects. For by its virtue grace is given to us, by which our hearts are turned to God, according to Rom. 3:24,25: "Being justified freely by His grace, through the redemption that is in Christ Jesus, Whom God hath proposed to be a propitiation, through faith in His blood." Moreover, He satisfied for us fully, inasmuch as "He hath borne our infirmities and carried our sorrows" (Is. 53:4). Wherefore it is clear that the priesthood of Christ has full power to expiate sins.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although Christ was a priest, not as God, but as man, yet one and the same was both priest and God. Wherefore in the Council of Ephesus [*Part III, ch. i, anath. 10] we read: "If anyone say that the very Word of God did not become our High-Priest and Apostle, when He became flesh and a man like us, but altogether another one, the man born of a woman, let him be anathema." Hence in so far as His human nature operated by virtue of the Divine, that sacrifice was most efficacious for the blotting out of sins. For this reason Augustine says (De Trin. iv, 14): "So that, since four things are to be observed in every sacrifice---to whom it is offered, by whom it is offered, what is offered, for whom it is offered; the same one true Mediator reconciling us to God by the sacrifice of peace, was one with Him to Whom it was offered, united in Himself those for whom He offered it, at the same time offered it Himself, and was Himself that which He offered."
 
 Reply to Objection 2: Sins are commemorated in the New Law, not on account of the inefficacy of the priesthood of Christ, as though sins were not sufficiently expiated by Him: but in regard to those who either are not willing to be participators in His sacrifice, such as unbelievers, for whose sins we pray that they be converted; or who, after taking part in this sacrifice, fall away from it by whatsoever kind of sin. The Sacrifice which is offered every day in the Church is not distinct from that which Christ Himself offered, but is a commemoration thereof. Wherefore Augustine says (De Civ. De. x, 20): "Christ Himself both is the priest who offers it and the victim: the sacred token of which He wished to be the daily Sacrifice of the Church."
 
 Reply to Objection 3: As Origen says (Sup. Joan. i, 29), though various animals were offered up under the Old Law, yet the daily sacrifice, which was offered up morning and evening, was a lamb, as appears from Num. 38:3,4. By which it was signified that the offering up of the true lamb, i.e. Christ, was the culminating sacrifice of all. Hence (Jn. 1:29) it is said: "Behold the Lamb of God, behold Him Who taketh away the sins [Vulg.: 'sin'] of the world."
-## Whether The Effect Of The Priesthood Of Christ Pertained Not Only To Others, But Also To Himself?
+### Whether The Effect Of The Priesthood Of Christ Pertained Not Only To Others, But Also To Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the effect of the priesthood of Christ pertained not only to others, but also to Himself. For it belongs to the priest's office to pray for the people, according to 2 Macc. 1:23: "The priests made prayer while the sacrifice was consuming." Now Christ prayed not only for others, but also for Himself, as we have said above ([4104]Q[21], A[3]), and as expressly stated (Heb. 5:7): "In the days of His flesh, with a strong cry and tears He offered [Vulg.: 'offering'] up prayers and supplications to Him that was able to save Him from death." Therefore the priesthood of Christ had an effect not only in others, but also in Himself.
 
@@ -90,22 +90,22 @@ Objection 2: Further, in His passion Christ offered Himself as a sacrifice. But 
 
 Objection 3: Further, the priesthood of the Old Law was a figure of the priesthood of Christ. But the priest of the Old Law offered sacrifice not only for others, but also for himself: for it is written (Lev. 16:17) that "the high-priest goeth into the sanctuary to pray for himself and his house, and for the whole congregation of Israel." Therefore the priesthood of Christ also had an effect not merely in others, but also in Himself.
 
-### Answer
+**Answer**
 
 On the contrary, We read in the acts of the Council of Ephesus [*Part III, ch. i, anath. 10]: "If anyone say that Christ offered sacrifice for Himself, and not rather for us alone (for He Who knew not sin needed no sacrifice), let him be anathema." But the priest's office consists principally in offering sacrifice. Therefore the priesthood of Christ had no effect in Himself.
 
 I answer that, As stated above [4106](A[1]), a priest is set between God and man. Now he needs someone between himself and God, who of himself cannot approach to God; and such a one is subject to the priesthood by sharing in the effect thereof. But this cannot be said of Christ; for the Apostle says (Heb. 7:25): "Coming of Himself to God, always living to make intercession for us [Vulg.: 'He is able to save for ever them that come to God by Him; always living,' etc.]." And therefore it is not fitting for Christ to be the recipient of the effect of His priesthood, but rather to communicate it to others. For the influence of the first agent in every genus is such that it receives nothing in that genus: thus the sun gives but does not receive light; fire gives but does not receive heat. Now Christ is the fountain-head of the entire priesthood: for the priest of the Old Law was a figure of Him; while the priest of the New Law works in His person, according to 2 Cor. 2:10: "For what I have pardoned, if I have pardoned anything, for your sakes have I done it in the person of Christ." Therefore it is not fitting that Christ should receive the effect of His priesthood.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although prayer is befitting to priests, it is not their proper office, for it is befitting to everyone to pray both for himself and for others, according to James 5:16: "Pray for one another that you may be saved." And so we may say that the prayer by which Christ prayed for Himself was not an action of His priesthood. But this answer seems to be precluded by the Apostle, who, after saying (Heb. 5:6), "Thou art a priest for ever according to the order of Melchisedech," adds, "Who in the days of His flesh offering up payers," etc., as quoted above (OBJ[1] ): so that it seems that the prayer which Christ offered pertained to His priesthood. We must therefore say that other priests partake in the effect of their priesthood, not as priests, but as sinners, as we shall state farther on (ad 3). But Christ had, simply speaking, no sin; though He had the "likeness of sin in the flesh [Vulg.,: 'sinful flesh']," as is written Rom. 8:3. And, consequently, we must not say simply that He partook of the effect of His priesthood but with this qualification---in regard to the passibility of the flesh. Wherefore he adds pointedly, "that was able to save Him from death."
 
 Reply to Objection 2: Two things may be considered in the offering of a sacrifice by any priest---namely, the sacrifice itself which is offered, and the devotion of the offerer. Now the proper effect of priesthood is that which results from the sacrifice itself. But Christ obtained a result from His passion, not as by virtue of the sacrifice, which is offered by way of satisfaction, but by the very devotion with which out of charity He humbly endured the passion.
 
 Reply to Objection 3: A figure cannot equal the reality, wherefore the figural priest of the Old Law could not attain to such perfection as not to need a sacrifice of satisfaction. But Christ did not stand in need of this. Consequently, there is no comparison between the two; and this is what the Apostle says (Heb. 7:28): "The Law maketh men priests, who have infirmity; but the word of the oath, which was since the Law, the Son Who is perfected for evermore."
-## Whether The Priesthood Of Christ Endures For Ever?
+### Whether The Priesthood Of Christ Endures For Ever?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the priesthood of Christ does not endure for ever. For as stated above (A[4], ad 1,3) those alone need the effect of the priesthood who have the weakness of sin, which can be expiated by the priest's sacrifice. But this will not be for ever. For in the Saints there will be no weakness, according to Is. 60:21: "Thy people shall be all just": while no expiation will be possible for the weakness of sin, since "there is no redemption in hell" (Office of the Dead, Resp. vii). Therefore the priesthood of Christ endures not for ever.
 
@@ -113,20 +113,20 @@ Objection 2: Further, the priesthood of Christ was made manifest most of all in 
 
 Objection 3: Further, Christ is a priest, not as God, but as man. But at one time Christ was not man, namely during the three days He lay dead. Therefore the priesthood of Christ endures not for ever.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 109:4): "Thou art a priest for ever."
 
 I answer that, In the priestly office, we may consider two things: first, the offering of the sacrifice; secondly, the consummation of the sacrifice, consisting in this, that those for whom the sacrifice is offered, obtain the end of the sacrifice. Now the end of the sacrifice which Christ offered consisted not in temporal but in eternal good, which we obtain through His death, according to Heb. 9:11: "Christ is [Vulg.: 'being come'] a high-priest of the good things to come"; for which reason the priesthood of Christ is said to be eternal. Now this consummation of Christ's sacrifice was foreshadowed in this, that the high-priest of the Old Law, once a year, entered into the Holy of Holies with the blood of a he-goat and a calf, as laid down, Lev. 16:11, and yet he offered up the he-goat and calf not within the Holy of Holies, but without. In like manner Christ entered into the Holy of Holies---that is, into heaven---and prepared the way for us, that we might enter by the virtue of His blood, which He shed for us on earth.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Saints who will be in heaven will not need any further expiation by the priesthood of Christ, but having expiated, they will need consummation through Christ Himself, on Whom their glory depends, as is written (Apoc. 21:23): "The glory of God hath enlightened it"---that is, the city of the Saints---"and the Lamb is the lamp thereof."
 
 Reply to Objection 2: Although Christ's passion and death are not to be repeated, yet the virtue of that Victim endures for ever, for, as it is written (Heb. 10:14), "by one oblation He hath perfected for ever them that are sanctified."
-## Whether The Priesthood Of Christ Was According To The Order Of Melchisedech?
+### Whether The Priesthood Of Christ Was According To The Order Of Melchisedech?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ's priesthood was not according to the order of Melchisedech. For Christ is the fountain-head of the entire priesthood, as being the principal priest. Now that which is principal is not . secondary in regard to others, but others are secondary in its regard. Therefore Christ should not be called a priest according to the order of Melchisedech.
 
@@ -134,13 +134,13 @@ Objection 2: Further, the priesthood of the Old Law was more akin to Christ's pr
 
 Objection 3: Further, it is written (Heb. 7:2,3): "That is 'king of peace,' without father, without mother, without genealogy; having neither beginning of days nor ending of life": which can be referred only to the Son of God. Therefore Christ should not be called a priest according to the order of Melchisedech, as of some one else, but according to His own order.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 109:4): "Thou art a priest for ever according to the order of Melchisedech."
 
 I answer that, As stated above (A[4], ad 3) the priesthood of the Law was a figure of the priesthood of Christ, not as adequately representing the reality, but as falling far short thereof: both because the priesthood of the Law did not wash away sins, and because it was not eternal, as the priesthood of Christ. Now the excellence of Christ's over the Levitical priesthood was foreshadowed in the priesthood of Melchisedech, who received tithes from Abraham, in whose loins the priesthood of the Law was tithed. Consequently the priesthood of Christ is said to be "according to the order of Melchisedech," on account of the excellence of the true priesthood over the figural priesthood of the Law.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ is said to be according to the order of Melchisedech not as though the latter were a more excellent priest, but because he foreshadowed the excellence of Christ's over the Levitical priesthood.
 

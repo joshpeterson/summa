@@ -13,9 +13,9 @@ We must now consider charity in relation to its subject, under which head there 
 (10) Whether charity can diminish?
 (11) Whether charity can be lost after it has been possessed?
 (12) Whether it is lost through one mortal sin?
-## Whether The Will Is The Subject Of Charity?
+### Whether The Will Is The Subject Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the will is not the subject of charity. For charity is a kind of love. Now, according to the Philosopher (Topic. ii, 3) love is in the concupiscible part. Therefore charity is also in the concupiscible and not in the will.
 
@@ -23,22 +23,22 @@ Objection 2: Further, charity is the foremost of the virtues, as stated above ([
 
 Objection 3: Further, charity extends to all human acts, according to 1 Cor. 16:14: "Let all your things be done in charity." Now the principle of human acts is the free-will. Therefore it seems that charity is chiefly in the free-will as its subject and not in the will.
 
-### Answer
+**Answer**
 
 On the contrary, The object of charity is the good, which is also the object of the will. Therefore charity is in the will as its subject.
 
 I answer that, Since, as stated in the [2513]FP, Q[80], A[2], the appetite is twofold, namely the sensitive, and the intellective which is called the will, the object of each is the good, but in different ways: for the object of the sensitive appetite is a good apprehended by sense, whereas the object of the intellective appetite or will is good under the universal aspect of good, according as it can be apprehended by the intellect. Now the object of charity is not a sensible good, but the Divine good which is known by the intellect alone. Therefore the subject of charity is not the sensitive, but the intellective appetite, i.e. the will.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The concupiscible is a part of the sensitive, not of the intellective appetite, as proved in the [2514]FP, Q[81], A[2]: wherefore the love which is in the concupiscible, is the love of sensible good: nor can the concupiscible reach to the Divine good which is an intelligible good; the will alone can. Consequently the concupiscible cannot be the subject of charity.
 
 Reply to Objection 2: According to the Philosopher (De Anima iii, 9), the will also is in the reason: wherefore charity is not excluded from the reason through being in the will. Yet charity is regulated, not by the reason, as human virtues are, but by God's wisdom, and transcends the rule of human reason, according to Eph. 3:19: "The charity of Christ, which surpasseth all knowledge." Hence it is not in the reason, either as its subject, like prudence is, or as its rule, like justice and temperance are, but only by a certain kinship of the will to the reason.
 
 Reply to Objection 3: As stated in the [2515]FP, Q[83], A[4], the free-will is not a distinct power from the will. Yet charity is not in the will considered as free-will, the act of which is to choose. For choice is of things directed to the end, whereas the will is of the end itself (Ethic. iii, 2). Hence charity, whose object is the last end, should be described as residing in the will rather than in the free-will.
-## Whether Charity Is Caused In Us By Infusion?
+### Whether Charity Is Caused In Us By Infusion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not caused in us by infusion. For that which is common to all creatures, is in man naturally. Now, according to Dionysius (Div. Nom. iv), the "Divine good", which is the object of charity, "is for all an object of dilection and love." Therefore charity is in us naturally, and not by infusion.
 
@@ -46,7 +46,7 @@ Objection 2: Further, the more lovable a thing is the easier it is to love it. N
 
 Objection 3: Further, the Apostle says (1 Tim. 1:5): "The end of the commandment is charity from a pure heart, and a good conscience, and an unfeigned faith." Now these three have reference to human acts. Therefore charity is caused in us from preceding acts, and not from infusion.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Rom. 5:5): "The charity of God is poured forth in our hearts by the Holy Ghost, Who is given to us."
 
@@ -54,16 +54,16 @@ I answer that, As stated above ([2516]Q[23], A[1]), charity is a friendship of m
 
 Therefore charity can be in us neither naturally, nor through acquisition by the natural powers, but by the infusion of the Holy Ghost, Who is the love of the Father and the Son, and the participation of Whom in us is created charity, as stated above ([2517]Q[23], A[2]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Dionysius is speaking of the love of God, which is founded on the fellowship of natural goods, wherefore it is in all naturally. On the other hand, charity is founded on a supernatural fellowship, so the comparison fails.
 
 Reply to Objection 2: Just as God is supremely knowable in Himself yet not to us, on account of a defect in our knowledge which depends on sensible things, so too, God is supremely lovable in Himself, in as much as He is the object of happiness. But He is not supremely lovable to us in this way, on account of the inclination of our appetite towards visible goods. Hence it is evident that for us to love God above all things in this way, it is necessary that charity be infused into our hearts.
 
 Reply to Objection 3: When it is said that in us charity proceeds from "a pure heart, and a good conscience, and an unfeigned faith," this must be referred to the act of charity which is aroused by these things. Or again, this is said because the aforesaid acts dispose man to receive the infusion of charity. The same remark applies to the saying of Augustine (Tract. ix in prim. canon. Joan.): "Fear leads to charity," and of a gloss on Mat. 1:2: "Faith begets hope, and hope charity."
-## Whether Charity Is Infused According To The Capacity Of Our Natural Gifts?
+### Whether Charity Is Infused According To The Capacity Of Our Natural Gifts?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is infused according to the capacity of our natural gifts. For it is written (Mat. 25:15) that "He gave to every one according to his own virtue [Douay: 'proper ability']." Now, in man, none but natural virtue precedes charity, since there is no virtue without charity, as stated above ([2518]Q[23], A[7]). Therefore God infuses charity into man according to the measure of his natural virtue.
 
@@ -71,22 +71,22 @@ Objection 2: Further, among things ordained towards one another, the second is p
 
 Objection 3: Further, men and angels partake of happiness according to the same measure, since happiness is alike in both, according to Mat. 22:30 and Lk. 20:36. Now charity and other gratuitous gifts are bestowed on the angels, according to their natural capacity, as the Master teaches (Sent. ii, D, 3). Therefore the same apparently applies to man.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 3:8): "The Spirit breatheth where He will," and (1 Cor. 12:11): "All these things one and the same Spirit worketh, dividing to every one according as He will." Therefore charity is given, not according to our natural capacity, but according as the Spirit wills to distribute His gifts.
 
 I answer that, The quantity of a thing depends on the proper cause of that thing, since the more universal cause produces a greater effect. Now, since charity surpasses the proportion of human nature, as stated above [2519](A[2]) it depends, not on any natural virtue, but on the sole grace of the Holy Ghost Who infuses charity. Wherefore the quantity of charity depends neither on the condition of nature nor on the capacity of natural virtue, but only on the will of the Holy Ghost Who "divides" His gifts "according as He will." Hence the Apostle says (Eph. 4:7): "To every one of us is given grace according to the measure of the giving of Christ."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The virtue in accordance with which God gives His gifts to each one, is a disposition or previous preparation or effort of the one who receives grace. But the Holy Ghost forestalls even this disposition or effort, by moving man's mind either more or less, according as He will. Wherefore the Apostle says (Col. 1:12): "Who hath made us worthy to be partakers of the lot of the saints in light."
 
 Reply to Objection 2: The form does not surpass the proportion of the matter. In like manner grace and glory are referred to the same genus, for grace is nothing else than a beginning of glory in us. But charity and nature do not belong to the same genus, so that the comparison fails.
 
 Reply to Objection 3: The angel's is an intellectual nature, and it is consistent with his condition that he should be borne wholly whithersoever he is borne, as stated in the FP, Q[61], A[6]. Hence there was a greater effort in the higher angels, both for good in those who persevered, and for evil in those who fell, and consequently those of the higher angels who remained steadfast became better than the others, and those who fell became worse. But man's is a rational nature, with which it is consistent to be sometimes in potentiality and sometimes in act: so that it is not necessarily borne wholly whithersoever it is borne, and where there are greater natural gifts there may be less effort, and vice versa. Thus the comparison fails.
-## Whether Charity Can Increase?
+### Whether Charity Can Increase?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity cannot increase. For nothing increases save what has quantity. Now quantity is twofold, namely dimensive and virtual. The former does not befit charity which is a spiritual perfection, while virtual quantity regards the objects in respect of which charity does not increase, since the slightest charity loves all that is to be loved out of charity. Therefore charity does not increase.
 
@@ -94,22 +94,22 @@ Objection 2: Further, that which consists in something extreme receives no incre
 
 Objection 3: Further, increase is a kind of movement. Therefore wherever there is increase there is movement, and if there be increase of essence there is movement of essence. Now there is no movement of essence save either by corruption or generation. Therefore charity cannot increase essentially, unless it happen to be generated anew or corrupted, which is unreasonable.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Tract. lxxiv in Joan.) [*Cf. Ep. clxxxv.] that "charity merits increase that by increase it may merit perfection."
 
 I answer that, The charity of a wayfarer can increase. For we are called wayfarers by reason of our being on the way to God, Who is the last end of our happiness. In this way we advance as we get nigh to God, Who is approached, "not by steps of the body but by the affections of the soul" [*St. Augustine, Tract. in Joan. xxxii]: and this approach is the result of charity, since it unites man's mind to God. Consequently it is essential to the charity of a wayfarer that it can increase, for if it could not, all further advance along the way would cease. Hence the Apostle calls charity the way, when he says (1 Cor. 12:31): "I show unto you yet a more excellent way."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Charity is not subject to dimensive, but only to virtual quantity: and the latter depends not only on the number of objects, namely whether they be in greater number or of greater excellence, but also on the intensity of the act, namely whether a thing is loved more, or less; it is in this way that the virtual quantity of charity increases.
 
 Reply to Objection 2: Charity consists in an extreme with regard to its object, in so far as its object is the Supreme Good, and from this it follows that charity is the most excellent of the virtues. Yet not every charity consists in an extreme, as regards the intensity of the act.
 
 Reply to Objection 3: Some have said that charity does not increase in its essence, but only as to its radication in its subject, or according to its fervor.
-## Whether Charity Increases By Addition?
+### Whether Charity Increases By Addition?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity increases by addition. For just as increase may be in respect of bodily quantity, so may it be according to virtual quantity. Now increase in bodily quantity results from addition; for the Philosopher says (De Gener. i, 5) that "increase is addition to pre-existing magnitude." Therefore the increase of charity which is according to virtual quantity is by addition.
 
@@ -117,7 +117,7 @@ Objection 2: Further, charity is a kind of spiritual light in the soul, accordin
 
 Objection 3: Further, the increase of charity is God's work, even as the causing of it, according to 2 Cor. 9:10: "He will increase the growth of the fruits of your justice." Now when God first infuses charity, He puts something in the soul that was not there before. Therefore also, when He increases charity, He puts something there which was not there before. Therefore charity increases by addition.
 
-### Answer
+**Answer**
 
 On the contrary, Charity is a simple form. Now nothing greater results from the addition of one simple thing to another, as proved in Phys. iii, text. 59, and Metaph. ii, 4. Therefore charity does not increase by addition.
 
@@ -129,16 +129,16 @@ It follows therefore that if charity be added to charity, we must presuppose a n
 
 Accordingly charity increases only by its subject partaking of charity more and more subject thereto. For this is the proper mode of increase in a form that is intensified, since the being of such a form consists wholly in its adhering to its subject. Consequently, since the magnitude of a thing follows on its being, to say that a form is greater is the same as to say that it is more in its subject, and not that another form is added to it: for this would be the case if the form, of itself, had any quantity, and not in comparison with its subject. Therefore charity increases by being intensified in its subject, and this is for charity to increase in its essence; and not by charity being added to charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Bodily quantity has something as quantity, and something else, in so far as it is an accidental form. As quantity, it is distinguishable in respect of position or number, and in this way we have the increase of magnitude by addition, as may be seen in animals. But in so far as it is an accidental form, it is distinguishable only in respect of its subject, and in this way it has its proper increase, like other accidental forms, by way of intensity in its subject, for instance in things subject to rarefaction, as is proved in Phys. iv, 9. In like manner science, as a habit, has its quantity from its objects, and accordingly it increases by addition, when a man knows more things; and again, as an accidental form, it has a certain quantity through being in its subject, and in this way it increase in a man who knows the same scientific truths with greater certainty now than before. In the same way charity has a twofold quantity; but with regard to that which it has from its object, it does not increase, as stated above: hence it follows that it increases solely by being intensified.
 
 Reply to Objection 2: The addition of light to light can be understood through the light being intensified in the air on account of there being several luminaries giving light: but this distinction does not apply to the case in point, since there is but one luminary shedding forth the light of charity.
 
 Reply to Objection 3: The infusion of charity denotes a change to the state of "having" charity from the state of "not having it," so that something must needs come which was not there before. On the other hand, the increase of charity denotes a change to "more having" from "less having," so that there is need, not for anything to be there that was not there before, but for something to be more there that previously was less there. This is what God does when He increases charity, that is He makes it to have a greater hold on the soul, and the likeness of the Holy Ghost to be more perfectly participated by the soul.
-## Whether Charity Increases Through Every Act Of Charity?
+### Whether Charity Increases Through Every Act Of Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity increases through every act of charity. For that which can do what is more, can do what is less. But every act of charity can merit everlasting life; and this is more than a simple addition of charity, since it includes the perfection of charity. Much more, therefore, does every act of charity increase charity.
 
@@ -146,22 +146,22 @@ Objection 2: Further, just as the habits of acquired virtue are engendered by ac
 
 Objection 3: Further, Gregory [*St. Bernard, Serm. ii in Festo Purif.] says that "to stand still in the way to God is to go back." Now no man goes back when he is moved by an act of charity. Therefore whoever is moved by an act of charity goes forward in the way to God. Therefore charity increases through every act of charity.
 
-### Answer
+**Answer**
 
 On the contrary, The effect does not surpass the power of its cause. But an act of charity is sometimes done with tepidity or slackness. Therefore it does not conduce to a more excellent charity, rather does it dispose one to a lower degree.
 
 I answer that, The spiritual increase of charity is somewhat like the increase of a body. Now bodily increase in animals and plants is not a continuous movement, so that, to wit, if a thing increase so much in so much time, it need to increase proportionally in each part of that time, as happens in local movement; but for a certain space of time nature works by disposing for the increase, without causing any actual increase, and afterwards brings into effect that to which it had disposed, by giving the animal or plant an actual increase. In like manner charity does not actually increase through every act of charity, but each act of charity disposes to an increase of charity, in so far as one act of charity makes man more ready to act again according to charity, and this readiness increasing, man breaks out into an act of more fervent love, and strives to advance in charity, and then his charity increases actually.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Every act of charity merits everlasting life, which, however, is not to be bestowed then and there, but at its proper time. In like manner every act of charity merits an increase of charity; yet this increase does not take place at once, but when we strive for that increase.
 
 Reply to Objection 2: Even when an acquired virtue is being engendered, each act does not complete the formation of the virtue, but conduces towards that effect by disposing to it, while the last act, which is the most perfect, and acts in virtue of all those that preceded it, reduces the virtue into act, just as when many drops hollow out a stone.
 
 Reply to Objection 3: Man advances in the way to God, not merely by actual increase of charity, but also by being disposed to that increase.
-## Whether Charity Increases Indefinitely?
+### Whether Charity Increases Indefinitely?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity does not increase indefinitely. For every movement is towards some end and term, as stated in Metaph. ii, text. 8,9. But the increase of charity is a movement. Therefore it tends to an end and term. Therefore charity does not increase indefinitely.
 
@@ -169,7 +169,7 @@ Objection 2: Further, no form surpasses the capacity of its subject. But the cap
 
 Objection 3: Further, every finite thing can, by continual increase, attain to the quantity of another finite thing however much greater, unless the amount of its increase be ever less and less. Thus the Philosopher states (Phys. iii, 6) that if we divide a line into an indefinite number of parts, and take these parts away and add them indefinitely to another line, we shall never arrive at any definite quantity resulting from those two lines, viz. the one from which we subtracted and the one to which we added what was subtracted. But this does not occur in the case in point: because there is no need for the second increase of charity to be less than the first, since rather is it probable that it would be equal or greater. As, therefore, the charity of the blessed is something finite, if the charity of the wayfarer can increase indefinitely, it would follow that the charity of the way can equal the charity of heaven; which is absurd. Therefore the wayfarer's charity cannot increase indefinitely.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Phil. 3:12): "Not as though I had already attained, or were already perfect; but I follow after, if I may, by any means apprehend," on which words a gloss says: "Even if he has made great progress, let none of the faithful say: 'Enough.' For whosoever says this, leaves the road before coming to his destination." Therefore the wayfarer's charity can ever increase more and more.
 
@@ -177,16 +177,16 @@ I answer that, A term to the increase of a form may be fixed in three ways: firs
 
 Now, in none of these ways, is a limit imposed to the increase of man's charity, while he is in the state of the wayfarer. For charity itself considered as such has no limit to its increase, since it is a participation of the infinite charity which is the Holy Ghost. In like manner the cause of the increase of charity, viz. God, is possessed of infinite power. Furthermore, on the part of its subject, no limit to this increase can be determined, because whenever charity increases, there is a corresponding increased ability to receive a further increase. It is therefore evident that it is not possible to fix any limits to the increase of charity in this life.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The increase of charity is directed to an end, which is not in this, but in a future life.
 
 Reply to Objection 2: The capacity of the rational creature is increased by charity, because the heart is enlarged thereby, according to 2 Cor. 6:11: "Our heart is enlarged"; so that it still remains capable of receiving a further increase.
 
 Reply to Objection 3: This argument holds good in those things which have the same kind of quantity, but not in those which have different kinds: thus however much a line may increase it does not reach the quantity of a superficies. Now the quantity of a wayfarer's charity which follows the knowledge of faith is not of the same kind as the quantity of the charity of the blessed, which follows open vision. Hence the argument does not prove.
-## Whether Charity Can Be Perfect In This Life?
+### Whether Charity Can Be Perfect In This Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity cannot be perfect in this life. For this would have been the case with the apostles before all others. Yet it was not so, since the Apostle says (Phil. 3:12): "Not as though I had already attained, or were already perfect." Therefore charity cannot be perfect in this life.
 
@@ -194,7 +194,7 @@ Objection 2: Further, Augustine says (Qq. lxxxiii, qu. 36) that "whatever kindle
 
 Objection 3: Further, what is already perfect cannot be perfected any more. But in this life charity can always increase, as stated above [2520](A[7]). Therefore charity cannot be perfect in this life.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (In prim. canon. Joan. Tract. v) "Charity is perfected by being strengthened; and when it has been brought to perfection, it exclaims, 'I desire to be dissolved and to be with Christ.'" Now this is possible in this life, as in the case of Paul. Therefore charity can be perfect in this life.
 
@@ -202,16 +202,16 @@ I answer that, The perfection of charity may be understood in two ways: first wi
 
 On the part of the person who loves, charity is perfect, when he loves as much as he can. This happens in three ways. First, so that a man's whole heart is always actually borne towards God: this is the perfection of the charity of heaven, and is not possible in this life, wherein, by reason of the weakness of human life, it is impossible to think always actually of God, and to be moved by love towards Him. Secondly, so that man makes an earnest endeavor to give his time to God and Divine things, while scorning other things except in so far as the needs of the present life demand. This is the perfection of charity that is possible to a wayfarer; but is not common to all who have charity. Thirdly, so that a man gives his whole heart to God habitually, viz. by neither thinking nor desiring anything contrary to the love of God; and this perfection is common to all who have charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Apostle denies that he has the perfection of heaven, wherefore a gloss on the same passage says that "he was a perfect wayfarer, but had not yet achieved the perfection to which the way leads."
 
 Reply to Objection 2: This is said on account of venial sins, which are contrary, not to the habit, but to the act of charity: hence they are incompatible, not with the perfection of the way, but with that of heaven.
 
 Reply to Objection 3: The perfection of the way is not perfection simply, wherefore it can always increase.
-## Whether Charity Is Rightly Distinguished Into Three Degrees, Beginning, Progress, And Perfection?
+### Whether Charity Is Rightly Distinguished Into Three Degrees, Beginning, Progress, And Perfection?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unfitting to distinguish three degrees of charity, beginning, progress, and perfection. For there are many degrees between the beginning of charity and its ultimate perfection. Therefore it is not right to put only one.
 
@@ -219,7 +219,7 @@ Objection 2: Further, charity begins to progress as soon as it begins to be. The
 
 Objection 3: Further, in this world, however perfect a man's charity may be, it can increase, as stated above [2521](A[7]). Now for charity to increase is to progress. Therefore perfect charity ought not to be distinguished from progressing charity: and so the aforesaid degrees are unsuitably assigned to charity.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (In prim. canon. Joan. Tract. v) "As soon as charity is born it takes food," which refers to beginners, "after taking food, it waxes strong," which refers to those who are progressing, "and when it has become strong it is perfected," which refers to the perfect. Therefore there are three degrees of charity.
 
@@ -229,16 +229,16 @@ In like manner the divers degrees of charity are distinguished according to the 
 
 In like manner we observe in local motion that at first there is withdrawal from one term, then approach to the other term, and thirdly, rest in this term.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All these distinct degrees which can be discerned in the increase of charity, are comprised in the aforesaid three, even as every division of continuous things is included in these three---the beginning, the middle, and the end, as the Philosopher states (De Coelo i, 1).
 
 Reply to Objection 2: Although those who are beginners in charity may progress, yet the chief care that besets them is to resist the sins which disturb them by their onslaught. Afterwards, however, when they come to feel this onslaught less, they begin to tend to perfection with greater security; yet with one hand doing the work, and with the other holding the sword as related in 2 Esdr 4:17 about those who built up Jerusalem.
 
 Reply to Objection 3: Even the perfect make progress in charity: yet this is not their chief care, but their aim is principally directed towards union with God. And though both the beginner and the proficient seek this, yet their solicitude is chiefly about other things, with the beginner, about avoiding sin, with the proficient, about progressing in virtue.
-## Whether Charity Can Decrease?
+### Whether Charity Can Decrease?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity can decrease. For contraries by their nature affect the same subject. Now increase and decrease are contraries. Since then charity increases, as stated above [2522](A[4]), it seems that it can also decrease.
 
@@ -246,7 +246,7 @@ Objection 2: Further, Augustine, speaking to God, says (Confess. x) "He loves Th
 
 Objection 3: Further, as Augustine says (Gen. ad lit. viii, 12) "God makes the just man, by justifying him, but in such a way, that if the man turns away from God, he no longer retains the effect of the Divine operation." From this we may gather that when God preserves charity in man, He works in the same way as when He first infuses charity into him. Now at the first infusion of charity God infuses less charity into him that prepares himself less. Therefore also in preserving charity, He preserves less charity in him that prepares himself less. Therefore charity can decrease.
 
-### Answer
+**Answer**
 
 On the contrary, In Scripture, charity is compared to fire, according to Cant 8:6: "The lamps thereof," i.e. of charity, "are fire and flames." Now fire ever mounts upward so long as it lasts. Therefore as long as charity endures, it can ascend, but cannot descend, i.e. decrease.
 
@@ -262,16 +262,16 @@ In like manner, neither can venial sin diminish charity either effectively or by
 
 The consequence is that charity can by no means be diminished, if we speak of direct causality, yet whatever disposes to its corruption may be said to conduce indirectly to its diminution, and such are venial sins, or even the cessation from the practice of works of charity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Contraries affect the same subject when that subject stands in equal relation to both. But charity does not stand in equal relation to increase and decrease. For it can have a cause of increase, but not of decrease, as stated above. Hence the argument does not prove.
 
 Reply to Objection 2: Cupidity is twofold, one whereby man places his end in creatures, and this kills charity altogether, since it is its poison, as Augustine states (Confess. x). This makes us love God less (i.e. less than we ought to love Him by charity), not indeed by diminishing charity but by destroying it altogether. It is thus that we must understand the saying: "He loves Thee less, who loves aught beside Thee," for he adds these words, "which he loveth not for Thee." This does not apply to venial sin, but only to mortal sin: since that which we love in venial sin, is loved for God's sake habitually though not actually. There is another cupidity, that of venial sin, which is always diminished by charity: and yet this cupidity cannot diminish charity, for the reason given above.
 
 Reply to Objection 3: A movement of the free-will is requisite in the infusion of charity, as stated above ([2526]FS, Q[113], A[3]). Wherefore that which diminishes the intensity of the free-will conduces dispositively to a diminution in the charity to be infused. On the other hand, no movement of the free-will is required for the safe-keeping of charity, else it would not remain inn us while we sleep. Hence charity does not decrease on account of an obstacle on the part of the intensity of the free-will's movement.
-## Whether We Can Lose Charity When Once We Have It?
+### Whether We Can Lose Charity When Once We Have It?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we cannot lose charity when once we have it. For if we lose it, this can only be through sin. Now he who has charity cannot sin, for it is written (1 Jn. 3:9): "Whosoever is born of God, committeth not sin; for His seed abideth in him, and he cannot sin, because he is born of God." But none save the children of God have charity, for it is this which distinguishes "the children of God from the children of perdition," as Augustine says (De Trin. xv, 17). Therefore he that has charity cannot lose it.
 
@@ -281,7 +281,7 @@ Objection 3: Further, Gregory says in a homily for Pentecost (In Evang. xxx) tha
 
 Objection 4: Further, the free-will is not inclined to sin unless by some motive for sinning. Now charity excludes all motives for sinning, both self-love and cupidity, and all such things. Therefore charity cannot be lost.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Apoc. 2:4): "I have somewhat against thee, because thou hast left thy first charity."
 
@@ -293,7 +293,7 @@ Thirdly, charity can be considered on the part of its subject, which is changeab
 
 It is proper to a habit to incline a power to act, and this belongs to a habit, in so far as it makes whatever is suitable to it, to seem good, and whatever is unsuitable, to seem evil. For as the taste judges of savors according to its disposition, even so does the human mind judge of things to be done, according to its habitual disposition. Hence the Philosopher says (Ethic. iii, 5) that "such as a man is, so does the end appear to him." Accordingly charity is inseparable from its possessor, where that which pertains to charity cannot appear otherwise than good, and that is in heaven, where God is seen in His Essence, which is the very essence of goodness. Therefore the charity of heaven cannot be lost, whereas the charity of the way can, because in this state God is not seen in His Essence, which is the essence of goodness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The passage quoted speaks from the point of view of the power of the Holy Ghost, by Whose safeguarding, those whom He wills to move are rendered immune from sin, as much as He wills.
 
@@ -302,9 +302,9 @@ Reply to Objection 2: The charity which can fail by reason of itself is no true 
 Reply to Objection 3: The love of God ever works great things in its purpose, which is essential to charity; but it does not always work great things in its act, on account of the condition of its subject.
 
 Reply to Objection 4: Charity by reason of its act excludes every motive for sinning. But it happens sometimes that charity is not acting actually, and then it is possible for a motive to intervene for sinning, and if we consent to this motive, we lose charity.
-## Whether Charity Is Lost Through One Mortal Sin?
+### Whether Charity Is Lost Through One Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity is not lost through one mortal sin. For Origen says (Peri Archon i): "When a man who has mounted to the stage of perfection, is satiated, I do not think that he will become empty or fall away suddenly; but he must needs do so gradually and by little and little." But man falls away by losing charity. Therefore charity is not lost through only one mortal sin.
 
@@ -316,7 +316,7 @@ Objection 4: Further, charity denotes love of God and our neighbor. Now, seeming
 
 Objection 5: Further, the object of a theological virtue is the last end. Now the other theological virtues, namely faith and hope, are not done away by one mortal sin, in fact they remain though lifeless. Therefore charity can remain without a form, even when a mortal sin has been committed.
 
-### Answer
+**Answer**
 
 On the contrary, By mortal sin man becomes deserving of eternal death, according to Rom. 6:23: "The wages of sin is death." On the other hand whoever has charity is deserving of eternal life, for it is written (Jn. 14:21): "He that loveth Me, shall be loved by My Father: and I will love Him, and will manifest Myself to him," in which manifestation everlasting life consists, according to Jn. 17:3: "This is eternal life; that they may know Thee the . . . true God, and Jesus Christ Whom Thou hast sent." Now no man can be worthy, at the same time, of eternal life and of eternal death. Therefore it is impossible for a man to have charity with a mortal sin. Therefore charity is destroyed by one mortal sin.
 
@@ -326,7 +326,7 @@ If indeed charity were an acquired habit dependent on the power of its subject, 
 
 Now it is evident that through every mortal sin which is contrary to God's commandments, an obstacle is placed to the outpouring of charity, since from the very fact that a man chooses to prefer sin to God's friendship, which requires that we should obey His will, it follows that the habit of charity is lost at once through one mortal sin. Hence Augustine says (Gen. ad lit. viii, 12) that "man is enlightened by God's presence, but he is darkened at once by God's absence, because distance from Him is effected not by change of place but by aversion of the will."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This saying of Origen may be understood, in one way, that a man who is in the state of perfection, does not suddenly go so far as to commit a mortal sin, but is disposed thereto by some previous negligence, for which reason venial sins are said to be dispositions to mortal sin, as stated above ([2528]FS, Q[88], A[3]). Nevertheless he falls, and loses charity through the one mortal sin if he commits it.
 

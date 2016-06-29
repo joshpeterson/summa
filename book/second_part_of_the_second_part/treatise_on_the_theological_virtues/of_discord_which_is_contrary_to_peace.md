@@ -3,9 +3,9 @@
 We must now consider the sins contrary to peace, and first we shall consider discord which is in the heart, secondly contention, which is on the lips, thirdly, those things which consist in deeds, viz. schism, quarrelling, war, and sedition. Under the first head there are two points of inquiry:
 (1) Whether discord is a sin?
 (2) Whether it is a daughter of vainglory?
-## Whether Discord Is A Sin?
+### Whether Discord Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that discord is not a sin. For to disaccord with man is to sever oneself from another's will. But this does not seem to be a sin, because God's will alone, and not our neighbor's, is the rule of our own will. Therefore discord is not a sin.
 
@@ -13,7 +13,7 @@ Objection 2: Further, whoever induces another to sin, sins also himself. But it 
 
 Objection 3: Further, sin, especially mortal sin, is not to be found in a holy man. But discord is to be found even among holy men, for it is written (Acts 15:39): "There arose a dissension" between Paul and Barnabas, "so that they departed one from another." Therefore discord is not a sin. and least of all a mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, "Dissensions," that is, discords, are reckoned among the works of the flesh (Gal. 5:20), of which it is said afterwards (Gal. 5:21) that "they who do such things shall not obtain the kingdom of God." Now nothing, save mortal sin, excludes man from the kingdom of God. Therefore discord is a mortal sin.
 
@@ -23,16 +23,16 @@ But it must be observed that this concord is destroyed by discord in two ways: f
 
 The accidental in human acts is that which occurs beside the intention. Hence when several intend a good pertaining to God's honor, or our neighbor's profit, while one deems a certain thing good, and another thinks contrariwise, the discord is in this case accidentally contrary to the Divine good or that of our neighbor. Such like discord is neither sinful nor against charity, unless it be accompanied by an error about things necessary to salvation, or by undue obstinacy, since it has also been stated above ([2651]Q[29], AA[1],3, ad 2) that the concord which is an effect of charity, is union of wills not of opinions. It follows from this that discord is sometimes the sin of one party only, for instance, when one wills a good which the other knowingly resists; while sometimes it implies sin in both parties, as when each dissents from the other's good, and loves his own.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: One man's will considered in itself is not the rule of another man's will; but in so far as our neighbor's will adheres to God's will, it becomes in consequence, a rule regulated according to its proper measure. Wherefore it is a sin to disaccord with such a will, because by that very fact one disaccords with the Divine rule.
 
 Reply to Objection 2: Just as a man's will that adheres to God is a right rule, to disaccord with which is a sin, so too a man's will that is opposed to God is a perverse rule, to disaccord with which is good. Hence to cause a discord, whereby a good concord resulting from charity is destroyed, is a grave sin: wherefore it is written (Prov. 6:16): "Six things there are, which the Lord hateth, and the seventh His soul detesteth," which seventh is stated (Prov. 6:19) to be "him that soweth discord among brethren." On the other hand, to arouse a discord whereby an evil concord (i.e. concord in an evil will) is destroyed, is praiseworthy. In this way Paul was to be commended for sowing discord among those who concorded together in evil, because Our Lord also said of Himself (Mat. 10:34): "I came not to send peace, but the sword."
 
 Reply to Objection 3: The discord between Paul and Barnabas was accidental and not direct: because each intended some good, yet the one thought one thing good, while the other thought something else, which was owing to human deficiency: for that controversy was not about things necessary to salvation. Moreover all this was ordained by Divine providence, on account of the good which would ensue.
-## Whether Discord Is A Daughter Of Vainglory?
+### Whether Discord Is A Daughter Of Vainglory?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that discord is not a daughter of vainglory. For anger is a vice distinct from vainglory. Now discord is apparently the daughter of anger, according to Prov. 15:18: "A passionate man stirreth up strifes." Therefore it is not a daughter of vainglory.
 
@@ -40,13 +40,13 @@ Objection 2: Further, Augustine expounding the words of Jn. 7:39, "As yet the Sp
 
 Objection 3: Further, whatever gives rise to many evils, would seem to be a capital vice. Now such is discord, because Jerome in commenting on Mat. 12:25, "Every kingdom divided against itself shall be made desolate," says: "Just as concord makes small things thrive, so discord brings the greatest things to ruin." Therefore discord should itself be reckoned a capital vice, rather than a daughter of vainglory.
 
-### Answer
+**Answer**
 
 
 
 I answer that, Discord denotes a certain disunion of wills, in so far, to wit, as one man's will holds fast to one thing, while the other man's will holds fast to something else. Now if a man's will holds fast to its own ground, this is due to the act that he prefers what is his own to that which belongs to others, and if he do this inordinately, it is due to pride and vainglory. Therefore discord, whereby a man holds to his own way of thinking, and departs from that of others, is reckoned to be a daughter of vainglory.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Strife is not the same as discord, for strife consists in external deeds, wherefore it is becoming that it should arise from anger, which incites the mind to hurt one's neighbor; whereas discord consists in a divergence in the movements of wills, which arises from pride or vainglory, for the reason given above.
 

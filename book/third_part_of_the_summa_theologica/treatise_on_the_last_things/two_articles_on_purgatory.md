@@ -1,9 +1,9 @@
 # Two Articles On Purgatory
 
 : "Blessed are the dead who die in the Lord. From henceforth now, saith the Spirit, that they may rest from their labors." Therefore after this life no cleansing labor awaits those who die in the Lord, nor those who do not die in the Lord, since they cannot be cleansed. Therefore there is no Purgatory after this life.  Objection 2: Further, as charity is to an eternal reward, so is mortal sin to eternal punishment. Now those who die in mortal sin are forthwith consigned to eternal punishment. Therefore those who die in charity go at once to their reward; and consequently no Purgatory awaits them after this life.  Objection 3: Further, God Who is supremely merciful is more inclined to reward good than to punish evil. Now just as those who are in the state of charity, do certain evil things which are not deserving of eternal punishment, so those who are in mortal sin, at times perform actions, generically good, which are not deserving of an eternal reward. Therefore since these good actions are not rewarded after this life in those who will be damned, neither should those evil actions be punished after this life. Hence the same conclusion follows.  On the contrary, It is said (2 Macc. 12:46): "It is a holy and wholesome thought to pray for the dead, that they may be loosed from sins." Now there is no need to pray for the dead who are in heaven, for they are in no need; nor again for those who are in hell, because they cannot be loosed from sins. Therefore after this life, there are some not yet loosed from sins, who can be loosed therefrom; and the like have charity, without which sins cannot be loosed, for "charity covereth all sins" [*Prov. 10:12]. Hence they will not be consigned to everlasting death, since "he that liveth and believeth in Me, shall not die for ever" [*Jn. 11:26]: nor will they obtain glory without being cleansed, because nothing unclean shall obtain it, as stated in the last chapter of the Apocalypse (verse 14). Therefore some kind of cleansing remains after this life.  Further, Gregory of Nyssa [*De iis qui in fide dormiunt] says: "If one who loves and believes in Christ," has failed to wash away his sins in this life, "he is set free after death by the fire of Purgatory." Therefore there remains some kind of cleansing after this life.  I answer that, From the conclusions we have drawn above ([5193]TP, Q[86], AA[4],5; [5194]XP, Q[12], A[1]) it is sufficiently clear that there is a Purgatory after this life. For if the debt of punishment is not paid in full after the stain of sin has been washed away by contrition, nor again are venial sins always removed when mortal sins are remitted, and if justice demands that sin be set in order by due punishment, it follows that one who after contrition for his fault and after being absolved, dies before making due satisfaction, is punished after this life. Wherefore those who deny Purgatory speak against the justice of God: for which reason such a statement is erroneous and contrary to faith. Hence Gregory of Nyssa, after the words quoted above, adds: "This we preach, holding to the teaching of truth, and this is our belief; this the universal Church holds, by praying for the dead that they may be loosed from sins." This cannot be understood except as referring to Purgatory: and whosoever resists the authority of the Church, incurs the note of heresy.  Reply to Objection 1: The authority quoted is speaking of the labor of working for merit, and not of the labor of suffering to be cleansed.  Reply to Objection 2: Evil has not a perfect cause, but results from each single defect: whereas good arises from one perfect cause, as Dionysius asserts [*Div. Nom. iv, 4]. Hence each defect is an obstacle to the perfection of good; while not every good hinders some consummation of evil, since there is never evil without some good. Consequently venial sin prevents one who has charity from obtaining the perfect good, namely eternal life, until he be cleansed; whereas mortal sin cannot be hindered by some conjoined good from bringing a man forthwith to the extreme of evils.  Reply to Objection 3: He that falls into mortal sin, deadens all the good he has done before, and what he does, while in mortal sin, is dead: since by offending God he deserves to lose all the good he has from God. Wherefore no reward after this life awaits him who dies in mortal sin, whereas sometimes punishment awaits him who dies in charity, which does not always wash away the sin which it finds, but only that which is contrary to it.
-## Whether There Is A Purgatory After This Life?
+### Whether There Is A Purgatory After This Life?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is not a Purgatory after this life. For it is said (Apoc. 14:13): "Blessed are the dead who die in the Lord. From henceforth now, saith the Spirit, that they may rest from their labors." Therefore after this life no cleansing labor awaits those who die in the Lord, nor those who do not die in the Lord, since they cannot be cleansed. Therefore there is no Purgatory after this life.
 
@@ -11,22 +11,22 @@ Objection 2: Further, as charity is to an eternal reward, so is mortal sin to et
 
 Objection 3: Further, God Who is supremely merciful is more inclined to reward good than to punish evil. Now just as those who are in the state of charity, do certain evil things which are not deserving of eternal punishment, so those who are in mortal sin, at times perform actions, generically good, which are not deserving of an eternal reward. Therefore since these good actions are not rewarded after this life in those who will be damned, neither should those evil actions be punished after this life. Hence the same conclusion follows.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (2 Macc. 12:46): "It is a holy and wholesome thought to pray for the dead, that they may be loosed from sins." Now there is no need to pray for the dead who are in heaven, for they are in no need; nor again for those who are in hell, because they cannot be loosed from sins. Therefore after this life, there are some not yet loosed from sins, who can be loosed therefrom; and the like have charity, without which sins cannot be loosed, for "charity covereth all sins" [*Prov. 10:12]. Hence they will not be consigned to everlasting death, since "he that liveth and believeth in Me, shall not die for ever" [*Jn. 11:26]: nor will they obtain glory without being cleansed, because nothing unclean shall obtain it, as stated in the last chapter of the Apocalypse (verse 14). Therefore some kind of cleansing remains after this life.
 
 I answer that, From the conclusions we have drawn above ([5193]TP, Q[86], AA[4],5; [5194]XP, Q[12], A[1]) it is sufficiently clear that there is a Purgatory after this life. For if the debt of punishment is not paid in full after the stain of sin has been washed away by contrition, nor again are venial sins always removed when mortal sins are remitted, and if justice demands that sin be set in order by due punishment, it follows that one who after contrition for his fault and after being absolved, dies before making due satisfaction, is punished after this life. Wherefore those who deny Purgatory speak against the justice of God: for which reason such a statement is erroneous and contrary to faith. Hence Gregory of Nyssa, after the words quoted above, adds: "This we preach, holding to the teaching of truth, and this is our belief; this the universal Church holds, by praying for the dead that they may be loosed from sins." This cannot be understood except as referring to Purgatory: and whosoever resists the authority of the Church, incurs the note of heresy.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The authority quoted is speaking of the labor of working for merit, and not of the labor of suffering to be cleansed.
 
 Reply to Objection 2: Evil has not a perfect cause, but results from each single defect: whereas good arises from one perfect cause, as Dionysius asserts [*Div. Nom. iv, 4]. Hence each defect is an obstacle to the perfection of good; while not every good hinders some consummation of evil, since there is never evil without some good. Consequently venial sin prevents one who has charity from obtaining the perfect good, namely eternal life, until he be cleansed; whereas mortal sin cannot be hindered by some conjoined good from bringing a man forthwith to the extreme of evils.
 
 Reply to Objection 3: He that falls into mortal sin, deadens all the good he has done before, and what he does, while in mortal sin, is dead: since by offending God he deserves to lose all the good he has from God. Wherefore no reward after this life awaits him who dies in mortal sin, whereas sometimes punishment awaits him who dies in charity, which does not always wash away the sin which it finds, but only that which is contrary to it.
-## Whether It Is The Same Place Where Souls Are Cleansed, And The Damned Punished?
+### Whether It Is The Same Place Where Souls Are Cleansed, And The Damned Punished?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not the same place where souls are cleansed and the damned punished. For the punishment of the damned is eternal, according to Mat. 25:46, "These shall go into everlasting punishment [Vulg.: 'fire']." But the fire of Purgatory is temporary, as the Master says (Sent. iv, D, 21). Therefore the former and the latter are not punished together in the same place: and consequently these places must needs be distinct.
 
@@ -34,7 +34,7 @@ Objection 2: The punishment of hell is called by various names, as in Ps. 10:7, 
 
 Objection 3: Further, Hugh of St. Victor says (De Sacram. ii, 16): "It is probable that they are punished in the very places where they sinned." And Gregory relates (Dial. iv, 40) that Germanus, Bishop of Capua, found Paschasius being cleansed in the baths. Therefore they are not cleansed in the same place as hell, but in this world.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says [*The quotation is from St. Augustine (De Civ. Dei i, 8)]: "Even as in the same fire gold glistens and straw smokes, so in the same fire the sinner burns and the elect is cleansed." Therefore the fire of Purgatory is the same as the fire of hell: and hence they are in the same place.
 
@@ -42,7 +42,7 @@ I answer that, Nothing is clearly stated in Scripture about the situation of Pur
 
 Some say, however, that according to the common law the place of Purgatory is where man sins. This does not seem probable, since a man may be punished at the same time for sins committed in various places. And others say that according to the common law they are punished above us, because they are between us and God, as regards their state. But this is of no account, for they are not punished for being above us, but for that which is lowest in them, namely sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The fire of Purgatory is eternal in its substance, but temporary in its cleansing effect.
 

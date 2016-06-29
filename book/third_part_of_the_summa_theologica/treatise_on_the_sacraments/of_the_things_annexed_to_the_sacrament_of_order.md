@@ -8,9 +8,9 @@ We must now consider the things that are annexed to the sacrament of Order. Unde
 (5) Whether the episcopate is an Order?
 (6) Whether in the Church there can be any power above the episcopate?
 (7) Whether the vestments of the ministers are fittingly instituted by the Church?
-## Whether Those Who Are Ordained Ought To Wear The Tonsure?
+### Whether Those Who Are Ordained Ought To Wear The Tonsure?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that those who are ordained ought not to wear the tonsure in the shape of a crown. For the Lord threatened captivity and dispersion to those who were shaven in this way: "Of the captivity of the bare head of the enemies" (Dt. 32:42), and: "I will scatter into every wind them that have their hair cut round" (Jer. 49:32). Now the ministers of Christ should not be captives, but free. Therefore shaving and tonsure in the shape of a crown does not become them.
 
@@ -18,22 +18,22 @@ Objection 2: Further, the truth should correspond to the figure. Now the crown w
 
 Objection 3: Further, the hair signifies superabundance, because it grows from that which is superabundant. But the ministers of the Church should cast off all superabundance. Therefore they should shave the head completely and not in the shape of a crown.
 
-### Answer
+**Answer**
 
 On the contrary, According to Gregory, "to serve God is to reign" (Super Ps. 101:23). Now a crown is the sign of royalty. Therefore a crown is becoming to those who are devoted to the Divine ministry.
 
 I answer that, It is becoming for those who apply themselves to the Divine ministry to be shaven or tonsured in the form of a crown by reason of the shape. Because a crown is the sign of royalty; and of perfection, since it is circular; and those who are appointed to the Divine service acquire a royal dignity and ought to be perfect in virtue. It is also becoming to them as it involves the hair being taken both from the higher part of the head by shaving, lest their mind be hindered by temporal occupations from contemplating Divine things, and from the lower part by clipping, lest their senses be entangled in temporal things.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Lord threatens those who did this for the worship of demons.
 
 Reply to Objection 2: The things that were done in the Old Testament represent imperfectly the things of the New Testament. Hence things pertaining to the ministers of the New Testament were signified not only by the offices of the Levites, but also by all those persons who professed some degree of perfection. Now the Nazarenes professed a certain perfection by having their hair cut off, thus signifying their contempt of temporal things, although they did not have it cut in the shape of a crown, but cut it off completely, for as yet it was not the time of the royal and perfect priesthood. In like manner lay brothers have their hair cut because they renounce temporalities. but they do not shave the head, because they are not occupied in the Divine ministry, so as to have to contemplate Divine things with the mind.
 
 Reply to Objection 3: Not only the renunciation of temporalities, but also the royal dignity has to be signified by the form of a crown; wherefore the hair should not be cut off entirely. Another reason is that this would be unbecoming.
-## Whether The Tonsure Is An Order?
+### Whether The Tonsure Is An Order?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the tonsure is an Order. For in the acts of the Church the spiritual corresponds to the corporal. Now the tonsure is a corporal sign employed by the Church. Therefore seemingly there is some interior signification corresponding thereto; so that a person receives a character when he receives the tonsure, and consequently the latter is an Order.
 
@@ -41,22 +41,22 @@ Objection 2: Further, just as Confirmation and the other Orders are given by a b
 
 Objection 3: Further, Order denotes a degree of dignity. Now a cleric by the very fact of being a cleric is placed on a degree above the people. Therefore the tonsure by which he is made a cleric is an Order.
 
-### Answer
+**Answer**
 
 On the contrary, No Order is given except during the celebration of Mass. But the tonsure is given even outside the office of the Mass. Therefore it is not an Order.
 
 I answer that, The ministers of the Church are severed from the people in order that they may give themselves entirely to the Divine worship. Now in the Divine worship are certain actions that have to be exercised by virtue of certain definite powers, and for this purpose the spiritual power of order is given; while other actions are performed by the whole body of ministers in common, for instance the recital of the Divine praises. For such things it is not necessary to have the power of Order, but only to be deputed to such an office; and this is done by the tonsure. Consequently it is not an Order but a preamble to Orders.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The tonsure has some spiritual thing inwardly corresponding to it, as signate corresponds to sign; but this is not a spiritual power. Wherefore a character is not imprinted in the tonsure as in an Order.
 
 Reply to Objection 2: Although a man does not receive a character in the tonsure, nevertheless he is appointed to the Divine worship. Hence this appointment should be made by the supreme minister, namely the bishop, who moreover blesses the vestments and vessels and whatsoever else is employed in the Divine worship.
 
 Reply to Objection 3: A man through being a cleric is in a higher state than a layman; but as regards power he has not the higher degree that is required for Orders.
-## Whether By Receiving The Tonsure A Man Renounces Temporal Goods?
+### Whether By Receiving The Tonsure A Man Renounces Temporal Goods?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that men renounce temporal goods by receiving the tonsure, for when they are tonsured they say: "The Lord is the portion of my inheritance." But as Jerome says (Ep. ad Nepot.), "the Lord disdains to be made a portion together with these temporal things." Therefore he renounces temporalities.
 
@@ -64,20 +64,20 @@ Objection 2: Further, the justice of the ministers of the New Testament ought to
 
 Objection 3: Further, Hugh says (De Sacram. ii) that "after a man is made a cleric, he must from thenceforward live on the pay of the Church." But this would not be so were he to retain his patrimony. Therefore he would seem to renounce it by becoming a cleric.
 
-### Answer
+**Answer**
 
 On the contrary, Jeremias was of the priestly order (Jer. 1:1). Yet he retained possession of his inheritance (Jer. 32:8). Therefore clerics can retain their patrimony.
 
 I answer that, Clerics by receiving the tonsure, do not renounce their patrimony or other temporalities; since the possession of earthly things is not contrary to the Divine worship to which clerics are appointed, although excessive care for such things is; for as Gregory says (Moral. x, 30), "it is not wealth but the love of wealth that is sinful."
 
-### Replies
+**Replies**
 
 Reply to Objection 2: In the Old Testament the Levites had a right to their paternal inheritance; and the reason why they did not receive a portion with the other tribes was because they were scattered throughout all the tribes, which would have been impossible if, like the other tribes, they had received one fixed portion of the soil.
 
 Reply to Objection 3: Clerics promoted to holy orders, if they be poor, must be provided for by the bishop who ordained them; otherwise he is not so bound. And they are bound to minister to the Church in the Order they have received. The words of Hugh refer to those who have no means of livelihood.
-## Whether Above The Priestly Order There Ought To Be An Episcopal Power?
+### Whether Above The Priestly Order There Ought To Be An Episcopal Power?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there ought not to be an episcopal power above the priestly Order. For as stated in the text (Sent. iv, D, 24) "the priestly Order originated from Aaron." Now in the Old Law there was no one above Aaron. Therefore neither in the New Law ought there to be any power above that of the priests.
 
@@ -85,22 +85,22 @@ Objection 2: Further, powers rank according to acts. Now no sacred act can be gr
 
 Objection 3: Further, the priest, in offering, represents Christ in the Church, Who offered Himself for us to the Father. Now no one is above Christ in the Church, since He is the Head of the Church. Therefore there should not be an episcopal above the priestly power.
 
-### Answer
+**Answer**
 
 On the contrary, A power is so much the higher according as it extends to more things. Now the priestly power, according to Dionysius (Eccl. Hier. v), extends only to cleansing and enlightening, whereas the episcopal power extends both to this and to perfecting. Therefore the episcopal should be above the priestly power.
 
 I answer that, A priest has two acts: one is the principal, namely to consecrate the body of Christ. the other is secondary, namely to prepare God's people for the reception of this sacrament, as stated above ([4916]Q[37], AA[2],4). As regards the first act, the priest's power does not depend on a higher power save God's; but as to the second, it depends on a higher and that a human power. For every power that cannot exercise its act without certain ordinances, depends on the power that makes those ordinances. Now a priest cannot loose and bind, except we presuppose him to have the jurisdiction of authority, whereby those whom he absolves are subject to him. But he can consecrate any matter determined by Christ, nor is anything else required for the validity of the sacrament; although, on account of a certain congruousness, the act of the bishop is pre-required in the consecration of the altar, vestments, and so forth. Hence it is clear that it behooves the episcopal to be above the priestly power, as regards the priest's secondary act, but not as regards his primary act.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Aaron was both priest and pontiff, that is chief priest. Accordingly the priestly power originated from him, in so far as he was a priest offering sacrifices, which was lawful even to the lesser priests; but it does not originate from him as pontiff, by which power he was able to do certain things; for instance, to enter once a year the Holy of Holies, which it was unlawful for the other priests to do.
 
 Reply to Objection 2: There is no higher power with regard to this act, but with regard to another, as stated above.
 
 Reply to Objection 3: Just as the perfections of all natural things pre-exist in God as their exemplar, so was Christ the exemplar of all ecclesiastical offices. Wherefore each minister of the Church is, in some respect, a copy of Christ, as stated in the text (Sent. iv, D, 24). Yet he is the higher who represents Christ according to a greater perfection. Now a priest represents Christ in that He fulfilled a certain ministry by Himself, whereas a bishop represents Him in that He instituted other ministers and founded the Church. Hence it belongs to a bishop to dedicate a thing to the Divine offices, as establishing the Divine worship after the manner of Christ. For this reason also a bishop is especially called the bridegroom of the Church even as Christ is.
-## Whether The Episcopate Is An Order?
+### Whether The Episcopate Is An Order?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the episcopate is an Order. First of all, because Dionysius (Eccl. Hier. v) assigns these three orders to the ecclesiastical hierarchy, the bishop, the priest, and the minister. In the text also (Sent. iv, D, 24) it is stated that the episcopal Order is fourfold.
 
@@ -108,7 +108,7 @@ Objection 2: Further, Order is nothing else but a degree of power in the dispens
 
 Objection 3: Further, in the Church there is no spiritual power other than of Order or jurisdiction. But things pertaining to the episcopal power are not matters of jurisdiction, else they might be committed to one who is not a bishop, which is false. Therefore they belong to the power of Order. Therefore the bishop has an Order which a simple priest has not; and thus the episcopate is an Order.
 
-### Answer
+**Answer**
 
 On the contrary, One Order does not depend on a preceding order as regards the validity of the sacrament. But the episcopal power depends on the priestly power, since no one can receive the episcopal power unless he have previously the priestly power. Therefore the episcopate is not an Order.
 
@@ -116,14 +116,14 @@ I answer that, Order may be understood in two ways. In one way as a sacrament, a
 
 Hence the Reply to the First Objection is clear.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Order considered as a sacrament which imprints a character is specially directed to the sacrament of the Eucharist, in which Christ Himself is contained, because by a character we are made like to Christ Himself [*Cf. [4918]TP, Q[63], A[3]]. Hence although at his promotion a bishop receives a spiritual power in respect of certain sacraments, this power nevertheless has not the nature of a character. For this reason the episcopate is not an Order, in the sense in which an Order is a sacrament.
 
 Reply to Objection 3: The episcopal power is one not only of jurisdiction but also of Order, as stated above, taking Order in the sense in which it is generally understood.
-## Whether In The Church There Can Be Anyone Above The Bishops?
+### Whether In The Church There Can Be Anyone Above The Bishops?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there cannot be anyone in the Church higher than the bishops. For all the bishops are the successors of the apostles. Now the power so given to one of the apostles, namely Peter (Mat. 16:19), was given to all the apostles (Jn. 20:23). Therefore all bishops are equal, and one is not above another.
 
@@ -131,22 +131,22 @@ Objection 2: Further, the rite of the Church ought to be more conformed to the J
 
 Objection 3: Further, a higher power cannot be conferred by a lower, nor equal by equal, because "without all contradiction that which is less is blessed by the greater [Vulg.: 'better']"; hence a priest does not consecrate a bishop or a priest, but a bishop consecrates a priest. But a bishop can consecrate any bishop, since even the bishop of Ostia consecrates the Pope. Therefore the episcopal dignity is equal in all matters, and consequently one bishop should not be subject to another, as stated in the text (Sent. iv, D, 24).
 
-### Answer
+**Answer**
 
 On the contrary, We read in the council of Constantinople: "In accordance with the Scriptures and the statutes and definitions of the canons, we venerate the most holy bishop of ancient Rome the first and greatest of bishops, and after him the bishop of Constantinople." Therefore one bishop is above another.
 
 I answer that, Wherever there are several authorities directed to one purpose, there must needs be one universal authority over the particular authorities, because in all virtues and acts the order is according to the order of their ends (Ethic. i, 1,2). Now the common good is more Godlike than the particular good. Wherefore above the governing power which aims at a particular good there must be a universal governing power in respect of the common good, otherwise there would be no cohesion towards the one object. Hence since the whole Church is one body, it behooves, if this oneness is to be preserved, that there be a governing power in respect of the whole Church, above the episcopal power whereby each particular Church is governed, and this is the power of the Pope. Consequently those who deny this power are called schismatics as causing a division in the unity of the Church. Again, between a simple bishop and the Pope there are other degrees of rank corresponding to the degrees of union, in respect of which one congregation or community includes another; thus the community of a province includes the community of a city, and the community of a kingdom includes the community of one province, and the community of the whole world includes the community of one kingdom.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the power of binding and loosing was given to all the apostles in common, nevertheless in order to indicate some order in this power, it was given first of all to Peter alone, to show that this power must come down from him to the others. For this reason He said to him in the singular: "Confirm thy brethren" (Lk. 22:32), and: "Feed My sheep" (Jn. 21:17), i.e. according to Chrysostom: "Be thou the president and head of thy brethren in My stead, that they, putting thee in My place, may preach and confirm thee throughout the world whilst thou sittest on thy throne."
 
 Reply to Objection 2: The Jewish rite was not spread abroad in various kingdoms and provinces, but was confined to one nation; hence there was no need to distinguish various pontiffs under the one who had the chief power. But the rite of the Church, like that of the Gentiles, is spread abroad through various nations; and consequently in this respect it is necessary for the constitution of the Church to be like the rite of the Gentiles rather than that of the Jews.
 
 Reply to Objection 3: The priestly power is surpassed by the episcopal power, as by a power of a different kind; but the episcopal is surpassed by the papal power as by a power of the same kind. Hence a bishop can perform every hierarchical act that the Pope can; whereas a priest cannot perform every act that a bishop can in conferring the sacraments. Wherefore as regards matters pertaining to the episcopal Order, all bishops are equal, and for this reason any bishop can consecrate another bishop.
-## Whether The Vestments Of The Ministers Are Fittingly Instituted In The Church?
+### Whether The Vestments Of The Ministers Are Fittingly Instituted In The Church?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the vestments of the ministers are not fittingly instituted in the Church. For the ministers of the New Testament are more bound to chastity than were the ministers of the Old Testament. Now among the vestments of the Old Testament there were the breeches as a sign of chastity. Much more therefore should they have a place among the vestments of the Church's ministers.
 
@@ -164,7 +164,7 @@ Objection 7: Further, the things which the ministers of the Church wear outwardl
 
 Objection 8: Further, the fulness of power resides in the Roman Pontiff. But he has not a crozier. Therefore other bishops should not have one.
 
-### Answer
+**Answer**
 
 
 
@@ -182,7 +182,7 @@ The wayward, the weak, and the laggard."
 
 The "ring" signifies the sacraments of that faith whereby the Church is espoused to Christ. For bishops are espoused to the Church in the place of Christ. Furthermore archbishops have the "pallium" in sign of their privileged power, for it signifies the golden chain which those who fought rightfully were wont to receive.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The priests of the Old Law were enjoined continency only for the time of their attendance for the purpose of their ministry. Wherefore as a sign of the chastity which they had then to observe, they wore the breeches while offering sacrifices. But the ministers of the New Testament are enjoined perpetual continency; and so the comparison fails.
 

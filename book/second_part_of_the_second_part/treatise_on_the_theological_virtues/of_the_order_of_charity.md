@@ -14,9 +14,9 @@ We must now consider the order of charity, under which head there are thirteen p
 (11) Whether he ought to love his wife more than his father or mother?
 (12) Whether we ought to love those who are kind to us more than those whom we are kind to?
 (13) Whether the order of charity endures in heaven?
-## Whether There Is Order In Charity?
+### Whether There Is Order In Charity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is no order in charity. For charity is a virtue. But no order is assigned to the other virtues. Neither, therefore, should any order be assigned to charity.
 
@@ -24,22 +24,22 @@ Objection 2: Further, just as the object of faith is the First Truth, so is the 
 
 Objection 3: Further, charity is in the will: whereas ordering belongs, not to the will, but to the reason. Therefore no order should be ascribed to charity.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Cant 2:4): "He brought me into the cellar of wine, he set in order charity in me."
 
 I answer that, As the Philosopher says (Metaph. v, text. 16), the terms "before" and "after" are used in reference to some principle. Now order implies that certain things are, in some way, before or after. Hence wherever there is a principle, there must needs be also order of some kind. But it has been said above ([2549]Q[23], A[1];[2550] Q[25], A[12]) that the love of charity tends to God as to the principle of happiness, on the fellowship of which the friendship of charity is based. Consequently there must needs be some order in things loved out of charity, which order is in reference to the first principle of that love, which is God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Charity tends towards the last end considered as last end: and this does not apply to any other virtue, as stated above ([2551]Q[23], A[6] ). Now the end has the character of principle in matters of appetite and action, as was shown above ([2552]Q[23], A[7], ad 2; FS, A[1], ad 1). Wherefore charity, above all, implies relation to the First Principle, and consequently, in charity above all, we find an order in reference to the First Principle.
 
 Reply to Objection 2: Faith pertains to the cognitive power, whose operation depends on the thing known being in the knower. On the other hand, charity is in an appetitive power, whose operation consists in the soul tending to things themselves. Now order is to be found in things themselves, and flows from them into our knowledge. Hence order is more appropriate to charity than to faith.
 
 Reply to Objection 3: Order belongs to reason as the faculty that orders, and to the appetitive power as to the faculty which is ordered. It is in this way that order is stated to be in charity.
-## Whether God Ought To Be Loved More Than Our Neighbor?
+### Whether God Ought To Be Loved More Than Our Neighbor?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that God ought not to be loved more than our neighbor. For it is written (1 Jn. 4:20): "He that loveth not his brother whom he seeth, how can he love God, Whom he seeth not?" Whence it seems to follow that the more a thing is visible the more lovable it is, since loving begins with seeing, according to Ethic. ix, 5,12. Now God is less visible than our neighbor. Therefore He is less lovable, out of charity, than our neighbor.
 
@@ -47,7 +47,7 @@ Objection 2: Further, likeness causes love, according to Ecclus. 13:19: "Every b
 
 Objection 3: Further, what charity loves in a neighbor, is God, according to Augustine (De Doctr. Christ. i, 22,27). Now God is not greater in Himself than He is in our neighbor. Therefore He is not more to be loved in Himself than in our neighbor. Therefore we ought not to love God more than our neighbor.
 
-### Answer
+**Answer**
 
 On the contrary, A thing ought to be loved more, if others ought to be hated on its account. Now we ought to hate our neighbor for God's sake, if, to wit, he leads us astray from God, according to Lk. 14:26: "If any man come to Me and hate not his father, and mother, and wife, end children, and brethren, and sisters . . . he cannot be My disciple." Therefore we ought to love God, out of charity, more than our neighbor.
 
@@ -55,16 +55,16 @@ I answer that, Each kind of friendship regards chiefly the subject in which we c
 
 Therefore God ought to be loved chiefly and before all out of charity: for He is loved as the cause of happiness, whereas our neighbor is loved as receiving together with us a share of happiness from Him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A thing is a cause of love in two ways: first, as being the reason for loving. In this way good is the cause of love, since each thing is loved according to its measure of goodness. Secondly, a thing causes love, as being a way to acquire love. It is in this way that seeing is the cause of loving, not as though a thing were lovable according as it is visible, but because by seeing a thing we are led to love it. Hence it does not follow that what is more visible is more lovable, but that as an object of love we meet with it before others: and that is the sense of the Apostle's argument. For, since our neighbor is more visible to us, he is the first lovable object we meet with, because "the soul learns, from those things it knows, to love what it knows not," as Gregory says in a homily (In Evang. xi). Hence it can be argued that, if any man loves not his neighbor, neither does he love God, not because his neighbor is more lovable, but because he is the first thing to demand our love: and God is more lovable by reason of His greater goodness.
 
 Reply to Objection 2: The likeness we have to God precedes and causes the likeness we have to our neighbor: because from the very fact that we share along with our neighbor in something received from God, we become like to our neighbor. Hence by reason of this likeness we ought to love God more than we love our neighbor.
 
 Reply to Objection 3: Considered in His substance, God is equally in all, in whomsoever He may be, for He is not lessened by being in anything. And yet our neighbor does not possess God's goodness equally with God, for God has it essentially, and our neighbor by participation.
-## Whether Out Of Charity, Man Is Bound To Love God More Than Himself?
+### Whether Out Of Charity, Man Is Bound To Love God More Than Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that man is not bound, out of charity, to love God more than himself. For the Philosopher says (Ethic. ix, 8) that "a man's friendly relations with others arise from his friendly relations with himself." Now the cause is stronger than its effect. Therefore man's friendship towards himself is greater than his friendship for anyone else. Therefore he ought to love himself more than God.
 
@@ -72,7 +72,7 @@ Objection 2: Further, one loves a thing in so far as it is one's own good. Now t
 
 Objection 3: Further, a man loves God as much as he loves to enjoy God. But a man loves himself as much as he loves to enjoy God; since this is the highest good a man can wish for himself. Therefore man is not bound, out of charity, to love God more than himself.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. i, 22): "If thou oughtest to love thyself, not for thy own sake, but for the sake of Him in Whom is the rightest end of thy love, let no other man take offense if him also thou lovest for God's sake." Now "the cause of a thing being such is yet more so." Therefore man ought to love God more than himself.
 
@@ -80,16 +80,16 @@ I answer that, The good we receive from God is twofold, the good of nature, and 
 
 Therefore man ought, out of charity, to love God, Who is the common good of all, more than himself: since happiness is in God as in the universal and fountain principle of all who are able to have a share of that happiness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher is speaking of friendly relations towards another person in whom the good, which is the object of friendship, resides in some restricted way; and not of friendly relations with another in whom the aforesaid good resides in totality.
 
 Reply to Objection 2: The part does indeed love the good of the whole, as becomes a part, not however so as to refer the good of the whole to itself, but rather itself to the good of the whole.
 
 Reply to Objection 3: That a man wishes to enjoy God pertains to that love of God which is love of concupiscence. Now we love God with the love of friendship more than with the love of concupiscence, because the Divine good is greater in itself, than our share of good in enjoying Him. Hence, out of charity, man simply loves God more than himself.
-## Whether Our Of Charity, Man Ought To Love Himself More Than His Neighbor?
+### Whether Our Of Charity, Man Ought To Love Himself More Than His Neighbor?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man ought not, out of charity, to love himself more than his neighbor. For the principal object of charity is God, as stated above [2553](A[2]; Q[25], AA[1],12). Now sometimes our neighbor is more closely united to God than we are ourselves. Therefore we ought to love such a one more than ourselves.
 
@@ -97,7 +97,7 @@ Objection 2: Further, the more we love a person, the more we avoid injuring him.
 
 Objection 3: Further, it is written (1 Cor. 13:5) "charity seeketh not its own." Now the thing we love most is the one whose good we seek most. Therefore a man does not, out of charity, love himself more than his neighbor.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lev. 19:18, Mat. 22:39): "Thou shalt love thy neighbor (Lev. 19:18: 'friend') as thyself." Whence it seems to follow that man's love for himself is the model of his love for another. But the model exceeds the copy. Therefore, out of charity, a man ought to love himself more than his neighbor.
 
@@ -105,16 +105,16 @@ I answer that, There are two things in man, his spiritual nature and his corpore
 
 This is evident from the very reason for loving: since, as stated above ([2555]Q[25], AA[1],12), God is loved as the principle of good, on which the love of charity is founded; while man, out of charity, loves himself by reason of his being a partaker of the aforesaid good, and loves his neighbor by reason of his fellowship in that good. Now fellowship is a reason for love according to a certain union in relation to God. Wherefore just as unity surpasses union, the fact that man himself has a share of the Divine good, is a more potent reason for loving than that another should be a partner with him in that share. Therefore man, out of charity, ought to love himself more than his neighbor: in sign whereof, a man ought not to give way to any evil of sin, which counteracts his share of happiness, not even that he may free his neighbor from sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The love of charity takes its quantity not only from its object which is God, but also from the lover, who is the man that has charity, even as the quantity of any action depends in some way on the subject. Wherefore, though a better neighbor is nearer to God, yet because he is not as near to the man who has charity, as this man is to himself, it does not follow that a man is bound to love his neighbor more than himself.
 
 Reply to Objection 2: A man ought to bear bodily injury for his friend's sake, and precisely in so doing he loves himself more as regards his spiritual mind, because it pertains to the perfection of virtue, which is a good of the mind. In spiritual matters, however, man ought not to suffer injury by sinning, in order to free his neighbor from sin, as stated above.
 
 Reply to Objection 3: As Augustine says in his Rule (Ep. ccxi), the saying, "'charity seeks not her own,' means that it prefers the common to the private good." Now the common good is always more lovable to the individual than his private good, even as the good of the whole is more lovable to the part, than the latter's own partial good, as stated above [2556](A[3]).
-## Whether A Man Ought To Love His Neighbor More Than His Own Body?
+### Whether A Man Ought To Love His Neighbor More Than His Own Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man is not bound to love his neighbor more than his own body. For his neighbor includes his neighbor's body. If therefore a man ought to love his neighbor more than his own body, it follows that he ought to love his neighbor's body more than his own.
 
@@ -122,22 +122,22 @@ Objection 2: Further, a man ought to love his own soul more than his neighbor's,
 
 Objection 3: Further, a man imperils that which he loves less for the sake of what he loves more. Now every man is not bound to imperil his own body for his neighbor's safety: this belongs to the perfect, according to Jn. 15:13: "Greater love than this no man hath, that a man lay down his life for his friends." Therefore a man is not bound, out of charity, to love his neighbor more than his own body.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Doctr. Christ. i, 27) that "we ought to love our neighbor more than our own body."
 
 I answer that, Out of charity we ought to love more that which has more fully the reason for being loved out of charity, as stated above [2558](A[2]; Q[25], A[12]). Now fellowship in the full participation of happiness which is the reason for loving one's neighbor, is a greater reason for loving, than the participation of happiness by way of overflow, which is the reason for loving one's own body. Therefore, as regards the welfare of the soul we ought to love our neighbor more than our own body.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: According to the Philosopher (Ethic. ix, 8) a thing seems to be that which is predominant in it: so that when we say that we ought to love our neighbor more than our own body, this refers to his soul, which is his predominant part.
 
 Reply to Objection 2: Our body is nearer to our soul than our neighbor, as regards the constitution of our own nature: but as regards the participation of happiness, our neighbor's soul is more closely associated with our own soul, than even our own body is.
 
 Reply to Objection 3: Every man is immediately concerned with the care of his own body, but not with his neighbor's welfare, except perhaps in cases of urgency: wherefore charity does not necessarily require a man to imperil his own body for his neighbor's welfare, except in a case where he is under obligation to do so and if a man of his own accord offer himself for that purpose, this belongs to the perfection of charity.
-## Whether We Ought To Love One Neighbor More Than Another?
+### Whether We Ought To Love One Neighbor More Than Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to love one neighbor more than another. For Augustine says (De Doctr. Christ. i, 28): "One ought to love all men equally. Since, however, one cannot do good to all, we ought to consider those chiefly who by reason of place, time or any other circumstance, by a kind of chance, are more closely united to us." Therefore one neighbor ought not to be loved more than another.
 
@@ -145,7 +145,7 @@ Objection 2: Further, where there is one and the same reason for loving several,
 
 Objection 3: Further, to love a man is to wish him good things, as the Philosopher states (Rhet. ii, 4). Now to all our neighbors we wish an equal good, viz. everlasting life. Therefore we ought to love all our neighbors equally.
 
-### Answer
+**Answer**
 
 On the contrary, One's obligation to love a person is proportionate to the gravity of the sin one commits in acting against that love. Now it is a more grievous sin to act against the love of certain neighbors, than against the love of others. Hence the commandment (Lev. 10:9), "He that curseth his father or mother, dying let him die," which does not apply to those who cursed others than the above. Therefore we ought to love some neighbors more than others.
 
@@ -155,16 +155,16 @@ But this is unreasonable. For the affection of charity, which is the inclination
 
 We must, therefore, say that, even as regards the affection we ought to love one neighbor more than another. The reason is that, since the principle of love is God, and the person who loves, it must needs be that the affection of love increases in proportion to the nearness to one or the other of those principles. For as we stated above [2559](A[1]), wherever we find a principle, order depends on relation to that principle.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Love can be unequal in two ways: first on the part of the good we wish our friend. In this respect we love all men equally out of charity: because we wish them all one same generic good, namely everlasting happiness. Secondly love is said to be greater through its action being more intense: and in this way we ought not to love all equally.
 
 Reply to Objection 2: Our neighbors are not all equally related to God; some are nearer to Him, by reason of their greater goodness, and those we ought, out of charity, to love more than those who are not so near to Him.
 
 Reply to Objection 3: This argument considers the quantity of love on the part of the good which we wish our friends.
-## Whether We Ought To Love Those Who Are Better More Those Who Are More Closely United Us?
+### Whether We Ought To Love Those Who Are Better More Those Who Are More Closely United Us?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought to love those who are better more than those who are more closely united to us. For that which is in no way hateful seems more lovable than that which is hateful for some reason: just as a thing is all the whiter for having less black mixed with it. Now those who are connected with us are hateful for some reason, according to Lk. 14:26: "If any man come to Me, and hate not his father," etc. On the other hand good men are not hateful for any reason. Therefore it seems that we ought to love those who are better more than those who are more closely connected with us.
 
@@ -172,7 +172,7 @@ Objection 2: Further, by charity above all, man is likened to God. But God loves
 
 Objection 3: Further, in every friendship that ought to be loved most which has most to do with the foundation of that friendship: for, by natural friendship we love most those who are connected with us by nature, our parents for instance, or our children. Now the friendship of charity is founded upon the fellowship of happiness, which has more to do with better men than with those who are more closely united to us. Therefore, out of charity, we ought to love better men more than those who are more closely connected with us.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Tim. 5:8): "If any man have not care of his own and especially of those of his house, he hath denied the faith, and is worse than an infidel." Now the inward affection of charity ought to correspond to the outward effect. Therefore charity regards those who are nearer to us before those who are better.
 
@@ -186,16 +186,16 @@ Again a further difference must be observed here: for some neighbors are connect
 
 Moreover there is yet another reason for which, out of charity, we love more those who are more nearly connected with us, since we love them in more ways. For, towards those who are not connected with us we have no other friendship than charity, whereas for those who are connected with us, we have certain other friendships, according to the way in which they are connected. Now since the good on which every other friendship of the virtuous is based, is directed, as to its end, to the good on which charity is based, it follows that charity commands each act of another friendship, even as the art which is about the end commands the art which is about the means. Consequently this very act of loving someone because he is akin or connected with us, or because he is a fellow-countryman or for any like reason that is referable to the end of charity, can be commanded by charity, so that, out of charity both eliciting and commanding, we love in more ways those who are more nearly connected with us.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We are commanded to hate, in our kindred, not their kinship, but only the fact of their being an obstacle between us and God. In this respect they are not akin but hostile to us, according to Micah 7:6: "A men's enemies are they of his own household."
 
 Reply to Objection 2: Charity conforms man to God proportionately, by making man comport himself towards what is his, as God does towards what is His. For we may, out of charity, will certain things as becoming to us which God does not will, because it becomes Him not to will them, as stated above ([2561]FS, Q[19], A[10]), when we were treating of the goodness of the will.
 
 Reply to Objection 3: Charity elicits the act of love not only as regards the object, but also as regards the lover, as stated above. The result is that the man who is more nearly united to us is more loved.
-## Whether We Ought To Love More Those Who Are Connected With Us By Ties Of Blood?
+### Whether We Ought To Love More Those Who Are Connected With Us By Ties Of Blood?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to love more those who are more closely united to us by ties of blood. For it is written (Prov. 18:24): "A man amiable in society, shall be more friendly than a brother." Again, Valerius Maximus says (Fact. et Dict. Memor. iv 7): "The ties of friendship are most strong and in no way yield to the ties of blood." Moreover it is quite certain and undeniable, that as to the latter, the lot of birth is fortuitous, whereas we contract the former by an untrammelled will, and a solid pledge. Therefore we ought not to love more than others those who are united to us by ties of blood.
 
@@ -203,7 +203,7 @@ Objection 2: Further, Ambrose says (De Officiis i, 7): "I love not less you whom
 
 Objection 3: Further, "Love is proved by deeds," as Gregory states (Hom. in Evang. xxx). Now we are bound to do acts of love to others than our kindred: thus in the army a man must obey his officer rather than his father. Therefore we are not bound to love our kindred most of all.
 
-### Answer
+**Answer**
 
 On the contrary, The commandments of the decalogue contain a special precept about the honor due to our parents (Ex. 20:12). Therefore we ought to love more specially those who are united to us by ties of blood.
 
@@ -213,16 +213,16 @@ The same applies to other kinds of friendship.
 
 If however we compare union with union, it is evident that the union arising from natural origin is prior to, and more stable than, all others, because it is something affecting the very substance, whereas other unions supervene and may cease altogether. Therefore the friendship of kindred is more stable, while other friendships may be stronger in respect of that which is proper to each of them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In as much as the friendship of comrades originates through their own choice, love of this kind takes precedence of the love of kindred in matters where we are free to do as we choose, for instance in matters of action. Yet the friendship of kindred is more stable, since it is more natural, and preponderates over others in matters touching nature: consequently we are more beholden to them in the providing of necessaries.
 
 Reply to Objection 2: Ambrose is speaking of love with regard to favors respecting the fellowship of grace, namely, moral instruction. For in this matter, a man ought to provide for his spiritual children whom he has begotten spiritually, more than for the sons of his body, whom he is bound to support in bodily sustenance.
 
 Reply to Objection 3: The fact that in the battle a man obeys his officer rather than his father proves, that he loves his father less, not simply relatively, i.e. as regards the love which is based on fellowship in battle.
-## Whether A Man Ought, Out Of Charity, To Love His Children More Than His Father?
+### Whether A Man Ought, Out Of Charity, To Love His Children More Than His Father?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that a man ought, out of charity, to love his children more than his father. For we ought to love those more to whom we are more bound to do good. Now we are more bound to do good to our children than to our parents, since the Apostle says (2 Cor. 12:14): "Neither ought the children to lay up for the parents, but the parents for the children." Therefore a man ought to love his children more than his parents.
 
@@ -230,7 +230,7 @@ Objection 2: Further, grace perfects nature. But parents naturally love their ch
 
 Objection 3: Further, man's affections are conformed to God by charity. But God loves His children more than they love Him. Therefore we also ought to love our children more than our parents.
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose [*Origen, Hom. ii in Cant.] says: "We ought to love God first, then our parents, then our children, and lastly those of our household."
 
@@ -238,16 +238,16 @@ I answer that, As stated above (A[4], ad 1; A[7]), the degrees of love may be me
 
 Secondly, the degrees of love may be measured from the standpoint of the lover, and in this respect a man loves more that which is more closely connected with him, in which way a man's children are more lovable to him than his father, as the Philosopher states (Ethic. viii). First, because parents love their children as being part of themselves, whereas the father is not part of his son, so that the love of a father for his children, is more like a man's love for himself. Secondly, because parents know better that so and so is their child than vice versa. Thirdly, because children are nearer to their parents, as being part of them, than their parents are to them to whom they stand in the relation of a principle. Fourthly, because parents have loved longer, for the father begins to love his child at once, whereas the child begins to love his father after a lapse of time; and the longer love lasts, the stronger it is, according to Ecclus. 9:14: "Forsake not an old friend, for the new will not be like to him."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The debt due to a principle is submission of respect and honor, whereas that due to the effect is one of influence and care. Hence the duty of children to their parents consists chiefly in honor: while that of parents to their children is especially one of care.
 
 Reply to Objection 2: It is natural for a man as father to love his children more, if we consider them as closely connected with him: but if we consider which is the more exalted good, the son naturally loves his father more.
 
 Reply to Objection 3: As Augustine says (De Doctr. Christ. i, 32), God loves us for our good and for His honor. Wherefore since our father is related to us as principle, even as God is, it belongs properly to the father to receive honor from his children, and to the children to be provided by their parents with what is good for them. Nevertheless in cases of necessity the child is bound out of the favors received to provide for his parents before all.
-## Whether A Man Ought To Love His Mother More Than His Father?
+### Whether A Man Ought To Love His Mother More Than His Father?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man ought to love his mother more than his father. For, as the Philosopher says (De Gener. Animal. i, 20), "the female produces the body in generation." Now man receives his soul, not from his father, but from God by creation, as stated in the [2563]FP, Q[90], A[2]; Q[118]. Therefore a man receives more from his mother than from his father: and consequently he ought to love her more than him.
 
@@ -255,7 +255,7 @@ Objection 2: Further, where greater love is given, greater love is due. Now a mo
 
 Objection 3: Further, love should be more fond towards those who have labored for us more, according to Rom. 16:6: "Salute Mary, who hath labored much among you." Now the mother labors more than the father in giving birth and education to her child; wherefore it is written (Ecclus. 7:29): "Forget not the groanings of thy mother." Therefore a man ought to love his mother more than his father.
 
-### Answer
+**Answer**
 
 On the contrary, Jerome says on Ezech. 44:25 that "man ought to love God the Father of all, and then his own father," and mentions the mother afterwards.
 
@@ -263,14 +263,14 @@ I answer that, In making such comparisons as this, we must take the answer in th
 
 Strictly speaking, however, the father should be loved more than the mother. For father and mother are loved as principles of our natural origin. Now the father is principle in a more excellent way than the mother, because he is the active principle, while the mother is a passive and material principle. Consequently, strictly speaking, the father is to be loved more.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the begetting of man, the mother supplies the formless matter of the body; and the latter receives its form through the formative power that is in the semen of the father. And though this power cannot create the rational soul, yet it disposes the matter of the body to receive that form.
 
 Reply to Objection 2: This applies to another kind of love. For the friendship between lover and lover differs specifically from the friendship between child and parent: while the friendship we are speaking of here, is that which a man owes his father and mother through being begotten of them.
-## Whether A Man Ought To Love His Wife More Than His Father And Mother?
+### Whether A Man Ought To Love His Wife More Than His Father And Mother?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man ought to love his wife more than his father and mother. For no man leaves a thing for another unless he love the latter more. Now it is written (Gn. 2:24) that "a man shell leave father and mother" on account of his wife. Therefore a man ought to love his wife more than his father and mother.
 
@@ -278,7 +278,7 @@ Objection 2: Further, the Apostle says (Eph. 5:33) that a husband should "love h
 
 
 
-### Answer
+**Answer**
 
 On the contrary, According to Eph. 5:28, "men ought to love their wives as their own bodies." Now a man ought to love his body less than his neighbor, as stated above [2564](A[5]): and among his neighbors he should love his parents most. Therefore he ought to love his parents more than his wife.
 
@@ -286,16 +286,16 @@ I answer that, As stated above [2565](A[9]), the degrees of love may be taken fr
 
 But on the part of the union, the wife ought to be loved more, because she is united with her husband, as one flesh, according to Mat. 19:6: "Therefore now they are not two, but one flesh." Consequently a man loves his wife more intensely, but his parents with greater reverence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: A man does not in all respects leave his father and mother for the sake of his wife: for in certain cases a man ought to succor his parents rather than his wife. He does however leave all his kinsfolk, and cleaves to his wife as regards the union of carnal connection and co-habitation.
 
 Reply to Objection 2: The words of the Apostle do not mean that a man ought to love his wife equally with himself, but that a man's love for himself is the reason for his love of his wife, since she is one with him.
 
 Reply to Objection 3: There are also several reasons for a man's love for his father; and these, in a certain respect, namely, as regards good, are more weighty than those for which a man loves his wife; although the latter outweigh the former as regards the closeness of the union.
-## Whether A Man Ought To Love More His Benefactor Than One He Has Benefited?
+### Whether A Man Ought To Love More His Benefactor Than One He Has Benefited?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a man ought to love his benefactor more than one he has benefited. For Augustine says (De Catech. Rud. iv): "Nothing will incite another more to love you than that you love him first: for he must have a hard heart indeed, who not only refuses to love, but declines to return love already given." Now a man's benefactor forestalls him in the kindly deeds of charity. Therefore we ought to love our benefactors above all.
 
@@ -303,7 +303,7 @@ Objection 2: Further, the more grievously we sin by ceasing to love a man or by 
 
 Objection 3: Further, of all things lovable, God is to be loved most, and then one's father, as Jerome says [*Comment. in Ezechiel xliv, 25]. Now these are our greatest benefactors. Therefore a benefactor should be loved above all others.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. ix, 7), that "benefactors seem to love recipients of their benefactions, rather than vice versa."
 
@@ -311,16 +311,16 @@ I answer that, As stated above ([2566]AA[9],11), a thing is loved more in two wa
 
 In the second way, however, we love those more who have received benefactions from us, as the Philosopher proves (Ethic. ix, 7) by four arguments. First because the recipient of benefactions is the handiwork of the benefactor, so that we are wont to say of a man: "He was made by so and so." Now it is natural to a man to love his own work (thus it is to be observed that poets love their own poems): and the reason is that we love "to be" and "to live," and these are made manifest in our "action." Secondly, because we all naturally love that in which we see our own good. Now it is true that the benefactor has some good of his in the recipient of his benefaction, and the recipient some good in the benefactor; but the benefactor sees his virtuous good in the recipient, while the recipient sees his useful good in the benefactor. Now it gives more pleasure to see one's virtuous good than one's useful good, both because it is more enduring for usefulness quickly flits by, and the pleasure of calling a thing to mind is not like the pleasure of having it present and because it is more pleasant to recall virtuous goods than the profit we have derived from others. Thirdly, because is it the lover's part to act, since he wills and works the good of the beloved, while the beloved takes a passive part in receiving good, so that to love surpasses being loved, for which reason the greater love is on the part of the benefactor. Fourthly because it is more difficult to give than to receive favors: and we are most fond of things which have cost us most trouble, while we almost despise what comes easy to us.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is some thing in the benefactor that incites the recipient to love him: whereas the benefactor loves the recipient, not through being incited by him, but through being moved thereto of his own accord: and what we do of our own accord surpasses what we do through another.
 
 Reply to Objection 2: The love of the beneficiary for the benefactor is more of a duty, wherefore the contrary is the greater sin. On the other hand, the love of the benefactor for the beneficiary is more spontaneous, wherefore it is quicker to act.
 
 Reply to Objection 3: God also loves us more than we love Him, and parents love their children more than these love them. Yet it does not follow that we love all who have received good from us, more than any of our benefactors. For we prefer such benefactors as God and our parents, from whom we have received the greatest favors, to those on whom we have bestowed lesser benefits.
-## Whether The Order Of Charity Endures In Heaven?
+### Whether The Order Of Charity Endures In Heaven?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the order of charity does not endure in heaven. For Augustine says (De Vera Relig. xlviii): "Perfect charity consists in loving greater goods more, and lesser goods less." Now charity will be perfect in heaven. Therefore a man will love those who are better more than either himself or those who are connected with him.
 
@@ -328,7 +328,7 @@ Objection 2: Further, we love more him to whom we wish a greater good. Now each 
 
 Objection 3: Further, in heaven love will be entirely for God's sake, for then will be fulfilled the words of 1 Cor. 15:28: "That God may be all in all." Therefore he who is nearer God will be loved more, so that a man will love a better man more than himself, and one who is not connected with him, more than one who is.
 
-### Answer
+**Answer**
 
 On the contrary, Nature is not done away, but perfected, by glory. Now the order of charity given above ([2568]AA[2],3,4) is derived from nature: since all things naturally love themselves more than others. Therefore this order of charity will endure in heaven.
 
@@ -336,7 +336,7 @@ I answer that, The order of charity must needs remain in heaven, as regards the 
 
 As to the order to be observed among our neighbors, a man will simply love those who are better, according to the love of charity. Because the entire life of the blessed consists in directing their minds to God, wherefore the entire ordering of their love will be ruled with respect to God, so that each one will love more and reckon to be nearer to himself those who are nearer to God. For then one man will no longer succor another, as he needs to in the present life, wherein each man has to succor those who are closely connected with him rather than those who are not, no matter what be the nature of their distress: hence it is that in this life, a man, by the inclination of charity, loves more those who are more closely united to him, for he is under a greater obligation to bestow on them the effect of charity. It will however be possible in heaven for a man to love in several ways one who is connected with him, since the causes of virtuous love will not be banished from the mind of the blessed. Yet all these reasons are incomparably surpassed by that which is taken from nighness to God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument should be granted as to those who are connected together; but as regards man himself, he ought to love himself so much the more than others, as his charity is more perfect, since perfect entire reason of his love, for God is man's charity directs man to God perfectly, and this belongs to love of oneself, as stated above.
 

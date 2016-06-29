@@ -6,9 +6,9 @@ We must now consider how the moral virtues differ from one another: under which 
 (3) Whether there is but one moral virtue about operations?
 (4) Whether there are different moral virtues about different passions?
 (5) Whether the moral virtues differ in point of the various objects of the passions?
-## Whether There Is Only One Moral Virtue?
+### Whether There Is Only One Moral Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is only one moral virtue. Because just as the direction of moral actions belongs to reason which is the subject of the intellectual virtues; so does their inclination belong to the appetite which is the subject of moral virtues. But there is only one intellectual virtue to direct all moral acts, viz. prudence. Therefore there is also but one moral virtue to give all moral acts their respective inclinations.
 
@@ -16,7 +16,7 @@ Objection 2: Further, habits differ, not in respect of their material objects, b
 
 Objection 3: Further, things pertaining to morals are specified by their end, as stated above ([1548]Q[1], A[3]). Now there is but one common end of all moral virtues, viz. happiness, while the proper and proximate ends are infinite in number. But the moral virtues themselves are not infinite in number. Therefore it seems that there is but one.
 
-### Answer
+**Answer**
 
 On the contrary, One habit cannot be in several powers, as stated above (Q[56], A[2]). But the subject of the moral virtues is the appetitive part of the soul, which is divided into several powers, as stated in the [1549]FP, Q[80], A[2]; [1550]FP, Q[81], A[2]. Therefore there cannot be only one moral virtue.
 
@@ -24,16 +24,16 @@ I answer that, As stated above ([1551]Q[58], AA[1],2,3), the moral virtues are h
 
 Now it is evident that in moral matters the reason holds the place of commander and mover, while the appetitive power is commanded and moved. But the appetite does not receive the direction of reason univocally so to say; because it is rational, not essentially, but by participation (Ethic. i, 13). Consequently objects made appetible by the direction of reason belong to various species, according to their various relations to reason: so that it follows that moral virtues are of various species and are not one only.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The object of the reason is truth. Now in all moral matters, which are contingent matters of action, there is but one kind of truth. Consequently, there is but one virtue to direct all such matters, viz. prudence. On the other hand, the object of the appetitive power is the appetible good, which varies in kind according to its various relations to reason, the directing power.
 
 Reply to Objection 2: This formal element is one generically, on account of the unity of the agent: but it varies in species, on account of the various relations of the receiving matter, as explained above.
 
 Reply to Objection 3: Moral matters do not receive their species from the last end, but from their proximate ends: and these, although they be infinite in number, are not infinite in species.
-## Whether Moral Virtues About Operations Are Different From Those That Are About Passions?
+### Whether Moral Virtues About Operations Are Different From Those That Are About Passions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that moral virtues are not divided into those which are about operations and those which are about passions. For the Philosopher says (Ethic. ii, 3) that moral virtue is "an operative habit whereby we do what is best in matters of pleasure or sorrow." Now pleasure and sorrow are passions, as stated above ([1553]Q[31], A[1];[1554] Q[35], A[1]). Therefore the same virtue which is about passions is also about operations, since it is an operative habit.
 
@@ -41,7 +41,7 @@ Objection 2: Further, the passions are principles of external action. If therefo
 
 Objection 3: Further, the sensitive appetite is moved well or ill towards every external operation. Now movements of the sensitive appetite are passions. Therefore the same virtues that are about operations are also about passions.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher reckons justice to be about operations; and temperance, fortitude and gentleness, about passions (Ethic. ii, 3,7; v, 1, seqq.).
 
@@ -52,9 +52,9 @@ Secondly, operation may be compared to moral virtue as the matter about which vi
 It happens, however, in operations which are directed to another, that the good of virtue is overlooked by reason of some inordinate passion of the soul. In such cases justice is destroyed in so far as the due measure of the external act is destroyed: while some other virtue is destroyed in so far as the internal passions exceed their due measure. Thus when through anger, one man strikes another, justice is destroyed in the undue blow; while gentleness is destroyed by the immoderate anger. The same may be clearly applied to other virtues.
 
 This suffices for the Replies to the Objections. For the first considers operations as the effect of virtue, while the other two consider operation and passion as concurring in the same effect. But in some cases virtue is chiefly about operations, in others, about passions, for the reason given above.
-## Whether There Is Only One Moral Virtue About Operations?
+### Whether There Is Only One Moral Virtue About Operations?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is but one moral virtue about operations. Because the rectitude of all external operations seems to belong to justice. Now justice is but one virtue. Therefore there is but one virtue about operations.
 
@@ -62,22 +62,22 @@ Objection 2: Further, those operations seem to differ most, which are directed o
 
 Objection 3: Further, if there are various moral virtues about various operations, diversity of moral virtues would needs follow diversity of operations. But this is clearly untrue: for it is the function of justice to establish rectitude in various kinds of commutations, and again in distributions, as is set down in Ethic. v, 2. Therefore there are not different virtues about different operations.
 
-### Answer
+**Answer**
 
 On the contrary, Religion is a moral virtue distinct from piety, both of which are about operations.
 
 I answer that, All the moral virtues that are about operations agree in one general notion of justice, which is in respect of something due to another: but they differ in respect of various special notions. The reason for this is that in external operations, the order of reason is established, as we have stated [1556](A[2]), not according as how man is affected towards such operations, but according to the becomingness of the thing itself; from which becomingness we derive the notion of something due which is the formal aspect of justice: for, seemingly, it pertains to justice that a man give another his due. Wherefore all such virtues as are about operations, bear, in some way, the character of justice. But the thing due is not of the same kind in all these virtues: for something is due to an equal in one way, to a superior, in another way, to an inferior, in yet another; and the nature of a debt differs according as it arises from a contract, a promise, or a favor already conferred. And corresponding to these various kinds of debt there are various virtues: e.g. "Religion" whereby we pay our debt to God; "Piety," whereby we pay our debt to our parents or to our country; "Gratitude," whereby we pay our debt to our benefactors, and so forth.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Justice properly so called is one special virtue, whose object is the perfect due, which can be paid in the equivalent. But the name of justice is extended also to all cases in which something due is rendered: in this sense it is not as a special virtue.
 
 Reply to Objection 2: That justice which seeks the common good is another virtue from that which is directed to the private good of an individual: wherefore common right differs from private right; and Tully (De Inv. ii) reckons as a special virtue, piety which directs man to the good of his country. But that justice which directs man to the common good is a general virtue through its act of command: since it directs all the acts of the virtues to its own end, viz. the common good. And the virtues, in so far as they are commanded by that justice, receive the name of justice: so that virtue does not differ, save logically, from legal justice; just as there is only a logical difference between a virtue that is active of itself, and a virtue that is active through the command of another virtue.
 
 Reply to Objection 3: There is the same kind of due in all the operations belonging to special justice. Consequently, there is the same virtue of justice, especially in regard to commutations. For it may be that distributive justice is of another species from commutative justice; but about this we shall inquire later on ([1557]SS, Q[61], A[1]).
-## Whether There Are Different Moral Virtues About Different Passions?
+### Whether There Are Different Moral Virtues About Different Passions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are not different moral virtues about different passions. For there is but one habit about things that concur in their source and end: as is evident especially in the case of sciences. But the passions all concur in one source, viz. love; and they all terminate in the same end, viz. joy or sorrow, as we stated above ([1558]Q[25], AA[1],2,4;[1559] Q[27], A[4]). Therefore there is but one moral virtue about all the passions.
 
@@ -85,7 +85,7 @@ Objection 2: Further, if there were different moral virtues about different pass
 
 Objection 3: Further, love, desire, and pleasure are passions of different species, as stated above ([1560]Q[23], A[4]). Now there is but one virtue about all these three, viz. temperance. Therefore there are not different moral virtues about different passions.
 
-### Answer
+**Answer**
 
 On the contrary, Fortitude is about fear and daring; temperance about desire; meekness about anger; as stated in Ethic. iii, 6,10; iv, 5.
 
@@ -93,16 +93,16 @@ I answer that, It cannot be said that there is only one moral virtue about all t
 
 On the other hand, neither does every diversity of passions necessarily suffice for a diversity of moral virtues. First, because some passions are in contrary opposition to one another, such as joy and sorrow, fear and daring, and so on. About such passions as are thus in opposition to one another there must needs be one same virtue. Because, since moral virtue consists in a kind of mean, the mean in contrary passions stands in the same ratio to both, even as in the natural order there is but one mean between contraries, e.g. between black and white. Secondly, because there are different passions contradicting reason in the same manner, e.g. by impelling to that which is contrary to reason, or by withdrawing from that which is in accord with reason. Wherefore the different passions of the concupiscible faculty do not require different moral virtues, because their movements follow one another in a certain order, as being directed to the one same thing, viz. the attainment of some good or the avoidance of some evil: thus from love proceeds desire, and from desire we arrive at pleasure; and it is the same with the opposite passions, for hatred leads to avoidance or dislike, and this leads to sorrow. On the other hand, the irascible passions are not all of one order, but are directed to different things: for daring and fear are about some great danger; hope and despair are about some difficult good; while anger seeks to overcome something contrary which has wrought harm. Consequently there are different virtues about such like passions: e.g. temperance, about the concupiscible passions; fortitude, about fear and daring; magnanimity, about hope and despair; meekness, about anger.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All the passions concur in one common principle and end; but not in one proper principle or end: and so this does not suffice for the unity of moral virtue.
 
 Reply to Objection 2: Just as in the natural order the same principle causes movement from one extreme and movement towards the other; and as in the intellectual order contraries have one common ratio; so too between contrary passions there is but one moral virtue, which, like a second nature, consents to reason's dictates.
 
 Reply to Objection 3: Those three passions are directed to the same object in a certain order, as stated above: and so they belong to the same virtue.
-## Whether The Moral Virtues Differ In Point Of The Various Objects Of The Passions?
+### Whether The Moral Virtues Differ In Point Of The Various Objects Of The Passions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the moral virtues do not differ according to the objects of the passions. For just as there are objects of passions, so are there objects of operations. Now those moral virtues that are about operations, do not differ according to the objects of those operations: for the buying and selling either of a house or of a horse belong to the one same virtue of justice. Therefore neither do those moral virtues that are about passions differ according to the objects of those passions.
 
@@ -112,7 +112,7 @@ Objection 3: Further, more or less do not change a species. Now various objects 
 
 Objection 4: Further, virtue hinders evil, even as it produces good. But there are various virtues about the desires for good things: thus temperance is about desires for the pleasure of touch, and "eutrapelia" [*{eutrapelia}] about pleasures in games. Therefore there should be different virtues about fears of evils.
 
-### Answer
+**Answer**
 
 On the contrary, Chastity is about sexual pleasures, abstinence about pleasures of the table, and "eutrapelia" about pleasures in games.
 
@@ -128,7 +128,7 @@ As regards man's good in relation to other men, it does not seem hard to obtain,
 
 It is therefore evident that, according to Aristotle, there are ten moral virtues about the passions, viz. fortitude, temperance, liberality, magnificence, magnanimity, "philotimia," gentleness, friendship, truthfulness, and "eutrapelia," all of which differ in respect of their diverse matter, passions, or objects: so that if we add "justice," which is about operations, there will be eleven in all.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: All objects of the same specific operation have the same relation to reason: not so all the objects of the same specific passion; because operations do not thwart reason as the passions do.
 

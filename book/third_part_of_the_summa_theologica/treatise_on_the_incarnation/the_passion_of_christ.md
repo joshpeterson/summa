@@ -13,9 +13,9 @@ In proper sequence we have now to consider all that relates to Christ's leaving 
 (10) The place;
 (11) Whether it was fitting for Him to be crucified with robbers?
 (12) Whether Christ's Passion is to be attributed to the Godhead?
-## Whether It Was Necessary For Christ To Suffer For The Deliverance Of The Human Race?
+### Whether It Was Necessary For Christ To Suffer For The Deliverance Of The Human Race?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was not necessary for Christ to suffer for the deliverance of the human race. For the human race could not be delivered except by God, according to Is. 45:21: "Am not I the Lord, and there is no God else besides Me? A just God and a Saviour, there is none besides Me." But no necessity can compel God, for this would be repugnant to His omnipotence. Therefore it was not necessary for Christ to suffer.
 
@@ -25,13 +25,13 @@ Objection 3: Further, as is written (Ps. 24:10): "All the ways of the Lord are m
 
 Objection 4: Further, the angelic nature is more excellent than the human, as appears from Dionysius (Div. Nom. iv). But Christ did not suffer to repair the angelic nature which had sinned. Therefore, apparently, neither was it necessary for Him to suffer for the salvation of the human race.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 3:14): "As Moses lifted up the serpent in the desert, so must the Son of man be lifted up, that whosoever believeth in Him may not perish, but may have life everlasting."
 
 I answer that, As the Philosopher teaches (Metaph. v), there are several acceptations of the word "necessary." In one way it means anything which of its nature cannot be otherwise; and in this way it is evident that it was not necessary either on the part of God or on the part of man for Christ to suffer. In another sense a thing may be necessary from some cause quite apart from itself; and should this be either an efficient or a moving cause then it brings about the necessity of compulsion; as, for instance, when a man cannot get away owing to the violence of someone else holding him. But if the external factor which induces necessity be an end, then it will be said to be necessary from presupposing such end---namely, when some particular end cannot exist at all, or not conveniently, except such end be presupposed. It was not necessary, then, for Christ to suffer from necessity of compulsion, either on God's part, who ruled that Christ should suffer, or on Christ's own part, who suffered voluntarily. Yet it was necessary from necessity of the end proposed; and this can be accepted in three ways. First of all, on our part, who have been delivered by His Passion, according to John (3:14): "The Son of man must be lifted up, that whosoever believeth in Him may not perish, but may have life everlasting." Secondly, on Christ's part, who merited the glory of being exalted, through the lowliness of His Passion: and to this must be referred Lk. 24:26: "Ought not Christ to have suffered these things, and so to enter into His glory?" Thirdly, on God's part, whose determination regarding the Passion of Christ, foretold in the Scriptures and prefigured in the observances of the Old Testament, had to be fulfilled. And this is what St. Luke says (22:22): "The Son of man indeed goeth, according to that which is determined"; and (Lk. 24:44, 46): "These are the words which I spoke to you while I was yet with you, that all things must needs be fulfilled which are written in the law of Moses, and in the prophets, and in the psalms concerning Me: for it is thus written, and thus it behooved Christ to suffer, and to rise again from the dead."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is based on the necessity of compulsion on God's part.
 
@@ -40,9 +40,9 @@ Reply to Objection 2: This argument rests on the necessity of compulsion on the 
 Reply to Objection 3: That man should be delivered by Christ's Passion was in keeping with both His mercy and His justice. With His justice, because by His Passion Christ made satisfaction for the sin of the human race; and so man was set free by Christ's justice: and with His mercy, for since man of himself could not satisfy for the sin of all human nature, as was said above ([4227]Q[1], A[2]), God gave him His Son to satisfy for him, according to Rom. 3:24,25: "Being justified freely by His grace, through the redemption that is in Christ Jesus, whom God hath proposed to be a propitiation, through faith in His blood." And this came of more copious mercy than if He had forgiven sins without satisfaction. Hence it is said (Eph. 2:4): "God, who is rich in mercy, for His exceeding charity wherewith He loved us, even when we were dead in sins, hath quickened us together in Christ."
 
 Reply to Objection 4: The sin of the angels was irreparable; not so the sin of the first man ([4228]FP, Q[64], A[2]).
-## Whether There Was Any Other Possible Way Of Human Deliverance Besides The Passion Of Christ?
+### Whether There Was Any Other Possible Way Of Human Deliverance Besides The Passion Of Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there was no other possible way of human deliverance besides Christ's Passion. For our Lord says (Jn. 12:24): "Amen, amen I say to you, unless the grain of wheat falling into the ground dieth, itself remaineth alone; but if it die, it bringeth forth much fruit." Upon this St. Augustine (Tract. li) observes that "Christ called Himself the seed." Consequently, unless He suffered death, He would not otherwise have produced the fruit of our redemption.
 
@@ -52,13 +52,13 @@ Objection 3: Further, God's justice required that Christ should satisfy by the P
 
 Objection 4: Further, there can be no falsehood underlying faith. But the Fathers of old believed that Christ would suffer. Consequently, it seems that it had to be that Christ should suffer.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xiii): "We assert that the way whereby God deigned to deliver us by the man Jesus Christ, who is mediator between God and man, is both good and befitting the Divine dignity; but let us also show that other possible means were not lacking on God's part, to whose power all things are equally subordinate."
 
 I answer that, A thing may be said to be possible or impossible in two ways: first of all, simply and absolutely; or secondly, from supposition. Therefore, speaking simply and absolutely, it was possible for God to deliver mankind otherwise than by the Passion of Christ, because "no word shall be impossible with God" (Lk. 1:37). Yet it was impossible if some supposition be made. For since it is impossible for God's foreknowledge to be deceived and His will or ordinance to be frustrated, then, supposing God's foreknowledge and ordinance regarding Christ's Passion, it was not possible at the same time for Christ not to suffer, and for mankind to be delivered otherwise than by Christ's Passion. And the same holds good of all things foreknown and preordained by God, as was laid down in the [4229]FP, Q[14], A[13].
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord is speaking there presupposing God's foreknowledge and predetermination, according to which it was resolved that the fruit of man's salvation should not follow unless Christ suffered.
 
@@ -67,9 +67,9 @@ Reply to Objection 2: In the same way we must understand what is here objected t
 Reply to Objection 3: Even this justice depends on the Divine will, requiring satisfaction for sin from the human race. But if He had willed to free man from sin without any satisfaction, He would not have acted against justice. For a judge, while preserving justice, cannot pardon fault without penalty, if he must visit fault committed against another---for instance, against another man, or against the State, or any Prince in higher authority. But God has no one higher than Himself, for He is the sovereign and common good of the whole universe. Consequently, if He forgive sin, which has the formality of fault in that it is committed against Himself, He wrongs no one: just as anyone else, overlooking a personal trespass, without satisfaction, acts mercifully and not unjustly. And so David exclaimed when he sought mercy: "To Thee only have I sinned" (Ps. 50:6), as if to say: "Thou canst pardon me without injustice."
 
 Reply to Objection 4: Human faith, and even the Divine Scriptures upon which faith is based, are both based on the Divine foreknowledge and ordinance. And the same reason holds good of that necessity which comes of supposition, and of the necessity which arises of the Divine foreknowledge and will.
-## Whether There Was Any More Suitable Way Of Delivering The Human Race Than By Christ's Passion?
+### Whether There Was Any More Suitable Way Of Delivering The Human Race Than By Christ's Passion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there was some other more suitable way of delivering the human race besides Christ's Passion. For nature in its operation imitates the Divine work, since it is moved and regulated by God. But nature never employs two agents where one will suffice. Therefore, since God could have liberated mankind solely by His Divine will, it does not seem fitting that Christ's Passion should have been added for the deliverance of the human race.
 
@@ -77,22 +77,22 @@ Objection 2: Further, natural actions are more suitably performed than deeds of 
 
 Objection 3: Further, it seems most fitting that whatsoever keeps something unjustly and by violence, should be deprived of it by some superior power; hence Isaias says (52:3): "You were sold gratis, and you shall be redeemed without money." But the devil possessed no right over man, whom he had deceived by guile, and whom he held subject in servitude by a sort of violence. Therefore it seems most suitable that Christ should have despoiled the devil solely by His power and without the Passion.
 
-### Answer
+**Answer**
 
 On the contrary, St. Augustine says (De Trin. xiii): "There was no other more suitable way of healing our misery" than by the Passion of Christ.
 
 I answer that, Among means to an end that one is the more suitable whereby the various concurring means employed are themselves helpful to such end. But in this that man was delivered by Christ's Passion, many other things besides deliverance from sin concurred for man's salvation. In the first place, man knows thereby how much God loves him, and is thereby stirred to love Him in return, and herein lies the perfection of human salvation; hence the Apostle says (Rom. 5:8): "God commendeth His charity towards us; for when as yet we were sinners . . . Christ died for us." Secondly, because thereby He set us an example of obedience, humility, constancy, justice, and the other virtues displayed in the Passion, which are requisite for man's salvation. Hence it is written (1 Pet. 2:21): "Christ also suffered for us, leaving you an example that you should follow in His steps." Thirdly, because Christ by His Passion not only delivered man from sin, but also merited justifying grace for him and the glory of bliss, as shall be shown later ([4230]Q[48], A[1];[4231] Q[49], AA[1], 5). Fourthly, because by this man is all the more bound to refrain from sin, according to 1 Cor. 6:20: "You are bought with a great price: glorify and bear God in your body." Fifthly, because it redounded to man's greater dignity, that as man was overcome and deceived by the devil, so also it should be a man that should overthrow the devil; and as man deserved death, so a man by dying should vanquish death. Hence it is written (1 Cor. 15:57): "Thanks be to God who hath given us the victory through our Lord Jesus Christ." It was accordingly more fitting that we should be delivered by Christ's Passion than simply by God's good-will.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Even nature uses several means to one intent, in order to do something more fittingly: as two eyes for seeing; and the same can be observed in other matters.
 
 Reply to Objection 2: As Chrysostom [*Athanasius, Orat. De Incarn. Verb.] says: "Christ had come in order to destroy death, not His own, (for since He is life itself, death could not be His), but men's death. Hence it was not by reason of His being bound to die that He laid His body aside, but because the death He endured was inflicted on Him by men. But even if His body had sickened and dissolved in the sight of all men, it was not befitting Him who healed the infirmities of others to have his own body afflicted with the same. And even had He laid His body aside without any sickness, and had then appeared, men would not have believed Him when He spoke of His resurrection. For how could Christ's victory over death appear, unless He endured it in the sight of all men, and so proved that death was vanquished by the incorruption of His body?"
 
 Reply to Objection 3: Although the devil assailed man unjustly, nevertheless, on account of sin, man was justly left by God under the devil's bondage. And therefore it was fitting that through justice man should be delivered from the devil's bondage by Christ making satisfaction on his behalf in the Passion. This was also a fitting means of overthrowing the pride of the devil, "who is a deserter from justice, and covetous of sway"; in that Christ "should vanquish him and deliver man, not merely by the power of His Godhead, but likewise by the justice and lowliness of the Passion," as Augustine says (De Trin. xiii).
-## Whether Christ Ought To Have Suffered On The Cross?
+### Whether Christ Ought To Have Suffered On The Cross?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ ought not to have suffered on the cross. For the truth ought to conform to the figure. But in all the sacrifices of the Old Testament which prefigured Christ the beasts were slain with a sword and afterwards consumed by fire. Therefore it seems that Christ ought not to have suffered on a cross, but rather by the sword or by fire.
 
@@ -100,7 +100,7 @@ Objection 2: Further, Damascene says (De Fide Orth. iii) that Christ ought not t
 
 Objection 3: Further, it was said of Christ (Mat. 21:9): "Blessed is He that cometh in the name of the Lord." But death upon the cross was a death of malediction, as we read Dt. 21:23: "He is accursed of God that hangeth on a tree." Therefore it does not seem fitting for Christ to be crucified.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Phil. 2:8): "He became obedient unto death, even the death of the cross."
 
@@ -120,16 +120,16 @@ The sixth reason is because of the various virtues denoted by this class of deat
 
 The seventh reason is because this kind of death responds to very many figures. For, as Augustine says in a sermon on the Passion (Serm. ci De Tempore), an ark of wood preserved the human race from the waters of the Deluge; at the exodus of God's people from Egypt, Moses with a rod divided the sea, overthrew Pharaoh and saved the people of God. the same Moses dipped his rod into the water, changing it from bitter to sweet; at the touch of a wooden rod a salutary spring gushed forth from a spiritual rock; likewise, in order to overcome Amalec, Moses stretched forth his arms with rod in hand; lastly, God's law is entrusted to the wooden Ark of the Covenant; all of which are like steps by which we mount to the wood of the cross.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The altar of holocausts, upon which the sacrifices of animals were immolated, was constructed of timbers, as is set forth Ex. 27:, and in this respect the truth answers to the figure; but "it is not necessary for it to be likened in every respect, otherwise it would not be a likeness," but the reality, as Damascene says (De Fide Orth. iii). But. in particular, as Chrysostom [*Athanasius, vide A, III, ad 2] says: "His head is not cut off, as was done to John; nor was He sawn in twain, like Isaias, in order that His entire and indivisible body might obey death, and that there might be no excuse for them who want to divide the Church." While, instead of material fire, there was the spiritual fire of charity in Christ's holocaust.
 
 Reply to Objection 2: Christ refused to undergo dishonorable sufferings which are allied with defects of knowledge, or of grace, or even of virtue, but not those injuries inflicted from without---nay, more, as is written Heb. 12:2: "He endured the cross, despising the shame."
 
 Reply to Objection 3: As Augustine says (Contra Faust. xiv), sin is accursed, and, consequently, so is death, and mortality, which comes of sin. "But Christ's flesh was mortal, 'having the resemblance of the flesh of sin'"; and hence Moses calls it "accursed," just as the Apostle calls it "sin," saying (2 Cor. 5:21): "Him that knew no sin, for us He hath made sin"---namely, because of the penalty of sin. "Nor is there greater ignominy on that account, because he said: 'He is accursed of God.'" For, "unless God had hated sin, He would never have sent His Son to take upon Himself our death, and to destroy it. Acknowledge, then, that it was for us He took the curse upon Himself, whom you confess to have died for us." Hence it is written (Gal. 3:13): "Christ hath redeemed us from the curse of the law, being made a curse for us."
-## Whether Christ Endured All Suffering?
+### Whether Christ Endured All Suffering?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ did endure all sufferings, because Hilary (De Trin. x) says: "God's only-begotten Son testifies that He endured every kind of human sufferings in order to accomplish the sacrament of His death, when with bowed head He gave up the ghost." It seems, therefore, that He did endure all human sufferings.
 
@@ -137,7 +137,7 @@ Objection 2: Further, it is written (Is. 52:13): "Behold My servant shall unders
 
 Objection 3: Further, Christ's Passion was ordained for man's deliverance from sin, as stated above [4232](A[3]). But Christ came to deliver men from every kind of sin. Therefore He ought to have endured every kind of suffering.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 19:32): "The soldiers therefore came: and they broke the legs of the first, and of the other who was crucified with Him; but after they were come to Jesus, when they saw that He was already dead, they did not break His legs." Consequently, He did not endure every human suffering.
 
@@ -147,16 +147,16 @@ Secondly, the same is evident on the part of the sufferings which a man can endu
 
 Thirdly, it may be considered with regard to His bodily members. In His head He suffered from the crown of piercing thorns; in His hands and feet, from the fastening of the nails; on His face from the blows and spittle; and from the lashes over His entire body. Moreover, He suffered in all His bodily senses: in touch, by being scourged and nailed; in taste, by being given vinegar and gall to drink; in smell, by being fastened to the gibbet in a place reeking with the stench of corpses, "which is called Calvary"; in hearing, by being tormented with the cries of blasphemers and scorners; in sight, by beholding the tears of His Mother and of the disciple whom He loved.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Hilary's words are to be understood as to all classes of sufferings, but not as to their kinds.
 
 Reply to Objection 2: The likeness is sustained, not as to the number of the sufferings and graces, but as to their greatness; for, as He was uplifted above others in gifts of graces, so was He lowered beneath others by the ignominy of His sufferings.
 
 Reply to Objection 3: The very least one of Christ's sufferings was sufficient of itself to redeem the human race from all sins; but as to fittingness, it sufficed that He should endure all classes of sufferings, as stated above.
-## Whether The Pain Of Christ's Passion Was Greater Than All Other Pains?
+### Whether The Pain Of Christ's Passion Was Greater Than All Other Pains?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the pain of Christ's Passion was not greater than all other pains. For the sufferer's pain is increased by the sharpness and the duration of the suffering. But some of the martyrs endured sharper and more prolonged pains than Christ, as is seen in St. Lawrence, who was roasted upon a gridiron; and in St. Vincent, whose flesh was torn with iron pincers. Therefore it seems that the pain of the suffering Christ was not the greatest.
 
@@ -170,7 +170,7 @@ Objection 5: Further, the victim's innocence lessens the sting of his sufferings
 
 Objection 6: Further, there was nothing superfluous in Christ's conduct. But the slightest pain would have sufficed to secure man's salvation, because from His Divine Person it would have had infinite virtue. Therefore it would have been superfluous to choose the greatest of all pains.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lam. 1:12) on behalf of Christ's Person: "O all ye that pass by the way attend, and see if there be any sorrow like unto My sorrow."
 
@@ -184,7 +184,7 @@ Fourthly, the magnitude of the pain of Christ's suffering can be reckoned by thi
 
 From all these causes weighed together, it follows that Christ's pain was the very greatest.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument follows from only one of the considerations adduced---namely, from the bodily injury, which is the cause of sensitive pain; but the torment of the suffering Christ is much more intensified from other causes, as above stated.
 
@@ -197,9 +197,9 @@ Reply to Objection 4: Christ grieved not only over the loss of His own bodily li
 Reply to Objection 5: The sufferer's innocence does lessen numerically the pain of the suffering, since, when a guilty man suffers, he grieves not merely on account of the penalty, but also because of the crime. whereas the innocent man grieves only for the penalty: yet this pain is more intensified by reason of his innocence, in so far as he deems the hurt inflicted to be the more undeserved. Hence it is that even others are more deserving of blame if they do not compassionate him. according to Is. 57:1: "The just perisheth, and no man layeth it to heart."
 
 Reply to Objection 6: Christ willed to deliver the human race from sins not merely by His power, but also according to justice. And therefore He did not simply weigh what great virtue His suffering would have from union with the Godhead, but also how much, according to His human nature, His pain would avail for so great a satisfaction.
-## Whether Christ Suffered In His Whole Soul?
+### Whether Christ Suffered In His Whole Soul?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ did not suffer in His whole soul. For the soul suffers indirectly when the body suffers, inasmuch as it is the "act of the body." But the soul is not, as to its every part, the "act of the body"; because the intellect is the act of no body, as is said De Anima iii. Therefore it seems that Christ did not suffer in His whole soul.
 
@@ -209,7 +209,7 @@ Objection 3: Further, a sensitive passion is said to be complete when it comes i
 
 Objection 4: Further, suffering causes pain: but there is no pain in the speculative intellect, because, as the Philosopher says (Topic. i), "there is no sadness in opposition to the pleasure which comes of consideration." Therefore it seems that Christ did not suffer in His whole soul.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 87:4) on behalf of Christ: "My soul is filled with evils": upon which the gloss adds: "Not with vices, but with woes, whereby the soul suffers with the flesh; or with evils, viz. of a perishing people, by compassionating them." But His soul would not have been filled with these evils except He had suffered in His whole soul. Therefore Christ suffered in His entire soul.
 
@@ -217,7 +217,7 @@ I answer that, A whole is so termed with respect to its parts. But the parts of 
 
 So, then, we say that if the soul be considered with respect to its essence, it is evident that Christ's whole soul suffered. For the soul's whole essence is allied with the body, so that it is entire in the whole body and in its every part. Consequently, when the body suffered and was disposed to separate from the soul, the entire soul suffered. But if we consider the whole soul according to its faculties, speaking thus of the proper passions of the faculties, He suffered indeed as to all His lower powers; because in all the soul's lower powers, whose operations are but temporal, there was something to be found which was a source of woe to Christ, as is evident from what was said above [4236](A[6]). But Christ's higher reason did not suffer thereby on the part of its object, which is God, who was the cause, not of grief, but rather of delight and joy, to the soul of Christ. Nevertheless, all the powers of Christ's soul did suffer according as any faculty is said to be affected as regards its subject, because all the faculties of Christ's soul were rooted in its essence, to which suffering extended when the body, whose act it is, suffered.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the intellect as a faculty is not the act of the body, still the soul's essence is the act of the body, and in it the intellective faculty is rooted, as was shown in the [4237]FP, Q[77], AA[6],8.
 
@@ -226,9 +226,9 @@ Reply to Objection 2: This argument proceeds from passion on the part of the pro
 Reply to Objection 3: Grief is then said to be a true passion, by which the soul is troubled, when the passion in the sensitive part causes reason to deflect from the rectitude of its act, so that it then follows the passion, and has no longer free-will with regard to it. In this way passion of the sensitive part did not extend to reason in Christ, but merely subjectively, as was stated above.
 
 Reply to Objection 4: The speculative intellect can have no pain or sadness on the part of its object, which is truth considered absolutely, and which is its perfection: nevertheless, both grief and its cause can reach it in the way mentioned above.
-## Whether Christ's Entire Soul Enjoyed Blessed Fruition During The Passion?
+### Whether Christ's Entire Soul Enjoyed Blessed Fruition During The Passion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ's entire soul did not enjoy blessed fruition during the Passion. For it is not possible to be sad and glad at the one time, since sadness and gladness are contraries. But Christ's whole soul suffered grief during the Passion, as was stated above [4238](A[7]). Therefore His whole soul could not enjoy fruition.
 
@@ -236,22 +236,22 @@ Objection 2: Further, the Philosopher says (Ethic. vii) that, if sadness be vehe
 
 Objection 3: Further, beatific "fruition" comes of the knowledge and love of Divine things, as Augustine says (Doctr. Christ. i). But all the soul's powers do not extend to the knowledge and love of God. Therefore Christ's whole soul did not enjoy fruition.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iii): Christ's Godhead "permitted His flesh to do and to suffer what was proper to it." In like fashion, since it belonged to Christ's soul, inasmuch as it was blessed, to enjoy fruition, His Passion did not impede fruition.
 
 I answer that, As stated above [4241](A[7]), the whole soul can be understood both according to its essence and according to all its faculties. If it be understood according to its essence, then His whole soul did enjoy fruition, inasmuch as it is the subject of the higher part of the soul, to which it belongs, to enjoy the Godhead: so that as passion, by reason of the essence, is attributed to the higher part of the soul, so, on the other hand, by reason of the superior part of the soul, fruition is attributed to the essence. But if we take the whole soul as comprising all its faculties, thus His entire soul did not enjoy fruition: not directly, indeed, because fruition is not the act of any one part of the soul; nor by any overflow of glory, because, since Christ was still upon earth, there was no overflowing of glory from the higher part into the lower, nor from the soul into the body. But since, on the contrary, the soul's higher part was not hindered in its proper acts by the lower, it follows that the higher part of His soul enjoyed fruition perfectly while Christ was suffering.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The joy of fruition is not opposed directly to the grief of the Passion, because they have not the same object. Now nothing prevents contraries from being in the same subject, but not according to the same. And so the joy of fruition can appertain to the higher part of reason by its proper act; but grief of the Passion according to the subject. Grief of the Passion belongs to the essence of the soul by reason of the body, whose form the soul is; whereas the joy of fruition (belongs to the soul) by reason of the faculty in which it is subjected.
 
 Reply to Objection 2: The Philosopher's contention is true because of the overflow which takes place naturally of one faculty of the soul into another; but it was not so with Christ, as was said above.
 
 Reply to Objection 3: Such argument holds good of the totality of the soul with regard to its faculties.
-## Whether Christ Suffered At A Suitable Time?
+### Whether Christ Suffered At A Suitable Time?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ did not suffer at a suitable time. For Christ's Passion was prefigured by the sacrifice of the Paschal lamb: hence the Apostle says (1 Cor. 5:7): "Christ our Pasch is sacrificed." But the paschal lamb was slain "on the fourteenth day at eventide," as is stated in Ex. 12:6. Therefore it seems that Christ ought to have suffered then; which is manifestly false: for He was then celebrating the Pasch with His disciples, according to Mark's account (14:12): "On the first day of the unleavened bread, when they sacrificed the Pasch"; whereas it was on the following day that He suffered.
 
@@ -261,13 +261,13 @@ Objection 3: Further, as the sun is at its highest point in each day at the sixt
 
 Objection 4: Further, the world was enlightened by Christ's presence in it, according to Jn. 9:5: "As long as I am in the world I am the light of the world." Consequently it was fitting for man's salvation that Christ should have lived longer in the world, so that He should have suffered, not in young, but in old, age.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 13:1): "Jesus, knowing that His hour was come for Him to pass out of this world to the Father"; and (Jn. 2:4): "My hour is not yet come." Upon which texts Augustine observes: "When He had done as much as He deemed sufficient, then came His hour, not of necessity, but of will, not of condition, but of power." Therefore Christ died at an opportune time.
 
 I answer that, As was observed above [4242](A[1]), Christ's Passion was subject to His will. But His will was ruled by the Divine wisdom which "ordereth all things" conveniently and "sweetly" (Wis. 8:1). Consequently it must be said that Christ's Passion was enacted at an opportune time. Hence it is written in De Qq. Vet. et Nov. Test., qu. lv: "The Saviour did everything in its proper place and season."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Some hold that Christ did die on the fourteenth day of the moon, when the Jews sacrificed the Pasch: hence it is stated (Jn. 18:28) that the Jews "went not into Pilate's hall" on the day of the Passion, "that they might not be defiled, but that they might eat the Pasch." Upon this Chrysostom observes (Hom. lxxxii in Joan.): "The Jews celebrated the Pasch then; but He celebrated the Pasch on the previous day, reserving His own slaying until the Friday, when the old Pasch was kept." And this appears to tally with the statement (Jn. 13:1-5) that "before the festival day of the Pasch . . . when supper was done" . . . Christ washed "the feet of the disciples."
 
@@ -276,9 +276,9 @@ Reply to Objection 2: As Augustine says (De Consensu Evang. iii): "'It was about
 Reply to Objection 3: According to the author of De Qq. Vet. et Nov. Test., qu. lv, "our Lord willed to redeem and reform the world by His Passion, at the time of year at which He had created it---that is, at the equinox. It is then that day grows upon night; because by our Saviour's Passion we are brought from darkness to light." And since the perfect enlightening will come about at Christ's second coming, therefore the season of His second coming is compared (Mat. 24:32,33) to the summer in these words: "When the branch thereof is now tender, and the leaves come forth, you know that summer is nigh: so you also, when you shall see all these things, know ye that it is nigh even at the doors." And then also shall be Christ's greatest exaltation.
 
 Reply to Objection 4: Christ willed to suffer while yet young, for three reasons. First of all, to commend the more His love by giving up His life for us when He was in His most perfect state of life. Secondly, because it was not becoming for Him to show any decay of nature nor to be subject to disease, as stated above ([4243]Q[14], A[4]). Thirdly, that by dying and rising at an early age Christ might exhibit beforehand in His own person the future condition of those who rise again. Hence it is written (Eph. 4:13): "Until we all meet into the unity of faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fulness of Christ."
-## Whether Christ Suffered In A Suitable Place?
+### Whether Christ Suffered In A Suitable Place?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ did not suffer in a suitable place. For Christ suffered according to His human nature, which was conceived in Nazareth and born in Bethlehem. Consequently it seems that He ought not to have suffered in Jerusalem, but in Nazareth or Bethlehem.
 
@@ -286,22 +286,22 @@ Objection 2: Further, the reality ought to correspond with the figure. But Chris
 
 Objection 3: Further, the medicine should correspond with the disease. But Christ's Passion was the medicine against Adam's sin: and Adam was not buried in Jerusalem, but in Hebron; for it is written (Josh. 14:15): "The name of Hebron before was called Cariath-Arbe: Adam the greatest in the land of [Vulg.: 'among'] the Enacims was laid there."
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 13:33): "It cannot be that a prophet perish out of Jerusalem." Therefore it was fitting that He should die in Jerusalem.
 
 I answer that, According to the author of De Qq. Vet. et Nov. Test., qu. lv, "the Saviour did everything in its proper place and season," because, as all things are in His hands, so are all places: and consequently, since Christ suffered at a suitable time, so did He in a suitable place.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ died most appropriately in Jerusalem. First of all, because Jerusalem was God's chosen place for the offering of sacrifices to Himself: and these figurative sacrifices foreshadowed Christ's Passion, which is a true sacrifice, according to Eph. 5:2: "He hath delivered Himself for us, an oblation and a sacrifice to God for an odor of sweetness." Hence Bede says in a Homily (xxiii): "When the Passion drew nigh, our Lord willed to draw nigh to the place of the Passion"---that is to say, to Jerusalem---whither He came five days before the Pasch; just as, according to the legal precept, the Paschal lamb was led to the place of immolation five days before the Pasch, which is the tenth day of the moon.
 
 Reply to Objection 2: For three reasons Christ suffered outside the gate, and not in the Temple nor in the city. First of all, that the truth might correspond with the figure. For the calf and the goat which were offered in most solemn sacrifice for expiation on behalf of the entire multitude were burnt outside the camp, as commanded in Lev. 16:27. Hence it is written (Heb. 13:27): "For the bodies of those beasts, whose blood is brought into the holies by the high-priest for sin, are burned without the camp. Wherefore Jesus also, that He might sanctify the people by His own blood, suffered without the gate."
 
 Reply to Objection 3: According to Jerome, in his commentary on Mat. 27:33, "someone explained 'the place of Calvary' as being the place where Adam was buried; and that it was so called because the skull of the first man was buried there. A pleasing interpretation indeed, and one suited to catch the ear of the people, but, still, not the true one. For the spots where the condemned are beheaded are outside the city and beyond the gates, deriving thence the name of Calvary---that is, of the beheaded. Jesus, accordingly, was crucified there, that the standards of martyrdom might be uplifted over what was formerly the place of the condemned. But Adam was buried close by Hebron and Arbe, as we read in the book of Jesus Ben Nave." But Jesus was to be crucified in the common spot of the condemned rather than beside Adam's sepulchre, to make it manifest that Christ's cross was the remedy, not only for Adam's personal sin, but also for the sin of the entire world.
-## Whether It Was Fitting For Christ To Be Crucified With Thieves?
+### Whether It Was Fitting For Christ To Be Crucified With Thieves?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unfitting for Christ to have been crucified with thieves, because it is written (2 Cor. 6:14): "What participation hath justice with injustice?" But for our sakes Christ "of God is made unto us justice" (1 Cor. 1:30); whereas iniquity applies to thieves. Therefore it was not fitting for Christ to be crucified with thieves.
 
@@ -309,7 +309,7 @@ Objection 2: Further, on Mat. 26:35, "Though I should die with Thee, I will not 
 
 Objection 3: Further, it is written (Mat. 27:44) that "the thieves who were crucified with Him reproached Him." But in Lk. 22:42 it is stated that one of them who were crucified with Christ cried out to Him: "Lord, remember me when Thou shalt come into Thy kingdom." It seems, then, that besides the blasphemous thieves there was another man who did not blaspheme Him: and so the Evangelist's account does not seem to be accurate when it says that Christ was crucified with thieves.
 
-### Answer
+**Answer**
 
 On the contrary, It was foretold by Isaias (53:12): "And He was reputed with the wicked."
 
@@ -317,16 +317,16 @@ I answer that, Christ was crucified between thieves from one intention on the pa
 
 As to God's ordinance, Christ was crucified with thieves, because, as Jerome says on Mat. 27:33: "As Christ became accursed of the cross for us, so for our salvation He was crucified as a guilty one among the guilty." Secondly, as Pope Leo observes (Serm. iv de Passione): "Two thieves were crucified, one on His right hand and one on His left, to set forth by the very appearance of the gibbet that separation of all men which shall be made in His hour of judgment." And Augustine on Jn. 7:36: "The very cross, if thou mark it well, was a judgment-seat: for the judge being set in the midst, the one who believed was delivered, the other who mocked Him was condemned. Already He has signified what He shall do to the quick and the dead; some He will set on His right, others on His left hand." Thirdly, according to Hilary (Comm. xxxiii in Matth.): "Two thieves are set, one upon His right and one upon His left, to show that all mankind is called to the sacrament of His Passion. But because of the cleavage between believers and unbelievers, the multitude is divided into right and left, those on the right being saved by the justification of faith." Fourthly, because, as Bede says on Mk. 15:27: "The thieves crucified with our Lord denote those who, believing in and confessing Christ, either endure the conflict of martyrdom or keep the institutes of stricter observance. But those who do the like for the sake of everlasting glory are denoted by the faith of the thief on the right; while others who do so for the sake of human applause copy the mind and behavior of the one on the left."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as Christ was not obliged to die, but willingly submitted to death so as to vanquish death by His power: so neither deserved He to be classed with thieves; but willed to be reputed with the ungodly that He might destroy ungodliness by His power. Accordingly, Chrysostom says (Hom. lxxxiv in Joan.) that "to convert the thief upon the cross, and lead him into paradise, was no less a wonder than to shake the rocks."
 
 Reply to Objection 2: It was not fitting that anyone else should die with Christ from the same cause as Christ: hence Origen continues thus in the same passage: "All had been under sin, and all required that another should die for them, not they for others."
 
 Reply to Objection 3: As Augustine says (De Consensu Evang. iii): We can understand Matthew "as putting the plural for the singular" when he said "the thieves reproached Him." Or it may be said, with Jerome, that "at first both blasphemed Him, but afterwards one believed in Him on witnessing the wonders."
-## Whether Christ's Passion Is To Be Attributed To His Godhead?
+### Whether Christ's Passion Is To Be Attributed To His Godhead?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ's Passion is to be attributed to His Godhead; for it is written (1 Cor. 2:8): "If they had known it, they would never have crucified the Lord of glory." But Christ is the Lord of glory in respect of His Godhead. Therefore Christ's Passion is attributed to Him in respect of His Godhead.
 
@@ -334,13 +334,13 @@ Objection 2: Further, the principle of men's salvation is the Godhead Itself, ac
 
 Objection 3: Further, the Jews were punished for slaying Christ as for murdering God Himself; as is proved by the gravity of the punishment. Now this would not be so if the Passion were not attributed to the Godhead. Therefore Christ's Passion should be so attributed.
 
-### Answer
+**Answer**
 
 On the contrary, Athanasius says (Ep. ad Epict.): "The Word is impassible whose Nature is Divine." But what is impassible cannot suffer. Consequently, Christ's Passion did not concern His Godhead.
 
 I answer that, As stated above ([4244]Q[2], AA[1],2,3,6), the union of the human nature with the Divine was effected in the Person, in the hypostasis, in the suppositum, yet observing the distinction of natures; so that it is the same Person and hypostasis of the Divine and human natures, while each nature retains that which is proper to it. And therefore, as stated above ([4245]Q[16], A[4]), the Passion is to be attributed to the suppositum of the Divine Nature, not because of the Divine Nature, which is impassible, but by reason of the human nature. Hence, in a Synodal Epistle of Cyril [*Act. Conc. Ephes., P. i, cap. 26] we read: "If any man does not confess that the Word of God suffered in the flesh and was crucified in the flesh, let him be anathema." Therefore Christ's Passion belongs to the "suppositum" of the Divine Nature by reason of the passible nature assumed, but not on account of the impassible Divine Nature.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Lord of glory is said to be crucified, not as the Lord of glory, but as a man capable of suffering.
 

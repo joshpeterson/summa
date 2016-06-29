@@ -7,9 +7,9 @@ We must now consider the vices opposed to prudence. For Augustine says (Contra J
 (4) Of thoughtlessness;
 (5) Of inconstancy;
 (6) Concerning the origin of these vices.
-## Whether Imprudence Is A Sin?
+### Whether Imprudence Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that imprudence is not a sin. For every sin is voluntary, according to Augustine [*De Vera Relig. xiv]; whereas imprudence is not voluntary, since no man wishes to be imprudent. Therefore imprudence is not a sin.
 
@@ -17,7 +17,7 @@ Objection 2: Further, none but original sin comes to man with his birth. But imp
 
 Objection 3: Further, every sin is taken away by repentance. But imprudence is not taken away by repentance. Therefore imprudence is not a sin.
 
-### Answer
+**Answer**
 
 On the contrary, The spiritual treasure of grace is not taken away save by sin. But it is taken away by imprudence, according to Prov. 21:20, "There is a treasure to be desired, and oil in the dwelling of the just, and the imprudent [Douay: 'foolish'] man shall spend it." Therefore imprudence is a sin.
 
@@ -25,16 +25,16 @@ I answer that, Imprudence may be taken in two ways, first, as a privation, secon
 
 Imprudence is taken as a contrary, in so far as the movement or act of reason is in opposition to prudence: for instance, whereas the right reason of prudence acts by taking counsel, the imprudent man despises counsel, and the same applies to the other conditions which require consideration in the act of prudence. In this way imprudence is a sin in respect of prudence considered under its proper aspect, since it is not possible for a man to act against prudence, except by infringing the rules on which the right reason of prudence depends. Wherefore, if this should happen through aversion from the Divine Law, it will be a mortal sin, as when a man acts precipitately through contempt and rejection of the Divine teaching: whereas if he act beside the Law and without contempt, and without detriment to things necessary for salvation, it will be a venial sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: No man desires the deformity of imprudence, but the rash man wills the act of imprudence, because he wishes to act precipitately. Hence the Philosopher says (Ethic. vi, 5) that "he who sins willingly against prudence is less to be commended."
 
 Reply to Objection 2: This argument takes imprudence in the negative sense. It must be observed however that lack of prudence or of any other virtue is included in the lack of original justice which perfected the entire soul. Accordingly all such lack of virtue may be ascribed to original sin.
 
 Reply to Objection 3: Repentance restores infused prudence, and thus the lack of this prudence ceases; but acquired prudence is not restored as to the habit, although the contrary act is taken away, wherein properly speaking the sin of imprudence consists.
-## Whether Imprudence Is A Special Sin?
+### Whether Imprudence Is A Special Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that imprudence is not a special sin. For whoever sins, acts against right reason, i.e. against prudence. But imprudence consists in acting against prudence, as stated above [2812](A[1]). Therefore imprudence is not a special sin.
 
@@ -42,7 +42,7 @@ Objection 2: Further, prudence is more akin to moral action than knowledge is. B
 
 Objection 3: Further, sin consists in the corruption of the circumstances of virtue, wherefore Dionysius says (Div. Nom. iv) that "evil results from each single defect." Now many things are requisite for prudence; for instance, reason, intelligence docility, and so on, as stated above (QQ[48],49). Therefore there are many species of imprudence, so that it is not a special sin.
 
-### Answer
+**Answer**
 
 On the contrary, Imprudence is opposed to prudence, as stated above [2813](A[1]). Now prudence is a special virtue. Therefore imprudence too is one special vice.
 
@@ -50,16 +50,16 @@ I answer that, A vice or sin may be styled general in two ways; first, absolutel
 
 If, on the other hand, a sin be called general, not simply but in some particular genus, that is, as containing several species of sin, then imprudence is a general sin. For it contains various species in three ways. First, by opposition to the various subjective parts of prudence, for just as we distinguish the prudence that guides the individual, from other kinds that govern communities, as stated above ([2814]Q[48]; Q[50], A[7] ), so also we distinguish various kinds of imprudence. Secondly, in respect of the quasi-potential parts of prudence, which are virtues connected with it, and correspond to the several acts of reason. Thus, by defect of "counsel" to which {euboulia} (deliberating well) corresponds, "precipitation" or "temerity" is a species of imprudence; by defect of "judgment," to which {synesis} (judging well according to common law) and {gnome} (judging well according to general law) refer, there is "thoughtlessness"; while "inconstancy" and "negligence" correspond to the "command" which is the proper act of prudence. Thirdly, this may be taken by opposition to those things which are requisite for prudence, which are the quasi-integral parts of prudence. Since however all these things are intended for the direction of the aforesaid three acts of reason, it follows that all the opposite defects are reducible to the four parts mentioned above. Thus incautiousness and incircumspection are included in "thoughtlessness"; lack of docility, memory, or reason is referable to "precipitation"; improvidence, lack of intelligence and of shrewdness, belong to "negligence" and "inconstancy."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument considers generality by participation.
 
 Reply to Objection 2: Since knowledge is further removed from morality than prudence is, according to their respective proper natures, it follows that ignorance has the nature of mortal sin, not of itself, but on account either of a preceding negligence, or of the consequent result, and for this reason it is reckoned one of the general causes of sin. On the other hand imprudence, by its very nature, denotes a moral vice; and for this reason it can be called a special sin.
 
 Reply to Objection 3: When various circumstances are corrupted for the same motive, the species of sin is not multiplied: thus it is the same species of sin to take what is not one's own, where one ought not, and when one ought not. If, however, there be various motives, there are various species: for instance, if one man were to take another's property from where he ought not, so as to wrong a sacred place, this would constitute the species called sacrilege, while if another were to take another's property when he ought not, merely through the lust of possession, this would be a case of simple avarice. Hence the lack of those things which are requisite for prudence, does not constitute a diversity of species, except in so far as they are directed to different acts of reason, as stated above.
-## Whether Precipitation Is A Sin Included In Imprudence?
+### Whether Precipitation Is A Sin Included In Imprudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that precipitation is not a sin included in imprudence. Imprudence is opposed to the virtue of prudence; whereas precipitation is opposed to the gift of counsel, according to Gregory, who says (Moral. ii, 49) that the gift of "counsel is given as a remedy to precipitation." Therefore precipitation is not a sin contained under imprudence.
 
@@ -67,22 +67,22 @@ Objection 2: Further, precipitation seemingly pertains to rashness. Now rashness
 
 Objection 3: Further, precipitation seems to denote inordinate haste. Now sin happens in counselling not only through being over hasty but also through being over slow, so that the opportunity for action passes by, and through corruption of other circumstances, as stated in Ethic. vi, 9. Therefore there is no reason for reckoning precipitation as a sin contained under imprudence, rather than slowness, or something else of the kind pertaining to inordinate counsel.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Prov. 4:19): "The way of the wicked is darksome, they know not where they fall." Now the darksome ways of ungodliness belong to imprudence. Therefore imprudence leads a man to fall or to be precipitate.
 
 I answer that, Precipitation is ascribed metaphorically to acts of the soul, by way of similitude to bodily movement. Now a thing is said to be precipitated as regards bodily movement, when it is brought down from above by the impulse either of its own movement or of another's, and not in orderly fashion by degrees. Now the summit of the soul is the reason, and the base is reached in the action performed by the body; while the steps that intervene by which one ought to descend in orderly fashion are "memory" of the past, "intelligence" of the present, "shrewdness" in considering the future outcome, "reasoning" which compares one thing with another, "docility" in accepting the opinions of others. He that takes counsel descends by these steps in due order, whereas if a man is rushed into action by the impulse of his will or of a passion, without taking these steps, it will be a case of precipitation. Since then inordinate counsel pertains to imprudence, it is evident that the vice of precipitation is contained under imprudence.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Rectitude of counsel belongs to the gift of counsel and to the virtue of prudence; albeit in different ways, as stated above ([2815]Q[52], A[2]), and consequently precipitation is opposed to both.
 
 Reply to Objection 2: Things are said to be done rashly when they are not directed by reason: and this may happen in two ways; first through the impulse of the will or of a passion, secondly through contempt of the directing rule; and this is what is meant by rashness properly speaking, wherefore it appears to proceed from that root of pride, which refuses to submit to another's ruling. But precipitation refers to both, so that rashness is contained under precipitation, although precipitation refers rather to the first.
 
 Reply to Objection 3: Many things have to be considered in the research of reason; hence the Philosopher declares (Ethic. vi, 9) that "one should be slow in taking counsel." Hence precipitation is more directly opposed to rectitude of counsel than over slowness is, for the latter bears a certain likeness to right counsel.
-## Whether Thoughtlessness Is A Special Sin Included In Prudence?
+### Whether Thoughtlessness Is A Special Sin Included In Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that thoughtlessness is not a special sin included in imprudence. For the Divine law does not incite us to any sin, according to Ps. 18:8, "The law of the Lord is unspotted"; and yet it incites us to be thoughtless, according to Mat. 10:19, "Take no thought how or what to speak." Therefore thoughtlessness is not a sin.
 
@@ -90,22 +90,22 @@ Objection 2: Further, whoever takes counsel must needs give thought to many thin
 
 Objection 3: Further, prudence consists in acts of the practical reason, viz. "counsel," "judgment" about what has been counselled, and "command" [*Cf.[2816] Q[47], A[8]]. Now thought precedes all these acts, since it belongs also to the speculative intellect. Therefore thoughtlessness is not a special sin contained under imprudence.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Prov. 4:25): "Let thy eyes look straight on, and let thine eye-lids go before thy steps." Now this pertains to prudence, while the contrary pertains to thoughtlessness. Therefore thoughtlessness is a special sin contained under imprudence.
 
 I answer that, Thought signifies the act of the intellect in considering the truth about. something. Now just as research belongs to the reason, so judgment belongs to the intellect. Wherefore in speculative matters a demonstrative science is said to exercise judgment, in so far as it judges the truth of the results of research by tracing those results back to the first indemonstrable principles. Hence thought pertains chiefly to judgment; and consequently the lack of right judgment belongs to the vice of thoughtlessness, in so far, to wit, as one fails to judge rightly through contempt or neglect of those things on which a right judgment depends. It is therefore evident that thoughtlessness is a sin.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our Lord did not forbid us to take thought, when we have the opportunity, about what we ought to do or say, but, in the words quoted, He encourages His disciples, so that when they had no opportunity of taking thought, either through lack of knowledge or through a sudden call, they should trust in the guidance of God alone, because "as we know not what to do, we can only turn our eyes to God," according to 2 Paral 20:12: else if man, instead of doing what he can, were to be content with awaiting God's assistance, he would seem to tempt God.
 
 Reply to Objection 2: All thought about those things of which counsel takes cognizance, is directed to the formation of a right judgment, wherefore this thought is perfected in judgment. Consequently thoughtlessness is above all opposed to the rectitude of judgment.
 
 Reply to Objection 3: Thoughtlessness is to be taken here in relation to a determinate matter, namely, that of human action, wherein more things have to be thought about for the purpose of right judgment, than in speculative matters, because actions are about singulars.
-## Whether Inconstancy Is A Vice Contained Under Prudence?
+### Whether Inconstancy Is A Vice Contained Under Prudence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that inconstancy is not a vice contained under imprudence. For inconstancy consists seemingly in a lack of perseverance in matters of difficulty. But perseverance in difficult matters belongs to fortitude. Therefore inconstancy is opposed to fortitude rather than to prudence.
 
@@ -113,22 +113,22 @@ Objection 2: Further, it is written (James 3:16): "Where jealousy [Douay: 'envy'
 
 Objection 3: Further, a man would seem to be inconstant who fails to persevere in what he has proposed to do. Now this is a mark of "incontinency" in pleasurable matters, and of "effeminacy" or "squeamishness" in unpleasant matters, according to Ethic. vii, 1. Therefore inconstancy does not pertain to imprudence.
 
-### Answer
+**Answer**
 
 On the contrary, It belongs to prudence to prefer the greater good to the lesser. Therefore to forsake the greater good belongs to imprudence. Now this is inconstancy. Therefore inconstancy belongs to imprudence.
 
 I answer that, Inconstancy denotes withdrawal from a definite good purpose. Now the origin of this withdrawal is in the appetite, for a man does not withdraw from a previous good purpose, except on account of something being inordinately pleasing to him: nor is this withdrawal completed except through a defect of reason, which is deceived in rejecting what before it had rightly accepted. And since it can resist the impulse of the passions, if it fail to do this, it is due to its own weakness in not standing to the good purpose it has conceived; hence inconstancy, as to its completion, is due to a defect in the reason. Now just as all rectitude of the practical reason belongs in some degree to prudence, so all lack of that rectitude belongs to imprudence. Consequently inconstancy, as to its completion, belongs to imprudence. And just as precipitation is due to a defect in the act of counsel, and thoughtlessness to a defect in the act of judgment, so inconstancy arises from a defect in the act of command. For a man is stated to be inconstant because his reason fails in commanding what has been counselled and judged.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The good of prudence is shared by all the moral virtues, and accordingly perseverance in good belongs to all moral virtues, chiefly, however, to fortitude, which suffers a greater impulse to the contrary.
 
 Reply to Objection 2: Envy and anger, which are the source of contention, cause inconstancy on the part of the appetite, to which power the origin of inconstancy is due, as stated above.
 
 Reply to Objection 3: Continency and perseverance seem to be not in the appetitive power, but in the reason. For the continent man suffers evil concupiscences, and the persevering man suffers grievous sorrows (which points to a defect in the appetitive power); but reason stands firm, in the continent man, against concupiscence, and in the persevering man, against sorrow. Hence continency and perseverance seem to be species of constancy which pertains to reason; and to this power inconstancy pertains also.
-## Whether The Aforesaid Vices Arise From Lust?
+### Whether The Aforesaid Vices Arise From Lust?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the aforesaid vices do not arise from lust. For inconstancy arises from envy, as stated above (A[5], ad 2). But envy is a distinct vice from lust.
 
@@ -136,13 +136,13 @@ Objection 2: Further, it is written (James 1:8): "A double-minded man is inconst
 
 Objection 3: Further, the aforesaid vices are connected with some defect of reason. Now spiritual vices are more akin to the reason than carnal vices. Therefore the aforesaid vices arise from spiritual vices rather than from carnal vices.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory declares (Moral. xxxi, 45) that the aforesaid vices arise from lust.
 
 I answer that, As the Philosopher states (Ethic. vi, 5) "pleasure above all corrupts the estimate of prudence," and chiefly sexual pleasure which absorbs the mind, and draws it to sensible delight. Now the perfection of prudence and of every intellectual virtue consists in abstraction from sensible objects. Wherefore, since the aforesaid vices involve a defect of prudence and of the practical reason, as stated above ([2817]AA[2],5), it follows that they arise chiefly from lust.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Envy and anger cause inconstancy by drawing away the reason to something else; whereas lust causes inconstancy by destroying the judgment of reason entirely. Hence the Philosopher says (Ethic. vii, 6) that "the man who is incontinent through anger listens to reason, yet not perfectly, whereas he who is incontinent through lust does not listen to it at all."
 

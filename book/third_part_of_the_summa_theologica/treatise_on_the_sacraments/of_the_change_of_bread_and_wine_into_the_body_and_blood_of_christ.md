@@ -9,9 +9,9 @@ We have to consider the change of the bread and wine into the body and blood of 
 (6) Whether this change is instantaneous?
 (7) Whether it is more miraculous than any other change?
 (8) By what words it may be suitably expressed?  [*The titles of the Articles here given were taken by St. Thomas from his Commentary on the Sentences (Sent. iv, D, 90). However, in writing the Articles he introduced a new point of inquiry, that of the First Article; and substituted another division of the matter under discussion, as may be seen by referring to the titles of the various Articles. Most editions have ignored St. Thomas's original division, and give the one to which he subsequently adhered.]
-## Whether The Body Of Christ Be In This Sacrament In Very Truth, Or Merely As In A Figure Or Sign?
+### Whether The Body Of Christ Be In This Sacrament In Very Truth, Or Merely As In A Figure Or Sign?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the body of Christ is not in this sacrament in very truth, but only as in a figure, or sign. For it is written (Jn. 6:54) that when our Lord had uttered these words: "Except you eat the flesh of the Son of Man, and drink His blood," etc., "Many of His disciples on hearing it said: 'this is a hard saying'": to whom He rejoined: "It is the spirit that quickeneth; the flesh profiteth nothing": as if He were to say, according to Augustine's exposition on Ps. 4 [*On Ps. 98:9]: "Give a spiritual meaning to what I have said. You are not to eat this body which you see, nor to drink the blood which they who crucify Me are to spill. It is a mystery that I put before you: in its spiritual sense it will quicken you; but the flesh profiteth nothing."
 
@@ -21,7 +21,7 @@ Objection 3: Further, no body can be in several places at the one time. For this
 
 Objection 4: Further, the Church's sacraments are ordained for the profit of the faithful. But according to Gregory in a certain Homily (xxviii in Evang.), the ruler is rebuked "for demanding Christ's bodily presence." Moreover the apostles were prevented from receiving the Holy Ghost because they were attached to His bodily presence, as Augustine says on Jn. 16:7: "Except I go, the Paraclete will not come to you" (Tract. xciv in Joan.). Therefore Christ is not in the sacrament of the altar according to His bodily presence.
 
-### Answer
+**Answer**
 
 On the contrary, Hilary says (De Trin. viii): "There is no room for doubt regarding the truth of Christ's body and blood; for now by our Lord's own declaring and by our faith His flesh is truly food, and His blood is truly drink." And Ambrose says (De Sacram. vi): "As the Lord Jesus Christ is God's true Son so is it Christ's true flesh which we take, and His true blood which we drink."
 
@@ -35,7 +35,7 @@ Thirdly, it belongs to the perfection of faith, which concerns His humanity just
 
 Some men accordingly, not paying heed to these things, have contended that Christ's body and blood are not in this sacrament except as in a sign, a thing to be rejected as heretical, since it is contrary to Christ's words. Hence Berengarius, who had been the first deviser of this heresy, was afterwards forced to withdraw his error, and to acknowledge the truth of the faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: From this authority the aforesaid heretics have taken occasion to err from evilly understanding Augustine's words. For when Augustine says: "You are not to eat this body which you see," he means not to exclude the truth of Christ's body, but that it was not to be eaten in this species in which it was seen by them. And by the words: "It is a mystery that I put before you; in its spiritual sense it will quicken you," he intends not that the body of Christ is in this sacrament merely according to mystical signification, but "spiritually," that is, invisibly, and by the power of the spirit. Hence (Tract. xxvii), expounding Jn. 6:64: "the flesh profiteth nothing," he says: "Yea, but as they understood it, for they understood that the flesh was to be eaten as it is divided piecemeal in a dead body, or as sold in the shambles, not as it is quickened by the spirit . . . Let the spirit draw nigh to the flesh . . . then the flesh profiteth very much: for if the flesh profiteth nothing, the Word had not been made flesh, that It might dwell among us."
 
@@ -44,9 +44,9 @@ Reply to Objection 2: That saying of Augustine and all others like it are to be 
 Reply to Objection 3: Christ's body is not in this sacrament in the same way as a body is in a place, which by its dimensions is commensurate with the place; but in a special manner which is proper to this sacrament. Hence we say that Christ's body is upon many altars, not as in different places, but "sacramentally": and thereby we do not understand that Christ is there only as in a sign, although a sacrament is a kind of sign; but that Christ's body is here after a fashion proper to this sacrament, as stated above.
 
 Reply to Objection 4: This argument holds good of Christ's bodily presence, as He is present after the manner of a body, that is, as it is in its visible appearance, but not as it is spiritually, that is, invisibly, after the manner and by the virtue of the spirit. Hence Augustine (Tract. xxvii in Joan.) says: "If thou hast understood" Christ's words spiritually concerning His flesh, "they are spirit and life to thee; if thou hast understood them carnally, they are also spirit and life, but not to thee."
-## Whether In This Sacrament The Substance Of The Bread And Wine Remains After The Consecration?
+### Whether In This Sacrament The Substance Of The Bread And Wine Remains After The Consecration?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the substance of the bread and wine does remain in this sacrament after the consecration: because Damascene says (De Fide Orth. iv): "Since it is customary for men to eat bread and drink wine, God has wedded his Godhead to them, and made them His body and blood": and further on: "The bread of communication is not simple bread, but is united to the Godhead." But wedding together belongs to things actually existing. Therefore the bread and wine are at the same time, in this sacrament, with the body and the blood of Christ.
 
@@ -54,7 +54,7 @@ Objection 2: Further, there ought to be conformity between the sacraments. But i
 
 Objection 3: Further, bread and wine are made use of in this sacrament, inasmuch as they denote ecclesiastical unity, as "one bread is made from many grains and wine from many grapes," as Augustine says in his book on the Creed (Tract. xxvi in Joan.). But this belongs to the substance of bread and wine. Therefore, the substance of the bread and wine remains in this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose says (De Sacram. iv): "Although the figure of the bread and wine be seen, still, after the Consecration, they are to be believed to be nothing else than the body end blood of Christ."
 
@@ -66,16 +66,16 @@ Thirdly, because it would be opposed to the veneration of this sacrament, if any
 
 Fourthly, because it is contrary to the rite of the Church, according to which it is not lawful to take the body of Christ after bodily food, while it is nevertheless lawful to take one consecrated host after another. Hence this opinion is to be avoided as heretical.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God "wedded His Godhead," i.e. His Divine power, to the bread and wine, not that these may remain in this sacrament, but in order that He may make from them His body and blood.
 
 Reply to Objection 2: Christ is not really present in the other sacraments, as in this; and therefore the substance of the matter remains in the other sacraments, but not in this.
 
 Reply to Objection 3: The species which remain in this sacrament, as shall be said later [4530](A[5]), suffice for its signification; because the nature of the substance is known by its accidents.
-## Whether The Substance Of The Bread Or Wine Is Annihilated After The Consecration Of This Sacrament, Or Dissolved Into Their Original Matter?
+### Whether The Substance Of The Bread Or Wine Is Annihilated After The Consecration Of This Sacrament, Or Dissolved Into Their Original Matter?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the substance of the bread is annihilated after the consecration of this sacrament, or dissolved into its original matter. For whatever is corporeal must be somewhere. But the substance of bread, which is something corporeal, does not remain, in this sacrament, as stated above [4531](A[2]); nor can we assign any place where it may be. Consequently it is nothing after the consecration. Therefore, it is either annihilated, or dissolved into its original matter.
 
@@ -83,7 +83,7 @@ Objection 2: Further, what is the term "wherefrom" in every change exists no lon
 
 Objection 3: Further, one of two contradictories must be true. But this proposition is false: "After the consecration the substance of the bread or wine is something." Consequently, this is true: "The substance of the bread or wine is nothing."
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says ([4532]Q[83]): "God is not the cause of tending to nothing." But this sacrament is wrought by Divine power. Therefore, in this sacrament the substance of the bread or wine is not annihilated.
 
@@ -91,16 +91,16 @@ I answer that, Because the substance of the bread and wine does not remain in th
 
 Now the original matter into which mixed bodies can be dissolved is the four elements. For dissolution cannot be made into primary matter, so that a subject can exist without a form, since matter cannot exist without a form. But since after the consecration nothing remains under the sacramental species except the body and the blood of Christ, it will be necessary to say that the elements into which the substance of the bread and wine is dissolved, depart from thence by local motion, which would be perceived by the senses. In like manner also the substance of the bread or wine remains until the last instant of the consecration; but in the last instant of the consecration there is already present there the substance of the body or blood of Christ, just as the form is already present in the last instant of generation. Hence no instant can be assigned in which the original matter can be there. For it cannot be said that the substance of the bread or wine is dissolved gradually into the original matter, or that it successively quits the species, for if this began to be done in the last instant of its consecration, then at the one time under part of the host there would be the body of Christ together with the substance of bread, which is contrary to what has been said above [4533](A[2]). But if this begin to come to pass before the consecration, there will then be a time in which under one part of the host there will be neither the substance of bread nor the body of Christ, which is not fitting. They seem indeed to have taken this into careful consideration, wherefore they formulated their proposition with an alternative viz. that (the substance) may be annihilated. But even this cannot stand, because no way can be assigned whereby Christ's true body can begin to be in this sacrament, except by the change of the substance of bread into it, which change is excluded the moment we admit either annihilation of the substance of the bread, or dissolution into the original matter. Likewise no cause can be assigned for such dissolution or annihilation, since the effect of the sacrament is signified by the form: "This is My body." Hence it is clear that the aforesaid opinion is false.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The substance of the bread or wine, after the consecration, remains neither under the sacramental species, nor elsewhere; yet it does not follow that it is annihilated; for it is changed into the body of Christ; just as if the air, from which fire is generated, be not there or elsewhere, it does not follow that it is annihilated.
 
 Reply to Objection 2: The form, which is the term "wherefrom," is not changed into another form; but one form succeeds another in the subject; and therefore the first form remains only in the potentiality of matter. But here the substance of the bread is changed into the body of Christ, as stated above. Hence the conclusion does not follow.
 
 Reply to Objection 3: Although after the consecration this proposition is false: "The substance of the breed is something," still that into which the substance of the bread is changed, is something, and consequently the substance of the bread is not annihilated.
-## Whether Bread Can Be Converted Into The Body Of Christ?
+### Whether Bread Can Be Converted Into The Body Of Christ?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that bread cannot be converted into the body of Christ. For conversion is a kind of change. But in every change there must be some subject, which from being previously in potentiality is now in act. because as is said in Phys. iii: "motion is the act of a thing existing in potentiality." But no subject can be assigned for the substance of the bread and of the body of Christ, because it is of the very nature of substance for it "not to be in a subject," as it is said in Praedic. iii. Therefore it is not possible for the whole substance of the bread to be converted into the body of Christ.
 
@@ -108,7 +108,7 @@ Objection 2: Further, the form of the thing into which another is converted, beg
 
 Objection 3: Further, when two things are diverse, one never becomes the other, as whiteness never becomes blackness, as is stated in Phys. i. But since two contrary forms are of themselves diverse, as being the principles of formal difference, so two signate matters are of themselves diverse, as being the principles of material distinction. Consequently, it is not possible for this matter of bread to become this matter whereby Christ's body is individuated, and so it is not possible for this substance of bread to be changed into the substance of Christ's body.
 
-### Answer
+**Answer**
 
 On the contrary, Eusebius Emesenus says: "To thee it ought neither to be a novelty nor an impossibility that earthly and mortal things be changed into the substance of Christ."
 
@@ -118,16 +118,16 @@ Yet this change is not like natural changes, but is entirely supernatural, and e
 
 For it is evident that every agent acts according as it is in act. But every created agent is limited in its act, as being of a determinate genus and species: and consequently the action of every created agent bears upon some determinate act. Now the determination of every thing in actual existence comes from its form. Consequently, no natural or created agent can act except by changing the form in something; and on this account every change made according to nature's laws is a formal change. But God is infinite act, as stated in the [4535]FP, Q[7], A[1]; Q[26], A[2]; hence His action extends to the whole nature of being. Therefore He can work not only formal conversion, so that diverse forms succeed each other in the same subject; but also the change of all being, so that, to wit, the whole substance of one thing be changed into the whole substance of another. And this is done by Divine power in this sacrament; for the whole substance of the bread is changed into the whole substance of Christ's body, and the whole substance of the wine into the whole substance of Christ's blood. Hence this is not a formal, but a substantial conversion; nor is it a kind of natural movement: but, with a name of its own, it can be called "transubstantiation."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This objection holds good in respect of formal change, because it belongs to a form to be in matter or in a subject; but it does not hold good in respect of the change of the entire substance. Hence, since this substantial change implies a certain order of substances, one of which is changed into the other, it is in both substances as in a subject, just as order and number.
 
 Reply to Objection 2: This argument also is true of formal conversion or change, because, as stated above (ad 1), a form must be in some matter or subject. But this is not so in a change of the entire substance; for in this case no subject is possible.
 
 Reply to Objection 3: Form cannot be changed into form, nor matter into matter by the power of any finite agent. Such a change, however, can be made by the power of an infinite agent, which has control over all being, because the nature of being is common to both forms and to both matters; and whatever there is of being in the one, the author of being can change into whatever there is of being in the other, withdrawing that whereby it was distinguished from the other.
-## Whether The Accidents Of The Bread And Wine Remain In This Sacrament After The Change?
+### Whether The Accidents Of The Bread And Wine Remain In This Sacrament After The Change?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the accidents of the bread and wine do not remain in this sacrament. For when that which comes first is removed, that which follows is also taken away. But substance is naturally before accident, as is proved in Metaph. vii. Since, then, after consecration, the substance of the bread does not remain in this sacrament, it seems that its accidents cannot remain.
 
@@ -137,22 +137,22 @@ Objection 3: Further, although our faith is not subject to reason, still it is n
 
 Objection 4: Further, what remains after the change has taken place seems to be the subject of change. If therefore the accidents of the bread remain after the change has been effected, it seems that the accidents are the subject of the change. But this is impossible; for "an accident cannot have an accident" (Metaph. iii). Therefore the accidents of the bread and wine ought not to remain in this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says in his book on the Sentences of Prosper (Lanfranc, De Corp. et Sang. Dom. xiii): "Under the species which we behold, of bread and wine, we honor invisible things, i.e. flesh and blood."
 
 I answer that, It is evident to sense that all the accidents of the bread and wine remain after the consecration. And this is reasonably done by Divine providence. First of all, because it is not customary, but horrible, for men to eat human flesh, and to drink blood. And therefore Christ's flesh and blood are set before us to be partaken of under the species of those things which are the more commonly used by men, namely, bread and wine. Secondly, lest this sacrament might be derided by unbelievers, if we were to eat our Lord under His own species. Thirdly, that while we receive our Lord's body and blood invisibly, this may redound to the merit of faith.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As is said in the book De Causis, an effect depends more on the first cause than on the second. And therefore by God's power, which is the first cause of all things, it is possible for that which follows to remain, while that which is first is taken away.
 
 Reply to Objection 2: There is no deception in this sacrament; for the accidents which are discerned by the senses are truly present. But the intellect, whose proper object is substance as is said in De Anima iii, is preserved by faith from deception.
 
 Reply to Objection 4: This change has not properly a subject, as was stated above (A[4], ad 1); nevertheless the accidents which remain have some resemblance of a subject.
-## Whether The Substantial Form Of The Bread Remains In This Sacrament After The Consecration?
+### Whether The Substantial Form Of The Bread Remains In This Sacrament After The Consecration?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the substantial form of the bread remains in this sacrament after the consecration. For it has been said [4537](A[5]) that the accidents remain after the consecration. But since bread is an artificial thing, its form is an accident. Therefore it remains after the consecration.
 
@@ -160,7 +160,7 @@ Objection 2: Further, the form of Christ's body is His soul: for it is said in D
 
 Objection 3: Further, the proper operation of a things follows its substantial form. But what remains in this sacrament, nourishes, and performs every operation which bread would do were it present. Therefore the substantial form of the bread remains in this sacrament after the consecration.
 
-### Answer
+**Answer**
 
 On the contrary, The substantial form of bread is of the substance of bread. But the substance of the bread is changed into the body of Christ, as stated above ([4538]AA[2],3,4). Therefore the substantial form of the bread does not remain.
 
@@ -172,16 +172,16 @@ Thirdly, it would be unbefitting this sacrament: because the accidents of the br
 
 And therefore it must be said that the substantial form of the bread does not remain.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There is nothing to prevent art from making a thing whose form is not an accident, but a substantial form; as frogs and serpents can be produced by art: for art produces such forms not by its own power, but by the power of natural energies. And in this way it produces the substantial forms of bread, by the power of fire baking the matter made up of flour and water.
 
 Reply to Objection 2: The soul is the form of the body, giving it the whole order of perfect being, i.e. being, corporeal being, and animated being, and so on. Therefore the form of the bread is changed into the form of Christ's body, according as the latter gives corporeal being, but not according as it bestows animated being.
 
 Reply to Objection 3: Some of the operations of bread follow it by reason of the accidents, such as to affect the senses, and such operations are found in the species of the bread after the consecration on account of the accidents which remain. But some other operations follow the bread either by reason of the matter, such as that it is changed into something else, or else by reason of the substantial form, such as an operation consequent upon its species, for instance, that it "strengthens man's heart" (Ps. 103:15); and such operations are found in this sacrament, not on account of the form or matter remaining, but because they are bestowed miraculously upon the accidents themselves, as will be said later (Q[77], A[3], ad 2,3; [4541]AA[5],6).
-## Whether This Change Is Wrought Instantaneously?
+### Whether This Change Is Wrought Instantaneously?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that this change is not wrought instantaneously, but successively. For in this change there is first the substance of bread, and afterwards the substance of Christ's body. Neither, then, is in the same instant, but in two instants. But there is a mid-time between every two instants. Therefore this change must take place according to the succession of time, which is between the last instant in which the bread is there, and the first instant in which the body of Christ is present.
 
@@ -189,7 +189,7 @@ Objection 2: Further, in every change something is "in becoming" and something i
 
 Objection 3: Further, Ambrose says (De Sacram. iv) that this sacrament "is made by the words of Christ." But Christ's words are pronounced successively. Therefore the change takes place successively.
 
-### Answer
+**Answer**
 
 On the contrary, This change is effected by a power which is infinite, to which it belongs to operate in an instant.
 
@@ -199,16 +199,16 @@ Secondly on the part of the subject, which sometimes is prepared successively fo
 
 For these three reasons this conversion is instantaneous. First, because the substance of Christ's body which is the term of this conversion, does not receive more or less. Secondly, because in this conversion there is no subject to be disposed successively. Thirdly, because it is effected by God's infinite power.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Some [*Cf. Albert the Great, Sent. iv, D, 11; St. Bonaventure, Sent., iv, D, 11] do not grant simply that there is a mid-time between every two instants. For they say that this is true of two instants referring to the same movement, but not if they refer to different things. Hence between the instant that marks the close of rest, and another which marks the beginning of movement, there is no mid-time. But in this they are mistaken, because the unity of time and of instant, or even their plurality, is not taken according to movements of any sort, but according to the first movement of the heavens, which is the measure of all movement and rest.
 
 Reply to Objection 2: In instantaneous changes a thing is "in becoming," and is "in being" simultaneously; just as becoming illuminated and to be actually illuminated are simultaneous: for in such, a thing is said to be "in being" according as it now is; but to be "in becoming," according as it was not before.
 
 Reply to Objection 3: As stated above (ad 1), this change comes about in the last instant of the pronouncing of the words, for then the meaning of the words is finished, which meaning is efficacious in the forms of the sacraments. And therefore it does not follow that this change is successive.
-## Whether This Proposition Is False: "The Body Of Christ Is Made Out Of Bread"?
+### Whether This Proposition Is False: "The Body Of Christ Is Made Out Of Bread"?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that this proposition is false: "The body of Christ is made out of bread." For everything out of which another is made, is that which is made the other; but not conversely: for we say that a black thing is made out of a white thing, and that a white thing is made black: and although we may say that a man becomes black still we do not say that a black thing is made out of a man, as is shown in Phys. i. If it be true, then, that Christ's body is made out of bread, it will be true to say that bread is made the body of Christ. But this seems to be false, because the bread is not the subject of the making, but rather its term. Therefore, it is not said truly that Christ's body is made out of bread.
 
@@ -218,7 +218,7 @@ Objection 3: Further, everything out of which another is made is converted into 
 
 Objection 4: Further, that out of which something is made, can be that thing. But this proposition is false: "Bread can be the body of Christ." Therefore this is likewise false: "The body of Christ is made out of bread."
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose says (De Sacram. iv): "When the consecration takes place, the body of Christ is made out of the bread."
 
@@ -234,7 +234,7 @@ Again, since there is no subject of this conversion, the things which are true i
 
 Nevertheless, since in this sacrament, after the change, something remains the same, namely, the accidents of the bread, as stated above [4543](A[5]), some of these expressions may be admitted by way of similitude, namely, that "bread is the body of Christ," or, "bread will be the body of Christ," or "the body of Christ is made of bread"; provided that by the word "bread" is not understood the substance of bread, but in general "that which is contained under the species of bread," under which species there is first contained the substance of bread, and afterwards the body of Christ.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: That out of which something else is made, sometimes implies together with the subject, one of the extremes of the transmutation, as when it is said "a black thing is made out of a white one"; but sometimes it implies only the opposite or the extreme, as when it is said---"out of morning comes the day." And so it is not granted that the latter becomes the former, that is, "that morning becomes the day." So likewise in the matter in hand, although it may be said properly that "the body of Christ is made out of bread," yet it is not said properly that "bread becomes the body of Christ," except by similitude, as was said above.
 

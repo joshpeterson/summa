@@ -7,9 +7,9 @@ After considering the divine foreknowledge and will, and other things pertaining
 (4) Whether He could make the past not to have been?
 (5) Whether He could do what He does not, or not do what He does?
 (6) Whether what He makes He could make better?
-## Whether There Is Power In God?
+### Whether There Is Power In God?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that power is not in God. For as primary matter is to power, so God, who is the first agent, is to act. But primary matter, considered in itself, is devoid of all act. Therefore, the first agent---namely, God---is devoid of power.
 
@@ -19,13 +19,13 @@ Objection 3: Further, Power is the principle of operation. But the divine power 
 
 Objection 4: Further, it was shown above ([199]Q[14], A[8]; [200]Q[19], A[4]) that God's knowledge and will are the cause of things. But the cause and principle of a thing are identical. We ought not, therefore, to assign power to God; but only knowledge and will.
 
-### Answer
+**Answer**
 
 On the contrary, It is said: "Thou art mighty, O Lord, and Thy truth is round about Thee" (Ps. 88:9).
 
 I answer that, Power is twofold---namely, passive, which exists not at all in God; and active, which we must assign to Him in the highest degree. For it is manifest that everything, according as it is in act and is perfect, is the active principle of something: whereas everything is passive according as it is deficient and imperfect. Now it was shown above ([201]Q[3], A[2]; [202]Q[4], AA[1], 2), that God is pure act, simply and in all ways perfect, nor in Him does any imperfection find place. Whence it most fittingly belongs to Him to be an active principle, and in no way whatsoever to be passive. On the other hand, the notion of active principle is consistent with active power. For active power is the principle of acting upon something else; whereas passive power is the principle of being acted upon by something else, as the Philosopher says (Metaph. v, 17). It remains, therefore, that in God there is active power in the highest degree.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Active power is not contrary to act, but is founded upon it, for everything acts according as it is actual: but passive power is contrary to act; for a thing is passive according as it is potential. Whence this potentiality is not in God, but only active power.
 
@@ -34,9 +34,9 @@ Reply to Objection 2: Whenever act is distinct from power, act must be nobler th
 Reply to Objection 3: In creatures, power is the principle not only of action, but likewise of effect. Thus in God the idea of power is retained, inasmuch as it is the principle of an effect; not, however, as it is a principle of action, for this is the divine essence itself; except, perchance, after our manner of understanding, inasmuch as the divine essence, which pre-contains in itself all perfection that exists in created things, can be understood either under the notion of action, or under that of power; as also it is understood under the notion of "suppositum" possessing nature, and under that of nature. Accordingly the notion of power is retained in God in so far as it is the principle of an effect.
 
 Reply to Objection 4: Power is predicated of God not as something really distinct from His knowledge and will, but as differing from them logically; inasmuch as power implies a notion of a principle putting into execution what the will commands, and what knowledge directs, which three things in God are identified. Or we may say, that the knowledge or will of God, according as it is the effective principle, has the notion of power contained in it. Hence the consideration of the knowledge and will of God precedes the consideration of His power, as the cause precedes the operation and effect.
-## Whether The Power Of God Is Infinite?
+### Whether The Power Of God Is Infinite?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the power of God is not infinite. For everything that is infinite is imperfect according to the Philosopher (Phys. iii, 6). But the power of God is far from imperfect. Therefore it is not infinite.
 
@@ -44,22 +44,22 @@ Objection 2: Further, every power is made known by its effect; otherwise it woul
 
 Objection 3: Further, the Philosopher proves (Phys. viii, 79) that if the power of any corporeal thing were infinite, it would cause instantaneous movement. God, however, does not cause instantaneous movement, but moves the spiritual creature in time, and the corporeal creature in place and time, as Augustine says (Gen. ad lit. 20,22,23). Therefore, His power is not infinite.
 
-### Answer
+**Answer**
 
 On the contrary, Hilary says (De Trin. viii), that "God's power is immeasurable. He is the living mighty one." Now everything that is immeasurable is infinite. Therefore the power of God is infinite.
 
 I answer that, As stated above [203](A[1]), active power exists in God according to the measure in which He is actual. Now His existence is infinite, inasmuch as it is not limited by anything that receives it, as is clear from what has been said, when we discussed the infinity of the divine essence ([204]Q[7], A[1]). Wherefore, it is necessary that the active power in God should be infinite. For in every agent is it found that the more perfectly an agent has the form by which it acts the greater its power to act. For instance, the hotter a thing is, the greater the power has it to give heat; and it would have infinite power to give heat, were its own heat infinite. Whence, since the divine essence, through which God acts, is infinite, as was shown above ([205]Q[7], A[1]) it follows that His power likewise is infinite.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher is here speaking of an infinity in regard to matter not limited by any form; and such infinity belongs to quantity. But the divine essence is otherwise, as was shown above ([206]Q[7], A[1]); and consequently so also His power. It does not follow, therefore, that it is imperfect.
 
 Reply to Objection 2: The power of a univocal agent is wholly manifested in its effect. The generative power of man, for example, is not able to do more than beget man. But the power of a non-univocal agent does not wholly manifest itself in the production of its effect: as, for example, the power of the sun does not wholly manifest itself in the production of an animal generated from putrefaction. Now it is clear that God is not a univocal agent. For nothing agrees with Him either in species or in genus, as was shown above ([207]Q[3], A[5]; [208]Q[4], A[3]). Whence it follows that His effect is always less than His power. It is not necessary, therefore, that the infinite power of God should be manifested so as to produce an infinite effect. Yet even if it were to produce no effect, the power of God would not be ineffectual; because a thing is ineffectual which is ordained towards an end to which it does not attain. But the power of God is not ordered toward its effect as towards an end; rather, it is the end of the effect produced by it.
 
 Reply to Objection 3: The Philosopher (Phys. viii, 79) proves that if a body had infinite power, it would cause a non-temporal movement. And he shows that the power of the mover of heaven is infinite, because it can move in an infinite time. It remains, therefore, according to his reckoning, that the infinite power of a body, if such existed, would move without time; not, however, the power of an incorporeal mover. The reason of this is that one body moving another is a univocal agent; wherefore it follows that the whole power of the agent is made known in its motion. Since then the greater the power of a moving body, the more quickly does it move; the necessary conclusion is that if its power were infinite, it would move beyond comparison faster, and this is to move without time. An incorporeal mover, however, is not a univocal agent; whence it is not necessary that the whole of its power should be manifested in motion, so as to move without time; and especially since it moves in accordance with the disposition of its will.
-## Whether God Is Omnipotent?
+### Whether God Is Omnipotent?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God is not omnipotent. For movement and passiveness belong to everything. But this is impossible with God, for He is immovable, as was said above ([209]Q[2], A[3]). Therefore He is not omnipotent.
 
@@ -69,7 +69,7 @@ Objection 3: Further, it is said of God that He manifests His omnipotence "espec
 
 Objection 4: Further, upon the text, "God hath made foolish the wisdom of this world" (1 Cor. 1:20), a gloss says: "God hath made the wisdom of this world foolish [*Vulg.: 'Hath not God', etc.] by showing those things to be possible which it judges to be impossible." Whence it would seem that nothing is to be judged possible or impossible in reference to inferior causes, as the wisdom of this world judges them; but in reference to the divine power. If God, then, were omnipotent, all things would be possible; nothing, therefore impossible. But if we take away the impossible, then we destroy also the necessary; for what necessarily exists is impossible not to exist. Therefore there would be nothing at all that is necessary in things if God were omnipotent. But this is an impossibility. Therefore God is not omnipotent.
 
-### Answer
+**Answer**
 
 On the contrary, It is said: "No word shall be impossible with God" (Lk. 1:37).
 
@@ -79,7 +79,7 @@ It remains therefore, that God is called omnipotent because He can do all things
 
 It must, however, be remembered that since every agent produces an effect like itself, to each active power there corresponds a thing possible as its proper object according to the nature of that act on which its active power is founded; for instance, the power of giving warmth is related as to its proper object to the being capable of being warmed. The divine existence, however, upon which the nature of power in God is founded, is infinite, and is not limited to any genus of being; but possesses within itself the perfection of all being. Whence, whatsoever has or can have the nature of being, is numbered among the absolutely possible things, in respect of which God is called omnipotent. Now nothing is opposed to the idea of being except non-being. Therefore, that which implies being and non-being at the same time is repugnant to the idea of an absolutely possible thing, within the scope of the divine omnipotence. For such cannot come under the divine omnipotence, not because of any defect in the power of God, but because it has not the nature of a feasible or possible thing. Therefore, everything that does not imply a contradiction in terms, is numbered amongst those possible things, in respect of which God is called omnipotent: whereas whatever implies contradiction does not come within the scope of divine omnipotence, because it cannot have the aspect of possibility. Hence it is better to say that such things cannot be done, than that God cannot do them. Nor is this contrary to the word of the angel, saying: "No word shall be impossible with God." For whatever implies a contradiction cannot be a word, because no intellect can possibly conceive such a thing.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God is said to be omnipotent in respect to His active power, not to passive power, as was shown above [210](A[1]). Whence the fact that He is immovable or impassible is not repugnant to His omnipotence.
 
@@ -88,9 +88,9 @@ Reply to Objection 2: To sin is to fall short of a perfect action; hence to be a
 Reply to Objection 3: God's omnipotence is particularly shown in sparing and having mercy, because in this is it made manifest that God has supreme power, that He freely forgives sins. For it is not for one who is bound by laws of a superior to forgive sins of his own free will. Or, because by sparing and having mercy upon men, He leads them on to the participation of an infinite good; which is the ultimate effect of the divine power. Or because, as was said above ([211]Q[21], A[4]), the effect of the divine mercy is the foundation of all the divine works. For nothing is due to anyone, except on account of something already given him gratuitously by God. In this way the divine omnipotence is particularly made manifest, because to it pertains the first foundation of all good things.
 
 Reply to Objection 4: The absolute possible is not so called in reference either to higher causes, or to inferior causes, but in reference to itself. But the possible in reference to some power is named possible in reference to its proximate cause. Hence those things which it belongs to God alone to do immediately---as, for example, to create, to justify, and the like---are said to be possible in reference to a higher cause. Those things, however, which are of such kind as to be done by inferior causes are said to be possible in reference to those inferior causes. For it is according to the condition of the proximate cause that the effect has contingency or necessity, as was shown above ([212]Q[14], A[1], ad 2). Thus is it that the wisdom of the world is deemed foolish, because what is impossible to nature, it judges to be impossible to God. So it is clear that the omnipotence of God does not take away from things their impossibility and necessity.
-## Whether God Can Make The Past Not To Have Been?
+### Whether God Can Make The Past Not To Have Been?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God can make the past not to have been. For what is impossible in itself is much more impossible than that which is only impossible accidentally. But God can do what is impossible in itself, as to give sight to the blind, or to raise the dead. Therefore, and much more can He do what is only impossible accidentally. Now for the past not to have been is impossible accidentally: thus for Socrates not to be running is accidentally impossible, from the fact that his running is a thing of the past. Therefore God can make the past not to have been.
 
@@ -98,22 +98,22 @@ Objection 2: Further, what God could do, He can do now, since His power is not l
 
 Objection 3: Further, charity is a more excellent virtue than virginity. But God can supply charity that is lost; therefore also lost virginity. Therefore He can so effect that what was corrupt should not have been corrupt.
 
-### Answer
+**Answer**
 
 On the contrary, Jerome says (Ep. 22 ad Eustoch.): "Although God can do all things, He cannot make a thing that is corrupt not to have been corrupted." Therefore, for the same reason, He cannot effect that anything else which is past should not have been.
 
 I answer that, As was said above ([213]Q[7], A[2]), there does not fall under the scope of God's omnipotence anything that implies a contradiction. Now that the past should not have been implies a contradiction. For as it implies a contradiction to say that Socrates is sitting, and is not sitting, so does it to say that he sat, and did not sit. But to say that he did sit is to say that it happened in the past. To say that he did not sit, is to say that it did not happen. Whence, that the past should not have been, does not come under the scope of divine power. This is what Augustine means when he says (Contra Faust. xxix, 5): "Whosoever says, If God is almighty, let Him make what is done as if it were not done, does not see that this is to say: If God is almighty let Him effect that what is true, by the very fact that it is true, be false": and the Philosopher says (Ethic. vi, 2): "Of this one thing alone is God deprived---namely, to make undone the things that have been done."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although it is impossible accidentally for the past not to have been, if one considers the past thing itself, as, for instance, the running of Socrates; nevertheless, if the past thing is considered as past, that it should not have been is impossible, not only in itself, but absolutely since it implies a contradiction. Thus, it is more impossible than the raising of the dead; in which there is nothing contradictory, because this is reckoned impossible in reference to some power, that is to say, some natural power; for such impossible things do come beneath the scope of divine power.
 
 Reply to Objection 2: As God, in accordance with the perfection of the divine power, can do all things, and yet some things are not subject to His power, because they fall short of being possible; so, also, if we regard the immutability of the divine power, whatever God could do, He can do now. Some things, however, at one time were in the nature of possibility, whilst they were yet to be done, which now fall short of the nature of possibility, when they have been done. So is God said not to be able to do them, because they themselves cannot be done.
 
 Reply to Objection 3: God can remove all corruption of the mind and body from a woman who has fallen; but the fact that she had been corrupt cannot be removed from her; as also is it impossible that the fact of having sinned or having lost charity thereby can be removed from the sinner.
-## Whether God Can Do What He Does Not?
+### Whether God Can Do What He Does Not?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God cannot do other than what He does. For God cannot do what He has not foreknown and pre-ordained that He would do. But He neither foreknew nor pre-ordained that He would do anything except what He does. Therefore He cannot do except what He does.
 
@@ -121,22 +121,22 @@ Objection 2: Further, God can only do what ought to be done and what is right to
 
 Objection 3: Further, God cannot do anything that is not good and befitting creation. But it is not good for creatures nor befitting them to be otherwise than as they are. Therefore God cannot do except what He does.
 
-### Answer
+**Answer**
 
 On the contrary, It is said: "Thinkest thou that I cannot ask My Father, and He will give Me presently more than twelve legions of angels?" (Mat. 26:53). But He neither asked for them, nor did His Father show them to refute the Jews. Therefore God can do what He does not.
 
 I answer that, In this matter certain persons erred in two ways. Some laid it down that God acts from natural necessity in such way that as from the action of nature nothing else can happen beyond what actually takes place---as, for instance, from the seed of man, a man must come, and from that of an olive, an olive; so from the divine operation there could not result other things, nor another order of things, than that which now is. But we showed above ([214]Q[19], A[3]) that God does not act from natural necessity, but that His will is the cause of all things; nor is that will naturally and from any necessity determined to those things. Whence in no way at all is the present course of events produced by God from any necessity, so that other things could not happen. Others, however, said that the divine power is restricted to this present course of events through the order of the divine wisdom and justice without which God does nothing. But since the power of God, which is His essence, is nothing else but His wisdom, it can indeed be fittingly said that there is nothing in the divine power which is not in the order of the divine wisdom; for the divine wisdom includes the whole potency of the divine power. Yet the order placed in creation by divine wisdom, in which order the notion of His justice consists, as said above ([215]Q[21], A[2]), is not so adequate to the divine wisdom that the divine wisdom should be restricted to this present order of things. Now it is clear that the whole idea of order which a wise man puts into things made by him is taken from their end. So, when the end is proportionate to the things made for that end, the wisdom of the maker is restricted to some definite order. But the divine goodness is an end exceeding beyond all proportion things created. Whence the divine wisdom is not so restricted to any particular order that no other course of events could happen. Wherefore we must simply say that God can do other things than those He has done.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In ourselves, in whom power and essence are distinct from will and intellect, and again intellect from wisdom, and will from justice, there can be something in the power which is not in the just will nor in the wise intellect. But in God, power and essence, will and intellect, wisdom and justice, are one and the same. Whence, there can be nothing in the divine power which cannot also be in His just will or in His wise intellect. Nevertheless, because His will cannot be determined from necessity to this or that order of things, except upon supposition, as was said above ([216]Q[19], A[3]), neither are the wisdom and justice of God restricted to this present order, as was shown above; so nothing prevents there being something in the divine power which He does not will, and which is not included in the order which He has place in things. Again, because power is considered as executing, the will as commanding, and the intellect and wisdom as directing; what is attributed to His power considered in itself, God is said to be able to do in accordance with His absolute power. Of such a kind is everything which has the nature of being, as was said above [217](A[3]). What is, however, attributed to the divine power, according as it carries into execution the command of a just will, God is said to be able to do by His ordinary power. In this manner, we must say that God can do other things by His absolute power than those He has foreknown and pre-ordained He would do. But it could not happen that He should do anything which He had not foreknown, and had not pre-ordained that He would do, because His actual doing is subject to His foreknowledge and pre-ordination, though His power, which is His nature, is not so. For God does things because He wills so to do; yet the power to do them does not come from His will, but from His nature.
 
 Reply to Objection 2: God is bound to nobody but Himself. Hence, when it is said that God can only do what He ought, nothing else is meant by this than that God can do nothing but what is befitting to Himself, and just. But these words "befitting" and "just" may be understood in two ways: one, in direct connection with the verb "is"; and thus they would be restricted to the present order of things; and would concern His power. Then what is said in the objection is false; for the sense is that God can do nothing except what is now fitting and just. If, however, they be joined directly with the verb "can" (which has the effect of extending the meaning), and then secondly with "is," the present will be signified, but in a confused and general way. The sentence would then be true in this sense: "God cannot do anything except that which, if He did it, would be suitable and just."
 
 Reply to Objection 3: Although this order of things be restricted to what now exists, the divine power and wisdom are not thus restricted. Whence, although no other order would be suitable and good to the things which now are, yet God can do other things and impose upon them another order.
-## Whether God Can Do Better Than What He Does?
+### Whether God Can Do Better Than What He Does?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God cannot do better than He does. For whatever God does, He does in a most powerful and wise way. But a thing is so much the better done as it is more powerfully and wisely done. Therefore God cannot do anything better than He does.
 
@@ -146,13 +146,13 @@ Objection 3: Further, what is very good and the best of all cannot be bettered; 
 
 Objection 4: Further, Christ as man is full of grace and truth, and has the Spirit without measure; and so He cannot be better. Again created happiness is described as the highest good, and thus cannot be better. And the Blessed Virgin Mary is raised above all the choirs of angels, and so cannot be better than she is. God cannot therefore make all things better than He has made them.
 
-### Answer
+**Answer**
 
 On the contrary, It is said (Eph. 3:20): "God is able to do all things more abundantly than we desire or understand."
 
 I answer that, The goodness of anything is twofold; one, which is of the essence of it---thus, for instance, to be rational pertains to the essence of man. As regards this good, God cannot make a thing better than it is itself; although He can make another thing better than it; even as He cannot make the number four greater than it is; because if it were greater it would no longer be four, but another number. For the addition of a substantial difference in definitions is after the manner of the addition of unity of numbers (Metaph. viii, 10). Another kind of goodness is that which is over and above the essence; thus, the good of a man is to be virtuous or wise. As regards this kind of goodness, God can make better the things He has made. Absolutely speaking, however, God can make something else better than each thing made by Him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: When it is said that God can make a thing better than He makes it, if "better" is taken substantively, this proposition is true. For He can always make something else better than each individual thing: and He can make the same thing in one way better than it is, and in another way not; as was explained above. If, however, "better" is taken as an adverb, implying the manner of the making; thus God cannot make anything better than He makes it, because He cannot make it from greater wisdom and goodness. But if it implies the manner of the thing done, He can make something better; because He can give to things made by Him a better manner of existence as regards the accidents, although not as regards the substance.
 

@@ -4,9 +4,9 @@ We must now consider the nature of matrimony. Under this head there are three po
 (1) Whether matrimony is a kind of joining?
 (2) Whether it is fittingly named?
 (3) Whether it is fittingly defined?
-## Whether Matrimony Is A Kind Of Joining?
+### Whether Matrimony Is A Kind Of Joining?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that matrimony is not a kind of joining. Because the bond whereby things are tied together differs from their joining, as cause from effect. Now matrimony is the bond whereby those who are joined in matrimony are tied together. Therefore it is not a kind of joining.
 
@@ -14,22 +14,22 @@ Objection 2: Further, every sacrament is a sensible sign. But no relation is a s
 
 Objection 3: Further, a joining is a relation of equiparance as well as of equality. Now according to Avicenna the relation of equality is not identically the same in each extreme. Neither therefore is there an identically same joining; and consequently if matrimony is a kind of joining, there is not only one matrimony between man and wife.
 
-### Answer
+**Answer**
 
 On the contrary, It is by relation that things are related to one another. Now by matrimony certain things are related to one another; for the husband is the wife's husband, and the wife is the husband's wife. Therefore matrimony is a kind of relation, nor is it other than a joining.
 
 I answer that, A joining denotes a kind of uniting, and so wherever things are united there must be a joining. Now things directed to one purpose are said to be united in their direction thereto, thus many men are united in following one military calling or in pursuing one business, in relation to which they are called fellow-soldiers or business partners. Hence, since by marriage certain persons are directed to one begetting and upbringing of children, and again to one family life, it is clear that in matrimony there is a joining in respect of which we speak of husband and wife; and this joining, through being directed to some one thing, is matrimony; while the joining together of bodies and minds is a result of matrimony.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Matrimony is the bond by which they are tied formally, not effectively, and so it need not be distinct from the joining.
 
 Reply to Objection 2: Although relation is not itself a sensible accident, its causes may be sensible. Nor is it necessary in a sacrament for that which is both reality and sacrament [*Cf. [4934]TP, Q[66], A[1]] to be sensible (for such is the relation of the aforesaid joining to this sacrament), whereas the words expressive of consent, which are sacrament only and are the cause of that same joining, are sensible.
 
 Reply to Objection 3: A relation is founded on something as its cause---for instance likeness is founded on quality---and on something as its subject---for instance in the things themselves that are like; and on either hand we may find unity and diversity of relation. Since then it is not the same identical quality that conduces to likeness, but the same specific quality in each of the like subjects, and since, moreover, the subjects of likeness are two in number, and the same applies to equality, it follows that both equality and likeness are in every way numerically distinct in either of the like or equal subjects. But the relations of matrimony, on the one hand, have unity in both extremes, namely on the part of the cause, since it is directed to the one identical begetting; whereas on the part of the subject there is numerical diversity. The fact of this relation having a diversity of subjects is signified by the terms "husband" and "wife," while its unity is denoted by its being called matrimony.
-## Whether Matrimony Is Fittingly Named?
+### Whether Matrimony Is Fittingly Named?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that matrimony is unfittingly named. Because a thing should be named after that which ranks higher. But the father ranks above the mother. Therefore the union of father and mother should rather be named after the father.
 
@@ -37,22 +37,22 @@ Objection 2: Further, a thing should be named from that which is essential to it
 
 Objection 3: Further, a species cannot take its proper name from that which belongs to the genus. Now a joining [conjunctio] is the genus of matrimony. Therefore it should not be called a conjugal union.
 
-### Answer
+**Answer**
 
 On the contrary, stands the common use of speech.
 
 I answer that, Three things may be considered in matrimony. First, its essence, which is a joining together, and in reference to this it is called the "conjugal union"; secondly, its cause, which is the wedding, and in reference to this it is called the "nuptial union" from "nubo" [*The original meaning of 'nubo' is 'to veil'], because at the wedding ceremony, whereby the marriage is completed, the heads of those who are wedded are covered with a veil [*This is still done in some countries]; thirdly, the effect, which is the offspring, and in reference to this it is called "matrimony," as Augustine says (Contra Faust. xix, 26), because "a woman's sole purpose in marrying should be motherhood." Matrimony may also be resolved into "matris munium" [*i.e. munus], i.e. a mother's duty, since the duty of bringing up the children chiefly devolves on the women; or into "matrem muniens," because it provides the mother with a protector and support in the person of her husband; or into "matrem monens," as admonishing her not to leave her husband and take up with another man; or into "materia unius," because it is a joining together for the purpose of providing the matter of one offspring as though it were derived from {monos} and "materia"; or into "matre" and "nato," as Isidore says (Etym. ix), because it makes a woman the mother of a child.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the father ranks above the mother, the mother has more to do with the offspring than the father has. or we may say that woman was made chiefly in order to be man's helpmate in relation to the offspring, whereas the man was not made for this purpose. Wherefore the mother has a closer relation to the nature of marriage than the father has.
 
 Reply to Objection 2: Sometimes essentials are known by accidentals, wherefore some things can be named even after their accidentals, since a name is given to a thing for the purpose that it may become known.
 
 Reply to Objection 3: Sometimes a species is named after something pertaining to the genus on account of an imperfection in the species, when namely it has the generic nature completely, yet adds nothing pertaining to dignity; thus the accidental property retains the name of property, which is common to it and to the definition. Sometimes, however, it is on account of a perfection, when we find the generic nature completely in one species and not in another; thus animal is named from soul [anima], and this belongs to an animate body, which is the genus of animal; yet animation is not found perfectly in those animate beings that are not animals. It is thus with the case in point. for the joining of husband and wife by matrimony is the greatest of all joinings, since it is a joining of soul and body, wherefore it is called a "conjugal" union.
-## Whether Matrimony Is Fittingly Defined In The Text?
+### Whether Matrimony Is Fittingly Defined In The Text?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that matrimony is unfittingly defined in the text* (Sent. iv, D, 27). [*The definition alluded to is as follows: "Marriage is the marital union of man and woman involving living together in undivided partnership."] For it is necessary to mention matrimony in defining a husband, since it is the husband who is joined to the woman in matrimony. Now "marital union" is put in the definition of matrimony. Therefore in these definitions there would seem to be a vicious circle.
 
@@ -62,7 +62,7 @@ Objection 3: Further, habit [consuetudo] pertains to morals. Yet it often happen
 
 Objection 4: Further, we find other definitions given of matrimony, for according to Hugh (Sum. Sent. vii, 6), "matrimony is the lawful consent of two apt persons to be joined together." Also, according to some, "matrimony is the fellowship of a common life and a community regulated by Divine and human law"; and we ask how these definitions differ.
 
-### Answer
+**Answer**
 
 
 
@@ -70,7 +70,7 @@ I answer that, As stated above [4935](A[2]), three things are to be considered i
 
 The remaining definition indicates the effect to which matrimony is directed, namely the common life in family matters. And since every community is regulated by some law, the code according to which this community is directed, namely Divine and human law, finds a place in this definition. while other communities, such as those of traders or soldiers, are established by human law alone.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Sometimes the prior things from which a definition ought to be given are not known to us, and consequently certain things are defined from things that are posterior simply, but prior to us; thus in the definition of quality the Philosopher employs the word "such" [quale] when he says (Cap. De Qualitate) that "quality is that whereby we are said to be such." Thus, too, in defining matrimony we say that it is a "marital union," by which we mean that matrimony is a union for the purpose of those things required by the marital office, all of which could not be expressed in one word.
 

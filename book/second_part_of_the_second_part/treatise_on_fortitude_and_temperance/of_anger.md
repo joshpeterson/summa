@@ -9,9 +9,9 @@ We must next consider the contrary vices: (1) Anger that is opposed to meekness;
 (6) Whether anger is a capital vice?
 (7) Of its daughters;
 (8) Whether it has a contrary vice?
-## Whether It Is Lawful To Be Angry?
+### Whether It Is Lawful To Be Angry?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it cannot be lawful to be angry. For Jerome in his exposition on Mat. 5:22, "Whosoever is angry with his brother," etc. says: "Some codices add 'without cause.' However, in the genuine codices the sentence is unqualified, and anger is forbidden altogether." Therefore it is nowise lawful to be angry.
 
@@ -21,13 +21,13 @@ Objection 3: Further, anger is "desire for vengeance" [*Aristotle, Rhet. ii, 2] 
 
 Objection 4: Further, all that makes us depart from likeness to God is evil. Now anger always makes us depart from likeness to God, since God judges with tranquillity according to Wis. 12:18. Therefore to be angry is always an evil.
 
-### Answer
+**Answer**
 
 On the contrary, Chrysostom [*Hom. xi in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says: "He that is angry without cause, shall be in danger; but he that is angry with cause, shall not be in danger: for without anger, teaching will be useless, judgments unstable, crimes unchecked." Therefore to be angry is not always an evil.
 
 I answer that, Properly speaking anger is a passion of the sensitive appetite, and gives its name to the irascible power, as stated above ([3569]FS, Q[46], A[1]) when we were treating of the passions. Now with regard to the passions of the soul, it is to be observed that evil may be found in them in two ways. First by reason of the passion's very species, which is derived from the passion's object. Thus envy, in respect of its species, denotes an evil, since it is displeasure at another's good, and such displeasure is in itself contrary to reason: wherefore, as the Philosopher remarks (Ethic. ii, 6), "the very mention of envy denotes something evil." Now this does not apply to anger, which is the desire for revenge, since revenge may be desired both well and ill. Secondly, evil is found in a passion in respect of the passion's quantity, that is in respect of its excess or deficiency; and thus evil may be found in anger, when, to wit, one is angry, more or less than right reason demands. But if one is angry in accordance with right reason, one's anger is deserving of praise.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Stoics designated anger and all the other passions as emotions opposed to the order of reason; and accordingly they deemed anger and all other passions to be evil, as stated above ([3570]FS, Q[24], A[2] ) when we were treating of the passions. It is in this sense that Jerome considers anger; for he speaks of the anger whereby one is angry with one's neighbor, with the intent of doing him a wrong.---But, according to the Peripatetics, to whose opinion Augustine inclines (De Civ. Dei ix, 4), anger and the other passions of the soul are movements of the sensitive appetite, whether they be moderated or not, according to reason: and in this sense anger is not always evil.
 
@@ -36,9 +36,9 @@ Reply to Objection 2: Anger may stand in a twofold relation to reason. First, an
 Reply to Objection 3: It is unlawful to desire vengeance considered as evil to the man who is to be punished, but it is praiseworthy to desire vengeance as a corrective of vice and for the good of justice; and to this the sensitive appetite can tend, in so far as it is moved thereto by the reason: and when revenge is taken in accordance with the order of judgment, it is God's work, since he who has power to punish "is God's minister," as stated in Rom. 13:4.
 
 Reply to Objection 4: We can and ought to be like to God in the desire for good; but we cannot be altogether likened to Him in the mode of our desire, since in God there is no sensitive appetite, as in us, the movement of which has to obey reason. Wherefore Gregory says (Moral. v, 45) that "anger is more firmly erect in withstanding vice, when it bows to the command of reason."
-## Whether Anger Is A Sin?
+### Whether Anger Is A Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that anger is not a sin. For we demerit by sinning. But "we do not demerit by the passions, even as neither do we incur blame thereby," as stated in Ethic. ii, 5. Consequently no passion is a sin. Now anger is a passion as stated above ([3571]FS, Q[46], A[1]) in the treatise on the passions. Therefore anger is not a sin.
 
@@ -48,7 +48,7 @@ Objection 3: Further, "No man sins in what he cannot avoid," as Augustine assert
 
 Objection 4: Further, sin is contrary to nature, according to Damascene [*De Fide Orth. ii, 4,30]. But it is not contrary to man's nature to be angry, and it is the natural act of a power, namely the irascible; wherefore Jerome says in a letter [*Ep. xii ad Anton. Monach.] that "to be angry is the property of man." Therefore it is not a sin to be angry.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Eph. 4:31): "Let all indignation and anger [*Vulg.: 'Anger and indignation'] . . . be put away from you."
 
@@ -56,7 +56,7 @@ I answer that, Anger, as stated above [3572](A[1]), is properly the name of a pa
 
 Secondly, the order of reason in regard to anger may be considered in relation to the mode of being angry, namely that the movement of anger should not be immoderately fierce, neither internally nor externally; and if this condition be disregarded, anger will not lack sin, even though just vengeance be desired.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since passion may be either regulated or not regulated by reason, it follows that a passion considered absolutely does not include the notion of merit or demerit, of praise or blame. But as regulated by reason, it may be something meritorious and deserving of praise; while on the other hand, as not regulated by reason, it may be demeritorious and blameworthy. Wherefore the Philosopher says (Ethic. ii, 5) that "it is he who is angry in a certain way, that is praised or blamed."
 
@@ -65,9 +65,9 @@ Reply to Objection 2: The angry man desires the evil of another, not for its own
 Reply to Objection 3: Man is master of his actions through the judgment of his reason, wherefore as to the movements that forestall that judgment, it is not in man's power to prevent them as a whole, i.e. so that none of them arise, although his reason is able to check each one, if it arise. Accordingly it is stated that the movement of anger is not in man's power, to the extent namely that no such movement arise. Yet since this movement is somewhat in his power, it is not entirely sinless if it be inordinate. The statement of the Philosopher that "the angry man acts with displeasure," means that he is displeased, not with his being angry, but with the injury which he deems done to himself: and through this displeasure he is moved to seek vengeance.
 
 Reply to Objection 4: The irascible power in man is naturally subject to his reason, wherefore its act is natural to man, in so far as it is in accord with reason, and in so far as it is against reason, it is contrary to man's nature.
-## Whether All Anger Is A Mortal Sin?
+### Whether All Anger Is A Mortal Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all anger is a mortal sin. For it is written (Job 5:2): "Anger killeth the foolish man [*Vulg.: 'Anger indeed killeth the foolish']," and he speaks of the spiritual killing, whence mortal sin takes its name. Therefore all anger is a mortal sin.
 
@@ -75,22 +75,22 @@ Objection 2: Further, nothing save mortal sin is deserving of eternal condemnati
 
 Objection 3: Further, whatsoever is contrary to charity is a mortal sin. Now anger is of itself contrary to charity, as Jerome declares in his commentary on Mat. 5:22, "Whosoever is angry with his brother," etc. where he says that this is contrary to the love of your neighbor. Therefore anger is a mortal sin.
 
-### Answer
+**Answer**
 
 On the contrary, A gloss on Ps. 4:5, "Be ye angry and sin not," says: "Anger is venial if it does not proceed to action."
 
 I answer that, The movement of anger may be inordinate and sinful in two ways, as stated above [3573](A[2]). First, on the part of the appetible object, as when one desires unjust revenge; and thus anger is a mortal sin in the point of its genus, because it is contrary to charity and justice. Nevertheless such like anger may happen to be a venial sin by reason of the imperfection of the act. This imperfection is considered either in relation to the subject desirous of vengeance, as when the movement of anger forestalls the judgment of his reason; or in relation to the desired object, as when one desires to be avenged in a trifling matter, which should be deemed of no account, so that even if one proceeded to action, it would not be a mortal sin, for instance by pulling a child slightly by the hair, or by some other like action. Secondly, the movement of anger may be inordinate in the mode of being angry, for instance, if one be too fiercely angry inwardly, or if one exceed in the outward signs of anger. In this way anger is not a mortal sin in the point of its genus; yet it may happen to be a mortal sin, for instance if through the fierceness of his anger a man fall away from the love of God and his neighbor.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It does not follow from the passage quoted that all anger is a mortal sin, but that the foolish are killed spiritually by anger, because, through not checking the movement of anger by their reason, they fall into mortal sins, for instance by blaspheming God or by doing injury to their neighbor.
 
 Reply to Objection 2: Our Lord said this of anger, by way of addition to the words of the Law: "Whosoever shall kill shall be in danger of the judgment" (Mat. 5:21). Consequently our Lord is speaking here of the movement of anger wherein a man desires the killing or any grave injury of his neighbor: and should the consent of reason be given to this desire, without doubt it will be a mortal sin.
 
 Reply to Objection 3: In the case where anger is contrary to charity, it is a mortal sin, but it is not always so, as appears from what we have said.
-## Whether Anger Is The Most Grievous Sin?
+### Whether Anger Is The Most Grievous Sin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that anger is the most grievous sin. For Chrysostom says [*Hom. xlviii in Joan.] that "nothing is more repulsive than the look of an angry man, and nothing uglier than a ruthless* face, and most of all than a cruel soul." [*'Severo'. The correct text is 'Si vero.' The translation would then run thus . . . 'and nothing uglier.' And if his 'face is ugly, how much uglier is his soul!']. Therefore anger is the most grievous sin.
 
@@ -98,7 +98,7 @@ Objection 2: Further, the more hurtful a sin is, the worse it would seem to be; 
 
 Objection 3: Further, inward movements are judged according to their outward effects. Now the effect of anger is murder, which is a most grievous sin. Therefore anger is a most grievous sin.
 
-### Answer
+**Answer**
 
 On the contrary, Anger is compared to hatred as the mote to the beam; for Augustine says in his Rule (Ep. ccxi): "Lest anger grow into hatred and a mote become a beam." Therefore anger is not the most grievous sin.
 
@@ -106,16 +106,16 @@ I answer that, As stated above ([3574]AA[1],2), the inordinateness of anger is c
 
 On the other hand, as to the inordinateness which regards the mode of being angry, anger would seem to have a certain pre-eminence on account of the strength and quickness of its movement, according to Prov. 27:4, "Anger hath no mercy, nor fury when it breaketh forth: and who can bear the violence of one provoked?" Hence Gregory says (Moral. v, 45): "The heart goaded by the pricks of anger is convulsed, the body trembles, the tongue entangles itself, the face is inflamed, the eyes are enraged and fail utterly to recognize those whom we know: the tongue makes sounds indeed, but there is no sense in its utterance."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Chrysostom is alluding to the repulsiveness of the outward gestures which result from the impetuousness of anger.
 
 Reply to Objection 2: This argument considers the inordinate movement of anger, that results from its impetuousness, as stated above.
 
 Reply to Objection 3: Murder results from hatred and envy no less than from anger: yet anger is less grievous, inasmuch as it considers the aspect of justice, as stated above.
-## Whether The Philosopher Suitably Assigns The Species Of Anger?
+### Whether The Philosopher Suitably Assigns The Species Of Anger?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the species of anger are unsuitably assigned by the Philosopher (Ethic. iv, 5) where he says that some angry persons are "choleric," some "sullen," and some "ill-tempered" or "stern." According to him, a person is said to be "sullen" whose anger "is appeased with difficulty and endures a long time." But this apparently pertains to the circumstance of time. Therefore it seems that anger can be differentiated specifically in respect also of the other circumstances.
 
@@ -123,7 +123,7 @@ Objection 2: Further, he says (Ethic. iv, 5) that "ill-tempered" or "stern" pers
 
 Objection 3: Further, our Lord mentions three degrees of anger, when He says (Mat. 5:22): "Whosoever is angry with his brother, shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council, and whosoever shall say" to his brother, "Thou fool." But these degrees are not referable to the aforesaid species. Therefore it seems that the above division of anger is not fitting.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory of Nyssa [*Nemesius, De Nat. Hom. xxi] says "there are three species of irascibility," namely, "the anger which is called wrath [*'Fellea,' i.e. like gall. But in [3575]FS, Q[46], A[8], St. Thomas quoting the same authority has {Cholos} which we render 'wrath']," and "ill-will" which is a disease of the mind, and "rancour." Now these three seem to coincide with the three aforesaid. For "wrath" he describes as "having beginning and movement," and the Philosopher (Ethic. iv, 5) ascribes this to "choleric" persons: "ill-will" he describes as "an anger that endures and grows old," and this the Philosopher ascribes to "sullenness"; while he describes "rancour" as "reckoning the time for vengeance," which tallies with the Philosopher's description of the "ill-tempered." The same division is given by Damascene (De Fide Orth. ii, 16). Therefore the aforesaid division assigned by the Philosopher is not unfitting.
 
@@ -131,16 +131,16 @@ I answer that, The aforesaid distinction may be referred either to the passion, 
 
 For the inordinateness of anger may be considered in relation to two things. First, in relation to the origin of anger, and this regards "choleric" persons, who are angry too quickly and for any slight cause. Secondly, in relation to the duration of anger, for that anger endures too long; and this may happen in two ways. In one way, because the cause of anger, to wit, the inflicted injury, remains too long in a man's memory, the result being that it gives rise to a lasting displeasure, wherefore he is "grievous" and "sullen" to himself. In another way, it happens on the part of vengeance, which a man seeks with a stubborn desire: this applies to "ill-tempered" or "stern" people, who do not put aside their anger until they have inflicted punishment.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is not time, but a man's propensity to anger, or his pertinacity in anger, that is the chief point of consideration in the aforesaid species.
 
 Reply to Objection 2: Both "sullen" and "ill-tempered" people have a long-lasting anger, but for different reasons. For a "sullen" person has an abiding anger on account of an abiding displeasure, which he holds locked in his breast; and as he does not break forth into the outward signs of anger, others cannot reason him out of it, nor does he of his own accord lay aside his anger, except his displeasure wear away with time and thus his anger cease. On the other hand, the anger of "ill-tempered" persons is long-lasting on account of their intense desire for revenge, so that it does not wear out with time, and can be quelled only by revenge.
 
 Reply to Objection 3: The degrees of anger mentioned by our Lord do not refer to the different species of anger, but correspond to the course of the human act [*Cf. [3577]FS, Q[46], A[8], OBJ[3]]. For the first degree is an inward conception, and in reference to this He says: "Whosoever is angry with his brother." The second degree is when the anger is manifested by outward signs, even before it breaks out into effect; and in reference to this He says: "Whosoever shall say to his brother, Raca!" which is an angry exclamation. The third degree is when the sin conceived inwardly breaks out into effect. Now the effect of anger is another's hurt under the aspect of revenge; and the least of hurts is that which is done by a mere word; wherefore in reference to this He says: "Whosoever shall say to his brother Thou fool!" Consequently it is clear that the second adds to the first, and the third to both the others; so that, if the first is a mortal sin, in the case referred to by our Lord, as stated above (A[3], ad 2), much more so are the others. Wherefore some kind of condemnation is assigned as corresponding to each one of them. In the first case "judgment" is assigned, and this is the least severe, for as Augustine says [*Serm. Dom. in Monte i, 9], "where judgment is to be delivered, there is an opportunity for defense": in the second case "council" is assigned, "whereby the judges deliberate together on the punishment to be inflicted": to the third case is assigned "hell-fire," i.e. "decisive condemnation."
-## Whether Anger Should Be Reckoned Among The Capital Vices?
+### Whether Anger Should Be Reckoned Among The Capital Vices?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that anger should not be reckoned among the capital sins. For anger is born of sorrow which is a capital vice known by the name of sloth. Therefore anger should not be reckoned a capital vice.
 
@@ -148,22 +148,22 @@ Objection 2: Further, hatred is a graver sin than anger. Therefore it should be 
 
 Objection 3: Further, a gloss on Prov. 29:22, "An angry [Douay: 'passionate'] man provoketh quarrels," says: "Anger is the door to all vices: if it be closed, peace is ensured within to all the virtues; if it be opened, the soul is armed for every crime." Now no capital vice is the origin of all sins, but only of certain definite ones. Therefore anger should not be reckoned among the capital vices.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxxi, 45) places anger among the capital vices.
 
 I answer that, As stated above ([3578]FS, Q[84], A[3],4), a capital vice is defined as one from which many vices arise. Now there are two reasons for which many vices can arise from anger. The first is on the part of its object which has much of the aspect of desirability, in so far as revenge is desired under the aspect of just or honest*, which is attractive by its excellence, as stated above [3579](A[4]). [*Honesty must be taken here in its broad sense as synonymous with moral goodness, from the point of view of decorum; Cf. Q[145], A[1]]. The second is on the part of its impetuosity, whereby it precipitates the mind into all kinds of inordinate action. Therefore it is evident that anger is a capital vice.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The sorrow whence anger arises is not, for the most part, the vice of sloth, but the passion of sorrow, which results from an injury inflicted.
 
 Reply to Objection 2: As stated above (Q[118], A[7]; Q[148], A[5]; Q[153], A[4]; [3580]FS, Q[84], A[4]), it belongs to the notion of a capital vice to have a most desirable end, so that many sins are committed through the desire thereof. Now anger, which desires evil under the aspect of good, has a more desirable end than hatred has, since the latter desires evil under the aspect of evil: wherefore anger is more a capital vice than hatred is.
 
 Reply to Objection 3: Anger is stated to be the door to the vices accidentally, that is by removing obstacles, to wit by hindering the judgment of reason, whereby man is withdrawn from evil. It is, however, directly the cause of certain special sins, which are called its daughters.
-## Whether Six Daughters Are Fittingly Assigned To Anger?
+### Whether Six Daughters Are Fittingly Assigned To Anger?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that six daughters are unfittingly assigned to anger, namely "quarreling, swelling of the mind, contumely, clamor, indignation and blasphemy." For blasphemy is reckoned by Isidore [*QQ. in Deut., qu. xvi] to be a daughter of pride. Therefore it should not be accounted a daughter of anger.
 
@@ -171,7 +171,7 @@ Objection 2: Further, hatred is born of anger, as Augustine says in his rule (Ep
 
 Objection 3: Further, "a swollen mind" would seem to be the same as pride. Now pride is not the daughter of a vice, but "the mother of all vices," as Gregory states (Moral. xxxi, 45). Therefore swelling of the mind should not be reckoned among the daughters of anger.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory (Moral. xxxi, 45) assigns these daughters to anger.
 
@@ -181,16 +181,16 @@ Secondly, anger may be considered, as expressed in words: and thus a twofold dis
 
 Thirdly, anger may be considered as proceeding to deeds; and thus anger gives rise to "quarrels," by which we are to understand all manner of injuries inflicted on one's neighbor through anger.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The blasphemy into which a man breaks out deliberately proceeds from pride, whereby a man lifts himself up against God: since, according to Ecclus. 10:14, "the beginning of the pride of man is to fall off from God," i.e. to fall away from reverence for Him is the first part of pride [*Cf.[3581] Q[162], A[7], ad 2]; and this gives rise to blasphemy. But the blasphemy into which a man breaks out through a disturbance of the mind, proceeds from anger.
 
 Reply to Objection 2: Although hatred sometimes arises from anger, it has a previous cause, from which it arises more directly, namely displeasure, even as, on the other hand, love is born of pleasure. Now through displeasure, a man is moved sometimes to anger, sometimes to hatred. Wherefore it was fitting to reckon that hatred arises from sloth rather than from anger.
 
 Reply to Objection 3: Swelling of the mind is not taken here as identical with pride, but for a certain effort or daring attempt to take vengeance; and daring is a vice opposed to fortitude.
-## Whether There Is A Vice Opposed To Anger Resulting From Lack Of Anger?
+### Whether There Is A Vice Opposed To Anger Resulting From Lack Of Anger?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there. is not a vice opposed to anger, resulting from lack of anger. For no vice makes us like to God. Now by being entirely without anger, a man becomes like to God, Who judges "with tranquillity" (Wis. 12:18). Therefore seemingly it is not a vice to be altogether without anger.
 
@@ -198,13 +198,13 @@ Objection 2: Further, it is not a vice to lack what is altogether useless. But t
 
 Objection 3: Further, according to Dionysius (Div. Nom. iv), "man's evil is to be without reason." Now the judgment of reason remains unimpaired, if all movement of anger be done away. Therefore no lack of anger amounts to a vice.
 
-### Answer
+**Answer**
 
 On the contrary, Chrysostom [*Hom. xi in Matth. in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says: "He who is not angry, whereas he has cause to be, sins. For unreasonable patience is the hotbed of many vices, it fosters negligence, and incites not only the wicked but even the good to do wrong."
 
 I answer that, Anger may be understood in two ways. In one way, as a simple movement of the will, whereby one inflicts punishment, not through passion, but in virtue of a judgment of the reason: and thus without doubt lack of anger is a sin. This is the sense in which anger is taken in the saying of Chrysostom, for he says (Hom. xi in Matth., in the Opus Imperfectum, falsely ascribed to St. John Chrysostom): "Anger, when it has a cause, is not anger but judgment. For anger, properly speaking, denotes a movement of passion": and when a man is angry with reason, his anger is no longer from passion: wherefore he is said to judge, not to be angry. In another way anger is taken for a movement of the sensitive appetite, which is with passion resulting from a bodily transmutation. This movement is a necessary sequel, in man, to the movement of his will, since the lower appetite necessarily follows the movement of the higher appetite, unless there be an obstacle. Hence the movement of anger in the sensitive appetite cannot be lacking altogether, unless the movement of the will be altogether lacking or weak. Consequently lack of the passion of anger is also a vice, even as the lack of movement in the will directed to punishment by the judgment of reason.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He that is entirely without anger when he ought to be angry, imitates God as to lack of passion, but not as to God's punishing by judgment.
 

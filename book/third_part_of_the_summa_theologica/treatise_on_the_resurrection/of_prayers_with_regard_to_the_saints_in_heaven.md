@@ -4,9 +4,9 @@ We must now consider prayer with regard to the saints in heaven. Under this head
 (1) Whether the saints have knowledge of our prayers?
 (2) Whether we should beseech them to pray for us?
 (3) Whether the prayers they pour forth for us are always granted?
-## Whether The Saints Have Knowledge Of Our Prayers?
+### Whether The Saints Have Knowledge Of Our Prayers?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the saints have no knowledge of our prayers. For a gloss on Is. 62:16, "Thou art our father and Abraham hath not known us, and Israel hath been ignorant of us," says that "the dead saints know not what the living, even their own children, are doing." This is taken from Augustine (De Cura pro Mort. xiii), where he quotes the aforesaid authority, and the following are his words: "If such great men as the patriarchs knew not what was happening to the people begotten of them, how can the dead occupy themselves in watching and helping the affairs and actions of the living?" Therefore the saints cannot be cognizant of our prayers.
 
@@ -18,13 +18,13 @@ Objection 4: Further, even as the saints after death see the Word, so do the ang
 
 Objection 5: Further, God alone is the searcher of hearts. Now prayer is seated chiefly in the heart. Therefore it belongs to God alone to know our prayers. Therefore our prayers are unknown to the saints.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory, commenting on Job 14:21, "Whether his children come to honor or dishonor, he shall not understand," says (Moral. xii): "This does not apply to the souls of the saints, for since they have an insight of Almighty God's glory we must nowise believe that anything outside that glory is unknown to them." Therefore they are cognizant of our prayers. Further, Gregory says (Dial. ii): "All creatures are little to the soul that sees God: because however little it sees of the Creator's light, every created thing appears foreshortened to it." Now apparently the chief obstacle to the souls of the saints being cognizant of our prayers and other happenings in our regard is that they are far removed from us. Since then distance does not prevent these things, as appears from the authority quoted, it would seem that the souls of the saints are cognizant of our prayers and of what happens here below.
 
 I answer that, The Divine essence is a sufficient medium for knowing all things, and this is evident from the fact that God, by seeing His essence, sees all things. But it does not follow that whoever sees God's essence knows all things, but only those who comprehend the essence of God [*Cf. [5045]FP, Q[12], AA[7],8]: even as the knowledge of a principle does not involve the knowledge of all that follows from that principle unless the whole virtue of the principle be comprehended. Wherefore, since the souls of the saints do not comprehend the Divine essence, it does not follow that they know all that can be known by the Divine essence---for which reason the lower angels are taught concerning certain matters by the higher angels, though they all see the essence of God; but each of the blessed must needs see in the Divine essence as many other things as the perfection of his happiness requires. For the perfection of a man's happiness requires him to have whatever he will, and to will nothing amiss: and each one wills with a right will, to know what concerns himself. Hence since no rectitude is lacking to the saints, they wish to know what concerns themselves, and consequently it follows that they know it in the Word. Now it pertains to their glory that they assist the needy for their salvation: for thus they become God's co-operators, "than which nothing is more Godlike," as Dionysius declares (Coel. Hier. iii). Wherefore it is evident that the saints are cognizant of such things as are required for this purpose; and so it is manifest that they know in the Word the vows, devotions, and prayers of those who have recourse to their assistance.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The saying of Augustine is to be understood as referring to the natural knowledge of separated souls, which knowledge is devoid of obscurity in holy men. But he is not speaking of their knowledge in the Word, for it is clear that when Isaias said this, Abraham had no such knowledge, since no one had come to the vision of God before Christ's passion.
 
@@ -35,9 +35,9 @@ Reply to Objection 3: The souls of the saints have their will fully conformed to
 Reply to Objection 4: Although it does not follow that those who see the Word see all things in the Word, they see those things that pertain to the perfection of their happiness, as stated above.
 
 Reply to Objection 5: God alone of Himself knows the thoughts of the heart: yet others know them, in so far as these are revealed to them, either by their vision of the Word or by any other means.
-## Whether We Ought To Call Upon The Saints To Pray For Us?
+### Whether We Ought To Call Upon The Saints To Pray For Us?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that we ought not to call upon the saints to pray for us. For no man asks anyone's friends to pray for him, except in so far as he believes he will more easily find favor with them. But God is infinitely more merciful than any saint, and consequently His will is more easily inclined to give us a gracious hearing, than the will of a saint. Therefore it would seem unnecessary to make the saints mediators between us and God, that they may intercede for us.
 
@@ -49,13 +49,13 @@ Objection 4: Further, whenever one person intercedes for another at the latter's
 
 Objection 5: Further, it is unnecessary to do a thing if, without doing it, the purpose for which it is done would be achieved in the same way, or else not achieved at all. Now the saints would pray for us just the same, or would not pray for us at all, whether we pray to them or not: for if we be worthy of their prayers, they would pray for us even though we prayed not to them, while if we be unworthy they pray not for us even though we ask them to. Therefore it seems altogether unnecessary to call on them to pray for us.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Job 5:1): "Call . . . if there be any that will answer thee, and turn to some of the saints." Now, as Gregory says (Moral. v, 30) on this passage, "we call upon God when we beseech Him in humble prayer." Therefore when we wish to pray God, we should turn to the saints, that they may pray God for us.
 
 I answer that, According to Dionysius (Eccl. Hier. v) the order established by God among things is that "the last should be led to God by those that are midway between." Wherefore, since the saints who are in heaven are nearest to God, the order of the Divine law requires that we, who while we remain in the body are pilgrims from the Lord, should be brought back to God by the saints who are between us and Him: and this happens when the Divine goodness pours forth its effect into us through them. And since our return to God should correspond to the outflow of His boons upon us, just as the Divine favors reach us by means of the saints intercession, so should we, by their means, be brought back to God, that we may receive His favors again. Hence it is that we make them our intercessors with God, and our mediators as it were, when we ask them to pray for us.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It is not on account of any defect in God's power that He works by means of second causes, but it is for the perfection of the order of the universe, and the more manifold outpouring of His goodness on things, through His bestowing on them not only the goodness which is proper to them, but also the faculty of causing goodness in others. Even so it is not through any defect in His mercy, that we need to bespeak His clemency through the prayers of the saints, but to the end that the aforesaid order in things be observed.
 
@@ -66,9 +66,9 @@ Reply to Objection 3: Prayer is an act, and acts belong to particular persons [s
 Reply to Objection 4: As we shall state further on [5046](A[3]) the saints are said to present our prayers to God, not as though they notified things unknown to Him, but because they ask God to grant those prayers a gracious hearing, or because they seek the Divine truth about them, namely what ought to be done according to His providence.
 
 Reply to Objection 5: A person is rendered worthy of a saint's prayers for him by the very fact that in his need he has recourse to him with pure devotion. Hence it is not unnecessary to pray to the saints.
-## Whether The Prayers Which The Saints Pour Forth To God For Us Are Always Granted?
+### Whether The Prayers Which The Saints Pour Forth To God For Us Are Always Granted?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the prayers which the saints pour forth to God for us are not always granted. For if they were always granted, the saints would be heard especially in regard to matters concerning themselves. But they are not heard in reference to these things; wherefore it is stated in the Apocalypse (6:11) that on the martyrs beseeching vengeance on them that dwell on earth, "it was said to them that they should rest for a little while till the number of their brethren should be filled up [*Vulg.: 'till their fellow-servants and their brethren . . . should be filled up']." Much less therefore, are they heard in reference to matters concerning others.
 
@@ -82,13 +82,13 @@ Objection 5: Further, the saints, in all things, conform their will to the will 
 
 Objection 6: Further, the prayers of the whole heavenly court, if they could obtain anything, would be more efficacious than all the petitions of the Church here below. Now if the suffrages of the Church here below for some one in purgatory were to be multiplied, he would be wholly delivered from punishment. Since then the saints in heaven pray for those who are in purgatory on the same account as for us, if they obtain anything for us, their prayers would deliver entirely from punishment those who are in purgatory. But this is not true because, then the Church's suffrages for the dead would be unnecessary.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (2 Macc. 15:14): "This is he that prayeth much for the people, and for all the holy city, Jeremias the prophet of God": and that his prayer was granted is clear from what follows (2 Macc. 15:15): "Jeremias stretched forth his right hand, and gave to Judas a sword of gold, saying: Take this holy sword, a gift from God," etc.
 
 I answer that, The saints are said to pray for us in two ways. First, by "express" prayer, when by their prayers they seek a hearing of the Divine clemency on our behalf: secondly, by "interpretive" prayer, namely by their merits which, being known to God, avail not only them unto glory, but also us as suffrages and prayers, even as the shedding of Christ's blood is said to ask pardon for us. In both ways the saints' prayers considered in themselves avail to obtain what they ask, yet on our part they may fail so that we obtain not the fruit of their prayers, in so far as they are said to pray for us by reason of their merits availing on our behalf. But in so far as they pray for us by asking something for us in their prayers, their prayers are always granted, since they will only what God wills, nor do they ask save for what they will to be done; and what God wills is always fulfilled---unless we speak of His "antecedent" will, whereby "He wishes all men to be saved" [*Cf. [5047]FP, Q[19], A[6], ad 1]. For this will is not always fulfilled; wherefore no wonder if that also which the saints will according to this kind of will be not fulfilled sometimes.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This prayer of the martyrs is merely their desire to obtain the robe of the body and the fellowship of those who will be saved, and their consent to God's justice in punishing the wicked. Hence a gloss on Apoc. 6:11, "How long, O Lord," says: "They desire an increase of joy and the fellowship of the saints, and they consent to God's justice."
 

@@ -5,9 +5,9 @@ We must now consider magnificence and the vices opposed to it. With regard to ma
 (2) Whether it is a special virtue?
 (3) What is its matter?
 (4) Whether it is a part of fortitude?
-## Whether Magnificence Is A Virtue?
+### Whether Magnificence Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that magnificence is not a virtue. For whoever has one virtue has all the virtues, as stated above ([3382]FS, Q[65], A[1]). But one may have the other virtues without having magnificence: because the Philosopher says (Ethic. iv, 2) that "not every liberal man is magnificent." Therefore magnificence is not a virtue.
 
@@ -17,13 +17,13 @@ Objection 3: Further, no virtue is opposed to a natural inclination, but on the 
 
 Objection 4: Further, according to the Philosopher (Ethic. vi, 4) "act is right reason about things to be made." Now magnificence is about things to be made, as its very name denotes [*Magnificence= magna facere---i.e. to make great things]. Therefore it is an act rather than a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Human virtue is a participation of Divine power. But magnificence [virtutis] belongs to Divine power, according to Ps. 47:35: "His magnificence and His power is in the clouds." Therefore magnificence is a virtue.
 
 I answer that, According to De Coelo i, 16, "we speak of virtue in relation to the extreme limit of a thing's power," not as regards the limit of deficiency, but as regards the limit of excess, the very nature of which denotes something great. Wherefore to do something great, whence magnificence takes its name, belongs properly to the very notion of virtue. Hence magnificence denotes a virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Not every liberal man is magnificent as regards his actions, because he lacks the wherewithal to perform magnificent deeds. Nevertheless every liberal man has the habit of magnificence, either actually or in respect of a proximate disposition thereto, as explained above (Q[129], A[3], ad 2), as also ([3385]FS, Q[65], A[1]) when we were treating of the connection of virtues.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: It is true that magnificence observes the extreme, if we c
 Reply to Objection 3: It belongs to magnificence to do something great. But that which regards a man's person is little in comparison with that which regards Divine things, or even the affairs of the community at large. Wherefore the magnificent man does not intend principally to be lavish towards himself, not that he does not seek his own good, but because to do so is not something great. Yet if anything regarding himself admits of greatness, the magnificent man accomplishes it magnificently: for instance, things that are done once, such as a wedding, or the like; or things that are of a lasting nature; thus it belongs to a magnificent man to provide himself with a suitable dwelling, as stated in Ethic. iv.
 
 Reply to Objection 4: As the Philosopher says (Ethic. vi, 5) "there must needs be a virtue of act," i.e. a moral virtue, whereby the appetite is inclined to make good use of the rule of act: and this is what magnificence does. Hence it is not an act but a virtue.
-## Whether Magnificence Is A Special Virtue?
+### Whether Magnificence Is A Special Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that magnificence is not a special virtue. For magnificence would seem to consist in doing something great. But it may belong to any virtue to do something great, if the virtue be great: as in the case of one who has a great virtue of temperance, for he does a great work of temperance. Therefore, magnificence is not a special virtue, but denotes a perfect degree of any virtue.
 
@@ -42,7 +42,7 @@ Objection 2: Further, seemingly that which tends to a thing is the same as that 
 
 Objection 3: Further, magnificence seems to belong to holiness, for it is written (Ex. 15:11): "Magnificent [Douay: 'glorious'] in holiness," and (Ps. 95:6): "Holiness and magnificence [Douay: 'Majesty'] in His sanctuary." Now holiness is the same as religion, as stated above ([3388]Q[81], A[8]). Therefore magnificence is apparently the same as religion. Therefore it is not a special virtue, distinct from the others.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher reckons it with other special virtues (Ethic. ii, 7; iv 2).
 
@@ -52,16 +52,16 @@ Accordingly if magnificence be taken to denote the doing of something great, the
 
 If, on the other hand, magnificence take its name from doing something great, the doing [facere] being understood in a broad sense, it is not a special virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: It belongs to every perfect virtue to do something great in the genus of that virtue, if "doing" [facere] be taken in the broad sense, but not if it be taken strictly, for this is proper to magnificence.
 
 Reply to Objection 2: It belongs to magnanimity not only to tend to something great, but also to do great works in all the virtues, either by making [faciendo], or by any kind of action, as stated in Ethic. iv, 3: yet so that magnanimity, in this respect, regards the sole aspect of great, while the other virtues which, if they be perfect, do something great, direct their principal intention, not to something great, but to that which is proper to each virtue: and the greatness of the thing done is sometimes consequent upon the greatness of the virtue.
 
 Reply to Objection 3: The intention of magnificence is the production of a great work. Now works done by men are directed to an end: and no end of human works is so great as the honor of God: wherefore magnificence does a great work especially in reference to the Divine honor. Wherefore the Philosopher says (Ethic. iv, 2) that "the most commendable expenditure is that which is directed to Divine sacrifices": and this is the chief object of magnificence. For this reason magnificence is connected with holiness, since its chief effect is directed to religion or holiness.
-## Whether The Matter Of Magnificence Is Great Expenditure?
+### Whether The Matter Of Magnificence Is Great Expenditure?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the matter of magnificence is not great expenditure. For there are not two virtues about the same matter. But liberality is about expenditure, as stated above ([3389]Q[117], A[2]). Therefore magnificence is not about expenditure.
 
@@ -71,13 +71,13 @@ Objection 3: Further, it belongs to magnificence to produce an external work. Bu
 
 Objection 4: Further, only the rich are capable of great expenditure. But the poor are able to possess all the virtues, since "the virtues do not necessarily require external fortune, but are sufficient for themselves," as Seneca says (De Ira i: De vita beata xvi). Therefore magnificence is not about great expenditure.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Ethic. iv, 2) that "magnificence does not extend, like liberality, to all transactions in money, but only to expensive ones, wherein it exceeds liberality in scale." Therefore it is only about great expenditure.
 
 I answer that, As stated above [3390](A[2]), it belongs to magnificence to intend doing some great work. Now for the doing of a great work, proportionate expenditure is necessary, for great works cannot be produced without great expenditure. Hence it belongs to magnificence to spend much in order that some great work may be accomplished in becoming manner. Wherefore the Philosopher says (Ethic. iv, 2) that "a magnificent man will produce a more magnificent work with equal," i.e. proportionate, "expenditure." Now expenditure is the outlay of a sum of money; and a man may be hindered from making that outlay if he love money too much. Hence the matter of magnificence may be said to be both this expenditure itself, which the magnificent man uses to produce a great work, and also the very money which he employs in going to great expense, and as well as the love of money, which love the magnificent man moderates, lest he be hindered from spending much.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated above ([3391]Q[129], A[2]), those virtues that are about external things experience a certain difficulty arising from the genus itself of the thing about which the virtue is concerned, and another difficulty besides arising from the greatness of that same thing. Hence the need for two virtues, concerned about money and its use; namely, liberality, which regards the use of money in general, and magnificence, which regards that which is great in the use of money.
 
@@ -86,9 +86,9 @@ Reply to Objection 2: The use of money regards the liberal man in one way and th
 Reply to Objection 3: The magnificent man also makes gifts of presents, as stated in Ethic. iv, 2, but not under the aspect of gift, but rather under the aspect of expenditure directed to the production of some work, for instance in order to honor someone, or in order to do something which will reflect honor on the whole state: as when he brings to effect what the whole state is striving for.
 
 Reply to Objection 4: The chief act of virtue is the inward choice, and a virtue may have this without outward fortune: so that even a poor man may be magnificent. But goods of fortune are requisite as instruments to the external acts of virtue: and in this way a poor man cannot accomplish the outward act of magnificence in things that are great simply. Perhaps, however, he may be able to do so in things that are great by comparison to some particular work; which, though little in itself, can nevertheless be done magnificently in proportion to its genus: for little and great are relative terms, as the Philosopher says (De Praedic. Cap. Ad aliquid.).
-## Whether Magnificence Is A Part Of Fortitude?
+### Whether Magnificence Is A Part Of Fortitude?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that magnificence is not a part of fortitude. For magnificence agrees in matter with liberality, as stated above [3392](A[3]). But liberality is a part, not of fortitude, but of justice. Therefore magnificence is not a part of fortitude.
 
@@ -96,7 +96,7 @@ Objection 2: Further, fortitude is about fear and darings. But magnificence seem
 
 Objection 3: Further, the Philosopher says (Ethic. iv, 2) that "the magnificent man is like the man of science." Now science has more in common with prudence than with fortitude. Therefore magnificence should not be reckoned a part of fortitude.
 
-### Answer
+**Answer**
 
 On the contrary, Tully (De Invent. Rhet. ii) and Macrobius (De Somn. Scip. i) and Andronicus reckon magnificence to be a part of fortitude.
 
@@ -104,7 +104,7 @@ I answer that, Magnificence, in so far as it is a special virtue, cannot be reck
 
 In order for a virtue to be annexed to a principal virtue, two things are necessary, as stated above ([3393]Q[80]). The one is that the secondary virtue agree with the principal, and the other is that in some respect it be exceeded thereby. Now magnificence agrees with fortitude in the point that as fortitude tends to something arduous and difficult, so also does magnificence: wherefore seemingly it is seated, like fortitude, in the irascible. Yet magnificence falls short of fortitude, in that the arduous thing to which fortitude tends derives its difficulty from a danger that threatens the person, whereas the arduous thing to which magnificence tends, derives its difficulty from the dispossession of one's property, which is of much less account than danger to one's person. Wherefore magnificence is accounted a part of fortitude.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Justice regards operations in themselves, as viewed under the aspect of something due: but liberality and magnificence regard sumptuary operations as related to the passions of the soul, albeit in different ways. For liberality regards expenditure in reference to the love and desire of money, which are passions of the concupiscible faculty, and do not hinder the liberal man from giving and spending: so that this virtue is in the concupiscible. On the other hand, magnificence regards expenditure in reference to hope, by attaining to the difficulty, not simply, as magnanimity does, but in a determinate matter, namely expenditure: wherefore magnificence, like magnanimity, is apparently in the irascible part.
 

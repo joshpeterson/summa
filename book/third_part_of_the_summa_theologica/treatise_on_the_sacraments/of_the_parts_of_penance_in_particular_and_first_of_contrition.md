@@ -4,9 +4,9 @@ We must now consider each single part of Penance, and (1) Contrition; (2) Confes
 (1) Whether Contrition is suitably defined?
 (2) Whether it is an act of virtue?
 (3) Whether attrition can become contrition?
-## Whether Contrition Is An Assumed Sorrow For Sins, Together With The Purpose Of Confessing Them And Of Making Satisfaction For Them?
+### Whether Contrition Is An Assumed Sorrow For Sins, Together With The Purpose Of Confessing Them And Of Making Satisfaction For Them?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that contrition is not "an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them," as some define it. For, as Augustine states (De Civ. Dei xiv, 6), "sorrow is for those things that happen against our will." But this does not apply to sin. Therefore contrition is not sorrow for sins.
 
@@ -14,7 +14,7 @@ Objection 2: Further, contrition is given us by God. But what is given is not as
 
 Objection 3: Further, satisfaction and confession are necessary for the remission of the punishment which was not remitted by contrition. But sometimes the whole punishment is remitted in contrition. Therefore it is not always necessary for the contrite person to have the purpose of confessing and of making satisfaction.
 
-### Answer
+**Answer**
 
 On the contrary, stands the definition.
 
@@ -24,47 +24,47 @@ In this contrition several things are to be observed, viz. the very substance of
 
 There is another definition which defines contrition, only as an act of virtue; but at the same time including the difference which confines it to a special virtue, viz. penance, for it is thus expressed: "Contrition is voluntary sorrow for sin whereby man punishes in himself that which he grieves to have done," because the addition of the word "punishes" defines the definition to a special virtue. Another definition is given by Isidore (De Sum. Bono ii, 12) as follows: "Contrition is a tearful sorrow and humility of mind, arising from remembrance of sin and fear of the Judgment." Here we have an allusion to the derivation of the word, when it is said that it is "humility of the mind," because just as pride makes the mind rigid, so is a man humbled, when contrition leads him to give up his mind. Also the external manner is indicated by the word "tearful," and the origin of contrition, by the words, "arising from remembrance of sin," etc. Another definition is taken from the words of Augustine [*Implicitly on Ps. 46], and indicates the effect of contrition. It runs thus: "Contrition is the sorrow which takes away sin." Yet another is gathered from the words of Gregory (Moral. xxxiii, 11) as follows: "Contrition is humility of the soul, crushing sin between hope and fear." Here the derivation is indicated by saying that contrition is "humility of the soul"; the effect, by the words, "crushing sin"; and the origin, by the words, "between hope and fear." Indeed, it includes not only the principal cause, which is fear, but also its joint cause, which is hope, without which, fear might lead to despair.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although sins, when committed, were voluntary, yet when we are contrite for them, they are no longer voluntary, so that they occur against our will; not indeed in respect of the will that we had when we consented to them, but in respect of that which we have now, so as to wish they had never been.
 
 Reply to Objection 2: Contrition is from God alone as to the form that quickens it, but as to the substance of the act, it is from the free-will and from God, Who operates in all works both of nature and of will.
 
 Reply to Objection 3: Although the entire punishment may be remitted by contrition, yet confession and satisfaction are still necessary, both because man cannot be sure that his contrition was sufficient to take away all, and because confession and satisfaction are a matter of precept: wherefore he becomes a transgressor, who confesses not and makes not satisfaction.
-## Whether Contrition Is An Act Of Virtue?
+### Whether Contrition Is An Act Of Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that contrition is not an act of virtue. For passions are not acts of virtue, since "they bring us neither praise nor blame" (Ethic. ii, 5). But sorrow is a passion. As therefore contrition is sorrow, it seems that it is not an act of virtue.
 
 Objection 2: Further, as contrition is so called from its being a crushing, so is attrition. Now all agree in saying that attrition is not an act of virtue. Neither, therefore, is contrition an act of virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Nothing but an act of virtue is meritorious. But contrition is a meritorious act. Therefore it is an act of virtue.
 
 I answer that, Contrition as to the literal signification of the word, does not denote an act of virtue, but a corporeal passion. But the question in point does not refer to contrition in this sense, but to that which the word is employed to signify by way of metaphor. For just as the inflation of one's own will unto wrong-doing implies, in itself, a generic evil, so the utter undoing and crushing of that same will implies something generically good, for this is to detest one's own will whereby sin was committed. Wherefore contrition, which signifies this, implies rectitude of the will; and so it is the act of that virtue to which it belongs to detest and destroy past sins, the act, to wit, of penance, as is evident from what was said above (Sent. iv, D, 14, Q[1], A[1]; [4821]TP, Q[85], AA[2],3).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Contrition includes a twofold sorrow for sin. One is in the sensitive part, and is a passion. This does not belong essentially to contrition as an act of virtue, but is rather its effect. For just as the virtue of penance inflicts outward punishment on the body, in order to compensate for the offense done to God through the instrumentality of the bodily members, so does it inflict on the concupiscible part of the soul a punishment, viz. the aforesaid sorrow, because the concupiscible also co-operated in the sinful deeds. Nevertheless this sorrow may belong to contrition taken as part of the sacrament, since the nature of a sacrament is such that it consists not only of internal but also of external acts and sensible things. The other sorrow is in the will, and is nothing else save displeasure for some evil, for the emotions of the will are named after the passions, as stated above (Sent. iii, D, 26, Q[1], A[5]; [4822]FS, Q[22], A[3], ad 3). Accordingly, contrition is essentially a kind of sorrow, and is an act of the virtue of penance.
 
 Reply to Objection 2: Attrition denotes approach to perfect contrition, wherefore in corporeal matters, things are said to be attrite, when they are worn away to a certain extent, but not altogether crushed to pieces; while they are said to be contrite, when all the parts are crushed [tritae] minutely. Wherefore, in spiritual matters, attrition signifies a certain but not a perfect displeasure for sins committed, whereas contrition denotes perfect displeasure.
-## Whether Attrition Can Become Contrition?
+### Whether Attrition Can Become Contrition?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that attrition can become contrition. For contrition differs from attrition, as living from dead. Now dead faith becomes living. Therefore attrition can become contrition.
 
 Objection 2: Further, matter receives perfection when privation is removed. Now sorrow is to grace, as matter to form, because grace quickens sorrow. Therefore the sorrow that was previously lifeless, while guilt remained, receives perfection through being quickened by grace: and so the same conclusion follows as above.
 
-### Answer
+**Answer**
 
 On the contrary, Things which are caused by principles altogether diverse cannot be changed, one into the other. Now the principle of attrition is servile fear, while filial fear is the cause of contrition. Therefore attrition cannot become contrition.
 
 I answer that, There are two opinions on this question: for some say that attrition may become contrition, even as lifeless faith becomes living faith. But, seemingly, this is impossible; since, although the habit of lifeless faith becomes living, yet never does an act of lifeless faith become an act of living faith, because the lifeless act passes away and remains no more, as soon as charity comes. Now attrition and contrition do not denote a habit, but an act only: and those habits of infused virtue which regard the will cannot be lifeless, since they result from charity, as stated above (Sent. iii, D, 27, Q[2], A[4]; [4823]FS, Q[65], A[4]). Wherefore until grace be infused, there is no habit by which afterwards the act of contrition may be elicited; so that attrition can nowise become attrition: and this is the other opinion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There is no comparison between faith and contrition, as stated above.
 

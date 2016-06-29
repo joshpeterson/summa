@@ -3,9 +3,9 @@
 We must next consider active and contemplative life. This consideration will be fourfold: (1) Of the division of life into active and contemplative; (2) Of the contemplative life; (3) Of the active life; (4) Of the comparison between the active and the contemplative life.  Under the first head there are two points of inquiry:
 (1) Whether life is fittingly divided into active and contemplative?
 (2) Whether this is an adequate division?
-## Whether Life Is Fittingly Divided Into Active And Contemplative?
+### Whether Life Is Fittingly Divided Into Active And Contemplative?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that life is not fittingly divided into active and contemplative. For the soul is the principle of life by its essence: since the Philosopher says (De Anima ii, 4) that "in living things to live is to be." Now the soul is the principle of action and contemplation by its powers. Therefore it would seem that life is not fittingly divided into active and contemplative.
 
@@ -13,7 +13,7 @@ Objection 2: Further, the division of that which comes afterwards is unfittingly
 
 Objection 3: Further, the word "life" implies movement, according to Dionysius (Div. Nom. vi): whereas contemplation consists rather in rest, according to Wis. 8:16: "When I enter into my house, I shall repose myself with her." Therefore it would seem that life is unfittingly divided into active and contemplative.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Hom. xiv super Ezech.): "There is a twofold life wherein Almighty God instructs us by His holy word, the active life and the contemplative."
 
@@ -21,16 +21,16 @@ I answer that, Properly speaking, those things are said to live whose movement o
 
 Accordingly since certain men are especially intent on the contemplation of truth, while others are especially intent on external actions, it follows that man's life is fittingly divided into active and contemplative.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Each thing's proper form that makes it actually "to be" is properly that thing's principle of operation. Hence "to live" is, in living things, "to be," because living things through having "being" from their form, act in such and such a way.
 
 Reply to Objection 2: Life in general is not divided into active and contemplative, but the life of man, who derives his species from having an intellect, wherefore the same division applies to intellect and human life.
 
 Reply to Objection 3: It is true that contemplation enjoys rest from external movements. Nevertheless to contemplate is itself a movement of the intellect, in so far as every operation is described as a movement; in which sense the Philosopher says (De Anima iii, 7) that sensation and understanding are movements of a kind, in so far as movement is defined "the act of a perfect thing." In this way Dionysius (Div. Nom. iv) ascribes three movements to the soul in contemplation, namely, "straight," "circular," and "oblique" [*Cf.[3714] Q[180], A[6]].
-## Whether Life Is Adequately Divided Into Active And Contemplative?
+### Whether Life Is Adequately Divided Into Active And Contemplative?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that life is not adequately divided into active and contemplative. For the Philosopher says (Ethic. i, 5) that there are three most prominent kinds of life, the life of "pleasure," the "civil" which would seem to be the same as the active, and the "contemplative" life. Therefore the division of life into active and contemplative would seem to be inadequate.
 
@@ -38,13 +38,13 @@ Objection 2: Further, Augustine (De Civ. Dei xix, 1,2,3,19) mentions three kinds
 
 Objection 3: Further, man's life is diversified according to the divers actions in which men are occupied. Now there are more than two occupations of human actions. Therefore it would seem that life should be divided into more kinds than the active and the contemplative.
 
-### Answer
+**Answer**
 
 On the contrary, These two lives are signified by the two wives of Jacob; the active by Lia, and the contemplative by Rachel: and by the two hostesses of our Lord; the contemplative life by Mary, and the active life by Martha, as Gregory declares (Moral. vi, 37 [*Hom. xiv in Ezech.]). Now this signification would not be fitting if there were more than two lives. Therefore life is adequately divided into active and contemplative.
 
 I answer that, As stated above (A[1], ad 2), this division applies to the human life as derived from the intellect. Now the intellect is divided into active and contemplative, since the end of intellective knowledge is either the knowledge itself of truth, which pertains to the contemplative intellect, or some external action, which pertains to the practical or active intellect. Therefore life too is adequately divided into active and contemplative.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The life of pleasure places its end in pleasures of the body, which are common to us and dumb animals; wherefore as the Philosopher says (Ethic. Ethic. i, 5), it is the life "of a beast." Hence it is not included in this division of the life of a man into active and contemplative.
 

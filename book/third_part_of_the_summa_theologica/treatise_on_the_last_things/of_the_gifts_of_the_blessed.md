@@ -6,9 +6,9 @@
 (3) Whether it is fitting for Christ to have gifts?
 (4) Whether this is competent to the angels?
 (5) Whether three gifts of the soul are rightly assigned?
-## Whether Any Gifts Should Be Assigned As Dowry To The Blessed?
+### Whether Any Gifts Should Be Assigned As Dowry To The Blessed?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no gifts should be assigned as dowry to the blessed. For a dowry (Cod. v, 12, De jure dot. 20: Dig. xxiii, 3, De jure dot.) is given to the bridegroom for the upkeep of the burdens of marriage. But the saints resemble not the bridegroom but the bride, as being members of the Church. Therefore they receive no dowry.
 
@@ -20,13 +20,13 @@ Objection 4: Further, a dowry is not given save on the occasion of marriage. But
 
 Objection 5: Further, a dowry pertains to external goods, which are styled goods of fortune: whereas the reward of the blessed will consist of internal goods. Therefore they should not be called a dowry.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Eph. 5:32): "This is a great sacrament: but I speak in Christ and in the Church." Hence it follows that the spiritual marriage is signified by the carnal marriage. But in a carnal marriage the dowered bride is brought to the dwelling of the bridegroom. Therefore since the saints are brought to Christ's dwelling when they are beatified, it would seem that they are dowered with certain gifts.
 
 I answer that, Without doubt the blessed when they are brought into glory are dowered by God with certain gifts for their adornment, and this adornment is called their dowry by the masters. Hence the dower of which we speak now is defined thus: "The dowry is the everlasting adornment of soul and body adequate to life, lasting for ever in eternal bliss." This description is taken from a likeness to the material dowry whereby the bride is adorned and the husband provided with an adequate support for his wife and children, and yet the dowry remains inalienable from the bride, so that if the marriage union be severed it reverts to her. As to the reason of the name there are various opinions. For some say that the name "dowry" is taken not from a likeness to the corporeal marriage, but according to the manner of speaking whereby any perfection or adornment of any person whatever is called an endowment; thus a man who is proficient in knowledge is said to be endowed with knowledge, and in this sense ovid employed the word "endowment" (De Arte Amandi i, 538): "By whatever endowment thou canst please, strive to please." But this does not seem quite fitting, for whenever a term is employed to signify a certain thing principally, it is not usually transferred to another save by reason of some likeness. Wherefore since by its primary signification a dowry refers to carnal marriage, it follows that in every other application of the term we must observe some kind of likeness to its principal signification. Consequently others say that the likeness consists in the fact that in carnal marriage a dowry is properly a gift bestowed by the bridegroom on the bride for her adornment when she is taken to the bridegroom's dwelling: and that this is shown by the words of Sichem to Jacob and his sons (Gn. 34:12): "Raise the dowry, and ask gifts," and from Ex. 22:16: "If a man seduce a virgin . . . and lie with her, he shall endow her, and have her to wife." Hence the adornment bestowed by Christ on the saints, when they are brought into the abode of glory, is called a dowry. But this is clearly contrary to what jurists say, to whom it belongs to treat of these matters. For they say that a dowry, properly speaking, is a donation on the part of the wife made to those who are on the part of the husband, in view of the marriage burden which the husband has to bear; while that which the bridegroom gives the bride is called "a donation in view of marriage." In this sense dowry is taken (3 Kings 9:16) where it is stated that "Pharoa, the king of Egypt, took Gezer . . . and gave it for a dowry to his daughter, Solomon's wife." Nor do the authorities quoted prove anything to the contrary. For although it is customary for a dowry to be given by the maiden's parents, it happens sometimes that the bridegroom or his father gives the dowry instead of the bride's father; and this happens in two ways: either by reason of his very great love for the bride as in the case of Sichem's father Hemor, who on account of his son's great love for the maiden wished to give the dowry which he had a right to receive; or as a punishment on the bridegroom, that he should out of his own possessions give a dowry to the virgin seduced by him, whereas he should have received it from the girl's father. In this sense Moses speaks in the passage quoted above. Wherefore in the opinion of others we should hold that in carnal marriage a dowry, properly speaking, is that which is given by those on the wife's side to those on the husband's side, for the bearing of the marriage burden, as stated above. Yet the difficulty remains how this signification can be adapted to the case in point, since the heavenly adornments are given to the spiritual spouse by the Father of the Bridegroom. This shall be made clear by replying to the objections.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although in carnal marriage the dowry is given to the bridegroom for his use, yet the ownership and control belong to the bride: which is evident by the fact that if the marriage be dissolved, the dowry reverts to the bride according to law (Cap. 1,2,3, De donat. inter virum et uxorem). Thus also in spiritual marriage, the very adornments bestowed on the spiritual bride, namely the Church in her members, belong indeed to the Bridegroom, in so far as they conduce to His glory and honor, yet to the bride as adorned thereby.
 
@@ -37,9 +37,9 @@ Reply to Objection 3: That which is effected by the dowry belongs to the dowry b
 Reply to Objection 4: The dowry is usually settled on the bride not when she is espoused, but when she is taken to the bridegroom's dwelling, so as to be in the presence of the bridegroom, since "while we are in the body we are absent from the Lord" (2 Cor. 5:6). Hence the gifts bestowed on the saints in this life are not called a dowry, but those which are bestowed on them when they are received into glory, where the Bridegroom delights them with His presence.
 
 Reply to Objection 5: In spiritual marriage inward comeliness is required, wherefore it is written (Ps. 44:14): "All the glory of the king's daughter is within," etc. But in carnal marriage outward comeliness is necessary. Hence there is no need for a dowry of this kind to be appointed in spiritual marriage as in carnal marriage.
-## Whether The Dowry Is The Same As Beatitude?
+### Whether The Dowry Is The Same As Beatitude?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the dowry is the same as beatitude. For as appears from the definition of dowry [5138](A[1]), the dowry is "the everlasting adornment of body and soul in eternal happiness." Now the happiness of the soul is an adornment thereof. Therefore beatitude is a dowry.
 
@@ -51,13 +51,13 @@ Objection 4: Further, fruition gives happiness. Now fruition is a dowry. Therefo
 
 Objection 5: Further, according to Boethius (De Consol. iii), "beatitude is a state made perfect by the aggregate of all good things." Now the state of the blessed is perfected by the dowries. Therefore the dowries are part of beatitude.
 
-### Answer
+**Answer**
 
 On the contrary, The dowries are given without merits: whereas beatitude is not given, but is awarded in return for merits. Therefore beatitude is not a dowry.
 
 I answer that, There are two opinions on this question. For some say that beatitude and dowry are the same in reality but differ in aspect: because dowry regards the spiritual marriage between Christ and the soul, whereas beatitude does not. But seemingly this will not stand, since beatitude consists in an operation, whereas a dowry is not an operation, but a quality or disposition. Wherefore according to others it must be stated that beatitude and dowry differ even in reality, beatitude being the perfect operation itself by which the soul is united to God, while the dowries are habits or dispositions or any other qualities directed to this same perfect operation, so that they are directed to beatitude instead of being in it as parts thereof.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Beatitude, properly speaking, is not an adornment of the soul, but something resulting from the soul's adornment; since it is an operation, while its adornment is a certain comeliness of the blessed themselves.
 
@@ -66,9 +66,9 @@ Reply to Objection 2: Beatitude is not directed to the union but is the union it
 Reply to Objection 3: Vision may be taken in two ways. First, actually, i.e. for the act itself of vision; and thus vision is not a dowry, but beatitude itself. Secondly, it may be taken habitually, i.e. for the habit whereby this act is elicited, namely the clarity of glory, by which the soul is enlightened from above to see God: and thus it is a dowry and the principle of beatitude, but not beatitude itself. The same answer applies to OBJ 4.
 
 Reply to Objection 5: Beatitude is the sum of all goods not as though they were essential parts of beatitude, but as being in a way directed to beatitude, as stated above.
-## Whether It Is Fitting That Christ Should Receive A Dowry?
+### Whether It Is Fitting That Christ Should Receive A Dowry?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem fitting that Christ should receive a dowry. For the saints will be conformed to Christ through glory, according to Phil. 3:21, "Who will reform the body of our lowness made like to the body of His glory." Therefore Christ also will have a dowry.
 
@@ -80,13 +80,13 @@ Objection 4: Further, a dowry is due to all the members of the Church, since the
 
 Objection 5: Further, Christ has perfect vision, fruition, and joy. Now these are the dowries. Therefore, etc.
 
-### Answer
+**Answer**
 
 On the contrary, A distinction of persons is requisite between the bridegroom and the bride. But in Christ there is nothing personally distinct from the Son of God Who is the Bridegroom, as stated in Jn. 3:29, "He that hath the bride is the bridegroom." Therefore since the dowry is allotted to the bride or for the bride, it would seem unfitting for Christ to have a dowry.
 
 I answer that, There are two opinions on this point. For some say that there is a threefold union in Christ. One is the union of concord, whereby He is united to God in the bond of love; another is the union of condescension, whereby the human nature is united to the Divine; the third is the union whereby Christ is united to the Church. They say, then, that as regards the first two unions it is fitting for Christ to have the dowries as such, but as regards the third, it is fitting for Him to have the dowries in the most excellent degree, considered as to that in which they consist, but not considered as dowries; because in this union Christ is the bridegroom and the Church the bride, and a dowry is given to the bride as regards property and control, although it is given to the bridegroom as to use. But this does not seem congruous. For in the union of Christ with the Father by the concord of love, even if we consider Him as God, there is not said to be a marriage, since it implies no subjection such as is required in the bride towards the bridegroom. Nor again in the union of the human nature with the Divine, whether we consider the Personal union or that which regards the conformity of will, can there be a dowry, properly speaking, for three reasons. First, because in a marriage where a dowry is given there should be likeness of nature between bridegroom and bride, and this is lacking in the union of the human nature with the Divine; secondly, because there is required a distinction of persons, and the human nature is not personally distinct from the Word; thirdly, because a dowry is given when the bride is first taken to the dwelling of the bridegroom and thus would seem to belong to the bride, who from being not united becomes united; whereas the human nature, which was assumed into the unity of Person by the Word, never was otherwise than perfectly united. Wherefore in the opinion of others we should say that the notion of dowry is either altogether unbecoming to Christ, or not so properly as to the saints; but that the things which we call dowries befit Him in the highest degree.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This conformity must be understood to refer to the thing which is a dowry and not to the notion of a dowry being in Christ: for it is not requisite that the thing in which we are conformed to Christ should be in the same way in Christ and in us.
 
@@ -97,9 +97,9 @@ Reply to Objection 3: If Christ is sometimes spoken of as the Bride, this is not
 Reply to Objection 4: The term Church is taken in two senses. For sometimes it denotes the body only, which is united to Christ as its Head. In this way alone has the Church the character of spouse: and in this way Christ is not a member of the Church, but is the Head from which all the members receive. In another sense the Church denotes the head and members united together; and thus Christ is said to be a member of the Church, inasmuch as He fulfills an office distinct from all others, by pouring forth life into the other members: although He is not very properly called a member, since a member implies a certain restriction, whereas in Christ spiritual good is not restricted but is absolutely entire [*Cf. [5139]TP, Q[8], A[1]], so that He is the entire good of the Church, nor is He together with others anything greater than He is by Himself. Speaking of the Church in this sense, the Church denotes not only the bride, but the bridegroom and bride, in so far as one thing results from their spiritual union. Consequently although Christ be called a member of the Church in a certain sense, He can by no means be called a member of the bride; and therefore the idea of a dowry is not becoming to Him.
 
 Reply to Objection 5: There is here a fallacy of "accident"; for these things are not befitting to Christ if we consider them under the aspect of dowry.
-## Whether The Angels Receive The Dowries?
+### Whether The Angels Receive The Dowries?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the angels receive dowries. For a gloss on Canticle of Canticles 6:8, "One is my dove," says: "One is the Church among men and angels." But the Church is the bride, wherefore it is fitting for the members of the Church to have the dowries. Therefore the angels have the dowries.
 
@@ -111,13 +111,13 @@ Objection 4: Further, a spiritual marriage demands a spiritual bridegroom and a 
 
 Objection 5: Further, a greater conformity is required between the head and members than between bridegroom and bride. Now the conformity between Christ and the angels suffices for Christ to be called the Head of the angels. Therefore for the same reason it suffices for Him to be called their bridegroom.
 
-### Answer
+**Answer**
 
 On the contrary, Origen at the beginning of the prologue to his commentary on the Canticles, distinguishes four persons, namely "the bridegroom with the bride, the young maidens, and the companions of the bridegroom": and he says that "the angels are the companions of the bridegroom." Since then the dowry is due only to the bride, it would seem that the dowries are not becoming to the angels.
 
 I answer that, Without any doubt, whatever pertains to the endowments of the soul is befitting to the angels as it is to men. But considered under the aspect of dowry they are not as becoming to the angels as to men, because the character of bride is not so properly becoming to the angels as to men. For there is required a conformity of nature between bridegroom and bride, to wit that they should be of the same species. Now men are in conformity with Christ in this way, since He took human nature, and by so doing became conformed to all men in the specific nature of man. on the other hand, He is not conformed to the angels in unity of species, neither as to His Divine nor as to His human nature. Consequently the notion of dowry is not so properly becoming to angels as to men. Since, however, in metaphorical expressions, it is not necessary to have a likeness in every respect, we must not argue that one thing is not to be said of another metaphorically on account of some lack of likeness; and consequently the argument we have adduced does not prove that the dowries are simply unbecoming to the angels, but only that they are not so properly befitting to angels as to men, on account of the aforesaid lack of likeness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the angels are included in the unity of the Church, they are not members of the Church according to conformity of nature, if we consider the Church as bride: and thus it is not properly fitting for them to have the dowries.
 
@@ -128,9 +128,9 @@ Reply to Objection 3: In the spiritual marriage although there is no other than 
 Reply to Objection 4: The conformity between the angels and Christ as God is not such as suffices for the notion of a perfect marriage, since so far are they from agreeing in species that there is still an infinite distance between them.
 
 Reply to Objection 5: Not even is Christ properly called the Head of the angels, if we consider the head as requiring conformity of nature with the members. We must observe, however, that although the head and the other members are parts of an individual of one species, if we consider each one by itself, it is not of the same species as another member, for a hand is another specific part from the head. Hence, speaking of the members in themselves, the only conformity required among them is one of proportion, so that one receive from another, and one serve another. Consequently the conformity between God and the angels suffices for the notion of head rather than for that of bridegroom.
-## Whether Three Dowries Of The Soul Are Suitably Assigned?
+### Whether Three Dowries Of The Soul Are Suitably Assigned?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unfitting to assign to the soul three dowries, namely, "vision," "love" and "fruition." For the soul is united to God according to the mind wherein is the image of the Trinity in respect of the memory, understanding, and will. Now love regards the will, and vision the understanding. Therefore there should be something corresponding to the memory, since fruition regards not the memory but the will.
 
@@ -146,7 +146,7 @@ Objection 6: Further, Augustine says (De Civ. Dei xxii) that "in that beatitude 
 
 Objection 7: Further, Boethius reckons five things pertaining to beatitude (De Consol. iii) and these are: Sufficiency which wealth offers, joy which pleasure offers, celebrity which fame offers, security which power offers, reverence which dignity offers. Consequently it seems that these should be reckoned as dowries rather than the aforesaid.
 
-### Answer
+**Answer**
 
 
 
@@ -156,7 +156,7 @@ Thus the three dowries correspond to the three theological virtues, namely visio
 
 Others, however, ascribe these three dowries to the three powers of the soul, namely vision to the rational, delight to the concupiscible, and fruition to the irascible, seeing that this fruition is acquired by a victory. But this is not said properly, because the irascible and concupiscible powers are not in the intellective but in the sensitive part, whereas the dowries of the soul are assigned to the mind.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Memory and understanding have but one act: either because understanding is itself an act of memory, or---if understanding denote a power---because memory does not proceed to act save through the medium of the understanding, since it belongs to the memory to retain knowledge. Consequently there is only one habit, namely knowledge, corresponding to memory and understanding: wherefore only one dowry, namely vision, corresponds to both.
 

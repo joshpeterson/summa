@@ -4,9 +4,9 @@ We must now consider the form of the Judge in coming to the judgment. Under this
 (1) Whether Christ will judge under the form or His humanity?
 (2) Whether He will appear under the form of His glorified humanity?
 (3) Whether His Godhead can be seen without joy?
-## Whether Christ Will Judge Under The Form Of His Humanity?
+### Whether Christ Will Judge Under The Form Of His Humanity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ will not judge under the form of His humanity. For judgment requires authority in the judge. Now Christ has authority over the quick and the dead as God, for thus is He the Lord and Creator of all. Therefore He will judge under the form of His Godhead.
 
@@ -18,13 +18,13 @@ Objection 4: Further, it is written (Dan. 7:9): "I beheld till thrones were plac
 
 Objection 5: Further, Augustine says (Tract. xix in Joan.) that "the resurrection of the soul is the work of the Word the Son of God, and the resurrection of the body is the work of the Word made the Son of man in the flesh." Now that last judgment regards the soul rather than the body. Therefore it becomes Christ to judge as God rather than as man.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 5:27): "He hath given Him power to do judgment, because He is the Son of man."
 
 I answer that, Judgment requires a certain authority in the judge. Wherefore it is written (Rom. 14:4): "Who art thou that judgest another man's servant?" Hence it is becoming that Christ should judge in respect of His having authority over men to whom chiefly the last judgment will be directed. Now He is our Lord, not only by reason of the Creation, since "the Lord He is God, He made us and not we ourselves" (Ps. 99:3), but also by reason of the Redemption, which pertains to Him in respect of His human nature. Wherefore "to this end Christ died and rose again, that He might be Lord both of the dead and of the living" (Rom. 14:9). But the goods of the Creation would not suffice us to obtain the reward of eternal life, without the addition of the boon of the Redemption, on account of the obstacle accruing to created nature through the sin of our first parent. Hence, since the last judgment is directed to the admission of some to the kingdom, and the exclusion of others therefrom, it is becoming that Christ should preside at that judgment under the form of His human nature, since it is by favor of that same nature's Redemption that man is admitted to the kingdom. In this sense it is stated (Acts 10:42) that "He . . . was appointed by God to be Judge of the living and of the dead." And forasmuch as by redeeming mankind He restored not only man but all creatures without exception---inasmuch as all creatures are bettered through man's restoration, according to Col. 1:20, "Making peace through the blood of His cross, both as to things on earth, and the things that are in heaven"---it follows that through His Passion Christ merited lordship and judicial power not over man alone, but over all creatures, according to Mat. 28:18, "All power is given to Me, in heaven and in earth" [*Cf. TP, Q[59]].
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ, in respect of His Divine nature, has authority of lordship over all creatures by right of creation; but in respect of His human nature He has authority of lordship merited through His Passion. The latter is secondary so to speak and acquired, while the former is natural and eternal.
 
@@ -35,9 +35,9 @@ Reply to Objection 3: Christ would not have sufficed for the redemption of manki
 Reply to Objection 4: In that vision of Daniel the whole order of the judicial power is clearly expressed. This power is in God Himself as its first origin, and more especially in the Father Who is the fount of the entire Godhead; wherefore it is stated in the first place that the "Ancient of days sat." But the judicial power was transmitted from the Father to the Son, not only from eternity in respect of the Divine nature, but also in time in respect of the human nature wherein He merited it. Hence in the aforesaid vision it is further stated (Dan. 7:13,14): "Lo, one like the Son of man came with the clouds of heaven, and He came even to the Ancient of days . . . And He gave Him power and glory, and a kingdom."
 
 Reply to Objection 5: Augustine is speaking by a kind of appropriation, so as to trace the effects which Christ wrought in the human nature to causes somewhat similar to them. And since we are made to the image and likeness of God in respect of our soul, and are of the same species as the man Christ in respect of our body, he ascribes to the Godhead the effects wrought by Christ in our souls, and those which He wrought or will work in our bodies he ascribes to His flesh; although His flesh, as being the instrument of His Godhead, has also its effect on our souls as Damascene asserts (De Fide Orth. iii, 15), according to the saying of Heb. 9:14, that His "blood" hath cleansed "our conscience from dead works." And thus that "the Word was made flesh" is the cause of the resurrection of souls; wherefore also according to His human nature He is becomingly the Judge not only of bodily but also of spiritual goods [*Cf. [5113]TP, Q[56], A[2], ad 1].
-## Whether At The Judgment Christ Will Appear In His Glorified Humanity?
+### Whether At The Judgment Christ Will Appear In His Glorified Humanity?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that at the judgment Christ will not appear in His glorified humanity. For a gloss [*St. Augustine, Tract. cxx in Joan.] on Jn. 19:37, "They shall look on him whom they pierced," says: "Because He will come in the flesh wherein He was crucified." Now He was crucified in the form of weakness. Therefore He will appear in the form of weakness and not in the form of glory.
 
@@ -49,13 +49,13 @@ Objection 4: Further, that which is promised as a reward to the righteous is not
 
 Objection 5: Further, Christ will judge in the form wherein He was judged: wherefore a gloss [*St. Augustine, Tract. xix, in Joan.] on Jn. 5:21, "So the Son also giveth life to whom He will," says: "He will judge justly in the form wherein He was judged unjustly, that He may be visible to the wicked." Now He was judged in the form of weakness. Therefore He will appear in the same form at the judgment.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 21:27): "Then they shall see the Son of man coming in a cloud with great power and majesty." Now majesty and power pertain to glory. Therefore He will appear in the form of glory.
 
 I answer that, Christ is called the mediator of God and men (1 Tim. 2:5) inasmuch as He satisfies for men and intercedes for them to the Father, and confers on men things which belong to the Father, according to Jn. 17:22, "The glory which Thou hast given Me, I have given to them." Accordingly then both these things belong to Him in that He communicates with both extremes: for in that He communicates with men, He takes their part with the Father, and in that He communicates with the Father, He bestows the Father's gifts on men. Since then at His first coming He came in order to make satisfaction for us to the Father, He came in the form of our weakness. But since at His second coming He will come in order to execute the Father's justice on men, He will have to show forth His glory which is in Him by reason of His communication with the Father: and therefore He will appear in the form of glory.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: He will appear in the same flesh, but not under the same form.
 
@@ -66,9 +66,9 @@ Reply to Objection 3: A glorified body has it in its power to show itself or not
 Reply to Objection 4: Even as our friend's glory gives us pleasure, so the glory and power of one we hate is most displeasing to us. Hence as the sight of the glory of Christ's humanity will be a reward to the righteous, so will it be a torment to Christ's enemies: wherefore it is written (Is. 26:11): "Let the envious people see and be confounded and let fire" (i.e. envy) "devour Thy enemies."
 
 Reply to Objection 5: Form is taken there for human nature wherein He was judged and likewise will judge; but not for a quality of nature, namely of weakness, which will not be the same in Him when judging as when judged (Cf. ad 2).
-## Whether The Godhead Can Be Seen By The Wicked Without Joy?
+### Whether The Godhead Can Be Seen By The Wicked Without Joy?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the Godhead can be seen by the wicked without joy. For there can be no doubt that the wicked will know with the greatest certainty that Christ is God. Therefore they will see His Godhead, and yet they will not rejoice in seeing Christ. Therefore it will be possible to see it without joy.
 
@@ -80,13 +80,13 @@ Objection 4: Further, whatever is received into "a thing is received according t
 
 Objection 5: Further, as sense is to the sensible object, so is the intellect to the intelligible object. Now in the senses, "to the unhealthy palate bread is painful, to the healthy palate sweet," as Augustine says (Confess. vii), and the same happens with the other senses. Therefore since the damned have the intellect indisposed, it would seem that the vision of the uncreated light will give them pain rather than joy.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jn. 17:3): "This is eternal life: That they may know Thee, the . . . true God." Wherefore it is clear that the essence of bliss consists in seeing God. Now joy is essential to bliss. Therefore the Godhead cannot be seen without joy.
 
 I answer that, In every object of appetite or of pleasure two things may be considered, namely the thing which is desired or which gives pleasure, and the aspect of appetibility or pleasurableness in that thing. Now according to Boethius (De Hebdom.) that which is can have something besides what it is, but 'being' itself has no admixture of aught else beside itself. Hence that which is desirable or pleasant can have an admixture of something rendering it undesirable or unpleasant; but the very aspect of pleasurableness has not and cannot have anything mixed with it rendering it unpleasant or undesirable. Now it is possible for things that are pleasurable, by participation of goodness which is the aspect of appetibility or pleasurableness, not to give pleasure when they are apprehended, but it is impossible for that which is good by its essence not to give pleasure when it is apprehended. Therefore since God is essentially His own goodness, it is impossible for the Godhead to be seen without joy.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The wicked will know most clearly that Christ is God, not through seeing His Godhead, but on account of the most manifest signs of His Godhead.
 

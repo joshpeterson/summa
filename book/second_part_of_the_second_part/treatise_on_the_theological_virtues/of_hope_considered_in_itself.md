@@ -9,9 +9,9 @@ After treating of faith, we must consider hope and (1) hope itself; (2) the gift
 (6) Of its distinction from the other theological virtues?
 (7) Of its relation to faith;
 (8) Of its relation to charity.
-## Whether Hope Is A Virtue?
+### Whether Hope Is A Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hope is not a virtue. For "no man makes ill use of a virtue," as Augustine states (De Lib. Arb. ii, 18). But one may make ill use of hope, since the passion of hope, like the other passions, is subject to a mean and extremes. Therefore hope is not a virtue.
 
@@ -19,22 +19,22 @@ Objection 2: Further, no virtue results from merits, since "God works virtue in 
 
 Objection 3: Further, "virtue is the disposition of a perfect thing" (Phys. vii, text. 17,18). But hope is the disposition of an imperfect thing, of one, namely, that lacks what it hopes to have. Therefore hope is not a virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Moral. i, 33) that the three daughters of Job signify these three virtues, faith, hope and charity. Therefore hope is a virtue.
 
 I answer that, According to the Philosopher (Ethic. ii, 6) "the virtue of a thing is that which makes its subject good, and its work good likewise." Consequently wherever we find a good human act, it must correspond to some human virtue. Now in all things measured and ruled, the good is that which attains its proper rule: thus we say that a coat is good if it neither exceeds nor falls short of its proper measurement. But, as we stated above (Q[8], A[3], ad 3) human acts have a twofold measure; one is proximate and homogeneous, viz. the reason, while the other is remote and excelling, viz. God: wherefore every human act is good, which attains reason or God Himself. Now the act of hope, whereof we speak now, attains God. For, as we have already stated ([2429]FS, Q[40], A[1]), when we were treating of the passion of hope, the object of hope is a future good, difficult but possible to obtain. Now a thing is possible to us in two ways: first, by ourselves; secondly, by means of others, as stated in Ethic. iii. Wherefore, in so far as we hope for anything as being possible to us by means of the Divine assistance, our hope attains God Himself, on Whose help it leans. It is therefore evident that hope is a virtue, since it causes a human act to be good and to attain its due rule.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In the passions, the mean of virtue depends on right reason being attained, wherein also consists the essence of virtue. Wherefore in hope too, the good of virtue depends on a man's attaining, by hoping, the due rule, viz. God. Consequently man cannot make ill use of hope which attains God, as neither can he make ill use of moral virtue which attains the reason, because to attain thus is to make good use of virtue. Nevertheless, the hope of which we speak now, is not a passion but a habit of the mind, as we shall show further on [2430](A[5]; Q[18], A[1]).
 
 Reply to Objection 2: Hope is said to arise from merits, as regards the thing hoped for, in so far as we hope to obtain happiness by means of grace and merits; or as regards the act of living hope. The habit itself of hope, whereby we hope to obtain happiness, does not flow from our merits, but from grace alone.
 
 Reply to Objection 3: He who hopes is indeed imperfect in relation to that which he hopes to obtain, but has not as yet; yet he is perfect, in so far as he already attains his proper rule, viz. God, on Whose help he leans.
-## Whether Eternal Happiness Is The Proper Object Of Hope?
+### Whether Eternal Happiness Is The Proper Object Of Hope?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that eternal happiness is not the proper object of hope. For a man does not hope for that which surpasses every movement of the soul, since hope itself is a movement of the soul. Now eternal happiness surpasses every movement of the human soul, for the Apostle says (1 Cor. 2:9) that it hath not "entered into the heart of man." Therefore happiness is not the proper object of hope.
 
@@ -42,22 +42,22 @@ Objection 2: Further, prayer is an expression of hope, for it is written (Ps. 36
 
 Objection 3: Further, the object of hope is something difficult. Now many things besides eternal happiness are difficult to man. Therefore eternal happiness is not the proper object of hope.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Heb. 6:19) that we have hope "which entereth in," i.e. maketh us to enter . . . "within the veil," i.e. into the happiness of heaven, according to the interpretation of a gloss on these words. Therefore the object of hope is eternal happiness.
 
 I answer that, As stated above [2431](A[1]), the hope of which we speak now, attains God by leaning on His help in order to obtain the hoped for good. Now an effect must be proportionate to its cause. Wherefore the good which we ought to hope for from God properly and chiefly is the infinite good, which is proportionate to the power of our divine helper, since it belongs to an infinite power to lead anyone to an infinite good. Such a good is eternal life, which consists in the enjoyment of God Himself. For we should hope from Him for nothing less than Himself, since His goodness, whereby He imparts good things to His creature, is no less than His Essence. Therefore the proper and principal object of hope is eternal happiness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Eternal happiness does not enter into the heart of man perfectly, i.e. so that it be possible for a wayfarer to know its nature and quality; yet, under the general notion of the perfect good, it is possible for it to be apprehended by a man, and it is in this way that the movement of hope towards it arises. Hence the Apostle says pointedly (Heb. 6:19) that hope "enters in, even within the veil," because that which we hope for is as yet veiled, so to speak.
 
 Reply to Objection 2: We ought not to pray God for any other goods, except in reference to eternal happiness. Hence hope regards eternal happiness chiefly, and other things, for which we pray God, it regards secondarily and as referred to eternal happiness: just as faith regards God principally, and, secondarily, those things which are referred to God, as stated above ([2432]Q[1], A[1]).
 
 Reply to Objection 3: To him that longs for something great, all lesser things seem small; wherefore to him that hopes for eternal happiness, nothing else appears arduous, as compared with that hope; although, as compared with the capability of the man who hopes, other things besides may be arduous to him, so that he may have hope for such things in reference to its principal object.
-## Whether One Man May Hope For Another's Eternal Happiness?
+### Whether One Man May Hope For Another's Eternal Happiness?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one may hope for another's eternal happiness. For the Apostle says (Phil. 1:6): "Being confident of this very thing, that He Who hath begun a good work in you, will perfect it unto the day of Jesus Christ." Now the perfection of that day will be eternal happiness. Therefore one man may hope for another's eternal happiness.
 
@@ -65,16 +65,16 @@ Objection 2: Further, whatever we ask of God, we hope to obtain from Him. But we
 
 Objection 3: Further, hope and despair are about the same object. Now it is possible to despair of another's eternal happiness, else Augustine would have no reason for saying (De Verb. Dom., Serm. lxxi) that we should not despair of anyone so long as he lives. Therefore one can also hope for another's eternal salvation.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Enchiridion viii) that "hope is only of such things as belong to him who is supposed to hope for them."
 
 I answer that, We can hope for something in two ways: first, absolutely, and thus the object of hope is always something arduous and pertaining to the person who hopes. Secondly, we can hope for something, through something else being presupposed, and in this way its object can be something pertaining to someone else. In order to explain this we must observe that love and hope differ in this, that love denotes union between lover and beloved, while hope denotes a movement or a stretching forth of the appetite towards an arduous good. Now union is of things that are distinct, wherefore love can directly regard the other whom a man unites to himself by love, looking upon him as his other self: whereas movement is always towards its own term which is proportionate to the subject moved. Therefore hope regards directly one's own good, and not that which pertains to another. Yet if we presuppose the union of love with another, a man can hope for and desire something for another man, as for himself; and, accordingly, he can hope for another eternal's life, inasmuch as he is united to him by love, and just as it is the same virtue of charity whereby a man loves God, himself, and his neighbor, so too it is the same virtue of hope, whereby a man hopes for himself and for another.
 
 This suffices for the Replies to the Objections.
-## Whether A Man Can Lawfully Hope In Man?
+### Whether A Man Can Lawfully Hope In Man?
 
-### Objections
+**Objections**
 
 Objection 1: It wold seem that one may lawfully hope in man. For the object of hope is eternal happiness. Now we are helped to obtain eternal happiness by the patronage of the saints, for Gregory says (Dial. i, 8) that "predestination is furthered by the saints' prayers." Therefore one may hope in man.
 
@@ -82,7 +82,7 @@ Objection 2: Further, if a man may not hope in another man, it ought not to be r
 
 Objection 3: Further, prayer is the expression of hope, as stated above (A[2], OBJ[2]). But it is lawful to pray to a man for something. Therefore it is lawful to trust in him.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Jer. 17:5): "Cursed be the man that trusteth in man."
 
@@ -91,9 +91,9 @@ I answer that, Hope, as stated above [2433](A[1]; [2434]FS, Q[40], A[7]), regard
 Accordingly, just as it is not lawful to hope for any good save happiness, as one's last end, but only as something referred to final happiness, so too, it is unlawful to hope in any man, or any creature, as though it were the first cause of movement towards happiness. It is, however, lawful to hope in a man or a creature as being the secondary and instrumental agent through whom one is helped to obtain any goods that are ordained to happiness. It is in this way that we turn to the saints, and that we ask men also for certain things; and for this reason some are blamed in that they cannot be trusted to give help.
 
 This suffices for the Replies to the Objections.
-## Whether Hope Is A Theological Virtue?
+### Whether Hope Is A Theological Virtue?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hope is not a theological virtue. For a theological virtue is one that has God for its object. Now hope has for its object not only God but also other goods which we hope to obtain from God. Therefore hope is not a theological virtue.
 
@@ -103,7 +103,7 @@ Objection 3: Further, expectation belongs to longanimity which is a species of f
 
 Objection 4: Further, the object of hope is something arduous. But it belongs to magnanimity, which is a moral virtue, to tend to the arduous. Therefore hope is a moral, and not a theological virtue.
 
-### Answer
+**Answer**
 
 On the contrary, Hope is enumerated (1 Cor. 13) together with faith and charity, which are theological virtues.
 
@@ -111,7 +111,7 @@ I answer that, Since specific differences, by their very nature, divide a genus,
 
 Now it has been stated above [2436](A[1]) that hope has the character of virtue from the fact that it attains the supreme rule of human actions: and this it attains both as its first efficient cause, in as much as it leans on its assistance, and as its last final cause, in as much as it expects happiness in the enjoyment thereof. Hence it is evident that God is the principal object of hope, considered as a virtue. Since, then, the very idea of a theological virtue is one that has God for its object, as stated above ([2437]FS, Q[62], A[1]), it is evident that hope is a theological virtue.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Whatever else hope expects to obtain, it hopes for it in reference to God as the last end, or as the first efficient cause, as stated above [2438](A[4]).
 
@@ -120,9 +120,9 @@ Reply to Objection 2: In things measured and ruled the mean consists in the meas
 Reply to Objection 3: The expectation which is mentioned in the definition of hope does not imply delay, as does the expectation which belongs to longanimity. It implies a reference to the Divine assistance, whether that which we hope for be delayed or not.
 
 Reply to Objection 4: Magnanimity tends to something arduous in the hope of obtaining something that is within one's power, wherefore its proper object is the doing of great things. On the other hand hope, as a theological virtue, regards something arduous, to be obtained by another's help, as stated above [2439](A[1]).
-## Whether Hope Is Distinct From The Other Theological Virtues?
+### Whether Hope Is Distinct From The Other Theological Virtues?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hope is not distinct from the other theological virtues. For habits are distinguished by their objects, as stated above ([2440]FS, Q[54], A[2]). Now the object of hope is the same as of the other theological virtues. Therefore hope is not distinct from the other theological virtues.
 
@@ -130,7 +130,7 @@ Objection 2: Further, in the symbol of faith, whereby we make profession of fait
 
 Objection 3: Further, by hope man tends to God. But this belongs properly to charity. Therefore hope is not distinct from charity.
 
-### Answer
+**Answer**
 
 On the contrary, There cannot be number without distinction. Now hope is numbered with the other theological virtues: for Gregory says (Moral. i, 16) that the three virtues are faith, hope, and charity. Therefore hope is distinct from the theological virtues.
 
@@ -138,16 +138,16 @@ I answer that, A virtue is said to be theological from having God for the object
 
 On the other hand, hope and faith make man adhere to God as to a principle wherefrom certain things accrue to us. Now we derive from God both knowledge of truth and the attainment of perfect goodness. Accordingly faith makes us adhere to God, as the source whence we derive the knowledge of truth, since we believe that what God tells us is true: while hope makes us adhere to God, as the source whence we derive perfect goodness, i.e. in so far as, by hope, we trust to the Divine assistance for obtaining happiness.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: God is the object of these virtues under different aspects, as stated above: and a different aspect of the object suffices for the distinction of habits, as stated above ([2442]FS, Q[54], A[2]).
 
 Reply to Objection 2: Expectation is mentioned in the symbol of faith, not as though it were the proper act of faith, but because the act of hope presupposes the act of faith, as we shall state further on [2443](A[7]). Hence an act of faith is expressed in the act of hope.
 
 Reply to Objection 3: Hope makes us tend to God, as to a good to be obtained finally, and as to a helper strong to assist: whereas charity, properly speaking, makes us tend to God, by uniting our affections to Him, so that we live, not for ourselves, but for God.
-## Whether Hope Precedes Faith?
+### Whether Hope Precedes Faith?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that hope precedes faith. Because a gloss on Ps. 36:3, "Trust in the Lord, and do good," says: "Hope is the entrance to faith and the beginning of salvation." But salvation is by faith whereby we are justified. Therefore hope precedes faith.
 
@@ -155,22 +155,22 @@ Objection 2: Further, that which is included in a definition should precede the 
 
 Objection 3: Further, hope precedes a meritorious act, for the Apostle says (1 Cor. 9:10): "He that plougheth should plough in hope . . . to receive fruit." But the act of faith is meritorious. Therefore hope precedes faith.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 1:2): "Abraham begot Isaac," i.e. "Faith begot hope," according to a gloss.
 
 I answer that, Absolutely speaking, faith precedes hope. For the object of hope is a future good, arduous but possible to obtain. In order, therefore, that we may hope, it is necessary for the object of hope to be proposed to us as possible. Now the object of hope is, in one way, eternal happiness, and in another way, the Divine assistance, as explained above [2444](A[2]; A[6], ad 3): and both of these are proposed to us by faith, whereby we come to know that we are able to obtain eternal life, and that for this purpose the Divine assistance is ready for us, according to Heb. 11:6: "He that cometh to God, must believe that He is, and is a rewarder to them that seek Him." Therefore it is evident that faith precedes hope.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As the same gloss observes further on, "hope" is called "the entrance" to faith, i.e. of the thing believed, because by hope we enter in to see what we believe. Or we may reply that it is called the "entrance to faith," because thereby man begins to be established and perfected in faith.
 
 Reply to Objection 2: The thing to be hoped for is included in the definition of faith, because the proper object of faith, is something not apparent in itself. Hence it was necessary to express it in a circumlocution by something resulting from faith.
 
 Reply to Objection 3: Hope does not precede every meritorious act; but it suffices for it to accompany or follow it.
-## Whether Charity Precedes Hope?
+### Whether Charity Precedes Hope?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that charity precedes hope. For Ambrose says on Lk. 27:6, "If you had faith like to a grain of mustard seed," etc.: "Charity flows from faith, and hope from charity." But faith precedes charity. Therefore charity precedes hope.
 
@@ -178,7 +178,7 @@ Objection 2: Further, Augustine says (De Civ. Dei xiv, 9) that "good emotions an
 
 Objection 3: Further, the Master says (Sent. iii, D, 26) that hope proceeds from merits, which precede not only the thing hoped for, but also hope itself, which, in the order of nature, is preceded by charity. Therefore charity precedes hope.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Tim. 1:5): "The end of the commandment is charity from a pure heart, and a good conscience," i.e. "from hope," according to a gloss. Therefore hope precedes charity.
 
@@ -188,7 +188,7 @@ Now there is a perfect, and an imperfect love. Perfect love is that whereby a ma
 
 Hence in the order of generation, hope precedes charity. For just as a man is led to love God, through fear of being punished by Him for his sins, as Augustine states (In primam canon. Joan. Tract. ix), so too, hope leads to charity, in as much as a man through hoping to be rewarded by God, is encouraged to love God and obey His commandments. On the other hand, in the order of perfection charity naturally precedes hope, wherefore, with the advent of charity, hope is made more perfect, because we hope chiefly in our friends. It is in this sense that Ambrose states (OBJ[1]) that charity flows from hope: so that this suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: Hope and every movement of the appetite proceed from some kind of love, whereby the expected good is loved. But not every kind of hope proceeds from charity, but only the movement of living hope, viz. that whereby man hopes to obtain good from God, as from a friend.
 

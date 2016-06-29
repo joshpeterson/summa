@@ -17,9 +17,9 @@ Having considered what belongs to the divine substance, we have now to treat of 
 (14) Whether He knows enunciable things?
 (15) Whether the knowledge of God is variable?
 (16) Whether God has speculative or practical knowledge of things?
-## Whether There Is Knowledge?
+### Whether There Is Knowledge?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that in God there is not knowledge. For knowledge is a habit; and habit does not belong to God, since it is the mean between potentiality and act. Therefore knowledge is not in God.
 
@@ -27,22 +27,22 @@ Objection 2: Further, since science is about conclusions, it is a kind of knowle
 
 Objection 3: Further, all knowledge is universal, or particular. But in God there is no universal or particular ([76]Q[3], A[5]). Therefore in God there is not knowledge.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says, "O the depth of the riches of the wisdom and of the knowledge of God" (Rom. 11:33).
 
 I answer that, In God there exists the most perfect knowledge. To prove this, we must note that intelligent beings are distinguished from non-intelligent beings in that the latter possess only their own form; whereas the intelligent being is naturally adapted to have also the form of some other thing; for the idea of the thing known is in the knower. Hence it is manifest that the nature of a non-intelligent being is more contracted and limited; whereas the nature of intelligent beings has a greater amplitude and extension; therefore the Philosopher says (De Anima iii) that "the soul is in a sense all things." Now the contraction of the form comes from the matter. Hence, as we have said above ([77]Q[7], A[1]) forms according as they are the more immaterial, approach more nearly to a kind of infinity. Therefore it is clear that the immateriality of a thing is the reason why it is cognitive; and according to the mode of immateriality is the mode of knowledge. Hence it is said in De Anima ii that plants do not know, because they are wholly material. But sense is cognitive because it can receive images free from matter, and the intellect is still further cognitive, because it is more separated from matter and unmixed, as said in De Anima iii. Since therefore God is in the highest degree of immateriality as stated above ([78]Q[7], A[1]), it follows that He occupies the highest place in knowledge.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Because perfections flowing from God to creatures exist in a higher state in God Himself ([79]Q[4], A[2]), whenever a name taken from any created perfection is attributed to God, it must be separated in its signification from anything that belongs to that imperfect mode proper to creatures. Hence knowledge is not a quality of God, nor a habit; but substance and pure act.
 
 Reply to Objection 2: Whatever is divided and multiplied in creatures exists in God simply and unitedly ([80]Q[13], A[4]). Now man has different kinds of knowledge, according to the different objects of His knowledge. He has "intelligence" as regards the knowledge of principles; he has "science" as regards knowledge of conclusions; he has "wisdom," according as he knows the highest cause; he has "counsel" or "prudence," according as he knows what is to be done. But God knows all these by one simple act of knowledge, as will be shown [81](A[7]). Hence the simple knowledge of God can be named by all these names; in such a way, however, that there must be removed from each of them, so far as they enter into divine predication, everything that savors of imperfection; and everything that expresses perfection is to be retained in them. Hence it is said, "With Him is wisdom and strength, He hath counsel and understanding" (Job 12:13).
 
 Reply to Objection 3: Knowledge is according to the mode of the one who knows; for the thing known is in the knower according to the mode of the knower. Now since the mode of the divine essence is higher than that of creatures, divine knowledge does not exist in God after the mode of created knowledge, so as to be universal or particular, or habitual, or potential, or existing according to any such mode.
-## Whether God Understands Himself?
+### Whether God Understands Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not understand Himself. For it is said by the Philosopher (De Causis), "Every knower who knows his own essence, returns completely to his own essence." But God does not go out from His own essence, nor is He moved at all; thus He cannot return to His own essence. Therefore He does not know His own essence.
 
@@ -50,7 +50,7 @@ Objection 2: Further, to understand is a kind of passion and movement, as the Ph
 
 Objection 3: Further, we are like to God chiefly in our intellect, because we are the image of God in our mind, as Augustine says (Gen. ad lit. vi). But our intellect understands itself, only as it understands other things, as is said in De Anima iii. Therefore God understands Himself only so far perchance as He understands other things.
 
-### Answer
+**Answer**
 
 On the contrary, It is written: "The things that are of God no man knoweth, but the Spirit of God" (1 Cor. 2:11).
 
@@ -58,35 +58,35 @@ I answer that, God understands Himself through Himself. In proof whereof it must
 
 Since therefore God has nothing in Him of potentiality, but is pure act, His intellect and its object are altogether the same; so that He neither is without the intelligible species, as is the case with our intellect when it understands potentially; nor does the intelligible species differ from the substance of the divine intellect, as it differs in our intellect when it understands actually; but the intelligible species itself is the divine intellect itself, and thus God understands Himself through Himself.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Return to its own essence means only that a thing subsists in itself. Inasmuch as the form perfects the matter by giving it existence, it is in a certain way diffused in it; and it returns to itself inasmuch as it has existence in itself. Therefore those cognitive faculties which are not subsisting, but are the acts of organs, do not know themselves, as in the case of each of the senses; whereas those cognitive faculties which are subsisting, know themselves; hence it is said in De Causis that, "whoever knows his essence returns to it." Now it supremely belongs to God to be self-subsisting. Hence according to this mode of speaking, He supremely returns to His own essence, and knows Himself.
 
 Reply to Objection 2: Movement and passion are taken equivocally, according as to understand is described as a kind of movement or passion, as stated in De Anima iii. For to understand is not a movement that is an act of something imperfect passing from one to another, but it is an act, existing in the agent itself, of something perfect. Likewise that the intellect is perfected by the intelligible object, i.e. is assimilated to it, this belongs to an intellect which is sometimes in potentiality; because the fact of its being in a state of potentiality makes it differ from the intelligible object and assimilates it thereto through the intelligible species, which is the likeness of the thing understood, and makes it to be perfected thereby, as potentiality is perfected by act. On the other hand, the divine intellect, which is no way in potentiality, is not perfected by the intelligible object, nor is it assimilated thereto, but is its own perfection, and its own intelligible object.
 
 Reply to Objection 3: Existence in nature does not belong to primary matter, which is a potentiality, unless it is reduced to act by a form. Now our passive intellect has the same relation to intelligible objects as primary matter has to natural things; for it is in potentiality as regards intelligible objects, just as primary matter is to natural things. Hence our passive intellect can be exercised concerning intelligible objects only so far as it is perfected by the intelligible species of something; and in that way it understands itself by an intelligible species, as it understands other things: for it is manifest that by knowing the intelligible object it understands also its own act of understanding, and by this act knows the intellectual faculty. But God is a pure act in the order of existence, as also in the order of intelligible objects; therefore He understands Himself through Himself.
-## Whether God Comprehends Himself?
+### Whether God Comprehends Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not comprehend Himself. For Augustine says (Octog. Tri. Quaest. xv), that "whatever comprehends itself is finite as regards itself." But God is in all ways infinite. Therefore He does not comprehend Himself.
 
 Objection 2: If it is said that God is infinite to us, and finite to Himself, it can be urged to the contrary, that everything in God is truer than it is in us. If therefore God is finite to Himself, but infinite to us, then God is more truly finite than infinite; which is against what was laid down above ([82]Q[7], A[1]). Therefore God does not comprehend Himself.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Octog. Tri. Quaest. xv), that "Everything that understands itself, comprehends itself." But God understands Himself. Therefore He comprehends Himself.
 
 I answer that, God perfectly comprehends Himself, as can be thus proved. A thing is said to be comprehended when the end of the knowledge of it is attained, and this is accomplished when it is known as perfectly as it is knowable; as, for instance, a demonstrable proposition is comprehended when known by demonstration, not, however, when it is known by some probable reason. Now it is manifest that God knows Himself as perfectly as He is perfectly knowable. For everything is knowable according to the mode of its own actuality; since a thing is not known according as it is in potentiality, but in so far as it is in actuality, as said in Metaph. ix. Now the power of God in knowing is as great as His actuality in existing; because it is from the fact that He is in act and free from all matter and potentiality, that God is cognitive, as shown above ([83]AA[1],2). Whence it is manifest that He knows Himself as much as He is knowable; and for that reason He perfectly comprehends Himself.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The strict meaning of "comprehension" signifies that one thing holds and includes another; and in this sense everything comprehended is finite, as also is everything included in another. But God is not said to be comprehended by Himself in this sense, as if His intellect were a faculty apart from Himself, and as if it held and included Himself; for these modes of speaking are to be taken by way of negation. But as God is said to be in Himself, forasmuch as He is not contained by anything outside of Himself; so He is said to be comprehended by Himself, forasmuch as nothing in Himself is hidden from Himself. For Augustine says (De Vid. Deum. ep. cxii), "The whole is comprehended when seen, if it is seen in such a way that nothing of it is hidden from the seer."
 
 Reply to Objection 2: When it is said, "God is finite to Himself," this is to be understood according to a certain similitude of proportion, because He has the same relation in not exceeding His intellect, as anything finite has in not exceeding finite intellect. But God is not to be called finite to Himself in this sense, as if He understood Himself to be something finite.
-## Whether The Act Of God's Intellect Is His Substance?
+### Whether The Act Of God's Intellect Is His Substance?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the act of God's intellect is not His substance. For to understand is an operation. But an operation signifies something proceeding from the operator. Therefore the act of God's intellect is not His substance.
 
@@ -94,7 +94,7 @@ Objection 2: Further, to understand one's act of understanding, is to understand
 
 Objection 3: Further, every act of understanding means understanding something. When therefore God understands Himself, if He Himself is not distinct from this act of understanding, He understands that He understands Himself; and so on to infinity. Therefore the act of God's intellect is not His substance.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. vii), "In God to be is the same as to be wise." But to be wise is the same thing as to understand. Therefore in God to be is the same thing as to understand. But God's existence is His substance, as shown above ([84]Q[3], A[4]). Therefore the act of God's intellect is His substance.
 
@@ -102,14 +102,14 @@ I answer that, It must be said that the act of God's intellect is His substance.
 
 Thus it follows from all the foregoing that in God, intellect, and the object understood, and the intelligible species, and His act of understanding are entirely one and the same. Hence when God is said to be understanding, no kind of multiplicity is attached to His substance.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: To understand is not an operation proceeding out of the operator, but remaining in him.
 
 Reply to Objection 2: When that act of understanding which is not subsistent is understood, something not great is understood; as when we understand our act of understanding; and so this cannot be likened to the act of the divine understanding which is subsistent.
-## Whether God Knows Things Other Than Himself?
+### Whether God Knows Things Other Than Himself?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not know things besides Himself. For all other things but God are outside of God. But Augustine says (Octog. Tri. Quaest. qu. xlvi) that "God does not behold anything out of Himself." Therefore He does not know things other than Himself.
 
@@ -117,7 +117,7 @@ Objection 2: Further, the object understood is the perfection of the one who und
 
 Objection 3: Further, the act of understanding is specified by the intelligible object, as is every other act from its own object. Hence the intellectual act is so much the nobler, the nobler the object understood. But God is His own intellectual act. If therefore God understands anything other than Himself, then God Himself is specified by something else than Himself; which cannot be. Therefore He does not understand things other than Himself.
 
-### Answer
+**Answer**
 
 On the contrary, It is written: "All things are naked and open to His eyes" (Heb. 4:13).
 
@@ -127,16 +127,16 @@ Now in order to know how God knows things other than Himself, we must consider t
 
 So we say that God sees Himself in Himself, because He sees Himself through His essence; and He sees other things not in themselves, but in Himself; inasmuch as His essence contains the similitude of things other than Himself.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The passage of Augustine in which it is said that God "sees nothing outside Himself" is not to be taken in such a way, as if God saw nothing outside Himself, but in the sense that what is outside Himself He does not see except in Himself, as above explained.
 
 Reply to Objection 2: The object understood is a perfection of the one understanding not by its substance, but by its image, according to which it is in the intellect, as its form and perfection, as is said in De Anima iii. For "a stone is not in the soul, but its image." Now those things which are other than God are understood by God, inasmuch as the essence of God contains their images as above explained; hence it does not follow that there is any perfection in the divine intellect other than the divine essence.
 
 Reply to Objection 3: The intellectual act is not specified by what is understood in another, but by the principal object understood in which other things are understood. For the intellectual act is specified by its object, inasmuch as the intelligible form is the principle of the intellectual operation: since every operation is specified by the form which is its principle of operation; as heating by heat. Hence the intellectual operation is specified by that intelligible form which makes the intellect in act. And this is the image of the principal thing understood, which in God is nothing but His own essence in which all images of things are comprehended. Hence it does not follow that the divine intellectual act, or rather God Himself, is specified by anything else than the divine essence itself.
-## Whether God Knows Things Other Than Himself By Proper Knowledge?
+### Whether God Knows Things Other Than Himself By Proper Knowledge?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not know things other than Himself by proper knowledge. For, as was shown [88](A[5]), God knows things other than Himself, according as they are in Himself. But other things are in Him as in their common and universal cause, and are known by God as in their first and universal cause. This is to know them by general, and not by proper knowledge. Therefore God knows things besides Himself by general, and not by proper knowledge.
 
@@ -144,7 +144,7 @@ Objection 2: Further, the created essence is as distant from the divine essence,
 
 Objection 3: Further, proper knowledge of a thing can come only through its proper ratio. But as God knows all things by His essence, it seems that He does not know each thing by its proper ratio; for one thing cannot be the proper ratio of many and diverse things. Therefore God has not a proper knowledge of things, but a general knowledge; for to know things otherwise than by their proper ratio is to have only a common and general knowledge of them.
 
-### Answer
+**Answer**
 
 On the contrary, To have a proper knowledge of things is to know them not only in general, but as they are distinct from each other. Now God knows things in that manner. Hence it is written that He reaches "even to the division of the soul and the spirit, of the joints also and the marrow, and is a discerner of thoughts and intents of the heart; neither is there any creature invisible in His sight" (Heb. 4:12,13).
 
@@ -156,16 +156,16 @@ Now these examples although they are similar in part, namely, as regards univers
 
 As therefore the essence of God contains in itself all the perfection contained in the essence of any other being, and far more, God can know in Himself all of them with proper knowledge. For the nature proper to each thing consists in some degree of participation in the divine perfection. Now God could not be said to know Himself perfectly unless He knew all the ways in which His own perfection can be shared by others. Neither could He know the very nature of being perfectly, unless He knew all modes of being. Hence it is manifest that God knows all things with proper knowledge, in their distinction from each other.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: So to know a thing as it is in the knower, may be understood in two ways. In one way this adverb "so" imports the mode of knowledge on the part of the thing known; and in that sense it is false. For the knower does not always know the object known according to the existence it has in the knower; since the eye does not know a stone according to the existence it has in the eye; but by the image of the stone which is in the eye, the eye knows the stone according to its existence outside the eye. And if any knower has a knowledge of the object known according to the (mode of) existence it has in the knower, the knower nevertheless knows it according to its (mode of) existence outside the knower; thus the intellect knows a stone according to the intelligible existence it has in the intellect, inasmuch as it knows that it understands; while nevertheless it knows what a stone is in its own nature. If however the adverb 'so' be understood to import the mode (of knowledge) on the part of the knower, in that sense it is true that only the knower has knowledge of the object known as it is in the knower; for the more perfectly the thing known is in the knower, the more perfect is the mode of knowledge.
 
 Reply to Objection 2: The created essence is compared to the essence of God as the imperfect to the perfect act. Therefore the created essence cannot sufficiently lead us to the knowledge of the divine essence, but rather the converse.
 
 Reply to Objection 3: The same thing cannot be taken in an equal manner as the ratio of different things. But the divine essence excels all creatures. Hence it can be taken as the proper ration of each thing according to the diverse ways in which diverse creatures participate in, and imitate it.
-## Whether The Knowledge Of God Is Discursive?
+### Whether The Knowledge Of God Is Discursive?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the knowledge of God is discursive. For the knowledge of God is not habitual knowledge, but actual knowledge. Now the Philosopher says (Topic. ii): "The habit of knowledge may regard many things at once; but actual understanding regards only one thing at a time." Therefore as God knows many things, Himself and others, as shown above (AA 2,5), it seems that He does not understand all at once, but discourses from one to another.
 
@@ -173,22 +173,22 @@ Objection 2: Further, discursive knowledge is to know the effect through its cau
 
 Objection 3: Further, God knows each creature more perfectly than we know it. But we know the effects in their created causes; and thus we go discursively from causes to things caused. Therefore it seems that the same applies to God.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xv), "God does not see all things in their particularity or separately, as if He saw alternately here and there; but He sees all things together at once."
 
 I answer that, In the divine knowledge there is no discursion; the proof of which is as follows. In our knowledge there is a twofold discursion: one is according to succession only, as when we have actually understood anything, we turn ourselves to understand something else; while the other mode of discursion is according to causality, as when through principles we arrive at the knowledge of conclusions. The first kind of discursion cannot belong to God. For many things, which we understand in succession if each is considered in itself, we understand simultaneously if we see them in some one thing; if, for instance, we understand the parts in the whole, or see different things in a mirror. Now God sees all things in one (thing), which is Himself. Therefore God sees all things together, and not successively. Likewise the second mode of discursion cannot be applied to God. First, because this second mode of discursion presupposes the first mode; for whosoever proceeds from principles to conclusions does not consider both at once; secondly, because to discourse thus is to proceed from the known to the unknown. Hence it is manifest that when the first is known, the second is still unknown; and thus the second is known not in the first, but from the first. Now the term discursive reasoning is attained when the second is seen in the first, by resolving the effects into their causes; and then the discursion ceases. Hence as God sees His effects in Himself as their cause, His knowledge is not discursive.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Altogether there is only one act of understanding in itself, nevertheless many things may be understood in one (medium), as shown above.
 
 Reply to Objection 2: God does not know by their cause, known, as it were previously, effects unknown; but He knows the effects in the cause; and hence His knowledge is not discursive, as was shown above.
 
 Reply to Objection 3: God sees the effects of created causes in the causes themselves, much better than we can; but still not in such a manner that the knowledge of the effects is caused in Him by the knowledge of the created causes, as is the case with us; and hence His knowledge is not discursive.
-## Whether The Knowledge Of God Is The Cause Of Things?
+### Whether The Knowledge Of God Is The Cause Of Things?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the knowledge of God is not the cause of things. For Origen says, on Rom. 8:30, "Whom He called, them He also justified," etc.: "A thing will happen not because God knows it as future; but because it is future, it is on that account known by God, before it exists."
 
@@ -196,22 +196,22 @@ Objection 2: Further, given the cause, the effect follows. But the knowledge of 
 
 Objection 3: Further, "The thing known is prior to knowledge, and is its measure," as the Philosopher says (Metaph. x). But what is posterior and measured cannot be a cause. Therefore the knowledge of God is not the cause of things.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. xv), "Not because they are, does God know all creatures spiritual and temporal, but because He knows them, therefore they are."
 
 I answer that, The knowledge of God is the cause of things. For the knowledge of God is to all creatures what the knowledge of the artificer is to things made by his art. Now the knowledge of the artificer is the cause of the things made by his art from the fact that the artificer works by his intellect. Hence the form of the intellect must be the principle of action; as heat is the principle of heating. Nevertheless, we must observe that a natural form, being a form that remains in that to which it gives existence, denotes a principle of action according only as it has an inclination to an effect; and likewise, the intelligible form does not denote a principle of action in so far as it resides in the one who understands unless there is added to it the inclination to an effect, which inclination is through the will. For since the intelligible form has a relation to opposite things (inasmuch as the same knowledge relates to opposites), it would not produce a determinate effect unless it were determined to one thing by the appetite, as the Philosopher says (Metaph. ix). Now it is manifest that God causes things by His intellect, since His being is His act of understanding; and hence His knowledge must be the cause of things, in so far as His will is joined to it. Hence the knowledge of God as the cause of things is usually called the "knowledge of approbation."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Origen spoke in reference to that aspect of knowledge to which the idea of causality does not belong unless the will is joined to it, as is said above.
 
 Reply to Objection 2: The knowledge of God is the cause of things according as things are in His knowledge. Now that things should be eternal was not in the knowledge of God; hence although the knowledge of God is eternal, it does not follow that creatures are eternal.
 
 Reply to Objection 3: Natural things are midway between the knowledge of God and our knowledge: for we receive knowledge from natural things, of which God is the cause by His knowledge. Hence, as the natural objects of knowledge are prior to our knowledge, and are its measure, so, the knowledge of God is prior to natural things, and is the measure of them; as, for instance, a house is midway between the knowledge of the builder who made it, and the knowledge of the one who gathers his knowledge of the house from the house already built.
-## Whether God Has Knowledge Of Things That Are Not?
+### Whether God Has Knowledge Of Things That Are Not?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God has not knowledge of things that are not. For the knowledge of God is of true things. But "truth" and "being" are convertible terms. Therefore the knowledge of God is not of things that are not.
 
@@ -219,7 +219,7 @@ Objection 2: Further, knowledge requires likeness between the knower and the thi
 
 Objection 3: Further, the knowledge of God is the cause of what is known by Him. But it is not the cause of things that are not, because a thing that is not, has no cause. Therefore God has no knowledge of things that are not.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says: "Who . . . calleth those things that are not as those that are" (Rom. 4:17).
 
@@ -227,16 +227,16 @@ I answer that, God knows all things whatsoever that in any way are. Now it is po
 
 Now a certain difference is to be noted in the consideration of those things that are not actual. For though some of them may not be in act now, still they were, or they will be; and God is said to know all these with the knowledge of vision: for since God's act of understanding, which is His being, is measured by eternity; and since eternity is without succession, comprehending all time, the present glance of God extends over all time, and to all things which exist in any time, as to objects present to Him. But there are other things in God's power, or the creature's, which nevertheless are not, nor will be, nor were; and as regards these He is said to have knowledge, not of vision, but of simple intelligence. This is so called because the things we see around us have distinct being outside the seer.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Those things that are not actual are true in so far as they are in potentiality; for it is true that they are in potentiality; and as such they are known by God.
 
 Reply to Objection 2: Since God is very being everything is, in so far as it participates in the likeness of God; as everything is hot in so far as it participates in heat. So, things in potentiality are known by God, although they are not in act.
 
 Reply to Objection 3: The knowledge of God, joined to His will is the cause of things. Hence it is not necessary that what ever God knows, is, or was, or will be; but only is this necessary as regards what He wills to be, or permits to be. Further, it is in the knowledge of God not that they be, but that they be possible.
-## Whether God Knows Evil Things?
+### Whether God Knows Evil Things?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not know evil things. For the Philosopher (De Anima iii) says that the intellect which is not in potentiality does not know privation. But "evil is the privation of good," as Augustine says (Confess. iii, 7). Therefore, as the intellect of God is never in potentiality, but is always in act, as is clear from the foregoing (A[2] ), it seems that God does not know evil things.
 
@@ -246,13 +246,13 @@ Objection 3: Further, everything known is known either by its likeness, or by it
 
 Objection 4: Further, what is known through another and not through itself, is imperfectly known. But evil is not known by God; for the thing known must be in the knower. Therefore if evil is known through another, namely, through good, it would be known by Him imperfectly; which cannot be, for the knowledge of God is not imperfect. Therefore God does not know evil things.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Prov. 15:11), "Hell and destruction are before God [Vulg: 'the Lord']."
 
 I answer that, Whoever knows a thing perfectly, must know all that can be accidental to it. Now there are some good things to which corruption by evil may be accidental. Hence God would not know good things perfectly, unless He also knew evil things. Now a thing is knowable in the degree in which it is; hence since this is the essence of evil that it is the privation of good, by the fact that God knows good things, He knows evil things also; as by light is known darkness. Hence Dionysius says (Div. Nom. vii): "God through Himself receives the vision of darkness, not otherwise seeing darkness except through light."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The saying of the Philosopher must be understood as meaning that the intellect which is not in potentiality, does not know privation by privation existing in it; and this agrees with what he said previously, that a point and every indivisible thing are known by privation of division. This is because simple and indivisible forms are in our intellect not actually, but only potentially; for were they actually in our intellect, they would not be known by privation. It is thus that simple things are known by separate substances. God therefore knows evil, not by privation existing in Himself, but by the opposite good.
 
@@ -261,9 +261,9 @@ Reply to Objection 2: The knowledge of God is not the cause of evil; but is the 
 Reply to Objection 3: Although evil is not opposed to the divine essence, which is not corruptible by evil; it is opposed to the effects of God, which He knows by His essence; and knowing them, He knows the opposite evils.
 
 Reply to Objection 4: To know a thing by something else only, belongs to imperfect knowledge, if that thing is of itself knowable; but evil is not of itself knowable, forasmuch as the very nature of evil means the privation of good; therefore evil can neither be defined nor known except by good.
-## Whether God Knows Singular Things?
+### Whether God Knows Singular Things?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not know singular things. For the divine intellect is more immaterial than the human intellect. Now the human intellect by reason of its immateriality does not know singular things; but as the Philosopher says (De Anima ii), "reason has to do with universals, sense with singular things." Therefore God does not know singular things.
 
@@ -271,7 +271,7 @@ Objection 2: Further, in us those faculties alone know the singular, which recei
 
 Objection 3: Further, all knowledge comes about through the medium of some likeness. But the likeness of singular things in so far as they are singular, does not seem to be in God; for the principle of singularity is matter, which, since it is in potentiality only, is altogether unlike God, Who is pure act. Therefore God cannot know singular things.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Prov. 16:2), "All the ways of a man are open to His eyes."
 
@@ -285,16 +285,16 @@ On the other hand, others have said that God knows singular things by the applic
 
 Therefore it must be said otherwise, that, since God is the cause of things by His knowledge, as stated above [93](A[8]), His knowledge extends as far as His causality extends. Hence as the active power of God extends not only to forms, which are the source of universality, but also to matter, as we shall prove further on ([94]Q[44], A[2]), the knowledge of God must extend to singular things, which are individualized by matter. For since He knows things other than Himself by His essence, as being the likeness of things, or as their active principle, His essence must be the sufficing principle of knowing all things made by Him, not only in the universal, but also in the singular. The same would apply to the knowledge of the artificer, if it were productive of the whole thing, and not only of the form.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Our intellect abstracts the intelligible species from the individualizing principles; hence the intelligible species in our intellect cannot be the likeness of the individual principles; and on that account our intellect does not know the singular. But the intelligible species in the divine intellect, which is the essence of God, is immaterial not by abstraction, but of itself, being the principle of all the principles which enter into the composition of things, whether principles of the species or principles of the individual; hence by it God knows not only universal, but also singular things.
 
 Reply to Objection 2: Although as regards the species in the divine intellect its being has no material conditions like the images received in the imagination and sense, yet its power extends to both immaterial and material things.
 
 Reply to Objection 3: Although matter as regards its potentiality recedes from likeness to God, yet, even in so far as it has being in this wise, it retains a certain likeness to the divine being.
-## Whether God Can Know Infinite Things?
+### Whether God Can Know Infinite Things?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God cannot know infinite things. For the infinite, as such, is unknown; since the infinite is that which, "to those who measure it, leaves always something more to be measured," as the Philosopher says (Phys. iii). Moreover, Augustine says (De Civ. Dei xii) that "whatever is comprehended by knowledge, is bounded by the comprehension of the knower." Now infinite things have no boundary. Therefore they cannot be comprehended by the knowledge of God.
 
@@ -302,7 +302,7 @@ Objection 2: Further, if we say that things infinite in themselves are finite in
 
 Objection 3: Further, the knowledge of God is the measure of what is known. But it is contrary to the essence of the infinite that it be measured. Therefore infinite things cannot be known by God.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Civ. Dei xii), "Although we cannot number the infinite, nevertheless it can be comprehended by Him whose knowledge has no bounds."
 
@@ -310,16 +310,16 @@ I answer that, Since God knows not only things actual but also things possible t
 
 The reason of this is to be found in the fact that the knowledge of every knower is measured by the mode of the form which is the principle of knowledge. For the sensible image in sense is the likeness of only one individual thing, and can give the knowledge of only one individual. But the intelligible species of our intellect is the likeness of the thing as regards its specific nature, which is participable by infinite particulars; hence our intellect by the intelligible species of man in a certain way knows infinite men; not however as distinguished from each other, but as communicating in the nature of the species; and the reason is because the intelligible species of our intellect is the likeness of man not as to the individual principles, but as to the principles of the species. On the other hand, the divine essence, whereby the divine intellect understands, is a sufficing likeness of all things that are, or can be, not only as regards the universal principles, but also as regards the principles proper to each one, as shown above. Hence it follows that the knowledge of God extends to infinite things, even as distinct from each other.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The idea of the infinite pertains to quantity, as the Philosopher says (Phys. i). But the idea of quantity implies the order of parts. Therefore to know the infinite according to the mode of the infinite is to know part after part; and in this way the infinite cannot be known; for whatever quantity of parts be taken, there will always remain something else outside. But God does not know the infinite or infinite things, as if He enumerated part after part; since He knows all things simultaneously, and not successively, as said above [96](A[7]). Hence there is nothing to prevent Him from knowing infinite things.
 
 Reply to Objection 2: Transition imports a certain succession of parts; and hence it is that the infinite cannot be traversed by the finite, nor by the infinite. But equality suffices for comprehension, because that is said to be comprehended which has nothing outside the comprehender. Hence it is not against the idea of the infinite to be comprehended by the infinite. And so, what is infinite in itself can be called finite to the knowledge of God as comprehended; but not as if it were traversable.
 
 Reply to Objection 3: The knowledge of God is the measure of things, not quantitatively, for the infinite is not subject to this kind of measure; but it is the measure of the essence and truth of things. For everything has truth of nature according to the degree in which it imitates the knowledge of God, as the thing made by art agrees with the art. Granted, however, an actually infinite number of things, for instance, an infinitude of men, or an infinitude in continuous quantity, as an infinitude of air, as some of the ancients held; yet it is manifest that these would have a determinate and finite being, because their being would be limited to some determinate nature. Hence they would be measurable as regards the knowledge of God.
-## Whether The Knowledge Of God Is Of Future Contingent Things?
+### Whether The Knowledge Of God Is Of Future Contingent Things?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the knowledge of God is not of future contingent things. For from a necessary cause proceeds a necessary effect. But the knowledge of God is the cause of things known, as said above [97](A[8]). Since therefore that knowledge is necessary, what He knows must also be necessary. Therefore the knowledge of God is not of contingent things.
 
@@ -327,7 +327,7 @@ Objection 2: Further, every conditional proposition of which the antecedent is a
 
 Objection 3: Further, everything known by God must necessarily be, because even what we ourselves know, must necessarily be; and, of course, the knowledge of God is much more certain than ours. But no future contingent things must necessarily be. Therefore no contingent future thing is known by God.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Ps. 32:15), "He Who hath made the hearts of every one of them; Who understandeth all their works," i.e. of men. Now the works of men are contingent, being subject to free will. Therefore God knows future contingent things.
 
@@ -335,22 +335,22 @@ I answer that, Since as was shown above [98](A[9]), God knows all things; not on
 
 In evidence of this, we must consider that a contingent thing can be considered in two ways; first, in itself, in so far as it is now in act: and in this sense it is not considered as future, but as present; neither is it considered as contingent (as having reference) to one of two terms, but as determined to one; and on account of this it can be infallibly the object of certain knowledge, for instance to the sense of sight, as when I see that Socrates is sitting down. In another way a contingent thing can be considered as it is in its cause; and in this way it is considered as future, and as a contingent thing not yet determined to one; forasmuch as a contingent cause has relation to opposite things: and in this sense a contingent thing is not subject to any certain knowledge. Hence, whoever knows a contingent effect in its cause only, has merely a conjectural knowledge of it. Now God knows all contingent things not only as they are in their causes, but also as each one of them is actually in itself. And although contingent things become actual successively, nevertheless God knows contingent things not successively, as they are in their own being, as we do but simultaneously. The reason is because His knowledge is measured by eternity, as is also His being; and eternity being simultaneously whole comprises all time, as said above ([99]Q[10], A[2] ). Hence all things that are in time are present to God from eternity, not only because He has the types of things present within Him, as some say; but because His glance is carried from eternity over all things as they are in their presentiality. Hence it is manifest that contingent things are infallibly known by God, inasmuch as they are subject to the divine sight in their presentiality; yet they are future contingent things in relation to their own causes.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the supreme cause is necessary, the effect may be contingent by reason of the proximate contingent cause; just as the germination of a plant is contingent by reason of the proximate contingent cause, although the movement of the sun which is the first cause, is necessary. So likewise things known by God are contingent on account of their proximate causes, while the knowledge of God, which is the first cause, is necessary.
 
 Reply to Objection 2: Some say that this antecedent, "God knew this contingent to be future," is not necessary, but contingent; because, although it is past, still it imports relation to the future. This however does not remove necessity from it; for whatever has had relation to the future, must have had it, although the future sometimes does not follow. On the other hand some say that this antecedent is contingent, because it is a compound of necessary and contingent; as this saying is contingent, "Socrates is a white man." But this also is to no purpose; for when we say, "God knew this contingent to be future," contingent is used here only as the matter of the word, and not as the chief part of the proposition. Hence its contingency or necessity has no reference to the necessity or contingency of the proposition, or to its being true or false. For it may be just as true that I said a man is an ass, as that I said Socrates runs, or God is: and the same applies to necessary and contingent. Hence it must be said that this antecedent is absolutely necessary. Nor does it follow, as some say, that the consequent is absolutely necessary, because the antecedent is the remote cause of the consequent, which is contingent by reason of the proximate cause. But this is to no purpose. For the conditional would be false were its antecedent the remote necessary cause, and the consequent a contingent effect; as, for example, if I said, "if the sun moves, the grass will grow."
 
 Reply to Objection 3: Things reduced to act in time, as known by us successively in time, but by God (are known) in eternity, which is above time. Whence to us they cannot be certain, forasmuch as we know future contingent things as such; but (they are certain) to God alone, whose understanding is in eternity above time. Just as he who goes along the road, does not see those who come after him; whereas he who sees the whole road from a height, sees at once all travelling by the way. Hence what is known by us must be necessary, even as it is in itself; for what is future contingent in itself, cannot be known by us. Whereas what is known by God must be necessary according to the mode in which they are subject to the divine knowledge, as already stated, but not absolutely as considered in their own causes. Hence also this proposition, "Everything known by God must necessarily be," is usually distinguished; for this may refer to the thing, or to the saying. If it refers to the thing, it is divided and false; for the sense is, "Everything which God knows is necessary." If understood of the saying, it is composite and true; for the sense is, "This proposition, 'that which is known by God is' is necessary."
-## Whether God Knows Enunciable Things?
+### Whether God Knows Enunciable Things?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God does not know enunciable things. For to know enunciable things belongs to our intellect as it composes and divides. But in the divine intellect, there is no composition. Therefore God does not know enunciable things.
 
 Objection 2: Further, every kind of knowledge is made through some likeness. But in God there is no likeness of enunciable things, since He is altogether simple. Therefore God does not know enunciable things.
 
-### Answer
+**Answer**
 
 On the contrary, It is written: "The Lord knoweth the thoughts of men" (Ps. 93:11). But enunciable things are contained in the thoughts of men. Therefore God knows enunciable things.
 
@@ -358,14 +358,14 @@ I answer that, Since it is in the power of our intellect to form enunciations, a
 
 Now just as He knows material things immaterially, and composite things simply, so likewise He knows enunciable things not after the manner of enunciable things, as if in His intellect there were composition or division of enunciations; for He knows each thing by simple intelligence, by understanding the essence of each thing; as if we by the very fact that we understand what man is, were to understand all that can be predicated of man. This, however, does not happen in our intellect, which discourses from one thing to another, forasmuch as the intelligible species represents one thing in such a way as not to represent another. Hence when we understand what man is, we do not forthwith understand other things which belong to him, but we understand them one by one, according to a certain succession. On this account the things we understand as separated, we must reduce to one by way of composition or division, by forming an enunciation. Now the species of the divine intellect, which is God's essence, suffices to represent all things. Hence by understanding His essence, God knows the essences of all things, and also whatever can be accidental to them.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This objection would avail if God knew enunciable things after the manner of enunciable things.
 
 Reply to Objection 2: Enunciatory composition signifies some existence of a thing; and thus God by His existence, which is His essence, is the similitude of all those things which are signified by enunciation.
-## Whether The Knowledge Of God Is Variable?
+### Whether The Knowledge Of God Is Variable?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the knowledge of God is variable. For knowledge is related to what is knowable. But whatever imports relation to the creature is applied to God from time, and varies according to the variation of creatures. Therefore the knowledge of God is variable according to the variation of creatures.
 
@@ -373,28 +373,28 @@ Objection 2: Further, whatever God can make, He can know. But God can make more 
 
 Objection 3: Further, God knew that Christ would be born. But He does not know now that Christ will be born; because Christ is not to be born in the future. Therefore God does not know everything He once knew; and thus the knowledge of God is variable.
 
-### Answer
+**Answer**
 
 On the contrary, It is said, that in God "there is no change nor shadow of alteration" (James 1:17).
 
 I answer that, Since the knowledge of God is His substance, as is clear from the foregoing [101](A[4]), just as His substance is altogether immutable, as shown above ([102]Q[9], A[1]), so His knowledge likewise must be altogether invariable.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: "Lord", "Creator" and the like, import relations to creatures in so far as they are in themselves. But the knowledge of God imports relation to creatures in so far as they are in God; because everything is actually understood according as it is in the one who understands. Now created things are in God in an invariable manner; while they exist variably in themselves. We may also say that "Lord", "Creator" and the like, import the relations consequent upon the acts which are understood as terminating in the creatures themselves, as they are in themselves; and thus these relations are attributed to God variously, according to the variation of creatures. But "knowledge" and "love," and the like, import relations consequent upon the acts which are understood to be in God; and therefore these are predicated of God in an invariable manner.
 
 Reply to Objection 2: God knows also what He can make, and does not make. Hence from the fact that He can make more than He makes, it does not follow that He can know more than He knows, unless this be referred to the knowledge of vision, according to which He is said to know those things which are in act in some period of time. But from the fact that He knows some things might be which are not, or that some things might not be which are, it does not follow that His knowledge is variable, but rather that He knows the variability of things. If, however, anything existed which God did not previously know, and afterwards knew, then His knowledge would be variable. But this could not be; for whatever is, or can be in any period of time, is known by God in His eternity. Therefore from the fact that a thing exists in some period of time, it follows that it is known by God from eternity. Therefore it cannot be granted that God can know more than He knows; because such a proposition implies that first of all He did not know, and then afterwards knew.
 
 Reply to Objection 3: The ancient Nominalists said that it was the same thing to say "Christ is born" and "will be born" and "was born"; because the same thing is signified by these three---viz. the nativity of Christ. Therefore it follows, they said, that whatever God knew, He knows; because now He knows that Christ is born, which means the same thing as that Christ will be born. This opinion, however, is false; both because the diversity in the parts of a sentence causes a diversity of enunciations; and because it would follow that a proposition which is true once would be always true; which is contrary to what the Philosopher lays down (Categor. iii) when he says that this sentence, "Socrates sits," is true when he is sitting, and false when he rises up. Therefore, it must be conceded that this proposition is not true, "Whatever God knew He knows," if referred to enunciable propositions. But because of this, it does not follow that the knowledge of God is variable. For as it is without variation in the divine knowledge that God knows one and the same thing sometime to be, and sometime not to be, so it is without variation in the divine knowledge that God knows an enunciable proposition is sometime true, and sometime false. The knowledge of God, however, would be variable if He knew enunciable things by way of enunciation, by composition and division, as occurs in our intellect. Hence our knowledge varies either as regards truth and falsity, for example, if when either as regards truth and falsity, for example, if when a thing suffers change we retained the same opinion about it; or as regards diverse opinions, as if we first thought that anyone was sitting, and afterwards thought that he was not sitting; neither of which can be in God.
-## Whether God Has A Speculative Knowledge Of Things?
+### Whether God Has A Speculative Knowledge Of Things?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that God has not a speculative knowledge of things. For the knowledge of God is the cause of things, as shown above [103](A[8]). But speculative knowledge is not the cause of the things known. Therefore the knowledge of God is not speculative.
 
 Objection 2: Further, speculative knowledge comes by abstraction from things; which does not belong to the divine knowledge. Therefore the knowledge of God is not speculative.
 
-### Answer
+**Answer**
 
 On the contrary, Whatever is the more excellent must be attributed to God. But speculative knowledge is more excellent than practical knowledge, as the Philosopher says in the beginning of Metaphysics. Therefore God has a speculative knowledge of things.
 
@@ -404,7 +404,7 @@ In accordance with this, therefore, it must be said that God has of Himself a sp
 
 Now of things which He can make, but does not make at any time, He has not a practical knowledge, according as knowledge is called practical from the end. But He has a practical knowledge of what He makes in some period of time. And, as regards evil things, although they are not operable by Him, yet they fall under His practical knowledge, like good things, inasmuch as He permits, or impedes, or directs them; as also sicknesses fall under the practical knowledge of the physician, inasmuch as he cures them by his art.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The knowledge of God is the cause, not indeed of Himself, but of other things. He is actually the cause of some, that is, of things that come to be in some period of time; and He is virtually the cause of others, that is, of things which He can make, and which nevertheless are never made.
 

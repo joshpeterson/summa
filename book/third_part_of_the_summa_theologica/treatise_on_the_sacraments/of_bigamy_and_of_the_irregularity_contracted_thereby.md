@@ -6,9 +6,9 @@ In the next place we must consider bigamy and the irregularity contracted thereb
 (3) Whether irregularity is contracted by marrying one who is not a virgin?
 (4) Whether bigamy is removed by Baptism?
 (5) Whether a dispensation can be granted to a bigamous person?
-## Whether Irregularity Attaches To Bigamy?
+### Whether Irregularity Attaches To Bigamy?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that irregularity is not attached to the bigamy that consists in having two wives successively. For multitude and unity are consequent upon being. Since then non-being does not cause plurality, a man who has two wives successively, the one in being, the other in non-being, does not thereby become the husband of more than one wife, so as to be debarred, according to the Apostle (1 Tim. 3:2; Titus 1:6), from the episcopate.
 
@@ -16,7 +16,7 @@ Objection 2: Further, a man who commits fornication with several women gives mor
 
 Objection 3: Further, if bigamy causes irregularity, this is either because of the sacrament, or because of the carnal intercourse. Now it is not on account of the former, for if a man had contracted marriage by words of the present and, his wife dying before the consummation of the marriage, he were to marry another, he would become irregular, which is against the decree of Innocent III (cap. Dubium, De bigamia). Nor again is it on account of the second, for then a man who had committed fornication with several women would become irregular: which is false. Therefore bigamy nowise causes irregularity.
 
-### Answer
+**Answer**
 
 
 
@@ -24,16 +24,16 @@ I answer that, By the sacrament of order a man is appointed to the ministry of t
 
 There is another consequent reason assigned, since those who receive the sacrament of order should be signalized by the greatest spirituality, both because they administer spiritual things, namely the sacraments, and because they teach spiritual things, and should be occupied in spiritual matters. Wherefore since concupiscence is most incompatible with spirituality, inasmuch as it makes a man to be wholly carnal, they should give no sign of persistent concupiscence, which does indeed show itself in bigamous persons, seeing that they were unwilling to be content with one wife. The first reason however is the better.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The multitude of several wives at the same time is a multitude simply, wherefore a multitude of this kind is wholly inconsistent with the signification of the sacrament, so that the sacrament is voided on that account. But the multitude of several successive wives is a multitude relatively, wherefore it does not entirely destroy the signification of the sacrament, nor does it void the sacrament in its essence but in its perfection, which is required of those who are the dispensers of sacraments.
 
 Reply to Objection 2: Although those who are guilty of fornication give proof of greater concupiscence, theirs is not a so persistent concupiscence, since by fornication one party is not bound to the other for ever; and consequently no defect attaches to the sacrament.
 
 Reply to Objection 3: As stated above, bigamy causes irregularity, because it destroys the perfect signification of the sacrament: which signification is seated both in the union of minds, as expressed by the consent, and in the union of bodies. Wherefore bigamy must affect both of these at the same time in order to cause irregularity. Hence the decree of Innocent III disposes of the statement of the Master (Sent. iv, D, 27), namely that consent alone by words of the present is sufficient to cause irregularity.
-## Whether Irregularity Results From Bigamy, When One Husband Has Two Wives, One In Law, The Other In Fact?
+### Whether Irregularity Results From Bigamy, When One Husband Has Two Wives, One In Law, The Other In Fact?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that irregularity does not result from bigamy when one husband has two wives at the same time, one in law and one in fact. For when the sacrament is void there can be no defect in the sacrament. Now when a man marries a woman in fact but not in law there is no sacrament, since such a union does not signify the union of Christ with the Church. Therefore since irregularity does not result from bigamy except on account of a defect in the sacrament, it would seem that no irregularity attaches to bigamy of this kind.
 
@@ -41,20 +41,20 @@ Objection 2: Further, if a man has intercourse with a woman whom he has married 
 
 Objection 3: Further, it may happen that a man, before knowing carnally the woman he has married in law, marries another in fact and not in law, and knows her carnally, whether the former woman be living or dead. Now this man has contracted marriage with several women either in law or in fact, and yet he is not irregular, since he has not divided his flesh among several women. Therefore irregularity is not contracted by reason of the aforesaid kind of bigamy.
 
-### Answer
+**Answer**
 
 
 
 I answer that, Irregularity is contracted in the two second kinds of bigamy, for although in the one there is no sacrament, there is a certain likeness to a sacrament. Wherefore these two kinds are secondary, and the first is the principal kind in causing irregularity.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although there is no sacrament in this case there is a certain likeness to a sacrament, whereas there is no such likeness in fornication or adultery. Hence the comparison fails.
 
 Reply to Objection 3: In this case the man is not reckoned a bigamist, because the first marriage lacked its perfect signification. Nevertheless if, by the judgment of the Church, he be compelled to return to his first wife and carnally to know her, he becomes irregular forthwith, because the irregularity is the result not of the sin but of imperfect signification.
-## Whether Irregularity Is Contracted By Marrying One Who Is Not A Virgin?
+### Whether Irregularity Is Contracted By Marrying One Who Is Not A Virgin?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that irregularity is not contracted by marrying one who is not a virgin. For a man's own defect is a greater impediment to him than the defect of another. But if the man himself who marries is not a virgin he does not become irregular. Therefore much less does he if his wife is not a virgin.
 
@@ -64,7 +64,7 @@ Objection 3: Further, no man can become irregular except voluntarily. But someti
 
 Objection 4: Further, unlawful intercourse after marriage is more guilty than before marriage. Now if a wife, after the marriage has been consummated, has intercourse with another man, her husband does not become irregular, otherwise he would be punished for his wife's sin. Moreover, it might happen that, after knowing of this, he pays her the debt at her asking, before she is accused and convicted of adultery. Therefore it would seem that this kind of bigamy does not cause irregularity.
 
-### Answer
+**Answer**
 
 On the contrary, Gregory says (Regist. ii, ep. 37): "We command thee never to make unlawful ordinations, nor to admit to holy orders a bigamist, or one who has married a woman that is not a virgin, or one who is unlettered, or one who is deformed in his limbs, or bound to do penance or to perform some civil duty, or who is in any state of subjection."
 
@@ -72,16 +72,16 @@ I answer that, In the union of Christ with the Church unity is found on either s
 
 This suffices for the Reply to the First Objection.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: In this case opinions differ. It is, however, more probable that he is not irregular, because he has not divided his flesh among several women.
 
 Reply to Objection 3: Irregularity is not the infliction of a punishment, but the defect of a sacrament. Consequently it is not always necessary for bigamy to be voluntary in order to cause irregularity. Hence a man who marries a woman, thinking her to be a virgin, whereas she is not, becomes irregular by knowing her carnally.
 
 Reply to Objection 4: If a woman commits fornication after being married, her husband does not become irregular on that account, unless he again knows her carnally after she has been corrupted by adultery, since otherwise the corruption of the wife nowise affects the marriage act of the husband. But though he be compelled by law to pay her the debt, or if he do so at her request, being compelled by his own conscience, even before she is convicted of adultery, he becomes irregular, albeit opinions differ on this point. However, what we have said is more probable, since here it is not a question of sin, but of signification only.
-## Whether Bigamy Is Removed By Baptism?
+### Whether Bigamy Is Removed By Baptism?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that bigamy is removed by Baptism. For Jerome says in his commentary on the Epistle to Titus (1:6, "the husband of one wife") that if a man has had several wives before receiving Baptism, or one before and another after Baptism, he is not a bigamist. Therefore bigamy is removed by Baptism.
 
@@ -93,13 +93,13 @@ Objection 4: Further, a bigamist is irregular because he is deficient in the rep
 
 Objection 5: Further, the sacraments of the New Law are more efficacious than the sacraments of the Old Law. But the sacraments of the Old Law removed irregularities according to the Master's statement (Sent. iv,). Therefore Baptism also, being the most efficacious of the sacraments of the New Law, removes the irregularity consequent upon bigamy.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Bono Conjug. xviii): "Those understand the question more correctly who maintain that a man who has married a second wife, though he was a catechumen or even a pagan at the time, cannot be ordained, because it is a question of a sacrament, not of a sin."
 
 I answer that, Baptism removes sin, but does not dissolve marriage. Wherefore since irregularity results from marriage, it cannot be removed by Baptism, as Augustine says (De Bono Conjug. xviii).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: In this case Jerome's opinion is not followed: unless perhaps he wished to explain that he means that a dispensation should be more easily granted.
 
@@ -110,9 +110,9 @@ Reply to Objection 3: This must be understood of punishments consequent upon act
 Reply to Objection 4: Baptism conforms a man to Christ as regards the virtue of the mind, but not as to the condition of the body, which is effected by virginity or division of the flesh.
 
 Reply to Objection 5: Those irregularities were contracted through slight and temporary causes, and consequently they could be removed by those sacraments. Moreover the latter were ordained for that purpose, whereas Baptism is not.
-## Whether It Is Lawful For A Bigamist To Receive A Dispensation?
+### Whether It Is Lawful For A Bigamist To Receive A Dispensation?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unlawful for a bigamist to be granted a dispensation. For it is said (Extra, De bigamis, cap. Nuper): "It is not lawful to grant a dispensation to clerics who, as far as they could do so, have taken to themselves a second wife."
 
@@ -122,13 +122,13 @@ Objection 3: Further, no one can receive a dispensation in what is essential to 
 
 Objection 4: Further, what is reasonably done cannot be reasonably undone. If, therefore, a bigamist can lawfully receive a dispensation, it was unreasonable that he should be irregular: which is inadmissible.
 
-### Answer
+**Answer**
 
 On the contrary, Pope Lucius granted a dispensation to the bishop of Palermo who was a bigamist, as stated in the gloss on can. Lector, dist. 34.
 
 I answer that, Irregularity attaches to bigamy not by natural, but by positive law; nor again is it one of the essentials of order that a man be not a bigamist, which is evident from the fact that if a bigamist present himself for orders, he receives the character. Wherefore the Pope can dispense altogether from such an irregularity; but a bishop, only as regards the minor orders, though some say that in order to prevent religious wandering abroad he can dispense therefrom as regards the major orders in those who wish to serve God in religion.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This Decretal shows that there is the same difficulty against granting a dispensation in those who have married several wives in fact, as if they had married them in law; but it does not prove that the Pope has no power to grant a dispensation in such cases.
 

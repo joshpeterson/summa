@@ -7,9 +7,9 @@ We have now to consider the sacrament of the Eucharist; and first of all we trea
 (4) Its names;
 (5) Its institution;
 (6) Its figures.
-## Whether The Eucharist Is A Sacrament?
+### Whether The Eucharist Is A Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the Eucharist is not a sacrament. For two sacraments ought not to be ordained for the same end, because every sacrament is efficacious in producing its effect. Therefore, since both Confirmation and the Eucharist are ordained for perfection, as Dionysius says (Eccl. Hier. iv), it seems that the Eucharist is not a sacrament, since Confirmation is one, as stated above ([4506]Q[65], A[1];[4507] Q[72], A[1]).
 
@@ -17,22 +17,22 @@ Objection 2: Further, in every sacrament of the New Law, that which comes visibl
 
 Objection 3: Further, sacraments of the New Law, as having matter, are perfected by the use of the matter, as Baptism is by ablution, and Confirmation by signing with chrism. If, then, the Eucharist be a sacrament, it would be perfected by the use of the matter, and not by its consecration. But this is manifestly false, because the words spoken in the consecration of the matter are the form of this sacrament, as will be shown later on ([4510]Q[78], A[1]). Therefore the Eucharist is not a sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in the Collect [*Postcommunion "pro vivis et defunctis"]: "May this Thy Sacrament not make us deserving of punishment."
 
 I answer that, The Church's sacraments are ordained for helping man in the spiritual life. But the spiritual life is analogous to the corporeal, since corporeal things bear a resemblance to spiritual. Now it is clear that just as generation is required for corporeal life, since thereby man receives life; and growth, whereby man is brought to maturity: so likewise food is required for the preservation of life. Consequently, just as for the spiritual life there had to be Baptism, which is spiritual generation; and Confirmation, which is spiritual growth: so there needed to be the sacrament of the Eucharist, which is spiritual food.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Perfection is twofold. The first lies within man himself; and he attains it by growth: such perfection belongs to Confirmation. The other is the perfection which comes to man from the addition of food, or clothing, or something of the kind; and such is the perfection befitting the Eucharist, which is the spiritual refreshment.
 
 Reply to Objection 2: The water of Baptism does not cause any spiritual effect by reason of the water, but by reason of the power of the Holy Ghost, which power is in the water. Hence on Jn. 5:4, "An angel of the Lord at certain times," etc., Chrysostom observes: "The water does not act simply as such upon the baptized, but when it receives the grace of the Holy Ghost, then it looses all sins." But the true body of Christ. bears the same relation to the species of the bread and wine, as the power of the Holy Ghost does to the water of Baptism: hence the species of the bread and wine produce no effect except from the virtue of Christ's true body.
 
 Reply to Objection 3: A sacrament is so termed because it contains something sacred. Now a thing can be styled sacred from two causes; either absolutely, or in relation to something else. The difference between the Eucharist and other sacraments having sensible matter is that whereas the Eucharist contains something which is sacred absolutely, namely, Christ's own body; the baptismal water contains something which is sacred in relation to something else, namely, the sanctifying power: and the same holds good of chrism and such like. Consequently, the sacrament of the Eucharist is completed in the very consecration of the matter, whereas the other sacraments are completed in the application of the matter for the sanctifying of the individual. And from this follows another difference. For, in the sacrament of the Eucharist, what is both reality and sacrament is in the matter itself. but what is reality only, namely, the grace bestowed, is in the recipient; whereas in Baptism both are in the recipient, namely, the character, which is both reality and sacrament, and the grace of pardon of sins, which is reality only. And the same holds good of the other sacraments.
-## Whether The Eucharist Is One Sacrament Or Several?
+### Whether The Eucharist Is One Sacrament Or Several?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the Eucharist is not one sacrament but several, because it is said in the Collect [*Postcommunion "pro vivis et defunctis"]: "May the sacraments which we have received purify us, O Lord": and this is said on account of our receiving the Eucharist. Consequently the Eucharist is not one sacrament but several.
 
@@ -40,22 +40,22 @@ Objection 2: Further, it is impossible for genera to be multiplied without the s
 
 Objection 3: Further, this sacrament is perfected in the consecration of the matter, as stated above (A[1], ad 3). But in this sacrament there is a double consecration of the matter. Therefore, it is a twofold sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 10:17): "For we, being many, are one bread, one body, all that partake of one bread": from which it is clear that the Eucharist is the sacrament of the Church's unity. But a sacrament bears the likeness of the reality whereof it is the sacrament. Therefore the Eucharist is one sacrament.
 
 I answer that, As stated in Metaph. v, a thing is said to be one, not only from being indivisible, or continuous, but also when it is complete; thus we speak of one house, and one man. A thing is one in perfection, when it is complete through the presence of all that is needed for its end; as a man is complete by having all the members required for the operation of his soul, and a house by having all the parts needful for dwelling therein. And so this sacrament is said to be one. Because it is ordained for spiritual refreshment, which is conformed to corporeal refreshment. Now there are two things required for corporeal refreshment, namely, food, which is dry sustenance, and drink, which is wet sustenance. Consequently, two things concur for the integrity of this sacrament, to wit, spiritual food and spiritual drink, according to John: "My flesh is meat indeed, and My blood is drink indeed." Therefore, this sacrament is materially many, but formally and perfectively one.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The same Collect at first employs the plural: "May the sacraments which we have received purify us"; and afterwards the singular number: "May this sacrament of Thine not make us worthy of punishment": so as to show that this sacrament is in a measure several, yet simply one.
 
 Reply to Objection 2: The bread and wine are materially several signs, yet formally and perfectively one, inasmuch as one refreshment is prepared therefrom.
 
 Reply to Objection 3: From the double consecration of the matter no more can be gathered than that the sacrament is several materially, as stated above.
-## Whether The Eucharist Is Necessary For Salvation?
+### Whether The Eucharist Is Necessary For Salvation?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that this sacrament is necessary for salvation. For our Lord said (Jn. 6:54): "Except you eat the flesh of the Son of Man, and drink His blood, you shall not have life in you." But Christ's flesh is eaten and His blood drunk in this sacrament. Therefore, without this sacrament man cannot have the health of spiritual life.
 
@@ -63,22 +63,22 @@ Objection 2: Further, this sacrament is a kind of spiritual food. But bodily foo
 
 Objection 3: Further, as Baptism is the sacrament of our Lord's Passion, without which there is no salvation, so also is the Eucharist. For the Apostle says (1 Cor. 11:26): "For as often as you shall eat this bread, and drink the chalice, you shall show the death of the Lord, until He come." Consequently, as Baptism is necessary for salvation, so also is this sacrament.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine writes (Ad Bonifac. contra Pelag. I): "Nor are you to suppose that children cannot possess life, who are deprived of the body and blood of Christ."
 
 I answer that, Two things have to be considered in this sacrament, namely, the sacrament itself, and what is contained in it. Now it was stated above (A[1], OBJ[2]) that the reality of the sacrament is the unity of the mystical body, without which there can be no salvation; for there is no entering into salvation outside the Church, just as in the time of the deluge there was none outside the Ark, which denotes the Church, according to 1 Pet. 3:20,21. And it has been said above ([4512]Q[68], A[2]), that before receiving a sacrament, the reality of the sacrament can be had through the very desire of receiving the sacrament. Accordingly, before actual reception of this sacrament, a man can obtain salvation through the desire of receiving it, just as he can before Baptism through the desire of Baptism, as stated above ([4513]Q[68], A[2]). Yet there is a difference in two respects. First of all, because Baptism is the beginning of the spiritual life, and the door of the sacraments; whereas the Eucharist is, as it were, the consummation of the spiritual life, and the end of all the sacraments, as was observed above ([4514]Q[63], A[6]): for by the hallowings of all the sacraments preparation is made for receiving or consecrating the Eucharist. Consequently, the reception of Baptism is necessary for starting the spiritual life, while the receiving of the Eucharist is requisite for its consummation; by partaking not indeed actually, but in desire, as an end is possessed in desire and intention. Another difference is because by Baptism a man is ordained to the Eucharist, and therefore from the fact of children being baptized, they are destined by the Church to the Eucharist; and just as they believe through the Church's faith, so they desire the Eucharist through the Church's intention, and, as a result, receive its reality. But they are not disposed for Baptism by any previous sacrament, and consequently before receiving Baptism, in no way have they Baptism in desire; but adults alone have: consequently, they cannot have the reality of the sacrament without receiving the sacrament itself. Therefore this sacrament is not necessary for salvation in the same way as Baptism is.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says, explaining Jn. 6:54, "This food and this drink," namely, of His flesh and blood: "He would have us understand the fellowship of His body and members, which is the Church in His predestinated, and called, and justified, and glorified, His holy and believing ones." Hence, as he says in his Epistle to Boniface (Pseudo-Beda, in 1 Cor. 10:17): "No one should entertain the slightest doubt, that then every one of the faithful becomes a partaker of the body and blood of Christ, when in Baptism he is made a member of Christ's body; nor is he deprived of his share in that body and chalice even though he depart from this world in the unity of Christ's body, before he eats that bread and drinks of that chalice."
 
 Reply to Objection 2: The difference between corporeal and spiritual food lies in this, that the former is changed into the substance of the person nourished, and consequently it cannot avail for supporting life except it be partaken of; but spiritual food changes man into itself, according to that saying of Augustine (Confess. vii), that he heard the voice of Christ as it were saying to him: "Nor shalt thou change Me into thyself, as food of thy flesh, but thou shalt be changed into Me." But one can be changed into Christ, and be incorporated in Him by mental desire, even without receiving this sacrament. And consequently the comparison does not hold.
 
 Reply to Objection 3: Baptism is the sacrament of Christ's death and Passion, according as a man is born anew in Christ in virtue of His Passion; but the Eucharist is the sacrament of Christ's Passion according as a man is made perfect in union with Christ Who suffered. Hence, as Baptism is called the sacrament of Faith, which is the foundation of the spiritual life, so the Eucharist is termed the sacrament of Charity, which is "the bond of perfection" (Col. 3:14).
-## Whether This Sacrament Is Suitably Called By Various Names?
+### Whether This Sacrament Is Suitably Called By Various Names?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that this sacrament is not suitably called by various names. For names should correspond with things. But this sacrament is one, as stated above [4515](A[2]). Therefore, it ought not to be called by various names.
 
@@ -86,7 +86,7 @@ Objection 2: Further, a species is not properly denominated by what is common to
 
 Objection 3: Further, a host [*From Latin "hostia," a victim] seems to be the same as a sacrifice. Therefore, as it is not properly called a sacrifice, so neither is it properly termed a "Host."
 
-### Answer
+**Answer**
 
 On the contrary, is the use of these expressions by the faithful.
 
@@ -98,16 +98,16 @@ With regard to the future it has a third meaning, inasmuch as this sacrament for
 
 In Greek, moreover, it is called {Metalepsis}, i.e. "Assumption," because, as Damascene says (De Fide Orth. iv), "we thereby assume the Godhead of the Son."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: There is nothing to hinder the same thing from being called by several names, according to its various properties or effects.
 
 Reply to Objection 2: What is common to all the sacraments is attributed antonomastically to this one on account of its excellence.
 
 Reply to Objection 3: This sacrament is called a "Sacrifice" inasmuch as it represents the Passion of Christ; but it is termed a "Host" inasmuch as it contains Christ, Who is "a host (Douay: 'sacrifice') . . . of sweetness" (Eph. 5:2).
-## Whether The Institution Of This Sacrament Was Appropriate?
+### Whether The Institution Of This Sacrament Was Appropriate?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the institution of this sacrament was not appropriate, because as the Philosopher says (De Gener. ii): "We are nourished by the things from whence we spring." But by Baptism, which is spiritual regeneration, we receive our spiritual being, as Dionysius says (Eccl. Hier. ii). Therefore we are also nourished by Baptism. Consequently there was no need to institute this sacrament as spiritual nourishment.
 
@@ -117,7 +117,7 @@ Objection 3: Further, this sacrament is called the memorial of our Lord's Passio
 
 Objection 4: Further, a man is prepared by Baptism for the Eucharist, which ought to be given only to the baptized. But Baptism was instituted by Christ after His Passion and Resurrection, as is evident from Mat. 28:19. Therefore, this sacrament was not suitably instituted before Christ's Passion.
 
-### Answer
+**Answer**
 
 On the contrary, This sacrament was instituted by Christ, of Whom it is said (Mk. 7:37) that "He did all things well."
 
@@ -127,7 +127,7 @@ Secondly, because without faith in the Passion there could never be any salvatio
 
 Thirdly, because last words, chiefly such as are spoken by departing friends, are committed most deeply to memory; since then especially affection for friends is more enkindled, and the things which affect us most are impressed the deepest in the soul. Consequently, since, as Pope Alexander I says, "among sacrifices there can be none greater than the body and blood of Christ, nor any more powerful oblation"; our Lord instituted this sacrament at His last parting with His disciples, in order that it might be held in the greater veneration. And this is what Augustine says (Respons. ad Januar. i): "In order to commend more earnestly the death of this mystery, our Saviour willed this last act to be fixed in the hearts and memories of the disciples whom He was about to quit for the Passion."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: We are nourished from the same things of which we are made, but they do not come to us in the same way; for those out of which we are made come to us through generation, while the same, as nourishing us, come to us through being eaten. Hence, as we are new-born in Christ through Baptism, so through the Eucharist we eat Christ.
 
@@ -136,9 +136,9 @@ Reply to Objection 2: The Eucharist is the perfect sacrament of our Lord's Passi
 Reply to Objection 3: This sacrament was instituted during the supper, so as in the future to be a memorial of our Lord's Passion as accomplished. Hence He said expressively: "As often as ye shall do these things" [*Cf. Canon of the Mass], speaking of the future.
 
 Reply to Objection 4: The institution responds to the order of intention. But the sacrament of the Eucharist, although after Baptism in the receiving, is yet previous to it in intention; and therefore it behooved to be instituted first. or else it can be said that Baptism was already instituted in Christ's Baptism; hence some were already baptized with Christ's Baptism, as we read in Jn. 3:22.
-## Whether The Paschal Lamb Was The Chief Figure Of This Sacrament?
+### Whether The Paschal Lamb Was The Chief Figure Of This Sacrament?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the Paschal Lamb was not the chief figure of this sacrament, because (Ps. 109:4) Christ is called "a priest according to the order of Melchisedech," since Melchisedech bore the figure of Christ's sacrifice, in offering bread and wine. But the expression of likeness causes one thing to be named from another. Therefore, it seems that Melchisedech's offering was the "principal" figure of this sacrament.
 
@@ -146,7 +146,7 @@ Objection 2: Further, the passage of the Red Sea was a figure of Baptism, accord
 
 Objection 3: Further, the principal power of this sacrament is that it brings us into the kingdom of heaven, being a kind of "viaticum." But this was chiefly prefigured in the sacrament of expiation when the "high-priest entered once a year into the Holy of Holies with blood," as the Apostle proves in Heb. 9. Consequently, it seems that that sacrifice was a more significant figure of this sacrament than was the Paschal Lamb.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (1 Cor. 5:7,8): "Christ our Pasch is sacrificed; therefore let us feast . . . with the unleavened bread of sincerity and truth."
 

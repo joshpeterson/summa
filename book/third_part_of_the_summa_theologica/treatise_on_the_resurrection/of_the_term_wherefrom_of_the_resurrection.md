@@ -4,9 +4,9 @@ We must now consider the term "wherefrom" of the resurrection; and under this he
 (1) Whether death is the term "wherefrom" of the resurrection in every case?
 (2) Whether ashes are, or dust?
 (3) Whether this dust has a natural inclination towards the soul?
-## Whether Death Will Be The Term "Wherefrom" Of The Resurrection In All Cases?
+### Whether Death Will Be The Term "Wherefrom" Of The Resurrection In All Cases?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that death will not be the term "wherefrom" of the resurrection in all cases. Because some shall not die but shall be clothed with immortality: for it is said in the creed that our Lord "will come to judge the living and the dead." Now this cannot refer to the time of judgment, because then all will be alive; therefore this distinction must refer to the previous time, and consequently all will not die before the judgment.
 
@@ -16,13 +16,13 @@ Objection 3: Further, Augustine says (Enchiridion cxv) that the four last petiti
 
 Objection 4: Further, the wise man should always choose the shortest way. Now the shortest way is for the men who shall be found living to be transferred to the impassibility of the resurrection, than for them to die first, and afterwards rise again from death to immortality. Therefore God Who is supremely wise will choose this way for those who shall be found living.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Cor. 15:36): "That which thou sowest is not quickened except it die first," and he is speaking of the resurrection of the body as compared to the seed.
 
 I answer that, The saints differ in speaking on this question, as may be seen in the text (Sent. iv, D, 43). However, the safer and more common opinion is that all shall die and rise again from death: and this for three reasons. First, because it is more in accord with Divine justice, which condemned human nature for the sin of its first parent, that all who by the act of nature derive their origin from him should contract the stain of original sin, and consequently be the debtors of death. Secondly, because it is more in agreement with Divine Scripture which foretells the resurrection of all; and resurrection is not predicted properly except of that "which has fallen and perished," as the Damascene says (De Fide Orth. iv). Thirdly, because it is more in harmony with the order of nature where we find that what is corrupted and decayed is not renewed except by means of corruption: thus vinegar does not become wine unless the vinegar be corrupted and pass into the juice of the grape. Wherefore since human nature has incurred the defect of the necessity of death, it cannot return to immortality save by means of death. It is also in keeping with the order of nature for another reason, because, as it is stated in Phys. viii, 1, "the movement of heaven is as a kind of life to all existing in nature," just as the movement of the heart is a kind of life of the whole body: wherefore even as all the members become dead on the heart ceasing to move, so when the heavenly movement ceases nothing can remain living with that life which was sustained by the influence of that movement. Now such is the life by which we live now: and therefore it follows that those who shall live after the movement of the heaven comes to a standstill must depart from this life.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This distinction of the dead and the living does not apply to the time itself of the judgment, nor to the whole preceding time, since all who are to be judged were living at some time, and dead at some time: but it applies to that particular time which shall precede the judgment immediately, when, to wit, the signs of the judgment shall begin to appear.
 
@@ -31,9 +31,9 @@ Reply to Objection 2: The perfect desire of the saints cannot be void; but nothi
 Reply to Objection 3: It is erroneous to say that any one except Christ is conceived without original sin, because those who would be conceived without original sin would not need the redemption which was wrought by Christ, and thus Christ would not be the Redeemer of all men [*See Editor's note which follows TP, Q[26]]. Nor can it be said that they needed not this redemption, because it was granted to them that they should be conceived without sin. For, this grace was vouchsafed---either to their parents, that the sin of nature might be healed in them (because so long as that sin remained they were unable to beget without communicating original sin)---or to nature itself which was healed. Now we must allow that every one needs the redemption of Christ personally, and not only by reason of nature, and one cannot be delivered from an evil or absolved from a debt unless one incur the debt or incur the evil: and consequently all could not reap in themselves the fruit of the Lord's prayer, unless all were born debtors and subject to evil. Hence the forgiveness of debts or delivery from evil cannot be applied to one who is born without a debt or free from evil, but only to one who is born with a debt and is afterwards delivered by the grace of Christ. Nor does it follow, if it can be asserted without error that some die not, that they are born without original sin, although death is a punishment of original sin; because God can of His mercy remit the punishment which one has incurred by a past fault, as He forgave the adulterous woman without punishment (Jn. 8): and in like manner He can deliver from death those who have contracted the debt of death by being born in original sin. And thus it does not follow that if they die not, therefore they were born without original sin.
 
 Reply to Objection 4: The shortest way is not always the one to be chosen, but only when it is more or equally adapted for attaining the end. It is not so here, as is clear from what we have said.
-## Whether All Will Rise Again From Ashes?
+### Whether All Will Rise Again From Ashes?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all will not rise again from ashes. For Christ's resurrection is the exemplar of ours. Yet His resurrection was not from ashes, for His flesh saw not corruption according to Ps. 15:10; Acts 2:27,31. Therefore neither will all rise again from ashes.
 
@@ -43,7 +43,7 @@ Objection 3: Further, the body of a dead man is not reduced to ashes immediately
 
 Objection 4: Further, the term "wherefrom" corresponds to the term "whereto." Now the term "whereto" of the resurrection is not the same in the good as in the wicked: "We shall all indeed rise again, but we shall not all be changed" (1 Cor. 15:51). Therefore the term "wherefrom" is not the same. And thus, if the wicked rise again from ashes, the good will not rise again from ashes.
 
-### Answer
+**Answer**
 
 On the contrary, Haymo says (on Rom. 5:10, "For if when we were enemies"): "All who are born in original sin lie under the sentence: Earth thou art and into earth shalt thou go." Now all who shall rise again at the general resurrection were born in original sin, either at their birth within the womb or at least at their birth from the womb. Therefore all will rise again from ashes.
 
@@ -51,7 +51,7 @@ I answer that, The same reasons by which we have shown [5064](A[1]) that all ris
 
 Moreover the order of nature requires the dissolution not only of the union of soul and body, but also of the mingling of the elements: even as vinegar cannot be brought back to the quality of wine unless it first be dissolved into the prejacent matter: for the mingling of the elements is both caused and preserved by the movement of the heaven, and when this ceases all mixed bodies will be dissolved into pure elements.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ's resurrection is the exemplar of ours as to the term "whereto," but not as to the term "wherefrom."
 
@@ -60,9 +60,9 @@ Reply to Objection 2: By ashes we mean all the remains that are left after the d
 Reply to Objection 3: The fire that will cleanse the face of the earth will be able to reduce suddenly to ashes the bodies of those that will be found living, even as it will dissolve other mixed bodies into their prejacent matter.
 
 Reply to Objection 4: Movement does not take its species from its term "wherefrom" but from its term "whereto." Hence the resurrection of the saints which will be glorious must needs differ from the resurrection of the wicked which will not be glorious, in respect of the term "whereto," and not in respect of the term "wherefrom." And it often happens that the term "whereto" is not the same, whereas the term "wherefrom" is the same---for instance, a thing may be moved from blackness to whiteness and to pallor.
-## Whether The Ashes From Which The Human Body Will Be Restored Have Any Natural Inclination Towards The Soul Which Will Be United To Them?
+### Whether The Ashes From Which The Human Body Will Be Restored Have Any Natural Inclination Towards The Soul Which Will Be United To Them?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the ashes from which the human body will be restored will have a natural inclination towards the soul which will be united to them. For if they had no inclination towards the soul, they would stand in the same relation to that soul as other ashes. Therefore it would make no difference whether the body that is to be united to that soul were restored from those ashes or from others: and this is false.
 
@@ -70,7 +70,7 @@ Objection 2: Further, the body is more dependent on the soul than the soul on th
 
 Objection 3: Further, it is written (Job 20:11): "His bones shall be filled with the vices of his youth, and they shall sleep with him in the dust." But vices are only in the soul. Therefore there will still remain in those ashes a natural inclination towards the soul.
 
-### Answer
+**Answer**
 
 On the contrary, The human body can be dissolved into the very elements, or changed into the flesh of other animals. But the elements are homogeneous, and so is the flesh of a lion or other animal. Since then in the other parts of the elements or animals there is no natural inclination to that soul, neither will there be an inclination towards the soul in those parts into which the human body has been changed. The first proposition is made evident on the authority of Augustine (Enchiridion lxxxviii): "The human body, although changed into the substance of other bodies or even into the elements, although it has become the food and flesh of any animals whatsoever, even of man, will in an instant return to that soul which erstwhile animated it, making it a living and growing man."
 
@@ -80,7 +80,7 @@ natural inclination to human souls. But this again is nonsensical, since the par
 
 Hence the Reply to the First Objection is clear.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The soul separated from the body remains in the same nature that it has when united to the body. It is not so with the body, and consequently the comparison fails.
 

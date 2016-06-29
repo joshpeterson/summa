@@ -7,9 +7,9 @@ We must now consider compulsory and conditional consent. Under this head there a
 (4) Whether compulsory consent makes a marriage as regards the party using compulsion?
 (5) Whether conditional consent makes a marriage?
 (6) Whether one can be compelled by one's father to marry?
-## Whether A Compulsory Consent Is Possible?
+### Whether A Compulsory Consent Is Possible?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that no consent can be compulsory. For, as stated above (Sent. ii, D, 25 [*[4944]FS, Q[6], A[4]]) the free-will cannot be compelled. Now consent is an act of the free-will. Therefore it cannot be compulsory.
 
@@ -19,16 +19,16 @@ Objection 3: Further, every sin is perfected by consent. But that which perfects
 
 Objection 4: Further, power is opposed to liberty. But compulsion is allied to power, as appears from a definition of Tully's in which he says that "compulsion is the force of one who exercises his power to detain a thing outside its proper bounds." Therefore the free-will cannot be compelled, and consequently neither can consent which is an act thereof.
 
-### Answer
+**Answer**
 
 On the contrary, That which cannot be, cannot be an impediment. But compulsory consent is an impediment to matrimony, as stated in the text (Sent. iv, D, 29). Therefore consent can be compelled.
 
 I answer that, Compulsion or violence is twofold. One is the cause of absolute necessity, and violence of this kind the Philosopher calls (Ethic. iii, 1) "violent simply," as when by bodily strength one forces a person to move; the other causes conditional necessity, and the Philosopher calls this a "mixed violence," as when a person throws his merchandise overboard in order to save himself. In the latter kind of violence, although the thing done is not voluntary in itself, yet taking into consideration the circumstances of place and time it is voluntary. And since actions are about particulars, it follows that it is voluntary simply, and involuntary in a certain respect (Cf. [4945]FS, Q[6], A[6]). Wherefore this latter violence or compulsion is consistent with consent, but not the former. And since this compulsion results from one's fear of a threatening danger, it follows that this violence coincides with fear which, in a manner, compels the will, whereas the former violence has to do with bodily actions. Moreover, since the law considers not merely internal actions, but rather external actions, consequently it takes violence to mean absolute compulsion, for which reason it draws a distinction between violence and fear. Here, however, it is a question of internal consent which cannot be influenced by compulsion or violence as distinct from fear. Therefore as to the question at issue compulsion and fear are the same. Now, according to lawyers fear is "the agitation of the mind occasioned by danger imminent or future" (Ethic. iii, 1).
 
 This suffices for the Replies to the Objections; for the first set of arguments consider the first kind of compulsion, and the second set of arguments consider the second.
-## Whether A Constant Man Can Be Compelled By Fear?
+### Whether A Constant Man Can Be Compelled By Fear?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that "a constant man" [*Cap. Ad audientiam, De his quae vi.] cannot be compelled by fear. Because the nature of a constant man is not to be agitated in the midst of dangers. Since then fear is "agitation of the mind occasioned by imminent danger," it would seem that he is not compelled by fear.
 
@@ -38,13 +38,13 @@ Objection 3: Further, of all dangers a good man fears most that which affects hi
 
 Objection 4: Further, in him who is compelled by fear, fear leaves a sin, for it makes him promise what he is unwilling to fulfill, and thus it makes him lie. But a constant man does not commit a sin, not even a very slight one, for fear. Therefore no fear influences a constant man.
 
-### Answer
+**Answer**
 
 On the contrary, Abraham and Isaac were constant. Yet they were influenced by fear, since on account of fear each said that his wife was his sister (Gn. 12:12; 26:7).
 
 I answer that, By fear influencing a man we mean his being compelled by fear. A man is compelled by fear when he does that which otherwise he would not wish to do, in order to avoid that which he fears. Now the constant differs from the inconstant man in two respects. First, in respect of the quality of the danger feared, because the constant man follows right reason, whereby he knows whether to omit this rather than that, and whether to do this rather than that. Now the lesser evil or the greater good is always to be chosen in preference; and therefore the constant man is compelled to bear with the lesser evil through fear of the greater evil, but he is not compelled to bear with the greater evil in order to avoid the lesser. But the inconstant man is compelled to bear with the greater evil through fear of a lesser evil, namely to commit sin through fear of bodily suffering; whereas on the contrary the obstinate man cannot be compelled even to permit or to do a lesser evil, in order to avoid a greater. Hence the constant man is a mean between the inconstant and the obstinate. Secondly, they differ as to their estimate of the threatening evil, for a constant man is not compelled unless for grave and probable reasons, while the inconstant man is compelled by trifling motives: "The wicked man seeth when no man pursueth" (Prov. 28:1).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The constant man, like the brave man, is fearless, as the Philosopher states (Ethic. iii, 4), not that he is altogether without fear, but because he fears not what he ought not to fear, or where, or when he ought not to fear.
 
@@ -53,9 +53,9 @@ Reply to Objection 2: Sin is the greatest of evils, and consequently a constant 
 Reply to Objection 3: Although disgrace is a greater injury it is easy to remedy it. Hence fear of disgrace is not reckoned to influence a constant man according to law.
 
 Reply to Objection 4: The constant man is not compelled to lie, because at the time he wishes to give; yet afterwards he wishes to ask for restitution, or at least to appeal to the judge, if he promised not to ask for restitution. But he cannot promise not to appeal, for since this is contrary to the good of justice, he cannot be compelled thereto, namely to act against justice.
-## Whether Compulsory Consent Invalidates A Marriage?
+### Whether Compulsory Consent Invalidates A Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that compulsory consent does not invalidate a marriage. For just as consent is necessary for matrimony, so is intention necessary for Baptism. Now one who is compelled by fear to receive Baptism, receives the sacrament. Therefore one who is compelled by fear to consent is bound by his marriage.
 
@@ -63,7 +63,7 @@ Objection 2: Further, according to the Philosopher (Ethic. iii, 1), that which i
 
 Objection 3: Further, seemingly he who has consented to marriage under compulsion ought to be counseled to stand to that marriage; because to promise and not to fulfill has an "appearance of evil," and the Apostle wishes us to refrain from all such things (1 Thess 5:22). But that would not be the case if compulsory consent invalidated a marriage altogether. Therefore, etc.
 
-### Answer
+**Answer**
 
 On the contrary, A Decretal says (cap. Cum locum, De sponsal. et matrim.): "Since there is no room for consent where fear or compulsion enters in, it follows that where a person's consent is required, every pretext for compulsion must be set aside." Now mutual contract is necessary in marriage. Therefore, etc.
 
@@ -71,50 +71,50 @@ I answer that, The marriage bond is everlasting. Hence whatever is inconsistent 
 
 However, some say that if there be consent although compulsory, the marriage is valid in conscience and in God's sight, but not in the eyes of the Church, who presumes that there was no inward consent on account of the fear. But this is of no account, because the Church should not presume a person to sin until it be proved; and he sinned if he said that he consented whereas he did not consent. Wherefore the Church presumes that he did consent, but judges this compulsory consent to be insufficient for a valid marriage.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The intention is not the efficient cause of the sacrament in baptism, it is merely the cause that elicits the action of the agent; whereas the consent is the efficient cause in matrimony. Hence the comparison fails.
 
 Reply to Objection 2: Not any kind of voluntariness suffices for marriage: it must be completely voluntary, because it has to be perpetual; and consequently it is invalidated by violence of a mixed nature.
 
 Reply to Objection 3: He ought not always to be advised to stand to that marriage, but only when evil results are feared from its dissolution. Nor does he sin if he does otherwise, because there is no appearance of evil in not fulfilling a promise that one has made unwillingly.
-## Whether Compulsory Consent Makes A Marriage As Regards The Party Who Uses Compulsion?
+### Whether Compulsory Consent Makes A Marriage As Regards The Party Who Uses Compulsion?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that compulsory consent makes a marriage, at least as regards the party who uses compulsion. For matrimony is a sign of a spiritual union. But spiritual union which is by charity may be with one who has not charity. Therefore marriage is possible with one who wills it not.
 
 Objection 2: Further, if she who was compelled consents afterwards, it will be a true marriage. But he who compelled her before is not bound by her consent. Therefore he was married to her by virtue of the consent he gave before.
 
-### Answer
+**Answer**
 
 On the contrary, Matrimony is an equiparant relation. Now a relation of that kind is equally in both terms. Therefore if there is an impediment on the part of one, there will be no marriage on the part of the other.
 
 I answer that, Since marriage is a kind of relation, and a relation cannot arise in one of the terms without arising in the other, it follows that whatever is an impediment to matrimony in the one, is an impediment to matrimony in the other; since it is impossible for a man to be the husband of one who is not his wife, or for a woman to be a wife without a husband, just as it is impossible to be a mother without having a child. Hence it is a common saying that "marriage is not lame."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the act of the lover can be directed to one who loves not, there can be no union between them, unless love be mutual. Wherefore the Philosopher says (Ethic. viii, 2) that friendship which consists in a kind of union requires a return of love.
 
 Reply to Objection 2: Marriage does not result from the consent of her who was compelled before, except in so far as the other party's previous consent remains in force; wherefore if he were to withdraw his consent there would be no marriage.
-## Whether Conditional Consent Makes A Marriage?
+### Whether Conditional Consent Makes A Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that not even a conditional consent makes a marriage, because a statement is not made simply if it is made subject to a condition. But in marriage the words expressive of consent must be uttered simply. Therefore a conditional consent makes no marriage.
 
 Objection 2: Further, marriage should be certain. But where a statement is made under a condition it is rendered doubtful. Therefore a like consent makes no marriage.
 
-### Answer
+**Answer**
 
 On the contrary, In other contracts an obligation is undertaken conditionally, and holds so long as the condition holds. Therefore since marriage is a contract, it would seem that it can be made by a conditional consent.
 
 I answer that, The condition made is either of the present or of the future. If it is of the present and is not contrary to marriage, whether it be moral or immoral, the marriage holds if the condition is verified, and is invalid if the condition is not verified. If, however, it be contrary to the marriage blessings, the marriage is invalid, as we have also said in reference to betrothals ([4946]Q[43], A[1]). But if the condition refer to the future, it is either necessary, as that the sun will rise tomorrow---and then the marriage is valid, because such future things are present in their causes---or else it is contingent, as the payment of a sum of money, or the consent of the parents, and then the judgment about a consent of this kind is the same as about a consent expressed in words of the future tense; wherefore it makes no marriage.
 
 This suffices for the Replies to the Objections.
-## Whether One Can Be Compelled By One's Father's Command To Marry?
+### Whether One Can Be Compelled By One's Father's Command To Marry?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that one can be compelled by one's father's command to marry. For it is written (Col. 3:20): "Children, obey your parents in all things." Therefore they are bound to obey them in this also.
 
@@ -124,13 +124,13 @@ Objection 3: Further, no one should promise, especially with an oath, for one wh
 
 Objection 4: Further, our spiritual father, the Pope to wit, can by his command compel a man to a spiritual marriage, namely to accept a bishopric. Therefore a carnal father can compel his son to marriage.
 
-### Answer
+**Answer**
 
 On the contrary, A son may lawfully enter religion though his father command him to marry. Therefore he is not bound to obey him in this.
 
 I answer that, Since in marriage there is a kind of perpetual service, as it were, a father cannot by his command compel his son to marry, since the latter is of free condition: but he may induce him for a reasonable cause; and thus the son will be affected by his father's command in the same way as he is affected by that cause, so that if the cause be compelling as indicating either obligation or fitness, his father's command will compel him in the same measure: otherwise he may not compel him.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The words of the Apostle do not refer to those matters in which a man is his own master as the father is. Such is marriage by which the son also becomes a father.
 

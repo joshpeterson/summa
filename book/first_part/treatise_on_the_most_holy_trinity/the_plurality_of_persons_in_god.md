@@ -5,9 +5,9 @@ We are now led to consider the plurality of the persons: about which there are f
 (2) How many are they?
 (3) What the numeral terms signify in God?
 (4) The community of the term "person."
-## Whether There Are Several Persons In God?
+### Whether There Are Several Persons In God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are not several persons in God. For person is "the individual substance of a rational nature." If then there are several persons in God, there must be several substances; which appears to be heretical.
 
@@ -17,13 +17,13 @@ Objection 3: Further, Boethius says of God (De Trin. i), that "this is truly one
 
 Objection 4: Further, where number is, there is whole and part. Thus, if in God there exist a number of persons, there must be whole and part in God; which is inconsistent with the divine simplicity.
 
-### Answer
+**Answer**
 
 On the contrary, Athanasius says: "One is the person of the Father, another of the Son, another of the Holy Ghost." Therefore the Father, and the Son, and the Holy Ghost are several persons.
 
 I answer that, It follows from what precedes that there are several persons in God. For it was shown above ([256]Q[29], A[4]) that this word "person" signifies in God a relation as subsisting in the divine nature. It was also established ([257]Q[28], A[1]) that there are several real relations in God; and hence it follows that there are also several realities subsistent in the divine nature; which means that there are several persons in God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The definition of "person" includes "substance," not as meaning the essence, but the "suppositum" which is made clear by the addition of the term "individual." To signify the substance thus understood, the Greeks use the name "hypostasis." So, as we say, "Three persons," they say "Three hypostases." We are not, however, accustomed to say Three substances, lest we be understood to mean three essences or natures, by reason of the equivocal signification of the term.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: The absolute properties in God, such as goodness and wisdo
 Reply to Objection 3: The supreme unity and simplicity of God exclude every kind of plurality of absolute things, but not plurality of relations. Because relations are predicated relatively, and thus the relations do not import composition in that of which they are predicated, as Boethius teaches in the same book.
 
 Reply to Objection 4: Number is twofold, simple or absolute, as two and three and four; and number as existing in things numbered, as two men and two horses. So, if number in God is taken absolutely or abstractedly, there is nothing to prevent whole and part from being in Him, and thus number in Him is only in our way of understanding; forasmuch as number regarded apart from things numbered exists only in the intellect. But if number be taken as it is in the things numbered, in that sense as existing in creatures, one is part of two, and two of three, as one man is part of two men, and two of three; but this does not apply to God, because the Father is of the same magnitude as the whole Trinity, as we shall show further on ([259]Q[42], AA[1], 4).
-## Whether There Are More Than Three Persons In God?
+### Whether There Are More Than Three Persons In God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there are more than three persons in God. For the plurality of persons in God arises from the plurality of the relative properties as stated above [260](A[1]). But there are four relations in God as stated above ([261]Q[28], A[4]), paternity, filiation, common spiration, and procession. Therefore there are four persons in God.
 
@@ -46,13 +46,13 @@ Objection 4: Further, it is from the infinite goodness of the Father that He com
 
 Objection 5: Further, everything within a determinate number is measured, for number is a measure. But the divine persons are immense, as we say in the Creed of Athanasius: "The Father is immense, the Son is immense, the Holy Ghost is immense." Therefore the persons are not contained within the number three.
 
-### Answer
+**Answer**
 
 On the contrary, It is said: "There are three who bear witness in heaven, the father, the Word, and the Holy Ghost" (1 Jn. 5:7). To those who ask, "Three what?" we answer, with Augustine (De Trin. vii, 4), "Three persons." Therefore there are but three persons in God.
 
 I answer that, As was explained above, there can be only three persons in God. For it was shown above that the several persons are the several subsisting relations really distinct from each other. But a real distinction between the divine relations can come only from relative opposition. Therefore two opposite relations must needs refer to two persons: and if any relations are not opposite they must needs belong to the same person. Since then paternity and filiation are opposite relations, they belong necessarily to two persons. Therefore the subsisting paternity is the person of the Father; and the subsisting filiation is the person of the Son. The other two relations are not opposed to each other; therefore these two cannot belong to one person: hence either one of them must belong to both of the aforesaid persons; or one must belong to one person, and the other to the other. Now, procession cannot belong to the Father and the Son, or to either of them; for thus it would follows that the procession of the intellect, which in God is generation, wherefrom paternity and filiation are derived, would issue from the procession of love, whence spiration and procession are derived, if the person generating and the person generated proceeded from the person spirating; and this is against what was laid down above ([262]Q[27] , AA[3],4). We must frequently admit that spiration belongs to the person of the Father, and to the person of the Son, forasmuch as it has no relative opposition either to paternity or to filiation; and consequently that procession belongs to the other person who is called the person of the Holy Ghost, who proceeds by way of love, as above explained. Therefore only three persons exist in God, the Father, the Son, and the Holy Ghost.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although there are four relations in God, one of them, spiration, is not separated from the person of the Father and of the Son, but belongs to both; thus, although it is a relation, it is not called a property, because it does not belong to only one person; nor is it a personal relation---i.e. constituting a person. The three relations---paternity, filiation, and procession---are called personal properties, constituting as it were the persons; for paternity is the person of the Father, filiation is the person of the Son, procession is the person of the Holy Ghost proceeding.
 
@@ -63,9 +63,9 @@ Reply to Objection 3: As man is more perfect than other animals, he has more int
 Reply to Objection 4: This argument would prove if the Holy Ghost possessed another goodness apart from the goodness of the Father; for then if the Father produced a divine person by His goodness, the Holy Ghost also would do so. But the Father and the Holy Ghost have one and the same goodness. Nor is there any distinction between them except by the personal relations. So goodness belongs to the Holy Ghost, as derived from another; and it belongs to the Father, as the principle of its communication to another. The opposition of relation does not allow the relation of the Holy Ghost to be joined with the relation of principle of another divine person; because He Himself proceeds from the other persons who are in God.
 
 Reply to Objection 5: A determinate number, if taken as a simple number, existing in the mind only, is measured by one. But when we speak of a number of things as applied to the persons in God, the notion of measure has no place, because the magnitude of the three persons is the same ([265]Q[42], AA[1],4), and the same is not measured by the same.
-## Whether The Numeral Terms Denote Anything Real In God?
+### Whether The Numeral Terms Denote Anything Real In God?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the numeral terms denote something real in God. For the divine unity is the divine essence. But every number is unity repeated. Therefore every numeral term in God signifies the essence; and therefore it denotes something real in God.
 
@@ -73,7 +73,7 @@ Objection 2: Further, whatever is said of God and of creatures, belongs to God i
 
 Objection 3: Further, if the numeral terms do not denote anything real in God, and are introduced simply in a negative and removing sense, as plurality is employed to remove unity, and unity to remove plurality; it follows that a vicious circle results, confusing the mind and obscuring the truth; and this ought not to be. Therefore it must be said that the numeral terms denote something real in God.
 
-### Answer
+**Answer**
 
 On the contrary, Hilary says (De Trin. iv): "If we admit companionship"---that is, plurality---"we exclude the idea of oneness and of solitude;" and Ambrose says (De Fide i): "When we say one God, unity excludes plurality of gods, and does not imply quantity in God." Hence we see that these terms are applied to God in order to remove something; and not to denote anything positive.
 
@@ -87,16 +87,16 @@ But we say that numeral terms predicated of God are not derived from number, a s
 
 But number, if taken as a species of quantity, denotes an accident added to being; as also does "one" which is the principle of that number. Therefore the numeral terms in God signify the things of which they are said, and beyond this they add negation only, as stated (Sent. i, D, 24); in which respect the Master was right (Sent. i, D, 24). So when we say, the essence is one, the term "one" signifies the essence undivided; and when we say the person is one, it signifies the person undivided; and when we say the persons are many, we signify those persons, and their individual undividedness; for it is of the very nature of multitude that it should be composed of units.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: One, as it is a transcendental, is wider and more general than substance and relation. And so likewise is multitude; hence in God it may mean both substance and relation, according to the context. Still, the very signification of such names adds a negation of division, beyond substance and relation; as was explained above.
 
 Reply to Objection 2: Multitude, which denotes something real in creatures, is a species of quantity, and cannot be used when speaking of God: unlike transcendental multitude, which adds only indivision to those of which it is predicated. Such a kind of multitude is applicable to God.
 
 Reply to Objection 3: "One" does not exclude multitude, but division, which logically precedes one or multitude. Multitude does not remove unity, but division from each of the individuals which compose the multitude. This was explained when we treated of the divine unity ([267]Q[11], A[2]).
-## Whether This Term "Person" Can Be Common To The Three Persons?
+### Whether This Term "Person" Can Be Common To The Three Persons?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that this term "person" cannot be common to the three persons. For nothing is common to the three persons but the essence. But this term "person" does not signify the essence directly. Therefore it is not common to all three.
 
@@ -104,7 +104,7 @@ Objection 2: Further, the common is the opposite to the incommunicable. But the 
 
 Objection 3: Further, if the name "person" is common to the three, it is common either really, or logically. But it is not so really; otherwise the three persons would be one person; nor again is it so logically; otherwise person would be a universal. But in God there is neither universal nor particular; neither genus nor species, as we proved above ([269]Q[3], A[5]). Therefore this term 'person' is not common to the three.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. vii, 4) that when we ask, "Three what?" we say, "Three persons," because what a person is, is common to them.
 
@@ -112,7 +112,7 @@ I answer that, The very mode of expression itself shows that this term "person" 
 
 What is meant by such a community has been variously determined by those who have examined the subject. Some have called it a community of exclusion, forasmuch as the definition of "person" contains the word "incommunicable." Others thought it to be a community of intention, as the definition of person contains the word "individual"; as we say that to be a "species" is common to horse and ox. Both of these explanations, however, are excluded by the fact that "person" is not a name of exclusion nor of intention, but the name of a reality. We must therefore resolve that even in human affairs this name "person" is common by a community of idea, not as genus or species, but as a vague individual thing. The names of genera and species, as man or animal, are given to signify the common natures themselves, but not the intentions of those common natures, signified by the terms "genus" or "species." The vague individual thing, as "some man," signifies the common nature with the determinate mode of existence of singular things---that is, something self-subsisting, as distinct from others. But the name of a designated singular thing signifies that which distinguishes the determinate thing; as the name Socrates signifies this flesh and this bone. But there is this difference---that the term "some man" signifies the nature, or the individual on the part of its nature, with the mode of existence of singular things; while this name "person" is not given to signify the individual on the part of the nature, but the subsistent reality in that nature. Now this is common in idea to the divine persons, that each of them subsists distinctly from the others in the divine nature. Thus this name "person" is common in idea to the three divine persons.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This argument is founded on a real community.
 

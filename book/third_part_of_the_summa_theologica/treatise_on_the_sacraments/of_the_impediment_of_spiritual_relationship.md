@@ -6,9 +6,9 @@ We must now consider the impediment of spiritual relationship: under which head 
 (3) Between whom?
 (4) Whether it passes from husband to wife?
 (5) Whether it passes to the father's carnal children?
-## Whether Spiritual Relationship Is An Impediment To Marriage?
+### Whether Spiritual Relationship Is An Impediment To Marriage?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that spiritual relationship is not an impediment to marriage. For nothing is an impediment to marriage save what is contrary to a marriage good. Now spiritual relationship is not contrary to a marriage good. Therefore it is not an impediment to marriage.
 
@@ -18,13 +18,13 @@ Objection 3: Further, union of the spirit does not pass to the flesh. But marria
 
 Objection 4: Further, contraries have not the same effects. Now spiritual relationship is apparently contrary to disparity of worship, since spiritual relationship is a kinship resulting from the giving of a sacrament or the intention of so doing [*See next Article, ad 3]: whereas disparity of worship consists in the lack of a sacrament, as stated above ([4980]Q[50], A[1]). Since then disparity of worship is an impediment to matrimony, it would seem that spiritual relationship has not this effect.
 
-### Answer
+**Answer**
 
 On the contrary, The holier the bond, the more is it to be safeguarded. Now a spiritual bond is holier than a bodily tie: and since the tie of bodily kinship is an impediment to marriage, it follows that spiritual relationship should also be an impediment.
 
 I answer that, Just as by carnal procreation man receives natural being, so by the sacraments he receives the spiritual being of grace. Wherefore just as the tie that is contracted by carnal procreation is natural to man, inasmuch as he is a natural being, so the tie that is contracted from the reception of the sacraments is after a fashion natural to man, inasmuch as he is a member of the Church. Therefore as carnal relationship hinders marriage, even so does spiritual relationship by command of the Church. We must however draw a distinction in reference to spiritual relationship, since either it precedes or follows marriage. If it precedes, it hinders the contracting of marriage and voids the contract. If it follows, it does not dissolve the marriage bond: but we must draw a further distinction in reference to the marriage act. For either the spiritual relationship is contracted in a case of necessity, as when a father baptizes his child who is at the point of death---and then it is not an obstacle to the marriage act on either side---or it is contracted without any necessity and through ignorance, in which case if the person whose action has occasioned the relationship acted with due caution, it is the same with him as in the former case---or it is contracted purposely and without any necessity, and then the person whose action has occasioned the relationship, loses the right to ask for the debt; but is bound to pay if asked, because the fault of the one party should not be prejudicial to the other.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although spiritual relationship does not hinder any of the chief marriage goods, it hinders one of the secondary goods, namely the extension of friendship, because spiritual relationship is by itself a sufficient reason for friendship: wherefore intimacy and friendship with other persons need to be sought by means of marriage.
 
@@ -33,9 +33,9 @@ Reply to Objection 2: Marriage is a lasting bond, wherefore no supervening imped
 Reply to Objection 3: In marriage there is not only a bodily but also a spiritual union: and consequently kinship of spirit proves an impediment thereto, without spiritual kinship having to pass into a bodily relationship.
 
 Reply to Objection 4: There is nothing unreasonable in two things that are contrary to one another being contrary to the same thing, as great and small are contrary to equal. Thus disparity of worship and spiritual relationship are opposed to marriage, because in one the distance is greater, and in the other less, than required by marriage. Hence there is an impediment to marriage in either case.
-## Whether Spiritual Relationship Is Contracted By Baptism Only?
+### Whether Spiritual Relationship Is Contracted By Baptism Only?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that spiritual relationship is contracted by Baptism only. For as bodily kinship is to bodily birth, so is spiritual kinship to spiritual birth. Now Baptism alone is called spiritual birth. Therefore spiritual kinship is contracted by Baptism only, even as only by carnal birth is carnal kinship contracted.
 
@@ -55,13 +55,13 @@ Objection 8: Further, as original sin is taken away by Baptism, so is actual sin
 
 Objection 9: Further, "father" denotes relationship. Now a man is called another's spiritual father in respect of Penance, teaching, pastoral care and many other like things. Therefore spiritual relationship is contracted from many other sources besides Baptism and Confirmation.
 
-### Answer
+**Answer**
 
 
 
 I answer that, There are three opinions on this question. Some say that as spiritual regeneration is bestowed by the sevenfold grace of the Holy Ghost, it is caused by means of seven things, beginning with the first taste of blessed salt and ending with Confirmation given by the bishop: and they say that spiritual relationship is contracted by each of these seven things. But this does not seem reasonable, for carnal relationship is not contracted except by a perfect act of generation. Wherefore affinity is not contracted except there be mingling of seeds, from which it is possible for carnal generation to follow. Now spiritual generation is not perfected except by a sacrament: wherefore it does not seem fitting for spiritual relationship to be contracted otherwise than through a sacrament. Hence others say that spiritual relationship is only contracted through three sacraments, namely catechism, Baptism and Confirmation, but these do not apparently know the meaning of what they say, since catechism is not a sacrament but a sacramental. Wherefore others say that it is contracted through two sacraments only, namely Confirmation and Baptism, and this is the more common opinion. Some however of these say that catechism is a weak impediment, since it hinders the contracting of marriage but does not void the contract.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Carnal birth is twofold. The first is in the womb, wherein that which is born is a weakling and cannot come forth without danger: and to this birth regeneration by Baptism is likened; wherein a man is regenerated as though yet needing to be fostered in the womb of the Church. The second is birth from out of the womb, when that which was born in the womb is so far strengthened that it can without danger face the outer world which has a natural corruptive tendency. To this is likened Confirmation, whereby man being strengthened goes forth abroad to confess the name of Christ. Hence spiritual relationship is fittingly contracted through both these sacraments.
 
@@ -76,9 +76,9 @@ Reply to Objection 7: The Apostle had instructed them in the faith by a kind of 
 Reply to Objection 8: Properly speaking a spiritual relationship is not contracted through the sacrament of Penance. Wherefore a priest's son can marry a woman whose confession the priest has heard, else in the whole parish he could not find a woman whom he could marry. Nor does it matter that by Penance actual sin is taken away, for this is not a kind of birth, but a kind of healing. Nevertheless Penance occasions a kind of bond between the woman penitent and the priest, that has a resemblance to spiritual relationship, so that if he have carnal intercourse with her, he sins as grievously as if she were his spiritual daughter. The reason of this is that the relations between priest and penitent are most intimate, and consequently in order to remove the occasion of sin this prohibition [*Can. Omnes quos, and seqq., Caus. xxx] was made.
 
 Reply to Objection 9: A spiritual father is so called from his likeness to a carnal father. Now as the Philosopher says (Ethic. viii, 2) a carnal father gives his child three things, being nourishment and instruction: and consequently a person's spiritual father is so called from one of these three things. Nevertheless he has not, through being his spiritual father, a spiritual relationship with him, unless he is like a (carnal) father as to generation which is the way to being. This solution may also be applied to the foregoing Eighth Objection.
-## Whether Spiritual Relationship Is Contracted Between The Person Baptized And The Person Who Raises Him From The Sacred Font?
+### Whether Spiritual Relationship Is Contracted Between The Person Baptized And The Person Who Raises Him From The Sacred Font?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that spiritual relationship is not contracted between the person baptized and the person who raises him from the sacred font. For in carnal generation carnal relationship is contracted only on the part of the person of whose seed the child is born; and not on the part of the person who receives the child after birth. Therefore neither is spiritual relationship contracted between the receiver and the received at the sacred font.
 
@@ -86,22 +86,22 @@ Objection 2: Further, he who raises a person from the sacred font is called {ana
 
 Objection 3: Further, it may happen that someone raises a person from the sacred font before he himself is baptized. Now spiritual relationship is not contracted in such a case, since one who is not baptized is not capable of spirituality. Therefore raising a person from the sacred font is not sufficient to contract a spiritual relationship.
 
-### Answer
+**Answer**
 
 On the contrary, There is the definition of spiritual relationship quoted above [4982](A[1]), as also the authorities mentioned in the text (Sent. iv, D, 42).
 
 I answer that, Just as in carnal generation a person is born of a father and mother, so in spiritual generation a person is born again a son of God as Father, and of the Church as Mother. Now while he who confers the sacrament stands in the place of God, whose instrument and minister he is, he who raises a baptized person from the sacred font, or holds the candidate for Confirmation, stands in the place of the Church. Therefore spiritual relationship is contracted with both.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Not only the father, of whose seed the child is born, is related carnally to the child, but also the mother who provides the matter, and in whose womb the child is begotten. So too the godparent who in place of the Church offers and raises the candidate for Baptism and holds the candidate for Confirmation contracts spiritual relationship.
 
 Reply to Objection 2: He contracts spiritual relationship not by reason of the instruction it is his duty to give, but on account of the spiritual birth in which he co-operates.
 
 Reply to Objection 3: A person who is not baptized cannot raise anyone from the sacred font, since he is not a member of the Church whom the godparent in Baptism represents: although he can baptize, because he is a creature of God Whom the baptizer represents. And yet he cannot contract a spiritual relationship, since he is void of spiritual life to which man is first born by receiving Baptism.
-## Whether Spiritual Relationship Passes From Husband To Wife?
+### Whether Spiritual Relationship Passes From Husband To Wife?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that spiritual relationship does not pass from husband to wife. For spiritual and bodily union are disparate and differ generically. Therefore carnal union which is between husband and wife cannot be the means of contracting a spiritual relationship.
 
@@ -111,13 +111,13 @@ Objection 3: Further, it may happen that the husband is baptized, and his wife n
 
 Objection 4: Further, husband and wife together can raise a person from the sacred font, since no law forbids it. If therefore spiritual relationship passed from husband to wife, it would follow that each of them is twice godfather or godmother of the same individual: which is absurd.
 
-### Answer
+**Answer**
 
 On the contrary, Spiritual goods are more communicable than bodily goods. But the bodily consanguinity of the husband passes to his wife by affinity. Much more therefore does spiritual relationship.
 
 I answer that, A may become co-parent with B in two ways. First, by the act of another (B), who baptizes A's child, or raises him in Baptism. In this way spiritual relationship does not pass from husband to wife, unless perchance it be his wife's child, for then she contracts spiritual relationship directly, even as her husband. Secondly, by his own act, for instance when he raises B's child from the sacred font, and thus spiritual relationship passes to the wife if he has already had carnal knowledge of her, but not if the marriage be not yet consummated, since they are not as yet made one flesh: and this is by way of a kind of affinity; wherefore it would seem on the same grounds to pass to a woman of whom he has carnal knowledge, though she be not his wife. Hence the verse: "I may not marry my own child's godmother, nor the mother of my godchild: but I may marry the godmother of my wife's child."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: From the fact that corporal and spiritual union differ generically we may conclude that the one is not the other, but not that the one cannot cause the other, since things of different genera sometimes cause one another either directly or indirectly.
 
@@ -126,21 +126,21 @@ Reply to Objection 2: The godfather and godmother of the same person are not uni
 Reply to Objection 3: If the wife be not baptized, the spiritual relationship will not reach her, because she is not a fit subject, and not because spiritual relationship cannot pass from husband to wife through marriage.
 
 Reply to Objection 4: Since no spiritual relationship results between godfather and godmother, nothing prevents husband and wife from raising together someone from the sacred font. Nor is it absurd that the wife become twice godmother of the same person from different causes, just as it is possible for her to be connected in carnal relationship both by affinity and consanguinity to the same person.
-## Whether Spiritual Relationship Passes To The Godfather's Carnal Children?
+### Whether Spiritual Relationship Passes To The Godfather's Carnal Children?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that spiritual relationship does not pass to the godfather's carnal children. For no degrees are assigned to spiritual relationship. Yet there would be degrees if it passed from father to son, since the person begotten involves a change of degree, as stated above ([4983]Q[55], A[5]). Therefore it does not pass to the godfather's carnal sons.
 
 Objection 2: Further, father and son are related in the same degree as brother and brother. If therefore spiritual relationship passes from father to son, it will equally pass from brother to brother: and this is false.
 
-### Answer
+**Answer**
 
 On the contrary, This is proved by authority quoted in the text (Sent. iv, D, 42).
 
 I answer that, A son is something of his father and not conversely (Ethic. viii, 12): wherefore spiritual relationship passes from father to his carnal son and not conversely. Thus it is clear that there are three spiritual relationships: one called spiritual fatherhood between godfather and godchild; another called co-paternity between the godparent and carnal parent of the same person; and the third is called spiritual brotherhood, between godchild and the carnal children of the same parent. Each of these hinders the contracting of marriage and voids the contract.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The addition of a person by carnal generation entails a degree with regard to a person connected by the same kind of relationship, but not with regard to one connected by another kind of relationship. Thus a son is connected with his father's wife in the same degree as his father, but by another kind of relationship. Now spiritual relationship differs in kind from carnal. Wherefore a godson is not related to his godfather's carnal son in the same degree as the latter's father is related to him, through whom the spiritual relationship is contracted. Consequently it does not follow that spiritual relationship admits of degrees.
 

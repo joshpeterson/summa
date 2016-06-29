@@ -9,9 +9,9 @@ We now consider the union of the soul with the body; and concerning this there a
 (6) Whether it be united to such a body by means of another body?
 (7) Whether by means of an accident?
 (8) Whether the soul is wholly in each part of the body?
-## Whether The Intellectual Principle Is United To The Body As Its Form?
+### Whether The Intellectual Principle Is United To The Body As Its Form?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the intellectual principle is not united to the body as its form. For the Philosopher says (De Anima iii, 4) that the intellect is "separate," and that it is not the act of any body. Therefore it is not united to the body as its form.
 
@@ -25,7 +25,7 @@ Objection 5: Further, whatever has "per se" existence is not united to the body 
 
 Objection 6: Further, whatever exists in a thing by reason of its nature exists in it always. But to be united to matter belongs to the form by reason of its nature; because form is the act of matter, not by an accidental quality, but by its own essence; otherwise matter and form would not make a thing substantially one, but only accidentally one. Therefore a form cannot be without its own proper matter. But the intellectual principle, since it is incorruptible, as was shown above ([609]Q[75], A[6]), remains separate from the body, after the dissolution of the body. Therefore the intellectual principle is not united to the body as its form.
 
-### Answer
+**Answer**
 
 On the contrary, According to the Philosopher, Metaph. viii (Did. vii 2), difference is derived from the form. But the difference which constitutes man is "rational," which is applied to man on account of his intellectual principle. Therefore the intellectual principle is the form of man.
 
@@ -45,7 +45,7 @@ But we must observe that the nobler a form is, the more it rises above corporeal
 
 It is well to remark that if anyone holds that the soul is composed of matter and form, it would follow that in no way could the soul be the form of the body. For since the form is an act, and matter is only in potentiality, that which is composed of matter and form cannot be the form of another by virtue of itself as a whole. But if it is a form by virtue of some part of itself, then that part which is the form we call the soul, and that of which it is the form we call the "primary animate," as was said above ([611]Q[75], A[5]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As the Philosopher says (Phys. ii, 2), the ultimate natural form to which the consideration of the natural philosopher is directed is indeed separate; yet it exists in matter. He proves this from the fact that "man and the sun generate man from matter." It is separate indeed according to its intellectual power, because the intellectual power does not belong to a corporeal organ, as the power of seeing is the act of the eye; for understanding is an act which cannot be performed by a corporeal organ, like the act of seeing. But it exists in matter so far as the soul itself, to which this power belongs, is the form of the body, and the term of human generation. And so the Philosopher says (De Anima iii) that the intellect is separate, because it is not the faculty of a corporeal organ.
 
@@ -54,9 +54,9 @@ Reply to Objection 4: The human soul, by reason of its perfection, is not a form
 Reply to Objection 5: The soul communicates that existence in which it subsists to the corporeal matter, out of which and the intellectual soul there results unity of existence; so that the existence of the whole composite is also the existence of the soul. This is not the case with other non-subsistent forms. For this reason the human soul retains its own existence after the dissolution of the body; whereas it is not so with other forms.
 
 Reply to Objection 6: To be united to the body belongs to the soul by reason of itself, as it belongs to a light body by reason of itself to be raised up. And as a light body remains light, when removed from its proper place, retaining meanwhile an aptitude and an inclination for its proper place; so the human soul retains its proper existence when separated from the body, having an aptitude and a natural inclination to be united to the body.
-## Whether The Intellectual Principle Is Multiplied According To The Number Of Bodies?
+### Whether The Intellectual Principle Is Multiplied According To The Number Of Bodies?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the intellectual principle is not multiplied according to the number of bodies, but that there is one intellect in all men. For an immaterial substance is not multiplied in number within one species. But the human soul is an immaterial substance; since it is not composed of matter and form as was shown above ([612]Q[75], A[5]). Therefore there are not many human souls in one species. But all men are of one species. Therefore there is but one intellect in all men.
 
@@ -70,7 +70,7 @@ Objection 5: Further, when the disciple receives knowledge from the master, it c
 
 Objection 6: Further, Augustine (De Quant. Animae xxxii) says: "If I were to say that there are many human souls, I should laugh at myself." But the soul seems to be one chiefly on account of the intellect. Therefore there is one intellect of all men.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (Phys. ii, 3) that the relation of universal causes to universals is like the relation of particular causes to individuals. But it is impossible that a soul, one in species, should belong to animals of different species. Therefore it is impossible that one individual intellectual soul should belong to several individuals.
 
@@ -82,7 +82,7 @@ Again, this is clearly impossible, whatever one may hold as to the manner of the
 
 However, it would be possible to distinguish my intellectual action form yours by the distinction of the phantasms---that is to say, were there one phantasm of a stone in me, and another in you---if the phantasm itself, as it is one thing in me and another in you, were a form of the possible intellect; since the same agent according to divers forms produces divers actions; as, according to divers forms of things with regard to the same eye, there are divers visions. But the phantasm itself is not a form of the possible intellect; it is the intelligible species abstracted from the phantasm that is a form. Now in one intellect, from different phantasms of the same species, only one intelligible species is abstracted; as appears in one man, in whom there may be different phantasms of a stone; yet from all of them only one intelligible species of a stone is abstracted; by which the intellect of that one man, by one operation, understands the nature of a stone, notwithstanding the diversity of phantasms. Therefore, if there were one intellect for all men, the diversity of phantasms which are in this one and that one would not cause a diversity of intellectual operation in this man and that man. It follows, therefore, that it is altogether impossible and unreasonable to maintain that there exists one intellect for all men.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Although the intellectual soul, like an angel, has no matter from which it is produced, yet it is the form of a certain matter; in which it is unlike an angel. Therefore, according to the division of matter, there are many souls of one species; while it is quite impossible for many angels to be of one species.
 
@@ -95,9 +95,9 @@ Reply to Objection 4: Whether the intellect be one or many, what is understood i
 Reply to Objection 5: One knowledge exists in the disciple and another in the master. How it is caused will be shown later on ([613]Q[117], A[1]).
 
 Reply to Objection 6: Augustine denies a plurality of souls, that would involve a plurality of species.
-## Whether Besides The Intellectual Soul There Are In Man Other Souls Essentially Different From One Another?
+### Whether Besides The Intellectual Soul There Are In Man Other Souls Essentially Different From One Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that besides the intellectual soul there are in man other souls essentially different from one another, such as the sensitive soul and the nutritive soul. For corruptible and incorruptible are not of the same substance. But the intellectual soul is incorruptible; whereas the other souls, as the sensitive and the nutritive, are corruptible, as was shown above ([614]Q[75], A[6]). Therefore in man the essence of the intellectual soul, the sensitive soul, and the nutritive soul, cannot be the same.
 
@@ -105,7 +105,7 @@ Objection 2: Further, if it be said that the sensitive soul in man is incorrupti
 
 Objection 3: Further, the Philosopher says, Metaph. viii (Did. vii, 2), that the genus is taken from the matter, and difference from the form. But "rational," which is the difference constituting man, is taken from the intellectual soul; while he is called "animal" by reason of his having a body animated by a sensitive soul. Therefore the intellectual soul may be compared to the body animated by a sensitive soul, as form to matter. Therefore in man the intellectual soul is not essentially the same as the sensitive soul, but presupposes it as a material subject.
 
-### Answer
+**Answer**
 
 On the contrary, It is said in the book De Ecclesiasticis Dogmatibus xv: "Nor do we say that there are two souls in one man, as James and other Syrians write; one, animal, by which the body is animated, and which is mingled with the blood; the other, spiritual, which obeys the reason; but we say that it is one and the same soul in man, that both gives life to the body by being united to it, and orders itself by its own reasoning."
 
@@ -121,16 +121,16 @@ Thirdly, this is shown to be impossible by the fact that when one operation of t
 
 We must therefore conclude that in man the sensitive soul, the intellectual soul, and the nutritive soul are numerically one soul. This can easily be explained, if we consider the differences of species and forms. For we observe that the species and forms of things differ from one another, as the perfect and imperfect; as in the order of things, the animate are more perfect than the inanimate, and animals more perfect than plants, and man than brute animals; and in each of these genera there are various degrees. For this reason Aristotle, Metaph. viii (Did. vii, 3), compares the species of things to numbers, which differ in species by the addition or subtraction of unity. And (De Anima ii, 3) he compares the various souls to the species of figures, one of which contains another; as a pentagon contains and exceeds a tetragon. Thus the intellectual soul contains virtually whatever belongs to the sensitive soul of brute animals, and to the nutritive souls of plants. Therefore, as a surface which is of a pentagonal shape, is not tetragonal by one shape, and pentagonal by another---since a tetragonal shape would be superfluous as contained in the pentagonal---so neither is Socrates a man by one soul, and animal by another; but by one and the same soul he is both animal and man.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The sensitive soul is incorruptible, not by reason of its being sensitive, but by reason of its being intellectual. When, therefore, a soul is sensitive only, it is corruptible; but when with sensibility it has also intellectuality, it is incorruptible. For although sensibility does not give incorruptibility, yet it cannot deprive intellectuality of its incorruptibility.
 
 Reply to Objection 2: Not forms, but composites, are classified either generically or specifically. Now man is corruptible like other animals. And so the difference of corruptible and incorruptible which is on the part of the forms does not involve a generic difference between man and the other animals.
 
 Reply to Objection 3: The embryo has first of all a soul which is merely sensitive, and when this is removed, it is supplanted by a more perfect soul, which is both sensitive and intellectual: as will be shown further on ([615]Q[118], A[2], ad 2).
-## Whether In Man There Is Another Form Besides The Intellectual Soul?
+### Whether In Man There Is Another Form Besides The Intellectual Soul?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that in man there is another form besides the intellectual soul. For the Philosopher says (De Anima ii, 1), that "the soul is the act of a physical body which has life potentially." Therefore the soul is to the body as a form of matter. But the body has a substantial form by which it is a body. Therefore some other substantial form in the body precedes the soul.
 
@@ -140,7 +140,7 @@ Objection 3: Further, the order of forms depends on their relation to primary ma
 
 Objection 4: Further, the human body is a mixed body. Now mingling does not result from matter alone; for then we should have mere corruption. Therefore the forms of the elements must remain in a mixed body; and these are substantial forms. Therefore in the human body there are other substantial forms besides the intellectual soul.
 
-### Answer
+**Answer**
 
 On the contrary, Of one thing there is but one substantial being. But the substantial form gives substantial being. Therefore of one thing there is but one substantial form. But the soul is the substantial form of man. Therefore it is impossible for there to be in man another substantial form besides the intellectual soul.
 
@@ -150,7 +150,7 @@ In order to make this evident, we must consider that the substantial form differ
 
 Whence we must conclude, that there is no other substantial form in man besides the intellectual soul; and that the soul, as it virtually contains the sensitive and nutritive souls, so does it virtually contain all inferior forms, and itself alone does whatever the imperfect forms do in other things. The same is to be said of the sensitive soul in brute animals, and of the nutritive soul in plants, and universally of all more perfect forms with regard to the imperfect.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Aristotle does not say that the soul is the act of a body only, but "the act of a physical organic body which has life potentially"; and that this potentiality "does not reject the soul." Whence it is clear that when the soul is called the act, the soul itself is included; as when we say that heat is the act of what is hot, and light of what is lucid; not as though lucid and light were two separate things, but because a thing is made lucid by the light. In like manner, the soul is said to be the "act of a body," etc., because by the soul it is a body, and is organic, and has life potentially. Yet the first act is said to be in potentiality to the second act, which is operation; for such a potentiality "does not reject"---that is, does not exclude---the soul.
 
@@ -159,9 +159,9 @@ Reply to Objection 2: The soul does not move the body by its essence, as the for
 Reply to Objection 3: We observe in matter various degrees of perfection, as existence, living, sensing, and understanding. Now what is added is always more perfect. Therefore that form which gives matter only the first degree of perfection is the most imperfect; while that form which gives the first, second, and third degree, and so on, is the most perfect: and yet it inheres to matter immediately.
 
 Reply to Objection 4: Avicenna held that the substantial forms of the elements remain entire in the mixed body; and that the mixture is made by the contrary qualities of the elements being reduced to an average. But this is impossible, because the various forms of the elements must necessarily be in various parts of matter; for the distinction of which we must suppose dimensions, without which matter cannot be divisible. Now matter subject to dimension is not to be found except in a body. But various bodies cannot be in the same place. Whence it follows that elements in the mixed body would be distinct as to situation. And then there would not be a real mixture which is in respect of the whole; but only a mixture apparent to sense, by the juxtaposition of particles.
-## Whether The Intellectual Soul Is Properly United To Such A Body?
+### Whether The Intellectual Soul Is Properly United To Such A Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the intellectual soul is improperly united to such a body. For matter must be proportionate to the form. But the intellectual soul is incorruptible. Therefore it is not properly united to a corruptible body.
 
@@ -171,7 +171,7 @@ Objection 3: Further, since the form is the principle of the species, one form c
 
 Objection 4: Further, what is susceptible of a more perfect form should itself be more perfect. But the intellectual soul is the most perfect of souls. Therefore since the bodies of other animals are naturally provided with a covering, for instance, with hair instead of clothes, and hoofs instead of shoes; and are, moreover, naturally provided with arms, as claws, teeth, and horns; it seems that the intellectual soul should not have been united to a body which is imperfect as being deprived of the above means of protection.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (De Anima ii, 1), that "the soul is the act of a physical organic body having life potentially."
 
@@ -179,7 +179,7 @@ I answer that, Since the form is not for the matter, but rather the matter for t
 
 Now all the other senses are based on the sense of touch. But the organ of touch requires to be a medium between contraries, such as hot and cold, wet and dry, and the like, of which the sense of touch has the perception; thus it is in potentiality with regard to contraries, and is able to perceive them. Therefore the more the organ of touch is reduced to an equable complexion, the more sensitive will be the touch. But the intellectual soul has the power of sense in all its completeness; because what belongs to the inferior nature pre-exists more perfectly in the superior, as Dionysius says (Div. Nom. v). Therefore the body to which the intellectual soul is united should be a mixed body, above others reduced to the most equable complexion. For this reason among animals, man has the best sense of touch. And among men, those who have the best sense of touch have the best intelligence. A sign of which is that we observe "those who are refined in body are well endowed in mind," as stated in De Anima ii, 9.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Perhaps someone might attempt to answer this by saying that before sin the human body was incorruptible. This answer does not seem sufficient; because before sin the human body was immortal not by nature, but by a gift of Divine grace; otherwise its immortality would not be forfeited through sin, as neither was the immortality of the devil.
 
@@ -188,9 +188,9 @@ Reply to Objection 2: A body is not necessary to the intellectual soul by reason
 Reply to Objection 3: The parts of an animal, for instance, the eye, hand, flesh, and bones, and so forth, do not make the species; but the whole does, and therefore, properly speaking, we cannot say that these are of different species, but that they are of various dispositions. This is suitable to the intellectual soul, which, although it be one in its essence, yet on account of its perfection, is manifold in power: and therefore, for its various operations it requires various dispositions in the parts of the body to which it is united. For this reason we observe that there is a greater variety of parts in perfect than in imperfect animals; and in these a greater variety than in plants.
 
 Reply to Objection 4: The intellectual soul as comprehending universals, has a power extending to the infinite; therefore it cannot be limited by nature to certain fixed natural notions, or even to certain fixed means whether of defence or of clothing, as is the case with other animals, the souls of which are endowed with knowledge and power in regard to fixed particular things. Instead of all these, man has by nature his reason and his hands, which are "the organs of organs" (De Anima iii), since by their means man can make for himself instruments of an infinite variety, and for any number of purposes.
-## Whether The Intellectual Soul Is United To The Body Through The Medium Of Accidental Dispositions?
+### Whether The Intellectual Soul Is United To The Body Through The Medium Of Accidental Dispositions?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the intellectual soul is united to the body through the medium of accidental dispositions. For every form exists in its proper disposed matter. But dispositions to a form are accidents. Therefore we must presuppose accidents to be in matter before the substantial form; and therefore before the soul, since the soul is a substantial form.
 
@@ -198,7 +198,7 @@ Objection 2: Further, various forms of one species require various parts of matt
 
 Objection 3: Further, what is spiritual is connected with what is corporeal by virtual contact. But the virtue of the soul is its power. Therefore it seems that the soul is united to the body by means of a power, which is an accident.
 
-### Answer
+**Answer**
 
 On the contrary, Accident is posterior to substance, both in the order of time and in the order of reason, as the Philosopher says, Metaph. vii (Did. vi, 1). Therefore it is unintelligible that any accidental form exist in matter before the soul, which is the substantial form.
 
@@ -206,16 +206,16 @@ I answer that, If the soul were united to the body, merely as a motor, there wou
 
 If, however, the intellectual soul is united to the body as the substantial form, as we have already said above [618](A[1]), it is impossible for any accidental disposition to come between the body and the soul, or between any substantial form whatever and its matter. The reason is because since matter is in potentiality to all manner of acts in a certain order, what is absolutely first among the acts must be understood as being first in matter. Now the first among all acts is existence. Therefore, it is impossible for matter to be apprehended as hot, or as having quantity, before it is actual. But matter has actual existence by the substantial form, which makes it to exist absolutely, as we have said above [619](A[4]). Wherefore it is impossible for any accidental dispositions to pre-exist in matter before the substantial form, and consequently before the soul.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As appears from what has been already said [620](A[4]), the more perfect form virtually contains whatever belongs to the inferior forms; therefore while remaining one and the same, it perfects matter according to the various degrees of perfection. For the same essential form makes man an actual being, a body, a living being, an animal, and a man. Now it is clear that to every "genus" follow its own proper accidents. Therefore as matter is apprehended as perfected in its existence, before it is understood as corporeal, and so on; so those accidents which belong to existence are understood to exist before corporeity; and thus dispositions are understood in matter before the form, not as regards all its effects, but as regards the subsequent effect.
 
 Reply to Objection 2: Dimensions of quantity are accidents consequent to the corporeity which belongs to the whole matter. Wherefore matter, once understood as corporeal and measurable, can be understood as distinct in its various parts, and as receptive of different forms according to the further degrees of perfection. For although it is essentially the same form which gives matter the various degrees of perfection, as we have said (ad 1), yet it is considered as different when brought under the observation of reason.
 
 Reply to Objection 3: A spiritual substance which is united to a body as its motor only, is united thereto by power or virtue. But the intellectual soul is united by its very being to the body as a form; and yet it guides and moves the body by its power and virtue.
-## Whether The Soul Is United To The Animal Body By Means Of A Body?
+### Whether The Soul Is United To The Animal Body By Means Of A Body?
 
-### Objections
+**Objections**
 
 Objection 1: It seems that the soul is united to the animal body by means of a body. For Augustine says (Gen. ad lit. vii, 19), that "the soul administers the body by light," that is, by fire, "and by air, which is most akin to a spirit." But fire and air are bodies. Therefore the soul is united to the human body by means of a body.
 
@@ -223,7 +223,7 @@ Objection 2: Further, a link between two things seems to be that thing the remov
 
 Objection 3: Further, things which are very distant from one another, are not united except by something between them. But the intellectual soul is very distant from the body, both because it is incorporeal, and because it is incorruptible. Therefore it seems to be united to the body by means of an incorruptible body, and such would be some heavenly light, which would harmonize the elements, and unite them together.
 
-### Answer
+**Answer**
 
 On the contrary, The Philosopher says (De Anima ii, 1): "We need not ask if the soul and body are one, as neither do we ask if wax and its shape are one." But the shape is united to the wax without a body intervening. Therefore also the soul is thus united to the body.
 
@@ -233,16 +233,16 @@ If, however, the soul is united to the body as its form, as we have said [621](A
 
 From this it is clear how false are the opinions of those who maintained the existence of some mediate bodies between the soul and body of man. Of these certain Platonists said that the intellectual soul has an incorruptible body naturally united to it, from which it is never separated, and by means of which it is united to the corruptible body of man. Others said that the soul is united to the body by means of a corporeal spirit. Others said it is united to the body by means of light, which, they say, is a body and of the nature of the fifth essence; so that the vegetative soul would be united to the body by means of the light of the sidereal heaven; the sensible soul, by means of the light of the crystal heaven; and the intellectual soul by means of the light of the empyrean heaven. Now all this is fictious and ridiculous: for light is not a body; and the fifth essence does not enter materially into the composition of a mixed body (since it is unchangeable), but only virtually: and lastly, because the soul is immediately united to the body as the form to matter.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Augustine speaks there of the soul as it moves the body; whence he uses the word "administration." It is true that it moves the grosser parts of the body by the more subtle parts. And the first instrument of the motive power is a kind of spirit, as the Philosopher says in De causa motus animalium (De mot. animal. x).
 
 Reply to Objection 2: The union of soul and body ceases at the cessation of breath, not because this is the means of union, but because of the removal of that disposition by which the body is disposed for such a union. Nevertheless the breath is a means of moving, as the first instrument of motion.
 
 Reply to Objection 3: The soul is indeed very distant from the body, if we consider the condition of each separately: so that if each had a separate existence, many means of connection would have to intervene. But inasmuch as the soul is the form of the body, it has not an existence apart from the existence of the body, but by its own existence is united to the body immediately. This is the case with every form which, if considered as an act, is very distant from matter, which is a being only in potentiality.
-## Whether The Soul Is In Each Part Of The Body?
+### Whether The Soul Is In Each Part Of The Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the whole soul is not in each part of the body; for the Philosopher says in De causa motus animalium (De mot. animal. x): "It is not necessary for the soul to be in each part of the body; it suffices that it be in some principle of the body causing the other parts to live, for each part has a natural movement of its own."
 
@@ -254,7 +254,7 @@ Objection 4: Further, all the powers of the soul are rooted in the essence of th
 
 Objection 5: Further, if the whole soul is in each part of the body, each part of the body is immediately dependent on the soul. Thus one part would not depend on another; nor would one part be nobler than another; which is clearly untrue. Therefore the soul is not in each part of the body.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Trin. vi, 6), that "in each body the whole soul is in the whole body, and in each part is entire."
 
@@ -266,7 +266,7 @@ Therefore if it be asked whether the whole whiteness is in the whole surface and
 
 Since, however, the soul has not quantitative totality, neither essentially, nor accidentally, as we have seen; it is enough to say that the whole soul is in each part of the body, by totality of perfection and of essence, but not by totality of power. For it is not in each part of the body, with regard to each of its powers; but with regard to sight, it is in the eye; and with regard to hearing, it is in the ear; and so forth. We must observe, however, that since the soul requires variety of parts, its relation to the whole is not the same as its relation to the parts; for to the whole it is compared primarily and essentially, as to its proper and proportionate perfectible; but to the parts, secondarily, inasmuch as they are ordained to the whole.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Philosopher is speaking there of the motive power of the soul.
 

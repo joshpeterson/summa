@@ -5,9 +5,9 @@ MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)  We have now to consider each k
 (2) The miracles which He worked in heavenly bodies;
 (3) The miracles which He worked in man;
 (4) The miracles which He worked in irrational creatures.
-## Whether Those Miracles Were Fitting Which Christ Worked In Spiritual Substances?
+### Whether Those Miracles Were Fitting Which Christ Worked In Spiritual Substances?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that those miracles were unfitting which Christ worked in spiritual substances. For among spiritual substances the holy angels are above the demons; for, as Augustine says (De Trin. iii): "The treacherous and sinful rational spirit of life is ruled by the rational, pious, and just spirit of life." But we read of no miracles worked by Christ in the good angels. Therefore neither should He have worked miracles in the demons.
 
@@ -17,13 +17,13 @@ Objection 3: Further, Christ's miracles were ordained to the glory of God: hence
 
 Objection 4: Further, Christ's miracles are ordained to the salvation of mankind. But sometimes the casting out of demons from men was detrimental to man, in some cases to the body: thus it is related (Mk. 9:24,25) that a demon at Christ's command, "crying out and greatly tearing" the man, "went out of him; and he became as dead, so that many said: He is dead"; sometimes also to things: as when He sent the demons, at their own request, into the swine, which they cast headlong into the sea; wherefore the inhabitants of those parts "besought Him that He would depart from their coasts" (Mat. 8:31-34). Therefore it seems unfitting that He should have worked such like miracles.
 
-### Answer
+**Answer**
 
 On the contrary, this was foretold (Zech. 13:2), where it is written: "I will take away . . . the unclean spirit out of the earth."
 
 I answer that, The miracles worked by Christ were arguments for the faith which He taught. Now, by the power of His Godhead He was to rescue those who would believe in Him, from the power of the demons; according to Jn. 12:31: "Now shall the prince of this world be cast out." Consequently it was fitting that, among other miracles, He should also deliver those who were obsessed by demons.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as men were to be delivered by Christ from the power of the demons, so by Him were they to be brought to the companionship of the angels, according to Col. 1:20: "Making peace through the blood of His cross, both as to the things on earth and the things that are in heaven." Therefore it was not fitting to show forth to men other miracles as regards the angels, except by angels appearing to men: as happened in His Nativity, His Resurrection, and His Ascension.
 
@@ -32,9 +32,9 @@ Reply to Objection 2: As Augustine says (De Civ. Dei ix): "Christ was known to t
 Reply to Objection 3: The miracles which Christ worked in expelling demons were for the benefit, not of the demons, but of men, that they might glorify Him. Wherefore He forbade them to speak in His praise. First, to give us an example. For, as Athanasius says, "He restrained his speech, although he was confessing the truth; to teach us not to care about such things, although it may seem that what is said is true. For it is wrong to seek to learn from the devil when we have the Divine Scripture": Besides, it is dangerous, since the demons frequently mix falsehood with truth. Or, as Chrysostom [*Cyril of Alexandria, Comment. in Luc.] says: "It was not meet for them to usurp the prerogative of the apostolic office. Nor was it fitting that the mystery of Christ should be proclaimed by a corrupt tongue" because "praise is not seemly in the mouth of a sinner" [*Cf. Theophylact, Enarr. in Luc.]. Thirdly, because, as Bede says, "He did not wish the envy of the Jews to be aroused thereby" [*Bede, Expos. in Luc. iv, 41]. Hence "even the apostles are commanded to be silent about Him, lest, if His Divine majesty were proclaimed, the gift of His Passion should be deferred."
 
 Reply to Objection 4: Christ came specially to teach and to work miracles for the good of man, and principally as to the salvation of his soul. Consequently, He allowed the demons, that He cast out, to do man some harm, either in his body or in his goods, for the salvation of man's soul---namely, for man's instruction. Hence Chrysostom says on Mat. 8:32 that Christ let the demons depart into the swine, "not as yielding to the demons, but first, to show . . . how harmful are the demons who attack men; secondly, that all might learn that the demons would not dare to hurt even the swine, except He allow them; thirdly, that they would have treated those men more grievously than they treated the swine, unless they had been protected by God's providence."
-## Whether It Was Fitting That Christ Should Work Miracles In The Heavenly Bodies?
+### Whether It Was Fitting That Christ Should Work Miracles In The Heavenly Bodies?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it was unfitting that Christ should work miracles in the heavenly bodies. For, as Dionysius says (Div. Nom. iv), "it beseems Divine providence not to destroy, but to preserve, nature." Now, the heavenly bodies are by nature incorruptible and unchangeable, as is proved De Coelo i. Therefore it was unfitting that Christ should cause any change in the order of the heavenly bodies.
 
@@ -42,22 +42,22 @@ Objection 2: Further, the course of time is marked out by the movement of the he
 
 Objection 3: Further, it was more fitting that Christ should work miracles in life and when teaching, than in death: both because, as it is written (2 Cor. 13:4), "He was crucified through weakness, yet He liveth by the power of God," by which He worked miracles; and because His miracles were in confirmation of His doctrine. But there is no record of Christ having worked any miracles in the heavenly bodies during His lifetime: nay, more; when the Pharisees asked Him to give "a sign from heaven," He refused, as Matthew relates (12,16). Therefore it seems that neither in His death should He have worked any miracles in the heavenly bodies.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Lk. 23:44,45): "There was darkness over all the earth until the ninth hour; and the sun was darkened."
 
 I answer that, As stated above ([4217]Q[43], A[4]) it behooved Christ's miracles to be a sufficient proof of His Godhead. Now this is not so sufficiently proved by changes wrought in the lower bodies, which changes can be brought about by other causes, as it is by changes wrought in the course of the heavenly bodies, which have been established by God alone in an unchangeable order. This is what Dionysius says in his epistle to Polycarp: "We must recognize that no alteration can take place in the order end movement of the heavens that is not caused by Him who made all and changes all by His word." Therefore it was fitting that Christ should work miracles even in the heavenly bodies.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Just as it is natural to the lower bodies to be moved by the heavenly bodies, which are higher in the order of nature, so is it natural to any creature whatsoever to be changed by God, according to His will. Hence Augustine says (Contra Faust. xxvi; quoted by the gloss on Rom. 11:24: "Contrary to nature thou wert grafted," etc.): "God, the Creator and Author of all natures, does nothing contrary to nature: for whatsoever He does in each thing, that is its nature." Consequently the nature of a heavenly body is not destroyed when God changes its course: but it would be if the change were due to any other cause.
 
 Reply to Objection 2: The order of the seasons was not disturbed by the miracle worked by Christ. For, according to some, this gloom or darkening of the sun, which occurred at the time of Christ's passion, was caused by the sun withdrawing its rays, without any change in the movement of the heavenly bodies, which measures the duration of the seasons. Hence Jerome says on Mat. 27:45: "It seems as though the 'greater light' withdrew its rays, lest it should look on its Lord hanging on the Cross, or bestow its radiancy on the impious blasphemers." And this withdrawal of the rays is not to be understood as though it were in the sun's power to send forth or withdraw its rays: for it sheds its light, not from choice, but by nature, as Dionysius says (Div. Nom. iv). But the sun is said to withdraw its rays in so far as the Divine power caused the sun's rays not to reach the earth. On the other hand, Origen says this was caused by clouds coming between (the earth and the sun). Hence on Mat. 27:45 he says: "We must therefore suppose that many large and very dense clouds were massed together over Jerusalem and the land of Judea; so that it was exceedingly dark from the sixth to the ninth hour. Hence I am of opinion that, just as the other signs which occurred at the time of the Passion"---namely, "the rending of the veil, the quaking of the earth," etc.---"took place in Jerusalem only, so this also: . . . or if anyone prefer, it may be extended to the whole of Judea," since it is said that "'there was darkness over the whole earth,' which expression refers to the land of Judea, as may be gathered from 3 Kings 18:10, where Abdias says to Elias: 'As the Lord thy God liveth, there is no nation or kingdom whither my lord hath not sent to seek thee': which shows that they sought him among the nations in the neighborhood of Judea."
 
 Reply to Objection 3: Then, above all, was there need for miraculous proof of Christ's Godhead, when the weakness of human nature was most apparent in Him. Hence it was that at His birth a new star appeared in the heavens. Wherefore Maximus says (Serm. de Nativ. viii): "If thou disdain the manger, raise thine eyes a little and gaze on the new star in the heavens, proclaiming to the world the birth of our Lord." But in His Passion yet greater weakness appeared in His manhood. Therefore there was need for yet greater miracles in the greater lights of the world. And, as Chrysostom says (Hom. lxxxviii in Matth.): "This is the sign which He promised to them who sought for one saying: 'An evil and adulterous generation seeketh a sign; and a sign shall not be given it, but the sign of Jonas the prophet,' referring to His Cross . . . and Resurrection . . . For it was much more wonderful that this should happen when He was crucified than when He was walking on earth."
-## Whether Christ Worked Miracles Fittingly On Men?
+### Whether Christ Worked Miracles Fittingly On Men?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ worked miracles unfittingly on men. For in man the soul is of more import than the body. Now Christ worked many miracles on bodies, but we do not read of His working any miracles on souls: for neither did He convert any unbelievers to the faith mightily, but by persuading and convincing them with outward miracles, nor is it related of Him that He made wise men out of fools. Therefore it seems that He worked miracles on men in an unfitting manner.
 
@@ -67,13 +67,13 @@ Objection 3: Further, there is no need to remove at the same time things which d
 
 Objection 4: Further, Christ's miracles were worked in order to confirm His doctrine, and witness to His Godhead, as stated above ([4219]Q[43], A[4]). Now no man should hinder the purpose of his own work. Therefore it seems unfitting that Christ commanded those who had been healed miraculously to tell no one, as appears from Mat. 9:30 and Mk. 8:26: the more so, since He commanded others to proclaim the miracles worked on them; thus it is related (Mk. 5:19) that, after delivering a man from the demons, He said to him: "Go into thy house to thy friends, and tell them, how great things the Lord hath done for thee."
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mk. 7:37): "He hath done all things well: He hath made both the deaf to hear and the dumb to speak."
 
 I answer that, The means should be proportionate to the end. Now Christ came into the world and taught in order to save man, according to Jn. 3:17: "For God sent not His Son into the world to judge the world, but that the world may be saved by Him." Therefore it was fitting that Christ, by miraculously healing men in particular, should prove Himself to be the universal and spiritual Saviour of all.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The means are distinct from the end. Now the end for which Christ's miracles were worked was the health of the rational part, which is healed by the light of wisdom, and the gift of righteousness: the former of which presupposes the latter, since, as it is written (Wis. 1:4): "Wisdom will not enter into a malicious soul, nor dwell in a body subject to sins." Now it was unfitting that man should be made righteous unless he willed: for this would be both against the nature of righteousness, which implies rectitude of the will, and contrary to the very nature of man, which requires to be led to good by the free-will, not by force. Christ, therefore, justified man inwardly by the Divine power, but not against man's will. Nor did this pertain to His miracles, but to the end of His miracles. In like manner by the Divine power He infused wisdom into the simple minds of His disciples: hence He said to them (Lk. 21:15): "I will give you a mouth and wisdom" which "all your adversaries will not be able to resist and gainsay." And this, in so far as the enlightenment was inward, is not to be reckoned as a miracle, but only as regards the outward action---namely, in so far as men saw that those who had been unlettered and simple spoke with such wisdom and constancy. Wherefore it is written (Acts 4:13) that the Jews, "seeing the constancy of Peter and of John, understanding that they were illiterate and ignorant men . . . wondered."---And though such like spiritual effects are different from visible miracles, yet do they testify to Christ's doctrine and power, according to Heb. 2:4: "God also bearing them witness by signs and wonders and divers miracles, and distributions of the Holy Ghost."
 
@@ -82,9 +82,9 @@ Reply to Objection 2: Christ came to save the world, not only by Divine power, b
 Reply to Objection 3: As stated above ([4220]Q[43], A[2]), Christ worked miracles by Divine power. Now "the works of God are perfect" (Dt. 32:4). But nothing is perfect except it attain its end. Now the end of the outward healing worked by Christ is the healing of the soul. Consequently it was not fitting that Christ should heal a man's body without healing his soul. Wherefore on Jn. 7:23, "I have healed the whole man on a Sabbath day," Augustine says: "Because he was cured, so as to be whole in body; he believed, so as to be whole in soul." To the man sick of the palsy it is said specially, "Thy sins are forgiven thee," because, as Jerome observes on Mat. 9:5,6: "We are hereby given to understand that ailments of the body are frequently due to sin: for which reason, perhaps, first are his sins forgiven, that the cause of the ailment being removed, health may return." Wherefore, also (Jn. 4:14), it is said: "Sin no more, lest some worse thing happen to thee." Whence, says Chrysostom, "we learn that his sickness was the result of sin."
 
 Reply to Objection 4: On Mat. 9:30, "See that no man know this," Chrysostom says: "If in another place we find Him saying, 'Go and declare the glory of God' (cf. Mk. 5:19; Lk. 8:39), that is not contrary to this. For He instructs us to forbid them that would praise us on our own account: but if the glory be referred to God, then we must not forbid, but command, that it be done."
-## Whether Christ Worked Miracles Fittingly On Irrational Creatures?
+### Whether Christ Worked Miracles Fittingly On Irrational Creatures?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that Christ worked miracles unfittingly on irrational creatures. For brute animals are more noble than plants. But Christ worked a miracle on plants as when the fig-tree withered away at His command (Mat. 21:19). Therefore Christ should have worked miracles also on brute animals.
 
@@ -94,13 +94,13 @@ Objection 3: Further, air and water are between heaven and earth. But Christ wor
 
 Objection 4: Further, miraculous works pertain to the work of Divine providence in governing the world. But this work presupposes creation. It seems, therefore, unfitting that in His miracles Christ made use of creation: when, to wit, He multiplied the loaves. Therefore His miracles in regard to irrational creatures seem to have been unfitting.
 
-### Answer
+**Answer**
 
 On the contrary, Christ is "the wisdom of God" (1 Cor. 1:24), of whom it is said (Wis. 8:1) that "she ordereth all things sweetly."
 
 I answer that, As stated above, Christ's miracles were ordained to the end that He should be recognized as having Divine power, unto the salvation of mankind. Now it belongs to the Divine power that every creature be subject thereto. Consequently it behooved Him to work miracles on every kind of creature, not only on man, but also on irrational creatures.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Brute animals are akin generically to man, wherefore they were created on the same day as man. And since He had worked many miracles on the bodies of men, there was no need for Him to work miracles on the bodies of brute animals. and so much the less that, as to their sensible and corporeal nature, the same reason applies to both men and animals, especially terrestrial. But fish, from living in water, are more alien from human nature; wherefore they were made on another day. On them Christ worked a miracle in the plentiful draught of fishes, related Lk. 5 and Jn. 21; and, again, in the fish caught by Peter, who found a stater in it (Mat. 17:26). As to the swine who were cast headlong into the sea, this was not the effect of a Divine miracle, but of the action of the demons, God permitting.
 

@@ -6,9 +6,9 @@ We now consider the assaults of the demons. Under this head there are five point
 (3) Whether all the sins of men are to be set down to the assaults or temptations of the demons?
 (4) Whether they can work real miracles for the purpose of leading men astray?
 (5) Whether the demons who are overcome by men, are hindered from making further assaults?
-## Whether Men Are Assailed By The Demons?
+### Whether Men Are Assailed By The Demons?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that men are not assailed by the demons. For angels are sent by God to guard man. But demons are not sent by God: for the demons' intention is the loss of souls; whereas God's is the salvation of souls. Therefore demons are not deputed to assail man.
 
@@ -16,22 +16,22 @@ Objection 2: Further, it is not a fair fight, for the weak to be set against the
 
 Objection 3: Further, the assaults of the flesh and the world are enough for man's exercise. But God permits His elect to be assailed that they may be exercised. Therefore there is no need for them to be assailed by the demons.
 
-### Answer
+**Answer**
 
 On the contrary, The Apostle says (Eph. 6:12): "Our wrestling is not against flesh and blood; but against Principalities and Powers, against the rulers of the world of this darkness, against the spirits of wickedness in the high places."
 
 I answer that, Two things may be considered in the assault of the demons---the assault itself, and the ordering thereof. The assault itself is due to the malice of the demons, who through envy endeavor to hinder man's progress; and through pride usurp a semblance of Divine power, by deputing certain ministers to assail man, as the angels of God in their various offices minister to man's salvation. But the ordering of the assault is from God, Who knows how to make orderly use of evil by ordering it to good. On the other hand, in regard to the angels, both their guardianship and the ordering thereof are to be referred to God as their first author.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The wicked angels assail men in two ways. Firstly by instigating them to sin; and thus they are not sent by God to assail us, but are sometimes permitted to do so according to God's just judgments. But sometimes their assault is a punishment to man: and thus they are sent by God; as the lying spirit was sent to punish Achab, King of Israel, as is related in 3 Kings 22:20. For punishment is referred to God as its first author. Nevertheless the demons who are sent to punish, do so with an intention other than that for which they are sent; for they punish from hatred or envy; whereas they are sent by God on account of His justice.
 
 Reply to Objection 2: In order that the conditions of the fight be not unequal, there is as regards man the promised recompense, to be gained principally through the grace of God, secondarily through the guardianship of the angels. Wherefore (4 Kings 6:16), Eliseus said to his servant: "Fear not, for there are more with us than with them."
 
 Reply to Objection 3: The assault of the flesh and the world would suffice for the exercise of human weakness: but it does not suffice for the demon's malice, which makes use of both the above in assailing men. But by the Divine ordinance this tends to the glory of the elect.
-## Whether To Tempt Is Proper To The Devil?
+### Whether To Tempt Is Proper To The Devil?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that to tempt is not proper to the devil. For God is said to tempt, according to Gn. 22:1, "God tempted Abraham." Moreover man is tempted by the flesh and the world. Again, man is said to tempt God, and to tempt man. Therefore it is not proper to the devil to tempt.
 
@@ -39,7 +39,7 @@ Objection 2: Further, to tempt is a sign of ignorance. But the demons know what 
 
 Objection 3: Further, temptation is the road to sin. Now sin dwells in the will. Since therefore the demons cannot change man's will, as appears from what has been said above ([928]Q[111], A[2]), it seems that it is not in their province to tempt.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Thess. 3:5): "Lest perhaps he that tempteth should have tempted you": to which the gloss adds, "that is, the devil, whose office it is to tempt."
 
@@ -51,14 +51,14 @@ The flesh and the world are said to tempt as the instruments or matter of tempta
 
 Thus the reply to the first objection is clear.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: The demons know what happens outwardly among men; but the inward disposition of man God alone knows, Who is the "weigher of spirits" (Prov. 16:2). It is this disposition that makes man more prone to one vice than to another: hence the devil tempts, in order to explore this inward disposition of man, so that he may tempt him to that vice to which he is most prone.
 
 Reply to Objection 3: Although a demon cannot change the will, yet, as stated above ([929]Q[111], A[3]), he can change the inferior powers of man, in a certain degree: by which powers, though the will cannot be forced, it can nevertheless be inclined.
-## Whether All Sins Are Due To The Temptation Of The Devil?
+### Whether All Sins Are Due To The Temptation Of The Devil?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that all sins are due to the temptation of the devil. For Dionysius says (Div. Nom. iv) that "the multitude of demons is the cause of all evils, both to themselves and to others." And Damascene says (De Fide Orth. ii, 4) that "all malice and all uncleanness have been devised by the devil."
 
@@ -66,7 +66,7 @@ Objection 2: Further, of every sinner can be said what the Lord said of the Jews
 
 Objection 3: Further, as angels are deputed to guard men, so demons are deputed to assail men. But every good thing we do is due to the suggestion of the good angels: because the Divine gifts are borne to us by the angels. Therefore all the evil we do, is due to the instigation of the devil.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (De Eccl. Dogmat. xlix): "Not all our evil thoughts are stirred up by the devil, but sometimes they arise from the movement of our free-will."
 
@@ -76,14 +76,14 @@ But a thing is said to be the direct cause of something, when its action tends d
 
 Thus the answer to the first objection is clear.
 
-### Replies
+**Replies**
 
 Reply to Objection 2: When man commits sin without being thereto instigated by the devil, he nevertheless becomes a child of the devil thereby, in so far as he imitates him who was the first to sin.
 
 Reply to Objection 3: Man can of his own accord fall into sin: but he cannot advance in merit without the Divine assistance, which is borne to man by the ministry of the angels. For this reason the angels take part in all our good works: whereas all our sins are not due to the demons' instigation. Nevertheless there is no kind of sin which is not sometimes due to the demons' suggestion.
-## Whether Demons Can Lead Men Astray By Means Of Real Miracles?
+### Whether Demons Can Lead Men Astray By Means Of Real Miracles?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the demons cannot lead men astray by means of real miracles. For the activity of the demons will show itself especially in the works of Antichrist. But as the Apostle says (2 Thess. 2:9), his "coming is according to the working of Satan, in all power, and signs, and lying wonders." Much more therefore at other times do the demons perform lying wonders.
 
@@ -91,7 +91,7 @@ Objection 2: Further, true miracles are wrought by some corporeal change. But de
 
 Objection 3: Further, an argument is useless which may prove both ways. If therefore real miracles can be wrought by demons, to persuade one of what is false, they will be useless to confirm the teaching of the faith. This is unfitting; for it is written (Mk. 16:20): "The Lord working withal, and confirming the word with signs that followed."
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says [930](Q[83]; [*Lib. xxi, Sent. sent 4, among the supposititious works of St. Augustine]): "Often by means of the magic art miracles are wrought like those which are wrought by the servants of God."
 
@@ -99,22 +99,22 @@ I answer that, As is clear from what has been said above ([931]Q[110], A[4]), if
 
 It is to be noted, however, that although these works of demons which appear marvelous to us are not real miracles, they are sometimes nevertheless something real. Thus the magicians of Pharaoh by the demons' power produced real serpents and frogs. And "when fire came down from heaven and at one blow consumed Job's servants and sheep; when the storm struck down his house and with it his children---these were the work of Satan, not phantoms"; as Augustine says (De Civ. Dei xx, 19).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says in the same place, the works of Antichrist may be called lying wonders, "either because he will deceive men's senses by means of phantoms, so that he will not really do what he will seem to do; or because, if he work real prodigies, they will lead those into falsehood who believe in him."
 
 Reply to Objection 2: As we have said above ([932]Q[110], A[2]), corporeal matter does not obey either good or bad angels at their will, so that demons be able by their power to transmute matter from one form to another; but they can employ certain seeds that exist in the elements of the world, in order to produce these effects, as Augustine says (De Trin. iii, 8,9). Therefore it must be admitted that all the transformation of corporeal things which can be produced by certain natural powers, to which we must assign the seeds above mentioned, can alike be produced by the operation of the demons, by the employment of these seeds; such as the transformation of certain things into serpents or frogs, which can be produced by putrefaction. On the contrary, those transformations which cannot be produced by the power of nature, cannot in reality be effected by the operation of the demons; for instance, that the human body be changed into the body of a beast, or that the body of a dead man return to life. And if at times something of this sort seems to be effected by the operation of demons, it is not real but a mere semblance of reality.
 
 Reply to Objection 3: As Augustine says (QQ. 83, qu. 79): "When magicians do what holy men do, they do it for a different end and by a different right. The former do it for their own glory; the latter, for the glory of God: the former, by certain private compacts; the latter by the evident assistance and command of God, to Whom every creature is subject."
-## Whether A Demon Who Is Overcome By Man, Is For This Reason Hindered From Making Further Assaults?
+### Whether A Demon Who Is Overcome By Man, Is For This Reason Hindered From Making Further Assaults?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that a demon who is overcome by a man, is not for that reason hindered from any further assault. For Christ overcame the tempter most effectively. Yet afterwards the demon assailed Him by instigating the Jews to kill Him. Therefore it is not true that the devil when conquered ceases his assaults.
 
 Objection 2: Further, to inflict punishment on one who has been worsted in a fight, is to incite him to a sharper attack. But this is not befitting God's mercy. Therefore the conquered demons are not prevented from further assaults.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Mat. 4:11): "Then the devil left Him," i.e. Christ Who overcame.
 

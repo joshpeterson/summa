@@ -5,9 +5,9 @@ WE have now to consider Christ's sitting at the right hand of the Father, concer
 (2) Whether this belongs to Him according to the Divine Nature?
 (3) Whether it belongs to Him according to His human nature?
 (4) Whether it is something proper to Christ?
-## Whether It Is Fitting That Christ Should Sit At The Right Hand Of God The Father?
+### Whether It Is Fitting That Christ Should Sit At The Right Hand Of God The Father?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem unfitting that Christ should sit at the right hand of God the Father. For right and left are differences of bodily position. But nothing corporeal can be applied to God, since "God is a spirit," as we read in Jn. 4:24. Therefore it seems that Christ does not sit at the right hand of the Father.
 
@@ -15,22 +15,22 @@ Objection 2: Further, if anyone sits at another's right hand, then the latter is
 
 Objection 3: Further, sitting and standing savor of opposition. But Stephen (Acts 7:55) said: "Behold, I see the heavens opened, and the Son of man standing on the right hand of God." Therefore it seems that Christ does not sit at the right hand of the Father.
 
-### Answer
+**Answer**
 
 On the contrary, It is written in the last chapter of Mark (16:19): "The Lord Jesus, after He had spoken to them, was taken up to heaven, and sitteth on the right hand of God."
 
 I answer that, The word "sitting" may have a twofold meaning; namely, "abiding" as in Lk. 24:49: "Sit [Douay: 'Stay'] you in the city": and royal or judiciary "power," as in Prov. 20:8: "The king, that sitteth on the throne of judgment, scattereth away all evil with his look." Now in either sense it belongs to Christ to sit at the Father's right hand. First of all inasmuch as He abides eternally unchangeable in the Father's bliss, which is termed His right hand, according to Ps. 15:11: "At Thy right hand are delights even to the end." Hence Augustine says (De Symb. i): "'Sitteth at the right hand of the Father': To sit means to dwell, just as we say of any man: 'He sat in that country for three years': Believe, then, that Christ dwells so at the right hand of the Father: for He is happy, and the Father's right hand is the name for His bliss." Secondly, Christ is said to sit at the right hand of the Father inasmuch as He reigns together with the Father, and has judiciary power from Him; just as he who sits at the king's right hand helps him in ruling and judging. Hence Augustine says (De Symb. ii): "By the expression 'right hand,' understand the power which this Man, chosen of God, received, that He might come to judge, who before had come to be judged."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Damascene says (De Fide Orth. iv): "We do not speak of the Father's right hand as of a place, for how can a place be designated by His right hand, who Himself is beyond all place? Right and left belong to things definable by limit. But we style, as the Father's right hand, the glory and honor of the Godhead."
 
 Reply to Objection 2: The argument holds good if sitting at the right hand be taken corporeally. Hence Augustine says (De Symb. i): "If we accept it in a carnal sense that Christ sits at the Father's right hand, then the Father will be on the left. But there"---that is, in eternal bliss, "it is all right hand, since no misery is there."
 
 Reply to Objection 3: As Gregory says in a Homily on the Ascension (Hom. xxix in Evang.), "it is the judge's place to sit, while to stand is the place of the combatant or helper. Consequently, Stephen in his toil of combat saw Him standing whom He had as his helper. But Mark describes Him as seated after the Ascension, because after the glory of His Ascension He will at the end be seen as judge."
-## Whether It Belongs To Christ As God To Sit At The Right Hand Of The Father?
+### Whether It Belongs To Christ As God To Sit At The Right Hand Of The Father?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it does not belong to Christ as God to sit at the right hand of the Father. For, as God, Christ is the Father's right hand. But it does not appear to be the same thing to be the right hand of anyone and to sit on his right hand. Therefore, as God, Christ does not sit at the right hand of the Father.
 
@@ -38,22 +38,22 @@ Objection 2: Further, in the last chapter of Mark (16:19) it is said that "the L
 
 Objection 3: Further, Christ as God is the equal of the Father and of the Holy Ghost. Consequently, if Christ sits as God at the right hand of the Father, with equal reason the Holy Ghost sits at the right hand of the Father and of the Son, and the Father Himself on the right hand of the Son; which no one is found to say.
 
-### Answer
+**Answer**
 
 On the contrary, Damascene says (De Fide Orth. iv): that "what we style as the Father's right hand, is the glory and honor of the Godhead, wherein the Son of God existed before ages as God and as consubstantial with the Father."
 
 I answer that, As may be gathered from what has been said [4325](A[1]) three things can be understood under the expression "right hand." First of all, as Damascene takes it, "the glory of the Godhead": secondly, according to Augustine "the beatitude of the Father": thirdly, according to the same authority, "judiciary power." Now as we observed [4326](A[1]) "sitting denotes" either abiding, or royal or judiciary dignity. Hence, to sit on the right hand of the Father is nothing else than to share in the glory of the Godhead with the Father, and to possess beatitude and judiciary power, and that unchangeably and royally. But this belongs to the Son as God. Hence it is manifest that Christ as God sits at the right hand of the Father; yet so that this preposition "at," which is a transitive one, implies merely personal distinction and order of origin, but not degree of nature or dignity, for there is no such thing in the Divine Persons, as was shown in the [4327]FP, Q[42], AA[3],4.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The Son of God is called the Father's "right hand" by appropriation, just as He is called the "Power" of the Father (1 Cor. 1:24). But "right hand of the Father," in its three meanings given above, is something common to the three Persons.
 
 Reply to Objection 2: Christ as man is exalted to Divine honor; and this is signified in the aforesaid sitting; nevertheless such honor belongs to Him as God, not through any assumption, but through His origin from eternity.
 
 Reply to Objection 3: In no way can it be said that the Father is seated at the right hand of the Son or of the Holy Ghost; because the Son and the Holy Ghost derive their origin from the Father, and not conversely. The Holy Ghost, however, can be said properly to sit at the right hand of the Father or of the Son, in the aforesaid sense, although by a kind of appropriation it is attributed to the Son, to whom equality is appropriated; thus Augustine says (De Doctr. Christ. i) that "in the Father there is unity, in the Son equality, in the Holy Ghost the connection of unity with equality."
-## Whether It Belongs To Christ As Man To Sit At The Right Hand Of The Father?
+### Whether It Belongs To Christ As Man To Sit At The Right Hand Of The Father?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it does not belong to Christ as man to sit at the right hand of the Father, because, as Damascene says (De Fide Orth. iv): "What we call the Father's right hand is the glory and honor of the Godhead." But the glory and honor of the Godhead do not belong to Christ as man. Consequently, it seems that Christ as man does not sit at the right hand of the Father.
 
@@ -61,7 +61,7 @@ Objection 2: Further, to sit on the ruler's right hand seems to exclude subjecti
 
 Objection 3: Further, on Rom. 8:34: "Who is at the right hand of God," the gloss adds: "that is, equal to the Father in that honor, whereby God is the Father: or, on the right hand of the Father, that is, in the mightier gifts of God." And on Heb. 1:3: "sitteth on the right hand of the majesty on high," the gloss adds, "that is, in equality with the Father over all things, both in place and dignity." But equality with God does not belong to Christ as man; for in this respect Christ Himself says (Jn. 14:28): "The Father is greater than I." Consequently, it appears unseemly for Christ as man to sit on the Father's right hand.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (De Symb. ii): "By the expression 'right hand' understand the power which this Man, chosen of God, received, that He might come as judge, who before had come to be judged."
 
@@ -69,16 +69,16 @@ I answer that, As stated above [4328](A[2]), by the expression "right hand" is u
 
 So, then, if "as" denote condition of nature, then Christ, as God, sits "at the Father's right hand," that is, "in equality with the Father"; but as man, He sits "at the right hand of the Father," that is, "in the Father's mightier gifts beyond all other creatures," that is to say, "in greater beatitude," and "exercising judiciary power." But if "as" denote unity of person, thus again as man, He sits at the Father's right hand "as to equality of honor," inasmuch as with the same honor we venerate the Son of God with His assumed nature, as was said above ([4329]Q[25], A[1]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Christ's humanity according to the conditions of His nature has not the glory or honor of the Godhead, which it has nevertheless by reason of the Person with whom it is united. Hence Damascene adds in the passage quoted: "In which," that is, in the glory of the Godhead, "the Son of God existing before ages, as God and consubstantial with the Father, sits in His conglorified flesh; for, under one adoration the one hypostasis, together with His flesh, is adored by every creature."
 
 Reply to Objection 2: Christ as man is subject to the Father, if "as" denote the condition of nature: in which respect it does not belong to Him as man to sit at the Father's right hand, by reason of their mutual equality. But it does thus belong to Him to sit at the right hand of the Father, according as is thereby denoted the excellence of beatitude and His judiciary power over every creature.
 
 Reply to Objection 3: It does not belong to Christ's human nature to be in equality with the Father, but only to the Person who assumed it; but it does belong even to the assumed human nature to share in God's mightier gifts, in so far as it implies exaltation above other creatures.
-## Whether It Is Proper To Christ To Sit At The Right Hand Of The Father?
+### Whether It Is Proper To Christ To Sit At The Right Hand Of The Father?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that it is not proper to Christ to sit at the right hand of the Father, because the Apostle says (Eph. 2:4, 6): "God . . . hath raised us up together, and hath made us sit together in the heavenly places through Christ Jesus." But to be raised up is not proper to Christ. Therefore for like reason neither is it proper to Him to sit "on the right hand" of God "on high" (Heb. 1:3).
 
@@ -88,13 +88,13 @@ Objection 3: Further, Christ Himself says (Apoc. 3:21): "To him that shall overc
 
 Objection 4: Further, the Lord says (Mat. 20:23): "To sit on My right or left hand, is not Mine to give to you, but to them for whom it is prepared by My Father." But no purpose would be served by saying this, unless it was prepared for some. Consequently, to sit at the right hand is not proper to Christ.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (Heb. 1:13): "To which of the angels said He at any time: Sit thou on My right hand, i.e. 'in My mightier gifts,'" or "'as my equal in the Godhead'"? [*The comment is from the gloss of Peter Lombard] as if to answer: "To none." But angels are higher than other creatures. Therefore, much less does it belong to anyone save Christ to sit at the Father's right hand.
 
 I answer that, As stated above [4330](A[3]), Christ is said to sit at the Father's right hand inasmuch as He is on equality with the Father in respect of His Divine Nature, while in respect of His humanity, He excels all creatures in the possession of Divine gifts. But each of these belongs exclusively to Christ. Consequently, it belongs to no one else, angel or man, but to Christ alone, to sit at the right hand of the Father.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Since Christ is our Head, then what was bestowed on Christ is bestowed on us through Him. And on this account, since He is already raised up, the Apostle says that God has, so to speak, "raised us up together with Him," still we ourselves are not raised up yet, but are to be raised up, according to Rom. 8:11: "He who raised up Jesus from the dead, shall quicken also your mortal bodies": and after the same manner of speech the Apostle adds that "He has made us to sit together with Him, in the heavenly places"; namely, for the very reason that Christ our Head sits there.
 

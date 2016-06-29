@@ -4,9 +4,9 @@
 (1) Whether the saints will see God in His essence?
 (2) Whether they will see Him with the eyes of the body?
 (3) Whether in seeing God they will see all that God sees?
-## Whether The Human Intellect Can Attain To The Vision Of God In His Essence?
+### Whether The Human Intellect Can Attain To The Vision Of God In His Essence?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the human intellect cannot attain to the vision of God in His essence. For it is written (Jn. 1:18): "No man hath seen God at any time"; and Chrysostom in his commentary says (Hom. xiv in Joan.) that "not even the heavenly essences, namely the Cherubim and Seraphim, have ever been able to see Him as He is." Now, only equality with the angels is promised to men (Mat. 22:30): "They . . . shall be as the angels of God in heaven." Therefore neither will the saints in heaven see God in His essence.
 
@@ -26,7 +26,7 @@ Objection 8: Further, whenever the intellect understands something actually it n
 
 Objection 9: Further, the Divine essence is more distant from our intellect than any angel or intelligence. Now according to Avicenna (Metaph. iii), "the existence of an intelligence in our intellect does not imply that its essence is in our intellect," because in that case our knowledge of the intelligence would be a substance and not an accident, "but that its likeness is impressed on our intellect." Therefore neither is God in our intellect, to be understood by us, except in so far as an impression of Him is in our intellect. But this impression cannot lead to the knowledge of the Divine essence, for since it is infinitely distant from the Divine essence, it degenerates to another image much more than if the image of a white thing were to degenerate to the image of a black thing. Therefore, just as a person in whose sight the image of a white thing degenerates to the image of a black thing, on account of an indisposition in the organ, is not said to see a white thing, so neither will our intellect be able to see God in His essence, since it understands God only by means of this impression.
 
-### Answer
+**Answer**
 
 On the contrary, It is written (1 Cor. 13:12): "We see now through a glass in a dark manner, but then face to face." Now that which is seen face to face is seen in its essence. Therefore God will be seen in His essence by the saints in heaven.
 
@@ -40,7 +40,7 @@ Therefore we must take the other way, which also certain philosophers held, name
 
 As from the natural form (whereby a thing has being) and matter, there results one thing simply, so from the form whereby the intellect understands, and the intellect itself, there results one thing intelligibly. Now in natural things a self-subsistent thing cannot be the form of any matter, if that thing has matter as one of its parts, since it is impossible for matter to be the form of a thing. But if this self-subsistent thing be a mere form, nothing hinders it from being the form of some matter and becoming that whereby the composite itself is [*Literally,---and becoming the 'whereby-it-is' of the composite itself] as instanced in the soul. Now in the intellect we must take the intellect itself in potentiality as matter, and the intelligible species as form; so that the intellect actually understanding will be the composite as it were resulting from both. Hence if there be a self-subsistent thing, that has nothing in itself besides that which is intelligible, such a thing can by itself be the form whereby the intellect understands. Now a thing is intelligible in respect of its actuality and not of its potentiality (Met. ix): in proof of which an intelligible form needs to be abstracted from matter and from all the properties of matter. Therefore, since the Divine essence is pure act, it will be possible for it to be the form whereby the intellect understands: and this will be the beatific vision. Hence the Master says (Sent. ii, D, 1) that the union of the body with the soul is an illustration of the blissful union of the spirit with God.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The words quoted can be explained in three ways, according to Augustine (De Videndo Deo: Ep. cxlvii). In one way as excluding corporeal vision, whereby no one ever saw or will see God in His essence; secondly, as excluding intellectual vision of God in His essence from those who dwell in this mortal flesh; thirdly, as excluding the vision of comprehension from a created intellect. It is thus that Chrysostom understands the saying wherefore he adds: "By seeing, the evangelist means a most clear perception, and such a comprehension as the Father has of the Son." This also is the meaning of the evangelist, since he adds: "The Only-begotten Son Who is in the bosom of the Father, He hath declared Him": his intention being to prove the Son to be God from His comprehending God.
 
@@ -59,9 +59,9 @@ Reply to Objection 7: Likeness and distance are twofold. One is according to agr
 Reply to Objection 8: In the vision wherein God will be seen in His essence, the Divine essence itself will be the form, as it were, of the intellect, by which it will understand: nor is it necessary for them to become one in being, but only to become one as regards the act of understanding.
 
 Reply to Objection 9: We do not uphold the saying of Avicenna as regards the point at issue, for in this other philosophers also disagree with him. Unless perhaps we might say that Avicenna refers to the knowledge of separate substances, in so far as they are known by the habits of speculative sciences and the likeness of other things. Hence he makes this statement in order to prove that in us knowledge is not a substance but an accident. Nevertheless, although the Divine essence is more distant, as to the property of its nature, from our intellect, than is the substance of an angel, it surpasses it in the point of intelligibility, since it is pure act without any admixture of potentiality, which is not the case with other separate substances. Nor will that knowledge whereby we shall see God in His essence be in the genus of accident as regards that whereby He will be seen, but only as regards the act of the one who understands Him, for this act will not be the very substance either of the person understanding or of the thing understood.
-## Whether After The Resurrection The Saints Will See God With The Eyes Of The Body?
+### Whether After The Resurrection The Saints Will See God With The Eyes Of The Body?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that after the resurrection the saints will see God with the eyes of the body. Because the glorified eye has greater power than one that is not glorified. Now the blessed Job saw God with his eyes (Job 42:5): "With the hearing of the ear, I have heard Thee, but now my eye seeth Thee." Much more therefore will the glorified eye be able to see God in His essence.
 
@@ -77,7 +77,7 @@ Objection 6: Further, man can be beatified by God alone. Now he will be beatifie
 
 Objection 7: Further, even as God is present to the intellect by His essence, so will He be to the senses, because He will be "all in all" (1 Cor. 15:28). Now He will be seen by the intellect through the union of His essence therewith. Therefore He will also be visible to the sense.
 
-### Answer
+**Answer**
 
 On the contrary, Ambrose, commenting on Lk. 1:2, "There appeared to him an angel," says: "God is not sought with the eyes of the body, nor surveyed by the sight, nor clasped by the touch." Therefore God will by no means be visible to the bodily sense.
 
@@ -87,7 +87,7 @@ An indirect object of sense is that which does not act on the sense, neither as 
 
 I say then that God can nowise be seen with the eyes of the body, or perceived by any of the senses, as that which is seen directly, neither here, nor in heaven: for if that which belongs to sense as such be removed from sense, there will be no sense, and in like manner if that which belongs to sight as sight be removed therefrom, there will be no sight. Accordingly seeing that sense as sense perceives magnitude, and sight as such a sense perceives color, it is impossible for the sight to perceive that which is neither color nor magnitude, unless we call it a sense equivocally. Since then sight and sense will be specifically the same in the glorified body, as in a non-glorified body, it will be impossible for it to see the Divine essence as an object of direct vision; yet it will see it as an object of indirect vision, because on the one hand the bodily sight will see so great a glory of God in bodies, especially in the glorified bodies and most of all in the body of Christ, and, on the other hand, the intellect will see God so clearly, that God will be perceived in things seen with the eye of the body, even as life is perceived in speech. For although our intellect will not then see God from seeing His creatures, yet it will see God in His creatures seen corporeally. This manner of seeing God corporeally is indicated by Augustine (De Civ. Dei xxii), as is clear if we take note of his words, for he says: "It is very credible that we shall so see the mundane bodies of the new heaven and the new earth, as to see most clearly God everywhere present, governing all corporeal things, not as we now see the invisible things of God as understood by those that are made, but as when we see men . . . we do not believe but see that they live."
 
-### Replies
+**Replies**
 
 Reply to Objection 1: This saying of Job refers to the spiritual eye, of which the Apostle says (Eph. 1:18): "The eyes of our [Vulg.: 'your'] heart enlightened."
 
@@ -102,9 +102,9 @@ Reply to Objection 5: Although the mind that has become carnal cannot think but 
 Reply to Objection 6: Beatitude is the perfection of man as man. And since man is man not through his body but through his soul, and the body is essential to man, in so far as it is perfected by the soul: it follows that man's beatitude does not consist chiefly otherwise than in an act of the soul, and passes from the soul on to the body by a kind of overflow, as explained above ([5126]Q[85], A[1]). Yet our body will have a certain beatitude from seeing God in sensible creatures: and especially in Christ's body.
 
 Reply to Objection 7: The intellect can perceive spiritual things, whereas the eyes of the body cannot: wherefore the intellect will be able to know the Divine essence united to it, but the eyes of the body will not.
-## Whether The Saints, Seeing God, See All That God Sees?
+### Whether The Saints, Seeing God, See All That God Sees?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the saints, seeing God in His essence, see all that God sees in Himself. For as Isidore says (De Sum. Bon. 1.): "The angels know all things in the World of God, before they happen." Now the saints will be equal to the angels of God (Mat. 22:30). Therefore the saints also in seeing God see all things.
 
@@ -124,13 +124,13 @@ Objection 8: Further, ignorance is one of the penalties of the present life [*Cf
 
 Objection 9: Further, the beatitude of the saints is in their soul before being in their body. Now the bodies of the saints will be reformed in glory to the likeness of Christ's body (Phil. 3:21). Therefore their souls will be perfected in likeness to the soul of Christ. Now Christ's soul sees all things in the Word. Therefore all the souls of the saints will also see all things in the Word.
 
-### Answer
+**Answer**
 
 On the contrary, Dionysius says (Hier. Eccles. vi): "The higher angels cleanse the lower angels from ignorance." Now the lower angels see the Divine essence. Therefore an angel while seeing the Divine essence may be ignorant of certain things. But the soul will not see God more perfectly than an angel. Therefore the souls seeing God will not necessarily see all things.
 
 I answer that, God by seeing his essence knows all things whatsoever that are, shall be, or have been: and He is said to know these things by His "knowledge of vision," because He knows them as though they were present in likeness to corporeal vision. Moreover by seeing this essence He knows all that He can do, although He never did them, nor ever will: else He would not know His power perfectly; since a power cannot be known unless its objects be known: and this is called His "science" or "knowledge of simple intelligence." Now it is impossible for a created intellect, by seeing the Divine essence, to know all that God can do, because the more perfectly a principle is known, the more things are known in it; thus in one principle of demonstration one who is quick of intelligence sees more conclusions than one who is slow of intelligence. Since then the extent of the Divine power is measured according to what it can do, if an intellect were to see in the Divine essence all that God can do, its perfection in understanding would equal in extent the Divine power in producing its effects, and thus it would comprehend the Divine power, which is impossible for any created intellect to do. Yet there is a created intellect, namely the soul of Christ [*Cf. [5128]TP, Q[16], A[2]], which knows in the Word all that God knows by the knowledge of vision. But regarding others who see the Divine essence there are two opinions. For some say that all who see God in His essence see all that God sees by His knowledge of vision. This, however, is contrary to the sayings of holy men, who hold that angels are ignorant of some things; and yet it is clear that according to faith all the angels see God in His essence. Wherefore others say that others than Christ, although they see God in His essence, do not see all that God sees because they do not comprehend the Divine essence. For it is not necessary that he who knows a cause should know all its effects, unless he comprehend the cause: and this is not in the competency of a created intellect. Consequently of those who see God in His essence, each one sees in His essence so much the more things according as he sees the Divine essence the more clearly: and hence it is that one is able to instruct another concerning these things. Thus the knowledge of the angels and of the souls of the saints can go on increasing until the day of judgment, even as other things pertaining to the accidental reward. But afterwards it will increase no more, because then will be the final state of things, and in that state it is possible that all will know everything that God knows by the knowledge of vision.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: The saying of Isidore, that "the angels know in the Word all things before they happen," cannot refer to those things which God knows only by the knowledge of simple intelligence, because those things will never happen; but it must refer to those things which God knows only by the knowledge of vision. Even of these he does not say that all the angels know them all, but that perhaps some do; and that even those who know do not know all perfectly. For in one and the same thing there are many intelligible aspects to be considered, such as its various properties and relations to other things: and it is possible that while one thing is known in common by two persons, one of them perceives more aspects, and that the one learns these aspects from the other. Hence Dionysius says (Div. Nom. iv) that "the lower angels learn from the higher angels the intelligible aspects of things." Wherefore it does not follow that even the angels who know all creatures are able to see all that can be understood in them.
 

@@ -4,9 +4,9 @@ We next inquire into the cause of evil. Concerning this there are three points o
 (1) Whether good can be the cause of evil?
 (2) Whether the supreme good, God, is the cause of evil?
 (3) Whether there be any supreme evil, which is the first cause of all evils?
-## Whether Good Can Be The Cause Of Evil?
+### Whether Good Can Be The Cause Of Evil?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that good cannot be the cause of evil. For it is said (Mat. 7:18): "A good tree cannot bring forth evil fruit."
 
@@ -16,7 +16,7 @@ Objection 3: Further, a deficient effect can proceed only from a deficient cause
 
 Objection 4: Further, Dionysius says (Div. Nom. iv) that evil has no cause. Therefore good is not the cause of evil.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (Contra Julian. i, 9): "There is no possible source of evil except good."
 
@@ -26,7 +26,7 @@ And if we consider the special kinds of causes, we see that the agent, the form,
 
 In proof of this, we must know that evil is caused in the action otherwise than in the effect. In the action evil is caused by reason of the defect of some principle of action, either of the principal or the instrumental agent; thus the defect in the movement of an animal may happen by reason of the weakness of the motive power, as in the case of children, or by reason only of the ineptitude of the instrument, as in the lame. On the other hand, evil is caused in a thing, but not in the proper effect of the agent, sometimes by the power of the agent, sometimes by reason of a defect, either of the agent or of the matter. It is caused by reason of the power or perfection of the agent when there necessarily follows on the form intended by the agent the privation of another form; as, for instance, when on the form of fire there follows the privation of the form of air or of water. Therefore, as the more perfect the fire is in strength, so much the more perfectly does it impress its own form, so also the more perfectly does it corrupt the contrary. Hence that evil and corruption befall air and water comes from the perfection of the fire: but this is accidental; because fire does not aim at the privation of the form of water, but at the bringing in of its own form, though by doing this it also accidentally causes the other. But if there is a defect in the proper effect of the fire---as, for instance, that it fails to heat---this comes either by defect of the action, which implies the defect of some principle, as was said above, or by the indisposition of the matter, which does not receive the action of the fire, the agent. But this very fact that it is a deficient being is accidental to good to which of itself it belongs to act. Hence it is true that evil in no way has any but an accidental cause; and thus is good the cause of evil.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As Augustine says (Contra Julian. i): "The Lord calls an evil will the evil tree, and a good will a good tree." Now, a good will does not produce a morally bad act, since it is from the good will itself that a moral act is judged to be good. Nevertheless the movement itself of an evil will is caused by the rational creature, which is good; and thus good is the cause of evil.
 
@@ -35,9 +35,9 @@ Reply to Objection 2: Good does not cause that evil which is contrary to itself,
 Reply to Objection 3: Evil has a deficient cause in voluntary things otherwise than in natural things. For the natural agent produces the same kind of effect as it is itself, unless it is impeded by some exterior thing; and this amounts to some defect belonging to it. Hence evil never follows in the effect, unless some other evil pre-exists in the agent or in the matter, as was said above. But in voluntary things the defect of the action comes from the will actually deficient, inasmuch as it does not actually subject itself to its proper rule. This defect, however, is not a fault, but fault follows upon it from the fact that the will acts with this defect.
 
 Reply to Objection 4: Evil has no direct cause, but only an accidental cause, as was said above.
-## Whether The Supreme Good, God, Is The Cause Of Evil?
+### Whether The Supreme Good, God, Is The Cause Of Evil?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the supreme good, God, is the cause of evil. For it is said (Is. 45:5, 7): "I am the Lord, and there is no other God, forming the light, and creating darkness, making peace, and creating evil." And Amos 3:6, "Shall there be evil in a city, which the Lord hath not done?"
 
@@ -45,7 +45,7 @@ Objection 2: Further, the effect of the secondary cause is reduced to the first 
 
 Objection 3: Further, as is said by the Philosopher (Phys. ii, text 30), the cause of both safety and danger of the ship is the same. But God is the cause of the safety of all things. Therefore He is the cause of all perdition and of all evil.
 
-### Answer
+**Answer**
 
 On the contrary, Augustine says (QQ. 83, qu. 21), that, "God is not the author of evil because He is not the cause of tending to not-being."
 
@@ -53,16 +53,16 @@ I answer that, As appears from what was said [434](A[1]), the evil which consist
 
 But the evil which consists in the corruption of some things is reduced to God as the cause. And this appears as regards both natural things and voluntary things. For it was said [436](A[1]) that some agent inasmuch as it produces by its power a form to which follows corruption and defect, causes by its power that corruption and defect. But it is manifest that the form which God chiefly intends in things created is the good of the order of the universe. Now, the order of the universe requires, as was said above ([437]Q[22], A[2], ad 2; [438]Q[48], A[2]), that there should be some things that can, and do sometimes, fail. And thus God, by causing in things the good of the order of the universe, consequently and as it were by accident, causes the corruptions of things, according to 1 2:6: "The Lord killeth and maketh alive." But when we read that "God hath not made death" (Wis. 1:13), the sense is that God does not will death for its own sake. Nevertheless the order of justice belongs to the order of the universe; and this requires that penalty should be dealt out to sinners. And so God is the author of the evil which is penalty, but not of the evil which is fault, by reason of what is said above.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: These passages refer to the evil of penalty, and not to the evil of fault.
 
 Reply to Objection 2: The effect of the deficient secondary cause is reduced to the first non-deficient cause as regards what it has of being and perfection, but not as regards what it has of defect; just as whatever there is of motion in the act of limping is caused by the motive power, whereas what there is of obliqueness in it does not come from the motive power, but from the curvature of the leg. And, likewise, whatever there is of being and action in a bad action, is reduced to God as the cause; whereas whatever defect is in it is not caused by God, but by the deficient secondary cause.
 
 Reply to Objection 3: The sinking of a ship is attributed to the sailor as the cause, from the fact that he does not fulfil what the safety of the ship requires; but God does not fail in doing what is necessary for the safety of all. Hence there is no parity.
-## Whether There Be One Supreme Evil Which Is The Cause Of Every Evil?
+### Whether There Be One Supreme Evil Which Is The Cause Of Every Evil?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there is one supreme evil which is the cause of every evil. For contrary effects have contrary causes. But contrariety is found in things, according to Ecclus. 33:15: "Good is set against evil, and life against death; so also is the sinner against a just man." Therefore there are many contrary principles, one of good, the other of evil.
 
@@ -76,7 +76,7 @@ Objection 5: Further, whatever is accidental is reduced to that which is "per se
 
 Objection 6: Further, the evil of the effect is reduced to the evil of the cause; because the deficient effect comes from the deficient cause, as was said above ([441]AA[1],2). But we cannot proceed to infinity in this matter. Therefore, we must suppose one first evil as the cause of every evil.
 
-### Answer
+**Answer**
 
 On the contrary, The supreme good is the cause of every being, as was shown above ([442]Q[2], A[3]; [443]Q[6], A[4]). Therefore there cannot be any principle opposed to it as the cause of evils.
 
@@ -92,7 +92,7 @@ Those, however, who upheld two first principles, one good and the other evil, fe
 
 Likewise, because they found two contrary particular causes of two contrary particular effects, they did not know how to reduce these contrary particular causes to the universal common cause; and therefore they extended the contrariety of causes even to the first principles. But since all contraries agree in something common, it is necessary to search for one common cause for them above their own contrary proper causes; as above the contrary qualities of the elements exists the power of a heavenly body; and above all things that exist, no matter how, there exists one first principle of being, as was shown above ([451]Q[2], A[3]).
 
-### Replies
+**Replies**
 
 Reply to Objection 1: Contraries agree in one genus, and they also agree in the nature of being; and therefore, although they have contrary particular cause, nevertheless we must come at last to one first common cause.
 

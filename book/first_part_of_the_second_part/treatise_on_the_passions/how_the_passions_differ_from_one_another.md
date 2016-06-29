@@ -5,9 +5,9 @@ We must now consider how the passions differ from one another: and under this he
 (2) Whether the contrariety of passions in the irascible part is based on the contrariety of good and evil?
 (3) Whether there is any passion that has no contrary?
 (4) Whether, in the same power, there are any passions, differing in species, but not contrary to one another?
-## Whether The Passions Of The Concupiscible Part Are Different From Those Of The Irascible Part?
+### Whether The Passions Of The Concupiscible Part Are Different From Those Of The Irascible Part?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the same passions are in the irascible and concupiscible parts. For the Philosopher says (Ethic. ii, 5) that the passions of the soul are those emotions "which are followed by joy or sorrow." But joy and sorrow are in the concupiscible part. Therefore all the passions are in the concupiscible part, and not some in the irascible, others in the concupiscible part.
 
@@ -15,7 +15,7 @@ Objection 2: Further, on the words of Mat. 13:33, "The kingdom of heaven is like
 
 Objection 3: Further, passions and actions differ specifically according to their objects. But the objects of the irascible and concupiscible passions are the same, viz. good and evil. Therefore the same passions are in the irascible and concupiscible faculties.
 
-### Answer
+**Answer**
 
 On the contrary, The acts of the different powers differ in species; for instance, to see, and to hear. But the irascible and the concupiscible are two powers into which the sensitive appetite is divided, as stated in the [1210]FP, Q[81], A[2]. Therefore, since the passions are movements of the sensitive appetite, as stated above (Q[22], A[3]), the passions of the irascible faculty are specifically distinct from those of the concupiscible part.
 
@@ -23,16 +23,16 @@ I answer that, The passions of the irascible part differ in species from those o
 
 In order, therefore, to discern which passions are in the irascible, and which in the concupiscible, we must take the object of each of these powers. For we have stated in the [1212]FP, Q[81], A[2], that the object of the concupiscible power is sensible good or evil, simply apprehended as such, which causes pleasure or pain. But, since the soul must, of necessity, experience difficulty or struggle at times, in acquiring some such good, or in avoiding some such evil, in so far as such good or evil is more than our animal nature can easily acquire or avoid; therefore this very good or evil, inasmuch as it is of an arduous or difficult nature, is the object of the irascible faculty. Therefore whatever passions regard good or evil absolutely, belong to the concupiscible power; for instance, joy, sorrow, love, hatred, and such like: whereas those passions which regard good or bad as arduous, through being difficult to obtain or avoid, belong to the irascible faculty; such are daring, fear, hope and the like.
 
-### Replies
+**Replies**
 
 Reply to Objection 1: As stated in the [1213]FP, Q[81], A[2], the irascible faculty is bestowed on animals, in order to remove the obstacles that hinder the concupiscible power from tending towards its object, either by making some good difficult to obtain, or by making some evil hard to avoid. The result is that all the irascible passions terminate in the concupiscible passions: and thus it is that even the passions which are in the irascible faculty are followed by joy and sadness which are in the concupiscible faculty.
 
 Reply to Objection 2: Jerome ascribes hatred of vice to the irascible faculty, not by reason of hatred, which is properly a concupiscible passion; but on account of the struggle, which belongs to the irascible power.
 
 Reply to Objection 3: Good, inasmuch as it is delightful, moves the concupiscible power. But if it prove difficult to obtain, from this very fact it has a certain contrariety to the concupiscible power: and hence the need of another power tending to that good. The same applies to evil. And this power is the irascible faculty. Consequently the concupiscible passions are specifically different from the irascible passions.
-## Whether The Contrariety Of The Irascible Passions Is Based On The Contrariety Of Good And Evil?
+### Whether The Contrariety Of The Irascible Passions Is Based On The Contrariety Of Good And Evil?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that the contrariety of the irascible passions is based on no other contrariety than that of good and evil. For the irascible passions are ordained to the concupiscible passions, as stated above (A[1], ad 1). But the contrariety of the concupiscible passions is no other than that of good and evil; take, for instance, love and hatred, joy and sorrow. Therefore the same applies to the irascible passions.
 
@@ -40,7 +40,7 @@ Objection 2: Further, passions differ according to their objects; just as moveme
 
 Objection 3: Further, "every passion of the soul is by way of approach and withdrawal," as Avicenna declares in his sixth book of Physics. Now approach results from the apprehension of good; withdrawal, from the apprehension of evil: since just as "good is what all desire" (Ethic. i, 1), so evil is what all shun. Therefore, in the passions of the soul, there can be no other contrariety than that of good and evil.
 
-### Answer
+**Answer**
 
 On the contrary, Fear and daring are contrary to one another, as stated in Ethic. iii, 7. But fear and daring do not differ in respect of good and evil: because each regards some kind of evil. Therefore not every contrariety of the irascible passions is that of good and evil.
 
@@ -51,9 +51,9 @@ Accordingly there is a twofold contrariety in the passions of the soul: one, acc
 On the other hand, the object of the irascible faculty is sensible good or evil, considered not absolutely, but under the aspect of difficulty or arduousness. Now the good which is difficult or arduous, considered as good, is of such a nature as to produce in us a tendency to it, which tendency pertains to the passion of "hope"; whereas, considered as arduous or difficult, it makes us turn from it; and this pertains to the passion of "despair." In like manner the arduous evil, considered as an evil, has the aspect of something to be shunned; and this belongs to the passion of "fear": but it also contains a reason for tending to it, as attempting something arduous, whereby to escape being subject to evil; and this tendency is called "daring." Consequently, in the irascible passions we find contrariety in respect of good and evil (as between hope and fear): and also contrariety according to approach and withdrawal in respect of the same term (as between daring and fear).
 
 From what has been said the replies to the objections are evident.
-## Whether Any Passion Of The Soul Has No Contrariety?
+### Whether Any Passion Of The Soul Has No Contrariety?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that every passion of the soul has a contrary. For every passion of the soul is either in the irascible or in the concupiscible faculty, as stated above [1215](A[1]). But both kinds of passion have their respective modes of contrariety. Therefore every passion of the soul has its contrary.
 
@@ -61,7 +61,7 @@ Objection 2: Further, every passion of the soul has either good or evil for its 
 
 Objection 3: Further, every passion of the soul is in respect of approach or withdrawal, as stated above [1216](A[2]). But every approach has a corresponding contrary withdrawal, and vice versa. Therefore every passion of the soul has a contrary.
 
-### Answer
+**Answer**
 
 On the contrary, Anger is a passion of the soul. But no passion is set down as being contrary to anger, as stated in Ethic. iv, 5. Therefore not every passion has a contrary.
 
@@ -72,9 +72,9 @@ In like manner neither can there be according to contrariety of good and evil. B
 Accordingly no movement of the soul can be contrary to the movement of anger, and nothing else than cessation from its movement is contrary thereto; thus the Philosopher says (Rhet. ii, 3) that "calm is contrary to anger," by opposition not of contrariety but of negation or privation.
 
 From what has been said the replies to the objections are evident.
-## Whether In The Same Power, There Are Any Passions, Specifically Different, But Not Contrary To One Another?
+### Whether In The Same Power, There Are Any Passions, Specifically Different, But Not Contrary To One Another?
 
-### Objections
+**Objections**
 
 Objection 1: It would seem that there cannot be, in the same power, specifically different passions that are not contrary to one another. For the passions of the soul differ according to their objects. Now the objects of the soul's passions are good and evil; and on this distinction is based the contrariety of the passions. Therefore no passions of the same power, that are not contrary to one another, differ specifically.
 
@@ -82,7 +82,7 @@ Objection 2: Further, difference of species implies a difference of form. But ev
 
 Objection 3: Further, since every passion of the soul consists in approach or withdrawal in respect of good or evil, it seems that every difference in the passions of the soul must needs arise from the difference of good and evil; or from the difference of approach and withdrawal; or from degrees in approach or withdrawal. Now the first two differences cause contrariety in the passions of the soul, as stated above [1217](A[2]): whereas the third difference does not diversify the species; else the species of the soul's passions would be infinite. Therefore it is not possible for passions of the same power to differ in species, without being contrary to one another.
 
-### Answer
+**Answer**
 
 On the contrary, Love and joy differ in species, and are in the concupiscible power; and yet they are not contrary to one another; rather, in fact, one causes the other. Therefore in the same power there are passions that differ in species without being contrary to one another.
 
