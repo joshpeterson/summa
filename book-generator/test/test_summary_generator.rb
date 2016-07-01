@@ -58,23 +58,12 @@ class TestSummaryGenerator < Minitest::Test
 $expected_summary= %{# Summary
 
 ## Part 1
-
-### Treatise 1
-
-* [Question 1](part_1/treatise_1/question_1.md)
-
-### Treatise 2
-
-* [Question 2](part_1/treatise_2/question_2.md)
+* [Treatise 1](part_1/treatise_1/prologue.md)
+* [Treatise 2](part_1/treatise_2/prologue.md)
 
 ## Part 2
-
-### Treatise 3
-
-* [Question 3](part_2/treatise_3/question_3.md)
-
-### Treatise 4
-
-* [Question 4](part_2/treatise_4/question_4.md)
+* [Treatise 3](part_2/treatise_3/prologue.md)
+* [Treatise 4](part_2/treatise_4/prologue.md)
 }
+
 end

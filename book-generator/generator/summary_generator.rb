@@ -18,13 +18,8 @@ class SummaryGenerator
       for treatise in part.treatises
         treatise_title = TitleParser.format_title(treatise.title)
         path.push(treatise_title)
-        summary += emit_heading(3, treatise_title) + "\n"
-        for question in treatise.questions
-          question_title = TitleParser.format_title(question.title)
-          summary += emit_entry(0, question_title,
-                              Utils.append_to_path(Utils.path_from_stack(path),
-                              Utils.emit_markdown_filename(question_title))) + "\n"
-        end
+        summary += emit_entry(0, treatise_title,
+                              Utils.append_prologue_link(path)) + "\n"
         path.pop
       end
       path.pop
