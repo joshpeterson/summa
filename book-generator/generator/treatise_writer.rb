@@ -3,7 +3,7 @@ require_relative "title_parser"
 
 class TreatiseWriter
   def self.write(treatise)
-    text = "## #{TitleParser.format_title(treatise.title)}\n\n"
+    text = "# #{TitleParser.format_title(treatise.title)}\n\n"
     if not treatise.prologue.nil?
       text += "#{treatise.prologue}\n\n"
     end

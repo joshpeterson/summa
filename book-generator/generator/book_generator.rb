@@ -3,7 +3,7 @@ require 'fileutils'
 require_relative '../../summa-parser/load'
 require_relative 'summary_generator'
 require_relative 'treatise_writer'
-require_relative 'prologue_writer'
+require_relative 'question_writer'
 require_relative 'article_writer'
 require_relative 'utils'
 
@@ -39,17 +39,15 @@ for part in summa.parts
   path.push(part_title)
   for treatise in part.treatises
     treatise_title = TitleParser.format_title(treatise.title)
-    path.push(treatise_title)
-    write_to_file(prologue_for(path), TreatiseWriter.write(treatise))
+    content = TreatiseWriter.write(treatise) + "\n\n" 
     for question in treatise.questions
       question_title = TitleParser.format_title(question.title)
-      content = PrologueWriter.write(question_title, question.content) + "\n"
+      content += QuestionWriter.write(question_title, question.content) + "\n\n"
       for article in question.articles
-        content += ArticleWriter.write(article) + "\n"
+        content += ArticleWriter.write(article) + "\n\n"
       end
-      write_to_file(markdown_filename_for(path, question_title), content)
     end
-    path.pop
+    write_to_file(markdown_filename_for(path, treatise_title), content)
   end
   path.pop
 end

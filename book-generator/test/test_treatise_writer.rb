@@ -8,7 +8,7 @@ require_relative "../../summa-parser/models/question.rb"
 class TestTreatiseWriter < MiniTest::Test
   def test_starts_with_treatise_title
     treatise = TreatiseParsed.new("TiTle *[]", "", Array.new)
-    assert_startswith("## Title", TreatiseWriter.write(treatise))
+    assert_startswith("# Title", TreatiseWriter.write(treatise))
   end
 
   def test_includes_prologue
@@ -18,7 +18,7 @@ class TestTreatiseWriter < MiniTest::Test
 
   def test_with_nil_prologue
     treatise = TreatiseParsed.new("Treatise Foo", nil, Array.new)
-    assert_equal("## Treatise Foo", TreatiseWriter.write(treatise))
+    assert_equal("# Treatise Foo", TreatiseWriter.write(treatise))
   end
 
   def test_with_questions
@@ -28,11 +28,11 @@ class TestTreatiseWriter < MiniTest::Test
     assert_equal($expected_with_questions, TreatiseWriter.write(treatise))
   end
 
-  $expected_with_prologue_and_title = "## Treatise Foo
+  $expected_with_prologue_and_title = "# Treatise Foo
 
 Prologue text."
 
-  $expected_with_questions = "## Treatise Foo
+  $expected_with_questions = "# Treatise Foo
 
 Prologue text.
 
