@@ -3,6 +3,6 @@
   "author": "Saint Thomas Aquinas",
   "description": "The Summa Theologica by Saint Thomas Aquinas",
   "gitbook": ">=3.0.0-pre.15",
-  "root": "./book"
+  "root": "./book",
   "plugins": ["-search"]
 }
