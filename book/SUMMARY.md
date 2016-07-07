@@ -1,5 +1,7 @@
 # Summary
 
+* [Introduction](README.md)
+
 ## First Part
 * [Treatise On Sacred Doctrine](first_part/treatise_on_sacred_doctrine.md)
 * [Treatise On The One God](first_part/treatise_on_the_one_god.md)
