@@ -8,7 +8,7 @@ require_relative "utils"
 
 class SummaryGenerator
   def write(summa)
-    summary = "# Summary\n"
+    summary = "# Summary\n\n* [Introduction](README.md)\n"
 
     for part in summa.parts
       path = Array.new

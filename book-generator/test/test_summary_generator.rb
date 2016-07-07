@@ -57,6 +57,8 @@ class TestSummaryGenerator < Minitest::Test
 
 $expected_summary= %{# Summary
 
+* [Introduction](README.md)
+
 ## Part 1
 * [Treatise 1](part_1/treatise_1.md)
 * [Treatise 2](part_1/treatise_2.md)
