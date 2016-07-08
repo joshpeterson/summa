@@ -28,7 +28,9 @@ class QuestionParser
   end
 
   def parse_content(question_text)
-    start_index = question_text.index(/\).?\n?/m) + 1
+    title_start_index = question_text.index(/^  [A-Z][A-Z]/)
+    title_end_index = question_text.index(/\n/, title_start_index+1)
+    start_index = title_end_index
     end_index = question_text.index(/^     ____/, start_index+1)
     return question_text[start_index..end_index].gsub("\n", " ")
             .gsub("    ", " ").gsub("  (", "\n(").strip

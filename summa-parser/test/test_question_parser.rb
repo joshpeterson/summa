@@ -37,6 +37,11 @@ class TestQuestionParser < MiniTest::Test
       assert_equal(expected_context, @parser.question.content)
   end
 
+  def test_VerifyQuestionWithoutContent
+    parser = QuestionParser.new($question_with_odd_title)
+    assert_equal("", parser.question.content)
+  end
+
   def test_VerifyCorrectNumberOfArticlesFound
     assert_equal(4, @parser.question.articles.size)
   end
