@@ -36,6 +36,11 @@ class TestQuestionParser < MiniTest::Test
 (4) Whether all things in God are life?"
       assert_equal(expected_context, @parser.question.content)
   end
+  
+  def test_VerifyContentWithMultilineTitle
+    parser = QuestionParser.new($question_with_multiline_title)
+    assert_match(/^In due sequence/, parser.question.content)
+  end
 
   def test_VerifyQuestionWithoutContent
     parser = QuestionParser.new($question_with_odd_title)
@@ -640,3 +645,4 @@ $question_with_odd_title = %{
    only that which is contrary to it.
      __________________________________________________________________
 }
+

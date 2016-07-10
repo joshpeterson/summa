@@ -28,14 +28,17 @@ class QuestionParser
   end
 
   def parse_content(question_text)
-    title_start_index = question_text.index(/^  [A-Z][A-Z]/)
-    title_end_index = question_text.index(/\n/, title_start_index+1)
-    start_index = title_end_index
+    start_index = question_text.index(/\).?\n?/m) + 1
+    unless question_has_content(question_text)
+      title_start_index = question_text.index(/^  [A-Z][A-Z]/)
+      title_end_index = question_text.index(/\n/, title_start_index+1)
+      start_index = title_end_index
+    end
     end_index = question_text.index(/^     ____/, start_index+1)
     return question_text[start_index..end_index].gsub("\n", " ")
             .gsub("    ", " ").gsub("  (", "\n(").strip
   end
-
+  
   def parse_articles(question_text)
     articles = Array.new
     article_index = question_text.index(/___\n\n    Whether/)
@@ -52,5 +55,14 @@ class QuestionParser
     end
 
     return articles
+  end
+  
+  private
+
+  def question_has_content(question_text)
+    title_start_index = question_text.index(/^  [A-Z][A-Z]/)
+    divider_index = question_text.index(/^     ____/, title_start_index+1)
+    empty_line_index = question_text.index(/^\n/, title_start_index+1)
+    return divider_index > empty_line_index
   end
 end
