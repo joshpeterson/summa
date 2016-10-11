@@ -18,19 +18,19 @@
 {
   @extend p;
   font-size: 20px;
-  font-family: 'Molengo', Georgia, Times, serif;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .title
 {
   @extend .h1;
-  font-family: 'Allerta', Helvetica, Arial, sans-serif;
+  font-family: 'Libre Baskerville', sans-serif;
 }
 
 .section-title
 {
   @extend .h2;
-  font-family: 'Allerta', Helvetica, Arial, sans-serif;
+  font-family: 'Libre Baskerville', sans-serif;
 }
 
 .list { @extend .list-group; }
@@ -38,7 +38,7 @@
 {
   @extend .list-group-item;
   font-size: 20px;
-  font-family: 'Molengo', Georgia, Times, serif;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .prologue { @extend .normal-text; }
