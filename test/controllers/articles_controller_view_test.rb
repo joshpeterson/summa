@@ -35,12 +35,12 @@ class ArticlesControllerViewTest < ActionController::TestCase
 
   test "view for first article has proper number of objection statements" do
     get_article("1")
-    assert_equal(4, @statements.count, "Wrong number of statements found")
+    assert_equal(2, @statements.count, "Wrong number of statements found")
   end
 
   test "view for second article has proper number of objection statements" do
     get_article("2")
-    assert_equal(3, @statements.count, "Wrong number of statements found")
+    assert_equal(2, @statements.count, "Wrong number of statements found")
   end
 
   test "view for first article has proper number of objection replies" do
@@ -58,11 +58,6 @@ class ArticlesControllerViewTest < ActionController::TestCase
     assert_match("First objection statement", @statements[0].inner_html)
   end
 
-  test "view for first article has proper first statement objection listed again" do
-    get_article("1")
-    assert_match("First objection statement", @statements[2].inner_html)
-  end
-
   test "view for first article has proper first statement reply" do
     get_article("1")
     assert_match("First objection reply",@replies[0].inner_html)
@@ -71,11 +66,6 @@ class ArticlesControllerViewTest < ActionController::TestCase
   test "view for first article has proper second statement objection" do
     get_article("1")
     assert_match("Second objection statement", @statements[1].inner_html)
-  end
-
-  test "view for first article has proper second statement objection listed again" do
-    get_article("1")
-    assert_match("Second objection statement", @statements[3].inner_html)
   end
 
   test "view for first article has proper second statement reply" do
@@ -150,19 +140,14 @@ class ArticlesControllerViewTest < ActionController::TestCase
     assert_match("Objection 1:", @statements[0].inner_html)
   end
 
-  test "objection statements for replies are sorted alphabetically" do
-    get_article("3")
-    assert_match("Objection 1:", @statements[2].inner_html)
+  test "has an anchor link for the answer" do
+    get_article("1")
+    assert_select("a[name=?]", "answer")
   end
 
   test "has an anchor link for the objections" do
     get_article("1")
     assert_select("a[name=?]", "objections")
-  end
-
-  test "has an anchor link for the answer" do
-    get_article("1")
-    assert_select("a[name=?]", "answer")
   end
 
   test "has an anchor link for the replies" do
