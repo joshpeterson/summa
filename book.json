@@ -1,7 +1,7 @@
 {
-  "title": "Summa Theologica by Saint Thomas Aquinas",
+  "title": "Summa Theologica of Saint Thomas Aquinas",
   "author": "Saint Thomas Aquinas",
-  "description": "The Summa Theologica by Saint Thomas Aquinas",
+  "description": "The Summa Theologica of Saint Thomas Aquinas",
   "gitbook": ">=3.0.0-pre.15",
   "root": "./book",
   "plugins": ["-lunr"]
