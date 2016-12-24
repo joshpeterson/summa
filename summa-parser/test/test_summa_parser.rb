@@ -1,6 +1,6 @@
-gem "minitest"
-require "minitest/autorun"
-require_relative "../parser/summa_parser"
+gem 'minitest'
+require 'minitest/autorun'
+require_relative '../parser/summa_parser'
 
 class TestSummaParser < Minitest::Test
   def setup
@@ -12,12 +12,12 @@ class TestSummaParser < Minitest::Test
   end
 
   def test_VerifyFirstPartTitle
-    expected_title = "FIRST PART (FP: QQ 1-119)"
+    expected_title = 'FIRST PART (FP: QQ 1-119)'
     assert_equal(expected_title, @parser.summa.parts[0].title)
   end
 
   def test_VerifySecondPartTitle
-    expected_title = "FIRST PART OF THE SECOND PART (FS) (QQ[1]-114)"
+    expected_title = 'FIRST PART OF THE SECOND PART (FS) (QQ[1]-114)'
     assert_equal(expected_title, @parser.summa.parts[1].title)
   end
 end

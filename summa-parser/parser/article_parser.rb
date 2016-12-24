@@ -19,17 +19,17 @@ class ArticleParser
   end
 
   def parse_title(article_text)
-    title = parse_section(article_text, "Whether", nil).gsub("  ", " ")
-    title = title.sub(/ \[.*\]/, "")
-    title.sub("*", "")
+    title = parse_section(article_text, 'Whether', nil).gsub('  ', ' ')
+    title = title.sub(/ \[.*\]/, '')
+    title.sub('*', '')
   end
 
   def parse_contrary(article_text)
-    parse_section(article_text, "On the contrary, ", nil)
+    parse_section(article_text, 'On the contrary, ', nil)
   end
 
   def parse_answer(article_text)
-    parse_section(article_text, "I answer that, ", "Reply to Objection")
+    parse_section(article_text, 'I answer that, ', 'Reply to Objection')
   end
 
   def parse_objections(article_text)
@@ -38,27 +38,23 @@ class ArticleParser
     for i in 1..number_of_objections
       statement = parse_section(article_text, "Objection #{i}: ", nil)
       reply = parse_section(article_text, "Reply to Objection #{i}: ", nil)
-      objections[i-1] = ObjectionParsed.new(statement, reply)
+      objections[i - 1] = ObjectionParsed.new(statement, reply)
     end
-    return objections
+    objections
   end
 
   def parse_section(article_text, tag, end_tag)
     start_index = article_text.index(/^\s*#{tag}/)
-    if start_index == nil
-      return nil
-    end
+    return nil if start_index.nil?
 
     end_index = nil
-    if (end_tag.nil?)
-      end_index = article_text.index(/^\n/, start_index+1)
-    else
-      end_index = article_text.index(/^\s*#{end_tag}/)
-    end
+    end_index = if end_tag.nil?
+                  article_text.index(/^\n/, start_index + 1)
+                else
+                  article_text.index(/^\s*#{end_tag}/)
+                end
 
-    if end_index == nil
-      end_index = article_text.size - 1
-    end
+    end_index = article_text.size - 1 if end_index.nil?
 
     # Do the following replacements:
     # 1. Any newline that is not at the beginning with a space
@@ -66,7 +62,7 @@ class ArticleParser
     # 3. Two spaces at the start of a line with a new line
     # 4. A space at the end of a line with nothing
     # This should keep empty lines as-is and collapse everything else.
-    return article_text[start_index..end_index].gsub(/(?!^)\n/, " ")
-     .gsub("    ", " ").gsub(/^   /, "\n").gsub(/ $/, "").strip
+    article_text[start_index..end_index].gsub(/(?!^)\n/, ' ')
+                                        .gsub('    ', ' ').gsub(/^   /, "\n").gsub(/ $/, '').strip
   end
 end

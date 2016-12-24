@@ -1,5 +1,5 @@
-gem "minitest"
-require "minitest/autorun"
+gem 'minitest'
+require 'minitest/autorun'
 require_relative '../parser/treatise_parser'
 
 class TestTreatiseParser < MiniTest::Test
@@ -8,8 +8,8 @@ class TestTreatiseParser < MiniTest::Test
   end
 
   def test_VerifyTitle
-    expected_title = "TREATISE ON THE DISTINCTION OF GOOD AND EVIL"\
-                      " (QQ[48]-49)"
+    expected_title = 'TREATISE ON THE DISTINCTION OF GOOD AND EVIL'\
+                      ' (QQ[48]-49)'
     assert_equal(expected_title, @parser.treatise.title)
   end
 
@@ -18,17 +18,17 @@ class TestTreatiseParser < MiniTest::Test
   end
 
   def test_VerifyPrologueInTreatiseWithPrologue
-    expected_prologue = "Since, as Damascene states (De Fide Orth. ii,"\
+    expected_prologue = 'Since, as Damascene states (De Fide Orth. ii,'\
                         " 12), man is said to be made in God's image,"\
-                        " in so far as the image implies \"an"\
-                        " intelligent being endowed with free-will and"\
-                        " self-movement\": now that we have treated of"\
-                        " the exemplar, i.e. God, and of those things"\
-                        " which came forth from the power of God in"\
-                        " accordance with His will; it remains for us"\
-                        " to treat of His image, i.e. man, inasmuch as"\
-                        " he too is the principle of his actions, as"\
-                        " having free-will and control of his actions."
+                        ' in so far as the image implies "an'\
+                        ' intelligent being endowed with free-will and'\
+                        ' self-movement": now that we have treated of'\
+                        ' the exemplar, i.e. God, and of those things'\
+                        ' which came forth from the power of God in'\
+                        ' accordance with His will; it remains for us'\
+                        ' to treat of His image, i.e. man, inasmuch as'\
+                        ' he too is the principle of his actions, as'\
+                        ' having free-will and control of his actions.'
     parser = TreatiseParser.new($treatise_with_prologue)
     assert_equal(expected_prologue, parser.treatise.prologue)
   end

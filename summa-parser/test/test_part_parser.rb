@@ -1,5 +1,5 @@
-gem "minitest"
-require "minitest/autorun"
+gem 'minitest'
+require 'minitest/autorun'
 require_relative '../parser/part_parser'
 
 class TestPartParser < MiniTest::Test
@@ -8,12 +8,12 @@ class TestPartParser < MiniTest::Test
   end
 
   def test_VerifyTitle
-    expected_title = "FIRST PART (FP: QQ 1-119)"
+    expected_title = 'FIRST PART (FP: QQ 1-119)'
     assert_equal(expected_title, @parser.part.title)
   end
 
   def test_VerifyPrologueForPartWithoutPrologue
-        assert_equal(nil, @parser.part.prologue)
+    assert_equal(nil, @parser.part.prologue)
   end
 
   def test_VerifyPrologueForPartWithPrologue
@@ -26,7 +26,7 @@ class TestPartParser < MiniTest::Test
   end
 
   def test_VerifyFirstTreatiseTitle
-    assert_equal("TREATISE ON SACRED DOCTRINE [1](Q[1])",
+    assert_equal('TREATISE ON SACRED DOCTRINE [1](Q[1])',
                  @parser.part.treatises[0].title)
   end
 end

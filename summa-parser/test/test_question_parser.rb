@@ -1,5 +1,5 @@
-gem "minitest"
-require "minitest/autorun"
+gem 'minitest'
+require 'minitest/autorun'
 require_relative '../parser/question_parser'
 
 class TestQuestionParser < MiniTest::Test
@@ -8,35 +8,35 @@ class TestQuestionParser < MiniTest::Test
   end
 
   def test_VerifyTitle
-    expected_title = "THE LIFE OF GOD (FOUR ARTICLES)"
+    expected_title = 'THE LIFE OF GOD (FOUR ARTICLES)'
     assert_equal(expected_title, @parser.question.title)
   end
 
   def test_VerifyTitleWithMultipleLines
-    expected_title = "OF THE PERFECTION OF THE ANGELS IN THE ORDER OF"\
-                      " GRACE AND OF GLORY (NINE ARTICLES)"
+    expected_title = 'OF THE PERFECTION OF THE ANGELS IN THE ORDER OF'\
+                      ' GRACE AND OF GLORY (NINE ARTICLES)'
     parser = QuestionParser.new($question_with_multiline_title)
     assert_equal(expected_title, parser.question.title)
   end
 
   def test_VerifyTitleWithoutParantheses
-    expected_title = "TWO ARTICLES ON PURGATORY"
+    expected_title = 'TWO ARTICLES ON PURGATORY'
     parser = QuestionParser.new($question_with_odd_title)
     assert_equal(expected_title, parser.question.title)
   end
 
   def test_VerifyContent
-    expected_context = "Since to understand belongs to living beings,"\
-                        " after considering the divine knowledge and"\
-                        " intellect, we must consider the divine life."\
+    expected_context = 'Since to understand belongs to living beings,'\
+                        ' after considering the divine knowledge and'\
+                        ' intellect, we must consider the divine life.'\
                         " About this, four points of inquiry arise:
 (1) To whom does it belong to live?
 (2) What is life?
 (3) Whether life is properly attributed to God?
 (4) Whether all things in God are life?"
-      assert_equal(expected_context, @parser.question.content)
+    assert_equal(expected_context, @parser.question.content)
   end
-  
+
   def test_VerifyContentWithMultilineTitle
     parser = QuestionParser.new($question_with_multiline_title)
     assert_match(/^In due sequence/, parser.question.content)
@@ -44,7 +44,7 @@ class TestQuestionParser < MiniTest::Test
 
   def test_VerifyQuestionWithoutContent
     parser = QuestionParser.new($question_with_odd_title)
-    assert_equal("", parser.question.content)
+    assert_equal('', parser.question.content)
   end
 
   def test_VerifyCorrectNumberOfArticlesFound
@@ -52,28 +52,28 @@ class TestQuestionParser < MiniTest::Test
   end
 
   def test_VerifyFirstArticleTitle
-    expected_title = "Whether to live belongs to all natural things?"
+    expected_title = 'Whether to live belongs to all natural things?'
     assert_equal(expected_title, @parser.question.articles[0].title)
   end
 
   def test_VerifySecondArticleTitle
-    expected_title = "Whether life is an operation?"
+    expected_title = 'Whether life is an operation?'
     assert_equal(expected_title, @parser.question.articles[1].title)
   end
 
   def test_VerifyThirdArticleTitle
-    expected_title = "Whether life is properly attributed to God?"
+    expected_title = 'Whether life is properly attributed to God?'
     assert_equal(expected_title, @parser.question.articles[2].title)
   end
 
   def test_VerifyFourthArticleTitle
-    expected_title = "Whether all things are life in God?"
+    expected_title = 'Whether all things are life in God?'
     assert_equal(expected_title, @parser.question.articles[3].title)
   end
 
   def test_VerifyEmptyQuestionTextCausesAnException
     assert_raises ArgumentError do
-      QuestionParser.new("")
+      QuestionParser.new('')
     end
   end
 end
@@ -645,4 +645,3 @@ $question_with_odd_title = %{
    only that which is contrary to it.
      __________________________________________________________________
 }
-
