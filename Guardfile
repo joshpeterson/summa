@@ -3,8 +3,10 @@
 
 ## Uncomment and set this to only include directories you want to watch
 directories %w(app lib config test app/controllers test/controllers) \
-  .select{|d| Dir.exists?(d) ?
-              d : UI.warning("Directory #{d} does not exist")}
+  .select { |d|
+    Dir.exist?(d) ?
+    d : UI.warning("Directory #{d} does not exist")
+  }
 
 ## Note: if you are using the `directories` clause above and you are not
 ## watching the project directory ('.'), then you will want to move
@@ -31,8 +33,8 @@ guard :minitest do
   watch(%r{^app/(.+)\.rb$})                               { |m| "test/#{m[1]}_test.rb" }
   watch(%r{^app/controllers/application_controller\.rb$}) { 'test/controllers' }
   watch(%r{^app/controllers/(.+)_controller\.rb$})        { |m| "test/integration/#{m[1]}_test.rb" }
-  watch(%r{^app/views/(.+)_mailer/.+})                   { |m| "test/mailers/#{m[1]}_mailer_test.rb" }
-  watch(%r{^lib/(.+)\.rb$})                               { |m| "test/lib/#{m[1]}_test.rb" }
+  watch(%r{^app/views/(.+)_mailer/.+}) { |m| "test/mailers/#{m[1]}_mailer_test.rb" }
+  watch(%r{^lib/(.+)\.rb$}) { |m| "test/lib/#{m[1]}_test.rb" }
   watch(%r{^test/.+_test\.rb$})
   watch(%r{^test/test_helper\.rb$}) { 'test' }
 

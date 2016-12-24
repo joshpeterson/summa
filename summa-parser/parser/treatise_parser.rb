@@ -31,9 +31,9 @@ class TreatiseParser
   end
 
   def get_prologue_start_and_end(treatise_text)
-    start_index = treatise_text.index /^  PROLOGUE/
+    start_index = treatise_text.index(/^  PROLOGUE/)
     return nil, nil if start_index.nil?
-    start_index += '  PROLOGUE'.length + 1
+    start_index += 11 # '  PROLOGUE'.length + 1
     end_index = treatise_text.index(/^     ______/, start_index + 1)
     [start_index, end_index]
   end
@@ -49,23 +49,26 @@ class TreatiseParser
                                        .size
     questions = Array.new(number_of_questions)
 
-    start_index = treatise_text.index /^  [A-Z][A-Z]\n*?.*?\)/m
-    for i in 0..number_of_questions - 1
+    start_index = treatise_text.index(/^  [A-Z][A-Z]\n*?.*?\)/m)
+    questions.map! do
       after_question_title_index = treatise_text.index(/^\n/,
                                                        start_index + 1)
       next_start_index = treatise_text.index(/^  [A-Z][A-Z]\n*?.*?\)/m,
                                              after_question_title_index + 1)
-      end_index = if !next_start_index.nil?
-                    treatise_text.rindex(/__/, next_start_index)
-                  else
-                    treatise_text.length - 1
-                  end
+      end_index = find_end_index(treatise_text, next_start_index)
       question_text = treatise_text[start_index..end_index]
-      question_parser = QuestionParser.new(question_text)
-      questions[i] = question_parser.question
       start_index = next_start_index
+      QuestionParser.new(question_text).question
     end
 
     questions
+  end
+
+  def find_end_index(treatise_text, next_start_index)
+    if !next_start_index.nil?
+      treatise_text.rindex(/__/, next_start_index)
+    else
+      treatise_text.length - 1
+    end
   end
 end
