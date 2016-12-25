@@ -16,21 +16,25 @@ class SummaParser
   end
 
   def parse_parts(summa_text)
-    parts = []
     number_of_parts = summa_text.scan(/^.* PART \(/).size
+    parts = Array.new(number_of_parts)
     start_index = summa_text.index(/^.* PART \(/)
-    for i in 0..number_of_parts - 1
+    parts.map! do
       next_start_index = summa_text.index(/^.* PART \(/, start_index + 1)
-      end_index = if !next_start_index.nil?
-                    summa_text.rindex(/^     ____/, next_start_index)
-                  else
-                    summa_text.length - 1
-                  end
-      parser = PartParser.new(summa_text[start_index..end_index])
-      parts.push(parser.part)
+      end_index = find_end_index(summa_text, next_start_index)
+      part_text = summa_text[start_index..end_index]
       start_index = next_start_index
+      PartParser.new(part_text).part
     end
 
     parts
+  end
+
+  def find_end_index(summa_text, next_start_index)
+    if !next_start_index.nil?
+      summa_text.rindex(/^     ____/, next_start_index)
+    else
+      summa_text.length - 1
+    end
   end
 end

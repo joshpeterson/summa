@@ -3,6 +3,8 @@ Metrics/LineLength:
 Style/Documentation:
   Enabled: false
 Metrics/MethodLength:
-  Max: 20
+  Max: 35
 Metrics/AbcSize:
   Max: 25
+Metrics/ClassLength:
+  Enabled: false

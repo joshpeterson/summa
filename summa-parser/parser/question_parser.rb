@@ -36,7 +36,8 @@ class QuestionParser
     end
     end_index = question_text.index(/^     ____/, start_index + 1)
     question_text[start_index..end_index].tr("\n", ' ')
-                                         .gsub('    ', ' ').gsub('  (', "\n(").strip
+                                         .gsub('    ', ' ').gsub('  (', "\n(")
+                                         .strip
   end
 
   def parse_articles(question_text)
@@ -54,8 +55,6 @@ class QuestionParser
 
     articles
   end
-
-  private
 
   def question_has_content(question_text)
     title_start_index = question_text.index(/^  [A-Z][A-Z]/)

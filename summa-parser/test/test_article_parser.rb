@@ -4,22 +4,22 @@ require_relative '../parser/article_parser'
 
 class TestArticleParser < Minitest::Test
   def setup
-    @parser = ArticleParser.new($article)
+    @parser = ArticleParser.new(ARTICLE)
   end
 
-  def test_VerifyArticleTitle
+  def test_verify_article_title
     expected_title = 'Whether, besides philosophy, any further doctrine'\
                       ' is required?'
     assert_equal(expected_title, @parser.article.title)
   end
 
-  def test_VerifyArticleTitleWithFootnote
-    local_parser = ArticleParser.new($article_with_footnote_in_title)
+  def test_verify_article_title_with_footnote
+    local_parser = ArticleParser.new(ARTICLE_WITH_FOOTNOTE_IN_TITLE)
     expected_title = 'Whether understanding is a part of prudence?'
     assert_equal(expected_title, local_parser.article.title)
   end
 
-  def test_VerifyArticleContrary
+  def test_verify_article_contrary
     expected_contrary = 'On the contrary, It is written (2 Tim. 3:16):'\
                         ' "All Scripture, inspired of God is profitable'\
                         ' to teach, to reprove, to correct, to instruct'\
@@ -32,7 +32,7 @@ class TestArticleParser < Minitest::Test
     assert_equal(expected_contrary, @parser.article.contrary)
   end
 
-  def test_VerifyArticleAnswer
+  def test_verify_article_answer
     expected_answer = "I answer that, It was necessary for man's"\
                       ' salvation that there should be a knowledge'\
                       ' revealed by God besides philosophical science'\
@@ -66,32 +66,32 @@ class TestArticleParser < Minitest::Test
     assert_equal(expected_answer, @parser.article.answer)
   end
 
-  def test_VerifyArticleAnswerWithNewlineInArticle
+  def test_verify_article_answer_with_newline_in_article
     expected_answer = %(I answer that, foo bar.
 
 Foo bar baz.)
-    local_parser = ArticleParser.new($article_with_newline_in_answer)
+    local_parser = ArticleParser.new(ARTICLE_WITH_NEWLINE_IN_ANSWER)
     assert_equal(expected_answer, local_parser.article.answer)
   end
 
-  def test_VerifyArticleAnswerWithNewlineInArticleAndNoReplies
+  def test_verify_article_answer_with_newline_in_article_and_no_replies
     expected_answer = %(I answer that, foo bar.
 
 Foo bar baz.)
-    local_parser = ArticleParser.new($article_with_newline_in_answer_an_no_replies)
+    local_parser = ArticleParser.new(ARTICLE_WITH_NEWLINE_IN_ANSWER_AN_NO_REPLIES)
     assert_equal(expected_answer, local_parser.article.answer)
   end
 
-  def test_VerifyNumberOfObjections
+  def test_verify_number_of_objections
     assert_equal(2, @parser.article.objections.size)
   end
 
-  def test_VerifyNumberOfObjectionsForArticleWithNoObjectionReplies
-    local_parser = ArticleParser.new($article_without_objection_replies)
+  def test_verify_number_of_objections_for_article_with_no_objection_replies
+    local_parser = ArticleParser.new(ARTICLE_WITHOUT_OBJECTION_REPLIES)
     assert_equal(2, local_parser.article.objections.size)
   end
 
-  def test_VerifyFirstObjectionStatement
+  def test_verify_first_objection_statement
     expected_statement = 'Objection 1: It seems that, besides'\
                           ' philosophical science, we have no need of'\
                           ' any further knowledge. For man should not'\
@@ -105,7 +105,7 @@ Foo bar baz.)
                  @parser.article.objections[0].statement)
   end
 
-  def test_VerifyFirstObjectionReply
+  def test_verify_first_objection_reply
     expected_reply = 'Reply to Objection 1: Although those things which'\
                       " are beyond man's knowledge may not be sought for"\
                       ' by man through his reason, nevertheless, once'\
@@ -117,7 +117,7 @@ Foo bar baz.)
     assert_equal(expected_reply, @parser.article.objections[0].reply)
   end
 
-  def test_VerifySecondObjectionStatement
+  def test_verify_second_objection_statement
     expected_statement = 'Objection 2: Further, knowledge can be'\
                           ' concerned only with being, for nothing can'\
                           ' be known, save what is true; and all that'\
@@ -133,7 +133,7 @@ Foo bar baz.)
                  @parser.article.objections[1].statement)
   end
 
-  def test_VerifySecondObjectionReply
+  def test_verify_second_objection_reply
     expected_reply = 'Reply to Objection 2: Sciences are differentiated'\
                       ' according to the various means through which'\
                       ' knowledge is obtained. For the astronomer and'\
@@ -153,7 +153,7 @@ Foo bar baz.)
   end
 end
 
-$article = %{
+ARTICLE = %{
   Whether, besides philosophy, any further doctrine is
     required?
 
@@ -216,9 +216,9 @@ $article = %{
    may not also be taught us by another science so far as they fall within
    revelation. Hence theology included in sacred doctrine differs in kind
    from that theology which is part of philosophy.
-}
+}.freeze
 
-$article_without_objection_replies = %{
+ARTICLE_WITHOUT_OBJECTION_REPLIES = %{
   Whether sacred doctrine is a practical science?
 
    Objection 1: It seems that sacred doctrine is a practical science; for
@@ -248,9 +248,9 @@ $article_without_objection_replies = %{
    does treat even of these latter, inasmuch as man is ordained by them to
    the perfect knowledge of God in which consists eternal bliss. This is a
    sufficient answer to the Objections.
-}
+}.freeze
 
-$article_with_footnote_in_title = %{
+ARTICLE_WITH_FOOTNOTE_IN_TITLE = %{
   Whether understanding* is a part of prudence? [*Otherwise intuition;
     Aristotle's word is {nous}]
 
@@ -316,9 +316,9 @@ $article_with_footnote_in_title = %{
    understood as referring, not to the particular sense whereby we know
    proper sensibles, but to the interior sense, whereby we judge of a
    particular.
-}
+}.freeze
 
-$article_with_newline_in_answer = %{
+ARTICLE_WITH_NEWLINE_IN_ANSWER = %{
   Whether sacred doctrine is a practical science?
 
    Objection 1: It seems that sacred doctrine is a practical science; for
@@ -339,9 +339,9 @@ $article_with_newline_in_answer = %{
 
    Reply to Objection 1: The reasoning of prudence terminates, as in a
    conclusion, in the particular matter of action, to which, as stated
-}
+}.freeze
 
-$article_with_newline_in_answer_an_no_replies = %{
+ARTICLE_WITH_NEWLINE_IN_ANSWER_AN_NO_REPLIES = %{
   Whether sacred doctrine is a practical science?
 
    Objection 1: It seems that sacred doctrine is a practical science; for
@@ -359,4 +359,4 @@ $article_with_newline_in_answer_an_no_replies = %{
    I answer that, foo bar.
 
    Foo bar baz.
-}
+}.freeze
