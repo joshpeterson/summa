@@ -47,10 +47,8 @@ class TreatiseParser
 
     number_of_questions = treatise_text.scan(/^  [A-Z][A-Z]\n*?.*?\)/m)
                                        .size
-    questions = Array.new(number_of_questions)
-
     start_index = treatise_text.index(/^  [A-Z][A-Z]\n*?.*?\)/m)
-    questions.map! do
+    Array.new(number_of_questions) do
       after_question_title_index = treatise_text.index(/^\n/,
                                                        start_index + 1)
       next_start_index = treatise_text.index(/^  [A-Z][A-Z]\n*?.*?\)/m,
@@ -60,8 +58,6 @@ class TreatiseParser
       start_index = next_start_index
       QuestionParser.new(question_text).question
     end
-
-    questions
   end
 
   def find_end_index(treatise_text, next_start_index)

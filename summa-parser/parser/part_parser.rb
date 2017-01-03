@@ -41,18 +41,14 @@ class PartParser
   def parse_treatises(part_text)
     treatise_start = /^TREATISE/
     number_of_treatises = part_text.scan(treatise_start).size
-    treatises = Array.new(number_of_treatises)
-
     start_index = part_text.index(treatise_start)
-    treatises.map! do
+    Array.new(number_of_treatises) do
       next_start_index = part_text.index(treatise_start, start_index + 1)
       end_index = find_end_index(part_text, next_start_index)
       treatise_text = part_text[start_index..end_index]
       start_index = next_start_index
       TreatiseParser.new(treatise_text).treatise
     end
-
-    treatises
   end
 
   def find_end_index(part_text, next_start_index)

@@ -17,17 +17,14 @@ class SummaParser
 
   def parse_parts(summa_text)
     number_of_parts = summa_text.scan(/^.* PART \(/).size
-    parts = Array.new(number_of_parts)
     start_index = summa_text.index(/^.* PART \(/)
-    parts.map! do
+    Array.new(number_of_parts) do
       next_start_index = summa_text.index(/^.* PART \(/, start_index + 1)
       end_index = find_end_index(summa_text, next_start_index)
       part_text = summa_text[start_index..end_index]
       start_index = next_start_index
       PartParser.new(part_text).part
     end
-
-    parts
   end
 
   def find_end_index(summa_text, next_start_index)
