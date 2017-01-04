@@ -4,34 +4,34 @@ require_relative '../parser/part_parser'
 
 class TestPartParser < MiniTest::Test
   def setup
-    @parser = PartParser.new($part)
+    @parser = PartParser.new(PART)
   end
 
-  def test_VerifyTitle
+  def test_verify_title
     expected_title = 'FIRST PART (FP: QQ 1-119)'
     assert_equal(expected_title, @parser.part.title)
   end
 
-  def test_VerifyPrologueForPartWithoutPrologue
+  def test_verify_prologue_for_part_without_prologue
     assert_equal(nil, @parser.part.prologue)
   end
 
-  def test_VerifyPrologueForPartWithPrologue
-    parser = PartParser.new($part_with_prologue)
-    assert_equal($expected_prologue, parser.part.prologue)
+  def test_verify_prologue_for_part_with_prologue
+    parser = PartParser.new(PART_WITH_PROLOGUE)
+    assert_equal(EXPECTED_PROLOGUE, parser.part.prologue)
   end
 
-  def test_VerifyTreatiseCount
+  def test_verify_treatise_count
     assert_equal(2, @parser.part.treatises.length)
   end
 
-  def test_VerifyFirstTreatiseTitle
+  def test_verify_first_treatise_title
     assert_equal('TREATISE ON SACRED DOCTRINE [1](Q[1])',
                  @parser.part.treatises[0].title)
   end
 end
 
-$part = %{
+PART = %{
                            FIRST PART (FP: QQ 1-119)
      __________________________________________________________________
 
@@ -1239,13 +1239,24 @@ TREATISE ON THE MOST HOLY TRINITY (QQ[27]-43)
      __________________________________________________________________
 
                  FIRST PART OF THE SECOND PART (FS) (QQ[1]-114)
-}
+}.freeze
 
-$expected_prologue = %{Forasmuch as our Saviour the Lord Jesus Christ, in order to "save His people from their sins" (Mat. 1:21), as the angel announced, showed unto us in His own Person the way of truth, whereby we may attain to the bliss of eternal life by rising again, it is necessary, in order to complete the work of theology, that after considering the last end of human life, and the virtues and vices, there should follow the consideration of the Saviour of all, and of the benefits bestowed by Him on the human race.
-Concerning this we must consider (1) the Saviour Himself; (2) the sacraments by which we attain to our salvation; (3) the end of immortal life to which we attain by the resurrection.
-Concerning the first, a double consideration occurs: the first, about the mystery of the Incarnation itself, whereby God was made man for our salvation; the second, about such things as were done and suffered by our Saviour---i.e. God incarnate.}
+EXPECTED_PROLOGUE = %{Forasmuch as our Saviour the Lord Jesus Christ, in order \
+to "save His people from their sins" (Mat. 1:21), as the angel announced, showed \
+unto us in His own Person the way of truth, whereby we may attain to the bliss of \
+eternal life by rising again, it is necessary, in order to complete the work of \
+theology, that after considering the last end of human life, and the virtues and \
+vices, there should follow the consideration of the Saviour of all, and of the \
+benefits bestowed by Him on the human race.
+Concerning this we must consider (1) the Saviour Himself; (2) the sacraments by \
+which we attain to our salvation; (3) the end of immortal life to which we attain \
+by the resurrection.
+Concerning the first, a double consideration occurs: the first, about the mystery \
+of the Incarnation itself, whereby God was made man for our salvation; the \
+second, about such things as were done and suffered by our Saviour---i.e. God \
+incarnate.}.freeze
 
-$part_with_prologue = %{
+PART_WITH_PROLOGUE = %{
 
                THIRD PART (TP) OF THE SUMMA THEOLOGICA (QQ[1]-90)
      __________________________________________________________________
@@ -1272,4 +1283,4 @@ PROLOGUE
      __________________________________________________________________
 
 TREATISE ON THE INCARNATION (QQ[1]-59)
-}
+}.freeze

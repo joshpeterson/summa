@@ -4,20 +4,20 @@ require_relative '../parser/treatise_parser'
 
 class TestTreatiseParser < MiniTest::Test
   def setup
-    @parser = TreatiseParser.new($treatise)
+    @parser = TreatiseParser.new(TREATISE)
   end
 
-  def test_VerifyTitle
+  def test_verify_title
     expected_title = 'TREATISE ON THE DISTINCTION OF GOOD AND EVIL'\
                       ' (QQ[48]-49)'
     assert_equal(expected_title, @parser.treatise.title)
   end
 
-  def test_VerifyPrologueIsNil
+  def test_verify_prologue_is_nil
     assert_nil(@parser.treatise.prologue)
   end
 
-  def test_VerifyPrologueInTreatiseWithPrologue
+  def test_verify_prologue_in_treatise_with_prologue
     expected_prologue = 'Since, as Damascene states (De Fide Orth. ii,'\
                         " 12), man is said to be made in God's image,"\
                         ' in so far as the image implies "an'\
@@ -29,21 +29,21 @@ class TestTreatiseParser < MiniTest::Test
                         ' to treat of His image, i.e. man, inasmuch as'\
                         ' he too is the principle of his actions, as'\
                         ' having free-will and control of his actions.'
-    parser = TreatiseParser.new($treatise_with_prologue)
+    parser = TreatiseParser.new(TREATISE_WITH_PROLOGUE)
     assert_equal(expected_prologue, parser.treatise.prologue)
   end
 
-  def test_VerifyCorrectNumberOfQuestionsFound
+  def test_verify_correct_number_of_questions_found
     assert_equal(2, @parser.treatise.questions.size)
   end
 
-  def test_VerifyCorrectNumberOfQuestionsFoundWithComplexQuestion
-    parser = TreatiseParser.new($treatise_with_complex_question)
+  def test_verify_correct_number_of_questions_found_with_complex_question
+    parser = TreatiseParser.new(TREATISE_WITH_COMPLEX_QUESTION)
     assert_equal(1, parser.treatise.questions.size)
   end
 end
 
-$treatise = %{
+TREATISE = %{
 TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
      __________________________________________________________________
 
@@ -862,9 +862,9 @@ TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
    infinity, but reduce all evils to some good cause, whence evil follows
    accidentally.
      __________________________________________________________________
-}
+}.freeze
 
-$treatise_with_prologue = %{
+TREATISE_WITH_PROLOGUE = %{
 TREATISE ON THE LAST END (QQ[1]-5)
      __________________________________________________________________
 
@@ -3923,9 +3923,9 @@ TREATISE ON THE LAST END (QQ[1]-5)
    nothing amiss": although the first part suffices if rightly understood,
    to wit, that "happy is he who has all he desires."
      __________________________________________________________________
-}
+}.freeze
 
-$treatise_with_complex_question = %{
+TREATISE_WITH_COMPLEX_QUESTION = %{
 TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
      __________________________________________________________________
 
@@ -4058,4 +4058,4 @@ TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
    under the order of the same, except accidentally, that is, by reason of
    some good joined to it.
      __________________________________________________________________
-}
+}.freeze
