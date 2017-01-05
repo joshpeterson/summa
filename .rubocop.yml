@@ -5,6 +5,6 @@ Style/Documentation:
 Metrics/MethodLength:
   Max: 35
 Metrics/AbcSize:
-  Max: 25
+  Enabled: false
 Metrics/ClassLength:
   Enabled: false

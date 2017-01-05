@@ -1,43 +1,44 @@
-gem "minitest"
-require "minitest/autorun"
-require_relative "custom_assertions.rb"
-require_relative "../generator/article_writer"
-require_relative "../../summa-parser/models/article.rb"
-require_relative "../../summa-parser/models/objection.rb"
+gem 'minitest'
+require 'minitest/autorun'
+require_relative 'custom_assertions.rb'
+require_relative '../generator/article_writer'
+require_relative '../../summa-parser/models/article.rb'
+require_relative '../../summa-parser/models/objection.rb'
 
 class TestArticleWriter < MiniTest::Test
   def test_starts_with_title
-    article = ArticleParsed.new("ARTICle title", "", "", Array.new)
-    assert_startswith("### Article Title", ArticleWriter.write(article))
+    article = ArticleParsed.new('ARTICle title', '', '', [])
+    assert_startswith('### Article Title', ArticleWriter.write(article))
   end
 
   def test_article_content
-    objections = [ObjectionParsed.new("Objection 1 text.", "First reply text."),
-                  ObjectionParsed.new("Objection 2 text.", "Second reply text.")]
-    article = ArticleParsed.new("ARTICle title", "Contrary text.", "Answer text.",
+    objections = [ObjectionParsed.new('Objection 1 text.', 'First reply text.'),
+                  ObjectionParsed.new('Objection 2 text.', 'Second reply text.')]
+    article = ArticleParsed.new('ARTICle title', 'Contrary text.', 'Answer text.',
                                 objections)
-    assert_equal($expected_article_content, ArticleWriter.write(article))
+    assert_equal(EXPECTED_ARTICLE_CONTENT, ArticleWriter.write(article))
   end
 
   def test_article_content_with_nil_reply
-    objections = [ObjectionParsed.new("Objection 1 text.", nil),
-                  ObjectionParsed.new("Objection 2 text.", "Second reply text.")]
-    article = ArticleParsed.new("ARTICle title", "Contrary text.", "Answer text.",
+    objections = [ObjectionParsed.new('Objection 1 text.', nil),
+                  ObjectionParsed.new('Objection 2 text.', 'Second reply text.')]
+    article = ArticleParsed.new('ARTICle title', 'Contrary text.', 'Answer text.',
                                 objections)
-    assert_equal($expected_article_content_with_nil_reply,
+    assert_equal(EXPECTED_ARTICLE_CONTENT_WITH_NIL_REPLY,
                  ArticleWriter.write(article))
   end
 
   def test_article_content_with_no_replies
-    objections = [ObjectionParsed.new("Objection 1 text.", nil),
-                  ObjectionParsed.new("Objection 2 text.", nil)]
-    article = ArticleParsed.new("ARTICle title", "Contrary text.", "Answer text.",
+    objections = [ObjectionParsed.new('Objection 1 text.', nil),
+                  ObjectionParsed.new('Objection 2 text.', nil)]
+    article = ArticleParsed.new('ARTICle title', 'Contrary text.', 'Answer text.',
                                 objections)
-    assert_equal($expected_article_content_with_no_replies,
+    assert_equal(EXPECTED_ARTICLE_CONTENT_WITH_NO_REPLIES,
                  ArticleWriter.write(article))
   end
+end
 
-  $expected_article_content = "### Article Title
+EXPECTED_ARTICLE_CONTENT = "### Article Title
 
 Contrary text.
 
@@ -55,9 +56,9 @@ First reply text.
 
 Objection 2 text.
 
-Second reply text."
+Second reply text.".freeze
 
-  $expected_article_content_with_nil_reply = "### Article Title
+EXPECTED_ARTICLE_CONTENT_WITH_NIL_REPLY = "### Article Title
 
 Contrary text.
 
@@ -73,9 +74,9 @@ Objection 1 text.
 
 Objection 2 text.
 
-Second reply text."
+Second reply text.".freeze
 
-  $expected_article_content_with_no_replies = "### Article Title
+EXPECTED_ARTICLE_CONTENT_WITH_NO_REPLIES = "### Article Title
 
 Contrary text.
 
@@ -89,6 +90,4 @@ Objection 1 text.
 
 ---
 
-Objection 2 text."
-
-end
+Objection 2 text.".freeze

@@ -1,18 +1,18 @@
 class Utils
   def self.append_prologue_link(path)
-    return append_to_path(path_from_stack(path), "prologue.md")
+    append_to_path(path_from_stack(path), 'prologue.md')
   end
 
   def self.emit_markdown_filename(title)
-    return "#{make_string_for_path(title)}.md"
+    "#{make_string_for_path(title)}.md"
   end
 
   def self.path_from_stack(stack)
-    path = ""
-    for entry in stack
+    path = ''
+    stack.each do |entry|
       path += "#{make_string_for_path(entry)}/"
     end
-    return path.chomp("/")
+    path.chomp('/')
   end
 
   def self.sanitize(title)
@@ -30,19 +30,17 @@ class Utils
     # 11. Replace punctuation with nothing
     # 12. Replace two or more adjacent spaces with one space
     # 13. Replace whitespace with an underscore
-    title.gsub(/\(.*?\)/, "").gsub(/\[.*?\]/, "").gsub("*", "").gsub(".", "")
-      .gsub("{", "").gsub("}", "").gsub("[", "").gsub("]", "").gsub("\"","")
-      .gsub("'","").gsub(/-+?/, "").gsub(":", "").gsub(/,/,"")
-      .gsub(/[[:punct:]]?$/, "").gsub(/\s{2,}/, " ").strip().gsub(/\s+/, "_")
+    title.gsub(/\(.*?\)/, '').gsub(/\[.*?\]/, '').delete('*').delete('.')
+         .delete('{').delete('}').delete('[').delete(']').delete('"')
+         .delete("'").gsub(/-+?/, '').delete(':').delete(',')
+         .gsub(/[[:punct:]]?$/, '').gsub(/\s{2,}/, ' ').strip.gsub(/\s+/, '_')
   end
 
-  private
-
-  def self.append_to_path(path, toAppend)
-    "#{path}/#{toAppend}"
+  def self.append_to_path(path, to_append)
+    "#{path}/#{to_append}"
   end
 
   def self.make_string_for_path(value)
-    return "#{sanitize(value).downcase}"
+    sanitize(value).downcase.to_s
   end
 end

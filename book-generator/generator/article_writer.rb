@@ -1,5 +1,5 @@
-require_relative "../../summa-parser/models/article"
-require_relative "title_parser"
+require_relative '../../summa-parser/models/article'
+require_relative 'title_parser'
 
 class ArticleWriter
   def self.write(article)
@@ -9,14 +9,12 @@ class ArticleWriter
     text += "---\n\n"
     text += "#{article.answer}\n\n"
 
-    for objection in article.objections
+    article.objections.each do |objection|
       text += "---\n\n"
       text += "#{objection.statement}\n\n"
-      if !objection.reply.nil?
-        text += "#{objection.reply}\n\n"
-      end
+      text += "#{objection.reply}\n\n" unless objection.reply.nil?
     end
 
-    return text.strip
+    text.strip
   end
 end
