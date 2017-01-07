@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.2'
 gem 'pg'
+gem 'rails', '4.2.2'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -33,8 +33,8 @@ end
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
+gem 'bootstrap-sass'
 
 gem 'newrelic_rpm'
 
@@ -53,5 +53,6 @@ group :development, :test do
 
   gem 'guard'
   gem 'guard-minitest'
+  gem 'guard-rubocop'
   gem 'minitest-rg'
 end
