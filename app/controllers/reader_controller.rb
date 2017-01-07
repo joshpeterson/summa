@@ -1,8 +1,6 @@
 class ReaderController < ApplicationController
   def show
-    url = cookies["reader"]
-    if (!url.nil?)
-      redirect_to(url)
-    end
+    url = cookies['reader']
+    redirect_to(url) unless url.nil?
   end
 end

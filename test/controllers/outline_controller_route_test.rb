@@ -5,8 +5,8 @@ class OutlineControllerRouteTest < ActionController::TestCase
     @controller = OutlineController.new
   end
 
-  test "routes outline to outline controller show action" do
-    assert_recognizes({:controller => 'outline', :action => 'show'},
+  test 'routes outline to outline controller show action' do
+    assert_recognizes({ controller: 'outline', action: 'show' },
                       '/outline')
   end
 end

@@ -1,9 +1,9 @@
 class SummaController < ApplicationController
   def show
-    @summa = get_summa
+    @summa = summa
   end
 
-  def get_summa
+  def summa
     SummaTheologica.first
   end
 end

@@ -1,14 +1,14 @@
 class PartsController < ApplicationController
   def show
-    @part = get_part
-    if (@part == nil)
-      render :status => 404
+    @part = part
+    if @part.nil?
+      render status: 404
     else
-      cookies["reader"] = "/parts/#{@part.id}"
+      cookies['reader'] = "/parts/#{@part.id}"
     end
   end
 
-  def get_part
-    params.has_key?(:id) ? Part.find(params[:id]) : nil
+  def part
+    params.key?(:id) ? Part.find(params[:id]) : nil
   end
 end

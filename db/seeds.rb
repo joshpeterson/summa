@@ -10,69 +10,69 @@ require_relative '../summa-parser/load.rb'
 
 include TitleParser
 
-print "Loading summa data from file\n"
-summa = load()
-dbSumma = SummaTheologica.create
-dbParts = Array.new
-for part in summa.parts
+printf("Loading summa data from file\n")
+summa = load
+db_summa = SummaTheologica.create
+db_parts = []
+summa.parts.each do |part|
   printf("Processing part: %s\n", part.title)
-  articleNumberInPart = 1
-  dbPart = Part.create(title: format_title(part.title), prologue: part.prologue,
-                       summa_theologica: dbSumma)
-  dbTreatises = Array.new
-  for treatise in part.treatises
+  article_number_in_part = 1
+  db_part = Part.create(title: format_title(part.title), prologue: part.prologue,
+                        summa_theologica: db_summa)
+  db_treatises = []
+  part.treatises.each do |treatise|
     printf("Processing treatise: %s\n", treatise.title)
-    articleNumberInTreatise = 1
-    dbTreatise = Treatise.create(title: format_title(treatise.title),
-                                 prologue: treatise.prologue,
-                                 part: dbPart)
-    dbQuestions = Array.new
-    for question in treatise.questions
-      articleNumberInQuestion = 1
-      dbQuestion = Question.create(title: format_title(question.title),
-                                   content: question.content,
-                                   treatise: dbTreatise)
-      dbArticles = Array.new
-      for article in question.articles
-        dbArticle = Article.create(title: article.title,
-                                   contrary: article.contrary,
-                                   answer: article.answer,
-                                   question: dbQuestion)
+    article_number_in_treatise = 1
+    db_treatise = Treatise.create(title: format_title(treatise.title),
+                                  prologue: treatise.prologue,
+                                  part: db_part)
+    db_questions = []
+    treatise.questions.each do |question|
+      article_number_in_question = 1
+      db_question = Question.create(title: format_title(question.title),
+                                    content: question.content,
+                                    treatise: db_treatise)
+      db_articles = []
+      question.articles.each do |article|
+        db_article = Article.create(title: article.title,
+                                    contrary: article.contrary,
+                                    answer: article.answer,
+                                    question: db_question)
 
-        context = Context.create(part: dbPart,
-                                 treatise: dbTreatise,
-                                 question: dbQuestion,
-                                 number_in_part: articleNumberInPart,
-                                 number_in_treatise: articleNumberInTreatise,
-                                 number_in_question: articleNumberInQuestion)
-        dbArticle.context = context
-        articleNumberInPart += 1
-        articleNumberInTreatise += 1
-        articleNumberInQuestion += 1
+        context = Context.create(part: db_part,
+                                 treatise: db_treatise,
+                                 question: db_question,
+                                 number_in_part: article_number_in_part,
+                                 number_in_treatise: article_number_in_treatise,
+                                 number_in_question: article_number_in_question)
+        db_article.context = context
+        article_number_in_part += 1
+        article_number_in_treatise += 1
+        article_number_in_question += 1
 
-        dbObjections = Array.new
-        for objection in article.objections
-          dbObjection = Objection.create(statement: objection.statement,
-                                         reply: objection.reply,
-                                         article: dbArticle)
-          dbObjections.push(dbObjection)
+        db_objections = []
+        article.objections.each do |objection|
+          db_objection = Objection.create(statement: objection.statement,
+                                          reply: objection.reply,
+                                          article: db_article)
+          db_objections.push(db_objection)
         end
-        dbArticle.objections = dbObjections
-        dbArticles.push(dbArticle)
+        db_article.objections = db_objections
+        db_articles.push(db_article)
       end
-      dbQuestion.articles = dbArticles
-      dbQuestion.number_of_articles = articleNumberInQuestion - 1
-      dbQuestion.save
-      dbQuestions.push(dbQuestion)
+      db_question.articles = db_articles
+      db_question.number_of_articles = article_number_in_question - 1
+      db_question.save
+      db_questions.push(db_question)
     end
-    dbTreatise.questions = dbQuestions
-    dbTreatise.number_of_articles = articleNumberInTreatise - 1
-    dbTreatise.save
-    dbTreatises.push(dbTreatise)
+    db_treatise.questions = db_questions
+    db_treatise.number_of_articles = article_number_in_treatise - 1
+    db_treatise.save
+    db_treatises.push(db_treatise)
   end
-  dbPart.treatises = dbTreatises
-  dbPart.number_of_articles = articleNumberInPart - 1
-  dbPart.save
-  dbParts.push(dbPart)
+  db_part.treatises = db_treatises
+  db_part.number_of_articles = article_number_in_part - 1
+  db_part.save
+  db_parts.push(db_part)
 end
-dbSumma.parts = dbParts
+db_summa.parts = db_parts

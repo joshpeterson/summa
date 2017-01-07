@@ -1,11 +1,11 @@
 class ArticlesController < ApplicationController
   def show
-    @article = get_article
-    if (@article == nil)
-      render :status => 404
+    @article = article
+    if @article.nil?
+      render status: 404
     else
-      @next = get_next
-      @previous = get_previous
+      @next = next_article
+      @previous = previous_article
       @context_in_part = context_in_part
       @context_in_treatise = context_in_treatise
       @context_in_question = context_in_question
@@ -14,20 +14,20 @@ class ArticlesController < ApplicationController
       @percent_in_question = percent_in_question
       @sorted_objections = sort_objections
       @article.answer = process_html(@article.answer)
-      cookies["reader"] = { :value => "/articles/#{@article.id}",
-                            :expires => 1.year.from_now }
+      cookies['reader'] = { value: "/articles/#{@article.id}",
+                            expires: 1.year.from_now }
     end
   end
 
-  def get_article
+  def article
     get_article_with_offset(0)
   end
 
-  def get_next
+  def next_article
     get_article_with_offset(1)
   end
 
-  def get_previous
+  def previous_article
     get_article_with_offset(-1)
   end
 
@@ -74,7 +74,7 @@ class ArticlesController < ApplicationController
   private
 
   def get_article_with_offset(offset)
-    params.has_key?(:id) ? Article.find_by(id: params[:id].to_i + offset) : nil
+    params.key?(:id) ? Article.find_by(id: params[:id].to_i + offset) : nil
   end
 
   def context_string(number, total)
@@ -86,10 +86,10 @@ class ArticlesController < ApplicationController
   end
 
   def replace_each_empty_line_with_two_br_tags(text)
-    text.gsub(/^\n/, "<br><br>")
+    text.gsub(/^\n/, '<br><br>')
   end
 
   def sort_objections
-    @article.objections.sort_by{|o| o.statement || ""}
+    @article.objections.sort_by { |o| o.statement || '' }
   end
 end

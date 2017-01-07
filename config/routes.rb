@@ -15,18 +15,19 @@ Rails.application.routes.draw do
   get 'read/', to: 'reader#show'
   get 'outline/', to: 'outline#show'
 
-  get '/about', :to => redirect('/about.html')
-  get '/code', :to => redirect('/code.html')
+  get '/about', to: redirect('/about.html')
+  get '/code', to: redirect('/code.html')
 
-  # The priority is based upon order of creation: first created -> highest priority.
+  # The priority is based upon order of creation: first created -> highest
+  # priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
 
-  resources :parts, :only => [:show]
-  resources :treatises, :only => [:show]
-  resources :questions, :only => [:show]
-  resources :articles, :only => [:show]
+  resources :parts, only: [:show]
+  resources :treatises, only: [:show]
+  resources :questions, only: [:show]
+  resources :articles, only: [:show]
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
