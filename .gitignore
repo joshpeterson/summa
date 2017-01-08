@@ -22,6 +22,7 @@ tags
 
 config/application.yml
 public/assets/*
+vendor/bundle/*
 
 # For Gitbook
 _book/*
