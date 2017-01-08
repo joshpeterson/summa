@@ -3,6 +3,8 @@ AllCops:
     - db/schema.rb
     - db/migrate/*
     - bin/*
+    - vendor/*
+    - tmp/*
 Rails:
   Enabled: true
 Rails/HttpPositionalArguments:
