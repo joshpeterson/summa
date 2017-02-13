@@ -2,36 +2,43 @@
   <div class="container">
     <% @title=@article.title + " - Summa Explorer" %>
     <div class="title"><%= @article.title %></div>
+    <a name="objections"></a>
+    <div class="section-title">Objections</div>
+    <% @sorted_objections.each.with_index(1) do |objection, i| %>
+      <div class="statement">
+        <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+        <a name="objection<%= i %>"></a>
+        <%= objection.statement %>
+      </div>
+    <% end %>
     <a name="answer"></a>
+    <div class="section-title">Answer</div>
     <% if !@article.contrary.nil? %>
       <div class="contrary">
         <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
         <%= @article.contrary %>
       </div>
     <% end %>
-    <hr/>
     <div class="answer">
       <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
       <%= @article.answer.html_safe %>
-    </div>
-    <hr/>
-    <% if @article.objections.any? {|o| !o.reply.nil?} %>
-      <a name="objections"></a>
+     </div>
+     <% if @article.objections.any? {|o| !o.reply.nil?} %>
       <a name="replies"></a>
+      <div class="section-title">Replies</div>
       <% @sorted_objections.each.with_index(1) do |objection, i| %>
-        <div class="statement">
-          <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
-          <a name="objection<%= i %>"></a>
-          <%= objection.statement %>
-        </div>
         <% if !objection.reply.nil? %>
+          <div class="statement">
+            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+            <%= truncate(objection.statement, length: 100, separator: ' ',
+                         omission: '') %> <a href="#objection<%= i%>">. . .</a>
+          </div>
           <div class="reply">
             <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
             <a name="reply<%= i %>"></a>
             <%= objection.reply %>
           </div>
         <% end %>
-      <hr/>
       <% end %>
     <% end %>
     <div class="hidden-print">
