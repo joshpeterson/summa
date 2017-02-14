@@ -4,6 +4,7 @@ AllCops:
     - db/migrate/*
     - bin/*
     - vendor/**/*
+    - app/controllers/letsencrypt_controller.rb
 Rails:
   Enabled: true
 Rails/HttpPositionalArguments:
