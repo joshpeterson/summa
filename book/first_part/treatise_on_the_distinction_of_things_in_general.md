@@ -11,9 +11,17 @@ After considering the production of creatures, we come to the consideration of t
 
 ### Whether The Multitude And Distinction Of Things Come From God?
 
-On the contrary, It is said (Gn. 1:4, 7) that God "divided the light from the darkness," and "divided waters from waters." Therefore the distinction and multitude of things is from God.
+**Objections**
 
----
+Objection 1: It would seem that the multitude and distinction of things does not come from God. For one naturally always makes one. But God is supremely one, as appears from what precedes ([410]Q[11], A[4]). Therefore He produces but one effect.
+
+Objection 2: Further, the representation is assimilated to its exemplar. But God is the exemplar cause of His effect, as was said above ([411]Q[44], A[3]). Therefore, as God is one, His effect is one only, and not diverse.
+
+Objection 3: Further, the means are proportional to the end. But the end of the creation is one---viz. the divine goodness, as was shown above ([412]Q[44] , A[4]). Therefore the effect of God is but one.
+
+**Answer**
+
+On the contrary, It is said (Gn. 1:4, 7) that God "divided the light from the darkness," and "divided waters from waters." Therefore the distinction and multitude of things is from God.
 
 I answer that, The distinction of things has been ascribed to many causes. For some attributed the distinction to matter, either by itself or with the agent. Democritus, for instance, and all the ancient natural philosophers, who admitted no cause but matter, attributed it to matter alone; and in their opinion the distinction of things comes from chance according to the movement of matter. Anaxagoras, however, attributed the distinction and multitude of things to matter and to the agent together; and he said that the intellect distinguishes things by extracting what is mixed up in matter.
 
@@ -27,75 +35,61 @@ Hence we must say that the distinction and multitude of things come from the int
 
 And because the divine wisdom is the cause of the distinction of things, therefore Moses said that things are made distinct by the word of God, which is the concept of His wisdom; and this is what we read in Gn. 1:3,4: "God said: Be light made . . . And He divided the light from the darkness."
 
----
-
-Objection 1: It would seem that the multitude and distinction of things does not come from God. For one naturally always makes one. But God is supremely one, as appears from what precedes ([410]Q[11], A[4]). Therefore He produces but one effect.
+**Replies**
 
 Reply to Objection 1: The natural agent acts by the form which makes it what it is, and which is only one in one thing; and therefore its effect is one only. But the voluntary agent, such as God is, as was shown above ([416]Q[19], A[4]), acts by an intellectual form. Since, therefore, it is not against God's unity and simplicity to understand many things, as was shown above ([417]Q[15], A[2]), it follows that, although He is one, He can make many things.
 
----
-
-Objection 2: Further, the representation is assimilated to its exemplar. But God is the exemplar cause of His effect, as was said above ([411]Q[44], A[3]). Therefore, as God is one, His effect is one only, and not diverse.
-
 Reply to Objection 2: This reason would apply to the representation which reflects the exemplar perfectly, and which is multiplied by reason of matter only; hence the uncreated image, which is perfect, is only one. But no creature represents the first exemplar perfectly, which is the divine essence; and, therefore, it can be represented by many things. Still, according as ideas are called exemplars, the plurality of ideas corresponds in the divine mind to the plurality of things.
-
----
-
-Objection 3: Further, the means are proportional to the end. But the end of the creation is one---viz. the divine goodness, as was shown above ([412]Q[44] , A[4]). Therefore the effect of God is but one.
 
 Reply to Objection 3: In speculative things the medium of demonstration, which demonstrates the conclusion perfectly, is one only; whereas probable means of proof are many. Likewise when operation is concerned, if the means be equal, so to speak, to the end, one only is sufficient. But the creature is not such a means to its end, which is God; and hence the multiplication of creatures is necessary.
 
 ### Whether The Inequality Of Things Is From God?
 
-On the contrary, It is said (Ecclus. 33:7): "Why does one day excel another, and one light another, and one year another year, one sun another sun? [Vulg.: 'when all come of the sun']. By the knowledge of the Lord they were distinguished."
+**Objections**
 
----
+Objection 1: It would seem that the inequality of things is not from God. For it belongs to the best to produce the best. But among things that are best, one is not greater than another. Therefore, it belongs to God, Who is the Best, to make all things equal.
+
+Objection 2: Further, equality is the effect of unity (Metaph. v, text 20). But God is one. Therefore, He has made all things equal.
+
+Objection 3: Further, it is the part of justice to give unequal to unequal things. But God is just in all His works. Since, therefore, no inequality of things is presupposed to the operation whereby He gives being to things, it seems that He has made all things equal.
+
+**Answer**
+
+On the contrary, It is said (Ecclus. 33:7): "Why does one day excel another, and one light another, and one year another year, one sun another sun? [Vulg.: 'when all come of the sun']. By the knowledge of the Lord they were distinguished."
 
 I answer that, When Origen wished to refute those who said that the distinction of things arose from the contrary principles of good and evil, he said that in the beginning all things were created equal by God. For he asserted that God first created only the rational creatures and all equal; and that inequality arose in them from free-will, some being turned to God more and some less, and others turned more and others less away from God. And so those rational creatures which were turned to God by free-will, were promoted to the order of angels according to the diversity of merits. And those who were turned away from God were bound down to bodies according to the diversity of their sin; and he said this was the cause of the creation and diversity of bodies. But according to this opinion, it would follow that the universality of bodily creatures would not be the effect of the goodness of God as communicated to creatures, but it would be for the sake of the punishment of sin, which is contrary to what is said: "God saw all the things that He had made, and they were very good" (Gn. 1:31). And, as Augustine says (De Civ. Dei ii, 3): "What can be more foolish than to say that the divine Architect provided this one sun for the one world, not to be an ornament to its beauty, nor for the benefit of corporeal things, but that it happened through the sin of one soul; so that, if a hundred souls had sinned, there would be a hundred suns in the world?"
 
 Therefore it must be said that as the wisdom of God is the cause of the distinction of things, so the same wisdom is the cause of their inequality. This may be explained as follows. A twofold distinction is found in things; one is a formal distinction as regards things differing specifically; the other is a material distinction as regards things differing numerically only. And as the matter is on account of the form, material distinction exists for the sake of the formal distinction. Hence we see that in incorruptible things there is only one individual of each species, forasmuch as the species is sufficiently preserved in the one; whereas in things generated and corruptible there are many individuals of one species for the preservation of the species. Whence it appears that formal distinction is of greater consequence than material. Now, formal distinction always requires inequality, because as the Philosopher says (Metaph. viii, 10), the forms of things are like numbers in which species vary by addition or subtraction of unity. Hence in natural things species seem to be arranged in degrees; as the mixed things are more perfect than the elements, and plants than minerals, and animals than plants, and men than other animals; and in each of these one species is more perfect than others. Therefore, as the divine wisdom is the cause of the distinction of things for the sake of the perfection of the universe, so it is the cause of inequality. For the universe would not be perfect if only one grade of goodness were found in things.
 
----
-
-Objection 1: It would seem that the inequality of things is not from God. For it belongs to the best to produce the best. But among things that are best, one is not greater than another. Therefore, it belongs to God, Who is the Best, to make all things equal.
+**Replies**
 
 Reply to Objection 1: It is part of the best agent to produce an effect which is best in its entirety; but this does not mean that He makes every part of the whole the best absolutely, but in proportion to the whole; in the case of an animal, for instance, its goodness would be taken away if every part of it had the dignity of an eye. Thus, therefore, God also made the universe to be best as a whole, according to the mode of a creature; whereas He did not make each single creature best, but one better than another. And therefore we find it said of each creature, "God saw the light that it was good" (Gn. 1:4); and in like manner of each one of the rest. But of all together it is said, "God saw all the things that He had made, and they were very good" (Gn. 1:31).
 
----
-
-Objection 2: Further, equality is the effect of unity (Metaph. v, text 20). But God is one. Therefore, He has made all things equal.
-
 Reply to Objection 2: The first effect of unity is equality; and then comes multiplicity; and therefore from the Father, to Whom, according to Augustine (De Doctr. Christ. i, 5), is appropriated unity, the Son proceeds to Whom is appropriated equality, and then from Him the creature proceeds, to which belongs inequality; but nevertheless even creatures share in a certain equality---namely, of proportion.
-
----
-
-Objection 3: Further, it is the part of justice to give unequal to unequal things. But God is just in all His works. Since, therefore, no inequality of things is presupposed to the operation whereby He gives being to things, it seems that He has made all things equal.
 
 Reply to Objection 3: This is the argument that persuaded Origen: but it holds only as regards the distribution of rewards, the inequality of which is due to unequal merits. But in the constitution of things there is no inequality of parts through any preceding inequality, either of merits or of the disposition of the matter; but inequality comes from the perfection of the whole. This appears also in works done by art; for the roof of a house differs from the foundation, not because it is made of other material; but in order that the house may be made perfect of different parts, the artificer seeks different material; indeed, he would make such material if he could.
 
 ### Whether There Is Only One World?
 
-On the contrary, It is said (Jn. 1:10): "The world was made by Him," where the world is named as one, as if only one existed.
-
----
-
-I answer that, The very order of things created by God shows the unity of the world. For this world is called one by the unity of order, whereby some things are ordered to others. But whatever things come from God, have relation of order to each other, and to God Himself, as shown above ([419]Q[11], A[3]; [420]Q[21], A[1]). Hence it must be that all things should belong to one world. Therefore those only can assert that many worlds exist who do not acknowledge any ordaining wisdom, but rather believe in chance, as Democritus, who said that this world, besides an infinite number of other worlds, was made from a casual concourse of atoms.
-
----
+**Objections**
 
 Objection 1: It would seem that there is not only one world, but many. Because, as Augustine says (QQ. 83, qu. 46), it is unfitting to say that God has created things without a reason. But for the same reason He created one, He could create many, since His power is not limited to the creation of one world; but rather it is infinite, as was shown above ([418]Q[25], A[2]). Therefore God has produced many worlds.
 
-Reply to Objection 1: This reason proves that the world is one because all things must be arranged in one order, and to one end. Therefore from the unity of order in things Aristotle infers (Metaph. xii, text 52) the unity of God governing all; and Plato (Tim.), from the unity of the exemplar, proves the unity of the world, as the thing designed.
-
----
-
 Objection 2: Further, nature does what is best and much more does God. But it is better for there to be many worlds than one, because many good things are better than a few. Therefore many worlds have been made by God.
 
-Reply to Objection 2: No agent intends material plurality as the end forasmuch as material multitude has no certain limit, but of itself tends to infinity, and the infinite is opposed to the notion of end. Now when it is said that many worlds are better than one, this has reference to material order. But the best in this sense is not the intention of the divine agent; forasmuch as for the same reason it might be said that if He had made two worlds, it would be better if He had made three; and so on to infinite.
-
----
-
 Objection 3: Further, everything which has a form in matter can be multiplied in number, the species remaining the same, because multiplication in number comes from matter. But the world has a form in matter. Thus as when I say "man" I mean the form, and when I say "this man," I mean the form in matter; so when we say "world," the form is signified, and when we say "this world," the form in the matter is signified. Therefore there is nothing to prevent the existence of many worlds.
+
+**Answer**
+
+On the contrary, It is said (Jn. 1:10): "The world was made by Him," where the world is named as one, as if only one existed.
+
+I answer that, The very order of things created by God shows the unity of the world. For this world is called one by the unity of order, whereby some things are ordered to others. But whatever things come from God, have relation of order to each other, and to God Himself, as shown above ([419]Q[11], A[3]; [420]Q[21], A[1]). Hence it must be that all things should belong to one world. Therefore those only can assert that many worlds exist who do not acknowledge any ordaining wisdom, but rather believe in chance, as Democritus, who said that this world, besides an infinite number of other worlds, was made from a casual concourse of atoms.
+
+**Replies**
+
+Reply to Objection 1: This reason proves that the world is one because all things must be arranged in one order, and to one end. Therefore from the unity of order in things Aristotle infers (Metaph. xii, text 52) the unity of God governing all; and Plato (Tim.), from the unity of the exemplar, proves the unity of the world, as the thing designed.
+
+Reply to Objection 2: No agent intends material plurality as the end forasmuch as material multitude has no certain limit, but of itself tends to infinity, and the infinite is opposed to the notion of end. Now when it is said that many worlds are better than one, this has reference to material order. But the best in this sense is not the intention of the divine agent; forasmuch as for the same reason it might be said that if He had made two worlds, it would be better if He had made three; and so on to infinite.
 
 Reply to Objection 3: The world is composed of the whole of its matter. For it is not possible for there to be another earth than this one, since every earth would naturally be carried to this central one, wherever it was. The same applies to the other bodies which are part of the world.
 

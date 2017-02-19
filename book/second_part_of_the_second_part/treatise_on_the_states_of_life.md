@@ -18,107 +18,99 @@ We must next consider man's various states and duties. We shall consider (1) man
 
 ### Whether The Notion Of A State Denotes A Condition Of Freedom Or Servitude?
 
-On the contrary, It is thus laid down in the Decretals (II, qu. vi, can. Si Quando): "Whenever anyone intervene in a cause where life or state is at stake he must do so, not by a proxy, but in his own person"; and "state" here has reference to freedom or servitude. Therefore it would seem that nothing differentiates a man's state, except that which refers to freedom or servitude.
-
----
-
-I answer that, "State," properly speaking, denotes a kind of position, whereby a thing is disposed with a certain immobility in a manner according with its nature. For it is natural to man that his head should be directed upwards, his feet set firmly on the ground, and his other intermediate members disposed in becoming order; and this is not the case if he lie down, sit, or recline, but only when he stands upright: nor again is he said to stand, if he move, but only when he is still. Hence it is again that even in human acts, a matter is said to have stability [statum] in reference to its own disposition in the point of a certain immobility or restfulness. Consequently matters which easily change and are extrinsic to them do not constitute a state among men, for instance that a man be rich or poor, of high or low rank, and so forth. Wherefore in the civil law [*Dig. I, IX, De Senatoribus] (Lib. Cassius ff. De Senatoribus) it is said that if a man be removed from the senate, he is deprived of his dignity rather than of his state. But that alone seemingly pertains to a man's state, which regards an obligation binding his person, in so far, to wit, as a man is his own master or subject to another, not indeed from any slight or unstable cause, but from one that is firmly established; and this is something pertaining to the nature of freedom or servitude. Therefore state properly regards freedom or servitude whether in spiritual or in civil matters.
-
----
+**Objections**
 
 Objection 1: It would seem that the notion of a state does not denote a condition of freedom or servitude. For "state" takes its name from "standing." Now a person is said to stand on account of his being upright; and Gregory says (Moral. vii, 17): "To fall by speaking harmful words is to forfeit entirely the state of righteousness." But a man acquires spiritual uprightness by submitting his will to God; wherefore a gloss on Ps. 32:1, "Praise becometh the upright," says: "The upright are those who direct their heart according to God's will." Therefore it would seem that obedience to the Divine commandments suffices alone for the notion of a state.
 
-Reply to Objection 1: Uprightness as such does not pertain to the notion of state, except in so far as it is connatural to man with the addition of a certain restfulness. Hence other animals are said to stand without its being required that they should be upright; nor again are men said to stand, however upright their position be, unless they be still.
-
----
-
 Objection 2: Further, the word "state" seems to denote immobility according to 1 Cor. 15:48, "Be ye steadfast [stabiles] and immovable"; wherefore Gregory says (Hom. xxi in Ezech.): "The stone is foursquare, and is stable on all sides, if no disturbance will make it fall." Now it is virtue that enables us "to act with immobility," according to Ethic. ii, 4. Therefore it would seem that a state is acquired by every virtuous action.
 
-Reply to Objection 2: Immobility does not suffice for the notion of state; since even one who sits or lies down is still, and yet he is not said to stand.
-
----
-
 Objection 3: Further, the word "state" seems to indicate height of a kind; because to stand is to be raised upwards. Now one man is made higher than another by various duties; and in like manner men are raised upwards in various ways by various grades and orders. Therefore the mere difference of grades, orders, or duties suffices for a difference of states.
+
+**Answer**
+
+On the contrary, It is thus laid down in the Decretals (II, qu. vi, can. Si Quando): "Whenever anyone intervene in a cause where life or state is at stake he must do so, not by a proxy, but in his own person"; and "state" here has reference to freedom or servitude. Therefore it would seem that nothing differentiates a man's state, except that which refers to freedom or servitude.
+
+I answer that, "State," properly speaking, denotes a kind of position, whereby a thing is disposed with a certain immobility in a manner according with its nature. For it is natural to man that his head should be directed upwards, his feet set firmly on the ground, and his other intermediate members disposed in becoming order; and this is not the case if he lie down, sit, or recline, but only when he stands upright: nor again is he said to stand, if he move, but only when he is still. Hence it is again that even in human acts, a matter is said to have stability [statum] in reference to its own disposition in the point of a certain immobility or restfulness. Consequently matters which easily change and are extrinsic to them do not constitute a state among men, for instance that a man be rich or poor, of high or low rank, and so forth. Wherefore in the civil law [*Dig. I, IX, De Senatoribus] (Lib. Cassius ff. De Senatoribus) it is said that if a man be removed from the senate, he is deprived of his dignity rather than of his state. But that alone seemingly pertains to a man's state, which regards an obligation binding his person, in so far, to wit, as a man is his own master or subject to another, not indeed from any slight or unstable cause, but from one that is firmly established; and this is something pertaining to the nature of freedom or servitude. Therefore state properly regards freedom or servitude whether in spiritual or in civil matters.
+
+**Replies**
+
+Reply to Objection 1: Uprightness as such does not pertain to the notion of state, except in so far as it is connatural to man with the addition of a certain restfulness. Hence other animals are said to stand without its being required that they should be upright; nor again are men said to stand, however upright their position be, unless they be still.
+
+Reply to Objection 2: Immobility does not suffice for the notion of state; since even one who sits or lies down is still, and yet he is not said to stand.
 
 Reply to Objection 3: Duty implies relation to act; while grades denote an order of superiority and inferiority. But state requires immobility in that which regards a condition of the person himself.
 
 ### Whether There Should Be Different Duties Or States In The Church?
 
-On the contrary, It is written in praise of the Church (Ps. 44:10) that she is "surrounded with variety": and a gloss on these words says that "the Queen," namely the Church, "is bedecked with the teaching of the apostles, the confession of martyrs, the purity of virgins, the sorrowings of penitents."
-
----
-
-I answer that, The difference of states and duties in the Church regards three things. In the first place it regards the perfection of the Church. For even as in the order of natural things, perfection, which in God is simple and uniform, is not to be found in the created universe except in a multiform and manifold manner, so too, the fulness of grace, which is centered in Christ as head, flows forth to His members in various ways, for the perfecting of the body of the Church. This is the meaning of the Apostle's words (Eph. 4:11,12): "He gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors for the perfecting of the saints." Secondly, it regards the need of those actions which are necessary in the Church. For a diversity of actions requires a diversity of men appointed to them, in order that all things may be accomplished without delay or confusion; and this is indicated by the Apostle (Rom. 12:4,5), "As in one body we have many members, but all the members have not the same office, so we being many are one body in Christ." Thirdly, this belongs to the dignity and beauty of the Church, which consist in a certain order; wherefore it is written (3 Kings 10:4,5) that "when the queen of Saba saw all the wisdom of Solomon . . . and the apartments of his servants, and the order of his ministers . . . she had no longer any spirit in her." Hence the Apostle says (2 Tim. 2:20) that "in a great house there are not only vessels of gold and silver, but also of wood and of earth."
-
----
+**Objections**
 
 Objection 1: It would seem that there should not be different duties or states in the Church. For distinction is opposed to unity. Now the faithful of Christ are called to unity according to Jn. 17:21,22: "That they . . . may be one in Us . . . as We also are one." Therefore there should not be a distinction of duties and states in the Church.
 
-Reply to Objection 1: The distinction of states and duties is not an obstacle to the unity of the Church, for this results from the unity of faith, charity, and mutual service, according to the saying of the Apostle (Eph. 4:16): "From whom the whole body being compacted," namely by faith, "and fitly joined together," namely by charity, "by what every joint supplieth," namely by one man serving another.
-
----
-
 Objection 2: Further, nature does not employ many means where one suffices. But the working of grace is much more orderly than the working of nature. Therefore it were more fitting for things pertaining to the operations of grace to be administered by the same persons, so that there would not be a distinction of duties and states in the Church.
 
-Reply to Objection 2: Just as nature does not employ many means where one suffices, so neither does it confine itself to one where many are required, according to the saying of the Apostle (1 Cor. 12:17), "If the whole body were the eye, where would be the hearing?" Hence there was need in the Church, which is Christ's body, for the members to be differentiated by various duties, states, and grades.
-
----
-
 Objection 3: Further, the good of the Church seemingly consists chiefly in peace, according to Ps. 147:3, "Who hath placed peace in thy borders," and 2 Cor. 13:11, "Have peace, and the God of peace . . . shall be with you." Now distinction is a hindrance to peace, for peace would seem to result from likeness, according to Ecclus. 13:19, "Every beast loveth its like," while the Philosopher says (Polit. vii, 5) that "a little difference causes dissension in a state." Therefore it would seem that there ought not to be a distinction of states and duties in the Church.
+
+**Answer**
+
+On the contrary, It is written in praise of the Church (Ps. 44:10) that she is "surrounded with variety": and a gloss on these words says that "the Queen," namely the Church, "is bedecked with the teaching of the apostles, the confession of martyrs, the purity of virgins, the sorrowings of penitents."
+
+I answer that, The difference of states and duties in the Church regards three things. In the first place it regards the perfection of the Church. For even as in the order of natural things, perfection, which in God is simple and uniform, is not to be found in the created universe except in a multiform and manifold manner, so too, the fulness of grace, which is centered in Christ as head, flows forth to His members in various ways, for the perfecting of the body of the Church. This is the meaning of the Apostle's words (Eph. 4:11,12): "He gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors for the perfecting of the saints." Secondly, it regards the need of those actions which are necessary in the Church. For a diversity of actions requires a diversity of men appointed to them, in order that all things may be accomplished without delay or confusion; and this is indicated by the Apostle (Rom. 12:4,5), "As in one body we have many members, but all the members have not the same office, so we being many are one body in Christ." Thirdly, this belongs to the dignity and beauty of the Church, which consist in a certain order; wherefore it is written (3 Kings 10:4,5) that "when the queen of Saba saw all the wisdom of Solomon . . . and the apartments of his servants, and the order of his ministers . . . she had no longer any spirit in her." Hence the Apostle says (2 Tim. 2:20) that "in a great house there are not only vessels of gold and silver, but also of wood and of earth."
+
+**Replies**
+
+Reply to Objection 1: The distinction of states and duties is not an obstacle to the unity of the Church, for this results from the unity of faith, charity, and mutual service, according to the saying of the Apostle (Eph. 4:16): "From whom the whole body being compacted," namely by faith, "and fitly joined together," namely by charity, "by what every joint supplieth," namely by one man serving another.
+
+Reply to Objection 2: Just as nature does not employ many means where one suffices, so neither does it confine itself to one where many are required, according to the saying of the Apostle (1 Cor. 12:17), "If the whole body were the eye, where would be the hearing?" Hence there was need in the Church, which is Christ's body, for the members to be differentiated by various duties, states, and grades.
 
 Reply to Objection 3: Just as in the natural body the various members are held together in unity by the power of the quickening spirit, and are dissociated from one another as soon as that spirit departs, so too in the Church's body the peace of the various members is preserved by the power of the Holy Spirit, Who quickens the body of the Church, as stated in Jn. 6:64. Hence the Apostle says (Eph. 4:3): "Careful to keep the unity of the Spirit in the bond of peace." Now a man departs from this unity of spirit when he seeks his own; just as in an earthly kingdom peace ceases when the citizens seek each man his own. Besides, the peace both of mind and of an earthly commonwealth is the better preserved by a distinction of duties and states, since thereby the greater number have a share in public actions. Wherefore the Apostle says (1 Cor. 12:24,25) that "God hath tempered [the body] together that there might be no schism in the body, but the members might be mutually careful one for another."
 
 ### Whether Duties Differ According To Their Actions?
 
-On the contrary, Isidore says (Etym. vi, 19) that "officium [duty] takes its name from 'efficere' [to effect], as though it were instead of 'efficium,' by the change of one letter for the sake of the sound." But effecting pertains to action. Therefore duties differ according to their acts.
-
----
-
-I answer that, As stated above [3748](A[2]), difference among the members of the Church is directed to three things: perfection, action, and beauty; and according to these three we may distinguish a threefold distinction among the faithful. One, with regard to perfection, and thus we have the difference of states, in reference to which some persons are more perfect than others. Another distinction regards action and this is the distinction of duties: for persons are said to have various duties when they are appointed to various actions. A third distinction regards the order of ecclesiastical beauty: and thus we distinguish various grades according as in the same state or duty one person is above another. Hence according to a variant text [*The Septuagint] it is written (Ps. 47:4): "In her grades shall God be known."
-
----
+**Objections**
 
 Objection 1: It would seem that duties do not differ according to their actions. For there are infinite varieties of human acts both in spirituals and in temporals. Now there can be no certain distinction among things that are infinite in number. Therefore human duties cannot be differentiated according to a difference of acts.
 
-Reply to Objection 1: The material diversity of human acts is infinite. It is not thus that duties differ, but by their formal diversity which results from diverse species of acts, and in this way human acts are not infinite.
-
----
-
 Objection 2: Further, the active and the contemplative life differ according to their acts, as stated above ([3747]Q[179], A[1]). But the distinction of duties seems to be other than the distinction of lives. Therefore duties do not differ according to their acts.
 
-Reply to Objection 2: Life is predicated of a thing absolutely: wherefore diversity of acts which are becoming to man considered in himself. But efficiency, whence we have the word "office" (as stated above), denotes action tending to something else according to Metaph. ix, text. 16 [*Ed. Did. viii, 8]. Hence offices differ properly in respect of acts that are referred to other persons; thus a teacher is said to have an office, and so is a judge, and so forth. Wherefore Isidore says (Etym. vi, 19) that "to have an office is to be officious," i.e. harmful "to no one, but to be useful to all."
-
----
-
 Objection 3: Further, even ecclesiastical orders, states, and grades seemingly differ according to their acts. If, then, duties differ according to their acts it would seem that duties, grades, and states differ in the same way. Yet this is not true, since they are divided into their respective parts in different ways. Therefore duties do not differ according to their acts.
+
+**Answer**
+
+On the contrary, Isidore says (Etym. vi, 19) that "officium [duty] takes its name from 'efficere' [to effect], as though it were instead of 'efficium,' by the change of one letter for the sake of the sound." But effecting pertains to action. Therefore duties differ according to their acts.
+
+I answer that, As stated above [3748](A[2]), difference among the members of the Church is directed to three things: perfection, action, and beauty; and according to these three we may distinguish a threefold distinction among the faithful. One, with regard to perfection, and thus we have the difference of states, in reference to which some persons are more perfect than others. Another distinction regards action and this is the distinction of duties: for persons are said to have various duties when they are appointed to various actions. A third distinction regards the order of ecclesiastical beauty: and thus we distinguish various grades according as in the same state or duty one person is above another. Hence according to a variant text [*The Septuagint] it is written (Ps. 47:4): "In her grades shall God be known."
+
+**Replies**
+
+Reply to Objection 1: The material diversity of human acts is infinite. It is not thus that duties differ, but by their formal diversity which results from diverse species of acts, and in this way human acts are not infinite.
+
+Reply to Objection 2: Life is predicated of a thing absolutely: wherefore diversity of acts which are becoming to man considered in himself. But efficiency, whence we have the word "office" (as stated above), denotes action tending to something else according to Metaph. ix, text. 16 [*Ed. Did. viii, 8]. Hence offices differ properly in respect of acts that are referred to other persons; thus a teacher is said to have an office, and so is a judge, and so forth. Wherefore Isidore says (Etym. vi, 19) that "to have an office is to be officious," i.e. harmful "to no one, but to be useful to all."
 
 Reply to Objection 3: Differences of state, offices and grades are taken from different things, as stated above (A[1], ad 3). Yet these three things may concur in the same subject: thus when a person is appointed to a higher action, he attains thereby both office and grade, and sometimes, besides this, a state of perfection, on account of the sublimity of the act, as in the case of a bishop. The ecclesiastical orders are particularly distinct according to divine offices. For Isidore says (Etym. vi): "There are various kinds of offices; but the foremost is that which relates to sacred and Divine things."
 
 ### Whether The Difference Of States Applies To Those Who Are Beginning, Progressing, Or Perfect?
 
-On the contrary, Gregory says (Moral. xxiv, 11): "There are three states of the converted, the beginning, the middle, and the perfection"; and (Hom. xv in Ezech.): "Other is the beginning of virtue, other its progress, and other still its perfection."
+**Objections**
 
----
+Objection 1: It would seem that the difference of states does not apply to those who are beginning, progressing, or perfect. For "diverse genera have diverse species and differences" [*Aristotle, Categ. ii]. Now this difference of beginning, progress, and perfection is applied to the degrees of charity, as stated above ([3749]Q[24], A[9]), where we were treating of charity. Therefore it would seem that the differences of states should not be assigned in this manner.
+
+Objection 2: Further, as stated above [3750](A[1]), state regards a condition of servitude or freedom, which apparently has no connection with the aforesaid difference of beginning, progress, and perfection. Therefore it is unfitting to divide state in this way.
+
+Objection 3: Further, the distinction of beginning, progress, and perfection seems to refer to "more" and "less," and this seemingly implies the notion of grades. But the distinction of grades differs from that of states, as we have said above ([3751]AA[2],3). Therefore state is unfittingly divided according to beginning, progress, and perfection.
+
+**Answer**
+
+On the contrary, Gregory says (Moral. xxiv, 11): "There are three states of the converted, the beginning, the middle, and the perfection"; and (Hom. xv in Ezech.): "Other is the beginning of virtue, other its progress, and other still its perfection."
 
 I answer that, As stated above [3752](A[1]) state regards freedom or servitude. Now in spiritual things there is a twofold servitude and a twofold freedom: for there is the servitude of sin and the servitude of justice; and there is likewise a twofold freedom, from sin, and from justice, as appears from the words of the Apostle (Rom. 6:20, 22), "When you were the servants of sin, you were free men to justice . . . but now being made free from sin," you are . . . "become servants to God."
 
 Now the servitude of sin or justice consists in being inclined to evil by a habit of sin, or inclined to good by a habit of justice: and in like manner freedom from sin is not to be overcome by the inclination to sin, and freedom from justice is not to be held back from evil for the love of justice. Nevertheless, since man, by his natural reason, is inclined to justice, while sin is contrary to natural reason, it follows that freedom from sin is true freedom which is united to the servitude of justice, since they both incline man to that which is becoming to him. In like manner true servitude is the servitude of sin, which is connected with freedom from justice, because man is thereby hindered from attaining that which is proper to him. That a man become the servant of justice or sin results from his efforts, as the Apostle declares (Rom. 6:16): "To whom you yield yourselves servants to obey, his servants you are whom you obey, whether it be of sin unto death, or of obedience unto justice." Now in every human effort we can distinguish a beginning, a middle, and a term; and consequently the state of spiritual servitude and freedom is differentiated according to these things, namely, the beginning---to which pertains the state of beginners---the middle, to which pertains the state of the proficient---and the term, to which belongs the state of the perfect.
 
----
-
-Objection 1: It would seem that the difference of states does not apply to those who are beginning, progressing, or perfect. For "diverse genera have diverse species and differences" [*Aristotle, Categ. ii]. Now this difference of beginning, progress, and perfection is applied to the degrees of charity, as stated above ([3749]Q[24], A[9]), where we were treating of charity. Therefore it would seem that the differences of states should not be assigned in this manner.
+**Replies**
 
 Reply to Objection 1: Freedom from sin results from charity which "is poured forth in our hearts by the Holy Ghost, Who is given to us" (Rom. 5:5). Hence it is written (2 Cor. 3:17): "Where the Spirit of the Lord is, there is liberty." Wherefore the same division applies to charity as to the state of those who enjoy spiritual freedom.
 
----
-
-Objection 2: Further, as stated above [3750](A[1]), state regards a condition of servitude or freedom, which apparently has no connection with the aforesaid difference of beginning, progress, and perfection. Therefore it is unfitting to divide state in this way.
-
 Reply to Objection 2: Men are said to be beginners, proficient, and perfect (so far as these terms indicate different states), not in relation to any occupation whatever, but in relation to such occupations as pertain to spiritual freedom or servitude, as stated above [3753](A[1]).
-
----
-
-Objection 3: Further, the distinction of beginning, progress, and perfection seems to refer to "more" and "less," and this seemingly implies the notion of grades. But the distinction of grades differs from that of states, as we have said above ([3751]AA[2],3). Therefore state is unfittingly divided according to beginning, progress, and perfection.
 
 Reply to Objection 3: As already observed (A[3], ad 3), nothing hinders grade and state from concurring in the same subject. For even in earthly affairs those who are free, not only belong to a different state from those who are in service, but are also of a different grade.
 
@@ -136,35 +128,41 @@ We must now consider those things that pertain to the state of perfection wheret
 
 ### Whether The Perfection Of The Christian Life Consists Chiefly In Charity?
 
-On the contrary, It is written (Col. 3:14): "Above all things have charity, which is the bond of perfection," because it binds, as it were, all the other virtues together in perfect unity.
-
----
-
-I answer that, A thing is said to be perfect in so far as it attains its proper end, which is the ultimate perfection thereof. Now it is charity that unites us to God, Who is the last end of the human mind, since "he that abideth in charity abideth in God, and God in him" (1 Jn. 4:16). Therefore the perfection of the Christian life consists radically in charity.
-
----
+**Objections**
 
 Objection 1: It would seem that the perfection of the Christian life does not consist chiefly in charity. For the Apostle says (1 Cor. 14:20): "In malice be children, but in sense be perfect." But charity regards not the senses but the affections. Therefore it would seem that the perfection of the Christian life does not chiefly consist in charity.
 
-Reply to Objection 1: The perfection of the human senses would seem to consist chiefly in their concurring together in the unity of truth, according to 1 Cor. 1:10, "That you be perfect in the same mind [sensu], and in the same judgment." Now this is effected by charity which operates consent in us men. Wherefore even the perfection of the senses consists radically in the perfection of charity.
-
----
-
 Objection 2: Further,'it is written (Eph. 6:13): "Take unto you the armor of God, that you may be able to resist in the evil day, and to stand in all things perfect"; and the text continues (Eph. 6:14, 16), speaking of the armor of God: "Stand therefore having your loins girt about with truth, and having on the breast-plate of justice . . . in all things taking the shield of faith." Therefore the perfection of the Christian life consists not only in charity, but also in other virtues.
 
-Reply to Objection 2: A man may be said to be perfect in two ways. First, simply: and this perfection regards that which belongs to a thing's nature, for instance an animal may be said to be perfect when it lacks nothing in the disposition of its members and in such things as are necessary for an animal's life. Secondly, a thing is said to be perfect relatively: and this perfection regards something connected with the thing externally, such as whiteness or blackness or something of the kind. Now the Christian life consists chiefly in charity whereby the soul is united to God; wherefore it is written (1 Jn. 3:14): "He that loveth not abideth in death." Hence the perfection of the Christian life consists simply in charity, but in the other virtues relatively. And since that which is simply, is paramount and greatest in comparison with other things, it follows that the perfection of charity is paramount in relation to the perfection that regards the other virtues.
-
----
-
 Objection 3: Further, virtues like other habits, are specified by their acts. Now it is written (James 1:4) that "patience hath a perfect work." Therefore seemingly the state of perfection consists more specially in patience.
+
+**Answer**
+
+On the contrary, It is written (Col. 3:14): "Above all things have charity, which is the bond of perfection," because it binds, as it were, all the other virtues together in perfect unity.
+
+I answer that, A thing is said to be perfect in so far as it attains its proper end, which is the ultimate perfection thereof. Now it is charity that unites us to God, Who is the last end of the human mind, since "he that abideth in charity abideth in God, and God in him" (1 Jn. 4:16). Therefore the perfection of the Christian life consists radically in charity.
+
+**Replies**
+
+Reply to Objection 1: The perfection of the human senses would seem to consist chiefly in their concurring together in the unity of truth, according to 1 Cor. 1:10, "That you be perfect in the same mind [sensu], and in the same judgment." Now this is effected by charity which operates consent in us men. Wherefore even the perfection of the senses consists radically in the perfection of charity.
+
+Reply to Objection 2: A man may be said to be perfect in two ways. First, simply: and this perfection regards that which belongs to a thing's nature, for instance an animal may be said to be perfect when it lacks nothing in the disposition of its members and in such things as are necessary for an animal's life. Secondly, a thing is said to be perfect relatively: and this perfection regards something connected with the thing externally, such as whiteness or blackness or something of the kind. Now the Christian life consists chiefly in charity whereby the soul is united to God; wherefore it is written (1 Jn. 3:14): "He that loveth not abideth in death." Hence the perfection of the Christian life consists simply in charity, but in the other virtues relatively. And since that which is simply, is paramount and greatest in comparison with other things, it follows that the perfection of charity is paramount in relation to the perfection that regards the other virtues.
 
 Reply to Objection 3: Patience is stated to have a perfect work in relation to charity, in so far as it is an effect of the abundance of charity that a man bears hardships patiently, according to Rom. 8:35, "Who . . . shall separate us from the love of Christ? Shall tribulation? Or distress?" etc.
 
 ### Whether Any One Can Be Perfect In This Life?
 
-On the contrary, The Divine law does not prescribe the impossible. Yet it prescribes perfection according to Mat. 5:48, "Be you . . . perfect, as also your heavenly Father is perfect." Therefore seemingly one can be perfect in this life.
+**Objections**
 
----
+Objection 1: It would seem that none can be perfect in this life. For the Apostle says (1 Cor. 13:10): "When that which is perfect is come, that which is in part shall be done away." Now in this life that which is in part is not done away; for in this life faith and hope, which are in part, remain. Therefore none can be perfect in this life.
+
+Objection 2: Further, "The perfect is that which lacks nothing" (Phys. iii, 6). Now there is no one in this life who lacks nothing; for it is written (James 3:2): "In many things we all offend"; and (Ps. 138:16): "Thy eyes did see my imperfect being." Therefore none is perfect in this life.
+
+Objection 3: Further, the perfection of the Christian life, as stated [3754](A[1]), relates to charity, which comprises the love of God and of our neighbor. Now, neither as to the love of God can one have perfect charity in this life, since according to Gregory (Hom. xiv in Ezech.) "the furnace of love which begins to burn here, will burn more fiercely when we see Him Whom we love"; nor as to the love of our neighbor, since in this life we cannot love all our neighbors actually, even though we love them habitually; and habitual love is imperfect. Therefore it seems that no one can be perfect in this life.
+
+**Answer**
+
+On the contrary, The Divine law does not prescribe the impossible. Yet it prescribes perfection according to Mat. 5:48, "Be you . . . perfect, as also your heavenly Father is perfect." Therefore seemingly one can be perfect in this life.
 
 I answer that, As stated above [3755](A[1]), the perfection of the Christian life consists in charity. Now perfection implies a certain universality because according to Phys. iii, 6, "the perfect is that which lacks nothing." Hence we may consider a threefold perfection. One is absolute, and answers to a totality not only on the part of the lover, but also on the part of the object loved, so that God be loved as much as He is lovable. Such perfection as this is not possible to any creature, but is competent to God alone, in Whom good is wholly and essentially.
 
@@ -172,57 +170,53 @@ Another perfection answers to an absolute totality on the part of the lover, so 
 
 The third perfection answers to a totality neither on the part of the object served, nor on the part of the lover as regards his always actually tending to God, but on the part of the lover as regards the removal of obstacles to the movement of love towards God, in which sense Augustine says (QQ. LXXXIII, qu. 36) that "carnal desire is the bane of charity; to have no carnal desires is the perfection of charity." Such perfection as this can be had in this life, and in two ways. First, by the removal from man's affections of all that is contrary to charity, such as mortal sin; and there can be no charity apart from this perfection, wherefore it is necessary for salvation. Secondly, by the removal from man's affections not only of whatever is contrary to charity, but also of whatever hinders the mind's affections from tending wholly to God. Charity is possible apart from this perfection, for instance in those who are beginners and in those who are proficient.
 
----
-
-Objection 1: It would seem that none can be perfect in this life. For the Apostle says (1 Cor. 13:10): "When that which is perfect is come, that which is in part shall be done away." Now in this life that which is in part is not done away; for in this life faith and hope, which are in part, remain. Therefore none can be perfect in this life.
+**Replies**
 
 Reply to Objection 1: The Apostle is speaking there of heavenly perfection which is not possible to those who are on the way.
 
----
-
-Objection 2: Further, "The perfect is that which lacks nothing" (Phys. iii, 6). Now there is no one in this life who lacks nothing; for it is written (James 3:2): "In many things we all offend"; and (Ps. 138:16): "Thy eyes did see my imperfect being." Therefore none is perfect in this life.
-
 Reply to Objection 2: Those who are perfect in this life are said to "offend in many things" with regard to venial sins, which result from the weakness of the present life: and in this respect they have an "imperfect being" in comparison with the perfection of heaven.
-
----
-
-Objection 3: Further, the perfection of the Christian life, as stated [3754](A[1]), relates to charity, which comprises the love of God and of our neighbor. Now, neither as to the love of God can one have perfect charity in this life, since according to Gregory (Hom. xiv in Ezech.) "the furnace of love which begins to burn here, will burn more fiercely when we see Him Whom we love"; nor as to the love of our neighbor, since in this life we cannot love all our neighbors actually, even though we love them habitually; and habitual love is imperfect. Therefore it seems that no one can be perfect in this life.
 
 Reply to Objection 3: As the conditions of the present life do not allow of a man always tending actually to God, so neither does it allow of his tending actually to each individual neighbor; but it suffices for him to tend to all in common and collectively, and to each individual habitually and according to the preparedness of his mind. Now in the love of our neighbor, as in the love of God we may observe a twofold perfection: one without which charity is impossible, and consisting in one's having in one's affections nothing that is contrary to the love of one's neighbor; and another without which it is possible to have charity. The latter perfection may be considered in three ways. First, as to the extent of love, through a man loving not only his friends and acquaintances but also strangers and even his enemies, for as Augustine says (Enchiridion lxxiii) this is a mark of the perfect children of God. Secondly, as to the intensity of love, which is shown by the things which man despises for his neighbor's sake, through his despising not only external goods for the sake of his neighbor, but also bodily hardships and even death, according to Jn. 15:13, "Greater love than this no man hath, that a man lay down his life for his friends." Thirdly, as to the effect of love, so that a man will surrender not only temporal but also spiritual goods and even himself, for his neighbor's sake, according to the words of the Apostle (2 Cor. 12:15), "But I most gladly will spend and be spent myself for your souls."
 
 ### Whether, In This Life, Perfection Consists In The Observance Of The Commandments Or Of The Counsels?
 
-On the contrary, It is written (Dt. 6:5): "Thou shalt love the Lord thy God with thy whole heart," and (Lev. 19:18): "Thou shalt love thy neighbor [Vulg.: 'friend'] as thyself"; and these are the commandments of which our Lord said (Mat. 22:40): "On these two commandments dependeth the whole law and the prophets." Now the perfection of charity, in respect of which the Christian life is said to be perfect, consists in our loving God with our whole heart, and our neighbor as ourselves. Therefore it would seem that perfection consists in the observance of the precepts.
+**Objections**
 
----
+Objection 1: It would seem that, in this life, perfection consists in the observance not of the commandments but of the counsels. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast, and give to the poor . . . and come, follow Me." Now this is a counsel. Therefore perfection regards the counsels and not the precepts.
+
+Objection 2: Further, all are bound to the observance of the commandments, since this is necessary for salvation. Therefore, if the perfection of the Christian life consists in observing the commandments, it follows that perfection is necessary for salvation, and that all are bound thereto; and this is evidently false.
+
+Objection 3: Further, the perfection of the Christian life is gauged according to charity, as stated above [3756](A[1]). Now the perfection of charity, seemingly, does not consist in the observance of the commandments, since the perfection of charity is preceded both by its increase and by its beginning, as Augustine says (Super Canonic. Joan. Tract. ix). But the beginning of charity cannot precede the observance of the commandments, since according to Jn. 14:23, "If any one love Me, he will keep My word." Therefore the perfection of life regards not the commandments but the counsels.
+
+**Answer**
+
+On the contrary, It is written (Dt. 6:5): "Thou shalt love the Lord thy God with thy whole heart," and (Lev. 19:18): "Thou shalt love thy neighbor [Vulg.: 'friend'] as thyself"; and these are the commandments of which our Lord said (Mat. 22:40): "On these two commandments dependeth the whole law and the prophets." Now the perfection of charity, in respect of which the Christian life is said to be perfect, consists in our loving God with our whole heart, and our neighbor as ourselves. Therefore it would seem that perfection consists in the observance of the precepts.
 
 I answer that, Perfection is said to consist in a thing in two ways: in one way, primarily and essentially; in another, secondarily and accidentally. Primarily and essentially the perfection of the Christian life consists in charity, principally as to the love of God, secondarily as to the love of our neighbor, both of which are the matter of the chief commandments of the Divine law, as stated above. Now the love of God and of our neighbor is not commanded according to a measure, so that what is in excess of the measure be a matter of counsel. This is evident from the very form of the commandment, pointing, as it does, to perfection---for instance in the words, "Thou shalt love the Lord thy God with thy whole heart": since "the whole" is the same as "the perfect," according to the Philosopher (Phys. iii, 6), and in the words, "Thou shalt love thy neighbor as thyself," since every one loves himself most. The reason of this is that "the end of the commandment is charity," according to the Apostle (1 Tim. 1:5); and the end is not subject to a measure, but only such things as are directed to the end, as the Philosopher observes (Polit. i, 3); thus a physician does not measure the amount of his healing, but how much medicine or diet he shall employ for the purpose of healing. Consequently it is evident that perfection consists essentially in the observance of the commandments; wherefore Augustine says (De Perf. Justit. viii): "Why then should not this perfection be prescribed to man, although no man has it in this life?"
 
 Secondarily and instrumentally, however, perfection consists in the observance of the counsels, all of which, like the commandments, are directed to charity; yet not in the same way. For the commandments, other than the precepts of charity, are directed to the removal of things contrary to charity, with which, namely, charity is incompatible, whereas the counsels are directed to the removal of things that hinder the act of charity, and yet are not contrary to charity, such as marriage, the occupation of worldly business, and so forth. Hence Augustine says (Enchiridion cxxi): "Whatever things God commands, for instance, 'Thou shalt not commit adultery,' and whatever are not commanded, yet suggested by a special counsel, for instance, 'It is good for a man not to touch a woman,' are then done aright when they are referred to the love of God, and of our neighbor for God's sake, both in this world and in the world to come." Hence it is that in the Conferences of the Fathers (Coll. i, cap. vii) the abbot Moses says: "Fastings, watchings, meditating on the Scriptures, penury and loss of all one's wealth, these are not perfection but means to perfection, since not in them does the school of perfection find its end, but through them it achieves its end," and he had already said that "we endeavor to ascend by these steps to the perfection of charity."
 
----
-
-Objection 1: It would seem that, in this life, perfection consists in the observance not of the commandments but of the counsels. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast, and give to the poor . . . and come, follow Me." Now this is a counsel. Therefore perfection regards the counsels and not the precepts.
+**Replies**
 
 Reply to Objection 1: In this saying of our Lord something is indicated as being the way to perfection by the words, "Go, sell all thou hast, and give to the poor"; and something else is added wherein perfection consists, when He said, "And follow Me." Hence Jerome in his commentary on Mat. 19:27, says that "since it is not enough merely to leave, Peter added that which is perfect: 'And have followed Thee'"; and Ambrose, commenting on Lk. 5:27, "Follow Me," says: "He commands him to follow, not with steps of the body, but with devotion of the soul, which is the effect of charity." Wherefore it is evident from the very way of speaking that the counsels are means of attaining to perfection, since it is thus expressed: "If thou wilt be perfect, go, sell," etc., as though He said: "By so doing thou shalt accomplish this end."
 
----
-
-Objection 2: Further, all are bound to the observance of the commandments, since this is necessary for salvation. Therefore, if the perfection of the Christian life consists in observing the commandments, it follows that perfection is necessary for salvation, and that all are bound thereto; and this is evidently false.
-
 Reply to Objection 2: As Augustine says (De Perf. Justit. viii) "the perfection of charity is prescribed to man in this life, because one runs not right unless one knows whither to run. And how shall we know this if no commandment declares it to us?" And since that which is a matter of precept can be fulfilled variously, one does not break a commandment through not fulfilling it in the best way, but it is enough to fulfil it in any way whatever. Now the perfection of Divine love is a matter of precept for all without exception, so that even the perfection of heaven is not excepted from this precept, as Augustine says (De Perf. Justit. viii [*Cf. De Spir. et Lit. XXXVI]), and one escapes transgressing the precept, in whatever measure one attains to the perfection of Divine love. The lowest degree of Divine love is to love nothing more than God, or contrary to God, or equally with God, and whoever fails from this degree of perfection nowise fulfils the precept. There is another degree of the Divine love, which cannot be fulfilled so long as we are on the way, as stated above [3757](A[2]), and it is evident that to fail from this is not to be a transgressor of the precept; and in like manner one does not transgress the precept, if one does not attain to the intermediate degrees of perfection, provided one attain to the lowest.
-
----
-
-Objection 3: Further, the perfection of the Christian life is gauged according to charity, as stated above [3756](A[1]). Now the perfection of charity, seemingly, does not consist in the observance of the commandments, since the perfection of charity is preceded both by its increase and by its beginning, as Augustine says (Super Canonic. Joan. Tract. ix). But the beginning of charity cannot precede the observance of the commandments, since according to Jn. 14:23, "If any one love Me, he will keep My word." Therefore the perfection of life regards not the commandments but the counsels.
 
 Reply to Objection 3: Just as man has a certain perfection of his nature as soon as he is born, which perfection belongs to the very essence of his species, while there is another perfection which he acquires by growth, so again there is a perfection of charity which belongs to the very essence of charity, namely that man love God above all things, and love nothing contrary to God, while there is another perfection of charity even in this life, whereto a man attains by a kind of spiritual growth, for instance when a man refrains even from lawful things, in order more freely to give himself to the service of God.
 
 ### Whether Whoever Is Perfect Is In The State Of Perfection?
 
-On the contrary, Some are in the state of perfection, who are wholly lacking in charity and grace, for instance wicked bishops or religious. Therefore it would seem that on the other hand some have the perfection of life, who nevertheless have not the state of perfection.
+**Objections**
 
----
+Objection 1: It would seem that whoever is perfect is in the state of perfection. For, as stated above (A[3], ad 3), just as bodily perfection is reached by bodily growth, so spiritual perfection is acquired by spiritual growth. Now after bodily growth one is said to have reached the state of perfect age. Therefore seemingly also after spiritual growth, when one has already reached spiritual perfection, one is in the state of perfection.
+
+Objection 2: Further, according to Phys. v, 2, movement "from one contrary to another" has the same aspect as "movement from less to more." Now when a man is changed from sin to grace, he is said to change his state, in so far as the state of sin differs from the state of grace. Therefore it would seem that in the same manner, when one progresses from a lesser to a greater grace, so as to reach the perfect degree, one is in the state of perfection.
+
+Objection 3: Further, a man acquires a state by being freed from servitude. But one is freed from the servitude of sin by charity, because "charity covereth all sins" (Prov. 10:12). Now one is said to be perfect on account of charity, as stated above [3758](A[1]). Therefore, seemingly, whoever has perfection, for this very reason has the state of perfection.
+
+**Answer**
+
+On the contrary, Some are in the state of perfection, who are wholly lacking in charity and grace, for instance wicked bishops or religious. Therefore it would seem that on the other hand some have the perfection of life, who nevertheless have not the state of perfection.
 
 I answer that, As stated above ([3759]Q[183], A[1]), state properly regards a condition of freedom or servitude. Now spiritual freedom or servitude may be considered in man in two ways: first, with respect to his internal actions; secondly, with respect to his external actions. And since according to 1 Kings 16:7, "man seeth those things that appear, but the Lord beholdeth the heart," it follows that with regard to man's internal disposition we consider his spiritual state in relation to the Divine judgment, while with regard to his external actions we consider man's spiritual state in relation to the Church. It is in this latter sense that we are now speaking of states, namely in so far as the Church derives a certain beauty from the variety of states [*Cf.[3760] Q[183], A[2]].
 
@@ -230,111 +224,109 @@ Now it must be observed, that so far as men are concerned, in order that any one
 
 Accordingly, properly speaking, one is said to be in the state of perfection, not through having the act of perfect love, but through binding himself in perpetuity and with a certain solemnity to those things that pertain to perfection. Moreover it happens that some persons bind themselves to that which they do not keep, and some fulfil that to which they have not bound themselves, as in the case of the two sons (Mat. 21:28, 30), one of whom when his father said: "Work in my vineyard," answered: "I will not," and "afterwards . . . he went," while the other "answering said: I go . . . and he went not." Wherefore nothing hinders some from being perfect without being in the state of perfection, and some in the state of perfection without being perfect.
 
----
-
-Objection 1: It would seem that whoever is perfect is in the state of perfection. For, as stated above (A[3], ad 3), just as bodily perfection is reached by bodily growth, so spiritual perfection is acquired by spiritual growth. Now after bodily growth one is said to have reached the state of perfect age. Therefore seemingly also after spiritual growth, when one has already reached spiritual perfection, one is in the state of perfection.
+**Replies**
 
 Reply to Objection 1: By bodily growth a man progresses in things pertaining to nature, wherefore he attains to the state of nature; especially since "what is according to nature is," in a way, "unchangeable" [*Ethic. v, 7], inasmuch as nature is determinate to one thing. In like manner by inward spiritual growth a man reaches the state of perfection in relation to the Divine judgment. But as regards the distinctions of ecclesiastical states, a man does not reach the state of perfection except by growth in respect of external actions.
 
----
-
-Objection 2: Further, according to Phys. v, 2, movement "from one contrary to another" has the same aspect as "movement from less to more." Now when a man is changed from sin to grace, he is said to change his state, in so far as the state of sin differs from the state of grace. Therefore it would seem that in the same manner, when one progresses from a lesser to a greater grace, so as to reach the perfect degree, one is in the state of perfection.
-
 Reply to Objection 2: This argument also regards the interior state. Yet when a man passes from sin to grace, he passes from servitude to freedom; and this does not result from a mere progress in grace, except when a man binds himself to things pertaining to grace.
-
----
-
-Objection 3: Further, a man acquires a state by being freed from servitude. But one is freed from the servitude of sin by charity, because "charity covereth all sins" (Prov. 10:12). Now one is said to be perfect on account of charity, as stated above [3758](A[1]). Therefore, seemingly, whoever has perfection, for this very reason has the state of perfection.
 
 Reply to Objection 3: Again this argument considers the interior state. Nevertheless, although charity causes the change of condition from spiritual servitude to spiritual freedom, an increase of charity has not the same effect.
 
 ### Whether Religious And Prelates Are In The State Of Perfection?
 
-On the contrary, Dionysius (Eccl. Hier. v) ascribes perfection to bishops as being perfecters, and (Eccl. Hier. vi) to religious (whom he calls monks or {therapeutai}, i.e. servants of God) as being perfected.
+**Objections**
 
----
+Objection 1: It would seem that prelates and religious are not in the state of perfection. For the state of perfection differs from the state of the beginners and the proficient. Now no class of men is specially assigned to the state of the proficient or of the beginners. Therefore it would seem that neither should any class of men be assigned to the state of perfection.
+
+Objection 2: Further, the outward state should answer to the inward, else one is guilty of lying, "which consists not only in false words, but also in deceitful deeds," according to Ambrose in one of his sermons (xxx de Tempore). Now there are many prelates and religious who have not the inward perfection of charity. Therefore, if all religious and prelates are in the state of perfection, it would follow that all of them that are not perfect are in mortal sin, as deceivers and liars.
+
+Objection 3: Further, as stated above [3761](A[1]), perfection is measured according to charity. Now the most perfect charity would seem to be in the martyrs, according to Jn. 15:13, "Greater love than this no man hath, that a man lay down his life for his friends": and a gloss on Heb. 12:4, "For you have not yet resisted unto blood," says: "In this life no love is more perfect than that to which the holy martyrs attained, who strove against sin even unto blood." Therefore it would seem that the state of perfection should be ascribed to the martyrs rather than to religious and bishops.
+
+**Answer**
+
+On the contrary, Dionysius (Eccl. Hier. v) ascribes perfection to bishops as being perfecters, and (Eccl. Hier. vi) to religious (whom he calls monks or {therapeutai}, i.e. servants of God) as being perfected.
 
 I answer that, As stated above [3762](A[4]), there is required for the state of perfection a perpetual obligation to things pertaining to perfection, together with a certain solemnity. Now both these conditions are competent to religious and bishops. For religious bind themselves by vow to refrain from worldly affairs, which they might lawfully use, in order more freely to give themselves to God, wherein consists the perfection of the present life. Hence Dionysius says (Eccl. Hier. vi), speaking of religious: "Some call them {therapeutai}," i.e. servants, "on account of their rendering pure service and homage to God; others call them {monachoi}" [*i.e. solitaries; whence the English word 'monk'], "on account of the indivisible and single-minded life which by their being wrapped in," i.e. contemplating, "indivisible things, unites them in a Godlike union and a perfection beloved of God" [*Cf. Q[180], A[6]]. Moreover, the obligation in both cases is undertaken with a certain solemnity of profession and consecration; wherefore Dionysius adds (Eccl. Hier. vi): "Hence the holy legislation in bestowing perfect grace on them accords them a hallowing invocation."
 
 In like manner bishops bind themselves to things pertaining to perfection when they take up the pastoral duty, to which it belongs that a shepherd "lay down his life for his sheep," according to Jn. 10:15. Wherefore the Apostle says (1 Tim. 6:12): "Thou . . . hast confessed a good confession before many witnesses," that is to say, "when he was ordained," as a gloss says on this passage. Again, a certain solemnity of consecration is employed together with the aforesaid profession, according to 2 Tim. 1:6: "Stir up the grace of God which is in thee by the imposition of my hands," which the gloss ascribes to the grace of the episcopate. And Dionysius says (Eccl. Hier. v) that "when the high priest," i.e. the bishop, "is ordained, he receives on his head the most holy imposition of the sacred oracles, whereby it is signified that he is a participator in the whole and entire hierarchical power, and that not only is he the enlightener in all things pertaining to his holy discourses and actions, but that he also confers this on others."
 
----
-
-Objection 1: It would seem that prelates and religious are not in the state of perfection. For the state of perfection differs from the state of the beginners and the proficient. Now no class of men is specially assigned to the state of the proficient or of the beginners. Therefore it would seem that neither should any class of men be assigned to the state of perfection.
+**Replies**
 
 Reply to Objection 1: Beginning and increase are sought not for their own sake, but for the sake of perfection; hence it is only to the state of perfection that some are admitted under certain obligations and with solemnity.
 
----
-
-Objection 2: Further, the outward state should answer to the inward, else one is guilty of lying, "which consists not only in false words, but also in deceitful deeds," according to Ambrose in one of his sermons (xxx de Tempore). Now there are many prelates and religious who have not the inward perfection of charity. Therefore, if all religious and prelates are in the state of perfection, it would follow that all of them that are not perfect are in mortal sin, as deceivers and liars.
-
 Reply to Objection 2: Those who enter the state of perfection do not profess to be perfect, but to tend to perfection. Hence the Apostle says (Phil. 3:12): "Not as though I had already attained, or were already perfect; but I follow after, if I may by any means apprehend": and afterwards (Phil. 3:15): "Let us therefore as many as are perfect, be thus minded." Hence a man who takes up the state of perfection is not guilty of lying or deceit through not being perfect, but through withdrawing his mind from the intention of reaching perfection.
-
----
-
-Objection 3: Further, as stated above [3761](A[1]), perfection is measured according to charity. Now the most perfect charity would seem to be in the martyrs, according to Jn. 15:13, "Greater love than this no man hath, that a man lay down his life for his friends": and a gloss on Heb. 12:4, "For you have not yet resisted unto blood," says: "In this life no love is more perfect than that to which the holy martyrs attained, who strove against sin even unto blood." Therefore it would seem that the state of perfection should be ascribed to the martyrs rather than to religious and bishops.
 
 Reply to Objection 3: Martyrdom is the most perfect act of charity. But an act of perfection does not suffice to make the state of perfection, as stated above [3763](A[4]).
 
 ### Whether All Ecclesiastical Prelates Are In The State Of Perfection?
 
-On the contrary, Dionysius says (Eccl. Hier. v): "The order of pontiffs is consummative and perfecting, that of the priests is illuminative and light-giving, that of the ministers is cleansing and discretive." Hence it is evident that perfection is ascribed to bishops only.
+**Objections**
 
----
+Objection 1: It would seem that all ecclesiastical prelates are in a state of perfection. For Jerome commenting on Titus 1:5, "Ordain . . . in every city," etc. says: "Formerly priest was the same as bishop," and afterwards he adds: "Just as priests know that by the custom of the Church they are subject to the one who is placed over them, so too, bishops should recognize that, by custom rather than by the very ordinance of our Lord, they are above the priests, and are together the rightful governors of the Church." Now bishops are in the state of perfection. Therefore those priests also are who have the cure of souls.
+
+Objection 2: Further, just as bishops together with their consecration receive the cure of souls, so also do parish priests and archdeacons, of whom a gloss on Acts 6:3, "Brethren, look ye out . . . seven men of good reputation," says: "The apostles decided here to appoint throughout the Church seven deacons, who were to be of a higher degree, and as it were the supports of that which is nearest to the altar." Therefore it would seem that these also are in the state of perfection.
+
+Objection 3: Further, just as bishops are bound to "lay down their life for their sheep," so too are parish priests and archdeacons. But this belongs to the perfection of charity, as stated above (A[2], ad 3). Therefore it would seem that parish priests and archdeacons also are in the state of perfection.
+
+**Answer**
+
+On the contrary, Dionysius says (Eccl. Hier. v): "The order of pontiffs is consummative and perfecting, that of the priests is illuminative and light-giving, that of the ministers is cleansing and discretive." Hence it is evident that perfection is ascribed to bishops only.
 
 I answer that, In priests and deacons having cure of souls two things may be considered, namely their order and their cure. Their order is directed to some act in the Divine offices. Wherefore it has been stated above ([3764]Q[183], A[3], ad 3) that the distinction of orders is comprised under the distinction of offices. Hence by receiving a certain order a man receives the power of exercising certain sacred acts, but he is not bound on this account to things pertaining to perfection, except in so far as in the Western Church the receiving of a sacred order includes the taking of a vow of continence, which is one of the things pertaining to perfection, as we shall state further on ([3765]Q[186], A[4]). Therefore it is clear that from the fact that a man receives a sacred order a man is not placed simply in the state of perfection, although inward perfection is required in order that one exercise such acts worthily.
 
 In like manner, neither are they placed in the state of perfection on the part of the cure which they take upon themselves. For they are not bound by this very fact under the obligation of a perpetual vow to retain the cure of souls; but they can surrender it---either by entering religion, even without their bishop's permission (cf. Decret. xix, qu. 2, can. Duae sunt)---or again an archdeacon may with his bishop's permission resign his arch-deaconry or parish, and accept a simple prebend without cure, which would be nowise lawful, if he were in the state of perfection; for "no man putting his hand to the plough and looking back is fit for the kingdom of God" (Lk. 9:62). On the other hand bishops, since they are in the state of perfection, cannot abandon the episcopal cure, save by the authority of the Sovereign Pontiff (to whom alone it belongs also to dispense from perpetual vows), and this for certain causes, as we shall state further on ([3766]Q[185], A[4]). Wherefore it is manifest that not all prelates are in the state of perfection, but only bishops.
 
----
-
-Objection 1: It would seem that all ecclesiastical prelates are in a state of perfection. For Jerome commenting on Titus 1:5, "Ordain . . . in every city," etc. says: "Formerly priest was the same as bishop," and afterwards he adds: "Just as priests know that by the custom of the Church they are subject to the one who is placed over them, so too, bishops should recognize that, by custom rather than by the very ordinance of our Lord, they are above the priests, and are together the rightful governors of the Church." Now bishops are in the state of perfection. Therefore those priests also are who have the cure of souls.
+**Replies**
 
 Reply to Objection 1: We may speak of priest and bishop in two ways. First, with regard to the name: and thus formerly bishops and priests were not distinct. For bishops are so called "because they watch over others," as Augustine observes (De Civ. Dei xix, 19); while the priests according to the Greek are "elders." [*Referring to the Greek {episkopos} and {presbyteros} from which the English 'bishop' and 'priest' are derived.] Hence the Apostle employs the term "priests" in reference to both, when he says (1 Tim. 5:17): "Let the priests that rule well be esteemed worthy of double honor"; and again he uses the term "bishops" in the same way, wherefore addressing the priests of the Church of Ephesus he says (Acts 20:28): "Take heed to yourselves" and "to the whole flock, wherein the Holy Ghost hath placed you bishops, to rule the church of God."
 
----
-
-Objection 2: Further, just as bishops together with their consecration receive the cure of souls, so also do parish priests and archdeacons, of whom a gloss on Acts 6:3, "Brethren, look ye out . . . seven men of good reputation," says: "The apostles decided here to appoint throughout the Church seven deacons, who were to be of a higher degree, and as it were the supports of that which is nearest to the altar." Therefore it would seem that these also are in the state of perfection.
-
 Reply to Objection 2: Bishops have the chief cure of the sheep of their diocese, while parish priests and archdeacons exercise an inferior ministry under the bishops. Hence a gloss on 1 Cor. 12:28, "to one, helps, to another, governments [*Vulg.: 'God hath set some in the church . . . helps, governments,' etc.]," says: "Helps, namely assistants to those who are in authority," as Titus was to the Apostle, or as archdeacons to the bishop; "governments, namely persons of lesser authority, such as priests who have to instruct the people": and Dionysius says (Eccl. Hier. v) that "just as we see the whole hierarchy culminating in Jesus, so each office culminates in its respective godlike hierarch or bishop." Also it is said (XVI, qu. i, can. Cunctis): "Priests and deacons must all take care not to do anything without their bishop's permission." Wherefore it is evident that they stand in relation to their bishop as wardens or mayors to the king; and for this reason, just as in earthly governments the king alone receives a solemn blessing, while others are appointed by simple commission, so too in the Church the episcopal cure is conferred with the solemnity of consecration, while the archdeacon or parish priest receives his cure by simple appointment; although they are consecrated by receiving orders before having a cure.
-
----
-
-Objection 3: Further, just as bishops are bound to "lay down their life for their sheep," so too are parish priests and archdeacons. But this belongs to the perfection of charity, as stated above (A[2], ad 3). Therefore it would seem that parish priests and archdeacons also are in the state of perfection.
 
 Reply to Objection 3: As parish priests and archdeacons have not the chief cure, but a certain ministry as committed to them by the bishop, so the pastoral office does not belong to them in chief, nor are they bound to lay down their life for the sheep, except in so far as they have a share in their cure. Hence we should say that they have an office pertaining to perfection rather than that they attain the state of perfection.
 
 ### Whether The Religious State Is More Perfect Than That Of Prelates?
 
-On the contrary, It is not lawful for anyone to pass from a more excellent to a less excellent state; for this would be to look back [*Cf. Lk. 9:62]. Yet a man may pass from the religious to the episcopal state, for it is said (XVIII, qu. i, can. Statutum) that "the holy ordination makes a monk to be a bishop." Therefore the episcopal state is more perfect than the religious.
-
----
-
-I answer that, As Augustine says (Gen. ad lit. xii, 16), "the agent is ever more excellent than the patient." Now in the genus of perfection according to Dionysius (Eccl. Hier. v, vi), bishops are in the position of "perfecters," whereas religious are in the position of being "perfected"; the former of which pertains to action, and the latter to passion. Whence it is evident that the state of perfection is more excellent in bishops than in religious.
-
----
+**Objections**
 
 Objection 1: It would seem that the religious state is more perfect than that of prelates. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go" and "sell" all [Vulg.: 'what'] "thou hast, and give to the poor"; and religious do this. But bishops are not bound to do so; for it is said (XII, qu. i, can. Episcopi de rebus): "Bishops, if they wish, may bequeath to their heirs their personal or acquired property, and whatever belongs to them personally." Therefore religious are in a more perfect state than bishops.
 
-Reply to Objection 1: Renunciation of one's possessions may be considered in two ways. First, as being actual: and thus it is not essential, but a means, to perfection, as stated above [3767](A[3]). Hence nothing hinders the state of perfection from being without renunciation of one's possessions, and the same applies to other outward practices. Secondly, it may be considered in relation to one's preparedness, in the sense of being prepared to renounce or give away all: and this belongs directly to perfection. Hence Augustine says (De QQ. Evang. ii, qu. 11): "Our Lord shows that the children of wisdom understand righteousness to consist neither in eating nor in abstaining, but in bearing want patiently." Wherefore the Apostle says (Phil. 4:12): "I know . . . both to abound and to suffer need." Now bishops especially are bound to despise all things for the honor of God and the spiritual welfare of their flock, when it is necessary for them to do so, either by giving to the poor of their flock, or by suffering "with joy the being stripped of" their "own goods" [*Heb. 10:34].
-
----
-
 Objection 2: Further, perfection consists more especially in the love of God than in the love of our neighbor. Now the religious state is directly ordered to the love of God, wherefore it takes its name from "service and homage to God," as Dionysius says (Eccl. Hier. vi); [*Quoted above A[5]] whereas the bishop's state would seem to be ordered to the love of our neighbor, of whose cure he is the "warden," and from this he takes his name, as Augustine observes (De Civ. Dei. xix, 19). Therefore it would seem that the religious state is more perfect than that of bishops.
 
-Reply to Objection 2: That bishops are busy about things pertaining to the love of their neighbor, arises out of the abundance of their love of God. Hence our Lord asked Peter first of all whether he loved Him, and afterwards committed the care of His flock to him. And Gregory says (Pastor. i, 5): "If the pastoral care is a proof of love, he who refuses to feed God's flock, though having the means to do so, is convicted of not loving the supreme Pastor." And it is a sign of greater love if a man devotes himself to others for his friend's sake, than if he be willing only to serve his friend.
-
----
-
 Objection 3: Further, the religious state is directed to the contemplative life, which is more excellent than the active life to which the episcopal state is directed. For Gregory says (Pastor. i, 7) that "Isaias wishing to be of profit to his neighbor by means of the active life desired the office of preaching, whereas Jeremias, who was fain to hold fast to the love of his Creator, exclaimed against being sent to preach." Therefore it would seem that the religious state is more perfect than the episcopal state.
+
+**Answer**
+
+On the contrary, It is not lawful for anyone to pass from a more excellent to a less excellent state; for this would be to look back [*Cf. Lk. 9:62]. Yet a man may pass from the religious to the episcopal state, for it is said (XVIII, qu. i, can. Statutum) that "the holy ordination makes a monk to be a bishop." Therefore the episcopal state is more perfect than the religious.
+
+I answer that, As Augustine says (Gen. ad lit. xii, 16), "the agent is ever more excellent than the patient." Now in the genus of perfection according to Dionysius (Eccl. Hier. v, vi), bishops are in the position of "perfecters," whereas religious are in the position of being "perfected"; the former of which pertains to action, and the latter to passion. Whence it is evident that the state of perfection is more excellent in bishops than in religious.
+
+**Replies**
+
+Reply to Objection 1: Renunciation of one's possessions may be considered in two ways. First, as being actual: and thus it is not essential, but a means, to perfection, as stated above [3767](A[3]). Hence nothing hinders the state of perfection from being without renunciation of one's possessions, and the same applies to other outward practices. Secondly, it may be considered in relation to one's preparedness, in the sense of being prepared to renounce or give away all: and this belongs directly to perfection. Hence Augustine says (De QQ. Evang. ii, qu. 11): "Our Lord shows that the children of wisdom understand righteousness to consist neither in eating nor in abstaining, but in bearing want patiently." Wherefore the Apostle says (Phil. 4:12): "I know . . . both to abound and to suffer need." Now bishops especially are bound to despise all things for the honor of God and the spiritual welfare of their flock, when it is necessary for them to do so, either by giving to the poor of their flock, or by suffering "with joy the being stripped of" their "own goods" [*Heb. 10:34].
+
+Reply to Objection 2: That bishops are busy about things pertaining to the love of their neighbor, arises out of the abundance of their love of God. Hence our Lord asked Peter first of all whether he loved Him, and afterwards committed the care of His flock to him. And Gregory says (Pastor. i, 5): "If the pastoral care is a proof of love, he who refuses to feed God's flock, though having the means to do so, is convicted of not loving the supreme Pastor." And it is a sign of greater love if a man devotes himself to others for his friend's sake, than if he be willing only to serve his friend.
 
 Reply to Objection 3: As Gregory says (Pastor. ii, 1), "a prelate should be foremost in action, and more uplifted than others in contemplation," because it is incumbent on him to contemplate, not only for his own sake, but also for the purpose of instructing others. Hence Gregory applies (Hom. v in Ezech.) the words of Ps. 144:7, "They shall publish the memory . . . of Thy sweetness," to perfect men returning after their contemplation.
 
 ### Whether Parish Priests And Archdeacons Are More Perfect Than Religious?
 
-On the contrary, It is stated (XIX, qu. ii, cap. Duce): "If a man while governing the people in his church under the bishop and leading a secular life is inspired by the Holy Ghost to desire to work out his salvation in a monastery or under some canonical rule, since he is led by a private law, there is no reason why he should be constrained by a public law." Now a man is not led by the law of the Holy Ghost, which is here called a "private law," except to something more perfect. Therefore it would seem that religious are more perfect than archdeacons or parish priests.
+**Objections**
 
----
+Objection 1: It would seem that also parish priests and archdeacons are more perfect than religious. For Chrysostom says in his Dialogue (De Sacerdot. vi): "Take for example a monk, such as Elias, if I may exaggerate somewhat, he is not to be compared with one who, cast among the people and compelled to carry the sins of many, remains firm and strong." A little further on he says: "If I were given the choice, where would I prefer to please, in the priestly office, or in the monastic solitude, without hesitation I should choose the former." Again in the same book (ch. 5) he says: "If you compare the toils of this project, namely of the monastic life, with a well-employed priesthood, you will find them as far distant from one another as a common citizen is from a king." Therefore it would seem that priests who have the cure of souls are more perfect than religious.
+
+Objection 2: Further, Augustine says (ad Valerium, Ep. xxi): "Let thy religious prudence observe that in this life, and especially at these times, there is nothing so difficult, so onerous, so perilous as the office of bishop, priest, or deacon; while in God's sight there is no greater blessing, if one engage in the fight as ordered by our Commander-in-chief." Therefore religious are not more perfect than priests or deacons.
+
+Objection 3: Further, Augustine says (Ep. lx, ad Aurel.): "It would be most regrettable, were we to exalt monks to such a disastrous degree of pride, and deem the clergy deserving of such a grievous insult," as to assert that 'a bad monk is a good clerk,' "since sometimes even a good monk makes a bad clerk." And a little before this he says that "God's servants," i.e. monks, "must not be allowed to think that they may easily be chosen for something better," namely the clerical state, "if they should become worse thereby," namely by leaving the monastic state. Therefore it would seem that those who are in the clerical state are more perfect than religious.
+
+Objection 4: Further, it is not lawful to pass from a more perfect to a less perfect state. Yet it is lawful to pass from the monastic state to a priestly office with a cure attached, as appears (XVI, qu. i, can. Si quis monachus) from a decree of Pope Gelasius, who says: "If there be a monk, who by the merit of his exemplary life is worthy of the priesthood, and the abbot under whose authority he fights for Christ his King, ask that he be made a priest, the bishop shall take him and ordain him in such place as he shall choose fitting." And Jerome says (Ad Rustic. Monach., Ep. cxxv): "In the monastery so live as to deserve to be a clerk." Therefore parish priests and archdeacons are more perfect than religious.
+
+Objection 5: Further, bishops are in a more perfect state than religious, as shown above [3768](A[7]). But parish priests and archdeacons. through having cure of souls, are more like bishops than religious are. Therefore they are more perfect.
+
+Objection 6: Further, virtue "is concerned with the difficult and the good" (Ethic. ii, 3). Now it is more difficult to lead a good life in the office of parish priest or archdeacon than in the religious state. Therefore parish priests and archdeacons have more perfect virtue than religious.
+
+**Answer**
+
+On the contrary, It is stated (XIX, qu. ii, cap. Duce): "If a man while governing the people in his church under the bishop and leading a secular life is inspired by the Holy Ghost to desire to work out his salvation in a monastery or under some canonical rule, since he is led by a private law, there is no reason why he should be constrained by a public law." Now a man is not led by the law of the Holy Ghost, which is here called a "private law," except to something more perfect. Therefore it would seem that religious are more perfect than archdeacons or parish priests.
 
 I answer that, When we compare things in the point of super-eminence, we look not at that in which they agree, but at that wherein they differ. Now in parish priests and archdeacons three things may be considered, their state, their order, and their office. It belongs to their state that they are seculars, to their order that they are priests or deacons, to their office that they have the cure of souls committed to them.
 
@@ -346,39 +338,17 @@ This comparison, however, must be considered as regarding the genus of the deed;
 
 On the other hand, if we consider the difficulty of leading a good life in religion, and in the office of one having the cure of souls, in this way it is more difficult to lead a good life together with the exercise of the cure of souls, on account of outward dangers: although the religious life is more difficult as regards the genus of the deed, by reason of the strictness of religious observance. If, however, the religious is also without orders, as in the case of religious lay brethren, then it is evident that the pre-eminence of order excels in the point of dignity, since by holy orders a man is appointed to the most august ministry of serving Christ Himself in the sacrament of the altar. For this requires a greater inward holiness than that which is requisite for the religious state, since as Dionysius says (Eccl. Hier. vi) the monastic order must follow the priestly orders, and ascend to Divine things in imitation of them. Hence, other things being equal, a cleric who is in holy orders, sins more grievously if he do something contrary to holiness than a religious who is not in holy orders: although a religious who is not in orders is bound to regular observance to which persons in holy orders are not bound.
 
----
-
-Objection 1: It would seem that also parish priests and archdeacons are more perfect than religious. For Chrysostom says in his Dialogue (De Sacerdot. vi): "Take for example a monk, such as Elias, if I may exaggerate somewhat, he is not to be compared with one who, cast among the people and compelled to carry the sins of many, remains firm and strong." A little further on he says: "If I were given the choice, where would I prefer to please, in the priestly office, or in the monastic solitude, without hesitation I should choose the former." Again in the same book (ch. 5) he says: "If you compare the toils of this project, namely of the monastic life, with a well-employed priesthood, you will find them as far distant from one another as a common citizen is from a king." Therefore it would seem that priests who have the cure of souls are more perfect than religious.
+**Replies**
 
 Reply to Objection 1: We might answer briefly these quotations from Chrysostom by saying that he speaks not of a priest of lesser order who has the cure of souls, but of a bishop, who is called a high-priest; and this agrees with the purpose of that book wherein he consoles himself and Basil in that they were chosen to be bishops. We may, however, pass this over and reply that he speaks in view of the difficulty. For he had already said: "When the pilot is surrounded by the stormy sea and is able to bring the ship safely out of the tempest, then he deserves to be acknowledged by all as a perfect pilot"; and afterwards he concludes, as quoted, with regard to the monk, "who is not to be compared with one who, cast among the people . . . remains firm"; and he gives the reason why, because "both in the calm end in the storm he piloted himself to safety." This proves nothing more than that the state of one who has the cure of souls is fraught with more danger than the monastic state; and to keep oneself innocent in face of a greater peril is proof of greater virtue. on the other hand, it also indicates greatness of virtue if a man avoid dangers by entering religion; hence he does not say that "he would prefer the priestly office to the monastic solitude," but that "he would rather please" in the former than in the latter, since this is a proof of greater virtue.
 
----
-
-Objection 2: Further, Augustine says (ad Valerium, Ep. xxi): "Let thy religious prudence observe that in this life, and especially at these times, there is nothing so difficult, so onerous, so perilous as the office of bishop, priest, or deacon; while in God's sight there is no greater blessing, if one engage in the fight as ordered by our Commander-in-chief." Therefore religious are not more perfect than priests or deacons.
-
 Reply to Objection 2: This passage quoted from Augustine also clearly refers to the question of difficulty which proves the greatness of virtue in those who lead a good life, as stated above (ad 1).
-
----
-
-Objection 3: Further, Augustine says (Ep. lx, ad Aurel.): "It would be most regrettable, were we to exalt monks to such a disastrous degree of pride, and deem the clergy deserving of such a grievous insult," as to assert that 'a bad monk is a good clerk,' "since sometimes even a good monk makes a bad clerk." And a little before this he says that "God's servants," i.e. monks, "must not be allowed to think that they may easily be chosen for something better," namely the clerical state, "if they should become worse thereby," namely by leaving the monastic state. Therefore it would seem that those who are in the clerical state are more perfect than religious.
 
 Reply to Objection 3: Augustine there compares monks with clerics as regards the pre-eminence of order, not as regards the distinction between religious and secular life.
 
----
-
-Objection 4: Further, it is not lawful to pass from a more perfect to a less perfect state. Yet it is lawful to pass from the monastic state to a priestly office with a cure attached, as appears (XVI, qu. i, can. Si quis monachus) from a decree of Pope Gelasius, who says: "If there be a monk, who by the merit of his exemplary life is worthy of the priesthood, and the abbot under whose authority he fights for Christ his King, ask that he be made a priest, the bishop shall take him and ordain him in such place as he shall choose fitting." And Jerome says (Ad Rustic. Monach., Ep. cxxv): "In the monastery so live as to deserve to be a clerk." Therefore parish priests and archdeacons are more perfect than religious.
-
 Reply to Objection 4: Those who are taken from the religious state to receive the cure of souls, being already in sacred orders, attain to something they had not hitherto, namely the office of the cure, yet they do not put aside what they had already. For it is said in the Decretals (XVI, qu. i, can. De Monachis): "With regard to those monks who after long residence in a monastery attain to the order of clerics, we bid them not to lay aside their former purpose."
 
----
-
-Objection 5: Further, bishops are in a more perfect state than religious, as shown above [3768](A[7]). But parish priests and archdeacons. through having cure of souls, are more like bishops than religious are. Therefore they are more perfect.
-
 Reply to Objection 5: Parish priests and archdeacons are more like bishops than religious are, in a certain respect, namely as regards the cure of souls which they have subordinately; but as regards the obligation in perpetuity, religious are more like a bishop, as appears from what we have said above ([3769]AA[5],6).
-
----
-
-Objection 6: Further, virtue "is concerned with the difficult and the good" (Ethic. ii, 3). Now it is more difficult to lead a good life in the office of parish priest or archdeacon than in the religious state. Therefore parish priests and archdeacons have more perfect virtue than religious.
 
 Reply to Objection 6: The difficulty that arises from the arduousness of the deed adds to the perfection of virtue; but the difficulty that results from outward obstacles sometimes lessens the perfection of virtue---for instance, when a man loves not virtue so much as to wish to avoid the obstacles to virtue, according to the saying of the Apostle (1 Cor. 9:25), "Everyone that striveth for the mastery refraineth himself from all things": and sometimes it is a sign of perfect virtue---for instance, when a man forsakes not virtue, although he is hindered in the practice of virtue unawares or by some unavoidable cause. In the religious state there is greater difficulty arising from the arduousness of deeds; whereas for those who in any way at all live in the world, there is greater difficulty resulting from obstacles to virtue, which obstacles the religious has had the foresight to avoid.
 
@@ -396,9 +366,19 @@ We must now consider things pertaining to the episcopal state. Under this head t
 
 ### Whether It Is Lawful To Desire The Office Of A Bishop?
 
-On the contrary, Augustine says (De Civ. Dei xix, 19): "The higher place, without which the people cannot be ruled, though it be filled becomingly, is unbecomingly desired."
+**Objections**
 
----
+Objection 1: It would seem that it is lawful to desire the office of a bishop. For the Apostle says (1 Tim. 3:1): "He that desires [Vulg.: 'If a man desire'] the office of a bishop, he desireth a good work." Now it is lawful and praiseworthy to desire a good work. Therefore it is even praiseworthy to desire the office of a bishop.
+
+Objection 2: Further, the episcopal state is more perfect than the religious, as we have said above ([3770]Q[184], A[7]). But it is praiseworthy to desire to enter the religious state. Therefore it is also praiseworthy to desire promotion to the episcopal state.
+
+Objection 3: Further, it is written (Prov. 11:26): "He that hideth up corn shall be cursed among the people; but a blessing upon the head of them that sell." Now a man who is apt, both in manner of life and by knowledge, for the episcopal office, would seem to hide up the spiritual corn, if he shun the episcopal state, whereas by accepting the episcopal office he enters the state of a dispenser of spiritual corn. Therefore it would seem praiseworthy to desire the office of a bishop, and blameworthy to refuse it.
+
+Objection 4: Further, the deeds of the saints related in Holy Writ are set before us as an example, according to Rom. 15:4, "What things soever were written, were written for our learning." Now we read (Is. 6:8) that Isaias offered himself for the office of preacher, which belongs chiefly to bishops. Therefore it would seem praiseworthy to desire the office of a bishop.
+
+**Answer**
+
+On the contrary, Augustine says (De Civ. Dei xix, 19): "The higher place, without which the people cannot be ruled, though it be filled becomingly, is unbecomingly desired."
 
 I answer that, Three things may be considered in the episcopal office. One is principal and final, namely the bishop's work, whereby the good of our neighbor is intended, according to Jn. 21:17, "Feed My sheep." Another thing is the height of degree, for a bishop is placed above others, according to Mat. 24:45, "A faithful and a wise servant, whom his lord hath appointed over his family." The third is something resulting from these, namely reverence, honor, and a sufficiency of temporalities, according to 1 Tim. 5:17, "Let the priests that rule well be esteemed worthy of double honor." Accordingly, to desire the episcopal office on account of these incidental goods is manifestly unlawful, and pertains to covetousness or ambition. Wherefore our Lord said against the Pharisees (Mat. 23:6,7): "They love the first places at feasts, and the first chairs in the synagogues, and salutations in the market-place, and to be called by men, Rabbi." As regards the second, namely the height of degree, it is presumptuous to desire the episcopal office. Hence our Lord reproved His disciples for seeking precedence, by saying to them (Mat. 20:25): "You know that the princes of the gentiles lord it over them." Here Chrysostom says (Hom. lxv in Matth.) that in these words "He points out that it is heathenish to seek precedence; and thus by comparing them to the gentiles He converted their impetuous soul."
 
@@ -406,63 +386,55 @@ On the other hand, to desire to do good to one's neighbor is in itself praisewor
 
 Nevertheless, anyone may, without presumption, desire to do such like works if he should happen to be in that office, or to be worthy of doing them; so that the object of his desire is the good work and not the precedence in dignity. Hence Chrysostom* says: "It is indeed good to desire a good work, but to desire the primacy of honor is vanity. For primacy seeks one that shuns it, and abhors one that desires it." [*The quotation is from the Opus Imperfectum in Matth. (Hom. xxxv), falsely ascribed to St. John Chrysostom.]
 
----
-
-Objection 1: It would seem that it is lawful to desire the office of a bishop. For the Apostle says (1 Tim. 3:1): "He that desires [Vulg.: 'If a man desire'] the office of a bishop, he desireth a good work." Now it is lawful and praiseworthy to desire a good work. Therefore it is even praiseworthy to desire the office of a bishop.
+**Replies**
 
 Reply to Objection 1: As Gregory says (Pastor. i, 8), "when the Apostle said this he who was set over the people was the first to be dragged to the torments of martyrdom," so that there was nothing to be desired in the episcopal office, save the good work. Wherefore Augustine says (De Civ. Dei xix, 19) that when the Apostle said, "'Whoever desireth the office of bishop, desireth a good work,' he wished to explain what the episcopacy is: for it denotes work and not honor: since {skopos} signifies 'watching.' Wherefore if we like we may render {episkopein} by the Latin 'superintendere' [to watch over]: thus a man may know himself to be no bishop if he loves to precede rather than to profit others." For, as he observed shortly before, "in our actions we should seek, not honor nor power in this life, since all things beneath the sun are vanity, but the work itself which that honor or power enables us to do." Nevertheless, as Gregory says (Pastor. i, 8), "while praising the desire" (namely of the good work) "he forthwith turns this object of praise into one of fear, when he adds: It behooveth . . . a bishop to be blameless," as though to say: "I praise what you seek, but learn first what it is you seek."
 
----
-
-Objection 2: Further, the episcopal state is more perfect than the religious, as we have said above ([3770]Q[184], A[7]). But it is praiseworthy to desire to enter the religious state. Therefore it is also praiseworthy to desire promotion to the episcopal state.
-
 Reply to Objection 2: There is no parity between the religious and the episcopal state, for two reasons. First, because perfection of life is a prerequisite of the episcopal state, as appears from our Lord asking Peter if he loved Him more than the others, before committing the pastoral office to him, whereas perfection is not a prerequisite of the religious state, since the latter is the way to perfection. Hence our Lord did not say (Mat. 19:21): "If thou art perfect, go, sell all [Vulg.: 'what'] thou hast," but "If thou wilt be perfect." The reason for this difference is because, according to Dionysius (Eccl. Hier. vi), perfection pertains actively to the bishop, as the "perfecter," but to the monk passively as one who is "perfected": and one needs to be perfect in order to bring others to perfection, but not in order to be brought to perfection. Now it is presumptuous to think oneself perfect, but it is not presumptuous to tend to perfection. Secondly, because he who enters the religious state subjects himself to others for the sake of a spiritual profit, and anyone may lawfully do this. Wherefore Augustine says (De Civ. Dei xix, 19): "No man is debarred from striving for the knowledge of truth, since this pertains to a praiseworthy ease." On the other hand, he who enters the episcopal state is raised up in order to watch over others, and no man should seek to be raised thus, according to Heb. 5:4, "Neither doth any man take the honor to himself, but he that is called by God": and Chrysostom says: "To desire supremacy in the Church is neither just nor useful. For what wise man seeks of his own accord to submit to such servitude and peril, as to have to render an account of the whole Church? None save him who fears not God's judgment, and makes a secular abuse of his ecclesiastical authority, by turning it to secular uses."
 
----
-
-Objection 3: Further, it is written (Prov. 11:26): "He that hideth up corn shall be cursed among the people; but a blessing upon the head of them that sell." Now a man who is apt, both in manner of life and by knowledge, for the episcopal office, would seem to hide up the spiritual corn, if he shun the episcopal state, whereas by accepting the episcopal office he enters the state of a dispenser of spiritual corn. Therefore it would seem praiseworthy to desire the office of a bishop, and blameworthy to refuse it.
-
 Reply to Objection 3: The dispensing of spiritual corn is not to be carried on in an arbitrary fashion, but chiefly according to the appointment and disposition of God, and in the second place according to the appointment of the higher prelates, in whose person it is said (1 Cor. 4:1): "Let a man so account of us as of the ministers of Christ, and the dispensers of the mysteries of God." Wherefore a man is not deemed to hide spiritual corn if he avoids governing or correcting others, and is not competent to do so, neither in virtue of his office nor of his superior's command; thus alone is he deemed to hide it, when he neglects to dispense it while under obligation to do so in virtue of his office, or obstinately refuses to accept the office when it is imposed on him. Hence Augustine says (De Civ. Dei xix, 19): "The love of truth seeks a holy leisure, the demands of charity undertake an honest labor. If no one imposes this burden upon us, we must devote ourselves to the research and contemplation of truth, but if it be imposed on us, we must bear it because charity demands it of us."
-
----
-
-Objection 4: Further, the deeds of the saints related in Holy Writ are set before us as an example, according to Rom. 15:4, "What things soever were written, were written for our learning." Now we read (Is. 6:8) that Isaias offered himself for the office of preacher, which belongs chiefly to bishops. Therefore it would seem praiseworthy to desire the office of a bishop.
 
 Reply to Objection 4: As Gregory says (Pastor. i, 7), "Isaias, who wishing to be sent, knew himself to be already cleansed by the live coal taken from the altar, shows us that no one should dare uncleansed to approach the sacred ministry. Since, then, it is very difficult for anyone to be able to know that he is cleansed, it is safer to decline the office of preacher."
 
 ### Whether It Is Lawful For A Man To Refuse Absolutely An Appointment To The Episcopate?
 
-On the contrary, Augustine says (Ep. xlviii ad Eudox.): "If Mother Church requires your service, neither accept with greedy conceit, nor refuse with fawning indolence"; and afterwards he adds: "Nor prefer your ease to the needs of the Church: for if no good men were willing to assist her in her labor, you would seek in vain how we could be born of her."
+**Objections**
 
----
+Objection 1: It would seem that it is lawful to refuse absolutely an appointment to the episcopate. For as Gregory says (Pastor. i, 7), "Isaias wishing to be of profit to his neighbor by means of the active life, desired the office of preaching, whereas Jeremias who was fain to hold fast to the love of his Creator by contemplation exclaimed against being sent to preach." Now no man sins by being unwilling to forgo better things in order to adhere to things that are not so good. Since then the love of God surpasses the love of our neighbor, and the contemplative life is preferable to the active, as shown above ([3771]Q[25], A[1];[3772] Q[26], A[2];[3773] Q[182], A[1]) it would seem that a man sins not if he refuse absolutely the episcopal office.
+
+Objection 2: Further, as Gregory says (Pastor. i, 7), "it is very difficult for anyone to be able to know that he is cleansed: nor should anyone uncleansed approach the sacred ministry." Therefore if a man perceives that he is not cleansed, however urgently the episcopal office be enjoined him, he ought not to accept it.
+
+Objection 3: Further, Jerome (Prologue, super Marc.) says that "it is related of the Blessed Mark* that after receiving the faith he cut off his thumb that he might be excluded from the priesthood." [*This prologue was falsely ascribed to St. Jerome, and the passage quoted refers, not to St. Mark the Evangelist, but to a hermit of that name. (Cf. Baronius, Anno Christi, 45, num. XLIV)] Likewise some take a vow never to accept a bishopric. Now to place an obstacle to a thing amounts to the same as refusing it altogether. Therefore it would seem that one may, without sin, refuse the episcopal office absolutely.
+
+**Answer**
+
+On the contrary, Augustine says (Ep. xlviii ad Eudox.): "If Mother Church requires your service, neither accept with greedy conceit, nor refuse with fawning indolence"; and afterwards he adds: "Nor prefer your ease to the needs of the Church: for if no good men were willing to assist her in her labor, you would seek in vain how we could be born of her."
 
 I answer that, Two things have to be considered in the acceptance of the episcopal office: first, what a man may fittingly desire according to his own will; secondly, what it behooves a man to do according to the will of another. As regards his own will it becomes a man to look chiefly to his own spiritual welfare, whereas that he look to the spiritual welfare of others becomes a man according to the appointment of another having authority, as stated above (A[1], ad 3). Hence just as it is a mark of an inordinate will that a man of his own choice incline to be appointed to the government of others, so too it indicates an inordinate will if a man definitively refuse the aforesaid office of government in direct opposition to the appointment of his superior: and this for two reasons.
 
 First, because this is contrary to the love of our neighbor, for whose good a man should offer himself according as place and time demand: hence Augustine says (De Civ. Dei xix, 19) that "the demands of charity undertake an honest labor." Secondly, because this is contrary to humility, whereby a man submits to his superior's commands: hence Gregory says (Pastor. i, 6): "In God's sight humility is genuine when it does not obstinately refuse to submit to what is usefully prescribed."
 
----
-
-Objection 1: It would seem that it is lawful to refuse absolutely an appointment to the episcopate. For as Gregory says (Pastor. i, 7), "Isaias wishing to be of profit to his neighbor by means of the active life, desired the office of preaching, whereas Jeremias who was fain to hold fast to the love of his Creator by contemplation exclaimed against being sent to preach." Now no man sins by being unwilling to forgo better things in order to adhere to things that are not so good. Since then the love of God surpasses the love of our neighbor, and the contemplative life is preferable to the active, as shown above ([3771]Q[25], A[1];[3772] Q[26], A[2];[3773] Q[182], A[1]) it would seem that a man sins not if he refuse absolutely the episcopal office.
+**Replies**
 
 Reply to Objection 1: Although simply and absolutely speaking the contemplative life is more excellent than the active, and the love of God better than the love of our neighbor, yet, on the other hand, the good of the many should be preferred to the good of the individual. Wherefore Augustine says in the passage quoted above: "Nor prefer your own ease to the needs of the Church," and all the more since it belongs to the love of God that a man undertake the pastoral care of Christ's sheep. Hence Augustine, commenting on Jn. 21:17, "Feed My sheep," says (Tract. cxxiii in Joan.): "Be it the task of love to feed the Lord's flock, even as it was the mark of fear to deny the Shepherd."
 
----
-
-Objection 2: Further, as Gregory says (Pastor. i, 7), "it is very difficult for anyone to be able to know that he is cleansed: nor should anyone uncleansed approach the sacred ministry." Therefore if a man perceives that he is not cleansed, however urgently the episcopal office be enjoined him, he ought not to accept it.
-
 Reply to Objection 2: No one is bound to obey his superior by doing what is unlawful, as appears from what was said above concerning obedience ([3774]Q[104], A[5]). Accordingly it may happen that he who is appointed to the office of prelate perceive something in himself on account of which it is unlawful for him to accept a prelacy. But this obstacle may sometimes be removed by the very person who is appointed to the pastoral cure---for instance, if he have a purpose to sin, he may abandon it---and for this reason he is not excused from being bound to obey definitely the superior who has appointed him. Sometimes, however, he is unable himself to remove the impediment that makes the pastoral office unlawful to him, yet the prelate who appoints him can do so---for instance, if he be irregular or excommunicate. In such a case he ought to make known his defect to the prelate who has appointed him; and if the latter be willing to remove the impediment, he is bound humbly to obey. Hence when Moses had said (Ex. 4:10): "I beseech thee, Lord, I am not eloquent from yesterday, and the day before," the Lord answered (Ex. 4:12): "I will be in thy mouth, and I will teach thee what thou shalt speak." At other times the impediment cannot be removed, neither by the person appointing nor by the one appointed---for instance, if an archbishop be unable to dispense from an irregularity; wherefore a subject, if irregular, would not be bound to obey him by accepting the episcopate or even sacred orders.
-
----
-
-Objection 3: Further, Jerome (Prologue, super Marc.) says that "it is related of the Blessed Mark* that after receiving the faith he cut off his thumb that he might be excluded from the priesthood." [*This prologue was falsely ascribed to St. Jerome, and the passage quoted refers, not to St. Mark the Evangelist, but to a hermit of that name. (Cf. Baronius, Anno Christi, 45, num. XLIV)] Likewise some take a vow never to accept a bishopric. Now to place an obstacle to a thing amounts to the same as refusing it altogether. Therefore it would seem that one may, without sin, refuse the episcopal office absolutely.
 
 Reply to Objection 3: It is not in itself necessary for salvation to accept the episcopal office, but it becomes necessary by reason of the superior's command. Now one may lawfully place an obstacle to things thus necessary for salvation, before the command is given; else it would not be lawful to marry a second time, lest one should thus incur an impediment to the episcopate or holy orders. But this would not be lawful in things necessary for salvation. Hence the Blessed Mark did not act against a precept by cutting off his finger, although it is credible that he did this by the instigation of the Holy Ghost, without which it would be unlawful for anyone to lay hands on himself. If a man take a vow not to accept the bishop's office, and by this intend to bind himself not even to accept it in obedience to his superior prelate, his vow is unlawful; but if he intend to bind himself, so far as it lies with him, not to seek the episcopal office, nor to accept it except under urgent necessity, his vow is lawful, because he vows to do what it becomes a man to do.
 
 ### Whether He That Is Appointed To The Episcopate Ought To Be Better Than Others?
 
-On the contrary, The Decretal [*Can. Cum dilectus, de Electione] says that "it suffices to choose a good man, nor is it necessary to choose the better man."
+**Objections**
 
----
+Objection 1: It would seem that one who is appointed to the episcopate ought to be better than others. For our Lord, when about to commit the pastoral office to Peter, asked him if he loved Him more than the others. Now a man is the better through loving God the more. Therefore it would seem that one ought not to be appointed to the episcopal office except he be better than others.
+
+Objection 2: Further, Pope Symmachus says (can. Vilissimus I, qu. 1): "A man is of very little worth who though excelling in dignity, excels not in knowledge and holiness." Now he who excels in knowledge and holiness is better. Therefore a man ought not to be appointed to the episcopate unless he be better than others.
+
+Objection 3: Further, in every genus the lesser are governed by the greater, as corporeal things are governed by things spiritual, and the lower bodies by the higher, as Augustine says (De Trin. iii, 3). Now a bishop is appointed to govern others. Therefore he should be better than others.
+
+**Answer**
+
+On the contrary, The Decretal [*Can. Cum dilectus, de Electione] says that "it suffices to choose a good man, nor is it necessary to choose the better man."
 
 I answer that, In designating a man for the episcopal office, something has to be considered on the part of the person designate, and something on the part of the designator. For on the part of the designator, whether by election or by appointment, it is required that he choose such a one as will dispense the divine mysteries faithfully. These should be dispensed for the good of the Church, according to 1 Cor. 14:12, "Seek to abound unto the edifying of the Church"; and the divine mysteries are not committed to men for their own meed, which they should await in the life to come. Consequently he who has to choose or appoint one for a bishop is not bound to take one who is best simply, i.e. according to charity, but one who is best for governing the Church, one namely who is able to instruct, defend, and govern the Church peacefully. Hence Jerome, commenting on Titus 1:5, says against certain persons that "some seek to erect as pillars of the Church, not those whom they know to be more useful to the Church, but those whom they love more, or those by whose obsequiousness they have been cajoled or undone, or for whom some person in authority has spoken, and, not to say worse than this, have succeeded by means of gifts in being made clerics."
 
@@ -470,29 +442,27 @@ Now this pertains to the respect of persons, which in such matters is a grave si
 
 On the part of the person appointed, it is not required that he esteem himself better than others, for this would be proud and presumptuous; but it suffices that he perceive nothing in himself which would make it unlawful for him to take up the office of prelate. Hence although Peter was asked by our Lord if he loved Him more than the others, he did not, in his reply, set himself before the others, but answered simply that he loved Christ.
 
----
-
-Objection 1: It would seem that one who is appointed to the episcopate ought to be better than others. For our Lord, when about to commit the pastoral office to Peter, asked him if he loved Him more than the others. Now a man is the better through loving God the more. Therefore it would seem that one ought not to be appointed to the episcopal office except he be better than others.
+**Replies**
 
 Reply to Objection 1: Our Lord knew that, by His own bestowal, Peter was in other respects fitted to govern the Church: wherefore He questioned him about his greater love, to show that when we find a man otherwise fitted for the government of the Church, we must look chiefly to his pre-eminence in the love of God.
 
----
-
-Objection 2: Further, Pope Symmachus says (can. Vilissimus I, qu. 1): "A man is of very little worth who though excelling in dignity, excels not in knowledge and holiness." Now he who excels in knowledge and holiness is better. Therefore a man ought not to be appointed to the episcopate unless he be better than others.
-
 Reply to Objection 2: This statement refers to the pursuits of the man who is placed in authority. For he should aim at showing himself to be more excellent than others in both knowledge and holiness. Wherefore Gregory says (Pastor. ii, 1) "the occupations of a prelate ought to excel those of the people, as much as the shepherd's life excels that of his flock." But he is not to be blamed and looked upon as worthless if he excelled not before being raised to the prelacy.
-
----
-
-Objection 3: Further, in every genus the lesser are governed by the greater, as corporeal things are governed by things spiritual, and the lower bodies by the higher, as Augustine says (De Trin. iii, 3). Now a bishop is appointed to govern others. Therefore he should be better than others.
 
 Reply to Objection 3: According to 1 Cor. 12:4 seqq., "there are diversities of graces . . . and . . . of ministries . . . and . . . of operations." Hence nothing hinders one from being more fitted for the office of governing, who does not excel in the grace of holiness. It is otherwise in the government of the natural order, where that which is higher in the natural order is for that very reason more fitted to dispose of those that are lower.
 
 ### Whether A Bishop May Lawfully Forsake The Episcopal Cure, In Order To Enter Religion?
 
-On the contrary, No man is compelled to do what is in itself unlawful. Now those who seek to resign their episcopal cure are compelled to resign (Extra, de Renunt. cap. Quidam). Therefore apparently it is not unlawful to give up the episcopal cure.
+**Objections**
 
----
+Objection 1: It seems that a bishop cannot lawfully forsake his episcopal cure in order to enter religion. For no one can lawfully pass from a more perfect to a less perfect state; since this is "to look back," which is condemned by the words of our Lord (Lk. 9:62), "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." Now the episcopal state is more perfect than the religious, as shown above ([3775]Q[184], A[7]). Therefore just as it is unlawful to return to the world from the religious state, so is it unlawful to pass from the episcopal to the religious state.
+
+Objection 2: Further, the order of grace is more congruous than the order of nature. Now according to nature a thing is not moved in contrary directions; thus if a stone be naturally moved downwards, it cannot naturally return upwards from below. But according to the order of grace it is lawful to pass from the religious to the episcopal state. Therefore it is not lawful to pass contrariwise from the episcopal to the religious state.
+
+Objection 3: Further, in the works of grace nothing should be inoperative. Now when once a man is consecrated bishop he retains in perpetuity the spiritual power of giving orders and doing like things that pertain to the episcopal office: and this power would seemingly remain inoperative in one who gives up the episcopal cure. Therefore it would seem that a bishop may not forsake the episcopal cure and enter religion.
+
+**Answer**
+
+On the contrary, No man is compelled to do what is in itself unlawful. Now those who seek to resign their episcopal cure are compelled to resign (Extra, de Renunt. cap. Quidam). Therefore apparently it is not unlawful to give up the episcopal cure.
 
 I answer that, The perfection of the episcopal state consists in this that for love of God a man binds himself to work for the salvation of his neighbor, wherefore he is bound to retain the pastoral cure so long as he is able to procure the spiritual welfare of the subjects entrusted to his care: a matter which he must not neglect---neither for the sake of the quiet of divine contemplation, since the Apostle, on account of the needs of his subjects, suffered patiently to be delayed even from the contemplation of the life to come, according to Phil. 1:22-25, "What I shall choose I know not, but I am straitened between two, having a desire to be dissolved, and to be with Christ, a thing by far better. But to abide still in the flesh is needful for you. And having this confidence, I know that I shall abide"; nor for the sake of avoiding any hardships or of acquiring any gain whatsoever, because as it is written (Jn. 10:11), "the good shepherd giveth his life for his sheep."
 
@@ -500,83 +470,77 @@ At times, however, it happens in several ways that a bishop is hindered from pro
 
 Nevertheless just as a man takes upon himself the charge of authority at the appointment of a higher superior, so too it behooves him to be subject to the latter's authority in laying aside the accepted charge for the reasons given above. Hence Innocent III says (Extra, de Renunt., cap. Nisi cum pridem): "Though thou hast wings wherewith thou art anxious to fly away into solitude, they are so tied by the bonds of authority, that thou art not free to fly without our permission." For the Pope alone can dispense from the perpetual vow, by which a man binds himself to the care of his subjects, when he took upon himself the episcopal office.
 
----
-
-Objection 1: It seems that a bishop cannot lawfully forsake his episcopal cure in order to enter religion. For no one can lawfully pass from a more perfect to a less perfect state; since this is "to look back," which is condemned by the words of our Lord (Lk. 9:62), "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." Now the episcopal state is more perfect than the religious, as shown above ([3775]Q[184], A[7]). Therefore just as it is unlawful to return to the world from the religious state, so is it unlawful to pass from the episcopal to the religious state.
+**Replies**
 
 Reply to Objection 1: The perfection of religious and that of bishops are regarded from different standpoints. For it belongs to the perfection of a religious to occupy oneself in working out one's own salvation, whereas it belongs to the perfection of a bishop to occupy oneself in working for the salvation of others. Hence so long as a man can be useful to the salvation of his neighbor, he would be going back, if he wished to pass to the religious state, to busy himself only with his own salvation, since he has bound himself to work not only for his own but also for others' salvation. Wherefore Innocent III says in the Decretal quoted above that "it is more easily allowable for a monk to ascend to the episcopacy, than for a bishop to descend to the monastic life. If, however, he be unable to procure the salvation of others it is meet he should seek his own."
 
----
-
-Objection 2: Further, the order of grace is more congruous than the order of nature. Now according to nature a thing is not moved in contrary directions; thus if a stone be naturally moved downwards, it cannot naturally return upwards from below. But according to the order of grace it is lawful to pass from the religious to the episcopal state. Therefore it is not lawful to pass contrariwise from the episcopal to the religious state.
-
 Reply to Objection 2: On account of no obstacle should a man forego the work of his own salvation, which pertains to the religious state. But there may be an obstacle to the procuring of another's salvation; wherefore a monk may be raised to the episcopal state wherein he is able also to work out his own salvation. And a bishop, if he be hindered from procuring the salvation of others, may enter the religious life, and may return to his bishopric should the obstacle cease, for instance by the correction of his subjects, cessation of the scandal, healing of his infirmity, removal of his ignorance by sufficient instruction. Again, if he owed his promotion to simony of which he was in ignorance, and resigning his episcopate entered the religious life, he can be reappointed to another bishopric [*Cap. Post translat., de Renunt.]. On the other hand, if a man be deposed from the episcopal office for some sin, and confined in a monastery that he may do penance, he cannot be reappointed to a bishopric. Hence it is stated (VII, qu. i, can. Hoc nequaquam): "The holy synod orders that any man who has been degraded from the episcopal dignity to the monastic life and a place of repentance, should by no means rise again to the episcopate."
-
----
-
-Objection 3: Further, in the works of grace nothing should be inoperative. Now when once a man is consecrated bishop he retains in perpetuity the spiritual power of giving orders and doing like things that pertain to the episcopal office: and this power would seemingly remain inoperative in one who gives up the episcopal cure. Therefore it would seem that a bishop may not forsake the episcopal cure and enter religion.
 
 Reply to Objection 3: Even in natural things power remains inactive on account of a supervening obstacle, for instance the act of sight ceases through an affliction of the eye. So neither is it unreasonable if, through the occurrence of some obstacle from without, the episcopal power remain without the exercise of its act.
 
 ### Whether It Is Lawful For A Bishop On Account Of Bodily Persecution To Abandon The Flock Committed To His Care?
 
-On the contrary, our Lord commanded the apostles, whose successors bishops are (Mat. 10:23): "When they shall persecute you in this city, flee into another."
+**Objections**
 
----
+Objection 1: It would seem that it is unlawful for a bishop, on account of some temporal persecution, to withdraw his bodily presence from the flock committed to his care. For our Lord said (Jn. 10:12) that he is a hireling and no true shepherd, who "seeth the wolf coming, and leaveth the sheep and flieth": and Gregory says (Hom. xiv in Ev.) that "the wolf comes upon the sheep when any man by his injustice and robbery oppresses the faithful and the humble." Therefore if, on account of the persecution of a tyrant, a bishop withdraws his bodily presence from the flock entrusted to his care, it would seem that he is a hireling and not a shepherd.
+
+Objection 2: Further, it is written (Prov. 6:1): "My son, if thou be surety for thy friend, thou hast engaged fast thy hand to a stranger," and afterwards (Prov. 6:3): "Run about, make haste, stir up thy friend." Gregory expounds these words and says (Pastor. iii, 4): "To be surety for a friend, is to vouch for his good conduct by engaging oneself to a stranger. And whoever is put forward as an example to the lives of others, is warned not only to watch but even to rouse his friend." Now he cannot do this if he withdraw his bodily presence from his flock. Therefore it would seem that a bishop should not on account of persecution withdraw his bodily presence from his flock.
+
+Objection 3: Further, it belongs to the perfection of the bishop's state that he devote himself to the care of his neighbor. Now it is unlawful for one who has professed the state of perfection to forsake altogether the things that pertain to perfection. Therefore it would seem unlawful for a bishop to withdraw his bodily presence from the execution of his office, except perhaps for the purpose of devoting himself to works of perfection in a monastery.
+
+**Answer**
+
+On the contrary, our Lord commanded the apostles, whose successors bishops are (Mat. 10:23): "When they shall persecute you in this city, flee into another."
 
 I answer that, In any obligation the chief thing to be considered is the end of the obligation. Now bishops bind themselves to fulfil the pastoral office for the sake of the salvation of their subjects. Consequently when the salvation of his subjects demands the personal presence of the pastor, the pastor should not withdraw his personal presence from his flock, neither for the sake of some temporal advantage, nor even on account of some impending danger to his person, since the good shepherd is bound to lay down his life for his sheep.
 
 On the other hand, if the salvation of his subjects can be sufficiently provided for by another person in the absence of the pastor, it is lawful for the pastor to withdraw his bodily presence from his flock, either for the sake of some advantage to the Church, or on account of some danger to his person. Hence Augustine says (Ep. ccxxviii ad Honorat.): "Christ's servants may flee from one city to another, when one of them is specially sought out by persecutors: in order that the Church be not abandoned by others who are not so sought for. When, however, the same danger threatens all, those who stand in need of others must not be abandoned by those whom they need." For "if it is dangerous for the helmsman to leave the ship when the sea is calm, how much more so when it is stormy," as Pope Nicholas I says (cf. VII, qu. i, can. Sciscitaris).
 
----
-
-Objection 1: It would seem that it is unlawful for a bishop, on account of some temporal persecution, to withdraw his bodily presence from the flock committed to his care. For our Lord said (Jn. 10:12) that he is a hireling and no true shepherd, who "seeth the wolf coming, and leaveth the sheep and flieth": and Gregory says (Hom. xiv in Ev.) that "the wolf comes upon the sheep when any man by his injustice and robbery oppresses the faithful and the humble." Therefore if, on account of the persecution of a tyrant, a bishop withdraws his bodily presence from the flock entrusted to his care, it would seem that he is a hireling and not a shepherd.
+**Replies**
 
 Reply to Objection 1: To flee as a hireling is to prefer temporal advantage or one's bodily welfare to the spiritual welfare of one's neighbor. Hence Gregory says (Hom. xiv in Ev.): "A man cannot endanger himself for the sake of his sheep, if he uses his authority over them not through love of them but for the sake of earthly gain: wherefore he fears to stand in the way of danger lest he lose what he loves." But he who, in order to avoid danger, leaves the flock without endangering the flock, does not flee as a hireling.
 
----
-
-Objection 2: Further, it is written (Prov. 6:1): "My son, if thou be surety for thy friend, thou hast engaged fast thy hand to a stranger," and afterwards (Prov. 6:3): "Run about, make haste, stir up thy friend." Gregory expounds these words and says (Pastor. iii, 4): "To be surety for a friend, is to vouch for his good conduct by engaging oneself to a stranger. And whoever is put forward as an example to the lives of others, is warned not only to watch but even to rouse his friend." Now he cannot do this if he withdraw his bodily presence from his flock. Therefore it would seem that a bishop should not on account of persecution withdraw his bodily presence from his flock.
-
 Reply to Objection 2: If he who is surety for another be unable to fulfil his engagement, it suffices that he fulfil it through another. Hence if a superior is hindered from attending personally to the care of his subjects, he fulfils his obligation if he do so through another.
-
----
-
-Objection 3: Further, it belongs to the perfection of the bishop's state that he devote himself to the care of his neighbor. Now it is unlawful for one who has professed the state of perfection to forsake altogether the things that pertain to perfection. Therefore it would seem unlawful for a bishop to withdraw his bodily presence from the execution of his office, except perhaps for the purpose of devoting himself to works of perfection in a monastery.
 
 Reply to Objection 3: When a man is appointed to a bishopric, he embraces the state of perfection as regards one kind of perfection; and if he be hindered from the practice thereof, he is not bound to another kind of perfection, so as to be obliged to enter the religious state. Yet he is under the obligation of retaining the intention of devoting himself to his neighbor's salvation, should an opportunity offer, and necessity require it of him.
 
 ### Whether It Is Lawful For A Bishop To Have Property Of His Own?
 
-On the contrary, It is stated (XII, qu. i, can. Episcopi de rebus): "Bishops, if they wish, may bequeath to their heirs their personal or acquired property, and whatever belongs to them personally."
-
----
-
-I answer that, No one is bound to works of supererogation, unless he binds himself specially thereto by vow. Hence Augustine says (Ep. cxxvii ad Paulin. et Arment.): "Since you have taken the vow, you have already bound yourself, you can no longer do otherwise. Before you were bound by the vow, you were free to submit." Now it is evident that to live without possessing anything is a work of supererogation, for it is a matter not of precept but of counsel. Wherefore our Lord after saying to the young man: "If thou wilt enter into life, keep the commandments," said afterwards by way of addition: "If thou wilt be perfect go sell" all "that thou hast, and give to the poor" (Mat. 19:17, 21). Bishops, however, do not bind themselves at their ordination to live without possessions of their own; nor indeed does the pastoral office, to which they bind themselves, make it necessary for them to live without anything of their own. Therefore bishops are not bound to live without possessions of their own.
-
----
+**Objections**
 
 Objection 1: It would seem that it is not lawful for a bishop to have property of his own. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what] thou hast, and give to the poor . . . and come, follow Me"; whence it would seem to follow that voluntary poverty is requisite for perfection. Now bishops are in the state of perfection. Therefore it would seem unlawful for them to possess anything as their own.
 
-Reply to Objection 1: As stated above ([3776]Q[184], A[3], ad 1) the perfection of the Christian life does not essentially consist in voluntary poverty, but voluntary poverty conduces instrumentally to the perfection of life. Hence it does not follow that where there is greater poverty there is greater perfection; indeed the highest perfection is compatible with great wealth, since Abraham, to whom it was said (Gn. 17:1): "Walk before Me and be perfect," is stated to have been rich (Gn. 13:2).
-
----
-
 Objection 2: Further, bishops take the place of the apostles in the Church, according to a gloss on Lk. 10:1. Now our Lord commanded the apostles to possess nothing of their own, according to Mat. 10:9, "Do not possess gold, nor silver, nor money in your purses"; wherefore Peter said for himself and the other apostles (Mat. 19:27): "Behold we have left all things and have followed Thee." Therefore it would seem that bishops are bound to keep this command, and to possess nothing of their own.
 
-Reply to Objection 2: This saying of our Lord can be understood in three ways. First, mystically, that we should possess neither gold nor silver means that the preacher should not rely chiefly on temporal wisdom and eloquence; thus Jerome expounds the passage.
-
----
-
 Objection 3: Further, Jerome says (Ep. lii ad Nepotian.): "The Greek {kleros} denotes the Latin 'sors.' Hence clerics are so called either because they are of the Lord's estate, or because the Lord Himself is the estate, i.e. portion of clerics. Now he that possesses the Lord, can have nothing besides God; and if he have gold and silver, possessions, and chattels of all kinds, with such a portion the Lord does not vouchsafe to be his portion also." Therefore it would seem that not only bishops but even clerics should have nothing of their own.
+
+**Answer**
+
+On the contrary, It is stated (XII, qu. i, can. Episcopi de rebus): "Bishops, if they wish, may bequeath to their heirs their personal or acquired property, and whatever belongs to them personally."
+
+I answer that, No one is bound to works of supererogation, unless he binds himself specially thereto by vow. Hence Augustine says (Ep. cxxvii ad Paulin. et Arment.): "Since you have taken the vow, you have already bound yourself, you can no longer do otherwise. Before you were bound by the vow, you were free to submit." Now it is evident that to live without possessing anything is a work of supererogation, for it is a matter not of precept but of counsel. Wherefore our Lord after saying to the young man: "If thou wilt enter into life, keep the commandments," said afterwards by way of addition: "If thou wilt be perfect go sell" all "that thou hast, and give to the poor" (Mat. 19:17, 21). Bishops, however, do not bind themselves at their ordination to live without possessions of their own; nor indeed does the pastoral office, to which they bind themselves, make it necessary for them to live without anything of their own. Therefore bishops are not bound to live without possessions of their own.
+
+**Replies**
+
+Reply to Objection 1: As stated above ([3776]Q[184], A[3], ad 1) the perfection of the Christian life does not essentially consist in voluntary poverty, but voluntary poverty conduces instrumentally to the perfection of life. Hence it does not follow that where there is greater poverty there is greater perfection; indeed the highest perfection is compatible with great wealth, since Abraham, to whom it was said (Gn. 17:1): "Walk before Me and be perfect," is stated to have been rich (Gn. 13:2).
+
+Reply to Objection 2: This saying of our Lord can be understood in three ways. First, mystically, that we should possess neither gold nor silver means that the preacher should not rely chiefly on temporal wisdom and eloquence; thus Jerome expounds the passage.
 
 Reply to Objection 3: Every part is less than the whole. Accordingly a man has other portions together with God, if he becomes less intent on things pertaining to God by occupying himself with things of the world. Now neither bishops nor clerics ought thus to possess means of their own, that while busy with their own they neglect those that concern the worship of God.
 
 ### Whether Bishops Sin Mortally If They Distribute Not To The Poor The Ecclesiastical Goods Which Accrue To Them?
 
-On the contrary, Many bishops do not give their surplus to the poor, but would seem commendably to lay it out so as to increase the revenue of the Church.
+**Objections**
 
----
+Objection 1: It would seem that bishops sin mortally if they distribute not to the poor the ecclesiastical goods which they acquire. For Ambrose [*Basil, Serm. lxiv, de Temp., among the supposititious works of St. Jerome] expounding Lk. 12:16, "The land of a certain . . . man brought forth plenty of fruits," says: "Let no man claim as his own that which he has taken and obtained by violence from the common property in excess of his requirements"; and afterwards he adds: "It is not less criminal to take from him who has, than, when you are able and have plenty to refuse him who has not." Now it is a mortal sin to take another's property by violence. Therefore bishops sin mortally if they give not to the poor that which they have in excess.
+
+Objection 2: Further, a gloss of Jerome on Is. 3:14, "The spoil of the poor is in your house," says that "ecclesiastical goods belong to the poor." Now whoever keeps for himself or gives to others that which belongs to another, sins mortally and is bound to restitution. Therefore if bishops keep for themselves, or give to their relations or friends, their surplus of ecclesiastical goods, it would seem that they are bound to restitution.
+
+Objection 3: Further, much more may one take what is necessary for oneself from the goods of the Church, than accumulate a surplus therefrom. Yet Jerome says in a letter to Pope Damasus [*Cf. Can. Clericos, cause. i, qu. 2; Can. Quoniam; cause. xvi, qu. 1; Regul. Monach. iv, among the supposititious works of St. Jerome]: "It is right that those clerics who receive no goods from their parents and relations should be supported from the funds of the Church. But those who have sufficient income from their parents and their own possessions, if they take what belongs to the poor, they commit and incur the guilt of sacrilege." Wherefore the Apostle says (1 Tim. 5:16): "If any of the faithful have widows, let him minister to them, and let not the Church be charged, that there may be sufficient for them that are widows indeed." Much more therefore do bishops sin mortally if they give not to the poor the surplus of their ecclesiastical goods.
+
+**Answer**
+
+On the contrary, Many bishops do not give their surplus to the poor, but would seem commendably to lay it out so as to increase the revenue of the Church.
 
 I answer that, The same is not to be said of their own goods which bishops may possess, and of ecclesiastical goods. For they have real dominion over their own goods; wherefore from the very nature of the case they are not bound to give these things to others, and may either keep them for themselves or bestow them on others at will. Nevertheless they may sin in this disposal by inordinate affection, which leads them either to accumulate more than they should, or not to assist others, in accordance with the demands of charity; yet they are not bound to restitution, because such things are entrusted to their ownership.
 
@@ -586,49 +550,37 @@ But as regards those goods which are deputed to his private use, the same appare
 
 On the other hand, if no distinction is made in the aforesaid goods, their distribution is entrusted to his good faith; and if he fail or exceed in a slight degree, this may happen without prejudice to his good faith, because in such matters a man cannot possibly decide precisely what ought to be done. On the other hand, if the excess be very great he cannot be ignorant of the fact; consequently he would seem to be lacking in good faith, and is guilty of mortal sin. For it is written (Mat. 24:48-51) that "if that evil servant shall say in his heart: My lord is long a-coming," which shows contempt of God's judgment, "and shall begin to strike his fellow-servants," which is a sign of pride, "and shall eat and drink with drunkards," which proceeds from lust, "the lord of that servant shall come in a day that he hopeth not . . . and shall separate him," namely from the fellowship of good men, "and appoint his portion with hypocrites," namely in hell.
 
----
-
-Objection 1: It would seem that bishops sin mortally if they distribute not to the poor the ecclesiastical goods which they acquire. For Ambrose [*Basil, Serm. lxiv, de Temp., among the supposititious works of St. Jerome] expounding Lk. 12:16, "The land of a certain . . . man brought forth plenty of fruits," says: "Let no man claim as his own that which he has taken and obtained by violence from the common property in excess of his requirements"; and afterwards he adds: "It is not less criminal to take from him who has, than, when you are able and have plenty to refuse him who has not." Now it is a mortal sin to take another's property by violence. Therefore bishops sin mortally if they give not to the poor that which they have in excess.
+**Replies**
 
 Reply to Objection 1: This saying of Ambrose refers to the administration not only of ecclesiastical things but also of any goods whatever from which a man is bound, as a duty of charity, to provide for those who are in need. But it is not possible to state definitely when this need is such as to impose an obligation under pain of mortal sin, as is the case in other points of detail that have to be considered in human acts: for the decision in such matters is left to human prudence.
 
----
-
-Objection 2: Further, a gloss of Jerome on Is. 3:14, "The spoil of the poor is in your house," says that "ecclesiastical goods belong to the poor." Now whoever keeps for himself or gives to others that which belongs to another, sins mortally and is bound to restitution. Therefore if bishops keep for themselves, or give to their relations or friends, their surplus of ecclesiastical goods, it would seem that they are bound to restitution.
-
 Reply to Objection 2: As stated above the goods of the Church have to be employed not only for the use of the poor, but also for other purposes. Hence if a bishop or cleric wish to deprive himself of that which is assigned to his own use, and give it to his relations or others, he sins not so long as he observes moderation, so, to wit, that they cease to be in want without becoming the richer thereby. Hence Ambrose says (De Offic. i, 30): "It is a commendable liberality if you overlook not your kindred when you know them to be in want; yet not so as to wish to make them rich with what you can give to the poor."
-
----
-
-Objection 3: Further, much more may one take what is necessary for oneself from the goods of the Church, than accumulate a surplus therefrom. Yet Jerome says in a letter to Pope Damasus [*Cf. Can. Clericos, cause. i, qu. 2; Can. Quoniam; cause. xvi, qu. 1; Regul. Monach. iv, among the supposititious works of St. Jerome]: "It is right that those clerics who receive no goods from their parents and relations should be supported from the funds of the Church. But those who have sufficient income from their parents and their own possessions, if they take what belongs to the poor, they commit and incur the guilt of sacrilege." Wherefore the Apostle says (1 Tim. 5:16): "If any of the faithful have widows, let him minister to them, and let not the Church be charged, that there may be sufficient for them that are widows indeed." Much more therefore do bishops sin mortally if they give not to the poor the surplus of their ecclesiastical goods.
 
 Reply to Objection 3: The goods of churches should not all be given to the poor, except in a case of necessity: for then, as Ambrose says (De Offic. ii, 28), even the vessels consecrated to the divine worship are to be sold for the ransom of prisoners, and other needs of the poor. In such a case of necessity a cleric would sin if he chose to maintain himself on the goods of the Church, always supposing him to have a patrimony of his own on which to support himself.
 
 ### Whether Religious Who Are Raised To The Episcopate Are Bound To Religious Observances?
 
-On the contrary, It is said in the Decretals (XVI, qu. i, can. De Monachis): "With regard to those who after long residence in a monastery attain to the order of clerics, we bid them not to lay aside their former purpose."
+**Objections**
 
----
+Objection 1: It would seem that religious who are raised to the episcopate are not bound to religious observances. For it is said (XVIII, qu. i, can. Statutum) that a "canonical election loosens a monk from the yoke imposed by the rule of the monastic profession, and the holy ordination makes of a monk a bishop." Now the regular observances pertain to the yoke of the rule. Therefore religious who are appointed bishops are not bound to religious observances.
+
+Objection 2: Further, he who ascends from a lower to a higher degree is seemingly not bound to those things which pertain to the lower degree: thus it was stated above ([3777]Q[88], A[12], ad 1) that a religious is not bound to keep the vows he made in the world. But a religious who is appointed to the episcopate ascends to something greater, as stated above (Q[84], A[7]). Therefore it would seem that a bishop is not bound to those things whereto he was bound in the state of religion.
+
+Objection 3: Further, religious would seem to be bound above all to obedience, and to live without property of their own. But religious who are appointed bishops, are not bound to obey the superiors of their order, since they are above them; nor apparently are they bound to poverty, since according to the decree quoted above (OBJ[1]) "when the holy ordination has made of a monk a bishop he enjoys the right, as the lawful heir, of claiming his paternal inheritance." Moreover they are sometimes allowed to make a will. Much less therefore are they bound to other regular observances.
+
+**Answer**
+
+On the contrary, It is said in the Decretals (XVI, qu. i, can. De Monachis): "With regard to those who after long residence in a monastery attain to the order of clerics, we bid them not to lay aside their former purpose."
 
 I answer that, As stated above (A[1], ad 2) the religious state pertains to perfection, as a way of tending to perfection, while the episcopal state pertains to perfection, as a professorship of perfection. Hence the religious state is compared to the episcopal state, as the school to the professorial chair, and as disposition to perfection. Now the disposition is not voided at the advent of perfection, except as regards what perchance is incompatible with perfection, whereas as to that wherein it is in accord with perfection, it is confirmed the more. Thus when the scholar has become a professor it no longer becomes him to be a listener, but it becomes him to read and meditate even more than before. Accordingly we must assert that if there be among religious observances any that instead of being an obstacle to the episcopal office, are a safeguard of perfection, such as continence, poverty, and so forth, a religious, even after he has been made a bishop, remains bound to observe these, and consequently to wear the habit of his order, which is a sign of this obligation.
 
 On the other hand, a man is not bound to keep such religious observances as may be incompatible with the episcopal office, for instance solitude, silence, and certain severe abstinences or watchings and such as would render him bodily unable to exercise the episcopal office. For the rest he may dispense himself from them, according to the needs of his person or office, and the manner of life of those among whom he dwells, in the same way as religious superiors dispense themselves in such matters.
 
----
-
-Objection 1: It would seem that religious who are raised to the episcopate are not bound to religious observances. For it is said (XVIII, qu. i, can. Statutum) that a "canonical election loosens a monk from the yoke imposed by the rule of the monastic profession, and the holy ordination makes of a monk a bishop." Now the regular observances pertain to the yoke of the rule. Therefore religious who are appointed bishops are not bound to religious observances.
+**Replies**
 
 Reply to Objection 1: He who from being a monk becomes a bishop is loosened from the yoke of the monastic profession, not in everything, but in those that are incompatible with the episcopal office, as stated above.
 
----
-
-Objection 2: Further, he who ascends from a lower to a higher degree is seemingly not bound to those things which pertain to the lower degree: thus it was stated above ([3777]Q[88], A[12], ad 1) that a religious is not bound to keep the vows he made in the world. But a religious who is appointed to the episcopate ascends to something greater, as stated above (Q[84], A[7]). Therefore it would seem that a bishop is not bound to those things whereto he was bound in the state of religion.
-
 Reply to Objection 2: The vows of those who are living in the world are compared to the vows of religion as the particular to the universal, as stated above ([3778]Q[88], A[12], ad 1). But the vows of religion are compared to the episcopal dignity as disposition to perfection. Now the particular is superfluous when one has the universal, whereas the disposition is still necessary when perfection has been attained.
-
----
-
-Objection 3: Further, religious would seem to be bound above all to obedience, and to live without property of their own. But religious who are appointed bishops, are not bound to obey the superiors of their order, since they are above them; nor apparently are they bound to poverty, since according to the decree quoted above (OBJ[1]) "when the holy ordination has made of a monk a bishop he enjoys the right, as the lawful heir, of claiming his paternal inheritance." Moreover they are sometimes allowed to make a will. Much less therefore are they bound to other regular observances.
 
 Reply to Objection 3: It is accidental that religious who are bishops are not bound to obey the superiors of their order, because, to wit, they have ceased to be their subjects; even as those same religious superiors. Nevertheless the obligation of the vow remains virtually, so that if any person be lawfully set above them, they would be bound to obey them, inasmuch as they are bound to obey both the statutes of their rule in the way mentioned above, and their superiors if they have any.
 
@@ -648,41 +600,45 @@ We must now consider things pertaining to the religious state: which considerati
 
 ### Whether Religion Implies A State Of Perfection?
 
-On the contrary, In the Conferences of the Fathers (Collat. i, 7) abbot Moses speaking of religious says: "We must recognize that we have to undertake the hunger of fasting, watchings, bodily toil, privation, reading, and other acts of virtue, in order by these degrees to mount to the perfection of charity." Now things pertaining to human acts are specified and denominated from the intention of the end. Therefore religious belong to the state of perfection.
-
----
-
-I answer that, As stated above ([3782]Q[141], A[2]) that which is applicable to many things in common is ascribed antonomastically to that to which it is applicable by way of excellence. Thus the name of "fortitude" is claimed by the virtue which preserves the firmness of the mind in regard to most difficult things, and the name of "temperance," by that virtue which tempers the greatest pleasures. Now religion as stated above ([3783]Q[81] , A[2]; A[3], ad 2) is a virtue whereby a man offers something to the service and worship of God. Wherefore those are called religious antonomastically, who give themselves up entirely to the divine service, as offering a holocaust to God. Hence Gregory says (Hom. xx in Ezech.): "Some there are who keep nothing for themselves, but sacrifice to almighty God their tongue, their senses, their life, and the property they possess." Now the perfection of man consists in adhering wholly to God, as stated above ([3784]Q[184], A[2]), and in this sense religion denotes the state of perfection.
-
----
+**Objections**
 
 Objection 1: It would seem that religion does not imply a state of perfection. For that which is necessary for salvation does not seemingly pertain to perfection. But religion is necessary for salvation, whether because "thereby we are bound [religamur] to the one almighty God," as Augustine says (De Vera Relig. 55), or because it takes its name from "our returning [religimus] to God Whom we had lost by neglecting Him" [*Cf.[3779] Q[81], A[1]], according to Augustine (De Civ. Dei x, 3). Therefore it would seem that religion does not denote the state of perfection.
 
-Reply to Objection 1: To offer something to the worship of God is necessary for salvation, but to offer oneself wholly, and one's possessions to the worship of God belongs to perfection.
-
----
-
 Objection 2: Further, religion according to Tully (De Invent. Rhet. ii, 53) is that "which offers worship and ceremony to the Divine nature." Now the offering of worship and ceremony to God would seem to pertain to the ministry of holy orders rather than to the diversity of states, as stated above ([3780]Q[40], A[2];[3781] Q[183], A[3]). Therefore it would seem that religion does not denote the state of perfection.
-
-Reply to Objection 2: As stated above ([3785]Q[81], A[1], ad 1; A[4], ad 1,2;[3786] Q[85], A[3]) when we were treating of the virtue of religion, religion has reference not only to the offering of sacrifices and other like things that are proper to religion, but also to the acts of all the virtues which in so far as these are referred to God's service and honor become acts of religion. Accordingly if a man devotes his whole life to the divine service, his whole life belongs to religion, and thus by reason of the religious life that they lead, those who are in the state of perfection are called religious.
-
----
 
 Objection 3: Further, the state of perfection is distinct from the state of beginners and that of the proficient. But in religion also some are beginners, and some are proficient. Therefore religion does not denote the state of perfection.
 
-Reply to Objection 3: As stated above ([3787]Q[184], AA[4],6) religion denotes the state of perfection by reason of the end intended. Hence it does not follow that whoever is in the state of perfection is already perfect, but that he tends to perfection. Hence Origen commenting on Mat. 19:21, "If thou wilt be perfect," etc., says (Tract. viii in Matth.) that "he who has exchanged riches for poverty in order to become perfect does not become perfect at the very moment of giving his goods to the poor; but from that day the contemplation of God will begin to lead him to all the virtues." Thus all are not perfect in religion, but some are beginners, some proficient.
-
----
-
 Objection 4: Further, religion would seem a place of repentance; for it is said in the Decrees (VII, qu. i, can. Hoc nequaquam): "The holy synod orders that any man who has been degraded from the episcopal dignity to the monastic life and a place of repentance, should by no means rise again to the episcopate." Now a place of repentance is opposed to the state of perfection; hence Dionysius (Eccl. Hier. vi) places penitents in the lowest place, namely among those who are to be cleansed. Therefore it would seem that religion is not the state of perfection.
+
+**Answer**
+
+On the contrary, In the Conferences of the Fathers (Collat. i, 7) abbot Moses speaking of religious says: "We must recognize that we have to undertake the hunger of fasting, watchings, bodily toil, privation, reading, and other acts of virtue, in order by these degrees to mount to the perfection of charity." Now things pertaining to human acts are specified and denominated from the intention of the end. Therefore religious belong to the state of perfection.
+
+I answer that, As stated above ([3782]Q[141], A[2]) that which is applicable to many things in common is ascribed antonomastically to that to which it is applicable by way of excellence. Thus the name of "fortitude" is claimed by the virtue which preserves the firmness of the mind in regard to most difficult things, and the name of "temperance," by that virtue which tempers the greatest pleasures. Now religion as stated above ([3783]Q[81] , A[2]; A[3], ad 2) is a virtue whereby a man offers something to the service and worship of God. Wherefore those are called religious antonomastically, who give themselves up entirely to the divine service, as offering a holocaust to God. Hence Gregory says (Hom. xx in Ezech.): "Some there are who keep nothing for themselves, but sacrifice to almighty God their tongue, their senses, their life, and the property they possess." Now the perfection of man consists in adhering wholly to God, as stated above ([3784]Q[184], A[2]), and in this sense religion denotes the state of perfection.
+
+**Replies**
+
+Reply to Objection 1: To offer something to the worship of God is necessary for salvation, but to offer oneself wholly, and one's possessions to the worship of God belongs to perfection.
+
+Reply to Objection 2: As stated above ([3785]Q[81], A[1], ad 1; A[4], ad 1,2;[3786] Q[85], A[3]) when we were treating of the virtue of religion, religion has reference not only to the offering of sacrifices and other like things that are proper to religion, but also to the acts of all the virtues which in so far as these are referred to God's service and honor become acts of religion. Accordingly if a man devotes his whole life to the divine service, his whole life belongs to religion, and thus by reason of the religious life that they lead, those who are in the state of perfection are called religious.
+
+Reply to Objection 3: As stated above ([3787]Q[184], AA[4],6) religion denotes the state of perfection by reason of the end intended. Hence it does not follow that whoever is in the state of perfection is already perfect, but that he tends to perfection. Hence Origen commenting on Mat. 19:21, "If thou wilt be perfect," etc., says (Tract. viii in Matth.) that "he who has exchanged riches for poverty in order to become perfect does not become perfect at the very moment of giving his goods to the poor; but from that day the contemplation of God will begin to lead him to all the virtues." Thus all are not perfect in religion, but some are beginners, some proficient.
 
 Reply to Objection 4: The religious state was instituted chiefly that we might obtain perfection by means of certain exercises, whereby the obstacles to perfect charity are removed. By the removal of the obstacles of perfect charity, much more are the occasions of sin cut off, for sin destroys charity altogether. Wherefore since it belongs to penance to cut out the causes of sin, it follows that the religious state is a most fitting place for penance. Hence (XXXIII, qu. ii, cap. Admonere) a man who had killed his wife is counseled to enter a monastery which is described as "better and lighter," rather than to do public penance while remaining in the world.
 
 ### Whether Every Religious Is Bound To Keep All The Counsels?
 
-On the contrary, one is not bound, unless one bind oneself, to do works of supererogation. But every religious does not bind himself to keep all the counsels, but to certain definite ones, some to some, others to others. Therefore all are not bound to keep all of them.
+**Objections**
 
----
+Objection 1: It would seem that every religious is bound to keep all the counsels. For whoever professes a certain state of life is bound to observe whatever belongs to that state. Now each religious professes the state of perfection. Therefore every religious is bound to keep all the counsels that pertain to the state of perfection.
+
+Objection 2: Further, Gregory says (Hom. xx in Ezech.) that "he who renounces this world, and does all the good he can, is like one who has gone out of Egypt and offers sacrifice in the wilderness." Now it belongs specially to religious to renounce the world. Therefore it belongs to them also to do all the good they can. and so it would seem that each of them is bound to fulfil all the counsels.
+
+Objection 3: Further, if it is not requisite for the state of perfection to fulfil all the counsels, it would seem enough to fulfil some of them. But this is false, since some who lead a secular life fulfil some of the counsels, for instance those who observe continence. Therefore it would seem that every religious who is in the state of perfection is bound to fulfil whatever pertains to perfection: and such are the counsels.
+
+**Answer**
+
+On the contrary, one is not bound, unless one bind oneself, to do works of supererogation. But every religious does not bind himself to keep all the counsels, but to certain definite ones, some to some, others to others. Therefore all are not bound to keep all of them.
 
 I answer that, A thing pertains to perfection in three ways. First, essentially, and thus, as stated above ([3788]Q[184], A[3]) the perfect observance of the precepts of charity belongs to perfection. Secondly, a thing belongs to perfection consequently: such are those things that result from the perfection of charity, for instance to bless them that curse you (Lk. 6:27), and to keep counsels of a like kind, which though they be binding as regards the preparedness of the mind, so that one has to fulfil them when necessity requires; yet are sometimes fulfilled, without there being any necessity, through superabundance of charity. Thirdly, a thing belongs to perfection instrumentally and dispositively, as poverty, continence, abstinence, and the like.
 
@@ -692,167 +648,149 @@ For the same reason he is not bound to fulfil those things that result from the 
 
 In like manner he is not bound to observe all the practices whereby perfection may be attained, but only those which are definitely prescribed to him by the rule which he has professed.
 
----
-
-Objection 1: It would seem that every religious is bound to keep all the counsels. For whoever professes a certain state of life is bound to observe whatever belongs to that state. Now each religious professes the state of perfection. Therefore every religious is bound to keep all the counsels that pertain to the state of perfection.
+**Replies**
 
 Reply to Objection 1: He who enters religion does not make profession to be perfect, but he professes to endeavor to attain perfection; even as he who enters the schools does not profess to have knowledge, but to study in order to acquire knowledge. Wherefore as Augustine says (De Civ. Dei viii, 2), Pythagoras was unwilling to profess to be a wise man, but acknowledged himself, "a lover of wisdom." Hence a religious does not violate his profession if he be not perfect, but only if he despises to tend to perfection.
 
----
-
-Objection 2: Further, Gregory says (Hom. xx in Ezech.) that "he who renounces this world, and does all the good he can, is like one who has gone out of Egypt and offers sacrifice in the wilderness." Now it belongs specially to religious to renounce the world. Therefore it belongs to them also to do all the good they can. and so it would seem that each of them is bound to fulfil all the counsels.
-
 Reply to Objection 2: Just as, though all are bound to love God with their whole heart, yet there is a certain wholeness of perfection which cannot be omitted without sin, and another wholeness which can be omitted without sin ([3790]Q[184], A[2], ad 3), provided there be no contempt, as stated above (ad 1), so too, all, both religious and seculars, are bound, in a certain measure, to do whatever good they can, for to all without exception it is said (Eccles. 9:10): "Whatsoever thy hand is able to do, do it earnestly." Yet there is a way of fulfilling this precept, so as to avoid sin, namely if one do what one can as required by the conditions of one's state of life: provided there be no contempt of doing better things, which contempt sets the mind against spiritual progress.
-
----
-
-Objection 3: Further, if it is not requisite for the state of perfection to fulfil all the counsels, it would seem enough to fulfil some of them. But this is false, since some who lead a secular life fulfil some of the counsels, for instance those who observe continence. Therefore it would seem that every religious who is in the state of perfection is bound to fulfil whatever pertains to perfection: and such are the counsels.
 
 Reply to Objection 3: There are some counsels such that if they be omitted, man's whole life would be taken up with secular business; for instance if he have property of his own, or enter the married state, or do something of the kind that regards the essential vows of religion themselves; wherefore religious are bound to keep all such like counsels. Other counsels there are, however, about certain particular better actions, which can be omitted without one's life being taken up with secular actions; wherefore there is no need for religious to be bound to fulfil all of them.
 
 ### Whether Poverty Is Required For Religious Perfection?
 
-On the contrary, Gregory says (Moral. viii, 26): "There are some of the righteous who bracing themselves up to lay hold of the very height of perfection, while they aim at higher objects within, abandon all things without." Now, as stated above, ([3792]AA[1],2), it belongs properly to religious to brace themselves up in order to lay hold of the very height of perfection. Therefore it belongs to them to abandon all outward things by voluntary poverty.
+**Objections**
 
----
+Objection 1: It would seem that poverty is not required for religious perfection. For that which it is unlawful to do does not apparently belong to the state of perfection. But it would seem to be unlawful for a man to give up all he possesses; since the Apostle (2 Cor. 8:12) lays down the way in which the faithful are to give alms saying: "If the will be forward, it is accepted according to that which a man hath," i.e. "you should keep back what you need," and afterwards he adds (2 Cor. 8:13): "For I mean not that others should be eased, and you burthened," i.e. "with poverty," according to a gloss. Moreover a gloss on 1 Tim. 6:8, "Having food, and wherewith to be covered," says: "Though we brought nothing, and will carry nothing away, we must not give up these temporal things altogether." Therefore it seems that voluntary poverty is not requisite for religious perfection.
+
+Objection 2: Further, whosoever exposes himself to danger sins. But he who renounces all he has and embraces voluntary poverty exposes himself to danger---not only spiritual, according to Prov. 30:9, "Lest perhaps . . . being compelled by poverty, I should steal and forswear the name of my God," and Ecclus. 27:1, "Through poverty many have sinned"---but also corporal, for it is written (Eccles. 7:13): "As wisdom is a defense, so money is a defense," and the Philosopher says (Ethic. iv, 1) that "the waste of property appears to be a sort of ruining of one's self, since thereby man lives." Therefore it would seem that voluntary poverty is not requisite for the perfection of religious life.
+
+Objection 3: Further, "Virtue observes the mean," as stated in Ethic. ii, 6. But he who renounces all by voluntary poverty seems to go to the extreme rather than to observe the mean. Therefore he does not act virtuously: and so this does not pertain to the perfection of life.
+
+Objection 4: Further, the ultimate perfection of man consists in happiness. Now riches conduce to happiness; for it is written (Ecclus. 31:8): "Blessed is the rich man that is found without blemish," and the Philosopher says (Ethic. i, 8) that "riches contribute instrumentally to happiness." Therefore voluntary poverty is not requisite for religious perfection.
+
+Objection 5: Further, the episcopal state is more perfect than the religious state. But bishops may have property, as stated above ([3791]Q[185], A[6]). Therefore religious may also.
+
+Objection 6: Further, almsgiving is a work most acceptable to God, and as Chrysostom says (Hom. ix in Ep. ad Hebr.) "is a most effective remedy in repentance." Now poverty excludes almsgiving. Therefore it would seem that poverty does not pertain to religious perfection.
+
+**Answer**
+
+On the contrary, Gregory says (Moral. viii, 26): "There are some of the righteous who bracing themselves up to lay hold of the very height of perfection, while they aim at higher objects within, abandon all things without." Now, as stated above, ([3792]AA[1],2), it belongs properly to religious to brace themselves up in order to lay hold of the very height of perfection. Therefore it belongs to them to abandon all outward things by voluntary poverty.
 
 I answer that, As stated above [3793](A[2]), the religious state is an exercise and a school for attaining to the perfection of charity. For this it is necessary that a man wholly withdraw his affections from worldly things; since Augustine says (Confess. x, 29), speaking to God: "Too little doth he love Thee, who loves anything with Thee, which he loveth not for Thee." Wherefore he says (QQ. lxxxiii, qu. 36) that "greater charity means less cupidity, perfect charity means no cupidity." Now the possession of worldly things draws a man's mind to the love of them: hence Augustine says (Ep. xxxi ad Paulin. et Theras.) that "we are more firmly attached to earthly things when we have them than when we desire them: since why did that young man go away sad, save because he had great wealth? For it is one thing not to wish to lay hold of what one has not, and another to renounce what one already has; the former are rejected as foreign to us, the latter are cut off as a limb." And Chrysostom says (Hom. lxiii in Matth.) that "the possession of wealth kindles a greater flame and the desire for it becomes stronger."
 
 Hence it is that in the attainment of the perfection of charity the first foundation is voluntary poverty, whereby a man lives without property of his own, according to the saying of our Lord (Mat. 19:21), "If thou wilt be perfect, go, sell all [Vulg.: 'what'] thou hast, and give to the poor . . . and come, follow Me."
 
----
-
-Objection 1: It would seem that poverty is not required for religious perfection. For that which it is unlawful to do does not apparently belong to the state of perfection. But it would seem to be unlawful for a man to give up all he possesses; since the Apostle (2 Cor. 8:12) lays down the way in which the faithful are to give alms saying: "If the will be forward, it is accepted according to that which a man hath," i.e. "you should keep back what you need," and afterwards he adds (2 Cor. 8:13): "For I mean not that others should be eased, and you burthened," i.e. "with poverty," according to a gloss. Moreover a gloss on 1 Tim. 6:8, "Having food, and wherewith to be covered," says: "Though we brought nothing, and will carry nothing away, we must not give up these temporal things altogether." Therefore it seems that voluntary poverty is not requisite for religious perfection.
+**Replies**
 
 Reply to Objection 1: As the gloss adds, "when the Apostle said this (namely "not that you should be burthened," i.e. with poverty)," he did not mean that "it were better not to give: but he feared for the weak, whom he admonished so to give as not to suffer privation." Hence in like manner the other gloss means not that it is unlawful to renounce all one's temporal goods, but that this is not required of necessity. Wherefore Ambrose says (De Offic. i, 30): "Our Lord does not wish," namely does not command us "to pour out our wealth all at once, but to dispense it; or perhaps to do as did Eliseus who slew his oxen, and fed the poor with that which was his own so that no household care might hold him back."
 
----
-
-Objection 2: Further, whosoever exposes himself to danger sins. But he who renounces all he has and embraces voluntary poverty exposes himself to danger---not only spiritual, according to Prov. 30:9, "Lest perhaps . . . being compelled by poverty, I should steal and forswear the name of my God," and Ecclus. 27:1, "Through poverty many have sinned"---but also corporal, for it is written (Eccles. 7:13): "As wisdom is a defense, so money is a defense," and the Philosopher says (Ethic. iv, 1) that "the waste of property appears to be a sort of ruining of one's self, since thereby man lives." Therefore it would seem that voluntary poverty is not requisite for the perfection of religious life.
-
 Reply to Objection 2: He who renounces all his possessions for Christ's sake exposes himself to no danger, neither spiritual nor corporal. For spiritual danger ensues from poverty when the latter is not voluntary; because those who are unwillingly poor, through the desire of money-getting, fall into many sins, according to 1 Tim. 6:9, "They that will become rich, fall into temptation and into the snare of the devil." This attachment is put away by those who embrace voluntary poverty, but it gathers strength in those who have wealth, as stated above. Again bodily danger does not threaten those who, intent on following Christ, renounce all their possessions and entrust themselves to divine providence. Hence Augustine says (De Serm. Dom. in Monte ii, 17): "Those who seek first the kingdom of God and His justice are not weighed down by anxiety lest they lack what is necessary."
-
----
-
-Objection 3: Further, "Virtue observes the mean," as stated in Ethic. ii, 6. But he who renounces all by voluntary poverty seems to go to the extreme rather than to observe the mean. Therefore he does not act virtuously: and so this does not pertain to the perfection of life.
 
 Reply to Objection 3: According to the Philosopher (Ethic. ii, 6), the mean of virtue is taken according to right reason, not according to the quantity of a thing. Consequently whatever may be done in accordance with right reason is not rendered sinful by the greatness of the quantity, but all the more virtuous. It would, however, be against right reason to throw away all one's possessions through intemperance, or without any useful purpose; whereas it is in accordance with right reason to renounce wealth in order to devote oneself to the contemplation of wisdom. Even certain philosophers are said to have done this; for Jerome says (Ep. xlviii ad Paulin.): "The famous Theban, Crates, once a very wealthy man, when he was going to Athens to study philosophy, cast away a large amount of gold; for he considered that he could not possess both gold and virtue at the same time." Much more therefore is it according to right reason for a man to renounce all he has, in order perfectly to follow Christ. Wherefore Jerome says (Ep. cxxv ad Rust. Monach.): "Poor thyself, follow Christ poor."
 
----
-
-Objection 4: Further, the ultimate perfection of man consists in happiness. Now riches conduce to happiness; for it is written (Ecclus. 31:8): "Blessed is the rich man that is found without blemish," and the Philosopher says (Ethic. i, 8) that "riches contribute instrumentally to happiness." Therefore voluntary poverty is not requisite for religious perfection.
-
 Reply to Objection 4: Happiness or felicity is twofold. One is perfect, to which we look forward in the life to come; the other is imperfect, in respect of which some are said to be happy in this life. The happiness of this life is twofold, one is according to the active life, the other according to the contemplative life, as the Philosopher asserts (Ethic. x, 7,8). Now wealth conduces instrumentally to the happiness of the active life which consists in external actions, because as the Philosopher says (Ethic. i, 8) "we do many things by friends, by riches, by political influence, as it were by instruments." On the other hand, it does not conduce to the happiness of the contemplative life, rather is it an obstacle thereto, inasmuch as the anxiety it involves disturbs the quiet of the soul, which is most necessary to one who contemplates. Hence it is that the Philosopher asserts (Ethic. x, 8) that "for actions many things are needed, but the contemplative man needs no such things," namely external goods, "for his operation; in fact they are obstacles to his contemplation."
 
----
-
-Objection 5: Further, the episcopal state is more perfect than the religious state. But bishops may have property, as stated above ([3791]Q[185], A[6]). Therefore religious may also.
-
 Reply to Objection 5: The episcopal state is not directed to the attainment of perfection, but rather to the effect that, in virtue of the perfection which he already has, a man may govern others, by administering not only spiritual but also temporal things. This belongs to the active life, wherein many things occur that may be done by means of wealth as an instrument, as stated (ad 4). Wherefore it is not required of bishops, who make profession of governing Christ's flock, that they have nothing of their own, whereas it is required of religious who make profession of learning to obtain perfection.
-
----
-
-Objection 6: Further, almsgiving is a work most acceptable to God, and as Chrysostom says (Hom. ix in Ep. ad Hebr.) "is a most effective remedy in repentance." Now poverty excludes almsgiving. Therefore it would seem that poverty does not pertain to religious perfection.
 
 Reply to Objection 6: The renouncement of one's own wealth is compared to almsgiving as the universal to the particular, and as the holocaust to the sacrifice. Hence Gregory says (Hom. xx in Ezech.) that those who assist "the needy with the things they possess, by their good deeds offer sacrifice, since they offer up something to God and keep back something for themselves; whereas those who keep nothing for themselves offer a holocaust which is greater than a sacrifice." Wherefore Jerome also says (Contra Vigilant.): "When you declare that those do better who retain the use of their possessions, and dole out the fruits of their possessions to the poor, it is not I but the Lord Who answers you; If thou wilt be perfect," etc., and afterwards he goes on to say: "This man whom you praise belongs to the second and third degree, and we too commend him: provided we acknowledge the first as to be preferred to the second and third." For this reason in order to exclude the error of Vigilantius it is said (De Eccl. Dogm. xxxviii): "It is a good thing to give away one's goods by dispensing them to the poor: it is better to give them away once for all with the intention of following the Lord, and, free of solicitude, to be poor with Christ."
 
 ### Whether Perpetual Continence Is Required For Religious Perfection?
 
-On the contrary, The Apostle says (2 Cor. 7:1): "Let us cleanse ourselves from all defilement of the flesh and of the spirit, perfecting sanctification in the fear of God." Now cleanness of flesh and spirit is safeguarded by continence, for it is said (1 Cor. 7:34): "The unmarried woman and the virgin thinketh on the things of the Lord that she may be holy both in spirit and in body [Vulg.: 'both in body and in spirit']." Therefore religious perfection requires continence.
+**Objections**
 
----
+Objection 1: It would seem that perpetual continence is not required for religious perfection. For all perfection of the Christian life began with Christ's apostles. Now the apostles do not appear to have observed continence, as evidenced by Peter, of whose mother-in-law we read Mat. 8:14. Therefore it would seem that perpetual continence is not requisite for religious perfection.
+
+Objection 2: Further, the first example of perfection is shown to us in the person of Abraham, to whom the Lord said (Gn. 17:1): "Walk before Me, and be perfect." Now the copy should not surpass the example. Therefore perpetual continence is not requisite for religious perfection.
+
+Objection 3: Further, that which is required for religious perfection is to be found in every religious order. Now there are some religious who lead a married life. Therefore religious perfection does not require perpetual continence.
+
+**Answer**
+
+On the contrary, The Apostle says (2 Cor. 7:1): "Let us cleanse ourselves from all defilement of the flesh and of the spirit, perfecting sanctification in the fear of God." Now cleanness of flesh and spirit is safeguarded by continence, for it is said (1 Cor. 7:34): "The unmarried woman and the virgin thinketh on the things of the Lord that she may be holy both in spirit and in body [Vulg.: 'both in body and in spirit']." Therefore religious perfection requires continence.
 
 I answer that, The religious state requires the removal of whatever hinders man from devoting himself entirely to God's service. Now the use of sexual union hinders the mind from giving itself wholly to the service of God, and this for two reasons. First, on account of its vehement delectation, which by frequent repetition increases concupiscence, as also the Philosopher observes (Ethic. iii, 12): and hence it is that the use of venery withdraws the mind from that perfect intentness on tending to God. Augustine expresses this when he says (Solil. i, 10): "I consider that nothing so casts down the manly mind from its height as the fondling of women, and those bodily contacts which belong to the married state." Secondly, because it involves man in solicitude for the control of his wife, his children, and his temporalities which serve for their upkeep. Hence the Apostle says (1 Cor. 7:32,33): "He that is without a wife is solicitous for the things that belong to the Lord, how he may please God: but he that is with a wife is solicitous for the things of the world, how he may please his wife."
 
 Therefore perpetual continence, as well as voluntary poverty, is requisite for religious perfection. Wherefore just as Vigilantius was condemned for equaling riches to poverty, so was Jovinian condemned for equaling marriage to virginity.
 
----
-
-Objection 1: It would seem that perpetual continence is not required for religious perfection. For all perfection of the Christian life began with Christ's apostles. Now the apostles do not appear to have observed continence, as evidenced by Peter, of whose mother-in-law we read Mat. 8:14. Therefore it would seem that perpetual continence is not requisite for religious perfection.
+**Replies**
 
 Reply to Objection 1: The perfection not only of poverty but also of continence was introduced by Christ Who said (Mat. 19:12): "There are eunuchs who have made themselves eunuchs, for the kingdom of heaven," and then added: "He that can take, let him take it." And lest anyone should be deprived of the hope of attaining perfection, he admitted to the state of perfection those even who were married. Now the husbands could not without committing an injustice forsake their wives, whereas men could without injustice renounce riches. Wherefore Peter whom He found married, He severed not from his wife, while "He withheld from marriage John who wished to marry" [*Prolog. in Joan. among the supposititious works of St. Jerome].
 
----
-
-Objection 2: Further, the first example of perfection is shown to us in the person of Abraham, to whom the Lord said (Gn. 17:1): "Walk before Me, and be perfect." Now the copy should not surpass the example. Therefore perpetual continence is not requisite for religious perfection.
-
 Reply to Objection 2: As Augustine says (De Bono Conjug. xxii), "the chastity of celibacy is better than the chastity of marriage, one of which Abraham had in use, both of them in habit. For he lived chastely, and he might have been chaste without marrying, but it was not requisite then." Nevertheless if the patriarchs of old had perfection of mind together with wealth and marriage, which is a mark of the greatness of their virtue, this is no reason why any weaker person should presume to have such great virtue that he can attain to perfection though rich and married; as neither does a man unarmed presume to attack his enemy, because Samson slew many foes with the jaw-bone of an ass. For those fathers, had it been seasonable to observe continence and poverty, would have been most careful to observe them.
-
----
-
-Objection 3: Further, that which is required for religious perfection is to be found in every religious order. Now there are some religious who lead a married life. Therefore religious perfection does not require perpetual continence.
 
 Reply to Objection 3: Such ways of living as admit of the use of marriage are not the religious life simply and absolutely speaking, but in a restricted sense, in so far as they have a certain share in those things that belong to the religious state.
 
 ### Whether Obedience Belongs To Religious Perfection?
 
-On the contrary, Religious perfection consists chiefly in the imitation of Christ, according to Mat. 19:21, "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast, and give to the poor, and follow Me." Now in Christ obedience is commended above all according to Phil. 2:8, "He became [Vulg.: 'becoming'] obedient unto death." Therefore seemingly obedience belongs to religious perfection.
-
----
-
-I answer that, As stated above ([3795]AA[2],3) the religious state is a school and exercise for tending to perfection. Now those who are being instructed or exercised in order to attain a certain end must needs follow the direction of someone under whose control they are instructed or exercised so as to attain that end as disciples under a master. Hence religious need to be placed under the instruction and command of someone as regards things pertaining to the religious life; wherefore it is said (VII, qu. i, can. Hoc nequaquam): "The monastic life denotes subjection and discipleship." Now one man is subjected to another's command and instruction by obedience: and consequently obedience is requisite for religious perfection.
-
----
+**Objections**
 
 Objection 1: It would seem that obedience does not belong to religious perfection. For those things seemingly belong to religious perfection, which are works of supererogation and are not binding upon all. But all are bound to obey their superiors, according to the saying of the Apostle (Heb. 13:17), "Obey your prelates, and be subject to them." Therefore it would seem that obedience does not belong to religious perfection.
 
-Reply to Objection 1: To obey one's superiors in matters that are essential to virtue is not a work of supererogation, but is common to all: whereas to obey in matters pertaining to the practice of perfection belongs properly to religious. This latter obedience is compared to the former as the universal to the particular. For those who live in the world, keep something for themselves, and offer something to God; and in the latter respect they are under obedience to their superiors: whereas those who live in religion give themselves wholly and their possessions to God, as stated above ([3796]AA[1],3). Hence their obedience is universal.
-
----
-
 Objection 2: Further, obedience would seem to belong properly to those who have to be guided by the sense of others, and such persons are lacking in discernment. Now the Apostle says (Heb. 5:14) that "strong meat is for the perfect, for them who by custom have their senses exercised to the discerning of good and evil." Therefore it would seem that obedience does not belong to the state of the perfect.
-
-Reply to Objection 2: As the Philosopher says (Ethic. ii, 1,2), by performing actions we contract certain habits, and when we have acquired the habit we are best able to perform the actions. Accordingly those who have not attained to perfection, acquire perfection by obeying, while those who have already acquired perfection are most ready to obey, not as though they need to be directed to the acquisition of perfection, but as maintaining themselves by this means in that which belongs to perfection.
-
----
 
 Objection 3: Further, if obedience were requisite for religious perfection, it would follow that it is befitting to all religious. But it is not becoming to all; since some religious lead a solitary life, and have no superior whom they obey. Again religious superiors apparently are not bound to obedience. Therefore obedience would seem not to pertain to religious perfection.
 
-Reply to Objection 3: The subjection of religious is chiefly in reference to bishops, who are compared to them as perfecters to perfected, as Dionysius states (Eccl. Hier. vi), where he also says that the "monastic order is subjected to the perfecting virtues of the bishops, and is taught by their godlike enlightenment." Hence neither hermits nor religious superiors are exempt from obedience to bishops; and if they be wholly or partly exempt from obedience to the bishop of the diocese, they are nevertheless bound to obey the Sovereign Pontiff, not only in matters affecting all in common, but also in those which pertain specially to religious discipline.
-
----
-
 Objection 4: Further, if the vow of obedience were requisite for religion, it would follow that religious are bound to obey their superiors in all things, just as they are bound to abstain from all venery by their vow of continence. But they are not bound to obey them in all things, as stated above ([3794]Q[104], A[5]), when we were treating of the virtue of obedience. Therefore the vow of obedience is not requisite for religion.
 
-Reply to Objection 4: The vow of obedience taken by religious, extends to the disposition of a man's whole life, and in this way it has a certain universality, although it does not extend to all individual acts. For some of these do not belong to religion, through not being of those things that concern the love of God and of our neighbor, such as rubbing one's beard, lifting a stick from the ground and so forth, which do not come under a vow nor under obedience; and some are contrary to religion. Nor is there any comparison with continence whereby acts are excluded which are altogether contrary to religion.
-
----
-
 Objection 5: Further, those services are most acceptable to God which are done freely and not of necessity, according to 2 Cor. 9:7, "Not with sadness or of necessity." Now that which is done out of obedience is done of necessity of precept. Therefore those good works are more deserving of praise which are done of one's own accord. Therefore the vow of obedience is unbecoming to religion whereby men seek to attain to that which is better.
+
+**Answer**
+
+On the contrary, Religious perfection consists chiefly in the imitation of Christ, according to Mat. 19:21, "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast, and give to the poor, and follow Me." Now in Christ obedience is commended above all according to Phil. 2:8, "He became [Vulg.: 'becoming'] obedient unto death." Therefore seemingly obedience belongs to religious perfection.
+
+I answer that, As stated above ([3795]AA[2],3) the religious state is a school and exercise for tending to perfection. Now those who are being instructed or exercised in order to attain a certain end must needs follow the direction of someone under whose control they are instructed or exercised so as to attain that end as disciples under a master. Hence religious need to be placed under the instruction and command of someone as regards things pertaining to the religious life; wherefore it is said (VII, qu. i, can. Hoc nequaquam): "The monastic life denotes subjection and discipleship." Now one man is subjected to another's command and instruction by obedience: and consequently obedience is requisite for religious perfection.
+
+**Replies**
+
+Reply to Objection 1: To obey one's superiors in matters that are essential to virtue is not a work of supererogation, but is common to all: whereas to obey in matters pertaining to the practice of perfection belongs properly to religious. This latter obedience is compared to the former as the universal to the particular. For those who live in the world, keep something for themselves, and offer something to God; and in the latter respect they are under obedience to their superiors: whereas those who live in religion give themselves wholly and their possessions to God, as stated above ([3796]AA[1],3). Hence their obedience is universal.
+
+Reply to Objection 2: As the Philosopher says (Ethic. ii, 1,2), by performing actions we contract certain habits, and when we have acquired the habit we are best able to perform the actions. Accordingly those who have not attained to perfection, acquire perfection by obeying, while those who have already acquired perfection are most ready to obey, not as though they need to be directed to the acquisition of perfection, but as maintaining themselves by this means in that which belongs to perfection.
+
+Reply to Objection 3: The subjection of religious is chiefly in reference to bishops, who are compared to them as perfecters to perfected, as Dionysius states (Eccl. Hier. vi), where he also says that the "monastic order is subjected to the perfecting virtues of the bishops, and is taught by their godlike enlightenment." Hence neither hermits nor religious superiors are exempt from obedience to bishops; and if they be wholly or partly exempt from obedience to the bishop of the diocese, they are nevertheless bound to obey the Sovereign Pontiff, not only in matters affecting all in common, but also in those which pertain specially to religious discipline.
+
+Reply to Objection 4: The vow of obedience taken by religious, extends to the disposition of a man's whole life, and in this way it has a certain universality, although it does not extend to all individual acts. For some of these do not belong to religion, through not being of those things that concern the love of God and of our neighbor, such as rubbing one's beard, lifting a stick from the ground and so forth, which do not come under a vow nor under obedience; and some are contrary to religion. Nor is there any comparison with continence whereby acts are excluded which are altogether contrary to religion.
 
 Reply to Objection 5: The necessity of coercion makes an act involuntary and consequently deprives it of the character of praise or merit; whereas the necessity which is consequent upon obedience is a necessity not of coercion but of a free will, inasmuch as a man is willing to obey, although perhaps he would not be willing to do the thing commanded considered in itself. Wherefore since by the vow of obedience a man lays himself under the necessity of doing for God's sake certain things that are not pleasing in themselves, for this very reason that which he does is the more acceptable to God, though it be of less account, because man can give nothing greater to God, than by subjecting his will to another man's for God's sake. Hence in the Conferences of the Fathers (Coll. xviii, 7) it is stated that "the Sarabaitae are the worst class of monks, because through providing for their own needs without being subject to superiors, they are free to do as they will; and yet day and night they are more busily occupied in work than those who live in monasteries."
 
 ### Whether It Is Requisite For Religious Perfection That Poverty, Continence, And Obedience Should Come Under A Vow?
 
-On the contrary, In the Old Law the Nazareans were consecrated by vow according to Num. 6:2, "When a man or woman shall make a vow to be sanctified and will consecrate themselves to the Lord," etc. Now these were a figure of those "who attain the summit of perfection," as a gloss [*Cf. Moral. ii] of Gregory states. Therefore a vow is requisite for religious perfection.
-
----
-
-I answer that, It belongs to religious to be in the state of perfection, as shown above (Q[174], A[5]). Now the state of perfection requires an obligation to whatever belongs to perfection: and this obligation consists in binding oneself to God by means of a vow. But it is evident from what has been said ([3797]AA[3],4,5) that poverty, continence, and obedience belong to the perfection of the Christian life. Consequently the religious state requires that one be bound to these three by vow. Hence Gregory says (Hom. xx in Ezech.): "When a man vows to God all his possessions, all his life, all his knowledge, it is a holocaust"; and afterwards he says that this refers to those who renounce the present world.
-
----
+**Objections**
 
 Objection 1: It would seem that it is not requisite for religious perfection that the three aforesaid, namely poverty, continence, and obedience, should come under a vow. For the school of perfection is founded on the principles laid down by our Lord. Now our Lord in formulating perfection (Mat. 19:21) said: "If thou wilt be perfect, go, sell all [Vulg.: 'what'] thou hast, and give to the poor," without any mention of a vow. Therefore it would seem that a vow is not necessary for the school of religion.
 
-Reply to Objection 1: Our Lord declared that it belongs to the perfection of life that a man follow Him, not anyhow, but in such a way as not to turn back. Wherefore He says again (Lk. 9:62): "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." And though some of His disciples went back, yet when our Lord asked (Jn. 6:68,69), "Will you also go away?" Peter answered for the others: "Lord, to whom shall we go?" Hence Augustine says (De Consensu Ev. ii, 17) that "as Matthew and Mark relate, Peter and Andrew followed Him after drawing their boats on to the beach, not as though they purposed to return, but as following Him at His command." Now this unwavering following of Christ is made fast by a vow: wherefore a vow is requisite for religious perfection.
-
----
-
 Objection 2: Further, a vow is a promise made to God, wherefore (Eccles. 5:3) the wise man after saying: "If thou hast vowed anything to God, defer not to pay it," adds at once, "for an unfaithful and foolish promise displeaseth Him." But when a thing is being actually given there is no need for a promise. Therefore it suffices for religious perfection that one keep poverty, continence, and obedience without. vowing them.
 
-Reply to Objection 2: As Gregory says (Moral. ii) religious perfection requires that a man give "his whole life" to God. But a man cannot actually give God his whole life, because that life taken as a whole is not simultaneous but successive. Hence a man cannot give his whole life to God otherwise than by the obligation of a vow.
-
----
-
 Objection 3: Further, Augustine says (Ad Pollent., de Adult. Conjug. i, 14): "The services we render are more pleasing when we might lawfully not render them, yet do so out of love." Now it is lawful not to render a service which we have not vowed, whereas it is unlawful if we have vowed to render it. Therefore seemingly it is more pleasing to God to keep poverty, continence, and obedience without a vow. Therefore a vow is not requisite for religious perfection.
+
+**Answer**
+
+On the contrary, In the Old Law the Nazareans were consecrated by vow according to Num. 6:2, "When a man or woman shall make a vow to be sanctified and will consecrate themselves to the Lord," etc. Now these were a figure of those "who attain the summit of perfection," as a gloss [*Cf. Moral. ii] of Gregory states. Therefore a vow is requisite for religious perfection.
+
+I answer that, It belongs to religious to be in the state of perfection, as shown above (Q[174], A[5]). Now the state of perfection requires an obligation to whatever belongs to perfection: and this obligation consists in binding oneself to God by means of a vow. But it is evident from what has been said ([3797]AA[3],4,5) that poverty, continence, and obedience belong to the perfection of the Christian life. Consequently the religious state requires that one be bound to these three by vow. Hence Gregory says (Hom. xx in Ezech.): "When a man vows to God all his possessions, all his life, all his knowledge, it is a holocaust"; and afterwards he says that this refers to those who renounce the present world.
+
+**Replies**
+
+Reply to Objection 1: Our Lord declared that it belongs to the perfection of life that a man follow Him, not anyhow, but in such a way as not to turn back. Wherefore He says again (Lk. 9:62): "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." And though some of His disciples went back, yet when our Lord asked (Jn. 6:68,69), "Will you also go away?" Peter answered for the others: "Lord, to whom shall we go?" Hence Augustine says (De Consensu Ev. ii, 17) that "as Matthew and Mark relate, Peter and Andrew followed Him after drawing their boats on to the beach, not as though they purposed to return, but as following Him at His command." Now this unwavering following of Christ is made fast by a vow: wherefore a vow is requisite for religious perfection.
+
+Reply to Objection 2: As Gregory says (Moral. ii) religious perfection requires that a man give "his whole life" to God. But a man cannot actually give God his whole life, because that life taken as a whole is not simultaneous but successive. Hence a man cannot give his whole life to God otherwise than by the obligation of a vow.
 
 Reply to Objection 3: Among other services that we can lawfully give, is our liberty, which is dearer to man than aught else. Consequently when a man of his own accord deprives himself by vow of the liberty of abstaining from things pertaining to God's service, this is most acceptable to God. Hence Augustine says (Ep. cxxvii ad Paulin. et Arment.): "Repent not of thy vow; rejoice rather that thou canst no longer do lawfully, what thou mightest have done lawfully but to thy own cost. Happy the obligation that compels to better things."
 
 ### Whether It Is Right To Say That Religious Perfection Consists In These Three Vows?
 
-On the contrary, It is stated (Extra, de Statu Monach., cap. Cum ad monasterium) that "the keeping of chastity and the renouncing of property are affixed to the monastic rule."
+**Objections**
 
----
+Objection 1: It would seem that it is not right to say that religious perfection consists in these three vows. For the perfection of life consists of inward rather than of outward acts, according to Rom. 14:17, "The Kingdom of God is not meat and drink, but justice and peace and joy in the Holy Ghost." Now the religious vow binds a man to things belonging to perfection. Therefore vows of inward actions, such as contemplation, love of God and our neighbor, and so forth, should pertain to the religious state, rather than the vows of poverty, continence, and obedience which refer to outward actions.
+
+Objection 2: Further, the three aforesaid come under the religious vow, in so far as they belong to the practice of tending to perfection. But there are many other things that religious practice, such as abstinence, watchings, and the like. Therefore it would seem that these three vows are incorrectly described as pertaining to the state of perfection.
+
+Objection 3: Further, by the vow of obedience a man is bound to do according to his superior's command whatever pertains to the practice of perfection. Therefore the vow of obedience suffices without the two other vows.
+
+Objection 4: Further, external goods comprise not only riches but also honors. Therefore, if religious, by the vow of poverty, renounce earthly riches, there should be another vow whereby they may despise worldly honors.
+
+**Answer**
+
+On the contrary, It is stated (Extra, de Statu Monach., cap. Cum ad monasterium) that "the keeping of chastity and the renouncing of property are affixed to the monastic rule."
 
 I answer that, The religious state may be considered in three ways. First, as being a practice of tending to the perfection of charity: secondly, as quieting the human mind from outward solicitude, according to 1 Cor. 7:32: "I would have you to be without solicitude": thirdly, as a holocaust whereby a man offers himself and his possessions wholly to God; and in corresponding manner the religious state is constituted by these three vows.
 
@@ -860,35 +798,29 @@ First, as regards the practice of perfection a man is required to remove from hi
 
 Again, "a holocaust is the offering to God of all that one has," according to Gregory (Hom. xx in Ezech.). Now man has a threefold good, according to the Philosopher (Ethic. i, 8). First, the good of external things, which he wholly offers to God by the vow of voluntary poverty: secondly, the good of his own body, and this good he offers to God especially by the vow of continence, whereby he renounces the greatest bodily pleasures. the third is the good of the soul, which man wholly offers to God by the vow of obedience, whereby he offers God his own will by which he makes use of all the powers and habits of the soul. Therefore the religious state is fittingly constituted by the three vows.
 
----
-
-Objection 1: It would seem that it is not right to say that religious perfection consists in these three vows. For the perfection of life consists of inward rather than of outward acts, according to Rom. 14:17, "The Kingdom of God is not meat and drink, but justice and peace and joy in the Holy Ghost." Now the religious vow binds a man to things belonging to perfection. Therefore vows of inward actions, such as contemplation, love of God and our neighbor, and so forth, should pertain to the religious state, rather than the vows of poverty, continence, and obedience which refer to outward actions.
+**Replies**
 
 Reply to Objection 1: As stated above [3798](A[1]), the end whereunto the religious vow is directed is the perfection of charity, since all the interior acts of virtue belong to charity as to their mother, according to 1 Cor. 13:4, "Charity is patient, is kind," etc. Hence the interior acts of virtue, for instance humility, patience, and so forth, do not come under the religious vow, but this is directed to them as its end.
 
----
-
-Objection 2: Further, the three aforesaid come under the religious vow, in so far as they belong to the practice of tending to perfection. But there are many other things that religious practice, such as abstinence, watchings, and the like. Therefore it would seem that these three vows are incorrectly described as pertaining to the state of perfection.
-
 Reply to Objection 2: All other religious observances are directed to the three aforesaid principal vows; for if any of them are ordained for the purpose of procuring a livelihood, such as labor, questing, and so on, they are to be referred to poverty; for the safeguarding of which religious seek a livelihood by these means. Other observances whereby the body is chastised, such as watching, fasting, and the like, are directly ordained for the observance of the vow of continence. And such religious observances as regard human actions whereby a man is directed to the end of religion, namely the love of God and his neighbor (such as reading, prayer, visiting the sick, and the like), are comprised under the vow of obedience that applies to the will, which directs its actions to the end according to the ordering of another person. The distinction of habit belongs to all three vows, as a sign of being bound by them: wherefore the religious habit is given or blessed at the time of profession.
 
----
-
-Objection 3: Further, by the vow of obedience a man is bound to do according to his superior's command whatever pertains to the practice of perfection. Therefore the vow of obedience suffices without the two other vows.
-
 Reply to Objection 3: By obedience a man offers to God his will, to which though all human affairs are subject, yet some are subject to it alone in a special manner, namely human actions, since passions belong also to the sensitive appetite. Wherefore in order to restrain the passions of carnal pleasures and of external objects of appetite, which hinder the perfection of life, there was need for the vows of continence and poverty; but for the ordering of one's own actions accordingly as the state of perfection requires, there was need for the vow of obedience.
-
----
-
-Objection 4: Further, external goods comprise not only riches but also honors. Therefore, if religious, by the vow of poverty, renounce earthly riches, there should be another vow whereby they may despise worldly honors.
 
 Reply to Objection 4: As the Philosopher says (Ethic. iv, 3), strictly and truly speaking honor is not due save to virtue. Since, however, external goods serve instrumentally for certain acts of virtue, the consequence is that a certain honor is given to their excellence especially by the common people who acknowledge none but outward excellence. Therefore since religious tend to the perfection of virtue it becomes them not to renounce the honor which God and all holy men accord to virtue, according to Ps. 138:17, "But to me Thy friends, O God, are made exceedingly honorable." On the other hand, they renounce the honor that is given to outward excellence, by the very fact that they withdraw from a worldly life: hence no special vow is needed for this.
 
 ### Whether The Vow Of Obedience Is The Chief Of The Three Religious Vows?
 
-On the contrary, Gregory says (Moral. xxxv, 14): "Obedience is rightly placed before victims, since by victims another's flesh, but by obedience one's own will, is sacrificed." Now the religious vows are holocausts, as stated above ([3799]AA[1],3, ad 6). Therefore the vow of obedience is the chief of all religious vows.
+**Objections**
 
----
+Objection 1: It would seem that the vow of obedience is not the chief of the three religious vows. For the perfection of the religious life was inaugurated by Christ. Now Christ gave a special counsel of poverty; whereas He is not stated to have given a special counsel of obedience. Therefore the vow of poverty is greater than the vow of obedience.
+
+Objection 2: Further, it is written (Ecclus. 26:20) that "no price is worthy of a continent soul." Now the vow of that which is more worthy is itself more excellent. Therefore the vow of continence is more excellent than the vow of obedience.
+
+Objection 3: Further, the greater a vow the more indispensable it would seem to be. Now the vows of poverty and continence "are so inseparable from the monastic rule, that not even the Sovereign Pontiff can allow them to be broken," according to a Decretal (De Statu Monach., cap. Cum ad monasterium): yet he can dispense a religious from obeying his superior. Therefore it would seem that the vow of obedience is less than the vow of poverty and continence.
+
+**Answer**
+
+On the contrary, Gregory says (Moral. xxxv, 14): "Obedience is rightly placed before victims, since by victims another's flesh, but by obedience one's own will, is sacrificed." Now the religious vows are holocausts, as stated above ([3799]AA[1],3, ad 6). Therefore the vow of obedience is the chief of all religious vows.
 
 I answer that, The vow of obedience is the chief of the three religious vows, and this for three reasons.
 
@@ -900,77 +832,63 @@ Thirdly, because the vow of obedience extends properly to those acts that are cl
 
 It follows from this that the vow of obedience is more essential to the religious life. For if a man without taking a vow of obedience were to observe, even by vow, voluntary poverty and continence, he would not therefore belong to the religious state, which is to be preferred to virginity observed even by vow; for Augustine says (De Virgin. xlvi): "No one, methinks, would prefer virginity to the monastic life." [*St. Augustine wrote not 'monasterio' but 'martyrio'---to 'martyrdom'; and St. Thomas quotes the passage correctly above[3800], Q[124], A[3] and[3801] Q[152], A[5]].
 
----
-
-Objection 1: It would seem that the vow of obedience is not the chief of the three religious vows. For the perfection of the religious life was inaugurated by Christ. Now Christ gave a special counsel of poverty; whereas He is not stated to have given a special counsel of obedience. Therefore the vow of poverty is greater than the vow of obedience.
+**Replies**
 
 Reply to Objection 1: The counsel of obedience was included in the very following of Christ, since to obey is to follow another's will. Consequently it is more pertinent to perfection than the vow of poverty, because as Jerome, commenting on Mat. 19:27, "Behold we have left all things," observes, "Peter added that which is perfect when he said: And have followed Thee."
 
----
-
-Objection 2: Further, it is written (Ecclus. 26:20) that "no price is worthy of a continent soul." Now the vow of that which is more worthy is itself more excellent. Therefore the vow of continence is more excellent than the vow of obedience.
-
 Reply to Objection 2: The words quoted mean that continence is to be preferred, not to all other acts of virtue, but to conjugal chastity, or to external riches of gold and silver which are measured by weight [*'Pondere,' referring to the Latin 'ponderatio' in the Vulgate, which the Douay version renders 'price.']. Or again continence is taken in a general sense for abstinence from ali evil, as stated above ([3802]Q[155], A[4], ad 1).
-
----
-
-Objection 3: Further, the greater a vow the more indispensable it would seem to be. Now the vows of poverty and continence "are so inseparable from the monastic rule, that not even the Sovereign Pontiff can allow them to be broken," according to a Decretal (De Statu Monach., cap. Cum ad monasterium): yet he can dispense a religious from obeying his superior. Therefore it would seem that the vow of obedience is less than the vow of poverty and continence.
 
 Reply to Objection 3: The Pope cannot dispense a religious from his vow of obedience so as to release him from obedience to every superior in matters relating to the perfection of life, for he cannot exempt him from obedience to himself. He can, however, exempt him from subjection to a lower superior, but this is not to dispense him from his vow of obedience.
 
 ### Whether A Religious Sins Mortally Whenever He Transgresses The Things Contained In His Rule?
 
-On the contrary, The religious state is safer than the secular state; wherefore Gregory at the beginning of his Morals [*Epist. Missoria, ad Leand. Episc. i] compares the secular life to the stormy sea, and the religious life to the calm port. But if every transgression of the things contained in his rule were to involve a religious in mortal sin, the religious life would be fraught with danger of account of its multitude of observances. Therefore not every transgression of the things contained in the rule is a mortal sin.
+**Objections**
 
----
+Objection 1: It would seem that a religious sins mortally whenever he transgresses the things contained in his rule. For to break a vow is a sin worthy of condemnation, as appears from 1 Tim. 5:11,12, where the Apostle says that widows who "will marry have [Vulg.: 'having'] damnation, because they have made void their first faith." But religious are bound to a rule by the vows of their profession. Therefore they sin mortally by transgressing the things contained in their rule.
+
+Objection 2: Further, the rule is enjoined upon a religious in the same way as a law. Now he who transgresses a precept of law sins mortally. Therefore it would seem that a monk sins mortally if he transgresses the things contained in his rule.
+
+Objection 3: Further, contempt involves a mortal sin. Now whoever repeatedly does what he ought not to do seems to sin from contempt. Therefore it would seem that a religious sins mortally by frequently transgressing the things contained in his rule.
+
+**Answer**
+
+On the contrary, The religious state is safer than the secular state; wherefore Gregory at the beginning of his Morals [*Epist. Missoria, ad Leand. Episc. i] compares the secular life to the stormy sea, and the religious life to the calm port. But if every transgression of the things contained in his rule were to involve a religious in mortal sin, the religious life would be fraught with danger of account of its multitude of observances. Therefore not every transgression of the things contained in the rule is a mortal sin.
 
 I answer that, As stated above (A[1], ad 1,2), a thing is contained in the rule in two ways. First, as the end of the rule, for instance things that pertain to the acts of the virtues; and the transgression of these, as regards those which come under a common precept, involves a mortal sin; but as regards those which are not included in the common obligation of a precept, the transgression thereof does not involve a mortal sin, except by reason of contempt, because, as stated above [3803](A[2]), a religious is not bound to be perfect, but to tend to perfection, to which the contempt of perfection is opposed.
 
 Secondly, a thing is contained in the rule through pertaining to the outward practice, such as all external observances, to some of which a religious is bound by the vow of his profession. Now the vow of profession regards chiefly the three things aforesaid, namely poverty, continence, and obedience, while all others are directed to these. Consequently the transgression of these three involves a mortal sin, while the transgression of the others does not involve a mortal sin, except either by reason of contempt of the rule (since this is directly contrary to the profession whereby a man vows to live according to the rule), or by reason of a precept, whether given orally by a superior, or expressed in the rule, since this would be to act contrary to the vow of obedience.
 
----
-
-Objection 1: It would seem that a religious sins mortally whenever he transgresses the things contained in his rule. For to break a vow is a sin worthy of condemnation, as appears from 1 Tim. 5:11,12, where the Apostle says that widows who "will marry have [Vulg.: 'having'] damnation, because they have made void their first faith." But religious are bound to a rule by the vows of their profession. Therefore they sin mortally by transgressing the things contained in their rule.
+**Replies**
 
 Reply to Objection 1: He who professes a rule does not vow to observe all the things contained in the rule, but he vows the regular life which consists essentially in the three aforesaid things. Hence in certain religious orders precaution is taken to profess, not the rule, but to live according to the rule, i.e. to tend to form one's conduct in accordance with the rule as a kind of model; and this is set aside by contempt. Yet greater precaution is observed in some religious orders by professing obedience according to the rule, so that only that which is contrary to a precept of the rule is contrary to the profession, while the transgression or omission of other things binds only under pain of venial sin, because, as stated above (A[7], ad 2), such things are dispositions to the chief vows. And venial sin is a disposition to mortal, as stated above ([3804]FS, Q[88], A[3]), inasmuch as it hinders those things whereby a man is disposed to keep the chief precepts of Christ's law, namely the precepts of charity.
 
----
-
-Objection 2: Further, the rule is enjoined upon a religious in the same way as a law. Now he who transgresses a precept of law sins mortally. Therefore it would seem that a monk sins mortally if he transgresses the things contained in his rule.
-
 Reply to Objection 2: Not all the contents of the law are set forth by way of precept; for some are expressed under the form of ordinance or statute binding under pain of a fixed punishment. Accordingly, just as in the civil law the transgression of a legal statute does not always render a man deserving of bodily death, so neither in the law of the Church does every ordinance or statute bind under mortal sin; and the same applies to the statutes of the rule.
-
----
-
-Objection 3: Further, contempt involves a mortal sin. Now whoever repeatedly does what he ought not to do seems to sin from contempt. Therefore it would seem that a religious sins mortally by frequently transgressing the things contained in his rule.
 
 Reply to Objection 3: An action or transgression proceeds from contempt when a man's will refuses to submit to the ordinance of the law or rule, and from this he proceeds to act against the law or rule. on the other hand, he does not sin from contempt, but from some other cause, when he is led to do something against the ordinance of the law or rule through some particular cause such as concupiscence or anger, even though he often repeat the same kind of sin through the same or some other cause. Thus Augustine says (De Nat. et Grat. xxix) that "not all sins are committed through proud contempt." Nevertheless the frequent repetition of a sin leads dispositively to contempt, according to the words of Prov. 18:3, "The wicked man, when he is come into the depth of sins, contemneth."
 
 ### Whether A Religious Sins More Grievously Than A Secular By The Same Kind Of Sin?
 
-On the contrary, The greater the evil the more it would seem to be deplored. But seemingly the sins of those who are in the state of holiness and perfection are the most deplorable, for it is written (Jer. 23:9): "My heart is broken within me," and afterwards (Jer. 23:11): "For the prophet and the priest are defiled; and in My house I have found their wickedness." Therefore religious and others who are in the state of perfection, other things being equal, sin more grievously.
+**Objections**
 
----
+Objection 1: It would seem that a religious does not sin more grievously than a secular by the same kind of sin. For it is written (2 Paralip 30:18,19): "The Lord Who is good will show mercy to all them who with their whole heart seek the Lord the God of their fathers, and will not impute it to them that they are not sanctified." Now religious apparently follow the Lord the God of their fathers with their whole heart rather than seculars, who partly give themselves and their possessions to God and reserve part for themselves, as Gregory says (Hom. xx in Ezech.). Therefore it would seem that it is less imputed to them if they fall short somewhat of their sanctification.
+
+Objection 2: Further, God is less angered at a man's sins if he does some good deeds, according to 2 Paralip 19:2,3, "Thou helpest the ungodly, and thou art joined in friendship with them that hate the Lord, and therefore thou didst deserve indeed the wrath of the Lord: but good works are found in thee." Now religious do more good works than seculars. Therefore if they commit any sins, God is less angry with them.
+
+Objection 3: Further, this present life is not carried through without sin, according to James 3:2, "In many things we all offend." Therefore if the sins of religious were more grievous than those of seculars it would follow that religious are worse off than seculars: and consequently it would not be a wholesome counsel to enter religion.
+
+**Answer**
+
+On the contrary, The greater the evil the more it would seem to be deplored. But seemingly the sins of those who are in the state of holiness and perfection are the most deplorable, for it is written (Jer. 23:9): "My heart is broken within me," and afterwards (Jer. 23:11): "For the prophet and the priest are defiled; and in My house I have found their wickedness." Therefore religious and others who are in the state of perfection, other things being equal, sin more grievously.
 
 I answer that, A sin committed by a religious may be in three ways more grievous than a like sin committed by a secular. First, if it be against his religious vow; for instance if he be guilty of fornication or theft, because by fornication he acts against the vow of continence, and by theft against the vow of poverty; and not merely against a precept of the divine law. Secondly, if he sin out of contempt, because thereby he would seem to be the more ungrateful for the divine favors which have raised him to the state of perfection. Thus the Apostle says (Heb. 10:29) that the believer "deserveth worse punishments" who through contempt tramples under foot the Son of God. Hence the Lord complains (Jer. 11:15): "What is the meaning that My beloved hath wrought much wickedness in My house?" Thirdly, the sin of a religious may be greater on account of scandal, because many take note of his manner of life: wherefore it is written (Jer. 23:14): "I have seen the likeness of adulterers, and the way of lying in the Prophets of Jerusalem; and they strengthened the hands of the wicked, that no man should return from his evil doings."
 
 On the other hand, if a religious, not out of contempt, but out of weakness or ignorance, commit a sin that is not against the vow of his profession, without giving scandal (for instance if he commit it in secret) he sins less grievously in the same kind of sin than a secular, because his sin if slight is absorbed as it were by his many good works, and if it be mortal, he more easily recovers from it. First, because he has a right intention towards God, and though it be intercepted for the moment, it is easily restored to its former object. Hence Origen commenting on Ps. 36:24, "When he shall fall he shall not be bruised," says (Hom. iv in Ps. 36): "The wicked man, if he sin, repents not, and fails to make amends for his sin. But the just man knows how to make amends and recover himself; even as he who had said: 'I know not the man,' shortly afterwards when the Lord had looked on him, knew to shed most bitter tears, and he who from the roof had seen a woman and desired her knew to say: 'I have sinned and done evil before Thee.'" Secondly, he is assisted by his fellow-religious to rise again, according to Eccles. 4:10, "If one fall he shall be supported by the other: woe to him that is alone, for when he falleth he hath none to lift him up."
 
----
-
-Objection 1: It would seem that a religious does not sin more grievously than a secular by the same kind of sin. For it is written (2 Paralip 30:18,19): "The Lord Who is good will show mercy to all them who with their whole heart seek the Lord the God of their fathers, and will not impute it to them that they are not sanctified." Now religious apparently follow the Lord the God of their fathers with their whole heart rather than seculars, who partly give themselves and their possessions to God and reserve part for themselves, as Gregory says (Hom. xx in Ezech.). Therefore it would seem that it is less imputed to them if they fall short somewhat of their sanctification.
+**Replies**
 
 Reply to Objection 1: The words quoted refer to things done through weakness or ignorance, but not to those that are done out of contempt.
 
----
-
-Objection 2: Further, God is less angered at a man's sins if he does some good deeds, according to 2 Paralip 19:2,3, "Thou helpest the ungodly, and thou art joined in friendship with them that hate the Lord, and therefore thou didst deserve indeed the wrath of the Lord: but good works are found in thee." Now religious do more good works than seculars. Therefore if they commit any sins, God is less angry with them.
-
 Reply to Objection 2: Josaphat also, to whom these words were addressed, sinned not out of contempt, but out of a certain weakness of human affection.
-
----
-
-Objection 3: Further, this present life is not carried through without sin, according to James 3:2, "In many things we all offend." Therefore if the sins of religious were more grievous than those of seculars it would follow that religious are worse off than seculars: and consequently it would not be a wholesome counsel to enter religion.
 
 Reply to Objection 3: The just sin not easily out of contempt; but sometimes they fall into a sin through ignorance or weakness from which they easily arise. If, however, they go so far as to sin out of contempt, they become most wicked and incorrigible, according to the word of Jer. 2:20: "Thou hast broken My yoke, thou hast burst My bands, and thou hast said: 'I will not serve.' For on every high hill and under every green tree thou didst prostitute thyself." Hence Augustine says (Ep. lxxviii ad Pleb. Hippon.): "From the time I began to serve God, even as I scarcely found better men than those who made progress in monasteries, so have I not found worse than those who in the monastery have fallen."
 
@@ -986,9 +904,17 @@ We must now consider the things that are competent to religious; and under this 
 
 ### Whether It Is Lawful For Religious To Teach, Preach, And The Like?
 
-On the contrary, Gregory is quoted (XVI, qu. i, can. Ex auctoritate) as saying: "By authority of this decree framed in virtue of our apostolic power and the duty of our office, be it lawful to monk priests who are configured to the apostles, to preach, baptize, give communion, pray for sinners, impose penance, and absolve from sin."
+**Objections**
 
----
+Objection 1: It would seem unlawful for religious to teach, preach, and the like. For it is said (VII, qu. i, can. Hoc nequaquam) in an ordinance of a synod of Constantinople [*Pseudosynod held by Photius in the year 879]: "The monastic life is one of subjection and discipleship, not of teaching, authority, or pastoral care." And Jerome says (ad Ripar. et Desider. [*Contra Vigilant. xvi]): "A monk's duty is not to teach but to lament." Again Pope Leo [*Leo I, Ep. cxx ad Theodoret., 6, cf. XVI, qu. i, can. Adjicimus]: says "Let none dare to preach save the priests of the Lord, be he monk or layman, and no matter what knowledge he may boast of having." Now it is not lawful to exceed the bounds of one's office or transgress the ordinance of the Church. Therefore seemingly it is unlawful for religious to teach, preach, and the like.
+
+Objection 2: Further, in an ordinance of the Council of Nicea (cf. XVI, qu. i, can. Placuit) it is laid down as follows: "It is our absolute and peremptory command addressed to all that monks shall not hear confessions except of one another, as is right, that they shall not bury the dead except those dwelling with them in the monastery, or if by chance a brother happen to die while on a visit." But just as the above belong to the duty of clerics, so also do preaching and teaching. Therefore since "the business of a monk differs from that of a cleric," as Jerome says (Ep. xiv ad Heliod.), it would seem unlawful for religious to preach, teach, and the like.
+
+Objection 3: Further, Gregory says (Regist. v, Ep. 1): "No man can fulfil ecclesiastical duties, and keep consistently to the monastic rule": and this is quoted XVI, qu. i, can. Nemo potest. Now monks are bound to keep consistently to the monastic rule. Therefore it would seem that they cannot fulfil ecclesiastical duties, whereof teaching and preaching are a part. Therefore seemingly it is unlawful for them to preach, teach, and do similar things.
+
+**Answer**
+
+On the contrary, Gregory is quoted (XVI, qu. i, can. Ex auctoritate) as saying: "By authority of this decree framed in virtue of our apostolic power and the duty of our office, be it lawful to monk priests who are configured to the apostles, to preach, baptize, give communion, pray for sinners, impose penance, and absolve from sin."
 
 I answer that, A thing is declared to be unlawful to a person in two ways. First, because there is something in him contrary to that which is declared unlawful to him: thus to no man is it lawful to sin, because each man has in himself reason and an obligation to God's law, to which things sin is contrary. And in this way it is said to be unlawful for a person to preach, teach, or do like things, because there is in him something incompatible with these things, either by reason of a precept---thus those who are irregular by ordinance of the Church may not be raised to the sacred orders---or by reason of sin, according to Ps. 49:16, "But to the sinner God hath said: Why dost thou declare My justice?"
 
@@ -996,57 +922,57 @@ In this way it is not unlawful for religious to preach, teach, and do like thing
 
 Secondly, a thing is said to be unlawful for a man, not on account of there being in him something contrary thereto, but because he lacks that which enables him to do it: thus it is unlawful for a deacon to say mass, because he is not in priestly orders; and it is unlawful for a priest to deliver judgment because he lacks the episcopal authority. Here, however, a distinction must be made. Because those things which are a matter of an order, cannot be deputed to one who has not the order, whereas matters of jurisdiction can be deputed to those who have not ordinary jurisdiction: thus the delivery of a judgment is deputed by the bishop to a simple priest. In this sense it is said to be unlawful for monks and other religious to preach, teach, and so forth, because the religious state does not give them the power to do these things. They can, however, do them if they receive orders, or ordinary jurisdiction, or if matters of jurisdiction be delegated to them.
 
----
-
-Objection 1: It would seem unlawful for religious to teach, preach, and the like. For it is said (VII, qu. i, can. Hoc nequaquam) in an ordinance of a synod of Constantinople [*Pseudosynod held by Photius in the year 879]: "The monastic life is one of subjection and discipleship, not of teaching, authority, or pastoral care." And Jerome says (ad Ripar. et Desider. [*Contra Vigilant. xvi]): "A monk's duty is not to teach but to lament." Again Pope Leo [*Leo I, Ep. cxx ad Theodoret., 6, cf. XVI, qu. i, can. Adjicimus]: says "Let none dare to preach save the priests of the Lord, be he monk or layman, and no matter what knowledge he may boast of having." Now it is not lawful to exceed the bounds of one's office or transgress the ordinance of the Church. Therefore seemingly it is unlawful for religious to teach, preach, and the like.
+**Replies**
 
 Reply to Objection 1: It results from the words quoted that the fact of their being monks does not give monks the power to do these things, yet it does not involve in them anything contrary to the performance of these acts.
 
----
-
-Objection 2: Further, in an ordinance of the Council of Nicea (cf. XVI, qu. i, can. Placuit) it is laid down as follows: "It is our absolute and peremptory command addressed to all that monks shall not hear confessions except of one another, as is right, that they shall not bury the dead except those dwelling with them in the monastery, or if by chance a brother happen to die while on a visit." But just as the above belong to the duty of clerics, so also do preaching and teaching. Therefore since "the business of a monk differs from that of a cleric," as Jerome says (Ep. xiv ad Heliod.), it would seem unlawful for religious to preach, teach, and the like.
-
 Reply to Objection 2: Again, this ordinance of the Council of Nicea forbids monks to claim the power of exercising those acts on the ground of their being monks, but it does not forbid those acts being delegated to them.
-
----
-
-Objection 3: Further, Gregory says (Regist. v, Ep. 1): "No man can fulfil ecclesiastical duties, and keep consistently to the monastic rule": and this is quoted XVI, qu. i, can. Nemo potest. Now monks are bound to keep consistently to the monastic rule. Therefore it would seem that they cannot fulfil ecclesiastical duties, whereof teaching and preaching are a part. Therefore seemingly it is unlawful for them to preach, teach, and do similar things.
 
 Reply to Objection 3: These two things are incompatible, namely, the ordinary cure of ecclesiastical duties, and the observance of the monastic rule in a monastery. But this does not prevent monks and other religious from being sometimes occupied with ecclesiastical duties through being deputed thereto by superiors having ordinary cure; especially members of religious orders that are especially instituted for that purpose, as we shall say further on ([3805]Q[188], A[4]).
 
 ### Whether It Is Lawful For Religious To Occupy Themselves With Secular Business?
 
-On the contrary, The Apostle says (Rom. 16:1): "I commend to you Phoebe our Sister," and further on (Rom. 16:2), "that you assist her in whatsoever business she shall have need of you."
+**Objections**
 
----
+Objection 1: It would seem unlawful for religious to occupy themselves with secular business. For in the decree quoted above [3806](A[1]) of Pope Boniface it is said that the "Blessed Benedict bade them to be altogether free from secular business; and this is most explicitly prescribed by the apostolic doctrine and the teaching of all the Fathers, not only to religious, but also to all the canonical clergy," according to 2 Tim. 2:4, "No man being a soldier to God, entangleth himself with secular business." Now it is the duty of all religious to be soldiers of God. Therefore it is unlawful for them to occupy themselves with secular business.
+
+Objection 2: Further, the Apostle says (1 Thess. 4:11): "That you use your endeavor to be quiet, and that you do your own business," which a gloss explains thus---"by refraining from other people's affairs, so as to be the better able to attend to the amendment of your own life." Now religious devote themselves in a special way to the amendment of their life. Therefore they should not occupy themselves with secular business.
+
+Objection 3: Further, Jerome, commenting on Mat. 11:8, "Behold they that are clothed in soft garments are in the houses of kings," says: "Hence we gather that an austere life and severe preaching should avoid the palaces of kings and the mansions of the voluptuous." But the needs of secular business induce men to frequent the palaces of kings. Therefore it is unlawful for religious to occupy themselves with secular business.
+
+**Answer**
+
+On the contrary, The Apostle says (Rom. 16:1): "I commend to you Phoebe our Sister," and further on (Rom. 16:2), "that you assist her in whatsoever business she shall have need of you."
 
 I answer that, As stated above ([3807]Q[186], AA[1],7, ad 1), the religious state is directed to the attainment of the perfection of charity, consisting principally in the love of God and secondarily in the love of our neighbor. Consequently that which religious intend chiefly and for its own sake is to give themselves to God. Yet if their neighbor be in need, they should attend to his affairs out of charity, according to Gal. 6:2, "Bear ye one another's burthens: and so you shall fulfil the law of Christ," since through serving their neighbor for God's sake, they are obedient to the divine love. Hence it is written (James 1:27): "Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation," which means, according to a gloss, to assist the helpless in their time of need.
 
 We must conclude therefore that it is unlawful for either monks or clerics to carry on secular business from motives of avarice; but from motives of charity, and with their superior's permission, they may occupy themselves with due moderation in the administration and direction of secular business. Wherefore it is said in the Decretals (Dist. xxxviii, can. Decrevit): "The holy synod decrees that henceforth no cleric shall buy property or occupy himself with secular business, save with a view to the care of the fatherless, orphans, or widows, or when the bishop of the city commands him to take charge of the business connected with the Church." And the same applies to religious as to clerics, because they are both debarred from secular business on the same grounds, as stated above.
 
----
-
-Objection 1: It would seem unlawful for religious to occupy themselves with secular business. For in the decree quoted above [3806](A[1]) of Pope Boniface it is said that the "Blessed Benedict bade them to be altogether free from secular business; and this is most explicitly prescribed by the apostolic doctrine and the teaching of all the Fathers, not only to religious, but also to all the canonical clergy," according to 2 Tim. 2:4, "No man being a soldier to God, entangleth himself with secular business." Now it is the duty of all religious to be soldiers of God. Therefore it is unlawful for them to occupy themselves with secular business.
+**Replies**
 
 Reply to Objection 1: Monks are forbidden to occupy themselves with secular business from motives of avarice, but not from motives of charity.
 
----
-
-Objection 2: Further, the Apostle says (1 Thess. 4:11): "That you use your endeavor to be quiet, and that you do your own business," which a gloss explains thus---"by refraining from other people's affairs, so as to be the better able to attend to the amendment of your own life." Now religious devote themselves in a special way to the amendment of their life. Therefore they should not occupy themselves with secular business.
-
 Reply to Objection 2: To occupy oneself with secular business on account of another's need is not officiousness but charity.
-
----
-
-Objection 3: Further, Jerome, commenting on Mat. 11:8, "Behold they that are clothed in soft garments are in the houses of kings," says: "Hence we gather that an austere life and severe preaching should avoid the palaces of kings and the mansions of the voluptuous." But the needs of secular business induce men to frequent the palaces of kings. Therefore it is unlawful for religious to occupy themselves with secular business.
 
 Reply to Objection 3: To haunt the palaces of kings from motives of pleasure, glory, or avarice is not becoming to religious, but there is nothing unseemly in their visiting them from motives of piety. Hence it is written (4 Kings 4:13): "Hast thou any business, and wilt thou that I speak to the king or to the general of the army?" Likewise it becomes religious to go to the palaces of kings to rebuke and guide them, even as John the Baptist rebuked Herod, as related in Mat. 14:4.
 
 ### Whether Religious Are Bound To Manual Labor?
 
-On the contrary, Those precepts that are commonly enjoined upon all are equally binding on religious and seculars. But the precept of manual labor is enjoined upon all in common, as appears from 2 Thess. 3:6, "Withdraw yourselves from every brother walking disorderly," etc. (for by brother he signifies every Christian, according to 1 Cor. 7:12, "If any brother have a wife that believeth not"). Now it is written in the same passage (2 Thess. 3:10): "If any man will not work, neither let him eat." Therefore religious are not bound to manual labor any more than seculars are.
+**Objections**
 
----
+Objection 1: It would seem that religious are bound to manual labor. For religious are not exempt from the observance of precepts. Now manual labor is a matter of precept according to 1 Thess. 4:11, "Work with your own hands as we commanded you"; wherefore Augustine says (De oper. Monach. xxx): "But who can allow these insolent men," namely religious that do no work, of whom he is speaking there, "who disregard the most salutary admonishment of the Apostle, not merely to be borne with as being weaker than others, but even to preach as though they were holier than others." Therefore it would seem that religious are bound to manual labor.
+
+Objection 2: Further, a gloss [*St. Augustine, (De oper. Monach. xxi)] on 2 Thess. 3:10, "If any man will not work, neither let him eat," says: "Some say that this command of the Apostle refers to spiritual works, and not to the bodily labor of the farmer or craftsman"; and further on: "But it is useless for them to try to hide from themselves and from others the fact that they are unwilling not only to fulfil, but even to understand the useful admonishments of charity"; and again: "He wishes God's servants to make a living by working with their bodies." Now religious especially are called servants of God, because they give themselves entirely to the service of God, as Dionysius asserts (Eccl. Hier. vi). Therefore it would seem that they are bound to manual labor.
+
+Objection 3: Further, Augustine says (De oper. Monach. xvii): "I would fain know how they would occupy themselves, who are unwilling to work with their body. We occupy our time, say they, with prayers, psalms, reading, and the word of God." Yet these things are no excuse, and he proves this, as regards each in particular. For in the first place, as to prayer, he says: "One prayer of the obedient man is sooner granted than ten thousand prayers of the contemptuous": meaning that those are contemptuous and unworthy to be heard who work not with their hands. Secondly, as to the divine praises he adds: "Even while working with their hands they can easily sing hymns to God." Thirdly, with regard to reading, he goes on to say: "Those who say they are occupied in reading, do they not find there what the Apostle commanded? What sort of perverseness is this, to wish to read but not to obey what one reads?" Fourthly, he adds in reference to preaching [*Cap. xviii]: "If one has to speak, and is so busy that he cannot spare time for manual work, can all in the monastery do this? And since all cannot do this, why should all make this a pretext for being exempt? And even if all were able, they should do so by turns, not only so that the others may be occupied in other works, but also because it suffices that one speak while many listen." Therefore it would seem that religious should not desist from manual labor on account of such like spiritual works to which they devote themselves.
+
+Objection 4: Further, a gloss on Lk. 12:33, "Sell what you possess," says: "Not only give your clothes to the poor, but sell what you possess, that having once for all renounced all your possessions for the Lord's sake, you may henceforth work with the labor of your hands, so as to have wherewith to live or to give alms." Now it belongs properly to religious to renounce all they have. Therefore it would seem likewise to belong to them to live and give alms through the labor of their hands.
+
+Objection 5: Further, religious especially would seem to be bound to imitate the life of the apostles, since they profess the state of perfection. Now the apostles worked with their own hands, according to 1 Cor. 4:12: "We labor, working with our own hands." Therefore it would seem that religious are bound to manual labor.
+
+**Answer**
+
+On the contrary, Those precepts that are commonly enjoined upon all are equally binding on religious and seculars. But the precept of manual labor is enjoined upon all in common, as appears from 2 Thess. 3:6, "Withdraw yourselves from every brother walking disorderly," etc. (for by brother he signifies every Christian, according to 1 Cor. 7:12, "If any brother have a wife that believeth not"). Now it is written in the same passage (2 Thess. 3:10): "If any man will not work, neither let him eat." Therefore religious are not bound to manual labor any more than seculars are.
 
 I answer that, Manual labor is directed to four things. First and principally to obtain food; wherefore it was said to the first man (Gn. 3:19): "In the sweat of thy face shalt thou eat bread," and it is written (Ps. 127:2): "For thou shalt eat the labors of thy hands." Secondly, it is directed to the removal of idleness whence arise many evils; hence it is written (Ecclus. 33:28,29): "Send" thy slave "to work, that he be not idle, for idleness hath taught much evil." Thirdly, it is directed to the curbing of concupiscence, inasmuch as it is a means of afflicting the body; hence it is written (2 Cor. 6:5,6): "In labors, in watchings, in fastings, in chastity." Fourthly, it is directed to almsgiving, wherefore it is written (Eph. 4:28): "He that stole, let him now steal no more; but rather let him labor, working with his hands the thing which is good, that he may have something to give to him that suffereth need." Accordingly, in so far as manual labor is directed to obtaining food, it comes under a necessity of precept in so far as it is necessary for that end: since that which is directed to an end derives its necessity from that end, being, in effect, so far necessary as the end cannot be obtained without it. Consequently he who has no other means of livelihood is bound to work with his hands, whatever his condition may be. This is signified by the words of the Apostle: "If any man will not work, neither let him eat," as though to say: "The necessity of manual labor is the necessity of meat." So that if one could live without eating, one would not be bound to work with one's hands. The same applies to those who have no other lawful means of livelihood: since a man is understood to be unable to do what he cannot do lawfully. Wherefore we find that the Apostle prescribed manual labor merely as a remedy for the sin of those who gained their livelihood by unlawful means. For the Apostle ordered manual labor first of all in order to avoid theft, as appears from Eph. 4:28, "He that stole, let him now steal no more; but rather let him labor, working with his hands." Secondly, to avoid the coveting of others' property, wherefore it is written (1 Thess. 4:11): "Work with your own hands, as we commanded you, and that you walk honestly towards them that are without." Thirdly, to avoid the discreditable pursuits whereby some seek a livelihood. Hence he says (2 Thess. 3:10-12): "When we were with you, this we declared to you: that if any man will not work, neither let him eat. For we have heard that there are some among you who walk disorderly, working not at all, but curiously meddling" (namely, as a gloss explains it, "who make a living by meddling in unlawful things). Now we charge them that are such, and beseech them . . . that working with silence, they would eat their own bread." Hence Jerome states (Super epist. ad Galat. [*Preface to Bk. ii of Commentary]) that the Apostle said this "not so much in his capacity of teacher as on account of the faults of the people."
 
@@ -1054,41 +980,35 @@ It must, however, be observed that under manual labor are comprised all those hu
 
 In so far as manual labor is directed to the removal of idleness, or the affliction of the body, it does not come under a necessity of precept if we consider it in itself, since there are many other means besides manual labor of afflicting the body or of removing idleness: for the flesh is afflicted by fastings and watchings, and idleness is removed by meditation on the Holy Scriptures and by the divine praises. Hence a gloss on Ps. 118:82, "My eyes have failed for Thy word," says: "He is not idle who meditates only on God's word; nor is he who works abroad any better than he who devotes himself to the study of knowing the truth." Consequently for these reasons religious are not bound to manual labor, as neither are seculars, except when they are so bound by the statutes of their order. Thus Jerome says (Ep. cxxv ad Rustic Monach.): "The Egyptian monasteries are wont to admit none unless they work or labor, not so much for the necessities of life, as for the welfare of the soul, lest it be led astray by wicked thoughts." But in so far as manual labor is directed to almsgiving, it does not come under the necessity of precept, save perchance in some particular case, when a man is under an obligation to give alms, and has no other means of having the wherewithal to assist the poor: for in such a case religious would be bound as well as seculars to do manual labor.
 
----
-
-Objection 1: It would seem that religious are bound to manual labor. For religious are not exempt from the observance of precepts. Now manual labor is a matter of precept according to 1 Thess. 4:11, "Work with your own hands as we commanded you"; wherefore Augustine says (De oper. Monach. xxx): "But who can allow these insolent men," namely religious that do no work, of whom he is speaking there, "who disregard the most salutary admonishment of the Apostle, not merely to be borne with as being weaker than others, but even to preach as though they were holier than others." Therefore it would seem that religious are bound to manual labor.
+**Replies**
 
 Reply to Objection 1: This command of the Apostle is of natural law: wherefore a gloss on 2 Thess. 3:6, "That you withdraw yourselves from every brother walking disorderly," says, "otherwise than the natural order requires," and he is speaking of those who abstained from manual labor. Hence nature has provided man with hands instead of arms and clothes, with which she has provided other animals, in order that with his hands he may obtain these and all other necessaries. Hence it is clear that this precept, even as all the precepts of the natural law, is binding on both religious and seculars alike. Yet not everyone sins that works not with his hands, because those precepts of the natural law which regard the good of the many are not binding on each individual, but it suffices that one person apply himself to this business and another to that; for instance, that some be craftsmen, others husbandmen, others judges, and others teachers, and so forth, according to the words of the Apostle (1 Cor. 12:17), "If the whole body were the eye, where would be the hearing? If the whole were the hearing, where would be the smelling?"
 
----
-
-Objection 2: Further, a gloss [*St. Augustine, (De oper. Monach. xxi)] on 2 Thess. 3:10, "If any man will not work, neither let him eat," says: "Some say that this command of the Apostle refers to spiritual works, and not to the bodily labor of the farmer or craftsman"; and further on: "But it is useless for them to try to hide from themselves and from others the fact that they are unwilling not only to fulfil, but even to understand the useful admonishments of charity"; and again: "He wishes God's servants to make a living by working with their bodies." Now religious especially are called servants of God, because they give themselves entirely to the service of God, as Dionysius asserts (Eccl. Hier. vi). Therefore it would seem that they are bound to manual labor.
-
 Reply to Objection 2: This gloss is taken from Augustine's De operibus Monachorum, cap. 21, where he speaks against certain monks who declared it to be unlawful for the servants of God to work with their hands, on account of our Lord's saying (Mat. 6:25): "Be not solicitous for your life, what you shall eat." Nevertheless his words do not imply that religious are bound to work with their hands, if they have other means of livelihood. This is clear from his adding: "He wishes the servants of God to make a living by working with their bodies." Now this does not apply to religious any more than to seculars, which is evident for two reasons. First, on account of the way in which the Apostle expresses himself, by saying: "That you withdraw yourselves from every brother walking disorderly." For he calls all Christians brothers, since at that time religious orders were not as yet founded. Secondly, because religious have no other obligations than what seculars have, except as required by the rule they profess: wherefore if their rule contain nothing about manual labor, religious are not otherwise bound to manual labor than seculars are.
-
----
-
-Objection 3: Further, Augustine says (De oper. Monach. xvii): "I would fain know how they would occupy themselves, who are unwilling to work with their body. We occupy our time, say they, with prayers, psalms, reading, and the word of God." Yet these things are no excuse, and he proves this, as regards each in particular. For in the first place, as to prayer, he says: "One prayer of the obedient man is sooner granted than ten thousand prayers of the contemptuous": meaning that those are contemptuous and unworthy to be heard who work not with their hands. Secondly, as to the divine praises he adds: "Even while working with their hands they can easily sing hymns to God." Thirdly, with regard to reading, he goes on to say: "Those who say they are occupied in reading, do they not find there what the Apostle commanded? What sort of perverseness is this, to wish to read but not to obey what one reads?" Fourthly, he adds in reference to preaching [*Cap. xviii]: "If one has to speak, and is so busy that he cannot spare time for manual work, can all in the monastery do this? And since all cannot do this, why should all make this a pretext for being exempt? And even if all were able, they should do so by turns, not only so that the others may be occupied in other works, but also because it suffices that one speak while many listen." Therefore it would seem that religious should not desist from manual labor on account of such like spiritual works to which they devote themselves.
 
 Reply to Objection 3: A man may devote himself in two ways to all the spiritual works mentioned by Augustine in the passage quoted: in one way with a view to the common good, in another with a view to his private advantage. Accordingly those who devote themselves publicly to the aforesaid spiritual works are thereby exempt from manual labor for two reasons: first, because it behooves them to be occupied exclusively with such like works; secondly, because those who devote themselves to such works have a claim to be supported by those for whose advantage they work.
 
----
-
-Objection 4: Further, a gloss on Lk. 12:33, "Sell what you possess," says: "Not only give your clothes to the poor, but sell what you possess, that having once for all renounced all your possessions for the Lord's sake, you may henceforth work with the labor of your hands, so as to have wherewith to live or to give alms." Now it belongs properly to religious to renounce all they have. Therefore it would seem likewise to belong to them to live and give alms through the labor of their hands.
-
 Reply to Objection 4: Those who despise all for God's sake are bound to work with their hands, when they have no other means of livelihood, or of almsgiving (should the case occur where almsgiving were a matter of precept), but not otherwise, as stated in the Article. It is in this sense that the gloss quoted is to be understood.
-
----
-
-Objection 5: Further, religious especially would seem to be bound to imitate the life of the apostles, since they profess the state of perfection. Now the apostles worked with their own hands, according to 1 Cor. 4:12: "We labor, working with our own hands." Therefore it would seem that religious are bound to manual labor.
 
 Reply to Objection 5: That the apostles worked with their hands was sometimes a matter of necessity, sometimes a work of supererogation. It was of necessity when they failed to receive a livelihood from others. Hence a gloss on 1 Cor. 4:12, "We labor, working with our own hands," adds, "because no man giveth to us." It was supererogation, as appears from 1 Cor. 9:12, where the Apostle says that he did not use the power he had of living by the Gospel. The Apostle had recourse to this supererogation for three motives. First, in order to deprive the false apostles of the pretext for preaching, for they preached merely for a temporal advantage; hence he says (2 Cor. 11:12): "But what I do, that I will do that I may cut off the occasion from them," etc. Secondly, in order to avoid burdening those to whom he preached; hence he says (2 Cor. 12:13): "What is there that you have had less than the other churches, but that I myself was not burthensome to you?" Thirdly, in order to give an example of work to the idle; hence he says (2 Thess. 3:8,9): "We worked night and day . . . that we might give ourselves a pattern unto you, to imitate us." However, the Apostle did not do this in places like Athens where he had facilities for preaching daily, as Augustine observes (De oper. Monach. xviii). Yet religious are not for this reason bound to imitate the Apostle in this matter, since they are not bound to all works of supererogation: wherefore neither did the other apostles work with their hands.
 
 ### Whether It Is Lawful For Religious To Live On Alms?
 
-On the contrary, Gregory says (Dial. ii, 1): The Blessed Benedict after leaving his home and parents dwelt for three years in a cave, and while there lived on the food brought to him by a monk from Rome. Nevertheless, although he was able-bodied, we do not read that he sought to live by the labor of his hands. Therefore religious may lawfully live on alms.
+**Objections**
 
----
+Objection 1: It would seem unlawful for religious to live on alms. For the Apostle (1 Tim. 5:16) forbids those widows who have other means of livelihood to live on the alms of the Church, so that the Church may have "sufficient for them that are widows indeed." And Jerome says to Pope Damasus [*Cf. Cf. Can. Clericos, cause. i, qu. 2; Can. Quoniam, cause xvi, qu. 1; Regul. Monach. iv among the supposititious works of St. Jerome] that "those who have sufficient income from their parents and their own possessions, if they take what belongs to the poor they commit and incur the guilt of sacrilege, and by the abuse of such things they eat and drink judgment to themselves." Now religious if they be able-bodied can support themselves by the work of their hands. Therefore it would seem that they sin if they consume the alms belonging to the poor.
+
+Objection 2: Further, to live at the expense of the faithful is the stipend appointed to those who preach the Gospel in payment of their labor or work, according to Mat. 10:10: "The workman is worthy of his meat." Now it belongs not to religious to preach the Gospel, but chiefly to prelates who are pastors and teachers. Therefore religious cannot lawfully live on the alms of the faithful.
+
+Objection 3: Further, religious are in the state of perfection. But it is more perfect to give than to receive alms; for it is written (Acts 20:35): "It is a more blessed thing to give, rather than to receive." Therefore they should not live on alms, but rather should they give alms of their handiwork.
+
+Objection 4: Further, it belongs to religious to avoid obstacles to virtue and occasions of sin. Now the receiving of alms offers an occasion of sin, and hinders an act of virtue; hence a gloss on 2 Thess. 3:9, "That we might give ourselves a pattern unto you," says: "He who through idleness eats often at another's table, must needs flatter the one who feeds him." It is also written (Ex. 23:8): "Neither shalt thou take bribes which . . . blind the wise, and pervert the words of the just," and (Prov. 22:7): "The borrower is servant to him that lendeth." This is contrary to religion, wherefore a gloss on 2 Thess. 3:9, "That we might give ourselves a pattern," etc., says, "our religion calls men to liberty." Therefore it would seem that religious should not live on alms.
+
+Objection 5: Further, religious especially are bound to imitate the perfection of the apostles; wherefore the Apostle says (Phil. 3:15): "Let us . . . as many as are perfect, be thus minded." But the Apostle was unwilling to live at the expense of the faithful, either in order to cut off the occasion from the false apostles as he himself says (2 Cor. 11:12), or to avoid giving scandal to the weak, as appears from 1 Cor. 9:12. It would seem therefore that religious ought for the same reasons to refrain from living on alms. Hence Augustine says (De oper. Monach. 28): "Cut off the occasion of disgraceful marketing whereby you lower yourselves in the esteem of others, and give scandal to the weak: and show men that you seek not an easy livelihood in idleness, but the kingdom of God by the narrow and strait way."
+
+**Answer**
+
+On the contrary, Gregory says (Dial. ii, 1): The Blessed Benedict after leaving his home and parents dwelt for three years in a cave, and while there lived on the food brought to him by a monk from Rome. Nevertheless, although he was able-bodied, we do not read that he sought to live by the labor of his hands. Therefore religious may lawfully live on alms.
 
 I answer that, A man may lawfully live on what is his or due to him. Now that which is given out of liberality becomes the property of the person to whom it is given. Wherefore religious and clerics whose monasteries or churches have received from the munificence of princes or of any of the faithful any endowment whatsoever for their support, can lawfully live on such endowment without working with their hands, and yet without doubt they live on alms. Wherefore in like manner if religious receive movable goods from the faithful they can lawfully live on them. For it is absurd to say that a person may accept an alms of some great property but not bread or some small sum of money. Nevertheless since these gifts would seem to be bestowed on religious in order that they may have more leisure for religious works, in which the donors of temporal goods wish to have a share, the use of such gifts would become unlawful for them if they abstained from religious works, because in that case, so far as they are concerned, they would be thwarting the intention of those who bestowed those gifts.
 
@@ -1098,79 +1018,63 @@ In another way a thing becomes due to a person through his affording others some
 
 On the other hand, in the default of any necessity, or of their affording any profit to others, it is unlawful for religious to wish to live in idleness on the alms given to the poor. Hence Augustine says (De oper. Monach. xxii): "Sometimes those who enter the profession of God's service come from a servile condition of life, from tilling the soil or working at some trade or lowly occupation. In their case it is not so clear whether they came with the purpose of serving God, or of evading a life of want and toil with a view to being fed and clothed in idleness, and furthermore to being honored by those by whom they were wont to be despised and downtrodden. Such persons surely cannot excuse themselves from work on the score of bodily weakness, for their former mode of life is evidence against them." And he adds further on (De oper. Monach. xxv): "If they be unwilling to work, neither let them eat. For if the rich humble themselves to piety, it is not that the poor may be exalted to pride; since it is altogether unseemly that in a life wherein senators become laborers, laborers should become idle, and that where the lords of the manor have come after renouncing their ease, the serfs should live in comfort."
 
----
-
-Objection 1: It would seem unlawful for religious to live on alms. For the Apostle (1 Tim. 5:16) forbids those widows who have other means of livelihood to live on the alms of the Church, so that the Church may have "sufficient for them that are widows indeed." And Jerome says to Pope Damasus [*Cf. Cf. Can. Clericos, cause. i, qu. 2; Can. Quoniam, cause xvi, qu. 1; Regul. Monach. iv among the supposititious works of St. Jerome] that "those who have sufficient income from their parents and their own possessions, if they take what belongs to the poor they commit and incur the guilt of sacrilege, and by the abuse of such things they eat and drink judgment to themselves." Now religious if they be able-bodied can support themselves by the work of their hands. Therefore it would seem that they sin if they consume the alms belonging to the poor.
+**Replies**
 
 Reply to Objection 1: These authorities must be understood as referring to cases of necessity, that is to say, when there is no other means of succoring the poor: for then they would be bound not only to refrain from accepting alms, but also to give what they have for the support of the needy.
 
----
-
-Objection 2: Further, to live at the expense of the faithful is the stipend appointed to those who preach the Gospel in payment of their labor or work, according to Mat. 10:10: "The workman is worthy of his meat." Now it belongs not to religious to preach the Gospel, but chiefly to prelates who are pastors and teachers. Therefore religious cannot lawfully live on the alms of the faithful.
-
 Reply to Objection 2: Prelates are competent to preach in virtue of their office, but religious may be competent to do so in virtue of delegation; and thus when they work in the field of the Lord, they may make their living thereby, according to 2 Tim. 2:6, "The husbandman that laboreth must first partake of the fruits," which a gloss explains thus, "that is to say, the preacher, who in the field of the Church tills the hearts of his hearers with the plough of God's word." Those also who minister to the preachers may live on alms. Hence a gloss on Rom. 15:27, "If the Gentiles have been made partakers of their spiritual things, they ought also in carnal things to minister to them," says, "namely, to the Jews who sent preachers from Jerusalem." There are moreover other reasons for which a person has a claim to live at the charge of the faithful, as stated above.
-
----
-
-Objection 3: Further, religious are in the state of perfection. But it is more perfect to give than to receive alms; for it is written (Acts 20:35): "It is a more blessed thing to give, rather than to receive." Therefore they should not live on alms, but rather should they give alms of their handiwork.
 
 Reply to Objection 3: Other things being equal, it is more perfect to give than to receive. Nevertheless to give or to give up all one's possessions for Christ's sake, and to receive a little for one's livelihood is better than to give to the poor part by part, as stated above ([3808]Q[186], A[3], ad 6).
 
----
-
-Objection 4: Further, it belongs to religious to avoid obstacles to virtue and occasions of sin. Now the receiving of alms offers an occasion of sin, and hinders an act of virtue; hence a gloss on 2 Thess. 3:9, "That we might give ourselves a pattern unto you," says: "He who through idleness eats often at another's table, must needs flatter the one who feeds him." It is also written (Ex. 23:8): "Neither shalt thou take bribes which . . . blind the wise, and pervert the words of the just," and (Prov. 22:7): "The borrower is servant to him that lendeth." This is contrary to religion, wherefore a gloss on 2 Thess. 3:9, "That we might give ourselves a pattern," etc., says, "our religion calls men to liberty." Therefore it would seem that religious should not live on alms.
-
 Reply to Objection 4: To receive gifts so as to increase one's wealth, or to accept a livelihood from another without having a claim to it, and without profit to others or being in need oneself, affords an occasion of sin. But this does not apply to religious, as stated above.
-
----
-
-Objection 5: Further, religious especially are bound to imitate the perfection of the apostles; wherefore the Apostle says (Phil. 3:15): "Let us . . . as many as are perfect, be thus minded." But the Apostle was unwilling to live at the expense of the faithful, either in order to cut off the occasion from the false apostles as he himself says (2 Cor. 11:12), or to avoid giving scandal to the weak, as appears from 1 Cor. 9:12. It would seem therefore that religious ought for the same reasons to refrain from living on alms. Hence Augustine says (De oper. Monach. 28): "Cut off the occasion of disgraceful marketing whereby you lower yourselves in the esteem of others, and give scandal to the weak: and show men that you seek not an easy livelihood in idleness, but the kingdom of God by the narrow and strait way."
 
 Reply to Objection 5: Whenever there is evident necessity for religious living on alms without doing any manual work, as well as an evident profit to be derived by others, it is not the weak who are scandalized, but those who are full of malice like the Pharisees, whose scandal our Lord teaches us to despise (Mat. 15:12-14). If, however, these motives of necessity and profit be lacking, the weak might possibly be scandalized thereby; and this should be avoided. Yet the same scandal might be occasioned through those who live in idleness on the common revenues.
 
 ### Whether It Is Lawful For Religious To Beg?
 
-On the contrary, It becomes religious to live in imitation of Christ. Now Christ was a mendicant, according to Ps. 39:18, "But I am a beggar and poor"; where a gloss says: "Christ said this of Himself as bearing the 'form of a servant,'" and further on: "A beggar is one who entreats another, and a poor man is one who has not enough for himself." Again it is written (Ps. 69:6): "I am needy and poor"; where a gloss says: "'Needy,' that is a suppliant; 'and poor,' that is, not having enough for myself, because I have no worldly wealth." And Jerome says in a letter [*Reference unknown]: "Beware lest whereas thy Lord," i.e. Christ, "begged, thou amass other people's wealth." Therefore it becomes religious to beg.
-
----
-
-I answer that, Two things may be considered in reference to mendicancy. The first is on the part of the act itself of begging, which has a certain abasement attaching to it; since of all men those would seem most abased who are not only poor, but are so needy that they have to receive their meat from others. In this way some deserve praise for begging out of humility, just as they abase themselves in other ways, as being the most efficacious remedy against pride which they desire to quench either in themselves or in others by their example. For just as a disease that arises from excessive heat is most efficaciously healed by things that excel in cold, so proneness to pride is most efficaciously healed by those things which savor most of abasement. Hence it is said in the Decretals (II, cap. Si quis semel, de Paenitentia): "To condescend to the humblest duties, and to devote oneself to the lowliest service is an exercise of humility; for thus one is able to heal the disease of pride and human glory." Hence Jerome praises Fabiola (Ep. lxxvii ad ocean.) for that she desired "to receive alms, having poured forth all her wealth for Christ's sake." The Blessed Alexis acted in like manner, for, having renounced all his possessions for Christ's sake he rejoiced in receiving alms even from his own servants. It is also related of the Blessed Arsenius in the Lives of the Fathers (v, 6) that he gave thanks because he was forced by necessity to ask for alms. Hence it is enjoined to some people as a penance for grievous sins to go on a pilgrimage begging. Since, however, humility like the other virtues should not be without discretion, it behooves one to be discreet in becoming a mendicant for the purpose of humiliation, lest a man thereby incur the mark of covetousness or of anything else unbecoming. Secondly, mendicancy may be considered on the part of that which one gets by begging: and thus a man may be led to beg by a twofold motive. First, by the desire to have wealth or meat without working for it, and such like mendicancy is unlawful; secondly, by a motive of necessity or usefulness. The motive is one of necessity if a man has no other means of livelihood save begging; and it is a motive of usefulness if he wishes to accomplish something useful, and is unable to do so without the alms of the faithful. Thus alms are besought for the building of a bridge, or church, or for any other work whatever that is conducive to the common good: thus scholars may seek alms that they may devote themselves to the study of wisdom. In this way mendicancy is lawful to religious no less than to seculars.
-
----
+**Objections**
 
 Objection 1: It would seem unlawful for religious to beg. For Augustine says (De oper. Monach. xxviii): "The most cunning foe has scattered on all sides a great number of hypocrites wearing the monastic habit, who go wandering about the country," and afterwards he adds: "They all ask, they all demand to be supported in their profitable penury, or to be paid for a pretended holiness." Therefore it would seem that the life of mendicant religious is to be condemned.
 
-Reply to Objection 1: Augustine is speaking there explicitly of those who beg from motives of covetousness.
-
----
-
 Objection 2: Further, it is written (1 Thess. 4:11): "That you . . . work with your own hands as we commanded you, and that you walk honestly towards them that are without: and that you want nothing of any man's": and a gloss on this passage says: "You must work and not be idle, because work is both honorable and a light to the unbeliever: and you must not covet that which belongs to another and much less beg or take anything." Again a gloss [*St. Augustine, (De oper. Monach. iii)] on 2 Thess. 3:10, "If any man will not work," etc. says: "He wishes the servants of God to work with the body, so as to gain a livelihood, and not be compelled by want to ask for necessaries." Now this is to beg. Therefore it would seem unlawful to beg while omitting to work with one's hands.
-
-Reply to Objection 2: The first gloss speaks of begging from motives of covetousness, as appears from the words of the Apostle; while the second gloss speaks of those who without effecting any useful purpose, beg their livelihood in order to live in idleness. on the other hand, he lives not idly who in any way lives usefully.
-
----
 
 Objection 3: Further, that which is forbidden by law and contrary to justice, is unbecoming to religious. Now begging is forbidden in the divine law; for it is written (Dt. 15:4): "There shall be no poor nor beggar among you," and (Ps. 36:25): "I have not seen the just forsaken, nor his seed seeking bread." Moreover an able-bodied mendicant is punished by civil law, according to the law (XI, xxvi, de Valid. Mendicant.). Therefore it is unfitting for religious to beg.
 
-Reply to Objection 3: This precept of the divine law does not forbid anyone to beg, but it forbids the rich to be so stingy that some are compelled by necessity to beg. The civil law imposes a penalty on able-bodied mendicants who beg from motives neither of utility nor of necessity.
-
----
-
 Objection 4: Further, "Shame is about that which is disgraceful," as Damascene says (De Fide Orth. ii, 15). Now Ambrose says (De Offic. i, 30) that "to be ashamed to beg is a sign of good birth." Therefore it is disgraceful to beg: and consequently this is unbecoming to religious.
 
-Reply to Objection 4: Disgrace is twofold; one arises from lack of honesty [*Cf.[3810] Q[145], A[1]], the other from an external defect, thus it is disgraceful for a man to be sick or poor. Such like uncomeliness of mendicancy does not pertain to sin, but it may pertain to humility, as stated above.
-
----
-
 Objection 5: Further, according to our Lord's command it is especially becoming to preachers of the Gospel to live on alms, as stated above [3809](A[4]). Yet it is not becoming that they should beg, since a gloss on 2 Tim. 2:6, "The husbandman, that laboreth," etc. says: "The Apostle wishes the gospeler to understand that to accept necessaries from those among whom he labors is not mendicancy but a right." Therefore it would seem unbecoming for religious to beg.
+
+**Answer**
+
+On the contrary, It becomes religious to live in imitation of Christ. Now Christ was a mendicant, according to Ps. 39:18, "But I am a beggar and poor"; where a gloss says: "Christ said this of Himself as bearing the 'form of a servant,'" and further on: "A beggar is one who entreats another, and a poor man is one who has not enough for himself." Again it is written (Ps. 69:6): "I am needy and poor"; where a gloss says: "'Needy,' that is a suppliant; 'and poor,' that is, not having enough for myself, because I have no worldly wealth." And Jerome says in a letter [*Reference unknown]: "Beware lest whereas thy Lord," i.e. Christ, "begged, thou amass other people's wealth." Therefore it becomes religious to beg.
+
+I answer that, Two things may be considered in reference to mendicancy. The first is on the part of the act itself of begging, which has a certain abasement attaching to it; since of all men those would seem most abased who are not only poor, but are so needy that they have to receive their meat from others. In this way some deserve praise for begging out of humility, just as they abase themselves in other ways, as being the most efficacious remedy against pride which they desire to quench either in themselves or in others by their example. For just as a disease that arises from excessive heat is most efficaciously healed by things that excel in cold, so proneness to pride is most efficaciously healed by those things which savor most of abasement. Hence it is said in the Decretals (II, cap. Si quis semel, de Paenitentia): "To condescend to the humblest duties, and to devote oneself to the lowliest service is an exercise of humility; for thus one is able to heal the disease of pride and human glory." Hence Jerome praises Fabiola (Ep. lxxvii ad ocean.) for that she desired "to receive alms, having poured forth all her wealth for Christ's sake." The Blessed Alexis acted in like manner, for, having renounced all his possessions for Christ's sake he rejoiced in receiving alms even from his own servants. It is also related of the Blessed Arsenius in the Lives of the Fathers (v, 6) that he gave thanks because he was forced by necessity to ask for alms. Hence it is enjoined to some people as a penance for grievous sins to go on a pilgrimage begging. Since, however, humility like the other virtues should not be without discretion, it behooves one to be discreet in becoming a mendicant for the purpose of humiliation, lest a man thereby incur the mark of covetousness or of anything else unbecoming. Secondly, mendicancy may be considered on the part of that which one gets by begging: and thus a man may be led to beg by a twofold motive. First, by the desire to have wealth or meat without working for it, and such like mendicancy is unlawful; secondly, by a motive of necessity or usefulness. The motive is one of necessity if a man has no other means of livelihood save begging; and it is a motive of usefulness if he wishes to accomplish something useful, and is unable to do so without the alms of the faithful. Thus alms are besought for the building of a bridge, or church, or for any other work whatever that is conducive to the common good: thus scholars may seek alms that they may devote themselves to the study of wisdom. In this way mendicancy is lawful to religious no less than to seculars.
+
+**Replies**
+
+Reply to Objection 1: Augustine is speaking there explicitly of those who beg from motives of covetousness.
+
+Reply to Objection 2: The first gloss speaks of begging from motives of covetousness, as appears from the words of the Apostle; while the second gloss speaks of those who without effecting any useful purpose, beg their livelihood in order to live in idleness. on the other hand, he lives not idly who in any way lives usefully.
+
+Reply to Objection 3: This precept of the divine law does not forbid anyone to beg, but it forbids the rich to be so stingy that some are compelled by necessity to beg. The civil law imposes a penalty on able-bodied mendicants who beg from motives neither of utility nor of necessity.
+
+Reply to Objection 4: Disgrace is twofold; one arises from lack of honesty [*Cf.[3810] Q[145], A[1]], the other from an external defect, thus it is disgraceful for a man to be sick or poor. Such like uncomeliness of mendicancy does not pertain to sin, but it may pertain to humility, as stated above.
 
 Reply to Objection 5: Preachers have the right to be fed by those to whom they preach: yet if they wish to seek this by begging so as to receive it as a free gift and not as a right this will be a mark of greater humility.
 
 ### Whether It Is Lawful For Religious To Wear Coarser Clothes Than Others?
 
-On the contrary, The Apostle says (Heb. 11:37): "They wandered about in sheep-skins in goat-skins," and a gloss adds---"as Elias and others." Moreover it is said in the Decretal XXI, qu. iv, can. Omnis jactantia: "If any persons be found to deride those who wear coarse and religious apparel they must be reproved. For in the early times all those who were consecrated to God went about in common and coarse apparel."
+**Objections**
 
----
+Objection 1: It would seem unlawful for religious to wear coarser clothes than others. For according to the Apostle (1 Thess. 5:22) we ought to "refrain from all appearance of evil." Now coarseness of clothes has an appearance of evil; for our Lord said (Mat. 7:15): "Beware of false prophets who come to you in the clothing of sheep": and a gloss on Apoc. 6:8, "Behold a pale horse," says: "The devil finding that he cannot succeed, neither by outward afflictions nor by manifest heresies, sends in advance false brethren, who under the guise of religion assume the characteristics of the black and red horses by corrupting the faith." Therefore it would seem that religious should not wear coarse clothes.
+
+Objection 2: Further, Jerome says (Ep. lii ad Nepotian.): "Avoid somber," i.e. black, "equally with glittering apparel. Fine and coarse clothes are equally to be shunned, for the one exhales pleasure, the other vainglory." Therefore, since vainglory is a graver sin than the use of pleasure, it would seem that religious who should aim at what is more perfect ought to avoid coarse rather than fine clothes.
+
+Objection 3: Further, religious should aim especially at doing works of penance. Now in works of penance we should use, not outward signs of sorrow, but rather signs of joy; for our Lord said (Mat. 6:16): "When you fast, be not, as the hypocrites, sad," and afterwards He added: "But thou, when thou fastest, anoint thy head and wash thy face." Augustine commenting on these words (De Serm. Dom. in Monte ii, 12): "In this chapter we must observe that not only the glare and pomp of outward things, but even the weeds of mourning may be a subject of ostentation, all the more dangerous as being a decoy under the guise of God's service." Therefore seemingly religious ought not to wear coarse clothes.
+
+**Answer**
+
+On the contrary, The Apostle says (Heb. 11:37): "They wandered about in sheep-skins in goat-skins," and a gloss adds---"as Elias and others." Moreover it is said in the Decretal XXI, qu. iv, can. Omnis jactantia: "If any persons be found to deride those who wear coarse and religious apparel they must be reproved. For in the early times all those who were consecrated to God went about in common and coarse apparel."
 
 I answer that, As Augustine says (De Doctr. Christ. iii, 12), "in all external things, it is not the use but the intention of the user that is at fault." In order to judge of this it is necessary to observe that coarse and homely apparel may be considered in two ways. First, as being a sign of a man's disposition or condition, because according to Ecclus. 19:27, "the attire . . . of the man" shows "what he is." In this way coarseness of attire is sometimes a sign of sorrow: wherefore those who are beset with sorrow are wont to wear coarser clothes, just as on the other hand in times of festivity and joy they wear finer clothes. Hence penitents make use of coarse apparel, for example, the king (Jonah 3:6) who "was clothed with sack-cloth," and Achab (3 Kings 21:27) who "put hair-cloth upon his flesh." Sometimes, however, it is a sign of the contempt of riches and worldly ostentation. Wherefore Jerome says (Ep. cxxv ad Rustico Monach.): "Let your somber attire indicate your purity of mind, your coarse robe prove your contempt of the world, yet so that your mind be not inflated withal, lest your speech belie your habit." In both these ways it is becoming for religious to wear coarse attire, since religion is a state of penance and of contempt of worldly glory.
 
@@ -1180,21 +1084,11 @@ Accordingly in the first two ways it is praiseworthy to wear humble apparel, but
 
 Secondly, coarse and homely attire may be considered as the result of covetousness or negligence, and thus also it is sinful.
 
----
-
-Objection 1: It would seem unlawful for religious to wear coarser clothes than others. For according to the Apostle (1 Thess. 5:22) we ought to "refrain from all appearance of evil." Now coarseness of clothes has an appearance of evil; for our Lord said (Mat. 7:15): "Beware of false prophets who come to you in the clothing of sheep": and a gloss on Apoc. 6:8, "Behold a pale horse," says: "The devil finding that he cannot succeed, neither by outward afflictions nor by manifest heresies, sends in advance false brethren, who under the guise of religion assume the characteristics of the black and red horses by corrupting the faith." Therefore it would seem that religious should not wear coarse clothes.
+**Replies**
 
 Reply to Objection 1: Coarseness of attire has not of itself the appearance of evil, indeed it has more the appearance of good, namely of the contempt of worldly glory. Hence it is that wicked persons hide their wickedness under coarse clothing. Hence Augustine says (De Serm. Dom. in Monte ii, 24) that "the sheep should not dislike their clothing for the reason that the wolves sometimes hide themselves under it."
 
----
-
-Objection 2: Further, Jerome says (Ep. lii ad Nepotian.): "Avoid somber," i.e. black, "equally with glittering apparel. Fine and coarse clothes are equally to be shunned, for the one exhales pleasure, the other vainglory." Therefore, since vainglory is a graver sin than the use of pleasure, it would seem that religious who should aim at what is more perfect ought to avoid coarse rather than fine clothes.
-
 Reply to Objection 2: Jerome is speaking there of the coarse attire that is worn on account of human glory.
-
----
-
-Objection 3: Further, religious should aim especially at doing works of penance. Now in works of penance we should use, not outward signs of sorrow, but rather signs of joy; for our Lord said (Mat. 6:16): "When you fast, be not, as the hypocrites, sad," and afterwards He added: "But thou, when thou fastest, anoint thy head and wash thy face." Augustine commenting on these words (De Serm. Dom. in Monte ii, 12): "In this chapter we must observe that not only the glare and pomp of outward things, but even the weeds of mourning may be a subject of ostentation, all the more dangerous as being a decoy under the guise of God's service." Therefore seemingly religious ought not to wear coarse clothes.
 
 Reply to Objection 3: According to our Lord's teaching men should do no deeds of holiness for the sake of show: and this is especially the case when one does something strange. Hence Chrysostom [*Hom. xiii in Matth. in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says: "While praying a man should do nothing strange, so as to draw the gaze of others, either by shouting or striking his breast, or casting up his hands," because the very strangeness draws people's attention to him. Yet blame does not attach to all strange behavior that draws people's attention, for it may be done well or ill. Hence Augustine says (De Serm. Dom. in Monte ii, 12) that "in the practice of the Christian religion when a man draws attention to himself by unwonted squalor and shabbiness, since he acts thus voluntarily and not of necessity, we can gather from his other deeds whether his behavior is motivated by contempt of excessive dress or by affectation." Religious, however, would especially seem not to act thus from affectation, since they wear a coarse habit as a sign of their profession whereby they profess contempt of the world.
 
@@ -1212,167 +1106,157 @@ We must now consider the different kinds of religious life, and under this head 
 
 ### Whether There Is Only One Religious Order?
 
-On the contrary, It is written (Ps. 44:10) that it pertains to the adornment of the queen that she is "surrounded with variety."
+**Objections**
 
----
+Objection 1: It would seem that there is but one religious order. For there can be no diversity in that which is possessed wholly and perfectly; wherefore there can be only one sovereign good, as stated in the [3811]FP, Q[6] , AA[2],3,4. Now as Gregory says (Hom. xx in Ezech.), "when a man vows to Almighty God all that he has, all his life, all his knowledge, it is a holocaust," without which there is no religious life. Therefore it would seem that there are not many religious orders but only one.
+
+Objection 2: Further, things which agree in essentials differ only accidentally. Now there is no religious order without the three essential vows of religion, as stated above ([3812]Q[186], AA[6],7). Therefore it would seem that religious orders differ not specifically, but only accidentally.
+
+Objection 3: Further, the state of perfection is competent both to religious and to bishops, as stated above ([3813]Q[185], AA[5],7). Now the episcopate is not diversified specifically, but is one wherever it may be; wherefore Jerome says (Ep. cxlvi ad Evan.): "Wherever a bishop is, whether at Rome, or Gubbio, or Constantinople, or Reggio, he has the same excellence, the same priesthood." Therefore in like manner there is but one religious order.
+
+Objection 4: Further, anything that may lead to confusion should be removed from the Church. Now it would seem that a diversity of religious orders might confuse the Christian people, as stated in the Decretal de Statu Monach. et Canon. Reg. [*Cap. Ne Nimia, de Relig. Dom.]. Therefore seemingly there ought not to be different religious orders.
+
+**Answer**
+
+On the contrary, It is written (Ps. 44:10) that it pertains to the adornment of the queen that she is "surrounded with variety."
 
 I answer that, As stated above (Q[186], A, 7;[3814] Q[187], A[2]), the religious state is a training school wherein one aims by practice at the perfection of charity. Now there are various works of charity to which a man may devote himself; and there are also various kinds of exercise. Wherefore religious orders may be differentiated in two ways. First, according to the different things to which they may be directed: thus one may be directed to the lodging of pilgrims, another to visiting or ransoming captives. Secondly, there may be various religious orders according to the diversity of practices; thus in one religious order the body is chastised by abstinence in food, in another by the practice of manual labor, scantiness of clothes, or the like.
 
 Since, however, the end imports most in every matter, [*Arist., Topic. vi 8] religious orders differ more especially according to their various ends than according to their various practices.
 
----
-
-Objection 1: It would seem that there is but one religious order. For there can be no diversity in that which is possessed wholly and perfectly; wherefore there can be only one sovereign good, as stated in the [3811]FP, Q[6] , AA[2],3,4. Now as Gregory says (Hom. xx in Ezech.), "when a man vows to Almighty God all that he has, all his life, all his knowledge, it is a holocaust," without which there is no religious life. Therefore it would seem that there are not many religious orders but only one.
+**Replies**
 
 Reply to Objection 1: The obligation to devote oneself wholly to God's service is common to every religious order; hence religious do not differ in this respect, as though in one religious order a person retained some one thing of his own, and in another order some other thing. But the difference is in respect of the different things wherein one may serve God, and whereby a man may dispose himself to the service of God.
 
----
-
-Objection 2: Further, things which agree in essentials differ only accidentally. Now there is no religious order without the three essential vows of religion, as stated above ([3812]Q[186], AA[6],7). Therefore it would seem that religious orders differ not specifically, but only accidentally.
-
 Reply to Objection 2: The three essential vows of religion pertain to the practice of religion as principles to which all other matters are reduced, as stated above ([3815]Q[186], A[7]). But there are various ways of disposing oneself to the observance of each of them. For instance one disposes oneself to observe the vow of continence, by solitude of place, by abstinence, by mutual fellowship, and by many like means. Accordingly it is evident that the community of the essential vows is compatible with diversity of religious life, both on account of the different dispositions and on account of the different ends, as explained above.
 
----
-
-Objection 3: Further, the state of perfection is competent both to religious and to bishops, as stated above ([3813]Q[185], AA[5],7). Now the episcopate is not diversified specifically, but is one wherever it may be; wherefore Jerome says (Ep. cxlvi ad Evan.): "Wherever a bishop is, whether at Rome, or Gubbio, or Constantinople, or Reggio, he has the same excellence, the same priesthood." Therefore in like manner there is but one religious order.
-
 Reply to Objection 3: In matters relating to perfection, the bishop stands in the position of agent, and the religious as passive, as stated above ([3816]Q[184], A[7]). Now the agent, even in natural things, the higher it is, is so much the more one, whereas the things that are passive are various. Hence with reason the episcopal state is one, while religious orders are many.
-
----
-
-Objection 4: Further, anything that may lead to confusion should be removed from the Church. Now it would seem that a diversity of religious orders might confuse the Christian people, as stated in the Decretal de Statu Monach. et Canon. Reg. [*Cap. Ne Nimia, de Relig. Dom.]. Therefore seemingly there ought not to be different religious orders.
 
 Reply to Objection 4: Confusion is opposed to distinction and order. Accordingly the multitude of religious orders would lead to confusion, if different religious orders were directed to the same end and in the same way, without necessity or utility. Wherefore to prevent this happening it has been wholesomely forbidden to establish a new religious order without the authority of the Sovereign Pontiff.
 
 ### Whether A Religious Order Should Be Established For The Works Of The Active Life?
 
-On the contrary, It is written (James 1:27): "Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation." Now this belongs to the active life. Therefore religious life can be fittingly directed to the active life.
-
----
-
-I answer that, As stated above [3819](A[1]), the religious state is directed to the perfection of charity, which extends to the love of God and of our neighbor. Now the contemplative life which seeks to devote itself to God alone belongs directly to the love of God, while the active life, which ministers to our neighbor's needs, belongs directly to the love of one's neighbor. And just as out of charity we love our neighbor for God's sake, so the services we render our neighbor redound to God, according to Mat. 25:40, "What you have done [Vulg.: 'As long as you did it'] to one of these My least brethren, you did it to Me." Consequently those services which we render our neighbor, in so far as we refer them to God, are described as sacrifices, according to Heb. 13:16, "Do not forget to do good and to impart, for by such sacrifices God's favor is obtained." And since it belongs properly to religion to offer sacrifice to God, as stated above (Q[81], A[1], ad 1; A[4], ad 1), it follows that certain religious orders are fittingly directed to the works of the active life. Wherefore in the Conferences of the Fathers (Coll. xiv, 4) the Abbot Nesteros in distinguishing the various aims of religious orders says: "Some direct their intention exclusively to the hidden life of the desert and purity of heart; some are occupied with the instruction of the brethren and the care of the monasteries; while others delight in the service of the guesthouse," i.e. in hospitality.
-
----
+**Objections**
 
 Objection 1: It would seem that no religious order should be established for the works of the active life. For every religious order belongs to the state of perfection, as stated above ([3817]Q[184], A[5];[3818] Q[186], A[1]). Now the perfection of the religious state consists in the contemplation of divine things. For Dionysius says (Eccl. Hier. vi) that they are "called servants of God by reason of their rendering pure service and subjection to God, and on account of the indivisible and singular life which unites them by holy reflections," i.e. contemplations, "on invisible things, to the Godlike unity and the perfection beloved of God." Therefore seemingly no religious order should be established for the works of the active life.
 
-Reply to Objection 1: Service and subjection rendered to God are not precluded by the works of the active life, whereby a man serves his neighbor for God's sake, as stated in the Article. Nor do these works preclude singularity of life; not that they involve man's living apart from his fellow-men, but in the sense that each man individually devotes himself to things pertaining to the service of God; and since religious occupy themselves with the works of the active life for God's sake, it follows that their action results from their contemplation of divine things. Hence they are not entirely deprived of the fruit of the contemplative life.
-
----
-
 Objection 2: Further, seemingly the same judgment applies to canons regular as to monks, according to Extra, De Postul., cap. Ex parte; and De Statu Monach., cap. Quod Dei timorem: for it is stated that "they are not considered to be separated from the fellowship of monks": and the same would seem to apply to all other religious. Now the monastic rule was established for the purpose of the contemplative life; wherefore Jerome says (Ep. lviii ad Paulin.): "If you wish to be what you are called, a monk," i.e. a solitary, "what business have you in a city?" The same is found stated in Extra, De Renuntiatione, cap. Nisi cum pridem; and De Regular., cap. Licet quibusdam. Therefore it would seem that every religious order is directed to the contemplative life, and none to the active life.
 
-Reply to Objection 2: The same judgment applies to monks and to all other religious, as regards things common to all religious orders: for instance as regards their devoting themselves wholly to the divine service, their observance of the essential vows of religion, and their refraining from worldly business. But it does not follow that this likeness extends to other things that are proper to the monastic profession, and are directed especially to the contemplative life. Hence in the aforesaid Decretal, De Postulando, it is not simply stated that "the same judgment applies to canons regular" as "to monks," but that it applies "in matters already mentioned," namely that "they are not to act as advocates in lawsuits." Again the Decretal quoted, De Statu Monach., after the statement that "canons regular are not considered to be separated from the fellowship of monks," goes on to say: "Nevertheless they obey an easier rule." Hence it is evident that they are not bound to all that monks are bound.
-
----
-
 Objection 3: Further, the active life is concerned with the present world. Now all religious are said to renounce the world; wherefore Gregory says (Hom. xx in Ezech.): "He who renounces this world, and does all the good he can, is like one who has gone out of Egypt and offers sacrifice in the wilderness." Therefore it would seem that no religious order can be directed to the active life.
+
+**Answer**
+
+On the contrary, It is written (James 1:27): "Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation." Now this belongs to the active life. Therefore religious life can be fittingly directed to the active life.
+
+I answer that, As stated above [3819](A[1]), the religious state is directed to the perfection of charity, which extends to the love of God and of our neighbor. Now the contemplative life which seeks to devote itself to God alone belongs directly to the love of God, while the active life, which ministers to our neighbor's needs, belongs directly to the love of one's neighbor. And just as out of charity we love our neighbor for God's sake, so the services we render our neighbor redound to God, according to Mat. 25:40, "What you have done [Vulg.: 'As long as you did it'] to one of these My least brethren, you did it to Me." Consequently those services which we render our neighbor, in so far as we refer them to God, are described as sacrifices, according to Heb. 13:16, "Do not forget to do good and to impart, for by such sacrifices God's favor is obtained." And since it belongs properly to religion to offer sacrifice to God, as stated above (Q[81], A[1], ad 1; A[4], ad 1), it follows that certain religious orders are fittingly directed to the works of the active life. Wherefore in the Conferences of the Fathers (Coll. xiv, 4) the Abbot Nesteros in distinguishing the various aims of religious orders says: "Some direct their intention exclusively to the hidden life of the desert and purity of heart; some are occupied with the instruction of the brethren and the care of the monasteries; while others delight in the service of the guesthouse," i.e. in hospitality.
+
+**Replies**
+
+Reply to Objection 1: Service and subjection rendered to God are not precluded by the works of the active life, whereby a man serves his neighbor for God's sake, as stated in the Article. Nor do these works preclude singularity of life; not that they involve man's living apart from his fellow-men, but in the sense that each man individually devotes himself to things pertaining to the service of God; and since religious occupy themselves with the works of the active life for God's sake, it follows that their action results from their contemplation of divine things. Hence they are not entirely deprived of the fruit of the contemplative life.
+
+Reply to Objection 2: The same judgment applies to monks and to all other religious, as regards things common to all religious orders: for instance as regards their devoting themselves wholly to the divine service, their observance of the essential vows of religion, and their refraining from worldly business. But it does not follow that this likeness extends to other things that are proper to the monastic profession, and are directed especially to the contemplative life. Hence in the aforesaid Decretal, De Postulando, it is not simply stated that "the same judgment applies to canons regular" as "to monks," but that it applies "in matters already mentioned," namely that "they are not to act as advocates in lawsuits." Again the Decretal quoted, De Statu Monach., after the statement that "canons regular are not considered to be separated from the fellowship of monks," goes on to say: "Nevertheless they obey an easier rule." Hence it is evident that they are not bound to all that monks are bound.
 
 Reply to Objection 3: A man may be in the world in two ways: in one way by his bodily presence, in another way by the bent of his mind. Hence our Lord said to His disciples (Jn. 15:19): "I have chosen you out of the world," and yet speaking of them to His Father He said (Jn. 17:11): "These are in the world, and I come to Thee." Although, then, religious who are occupied with the works of the active life are in the world as to the presence of the body, they are not in the world as regards their bent of mind, because they are occupied with external things, not as seeking anything of the world, but merely for the sake of serving God: for "they . . . use this world, as if they used it not," to quote 1 Cor. 7:31. Hence (James 1:27) after it is stated that "religion clean and undefiled . . . is . . . to visit the fatherless and widows in their tribulation," it is added, "and to keep one's self unspotted from this world," namely to avoid being attached to worldly things.
 
 ### Whether A Religious Order Can Be Directed To Soldiering?
 
-On the contrary, Augustine says (Ep. clxxxix; ad Bonifac.), "Beware of thinking that none of those can please God who handle war-like weapons. Of such was holy David to whom the Lord gave great testimony." Now religious orders are established in order that men may please God. Therefore nothing hinders the establishing of a religious order for the purpose of soldiering.
+**Objections**
 
----
+Objection 1: It would seem that no religious order can be directed to soldiering. For all religious orders belong to the state of perfection. Now our Lord said with reference to the perfection of Christian life (Mat. 5:39): "I say to you not to resist evil; but if one strike thee on the right cheek, turn to him also the other," which is inconsistent with the duties of a soldier. Therefore no religious order can be established for soldiering.
+
+Objection 2: Further, the bodily encounter of the battlefield is more grievous than the encounter in words that takes place between counsel at law. Yet religious are forbidden to plead at law, as appears from the Decretal De Postulando quoted above (A[2], OBJ[2]). Therefore it is much less seemly for a religious order to be established for soldiering.
+
+Objection 3: Further, the religious state is a state of penance, as we have said above ([3820]Q[187], A[6]). Now according to the code of laws soldiering is forbidden to penitents. for it is said in the Decretal De Poenit., Dist. v, cap. 3: "It is altogether opposed to the rules of the Church, to return to worldly soldiering after doing penance." Therefore it is unfitting for any religious order to be established for soldiering.
+
+Objection 4: Further, no religious order may be established for an unjust object. But as Isidore says (Etym. xviii, 1), "A just war is one that is waged by order of the emperor." Since then religious are private individuals, it would seem unlawful for them to wage war; and consequently no religious order may be established for this purpose.
+
+**Answer**
+
+On the contrary, Augustine says (Ep. clxxxix; ad Bonifac.), "Beware of thinking that none of those can please God who handle war-like weapons. Of such was holy David to whom the Lord gave great testimony." Now religious orders are established in order that men may please God. Therefore nothing hinders the establishing of a religious order for the purpose of soldiering.
 
 I answer that, As stated above [3821](A[2]), a religious order may be established not only for the works of the contemplative life, but also for the works of the active life, in so far as they are concerned in helping our neighbor and in the service of God, but not in so far as they are directed to a worldly object. Now the occupation of soldiering may be directed to the assistance of our neighbor, not only as regards private individuals, but also as regards the defense of the whole commonwealth. Hence it is said of Judas Machabeus (1 Macc. 3:2,3) that "he [Vulg.: 'they'] fought with cheerfulness the battle of Israel, and he got his people great honor." It can also be directed to the upkeep of divine worship, wherefore (1 Macc. 3:21) Judas is stated to have said: "We will fight for our lives and our laws," and further on (1 Macc. 13:3) Simon said: "You know what great battles I and my brethren, and the house of my father, have fought for the laws and the sanctuary."
 
 Hence a religious order may be fittingly established for soldiering, not indeed for any worldly purpose, but for the defense of divine worship and public safety, or also of the poor and oppressed, according to Ps. 81:4: "Rescue the poor, and deliver the needy out of the hand of the sinner."
 
----
-
-Objection 1: It would seem that no religious order can be directed to soldiering. For all religious orders belong to the state of perfection. Now our Lord said with reference to the perfection of Christian life (Mat. 5:39): "I say to you not to resist evil; but if one strike thee on the right cheek, turn to him also the other," which is inconsistent with the duties of a soldier. Therefore no religious order can be established for soldiering.
+**Replies**
 
 Reply to Objection 1: Not to resist evil may be understood in two ways. First, in the sense of forgiving the wrong done to oneself, and thus it may pertain to perfection, when it is expedient to act thus for the spiritual welfare of others. Secondly, in the sense of tolerating patiently the wrongs done to others: and this pertains to imperfection, or even to vice, if one be able to resist the wrongdoer in a becoming manner. Hence Ambrose says (De Offic. i, 27): "The courage whereby a man in battle defends his country against barbarians, or protects the weak at home, or his friends against robbers is full of justice": even so our Lord says in the passage quoted [*Lk. 6:30 "Of him that taketh away thy goods, ask them not again"; Cf. Mat. 5:40], " . . . thy goods, ask them not again." If, however, a man were not to demand the return of that which belongs to another, he would sin if it were his business to do so: for it is praiseworthy to give away one's own, but not another's property. And much less should the things of God be neglected, for as Chrysostom [*Hom. v in Matth. in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says, "it is most wicked to overlook the wrongs done to God."
 
----
-
-Objection 2: Further, the bodily encounter of the battlefield is more grievous than the encounter in words that takes place between counsel at law. Yet religious are forbidden to plead at law, as appears from the Decretal De Postulando quoted above (A[2], OBJ[2]). Therefore it is much less seemly for a religious order to be established for soldiering.
-
 Reply to Objection 2: It is inconsistent with any religious order to act as counsel at law for a worldly object, but it is not inconsistent to do so at the orders of one's superior and in favor of one's monastery, as stated in the same Decretal, or for the defense of the poor and widows. Wherefore it is said in the Decretals (Dist. lxxxviii, cap. 1): "The holy synod has decreed that henceforth no cleric is to buy property or occupy himself with secular business, save with a view to the care of the fatherless . . . and widows." Likewise to be a soldier for the sake of some worldly object is contrary to all religious life, but this does not apply to those who are soldiers for the sake of God's service.
 
----
-
-Objection 3: Further, the religious state is a state of penance, as we have said above ([3820]Q[187], A[6]). Now according to the code of laws soldiering is forbidden to penitents. for it is said in the Decretal De Poenit., Dist. v, cap. 3: "It is altogether opposed to the rules of the Church, to return to worldly soldiering after doing penance." Therefore it is unfitting for any religious order to be established for soldiering.
-
 Reply to Objection 3: Worldly soldiering is forbidden to penitents, but the soldiering which is directed to the service of God is imposed as a penance on some people, as in the case of those upon whom it is enjoined to take arms in defense of the Holy Land.
-
----
-
-Objection 4: Further, no religious order may be established for an unjust object. But as Isidore says (Etym. xviii, 1), "A just war is one that is waged by order of the emperor." Since then religious are private individuals, it would seem unlawful for them to wage war; and consequently no religious order may be established for this purpose.
 
 Reply to Objection 4: The establishment of a religious order for the purpose of soldiering does not imply that the religious can wage war on their own authority; but they can do so only on the authority of the sovereign or of the Church.
 
 ### Whether A Religious Order Can Be Established For Preaching Or Hearing Confessions?
 
-On the contrary, In the Conferences of the Fathers (Coll. xiv, 4), Abbot Nesteros, speaking of the various kinds of religious orders, says: "Some choosing the care of the sick, others devoting themselves to the relief of the afflicted and oppressed, or applying themselves to teaching, or giving alms to the poor, have been most highly esteemed on account of their devotion and piety." Therefore just as a religious order may be established for the care of the sick, so also may one be established for teaching the people by preaching and like works.
-
----
-
-I answer that, As stated above [3824](A[2]), it is fitting for a religious order to be established for the works of the active life, in so far as they are directed to the good of our neighbor, the service of God, and the upkeep of divine worship. Now the good of our neighbor is advanced by things pertaining to the spiritual welfare of the soul rather than by things pertaining to the supplying of bodily needs, in proportion to the excellence of spiritual over corporal things. Hence it was stated above (Q[32], A[3]) that spiritual works of mercy surpass corporal works of mercy. Moreover this is more pertinent to the service of God, to Whom no sacrifice is more acceptable than zeal for souls, as Gregory says (Hom. xii in Ezech.). Furthermore, it is a greater thing to employ spiritual arms in defending the faithful against the errors of heretics and the temptations of the devil, than to protect the faithful by means of bodily weapons. Therefore it is most fitting for a religious order to be established for preaching and similar works pertaining to the salvation of souls.
-
----
+**Objections**
 
 Objection 1: It would seem that no religious order may be established for preaching, or hearing confessions. For it is said (VII, qu. i [*Cap. Hoc nequaquam; Cf.[3822] Q[187], A[1], OBJ[1]]): "The monastic life is one of subjection and discipleship, not of teaching, authority, or pastoral care," and the same apparently applies to religious. Now preaching and hearing confessions are the actions of a pastor and teacher. Therefore a religious order should not be established for this purpose.
 
-Reply to Objection 1: He who works by virtue of another, acts as an instrument. And a minister is like an "animated instrument," as the Philosopher says (Polit. i, 2 [*Cf. Ethic. viii, 11]). Hence if a man preach or do something similar by the authority of his superiors, he does not rise above the degree of "discipleship" or "subjection," which is competent to religious.
-
----
-
 Objection 2: Further, the purpose for which a religious order is established would seem to be something most proper to the religious life, as stated above [3823](A[1]). Now the aforesaid actions are not proper to religious but to bishops. Therefore a religious order should not be established for the purpose of such actions.
-
-Reply to Objection 2: Some religious orders are established for soldiering, to wage war, not indeed on their own authority, but on that of the sovereign or of the Church who are competent to wage war by virtue of their office, as stated above (A[3], ad 4). In the same way certain religious orders are established for preaching and hearing confessions, not indeed by their own authority, but by the authority of the higher and lower superiors, to whom these things belong by virtue of their office. Consequently to assist one's superiors in such a ministry is proper to a religious order of this kind.
-
----
 
 Objection 3: Further, it seems unfitting that the authority to preach and hear confessions should be committed to an unlimited number of men; and there is no fixed number of those who are received into a religious order. Therefore it is unfitting for a religious order to be established for the purpose of the aforesaid actions.
 
-Reply to Objection 3: Bishops do not allow these religious severally and indiscriminately to preach or hear confessions, but according to the discretion of the religious superiors, or according to their own appointment.
-
----
-
 Objection 4: Further, preachers have a right to receive their livelihood from the faithful of Christ, according to 1 Cor. 9. If then the office of preaching be committed to a religious order established for that purpose, it follows that the faithful of Christ are bound to support an unlimited number of persons, which would be a heavy burden on them. Therefore a religious order should not be established for the exercise of these actions.
 
-Reply to Objection 4: The faithful are not bound by law to contribute to the support of other than their ordinary prelates, who receive the tithes and offerings of the faithful for that purpose, as well as other ecclesiastical revenues. But if some men are willing to minister to the faithful by exercising the aforesaid acts gratuitously, and without demanding payment as of right, the faithful are not burdened thereby because their temporal contributions can be liberally repaid by those men, nor are they bound by law to contribute, but by charity, and yet not so that they be burdened thereby and others eased, as stated in 2 Cor. 8:13. If, however, none be found to devote themselves gratuitously to services of this kind, the ordinary prelate is bound, if he cannot suffice by himself, to seek other suitable persons and support them himself.
-
----
-
 Objection 5: Further, the organization of the Church should be in accordance with Christ's institution. Now Christ sent first the twelve apostles to preach, as related in Luke 9, and afterwards He sent the seventy-two disciples, as stated in Luke 10. Moreover, according to the gloss of Bede on "And after these things" (Lk. 10:1), "the apostles are represented by the bishops, the seventy-two disciples by the lesser priests," i.e. the parish priests. Therefore in addition to bishops and parish priests, no religious order should be established for the purpose of preaching and hearing confessions.
+
+**Answer**
+
+On the contrary, In the Conferences of the Fathers (Coll. xiv, 4), Abbot Nesteros, speaking of the various kinds of religious orders, says: "Some choosing the care of the sick, others devoting themselves to the relief of the afflicted and oppressed, or applying themselves to teaching, or giving alms to the poor, have been most highly esteemed on account of their devotion and piety." Therefore just as a religious order may be established for the care of the sick, so also may one be established for teaching the people by preaching and like works.
+
+I answer that, As stated above [3824](A[2]), it is fitting for a religious order to be established for the works of the active life, in so far as they are directed to the good of our neighbor, the service of God, and the upkeep of divine worship. Now the good of our neighbor is advanced by things pertaining to the spiritual welfare of the soul rather than by things pertaining to the supplying of bodily needs, in proportion to the excellence of spiritual over corporal things. Hence it was stated above (Q[32], A[3]) that spiritual works of mercy surpass corporal works of mercy. Moreover this is more pertinent to the service of God, to Whom no sacrifice is more acceptable than zeal for souls, as Gregory says (Hom. xii in Ezech.). Furthermore, it is a greater thing to employ spiritual arms in defending the faithful against the errors of heretics and the temptations of the devil, than to protect the faithful by means of bodily weapons. Therefore it is most fitting for a religious order to be established for preaching and similar works pertaining to the salvation of souls.
+
+**Replies**
+
+Reply to Objection 1: He who works by virtue of another, acts as an instrument. And a minister is like an "animated instrument," as the Philosopher says (Polit. i, 2 [*Cf. Ethic. viii, 11]). Hence if a man preach or do something similar by the authority of his superiors, he does not rise above the degree of "discipleship" or "subjection," which is competent to religious.
+
+Reply to Objection 2: Some religious orders are established for soldiering, to wage war, not indeed on their own authority, but on that of the sovereign or of the Church who are competent to wage war by virtue of their office, as stated above (A[3], ad 4). In the same way certain religious orders are established for preaching and hearing confessions, not indeed by their own authority, but by the authority of the higher and lower superiors, to whom these things belong by virtue of their office. Consequently to assist one's superiors in such a ministry is proper to a religious order of this kind.
+
+Reply to Objection 3: Bishops do not allow these religious severally and indiscriminately to preach or hear confessions, but according to the discretion of the religious superiors, or according to their own appointment.
+
+Reply to Objection 4: The faithful are not bound by law to contribute to the support of other than their ordinary prelates, who receive the tithes and offerings of the faithful for that purpose, as well as other ecclesiastical revenues. But if some men are willing to minister to the faithful by exercising the aforesaid acts gratuitously, and without demanding payment as of right, the faithful are not burdened thereby because their temporal contributions can be liberally repaid by those men, nor are they bound by law to contribute, but by charity, and yet not so that they be burdened thereby and others eased, as stated in 2 Cor. 8:13. If, however, none be found to devote themselves gratuitously to services of this kind, the ordinary prelate is bound, if he cannot suffice by himself, to seek other suitable persons and support them himself.
 
 Reply to Objection 5: The seventy-two disciples are represented not only by the parish priests, but by all those of lower order who in any way assist the bishops in their office. For we do not read that our Lord appointed the seventy-two disciples to certain fixed parishes, but that "He sent them two and two before His face into every city and place whither He Himself was to come." It was fitting, however, that in addition to the ordinary prelates others should be chosen for these duties on account of the multitude of the faithful, and the difficulty of finding a sufficient number of persons to be appointed to each locality, just as it was necessary to establish religious orders for military service, on account of the secular princes being unable to cope with unbelievers in certain countries.
 
 ### Whether A Religious Order Should Be Established For The Purpose Of Study?
 
-On the contrary, Jerome (Ep. liii ad Paulin.) urges him to acquire learning in the monastic state, saying: "Let us learn on earth those things the knowledge of which will remain in heaven," and further on: "Whatever you seek to know, I will endeavor to know with you."
-
----
-
-
-
----
+**Objections**
 
 Objection 1: It would seem that a religious order should not be established for the purpose of study. For it is written (Ps. 70:15,16): "Because I have not known letters [Douay: 'learning'], I will enter into the powers of the Lord," i.e. "Christian virtue," according to a gloss. Now the perfection of Christian virtue, seemingly, pertains especially to religious. Therefore it is not for them to apply themselves to the study of letters.
 
-Reply to Objection 1: This commentary of the gloss is an exposition of the Old Law of which the Apostle says (2 Cor. 3:6): "The letter killeth." Hence not to know letters is to disapprove of the circumcision of the "letter" and other carnal observances.
-
----
-
 Objection 2: Further, that which is a source of dissent is unbecoming to religious, who are gathered together in the unity of peace. Now study leads to dissent: wherefore different schools of thought arose among the philosophers. Hence Jerome (Super Epist. ad Tit. 1:5) says: "Before a diabolical instinct brought study into religion, and people said: I am of Paul, I of Apollo, I of Cephas," etc. Therefore it would seem that no religious order should be established for the purpose of study.
 
-Reply to Objection 2: Study is directed to knowledge which, without charity, "puffeth up," and consequently leads to dissent, according to Prov. 13:10, "Among the proud there are always dissensions": whereas, with charity, it "edifieth and begets concord." Hence the Apostle after saying (1 Cor. 1:5): "You are made rich . . . in all utterance and in all knowledge," adds (1 Cor. 1:10): "That you all speak the same thing, and that there be no schisms among you." But Jerome is not speaking here of the study of letters, but of the study of dissensions which heretics and schismatics have brought into the Christian religion.
-
----
-
 Objection 3: Further, those who profess the Christian religion should profess nothing in common with the Gentiles. Now among the Gentiles were some who professed philosophy, and even now some secular persons are known as professors of certain sciences. Therefore the study of letters does not become religious.
+
+**Answer**
+
+On the contrary, Jerome (Ep. liii ad Paulin.) urges him to acquire learning in the monastic state, saying: "Let us learn on earth those things the knowledge of which will remain in heaven," and further on: "Whatever you seek to know, I will endeavor to know with you."
+
+
+
+**Replies**
+
+Reply to Objection 1: This commentary of the gloss is an exposition of the Old Law of which the Apostle says (2 Cor. 3:6): "The letter killeth." Hence not to know letters is to disapprove of the circumcision of the "letter" and other carnal observances.
+
+Reply to Objection 2: Study is directed to knowledge which, without charity, "puffeth up," and consequently leads to dissent, according to Prov. 13:10, "Among the proud there are always dissensions": whereas, with charity, it "edifieth and begets concord." Hence the Apostle after saying (1 Cor. 1:5): "You are made rich . . . in all utterance and in all knowledge," adds (1 Cor. 1:10): "That you all speak the same thing, and that there be no schisms among you." But Jerome is not speaking here of the study of letters, but of the study of dissensions which heretics and schismatics have brought into the Christian religion.
 
 Reply to Objection 3: The philosophers professed the study of letters in the matter of secular learning: whereas it becomes religious to devote themselves chiefly to the study of letters in reference to the doctrine that is "according to godliness" (Titus 1:1). It becomes not religious, whose whole life is devoted to the service of God, to seek for other learning, save in so far as it is referred to the sacred doctrine. Hence Augustine says at the end of De Musica vi, 17: "Whilst we think that we should not overlook those whom heretics delude by the deceitful assurance of reason and knowledge, we are slow to advance in the consideration of their methods. Yet we should not be praised for doing this, were it not that many holy sons of their most loving mother the Catholic Church had done the same under the necessity of confounding heretics."
 
 ### Whether A Religious Order That Is Devoted To The Contemplative Life Is More Excellent Than On That Is Given To The Active Life?
 
-On the contrary, our Lord said (Lk. 10:42) that the "best part" was Mary's, by whom the contemplative life is signified.
+**Objections**
 
----
+Objection 1: It would seem that a religious order which is devoted to the contemplative life is not more excellent than one which is given to the active life. For it is said (Extra, de Regular. et Transeunt. ad Relig., cap. Licet), quoting the words of Innocent III: "Even as a greater good is preferred to a lesser, so the common profit takes precedence of private profit: and in this case teaching is rightly preferred to silence, responsibility to contemplation, work to rest." Now the religious order which is directed to the greater good is better. Therefore it would seem that those religious orders that are directed to the active life are more excellent than those which are directed to the contemplative life.
+
+Objection 2: Further, every religious order is directed to the perfection of charity, as stated above ([3826]AA[1],2). Now a gloss on Heb. 12:4, "For you have not yet resisted unto blood," says: "In this life there is no more perfect love than that to which the holy martyrs attained, who fought against sin unto blood." Now to fight unto blood is becoming those religious who are directed to military service, and yet this pertains to the active life. Therefore it would seem that religious orders of this kind are the most excellent.
+
+Objection 3: Further, seemingly the stricter a religious order is, the more excellent it is. But there is no reason why certain religious orders directed to the active life should not be of stricter observance than those directed to the contemplative life. Therefore they are more excellent.
+
+**Answer**
+
+On the contrary, our Lord said (Lk. 10:42) that the "best part" was Mary's, by whom the contemplative life is signified.
 
 I answer that, As stated above [3827](A[1]), the difference between one religious order and another depends chiefly on the end, and secondarily on the exercise. And since one thing cannot be said to be more excellent than another save in respect of that in which it differs therefrom, it follows that the excellence of one religious order over another depends chiefly on their ends, and secondarily on their respective exercises. Nevertheless each of these comparisons is considered in a different way. For the comparison with respect to the end is absolute, since the end is sought for its own sake; whereas the comparison with respect to exercise is relative, since exercise is sought not for its own sake, but for the sake of the end. Hence a religious order is preferable to another, if it be directed to an end that is absolutely more excellent either because it is a greater good or because it is directed to more goods. If, however, the end be the same, the excellence of one religious order over another depends secondarily, not on the amount of exercise, but on the proportion of the exercise to the end in view. Wherefore in the Conferences of the Fathers (Coll. ii, 2) Blessed Antony is quoted, as preferring discretion whereby a man moderates all his actions, to fastings, watchings, and all such observances.
 
@@ -1380,29 +1264,31 @@ Accordingly we must say that the work of the active life is twofold. one proceed
 
 Moreover, in each of these degrees it may be noted that one religious order excels another through being directed to higher action in the same genus; thus among the works of the active life it is better to ransom captives than to receive guests, and among the works of the contemplative life prayer is better than study. Again one will excel another if it be directed to more of these actions than another, or if it have statutes more adapted to the attainment of the end in view.
 
----
-
-Objection 1: It would seem that a religious order which is devoted to the contemplative life is not more excellent than one which is given to the active life. For it is said (Extra, de Regular. et Transeunt. ad Relig., cap. Licet), quoting the words of Innocent III: "Even as a greater good is preferred to a lesser, so the common profit takes precedence of private profit: and in this case teaching is rightly preferred to silence, responsibility to contemplation, work to rest." Now the religious order which is directed to the greater good is better. Therefore it would seem that those religious orders that are directed to the active life are more excellent than those which are directed to the contemplative life.
+**Replies**
 
 Reply to Objection 1: This Decretal refers to the active life as directed to the salvation of souls.
 
----
-
-Objection 2: Further, every religious order is directed to the perfection of charity, as stated above ([3826]AA[1],2). Now a gloss on Heb. 12:4, "For you have not yet resisted unto blood," says: "In this life there is no more perfect love than that to which the holy martyrs attained, who fought against sin unto blood." Now to fight unto blood is becoming those religious who are directed to military service, and yet this pertains to the active life. Therefore it would seem that religious orders of this kind are the most excellent.
-
 Reply to Objection 2: Those religious orders that are established for the purpose of military service aim more directly at shedding the enemy's blood than at the shedding of their own, which latter is more properly competent to martyrs. Yet there is no reason why religious of this description should not acquire the merit of martyrdom in certain cases, and in this respect stand higher than other religious; even as in some cases the works of the active life take precedence of contemplation.
-
----
-
-Objection 3: Further, seemingly the stricter a religious order is, the more excellent it is. But there is no reason why certain religious orders directed to the active life should not be of stricter observance than those directed to the contemplative life. Therefore they are more excellent.
 
 Reply to Objection 3: Strictness of observances, as the Blessed Antony remarks (Conferences of the Fathers; Coll. ii, 2), is not the chief object of commendation in a religious order; and it is written (Is. 58:5): "Is this such a fast as I have chosen, for a man to afflict his soul for a day?" Nevertheless it is adopted in religious life as being necessary for taming the flesh, "which if done without discretion, is liable to make us fail altogether," as the Blessed Antony observes. Wherefore a religious order is not more excellent through having stricter observances, but because its observances are directed by greater discretion to the end of religion. Thus the taming of the flesh is more efficaciously directed to continence by means of abstinence in meat and drink, which pertain to hunger and thirst, than by the privation of clothing, which pertains to cold and nakedness, or by bodily labor.
 
 ### Whether Religious Perfection Is Diminished By Possessing Something In Common?
 
-On the contrary, Prosper [*Julianus Pomerius, among the works of Prosper] says (De Vita Contempl. ix) and his words are quoted (XII, qu. 1, can. Expedit): "It is sufficiently clear both that for the sake of perfection one should renounce having anything of one's own, and that the possession of revenues, which are of course common property, is no hindrance to the perfection of the Church."
+**Objections**
 
----
+Objection 1: It would seem that religious perfection is diminished by possessing something in common. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast and give to the poor." Hence it is clear that to lack worldly wealth belongs to the perfection of Christian life. Now those who possess something in common do not lack worldly wealth. Therefore it would seem that they do not quite reach to the perfection of Christian life.
+
+Objection 2: Further, the perfection of the counsels requires that one should be without worldly solicitude; wherefore the Apostle in giving the counsel of virginity said (1 Cor. 7:32): "I would have you to be without solicitude." Now it belongs to the solicitude of the present life that certain people keep something to themselves for the morrow; and this solicitude was forbidden His disciples by our Lord (Mat. 6:34) saying: "Be not . . . solicitous for tomorrow." Therefore it would seem that the perfection of Christian life is diminished by having something in common.
+
+Objection 3: Further, possessions held in common belong in some way to each member of the community; wherefore Jerome (Ep. lx ad Heliod. Episc.) says in reference to certain people: "They are richer in the monastery than they had been in the world; though serving the poor Christ they have wealth which they had not while serving the rich devil; the Church rejects them now that they are rich, who in the world were beggars." But it is derogatory to religious perfection that one should possess wealth of one's own. Therefore it is also derogatory to religious perfection to possess anything in common.
+
+Objection 4: Further, Gregory (Dial. iii, 14) relates of a very holy man named Isaac, that "when his disciples humbly signified that he should accept the possessions offered to him for the use of the monastery, he being solicitous for the safeguarding of his poverty, held firmly to his opinion, saying: A monk who seeks earthly possessions is no monk at all": and this refers to possessions held in common, and which were offered him for the common use of the monastery. Therefore it would seem destructive of religious perfection to possess anything in common.
+
+Objection 5: Further, our Lord in prescribing religious perfection to His disciples, said (Mat. 10:9,10): "Do not possess gold, nor silver, nor money in your purses, nor script for your journey." By these words, as Jerome says in his commentary, "He reproves those philosophers who are commonly called Bactroperatae [*i.e. staff and scrip bearers], who as despising the world and valuing all things at naught carried their pantry about with them." Therefore it would seem derogatory to religious perfection that one should keep something whether for oneself or for the common use.
+
+**Answer**
+
+On the contrary, Prosper [*Julianus Pomerius, among the works of Prosper] says (De Vita Contempl. ix) and his words are quoted (XII, qu. 1, can. Expedit): "It is sufficiently clear both that for the sake of perfection one should renounce having anything of one's own, and that the possession of revenues, which are of course common property, is no hindrance to the perfection of the Church."
 
 I answer that, As stated above ([3829]Q[184], A[3], ad 1;[3830] Q[185], A[6], ad 1), perfection consists, essentially, not in poverty, but in following Christ, according to the saying of Jerome (Super Matth. xix, 27): "Since it is not enough to leave all, Peter adds that which is perfect, namely, 'We have followed Thee,'" while poverty is like an instrument or exercise for the attainment of perfection. Hence in the Conferences of the Fathers (Coll. i, 7) the abbot Moses says: "Fastings, watchings, meditating on the Scriptures, poverty, and privation of all one's possessions are not perfection, but means of perfection."
 
@@ -1416,41 +1302,35 @@ Now it is manifest that a religious order established for the purpose of contemp
 
 Nor should it be argued that Jerome (Super Matth. xvii, 26) says: "If anyone object that Judas carried money in the purse, we answer that He deemed it unlawful to spend the property of the poor on His own uses," namely by paying the tax---because among those poor His disciples held a foremost place, and the money in Christ's purse was spent chiefly on their needs. For it is stated (Jn. 4:8) that "His disciples were gone into the city to buy meats," and (Jn. 13:29) that the disciples "thought, because Judas had the purse, that Jesus had said to him: But those things which we have need of for the festival day, or that he should give something to the poor." From this it is evident that to keep money by, or any other common property for the support of religious of the same order, or of any other poor, is in accordance with the perfection which Christ taught by His example. Moreover, after the resurrection, the disciples from whom all religious orders took their origin kept the price of the lands, and distributed it according as each one had need (Acts 4:34,35).
 
----
-
-Objection 1: It would seem that religious perfection is diminished by possessing something in common. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast and give to the poor." Hence it is clear that to lack worldly wealth belongs to the perfection of Christian life. Now those who possess something in common do not lack worldly wealth. Therefore it would seem that they do not quite reach to the perfection of Christian life.
+**Replies**
 
 Reply to Objection 1: As stated above ([3831]Q[184], A[3], ad 1), this saying of our Lord does not mean that poverty itself is perfection, but that it is the means of perfection. Indeed, as shown above ([3832]Q[186], A[8]), it is the least of the three chief means of perfection; since the vow of continence excels the vow of poverty, and the vow of obedience excels them both. Since, however, the means are sought not for their own sake, but for the sake of the end, a thing is better, not for being a greater instrument, but for being more adapted to the end. Thus a physician does not heal the more the more medicine he gives, but the more the medicine is adapted to the disease. Accordingly it does not follow that a religious order is the more perfect, according as the poverty it professes is more perfect, but according as its poverty is more adapted to the end both common and special. Granted even that the religious order which exceeds others in poverty be more perfect in so far as it is poorer, this would not make it more perfect simply. For possibly some other religious order might surpass it in matters relating to continence, or obedience, and thus be more perfect simply, since to excel in better things is to be better simply.
 
----
-
-Objection 2: Further, the perfection of the counsels requires that one should be without worldly solicitude; wherefore the Apostle in giving the counsel of virginity said (1 Cor. 7:32): "I would have you to be without solicitude." Now it belongs to the solicitude of the present life that certain people keep something to themselves for the morrow; and this solicitude was forbidden His disciples by our Lord (Mat. 6:34) saying: "Be not . . . solicitous for tomorrow." Therefore it would seem that the perfection of Christian life is diminished by having something in common.
-
 Reply to Objection 2: Our Lord's words (Mat. 6:34), "Be not solicitous for tomorrow," do not mean that we are to keep nothing for the morrow; for the Blessed Antony shows the danger of so doing, in the Conferences of the Fathers (Coll. ii, 2), where he says: "It has been our experience that those who have attempted to practice the privation of all means of livelihood, so as not to have the wherewithal to procure themselves food for one day, have been deceived so unawares that they were unable to finish properly the work they had undertaken." And, as Augustine says (De oper. Monach. xxiii), "if this saying of our Lord, 'Be not solicitous for tomorrow,' means that we are to lay nothing by for the morrow, those who shut themselves up for many days from the sight of men, and apply their whole mind to a life of prayer, will be unable to provide themselves with these things." Again he adds afterwards: "Are we to suppose that the more holy they are, the less do they resemble the birds?" And further on (De oper. Monach. xxiv): "For if it be argued from the Gospel that they should lay nothing by, they answer rightly: Why then did our Lord have a purse, wherein He kept the money that was collected? Why, in days long gone by, when famine was imminent, was grain sent to the holy fathers? Why did the apostles thus provide for the needs of the saints?"
-
----
-
-Objection 3: Further, possessions held in common belong in some way to each member of the community; wherefore Jerome (Ep. lx ad Heliod. Episc.) says in reference to certain people: "They are richer in the monastery than they had been in the world; though serving the poor Christ they have wealth which they had not while serving the rich devil; the Church rejects them now that they are rich, who in the world were beggars." But it is derogatory to religious perfection that one should possess wealth of one's own. Therefore it is also derogatory to religious perfection to possess anything in common.
 
 Reply to Objection 3: The saying of Jerome applies where there are excessive riches, possessed in private as it were, or by the abuse of which even the individual members of a community wax proud and wanton. But they do not apply to moderate wealth, set by for the common use, merely as a means of livelihood of which each one stands in need. For it amounts to the same that each one makes use of things pertaining to the necessaries of life, and that these things be set by for the common use.
 
----
-
-Objection 4: Further, Gregory (Dial. iii, 14) relates of a very holy man named Isaac, that "when his disciples humbly signified that he should accept the possessions offered to him for the use of the monastery, he being solicitous for the safeguarding of his poverty, held firmly to his opinion, saying: A monk who seeks earthly possessions is no monk at all": and this refers to possessions held in common, and which were offered him for the common use of the monastery. Therefore it would seem destructive of religious perfection to possess anything in common.
-
 Reply to Objection 4: Isaac refused to accept the offer of possessions, because he feared lest this should lead him to have excessive wealth, the abuse of which would be an obstacle to religious perfection. Hence Gregory adds (Dial. iii, 14): "He was as afraid of forfeiting the security of his poverty, as the rich miser is careful of his perishable wealth." It is not, however, related that he refused to accept such things as are commonly necessary for the upkeep of life.
-
----
-
-Objection 5: Further, our Lord in prescribing religious perfection to His disciples, said (Mat. 10:9,10): "Do not possess gold, nor silver, nor money in your purses, nor script for your journey." By these words, as Jerome says in his commentary, "He reproves those philosophers who are commonly called Bactroperatae [*i.e. staff and scrip bearers], who as despising the world and valuing all things at naught carried their pantry about with them." Therefore it would seem derogatory to religious perfection that one should keep something whether for oneself or for the common use.
 
 Reply to Objection 5: The Philosopher says (Polit. i, 5,6) that bread, wine, and the like are natural riches, while money is artificial riches. Hence it is that certain philosophers declined to make use of money, and employed other things, living according to nature. Wherefore Jerome shows by the words of our Lord, Who equally forbade both, that it comes to the same to have money and to possess other things necessary for life. And though our Lord commanded those who were sent to preach not to carry these things on the way, He did not forbid them to be possessed in common. How these words of our Lord should be understood has been shown above (Q[185], A[6] , ad 2; [3833]FS, Q[108], A[2], ad 3).
 
 ### Whether The Religious Life Of Those Who Live In Community Is More Perfect Than That Of Those Who Lead A Solitary Life?
 
-On the contrary, Augustine says (De oper. Monach. xxiii) that "those are holier who keep themselves aloof from the approach of all, and give their whole mind to a life of prayer."
+**Objections**
 
----
+Objection 1: It would seem that the religious life of those who live in community is more perfect than that of those who lead a solitary life. For it is written (Eccles. 4:9): "It is better . . . that two should be together, than one; for they have the advantage of their society." Therefore the religious life of those who live in community would seem to be more perfect.
+
+Objection 2: Further, it is written (Mat. 18:20): "Where there are two or three gathered together in My name, there am I in the midst of them." But nothing can be better than the fellowship of Christ. Therefore it would seem better to live in community than in solitude.
+
+Objection 3: Further, the vow of obedience is more excellent than the other religious vows; and humility is most acceptable to God. Now obedience and humility are better observed in company than in solitude; for Jerome says (Ep. cxxv ad Rustic. Monach.): "In solitude pride quickly takes man unawares, he sleeps as much as he will, he does what he likes"; whereas when instructing one who lives in community, he says: "You may not do what you will, you must eat what you are bidden to eat, you may possess so much as you receive, you must obey one you prefer not to obey, you must be a servant to your brethren, you must fear the superior of the monastery as God, love him as a father." Therefore it would seem that the religious life of those who live in community is more perfect than that of those who lead a solitary life.
+
+Objection 4: Further, our Lord said (Lk. 11:33): "No man lighteth a candle and putteth it in a hidden place, nor under a bushel." Now those who lead a solitary life are seemingly in a hidden place, and to be doing no good to any man. Therefore it would seem that their religious life is not more perfect.
+
+Objection 5: Further, that which is in accord with man's nature is apparently more pertinent to the perfection of virtue. But man is naturally a social animal, as the Philosopher says (Polit. i, 1). Therefore it would seem that to lead a solitary life is not more perfect than to lead a community life.
+
+**Answer**
+
+On the contrary, Augustine says (De oper. Monach. xxiii) that "those are holier who keep themselves aloof from the approach of all, and give their whole mind to a life of prayer."
 
 I answer that, Solitude, like poverty, is not the essence of perfection, but a means thereto. Hence in the Conferences of the Fathers (Coll. i, 7) the Abbot Moses says that "solitude," even as fasting and other like things, is "a sure means of acquiring purity of heart." Now it is evident that solitude is a means adapted not to action but to contemplation, according to Osee 2:14, "I . . . will lead her into solitude [Douay: 'the wilderness']; and I will speak to her heart." Wherefore it is not suitable to those religious orders that are directed to the works whether corporal or spiritual of the active life; except perhaps for a time, after the example of Christ, Who as Luke relates (6:12), "went out into a mountain to pray; and He passed the whole night in the prayer of God." On the other hand, it is suitable to those religious orders that are directed to contemplation.
 
@@ -1460,33 +1340,15 @@ Now man is assisted in this practice by the fellowship of others in two ways. Fi
 
 Accordingly, just as that which is already perfect surpasses that which is being schooled in perfection, so the life of the solitaries, if duly practiced, surpasses the community life. But if it be undertaken without the aforesaid practice, it is fraught with very great danger, unless the grace of God supply that which others acquire by practice, as in the case of the Blessed Antony and the Blessed Benedict.
 
----
-
-Objection 1: It would seem that the religious life of those who live in community is more perfect than that of those who lead a solitary life. For it is written (Eccles. 4:9): "It is better . . . that two should be together, than one; for they have the advantage of their society." Therefore the religious life of those who live in community would seem to be more perfect.
+**Replies**
 
 Reply to Objection 1: Solomon shows that two are better than one, on account of the help which one affords the other either by "lifting him" up, or by "warming him," i.e. giving him spiritual heat (Eccles. 4:10,11). But those who have already attained to perfection do not require this help.
 
----
-
-Objection 2: Further, it is written (Mat. 18:20): "Where there are two or three gathered together in My name, there am I in the midst of them." But nothing can be better than the fellowship of Christ. Therefore it would seem better to live in community than in solitude.
-
 Reply to Objection 2: According to 1 Jn. 4:16, "He that abideth in charity abideth in God and God in him." Wherefore just as Christ is in the midst of those who are united together in the fellowship of brotherly love, so does He dwell in the heart of the man who devotes himself to divine contemplation through love of God.
-
----
-
-Objection 3: Further, the vow of obedience is more excellent than the other religious vows; and humility is most acceptable to God. Now obedience and humility are better observed in company than in solitude; for Jerome says (Ep. cxxv ad Rustic. Monach.): "In solitude pride quickly takes man unawares, he sleeps as much as he will, he does what he likes"; whereas when instructing one who lives in community, he says: "You may not do what you will, you must eat what you are bidden to eat, you may possess so much as you receive, you must obey one you prefer not to obey, you must be a servant to your brethren, you must fear the superior of the monastery as God, love him as a father." Therefore it would seem that the religious life of those who live in community is more perfect than that of those who lead a solitary life.
 
 Reply to Objection 3: Actual obedience is required of those who need to be schooled according to the direction of others in the attainment of perfection; but those who are already perfect are sufficiently "led by the spirit of God" so that they need not to obey others actually. Nevertheless they have obedience in the preparedness of the mind.
 
----
-
-Objection 4: Further, our Lord said (Lk. 11:33): "No man lighteth a candle and putteth it in a hidden place, nor under a bushel." Now those who lead a solitary life are seemingly in a hidden place, and to be doing no good to any man. Therefore it would seem that their religious life is not more perfect.
-
 Reply to Objection 4: As Augustine says (De Civ. Dei xix, 19), "no one is forbidden to seek the knowledge of truth, for this pertains to a praiseworthy leisure." That a man be placed "on a candlestick," does not concern him but his superiors, and "if this burden is not placed on us," as Augustine goes on to say (De Civ. Dei xix, 19), "we must devote ourselves to the contemplation of truth," for which purpose solitude is most helpful. Nevertheless, those who lead a solitary life are most useful to mankind. Hence, referring to them, Augustine says (De Morib. Eccl. xxxi): "They dwell in the most lonely places, content to live on water and the bread that is brought to them from time to time, enjoying colloquy with God to whom they have adhered with a pure mind. To some they seem to have renounced human intercourse more than is right: but these understand not how much such men profit us by the spirit of their prayers, what an example to us is the life of those whom we are forbidden to see in the body."
-
----
-
-Objection 5: Further, that which is in accord with man's nature is apparently more pertinent to the perfection of virtue. But man is naturally a social animal, as the Philosopher says (Polit. i, 1). Therefore it would seem that to lead a solitary life is not more perfect than to lead a community life.
 
 Reply to Objection 5: A man may lead a solitary life for two motives. one is because he is unable, as it were, to bear with human fellowship on account of his uncouthness of mind; and this is beast-like. The other is with a view to adhering wholly to divine things; and this is superhuman. Hence the Philosopher says (Polit. i, 1) that "he who associates not with others is either a beast or a god," i.e. a godly man.
 
@@ -1506,129 +1368,127 @@ We must now consider the entrance into religious life. Under this head there are
 
 ### Whether Those Who Are Not Practiced In Keeping The Commandments Should Enter Religion?
 
-On the contrary, Matthew the publican who was not practiced in the observance of the commandments was called by our Lord to the observance of the counsels. For it is stated (Lk. 5:28) that "leaving all things he . . . followed Him." Therefore it is not necessary for a person to be practiced in the observance of the commandments before passing to the perfection of the counsels.
+**Objections**
 
----
+Objection 1: It would seem that none should enter religion but those who are practiced in the observance of the commandments. For our Lord gave the counsel of perfection to the young man who said that he had kept the commandments "from his youth." Now all religious orders originate from Christ. Therefore it would seem that none should be allowed to enter religion but those who are practiced in the observance of the commandments.
+
+Objection 2: Further, Gregory says (Hom. xv in Ezech., and Moral. xxii): "No one comes suddenly to the summit; but he must make a beginning of a good life in the smallest matters, so as to accomplish great things." Now the great things are the counsels which pertain to the perfection of life, while the lesser things are the commandments which belong to common righteousness. Therefore it would seem that one ought not to enter religion for the purpose of keeping the counsels, unless one be already practiced in the observance of the precepts.
+
+Objection 3: Further, the religious state, like the holy orders, has a place of eminence in the Church. Now, as Gregory writes to the bishop Siagrius [*Regist. ix, Ep. 106], "order should be observed in ascending to orders. For he seeks a fall who aspires to mount to the summit by overpassing the steps." [*The rest of the quotation is from Regist. v, Ep. 53, ad Virgil. Episc.]. "For we are well aware that walls when built receive not the weight of the beams until the new fabric is rid of its moisture, lest if they should be burdened with weight before they are seasoned they bring down the whole building" (Dist. xlviii, can. Sicut neophytus). Therefore it would seem that one should not enter religion unless one be practiced in the observance of the precepts.
+
+Objection 4: Further, a gloss on Ps. 130:2, "As a child that is weaned is towards his mother," says: "First we are conceived in the womb of Mother Church, by being taught the rudiments of faith. Then we are nourished as it were in her womb, by progressing in those same elements. Afterwards we are brought forth to the light by being regenerated in baptism. Then the Church bears us as it were in her hands and feeds us with milk, when after baptism we are instructed in good works and are nourished with the milk of simple doctrine while we progress; until having grown out of infancy we leave our mother's milk for a father's control, that is to say, we pass from simple doctrine, by which we are taught the Word made flesh, to the Word that was in the beginning with God." Afterwards it goes on to say: "For those who are just baptized on Holy Saturday are borne in the hands of the Church as it were and fed with milk until Pentecost, during which time nothing arduous is prescribed, no fasts, no rising at midnight. Afterwards they are confirmed by the Paraclete Spirit, and being weaned so to speak, begin to fast and keep other difficult observances. Many, like the heretics and schismatics, have perverted this order by being weaned before the time. Hence they have come to naught." Now this order is apparently perverted by those who enter religion, or induce others to enter religion, before they are practiced in the easier observance of the commandments. Therefore they would seem to be heretics or schismatics.
+
+Objection 5: Further, one should proceed from that which precedes to that which follows after. Now the commandments precede the counsels, because they are more universal, for "the implication of the one by the other is not convertible" [*Categor. ix], since whoever keeps the counsels keeps the commandments, but the converse does not hold. Seeing then that the right order requires one to pass from that which comes first to that which comes after, it follows that one ought not to pass to the observance of the counsels in religion, without being first of all practiced in the observance of the commandments.
+
+**Answer**
+
+On the contrary, Matthew the publican who was not practiced in the observance of the commandments was called by our Lord to the observance of the counsels. For it is stated (Lk. 5:28) that "leaving all things he . . . followed Him." Therefore it is not necessary for a person to be practiced in the observance of the commandments before passing to the perfection of the counsels.
 
 I answer that, As shown above ([3834]Q[188], A[1]), the religious state is a spiritual schooling for the attainment of the perfection of charity. This is accomplished through the removal of the obstacles to perfect charity by religious observances; and these obstacles are those things which attach man's affections to earthly things. Now the attachment of man's affections to earthly things is not only an obstacle to the perfection of charity, but sometimes leads to the loss of charity, when through turning inordinately to temporal goods man turns away from the immutable good by sinning mortally. Hence it is evident that the observances of the religious state, while removing the obstacles to perfect charity, remove also the occasions of sin: for instance, it is clear that fasting, watching, obedience, and the like withdraw man from sins of gluttony and lust and all other manner of sins.
 
 Consequently it is right that not only those who are practiced in the observance of the commandments should enter religion in order to attain to yet greater perfection, but also those who are not practiced, in order the more easily to avoid sin and attain to perfection.
 
----
-
-Objection 1: It would seem that none should enter religion but those who are practiced in the observance of the commandments. For our Lord gave the counsel of perfection to the young man who said that he had kept the commandments "from his youth." Now all religious orders originate from Christ. Therefore it would seem that none should be allowed to enter religion but those who are practiced in the observance of the commandments.
+**Replies**
 
 Reply to Objection 1: Jerome (Super Matth. xix, 20) says: "The young man lies when he says: 'All these have I kept from my youth.' For if he had fulfilled this commandment, 'Thou shalt love thy neighbor as thyself,' why did he go away sad when he heard: Go, sell all thou hast and give to the poor?" But this means that he lied as to the perfect observance of this commandment. Hence Origen says (Tract. viii super Matth.) that "it is written in the Gospel according to the Hebrews that when our Lord had said to him: 'Go, sell all thou hast,' the rich man began to scratch his head; and that our Lord said to him: How sayest thou: I have fulfilled the law and the prophets, seeing that it is written in the law: Thou shalt love thy neighbor as thyself? Behold many of thy brethren, children of Abraham, are clothed in filth, and die of hunger, whilst thy house is full of all manner of good things, and nothing whatever hath passed thence to them. And thus our Lord reproves him saying: If thou wilt be perfect, go, etc. For it is impossible to fulfil the commandment which says, Thou shalt love thy neighbor as thyself, and to be rich, especially to have such great wealth." This also refers to the perfect fulfilment of this precept. on the other hand, it is true that he kept the commandments imperfectly and in a general way. For perfection consists chiefly in the observance of the precepts of charity, as stated above ([3835]Q[184], A[3]). Wherefore in order to show that the perfection of the counsels is useful both to the innocent and to sinners, our Lord called not only the innocent youth but also the sinner Matthew. Yet Matthew obeyed His call, and the youth obeyed not, because sinners are converted to the religious life more easily than those who presume on their innocency. It is to the former that our Lord says (Mat. 21:31): "The publicans and the harlots shall go into the kingdom of God before you."
 
----
-
-Objection 2: Further, Gregory says (Hom. xv in Ezech., and Moral. xxii): "No one comes suddenly to the summit; but he must make a beginning of a good life in the smallest matters, so as to accomplish great things." Now the great things are the counsels which pertain to the perfection of life, while the lesser things are the commandments which belong to common righteousness. Therefore it would seem that one ought not to enter religion for the purpose of keeping the counsels, unless one be already practiced in the observance of the precepts.
-
 Reply to Objection 2: The highest and the lowest place can be taken in three ways. First, in reference to the same state and the same man; and thus it is evident that no one comes to the summit suddenly, since every man that lives aright, progresses during the whole course of his life, so as to arrive at the summit. Secondly, in comparison with various states; and thus he who desires to reach to a higher state need not begin from a lower state: for instance, if a man wish to be a cleric he need not first of all be practiced in the life of a layman. Thirdly, in comparison with different persons; and in this way it is clear that one man begins straightway not only from a higher state, but even from a higher degree of holiness, than the highest degree to which another man attains throughout his whole life. Hence Gregory says (Dial. ii, 1): "All are agreed that the boy Benedict began at a high degree of grace and perfection in his daily life."
-
----
-
-Objection 3: Further, the religious state, like the holy orders, has a place of eminence in the Church. Now, as Gregory writes to the bishop Siagrius [*Regist. ix, Ep. 106], "order should be observed in ascending to orders. For he seeks a fall who aspires to mount to the summit by overpassing the steps." [*The rest of the quotation is from Regist. v, Ep. 53, ad Virgil. Episc.]. "For we are well aware that walls when built receive not the weight of the beams until the new fabric is rid of its moisture, lest if they should be burdened with weight before they are seasoned they bring down the whole building" (Dist. xlviii, can. Sicut neophytus). Therefore it would seem that one should not enter religion unless one be practiced in the observance of the precepts.
 
 Reply to Objection 3: As stated above ([3836]Q[184], A[6]) the holy orders prerequire holiness, whereas the religious state is a school for the attainment of holiness. Hence the burden of orders should be laid on the walls when these are already seasoned with holiness, whereas the burden of religion seasons the walls, i.e. men, by drawing out the damp of vice.
 
----
-
-Objection 4: Further, a gloss on Ps. 130:2, "As a child that is weaned is towards his mother," says: "First we are conceived in the womb of Mother Church, by being taught the rudiments of faith. Then we are nourished as it were in her womb, by progressing in those same elements. Afterwards we are brought forth to the light by being regenerated in baptism. Then the Church bears us as it were in her hands and feeds us with milk, when after baptism we are instructed in good works and are nourished with the milk of simple doctrine while we progress; until having grown out of infancy we leave our mother's milk for a father's control, that is to say, we pass from simple doctrine, by which we are taught the Word made flesh, to the Word that was in the beginning with God." Afterwards it goes on to say: "For those who are just baptized on Holy Saturday are borne in the hands of the Church as it were and fed with milk until Pentecost, during which time nothing arduous is prescribed, no fasts, no rising at midnight. Afterwards they are confirmed by the Paraclete Spirit, and being weaned so to speak, begin to fast and keep other difficult observances. Many, like the heretics and schismatics, have perverted this order by being weaned before the time. Hence they have come to naught." Now this order is apparently perverted by those who enter religion, or induce others to enter religion, before they are practiced in the easier observance of the commandments. Therefore they would seem to be heretics or schismatics.
-
 Reply to Objection 4: It is manifest from the words of this gloss that it is chiefly a question of the order of doctrine, in so far as one has to pass from easy matter to that which is more difficult. Hence it is clear from what follows that the statement that certain "heretics" and "schismatics have perverted this order" refers to the order of doctrine. For it continues thus: "But he says that he has kept these things, namely the aforesaid order, binding himself by an oath [*Referring to the last words of the verse, and taking 'retributio,' which Douay renders 'reward,' as meaning 'punishment']. Thus I was humble not only in other things but also in knowledge, for 'I was humbly minded'; because I was first of all fed with milk, which is the Word made flesh, so that I grew up to partake of the bread of angels, namely the Word that is in the beginning with God." The example which is given in proof, of the newly baptized not being commanded to fast until Pentecost, shows that no difficult things are to be laid on them as an obligation before the Holy Ghost inspires them inwardly to take upon themselves difficult things of their own choice. Hence after Pentecost and the receiving of the Holy Ghost the Church observes a fast. Now the Holy Ghost, according to Ambrose (Super Luc. 1:15), "is not confined to any particular age; He ceases not when men die, He is not excluded from the maternal womb." Gregory also in a homily for Pentecost (xxx in Ev.) says: "He fills the boy harpist and makes him a psalmist: He fills the boy abstainer and makes him a wise judge [*Dan. 1:8-17]," and afterwards he adds: "No time is needed to learn whatsoever He will, for He teaches the mind by the merest touch." Again it is written (Eccles. 8:8), "It is not in man's power to stop the Spirit," and the Apostle admonishes us (1 Thess. 5:19): "Extinguish not the Spirit," and (Acts 7:51) it is said against certain persons: "You always resist the Holy Ghost."
-
----
-
-Objection 5: Further, one should proceed from that which precedes to that which follows after. Now the commandments precede the counsels, because they are more universal, for "the implication of the one by the other is not convertible" [*Categor. ix], since whoever keeps the counsels keeps the commandments, but the converse does not hold. Seeing then that the right order requires one to pass from that which comes first to that which comes after, it follows that one ought not to pass to the observance of the counsels in religion, without being first of all practiced in the observance of the commandments.
 
 Reply to Objection 5: There are certain chief precepts which are the ends, so to say, of the commandments and counsels. These are the precepts of charity, and the counsels are directed to them, not that these precepts cannot be observed without keeping the counsels, but that the keeping of the counsels conduces to the better observance of the precepts. The other precepts are secondary and are directed to the precepts of charity; in such a way that unless one observe them it is altogether impossible to keep the precepts of charity. Accordingly in the intention the perfect observance of the precepts of charity precedes the counsels, and yet sometimes it follows them in point of time. For such is the order of the end in relation to things directed to the end. But the observance in a general way of the precepts of charity together with the other precepts, is compared to the counsels as the common to the proper, because one can observe the precepts without observing the counsels, but not vice versa. Hence the common observance of the precepts precedes the counsels in the order of nature; but it does not follow that it precedes them in point of time, for a thing is not in the genus before being in one of the species. But the observance of the precepts apart from the counsels is directed to the observance of the precepts together with the counsels; as an imperfect to a perfect species, even as the irrational to the rational animal. Now the perfect is naturally prior to the imperfect, since "nature," as Boethius says (De Consol. iii, 10), "begins with perfect things." And yet it is not necessary for the precepts first of all to be observed without the counsels, and afterwards with the counsels, just as it is not necessary for one to be an ass before being a man, or married before being a virgin. In like manner it is not necessary for a person first of all to keep the commandments in the world before entering religion; especially as the worldly life does not dispose one to religious perfection, but is more an obstacle thereto.
 
 ### Whether One Ought To Be Bound By Vow To Enter Religion?
 
-On the contrary, It is written, (Ps. 75:12): "Vow ye, and pay to the Lord your God"; and a gloss of Augustine says that "some vows concern the individual, such as vows of chastity, virginity, and the like." Consequently Holy Scripture invites us to vow these things. But Holy Scripture invites us only to that which is better. Therefore it is better to bind oneself by vow to enter religion.
-
----
-
-I answer that, As stated above ([3837]Q[88], A[6]), when we were treating of vows, one and the same work done in fulfilment of a vow is more praiseworthy than if it be done apart from a vow, both because to vow is an act of religion, which has a certain pre-eminence among the virtues, and because a vow strengthens a man's will to do good; and just as a sin is more grievous through proceeding from a will obstinate in evil, so a good work is the more praiseworthy through proceeding from a will confirmed in good by means of a vow. Therefore it is in itself praiseworthy to bind oneself by vow to enter religion.
-
----
+**Objections**
 
 Objection 1: It would seem that one ought not to be bound by vow to enter religion. For in making his profession a man is bound by the religious vow. Now before profession a year of probation is allowed, according to the rule of the Blessed Benedict (lviii) and according to the decree of Innocent IV [*Sext. Decret., cap. Non solum., de Regular. et Transeunt, ad Relig.] who moreover forbade anyone to be bound to the religious life by profession before completing the year of probation. Therefore it would seem that much less ought anyone while yet in the world to be bound by vow to enter religion.
 
-Reply to Objection 1: The religious vow is twofold. One is the solemn vow which makes a man a monk or a brother in some other religious order. This is called the profession, and such a vow should be preceded by a year's probation, as the objection proves. The other is the simple vow which does not make a man a monk or a religious, but only binds him to enter religion, and such a vow need not be preceded by a year's probation.
-
----
-
 Objection 2: Further, Gregory says (Regist. xi, Ep. 15): Jews "should be persuaded to be converted, not by compulsion but of their own free will" (Dist. xlv, can. De Judaeis). Now one is compelled to fulfil what one has vowed. Therefore no one should be bound by vow to enter religion.
 
-Reply to Objection 2: The words quoted from Gregory must be understood as referring to absolute violence. But the compulsion arising from the obligation of a vow is not absolute necessity, but a necessity of end, because after such a vow one cannot attain to the end of salvation unless one fulfil that vow. Such a necessity is not to be avoided; indeed, as Augustine says (Ep. cxxvii ad Armentar. et Paulin.), "happy is the necessity that compels us to better things."
-
----
-
 Objection 3: Further, no one should give another an occasion of falling; wherefore it is written (Ex. 21:33,34): "If a man open a pit . . . and an ox or an ass fall into it, the owner of the pit shall pay the price of the beasts." Now through being bound by vow to enter religion it often happens that people fall into despair and various sins. Therefore it would seem that one ought not to be bound by vow to enter religion.
+
+**Answer**
+
+On the contrary, It is written, (Ps. 75:12): "Vow ye, and pay to the Lord your God"; and a gloss of Augustine says that "some vows concern the individual, such as vows of chastity, virginity, and the like." Consequently Holy Scripture invites us to vow these things. But Holy Scripture invites us only to that which is better. Therefore it is better to bind oneself by vow to enter religion.
+
+I answer that, As stated above ([3837]Q[88], A[6]), when we were treating of vows, one and the same work done in fulfilment of a vow is more praiseworthy than if it be done apart from a vow, both because to vow is an act of religion, which has a certain pre-eminence among the virtues, and because a vow strengthens a man's will to do good; and just as a sin is more grievous through proceeding from a will obstinate in evil, so a good work is the more praiseworthy through proceeding from a will confirmed in good by means of a vow. Therefore it is in itself praiseworthy to bind oneself by vow to enter religion.
+
+**Replies**
+
+Reply to Objection 1: The religious vow is twofold. One is the solemn vow which makes a man a monk or a brother in some other religious order. This is called the profession, and such a vow should be preceded by a year's probation, as the objection proves. The other is the simple vow which does not make a man a monk or a religious, but only binds him to enter religion, and such a vow need not be preceded by a year's probation.
+
+Reply to Objection 2: The words quoted from Gregory must be understood as referring to absolute violence. But the compulsion arising from the obligation of a vow is not absolute necessity, but a necessity of end, because after such a vow one cannot attain to the end of salvation unless one fulfil that vow. Such a necessity is not to be avoided; indeed, as Augustine says (Ep. cxxvii ad Armentar. et Paulin.), "happy is the necessity that compels us to better things."
 
 Reply to Objection 3: The vow to enter religion is a strengthening of the will for better things, and consequently, considered in itself, instead of giving a man an occasion of falling, withdraws him from it. But if one who breaks a vow falls more grievously, this does not derogate from the goodness of the vow, as neither does it derogate from the goodness of Baptism that some sin more grievously after being baptized.
 
 ### Whether One Who Is Bound By A Vow To Enter Religion Is Under An Obligation Of Entering Religion?
 
-On the contrary, It is written (Eccles. 5:3): "If thou hast vowed anything to God, defer not to pay it, for an unfaithful and foolish promise displeaseth him"; and a gloss on Ps. 75:12, "Vow ye, and pay to the Lord your God," says: "To vow depends on the will: but after the vow has been taken the fulfilment is of obligation."
+**Objections**
 
----
+Objection 1: It would seem that one who is bound by the vow to enter religion is not under an obligation of entering religion. For it is said in the Decretals (XVII, qu. ii, can. Consaldus): "Consaldus, a priest under pressure of sickness and emotional fervour, promised to become a monk. He did not, however, bind himself to a monastery or abbot; nor did he commit his promise to writing, but he renounced his benefice in the hands of a notary; and when he was restored to health he refused to become a monk." And afterwards it is added: "We adjudge and by apostolic authority we command that the aforesaid priest be admitted to his benefice and sacred duties, and that he be allowed to retain them in peace." Now this would not be if he were bound to enter religion. Therefore it would seem that one is not bound to keep one's vow of entering religion.
+
+Objection 2: Further, no one is bound to do what is not in his power. Now it is not in a person's power to enter religion, since this depends on the consent of those whom he wishes to join. Therefore it would seem that a man is not obliged to fulfil the vow by which he bound himself to enter religion.
+
+Objection 3: Further, a less useful vow cannot remit a more useful one. Now the fulfilment of a vow to enter religion might hinder the fulfilment of a vow to take up the cross in defense of the Holy Land; and the latter apparently is the more useful vow, since thereby a man obtains the forgiveness of his sins. Therefore it would seem that the vow by which a man has bound himself to enter religion is not necessarily to be fulfilled.
+
+**Answer**
+
+On the contrary, It is written (Eccles. 5:3): "If thou hast vowed anything to God, defer not to pay it, for an unfaithful and foolish promise displeaseth him"; and a gloss on Ps. 75:12, "Vow ye, and pay to the Lord your God," says: "To vow depends on the will: but after the vow has been taken the fulfilment is of obligation."
 
 I answer that, As stated above ([3838]Q[88], A[1]), when we were treating of vows, a vow is a promise made to God in matters concerning God. Now, as Gregory says in a letter to Boniface [*Innoc. I, Epist. ii, Victricio Epo. Rotomag., cap. 14; Cf. can. Viduas: cause. xxvii, qu. 1]: "If among men of good faith contracts are wont to be absolutely irrevocable, how much more shall the breaking of this promise given to God be deserving of punishment!" Therefore a man is under an obligation to fulfil what he has vowed, provided this be something pertaining to God.
 
 Now it is evident that entrance into religion pertains very much to God, since thereby man devotes himself entirely to the divine service, as stated above ([3839]Q[186], A[1]). Hence it follows that he who binds himself to enter religion is under an obligation to enter religion according as he intends to bind himself by his vow: so that if he intend to bind himself absolutely, he is obliged to enter as soon as he can, through the cessation of a lawful impediment; whereas if he intend to bind himself to a certain fixed time, or under a certain fixed condition, he is bound to enter religion when the time comes or the condition is fulfilled.
 
----
-
-Objection 1: It would seem that one who is bound by the vow to enter religion is not under an obligation of entering religion. For it is said in the Decretals (XVII, qu. ii, can. Consaldus): "Consaldus, a priest under pressure of sickness and emotional fervour, promised to become a monk. He did not, however, bind himself to a monastery or abbot; nor did he commit his promise to writing, but he renounced his benefice in the hands of a notary; and when he was restored to health he refused to become a monk." And afterwards it is added: "We adjudge and by apostolic authority we command that the aforesaid priest be admitted to his benefice and sacred duties, and that he be allowed to retain them in peace." Now this would not be if he were bound to enter religion. Therefore it would seem that one is not bound to keep one's vow of entering religion.
+**Replies**
 
 Reply to Objection 1: This priest had made, not a solemn, but a simple vow. Hence he was not a monk in effect, so as to be bound by law to dwell in a monastery and renounce his cure. However, in the court of conscience one ought to advise him to renounce all and enter religion. Hence (Extra, De Voto et Voti Redemptione, cap. Per tuas) the Bishop of Grenoble, who had accepted the episcopate after vowing to enter religion, without having fulfilled his vow, is counseled that if "he wish to heal his conscience he should renounce the government of his see and pay his vows to the Most High."
 
----
-
-Objection 2: Further, no one is bound to do what is not in his power. Now it is not in a person's power to enter religion, since this depends on the consent of those whom he wishes to join. Therefore it would seem that a man is not obliged to fulfil the vow by which he bound himself to enter religion.
-
 Reply to Objection 2: As stated above ([3840]Q[88], A[3], ad 2), when we were treating of vows, he who has bound himself by vow to enter a certain religious order is bound to do what is in his power in order to be received in that order; and if he intend to bind himself simply to enter the religious life, if he be not admitted to one, he is bound to go to another; whereas if he intend to bind himself only to one particular order, he is bound only according to the measure of the obligation to which he has engaged himself.
-
----
-
-Objection 3: Further, a less useful vow cannot remit a more useful one. Now the fulfilment of a vow to enter religion might hinder the fulfilment of a vow to take up the cross in defense of the Holy Land; and the latter apparently is the more useful vow, since thereby a man obtains the forgiveness of his sins. Therefore it would seem that the vow by which a man has bound himself to enter religion is not necessarily to be fulfilled.
 
 Reply to Objection 3: The vow to enter religion being perpetual is greater than the vow of pilgrimage to the Holy Land, which is a temporal vow; and as Alexander III says (Extra, De Voto et Voti Redemptione, cap. Scripturae), "he who exchanges a temporary service for the perpetual service of religion is in no way guilty of breaking his vow."
 
 ### Whether He Who Has Vowed To Enter Religion Is Bound To Remain In Religion In Perpetuity?
 
-On the contrary, The vow of religious profession, for the reason that it binds a man to remain in religion for evermore, has to be preceded by a year of probation; whereas this is not required before the simple vow whereby a man binds himself to enter religion. Therefore it seems that he who vows to enter religion is not for that reason bound to remain there in perpetuity.
-
----
-
-I answer that, The obligation of a vow proceeds from the will: because "to vow is an act of the will" according to Augustine [*Gloss of Peter Lombard on Ps. 75:12]. Consequently the obligation of a vow extends as far as the will and intention of the person who takes the vow. Accordingly if in vowing he intend to bind himself not only to enter religion, but also to remain there evermore, he is bound to remain in perpetuity. If, on the other hand, he intend to bind himself to enter religion for the purpose of trial, while retaining the freedom to remain or not remain, it is clear that he is not bound to remain. If, however, in vowing he thought merely of entering religion, without thinking of being free to leave, or of remaining in perpetuity, it would seem that he is bound to enter religion according to the form prescribed by common law, which is that those who enter should be given a year's probation. Wherefore he is not bound to remain for ever.
-
----
+**Objections**
 
 Objection 1: It would seem that he who has vowed to enter religion, is bound in perpetuity to remain in religion. For it is better not to enter religion than to leave after entering, according to 2 Pet. 2:21, "It had been better for them not to have known the way of justice, than after they have known it to turn back," and Lk. 9:62, "No man putting his hand to the plough, and looking back, is fit for the kingdom of God." But he who bound himself by the vow to enter religion, is under the obligation to enter, as stated above [3841](A[3]). Therefore he is also bound to remain for always.
 
-Reply to Objection 1: It is better to enter religion with the purpose of making a trial than not to enter at all, because by so doing one disposes oneself to remain always. Nor is a person accounted to turn or to look back, save when he omits to do that which he engaged to do: else whoever does a good work for a time, would be unfit for the kingdom of God, unless he did it always, which is evidently false.
-
----
-
 Objection 2: Further, everyone is bound to avoid that which gives rise to scandal, and is a bad example to others. Now by leaving after entering religion a man gives a bad example and is an occasion of scandal to others, who are thereby withdrawn from entering or incited to leave. Therefore it seems that he who enters religion in order to fulfil a vow which he had previously taken, is bound to remain evermore.
 
-Reply to Objection 2: A man who has entered religion gives neither scandal nor bad example by leaving, especially if he do so for a reasonable motive; and if others are scandalized, it will be passive scandal on their part, and not active scandal on the part of the person leaving, since in doing so, he has done what was lawful, and expedient on account of some reasonable motive, such as sickness, weakness, and the like.
-
----
-
 Objection 3: Further, the vow to enter religion is accounted a perpetual vow: wherefore it is preferred to temporal vows, as stated above (A[3], ad 3;[3842] Q[88], A[12], ad 1). But this would not be so if a person after vowing to enter religion were to enter with the intention of leaving. It seems, therefore, that he who vows to enter religion is bound also to remain in perpetuity.
+
+**Answer**
+
+On the contrary, The vow of religious profession, for the reason that it binds a man to remain in religion for evermore, has to be preceded by a year of probation; whereas this is not required before the simple vow whereby a man binds himself to enter religion. Therefore it seems that he who vows to enter religion is not for that reason bound to remain there in perpetuity.
+
+I answer that, The obligation of a vow proceeds from the will: because "to vow is an act of the will" according to Augustine [*Gloss of Peter Lombard on Ps. 75:12]. Consequently the obligation of a vow extends as far as the will and intention of the person who takes the vow. Accordingly if in vowing he intend to bind himself not only to enter religion, but also to remain there evermore, he is bound to remain in perpetuity. If, on the other hand, he intend to bind himself to enter religion for the purpose of trial, while retaining the freedom to remain or not remain, it is clear that he is not bound to remain. If, however, in vowing he thought merely of entering religion, without thinking of being free to leave, or of remaining in perpetuity, it would seem that he is bound to enter religion according to the form prescribed by common law, which is that those who enter should be given a year's probation. Wherefore he is not bound to remain for ever.
+
+**Replies**
+
+Reply to Objection 1: It is better to enter religion with the purpose of making a trial than not to enter at all, because by so doing one disposes oneself to remain always. Nor is a person accounted to turn or to look back, save when he omits to do that which he engaged to do: else whoever does a good work for a time, would be unfit for the kingdom of God, unless he did it always, which is evidently false.
+
+Reply to Objection 2: A man who has entered religion gives neither scandal nor bad example by leaving, especially if he do so for a reasonable motive; and if others are scandalized, it will be passive scandal on their part, and not active scandal on the part of the person leaving, since in doing so, he has done what was lawful, and expedient on account of some reasonable motive, such as sickness, weakness, and the like.
 
 Reply to Objection 3: He who enters with the purpose of leaving forthwith, does not seem to fulfil his vow, since this was not his intention in vowing. Hence he must change that purpose, at least so as to wish to try whether it is good for him to remain in religion, but he is not bound to remain for evermore.
 
 ### Whether Children Should Be Received In Religion?
 
-On the contrary, our Lord said (Mat. 19:14): "Suffer the little children, and forbid them not to come to Me." Expounding these words Origen says (Tract. vii in Matth.) that "the disciples of Jesus before they have been taught the conditions of righteousness [*Cf. Mat. 19:16-30], rebuke those who offer children and babes to Christ: but our Lord urges His disciples to stoop to the service of children. We must therefore take note of this, lest deeming ourselves to excel in wisdom we despise the Church's little ones, as though we were great, and forbid the children to come to Jesus."
+**Objections**
 
----
+Objection 1: It would seem that children ought not to be received in religion. Because it is said (Extra, De Regular. et Transeunt. ad Relig., cap. Nullus): "No one should be tonsured unless he be of legal age and willing." But children, seemingly, are not of legal age; nor have they a will of their own, not having perfect use of reason. Therefore it seems that they ought not to be received in religion.
+
+Objection 2: Further, the state of religion would seem to be a state of repentance; wherefore religion is derived [*Cf.[3843] Q[81], A[1]] from "religare" [to bind] or from "re-eligere" [to choose again], as Augustine says (De Civ. Dei x, 3 [*Cf. De Vera Relig. lv]). But repentance does not become children. Therefore it seems that they should not enter religion.
+
+Objection 3: Further, the obligation of a vow is like that of an oath. But children under the age of fourteen ought not to be bound by oath (Decret. XXII, qu. v, cap. Pueri and cap. Honestum.). Therefore it would seem that neither should they be bound by vow.
+
+Objection 4: Further, it is seemingly unlawful to bind a person to an obligation that can be justly canceled. Now if any persons of unripe age bind themselves to religion, they can be withdrawn by their parents or guardians. For it is written in the Decretals (XX, qu. ii, can. Puella) that "if a maid under twelve years of age shall take the sacred veil of her own accord, her parents or guardians, if they choose, can at once declare the deed null and void." It is therefore unlawful for children, especially of unripe age, to be admitted or bound to religion.
+
+**Answer**
+
+On the contrary, our Lord said (Mat. 19:14): "Suffer the little children, and forbid them not to come to Me." Expounding these words Origen says (Tract. vii in Matth.) that "the disciples of Jesus before they have been taught the conditions of righteousness [*Cf. Mat. 19:16-30], rebuke those who offer children and babes to Christ: but our Lord urges His disciples to stoop to the service of children. We must therefore take note of this, lest deeming ourselves to excel in wisdom we despise the Church's little ones, as though we were great, and forbid the children to come to Jesus."
 
 I answer that, As stated above (A[2], ad 1), the religious vow is twofold. One is the simple vow consisting in a mere promise made to God, and proceeding from the interior deliberation of the mind. Such a vow derives its efficacy from the divine law. Nevertheless it may encounter a twofold obstacle. First, through lack of deliberation, as in the case of the insane, whose vows are not binding [*Extra, De Regular. et Transeunt. ad Relig., cap. Sicut tenor]. The same applies to children who have not reached the required use of reason, so as to be capable of guile, which use boys attain, as a rule, at about the age of fourteen, and girls at the age of twelve, this being what is called "the age of puberty," although in some it comes earlier and in others it is delayed, according to the various dispositions of nature. Secondly, the efficacy of a simple vow encounters an obstacle, if the person who makes a vow to God is not his own master; for instance, if a slave, though having the use of reason, vows to enter religion, or even is ordained, without the knowledge of his master: for his master can annul this, as stated in the Decretals (Dist. LIV, cap. Si servus). And since boys and girls under the age of puberty are naturally in their father's power as regards the disposal of their manner of life, their father may either cancel or approve their vow, if it please him to do so, as it is expressly said with regard to a woman (Num. 30:4).
 
@@ -1640,87 +1500,77 @@ The other is the solemn vow which makes a man a monk or a religious. Such a vow 
 
 Nevertheless, although they cannot be professed before the age of puberty, they can, with the consent of their parents, be received into religion to be educated there: thus it is related of John the Baptist (Lk. 1:80) that "the child grew and was strengthened in spirit, and was in the deserts." Hence, as Gregory states (Dial. ii, 3), "the Roman nobles began to give their sons to the blessed Benedict to be nurtured for Almighty God"; and this is most fitting, according to Lam. 3:27, "It is good for a man when he has borne the yoke from his youth." It is for this reason that by common custom children are made to apply themselves to those duties or arts with which they are to pass their lives.
 
----
-
-Objection 1: It would seem that children ought not to be received in religion. Because it is said (Extra, De Regular. et Transeunt. ad Relig., cap. Nullus): "No one should be tonsured unless he be of legal age and willing." But children, seemingly, are not of legal age; nor have they a will of their own, not having perfect use of reason. Therefore it seems that they ought not to be received in religion.
+**Replies**
 
 Reply to Objection 1: The legal age for receiving the tonsure and taking the solemn vow of religion is the age of puberty, when a man is able to make use of his own will; but before the age of puberty it is possible to have reached the lawful age to receive the tonsure and be educated in a religious house.
 
----
-
-Objection 2: Further, the state of religion would seem to be a state of repentance; wherefore religion is derived [*Cf.[3843] Q[81], A[1]] from "religare" [to bind] or from "re-eligere" [to choose again], as Augustine says (De Civ. Dei x, 3 [*Cf. De Vera Relig. lv]). But repentance does not become children. Therefore it seems that they should not enter religion.
-
 Reply to Objection 2: The religious state is chiefly directed to the attachment of perfection, as stated above ([3844]Q[186], A[1], ad 4); and accordingly it is becoming to children, who are easily drawn to it. But as a consequence it is called a state of repentance, inasmuch as occasions of sin are removed by religious observances, as stated above ([3845]Q[186], A[1], ad 4).
 
----
-
-Objection 3: Further, the obligation of a vow is like that of an oath. But children under the age of fourteen ought not to be bound by oath (Decret. XXII, qu. v, cap. Pueri and cap. Honestum.). Therefore it would seem that neither should they be bound by vow.
-
 Reply to Objection 3: Even as children are not bound to take oaths (as the canon states), so are they not bound to take vows. If, however, they bind themselves by vow or oath to do something, they are bound in God's sight, if they have the use of reason, but they are not bound in the sight of the Church before reaching the age of fourteen.
-
----
-
-Objection 4: Further, it is seemingly unlawful to bind a person to an obligation that can be justly canceled. Now if any persons of unripe age bind themselves to religion, they can be withdrawn by their parents or guardians. For it is written in the Decretals (XX, qu. ii, can. Puella) that "if a maid under twelve years of age shall take the sacred veil of her own accord, her parents or guardians, if they choose, can at once declare the deed null and void." It is therefore unlawful for children, especially of unripe age, to be admitted or bound to religion.
 
 Reply to Objection 4: A woman who has not reached the age of puberty is not rebuked (Num. 30:4) for taking a vow without her parents' consent: but the vow can be made void by her parents. Hence it is evident that she does not sin in vowing. But we are given to understand that she binds herself by vow, so far as she may, without prejudice to her parents' authority.
 
 ### Whether One Ought To Be Withdrawn From Entering Religion Through Deference To One's Parents?
 
-On the contrary, It is related (Mat. 4:22) that James and John "left their nets and father, and followed our Lord." By this, says Hilary (Can. iii in Matth.), "we learn that we who intend to follow Christ are not bound by the cares of the secular life, and by the ties of home."
+**Objections**
 
----
+Objection 1: It would seem that one ought to be withdrawn from entering religion through deference to one's parents. For it is not lawful to omit that which is of obligation in order to do that which is optional. Now deference to one's parents comes under an obligation of the precept concerning the honoring of our parents (Ex. 20:12); wherefore the Apostle says (1 Tim. 5:4): "If any widow have children or grandchildren, let her learn first to govern her own house, and to make a return of duty to her parents." But the entrance to religion is optional. Therefore it would seem that one ought not to omit deference to one's parents for the sake of entering religion.
+
+Objection 2: Further, seemingly the subjection of a son to his father is greater than that of a slave to his master, since sonship is natural, while slavery results from the curse of sin, as appears from Gn. 9:25. Now a slave cannot set aside the service of his master in order to enter religion or take holy orders, as stated in the Decretals (Dist. LIV, cap. Si servus). Much less therefore can a son set aside the deference due to his father in order to enter religion.
+
+Objection 3: Further, a man is more indebted to his parents than to those to whom he owes money. Now persons who owe money to anyone cannot enter religion. For Gregory says (Regist. viii, Ep. 5) that "those who are engaged in trade must by no means be admitted into a monastery, when they seek admittance, unless first of all they withdraw from public business" (Dist. liii, can. Legem.). Therefore seemingly much less may children enter religion in despite of their duty to their parents.
+
+**Answer**
+
+On the contrary, It is related (Mat. 4:22) that James and John "left their nets and father, and followed our Lord." By this, says Hilary (Can. iii in Matth.), "we learn that we who intend to follow Christ are not bound by the cares of the secular life, and by the ties of home."
 
 I answer that, As stated above ([3846]Q[101], A[2], ad 2) when we were treating of piety, parents as such have the character of a principle, wherefore it is competent to them as such to have the care of their children. Hence it is unlawful for a person having children to enter religion so as altogether to set aside the care for their children, namely without providing for their education. For it is written (1 Tim. 5:8) that "if any man have not care of his own . . . he hath denied the faith, and is worse than an infidel."
 
 Nevertheless it is accidentally competent to parents to be assisted by their children, in so far, to wit, as they are placed in a condition of necessity. Consequently we must say that when their parents are in such need that they cannot fittingly be supported otherwise than by the help of their children, these latter may not lawfully enter religion in despite of their duty to their parents. If, however, the parents' necessity be not such as to stand in great need of their children's assistance, the latter may, in despite of the duty they owe their parents, enter religion even against their parents' command, because after the age of puberty every freeman enjoys freedom in things concerning the ordering of his state of life, especially in such as belong to the service of God, and "we should more obey the Father of spirits that we may live [*'Shall we not much more obey the Father of Spirits, and live?']," as says the Apostle (Heb. 12:9), than obey our parents. Hence as we read (Mat. 8:22; Lk. 9:62) our Lord rebuked the disciple who was unwilling to follow him forthwith on account of his father's burial: for there were others who could see to this, as Chrysostom remarks [*Hom. xxvii in Matth.].
 
----
-
-Objection 1: It would seem that one ought to be withdrawn from entering religion through deference to one's parents. For it is not lawful to omit that which is of obligation in order to do that which is optional. Now deference to one's parents comes under an obligation of the precept concerning the honoring of our parents (Ex. 20:12); wherefore the Apostle says (1 Tim. 5:4): "If any widow have children or grandchildren, let her learn first to govern her own house, and to make a return of duty to her parents." But the entrance to religion is optional. Therefore it would seem that one ought not to omit deference to one's parents for the sake of entering religion.
+**Replies**
 
 Reply to Objection 1: The commandment of honoring our parents extends not only to bodily but also to spiritual service, and to the paying of deference. Hence even those who are in religion can fulfil the commandment of honoring their parents, by praying for them and by revering and assisting them, as becomes religious, since even those who live in the world honor their parents in different ways as befits their condition.
 
----
-
-Objection 2: Further, seemingly the subjection of a son to his father is greater than that of a slave to his master, since sonship is natural, while slavery results from the curse of sin, as appears from Gn. 9:25. Now a slave cannot set aside the service of his master in order to enter religion or take holy orders, as stated in the Decretals (Dist. LIV, cap. Si servus). Much less therefore can a son set aside the deference due to his father in order to enter religion.
-
 Reply to Objection 2: Since slavery was imposed in punishment of sin, it follows that by slavery man forfeits something which otherwise he would be competent to have, namely the free disposal of his person, for "a slave belongs wholly to his master" [*Aristotle, Polit. i, 2]. On the other hand, the son, through being subject to his father, is not hindered from freely disposing of his person by transferring himself to the service of God; which is most conducive to man's good.
-
----
-
-Objection 3: Further, a man is more indebted to his parents than to those to whom he owes money. Now persons who owe money to anyone cannot enter religion. For Gregory says (Regist. viii, Ep. 5) that "those who are engaged in trade must by no means be admitted into a monastery, when they seek admittance, unless first of all they withdraw from public business" (Dist. liii, can. Legem.). Therefore seemingly much less may children enter religion in despite of their duty to their parents.
 
 Reply to Objection 3: He who is under a certain fixed obligation cannot lawfully set it aside so long as he is able to fulfil it. Wherefore if a person is under an obligation to give an account to someone or to pay a certain fixed debt, he cannot lawfully evade this obligation in order to enter religion. If, however, he owes a sum of money, and has not wherewithal to pay the debt, he must do what he can, namely by surrendering his goods to his creditor. According to civil law [*Cod. IV, x, de Oblig. et Action, 12] money lays an obligation not on the person of a freeman, but on his property, because the person of a freeman "is above all pecuniary consideration" [*Dig. L, xvii, de div. reg. Jur. ant. 106,176]. Hence, after surrendering his property, he may lawfully enter religion, nor is he bound to remain in the world in order to earn the means of paying the debt.
 
 ### Whether Parish Priests May Lawfully Enter Religion?
 
-On the contrary, It is said in the Decretals (XIX, qu. ii, cap. Duce sunt leges.): "If a man, while governing the people in his church under the bishop and leading a secular life, is inspired by the Holy Ghost to desire to work out his salvation in a monastery or under some canonical rule, even though his bishop withstand him, we authorize him to go freely."
-
----
-
-I answer that, As stated above (A[3], ad 3;[3847] Q[88], A[12], ad 1), the obligation of a perpetual vow stands before every other obligation. Now it belongs properly to bishops and religious to be bound by perpetual vow to devote themselves to the divine service [*Cf.[3848] Q[184], A[5]], while parish priests and archdeacons are not, as bishops are, bound by a perpetual and solemn vow to retain the cure of souls. Wherefore bishops "cannot lay aside their bishopric for any pretext whatever, without the authority of the Roman Pontiff" (Extra, De Regular. et Transeunt. ad Relig., cap. Licet.): whereas archdeacons and parish priests are free to renounce in the hands of the bishop the cure entrusted to them, without the Pope's special permission, who alone can dispense from perpetual vows. Therefore it is evident that archdeacons and parish priests may lawfully enter religion.
-
----
+**Objections**
 
 Objection 1: It would seem that parish priests cannot lawfully enter religion. For Gregory says (Past. iii, 4) that "he who undertakes the cure of souls, receives an awful warning in the words: 'My son, if thou be surety for thy friend, thou hast engaged fast thy hand to a stranger'" (Prov. 6:1); and he goes on to say, "because to be surety for a friend is to take charge of the soul of another on the surety of one's own behavior." Now he who is under an obligation to a man for a debt, cannot enter religion, unless he pay what he owes, if he can. Since then a priest is able to fulfil the cure of souls, to which obligation he has pledged his soul, it would seem unlawful for him to lay aside the cure of souls in order to enter religion.
 
-Reply to Objection 1: Parish priests and archdeacons have bound themselves to the care of their subjects, as long as they retain their archdeaconry or parish, but they did not bind themselves to retain their archdeaconry or parish for ever.
-
----
-
 Objection 2: Further, what is lawful to one is likewise lawful to all. But if all priests having cure of souls were to enter religion, the people would be left without a pastor's care, which would be unfitting. Therefore it seems that parish priests cannot lawfully enter religion.
-
-Reply to Objection 2: As Jerome says (Contra Vigil.): "Although they," namely religious, "are sorely smitten by thy poisonous tongue, about whom you argue, saying; 'If all shut themselves up and live in solitude, who will go to church? who will convert worldlings? who will be able to urge sinners to virtue?' If this holds true, if all are fools with thee, who can be wise? Nor will virginity be commendable, for if all be virgins, and none marry, the human race will perish. Virtue is rare, and is not desired by many." It is therefore evident that this is a foolish alarm; thus might a man fear to draw water lest the river run dry. [*St. Thomas gives no reply to the third objection, which is sufficiently solved in the body of the article.]
-
----
 
 Objection 3: Further, chief among the acts to which religious orders are directed are those whereby a man gives to others the fruit of his contemplation. Now such acts are competent to parish priests and archdeacons, whom it becomes by virtue of their office to preach and hear confessions. Therefore it would seem unlawful for a parish priest or archdeacon to pass over to religion.
 
+**Answer**
+
+On the contrary, It is said in the Decretals (XIX, qu. ii, cap. Duce sunt leges.): "If a man, while governing the people in his church under the bishop and leading a secular life, is inspired by the Holy Ghost to desire to work out his salvation in a monastery or under some canonical rule, even though his bishop withstand him, we authorize him to go freely."
+
+I answer that, As stated above (A[3], ad 3;[3847] Q[88], A[12], ad 1), the obligation of a perpetual vow stands before every other obligation. Now it belongs properly to bishops and religious to be bound by perpetual vow to devote themselves to the divine service [*Cf.[3848] Q[184], A[5]], while parish priests and archdeacons are not, as bishops are, bound by a perpetual and solemn vow to retain the cure of souls. Wherefore bishops "cannot lay aside their bishopric for any pretext whatever, without the authority of the Roman Pontiff" (Extra, De Regular. et Transeunt. ad Relig., cap. Licet.): whereas archdeacons and parish priests are free to renounce in the hands of the bishop the cure entrusted to them, without the Pope's special permission, who alone can dispense from perpetual vows. Therefore it is evident that archdeacons and parish priests may lawfully enter religion.
+
+**Replies**
+
+Reply to Objection 1: Parish priests and archdeacons have bound themselves to the care of their subjects, as long as they retain their archdeaconry or parish, but they did not bind themselves to retain their archdeaconry or parish for ever.
+
+Reply to Objection 2: As Jerome says (Contra Vigil.): "Although they," namely religious, "are sorely smitten by thy poisonous tongue, about whom you argue, saying; 'If all shut themselves up and live in solitude, who will go to church? who will convert worldlings? who will be able to urge sinners to virtue?' If this holds true, if all are fools with thee, who can be wise? Nor will virginity be commendable, for if all be virgins, and none marry, the human race will perish. Virtue is rare, and is not desired by many." It is therefore evident that this is a foolish alarm; thus might a man fear to draw water lest the river run dry. [*St. Thomas gives no reply to the third objection, which is sufficiently solved in the body of the article.]
+
 ### Whether It Is Lawful To Pass From One Religious Order To Another?
 
-On the contrary, It is said in the Decretals (XX, qu. iv, can. Virgines): "If sacred virgins design for the good of their soul to pass to another monastery on account of a stricter life, and decide to remain there, the holy synod allows them to do so": and the same would seem to apply to any religious. Therefore one may lawfully pass from one religious order to another.
+**Objections**
 
----
+Objection 1: It seems unlawful to pass from one religious order to another, even a stricter one. For the Apostle says (Heb. 10:25): "Not forsaking our assembly, as some are accustomed"; and a gloss observes: "Those namely who yield through fear of persecution, or who presuming on themselves withdraw from the company of sinners or of the imperfect, that they may appear to be righteous." Now those who pass from one religious order to another more perfect one would seem to do this. Therefore this is seemingly unlawful.
+
+Objection 2: Further, the profession of monks is stricter than that of canons regular (Extra, De Statu Monach. et Canonic. Reg., cap. Quod Dei timorem). But it is unlawful for anyone to pass from the state of canon regular to the monastic state. For it is said in the Decretals (XIX, qu. iii, can. Mandamus): "We ordain and without any exception forbid any professed canon regular to become a monk, unless (which God forbid) he have fallen into public sin." Therefore it would seem unlawful for anyone to pass from one religious order to another of higher rank.
+
+Objection 3: Further, a person is bound to fulfil what he has vowed, as long as he is able lawfully to do so; thus if a man has vowed to observe continence, he is bound, even after contracting marriage by words in the present tense, to fulfil his vow so long as the marriage is not consummated, because he can fulfil the vow by entering religion. Therefore if a person may lawfully pass from one religious order to another, he will be bound to do so if he vowed it previously while in the world. But this would seem objectionable, since in many cases it might give rise to scandal. Therefore a religious may not pass from one religious order to another stricter one.
+
+**Answer**
+
+On the contrary, It is said in the Decretals (XX, qu. iv, can. Virgines): "If sacred virgins design for the good of their soul to pass to another monastery on account of a stricter life, and decide to remain there, the holy synod allows them to do so": and the same would seem to apply to any religious. Therefore one may lawfully pass from one religious order to another.
 
 I answer that, It is not commendable to pass from one religious order to another: both because this frequently gives scandal to those who remain; and because, other things being equal, it is easier to make progress in a religious order to which one is accustomed than in one to which one is not habituated. Hence in the Conferences of the Fathers (Coll. xiv, 5) Abbot Nesteros says: "It is best for each one that he should, according to the resolve he has made, hasten with the greatest zeal and care to reach the perfection of the work he has undertaken, and nowise forsake the profession he has chosen." And further on he adds (cap. 6) by way of reason: "For it is impossible that one and the same man should excel in all the virtues at once, since if he endeavor to practice them equally, he will of necessity, while trying to attain them all, end in acquiring none of them perfectly": because the various religious orders excel in respect of various works of virtue.
 
@@ -1728,75 +1578,61 @@ Nevertheless one may commendably pass from one religious order to another for th
 
 There is, however, a difference in these three cases. For in the first case one ought, on account of humility, to seek permission: yet this cannot be denied, provided it be certain that this other religion is more severe. "And if there be a probable doubt about this, one should ask one's superior to decide" (Extra, De Regular. et Transeunt. ad Relig., cap. Licet.). In like manner the superior's decision should be sought in the second case. In the third case it is also necessary to have a dispensation.
 
----
-
-Objection 1: It seems unlawful to pass from one religious order to another, even a stricter one. For the Apostle says (Heb. 10:25): "Not forsaking our assembly, as some are accustomed"; and a gloss observes: "Those namely who yield through fear of persecution, or who presuming on themselves withdraw from the company of sinners or of the imperfect, that they may appear to be righteous." Now those who pass from one religious order to another more perfect one would seem to do this. Therefore this is seemingly unlawful.
+**Replies**
 
 Reply to Objection 1: Those who pass to a stricter religious order, do so not out of presumption that they may appear righteous, but out of devotion, that they may become more righteous.
 
----
-
-Objection 2: Further, the profession of monks is stricter than that of canons regular (Extra, De Statu Monach. et Canonic. Reg., cap. Quod Dei timorem). But it is unlawful for anyone to pass from the state of canon regular to the monastic state. For it is said in the Decretals (XIX, qu. iii, can. Mandamus): "We ordain and without any exception forbid any professed canon regular to become a monk, unless (which God forbid) he have fallen into public sin." Therefore it would seem unlawful for anyone to pass from one religious order to another of higher rank.
-
 Reply to Objection 2: Religious orders whether of monks or of canons regular are destined to the works of the contemplative life. Chief among these are those which are performed in the divine mysteries, and these are the direct object of the orders of canons regular, the members of which are essentially religious clerics. On the other hand, monastic religious are not essentially clerics, according to the Decretals (XVI, qu. i, cap. Alia causa). Hence although monastic orders are more severe, it would be lawful, supposing the members to be lay monks, to pass from the monastic order to an order of canons regular, according to the statement of Jerome (Ep. cxxv, ad Rustic. Monach.): "So live in the monastery as to deserve to become a cleric"; but not conversely, as expressed in the Decretal quoted (XIX, qu. iii). If, however, the monks be clerics devoting themselves to the sacred ministry, they have this in common with canons regular coupled with greater severity, and consequently it will be lawful to pass from an order of canons regular to a monastic order, provided withal that one seek the superior's permission (XIX, qu. iii; cap. Statuimus).
-
----
-
-Objection 3: Further, a person is bound to fulfil what he has vowed, as long as he is able lawfully to do so; thus if a man has vowed to observe continence, he is bound, even after contracting marriage by words in the present tense, to fulfil his vow so long as the marriage is not consummated, because he can fulfil the vow by entering religion. Therefore if a person may lawfully pass from one religious order to another, he will be bound to do so if he vowed it previously while in the world. But this would seem objectionable, since in many cases it might give rise to scandal. Therefore a religious may not pass from one religious order to another stricter one.
 
 Reply to Objection 3: The solemn vow whereby a person is bound to a less strict order, is more binding than the simple vow whereby a person is bound to a stricter order. For if after taking a simple vow a person were to be married, his marriage would not be invalid, as it would be after his taking a solemn vow. Consequently a person who is professed in a less severe order is not bound to fulfil a simple vow he has taken on entering a more severe order.
 
 ### Whether One Ought To Induce Others To Enter Religion?
 
-On the contrary, It is written (Ex. 26:3, seqq. [*St. Thomas quotes the sense, not the words]): "Let one curtain draw the other." Therefore one man should draw another to God's service.
+**Objections**
 
----
+Objection 1: It would seem that no one ought to induce others to enter religion. For the blessed Benedict prescribes in his Rule (lviii) that "those who seek to enter religion must not easily be admitted, but spirits must be tested whether they be of God"; and Cassian has the same instruction (De Inst. Caenob. iv, 3). Much less therefore is it lawful to induce anyone to enter religion.
+
+Objection 2: Further, our Lord said (Mat. 23:15): "Woe to you . . . because you go round about the sea and the land to make one proselyte, and when he is made you make him the child of hell twofold more than yourselves." Now thus would seem to do those who induce persons to enter religion. Therefore this would seem blameworthy.
+
+Objection 3: Further, no one should induce another to do what is to his prejudice. But those who are induced to enter religion, sometimes take harm therefrom, for sometimes they are under obligation to enter a stricter religion. Therefore it would not seem praiseworthy to induce others to enter religion.
+
+**Answer**
+
+On the contrary, It is written (Ex. 26:3, seqq. [*St. Thomas quotes the sense, not the words]): "Let one curtain draw the other." Therefore one man should draw another to God's service.
 
 I answer that, Those who induce others to enter religion not only do not sin, but merit a great reward. For it is written (James 5:20): "He who causeth a sinner to be converted from the error of his way, shall save his soul from death, and shall cover a multitude of sins"; and (Dan. 12:3): "They that instruct many to justice shall be as stars for all eternity."
 
 Nevertheless such inducement may be affected by a threefold inordinateness. First, if one person force another by violence to enter religion: and this is forbidden in the Decretals (XX, qu. iii, cap. Praesens). Secondly, if one person persuade another simoniacally to enter religion, by giving him presents: and this is forbidden in the Decretal (I, qu. ii, cap. Quam pio). But this does not apply to the case where one provides a poor person with necessaries by educating him in the world for the religious life; or when without any compact one gives a person little presents for the sake of good fellowship. Thirdly, if one person entices another by lies: for it is to be feared that the person thus enticed may turn back on finding himself deceived, and thus "the last state of that man" may become "worse than the first" (Lk. 11:26).
 
----
-
-Objection 1: It would seem that no one ought to induce others to enter religion. For the blessed Benedict prescribes in his Rule (lviii) that "those who seek to enter religion must not easily be admitted, but spirits must be tested whether they be of God"; and Cassian has the same instruction (De Inst. Caenob. iv, 3). Much less therefore is it lawful to induce anyone to enter religion.
+**Replies**
 
 Reply to Objection 1: Those who are induced to enter religion have still a time of probation wherein they make a trial of the hardships of religion, so that they are not easily admitted to the religious life.
 
----
-
-Objection 2: Further, our Lord said (Mat. 23:15): "Woe to you . . . because you go round about the sea and the land to make one proselyte, and when he is made you make him the child of hell twofold more than yourselves." Now thus would seem to do those who induce persons to enter religion. Therefore this would seem blameworthy.
-
 Reply to Objection 2: According to Hilary (Can. xxiv in Matth.) this saying of our Lord was a forecast of the wicked endeavors of the Jews, after the preaching of Christ, to draw Gentiles or even Christians to observe the Jewish ritual, thereby making them doubly children of hell, because, to wit, they were not forgiven the former sins which they committed while adherents of Judaism, and furthermore they incurred the guilt of Jewish perfidy; and thus interpreted these words have nothing to do with the case in point.
-
----
-
-Objection 3: Further, no one should induce another to do what is to his prejudice. But those who are induced to enter religion, sometimes take harm therefrom, for sometimes they are under obligation to enter a stricter religion. Therefore it would not seem praiseworthy to induce others to enter religion.
 
 Reply to Objection 3: The lesser is included in the greater. Wherefore a person who is bound by vow or oath to enter a lesser order, may be lawfully induced to enter a greater one. unless there be some special obstacle, such as ill-health, or the hope of making greater progress in the lesser order. On the other hand, one who is bound by vow or oath to enter a greater order, cannot be lawfully induced to enter a lesser order, except for some special and evident motive, and then with the superior's dispensation.
 
 ### Whether It Is Praiseworthy To Enter Religion Without Taking Counsel Of Many, And Previously Deliberating For A Long Time?
 
-On the contrary, It is stated (Mat. 4:20) that upon our Lord's calling them, Peter and Andrew "immediately leaving their nets, followed Him." Here Chrysostom says (Hom. xiv in Matth.): "Such obedience as this does Christ require of us, that we delay not even for a moment."
-
----
-
-I answer that, Long deliberation and the advice of many are required in great matters of doubt, as the Philosopher says (Ethic. iii, 3); while advice is unnecessary in matters that are certain and fixed. Now with regard to entering religion three points may be considered. First, the entrance itself into religion, considered by itself; and thus it is certain that entrance into religion is a greater good, and to doubt about this is to disparage Christ Who gave this counsel. Hence Augustine says (De Verb. Dom., Serm. c, 2): "The East," that is Christ, "calleth thee, and thou turnest to the West," namely mortal and fallible man. Secondly, the entrance into religion may be considered in relation to the strength of the person who intends to enter. And here again there is no room for doubt about the entrance to religion, since those who enter religion trust not to be able to stay by their own power, but by the assistance of the divine power, according to Is. 40:31, "They that hope in the Lord shall renew their strength, they shall take wings as eagles, they shall run and not be weary, they shall walk and not faint." Yet if there be some special obstacle (such as bodily weakness, a burden of debts, or the like) in such cases a man must deliberate and take counsel with such as are likely to help and not hinder him. Hence it is written (Ecclus. 37:12): "Treat with a man without religion concerning holiness [*The Douay version supplies the negative: 'Treat not . . . nor with . . . '], with an unjust man concerning justice," meaning that one should not do so, wherefore the text goes on (Ecclus. 37:14,15), "Give no heed to these in any matter of counsel, but be continually with a holy man." In these matters, however, one should not take long deliberation. Wherefore Jerome says (Ep. and Paulin. liii): "Hasten, I pray thee, cut off rather than loosen the rope that holds the boat to the shore." Thirdly, we may consider the way of entering religion, and which order one ought to enter, and about such matters also one may take counsel of those who will not stand in one's way.
-
----
+**Objections**
 
 Objection 1: It would not seem praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time. For it is written (1 Jn. 4:1): "Believe not every spirit, but try the spirits if they be of God." Now sometimes a man's purpose of entering religion is not of God, since it often comes to naught through his leaving the religious life; for it is written (Acts 5:38,39): "If this counsel or this work be of God, you cannot overthrow it." Therefore it would seem that one ought to make a searching inquiry before entering religion.
 
-Reply to Objection 1: The saying: "Try the spirits, if they be of God," applies to matters admitting of doubt whether the spirits be of God; thus those who are already in religion may doubt whether he who offers himself to religion be led by the spirit of God, or be moved by hypocrisy. Wherefore they must try the postulant whether he be moved by the divine spirit. But for him who seeks to enter religion there can be no doubt but that the purpose of entering religion to which his heart has given birth is from the spirit of God, for it is His spirit "that leads" man "into the land of uprightness" (Ps. 142:10).
-
----
-
 Objection 2: Further, it is written (Prov. 25:9): "Treat thy cause with thy friend." Now a man's cause would seem to be especially one that concerns a change in his state of life. Therefore seemingly one ought not to enter religion without discussing the matter with one's friends.
 
-Reply to Objection 2: Even as "the flesh lusteth against the spirit" (Gal. 5:17), so too carnal friends often thwart our spiritual progress, according to Mic. 7:6, "A man's enemies are they of his own household." Wherefore Cyril expounding Lk. 9:61, "Let me first take my leave of them that are at my house," says [*Cf. St. Thomas's Catena Aurea]: "By asking first to take his leave of them that were at his house, he shows he was somewhat of two minds. For to communicate with his neighbors, and consult those who are unwilling to relish righteousness, is an indication of weakness and turning back. Hence he hears our Lord say: 'No man putting his hand to the plough, and looking back, is fit for the kingdom of God,' because he looks back who seeks delay in order to go home and confer with his kinsfolk."
-
----
-
 Objection 3: Further, our Lord (Lk. 14:28) in making a comparison with a man who has a mind to build a tower, says that he doth "first sit down and reckon the charges that are necessary, whether he have wherewithal to finish it," lest he become an object of mockery, for that "this man began to build and was not able to finish." Now the wherewithal to build the tower, as Augustine says (Ep. ad Laetum ccxliii), is nothing less than that "each one should renounce all his possessions." Yet it happens sometimes that many cannot do this, nor keep other religious observances; and in signification of this it is stated (1 Kings 17:39) that David could not walk in Saul's armor, for he was not used to it. Therefore it would seem that one ought not to enter religion without long deliberation beforehand and taking counsel of many.
+
+**Answer**
+
+On the contrary, It is stated (Mat. 4:20) that upon our Lord's calling them, Peter and Andrew "immediately leaving their nets, followed Him." Here Chrysostom says (Hom. xiv in Matth.): "Such obedience as this does Christ require of us, that we delay not even for a moment."
+
+I answer that, Long deliberation and the advice of many are required in great matters of doubt, as the Philosopher says (Ethic. iii, 3); while advice is unnecessary in matters that are certain and fixed. Now with regard to entering religion three points may be considered. First, the entrance itself into religion, considered by itself; and thus it is certain that entrance into religion is a greater good, and to doubt about this is to disparage Christ Who gave this counsel. Hence Augustine says (De Verb. Dom., Serm. c, 2): "The East," that is Christ, "calleth thee, and thou turnest to the West," namely mortal and fallible man. Secondly, the entrance into religion may be considered in relation to the strength of the person who intends to enter. And here again there is no room for doubt about the entrance to religion, since those who enter religion trust not to be able to stay by their own power, but by the assistance of the divine power, according to Is. 40:31, "They that hope in the Lord shall renew their strength, they shall take wings as eagles, they shall run and not be weary, they shall walk and not faint." Yet if there be some special obstacle (such as bodily weakness, a burden of debts, or the like) in such cases a man must deliberate and take counsel with such as are likely to help and not hinder him. Hence it is written (Ecclus. 37:12): "Treat with a man without religion concerning holiness [*The Douay version supplies the negative: 'Treat not . . . nor with . . . '], with an unjust man concerning justice," meaning that one should not do so, wherefore the text goes on (Ecclus. 37:14,15), "Give no heed to these in any matter of counsel, but be continually with a holy man." In these matters, however, one should not take long deliberation. Wherefore Jerome says (Ep. and Paulin. liii): "Hasten, I pray thee, cut off rather than loosen the rope that holds the boat to the shore." Thirdly, we may consider the way of entering religion, and which order one ought to enter, and about such matters also one may take counsel of those who will not stand in one's way.
+
+**Replies**
+
+Reply to Objection 1: The saying: "Try the spirits, if they be of God," applies to matters admitting of doubt whether the spirits be of God; thus those who are already in religion may doubt whether he who offers himself to religion be led by the spirit of God, or be moved by hypocrisy. Wherefore they must try the postulant whether he be moved by the divine spirit. But for him who seeks to enter religion there can be no doubt but that the purpose of entering religion to which his heart has given birth is from the spirit of God, for it is His spirit "that leads" man "into the land of uprightness" (Ps. 142:10).
+
+Reply to Objection 2: Even as "the flesh lusteth against the spirit" (Gal. 5:17), so too carnal friends often thwart our spiritual progress, according to Mic. 7:6, "A man's enemies are they of his own household." Wherefore Cyril expounding Lk. 9:61, "Let me first take my leave of them that are at my house," says [*Cf. St. Thomas's Catena Aurea]: "By asking first to take his leave of them that were at his house, he shows he was somewhat of two minds. For to communicate with his neighbors, and consult those who are unwilling to relish righteousness, is an indication of weakness and turning back. Hence he hears our Lord say: 'No man putting his hand to the plough, and looking back, is fit for the kingdom of God,' because he looks back who seeks delay in order to go home and confer with his kinsfolk."
 
 Reply to Objection 3: The building of the tower signifies the perfection of Christian life; and the renunciation of one's possessions is the wherewithal to build this tower. Now no one doubts or deliberates about wishing to have the wherewithal, or whether he is able to build the tower if he have the wherewithal, but what does come under deliberation is whether one has the wherewithal. Again it need not be a matter of deliberation whether one ought to renounce all that one has, or whether by so doing one may be able to attain to perfection; whereas it is a matter of deliberation whether that which one is doing amounts to the renunciation of all that he has, since unless he does renounce (which is to have the wherewithal) he cannot, as the text goes on to state, be Christ's disciple, and this is to build the tower.
 
