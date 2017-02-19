@@ -40,54 +40,52 @@ end
 
 EXPECTED_ARTICLE_CONTENT = "### Article Title
 
-Contrary text.
-
----
-
-Answer text.
-
----
+**Objections**
 
 Objection 1 text.
 
-First reply text.
-
----
-
 Objection 2 text.
+
+**Answer**
+
+Contrary text.
+
+Answer text.
+
+**Replies**
+
+First reply text.
 
 Second reply text.".freeze
 
 EXPECTED_ARTICLE_CONTENT_WITH_NIL_REPLY = "### Article Title
 
-Contrary text.
-
----
-
-Answer text.
-
----
+**Objections**
 
 Objection 1 text.
 
----
-
 Objection 2 text.
+
+**Answer**
+
+Contrary text.
+
+Answer text.
+
+**Replies**
 
 Second reply text.".freeze
 
 EXPECTED_ARTICLE_CONTENT_WITH_NO_REPLIES = "### Article Title
 
-Contrary text.
-
----
-
-Answer text.
-
----
+**Objections**
 
 Objection 1 text.
 
----
+Objection 2 text.
 
-Objection 2 text.".freeze
+**Answer**
+
+Contrary text.
+
+Answer text.".freeze
