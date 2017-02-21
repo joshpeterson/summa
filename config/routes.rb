@@ -15,8 +15,8 @@ Rails.application.routes.draw do
   get 'read/', to: 'reader#show'
   get 'outline/', to: 'outline#show'
 
-  get '/about', to: redirect('/about.html')
-  get '/code', to: redirect('/code.html')
+  get '/about' => 'static_pages#about'
+  get '/' => 'static_pages#home'
 
   get '/.well-known/acme-challenge/:id' => 'letsencrypt#verify'
 

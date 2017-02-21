@@ -21,10 +21,22 @@
   font-family: 'Libre Baskerville', serif;
 }
 
+.centered-text
+{
+  @extend .normal-text;
+  text-align: center;
+}
+
 .title
 {
   @extend .h3;
   font-family: 'Libre Baskerville', sans-serif;
+}
+
+.centered-title
+{
+  @extend .title;
+  text-align: center;
 }
 
 .section-title
@@ -59,3 +71,9 @@ hr
 .answer { @extend .normal-text; }
 .reply { @extend .normal-text; }
 .context { @extend .normal-text; }
+
+@media (max-width: 767px) {
+  .btn-vert-block + .btn-vert-block {
+    margin-top: 10px;
+  }
+}
