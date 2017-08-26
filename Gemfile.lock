@@ -220,6 +220,7 @@ DEPENDENCIES
   guard-rubocop
   jbuilder (~> 2.0)
   jquery-rails
+  json
   minitest-rg
   newrelic_rpm
   pg
@@ -233,4 +234,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.13.6
+   1.15.4
