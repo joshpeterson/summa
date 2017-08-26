@@ -38,6 +38,7 @@ gem 'bootstrap-sass'
 
 gem 'json'
 gem 'newrelic_rpm'
+gem 'puma'
 gem 'rails_12factor', group: :production
 gem 'rdoc'
 
