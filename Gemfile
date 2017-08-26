@@ -59,3 +59,5 @@ group :development, :test do
   gem 'guard-rubocop'
   gem 'minitest-rg'
 end
+
+ruby '2.3.1'
