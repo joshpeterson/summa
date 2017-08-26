@@ -36,9 +36,9 @@ end
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
 
+gem 'json'
 gem 'newrelic_rpm'
 gem 'rails_12factor', group: :production
-gem 'json'
 gem 'rdoc'
 
 group :development, :test do
