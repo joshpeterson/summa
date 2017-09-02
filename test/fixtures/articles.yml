@@ -7,6 +7,8 @@ one:
   answer: First article answer
   question_id: 1
   context_id: 1
+  objection_statements: ["Objection 1: First objection statement", "Objection 2: Second objection statement"]
+  objection_replies: ["First objection reply", "Second objection reply"]
 
 two:
   id: 2
@@ -15,6 +17,8 @@ two:
   answer: Second article answer
   question_id: 1
   context_id: 2
+  objection_statements: ["Objection 3: Third objection statement", "Objection 4: Fourth objection statement"]
+  objection_replies: ["Third objection reply"]
 
 three:
   id: 3
@@ -23,6 +27,8 @@ three:
   answer: Third article answer
   question_id: 2
   context_id: 3
+  objection_statements: ["Objection 2: statement", "Objection 1: statement"]
+  objection_replies: ["Sixth objection reply", "Seventh objection reply"]
 
 four:
   id: 4
@@ -31,6 +37,8 @@ four:
   answer: "Fourth article answer\n\nSecond line."
   question_id: 2
   context_id: 4
+  objection_statements: ["Fifth objection statement"]
+  objection_replies: []
 
 six:
   id: 6
@@ -39,6 +47,8 @@ six:
   answer: Sixth article answer
   question_id: 4
   context_id: 6
+  objection_statements: []
+  objection_replies: []
 
 five:
   id: 5
@@ -47,4 +57,6 @@ five:
   answer: Fifth article answer
   question_id: 4
   context_id: 5
+  objection_statements: []
+  objection_replies: []
 

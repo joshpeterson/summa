@@ -34,10 +34,19 @@ summa.parts.each do |part|
                                     treatise: db_treatise)
       db_articles = []
       question.articles.each do |article|
+        objection_statements = []
+        objection_replies = []
+        article.objections.each do |objection|
+          objection_statements.push(objection.statement)
+          objection_replies.push(objection.reply)
+        end
+
         db_article = Article.create(title: article.title,
                                     contrary: article.contrary,
                                     answer: article.answer,
-                                    question: db_question)
+                                    question: db_question,
+                                    objection_statements: objection_statements,
+                                    objection_replies: objection_replies)
 
         context = Context.create(part: db_part,
                                  treatise: db_treatise,
@@ -50,14 +59,6 @@ summa.parts.each do |part|
         article_number_in_treatise += 1
         article_number_in_question += 1
 
-        db_objections = []
-        article.objections.each do |objection|
-          db_objection = Objection.create(statement: objection.statement,
-                                          reply: objection.reply,
-                                          article: db_article)
-          db_objections.push(db_objection)
-        end
-        db_article.objections = db_objections
         db_articles.push(db_article)
       end
       db_question.articles = db_articles

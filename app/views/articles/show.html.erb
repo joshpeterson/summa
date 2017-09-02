@@ -23,7 +23,7 @@
       <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
       <%= @article.answer.html_safe %>
      </div>
-     <% if @article.objections.any? {|o| !o.reply.nil?} %>
+     <% if @sorted_objections.any? {|o| !o.reply.nil?} %>
       <a name="replies"></a>
       <div class="section-title">Replies</div>
       <% @sorted_objections.each.with_index(1) do |objection, i| %>

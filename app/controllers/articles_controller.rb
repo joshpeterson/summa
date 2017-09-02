@@ -90,6 +90,19 @@ class ArticlesController < ApplicationController
   end
 
   def sort_objections
-    @article.objections.sort_by { |o| o.statement || '' }
+    objections = []
+    article.objection_statements.each_with_index do |statement, i|
+      objections.push(Objection.new(statement, @article.objection_replies[i]))
+    end
+    objections.sort_by { |o| o.statement || '' }
+  end
+end
+
+class Objection
+  attr_accessor :statement, :reply
+
+  def initialize(statement, reply)
+    @statement = statement
+    @reply = reply
   end
 end

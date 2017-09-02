@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150828103405) do
+ActiveRecord::Schema.define(version: 20170902154010) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -20,10 +20,12 @@ ActiveRecord::Schema.define(version: 20150828103405) do
     t.string   "title"
     t.string   "contrary"
     t.string   "answer"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
+    t.datetime "created_at",                        null: false
+    t.datetime "updated_at",                        null: false
     t.integer  "question_id"
     t.integer  "context_id"
+    t.text     "objection_statements", default: [],              array: true
+    t.text     "objection_replies",    default: [],              array: true
   end
 
   add_index "articles", ["context_id"], name: "index_articles_on_context_id", using: :btree
@@ -38,14 +40,6 @@ ActiveRecord::Schema.define(version: 20150828103405) do
     t.integer  "number_in_question"
     t.datetime "created_at",         null: false
     t.datetime "updated_at",         null: false
-  end
-
-  create_table "objections", force: :cascade do |t|
-    t.string   "statement"
-    t.string   "reply"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.integer  "article_id"
   end
 
   create_table "parts", force: :cascade do |t|
