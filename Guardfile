@@ -2,7 +2,7 @@
 # More info at https://github.com/guard/guard#readme
 
 ## Uncomment and set this to only include directories you want to watch
-directories %w(app lib config test app/controllers test/controllers) \
+directories %w[app lib config test app/controllers test/controllers] \
   .select { |d|
     Dir.exist?(d) ? d : UI.warning("Directory #{d} does not exist")
   }

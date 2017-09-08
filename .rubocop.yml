@@ -9,6 +9,8 @@ Rails:
   Enabled: true
 Rails/HttpPositionalArguments:
   Enabled: false # This cop only applies to Rails 5
+Rails/ApplicationRecord:
+  Enabled: false # This cop only applies to Rails 5
 Metrics/LineLength:
   Max: 83
 Style/Documentation:
@@ -20,4 +22,6 @@ Metrics/BlockLength:
 Metrics/AbcSize:
   Enabled: false
 Metrics/ClassLength:
+  Enabled: false
+Lint/AmbiguousBlockAssociation:
   Enabled: false
