@@ -13,7 +13,7 @@ class TestPartParser < MiniTest::Test
   end
 
   def test_verify_prologue_for_part_without_prologue
-    assert_equal(nil, @parser.part.prologue)
+    assert_nil(@parser.part.prologue)
   end
 
   def test_verify_prologue_for_part_with_prologue
