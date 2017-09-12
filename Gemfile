@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'pg'
-gem 'rails', '4.2.2'
+gem 'rails', '4.2.9'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -68,4 +68,4 @@ group :development, :test do
   gem 'minitest-rg'
 end
 
-ruby '2.3.1'
+ruby '2.4.1'
