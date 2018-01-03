@@ -46,6 +46,7 @@
 }
 
 .list { @extend .list-group; }
+
 .item
 {
   @extend .list-group-item;
@@ -76,4 +77,12 @@ hr
   .btn-vert-block + .btn-vert-block {
     margin-top: 10px;
   }
+}
+
+body {
+  background-color: #ede3d0;
+}
+
+.btn {
+  background-color: #ede3d0;
 }
