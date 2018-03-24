@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class QuestionParsed
   def initialize(title, content, articles)
     @title = title

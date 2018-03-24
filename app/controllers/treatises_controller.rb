@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class TreatisesController < ApplicationController
   def show
     @treatise = treatise

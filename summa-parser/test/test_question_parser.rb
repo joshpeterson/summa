@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative '../parser/question_parser'
@@ -443,7 +445,7 @@ QUESTION = %{
    only, and inasmuch as they are understood by God; but not in so far as
    life implies a principle of operation.
      __________________________________________________________________
-}.freeze
+}
 
 QUESTION_WITH_MULTILINE_TITLE = %{
   OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE
@@ -556,7 +558,7 @@ QUESTION_WITH_MULTILINE_TITLE = %{
    blessed by turning to the good. And this is properly termed their
    morning knowledge.
      __________________________________________________________________
-}.freeze
+}
 
 QUESTION_WITH_ODD_TITLE = %{
   TWO ARTICLES ON PURGATORY
@@ -644,4 +646,4 @@ QUESTION_WITH_ODD_TITLE = %{
    charity, which does not always wash away the sin which it finds, but
    only that which is contrary to it.
      __________________________________________________________________
-}.freeze
+}

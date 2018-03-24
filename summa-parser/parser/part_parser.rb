@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../models/part'
 require_relative 'treatise_parser'
 

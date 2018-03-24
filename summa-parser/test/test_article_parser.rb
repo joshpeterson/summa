@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative '../parser/article_parser'
@@ -216,7 +218,7 @@ ARTICLE = %{
    may not also be taught us by another science so far as they fall within
    revelation. Hence theology included in sacred doctrine differs in kind
    from that theology which is part of philosophy.
-}.freeze
+}
 
 ARTICLE_WITHOUT_OBJECTION_REPLIES = %{
   Whether sacred doctrine is a practical science?
@@ -248,7 +250,7 @@ ARTICLE_WITHOUT_OBJECTION_REPLIES = %{
    does treat even of these latter, inasmuch as man is ordained by them to
    the perfect knowledge of God in which consists eternal bliss. This is a
    sufficient answer to the Objections.
-}.freeze
+}
 
 ARTICLE_WITH_FOOTNOTE_IN_TITLE = %{
   Whether understanding* is a part of prudence? [*Otherwise intuition;
@@ -316,7 +318,7 @@ ARTICLE_WITH_FOOTNOTE_IN_TITLE = %{
    understood as referring, not to the particular sense whereby we know
    proper sensibles, but to the interior sense, whereby we judge of a
    particular.
-}.freeze
+}
 
 ARTICLE_WITH_NEWLINE_IN_ANSWER = %{
   Whether sacred doctrine is a practical science?
@@ -339,7 +341,7 @@ ARTICLE_WITH_NEWLINE_IN_ANSWER = %{
 
    Reply to Objection 1: The reasoning of prudence terminates, as in a
    conclusion, in the particular matter of action, to which, as stated
-}.freeze
+}
 
 ARTICLE_WITH_NEWLINE_IN_ANSWER_AN_NO_REPLIES = %{
   Whether sacred doctrine is a practical science?
@@ -359,4 +361,4 @@ ARTICLE_WITH_NEWLINE_IN_ANSWER_AN_NO_REPLIES = %{
    I answer that, foo bar.
 
    Foo bar baz.
-}.freeze
+}

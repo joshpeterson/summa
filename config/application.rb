@@ -1,4 +1,6 @@
-require File.expand_path('../boot', __FILE__)
+# frozen_string_literal: true
+
+require File.expand_path('boot', __dir__)
 
 require 'rails/all'
 
@@ -8,7 +10,7 @@ Bundler.require(*Rails.groups)
 
 begin
   ENV.update YAML.load_file('config/application.yml')
-rescue
+rescue StandardError
   {}
 end
 

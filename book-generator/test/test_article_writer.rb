@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative 'custom_assertions.rb'
@@ -56,7 +58,7 @@ Answer text.
 
 First reply text.
 
-Second reply text.".freeze
+Second reply text."
 
 EXPECTED_ARTICLE_CONTENT_WITH_NIL_REPLY = "### Article Title
 
@@ -74,7 +76,7 @@ Answer text.
 
 **Replies**
 
-Second reply text.".freeze
+Second reply text."
 
 EXPECTED_ARTICLE_CONTENT_WITH_NO_REPLIES = "### Article Title
 
@@ -88,4 +90,4 @@ Objection 2 text.
 
 Contrary text.
 
-Answer text.".freeze
+Answer text."

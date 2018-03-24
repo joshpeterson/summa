@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Utils
   def self.append_prologue_link(path)
     append_to_path(path_from_stack(path), 'prologue.md')

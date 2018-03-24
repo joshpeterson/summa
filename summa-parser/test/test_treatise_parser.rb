@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative '../parser/treatise_parser'
@@ -862,7 +864,7 @@ TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
    infinity, but reduce all evils to some good cause, whence evil follows
    accidentally.
      __________________________________________________________________
-}.freeze
+}
 
 TREATISE_WITH_PROLOGUE = %{
 TREATISE ON THE LAST END (QQ[1]-5)
@@ -3923,7 +3925,7 @@ TREATISE ON THE LAST END (QQ[1]-5)
    nothing amiss": although the first part suffices if rightly understood,
    to wit, that "happy is he who has all he desires."
      __________________________________________________________________
-}.freeze
+}
 
 TREATISE_WITH_COMPLEX_QUESTION = %{
 TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
@@ -4058,4 +4060,4 @@ TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
    under the order of the same, except accidentally, that is, by reason of
    some good joined to it.
      __________________________________________________________________
-}.freeze
+}

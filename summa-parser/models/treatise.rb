@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class TreatiseParsed
   def initialize(title, prologue, questions)
     @title = title

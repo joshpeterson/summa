@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../models/summa'
 require_relative 'part_parser'
 

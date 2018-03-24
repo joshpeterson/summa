@@ -11,6 +11,8 @@ Rails/HttpPositionalArguments:
   Enabled: false # This cop only applies to Rails 5
 Rails/ApplicationRecord:
   Enabled: false # This cop only applies to Rails 5
+Rails/HasManyOrHasOneDependent:
+  Enabled: false
 Metrics/LineLength:
   Max: 83
 Style/Documentation:
@@ -24,4 +26,6 @@ Metrics/AbcSize:
 Metrics/ClassLength:
   Enabled: false
 Lint/AmbiguousBlockAssociation:
+  Enabled: false
+Style/MixinUsage:
   Enabled: false

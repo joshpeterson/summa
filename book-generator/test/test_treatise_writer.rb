@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative 'custom_assertions.rb'
@@ -31,11 +33,11 @@ end
 
 EXPECTED_WITH_PROLOGUE_AND_TITLE = "# Treatise Foo
 
-Prologue text.".freeze
+Prologue text."
 
 EXPECTED_WITH_QUESTIONS = "# Treatise Foo
 
 Prologue text.
 
 * Question 1 Title
-* Question 2 Title".freeze
+* Question 2 Title"

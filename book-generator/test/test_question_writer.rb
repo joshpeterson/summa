@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative 'custom_assertions.rb'
@@ -28,9 +30,9 @@ end
 
 EXPECTED_PROLOGUE = "## Test Part Title
 
-This is the prologue text.".freeze
+This is the prologue text."
 
-EXPECTED_PROLOGUE_EMPTY_CONTENT = '## Test Part Title'.freeze
+EXPECTED_PROLOGUE_EMPTY_CONTENT = '## Test Part Title'
 
 class HasTitle
   def initialize(title)

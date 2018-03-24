@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class TitleParser
   def self.title_casing_for(title)
     title.split.map(&:capitalize).join(' ')

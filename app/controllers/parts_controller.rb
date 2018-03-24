@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class PartsController < ApplicationController
   def show
     @part = part

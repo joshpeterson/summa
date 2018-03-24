@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class SummaController < ApplicationController
   def show
     @summa = summa

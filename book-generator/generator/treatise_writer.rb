@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../../summa-parser/models/treatise'
 require_relative 'title_parser'
 

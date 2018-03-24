@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative 'custom_assertions.rb'
@@ -66,4 +68,4 @@ EXPECTED_SUMMARY = %{# Summary
 ## Part 2
 * [Treatise 3](part_2/treatise_3.md)
 * [Treatise 4](part_2/treatise_4.md)
-}.freeze
+}

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative '../parser/summa_parser'
@@ -228,4 +230,4 @@ TREATISE ON THE LAST END (QQ[1]-5)
    proper principle of human actions. Therefore they have indeed an
    imaginary end, but not one that is fixed by reason.
      __________________________________________________________________
-}.freeze
+}

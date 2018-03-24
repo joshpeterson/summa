@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 gem 'minitest'
 require 'minitest/autorun'
 require_relative '../parser/part_parser'
@@ -1239,7 +1241,7 @@ TREATISE ON THE MOST HOLY TRINITY (QQ[27]-43)
      __________________________________________________________________
 
                  FIRST PART OF THE SECOND PART (FS) (QQ[1]-114)
-}.freeze
+}
 
 EXPECTED_PROLOGUE = %{Forasmuch as our Saviour the Lord Jesus Christ, in order \
 to "save His people from their sins" (Mat. 1:21), as the angel announced, showed \
@@ -1254,7 +1256,7 @@ by the resurrection.
 Concerning the first, a double consideration occurs: the first, about the mystery \
 of the Incarnation itself, whereby God was made man for our salvation; the \
 second, about such things as were done and suffered by our Saviour---i.e. God \
-incarnate.}.freeze
+incarnate.}
 
 PART_WITH_PROLOGUE = %{
 
@@ -1283,4 +1285,4 @@ PROLOGUE
      __________________________________________________________________
 
 TREATISE ON THE INCARNATION (QQ[1]-59)
-}.freeze
+}

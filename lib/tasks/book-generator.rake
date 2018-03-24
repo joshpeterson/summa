@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 task :default do
   Dir.chdir('book-generator') do
     print("Running rake in book-generator directory.\n")

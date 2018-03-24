@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'pg'
+gem 'pg', '~> 0.18'
 gem 'rails', '4.2.9'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'

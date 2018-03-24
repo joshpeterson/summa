@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../../summa-parser/models/article'
 require_relative '../../summa-parser/models/question'
 require_relative '../../summa-parser/models/treatise'

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Context < ActiveRecord::Base
   belongs_to :article
   belongs_to :part

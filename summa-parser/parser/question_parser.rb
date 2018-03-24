@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../models/question'
 require_relative 'article_parser'
 

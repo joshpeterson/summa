@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class ArticleParsed
   def initialize(title, contrary, answer, objections)
     @title = title

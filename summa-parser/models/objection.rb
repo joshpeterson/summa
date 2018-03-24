@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class ObjectionParsed
   def initialize(statement, reply)
     @statement = statement
