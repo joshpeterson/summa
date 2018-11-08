@@ -55,6 +55,8 @@ gem 'rack-mini-profiler'
 # <%= console %> in views
 gem 'web-console', '~> 2.0', group: :development
 
+gem 'loofah', '>= 2.2.3'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a
   # debugger console
