@@ -59,7 +59,7 @@ GEM
     debug_inspector (0.0.3)
     erubis (2.7.0)
     execjs (2.7.0)
-    ffi (1.9.23)
+    ffi (1.9.25)
     flamegraph (0.9.5)
     formatador (0.2.5)
     globalid (0.4.1)
@@ -222,6 +222,7 @@ DEPENDENCIES
   bootstrap-sass
   byebug
   coffee-rails (~> 4.1.0)
+  ffi (~> 1.9.24)
   flamegraph
   guard
   guard-minitest
