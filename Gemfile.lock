@@ -123,7 +123,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
     puma (3.11.3)
-    rack (1.6.10)
+    rack (1.6.11)
     rack-mini-profiler (0.10.7)
       rack (>= 1.2.0)
     rack-test (0.6.3)
@@ -235,6 +235,7 @@ DEPENDENCIES
   minitest-rg
   pg (~> 0.18)
   puma
+  rack (>= 1.6.11)
   rack-mini-profiler
   rails (= 4.2.9)
   rails_12factor
