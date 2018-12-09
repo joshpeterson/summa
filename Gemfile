@@ -55,7 +55,7 @@ gem 'rack-mini-profiler'
 # <%= console %> in views
 gem 'web-console', '~> 2.0', group: :development
 
-gem 'ffi', '~> 1.9.24'
+gem 'ffi', '>= 1.9.24'
 gem 'loofah', '>= 2.2.3'
 gem 'rack', '>= 1.6.11'
 
