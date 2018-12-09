@@ -28,6 +28,7 @@ class PartParser
   def parse_prologue(part_text)
     start_index = part_text.index(/^PROLOGUE/)
     return nil if start_index.nil?
+
     start_index += 9 # 'PROLOGUE'.length + 1
     end_index = part_text.index(/^     ______/, start_index)
     # This is a horrible regex (three, actually).

@@ -4,7 +4,7 @@ class PartsController < ApplicationController
   def show
     @part = part
     if @part.nil?
-      render status: 404
+      render status: :not_found
     else
       cookies['reader'] = "/parts/#{@part.id}"
     end

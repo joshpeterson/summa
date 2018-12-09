@@ -16,6 +16,7 @@ class QuestionParser
     if question_text.empty?
       raise ArgumentError, "Argument 'question_text' must not be empty."
     end
+
     title = parse_title(question_text)
     content = parse_content(question_text)
     articles = parse_articles(question_text)

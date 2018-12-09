@@ -4,7 +4,7 @@ class ArticlesController < ApplicationController
   def show
     @article = article
     if @article.nil?
-      render status: 404
+      render status: :not_found
     else
       @next = next_article
       @previous = previous_article

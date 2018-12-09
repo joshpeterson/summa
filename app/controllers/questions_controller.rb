@@ -4,7 +4,7 @@ class QuestionsController < ApplicationController
   def show
     @question = question
     if @question.nil?
-      render status: 404
+      render status: :not_found
     else
       @sorted_articles = sort_articles
       cookies['reader'] = "/questions/#{@question.id}"

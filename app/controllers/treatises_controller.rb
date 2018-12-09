@@ -4,7 +4,7 @@ class TreatisesController < ApplicationController
   def show
     @treatise = treatise
     if @treatise.nil?
-      render status: 404
+      render status: :not_found
     else
       cookies['reader'] = "/treatises/#{@treatise.id}"
     end

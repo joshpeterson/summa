@@ -28,6 +28,7 @@ class TreatiseParser
   def parse_prologue(treatise_text)
     start_index, end_index = get_prologue_start_and_end(treatise_text)
     return nil if start_index.nil?
+
     treatise_text[start_index..end_index].tr("\n", ' ')
                                          .gsub('    ', ' ').strip
   end
@@ -35,6 +36,7 @@ class TreatiseParser
   def get_prologue_start_and_end(treatise_text)
     start_index = treatise_text.index(/^  PROLOGUE/)
     return nil, nil if start_index.nil?
+
     start_index += 11 # '  PROLOGUE'.length + 1
     end_index = treatise_text.index(/^     ______/, start_index + 1)
     [start_index, end_index]
