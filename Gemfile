@@ -36,7 +36,7 @@ end
 # gem 'capistrano-rails', group: :development
 
 gem 'autoprefixer-rails'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'json'
 gem 'puma'
