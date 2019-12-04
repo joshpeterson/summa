@@ -75,4 +75,4 @@ group :development, :test do
   gem 'minitest-rg'
 end
 
-ruby '2.4.1'
+ruby '2.5.7'
