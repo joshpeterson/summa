@@ -4,7 +4,7 @@ require 'test_helper'
 
 class QuestionsControllerTest < ActionController::TestCase
   test 'should get show' do
-    get(:show, id: '1')
+    get(:show, params: { id: '1' })
     assert_response(:success)
   end
 
@@ -14,17 +14,17 @@ class QuestionsControllerTest < ActionController::TestCase
   end
 
   test 'should return first question' do
-    get(:show, id: '1')
+    get(:show, params: { id: '1' })
     assert_equal('First question', @controller.question.title)
   end
 
   test 'should return second question' do
-    get(:show, id: '2')
+    get(:show, params: { id: '2' })
     assert_equal('Second question', @controller.question.title)
   end
 
   test 'should set a cookie with the url of the current question' do
-    get(:show, id: '2')
+    get(:show, params: { id: '2' })
     assert_equal('/questions/2', @response.cookies['reader'])
   end
 end

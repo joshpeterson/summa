@@ -8,7 +8,7 @@ class PartsControllerViewTest < ActionController::TestCase
   end
 
   def get_part(number)
-    get(:show, id: number)
+    get(:show, params: { id: number })
     @lists = css_select('div.list')
     @items = css_select(@lists[0], 'a.item')
   end

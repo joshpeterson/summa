@@ -8,7 +8,7 @@ class QuestionsControllerViewTest < ActionController::TestCase
   end
 
   def get_question(number)
-    get(:show, id: number)
+    get(:show, params: { id: number })
     @lists = css_select('div.list')
     @items = css_select(@lists[0], 'a.item')
   end

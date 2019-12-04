@@ -8,7 +8,7 @@ class ArticlesControllerViewTest < ActionController::TestCase
   end
 
   def get_article(number)
-    get(:show, id: number)
+    get(:show, params: { id: number })
     @contraries = css_select('div.contrary')
     @statements = css_select('div.statement')
     @replies = css_select('div.reply')
