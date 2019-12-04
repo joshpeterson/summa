@@ -1,4 +1,4 @@
-class CreateTreatises < ActiveRecord::Migration
+class CreateTreatises < ActiveRecord::Migration[4.2]
   def change
     create_table :treatises do |t|
       t.string :title

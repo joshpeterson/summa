@@ -1,4 +1,4 @@
-class DropObjectionsTable < ActiveRecord::Migration
+class DropObjectionsTable < ActiveRecord::Migration[4.2]
   def up
     drop_table :objections
   end

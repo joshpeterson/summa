@@ -1,4 +1,4 @@
-class CreateParts < ActiveRecord::Migration
+class CreateParts < ActiveRecord::Migration[4.2]
   def change
     create_table :parts do |t|
       t.string :title
