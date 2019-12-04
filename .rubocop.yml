@@ -29,3 +29,5 @@ Lint/AmbiguousBlockAssociation:
   Enabled: false
 Style/MixinUsage:
   Enabled: false
+Style/FormatStringToken:
+  Enabled: false
