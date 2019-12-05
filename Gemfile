@@ -75,6 +75,7 @@ group :development, :test do
   gem 'guard-minitest'
   gem 'guard-rubocop'
   gem 'minitest-rg'
+  gem 'rubocop-rails'
 end
 
 ruby '2.5.7'
