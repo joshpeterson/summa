@@ -1,4 +1,4 @@
-class CreateSummaTheologicas < ActiveRecord::Migration
+class CreateSummaTheologicas < ActiveRecord::Migration[4.2]
   def change
     create_table :summa_theologicas do |t|
 

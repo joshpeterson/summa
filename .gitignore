@@ -26,3 +26,6 @@ vendor/bundle/*
 
 # For Gitbook
 _book/*
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key

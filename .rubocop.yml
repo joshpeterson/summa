@@ -1,3 +1,4 @@
+require: rubocop-rails
 AllCops:
   Exclude:
     - db/schema.rb
@@ -15,6 +16,7 @@ Rails/HasManyOrHasOneDependent:
   Enabled: false
 Metrics/LineLength:
   Max: 83
+  IgnoredPatterns: ['\s*#']
 Style/Documentation:
   Enabled: false
 Metrics/MethodLength:
@@ -28,4 +30,6 @@ Metrics/ClassLength:
 Lint/AmbiguousBlockAssociation:
   Enabled: false
 Style/MixinUsage:
+  Enabled: false
+Style/FormatStringToken:
   Enabled: false

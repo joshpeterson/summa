@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class Context < ActiveRecord::Base
+class Context < ApplicationRecord
   belongs_to :article
   belongs_to :part
   belongs_to :treatise
