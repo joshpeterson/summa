@@ -37,7 +37,7 @@ class PartParser
     # 3. Replace any space at the beginning of the line with nothing.
     # 4. Replace a space at the end of any line with nothing.
     part_text[start_index..end_index].gsub(/(?<!^)\n/, ' ')
-                                     .gsub(/[ ]{2,}/, ' ').gsub(/^\s/, '')
+                                     .gsub(/ {2,}/, ' ').gsub(/^\s/, '')
                                      .gsub(/ $/, '')
   end
 

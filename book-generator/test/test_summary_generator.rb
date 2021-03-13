@@ -2,7 +2,7 @@
 
 gem 'minitest'
 require 'minitest/autorun'
-require_relative 'custom_assertions.rb'
+require_relative 'custom_assertions'
 require_relative '../generator/summary_generator'
 require_relative '../../summa-parser/models/article'
 require_relative '../../summa-parser/models/question'

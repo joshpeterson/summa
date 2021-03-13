@@ -6,6 +6,5 @@ class ObjectionParsed
     @reply = reply
   end
 
-  attr_reader :statement
-  attr_reader :reply
+  attr_reader :statement, :reply
 end

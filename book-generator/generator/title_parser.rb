@@ -3,7 +3,7 @@
 class TitleParser
   def self.title_casing_for(title)
     title.split.map(&:capitalize).join(' ')
-         .gsub(/"([a-z])/) { '"' + Regexp.last_match(1).upcase }
+         .gsub(/"([a-z])/) { "\"#{Regexp.last_match(1).upcase}" }
          .gsub('I.e.', 'i.e.')
   end
 

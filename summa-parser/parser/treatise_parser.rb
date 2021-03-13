@@ -46,7 +46,7 @@ class TreatiseParser
     prologue_start_index, prologue_end_index =
       get_prologue_start_and_end(treatise_text)
     unless prologue_start_index.nil?
-      treatise_text = treatise_text[prologue_end_index + 1..-1]
+      treatise_text = treatise_text[prologue_end_index + 1..]
     end
 
     number_of_questions = treatise_text.scan(/^  [A-Z][A-Z]\n*?.*?\)/m)

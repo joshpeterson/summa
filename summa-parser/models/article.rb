@@ -8,8 +8,5 @@ class ArticleParsed
     @objections = objections
   end
 
-  attr_reader :title
-  attr_reader :contrary
-  attr_reader :answer
-  attr_reader :objections
+  attr_reader :title, :contrary, :answer, :objections
 end

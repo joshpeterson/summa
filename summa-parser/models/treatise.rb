@@ -7,7 +7,5 @@ class TreatiseParsed
     @questions = questions
   end
 
-  attr_reader :title
-  attr_reader :prologue
-  attr_reader :questions
+  attr_reader :title, :prologue, :questions
 end

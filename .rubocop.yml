@@ -14,7 +14,7 @@ Rails/ApplicationRecord:
   Enabled: false # This cop only applies to Rails 5
 Rails/HasManyOrHasOneDependent:
   Enabled: false
-Metrics/LineLength:
+Layout/LineLength:
   Max: 83
   IgnoredPatterns: ['\s*#']
 Style/Documentation:
@@ -32,4 +32,6 @@ Lint/AmbiguousBlockAssociation:
 Style/MixinUsage:
   Enabled: false
 Style/FormatStringToken:
+  Enabled: false
+Style/StringConcatenation:
   Enabled: false

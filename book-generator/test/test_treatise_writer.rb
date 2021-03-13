@@ -2,10 +2,10 @@
 
 gem 'minitest'
 require 'minitest/autorun'
-require_relative 'custom_assertions.rb'
+require_relative 'custom_assertions'
 require_relative '../generator/treatise_writer'
-require_relative '../../summa-parser/models/treatise.rb'
-require_relative '../../summa-parser/models/question.rb'
+require_relative '../../summa-parser/models/treatise'
+require_relative '../../summa-parser/models/question'
 
 class TestTreatiseWriter < MiniTest::Test
   def test_starts_with_treatise_title

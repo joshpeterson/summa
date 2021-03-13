@@ -7,7 +7,5 @@ class PartParsed
     @treatises = treatises
   end
 
-  attr_reader :title
-  attr_reader :prologue
-  attr_reader :treatises
+  attr_reader :title, :prologue, :treatises
 end

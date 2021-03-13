@@ -27,7 +27,7 @@ class QuestionParser
     start_index = question_text.index(/^  [A-Z][A-Z]/)
     end_index = question_text.index(/^\n/, start_index + 1)
     question_text[start_index..end_index].tr("\n", ' ').delete('_')
-                                         .gsub(/[ ]{2,}/, ' ').strip
+                                         .gsub(/ {2,}/, ' ').strip
   end
 
   def parse_content(question_text)

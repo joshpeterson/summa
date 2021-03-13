@@ -7,7 +7,5 @@ class QuestionParsed
     @articles = articles
   end
 
-  attr_reader :title
-  attr_reader :content
-  attr_reader :articles
+  attr_reader :title, :content, :articles
 end

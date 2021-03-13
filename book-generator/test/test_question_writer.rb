@@ -2,7 +2,7 @@
 
 gem 'minitest'
 require 'minitest/autorun'
-require_relative 'custom_assertions.rb'
+require_relative 'custom_assertions'
 require_relative '../generator/question_writer'
 
 class TestQuestionWriter < MiniTest::Test

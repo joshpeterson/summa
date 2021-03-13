@@ -41,12 +41,12 @@ summa.parts.each do |part|
   path.push(part_title)
   part.treatises.each do |treatise|
     treatise_title = TitleParser.format_title(treatise.title)
-    content = TreatiseWriter.write(treatise) + "\n\n"
+    content = "#{TreatiseWriter.write(treatise)}\n\n"
     treatise.questions.each do |question|
       question_title = TitleParser.format_title(question.title)
-      content += QuestionWriter.write(question_title, question.content) + "\n\n"
+      content += "#{QuestionWriter.write(question_title, question.content)}\n\n"
       question.articles.each do |article|
-        content += ArticleWriter.write(article) + "\n\n"
+        content += "#{ArticleWriter.write(article)}\n\n"
       end
     end
     write_to_file(markdown_filename_for(path, treatise_title), content)

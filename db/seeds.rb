@@ -8,7 +8,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-require_relative '../summa-parser/load.rb'
+require_relative '../summa-parser/load'
 
 include TitleParser
 
